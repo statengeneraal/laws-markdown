@@ -10,13 +10,13 @@
 
 ####Approval of Settlement Terms and Procedures
 
-The Parties to the present Agreement regard the provisions thereof and of the Annexes thereto as reasonable in the light of the general situation of the Federal Republic of Germany and as satisfactory and equitable to the interests concerned. They approve the settlement terms and procedures contained in the said Annexes.  
+The Parties to the present Agreement regard the provisions thereof and of the Annexes thereto as reasonable in the light of the general situation of the Federal Republic of Germany and as satisfactory and equitable to the interests concerned. They approve the settlement terms and procedures contained in the said Annexes. 
 
 ### Article  2  
 
 ####Implementation by the Federal Republic of Germany
 
-The Federal Republic of Germany will enact such legislation and take such administrative action as may be necessary to give effect to the present Agreement and the Annexes thereto and will modify or repeal such legislation and administrative measures as are inconsistent therewith.  
+The Federal Republic of Germany will enact such legislation and take such administrative action as may be necessary to give effect to the present Agreement and the Annexes thereto and will modify or repeal such legislation and administrative measures as are inconsistent therewith. 
 
 ### Article  3  
 
@@ -70,7 +70,7 @@ For the purposes of the present Agreement and of Annexes IX and X thereto only, 
 
 (b) are owed to a person who, whenever a proposal for settlement is made by the debtor or a request for settlement is made by the creditor under the present Agreement and the Annexes thereto, resides in or is a national of a creditor country; or  
 
-(c) arise out of marketable securities payable in a creditor country.     
+(c) arise out of marketable securities payable in a creditor country.    
 
 ### Article  5  
 
@@ -80,7 +80,7 @@ For the purposes of the present Agreement and of Annexes IX and X thereto only, 
 (2).  Consideration of claims arising out of the second World War by countries which were at war with or were occupied by Germany during that war, and by nationals of such countries, against the Reich and agencies of the Reich, including costs of German occupation, credits acquired during occupation on clearing accounts and claims against the Reichskreditkassen shall be deferred until the final settlement of the problem of reparation.   
 (3).  Consideration of claims, arising during the second World War, by countries which were not at war with or occupied by Germany during that war, and by nationals of such countries, against the Reich and agencies of the Reich, including credits acquired on clearing accounts, shall be deferred until the settlement of these claims can be considered in conjunction with the settlement of the claims specified in paragraph (2) of this Article (except in so far as they may be settled on the basis of, or in connexion with, agreements which have been signed by the Governments of the French Republic, the United Kingdom of Great Britain and Northern Ireland and the United States of America and the Government of any such country).   
 (4).  Claims against Germany of German nationals by countries which were, before 1st September, 1939, incorporated in, or which were, on or after 1st September, 1939, allied to, the Reich, and of nationals of such countries, arising out of obligations undertaken or rights acquired between the date of incorporation (or, in the case of countries allied to the Reich, 1st September, 1939) and 8th May, 1945, shall be dealt with in accordance with the provisions made or to be made in the relevant treaties. To the extent that, under the terms of such treaties, any such debts may be settled, the terms of the present Agreement shall apply.   
-(5).  The settlement of debts owed by the City of Berlin and by public utility enterprises owned or controlled by Berlin, and situated in Berlin, shall be deferred until such time as negotiations on the settlement of these debts are considered by the Governments of the French Republic, the United Kingdom of Great-Britain and Northern Ireland and the United States of America and by the Government of the Federal Republic of Germany and the Senat of Berlin to be practicable.   
+(5).  The settlement of debts owed by the City of Berlin and by public utility enterprises owned or controlled by Berlin, and situated in Berlin, shall be deferred until such time as negotiations on the settlement of these debts are considered by the Governments of the French Republic, the United Kingdom of Great-Britain and Northern Ireland and the United States of America and by the Government of the Federal Republic of Germany and the Senat of Berlin to be practicable.  
 
 ### Article  6  
 
@@ -90,7 +90,7 @@ The Federal Republic of Germany will:
 
 (a) make payments and transfers, in accordance with the provisions of the present Agreement and of the Annexes thereto, on the debts for which it is liable thereunder;  
 
-(b) permit the settlement and payment, in accordance with the provisions of the present Agreement and the Annexes thereto, of debts for which any person other than the Federal Republic of Germany is liable, and make provision for the transfer of payments on such debts as are settled, under the provisions of this Agreement and the Annexes thereto.    
+(b) permit the settlement and payment, in accordance with the provisions of the present Agreement and the Annexes thereto, of debts for which any person other than the Federal Republic of Germany is liable, and make provision for the transfer of payments on such debts as are settled, under the provisions of this Agreement and the Annexes thereto.   
 
 ### Article  7  
 
@@ -100,25 +100,25 @@ The Federal Republic of Germany will authorise payment of obligations outstandin
 
 (a) are non-contractual pecuniary obligations which originated before 8th May, 1945, and the amount of which was not fixed and due before that date, or  
 
-(b) are pecuniary obligations which arose out of contracts other than loan or credit contracts and which originated before 8th May, 1945, and became due on or after that day,   and provided that such obligations fulfil the conditions laid down in paragraphs (2) and (3) of Article 4.  
+(b) are pecuniary obligations which arose out of contracts other than loan or credit contracts and which originated before 8th May, 1945, and became due on or after that day,   and provided that such obligations fulfil the conditions laid down in paragraphs (2) and (3) of Article 4. 
 
 ### Article  8  
 
 ####Prohibition of Discriminatory Treatment
 
-The Federal Republic of Germany will not permit, nor will the creditor countries seek from the Federal Republic of Germany, either in the fulfilment of terms of settlement in accordance with the present Agreement and the Annexes thereto or otherwise, any discrimination or preferential treatment among the different categories of debts or as regards the currencies in which debts are to be paid or in any other respect. Differences in the treatment of different categories of debts resulting from settlement in accordance with the provisions of the present Agreement and the Annexes thereto shall not be considered discrimination or preferential treatment.  
+The Federal Republic of Germany will not permit, nor will the creditor countries seek from the Federal Republic of Germany, either in the fulfilment of terms of settlement in accordance with the present Agreement and the Annexes thereto or otherwise, any discrimination or preferential treatment among the different categories of debts or as regards the currencies in which debts are to be paid or in any other respect. Differences in the treatment of different categories of debts resulting from settlement in accordance with the provisions of the present Agreement and the Annexes thereto shall not be considered discrimination or preferential treatment. 
 
 ### Article  9  
 
 ####Treatment of Transfers as Payments for Current Transactions
 
-Transfers of interest and amortisation payments made under the present Agreement shall be treated as payments for current transactions and, where appropriate, provided for in any bilateral or multilateral arrangements relating to trade or payments between the Federal Republic of Germany and the creditor countries.  
+Transfers of interest and amortisation payments made under the present Agreement shall be treated as payments for current transactions and, where appropriate, provided for in any bilateral or multilateral arrangements relating to trade or payments between the Federal Republic of Germany and the creditor countries. 
 
 ### Article  10  
 
 ####Limitations on Payment
 
-The Federal Republic of Germany will, until the discharge or extinction of all obligations under the present Agreement and the Annexes thereto, ensure that payments will not be made in respect of obligations which, while covered by paragraphs (1) and (2) of Article 4, are owed to a Government other than that of a creditor country or to any person not residing in or a national of a creditor country and which are or were payable in a non-German currency. This provision does not apply to debts arising from marketable securities payable in a creditor country.  
+The Federal Republic of Germany will, until the discharge or extinction of all obligations under the present Agreement and the Annexes thereto, ensure that payments will not be made in respect of obligations which, while covered by paragraphs (1) and (2) of Article 4, are owed to a Government other than that of a creditor country or to any person not residing in or a national of a creditor country and which are or were payable in a non-German currency. This provision does not apply to debts arising from marketable securities payable in a creditor country. 
 
 ### Article  11  
 
@@ -138,7 +138,7 @@ The Federal Republic of Germany will, until the discharge or extinction of all o
 (c) Payments on debts with a currency option made, prior to the determination provided for in sub-paragraph (*a*) of this paragraph, in the currency of the country in which the loan was raised or from which the credit was advanced, shall not be affected by such determination.     
 (3).  The provisions of paragraphs (1) and (2) of this Article shall not apply to debts covered by paragraphs 2 and 3 of Annex I to the present Agreement.   
 (4).  Any payments agreements from time to time in force between the Government of the Federal Republic of Germany and the Government of a creditor country shall apply to payments on debts which are subject to the provisions of paragraphs (2) and (3) of this Article provided that these payments are due in the currency of the creditor country.   
-(5).  In the case of debts originating in business transactions of a registered branch office of a creditor, a condition of which was that payment should be made to the country where the branch office is located, such country shall be deemed to be the creditor country within the meaning of this Article.   
+(5).  In the case of debts originating in business transactions of a registered branch office of a creditor, a condition of which was that payment should be made to the country where the branch office is located, such country shall be deemed to be the creditor country within the meaning of this Article.  
 
 ### Article  12  
 
@@ -152,7 +152,7 @@ In the settlement and discharge of any debt denominated in a non-German currency
 
 (i) the equivalent in United States dollars of the nominal amount due shall be calculated at the rate of exchange on the date when the obligation was contracted or, in the case of a bonded debt, when the bonds were issued;  
 
-(ii) the dollar figure so calculated shall be converted into the currency in which the obligation is to be paid in accordance with Article 11 at the rate of exchange between the United States dollar and such currency on the date when the amount payable is due, except that if such rate of exchange is less favourable for the creditor than the rate of exchange between the United States dollar and such currency on 1st August, 1952, the conversion shall be made on the basis of the rate of exchange on 1st August, 1952.      
+(ii) the dollar figure so calculated shall be converted into the currency in which the obligation is to be paid in accordance with Article 11 at the rate of exchange between the United States dollar and such currency on the date when the amount payable is due, except that if such rate of exchange is less favourable for the creditor than the rate of exchange between the United States dollar and such currency on 1st August, 1952, the conversion shall be made on the basis of the rate of exchange on 1st August, 1952.     
 
 ### Article  13  
 
@@ -166,7 +166,7 @@ Wherever it is provided in the present Agreement and the Annexes thereto that an
 
 (c) if neither par values nor rates in bilateral payments agreements are or were in force on the appropriate date, the middle rate of exchange generally applicable for transactions ruling for cable transfers in the currency of the country in which payment is to be made in the principal exchange market of the other country on that date, or on the last date before that date on which such rate was ruling; or  
 
-(d) if there is or was no rate of exchange as specified under (*a*), (*b*) or (*c*) at the appropriate date, the cross-rate of exchange resulting from the middle rates of exchange ruling for the currencies in question in the principal exchange market of a third country dealing in those currencies on that date or the last date before the said date upon which such rates were ruling.    
+(d) if there is or was no rate of exchange as specified under (*a*), (*b*) or (*c*) at the appropriate date, the cross-rate of exchange resulting from the middle rates of exchange ruling for the currencies in question in the principal exchange market of a third country dealing in those currencies on that date or the last date before the said date upon which such rates were ruling.   
 
 ### Article  14  
 
@@ -174,7 +174,7 @@ Wherever it is provided in the present Agreement and the Annexes thereto that an
 
 (1).  The Federal Republic of Germany will take similar action to that provided for in paragraph 6 of Annex I to the present Agreement with respect to any Reichsmark debts for which it has assumed or may assume liability and which are not covered by that paragraph.   
 (2).  In application of the principle of national treatment, the Federal Republic of Germany will further ensure that debts arising from Reichsmark bonds, which are not Goldmark debts with a specific foreign character, and which were owed on 21st June, 1948, to persons who on that date were nationals of or residents in a creditor country, and payment on which under legislation in the currency area of the Deutschemark West can be enforced only for a proportionate part, will be met in the same manner as similar liabilities towards persons residing in the currency area of the Deutschemark West.   
-(3).  In the settlement of other debts payable in German currency and owed to nationals of creditor countries residing in the currency area of the Deutschemark West, the terms shall be not less favourable than those accorded to similar liabilities owed to any other persons residing in the said area.   
+(3).  In the settlement of other debts payable in German currency and owed to nationals of creditor countries residing in the currency area of the Deutschemark West, the terms shall be not less favourable than those accorded to similar liabilities owed to any other persons residing in the said area.  
 
 ### Article  15  
 
@@ -192,13 +192,13 @@ Wherever it is provided in the present Agreement and the Annexes thereto that an
 (b) The holder of a bond covered by Annex II of the present Agreement, in respect of which an offer of settlement is made, shall have a period of at least five years from the date when such offer is made to accept such offer. The debtor shall extend this period for a reasonable cause.     
 (3).  In the case of debts, other than those referred to in paragraph (2) *(a)* of this Article, the assent of the creditor to the establishment of terms of payment and other conditions within the meaning of paragraph (1) of this Article shall, where no definite requirement is laid down in any Annex to the present Agreement, be considered as effected if the creditor clearly indicates his assent in any manner.   
 (4).  A debtor shall be subject to the application of the procedures for settlement prescribed in the present Agreement and the relevant Annexes thereto in respect of a debt only when he has made a proposal for settlement, a notification of adherence or a declaration of participation in respect of such debt under the provisions of the relevant Annex to the present Agreement. Nothing in this paragraph shall, however, be deemed to affect the provisions of Article 17 of the present Agreement.   
-(5).  In giving effect to the provisions of Article 2 of the present Agreement, the Federal Republic of Germany shall be entitled to take into account the provisions of the foregoing paragraphs of this Article.   
+(5).  In giving effect to the provisions of Article 2 of the present Agreement, the Federal Republic of Germany shall be entitled to take into account the provisions of the foregoing paragraphs of this Article.  
 
 ### Article  16  
 
 ####Discharge of Debtors
 
-Whenever a debtor has discharged his debt as settled under the terms of the present Agreement and the Annexes thereto, he shall be deemed to have thereby also discharged all his obligations in respect of such debt as it existed before the settlement, unless such obligations have been previously extinguished by agreement.  
+Whenever a debtor has discharged his debt as settled under the terms of the present Agreement and the Annexes thereto, he shall be deemed to have thereby also discharged all his obligations in respect of such debt as it existed before the settlement, unless such obligations have been previously extinguished by agreement. 
 
 ### Article  17  
 
@@ -235,7 +235,7 @@ Whenever a debtor has discharged his debt as settled under the terms of the pres
 (b) If a debtor fails to effect adherence in accordance with Clause 22 of Annex III to the present Agreement, the creditor concerned shall, in any proceeding brought under paragraph (1) or (3) of this Article, be entitled to enforce his rights in accordance with the provisions of the said Annex, but, in the case of a debt owed by a German Commercial or Industrial Debtor within the meaning of the said Annex (whose debt is direct to the creditor), only after the expiration of thirty days after the first meeting of the Consultative Committee provided for in Clause 17 of the said Annex. When ordering payment of the debt in accordance with the said Annex, the court shall award to the creditor the costs of the proceeding and all reasonable costs and expenses incurred by him in such proceeding, to be paid by the debtor.  
 
 (c) A debtor who fails to make a declaration of participation required under Article 14 of Annex IV to the present Agreement shall not, in any proceeding in a German court brought under paragraph (1) or (3) of this Article, be entitled to the benefit of the provisions respecting hardship contained in Article 11 of that Annex. A failure based solely upon a denial of the existence of the debt shall not deprive the debtor of such benefit; provided, however, that if the Court of Law or Court of Arbitration referred to in Article 15 of Annex IV finds that such debt exists, the debtor shall not be entitled to benefit from such clause if he fails to make the required declaration within thirty days from the date of the service of the final decision of such court. In a proceeding under this sub-paragraph in which the debtor is not entitled to benefit from the hardship clause the court shall order the payment by the debtor of court costs and all reasonable fees of the plaintiff's counsel.     
-(7).  The Federal Republic of Germany will afford the creditor the right, within the limits of the present Agreement and the Annexes thereto, to enforce through German courts and authorities his claims against a person residing in the currency area of the Deutschemark East out of property owned by such person in the currency area of the Deutschemark West if the claims arise out of obligations which meet the requirements of Article 4 of the present Agreement except as to the residence of the debtor. The right to transfer in foreign currency any sums received by the creditor shall be subject to the foreign exchange regulations from time to time in force in the currency area of the Deutschemark West.   
+(7).  The Federal Republic of Germany will afford the creditor the right, within the limits of the present Agreement and the Annexes thereto, to enforce through German courts and authorities his claims against a person residing in the currency area of the Deutschemark East out of property owned by such person in the currency area of the Deutschemark West if the claims arise out of obligations which meet the requirements of Article 4 of the present Agreement except as to the residence of the debtor. The right to transfer in foreign currency any sums received by the creditor shall be subject to the foreign exchange regulations from time to time in force in the currency area of the Deutschemark West.  
 
 ### Article  18  
 
@@ -245,7 +245,7 @@ Whenever a debtor has discharged his debt as settled under the terms of the pres
 (2).  Without prejudice to the provisions of paragraph (1) of this Article, periods of prescription and preclusive periods of limitation referred to in paragraph (1) which are applicable to the bonded debts specified in Sections A and B of Annex I and to those covered by Annex II to the present Agreement shall not, for the purpose of a settlement, be deemed to have expired before the respective dates on which the offer of settlement made by the debtor ceases to be open for acceptance in accordance with the provisions of paragraph 8 (*b*) of Annex I and of Article 15 of the present Agreement.   
 (3).  The acceptance of an offer of settlement or an assent to a settlement by the creditor in respect of a debt in accordance with the provisions of Article 15 of the present Agreement shall effect an interruption of periods of prescription and preclusive periods of limitation for the assertion of a claim respecting such debt.   
 (4).  The periods referred to in paragraphs (1), (2) and (3) of this Article shall not include periods for the lodging of an appeal against the decision of a court, arbitral body or an administrative authority, periods covered by Section 12, paragraph 3, of the German Law on Insurance Contracts, or periods provided by the German Laws on the Validation of Bonds.   
-(5).  The above provisions shall apply whether the periods have been established by German or other law, by order of a court, of an arbitral body or of an administrative authority, by contract or other legal act. The Federal Republic of Germany will ensure that they are applied in German courts even though the obligation is one which, as to its content, is governed by foreign law.   
+(5).  The above provisions shall apply whether the periods have been established by German or other law, by order of a court, of an arbitral body or of an administrative authority, by contract or other legal act. The Federal Republic of Germany will ensure that they are applied in German courts even though the obligation is one which, as to its content, is governed by foreign law.  
 
 ### Article  19  
 
@@ -260,19 +260,19 @@ Whenever a debtor has discharged his debt as settled under the terms of the pres
 (c) Article 10 of Annex IV to the present Agreement (Payments into the Deutsche Verrechnungskasse);  
 
 (d) Sub-Annex to Annex IV to the present Agreement (Swiss Franc Land Charges);   shall be submitted by the Government of the Federal Republic of Germany (after its approval, where appropriate) for the approval of the Governments of the French Republic, the United Kingdom of Great Britain and Northern Ireland and the United States of America.   
-(2).  Each such agreement shall enter into force, and shall be treated for all purposes as an Annex to the present Agreement, when it is approved by these Governments. A notification to this effect shall be communicated to all the Parties to the present Agreement by the Government of the United Kingdom of Great Britain and Northern Ireland.   
+(2).  Each such agreement shall enter into force, and shall be treated for all purposes as an Annex to the present Agreement, when it is approved by these Governments. A notification to this effect shall be communicated to all the Parties to the present Agreement by the Government of the United Kingdom of Great Britain and Northern Ireland.  
 
 ### Article  20  
 
 ####Reich Debts owing under Multilateral Agreements
 
-Payments in respect of debts of the Reich or of an agency of the Reich arising out of unpaid contributions or services rendered under the terms of multilateral international agreements or of the statutes of an international organisation are not prohibited by the terms of the present Agreement. The Government of the Federal Republic of Germany will, at the request of the interested creditors, enter into direct negotiations with regard to these debts.  
+Payments in respect of debts of the Reich or of an agency of the Reich arising out of unpaid contributions or services rendered under the terms of multilateral international agreements or of the statutes of an international organisation are not prohibited by the terms of the present Agreement. The Government of the Federal Republic of Germany will, at the request of the interested creditors, enter into direct negotiations with regard to these debts. 
 
 ### Article  21  
 
 ####Renewal of Annex III Agreement
 
-Annex III to the present Agreement shall be treated as including any agreement or agreements which may be entered into after the date of the present Agreement for the purpose of renewing the agreement contained in that Annex, Any such agreement may contain modifications of the provisions of Annex III but shall be designed to establish means for the restoration of normal conditions for financing the foreign trade of the Federal Republic of Germany in accordance with the general purposes of the present Agreement.  
+Annex III to the present Agreement shall be treated as including any agreement or agreements which may be entered into after the date of the present Agreement for the purpose of renewing the agreement contained in that Annex, Any such agreement may contain modifications of the provisions of Annex III but shall be designed to establish means for the restoration of normal conditions for financing the foreign trade of the Federal Republic of Germany in accordance with the general purposes of the present Agreement. 
 
 ### Article  22  
 
@@ -280,21 +280,21 @@ Annex III to the present Agreement shall be treated as including any agreement o
 
 (1).  The Government of the Federal Republic of Germany will enter into negotiations with the Governments of the creditor countries concerned, with a view to the settlement of social insurance claims arising under the German laws and regulations in force prior to 8th May, 1945, in respect of any period prior to 8th May, 1945, in so far as such claims are to be considered, under the legislation of, or in accordance with undertakings given by, the Federal Republic of Germany, as its liabilities or as liabilities of social insurance institutions in the Federal territory and have not already been dealt with in an agreement with the Government of the creditor country concerned. Nothing in this paragraph is to prevent the inclusion in such agreements of provisions to the effect that any laws or regulations in force in the Federal Republic of Germany with respect to social insurance, which provide for less favourable treatment for the nationals of other countries than for German nationals, shall not be applied.   
 (2).  The Federal Republic of Germany will provide for the settlement of, and for the transfer in respect of, claims referred to in the preceding paragraph but not covered by agreements with Governments of creditor countries, provided such claims are due to persons who are nationals of, or reside in, a creditor country from which payments on similar claims are transferable to persons who are nationals of, or reside in, the Federal Republic of Germany. Any laws or regulations in force in the Federal Republic of Germany with respect to social insurance, which provide for less favourable treatment for the nationals of other countries than for German nationals, shall not be applied if the creditor country concerned does not discriminate in respect of social insurance payments between its nationals and German nationals or between persons residing in that country and persons residing in the Federal Republic of Germany.   
-(3).  Claims referred to in paragraph (1) of this Article arising from social insurance services which are due to persons who are nationals of, or reside in, a creditor country and are not settled under paragraph (1) or in accordance with paragraph (2) of this Article shall be settled pursuant to the provisions of Article 28 of Annex IV to the present Agreement.   
+(3).  Claims referred to in paragraph (1) of this Article arising from social insurance services which are due to persons who are nationals of, or reside in, a creditor country and are not settled under paragraph (1) or in accordance with paragraph (2) of this Article shall be settled pursuant to the provisions of Article 28 of Annex IV to the present Agreement.  
 
 ### Article  23  
 
 ####Insurance Debts
 
 (1).  Where, in bilateral arrangements concluded in implementation of Article 30, paragraph (1) of Annex IV to the present Agreement, provision is made for the transfer of payments or for payment in Deutschemarks of debts arising out of insurance or reinsurance contracts or agreements of any kind, or in connexion with such contracts or agreements, such provision shall be consistent with the provisions governing the settlement of other types of debts.   
-(2).  Where no bilateral arrangements have been concluded by 30th June, 1953, debts arising out of insurance and reinsurance contracts shall be settled pursuant to the provisions of Article 30, paragraph (2), and Article 31 respectively of Annex IV to the present Agreement. The time-limit of 30th June, 1953, may by mutual agreement be extended. The most favourable terms contained in any of the bilateral arrangements concluded under paragraph (1) of this Article for the transfer of payments or for payment in Deutschemarks of any category of debt shall be applicable to debts in the same category owed to creditors resident in countries with which bilateral arrangements will not have been concluded.   
+(2).  Where no bilateral arrangements have been concluded by 30th June, 1953, debts arising out of insurance and reinsurance contracts shall be settled pursuant to the provisions of Article 30, paragraph (2), and Article 31 respectively of Annex IV to the present Agreement. The time-limit of 30th June, 1953, may by mutual agreement be extended. The most favourable terms contained in any of the bilateral arrangements concluded under paragraph (1) of this Article for the transfer of payments or for payment in Deutschemarks of any category of debt shall be applicable to debts in the same category owed to creditors resident in countries with which bilateral arrangements will not have been concluded.  
 
 ### Article  24  
 
 ####Application of Agreement to Berlin
 
 (1).  Subject to the provisions of paragraph (2) (*b*) of Article 4 and of paragraph (5) of Article 5, the present Agreement shall apply to Berlin which shall, within the limits of its jurisdiction, implement undertakings corresponding to those of the Federal Republic of Germany under the present Agreement and the Annexes thereto.   
-(2).  The present Agreement shall enter into force as to Berlin, on or after its entry into force in accordance with paragraph (2) of Article 35, when the Government of the Federal Republic of Germany deposits with the Government of the United Kingdom of Great Britain and Northern Ireland a statement that all legal procedures in Berlin necessary for the application of the present Agreement to Berlin have been complied with.   
+(2).  The present Agreement shall enter into force as to Berlin, on or after its entry into force in accordance with paragraph (2) of Article 35, when the Government of the Federal Republic of Germany deposits with the Government of the United Kingdom of Great Britain and Northern Ireland a statement that all legal procedures in Berlin necessary for the application of the present Agreement to Berlin have been complied with.  
 
 ### Article  25  
 
@@ -306,19 +306,19 @@ The Parties to the present Agreement will review the present Agreement on the re
 
 (b) making the provisions of the present Agreement applicable to the debts of persons residing in the area reunited with the Federal Republic of Germany; and  
 
-(c) making equitable adjustments in respect of debts in the settlement of which consideration is given to the loss of or inability to use assets located in the area reunited with the Federal Republic of Germany.    
+(c) making equitable adjustments in respect of debts in the settlement of which consideration is given to the loss of or inability to use assets located in the area reunited with the Federal Republic of Germany.   
 
 ### Article  26  
 
 ####Prior Agreements
 
-Nothing in the present Agreement shall be deemed to affect the validity of any Agreement, respecting the settlement of obligations, entered into by the Government of the Federal Republic of Germany before the entry into force of the present Agreement.  
+Nothing in the present Agreement shall be deemed to affect the validity of any Agreement, respecting the settlement of obligations, entered into by the Government of the Federal Republic of Germany before the entry into force of the present Agreement. 
 
 ### Article  27  
 
 ####Text of Agreement to Prevail
 
-In the event of any inconsistency between the provisions of the present Agreement and the provisions of any of the Annexes thereto, the provisions of the Agreement shall prevail.  
+In the event of any inconsistency between the provisions of the present Agreement and the provisions of any of the Annexes thereto, the provisions of the Agreement shall prevail. 
 
 ### Article  28  
 
@@ -340,7 +340,7 @@ In the event of any inconsistency between the provisions of the present Agreemen
 (c) in an appeal under paragraph (4) of this Article shall be final and binding upon the party or parties to such appeal.     
 (9).  The jurisdiction of the Tribunal shall not be affected by the failure of any party to a dispute to enter an appearance in the proceeding before the Tribunal.   
 (10).  Any arbitral body, other than the Tribunal, established under the present Agreement or the Annexes thereto, shall, in reaching decisions respecting the interpretation or application of the present Agreement or the Annexes thereto, be bound by any relevant decision of the Tribunal.   
-(11).  If any Party to the present Agreement so requests, the Tribunal shall render an advisory opinion regarding the interpretation or application of the present Agreement (except with respect to the interpretation or application of Article 34). Such advisory opinion shall not have binding effect.   
+(11).  If any Party to the present Agreement so requests, the Tribunal shall render an advisory opinion regarding the interpretation or application of the present Agreement (except with respect to the interpretation or application of Article 34). Such advisory opinion shall not have binding effect.  
 
 ### Article  29  
 
@@ -358,7 +358,7 @@ In the event of any inconsistency between the provisions of the present Agreemen
 (4).  If the two arbitrators fail, within thirty days of the date of the appointment of the arbitrator last appointed, to agree upon a Chairman, he shall, at the request of either of the two arbitrators, be appointed by the International Chamber of Commerce. The qualification as to nationality provided in paragraph (2) *(c)* of this Article shall apply to such appointment.   
 (5).  In the event of any vacancy caused by the death, illness, withdrawal or failure of a member of a Court of Arbitration to carry out his duties, such vacancy shall be filled, in the same manner as the original appointment, within thirty days of the occurrence of such vacancy.   
 (6).  A Court of Arbitration shall determine its own rules of procedure. In the absence of such determination, or in respect of matters not covered by such determination, the Arbitration Code of the International Chamber of Commerce shall apply.   
-(7).  The decision of a Court of Arbitration as to the conversion which is the subject of the arbitration proceeding shall be binding on the parties to the proceeding as to the terms of the offer of settlement and the creditors' representative shall recommend to the bondholders the acceptance of the offer, provided that such offer meets the other requirements laid down in Annex I to the present Agreement.   
+(7).  The decision of a Court of Arbitration as to the conversion which is the subject of the arbitration proceeding shall be binding on the parties to the proceeding as to the terms of the offer of settlement and the creditors' representative shall recommend to the bondholders the acceptance of the offer, provided that such offer meets the other requirements laid down in Annex I to the present Agreement.  
 
 ### Article  30  
 
@@ -367,7 +367,7 @@ In the event of any inconsistency between the provisions of the present Agreemen
 (1).  The Arbitration and Mediation Committee established pursuant to Article IX of Annex II to the present Agreement shall serve notice upon the trustee of a bonded debt to which the said Annex applies of any proceeding concerning the settlement of such debt which is pending before it. The trustee may, within twenty days after the service of such notice, become a party to such proceeding.   
 (2).  In order to assist the trustee of a bonded debt in the discharge of any responsibilities which such trustee may have to holders of such debt, the debtor, at the time it submits to the creditors' representative any proposed offer of settlement pursuant to Article VII of Annex II to the present Agreement shall likewise submit a copy thereof to the trustee of such debt. The trustee may communicate to the debtor and to the creditors' representative any objection which it may have to the terms of the offer under negotiation, which objection shall be submitted for consideration in such negotiations.   
 (3).  Prior to entering into any definitive agreement with the creditors' representative on the terms of the offer of settlement the debtor shall notify the trustee in writing of the terms of such offer of settlement. Within ten days after receipt of such notice the trustee shall have the right to refer to the Arbitration and Mediation Committee any objection which such trustee may have to the terms of the offer of settlement regarding any matter in respect of which, under the terms of the existing indenture, the trustee shall determine, in the exercise of its discretion, that it has responsibility to holders of such bonded debt. The Arbitration and Mediation Committee shall serve notice upon the creditors' representative and the debtor of the institution of such proceeding. The creditors' representative and the debtor may also become parties to the proceeding by entering an appearance within twenty days after the service of such notice. The jurisdiction of the Arbitration and Mediation Committee with respect to such proceeding shall not be affected by the failure of the creditors' representative or of the debtor to enter an appearance in such proceeding. If there is no reference to arbitration within the ten-day period provided for above, the debtor may enter into the proposed agreement with the creditors' representative.   
-(4).  A decision of the Arbitration and Mediation Committee in a proceeding pursuant to paragraph (3) of this Article shall be binding upon the creditors' representative and the debtor to the same extent as is provided in the second sub-paragraph of paragraph 1 of Article IX of Annex II to the present Agreement. In any proceeding to which a trustee becomes a party pursuant to paragraph (1) or (3) of this Article, such trustee shall have the same rights as any other party thereto.   
+(4).  A decision of the Arbitration and Mediation Committee in a proceeding pursuant to paragraph (3) of this Article shall be binding upon the creditors' representative and the debtor to the same extent as is provided in the second sub-paragraph of paragraph 1 of Article IX of Annex II to the present Agreement. In any proceeding to which a trustee becomes a party pursuant to paragraph (1) or (3) of this Article, such trustee shall have the same rights as any other party thereto.  
 
 ### Article  31  
 
@@ -393,7 +393,7 @@ In the event of any inconsistency between the provisions of the present Agreemen
 (d) upon a Court of Arbitration by or from which a question is referred under paragraph (2) *(b)* of this Article;  
 
 (e) if a term of settlement of a debt was the subject of the proceeding, in respect of such term of settlement.     
-(7).  A Party to the present Agreement shall be entitled to appeal from a decision of the Mixed Commission to the Tribunal within thirty days of the date of the delivery of the decision on the ground that such decision concerns a matter of general or fundamental importance. The appeal shall be brought only with respect to any matter in such decision which is asserted by the appellant to be of general or fundamental importance. When the Tribunal has rendered its decision with respect to any such matter the Mixed Commission shall take any action in connexion with the proceeding giving rise to the appeal which may be necessary to give effect to such decision.   
+(7).  A Party to the present Agreement shall be entitled to appeal from a decision of the Mixed Commission to the Tribunal within thirty days of the date of the delivery of the decision on the ground that such decision concerns a matter of general or fundamental importance. The appeal shall be brought only with respect to any matter in such decision which is asserted by the appellant to be of general or fundamental importance. When the Tribunal has rendered its decision with respect to any such matter the Mixed Commission shall take any action in connexion with the proceeding giving rise to the appeal which may be necessary to give effect to such decision.  
 
 ### Article  32  
 
@@ -426,13 +426,13 @@ In the event of any inconsistency between the provisions of the present Agreemen
 (5).  A Court of Arbitration may determine the manner in which the costs of the proceeding, including counsel's fees, are to be borne and, in an appeal under paragraph (2) of this Article, which party shall bear the costs of the proceeding in the German Court or how such costs should be apportioned between the parties. In the absence of such determination each party to the proceeding shall bear its own costs; the costs in the Court of Arbitration and, if applicable, the costs in the German Court, shall be borne as to the one half by the creditor or creditors and as to the other half by the debtor or debtors.   
 (6).  A proceeding pending before a Court of Arbitration may be withdrawn only with the consent of all parties thereto.   
 (7).  Subject to the provisions of this Article and of Article 17 of Annex IV to the present Agreement, a Court of Arbitration shall determine its own rules of procedure. In the absence of such determination, or in respect of matters not covered by such determination, the Arbitration Code of the International Chamber of Commerce shall apply.   
-(8).  The decision of a Court of Arbitration in any proceeding shall be final and binding upon the parties thereto.   
+(8).  The decision of a Court of Arbitration in any proceeding shall be final and binding upon the parties thereto.  
 
 ### Article  33  
 
 ####Matters arising in Deconcentration Proceedings
 
-Matters of which disposition is specifically made in a plan approved, or an order or regulation issued, by the Allied High Commission or any of its subordinate agencies designated by it to act with respect to such matters, or any agency succeeding to the powers of the Allied High Commission with respect thereto, under Allied High Commission Laws No. 27 (Reorganisation of German Coal and Iron and Steel Industries) and No. 35 (Dispersion of Assets of I.G. Farbenindustrie A.G.) shall not be heard by the Tribunal or by any other arbitral body established under the present Agreement and the Annexes thereto. In any such disposition the creditor and debtor, the Allied authorities and the Board of Review shall apply the provisions of the present Agreement and the Annexes thereto. Before any plan can be approved or any order or regulation issued disposing of any matter which is in dispute by reason of a question of interpretation or application of the provisions of the present Agreement or the Annexes thereto, such dispute shall be referred to and be decided by the Tribunal or other arbitral body which is competent under the present Agreement and the Annexes thereto. The competence of the Tribunal or of any other arbitral body established under the present Agreement or the Annexes thereto with respect to matters which are not specifically disposed of under a plan, order or regulation as aforesaid or which arise by reason of events subsequent to the entry into effect of such plan, order or regulation shall not be affected by the preceding provisions of this Article.  
+Matters of which disposition is specifically made in a plan approved, or an order or regulation issued, by the Allied High Commission or any of its subordinate agencies designated by it to act with respect to such matters, or any agency succeeding to the powers of the Allied High Commission with respect thereto, under Allied High Commission Laws No. 27 (Reorganisation of German Coal and Iron and Steel Industries) and No. 35 (Dispersion of Assets of I.G. Farbenindustrie A.G.) shall not be heard by the Tribunal or by any other arbitral body established under the present Agreement and the Annexes thereto. In any such disposition the creditor and debtor, the Allied authorities and the Board of Review shall apply the provisions of the present Agreement and the Annexes thereto. Before any plan can be approved or any order or regulation issued disposing of any matter which is in dispute by reason of a question of interpretation or application of the provisions of the present Agreement or the Annexes thereto, such dispute shall be referred to and be decided by the Tribunal or other arbitral body which is competent under the present Agreement and the Annexes thereto. The competence of the Tribunal or of any other arbitral body established under the present Agreement or the Annexes thereto with respect to matters which are not specifically disposed of under a plan, order or regulation as aforesaid or which arise by reason of events subsequent to the entry into effect of such plan, order or regulation shall not be affected by the preceding provisions of this Article. 
 
 ### Article  34  
 
@@ -442,7 +442,7 @@ In the interest of the continuing and effectual carrying out of the present Agre
 
 (a) consultations will be held between the Parties to the present Agreement principally concerned, if the Government of the Federal Republic of Germany or the Government of any of the creditor countries holding a substantial share of the debts covered by this Agreement so requests. Any Party to the present Agreement shall have the right to participate in these consultations, and if it participates it may invite representatives of the interested creditors or debtors of its country to attend;  
 
-(b) if the consultations are concerned with a situation in which the Federal Republic of Germany finds that it is faced with difficulties in carrying out its external obligations, attention shall be given to all relevant economic, financial and monetary considerations which relate to the ability to transfer of the Federal Republic of Germany, as influenced by both internal and external factors, and which relate to the continuing fulfilment by the Federal Republic of its obligations under the present Agreement and the Annexes thereto and under the Agreements concerning post-war economic assistance. Due regard will be paid to the principles by which the Conference on German External Debts was guided, to the objectives at which it aimed and to the undertaking of the Government of the Federal Republic of Germany to do everything in its power to ensure the fulfilment of these obligations. Advice shall, if the principal consulting Parties to the present Agreement so decide, be sought from appropriate international organisations or other independent experts. A request for such advice may be made by the Federal Republic of Germany or by any of the Parties to the present Agreement principally concerned.    
+(b) if the consultations are concerned with a situation in which the Federal Republic of Germany finds that it is faced with difficulties in carrying out its external obligations, attention shall be given to all relevant economic, financial and monetary considerations which relate to the ability to transfer of the Federal Republic of Germany, as influenced by both internal and external factors, and which relate to the continuing fulfilment by the Federal Republic of its obligations under the present Agreement and the Annexes thereto and under the Agreements concerning post-war economic assistance. Due regard will be paid to the principles by which the Conference on German External Debts was guided, to the objectives at which it aimed and to the undertaking of the Government of the Federal Republic of Germany to do everything in its power to ensure the fulfilment of these obligations. Advice shall, if the principal consulting Parties to the present Agreement so decide, be sought from appropriate international organisations or other independent experts. A request for such advice may be made by the Federal Republic of Germany or by any of the Parties to the present Agreement principally concerned.   
 
 ### Article  35  
 
@@ -450,37 +450,37 @@ In the interest of the continuing and effectual carrying out of the present Agre
 
 (1).  Each of the Governments signatory to the present Agreement shall, after having ratified or approved the Agreement in accordance with its constitutional requirements, deposit with the Government of the United Kingdom of Great Britain and Northern Ireland an instrument of ratification or a notification that the Agreement has been approved.   
 (2).  The present Agreement shall enter into force immediately upon the deposit by the Government of the Federal Republic of Germany and the Governments of the French Republic, the United Kingdom of Great Britain and Northern Ireland and the United States of America with the Government of the United Kingdom of Great Britain and Northern Ireland of the instrument of ratification or of the notification required under paragraph (1) of this Article. Such entry into force shall be effective as to all Governments signatory to the Agreement which have at that time deposited the required instrument of ratification or notification. The Government of the United Kingdom of Great Britain and Northern Ireland shall notify each of the Governments signatory to the Agreement of the date of its entry into force and of the Governments in respect of which it enters into force.   
-(3).  The date of the entry into force of the present Agreement in respect of any signatory Government which deposits the required instrument of ratification or notification after the entry into force of the Agreement under the preceding paragraph shall be the date of such deposit. The Government of the United Kingdom of Great Britain and Northern Ireland shall notify the other signatory Governments, and any Government which has acceded to the present Agreement under Article 36, of such deposit and the date thereof.   
+(3).  The date of the entry into force of the present Agreement in respect of any signatory Government which deposits the required instrument of ratification or notification after the entry into force of the Agreement under the preceding paragraph shall be the date of such deposit. The Government of the United Kingdom of Great Britain and Northern Ireland shall notify the other signatory Governments, and any Government which has acceded to the present Agreement under Article 36, of such deposit and the date thereof.  
 
 ### Article  36  
 
 ####Accession
 
 (1).  Any Government which has been invited by the Governments of the French Republic, the United Kingdom of Great Britain and Northern Ireland and the United States of America, or by any of them, and by the Government of the Federal Republic of Germany to sign the present Agreement may either sign or accede thereto in accordance with the terms of its invitation. Any other Government which may, after the entry into force of the present Agreement, establish diplomatic relations with the Federal Republic of Germany, may accede thereto. Accession shall be accomplished by the deposit of an instrument of accession with the Government of the United Kingdom of Great Britain and Northern Ireland, which shall notify the other signatory and acceding Governments of such deposit and the date thereof.   
-(2).  The present Agreement shall come into force for any acceding Government on the deposit of its instrument of accession, but not before it comes into force in accordance with Article 35.   
+(2).  The present Agreement shall come into force for any acceding Government on the deposit of its instrument of accession, but not before it comes into force in accordance with Article 35.  
 
 ### Article  37  
 
 ####Extension of Agreement to certain Territories
 
 (1).  Any Government may, at the time of its signature or accession or at any time thereafter, declare by notification given to the Government of the United Kingdom of Great Britain and Northern Ireland that the present Agreement shall, as from the date specified in such notification, extend to all or any of the territories for whose international relations it is responsible.   
-(2).  The Government of the United Kingdom of Great Britain and Northern Ireland shall inform all signatory and acceding Governments of any notification received by it under this Article.   
+(2).  The Government of the United Kingdom of Great Britain and Northern Ireland shall inform all signatory and acceding Governments of any notification received by it under this Article.  
 
 ### Article  38  
 
 ####Reservations and Qualifications
 
 (1).  Any Government which deposits an instrument of ratification or a notification of approval or an instrument of accession to the present Agreement other than in accordance with the terms of its invitation or subject to any other reservation or qualification shall not be deemed to be a Party to the Agreement until such reservation or qualification has been withdrawn or has been accepted by all the Parties thereto.   
-(2).  Any notification given under Article 37 subject to a reservation or qualification shall not take effect until such qualification or reservation has been withdrawn or has been accepted by all the Parties to the present Agreement.   
+(2).  Any notification given under Article 37 subject to a reservation or qualification shall not take effect until such qualification or reservation has been withdrawn or has been accepted by all the Parties to the present Agreement.  
 
 (Note. *The headings given to the Articles of the Agreement are for reference only and are not intended in any way to govern the construction of the Agreement.*) In witness whereof the undersigned, having been duly authorised thereto by their respective Governments, have signed the present Agreement, to which are attached Annexes I to X inclusive. Done at London this twenty-seventh day of February, nineteen hundred and fifty-three, in three original texts, in the English, French and German languages respectively, all three texts being equally authoritative, which shall be deposited in the archives of the Government of the United Kingdom of Great Britain and Northern Ireland which shall transmit certified copies thereof to each signatory and acceding Government.  
 
-### ANNEX  I  
+### ANNEX   I  
 
 (Note: *The text reproduced hereunder is the text of Appendix 3 to the Report of the Conference on German External Debts with such changes as were required to achieve uniformity in the three languages. Supplementary understandings reached by the parties with respect to this Annex after the close of the Conference are attached hereto as Sub-Annexes A to E.*) 
 ### *Agreed Recommendations for the Settlement of Reich debts and debts of other public authorities* 
 
-###A. *Debts of the Reich*
+###A. *Debts of the Reich* 
 
 The Government of the Federal Republic of Germany (hereafter referred to as the Federal Government) will undertake to offer to the Bondholders to pay and transfer the following amounts: 
 
@@ -506,7 +506,7 @@ The Government of the Federal Republic of Germany (hereafter referred to as the 
 
 (c) The maturity date shall be extended to the year 1980.  
 
-(d) Arrears of interest outstanding shall be recalculated at 4½ per cent. simple interest and in respect of the resulting total the Federal Government will issue 20-year Bonds carrying 3 per cent. per annum interest and after 5 years 1 per cent. sinking fund. On Bonds for so much as represents arrears due to 31st December, 1944, payment will be made as from 15th April, 1953. Bonds for the balance will not be issued until the unification of Germany, when payment on these Bonds will begin. <sup> (1)  It has now been agreed that the second sentence of paragraph 2 *(d)* shall read as follows:   “On bonds for so much as represents arrears due to 31st December, 1944, payment of a first coupon representing six months' interest will be made on 1st June, 1953.”  </sup>  
+(d) Arrears of interest outstanding shall be recalculated at 4½ per cent. simple interest and in respect of the resulting total the Federal Government will issue 20-year Bonds carrying 3 per cent. per annum interest and after 5 years 1 per cent. sinking fund. On Bonds for so much as represents arrears due to 31st December, 1944, payment will be made as from 15th April, 1953.<sup> (1)  It has now been agreed that the second sentence of paragraph 2 *(d)* shall read as follows: “On bonds for so much as represents arrears due to 31st December, 1944, payment of a first coupon representing six months' interest will be made on 1st June, 1953.” </sup>Bonds for the balance will not be issued until the unification of Germany, when payment on these Bonds will begin.  
 
 (e) The amounts due in respect of the various issues of the 5½ per cent. International Loan 1930 are payable only in the currency of the country in which the issue was made. In view of the present economic and financial position in Germany, it is agreed that the basis for calculating the amount of currency so payable shall be the amount in U.S. dollars to which the payment due in the currency of the country in which the issue was made would have been equivalent at the rates of exchange ruling when the Loan was issued. The nominal amount in U.S. dollars so arrived at will then reconverted into the respective currencies at the rate of exchange current on 1st August, 1952. Should the rates of exchange ruling any of the currencies of issue on 1st August, 1952, alter thereafter by 5 per cent. or more, the instalments due after that date, while still being made in the currency of the country of issue, shall be calculated on the basis of the least depreciated currency (in relation to the rate of exchange current on 1st August, 1952) reconverted into the currency of issue at the rate of exchange current when the payment in question becomes due.  
 
@@ -555,7 +555,7 @@ The Government of the Federal Republic of Germany (hereafter referred to as the 
 (c) if the law mentioned in paragraph *(b)* above is not promulgated before 1st January, 1954, or does not cover all categories of debts, to open before 1st April, 1954, negotiations with the foreign creditors' representatives in course of which these representatives reserve the right to ask for a special settlement of these debts. The present undertaking applies to all Reichsmark debts of the Reich, the Reichsbahn and the Reichspost whether represented by Bonds (Treasury Bills, obligations of the Ablösungsanleihen, &c.) or not so represented.  
 
 (d) The Federal Government further undertakes to extend the same treatment to the future service of the Reichsmark liabilities of the State of Prussia.     
-###B. *External Bonds issued or guaranteed by the States (Länder), Municipalities and similar public bodies within the territory of the Federal Republic of Germany*
+###B. *External Bonds issued or guaranteed by the States (Länder), Municipalities and similar public bodies within the territory of the Federal Republic of Germany* 
 
 7. The respective debtors shall pay to be transferred by the Federal Government the following amounts: 
 
@@ -583,7 +583,7 @@ The Government of the Federal Republic of Germany (hereafter referred to as the 
 
 (i) Where the remaining capital amount of the total of all bond issues in foreign currency of a particular debtor is small, the debtor may offer an earlier repayment and final settlement of the entire amount of such indebtedness and arrears of interest without regard to the limitations and provisions under *(d)* above relative to the prolongation of the indebtedness.  
 
-(j) All corporate obligations guaranteed by a State, city, municipality or other governmental body shall be settled in accordance with “Agreed Recommendations for the Settlement of Medium and Long-Term German Debts resulting from private capital transactions” (Annex II) provided that such guarantees shall continue in force in accordance with its terms. <sup> (1)  See Annex VII.  </sup>    
+(j) All corporate obligations guaranteed by a State, city, municipality or other governmental body shall be settled in accordance with “Agreed Recommendations for the Settlement of Medium and Long-Term German Debts resulting from private capital transactions” (Annex II) provided that such guarantees shall continue in force in accordance with its terms. <sup> (1)  See Annex VII. </sup>     
 
 (2)  *Bonds of the State of Prussia*  The Federal Government, on behalf of the several Länder which succeeded to territory and assets formerly belonging to the State of Prussia, shall make payments as follows: 
 
@@ -599,10 +599,10 @@ The Government of the Federal Republic of Germany (hereafter referred to as the 
 
 (b) As to the 4½ per cent. Swedish Crown Bonds of the Lübeck State Loan of 1923, taken over by the State of Prussia in 1938: The outstanding bonds of this loan, for which notice of repayment was given for 1st May - 1st November, 1944, will be redeemed upon presentation at the current rate of exchange, subject to a discount of 50 per cent. of the nominal amount and without payment of any arrears of interest.    
 
-(3) *Non-Bonded Indebtedness* (other than that covered by Annex IV) The terms of paragraph 7 (1) will apply, *mutatis mutandis,* service starting from 1st January, 1953. In the settlement of Mark claims regard will be had to the relevant provisions of Annex IV to the Agreement on German External Debts.     
-###C. *General Provisions*
+(3)  *Non-Bonded Indebtedness* (other than that covered by Annex IV) The terms of paragraph 7 (1) will apply, *mutatis mutandis,* service starting from 1st January, 1953. In the settlement of Mark claims regard will be had to the relevant provisions of Annex IV to the Agreement on German External Debts.     
+###C. *General Provisions* 
 
-8.  *Procedure for carrying out these proposals*    
+8.  * Procedure for carrying out these proposals*    
 
 (a) The terms of the proposals may be enfaced on existing bonds or new bonds issued in exchange for existing bonds, and new bonds or fractional scrip issued for arrears of interest, depending upon the convenience and custom prevailing in the several markets in which the bonds were originally issued. Such enfaced bonds or new bonds will conform to prevailing market practice. The debtors at their own expense will employ suitable banking institutions for the purposes of carrying out the details of the proposal. The debtors at their own expense will meet all requirements of governmental authorities and securities markets in order to ensure maximum marketability.   
 ### *Term of Offer* 
@@ -622,7 +622,7 @@ The Government of the Federal Republic of Germany (hereafter referred to as the 
 (f) The Federal Government undertakes to do all in its power in order to establish, on the basis of the German Validation Law passed by its Parliament and about to be enacted, an appropriate procedure for the validation of German foreign currency bonds, which procedure shall be effective in the several creditor countries as soon as possible but not later than on 1st February, 1953. Payment on bonds or coupons which require validation under the German validation procedure shall not be made until such bonds or coupons shall have been validated pursuant thereto.   
 
 9. The Bondholders' Councils concerned or analogous bodies will recommend these terms to the acceptance of their Bondholders.   
-###D. *Claims arising out of awards of Mixed Claims Tribunals*
+###D. *Claims arising out of awards of Mixed Claims Tribunals* 
 
 10.  *Mixed Claims Bonds*  The German Delegation on External Debts, on the one hand, and the representatives of the American Awardholder Committee Concerning Mixed Claims Bonds on the other hand, have agreed as follows: The Federal Republic of Germany will propose to the Government of the United States of America and the Awardholders' Committee will recommend to the Government of the United States and to the individual awardholders the settlement on the following terms of the obligation of the Federal Republic of Germany to the United States on behalf of private United States nationals for whose benefit Mixed Claims Bonds were issued by Germany in 1930 and which bonds are in default: 
 
@@ -646,7 +646,7 @@ Payment will be made in United States currency dollars to the United States for 
 (5) Full performance of this Agreement by the Federal Republic and by any successor Government and payment of the amounts due under this Agreement shall constitute fulfilment by the Federal Republic and by any successor Government and full discharge of each of them of their respective obligations under the Agreement of 23rd June, 1930, and Bonds issued pursuant thereto in respect of awards of the Mixed Claims Commission, United States and Germany made on behalf of nationals of the United States, anything in the exchange of letters of 23rd October, 1950, and 6th March, 1951, between Chancellor Adenauer and the Allied High Commissioners for Germany or in the memorandum of December 1951 prepared by the Tripartite Commission to the contrary notwithstanding.    
 
 11.  *Græco-German Arbitral Tribunal Claims*  A preliminary exchange of views has taken place between the Greek and German Delegations in regard to claims held by private persons arising out of decisions of the Mixed Graeco-German Arbitral Tribunal established after the First World War. This will be followed by further discussions, the result of which, if approved, should be covered in the Intergovernmental Agreement.   
-###E. *Miscellaneous*
+###E. *Miscellaneous* 
 
 The following settlements are recommended: 
 
@@ -680,13 +680,13 @@ The following settlements are recommended:
 
 15.  *Liability in respect of Austrian Governmental Debts*  The creditors have been unable to arrive at a settlement on this question, which will be the subject of further negotiations at an early date.  
 
-16.  *Agreement between Belgium and the Federal Republic of Germany*  <sup> (1)  See sub-Annex B.  </sup> A draft Agreement between Belgium and the Federal Republic of Germany was reached on 4th August, 1952.     
+16.  *Agreement between Belgium and the Federal Republic of Germany* <sup> (1) See sub-Annex B. </sup>  A draft Agreement between Belgium and the Federal Republic of Germany was reached on 4th August, 1952.     
 
 ####SUB-ANNEX A TO ANNEX I
 
-*Arrangement between the Federal Republic of Germany and the Bank for International Settlements*   
+*Arrangement between the Federal Republic of Germany and the Bank for International Settlements* <sup> (2)  The text of this Arrangement replaces the text of the draft Arrangement given in Annex A to Appendix 3 to the Conference Report.  </sup>   
 
-<sup> (2)  The text of this Arrangement replaces the text of the draft Arrangement given in Annex A to Appendix 3 to the Conference Report.  </sup>    *The Government of the Federal Republic of Germany,*  represented by the Federal Ministers of Finance and for Economy, these latter being represented by Herr Hermann J. Abs, and  *The Bank for International Settlements, Basle,*  represented by Monsieur Roger Auboin, General Manager and Alternate of the President, make the following contract with regard to the present investments of the Bank for International Settlements in Germany: 
+*The Government of the Federal Republic of Germany,*  represented by the Federal Ministers of Finance and for Economy, these latter being represented by Herr Hermann J. Abs, and  *The Bank for International Settlements, Basle,*  represented by Monsieur Roger Auboin, General Manager and Alternate of the President, make the following contract with regard to the present investments of the Bank for International Settlements in Germany: 
 
 1. The Government of the Federal Republic of Germany will pay to the Bank for International Settlements as from 1st January, 1953, to 31st March, 1966, an annual sum of Swiss francs 5,600,000 by quarterly payments falling due at the expiration of each quarter on 1st April, 1st July, 1st October and 2nd January.  
 
@@ -705,9 +705,9 @@ The following settlements are recommended:
 
 ####SUB-ANNEX B TO ANNEX I
 
-*Agreement between Belgium and the Federal Republic of Germany*   
+*Agreement between Belgium and the Federal Republic of Germany* <sup> (1)  The text of this Agreement replaces the text of the draft Agreement given in Annex B to Appendix 3 to the Conference Report.  </sup>   
 
-<sup> (1)  The text of this Agreement replaces the text of the draft Agreement given in Annex B to Appendix 3 to the Conference Report.  </sup>   Agreement between Belgium and the Federal Republic of Germany on the Settlement of Belgian Claims arising out of the Annuities provided for in the German/Belgian Agreement of 13th July, 1929. Belgium, of the one part, and the Federal Republic of Germany, of the other part, have agreed, as a result of negotiations which took place at London during the International Conference on German External Debts, to conclude the following Agreement:    
+Agreement between Belgium and the Federal Republic of Germany on the Settlement of Belgian Claims arising out of the Annuities provided for in the German/Belgian Agreement of 13th July, 1929. Belgium, of the one part, and the Federal Republic of Germany, of the other part, have agreed, as a result of negotiations which took place at London during the International Conference on German External Debts, to conclude the following Agreement:    
 
 ### Article  1  
 
@@ -717,29 +717,29 @@ The following settlements are recommended:
 | The Government of the Federal Republic of Germany recognises that a sum amounting to . . . .  | 107,856,835.65  |
 | was on 10th May, 1940, placed to the credit of the Belgian Government in respect of the annuities provided for in the German/Belgian Agreement of 13th July, 1929, and paid into the Konversionskasse up to 15th November, 1939.  | --- |
 | On the other hand, the following were not paid into the Konversionskasse and are still owing to the Belgian Government:  | --- |
-| *(a)* the monthly portions of annuities due between 15th December, 1939, and 10th May, 1940, namely  | 10,833,333.33  |
-| *(b)* the monthly portions of annuities due between 10th May, 1940, and 8th May, 1945, namely . . . .  | 105,908,333.34  |
+|  *(a)* the monthly portions of annuities due between 15th December, 1939, and 10th May, 1940, namely  | 10,833,333.33  |
+|  *(b)* the monthly portions of annuities due between 10th May, 1940, and 8th May, 1945, namely . . . .  | 105,908,333.34  |
 | Total . . . .  | 224,598,502,32  |
 
-### Article  2  
+### Article   2  
 
-Being willing to compromise on the settlement of the above-mentioned debt, the Government of the Federal Republic undertakes to pay, and the Belgian Government undertakes to accept, a lump sum equal to forty (40) million Deutsche Mark, payable in fifteen (15) annual instalments falling due on 1st July of each of the years 1953 to 1967, namely: 5 annuities, from 1953 to 1957, amounting to DM. 2 million each; 10 annuities, from 1958 to 1967, amounting to DM. 3 million each. The Belgian Government agrees to accept the above payments in final and definitive settlement of the Belgian claims concerned up to 8th May, 1945.  
+Being willing to compromise on the settlement of the above-mentioned debt, the Government of the Federal Republic undertakes to pay, and the Belgian Government undertakes to accept, a lump sum equal to forty (40) million Deutsche Mark, payable in fifteen (15) annual instalments falling due on 1st July of each of the years 1953 to 1967, namely: 5 annuities, from 1953 to 1957, amounting to DM. 2 million each; 10 annuities, from 1958 to 1967, amounting to DM. 3 million each. The Belgian Government agrees to accept the above payments in final and definitive settlement of the Belgian claims concerned up to 8th May, 1945. 
 
 ### Article  3  
 
-Each of the above-mentioned annuities shall be represented by a bond of the Federal Republic, expressed in Deutsche Mark, and shall be transferred in Belgian currency at the mean official rate of the Bank deutscher Länder in operation on the day before the bond becomes due. The bonds shall be delivered to the Belgian Government on 1st April, 1953, at the latest.  
+Each of the above-mentioned annuities shall be represented by a bond of the Federal Republic, expressed in Deutsche Mark, and shall be transferred in Belgian currency at the mean official rate of the Bank deutscher Länder in operation on the day before the bond becomes due. The bonds shall be delivered to the Belgian Government on 1st April, 1953, at the latest. 
 
-### Article  4  
+### Article   4  
 
-Any bond not paid at the date when it becomes due shall bear interest at the rate of 3 per cent. per annum for the benefit of the Belgian Government.  
+Any bond not paid at the date when it becomes due shall bear interest at the rate of 3 per cent. per annum for the benefit of the Belgian Government. 
 
-### Article  5  
+### Article   5  
 
-The present Agreement will be ratified. The instruments of ratification will be exchanged at Brussels. The Agreement will enter into force upon the exchange of the instruments of ratification.  
+The present Agreement will be ratified. The instruments of ratification will be exchanged at Brussels. The Agreement will enter into force upon the exchange of the instruments of ratification. 
 
 ### Article  6  
 
-The present Agreement is drawn up in the French and German languages, the two texts being equally authoritative.  
+The present Agreement is drawn up in the French and German languages, the two texts being equally authoritative. 
 
 In witness whereof the undersigned plenipotentiaries, having been duly authorised thereto, have appended their signatures to the present Agreement. Done at Bonn on the 23rd day of December, 1952, in two original texts in the French and German languages. For Belgium: (sd) F. MUULS. For the Federal Republic of Germany: (sd) ABS.  
 
@@ -771,7 +771,7 @@ The Chairman, Tripartite Commission for German External Debts, 29 Chesham Place,
 *Agreement on the Settlement of the Liabilities of the “Konversionskasse für Deutsche Auslandsschulden” resulting from Payments made by Debtors in the Saar Territory and in Austria, France, Luxembourg and Belgium*   
 
 German Delegation for External Debts. 243-18 Del. 38-1934/52. To Sir Otto Niemeyer, c/o Council of Foreign Bondholders, 17 Moorgate, London, E.C. 2.  *London, 14th November, 1952.*  Dear Sir Otto, I have the honour to summarise the agreement reached in our discussions on 20th October and 14th November, 1952, as follows: With regard to the implementation of the obligation assumed under the terms of paragraph 14 of Appendix 3 to the Final Report of the Conference, the Government of the Federal Republic of Germany is prepared to settle the liabilities of the Konversionskasse für Deutsche Auslandsschulden resulting from payments made by debtors in the Saar territory and in Austria, France, Luxembourg and Belgium to the extent that the creditors have neither received payments in non-German currency nor been otherwise satisfied, in the following manner: 
-###I. *Bonded Debts*
+###I. *Bonded Debts* 
 
 1.  *Arrears of Interest*  Redemption of the coupons to be presented will be made with respect to payments effected by debtors 
 
@@ -804,16 +804,16 @@ coupons matured between 1st July, 1943, and 8th May, 1945, on the first coupon d
 (a) from the *Saar territory,* in full;  
 
 (b) from *Austria, France, Luxembourg and Belgium* at the rate of 60 per cent. of the debtors' payments;   in five equal annual instalments, starting on 1st July, 1953, and thereafter on 1st July of each of the following four years. Should the Government of the Federal Republic of Germany be unable to obtain by 1st July, 1953, an overall survey of the total amount of amortisations to be made, it may begin payments not later than three months after that date.   
-###II. *Other Debts*
+###II. *Other Debts* 
 
 Payment to be made in cash, the principles of Part I above applying *mutatis mutandis,* in five equal instalments, starting on 1st July, 1953, and thereafter on 1st July of each of the following four years. Should the Government of the Federal Republic of Germany be unable to obtain by 1st July, 1953, an overall survey of the total amount to be paid, it may begin payments not later than six months after that date. For the purpose of ascertaining the total amount of liabilities in question, the Government of the Federal Republic of Germany will by public notice request the creditors and the debtors to notify the Konversionskasse für Deutsche Auslandsschulden of any claims not settled and of any payments made to the Konversionskasse respectively, and to submit to the Konversionskasse any existing documents substantiating such notification. The Konversionskasse für Deutsche Auslandsschulden in Berlin will be instructed to register liabilities due for consideration. 
-###III. *Small Amounts*
+###III. *Small Amounts* 
 
-The Government of the Federal Republic of Germany may at its discretion effect payments for very small amounts in respect of bonded debts or other debts within a shorter period. I should be much obliged if you would confirm that the foregoing proposal is a correct statement of the agreement reached by us and can, therefore, form the subject of the envisaged exchange of letters. Please accept, Sir, the expression of my highest esteem. Yours very sincerely, (sd) ABS.  *Council of Foreign Bondholders,*   *17 Moorgate,*   *London, E.C. 2,*   *18th November, 1952.*  Dear Mr. Abs, I have to thank you for your letter of the 14th November with regard to the settlement of the Konversionskasse Receipts referred to in paragraph 14 *(c)* of the Report of the Committee A. <sup> (1)  Appendix 3 to the Conference Report (Annex I to the Agreement).  </sup> It is my understanding that the words at the top of page 2 should read “bis zum *Ende* des Jahres 1941” and that “am ersten auf den 31. Marz folgenden Kupontermin” means the first coupon date following the 31st March. <sup> (2)  Section I, 1 *(a)*, first sub-paragraph.  </sup> Subject to this, I am in agreement with the terms of your letter. Yours sincerely, (sd) O. E. NIEMEYER. Chairman of Negotiating Committee A at the Conference on German External Debts. Mr. Hermann J. Abs.   
+The Government of the Federal Republic of Germany may at its discretion effect payments for very small amounts in respect of bonded debts or other debts within a shorter period. I should be much obliged if you would confirm that the foregoing proposal is a correct statement of the agreement reached by us and can, therefore, form the subject of the envisaged exchange of letters. Please accept, Sir, the expression of my highest esteem. Yours very sincerely, (sd) ABS.  *Council of Foreign Bondholders,*   *17 Moorgate,*   *London, E.C. 2,*   *18th November, 1952.*  Dear Mr. Abs, I have to thank you for your letter of the 14th November with regard to the settlement of the Konversionskasse Receipts referred to in paragraph 14 *(c)* of the Report of the Committee A.<sup> (1)  Appendix 3 to the Conference Report (Annex I to the Agreement).  </sup>  It is my understanding that the words at the top of page 2<sup> (2)  Section I, 1 *(a)*, first sub-paragraph. </sup> should read “bis zum *Ende* des Jahres 1941” and that “am ersten auf den 31. Marz folgenden Kupontermin” means the first coupon date following the 31st March. Subject to this, I am in agreement with the terms of your letter. Yours sincerely, (sd) O. E. NIEMEYER. Chairman of Negotiating Committee A at the Conference on German External Debts. Mr. Hermann J. Abs.   
 
 ### ANNEX  II  
 
-[Note: *The text reproduced hereunder is the text of Appendix 4 to the Report of the Conference on German External Debts with such changes as were required to achieve uniformity in the three languages. Supplementary understandings reached by the parties with respect to this Annex after the close of the Conference are attached hereto as a Sub-Annex.]*  *Agreed Recommendations for the Settlement of Medium and Long-Term German Debts Resulting from Private Capital Transactions*  CONTENTS Article 
+[Note: *The text reproduced hereunder is the text of Appendix 4 to the Report of the Conference on German External Debts with such changes as were required to achieve uniformity in the three languages. Supplementary understandings reached by the parties with respect to this Annex after the close of the Conference are attached hereto as a Sub-Annex.]*   *Agreed Recommendations for the Settlement of Medium and Long-Term German Debts Resulting from Private Capital Transactions*  CONTENTS Article 
 
 I. Introductory.  
 
@@ -881,7 +881,7 @@ XI. Entry into Force.
 
 ####Introductory
 
-This Agreement establishes terms and procedures which are to govern the settlement of the debts described in Article III below. The Agreement does not in itself modify the terms of the debts to which it applies. Rather, it is contemplated that new contracts will be entered into between each debtor and his creditors pursuant to the provisions of this Agreement. The new contracts shall retain the terms of the existing contracts unless modified by arrangements between creditor and debtor within the framework of this Agreement.  
+This Agreement establishes terms and procedures which are to govern the settlement of the debts described in Article III below. The Agreement does not in itself modify the terms of the debts to which it applies. Rather, it is contemplated that new contracts will be entered into between each debtor and his creditors pursuant to the provisions of this Agreement. The new contracts shall retain the terms of the existing contracts unless modified by arrangements between creditor and debtor within the framework of this Agreement. 
 
 ### Article  II  
 
@@ -893,7 +893,7 @@ Wherever used in this Agreement, the following terms shall, unless the context r
 
 (b) in any disputed case the burden shall be on the debtor to prove that the conversion was an effective conversion;  
 
-(c) in the case of Church loans, any conversion shall be considered effective.   Creditor - includes any creditors' representative designated pursuant to the provisions of Article VIII of this Agreement. Germany - all territory within the German Reich on 1st January, 1937. Resident in - having ordinary residence (mit gewöhnlichem Aufenthalt oder Sitz) in; a juridical person shall be deemed to have its ordinary residence in the Federal Republic of Germany or Berlin (West) if it is entered in the Commercial Register in that territory.  
+(c) in the case of Church loans, any conversion shall be considered effective.   Creditor - includes any creditors' representative designated pursuant to the provisions of Article VIII of this Agreement. Germany - all territory within the German Reich on 1st January, 1937. Resident in - having ordinary residence (mit gewöhnlichem Aufenthalt oder Sitz) in; a juridical person shall be deemed to have its ordinary residence in the Federal Republic of Germany or Berlin (West) if it is entered in the Commercial Register in that territory. 
 
 ### Article  III  
 
@@ -926,14 +926,14 @@ Wherever used in this Agreement, the following terms shall, unless the context r
 3.  No debt shall be excluded solely because a new debtor becomes or has become liable for it, by operation of law or otherwise, either before or after 8th May, 1945. For example, no debt of an enterprise subject to Allied High Commission Law No. 27, “Reorganisation of the German Coal and Iron and Steel Industries,” shall be excluded by virtue of the assumption of such debt by unit or other successor companies.   
 4.  This Agreement shall not apply to individual bonds or coupons which require validation under the German Validation Law of 19th August, 1949, (Wirtschaftsgesetzbl. p. 295), and the German Validation Law for Foreign Bonds of August, 1952, until such bonds or coupons shall have been validated pursuant to the provisions of any such law and of any intergovernmental agreement which may be entered into which the country of issue respecting such law.   
 5.  The problem of the debts of the German Central Bank for Agriculture (Deutsche Rentenbank Kreditanstalt) is complicated by various factors. As a result of the partition of Germany the assets invested in East Germany are presently uncollectable by the Bank, and to that extent the amount of debt covered by this Agreement is reduced by varying amounts as fixed by existing regulations, the percentage being different in each case and ranging from 20 per cent. to 67 per cent. of the outstanding loans. The German representatives stated that the Federal Government do not at present have the power to alter this situation, which results in particular from the relevant regulations under the currency conversion legislation. They do agree that the Federal Government shall do everything in its power to facilitate the settlement of the debts of the Bank and the payment of interest and amortisation as provided under the said Laws and Regulations. The creditors' representatives reserve the right of the creditors to take such action as may be open to them to rectify what they consider to be a settlement prejudicial to and discriminatory as between different classes of creditors. It is understood that the Bank retains its liability to the creditors in respect of the indebtedness secured by assets in East Germany and will service that liability as and when those assets become available to it. There are several other institutions in a similar position where the same principles should be applied.   
-6.  In dealing with the Potash Loan in any plan of settlement under the provisions of this Agreement, there will need to be considered the special features of this loan.   
+6.  In dealing with the Potash Loan in any plan of settlement under the provisions of this Agreement, there will need to be considered the special features of this loan.  
 
 ### Article  IV  
 
 ####Outstanding Amount of Debt
 
 1.  The outstanding amount of any debt is the unpaid principal and all unpaid interest due up to 1st January, 1953, such interest to be computed as simple interest at the rate established in the existing contract, regardless of whether the debt has matured before that date and regardless of the effect of any default under the existing contract prior to that date.   
-2.  An amount is unpaid within the meaning of paragraph 1 of this Article if it has not been received and accepted expressly or implicitly by the creditor. Acceptance by the creditor of funding bonds, scrip or cash from the Konversionskasse constitutes payment of any debt, or of any part of a debt, in respect of which they were accepted.   
+2.  An amount is unpaid within the meaning of paragraph 1 of this Article if it has not been received and accepted expressly or implicitly by the creditor. Acceptance by the creditor of funding bonds, scrip or cash from the Konversionskasse constitutes payment of any debt, or of any part of a debt, in respect of which they were accepted.  
 
 ### Article  V  
 
@@ -949,7 +949,7 @@ Wherever used in this Agreement, the following terms shall, unless the context r
 
 (a) The principle is accepted that such financial debts and mortgages, expressed in Gold Marks or in Reichsmarks with a gold clause, as had a specific foreign character shall be converted into Deutsche Mark at the rate of 1 Goldmark, or 1 Reichsmark with a gold clause, = 1 Deutsche Mark.  
 
-(b) The definition of the criteria constituting the specific foreign character of the above indebtedness shall be the subject of further negotiation . Both sides reserve their position as to the question in which cases and in which way the above principle can be implemented. It shall lie with the German Delegation to decide how the solution arrived at can be fitted into the framework of the German laws on currency reform and on the equalisation of war and post-war burdens. <sup> (1)  See now Annex VII.  </sup>  
+(b) The definition of the criteria constituting the specific foreign character of the above indebtedness shall be the subject of further negotiation<sup> (1)  See now Annex VII. </sup>. Both sides reserve their position as to the question in which cases and in which way the above principle can be implemented. It shall lie with the German Delegation to decide how the solution arrived at can be fitted into the framework of the German laws on currency reform and on the equalisation of war and post-war burdens.  
 
 (c) The above-mentioned negotiation between a German delegation and creditor delegates shall take place not later than 31st October, 1952.     
 4.   *Arrears of Interest*  Subject to the provisions of paragraph 6 below, two-thirds of the unpaid interest to 1st January, 1953, shall be funded and one-third waived. Such funded interest together with the unpaid principal shall constitute the new principal amount.   
@@ -977,7 +977,7 @@ Wherever used in this Agreement, the following terms shall, unless the context r
 14.   *Provision of Foreign Exchange*  The debtor shall make the arrangements required under German law for the provision of the necessary foreign exchange to discharge all obligations under the new contract.   
 15.   *Default of the Debtor*  In the event of default, in addition to any penalties for default provided in the new contract, the creditor shall be entitled, for the period of the default, to receive interest at the rate provided in the existing contract.   
 16.   *Modification of Terms*  Nothing in this Agreement shall prevent any debtor from obtaining, with the consent of his creditors, terms more favourable to the debtor than those specified in this Agreement.   
-17.   *Concessions for Benefit of Debtors*  The creditors consider that the concessions made by them under this Agreement should accrue to the benefit of the debtors.   
+17.   *Concessions for Benefit of Debtors*  The creditors consider that the concessions made by them under this Agreement should accrue to the benefit of the debtors.  
 
 ### Article  VI  
 
@@ -991,7 +991,7 @@ Wherever used in this Agreement, the following terms shall, unless the context r
 (b) does not entail any modification of the conditions underlying the claim,  
 
 (c) does not result indirectly or directly in settlement of the claim.     
-3.   *Change of Debtor*  The German Foreign Exchange Control Authorities will favourably consider applications for the taking over of an existing debt by a new German debtor, and for the replacement of existing pledged security by a new security.   
+3.   *Change of Debtor*  The German Foreign Exchange Control Authorities will favourably consider applications for the taking over of an existing debt by a new German debtor, and for the replacement of existing pledged security by a new security.  
 
 ### Article  VII  
 
@@ -1001,19 +1001,19 @@ Wherever used in this Agreement, the following terms shall, unless the context r
 2.  All proposed agreements, contracts or indentures shall be subject to approval as to form and content by legal counsel for the creditors if they so desire.   
 3.  Each debtor shall, prior to 30th June, 1953, or within six months of his taking up residence in the Federal Republic of Germany or in Berlin (West), prepare and submit to his creditor a detailed offer of settlement. The creditor may request his debtor to enter into negotiations with him regarding any aspect of the offer, and the debtor shall enter into such negotiations.   
 4.  The term creditor, as used in paragraphs 2 and 3 of this Article, shall in the case of any bond issue mean the creditors' representative appointed pursuant to Article VIII.   
-5.  In the case of bonded indebtedness, the terms of the settlement may be enfaced on existing bonds or new bonds may be issued in exchange for existing bonds, and new bonds or fractional scrip exchangeable for bonds may be issued for arrears of interest, depending upon the convenience and prevailing custom in the respective markets in which the bonds were issued. Enfaced bonds or new bonds shall conform to prevailing market practice. The debtor, at his own expense, shall employ suitable banking institutions for the purpose of carrying out the settlement and shall meet all requirements of governmental authorities and securities markets in order to ensure marketability.   
+5.  In the case of bonded indebtedness, the terms of the settlement may be enfaced on existing bonds or new bonds may be issued in exchange for existing bonds, and new bonds or fractional scrip exchangeable for bonds may be issued for arrears of interest, depending upon the convenience and prevailing custom in the respective markets in which the bonds were issued. Enfaced bonds or new bonds shall conform to prevailing market practice. The debtor, at his own expense, shall employ suitable banking institutions for the purpose of carrying out the settlement and shall meet all requirements of governmental authorities and securities markets in order to ensure marketability.  
 
 ### Article  VIII  
 
 ####Creditor Representation
 
-The Committees and organisations whose delegates participated in the Conference on German External Debts as representatives of the various national groups of creditors affected by this Agreement (such Committees and organisations being hereinafter referred to as “Creditor Committees”) shall, subject to the right of approval of their respective Governments, appoint as creditors' representatives such persons or organisations as may be required to forward and bring about settlements between particular debtors and their creditors pursuant to this Agreement, or may themselves act in such capacity. Not more than one representative or representative organisation shall be appointed in any particular case, except that, where deemed necessary by the Creditor Committees in order to protect fully the rights of the holders of different issues of bonds of a particular debtor, there may be appointed not more than one representative or representative organisation for each such issue. The German debtor is entitled to request the Creditor Committees to appoint representatives. Participation in the Debt Conference shall not bar any person from serving in any capacity in any negotiations entered into pursuant to this Agreement.  
+The Committees and organisations whose delegates participated in the Conference on German External Debts as representatives of the various national groups of creditors affected by this Agreement (such Committees and organisations being hereinafter referred to as “Creditor Committees”) shall, subject to the right of approval of their respective Governments, appoint as creditors' representatives such persons or organisations as may be required to forward and bring about settlements between particular debtors and their creditors pursuant to this Agreement, or may themselves act in such capacity. Not more than one representative or representative organisation shall be appointed in any particular case, except that, where deemed necessary by the Creditor Committees in order to protect fully the rights of the holders of different issues of bonds of a particular debtor, there may be appointed not more than one representative or representative organisation for each such issue. The German debtor is entitled to request the Creditor Committees to appoint representatives. Participation in the Debt Conference shall not bar any person from serving in any capacity in any negotiations entered into pursuant to this Agreement. 
 
 ### Article  IX  
 
 ####Arbitration and Mediation Committee
 
-1.   *Jurisdiction*  In order to forward the settlements between individual debtors and their creditors, an Arbitration and Mediation Committee shall be established. The duty of this Committee shall be to mediate and arbitrate between the debtor and his creditors in the event that they are not able to agree between themselves as to the terms of the offer of settlement to be made. Either party shall have the right to refer a disputed point to the Committee. The decision of the Committee shall be binding on both parties. The debtor shall be obliged to offer to his creditors the terms set forth in such decision. The creditor shall be obliged to accept such terms , or, in the case of a bond issue where the bondholders are represented pursuant to the provisions of Article VIII of this Agreement, the creditors' representative shall be obliged to recommend acceptance of the offer by the bondholders. <sup> (1)  See Sub-Annex.  </sup> Where a creditors' representative has been appointed pursuant to such Article VIII, the rights of the creditors under this Article shall be exercised by such representative.   
+1.   *Jurisdiction*  In order to forward the settlements between individual debtors and their creditors, an Arbitration and Mediation Committee shall be established. The duty of this Committee shall be to mediate and arbitrate between the debtor and his creditors in the event that they are not able to agree between themselves as to the terms of the offer of settlement to be made. Either party shall have the right to refer a disputed point to the Committee. The decision of the Committee shall be binding on both parties. The debtor shall be obliged to offer to his creditors the terms set forth in such decision. The creditor shall be obliged to accept such terms <sup> (1)  See Sub-Annex. </sup>, or, in the case of a bond issue where the bondholders are represented pursuant to the provisions of Article VIII of this Agreement, the creditors' representative shall be obliged to recommend acceptance of the offer by the bondholders. Where a creditors' representative has been appointed pursuant to such Article VIII, the rights of the creditors under this Article shall be exercised by such representative.   
 2.   *Composition*  The Committee shall be composed of four members appointed by the creditors and four members appointed by the debtors. The Committee may elect a further member for any particular case upon request of a majority of its members. The Chairman of the Committee shall be elected from among the creditor members. The first Chairman shall be the United States member. For each member an alternate may be designated. Each member of the Committee including the Chairman shall have one vote.   
 3.   *Appointment of Members*  The members of the Committee shall be appointed as follows: 
 
@@ -1021,7 +1021,7 @@ The Committees and organisations whose delegates participated in the Conference 
 
 (b) The debtor members shall be appointed by the Head of the German Delegation on External Debts.     
 4.   *Procedure*  The Committee may set up sub-committees for any particular case and may appoint temporary members to sit on such sub-committees. The manner of submitting disputes, the times and places of hearing, the manner of giving notice of hearings, and all other matters relating to the procedure or administration of the Committee or its sub-committees shall be determined by the Committee.   
-5.   *Costs*  Members of the Committee and temporary members shall be reimbursed for all travel and out-of-pocket expenses incurred in connection with the performance of their duties and shall receive in addition remuneration to be established by the Committee for all time spent in connection with the performance of their duties. All expenses and costs incurred by the Committee or its members or temporary members in a given dispute shall be borne by the particular German debtor involved. In any case, however, where the Committee or the appropriate sub-committee determines that resort to the Committee has not been made in good faith by a creditor or that the appeal is frivolous the costs and expenses shall be borne by such creditor to the extent directed by the Committee or sub-committee. All other expenses of the Committee and its members, including compensation to the members when engaged in Committee affairs, shall be refunded by the debtors by assessment or otherwise.   
+5.   *Costs*  Members of the Committee and temporary members shall be reimbursed for all travel and out-of-pocket expenses incurred in connection with the performance of their duties and shall receive in addition remuneration to be established by the Committee for all time spent in connection with the performance of their duties. All expenses and costs incurred by the Committee or its members or temporary members in a given dispute shall be borne by the particular German debtor involved. In any case, however, where the Committee or the appropriate sub-committee determines that resort to the Committee has not been made in good faith by a creditor or that the appeal is frivolous the costs and expenses shall be borne by such creditor to the extent directed by the Committee or sub-committee. All other expenses of the Committee and its members, including compensation to the members when engaged in Committee affairs, shall be refunded by the debtors by assessment or otherwise.  
 
 ### Article  X  
 
@@ -1030,13 +1030,13 @@ The Committees and organisations whose delegates participated in the Conference 
 1.  The debtors affected by this Agreement shall pay all expenses incurred in connection with the Debt Conference or in the general execution of this Agreement by any Creditor Committee.   
 2.  Expenses incurred by the creditors in connection with negotiations between a debtor and his creditors pursuant to Article VII of this Agreement shall be borne by the debtor involved. Such expenses and compensation shall be paid, in the case of non-bonded debt, to the creditors and, in the case of bonded debt, to the creditors' representatives appointed pursuant to Article VIII of this Agreement.   
 3.  The term expenses, as used in paragraphs 1 and 2 of this Article, includes reasonable compensation for services. Any dispute as to the reasonableness of expenses payable under this Article may be referred to the Arbitration and Mediation Committee.   
-4.  Payments provided for in this Article shall not stand in the way of or bar any creditors' representative from making and collecting additional charges from the bondholders or creditors.   
+4.  Payments provided for in this Article shall not stand in the way of or bar any creditors' representative from making and collecting additional charges from the bondholders or creditors.  
 
 ### Article  XI  
 
 ####Entry into Force
 
-No payments may be made, under the terms of any settlement offer made pursuant to this Agreement, prior to the date of entry into force pf the contemplated Intergovernmental Agreement on German External Debts. Nevertheless, the debtors shall proceed expeditiously to prepare and present offers of settlement to their creditors in accordance with the provisions of Article VII of this Agreement, to conduct such negotiations as may be necessary, and otherwise to take all steps to forward the preparation of the new offers contemplated hereunder.  
+No payments may be made, under the terms of any settlement offer made pursuant to this Agreement, prior to the date of entry into force pf the contemplated Intergovernmental Agreement on German External Debts. Nevertheless, the debtors shall proceed expeditiously to prepare and present offers of settlement to their creditors in accordance with the provisions of Article VII of this Agreement, to conduct such negotiations as may be necessary, and otherwise to take all steps to forward the preparation of the new offers contemplated hereunder. 
 
 ####SUB-ANNEX TO ANNEX II
 
@@ -1046,7 +1046,7 @@ The Tripartite Commission on German Debts, 29 Chesham Place, S.W. 1.  *12th Nove
 
 ### ANNEX  III  
 
-[Note: *The text reproduced hereunder is the text of Appendix 5 to the Report of the Conference on German External Debts with such changes as were required to achieve uniformity in the three languages. Supplementary understandings reached by the parties with respect to this Annex after the close of the Conference are attached hereto as a Sub-Annex.]*  *Agreed Recommendations for the Settlement of Standstill Debts: The German Credit Agreement of 1952*  *AGREEMENT* made between a COMMITTEE representative of BANKING, COMMERCIAL and INDUSTRIAL CONCERNS in THE FEDERAL REPUBLIC of GERMANY and the WESTERN SECTORS of BERLIN (hereinafter referred to as “the German Committee” which expression shall include any institution or body succeeding to any of its functions relevant to this Agreement), the BANK DEUTSCHER LAENDER (which shall include any institution or body succeeding to any of its functions relevant to this Agreement) and such of the following Committees (hereinafter collectively referred to as “the Foreign Bankers' Committees”) as become signatories hereto, namely COMMITTEES representative of BANKING INSTITUTIONS carrying on business in the UNITED STATES OF AMERICA, THE UNITED KINGDOM and SWITZERLAND respectively Whereas: 
+[Note: *The text reproduced hereunder is the text of Appendix 5 to the Report of the Conference on German External Debts with such changes as were required to achieve uniformity in the three languages. Supplementary understandings reached by the parties with respect to this Annex after the close of the Conference are attached hereto as a Sub-Annex.]*   *Agreed Recommendations for the Settlement of Standstill Debts: The German Credit Agreement of 1952*   *AGREEMENT* made between a COMMITTEE representative of BANKING, COMMERCIAL and INDUSTRIAL CONCERNS in THE FEDERAL REPUBLIC of GERMANY and the WESTERN SECTORS of BERLIN (hereinafter referred to as “the German Committee” which expression shall include any institution or body succeeding to any of its functions relevant to this Agreement), the BANK DEUTSCHER LAENDER (which shall include any institution or body succeeding to any of its functions relevant to this Agreement) and such of the following Committees (hereinafter collectively referred to as “the Foreign Bankers' Committees”) as become signatories hereto, namely COMMITTEES representative of BANKING INSTITUTIONS carrying on business in the UNITED STATES OF AMERICA, THE UNITED KINGDOM and SWITZERLAND respectively Whereas: 
 
 (1) An Agreement for the maintenance of short-term banking credits to Germany which came into force on the 17th September, 1931, was entered into by foreign banking creditors in response to the request of the Seven-Power Conference, which met in London in July 1931, that “the foreign banking creditors of Germany should take concerted measures with a view to maintaining the volume of credits they had already extended to Germany” and in reliance on the declaration by that Conference that “in order to ensure the maintenance of the financial stability of Germany, which is essential in the interests of the whole world,” the Governments concerned “were ready to co-operate, so far as lies within their power, to restore confidence.”  
 
@@ -1060,15 +1060,15 @@ The Tripartite Commission on German Debts, 29 Chesham Place, S.W. 1.  *12th Nove
 
 (6) Banking, commercial and industrial concerns in the Federal Republic through the German Committee have requested their foreign banking creditors to enter into a new Agreement for regulating payment of the outstanding short-term indebtedness and for establishing means for the restoration of normal conditions for financing the foreign trade of the Federal Republic and in response to such request appropriate provisions have been formulated and embodied in this Agreement and it has been agreed by the Foreign Bankers' Committees to recommend foreign banking creditors in their respective countries to adhere to this Agreement.  
 
-(7) This Agreement has been executed by the Foreign Bankers' Committees upon the terms that so long as this Agreement remains in force, there shall be promulgated and maintained such legislation and regulations by the Government of the Federal Republic or other appropriate authority as may be necessary to render its provisions effective and that no legislation or regulations substantially affecting the obligations of this Agreement shall be promulgated and in particular that the legislation to be so promulgated and maintained shall ensure that <sup> (1)  See Sub-Annex.  </sup> 
+(7) This Agreement has been executed by the Foreign Bankers' Committees upon the terms that so long as this Agreement remains in force, there shall be promulgated and maintained such legislation and regulations by the Government of the Federal Republic or other appropriate authority<sup> (1)  See Sub-Annex. </sup>as may be necessary to render its provisions effective and that no legislation or regulations substantially affecting the obligations of this Agreement shall be promulgated and in particular that the legislation to be so promulgated and maintained shall ensure that 
 
 (i) There will be no discrimination on the part of banking, commercial or industrial concerns in the Federal Republic in the making of repayment or the giving of security as between their foreign banking creditors whether adhering to this Agreement or not;  
 
-(ii) There will be no discrimination on the part of banking, commercial or industrial concerns in the Federal Republic in the giving of security as between their creditors in the Federal Republic and their foreign banking creditors whether adhering to this Agreement or not; <sup> (1)  See Sub-Annex.  </sup>  
+(ii) There will be no discrimination on the part of banking, commercial or industrial concerns in the Federal Republic in the giving of security as between their creditors in the Federal Republic and their foreign banking creditors whether adhering to this Agreement or not; <sup> (1)  See Sub-Annex. </sup>   
 
-(iii) Unauthorised movements of capital shall be prevented; and <sup> (1)  See Sub-Annex.  </sup>  
+(iii)  Unauthorised movements of capital shall be prevented; and <sup> (1)  See Sub-Annex. </sup>   
 
-(iv) All banking, commercial and industrial concerns in the Federal Republic who are subject to any form of indebtedness falling within this Agreement shall adhere thereto. <sup> (1)  See Sub-Annex.  </sup>     Now it is hereby agreed as follows:    
+(iv)  <sup> (1)  See Sub-Annex. </sup>All banking, commercial and industrial concerns in the Federal Republic who are subject to any form of indebtedness falling within this Agreement shall adhere thereto.     Now it is hereby agreed as follows:    
 
 ### 1  
 
@@ -1092,13 +1092,12 @@ In this Agreement, unless the context shall otherwise require, the undermentione
 
 (i) Every party ordinarily resident in the Federal Republic who is liable in respect of a short-term credit as a result of the decease, liquidation, re-organisation or bankruptcy of any German Debtor or former German Debtor.  
 
-(ii) Any company ordinarily resident in the Federal Republic which, having derived all or a substantial part of its initial assets from a German Debtor or former German Debtor, has by operation of law or otherwise become liable in respect of a short-term credit.   “Foreign Bank Creditor” means and includes any banker or banking institution ordinarily resident in one of the countries named in the preamble to this Agreement and any other firm or corporation ordinarily resident in one of those countries to whom indebtedness under short-term credits is owing and who shall in either case have unconditionally adhered to this Agreement in accordance with Clause 22 hereof. “Federal Republic” means and includes the territory comprised in the Federal Republic of Germany and the Western Sectors of Berlin on the date of this Agreement. <sup> (1)  See Sub-Annex.  </sup> “German” means appertaining to the Federal Republic as herein defined. “Foreign” means appertaining to any country outside the territory comprised in the German State on the 31st day of December, 1937. “Firm” includes an individual trading in his own or under a firm name. “Insolvency” where used with reference to a German Debtor means a state in which the Debtor for want of liquid assets, not merely temporary, is unable to discharge all his debts as they mature. “The previous Agreements” means and includes the German Credit Agreements of 1931 to 1939, the German Public Debtors' Credit Agreements of 1932 to 1938, the German-American Standstill Agreeents of 1939 and 1940, and the Agreements relating to short-term credits owing to banking creditors in Switzerland and known respectively as “Das Deutsche Kreditabkommen von 1940, 1941, 1942, 1943 und 1944.” “Face Value” in relation to short-term credits for the time being outstanding means the total amount of such short-term credits according to the latest information available to the respective Foreign Bankers' Committees expressed for the purposes of computation in German currency calculated at the official middle rate quoted in the Federal Republic on the first working day prior to the day on which the computation is made.  
+(ii) Any company ordinarily resident in the Federal Republic which, having derived all or a substantial part of its initial assets from a German Debtor or former German Debtor, has by operation of law or otherwise become liable in respect of a short-term credit.   “Foreign Bank Creditor” means and includes any banker or banking institution ordinarily resident in one of the countries named in the preamble to this Agreement and any other firm or corporation ordinarily resident in one of those countries to whom indebtedness under short-term credits is owing and who shall in either case have unconditionally adhered to this Agreement in accordance with Clause 22 hereof. “Federal Republic” means and includes the territory comprised in the Federal Republic of Germany and the Western Sectors of Berlin on the date of this Agreement. <sup> (1)  See Sub-Annex. </sup>  “German” means appertaining to the Federal Republic as herein defined. “Foreign” means appertaining to any country outside the territory comprised in the German State on the 31st day of December, 1937. “Firm” includes an individual trading in his own or under a firm name. “Insolvency” where used with reference to a German Debtor means a state in which the Debtor for want of liquid assets, not merely temporary, is unable to discharge all his debts as they mature. “The previous Agreements” means and includes the German Credit Agreements of 1931 to 1939, the German Public Debtors' Credit Agreements of 1932 to 1938, the German-American Standstill Agreeents of 1939 and 1940, and the Agreements relating to short-term credits owing to banking creditors in Switzerland and known respectively as “Das Deutsche Kreditabkommen von 1940, 1941, 1942, 1943 und 1944.” “Face Value” in relation to short-term credits for the time being outstanding means the total amount of such short-term credits according to the latest information available to the respective Foreign Bankers' Committees expressed for the purposes of computation in German currency calculated at the official middle rate quoted in the Federal Republic on the first working day prior to the day on which the computation is made. 
 
 ### 2  
 
-####Period of Agreement
+####Period of Agreement <sup> (1)  See Sub-Annex.  </sup> 
 
-<sup> (1)  See Sub-Annex.  </sup>   
 (1).  Unless otherwise stated, the provisions of this Agreement shall come into force on the . . . . . . . . . . day of . . . . . . . . . . . 1952, and remain in force for a period of twelve calendar months from that date, subject to earlier determination by the Foreign Bankers' Committees in any of the following events, namely: 
 
 (i) If there shall be declared in the Federal Republic a moratorium which affects any obligation of German Debtors to Foreign Bank Creditors dealt with in this Agreement, or  
@@ -1107,7 +1106,7 @@ In this Agreement, unless the context shall otherwise require, the undermentione
 
 (iii) If the Foreign Bankers' Committees, after the attention of the German Committee has been drawn to the matter, shall find that any of the terms contained in Recital (7) has not been complied with.     
 (2).  Any such determination shall be without prejudice to rights and obligations accrued under this Agreement prior to the date of such determination and to be effective must be made by notice in writing or by cable or radiogram (specifying the date upon which this Agreement is to be determined) signed on behalf of a majority of the Foreign Bankers' Committees and despatched to the Bank for International Settlements and to the German Committee, but failure so to notify the German Committee shall not nullify such termination.   
-(3).  The declaration in the Federal Republic of a general foreign moratorium in whatever form shall *ipso facto* determine this Agreement.   
+(3).  The declaration in the Federal Republic of a general foreign moratorium in whatever form shall *ipso facto* determine this Agreement.  
 
 ### 3  
 
@@ -1122,7 +1121,7 @@ In this Agreement, unless the context shall otherwise require, the undermentione
 (3).  The ratification provided in the preceding sub-Clause shall not apply to any payments made by any German Debtor in German currency other than payments made to or for the account of the Foreign Bank Creditor with his express consent.   
 (4).  With respect to any short-term credit or part thereof in regard to which a German Bank Debtor was required pursuant to sub-Clause (1) of Clause 7 of the 1939 Agreement (or corresponding provisions of any subsequent Agreement) to obtain from its client an *eigene Wechsel* or letter of guarantee, such Bank Debtor shall upon his adherence to this Agreement procure for the Foreign Bank Creditor a new *eigene Wechsel* or (at the option of the Foreign Bank Creditor) a new letter of guarantee dated not earlier than the date of this Agreement and shall hold the same for or forward it to the Foreign Bank Creditor as required by the said sub-Clause (or corresponding provisions). Such letter of guarantee shall contain an obligation of the client to reimburse the German Bank Debtor in the form and to the extent demanded by such Bank Debtor in the event that such Bank Debtor voluntarily repays the relative short-term credit or part thereof in German currency pursuant to Clause 10 hereof.   
 (5).  Every German Bank Debtor or German Commercial or Industrial Debtor shall be obligated to cover at maturity any bill accepted for its account by a Foreign Bank Creditor.   
-(6).  Any Foreign Bank Creditor to whom a short-term credit is owing in a currency other than that of his own country may, by giving notice in writing to his German Debtor at any time within the period of this Agreement, convert such credit into the currency of the country of such Foreign Bank Creditor. Such conversion shall thereupon be effected in the books of the Foreign Bank Creditor and the German Debtor, and the amount of the short-term credit expressed in the new currency shall be calculated by reference to the official middle rates for exchange of German currency into the original currency of the credit and such new currency respectively quoted in the Federal Republic on the date of the relative notice.   
+(6).  Any Foreign Bank Creditor to whom a short-term credit is owing in a currency other than that of his own country may, by giving notice in writing to his German Debtor at any time within the period of this Agreement, convert such credit into the currency of the country of such Foreign Bank Creditor. Such conversion shall thereupon be effected in the books of the Foreign Bank Creditor and the German Debtor, and the amount of the short-term credit expressed in the new currency shall be calculated by reference to the official middle rates for exchange of German currency into the original currency of the credit and such new currency respectively quoted in the Federal Republic on the date of the relative notice.  
 
 ### 4  
 
@@ -1151,7 +1150,7 @@ Each Foreign Bank Creditor shall have the right to require permanent repayment, 
 (9).  If a Foreign Bank Creditor has failed within three months of the announcement of any stated percentage to take advantage of the whole or part of his rights to arrange recommercialisation, such rights shall lapse (without however affecting such Foreign Bank Creditor's right to other recommercialisation pursuant to subsequent announcements of stated percentages).   
 (10).  The Bank deutscher Laender will use its best efforts to arrange that a certain amount of eligible business shall be available for recommercialisation.   
 (11).  A Foreign Bank Creditor who has opened a substituted line and the Debtor to whom such line is granted shall be subject to all the provisions of this Agreement in respect of such substituted line and forms of adherence in respect thereof shall be exchanged upon the Foreign Bank Creditor receiving repayment of the relative designated indebtedness.   
-(12).  If in the opinion of the Bank deutscher Laender a substituted line is not being adequately availed of in the interests of the German economy, the Bank deutscher Laender may require the Foreign Bank Creditor to place so much of such line as is not then availed of at the disposition of some other bank, banking institution or commercial or industrial firm or company in the Federal Republic (being or capable of becoming a German Debtor) selected by the Foreign Bank Creditor and not disapproved by the Bank deutscher Laender. In such case the original substituted line shall be cancelled *pro tanto* and the new line of equivalent amount shall constitute a new substituted line, and the Foreign Bank Creditor and new German Debtor shall be subject to all the provisions of this Agreement in respect of the new substituted line and forms of adherence in respect thereof shall be exchanged. If the Foreign Bank Creditor shall fail to select a new German Debtor to the satisfaction of the Bank deutscher Laender the latter may propose a new German Debtor; and, if the Foreign Bank Creditor shall refuse to accept such proposed new German Debtor, the reasonableness of such refusal shall at the request of the Bank deutscher Laender be determined by agreement between the German Committee and the relative Foreign Bankers' Committee and, if such Committees are unable to agree, then by the Arbitration Committee.   
+(12).  If in the opinion of the Bank deutscher Laender a substituted line is not being adequately availed of in the interests of the German economy, the Bank deutscher Laender may require the Foreign Bank Creditor to place so much of such line as is not then availed of at the disposition of some other bank, banking institution or commercial or industrial firm or company in the Federal Republic (being or capable of becoming a German Debtor) selected by the Foreign Bank Creditor and not disapproved by the Bank deutscher Laender. In such case the original substituted line shall be cancelled *pro tanto* and the new line of equivalent amount shall constitute a new substituted line, and the Foreign Bank Creditor and new German Debtor shall be subject to all the provisions of this Agreement in respect of the new substituted line and forms of adherence in respect thereof shall be exchanged. If the Foreign Bank Creditor shall fail to select a new German Debtor to the satisfaction of the Bank deutscher Laender the latter may propose a new German Debtor; and, if the Foreign Bank Creditor shall refuse to accept such proposed new German Debtor, the reasonableness of such refusal shall at the request of the Bank deutscher Laender be determined by agreement between the German Committee and the relative Foreign Bankers' Committee and, if such Committees are unable to agree, then by the Arbitration Committee.  
 
 ### 6  
 
@@ -1176,7 +1175,7 @@ Each Foreign Bank Creditor shall have the right to require permanent repayment, 
 
 (b) Where and so far as the giving of security is consonant with the business of the German Commercial or Industrial Debtor and such security can be given without endangering the position of his other creditors.     
 (3).  A German Debtor shall promptly upon demand furnish to any of his foreign Bank Creditors a copy of his last audited Balance Sheet and such other particulars relating to his financial position as the Foreign Bank Creditor may reasonably require.   
-(4).  A Foreign Bank Creditor may with the consent of the Bank deutscher Laender realise outside the Federal Republic any security in existence at the date of this Agreement in respect of a short-term credit and apply the net proceeds of such realisation (after payment of all expenses incurred in effecting realisation) in permanent reduction or discharge of the relative short-term credit. Provided that he shall be obligated to secure the best terms and conditions reasonably obtainable in the interest of the German Debtor.   
+(4).  A Foreign Bank Creditor may with the consent of the Bank deutscher Laender realise outside the Federal Republic any security in existence at the date of this Agreement in respect of a short-term credit and apply the net proceeds of such realisation (after payment of all expenses incurred in effecting realisation) in permanent reduction or discharge of the relative short-term credit. Provided that he shall be obligated to secure the best terms and conditions reasonably obtainable in the interest of the German Debtor.  
 
 ### 7  
 
@@ -1188,13 +1187,13 @@ A Foreign Bank Creditor shall have the right to transfer any short-term credit o
 
 (b) forthwith upon any such transfer being effected the necessary forms of adherence shall be exchanged between the transferee and the German Debtor;  
 
-(c) any such transfer to a Foreign Bank Creditor or other person, firm or corporation as aforesaid in the country of one of the other Foreign Bankers' Committees shall also be subject to the consent of the Bank deutscher Laender.   Upon any such transfer being effected and the necessary forms of adherence being exchanged the transferee shall have the same rights and obligations in respect of the short-term credit or part of a credit so transferred as if he were the original creditor.  
+(c) any such transfer to a Foreign Bank Creditor or other person, firm or corporation as aforesaid in the country of one of the other Foreign Bankers' Committees shall also be subject to the consent of the Bank deutscher Laender.   Upon any such transfer being effected and the necessary forms of adherence being exchanged the transferee shall have the same rights and obligations in respect of the short-term credit or part of a credit so transferred as if he were the original creditor. 
 
 ### 8  
 
 ####Switching of Debtors
 
-Any Foreign Bank Creditor may at any time during the period of this Agreement with the agreement of the German Debtor (who shall first obtain the consent of the Bank deutscher Laender) make arrangements for the transfer to another banker, banking institution or commercial or industrial firm or company in the Federal Republic (being or capable of becoming a German Debtor) of liability in respect of a short-term credit (not being a substituted line as defined in Clause 5 hereof) owing by any Grerman Debtor. Upon such transfer being effected the Foreign Bank Creditor and the new German Debtor shall be subject to all the provisions of this Agreement in respect of such credit and forms of adherence in respect thereof shall be exchanged.  
+Any Foreign Bank Creditor may at any time during the period of this Agreement with the agreement of the German Debtor (who shall first obtain the consent of the Bank deutscher Laender) make arrangements for the transfer to another banker, banking institution or commercial or industrial firm or company in the Federal Republic (being or capable of becoming a German Debtor) of liability in respect of a short-term credit (not being a substituted line as defined in Clause 5 hereof) owing by any Grerman Debtor. Upon such transfer being effected the Foreign Bank Creditor and the new German Debtor shall be subject to all the provisions of this Agreement in respect of such credit and forms of adherence in respect thereof shall be exchanged. 
 
 ### 9  
 
@@ -1205,7 +1204,7 @@ Any Foreign Bank Creditor may at any time during the period of this Agreement wi
 (3).  Such repayment rights may be exercised by the Foreign Bank Creditor by applying the same to such short-term credits or parts thereof owing by any one or more of his German Debtors as the Foreign Bank Creditor may select.   
 (4).  Upon any such availment notice may be given by the Foreign Bank Creditor to the German Debtor or Debtors to whose short-term credits or parts thereof he proposes to apply any repayment right as aforesaid and a copy of such notice, together with particulars of the new credit line and the availment thereof, shall simultaneously be forwarded by the Foreign Bank Creditor to the Bank deutscher Laender. Each such German Debtor shall as promptly as possible arrange through the Bank deutscher Laender for final repayment in foreign currency of the relative amount specified in the Creditor's notice.   
 (5).  The provisions of sub-Clauses (5), (6) and (7) of Clause 5 hereof shall be deemed to be incorporated *mutatis mutandis* in this Clause.   
-(6).  If any German Debtor shall fail to comply with a notice for repayment with reasonable promptitude the Foreign Bank Creditor shall be entitled to apply the relative repayment right or part thereof to some other short-term credits in accordance with the foregoing conditions.   
+(6).  If any German Debtor shall fail to comply with a notice for repayment with reasonable promptitude the Foreign Bank Creditor shall be entitled to apply the relative repayment right or part thereof to some other short-term credits in accordance with the foregoing conditions.  
 
 ### 10  
 
@@ -1214,13 +1213,13 @@ Any Foreign Bank Creditor may at any time during the period of this Agreement wi
 (1).  Any German Debtor may arrange at the request of his Foreign Bank Creditor to make repayment of a particular short-term credit or part thereof in German currency, converted as hereinafter provided, to the same extent as such German Debtor might on 24th May, 1952, have voluntarily made such repayment pursuant to Directive (50) 6 of the Allied Bank Commission to the Bank deutscher Laender dated 26th June, 1950.   
 (2).  Conversion from foreign currency into German currency shall be calculated at the official middle rate quoted in the Federal Republic one working day previous to the day on which the payment in German currency is actually made.   
 (3).  Every such payment shall upon acceptance by the Foreign Bank Creditor constitute final repayment of the foreign currency amount of the short-term credit or part of the short-term credit calculated at the conversion rate provided in sub-Clause (2) of this Clause.   
-(4).  Balances in German currency arising from repayment of short-term credits pursuant to this Clause or Clause 11a shall be applicable and transferable as permitted under provisions of any Allied laws, ordinances, directives and licences (including General and Special licences issued by the Bank deutscher Laender) in effect in the Federal Republic on 24th May, 1952, or as otherwise permitted by the Bank deutscher Laender. However, no regulation of the Bank deutscher Laender shall at any time with regard to the transfer and use of German currency balances and affecting Foreign Bank Creditors be more unfavourable in effect to such Creditors, or cause their rights to be more limited, than such rights as existed under the aforesaid laws, ordinances, directives and licences.   
+(4).  Balances in German currency arising from repayment of short-term credits pursuant to this Clause or Clause 11a shall be applicable and transferable as permitted under provisions of any Allied laws, ordinances, directives and licences (including General and Special licences issued by the Bank deutscher Laender) in effect in the Federal Republic on 24th May, 1952, or as otherwise permitted by the Bank deutscher Laender. However, no regulation of the Bank deutscher Laender shall at any time with regard to the transfer and use of German currency balances and affecting Foreign Bank Creditors be more unfavourable in effect to such Creditors, or cause their rights to be more limited, than such rights as existed under the aforesaid laws, ordinances, directives and licences.  
 
 ### 11  
 
 ####Commission and Interest Charges
 
-As from the date of this Agreement all commission and discounting charges in keeping with usual banking practice, together with bill stamp duty, shall be paid in advance and interest shall be paid monthly in the currency in which the respective credit is maintained. It is desirable that commission and interest charges shall not be more than reasonable under the circumstances and should any difference arise as to the amount thereof between a Foreign Bank Creditor and a German Debtor the matter may be referred to their respective Central Banks.  
+As from the date of this Agreement all commission and discounting charges in keeping with usual banking practice, together with bill stamp duty, shall be paid in advance and interest shall be paid monthly in the currency in which the respective credit is maintained. It is desirable that commission and interest charges shall not be more than reasonable under the circumstances and should any difference arise as to the amount thereof between a Foreign Bank Creditor and a German Debtor the matter may be referred to their respective Central Banks. 
 
 ### 11A  
 
@@ -1230,21 +1229,21 @@ Interest on short-term credits at the rate of 4 per cent. per annum for the peri
 
 (i) as of the date of this Agreement be added to the principal of the relative short-term credit and form part thereof for the purpose of adherence to and for all other purposes of this Agreement, or  
 
-(ii) be postponed and fall due in the relative foreign currency upon the termination of this Agreement, provided however that at any time prior to such termination the Foreign Bank Creditor may be paid pursuant to the provisions of Clause 10 hereof all or any part of such postponed interest in German currency (converted at the official middle rate quoted in the Federal Republic one working day previous to the day on which payment is actually made).   Each Foreign Bank Creditor, upon giving notice to his German Debtor of adherence to this Agreement, shall at the same time notify such Debtor which of the options the Creditor elects to exercise and, if no election is so notified, the Creditor shall be deemed to have elected to exercise option (i).  
+(ii) be postponed and fall due in the relative foreign currency upon the termination of this Agreement, provided however that at any time prior to such termination the Foreign Bank Creditor may be paid pursuant to the provisions of Clause 10 hereof all or any part of such postponed interest in German currency (converted at the official middle rate quoted in the Federal Republic one working day previous to the day on which payment is actually made).   Each Foreign Bank Creditor, upon giving notice to his German Debtor of adherence to this Agreement, shall at the same time notify such Debtor which of the options the Creditor elects to exercise and, if no election is so notified, the Creditor shall be deemed to have elected to exercise option (i). 
 
 ### 12  
 
 ####Prorating of Payments and Security by German Banks
 
 (1).  If a German Debtor, who is indebted both to a Foreign Bank Creditor and to a German Bank Debtor, has become insolvent or has sought a composition or other arrangement of a similar character with all or some of his creditors or has been declared bankrupt within the period of this Agreement or within three months thereafter, the German Bank Debtor shall prorate with the Foreign Bank Creditor any repayments received by the German Bank Debtor from the German Debtor at any time within four months before the happening of such event, as well as any security (including guarantees) received from the German Debtor at any time within the period of this Agreement.   
-(2).  The Trustee in bankruptcy (Konkursverwalter), any German official in charge of any composition or arrangement as aforesaid and the German Bank Debtor shall furnish all the Foreign Bank Creditors concerned with full information as to any repayments made or security given as aforesaid.   
+(2).  The Trustee in bankruptcy (Konkursverwalter), any German official in charge of any composition or arrangement as aforesaid and the German Bank Debtor shall furnish all the Foreign Bank Creditors concerned with full information as to any repayments made or security given as aforesaid.  
 
 ### 13  
 
 ####Retention of the Liability of Guarantors, etc.
 
 (1).  No guarantor, endorser or credit insurer in the Federal Republic in respect of any short-term credit shall obtain any release from obligations under his guarantee, endorsement or insurance by reason of the postponement of or any change in the form of such short-term credit or part thereof (including the change provided for in Clause 19 hereof) by virtue of or consequent upon this Agreement and no debtor in the Federal Republic whether absolutely or contingently liable in respect of any short-term credit shall be released by reason of any partial payment on account thereof by any third party or by reason of any change in the form of such short-term credit or any part thereof by virtue of or consequent upon this Agreement. If the indebtedness of a German Debtor is guaranteed or credit insured by a guarantor or credit insurer outside the Federal Republic who does not assent to the postponement of or change in the form of such indebtedness the German Debtor shall not be entitled to the benefit of this Agreement.   
-(2).  If a person being a partner of a firm which is a German Bank Debtor or German Commercial or Industrial Debtor ceases to be a partner during the continuance of this Agreement whether owing to his death or from any other cause any liability arising under any short-term credit maintained under this Agreement shall be deemed to be a liability existing at the date when such person ceased to be a partner; and the personal liability of such person or if he be dead the liability of his estate for liabilities of his firm which were existing at the date when he ceased to be a partner shall apply to any liability arising under any such short-term credit while maintained under this Agreement.   
+(2).  If a person being a partner of a firm which is a German Bank Debtor or German Commercial or Industrial Debtor ceases to be a partner during the continuance of this Agreement whether owing to his death or from any other cause any liability arising under any short-term credit maintained under this Agreement shall be deemed to be a liability existing at the date when such person ceased to be a partner; and the personal liability of such person or if he be dead the liability of his estate for liabilities of his firm which were existing at the date when he ceased to be a partner shall apply to any liability arising under any such short-term credit while maintained under this Agreement.  
 
 ### 14  
 
@@ -1255,19 +1254,19 @@ Interest on short-term credits at the rate of 4 per cent. per annum for the peri
 (3).  If at any time during the continuance of this Agreement a Foreign Bank Creditor claims that a German Debtor has committed a breach of any of the provisions of this Agreement and has failed to remedy such breach upon request within a fortnight of receipt of formal notice from the Foreign Bank Creditor, such Foreign Bank Creditor may refer the dispute to the Arbitration Committee for decision. If such reference shall have been so made no steps shall be taken in the matter by any party to this Agreement pending a decision by the Arbitration Committee. If the Arbitration Committee shall give a decision adverse to the German Debtor and the German Debtor shall fail, within a fortnight of the decision of such Committee, to comply therewith the German Debtor shall forthwith cease to enjoy any benefits or privileges under this Agreement in respect of the short-term credit held at his disposal by the Foreign Bank Creditor.   
 (4).  If a German Debtor ceases at any time to enjoy any benefits, or privileges under this Agreement by reason of any of the provisions of the foregoing sub-Clauses of this Clause, then in the case of bankruptcy, insolvency or composition (Vergleichsverfahren) or other arrangement of a similar character with all or some of his creditors his indebtedness to all his Foreign Bank Creditors, and in the case of a breach of his indebtedness to the Foreign Bank Creditor or Creditors affected by such breach, shall forthwith become due and payable and thereupon nothing shall prevent the Foreign Bank Creditor or Creditors concerned from prosecuting and enforcing all his or their claims against the German Debtor including the exercise of such remedies as he or they would have if permanently resident in the Federal Republic.   
 (5).  The fact that a German Debtor has lost the benefit of this Agreement shall not prejudice the rights of any party which existed at the date on which such loss of benefit took place and in particular shall not prejudice the rights of his Foreign Bank Creditor against the Deutsche Golddiskontbank in respect of any guarantee of short-term credits in respect of which such Debtor was liable.   
-(6).  If a German Debtor shall at any time cease to enjoy any benefits or privileges under this Agreement by reason of notice given pursuant to sub-Clause (2) of this Clause other than in case of a composition (Vergleichsverfahren), then the provisions of Clause 16 hereof shall not be applicable to the obligations of such Debtor in respect of the relative indebtedness.   
+(6).  If a German Debtor shall at any time cease to enjoy any benefits or privileges under this Agreement by reason of notice given pursuant to sub-Clause (2) of this Clause other than in case of a composition (Vergleichsverfahren), then the provisions of Clause 16 hereof shall not be applicable to the obligations of such Debtor in respect of the relative indebtedness.  
 
 ### 15  
 
 ####Maintenance of Credits for Longer Periods
 
-Any Foreign Bank Creditor may make arrangements with his German Debtor for the maintenance of his short-term credits or some of them for a period longer than is provided by Clause 2 of this Agreement or for the substitution of such credits by other credits to be maintained for a period longer than is provided by that Clause. On the making of any such arrangement the short-term credit or short-term credits which is or are so extended or substituted shall cease to be subject to this Agreement if the Bank deutscher Laender agrees.  
+Any Foreign Bank Creditor may make arrangements with his German Debtor for the maintenance of his short-term credits or some of them for a period longer than is provided by Clause 2 of this Agreement or for the substitution of such credits by other credits to be maintained for a period longer than is provided by that Clause. On the making of any such arrangement the short-term credit or short-term credits which is or are so extended or substituted shall cease to be subject to this Agreement if the Bank deutscher Laender agrees. 
 
 ### 16  
 
 ####Provision of Foreign Exchange
 
-The Bank deutscher Laender undertakes to make available at all times during the period of this Agreement the necessary foreign exchange to enable the German Debtors to discharge the obligations necessitating the provision of foreign exchange and assumed by them under or pursuant to this Agreement.  
+The Bank deutscher Laender undertakes to make available at all times during the period of this Agreement the necessary foreign exchange to enable the German Debtors to discharge the obligations necessitating the provision of foreign exchange and assumed by them under or pursuant to this Agreement. 
 
 ### 17  
 
@@ -1276,25 +1275,25 @@ The Bank deutscher Laender undertakes to make available at all times during the 
 (1).  For the purpose of conferring from time to time with the German Committee and the Bank deutscher Laender and keeping the Foreign Bankers' Committees informed of matters arising during the period of this Agreement and of performing such other duties, consistent with the terms of this Agreement, as shall be entrusted to them under this Agreement or by the Foreign Bankers' Committees, a meeting of a Consultative Committee consisting of delegates representing the Foreign Bankers' Committees may be convened at any time by the Chairman of the Joint Committee of Representatives of Foreign Bankers' Committees and shall be so convened by him at any time if he is requested so to do by the German Committee or by any Foreign Bankers' Committee. Each Foreign Bankers' Committee signatory to this Agreement shall be entitled to nominate a delegate. Any meeting fixed by or in accordance with this Clause may be cancelled or postponed by notice given by the Chairman of the said Joint Committee.   
 (2).  Subject as hereinafter provided all decisions of the delegates shall be taken by the vote of delegates present and representing a majority of the Foreign Bankers' Committees, provided that such majority of Foreign Bankers' Committees shall represent not less than 50 per cent. in face value of the short-term credits then outstanding.   
 (3).  The Committee herein appointed may by unanimous vote of the delegates present at a meeting and with the agreement of the German Committee construe and amend the terms of this Agreement from time to time, provided that no amendment shall be made which shall substantially change the rights of the parties or adherents hereto. The determination of the Committee herein appointed and of the German Committee that any such amendment does not substantially change such rights shall be binding on all the parties and adherents hereto.   
-(4).  If at any time it becomes possible under laws then in force in the Federal Republic for a Foreign Bank Creditor to require repayment of a short-term credit or any part thereof in German currency, then the Consultative Committee by unanimous vote of its delegates at a meeting (or by written agreement of all such delegates without a formal meeting) may amend Clauses 10 and 11a of this Agreement so as to make payment in German currency thereunder compulsory upon the Debtor if and to the extent that a Foreign Bank Creditor shall require the same subject, however, to any then still subsisting limitations in force in the Federal Republic regarding such payments. Any such amendment shall be binding upon all the parties and adherents hereto.   
+(4).  If at any time it becomes possible under laws then in force in the Federal Republic for a Foreign Bank Creditor to require repayment of a short-term credit or any part thereof in German currency, then the Consultative Committee by unanimous vote of its delegates at a meeting (or by written agreement of all such delegates without a formal meeting) may amend Clauses 10 and 11a of this Agreement so as to make payment in German currency thereunder compulsory upon the Debtor if and to the extent that a Foreign Bank Creditor shall require the same subject, however, to any then still subsisting limitations in force in the Federal Republic regarding such payments. Any such amendment shall be binding upon all the parties and adherents hereto.  
 
 ### 18  
 
 ####Investments under Previous Agreements
 
-As from the date of this Agreement interest and earnings in respect of investments made out of Registered Credit Balances pursuant to Clause 10 of any of the previous Agreements shall be dealt with as provided in clause 10 (5) *(g)* of the 1939 Agreement; provided that the rate at which such interest and earnings will be transferred shall not exceed the rate of interest for the time being payable on short-term credits to Foreign Bank Creditors in the same creditor country.  
+As from the date of this Agreement interest and earnings in respect of investments made out of Registered Credit Balances pursuant to Clause 10 of any of the previous Agreements shall be dealt with as provided in clause 10 (5) *(g)* of the 1939 Agreement; provided that the rate at which such interest and earnings will be transferred shall not exceed the rate of interest for the time being payable on short-term credits to Foreign Bank Creditors in the same creditor country. 
 
 ### 19  
 
 ####Maturity of Credits
 
-All indebtedness arising under short-term credits covered by this Agreement shall mature on the expiration or termination hereof and such indebtedness shall thereupon become due and payable. Furthermore, on such expiration or termination, Foreign Bank Creditors shall be entitled to debit the accounts of German Debtors with the amount of all bills accepted for account of such German Debtors notwithstanding the fact that the bills themselves are drawn for later maturity but so that no interest shall be chargeable until the bills mature. In the case of confirmed credits, Foreign Bank Creditors shall be entitled to debit as an actual liability the amount of all bills drawn thereunder prior to the expiration of this Agreement, notwithstanding the fact that such bills have not at that date been presented for acceptance and, as a contingent liability, the unused balance of any confirmed credit, but so that interest shall not be chargeable until the bills mature or until cash has actually been advanced by Foreign Bank Creditors in respect of such credits.  
+All indebtedness arising under short-term credits covered by this Agreement shall mature on the expiration or termination hereof and such indebtedness shall thereupon become due and payable. Furthermore, on such expiration or termination, Foreign Bank Creditors shall be entitled to debit the accounts of German Debtors with the amount of all bills accepted for account of such German Debtors notwithstanding the fact that the bills themselves are drawn for later maturity but so that no interest shall be chargeable until the bills mature. In the case of confirmed credits, Foreign Bank Creditors shall be entitled to debit as an actual liability the amount of all bills drawn thereunder prior to the expiration of this Agreement, notwithstanding the fact that such bills have not at that date been presented for acceptance and, as a contingent liability, the unused balance of any confirmed credit, but so that interest shall not be chargeable until the bills mature or until cash has actually been advanced by Foreign Bank Creditors in respect of such credits. 
 
 ### 20  
 
 ####Arbitration
 
-(1).  In case any dispute shall occur between Foreign Bank Creditors and German Debtors or the Bank deutscher Laender as to the interpretation of this Agreement or as to any matter or thing arising thereout, the same shall be referred to an Arbitration Committee constituted in accordance with the provisions of this Clause. <sup> (1)  See Sub-Annex.  </sup>   
+(1).  In case any dispute shall occur between Foreign Bank Creditors and German Debtors<sup> (1) See Sub-Annex. </sup> or the Bank deutscher Laender as to the interpretation of this Agreement or as to any matter or thing arising thereout, the same shall be referred to an Arbitration Committee constituted in accordance with the provisions of this Clause.   
 (2).  The Arbitration Committee shall be constituted as follows: 
 
 (a) The Bank for international Settlements shall nominate three persons to serve as permanent members of the Arbitration Committee, designating one of such persons as Chairman of the Committee an a second person as Vice-Chairman to preside over any meeting of the Committee in the absence of the Chairman.  
@@ -1310,19 +1309,19 @@ All indebtedness arising under short-term credits covered by this Agreement shal
 
 (d) The Arbitration Committee shall in respect of every decision made by it, whether or not such decision is unanimous, state briefly in writing the grounds upon which such decision is based provided, however, that the grounds for the Committee's decision need not be given if the Committee so determines by a unanimous vote, unless one of the parties has prior to the hearing requested in writing that the grounds be stated. In cases where no grounds are stated the award shall contain a record of the fact that a unanimous decision to that effect was passed by the Committee and that no request was made by any of the parties as aforesaid.  
 
-(e) If the Arbitration Committee shall, in respect of any question referred to it, declare itself not to be competent to decide the same and if upon application to the appropriate court of law in the country of any of the parties to the proceedings, jurisdiction shall be declined upon the ground that jurisdiction rests with the Committee, or, if the question be referred back wholly or in part to the Committee, then in either such case the Committee shall decide the question.     
+(e) If the Arbitration Committee shall, in respect of any question referred to it, declare itself not to be competent to decide the same and if upon application to the appropriate court of law in the country of any of the parties to the proceedings, jurisdiction shall be declined upon the ground that jurisdiction rests with the Committee, or, if the question be referred back wholly or in part to the Committee, then in either such case the Committee shall decide the question.    
 
 ### 21  
 
 ####Expenses
 
-The costs and expenses of and incidental to the preparation and execution of this Agreement and of carrying the terms thereof into effect, including all legal costs and other expenses properly incurred by Foreign Bankers' Committees prior to the execution of this Agreement (but not earlier than 1st November, 1950) and during the continuance thereof, shall be for the account of the German Debtors. Provision for the payment of all such costs, expenses and remuneration shall be made by the German Committee.  
+The costs and expenses of and incidental to the preparation and execution of this Agreement and of carrying the terms thereof into effect, including all legal costs and other expenses properly incurred by Foreign Bankers' Committees prior to the execution of this Agreement (but not earlier than 1st November, 1950) and during the continuance thereof, shall be for the account of the German Debtors. Provision for the payment of all such costs, expenses and remuneration shall be made by the German Committee. 
 
 ### 22  
 
 ####Adherence
 
-(1).  Adherence to this Agreement shall be effected by each Foreign Bank Creditor notifying to his German Debtor or Debtors within two months from the coming into force of this Agreement his willingness to adhere, by means of a letter in standard form rendered in duplicate (specifying the short-term credits in respect of which such German Debtor or Debtors are liable and in respect of which adherence is made) which will be obtainable from the Foreign Bankers' Committees in the respective foreign creditor countries. Every German Debtor shall forward within four days of receipt of a letter of adherence from any of his Foreign Bank Creditors a letter confirming his adherence in standard form which will be obtainable from the Bank deutscher Laender or any Landeszentralbank . Adherence by the Foreign Bank Creditor may be effected by cable subsequently confirmed in the foregoing manner. <sup> (1)  See Sub-Annex.  </sup> <sup> (1)  See Sub-Annex.  </sup>   
+(1).  Adherence to this Agreement shall be effected by each Foreign Bank Creditor notifying to his German Debtor or Debtors within two months from the coming into force of this Agreement his willingness to adhere, by means of a letter in standard form rendered in duplicate (specifying the short-term credits in respect of which such German Debtor or Debtors are liable and in respect of which adherence is made) which will be obtainable from the Foreign Bankers' Committees in the respective foreign creditor countries. Every German Debtor shall forward within four days of receipt of a letter of adherence from any of his Foreign Bank Creditors a letter confirming his adherence <sup> (1)  See Sub-Annex. </sup> in standard form which will be obtainable from the Bank deutscher Laender or any Landeszentralbank<sup> (1)  See Sub-Annex. </sup>. Adherence by the Foreign Bank Creditor may be effected by cable subsequently confirmed in the foregoing manner.   
 (2).  Each Foreign Bank Creditor who formerly participated in a syndicate credit shall be entitled to adhere to this Agreement in respect of his participation in the business.   
 (3).  Upon adherence having been effected the Foreign Bank Creditor and the German Debtor shall become parties to this Agreement in respect of the short-term credits so specified, and shall thenceforth be entitled to the rights granted to and be subject to the obligations to be assumed by the Foreign Bank Creditors and German Debtors respectively under this Agreement.   
 (4).  Any Foreign Bankers' Committee may, with the consent of the German Committee, extend the time within which any one or more Foreign Bank Creditors in its country may adhere to this Agreement. Provided that where any person, firm or company in the Federal Republic becomes liable in respect of a short-term credit or part thereof by way of succession or substituted succession during the period of this Agreement or where new adherences are exchanged pursuant to Clause 5, 7 or 8 hereof, adherence in respect of such credit or part of a credit may be made without such consent as aforesaid within a reasonable time after such succession or other relevant event takes place.   
@@ -1331,7 +1330,7 @@ The costs and expenses of and incidental to the preparation and execution of thi
 (7).  Where a German banking, commercial or industrial concern becomes or has become the successor to the primary liability under any short-term credit or part thereof pursuant to or as a result of German law (*e.g.,* Reg. 35 under monetary Law No. 63 or Credit Institution Law promulgated March 29, 1952) the Foreign Bank Creditor may adhere to this Agreement *vis-à-vis* such concern in respect of such credit or part of a credit and such concern shall confirm adherence on its part in the manner and with the effects provided in this Agreement. This provision shall also be operative in the case of any substituted succession in respect of a short-term credit or part thereof where such substitution is in accordance with laws now in force in the Federal Republic (*e.g.,* Art 7 (3) of Credit Institution Law promulgated March 29, 1952). Upon adherence by any successor German Debtor in respect of a short-term credit or part thereof the relative adherence by any predecessor German Debtor shall (except as herein otherwise provided) cease to have force and effect.   
 (8).  Where pursuant to laws now in force in the Federal Republic *(e.g.,* Reg. 35 under Monetary Law No. 63 or Credit Institution Law promulgated March 29, 1952) one or more successor banking institutions become or have become jointly liable with the original German Bank Debtor in respect of a short-term credit or part thereof, then (subject to the provisions of the two succeeding sub-Clauses) such successor institution or institutions shall also adhere to this Agreement in respect of such credit or part of a credit, but in such case the adherence of the original German Bank Debtor shall continue in full force and effect.   
 (9).  In the case of any short-term credit or part thereof which has been granted to a German Bank Debtor and in respect of which a client of such German Bank Debtor ordinarily resident outside the Federal Republic is also liable, neither the German Bank Debtor nor any banking institution jointly liable with it shall be obliged to take any action in respect of such credit or part of a credit under the provisions of this Agreement (except to adhere by way of acknowledgment of the existence and amount of such credit or part of a credit) unless and until the Foreign Bank Creditor would be entitled in the absence of this Agreement to enforce payment in the Federal Republic of the relative indebtedness under German law.   
-(10).  In the case of any short-term credit derived from an original cash advance which was not converted into an acceptance credit, payment of which the Foreign Bank Creditor (by reason of laws for the time being in force in the Federal Republic, *e.g.,* Reg. 35 under Monetary Law No. 63 or Art. 7 (2) of the Credit Institution Law promulgated March 29, 1952) can enforce within the Federal Republic only to the extent of a proportionate part, the German Bank Debtor and any banking institution which may be jointly liable with it shall not be obliged to take any action under the provisions of this Agreement in respect of that proportionate part which the Foreign Bank Creditor cannot for the time being enforce (except to adhere by way of acknowledgment of the existence and amount thereof) until the Foreign Bank Creditor would be entitled in the absence of this Agreement to enforce payment in the Federal Republic of the relative indebtedness under German law.   
+(10).  In the case of any short-term credit derived from an original cash advance which was not converted into an acceptance credit, payment of which the Foreign Bank Creditor (by reason of laws for the time being in force in the Federal Republic, *e.g.,* Reg. 35 under Monetary Law No. 63 or Art. 7 (2) of the Credit Institution Law promulgated March 29, 1952) can enforce within the Federal Republic only to the extent of a proportionate part, the German Bank Debtor and any banking institution which may be jointly liable with it shall not be obliged to take any action under the provisions of this Agreement in respect of that proportionate part which the Foreign Bank Creditor cannot for the time being enforce (except to adhere by way of acknowledgment of the existence and amount thereof) until the Foreign Bank Creditor would be entitled in the absence of this Agreement to enforce payment in the Federal Republic of the relative indebtedness under German law.  
 
 ### 23  
 
@@ -1344,48 +1343,48 @@ The costs and expenses of and incidental to the preparation and execution of thi
 (b) sub-Clause (4) thereof shall be deemed to be amended so that the words “Clause 23 of the 1932, 1933, 1934, 1935, 1936, 1937 and 1938 Agreements” shall be substituted by the words “Clause 23 of any of the previous Agreements”.  
 
 (c) sub-Clauses (5) and (7) thereof shall be deleted.     
-(2).  The Liquidator of the Deutsche Golddiskontbank by signing this Agreement accepts the provisions of sub-Clause (1) of this Clause and severally acknowledges to each Foreign Bank Creditor holding any short-term credit or part of a short-term credit payment of which has heretofore been guaranteed by the Deutsche Golddiskontbank and in respect of which adherence is made to this Agreement that, to the extent that such credit or part of a credit has not heretofore been paid or satisfied, the liability upon such guarantee remains in full force and effect.   
+(2).  The Liquidator of the Deutsche Golddiskontbank by signing this Agreement accepts the provisions of sub-Clause (1) of this Clause and severally acknowledges to each Foreign Bank Creditor holding any short-term credit or part of a short-term credit payment of which has heretofore been guaranteed by the Deutsche Golddiskontbank and in respect of which adherence is made to this Agreement that, to the extent that such credit or part of a credit has not heretofore been paid or satisfied, the liability upon such guarantee remains in full force and effect.  
 
 ### 24  
 
 ####Payments from Other Sources
 
-In the event that subsequent to his adherence to this Agreement any Foreign Bank Creditor shall in relation to any existing indebtedness owed by a debtor in the territory comprised in the German State on the 31st day of December, 1937, accept payment of any sum of money from a source other than such debtor, which sum he is required by operation of law or otherwise or elects to apply against short-term credits covered by this Agreement, then such Foreign Bank Creditor shall apply such moneys in permanent repayment of indebtedness in respect of the short-term credit or credits (if any) in relation to which such sum was received; provided that if such sum was not received in relation to any particular short-term credit or credits then, unless the Foreign Bank Creditor has other indebtedness of the nature aforesaid (not being short-term credits) owing to him against which he can legally apply and elects to apply such moneys, the same shall be applied by the Foreign Bank Creditor against such short-term credit or credits as he may select. Promptly upon application of such moneys in reduction of any short-term credit or credits the Foreign Bank Creditor shall notify the relative debtor or debtors and the German Committee and his own Foreign Bankers' Committee of such application and the indebtedness in respect of the short-term credit or credits against which such moneys are so applied shall thereafter be permanently repaid accordingly.  
+In the event that subsequent to his adherence to this Agreement any Foreign Bank Creditor shall in relation to any existing indebtedness owed by a debtor in the territory comprised in the German State on the 31st day of December, 1937, accept payment of any sum of money from a source other than such debtor, which sum he is required by operation of law or otherwise or elects to apply against short-term credits covered by this Agreement, then such Foreign Bank Creditor shall apply such moneys in permanent repayment of indebtedness in respect of the short-term credit or credits (if any) in relation to which such sum was received; provided that if such sum was not received in relation to any particular short-term credit or credits then, unless the Foreign Bank Creditor has other indebtedness of the nature aforesaid (not being short-term credits) owing to him against which he can legally apply and elects to apply such moneys, the same shall be applied by the Foreign Bank Creditor against such short-term credit or credits as he may select. Promptly upon application of such moneys in reduction of any short-term credit or credits the Foreign Bank Creditor shall notify the relative debtor or debtors and the German Committee and his own Foreign Bankers' Committee of such application and the indebtedness in respect of the short-term credit or credits against which such moneys are so applied shall thereafter be permanently repaid accordingly. 
 
 ### 25  
 
 ####Execution and Short Title
 
 (1).  The original parts of this Agreement executed by the German Committee, the Bank deutscher Laender and the respective Foreign Bankers' Committee shall be forwarded through the respective Central Banks to the Bank for International Settlements for retention by that institution in safe custody for all parties interested therein.   
-(2).  For purposes of reference this Agreement may be referred to as “THE GERMAN CREDIT AGREEMENT OF 1952.”   
+(2).  For purposes of reference this Agreement may be referred to as “THE GERMAN CREDIT AGREEMENT OF 1952.”  
 
 ### 26  
 
 ####Notices
 
-Any notice in writing, formal or otherwise, required to be given pursuant to any of the provisions of this Agreement shall be deemed to have been duly given if sent by post, telegram, radiogram or cablegram (charges prepaid) to or delivered at an address furnished by the party entitled to receive the notice or if no such address shall have been furnished, the said party's usual place of business.  
+Any notice in writing, formal or otherwise, required to be given pursuant to any of the provisions of this Agreement shall be deemed to have been duly given if sent by post, telegram, radiogram or cablegram (charges prepaid) to or delivered at an address furnished by the party entitled to receive the notice or if no such address shall have been furnished, the said party's usual place of business. 
 
 ### 27  
 
-[ *Deleted* ]  
+[*Deleted*] 
 
 ### 28  
 
 ####Headings
 
-Headings are intended for reference only and are not intended in any way to govern the construction of this Agreement.  
+Headings are intended for reference only and are not intended in any way to govern the construction of this Agreement. 
 
 ### 29  
 
 ####Requisite Signatures
 
-This Agreement shall become effective when signed by the German Committee and the Bank deutscher Laender and when signed and (where appropriate) ratified by Foreign Bankers' Committees representing Foreign Bank Creditors whose short-term credits constitute 75 per cent. in face value of the short-term credits outstanding.  
+This Agreement shall become effective when signed by the German Committee and the Bank deutscher Laender and when signed and (where appropriate) ratified by Foreign Bankers' Committees representing Foreign Bank Creditors whose short-term credits constitute 75 per cent. in face value of the short-term credits outstanding. 
 
 ####SUB-ANNEX TO ANNEX III
 
 *Exchange of letters between Creditor and Debtor Representative recording Supplementary Understandings reached by them with respect to Annex III*   
 
-To The American Committee for Standstill Creditors of Germany. The British Banking Committee for German Affairs. The Swiss Banking Committee for the German Credit Agreement.  *19th February, 1953.*  Dear Sirs,  *The German Credit Agreement of 1952*  We refer to the statements which have been made by the Tripartite Commission on German Debts on behalf of the Governments represented thereon and by the German Delegation on behalf of the Government of the Federal Republic of Germany that their Governments are prepared by appropriate administrative action in Germany to permit the German Credit Agreement of 1952 (contained in Annex III to the Agreement on German External Debts and below referred to as “the 1952 Agreement”) to come into force on ratification of the Agreement on German External Debts by the Federal Republic of Germany, except that foreign currency payments provided for in the 1952 Agreement, other than those normally arising pursuant to Clause 5 thereof, shall be postponed until the Agreement on German External Debts (below referred to as the “Intergovernmental Agreement”) comes into force in accordance with Article 35 thereof. We also refer to the forms of Adherence proposed to be exchanged conditionally between creditors and debtors under the 1952 Agreement in which reference is made *(inter alia)* to the postponement of foreign currency payments under that Agreement as mentioned above and the debtors agree that upon the 1952 Agreement becoming fully effective pursuant to the said Intergovernmental Agreement, they will make prompt payment to the creditors of all foreign currency payments under the 1952 Agreement which shall in the meantime have been postponed. We hereby agree that the 1952 Agreement shall come into force upon compliance with the provisions of Clause 29 thereof and upon ratification of the said Intergovernmental Agreement by the Federal Republic of Germany, but shall cease to become effective if it is not included in the said Intergovernmental Agreement when the latter Agreement comes into force. Accordingly Clause 2 of the 1952 Agreement shall be read as if the date when compliance shall have been made with Clause 29 of that Agreement and when ratification of the Intergovernmental Agreement shall have been made by the Federal Republic of Germany were inserted therein as the date upon which the provisions of the 1952 Agreement shall come into force. We further agree that, if the 1952 Agreement is included in the said Intergovernmental Agreement when the latter Agreement comes into force in accordance with Article 35 thereof, we will do all such things as are within our respective powers to enable prompt payment to be made to the creditors of all foreign currency payments under the 1952 Agreement which shall in the meantime have been postponed. We confirm that, by agreement between the parties to the 1952 Agreement, the following amendments are to be made to the text of that Agreement as contained in Appendix 5 to the Final Report of the Conference on German External Debts and are to be incorporated in the Agreement in the form in which it is signed, viz: *Paragraph (7) of Preamble.* The words “Government of the Federal Republic or other appropriate authority” to be substituted by the words “appropriate governmental authorities in the Federal Republic of Germany and the Western Sectors of Berlin.” The word “and” to be inserted at the end of sub-paragraph (ii) and the same word to be deleted at the end of sub-paragraph (iii). Sub-paragraph (iv) to be preceded by the words “and shall ensure as far as possible that”. *Clause 1: Definitions.* The words “and relates to the identification of territory and not to governmental jurisdiction” to be added at the end of the definition of “Federal Republic”. *Clause 20: Arbitration.* In sub-Clause (1) the words “who have adhered to this Agreement” to be inserted after the words “German Debtors”. *Clause 22: Adherence.* In sub-Clause (1) the words “confirming his adherence” to be deleted and the words “confirming his adherence to this Agreement and (if the creditor so requests) agreeing that he will adhere to any renewal or extension thereof that may be signed by the German Committee and the Bank deutscher Länder” to be inserted at the end of the second sentence of that sub-Clause. We, the undersigned German Committee, hereby consent, in accordance with Clause 22 (4) of the 1952 Agreement, to your Committee's extending the time within which any one or more foreign bank creditors in your respective countries may adhere to the 1952 Agreement to enable such adherence to be made at any time within two months of the said Intergovernmental Agreement coming into force. Yours faithfully, (signed) For and on behalf of the German Committee for Standstill Debts. (signed) For and on behalf of the Bank deutscher Länder. To: The German Committee for Standstill Debts. The Bank deutscher Länder.  *20th February, 1953.*  Dear Sirs, 
+To The American Committee for Standstill Creditors of Germany. The British Banking Committee for German Affairs. The Swiss Banking Committee for the German Credit Agreement.  *19th February, 1953.*   Dear Sirs,  *The German Credit Agreement of 1952*  We refer to the statements which have been made by the Tripartite Commission on German Debts on behalf of the Governments represented thereon and by the German Delegation on behalf of the Government of the Federal Republic of Germany that their Governments are prepared by appropriate administrative action in Germany to permit the German Credit Agreement of 1952 (contained in Annex III to the Agreement on German External Debts and below referred to as “the 1952 Agreement”) to come into force on ratification of the Agreement on German External Debts by the Federal Republic of Germany, except that foreign currency payments provided for in the 1952 Agreement, other than those normally arising pursuant to Clause 5 thereof, shall be postponed until the Agreement on German External Debts (below referred to as the “Intergovernmental Agreement”) comes into force in accordance with Article 35 thereof. We also refer to the forms of Adherence proposed to be exchanged conditionally between creditors and debtors under the 1952 Agreement in which reference is made *(inter alia)* to the postponement of foreign currency payments under that Agreement as mentioned above and the debtors agree that upon the 1952 Agreement becoming fully effective pursuant to the said Intergovernmental Agreement, they will make prompt payment to the creditors of all foreign currency payments under the 1952 Agreement which shall in the meantime have been postponed. We hereby agree that the 1952 Agreement shall come into force upon compliance with the provisions of Clause 29 thereof and upon ratification of the said Intergovernmental Agreement by the Federal Republic of Germany, but shall cease to become effective if it is not included in the said Intergovernmental Agreement when the latter Agreement comes into force. Accordingly Clause 2 of the 1952 Agreement shall be read as if the date when compliance shall have been made with Clause 29 of that Agreement and when ratification of the Intergovernmental Agreement shall have been made by the Federal Republic of Germany were inserted therein as the date upon which the provisions of the 1952 Agreement shall come into force. We further agree that, if the 1952 Agreement is included in the said Intergovernmental Agreement when the latter Agreement comes into force in accordance with Article 35 thereof, we will do all such things as are within our respective powers to enable prompt payment to be made to the creditors of all foreign currency payments under the 1952 Agreement which shall in the meantime have been postponed. We confirm that, by agreement between the parties to the 1952 Agreement, the following amendments are to be made to the text of that Agreement as contained in Appendix 5 to the Final Report of the Conference on German External Debts and are to be incorporated in the Agreement in the form in which it is signed, viz:  *Paragraph (7) of Preamble.* The words “Government of the Federal Republic or other appropriate authority” to be substituted by the words “appropriate governmental authorities in the Federal Republic of Germany and the Western Sectors of Berlin.” The word “and” to be inserted at the end of sub-paragraph (ii) and the same word to be deleted at the end of sub-paragraph (iii). Sub-paragraph (iv) to be preceded by the words “and shall ensure as far as possible that”.  *Clause 1: Definitions.* The words “and relates to the identification of territory and not to governmental jurisdiction” to be added at the end of the definition of “Federal Republic”.  *Clause 20: Arbitration.* In sub-Clause (1) the words “who have adhered to this Agreement” to be inserted after the words “German Debtors”.  *Clause 22: Adherence.* In sub-Clause (1) the words “confirming his adherence” to be deleted and the words “confirming his adherence to this Agreement and (if the creditor so requests) agreeing that he will adhere to any renewal or extension thereof that may be signed by the German Committee and the Bank deutscher Länder” to be inserted at the end of the second sentence of that sub-Clause. We, the undersigned German Committee, hereby consent, in accordance with Clause 22 (4) of the 1952 Agreement, to your Committee's extending the time within which any one or more foreign bank creditors in your respective countries may adhere to the 1952 Agreement to enable such adherence to be made at any time within two months of the said Intergovernmental Agreement coming into force. Yours faithfully, (signed) For and on behalf of the German Committee for Standstill Debts. (signed) For and on behalf of the Bank deutscher Länder. To: The German Committee for Standstill Debts. The Bank deutscher Länder.  *20th February, 1953.*  Dear Sirs, 
 ### *The German Credit Agreement of 1952* 
 
 We acknowledge receipt of your letter with regard to the arrangements for the bringing into force of the above Agreement and the temporary postponement of payment to the creditors of foreign currency payments provided for in that Agreement, other than those normally arising pursuant to Clause 5 thereof, and hereby confirm our acceptance of the terms and conditions set out in your letter. In particular we agree 
@@ -1396,9 +1395,9 @@ We acknowledge receipt of your letter with regard to the arrangements for the br
 
 (c) that the amendments to the text of the 1952 Agreement set out in your letter are to be incorporated in the Agreement in the form in which it is signed.   This letter may be executed in several counterparts which taken together will constitute one and the same instrument. Yours faithfully, (signed) For and on behalf of the American Committee for Standstill Creditors of Germany. (signed) For and on behalf of the British Banking Committee for German Affairs (signed) For and on behalf of the Swiss Bank- ing Committee for the German Credit Agreement.   
 
-### ANNEX  IV  
+### ANNEX   IV  
 
-[ *Note: The text reproduced hereunder is the text of Appendix 6 to the Report of the Conference on German External Debts with such changes as were required to achieve uniformity in the three languages.* ]  *Agreed Recommendations for the Settlement of Claims arising out of Goods and Services Transactions, of certain Claims arising from Capital Transactions and of various other Claims.*   *CONTENTS*   *Section A. Classification of Claims*  Article 
+[*Note: The text reproduced hereunder is the text of Appendix 6 to the Report of the Conference on German External Debts with such changes as were required to achieve uniformity in the three languages.*]  *Agreed Recommendations for the Settlement of Claims arising out of Goods and Services Transactions, of certain Claims arising from Capital Transactions and of various other Claims.*   *CONTENTS*   *Section A. Classification of Claims*  Article 
 
 1. Claims arising out of transactions for goods and services.  
 
@@ -1418,55 +1417,55 @@ We acknowledge receipt of your letter with regard to the arrangements for the br
 
 9. Konversionskasse for German External Debts.  
 
-10. Payments into the Deutsche Verrechnungskasse.  
+10.  Payments into the Deutsche Verrechnungskasse.  
 
-11. Hardship clause.  
+11.  Hardship clause.  
 
-12. Succession to claims and debts by operation of law.  
+12.  Succession to claims and debts by operation of law.  
 
-13. Change of creditor.  
+13.  Change of creditor.  
 
-14. Participation in the Debt Settlement, foreign currency regulations, debtor obligations.  
+14.  Participation in the Debt Settlement, foreign currency regulations, debtor obligations.  
 
-15. Settlement of disputes.  
+15.  Settlement of disputes.  
 
-16. Mixed Commission.  
+16.  Mixed Commission.  
 
-17. Court of Arbitration.  
+17.  Court of Arbitration.  
 
-18. Payment in Deutsche Mark.  
+18.  Payment in Deutsche Mark.  
 
-19. Utilisation of blocked Deutsche Mark accounts.  
+19.  Utilisation of blocked Deutsche Mark accounts.  
 
-20. Effect of the settlement on claims.  
+20.  Effect of the settlement on claims.  
 
-21. Currency option clauses without a gold clause.  
+21.  Currency option clauses without a gold clause.  
 
-22. Concessions in favour of debtors.  
+22.  Concessions in favour of debtors.  
 
-23. Effective Conversion.  
+23.  Effective Conversion.  
 
-24. Currency of payment.  
+24.  Currency of payment.  
 
-25. Validation laws for German bonds.    *Section C. Settlement of Old Commercial Claims*  
+25.  Validation laws for German bonds.    *Section C. Settlement of Old Commercial Claims*  
 
-26. Claims arising out of supplies of goods.  
+26.  Claims arising out of supplies of goods.  
 
-27. Claims arising out of prepayments for supplies of goods and services.  
+27.  Claims arising out of prepayments for supplies of goods and services.  
 
-28. Wages, salaries, pensions based on employment, commission.  
+28.  Wages, salaries, pensions based on employment, commission.  
 
-29. Services from social insurance.  
+29.  Services from social insurance.  
 
-30. Claims arising out of private insurance business.  
+30.  Claims arising out of private insurance business.  
 
-31. Other old commercial claims.  
+31.  Other old commercial claims.  
 
-32. Joint provisions for old commercial debts.    *Section D. Settlement of Claims arising out of Private Financial Transactions*  
+32.  Joint provisions for old commercial debts.    *Section D. Settlement of Claims arising out of Private Financial Transactions *  
 
-33. Claims in German currency.  
+33.  Claims in German currency.  
 
-34. Claims in non-German currency.    *Section E. Arrears of Income from Investments*  
+34.  Claims in non-German currency.    *Section E. Arrears of Income from Investments*  
 
 35.     *Section F. Other Monetary Claims*  
 
@@ -1497,7 +1496,7 @@ Monetary claims arising out of international transactions for goods and services
 
 (8) Payments arising out of social insurance;  
 
-(9) Claims arising out of private insurance business.   Claims not specifically mentioned in paragraphs (1) to (9) which clearly fall within the scope of the international goods and services transactions dealt with in this section, shall be allotted to the corresponding items.  
+(9) Claims arising out of private insurance business.   Claims not specifically mentioned in paragraphs (1) to (9) which clearly fall within the scope of the international goods and services transactions dealt with in this section, shall be allotted to the corresponding items. 
 
 ### Article  2  
 
@@ -1517,7 +1516,7 @@ The following claims which arose out of financial transactions before 8th May, 1
 
 (3) Claims not specifically mentioned in (1) and (2) but clearly falling within the scope of claims arising from financial transactions and not falling under the settlement proposals in Annexes I to III to the Agreement on German External Debts.  
 
-(4) By way of exception, claims arising out of mortgages and land charges (Grund- und Rentenschulden) where the debtor or land owner is a Gemeinde (municipality) or another public institution and the charge does not form part of a loan contract.   See Sub-Annex regarding the Swiss franc land charges (Schweizer Frankengrundschulden) pursuant to the German-Swiss Agreements of 6th December, 1920, and 25th March, 1923.  
+(4) By way of exception, claims arising out of mortgages and land charges (Grund- und Rentenschulden) where the debtor or land owner is a Gemeinde (municipality) or another public institution and the charge does not form part of a loan contract.   See Sub-Annex regarding the Swiss franc land charges (Schweizer Frankengrundschulden) pursuant to the German-Swiss Agreements of 6th December, 1920, and 25th March, 1923. 
 
 ### Article  3  
 
@@ -1527,17 +1526,17 @@ Income of foreign creditors from investments in the Federal Republic of Germany 
 
 (2) Profits;  
 
-(3) Rents.    
+(3) Rents.   
 
 ### Article  4  
 
-Monetary claims which arose prior to 8th May, 1945, not dealt with in other Annexes to the Agreement on German External Debts and not mentioned in Articles 1-3 of this settlement proposal, but which by their character fall within the scope of this settlement proposal.  
+Monetary claims which arose prior to 8th May, 1945, not dealt with in other Annexes to the Agreement on German External Debts and not mentioned in Articles 1-3 of this settlement proposal, but which by their character fall within the scope of this settlement proposal. 
 
 ### Article  5  
 
 ####Exceptions
 
-Excluded from this settlement proposal are, until otherwise stipulated, claims against the City of Berlin and against public utilities located in the area of and controlled by Berlin.  
+Excluded from this settlement proposal are, until otherwise stipulated, claims against the City of Berlin and against public utilities located in the area of and controlled by Berlin. 
 
 ### Section  B  
 
@@ -1548,19 +1547,19 @@ Excluded from this settlement proposal are, until otherwise stipulated, claims a
 ####Conversion into Deutsche Mark
 
 (1).  Claims expressed in Reichsmark shall be settled after the foreign creditor has declared his agreement to his claim being converted into Deutsche Mark at the same rate as would apply in the case of a similar claim of a domestic creditor. This applies also to such monetary claims expressed in Goldmark or Reichsmark with a gold clause as have no specific foreign character within the meaning of the following paragraph (2). The German Foreign Exchange Control Authorities shall continue to issue any licence necessary for a conversion pursuant to the Conversion Law or for a modification of the conversion rate pursuant to the legislation on Deutsche Mark balance sheets, to the extent that the creditor is entitled to such conversion or modification.   
-(2).  The principle is accepted that such monetary claims arising from financial transactions and mortgages, expressed in Goldmark or in Reichsmark with a gold clause as had a specific foreign character, shall be converted into Deutsche Mark at the rate of 1 Goldmark, or 1 Reichsmark with a gold clause, = 1 Deutsche Mark. The definition of the criteria constituting the specific foreign character of such claims shall be the subject of further negotiation . The contracting parties reserve their position as to the question in which cases and in which way the above principle can be implemented. It shall lie with the German Delegation to decide how the solution arrived at can be fitted into the framework of the German laws on currency reform and on the equalisation of war and post-war burdens. <sup> (1)  See now Annex VII.  </sup> The above-mentioned negotiations between a German Delegation and the creditors' representatives should take place not later than 31st October, 1952.   
+(2).  The principle is accepted that such monetary claims arising from financial transactions and mortgages, expressed in Goldmark or in Reichsmark with a gold clause as had a specific foreign character, shall be converted into Deutsche Mark at the rate of 1 Goldmark, or 1 Reichsmark with a gold clause, = 1 Deutsche Mark. The definition of the criteria constituting the specific foreign character of such claims shall be the subject of further negotiation<sup> (1)  See now Annex VII. </sup>. The contracting parties reserve their position as to the question in which cases and in which way the above principle can be implemented. It shall lie with the German Delegation to decide how the solution arrived at can be fitted into the framework of the German laws on currency reform and on the equalisation of war and post-war burdens. The above-mentioned negotiations between a German Delegation and the creditors' representatives should take place not later than 31st October, 1952.  
 
 ### Article  7  
 
 ####Claims expressed in Foreign Currency with Gold Clauses
 
-For the purpose of the settlement of these claims the following principles shall apply *mutatis mutandis:* In the case of debts expressed in gold dollars or gold Swiss francs, the debts shall be computed on the basis of 1 currency dollar equalling 1 gold dollar and 1 currency Swiss franc equalling 1 gold Swiss franc, and the new contracts shall be expressed in currency dollars or currency Swiss francs respectively. In the case of other debts with gold clauses (excluding German currency debts with gold clauses - see Article 6, paragraph 2) the amounts due shall be payable only in the currency of the country in which the loan was raised or the issue was made (referred to below as “the currency of issue”), the amount due being computed as the equivalent at the rate of exchange when the amount is due for payment of a sum in U.S. dollars which shall be arrived at by converting the amount of the obligation expressed in the currency of issue into U.S. dollars at the rate of exchange ruling when the loan was raised or the issue made. The amount of currency of issue so reached shall, however, not be less than if it were computed at the rate of exchange current on 1st August, 1952.  
+For the purpose of the settlement of these claims the following principles shall apply *mutatis mutandis:*  In the case of debts expressed in gold dollars or gold Swiss francs, the debts shall be computed on the basis of 1 currency dollar equalling 1 gold dollar and 1 currency Swiss franc equalling 1 gold Swiss franc, and the new contracts shall be expressed in currency dollars or currency Swiss francs respectively. In the case of other debts with gold clauses (excluding German currency debts with gold clauses - see Article 6, paragraph 2) the amounts due shall be payable only in the currency of the country in which the loan was raised or the issue was made (referred to below as “the currency of issue”), the amount due being computed as the equivalent at the rate of exchange when the amount is due for payment of a sum in U.S. dollars which shall be arrived at by converting the amount of the obligation expressed in the currency of issue into U.S. dollars at the rate of exchange ruling when the loan was raised or the issue made. The amount of currency of issue so reached shall, however, not be less than if it were computed at the rate of exchange current on 1st August, 1952. 
 
 ### Article  8  
 
 ####Computation in Deutsche Mark of Claims expressed in Foreign Currency
 
-Claims expressed in foreign currency shall be computed in Deutsche Mark based on the parity of the day preceding the date of repayment, as notified to the International Monetary Fund. Where no parity is laid down, the computation shall be made according to the mean rate of exchange quoted by the Bank deutscher Länder on the day preceding the date of payment.  
+Claims expressed in foreign currency shall be computed in Deutsche Mark based on the parity of the day preceding the date of repayment, as notified to the International Monetary Fund. Where no parity is laid down, the computation shall be made according to the mean rate of exchange quoted by the Bank deutscher Länder on the day preceding the date of payment. 
 
 ### Article  9  
 
@@ -1583,26 +1582,26 @@ II.  Subject to the general provisions contained in paragraph I above:
 
 (b) the Federal Government agrees to assume liability for payment in the respective foreign currencies to the foreign creditors of 60 per cent. of the sums paid into the Konversionskasse by debtors in Austria, France, Belgium and Luxemburg in respect of which the foreign creditors have not received foreign exchange payments or been otherwise satisfied;  
 
-(c) the Federal Government will negotiate with the foreign creditors' representatives before the end of December 1952 as regards the implementation of these undertakings.     
+(c) the Federal Government will negotiate with the foreign creditors' representatives before the end of December 1952 as regards the implementation of these undertakings.    
 
 ### Article  10  
 
 ####Payments into the Deutsche Verrechnungskasse
 
-The negotiating parties have discussed the payments made by German debtors to the Deutsche Verrechnungskasse which were not paid out to the creditors In view of the variations in the terms of the contracts between Germany and other countries, which are not yet executed, the creditors and debtors are of the opinion that the questions which have not been clarified should be solved by Governmental negotiations between the Federal Republic of Germany and the States concerned.  
+The negotiating parties have discussed the payments made by German debtors to the Deutsche Verrechnungskasse which were not paid out to the creditors In view of the variations in the terms of the contracts between Germany and other countries, which are not yet executed, the creditors and debtors are of the opinion that the questions which have not been clarified should be solved by Governmental negotiations between the Federal Republic of Germany and the States concerned. 
 
 ### Article  11  
 
 ####Hardship Clause
 
-Where and in so far as the financial position of a debtor has been affected by war or the repercussions of war or other extraordinary conditions, to such an extent that the debtor cannot be expected to settle his obligations in accordance with the conditions and within the time-limits laid down in this settlement proposal, he should be granted relief. This shall be equitable and take into account the debtor's special circumstances. The relief shall be in accordance with the concessions which the debtor has been or may be granted by a German creditor on similar grounds under German Law, especially under the legislation for the Relief of Debtors (Vertragshilferecht). Where the creditor and debtor do not reach agreement, the competent German Court shall make a decision. The creditor shall have the option of appealing against the decision of the Lower Court under the provisions of German Law, or, within a period of 30 days after notice of the Court decision has been served, of appealing to the Court of Arbitration constituted according to the provisions of Article 17. The decision of the Court of Arbitration shall be binding.  
+Where and in so far as the financial position of a debtor has been affected by war or the repercussions of war or other extraordinary conditions, to such an extent that the debtor cannot be expected to settle his obligations in accordance with the conditions and within the time-limits laid down in this settlement proposal, he should be granted relief. This shall be equitable and take into account the debtor's special circumstances. The relief shall be in accordance with the concessions which the debtor has been or may be granted by a German creditor on similar grounds under German Law, especially under the legislation for the Relief of Debtors (Vertragshilferecht). Where the creditor and debtor do not reach agreement, the competent German Court shall make a decision. The creditor shall have the option of appealing against the decision of the Lower Court under the provisions of German Law, or, within a period of 30 days after notice of the Court decision has been served, of appealing to the Court of Arbitration constituted according to the provisions of Article 17. The decision of the Court of Arbitration shall be binding. 
 
 ### Article  12  
 
 ####Succession to Claims and Debts by Operation of Law
 
 (1).  Where a foreign creditor has acquired or shall hereafter acquire claims of another foreign creditor by legal succession on death, the claim shall be treated within the framework of this settlement proposal in the same manner as if the original creditor continued to be entitled to it. The same shall apply to similar cases of succession by operation of law.   
-(2).  Any person who, by law or by a binding order, is under an obligation to take over the debt, or who has taken it over by contract, shall be liable for the debt as the successor of the debtor.   
+(2).  Any person who, by law or by a binding order, is under an obligation to take over the debt, or who has taken it over by contract, shall be liable for the debt as the successor of the debtor.  
 
 ### Article  13  
 
@@ -1615,7 +1614,7 @@ Where and in so far as the financial position of a debtor has been affected by w
 (b) does not entail any modification of the terms underlying the claim,  
 
 (c) does not result indirectly or directly in settlement of a claim.   The competent German authorities will give permission for the assignment if the conditions laid down in *(a)* to *(c)* are fulfilled. Over and above this, they shall give favourable consideration to wellfounded applications by a foreign creditor for approval of an assignment of part of his claim. By the acquisition of the claim the new creditor shall have the same rights and obligations as the original creditor. Should the new creditor demand from the debtor settlement of the claim in Deutsche Mark, the regulations for “original blocked accounts” shall apply to his blocked account after a period of three months has elapsed since the change of creditors occurred.   
-(2).  As far as the assignment of claims is concerned for which the creditor can demand payment only in Deutsche Mark, the regulations concerning the use and assignment of such claims in force at the time in the territory of the Federal Republic of Germany and Berlin (West) shall be decisive (see Article 19).   
+(2).  As far as the assignment of claims is concerned for which the creditor can demand payment only in Deutsche Mark, the regulations concerning the use and assignment of such claims in force at the time in the territory of the Federal Republic of Germany and Berlin (West) shall be decisive (see Article 19).  
 
 ### Article  14  
 
@@ -1625,31 +1624,31 @@ Where and in so far as the financial position of a debtor has been affected by w
 (2).  The valid Exchange Control Regulations in Germany and abroad, taking into consideration the special facilities and assurances specified in this settlement proposal, shall apply to the relations between the creditor and debtor.   
 (3).  Where the debtor refuses to make a declaration but the creditor declares himself bound to his own declaration of participation in relation to the debtor, the German Foreign Exchange Authorities shall at the request of the creditor issue to him within the limits of his declaration of participation any necessary foreign exchange licences. Such foreign exchange licences shall enable the creditor to sue for and recover his claims against the debtor to the extent and in the manner provided in this settlement proposal for such claims. In so far as the creditor has not obtained satisfaction by judicial execution, he may evoke his declaration of participation. The issue of the foreign exchange licence shall not constitute a decision on the existence and amount of the claim.   
 (4).  Should the creditor require payment in Deutsche Mark, he shall be obliged to make a written declaration to the debtor that he accepts such payment in settlement of his claim.   
-(5).  Where the creditor is entitled to require, and requires, payment in a foreign country, the debtor shall be obliged to take all the steps necessary under valid German Foreign Exchange Control Regulations to procure the necessary instruments of payment in foreign currency.   
+(5).  Where the creditor is entitled to require, and requires, payment in a foreign country, the debtor shall be obliged to take all the steps necessary under valid German Foreign Exchange Control Regulations to procure the necessary instruments of payment in foreign currency.  
 
 ### Article  15  
 
 ####Settlement of Disputes
 
-Except as otherwise expressly provided in this settlement proposal, any disputes between creditor and debtor as to the existence and the amount of any claims shall be decided by a Court of Law, or a Court of Arbitration agreed upon by the parties, which is competent in view of the legal relationship between the parties.  
+Except as otherwise expressly provided in this settlement proposal, any disputes between creditor and debtor as to the existence and the amount of any claims shall be decided by a Court of Law, or a Court of Arbitration agreed upon by the parties, which is competent in view of the legal relationship between the parties. 
 
 ### Article  16  
 
 ####Mixed Commission
 
-A Mixed Commission, which shall be composed of an equal number of representatives of the creditor countries, on the one hand, and of the Federal Government, on the other hand, as well as of one Chairman, shall be set up to decide differences as to the interpretation of this settlement. It is recommended that the Commission shall be competent to decide questions of fundamental importance for the interpretation of this settlement which are submitted to it by the Governments concerned. Where a Government is of the opinion that a case, which is pending in the Court of Arbitration (Article 17), is of fundamental importance, it is recommended that the Government may require the Court of Arbitration to refer the case to the Mixed Commission. The Court of Arbitration should have the same right.  
+A Mixed Commission, which shall be composed of an equal number of representatives of the creditor countries, on the one hand, and of the Federal Government, on the other hand, as well as of one Chairman, shall be set up to decide differences as to the interpretation of this settlement. It is recommended that the Commission shall be competent to decide questions of fundamental importance for the interpretation of this settlement which are submitted to it by the Governments concerned. Where a Government is of the opinion that a case, which is pending in the Court of Arbitration (Article 17), is of fundamental importance, it is recommended that the Government may require the Court of Arbitration to refer the case to the Mixed Commission. The Court of Arbitration should have the same right. 
 
 ### Article  17  
 
 ####Court of Arbitration
 
-The Court of Arbitration referred to in Article 11 shall be composed of one arbitrator appointed by each of the parties. The two arbitrators shall elect a chairman. Should they not be able to agree on the person, they shall request the President of the International Chamber of Commerce to appoint him. The arbitrators shall possess the qualifications required for holding judicial office in their respective countries; this shall not apply to the Chairman. The Court of Arbitration shall decide upon its own procedure. It shall also decide which party shall bear the costs. The German Delegation will advise the Federal Government to make provision that in cases where the parties are unable to make an advance of vosts or bear the costs as fixed, the payment of such costs shall be adequately settled. On the joint application of the parties, the Court of Arbitration may also decide in other disputes between creditors and debtors. Detailed provisions relative to the Court of Arbitration proposed in this Article shall be agreed upon in the Governmental discussions for the implementation of the recommendations of the Conference on German External Debts.  
+The Court of Arbitration referred to in Article 11 shall be composed of one arbitrator appointed by each of the parties. The two arbitrators shall elect a chairman. Should they not be able to agree on the person, they shall request the President of the International Chamber of Commerce to appoint him. The arbitrators shall possess the qualifications required for holding judicial office in their respective countries; this shall not apply to the Chairman. The Court of Arbitration shall decide upon its own procedure. It shall also decide which party shall bear the costs. The German Delegation will advise the Federal Government to make provision that in cases where the parties are unable to make an advance of vosts or bear the costs as fixed, the payment of such costs shall be adequately settled. On the joint application of the parties, the Court of Arbitration may also decide in other disputes between creditors and debtors. Detailed provisions relative to the Court of Arbitration proposed in this Article shall be agreed upon in the Governmental discussions for the implementation of the recommendations of the Conference on German External Debts. 
 
 ### Article  18  
 
 ####Payment in Deutsche Mark
 
-Payment in Deutsche Mark according to this settlement shall be understood as meaning payment in German currency into an account held by a foreign creditor or opened in his name at his request with a financial institution in the territory of the Federal Republic of Germany or Berlin (West). The account shall be subject to the German Foreign Exchange Control Regulations from time to time in force. This shall not exclude the issue of special licences for other forms of payment.  
+Payment in Deutsche Mark according to this settlement shall be understood as meaning payment in German currency into an account held by a foreign creditor or opened in his name at his request with a financial institution in the territory of the Federal Republic of Germany or Berlin (West). The account shall be subject to the German Foreign Exchange Control Regulations from time to time in force. This shall not exclude the issue of special licences for other forms of payment. 
 
 ### Article  19  
 
@@ -1659,25 +1658,25 @@ Payment in Deutsche Mark according to this settlement shall be understood as mea
 (2).  The foreign creditor of an “acquired credit account” in German currency shall continue to be permitted to assign his credit to another person outside Germany. The foreign creditor of such account shall continue to be permitted to utilise his credit mainly for long-term investments in the German economy.   
 (3).  The competent German authorities shall draw up the regulations necessary to prevent the illegal disposal of credits in German currency and to preclude any other abuses detrimental to the German economy and to the creditors as a whole. Utilisations permitted by a general licence at the time this settlement comes into force may, in order to ensure proper control, be made dependent upon the issue of a separate licence without thereby restricting the general possibilities of utilisation.   
 (4).  The competent German authorities will endeavour to provide facilities for the utilisation of blocked Deutsche Mark accounts to such an extent as the foreign exchange situation shall permit. They will aim at simplifying the licence procedure as much as possible.   
-(5).  The Federal Government shall set up an Advisory Committee composed of an equal number of representatives of the main creditor countries, on the one hand, and of representatives of the Federal Republic, on the other hand, for the discussion of general matters in connection with the utilisation of blocked Deutsche Mark accounts.   
+(5).  The Federal Government shall set up an Advisory Committee composed of an equal number of representatives of the main creditor countries, on the one hand, and of representatives of the Federal Republic, on the other hand, for the discussion of general matters in connection with the utilisation of blocked Deutsche Mark accounts.  
 
 ### Article  20  
 
 ####Effect of the Settlement on Existing Claims
 
-In the absence of any contrary provision, this settlement shall not modify the claims dealt with therein.  
+In the absence of any contrary provision, this settlement shall not modify the claims dealt with therein. 
 
 ### Article  21  
 
 ####Currency Option Clauses without a Gold Clause
 
-The decision as to the currency in which claims with currency option clauses (without a gold clause) shall be discharged, shall be reserved to intergovernmental arrangements.  
+The decision as to the currency in which claims with currency option clauses (without a gold clause) shall be discharged, shall be reserved to intergovernmental arrangements. 
 
 ### Article  22  
 
 ####Concessions in Favour of Debtors
 
-The creditors are of the opinion that the concessions granted under the terms of this settlement should accrue to the benefit of the debtors.  
+The creditors are of the opinion that the concessions granted under the terms of this settlement should accrue to the benefit of the debtors. 
 
 ### Article  23  
 
@@ -1687,25 +1686,25 @@ The creditors are of the opinion that the concessions granted under the terms of
 (2).  It shall be presumed that there is no effective conversion resulting from free negotiation if at the time of conversion the creditor was represented by the German Custodian of Enemy Property or by a similar person appointed by the German authorities without his consent.   
 (3).  In the case of bonded claims, a conversion shall likewise not be considered an effective conversion if the creditor has merely accepted a unilateral offer made by the debtor.   
 (4).  The burden shall be on the debtor to prove that the conversion was an effective conversion.   
-(5).  In the case of Church loans, any conversion shall be considered effective.   
+(5).  In the case of Church loans, any conversion shall be considered effective.  
 
 ### Article  24  
 
 ####Currency of Payment
 
-Provisions as to the currency in which monetary claims shall be discharged are reserved to intergovernmental arrangements.  
+Provisions as to the currency in which monetary claims shall be discharged are reserved to intergovernmental arrangements. 
 
 ### Article  25  
 
 ####Validation Laws for German Bonds
 
-This settlement shall not apply to bonds and interest coupons which require to be validated under the German Validation Law for Bonds of 19th August, 1949 (Wirtschaftsgesetzbl., page 295) and the Validation Law for German External Bonds of August, 1952, until these bonds and interest coupons have been validated pursuant to the provisions of such laws or any agreement which may be concluded with the country of issue with regard to such laws.  
+This settlement shall not apply to bonds and interest coupons which require to be validated under the German Validation Law for Bonds of 19th August, 1949 (Wirtschaftsgesetzbl., page 295) and the Validation Law for German External Bonds of August, 1952, until these bonds and interest coupons have been validated pursuant to the provisions of such laws or any agreement which may be concluded with the country of issue with regard to such laws. 
 
-### Section  C  
+### Section   C  
 
 ####Settlement of Old Commercial Claims (Article 1)
 
-### Article  26  
+### Article  26 
 
 ####Claims arising out of Supplies of Goods (Article 1 (1))
 
@@ -1715,7 +1714,7 @@ This settlement shall not apply to bonds and interest coupons which require to b
 
 (b) in respect of the remaining two-thirds of the amount owed in ten equal yearly instalments, starting on 1st January, 1954.     
 (2).  The creditor may up to 31st December, 1953, demand that the debtor, instead of effecting payment to a foreign country as stipulated under (1) *(b),* shall, within three months after such request pay the balance of his claim (two-thirds of the original amount owed) in Deutsche Mark. It shall be left to the creditors and debtors in special circumstances to agree upon extension of the time limit for a further three months.   
-(3).  After 31st December, 1953, payment of the balance of the claim in Deutsche Mark may be demanded only in agreement with the debtor.   
+(3).  After 31st December, 1953, payment of the balance of the claim in Deutsche Mark may be demanded only in agreement with the debtor.  
 
 ### Article  27  
 
@@ -1724,20 +1723,20 @@ This settlement shall not apply to bonds and interest coupons which require to b
 (1).  Creditors and debtors should, where necessary, with the approval of their competent authorities, agree upon a settlement appropriate to the circumstances of the case.   
 (2).  Should it not be possible to reach agreement, the creditor shall be entitled to ask the debtor for payment to a foreign country of the amount owed in ten equal yearly instalments, starting as from 1st October, 1953.   
 (3).  The creditor may up to 31st December, 1953, demand that the debtor, instead of effecting payment to a foreign country as stipulated under (2), shall, within three months after such request, pay the total amount of the claim in Deutsche Mark. It shall be left to the creditors and debtors, in special circumstances, to agree upon extension of the time limit for a further three months.   
-(4).  After 31st December, 1953, payment of the claim in Deutsche Mark may be demanded only in agreement with the debtor.   
+(4).  After 31st December, 1953, payment of the claim in Deutsche Mark may be demanded only in agreement with the debtor.  
 
 ### Article  28  
 
 ####Wages, Salaries and Pensions based on Employment, Commission (Article 1 (7))
 
 (1).  The creditor shall be entitled to demand from the debtor payment to a foreign country of the amount owed in five equal yearly instalments, starting on 1st January, 1953. On application by the claimant, or by a private or governmental organisation which the claimant has duly authorised to act on his behalf, to the competent German authorities this settlement may also include such amounts as, according to proof furnished, have been paid temporarily into an account with a financial institution located in the Federal territory or Berlin (West) by the claimant or by his employer to the claimant's credit. It shall lie with the competent German authorities to give favourable consideration to the possibility of an early payment to a foreign country in cases of hardship.   
-(2).  The creditor may, at any time, demand that the debtor shall, within tree months after being so requested, pay, in Deutsche Mark, the balance of the claim which has not yet been transferred to a foreign country.   
+(2).  The creditor may, at any time, demand that the debtor shall, within tree months after being so requested, pay, in Deutsche Mark, the balance of the claim which has not yet been transferred to a foreign country.  
 
 ### Article  29  
 
 ####Services from Social Insurance (Article 1 (8))
 
-These services are already or may become the subject of bilateral agreements and negotiations. It is recommended that the arrears of such payments be incorporated into these agreements.  
+These services are already or may become the subject of bilateral agreements and negotiations. It is recommended that the arrears of such payments be incorporated into these agreements. 
 
 ### Article  30  
 
@@ -1754,7 +1753,7 @@ These services are already or may become the subject of bilateral agreements and
 
 (bb) all other such claims shall be settled pursuant to the provisions of Article 31.    
 
-(c) Claims arising out of all types of insurance contracts for payments of pensions pursuant to the provisions of Article 28.   Details of the provisions under Paragraph (2) shall be laid down in the Intergovernmental Agreement.   
+(c) Claims arising out of all types of insurance contracts for payments of pensions pursuant to the provisions of Article 28.   Details of the provisions under Paragraph (2) shall be laid down in the Intergovernmental Agreement.  
 
 ### Article  31  
 
@@ -1763,13 +1762,13 @@ These services are already or may become the subject of bilateral agreements and
 (1).  The creditor shall be entitled to demand from the debtor payment to a foreign country of the amount owed in ten equal yearly instalments, starting on 1st July, 1953.   
 (2).  The creditor may, up to 31st December, 1953, demand that the debtor, instead of effecting payment to a foreign country as stipulated under (1) above, shall, within three months after such request pay the amount owed in Deutsche Mark. It is left to the creditors and debtors, in special circumstances, to agree upon extension of the time limit for a further three months.   
 (3).  After the 31st December, 1953, the creditor may demand payment of his claim in Deutsche Mark only in agreement with the debtor.   
-(4).  In certain special cases the creditor and debtor may agree upon settlement in some other form, subject to approval by the competent authorities.   
+(4).  In certain special cases the creditor and debtor may agree upon settlement in some other form, subject to approval by the competent authorities.  
 
 ### Article  32  
 
 ####Joint Provisions for Old Commercial Debts (Article 1, (1) to (9))
 
-(1).   *Arrears of Interest*  Where interest is owing on a claim, the following interest rates, without allowing for compound interest, shall apply for the computation of the arrears of interest owed up to 31st December, 1952: 
+(1).   *Arrears of Interest* Where interest is owing on a claim, the following interest rates, without allowing for compound interest, shall apply for the computation of the arrears of interest owed up to 31st December, 1952: 
 
 (a) where the annual interest rate has heretofore been 4 per cent. or less, the interest rate shall remain the same as before;  
 
@@ -1791,15 +1790,15 @@ These services are already or may become the subject of bilateral agreements and
 
 (d) The creditor shall have the right, at any time, to demand transfer of an amount paid into a special deposit account to his Deutsche Mark account (Article 18).     
 (4).   *Small Claims*  In cases of claims for small amounts, the competent German authorities shall give favourable consideration to applications of interested parties for approval of an early payment to a foreign country.   
-(5).   *Payments for Supplies of Goods and Services where the Creditor can furnish proof that the payment into his account was effected without his consent*  A creditor who furnishes proof that a payment in respect of goods and services to his bank account or Postscheckkonto (Article 1) was effected without his consent shall, by payment into such an account, not forgo his right of having the payment dealt with under Section C.   
+(5).   *Payments for Supplies of Goods and Services where the Creditor can furnish proof that the payment into his account was effected without his consent*  A creditor who furnishes proof that a payment in respect of goods and services to his bank account or Postscheckkonto (Article 1) was effected without his consent shall, by payment into such an account, not forgo his right of having the payment dealt with under Section C.  
 
-### Section  D  
+### Section   D  
 
-####Settlement of Claims arising out of Private Financial Transactions (Article 2)
+#### Settlement of Claims arising out of Private Financial Transactions (Article 2)
 
 ### Article  33  
 
-Claims in German currency arising out of financial transactions, including such claims as are expressed in Goldmark or Reichsmark with a gold clause and are not of a specific foreign character (Article 6), may continue to be discharged under the agreed contractual interest and amortisation terms, pursuant to the foreign exchange regulations in force at the time of payment in the Federal Republic of Germany and Berlin (West). According to the regulations at present valid, payment may be made only in Deutsche Mark.  
+Claims in German currency arising out of financial transactions, including such claims as are expressed in Goldmark or Reichsmark with a gold clause and are not of a specific foreign character (Article 6), may continue to be discharged under the agreed contractual interest and amortisation terms, pursuant to the foreign exchange regulations in force at the time of payment in the Federal Republic of Germany and Berlin (West). According to the regulations at present valid, payment may be made only in Deutsche Mark. 
 
 ### Article  34  
 
@@ -1841,15 +1840,15 @@ Claims expressed in a foreign currency, arising out of financial transactions, a
 
 (11) Foreign creditors of claims listed in Article 2, para. (2) *(b),* may ask for payment in Deutsche Mark of the interest due up to 31st December, 1952, without the reduction proposed in paragraph (2) of this Article, provided they accept such payment as discharge of their claim.  
 
-(12) If necessary, the principles laid down in Annex II to the Agreement on German External Debts may be adopted to supplement these rules for the settlement of claims arising out of bonds and interest coupons covered by this settlement proposal.    
+(12) If necessary, the principles laid down in Annex II to the Agreement on German External Debts may be adopted to supplement these rules for the settlement of claims arising out of bonds and interest coupons covered by this settlement proposal.   
 
-### Section  E  
+### Section   E  
 
-####Arrears of Income from Investments (Article 3)
+#### Arrears of Income from Investments (Article 3)
 
 ### Article  35  
 
-Payments shall be made in Deutsche Mark pursuant to the foreign exchange regulations in force in the Federal Republic of Germany and Berlin (West).  
+Payments shall be made in Deutsche Mark pursuant to the foreign exchange regulations in force in the Federal Republic of Germany and Berlin (West). 
 
 ### Section  F  
 
@@ -1857,20 +1856,20 @@ Payments shall be made in Deutsche Mark pursuant to the foreign exchange regulat
 
 ### Article  36  
 
-These claims shall be settled pursuant to the provisions for the category of claims to which they either belong or, by their character, are most similar. In cases of doubt, the same practice shall apply as in the Payment Agreements.  
+These claims shall be settled pursuant to the provisions for the category of claims to which they either belong or, by their character, are most similar. In cases of doubt, the same practice shall apply as in the Payment Agreements. 
 
 ####SUB-ANNEX TO ANNEX IV
 
-[Note: *The text reproduced hereunder is the text of Annex A to Appendix 6 to the Report of the Conference on German External Debts.* ] 
+[Note: *The text reproduced hereunder is the text of Annex A to Appendix 6 to the Report of the Conference on German External Debts.*] 
 ### *Joint Statement by the German and Swiss Delegations concerning the Negotiations on the Settlement of the Swiss Franc Land Charges. (Schweizer Frankengrundschulden)* 
 
 Discussions were held at Freiburg i.B. on 10th-11th June, 1952, in implementation of the statement made on 20th March, 1952, by the creditor and debtor representatives - for the attention of the London Debt Conference. These negotiations could not, however, be brought to a conclusion. The London Conference was informed of this by a statement on 11th June, 1952. Owing to various circumstances it has so far proved impossible to continue the negotiations. The parties will, however, resume the discussions, in consultation with the “Vertrauensstelle”, at the earliest possible date. The German Delegation will inform the London Conference of their results in good time before the signing of the general Governmental Agreement on the settlement of German External Debts. The Swiss side refers again to the exposé on the Swiss Franc land charges which was submitted to the Conference subsequent to the statements made by the Swiss Delegation in the Second Plenary Meeting on 29th February, 1952, and distributed under Ref. No. GD/V/Negotiating Committee D/Doc. 3 of 13th March, 1952. The Swiss side reserves the right, therefore, of making a further statement, dependent upon the results of the bilateral negotiations. On the other hand, the German side is of the opinion that the Swiss Franc land charges fall under the terms of reference of the London Conference for the Settlement of German External Debts and that they are to be settled in accordance with the principles laid down by Negotiating Committee D. Both sides agree that a Court of Arbitration, which is to be set up within the scope of the settlement of the debts dealt with in Negotiating Committee D, shall not be competent to deal with the Swiss Franc land charges but that the cases arising shall be submitted to the “Vertrauensstelle” set up pursuant to the German-Swiss Agreements.  *London, 25th July, 1952.*  (sd) PAUL LEVERKUEHN. (sd) KOENIG.   
 
-### ANNEX  V  
+### ANNEX   V  
 
 ####Agreed Recommendations for the Treatment of Payments made to the Konversionskasse
 
-[Note: *The text reproduced hereunder is the text of Appendix 7 to the Report of the Conference on German External Debts.* ] 
+[Note: *The text reproduced hereunder is the text of Appendix 7 to the Report of the Conference on German External Debts.*] 
 
 I. The German Delegation was of the opinion that the German debtor was definitively discharged of his debt to the extent of his payments into the Konversionskasse. The creditor representatives, on the other hand, were of the opinion that as a rule such payment into the Konversionskasse would not be recognised as discharging the German debtors under the laws of their respective countries. In their desire to put an end to fruitless legal discussions, both sides agreed to seek a practical solution which would permit settlement of the claims of the creditors without unnecessary formalities. Accordingly, the German Delegation and the foreign creditor representatives while reserving their respective legal positions, have agreed as follows: 
 
@@ -1894,7 +1893,7 @@ II. Subject to the general provisions contained in paragraph I above:
 
 ### ANNEX  VI  
 
-[Note: *The text reproduced hereunder is the text of Appendix 8 to the Report of the Conference on German External Debts.* ]  *Agreed Recommendations for the Utilisation of Blocked Deutsche Mark Accounts*  The following detailed arrangements have been agreed upon for the utilisation of blocked Deutsche Mark accounts: 
+[Note: *The text reproduced hereunder is the text of Appendix 8 to the Report of the Conference on German External Debts.*]  *Agreed Recommendations for the Utilisation of Blocked Deutsche Mark Accounts*  The following detailed arrangements have been agreed upon for the utilisation of blocked Deutsche Mark accounts: 
 
 (1) The foreign creditor of an “original credit account” in German currency shall be permitted to utilise it within the framework of the regulations in force in the German Federal Republic and Berlin (West) at the date on which this settlement comes into effect, including the right to assign such accounts to another person outside Germany.  
 
@@ -1906,11 +1905,11 @@ II. Subject to the general provisions contained in paragraph I above:
 
 (5) The German Government shall set up an Advisory Committee composed of an equal number of representatives of the main creditor countries, on the one hand, and of representatives of the German Federal Republic, on the other, for the discussion of general matters in connection with the utilisation of blocked Deutsche Mark accounts.     
 
-### ANNEX  VII  
+### ANNEX   VII  
 
 ####Agreement on Goldmark Liabilities and Reichsmark Liabilities with a Gold Clause, having a specific foreign character
 
-German Delegation for External Debts. 243-18 Del. 39-2177/52. To the Chairman of the Tripartite Commission on German Debts, 29 Chesham Place, London, S.W. 1.  *London, S.W. 1,*   *21st November, 1952.*  Mr. Chairman, The negotiations provided for in Article V, paragraph 3, of Appendix 4 and in Article 6 of Appendix 6 to the Final Report of the London Debt Conference and referred to in the joint letter from Sir Otto Niemeyer and Herr Hermann J. Abs to the Tripartite Commission on German Debts, the purpose of which was to define the criteria constituting the specific foreign character of Goldmark liabilities and of Reichsmark liabilities with a gold clause or a gold option, took place in London from 21st October to 21st November, 1952, between the German Delegation for External Debts and a delegation of British, American, Swiss and Netherlands creditor representatives. We are glad to be able to inform you that these negotiations resulted on 21st November, 1952, in an understanding which was recorded in an Agreement signed to-day. The Chairman of the two Delegations, in signing this Agreement, exchanged four letters dated 21st November, 1952, designed to clarify various questions in connexion with the Agreement, as follows: 
+German Delegation  for External Debts. 243-18 Del. 39-2177/52. To the Chairman of the Tripartite Commission on German Debts, 29 Chesham Place, London, S.W. 1.  *London, S.W. 1,*   *21st November, 1952.*  Mr. Chairman, The negotiations provided for in Article V, paragraph 3, of Appendix 4 and in Article 6 of Appendix 6 to the Final Report of the London Debt Conference and referred to in the joint letter from Sir Otto Niemeyer and Herr Hermann J. Abs to the Tripartite Commission on German Debts, the purpose of which was to define the criteria constituting the specific foreign character of Goldmark liabilities and of Reichsmark liabilities with a gold clause or a gold option, took place in London from 21st October to 21st November, 1952, between the German Delegation for External Debts and a delegation of British, American, Swiss and Netherlands creditor representatives. We are glad to be able to inform you that these negotiations resulted on 21st November, 1952, in an understanding which was recorded in an Agreement signed to-day. The Chairman of the two Delegations, in signing this Agreement, exchanged four letters dated 21st November, 1952, designed to clarify various questions in connexion with the Agreement, as follows: 
 
 1. Exchange of letters concerning the transfer of amounts due for payment on Goldmark claims with a specific foreign character.  
 
@@ -1941,7 +1940,7 @@ I. In respect of the claims and rights specified below it is recognised that the
 
 (b) whenever the debt was incurred after 31st July, 1931, the equivalent was made available in foreign currency, free Reichsmarks or gold, or originates in a blocked Reichsmark account to which repayments on a Goldmark or foreign currency loan from a foreign country granted before 31st July, 1931, had been credited provided that the foreign creditor has again loaned out the amounts withdrawn from the blocked Reichsmark account, with the consent of the competent German Foreign Exchange Control Authorities, to some other German debtor, stipulating a gold clause or gold option Clause for such renewed loan.   A loan or advance shall likewise be deemed to have been raised in a foreign country if the debtor was aware, when the indebtedness was incurred, that the German creditor, by virtue of a trusteeship contract, was merely the trustee of a foreign lender. A loan or advance raised from the foreign trustee of a German lender shall not be deemed to have been raised in a foreign country.    
 
-II. The claims and rights mentioned under I do not include claims of foreign credit institutions and insurance enterprises which under German Law are required to prepare a conversion sheet, provided the claims have to figure as assets on the conversion sheet.    <sup> (1)  The text of this paragraph was agreed between the parties concerned on 12th February, 1953.  </sup> 
+II. The claims and rights mentioned under I do not include claims of foreign credit institutions and insurance enterprises which under German Law are required to prepare a conversion sheet, provided the claims have to figure as assets on the conversion sheet.    <sup> (1) The text of this paragraph was agreed between the parties concerned on 12th February, 1953. </sup>  
 
 III In the case of real estate liens (mortgages, land charges and terminable annuities), which on 20th June, 1948, had been entered for the purpose of securing the personal claims of a foreign creditor specified in such agreement, the original conversion shall, subject to the provisions set out hereinafter, continue to apply as carried out in accordance with the Conversion Law, including the 40th Executory Ordinance issued thereto. In those cases where any such real estate lien has, in accordance, with these prescriptions, been converted at a rate other than 1:1, the security in favour of the creditor in the form of real estate lien of the same nominal amount as the real estate lien in his favour on the 20th June, 1948, less any subsequent reductions thereof, will be re-established in equal rank in so far as this is possible without interference with any real property rights which a third party may have acquired during the period between the 21st June, 1948, and 15th July, 1952. To the extent that third parties may have acquired such rights during the said period, the following rules shall apply, it being agreed that they will in detail be established by German legislation: 
 
@@ -1974,13 +1973,13 @@ The following provisions shall constitute an Annex to the Agreement dated 21st N
 
 4. Under Article V of the Agreement of 21st November, 1952, the creditors have reserved the right, in the case of their claims (including real estate liens) against secondary debtors, to demand final settlement of the conversion at the rate of 1 Deutschemark = 1 Goldmark or 1 Reichsmark with a Gold Clause or Gold Option, in the event that in the offer made by any particular German primary debtor for settlement of his liability the security offered is not deemed by the creditor to be sufficient. In this connexion the head of the German Delegation for External Debts, Mr. Hermann J. Abs, will seek to influence the respective primary debtors to make without delay to their foreign creditors offers of settlement which if accepted will leave the creditors in a position in no way inferior to their present position as provided in the 40th Executory Ordinance to the Currency Conversion Law. If such offers are made and accepted it is contemplated that the creditors will withdraw the reservation made by them in Article V as regards the conversion of their claims against the secondary debtors. Although the above-mentioned reservation strictly relates only to creditors whose cases are covered by the 40th Executory Ordinance to the Currency Conversion Law and Article 15 of that Law (as amended by Law 46), *i.e.,* United Nations Nationals, it is agreed that, according to the principle of non-discrimination and equal tteatment of all creditors, such reservation shall also apply to claims against secondary debtors of creditors who are not United Nations Nationals.     
 
-### ANNEX  VIII  
+###  ANNEX  VIII  
 
 ####Agreed interpretation concerning paragraph (2) of Article 5 of the Agreement on German External Debts
 
 Nothing in paragraph (2) of Article 5 of the Agreement on German External Debts shall be construed as effecting any rights under existing legislation in the Federal Republic of Germany, or which are provided for in any agreement which has been signed, prior to the signature of the Agreement on German External Debts, between the Federal Republic of Germany and any of the other Parties to the last mentioned Agreement.   
 
-### ANNEX  IX  
+### ANNEX   IX  
 
 ####Charter of the Arbitral Tribunal for the Agreement on German External Debts
 
@@ -2001,7 +2000,7 @@ Nothing in paragraph (2) of Article 5 of the Agreement on German External Debts 
 (3).  The Government of the Federal Republic of Germany shall be entitled to appoint an additional member to sit in proceedings in cases where an additional member appointed as provided in paragraph (2) of this Article also sits.   
 (4).  The initial appointments of permanent members of the Tribunal shall be notified to the Government of the United Kingdom of Great Britain and Northern Ireland within two months of the entry into force of the Agreement. Appointments to fill vacancies shall be notified within one month of such vacancy.   
 (5).  Parties to the Agreement who appoint an additional member under paragraph (2) of this Article shall notify the Tribunal of such appointment within one month from the date on which the proceeding, in respect of which the appointment is made, is instituted before the Tribunal. If the appointment of such additional member is not notified to the Tribunal within this period, the proceeding shall be conducted without the participation of additional members.   
-(6).  The Government of the Federal Republic of Germany shall notify the Tribunal of the appointment by it of an additional member under paragraph (3) of this Article within one month of the receipt by the Tribunal of the notification of the appointment of an additional member under paragraph (2) of this Article. If the appointment of such additional member is not notified to the Tribunal within this period, the proceeding shall be conducted without the participation of such member.   
+(6).  The Government of the Federal Republic of Germany shall notify the Tribunal of the appointment by it of an additional member under paragraph (3) of this Article within one month of the receipt by the Tribunal of the notification of the appointment of an additional member under paragraph (2) of this Article. If the appointment of such additional member is not notified to the Tribunal within this period, the proceeding shall be conducted without the participation of such member.  
 
 ### Article  2  
 
@@ -2010,7 +2009,7 @@ Nothing in paragraph (2) of Article 5 of the Agreement on German External Debts 
 (3).  If a permanent member other than the President or the Vice-President dies or resigns or is prevented from carrying out the duties of his office, the Government which appointed him shall within two months of the date on which such vacancy has occurred appoint a successor who shall hold office for the remainder of the term for which the member he replaces was appointed.   
 (4).  If a permanent member is temporarily unable to attend the sittings of the Tribunal, the Government which appointed him may appoint an alternate member to replace him during his absence.   
 (5).  A permanent member whose term of office has expired or who resigns his office shall nevertheless continue to discharge his duties until his successor is appointed. After such appointment he shall, unless the President of the Tribunal directs otherwise, continue to discharge his duties respecting pending cases in which he has participated, until such cases are finally disposed of.   
-(6).  No permanent member may be dismissed before the expiry of his term of office, except by agreement between the Governments referred to in paragraph (1) of Article 1 of this Charter and, in the case of any member appointed by the President of the International Court of Justice, with the consent of the President of the International Court of Justice.   
+(6).  No permanent member may be dismissed before the expiry of his term of office, except by agreement between the Governments referred to in paragraph (1) of Article 1 of this Charter and, in the case of any member appointed by the President of the International Court of Justice, with the consent of the President of the International Court of Justice.  
 
 ### Article  3  
 
@@ -2020,7 +2019,7 @@ Nothing in paragraph (2) of Article 5 of the Agreement on German External Debts 
 
 (a) During and after their terms of office the members of the Tribunal who are not of German nationality shall enjoy immunity from suit in respect of acts performed in the exercise of their official duties. Members of the Tribunal of German nationality shall enjoy immunity from suit in respect of acts performed in the exercise of their official duties to the same extent as judges officiating in German courts in the Federal Republic of Germany.  
 
-(b) The members of the Tribunal who are not of German nationality shall enjoy in the Federal territory the same privileges and immunities as are accorded to members of diplomatic missions.     
+(b) The members of the Tribunal who are not of German nationality shall enjoy in the Federal territory the same privileges and immunities as are accorded to members of diplomatic missions.    
 
 ### Article  4  
 
@@ -2031,15 +2030,15 @@ Nothing in paragraph (2) of Article 5 of the Agreement on German External Debts 
 (b) an equal number of permanent members appointed by the Government of the Federal Republic of Germany and of permanent members appointed by other Parties to the Agreement;  
 
 (c) any additional members entitled to sit.     
-(2).  In the absence of the President, the Vice-President shall exercise the authority and carry out the duties of the President.   
+(2).  In the absence of the President, the Vice-President shall exercise the authority and carry out the duties of the President.  
 
 ### Article  5  
 
-The seat of the Tribunal shall be at such place within the territory of the Federal Republic of Germany as shall be determined by a subsidiary administrative agreement between the Governments entitled to appoint the permanent members of the Tribunal.  
+The seat of the Tribunal shall be at such place within the territory of the Federal Republic of Germany as shall be determined by a subsidiary administrative agreement between the Governments entitled to appoint the permanent members of the Tribunal. 
 
 ### Article  6  
 
-The Tribunal shall, in the interpretation of the Agreement and the Annexes thereto, apply the generally accepted rules of international law.  
+The Tribunal shall, in the interpretation of the Agreement and the Annexes thereto, apply the generally accepted rules of international law. 
 
 ### Article  7  
 
@@ -2050,18 +2049,18 @@ The Tribunal shall, in the interpretation of the Agreement and the Annexes there
 (b) The decisions of the Tribunal shall be delivered in all three languages.     
 (2).  Governments, parties to proceedings before the Tribunal, shall be represented by agents who may be assisted by counsel.   
 (3).  The proceedings shall consist of two parts, written and oral. Oral proceedings may be dispensed with if the parties to the proceeding so request.   
-(4).  All decisions of the Tribunal shall be taken by a majority vote. Decisions shall be rendered in writing and shall include a statement of the facts and the grounds for the decision, together with the opinion of any member dissenting therefrom.   
+(4).  All decisions of the Tribunal shall be taken by a majority vote. Decisions shall be rendered in writing and shall include a statement of the facts and the grounds for the decision, together with the opinion of any member dissenting therefrom.  
 
 ### Article  8  
 
 (1).  The salaries and allowances of the President and Vice-President shall be borne as to one-half by the Government of the Federal Republic of Germany and as to the other half in equal proportions by the other Governments entitled to appoint permanent members.   
 (2).  The salary and allowances of each of the other members of the Tribunal shall be borne by the Government which has appointed him, and, if appointed by more than one Government, in equal proportions by the appointing Governments.   
 (3).  The funds requisite to meet the other costs of the Tribunal shall be provided by the Government of the Federal Republic of Germany.   
-(4).  The administration and the accommodation of the Tribunal, staff appointments and staff salaries shall be regulated by a subsidiary administrative agreement between the Governments entitled to appoint permanent members of the Tribunal.   
+(4).  The administration and the accommodation of the Tribunal, staff appointments and staff salaries shall be regulated by a subsidiary administrative agreement between the Governments entitled to appoint permanent members of the Tribunal.  
 
 ### Article  9  
 
-The Tribunal shall determine its own rules of procedure consistent with the provisions of this Charter and of the Agreement.  
+The Tribunal shall determine its own rules of procedure consistent with the provisions of this Charter and of the Agreement. 
 
 ### ANNEX  X  
 
@@ -2074,11 +2073,11 @@ The Tribunal shall determine its own rules of procedure consistent with the prov
 (3).  The Government of the Federal Republic of Germany shall be entitled to appoint an additional member to sit in proceedings in cases where an additional member appointed as provided in paragraph (2) of this Article also sits.   
 (4).  The appointment of any permanent member of the Commission who is appointed in place of a permanent member of the Arbitral Tribunal shall be notified to the Government of the United Kingdom of Great Britain and Northern Ireland within two months of the entry into force of the Agreement. Appointments to fill vacancies of members appointed in accordance with the provisions of this paragraph shall be notified within one month of such vacancy.   
 (5).  Parties to the Agreement, who appoint an additional member pursuant to paragraph (2) of this Article shall notify the Commission of such appointment within one month from the date on which the proceeding, in respect of which the appointment is made, is instituted before the Commission. If the appointment of such additional member is not notified within this period, the proceeding shall be conducted without the participation of additional members.   
-(6).  The Government of the Federal Republic of Germany shall notify the Commission of the appointment by it of an additional member under paragraph (3) of this Article within one month of the receipt by the Commission of the notification of the appointment of an additional member under paragraph (2) of this Article. If the appointment of such additional member is not notified to the Commission within this period, the proceeding shall be conducted without the participation of such member.   
+(6).  The Government of the Federal Republic of Germany shall notify the Commission of the appointment by it of an additional member under paragraph (3) of this Article within one month of the receipt by the Commission of the notification of the appointment of an additional member under paragraph (2) of this Article. If the appointment of such additional member is not notified to the Commission within this period, the proceeding shall be conducted without the participation of such member.  
 
 ### Article  2  
 
-The permanent members of the Commission shall be subject to the same provisions respecting the term of office, reappointment, appointment of successors and alternate members, discharge of duties subsequent to resignation or expiration of term of office and dismissal as are provided in Article 2 of the Charter of the Arbitral Tribunal (Annex IX to the Agreement) for permanent members of the Arbitral Tribunal.  
+The permanent members of the Commission shall be subject to the same provisions respecting the term of office, reappointment, appointment of successors and alternate members, discharge of duties subsequent to resignation or expiration of term of office and dismissal as are provided in Article 2 of the Charter of the Arbitral Tribunal (Annex IX to the Agreement) for permanent members of the Arbitral Tribunal. 
 
 ### Article  3  
 
@@ -2088,7 +2087,7 @@ The permanent members of the Commission shall be subject to the same provisions 
 
 (a) During and after their terms of office the members of the Commission who are not of German nationality shall enjoy immunity from suit in respect of acts performed in the exercise of their official duties. Members of the Commission of German nationality shall enjoy immunity from suit in respect of acts performed in the exercise of their official duties to the same extent as judges officiating in German courts in the Federal Republic of Germany.  
 
-(b) The members of the Commission who are not of German nationality shall enjoy in the Federal territory the same privileges and immunities as are accorded to members of diplomatic missions.     
+(b) The members of the Commission who are not of German nationality shall enjoy in the Federal territory the same privileges and immunities as are accorded to members of diplomatic missions.    
 
 ### Article  4  
 
@@ -2102,15 +2101,15 @@ A proceeding before the Commission shall be heard by three permanent members of 
 
 (i) a Government of a creditor country entitled to appoint a permanent member, or  
 
-(ii) a person who is a national of, or resides in, such country, the permanent member appointed by the Government of such country shall sit. If more than one permanent member would be entitled to sit under this provision, the Chairman shall appoint one of such members.      
+(ii) a person who is a national of, or resides in, such country, the permanent member appointed by the Government of such country shall sit. If more than one permanent member would be entitled to sit under this provision, the Chairman shall appoint one of such members.     
 
 ### Article  5  
 
-The seat of the Commission shall be in the same place as the seat of the Arbitral Tribunal.  
+The seat of the Commission shall be in the same place as the seat of the Arbitral Tribunal. 
 
 ### Article  6  
 
-The Commission shall, in the interpretation of Annex IV to the Agreement, apply the generally accepted rules of international law.  
+The Commission shall, in the interpretation of Annex IV to the Agreement, apply the generally accepted rules of international law. 
 
 ### Article  7  
 
@@ -2124,24 +2123,24 @@ The Commission shall, in the interpretation of Annex IV to the Agreement, apply 
 (4).  All decisions of the Commission shall be taken by a majority vote. They shall be rendered in writing and shall include a statement of the facts and the grounds for the decision together with the opinion of any member dissenting therefrom.   
 (5).  The Commission may in any proceeding before it refer a question which it considers to be of fundamental importance to the interpretation of Annex IV to the Agreement to the Arbitral Tribunal for decision. In such case the Commission shall suspend such proceeding pending the decision of the Arbitral Tribunal.   
 (6).  If a Party to the Agreement appeals from a decision of the Commission to the Arbitral Tribunal under the provisions of paragraph (7) of Article 31 of the Agreement, it shall file a notice of such appeal with the Commission.   
-(7).  Unless the Commission directs otherwise, each party to the proceedings shall pay its own costs.   
+(7).  Unless the Commission directs otherwise, each party to the proceedings shall pay its own costs.  
 
 ### Article  8  
 
 (1).  The salary and allowances of a permanent member of the Commission who is appointed in place of a permanent member of the Arbitral Tribunal and of any additional member shall be borne by the Government or Governments appointing such member.   
 (2).  The scale of fees payable by parties to proceedings shall be determined by a subsidiary administrative agreement between the Governments entitled to appoint permanent members of the Arbitral Tribunal.   
 (3).  Any other costs of the Commission not covered by the fees shall be borne by the Federal Republic of Germany.   
-(4).  The Commission shall, with respect to its administration, accommodation and staff make use of the administrative facilities provided for the Arbitral Tribunal. Any special administrative arrangements for the Commission shall be provided for in the subsidiary administrative agreement referred to in paragraph (2) of this Article.   
+(4).  The Commission shall, with respect to its administration, accommodation and staff make use of the administrative facilities provided for the Arbitral Tribunal. Any special administrative arrangements for the Commission shall be provided for in the subsidiary administrative agreement referred to in paragraph (2) of this Article.  
 
 ### Article  9  
 
-The Commission shall determine its own rules of procedure consistent with the provisions of this Charter and of the Agreement.  
+The Commission shall determine its own rules of procedure consistent with the provisions of this Charter and of the Agreement. 
 
-### APPENDIX  A  
+### APPENDIX   A  
 
 ####Exchange of letters embodying the Agreement of 6th March, 1951, between the Governments of the French Republic, the United Kingdom of Great Britain and Northern Ireland and the United States of America and the Government of the Federal Republic of Germany
 
-###A. *Letter to the Allied High Commission from the German Federal Chancellor*
+###A. *Letter to the Allied High Commission from the German Federal Chancellor* 
 
 *Bonn, 6th March, 1951.*  Mr. High Commissioner, In reply to your letter of 23rd October, 1950 - AGSEC (50) 2339 - I have the honour to inform you as follows: 
 ###I
@@ -2153,15 +2152,15 @@ The Federal Goverment acknowledges hereby in principle the debt arising from the
 ###III
 
 The Federal Government hereby expresses its desire to resume payments on the German external debt. It understands that there is agreement between it and the Governments of France, the United Kingdom of Great Britain and Northern Ireland and of the United States of America on the following: It is in the interest of the re-establishment of normal economic relations between the Federal Republic and other countries to work out as soon as possible a settlement plan which will govern the settlement of public and private claims against Germany and German nationals. Interested Governments, including the Federal Republic, creditors and debtors, shall participate in working out this plan. The settlement plan shall in particular deal with those claims, the settlement of which would achieve the objective of normalising the economic and financial relations of the Federal Republic with other countries. It will take into account the general economic position of the Federal Republic, notably the increase of its burdens and the reduction in its economic wealth. The general effect of this plan shall neither dislocate the German economy through undesirable effects on the internal financial situation nor unduly drain existing or potential German foreign-exchange resources. It shall also not add appreciably to the financial burden of any occupation Power. The Governments concerned may obtain expert opinions on all questions arising out of the negotiations on the settlement plan and on the capacity to pay. The result of the negotiations shall be set forth in agreements. It is agreed that the plan will be provisional in nature and subject to revision as soon as Germany is reunited and a final peace settlement becomes possible. I beg your Excellency to accept the assurance of my highest esteem. (sd) ADENAUER. 
-###B. *Reply to the German Federal Chancellor from the Allied High Commissioners on behalf of the Governments of the French Republic, the United Kingdom of Great Britain and Northern Ireland and the United States of America*
+###B. *Reply to the German Federal Chancellor from the Allied High Commissioners on behalf of the Governments of the French Republic, the United Kingdom of Great Britain and Northern Ireland and the United States of America* 
 
 *6th March, 1951.*  Mr. Chancellor, In reply to your letter of 6th March, 1951, on the subject of German indebtedness we have the honour, on behalf of the Governments of France, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, to acknowledge the undertakings of the Federal Government in regard to the responsibility of the Federal Republic for the pre-war external debts of the German Reich and for the debt arising out of the economic assistance furnished to Germany by the three Governments since 8th May, 1945. With regard to the priority accorded to the obligations arising from the post-war economic assistance, we are authorised to state that the three Governments would not propose to exercise this priority in such a way as to restrict settlement of foreign-held claims arising out of trade subsequent to 8th May, 1945, essential to the economic recovery of the Federal Republic. With regard to the question of an arbitration clause in agreements covering the debts for post-war economic assistance, the three Governments will be prepared, when negotiating such agreements, to consider whether it would be useful to include an arbitration clause to deal with any matters which might be appropriately settled by such a procedure. We further have the honour on behalf of the three Governments to confirm the understandings of the Federal Government as set forth in the second paragraph of Article I and in Article III of your Excellency's letter. They are now engaged in preparing proposals for the working out of settlement arrangements: these will provide for the participation of foreign creditors, German debtors, and interested Governments, including the Federal Government. The proposals will be designed to arrive at an orderly overall settlement of pre-war claims against Germany and German debtors and of the debt arising out of the post-war economic assistance, which would be fair and equitable to all the interests affected, including those of the Federal Government. It is the intention that the resulting settlement should be embodied in a multilateral agreement; any bilateral agreements that may be considered to be necessary would be concluded within the framework of the settlement plan. As soon as their proposals are ready the three Governments will communicate them to the Federal Government and to other interested Governments and will discuss with them these proposals and the procedure to be adopted for dealing with the subject. We have the honour to state that our three Governments regard your Excellency's letter under reference and this letter as placing on record an agreement between the Governments of France, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, on the one hand, and the Government of the Federal Republic on the other, concerning the questions of German indebtedness covered in these letters. These letters are prepared in English, French and German, each text being equally authentic. Accept, Mr. Chancellor, the renewed assurances of our highest esteem. (sd) A. FRANÇOIS-PONCET. For the Government of the French Republic. (sd) IVONE KIRKPATRICK. For the Government of the United Kingdom. (sd) JOHN J. McCLOY. For the Government of the United States of America.   
 
-### APPENDIX  B  
+### APPENDIX   B  
 
 ####Report of the Conference on German External Debts
 
-(Without the Appendices thereto)  
+(Without the Appendices thereto) 
 
 ### *London, February - August 1952* 
 
@@ -2175,7 +2174,7 @@ The Federal Government hereby expresses its desire to resume payments on the Ger
 
 4. The Commission held preliminary discussions in June and July 1951 with the German Delegation on External Debts, appointed by the Government of the Federal Republic of Germany, and with representatives from some of the principal creditor countries. The German Delegation was headed by Herr Hermann J. Abs, with alternate Dr. W. Kriege.  
 
-5 In December 1951 the Tripartite Commission informed the German Delegation of the amounts and terms of payment which the three Governments were prepared to accept in full settlement of their claims in respect of post-war economic assistance, on condition that a satisfactory and equitable settlement of Germany's pre-war debts were achieved. During the Conference the United States of America further offered to defer collection of the principal of its claim for a period of five years and amended its offer of December 1951 accordingly. The amounts and terms are outlined in Appendix 2 of this Report. <sup> (1)  Appendix 2 of the Conference Report has been superseded by the provisions of the Agreements for the settlement of the claims of the three Governments arising from the post-war economic assistance to Germany, signed on the same day as the Agreement on German External Debts. The last paragraph of the preamble of the latter Agreement makes reference to these Agreements.  </sup>   
+5 In December 1951 the Tripartite Commission informed the German Delegation of the amounts and terms of payment which the three Governments were prepared to accept in full settlement of their claims in respect of post-war economic assistance, on condition that a satisfactory and equitable settlement of Germany's pre-war debts were achieved. During the Conference the United States of America further offered to defer collection of the principal of its claim for a period of five years and amended its offer of December 1951 accordingly. The amounts and terms are outlined in Appendix 2 of this Report. <sup> (1)  Appendix 2 of the Conference Report has been superseded by the provisions of the Agreements for the settlement of the claims of the three Governments arising from the post-war economic assistance to Germany, signed on the same day as the Agreement on German External Debts. The last paragraph of the preamble of the latter Agreement makes reference to these Agreements. </sup>    
 ### *II. Organisation of the Conference* 
 
 6. The Conference held its first plenary meeting at Lancaster House, London, on 28th February, 1952. The Governments of France, The United Kingdom and the United States of America were represented by the Tripartite Commission on German Debts; the private creditors of these three countries were represented by separate delegations; 22 creditor countries sent national delegations composed of governmental and, in many cases, private creditor representatives; 3 countries sent observers; the Bank for International Settlements was represented as a creditor in its own right; the Delegation of the Federal Republic of Germany included governmental representatives and representatives of private debtors.  
@@ -2227,13 +2226,13 @@ Each Committee was composed of representatives of the creditors and debtors, tog
 (iv) be compatible with and as far as possible facilitate the Federal Republic's eventual compliance with obligations which members of the International Monetary Fund and the Organisation for European Economic Co-operation have assumed with regard to the transfer of payments for current transactions, including interest and earnings on investments.       
 ### *IV. Recommendations* 
 
-12. *Reich Debts and other Debts of Public Authorities.* The recommendations for the settlement of debts in this category are contained in Appendix 3.  
+12.  *Reich Debts and other Debts of Public Authorities.* The recommendations for the settlement of debts in this category are contained in Appendix 3.  
 
-13. *Other Medium and Long-Term Debts.* The recommendations for the settlement of debts in this category are contained in Appendix 4.  
+13.  *Other Medium and Long-Term Debts.* The recommendations for the settlement of debts in this category are contained in Appendix 4.  
 
-14. *Standstill Debts.* The recommendations for the settlement of debts in this category are contained in Appendix 5. The Conference is in agreement that these recommendations should be put into effect at the earliest date possible.  
+14.  *Standstill Debts.* The recommendations for the settlement of debts in this category are contained in Appendix 5. The Conference is in agreement that these recommendations should be put into effect at the earliest date possible.  
 
-15. *Commercial and Miscellaneous Debts.* The recommendations for the settlement of debts in this category are contained in Appendix 6.  
+15.  *Commercial and Miscellaneous Debts.* The recommendations for the settlement of debts in this category are contained in Appendix 6.  
 
 16. The Conference considered several debt problems the special nature of which made their complete and definitive settlement during the Conference impossible. Plans were laid for their subsequent solution in negotiations between the interests involved. Appropriate provisions in this regard have been included in the respective appendices of this Report. Such negotiations should be guided by the principles and objectives of the Conference and the resulting recommendations, if approved, should be covered by the Intergovernmental Agreement.  
 
@@ -2283,19 +2282,19 @@ Each Committee was composed of representatives of the creditors and debtors, tog
 
 ####OVEREENKOMST NOPENS DUITSE BUITENLANDSE SCHULDEN
 
-*Londen, 27 Februari 1953*  De Regeringen van België, Canada, Ceylon, Denemarken, de Franse Republiek, Griekenland, Iran, Ierland, Italië, Liechtenstein, Luxemburg, Noorwegen, Pakistan, Spanje, Zweden, Zwitserland, de Unie van Zuid-Afrika, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland, de Verenigde Staten van Amerika en Zuidslavië aan de ene zijde, en De Regering van de Bondsrepubliek Duitsland aan de andere zijde, Het gewenst achtend, de belemmeringen van een normaal economisch verkeer tussen de Bondsrepubliek Duitsland en andere landen weg te nemen en daardoor een bijdrage tot de ontwikkeling van een welvarende gemeenschap van volkeren te leveren; Overwegende dat de betalingen op Duitse buitenlandse schulden in het algemeen gedurende ongeveer twintig jaar niet in overeenstemming met de contractuele bepalingen zijn geschied; dat van 1939 tot 1945 het bestaan van een staat van oorlog het doen van alle betalingen met betrekking tot vele van deze schulden heeft belet; dat sinds 1945 deze betalingen in het algemeen zijn opgeschort; en dat de Bondsrepubliek Duitsland een einde wenst te maken aan deze toestand; Overwegende dat Frankrijk, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika sinds 8 Mei 1945 economische hulp aan Duitsland hebben verleend, welke wezenlijk tot de opbouw van de Duitse economie heeft bijgedragen, waardoor de hervatting van de betalingen op de Duitse buitenlandse schulden is vergemakkelijkt; Overwegende dat op 6 Maart 1951 een briefwisseling, welke in afschrift in Aanhangsel A van deze Overeenkomst is opgenomen, heeft plaatsgevonden tussen de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika en de Regering van de Bondsrepubliek Duitsland, welke de basis vormt, waarop deze Overeenkomst voor de regeling van de Duitse buitenlandse schulden (met haar Bijlagen) en de overeenkomsten voor de regeling van de schulden uit hoofde van de aan Duitsland verleende economische hulp berusten; Overwegende dat de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika een commissie, genaamd de Drie Mogendheden Commissie voor Duitse schulden, hebben ingesteld met het doel, om in overleg met de Regering van de Bondsrepubliek Duitsland, met andere belanghebbende Regeringen en met vertegenwoordigers van de belanghebbende crediteuren en debiteuren een schema voor de regelmatige afwikkeling van het geheel der Duitse buitenlandse schulden voor te bereiden en uit te werken; Overwegende dat deze Commissie de vertegenwoordigers van de Regering van de Bondsrepubliek Duitsland er van heeft verwittigd, dat de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika bereid waren belangrijke concessies te doen met betrekking tot de voorrang van hun vorderingen uit hoofde van na-oorlogse economische hulp ten opzichte van alle andere buitenlandse vorderingen tegen Duitsland en Duitse onderdanen en met betrekking tot het totale bedrag van deze vorderingen op voorwaarde, dat een bevredigende en billijke regeling voor de vooroorlogse buitenlandse schulden van Duitsland zou worden bereikt; Overwegende dat een dergelijke regeling van de Duitse buitenlandse schulden alleen zou kunnen worden bereikt door een enkelvoudig allesomvattend schema, dat rekening zou houden met de onderlinge verhoudingen van de verschillende crediteurbelangen, de aard van de verschillende soorten van vorderingen en de algemene toestand van de Bondsrepubliek Duitsland; Overwegende dat er, teneinde dit doel te bereiken, van 28 Februari 1952 tot 8 Augustus 1952 te Londen een Internationale Conferentie inzake de Duitse buitenlandse schulden is gehouden, waaraan werd deelgenomen door vertegenwoordigers van de belanghebbende Regeringen en van de belanghebbende crediteuren en debiteuren; Overwegende dat deze vertegenwoordigers overeenstemming over een aantal aanbevelingen met betrekking tot de regelingsmodaliteiten en -procedures hebben bereikt (waarvan de teksten als Bijlagen I tot en met VI bij deze Overeenkomst zijn opgenomen); dat deze aanbevelingen waren toegevoegd aan het Rapport van de Conferentie inzake de Duitse buitenlandse schulden (waarvan de tekst als Aanhangsel B bij deze Overeenkomst is opgenomen); en dat deze Overeenkomst is geïnspireerd door de beginselen en doelstellingen, welke in het bovengenoemde Rapport zijn uitgedrukt; Overwegende dat de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika, bevonden hebbende, dat deze aanbevelingen een bevredigend en billijk schema voor de regeling van de Duitse buitenlandse schulden inhouden, heden met de Regering van de Bondsrepubliek Duitsland bilaterale overeenkomsten hebben ondertekend voor de regeling van schulden uit hoofde van de door deze drie Regeringen verleende na-oorlogse economische hulp, waarin hun gewijzigde rechten en voorrangen in dit verband zijn vastgelegd;   Zijn het volgende overeengekomen:    
+*Londen, 27 Februari 1953* De Regeringen van België, Canada, Ceylon, Denemarken, de Franse Republiek, Griekenland, Iran, Ierland, Italië, Liechtenstein, Luxemburg, Noorwegen, Pakistan, Spanje, Zweden, Zwitserland, de Unie van Zuid-Afrika, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland, de Verenigde Staten van Amerika en Zuidslavië aan de ene zijde,  en De Regering van de Bondsrepubliek Duitsland aan de andere zijde, Het gewenst achtend, de belemmeringen van een normaal economisch verkeer tussen de Bondsrepubliek Duitsland en andere landen weg te nemen en daardoor een bijdrage tot de ontwikkeling van een welvarende gemeenschap van volkeren te leveren; Overwegende dat de betalingen op Duitse buitenlandse schulden in het algemeen gedurende ongeveer twintig jaar niet in overeenstemming met de contractuele bepalingen zijn geschied; dat van 1939 tot 1945 het bestaan van een staat van oorlog het doen van alle betalingen met betrekking tot vele van deze schulden heeft belet; dat sinds 1945 deze betalingen in het algemeen zijn opgeschort; en dat de Bondsrepubliek Duitsland een einde wenst te maken aan deze toestand; Overwegende dat Frankrijk, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika sinds 8 Mei 1945 economische hulp aan Duitsland hebben verleend, welke wezenlijk tot de opbouw van de Duitse economie heeft bijgedragen, waardoor de hervatting van de betalingen op de Duitse buitenlandse schulden is vergemakkelijkt; Overwegende dat op 6 Maart 1951 een briefwisseling, welke in afschrift in Aanhangsel A van deze Overeenkomst is opgenomen, heeft plaatsgevonden tussen de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika en de Regering van de Bondsrepubliek Duitsland, welke de basis vormt, waarop deze Overeenkomst voor de regeling van de Duitse buitenlandse schulden (met haar Bijlagen) en de overeenkomsten voor de regeling van de schulden uit hoofde van de aan Duitsland verleende economische hulp berusten; Overwegende dat de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika een commissie, genaamd de Drie Mogendheden Commissie voor Duitse schulden, hebben ingesteld met het doel, om in overleg met de Regering van de Bondsrepubliek Duitsland, met andere belanghebbende Regeringen en met vertegenwoordigers van de belanghebbende crediteuren en debiteuren een schema voor de regelmatige afwikkeling van het geheel der Duitse buitenlandse schulden voor te bereiden en uit te werken; Overwegende dat deze Commissie de vertegenwoordigers van de Regering van de Bondsrepubliek Duitsland er van heeft verwittigd, dat de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika bereid waren belangrijke concessies te doen met betrekking tot de voorrang van hun vorderingen uit hoofde van na-oorlogse economische hulp ten opzichte van alle andere buitenlandse vorderingen tegen Duitsland en Duitse onderdanen en met betrekking tot het totale bedrag van deze vorderingen op voorwaarde, dat een bevredigende en billijke regeling voor de vooroorlogse buitenlandse schulden van Duitsland zou worden bereikt; Overwegende dat een dergelijke regeling van de Duitse buitenlandse schulden alleen zou kunnen worden bereikt door een enkelvoudig allesomvattend schema, dat rekening zou houden met de onderlinge verhoudingen van de verschillende crediteurbelangen, de aard van de verschillende soorten van vorderingen en de algemene toestand van de Bondsrepubliek Duitsland; Overwegende dat er, teneinde dit doel te bereiken, van 28 Februari 1952 tot 8 Augustus 1952 te Londen een Internationale Conferentie inzake de Duitse buitenlandse schulden is gehouden, waaraan werd deelgenomen door vertegenwoordigers van de belanghebbende Regeringen en van de belanghebbende crediteuren en debiteuren; Overwegende dat deze vertegenwoordigers overeenstemming over een aantal aanbevelingen met betrekking tot de regelingsmodaliteiten en -procedures hebben bereikt (waarvan de teksten als Bijlagen I tot en met VI bij deze Overeenkomst zijn opgenomen); dat deze aanbevelingen waren toegevoegd aan het Rapport van de Conferentie inzake de Duitse buitenlandse schulden (waarvan de tekst als Aanhangsel B bij deze Overeenkomst is opgenomen); en dat deze Overeenkomst is geïnspireerd door de beginselen en doelstellingen, welke in het bovengenoemde Rapport zijn uitgedrukt; Overwegende dat de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika, bevonden hebbende, dat deze aanbevelingen een bevredigend en billijk schema voor de regeling van de Duitse buitenlandse schulden inhouden, heden met de Regering van de Bondsrepubliek Duitsland bilaterale overeenkomsten hebben ondertekend voor de regeling van schulden uit hoofde van de door deze drie Regeringen verleende na-oorlogse economische hulp, waarin hun gewijzigde rechten en voorrangen in dit verband zijn vastgelegd;   Zijn het volgende overeengekomen:    
 
 ### Artikel  1  
 
 ####Goedkeuring der regelingsmodaliteiten en -procedures
 
-De Partijen bij deze Overeenkomst beschouwen de daarin en in de daarbij behorende Bijlagen neergelegde voorzieningen als redelijk in het licht van de algemene toestand van de Bondsrepubliek Duitsland en als bevredigend en billijk ten opzichte van de daarbij betrokken belangen. Zij keuren de regelingsmodaliteiten en -procedures in de daarbij behorende Bijlagen goed.  
+De Partijen bij deze Overeenkomst beschouwen de daarin en in de daarbij behorende Bijlagen neergelegde voorzieningen als redelijk in het licht van de algemene toestand van de Bondsrepubliek Duitsland en als bevredigend en billijk ten opzichte van de daarbij betrokken belangen. Zij keuren de regelingsmodaliteiten en -procedures in de daarbij behorende Bijlagen goed. 
 
 ### Artikel  2  
 
 ####Uitvoering van de Overeenkomst door de Bondsrepubliek Duitsland
 
-De Bondsrepubliek Duitsland zal de voor de uitvoering van deze Overeenkomst en de daarbij behorende Bijlagen vereiste wettelijke en administratieve maatregelen treffen en de daarmee in strijd zijnde wettelijke en administratieve maatregelen wijzigen of intrekken.  
+De Bondsrepubliek Duitsland zal de voor de uitvoering van deze Overeenkomst en de daarbij behorende Bijlagen vereiste wettelijke en administratieve maatregelen treffen en de daarmee in strijd zijnde wettelijke en administratieve maatregelen wijzigen of intrekken. 
 
 ### Artikel  3  
 
@@ -2349,7 +2348,7 @@ In deze Overeenkomst en de daarbij behorende Bijlagen IX en X betekent, tenzij u
 
 (b) verschuldigd zijn aan een persoon, die op het tijdstip, waarop een aanbod tot regeling door de debiteur of een verzoek tot regeling door de crediteur wordt gedaan in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen, gevestigd is in of onderdaan is van een crediteurland; of  
 
-(c) uit courante effecten voortvloeien, welke in een crediteurland betaalbaar zijn.     
+(c) uit courante effecten voortvloeien, welke in een crediteurland betaalbaar zijn.    
 
 ### Artikel  5  
 
@@ -2359,7 +2358,7 @@ In deze Overeenkomst en de daarbij behorende Bijlagen IX en X betekent, tenzij u
 (2).  De behandeling van uit de tweede wereldoorlog voortvloeiende vorderingen van landen, die in staat van oorlog met Duitsland hebben verkeerd of gedurende de oorlog door Duitsland bezet zijn geweest, en van onderdanen van deze landen tegen het Duitse Rijk en tegen namens het Duitse Rijk optredende instanties en personen, met inbegrip van de kosten van de Duitse bezetting, de gedurende de bezetting op clearingrekeningen verworven tegoeden en de vorderingen tegen de „Reichskreditkassen”, wordt tot de definitieve regeling van het vraagstuk der herstelbetalingen uitgesteld.   
 (3).  De behandeling van gedurende de tweede wereldoorlog ontstane vorderingen van landen, die niet in staat van oorlog met Duitsland hebben verkeerd en niet gedurende de oorlog door Duitsland bezet zijn geweest, en van onderdanen van deze landen tegen het Duitse Rijk en tegen namens het Duitse Rijk optredende instanties en personen, met inbegrip van op clearingrekeningen verworven tegoeden, wordt uitgesteld tot de regeling van deze vorderingen in samenhang met de regeling van de in lid (2) van dit Artikel bedoelde vorderingen kan worden behandeld (behalve voorzover deze vorderingen op grond van of in verband met overeenkomsten, welke door de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika en door de Regering van het betreffende land zijn ondertekend, worden geregeld).   
 (4).  Vorderingen tegen Duitsland of Duitse onderdanen van landen, welke voor 1 September 1939 bij het Duitse Rijk ingelijfd of op of na 1 September 1939 met het Duitse Rijk verbonden waren, en van onderdanen van deze landen uit hoofde van verplichtingen of rechten, welke tussen het tijdstip van inlijving (of voor landen, welke met het Duitse Rijk verbonden waren, 1 September 1939) en 8 Mei 1945 zijn ontstaan, worden behandeld in overeenstemming met de bepalingen, welke in de desbetreffende verdragen zijn of worden opgenomen. Voorzover dergelijke schulden volgens deze verdragen kunnen worden geregeld, zijn de bepalingen van deze Overeenkomst van toepassing.   
-(5).  De regeling van de schulden van de stad Berlijn en van de aan Berlijn toebehorende of onder het toezicht van Berlijn staande in Berlijn gelegen openbare verzorgingsbedrijven wordt uitgesteld tot een tijdstip, waarop onderhandelingen over de regeling van deze schulden door de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika en door de Regering van de Bondsrepubliek Duitsland en de Senaat van de stad Berlijn mogelijk worden geacht.   
+(5).  De regeling van de schulden van de stad Berlijn en van de aan Berlijn toebehorende of onder het toezicht van Berlijn staande in Berlijn gelegen openbare verzorgingsbedrijven wordt uitgesteld tot een tijdstip, waarop onderhandelingen over de regeling van deze schulden door de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika en door de Regering van de Bondsrepubliek Duitsland en de Senaat van de stad Berlijn mogelijk worden geacht.  
 
 ### Artikel  6  
 
@@ -2369,7 +2368,7 @@ De Bondsrepubliek Duitsland zal:
 
 (a) in overeenstemming met de bepalingen van deze Overeenkomst en de daarbij behorende Bijlagen betalingen verrichten en transfer doen plaatsvinden voor schulden, waarvoor zij volgens deze bepalingen zelf aansprakelijk is;  
 
-(b) in overeenstemming met de bepalingen van deze Overeenkomst en de daarbij behorende Bijlagen de regeling en de betaling van schulden toestaan, waarvoor een andere persoon dan de Bondsrepubliek Duitsland aansprakelijk is, en in overeenstemming met de bepalingen van deze Overeenkomst en de daarbij behorende Bijlagen de transfer van betalingen op geregelde schulden doen plaatsvinden.    
+(b) in overeenstemming met de bepalingen van deze Overeenkomst en de daarbij behorende Bijlagen de regeling en de betaling van schulden toestaan, waarvoor een andere persoon dan de Bondsrepubliek Duitsland aansprakelijk is, en in overeenstemming met de bepalingen van deze Overeenkomst en de daarbij behorende Bijlagen de transfer van betalingen op geregelde schulden doen plaatsvinden.   
 
 ### Artikel  7  
 
@@ -2379,25 +2378,25 @@ De Bondsrepubliek Duitsland zal toestemming tot betaling van verplichtingen, die
 
 (a) niet-contractuele financiële verplichtingen zijn, waarvan de oorsprong voor 8 Mei 1945 is gelegen, doch waarvan de bedragen niet voor die datum vastgesteld en opeisbaar waren;  
 
-(b) financiële verplichtingen uit hoofde van voor 8 Mei 1945 gesloten andere overeenkomsten dan lening- en credietovereenkomsten zijn, waarvan de bedragen op of na die datum opeisbaar waren,   voorzover deze verplichtingen voldoen aan de voorwaarden, welke in lid (2) en (3) van Artikel 4 zijn neergelegd.  
+(b) financiële verplichtingen uit hoofde van voor 8 Mei 1945 gesloten andere overeenkomsten dan lening- en credietovereenkomsten zijn, waarvan de bedragen op of na die datum opeisbaar waren,   voorzover deze verplichtingen voldoen aan de voorwaarden, welke in lid (2) en (3) van Artikel 4 zijn neergelegd. 
 
 ### Artikel  8  
 
 ####Verbod van discriminatoire behandeling
 
-De Bondsrepubliek Duitsland zal geen toestemming verlenen tot en de crediteurlanden zullen niet streven naar discriminatie of bevoorrechting met betrekking tot de verschillende soorten van schulden of de valuta's waarin deze moeten worden betaald of in enig ander opzicht bij de uitvoering van regelingsmodaliteiten in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen. Verschillen in de behandeling van de verschillende soorten van schulden, welke voortvloeien uit regelingen in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen, worden niet als discriminatie of bevoorrechting beschouwd.  
+De Bondsrepubliek Duitsland zal geen toestemming verlenen tot en de crediteurlanden zullen niet streven naar discriminatie of bevoorrechting met betrekking tot de verschillende soorten van schulden of de valuta's waarin deze moeten worden betaald of in enig ander opzicht bij de uitvoering van regelingsmodaliteiten in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen. Verschillen in de behandeling van de verschillende soorten van schulden, welke voortvloeien uit regelingen in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen, worden niet als discriminatie of bevoorrechting beschouwd. 
 
 ### Artikel  9  
 
 ####Behandeling van transfer op dezelfde wijze als bij betalingen wegens lopende transacties
 
-De transfer van rente- en aflossingsbetalingen in overeenstemming met deze Overeenkomst zal op dezelfde wijze worden behandeld als de transfer van betalingen wegens lopende transacties en in de daarvoor in aanmerking komende gevallen in de bi- of multilaterale regelingen inzake het handels- of betalingsverkeer tussen de Bondsrepubliek Duitsland en de crediteurlanden worden mogelijk gemaakt.  
+De transfer van rente- en aflossingsbetalingen in overeenstemming met deze Overeenkomst zal op dezelfde wijze worden behandeld als de transfer van betalingen wegens lopende transacties en in de daarvoor in aanmerking komende gevallen in de bi- of multilaterale regelingen inzake het handels- of betalingsverkeer tussen de Bondsrepubliek Duitsland en de crediteurlanden worden mogelijk gemaakt. 
 
 ### Artikel  10  
 
 ####Beperking en uitsluiting van betalingen
 
-De Bondsrepubliek Duitsland zal tot de volledige nakoming van alle verplichtingen uit hoofde van deze Overeenkomst en de daarbij behorende Bijlagen waarborgen, dat geen betalingen verricht worden voor verplichtingen, welke, hoewel zij vallen onder de leden (1) en (2) van Artikel 4, verschuldigd zijn aan een andere Regering dan die van een crediteurland of aan een persoon, die noch gevestigd is in, noch onderdaan is van een crediteurland, en welke in een niet-Duitse valuta betaalbaar zijn of waren. Deze bepaling is niet van toepassing op schulden uit hoofde van courante effecten, welke in een crediteurland betaalbaar zijn.  
+De Bondsrepubliek Duitsland zal tot de volledige nakoming van alle verplichtingen uit hoofde van deze Overeenkomst en de daarbij behorende Bijlagen waarborgen, dat geen betalingen verricht worden voor verplichtingen, welke, hoewel zij vallen onder de leden (1) en (2) van Artikel 4, verschuldigd zijn aan een andere Regering dan die van een crediteurland of aan een persoon, die noch gevestigd is in, noch onderdaan is van een crediteurland, en welke in een niet-Duitse valuta betaalbaar zijn of waren. Deze bepaling is niet van toepassing op schulden uit hoofde van courante effecten, welke in een crediteurland betaalbaar zijn. 
 
 ### Artikel  11  
 
@@ -2417,7 +2416,7 @@ De Bondsrepubliek Duitsland zal tot de volledige nakoming van alle verplichtinge
 (c) Betalingen met betrekking tot schulden met een valuta-optieclausule, welke voor het nemen van de onder (*a*) van dit lid bedoelde beslissing in de valuta van het land, waarin de lening opgenomen of van waaruit het crediet verstrekt is, zijn verricht, worden niet door een dergelijke beslissing beïnvloed.     
 (3).  De bepalingen van lid (1) en (2) van dit Artikel zijn niet van toepassing op schulden, welke onder de bepalingen van de punten 2 en 3 van Bijlage I van deze Overeenkomst vallen.   
 (4).  De telkens tussen de Regering van de Bondsrepubliek Duitsland en de Regering van een crediteurland bestaande betalingsovereenkomsten zijn op de betaling van schulden, welke onder de bepalingen van lid (2) en (3) van dit Artikel vallen, van toepassing, mits de betaling in de valuta van het crediteurland dient te geschieden.   
-(5).  Indien schulden zijn ontstaan uit zakelijke transacties van een geregistreerd filiaal van een crediteur, welke contractueel zouden moeten worden betaald in het land, waarin dit filiaal is gelegen, geldt dit land als crediteurland in de zin van dit artikel.   
+(5).  Indien schulden zijn ontstaan uit zakelijke transacties van een geregistreerd filiaal van een crediteur, welke contractueel zouden moeten worden betaald in het land, waarin dit filiaal is gelegen, geldt dit land als crediteurland in de zin van dit artikel.  
 
 ### Artikel  12  
 
@@ -2431,7 +2430,7 @@ Bij de regeling en de voldoening van een in een niet-Duitse valuta uitgedrukte s
 
 (I) het verschuldigde nominale bedrag wordt tegen de op de datum van de totstandkoming van de schuld of bij in effecten belichaamde schulden tegen de op de datum van de uitgifte van deze effecten geldende wisselkoers in U.S.-dollars omgerekend;  
 
-(II) het aldus verkregen dollarbedrag wordt in de valuta, waarin de schuld volgens Artikel 11 betaald dient te worden, tegen de op de vervaldatum geldende wisselkoers tussen de U.S.-dollars en de betrokken valuta omgerekend, behalve ingeval de wisselkoers tussen de U.S.-dollar en de betrokken valuta op de vervaldatum ongunstiger is voor de crediteur dan op 1 Augustus 1952, in welk geval de wisselkoers van 1 Augustus 1952 van toepassing zal zijn.      
+(II) het aldus verkregen dollarbedrag wordt in de valuta, waarin de schuld volgens Artikel 11 betaald dient te worden, tegen de op de vervaldatum geldende wisselkoers tussen de U.S.-dollars en de betrokken valuta omgerekend, behalve ingeval de wisselkoers tussen de U.S.-dollar en de betrokken valuta op de vervaldatum ongunstiger is voor de crediteur dan op 1 Augustus 1952, in welk geval de wisselkoers van 1 Augustus 1952 van toepassing zal zijn.     
 
 ### Artikel  13  
 
@@ -2445,7 +2444,7 @@ In de gevallen, waarin een bedrag volgens de bepalingen van deze Overeenkomst en
 
 (c) ingeval op de betreffende datum noch pariteiten noch koersen op grond van bilaterale overeenkomsten gelden of golden, de algemeen in het handelsverkeer gebruikelijke middenkoers zijn, welke voor telegrafische overmakingen in de valuta van het land, waarin de betaling dient te geschieden, op de voornaamste beurs in het andere land op de betreffende datum of in voorkomend geval op de daaraan voorafgaande dag geldt of gold; of  
 
-(d) ingeval op de betreffende datum geen wisselkoers als hierboven onder (*a*), (*b*) of (*c*) bedoeld bestaat of bestond, de als crossrate of exchange aangeduide wisselkoers zijn, welke uit de op deze datum of in voorkomend geval op de daaraan voorafgaande dag geldende middenkoersen van de bedoelde valuta's op de voornaamste beurs in een derde land, waarin deze valuta's genoteerd worden, kan worden berekend.    
+(d) ingeval op de betreffende datum geen wisselkoers als hierboven onder (*a*), (*b*) of (*c*) bedoeld bestaat of bestond, de als crossrate of exchange aangeduide wisselkoers zijn, welke uit de op deze datum of in voorkomend geval op de daaraan voorafgaande dag geldende middenkoersen van de bedoelde valuta's op de voornaamste beurs in een derde land, waarin deze valuta's genoteerd worden, kan worden berekend.   
 
 ### Artikel  14  
 
@@ -2453,7 +2452,7 @@ In de gevallen, waarin een bedrag volgens de bepalingen van deze Overeenkomst en
 
 (1).  De Bondsrepubliek Duitsland zal soortgelijke maatregelen als bedoeld in punt 6 van Bijlage I van deze Overeenkomst treffen met betrekking tot alle Rijksmarkschulden, waarvoor zij de aansprakelijkheid heeft overgenomen of zal overnemen en welke niet onder evengenoemd punt vallen.   
 (2).  Bij toepassing van het beginsel van gelijkberechtiging met Duitse onderdanen zal de Bondsrepubliek Duitsland bovendien waarborgen, dat in Rijksmark-effecten belichaamde schulden, welke geen goudmarkschulden met een specifiek buitenlands karakter zijn en op 21 Juni 1948 tegenover personen, die op die datum onderdanen waren van of gevestigd waren in een crediteurland, bestonden, en waarvan volgens de in het gebied van de Duitse mark (West) geldende wetgeving slechts voor een bepaald deel betaling kan worden afgedwongen, op gelijke wijze worden voldaan als soortgelijke verplichtingen tegenover personen, die in het gebied van de Duitse mark (West) zijn gevestigd.   
-(3).  Bij de regeling van andere in Duitse valuta betaalbare schulden tegenover onderdanen van crediteurlanden, die in het gebied van de Duitse mark (West) zijn gevestigd, zullen de modaliteiten niet ongunstiger zijn dan die, welke voor soortgelijke verplichtingen tegenover andere in dit gebied gevestigde personen worden toegestaan.   
+(3).  Bij de regeling van andere in Duitse valuta betaalbare schulden tegenover onderdanen van crediteurlanden, die in het gebied van de Duitse mark (West) zijn gevestigd, zullen de modaliteiten niet ongunstiger zijn dan die, welke voor soortgelijke verplichtingen tegenover andere in dit gebied gevestigde personen worden toegestaan.  
 
 ### Artikel  15  
 
@@ -2471,13 +2470,13 @@ In de gevallen, waarin een bedrag volgens de bepalingen van deze Overeenkomst en
 (b) De houder van een effect, hetwelk onder Bijlage II van deze Overeenkomst valt en waarvoor een regelingsaanbod is gedaan, kan binnen een termijn van tenminste vijf jaar na de datum, waarop dit aanbod is gedaan, dit aanbod aanvaarden. Indien daartoe gegronde redenen aanwezig zijn, dient de debiteur deze termijn te verlengen.     
 (3).  Met betrekking tot schulden, die niet onder lid 2 (*a*) van dit Artikel vallen, wordt, voorzover geen bepaalde voorschriften in een Bijlage van deze Overeenkomst zijn neergelegd, de instemming van de crediteur met de vaststelling van de betalings- en andere modaliteiten in de zin van lid (1) van dit Artikel aanwezig geacht, indien de crediteur op enigerlei wijze duidelijk van zijn instemming doet blijken.   
 (4).  Een debiteur is slechts onderworpen aan de bepalingen, welke in deze Overeenkomst en de desbetreffende Bijlagen voor de regeling van schulden zijn voorgeschreven, indien hij met betrekking tot zijn schuld een regelingsaanbod in overeenstemming met de daarvoor in aanmerking komende Bijlage van deze Overeenkomst heeft gedaan of een kennisgeving van toetreding of een verklaring van deelname heeft afgegeven. De in dit lid neergelegde bepaling laat de voorzieningen van Artikel 17 van deze Overeenkomst echter onaangetast.   
-(5).  De Bondsrepubliek Duitsland is gerechtigd, bij de uitvoering van Artikel 2 van deze Overeenkomst rekening te houden met het gestelde in de vorige leden van dit Artikel.   
+(5).  De Bondsrepubliek Duitsland is gerechtigd, bij de uitvoering van Artikel 2 van deze Overeenkomst rekening te houden met het gestelde in de vorige leden van dit Artikel.  
 
 ### Artikel  16  
 
 ####Bevrijding van de debiteur
 
-Indien een debiteur zijn in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen geregelde schuld heeft voldaan, wordt hij geacht daardoor tevens aan alle verplichtingen uit hoofde van deze schuld, zoals deze voor de regeling bestond te hebben voldaan, tenzij dergelijke verplichtingen reeds op grond van een overeenkomst teniet waren gegaan.  
+Indien een debiteur zijn in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen geregelde schuld heeft voldaan, wordt hij geacht daardoor tevens aan alle verplichtingen uit hoofde van deze schuld, zoals deze voor de regeling bestond te hebben voldaan, tenzij dergelijke verplichtingen reeds op grond van een overeenkomst teniet waren gegaan. 
 
 ### Artikel  17  
 
@@ -2510,12 +2509,12 @@ Indien een debiteur zijn in overeenstemming met deze Overeenkomst en de daarbij 
 (5).  De Bondsrepubliek Duitsland zal de in Bijlage I van deze Overeenkomst bedoelde Organisaties van Effectenbezitters en soortgelijke lichamen en de in artikel VIII van Bijlage II bedoelde crediteurenvertegenwoordigers het recht verlenen, de modaliteiten van het regelingsaanbod door middel van Duitse rechtbanken en met behulp van Duitse instanties te doen vaststellen, indien de debiteur (uitgezonderd de Bondsrepubliek Duitsland) nalaat, een voorstel tot regeling van zijn in effecten belichaamde schuld in overeenstemming met de desbetreffende bepalingen van Bijlagen I en II van deze Overeenkomst te doen.   
 (6).  
 
-(a) Een debiteur, die nalaat, een regelingsaanbod in overeenstemming met Bijlagen I en II van deze Overeenkomst voor te stellen, is in een volgens de leden (1), (3) en (5) van dit Artikel voor een Duitse rechtbank aanhangig gemaakte procedure niet gerechtigd, een beroep te doen op de in punt 7 lid (1) onder *(e)* van Bijlage I of in artikel V lid 11 van Bijlage II van deze Overeenkomst bedoelde hardheidsclausule. Bij de vaststelling van de bepalingen van het regelingsaanbod of van de modaliteiten voor de regeling van de schuld dient de rechtbank de vroegste vervaldatum voor te schrijven, welke volgens de bepalingen van de desbetreffende Bijlage voor de regeling van de schuld is toegestaan. De rechtbank dient in zijn vonnis te bepalen, dat de debiteur de in punt 7 onder *k* van Bijlage I van deze Overeenkomst of in artikel X lid 2 van Bijlage II van deze Overeenkomst bedoelde kosten aan de eiser dient te vergoeden; deze kosten zijn aanstonds opeisbaar en betaalbaar. De rechtbank dient de debiteur verder te veroordelen tot betaling van de proceskosten en van alle redelijke in verband met de procedure gemaakte kosten en gedane uitgaven van de crediteur in gevallen van niet in effecten belichaamde schulden en van de Organisatie van Effectenbezitters of een soortgelijk lichaam of van de crediteurenvertegenwoordiger of vertegenwoordigers in gevallen van in effecten belichaamde schulden.  
+(a)  Een debiteur, die nalaat, een regelingsaanbod in overeenstemming met Bijlagen I en II van deze Overeenkomst voor te stellen, is in een volgens de leden (1), (3) en (5) van dit Artikel voor een Duitse rechtbank aanhangig gemaakte procedure niet gerechtigd, een beroep te doen op de in punt 7 lid (1) onder *(e)* van Bijlage I of in artikel V lid 11 van Bijlage II van deze Overeenkomst bedoelde hardheidsclausule. Bij de vaststelling van de bepalingen van het regelingsaanbod of van de modaliteiten voor de regeling van de schuld dient de rechtbank de vroegste vervaldatum voor te schrijven, welke volgens de bepalingen van de desbetreffende Bijlage voor de regeling van de schuld is toegestaan. De rechtbank dient in zijn vonnis te bepalen, dat de debiteur de in punt 7 onder *k* van Bijlage I van deze Overeenkomst of in artikel X lid 2 van Bijlage II van deze Overeenkomst bedoelde kosten aan de eiser dient te vergoeden; deze kosten zijn aanstonds opeisbaar en betaalbaar. De rechtbank dient de debiteur verder te veroordelen tot betaling van de proceskosten en van alle redelijke in verband met de procedure gemaakte kosten en gedane uitgaven van de crediteur in gevallen van niet in effecten belichaamde schulden en van de Organisatie van Effectenbezitters of een soortgelijk lichaam of van de crediteurenvertegenwoordiger of vertegenwoordigers in gevallen van in effecten belichaamde schulden.  
 
 (b) Indien een debiteur nalaat, tot toetreding als bedoeld in artikel 22 van Bijlage III van deze Overeenkomst over te gaan, is de crediteur gerechtigd, in een volgens lid (1) of (3) van dit Artikel aanhangig gemaakte procedure zijn rechten in overeenstemming met de bepalingen van de evengenoemde Bijlage af te dwingen, echter niet, voorzover het rechtstreeks door een Duitse handels- of industriële debiteur in de zin van de genoemde Bijlage aan de crediteur verschuldigde schulden betreft, voordat er dertig dagen na de eerste bijeenkomst van het in artikel 17 van genoemde Bijlage bedoelde Raadgevend Comité zijn verstreken. Indien de rechtbank de debiteur tot betaling van de schuld in overeenstemming met de genoemde Bijlage veroordeelt, zal het de debiteur tevens veroordelen tot vergoeding van de proceskosten en van alle redelijke in verband met de procedure gemaakte kosten en gedane uitgaven van de crediteur.  
 
 (c) Een debiteur, die nalaat, de volgens artikel 14 van Bijlage IV van deze Overeenkomst vereiste verklaring van toetreding te geven, is in een volgens lid (1) of (3) van dit Artikel aanhangig gemaakte procedure voor een Duitse rechtbank niet gerechtigd, een beroep te doen op de in artikel 11 van genoemde Bijlage bedoelde hardheidsclausule. Indien de debiteur de afgifte van de verklaring slechts heeft nagelaten, omdat hij het bestaan van de schuld ontkent, verliest hij het recht, om een beroep op de hardheidsclausule te doen, tenzij hij, ingeval de in artikel 15 van Bijlage IV van deze Overeenkomst bedoelde rechtbank of het aldaar bedoelde scheidsgerecht het bestaan van de schuld bevestigt, binnen dertig dagen, gerekend vanaf de datum, waarop de eindbeslissing van een dergelijke rechtbank is betekend, de vereiste verklaring afgeeft. Indien de debiteur in een procedure volgens dit onderdeel van dit lid van dit Artikel niet gerechtigd is een beroep op de hardheidsclausule te doen, dient de rechtbank hem tot betaling van de proceskosten en van de redelijk gemaakte kosten voor juridische bijstand van de eiser te veroordelen.     
-(7).  De Bondsrepubliek Duitsland zal de crediteur het recht verlenen, binnen de grenzen van deze Overeenkomst en de daarbij behorende Bijlagen door middel van Duitse rechtbanken en met behulp van Duitse instanties zijn vorderingen tegen een persoon, die in het gebied van de Duitse mark (Oost) gevestigd is, op diens in het gebied van de Duitse mark (West) gelegen vermogensbestanddelen te verhalen, indien deze vorderingen uit een verbintenis voortspruiten, welke, afgezien van de vereisten met betrekking tot de plaats van vestiging van de debiteur, aan de vereisten van Artikel 4 van deze Overeenkomst voldoet. Op het recht tot transfer in vreemde valuta's van de op deze wijze door de crediteur ontvangen bedragen zullen de telkenmale in het gebied van de Duitse mark (West) geldende deviezenbepalingen van toepassing zijn.   
+(7).  De Bondsrepubliek Duitsland zal de crediteur het recht verlenen, binnen de grenzen van deze Overeenkomst en de daarbij behorende Bijlagen door middel van Duitse rechtbanken en met behulp van Duitse instanties zijn vorderingen tegen een persoon, die in het gebied van de Duitse mark (Oost) gevestigd is, op diens in het gebied van de Duitse mark (West) gelegen vermogensbestanddelen te verhalen, indien deze vorderingen uit een verbintenis voortspruiten, welke, afgezien van de vereisten met betrekking tot de plaats van vestiging van de debiteur, aan de vereisten van Artikel 4 van deze Overeenkomst voldoet. Op het recht tot transfer in vreemde valuta's van de op deze wijze door de crediteur ontvangen bedragen zullen de telkenmale in het gebied van de Duitse mark (West) geldende deviezenbepalingen van toepassing zijn.  
 
 ### Artikel  18  
 
@@ -2525,7 +2524,7 @@ Indien een debiteur zijn in overeenstemming met deze Overeenkomst en de daarbij 
 (2).  Onverminderd het bepaalde in lid (1) van dit Artikel, worden, met het oog op het opstellen van een regeling, de in lid (1) bedoelde termijnen van verjaring en van verval, die van toepassing zijn op in effecten belichaamde schulden als bedoeld in de delen A en B van Bijlage I en op die behandeld in Bijlage II van deze Overeenkomst, geacht niet te zijn verstreken vóór de datum, waarop, overeenkomstig het bepaalde in punt 8 *(b)* van Bijlage I en Artikel 15 van deze Overeenkomst, het regelingsaanbod van de debiteur niet meer door de crediteur kan worden aanvaard.   
 (3).  Aanvaardt een crediteur een regelingsaanbod of verklaart hij zich accoord met een regeling voor een schuld overeenkomstig het bepaalde in Artikel 15 van deze Overeenkomst, dan worden daarmede de verjaringstermijnen en de vervaltermijnen voor het geldend maken van aanspraken met betrekking tot die schuld opgeschort.   
 (4).  Onder de verjaringstermijnen en vervaltermijnen, bedoeld in de leden (1), (2) en (3) van dit Artikel worden niet verstaan de termijnen voor het in beroep gaan van rechterlijke beslissingen, van scheidsrechterlijke of administratieve beslissingen, noch de termijnen, bedoeld in lid 3 van Deel 12 van de Duitse wet op de verzekeringsovereenkomst, noch de termijnen vastgesteld in de Duitse wetten betreffende de effectenzuivering.   
-(5).  De voorgaande bepalingen zullen toepassing vinden, ongeacht de vraag of de termijnen zijn vastgesteld door het Duitse recht of door het recht van een ander land, door een rechterlijke beslissing, een scheidsrechterlijke of een administratieve beslissing, door een overeenkomst of door een andere rechtshandeling. De Bondsrepubliek Duitsland zal er zorg voor dragen, dat de voorgaande bepalingen ook dan zullen worden toegepast door de Duitse rechterlijke instanties, indien de schuldverhouding naar zijn inhoud onderworpen is aan buitenlands recht.   
+(5).  De voorgaande bepalingen zullen toepassing vinden, ongeacht de vraag of de termijnen zijn vastgesteld door het Duitse recht of door het recht van een ander land, door een rechterlijke beslissing, een scheidsrechterlijke of een administratieve beslissing, door een overeenkomst of door een andere rechtshandeling. De Bondsrepubliek Duitsland zal er zorg voor dragen, dat de voorgaande bepalingen ook dan zullen worden toegepast door de Duitse rechterlijke instanties, indien de schuldverhouding naar zijn inhoud onderworpen is aan buitenlands recht.  
 
 ### Artikel  19  
 
@@ -2539,20 +2538,20 @@ Indien een debiteur zijn in overeenstemming met deze Overeenkomst en de daarbij 
 
 (c) artikel 10 van Bijlage IV van deze Overeenkomst (betalingen aan de Deutsche Verrechnungskasse)  
 
-(d) Bijlage IV *a* van deze Overeenkomst (in Zwitserse francs luidende hypothecaire schulden);   zullen door de Regering van de Bondsrepubliek Duitsland (c.q. na door deze verleende goedkeuring) ter goedkeuring worden voorgelegd aan de Regeringen van de Verenigde Staten van Amerika, van de Franse Republiek en van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland.   
-(2).  Elk dier overeenkomsten zal van kracht worden, en in alle opzichten als een Bijlage bij deze Overeenkomst beschouwd worden, zodra daarop de goedkeuring van die Regeringen zal zijn verkregen. Alle Partijen bij deze Overeenkomst zullen daarvan worden verwittigd door de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland.   
+(d)  Bijlage IV*a* van deze Overeenkomst (in Zwitserse francs luidende hypothecaire schulden);   zullen door de Regering van de Bondsrepubliek Duitsland (c.q. na door deze verleende goedkeuring) ter goedkeuring worden voorgelegd aan de Regeringen van de Verenigde Staten van Amerika, van de Franse Republiek en van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland.   
+(2).  Elk dier overeenkomsten zal van kracht worden, en in alle opzichten als een Bijlage bij deze Overeenkomst beschouwd worden, zodra daarop de goedkeuring van die Regeringen zal zijn verkregen. Alle Partijen bij deze Overeenkomst zullen daarvan worden verwittigd door de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland.  
 
 ### Artikel  20  
 
 ####Schulden van het Duitse Rijk uit hoofde van multilaterale overeenkomsten
 
-De bepalingen van deze Overeenkomst verzetten zich niet tegen betalingen op schulden van het Rijk of van agenten van het Rijk, die voortvloeien uit niet betaalde bijdragen of uit diensten bewezen in het kader van een internationale multilaterale overeenkomst of van de statuten van een internationale organisatie. Op verzoek van de belanghebbende crediteuren zal de Regering van de Bondsrepubliek Duitsland in directe onderhandelingen treden over deze schulden.  
+De bepalingen van deze Overeenkomst verzetten zich niet tegen betalingen op schulden van het Rijk of van agenten van het Rijk, die voortvloeien uit niet betaalde bijdragen of uit diensten bewezen in het kader van een internationale multilaterale overeenkomst of van de statuten van een internationale organisatie. Op verzoek van de belanghebbende crediteuren zal de Regering van de Bondsrepubliek Duitsland in directe onderhandelingen treden over deze schulden. 
 
 ### Artikel  21  
 
 ####Vernieuwing van Bijlage III
 
-Onder „Bijlage III” van deze Overeenkomst moet mede worden verstaan elke overeenkomst die na de datum van inwerkingtreding van deze Overeenkomst wordt afgesloten ter vernieuwing van de in die Bijlage vervatte overeenkomst. Dergelijke overeenkomsten kunnen de bepalingen van Bijlage III wijzigen, maar zullen er op gericht moeten zijn middelen en wegen te verschaffen om te geraken tot een herstel van de normale omstandigheden voor de financiering van de buitenlandse handel van de Bondsrepubliek Duitsland, overeenkomstig de algemene doelstellingen van deze Overeenkomst.  
+Onder „Bijlage III” van deze Overeenkomst moet mede worden verstaan elke overeenkomst die na de datum van inwerkingtreding van deze Overeenkomst wordt afgesloten ter vernieuwing van de in die Bijlage vervatte overeenkomst. Dergelijke overeenkomsten kunnen de bepalingen van Bijlage III wijzigen, maar zullen er op gericht moeten zijn middelen en wegen te verschaffen om te geraken tot een herstel van de normale omstandigheden voor de financiering van de buitenlandse handel van de Bondsrepubliek Duitsland, overeenkomstig de algemene doelstellingen van deze Overeenkomst. 
 
 ### Artikel  22  
 
@@ -2560,21 +2559,21 @@ Onder „Bijlage III” van deze Overeenkomst moet mede worden verstaan elke ove
 
 (1).  De Regering van de Bondsrepubliek Duitsland zal in onderhandeling treden met de Regeringen der betrokken crediteurlanden, ter regeling van vorderingen uit hoofde van sociale verzekeringen, ontstaan ten gevolge van de toepassing van Duitse wetten en regelingen, welke vóór 8 Mei 1945 van kracht waren, gedurende een periode voorafgaande aan 8 Mei 1945, voorzover die vorderingen volgens de wetgeving van de Bondsrepubliek Duitsland of overeenkomstig door haar op zich genomen verplichtingen moeten worden geacht te komen te haren laste of ten laste van instellingen voor sociale verzekeringen in het gebied van de Bondsrepubliek Duitsland, en voor zover die vorderingen niet reeds zijn behandeld in een overeenkomst met de Regering van het betrokken crediteurland. Het in dit lid bepaalde verzet zich niet tegen het opnemen in dergelijke overeenkomsten van bepalingen, ingevolge welke wetten of regelingen, geldend in de Bondsrepubliek Duitsland op het stuk van sociale verzekeringen, die voor onderdanen van andere landen een minder gunstige behandeling inhouden dan voor Duitse onderdanen, geen toepassing zullen vinden.   
 (2).  De Bondsrepubliek Duitsland zal de nodige maatregelen nemen met het oog op de regeling van de in het voorgaande lid bedoelde vorderingen, die niet behandeld zijn in overeenkomsten met de Regeringen van de crediteurlanden, en met het oog op de transfer in verband daarmede, op voorwaarde, dat het vorderingen van onderdanen en ingezetenen betreft van een crediteurland, vanwaar betalingen terzake van dergelijke vorderingen getransfereerd kunnen worden ten gunste van onderdanen of ingezetenen van de Bondsrepubliek Duitsland. De in de Bondsrepubliek Duitsland op het stuk van sociale verzekeringen geldende wetten en regelingen, die voor onderdanen van andere landen een minder gunstige behandeling inhouden dan voor Duitse onderdanen, zullen geen toepassing vinden, indien het betrokken crediteurland, wat betreft de betalingen van sociale renten, niet discrimineert tussen eigen onderdanen en Duitse onderdanen of tussen eigen ingezetenen en ingezetenen van de Bondsrepubliek Duitsland.   
-(3).  De in lid (1) van dit Artikel bedoelde vorderingen, uit hoofde van sociale verzekeringen, van onderdanen of ingezetenen van een crediteurland, welke niet krachtens lid (1) of overeenkomstig lid (2) van dit Artikel zullen worden geregeld, zullen volgens het bepaalde in artikel 28 van Bijlage IV van deze Overeenkomst worden geregeld.   
+(3).  De in lid (1) van dit Artikel bedoelde vorderingen, uit hoofde van sociale verzekeringen, van onderdanen of ingezetenen van een crediteurland, welke niet krachtens lid (1) of overeenkomstig lid (2) van dit Artikel zullen worden geregeld, zullen volgens het bepaalde in artikel 28 van Bijlage IV van deze Overeenkomst worden geregeld.  
 
 ### Artikel  23  
 
 ####Schulden uit het verzekeringsverkeer
 
 (1).  Als bilaterale regelingen, die getroffen zijn teneinde uitvoering te geven aan artikel 30, lid (1) van Bijlage IV van deze Overeenkomst, bepalingen bevatten, welke betrekking hebben op de transfer van betalingen of op betaling in Duitse mark van schulden, die voortvloeien uit verzekerings- of herverzekeringscontracten of -overeenkomsten van welke aard ook, of die met dergelijke contracten of overeenkomsten samenhangen, dan moeten die bepalingen in overeenstemming zijn met die terzake van de regeling van de andere soorten schulden.   
-(2).  Als op 30 Juni 1953 geen bilaterale regelingen zullen zijn getroffen, zullen de schulden uit hoofde van verzekerings- of herverzekeringscontracten geregeld worden overeenkomstig de bepalingen van artikel 30, lid (2) en van artikel 31 van Bijlage IV van deze Overeenkomst. De termijn van 30 Juni 1953 kan na het bereiken van onderlinge overeenstemming worden verlengd. De gunstigste voorwaarden, voorkomende in enige bilaterale regeling, gesloten overeenkomstig lid (1) van dit Artikel met betrekking tot de transfer van betalingen van welke categorie schulden ook, of met betrekking tot de betaling in Duitse mark van die schulden, zullen toepassing vinden op de schulden van dezelfde categorie jegens crediteuren, die gevestigd zijn in landen, waarmede geen bilaterale regelingen zullen zijn getroffen.   
+(2).  Als op 30 Juni 1953 geen bilaterale regelingen zullen zijn getroffen, zullen de schulden uit hoofde van verzekerings- of herverzekeringscontracten geregeld worden overeenkomstig de bepalingen van artikel 30, lid (2) en van artikel 31 van Bijlage IV van deze Overeenkomst. De termijn van 30 Juni 1953 kan na het bereiken van onderlinge overeenstemming worden verlengd. De gunstigste voorwaarden, voorkomende in enige bilaterale regeling, gesloten overeenkomstig lid (1) van dit Artikel met betrekking tot de transfer van betalingen van welke categorie schulden ook, of met betrekking tot de betaling in Duitse mark van die schulden, zullen toepassing vinden op de schulden van dezelfde categorie jegens crediteuren, die gevestigd zijn in landen, waarmede geen bilaterale regelingen zullen zijn getroffen.  
 
 ### Artikel  24  
 
 ####Toepasselijkheid van de Overeenkomst op Berlijn
 
 (1).  Met inachtneming van het bepaalde in lid (2) (*b*) van Artikel 4 en in lid (5) van Artikel 5, zal deze Overeenkomst van toepassing zijn op Berlijn, dat binnen de grenzen van zijn bevoegdheid verplichtingen, overeenkomend met die, welke de Bondsrepubliek uit hoofde van deze Overeenkomsten en de bijbehorende Bijlagen op zich neemt, zal nakomen.   
-(2).  Deze Overeenkomst zal voor Berlijn in werking treden bij of na haar inwerkingtreding overeenkomstig lid (2) van Artikel 35, zodra de Regering van de Bondsrepubliek Duitsland bij de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland een verklaring zal deponeren, waaruit zal blijken, dat in Berlijn alle wettelijke maatregelen, nodig voor de toepassing van deze Overeenkomst op Berlijn, zijn genomen.   
+(2).  Deze Overeenkomst zal voor Berlijn in werking treden bij of na haar inwerkingtreding overeenkomstig lid (2) van Artikel 35, zodra de Regering van de Bondsrepubliek Duitsland bij de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland een verklaring zal deponeren, waaruit zal blijken, dat in Berlijn alle wettelijke maatregelen, nodig voor de toepassing van deze Overeenkomst op Berlijn, zijn genomen.  
 
 ### Artikel  25  
 
@@ -2586,19 +2585,19 @@ De Partijen bij deze Overeenkomst zullen deze herzien bij de hereniging van Duit
 
 (b) het uitbreiden van de toepassing der bepalingen van deze Overeenkomst op schulden van personen, woonachtig in het met de Bondsrepubliek Duitsland herenigde gebied;  
 
-(c) het uitvoeren van een billijke aanpassing met betrekking tot schulden, waarvan de regeling is vastgesteld, rekening houdend met het verlies van bepaalde zich in het met de Bondsrepubliek Duitsland herenigde gebied bevindende vermogenswaarden, of met de onmogelijkheid daarover te beschikken.    
+(c) het uitvoeren van een billijke aanpassing met betrekking tot schulden, waarvan de regeling is vastgesteld, rekening houdend met het verlies van bepaalde zich in het met de Bondsrepubliek Duitsland herenigde gebied bevindende vermogenswaarden, of met de onmogelijkheid daarover te beschikken.   
 
 ### Artikel  26  
 
 ####Vroeger getroffen overeenkomsten
 
-Geen der bepalingen van deze Overeenkomst zal geacht worden de geldigheid van enige andere overeenkomst tot regeling van verplichtingen, door de Regering van de Bondsrepubliek Duitsland gesloten voor het in werking treden van deze Overeenkomst, aan te tasten.  
+Geen der bepalingen van deze Overeenkomst zal geacht worden de geldigheid van enige andere overeenkomst tot regeling van verplichtingen, door de Regering van de Bondsrepubliek Duitsland gesloten voor het in werking treden van deze Overeenkomst, aan te tasten. 
 
 ### Artikel  27  
 
 ####Voorrang van deze Overeenkomst boven haar Bijlagen
 
-Indien de bepalingen van deze Overeenkomst niet in overeenstemming zijn met de bepalingen van een der daarbij behorende Bijlagen, zijn de bepalingen van deze Overeenkomst beslissend.  
+Indien de bepalingen van deze Overeenkomst niet in overeenstemming zijn met de bepalingen van een der daarbij behorende Bijlagen, zijn de bepalingen van deze Overeenkomst beslissend. 
 
 ### Artikel  28  
 
@@ -2620,7 +2619,7 @@ Indien de bepalingen van deze Overeenkomst niet in overeenstemming zijn met de b
 (c) in een procedure in hoger beroep volgens lid (4) van dit Artikel voor de partij of de partijen bij de procedure in hoger beroep.     
 (9).  De bevoegdheid van het Tribunaal wordt niet aangetast door het feit, dat een partij bij het geschil niet bij de voor het Tribunaal aanhangig gemaakte procedure verschijnt.   
 (10).  Alle in overeenstemming met deze Overeenkomst en de daarbij behorende Bijlagen opgerichte scheidsrechterlijke instanties, uitgezonderd het Tribunaal zelf, zijn bij de beoordeling van de uitleg of de toepassing van deze Overeenkomst en de daarbij behorende Bijlagen door de daarvoor in aanmerking komende uitspraken van het Tribunaal gebonden.   
-(11).  Op verzoek van een Partij bij deze Overeenkomst geeft het Tribunaal advies met betrekking tot de uitleg of de toepassing van deze Overeenkomst (uitgezonderd de uitleg of de toepassing van Artikel 34 van deze Overeenkomst). Dergelijke adviezen hebben geen bindende kracht.   
+(11).  Op verzoek van een Partij bij deze Overeenkomst geeft het Tribunaal advies met betrekking tot de uitleg of de toepassing van deze Overeenkomst (uitgezonderd de uitleg of de toepassing van Artikel 34 van deze Overeenkomst). Dergelijke adviezen hebben geen bindende kracht.  
 
 ### Artikel  29  
 
@@ -2638,7 +2637,7 @@ Indien de bepalingen van deze Overeenkomst niet in overeenstemming zijn met de b
 (4).  Indien de beide scheidsrechters niet binnen 30 dagen, gerekend vanaf de datum van benoeming van de laatstbenoemde scheidsrechter, overeenstemming over de keuze van een voorzitter bereiken, wordt deze op verzoek van een van beide scheidsrechters door de Internationale Kamer van Koophandel benoemd. De bepaling van lid (2) onder (*c*) van dit Artikel ten aanzien van de nationaliteit geldt ook voor deze benoeming.   
 (5).  Indien een lid van het scheidsgerecht overlijdt of wegens ziekte, terugtrekking of niet-nakoming van zijn ambtsplichten uitvalt, wordt deze functie binnen 30 dagen, nadat zij is opengevallen, op dezelfde wijze als bij de oorspronkelijke benoeming opnieuw vervuld.   
 (6).  Het scheidsgerecht stelt zelf de bij zijn rechtspleging te volgen regels vast. Indien dergelijke regels niet worden vastgesteld of niet toereikend zijn, dienen de door de Internationale Kamer van Koophandel vastgestelde regels met betrekking tot arbitrage te worden toegepast.   
-(7).  De uitspraak van het scheidsgerecht met betrekking tot de conversie, welke het onderwerp van de scheidsrechterlijke procedure vormde, is met het oog op de vaststelling van de bepalingen van het regelingsaanbod bindend voor de partijen bij de procedure en de crediteuren vertegenwoordiging dient de aanvaarding van het regelingsaanbod aan te bevelen aan de effectenbezitters, voorzover dit aanbod aan de andere in Bijlage I van deze Overeenkomst neergelegde voorwaarden voldoet.   
+(7).  De uitspraak van het scheidsgerecht met betrekking tot de conversie, welke het onderwerp van de scheidsrechterlijke procedure vormde, is met het oog op de vaststelling van de bepalingen van het regelingsaanbod bindend voor de partijen bij de procedure en de crediteuren vertegenwoordiging dient de aanvaarding van het regelingsaanbod aan te bevelen aan de effectenbezitters, voorzover dit aanbod aan de andere in Bijlage I van deze Overeenkomst neergelegde voorwaarden voldoet.  
 
 ### Artikel  30  
 
@@ -2647,7 +2646,7 @@ Indien de bepalingen van deze Overeenkomst niet in overeenstemming zijn met de b
 (1).  De volgens artikel IX van Bijlage II van deze Overeenkomst opgerichte Arbitrage- en Bemiddelings-Commissie doet het Trustkantoor voor een in effecten belichaamde schuld, waarop de genoemde Bijlage van toepassing is, mededeling van elke bij de Commissie aanhangige procedure over de regeling der schuld. Het Trustkantoor kan binnen 20 dagen na het doen van de mededeling als partij tot de procedure toetreden.   
 (2).  Teneinde het Trustkantoor voor een in effecten belichaamde schuld bij de bevrijding van verplichtingen, welke dit tegenover de bezitters van deze effecten mocht hebben, te ondersteunen, zal de debiteur op het tijdstip, waarop hij in overeenstemming met artikel VII van Bijlage II van deze Overeenkomst een voorstel voor een regelingsaanbod aan de crediteurenvertegenwoordiging aanbiedt, tevens een afschrift van dit voorstel aan het Trustkantoor voor deze effecten aanbieden. Het Trustkantoor kan de debiteur en de crediteurenvertegenwoordiging op de hoogte stellen van de bezwaren, welke het heeft tegen de modaliteiten van het aanbod waarover wordt onderhandeld, waarna deze bezwaren bij de behandeling ter beoordeling dienen te worden overgelegd.   
 (3).  Voor het afsluiten van een definitieve overeenkomst met de crediteurenvertegenwoordiging over de modaliteiten van het regelingsaanbod dient de debiteur de modaliteiten van dit regelingsaanbod schriftelijk aan het Trustkantoor mede te delen. Binnen 10 dagen na ontvangst van deze mededeling kan het Trustkantoor bezwaren tegen de modaliteiten van het regelingsaanbod bij de Arbitrage- en Bemiddelings-Commissie indienen met betrekking tot alle vraagstukken, ten aanzien waarvan het volgens de bepalingen van de bestaande overeenkomst van oordeel is, dat het verplichtingen tegenover de bezitters van deze effecten heeft. De Arbitrage- en Bemiddelings-Commissie zal de crediteurenvertegenwoordiging en de debiteur mededeling doen van de opening van de procedure. De crediteurenvertegenwoordiging en de debiteur kunnen binnen 20 dagen na het doen van deze mededeling als partijen tot de procedure toetreden. De bevoegdheid van de Arbitrage- en Bemiddelings-Commissie ten aanzien van een dergelijke procedure wordt niet aangetast door het feit, dat de crediteurenvertegenwoordiging of de debiteur niet bij de procedure verschijnt. Indien binnen de bovenvermelde termijn van 10 dagen geen beroep op arbitrage plaatsvindt, kan de debiteur de voorgestelde overeenkomst met de crediteur en vertegenwoordiging sluiten.   
-(4).  Een uitspraak van de Arbitrage- en Bemiddelings-Commissie in een procedure volgens lid (3) van dit Artikel is voor de crediteurenvertegenwoordiging en de debiteur tot op dezelfde hoogte bindend als in de tweede alinea van lid 1 van artikel IX van Bijlage II van deze Overeenkomst is voorzien. Indien een Trustkantoor in overeenstemming met lid (1) of (3) van dit Artikel als partij aan een procedure deelneemt, heeft het in deze procedure dezelfde rechten als iedere andere partij in deze procedure.   
+(4).  Een uitspraak van de Arbitrage- en Bemiddelings-Commissie in een procedure volgens lid (3) van dit Artikel is voor de crediteurenvertegenwoordiging en de debiteur tot op dezelfde hoogte bindend als in de tweede alinea van lid 1 van artikel IX van Bijlage II van deze Overeenkomst is voorzien. Indien een Trustkantoor in overeenstemming met lid (1) of (3) van dit Artikel als partij aan een procedure deelneemt, heeft het in deze procedure dezelfde rechten als iedere andere partij in deze procedure.  
 
 ### Artikel  31  
 
@@ -2673,7 +2672,7 @@ Indien de bepalingen van deze Overeenkomst niet in overeenstemming zijn met de b
 (d) voor het scheidsgerecht, dat de vraag zelf heeft voorgelegd of in welks procedure de voorlegging heeft plaatsgevonden in de gevallen, bedoeld in lid (2) (*b*) van dit Artikel;  
 
 (e) met betrekking tot een der regelingsmodaliteiten voor een schuld, indien deze het onderwerp van de procedure vormde.     
-(7).  Elke Partij bij deze Overeenkomst is gerechtigd, tegen een uitspraak van de Gemengde Commissie binnen 30 dagen, nadat deze is gedaan, in hoger beroep te gaan bij het Tribunaal op grond van het feit, dat de uitspraak betrekking heeft op een vraag van algemene of wezenlijke betekenis. Het beroep wordt alleen in behandeling genomen ten aanzien van uit de uitspraak voortvloeiende vragen, met betrekking waartoe de in beroep gaande partij stelt, dat zij van algemene of wezenlijke betekenis zijn. Wanneer door het Tribunaal ten aanzien van de betreffende vraag een beslissing is genomen, dient de Gemengde Commissie in de procedure, welke tot het beroep heeft geleid, alle maatregelen te nemen, welke nodig zijn, om de beslissing van het Tribunaal toe te passen.   
+(7).  Elke Partij bij deze Overeenkomst is gerechtigd, tegen een uitspraak van de Gemengde Commissie binnen 30 dagen, nadat deze is gedaan, in hoger beroep te gaan bij het Tribunaal op grond van het feit, dat de uitspraak betrekking heeft op een vraag van algemene of wezenlijke betekenis. Het beroep wordt alleen in behandeling genomen ten aanzien van uit de uitspraak voortvloeiende vragen, met betrekking waartoe de in beroep gaande partij stelt, dat zij van algemene of wezenlijke betekenis zijn. Wanneer door het Tribunaal ten aanzien van de betreffende vraag een beslissing is genomen, dient de Gemengde Commissie in de procedure, welke tot het beroep heeft geleid, alle maatregelen te nemen, welke nodig zijn, om de beslissing van het Tribunaal toe te passen.  
 
 ### Artikel  32  
 
@@ -2706,13 +2705,13 @@ Indien de bepalingen van deze Overeenkomst niet in overeenstemming zijn met de b
 (5).  Het scheidsgerecht kan bepalen, hoe de proceskosten en de kosten wegens advies worden gedragen, en, in een procedure in hoger beroep volgens lid (2) van dit Artikel, welke partij de proceskosten voor het Duitse gerecht dient te dragen of hoe deze tussen de partijen worden verdeeld. Indien het scheidsgerecht geen beslissing over de kosten neemt, draagt iedere partij bij de procedure haar eigen kosten; de kosten van de procedure voor het scheidsgerecht en in voorkomend geval van de procedure voor het Duitse gerecht worden in dit geval voor de helft door de crediteur of de crediteuren en voor de helft door de debiteur of de debiteuren gedragen.   
 (6).  Indien een procedure voor het scheidsgerecht aanhangig is, kan deze alleen met toestemming van alle partijen bij deze procedure worden teruggetrokken.   
 (7).  Het scheidsgerecht stelt zelf de bij zijn rechtspleging te volgen regels vast met inachtneming van de bepalingen van dit Artikel en van artikel 17 van Bijlage IV van deze Overeenkomst. Indien dergelijke regels niet zijn vastgesteld of niet toereikend zijn, dienen de door de Internationale Kamer van Koophandel vastgestelde regelingen inzake arbitrage te worden toegepast.   
-(8).  De uitspraak van het scheidsgerecht is definitief en bindend voor de betrokken partijen.   
+(8).  De uitspraak van het scheidsgerecht is definitief en bindend voor de betrokken partijen.  
 
 ### Artikel  33  
 
 ####Geschilpunten in verband met de deconcentratie
 
-Het Tribunaal van Arbitrage of een andere, krachtens deze Overeenkomst en de daarbij behorende Bijlagen opgerichte scheidsrechterlijke instantie kunnen geen kennis nemen van aangelegenheden, in welker regeling voorzien is hetzij door een plan, dat is goedgekeurd, of door een beschikking of verordening, die is uitgevaardigd, op grond van de wetten van de Geallieerde Hoge Commissie No. 27 (reorganisatie van de Duitse kolen-, ijzer- en staalindustrie) en No. 35 (deconcentratie van de I.G. Farbenindustrie A.G.), door de Geallieerde Hoge Commissie, door een der door haar tot het bewerken van deze soort aangelegenheden gemachtigde diensten, of door enig ander orgaan, dat de bevoegdheden van de Geallieerde Hoge Commissie zal overnemen. Bij elke regeling van deze aard dienen de crediteur en de debiteur, de Geallieerde Autoriteiten en de revisiecommissies de bepalingen van deze Overeenkomst en de daarbij behorende Bijlagen toe te passen. Geeft een aangelegenheid aanleiding tot een geschil over de uitleg of de toepassing van de bepalingen van deze Overeenkomst of de Bijlagen, dan moet dat geschil, vóór de goedkeuring van een plan, en vóór de uitvaardiging van een beschikking of verordening, die op het geschilpunt betrekking heeft, ter beslissing worden voorgelegd aan het Tribunaal of aan de krachtens deze Overeenkomst en de daarbij behorende Bijlagen bevoegde scheidsrechterlijke instantie. De voorgaande bepalingen tasten de bevoegdheid van het Tribunaal en van de andere scheidsrechterlijke instanties, die ingesteld zijn overeenkomstig deze Overeenkomst en de daarbij behorende Bijlagen, niet aan ten aanzien van aangelegenheden, die niet uitdrukkelijk geregeld zijn in een goedgekeurd plan of in een uitgevaardigde beschikking of verordening, zoals hierboven bedoeld, of van aangelegenheden, die zich voordoen tengevolge van na het van kracht worden van dat plan, die beschikking of verordening optredende gebeurtenissen.  
+Het Tribunaal van Arbitrage of een andere, krachtens deze Overeenkomst en de daarbij behorende Bijlagen opgerichte scheidsrechterlijke instantie kunnen geen kennis nemen van aangelegenheden, in welker regeling voorzien is hetzij door een plan, dat is goedgekeurd, of door een beschikking of verordening, die is uitgevaardigd, op grond van de wetten van de Geallieerde Hoge Commissie No. 27 (reorganisatie van de Duitse kolen-, ijzer- en staalindustrie) en No. 35 (deconcentratie van de I.G. Farbenindustrie A.G.), door de Geallieerde Hoge Commissie, door een der door haar tot het bewerken van deze soort aangelegenheden gemachtigde diensten, of door enig ander orgaan, dat de bevoegdheden van de Geallieerde Hoge Commissie zal overnemen. Bij elke regeling van deze aard dienen de crediteur en de debiteur, de Geallieerde Autoriteiten en de revisiecommissies de bepalingen van deze Overeenkomst en de daarbij behorende Bijlagen toe te passen. Geeft een aangelegenheid aanleiding tot een geschil over de uitleg of de toepassing van de bepalingen van deze Overeenkomst of de Bijlagen, dan moet dat geschil, vóór de goedkeuring van een plan, en vóór de uitvaardiging van een beschikking of verordening, die op het geschilpunt betrekking heeft, ter beslissing worden voorgelegd aan het Tribunaal of aan de krachtens deze Overeenkomst en de daarbij behorende Bijlagen bevoegde scheidsrechterlijke instantie. De voorgaande bepalingen tasten de bevoegdheid van het Tribunaal en van de andere scheidsrechterlijke instanties, die ingesteld zijn overeenkomstig deze Overeenkomst en de daarbij behorende Bijlagen, niet aan ten aanzien van aangelegenheden, die niet uitdrukkelijk geregeld zijn in een goedgekeurd plan of in een uitgevaardigde beschikking of verordening, zoals hierboven bedoeld, of van aangelegenheden, die zich voordoen tengevolge van na het van kracht worden van dat plan, die beschikking of verordening optredende gebeurtenissen. 
 
 ### Artikel  34  
 
@@ -2722,7 +2721,7 @@ Teneinde een duurzame en doeltreffende toepassing van deze Overeenkomst en de da
 
 (a) Overleg zal worden gepleegd tussen de voornaamste belanghebbende Partijen bij deze Overeenkomst, indien een verzoek daartoe wordt gedaan door de Regering van de Bondsrepubliek Duitsland of door de Regering van een der crediteurlanden, houder van een belangrijk deel van de vorderingen welke onder deze Overeenkomst vallen. Alle Partijen bij deze Overeenkomst hebben het recht aan dit overleg deel te nemen en kunnen dan vertegenwoordigers van belanghebbende crediteuren of debiteuren van haar land uitnodigen er eveneens aan deel te nemen.  
 
-(b) Heeft zodanig overleg betrekking op een toestand waarin de Bondsrepubliek Duitsland zich geplaatst ziet tegenover moeilijkheden bij de nakoming van haar buitenlandse verplichtingen, dan zal aandacht worden geschonken aan alle gepaste economische, financiële en monetaire overwegingen, die betrekking hebben op de transfer-capaciteit van de Bondsrepubliek Duitsland, zoals deze gelijktijdig wordt beïnvloed door interne en externe factoren, evenals aan de duurzame nakoming door de Bondsrepubliek Duitsland van haar verplichtingen uit hoofde van deze Overeenkomst en de daarbij behorende Bijlagen, en uit hoofde van overeenkomsten met betrekking tot de na-oorlogse economische hulp. Er zal deugdelijk rekening worden gehouden met de beginselen waardoor de Conferentie over de Duitse buitenlandse schulden zich heeft laten leiden, met de door haar beoogde doelstellingen, en met de toezegging van de Regering van de Bondsrepubliek Duitsland om alles te zullen doen, wat in haar vermogen is, teneinde de nakoming van haar verplichtingen te verzekeren. Indien de voornaamste Partijen bij deze Overeenkomst, die aan het overleg deelnemen, daartoe besluiten, kan het advies worden gevraagd van de daarvoor in aanmerking komende internationale organisaties of van andere onafhankelijke deskundigen. Een verzoek daartoe kan worden gedaan door de Bondsrepubliek Duitsland of door een der andere der voornaamste belanghebbende Partijen bij deze Overeenkomst.    
+(b) Heeft zodanig overleg betrekking op een toestand waarin de Bondsrepubliek Duitsland zich geplaatst ziet tegenover moeilijkheden bij de nakoming van haar buitenlandse verplichtingen, dan zal aandacht worden geschonken aan alle gepaste economische, financiële en monetaire overwegingen, die betrekking hebben op de transfer-capaciteit van de Bondsrepubliek Duitsland, zoals deze gelijktijdig wordt beïnvloed door interne en externe factoren, evenals aan de duurzame nakoming door de Bondsrepubliek Duitsland van haar verplichtingen uit hoofde van deze Overeenkomst en de daarbij behorende Bijlagen, en uit hoofde van overeenkomsten met betrekking tot de na-oorlogse economische hulp. Er zal deugdelijk rekening worden gehouden met de beginselen waardoor de Conferentie over de Duitse buitenlandse schulden zich heeft laten leiden, met de door haar beoogde doelstellingen, en met de toezegging van de Regering van de Bondsrepubliek Duitsland om alles te zullen doen, wat in haar vermogen is, teneinde de nakoming van haar verplichtingen te verzekeren. Indien de voornaamste Partijen bij deze Overeenkomst, die aan het overleg deelnemen, daartoe besluiten, kan het advies worden gevraagd van de daarvoor in aanmerking komende internationale organisaties of van andere onafhankelijke deskundigen. Een verzoek daartoe kan worden gedaan door de Bondsrepubliek Duitsland of door een der andere der voornaamste belanghebbende Partijen bij deze Overeenkomst.   
 
 ### Artikel  35  
 
@@ -2730,28 +2729,28 @@ Teneinde een duurzame en doeltreffende toepassing van deze Overeenkomst en de da
 
 (1).  Iedere Regering, die deze Overeenkomst heeft ondertekend, zal, nadat zij overeenkomstig de grondwettelijke vereisten in haar land de Overeenkomst zal hebben bekrachtigd of goedgekeurd, een akte van de bekrachtiging of goedkeuring van deze Overeenkomst nederleggen bij de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland.   
 (2).  Deze Overeenkomst treedt in werking zodra de Regering van de Bondsrepubliek Duitsland en de Regeringen van de Verenigde Staten van Amerika, van de Franse Republiek en van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland de akte van de bekrachtiging of goedkeuring, bedoeld in lid (1) van dit Artikel, zullen hebben nedergelegd bij de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland. Deze inwerkingtreding geldt ten aanzien van alle ondertekenende Regeringen, die dan tot vorenbedoelde deponering zullen zijn overgegaan. De Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland zal alle Regeringen die deze Overeenkomst ondertekend hebben, kennis geven van de dag van haar inwerkingtreding en van de Regeringen te wier aanzien zij in werking treedt.   
-(3).  Voor iedere ondertekenende Regering, die na de in het vorige lid bedoelde inwerkingtreding tot de vereiste nederlegging overgaat, treedt deze Overeenkomst in werking op de dag waarop de deponering plaats vindt. De Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland zal van die nederlegging en van de datum daarvan kennis geven aan alle andere Regeringen, die deze Overeenkomst hebben ondertekend, en aan iedere Regering, die overeenkomstig het bepaalde in Artikel 36 tot deze Overeenkomst toegetreden is.   
+(3).  Voor iedere ondertekenende Regering, die na de in het vorige lid bedoelde inwerkingtreding tot de vereiste nederlegging overgaat, treedt deze Overeenkomst in werking op de dag waarop de deponering plaats vindt. De Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland zal van die nederlegging en van de datum daarvan kennis geven aan alle andere Regeringen, die deze Overeenkomst hebben ondertekend, en aan iedere Regering, die overeenkomstig het bepaalde in Artikel 36 tot deze Overeenkomst toegetreden is.  
 
 ### Artikel  36  
 
 ####Toetreding
 
 (1).  Iedere Regering, die door de Regeringen van de Verenigde Staten van Noord-Amerika, van Frankrijk en van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland of door één van haar, en door de Regering van de Bondsrepubliek Duitsland uitgenodigd is om deze Overeenkomst te ondertekenen, kan deze Overeenkomst ondertekenen of er toe toetreden overeenkomstig de termen van de tot haar gerichte uitnodiging. Iedere andere Regering, die na de inwerkingtreding van deze Overeenkomst diplomatieke betrekkingen aanknoopt met de Bondsrepubliek Duitsland, kan tot deze Overeenkomst toetreden. Iedere toetreding geschiedt door nederlegging van een akte van toetreding bij de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland, die aan de andere Regeringen, die deze Overeenkomst hebben ondertekend of er toe zijn toegetreden, kennis geeft van de nederlegging van die akte en van de datum waarop dit is geschied.   
-(2).  Deze Overeenkomst treedt ten aanzien van iedere Regering, die toegetreden is, in werking zodra zij haar akte van toetreding heeft nedergelegd, maar niet vóór de inwerkingtreding van deze Overeenkomst overeenkomstig Artikel 35.   
+(2).  Deze Overeenkomst treedt ten aanzien van iedere Regering, die toegetreden is, in werking zodra zij haar akte van toetreding heeft nedergelegd, maar niet vóór de inwerkingtreding van deze Overeenkomst overeenkomstig Artikel 35.  
 
 ### Artikel  37  
 
 ####Uitbreiding van de Overeenkomst tot bepaalde gebiedsdelen
 
 (1).  Iedere Regering kan bij de ondertekening van of toetreding tot deze Overeenkomst of op elk tijdstip daarna, door middel van een kennisgeving, gericht aan de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland, verklaren dat deze Overeenkomst, te rekenen vanaf de datum, vermeld in bedoelde kennisgeving, eveneens zal gelden voor alle of bepaalde gebiedsdelen, voor welker internationale betrekkingen zij verantwoordelijk is.   
-(2).  De Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland zal aan alle Regeringen, die deze Overeenkomst hebben ondertekend of er toe zijn toegetreden mededeling doen van iedere kennisgeving, die krachtens dit Artikel bij haar is nedergelegd.   
+(2).  De Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland zal aan alle Regeringen, die deze Overeenkomst hebben ondertekend of er toe zijn toegetreden mededeling doen van iedere kennisgeving, die krachtens dit Artikel bij haar is nedergelegd.  
 
 ### Artikel  38  
 
 ####Voorbehouden en beperkingen
 
 (1).  ledere Regering, die een akte van bekrachtiging of goedkeuring van deze Overeenkomst of een akte van toetreding tot die Overeenkomst heeft nedergelegd die niet in overeenstemming is met de termen van de uitnodiging, welke tot haar gericht werd, of waarin een voorbehoud of enige beperking is vervat, wordt niet als een Partij bij deze Overeenkomst beschouwd zolang zij haar voorbehoud of haar beperking niet heeft ingetrokken, of zolang deze niet zijn aanvaard door alle Partijen bij de Overeenkomst.   
-(2).  Kennisgevingen ingevolge Artikel 37, welke een voorbehoud of een beperking bevatten, zullen niet van kracht worden zolang dat voorbehoud of die beperking niet is ingetrokken of niet is aanvaard door alle Partijen bij de Overeenkomst.   
+(2).  Kennisgevingen ingevolge Artikel 37, welke een voorbehoud of een beperking bevatten, zullen niet van kracht worden zolang dat voorbehoud of die beperking niet is ingetrokken of niet is aanvaard door alle Partijen bij de Overeenkomst.  
 
 Ten blijke waarvan de ondergetekenden, daartoe naar behoren gemachtigd door hun Regeringen, deze Overeenkomst, waaraan gehecht zijn de Bijlagen I tot en met X, hebben ondertekend. Gedaan te Londen, de 27ste Februari negentienhonderd drie en vijftig, in drie originele teksten, onderscheidenlijk in de Franse, Engelse en Duitse taal, welke drie teksten gelijkelijk authentiek zijn; zij zullen worden nedergelegd in het archief van de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland, die er gewaarmerkte afschriften van zal doen toekomen aan de Regeringen, die deze Overeenkomst hebben ondertekend of er toe zijn toegetreden.  
 
@@ -2759,7 +2758,7 @@ Ten blijke waarvan de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 ####Overeengekomen aanbevelingen voor de regeling van Rijksschulden en schulden van andere publiekrechtelijke lichamen
 
-###A. *Rijksschulden*
+###A. *Rijksschulden* 
 
 De Regering van de Bondsrepubliek Duitsland (hierna genoemd Bondsregering) zal aan de houders van obligaties aanbieden de volgende bedragen te betalen en over te maken: 
 
@@ -2834,7 +2833,7 @@ De Regering van de Bondsrepubliek Duitsland (hierna genoemd Bondsregering) zal a
 (c) Voor het geval de onder *(b)* bedoelde wet niet voor 1 Januari 1954 wordt afgekondigd of geen betrekking heeft op alle categorieën van schulden, voor 1 April 1954 in onderhandeling te treden met de buitenlandse vertegenwoordigers van crediteuren. Deze behouden zich het recht voor bij bedoelde onderhandelingen een bijzondere regeling te verlangen. Deze verplichting geldt voor alle RM-schulden van het Rijk, de Reichsbahn en de Reichspost, onverschillig of zij al dan niet in obligaties (Schatkistbiljetten, obligaties van de „Ablösungsanleihen”, enz.) zijn belichaamd.  
 
 (d) De Bondsregering verplicht zich verder op gelijke wijze te handelen ten aanzien van de toekomstige dienst der RM-schulden van de Staat Pruisen.     
-###B. *Buitenlandse obligaties, uitgegeven of gegarandeerd door de „Länder”, gemeenten e.d. publiekrechtelijke lichamen in het gebied van de Bondsrepubliek Duitsland.*
+###B. *Buitenlandse obligaties, uitgegeven of gegarandeerd door de „Länder”, gemeenten e.d. publiekrechtelijke lichamen in het gebied van de Bondsrepubliek Duitsland.* 
 
 7. De debiteuren moeten de volgende bedragen betalen, welke door de Bondsregering zullen worden getransfereerd: 
 
@@ -2878,8 +2877,8 @@ De Regering van de Bondsrepubliek Duitsland (hierna genoemd Bondsregering) zal a
 
 (b) De 4½ % lening van de Staat Lübeck in Zweedse kronen van 1923 (in 1938 door de Staat Pruisen overgenomen): De nog uitstaande obligaties van deze lening, waarvan de terugbetaling tegen 1 Mei/1 November 1944 was aangekondigd, zullen bij aanbieding met een korting van 50 % op het nominale bedrag tegen de dagkoers, en zonder betaling van achterstallige renten, worden afgelost.    
 
-(3) *Niet in obligaties belichaamde schulden* (voorzover niet in Bijlage IV behandeld) De bepalingen van punt 7 (1) zijn mutatis mutandis van toepassing, waarbij de dienst begint op 1 Januari 1953. Bij de regeling van vorderingen in marken zal rekening worden gehouden met de overeenkomstige bepalingen van Bijlage IV.     
-###C. *Algemene bepalingen*
+(3)  *Niet in obligaties belichaamde schulden* (voorzover niet in Bijlage IV behandeld) De bepalingen van punt 7 (1) zijn mutatis mutandis van toepassing, waarbij de dienst begint op 1 Januari 1953. Bij de regeling van vorderingen in marken zal rekening worden gehouden met de overeenkomstige bepalingen van Bijlage IV.     
+###C. *Algemene bepalingen* 
 
 8.  *Procedure voor de tenuitvoerlegging van deze voorstellen*  
 
@@ -2901,7 +2900,7 @@ De Regering van de Bondsrepubliek Duitsland (hierna genoemd Bondsregering) zal a
 (f) De Bondsregering verplicht zich alles wat in haar vermogen ligt te doen, om op grond van het door het Parlement aangenomen en binnenkort in werking tredende „Auslandsbonds-Bereinigungsgesetz” aan een systeem, geëigend voor de certificatie van Duitse buitenlandse obligaties, in de verschillende crediteurlanden zo spoedig mogelijk, doch uiterlijk op 1 Februari 1953, uitvoering te geven. Betalingen op obligaties of coupons, welke volgens de Duitse certificatievoorschriften aan certificatie onderworpen zijn, mogen eerst dan plaatsvinden, wanneer deze obligaties of coupons zijn gecertificeerd.    
 
 9. De betrokken verenigingen van obligatiehouders of soortgelijke organisaties zullen hun leden adviseren deze bepalingen aan te nemen.   
-###D. *Vorderingen op grond van beslissingen van gemengde scheidsgerechten*
+###D. *Vorderingen op grond van beslissingen van gemengde scheidsgerechten* 
 
 10.  *Obligaties, uitgegeven op grond van beslissingen van de gemengde Duits-Amerikaanse commissie*  De Duitse delegatie voor de buitenlandse schulden enerzijds en de vertegenwoordigers van de commissie van Amerikaanse houders van in obligaties vervatte aanspraken op grond van beslissingen van de Duits-Amerikaanse gemengde commissie anderzijds, zijn het volgende overeengekomen: De Bondsrepubliek Duitsland zal de Regering van de Verenigde Staten voorstellen, en de commissie van houders van aanspraken op grond van beslissingen van de Duits-Amerikaanse gemengde commissie zal de Regering van de Verenigde Staten en de individuele houders van aanspraken op grond van deze beslissingen, aanbevelen, de verplichting van de Bondsrepubliek Duitsland tegenover de Verenigde Staten ten behoeve van die Amerikaanse onderdanen, te wier gunste door Duitsland in het jaar 1939 de thans noodlijdende obligaties werden uitgegeven, op de volgende voorwaarden te regelen: 
 
@@ -2925,7 +2924,7 @@ De betaling zal worden gedaan in Amerikaanse dollars aan de Verenigde Staten ter
 (5) De integrale tenuitvoerlegging van deze overeenkomst door deze of een volgende Regering van de Bondsrepubliek, wordt, evenals de betaling van de op grond van deze overeenkomst verschuldigde bedragen, beschouwd als een nakomen door en volledige bevrijding van deze of een volgende Regering van de Bondsrepubliek, ten aanzien van de verplichtingen op grond van de overeenkomst van 23 Juni 1930 en van de obligaties, welke op grond van deze overeenkomst zijn uitgegeven in verband met de beslissingen van de Duits-Amerikaanse gemengde commissie, gekomen ten gunste van onderdanen van de Verenigde Staten; zulks ondanks andersluidende bepalingen in de briefwisseling van 23 October 1950 en 6 Maart 1951 tussen de Bondskanselier en de Geallieerde Hoge Commissarissen voor Duitsland of in het door de Drie Mogendheden Commissie opgestelde memorandum van December 1951.    
 
 11.  *Vorderingen op grond van beslissingen van het Duits-Griekse scheidsgerecht*  Tussen de Griekse en Duitse delegaties heeft een voorlopige gedachtenwisseling plaatsgevonden over de vorderingen van privé-personen op grond van beslissingen van het na de eerste wereldoorlog ingestelde Duits-Griekse scheidsgerecht. Verdere besprekingen zullen volgen. Het resultaat hiervan zal, indien het wordt goedgekeurd, worden opgenomen in de intergouvernementele overeenkomst.   
-###E. *Diversen*
+###E. *Diversen* 
 
 De volgende regelingen worden aanbevolen: 
 
@@ -2947,7 +2946,7 @@ De volgende regelingen worden aanbevolen:
 
 (a) De Bondsregering betaalt vanaf 1 Januari 1953 met betrekking tot de lopende rente op de vorderingen van de bank een jaarlijks bedrag van 5.600.000 Zwitserse francs.  
 
-(b) Gezien de betaling van deze annuïteiten heeft de Bank zich bereid verklaard haar credieten op het tegenwoordige peil te handhaven tot 31 Maart 1966. Zij heeft zich verder bereid verklaard de regeling van achterstallige renten tot dit tijdstip uit te stellen. De volledige tekst van deze overeenkomst is afgedrukt als Bijlage I *a.*    
+(b) Gezien de betaling van deze annuïteiten heeft de Bank zich bereid verklaard haar credieten op het tegenwoordige peil te handhaven tot 31 Maart 1966. Zij heeft zich verder bereid verklaard de regeling van achterstallige renten tot dit tijdstip uit te stellen. De volledige tekst van deze overeenkomst is afgedrukt als Bijlage I*a.*     
 
 14.  *Stortingen bij de Konversionskasse*  
 
@@ -2961,7 +2960,7 @@ De volgende regelingen worden aanbevolen:
 
 De crediteuren zijn er niet in geslaagd deze kwestie te regelen; binnenkort zal hierover verder worden onderhandeld.  
 
-16. *Overeenkomst tussen België en de Bondsrepubliek Duitsland* (zie Bijlage I *b*). Het ontwerp voor een overeenkomst tussen België en de Bondsrepubliek Duitsland is op 4 Augustus 1952 tot stand gekomen.     
+16.  *Overeenkomst tussen België en de Bondsrepubliek Duitsland* (zie Bijlage I*b*). Het ontwerp voor een overeenkomst tussen België en de Bondsrepubliek Duitsland is op 4 Augustus 1952 tot stand gekomen.     
 
 ### BIJLAGE  Ia  
 
@@ -2997,8 +2996,8 @@ Overeenkomst tussen België en de Bondsrepubliek Duitsland inzake de regeling va
 | --- |  *RM*   |
 | De Regering van de Bondsrepubliek Duitsland erkent dat per 10 Mei 1940 de Belgische Regering wegens de in het Duits-Belgische accoord van 13 Juli 1929 bedoelde en tot 15 November 1939 aan de Konversionskasse betaalde annuïteiten, is gecrediteerd met een bedrag van ........  | 107.856.835,65  |
 | Anderzijds zijn niet aan de Konversionskasse betaald en blijven dus als verplichtingen tegenover de Belgische Regering bestaan:  | --- |
-| *(a)* de maandelijkse termijnen der tussen 15 December 1939 en 10 Mei 1940 vervallen annuïteiten ten bedrage van ........  | 10.833.333,33  |
-| *(b)* de maandelijkse termijnen der tussen 10 Mei 1940 en 8 Mei 1945 vervallen annuïteiten ten bedrage van ........  | 105.908.333,34  |
+|  *(a)* de maandelijkse termijnen der tussen 15 December 1939 en 10 Mei 1940 vervallen annuïteiten ten bedrage van ........  | 10.833.333,33  |
+|  *(b)* de maandelijkse termijnen der tussen 10 Mei 1940 en 8 Mei 1945 vervallen annuïteiten ten bedrage van ........  | 105.908.333,34  |
 | Totaal  | 224.598.502,32  |
 
 ### Artikel  2  
@@ -3007,23 +3006,23 @@ Verlangende de regeling van de vorenbedoelde verplichting bij overeenkomst vast 
 
 vijf jaarlijkse termijnen van 1953 tot 1957 ten bedrage van elk DM 2 millioen;  
 
-tien jaarlijkse termijnen van 1958 tot 1967 ten bedrage van elk DM 3 millioen.   Vorenbedoelde betalingen worden door de Belgische Regering als finale en definitieve regeling van de desbetreffende Belgische vorderingen tot 8 Mei 1945 aanvaard.  
+tien jaarlijkse termijnen van 1958 tot 1967 ten bedrage van elk DM 3 millioen.   Vorenbedoelde betalingen worden door de Belgische Regering als finale en definitieve regeling van de desbetreffende Belgische vorderingen tot 8 Mei 1945 aanvaard. 
 
 ### Artikel  3  
 
-Voor elk der vorenbedoelde annuïteiten geeft de Bondsrepubliek in Duitse mark luidende obligaties af die in Belgische valuta zullen worden betaald tegen de officiële middenkoers van de Bank Deutscher Länder geldend op de dag voor de vervaldag van de obligaties. De obligaties zullen uiterlijk 1 April 1953 aan de Belgische Regering worden overhandigd.  
+Voor elk der vorenbedoelde annuïteiten geeft de Bondsrepubliek in Duitse mark luidende obligaties af die in Belgische valuta zullen worden betaald tegen de officiële middenkoers van de Bank Deutscher Länder geldend op de dag voor de vervaldag van de obligaties. De obligaties zullen uiterlijk 1 April 1953 aan de Belgische Regering worden overhandigd. 
 
 ### Artikel  4  
 
-Iedere niet op de vervaldag betaalde obligatie zal ten gunste van de Belgische Regering 3 % per jaar rente dragen.  
+Iedere niet op de vervaldag betaalde obligatie zal ten gunste van de Belgische Regering 3 % per jaar rente dragen. 
 
 ### Artikel  5  
 
-Deze Overeenkomst zal worden geratificeerd. De uitwisseling der bekrachtigingsoorkonden zal in Brussel geschieden. De Overeenkomst treedt in werking bij de uitwisseling van de bekrachtigingsoorkonden.  
+Deze Overeenkomst zal worden geratificeerd. De uitwisseling der bekrachtigingsoorkonden zal in Brussel geschieden. De Overeenkomst treedt in werking bij de uitwisseling van de bekrachtigingsoorkonden. 
 
 ### Artikel  6  
 
-Deze Overeenkomst is in de Franse en in de Duitse taal opgesteld, beide gelijkelijk authentiek zijnde.  
+Deze Overeenkomst is in de Franse en in de Duitse taal opgesteld, beide gelijkelijk authentiek zijnde. 
 
 Ten blijke waarvan de ondergetekende gevolmachtigden deze Overeenkomst van hun handtekening hebben voorzien. Gedaan te Bonn, de 23ste December 1952, in twee originele exemplaren in de Franse en in de Duitse taal. Voor België: (w.g.) F. MUULS. Voor de Bondsrepubliek Duitsland: (w.g.) ABS.  
 
@@ -3031,16 +3030,16 @@ Ten blijke waarvan de ondergetekende gevolmachtigden deze Overeenkomst van hun h
 
 ####Omwisseling van de obligaties van de Pruisische buitenlandse leningen van 1926 en 1927
 
-De Duitse Delegatie voor de Buitenlandse Schulden 243-18 DEL 38-2151/52 Aan de Voorzitter van de Drie Mogendheden Commissie voor Duitse schulden 29, Chesham Place Londen S.W. 1. Betreft: Omwisseling van obligaties van de Pruisische buitenlandse leningen van 1926 en 1927.  *Londen, 20 November 1952.*  Mijnheer de Voorzitter, Onder referte aan de briefwisseling tussen de Bondskanselier en de Geallieerde Hoge Commissarissen voor Duitsland van 6 Maart 1951 bevestig ik, dat de verklaring van de Duitse delegatie van 12 Maart 1952 ter Londener Schuldenconferentie aangaande de bereidheid van de Bondsrepubliek Duitsland voor de 6½ % buitenlandse Pruisische lening van 1926 en de 6 % buitenlandse Pruisische lening van 1927 op te komen ten aanzien van de crediteuren betekent, dat de Pruisische leningsschulden behandeld zullen worden als verplichtingen van het Duitse Rijk in de zin van de briefwisseling van 6 Maart 1951, waarvoor de Bondsrepubliek Duitsland zich aansprakelijk stelt. Met het oog op deze verklaring van de Duitse delegatie heeft de wetgever van de Bondsrepubliek Duitsland in het Bereinigungsgesetz für Deutsche Auslandsbonds van 25 Augustus 1952 - Bundesgesetzbl. I Nr. 35 S. 553 - de volgende bepalingen vastgelegd: 
+De Duitse Delegatie voor de  Buitenlandse Schulden  243-18 DEL 38-2151/52 Aan de Voorzitter van de Drie Mogendheden Commissie  voor Duitse schulden 29, Chesham Place Londen S.W. 1. Betreft: Omwisseling van obligaties van de Pruisische buitenlandse leningen van 1926 en 1927.  *Londen, 20 November 1952.*  Mijnheer de Voorzitter, Onder referte aan de briefwisseling tussen de Bondskanselier en de Geallieerde Hoge Commissarissen voor Duitsland van 6 Maart 1951 bevestig ik, dat de verklaring van de Duitse delegatie van 12 Maart 1952 ter Londener Schuldenconferentie aangaande de bereidheid van de Bondsrepubliek Duitsland voor de 6½ % buitenlandse Pruisische lening van 1926 en de 6 % buitenlandse Pruisische lening van 1927 op te komen ten aanzien van de crediteuren betekent, dat de Pruisische leningsschulden behandeld zullen worden als verplichtingen van het Duitse Rijk in de zin van de briefwisseling van 6 Maart 1951, waarvoor de Bondsrepubliek Duitsland zich aansprakelijk stelt. Met het oog op deze verklaring van de Duitse delegatie heeft de wetgever van de Bondsrepubliek Duitsland in het Bereinigungsgesetz für Deutsche Auslandsbonds van 25 Augustus 1952 - Bundesgesetzbl. I Nr. 35 S. 553 - de volgende bepalingen vastgelegd: 
 ###„Par. 74 Buitenlandse obligaties van het Duitse Rijk en van het voormalige land Pruisen
 
-(1) Voor de toepassing van deze wet geldt als uitgevende instantie van de door het voormalige land Pruisen uitgegeven buitenlandse obligaties de Bondsrepubliek Duitsland, zolang niet anders wordt bepaald.”   Met verschuldigde hoogachting enz. (w.g.) HERMANN J.ABS.   
+(1)Voor de toepassing van deze wet geldt als uitgevende instantie van de door het voormalige land Pruisen uitgegeven buitenlandse obligaties de Bondsrepubliek Duitsland, zolang niet anders wordt bepaald.”Met verschuldigde hoogachting enz. (w.g.) HERMANN J.ABS.   
 
 ### BIJLAGE  Id  
 
 ####Gemeenschappelijke verklaring inzake de omrekening en de afwikkeling van buitenlandse goudmarkleningen van Duitse gemeenten
 
-Aan de Voorzitter van de Drie Mogendheden Commissie voor Duitse buitenlandse schulden 29, Chesham Place Londen S.W. 1.  *Londen, 19 November 1952.*  Mijnheer de Voorzitter, Wij hebben de eer U te berichten dat de Duitse delegatie voor de buitenlandse schulden en het British Committee of Long-Term and Medium-Term Creditors of Germany als volgt zijn overeengekomen met betrekking tot de omrekening en de afwikkeling van buitenlandse goudmarkleningen van Duitse gemeenten: 
+Aan de Voorzitter van de Drie Mogendheden Commissie  voor Duitse buitenlandse schulden  29, Chesham Place Londen S.W. 1.  *Londen, 19 November 1952.* Mijnheer de Voorzitter, Wij hebben de eer U te berichten dat de Duitse delegatie voor de buitenlandse schulden en het British Committee of Long-Term and Medium-Term Creditors of Germany als volgt zijn overeengekomen met betrekking tot de omrekening en de afwikkeling van buitenlandse goudmarkleningen van Duitse gemeenten: 
 
 1. Overeengekomen is dat de in punt 7 (1) (*f*) van bijlage 3 bij het rapport van de conferentie bedoelde omrekening en afwikkeling van de dienst der in het buitenland uitgegeven en betaalbare RM-obligaties geen betrekking zullen hebben op buitenlandse goudmarkleningen of met een goud-clausule voorziene RM-leningen van Duitse gemeenten in het gebied van de Bondsrepubliek.  
 
@@ -3052,26 +3051,26 @@ Aan de Voorzitter van de Drie Mogendheden Commissie voor Duitse buitenlandse sch
 
 ####Overeenkomst over de regeling van de schulden van de Konversionskasse voor Duitse buitenlandse schulden, voortvloeiende uit stortingen door debiteuren in het Saargebied alsmede in Oostenrijk, Frankrijk, Luxemburg en België
 
-Duitse delegatie voor buitenlandse schulden, 243-18 DEL 38-1934/52. Aan Sir Otto Niemeyer, c/o Council of Foreign Bondholders, 17 Moorgate, Londen E.C. 2.  *Londen, 14 November 1952.*  Hooggeachte Sir Otto, Ik heb de eer hiermede het resultaat samen te vatten van de overeenstemming die bereikt is bij de besprekingen van 20-10 en 14-11-1952: Ter uitvoering van de in punt 14 van bijlage 3 bij het rapport der conferentie aanvaarde verplichtingen verklaart de Regering van de Bondsrepubliek Duitsland zich bereid, de verplichtingen van de „Konversionskasse für Deutsche Auslandsschulden” voortvloeiende uit stortingen door debiteuren in liet Saargebied, alsmede in Oostenrijk, Frankrijk, Luxemburg en België, voorzover de crediteuren geen betaling in buitenlandse valuta hebben ontvangen, noch op andere wijze zijn voldaan, op de volgende wijze te regelen.     
+Duitse delegatie voor buitenlandse schulden, 243-18 DEL 38-1934/52. Aan Sir Otto Niemeyer,  c/o Council of Foreign  Bondholders, 17 Moorgate,  Londen E.C. 2.  *Londen, 14 November 1952.*  Hooggeachte Sir Otto, Ik heb de eer hiermede het resultaat samen te vatten van de overeenstemming die bereikt is bij de besprekingen van 20-10 en 14-11-1952: Ter uitvoering van de in punt 14 van bijlage 3 bij het rapport der conferentie aanvaarde verplichtingen verklaart de Regering van de Bondsrepubliek Duitsland zich bereid, de verplichtingen van de „Konversionskasse für Deutsche Auslandsschulden” voortvloeiende uit stortingen door debiteuren in liet Saargebied, alsmede in Oostenrijk, Frankrijk, Luxemburg en België, voorzover de crediteuren geen betaling in buitenlandse valuta hebben ontvangen, noch op andere wijze zijn voldaan, op de volgende wijze te regelen.    
 ###I. In effecten belichaamde schulden
 
-1.  *Achterstallige renten*  Betaling van coupons, die aangeboden zullen worden, met betrekking tot stortingen door debiteuren 
+1. *Achterstallige renten*  Betaling van coupons, die aangeboden zullen worden, met betrekking tot stortingen door debiteuren 
 
-(a) uit het *Saargebied*, tot het volle bedrag en uit *Frankrijk, Luxemburg* en *België* tot een bedrag gelijk aan 60 % van de stortingen, en wel: betaling in de jaren 1953 tot 1957 op deze wijze dat de tot het jaar 1941 vervallen coupons op de eerste, na 31 Maart 1953 vallende vervaldag der coupons, de in het jaar 1942 vervallen coupons op de eerste, na 31 Maart 1954 vallende vervaldag der coupons, de in het jaar 1943 vervallen coupons op de eerste, na 31 Maart 1955 vallende vervaldag der coupons, de in het jaar 1944 vervallen coupons op de eerste, na 31 Maart 1956 vallende vervaldag der coupons, de in het jaar 1945 vervallen coupons op de eerste, na 31 Maart 1957 vallende vervaldag der coupons, zullen worden betaald;  
+(a) uit het *Saargebied*, tot het volle bedrag en uit *Frankrijk, Luxemburg* en *België* tot een bedrag gelijk aan 60 % van de stortingen, en wel: betaling in de jaren 1953 tot 1957 op deze wijze dat de tot het jaar 1941 vervallen coupons op de eerste, na 31 Maart 1953 vallende vervaldag der coupons, de in het jaar 1942 vervallen coupons op de eerste, na 31 Maart 1954 vallende vervaldag der coupons, de in het jaar 1943 vervallen coupons op de eerste, na 31 Maart 1955 vallende vervaldag der coupons, de in het jaar 1944 vervallen coupons op de eerste, na 31 Maart 1956 vallende vervaldag der coupons, de in het jaar 1945 vervallen coupons op de eerste, na 31 Maart 1957 vallende vervaldag der coupons,  zullen worden betaald;  
 
-(b) uit Oostenrijk tot een bedrag van 60 % van de stortingen, en wel betaling in de jaren 1953 tot 1957 op deze wijze, dat de in 1938 vervallen coupons op de eerste vervaldatum van de coupons na 31 Maart 1953, de tussen 1 Januari 1939 en 30 Juni 1940 vervallen coupons op de eerste vervaldatum na 31 Maart 1954, de tussen 1 Juli 1940 en 31 December 1941 vervallen coupons op de eerste vervaldag der coupons na 31 Maart 1955, de tussen 1 Januari 1942 tot 30 Juni 1943 vervallen coupons op de eerste vervaldag der coupons na 31 Maart 1956, de tussen 1 Juli 1943 tot 8 Mei 1945 vervallen coupons op de eerste vervaldag der coupons na 31 Maart 1957, zullen worden betaald.    
+(b) uit Oostenrijk tot een bedrag van 60 % van de stortingen, en wel betaling in de jaren 1953 tot 1957 op deze wijze, dat de in 1938 vervallen coupons op de eerste vervaldatum van de coupons na 31 Maart 1953, de tussen 1 Januari 1939 en 30 Juni 1940 vervallen coupons op de eerste vervaldatum na 31 Maart 1954, de tussen 1 Juli 1940 en 31 December 1941 vervallen coupons op de eerste vervaldag der coupons na 31 Maart 1955, de tussen 1 Januari 1942 tot 30 Juni 1943 vervallen coupons op de eerste vervaldag der coupons na 31 Maart 1956, de tussen 1 Juli 1943 tot 8 Mei 1945 vervallen coupons op de eerste vervaldag der coupons na 31 Maart 1957, zullen worden betaald.  
 
-2.  *Amortisaties*  Amortisatie van het nog vast te stellen totaalbedrag, hetzij door inkoop van obligaties of door betaling in contanten, voor wat betreft betalingen door schuldenaren 
+2. *Amortisaties* Amortisatie van het nog vast te stellen totaalbedrag, hetzij door inkoop van obligaties of door betaling in contanten, voor wat betreft betalingen door schuldenaren 
 
 (a) uit het *Saargebied* tot het volle bedrag der stortingen,  
 
-(b) uit *Oostenrijk, Frankrijk, Luxemburg* en *België* tot 60 % van het bedrag der stortingen,   in 5 gelijke jaarlijkse termijnen aanvangende 1 Juli 1953 en vervolgens op 1 Juli van de daarop volgende 4 jaren. Zou de Regering van de Bondsrepubliek Duitsland er niet in slagen voor 1 Juli 1953 een volledig overzicht te verkrijgen over het totaal te amortiseren bedrag, dan kan zij ten hoogste 3 maanden later een aanvang maken met de betalingen.   
+(b) uit *Oostenrijk, Frankrijk, Luxemburg* en *België* tot 60 % van het bedrag der stortingen,   in 5 gelijke jaarlijkse termijnen aanvangende 1 Juli 1953 en vervolgens op 1 Juli van de daarop volgende 4 jaren. Zou de Regering van de Bondsrepubliek Duitsland er niet in slagen voor 1 Juli 1953 een volledig overzicht te verkrijgen over het totaal te amortiseren bedrag, dan kan zij ten hoogste 3 maanden later een aanvang maken met de betalingen.
 ###II. Andere schulden
 
 Betaling in contanten onder overeenkomstige toepassing van de beginselen, als neergelegd in I hierboven, in 5 gelijke jaarlijkse termijnen, beginnende 1 Juli 1953 en vervolgens op de 1e Juli van elk der daarop volgende 4 jaren. Zou de Regering van de Bondsrepubliek Duitsland er niet in slagen voor 1 Juli 1953 een volledig overzicht te verkrijgen over het totaal te amortiseren bedrag, dan kan zij ten hoogste 6 maanden later met de betalingen een aanvang maken. Met het oog op de vaststelling van het totaalbedrag der in aanmerking komende verplichtingen zal de Regering van de Bondsrepubliek Duitsland de crediteuren en de debiteuren bij officiële bekendmaking uitnodigen, de nog niet betaalde vorderingen evenals de eventueel destijds bij de Konversionskasse verrichte stortingen aan te melden bij de „Konversionskasse für Deutsche Auslandsschulden”, en de met betrekking daartoe beschikbare bewijsstukken aan de Konversionskasse over te leggen. De „Konversionskasse für Deutsche Auslandsschulden” te Berlijn zal opdracht ontvangen de desbetreffende verplichtingen te registreren. 
 ###III. Kleine bedragen
 
-De Regering van de Bondsrepubliek Duitsland kan naar haar goedvinden in effecten belichaamde schulden of andere schulden, welke een gering bedrag uitmaken, in kortere tijd betalen. U zoudt mij verplichten door mij te willen bevestigen, dat bovenstaand voorstel een juist beeld geeft van de door ons bereikte overeenstemming en dus als inhoud kan gelden van de voorgenomen briefwisseling. Met de meeste hoogachting enz. (w.g.) HERMANN J. ABS.  *Council of Foreign Bondholders,*   *17 Moorgate,*  *Londen E.C.* 2.  *18 November 1952.*  Hooggeachte Heer Abs, Ik dank U voor Uw brief van 14 November betreffende de regeling van de stortingen bij de Konversionskasse, waarop betrekking heeft punt 14 (*c*) van het rapport van de commissie A. <sup> 1)  Bijlage 3 van het rapport (Bijlage I van de Overeenkomst).  </sup> Naar mijn mening moeten de woorden op blz. 2 bovenaan luiden „de tot het *eind* van het jaar 1941”; aan de woorden „op de eerste vervaldag der coupons na 31 Maart” zal de betekenis moeten worden gehecht van „van de eerste na 31 Maart vallende vervaldag der coupons”. <sup> 1)  Paragraaf I, 1 (*a*), vierde regel.  </sup> Onder voorbehoud hiervan kan ik mij verenigen met de inhoud van Uw brief. Met de meeste hoogachting enz. (w.g.) O. E. NIEMEYER Voorzitter van Comité A van de Conferentie over de Duitse Buitenlandse Schulden  *Aan de Heer*   *Hermann J. Abs.*    
+De Regering van de Bondsrepubliek Duitsland kan naar haar goedvinden in effecten belichaamde schulden of andere schulden, welke een gering bedrag uitmaken, in kortere tijd betalen. U zoudt mij verplichten door mij te willen bevestigen, dat bovenstaand voorstel een juist beeld geeft van de door ons bereikte overeenstemming en dus als inhoud kan gelden van de voorgenomen briefwisseling.Met de meeste hoogachting enz. (w.g.) HERMANN J. ABS.  *Council of Foreign Bondholders,*   *17 Moorgate,*   *Londen E.C.* 2.  *18 November 1952.*   Hooggeachte Heer Abs, Ik dank U voor Uw brief van 14 November betreffende de regeling van de stortingen bij de Konversionskasse, waarop betrekking heeft punt 14 (*c*) van het rapport van de commissie A.<sup>1)Bijlage 3 van het rapport (Bijlage I van de Overeenkomst).</sup> Naar mijn mening moeten de woorden op blz. 2 <sup>1)Paragraaf I, 1 (*a*), vierde regel.</sup> bovenaan luiden „de tot het *eind* van het jaar 1941”; aan de woorden „op de eerste vervaldag der coupons na 31 Maart” zal de betekenis moeten worden gehecht van „van de eerste na 31 Maart vallende vervaldag der coupons”. Onder voorbehoud hiervan kan ik mij verenigen met de inhoud van Uw brief. Met de meeste hoogachting enz. (w.g.) O. E. NIEMEYER Voorzitter van Comité A van de  Conferentie over de Duitse Buitenlandse Schulden  *Aan de Heer*   *Hermann J. Abs.*   
 
 ### BIJLAGE  II  
 
@@ -3118,7 +3117,7 @@ De Regering van de Bondsrepubliek Duitsland kan naar haar goedvinden in effecten
 
 ####Inleiding
 
-In deze aanbevelingen zijn de bepalingen en de procedure neergelegd, welke zullen gelden voor de regeling van de in artikel III hieronder bedoelde schulden. De aanbevelingen brengen geen wijziging in de voorwaarden van de schulden die hier bedoeld worden; in tegendeel, het ligt in de bedoeling dat tussen elke debiteur en zijn crediteuren nieuwe overeenkomsten volgens deze aanbevelingen zullen worden gesloten. In de nieuwe overeenkomsten blijven de bepalingen van de bestaande overeenkomsten gehandhaafd, voorzover zij niet worden gewijzigd volgens tussen crediteuren en debiteur gemaakte afspraken binnen het kader van deze aanbevelingen.  
+In deze aanbevelingen zijn de bepalingen en de procedure neergelegd, welke zullen gelden voor de regeling van de in artikel III hieronder bedoelde schulden. De aanbevelingen brengen geen wijziging in de voorwaarden van de schulden die hier bedoeld worden; in tegendeel, het ligt in de bedoeling dat tussen elke debiteur en zijn crediteuren nieuwe overeenkomsten volgens deze aanbevelingen zullen worden gesloten. In de nieuwe overeenkomsten blijven de bepalingen van de bestaande overeenkomsten gehandhaafd, voorzover zij niet worden gewijzigd volgens tussen crediteuren en debiteur gemaakte afspraken binnen het kader van deze aanbevelingen. 
 
 ### Artikel  II  
 
@@ -3142,7 +3141,7 @@ Crediteuren - dit begrip omvat ook vertegenwoordigers van crediteuren, die volge
 
 Duitsland - het gehele gebied vallende binnen het Duitse Rijk op 1 Januari 1937.  
 
-Gevestigd in - gewoonlijk verblijvende of de zetel hebbende in; een rechtspersoon heeft haar zetel in de Bondsrepubliek Duitsland of in Berlijn (West) wanneer zij in het handelsregister van het desbetreffende gebied is ingeschreven.    
+Gevestigd in - gewoonlijk verblijvende of de zetel hebbende in; een rechtspersoon heeft haar zetel in de Bondsrepubliek Duitsland of in Berlijn (West) wanneer zij in het handelsregister van het desbetreffende gebied is ingeschreven.   
 
 ### Artikel  III  
 
@@ -3175,14 +3174,14 @@ Gevestigd in - gewoonlijk verblijvende of de zetel hebbende in; een rechtspersoo
 3.  Geen schuld mag uitgesloten worden uitsluitend omdat een nieuwe debiteur de aansprakelijkheid daarvoor overneemt of overgenomen heeft op grond van een wet of op andere wijze voor of na 8 Mei 1945; zo mag geen schuld van een onderneming, welke valt onder de wet No. 27 van de Geallieerde Hoge Commissie „Reorganisatie van de Duitse kolen-, ijzer- en staalindustrie”, uitgesloten worden wegens overneming door een nieuwe onderneming of een andere onderneming die de oorspronkelijke is opgevolgd.   
 4.  Deze Overeenkomst wordt niet toegepast op obligaties of coupons, die moeten worden gecertificeerd op grond van de Duitse wet op de certificatie van effecten van 19 Augustus 1949 (Wirtschaftsgesetzblatt S 295) en de wet op de certificatie van Duitse buitenlandse obligaties van Augustus 1952, zolang deze obligaties of coupons niet zijn gecertificeerd overeenkomstig de bepalingen van die wetten of van bilaterale verdragen, welke eventueel met het land van uitgifte zijn afgesloten met betrekking tot een dergelijke wet.   
 5.  De schulden van de Duitse Rentenbank-Kreditanstalt vormen om verschillende redenen een moeilijk probleem. Als gevolg van de splitsing van Duitsland zijn de vermogenswaarden, die belegd zijn in Oost-Duitsland, op het ogenblik aan de beschikking van de Bank onttrokken; in overeenkomstige mate is het bedrag van de onder deze Overeenkomst vallende schulden gereduceerd, zoals zulks in bijzonderheden is vastgelegd in bestaand regelingen, waarbij het percentage in de afzonderlijke gevallen verschilt en tussen 20 % en 67 % van de uitstaande leningen varieert. De Duitse vertegenwoordigers hebben verklaard, dat het op het ogenblik niet in de macht van de Bondsregering ligt aan deze toestand, die in het bijzonder ontstaan is door de desbetreffende wettelijke bepalingen inzake de munthervorming, iets te veranderen. Overeengekomen is echter, dat de Bondsregering alles zal doen om de regeling van de schulden van de Bank en de betaling van de rente- en amortisatietermijnen volgens de bedoelde wetten en verordeningen te vergemakkelijken. De vertegenwoordigers van crediteuren behouden voor de door hen vertegenwoordigde crediteuren het recht voor, iedere mogelijkheid voor een actie aan te grijpen, om een regeling te wijzigen, die naar hun mening hun belangen schaadt en een discriminatie betekent van bepaalde groepen van crediteuren. Er is overeengekomen dat de Bank aansprakelijk blijft voor de verplichtingen, welke zijn gedekt door vermogenswaarden in Oost-Duitsland en dat zij deze verplichtingen weer zal nakomen, wanneer deze vermogenswaarden weer tot haar beschikking staan. Dezelfde beginselen zullen worden toegepast ten aanzien van verschillende andere instellingen, die in eenzelfde positie verkeren.   
-6.  Bij de behandeling van de Kali-lening volgens de bepalingen van deze Overeenkomst moet rekening worden gehouden met het bijzondere karakter van die lening.   
+6.  Bij de behandeling van de Kali-lening volgens de bepalingen van deze Overeenkomst moet rekening worden gehouden met het bijzondere karakter van die lening.  
 
 ### Artikel  IV  
 
 ####Bedrag der uitstaande schulden
 
 1.  Het uitstaande bedrag van elke schuld is samengesteld uit de nog niet terugbetaalde hoofdsom en alle tot 1 Januari 1953 verschuldigde en nog niet betaalde renten, waarbij deze rente zonder samengestelde interest wordt berekend volgens de in de bestaande overeenkomst vastgelegde rentevoet, onverschillig of de verplichting voor deze datum verviel en zonder rekening te houden met de gevolgen van een vóór deze datum in gebreke blijven van de debiteur volgens de bepalingen van de bestaande overeenkomst.   
-2.  Een bedrag is onbetaald in de zin van 1. hierboven, wanneer het niet door de crediteur is ontvangen en uitdrukkelijk of stilzwijgend door hem als betaling is aangenomen. Wanneer de crediteur funding bonds, scrips of contant geld van de Konversionskasse heeft aangenomen, zijn hiermede al die verplichtingen of gedeelten daarvan voldaan, waarvoor de crediteur deze prestaties heeft aangenomen.   
+2.  Een bedrag is onbetaald in de zin van 1. hierboven, wanneer het niet door de crediteur is ontvangen en uitdrukkelijk of stilzwijgend door hem als betaling is aangenomen. Wanneer de crediteur funding bonds, scrips of contant geld van de Konversionskasse heeft aangenomen, zijn hiermede al die verplichtingen of gedeelten daarvan voldaan, waarvoor de crediteur deze prestaties heeft aangenomen.  
 
 ### Artikel  V  
 
@@ -3226,7 +3225,7 @@ Gevestigd in - gewoonlijk verblijvende of de zetel hebbende in; een rechtspersoo
 14.   *Beschikbaarstelling van de buitenlandse valuta's*  De debiteur moet de maatregelen nemen welke volgens de Duitse wetgeving noodzakelijk zijn om de betalingsmiddelen in buitenlandse valuta, die hij nodig heeft om al zijn verplichtingen uit de nieuwe overeenkomst na te komen, te verkrijgen.   
 15.   *In gebreke blijven van de debiteur*  Onverminderd de in de nieuwe overeenkomst vastgelegde gevolgen van in gebreke blijven kunnen de crediteuren voor de duur van het in gebreke blijven betaling van rente verlangen volgens het in de bestaande overeenkomst genoemde percentage.   
 16.   *Wijziging van voorwaarden*  Geen bepaling van deze Overeenkomst belet een debiteur, met toestemming van zijn crediteuren, voorwaarden te verkrijgen, welke voor hem gunstiger zijn dan de bepalingen van deze Overeenkomst.   
-17.   *Concessies ten gunste van de debiteuren*  De crediteuren zijn van mening, dat de voordelen uit de concessies voortvloeiende, en die zij in het kader van deze Overeenkomst doen, ten goede van de debiteuren moeten komen.   
+17.   *Concessies ten gunste van de debiteuren*  De crediteuren zijn van mening, dat de voordelen uit de concessies voortvloeiende, en die zij in het kader van deze Overeenkomst doen, ten goede van de debiteuren moeten komen.  
 
 ### Artikel  VI  
 
@@ -3240,7 +3239,7 @@ Gevestigd in - gewoonlijk verblijvende of de zetel hebbende in; een rechtspersoo
 (b) geen verandering van de voorwaarden, die voor de vordering gelden, ten gevolge heeft,  
 
 (c) niet direct of indirect leidt tot afwikkeling van de schuld.     
-3.   *Verandering van debiteur*  De Duitse deviezenautoriteiten zullen voorstellen voor het overnemen van een bestaande schuld door een nieuwe Duitse debiteur, en voor het vervangen van een bestaande zekerheid door een nieuwe, in welwillende overweging nemen.   
+3.   *Verandering van debiteur*  De Duitse deviezenautoriteiten zullen voorstellen voor het overnemen van een bestaande schuld door een nieuwe Duitse debiteur, en voor het vervangen van een bestaande zekerheid door een nieuwe, in welwillende overweging nemen.  
 
 ### Artikel  VII  
 
@@ -3250,19 +3249,19 @@ Gevestigd in - gewoonlijk verblijvende of de zetel hebbende in; een rechtspersoo
 2.  Alle voorgestelde overeenkomsten, contracten of acten dienen op wens van de crediteuren, wat vorm en inhoud betreft, aan goedkeuring door een rechtskundig adviseur van de crediteuren te worden onderworpen.   
 3.  Iedere debiteur moet voor 30 Juni 1953 of binnen 6 maanden, nadat hij zich in de Bondsrepubliek Duitsland of Berlijn (West) heeft gevestigd, een gedetailleerd aanbod, voor een regeling uitwerken en aan zijn crediteuren voorleggen. De crediteur kan van de debiteur verlangen, dat hij met hem over de bijzonderheden van het aanbod in onderhandeling treedt, en de debiteur moet aan dit verlangen voldoen.   
 4.  De term „crediteur” in de zin van de leden 2 en 3 van dit artikel betekent, indien het om obligaties gaat, de volgens artikel VIII benoemde vertegenwoordigers van crediteuren.   
-5.  Bij obligaties kunnen de voorwaarden van de regeling op de aanwezige obligaties gedrukt worden of tegen inlevering van beschikbare obligaties nieuwe obligaties worden uitgegeven; voor de achterstallige renten kunnen nieuwe obligaties of tegen obligaties in te wisselen scrips worden uitgegeven, al naar gelang zulks op de verschillende markten, waar de obligaties oorspronkelijk werden uitgegeven, gebruikelijk en uitvoerbaar is. Dergelijke obligaties met opdruk of nieuwe obligaties moeten in overeenstemming zijn met de bestaande marktgebruiken. De debiteur moet op eigen kosten daarvoor in aanmerking komende bankinstellingen opdracht geven de regeling uit te voeren; hij moet aan alle voorschriften van regeringsinstanties en effectenmarkten voldoen, teneinde de verhandelbaarheid te verzekeren.   
+5.  Bij obligaties kunnen de voorwaarden van de regeling op de aanwezige obligaties gedrukt worden of tegen inlevering van beschikbare obligaties nieuwe obligaties worden uitgegeven; voor de achterstallige renten kunnen nieuwe obligaties of tegen obligaties in te wisselen scrips worden uitgegeven, al naar gelang zulks op de verschillende markten, waar de obligaties oorspronkelijk werden uitgegeven, gebruikelijk en uitvoerbaar is. Dergelijke obligaties met opdruk of nieuwe obligaties moeten in overeenstemming zijn met de bestaande marktgebruiken. De debiteur moet op eigen kosten daarvoor in aanmerking komende bankinstellingen opdracht geven de regeling uit te voeren; hij moet aan alle voorschriften van regeringsinstanties en effectenmarkten voldoen, teneinde de verhandelbaarheid te verzekeren.  
 
 ### Artikel  VIII  
 
 ####Vertegenwoordiging van de crediteuren
 
-De commissies en organisaties, wier gedelegeerden aan de conferentie over de Duitse buitenlandse schulden als vertegenwoordigers van de daarbij betrokken nationale crediteurengroepen hebben deelgenomen (deze commissies en organisaties worden verder aangeduid als „crediteurencommissies”), dienen, onder voorbehoud van het recht van goedkeuring van hun onderscheidene regeringen, die personen of organisaties tot vertegenwoordigers van crediteuren te benoemen, die nodig zijn om de regeling tussen de individuele debiteuren en hun crediteuren op grond van deze Overeenkomst te bevorderen en tot stand te brengen. Deze commissies en organisaties kunnen ook zelf in bedoelde hoedanigheid optreden. In elk individueel geval zal slechts één vertegenwoordiger of één vertegenwoordigende organisatie worden benoemd; indien echter de crediteurencommissies het noodzakelijk achten om de rechten van de houders van de verschillende emissies van obligaties van een bepaalde debiteur ten volle te beschermen, kunnen voor elke afzonderlijke emissie telkens een vertegenwoordiger of een vertegenwoordigende organisatie worden benoemd. De Duitse debiteur is gerechtigd van de crediteurencommissies de benoeming van vertegenwoordigers te verlangen. De deelneming aan de schuldenconferentie sluit niet uit, dat een persoon in een of andere hoedanigheid aan de onderhandelingen op grond van deze Overeenkomst deelneemt.  
+De commissies en organisaties, wier gedelegeerden aan de conferentie over de Duitse buitenlandse schulden als vertegenwoordigers van de daarbij betrokken nationale crediteurengroepen hebben deelgenomen (deze commissies en organisaties worden verder aangeduid als „crediteurencommissies”), dienen, onder voorbehoud van het recht van goedkeuring van hun onderscheidene regeringen, die personen of organisaties tot vertegenwoordigers van crediteuren te benoemen, die nodig zijn om de regeling tussen de individuele debiteuren en hun crediteuren op grond van deze Overeenkomst te bevorderen en tot stand te brengen. Deze commissies en organisaties kunnen ook zelf in bedoelde hoedanigheid optreden. In elk individueel geval zal slechts één vertegenwoordiger of één vertegenwoordigende organisatie worden benoemd; indien echter de crediteurencommissies het noodzakelijk achten om de rechten van de houders van de verschillende emissies van obligaties van een bepaalde debiteur ten volle te beschermen, kunnen voor elke afzonderlijke emissie telkens een vertegenwoordiger of een vertegenwoordigende organisatie worden benoemd. De Duitse debiteur is gerechtigd van de crediteurencommissies de benoeming van vertegenwoordigers te verlangen. De deelneming aan de schuldenconferentie sluit niet uit, dat een persoon in een of andere hoedanigheid aan de onderhandelingen op grond van deze Overeenkomst deelneemt. 
 
 ### Artikel  IX  
 
 ####Arbitrage- en Bemiddelings-Commissie
 
-1.   *Competentie*  Teneinde het afsluiten van regelingen tussen de individuele debiteuren en hun crediteuren te bevorderen, zal een Arbitrage- en Bemiddelings-Commissie worden gevormd. Deze commissie heeft tot taak tussen de debiteur en diens crediteuren te bemiddelen en te arbitreren, wanneer zij over de voorwaarden van het regelingsaanbod niet tot overeenstemming kunnen komen. Iedere partij heeft het recht een geschil voor de commissie te brengen. De beslissing van de commissie is voor beide partijen bindend. De debiteur is verplicht aan zijn crediteuren de in een dergelijke beslissing vastgelegde modaliteiten aan te bieden. De crediteur is verplicht deze modaliteiten te aanvaarden (zie Bijlage II *a*); bij obligaties, terzake waarvan de rechthebbenden ingevolge de bepalingen van artikel VIII van deze Overeenkomst vertegenwoordigd zijn, moeten de vertegenwoordigers der crediteuren de rechthebbenden op de obligaties het aanvaarden van het aanbod aanbevelen. Wanneer volgens artikel VIII een vertegenwoordiger van crediteuren wordt benoemd worden de rechten van de crediteuren volgens artikel IX door deze vertegenwoordiger uitgeoefend.   
+1.   *Competentie*  Teneinde het afsluiten van regelingen tussen de individuele debiteuren en hun crediteuren te bevorderen, zal een Arbitrage- en Bemiddelings-Commissie worden gevormd. Deze commissie heeft tot taak tussen de debiteur en diens crediteuren te bemiddelen en te arbitreren, wanneer zij over de voorwaarden van het regelingsaanbod niet tot overeenstemming kunnen komen. Iedere partij heeft het recht een geschil voor de commissie te brengen. De beslissing van de commissie is voor beide partijen bindend. De debiteur is verplicht aan zijn crediteuren de in een dergelijke beslissing vastgelegde modaliteiten aan te bieden. De crediteur is verplicht deze modaliteiten te aanvaarden (zie Bijlage II*a*); bij obligaties, terzake waarvan de rechthebbenden ingevolge de bepalingen van artikel VIII van deze Overeenkomst vertegenwoordigd zijn, moeten de vertegenwoordigers der crediteuren de rechthebbenden op de obligaties het aanvaarden van het aanbod aanbevelen. Wanneer volgens artikel VIII een vertegenwoordiger van crediteuren wordt benoemd worden de rechten van de crediteuren volgens artikel IX door deze vertegenwoordiger uitgeoefend.   
 2.   *Samenstelling*  De commissie bestaat uit 4 vertegenwoordigers van de crediteuren en 4 vertegenwoordigers van de debiteuren. De commissie kan nog een lid kiezen voor een afzonderlijk geval, wanneer de meerderheid van de leden daartoe de wens te kennen geeft. De voorzitter van de commissie wordt gekozen uit de crediteuren-leden. De eerste voorzitter zal het Amerikaanse lid zijn. Voor elk lid kan een plaatsvervanger worden benoemd. Elk lid van de commissie met inbegrip van de voorzitter heeft een stem.   
 3.   *Benoeming van de leden*  De leden der commissie worden op de volgende wijze benoemd: 
 
@@ -3270,7 +3269,7 @@ De commissies en organisaties, wier gedelegeerden aan de conferentie over de Dui
 
 (b) De debiteuren-leden worden door het hoofd van de Duitse delegatie voor buitenlandse schulden benoemd.     
 4.   *Procedure*  De commissie kan voor elk bijzonder geval subcommissies in het leven roepen en tijdelijke leden voor deze subcommissies benoemen. De wijze waarop geschillen aan de commissie voorgelegd en de termijnen vastgesteld worden, regelt de commissie zelf, evenals het tijdstip en de plaats van de zittingen, alsmede alle andere kwesties met betrekking tot de wijze van werken van de commissie of haar subcommissies.   
-5.   *Kosten*  De leden van de commissie en de tijdelijke leden ontvangen vergoeding van al hun reiskosten en persoonlijke uitgaven in verband met de vervulling van hun taak. Daarenboven ontvangen zij een door de commissie vast te stellen vergoeding voor de tijd, besteed ter vervulling van hun taak. Alle uitgaven en kosten, ontstaan voor de commissie, haar leden of de tijdelijke leden bij de behandeling van een geschil, worden door de desbetreffende Duitse debiteur vergoed. Wanneer echter de commissie of de bevoegde subcommissie constateert, dat een crediteur zich niet te goeder trouw of lichtvaardig tot haar gewend heeft, moeten de kosten en uitgaven tot het door de commissie of de subcommissie vastgestelde bedrag door die crediteur worden betaald. Alle andere kosten van de commissie en haar leden, met inbegrip van de vergoeding voor leden, die in commissie-aangelegenheden werkzaam zijn, worden over de debiteuren omgeslagen of op andere wijze door hen vergoed.   
+5.   *Kosten*  De leden van de commissie en de tijdelijke leden ontvangen vergoeding van al hun reiskosten en persoonlijke uitgaven in verband met de vervulling van hun taak. Daarenboven ontvangen zij een door de commissie vast te stellen vergoeding voor de tijd, besteed ter vervulling van hun taak. Alle uitgaven en kosten, ontstaan voor de commissie, haar leden of de tijdelijke leden bij de behandeling van een geschil, worden door de desbetreffende Duitse debiteur vergoed. Wanneer echter de commissie of de bevoegde subcommissie constateert, dat een crediteur zich niet te goeder trouw of lichtvaardig tot haar gewend heeft, moeten de kosten en uitgaven tot het door de commissie of de subcommissie vastgestelde bedrag door die crediteur worden betaald. Alle andere kosten van de commissie en haar leden, met inbegrip van de vergoeding voor leden, die in commissie-aangelegenheden werkzaam zijn, worden over de debiteuren omgeslagen of op andere wijze door hen vergoed.  
 
 ### Artikel  X  
 
@@ -3279,19 +3278,19 @@ De commissies en organisaties, wier gedelegeerden aan de conferentie over de Dui
 1.  De debiteuren, die onder deze Overeenkomst vallen, moeten alle uitgaven betalen, welke voor een crediteurencommissie in verband met de schuldenconferentie of met de algemene uitvoering van deze Overeenkomst zijn ontslaan.   
 2.  Uitgaven, die voor de crediteuren in verband met de onderhandelingen tussen een debiteur en zijn crediteuren overeenkomstig artikel VII van deze Overeenkomst zijn ontstaan, moeten door de desbetreffende debiteur worden vergoed. Deze uitgaven en vergoedingen zullen bij niet in obligaties belichaamde schulden aan de crediteuren worden betaald en bij wel in obligaties belichaamde schulden aan de volgens artikel VIII van deze Overeenkomst benoemde vertegenwoordigers van crediteuren.   
 3.  Het begrip „uitgaven” in de zin van de leden 1 en 2 van dit artikel omvat een redelijke vergoeding voor verleende diensten. Over de redelijkheid beslist bij verschil van mening de Arbitrage- en Bemiddelings-Commissie.   
-4.  De in dit artikel vervatte regeling voor de uitgaven sluit niet uit, dat de vertegenwoordigers van crediteuren betaling van aanvullende kosten van de obligatiehouders of andere crediteuren kunnen verlangen.   
+4.  De in dit artikel vervatte regeling voor de uitgaven sluit niet uit, dat de vertegenwoordigers van crediteuren betaling van aanvullende kosten van de obligatiehouders of andere crediteuren kunnen verlangen.  
 
 ### Artikel  XI  
 
 ####Inwerkingtreding
 
-Geen betalingen mogen worden gedaan overeenkomstig de bepalingen van een regeling, aangeboden op grond van deze Overeenkomst, voordat de Overeenkomst nopend Duitse buitenlandse schulden in werking is getreden. De debiteuren moeten echter onverwijld hun crediteuren voorwaarden voor een regeling overeenkomstig de bepalingen van artikel VII van deze Overeenkomst aanbieden, de onderhandelingen die noodzakelijk zijn voeren en ook overigens alle maatregelen treffen, om de voorbereiding van een nieuw aanbod als bedoeld in deze Overeenkomst te bevorderen.  
+Geen betalingen mogen worden gedaan overeenkomstig de bepalingen van een regeling, aangeboden op grond van deze Overeenkomst, voordat de Overeenkomst nopend Duitse buitenlandse schulden in werking is getreden. De debiteuren moeten echter onverwijld hun crediteuren voorwaarden voor een regeling overeenkomstig de bepalingen van artikel VII van deze Overeenkomst aanbieden, de onderhandelingen die noodzakelijk zijn voeren en ook overigens alle maatregelen treffen, om de voorbereiding van een nieuw aanbod als bedoeld in deze Overeenkomst te bevorderen. 
 
 ### BIJLAGE  IIa  
 
 ####Interpretatie van de tweede alinea van lid 1 van artikel IX van Bijlage II
 
-Aan de Drie Mogendheden Commissie voor Duitse schulden, 29, Chesham Place, Londen S.W. 1.  *Londen, 12 November 1952.*  Mijne Heren, Onze aandacht is er op gevestigd, dat een misverstand is ontstaan over de tweede alinea van lid 1 van artikel IX van bijlage 4 van het rapport over de conferentie inzake Duitse buitenlandse schulden. Deze alinea luidt als volgt: „De beslissing van de commissie is voor beide partijen bindend. De debiteur is verplicht aan zijn crediteuren de in een dergelijke beslissing vastgelegde modaliteiten aan te bieden. De crediteur is verplicht *deze modaliteiten te aanvaarden;* bij obligaties, terzake waarvan de rechthebbenden in gevolge de bepalingen van artikel VIII van deze Overeenkomst vertegenwoordigd zijn, moeten de vertegenwoordigers der crediteuren de rechthebbenden op de obligaties het aanvaarden van het aanbod aanbevelen.” De gecursiveerde woorden „deze modaliteiten te aanvaarden” hebben tot misverstand geleid. Tot een juiste interpretatie zou gekomen worden, indien in plaats van bedoelde woorden gesteld zou worden „deze modaliteiten als in overeenstemming met de bepalingen van deze Overeenkomst te erkennen.” Wij zouden de Drie Mogendheden Commissie verplicht zijn als zij er nota van wilde nemen, dat bovenaangehaalde tweede alinea van lid 1 van artikel IX van bijlage 4 ten rechte zo is op te vatten, als ware zij in de gewijzigde vorm geredigeerd, dat wil zeggen als wanneer zij luidde: „De beslissing van de commissie is voor beide partijen bindend. De debiteur is verplicht aan zijn crediteuren de in een dergelijke beslissing vastgelegde modaliteiten aan te bieden. De crediteur is verplicht *deze modaliteiten als in overeenstemming met de bepalingen van deze Overeenkomst te erkennen;* bij obligaties, terzake waarvan de rechthebbenden ingevolge de bepalingen van artikel VIII van deze Overeenkomst vertegenwoordigd zijn, moeten de vertegenwoordigers der crediteuren de rechthebbenden op de obligaties het aanvaarden van het aanbod aanbevelen.” Met de meeste hoogachting, (w.g.) N. LEGGETT Voorzitter van het Onderhandelings- comité B van de conferentie over Duitse buitenlandse schulden. (w.g.) HERMANN J. ABS Voorzitter van de Duitse delegatie voor de buitenlandse schulden.   
+Aan de Drie Mogendheden Commissie voor Duitse schulden, 29, Chesham Place, Londen S.W. 1.  *Londen, 12 November 1952.*   Mijne Heren, Onze aandacht is er op gevestigd, dat een misverstand is ontstaan over de tweede alinea van lid 1 van artikel IX van bijlage 4 van het rapport over de conferentie inzake Duitse buitenlandse schulden. Deze alinea luidt als volgt: „De beslissing van de commissie is voor beide partijen bindend. De debiteur is verplicht aan zijn crediteuren de in een dergelijke beslissing vastgelegde modaliteiten aan te bieden. De crediteur is verplicht *deze modaliteiten te aanvaarden;* bij obligaties, terzake waarvan de rechthebbenden in gevolge de bepalingen van artikel VIII van deze Overeenkomst vertegenwoordigd zijn, moeten de vertegenwoordigers der crediteuren de rechthebbenden op de obligaties het aanvaarden van het aanbod aanbevelen.” De gecursiveerde woorden „deze modaliteiten te aanvaarden” hebben tot misverstand geleid. Tot een juiste interpretatie zou gekomen worden, indien in plaats van bedoelde woorden gesteld zou worden „deze modaliteiten als in overeenstemming met de bepalingen van deze Overeenkomst te erkennen.” Wij zouden de Drie Mogendheden Commissie verplicht zijn als zij er nota van wilde nemen, dat bovenaangehaalde tweede alinea van lid 1 van artikel IX van bijlage 4 ten rechte zo is op te vatten, als ware zij in de gewijzigde vorm geredigeerd, dat wil zeggen als wanneer zij luidde: „De beslissing van de commissie is voor beide partijen bindend. De debiteur is verplicht aan zijn crediteuren de in een dergelijke beslissing vastgelegde modaliteiten aan te bieden. De crediteur is verplicht *deze modaliteiten als in overeenstemming met de bepalingen van deze Overeenkomst te erkennen;* bij obligaties, terzake waarvan de rechthebbenden ingevolge de bepalingen van artikel VIII van deze Overeenkomst vertegenwoordigd zijn, moeten de vertegenwoordigers der crediteuren de rechthebbenden op de obligaties het aanvaarden van het aanbod aanbevelen.” Met de meeste hoogachting, (w.g.) N. LEGGETT Voorzitter van het Onderhandelings- comité B van de conferentie over Duitse buitenlandse schulden. (w.g.) HERMANN J. ABS Voorzitter van de Duitse delegatie voor de buitenlandse schulden.   
 
 ### BIJLAGE  III  
 
@@ -3313,15 +3312,15 @@ Aan de Drie Mogendheden Commissie voor Duitse schulden, 29, Chesham Place, Londe
 
 6. Dat door bemiddeling van het Duitse Comité bankinstellingen, handels- en industriële ondernerningen in de Bondsrepubliek hun buitenlandse banken-crediteuren hebben verzocht een nieuwe overeenkomst af te sluiten ter regeling van de betaling der uitstaande kortlopende schuld en voor het nemen van maatregelen voor het herstellen van normale voorwaarden voor de financiering van de buitenlandse handel van de Bondsrepubliek; dat ter tegemoetkoming aan dit verzoek passende bepalingen zijn geformuleerd en in deze overeenkomst neergelegd, en de buitenlandse bankiers-comité's zich bereid hebben verklaard aan de buitenlandse banken-crediteuren in hun onderscheidene landen toetreding tot deze overeenkomst aan te bevelen.  
 
-7. Dat deze overeenkomst door de comité's van buitenlandse bankiers geaccepteerd is onder voorwaarde dat, zolang deze overeenkomst van kracht blijft, die wetten en verordeningen door de Regering van de Bondsrepubliek of een andere bevoegde overheidsinstantie uitgevaardigd en in stand zullen worden gehouden, als noodzakelijk zijn om uitvoering te geven aan de bepalingen van deze nieuwe overeenkomst en dat geen wetten of verordeningen zullen worden uitgevaardigd die een werkelijke inbreuk zouden betekenen op de verplichtingen die in deze overeenkomst zijn neergelegd. Met name moeten de uit te vaardigen en te handhaven voorschriften waarborgen: <sup> 1)  Zie Bijlage III *a*.  </sup> 
+7. Dat deze overeenkomst door de comité's van buitenlandse bankiers geaccepteerd is onder voorwaarde dat, zolang deze overeenkomst van kracht blijft, die wetten en verordeningen door de Regering van de Bondsrepubliek of een andere bevoegde overheidsinstantie<sup> 1)  Zie Bijlage III*a*. </sup>uitgevaardigd en in stand zullen worden gehouden, als noodzakelijk zijn om uitvoering te geven aan de bepalingen van deze nieuwe overeenkomst en dat geen wetten of verordeningen zullen worden uitgevaardigd die een werkelijke inbreuk zouden betekenen op de verplichtingen die in deze overeenkomst zijn neergelegd. Met name moeten de uit te vaardigen en te handhaven voorschriften waarborgen: 
 
 (i) dat de bankinstellingen, handels- en industriële ondernemingen in de Bondsrepubliek geen discriminatie met betrekking tot terugbetalingen of het geven van waarborgen zullen toepassen ten aanzien van buitenlandse banken-crediteuren, onverschillig of deze tot de overeenkomst zijn toegetreden of niet;  
 
-(ii) dat de bankinstellingen Voor handels- en industriële ondernemingen in de Bondsrepubliek geen discriminatie tussen hun crediteuren in de Bondsrepubliek en hun buitenlandse banken-crediteuren, onverschillig of deze tot de overeenkomst zijn toegetreden of niet, zullen toepassen met betrekking tot het geven van waarborgen; <sup> 1)  Zie Bijlage III *a*.  </sup>  
+(ii) dat de bankinstellingen Voor handels- en industriële ondernemingen in de Bondsrepubliek geen discriminatie tussen hun crediteuren in de Bondsrepubliek en hun buitenlandse banken-crediteuren, onverschillig of deze tot de overeenkomst zijn toegetreden of niet, zullen toepassen met betrekking tot het geven van waarborgen; <sup> 1)  Zie Bijlage III*a*. </sup>   
 
-(iii) dat ongeoorloofde kapitaalbewegingen zullen worden verhinderd; en <sup> 1)  Zie Bijlage III *a*.  </sup>  
+(iii) dat ongeoorloofde kapitaalbewegingen zullen worden verhinderd; en<sup> 1)  Zie Bijlage III*a*. </sup>   
 
-(iv) dat alle bankinstellingen, handels- en industriële ondernemingen in de Bondsrepubliek die in enigerlei onder deze overeenkomst vallende vorm schulden hebben, tot deze overeenkomst zullen toetreden. <sup> 1)  Zie Bijlage III *a*.  </sup>     Wordt derhalve het volgende overeengekomen:    
+(iv)  <sup> 1)  Zie Bijlage III*a* . </sup>dat alle bankinstellingen, handels- en industriële ondernemingen in de Bondsrepubliek die in enigerlei onder deze overeenkomst vallende vorm schulden hebben, tot deze overeenkomst zullen toetreden.     Wordt derhalve het volgende overeengekomen:    
 
 ### 1  
 
@@ -3345,13 +3344,12 @@ Voorzover de samenhang niet een andere uitleg vereist, hebben in deze overeenkom
 
 (i) Iedere in de Bondsrepubliek gevestigde partij, die ten gevolge van overlijden, liquidatie, reorganisatie of faillissement van een Duitse debiteur of van een vroegere Duitse debiteur uit hoofde van kortlopend crediet aansprakelijk is;  
 
-(ii) Iedere in de Bondsrepubliek gevestigde vennootschap wier oorspronkelijke activa geheel of voor een belangrijk deel afkomstig zijn van een Duitse debiteur of een vroegere Duitse debiteur en die op grond van een wet of op andere wijze aansprakelijk geworden is met betrekking tot een kortlopend crediet.   „Buitenlandse bank-crediteur” betekent en omvat iedere bankier en iedere bankinstelling gevestigd in een van de in de inleiding tot deze overeenkomst genoemde landen, alsmede iedere andere in een van deze landen gevestigde firma of organisatie, die crediteur zijn met betrekking tot een schuld uit kortlopende credieten, en die onvoorwaardelijk zijn toegetreden tot deze overeenkomst, overeenkomstig artikel 22 daarvan. „Bondsrepubliek” betekent en omvat het op het tijdstip van de totstandkoming van deze overeenkomst tot de Bondsrepubliek Duitsland en tot Berlijn (West) behorende gebied. <sup> 1)  Zie Bijlage III *a*.  </sup> „Duits” betekent: behorend tot de Bondsrepubliek in de zin van de hierboven gegeven definitie. „Buitenlands” betekent: behorend tot een, op 31 December 1937 buiten het Duitse Rijk gelegen land. „Firma” omvat mede particulieren, die onder hun eigen naam of onder een firmanaam hun bedrijf uitoefenen. „Insolventie” met betrekking tot een Duitse schuldenaar betekent een toestand, waarin de schuldenaar wegens gebrek aan contante middelen, dat niet van voorbijgaande aard is, in de onmogelijkheid verkeert het totaal zijner schulden op de vervaldagen te voldoen. „De vorige overeenkomst” betekent en omvat de Duitse crediet-overeenkomsten van 1931 tot 1939 de Duitse credietovereenkomsten voor publiekrechtelijke debiteuren van 1932 tot 1938, de Duits-Amerikaanse Stillhalte-overeenkomsten van 1939 en 1940 alsmede de kortlopende credieten door banken-crediteuren verstrekt in Zwitserland op grond van een overeenkomst, bekend onder de naam „Das Deutsche Kreditabkommen von 1940, 1941, 1942, 1943 und 1944”. „Nominale waarde” betekent, met betrekking op thans nog uitstaande kortlopende credieten, het totaalbedrag aan dergelijke kortlopende credieten volgens de laatste aan de respectievelijke buitenlandse banken-comité's ter beschikking staande gegevens. Voor de omrekening in Duitse valuta moet dit bedrag worden omgerekend tegen de officiële middenkoers in de Bondsrepubliek op de eerste werkdag voorafgaande aan de dag van de omrekening.  
+(ii) Iedere in de Bondsrepubliek gevestigde vennootschap wier oorspronkelijke activa geheel of voor een belangrijk deel afkomstig zijn van een Duitse debiteur of een vroegere Duitse debiteur en die op grond van een wet of op andere wijze aansprakelijk geworden is met betrekking tot een kortlopend crediet.   „Buitenlandse bank-crediteur” betekent en omvat iedere bankier en iedere bankinstelling gevestigd in een van de in de inleiding tot deze overeenkomst genoemde landen, alsmede iedere andere in een van deze landen gevestigde firma of organisatie, die crediteur zijn met betrekking tot een schuld uit kortlopende credieten, en die onvoorwaardelijk zijn toegetreden tot deze overeenkomst, overeenkomstig artikel 22 daarvan. „Bondsrepubliek” betekent en omvat het op het tijdstip van de totstandkoming van deze overeenkomst tot de Bondsrepubliek Duitsland en tot Berlijn (West) behorende gebied.<sup> 1)  Zie Bijlage III*a*.  </sup>  „Duits” betekent: behorend tot de Bondsrepubliek in de zin van de hierboven gegeven definitie. „Buitenlands” betekent: behorend tot een, op 31 December 1937 buiten het Duitse Rijk gelegen land. „Firma” omvat mede particulieren, die onder hun eigen naam of onder een firmanaam hun bedrijf uitoefenen. „Insolventie” met betrekking tot een Duitse schuldenaar betekent een toestand, waarin de schuldenaar wegens gebrek aan contante middelen, dat niet van voorbijgaande aard is, in de onmogelijkheid verkeert het totaal zijner schulden op de vervaldagen te voldoen. „De vorige overeenkomst” betekent en omvat de Duitse crediet-overeenkomsten van 1931 tot 1939 de Duitse credietovereenkomsten voor publiekrechtelijke debiteuren van 1932 tot 1938, de Duits-Amerikaanse Stillhalte-overeenkomsten van 1939 en 1940 alsmede de kortlopende credieten door banken-crediteuren verstrekt in Zwitserland op grond van een overeenkomst, bekend onder de naam „Das Deutsche Kreditabkommen von 1940, 1941, 1942, 1943 und 1944”. „Nominale waarde” betekent, met betrekking op thans nog uitstaande kortlopende credieten, het totaalbedrag aan dergelijke kortlopende credieten volgens de laatste aan de respectievelijke buitenlandse banken-comité's ter beschikking staande gegevens. Voor de omrekening in Duitse valuta moet dit bedrag worden omgerekend tegen de officiële middenkoers in de Bondsrepubliek op de eerste werkdag voorafgaande aan de dag van de omrekening. 
 
 ### 2  
 
-####Duur van de overeenkomst
+####Duur van de overeenkomst<sup> 1)   Zie Bijlage III*a*.  </sup> 
 
-<sup> 1)  Zie Bijlage III *a*.  </sup>   
 (1).  Voorzover niet anders bepaald is, treden de bepalingen van deze overeenkomst op ...… 1952 in werking; zij blijven van kracht gedurende een periode van 12 kalendermaanden gerekend vanaf genoemde datum. Echter kan de overeenkomst door de buitenlandse bank-comité's vervroegd worden opgezegd in elk der volgende gevallen: 
 
 (i) Indien in de Bondsrepubliek een moratorium wordt afgekondigd, dat betrekking heeft op enigerlei verplichting van Duitse debiteuren tegenover buitenlandse banken-crediteuren krachtens deze overeenkomst, of  
@@ -3360,7 +3358,7 @@ Voorzover de samenhang niet een andere uitleg vereist, hebben in deze overeenkom
 
 (iii) Indien de buitenlandse bank-comité's na hierop de aandacht van het Duitse Comité te hebben gevestigd, zouden vaststellen dat een der in de inleiding (7) vervatte voorwaarden niet nagekomen is.     
 (2).  Een dergelijke opzegging laat de rechten en verplichtingen, welke vóór het tijdstip der opzegging uit deze overeenkomst zijn voortgevloeid, onaangetast. Zij behoort, om effectief te zijn, schriftelijk te worden medegedeeld, of door middel van een telegram of radiogram (onder opgave van het tijdstip waarop de overeenkomst beëindigd zal worden). De mededeling moet namens de meerderheid van de buitenlandse banken-comité's ondertekend zijn en gericht zijn aan de Bank voor Internationale Betalingen en aan het Duitse Comité. Het niet doen van een dergelijke mededeling aan het Duitse Comité maakt de opzegging echter niet krachteloos.   
-(3).  De afkondiging van een algemeen moratorium ten aanzien van het buitenland in de Bondsrepubliek, in welke vorm ook, brengt ipso facto de beëindiging van de overeenkomst met zich mede.   
+(3).  De afkondiging van een algemeen moratorium ten aanzien van het buitenland in de Bondsrepubliek, in welke vorm ook, brengt ipso facto de beëindiging van de overeenkomst met zich mede.  
 
 ### 3  
 
@@ -3375,13 +3373,13 @@ Voorzover de samenhang niet een andere uitleg vereist, hebben in deze overeenkom
 (3).  De in de vorige alinea bedoelde erkenning heeft geen betrekking op betalingen door Duitse debiteuren in Duitse valuta, met uitzondering van dergelijke betalingen, welke met uitdrukkelijke toestemming van de buitenlandse bank-crediteur aan deze of voor zijn rekening zijn gedaan.   
 (4).  Ten aanzien van kortlopende credieten of gedeelten daarvan, waarvoor een Duitse bank-debiteur overeenkomstig artikel 7, paragraaf 1 van de overeenkomst van 1939 (of van overeenkomstige bepalingen van een latere overeenkomst) een „eigene Wechsel” of een schriftelijke garantie van zijn cliënt moest afgeven, moet hij na toetreding tot deze overeenkomst aan de buitenlandse bankcrediteur een nieuwe „eigene Wechsel” afgeven of (indien de buitenlandse bank-crediteur zulks wenst) een nieuwe schriftelijke garantie, die niet vroeger gedateerd mag zijn dan deze overeenkomst; hij moet deze voor de buitenlandse bank-crediteur onder zich houden of aan deze toezenden, overeenkomstig de voorschriften van genoemde paragraaf (of overeenkomstige bepalingen). In een dergelijke schriftelijke garantie moet de cliënt zich verbinden, de Duitse bank-debiteur in de door deze gewenste vorm en in de gewenste mate schadeloos te zullen stellen, indien deze bank-debiteur vrijwillig het desbetreffende kortlopende crediet of een deel daarvan overeenkomstig artikel 10 van deze overeenkomst in Duitse Valuta terugbetaalt.   
 (5).  Iedere Duitse bank-debiteur of Duitse handels- of industriële debiteur is gehouden voor zijn rekening op de vervaldag wissels, die door een buitenlandse bank-crediteur zijn geaccepteerd, te voldoen.   
-(6).  Iedere buitenlandse bank-crediteur, die een kortlopend crediet heeft in een andere valuta dan die van zijn eigen land, kan te allen tijde gedurende het van kracht zijn van deze overeenkomst, door een schriftelijke mededeling aan zijn Duitse debiteur, een dergelijk crediet omzetten in de valuta van het land van de buitenlandse bank-crediteur. Deze omzetting moet vervolgens worden uitgevoerd in de boeken van de buitenlandse bank-crediteur en van de Duitse debiteur; het in de nieuwe valuta uitgedrukte bedrag van het kortlopende crediet moet, op basis van de officiële middenkoers op het tijdstip van de mededeling tussen de Duitse valuta en de valuta, waarin het crediet oorspronkelijk luidde enerzijds, en tussen de Duitse valuta en de nieuwe valuta anderzijds, berekend worden.   
+(6).  Iedere buitenlandse bank-crediteur, die een kortlopend crediet heeft in een andere valuta dan die van zijn eigen land, kan te allen tijde gedurende het van kracht zijn van deze overeenkomst, door een schriftelijke mededeling aan zijn Duitse debiteur, een dergelijk crediet omzetten in de valuta van het land van de buitenlandse bank-crediteur. Deze omzetting moet vervolgens worden uitgevoerd in de boeken van de buitenlandse bank-crediteur en van de Duitse debiteur; het in de nieuwe valuta uitgedrukte bedrag van het kortlopende crediet moet, op basis van de officiële middenkoers op het tijdstip van de mededeling tussen de Duitse valuta en de valuta, waarin het crediet oorspronkelijk luidde enerzijds, en tussen de Duitse valuta en de nieuwe valuta anderzijds, berekend worden.  
 
 ### 4  
 
 ####Schuldreductie (voorlopig niet van kracht)
 
-Iedere buitenlandse bank-crediteur heeft het recht drie maanden na het tot stand komen van deze overeenkomst en vervolgens na verloop van telkens drie kalendermaanden gedurende de looptijd van deze overeenkomst definitieve terugbetaling te eisen van ... % van het totaalbedrag van de hem door zijn Duitse debiteuren bij het in werking treden van deze overeenkomst verschuldigde kortlopende credieten, met het oog waarop de toetreding heeft plaats gevonden. Deze terugbetaling moet geschieden in de valuta van het land van inwoning van de buitenlandse bank-crediteur en het recht op terugbetaling van de gezamenlijke kortlopende credieten met ... % kan door de buitenlandse bank-crediteur worden uitgeoefend door toepassing van dit recht op terugbetaling van de gezamenlijke credieten naar zijn keuze op de door een of meer van zijn Duitse debiteuren verschuldigde kortlopende credieten. De buitenlandse bank-crediteur heeft het recht, zijn rechten op terugbetaling uit te oefenen ten aanzien van een bepaalde schuld van een bepaalde Duitse debiteur. (N.B. *Voor de betalingsmodaliteiten zullen eventueel verdere bepalingen nodig zijn.)*  
+Iedere buitenlandse bank-crediteur heeft het recht drie maanden na het tot stand komen van deze overeenkomst en vervolgens na verloop van telkens drie kalendermaanden gedurende de looptijd van deze overeenkomst definitieve terugbetaling te eisen van ... % van het totaalbedrag van de hem door zijn Duitse debiteuren bij het in werking treden van deze overeenkomst verschuldigde kortlopende credieten, met het oog waarop de toetreding heeft plaats gevonden. Deze terugbetaling moet geschieden in de valuta van het land van inwoning van de buitenlandse bank-crediteur en het recht op terugbetaling van de gezamenlijke kortlopende credieten met ... % kan door de buitenlandse bank-crediteur worden uitgeoefend door toepassing van dit recht op terugbetaling van de gezamenlijke credieten naar zijn keuze op de door een of meer van zijn Duitse debiteuren verschuldigde kortlopende credieten. De buitenlandse bank-crediteur heeft het recht, zijn rechten op terugbetaling uit te oefenen ten aanzien van een bepaalde schuld van een bepaalde Duitse debiteur. (N.B. *Voor de betalingsmodaliteiten zullen eventueel verdere bepalingen nodig zijn.)* 
 
 ### 5  
 
@@ -3404,7 +3402,7 @@ Iedere buitenlandse bank-crediteur heeft het recht drie maanden na het tot stand
 (9).  Laat een buitenlandse bank-crediteur na, binnen 3 maanden na iedere mededeling omtrent een vastgesteld percentage, van zijn rechten tot recommercialisatie geheel of gedeeltelijk gebruik te maken, dan vervalt zijn recht (zonder dat hierdoor echter het recht van deze buitenlandse bank-crediteur op verdere recommercialisaties na mededeling van een nieuw vastgesteld percentage wordt aangetast).   
 (10).  De Bank Deutscher Länder zal al het mogelijke doen om te bereiken, dat een zekere hoeveelheid zaken voor de recommercialisatie ter beschikking zal zijn.   
 (11).  Een buitenlandse bank-crediteur die een Ersatzlinie heeft geopend, en de debiteur, aan wie een dergelijk crediet wordt verleend zijn, wat deze Ersatzlinien betreft, onderworpen aan alle bepalingen van deze overeenkomst. Verklaringen betreffende de toetreding met betrekking hierop moeten worden uitgewisseld, zodra de buitenlandse bank-crediteur terugbetaling van de desbetreffende aangewezen schuld verkregen heeft.   
-(12).  Indien naar de mening van de Bank Deutscher Länder een Ersatzlinie niet voldoende wordt gebruikt in het belang van de Duitse economie, dan kan de Bank Deutscher Länder van de buitenlandse bank-crediteur verlangen, dat hij dat deel van het crediet, dat nog niet verbruikt is ter beschikking stelt van andere, door de buitenlandse bank-crediteur uitgekozen en niet door de Bank Deutscher Länder afgewezen banken of bankinstellingen of handels- of industrieondernemingen of -vennootschappen in de Bondsrepubliek (die Duitse debiteuren zijn of zullen worden). In een dergelijk geval vervalt de oorspronkelijke Ersatzlinie pro tanto, en het nieuwe crediet vormt tot een gelijk bedrag een nieuwe Ersatzlinie; de buitenlandse bankcrediteur is, evenals de nieuwe Duitse debiteur, wat betreft de nieuwe Ersatzlinie, onderworpen aan alle bepalingen van deze overeenkomst, terzake waarvan verklaringen van toetreding moeten worden uitgewisseld. Laat de buitenlandse bank-crediteur het na ten genoege van de Bank Deutscher Länder een nieuwe Duitse debiteur aan te wijzen, dan kan deze een nieuwe Duitse debiteur voorstellen; weigert de buitenlandse bank-crediteur de voorgestelde nieuwe Duitse debiteur te aanvaarden dan moet over de gegrondheid van deze weigering, op verzoek van de Bank Deutscher Länder beslist worden door overleg tussen het Duitse Comité en het bevoegde buitenlandse bankencomité; komen deze comité's niet tot overeenstemming dan beslist de arbitrage-commissie.   
+(12).  Indien naar de mening van de Bank Deutscher Länder een Ersatzlinie niet voldoende wordt gebruikt in het belang van de Duitse economie, dan kan de Bank Deutscher Länder van de buitenlandse bank-crediteur verlangen, dat hij dat deel van het crediet, dat nog niet verbruikt is ter beschikking stelt van andere, door de buitenlandse bank-crediteur uitgekozen en niet door de Bank Deutscher Länder afgewezen banken of bankinstellingen of handels- of industrieondernemingen of -vennootschappen in de Bondsrepubliek (die Duitse debiteuren zijn of zullen worden). In een dergelijk geval vervalt de oorspronkelijke Ersatzlinie pro tanto, en het nieuwe crediet vormt tot een gelijk bedrag een nieuwe Ersatzlinie; de buitenlandse bankcrediteur is, evenals de nieuwe Duitse debiteur, wat betreft de nieuwe Ersatzlinie, onderworpen aan alle bepalingen van deze overeenkomst, terzake waarvan verklaringen van toetreding moeten worden uitgewisseld. Laat de buitenlandse bank-crediteur het na ten genoege van de Bank Deutscher Länder een nieuwe Duitse debiteur aan te wijzen, dan kan deze een nieuwe Duitse debiteur voorstellen; weigert de buitenlandse bank-crediteur de voorgestelde nieuwe Duitse debiteur te aanvaarden dan moet over de gegrondheid van deze weigering, op verzoek van de Bank Deutscher Länder beslist worden door overleg tussen het Duitse Comité en het bevoegde buitenlandse bankencomité; komen deze comité's niet tot overeenstemming dan beslist de arbitrage-commissie.  
 
 ### 6  
 
@@ -3429,7 +3427,7 @@ Iedere buitenlandse bank-crediteur heeft het recht drie maanden na het tot stand
 
 (b) Indien en voorzover het stellen van een zekerheid in overeenstemming is met het bedrijf van de Duitse handels- of industriële debiteur en de zekerheid gegeven kan worden zonder de positie van andere crediteuren in gevaar te brengen.     
 (3).  Een Duitse debiteur moet onverwijld aan ieder van zijn buitenlandse banken-crediteuren op diens verlangen een exemplaar doen toekomen van zijn laatste goedgekeurde balans en verdere bijzonderheden verstrekken over zijn financiële toestand, welke de buitenlandse bank-crediteur redelijkerwijze kan vergen.   
-(4).  Een buitenlands bank-crediteur kan met toestemming van de de Bank Deutscher Länder elke zekerheid, die op het tijdstip van het tot stand komen van deze overeenkomst met betrekking tot een kortlopend crediet bestond, buiten het gebied van de Bondsrepubliek realiseren en de netto-opbrengst daarvan (na betaling van alle kosten ontstaan door de realisering) gebruiken ter definitieve vermindering of ter delging van het desbetreffende kortlopende crediet. Hierbij wordt vooropgesteld, dat hij verplicht is de in het belang van de Duitse debiteur billijkerwijze te verkrijgen beste voorwaarden te bedingen.   
+(4).  Een buitenlands bank-crediteur kan met toestemming van de de Bank Deutscher Länder elke zekerheid, die op het tijdstip van het tot stand komen van deze overeenkomst met betrekking tot een kortlopend crediet bestond, buiten het gebied van de Bondsrepubliek realiseren en de netto-opbrengst daarvan (na betaling van alle kosten ontstaan door de realisering) gebruiken ter definitieve vermindering of ter delging van het desbetreffende kortlopende crediet. Hierbij wordt vooropgesteld, dat hij verplicht is de in het belang van de Duitse debiteur billijkerwijze te verkrijgen beste voorwaarden te bedingen.  
 
 ### 7  
 
@@ -3441,13 +3439,13 @@ Een buitenlandse bank-crediteur heeft het recht elk kortlopend crediet of een ge
 
 (b) terstond na het tot stand komen van een dergelijke overdracht de vereiste verklaringen van toetreding tussen de nieuwe crediteur en de Duitse debiteur worden uitgewisseld;  
 
-(c) iedere zodanige overdracht aan een buitenlandse bank-crediteur of aan een der andere hierboven bedoelde personen, firma's of vennootschappen in het land van een der andere buitenlandse bankencomité's bovendien aan de toestemming van de Bank Deutscher Länder onderworpen wordt.   Is eenmaal de overdracht tot stand gekomen en zijn de vereiste verklaringen van toetreding uitgewisseld, dan heeft de nieuwe crediteur dezelfde rechten en verplichtingen met betrekking tot het kortlopend crediet of een gedeelte daarvan als ware hij de oorspronkelijke crediteur.  
+(c) iedere zodanige overdracht aan een buitenlandse bank-crediteur of aan een der andere hierboven bedoelde personen, firma's of vennootschappen in het land van een der andere buitenlandse bankencomité's bovendien aan de toestemming van de Bank Deutscher Länder onderworpen wordt.   Is eenmaal de overdracht tot stand gekomen en zijn de vereiste verklaringen van toetreding uitgewisseld, dan heeft de nieuwe crediteur dezelfde rechten en verplichtingen met betrekking tot het kortlopend crediet of een gedeelte daarvan als ware hij de oorspronkelijke crediteur. 
 
 ### 8  
 
 ####Verwisseling van debiteur
 
-Iedere buitenlandse bank-crediteur kan op ieder gewenst tijdstip gedurende de looptijd van deze overeenkomst met toestemming van de Duitse debiteur (die hiervoor vooraf de toestemming van de Bank Deutscher Länder moet vragen) maatregelen nemen met betrekking tot de overdracht van de verplichtingen, voortvloeiend uit een door een Duitse debiteur verschuldigd kortlopend crediet (waaronder niet te verstaan is een „Ersatzlinie” in de zin van artikel 5 van deze overeenkomst) op een andere bankier, een andere bankinstelling of een andere handels- of industriële firma of vennootschap in de Bondsrepubliek (die Duitse debiteur zijn of kunnen worden). Is de overdracht tot stand gekomen, dan zijn de buitenlandse bank-crediteur en de nieuwe Duitse debiteur met betrekking tot het crediet onderworpen aan alle bepalingen van deze overeenkomst, en de daarop betrekking hebbende verklaringen van toetreding moeten worden uitgewisseld.  
+Iedere buitenlandse bank-crediteur kan op ieder gewenst tijdstip gedurende de looptijd van deze overeenkomst met toestemming van de Duitse debiteur (die hiervoor vooraf de toestemming van de Bank Deutscher Länder moet vragen) maatregelen nemen met betrekking tot de overdracht van de verplichtingen, voortvloeiend uit een door een Duitse debiteur verschuldigd kortlopend crediet (waaronder niet te verstaan is een „Ersatzlinie” in de zin van artikel 5 van deze overeenkomst) op een andere bankier, een andere bankinstelling of een andere handels- of industriële firma of vennootschap in de Bondsrepubliek (die Duitse debiteur zijn of kunnen worden). Is de overdracht tot stand gekomen, dan zijn de buitenlandse bank-crediteur en de nieuwe Duitse debiteur met betrekking tot het crediet onderworpen aan alle bepalingen van deze overeenkomst, en de daarop betrekking hebbende verklaringen van toetreding moeten worden uitgewisseld. 
 
 ### 9  
 
@@ -3458,7 +3456,7 @@ Iedere buitenlandse bank-crediteur kan op ieder gewenst tijdstip gedurende de lo
 (3).  Deze rechten op terugbetaling kunnen door de buitenlandse bank-crediteur naar zijn keuze worden uitgeoefend door toepassing op door een of meer van zijn Duitse debiteuren verschuldigde kortlopende credieten of gedeelten daarvan.   
 (4).  Na elke dergelijke gebruikmaking kan de buitenlandse bankcrediteur de Duitse debiteur of debiteuren, ten opzichte van wier kortlopende credieten of gedeelten daarvan hij de bedoelde rechten op terugbetaling wil uitoefenen, een desbetreffende mededeling doen toekomen; een doorslag van deze mededeling moet gelijktijdig door de buitenlandse bank-crediteur, met bijzonderheden over het nieuwe crediet en de gebruikmaking daarvan, toegezonden worden aan de Bank Deutscher Länder. De desbetreffende Duitse debiteur moet zo snel mogelijk door bemiddeling van de Bank Deutscher Länder zorg dragen voor de definitieve terugbetaling in buitenlandse valuta van het in de mededeling van de crediteur vermelde bedrag.   
 (5).  De bepalingen van de leden (5), (6) en (7) van artikel 5 van deze overeenkomst gelden mutatis mutandis als in dit artikel geïncorporeerd.   
-(6).  Laat een Duitse debiteur na een vordering tot terugbetaling binnen redelijke tijd op te volgen, dan heeft de buitenlandse bankcrediteur het recht om het desbetreffende recht op terugbetaling of gedeelten daarvan in overeenstemming met de voorgaande bepalingen uit te oefenen op andere kortlopende credieten.   
+(6).  Laat een Duitse debiteur na een vordering tot terugbetaling binnen redelijke tijd op te volgen, dan heeft de buitenlandse bankcrediteur het recht om het desbetreffende recht op terugbetaling of gedeelten daarvan in overeenstemming met de voorgaande bepalingen uit te oefenen op andere kortlopende credieten.  
 
 ### 10  
 
@@ -3467,13 +3465,13 @@ Iedere buitenlandse bank-crediteur kan op ieder gewenst tijdstip gedurende de lo
 (1).  Iedere Duitse debiteur kan op verzoek van zijn buitenlandse bank-crediteur terugbetaling van een bepaald kortlopend crediet of een gedeelte daarvan overeenkomen in Duitse valuta - overeenkomstig de hierna volgende bepalingen omgerekend - en wel in dezelfde mate als waarin de betrokken Duitse debiteur op 24 Mei 1952 een dergelijke terugbetaling vrijwillig had kunnen doen krachtens de aan de Bank Deutscher Länder gerichte richtlijnen (50) 6 van de Geallieerde banken-commissie van 26 Juni 1950.   
 (2).  De omrekening van buitenlandse valuta in Duitse valuta geschiedt tegen de officiële middenkoers geldend in de Bondsrepubliek op de werkdag vóór de dag waarop de betaling in Duitse valuta plaats vindt.   
 (3).  Iedere dergelijke betaling betekent, na aanvaarding door de buitenlandse bank-crediteur, een definitieve terugbetaling van het bedrag in buitenlandse valuta van het kortlopend crediet of een gedeelte van het kortlopend crediet, omgerekend op basis van de omrekeningsvoet bedoeld in lid (2) van dit artikel.   
-(4).  Tegoeden in Duitse valuta, ontstaan uit terugbetalingen van kortlopende credieten overeenkomstig dit artikel of overeenkomstig artikel 11a, zullen kunnen worden gebruikt en zullen overdraagbaar zijn, voorzover zulks het geval is krachtens bepalingen van de Geallieerde wetten, verordeningen, richtlijnen en vergunningen (met inbegrip van door de Bank Deutscher Länder verleende algemene en speciale vergunningen), die op 24 Mei 1952 in de Bondsrepubliek van kracht waren, of voorzover overige bepalingen van de Bank Deutscher Länder zulks toelaten. Echter mag geen voorschrift van de Bank Deutscher Länder met betrekking tot de overdracht en de aanwending van tegoeden in Duitse valuta, voorzover het buitenlandse banken-crediteuren betreft een ongunstiger resultaat voor deze crediteuren hebben of hun rechten meer beperken dan bedoelde wetten, verordeningen, richtlijnen en vergunningen.   
+(4).  Tegoeden in Duitse valuta, ontstaan uit terugbetalingen van kortlopende credieten overeenkomstig dit artikel of overeenkomstig artikel 11a, zullen kunnen worden gebruikt en zullen overdraagbaar zijn, voorzover zulks het geval is krachtens bepalingen van de Geallieerde wetten, verordeningen, richtlijnen en vergunningen (met inbegrip van door de Bank Deutscher Länder verleende algemene en speciale vergunningen), die op 24 Mei 1952 in de Bondsrepubliek van kracht waren, of voorzover overige bepalingen van de Bank Deutscher Länder zulks toelaten. Echter mag geen voorschrift van de Bank Deutscher Länder met betrekking tot de overdracht en de aanwending van tegoeden in Duitse valuta, voorzover het buitenlandse banken-crediteuren betreft een ongunstiger resultaat voor deze crediteuren hebben of hun rechten meer beperken dan bedoelde wetten, verordeningen, richtlijnen en vergunningen.  
 
 ### 11  
 
 ####Provisies en renten
 
-Vanaf het tijdstip van het tot stand komen van deze overeenkomst moeten alle provisies en disconto-kosten, binnen het kader van het gewone bankgebruik evenals zegels op wissels vooruit, en rente maandelijks worden voldaan in de valuta waarin het desbetreffende crediet loopt. Het is gewenst dat de berekening van provisies en renten gehouden wordt binnen redelijke grenzen, die aangepast zijn aan de omstandigheden; zou over de hoogte hiervan een meningsverschil ontstaan tussen een buitenlandse bank-crediteur en een Duitse debiteur, dan kan de kwestie voorgelegd worden aan de onderscheidene Centrale Banken.  
+Vanaf het tijdstip van het tot stand komen van deze overeenkomst moeten alle provisies en disconto-kosten, binnen het kader van het gewone bankgebruik evenals zegels op wissels vooruit, en rente maandelijks worden voldaan in de valuta waarin het desbetreffende crediet loopt. Het is gewenst dat de berekening van provisies en renten gehouden wordt binnen redelijke grenzen, die aangepast zijn aan de omstandigheden; zou over de hoogte hiervan een meningsverschil ontstaan tussen een buitenlandse bank-crediteur en een Duitse debiteur, dan kan de kwestie voorgelegd worden aan de onderscheidene Centrale Banken. 
 
 ### 11a  
 
@@ -3483,21 +3481,21 @@ Rente op kortlopende credieten wordt op de voet van 4 % berekend over de tijd va
 
 (i) hetzij vanaf het tijdstip van de totstandkoming van deze overeenkomst toegevoegd worden aan de hoofdsom van het desbetreffende kortlopende crediet en zullen dan met betrekking tot het toetreden tot deze overeenkomst en met betrekking tot alle andere doeleinden van deze overeenkomst een deel vormen van het kortlopende crediet,  
 
-(ii) of worden uitgesteld en in de desbetreffende buitenlandse valuta vervallen bij de beëindiging van deze overeenkomst, onverminderd echter dat te allen tijde vóór die beëindiging aan de buitenlandse bank-crediteur, overeenkomstig artikel 10 van deze overeenkomst, het totaal der uitgestelde rente of een gedeelte daarvan in Duitse mark betaald kan worden (omgerekend tegen de officiële middenkoers geldend in de Bondsrepubliek één werkdag voor die der betaling).   Iedere buitenlandse bank-crediteur moet gelijktijdig met het toezenden van zijn verklaring van toetreding aan zijn Duitse debiteur mededelen, welke van deze opties hij wenst toe te passen; indien dit niet geschiedt, zal de crediteur geacht worden van zijn optierecht (i) gebruik te hebben gemaakt.  
+(ii) of worden uitgesteld en in de desbetreffende buitenlandse valuta vervallen bij de beëindiging van deze overeenkomst, onverminderd echter dat te allen tijde vóór die beëindiging aan de buitenlandse bank-crediteur, overeenkomstig artikel 10 van deze overeenkomst, het totaal der uitgestelde rente of een gedeelte daarvan in Duitse mark betaald kan worden (omgerekend tegen de officiële middenkoers geldend in de Bondsrepubliek één werkdag voor die der betaling).   Iedere buitenlandse bank-crediteur moet gelijktijdig met het toezenden van zijn verklaring van toetreding aan zijn Duitse debiteur mededelen, welke van deze opties hij wenst toe te passen; indien dit niet geschiedt, zal de crediteur geacht worden van zijn optierecht (i) gebruik te hebben gemaakt. 
 
 ### 12  
 
 ####Evenredige verdeling van de betalingen en het als zekerheid gestelde door de Duitse banken
 
 (1).  Indien een Duitse debiteur, die zowel een schuld heeft aan een buitenlandse bank-crediteur als aan een Duitse bank-debiteur, gedurende de looptijd van deze overeenkomst of binnen 3 maanden na afloop van die looptijd insolvent geworden is, of heeft verzocht om opening van een schikkingsprocedure of heeft getracht tot een andere regeling van soortgelijke aard te komen met alle of enkele van zijn crediteuren, of failliet is verklaard, dan is de Duitse bankdebiteur gehouden om alle terugbetalingen, die hij van de Duitse debiteur heeft ontvangen gedurende de laatste 4 maanden voordat een dergelijk feit zich voordoet, evenals al het tot zekerheid strekkende (waaronder mede begrepen garanties en borgtochten), dat hij gedurende de looptijd van deze overeenkomst van hem heeft verkregen, ponds-pondsgewijze met de buitenlandse bank-crediteur te verdelen.   
-(2).  De faillissementscurator, iedere Duitse persoon, die belast is met het uitvoeren van de schikking of de regeling van hogerbedoelde aard, alsmede de Duitse bank-debiteur, zijn gehouden alle belanghebbende buitenlandse banken-crediteuren volledige inlichtingen te verstrekken aangaande hogerbedoelde terugbetalingen en zekerheidsstellingen.   
+(2).  De faillissementscurator, iedere Duitse persoon, die belast is met het uitvoeren van de schikking of de regeling van hogerbedoelde aard, alsmede de Duitse bank-debiteur, zijn gehouden alle belanghebbende buitenlandse banken-crediteuren volledige inlichtingen te verstrekken aangaande hogerbedoelde terugbetalingen en zekerheidsstellingen.  
 
 ### 13  
 
 ####Instandhouding van de aansprakelijkheid van garanten, borgen enz.
 
 (1).  Geen garant, borg, endossant of verzekeraar van een crediet in de Bondsrepubliek zal met betrekking tot een kortlopend crediet van zijn verplichtingen, die voortvloeien uit de garantie, het zijn van borg, het endossement of de verzekering ontheven zijn omdat krachtens deze overeenkomst of ten gevolge daarvan een uitstel of een wijziging in de vorm van het kortlopende crediet of een deel daarvan (met inbegrip van de wijziging bedoeld in artikel 19 van deze overeenkomst) is gekomen. Evenmin zal degene, die in de Bondsrepubliek voor een kortlopend crediet onvoorwaardelijk of voorwaardelijk als debiteur aansprakelijk is, bevrijd worden door het feit dat een derde een gedeeltelijke betaling doet op het desbetreffende crediet, of door het feit dat krachtens deze overeenkomst of tengevolge daarvan een wijziging in de vorm van het kortlopend crediet of een gedeelte daarvan komt. Indien de verplichting van een Duitse debiteur gegarandeerd is of verzekerd door een garant, borg of credietverzekeraar buiten de Bondsrepubliek, die zich met het uitstel of met een wijziging in de vorm van de verplichting niet accoord verklaart, dan zullen de voordelen voortvloeiend uit deze overeenkomst de Duitse debiteur niet toekomen.   
-(2).  Indien een lid van een firma, die een Duitse bank-debiteur of een Duitse handels- of industriële debiteur is, tijdens de looptijd van deze overeenkomst ophoudt lid te zijn door overlijden of op enige andere grond, dan geldt iedere verplichting, voortvloeiende uit een overeenkomstig deze overeenkomst lopend kortlopend crediet als een verplichting die ten tijde van dat ophouden bestond. De persoonlijke aansprakelijkheid van een dergelijke persoon of, in geval van zijn overlijden, de aansprakelijkheid van zijn nalatenschap voor verplichtingen van de firma, die bestonden op het tijdstip van dat ophouden, zal zich uitstrekken tot iedere verplichting voortvloeiend uit een dergelijk kortlopend crediet, zolang dat overeenkomstig deze overeenkomst in stand wordt gehouden.   
+(2).  Indien een lid van een firma, die een Duitse bank-debiteur of een Duitse handels- of industriële debiteur is, tijdens de looptijd van deze overeenkomst ophoudt lid te zijn door overlijden of op enige andere grond, dan geldt iedere verplichting, voortvloeiende uit een overeenkomstig deze overeenkomst lopend kortlopend crediet als een verplichting die ten tijde van dat ophouden bestond. De persoonlijke aansprakelijkheid van een dergelijke persoon of, in geval van zijn overlijden, de aansprakelijkheid van zijn nalatenschap voor verplichtingen van de firma, die bestonden op het tijdstip van dat ophouden, zal zich uitstrekken tot iedere verplichting voortvloeiend uit een dergelijk kortlopend crediet, zolang dat overeenkomstig deze overeenkomst in stand wordt gehouden.  
 
 ### 14  
 
@@ -3508,19 +3506,19 @@ Rente op kortlopende credieten wordt op de voet van 4 % berekend over de tijd va
 (3).  Indien te eniger tijd gedurende de looptijd van deze overeenkomst een buitenlandse bank-crediteur stelt, dat een Duitse debiteur inbreuk heeft gemaakt op enigerlei bepaling van deze overeenkomst en dat hij heeft nagelaten, hoewel daartoe uitgenodigd deze inbreuk goed te maken binnen 2 weken na ontvangst van de formele mededeling van de buitenlandse bank-crediteur, dan kan de buitenlandse bank-crediteur het geschil ter beslissing voorleggen aan de Arbitragecommissie. Gebeurt dit, dan mag, tot aan de beslissing van de Arbitrage-commissie geen der partijen enigerlei stappen in zulk een zaak ondernemen. Indien de uitspraak van de Arbitrage-commissie ten nadele van de Duitse debiteur luidt en deze nalaat aan de uitspraak binnen 2 weken na de bekendmaking daarvan te voldoen dan verliest hij zonder meer alle rechten of voordelen uit hoofde van deze overeenkomst met betrekking tot het door de desbetreffende buitenlandse bank-crediteur te zijner beschikking gehouden kortlopende crediet.   
 (4).  Indien een Duitse debiteur te eniger tijd zijn rechten of voordelen uit hoofde van deze overeenkomst op grond van enigerlei bepaling van het voorgaande lid van dit artikel verliest dan worden bij het begin van de faillissements- of schikkingsprocedure, bij het intreden der insolventie of van andere regelingen van soortgelijke aard met alle of enkele van zijn crediteuren, zijn verplichtingen tegenover al zijn buitenlandse banken-crediteuren, of in geval van een inbreuk op het contract zijn verplichtingen tegenover de door deze inbreuk getroffen buitenlandse bank-crediteur, terstond opeisbaar en betaalbaar en het staat vervolgens de in aanmerking komende buitenlandse bank(en)-crediteur(en) vrij een vervolging te doen instellen en een vonnis te doen voltrekken met betrekking tot hun rechten tegenover de Duitse debiteur, alsmede van alle rechtsmiddelen gebruik te maken die te hunner beschikking zouden staan indien zij woonachtig waren in de Bondsrepubliek.   
 (5).  Het feit dat een Duitse debiteur de voordelen uit deze overeenkomst heeft verloren laat de rechten van een derde, die ten tijde van dat verlies bestonden, onaangetast; met name blijven de rechten onaangetast van zijn buitenlandse bank-crediteur tegenover de Deutsche Golddiskontbank met betrekking tot een garantie voor kortlopende credieten, waarvoor de desbetreffende debiteur aansprakelijk was.   
-(6).  Indien een Duitse debiteur te eniger tijd om enigerlei andere reden dan het openen van een gerechtelijke schikkingsprocedure de rechten of voordelen uit hoofde van deze overeenkomst verliest op grond van een krachtens lid (2) van dit artikel plaatsgevonden hebbende opzegging verliest, dan zijn de bepalingen van artikel 16 van deze overeenkomst niet van toepassing op de verplichtingen van de debiteur met betrekking tot de desbetreffende schuld.   
+(6).  Indien een Duitse debiteur te eniger tijd om enigerlei andere reden dan het openen van een gerechtelijke schikkingsprocedure de rechten of voordelen uit hoofde van deze overeenkomst verliest op grond van een krachtens lid (2) van dit artikel plaatsgevonden hebbende opzegging verliest, dan zijn de bepalingen van artikel 16 van deze overeenkomst niet van toepassing op de verplichtingen van de debiteur met betrekking tot de desbetreffende schuld.  
 
 ### 15  
 
 ####Instandhouding van credieten voor langere periodes
 
-Iedere buitenlandse bank-crediteur kan met zijn Duitse debiteur regelingen treffen over de instandhouding van zijn kortlopende credieten of enige daarvan voor een langere periode dan in artikel 2 van deze overeenkomst is voorzien of wel over de vervanging van deze credieten door andere, die voor een langere periode dan voorzien in genoemd artikel in stand zullen worden gehouden. Wordt een dergelijke regeling getroffen dan zullen, nadat de toestemming van de Bank Deutscher Länder verkregen is, de aldus verlengde of vervangen kortlopende credieten ophouden onderworpen te zijn aan deze overeenkomst.  
+Iedere buitenlandse bank-crediteur kan met zijn Duitse debiteur regelingen treffen over de instandhouding van zijn kortlopende credieten of enige daarvan voor een langere periode dan in artikel 2 van deze overeenkomst is voorzien of wel over de vervanging van deze credieten door andere, die voor een langere periode dan voorzien in genoemd artikel in stand zullen worden gehouden. Wordt een dergelijke regeling getroffen dan zullen, nadat de toestemming van de Bank Deutscher Länder verkregen is, de aldus verlengde of vervangen kortlopende credieten ophouden onderworpen te zijn aan deze overeenkomst. 
 
 ### 16  
 
 ####Verstrekking van vreemde valuta's
 
-De Bank Deutscher Länder verplicht zich te allen tijde gedurende de looptijd van deze overeenkomst de vreemde valuta's te verstrekken die nodig zijn om aan de Duitse debiteur het nakomen van zijn verplichtingen, die voortvloeien uit deze overeenkomst, mogelijk te maken en voor welke de verstrekking van vreemde valuta's noodzakelijk is.  
+De Bank Deutscher Länder verplicht zich te allen tijde gedurende de looptijd van deze overeenkomst de vreemde valuta's te verstrekken die nodig zijn om aan de Duitse debiteur het nakomen van zijn verplichtingen, die voortvloeien uit deze overeenkomst, mogelijk te maken en voor welke de verstrekking van vreemde valuta's noodzakelijk is. 
 
 ### 17  
 
@@ -3529,25 +3527,25 @@ De Bank Deutscher Länder verplicht zich te allen tijde gedurende de looptijd va
 (1).  Teneinde periodiek met de Duitse Commissie en met de Bank Deutscher Länder overleg te plegen en teneinde de buitenlandse banken-comité's op de hoogte te houden van vragen, die zich gedurende de looptijd van de overeenkomst voordoen en tevens teneinde verdere met de bepalingen van deze overeenkomst in overeenstemming zijnde plichten waar te nemen die het, hetzij door de overeenkomst zelf of door de buitenlandse banken-comité's worden toegewezen, kan te allen tijde door de voorzitter van het gezamenlijke comité van vertegenwoordigers van de buitenlandse banken-comité's een zitting worden bijeengeroepen van een raadgevend comité, dat bestaat uit afgevaardigden van de buitenlandse banken-comité's; hij moet zulk een zitting steeds dan bijeen roepen wanneer hem daarom wordt verzocht door het Duitse Comité of door een van de buitenlandse banken-comité's. Ieder buitenlands banken-comité, dat deze overeenkomst tekent is gerechtigd een afgevaardigde te benoemen. Iedere zitting die ingevolge of in overeenstemming met dit artikel is belegd kan door een mededeling van de voorzitter van vorenbedoeld gezamenlijk comité weder worden afgelast of uitgesteld.   
 (2).  Behoudens de hiernavolgende bepalingen worden alle beslissingen van de afgevaardigden genomen door stemming van de aanwezige afgevaardigden, die een meerderheid van de buitenlandse banken-comité's moeten vertegenwoordigen, op voorwaarde, dat deze meerderheid der buitenlandse banken-comité's ten minste 50 % vertegenwoordigt van het nominale bedrag van de te dien tijde nog lopende kortlopende credieten.   
 (3).  Het aldus aangewezen comité kan bij eenparigheid van stemmen van de bij een zitting tegenwoordige afgevaardigden en met de goedkeuring van het Duitse Comité de bepalingen van deze overeenkomst interpreteren en van geval tot geval wijzigen. Echter mag er geen wijziging worden aangebracht, die de rechten der partijen bij deze overeenkomst, of van hen die er toe toegetreden zijn, essentieel verandert. Het constateren door het aldus aangewezen comité en door het Duitse Comité, dat een dergelijke wijziging bedoelde rechten niet wezenlijk verandert is voor alle partijen bij de overeenkomst en voor degenen die ertoe toetreden bindend.   
-(4).  Indien het te eniger tijd op grond van de dan in de Bondsrepubliek van kracht zijnde wetten voor een buitenlandse bank-crediteur mogelijk is, de terugbetaling van een kortlopend crediet of een gedeelte daarvan in Duitse valuta te vragen, dan kan het Raadgevend Comité bij eenparig besluit van de ter vergadering aanwezige afgevaardigden (of door schriftelijke toestemming van alle afgevaardigden zonder dat een officiële vergadering plaats heeft) de artikelen 10 en 11 *a* van deze overeenkomst zodanig wijzigen, dat de debiteur tot de desbetreffende betaling in Duitse valuta verplicht is, en wel indien en voorzover een buitenlandse bank-crediteur zulks verlangt, onder voorbehoud echter van eventueel in de Bondsrepubliek met betrekking tot dergelijke betalingen bestaande beperkingen. ledere dergelijke wijziging is bindend voor alle partijen bij deze overeenkomst en voor degenen, die daartoe toetreden.   
+(4).  Indien het te eniger tijd op grond van de dan in de Bondsrepubliek van kracht zijnde wetten voor een buitenlandse bank-crediteur mogelijk is, de terugbetaling van een kortlopend crediet of een gedeelte daarvan in Duitse valuta te vragen, dan kan het Raadgevend Comité bij eenparig besluit van de ter vergadering aanwezige afgevaardigden (of door schriftelijke toestemming van alle afgevaardigden zonder dat een officiële vergadering plaats heeft) de artikelen 10 en 11*a* van deze overeenkomst zodanig wijzigen, dat de debiteur tot de desbetreffende betaling in Duitse valuta verplicht is, en wel indien en voorzover een buitenlandse bank-crediteur zulks verlangt, onder voorbehoud echter van eventueel in de Bondsrepubliek met betrekking tot dergelijke betalingen bestaande beperkingen. ledere dergelijke wijziging is bindend voor alle partijen bij deze overeenkomst en voor degenen, die daartoe toetreden.  
 
 ### 18  
 
 ####Beleggingen in Duitse valuta in het kader van vroegere overeenkomsten
 
-Vanaf het tijdstip van het tot stand komen van deze overeenkomst moeten renten en opbrengsten van beleggingen, verkregen met registermarktegoeden overeenkomstig artikel 10 van een der vroegere overeenkomsten, behandeld worden overeenkomstig de bepalingen van artikel 10 (5) (*g*) van de overeenkomst van 1939, op voorwaarde dat de voet, waartegen deze renten en opbrengsten worden getransfereerd, de rentevoet die op dat ogenblik voor kortlopende credieten betaald moet worden aan buitenlandse banken-crediteuren van hetzelfde crediteur-land, niet te boven gaat.  
+Vanaf het tijdstip van het tot stand komen van deze overeenkomst moeten renten en opbrengsten van beleggingen, verkregen met registermarktegoeden overeenkomstig artikel 10 van een der vroegere overeenkomsten, behandeld worden overeenkomstig de bepalingen van artikel 10 (5) (*g*) van de overeenkomst van 1939, op voorwaarde dat de voet, waartegen deze renten en opbrengsten worden getransfereerd, de rentevoet die op dat ogenblik voor kortlopende credieten betaald moet worden aan buitenlandse banken-crediteuren van hetzelfde crediteur-land, niet te boven gaat. 
 
 ### 19  
 
 ####Vervaltermijn van de credieten
 
-Alle verplichtingen, die voortvloeien uit onder deze overeenkomst vallende kortlopende credieten worden opeisbaar en betaalbaar bij afloop of beëindiging van deze overeenkomst. De buitenlandse bankencrediteuren hebben dan het recht, de rekeningen van de Duitse debiteuren te belasten met een bedrag ter hoogte van alle voor rekening van deze Duitse debiteuren geaccepteerde wissels, ook dan, wanneer die wissels eerst later vervallen. Echter mogen renten slechts berekend worden vanaf de vervaldag der wissels. Met betrekking tot geconfirmeerde credieten heeft de buitenlandse bank-crediteur het recht het totaal-bedrag van alle wissels, die getrokken zijn op grond van zulk een crediet, voor afloop van deze overeenkomst, te debiteren als een werkelijke verplichting, ongeacht het feit, dat die wissels op bedoeld tijdstip nog niet voor acceptering waren gepresenteerd. Dat gedeelte van een geconfirmeerd crediet, waarvan nog geen gebruik gemaakt is kan worden gedebiteerd als een voorwaardelijke verplichting; echter mogen geen renten in rekening worden gebracht, voordat de wissels vervallen of voordat de buitenlandse bank-crediteur effectief voorschotten in contanten heeft gegeven in verband met een dergelijk crediet.  
+Alle verplichtingen, die voortvloeien uit onder deze overeenkomst vallende kortlopende credieten worden opeisbaar en betaalbaar bij afloop of beëindiging van deze overeenkomst. De buitenlandse bankencrediteuren hebben dan het recht, de rekeningen van de Duitse debiteuren te belasten met een bedrag ter hoogte van alle voor rekening van deze Duitse debiteuren geaccepteerde wissels, ook dan, wanneer die wissels eerst later vervallen. Echter mogen renten slechts berekend worden vanaf de vervaldag der wissels. Met betrekking tot geconfirmeerde credieten heeft de buitenlandse bank-crediteur het recht het totaal-bedrag van alle wissels, die getrokken zijn op grond van zulk een crediet, voor afloop van deze overeenkomst, te debiteren als een werkelijke verplichting, ongeacht het feit, dat die wissels op bedoeld tijdstip nog niet voor acceptering waren gepresenteerd. Dat gedeelte van een geconfirmeerd crediet, waarvan nog geen gebruik gemaakt is kan worden gedebiteerd als een voorwaardelijke verplichting; echter mogen geen renten in rekening worden gebracht, voordat de wissels vervallen of voordat de buitenlandse bank-crediteur effectief voorschotten in contanten heeft gegeven in verband met een dergelijk crediet. 
 
 ### 20  
 
 ####Arbitrage
 
-(1).  Eventuele geschillen, die tussen buitenlandse banken-crediteuren enerzijds en Duitse debiteuren of de Bank Deutscher Länder anderzijds ontstaan over de interpretatie van deze overeenkomst of over andere vragen, die voortvloeien uit deze overeenkomst moeten worden voorgelegd aan een Arbitrage-commissie, in te stellen overeenkomstig de bepalingen van dit artikel. <sup> 1)  Zie Bijlage III *a*.  </sup>   
+(1).  Eventuele geschillen, die tussen buitenlandse banken-crediteuren enerzijds en Duitse debiteuren<sup> 1)  Zie Bijlage III*a*. </sup>of de Bank Deutscher Länder anderzijds ontstaan over de interpretatie van deze overeenkomst of over andere vragen, die voortvloeien uit deze overeenkomst moeten worden voorgelegd aan een Arbitrage-commissie, in te stellen overeenkomstig de bepalingen van dit artikel.   
 (2).  De Arbitrage-commissie wordt als volgt ingesteld: 
 
 (a) De Bank voor Internationale Betalingen benoemt 3 personen tot vaste leden van de Commissie; één daarvan wordt tot voorzitter van de Commissie, een tweede tot plv. voorzitter benoemd; laatstbedoelde heeft tot taak bij afwezigheid van de voorzitter de vergaderingen van de Commissie te leiden.  
@@ -3563,19 +3561,19 @@ Alle verplichtingen, die voortvloeien uit onder deze overeenkomst vallende kortl
 
 (d) De Arbitrage-commissie moet in het kort schriftelijk de overwegingen uiteenzetten van iedere genomen beslissing, onverschillig of deze al dan niet met eenparigheid van stemmen is genomen. Deze overwegingen kunnen, indien daartoe met algemene stemmen door de Commissie wordt besloten, achterwege blijven, tenzij een der partijen voor de behandeling om schriftelijke vastlegging van de overwegingen heeft verzocht. Worden geen schriftelijke overwegingen gegeven, dan moet in de beslissing worden vastgelegd, dat de Commissie met algemene stemmen een desbetreffend besluit genomen heeft en dat geen der partijen een verzoek als hierboven bedoeld, heeft ingediend.  
 
-(e) Indien de Arbitrage-commissie zich met betrekking tot de beslissing over een aan haar voorgelegd geschil niet competent verklaart of indien de bevoegde gewone rechterlijke instantie in het land van een der bij de procedure belanghebbende partijen zich onbevoegd acht op grond van het feit, dat de Commissie bevoegd zou zijn, of indien het geschil geheel of ten dele terugverwezen wordt naar de Commissie, dan moet in beide gevallen de Commissie over het geschil beslissen.     
+(e) Indien de Arbitrage-commissie zich met betrekking tot de beslissing over een aan haar voorgelegd geschil niet competent verklaart of indien de bevoegde gewone rechterlijke instantie in het land van een der bij de procedure belanghebbende partijen zich onbevoegd acht op grond van het feit, dat de Commissie bevoegd zou zijn, of indien het geschil geheel of ten dele terugverwezen wordt naar de Commissie, dan moet in beide gevallen de Commissie over het geschil beslissen.    
 
 ### 21  
 
 ####Onkosten
 
-De kosten en uitgaven die ontstaan en samenhangen met de voorbereiding, de toepassing en de uitvoering van deze overeenkomst komen, met inbegrip van de uitgaven die ontstaan zijn voor de buitenlandse banken-comité's voor rechtsbijstand of uit andere hoofde voor het tot stand komen van deze overeenkomst (doch niet vroeger dan 1 November 1950) en die ontstaan zijn gedurende de looptijd van de overeenkomst, ten laste van de Duitse debiteuren. Het Duitse Comité moet zorg dragen voor de betaling van al deze kosten, uitgaven en remuneraties.  
+De kosten en uitgaven die ontstaan en samenhangen met de voorbereiding, de toepassing en de uitvoering van deze overeenkomst komen, met inbegrip van de uitgaven die ontstaan zijn voor de buitenlandse banken-comité's voor rechtsbijstand of uit andere hoofde voor het tot stand komen van deze overeenkomst (doch niet vroeger dan 1 November 1950) en die ontstaan zijn gedurende de looptijd van de overeenkomst, ten laste van de Duitse debiteuren. Het Duitse Comité moet zorg dragen voor de betaling van al deze kosten, uitgaven en remuneraties. 
 
 ### 22  
 
 ####Toetreding
 
-(1).  Toetreding tot deze overeenkomst wordt door iedere buitenlandse bank-crediteur bewerkstelligd door zijn Duitse debiteur of debiteuren binnen 2 maanden na het van kracht worden van deze overeenkomst van zijn verklaring van toetreding in kennis te stellen door middel van een brief in duplo onder gebruikmaking van een model, dat verkrijgbaar is bij de buitenlandse banken-comité's in de desbetreffende buitenlandse crediteur-landen. In de brief moeten de kortlopende credieten, waarvoor de Duitse debiteur of debiteuren aansprakelijk zijn en waarop de toetreding betrekking heeft, in het kort worden aangegeven. ledere Duitse debiteur moet binnen 4 dagen na ontvangst van een verklaring van toetreding van een van zijn buitenlandse banken-crediteuren aan deze een brief toezenden waarin hij, onder gebruikmaking van een model, dat bij de Bank Deutscher Länder of een Landeszentralbank verkrijgbaar is, zijn toetreding bevestigt . De buitenlandse bank-crediteur kan van zijn toetreding ook per telegram mededeling doen, doch dan moet hij dit op de hierboven aangegeven wijze bevestigen. <sup> 1)  Zie Bijlage III *a*.  </sup>   
+(1).  Toetreding tot deze overeenkomst wordt door iedere buitenlandse bank-crediteur bewerkstelligd door zijn Duitse debiteur of debiteuren binnen 2 maanden na het van kracht worden van deze overeenkomst van zijn verklaring van toetreding in kennis te stellen door middel van een brief in duplo onder gebruikmaking van een model, dat verkrijgbaar is bij de buitenlandse banken-comité's in de desbetreffende buitenlandse crediteur-landen. In de brief moeten de kortlopende credieten, waarvoor de Duitse debiteur of debiteuren aansprakelijk zijn en waarop de toetreding betrekking heeft, in het kort worden aangegeven. ledere Duitse debiteur moet binnen 4 dagen na ontvangst van een verklaring van toetreding van een van zijn buitenlandse banken-crediteuren aan deze een brief toezenden waarin hij, onder gebruikmaking van een model, dat bij de Bank Deutscher Länder of een Landeszentralbank verkrijgbaar is, zijn toetreding bevestigt<sup> 1)  Zie Bijlage III*a*.  </sup>. De buitenlandse bank-crediteur kan van zijn toetreding ook per telegram mededeling doen, doch dan moet hij dit op de hierboven aangegeven wijze bevestigen.   
 (2).  Iedere buitenlandse bank-crediteur die vroeger deelnam aan een konsortial Kredit, heeft het recht tot deze overeenkomst toe te treden in Verband met zijn deelneming.   
 (3).  Na de toetreding worden de buitenlands bank-crediteur en de Duitse debiteur met betrekking tot de hierbedoelde kortlopende credieten partijen bij deze overeenkomst. Vanaf dat ogenblik hebben zij de rechten en krijgen zij de verplichtingen, bedoeld in deze overeenkomst voor de buitenlandse banken-crediteuren en voor de Duitse debiteuren.   
 (4).  Elk buitenlands banken-comité kan met toestemming van het Duitse Comité de termijn verlengen, waarbinnen de afzonderlijke buitenlandse banken-crediteuren van het betrokken land toe kunnen treden tot de overeenkomst. Indien echter een persoon, een firma of een vennootschap in de Bondsrepubliek tijdens de looptijd van deze overeenkomst met betrekking tot een kortlopend crediet of een gedeelte daarvan aansprakelijk wordt bij wege van erfopvolging, of indien overeenkomstig artikel 5, artikel 7, of artikel 8 van deze overeenkomst nieuwe verklaringen van toetreding worden uitgewisseld, dan kan de toetreding met betrekking tot een dergelijk crediet of een deel van dat crediet plaatsvinden zonder vorenbedoelde toestemming, binnen redelijke tijd nadat de erfopvolging of een andere belangrijke gebeurtenis heeft plaatsgevonden.   
@@ -3584,7 +3582,7 @@ De kosten en uitgaven die ontstaan en samenhangen met de voorbereiding, de toepa
 (7).  Indien een Duitse bank, handels- of industriële onderneming door erfopvolging hoofd-debiteur wordt van een kortlopend crediet of een gedeelte daarvan krachtens of ingevolge een Duitse wet (bv. Durchführungsverordnung Nr 35 bij het Wahrungsgesetz Nr 63 of Gesetz über den Niederlassungsbereich von Kreditinstituten van 29 Maart 1952) dan kan de buitenlandse bank-crediteur ten aanzien van een dergelijke firma tot deze overeenkomst toetreden met betrekking tot een dergelijk crediet of een deel daarvan; de betrokken firma moet van haar zijde op de in de overeenkomst voorgeschreven wijze en met dienovereenkomstig effect haar toetreding bevestigen. Deze bepaling vindt ook toepassing in geval van erfopvolging terzake van een kortlopend crediet of een gedeelte daarvan, wanneer deze erfopvolging in overeenstemming is met de thans in de Bondsrepubliek van kracht zijnde wetten (bv. artikel 7 (3) van de wet op het Niederlassungsbereich von Kreditinstituten van 29 Maart 1952). Door de toetreding van een Duitse debiteur-opvolger met betrekking tot een kortlopend crediet of een deel daarvan houdt de desbetreffende toetreding van een Duitse crediteur-voorganger op van kracht te zijn en effect te hebben (tenzij in deze overeenkomst anders is bepaald).   
 (8).  Zijn of worden op grond van de tegenwoordig in de Bondsrepubliek van kracht zijnde wetten (bv. Durchführungsverordnung Nr 35 bij het Wahrungsgesetz Nr 63 of Gesetz über den Niederlassungsbereich von Kreditinstituten van 29 Maart 1952) een of meer bankinstellingen-opvolgers gezamenlijk met de oorspronkelijke Duitse bank-debiteur voor een schuld aansprakelijk met betrekking tot een kortlopend crediet of een deel daarvan, dan moeten (behoudens de bepalingen van de twee volgende alinea's) deze bankinstelling of deze bankinstellingen eveneens met betrekking tot een dergelijk crediet of een deel daarvan toetreden tot deze overeenkomst; in dit geval blijft echter de toetreding van de oorspronkelijke Duitse bankdebiteur ten volle van kracht.   
 (9).  Indien een kortlopend crediet of een deel daarvan verleend is aan een Duitse bank-debiteur, en indien met betrekking daarop eveneens een buiten het gebied van de Bondsrepubliek woonachtige cliënt van deze bank-debiteur aansprakelijk is, dan is noch de Duitse bank-debiteur noch enige andere bankinstelling die gezamenlijk met de desbetreffende debiteur aansprakelijk is, verplicht om enigerlei maatregel, op grond van de bepalingen van deze overeenkomst, te treffen met betrekking tot dit crediet of een gedeelte daarvan (afgezien van de toetreding als erkenning van het bestaan en het bedrag van het crediet of een gedeelte daarvan), voorzover en tot zolang niet de buitenlandse bank-crediteur ook zonder deze overeenkomst gerechtigd was om in de Bondsrepubliek de betaling van de desbetreffende schuld naar Duits recht af te dwingen.   
-(10).  Indien een kortlopend crediet, voortvloeiend uit een oorspronkelijk voorschot in contanten, niet omgezet is in een acceptcrediet, en de betaling daarvan door de buitenlandse bank-crediteur (op grond van de tegenwoordig in de Bondsrepubliek van kracht zijnde wetten, bv. de Durchführungsverordnung Nr 35 bij het Urnstellungsgesetz Nr 63 of artikel 7 (2) van het „Gesetz über den Niederlassungsbereich von Kreditinstituten” van 29 Maart 1952) binnen de Bondsrepubliek slechts tot een evenredig deel kan worden afgedwongen dan zijn de Duitse bank-debiteur en iedere bankinstelling, die mede aansprakelijk is met hem, niet verplicht, op grond van de bepalingen van deze overeenkomst met betrekking tot het aandeel, waarvan de buitenlandse bank-crediteur op het ogenblik de betaling niet kan afdwingen, maatregelen te nemen, buiten de toetreding als erkenning van het bestaan en het bedrag van het crediet, zolang niet de buitenlandse bank-crediteur ook zonder deze overeenkomst gerechtigd zou zijn, in de Bondsrepubliek de betaling van de desbetreffende schuld naar Duits recht af te dwingen.   
+(10).  Indien een kortlopend crediet, voortvloeiend uit een oorspronkelijk voorschot in contanten, niet omgezet is in een acceptcrediet, en de betaling daarvan door de buitenlandse bank-crediteur (op grond van de tegenwoordig in de Bondsrepubliek van kracht zijnde wetten, bv. de Durchführungsverordnung Nr 35 bij het Urnstellungsgesetz Nr 63 of artikel 7 (2) van het „Gesetz über den Niederlassungsbereich von Kreditinstituten” van 29 Maart 1952) binnen de Bondsrepubliek slechts tot een evenredig deel kan worden afgedwongen dan zijn de Duitse bank-debiteur en iedere bankinstelling, die mede aansprakelijk is met hem, niet verplicht, op grond van de bepalingen van deze overeenkomst met betrekking tot het aandeel, waarvan de buitenlandse bank-crediteur op het ogenblik de betaling niet kan afdwingen, maatregelen te nemen, buiten de toetreding als erkenning van het bestaan en het bedrag van het crediet, zolang niet de buitenlandse bank-crediteur ook zonder deze overeenkomst gerechtigd zou zijn, in de Bondsrepubliek de betaling van de desbetreffende schuld naar Duits recht af te dwingen.  
 
 ### 23  
 
@@ -3597,52 +3595,52 @@ De kosten en uitgaven die ontstaan en samenhangen met de voorbereiding, de toepa
 (b) Lid 4 van dat artikel moet zo worden gewijzigd dat de woorden „artikel 23 van de overeenkomsten van 1932, 1933, 1934, 1935, 1936, 1937 en 1938” vervangen worden door de woorden „artikel 23 van een vroegere overeenkomst”.  
 
 (c) De leden 5 en 7 moeten worden geschrapt.     
-(2).  De liquidateur van de Deutsche Golddiskontbank aanvaardt door ondertekening van deze overeenkomst de bepaling van lid 1 van dit artikel. Tevens erkent hij ten aanzien van iedere afzonderlijke buitenlandse bank-crediteur, die een kortlopend crediet of een deel van een kortlopend crediet heeft, waarvan de betaling tot nog toe gegarandeerd werd door de Deutsche Golddiskontbank, en met betrekking waartoe de toetreding tot deze overeenkomst plaats vindt, dat de aansprakelijkheid uit hoofde van deze garantie ten volle van kracht blijft voorzover het desbetreffende crediet of een gedeelte daarvan nog niet betaald of gedelgd is.   
+(2).  De liquidateur van de Deutsche Golddiskontbank aanvaardt door ondertekening van deze overeenkomst de bepaling van lid 1 van dit artikel. Tevens erkent hij ten aanzien van iedere afzonderlijke buitenlandse bank-crediteur, die een kortlopend crediet of een deel van een kortlopend crediet heeft, waarvan de betaling tot nog toe gegarandeerd werd door de Deutsche Golddiskontbank, en met betrekking waartoe de toetreding tot deze overeenkomst plaats vindt, dat de aansprakelijkheid uit hoofde van deze garantie ten volle van kracht blijft voorzover het desbetreffende crediet of een gedeelte daarvan nog niet betaald of gedelgd is.  
 
 ### 24  
 
 ####Betalingen die een andere oorsprong hebben
 
-Indien een buitenlandse bank-crediteur na tot deze overeenkomst te zijn toegetreden, met betrekking tot enigerlei lopende schuld van een debiteur binnen het gebied, dat op 31 December 1937 tot het Duitse Rijk behoorde, betaling aanneemt van enig geldbedrag uit een andere bron als die van bedoelde debiteur, en indien hij dat bedrag volgens de wet of om andere redenen of ingevolge zijn eigen wens moet verrekenen met kortlopende credieten, die onder deze overeenkomst vallen, dan zal de buitenlandse bank-crediteur deze gelden aanwenden ter definitieve terugbetaling van de schuld uit hoofde van het kortlopende crediet of eventueel voor de kortlopende credieten met betrekking waartoe hij het bedrag heeft ontvangen; heeft hij het bedrag niet ontvangen met betrekking tot een bepaald kortlopend crediet of bepaalde kortlopende credieten, dan moet de buitenlandse bank-crediteur het bedrag verrekenen met kortlopende credieten, die hij zelf aanwijst tenzij de buitenlandse bank-crediteur nog andere credieten van bedoelde soort (mits geen kortlopende credieten) ter beschikking houdt, waartegen hij de gelden van rechtswege kan verrekenen en naar zijn keuze verrekent. Onmiddellijk na de besteding van deze gelden ter reductie van een of meerdere kortlopende credieten moet de buitenlandse bank-crediteur daarvan mededeling doen aan de belanghebbende Duitse debiteur resp. de belanghebbende Duitse debiteuren en aan het Duitse Comité alsmede aan zijn eigen buitenlandse banken-comité; de schuld met betrekking tot het kortlopende crediet of de kortlopende credieten, waartegen deze gelden aldus zijn verrekend, is daarna definitief terugbetaald.  
+Indien een buitenlandse bank-crediteur na tot deze overeenkomst te zijn toegetreden, met betrekking tot enigerlei lopende schuld van een debiteur binnen het gebied, dat op 31 December 1937 tot het Duitse Rijk behoorde, betaling aanneemt van enig geldbedrag uit een andere bron als die van bedoelde debiteur, en indien hij dat bedrag volgens de wet of om andere redenen of ingevolge zijn eigen wens moet verrekenen met kortlopende credieten, die onder deze overeenkomst vallen, dan zal de buitenlandse bank-crediteur deze gelden aanwenden ter definitieve terugbetaling van de schuld uit hoofde van het kortlopende crediet of eventueel voor de kortlopende credieten met betrekking waartoe hij het bedrag heeft ontvangen; heeft hij het bedrag niet ontvangen met betrekking tot een bepaald kortlopend crediet of bepaalde kortlopende credieten, dan moet de buitenlandse bank-crediteur het bedrag verrekenen met kortlopende credieten, die hij zelf aanwijst tenzij de buitenlandse bank-crediteur nog andere credieten van bedoelde soort (mits geen kortlopende credieten) ter beschikking houdt, waartegen hij de gelden van rechtswege kan verrekenen en naar zijn keuze verrekent. Onmiddellijk na de besteding van deze gelden ter reductie van een of meerdere kortlopende credieten moet de buitenlandse bank-crediteur daarvan mededeling doen aan de belanghebbende Duitse debiteur resp. de belanghebbende Duitse debiteuren en aan het Duitse Comité alsmede aan zijn eigen buitenlandse banken-comité; de schuld met betrekking tot het kortlopende crediet of de kortlopende credieten, waartegen deze gelden aldus zijn verrekend, is daarna definitief terugbetaald. 
 
 ### 25  
 
 ####Ondertekening en verkorte titel van deze overeenkomst
 
 (1).  De originelen van deze overeenkomst, voorzien van de handtekeningen van het Duitse Comité, van de Bank Deutscher Länder en van de desbetreffende buitenlandse banken-comité's moeten door bemiddeling van de desbetreffende Centrale Banken ter goede bewaring voor alle belanghebbende partijen worden toegezonden aan de Bank voor Internationale Betalingen.   
-(2).  De onderhavige overeenkomst kan worden aangehaald als „DE DUITSE CREDIETOVEREENKOMST VAN 1952”.   
+(2).  De onderhavige overeenkomst kan worden aangehaald als „DE DUITSE CREDIETOVEREENKOMST VAN 1952”.  
 
 ### 26  
 
 ####Kennisgevingen
 
-In de bepalingen van deze overeenkomst bedoelde schriftelijke mededelingen of kennisgevingen met inbegrip van de als officieel aangeduide zullen worden geacht behoorlijk te zijn gedaan indien ze per post, per telegram of per radiogram (port betaald) gericht zijn aan een door de ontvangst daarvan gerechtigde opgegeven adres of aan dat adres zijn afgeleverd. Indien de tot ontvangst gerechtigde geen bijzonder adres opgeeft, dan moet de kennisgeving gericht worden aan het gewone adres waar hij zijn bedrijf uitoefent.  
+In de bepalingen van deze overeenkomst bedoelde schriftelijke mededelingen of kennisgevingen met inbegrip van de als officieel aangeduide zullen worden geacht behoorlijk te zijn gedaan indien ze per post, per telegram of per radiogram (port betaald) gericht zijn aan een door de ontvangst daarvan gerechtigde opgegeven adres of aan dat adres zijn afgeleverd. Indien de tot ontvangst gerechtigde geen bijzonder adres opgeeft, dan moet de kennisgeving gericht worden aan het gewone adres waar hij zijn bedrijf uitoefent. 
 
 ### 27  
 
-[ *Vervallen* ]  
+[*Vervallen*] 
 
 ### 28  
 
 ####Titels
 
-De titels dienen uitsluitend voor het doel aanhaling te vergemakkelijken; zij hebben voor de interpretatie van deze overeenkomst geen betekenis.  
+De titels dienen uitsluitend voor het doel aanhaling te vergemakkelijken; zij hebben voor de interpretatie van deze overeenkomst geen betekenis. 
 
 ### 29  
 
 ####Vereiste handtekeningen
 
-Deze overeenkomst treedt in werking zodra zij door het Duitse Comité en de Bank Deutscher Länder ondertekend is, en ondertekend en (voor zoveel nodig) bekrachtigd is door de buitenlandse bankencomité's, die buitenlandse banken-crediteuren vertegenwoordigen wier kortlopende credieten, gerekend naar de nominale waarde, 75 % vertegenwoordigen van de uitstaande kortlopende credieten.  
+Deze overeenkomst treedt in werking zodra zij door het Duitse Comité en de Bank Deutscher Länder ondertekend is, en ondertekend en (voor zoveel nodig) bekrachtigd is door de buitenlandse bankencomité's, die buitenlandse banken-crediteuren vertegenwoordigen wier kortlopende credieten, gerekend naar de nominale waarde, 75 % vertegenwoordigen van de uitstaande kortlopende credieten. 
 
 ### BIJLAGE  IIIa  
 
 ####Briefwisseling tussen vertegenwoordigers der crediteuren en der debiteuren, inhoudend aanvullende overeenkomsten door hen getroffen met betrekking tot Bijlage III
 
 Aan het Amerikaanse Comité voor Stillhaltecrediteuren van Duitsland, Aan het Britse Banken-comité voor Duitse Zaken, Aan het Zwitserse Banken-comité voor de Duitse Credietovereenkomst. 
-### *De Duitse Credietovereenkomst van 1952* 
+### *De Duitse Credietovereenkomst van 1952*
 
-*19 Februari 1953.*  Mijne Heren, Wij refereren aan de verklaringen afgegeven door de Drie Mogendheden Commissie voor Duitse schulden namens de in die Commissie vertegenwoordigde Regeringen, zomede van de Duitse delegatie in naam van de Bondsrepubliek, ingevolge welke hun Regeringen bereid zijn om door geëigende administratieve maatregelen in Duitsland, de Duitse Credietovereenkomst van 1952 (vervat in Bijlage III bij de Overeenkomst nopens Duitse buitenlandse schulden, en hierna genoemd: de overeenkomst van 1952) in werking te laten treden bij de ratificering van de Overeenkomst nopens Duitse buitenlandse schulden door de Bondsrepubliek Duitsland; echter moeten de in de overeenkomst van 1952 voorziene betalingen in buitenlandse valuta, afgezien van die betalingen, welke normaal voortvloeien uit artikel 5 van bedoelde overeenkomst, worden opgeschort tot de Overeenkomst nopens Duitse buitenlandse schulden (hierna genoemd „intergouvernementele overeenkomst”) overeenkomstig Artikel 35 daarvan in werking treedt. Wij refereren voorts aan de volgens de overeenkomst van 1952 tussen crediteuren en debiteuren onder bepaalde voorwaarden uit te wisselen formulieren voor verklaringen van toetreding; in bedoelde verklaringen van toetreding van 1952 wordt o.m. gerefereerd aan de hogerbedoelde opschorting van betalingen in vreemde valuta krachtens deze overeenkomst. De debiteuren verklaren ermede accoord te gaan, dat zij, zodra de overeenkomst van 1952 integraal in werking treedt, overeenkomstig hogerbedoelde intergouvernementele overeenkomst terstond aan de crediteuren alle betalingen in vreemde valuta's ingevolge de overeenkomst van 1952 zullen doen, die in de tussentijd opgeschort zijn. Wij verklaren ermede accoord te gaan dat de overeenkomst van 1952 in werking zal treden nadat aan de bepalingen van artikel 29 van de overeenkomst zal zijn voldaan, en na ratificering van genoemde intergouvernementele overeenkomst door de Bondsrepubliek Duitsland, doch dat zij buiten werking treedt, wanneer zij niet bij het in werking treden van de intergouvernementele overeenkomst in deze wordt begrepen. Derhalve moet artikel 2 van de overeenkomst van 1952 zo worden verstaan alsof de dag, waarop aan de bepalingen van artikel 29 van deze overeenkomst is voldaan en waarop de ratificering van de intergouvernementele overeenkomst door de Bondsrepubliek Duitsland is geschied is bedoeld als de dag waarop de bepalingen van de overeenkomst van 1952 in werking zullen treden. Voorts bevestigen wij dat wij indien de overeenkomst van 1952 bij het inwerking treden van de intergouvernementele overeenkomst overeenkomstig Artikel 35 daarin wordt begrepen, alles wat in ons vermogen ligt zullen doen om onverwijlde betaling aan de crediteuren van alle in buitenlandse valuta luidende betalingen te doen, overeenkomstig de overeenkomst van 1952, welke in de tussentijd zijn opgeschort. Wij bevestigen dat ingevolge de wens van de partijen bij de overeenkomst van 1952 de volgende veranderingen in de tekst van deze overeenkomst, zoals weergegeven in bijlage 5 van het eindrapport van de conferentie over Duitse buitenlandse schulden moeten worden aangebracht en moeten worden opgenomen in de te ondertekenen tekst van de overeenkomst: *Lid 7 van de inleiding.* De woorden „door de Regering van de Bondsrepubliek of een andere bevoegde overheidsinstantie” moeten worden vervangen door de woorden „door de bevoegde regeringsautoriteiten van de Bondsrepubliek Duitsland en Berlijn (West)”. Het woord „en” moet worden bijgevoegd achter paragraaf (ii), datzelfde woord moet aan het slot van paragraaf (iii) worden geschrapt. Aan het begin van paragraaf (iv) moeten worden ingevoegd de woorden „en moeten zoveel mogelijk zekerheid geven dat”. *Artikel 1. Definities.* De woorden ,,en wordt gebruikt ter aanduiding van het gebied en niet van de regeringsbevoegdheid” moeten aan het slot van de definitie van het woord „Bondsrepubliek” worden toegevoegd. *Artikel 20. Arbitrage.* In lid 1 moeten de woorden „die zijn toegetreden tot deze overeenkomst” worden ingevoegd achter de woorden „Duitse debiteuren”. *Artikel 22. Toetreding.* In lid 1 moeten de woorden „zijn toetreding bevestigt” worden vervangen door „zijn toetreding tot deze overeenkomst bevestigt en zich op verlangen van de crediteur bereid verklaard tot iedere door het Duitse Comité en de Bank Deutscher Länder ondertekende overeenkomst voor vernieuwing of verlenging toe te treden”. Het ondergetekende Duitse Comité verklaart hiermede, overeenkomstig artikel 22 (4) van de overeenkomst van 1952 ermede accoord te gaan, dat Uwe comité's de termijn, waarbinnen buitenlandse banken-crediteuren in Uw land kunnen toetreden tot de overeenkomst van 1952, verlengen, teneinde toetreding binnen twee maanden na het van kracht worden van meergenoemde intergouvernementele overeenkomst mogelijk te maken. Met de meeste hoogachting, enz. Voor het Duitse Comité voor Stillhalteschulden, (ondertekend) Voor de Bank deutscher Länder, (ondertekend) Aan het Duitse Comité voor Stillhalteschulden en aan de Bank deutscher Länder. 
-### *De Duitse Credietovereenkomst van 1952* 
+*19 Februari 1953.*   Mijne Heren, Wij refereren aan de verklaringen afgegeven door de Drie Mogendheden Commissie voor Duitse schulden namens de in die Commissie vertegenwoordigde Regeringen, zomede van de Duitse delegatie in naam van de Bondsrepubliek, ingevolge welke hun Regeringen bereid zijn om door geëigende administratieve maatregelen in Duitsland, de Duitse Credietovereenkomst van 1952 (vervat in Bijlage III bij de Overeenkomst nopens Duitse buitenlandse schulden, en hierna genoemd: de overeenkomst van 1952) in werking te laten treden bij de ratificering van de Overeenkomst nopens Duitse buitenlandse schulden door de Bondsrepubliek Duitsland; echter moeten de in de overeenkomst van 1952 voorziene betalingen in buitenlandse valuta, afgezien van die betalingen, welke normaal voortvloeien uit artikel 5 van bedoelde overeenkomst, worden opgeschort tot de Overeenkomst nopens Duitse buitenlandse schulden (hierna genoemd „intergouvernementele overeenkomst”) overeenkomstig Artikel 35 daarvan in werking treedt. Wij refereren voorts aan de volgens de overeenkomst van 1952 tussen crediteuren en debiteuren onder bepaalde voorwaarden uit te wisselen formulieren voor verklaringen van toetreding; in bedoelde verklaringen van toetreding van 1952 wordt o.m. gerefereerd aan de hogerbedoelde opschorting van betalingen in vreemde valuta krachtens deze overeenkomst. De debiteuren verklaren ermede accoord te gaan, dat zij, zodra de overeenkomst van 1952 integraal in werking treedt, overeenkomstig hogerbedoelde intergouvernementele overeenkomst terstond aan de crediteuren alle betalingen in vreemde valuta's ingevolge de overeenkomst van 1952 zullen doen, die in de tussentijd opgeschort zijn. Wij verklaren ermede accoord te gaan dat de overeenkomst van 1952 in werking zal treden nadat aan de bepalingen van artikel 29 van de overeenkomst zal zijn voldaan, en na ratificering van genoemde intergouvernementele overeenkomst door de Bondsrepubliek Duitsland, doch dat zij buiten werking treedt, wanneer zij niet bij het in werking treden van de intergouvernementele overeenkomst in deze wordt begrepen. Derhalve moet artikel 2 van de overeenkomst van 1952 zo worden verstaan alsof de dag, waarop aan de bepalingen van artikel 29 van deze overeenkomst is voldaan en waarop de ratificering van de intergouvernementele overeenkomst door de Bondsrepubliek Duitsland is geschied is bedoeld als de dag waarop de bepalingen van de overeenkomst van 1952 in werking zullen treden. Voorts bevestigen wij dat wij indien de overeenkomst van 1952 bij het inwerking treden van de intergouvernementele overeenkomst overeenkomstig Artikel 35 daarin wordt begrepen, alles wat in ons vermogen ligt zullen doen om onverwijlde betaling aan de crediteuren van alle in buitenlandse valuta luidende betalingen te doen, overeenkomstig de overeenkomst van 1952, welke in de tussentijd zijn opgeschort. Wij bevestigen dat ingevolge de wens van de partijen bij de overeenkomst van 1952 de volgende veranderingen in de tekst van deze overeenkomst, zoals weergegeven in bijlage 5 van het eindrapport van de conferentie over Duitse buitenlandse schulden moeten worden aangebracht en moeten worden opgenomen in de te ondertekenen tekst van de overeenkomst:  *Lid 7 van de inleiding.* De woorden „door de Regering van de Bondsrepubliek of een andere bevoegde overheidsinstantie” moeten worden vervangen door de woorden „door de bevoegde regeringsautoriteiten van de Bondsrepubliek Duitsland en Berlijn (West)”. Het woord „en” moet worden bijgevoegd achter paragraaf (ii), datzelfde woord moet aan het slot van paragraaf (iii) worden geschrapt. Aan het begin van paragraaf (iv) moeten worden ingevoegd de woorden „en moeten zoveel mogelijk zekerheid geven dat”.  *Artikel 1. Definities.* De woorden ,,en wordt gebruikt ter aanduiding van het gebied en niet van de regeringsbevoegdheid” moeten aan het slot van de definitie van het woord „Bondsrepubliek” worden toegevoegd.  *Artikel 20. Arbitrage.* In lid 1 moeten de woorden „die zijn toegetreden tot deze overeenkomst” worden ingevoegd achter de woorden „Duitse debiteuren”.  *Artikel 22. Toetreding.* In lid 1 moeten de woorden „zijn toetreding bevestigt” worden vervangen door „zijn toetreding tot deze overeenkomst bevestigt en zich op verlangen van de crediteur bereid verklaard tot iedere door het Duitse Comité en de Bank Deutscher Länder ondertekende overeenkomst voor vernieuwing of verlenging toe te treden”. Het ondergetekende Duitse Comité verklaart hiermede, overeenkomstig artikel 22 (4) van de overeenkomst van 1952 ermede accoord te gaan, dat Uwe comité's de termijn, waarbinnen buitenlandse banken-crediteuren in Uw land kunnen toetreden tot de overeenkomst van 1952, verlengen, teneinde toetreding binnen twee maanden na het van kracht worden van meergenoemde intergouvernementele overeenkomst mogelijk te maken. Met de meeste hoogachting, enz. Voor het Duitse Comité voor Stillhalteschulden, (ondertekend) Voor de Bank deutscher Länder, (ondertekend) Aan het Duitse Comité voor Stillhalteschulden en aan de Bank deutscher Länder. 
+### *De Duitse Credietovereenkomst van 1952*
 
 *20 Februari 1953.*  Mijne Heren, Wij bevestigen hiermede de ontvangst van Uw schrijven inzake de maatregelen met het oog op de inwerkingtreding van hogergenoemde overeenkomst en de in die overeenkomst voorziene tijdelijke opschorting van betalingen in vreemde valuta's aan de crediteuren, met uitzondering van de normaal uit artikel 5 van de overeenkomst voortvloeiende betalingen en bevestigen tevens dat wij de in Uw schrijven uiteengezette bepalingen en voorwaarden accepteren. Met name gaan wij ermede accoord 
 
@@ -3650,13 +3648,13 @@ Aan het Amerikaanse Comité voor Stillhaltecrediteuren van Duitsland, Aan het Br
 
 (b) dat alle in de overeenkomst van 1952 voorziene betalingen in buitenlandse valuta's, afgezien van die betalingen, welke normaal voortvloeien uit artikel 5 van de overeenkomst, worden opgeschort tot de intergouvernementele overeenkomst, overeenkomstig Artikel 35 daarvan in werking treedt; en  
 
-(c) dat de in Uw brief vermelde wijzigingen in de tekst van de overeenkomst van 1952 opgenomen behoren te worden in het te ondertekenen exemplaar van de overeenkomst.   Dit schrijven kan in meerdere exemplaren worden vervaardigd die alle geacht moeten worden hetzelfde stuk te zijn. Met de meeste hoogachting, (ondertekend) voor het Amerikaanse Comité van Stillhaltecrediteuren van Duitsland. (ondertekend) voor het Engelse banken-comité voor Duitse Zaken. (ondertekend) voor het Zwitserse Banken-comité voor de Duitse Credietovereenkomst.   
+(c) dat de in Uw brief vermelde wijzigingen in de tekst van de overeenkomst van 1952 opgenomen behoren te worden in het te ondertekenen exemplaar van de overeenkomst.   Dit schrijven kan in meerdere exemplaren worden vervaardigd die alle geacht moeten worden hetzelfde stuk te zijn. Met de meeste hoogachting, (ondertekend) voor het Amerikaanse Comité van  Stillhaltecrediteuren van Duitsland. (ondertekend) voor het Engelse banken-comité voor Duitse Zaken. (ondertekend) voor het Zwitserse Banken-comité voor de Duitse Credietovereenkomst.   
 
 ### BIJLAGE  IV  
 
 ####Overeengekomen aanbevelingen voor de regeling van vorderingen uit het goederen- en dienstenverkeer, van bepaalde vorderingen uit het kapitaalverkeer en van verschillende andere vorderingen
 
-*INHOUD*   *Hoofdstuk A. Omschrijving van de vorderingen*  Artikel: 
+*INHOUD*  *Hoofdstuk A. Omschrijving van de vorderingen*  Artikel: 
 
 1. Vorderingen uit het goederen- en dienstenverkeer.  
 
@@ -3678,57 +3676,57 @@ Aan het Amerikaanse Comité voor Stillhaltecrediteuren van Duitsland, Aan het Br
 
 10. Betalingen bij de Deutsche Verrechnungskasse.  
 
-11. Hardheidsclausule.  
+11.  Hardheidsclausule.  
 
 12. Rechtsopvolging ten aanzien van vorderingen en schulden.  
 
-13. Verandering van crediteur.  
+13.  Verandering van crediteur.  
 
-14. Toetreding tot de schuldenregeling; deviezenbepalingen; verplichtingen van debiteuren.  
+14.  Toetreding tot de schuldenregeling; deviezenbepalingen; verplichtingen van debiteuren.  
 
-15. Regeling van geschillen.  
+15.  Regeling van geschillen.  
 
-16. Gemengde Commissie.  
+16.  Gemengde Commissie.  
 
-17. Scheidsgerecht.  
+17.  Scheidsgerecht.  
 
-18. Betaling in Duitse mark.  
+18.  Betaling in Duitse mark.  
 
-19. Gebruik van geblokkeerde Duitse mark-tegoeden.  
+19.  Gebruik van geblokkeerde Duitse mark-tegoeden.  
 
 20. Invloed van de regeling op vorderingen.  
 
-21. Valuta-optie-clausules zonder goud-clausule.  
+21.  Valuta-optie-clausules zonder goud-clausule.  
 
-22. Concessies ten gunste van de debiteur.  
+22.  Concessies ten gunste van de debiteur.  
 
-23. Echte conversies.  
+23.  Echte conversies.  
 
-24. Valuta, waarin betaald moet worden.  
+24.  Valuta, waarin betaald moet worden.  
 
-25. Wetten voor de certificatie van Duitse effecten.    *Hoofdstuk C. Regeling van oude handelsvorderingen*  
+25.  Wetten voor de certificatie van Duitse effecten.    *Hoofdstuk C. Regeling van oude handelsvorderingen*  
 
-26. Vorderingen uit hoofde van de levering van goederen.  
+26.  Vorderingen uit hoofde van de levering van goederen.  
 
-27. Vorderingen uit hoofde van vooruitbetalingen voor levering van goederen en diensten.  
+27.  Vorderingen uit hoofde van vooruitbetalingen voor levering van goederen en diensten.  
 
-28. Lonen, salarissen, pensioenen, die berusten op arbeidsovereenkomst; commissies.  
+28.  Lonen, salarissen, pensioenen, die berusten op arbeidsovereenkomst; commissies.  
 
-29. Verplichtingen uit sociale verzekering.  
+29.  Verplichtingen uit sociale verzekering.  
 
-30. Vorderingen uit het particuliere verzekeringsverkeer.  
+30.  Vorderingen uit het particuliere verzekeringsverkeer.  
 
-31. Andere oude handelsvorderingen.  
+31.  Andere oude handelsvorderingen.  
 
-32. Gemeenschappelijke bepalingen voor oude handelsvorderingen.    *Hoofdstuk D. Regeling van vorderingen uit het particuliere kapitaalverkeer*  
+32.  Gemeenschappelijke bepalingen voor oude handelsvorderingen.    *Hoofdstuk D. Regeling van vorderingen uit het particuliere kapitaalverkeer*  
 
-33. Vorderingen in Duitse valuta.  
+33.  Vorderingen in Duitse valuta.  
 
-34. Vorderingen in niet Duitse valuta.    *Hoofdstuk E. Achterstallige inkomsten uit investeringen*  
+34.  Vorderingen in niet Duitse valuta.    *Hoofdstuk E. Achterstallige inkomsten uit investeringen*  
 
 35.     *Hoofdstuk F. Andere geldvorderingen*  
 
-36. Bijlage IV *a*. Gemeenschappelijke verklaring van de Duitse en de Zwitserse delegatie bij de onderhandelingen over de regeling van de „Schweizer Frankengrundschulden”.       
+36. Bijlage IV*a*. Gemeenschappelijke verklaring van de Duitse en de Zwitserse delegatie bij de onderhandelingen over de regeling van de „Schweizer Frankengrundschulden”.      
 ### Hoofdstuk  A  
 
 ####Omschrijving van de vorderingen
@@ -3755,7 +3753,7 @@ Geldvorderingen uit het internationale goederen- en dienstenverkeer, en geldvord
 
 (8) verplichtingen uit sociale verzekering,  
 
-(9) vorderingen uit het particuliere verzekeringsverkeer.   Vorderingen, die niet uitdrukkelijk onder de cijfers (1) tot en met (9) zijn genoemd, maar duidelijk behoren tot de categorie van de in dit artikel geregelde vorderingen uit het internationale goederen- en dienstenverkeer, moeten onder de desbetreffende cijfers worden gerangschikt.  
+(9) vorderingen uit het particuliere verzekeringsverkeer.   Vorderingen, die niet uitdrukkelijk onder de cijfers (1) tot en met (9) zijn genoemd, maar duidelijk behoren tot de categorie van de in dit artikel geregelde vorderingen uit het internationale goederen- en dienstenverkeer, moeten onder de desbetreffende cijfers worden gerangschikt. 
 
 ### Artikel  2  
 
@@ -3775,7 +3773,7 @@ De volgende vorderingen, welke voor 8 Mei 1945 zijn ontstaan uit het kapitaalver
 
 (3) vorderingen, die niet uitdrukkelijk onder de cijfers (1) en (2) zijn genoemd, maar duidelijk behoren tot de categorie van de in dit artikel geregelde vorderingen uit het kapitaalverkeer en niet vallen onder de voorstellen voor een regeling, vervat in de Bijlagen I tot III van de Overeenkomst nopens Duitse buitenlandse schulden;  
 
-(4) bij wijze van uitzondering: vorderingen uit hypotheken en grondrenten (Grund- und Rentenschulden), wanneer de debiteur of de eigenaar van de grond een gemeente of een ander overheidslichaam is, en zij niet een deel vormen van een overeenkomst van lening. Voor de „Frankengrundschulden” volgens de Duits-Zwitserse verdragen van 6 December 1920 en 25 Maart 1923 wordt naar Bijlage IV *a* verwezen.    
+(4) bij wijze van uitzondering: vorderingen uit hypotheken en grondrenten (Grund- und Rentenschulden), wanneer de debiteur of de eigenaar van de grond een gemeente of een ander overheidslichaam is, en zij niet een deel vormen van een overeenkomst van lening. Voor de „Frankengrundschulden” volgens de Duits-Zwitserse verdragen van 6 December 1920 en 25 Maart 1923 wordt naar Bijlage IV*a* verwezen.   
 
 ### Artikel  3  
 
@@ -3785,17 +3783,17 @@ Opbrengsten voor 8 Mei 1945 ten gunste van buitenlandse crediteuren uit invester
 
 (2) winsten;  
 
-(3) huren en pachten.    
+(3) huren en pachten.   
 
 ### Artikel  4  
 
-Geldvorderingen, ontstaan voor 8 Mei 1945, die niet zijn genoemd in andere Bijlagen van de Overeenkomst nopens Duitse buitenlandse schulden, of in de artikelen 1 tot en met 3 van dit voorstel voor een regeling, doch die naar hun aard behoren onder dit voorstel voor een regeling.  
+Geldvorderingen, ontstaan voor 8 Mei 1945, die niet zijn genoemd in andere Bijlagen van de Overeenkomst nopens Duitse buitenlandse schulden, of in de artikelen 1 tot en met 3 van dit voorstel voor een regeling, doch die naar hun aard behoren onder dit voorstel voor een regeling. 
 
 ### Artikel  5  
 
 ####Uitzonderingen
 
-Van deze regeling zijn voorlopig uitgesloten vorderingen op de stad Berlijn en op openbare nutsbedrijven, in Berlijn gelegen of door Berlijn gecontroleerd.  
+Van deze regeling zijn voorlopig uitgesloten vorderingen op de stad Berlijn en op openbare nutsbedrijven, in Berlijn gelegen of door Berlijn gecontroleerd. 
 
 ### Hoofdstuk  B  
 
@@ -3806,19 +3804,19 @@ Van deze regeling zijn voorlopig uitgesloten vorderingen op de stad Berlijn en o
 ####Omzetting in Duitse mark
 
 (1).  Vorderingen, luidende in Rijksmark worden geregeld, nadat de buitenlandse crediteur er zijn goedkeuring aan heeft gehecht, dat zijn vordering in dezelfde verhouding in D. mark wordt omgezet als een dergelijke vordering van een binnenlandse crediteur. Dit is ook van toepassing op geldvorderingen, die in goudmark of Rijksmark met goud-clausule luiden, doch geen specifiek buitenlands karakter in de zin van het volgende lid (2) hebben. De Duitse deviezenautoriteiten zullen voortaan de nodige goedkeuring verlenen voor een omzetting volgens de Wet op de Munthervorming (Umstellungsgesetz), of voor een nieuwe vaststelling volgens de wetgeving op balansen in D. mark, voor zover de crediteur recht heeft op de omzetting of nieuwe vaststelling.   
-(2).  Overeengekomen is, dat dergelijke in goudmarken of Rijksmarken met goud-clausule uitgedrukte geldvorderingen uit kapitaalverkeer en hypotheken, die een specifiek buitenlands karakter dragen, zullen worden omgerekend in D. mark in de verhouding 1 : 1. De definitie van de criteria voor het begrip „specifiek buitenlands karakter” bij dergelijke geldvorderingen zal het onderwerp vormen van verdere onderhandelingen (zie Bijlage VII). Beide partijen behouden zich het recht voor, hun houding nader te bepalen ten aanzien van de vraag, in welke gevallen en op welke wijze het bovenbedoelde principe kan worden toegepast. Aan de Duitse delegatie wordt overgelaten te beslissen, op welke wijze de oplossing, die zal worden gevonden, kan worden gevoegd in het kader van de Duitse wetgeving inzake de munthervorming en inzake de „Kriegs- und Nachkriegs-Lastenausgleich”. Bovenbedoelde onderhandelingen tussen een Duitse delegatie en vertegenwoordigers van crediteuren zullen niet later dan 31 October 1952 plaats vinden.   
+(2).  Overeengekomen is, dat dergelijke in goudmarken of Rijksmarken met goud-clausule uitgedrukte geldvorderingen uit kapitaalverkeer en hypotheken, die een specifiek buitenlands karakter dragen, zullen worden omgerekend in D. mark in de verhouding 1 : 1. De definitie van de criteria voor het begrip „specifiek buitenlands karakter” bij dergelijke geldvorderingen zal het onderwerp vormen van verdere onderhandelingen (zie Bijlage VII). Beide partijen behouden zich het recht voor, hun houding nader te bepalen ten aanzien van de vraag, in welke gevallen en op welke wijze het bovenbedoelde principe kan worden toegepast. Aan de Duitse delegatie wordt overgelaten te beslissen, op welke wijze de oplossing, die zal worden gevonden, kan worden gevoegd in het kader van de Duitse wetgeving inzake de munthervorming en inzake de „Kriegs- und Nachkriegs-Lastenausgleich”. Bovenbedoelde onderhandelingen tussen een Duitse delegatie en vertegenwoordigers van crediteuren zullen niet later dan 31 October 1952 plaats vinden.  
 
 ### Artikel  7  
 
 ####Vorderingen in vreemde valuta met goud-clausule
 
-Voor de regeling van deze vorderingen zullen de volgende beginselen mutatis mutandis worden toegepast: Schulden, luidende in goud-dollars of in Zwitserse goud-francs, worden omgerekend op basis van 1 goud-dollar = 1 U.S. dollar en 1 Zwitserse goud-franc = 1 Zwitserse franc. De nieuwe overeenkomsten luiden in courante U.S.-dollars of Zwitserse francs. Andere schulden met goud-clausules (uitgezonderd in Duitse valuta luidende schulden met goud-clausules - zie artikel 6, lid 2) zijn alleen betaalbaar in de valuta van het land, waar de lening opgenomen is of de uitgifte heeft plaats gevonden (verder genoemd valuta van uitgifte). Het verschuldigde bedrag zal worden berekend als de tegenwaarde van een bedrag in U.S.-dollars volgens de wisselkoers, geldend op het tijdstip, waarop het bedrag betaald moet worden. Dit dollarbedrag wordt verkregen door het nominale bedrag om te rekenen in U.S.-dollars tegen de wisselkoers, geldend op het tijdstip van de opneming of uitgifte van de lening. Het aldus berekende bedrag in de valuta van uitgifte mag echter niet lager zijn dan wanneer het zou zijn berekend volgens de wisselkoers, geldend op 1 Augustus 1952.  
+Voor de regeling van deze vorderingen zullen de volgende beginselen mutatis mutandis worden toegepast: Schulden, luidende in goud-dollars of in Zwitserse goud-francs, worden omgerekend op basis van 1 goud-dollar = 1 U.S. dollar en 1 Zwitserse goud-franc = 1 Zwitserse franc. De nieuwe overeenkomsten luiden in courante U.S.-dollars of Zwitserse francs. Andere schulden met goud-clausules (uitgezonderd in Duitse valuta luidende schulden met goud-clausules - zie artikel 6, lid 2) zijn alleen betaalbaar in de valuta van het land, waar de lening opgenomen is of de uitgifte heeft plaats gevonden (verder genoemd valuta van uitgifte). Het verschuldigde bedrag zal worden berekend als de tegenwaarde van een bedrag in U.S.-dollars volgens de wisselkoers, geldend op het tijdstip, waarop het bedrag betaald moet worden. Dit dollarbedrag wordt verkregen door het nominale bedrag om te rekenen in U.S.-dollars tegen de wisselkoers, geldend op het tijdstip van de opneming of uitgifte van de lening. Het aldus berekende bedrag in de valuta van uitgifte mag echter niet lager zijn dan wanneer het zou zijn berekend volgens de wisselkoers, geldend op 1 Augustus 1952. 
 
 ### Artikel  8  
 
 ####Omrekening van vorderingen in vreemde valuta in Duitse mark
 
-Vorderingen in vreemde valuta zullen worden omgerekend in D. mark op basis van de pariteiten, geldend op de dag voor de betaling, zoals medegedeeld aan het Internationale Monetaire Fonds. Wanneer geen pariteit is vastgesteld, volgt omrekening tegen de middenkoers van de Bank Deutscher Länder op de dag voor de betaling.  
+Vorderingen in vreemde valuta zullen worden omgerekend in D. mark op basis van de pariteiten, geldend op de dag voor de betaling, zoals medegedeeld aan het Internationale Monetaire Fonds. Wanneer geen pariteit is vastgesteld, volgt omrekening tegen de middenkoers van de Bank Deutscher Länder op de dag voor de betaling. 
 
 ### Artikel  9  
 
@@ -3841,26 +3839,26 @@ II.  Onder voorbehoud van de algemene bepalingen hierboven onder I bedoeld, word
 
 (b) De Regering van de Bondsrepubliek Duitsland verbindt zich de aansprakelijkheid voor de betaling in de verschuldigde valuta's aan de buitenlandse crediteuren over te nemen voor 60 % van die bedragen, die door debiteuren in Oostenrijk, Frankrijk, België en Luxemburg in de Konversionskasse zijn gestort, en met betrekking tot welke de buitenlandse crediteuren noch betaling in buitenlandse valuta hebben ontvangen, noch op andere wijze zijn voldaan.  
 
-(c) De Bondsregering zal voor eind December 1952 met de vertegenwoordigers van buitenlandse crediteuren onderhandelingen beginnen met betrekking tot de uitvoering van deze verplichtingen.     
+(c) De Bondsregering zal voor eind December 1952 met de vertegenwoordigers van buitenlandse crediteuren onderhandelingen beginnen met betrekking tot de uitvoering van deze verplichtingen.    
 
 ### Artikel  10  
 
 ####Betalingen bij de Deutsche Verrechnungskasse
 
-De partijen bij de onderhandelingen hebben de stortingen, door de Duitse debiteuren gedaan bij de Deutsche Verrechnungskasse, welke niet zijn uitbetaald aan de crediteuren, besproken. In verband met de verscheidenheid van de overeenkomsten tussen Duitsland en de andere landen, welke nog afgewikkeld moeten worden, zijn crediteuren en debiteuren van mening, dat de nog niet opgeloste kwesties moeten worden opgelost door intergouvernementele onderhandelingen tussen de Bondsrepubliek Duitsland en de desbetreffende landen.  
+De partijen bij de onderhandelingen hebben de stortingen, door de Duitse debiteuren gedaan bij de Deutsche Verrechnungskasse, welke niet zijn uitbetaald aan de crediteuren, besproken. In verband met de verscheidenheid van de overeenkomsten tussen Duitsland en de andere landen, welke nog afgewikkeld moeten worden, zijn crediteuren en debiteuren van mening, dat de nog niet opgeloste kwesties moeten worden opgelost door intergouvernementele onderhandelingen tussen de Bondsrepubliek Duitsland en de desbetreffende landen. 
 
 ### Artikel  11  
 
 ####Hardheidsclausule
 
-Indien en voor zover de financiële positie van een debiteur door oorlog, oorlogsgevolgen of andere buitengewone omstandigheden zo is achteruitgegaan, dat de nakoming van zijn verplichtingen overeenkomstig de voorwaarden en binnen de termijnen, neergelegd in dit voorstel voor een regeling, van de debiteur niet kan worden gevergd, zullen hem faciliteiten worden verleend. Bij deze faciliteiten zal rekening worden gehouden met de billijkheid en de bijzondere omstandigheden van de debiteur. Zij zullen in overeenstemming zijn met de concessies, die de debiteur op dezelfde gronden volgens Duits recht, in het bijzonder volgens de wetgeving voor de hulp aan debiteuren (Vertragshilferecht), van een Duitse crediteur heeft verkregen of zou kunnen verkrijgen. Wanneer crediteuren en debiteuren niet tot overeenstemming komen, beslist het bevoegde Duitse gerecht. De crediteur kan tegen de gerechtelijke uitspraak in eerste instantie naar zijn keuze, of de hem naar Duits recht toekomende rechtsmiddelen aanwenden, of binnen een periode van dertig dagen na de betekening van de uitspraak in eerste instantie, zich wenden tot het volgens artikel 17 gevormde scheidsgerecht. De beslissing van het scheidsgerecht is bindend.  
+Indien en voor zover de financiële positie van een debiteur door oorlog, oorlogsgevolgen of andere buitengewone omstandigheden zo is achteruitgegaan, dat de nakoming van zijn verplichtingen overeenkomstig de voorwaarden en binnen de termijnen, neergelegd in dit voorstel voor een regeling, van de debiteur niet kan worden gevergd, zullen hem faciliteiten worden verleend. Bij deze faciliteiten zal rekening worden gehouden met de billijkheid en de bijzondere omstandigheden van de debiteur. Zij zullen in overeenstemming zijn met de concessies, die de debiteur op dezelfde gronden volgens Duits recht, in het bijzonder volgens de wetgeving voor de hulp aan debiteuren (Vertragshilferecht), van een Duitse crediteur heeft verkregen of zou kunnen verkrijgen. Wanneer crediteuren en debiteuren niet tot overeenstemming komen, beslist het bevoegde Duitse gerecht. De crediteur kan tegen de gerechtelijke uitspraak in eerste instantie naar zijn keuze, of de hem naar Duits recht toekomende rechtsmiddelen aanwenden, of binnen een periode van dertig dagen na de betekening van de uitspraak in eerste instantie, zich wenden tot het volgens artikel 17 gevormde scheidsgerecht. De beslissing van het scheidsgerecht is bindend. 
 
 ### Artikel  12  
 
 ####Rechtsopvolging ten aanzien van vorderingen en schulden
 
 (1).  Wanneer een buitenlandse crediteur vorderingen van een andere buitenlandse crediteur door erfopvolging heeft verkregen of in de toekomst verkrijgt, wordt zulk een vordering in het kader van dit voorstel voor een regeling behandeld, alsof de oorspronkelijke crediteur er nog toe gerechtigd was. Hetzelfde geldt voor analoge gevallen van rechtsopvolging op grond van de wet.   
-(2).  Als rechtsopvolger van de debiteur is aansprakelijk degene, die volgens een wet of bindende verordening de schuld moet overnemen of volgens overeenkomst overgenomen heeft.   
+(2).  Als rechtsopvolger van de debiteur is aansprakelijk degene, die volgens een wet of bindende verordening de schuld moet overnemen of volgens overeenkomst overgenomen heeft.  
 
 ### Artikel  13  
 
@@ -3873,7 +3871,7 @@ Indien en voor zover de financiële positie van een debiteur door oorlog, oorlog
 (b) geen verandering van de voorwaarden, die voor de vordering gelden, ten gevolge heeft,  
 
 (c) niet direct of indirect tot afwikkeling van de schulden leidt.   De bevoegde Duitse instanties zullen hun goedkeuring aan de overdracht hechten, wanneer aan de voorwaarden, genoemd in (*a*) tot en met (*c*) is voldaan. Zij zullen daarenboven goed gefundeerde verzoeken van een buitenlandse crediteur om goedkeuring van de overdracht van een gedeelte van zijn vordering in welwillende overweging nemen. Bij de verkrijging van de vordering krijgt de nieuwe crediteur dezelfde rechten en verplichtingen als de oorspronkelijke crediteur. Wanneer de nieuwe crediteur van de debiteur regeling van de schuld in Duitse mark verlangt, worden op zijn geblokkeerd tegoed, na afloop van een termijn van drie maanden sedert de verandering van crediteur, de bepalingen toegepast voor „oorspronkelijke geblokkeerde tegoeden”.   
-(2).  Voor de overdracht van vorderingen, ten aanzien waarvan de crediteur slechts betaling in D. mark kan verlangen, zijn de bepalingen van toepassing betreffende het gebruik en de overdracht van dergelijke vorderingen, die op dat ogenblik van kracht zijn in het gebied van de Bondsrepubliek en in Berlijn (West) (zie art. 19.).   
+(2).   Voor de overdracht van vorderingen, ten aanzien waarvan de crediteur slechts betaling in D. mark kan verlangen, zijn de bepalingen van toepassing betreffende het gebruik en de overdracht van dergelijke vorderingen, die op dat ogenblik van kracht zijn in het gebied van de Bondsrepubliek en in Berlijn (West) (zie art. 19.).  
 
 ### Artikel  14  
 
@@ -3883,31 +3881,31 @@ Indien en voor zover de financiële positie van een debiteur door oorlog, oorlog
 (2).  De geldende Duitse en buitenlandse deviezenbepalingen zijn van toepassing op de verhouding tussen crediteur en debiteur, waarbij rekening dient te worden gehouden met de speciale faciliteiten en toezeggingen, die in dit voorstel voor een regeling zijn neergelegd.   
 (3).  Wanneer de debiteur weigert een verklaring af te geven, terwijl de crediteur verklaart zich gebonden te achten door zijn eigen verklaring van toetreding tegenover de debiteur, zullen de Duitse deviezenautoriteiten op zijn verzoek aan de crediteur, binnen de grenzen van zijn verklaring van toetreding, alle noodzakelijke deviezenvergunningen verlenen. Deze deviezenvergunningen moeten het de crediteur mogelijk maken zijn debiteur in rechte aan te spreken en zijn vordering te innen, in de omvang en op de wijze, als in het voorstel voor een regeling is bepaald ten aanzien van zulke vorderingen. Voor zover de crediteur na executie niet voldaan is, kan hij zijn verklaring van toetreding tegenover de debiteur herroepen. De verlening van de deviezenvergunning houdt geen beslissing in ten aanzien van het bestaan en het bedrag der vordering.   
 (4).  Wanneer de crediteur betaling in D. mark verlangt, moet hij schriftelijk tegenover de debiteur verklaren, dat hij de betaling als voldoening van zijn vordering aanneemt.   
-(5).  Wanneer de crediteur betaling naar het buitenland kan verlangen en verlangt, moet de debiteur alle maatregelen nemen, die volgens de geldende Duitse deviezenbepalingen noodzakelijk zijn, om de betaalmiddelen in buitenlandse valuta te verkrijgen.   
+(5).  Wanneer de crediteur betaling naar het buitenland kan verlangen en verlangt, moet de debiteur alle maatregelen nemen, die volgens de geldende Duitse deviezenbepalingen noodzakelijk zijn, om de betaalmiddelen in buitenlandse valuta te verkrijgen.  
 
 ### Artikel  15  
 
 ####Regeling van geschillen
 
-Voor zover in dit voorstel voor een regeling niet uitdrukkelijk anders is bepaald, worden geschillen tussen crediteuren en debiteuren over het bestaan en het bedrag van de vorderingen beslist door het gerecht, of door het tussen partijen overeengekomen scheidsgerecht, dat volgens de rechtsverhouding tussen partijen competent is.  
+Voor zover in dit voorstel voor een regeling niet uitdrukkelijk anders is bepaald, worden geschillen tussen crediteuren en debiteuren over het bestaan en het bedrag van de vorderingen beslist door het gerecht, of door het tussen partijen overeengekomen scheidsgerecht, dat volgens de rechtsverhouding tussen partijen competent is. 
 
 ### Artikel  16  
 
 ####Gemengde Commissie
 
-Een Gemengde Commissie, die zal bestaan uit een gelijk aantal vertegenwoordigers van de crediteurlanden enerzijds en van de Duitse Bondsregering anderzijds, alsmede uit een voorzitter, zal worden gevormd ten einde over meningsverschillen betreffende de uitlegging van de regeling te beslissen. Aanbevolen wordt, de Commissie bevoegd te doen zijn in kwesties van fundamentele betekenis voor de uitlegging van deze regeling, welke haar door de regeringen worden voorgelegd, te beslissen. Wanneer een regering van mening is, dat een kwestie, die voor het scheidsgerecht (artikel 17) aanhangig is, van fundamentele betekenis is, wordt aanbevolen, dat die regering zal kunnen verlangen, dat het scheidsgerecht de kwestie naar de Gemengde Commissie verwijst. Het scheidsgerecht moet hetzelfde recht hebben.  
+Een Gemengde Commissie, die zal bestaan uit een gelijk aantal vertegenwoordigers van de crediteurlanden enerzijds en van de Duitse Bondsregering anderzijds, alsmede uit een voorzitter, zal worden gevormd ten einde over meningsverschillen betreffende de uitlegging van de regeling te beslissen. Aanbevolen wordt, de Commissie bevoegd te doen zijn in kwesties van fundamentele betekenis voor de uitlegging van deze regeling, welke haar door de regeringen worden voorgelegd, te beslissen. Wanneer een regering van mening is, dat een kwestie, die voor het scheidsgerecht (artikel 17) aanhangig is, van fundamentele betekenis is, wordt aanbevolen, dat die regering zal kunnen verlangen, dat het scheidsgerecht de kwestie naar de Gemengde Commissie verwijst. Het scheidsgerecht moet hetzelfde recht hebben. 
 
 ### Artikel  17  
 
 ####Scheidsgerecht
 
-Het in artikel 11 bedoelde scheidsgerecht bestaat uit een door de crediteur en een door de debiteur benoemde scheidsrechter. De twee scheidsrechters kiezen een voorzitter. Indien zij het over de persoon niet eens kunnen worden, verzoeken zij de Voorzitter van de Internationale Kamer van Koophandel hem te benoemen. De scheidsrechters moeten in hun eigen land de bevoegdheid hebben om het ambt van rechter te bekleden; voor de voorzitter is dit niet noodzakelijk. Het scheidsgerecht regelt zelf de procedure. Het zal ook beslissen, welke partij de kosten moet dragen. De Duitse delegatie zal de Bondsregering adviseren er zorg voor te dragen, dat in gevallen, waarin de partijen niet in staat zijn een voorschot voor kosten te geven, of de vastgestelde te betalen, de voldoening van die kosten op een andere gepaste wijze wordt geregeld. Het scheidsgerecht kan op verzoek van beide partijen ook beslissen in andere geschillen tussen crediteuren en debiteuren. Nadere bepalingen met betrekking tot het in dit artikel bedoelde scheidsgerecht zullen worden vastgesteld bij de intergouvernementele onderhandelingen over de uitvoering van de aanbevelingen van de schuldenconferentie.  
+Het in artikel 11 bedoelde scheidsgerecht bestaat uit een door de crediteur en een door de debiteur benoemde scheidsrechter. De twee scheidsrechters kiezen een voorzitter. Indien zij het over de persoon niet eens kunnen worden, verzoeken zij de Voorzitter van de Internationale Kamer van Koophandel hem te benoemen. De scheidsrechters moeten in hun eigen land de bevoegdheid hebben om het ambt van rechter te bekleden; voor de voorzitter is dit niet noodzakelijk. Het scheidsgerecht regelt zelf de procedure. Het zal ook beslissen, welke partij de kosten moet dragen. De Duitse delegatie zal de Bondsregering adviseren er zorg voor te dragen, dat in gevallen, waarin de partijen niet in staat zijn een voorschot voor kosten te geven, of de vastgestelde te betalen, de voldoening van die kosten op een andere gepaste wijze wordt geregeld. Het scheidsgerecht kan op verzoek van beide partijen ook beslissen in andere geschillen tussen crediteuren en debiteuren. Nadere bepalingen met betrekking tot het in dit artikel bedoelde scheidsgerecht zullen worden vastgesteld bij de intergouvernementele onderhandelingen over de uitvoering van de aanbevelingen van de schuldenconferentie. 
 
 ### Artikel  18  
 
 ####Betaling in Duitse mark
 
-Onder betaling in D. mark in de zin van deze regeling wordt verstaan de betaling in Duitse valuta op een rekening, die de buitenlandse crediteur op zijn naam heeft staan of voor zich laat openen bij een financiële instelling in het gebied van de Bondsrepubliek Duitsland of in Berlijn (West). De rekening is onderworpen aan de geldende Duitse deviezenbepalingen. Het verlenen van speciale vergunningen voor andere wijzen van betaling wordt hiermede niet uitgesloten.  
+Onder betaling in D. mark in de zin van deze regeling wordt verstaan de betaling in Duitse valuta op een rekening, die de buitenlandse crediteur op zijn naam heeft staan of voor zich laat openen bij een financiële instelling in het gebied van de Bondsrepubliek Duitsland of in Berlijn (West). De rekening is onderworpen aan de geldende Duitse deviezenbepalingen. Het verlenen van speciale vergunningen voor andere wijzen van betaling wordt hiermede niet uitgesloten. 
 
 ### Artikel  19  
 
@@ -3917,25 +3915,25 @@ Onder betaling in D. mark in de zin van deze regeling wordt verstaan de betaling
 (2).  De buitenlandse crediteur van een „verkregen tegoed” (erworbenes Guthaben) in Duitse valuta zal ook in de toekomst zijn tegoed aan een andere persoon buiten Duitsland mogen overdragen. De buitenlandse crediteur van zulk een tegoed zal ook in de toekomst zijn tegoed in hoofdzaak mogen gebruiken voor investeringen op lange termijn in Duitsland.   
 (3).  De bevoegde Duitse autoriteiten zullen die regelingen treffen, die noodzakelijk zijn om beschikkingen over het tegoed in Duitse valuta in strijd met de wet te voorkomen en om andere misbruiken, die nadelig zijn voor de Duitse volkshuishouding of voor de gezamenlijke crediteuren, uit te sluiten. Een bepaald gebruik, dat op het tijdstip van inwerkingtreding van deze regeling toegestaan is op grond van een algemene vergunning, kan, ter verzekering van de controle, afhankelijk worden gesteld van een speciale vergunning, zonder dat hierdoor de algemene mogelijkheden van gebruik worden beperkt.   
 (4).  De bevoegde Duitse autoriteiten zullen er naar streven faciliteiten te verlenen voor het gebruik van geblokkeerde D. mark-tegoeden, voor zover de deviezenpositie zulks toelaat. Hun doel zal zijn de procedure voor het afgeven van vergunningen zoveel mogelijk te vereenvoudigen.   
-(5).  Voor het bespreken van algemene kwesties, die met het gebruik van geblokkeerde D. mark-tegoeden samenhangen, zal de Bondsregering een commissie van advies vormen, die zal bestaan uit een gelijk aantal vertegenwoordigers van de voornaamste crediteurlanden enerzijds en van de Bondsregering anderzijds.   
+(5).  Voor het bespreken van algemene kwesties, die met het gebruik van geblokkeerde D. mark-tegoeden samenhangen, zal de Bondsregering een commissie van advies vormen, die zal bestaan uit een gelijk aantal vertegenwoordigers van de voornaamste crediteurlanden enerzijds en van de Bondsregering anderzijds.  
 
 ### Artikel  20  
 
 ####Invloed van de regeling op vorderingen
 
-Voor zover niet anders is bepaald, zal deze regeling als zodanig de vorderingen, waarop zij betrekking heeft, niet wijzigen.  
+Voor zover niet anders is bepaald, zal deze regeling als zodanig de vorderingen, waarop zij betrekking heeft, niet wijzigen. 
 
 ### Artikel  21  
 
 ####Valuta-optie-clausules zonder goud-clausule
 
-De beslissing omtrent de valuta, waarin vorderingen met een valuta-optie-clausule (zonder goud-clausule) moeten worden betaald, blijft voorbehouden aan intergouvernementele overeenkomsten.  
+De beslissing omtrent de valuta, waarin vorderingen met een valuta-optie-clausule (zonder goud-clausule) moeten worden betaald, blijft voorbehouden aan intergouvernementele overeenkomsten. 
 
 ### Artikel  22  
 
 ####Concessies ten gunste van de debiteur
 
-De crediteuren zijn van mening, dat de voordelen uit de concessies, die zij in het kader van deze regeling doen, de debiteuren ten goede moeten komen.  
+De crediteuren zijn van mening, dat de voordelen uit de concessies, die zij in het kader van deze regeling doen, de debiteuren ten goede moeten komen. 
 
 ### Artikel  23  
 
@@ -3945,21 +3943,21 @@ De crediteuren zijn van mening, dat de voordelen uit de concessies, die zij in h
 (2).  Aangenomen wordt, dat er geen sprake is van echte conversie op grond van vrije onderhandelingen, wanneer de crediteur op het tijdstip van de conversie door de Duitse Treuhänder voor vijandelijk vermogen of door een dergelijke door een Duitse instantie zonder zijn toestemming benoemde persoon, vertegenwoordigd was.   
 (3).  Bij vorderingen uit obligaties is er ook dan geen echte conversie, indien zij zich uitsluitend beperkt heeft tot het aannemen door de crediteur van een door de debiteur gedaan eenzijdig aanbod.   
 (4).  De debiteur moet bewijzen, dat het een echte conversie betreft.   
-(5).  Bij kerkelijke leningen wordt elke conversie als een echte conversie beschouwd.   
+(5).  Bij kerkelijke leningen wordt elke conversie als een echte conversie beschouwd.  
 
 ### Artikel  24  
 
 ####Valuta, waarin betaald moet worden
 
-Bepalingen over de valuta, waarin geldvorderingen moeten worden betaald, blijven aan intergouvernementele overeenkomsten voorbehouden.  
+Bepalingen over de valuta, waarin geldvorderingen moeten worden betaald, blijven aan intergouvernementele overeenkomsten voorbehouden. 
 
 ### Artikel  25  
 
 ####Wetten voor de certificatie van Duitse effecten
 
-Deze regeling vindt geen toepassing op obligaties en coupons, die op grond van de Duitse wet op de certificatie van effecten van 19 Augustus 1949 (Wirtschaftsgesetzbl. S. 295) en de wet op de certificatie van Duitse „Auslandsbonds” van Augustus 1952 moeten worden gecertificeerd, zolang deze obligaties en coupons niet zijn gecertificeerd volgens de bepalingen van deze wetten en eventuele overeenkomsten, gesloten met het land van emissie met betrekking tot deze wetten.  
+Deze regeling vindt geen toepassing op obligaties en coupons, die op grond van de Duitse wet op de certificatie van effecten van 19 Augustus 1949 (Wirtschaftsgesetzbl. S. 295) en de wet op de certificatie van Duitse „Auslandsbonds” van Augustus 1952 moeten worden gecertificeerd, zolang deze obligaties en coupons niet zijn gecertificeerd volgens de bepalingen van deze wetten en eventuele overeenkomsten, gesloten met het land van emissie met betrekking tot deze wetten. 
 
-### Hoofdstuk  C  
+### Hoofdstuk   C  
 
 ####Regeling van oude handelsvorderingen (artikel 1)
 
@@ -3973,7 +3971,7 @@ Deze regeling vindt geen toepassing op obligaties en coupons, die op grond van d
 
 (b) van de resterende twee derden van het verschuldigde bedrag, in tien gelijke jaarlijkse termijnen, vanaf 1 Januari 1954.     
 (2).  De crediteur kan tot 31 December 1953 verlangen, dat de debiteur, in plaats van de onder lid (1) (*b*) bedoelde betaling naar het buitenland, binnen drie maanden na zijn desbetreffend verzoek het restant van zijn vordering (twee derden van het oorspronkelijk verschuldigde bedrag) in D. mark betaalt. Aan crediteuren en debiteuren wordt overgelaten in onderling overleg deze termijn met nog eens drie maanden te verlengen, indien bijzondere omstandigheden daartoe aanleiding geven.   
-(3).  Na 31 December 1953 kan de crediteur betaling van het restant van zijn vordering in D. mark alleen met goedvinden van de debiteur verlangen.   
+(3).  Na 31 December 1953 kan de crediteur betaling van het restant van zijn vordering in D. mark alleen met goedvinden van de debiteur verlangen.  
 
 ### Artikel  27  
 
@@ -3982,20 +3980,20 @@ Deze regeling vindt geen toepassing op obligaties en coupons, die op grond van d
 (1).  Crediteuren en debiteuren dienen, voor zover noodzakelijk met goedkeuring van de bevoegde instanties, overeenstemming te bereiken over een regeling, die voor hun geval passend is.   
 (2).  Wanneer het niet mogelijk is, tot overeenstemming te komen, heeft de crediteur het recht van de debiteur betaling van het verschuldigde bedrag naar het buitenland te verlangen in tien gelijke jaarlijkse termijnen, te beginnen met 1 October 1953.   
 (3).  De crediteur kan tot 31 December 1953 verlangen, dat de debiteur, in plaats van de onder lid (2) bedoelde betaling naar het buitenland, binnen drie maanden na zijn desbetreffend verzoek, het gehele bedrag zijner vordering in D. mark betaalt. Aan crediteuren en debiteuren wordt het overgelaten in bijzondere omstandigheden, in onderling overleg deze termijn met nog eens drie maanden te verlengen.   
-(4).  Na 31 December 1953 kan de crediteur betaling van de vordering in D. mark alleen met goedkeuring van de debiteur verlangen.   
+(4).  Na 31 December 1953 kan de crediteur betaling van de vordering in D. mark alleen met goedkeuring van de debiteur verlangen.  
 
 ### Artikel  28  
 
 ####Lonen, salarissen, pensioenen, die berusten op een arbeidsovereenkomst; commissies (artikel 1 (7))
 
 (1).  De crediteur kan van de debiteur betaling van het verschuldigde bedrag naar het buitenland verlangen in vijf gelijke jaarlijkse termijnen, te beginnen met 1 Januari 1953. Bij deze regeling kunnen, op verzoek van de rechthebbende, of van een particuliere organisatie van een overheidsinstelling, waaraan de rechthebbende op de vereiste wijze volmacht heeft gegeven om voor hem te handelen, gericht tot de bevoegde Duitse instanties, ook die bedragen betrokken worden, waarvan bewezen kan worden, dat zij tijdelijk door de rechthebbende of zijn werkgever te zijnen gunste op een rekening bij een financiële instelling, gevestigd in het gebied van de Bondsrepubliek of in Berlijn (West), waren gestort. Aan de bevoegde Duitse autoriteiten blijft het recht voorbehouden de mogelijkheid van een vluggere betaling naar het buitenland in gevallen van hardheid in welwillende overweging te nemen.   
-(2).  De crediteur kan te allen tijde verlangen, dat de debiteur het resterende bedrag, hetwelk nog niet naar het buitenland is overgemaakt, binnen drie maanden na zijn desbetreffend verzoek, in D. mark betaalt.   
+(2).  De crediteur kan te allen tijde verlangen, dat de debiteur het resterende bedrag, hetwelk nog niet naar het buitenland is overgemaakt, binnen drie maanden na zijn desbetreffend verzoek, in D. mark betaalt.  
 
 ### Artikel  29  
 
 ####Verplichtingen uit sociale verzekering (artikel 1 (8))
 
-Deze zijn reeds het voorwerp van bilaterale onderhandelingen en verdragen, of kunnen het in de toekomst worden. Aanbevolen wordt, de achterstallige betalingen in deze verdragen op te nemen.  
+Deze zijn reeds het voorwerp van bilaterale onderhandelingen en verdragen, of kunnen het in de toekomst worden. Aanbevolen wordt, de achterstallige betalingen in deze verdragen op te nemen. 
 
 ### Artikel  30  
 
@@ -4012,7 +4010,7 @@ Deze zijn reeds het voorwerp van bilaterale onderhandelingen en verdragen, of ku
 
 (bb) vorderingen uit andere overeenkomsten van schade-, ongevallen- en aansprakelijkheidsverzekeringen, worden volgens de voorschriften van artikel 31 geregeld;    
 
-(c) vorderingen uit alle soorten verzekeringsovereenkomsten voor betaling van pensioenen, volgens de bepalingen van artikel 28.   Bijzonderheden van de bepalingen in lid (2) zullen nog in de overeenkomst worden geregeld.   
+(c) vorderingen uit alle soorten verzekeringsovereenkomsten voor betaling van pensioenen, volgens de bepalingen van artikel 28.   Bijzonderheden van de bepalingen in lid (2) zullen nog in de overeenkomst worden geregeld.  
 
 ### Artikel  31  
 
@@ -4021,18 +4019,18 @@ Deze zijn reeds het voorwerp van bilaterale onderhandelingen en verdragen, of ku
 (1).  De crediteur kan van de debiteur betaling van het verschuldigde bedrag naar het buitenland verlangen in tien gelijke jaarlijkse betalingen, te beginnen met 1 Juli 1953.   
 (2).  De crediteur kan tot 31 December 1953 verlangen, dat de debiteur in plaats van de onder lid (1) bedoelde betaling naar het buitenland, binnen drie maanden na zijn desbetreffend verzoek, het verschuldigde bedrag in D. mark betaalt. Aan crediteuren en debiteuren wordt het overgelaten in bijzondere omstandigheden, in onderling overleg, deze termijn met nog eens drie maanden te verlengen.   
 (3).  Na 31 December 1953 kan de crediteur betaling van de vordering in D. mark alleen met goedkeuring van de debiteur verlangen.   
-(4).  In bijzondere gevallen kunnen crediteur en debiteur, onder voorbehoud van goedkeuring door de bevoegde instanties, een afwijkende regeling treffen.   
+(4).  In bijzondere gevallen kunnen crediteur en debiteur, onder voorbehoud van goedkeuring door de bevoegde instanties, een afwijkende regeling treffen.  
 
 ### Artikel  32  
 
 ####Gemeenschappelijke bepalingen voor oude handelsvorderingen (artikel 1(1) tot en met (9))
 
-(1).   *Achterstallige renten*  Indien over een vordering rente verschuldigd is, zal het bedrag van de tot 31 December 1952 achterstallige rente, zonder bijberekening van samengestelde interest, op de volgende basis worden vastgesteld: 
+(1).   *Achterstallige renten* Indien over een vordering rente verschuldigd is, zal het bedrag van de tot 31 December 1952 achterstallige rente, zonder bijberekening van samengestelde interest, op de volgende basis worden vastgesteld: 
 
 (a) bedroeg de jaarlijkse rente tot nu toe 4 % of minder, dan blijft deze rente gehandhaafd;  
 
 (b) bedroeg de jaarlijkse rente tot nu toe meer dan 4 %, dan wordt deze tot twee derden doch tot niet minder dan 4 % per jaar gereduceerd. Het gereduceerde bedrag aan achterstallige rente wordt aan de hoofdsom toegevoegd.     
-(2).   *Toekomstige renten*  Voor het tijdvak van 1 Januari 1953 tot 31 December 1957 zal geen rente verschuldigd zijn. Indien over de vordering gedurende de periode voor 1 Januari 1953 rente verschuldigd was, zal het op 1 Januari 1958 of later nog niet geamortiseerde bedrag der vordering rente dragen vanaf deze datum. Het rentepercentage zal 75 % bedragen van de verschuldigde rente. Het nieuwe rentepercentage zal echter minstens 4 %, en hoogstens 6 % per jaar bedragen. Wanneer tot nu toe een rente van 4 % per jaar of minder verschuldigd was, blijft deze onveranderd. De rente zal aan het eind van elk jaar, tezamen met het amortisatiebedrag, naar het buitenland worden betaald.   
+(2).   *Toekomstige renten* Voor het tijdvak van 1 Januari 1953 tot 31 December 1957 zal geen rente verschuldigd zijn. Indien over de vordering gedurende de periode voor 1 Januari 1953 rente verschuldigd was, zal het op 1 Januari 1958 of later nog niet geamortiseerde bedrag der vordering rente dragen vanaf deze datum. Het rentepercentage zal 75 % bedragen van de verschuldigde rente. Het nieuwe rentepercentage zal echter minstens 4 %, en hoogstens 6 % per jaar bedragen. Wanneer tot nu toe een rente van 4 % per jaar of minder verschuldigd was, blijft deze onveranderd. De rente zal aan het eind van elk jaar, tezamen met het amortisatiebedrag, naar het buitenland worden betaald.   
 (3).   *Speciale geblokkeerde rekening (Sonderdepot)*  
 
 (a) Voor zover vorderingen behoren tot de categorieën, bedoeld in artikel 1(1) tot en met (7), kan de crediteur, indien hij bewijzen kan dat zijn vordering gevaar loopt, in plaats van betaling volgens de artikelen 26, 27, 28 of 31, van de debiteur betaling verlangen op een speciale geblokkeerde D. mark-rekening op zijn naam bij een instelling, die moet worden aangewezen door de bevoegde Duitse instanties. Indien de debiteur, in verband met een dergelijk verzoek, een beroep doet op de hardheidsclausule (zie artikel 11), zal hij eerst gehouden zijn aan het verzoek van de crediteur tot storting te voldoen, wanneer het beroep van de debiteur op de hardheidsclausule definitief is afgewezen.  
@@ -4049,7 +4047,7 @@ Deze zijn reeds het voorwerp van bilaterale onderhandelingen en verdragen, of ku
 
 (d) De crediteur heeft te allen tijde het recht te verlangen, dat een op een dergelijke rekening gestort bedrag naar zijn rekening in D. mark (zie artikel 18) wordt overgebracht.     
 (4).   *Vorderingen tot een gering bedrag*  De bevoegde Duitse instanties zullen ten aanzien van vorderingen tot geringe bedragen verzoeken van beide partijen om goedkeuring voor een vluggere betaling naar het buitenland in welwillende overweging nemen.   
-(5).   *Betalingen voor goederen en diensten, ten aanzien waarvan de crediteur bewijst, dat de storting op zijn rekening zonder zijn goedkeuring heeft plaats gevonden*  Een crediteur, die bewijst, dat een storting op zijn bank- of postgirorekening voor levering van goederen of diensten (artikel 1) zonder zijn toestemming heeft plaats gevonden, zal door het feit van de storting op zulk een rekening het recht op behandeling van de storting volgens Hoofdstuk C niet verliezen.   
+(5).   *Betalingen voor goederen en diensten, ten aanzien waarvan de crediteur bewijst, dat de storting op zijn rekening zonder zijn goedkeuring heeft plaats gevonden*  Een crediteur, die bewijst, dat een storting op zijn bank- of postgirorekening voor levering van goederen of diensten (artikel 1) zonder zijn toestemming heeft plaats gevonden, zal door het feit van de storting op zulk een rekening het recht op behandeling van de storting volgens Hoofdstuk C niet verliezen.  
 
 ### Hoofdstuk  D  
 
@@ -4057,7 +4055,7 @@ Deze zijn reeds het voorwerp van bilaterale onderhandelingen en verdragen, of ku
 
 ### Artikel  33  
 
-Vorderingen uit het kapitaalverkeer in D. mark, met inbegrip van die vorderingen, die in goudmark of in Rijksmark met goud-clausule luiden en die niet een specifiek buitenlands karakter hebben (zie artikel 6), kunnen ook verder worden betaald volgens de overeengekomen rente- en amortisatie-voorwaarden, in overeenstemming met de op het tijdstip der betaling in de Bondsrepubliek Duitsland en in Berlijn (West) geldende deviezenbepalingen. Volgens de op het ogenblik geldende bepalingen kan betaling alleen in D. mark geschieden.  
+Vorderingen uit het kapitaalverkeer in D. mark, met inbegrip van die vorderingen, die in goudmark of in Rijksmark met goud-clausule luiden en die niet een specifiek buitenlands karakter hebben (zie artikel 6), kunnen ook verder worden betaald volgens de overeengekomen rente- en amortisatie-voorwaarden, in overeenstemming met de op het tijdstip der betaling in de Bondsrepubliek Duitsland en in Berlijn (West) geldende deviezenbepalingen. Volgens de op het ogenblik geldende bepalingen kan betaling alleen in D. mark geschieden. 
 
 ### Artikel  34  
 
@@ -4099,15 +4097,15 @@ Vorderingen uit het kapitaalverkeer, die in niet-Duitse valuta luiden, met inbeg
 
 (11) Buitenlandse crediteuren van vorderingen als bedoeld in artikel 2, lid (2) (*b*) kunnen betaling in D. mark verlangen van de tot 31 December 1952 vervallen rente, zonder de korting bedoeld in lid (2) van dit artikel, indien zij deze betaling aannemen als voldoening van hun vordering.  
 
-(12) Indien noodzakelijk, kunnen voor de regeling van vorderingen uit obligaties en coupons, die onder dit voorstel voor een regeling vallen, de in Bijlage II van de Overeenkomst nopens Duitse buitenlandse schulden neergelegde principes worden aangewend ter aanvulling van dit voorstel voor een regeling.    
+(12) Indien noodzakelijk, kunnen voor de regeling van vorderingen uit obligaties en coupons, die onder dit voorstel voor een regeling vallen, de in Bijlage II van de Overeenkomst nopens Duitse buitenlandse schulden neergelegde principes worden aangewend ter aanvulling van dit voorstel voor een regeling.   
 
-### Hoofdstuk  E  
+### Hoofdstuk   E  
 
-####Achterstallige inkomsten uit investeringen (artikel 3)
+#### Achterstallige inkomsten uit investeringen (artikel 3)
 
 ### Artikel  35  
 
-De betaling geschiedt in D. mark, overeenkomstig de in de Bondsrepubliek Duitsland en in Berlijn (West) geldende deviezenbepalingen.  
+De betaling geschiedt in D. mark, overeenkomstig de in de Bondsrepubliek Duitsland en in Berlijn (West) geldende deviezenbepalingen. 
 
 ### Hoofdstuk  F  
 
@@ -4115,7 +4113,7 @@ De betaling geschiedt in D. mark, overeenkomstig de in de Bondsrepubliek Duitsla
 
 ### Artikel  36  
 
-Deze vorderingen zullen worden geregeld overeenkomstig de bepalingen van de categorie van vorderingen, waartoe zij behoren, of waarmede zij naar hun aard het meest overeenkomen. In twijfelgevallen zal rekening worden gehouden met de bepalingen, die in het algemeen in de betalingsovereenkomsten worden opgenomen.  
+Deze vorderingen zullen worden geregeld overeenkomstig de bepalingen van de categorie van vorderingen, waartoe zij behoren, of waarmede zij naar hun aard het meest overeenkomen. In twijfelgevallen zal rekening worden gehouden met de bepalingen, die in het algemeen in de betalingsovereenkomsten worden opgenomen. 
 
 ### BIJLAGE  IVa  
 
@@ -4176,14 +4174,14 @@ De Duitse delegatie voor buitenlandse schulden. 243-18 Del 39-2177/52 Aan de Voo
 
 3. Briefwisseling betreffende een kwestie van interpretatie verband houdende met de 40ste Uitvoeringsverordening van de Wet op de munthervorming (Umstellungsgesetz).  
 
-4. Briefwisseling betreffende een voorbehoud door de crediteuren gemaakt met betrekking tot de omzetting van vorderingen op secundaire debiteuren en de mogelijkheid dit voorbehoud in te trekken.   Wij hebben de eer U een copie voor te leggen van de door ons ondertekende tekst van de overeenkomst, in het Duits en Engels, en van de vier briefwisselingen, eveneens in het Duits en Engels, met het verzoek deze zo spoedig mogelijk goed te keuren. Wij zouden U erkentelijk zijn, indien de overeenkomst evenals de vier briefwisselingen als onderbijlagen bij de Bijlagen I, II en IV van de Schuldenovereenkomst gevoegd zouden kunnen worden. Met de meeste hoogachting enz. (w.g.) Hermann J. ABS Hoofd van de Duitse delegatie voor de buitenlandse schulden. (w.g.) N. LEGGETT Voorzitter van de Onderhandelingscommissie B van de Conferentie over de Duitse buitenlandse schulden. Opmerking: 
+4. Briefwisseling betreffende een voorbehoud door de crediteuren gemaakt met betrekking tot de omzetting van vorderingen op secundaire debiteuren en de mogelijkheid dit voorbehoud in te trekken.   Wij hebben de eer U een copie voor te leggen van de door ons ondertekende tekst van de overeenkomst, in het Duits en Engels, en van de vier briefwisselingen, eveneens in het Duits en Engels, met het verzoek deze zo spoedig mogelijk goed te keuren. Wij zouden U erkentelijk zijn, indien de overeenkomst evenals de vier briefwisselingen als onderbijlagen bij de Bijlagen I, II en IV van de Schuldenovereenkomst gevoegd zouden kunnen worden. Met de meeste hoogachting enz. (w.g.) Hermann J. ABS Hoofd van de Duitse delegatie voor de  buitenlandse schulden. (w.g.) N. LEGGETT Voorzitter van de Onderhandelingscommissie B van de Conferentie over de Duitse buitenlandse schulden. Opmerking: 
 
 1.  *De ondertekenaars van de vorenstaande brief zijn overeengekomen, dat deze stukken thans Bijlage VII van de Overeenkomst nopens Duitse buitenlandse schulden zullen worden; het in de laatste alinea van de brief uitgesproken verzoek, deze stukken als onderbijlagen te voegen bij de Bijlagen I, II en IV van de Overeenkomst is hiermede vervallen.*   
 
 2.  *De in de slotalinea van de vorenstaande brief bedoelde briefwisseling is thans samengevat en als onderbijlage bij de Bijlage VII gevoegd.*    
 ###Overeenkomst over verplichtingen in goudmark en Rijksmark met goud-clausule, die een specifiek buitenlands karakter dragen
 
-*Londen, 21 November 1952.*  Op grond van het voorbehoud, gemaakt in artikel V, lid 3, van bijlage 4 en in artikel 6 van bijlage 6 bij het rapport van de Londense schuldenconferentie, alsmede op grond van het gemeenschappelijk schrijven van de leiders van de Duitse delegatie de heer Hermann J. Abs en de heer Otto Niemeyer aan de Drie Mogendheden Commissie voor de Duitse schulden van 19 November 1952, betreffende leningen in goudmark van Duitse gemeenten, wordt het volgende overeengekomen: 
+*Londen, 21 November 1952.*   Op grond van het voorbehoud, gemaakt in artikel V, lid 3, van bijlage 4 en in artikel 6 van bijlage 6 bij het rapport van de Londense schuldenconferentie, alsmede op grond van het gemeenschappelijk schrijven van de leiders van de Duitse delegatie de heer Hermann J. Abs en de heer Otto Niemeyer aan de Drie Mogendheden Commissie voor de Duitse schulden van 19 November 1952, betreffende leningen in goudmark van Duitse gemeenten, wordt het volgende overeengekomen: 
 
 I. Van de navolgende vorderingen en rechten wordt erkend, dat zij een specifiek buitenlands karakter in de zin van de vorenbedoelde bepalingen hebben. 
 
@@ -4201,7 +4199,7 @@ I. Van de navolgende vorderingen en rechten wordt erkend, dat zij een specifiek 
 
 II. Tot de vorderingen en rechten hierboven onder I bedoeld behoren niet vorderingen van buitenlandse credietinstellingen en verzekeringsmaatschappijen, die volgens Duits recht een conversierekening moesten aanhouden, onder voorbehoud dat de vorderingen op deze rekening als activa opgenomen behoorden te worden.  
 
-III.  <sup> 1)  Deze tekst is op 12 Februari 1953 in onderling overleg tussen partijen aldus vastgesteld.  </sup> Ten aanzien van zekerheden op onroerend goed (Hypotheken, Grundschulden und Rentenschulden), die op 20 Juni 1948 waren gesteld ter verzekering van de in deze overeenkomst bedoelde persoonlijke vorderingen van een buitenlandse crediteur, blijft het, behoudens de volgende bepalingen, bij de oorspronkelijke omzetting, welke op grond van de Wet op de munthervorming (Umstellungsgesetz) met inbegrip van de daarbij behorende 40ste Uitvoeringsverordening heeft plaats gevonden. In die gevallen, waarin zulk een zekerheid op onroerend goed, volgens deze voorschriften, in een andere verhouding als 1 : 1 is omgezet, zal de zakelijke zekerheid van de crediteur in de vorm van zekerheid op onroerend goed tot hetzelfde nominale bedrag als de zekerheid op onroerend goed te zijnen gunste op 20 Juni 1948, onder aftrek van eventuele verminderingen sindsdien, hersteld worden in dezelfde rang, voor zover dit mogelijk is zonder aantasting van door derden in het tijdvak van 21 Juni 1948 tot 15 Juli 1952 verworven zakelijke rechten. Voor zover in het genoemde tijdvak derden zakelijke rechten hebben verworven, gelden de volgende beginselen, ten aanzien waarvan is overeengekomen, dat zij in details in de Duitse wetgeving zullen worden uitgewerkt: 
+III.  <sup> 1) Deze tekst is op 12 Februari 1953 in onderling overleg tussen partijen aldus vastgesteld. </sup>  Ten aanzien van zekerheden op onroerend goed (Hypotheken, Grundschulden und Rentenschulden), die op 20 Juni 1948 waren gesteld ter verzekering van de in deze overeenkomst bedoelde persoonlijke vorderingen van een buitenlandse crediteur, blijft het, behoudens de volgende bepalingen, bij de oorspronkelijke omzetting, welke op grond van de Wet op de munthervorming (Umstellungsgesetz) met inbegrip van de daarbij behorende 40ste Uitvoeringsverordening heeft plaats gevonden. In die gevallen, waarin zulk een zekerheid op onroerend goed, volgens deze voorschriften, in een andere verhouding als 1 : 1 is omgezet, zal de zakelijke zekerheid van de crediteur in de vorm van zekerheid op onroerend goed tot hetzelfde nominale bedrag als de zekerheid op onroerend goed te zijnen gunste op 20 Juni 1948, onder aftrek van eventuele verminderingen sindsdien, hersteld worden in dezelfde rang, voor zover dit mogelijk is zonder aantasting van door derden in het tijdvak van 21 Juni 1948 tot 15 Juli 1952 verworven zakelijke rechten. Voor zover in het genoemde tijdvak derden zakelijke rechten hebben verworven, gelden de volgende beginselen, ten aanzien waarvan is overeengekomen, dat zij in details in de Duitse wetgeving zullen worden uitgewerkt: 
 
 (a) Als het onroerend goed van eigenaar is veranderd, wordt de aldus verdwenen zekerheid van de crediteur slechts in zoverre door een hypotheek hersteld, als de heffing wegens winst op hypotheken (Hypothekengewinnabgabe) wordt verminderd.  
 
@@ -4214,13 +4212,13 @@ III.  <sup> 1)  Deze tekst is op 12 Februari 1953 in onderling overleg tussen pa
 IV. In elk geval zal voor het specifiek buitenlands karakter een vereiste zijn, dat de vorderingen op 1 Januari 1945 toekwamen aan een persoon, die op dat tijdstip de nationaliteit van een crediteurland bezat of op dat tijdstip, zonder de Duitse nationaliteit te bezitten, in een crediteurland woonachtig was. Voor zover een vordering of een zekerheid voor een vordering op dat tijdstip aan een trustee toekwam, is de maatstaf niet de persoon van de trustee, doch de persoon van de opdrachtgever. Een rechtspersoon wordt geacht in de zin van de vorenbedoelde bepalingen de nationaliteit te bezitten van het land, volgens welks wetten zij is opgericht.  
 
 V. De vertegenwoordigers van crediteuren hebben verzocht de vorderingen, met inbegrip van hypotheken, van buitenlandse crediteuren tegen secundaire debiteuren [in de zin van Artikel 15 lid (8) van de Wet op de munthervorming (Umstellungsgesetz) zoals dit luidt in de nieuwe bewoordingen volgens de AHK-wet Nr. 46 (Amtsblatt 1951 Nr. 46 S. 756) — zonder beperking echter tot onderdanen van de Verenigde Naties], voor zover deze vorderingen of zekerheden in goudmark of in Rijksmark met goud-clausule of goudoptie luidden, te beschouwen als hebbende een specifiek buitenlands karakter en om te zetten in de verhouding van 1 goudmark of 1 Rijksmark met goud-clausule = 1 Duitse mark. Hierop heeft de Duitse delegatie geantwoord, dat deze vorderingen en hypotheken moeten worden bezien vanuit het gezichtspunt van de zekerheid, welke de primaire Duitse debiteur zou moeten voorstellen in een aanbod volgens de Londense Schuldenovereenkomst. Overeengekomen is, dat deze kwestie zou blijven rusten totdat de aangelegenheid van zekerheid voor de individuele verplichtingen van primaire debiteuren tot klaarheid is gebracht. De vertegenwoordigers van crediteuren behielden zich echter het recht voor, een definitieve regeling van de omzetting der verplichtingen van secundaire debiteuren in de verhouding van 1 goudmark of 1 Rijksmark met goudclausule = 1 Duitse mark te verlangen, voor het geval de zekerheden aangeboden door de Duitse primaire debiteur in een bijzonder geval niet voldoende zouden zijn.     
-(w.g.) Hermann J. ABS Hoofd van de Duitse delegatie voor de buitenlandse schulden. (w.g.) N. LEGGETT Voorzitter van de Onderhandelingscommissie B van de Conferentie over de Duitse buitenlandse schulden.  
+(w.g.) Hermann J. ABS  Hoofd van de Duitse delegatie voor de buitenlandse schulden. (w.g.) N. LEGGETT  Voorzitter van de Onderhandelingscommissie B van de Conferentie over  de Duitse buitenlandse schulden.  
 
 ### BIJLAGE  VIIa  
 
 ####Overeengekomen regelingen ter opheldering van verschillende kwesties samenhangende met Bijlage VII
 
-Aan de Voorzitter van de Drie Mogendheden Commissie voor Duitse schulden, 29, Chesham Place, Londen, S.W. 1.  *Londen, 9 Februari 1953.*  Mijnheer de Voorzitter, Wij refereren aan onze brief van 21 November 1952, waarbij vier briefwisselingen waren gevoegd, bestemd om verschillende kwesties op te helderen in verband met de overeenkomst van 21 November 1952 over verplichtingen in goudmark en Rijksmark met goudclausule, die een specifiek buitenlands karakter dragen. Voorgesteld werd om ter vereenvoudiging deze vier briefwisselingen in een enkel document samen te vatten, hetwelk bij de bovengenoemde overeenkomst van 21 November 1952 gevoegd zou worden. Wij zijn het thans eens geworden over de tekst van deze bijlage en wij hebben de eer U deze in het Engels en Duits te zenden, met het verzoek haar als bijlage bij de bedoelde overeenkomst te voegen. Met de meeste hoogachting enz. (w.g.) Hermann J. ABS Hoofd van de Duitse delegatie voor de Buitenlandse schulden. (w.g.) N. J. F. LEGGETT Voorzitter van de Onderhandelingscommissie B van de Conferentie over de Duitse buitenlandse schulden. 
+Aan de Voorzitter van de Drie Mogendheden Commissie  voor Duitse schulden,  29, Chesham Place,  Londen, S.W. 1.  *Londen, 9 Februari 1953.*   Mijnheer de Voorzitter, Wij refereren aan onze brief van 21 November 1952, waarbij vier briefwisselingen waren gevoegd, bestemd om verschillende kwesties op te helderen in verband met de overeenkomst van 21 November 1952 over verplichtingen in goudmark en Rijksmark met goudclausule, die een specifiek buitenlands karakter dragen. Voorgesteld werd om ter vereenvoudiging deze vier briefwisselingen in een enkel document samen te vatten, hetwelk bij de bovengenoemde overeenkomst van 21 November 1952 gevoegd zou worden. Wij zijn het thans eens geworden over de tekst van deze bijlage en wij hebben de eer U deze in het Engels en Duits te zenden, met het verzoek haar als bijlage bij de bedoelde overeenkomst te voegen. Met de meeste hoogachting enz. (w.g.) Hermann J. ABS Hoofd van de Duitse delegatie voor de  Buitenlandse schulden. (w.g.) N. J. F. LEGGETT Voorzitter van de Onderhandelingscommissie B van de Conferentie over de Duitse buitenlandse schulden. 
 ###Bijlage bij de Overeenkomst van 21 November 1952 over verplichtingen in goudmark en Rijksmark met goud-clausule
 
 De navolgende bepalingen zullen een bijlage bij de Overeenkomst van 21 November 1952 vormen: 
@@ -4260,7 +4258,7 @@ Artikel 5 lid 2 van de Overeenkomst nopens Duitse buitenlandse schulden mag niet
 (3).  De Regering van de Bondsrepubliek Duitsland is gerechtigd een supplementair lid te benoemen voor die procedures, waaraan een volgens lid 2 van dit Artikel benoemd supplementair lid deelneemt.   
 (4).  Van de eerste benoemingen van de permanente leden van het Tribunaal van Arbitrage moet binnen twee maanden na het in werking treden van de Overeenkomst aan de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland mededeling worden gedaan. Van de benoemingen ter vervulling van vacatures moet binnen één maand na het ontstaan daarvan mededeling worden gedaan.   
 (5).  Partijen bij de Overeenkomst, die een supplementair lid volgens lid 2 van dit Artikel benoemen, moeten de benoeming aan het Tribunaal van Arbitrage mededelen binnen één maand, nadat de procedure, in verband waarmede de benoeming plaats vindt, bij het Tribunaal aanhangig is gemaakt. Wanneer de benoeming van zulk een supplementair lid niet binnen dit tijdvak aan het Tribunaal van Arbitrage is medegedeeld, zal de procedure worden gevoerd, zonder dat daaraan supplementaire leden medewerken.   
-(6).  De Regering van de Bondsrepubliek Duitsland zal de benoeming van een supplementair lid, volgens lid 3 van dit Artikel, aan het Tribunaal van Arbitrage mededelen binnen één maand gerekend vanaf de dag, waarop de mededeling over de benoeming van een supplementair lid, volgens lid 2 van dit Artikel, door het Tribunaal van Arbitrage is ontvangen. Wanneer de benoeming van zulk een supplementair lid niet binnen dit tijdvak aan het Tribunaal van Arbitrage is medegedeeld, zal de procedure worden gevoerd, zonder dat dit supplementaire lid daaraan medewerkt.   
+(6).  De Regering van de Bondsrepubliek Duitsland zal de benoeming van een supplementair lid, volgens lid 3 van dit Artikel, aan het Tribunaal van Arbitrage mededelen binnen één maand gerekend vanaf de dag, waarop de mededeling over de benoeming van een supplementair lid, volgens lid 2 van dit Artikel, door het Tribunaal van Arbitrage is ontvangen. Wanneer de benoeming van zulk een supplementair lid niet binnen dit tijdvak aan het Tribunaal van Arbitrage is medegedeeld, zal de procedure worden gevoerd, zonder dat dit supplementaire lid daaraan medewerkt.  
 
 ### Artikel  2  
 
@@ -4269,7 +4267,7 @@ Artikel 5 lid 2 van de Overeenkomst nopens Duitse buitenlandse schulden mag niet
 (3).  Wanneer een ander permanent lid als de voorzitter of vicevoorzitter komt te overlijden, zijn functie neerlegt of verhinderd is zijn functie uit te oefenen, zal de regering, die dit lid benoemd heeft, binnen twee maanden na het vacant worden van de zetel een opvolger benoemen, die de functie zal uitoefenen gedurende de rest van de tijd, waarvoor het lid, dat hij vervangt, was benoemd.   
 (4).  Wanneer een permanent lid tijdelijk niet in staat is aan de zittingen van het Tribunaal van Arbitrage deel te nemen, kan de regering, die dit lid heeft benoemd, een plaatsvervanger benoemen om hem gedurende zijn afwezigheid te vervangen.   
 (5).  Indien de ambtsperiode van een permanent lid verstreken is, of deze zijn functie neerlegt, moet hij toch tot de benoeming van zijn opvolger de plichten verbonden aan zijn functie blijven uitoefenen. Ook na deze benoeming moet het uitgetreden lid zijn taak ten aanzien van lopende procedures, waaraan hij heeft medegewerkt, blijven uitoefenen, totdat deze definitief zijn afgedaan, tenzij de voorzitter van het Tribunaal van Arbitrage een andere regeling treft.   
-(6).  Permanente leden kunnen vóór de afloop van de termijn, voor welke zij in functie zijn, alleen van hun functie worden ontheven nadat terzake overeenstemming tussen de in Artikel 1 lid 1 van dit Statuut genoemde regeringen is bereikt; ten aanzien van leden, die door de President van het Internationale Gerechtshof zijn benoemd, is daarenboven diens toestemming nodig.   
+(6).  Permanente leden kunnen vóór de afloop van de termijn, voor welke zij in functie zijn, alleen van hun functie worden ontheven nadat terzake overeenstemming tussen de in Artikel 1 lid 1 van dit Statuut genoemde regeringen is bereikt; ten aanzien van leden, die door de President van het Internationale Gerechtshof zijn benoemd, is daarenboven diens toestemming nodig.  
 
 ### Artikel  3  
 
@@ -4279,7 +4277,7 @@ Artikel 5 lid 2 van de Overeenkomst nopens Duitse buitenlandse schulden mag niet
 
 (a) Gedurende en na hun ambtsperiode zullen de leden van het Tribunaal van Arbitrage, die niet van Duitse nationaliteit zijn, niet onderworpen zijn aan eventuele gerechtelijke vervolging voor handelingen, die zij in de uitoefening van hun functie hebben verricht Leden van het Tribunaal van Arbitrage, die wel van Duitse nationaliteit zijn, zullen in zoverre niet onderworpen zijn aan eventuele gerechtelijke vervolging voor handelingen, die zij in de uitoefening van hun functie hebben verricht, als dit het geval is ten aanzien van rechters, die zitting hebben in Duitse rechtbanken in de Bondsrepubliek Duitsland.  
 
-(b) De leden van het Tribunaal van Arbitrage, die niet van Duitse nationaliteit zijn, genieten binnen het gebied van de Bondsrepubliek Duitsland dezelfde voorrechten en immuniteiten als aan de leden van de diplomatieke missies toekomen.     
+(b) De leden van het Tribunaal van Arbitrage, die niet van Duitse nationaliteit zijn, genieten binnen het gebied van de Bondsrepubliek Duitsland dezelfde voorrechten en immuniteiten als aan de leden van de diplomatieke missies toekomen.    
 
 ### Artikel  4  
 
@@ -4290,15 +4288,15 @@ Artikel 5 lid 2 van de Overeenkomst nopens Duitse buitenlandse schulden mag niet
 (b) een gelijk aantal permanente leden, die door de Regering van de Bondsrepubliek Duitsland zijn benoemd, en die door andere Partijen bij de Overeenkomst zijn benoemd;  
 
 (c) de supplementaire leden, die gerechtigd zijn aan de zitting deel te nemen.     
-(2).  Bij afwezigheid van de voorzitter neemt de vice-voorzitter zijn bevoegdheden en plichten waar.   
+(2).   Bij afwezigheid van de voorzitter neemt de vice-voorzitter zijn bevoegdheden en plichten waar.  
 
 ### Artikel  5  
 
-De zetel van het Tribunaal van Arbitrage is in de Bondsrepubliek Duitsland gelegen; de plaats van de zetel zal nog worden bepaald in een aanvullende administratieve overeenkomst, welke tussen de regeringen, die gerechtigd zijn de permanente leden van het Tribunaal van Arbitrage te benoemen, zal worden afgesloten.  
+De zetel van het Tribunaal van Arbitrage is in de Bondsrepubliek Duitsland gelegen; de plaats van de zetel zal nog worden bepaald in een aanvullende administratieve overeenkomst, welke tussen de regeringen, die gerechtigd zijn de permanente leden van het Tribunaal van Arbitrage te benoemen, zal worden afgesloten. 
 
 ### Artikel  6  
 
-Het Tribunaal van Arbitrage zal voor de interpretatie van de Overeenkomst en de Bijlagen de algemeen erkende regels van internationaal recht toepassen.  
+Het Tribunaal van Arbitrage zal voor de interpretatie van de Overeenkomst en de Bijlagen de algemeen erkende regels van internationaal recht toepassen. 
 
 ### Artikel  7  
 
@@ -4309,18 +4307,18 @@ Het Tribunaal van Arbitrage zal voor de interpretatie van de Overeenkomst en de 
 (b) De beslissingen van het Tribunaal van Arbitrage zullen in de drie talen worden gegeven.     
 (2).  De regeringen worden in hun kwaliteit van partijen in een procedure voor het Tribunaal van Arbitrage vertegenwoordigd door gemachtigden, die kunnen worden bijgestaan door advocaten.   
 (3).  De procedure bestaat uit een schriftelijk en een mondeling gedeelte. Van de mondelinge behandeling kan op verzoek van de partijen in de procedure worden afgezien.   
-(4).  Het Tribunaal van Arbitrage beslist met meerderheid van stemmen. De uitspraken worden schriftelijk gegeven; zij bevatten een uiteenzetting van de feiten en de gronden voor de beslissing, alsmede eventueel de afwijkende mening van een lid.   
+(4).  Het Tribunaal van Arbitrage beslist met meerderheid van stemmen. De uitspraken worden schriftelijk gegeven; zij bevatten een uiteenzetting van de feiten en de gronden voor de beslissing, alsmede eventueel de afwijkende mening van een lid.  
 
 ### Artikel  8  
 
 (1).  De salarissen en toelagen van de voorzitter en de vice-voorzitter worden voor de helft betaald door de Regering van de Bondsrepubliek Duitsland en voor de andere helft voor gelijke delen door de andere regeringen, die gerechtigd zijn permanente leden te benoemen.   
 (2).  De salarissen en toelagen van de andere leden van het Tribunaal van Arbitrage worden betaald door de regering, die het lid benoemd heeft; wanneer verschillende regeringen een lid gemeenschappelijk hebben benoemd, dragen zij gelijkelijk bij in de kosten.   
 (3).  De middelen noodzakelijk ter dekking van de overige kosten van het Tribunaal van Arbitrage zullen door de Regering van de Bondsrepubliek Duitsland worden verschaft.   
-(4).  De administratie en de accommodatie van het Tribunaal van Arbitrage alsmede de aanstelling en salariëring van het personeel worden in een aanvullende administratieve overeenkomst geregeld, welke tussen de regeringen, die gerechtigd zijn de permanente leden van het Tribunaal te benoemen, zal worden afgesloten.   
+(4).  De administratie en de accommodatie van het Tribunaal van Arbitrage alsmede de aanstelling en salariëring van het personeel worden in een aanvullende administratieve overeenkomst geregeld, welke tussen de regeringen, die gerechtigd zijn de permanente leden van het Tribunaal te benoemen, zal worden afgesloten.  
 
 ### Artikel  9  
 
-Het Tribunaal van Arbitrage stelt zelf zijn procesgang vast, die in overeenstemming moet zijn met de bepalingen van dit Statuut en van de Overeenkomst.  
+Het Tribunaal van Arbitrage stelt zelf zijn procesgang vast, die in overeenstemming moet zijn met de bepalingen van dit Statuut en van de Overeenkomst. 
 
 ### BIJLAGE  X  
 
@@ -4333,11 +4331,11 @@ Het Tribunaal van Arbitrage stelt zelf zijn procesgang vast, die in overeenstemm
 (3).  De Regering van de Bondsrepubliek Duitsland is gerechtigd een supplementair lid te benoemen voor procedures, waaraan een volgens lid 2 van dit artikel benoemd supplementair lid deelneemt.   
 (4).  Van de benoeming van een permanent lid van de commissie, dat in plaats van een permanent lid van het Tribunaal van Arbitrage wordt benoemd, moet binnen 2 maanden na het in werking treden van deze Overeenkomst aan de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland mededeling worden gedaan. Van benoemingen ter vervulling van vacatures van leden, die volgens de bepalingen van dit lid zijn benoemd, moet binnen een maand na het ontstaan van de vacatures mededeling worden gedaan.   
 (5).  Partijen bij de Overeenkomst, die een supplementair lid volgens lid 2 van dit artikel benoemen, moeten de benoeming aan de commissie mededelen binnen 1 maand, nadat de procedure, in verband waarmede de benoeming plaats heeft, bij haar aanhangig is gemaakt. Wanneer de benoeming van zulk een supplementair lid niet binnen dit tijdvak is medegedeeld, zal de procedure worden gevoerd zonder dat daaraan supplementaire leden medewerken.   
-(6).  De Regering van de Bondsrepubliek Duitsland zal de benoeming van een supplementair lid volgens lid 3 van dit artikel aan de commissie mededelen binnen 1 maand, gerekend vanaf de dag, waarop de mededeling over de benoeming van een supplementair lid volgens lid 2 van dit artikel bij de commissie is binnengekomen. Wanneer de benoeming van zulk een supplementair lid niet binnen dit tijdvak aan de commissie is medegedeeld, zal de procedure worden gevoerd zonder dat dit supplementaire lid daaraan medewerkt.   
+(6).  De Regering van de Bondsrepubliek Duitsland zal de benoeming van een supplementair lid volgens lid 3 van dit artikel aan de commissie mededelen binnen 1 maand, gerekend vanaf de dag, waarop de mededeling over de benoeming van een supplementair lid volgens lid 2 van dit artikel bij de commissie is binnengekomen. Wanneer de benoeming van zulk een supplementair lid niet binnen dit tijdvak aan de commissie is medegedeeld, zal de procedure worden gevoerd zonder dat dit supplementaire lid daaraan medewerkt.  
 
 ### Artikel  2  
 
-Voor de permanente leden van de commissie gelden met betrekking tot de duur van de functie, herbenoeming, benoeming van opvolgers en plaatsvervangers, uitoefening van de functie na bedanken of afloop van de ambtsperiode en ontheffing, dezelfde bepalingen, als gelden voor permanente leden van het Tribunaal van Arbitrage volgens Artikel 2 van het Statuut voor het Tribunaal (Bijlage IX van de Overeenkomst).  
+Voor de permanente leden van de commissie gelden met betrekking tot de duur van de functie, herbenoeming, benoeming van opvolgers en plaatsvervangers, uitoefening van de functie na bedanken of afloop van de ambtsperiode en ontheffing, dezelfde bepalingen, als gelden voor permanente leden van het Tribunaal van Arbitrage volgens Artikel 2 van het Statuut voor het Tribunaal (Bijlage IX van de Overeenkomst). 
 
 ### Artikel  3  
 
@@ -4347,7 +4345,7 @@ Voor de permanente leden van de commissie gelden met betrekking tot de duur van 
 
 (a) Gedurende en na hun ambtsperiode zullen de leden van de commissie, die niet van Duitse nationaliteit zijn, niet onderworpen zijn aan eventuele gerechtelijke vervolging voor handelingen, welke zij in de uitoefening van hun functie hebben verricht. Leden van de commissie die wel van Duitse nationaliteit zijn, zullen in zoverre niet onderworpen zijn aan eventuele gerechtelijke vervolging voor handelingen, die zij in de uitoefening van hun functie hebben verricht, als zulks het geval is ten aanzien van rechters, die zitting hebben in Duitse rechtbanken in de Bondsrepubliek Duitsland.  
 
-(b) De leden van de commissie, die niet van Duitse nationaliteit zijn, genieten binnen het gebied van de Bondsrepubliek Duitsland dezelfde voorrechten en immuniteiten als aan leden van diplomatieke missies toekomen.     
+(b) De leden van de commissie, die niet van Duitse nationaliteit zijn, genieten binnen het gebied van de Bondsrepubliek Duitsland dezelfde voorrechten en immuniteiten als aan leden van diplomatieke missies toekomen.    
 
 ### Artikel  4  
 
@@ -4361,15 +4359,15 @@ De bij de commissie aanhangige zaken worden behandeld door 3 permanente leden en
 
 (i) een regering van een crediteurland, dat het recht heeft een permanent lid te benoemen, of  
 
-(ii) een persoon, die onderdaan is van zulk een land of daar gevestigd is,   het permanente lid, benoemd door de regering van dat land, medewerken. Indien volgens deze bepaling meer dan één permanent lid het recht zou hebben om mede te werken, bepaalt de voorzitter wie van hen zitting zal nemen.    
+(ii) een persoon, die onderdaan is van zulk een land of daar gevestigd is,   het permanente lid, benoemd door de regering van dat land, medewerken. Indien volgens deze bepaling meer dan één permanent lid het recht zou hebben om mede te werken, bepaalt de voorzitter wie van hen zitting zal nemen.   
 
 ### Artikel  5  
 
-De commissie heeft haar zetel in dezelfde plaats als het Tribunaal van Arbitrage.  
+De commissie heeft haar zetel in dezelfde plaats als het Tribunaal van Arbitrage. 
 
 ### Artikel  6  
 
-De commissie zal voor de interpretatie van Bijlage IV van de Overeenkomst de algemeen erkende regels van internationaal recht toepassen.  
+De commissie zal voor de interpretatie van Bijlage IV van de Overeenkomst de algemeen erkende regels van internationaal recht toepassen. 
 
 ### Artikel  7  
 
@@ -4383,18 +4381,18 @@ De commissie zal voor de interpretatie van Bijlage IV van de Overeenkomst de alg
 (4).  De commissie beslist met meerderheid van stemmen. De uitspraken worden schriftelijk gegeven; zij bevatten een uiteenzetting van de feiten en de gronden voor de beslissing, alsmede eventueel de afwijkende mening van een lid.   
 (5).  De commissie kan in elke voor haar aanhangige procedure een kwestie, die naar haar mening voor de interpretatie van Bijlage IV van de Overeenkomst van principiële betekenis is, aan het Tribunaal van Arbitrage ter beslissing voorleggen. In dat geval zal de commissie de procedure schorsen, tot het Tribunaal van Arbitrage zijn beslissing heeft gegeven.   
 (6).  Wanneer een Partij bij de Overeenkomst van een uitspraak van de commissie overeenkomstig Artikel 31 lid 7 van de Overeenkomst in hoger beroep gaat bij het Tribunaal van Arbitrage, moet zij hiervan aan de commissie schriftelijk mededeling doen.   
-(7).  Voorzover de commissie niet anders bepaalt, draagt elke partij in een procedure haar eigen kosten.   
+(7).  Voorzover de commissie niet anders bepaalt, draagt elke partij in een procedure haar eigen kosten.  
 
 ### Artikel  8  
 
 (1).  De salarissen en toelagen van een permanent lid van de commissie, dat in plaats van een permanent lid van het Tribunaal van Arbitrage in de commissie is benoemd, zullen, evenals die van de supplementaire leden, worden betaald door de regeringen, die de desbetreffende leden hebben benoemd.   
 (2).  Voor de kosten, die van de partijen bij de procedure worden gevorderd, zal een tarief worden vastgesteld bij een aanvullende administratieve overeenkomst, welke tussen de regeringen, die gerechtigd zijn permanente leden van het Tribunaal van Arbitrage te benoemen, zal worden afgesloten.   
 (3).  Andere kosten van de commissie, die niet door dit tarief worden gedekt, worden door de Bondsrepubliek Duitsland gedragen.   
-(4).  De commissie zal met betrekking tot haar administratie, accommodatie en personeel gebruik maken van de administratieve outillage van het Tribunaal van Arbitrage. Andere speciale administratieve maatregelen voor de commissie zullen in de aanvullende administratieve overeenkomst, bedoeld in lid 2 van dit artikel, worden geregeld.   
+(4).  De commissie zal met betrekking tot haar administratie, accommodatie en personeel gebruik maken van de administratieve outillage van het Tribunaal van Arbitrage. Andere speciale administratieve maatregelen voor de commissie zullen in de aanvullende administratieve overeenkomst, bedoeld in lid 2 van dit artikel, worden geregeld.  
 
 ### Artikel  9  
 
-De commissie stelt zelf haar procesgang vast, die in overeenstemming moet zijn met de bepalingen van dit Statuut en van de Overeenkomst.  
+De commissie stelt zelf haar procesgang vast, die in overeenstemming moet zijn met de bepalingen van dit Statuut en van de Overeenkomst. 
 
 ### AANHANGSEL  A  
 
@@ -4413,14 +4411,14 @@ De Bondsrepubliek bevestigt hierbij, dat zij aansprakelijk is voor de buitenland
 De Bondsregering erkent hierbij in principe de schulden uit hoofde van de aan Duitsland sedert 8 Mei 1945 verleende economische hulp, voorzover de aansprakelijkheid hiervoor niet reeds is erkend in de overeenkomst inzake economische samenwerking, gesloten op 15 December 1949 tussen de Bondsrepubliek en de Verenigde Staten van Amerika, of de Bondsrepubliek niet reeds volgens artikel 133 van de Grondwet de aansprakelijkheid hiervoor heeft overgenomen. De Bondsregering is bereid aan de verplichtingen, voortkomende uit de economische hulp, voorrang te verlenen boven alle andere buitenlandse vorderingen op Duitsland of Duitse onderdanen. De Bondsregering acht het doelmatig de met de erkenning en afwikkeling van deze schulden samenhangende kwesties te regelen in bilaterale overeenkomsten met de regeringen van de landen, die economische hulp hebben verleend, op dezelfde wijze als de met de Verenigde Staten van Amerika gesloten overeenkomst van 15 December 1949. De Bondsregering neemt aan, dat in deze overeenkomsten voor gevallen van meningsverschil een arbitrage-clausule wordt opgenomen. Zij is bereid onmiddellijk onderhandelingen te beginnen met de belanghebbende regeringen over het afsluiten van deze overeenkomsten. 
 ###III
 
-De Bondsregering spreekt hierbij de wens uit de betalingen op de Duitse buitenlandse schuld te hervatten. Zij gaat ervan uit, dat tussen haar en de Regeringen van Frankrijk, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika eenstemmigheid bestaat over het volgende: Het is in het belang van een herstel van normale economische betrekkingen tussen de Bondsrepubliek en andere landen, zo spoedig mogelijk een plan uit te werken voor de regeling van openbare en particuliere vorderingen tegen Duitsland en Duitse onderdanen. De belanghebbende regeringen, met inbegrip van de Bondsrepubliek, crediteuren en debiteuren, zullen aan de uitwerking van dit plan medewerken. In het plan zullen in het bijzonder die vorderingen worden behandeld, welker regeling ertoe kan bijdragen de economische en financiële betrekkingen tussen de Bondsrepubliek en de andere landen weer normaal te maken. Hierbij zal rekening worden gehouden met de algemene economische toestand van de Bondsrepubliek, in het bijzonder met de toeneming van haar lasten en de vermindering van haar economische welstand. Het algemeen effect van dit plan mag noch de Duitse economie door ongewenste gevolgen voor de binnenlandse financiële toestand uit haar evenwicht brengen, noch bestaande of toekomstige Duitse deviezenbronnen overmatig aantasten. Het plan mag ook niet de financiële lasten voor een van de bezettende mogendheden aanmerkelijk verzwaren. Voor alle vragen, die bij de onderhandelingen over het betalingsplan en de betalingscapaciteit naar voren komen, kunnen de regeringen in kwestie de mening van deskundigen vragen. Het resultaat van de onderhandelingen zal in een overeenkomst worden neergelegd. Partijen zijn het er over eens, dat het plan slechts een voorlopig karakter draagt en zal worden herzien, zodra Duitsland herenigd is en een definitief vredesverdrag mogelijk is. Met de meeste hoogachting enz. (w.g.) ADENAUER. 
+De Bondsregering spreekt hierbij de wens uit de betalingen op de Duitse buitenlandse schuld te hervatten. Zij gaat ervan uit, dat tussen haar en de Regeringen van Frankrijk, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika eenstemmigheid bestaat over het volgende: Het is in het belang van een herstel van normale economische betrekkingen tussen de Bondsrepubliek en andere landen, zo spoedig mogelijk een plan uit te werken voor de regeling van openbare en particuliere vorderingen tegen Duitsland en Duitse onderdanen. De belanghebbende regeringen, met inbegrip van de Bondsrepubliek, crediteuren en debiteuren, zullen aan de uitwerking van dit plan medewerken. In het plan zullen in het bijzonder die vorderingen worden behandeld, welker regeling ertoe kan bijdragen de economische en financiële betrekkingen tussen de Bondsrepubliek en de andere landen weer normaal te maken. Hierbij zal rekening worden gehouden met de algemene economische toestand van de Bondsrepubliek, in het bijzonder met de toeneming van haar lasten en de vermindering van haar economische welstand. Het algemeen effect van dit plan mag noch de Duitse economie door ongewenste gevolgen voor de binnenlandse financiële toestand uit haar evenwicht brengen, noch bestaande of toekomstige Duitse deviezenbronnen overmatig aantasten. Het plan mag ook niet de financiële lasten voor een van de bezettende mogendheden aanmerkelijk verzwaren. Voor alle vragen, die bij de onderhandelingen over het betalingsplan en de betalingscapaciteit naar voren komen, kunnen de regeringen in kwestie de mening van deskundigen vragen. Het resultaat van de onderhandelingen zal in een overeenkomst worden neergelegd. Partijen zijn het er over eens, dat het plan slechts een voorlopig karakter draagt en zal worden herzien, zodra Duitsland herenigd is en een definitief vredesverdrag mogelijk is. Met de meeste hoogachting enz. (w.g.) ADENAUER.
 ###B
 
 ### *Antwoord van de Geallieerde Hoge Commissie in naam van de Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland en de Verenigde Staten van Amerika aan de Bondskanselier* 
 
 ### *6 Maart 1951.* 
 
-Mijnheer de Bondskanselier, In antwoord op Uw schrijven van 6 Maart 1951 betreffende de Duitse schulden hebben wij de eer, in naam van de Regeringen van Frankrijk, het Verenigd Koninkrijk en de Verenigde Staten van Amerika, hiermede de door de Bondsregering gedane toezegging te bevestigen met betrekking tot de aansprakelijkheid van de Bondsrepubliek voor de buitenlandse vooroorlogse schulden van het Duitse Rijk alsmede voor de schulden uit hoofde van de aan Duitsland sedert 8 Mei 1945 door de drie regeringen verleende economische hulp. Wat betreft de voorrang voor de verplichtingen uit hoofde van de economische hulp uit de naoorlogse periode, zijn wij gemachtigd te verklaren, dat de drie regeringen niet het plan hebben deze voorrang op zulk een wijze geldend te maken, dat hierdoor de betaling van buitenlandse vorderingen voor handelstransacties, afgesloten na 8 Mei 1945, die voor de economische wederopbouw van de Bondsrepubliek van essentiële betekenis zijn, beperkt zou worden. Met betrekking tot de vraag over het opnemen van een arbitrageclausule in de overeenkomsten inzake de schulden uit hoofde van de economische hulp in de naoorlogse periode, zijn de drie regeringen bereid, bij de onderhandelingen over deze overeenkomsten te overwegen, of het doelmatig zou zijn zulk een clausule op te nemen voor kwesties, die in aanmerking komen om volgens een dergelijke procedure te worden geregeld. Wij hebben voorts de eer in naam van de drie regeringen de opvatting van de Bondsregering, zoals deze in de tweede alinea van punt I en in punt III van het schrijven van Uwe Excellentie tot uitdrukking is gebracht, te bevestigen. Onze regeringen zijn op het ogenblik bezig voorstellen voor te bereiden voor de uitwerking van een betalingsplan; hierbij zal rekening worden gehouden met de deelneming van buitenlandse crediteuren, Duitse debiteuren en belanghebbende regeringen, met inbegrip van de Bondsregering. De voorstellen zullen een methodische regeling beogen van alle vooroorlogse vorderingen op Duitsland en Duitse debiteuren, alsmede van de schulden uit hoofde van de economische hulp uit de naoorlogse periode; deze regeling moet een rechtvaardige en billijke behandeling van alle betrokken belangen, met inbegrip van die der Bondsregering verzekeren. Het ligt in de bedoeling de regeling welke hieruit zal voortvloeien, vast te leggen in een multilaterale overeenkomst; bilaterale overeenkomsten zullen, wanneer deze noodzakelijk worden geacht, afgesloten worden binnen het raam van het betalingsplan. Zodra hun voorstellen gereed zijn, zullen de drie regeringen deze aan de Bondsregering en de andere betrokken regeringen doen toekomen en met hen deze voorstellen en de procedure, welke hierbij zal worden gevolgd, bespreken. Wij hebben de eer te verklaren, dat onze drie regeringen het bovenaangehaalde schrijven van Uwe Excellentie en dit schrijven beschouwen als de boekstaving van een overeenkomst tussen de Regeringen van Frankrijk, het Verenigd Koninkrijk en de Verenigde Staten van Amerika enerzijds en de Regering van de Bondsrepubliek Duitsland anderzijds terzake van de in dit schrijven behandelde vragen met betrekking tot de Duitse schulden. Deze brieven zijn in de Engelse, Franse en Duitse taal geredigeerd; deze teksten zijn gelijkelijk authentiek. Met de meeste hoogachting enz. (w.g.) A. Francois PONCET (Voor de Regering van de Franse Republiek) (w.g.) Ivone KIRKPATRICK (Voor de Regering van het Verenigd Koninkrijk) (w.g.) John J. McCLOY (Voor de Regering van de Verenigde Staten van Amerika)   
+Mijnheer de Bondskanselier, In antwoord op Uw schrijven van 6 Maart 1951 betreffende de Duitse schulden hebben wij de eer, in naam van de Regeringen van Frankrijk, het Verenigd Koninkrijk en de Verenigde Staten van Amerika, hiermede de door de Bondsregering gedane toezegging te bevestigen met betrekking tot de aansprakelijkheid van de Bondsrepubliek voor de buitenlandse vooroorlogse schulden van het Duitse Rijk alsmede voor de schulden uit hoofde van de aan Duitsland sedert 8 Mei 1945 door de drie regeringen verleende economische hulp. Wat betreft de voorrang voor de verplichtingen uit hoofde van de economische hulp uit de naoorlogse periode, zijn wij gemachtigd te verklaren, dat de drie regeringen niet het plan hebben deze voorrang op zulk een wijze geldend te maken, dat hierdoor de betaling van buitenlandse vorderingen voor handelstransacties, afgesloten na 8 Mei 1945, die voor de economische wederopbouw van de Bondsrepubliek van essentiële betekenis zijn, beperkt zou worden. Met betrekking tot de vraag over het opnemen van een arbitrageclausule in de overeenkomsten inzake de schulden uit hoofde van de economische hulp in de naoorlogse periode, zijn de drie regeringen bereid, bij de onderhandelingen over deze overeenkomsten te overwegen, of het doelmatig zou zijn zulk een clausule op te nemen voor kwesties, die in aanmerking komen om volgens een dergelijke procedure te worden geregeld. Wij hebben voorts de eer in naam van de drie regeringen de opvatting van de Bondsregering, zoals deze in de tweede alinea van punt I en in punt III van het schrijven van Uwe Excellentie tot uitdrukking is gebracht, te bevestigen. Onze regeringen zijn op het ogenblik bezig voorstellen voor te bereiden voor de uitwerking van een betalingsplan; hierbij zal rekening worden gehouden met de deelneming van buitenlandse crediteuren, Duitse debiteuren en belanghebbende regeringen, met inbegrip van de Bondsregering. De voorstellen zullen een methodische regeling beogen van alle vooroorlogse vorderingen op Duitsland en Duitse debiteuren, alsmede van de schulden uit hoofde van de economische hulp uit de naoorlogse periode; deze regeling moet een rechtvaardige en billijke behandeling van alle betrokken belangen, met inbegrip van die der Bondsregering verzekeren. Het ligt in de bedoeling de regeling welke hieruit zal voortvloeien, vast te leggen in een multilaterale overeenkomst; bilaterale overeenkomsten zullen, wanneer deze noodzakelijk worden geacht, afgesloten worden binnen het raam van het betalingsplan. Zodra hun voorstellen gereed zijn, zullen de drie regeringen deze aan de Bondsregering en de andere betrokken regeringen doen toekomen en met hen deze voorstellen en de procedure, welke hierbij zal worden gevolgd, bespreken. Wij hebben de eer te verklaren, dat onze drie regeringen het bovenaangehaalde schrijven van Uwe Excellentie en dit schrijven beschouwen als de boekstaving van een overeenkomst tussen de Regeringen van Frankrijk, het Verenigd Koninkrijk en de Verenigde Staten van Amerika enerzijds en de Regering van de Bondsrepubliek Duitsland anderzijds terzake van de in dit schrijven behandelde vragen met betrekking tot de Duitse schulden. Deze brieven zijn in de Engelse, Franse en Duitse taal geredigeerd; deze teksten zijn gelijkelijk authentiek.Met de meeste hoogachting enz. (w.g.) A. Francois PONCET (Voor de Regering van de Franse Republiek) (w.g.) Ivone KIRKPATRICK (Voor de Regering van het Verenigd Koninkrijk) (w.g.) John J. McCLOY (Voor de Regering van de Verenigde Staten van Amerika)  
 
 ### AANHANGSEL  B  
 
@@ -4487,15 +4485,15 @@ Deze commissies waren samengesteld uit vertegenwoordigers van de crediteuren en 
 (iii) van dien aard zijn, dat zij zou bijdragen tot het herstel van het internationale crediet van Duitsland door het herleven van het vertrouwen in de financiële standing en de betrouwbaarheid van Duitsland als credietnemer, en tegelijkertijd gepaste zekerheid zou bieden, dat Duitsland niet opnieuw in gebreke raakt ten aanzien van de verplichtingen, die het op zich neemt;  
 
 (iv) verenigbaar zijn met de verplichtingen - en deze zoveel mogelijk vergemakkelijken -, die de Bondsrepubliek Duitsland als lid van het Internationale Monetaire Fonds en de Organisatie voor Europese Economische Samenwerking op zich nemen zal of reeds op zich genomen heeft met het oog op de transfer van betalingen op lopende transacties, met inbegrip van renten en opbrengsten uit kapitaal.       
-###IV. Aanbevelingen
+###IV. Aanbevelingen 
 
-12. *Schulden van het Rijk en van andere openbare lichamen.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 3.  
+12.  *Schulden van het Rijk en van andere openbare lichamen.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 3.  
 
-13. *In obligaties belichaamde schulden van het Duitse bedrijfsleven.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 4.  
+13.  *In obligaties belichaamde schulden van het Duitse bedrijfsleven.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 4.  
 
-14. *Stillhalteschulden.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 5. De conferentie is van oordeel, dat deze aanbevelingen zo spoedig mogelijk in werking moeten treden.  
+14.  *Stillhalteschulden.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 5. De conferentie is van oordeel, dat deze aanbevelingen zo spoedig mogelijk in werking moeten treden.  
 
-15. *Handelsschulden en overige verplichtingen.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 6.  
+15.  *Handelsschulden en overige verplichtingen.* De aanbevelingen voor de regeling van deze schulden zijn vervat in bijlage 6.  
 
 16. De conferentie heeft verschillende problemen onderzocht met betrekking tot schulden, waarvan het speciale karakter een volledige en definitieve regeling tijdens de conferentie niet toeliet. Er werden plannen gemaakt om tot een latere oplossing daarvan te komen door onderhandelingen tussen de belanghebbende groepen. De desbetreffende bepalingen zijn opgenomen in de daarop betrekking hebbende bijlagen bij dit rapport. De onderhandelingen moeten plaats vinden binnen het raam van de grondbeginselen en van de doeleinden van de conferentie. De eruit voortvloeiende aanbevelingen zullen, indien zij aanvaard worden, deel uitmaken van de internationale overeenkomst.  
 

@@ -14,7 +14,7 @@ Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unte
 
 ### I  
 
-Am Grenzübergang Goch-Autobahn/Gennep-Autoweg werden die deutsche und die niederländische Grenzabfertigung auf deutschem und auf niederländischem Gebiet zusammengelegt.  
+Am Grenzübergang Goch-Autobahn/Gennep-Autoweg werden die deutsche und die niederländische Grenzabfertigung auf deutschem und auf niederländischem Gebiet zusammengelegt. 
 
 ### II  
 
@@ -26,15 +26,15 @@ Die Zonen im Sinne des Artikels 3 des Abkommens umfassen:
 
 a) von 350 Metern, gemessen in Richtung Goch, und  
 
-b) von 400 Metern, gemessen in Richtung Gennep, jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Autobahn.      
+b) von 400 Metern, gemessen in Richtung Gennep, jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Autobahn.     
 
 ### III  
 
-Diese Vereinbarung wird gemäß Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in diplomatischen Noten festgelegt.  
+Diese Vereinbarung wird gemäß Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in diplomatischen Noten festgelegt. 
 
 ### IV  
 
-Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung außer Kraft.  
+Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung außer Kraft. 
 Die Regierung der Bundesrepublik Deutschland geht davon aus, daß die vorstehende Vereinbarung nach Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote und die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und daß die Vereinbarung am 22. Oktober 1986 in Kraft tritt. Das Auswärtige Amt benutzt diesen Anlaß, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 29. September 1986  *An die*   *Königlich Niederländische Botschaft*    
 
 ####Nr. XCVI
@@ -48,7 +48,7 @@ De Ambassade van het Koninkrijk der Nederlanden heeft de eer het Ministerie van 
 
 ### I  
 
-Bij de grensovergang Goch-Autobahn/Gennep-autoweg worden de Duitse en de Nederlandse grenscontrole op Duits en op Nederlands grensgebied samengevoegd.  
+Bij de grensovergang Goch-Autobahn/Gennep-autoweg worden de Duitse en de Nederlandse grenscontrole op Duits en op Nederlands grensgebied samengevoegd. 
 
 ### II  
 
@@ -60,13 +60,13 @@ De zones zoals bedoeld in artikel 3 van de Overeenkomst omvatten:
 
 a. 350 meter, gemeten in de richting Goch, en  
 
-b. 400 meter, gemeten in de richting Gennep telkens vanaf het snijpunt van de gemeenschappelijke grens met de middellijn van de Autobahn.      
+b. 400 meter, gemeten in de richting Gennep telkens vanaf het snijpunt van de gemeenschappelijke grens met de middellijn van de Autobahn.     
 
 ### III  
 
-Deze regeling wordt overeenkomstig artikel 1, vijfde lid, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt vastgelegd in diplomatieke nota's.  
+Deze regeling wordt overeenkomstig artikel 1, vijfde lid, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt vastgelegd in diplomatieke nota's. 
 
 ### IV  
 
-Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt 6 maanden na opzegging buiten werking. De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat de bovenstaande regeling overeenkomstig artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Note Verbale en de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden en dat de regeling op 22 oktober 1986 in werking treedt. Het Ministerie van Buitenlandse Zaken maakt tevens van deze gelegenheid gebruik, de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van zijn bijzondere hoogachting."  
+Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt 6 maanden na opzegging buiten werking. De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat de bovenstaande regeling overeenkomstig artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Note Verbale en de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden en dat de regeling op 22 oktober 1986 in werking treedt. Het Ministerie van Buitenlandse Zaken maakt tevens van deze gelegenheid gebruik, de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van zijn bijzondere hoogachting." 
 De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen dat de Nederlandse Regering ermede instemt dat de Note Verbale van het Ministerie van Buitenlandse Zaken en deze antwoordnota de ingevolge artikel 1, vijfde lid, van genoemde Overeenkomst voorziene bevestiging van de hierboven weergegeven briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Minister van Financiën vormen en dat deze regeling op 22 oktober 1986 in werking treedt. De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik het Ministerie van Buitenlandse Zaken opnieuw te verzekeren van haar bijzondere hoogachting. Bonn, 29 september 1986  *An das Auswartige Amt*   *Bonn*    

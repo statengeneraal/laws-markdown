@@ -48,7 +48,7 @@ Section 1.02. Except where the context otherwise requires, the following terms h
 
 (h) “EDL” means Electricité du Laos, a corporation established under the provisions of the Ordonnance Royale No. 38 dated 26 January 1959 of the Kingdom of Laos;  
 
-(i) “EGAT” means Electricity Generating Authority of Thailand, a corporation established under the provisions of the Electricity Generating Authority of Thailand Act (B.E. 2511), as amended from me to time, of the Kingdom of Thailand;  
+(i) “EGAT” means Electricity Generating Authority of Thailand, a corporation established under the provisions of the Electricity Generating Authority of Thailand Act (B.E. 2511), as amended from time to time, of the Kingdom of Thailand;  
 
 (j) “Energy Supply Agreement” means the agreement dated 22 June 1971 between EDL and EGAT relating to the sale of energy by EDL to EGAT from the Nam Ngum hydropower facilities;  
 
@@ -58,7 +58,7 @@ Section 1.02. Except where the context otherwise requires, the following terms h
 
 (m) “Fund” means the Second Nam Ngum Development Fund established by this Agreement;  
 
-(n) “goods” means equipment, supplies and services required for the Project or for the carrying out of the Administrator's duties der; wherever reference is made to the cost of any goods, such cost shall be deemed to include the cost of importing such goods into the territories of the Kingdom of Laos;  
+(n) “goods” means equipment, supplies and services required for the Project or for the carrying out of the Administrator's duties hereunder; wherever reference is made to the cost of any goods, such cost shall be deemed to include the cost of importing such goods into the territories of the Kingdom of Laos;  
 
 (o) “KFW” means Kreditanstalt fuer Wiederaufbau, a corporation established under the laws of the Federal Republic of Germany;  
 
@@ -78,7 +78,7 @@ Section 1.02. Except where the context otherwise requires, the following terms h
 
 (w) “Thailand” means the Kingdom of Thailand represented by the Royal Government of Thailand.    
 
-Section 1.03. Unless otherwise specified, references in this Agreement to Articles, Sections or the Schedule are, respectively, to Articles, Sections and the Schedule of this Agreement.    
+Section 1.03. Unless otherwise specified, references in this Agreement to Articles, Sections or the Schedule are, respectively, to Articles, Sections and the Schedule of this Agreement.   
 
 ### Article  II  
 
@@ -88,7 +88,7 @@ Section 2.01. There is hereby established the Second Nam Ngum Development Fund, 
 
 Section 2.02. The Bank is hereby designated as Administrator of the Fund. The Bank agrees to act in that capacity in accordance with the provisions of this Agreement and the Project Agreement.  
 
-Section 2.03. The Fund and its assets and accounts shall be kept separate and apart from all assets and accounts of the Bank and shall be separately designated in such appropriate manner as the Bank shall determine.    
+Section 2.03. The Fund and its assets and accounts shall be kept separate and apart from all assets and accounts of the Bank and shall be separately designated in such appropriate manner as the Bank shall determine.   
 
 ### Article  III  
 
@@ -132,7 +132,7 @@ Section 3.07. Notwithstanding the provisions of Section 3.06 (a):
 
 (c) the contribution of the Government of New Zealand shall be paid in four (4) semi-annual instalments commencing with the instalment payable in respect of the semi-annual period commencing 1 July 1974.    
 
-Section 3.08. Contributions will be paid in the respective currencies of the Contributors or in the equivalents thereof in such other currencies, freely usable or convertible, as may be agreed upon between the respective Contributing Parties and the Administrator.    
+Section 3.08. Contributions will be paid in the respective currencies of the Contributors or in the equivalents thereof in such other currencies, freely usable or convertible, as may be agreed upon between the respective Contributing Parties and the Administrator.   
 
 ### Article  IV  
 
@@ -162,7 +162,7 @@ Section 4.08. The Administrator may make payments or arrangements for payment di
 
 Section 4.09. Disbursements from the Fund shall be in such currencies as the Administrator shall elect.  
 
-Section 4.10. Laos shall make and maintain arrangements for the sale, at the most advantageous legal rate, of kip required for the carrying out of the Project.    
+Section 4.10. Laos shall make and maintain arrangements for the sale, at the most advantageous legal rate, of kip required for the carrying out of the Project.   
 
 ### Article  V  
 
@@ -186,7 +186,7 @@ Section 5.07.
 
 (b) The Administrator shall compute such expenses and reimburse itself therefor out of the Fund semi-annually, provided that the first computation and payment shall be in respect of the period ending 30 June 1974. Notwithstanding any other provision of this Agreement, such expenses shall be charged semi-annually, first, to income of the Fund, and then, to all contributions to the Fund in proportion to such contributions.    
 
-Section 5.08. Whenever the Administrator determines that special circumstances so require, it may make, or require or approve the making of, such agreement or arrangement with consultants, contractors and other entities as it shall consider desirable for carrying out the Project in the manner it deems to be the most efficient, expeditious and economical.    
+Section 5.08. Whenever the Administrator determines that special circumstances so require, it may make, or require or approve the making of, such agreement or arrangement with consultants, contractors and other entities as it shall consider desirable for carrying out the Project in the manner it deems to be the most efficient, expeditious and economical.   
 
 ### Article  VI  
 
@@ -204,7 +204,7 @@ Section 6.02.
 
 (a) The Contributing Parties and the Bilateral Lenders shall not take or permit any action which would interfere with the efficient and economic implementation of the Project, and the performance by Laos, the Administrator and EDL of their respective obligations, and the exercise of their respective rights, powers and privileges, under this Agreement, the Project Agreement and the Financing Agreement.  
 
-(b) Nothing in Section 6.02 (a) shall prevent any Contributing Party or Bilateral Lender from suspending disbursement of its contribution to the Project in the event of any default in payment of principal of, or interest or other charges on, such contribution.      
+(b) Nothing in Section 6.02 (a) shall prevent any Contributing Party or Bilateral Lender from suspending disbursement of its contribution to the Project in the event of any default in payment of principal of, or interest or other charges on, such contribution.     
 
 ### Article  VII  
 
@@ -222,7 +222,7 @@ Section 7.02.
 
 (b) Without prejudice to the generality of the foregoing, Laos shall make available to EDL the proceeds of the loan by the Government of Canada under Section 3.05.    
 
-Section 7.03. Laos shall ensure that the activities of its departments and agencies with respect to the carrying out of the Project and the operation of the Project facilities are conducted and coordinated in accordance with sound administrative policies and proce dures.  
+Section 7.03. Laos shall ensure that the activities of its departments and agencies with respect to the carrying out of the Project and the operation of the Project facilities are conducted and coordinated in accordance with sound administrative policies and procedures.  
 
 Section 7.04. Laos and the Administrator shall cooperate fully to ensure that the Project will be efficiently and economically implemented and that the purposes of this Agreement will be accomplished. To that end: 
 
@@ -246,9 +246,9 @@ Section 7.08.
 
 (a) Laos shall exercise its rights under the Financing Agreement in such a manner as to protect the interests of Laos and the Contributing Parties and to accomplish the purposes of this Agreement.  
 
-(b) Except with the prior approval of the Administrator in consultation with the Contributing Parties and the Government of Canada, no rights or obligations under the Financing Agreement shall e assigned, amended, abrogated or waived.    
+(b) Except with the prior approval of the Administrator in consultation with the Contributing Parties and the Government of Canada, no rights or obligations under the Financing Agreement shall be assigned, amended, abrogated or waived.    
 
-Section 7.09. Except as the Administrator shall otherwise agree. Laos shall make and maintain arrangements, satisfactory to the Administrator: (i) to ensure that the importation, acquisition, sale, consumption and ownership of goods and the provision of services for the purposes of carrying out the Project shall be exempt from all taxes and duties; and (ii) to exempt from income and similar taxes payments to non-Laotian contractors, suppliers, consultants and other entities supplying services for the purposes of the Project, and to their non-Laotian employees.  
+Section 7.09. Except as the Administrator shall otherwise agree, Laos shall make and maintain arrangements, satisfactory to the Administrator: (i) to ensure that the importation, acquisition, sale, consumption and ownership of goods and the provision of services for the purposes of carrying out the Project shall be exempt from all taxes and duties; and (ii) to exempt from income and similar taxes payments to non-Laotian contractors, suppliers, consultants and other entities supplying services for the purposes of the Project, and to their non-Laotian employees.  
 
 Section 7.10. Laos, in consultation with EDL, shall, prior to 30 June 1974, submit to the Administrator its proposals as to the detailed arrangements for ownership, operation and maintenance of the facilities constructed under the first phase of construction of the Nam Ngum hydropower facilities and to be constructed under the Project and the disposition of any income arising from the operation of such facilities, and shall, not later than 30 September 1974, implement arrangements satisfactory to the Administrator on such matters.  
 
@@ -258,7 +258,7 @@ Section 7.11.
 
 (b) Any action taken or agreement entered into by EDL pursuant to the authority conferred under Section 7.11 (a) shall be fully binding on Laos and shall have the same force and effect as if taken by Laos.  
 
-(c) The authority conferred on EDL under Section 7.11 (a) may be revoked or modified by agreement between Laos and the Administrator.      
+(c) The authority conferred on EDL under Section 7.11 (a) may be revoked or modified by agreement between Laos and the Administrator.     
 
 ### Article  VIII  
 
@@ -276,7 +276,7 @@ Section 8.02.
 
 Section 8.03. The Administrator may enter into such agreements or arrangements with Thailand, EGAT or any other agency or authority designated by Thailand, as the Administrator shall deem desirable for implementing this Agreement. Thailand hereby agrees to perform its obligations and to cause EGAT or any other such agency or authority to perform its obligations under any such agreement or arrangement.  
 
-Section 8.04. Thailand agrees to cooperate with Laos and with the Administrator in carrying out the Project, and in particular will facilitate the transport and movement through its territories of persons and goods in connection with the carrying out of the Project.    
+Section 8.04. Thailand agrees to cooperate with Laos and with the Administrator in carrying out the Project, and in particular will facilitate the transport and movement through its territories of persons and goods in connection with the carrying out of the Project.   
 
 ### Article  IX  
 
@@ -298,7 +298,7 @@ Section 9.04.
 
 (b) Laos and Thailand shall from time to time exchange views through their representatives with regard to matters relating to the purposes of this Agreement.  
 
-(c) Laos and Thailand shall each promptly inform the other of any condition which interferes with, or threatens to interfere with, complishment of the purposes of this Agreement.      
+(c) Laos and Thailand shall each promptly inform the other of any condition which interferes with, or threatens to interfere with, complishment of the purposes of this Agreement.     
 
 ### Article  X  
 
@@ -334,7 +334,7 @@ Section 10.04. In Sections 10.02 and 10.03, “a special majority of the Contrib
 
 Section 10.05. Subject to Section 10.06, this Agreement, unless sooner terminated pursuant to Section 10.02 or 10.03, shall terminate upon completion of the Project or upon disbursement from the Fund of all amounts required to meet the cost of the goods, whichever is later.  
 
-Section 10.06. If at the termination of this Agreement any amounts shall remain in the Fund, the Administrator, in consultation with the Contributing Parties and other Governments and entities (if any) referred to in Section 12.02, shall determine the manner of disposition of such amounts, including the recipients, amounts, times, methods and currencies of payment thereof.    
+Section 10.06. If at the termination of this Agreement any amounts shall remain in the Fund, the Administrator, in consultation with the Contributing Parties and other Governments and entities (if any) referred to in Section 12.02, shall determine the manner of disposition of such amounts, including the recipients, amounts, times, methods and currencies of payment thereof.   
 
 ### Article  XI  
 
@@ -346,7 +346,7 @@ Section 11.01.
 
 (b) If the Administrator shall decline or fail to make any such decision or if the dispute shall be between the Administrator and any other Party, any party to the dispute may submit it for decision to an arbitrator selected by the parties to the dispute or, failing such selection within a reasonable time, appointed by the Secretary-General of the United Nations.  
 
-(c) The decision of the Administrator or the arbitrator, as the case may be, shall be final and shall be implemented by all Parties in acordance with their respective constitutional procedures.      
+(c) The decision of the Administrator or the arbitrator, as the case may be, shall be final and shall be implemented by all Parties in acordance with their respective constitutional procedures.     
 
 ### Article  XII  
 
@@ -354,7 +354,7 @@ Section 11.01.
 
 Section 12.01. Any Government or entity not a Contributing Party may, with the prior approval of the Contributing Parties, Laos and the Administrator and in accordance with such arrangements as they shall agree, become a Contributing Party upon deposit with the Administrator of an instrument stating that it undertakes to make a contribution to the Fund upon the terms and conditions set forth in the instrument and that it accepts and agrees to be bound by the Provisions of this Agreement.  
 
-Section 12.02. The Administrator may, with the prior approval of Laos, receive on behalf of the Fund from any Government or entity, whether or not a Party, amounts not provided for herein to be held and used as part of the Fund subject to the provisions hereof, in accordance with such arrangements, not inconsistent herewith, as the Administrator may approve.    
+Section 12.02. The Administrator may, with the prior approval of Laos, receive on behalf of the Fund from any Government or entity, whether or not a Party, amounts not provided for herein to be held and used as part of the Fund subject to the provisions hereof, in accordance with such arrangements, not inconsistent herewith, as the Administrator may approve.   
 
 ### Article  XIII  
 
@@ -378,7 +378,7 @@ Telex Address: CIDA 2208/053 4140 Ottawa Canada
 
 For the Government of the Federal Republic of Germany: 
 
-Bundesministerium fuer Wirtschaftliche Zusammenarbeit Bonn, Germany  
+Bundesministerium fuer Wirtschaftliche Zusammenarbeit  Bonn, Germany   
 
 Telex Address: 886-9452 Bonn Germany    
 
@@ -394,7 +394,7 @@ Embassy of Japan 3rd Floor, Sikatuna Building 6762 Ayala Avenue, Makati, Rizal P
 
 For the Government of Laos: 
 
-Ministère des Finances Vientiane, Laos  
+Ministère des Finances  Vientiane, Laos  
 
 Telegraphic Address: MINFINANCE Vientiane Laos    
 
@@ -434,7 +434,7 @@ Asian Development Bank P.O. Box 789 Manila, Philippines
 
 Telegraphic Address: ASIANBANK Manila Philippines  
 
-Telex Addresses: ASIANBANK 7425071 7222094 ADBPH 3587 ADBPN        
+Telex Addresses: ASIANBANK 7425071 7222094 ADBPH 3587 ADBPN       
 
 ### Article  XIV  
 
@@ -444,7 +444,7 @@ Section 14.01. This Agreement shall remain open for signature and acceptance on 
 
 Section 14.02. This Agreement shall enter into force on the date when the Secretary of the Bank shall certify that Laos, Thailand, the Bank and such of the Contributing Parties and Bilateral Lenders whose contributions total an amount of not less than the equivalent of twenty-four million seven hundred thousand dollars ($ 24,700,000) have either signed this Agreement without reservation as to acceptance or, having signed it subject to acceptance, notified the Bank as prospective Administrator of acceptance. The Bank shall promptly after such date notify each of the Parties of the entry into force of this Agreement.  
 
-Section 14.03. All contributions paid to, and all actions of, or approved by, the Bank as prospective Administrator, on or af ter the date of this Agreement and before the date when this Agreement shall enter into force pursuant to Section 14.02 shall be deemed to have been made or done pursuant to this Agreement, and credits and charges to the Fund and to the Parties shall be upon that basis.    
+Section 14.03. All contributions paid to, and all actions of, or approved by, the Bank as prospective Administrator, on or after the date of this Agreement and before the date when this Agreement shall enter into force pursuant to Section 14.02 shall be deemed to have been made or done pursuant to this Agreement, and credits and charges to the Fund and to the Parties shall be upon that basis.   
 
 DONE at Manila, Philippines, this 26th day of June 1974, in the English language, in a single copy to be deposited in the archives of the Asian Development Bank, which shall communicate certified copies thereof to each of the Governments signatory to this Agreement.  
 
@@ -538,7 +538,7 @@ Aangezien
 
 (q) „Laos” - het Koninkrijk Laos vertegenwoordigd door de Regering van Laos;  
 
-(r) „OECF” - de Overseas Economie Cooperation Fund, een overeenkomstig de wetten van Japan opgericht bedrijf;  
+(r) „OECF” - de Overseas Economic Cooperation Fund, een overeenkomstig de wetten van Japan opgericht bedrijf;  
 
 (s) „OECF Lening” - de in paragraaf 3.03 bedoelde lening van de OECF aan Laos;  
 
@@ -550,7 +550,7 @@ Aangezien
 
 (w) „Thailand” - het Koninkrijk Thailand vertegenwoordigd door de Koninklijke Regering van Thailand.    
 
-1.03. Tenzij anders aangegeven, zijn alle verwijzingen in deze Overeenkomst naar artikelen, paragrafen of de Bijlage verwijzingen naar respectievelijk artikelen, paragrafen of de Bijlage van deze Overeenkomst.    
+1.03. Tenzij anders aangegeven, zijn alle verwijzingen in deze Overeenkomst naar artikelen, paragrafen of de Bijlage verwijzingen naar respectievelijk artikelen, paragrafen of de Bijlage van deze Overeenkomst.   
 
 ### Artikel  II  
 
@@ -560,7 +560,7 @@ Aangezien
 
 2.02 Hierbij wordt de Bank aangewezen als beheerder van het Fonds. De Bank stemt erin toe in deze hoedanigheid te handelen overeenkomstig de bepalingen van deze Overeenkomst en de Project Overeenkomst.  
 
-2.03. Het Fonds en zijn activa en zijn rekeningen dienen gescheiden van en buiten alle andere activa en rekeningen van de Bank te worden gehouden en afzonderlijk te worden aangeduid op een daartoe geschikte door de Bank vast te stellen wijze.    
+2.03. Het Fonds en zijn activa en zijn rekeningen dienen gescheiden van en buiten alle andere activa en rekeningen van de Bank te worden gehouden en afzonderlijk te worden aangeduid op een daartoe geschikte door de Bank vast te stellen wijze.   
 
 ### Artikel  III  
 
@@ -574,7 +574,7 @@ Aangezien
 
 (c) De Regering van het Koninkrijk der Nederlanden doet een schenking van honderd vierenveertig duizend vijfhonderd vijfenveertig dollar ($ 144.545,-), die besteed kunnen worden voor alle betalingen, in buitenlandse munteenheden of kip, in verband met het project.  
 
-(d) De Regering van Nieuw-Zeeland doet een schenking van vijfhonderdduizend Nieuw-Zeelandse dollar (NZ $ 500.000,-) 5 met dien verstande dat, tenzij de Regering van Nieuw-Zeeland anders overeenkomt, deze bijdrage niet hoger is dan de feitelijke uitgaven van het Fonds voor een redelijk deel der totale betalingen in kip in verband met het project en voor betalingen in buitenlandse munteenheden van goederen die voor het project zijn benodigd en worden aangeschaft in of geleverd vanuit het grondgebied van Nieuw-Zeeland.  
+(d) De Regering van Nieuw-Zeeland doet een schenking van vijfhonderdduizend Nieuw-Zeelandse dollar (NZ $ 500.000,-), met dien verstande dat, tenzij de Regering van Nieuw-Zeeland anders overeenkomt, deze bijdrage niet hoger is dan de feitelijke uitgaven van het Fonds voor een redelijk deel der totale betalingen in kip in verband met het project en voor betalingen in buitenlandse munteenheden van goederen die voor het project zijn benodigd en worden aangeschaft in of geleverd vanuit het grondgebied van Nieuw-Zeeland.  
 
 (e) De Regering van het Verenigd Koninkrijk doet een schenking van tweeëndertig duizend pond (£ 32.000,-) en verstrekt een lening van achtenveertig duizend pond (£ 48.000,-), in totaal tachtig duizend pond (£ 80.000,-). De lening is renteloos en heeft een looptijd van vijfentwintig (25) jaar, met inbegrip van een aflossingsvrije periode van zeven (7) jaar. Tenzij de Regering van het Verenigd Koninkrijk anders overeenkomt, mag deze bijdrage niet hoger zijn dan de feitelijke uitgaven van het Fonds voor de betaling in buitenlandse munteenheden van goederen die zijn benodigd voor het in paragraaf (g) van de Bijlage omschreven deel van het project en die aangeschaft worden in of geleverd vanuit het grondgebied van het Verenigd Koninkrijk.  
 
@@ -602,9 +602,9 @@ a) betaalt de Regering van Australië haar bijdrage in zes (6) gelijke halfjaarl
 
 b) betaalt de Regering van het Koninkrijk der Nederlanden haar bijdrage ineens op een tussen de Regering van het Koninkrijk der Nederlanden en de beheerder overeen te komen tijdstip, en  
 
-c) betaalt de Regering van Nieuw-Zeeland haar bijdrage In vier (4) gelijke halfjaarlijkse termijnen, te beginnen bij de termijn die betaalbaar wordt met betrekking tot de halfjaarlijkse termijn die aanvangt op 1 juli 1974.    
+c) betaalt de Regering van Nieuw-Zeeland haar bijdrage in vier (4) gelijke halfjaarlijkse termijnen, te beginnen bij de termijn die betaalbaar wordt met betrekking tot de halfjaarlijkse termijn die aanvangt op 1 juli 1974.    
 
-3.08. De betaling van de bijdragen geschiedt in de onderscheiden munteenheden van de bijdragende Partijen of in de tegenwaarde daarvan in andere munteenheden die vrijelijk kunnen worden gebruikt of vrij inwisselbaar zijn, al naar gelang is overeengekomen tussen de onderscheiden bijdragende Partijen en de beheerder.    
+3.08. De betaling van de bijdragen geschiedt in de onderscheiden munteenheden van de bijdragende Partijen of in de tegenwaarde daarvan in andere munteenheden die vrijelijk kunnen worden gebruikt of vrij inwisselbaar zijn, al naar gelang is overeengekomen tussen de onderscheiden bijdragende Partijen en de beheerder.   
 
 ### Artikel  IV  
 
@@ -634,7 +634,7 @@ c) Tenzij Laos en een bijdragende Partij anders overeenkomen, mag noch een deel 
 
 4.09. Betalingen uit het Fonds dienen te geschieden in de door de beheerder aan te wijzen munteenheden.  
 
-4.10. Laos treft regelingen, en houdt deze in stand, met betrekking tot de verkoop van de voor de uitvoering van het project benodigde kip en wel tegen de voordeligste wettelijk toegestane wisselkoers.    
+4.10. Laos treft regelingen, en houdt deze in stand, met betrekking tot de verkoop van de voor de uitvoering van het project benodigde kip en wel tegen de voordeligste wettelijk toegestane wisselkoers.   
 
 ### Artikel  V  
 
@@ -656,9 +656,9 @@ c) Tenzij Laos en een bijdragende Partij anders overeenkomen, mag noch een deel 
 
 a) De beheerder ontvangt geen schadevergoeding voor ingevolge deze Overeenkomst door hem verleende diensten, maar krijgt de kosten voor alle door hem gedane uitgaven in verband met de verlening van zodanige diensten vergoed, met inbegrip van een voldoende deel van zijn vaste administratieve uitgaven.  
 
-b) De beheerder berekent de som van zodanige uitgaven en debiteert daarvoor het Fonds ieder half jaar, met dien verstande dat de eerste berekening en betaling betrekking hebben op de- periode die eindigt op 30 juni 1974. Onverminderd andere bepalingen van deze Overeenkomst, komen zodanige uitgaven halfjaarlijks in de eerste plaats ten laste van de inkomsten van het Fonds en voorts van alle bijdragen aan het Fonds in verhouding tot die bijdragen.    
+b) De beheerder berekent de som van zodanige uitgaven en debiteert daarvoor het Fonds ieder half jaar, met dien verstande dat de eerste berekening en betaling betrekking hebben op de periode die eindigt op 30 juni 1974. Onverminderd andere bepalingen van deze Overeenkomst, komen zodanige uitgaven halfjaarlijks in de eerste plaats ten laste van de inkomsten van het Fonds en voorts van alle bijdragen aan het Fonds in verhouding tot die bijdragen.    
 
-5.08. Telkens wanneer de beheerder bepaalt dat bijzondere omstandigheden zulks vereisen, kan hij die overeenkomsten of regelingen treffen, of het treffen daarvan verlangen of goedkeuren, met adviseurs, aannemers en andere lichamen welke hij wenselijk acht ter uitvoering van het project op de meest doelmatige, snelle en kostenbesparende wijze.    
+5.08. Telkens wanneer de beheerder bepaalt dat bijzondere omstandigheden zulks vereisen, kan hij die overeenkomsten of regelingen treffen, of het treffen daarvan verlangen of goedkeuren, met adviseurs, aannemers en andere lichamen welke hij wenselijk acht ter uitvoering van het project op de meest doelmatige, snelle en kostenbesparende wijze.   
 
 ### Artikel  VI  
 
@@ -674,9 +674,9 @@ c) de beheerder terstond op de hoogte te stellen van alle omstandigheden die een
 
 6.02. 
 
-a) De Partijen die een bijdrage leveren en de Bilaterale Leners mogen geen handelingen verrichten noch toestaan welke een belemmering zouden vormen voor de doelmatige en kostenbesparende uitvoering van het project, en voor de naleving door Laos, de beheerder en de EDL van hun onderscheiden verplichtingen en de uitoefening van hun rechten, bevoegdheden en voorrechten ingevolge deze Overeenkomst, de Project Overeenkomst en de Financieringsovereenkomst.  
+a)  De Partijen die een bijdrage leveren en de Bilaterale Leners mogen geen handelingen verrichten noch toestaan welke een belemmering zouden vormen voor de doelmatige en kostenbesparende uitvoering van het project, en voor de naleving door Laos, de beheerder en de EDL van hun onderscheiden verplichtingen en de uitoefening van hun rechten, bevoegdheden en voorrechten ingevolge deze Overeenkomst, de Project Overeenkomst en de Financieringsovereenkomst.  
 
-b) Paragraaf 6.02 (a) kan in geen enkel opzicht een belemmering vormen voor een Partij die een bijdrage levert of voor een Bilaterale Lener de betaling van zijn bijdrage aan het project op te schorten in geval van achterstallige betaling van de hoofdsom van, of rente of andere lasten over, een zodanige bijdrage.      
+b) Paragraaf 6.02 (a) kan in geen enkel opzicht een belemmering vormen voor een Partij die een bijdrage levert of voor een Bilaterale Lener de betaling van zijn bijdrage aan het project op te schorten in geval van achterstallige betaling van de hoofdsom van, of rente of andere lasten over, een zodanige bijdrage.     
 
 ### Artikel  VII  
 
@@ -716,7 +716,7 @@ b) Laos stelt vertegenwoordigers van de beheerder zoveel als redelijkerwijze mog
 
 7.08. 
 
-a) Laos oefent zijn rechten ingevolge de Financieringsovereenkomst zodanig uit dat de belangen van Laos en van de Partijen die een bijdrage leveren worden beschermd en de doeleinden van deze Overeenkomst worden verwezenlijkt.  
+a)  Laos oefent zijn rechten ingevolge de Financieringsovereenkomst zodanig uit dat de belangen van Laos en van de Partijen die een bijdrage leveren worden beschermd en de doeleinden van deze Overeenkomst worden verwezenlijkt.  
 
 b) Tenzij de beheerder in overleg met de Partijen die een bijdrage leveren en de Regering van Canada zijn voorafgaande goedkeuring verleent, worden geen rechten of verplichtingen ingevolge de Financieringsovereenkomst toegekend, gewijzigd, ingetrokken of wordt daarvan afstand gedaan.    
 
@@ -730,7 +730,7 @@ a) Laos wijst hierbij de EDL aan als zijn tussenpersoon voor het nemen van alle 
 
 b) Alle door de EDL genomen maatregelen of gesloten overeenkomsten krachtens de hem ingevolge paragraaf 7.1.1 (a) verleende volmacht, zijn volledig bindend voor Laos en hebben dezelfde rechtskracht en dezelfde gevolgen als wanneer deze door Laos waren genomen of gesloten.  
 
-c) De ingevolge paragraaf 7.11 (a) aan de EDL verleende volmacht kan worden ingetrokken of gewijzigd wanneer Laos en de beheerder zulks overeenkomen.      
+c) De ingevolge paragraaf 7.11 (a) aan de EDL verleende volmacht kan worden ingetrokken of gewijzigd wanneer Laos en de beheerder zulks overeenkomen.     
 
 ### Artikel  VIII  
 
@@ -748,7 +748,7 @@ c) Thailand stelt de beheerder terstond op de hoogte van alle omstandigheden die
 
 8.03. De beheerder kan zodanige regelingen of overeenkomsten met Thailand, de EGAT of met andere door Thailand aangewezen instellingen of autoriteiten treffen als hij wenselijk acht voor de uitvoering van deze Overeenkomst. Thailand verbindt zich zijn verplichtingen na te komen en er zorg voor te dragen dat de EGAT of andere instellingen of autoriteiten hun verplichtingen ingevolge die regelingen of overeenkomsten nakomen.  
 
-8.04. Thailand stemt ermee in bij de uitvoering van het project samen te werken met Laos en met de beheerder en zal in het bijzonder het vervoer en het verkeer van personen en goederen verband houdende met de uitvoering van het project over zijn grondgebied vergemakkelijken.    
+8.04. Thailand stemt ermee in bij de uitvoering van het project samen te werken met Laos en met de beheerder en zal in het bijzonder het vervoer en het verkeer van personen en goederen verband houdende met de uitvoering van het project over zijn grondgebied vergemakkelijken.   
 
 ### Artikel  IX  
 
@@ -770,7 +770,7 @@ a) Laos en Thailand werken ten volle samen ten einde te verzekeren dat de doelei
 
 b) Laos en Thailand wisselen van tijd tot tijd door middel van hun vertegenwoordigers van gedachten over zaken welke verband houden met de doeleinden van deze Overeenkomst.  
 
-c) Laos en Thailand stellen elkaar terstond op de hoogte van alle omstandigheden die een belemmering vormen of dreigen te vormen voor de verwezenlijking van de doeleinden van deze Overeenkomst.      
+c) Laos en Thailand stellen elkaar terstond op de hoogte van alle omstandigheden die een belemmering vormen of dreigen te vormen voor de verwezenlijking van de doeleinden van deze Overeenkomst.     
 
 ### Artikel  X  
 
@@ -800,13 +800,13 @@ c) Hangende een beslissing krachtens paragraaf 10.02 (b), blijft de opschorting 
 
 a) Onverminderd het bepaalde in paragraaf 10.02 (b) (i), wordt de beheerder van zijn verplichtingen ingevolge deze Overeenkomst, behoudens paragraaf 10.03 (b), ontheven, en stelt hij de Partijen die een bijdrage leveren daarvan op de hoogte, indien hij, na overleg met de Partijen die een bijdrage leveren en met Laos, bepaalt dat het niet waarschijnlijk is dat de toestand die is ontstaan door de gebeurtenis of de gebeurtenissen die tot opschorting aanleiding hebben gegeven, wordt opgeheven of dat de beheerder in staat zal zijn zijn verplichtingen ingevolge deze Overeenkomst op doelmatige wijze na te komen.  
 
-b) De beheerder draagt terstond na de beëindiging van zijn verplichtingen ingevolge paragraaf 10.03 (a) alle tegoeden die op dat lik het saldo vormen van het Fonds over aan die persoon of dat lichaam welke Laos en een bijzondere meerderheid der Partijen die een bijdrage leveren zullen aanwijzen aan de beheerder voor de toepassing van deze paragraaf. Indien niet binnen zes maanden na de datum waarop de beheerder de bovenvermelde kennisgeving doet, een zodanige aanwijzing plaatsvindt, beschikt de beheerder over die tegoeden op de in paragraaf 10.06 aangegeven wijze.    
+b) De beheerder draagt terstond na de beëindiging van zijn verplichtingen ingevolge paragraaf 10.03 (a) alle tegoeden die op dat ogenblik het saldo vormen van het Fonds over aan die persoon of dat lichaam welke Laos en een bijzondere meerderheid der Partijen die een bijdrage leveren zullen aanwijzen aan de beheerder voor de toepassing van deze paragraaf. Indien niet binnen zes maanden na de datum waarop de beheerder de bovenvermelde kennisgeving doet, een zodanige aanwijzing plaatsvindt, beschikt de beheerder over die tegoeden op de in paragraaf 10.06 aangegeven wijze.    
 
 10.04. In de paragrafen 10.02 en 10.03 wordt onder „een bijzondere meerderheid van de Partijen die een bijdrage leveren” verstaan een meerderheid van die Partijen die een bijdrage leveren, wier bijdragen meer dan twee derden van het totale bedrag der bijdragen aan het Fonds vormen.  
 
 10.05. Behoudens het bepaalde in paragraaf 10.06 eindigt deze Overeenkomst, behoudens eerdere beëindiging ingevolge paragraaf 10.02 of 10.03, bij de voltooiing van het project of op het tijdstip waarop betaling uit het Fonds plaatsvindt van alle bedragen die noodzakelijk zijn om de kosten der goederen te dekken, al naar gelang welk tijdstip het laatste valt.  
 
-10.06. Indien bij beëindiging van deze Overeenkomst bedragen in het Fonds mochten resteren, bepaalt de beheerder in overleg met de Partijen die een bijdrage leveren en andere Regeringen en eventuele lichamen zoals bedoeld in paragraaf 12.02, de wijze van besteding van die bedragen, met inbegrip van de ontvangsten, de hoogten van de bedragen, de tijdstippen, de methoden en de munteenheden van betaling.    
+10.06. Indien bij beëindiging van deze Overeenkomst bedragen in het Fonds mochten resteren, bepaalt de beheerder in overleg met de Partijen die een bijdrage leveren en andere Regeringen en eventuele lichamen zoals bedoeld in paragraaf 12.02, de wijze van besteding van die bedragen, met inbegrip van de ontvangsten, de hoogten van de bedragen, de tijdstippen, de methoden en de munteenheden van betaling.   
 
 ### Artikel  XI  
 
@@ -818,7 +818,7 @@ a) Behoudens paragraaf 11.01 (b), wordt ieder geschil tussen de Partijen betreff
 
 b) Indien de beheerder weigert of nalaat een dergelijke beslissing te nemen of indien hij partij is bij het geschil, kan elk der partijen bij het geschil dit voorleggen aan een door de partijen bij het geschil gekozen scheidsman of, ingeval een dergelijke scheidsman niet binnen een redelijke tijd wordt gekozen, aan een door de Secretaris-Generaal van de Verenigde Naties benoemde scheidsman.  
 
-c) De beslissing van de beheerder of de scheidsman, al naar gelang het geval is, is bindend en wordt door alle Partijen in overeenstemming met hun onderscheiden grondwettelijke procedures nageleefd.      
+c) De beslissing van de beheerder of de scheidsman, al naar gelang het geval is, is bindend en wordt door alle Partijen in overeenstemming met hun onderscheiden grondwettelijke procedures nageleefd.     
 
 ### Artikel  XII  
 
@@ -826,7 +826,7 @@ c) De beslissing van de beheerder of de scheidsman, al naar gelang het geval is,
 
 12.01. Regeringen of lichamen geen Partij die een bijdrage levert zijnde, kunnen met voorafgaande goedkeuring van de Partijen die een bijdrage leveren, Laos en de beheerder en in overeenstemming met de regelingen welke zij overeenkomen, bijdragende Partij worden door bij de beheerder een akte neder te leggen waarin zij verklaren dat zij zich verplichten een bijdrage aan het Fonds te leveren op de in de akte gestelde voorwaarden en dat zij de bepalingen van deze Overeenkomst aanvaarden en de daaruit voortvloeiende verplichtingen zullen nakomen.  
 
-12.02. De beheerder kan met voorafgaande goedkeuring van Laos namens het Fonds van iedere Regering of ander lichaam, onverschillig of deze al dan niet Partij bij de Overeenkomst is, bedragen in ontvangst nemen, waarin deze Overeenkomst niet voorziet; deze worden gehouden en gebruikt als onderdeel van het Fonds met inachtneming van de bepalingen van deze Overeenkomst en wel in overeenstemming met door de beheerder goed te keuren regelingen die niet strijdig zijn met deze Overeenkomst.    
+12.02. De beheerder kan met voorafgaande goedkeuring van Laos namens het Fonds van iedere Regering of ander lichaam, onverschillig of deze al dan niet Partij bij de Overeenkomst is, bedragen in ontvangst nemen, waarin deze Overeenkomst niet voorziet; deze worden gehouden en gebruikt als onderdeel van het Fonds met inachtneming van de bepalingen van deze Overeenkomst en wel in overeenstemming met door de beheerder goed te keuren regelingen die niet strijdig zijn met deze Overeenkomst.   
 
 ### Artikel  XIII  
 
@@ -838,35 +838,35 @@ c) De beslissing van de beheerder of de scheidsman, al naar gelang het geval is,
 
 Voor de Regering van Australië: 
 
-Secretary Commonwealth Treasury Canberra Australia  
+Secretary  Commonwealth Treasury Canberra Australia  
 
-Telegramadres: DEPARTMENT OF TREASURY Canberra Australia    
+Telegramadres:  DEPARTMENT OF TREASURY  Canberra  Australia    
 
 Voor de Regering van Canada: 
 
-Canadian International Development Agency Ottawa, Canada  
+Canadian International Development Agency  Ottawa, Canada  
 
 Telexadres: CIDA 2208/053 4140 Ottawa Canada    
 
 Voor de Regering van de Bondsrepubliek Duitsland: 
 
-Bundesministerium fuer Wirtschaftliche Zusammenarbeit Bonn, Germany  
+Bundesministerium fuer Wirtschaftliche Zusammenarbeit  Bonn, Germany  
 
 Telexadres: 886-9452 Bonn Germany    
 
 Voor de Regering van India: 
 
-Secretary to the Government of India Ministry of Finance Department of Economie Affairs New Delhi, India  
+Secretary to the Government of India  Ministry of Finance  Department of Economie Affairs  New Delhi, India   
 
 Telegramadres: ECOFAIRS New Delhi India    
 
 Voor de Regering van Japan: 
 
-Embassy of Japan 3rd floor, Sikatuna Building 6762 Ayala Avenue, Makati, Rizal Philippines (Commercial Center, P.O. Box 891 Makati, Rizal, Philippines)    
+Embassy of Japan  3rd floor, Sikatuna Building  6762 Ayala Avenue, Makati, Rizal  Philippines  (Commercial Center, P.O. Box 891 Makati, Rizal, Philippines)    
 
-Voor de Regering van Laos: 
+Voor de Regering van Laos:  
 
-Ministère des Finances Vientiane, Laos  
+Ministère des Finances  Vientiane, Laos   
 
 Telegramadres: MINFINANCE Vientiane Laos    
 
@@ -874,39 +874,39 @@ Voor de Regering van het Koninkrijk der Nederlanden:
 
 Ministerie van Financiën Directie Buitenlandse Financiële Betrekkingen The Hague, Netherlands  
 
-Telegramadres: MINISTER OF FINANCE The Hague Netherlands    
+Telegramadres:  MINISTER OF FINANCE  The Hague  Netherlands    
 
 Voor de Regering van Nieuw-Zeeland: 
 
-Secretary of Foreign Affairs Wellington New Zealand cc: The Secretary to the Treasury Wellington  
+Secretary of Foreign Affairs Wellington  New Zealand  cc: The Secretary to the Treasury Wellington   
 
-Telegramadres: MINISTRY OF FOREIGN AFFAIRS Wellington New Zealand    
+Telegramadres:  MINISTRY OF FOREIGN AFFAIRS  Wellington  New Zealand     
 
 Voor de Regering van Thailand: 
 
-Ministry of Finance Na Phralan Road Bangkok, Thailand  
+Ministry of Finance  Na Phralan Road  Bangkok, Thailand   
 
-Telegramadres: MINANCE Bangkok Thailand    
+Telegramadres:  MINANCE  Bangkok  Thailand     
 
 Voor de Regering van het Verenigd Koninkrijk: 
 
-The Foreign and Commonwealth Office (Overseas Development Administration) London, United Kingdom  
+The Foreign and Commonwealth Office  (Overseas Development Administration)  London, United Kingdom  
 
-Telexadres: 263 907 MINISTRANT London United Kingdom    
+Telexadres:  263 907  MINISTRANT  London United Kingdom     
 
-Voor de Regering van de Verenigde Staten: 
+Voor de Regering van de Verenigde Staten:  
 
-Bureau for Supporting Assistance Agency for International Development Department of State Washington, D.C. 20523 United States of America  
+Bureau for Supporting Assistance  Agency for International Development  Department of State  Washington, D.C. 20523  United States of America  
 
-Telegramadres: AID Washington DC USA    
+Telegramadres: AID  Washington DC  USA     
 
 Voor de Bank: 
 
-Asian Development Bank P.O. Box 789 Manila, Philippines  
+Asian Development Bank  P.O. Box 789  Manila, Philippines  
 
-Telegramadres: ASIANBANK Manila Philippines  
+Telegramadres:  ASIANBANK Manila Philippines  
 
-Telexadressen: ASIANBANK 7425071 7222094 ADBPH 3587 ADBPN        
+Telexadressen: ASIANBANK 7425071  7222094 ADBPH  3587 ADBPN       
 
 ### Artikel  XIV  
 
@@ -916,7 +916,7 @@ Telexadressen: ASIANBANK 7425071 7222094 ADBPH 3587 ADBPN
 
 14.02. Deze Overeenkomst treedt in werking op het tijdstip waarop de Secretaris van de Bank verklaart dat Laos, Thailand, de Bank alsmede die Partijen die een bijdrage leveren en die Bilaterale Leners wier bijdragen in het totaal niet minder dan de tegenwaarde van $ 24.700.000,- bedragen, hetzij deze Overeenkomst hebben ondertekend zonder voorbehoud van aanvaarding, hetzij haar ondertekend hebbende onder voorbehoud van aanvaarding, de Bank als toekomstige beheerder mededeling hebben gedaan van aanvaarding. De Bank stelt terstond na dat tijdstip de andere Partijen in kennis van de inwerkingtreding van deze Overeenkomst.  
 
-14.03. Alle op of na de datum van deze Overeenkomst en voor de datum van inwerkingtreding van deze Overeenkomst overeenkomstig paragraaf 14.02 geleverde bijdragen aan de Bank als toekomstig beheerder en door deze verrichte of goedgekeurde handelingen worden geacht in overeenstemming met deze Overeenkomst te zijn geleverd of verricht en de debiteringen en crediteringen aan het Fonds en aan de Partijen geschieden op die basis.    
+14.03. Alle op of na de datum van deze Overeenkomst en voor de datum van inwerkingtreding van deze Overeenkomst overeenkomstig paragraaf 14.02 geleverde bijdragen aan de Bank als toekomstig beheerder en door deze verrichte of goedgekeurde handelingen worden geacht in overeenstemming met deze Overeenkomst te zijn geleverd of verricht en de debiteringen en crediteringen aan het Fonds en aan de Partijen geschieden op die basis.   
 
 GEDAAN te Manilla, Philippijnen, op 26 juni 1974, in de Engelse taal, in een enkel exemplaar dat zal worden nedergelegd in het archief van de Aziatische Ontwikkelingsbank, die hiervan aan elk der ondertekenende Regeringen gewaarmerkte exemplaren doet toekomen.  
 

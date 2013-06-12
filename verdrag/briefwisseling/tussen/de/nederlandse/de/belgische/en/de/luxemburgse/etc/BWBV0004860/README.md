@@ -50,14 +50,15 @@ b. carte d'identité („toeristenkaart”) en cours de validité.
 
 10. Le présent Arrangement entrera en vigueur le 12 juin 1969 pour une durée d'une année. S'il n'a pas été dénoncé trente jours avant la fin de cette période, l'Arrangement sera considéré comme prolongé pour une durée indéterminée. Après la première période d'une année, chacun des Gouvernements signataires pourra le dénoncer moyennant un préavis de deux mois adressé au Gouvernement belge. La dénonciation par un seul des Gouvernements signataires entraînera l'abrogation de l'Arrangement. Le Gouvernement belge avisera les autres Gouvernements signataires de la réception des notifications mentionnées au présent point.”   Si le Gouvernement de Saint-Marin est disposé à conclure avec les Gouvernements des pays du Benelux un Arrangement conforme aux dispositions précitées, nous proposons à Votre Excellence que la présente lettre et celle de teneur semblable que Votre Excellence voudra bien adresser à chacun de nous, constituent l'Arrangement entre le Gouvernement de Saint-Marin et les Gouvernements des pays du Benelux. Nous saisissons cette occasion, Monsieur le Ministre, pour renouveler à Votre Excellence les assurances de notre très haute considération. Le 12 juin 1969.   
 
-### Nr.  II  
+### Nr.   II  
 
-<sup> 1)  [Red: Op dezelfde datum werden soortgelijke nota's gericht aan de Ambassadeurs van het Koninkrijk België en het Groothertogdom Luxemburg te Rome.]  </sup>   
-###REPUBBLICA DI SAN MARINO
+####<sup> 1)  [Red: Op dezelfde datum werden soortgelijke nota's gericht aan de Ambassadeurs van het Koninkrijk België en het Groothertogdom Luxemburg te Rome.]  </sup>
+
+### REPUBBLICA DI SAN MARINO
 
 ###SEGRETERIA DI STATO PER GLI AFFARI ESTERI
 
-n. 1468/Aa/243/4/5/6 Saint-Marin, le 12 juin 1969/1668 d.F.R. Monsieur l'Ambassadeur, J'ai l'honneur d'accuser réception de votre lettre du 12 juin 1969 par laquelle Votre Excellence a bien voulu me communiquer ce qui suit:  (zoals in Nr. I)  J'ai l'honneur de vous communiquer que le Gouvernement de la République de Saint-Marin est disposé à conclure avec les Gouvernements des Pays du Benelux l'Arrangement conforme aux dispositions susmentionnées et accepte que la lettre précitée et la présente réponse constituent un Arrangement entre les Gouvernements des Pays du Benelux et le Gouvernement de Saint-Marin. Veuillez croire, Monsieur l'Ambassadeur, à l'assurance de ma très haute considération.   
+n. 1468/Aa/243/4/5/6 Saint-Marin, le 12 juin 1969/1668 d.F.R.  Monsieur l'Ambassadeur, J'ai l'honneur d'accuser réception de votre lettre du 12 juin 1969 par laquelle Votre Excellence a bien voulu me communiquer ce qui suit:  (zoals in Nr. I)  J'ai l'honneur de vous communiquer que le Gouvernement de la République de Saint-Marin est disposé à conclure avec les Gouvernements des Pays du Benelux l'Arrangement conforme aux dispositions susmentionnées et accepte que la lettre précitée et la présente réponse constituent un Arrangement entre les Gouvernements des Pays du Benelux et le Gouvernement de Saint-Marin. Veuillez croire, Monsieur l'Ambassadeur, à l'assurance de ma très haute considération.   
 
 ### Nr.  I  
 
@@ -112,4 +113,4 @@ b. geldige toeristenkaart.
 San Marino, 12 juni 1969/1668 d.F.R. 
 ###REPUBLIEK SAN MARINO
 
-Staatssecretariaat van Buitenlandse Zaken n. 1468/Aa/243/4/5/6 Mijnheer de Ambassadeur, Ik heb de eer de ontvangst te bevestigen van Uw brief van 12 juni 1969 waarin U mij het volgende ter kennis heeft willen brengen:  (zoals in Nr. I)  Ik heb de eer te Uwer kennis te brengen dat de Regering van de Republiek San Marino bereid is, met de Regeringen van de Beneluxlanden de Overeenkomst te sluiten overeenkomstig de bovengenoemde bepalingen, en aanvaardt dat de bovengenoemde brief en dit antwoord een Overeenkomst vormen tussen de Regeringen van de Beneluxlanden en de Regering van San Marino. Gelief, Mijnheer de Ambassadeur, de verzekering van mijn zeer bijzondere hoogachting wel te willen aanvaarden.   
+Staatssecretariaat van Buitenlandse Zaken  n. 1468/Aa/243/4/5/6 Mijnheer de Ambassadeur, Ik heb de eer de ontvangst te bevestigen van Uw brief van 12 juni 1969 waarin U mij het volgende ter kennis heeft willen brengen:  (zoals in Nr. I)  Ik heb de eer te Uwer kennis te brengen dat de Regering van de Republiek San Marino bereid is, met de Regeringen van de Beneluxlanden de Overeenkomst te sluiten overeenkomstig de bovengenoemde bepalingen, en aanvaardt dat de bovengenoemde brief en dit antwoord een Overeenkomst vormen tussen de Regeringen van de Beneluxlanden en de Regering van San Marino. Gelief, Mijnheer de Ambassadeur, de verzekering van mijn zeer bijzondere hoogachting wel te willen aanvaarden.   

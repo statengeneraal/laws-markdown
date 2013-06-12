@@ -4,11 +4,11 @@
 
 ####Aanvullend Protocol
 
-Preambule Zijne Majesteit de Koning der Belgen, De President van de Bondsrepubliek Duitsland, De President van de Franse Republiek, De President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, en de Raad van de Europese Gemeenschappen, enerzijds, en De President van de Republiek Turkije, anderzijds, Overwegende dat de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije na de voorbereidende fase een overgangsfase van de Associatie voorschrijft, Vaststellende dat de voorbereidende fase in hoge mate en in overeenstemming met de doelstellingen van de Associatieovereenkomst heeft bijgedragen tot het versterken van de economische betrekkingen in het algemeen, en tot de uitbreiding van het handelsverkeer in het bijzonder, tussen de Europese Economische Gemeenschap en Turkije, Van oordeel zijnde dat de voorwaarden voor de overgang van de voorbereide fase naar de overgangsfase zijn vervuld, <sup> 2)  [Red: Lees: voorbereidende.]  </sup> Vastbesloten de bepalingen betreffende de voorwaarden, de wijze en het ritme van de verwezenlijking van deze overgangsfase vast te stellen in de vorm van een Aanvullend Protocol, Overwegende dat gedurende de overgangsfase de Overeenkomstsluitende Partijen op de grondslag van wederkerige en tegen elkaar opwegende verplichtingen zorg dragen voor het geleidelijk tot stand brengen van een douane-unie tussen Turkije en de Gemeenschap alsmede voor het nader tot elkaar brengen van het economisch beleid van Turkije en dat van de Gemeenschap, ten einde de goede werking van de Associatie en de ontwikkeling van de hiertoe benodigde gemeenschappelijke maatregelen te verzekeren, Hebben als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: de heer Pierre Harmel, Minister van Buitenlandse Zaken; De President van de Bondsrepubliek Duitsland: de heer Walter Scheel, Minister van Buitenlandse Zaken; De President van de Franse Republiek: de heer Maurice Schumann, Minister van Buitenlandse Zaken; De President van de Italiaanse Republiek: de heer Mario Pedini, Staatssecretaris van Buitenlandse Zaken; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: de heer Gaston Thorn, Minister van Buitenlandse Zaken; Hare Majesteit de Koningin der Nederlanden: de heer J. M. A. H. Luns, Minister van Buitenlandse Zaken; De Raad van de Europese Gemeenschappen: de heer Walter Scheel, Fungerend Voorzitter van de Raad van de Europese Gemeenschappen; de heer Franco Maria Malfatti, Voorzitter van de Commissie van de Europese Gemeenschappen; De President van de Republiek Turkije: de heer Ihsan Sabri Çalayanğil, Minister van Buitenlandse Zaken; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,   omtrent de volgende bepalingen, die aan de Associatieovereenkomst worden gehecht, overeenstemming hebben bereikt:    
+Preambule Zijne Majesteit de Koning der Belgen, De President van de Bondsrepubliek Duitsland, De President van de Franse Republiek, De President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, en de Raad van de Europese Gemeenschappen, enerzijds, en De President van de Republiek Turkije, anderzijds, Overwegende dat de [Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) na de voorbereidende fase een overgangsfase van de Associatie voorschrijft, Vaststellende dat de voorbereidende fase in hoge mate en in overeenstemming met de doelstellingen van de [Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) heeft bijgedragen tot het versterken van de economische betrekkingen in het algemeen, en tot de uitbreiding van het handelsverkeer in het bijzonder, tussen de Europese Economische Gemeenschap en Turkije, Van oordeel zijnde dat de voorwaarden voor de overgang van de voorbereide<sup> 2)  [Red: Lees: voorbereidende.] </sup>fase naar de overgangsfase zijn vervuld, Vastbesloten de bepalingen betreffende de voorwaarden, de wijze en het ritme van de verwezenlijking van deze overgangsfase vast te stellen in de vorm van een Aanvullend Protocol, Overwegende dat gedurende de overgangsfase de Overeenkomstsluitende Partijen op de grondslag van wederkerige en tegen elkaar opwegende verplichtingen zorg dragen voor het geleidelijk tot stand brengen van een douane-unie tussen Turkije en de Gemeenschap alsmede voor het nader tot elkaar brengen van het economisch beleid van Turkije en dat van de Gemeenschap, ten einde de goede werking van de Associatie en de ontwikkeling van de hiertoe benodigde gemeenschappelijke maatregelen te verzekeren, Hebben als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: de heer Pierre Harmel, Minister van Buitenlandse Zaken; De President van de Bondsrepubliek Duitsland: de heer Walter Scheel, Minister van Buitenlandse Zaken; De President van de Franse Republiek: de heer Maurice Schumann, Minister van Buitenlandse Zaken; De President van de Italiaanse Republiek: de heer Mario Pedini, Staatssecretaris van Buitenlandse Zaken; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: de heer Gaston Thorn, Minister van Buitenlandse Zaken; Hare Majesteit de Koningin der Nederlanden: de heer J. M. A. H. Luns, Minister van Buitenlandse Zaken; De Raad van de Europese Gemeenschappen: de heer Walter Scheel, Fungerend Voorzitter van de Raad van de Europese Gemeenschappen; de heer Franco Maria Malfatti, Voorzitter van de Commissie van de Europese Gemeenschappen; De President van de Republiek Turkije: de heer Ihsan Sabri Çalayanğil, Minister van Buitenlandse Zaken; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,   omtrent de volgende bepalingen, die aan de [Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) worden gehecht, overeenstemming hebben bereikt:    
 
 ### Artikel  1  
 
-In dit Protocol wordt vastgesteld onder welke voorwaarden, op welke wijze en in welk ritme de overgangsfase ten uitvoer zal worden gelegd, bedoeld in artikel 4 van de overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije.  
+In dit Protocol wordt vastgesteld onder welke voorwaarden, op welke wijze en in welk ritme de overgangsfase ten uitvoer zal worden gelegd, bedoeld in [artikel 4 van de overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md). 
 
 ### TITEL  I  
 
@@ -23,26 +23,26 @@ a) op in de Gemeenschap of in Turkije voortgebrachte goederen met inbegrip van d
 b) op goederen uit derde landen die zich in de Gemeenschap of in Turkije in het vrije verkeer bevinden.     
 2.  Als zich bevindend in het vrije verkeer in de Gemeenschap of in Turkije worden beschouwd: produkten uit derde landen waarvoor in de Gemeenschap of in Turkije de invoerformaliteiten zijn verricht en de verschuldigde douanerechten en heffingen van gelijke werking zijn voldaan en waarvoor geen gehele of gedeeltelijke teruggave van die rechten of heffingen is verleend.   
 3.  Goederen uit derde landen in de Gemeenschap of in Turkije ingevoerd onder een bijzondere douaneregeling uit hoofde van hun oorsprong of herkomst, kunnen niet worden geacht zich daar in het vrije verkeer te bevinden, wanneer zij weer naar de andere Overeenkomstsluitende Partij worden uitgevoerd. De Associatieraad kan echter onder door hem te bepalen voorwaarden afwijkingen van deze regel vaststellen.   
-4.  De leden 1 en 2 zijn slechts van toepassing op de goederen die vanaf de datum van ondertekening van dit Protocol uit de Gemeenschap of uit Turkije worden uitgevoerd.   
+4.  De leden 1 en 2 zijn slechts van toepassing op de goederen die vanaf de datum van ondertekening van dit Protocol uit de Gemeenschap of uit Turkije worden uitgevoerd.  
 
 ### Artikel  3  
 
 1.  Hoofdstuk I, afdeling I, en hoofdstuk II van deze titel zijn eveneens van toepassing op in de Gemeenschap of in Turkije vervaardigde goederen waarin produkten uit derde landen zijn verwerkt, die zich noch in de Gemeenschap noch in Turkije in het vrije verkeer bevonden. De toepassing ervan op de hierboven bedoelde goederen wordt echter afhankelijk gesteld van een compenserende heffing in het uitvoerland, waarvan de hoogte gelijk is aan een percentage van de rechten van het gemeenschappelijk douanetarief die worden geheven op produkten uit derde landen die daarin zijn verwerkt. Dit percentage, dat door de Associatieraad voor elke door hem bepaalde periode wordt vastgesteld, is afhankelijk van de tariefverlaging voor die goederen in het invoerland. De Associatieraad stelt eveneens regels betreffende de compenserende heffing vast, met inachtneming van de regels die vóór 1 juli 1968 in het handelsverkeer tussen de Lid-Staten ter zake golden.   
-2.  De compenserende heffing wordt evenwel bij uitvoer uit de Gemeenschap of uit Turkije niet toegepast op de onder in dit artikel bedoelde omstandigheden vervaardigde goederen, zolang voor de meeste der in de andere Overeenkomstsluitende Partij ingevoerde goederen de verlaging van de douanerechten niet meer dan 20% bedraagt, met inachtneming van de verschillende ritmen van de tariefverlaging welke in dit Protocol zijn vastgesteld.   
+2.  De compenserende heffing wordt evenwel bij uitvoer uit de Gemeenschap of uit Turkije niet toegepast op de onder in dit artikel bedoelde omstandigheden vervaardigde goederen, zolang voor de meeste der in de andere Overeenkomstsluitende Partij ingevoerde goederen de verlaging van de douanerechten niet meer dan 20% bedraagt, met inachtneming van de verschillende ritmen van de tariefverlaging welke in dit Protocol zijn vastgesteld.  
 
 ### Artikel  4  
 
-Met inachtneming van de door de Gemeenschap ten aanzien van het goederenverkeer tussen de Lid-Staten vastgestelde werkwijzen stelt de Associatieraad de wijzen van administratieve samenwerking ter toepassing van de artikelen 2 en 3 vast.  
+Met inachtneming van de door de Gemeenschap ten aanzien van het goederenverkeer tussen de Lid-Staten vastgestelde werkwijzen stelt de Associatieraad de wijzen van administratieve samenwerking ter toepassing van de artikelen 2 en 3 vast. 
 
 ### Artikel  5  
 
 1.  Iedere Overeenkomstsluitende Partij die van oordeel is, dat ongelijkheden die voortvloeien uit de toepassing, hetzij van douanerechten, hetzij van kwantitatieve beperkingen, hetzij van enige maatregel van gelijke werking bij invoer, alsmede van enige andere handelspolitieke maatregel, een verlegging van het handelsverkeer of economische moeilijkheden op haar grondgebied dreigen mede te brengen, kan zich tot de Associatieraad wenden, die, zo het geval zich voordoet, de methoden aanbeveelt die geschikt zijn om de schade die daaruit kan voortvloeien, te vermijden.   
 2.  Wanneer zich een verlegging van het handelsverkeer of economische moeilijkheden voordoen en de betrokken Partij van oordeel is dat deswege onverwijld ingrijpen noodzakelijk is, kan zij zelf de nodige beschermende maatregelen nemen, onder onverwijlde kennisgeving daarvan aan de Associatieraad, die kan beslissen of de betrokken Partij deze maatregelen moet wijzigen of opheffen.   
-3.  Bij voorrang moeten die maatregelen worden gekozen, die de werking van de Associatie en met name de normale ontwikkeling van het handelsverkeer het minst verstoren.   
+3.  Bij voorrang moeten die maatregelen worden gekozen, die de werking van de Associatie en met name de normale ontwikkeling van het handelsverkeer het minst verstoren.  
 
 ### Artikel  6  
 
-Gedurende de overgangsfase brengen de Overeenkomstsluitende Partijen, in de mate waarin zulks voor de goede werking van de Associatie noodzakelijk is, hun wettelijke en bestuursrechtelijke bepalingen op douanegebied nader tot elkaar, met inachtneming van de reeds door de Lid-Staten van de Gemeenschap ter zake bereikte aanpassing.  
+Gedurende de overgangsfase brengen de Overeenkomstsluitende Partijen, in de mate waarin zulks voor de goede werking van de Associatie noodzakelijk is, hun wettelijke en bestuursrechtelijke bepalingen op douanegebied nader tot elkaar, met inachtneming van de reeds door de Lid-Staten van de Gemeenschap ter zake bereikte aanpassing. 
 
 ### HOOFDSTUK  I  
 
@@ -55,25 +55,25 @@ Gedurende de overgangsfase brengen de Overeenkomstsluitende Partijen, in de mate
 ### Artikel  7  
 
 1.  De Overeenkomstsluitende Partijen onthouden zich ervan, onderling nieuwe in- en uitvoerrechten of heffingen van gelijke werking in te stellen en de rechten en heffingen die zij op de datum van inwerkingtreding van dit Protocol in hun onderlinge handelsbetrekkingen toepassen, te verhogen.   
-2.  De Associatieraad kan de Partijen evenwel machtigen tot het instellen van nieuwe uitvoerrechten of heffingen van gelijke werking, indien zulks noodzakelijk blijkt om de doelstellingen van de Overeenkomst te verwezenlijken.   
+2.  De Associatieraad kan de Partijen evenwel machtigen tot het instellen van nieuwe uitvoerrechten of heffingen van gelijke werking, indien zulks noodzakelijk blijkt om de doelstellingen van de Overeenkomst te verwezenlijken.  
 
 ### Artikel  8  
 
-De tussen de Gemeenschap en Turkije bestaande invoerrechten, alsmede de heffingen van gelijke werking, worden geleidelijk afgeschaft overeenkomstig de artikelen 9 tot en met 11.  
+De tussen de Gemeenschap en Turkije bestaande invoerrechten, alsmede de heffingen van gelijke werking, worden geleidelijk afgeschaft overeenkomstig de artikelen 9 tot en met 11. 
 
 ### Artikel  9  
 
-Bij de inwerkingtreding van dit Protocol schaft de Gemeenschap de douanerechten en heffingen van gelijke werking op de invoer uit Turkije af.  
+Bij de inwerkingtreding van dit Protocol schaft de Gemeenschap de douanerechten en heffingen van gelijke werking op de invoer uit Turkije af. 
 
 ### Artikel  10  
 
 1.  Het recht dat op de datum van ondertekening van dit Protocol daadwerkelijk ten opzichte van de Gemeenschap wordt toegepast, vormt voor ieder produkt het basisrecht waarop de achtereenvolgende verlagingen door Turkije moeten worden toegepast.   
 2.  Het ritme van de door Turkije tot stand te brengen verlagingen wordt als volgt bepaald: de eerste verlaging wordt tot stand gebracht bij de inwerkingtreding van dit Protocol. De tweede en derde verlaging worden achtereenvolgens drie en vijf jaar later tot stand gebracht. De vierde en volgende verlagingen hebben jaarlijks plaats, zodat de laatste verlaging plaatsvindt aan het einde van de overgangsperiode.   
-3.  Elke verlaging geschiedt door het basisrecht van ieder produkt met 10 % te verminderen.   
+3.  Elke verlaging geschiedt door het basisrecht van ieder produkt met 10 % te verminderen.  
 
 ### Artikel  11  
 
-In afwijking van artikel 10, lid 2 en 3, schaft Turkije voor de in bijlage No. 3 opgenomen produkten in de loop van een periode van tweeëntwintig jaar geleidelijk de basisrechten ten opzichte van de Gemeenschap af in het volgende ritme: een verlaging van 5% van elk recht wordt tot stand gebracht bij de inwerkingtreding van dit Protocol. Drie verdere verlagingen van elk 5 % vinden achtereenvolgens drie, zes en tien jaar later plaats. Acht verdere verlagingen van elk 10% worden tot stand gebracht achtereenvolgens twaalf, dertien, vijftien, zeventien, achttien, twintig, eenentwintig en tweeëntwintig jaar na de inwerkingtreding van dit Protocol.  
+In afwijking van artikel 10, lid 2 en 3, schaft Turkije voor de in bijlage No. 3 opgenomen produkten in de loop van een periode van tweeëntwintig jaar geleidelijk de basisrechten ten opzichte van de Gemeenschap af in het volgende ritme: een verlaging van 5% van elk recht wordt tot stand gebracht bij de inwerkingtreding van dit Protocol. Drie verdere verlagingen van elk 5 % vinden achtereenvolgens drie, zes en tien jaar later plaats. Acht verdere verlagingen van elk 10% worden tot stand gebracht achtereenvolgens twaalf, dertien, vijftien, zeventien, achttien, twintig, eenentwintig en tweeëntwintig jaar na de inwerkingtreding van dit Protocol. 
 
 ### Artikel  12  
 
@@ -84,29 +84,29 @@ In afwijking van artikel 10, lid 2 en 3, schaft Turkije voor de in bijlage No. 3
 - de waarde van de invoer uit de Gemeenschap van alle in bijlage No. 3 opgenomen produkten, nog altijd berekend op basis van de invoercijfers over 1967, niet wordt verhoogd.   De produkten die aan de lijst van bijlage No. 3 worden toegevoegd, kunnen onmiddellijk worden onderworpen aan de volgens artikel 11 berekende rechten; de produkten die ervan worden afgevoerd, worden onmiddellijk onderworpen aan de volgens artikel 10 berekende rechten.   
 2.  Turkije stelt de Associatieraad in kennis van de maatregelen die het overeenkomstig bovenstaande bepalingen overweegt te nemen.   
 3.  Met hetzelfde doel als bedoeld in lid 1 en voor ten hoogste 10% van de invoer uit de Gemeenschap in het jaar 1967, kan de Associatieraad Turkije tijdens de overgangsfase machtigen tot het opnieuw invoeren, het verhogen of het instellen van douanerechten voor de aan de regeling van artikel 10 onderworpen produkten. Door deze tariefmaatregelen mogen voor elk der posten waarop zij betrekking hebben, de rechten welke worden toegepast op invoer uit de Gemeenschap, niet hoger komen dan 25 % ad valorem.   
-4.  De Associatieraad kan eveneens, gedurende de overgangsfase, besluiten dat de aan Turkije in lid 3 toegekende bevoegdheid, in plaats van het opnieuw invoeren, het verhogen of het instellen van douanerechten, de mogelijkheid kan omvatten kwantitatieve beperkingen in te stellen, mits het ten gunste van de Gemeenschap een contingent opent, dat niet minder bedraagt dan 60 % van de invoer van bedoeld produkt uit de Gemeenschap gedurende het voorafgaande jaar. De in voerwaarde in 1967 van de produkten uit de Gemeenschap waarop deze kwantitatieve beperkingen betrekking hebben, dient in mindering te worden gebracht op de totale in lid 3, eerste alinea, bedoelde invoerwaarde. De Associatieraad stelt de wijze van uitvoering en de voorwaarden van afschaffing van deze maatregelen vast.   
-5.  In afwijking van lid 4 zijn voor de periode gedurende welke Turkije het geconsolideerde liberalisatiepercentage toepast, dat overeenkomstig artikel 22, leden 2 en 3, is vastgesteld op 40 %, de volgende regels van toepassing: Indien de Associatieraad niet binnen 6 maanden te rekenen van de indiening van het verzoek, een besluit heeft genomen krachtens lid 4, kan Turkije, na de Associatieraad hiervan op de hoogte te hebben gesteld, en niet eerder dan een jaar na indiening van zijn verzoek, kwantitatieve beperkingen instellen, welke voldoen aan de in lid 4 genoemde voorwaarden. Deze kwantitatieve beperkingen mogen te zamen geen hogere invoerwaarde vertegenwoordigen dan 5 % van de invoer uit de Gemeenschap in haar oorspronkelijke samenstelling over 1967. De waarde van de invoer over 1967, waarop deze kwantitatieve beperkingen betrekking hebben, berekend op basis van de invoer uit de Gemeenschap in haar oorspronkelijke samenstelling, moet in mindering worden gebracht op de in lid 3, eerste alinea, bedoelde waarde. Indien deze beperkingen echter betrekking hebben op produkten die bij een verhoging van het geconsolideerde liberalisatiepeil aan de lijst werden toegevoegd, overeenkomstig artikel 22, lid 4, wordt de invoerwaarde berekend op basis van de invoer over 1967 uit de oorspronkelijke en de nieuwe Lid-Staten. Turkije dient tegelijkertijd nieuwe produkten toe te voegen aan de overeenkomstig artikel 22, lid 4, geconsolideerde liberalisatielijst zodat de waarde van de invoer uit de Gemeenschap van de op de lijst opgenomen produkten niet wordt verminderd. In de Associatieraad kan overleg plaatsvinden over de geleidelijke afschaffing van de door Turkije in toepassing van dit lid ingestelde kwantitatieve beperkingen.   
-6.  De Associatieraad kan afwijken van de leden 1, 3, 4 en 5.   
+4.  De Associatieraad kan eveneens, gedurende de overgangsfase, besluiten dat de aan Turkije in lid 3 toegekende bevoegdheid, in plaats van het opnieuw invoeren, het verhogen of het instellen van douanerechten, de mogelijkheid kan omvatten kwantitatieve beperkingen in te stellen, mits het ten gunste van de Gemeenschap een contingent opent, dat niet minder bedraagt dan 60 % van de invoer van bedoeld produkt uit de Gemeenschap gedurende het voorafgaande jaar. De invoerwaarde in 1967 van de produkten uit de Gemeenschap waarop deze kwantitatieve beperkingen betrekking hebben, dient in mindering te worden gebracht op de totale in lid 3, eerste alinea, bedoelde invoerwaarde. De Associatieraad stelt de wijze van uitvoering en de voorwaarden van afschaffing van deze maatregelen vast. 
+5. In afwijking van lid 4 zijn voor de periode gedurende welke Turkije het geconsolideerde liberalisatiepercentage toepast, dat overeenkomstig artikel 22, leden 2 en 3, is vastgesteld op 40 %, de volgende regels van toepassing: Indien de Associatieraad niet binnen 6 maanden te rekenen van de indiening van het verzoek, een besluit heeft genomen krachtens lid 4, kan Turkije, na de Associatieraad hiervan op de hoogte te hebben gesteld, en niet eerder dan een jaar na indiening van zijn verzoek, kwantitatieve beperkingen instellen, welke voldoen aan de in lid 4 genoemde voorwaarden. Deze kwantitatieve beperkingen mogen te zamen geen hogere invoerwaarde vertegenwoordigen dan 5 % van de invoer uit de Gemeenschap in haar oorspronkelijke samenstelling over 1967. De waarde van de invoer over 1967, waarop deze kwantitatieve beperkingen betrekking hebben, berekend op basis van de invoer uit de Gemeenschap in haar oorspronkelijke samenstelling, moet in mindering worden gebracht op de in lid 3, eerste alinea, bedoelde waarde. Indien deze beperkingen echter betrekking hebben op produkten die bij een verhoging van het geconsolideerde liberalisatiepeil aan de lijst werden toegevoegd, overeenkomstig artikel 22, lid 4, wordt de invoerwaarde berekend op basis van de invoer over 1967 uit de oorspronkelijke en de nieuwe Lid-Staten. Turkije dient tegelijkertijd nieuwe produkten toe te voegen aan de overeenkomstig artikel 22, lid 4, geconsolideerde liberalisatielijst zodat de waarde van de invoer uit de Gemeenschap van de op de lijst opgenomen produkten niet wordt verminderd. In de Associatieraad kan overleg plaatsvinden over de geleidelijke afschaffing van de door Turkije in toepassing van dit lid ingestelde kwantitatieve beperkingen.
+6. De Associatieraad kan afwijken van de leden 1, 3, 4 en 5. 
 
 ### Artikel  13  
 
 1.  Ongeacht de artikelen 9 tot en met 11 kunnen de Overeenkomstsluitende Partijen de heffing van rechten geheel of gedeeltelijk schorsen, op produkten, ingevoerd uit de andere Partij die hiervan in kennis dient te worden gesteld; een en ander geldt, wat Turkije betreft, met name om de invoer van sommige produkten die nodig zijn ter aanmoediging van zijn economische ontwikkeling, te vergemakkelijken.   
-2.  De Overeenkomstsluitende Partijen verklaren zich bereid, hun rechten ten opzichte van de andere Partij in een sneller ritme te verlagen dan in de artikelen 9 tot en met 11 is bepaald, indien hun algemene economische toestand en de toestand in de betrokken sector hun zulks toelaten. De Associatieraad doet hiertoe passende aanbevelingen.   
+2.  De Overeenkomstsluitende Partijen verklaren zich bereid, hun rechten ten opzichte van de andere Partij in een sneller ritme te verlagen dan in de artikelen 9 tot en met 11 is bepaald, indien hun algemene economische toestand en de toestand in de betrokken sector hun zulks toelaten. De Associatieraad doet hiertoe passende aanbevelingen.  
 
 ### Artikel  14  
 
-Indien Turkije in een sneller ritme dan bedoeld in de artikelen 10 en 11 een heffing van gelijke werking als douanerechten afschaft ten aanzien van een land dat niet bij de Associatie is aangesloten, zal hetzelfde ritme worden toegepast voor de afschaffing van deze heffing ten aanzien van de Gemeenschap.  
+Indien Turkije in een sneller ritme dan bedoeld in de artikelen 10 en 11 een heffing van gelijke werking als douanerechten afschaft ten aanzien van een land dat niet bij de Associatie is aangesloten, zal hetzelfde ritme worden toegepast voor de afschaffing van deze heffing ten aanzien van de Gemeenschap. 
 
 ### Artikel  15  
 
-Onverminderd artikel 7, lid 2, schaffen de Overeenkomstsluitende Partijen uiterlijk vier jaar na de inwerkingtreding van dit Protocol alle tussen hen bestaande uitvoerrechten en heffingen van gelijke werking af.  
+Onverminderd artikel 7, lid 2, schaffen de Overeenkomstsluitende Partijen uiterlijk vier jaar na de inwerkingtreding van dit Protocol alle tussen hen bestaande uitvoerrechten en heffingen van gelijke werking af. 
 
 ### Artikel  16  
 
 1.  De artikelen 7, lid 1, en 8 tot en met 15 zijn van toepassing op douanerechten van fiscale aard.   
 2.  De Gemeenschap en Turkije brengen bij de inwerkingtreding van dit Protocol hun douanerechten van fiscale aard ter kennis van de Associatieraad.   
 3.  Turkije behoudt de bevoegdheid deze douanerechten van fiscale aard te vervangen door een binnenlandse heffing die in overeenstemming is met het bepaalde in artikel 44.   
-4.  Wanneer de Associatieraad vaststelt dat de vervanging van een douanerecht van fiscale aard in Turkije op ernstige moeilijkheden stuit, verleent hij dit land toestemming dit recht te handhaven op voorwaarde dat het uiterlijk aan het einde van de overgangsfase wordt afgeschaft. De toestemming dient binnen twaalf maanden na de inwerkingtreding van dit Protocol te worden gevraagd. Turkije kan voorlopig de desbetreffende rechten handhaven tot de Associatieraad ter zake een beslissing heeft genomen.   
+4.  Wanneer de Associatieraad vaststelt dat de vervanging van een douanerecht van fiscale aard in Turkije op ernstige moeilijkheden stuit, verleent hij dit land toestemming dit recht te handhaven op voorwaarde dat het uiterlijk aan het einde van de overgangsfase wordt afgeschaft. De toestemming dient binnen twaalf maanden na de inwerkingtreding van dit Protocol te worden gevraagd. Turkije kan voorlopig de desbetreffende rechten handhaven tot de Associatieraad ter zake een beslissing heeft genomen.  
 
 ### Afdeling  II  
 
@@ -116,13 +116,13 @@ Onverminderd artikel 7, lid 2, schaffen de Overeenkomstsluitende Partijen uiterl
 
 De aanpassing van het douanetarief van Turkije aan het gemeenschappelijk douanetarief geschiedt tijdens de overgangsfase op de hierna volgende wijze, waarbij wordt uitgegaan van de rechten die door Turkije op de datum van ondertekening van dit Protocol daadwerkelijk jegens derde landen worden toegepast. 
 
-1. Wat de produkten betreft waarvan de door Turkije op bovenvermeld tijdstip daadwerkelijk geheven rechten niet meer dan 15% hoger of lager zijn dan de rechten van het gemeenschappelijk douanetarief, worden laatstgenoemde rechten van toepassing één jaar na ds tweede verlaging van douanerechten overeenkomstig artikel 10.  
+1. Wat de produkten betreft waarvan de door Turkije op bovenvermeld tijdstip daadwerkelijk geheven rechten niet meer dan 15% hoger of lager zijn dan de rechten van het gemeenschappelijk douanetarief, worden laatstgenoemde rechten van toepassing één jaar na de tweede verlaging van douanerechten overeenkomstig artikel 10.  
 
 2. In de overige gevallen past Turkije een jaar na de tweede verlaging van douanerechten overeenkomstig artikel 10 zodanige rechten toe dat het verschil tussen het op de datum van ondertekening van dit Protocol daadwerkelijk geheven recht en het recht van het gemeenschappelijk douanetarief met 20 % wordt verminderd.  
 
 3. Dit verschil wordt wederom met 20 % verminderd bij de vijfde en de zevende verlaging van douanerechten overeenkomstig artikel 10.  
 
-4. Het gemeenschappelijk douanetarief wordt volledig toegepast bij de tiende verlaging van douanerechten overeenkomstig artikel 10.    
+4. Het gemeenschappelijk douanetarief wordt volledig toegepast bij de tiende verlaging van douanerechten overeenkomstig artikel 10.   
 
 ### Artikel  18  
 
@@ -134,7 +134,7 @@ In afwijking van artikel 17 gaat Turkije voor de in bijlage No. 3 opgenomen prod
 
 3. Dit verschil wordt bij de zevende en de negende verlaging overeenkomstig artikel 11 wederom verminderd, achtereenvolgens met 30 en 20%.  
 
-4. Het gemeenschappelijk douanetarief wordt aan het einde van het tweeëntwintigste jaar volledig toegepast.    
+4. Het gemeenschappelijk douanetarief wordt aan het einde van het tweeëntwintigste jaar volledig toegepast.   
 
 ### Artikel  19  
 
@@ -142,7 +142,7 @@ In afwijking van artikel 17 gaat Turkije voor de in bijlage No. 3 opgenomen prod
 2.  Voor een aantal produkten die niet meer dan 5% vertegenwoordigen van de waarde van de totale invoer van Turkije in 1967, kan dit land, na overleg in de Associatieraad, na een periode van tweeëntwintig jaar, jegens derde landen douanerechten handhaven die hoger zijn dan die van het gemeenschappelijk douanetarief.   
 3.  De toepassing van de voorgaande leden mag echter het vrije verkeer van goederen binnen de Associatie niet benadelen en kan voor Turkije geen aanleiding zijn zich op artikel 5 te beroepen.   
 4.  In geval van versnelde aanpassing van het Turkse douanetarief aan het gemeenschappelijk douanetarief handhaaft Turkije ten gunste van de Gemeenschap een preferentie welke gelijkwaardig is aan die welke voortvloeit uit de regeling overeenkomstig dit hoofdstuk. Ten aanzien van de in bijlage No. 3 opgenomen produkten kan een dergelijke versnelde aanpassing niet plaatsvinden vóór het einde van de overgangsfase, behoudens voorafgaande toestemming van de Associatieraad.   
-5.  Wat de rechten betreft waarvoor de in artikel 16, lid 4 eerste alinea, bedoelde toestemming is verleend of die Turkije voorlopig kan handhaven overeenkomstig artikel 16, lid 4 tweede alinea, is dit land niet gehouden de artikelen 17 en 18 toe te passen. Na het verstrijken van de geldigheidsduur van de toestemming past het de rechten toe die uit de toepassing van deze artikelen voortvloeien.   
+5.  Wat de rechten betreft waarvoor de in artikel 16, lid 4 eerste alinea, bedoelde toestemming is verleend of die Turkije voorlopig kan handhaven overeenkomstig artikel 16, lid 4 tweede alinea, is dit land niet gehouden de artikelen 17 en 18 toe te passen. Na het verstrijken van de geldigheidsduur van de toestemming past het de rechten toe die uit de toepassing van deze artikelen voortvloeien.  
 
 ### Artikel  20  
 
@@ -153,7 +153,7 @@ a) de totale waarde van deze contingenten is jaarlijks niet groter dan 10% van d
 
 b) voor elk produkt is de waarde van de invoer in het kader van de tariefcontingenten niet groter dan een derde van de gemiddelde waarde van de Turkse invoer van dit produkt uit derde landen in de laatste drie jaren waarvoor statistieken beschikbaar zijn.     
 3.  Turkije doet de Associatieraad mededeling van de maatregelen welke het overeenkomstig lid 2 overweegt te nemen. Aan het einde van de overgangsfase kan de Associatieraad besluiten, of de bepalingen van dit lid dienen te worden afgeschaft of gewijzigd.   
-4.  In geen geval mag het recht van een tariefcontingent lager zijn dan het daadwerkelijk door Turkije toegepaste recht op de uit de Gemeenschap ingevoerde goederen.   
+4.  In geen geval mag het recht van een tariefcontingent lager zijn dan het daadwerkelijk door Turkije toegepaste recht op de uit de Gemeenschap ingevoerde goederen.  
 
 ### HOOFDSTUK  II  
 
@@ -161,7 +161,7 @@ b) voor elk produkt is de waarde van de invoer in het kader van de tariefconting
 
 ### Artikel  21  
 
-Kwantitatieve invoerbeperkingen, alsmede alle maatregelen van gelijke werking zijn, onverminderd de volgende bepalingen, tussen de Overeenkomstsluitende Partijen verboden.  
+Kwantitatieve invoerbeperkingen, alsmede alle maatregelen van gelijke werking zijn, onverminderd de volgende bepalingen, tussen de Overeenkomstsluitende Partijen verboden. 
 
 ### Artikel  22  
 
@@ -170,15 +170,15 @@ Kwantitatieve invoerbeperkingen, alsmede alle maatregelen van gelijke werking zi
 3.  Zes maanden voor elk van de laatste drie vervaldata onderzoekt de Associatieraad de gevolgen van de verhoging van het liberalisatiepeil voor de economische ontwikkeling van Turkije en besluit, zo het voor een versnelde economische ontwikkeling van Turkije nodig is, de vervaldatum naar een door hem vast te stellen tijdstip te verschuiven. Indien geen besluit wordt genomen, dan wordt de betrokken vervaldatum een jaar verschoven. De onderzoekprocedure wordt zes maanden voor het verstrijken van deze termijn opnieuw aangevangen. Indien de Associatieraad ook dan geen besluit neemt, wordt de datum ten tweeden male een jaar verschoven. Na het verstrijken van deze tweede termijn gaat Turkije over tot de verhoging van het liberalisatiepeil, tenzij de Associatieraad anders besluit.   
 4.  De lijst van produkten waarvoor de invoer in Turkije uit de Gemeenschap is geliberaliseerd, wordt ter kennis van de Gemeenschap gebracht op het tijdstip van ondertekening van dit Protocol. Deze lijst is ten opzichte van de Gemeenschap geconsolideerd. De lijsten van de produkten die op elk van de in lid 2 genoemde vervaldata worden geliberaliseerd, worden aan de Gemeenschap bekendgemaakt en ten opzichte van haar geconsolideerd.   
 5.  Turkije kan voor de geliberaliseerde doch niet krachtens dit artikel geconsolideerde produkten opnieuw kwantitatieve invoerbeperkingen instellen, mits het voor de Gemeenschap contingenten opent die ten minste gelijk zijn aan 75% van de gemiddelde invoer uit de Gemeenschap tijdens de laatste drie aan de wederinstelling van de beperkingen voorafgaande jaren. Op deze contingenten is artikel 25, lid 4, van toepassing.   
-6.  Turkije behandelt de Gemeenschap in geen geval minder gunstig dan derde landen.   
+6.  Turkije behandelt de Gemeenschap in geen geval minder gunstig dan derde landen.  
 
 ### Artikel  23  
 
-De Overeenkomstsluitende Partijen onthouden zich ervan in hun onderlinge handelsverkeer de bij de inwerkingtreding van dit Protocol bestaande kwantitatieve invoerbeperkingen en maatregelen van gelijke werking beperkender te maken, onverminderd artikel 22, lid 5.  
+De Overeenkomstsluitende Partijen onthouden zich ervan in hun onderlinge handelsverkeer de bij de inwerkingtreding van dit Protocol bestaande kwantitatieve invoerbeperkingen en maatregelen van gelijke werking beperkender te maken, onverminderd artikel 22, lid 5. 
 
 ### Artikel  24  
 
-Bij de inwerkingtreding van dit Protocol schaft de Gemeenschap alle kwantitatieve beperkingen op de invoer uit Turkije af. Deze liberalisatie wordt ten opzichte van Turkije geconsolideerd.  
+Bij de inwerkingtreding van dit Protocol schaft de Gemeenschap alle kwantitatieve beperkingen op de invoer uit Turkije af. Deze liberalisatie wordt ten opzichte van Turkije geconsolideerd. 
 
 ### Artikel  25  
 
@@ -195,32 +195,32 @@ c) in het kader van de wet inzake aanmoediging van de investeringen van buitenla
 5.  Met ingang van het dertiende jaar na de inwerkingtreding van dit Protocol wordt ieder contingent om de twee jaar met ten minste 20% ten opzichte van de voorafgaande periode verhoogd.   
 6.  Wanneer van een niet geliberaliseerd produkt in de loop van het eerste jaar na de inwerkingtreding van dit Protocol geen enkele invoer in Turkije heeft plaatsgehad, wordt door de Associatieraad vastgesteld op welke wijze een contingent wordt geopend en verruimd.   
 7.  Wanneer de Associatieraad vaststelt dat de invoer van een niet geliberaliseerd produkt gedurende twee opeenvolgende jaren aanmerkelijk minder heeft bedragen dan het opengestelde contingent, mag dit contingent niet in aanmerking worden genomen bij de berekening van de totale waarde van de contingenten. In dit geval heft Turkije ten aanzien van de Gemeenschap de contingentering van dit produkt op.   
-8.  Alle kwantitatieve invoerbeperkingen in Turkije dienen uiterlijk tweeëntwintig jaar na de inwerkingtreding van dit Protocol te zijn afgeschaft.   
+8.  Alle kwantitatieve invoerbeperkingen in Turkije dienen uiterlijk tweeëntwintig jaar na de inwerkingtreding van dit Protocol te zijn afgeschaft.  
 
 ### Artikel  26  
 
 1.  Uiterlijk aan het einde van een periode van tweeëntwintig jaar schaffen de Overeenkomstsluitende Partijen jegens elkander alle maatregelen van gelijke werking als kwantitatieve invoerbeperkingen af. De Associatieraad doet aanbevelingen voor de geleidelijke aanpassing die gedurende die periode moet plaatsvinden, en houdt daarbij rekening met de bepalingen die binnen de Gemeenschap tot stand zijn gekomen.   
-2.  In het bijzonder schaft Turkije, volgens het in de artikelen 10 en 11 genoemde ritme, de borgstellingen door importeurs ter zake van invoer van goederen uit de Gemeenschap geleidelijk af. Daarenboven worden de borgstellingen van meer dan 140% van de douanewaarde der uit de Gemeenschap ingevoerde goederen, voor wat delen, onderdelen en toebehoren voor motorvoertuigen van post 87.06 van het Turkse douanetarief betreft, en van meer dan 120% van deze zelfde waarde, voor wat de andere produkten betreft, bij de inwerkingtreding van dit Protocol op het hierboven aangegeven niveau gebracht.   
+2.  In het bijzonder schaft Turkije, volgens het in de artikelen 10 en 11 genoemde ritme, de borgstellingen door importeurs ter zake van invoer van goederen uit de Gemeenschap geleidelijk af. Daarenboven worden de borgstellingen van meer dan 140% van de douanewaarde der uit de Gemeenschap ingevoerde goederen, voor wat delen, onderdelen en toebehoren voor motorvoertuigen van post 87.06 van het Turkse douanetarief betreft, en van meer dan 120% van deze zelfde waarde, voor wat de andere produkten betreft, bij de inwerkingtreding van dit Protocol op het hierboven aangegeven niveau gebracht.  
 
 ### Artikel  27  
 
 1.  Kwantitatieve uitvoerbeperkingen en alle maatregelen van gelijke werking zijn tussen de Overeenkomstsluitende Partijen verboden. De Gemeenschap en Turkije heffen uiterlijk aan het einde van de overgangsfase de in hun onderlinge verkeer bestaande kwantitatieve uitvoerbeperkingen en alle maatregelen van gelijke werking op.   
-2.  In afwijking van het voorgaande lid kunnen de Gemeenschap en Turkije na overleg in de Associatieraad, voor basisprodukten uitvoerbeperkingen handhaven of invoeren, voor zover zulks noodzakelijk is om de ontwikkeling van bepaalde sectoren van hun economie te bevorderen of om het hoofd te bieden aan een eventuele schaarste aan deze produkten. In dat geval opent de betrokken Partij voor de andere Partij een contingent, waarbij rekening wordt gehouden, enerzijds met de gemiddelde uitvoer in de laatste drie jaren waarover statistieken beschikbaar zijn, en anderzijds met de normale ontwikkeling van het handelsverkeer als gevolg van de geleidelijke totstandbrenging van de douaneunie.   
+2.  In afwijking van het voorgaande lid kunnen de Gemeenschap en Turkije na overleg in de Associatieraad, voor basisprodukten uitvoerbeperkingen handhaven of invoeren, voor zover zulks noodzakelijk is om de ontwikkeling van bepaalde sectoren van hun economie te bevorderen of om het hoofd te bieden aan een eventuele schaarste aan deze produkten. In dat geval opent de betrokken Partij voor de andere Partij een contingent, waarbij rekening wordt gehouden, enerzijds met de gemiddelde uitvoer in de laatste drie jaren waarover statistieken beschikbaar zijn, en anderzijds met de normale ontwikkeling van het handelsverkeer als gevolg van de geleidelijke totstandbrenging van de douaneunie.  
 
 ### Artikel  28  
 
-Turkije verklaart zich bereid, de in het verkeer met de Gemeenschap bestaande kwantitatieve in- en uitvoerbeperkingen in een sneller ritme af te schaffen dan in de voorgaande artikelen is bepaald, indien zijn algemene economische toestand en de toestand in de betrokken sector zulks toelaten. De Associatieraad doet Turkije daartoe aanbevelingen.  
+Turkije verklaart zich bereid, de in het verkeer met de Gemeenschap bestaande kwantitatieve in- en uitvoerbeperkingen in een sneller ritme af te schaffen dan in de voorgaande artikelen is bepaald, indien zijn algemene economische toestand en de toestand in de betrokken sector zulks toelaten. De Associatieraad doet Turkije daartoe aanbevelingen. 
 
 ### Artikel  29  
 
-De artikelen 21 tot en met 27 vormen geen beletsel voor verboden of beperkingen van invoer, uitvoer of doorvoer die gerechtvaardigd zijn uit hoofde van bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen, dieren of planten, het nationaal artistiek, historisch en archeologisch bezit, of uit hoofde van bescherming van de industriële en commerciële eigendom. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie of een verkapte beperking van de handel tussen de Overeenkomstsluitende Partijen vormen.  
+De artikelen 21 tot en met 27 vormen geen beletsel voor verboden of beperkingen van invoer, uitvoer of doorvoer die gerechtvaardigd zijn uit hoofde van bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen, dieren of planten, het nationaal artistiek, historisch en archeologisch bezit, of uit hoofde van bescherming van de industriële en commerciële eigendom. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie of een verkapte beperking van de handel tussen de Overeenkomstsluitende Partijen vormen. 
 
 ### Artikel  30  
 
 1.  De Overeenkomstsluitende Partijen passen hun nationale monopolies van commerciële aard geleidelijk aan in dier voege dat aan het eind van een periode van tweeëntwintig jaar elke discriminatie tussen de onderdanen van de Lid-Staten der Gemeenschap en van Turkije, wat de voorwaarden van de voorziening en de afzet betreft, is uitgesloten. Dit artikel is van toepassing op elk lichaam waardoor een Lid-Staat of Turkije de invoer of de uitvoer tussen de Gemeenschap en Turkije in rechte of in feite direct of indirect beheerst, leidt of aanmerkelijk beïnvloedt. Het is eveneens van toepassing op de door een Staat gedelegeerde monopolies.   
 2.  De Overeenkomstsluitende Partijen onthouden zich van elke nieuwe maatregel die tegen de in lid 1 vermelde beginselen indruist of de draagwijdte van de artikelen inzake de afschaffing van de douanerechten en kwantitatieve beperkingen tussen hen beperkt.   
 3.  De wijze waarop en het ritme waarin de in dit artikel bedoelde Turkse monopolies moeten worden aangepast en de belemmeringen van het handelsverkeer tussen de Gemeenschap en Turkije moeten worden verminderd, worden door de Associatieraad uiterlijk zes jaar na de inwerkingtreding van dit Protocol vastgesteld. Totdat de Associatieraad het in de voorgaande alinea bedoelde besluit heeft genomen, behandelen de Overeenkomstsluitende Partijen de produkten waarvoor in de andere Partij een monopolie bestaat, ten minste even gunstig als dezelfde produkten uit het meestbegunstigde derde land.   
-4.  De verplichtingen van de Overeenkomstsluitende Partijen gelden slechts voor zover zij verenigbaar zijn met de bestaande internationale overeenkomsten.   
+4.  De verplichtingen van de Overeenkomstsluitende Partijen gelden slechts voor zover zij verenigbaar zijn met de bestaande internationale overeenkomsten.  
 
 ### HOOFDSTUK  III  
 
@@ -228,7 +228,7 @@ De artikelen 21 tot en met 27 vormen geen beletsel voor verboden of beperkingen 
 
 ### Artikel  31  
 
-De in hoofdstuk IV omschreven regeling voor landbouwprodukten is van toepassing op de produkten waarvoor bij invoer in de Gemeenschap een speciale regeling geldt ingevolge de tenuitvoerlegging van het gemeenschappelijk landbouwbeleid.  
+De in hoofdstuk IV omschreven regeling voor landbouwprodukten is van toepassing op de produkten waarvoor bij invoer in de Gemeenschap een speciale regeling geldt ingevolge de tenuitvoerlegging van het gemeenschappelijk landbouwbeleid. 
 
 ### HOOFDSTUK  IV  
 
@@ -236,7 +236,7 @@ De in hoofdstuk IV omschreven regeling voor landbouwprodukten is van toepassing 
 
 ### Artikel  32  
 
-Voor zover in de artikelen 33 tot en met 35 niet anders is bepaald, is dit Protocol van toepassing op landbouwprodukten.  
+Voor zover in de artikelen 33 tot en met 35 niet anders is bepaald, is dit Protocol van toepassing op landbouwprodukten. 
 
 ### Artikel  33  
 
@@ -244,20 +244,20 @@ Voor zover in de artikelen 33 tot en met 35 niet anders is bepaald, is dit Proto
 2.  Tijdens de in lid 1 bedoelde periode houdt de Gemeenschap bij de totstandbrenging of de verdere ontwikkeling van haar gemeenschappelijk landbouwbeleid rekening met de belangen van de Turkse landbouw. Turkije verstrekt de Gemeenschap alle daartoe nuttige gegevens.   
 3.  De Gemeenschap stelt Turkije op de hoogte van de voorstellen van de Commissie met betrekking tot de totstandbrenging of de ontwikkeling van het gemeenschappelijk landbouwbeleid, alsmede van de ten aanzien van deze voorstellen uitgebrachte adviezen en genomen beslissingen.   
 4.  De Associatieraad beslist welke mededelingen op landbouwgebied door Turkije aan de Gemeenschap moeten worden gedaan.   
-5.  In het kader van de Associatieraad kan overleg plaatsvinden over de in lid 3 bedoelde voorstellen van de Commissie en over de maatregelen die Turkije overeenkomstig lid 1 op landbouwgebied overweegt te nemen.   
+5.  In het kader van de Associatieraad kan overleg plaatsvinden over de in lid 3 bedoelde voorstellen van de Commissie en over de maatregelen die Turkije overeenkomstig lid 1 op landbouwgebied overweegt te nemen.  
 
 ### Artikel  34  
 
 1.  Aan het einde van de periode van tweeëntwintig jaar stelt de Associatieraad, na te hebben geconstateerd dat Turkije de in artikel 33, lid 1, bedoelde maatregelen van het gemeenschappelijk landbouwbeleid heeft getroffen, de bepalingen vast die noodzakelijk zijn voor de verwezenlijking van het vrije verkeer van landbouwprodukten tussen de Gemeenschap en Turkije.   
 2.  De in lid 1 bedoelde bepalingen kunnen elke noodzakelijke afwijking van de in dit Protocol gegeven voorschriften inhouden.   
-3.  De Associatieraad kan de in lid 1 genoemde datum wijzigen.   
+3.  De Associatieraad kan de in lid 1 genoemde datum wijzigen.  
 
 ### Artikel  35  
 
 1.  In afwachting van de vaststelling van de in artikel 34 bedoelde bepalingen en in afwijking van de artikelen 7 tot en met 11, 15 tot en met 18, 19, lid 1 en 5, 21 tot en met 27 en 30, kennen de Gemeenschap en Turkije elkaar wederzijds een preferentieregeling toe voor hun handelsverkeer in landbouwprodukten; de omvang en de bijzonderheden van deze regeling worden vastgesteld door de Associatieraad.   
 2.  De regeling welke vanaf het begin van de overgangsfase van toepassing is, is echter vastgesteld in bijlage No. 6.   
-3.  Een jaar na de inwerkingtreding van dit Protocol en vervolgens om de twee jaar gaat de Associatieraad, op verzoek van een der beide Partijen, de resultaten na van de preferentieregeling welke van toepassing is op landbouwprodukten. Hij kan besluiten, de verbeteringen aan te brengen welke nodig mochten blijken om de geleidelijke verwezenlijking van de doeleinden van de Associatieovereenkomst te verzekeren.   
-4.  Artikel 34, lid 2, is van toepassing.   
+3.  Een jaar na de inwerkingtreding van dit Protocol en vervolgens om de twee jaar gaat de Associatieraad, op verzoek van een der beide Partijen, de resultaten na van de preferentieregeling welke van toepassing is op landbouwprodukten. Hij kan besluiten, de verbeteringen aan te brengen welke nodig mochten blijken om de geleidelijke verwezenlijking van de doeleinden van de [Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) te verzekeren.   
+4.  Artikel 34, lid 2, is van toepassing.  
 
 ### TITEL  II  
 
@@ -269,15 +269,15 @@ Voor zover in de artikelen 33 tot en met 35 niet anders is bepaald, is dit Proto
 
 ### Artikel  36  
 
-Het vrije verkeer van werknemers tussen de Lid-Staten van de Gemeenschap en Turkije wordt geleidelijk tot stand gebracht overeenkomstig de in artikel 12 van de Associatieovereenkomst neergelegde beginselen, tussen het einde van het twaalfde en het tweeëntwintigste jaar na de inwerkingtreding van genoemde Overeenkomst. De hiertoe nodige regels worden door de Associatieraad bepaald.  
+Het vrije verkeer van werknemers tussen de Lid-Staten van de Gemeenschap en Turkije wordt geleidelijk tot stand gebracht overeenkomstig de in [artikel 12 van de Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) neergelegde beginselen, tussen het einde van het twaalfde en het tweeëntwintigste jaar na de inwerkingtreding van genoemde Overeenkomst. De hiertoe nodige regels worden door de Associatieraad bepaald. 
 
 ### Artikel  37  
 
-Elke Lid-Staat past op de werknemers van Turkse nationaliteit die tewerkgesteld zijn in de Gemeenschap een stelsel toe dat wordt gekenmerkt door het ontbreken van elke discriminatie uit hoofde van de nationaliteit ten opzichte van werknemers die onderdaan zijn van de andere Lid-Staten van de Gemeenschap, voor wat betreft de lonen en verdere arbeidsvoorwaarden.  
+Elke Lid-Staat past op de werknemers van Turkse nationaliteit die tewerkgesteld zijn in de Gemeenschap een stelsel toe dat wordt gekenmerkt door het ontbreken van elke discriminatie uit hoofde van de nationaliteit ten opzichte van werknemers die onderdaan zijn van de andere Lid-Staten van de Gemeenschap, voor wat betreft de lonen en verdere arbeidsvoorwaarden. 
 
 ### Artikel  38  
 
-In afwachting van de geleidelijke totstandbrenging van het vrije verkeer van werknemers tussen de Lid-Staten van de Gemeenschap en Turkije, kan de Associatieraad alle vraagstukken bestuderen die zich voordoen in verband met de geografische en de beroepsmobiliteit van de werknemers van Turkse nationaliteit, in het bijzonder in verband met de verlenging van arbeids- en verblijfsvergunningen, ten einde hun tewerkstelling in elke Lid-Staat te vergemakkelijken. Daartoe kan de Associatieraad tot de Lid-Staten aanbevelingen richten.  
+In afwachting van de geleidelijke totstandbrenging van het vrije verkeer van werknemers tussen de Lid-Staten van de Gemeenschap en Turkije, kan de Associatieraad alle vraagstukken bestuderen die zich voordoen in verband met de geografische en de beroepsmobiliteit van de werknemers van Turkse nationaliteit, in het bijzonder in verband met de verlenging van arbeids- en verblijfsvergunningen, ten einde hun tewerkstelling in elke Lid-Staat te vergemakkelijken. Daartoe kan de Associatieraad tot de Lid-Staten aanbevelingen richten. 
 
 ### Artikel  39  
 
@@ -285,11 +285,11 @@ In afwachting van de geleidelijke totstandbrenging van het vrije verkeer van wer
 2.  Door deze bepalingen dient het de werknemers van Turkse nationaliteit mogelijk te worden gemaakt om, volgens nader te bepalen regels, de periodes waarin zij verzekerd of werkzaam waren in de verschillende Lid-Staten, bijeen te tellen voor wat betreft ouderdoms-, overlijdens- en invaliditeitspensioenen, alsmede de gezondheidszorg voor de werknemer en zijn binnen de Gemeenschap woonachtig gezin. Deze bepalingen kunnen voor de Lid-Staten van de Gemeenschap geen verplichting vormen om de perioden in aanmerking te nemen waarin zij in Turkije verzekerd of werkzaam waren.   
 3.  Bovengenoemde bepalingen dienen het mogelijk te maken, de uitbetaling van de gezinstoelagen te waarborgen wanneer het gezin van de werknemer woonachtig is binnen de Gemeenschap.   
 4.  De ouderdoms-, overlijdens- en invaliditeitspensioenen die zijn verworven op grond van bepalingen uit hoofde van toepassing van lid 2 moeten naar Turkije kunnen worden uitgevoerd.   
-5.  De in dit artikel bedoelde bepalingen doen geen afbreuk aan de rechten en verplichtingen die voortvloeien uit bestaande bilaterale overeenkomsten tussen Turkije en de Lid-Staten van de Gemeenschap, voor zover daarbij voor de Turkse onderdanen een gunstiger regeling is vastgesteld.   
+5.  De in dit artikel bedoelde bepalingen doen geen afbreuk aan de rechten en verplichtingen die voortvloeien uit bestaande bilaterale overeenkomsten tussen Turkije en de Lid-Staten van de Gemeenschap, voor zover daarbij voor de Turkse onderdanen een gunstiger regeling is vastgesteld.  
 
 ### Artikel  40  
 
-De Associatieraad kan tot de Lid-Staten en tot Turkije aanbevelingen richten ter bevordering van de uitwisseling van jeugdige werknemers, waarbij hij uitgaat van de maatregelen tot tenuitvoerlegging door de Lid-Staten van artikel 50 van het Verdrag tot oprichting van de Gemeenschap.  
+De Associatieraad kan tot de Lid-Staten en tot Turkije aanbevelingen richten ter bevordering van de uitwisseling van jeugdige werknemers, waarbij hij uitgaat van de maatregelen tot tenuitvoerlegging door de Lid-Staten van [artikel 50 van het Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md). 
 
 ### HOOFDSTUK  II  
 
@@ -298,12 +298,12 @@ De Associatieraad kan tot de Lid-Staten en tot Turkije aanbevelingen richten ter
 ### Artikel  41  
 
 1.  De Overeenkomstsluitende Partijen voeren onderling geen nieuwe beperkingen in met betrekking tot de vrijheid van vestiging en het vrij verrichten van diensten.   
-2.  De Associatieraad bepaalt, overeenkomstig de beginselen van de artikelen 13 en 14 van de Associatieovereenkomst, het ritme waarin, en de wijze waarop de Partijen onderling geleidelijk de beperkingen met betrekking tot de vrijheid van vestiging en het vrij verrichten van diensten opheffen. De Associatieraad bepaalt dit ritme en deze wijze van tenuitvoerlegging voor de verschillende soorten werkzaamheden, met inachtneming van de reeds door de Gemeenschap op deze gebieden getroffen soortgelijke maatregelen, alsmede van de bijzondere economische en sociale positie van Turkije. Er zal voorrang worden verleend aan de werkzaamheden die in het bijzonder bijdragen tot de ontwikkeling van de produktie en het handelsverkeer.   
+2.  De Associatieraad bepaalt, overeenkomstig de beginselen van de [artikelen 13](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) en [14 van de Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md), het ritme waarin, en de wijze waarop de Partijen onderling geleidelijk de beperkingen met betrekking tot de vrijheid van vestiging en het vrij verrichten van diensten opheffen. De Associatieraad bepaalt dit ritme en deze wijze van tenuitvoerlegging voor de verschillende soorten werkzaamheden, met inachtneming van de reeds door de Gemeenschap op deze gebieden getroffen soortgelijke maatregelen, alsmede van de bijzondere economische en sociale positie van Turkije. Er zal voorrang worden verleend aan de werkzaamheden die in het bijzonder bijdragen tot de ontwikkeling van de produktie en het handelsverkeer.  
 
 ### Artikel  42  
 
-1.  De Associatieraad breidt, op de wijze die hij vaststelt met inachtneming van met name de geografische ligging van Turkije, het toepassingsgebied van de bepalingen van het Verdrag tot oprichting van de Gemeenschap die van toepassing zijn op het vervoer uit tot Turkije. Hij kan onder dezelfde voorwaarden het toepassingsgebied van de besluiten welke uit hoofde van deze bepalingen inzake het vervoer per spoor, over de weg en over de binnenwateren door de Gemeenschap zijn genomen tot Turkije uitbreiden.   
-2.  Indien de Gemeenschap, krachtens artikel 84, lid 2, van het Verdrag tot oprichting van de Gemeenschap, bepalingen vaststelt betreffende de zeevaart en de luchtvaart, beslist de Associatieraad of, in hoeverre en volgens welke procedure bepalingen voor de zeevaart en de luchtvaart van Turkije kunnen worden vastgesteld.   
+1.  De Associatieraad breidt, op de wijze die hij vaststelt met inachtneming van met name de geografische ligging van Turkije, het toepassingsgebied van de bepalingen van het [Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) die van toepassing zijn op het vervoer uit tot Turkije. Hij kan onder dezelfde voorwaarden het toepassingsgebied van de besluiten welke uit hoofde van deze bepalingen inzake het vervoer per spoor, over de weg en over de binnenwateren door de Gemeenschap zijn genomen tot Turkije uitbreiden.   
+2.  Indien de Gemeenschap, krachtens [artikel 84, lid 2, van het Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), bepalingen vaststelt betreffende de zeevaart en de luchtvaart, beslist de Associatieraad of, in hoeverre en volgens welke procedure bepalingen voor de zeevaart en de luchtvaart van Turkije kunnen worden vastgesteld.  
 
 ### TITEL  III  
 
@@ -315,38 +315,38 @@ De Associatieraad kan tot de Lid-Staten en tot Turkije aanbevelingen richten ter
 
 ### Artikel  43  
 
-1.  De Associatieraad stelt binnen zes jaar na de inwerkingtreding van dit Protocol de voorwaarden en wijze van toepassing vast van de in de artikelen 85, 86, 90 en 92 van het Verdrag tot oprichting van de Gemeenschap bedoelde beginselen.   
-2.  Tijdens de overgangsfase kan Turkije worden geacht te verkeren in de positie bedoeld in artikel 92, lid 3 sub a), van het Verdrag tot oprichting van de Gemeenschap. Uit dien hoofde worden de steunmaatregelen bestemd ter bevordering van zijn economische ontwikkeling beschouwd als verenigbaar met de goede werking van de Associatie, voor zover deze maatregelen de voorwaarden waaronder het handelsverkeer plaatsvindt, niet zodanig veranderen, dat het gemeenschappelijk belang van de Overeenkomstsluitende Partijen wordt geschaad. Aan het slot van de overgangsfase beslist de Associatieraad, met inachtneming van de economische toestand van Turkije op dat tijdstip, of het nodig is het bepaalde in de voorgaande alinea nog verder te doen gelden.   
+1.  De Associatieraad stelt binnen zes jaar na de inwerkingtreding van dit Protocol de voorwaarden en wijze van toepassing vast van de in de [artikelen 85](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), [86](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), [90](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) en [92 van het Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) bedoelde beginselen.   
+2.  Tijdens de overgangsfase kan Turkije worden geacht te verkeren in de positie bedoeld in [artikel 92, lid 3 sub a), van het Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md). Uit dien hoofde worden de steunmaatregelen bestemd ter bevordering van zijn economische ontwikkeling beschouwd als verenigbaar met de goede werking van de Associatie, voor zover deze maatregelen de voorwaarden waaronder het handelsverkeer plaatsvindt, niet zodanig veranderen, dat het gemeenschappelijk belang van de Overeenkomstsluitende Partijen wordt geschaad. Aan het slot van de overgangsfase beslist de Associatieraad, met inachtneming van de economische toestand van Turkije op dat tijdstip, of het nodig is het bepaalde in de voorgaande alinea nog verder te doen gelden.  
 
 ### Artikel  44  
 
 1.  Geen der Overeenkomstsluitende Partijen heft op produkten van de andere Partij direct of indirect hogere binnenlandse belastingen, van welke aard ook, dan die welke, direct of indirect, op gelijksoortige nationale produkten worden geheven. Geen der Overeenkomstsluitende Partijen heft op de produkten van de andere Partij zodanige binnenlandse belastingen dat daardoor andere produkties indirect worden beschermd. De Overeenkomstsluitende Partijen schaffen uiterlijk bij het begin van het derde jaar na de inwerkingtreding van dit Protocol, de bepalingen af die op de dag van de ondertekening van dit Protocol bestaan en strijdig zijn met bovengenoemde regels.   
 2.  In het handelsverkeer tussen de Gemeenschap en Turkije mag bij de uitvoer van produkten de teruggave van binnenlandse belastingen niet het bedrag overschrijden dat daarop direct of indirect is geheven.   
 3.  Indien de omzetbelasting wordt geheven volgens het cumulatieve cascadestelsel mogen gemiddelde percentages per produkt of groepen produkten worden vastgesteld voor de binnenlandse belastingen die op de in te voeren produkten worden geheven of voor de teruggave die bij de uitvoer van produkten wordt verleend, zonder evenwel inbreuk te maken op de in de voorgaande leden genoemde beginselen.   
-4.  Met inachtneming van de ervaring die de Gemeenschap op het in dit artikel bedoelde terrein heeft verworven, draagt de Associatieraad zorg voor de toepassing van voorgaande bepalingen.   
+4.  Met inachtneming van de ervaring die de Gemeenschap op het in dit artikel bedoelde terrein heeft verworven, draagt de Associatieraad zorg voor de toepassing van voorgaande bepalingen.  
 
 ### Artikel  45  
 
-Met betrekking tot andere belastingen dan de omzetbelasting, de accijnzen en de overige indirecte belastingen, mogen in het handelsverkeer tussen de Gemeenschap en Turkije vrijstellingen en teruggaven bij uitvoer slechts worden verleend en mogen compenserende belastingen bij invoer slechts worden geheven voor zover de beoogde maatregelen van tevoren voor een beperkte periode door de Associatieraad zijn goedgekeurd.  
+Met betrekking tot andere belastingen dan de omzetbelasting, de accijnzen en de overige indirecte belastingen, mogen in het handelsverkeer tussen de Gemeenschap en Turkije vrijstellingen en teruggaven bij uitvoer slechts worden verleend en mogen compenserende belastingen bij invoer slechts worden geheven voor zover de beoogde maatregelen van tevoren voor een beperkte periode door de Associatieraad zijn goedgekeurd. 
 
 ### Artikel  46  
 
-De Overeenkomstsluitende Partijen mogen de vrijwaringsmaatregelen nemen die zij nodig achten ten einde de moeilijkheden te overwinnen die het gevolg zijn van het uitblijven van besluiten van de Associatieraad waarbij de voorwaarden en de wijze van toepassing, bedoeld in artikel 43, lid 1, worden vastgesteld, of van het uitblijven van de toepassing van deze besluiten dan wel van de artikelen 44 en 45.  
+De Overeenkomstsluitende Partijen mogen de vrijwaringsmaatregelen nemen die zij nodig achten ten einde de moeilijkheden te overwinnen die het gevolg zijn van het uitblijven van besluiten van de Associatieraad waarbij de voorwaarden en de wijze van toepassing, bedoeld in artikel 43, lid 1, worden vastgesteld, of van het uitblijven van de toepassing van deze besluiten dan wel van de artikelen 44 en 45. 
 
 ### Artikel  47  
 
-1.  Indien tijdens een periode van tweeëntwintig jaar de Associatieraad op verzoek van een der Overeenkomstsluitende Partijen vaststelt dat in de betrekkingen tussen de Gemeenschappen en Turkije dumping wordt toegepast, doet hij aanbevelingen aan degene of degenen die zich aan deze handelingen schuldig maken, ten einde daaraan een eind te maken. <sup> 1)  [Red: Lees: Gemeenschap.]  </sup>   
+1.  Indien tijdens een periode van tweeëntwintig jaar de Associatieraad op verzoek van een der Overeenkomstsluitende Partijen vaststelt dat in de betrekkingen tussen de Gemeenschappen<sup> 1)  [Red: Lees: Gemeenschap.] </sup>en Turkije dumping wordt toegepast, doet hij aanbevelingen aan degene of degenen die zich aan deze handelingen schuldig maken, ten einde daaraan een eind te maken.   
 2.  De benadeelde Partij mag, na de Associatieraad daaromtrent te hebben ingelicht, passende beschermende maatregelen nemen indien: 
 
 a) de Associatieraad, binnen drie maanden na de indiening van het verzoek, geen beslissing heeft genomen overeenkomstig lid 1;  
 
 b) ondanks het uitgaan van de in lid 1 bedoelde aanbevelingen de dumping voortduurt.   Voorts kan, wanneer het belang van de benadeelde Partij een onmiddellijke actie vereist, deze Partij, na de Associatieraad daarvan op de hoogte te hebben gesteld, ter behoud harer belangen voorlopige beschermende maatregelen met inbegrip van anti-dumpingrechten invoeren. Deze maatregelen mogen niet langer dan drie maanden vanaf de indiening van het verzoek of vanaf de datum waarop de benadeelde Partij uit hoofde van het bepaalde sub b) van de voorgaande alinea beschermende maatregelen heeft genomen, worden toegepast.   
 3.  Wanneer in de gevallen, bedoeld in lid 2, eerste alinea sub a), of in lid 2, tweede alinea, beschermende maatregelen zijn genomen, kan de Associatieraad op ieder tijdstip beslissen dat deze beschermende maatregelen moeten worden geschorst, in afwachting van het uitgaan van de in lid 1 bedoelde aanbevelingen. Wanneer in het geval, bedoeld in lid 2, eerste alinea sub b), beschermende maatregelen zijn genomen, kan de Associatieraad aanbevelen deze beschermende maatregelen op te heffen of te wijzigen.   
-4.  Produkten die van oorsprong zijn uit een Overeenkomstsluitende Partij of zich daar in het vrije verkeer bevonden hebben en naar een andere Overeenkomstsluitende Partij zijn uitgevoerd, worden tot wederinvoer op het grondgebied van de eerste Partij toegelaten zonder dat daarop enigerlei invoerrecht, kwantitatieve beperking of maatregel van gelijke werking kan worden toegepast. De Associatieraad kan alle aanbevelingen doen die hij dienstig oordeelt voor de toepassing van de bepalingen van dit lid en laat zich daarbij leiden door de ervaring die de Gemeenschap op dit terrein heeft verworven.   
+4.  Produkten die van oorsprong zijn uit een Overeenkomstsluitende Partij of zich daar in het vrije verkeer bevonden hebben en naar een andere Overeenkomstsluitende Partij zijn uitgevoerd, worden tot wederinvoer op het grondgebied van de eerste Partij toegelaten zonder dat daarop enigerlei invoerrecht, kwantitatieve beperking of maatregel van gelijke werking kan worden toegepast. De Associatieraad kan alle aanbevelingen doen die hij dienstig oordeelt voor de toepassing van de bepalingen van dit lid en laat zich daarbij leiden door de ervaring die de Gemeenschap op dit terrein heeft verworven.  
 
 ### Artikel  48  
 
-Op gebieden die niet onder dit Protocol vallen en die rechtstreeks van invloed zijn op de werking van de Associatie, of op gebieden die wel onder dit Protocol vallen doch ten aanzien waarvan het geen specifieke procedure voorschrijft, kan de Associatieraad aan elk der Overeenkomstsluitende Partijen aanbevelen, maatregelen te nemen die ten doel hebben de wettelijke en bestuursrechtelijke bepalingen nader tot elkaar te brengen.  
+Op gebieden die niet onder dit Protocol vallen en die rechtstreeks van invloed zijn op de werking van de Associatie, of op gebieden die wel onder dit Protocol vallen doch ten aanzien waarvan het geen specifieke procedure voorschrijft, kan de Associatieraad aan elk der Overeenkomstsluitende Partijen aanbevelen, maatregelen te nemen die ten doel hebben de wettelijke en bestuursrechtelijke bepalingen nader tot elkaar te brengen. 
 
 ### HOOFDSTUK  II  
 
@@ -354,22 +354,22 @@ Op gebieden die niet onder dit Protocol vallen en die rechtstreeks van invloed z
 
 ### Artikel  49  
 
-Ten einde de verwezenlijking van de in artikel 17 van de Associatieovereenkomst genoemde doelstellingen te vergemakkelijken, plegen de Overeenkomstsluitende Partijen geregeld met elkaar overleg in de Associatieraad om hun beleid op economisch gebied te coördineren. De Associatieraad beveelt, zo nodig, de naar omstandigheden passende maatregelen aan.  
+Ten einde de verwezenlijking van de in [artikel 17 van de Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) genoemde doelstellingen te vergemakkelijken, plegen de Overeenkomstsluitende Partijen geregeld met elkaar overleg in de Associatieraad om hun beleid op economisch gebied te coördineren. De Associatieraad beveelt, zo nodig, de naar omstandigheden passende maatregelen aan. 
 
 ### Artikel  50  
 
-1.  De Overeenkomstsluitende Partijen verklaren zich bereid, hun betalingen in een ruimere mate vrij te maken dan in artikel 19 van de Associatieovereenkomst is bepaald, voor zover hun economische toestand in het algemeen en de toestand van hun betalingsbalans in het bijzonder zulks toelaten.   
+1.  De Overeenkomstsluitende Partijen verklaren zich bereid, hun betalingen in een ruimere mate vrij te maken dan in [artikel 19 van de Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) is bepaald, voor zover hun economische toestand in het algemeen en de toestand van hun betalingsbalans in het bijzonder zulks toelaten.   
 2.  Voor zover de beperkingen in het goederen-, diensten- en kapitaalverkeer slechts gelegen zijn in de daarmede verband houdende betalingen, worden, ter geleidelijke opheffing van die beperkingen, de bepalingen inzake de afschaffing van de kwantitatieve beperkingen, het verrichten van diensten en het kapitaalverkeer op overeenkomstige wijze toegepast.   
 3.  De Overeenkomstsluitende Partijen verbinden zich ertoe om, behoudens voorafgaande instemming van de Associatieraad, de regeling die zij toepassen op de overmakingen ter zake van de in bijlage III van het Verdrag tot oprichting van de Gemeenschap vermelde onzichtbare transacties niet beperkender te maken.   
-4.  Indien nodig, plegen de Overeenkomstsluitende Partijen met elkaar overleg omtrent de maatregelen die moeten worden getroffen om de in artikel 19 van de Associatieovereenkomst en de in dit artikel bedoelde betalingen en overmakingen mogelijk te maken.   
+4.  Indien nodig, plegen de Overeenkomstsluitende Partijen met elkaar overleg omtrent de maatregelen die moeten worden getroffen om de in [artikel 19 van de Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) en de in dit artikel bedoelde betalingen en overmakingen mogelijk te maken.  
 
 ### Artikel  51  
 
-Ten einde de in artikel 20 van de Associatieovereenkomst genoemde doelstellingen te verwezenlijken, tracht Turkije vanaf de inwerkingtreding van dit Protocol de regeling te verbeteren die wordt toegepast op particulier kapitaal uit de Gemeenschap dat tot de economische ontwikkeling van Turkije kan bijdragen.  
+Ten einde de in [artikel 20 van de Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) genoemde doelstellingen te verwezenlijken, tracht Turkije vanaf de inwerkingtreding van dit Protocol de regeling te verbeteren die wordt toegepast op particulier kapitaal uit de Gemeenschap dat tot de economische ontwikkeling van Turkije kan bijdragen. 
 
 ### Artikel  52  
 
-De Overeenkomstsluitende Partijen streven ernaar geen nieuwe deviezenbeperkingen in te voeren die invloed hebben op het onderlinge kapitaalverkeer en de daarmede verband houdende lopende betalingen, noch de bestaande regeling beperkender te maken. De Overeenkomstsluitende Partijen vereenvoudigen zoveel mogelijk de formaliteiten inzake vergunningen en controle, te vervullen bij het sluiten of het uitvoeren van kapitaaltransacties en het overmaken van kapitaal; zo nodig plegen zij met elkaar overleg ten einde deze vereenvoudiging te bereiken.  
+De Overeenkomstsluitende Partijen streven ernaar geen nieuwe deviezenbeperkingen in te voeren die invloed hebben op het onderlinge kapitaalverkeer en de daarmede verband houdende lopende betalingen, noch de bestaande regeling beperkender te maken. De Overeenkomstsluitende Partijen vereenvoudigen zoveel mogelijk de formaliteiten inzake vergunningen en controle, te vervullen bij het sluiten of het uitvoeren van kapitaaltransacties en het overmaken van kapitaal; zo nodig plegen zij met elkaar overleg ten einde deze vereenvoudiging te bereiken. 
 
 ### HOOFDSTUK  III  
 
@@ -377,21 +377,21 @@ De Overeenkomstsluitende Partijen streven ernaar geen nieuwe deviezenbeperkingen
 
 ### Artikel  53  
 
-1.  De Overeenkomstsluitende Partijen plegen in de Associatieraad overleg, ten einde gedurende de overgangsfase de coördinatie van hun handelspolitiek ten aanzien van derde landen te verzekeren, met name op de in artikel 113, lid 1, van het Verdrag tot oprichting van de Gemeenschap bedoelde gebieden. Uit dien hoofde verstrekt elke Overeenkomstsluitende Partij, op verzoek van de andere Partij, alle dienstige inlichtingen over de door haar gesloten overeenkomsten die tarief- of handelsbepalingen bevatten, alsmede over de wijzigingen die zij in de regeling van haar buitenlandse handel aanbrengt. Indien deze wijzigingen of deze overeenkomsten een rechtstreekse en bijzondere invloed zouden hebben op de werking van de Associatie, vindt in de Associatieraad passend overleg plaats, ten einde rekening te houden met de belangen van de Overeenkomstsluitende Partijen.   
-2.  Bij het verstrijken van de overgangsfase versterken de Overeenkomstsluitende Partijen in de Associatieraad de coördinatie van hun handelspolitiek, ten einde te komen tot een op uniforme beginselen berustende handelspolitiek.   
+1.  De Overeenkomstsluitende Partijen plegen in de Associatieraad overleg, ten einde gedurende de overgangsfase de coördinatie van hun handelspolitiek ten aanzien van derde landen te verzekeren, met name op de in [artikel 113, lid 1, van het Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) bedoelde gebieden. Uit dien hoofde verstrekt elke Overeenkomstsluitende Partij, op verzoek van de andere Partij, alle dienstige inlichtingen over de door haar gesloten overeenkomsten die tarief- of handelsbepalingen bevatten, alsmede over de wijzigingen die zij in de regeling van haar buitenlandse handel aanbrengt. Indien deze wijzigingen of deze overeenkomsten een rechtstreekse en bijzondere invloed zouden hebben op de werking van de Associatie, vindt in de Associatieraad passend overleg plaats, ten einde rekening te houden met de belangen van de Overeenkomstsluitende Partijen.   
+2.  Bij het verstrijken van de overgangsfase versterken de Overeenkomstsluitende Partijen in de Associatieraad de coördinatie van hun handelspolitiek, ten einde te komen tot een op uniforme beginselen berustende handelspolitiek.  
 
 ### Artikel  54  
 
 1.  Wanneer de Gemeenschap een associatieovereenkomst of een preferentiële overeenkomst sluit die een rechtstreekse en bijzondere invloed heeft op de werking van de Associatie, vindt in de Associatieraad passend overleg plaats, ten einde de Gemeenschap in de gelegenheid te stellen de in de Associatieovereenkomst tussen de Gemeenschap en Turkije omschreven wederzijdse belangen in aanmerking te nemen.   
-2.  Wanneer zulks noodzakelijk blijkt om belemmeringen van het goederenverkeer binnen de Associatie te vermijden, streeft Turkije ernaar alle maatregelen te treffen die kunnen bijdragen tot het oplossen van de praktische problemen die mogelijk het gevolg zijn van zijn handelsverkeer met de landen die door een associatieovereenkomst of een preferentiële overeenkomst met de Gemeenschap zijn verbonden. Indien deze maatregelen niet worden getroffen, kan de Associatieraad de bepalingen vaststellen die nodig zijn om de goede werking van de Associatie te verzekeren.   
+2.  Wanneer zulks noodzakelijk blijkt om belemmeringen van het goederenverkeer binnen de Associatie te vermijden, streeft Turkije ernaar alle maatregelen te treffen die kunnen bijdragen tot het oplossen van de praktische problemen die mogelijk het gevolg zijn van zijn handelsverkeer met de landen die door een associatieovereenkomst of een preferentiële overeenkomst met de Gemeenschap zijn verbonden. Indien deze maatregelen niet worden getroffen, kan de Associatieraad de bepalingen vaststellen die nodig zijn om de goede werking van de Associatie te verzekeren.  
 
 ### Artikel  55  
 
-In de Associatieraad heeft overleg plaats over de toepassing van de „Regionale Samenwerking voor de Ontwikkeling (R.C.D.)”. De Associatieraad kan eventueel besluiten de daartoe noodzakelijke bepalingen vast te stellen. Deze bepalingen mogen de goede werking van de Associatie niet belemmeren.  
+In de Associatieraad heeft overleg plaats over de toepassing van de „Regionale Samenwerking voor de Ontwikkeling (R.C.D.)”. De Associatieraad kan eventueel besluiten de daartoe noodzakelijke bepalingen vast te stellen. Deze bepalingen mogen de goede werking van de Associatie niet belemmeren. 
 
 ### Artikel  56  
 
-In geval van toetreding van een derde land tot de Gemeenschap, heeft in de Associatieraad passend overleg plaats, ten einde het mogelijk te maken dat de in de Associatieovereenkomst omschreven wederzijdse belangen van de Gemeenschap en Turkije in aanmerking worden genomen.  
+In geval van toetreding van een derde land tot de Gemeenschap, heeft in de Associatieraad passend overleg plaats, ten einde het mogelijk te maken dat de in de Associatieovereenkomst omschreven wederzijdse belangen van de Gemeenschap en Turkije in aanmerking worden genomen. 
 
 ### TITEL  IV  
 
@@ -399,7 +399,7 @@ In geval van toetreding van een derde land tot de Gemeenschap, heeft in de Assoc
 
 ### Artikel  57  
 
-De Overeenkomstsluitende Partijen passen geleidelijk de voorwaarden aan voor deelneming aan inschrijvingen opengesteld door overheidsorganen of -ondernemingen, alsmede door particuliere ondernemingen waaraan bijzondere of exclusieve rechten zijn toegekend, zodat aan het einde van een periode van tweeëntwintig jaar iedere discriminatie tussen de onderdanen van de Lid-Staten en die van Turkije, welke zijn gevestigd op het grondgebied van de Overeenkomstsluitende Partijen, is weggenomen. De Associatieraad stelt het ritme waarin en de wijze waarop deze aanpassing plaatsvindt vast, uitgaande van de in de Gemeenschap op dit gebied aanvaarde oplossingen.  
+De Overeenkomstsluitende Partijen passen geleidelijk de voorwaarden aan voor deelneming aan inschrijvingen opengesteld door overheidsorganen of -ondernemingen, alsmede door particuliere ondernemingen waaraan bijzondere of exclusieve rechten zijn toegekend, zodat aan het einde van een periode van tweeëntwintig jaar iedere discriminatie tussen de onderdanen van de Lid-Staten en die van Turkije, welke zijn gevestigd op het grondgebied van de Overeenkomstsluitende Partijen, is weggenomen. De Associatieraad stelt het ritme waarin en de wijze waarop deze aanpassing plaatsvindt vast, uitgaande van de in de Gemeenschap op dit gebied aanvaarde oplossingen. 
 
 ### Artikel  58  
 
@@ -407,36 +407,36 @@ Op de onder dit Protocol vallende gebieden:
 
 - mag de door Turkije ten aanzien van de Gemeenschap toegepaste regeling geen aanleiding geven tot enigerlei discriminatie tussen de Lid-Staten, hun onderdanen of hun vennootschappen;  
 
-- mag de door de Gemeenschap ten aanzien van Turkije toegepaste regeling geen aanleiding geven tot enigerlei discriminatie tussen de Turkse onderdanen of vennootschappen.    
+- mag de door de Gemeenschap ten aanzien van Turkije toegepaste regeling geen aanleiding geven tot enigerlei discriminatie tussen de Turkse onderdanen of vennootschappen.   
 
 ### Artikel  59  
 
-Op de onder dit Protocol vallende gebieden, mag de behandeling van Turkije niet gunstiger zijn dan die welke de Lid-Staten elkaar toekennen krachtens het Verdrag tot oprichting van de Gemeenschap.  
+Op de onder dit Protocol vallende gebieden, mag de behandeling van Turkije niet gunstiger zijn dan die welke de Lid-Staten elkaar toekennen krachtens het [Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md). 
 
 ### Artikel  60  
 
 1.  Indien ernstige verstoringen in een sector van de economische bedrijvigheid van Turkije optreden dan wel de externe financiële stabiliteit van dit land in gevaar brengen, of indien moeilijkheden rijzen die tot uiting komen door de achteruitgang van de economische situatie van een gebied van Turkije, kan dit land de noodzakelijke vrijwaringsmaatregelen treffen. Deze maatregelen, alsmede de wijze waarop zij worden toegepast, worden onverwijld ter kennis van de Associatieraad gebracht.   
 2.  Indien ernstige verstoringen in een sector van de economische bedrijvigheid van de Gemeenschap of van een of meer Lid-Staten optreden dan wel de externe financiële stabiliteit van een of meer Lid-Staten in gevaar brengen, of indien moeilijkheden rijzen die tot uiting komen door de achteruitgang van de economische situatie van een gebied van de Gemeenschap, kan deze laatste de noodzakelijke vrijwaringsmaatregelen treffen of de betrokken Lid-Staat dan wel Lid-Staten daartoe machtigen. Deze maatregelen, alsmede de wijze waarop zij worden toegepast, worden onverwijld in kennis van de Associatieraad gebracht.   
 3.  Voor de toepassing van de leden 1 en 2 moeten met voorrang die maatregelen worden gekozen die zo weinig mogelijk verstoringen in de werking van de Associatie teweegbrengen. Deze maatregelen mogen niet verder reiken dan strikt noodzakelijk is om de opgetreden moeilijkheden te overwinnen.   
-4.  Ten aanzien van de krachtens de leden 1 en 2 getroffen maatregelen kan in de Associatieraad overleg worden gepleegd.   
+4.  Ten aanzien van de krachtens de leden 1 en 2 getroffen maatregelen kan in de Associatieraad overleg worden gepleegd.  
 
 ### Artikel  61  
 
-De overgangsfase duurt twaalf jaar, onverminderd de bijzondere bepalingen van dit Protocol.  
+De overgangsfase duurt twaalf jaar, onverminderd de bijzondere bepalingen van dit Protocol. 
 
 ### Artikel  62  
 
-Het Protocol en de daaraan gehechte bijlagen maken een integrerend deel uit van de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije.  
+Het Protocol en de daaraan gehechte bijlagen maken een integrerend deel uit van de [Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md). 
 
 ### Artikel  63  
 
-1.  Dit Protocol dient door de ondertekenende Staten te worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke voorschriften en, wat de Gemeenschap betreft, rechtsgeldig te worden gesloten bij een besluit van de Raad, dat overeenkomstig de bepalingen van het Verdrag tot oprichting van de Gemeenschap is genomen en dat ter kennis wordt gebracht van de Partijen bij de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije. De bovenbedoelde akten van bekrachtiging en akte van kennisgeving van sluiting worden te Brussel uitgewisseld.   
+1.  Dit Protocol dient door de ondertekenende Staten te worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke voorschriften en, wat de Gemeenschap betreft, rechtsgeldig te worden gesloten bij een besluit van de Raad, dat overeenkomstig de bepalingen van het [Verdrag tot oprichting van de Gemeenschap](../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) is genomen en dat ter kennis wordt gebracht van de Partijen bij de [Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md). De bovenbedoelde akten van bekrachtiging en akte van kennisgeving van sluiting worden te Brussel uitgewisseld.   
 2.  Dit Protocol treedt in werking op de eerste dag van de maand volgende op de datum van uitwisseling van de akten van bekrachtiging en van de akte van kennisgeving, genoemd in lid 1.   
-3.  Wanneer de datum van inwerkingtreding van dit Protocol niet samenvalt met het begin van het kalenderjaar, kan de Associatieraad de in dit Protocol genoemde termijnen, met name voor de totstandbrenging van het vrije verkeer van goederen, verlengen of verkorten zodat ze aan het eind van het kalenderjaar aflopen.   
+3.  Wanneer de datum van inwerkingtreding van dit Protocol niet samenvalt met het begin van het kalenderjaar, kan de Associatieraad de in dit Protocol genoemde termijnen, met name voor de totstandbrenging van het vrije verkeer van goederen, verlengen of verkorten zodat ze aan het eind van het kalenderjaar aflopen.  
 
 ### Artikel  64  
 
-Dit Protocol is opgestel in twee exemplaren in de Duitse, de Franse, de Italiaanse, de Nederlandse en de Turkse taal, zijnde alle teksten gelijkelijk authentiek.  
+Dit Protocol is opgestel in twee exemplaren in de Duitse, de Franse, de Italiaanse, de Nederlandse en de Turkse taal, zijnde alle teksten gelijkelijk authentiek. 
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Aanvullend Protocol hebben gesteld. GEDAAN te Brussel, de drieëntwintigste november negentienhonderdzeventig.  
 
@@ -444,7 +444,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit 
 
 ####betreffende de regeling voor de invoer in de Gemeenschap van aardolieprodukten uit Turkije
 
-### Enig  artikel  
+### Enig   artikel  
 
 1.  In afwijking van de artikelen 9 en 21 tot en met 30 van het Aanvullend Protocol, kunnen de hierna genoemde, in Turkije geraffineerde, produkten met vrijdom van douanerechten in de Gemeenschap worden ingevoerd, binnen de grenzen van een globaal jaarlijks communautair tariefcontingent van 340 000 ton:  
 
@@ -467,9 +467,9 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit 
 - bij de totstandbrenging van een gemeenschappelijk energiebeleid.   In dat geval verleent de Gemeenschap voor de invoer van de in lid 1 genoemde produkten voordelen welke gelijkwaardig zijn aan die waarin in lid 1 is voorzien.   
 3.  In de Associatieraad kan overleg plaatsvinden over de krachtens lid 2 genomen maatregelen.   
 4.  Indien de Gemeenschap binnen drie jaar geen maatregelen heeft vastgesteld krachtens lid 2, kan de Associatieraad het niveau van het in lid 1 genoemde contingent opnieuw bezien.   
-5.  Behoudens het bepaalde in de leden 1 en 2, doen de bepalingen van het Aanvullend Protocol geen afbreuk aan de regelingen welke van toepassing zijn bij de invoer van aardolieprodukten.   
+5.  Behoudens het bepaalde in de leden 1 en 2, doen de bepalingen van het Aanvullend Protocol geen afbreuk aan de regelingen welke van toepassing zijn bij de invoer van aardolieprodukten.  
 
-### Bijlage  No. 2  
+### Bijlage   No. 2  
 
 ####betreffende de regeling voor de invoer in de Gemeenschap van bepaalde textielprodukten uit Turkije
 
@@ -484,7 +484,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit 
 | 55.09  | Andere weefsels van katoen  |
 | 58.01  | Tapijten, geknoopt of met opgerolde polen, ook indien geconfectioneerd:    ex A. van wol of van fijn haar, met uitzondering van handgeknoopte      |
 
-2.  Voor de produkten van tariefpost 55.05 en 55.09, ingevoerd uit Turkije, past de Gemeenschap echter vanaf de inwerkingtreding van het Aanvullend Protocol een verlaging van 75 % toe op de rechten van het gemeenschappelijk douanetarief, en wel binnen jaarlijkse communautaire tariefcontingenten van achtereenvolgens 390 ton voor de tariefpost 55.05 en van 1.390 ton voor de tariefpost 55.09.   
+2.  Voor de produkten van tariefpost 55.05 en 55.09, ingevoerd uit Turkije, past de Gemeenschap echter vanaf de inwerkingtreding van het Aanvullend Protocol een verlaging van 75 % toe op de rechten van het gemeenschappelijk douanetarief, en wel binnen jaarlijkse communautaire tariefcontingenten van achtereenvolgens 390 ton voor de tariefpost 55.05 en van 1.390 ton voor de tariefpost 55.09.  
 
 ### Artikel  2  
 
@@ -501,13 +501,13 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 ####Lijst van produkten waarvoor het in artikel 11 bedoelde ritme van tariefverlaging geldt
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | No. van het Turkse douanetarief  | --- | Omschrijving  |
 | 15.05  | --- | Wolvet en daaruit verkregen vetstoffen, lanoline daaronder begrepen:  |
 | --- | - 90  | Ander  |
 | 15.09  | --- | Degras  |
-| 15.10  | --- | Industriële vetzuren, bij raffinage verkregen acid oils en industrie vetalcoholen:  |
-| --- | - 10  | Industriële vetzuren  |
+|15.10 | --- | Industriële vetzuren, bij raffinage verkregen acid oils en industrie vetalcoholen:  |
+| --- | - 10 | Industriële vetzuren  |
 | 15.11  | --- | Glycerine, glycerinewater en glycerinelogen daaronder begrepen:  |
 | --- | - 10  | Glycerine  |
 | 17.04  | --- | Suikerwerk zonder cacao:  |
@@ -525,7 +525,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 28.06  | --- | Zoutzuur (chloorwaterstof; chloorsulfonzuur:  |
 | --- | - 10  | Zoutzuur (chloorwaterstof)  |
 | 28.08  | --- | Zwavelzuur; oleum (rokend zwavelzuur):  |
-| - 30  | --- | Oleum (rokend zwavelzuur)  |
+| --- |-30 | Oleum (rokend zwavelzuur)  |
 | 28.15  | --- | Zwavelverbindingen van metalloïden, fosfortrisulfide daaronder begrepen:  |
 | --- | - 30  | Zwavelkoolstof  |
 | 28.17  | --- | Natriumhydroxyde (bijtende soda); kaliumhydroxyde (bijtende potas); natriumperoxyde en kaliumperoxyde:  |
@@ -537,7 +537,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 28.21  | --- | Chroomoxyden en chroomhydroxyden  |
 | 28.22  | --- | Mangaanoxyden:  |
 | --- | - 10  | Mangaandioxyde  |
-| 28.23  | --- | IJzeroxyden en ijzerhydroxyden (natuurlijke ijzerhoudende verfaarden, welke in totaal 70 gewichtspercenten of meer ijzerverbindingen, berekend als Fe <sub>2</sub> O <sub>3</sub>, bevatten, daaronder begrepen)  |
+| 28.23  | --- | IJzeroxyden en ijzerhydroxyden (natuurlijke ijzerhoudende verfaarden, welke in totaal 70 gewichtspercenten of meer ijzerverbindingen, berekend als Fe<sub>2</sub>O<sub>3</sub>, bevatten, daaronder begrepen)  |
 | 28.27  | --- | Loodoxyden; loodmenie (rode menie, kristalmenie, oranje menie, enz.)  |
 | 28.30  | --- | Chloriden en oxychloriden:  |
 | --- | - 30  | Ammonium (ammoniakzout)  |
@@ -555,7 +555,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | --- | - 10  - 20  | Natrium  Kalium  |
 | 28.47  | --- | Zouten van metaalzuren (chromaten, permanganaten, stannaten, enz.):  |
 | --- | - 32  - 33  - 34  - 35  - 36  | Natriumchromaat  Kaliumchromaat  Loodchromaat  Natriumbichromaat  Kaliumbichromaat  |
-| 28.54  | --- | Water stofperoxyde, vast waterstofperoxyde daaronder begrepen  |
+| 28.54  | --- | Waterstofperoxyde, vast waterstofperoxyde daaronder begrepen  |
 | 28.56  | --- | Carbiden (siliciumcarbide, boriumcarbide, metaalcarbiden, enz.)  |
 | 29.02  | --- | Halogeenderivaten van koolwaterstoffen:  |
 | --- | - 30  - 40  - 60  - 80  - 90  | Trichloorethyleen  Tetrachloorkoolstof  Perchloorethyleen  Chloorfluormethanen  Andere  |
@@ -600,7 +600,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 38.12  | --- | Preparaten voor het appreteren of voor het beitsen, van de soorten, welke worden gebruikt in de textielindustrie, in de papierindustrie, in de lederindustrie of in dergelijke industrieën  |
 | 39.01  | --- | Condensatieprodukten, polycondensatieprodukten en polyadditieprodukten, ook indien chemisch gewijzigd, gepolymeriseerd of lineair (fenoplasten, animoplasten, alkyden, allylpolyesters en andere niet verzadigde polyesters, siliconen, enz.)  (met uitzondering van andere van No. 39.01.19, van polyamiden en superpolyamiden van No. 39.01.23 en van andere van No. 39.01.29)  |
 | 39.02  | --- | Polymerisatieprodukten en copolymerisatieprodukten (polyethyleen, polytetrahaloëthyleen, polyisobutyleen, polystyreen, polyvinylchloride, polyvinylacetaat, polyvinylchloroacetaat en andere polyvinylderivaten, polyacrylderivaten en polymethacrylderivaten, cumaronindeenharsen, enz.):  - Vloeistoffen of pasta's, emulsies, dispersies en oplossingen daaronder begrepen:  |
-| --- | - 12  - 16  - 17  - 19  | Polyvinylacetaat  Polyacrylderivaten en polymethacrylderivaten  Cumaronindeenderivaten  Andere  - Blokken, stukken, klonters, niet samenhangende massa's, korrels, vlokken, poeder (vormpoeder daaronder begrepen), afval en resten van werken:  |
+| --- | - 12  - 16  - 17  - 19 | Polyvinylacetaat  Polyacrylderivaten en polymethacrylderivaten  Cumaronindeenderivaten  Andere  - Blokken, stukken, klonters, niet samenhangende massa's, korrels, vlokken, poeder (vormpoeder daaronder begrepen), afval en resten van werken: |
 | --- | - 22  - 26  | Polyvinylacetaat  Polyacrylderivaten en polymethacrylderivaten  |
 | --- | - 27  - 29  | Cumar onindeenderivaten  Andere  - Andere:  |
 | --- | - 32  - 39  | Polyvinylacetaat  Andere  |
@@ -639,10 +639,10 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 45.03  | --- | Werken van natuurkurk  |
 | 45.04  | --- | Geagglomereerde kurk (met of zonder bindmiddel) en werken daarvan  |
 | 47.01  | --- | Papierstof  |
-| 48.01  | --- | Machinaal papier en machinaal karton, cellulosewatten daaronder begrepen, op rollen of in bladen:  b) Papier dat 70% of meer houtslijp bevat, met een gewicht per m <sup>2</sup> van 50 gram of meer tot en met 55 gram:  |
+| 48.01  | --- | Machinaal papier en machinaal karton, cellulosewatten daaronder begrepen, op rollen of in bladen:  b) Papier dat 70% of meer houtslijp bevat, met een gewicht per m<sup>2</sup> van 50 gram of meer tot en met 55 gram:  |
 | --- | - 21  - 29  - 40  - 50  | Courantenpapier  Ander  Drukpapier en schrijfpapier  Kraftpapier  f) Ander:  |
-| --- | - 61  | Gewoon pakpapier (met een gewicht van 30 gram of minder per m <sup>2</sup>)  |
-| --- | - 62  | Gewoon pakpapier (met een gewicht van meer dan 30 gram per m <sup>2</sup>)  |
+| --- | - 61  | Gewoon pakpapier (met een gewicht van 30 gram of minder per m<sup>2</sup>)  |
+| --- | - 62  | Gewoon pakpapier (met een gewicht van meer dan 30 gram per m<sup>2</sup>)  |
 | --- | - 63  - 64  | Sigarettenpapier  Vloeipapier  |
 | --- | - 67  | Karton, op rollen, bestemd voor de vervaardiging van ponskaarten  |
 | --- | - 68  | Karton  |
@@ -692,7 +692,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 56.02  | --- | Kabel voor de vervaardiging van synthetische of van kunstmatige stapelvezels:  |
 | --- | - 20  | Van kunstmatige textielvezels  |
 | 56.03  | --- | Afval van synthetische of van kunstmatige vezels (continuvezels of stapelvezels), garenafval en rafelingen daaronder begrepen  |
-| 56.04  | --- | Synthetische en kunstmatige stapelvezels en afval van synthetische of van kunstmatige vezels (continuvezels óf stapelvezels), gekaard, gekamd of op andere wijze bewerkt met het oog op het spinnen  (met uitzondering van synthetische vezels en afval van synthetische vezels op basis van polyamiden van No. 56.04.11, op basis van polyesters van 56.04.12 en op basis van acryl van No. 56.04.14)  |
+| 56.04  | --- | Synthetische en kunstmatige stapelvezels en afval van synthetische of van kunstmatige vezels (continuvezels of stapelvezels), gekaard, gekamd of op andere wijze bewerkt met het oog op het spinnen  (met uitzondering van synthetische vezels en afval van synthetische vezels op basis van polyamiden van No. 56.04.11, op basis van polyesters van 56.04.12 en op basis van acryl van No. 56.04.14)  |
 | 56.05  | --- | Garens van synthetische of van kunstmatige stapelvezels (of van afval van synthetische of van kunstmatige vezels), niet gereed voor de verkoop in het klein  |
 | 56.06  | --- | Garens van synthetische of van kunstmatige stapelvezels (of van afval van synthetische of van kunstmatige vezels), gereed voor de verkoop in het klein  |
 | 56.07  | --- | Weefsels van synthetische of van kunstmatige stapelvezels  |
@@ -717,7 +717,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 60.01  | --- | Breiwerk en haakwerk niet elastisch en niet gegummeerd  |
 | 60.02  | --- | Handschoenen, wanten en dergelijke artikelen, van niet elastisch of van niet gegummeerd brei- of haakwerk  |
 | 60.03  | --- | Kousen, onderkousen, sokken, voetjes en dergelijke artikelen, van niet elastisch of van niet gegummeerd brei- of haakwerk  |
-| 60.04  | --- | Onder kleding van niet elastisch of van niet gegummeerd brei- of haakwerk  |
+| 60.04  | --- | Onderkleding van niet elastisch of van niet gegummeerd brei- of haakwerk  |
 | 60.05  | --- | Bovenkleding, kledingtoebehoren en andere artikelen, van niet elastisch of van niet gegummeerd brei- of haakwerk  |
 | 60.06  | --- | Breiwerk en haakwerk, elastisch of gegummeerd, aan het stuk, en artikelen daarvan (kniestukken en aderspatkousen daaronder begrepen)  |
 | 61.01  | --- | Herenbovenkleding en jongensbovenkleding  |
@@ -733,7 +733,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 61.11  | --- | Ander geconfectioneerd kledingtoebehoren: sousbras, schoudervullingen en dergelijke opvulstukken voor kleding; gordels en koppels, moffen, overmouwen, enz.  |
 | 62.05  | --- | Andere geconfectioneerde artikelen van weefsel, patronen voor kleding daaronder begrepen  |
 | 65.01  | --- | Hoedvormen (cloches) van vilt, waarvan bol noch rand zijn aangevormd, alsmede schijfvormige „plateaux” en cilindervormige „manchons” (ook indien overlangs opengesneden), van vilt, voor hoeden  |
-| 65.02  | --- | Hoedvormen (cloches), waarvan bol noch rand zijn aangevormd gevlochten uit één stuk of vervaardigd door het aaneenzetten van gevlochten, geweven of anderszins verkregen stroken, ongeacht stof waarvan die stroken zijn vervaardigd  |
+| 65.02  | --- | Hoedvormen (cloches), waarvan bol noch rand zijn aangevormd gevlochten uit één stuk of vervaardigd door het aaneenzetten van gevlochten, geweven of anderszins verkregen stroken, ongeacht de stof waarvan die stroken zijn vervaardigd  |
 | 65.03  | --- | Hoeden en andere hoofddeksels, van vilt, vervaardigd van hoedvorm (cloches) of van schijfvormige „plateaux” bedoeld bij post 65.01, al dan niet gegarneerd  |
 | 65.04  | --- | Hoeden en andere hoofddeksels, gevlochten uit één stuk of vervaardigd door het aaneenzetten van gevlochten, geweven of andere verkregen stroken, ongeacht de stof waarvan die stroken zijn vervaardigd, al dan niet gegarneerd  |
 | 65.05  | --- | Hoeden en andere hoofddeksels (haarnetjes daaronder begrepen), van brei- of haakwerk of vervaardigd van weefsel, van kant of van vilt (aan het stuk, maar niet in stroken), al dan niet gegarneerd  |
@@ -757,7 +757,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | --- | - 20  | Gebakken stenen, van met teer geagglomereerde dolomiet  |
 | 69.11  | --- | Vaatwerk, huishoudelijke artikelen en toiletartikelen, van porselein  |
 | 69.12  | --- | Vaatwerk, huishoudelijke artikelen en toiletartikelen, van andere keramische stoffen  |
-| 69.13  | --- | Beeldjes, fancy-artikelen, meubilerings- en versieringsvoorwerpen lijfsieraden  |
+| 69.13  | --- | Beeldjes, fancy-artikelen, meubilerings- en versieringsvoorwerpen, lijfsieraden  |
 | 69.14  | --- | Andere werken van keramische stoffen  |
 | 70.02  | --- | Glazuurglas in massa, in staven, in stengels of in buizen  |
 | 70.03  | --- | Glas in staven, in stengels, in kogels (knikkers) of in buizen, onbewerkt (met uitzondering van optisch glas)  |
@@ -769,10 +769,10 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 70.07  | --- | Gegoten of gewalst glas en vensterglas (ook indien geslepen of gepolijst), anders dan vierkant of rechthoekig gesneden, gebogen of anders bewerkt (met schuingeslepen randen, gegraveerd, enz.); dubbel- en meerwandig glas voor isoleringsdoeleinden; glas in lood  |
 | 70.08  | --- | Veiligheidsglas, bestaande uit geharde glasplaten (hardglas) of twee of meer opeengekitte glasplaten (triplexglas, pantserglas, enz.) ook indien in een bepaalde vorm  |
 | 70.13  | --- | Glaswerk voor tafel-, keuken-, toilet- of kantoorgebruik, voor binnenhuisversiering of voor dergelijk gebruik, met uitzondering van de artikelen bedoeld bij post 70.19  |
-| 70.14  | --- | Verlichtingsartikelen, signaal- en waarschuwingsartikelen, van glas optische elementen van gewoon glas, niet optisch bewerkt  |
+| 70.14  | --- | Verlichtingsartikelen, signaal- en waarschuwingsartikelen, van glas; optische elementen van gewoon glas, niet optisch bewerkt  |
 | 70.15  | --- | Horlogeglazen, brilleglazen (niet bestemd voor de verbetering van de gezichtsscherpte) en dergelijke glazen, gebombeerd, gebogen of op dergelijke wijze bewerkt; voor de vervaardiging daarvan bestemd holle glazen, bollen en segmenten daaronder begrepen  |
 | 70.16  | --- | Tegels, dakpannen en andere bouwmaterialen, van gegoten of van geperst glas, ook indien gewapend; zogenaamd multicellulair glas of schuimglas, in blokken, in panelen, in platen, in schalen of in derglijke vormen  |
-| 70.19  | --- | Glazen kralen, ballotini, onechte edelstenen, onechte parels en dergelijk klein glaswerk; blokjes, plaatjes en schilfers, van glas of indien op een drager), voor mozaïek of voor dergelijke decoratieve doeleinden; glazen ogen, die voor poppen of voor ander speelgoed daaronder begrepen, doch met uitzondering van die voor mensen; voorwerpen van klein glaswerk; met de blaaslamp vervaardigde glazen fancy-artikelen  |
+| 70.19  | --- | Glazen kralen, ballotini, onechte edelstenen, onechte parels en dergelijk klein glaswerk; blokjes, plaatjes en schilfers, van glas of (indien op een drager), voor mozaïek of voor dergelijke decoratieve doeleinden; glazen ogen, die voor poppen of voor ander speelgoed daaronder begrepen, doch met uitzondering van die voor mensen; voorwerpen van klein glaswerk; met de blaaslamp vervaardigde glazen fancy-artikelen  |
 | 70.20  | --- | Glaswol, glasvezels en werken daarvan:  |
 | --- | - 11  - 20  | Glaswol  Vilt van glasvezels  |
 | 71.01  | --- | Echte parels, onbewerkt of bewerkt, gevat noch gezet, ook indien aaneengeregen met het oog op het vervoer, doch niet in stellen  |
@@ -792,7 +792,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | --- | ex 49  | Andere (met uitzondering van produkten die onder het E.G.K.S-Verdrag vallen)  |
 | --- | --- | - Staven, verkregen door koud bewerken of door koud nabewerken  |
 | --- | - 51  | Staven met cirkelvormige doorsnede  |
-| --- | - 52  | Staven met hoekige doorsnede  |
+| --- | - 52  | Staven met hoekige doorsnede   |
 | --- | - 59  | Andere  |
 | 73.14  | --- | IJzerdraad en staaldraad, ook indien overtrokken, met uitzondering van geïsoleerd draad voor het geleiden van elektriciteit  |
 | 73.17  | --- | Buizen en pijpen, van gietijzer  |
@@ -962,7 +962,7 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 85.28  | --- | Elektrotechnische delen en onderdelen, van machines of van apparaten, niet genoemd of niet begrepen onder andere posten van Hoofdstuk 85  |
 | 86.10  | --- | Vast materieel voor spoor- en tramwegen; niet-elektrische mechanische signaal-, waarschuwings-, veiligheids-, controle- en bedieningstoestellen, voor het verkeer; delen en onderdelen daarvan  |
 | 87.01  | --- | Tractors (trekkers), ook indien met lier  |
-| 87.02  | --- | Automobielen, ongeacht de soort van de motor, voor personenvervoer (sportauto's en trolleybussen daaronder begrepen) of voor goederen vervoer  (met uitzondering van automobielen voor personenvervoer van No. 87.02.11)  |
+| 87.02  | --- | Automobielen, ongeacht de soort van de motor, voor personenvervoer (sportauto's en trolleybussen daaronder begrepen) of voor goederenvervoer  (met uitzondering van automobielen voor personenvervoer van No. 87.02.11)  |
 | 87.03  | --- | Automobielen voor bijzondere doeleinden, anders dan voor het eigenlijke vervoer, zoals takelwagens, brandweerauto's, ladderauto's, veegauto's, sneeuwruimauto's, sproeiauto's, kraanauto's, zoeklicht- en schijnwerperauto's, werkplaatsauto's, röntgenauto's en dergelijke automobielen:  |
 | --- | - 10  - 20  - 30  | Takelwagens  Sproeiwagens  Sneeuwruimauto's  |
 | 87.04  | --- | Chassis met motor, voor motorvoertuigen bedoeld bij de posten 87.01 tot en met 87.03  |
@@ -1016,16 +1016,16 @@ In afwijking van het bepaalde in de artikelen 21 tot en met 24 van het Aanvullen
 | 97.06  | --- | Artikelen en toestellen voor openluchtspelen, voor gymnastiek, voor atletiek en voor andere sporten, met uitzondering van de artikelen bedoeld bij post 97.04  |
 | 97.07  | --- | Vishaken en schepnetjes voor alle doeleinden; hengelbenodigdheden lokvogels, spiegels voor het lokken van vogels en dergelijke jachtbenodigdheden (met uitzondering van vishaken van No. 97.07.10)  |
 | 97.08  | --- | Draaimolens, schommels, schiettenten en andere kermisattracties, met inbegrip van reizende circussen, van reizende dierenspelen en reizende theaters  |
-| 98.01  | --- | Knopen, drukknopen, manchetknopen en dergelijke (knopen in voorwerpsvorm, knoopvormen en delen van knopen daaronder begrepen  |
+| 98.01  | --- | Knopen, drukknopen, manchetknopen en dergelijke (knopen in voorwerpsvorm, knoopvormen en delen van knopen daaronder begrepen)  |
 | 98.05  | --- | Potloden, griffels, potloodstiften, pastellen, tekenkool; schrijftekenkrijt, kleermakerskrijt en biljartkrijt  |
 
-### Bijlage  No. 4  
+### Bijlage   No. 4  
 
 ####betreffende het gebruik door Turkije van bijzondere middelen van bijstand
 
 De Overeenkomstsluitende Partijen, verlangend het gebruik van bijzondere middelen van bijstand door Turkije niet te belemmeren, Hebben overeenstemming bereikt over de volgende bepalingen: 
 
-1. Indien de bepalingen van de Associatieovereenkomst of van het Aanvullende Protocol een beletsel vormen voor het gebruik door Turkije van bijzondere middelen van bijstand die ter beschikking zijn gesteld van zijn economie, is Turkije bevoegd, na kennisgeving aan de Associatieraad: 
+1. Indien de bepalingen van de [Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) of van het Aanvullende Protocol een beletsel vormen voor het gebruik door Turkije van bijzondere middelen van bijstand die ter beschikking zijn gesteld van zijn economie, is Turkije bevoegd, na kennisgeving aan de Associatieraad: 
 
 a) met inachtneming van artikel 20, lid 4, van het Aanvullende Protocol, tariefcontingenten te openen voor de invoer van de goederen waarvan de aankoop uit de genoemde middelen wordt gefinancierd;  
 
@@ -1045,9 +1045,9 @@ c) aanbestedingen te beperken tot uitsluitend leveranciers van produkten van oor
 
 De Overeenkomstsluitende Partijen, in overweging nemende de thans ten gevolge van de deling van Duitsland heersende toestanden, hebben overeenstemming bereikt over de volgende bepalingen: 
 
-1. Aangezien het handelsverkeer tussen de Duitse gebieden waar de Grondwet van de Bondsrepubliek Duitsland geldt en de Duitse gebieden waar die Grondwet niet wordt toegepast, deel uitmaakt van de binnenlandse handel van Duitsland, vereist de toepassing van de Associatieovereenkomst of van het Aanvullend Protocol in Duitsland geen enkele wijziging van de thans voor die binnenlandse handel bestaande regeling.  
+1. Aangezien het handelsverkeer tussen de Duitse gebieden waar de Grondwet van de Bondsrepubliek Duitsland geldt en de Duitse gebieden waar die Grondwet niet wordt toegepast, deel uitmaakt van de binnenlandse handel van Duitsland, vereist de toepassing van de [Associatieovereenkomst](../../../../verdrag/overeenkomst/van/ankara/BWBV0004316/README.md) of van het Aanvullend Protocol in Duitsland geen enkele wijziging van de thans voor die binnenlandse handel bestaande regeling.  
 
-2. Iedere Overeenkomstsluitende Partij brengt de akkoorden inzake het handelsverkeer met de Duitse gebieden waar de Grondwet van de Bondsrepubliek niet wordt toegepast, alsmede hun uitvoeringsbepalingen, ter kennis van de andere Overeenkomstluitende Partij. Zij waakt ervoor dat deze uitvoering niet in tegenspraak is met de beginselen der Associatie en treft met name passende maatregelenen om te vermijden dat het economische bestel van de andere Overeenkomstsluitende Partij wordt geschaad.  
+2. Iedere Overeenkomstsluitende Partij brengt de akkoorden inzake het handelsverkeer met de Duitse gebieden waar de Grondwet van de Bondsrepubliek niet wordt toegepast, alsmede hun uitvoeringsbepalingen, ter kennis van de andere Overeenkomstluitende Partij. Zij waakt ervoor dat deze uitvoering niet in tegenspraak is met de beginselen der Associatie en treft met name passende maatregelen om te vermijden dat het economische bestel van de andere Overeenkomstsluitende Partij wordt geschaad.  
 
 3. Iedere Overeenkomstsluitende Partij kan passende maatregelen treffen ten einde te verhinderen dat voor haar moeilijkheden ontstaan uit de handel tussen de andere Overeenkomstsluitende Partij en de Duitse gebieden waar de Grondwet van de Bondsrepubliek Duitsland niet wordt toegepast.     
 
@@ -1057,9 +1057,9 @@ De Overeenkomstsluitende Partijen, in overweging nemende de thans ten gevolge va
 
 ### Artikel  1  
 
-De in artikel 35 van het Aanvullende Protocol bedoelde regeling is in de volgende artikelen omschreven. <sup> 1)  [Red: Lees: artikel 35, tweede lid.]  </sup>  
+De in artikel 35<sup> 1) [Red: Lees: artikel 35, tweede lid.] </sup> van het Aanvullende Protocol bedoelde regeling is in de volgende artikelen omschreven. 
 
-### HOOFDSTUK  I  
+### HOOFDSTUK   I  
 
 ####PREFERENTIËLE REGELING BIJ INVOER IN DE GEMEENSCHAP
 
@@ -1070,7 +1070,7 @@ De in de navolgende lijst opgenomen produkten van oorsprong uit Turkije kunnen i
 |
 |
 | No.van het gemeenschappelijk douanetarief  | Omschrijving  |
-| 07.01  | Groenten en moeskruiden, vers of gekoeld:    E. Snijbiet en kardoen     F. Peulgroenten, ook indien gedopt:    ex III. andere:    - Bonen:    - van 1 juli tot en met 30 april                 N. Olijven:    I. bestemd voor andere doeleinden dan het vervaardigen van olie (a)         O. Kappers     S. Pepers van de „Capsicum grossum” - soort     ex T. andere:    - Peterselie          |
+| 07.01  | Groenten en moeskruiden, vers of gekoeld:    E. Snijbiet en kardoen     F. Peulgroenten, ook indien gedopt:    ex III. andere:    - Bonen:    - van 1 juli tot en met 30 april                 N. Olijven:   I. bestemd voor andere doeleinden dan het vervaardigen van olie (a)       O. Kappers     S. Pepers van de „Capsicum grossum” - soort     ex T. andere:    - Peterselie          |
 | 07.03  | Groenten en moeskruiden, in water, waaraan, voor het voorlopig verduurzamen, zout, zwavel of andere stoffen zijn toegevoegd, doch niet speciaal bereid voor dadelijke consumptie:    A. Olijven:    I. bestemd voor andere doeleinden dan het vervaardigen van olie (a)         B. Kappers      |
 | 08.03  | Vijgen, vers of gedroogd:    A. Vers      |
 | 08.04  | Druiven, rozijnen en krenten:    A. Druiven:    I. voor tafelgebruik:    ex a) van 1 november tot en met 14 juli:    - van 1 december tot en met 31 december     - van 18 juni tot en met 14 juli         ex b) van 15 juli tot en met 31 oktober:    - van 15 juli tot en met 17 juli                  |
@@ -1078,11 +1078,11 @@ De in de navolgende lijst opgenomen produkten van oorsprong uit Turkije kunnen i
 | 08.06  | Appelen, peren en kweeperen, vers:    C. Kweeperen      |
 | 08.12  | Fruit (ander dan dat bedoeld bij de posten 08.01 tot en met 08.05), gedroogd:    A. Abrikozen     B. Perziken     D. Appelen en peren     E. Papaja's     F. gemengd fruit:    I. zonder pruimen         G. ander      |
 | 20.01  | Groenten, moeskruiden en vruchten, bereid of verduurzaamd in azijn of in azijnzuur, met of zonder zout, specerijen, mosterd of suiker:    ex B. andere:    - bereid of verduurzaamd in azijn of in azijnzuur, met of zonder zout, specerijen of mosterd, doch zonder suiker, met uitzondering van augurken          |
-| 20.02  | Groenten en moeskruiden, bereid of verduurzaamd zonder azijn of azijnzuur:    F. Rappersen olijven     ex H. andere, met uitzondering van wortelen en mengsels (1)      |
+| 20.02  | Groenten en moeskruiden, bereid of verduurzaamd zonder azijn of azijnzuur:    F. Kappers en olijven     ex H. andere, met uitzondering van wortelen en mengsels (1)      |
 | 20.05  | Jam, gelei, marmelade, vruchtenmoes en vruchtenpasta, door koken of stoven verkregen, met of zonder toegevoegde suiker:    C. andere:    ex III. overige:    - Vijgenmoes              |
 | 20.06  | Op andere wijze bereide of verduurzaamde vruchten, ook indien met toegevoegde suiker of alcohol:    A. Noten, amandelen, kastanjes en pingels, gebrand, gebrande grondnoten daaronder begrepen      |
 
-(a) Indeling onder deze onderverdeling is onderworpen aan de voorwaarden en bepalingen, vast te stellen door de bevoegde autoriteiten. (1) Deze post omvat onder meer gebrande kekers (leblebis).  
+(a) Indeling onder deze onderverdeling is onderworpen aan de voorwaarden en bepalingen, vast te stellen door de bevoegde autoriteiten. (1) Deze post omvat onder meer gebrande kekers (leblebis). 
 
 ### Artikel  3  
 
@@ -1107,13 +1107,13 @@ De volgende produkten van oorsprong uit Turkije kunnen met vrijdom van douanerec
 |
 |
 | No. van het gemeenschappelijk douanetarief  | Omschrijving  |
-| ex 08.02 B  | Mandarijnen en satsuma's, vers; clementines, tangennes en andere dergelijke kruisingen van citrusvruchten, vers  |
+| ex 08.02 B  | Mandarijnen en satsuma's, vers; clementines, tangerines en andere dergelijke kruisingen van citrusvruchten, vers  |
 | ex 08.02 C  | Citroenen, vers  |
 
 3.  Gedurende de periode van toepassing van de referentieprijzen gelden de leden 1 en 2, op voorwaarde dat de prijzen van uit Turkije ingevoerde citrusvruchten op de interne markt van de Gemeenschap na inklaring, rekening houdende met de aanpassingscoëfficiënten voor de verschillende categorieën citrusvruchten en na aftrek van de vervoerkosten en de andere invoerheffingen dan douanerechten, ten minste gelijk zijn aan de referentieprijzen voor de betrokken periode, verhoogd met de invloed van het gemeenschappelijk douanetarief op deze referentieprijzen en met een forfaitair bedrag van 1,20 rekeneenheid per 100 kilogram.   
 4.  De in lid 3 bedoelde vervoerkosten en andere invoerheffingen dan douanerechten, zijn die, welke zijn vastgesteld voor de berekening van de invoerprijzen, bedoeld in Verordening No. 23 houdende de geleidelijke totstandbrenging van een gemeenschappelijke ordening der markten in de sector groenten en fruit. Voor de aftrek van de in lid 3 bedoelde invoerheffingen, andere dan douanerechten, behoudt de Gemeenschap zich evenwel de mogelijkheid voor, het af te trekken bedrag te berekenen naargelang van de oorsprong, ten einde de nadelen te vermijden die eventueel voortvloeien uit de invloed van deze heffingen op de invoerprijzen.   
 5.  Artikel 11 van Verordening No. 23 blijft van toepassing.   
-6.  Indien de uit de leden 1 en 2 voortvloeiende voordelen onder abnormale concurrentievoorwaarden in gevaar worden gebracht of dreigen te worden gebracht, kan in de Associatieraad overleg worden gepleegd, ten einde de problemen in verband met de aldus geschapen situatie te onderzoeken.   
+6.  Indien de uit de leden 1 en 2 voortvloeiende voordelen onder abnormale concurrentievoorwaarden in gevaar worden gebracht of dreigen te worden gebracht, kan in de Associatieraad overleg worden gepleegd, ten einde de problemen in verband met de aldus geschapen situatie te onderzoeken.  
 
 ### Artikel  5  
 
@@ -1137,7 +1137,7 @@ De volgende produkten van oorsprong uit Turkije kunnen binnen de grenzen van een
 
 1.  De Gemeenschap neemt alle maatregelen die nodig zijn opdat de heffing bij invoer in de Gemeenschap van andere olijfolie dan die welke aan een raffinageproces onderworpen is geweest, van postonderverdeling 15.07 A II van het gemeenschappelijk douanetarief, volledig verkregen in Turkije en rechtstreeks van dat land naar de Gemeenschap vervoerd, de heffing is die wordt berekend overeenkomstig het bepaalde in artikel 13 van Verordening No. 136/66/EEG houdende de totstandbrenging van een gemeenschappelijke ordening der markten in de sector oliën en vetten, en die op de dag van invoer geldt, verminderd met 0,5 rekeneenheid per 100 kilogram.   
 2.  Op voorwaarde dat Turkije een bijzondere uitvoerheffing toepast en dat deze bijzondere heffing wordt doorberekend in de prijs bij invoer, vermindert de Gemeenschap bovendien het volgens lid 1 berekende heffingsbedrag met een bedrag dat gelijk is aan dat van de gestorte heffing, evenwel met een maximum van 4,5 rekeneenheden per 100 kilogram. Elke Overeenkomstsluitende Partij neemt de maatregelen welke nodig zijn om de toepassing van dit lid te verzekeren.   
-3.  Over de werking van het in dit artikel beoogde stelsel kan in de Associatieraad overleg worden gepleegd.   
+3.  Over de werking van het in dit artikel beoogde stelsel kan in de Associatieraad overleg worden gepleegd.  
 
 ### Artikel  8  
 
@@ -1187,15 +1187,15 @@ De in navolgende lijst opgenomen produkten van oorsprong uit Turkije, kunnen in 
 | 23.06  | Plantaardige produkten van de soorten, welke worden gebruikt als voedsel voor dieren, elders genoemd noch elders onder begrepen:    ex A. Eikels, wilde kastanjes en droesem van fruit (persresiduen), met uitzondering van draf van druiven     B. andere      |
 | 23.07  | Veevoeder, samengesteld met melasse of met suiker; andere bereidingen van de soorten welke worden gebezigd voor het voederen van dieren:    A. Visperswater van vis of van walvis, ook indien ingedampt tot poeder („fishsolubles”)     C. overige      |
 
-(a) Indeling onder deze onderverdeling is onderworpen aan de voorwaarden en bepalingen, vast te stellen door de bevoegde autoriteiten.  
+(a) Indeling onder deze onderverdeling is onderworpen aan de voorwaarden en bepalingen, vast te stellen door de bevoegde autoriteiten. 
 
 ### Artikel  10  
 
-Zodra het gemeenschappelijk visserijbeleid ten uitvoer wordt gelegd, neemt de Gemeenschap de maatregelen welke eventueel nodig zijn om Turkije uitvoermogelijkheden te laten behouden welke ten minste gelijkwaardig zijn aan die, waarin is voorzien krachtens artikel 6 van het Voorlopig Protocol. De Associatieraad gaat na, door welke maatregelen bedoelde mogelijkheden kunnen worden verbeterd.  
+Zodra het gemeenschappelijk visserijbeleid ten uitvoer wordt gelegd, neemt de Gemeenschap de maatregelen welke eventueel nodig zijn om Turkije uitvoermogelijkheden te laten behouden welke ten minste gelijkwaardig zijn aan die, waarin is voorzien krachtens artikel 6 van het Voorlopig Protocol. De Associatieraad gaat na, door welke maatregelen bedoelde mogelijkheden kunnen worden verbeterd. 
 
 ### Artikel  11  
 
-De Associatieraad stelt de preferentiële regeling voor wijn van oorsprong uit Turkije vast.  
+De Associatieraad stelt de preferentiële regeling voor wijn van oorsprong uit Turkije vast. 
 
 ### Artikel  12  
 
@@ -1210,7 +1210,7 @@ De Gemeenschap neemt alle maatregelen die nodig zijn opdat de heffing bij invoer
 ### Artikel  13  
 
 1.  Op voorwaarde dat Turkije voor rogge van post 10.02 van het gemeenschappelijk douanetarief, verkregen in Turkije en rechtstreeks uit dat land in de Gemeenschap ingevoerd, een speciale heffing toepast bij uitvoer en deze speciale heffing wordt doorberekend in de prijs bij invoer, vermindert de Gemeenschap, binnen de grenzen van 8 rekeneenheden per ton, het bedrag van de heffing bij invoer van bovengenoemd produkt, berekend overeenkomstig het bepaalde in artikel 13 van Verordening No. 120/67/EEG houdende een gemeenschappelijke ordening der markten in de sector granen, met een bedrag dat gelijk is aan de betaalde heffing. Elke Overeenkomstsluitende Partij neemt de maatregelen welke nodig zijn om de toepassing van dit lid te verzekeren.   
-2.  Over de werking van het in dit artikel beoogde stelsel kan in de Associatieraad overleg worden gepleegd.   
+2.  Over de werking van het in dit artikel beoogde stelsel kan in de Associatieraad overleg worden gepleegd.  
 
 ### Artikel  14  
 
@@ -1235,11 +1235,11 @@ Onverminderd de toepassing van een variabel element van de heffing, dat wordt be
 
 ### Artikel  15  
 
-De Gemeenschap behoudt zich voor om bij wijziging van de communautaire reglementering voor de in deze bijlage voorkomende produkten, ook de in deze bijlage vastgestelde regeling te wijzigen. Bij wijziging van deze regeling kent de Gemeenschap voor de invoer van oorsprong uit Turkije voordelen toe die vergelijkbaar zijn met die welke voortvloeien uit deze bijlage.  
+De Gemeenschap behoudt zich voor om bij wijziging van de communautaire reglementering voor de in deze bijlage voorkomende produkten, ook de in deze bijlage vastgestelde regeling te wijzigen. Bij wijziging van deze regeling kent de Gemeenschap voor de invoer van oorsprong uit Turkije voordelen toe die vergelijkbaar zijn met die welke voortvloeien uit deze bijlage. 
 
 ### Artikel  16  
 
-Met het oog op de toepassing van dit hoofdstuk stelt de Associatieraad de definitie van het begrip „produkten van oorsprong” vast.  
+Met het oog op de toepassing van dit hoofdstuk stelt de Associatieraad de definitie van het begrip „produkten van oorsprong” vast. 
 
 ### HOOFDSTUK  II  
 
@@ -1247,5 +1247,5 @@ Met het oog op de toepassing van dit hoofdstuk stelt de Associatieraad de defini
 
 ### Artikel  17  
 
-In het kader van zijn commerciële invoer kent Turkije aan de Gemeenschap een preferentiële regeling toe die een bevredigende stijging van de invoer van landbouwprodukten van oorsprong uit de Gemeenschap kan verzekeren.  
+In het kader van zijn commerciële invoer kent Turkije aan de Gemeenschap een preferentiële regeling toe die een bevredigende stijging van de invoer van landbouwprodukten van oorsprong uit de Gemeenschap kan verzekeren. 
 

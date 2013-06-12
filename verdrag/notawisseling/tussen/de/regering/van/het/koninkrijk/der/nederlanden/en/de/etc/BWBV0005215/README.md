@@ -14,7 +14,7 @@ Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unte
 
 ### I  
 
-Am Grenzübergang Besslinghook/Buurse werden die deutsche und die niederländische Grenzabfertigung auf deutschem und niederländischem Gebiet zusammengelegt.  
+Am Grenzübergang Besslinghook/Buurse werden die deutsche und die niederländische Grenzabfertigung auf deutschem und niederländischem Gebiet zusammengelegt. 
 
 ### II  
 
@@ -26,27 +26,27 @@ Die Zonen im Sinne des Artikels 3 des Abkommens umfassen:
 
 a) von 100 Metern, gemessen in Richtung Alstätte, and  
 
-b) von 50 Metern, gemessen in Richtung Buurse,   jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse.    
+b) von 50 Metern, gemessen in Richtung Buurse,   jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse.   
 
 ### III  
 
-Diese Vereinbarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in diplomatischen Noten festgelegt.  
+Diese Vereinbarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in diplomatischen Noten festgelegt. 
 
 ### IV  
 
-Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung ausser Kraft.  
-Die Regierung der Bundesrepublik Deutschland geht davon aus, dass die vorstehende Vereinbarung gemäss Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote sowie die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und dass die Vereinbarung am 1. Dezember 1978 in Kraft tritt. Das Auswärtige Amt benutzt auch diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 17. November 1978  *An die*   *Königlich Niederländische*   *Botschaft*    
+Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung ausser Kraft. 
+Die Regierung der Bundesrepublik Deutschland geht davon aus, dass die vorstehende Vereinbarung gemäss Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote sowie die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und dass die Vereinbarung am 1. Dezember 1978 in Kraft tritt. Das Auswärtige Amt benutzt auch diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 17. November 1978  *An die*  *Königlich Niederländische*  *Botschaft*   
 
-### Nr.  LXXVI  
+### Nr.   LXXVI  
 
 11946 
-### *Note verbale* 
+### *Note verbale*
 
 De Ambassade van het Koninkrijk der Nederlanden heeft de eer het Ministerie van Buitenlandse Zaken de ontvangst te bevestigen van zijn Note verbale no. 510-511.13/1 NLD van 17 november 1978, waarvan de tekst in het Nederlands luidt als volgt: „Het Ministerie van Buitenlandse Zaken heeft de eer de Ambassade van het Koninkrijk der Nederlanden, onder verwijzing naar artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens de samenvoeging van de grenscontrole en de instelling van gemeenschappelijke spoorwegstations of van grensaflosstations aan de Nederlands-Duitse grens, mede te delen dat de Regering van de Bondsrepubliek Duitsland kennis heeft genomen van het schrijven van de Bondsminister van Financiën van 19 mei 1978 - III B 8 - Z 1108 (Nie) 15/78 en van het schrijven van de Nederlandse Minister van Financiën van 18 juli 1978 - 278-12734, waarbij overeenkomstig artikel 1, vierde lid, letter a) van de Overeenkomst de volgende regeling wordt getroffen:  
 
 ### I  
 
-Bij de grensovergang Besslinghook/Buurse worden de Duitse en de Nederlandse grenscontrole op Duits en op Nederlands grondgebied samengevoegd.  
+Bij de grensovergang Besslinghook/Buurse worden de Duitse en de Nederlandse grenscontrole op Duits en op Nederlands grondgebied samengevoegd. 
 
 ### II  
 
@@ -58,13 +58,13 @@ De zones zoals bedoeld in artikel 3 van de Overeenkomst omvatten:
 
 a) 100 meter, gemeten in de richting Alstätte, en  
 
-b) 50 meter, gemeten in de richting Buurse, telkens vanaf het snijpunt van de gemeenschappelijke grens met de middellijn van de weg.      
+b) 50 meter, gemeten in de richting Buurse, telkens vanaf het snijpunt van de gemeenschappelijke grens met de middellijn van de weg.     
 
 ### III  
 
-Deze regeling wordt overeenkomstig artikel 1, vijfde lid, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt vastgelegd in diplomatieke nota's.  
+Deze regeling wordt overeenkomstig artikel 1, vijfde lid, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt vastgelegd in diplomatieke nota's. 
 
 ### IV  
 
-Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt 6 maanden na opzegging buiten werking.  
-De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat de bovenstaande regeling overeenkomstig artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Note verbale en de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden en dat de regeling op 1 december 1978 in werking treedt. Het Ministerie van Buitenlandse Zaken maakt tevens van deze gelegenheid gebruik, de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van haar bijzondere hoogachting.” De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen dat de Nederlandse Regering ermede instemt dat de Note verbale van het Ministerie van Buitenlandse Zaken en deze antwoordnota de ingevolge artikel 1, vijfde lid, van genoemde Overeenkomst voorziene bevestiging van de hierboven weergegeven briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Minister van Financiën vormen en dat deze regeling op 1 december 1978 in werking treedt. De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik, het Ministerie van Buitenlandse Zaken opnieuw te verzekeren van haar bijzondere hoogachting. Bonn, 17 november 1978  *Aan het Ministerie van*   *Buitenlandse Zaken*   *5300 BONN-1*    
+Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt 6 maanden na opzegging buiten werking. 
+De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat de bovenstaande regeling overeenkomstig artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Note verbale en de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden en dat de regeling op 1 december 1978 in werking treedt. Het Ministerie van Buitenlandse Zaken maakt tevens van deze gelegenheid gebruik, de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van haar bijzondere hoogachting.” De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen dat de Nederlandse Regering ermede instemt dat de Note verbale van het Ministerie van Buitenlandse Zaken en deze antwoordnota de ingevolge artikel 1, vijfde lid, van genoemde Overeenkomst voorziene bevestiging van de hierboven weergegeven briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Minister van Financiën vormen en dat deze regeling op 1 december 1978 in werking treedt. De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik, het Ministerie van Buitenlandse Zaken opnieuw te verzekeren van haar bijzondere hoogachting. Bonn, 17 november 1978  *Aan het Ministerie van*  *Buitenlandse Zaken*  *5300 BONN-1*   

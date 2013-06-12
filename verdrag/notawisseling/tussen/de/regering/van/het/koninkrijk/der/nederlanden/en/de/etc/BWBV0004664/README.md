@@ -2,10 +2,10 @@
 
 ##Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake samenvoeging van de grenscontrole op de weg van Mindertgangelt naar Schinbeek enz.
 
-*Bonn, 19 juli 1963*  Nr. XIX AUSWÄRTIGES AMT V3 (502)-SA. 47 
+*Bonn, 19 juli 1963* Nr. XIXAUSWÄRTIGES AMT V3 (502)-SA. 47 
 ### *Verbalnote* 
 
-Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Abs. 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 18. Juni 1963 — III B/3-Z 1108 (Nie)-84/63 — und das Schreiben des niederländischen Staatssekretärs der Finanzen vom 25. Juni 1963 — D3/5183 zur Kenntnis genommen hat, mit denen durch Vereinbarung gemäss Artikel 1 Abs. 4 Buchstabe *a*) des Abkommens folgende Regelung getroffen wird:  
+Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Abs. 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 18. Juni 1963 — III B/3-Z 1108 (Nie)-84/63 — und das Schreiben des niederländischen Staatssekretärs der Finanzen vom 25. Juni 1963 — D3/5183 zur Kenntnis genommen hat, mit denen durch Vereinbarung gemäss Artikel 1 Abs. 4 Buchstabe *a* ) des Abkommens folgende Regelung getroffen wird:  
 
 ### A  
 
@@ -41,7 +41,7 @@ Im Strassenverkehr werden die deutsche und die niederländische Grenzabfertigung
 
 15. an der Strasse von Elten nach Beek auf deutschem und niederländischem Gebiet,  
 
-16. an der Strasse von Bocholt nach Dinxperlo auf deutschem und niederländischem Gebiet.    
+16. an der Strasse von Bocholt nach Dinxperlo auf deutschem und niederländischem Gebiet.   
 
 ### B  
 
@@ -96,16 +96,16 @@ b) von 480 Metern, gemessen in Richtung Arnhem vom östlichen Schnittpunkt der g
 
 15. einen Abschnitt der Strasse von Elten nach Beek von der gemeinsamen Grenze bis zu einer Entfernung von jeweils 50 Metern, gemessen in beiden Richtungen, vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse,  
 
-16. einen Abschnitt der Strasse von Bocholt nach Dinxperlo von der gemeinsamen Grenze bis zu einer Entfernung von jeweils 275 Metern, gemessen in beiden Richtungen, vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse.    
+16. einen Abschnitt der Strasse von Bocholt nach Dinxperlo von der gemeinsamen Grenze bis zu einer Entfernung von jeweils 275 Metern, gemessen in beiden Richtungen, vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse.   
 
 ### C  
 
-Mit dem Inkrafttreten dieser Vereinbarung tritt die Vereinbarung vom 18. Januar/22. Februar 1962 über die Zusammenlegung der deutschen und niederländischen Grenzabfertigung an der Autobahn vom Emmerich nach Arnhem ausser Kraft. Mit dem Austausch dieser Verbalnote und der Antwortnote der Königlich Niederländischen Botschaft betrachtet die Regierung der Bundesrepublik Deutschland diese Vereinbarung gemäss Artikel 1 Abs. 5 des Abkommens als bestätigt.  
-Die Vereinbarung tritt absprachegemäss am 1. August 1963 in Kraft. Sie kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt sechs Monate nach ihrer Kündigung ausser Kraft. Das Auswärtige Amt benutzt diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 19. Juli 1963.  *An die*   *Königlich Niederländische Botschaft*   *Bonn*    
+Mit dem Inkrafttreten dieser Vereinbarung tritt die Vereinbarung vom 18. Januar/22. Februar 1962 über die Zusammenlegung der deutschen und niederländischen Grenzabfertigung an der Autobahn vom Emmerich nach Arnhem ausser Kraft. Mit dem Austausch dieser Verbalnote und der Antwortnote der Königlich Niederländischen Botschaft betrachtet die Regierung der Bundesrepublik Deutschland diese Vereinbarung gemäss Artikel 1 Abs. 5 des Abkommens als bestätigt. 
+Die Vereinbarung tritt absprachegemäss am 1. August 1963 in Kraft. Sie kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt sechs Monate nach ihrer Kündigung ausser Kraft. Das Auswärtige Amt benutzt diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. Bonn, den 19. Juli 1963.  *An die*   * Königlich Niederländische Botschaft*   *Bonn*    
 
 ### Nr.  XX  
 
-AMBASSADE VAN HET KONINKRIJK DER NEDERLANDEN Nr. 8220 
+AMBASSADE VAN HET KONINKRIJK  DER NEDERLANDEN Nr. 8220 
 ### *Note Verbale* 
 
 De Ambassade van het Koninkrijk der Nederlanden heeft de eer aan het Ministerie van Buitenlandse Zaken de ontvangst te bevestigen van zijn note verbale van heden, V3 (502)-SA. 47, waarvan de inhoud als volgt luidt: „Het Ministerie van Buitenlandse Zaken heeft de eer de Ambassade van het Koninkrijk der Nederlanden onder verwijzing naar artikel 1, lid 5, van de Overeenkomst van 30 mei 1958 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden nopens de samenvoeging van de grenscontrole en de instelling van gemeenschappelijke spoorwegstations of van grensaflosstations aan de Duits-Nederlandse grens, mede te delen, dat de Regering van de Bondsrepubliek Duitsland kennis heeft genomen van het schrijven van de Bondsminister van Financiën, d.d. 18 juni 1963, III B/3-Z 1108 (Nie)-84/63, en van het schrijven van de Nederlandse Staatssecretaris van Financien, d.d. 25 juni 1963, D 3/5183, waarbij door afspraak conform artikel 1, lid 4, sub *a,* der Overeenkomst de volgende regeling wordt getroffen:  
@@ -144,7 +144,7 @@ In het wegverkeer worden de Duitse en de Nederlandse grenscontrole als volgt sam
 
 15. op de weg van Elten naar Beek op Duits en Nederlands gebied,  
 
-16. op de weg van Bocholt naar Dinxperlo op Duits en Nederlands gebied.    
+16. op de weg van Bocholt naar Dinxperlo op Duits en Nederlands gebied.   
 
 ### B  
 
@@ -200,7 +200,7 @@ b. 480 meter, gemeten in de richting van Arnhem, vanaf het oostelijk snijpunt va
 
 15. een gedeelte van de weg van Elten naar Beek, van de gemeenschappelijke grens tot op een afstand van telkens 50 meter, gemeten in beide richtingen, vanaf het snijpunt van de gemeenschappelijke grens met de as van de weg,  
 
-16. een gedeelte van de weg van Bocholt naar Dinxperlo, van de gemeenschappelijke grens tot op een afstand van telkens 275 meter, gemeten in beide richtingen, vanaf het snijpunt van de gemeenschappelijke grens met de as van de weg.    
+16. een gedeelte van de weg van Bocholt naar Dinxperlo, van de gemeenschappelijke grens tot op een afstand van telkens 275 meter, gemeten in beide richtingen, vanaf het snijpunt van de gemeenschappelijke grens met de as van de weg.   
 
-Met het in werking treden dezer regeling, treedt de regeling van 18 januari/22 februari 1962 over de samenvoeging van de Duitse en Nederlandse grenscontrole op de autoweg van Emmerich naar Arnhem buiten werking. Met de uitwisseling van deze note verbale met de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden beschouwt de Regering van de Bondsrepubliek Duitsland deze regeling overeenkomstig artikel 1, lid 5 van de Overeenkomst als bevestigd.  
+Met het in werking treden dezer regeling, treedt de regeling van 18 januari/22 februari 1962 over de samenvoeging van de Duitse en Nederlandse grenscontrole op de autoweg van Emmerich naar Arnhem buiten werking. Met de uitwisseling van deze note verbale met de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden beschouwt de Regering van de Bondsrepubliek Duitsland deze regeling overeenkomstig artikel 1, lid 5 van de Overeenkomst als bevestigd. 
 De regeling treedt volgens afspraak in werking op 1 augustus 1963. Zij kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt zes maanden na haar opzegging buiten werking.” De Ambassade heeft de eer het Ministerie mede te delen, dat de Regering van het Koninkrijk der Nederlanden ermede instemt, dat de note verbale van het Ministerie en deze antwoordnota de in artikel 1, lid 5 van de Overeenkomst bedoelde bevestiging vormen van de in het voorgaande aangehaalde briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Staatssecretaris van Financiën, en dat de regeling op 1 augustus 1963 in werking treedt. De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik om het Ministerie van Buitenlandse Zaken nogmaals haar bijzondere hoogachting te betuigen. Bonn, 19 juli 1963.  *Aan het*   *Ministerie van Buitenlandse Zaken,*   *Bonn.*    

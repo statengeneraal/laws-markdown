@@ -14,7 +14,7 @@ Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unte
 
 ### I  
 
-Am Grenzübergang Bad Bentheim-Autobahn/Oldenzaal-Autoweg werden die deutsche und die niederländische Grenzabfertigung auf deutschem und auf niederländischem Gebiet zusammengelegt.  
+Am Grenzübergang Bad Bentheim-Autobahn/Oldenzaal-Autoweg werden die deutsche und die niederländische Grenzabfertigung auf deutschem und auf niederländischem Gebiet zusammengelegt. 
 
 ### II  
 
@@ -26,18 +26,18 @@ Die Zonen im Sinne des Artikels 3 des Abkommens umfassen
 
 a) von 327 Metern, gemessen in Richtung Bad Bentheim, und  
 
-b) von 350 Metern, gemessen in Richtung Oldenzaal, jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Autobahn.      
+b) von 350 Metern, gemessen in Richtung Oldenzaal, jeweils vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Autobahn.     
 
 ### III  
 
-Diese Vereinbarung wird gemäß Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in diplomatischen Noten festgelegt.  
+Diese Vereinbarung wird gemäß Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in diplomatischen Noten festgelegt. 
 
 ### IV  
 
-Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung außer Kraft. Die Regierung der Bundesrepublik Deutschland geht davon aus, daß vorstehende Vereinbarung gemäß Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote und die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und daß die Vereinbarung am 10. Juni 1985 in Kraft treten wird. Das Auswärtige Amt benutzt diesen Anlaß, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern.  
-Bonn, den 7. Juni 1985  *An die Königlich*   *Niederländische Botschaft*    
+Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt 6 Monate nach ihrer Kündigung außer Kraft. Die Regierung der Bundesrepublik Deutschland geht davon aus, daß vorstehende Vereinbarung gemäß Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote und die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und daß die Vereinbarung am 10. Juni 1985 in Kraft treten wird. Das Auswärtige Amt benutzt diesen Anlaß, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern. 
+Bonn, den 7. Juni 1985  *An die Königlich *   *Niederländische Botschaft*    
 
-### Nr.  XCIV  
+### Nr.   XCIV  
 
 ###Ambassade van het Koninkrijk
 
@@ -51,7 +51,7 @@ De Ambassade van het Koninkrijk der Nederlanden heeft de eer het Ministerie van 
 
 ### I  
 
-Bij de grensovergang Bad Bentheim-Autobahn/Oldenzaal-autoweg worden de Duitse en de Nederlandse grenscontrole op Duits en op Nederlands grensgebied samengevoegd.  
+Bij de grensovergang Bad Bentheim-Autobahn/Oldenzaal-autoweg worden de Duitse en de Nederlandse grenscontrole op Duits en op Nederlands grensgebied samengevoegd. 
 
 ### II  
 
@@ -63,13 +63,13 @@ De zones zoals bedoeld in artikel 3 van de Overeenkomst omvatten:
 
 a. 327 meter, gemeten in richting Bad Bentheim, en  
 
-b. 350 meter, gemeten in richting Oldenzaal, telkens vanaf het snijpunt van de gemeenschappelijke grens met de middellijn van de Autobahn.      
+b. 350 meter, gemeten in richting Oldenzaal, telkens vanaf het snijpunt van de gemeenschappelijke grens met de middellijn van de Autobahn.     
 
 ### III  
 
-Deze regeling wordt overeenkomstig artikel 1, vijfde lid, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt vastgelegd in diplomatieke nota's.  
+Deze regeling wordt overeenkomstig artikel 1, vijfde lid, van de Overeenkomst bevestigd en in werking gesteld. Het tijdstip van het in werking treden wordt vastgelegd in diplomatieke nota's. 
 
 ### IV  
 
-Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt 6 maanden na opzegging buiten werking. De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat de bovenstaande regeling overeenkomstig artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Note Verbale en de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden en dat de regeling op 10 juni 1985 in werking treedt. Het Ministerie van Buitenlandse Zaken maakt tevens van deze gelegenheid gebruik, de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van zijn bijzondere hoogachting.” De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen dat de Nederlandse Regering ermede instemt dat de Note Verbale van het Ministerie van Buitenlandse Zaken en deze antwoordnota de ingevolge artikel 1, vijfde lid, van genoemde Overeenkomst voorziene bevestiging van de hierboven weergegeven briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Minister van Financiën vormen en dat deze regeling op 10 juni 1985 in werking treedt. De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik, het Ministerie van buitenlandse Zaken opnieuw te verzekeren van haar bijzondere hoogachting.  
-Bonn, 7 juni 1985  *An das Auswartige Atnt*   *5300 Bonn*    
+Deze regeling kan te allen tijde langs diplomatieke weg worden opgezegd. Zij treedt 6 maanden na opzegging buiten werking. De Regering van de Bondsrepubliek Duitsland gaat ervan uit dat de bovenstaande regeling overeenkomstig artikel 1, vijfde lid, van de Overeenkomst van 30 mei 1958 wordt bevestigd door deze Note Verbale en de antwoordnota van de Ambassade van het Koninkrijk der Nederlanden en dat de regeling op 10 juni 1985 in werking treedt. Het Ministerie van Buitenlandse Zaken maakt tevens van deze gelegenheid gebruik, de Ambassade van het Koninkrijk der Nederlanden opnieuw te verzekeren van zijn bijzondere hoogachting.” De Ambassade heeft de eer het Ministerie van Buitenlandse Zaken mede te delen dat de Nederlandse Regering ermede instemt dat de Note Verbale van het Ministerie van Buitenlandse Zaken en deze antwoordnota de ingevolge artikel 1, vijfde lid, van genoemde Overeenkomst voorziene bevestiging van de hierboven weergegeven briefwisseling tussen de Bondsminister van Financiën en de Nederlandse Minister van Financiën vormen en dat deze regeling op 10 juni 1985 in werking treedt. De Ambassade van het Koninkrijk der Nederlanden maakt van deze gelegenheid gebruik, het Ministerie van buitenlandse Zaken opnieuw te verzekeren van haar bijzondere hoogachting. 
+Bonn, 7 juni 1985  *An das Auswartige Atnt *   *5300 Bonn*    

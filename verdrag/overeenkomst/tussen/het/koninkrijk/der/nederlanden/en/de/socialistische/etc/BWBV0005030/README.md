@@ -10,7 +10,7 @@ Het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegos
 
 ####Personen op wie de Overeenkomst van toepassing is
 
-Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de Staten of van beide Staten.  
+Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de Staten of van beide Staten. 
 
 ### Artikel  2  
 
@@ -44,7 +44,7 @@ b) voor Joegoslavië:
 
 - porez i doprinosi iz ličnog dohotka od autorskih prava, patenata i tehničkih unapredjenja (de belasting op en de bijdragen uit persoonlijke inkomsten verkregen uit auteursrechten, octrooien en technische vindingen),  
 
-- porez na prihod od imovine i itnovinskih prava (de belasting op de opbrengst uit vermogen en vermogensrechten),  
+-  porez na prihod od imovine i itnovinskih prava (de belasting op de opbrengst uit vermogen en vermogensrechten),  
 
 - porez na imovinu (de vermogensbelasting),  
 
@@ -55,7 +55,7 @@ b) voor Joegoslavië:
 - - porez na dobit stranih lica ostvarenu izvodjenjem investicionih radova (de belasting op voordelen door buitenlanders behaald uit investeringsprojecten),  
 
 - porez na prihod strariih lica ostvaren od prevoza putnika i robe (de belasting op opbrengsten door buitenlanders behaald met het vervoer van passagiers en vracht),   (hierna te noemen: „Joegoslavische belasting”).     
-4.  De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van deze Overeenkomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar de wezenlijke wijzigingen mede die in hun onderscheiden belastingwetgevingen zijn aangebracht.   
+4.  De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van deze Overeenkomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar de wezenlijke wijzigingen mede die in hun onderscheiden belastingwetgevingen zijn aangebracht.  
 
 ### Artikel  3  
 
@@ -94,7 +94,7 @@ j) betekent de uitdrukking „bevoegde autoriteit”:
 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;  
 
 2. in Joegoslavië het Federatieve Secretariaat van Financiën of de bevoegde vertegenwoordiger daarvan;       
-2.  Voor de toepassing van de Overeenkomst door elk van de Staten heeft elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.   
+2.  Voor de toepassing van de Overeenkomst door elk van de Staten heeft elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.  
 
 ### Artikel  4  
 
@@ -110,7 +110,7 @@ b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn lev
 c) indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;  
 
 d) indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.     
-3.  Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid van dit artikel inwoner van beide Staten is, wordt hij geacht inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.   
+3.  Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid van dit artikel inwoner van beide Staten is, wordt hij geacht inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.  
 
 ### Artikel  5  
 
@@ -146,7 +146,7 @@ e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoele
 f) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinatie van de in de letters a) tot en met e) genoemde werkzaamheden, mits het totaal van de werkzaamheden van de vaste bedrijfsinrichting dat uit deze combinatie voortvloeit van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.     
 5.  Indien een persoon - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zesde lid van dit artikel - voor een onderneming werkzaam is, en een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in een van de Staten gewoonlijk uitoefent, wordt die onderneming, niettegenstaande de bepalingen van het eerste en tweede lid van dit artikel, geacht in die Staat een vaste inrichting te hebben met betrekking tot de werkzaamheden die die persoon voor de onderneming verricht, tenzij de werkzaamheden van die persoon beperkt blijven tot die werkzaamheden genoemd in het vierde lid van dit artikel, die, indien zij worden uitgeoefend door middel van een vaste bedrijfsinrichting, deze vaste bedrijfsinrichting op grond van de bepalingen van dat lid van dit artikel niet tot een vaste inrichting zouden maken.   
 6.  Een onderneming wordt niet geacht een vaste inrichting in een van de Staten te bezitten alleen op grond van de omstandigheid dat zij in die Staat zaken doet door bemiddeling van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, mits deze personen in de normale uitoefening van hun bedrijf handelen.   
-7.  Alleen de omstandigheid dat een lichaam dat inwoner is van een van de Staten, een lichaam beheerst of door een lichaam wordt beheerst dat inwoner is van de andere Staat of dat in die andere Staat zaken doet (hetzij door middel van een vaste inrichting, hetzij op andere wijze), stempelt een van beide lichamen niet tot een vaste inrichting van het andere.   
+7.  Alleen de omstandigheid dat een lichaam dat inwoner is van een van de Staten, een lichaam beheerst of door een lichaam wordt beheerst dat inwoner is van de andere Staat of dat in die andere Staat zaken doet (hetzij door middel van een vaste inrichting, hetzij op andere wijze), stempelt een van beide lichamen niet tot een vaste inrichting van het andere.  
 
 ### Artikel  6  
 
@@ -155,7 +155,7 @@ f) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinat
 1.  Inkomsten verkregen door een inwoner van een van de Staten uit onroerende goederen (daaronder begrepen voordelen uit landbouw- of busbedrijven) die in de andere Staat zijn gelegen mogen in die andere Staat worden belast.   
 2.  De uitdrukking „onroerende goederen” heeft de betekenis welke die uitdrukking heeft volgens de wetgeving van de Staat waar de desbetreffende goederen zijn gelegen. Schepen en luchtvaartuigen worden niet als onroerende goederen beschouwd.   
 3.  De bepaling van het eerste lid van dit artikel is van toepassing op de inkomsten verkregen uit de rechtstreekse exploitatie, uit het verhuren of verpachten, of uit elke andere vorm van exploitatie van onroerende goederen.   
-4.  De bepalingen van het eerste en derde lid van dit artikel zijn ook van toepassing op inkomsten uit onroerende goederen van een onderneming en op inkomsten uit onroerende goederen gebezigd voor het verrichten van zelfstandige arbeid.   
+4.  De bepalingen van het eerste en derde lid van dit artikel zijn ook van toepassing op inkomsten uit onroerende goederen van een onderneming en op inkomsten uit onroerende goederen gebezigd voor het verrichten van zelfstandige arbeid.  
 
 ### Artikel  7  
 
@@ -168,7 +168,7 @@ f) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinat
 5.  Geen voordelen worden aan een vaste inrichting toegerekend enkel op grond van aankoop door die vaste inrichting van goederen of koopwaar voor de onderneming.   
 6.  Voor de toepassing van de voorgaande leden van dit artikel worden de aan de vaste inrichting toe te rekenen voordelen van jaar tot jaar volgens dezelfde methode bepaald, tenzij er een goede en genoegzame reden bestaat hiervan af te wijken.   
 7.  Indien in de voordelen bestanddelen zijn begrepen die afzonderlijk in andere artikelen van deze Overeenkomst worden behandeld, worden de bepalingen van die artikelen niet aangetast door de bepalingen van dit artikel.   
-8.  De voordelen door een inwoner van Nederland verkregen in Joegoslavië met betrekking tot zijn deelneming in een gemeenschappelijk met een Joegoslavische onderneming geëxploiteerde onderneming mogen in Joegoslavië worden belast. De voordelen moeten worden bepaald in overeenstemming met de in de leden twee tot en met zeven van dit artikel neergelegde beginselen.   
+8.  De voordelen door een inwoner van Nederland verkregen in Joegoslavië met betrekking tot zijn deelneming in een gemeenschappelijk met een Joegoslavische onderneming geëxploiteerde onderneming mogen in Joegoslavië worden belast. De voordelen moeten worden bepaald in overeenstemming met de in de leden twee tot en met zeven van dit artikel neergelegde beginselen.  
 
 ### Artikel  8  
 
@@ -177,7 +177,7 @@ f) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinat
 1.  Voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.   
 2.  Voordelen uit de exploitatie van schepen die dienen voor het vervoer in de binnenwateren zijn slechts belastbaar in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.   
 3.  Indien de plaats van de werkelijke leiding van een zeescheepvaart- of binnenscheepvaartonderneming zich aan boord van een schip bevindt, wordt deze plaats geacht te zijn gelegen in de Staat waar de thuishaven van het schip is gelegen, of, indien er geen thuishaven is, in de Staat waarvan de exploitant van het schip inwoner is.   
-4.  De bepalingen van het eerste lid van dit artikel zijn ook van toepassing op voordelen verkregen uit hoofde van een deelneming in een „pool", in een gemeenschappelijke onderneming of in een internationaal geëxploiteerd agentschap.   
+4.  De bepalingen van het eerste lid van dit artikel zijn ook van toepassing op voordelen verkregen uit hoofde van een deelneming in een „pool", in een gemeenschappelijke onderneming of in een internationaal geëxploiteerd agentschap.  
 
 ### Artikel  9  
 
@@ -187,7 +187,7 @@ Indien
 
 a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of  
 
-b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat, en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.    
+b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat, en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.   
 
 ### Artikel  10  
 
@@ -203,7 +203,7 @@ b) 15 percent van het brutobedrag van de dividenden in alle andere gevallen.
 4.  De bepalingen van het tweede lid van dit artikel laten onverlet de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald.   
 5.  De uitdrukking „dividenden”, zoals gebezigd in dit artikel, betekent ten aanzien van Nederland inkomsten uit aandelen, of andere rechten die aanspraak geven op een aandeel in de winst, alsmede inkomsten uit andere vennootschappelijke rechten die door de belastingwetgeving van deze Staat op dezelfde wijze aan de belastingheffing worden onderworpen als inkomsten uit aandelen. De uitdrukking omvat niet de voordelen door een inwoner van Nederland in Joegoslavië verkregen uit hoofde van zijn deelneming in een gemeenschappelijk met een Joegoslavische onderneming geëxploiteerde onderneming.   
 6.  De bepalingen van het eerste en tweede lid van dit artikel zijn niet van toepassing, indien de genieter van de dividenden, die inwoner is van een van de Staten, in de andere Staat waarvan het lichaam dat de dividenden betaalt inwoner is, een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van artikel 7 of artikel 14 van deze Overeenkomst van toepassing.   
-7.  Indien een lichaam dat inwoner is van een van de Staten, voordelen of inkomsten verkrijgt uit de andere Staat, mag die andere Staat geen belasting heffen op de dividenden die door het lichaam worden betaald, behalve voor zover deze dividenden worden betaald aan een inwoner van die andere Staat of voor zover het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van een in die andere Staat gevestigde vaste inrichting of tot het beroepsvermogen van een aldaar gevestigd vast middelpunt behoort, noch de niet-uitgedeelde winst van het lichaam onderwerpen aan een belasting op niet-uitgedeelde winst, zelfs indien de betaalde dividenden of de niet-uitgedeelde winst geheel of gedeeltelijk bestaan uit voordelen of inkomsten die uit die andere Staat afkomstig zijn.   
+7.  Indien een lichaam dat inwoner is van een van de Staten, voordelen of inkomsten verkrijgt uit de andere Staat, mag die andere Staat geen belasting heffen op de dividenden die door het lichaam worden betaald, behalve voor zover deze dividenden worden betaald aan een inwoner van die andere Staat of voor zover het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van een in die andere Staat gevestigde vaste inrichting of tot het beroepsvermogen van een aldaar gevestigd vast middelpunt behoort, noch de niet-uitgedeelde winst van het lichaam onderwerpen aan een belasting op niet-uitgedeelde winst, zelfs indien de betaalde dividenden of de niet-uitgedeelde winst geheel of gedeeltelijk bestaan uit voordelen of inkomsten die uit die andere Staat afkomstig zijn.  
 
 ### Artikel  11  
 
@@ -214,7 +214,7 @@ b) 15 percent van het brutobedrag van de dividenden in alle andere gevallen.
 3.  De bepalingen van het eerste lid van dit artikel zijn niet van toepassing indien de genieter van de interest, die inwoner is van een van de Staten, in de andere Staat waaruit de interest afkomstig is een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en de vordering uit hoofde waarvan de interest wordt betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van artikel 7 of artikel 14 van deze Overeenkomst van toepassing.   
 4.  Interest wordt geacht uit een van de Staten afkomstig te zijn, indien deze wordt betaald door die Staat zelf, door een staatkundig onderdeel, door een plaatselijk publiekrechtelijk lichaam of door een inwoner van die Staat.   
 5.  Niettegenstaande de bepalingen van het vierde lid van dit artikel wordt interest geacht afkomstig te zijn uit de Staat waarin degene die de interest betaalt - of hij inwoner van een van de Staten is of niet - een vaste inrichting of een vast middelpunt heeft tot het bedrijfs- of beroepsvermogen waarvan de schuldvordering ter zake waarvan de interest wordt betaald behoort en ten laste waarvan de interest komt.   
-6.  Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de genieter of tussen hen beiden en een derde, het bedrag van de betaalde interest, gelet op de schuldvordering ter zake waarvan deze wordt betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de genieter zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.   
+6.  Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de genieter of tussen hen beiden en een derde, het bedrag van de betaalde interest, gelet op de schuldvordering ter zake waarvan deze wordt betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de genieter zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.  
 
 ### Artikel  12  
 
@@ -227,7 +227,7 @@ b) 15 percent van het brutobedrag van de dividenden in alle andere gevallen.
 5.  De bepalingen van het eerste en tweede lid van dit artikel zijn niet van toepassing, indien de genieter van de royalty's, die inwoner is van een van de Staten, in de andere Staat waaruit de royalty's afkomstig zijn een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandig arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van artikel 7 of artikel 14 van deze Overeenkomst van toepassing.   
 6.  Royalty's worden geacht uit een van de Staten afkomstig te zijn, indien zij worden betaald door die Staat zelf, door een staatkundig onderdeel, door een plaatselijk publiekrechtelijk lichaam of door een inwoner van die Staat.   
 7.  Niettegenstaande de bepalingen van het zesde lid van dit artikel worden royalty's geacht afkomstig te zijn uit de Staat waarin degene die de royalty's betaalt - of hij inwoner van een van de Staten is of niet - een vaste inrichting of een vast middelpunt heeft waarvoor de verplichting tot het betalen van de royalty's was aangegaan en ten laste waarvan de royalty's komen.   
-8.  Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de genieter of tussen hen beiden en een derde, het bedrag van de betaalde royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de genieter zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.   
+8.  Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de genieter of tussen hen beiden en een derde, het bedrag van de betaalde royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de genieter zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.  
 
 ### Artikel  13  
 
@@ -237,7 +237,7 @@ b) 15 percent van het brutobedrag van de dividenden in alle andere gevallen.
 2.  Voordelen verkregen uit de vervreemding van roerende zaken die deel uitmaken van het bedrijfsvermogen van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, of van roerende zaken die behoren tot een vast middelpunt dat een inwoner van een van de Staten in de andere Staat tot zijn beschikking heeft voor het verrichten van zelfstandige arbeid, daaronder begrepen voordelen verkregen uit de vervreemding van de vaste inrichting (alleen of met de gehele onderneming) of van het vaste middelpunt, mogen in die andere Staat worden belast.   
 3.  Niettegenstaande de bepalingen van het tweede lid van dit artikel zijn voordelen verkregen uit de vervreemding van schepen of luchtvaartuigen die in internationaal verkeer worden geëxploiteerd, van schepen die dienen voor het vervoer in de binnenwateren of van roerende zaken die worden gebruikt bij de exploitatie van deze schepen of luchtvaartuigen, slechts belastbaar in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen. De bepalingen van artikel 8, derde lid, van deze Overeenkomst vinden hierbij toepassing.   
 4.  Voordelen verkregen uit de vervreemding van alle andere zaken dan die bedoeld in het eerste, tweede en derde lid van dit artikel zijn slechts belastbaar in de Staat waarvan de vervreemder inwoner is.   
-5.  De bepalingen van het vierde lid van dit artikel tasten niet aan het recht van elk van de Staten overeenkomstig zijn eigen wetgeving belasting te heffen op voordelen die uit de vervreemding van aandelen of andere rechten die aanspraak geven op een aandeel in de winst van een lichaam waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en dat inwoner is van die Staat, worden verkregen door een natuurlijke persoon die inwoner is van de andere Staat en die in de loop van de laatste vijf jaren voorafgaande aan de vervreemding van de aandelen of rechten inwoner van de eerstbedoelde Staat is geweest.   
+5.  De bepalingen van het vierde lid van dit artikel tasten niet aan het recht van elk van de Staten overeenkomstig zijn eigen wetgeving belasting te heffen op voordelen die uit de vervreemding van aandelen of andere rechten die aanspraak geven op een aandeel in de winst van een lichaam waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en dat inwoner is van die Staat, worden verkregen door een natuurlijke persoon die inwoner is van de andere Staat en die in de loop van de laatste vijf jaren voorafgaande aan de vervreemding van de aandelen of rechten inwoner van de eerstbedoelde Staat is geweest.  
 
 ### Artikel  14  
 
@@ -245,7 +245,7 @@ b) 15 percent van het brutobedrag van de dividenden in alle andere gevallen.
 
 1.  Voordelen verkregen door een natuurlijke persoon die inwoner is van een van de Staten in de uitoefening van zijn vrije beroep of ter zake van andere zelfstandige werkzaamheden van soortgelijke aard mogen in die Staat worden belast. Behoudens het bepaalde in het tweede lid van dit artikel, worden zodanige voordelen vrijgesteld van belasting in de andere Staat.   
 2.  Voordelen verkregen door een natuurlijke persoon die inwoner is van een van de Staten in de uitoefening van zijn vrije beroep of ter zake van andere zelfstandige werkzaamheden van soortgelijke aard in de andere Staat mogen in die andere Staat worden belast, indien de natuurlijke persoon een vast middelpunt in die andere Staat aanhoudt voor een tijdvak of tijdvakken van in totaal 183 dagen of meer in het kalenderjaar, en de voordelen zijn toe te rekenen aan zulk een vast middelpunt.   
-3.  De uitdrukking „vrij beroep” omvat in het bijzonder zelfstandige werkzaamheden op het gebied van wetenschap, letterkunde, kunst, opvoeding of onderwijs, alsmede de zelfstandige werkzaamheden van artsen, advocaten, technici, architecten, tandartsen en accountants.   
+3.  De uitdrukking „vrij beroep” omvat in het bijzonder zelfstandige werkzaamheden op het gebied van wetenschap, letterkunde, kunst, opvoeding of onderwijs, alsmede de zelfstandige werkzaamheden van artsen, advocaten, technici, architecten, tandartsen en accountants.  
 
 ### Artikel  15  
 
@@ -268,14 +268,14 @@ b) Deze salarissen, lonen en beloningen zijn echter slechts in de andere Staat b
 (1) onderdaan is van die andere Staat; of  
 
 (2) niet uitsluitend voor het verrichten van de werkzaamheden inwoner van die andere Staat werd.       
-5.  Niettegenstaande de bepalingen van het vierde lid van dit artikel zijn de bepalingen van het eerste, tweede en derde lid van dit artikel van toepassing op salarissen, lonen en andere soortgelijke beloningen ter zake van werkzaamheden verricht in het kader van een op winst gericht bedrijf, uitgeoefend door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.   
+5.  Niettegenstaande de bepalingen van het vierde lid van dit artikel zijn de bepalingen van het eerste, tweede en derde lid van dit artikel van toepassing op salarissen, lonen en andere soortgelijke beloningen ter zake van werkzaamheden verricht in het kader van een op winst gericht bedrijf, uitgeoefend door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.  
 
 ### Artikel  16  
 
 ####Bestuurders- en commissarissenbeloningen en beloningen verkregen ter zake van bestuurderswerkzaamheden in een gemeenschappelijke onderneming
 
 1.  Beloningen en andere betalingen verkregen door een inwoner van Nederland in zijn hoedanigheid van lid van het bestuur van een gemeenschappelijke onderneming van een lichaam dat inwoner is van Joegoslavië, mogen in Joegoslavië worden belast.   
-2.  Beloningen en andere betalingen verkregen door een inwoner van Joegoslavië in zijn hoedanigheid van bestuurder of commissaris vaneen lichaam dat inwoner is van Nederland, mogen in Nederland worden belast.   
+2.  Beloningen en andere betalingen verkregen door een inwoner van Joegoslavië in zijn hoedanigheid van bestuurder of commissaris vaneen lichaam dat inwoner is van Nederland, mogen in Nederland worden belast.  
 
 ### Artikel  17  
 
@@ -283,7 +283,7 @@ b) Deze salarissen, lonen en beloningen zijn echter slechts in de andere Staat b
 
 1.  Niettegenstaande de bepalingen van de artikelen 14 en 15 van deze Overeenkomst, mogen voordelen of inkomsten verkregen door toneelspelers, film-, radio- of televisie-artiesten, musici en andere artiesten alsmede sportbeoefenaren, uit hun persoonlijke werkzaamheden als zodanig worden belast in de Staat waar deze werkzaamheden worden verricht.   
 2.  Indien voordelen of inkomsten ter zake van persoonlijke werkzaamheden als zodanig verricht door een artiest of een sportbeoefenaar als bedoeld in het eerste lid van dit artikel niet aan de artiest of de sportbeoefenaar zelf toekomen, maar aan een andere persoon, mogen die voordelen of inkomsten, niettegenstaande de bepalingen van de artikelen 7, 14 en 15 van deze Overeenkomst, worden belast in de Staat waar de werkzaamheden van de artiest of sportbeoefenaar worden verricht.   
-3.  Niettegenstaande de bepalingen van het eerste en tweede lid van dit artikel, zijn voordelen of inkomsten verkregen door een artiest of sportbeoefenaar als bedoeld in het eerste lid van dit artikel, die inwoner is van een van de Staten slechts belastbaar in die Staat indien de werkzaamheden in de andere Staat worden verricht in het kader van een programma van uitwisseling op het gebied van cultuur of sport dat door beide Staten is goedgekeurd.   
+3.  Niettegenstaande de bepalingen van het eerste en tweede lid van dit artikel, zijn voordelen of inkomsten verkregen door een artiest of sportbeoefenaar als bedoeld in het eerste lid van dit artikel, die inwoner is van een van de Staten slechts belastbaar in die Staat indien de werkzaamheden in de andere Staat worden verricht in het kader van een programma van uitwisseling op het gebied van cultuur of sport dat door beide Staten is goedgekeurd.  
 
 ### Artikel  18  
 
@@ -296,28 +296,28 @@ a) Niettegenstaande de bepalingen van het eerste lid van dit artikel mogen pensi
 
 b) Deze pensioenen en beloningen zijn echter slechts in de andere Staat belastbaar, indien de genieter onderdaan en inwoner is van die andere Staat.     
 3.  Niettegenstaande de bepalingen van het tweede lid van dit artikel, zijn de bepalingen van het eerste lid van dit artikel van toepassing op pensioenen en andere soortgelijke beloningen ter zake van werkzaamheden verricht in het kader van een op winst gericht bedrijf uitgeoefend door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.   
-4.  Pensioenen en andere soortgelijke uitkeringen betaald aan een natuurlijke persoon in het kader van de publiekrechtelijke regelingen inzake sociale zekerheid in Nederland mogen in die Staat worden belast.   
+4.  Pensioenen en andere soortgelijke uitkeringen betaald aan een natuurlijke persoon in het kader van de publiekrechtelijke regelingen inzake sociale zekerheid in Nederland mogen in die Staat worden belast.  
 
 ### Artikel  19  
 
 ####Hoogleraren, andere docenten en onderzoekers
 
 1.  Vergoedingen die een natuurlijke persoon die inwoner is van een van de Staten en die in de andere Staat verblijft met het doel gedurende een tijdvak van ten hoogste twee jaren onderwijs te geven of zich met wetenschappelijk onderzoek bezig te houden aan een universiteit, hogeschool of andere inrichting voor onderwijs of wetenschappelijk onderzoek in die andere Staat, voor dat onderwijs of dat onderzoek ontvangt, zijn slechts in de eerstbedoelde Staat belastbaar.   
-2.  Dit artikel is niet van toepassing op inkomsten uit het verrichten van wetenschappelijk onderzoek, indien dit onderzoek niet wordt verricht in het algemeen belang, maar in de eerste plaats voor het persoonlijke nut van een bepaalde persoon of bepaalde personen.   
+2.  Dit artikel is niet van toepassing op inkomsten uit het verrichten van wetenschappelijk onderzoek, indien dit onderzoek niet wordt verricht in het algemeen belang, maar in de eerste plaats voor het persoonlijke nut van een bepaalde persoon of bepaalde personen.  
 
 ### Artikel  20  
 
 ####Studenten
 
 1.  Betalingen die een student of een leerling of een voor een beroep of bedrijf in opleiding zijnde persoon, die inwoner is of onmiddellijk voor zijn bezoek aan een van de Staten, inwoner was van de andere Staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde Staat verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die Staat niet belastbaar, mits deze betalingen aan hem worden gedaan uit bronnen buiten die Staat.   
-2.  Inkomsten, die in een belastingjaar een bedrag van 5.000 gulden of de tegenwaarde daarvan in Joegoslavische valuta niet te boven gaan, verkregen door een student of een leerling of een voor een beroep of bedrijf in opleiding zijnde persoon, die inwoner is of onmiddellijk voor zijn bezoek aan een van de Staten, inwoner was van de andere Staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde Staat verblijft, ter zake van werkzaamheden verricht in de eerstbedoelde Staat, zijn niet belastbaar in de eerstbedoelde Staat gedurende een tijdvak van niet langer dan vier opeenvolgende jaren vanaf de datum van zijn aankomst in die Staat.   
+2.  Inkomsten, die in een belastingjaar een bedrag van 5.000 gulden of de tegenwaarde daarvan in Joegoslavische valuta niet te boven gaan, verkregen door een student of een leerling of een voor een beroep of bedrijf in opleiding zijnde persoon, die inwoner is of onmiddellijk voor zijn bezoek aan een van de Staten, inwoner was van de andere Staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde Staat verblijft, ter zake van werkzaamheden verricht in de eerstbedoelde Staat, zijn niet belastbaar in de eerstbedoelde Staat gedurende een tijdvak van niet langer dan vier opeenvolgende jaren vanaf de datum van zijn aankomst in die Staat.  
 
 ### Artikel  21  
 
 ####Overige inkomsten
 
 1.  Bestanddelen van het inkomen van een inwoner van een van de Staten, van waaruit ook afkomstig, die niet in de voorgaande artikelen van deze Overeenkomst zijn behandeld, zijn slechts in die Staat belastbaar.   
-2.  De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op inkomsten, niet zijnde inkomsten uit onroerende goederen als bedoeld in artikel 6 van deze Overeenkomst, indien de genieter van die inkomsten, die inwoner is van een van de Staten in de andere Staat een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het recht of de zaak ter zake waarvan de inkomsten worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van artikel 7 of artikel 14 van deze Overeenkomst van toepassing.   
+2.  De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op inkomsten, niet zijnde inkomsten uit onroerende goederen als bedoeld in artikel 6 van deze Overeenkomst, indien de genieter van die inkomsten, die inwoner is van een van de Staten in de andere Staat een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het recht of de zaak ter zake waarvan de inkomsten worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van artikel 7 of artikel 14 van deze Overeenkomst van toepassing.  
 
 ### Artikel  22  
 
@@ -326,7 +326,7 @@ b) Deze pensioenen en beloningen zijn echter slechts in de andere Staat belastba
 1.  Vermogen bestaande uit onroerende goederen, zoals bedoeld in artikel 6 van deze Overeenkomst, dat een inwoner van een van de Staten bezit en dat is gelegen in de andere Staat, mag in die andere Staat worden belast.   
 2.  Vermogen bestaande uit roerende zaken die deel uitmaken van het bedrijfsvermogen van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, of uit roerende zaken die behoren tot een vast middelpunt dat een inwoner van een van de Staten in de andere Staat tot zijn beschikking heeft voor het verrichten van zelfstandige arbeid, mag in die andere Staat worden belast.   
 3.  Niettegenstaande de bepalingen van het tweede lid van dit artikel zijn schepen en luchtvaartuigen die in internationaal verkeer worden geëxploiteerd en schepen die dienen voor het vervoer in de binnenwateren, alsmede roerende zaken die worden gebruikt bij de exploitatie van deze schepen of luchtvaartuigen, slechts belastbaar in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen. De bepalingen van artikel 8, derde lid, van deze Overeenkomst vinden hierbij toepassing.   
-4.  Alle andere bestanddelen van het vermogen van een inwoner van een van de Staten zijn slechts in die Staat belastbaar.   
+4.  Alle andere bestanddelen van het vermogen van een inwoner van een van de Staten zijn slechts in die Staat belastbaar.  
 
 ### Artikel  23  
 
@@ -340,7 +340,7 @@ b) Deze pensioenen en beloningen zijn echter slechts in de andere Staat belastba
 a) Indien een inwoner van Joegoslavië inkomsten verkrijgt of vermogensbestanddelen bezit die, in overeenstemming met de bepalingen van deze Overeenkomst in Nederland mogen worden belast, stelt Joegoslavië, behalve in het geval bedoeld in artikel 13, vijfde lid, en behoudens de bepalingen onder letter b), die voordelen en inkomsten of die vermogensbestanddelen vrij van belasting, maar mag het, bij het berekenen van de belasting over het overige inkomen of vermogen van die persoon, het belastingtarief toepassen dat van toepassing zou zijn geweest indien het vrijgestelde inkomen of vermogen niet was vrijgesteld.  
 
 b) Indien een inwoner van Joegoslavië inkomen verkrijgt dat, in overeenstemming met de bepalingen van de artikelen 10 en 12 in Nederland mag worden belast, staat Joegoslavië een vermindering toe op de belasting naar het inkomen van die inwoner tot een bedrag gelijk aan de in Nederland betaalde belasting. Deze vermindering overschrijdt echter niet dat deel van de belasting, zoals dat is berekend vóór het verlenen van de vermindering, dat aan het uit Nederland verkregen inkomen kan worden toegerekend.     
-5.  Indien een inwoner van een van de Staten voordelen verkrijgt die ingevolge artikel 13, vijfde lid, in de andere Staat mogen worden belast, verleent die andere Staat een vermindering op zijn belasting over deze voordelen tot een bedrag dat gelijk is aan de belasting die in de eerstbedoelde Staat over die voordelen is geheven.   
+5.  Indien een inwoner van een van de Staten voordelen verkrijgt die ingevolge artikel 13, vijfde lid, in de andere Staat mogen worden belast, verleent die andere Staat een vermindering op zijn belasting over deze voordelen tot een bedrag dat gelijk is aan de belasting die in de eerstbedoelde Staat over die voordelen is geheven.  
 
 ### Artikel  24  
 
@@ -349,7 +349,7 @@ b) Indien een inwoner van Joegoslavië inkomen verkrijgt dat, in overeenstemming
 1.  Onderdanen van een van de Staten, of zij inwoner zijn van die Staat of niet, worden in de andere Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan onderdanen van die andere Staat onder dezelfde omstandigheden zijn of kunnen worden onderworpen. Deze bepaling is eveneens van toepassing op iedere rechtspersoon die zijn rechtspositie als zodanig ontleent aan de wetgeving die in een van de Staten van kracht is.   
 2.  De belastingheffing van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen. Deze bepaling mag niet aldus worden uitgelegd, dat zij een van de Staten verplicht aan inwoners van de andere Staat bij de belastingheffing de persoonlijke aftrekken, tegemoetkomingen en verminderingen uit hoofde van de samenstelling van het gezin of gezinslasten te verlenen, die eerstbedoelde Staat aan zijn eigen inwoners verleent.   
 3.  Behalve indien de bepalingen van artikel 9, van artikel 11, zesde lid, of van artikel 12, achtste lid, van deze Overeenkomst van toepassing zijn, zijn interest, royalty's en andere uitgaven, betaald door een onderneming van een van de Staten aan een inwoner van de andere Staat, bij de vaststelling van de belastbare winst van die onderneming onder dezelfde voorwaarden aftrekbaar als wanneer zij betaald waren aan een inwoner van de eerstbedoelde Staat. Zo ook zijn alle schulden van een onderneming van een van de Staten aan een inwoner van de andere Staat bij de vaststelling van het belastbare vermogen van die onderneming aftrekbaar als wanneer zij waren aangegaan met een inwoner van de eerstbedoelde Staat.   
-4.  Ondernemingen van een van de Staten, waarvan het kapitaal geheel of ten dele, onmiddellijk of middellijk, in het bezit is van of wordt beheerst door een of meer inwoners van de andere Staat, worden in de eerstbedoelde Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan andere soortgelijke ondernemingen van die eerstbedoelde Staat zijn of kunnen worden onderworpen.   
+4.  Ondernemingen van een van de Staten, waarvan het kapitaal geheel of ten dele, onmiddellijk of middellijk, in het bezit is van of wordt beheerst door een of meer inwoners van de andere Staat, worden in de eerstbedoelde Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan andere soortgelijke ondernemingen van die eerstbedoelde Staat zijn of kunnen worden onderworpen.  
 
 ### Artikel  25  
 
@@ -358,7 +358,7 @@ b) Indien een inwoner van Joegoslavië inkomen verkrijgt dat, in overeenstemming
 1.  Indien een inwoner van een van de Staten van oordeel is dat de maatregelen van een van de Staten of van beide Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met deze Overeenkomst, kan hij, onverminderd de rechtsmiddelen waarin de nationale wetgeving van die Staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de Staat waarvan hij inwoner is, of, indien zijn geval valt onder artikel 24, eerste lid, van deze Overeenkomst aan die van de Staat waarvan hij onderdaan of rechtspersoon is. Het geval moet worden voorgelegd binnen vijf jaren nadat de maatregel die aanleiding geeft tot belastingheffing die niet in overeenstemming is met de Overeenkomst, voor het eerst te zijner kennis is gebracht.   
 2.  De bevoegde autoriteit tracht, indien het bezwaar haar gegrond voorkomt en indien zij niet zelf in staat is tot een bevredigende oplossing te komen, de aangelegenheid in onderlinge overeenstemming met de bevoegde autoriteit van de andere Staat te regelen ten einde een belastingheffing die niet in overeenstemming is met de Overeenkomst, te vermijden.   
 3.  De bevoegde autoriteiten van de Staten trachten moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de uitlegging of de toepassing van de Overeenkomst in onderlinge overeenstemming op te lossen. Zij kunnen ook met elkaar overleg plegen ten einde dubbele belasting ongedaan te maken in gevallen waarvoor in de Overeenkomst geen voorziening is getroffen.   
-4.  De bevoegde autoriteiten van de Staten kunnen zich rechtstreeks met elkaar in verbinding stellen ten einde een overeenstemming als bedoeld in de voorgaande leden te bereiken.   
+4.  De bevoegde autoriteiten van de Staten kunnen zich rechtstreeks met elkaar in verbinding stellen ten einde een overeenstemming als bedoeld in de voorgaande leden te bereiken.  
 
 ### Artikel  26  
 
@@ -375,14 +375,14 @@ c) inlichtingen te verstrekken die zouden onthullen:
 
 1. wat Nederland betreft, een bedrijfs-, handels-, nijverheids-, of beroepsgeheim of een fabrieks- of handelswerkwijze, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde;  
 
-2. wat Joegoslavië betreft, een bedrijfs- of staatsgeheim of een fabrieks- of handelswerkwijze, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.       
+2. wat Joegoslavië betreft, een bedrijfs- of staatsgeheim of een fabrieks- of handelswerkwijze, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.      
 
 ### Artikel  27  
 
 ####Diplomatieke en consulaire ambtenaren
 
 1.  De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voorrechten aan die diplomatieke en consulaire ambtenaren ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.   
-2.  De Overeenkomst is niet van toepassing op internationale organisaties, hun organen en functionarissen, noch op leden van een diplomatieke of consulaire vertegenwoordiging van een derde Staat die in een van de Staten verblijven, indien zij in die Staat niet aan dezelfde verplichtingen ter zake van belastingen naar het inkomen of naar het vermogen zijn onderworpen als inwoners van die Staat.   
+2.  De Overeenkomst is niet van toepassing op internationale organisaties, hun organen en functionarissen, noch op leden van een diplomatieke of consulaire vertegenwoordiging van een derde Staat die in een van de Staten verblijven, indien zij in die Staat niet aan dezelfde verplichtingen ter zake van belastingen naar het inkomen of naar het vermogen zijn onderworpen als inwoners van die Staat.  
 
 ### Artikel  28  
 
@@ -392,7 +392,7 @@ Deze Overeenkomst treedt in werking op de dertigste dag na de laatste van de dat
 
 a) In Joegoslavië: met betrekking tot belastingen voor belastingjaren die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin de laatste van de mededelingen is ontvangen;  
 
-b) In Nederland: met betrekking tot belastingen voor belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin de laatste van de mededelingen is ontvangen.    
+b) In Nederland: met betrekking tot belastingen voor belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin de laatste van de mededelingen is ontvangen.   
 
 ### Artikel  29  
 
@@ -402,9 +402,9 @@ Deze Overeenkomst blijft voor onbepaalde tijd van kracht doch elk van de Staten 
 
 a) In Joegoslavië: met betrekking tot belastingen voor belastingjaren die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin de kennisgeving van beëindiging is gedaan;  
 
-b) In Nederland: met betrekking tot belastingen voor belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin de kennisgeving van beëindiging is gedaan.    
+b) In Nederland: met betrekking tot belastingen voor belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin de kennisgeving van beëindiging is gedaan.   
 
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN in twee originelen te Belgrado, de 22e februari 1982, in de Nederlandse, de Servokroatische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval de Nederlandse en de Servokroatische tekst verschillend kunnen worden uitgelegd, is de Engelse tekst beslissend.  *Voor het Koninkrijk*   *der Nederlanden,*  (w.g.) M. P. S. VAN BERCKEL** (w.g.) A. P. J. M. M. VAN DER STEE  *Voor de Socialistische*   *Federatieve Republiek*   *Joegoslavië,*  (w.g.) PETAR KOSTIC  
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN in twee originelen te Belgrado, de 22e februari 1982, in de Nederlandse, de Servokroatische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval de Nederlandse en de Servokroatische tekst verschillend kunnen worden uitgelegd, is de Engelse tekst beslissend.  *Voor het Koninkrijk *   *der Nederlanden, *  (w.g.) M. P. S. VAN BERCKEL **  (w.g.) A. P. J. M. M. VAN DER STEE   *Voor de Socialistische*   *Federatieve Republiek*   *Joegoslavië,*  (w.g.) PETAR KOSTIC  
 
 ### Protocol  
 
@@ -414,55 +414,55 @@ Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting
 
 ####Ad Artikel 4
 
-Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waar het schip zijn thuishaven heeft.  
+Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waar het schip zijn thuishaven heeft. 
 
 ### II  
 
 ####Ad Artikel 4
 
-Voor de toepassing van de Overeenkomst wordt een natuurlijke persoon die deel uitmaakt van een diplomatieke of consulaire vertegenwoordiging van een van de Staten in de andere Staat of in een derde Staat en die onderdaan is van de zendstaat, geacht inwoner van de zendstaat te zijn, indien hij daarin aan dezelfde verplichtingen ter zake van belastingen naar het inkomen en naar het vermogen is onderworpen als inwoners van die Staat.  
+Voor de toepassing van de Overeenkomst wordt een natuurlijke persoon die deel uitmaakt van een diplomatieke of consulaire vertegenwoordiging van een van de Staten in de andere Staat of in een derde Staat en die onderdaan is van de zendstaat, geacht inwoner van de zendstaat te zijn, indien hij daarin aan dezelfde verplichtingen ter zake van belastingen naar het inkomen en naar het vermogen is onderworpen als inwoners van die Staat. 
 
 ### III  
 
 ####Ad Artikel 6
 
-Het is wel verstaan dat wat Nederland betreft de uitdrukking „onroerende goederen” mede omvat vechten op veranderlijke of vaste vergoedingen ter zake van de exploitatie, of concessie tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen.  
+Het is wel verstaan dat wat Nederland betreft de uitdrukking „onroerende goederen” mede omvat vechten op veranderlijke of vaste vergoedingen ter zake van de exploitatie, of concessie tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen. 
 
 ### IV  
 
 ####Ad Artikel 8
 
-Het is wel verstaan dat de bepalingen van artikel 8 van de Overeenkomst mede van toepassing zijn op belastingen die worden geheven op basis van de bruto ontvangsten ter zake van het vervoer van passagiers en vracht in internationaal verkeer.  
+Het is wel verstaan dat de bepalingen van artikel 8 van de Overeenkomst mede van toepassing zijn op belastingen die worden geheven op basis van de bruto ontvangsten ter zake van het vervoer van passagiers en vracht in internationaal verkeer. 
 
 ### V  
 
 ####Ad Artikelen 10 en 12
 
-Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van artikel 10 of 12 mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven.  
+Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van artikel 10 of 12 mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven. 
 
 ### VI  
 
 ####Ad Artikel 11
 
-De bepalingen van artikel 11 vinden hun grondslag in de omstandigheid dat krachtens de belastingwetgeving van Nederland en de belastingwetgeving van Joegoslavië, zoals deze wetgeving geldt op de datum van ondertekening van deze Overeenkomst, geen van de Staten een bronbelasting heft op interest afkomstig uit die Staat en betaald aan een inwoner van de andere Staat. Beide Staten verbinden zich onderhandelingen aan te gaan over een herziening van genoemde bepalingen zodra een van de Staten schriftelijk langs diplomatieke weg, aan de andere Staat zijn wens hiertoe kenbaar heeft gemaakt in verband met de omstandigheid dat een bronbelasting op interest is ingevoerd.  
+De bepalingen van artikel 11 vinden hun grondslag in de omstandigheid dat krachtens de belastingwetgeving van Nederland en de belastingwetgeving van Joegoslavië, zoals deze wetgeving geldt op de datum van ondertekening van deze Overeenkomst, geen van de Staten een bronbelasting heft op interest afkomstig uit die Staat en betaald aan een inwoner van de andere Staat. Beide Staten verbinden zich onderhandelingen aan te gaan over een herziening van genoemde bepalingen zodra een van de Staten schriftelijk langs diplomatieke weg, aan de andere Staat zijn wens hiertoe kenbaar heeft gemaakt in verband met de omstandigheid dat een bronbelasting op interest is ingevoerd. 
 
 ### VII  
 
 ####Ad Artikel 15
 
-Het is wel verstaan dat de bepalingen van artikel 15, vierde lid, van de Overeenkomst van toepassing zijn op salarissen, lonen en andere soortgelijke beloningen verkregen dooreen natuurlijke persoon ter zake van zijn werkzaamheden in de Gemeenschappelijke Economische Vertegenwoordiging van Joegoslavië of de Toeristische Federatie van Joegoslavië.  
+Het is wel verstaan dat de bepalingen van artikel 15, vierde lid, van de Overeenkomst van toepassing zijn op salarissen, lonen en andere soortgelijke beloningen verkregen dooreen natuurlijke persoon ter zake van zijn werkzaamheden in de Gemeenschappelijke Economische Vertegenwoordiging van Joegoslavië of de Toeristische Federatie van Joegoslavië. 
 
 ### VIII  
 
 ####Ad Artikel 16
 
-Het is wel verstaan dat bestuurder of commissaris van een Nederlands lichaam slaat op personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam, en zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.  
+Het is wel verstaan dat bestuurder of commissaris van een Nederlands lichaam slaat op personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam, en zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop. 
 
 ### IX  
 
 ####Ad Artikel 18
 
-Het is wel verstaan dat de bepalingen van artikel 18, tweede lid, van de Overeenkomst van toepassing zijn op pensioenen en andere soortgelijke beloningen verkregen door een natuurlijke persoon ter zake van zijn werkzaamheden in de Gemeenschappelijke Economische Vertegenwoordiging van Joegoslavië of de Toeristische Federatie van Joegoslavië.  
+Het is wel verstaan dat de bepalingen van artikel 18, tweede lid, van de Overeenkomst van toepassing zijn op pensioenen en andere soortgelijke beloningen verkregen door een natuurlijke persoon ter zake van zijn werkzaamheden in de Gemeenschappelijke Economische Vertegenwoordiging van Joegoslavië of de Toeristische Federatie van Joegoslavië. 
 
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend. GEDAAN in twee originelen te Belgrado, de 22e februari 1982, in de Nederlandse, de Servokroatische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. Ingeval de Nederlandse en de Servokroatische tekst verschillend kunnen worden uitgelegd, is de Engelse tekst beslissend.  *Voor het Koninkrijk der Nederlanden,*  (w.g.) M. P. S. VAN BERCKEL (w.g.) A. P. J. M. M. VAN DER STEE  *Voor de Socialistische Federatieve Republiek Joegoslavië,*  (w.g.) PETAR KOSTIC  
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend. GEDAAN in twee originelen te Belgrado, de 22e februari 1982, in de Nederlandse, de Servokroatische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. Ingeval de Nederlandse en de Servokroatische tekst verschillend kunnen worden uitgelegd, is de Engelse tekst beslissend.  *Voor het Koninkrijk der Nederlanden,* (w.g.) M. P. S. VAN BERCKEL  (w.g.) A. P. J. M. M. VAN DER STEE  *Voor de Socialistische Federatieve Republiek Joegoslavië,* (w.g.) PETAR KOSTIC  
 

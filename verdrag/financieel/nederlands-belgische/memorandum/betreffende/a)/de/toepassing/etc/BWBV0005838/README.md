@@ -21,7 +21,7 @@ b) Les titres de l'emprunt réquisitionnés par le Gouvernement néerlandais en 
 
 c) Les coupons des obligations de l'emprunt 3½ % 1937 échus depuis le 10 mai 1940 seront acquittés en francs belges au même titre que le capital.    
 
-2.  *Achat par la Nederlandsche Bank de francs belges contre monnaies étrangères.*  Afin de simplifier les opérations, les achats de francs belges contre monnaies étrangères, par la Nederlandsche Bank et les cessions de ces monnaies contre florins par la Banque Nationale de Belgique se feront à des cours qui sont soit la parité soit le cours moyen de ces monnaies par rapport au franc belge et au florin et qui correspondent en même temps à la parité franc belge-florin.  
+2.  *Achat par la Nederlandsche Bank de FB contre monnaies étrangères:*   Les achats de francs belges contre monnaies étrangères par la Nederlandsche Bank et les cessions de ces monnaies contre florins par la Banque Nationale Belge, se feront à des cours à convenir entre ces deux instituons.  
 
 3.  *Opérations d'investissement de capitaux belges aux Pays-Bas et de désinvestissement de capitaux néerlandais en Belgique.*  Afin de pouvoir appliquer ces opérations au compte spécial en monnaies étrangères, il est nécessaire qu'elles soient centralisées auprès des Banques d'Emission ou d'organismes privés spécialement désignés à cet effet. C'est le cas notamment pour les rachats d'emprunts belges aux Pays-Bas, les placements d'émission néerlandais en Belgique, les ventes de titres belges appartenant à des Néerlandais, les achats de titres néerlandais par des Belges.   
 ###B. PAIEMENTS ADMIS AU TRANSFERT
@@ -38,7 +38,7 @@ En cas de réquisition des devises étrangères, aux Pays-Bas et dans l'Union Ec
 Touchant les certificats remis par des Administratie Kantoren à des personnes résidant en Belgique contre dépôt de titres étrangers, les autorités néerlandaises sont disposées à exonérer d'une éventuelle réquisition les titres étrangers correspondant à ces certificats, et à permettre le paiement en devises étrangères aux bénéficiaires belges des revenus correspondant aux intérêts de ces titres étrangers, pour autant que ces titres appartiennent depuis une date antérieure au 10 mai 1940 à des personnes résidant en Belgique. 
 ###F. CONTRATS À TERME EN DEVISES ÉTRANGÈRES
 
-Les contrats à terme en devises étrangères conclus avant le 10 mai 1940 entre personnes résidant aux Pays-Bas et personnes résidant en Belgique pourront être liquidés par les parties contractantes, et les autorités compétentes des deux pays donneront les autorisations de cession de devises étrangères correspondentes.   
+Les contrats à terme en devises étrangères conclus avant le 10 mai 1940 entre personnes résidant aux Pays-Bas et personnes résidant en Belgique pourront être liquidés par les parties contractantes, et les autorités compétentes des deux pays donneront les autorisations de cession de devises étrangères correspondentes. Le Ministre des Finances du Le Ministre des Finances du Royaume de Belgique:*(s.) J. VAUTHIER.*Le Ministre des Finances du Royaume des Pays-Bas*(s.) P. LIEFTINCK.*  
 
 ### BIJLAGE  I  
 
@@ -48,28 +48,28 @@ Les contrats à terme en devises étrangères conclus avant le 10 mai 1940 entre
 
 De Nederlandsche Bank verklaart hiermede dat 
 
-a) de aan ommezijde omschreven activa uitstaan, resp. gedeponeerd zijn voor de rekening van ............................................................... <sup> (1)  Naam, voornamen of firmanaam.  </sup> wonende........................................................................................................................................................................................ <sup> (2)  Volledig adres.  </sup>  
+a) de aan ommezijde omschreven activa uitstaan, resp. gedeponeerd zijn voor de rekening van ...............................................................<sup> (1) Naam, voornamen of firmanaam. </sup>  wonende........................................................................................................................................................................................<sup> (2) Volledig adres. </sup>   
 
-b) dat de sub (a) bedoelde activa op 20 October 1944 uitstonden, resp. gedeponeerd waren voor rekening van ..................................... <sup> (1)  Naam, voornamen of firmanaam.  </sup> wonende........................................................................................................................................................................................ <sup> (2)  Volledig adres.  </sup> die geen vijandelijke staat is in den zin van art. 1 sub 5 van het Besluit Vijandelijk Vermogen (K.B. E. 133) noch vijandelijk onderdaan in den zin van art. 2 sub 1, 2 en 3 van voormeld Besluit. <sup> (3)  Volgens art. 1 sub 5, van het Besluit Vijandelijk Vermogen (K.B.E. 133) worden verstaan onder vijandelijke staten: Duitschland, Italië, Japan en de staten, die door ons voor de toepassing van dit Besluit met vijandelijke staten gelijk worden gesteld; onder vijandelijke staten worden mede begrepen : derzelver regeeringen, departementen van openbaar bestuur, provincies, gemeenten, lichamen en instellingen zoo in den vorm van rechtspersonen als anderszins, belast met eenigerlei bestuurlijke functie.   Artikel 2, sub 1, 2 en 3 van voormeld Besluit luidt:   Voor de toepassing van bij of krachtens dit Besluit uitgevaardigde bepalingen worden vijandelijke onderdanen aangemerkt:    1.  ambtenaren, beambten, agenten, vertegenwoordigers en gemachtigden van een vijandelijken staat, zoomede personen, die als zoodanig te eeniger tijd tusschen den tienden Mei 1940 en den dag van het inwerking treden van dit Besluit zijn opgetreden;    2.  natuurlijke personen, die onderdanen zijn of te eeniger tijd na den tienden Mei 1940 zijn geweest van een vijandelijke staat;    3.  rechtspersonen:    a)  die opgericht zijn of bestaan krachtens of beheerscht worden door het recht van een vijandelijken staat;    b)  wier maatschappelijken zetel, plaats van vestiging of hoofdkantoor gelegen is of te eeniger tijd na den tienden Mei 1940 gelegen was in vijandelijk gebied, of    c)  wier eigenlijke zaak of hoofdbedrijf gevestigd is of te eeniger tijd na den tienden Mei 1940 was in vijandelijk gebied.      </sup>   .........................................., den .................................... 194... De Nederlandsche Bank, N.V. Bureau Certificatie. (Keerzijde bijlage 1)  
+b) dat de sub (a) bedoelde activa op 20 October 1944 uitstonden, resp. gedeponeerd waren voor rekening van .....................................<sup> (1) Naam, voornamen of firmanaam. </sup>  wonende........................................................................................................................................................................................<sup> (2) Volledig adres. </sup>  die geen vijandelijke staat is in den zin van art. 1 sub 5 van het Besluit Vijandelijk Vermogen (K.B. E. 133) noch vijandelijk onderdaan in den zin van art. 2 sub 1, 2 en 3 van voormeld Besluit.<sup> (3) Volgens art. 1 sub 5, van het Besluit Vijandelijk Vermogen (K.B.E. 133) worden verstaan onder vijandelijke staten: Duitschland, Italië, Japan en de staten, die door ons voor de toepassing van dit Besluit met vijandelijke staten gelijk worden gesteld; onder vijandelijke staten worden mede begrepen : derzelver regeeringen, departementen van openbaar bestuur, provincies, gemeenten, lichamen en instellingen zoo in den vorm van rechtspersonen als anderszins, belast met eenigerlei bestuurlijke functie. Artikel 2, sub 1, 2 en 3 van voormeld Besluit luidt:  Voor de toepassing van bij of krachtens dit Besluit uitgevaardigde bepalingen worden vijandelijke onderdanen aangemerkt:    1. ambtenaren, beambten, agenten, vertegenwoordigers en gemachtigden van een vijandelijken staat, zoomede personen, die als zoodanig te eeniger tijd tusschen den tienden Mei 1940 en den dag van het inwerking treden van dit Besluit zijn opgetreden;    2. natuurlijke personen, die onderdanen zijn of te eeniger tijd na den tienden Mei 1940 zijn geweest van een vijandelijke staat;    3. rechtspersonen:   a) die opgericht zijn of bestaan krachtens of beheerscht worden door het recht van een vijandelijken staat;    b) wier maatschappelijken zetel, plaats van vestiging of hoofdkantoor gelegen is of te eeniger tijd na den tienden Mei 1940 gelegen was in vijandelijk gebied, of    c) wier eigenlijke zaak of hoofdbedrijf gevestigd is of te eeniger tijd na den tienden Mei 1940 was in vijandelijk gebied.      </sup>    .........................................., den .................................... 194... De Nederlandsche Bank, N.V. Bureau Certificatie. (Keerzijde bijlage 1)  
 
 | --- | --- |
 |:---|:---|
-| Naam van de(n)gene(n) voor wiens rekening de activa uitstaan, resp. gedeponeerd zijn: <sup>(1)</sup>  | --- |
-| Naam van de(n)gene(n) te wiens (wier) name de activa uitstaan, resp. gedeponeerd zijn: <sup>(1)</sup>  | --- |
-| Omschrijving der rekening: <sup>(2)</sup>  | --- |
-| Aard der activa: <sup>(3)</sup>  | --- |
-| Bijzonderheden der activa: <sup>(4)</sup>  | --- |
-| Gezien en accoord bevonden:  | --- |
+| Naam van de(n)gene(n) voor wiens rekening de activa uitstaan, resp. gedeponeerd zijn:<sup>(1)</sup>   | --- |
+| Naam van de(n)gene(n) te wiens (wier) name de activa uitstaan, resp. gedeponeerd zijn:<sup>(1)</sup>   | --- |
+| Omschrijving der rekening:<sup>(2)</sup>   | --- |
+| Aard der activa:<sup>(3)</sup>   | --- |
+| Bijzonderheden der activa:<sup>(4)</sup>   | --- |
+| Gezien en accoord bevonden:   | --- |
 | --- | Handteekening van de(n)gene(n) voor wiens rekening de activa uitstaan.  |
 
 <sup>(1)</sup> Naam, voornamen of firmanaam.  
 
 <sup>(2)</sup> aard of benaming evt. nummer der rekening. Voor iedere rekening of depot moet, ook in geval dat bij eenzelfde instelling verscheidene rekeningen of depots worden onderhouden, een afzonderlijk formulier worden ingevuld.  
 
-<sup>(3)</sup> Goud, bankpapier, cheques, tegoed in rekening-courant, effecten, enz.  
+<sup>(3)</sup> Goud, bankpapier, cheques, tegoed in rekening-courant, effecten, enz.   
 
 <sup>(4)</sup> Bij goud het gewicht vermelden, bij gouden muntstukken het aantal en nominale waarde vermelden, bij buitenlandsch bankpapier, tegoed in rekening-courant of waarde in buitenlandsche valuta vermelden, bij effecten vermelden : aantal ( of totale nominale waarde) volledige naamsaanduiding, type, rentevoet, jaar van uitgifte, enz.   
-###Bedrijfsgroep Handelsbanken
+###Bedrijfsgroep Handelsbanken 
 
 (lid der Vereeniging voor den Effectenhandel) (Bedrijfsgroep Effectenhandel)   
 
@@ -84,16 +84,16 @@ Institut Belgo-Luxembourgeois du Change,
 Bruxelles       
 ###Demande de Certification d'avoirs déposés aux Pays-Bas et appartenant à des personnes physiques ou morales domiciliées ou résident en Belgique
 
-Reserve à l'I.B.L.C. attestation de propriété non-ennemie délivrée en vue de la certification L'Institut Belgo-Luxembourgeois du Change atteste par le présent document que les avoirs décrits au verso appartenant à ..............................................................................................................................domicilié(s) ou ayant sa/ leur résidence principale en Belgique, ne relevaient au 3 septembre 1944, ni directement, d'intérêts ennemis quelconques au sens de la réglementation belge . <sup> (2)  Nom(s), prénom(s), ou raison sociale.  </sup> <sup> (1)  Biffer la mention inutile.  </sup> <sup> (3)  Sont réputés ennemis:    a)  les personnes physiques de nationalité allemande ou japonaise,    b)  les personnes physiques ou morales de droit public ou de droit privé résidant sur le territoire allemand ou japonais ou y exerçant leur activité,    c)  les sociétés de personnes ou de capitaux, associations ou organismes constitués conformément aux lois belges et dont 25 % des intérêts ou plus sont détenus par des personnes mentionnées aux *a)* et *b)* ci-dessus.    </sup> Bruxelles, le ....................................................... 194... Par délégation: ANNEXE 2 (Verso)  
+Reserve à l'I.B.L.C. attestation de propriété non-ennemie délivrée en vue  de la certification L'Institut Belgo-Luxembourgeois du Change atteste par le présent document que les avoirs décrits au verso appartenant à <sup> (2) Nom(s), prénom(s), ou raison sociale. </sup>..............................................................................................................................domicilié(s) ou ayant sa/ leur <sup> (1) Biffer la mention inutile. </sup>résidence principale en Belgique, ne relevaient au 3 septembre 1944, ni directement, d'intérêts ennemis quelconques au sens de la réglementation belge <sup> (3) Sont réputés ennemis:   a) les personnes physiques de nationalité allemande ou japonaise,   b) les personnes physiques ou morales de droit public ou de droit privé résidant sur le territoire allemand ou japonais ou y exerçant leur activité,   c) les sociétés de personnes ou de capitaux, associations ou organismes constitués conformément aux lois belges et dont 25 % des intérêts ou plus sont détenus par des personnes mentionnées aux *a)*et *b)*ci-dessus.   </sup>. Bruxelles, le ....................................................... 194... Par délégation: ANNEXE 2 (Verso)  
 
 | --- | --- |
 |:---|:---|
 | Titulaire du compte ou dépôt:  | --- |
-| Dépositaire: <sup>(1)</sup>  | --- |
-| Compte: <sup>(2)</sup>  | --- |
-| Nature des avoirs: <sup>(3)</sup>  | --- |
-| DETAIL DES AVOIRS <sup>(4)</sup>  | no. de la déclaration à l'I.B.L.C. (arrête-loi du 6—10—1944)  |
-| Vu et vérifié, ( signature de la Banque agréée)  | Signature du (des)/de la <sup>(5)</sup> déclarant (s)/déclarante(s)  |
+| Dépositaire: <sup>(1)</sup>   | --- |
+| Compte: <sup>(2)</sup>   | --- |
+| Nature des avoirs: <sup>(3)</sup>   | --- |
+| DETAIL DES AVOIRS <sup>(4)</sup>   | no. de la déclaration à l'I.B.L.C. (arrête-loi du 6—10—1944)  |
+| Vu et vérifié, ( signature de la Banque agréée)  | Signature du (des)/de la <sup>(5)</sup>déclarant (s)/déclarante(s)  |
 
 <sup>(1)</sup> Nom ou raison sociale, adresse exacte et éventuellement agence.  
 
@@ -103,7 +103,7 @@ Reserve à l'I.B.L.C. attestation de propriété non-ennemie délivrée en vue d
 
 <sup>(4)</sup>  
 
-S'il s'agit d'or en barre, indiquer le poids, S'il s'agit de pièces d'or, indiquer le nombre et la valeur faciale, S'il s'agit de billets étrangers, d'avoirs en compte, de chèques ou d'effets, indiquer la valeur en monnaie étrangère, S'il s'agit de titres, en indiquer le nombre (ou la valeur nominale totale), la dénomination complète et exacte, le type, le taux d'intérêt, l'année d'émission, etc .........    
+S'il s'agit d'or en barre, indiquer le poids,  S'il s'agit de pièces d'or, indiquer le nombre et la valeur faciale, S'il s'agit de billets étrangers, d'avoirs en compte, de chèques ou d'effets, indiquer la valeur en monnaie étrangère, S'il s'agit de titres, en indiquer le nombre (ou la valeur nominale totale), la dénomination complète et exacte, le type, le taux d'intérêt, l'année d'émission, etc .........    
 
 <sup>(5)</sup> Biffer les mentions inutiles.     
 
@@ -111,15 +111,15 @@ S'il s'agit d'or en barre, indiquer le poids, S'il s'agit de pièces d'or, indiq
 
 ####Verzending van in België te incasseeren coupons en dividendbewijzen
 
-AFFIDAVIT De ondergeteekende <sup> (1)  (1) Naam of firmanaam.  </sup> lid der  
+AFFIDAVIT De ondergeteekende<sup> (1) (1) Naam of firmanaam. </sup>  lid der 
 
 | --- |
 |:---|
-| Bedrijfsgroep Handelsbanken  |
-| ________________________________________________________  |
-| Vereeniging voor den Effectenhandel (Bedrijfsgroep Effectenhandel)  |
+|Bedrijfsgroep Handelsbanken |
+|________________________________________________________ |
+|Vereeniging voor den Effectenhandel (Bedrijfsgroep Effectenhandel) |
 
-verklaart hiermede, dat de navolgende coupons en dividendbewijzen toebehooren aan personen, woonachtig of gevestigd in ............... en dat deze coupons of dividendbewijzen, onderscheidenlijk de stukken waarvan zij afkomstig zijn, op 20 October 1944 niet toebehoorden aan een vijandelijken staat in den zin van art. 1 sub 5 van het Besluit Vijandelijk Vermogen (K.B.E 133) noch aan een vijandelijk onderdaan in de zin van art. 2 sub 1, 2 en 3 van voormeld besluit . <sup> (2)  Volgens art. 1 sub 5, van het Besluit Vijandelijk Vermogen (K.B.E. 133) worden verstaan onder vijandelijke staten: Duitschland, Italië, Japan en de staten, die door ons voor de toepassing van dit Besluit met vijandelijke staten gelijk worden gesteld; onder vijandelijke staten worden mede begrepen: derzelver regeeringen, departementen van openbaar bestuur, provincies, gemeenten, lichamen en instellingen zoo in den vorm van rechtspersonen als anderszins, belast met eenigerlei bestuurlijke functie.   Artikel 2, sub 1, 2 en 3 van voormeld Besluit luidt:   Voor de toepassing van bij of krachtens dit Besluit uitgevaardigde bepalingen worden vijandelijke onderdanen aangemerkt:    1.  ambtenaren, beambten, agenten, vertegenwoordigers en gemachtigden van een vijandelijken staat, zoomede personen, die als zoodanig te eeniger tijd tusschen den tienden Mei 1940 en den dag van het inwerking treden van dit Besluit zijn opgetreden;    2.  natuurlijke personen, die onderdanen zijn of te eeniger tijd na den tienden Mei 1940 zijn geweest van een vijandelijke staat;    3.  rechtspersonen:    a)  die opgericht zijn of bestaan krachtens of beheerscht worden door het recht van een vijandelijken staat;    b)  wier maatschappelijken zetel, plaats van vestiging of hoofdkantoor gelegen is of te eeniger tijd na den tienden Mei 1940 gelegen was in vijandelijk gebied, of    c)  wier eigenlijke zaak of hoofdbedrijf gevestigd is of te eeniger tijd na den tienden Mei 1940 was in vijandelijk gebied.      </sup>  
+verklaart hiermede, dat de navolgende coupons en dividendbewijzen toebehooren aan personen, woonachtig of gevestigd in ............... en dat deze coupons of dividendbewijzen, onderscheidenlijk de stukken waarvan zij afkomstig zijn, op 20 October 1944 niet toebehoorden aan een vijandelijken staat in den zin van art. 1 sub 5 van het Besluit Vijandelijk Vermogen (K.B.E 133) noch aan een vijandelijk onderdaan in de zin van art. 2 sub 1, 2 en 3 van voormeld besluit<sup> (2) Volgens art. 1 sub 5, van het Besluit Vijandelijk Vermogen (K.B.E. 133) worden verstaan onder vijandelijke staten: Duitschland, Italië, Japan en de staten, die door ons voor de toepassing van dit Besluit met vijandelijke staten gelijk worden gesteld; onder vijandelijke staten worden mede begrepen: derzelver regeeringen, departementen van openbaar bestuur, provincies, gemeenten, lichamen en instellingen zoo in den vorm van rechtspersonen als anderszins, belast met eenigerlei bestuurlijke functie. Artikel 2, sub 1, 2 en 3 van voormeld Besluit luidt:  Voor de toepassing van bij of krachtens dit Besluit uitgevaardigde bepalingen worden vijandelijke onderdanen aangemerkt:    1. ambtenaren, beambten, agenten, vertegenwoordigers en gemachtigden van een vijandelijken staat, zoomede personen, die als zoodanig te eeniger tijd tusschen den tienden Mei 1940 en den dag van het inwerking treden van dit Besluit zijn opgetreden;    2. natuurlijke personen, die onderdanen zijn of te eeniger tijd na den tienden Mei 1940 zijn geweest van een vijandelijke staat;    3. rechtspersonen:   a) die opgericht zijn of bestaan krachtens of beheerscht worden door het recht van een vijandelijken staat;    b) wier maatschappelijken zetel, plaats van vestiging of hoofdkantoor gelegen is of te eeniger tijd na den tienden Mei 1940 gelegen was in vijandelijk gebied, of    c) wier eigenlijke zaak of hoofdbedrijf gevestigd is of te eeniger tijd na den tienden Mei 1940 was in vijandelijk gebied.      </sup>.  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -128,25 +128,25 @@ verklaart hiermede, dat de navolgende coupons en dividendbewijzen toebehooren aa
 
 ....................................................., ..................................................... 194...   
 
-### ANNEXE  4  
+### ANNEXE   4  
 
 ####Envoi à l'encaissement aux Pays-Bas de coupons échus
 
 ###AFFIDAVIT
 
-Le soussigné (nom et adresse) ........................................................................................... banque beige agréée-agent de change autorisé par l'I.B.L.C. à effectuer avec l'étranger certaines opérations sur titres et coupons déclare que: <sup> (1)  Biffer la mention inutile.  </sup> les  
+Le soussigné (nom et adresse) ........................................................................................... banque beige agréée-agent de change autorisé par l'I.B.L.C. à effectuer avec l'étranger certaines opérations sur titres et coupons<sup> (1) Biffer la mention inutile. </sup> déclare que: les   
 
 | --- |
 |:---|
 | coupons ci-dessous indiqués sont détachés de titres qui  |
-| _______________________________________________  |
+|_______________________________________________ |
 | titres énumérés ci-dessous  |
 
-sont la propriété de ............................................................................. de nationalité: résidant <sup> (2)  Adresse complète  </sup> et que les titres dont question ci-dessus 
+sont la propriété de ............................................................................. de nationalité: résidant<sup> (2) Adresse complète </sup>  et que les titres dont question ci-dessus 
 
 1) n'appartenaient pas au 3 septembre 1944 à une personne considérée comme ennemie par la réglementation beige en la matière;  
 
-2) ont été déclarés àla Nederlandsche Effectenregistratie sur formule portant le no. .................... ........................................................, le ............................................... 194... Signature de la banque agréée ou de l'agent de change autorisé.     
+2) ont été déclarés à la Nederlandsche Effectenregistratie sur formule portant le no. .................... ........................................................, le ............................................... 194... Signature de la banque agréée ou de l'agent de change autorisé.     
 
 ### ANNEXE  5  
 
@@ -154,13 +154,13 @@ sont la propriété de .........................................................
 
 ###AFFIDAVIT
 
-Le soussigné (nom et adresse) ............................................................................ banque belge agréée-agent de change autorisé par l'I.B.L.C. à effectuer avec l'étranger certaines opérations sur titres et coupons déclare que les titres énumérés ci-dessous: <sup> (1)  Biffer la mention inutile.  </sup> 
+Le soussigné (nom et adresse) ............................................................................ banque belge agréée-agent de change autorisé par l'I.B.L.C. à effectuer avec l'étranger certaines opérations sur titres et coupons<sup> (1) Biffer la mention inutile. </sup> déclare que les titres énumérés ci-dessous: 
 
 I 
 
 a) ont appartenu d'une manière ininterrompue depuis le 10 mai 1940 au propriétaire actuel (nom, adresse, et nationalité) .........................................................................................................  
 
-b) ont été acquis par le propriétaire actuel (nom, adresse et nationalité) ........................................................................................après le 10 mai 1940 en vertu de l'autorisation no. ................ en date du .............................. délivrée par le Nederlandsch Deviezeninstituut, Amsterdam/ La Haye, ou par la Nederlandsche Bank N.V. Amsterdam, et lui ont appartenu sans interruption depuis cette date.  
+b) ont été acquis par le propriétaire actuel (nom, adresse et nationalité) ........................................................................................après le 10 mai 1940 en vertu de l'autorisation no. ................ en date du .............................. délivrée par le Nederlandsch Deviezeninstituut, Amsterdam/ La Haye, ou par la Nederlandsche Bank N.V. Amsterdam, et lui ont appartenu sans interruption depuis cette date.   
 
 c) on été acquis par le propriétaire actuel ( nom, adresse et nationalité) ....................................................................................... après le 10 mai 1940 sans autorisation du Nederlandsch Deviezeninstitutt, Amsterdam/La Haye, ou de la Nederlandsche Bank N.V. Amsterdam, et ont appartenu depuis le 10 mai 1940 successivement aux personnes suivantes: (nom, adresse à la date de l'acquisition des titres, nationalité, date de l'acquisition et de l'aliénation).    
 
