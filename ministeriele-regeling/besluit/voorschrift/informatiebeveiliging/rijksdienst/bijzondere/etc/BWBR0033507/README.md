@@ -12,21 +12,21 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *Bijzondere informatie:* informatie waar kennisname door niet geautoriseerden nadelige gevolgen kan hebben voor de belangen van de Staat, van zijn bondgenoten of van één of meer ministeries;  
+a.  *Bijzondere informatie:* informatie waar kennisname door niet geautoriseerden nadelige gevolgen kan hebben voor de belangen van de Staat, van zijn bondgenoten of van één of meer ministeries;  
 
-b. *Compromittering:* kennisname dan wel mogelijkheid tot kennisname van bijzondere informatie door niet geautoriseerden;  
+b.  *Compromittering:* kennisname dan wel mogelijkheid tot kennisname van bijzondere informatie door niet geautoriseerden;  
 
-c. *Rubriceren:* bepalen van het rubriceringsniveau en -duur van de bijzondere informatie op basis van de te verwachten nadelige gevolgen voor de belangen van de Staat, van zijn bondgenoten of van één of meer ministeries als (een deel van) deze informatie bekend wordt bij niet geautoriseerden;  
+c.  *Rubriceren:* bepalen van het rubriceringsniveau en -duur van de bijzondere informatie op basis van de te verwachten nadelige gevolgen voor de belangen van de Staat, van zijn bondgenoten of van één of meer ministeries als (een deel van) deze informatie bekend wordt bij niet geautoriseerden;  
 
-d. *Rubriceringsniveau:* aanduiding van de verwachte nadelige gevolgen aan de belangen van de Staat, van zijn bondgenoten of van één of meer ministeries als (een deel van) de informatie bekend wordt bij niet geautoriseerden;  
+d.  *Rubriceringsniveau:* aanduiding van de verwachte nadelige gevolgen aan de belangen van de Staat, van zijn bondgenoten of van één of meer ministeries als (een deel van) de informatie bekend wordt bij niet geautoriseerden;  
 
-e. *Rubriceringsambtenaar:* ambtenaar bevoegd tot het vaststellen van rubriceringen, hiertoe aangewezen door de secretaris-generaal;  
+e.  *Rubriceringsambtenaar:* ambtenaar bevoegd tot het vaststellen van rubriceringen, hiertoe aangewezen door de secretaris-generaal;  
 
-f. *Vaststeller van de rubricering:* minister, staatssecretaris, secretaris-generaal of een door de secretaris-generaal aangewezen rubriceringsambtenaar;  
+f.  *Vaststeller van de rubricering:* minister, staatssecretaris, secretaris-generaal of een door de secretaris-generaal aangewezen rubriceringsambtenaar;  
 
-g. *Rijksdienst:* alle organisatieonderdelen waarvoor de ministeriële verantwoordelijkheid onverkort geldt.  
+g.  *Rijksdienst:* alle organisatieonderdelen waarvoor de ministeriële verantwoordelijkheid onverkort geldt.  
 
-h. *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.    
+h.  *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.   
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ h. *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor d
 
 1.  Dit voorschrift met de bijbehorende toelichting en bijlage 1 geldt voor de Rijksdienst, waartoe gerekend worden de ministeries met de daaronder ressorterende diensten, bedrijven en instellingen.   
 2.  Op de beveiliging van bijzondere informatie zijn de bepalingen van dit voorschrift als aanvulling op het [Besluit voorschrift informatiebeveiliging rijksdienst 2007](../../../../../../../../ministeriele-regeling/besluit/voorschrift/informatiebeveiliging/rijksdienst/2007/BWBR0022141/README.md) (VIR 2007) en het Beveiligingsvoorschrift Rijk 2013 (BVR 2013) van toepassing.   
-3.  Bijzondere informatie die krachtens een internationaal verdrag of overeenkomst is verkregen, behoudt de toegekende rubricering en wordt beveiligd volgens het overeenkomstige nationale beveiligingsniveau. Voor zover voor de beveiliging van dergelijke informatie als gevolg van het verdrag of de overeenkomst afwijkende of verdergaande beveiligingsbepalingen bestaan worden deze bepalingen toegepast.   
+3.  Bijzondere informatie die krachtens een internationaal verdrag of overeenkomst is verkregen, behoudt de toegekende rubricering en wordt beveiligd volgens het overeenkomstige nationale beveiligingsniveau. Voor zover voor de beveiliging van dergelijke informatie als gevolg van het verdrag of de overeenkomst afwijkende of verdergaande beveiligingsbepalingen bestaan worden deze bepalingen toegepast.  
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ a. het ministerie informatie rubriceert;
 
 b. de secretaris-generaal vooraf toestemming verleent voor het verwerken van bijzondere informatie;  
 
-c. het ministerie toezicht uitoefent op de beveiliging van bijzondere informatie.    
+c. het ministerie toezicht uitoefent op de beveiliging van bijzondere informatie.   
 
 ### Artikel  4  
 
@@ -62,7 +62,7 @@ b. Staatsgeheim GEHEIM (afgekort Stg.G) Indien kennisname door niet geautoriseer
 c. Staatsgeheim CONFIDENTIEEL (afgekort Stg.C) Indien kennisname door niet geautoriseerden schade kan toebrengen aan een van de vitale belangen van de Staat of zijn bondgenoten  
 
 d. Departementaal VERTROUWELIJK (afgekort Dep.V.). Indien kennisname door niet geautoriseerden schade kan toebrengen aan de belangen van één of meerdere ministeries.     
-3.  De opsteller van de informatie doet een voorstel tot rubricering en brengt deze aan op de informatie. De vaststeller van de inhoud van de informatie stelt tevens de rubricering vast.   
+3.  De opsteller van de informatie doet een voorstel tot rubricering en brengt deze aan op de informatie. De vaststeller van de inhoud van de informatie stelt tevens de rubricering vast.  
 
 ### Artikel  5  
 
@@ -75,7 +75,7 @@ a. Bijzondere informatie die krachtens een internationaal verdrag of overeenkoms
 
 b. Staatsgeheimen die door de wet als zodanig zijn aangewezen.     
 3.  Uitsluitend de vaststeller van de rubricering is bevoegd de rubricering te herzien of te beëindigen.   
-4.  Bij overbrenging van bijzondere informatie naar een rijksarchiefbewaarplaats als bedoeld in de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) vervalt de rubricering, tenzij de zorgdrager, na advies van de algemene rijksarchivaris, bepaalt dat deze gehandhaafd dan wel herzien moet worden.   
+4.  Bij overbrenging van bijzondere informatie naar een rijksarchiefbewaarplaats als bedoeld in de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) vervalt de rubricering, tenzij de zorgdrager, na advies van de algemene rijksarchivaris, bepaalt dat deze gehandhaafd dan wel herzien moet worden.  
 
 ### Artikel  6  
 
@@ -87,14 +87,14 @@ a. alleen personen die daartoe zijn geautoriseerd deze kunnen behandelen of inzi
 
 b. dat inbreuken op de beveiliging worden gedetecteerd en gedegen onderzoek naar (mogelijke) inbreuken mogelijk is.     
 2.  De beveiliging is ingericht op basis van risicomanagement.   
-3.  Bijzondere informatie die krachtens een internationaal verdrag of een internationale overeenkomst is verkregen wordt uitsluitend verwerkt nadat de autoriteit, die krachtens het betreffende verdrag verantwoordelijk is voor de beveiligingsregels ter bescherming van bijzondere informatie, haar goedkeuring aan de beveiliging heeft gegeven.   
+3.  Bijzondere informatie die krachtens een internationaal verdrag of een internationale overeenkomst is verkregen wordt uitsluitend verwerkt nadat de autoriteit, die krachtens het betreffende verdrag verantwoordelijk is voor de beveiligingsregels ter bescherming van bijzondere informatie, haar goedkeuring aan de beveiliging heeft gegeven.  
 
 ### Artikel  7  
 
 ####Buiten de rijksdienst brengen van bijzondere informatie
 
 1.  Bij het buiten de rijksdienst brengen van bijzondere informatie, anders dan op grond van een wettelijke verplichting tot openbaarmaking, blijven de eisen aan de beveiliging en het toezicht daarop onverkort van kracht.   
-2.  Bijzondere informatie die krachtens een internationaal verdrag of een internationale overeenkomst is verkregen wordt uitsluitend na voorafgaande toestemming van het land of de internationale organisatie van herkomst doorgegeven aan externe partijen.   
+2.  Bijzondere informatie die krachtens een internationaal verdrag of een internationale overeenkomst is verkregen wordt uitsluitend na voorafgaande toestemming van het land of de internationale organisatie van herkomst doorgegeven aan externe partijen.  
 
 ### Artikel  8  
 
@@ -103,7 +103,7 @@ b. dat inbreuken op de beveiliging worden gedetecteerd en gedegen onderzoek naar
 1.  Elke ambtenaar is verplicht de Beveiligingsambtenaar (BVA) onmiddellijk mededeling te doen van een inbreuk op de beveiliging die redelijkerwijs kan leiden, dan wel vermoedelijk of vaststaand heeft geleid, tot compromittering van bijzondere informatie.   
 2.  De BVA laat, nadat hij op de hoogte is gebracht van een inbreuk op de beveiliging, onmiddellijk (nood)maatregelen treffen om verdere inbreuk te voorkomen.   
 3.  De BVA onderzoekt of compromittering van bijzondere informatie heeft plaatsgevonden; indien dit het geval is doet hij hiervan mededeling aan de secretaris-generaal en adviseert over de noodzaak tot het instellen van een commissie van onderzoek.   
-4.  Indien de compromittering betrekking heeft op bijzondere informatie die is verkregen van een ander ministerie of krachtens internationaal verdrag of overeenkomst, doet de BVA bovendien mededeling aan dat betreffende ministerie of de krachtens het verdrag of de overeenkomst voor de beveiliging van die bijzondere informatie verantwoordelijke instantie.   
+4.  Indien de compromittering betrekking heeft op bijzondere informatie die is verkregen van een ander ministerie of krachtens internationaal verdrag of overeenkomst, doet de BVA bovendien mededeling aan dat betreffende ministerie of de krachtens het verdrag of de overeenkomst voor de beveiliging van die bijzondere informatie verantwoordelijke instantie.  
 
 ### Artikel  9  
 
@@ -119,7 +119,7 @@ b. de aard en de omvang van de schade aan de belangen van de Staat of zijn bondg
 c. de te nemen maatregelen om de schade te beperken en herhaling te voorkomen.     
 3.  De commissie voert, indien de gecompromitteerde bijzondere informatie (mede) afkomstig is van een ander ministerie, haar onderzoek uit in overleg met de BVA van dat ministerie. In het geval dat de gecompromitteerde bijzondere informatie krachtens een internationaal verdrag of overeenkomst is verkregen voert de commissie haar onderzoek uit in samenwerking met de instantie die krachtens het verdrag of de overeenkomst verantwoordelijk is voor de beveiliging ervan.   
 4.  De secretaris-generaal of een door hem aangewezen ambtenaar treft, op basis van de bevindingen van de commissie van onderzoek, maatregelen om de schade die de compromittering heeft toegebracht aan de veiligheid of andere gewichtige belangen van de Staat of zijn bondgenoten te beperken en herhaling van de compromittering te voorkomen.   
-5.  Indien het de compromittering van een staatsgeheim betreft stelt de secretaris-generaal het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst in kennis van de uitkomsten van het onderzoek. Bij het ministerie van Defensie wordt de Militaire Inlichtingen- en Veiligheidsdienst op de hoogte gesteld van de uitkomsten van het onderzoek.   
+5.  Indien het de compromittering van een staatsgeheim betreft stelt de secretaris-generaal het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst in kennis van de uitkomsten van het onderzoek. Bij het ministerie van Defensie wordt de Militaire Inlichtingen- en Veiligheidsdienst op de hoogte gesteld van de uitkomsten van het onderzoek.  
 
 ### Artikel  10  
 
@@ -129,11 +129,11 @@ c. de te nemen maatregelen om de schade te beperken en herhaling te voorkomen.
 2.  Rubriceringen die zijn vastgesteld vóór inwerkingtreding van dit voorschrift worden uiterlijk tien jaar na vaststelling door de vaststeller onderzocht op de mogelijkheid om de rubricering te herzien of te beëindigen.   
 3.  Dit besluit en de daarbij behorende bijlagen treden in werking met ingang van 1 juni 2013.   
 4.  Dit besluit wordt aangehaald als: Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013 (VIRBI 2013).   
-5.  Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. Van de ter inzage legging van de bij dit besluit behorende bijlagen zal mededeling worden gedaan in de Staatscourant.   
+5.  Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. Van de ter inzage legging van de bij dit besluit behorende bijlagen zal mededeling worden gedaan in de Staatscourant.  
 
 De 
-Minister-President, Minister van Algemene Zaken,
-M.Rutte  
+Minister-President, Minister van Algemene Zaken, 
+M. Rutte    
 
 ### Bijlage  1  
 
@@ -155,7 +155,7 @@ Deze bijlage beschrijft de uitgangspunten en het minimum beveiligingsniveau voor
 
 ####Doelstelling
 
-Het handhaven van een adequaat, ordelijk en controleerbaar beheer van bedrijfsmiddelen waarop bijzondere informatie wordt verwekt.  
+Het handhaven van een adequaat, ordelijk en controleerbaar beheer van bedrijfsmiddelen waarop bijzondere informatie wordt verwekt. 
 
 ####Eis
 
@@ -172,7 +172,7 @@ Bedrijfsmiddelen waarop bijzondere informatie wordt verwerkt, dienen te zijn ger
 
 ####Doelstelling
 
-Organisaties moeten zekerstellen dat personen hun verantwoordelijkheden kennen en geschikt zijn voor de rol die zij vervullen evenals het beperken van de risico's van menselijk handelen.  
+Organisaties moeten zekerstellen dat personen hun verantwoordelijkheden kennen en geschikt zijn voor de rol die zij vervullen evenals het beperken van de risico's van menselijk handelen. 
 
 ####Eis
 
@@ -181,10 +181,10 @@ Elk persoon die frequent gaat werken met bijzondere informatie, dient voorafgaan
 |--- | Dep.V  | Stg.C  | Stg.G  | Stg.ZG  |
 |:---|:---|:---|:---|:---|
 | A  |  *Maatregel*   Personen die hebben te maken met bijzondere informatie, dienen een geheimhoudingsverklaring te ondertekenen. Hierbij wordt tevens vastgelegd dat na beëindiging van de functie, de betreffende persoon gehouden blijft aan die geheimhouding.  |  *V*   |  *V*   |  *V*   |  *V*   |
-| B  |  *Maatregel*   Personen die frequent hebben te maken met bijzondere informatie dienen tevens te beschikken over een passende verklaring.  | VOG <sup>1</sup>  | VGB <sup>2</sup>  | VGB <sup>2</sup>  | VGB <sup>2</sup>  |
+| B  |  *Maatregel*   Personen die frequent hebben te maken met bijzondere informatie dienen tevens te beschikken over een passende verklaring.  | VOG<sup>1</sup>   | VGB<sup>2</sup>   | VGB<sup>2</sup>   | VGB<sup>2</sup>   |
 | C  |  *Maatregel*   Bij beëindiging van een functie waarbij iemand in aanraking komt met bijzondere informatie wordt zeker gesteld dat de betreffende persoon geen toegang meer heeft tot die informatie, noch deze in zijn / haar bezit heeft.  |  *V*   |  *V*   |  *V*   |  *V*   |
 
-<sup>1</sup> Verklaring omtrent het gedrag <sup>2</sup> Verklaring van geen bezwaar conform de Wet op de veiligheidsonderzoeken  
+<sup>1</sup> Verklaring omtrent het gedrag<sup>2</sup> Verklaring van geen bezwaar conform de Wet op de veiligheidsonderzoeken
 
 ### 3  
 
@@ -192,7 +192,7 @@ Elk persoon die frequent gaat werken met bijzondere informatie, dient voorafgaan
 
 ####Doelstelling
 
-Het waarborgen van toereikende weerstand tegen (pogingen tot) ongeautoriseerde fysieke toegang van locaties, gebouwen en ruimtes (waaronder kluizen) waar zich bijzondere informatie bevindt.  
+Het waarborgen van toereikende weerstand tegen (pogingen tot) ongeautoriseerde fysieke toegang van locaties, gebouwen en ruimtes (waaronder kluizen) waar zich bijzondere informatie bevindt. 
 
 ####Eis
 
@@ -210,14 +210,14 @@ Voor elke locatie, gebouw en ruimte waar zich bijzondere informatie bevindt, die
 
 |--- |--- | Dep.V  | Stg.C  | Stg.G  | Stg.ZG  |
 |:---|:---|:---|:---|:---|:---|
-| A  |  *Maatregel*   Bijzondere informatie wordt zodanig behandeld en opgeslagen dat er een positief beveiligingsrendement <sup>1</sup> is, op basis van schadeacceptatie en het dreigingsprofiel.  |  *V*   |  *V*   |  *V*   |  *V*   |
+| A  |  *Maatregel*   Bijzondere informatie wordt zodanig behandeld en opgeslagen dat er een positief beveiligingsrendement<sup>1</sup> is, op basis van schadeacceptatie en het dreigingsprofiel.  |  *V*   |  *V*   |  *V*   |  *V*   |
 | B  |  *Maatregel*   Tempestmaatregelen conform Beleidsadvies Compromitterende straling (VBV 32000).  | --- |  *V*   |  *V*   |  *V*   |
 | C  |  *Maatregel*   Tegengaan van afluisteren, zicht op en reflectie van informatie (bv via beeldschermen of spiegelende oppervlakten).  | --- |  *V*   |  *V*   |  *V*   |
 | D  |  *Maatregel*   De medewerker verantwoordelijk voor de verwerking van bijzondere informatie, dient zorg te dragen dat bezoekers geen kennis kunnen nemen van de bijzondere informatie die hij onder zijn beheer heeft.  |  *V*   |  *V*   |  *V*   |  *V*   |
 | E  |  *Maatregel*   Bezoekers worden begeleid wanneer zij ruimten waarin bijzondere informatie aanwezig is, betreden.  | --- |  *V*   |  *V*   |  *V*   |
 | F  |  *Maatregel*   Bezoekers worden geregistreerd indien zij toegang (kunnen) hebben tot bijzondere informatie in ruimten die zij betreden, als de toegang tot die informatie niet op andere wijze kan worden voorkomen (bv kast/kluis/etc.).  | --- | --- |  *V*   |  *V*   |
 
-<sup>1</sup> Zie hiervoor toelichting artikel 3 onder b.  
+<sup>1</sup> Zie hiervoor toelichting artikel 3 onder b.
 
 ### 4  
 
@@ -225,7 +225,7 @@ Voor elke locatie, gebouw en ruimte waar zich bijzondere informatie bevindt, die
 
 ####Doelstelling
 
-Het waarborgen van een beheerste en gecontroleerde toegang tot ICT-voorzieningen waarin zich bijzondere informatie bevindt.  
+Het waarborgen van een beheerste en gecontroleerde toegang tot ICT-voorzieningen waarin zich bijzondere informatie bevindt. 
 
 ####Eisen
 
@@ -243,7 +243,7 @@ Voorzie in procedures en regels voor toegangsrechten tot en monitoring van netwe
 
 ####Doelstelling
 
-Het waarborgen van een passend niveau van beveiliging gedurende de gehele levenscyclus van ICT-voorzieningen waarin bijzondere informatie wordt verwerkt.  
+Het waarborgen van een passend niveau van beveiliging gedurende de gehele levenscyclus van ICT-voorzieningen waarin bijzondere informatie wordt verwerkt. 
 
 ####Eis
 
@@ -262,7 +262,7 @@ Voorafgaand aan verwerving, ontwikkeling, onderhoud en afstoot van informatiesys
 
 ####Doelstelling
 
-Het waarborgen van een wederzijds verenigbaar beveiligingsniveau voor de vertrouwelijkheid van bijzondere informatie.  
+Het waarborgen van een wederzijds verenigbaar beveiligingsniveau voor de vertrouwelijkheid van bijzondere informatie. 
 
 ####Eisen
 
