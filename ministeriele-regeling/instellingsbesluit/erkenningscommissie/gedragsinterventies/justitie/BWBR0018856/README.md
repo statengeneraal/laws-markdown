@@ -24,7 +24,7 @@ De Commissie heeft tot taak te beoordelen of gedragsinterventies (kunnen) leiden
 
 1.  De Commissie heeft een voorzitter en ten hoogste dertien overige leden.   
 2.  De voorzitter en de overige leden worden, de Commissie gehoord, door de Minister benoemd.   
-3.  De benoeming geschiedt voor een periode van ten hoogste drie jaren. Herbenoeming kan eenmaal en voor ten hoogste drie jaren aansluitend plaatsvinden.   
+3.  De benoeming geschiedt voor een periode van ten hoogste vier jaren. Herbenoeming kan eenmaal en voor ten hoogste vier jaren aansluitend plaatsvinden.   
 4.  In afwijking van het derde lid kan de Minister een lid voor een tweede maal aansluitend herbenoemen voor een periode van ten hoogste twee jaren indien dat wenselijk is voor de continuïteit en kwaliteit van de werkzaamheden van de Commissie.   
 
 ### Artikel  5  

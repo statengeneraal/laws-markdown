@@ -77,7 +77,7 @@ c. het geven van uitvoeringsvoorschriften ter zake van de regionale meld- en co�
 
 ####Toepassing [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md)
 
-De [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is van toepassing op de hoofdstukken 2 en 3 van deze regeling.  
+De [Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) is van toepassing op de hoofdstukken 2, 2A en 3 van deze regeling.  
 
 ### Hoofdstuk  2  
 
@@ -155,7 +155,7 @@ Het deel van de subsidie dat bestemd is voor beheers- en coördinatiekosten van 
 ####Besteding van de subsidie
 
 1.  De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt. Eventuele niet-bestede middelen of overschotten kunnen na afloop van de looptijd van de subsidie worden teruggevorderd.   
-2.  In afwijking van het eerste lid kan subsidie die niet wordt aangewend voor de maatregelen als bedoeld in artikel 6, tweede en derde lid, worden besteed aan andere maatregelen van het regionaal programma, bedoeld in artikel 6, eerste lid.   
+2.  In afwijking van het eerste lid kan subsidie die niet wordt aangewend voor de maatregelen als bedoeld in artikel 6, tweede en derde lid, worden besteed aan andere maatregelen van het regionaal programma, bedoeld in artikel 6, eerste lid. Voorts kan subsidie die niet wordt aangewend voor de maatregel als bedoeld in artikel 6, eerste lid, worden besteed aan andere maatregelen van het regionaal programma als bedoeld in artikel 6, derde lid.   
 3.  In afwijking van het eerste lid wordt subsidie voor de RMC-regio’s Utrecht, Agglomeratie Amsterdam, Haaglanden/Westland en Rijnmond die niet wordt aangewend voor de plusvoorzieningen bedoeld in artikel 6, derde lid, besteed aan de maatregel bedoeld in artikel 6, tweede lid. Het niet aangewende deel van de subsidie voor de maatregelen bedoeld in artikel 6, derde en tweede lid wordt besteed aan andere maatregelen van het regionaal programma, bedoeld in artikel 6, eerste lid.   
 4.  De contactschool motiveert de keuze van de maatregelen, bedoeld in het tweede en derde lid, in het formulier, bedoeld in artikel 6, vijfde lid.   
 5.  De subsidie wordt uiterlijk in 2015 besteed.   
@@ -297,6 +297,73 @@ Het subsidieplafond op grond van deze paragraaf bedraagt € 30.400.000,– per
 
 1.  De plusvoorziening wordt zodanig ingericht dat de leerlingen voor wie de plusvoorziening is bedoeld, hiervan optimaal kunnen profiteren.   
 2.  De inrichting van de plusvoorziening is gericht op continuïteit en structurele borging van de voorziening na afloop van het studiejaar 2014–2015.   
+
+### Hoofdstuk  2a  
+
+####Experimenteel onderzoek vsv
+
+### Artikel  23a  
+
+####Begripsbepalingen
+
+In dit hoofdstuk wordt onder een onderwijsinstelling niet verstaan een school voor voortgezet onderwijs, als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+
+### Artikel  23b  
+
+####Experimenteel onderzoek vsv
+
+1.  De minister kan aan ten hoogste vijf onderwijsinstellingen een subsidie verstrekken ter uitvoering van experimenteel onderzoek in het kader van het voortijdig schoolverlatersbeleid.   
+2.  Voorwaarden voor subsidieverstrekking op grond van het eerste lid zijn in ieder geval: 
+
+a. het experiment betreft een maatregel op het gebied van één van de volgende thema’s: intake, verzuimbeleid, loopbaanoriëntatie en -begeleiding, geïntegreerde overgang vmbo-mbo of plusvoorziening;  
+
+b. het experiment betreft een nieuw in te richten variant op één van de thema’s, bedoeld in onderdeel a, die niet eerder is uitgevoerd op de betrokken onderwijsinstelling(en) of in de betrokken RMC-regio;  
+
+c. het experiment omvat een experimentele groep en een controlegroep waarbij de toedeling van deelnemers plaatsvindt door middel van loting;  
+
+d. de experimentele groep en de controlegroep dienen van voldoende omvang te zijn om statistisch significante effecten te kunnen waarnemen;  
+
+e. de variant, bedoeld in onderdeel b, wordt zodanig ingericht dat de uitkomsten overdraagbaar zijn aan andere onderwijsinstellingen;  
+
+f. de inrichting en uitvoering van het experiment wordt begeleid door het Centraal Planbureau.     
+
+### Artikel  23c  
+
+####Subsidieaanvraag, tijdstip indiening aanvraag, beslissing en betaling
+
+1.  Een aanvraag voor subsidie wordt ingediend door inzending van een volledig ingevuld formulier, dat als bijlage D bij deze regeling is opgenomen.   
+2.  Het bevoegd gezag van een onderwijsinstelling dient de subsidieaanvraag voor de kalenderjaren 2013 tot en met 2015 uiterlijk op 1 november 2012 in bij Dienst Uitvoering Onderwijs. Aanvragen die na deze datum worden ingediend, worden afgewezen.   
+3.  De minister beslist uiterlijk op 18 december 2012 op de aanvraag, bedoeld in het eerste lid.   
+4.  De betaling van het subsidiebedrag vindt jaarlijks plaats in de maand december.   
+
+### Artikel  23d  
+
+####Subsidieplafond
+
+1.  Het totale subsidiebedrag voor de vijf experimenten bedraagt € 750.000,–.   
+2.  Voor subsidieverlening op grond van dit hoofdstuk is jaarlijks per experiment een bedrag van € 50.000,– beschikbaar.   
+
+### Artikel  23e  
+
+####Besteding van de subsidie
+
+De subsidie kan ook worden besteed aan andere activiteiten dan waarvoor zij wordt verstrekt, zoals bedoeld in [artikel 13, eerste lid, van de Regeling OCW-subsidies](../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md).  
+
+### Artikel  23f  
+
+####Wijze van verdeling beschikbare middelen
+
+1.  De minister voorziet in een gelijktijdige beslissing op subsidieaanvragen die voldoen aan de subsidievoorwaarden, bedoeld in artikel 23b, tweede lid.   
+2.  Indien meer dan vijf voorstellen worden ingediend die voldoen aan de subsidievoorwaarden, bedoeld in artikel 23b, tweede lid, dan zal de beoordelingscommissie de voorstellen rangschikken, op basis van een aantal criteria, zodanig het subsidieplafond niet wordt overschreden.   
+3.  De criteria, bedoeld in het tweede lid, luiden als volgt: 
+
+a. verdeling thema’s;  
+
+b. verwachte effectiviteit;  
+
+c. opschaalbaarheid en kennisdeling;  
+
+d. risico-inventarisatie en haalbaarheid.     
 
 ### Hoofdstuk  3  
 
@@ -503,7 +570,9 @@ De vaststelling van de RMC-regio’s geschiedt conform bijlage C bij deze regeli
 
 ####Intrekking regeling
 
-De [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) en de [Tijdelijk subsidieregeling plusvoorzieningen overbelaste jongeren](../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/plusvoorzieningen/overbelaste/jongeren/BWBR0026422/README.md) worden ingetrokken, met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven.  
+1.  De [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) en de [Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren](../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/plusvoorzieningen/overbelaste/jongeren/BWBR0026422/README.md) worden ingetrokken, met dien verstande dat bestaande aanspraken en verplichtingen, op grond of in het kader van de onderhavige regeling, in stand blijven.   
+2.  De [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) zoals luidend op 31 juli 2012 blijft voorts van toepassing voor het toekennen, het betalen, het verantwoorden en het vaststellen van de subsidie voor het kalenderjaar 2013.   
+3.  In afwijking van de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs blijft [bijlage G van de Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md) zoals luidend op 31 juli 2012 voorts van toepassing voor het kalenderjaar 2013.   
 
 ### Artikel  39  
 
@@ -1069,7 +1138,7 @@ c. *die* - *het onderwijs aan de school gedurende een aaneengesloten periode van
 
 2) minimum *opleidingsgrens*: Het niveau van de startkwalificatie is gedefinieerd als een diploma op tenminste niveau 2 van de kwalificatiestructuur secundair beroepsonderwijs (dit kan bereikt worden via de beroepsbegeleidende of de beroepsopleidende leerweg), dan wel niveau havo of vwo. Er is evenmin sprake van een voortijdig schoolverlater in geval van uitstroom uit het onderwijs met een diploma op een hoger gelegen niveau. Hoewel jongeren met een *getuigschrift praktijkonderwijs of een diploma assistent-opleiding* (niveau 1) niet aan de voornoemde opleidingsgrens (van het in algemene zin wenselijk geachte niveau 2 of hoger) van de startkwalificatie voldoen, worden zij *niet* gerekend tot de groep voortijdig schoolverlaters *mits zij een plek op de arbeidsmarkt hebben.* Deze individuele uitstromers moeten *wel* worden gemeld en na aanvullende actie om te bepalen of ze wel of niet aan het werk zijn *wel* worden geregistreerd. Jongeren die het praktijkonderwijs zonder getuigschrift of een assistent-opleiding zonder diploma verlaten en zich niet meer inschrijven voor een andere opleiding worden uiteraard *wel* gerekend tot voortijdig schoolverlaters en dienen te worden meegeteld bij de relevante tabellen: voor deze jongeren is ook nadere actie geboden.  
 
-3) geen inschrijving bij een onderwijsinstelling: Voortijdig schoolverlater = voortijdig onderwijsverlater Een voortijdig schoolverlater is feitelijk een voortijdig onderwijsverlater: na de uitschrijving is geen sprake van een nieuwe inschrijving bij een onderwijsinstelling. Leerlingen die bijvoorbeeld na het behalen van een vmbo- of mavo-diploma zich niet meer inschrijven voor een vervolg-opleiding, worden gerekend tot de groep voortijdig schoolverlaters. Ook zij, die zonder de gedefinieerde minimumstartkwalificatie worden uitgeschreven bij een onderwijsinstelling en gaan werken zonder gelijktijdig een opleiding te volgen, vallen dus onder deze categorie.  
+3) geen inschrijving bij een onderwijsinstelling: Voortijdig schoolverlater = voortijdig onderwijsverlater Een voortijdig schoolverlater is feitelijk een voortijdig onderwijsverlater: na de uitschrijving is geen sprake van een nieuwe inschrijving bij een onderwijsinstelling. Leerlingen die bijvoorbeeld na het behalen van een vmbo- of mavo-diploma zich niet meer inschrijven voor een vervolgopleiding, worden gerekend tot de groep voortijdig schoolverlaters. Ook zij, die zonder de gedefinieerde minimumstartkwalificatie worden uitgeschreven bij een onderwijsinstelling en gaan werken zonder gelijktijdig een opleiding te volgen, vallen dus onder deze categorie.  
 
 4) of wel een inschrijving, maar langdurig afwezig als een ingeschreven leerling gedurende een aaneengesloten periode van tenminste 1 maand het onderwijs niet meer volgt. Er is geen sprake van voortijdig schoolverlaten in geval van overstap: 
 
@@ -1186,7 +1255,7 @@ Hoogeveen, Meppel, Westerveld, De Wolden.
 
 ### Regio  10:  
 
-####Ijssel-vecht
+####IJssel-vecht
 
 Dalfsen, Hardenberg, Hattem, Heerde, Kampen, Ommen, Raalte, Staphorst, Steenwijkerland, Zwartewaterland, Zwolle.  
 
@@ -1344,7 +1413,7 @@ Dongen, Gilze en Rijen, Goirle, Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg,
 
 ####Noord-Oost-Brabant
 
-Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Lith, Maasdonk, Mill en St.Hubert, Oss, Schijndel, St. Anthonis, St. Michielsgestel, St. Oedenrode, Uden, Veghel, Vught.  
+Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Maasdonk, Mill en St. Hubert, Oss, Schijndel, St. Anthonis, St. Michielsgestel, St. Oedenrode, Uden, Veghel, Vught.  
 
 ### Regio  37:  
 
@@ -1356,11 +1425,192 @@ Asten, Bergeyk, Best, Bladel, Cranendonck, Deurne, Eersel, Eindhoven, Geldrop-Mi
 
 ####Gewest Limburg-Noord
 
-Beesel, Bergen, Gennep, Horst aan de Maas, Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert.  
+Beesel, Bergen, Echt-Susteren, Gennep, Horst aan de Maas, Leudal, Maasgouw, Nederweert, Peel en Maas, Roerdalen, Roermond, Venlo, Venray, Weert.  
 
 ### Regio  39:  
 
 ####Gewest Zuid-Limburg
 
-Beek, Brunssum, Eijsden-Margraten, Echt-Susteren, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.  
+Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal.  
+
+### Bijlage  D  
+
+####behorende bij artikel 23c  van de Regeling regionale aanpak vsv en prestatiesubsidie voor het voortgezet onderwijs
+
+####Aanvraagformulier subsidie experimenteel onderzoek VSV
+
+*Contactgegevens*   
+
+| --- | --- |
+|:---|:---|
+| 1. Contactgegevens aanvragende mbo-instelling  |
+| Naam mbo-instelling  | --- |
+| BRIN-nummer  | --- |
+| Naam RMC-regio  | --- |
+| Correspondentieadres mbo-instelling  | --- |
+| Naam bevoegd persoon van de mbo-instelling  | --- |
+| Naam contactpersoon  | --- |
+| Functie contactpersoon  | --- |
+| E-mailadres contactpersoon  | --- |
+| Telefoonnummer contactpersoon  | --- |
+
+| --- | --- |
+|:---|:---|
+| 2a. Contactgegevens overige aan het experiment deelnemende onderwijsinstellingen (indien van toepassing)  |
+| Naam instelling  | --- |
+| RMC-regio  | --- |
+| BRIN-nummer  | --- |
+| Naam contactpersoon  | --- |
+
+| --- | --- |
+|:---|:---|
+| 2b. Contactgegevens overige aan het experiment deelnemende onderwijsinstellingen (indien van toepassing)  |
+| Naam instelling  | --- |
+| RMC-regio  | --- |
+| BRIN-nummer  | --- |
+| Naam contactpersoon  | --- |
+
+| --- | --- |
+|:---|:---|
+| 2c. Contactgegevens overige aan het experiment deelnemende onderwijsinstellingen (indien van toepassing)  |
+| Naam instelling  | --- |
+| RMC-regio  | --- |
+| BRIN-nummer  | --- |
+| Naam contactpersoon  | --- |
+
+####Het experiment
+
+3. Welke thema betreft het experiment waarvoor u subsidie aanvraagt?  *Kruis het antwoord aan dat van toepassing is. U kunt slechts één thema kiezen.*  
+
+□ Plusvoorziening  
+
+□ Loopbaanoriëntatie- en begeleiding  
+
+□ Geïntegreerde overgang vmbo-mbo  
+
+□ Intake  
+
+□ Verzuimbeleid    
+
+4. Wat is het experiment waarvoor u subsidie aanvraagt?  *Beschrijf kort de nieuw in te richten variant.*   
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+| --- |
+| --- |
+
+5a. Wat is het beleid dat nu op dit thema wordt uitgevoerd? In hoeverre wijkt de nieuw in te richten variant waar de experimentgroep mee te maken krijgt af van het beleid waarmee de controlegroep te maken krijgt?  
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+| --- |
+| --- |
+
+5b. Op welke manier heeft u geverifieerd dat de nieuw in te richten variant niet eerder is uitgevoerd in de betrokken RMC-regio?  
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+| --- |
+| --- |
+
+6. Wat zijn de beoogde activiteiten en tijdsplanning van de nieuwe variant?  *Zet de activiteiten en tijdsplanning per activiteit in onderstaand schema. Beschrijf bij de uitvoeringsfase ook de activiteiten die u (bij gebleken succes) gaat uitvoeren voor het verspreiden van kennis en ervaringen met de variant, het overdragen van (onderdelen van) de variant aan andere onderwijsinstellingen en structurele toepassing van de variant.*   *Fase 1 (voorbereidingsfase),* periode ...... t/m ..........: 
+
+| WAT  | WANNEER  |--- | RESULTAAT  | WIE  |
+|:---|:---|:---|:---|:---|
+| activiteit 1 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
+| activiteit 2 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
+| activiteit 3  (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
+
+Etc.  *Fase 2 (Uitvoeringsfase),* periode ...... t/m ..........: 
+
+| WAT  | WANNEER  |--- | RESULTAAT  | WIE  |
+|:---|:---|:---|:---|:---|
+| activiteit 1 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
+| activiteit 2 (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
+| activiteit 3  (korte beschrijving geven)  | van ... tot ....  | eventueel tussenresultaat  | eindresultaat  | door wie:  |
+
+Etc.  
+
+7a. Wat is de verwachte omvang van de experimentgroep en de controlegroep?  
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+| --- |
+| --- |
+
+7b. Geef een globale beschrijving (leeftijdscategorie, opleidingsniveau, etc.) van de groep die deelneemt aan het experiment.  
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+| --- |
+| --- |
+
+8. Wat zijn mogelijke risico’s ten aanzien van de haalbaarheid van (onderdelen van) de variant en het onderzoek? *Beschrijf eventuele maatregelen om deze risico’s te beheersen.*  
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+| --- |
+| --- |
+
+9. Geef aan waarom de voorgestelde variant naar verwachting effectief zal zijn.  *Beschrijf de steun uit (buitenlands) wetenschappelijk onderzoek of vanuit praktijkervaring. Geef tevens de verhouding aan tussen de verwachte kosten van de variant en de te verwachten inhoudelijke opbrengsten?*   
+
+| --- |
+|:---|
+| --- |
+| --- |
+| --- |
+| --- |
+| --- |
+
+10. Beschrijf waarom de variant, of onderdelen daarvan, overdraagbaar is naar andere onderwijsinstellingen. *Beschrijf tevens de mogelijkheden om de variant structureel (zonder overheidsfinanciering) toe te passen in het onderwijs.*  
+
+11. Het experiment wordt begeleid door het Centraal Planbureau. Om te kunnen garanderen dat het experiment op een wetenschappelijke manier wordt uitgevoerd, dient aan een aantal voorwaarden te worden voldaan. U dient bereid te zijn om: 
+
+a. een algemeen coördinator aan te stellen die dient als aanspreekpunt voor de onderzoekers, toeziet op de juiste uitvoering van het experiment en verantwoordelijk is voor het verzamelen van de benodigde gegevens voor de onderzoekers.  
+
+b. de deelnemers door middel van loting toe te laten wijzen aan de experimentele of controlegroep.  
+
+c. de loting te laten uitvoeren door het Centraal Planbureau.  
+
+d. de voortgang van het experiment jaarlijks te laten evalueren door het Centraal Planbureau.  
+
+e. de details van de uitvoering van het experiment tijdens de voorbereiding en naar aanleiding van de eerste tussenresultaten aan te passen op verzoek van het Centraal Planbureau.  
+
+f. diverse gegevens (zoals geslacht, leeftijd, opleidingsniveau en etnische achtergrond) van de deelnemers te leveren met waarborging van de privacy.  
+
+g. vragenlijsten voor te leggen aan de deelnemers van de experiment- en controlegroep. Hierbij hoort ook een cognitieve vaardigheden test.  
+
+h. gesprekken te organiseren tussen het Centraal Planbureau, personeel en deelnemers van de experiment- en controlegroep. Bent u bereid om aan alle voorwaarden (a t/m h) te voldoen? 
+
+□ Ja  
+
+□ Nee        
+
+####Ondertekening
+
+| Naam bevoegd persoon van de mbo- instelling  |--- |
+|:---|:---|
+| Plaats  | --- |
+| Datum  | --- |
+| Handtekening  | --- |
+
+Dit aanvraagformulier kunt u digitaal invullen via www.duo.nl/zakelijk en vervolgens printen ter ondertekening. U dient dit aanvraagformulier uiterlijk 1 november 2012 zowel schriftelijk (in enkelvoud) als digitaal in te dienen op het volgende adres: DUO Afdeling MUO Postbus 606 2700 ML Zoetermeer De digitale versie kunt u mailen naar: muo@duo.nl.  
 

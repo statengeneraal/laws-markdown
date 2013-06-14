@@ -105,14 +105,14 @@ E.M.J.Ploumen
 
 ### Bijlage  
 
-####behorende bij de Regeling goederen voor tweeërlei gebruik Syrië
+####behorende bij artikelen 2  en 3  van de Regeling goederen voor tweeërlei gebruik Syrië
 
-Deel A 
+####Deel A
 
 | Nr.  | SG-post  | Stof  | CAS-registratienummer  |
 |:---|:---|:---|:---|
-| 1  | 1c95001  | amandelzuur  | 90-64-2  |
-| 2  | 1c95002  | ammonia  | 7664-41-7  |
+| 1  | 1c95001  | Amandelzuur  | 90-64-2  |
+| 2  | 1c95002  | Ammonia  | 7664-41-7  |
 | 3  | 1c95003  | aceton  | 67-64-1  |
 | 4  | 1c95004  | acetyleen  | 74-86-2  |
 | 5  | 1c95005  | antimoon  | 7440-36-0  |
@@ -125,7 +125,7 @@ Deel A
 | 12  | 1c95012  | chloor  | 7782-50-5  |
 | 13  | 1c95013  | cyclohexanol  | 108-93-0  |
 | 14  | 1c95014  | dicyclohexylamine  | 101-83-7  |
-| 15  | 1c95015  | ethanol  | 2348-46-1  |
+| 15  | 1c95015  | ethanol  | 64-17-5  |
 | 16  | 1c95016  | ethyleen  | 74-85-1  |
 | 17  | 1c95017  | fluorapatiet  | 1306-05-4  |
 | 18  | 1c95018  | isopropanol  | 67-63-0  |
@@ -137,23 +137,26 @@ Deel A
 | 24  | 1c95024  | methyljodide  | 74-88-4  |
 | 25  | 1c95025  | methylmercaptaan  | 74-93-1  |
 | 26  | 1c95026  | natriumhypochloriet  | 7681-52-9  |
-| 27  | 1c95027  | oxalchloride  | 79-37-8  |
+| 27  | 1c95027  | oxalylchloride  | 79-37-8  |
 | 28  | 1c95028  | tri-isobutylfosfiet  | 1606-96-8  |
 | 29  | 1c95029  | waterstofchloride  | 7647-01-0  |
 | 30  | 1c95030  | zwavel  | 7704-34-9  |
 | 31  | 1c95031  | zwaveldioxide  | 7446-09-5  |
+| 32  | 1c95032  | monoethyleenglycol (MEG)  | 107-21-1  |
 
-####Algemene noten bij Deel A van de bijlage
+####ALGEMENE NOTEN BIJ DEEL A VAN DE BIJLAGE
 
 1. Indien de hierboven genoemde stoffen onderdeel van een mengsel zijn, geldt dat zij alleen onder deze regeling vallen als hun concentratie groter dan 90% is.  
 
-2. De stoffen zijn vermeld met naam en CAS-nummer. Onder de lijst vallen stoffen met dezelfde structuurformule (inclusief hydraten), ongeacht naam of CAS-nummer. De CAS-nummers zijn vermeld om een bepaalde stof of een bepaald mengsel gemakkelijker te kunnen identificeren, ongeacht de nomenclatuur. CAS-nummers kunnen niet als eenduidige identificatienummers worden gebruikt, omdat sommige vormen van de op de lijst vermelde stoffen andere CAS-nummers hebben, en ook mengsels die een op de lijst voorkomende stof bevatten, andere CAS-nummers kunnen hebben.    Deel B 
+2. De stoffen zijn vermeld met naam en CAS-nummer. Onder de lijst vallen stoffen met dezelfde structuurformule (inclusief hydraten), ongeacht naam of CAS-nummer. De CAS-nummers zijn vermeld om een bepaalde stof of een bepaald mengsel gemakkelijker te kunnen identificeren, ongeacht de nomenclatuur. CAS-nummers kunnen niet als eenduidige identificatienummers worden gebruikt, omdat sommige vormen van de op de lijst vermelde stoffen andere CAS-nummers hebben, en ook mengsels die een op de lijst voorkomende stof bevatten, andere CAS-nummers kunnen hebben.    
 
-| --- | --- |
-|:---|:---|
-| 32  | Laboratoriumapparatuur voor het analyseren, destructief of niet-destructief, of het detecteren van stoffen, inclusief onderdelen en toebehoren voor deze apparatuur.  |
+####Deel B
 
-####Algemene noten bij Deel B van de bijlage
+| Nr.  | SG-post  | Test-, inspectie- en productieapparatuur  |
+|:---|:---|:---|
+| 33  | 1b95001  | Laboratoriumapparatuur voor het analyseren, destructief of niet-destructief, of het detecteren van stoffen, inclusief onderdelen en toebehoren voor deze apparatuur.  |
+
+####ALGEMENE NOTEN BIJ DEEL B VAN DE BIJLAGE
 
 1. Met goederen worden in deze bijlage zowel nieuwe als gebruikte goederen bedoeld.    
 
