@@ -458,7 +458,9 @@ b. een wezenlijke toename van het aantal geluidgehinderden bij toetsing op bouwp
 
 ### Afdeling  2A  
 
-####De aanleg, wijziging of verbreding van een hoofdweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
+####De aanleg, wijziging of verbreding van een hoofdweg in de zin van artikel 8 van de Tracéwet
+
+Vervallen per 01-07-2012   
 
 ### Afdeling  3  
 
@@ -471,7 +473,7 @@ b. een wezenlijke toename van het aantal geluidgehinderden bij toetsing op bouwp
 
 ### Artikel  89  
 
-1.  Burgemeester en wethouders of indien toepassing wordt gegeven aan artikel 98 burgemeester en wethouders of de wegaanlegger stellen uitsluitend ten aanzien van de woningen die op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007 aan Onze Minister zijn gemeld, met inachtneming van de regels, gegeven krachtens het tweede lid, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege de weg, van de gevels van de op grond van artikel 88, zoals dat luidde voor 1 januari 2007 gemelde woningen zoveel mogelijk te beperken tot 48 dB en om zo nodig te voldoen aan artikel 111b, tweede lid.   
+1.  Burgemeester en wethouders of indien toepassing wordt gegeven aan artikel 98 burgemeester en wethouders of de wegaanlegger stellen uitsluitend ten aanzien van de woningen die op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007 aan Onze Minister zijn gemeld, met inachtneming van de regels, gegeven krachtens het tweede lid, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege de weg, van de gevels van de op grond van artikel 88, zoals dat luidde voor 1 januari 2007 gemelde woningen zoveel mogelijk te beperken tot 48 dB en om zo nodig te voldoen aan artikel 111b, derde lid.   
 2.  Met betrekking tot gevallen als bedoeld in het eerste lid worden bij of krachtens algemene maatregel van bestuur regels gegeven omtrent de aard van de maatregelen die in aanmerking komen, en de omstandigheden waaronder dit het geval is, alsmede omtrent de opzet en het tijdstip van vaststelling van een programma.   
 
 ### Artikel  90  
@@ -555,6 +557,8 @@ b. artikel 100a.
 
 ####Wijze van uitvoering onderzoek
 
+Vervallen per 01-01-2007   
+
 ### Afdeling  6  
 
 ####Andere geluidsgevoelige gebouwen en terreinen
@@ -616,6 +620,8 @@ In het belang van het voorkomen of beperken van geluid- of trillinghinder, veroo
 ### Afdeling  2  
 
 ####De aanleg of wijziging van een landelijke spoorweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
+
+Vervallen per 01-07-2012   
 
 ### Afdeling  3  
 
@@ -788,21 +794,31 @@ c. de wijze waarop burgemeester en wethouders aan de rechthebbende mededeling do
 
 ####Geluidsbelastingkaarten en actieplannen
 
+Vervallen per 01-07-2012   
+
 ### §  1  
 
 ####Algemeen
+
+Vervallen per 01-07-2012   
 
 ### §  2  
 
 ####Geluidsbelastingkaarten
 
+Vervallen per 01-07-2012   
+
 ### §  3  
 
 ####Actieplannen
 
+Vervallen per 01-07-2012   
+
 ### §  4  
 
 ####Inlichtingen in verband met het opstellen van geluidsbelastingkaarten door een andere lidstaat van de Europese Unie
+
+Vervallen per 01-07-2012   
 
 ### Hoofdstuk  X  
 
@@ -876,16 +892,12 @@ Bij een algemene maatregel van bestuur als bedoeld in artikel 108 worden regels 
 
 ### Hoofdstuk  XII  
 
-####Beroep op de administratieve rechter
+####Beroep bij de bestuursrechter
 
 ### Artikel  145  
 
 1.  Indien het besluit in de zin van artikel 110a, eerste lid, wordt genomen door burgemeester en wethouders en gepaard gaat met de vaststelling van een bestemmingsplan vangt, in afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de termijn voor het indienen van een beroepschrift tegen dat besluit aan met ingang van de dag waarop beroep kan worden ingesteld tegen het besluit tot vaststelling van het bestemmingsplan. Indien niet binnen die termijn is beslist, vangt de beroepstermijn aan met ingang van de dag na die waarop de termijn is verstreken.   
 2.  Indien het besluit in de zin van artikel 110a, eerste lid, wordt genomen door burgemeester en wethouders en gepaard gaat met een besluit overeenkomstig artikel 81, vangt in afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de termijn voor het indienen van een beroepschrift tegen dat besluit aan met ingang van de dag waarop beroep kan worden ingesteld tegen het besluit overeenkomstig artikel 81.   
-
-### Artikel  146  
-
-Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
 
 ### Hoofdstuk  XIII  
 
@@ -904,13 +916,19 @@ Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van
 
 ####Coördinerende taak van de provincie
 
+Vervallen per 01-01-2007   
+
 ### §  3  
 
 ####Provinciale geluidhinderdiensten
 
+Vervallen per 01-01-2007   
+
 ### §  4  
 
 ####Gemeentelijke diensten
+
+Vervallen per 01-01-2007   
 
 ### Hoofdstuk  XIV  
 
