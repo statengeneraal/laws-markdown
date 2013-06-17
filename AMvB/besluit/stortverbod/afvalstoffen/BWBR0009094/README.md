@@ -25,8 +25,8 @@ Hebben goedgevonden en verstaan:
 | 2.  | afvalstoffen, aangewezen in de bijlage bij beschikking nr. 2000/532/EG van de Commissie van de Europese Gemeenschappen van 3 mei 2000 tot vervanging van Beschikking 94/3/EG houdende vaststelling van een lijst van afvalstoffen overeenkomstig artikel 1, onder a), van Richtlijn 75/442/EEG van de Raad van de Europese Gemeenschappen betreffende afvalstoffen en Beschikking 94/904/EG van de Raad van de Europese Unie tot vaststelling van een lijst van gevaarlijke afvalstoffen overeenkomstig artikel 1, lid 4, van Richtlijn 91/689/EEG van de Raad van de Europese Gemeenschappen betreffende gevaarlijke afvalstoffen (PbEG 2000, L 226/3) met een van de afvalstoffencodes 18 01 01, 18 01 02, 18 01 03*, 18 01 04, 18 01 06*, 18 01 07, 18 01 08*, 18 01 09, 18 01 10*, 18 02 01, 18 02 02*, 18 02 03, 18 02 05*, 18 02 07*, 18 02 08, 20 01 31* of 20 01 32;  |
 | 3.  | afvalstoffen die ontplofbaar, corrosief, oxiderend, licht ontvlambaar of ontvlambaar zijn, zoals omschreven in bijlage III bij de Kaderrichtlijn afvalstoffen;  |
 | 4.  | niet-geïdentificeerde of nieuwe chemische stoffen die afkomstig zijn van onderzoek, ontwikkelingsactiviteiten of onderwijs en waarvan de effecten op de volksgezondheid of het milieu niet bekend zijn;  |
-| 5.  |  
-dit onderdeel is nog niet in werking getreden;   |
+| 5.  | 
+dit onderdeel is nog niet in werking getreden;  |
 | 6.  | voorwerpen en preparaten die gereguleerde stoffen of nieuwe stoffen bevatten als bedoeld in Verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende ozonlaagafbrekende stoffen (PbEU 2009, L 286/1) of gefluoreerde broeikasgassen bevatten als bedoeld in Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen (PbEU 2006, L 161/1);  |
 | 7.  | gasontladingslampen of onderdelen daarvan, met uitzondering van niet-herbruikbaar fluorescentiepoeder dat overblijft na het ontkwikken;  |
 | 8.  | oliefilters;  |
@@ -40,8 +40,8 @@ dit onderdeel is nog niet in werking getreden;   |
 | --- | b.  | deelstromen of residuen, afkomstig van de handmatige en mechanische verwerking van stromen restafval als bedoeld onder a;  |
 | 16.  | a.  | grof huishoudelijk restafval;  |
 | --- | b.  | deelstromen of residuen van de handmatige en mechanische verwerking van grof huishoudelijk afval;  |
-| 17.  | a.  | slib van riolen, kolken of gemalen, met uitzondering van riool-, kolken- of gemalenslib dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar is;  |
-| --- | b.  | veegvuil, met uitzondering van veegvuil dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar is;  |
+| 17.  | a.  | slib van riolen, kolken of gemalen, met uitzondering van riool-, kolken- of gemalenslib dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
+| --- | b.  | veegvuil, met uitzondering van veegvuil dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring van Onze Minister als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
 | --- | c.  | marktafval;  |
 | --- | d.  | drijfafval;  |
 | 18.  | a.  | groente-, fruit- en tuinafval;  |
@@ -52,8 +52,8 @@ dit onderdeel is nog niet in werking getreden;   |
 | 21.  | slib, afkomstig van installaties voor het biologisch reinigen van afvalwater;  |
 | 22.  | reststoffen van de drinkwaterbereiding;  |
 | 23.  | a.  | AVI-bodemas;  |
-| --- | b.  |  
-dit onderdeel is nog niet in werking getreden;   |
+| --- | b.  | 
+dit onderdeel is nog niet in werking getreden;  |
 | 24.  | reststoffen van slibverbranding;  |
 | 25.  | reststoffen van kolengestookte energiecentrales;  |
 | 26.  | a.  | zuurteer dat vrijkomt bij de petrochemische industrie;  |
@@ -63,11 +63,11 @@ dit onderdeel is nog niet in werking getreden;   |
 | 28.  | oxykalkslik;  |
 | 29.  | a.  | gemengd bouw- en sloopafval, met uitzondering van partijen waarvan de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, meer bedraagt dan 100 mg/ kg droge stof;  |
 | --- | b.  | deelstromen of residuen van de handmatige en mechanische verwerking van de stromen van afval, bedoeld onder a, met uitzondering van partijen waarvan de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, meer bedraagt dan 100 mg/kg droge stof;  |
-| 30.  | zeefzand, met uitzondering van zeefzand dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar is;  |
-| 31.  | grond, met uitzondering van grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), die bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar is;  |
+| 30.  | zeefzand, met uitzondering van zeefzand dat als grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan worden gekwalificeerd en bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
+| 31.  | grond, met uitzondering van grond, bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), die bij de stortplaats wordt aangeboden onder overlegging van een verklaring als bedoeld in de ministeriële regeling op grond van [artikel 28a Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat de grond niet reinigbaar en niet koud-immobiliseerbaar is;  |
 | 32.  | straalgrit, met uitzondering van straalgrit dat krachtens artikel 9  is aangewezen als niet reinigbaar;  |
-| 33.  |  
-dit onderdeel is nog niet in werking getreden;   |
+| 33.  | 
+dit onderdeel is nog niet in werking getreden;  |
 | 34.  | a.  | steenachtige materialen, met uitzondering van cellenbeton;  |
 | --- | b.  | asfalt dat als teerhoudend wordt aangemerkt vanwege het bevatten van een hoger gehalte PAK’s dan de maximale samenstellingswaarde voor PAK’s in bouwstoffen, bedoeld in [bijlage A, tabel 2, van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md);  |
 | 35.  | gips;  |
@@ -90,49 +90,49 @@ dit onderdeel is nog niet in werking getreden;   |
 | --- | b.  | glasvezelkabels;  |
 | 45.  | elektrische en elektronische apparatuur, bedoeld in artikel 1, eerste lid, onder d, van het Besluit beheer elektrische en elektronische apparatuur.  |
 
-2.  Een wijziging van de bijlage bij beschikking nr. 2000/532/EG of van bijlage III bij de Kaderrichtlijn afvalstoffen gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
+2.  Een wijziging van de bijlage bij beschikking nr. 2000/532/EG of van bijlage III bij de Kaderrichtlijn afvalstoffen gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan die wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
 
 ### Artikel  2  
 
-In dit besluit en de daarop berustende regels wordt verstaan onder stortplaats hetgeen daaronder wordt verstaan in [artikel 8.47, eerste lid, onder a, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+In dit besluit en de daarop berustende regels wordt verstaan onder stortplaats hetgeen daaronder wordt verstaan in [artikel 8.47, eerste lid, onder a, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
 
 ### Artikel  3  
 
 1.  Het is verboden afvalstoffen als bedoeld in artikel 1, eerste lid, anders dan voor het opslaan, op of in de bodem te brengen in inrichtingen als bedoeld in categorie 28.1, onder d, van [bijlage I, onderdeel C, bij het Besluit omgevingsrecht](../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md).   
-2.  Het eerste lid is niet van toepassing op afvalstoffen die worden toegepast overeenkomstig het [Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).   
+2.  Het eerste lid is niet van toepassing op afvalstoffen die worden toegepast overeenkomstig het [Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).  
 
 ### Artikel  4  
 
 1.  Gedeputeerde staten kunnen aan een omgevingsvergunning voor een stortplaats het voorschrift verbinden dat voor daarbij aangewezen afvalstoffen het in artikel 1, eerste lid, bedoelde verbod niet geldt indien die afvalstoffen zijn aangewezen krachtens artikel 5, dan wel indien daarvoor een verklaring geldt als bedoeld in artikel 6.   
 2.  In een voorschrift als bedoeld in het eerste lid, bepaalt gedeputeerde staten tevens dat door toepassing van dat voorschrift geen strijd mag ontstaan met het ingevolge artikel 11f bepaalde.   
-3.  Het eerste lid is niet van toepassing op de categorieën van afvalstoffen, genoemd in artikel 1, eerste lid, onder 1 tot en met 14.   
+3.  Het eerste lid is niet van toepassing op de categorieën van afvalstoffen, genoemd in artikel 1, eerste lid, onder 1 tot en met 14.  
 
 ### Artikel  5  
 
-Bij regeling van Onze Minister kunnen categorieën van afvalstoffen, genoemd in artikel 1, eerste lid, categorie 15 en volgende, of delen van die categorieën worden aangewezen, waarvoor naar zijn oordeel in Nederland geen andere wijze van afvalbeheer mogelijk is dan storten.  
+Bij regeling van Onze Minister kunnen categorieën van afvalstoffen, genoemd in artikel 1, eerste lid, categorie 15 en volgende, of delen van die categorieën worden aangewezen, waarvoor naar zijn oordeel in Nederland geen andere wijze van afvalbeheer mogelijk is dan storten. 
 
 ### Artikel  6  
 
 1.  Op verzoek van degene die een stortplaats drijft, kunnen gedeputeerde staten verklaren dat er naar hun oordeel in Nederland geen andere wijze van afvalbeheer mogelijk is dan storten voor in artikel 1, eerste lid, categorie 15 en volgende, genoemde afvalstoffen of voor een deel van een zodanige categorie.   
 2.  In de verklaring nemen gedeputeerde staten op dat de verklaring geldt zolang de omstandigheden voor toepassing van het eerste lid aanwezig zijn, nog gevolgd door een overgangsperiode van tien werkdagen.   
 3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek om een verklaring als bedoeld in het eerste lid.   
-4.  Van een verklaring als bedoeld in het eerste lid, doen gedeputeerde staten zo spoedig mogelijk mededeling aan Onze Minister.   
+4.  Van een verklaring als bedoeld in het eerste lid, doen gedeputeerde staten zo spoedig mogelijk mededeling aan Onze Minister.  
 
 ### Artikel  7  
 
-Bij regeling van Onze Minister worden regels gesteld omtrent de gegevens die worden verstrekt aan gedeputeerde staten bij een verzoek als bedoeld in artikel 6, eerste lid, en omtrent de gegevens die moeten worden verstrekt aan Onze Minister na het storten van afvalstoffen overeenkomstig de regeling bedoeld in artikel 5 en met een verklaring als bedoeld in artikel 6.  
+Bij regeling van Onze Minister worden regels gesteld omtrent de gegevens die worden verstrekt aan gedeputeerde staten bij een verzoek als bedoeld in artikel 6, eerste lid, en omtrent de gegevens die moeten worden verstrekt aan Onze Minister na het storten van afvalstoffen overeenkomstig de regeling bedoeld in artikel 5 en met een verklaring als bedoeld in artikel 6. 
 
 ### Artikel  8  
 
-Het is verboden afvalstoffen te verdunnen of te vermengen om te voldoen aan de voorschriften, bedoeld in artikel 11f, eerste lid, onder c.  
+Het is verboden afvalstoffen te verdunnen of te vermengen om te voldoen aan de voorschriften, bedoeld in artikel 11f, eerste lid, onder c. 
 
 ### Artikel  9  
 
-Bij regeling van Onze Minister worden de gevallen aangewezen, waarin straalgrit niet reinigbaar is.  
+Bij regeling van Onze Minister worden de gevallen aangewezen, waarin straalgrit niet reinigbaar is. 
 
 ### Artikel  10  
 
-Voor een inrichting waarvoor een verbod als bedoeld in de artikelen 1, eerste lid, of 3, eerste lid, gaat gelden en waarin in de periode van drie maanden voorafgaand aan het tijdstip waarop dat verbod gaat gelden, handelingen plegen te worden verricht, waarop dat verbod betrekking heeft, blijft dat verbod met betrekking tot die handelingen buiten toepassing gedurende drie maanden na dat tijdstip.  
+Voor een inrichting waarvoor een verbod als bedoeld in de artikelen 1, eerste lid, of 3, eerste lid, gaat gelden en waarin in de periode van drie maanden voorafgaand aan het tijdstip waarop dat verbod gaat gelden, handelingen plegen te worden verricht, waarop dat verbod betrekking heeft, blijft dat verbod met betrekking tot die handelingen buiten toepassing gedurende drie maanden na dat tijdstip. 
 
 ### Paragraaf  2  
 
@@ -142,13 +142,13 @@ Voor een inrichting waarvoor een verbod als bedoeld in de artikelen 1, eerste li
 
 In het bepaalde bij of krachtens deze paragraaf wordt verstaan onder: 
 
-*anorganische afvalstoffen:* afvalstoffen met een organisch stofgehalte van ten hoogste tien procent;  
+*anorganische afvalstoffen:* afvalstoffen met een organisch stofgehalte van ten hoogste tien procent; 
 
-*behandeling*: fysische, thermische, chemische of biologische processen, met inbegrip van het sorteren, die de eigenschappen van de afvalstoffen zodanig veranderen dat het volume of de gevaarlijke eigenschappen worden gereduceerd, de behandeling wordt vergemakkelijkt of de nuttige toepassing wordt bevorderd;  
+*behandeling*: fysische, thermische, chemische of biologische processen, met inbegrip van het sorteren, die de eigenschappen van de afvalstoffen zodanig veranderen dat het volume of de gevaarlijke eigenschappen worden gereduceerd, de behandeling wordt vergemakkelijkt of de nuttige toepassing wordt bevorderd; 
 
-*biologisch afbreekbare afvalstoffen*: afvalstoffen die aëroob of anaëroob kunnen worden afgebroken;  
+*biologisch afbreekbare afvalstoffen*: afvalstoffen die aëroob of anaëroob kunnen worden afgebroken; 
 
-*cel:* stortvak of een deel daarvan met een bepaalde hoogte;  
+*cel:* stortvak of een deel daarvan met een bepaalde hoogte; 
 
 *inerte afvalstoffen*: onbrandbare afvalstoffen die geen significante fysische, chemische of biologische veranderingen ondergaan;  
 
@@ -166,7 +166,7 @@ In het bepaalde bij of krachtens deze paragraaf wordt verstaan onder:
 
 *stabiele, niet-reactieve gevaarlijke afvalstoffen:* gevaarlijke afvalstoffen waarvan het uitlooggedrag onder normale omstandigheden niet in ongunstige zin verandert;  
 
-*vergunning:* een omgevingsvergunning voor een inrichting.    
+*vergunning:* een omgevingsvergunning voor een inrichting.  
 
 ### Artikel  11c  
 
@@ -204,18 +204,18 @@ d. maatregelen voor het voorkomen of beperken van overlast en risico's ten gevol
 a. voorschriften, inhoudende dat de omheining zodanig is dat vrije toegang tot de stortplaats niet mogelijk is, en  
 
 b. voorschriften, inhoudende een controle- en toegangssysteem dat bestaat uit een programma van maatregelen om illegaal storten van afvalstoffen op de stortplaats op te sporen of tegen te gaan.     
-3.  Voorts verbindt het bevoegd gezag aan een zodanige vergunning voorschriften, inhoudende dat ten minste eenmaal per jaar aan het bevoegd gezag verslag wordt uitgebracht over de soorten en hoeveelheden afvalstoffen die op de stortplaats zijn gestort.   
+3.  Voorts verbindt het bevoegd gezag aan een zodanige vergunning voorschriften, inhoudende dat ten minste eenmaal per jaar aan het bevoegd gezag verslag wordt uitgebracht over de soorten en hoeveelheden afvalstoffen die op de stortplaats zijn gestort.  
 
 ### Artikel  11d  
 
-Het bevoegd gezag kan bij het verlenen of wijzigen van een vergunning afwijken van de voorschriften die in de bijlage bij dit besluit zijn opgenomen, voor zover dit uitdrukkelijk in die bijlage is vermeld.  
+Het bevoegd gezag kan bij het verlenen of wijzigen van een vergunning afwijken van de voorschriften die in de bijlage bij dit besluit zijn opgenomen, voor zover dit uitdrukkelijk in die bijlage is vermeld. 
 
 ### Artikel  11e  
 
 1.  Het bevoegd gezag verbindt aan een vergunning voor een inrichting voor de opslag van afvalstoffen het voorschrift dat opslag van afvalstoffen is toegestaan voor een termijn van ten hoogste één jaar.   
-2.  Indien de vergunninghouder ten genoegen van het bevoegd gezag aantoont dat de opslag van afvalstoffen gevolgd wordt door nuttige toepassing van afvalstoffen, kan het bevoegd gezag, in afwijking van het eerste lid, aan een zodanige vergunning het voorschrift verbinden dat de opslag van afvalstoffen is toegestaan voor een termijn van ten hoogste drie jaar.   
-3.  Het bevoegd gezag kan, in afwijking van het eerste en tweede lid, aan een vergunning voor een inrichting voor de opslag in oppervlaktewater van baggerspecie niet zijnde een gevaarlijke afvalstof als bedoeld in de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) het voorschrift verbinden dat de opslag is toegestaan voor een termijn van ten hoogste tien jaar.   
-4.  In afwijking van het eerste en tweede lid gelden met betrekking tot de bij voorschrift aan een vergunning, voor de opslag van metallisch kwik, te verbinden termijnen de daarover bij of krachtens verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75) gestelde regels.   
+2.  Indien de vergunninghouder ten genoegen van het bevoegd gezag aantoont dat de opslag van afvalstoffen gevolgd wordt door nuttige toepassing van afvalstoffen, kan het bevoegd gezag, in afwijking van het eerste lid, aan een zodanige vergunning het voorschrift verbinden dat de opslag van afvalstoffen is toegestaan voor een termijn van ten hoogste drie jaar.  
+3. Het bevoegd gezag kan, in afwijking van het eerste en tweede lid, aan een vergunning voor een inrichting voor de opslag in oppervlaktewater van baggerspecie niet zijnde een gevaarlijke afvalstof als bedoeld in de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) het voorschrift verbinden dat de opslag is toegestaan voor een termijn van ten hoogste tien jaar. 
+4.  In afwijking van het eerste en tweede lid gelden met betrekking tot de bij voorschrift aan een vergunning, voor de opslag van metallisch kwik, te verbinden termijnen de daarover bij of krachtens verordening (EG) nr. 1102/2008 van het Europees Parlement en de Raad van 22 oktober 2008 inzake het verbod op de uitvoer van metallisch kwik en andere kwikverbindingen en -mengsels en de veilige opslag van metallisch kwik (PbEU L 304/75) gestelde regels. 
 
 ### Artikel  11f  
 
@@ -247,7 +247,7 @@ a. bewaart de in het eerste lid, onder c, bedoelde omschrijving gedurende vijf j
 b. stelt het bevoegd gezag onverwijld in kennis van een weigering om afvalstoffen te accepteren, waarbij melding wordt gemaakt van de naam van degene van wie de afvalstoffen afkomstig zijn en van de aard van de afvalstoffen.     
 5.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de acceptatie van gevaarlijke, anorganische, monolithische afvalstoffen. Bij de regeling, bedoeld in de eerste volzin, worden tevens regels gesteld met betrekking tot de wijze van storten van zodanige afvalstoffen.   
 6.  Het verbod, bedoeld in het eerste lid, aanhef en onder c, onder 3°, geldt niet voor metallisch kwik met een kwikgehalte hoger dan 99,9 gewichtsprocent.   
-7.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de aanvaardingsprocedures voor en de wijze van de tijdelijke opslag van metallisch kwik op stortplaatsen als bedoeld in artikel 11c, eerste lid, onder a, onder 3° en 4°.   
+7.  Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de aanvaardingsprocedures voor en de wijze van de tijdelijke opslag van metallisch kwik op stortplaatsen als bedoeld in artikel 11c, eerste lid, onder a, onder 3° en 4°. 
 
 ### Artikel  11g  
 
@@ -259,7 +259,7 @@ b. hij onderwerpt de afvalstoffen aan een visuele inspectie.
 2.  De visuele inspectie, bedoeld in het eerste lid, kan plaatsvinden op de plaats van verzending van de afvalstoffen naar de stortplaats, in gevallen waarin de stortplaats deel uitmaakt van dezelfde inrichting als de inrichting waarbinnen de afvalstoffen zijn vrijgekomen.   
 3.  Het bevoegd gezag kan voorschriften aan de vergunning verbinden, inhoudende een verplichting om de afvalstoffen aan een uitgebreide inspectie te onderwerpen. Indien toepassing wordt gegeven aan de eerste volzin, worden aan de vergunning voorschriften verbonden met betrekking tot de wijze waarop, de frequentie waarmee en de plaats waar de uitgebreide inspectie moet plaatsvinden.   
 4.  De monsters die in het kader van de visuele inspectie zijn genomen, worden gedurende een periode van ten minste een maand nadat deze zijn genomen, bewaard.   
-5.  De persoon, bedoeld in het eerste lid, registreert de datum, het tijdstip en de resultaten van de visuele inspectie.   
+5.  De persoon, bedoeld in het eerste lid, registreert de datum, het tijdstip en de resultaten van de visuele inspectie.  
 
 ### Artikel  11h  
 
@@ -274,58 +274,58 @@ b. voldoen aan de ingevolge dat onderdeel van toepassing zijnde voorschriften.
 5.  Het eerste lid is niet van toepassing op afvalstoffen waarvoor ingevolge [artikel 10a, tweede lid, onder a, b, c, d, f of g, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) de in het [eerste lid van dat artikel](../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) gestelde verplichting niet geldt.   
 6.  Degene die een stortplaats drijft, bewaart de resultaten van de analyse van een monster gedurende vijf jaar nadat de analyse is uitgevoerd.   
 7.  Het is verboden te doen handelen in strijd met het derde lid.   
-8.  Dit artikel is niet van toepassing op monolithische afvalstoffen.   
+8.  Dit artikel is niet van toepassing op monolithische afvalstoffen.  
 
 ### Artikel  11i  
 
 1.  Degene die een stortplaats drijft, registreert de op de stortplaats geaccepteerde afvalstoffen.   
-2.  De registratie, bedoeld in het eerste lid, omvat ten minste een overzicht van de stortvakken en stortlagen waar afvalstoffen zijn gestort.   
+2.  De registratie, bedoeld in het eerste lid, omvat ten minste een overzicht van de stortvakken en stortlagen waar afvalstoffen zijn gestort.  
 
-### Paragraaf  3  
+###Paragraaf 3 
 
 ####Uitbreiding werkingssfeer
 
-### Artikel  11k  
+###Artikel 11k 
 
-1.  Voor de toepassing van dit artikel wordt onder radioactieve afvalstof, natuurlijke bron, activiteit en activiteitsconcentratie verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).   
-2.  Dit besluit is met uitzondering van paragraaf 1 van overeenkomstige toepassing op radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin: 
+1. Voor de toepassing van dit artikel wordt onder radioactieve afvalstof, natuurlijke bron, activiteit en activiteitsconcentratie verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md). 
+2. Dit besluit is met uitzondering van paragraaf 1 van overeenkomstige toepassing op radioactieve afvalstoffen van natuurlijke bronnen van ioniserende straling, waarin:
 
-a. de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) vermelde waarde, en  
+a.de activiteit van de betrokken natuurlijke bronnen op enig moment gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) vermelde waarde, en
 
-b. de activiteitsconcentratie van de betrokken natuurlijke bronnen gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) vermelde waarde en lager is dan tien maal deze waarde.     
-3.  Voor zover ingevolge het tweede lid dit besluit van overeenkomstige toepassing is op de in dat lid bedoelde afvalstoffen, worden die afvalstoffen, in afwijking van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor de toepassing van dit besluit en de daarop berustende bepalingen mede aangemerkt als afvalstoffen in de zin van [die wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-4.  Het is verboden afvalstoffen als bedoeld in het tweede lid te vermengen met of te voegen bij een afvalstof waarvoor ingevolge paragraaf 1 een stortverbod geldt, teneinde die afvalstof te storten.   
+b.de activiteitsconcentratie van de betrokken natuurlijke bronnen gelijk is aan of hoger is dan de in [bijlage 1, tabel 1, bij het Besluit stralingsbescherming](../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) vermelde waarde en lager is dan tien maal deze waarde. 
+3. Voor zover ingevolge het tweede lid dit besluit van overeenkomstige toepassing is op de in dat lid bedoelde afvalstoffen, worden die afvalstoffen, in afwijking van [artikel 1.1, eerste lid, van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor de toepassing van dit besluit en de daarop berustende bepalingen mede aangemerkt als afvalstoffen in de zin van [die wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+4. Het is verboden afvalstoffen als bedoeld in het tweede lid te vermengen met of te voegen bij een afvalstof waarvoor ingevolge paragraaf 1 een stortverbod geldt, teneinde die afvalstof te storten.
 
 ### Paragraaf  4  
 
 ####Overgangs- en slotbepalingen
 
-### Artikel  12  
+###Artikel 12 
 
-Na inwerkingtreding van dit besluit: 
+Na inwerkingtreding van dit besluit:
 
-a. berusten de krachtens het Besluit stortverbod afvalstoffen (Stb. 1995, 345) vastgestelde regels en andere besluiten op dit besluit;  
+a.berusten de krachtens het Besluit stortverbod afvalstoffen (Stb. 1995, 345) vastgestelde regels en andere besluiten op dit besluit;
 
-b. worden de met toepassing van het Besluit stortverbod afvalstoffen (Stb. 1995, 345) vastgestelde regels en andere besluiten gelijkgesteld met regels onderscheidenlijk besluiten, vastgesteld met toepassing van dit besluit.    
+b.worden de met toepassing van het Besluit stortverbod afvalstoffen (Stb. 1995, 345) vastgestelde regels en andere besluiten gelijkgesteld met regels onderscheidenlijk besluiten, vastgesteld met toepassing van dit besluit.
 
-### Artikel  12a  
+###Artikel 12a 
 
-Dit besluit berust mede op [artikel 32, eerste lid, van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md).  
+Dit besluit berust mede op [artikel 32, eerste lid, van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md).
 
-### Artikel  14  
+###Artikel 14 
 
-1.  Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van artikel 1, eerste lid, categorieën 11, 13, 17, 18, 23 en 25, artikel 2, onderdeel b, artikel 6, tweede lid, en artikel 9; deze artikelen of onderdelen daarvan treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Artikel 2, onder a, vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.   
+1. Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst met uitzondering van artikel 1, eerste lid, categorieën 11, 13, 17, 18, 23 en 25, artikel 2, onderdeel b, artikel 6, tweede lid, en artikel 9; deze artikelen of onderdelen daarvan treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+2. Artikel 2, onder a, vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-### Artikel  15  
+###Artikel 15 
 
-Dit besluit wordt aangehaald als: Besluit stortplaatsen en stortverboden afvalstoffen.  
+Dit besluit wordt aangehaald als: Besluit stortplaatsen en stortverboden afvalstoffen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 8 december 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer a.i., 
 A. Jorritsma-Lebbink   
@@ -333,9 +333,9 @@ A. Jorritsma-Lebbink
 de *achttiende* december 1997 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     
 
-### Bijlage  
+### Bijlage 
 
 ####, behorend bij de artikelen 11d  en 11f, eerste lid, onder c , van het Besluit stortplaatsen en stortverboden afvalstoffen
 
@@ -349,7 +349,7 @@ Op een stortplaats voor inerte afvalstoffen mogen slechts worden geaccepteerd:
 
 a. afvalstoffen die voldoen aan een in de in tabel 1.1 opgenomen beschrijving en aan de daarbij aangegeven restricties;  
 
-b. andere afvalstoffen dan bedoeld onder a, waarvan de waarden van de parameters, genoemd in de tabellen 1.2 en 1.3, gelijk zijn aan of kleiner zijn dan de bij die parameters aangegeven waarden.    
+b. andere afvalstoffen dan bedoeld onder a, waarvan de waarden van de parameters, genoemd in de tabellen 1.2 en 1.3, gelijk zijn aan of kleiner zijn dan de bij die parameters aangegeven waarden.   
 
 ### Voorschrift  1.2  
 
@@ -398,7 +398,7 @@ b. andere afvalstoffen dan bedoeld onder a, waarvan de waarden van de parameters
 | Opgeloste organische koolstof (DOC)**  | 500  |
 | Totaal opgeloste vaste stoffen (TDS)***  | 4.000  |
 
-* Als de afvalstoffen niet aan deze waarde voor sulfaat voldoen, is de restrictie dat de uitloging een waarde van 1.500 mg/l uitgedrukt als C <sub>0</sub> bij L/S = 0,1 l/kg en een waarde van 6.000 mg/kg bij L/S = 10 1/kg niet overschrijdt. C <sub>0</sub> is het eerste eluaat van de kolomproef bij L/S = 0,1 l/kg. ** Als de afvalstoffen bij hun eigen pH-waarde niet aan deze waarde voor opgeloste organische koolstof (DOC) voldoen, is de restrictie dat de uitloging een waarde van 500 mg/kg niet overschrijdt bij L/S = 10 l/kg en een pH-waarde tussen 7,5 en 8,0. *** De waarden voor totaal opgeloste vaste stoffen (TDS) kunnen als alternatief voor de waarden voor sulfaat en chloride worden gebruikt.  Tabel 1.3 
+* Als de afvalstoffen niet aan deze waarde voor sulfaat voldoen, is de restrictie dat de uitloging een waarde van 1.500 mg/l uitgedrukt als C<sub>0</sub> bij L/S = 0,1 l/kg en een waarde van 6.000 mg/kg bij L/S = 10 1/kg niet overschrijdt. C<sub>0</sub> is het eerste eluaat van de kolomproef bij L/S = 0,1 l/kg. ** Als de afvalstoffen bij hun eigen pH-waarde niet aan deze waarde voor opgeloste organische koolstof (DOC) voldoen, is de restrictie dat de uitloging een waarde van 500 mg/kg niet overschrijdt bij L/S = 10 l/kg en een pH-waarde tussen 7,5 en 8,0. *** De waarden voor totaal opgeloste vaste stoffen (TDS) kunnen als alternatief voor de waarden voor sulfaat en chloride worden gebruikt. Tabel 1.3 
 
 | Parameter  | Waarde  mg/kg  |
 |:---|:---|
@@ -432,7 +432,7 @@ a. in cellen die zijn bestemd voor biologisch-afbreekbare niet-gevaarlijke afval
 
 b. in cellen die zijn bestemd voor stabiele, niet-reactieve gevaarlijke afvalstoffen: biologisch afbreekbare huishoudelijke afvalstoffen die zijn ingedeeld als ongevaarlijke afvalstoffen in hoofdstuk 20 van de Europese afvalstoffenlijst, gescheiden ingezamelde ongevaarlijke fracties van huishoudelijke afvalstoffen en dezelfde ongevaarlijke materialen van andere oorsprong;  
 
-c. in cellen die bestemd zijn voor asbesthoudende afvalstoffen als bedoeld in het eerste lid, onder d: andere afvalstoffen dan asbesthoudende afvalstoffen en materiaal dat wordt gebruikt om de afvalstoffen af te dekken.      
+c. in cellen die bestemd zijn voor asbesthoudende afvalstoffen als bedoeld in het eerste lid, onder d: andere afvalstoffen dan asbesthoudende afvalstoffen en materiaal dat wordt gebruikt om de afvalstoffen af te dekken.     
 
 ### Voorschrift  2.2  
 
@@ -462,7 +462,7 @@ c. in cellen die bestemd zijn voor asbesthoudende afvalstoffen als bedoeld in he
 | Opgeloste organische koolstof (DOC)*  | 800  |
 | Totaal opgeloste vaste stoffen (TDS)**  | 60.000  |
 
-* als afvalstoffen bij hun eigen pH-waarde niet aan de waarde voor opgelost organische koolstof voldoen, is testen bij L/S=10 l/kg en een pH-waarde tussen 7,4 en 8.0 toegestaan, mits daarbij voor opgeloste organische koolstof (DOC) een waarde van 800 mg/kg droge stof niet wordt overschreden. De opgelost organische koolstof wordt vastgesteld overeenkomstig EN 14429: Karakterisering van afval – Uitloogproef ter karakterisering – Invloed van pH op uitloging door middel van initiële toevoeging van zuur/base. ** De waarden voor totaal opgeloste vaste stoffen (TDS) kunnen als alternatief voor de waarden voor sulfaat en chloride worden gebruikt  Tabel 2.2 
+* als afvalstoffen bij hun eigen pH-waarde niet aan de waarde voor opgelost organische koolstof voldoen, is testen bij L/S=10 l/kg en een pH-waarde tussen 7,4 en 8.0 toegestaan, mits daarbij voor opgeloste organische koolstof (DOC) een waarde van 800 mg/kg droge stof niet wordt overschreden. De opgelost organische koolstof wordt vastgesteld overeenkomstig EN 14429: Karakterisering van afval – Uitloogproef ter karakterisering – Invloed van pH op uitloging door middel van initiële toevoeging van zuur/base. ** De waarden voor totaal opgeloste vaste stoffen (TDS) kunnen als alternatief voor de waarden voor sulfaat en chloride worden gebruikt Tabel 2.2 
 
 | Parameter  | Waarde  |
 |:---|:---|
@@ -481,7 +481,7 @@ a. afvalstoffen die ingevolge voorschrift 1.1 mogen worden geaccepteerd op een s
 
 b. afvalstoffen die ingevolge voorschrift 2.1 mogen worden geaccepteerd op een stortplaats voor niet-gevaarlijke afvalstoffen en voldoen aan de in tabel 3.1 voor opgeloste organische koolstof aangegeven waarde;  
 
-c. gevaarlijke afvalstoffen waarvan de waarden van de parameters, genoemd in de tabellen 3.1 en 3.2, gelijk zijn aan of kleiner zijn dan de bij die parameters aangegeven waarden.    
+c. gevaarlijke afvalstoffen waarvan de waarden van de parameters, genoemd in de tabellen 3.1 en 3.2, gelijk zijn aan of kleiner zijn dan de bij die parameters aangegeven waarden.   
 
 ### Voorschrift  3.2  
 
@@ -518,7 +518,7 @@ c. gevaarlijke afvalstoffen waarvan de waarden van de parameters, genoemd in de 
 | LOI*  | 10% (gewichtsprocent)  |
 | Totaal organische koolstof (TOC)  | 6% (gewichtsprocent)  |
 
-* Er kan een keuze gemaakt worden tussen LOI of totaal organische koolstof (TOC). In ieder geval moet één van deze parameters worden gebruikt.  
+* Er kan een keuze gemaakt worden tussen LOI of totaal organische koolstof (TOC). In ieder geval moet één van deze parameters worden gebruikt. 
 
 ### Onderdeel  4  
 
@@ -536,5 +536,5 @@ c. voor zover het een ondergrondse stortplaats voor inerte afvalstoffen betreft,
 
 d. voor zover het een ondergrondse stortplaats voor niet-gevaarlijke afvalstoffen betreft, de afvalstoffen ingevolge voorschrift 1.2 mogen worden geaccepteerd op een stortplaats voor niet-gevaarlijke afvalstoffen.    
 
-2. Een wijziging van onderdeel 2.1 van bijlage A van de in het eerste lid bedoelde beschikking gaat voor de toepassing van het eerste lid, onder a, gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.    
+2. Een wijziging van onderdeel 2.1 van bijlage A van de in het eerste lid bedoelde beschikking gaat voor de toepassing van het eerste lid, onder a, gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
 

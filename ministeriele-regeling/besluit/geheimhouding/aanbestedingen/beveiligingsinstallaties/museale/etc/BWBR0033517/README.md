@@ -12,7 +12,7 @@ dat de bijzondere beveiligingsaspecten van deze installaties gelet op de te beve
 dat het derhalve uitgesloten is in deze de nationale en Europese aanbestedingsprocedures te volgen;
 
 Gelet op [artikel 2.23, eerste lid, onder e, van de Aanbestedingswet 2012](../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md);
-Besluit:     Tot geheimverklaring van de aanbesteding voor het installeren en onderhouden van en het verhelpen van storingen aan beveiligingsinstallaties van de volgende museale instellingen: 
+Besluit:    Tot geheimverklaring van de aanbesteding voor het installeren en onderhouden van en het verhelpen van storingen aan beveiligingsinstallaties van de volgende museale instellingen: 
 
 * Stichting Het Rijksmuseum Amsterdam,  
 
@@ -52,8 +52,8 @@ Besluit:     Tot geheimverklaring van de aanbesteding voor het installeren en on
 
 * Stichting Rijksmuseum van Oudheden,  
 
-* Stichting Museum Slot Loevestein.       Dit besluit treedt in werking met ingang van de dag na de datum van plaatsing in de Staatscourant, en werkt terug tot en met 1 april 2013. Dit besluit zal met de toelichting worden gepubliceerd in de Staatscourant.  
+* Stichting Museum Slot Loevestein.      Dit besluit treedt in werking met ingang van de dag na de datum van plaatsing in de Staatscourant, en werkt terug tot en met 1 april 2013. Dit besluit zal met de toelichting worden gepubliceerd in de Staatscourant.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-M.Bussemaker   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+M. Bussemaker     
