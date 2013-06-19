@@ -240,6 +240,8 @@ Indien uit de voor het desbetreffende kalenderjaar op grond van [artikel 26 van
 1.  De landbouwer stelt vóór 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, voor het desbetreffende jaar een bemestingsplan op dat voldoet aan artikel 5 van de derogatiebeschikking.   
 2.  De landbouwer herziet het bemestingsplan uiterlijk zeven dagen nadat zich een wijziging in de landbouwpraktijk heeft voorgedaan, indien dat noodzakelijk is om de consistentie van het bemestingsplan te waarborgen.   
 3.  De landbouwer bewaart het bemestingsplan als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
+4.  In afwijking van het eerste lid stelt de landbouwer in 2013 een bemestingsplan op vóór 1 maart.   
+5.  Het vierde lid en dit lid vervallen met ingang van 1 januari 2014.   
 
 ### Artikel  27a  
 
@@ -247,6 +249,8 @@ Indien uit de voor het desbetreffende kalenderjaar op grond van [artikel 26 van
 2.  Het laboratorium stelt de fosfaattoestand van de bodem vast door middel van bemonstering en analyse van de bodem van de desbetreffende percelen overeenkomstig artikel 103a, eerste tot en met derde lid.   
 3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
 4.  Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 15 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.   
+5.  In afwijking van het eerste lid zijn in 2013 de daar bedoelde waarden ten hoogste vier jaren en één maand voorafgaand aan 1 maart vastgesteld en vastgelegd in een daar bedoeld analyserapport.   
+6.  Het vijfde lid en dit lid vervallen met ingang van 1 januari 2014.   
 
 ### Artikel  27b  
 
@@ -1965,13 +1969,15 @@ I. Stoffen die als meststof kunnen worden verhandeld
 
 23. Reststof die is vrijgekomen bij de fabrieksmatige verwerking van uien en dat uitsluitend bestaat uit het perssap van pulp van vermalen en gekookte uien, dat resteert na het kook- en destillatieproces ten behoeve van de winning van uienolie (uienperssap).  
 
-24. Reststof die vrijkomt door hydrolyse van schaafsel, snippers, schilfers en vergelijkbaar materiaal resterend bij de bewerking van gelooid leer en bestaat uit een amberkleurige vloeistof met daarin dierlijke aminozuren en peptiden (Vloeistof van aminozuren en peptiden verkregen door hydrolyse van restanten van gelooid leer).   II. Stoffen die als meststof kunnen worden verhandeld (Categorieën afvalstoffen of reststoffen) 
+24. Reststof die vrijkomt door hydrolyse van schaafsel, snippers, schilfers en vergelijkbaar materiaal resterend bij de bewerking van gelooid leer en bestaat uit een amberkleurige vloeistof met daarin dierlijke aminozuren en peptiden (Vloeistof van aminozuren en peptiden verkregen door hydrolyse van restanten van gelooid leer).  
+
+25. Reststof die is vrijgekomen door afdekaarde na de teelt van machinaal geoogste champignons met een vijzel te scheiden van de onderliggende afgewerkte champignonmest en die bestaat uit dekaarde van veenproducten en schuimaarde en teeltresten gevormd door champignonvoetjes en schimmelmassa van de teelt van champignons en resten afgewerkte champignonmest. In het teeltproces worden geen gewasbeschermingsmiddelen of biociden toegepast, anders dan een biocide op basis van formaldehyde (afgewerkte dekaarde van de teelt van machinaal geoogste champignons).   II. Stoffen die als meststof kunnen worden verhandeld (Categorieën afvalstoffen of reststoffen) 
 
 1. Reststof die is vrijgekomen bij de chemische reiniging van stallucht van veehouderijbedrijven door het wassen van de stallucht met ammoniak in een verdunde oplossing van zwavelzuur en die bestaat uit een ammoniumsulfaatoplossing in water (spuiwater uit luchtwassers met een chemische wasstap).  
 
-2.  vervallen.   
+2. Reststof die is vrijgekomen bij de biologische reiniging van stallucht van veehouderijbedrijven door het wassen van stallucht met water en geleid over materiaal met een ruimtelijke structuur waarop nitrificerende bacteriën ammonium omzetten in nitriet en vervolgens in nitraat en die bestaat uit een zeer sterk verdunde pH-neutrale zwavel- en stikstofhoudende oplossing in water (spuiwater luchtwassers met een biologische wasstap).  
 
-3.  vervallen.    III. Stoffen die bij de productie van meststoffen kunnen worden gebruikt 
+3. Reststof die is vrijgekomen bij de reiniging van stallucht van veehouderijbedrijven door het wassen van stallucht met water (spuiwater uit luchtwassers met een waterwasstap).   III. Stoffen die bij de productie van meststoffen kunnen worden gebruikt 
 
 1. Reststof die is vrijgekomen bij de productie van magnesiumcalciumhydroxide uit gebrand dolomietkalksteen (magnesiumcalciumoxide gevormd uit magnesiumcalciumcarbonaat) en die bestaat uit grijswit granulaat van magnesiumcalciumoxide en magnesiumcalciumhydroxide (granulaat van magnesiumcalciumhydroxide),  
 
@@ -2037,7 +2043,8 @@ I. Stoffen die als meststof kunnen worden verhandeld
 |  *E*   |  *Stoffen afkomstig uit andere industrieën*   |
 | 1  | Reststof die is vrijgekomen bij de fabrieksmatige winning van biodiesel uit raapzaadolie of koolzaadolie door omestering met methanol en scheiding onder invloed van de zwaartekracht (glycerine).  |
 |  *F*   |  *Hulpstoffen of toevoegmiddelen*   |
-| 1  | Slib of steekvast slib dat vrijkomt bij de bereiding van drinkwater uit grondwater of oppervlaktewater en dat bestaat uit ijzer(III)hydroxide en water (ijzerwater).  |
+| 1.  | Slib of steekvast slib dat vrijkomt bij de bereiding van drinkwater uit grondwater of oppervlaktewater via een zandbed en dat bestaat uit ijzer(III)hydroxide en water (waterijzer van drinkwaterbereiding).  |
+| 2.  | Slib of steekvast slib dat vrijkomt bij de bereiding van proceswater uit oppervlaktewater onder gebruik van een filterstap met actief kool en dat bestaat uit ijzer(III)hydroxide, water en organische stof (waterijzer van proceswaterbereiding).  |
 |  *G*   | Stoffen waar de in [bijlage II, onder tabel 1, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel en de in bijlage II, onder tabel 4, bij het besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel voor gelden.  |
 |  *G1*   | Plantaardige stoffen en stoffen afkomstig van de verwerking van plantaardige producten  |
 | 1.  | Reststof die is verkregen bij de verwerking van aardappelen en die in hoofdzaak uit bestaat uit aardappel (Solanum tuberosum. L.) en aardappelresten en die vrij is van verpakkingsmateriaal. (aardappelrestanten).  |
@@ -2120,8 +2127,8 @@ I. Stoffen die als meststof kunnen worden verhandeld
 | --- | --- |
 |:---|:---|
 | Categorie 2.  | Product dat verkregen is door vergisting van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met G1 onder categorie 1 (digestaat van plantaardige covergistingsmaterialen).  |
-| Categorie 3.  | Verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met F onder categorie 1 (dunne fractie uit digestaat van plantaardige covergistingsmaterialen).  |
-| Categorie 4.  | Niet verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met F onder categorie 1 (dikke fractie uit digestaat van plantaardige covergistingsmaterialen).  |
+| Categorie 3.  | Verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met G1 onder categorie 1 onder categorie 1 (dunne fractie uit digestaat van plantaardige covergistingsmaterialen).  |
+| Categorie 4.  | Niet verpompbaar product dat verkregen is na mechanische scheiding van de door vergisting verkregen digestaat van uitsluitend plantaardige stoffen vermeld onder de categorieën A tot en met G1 onder categorie 1 onder categorie 1 (dikke fractie uit digestaat van plantaardige covergistingsmaterialen).  |
 
 ### bijlage  Ab  
 

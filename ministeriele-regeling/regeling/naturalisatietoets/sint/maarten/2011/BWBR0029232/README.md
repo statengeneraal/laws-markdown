@@ -13,15 +13,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de naturalisatietoets:* de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md);  
+a.  *de naturalisatietoets:* de toets, genoemd in [artikel 2, tweede lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md);  
 
-b. *verzoeker:* degene die op grond van de [Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) verzoekt om verlening van het Nederlanderschap;  
+b.  *verzoeker:* degene die op grond van de [Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) verzoekt om verlening van het Nederlanderschap;  
 
-c. *de Gouverneur:* de Gouverneur van Sint Maarten;  
+c.  *de Gouverneur:* de Gouverneur van Sint Maarten;  
 
-d. *Dienst Examens Sint Maarten:* een organisatorische eenheid van de Directie Onderwijs in Sint Maarten;  
+d.  *Dienst Examens Sint Maarten:* een organisatorische eenheid van de Directie Onderwijs in Sint Maarten;  
 
-e. *onderdeel van de naturalisatietoets:* een van de drie in artikel 2, eerste lid genoemde onderdelen van de naturalisatietoets.    
+e.  *onderdeel van de naturalisatietoets:* een van de drie in artikel 2, eerste lid genoemde onderdelen van de naturalisatietoets.   
 
 ### Paragraaf  2  
 
@@ -32,15 +32,15 @@ e. *onderdeel van de naturalisatietoets:* een van de drie in artikel 2, eerste l
 1.  De naturalisatietoets bestaat uit een onderdeel dat kennis van de staatsinrichting en maatschappij toetst, een onderdeel dat de mate van kennis van de Engelse taal toetst en een onderdeel dat de mate van kennis van de Nederlandse taal toetst. Ieder taalexamen examineert vier taalvaardigheden. Gebruik van een woordenboek is bij de naturalisatietoets niet toegestaan.   
 2.  Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, wordt afgenomen en beantwoord in de Engelse taal.   
 3.  Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, bevat vragen met betrekking tot de in de bijlage bij deze regeling genoemde thema’s van bevraging. De vragen richten zich naar de gestelde eindtermen.   
-4.  Om te slagen voor de naturalisatietoets dient het niveau van taalbeheersing bij alle onderdelen aantoonbaar op ten minste niveau A2 van het Europees Raamwerk voor moderne vreemde talen te zijn afgelegd.   
+4.  Om te slagen voor de naturalisatietoets dient het niveau van taalbeheersing bij alle onderdelen aantoonbaar op ten minste niveau A2 van het Europees Raamwerk voor moderne vreemde talen te zijn afgelegd.  
 
 ### Artikel  3  
 
-Bevoegd tot het afnemen van de naturalisatietoets is de Dienst Examens Sint Maarten.  
+Bevoegd tot het afnemen van de naturalisatietoets is de Dienst Examens Sint Maarten. 
 
 ### Artikel  4  
 
-Behoudens in het voorkomende geval van computergestuurde beoordeling worden de resultaten van overige onderdelen standaard door twee correctoren beoordeeld. Er vindt geen nadere inhoudelijke beoordeling plaats.  
+Behoudens in het voorkomende geval van computergestuurde beoordeling worden de resultaten van overige onderdelen standaard door twee correctoren beoordeeld. Er vindt geen nadere inhoudelijke beoordeling plaats. 
 
 ### Paragraaf  3  
 
@@ -49,7 +49,7 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 ### Artikel  5  
 
 1.  Het hoofd van de Dienst Examens Sint Maarten geeft aan de verzoeker die de naturalisatietoets met succes heeft afgelegd het Certificaat naturalisatietoets.   
-2.  Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md), is het model als opgenomen in de bijlage 2 bij deze regeling.   
+2.  Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md), is het model als opgenomen in de bijlage 2 bij deze regeling.  
 
 ### Paragraaf  4  
 
@@ -69,25 +69,25 @@ d. Certificaat Profiel Professionele Taalvaardigheid (niveau B2);
 
 e. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (niveau B2);  
 
-f. Certificaat Profiel Academische Taalvaardigheid (niveau C1).    
+f. Certificaat Profiel Academische Taalvaardigheid (niveau C1).   
 
 ### Artikel  7  
 
 1.  Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst alsmede van het onderdeel dat de beheersing van de betreffende taal toetst, is vrijgesteld de verzoeker die beschikt over een Certificaat naturalisatietoets Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten, dat is uitgereikt voor 1 januari 2011.   
 2.  Indien het Certificaat naturalisatietoets vermeldt dat de naturalisatietoets is afgelegd in de Engelse taal dan is verzoeker vrijgesteld van het onderdeel beheersing van de Engelse taal.   
-3.  Indien het Certificaat naturalisatietoets vermeldt dat de naturalisatietoets is afgelegd in de Nederlandse taal dan is verzoeker vrijgesteld van het onderdeel beheersing van de Nederlandse taal.   
+3.  Indien het Certificaat naturalisatietoets vermeldt dat de naturalisatietoets is afgelegd in de Nederlandse taal dan is verzoeker vrijgesteld van het onderdeel beheersing van de Nederlandse taal.  
 
 ### Artikel  8  
 
 1.  Van het afleggen van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, is vrijgesteld de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Engelse taal.   
-2.  Tot 1 januari 2013 is vrijgesteld van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Nederlandse taal.   
+2.  Tot 1 januari 2013 is vrijgesteld van het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst de verzoeker die in het bezit is van een bewijs van slagen voor deel 1 (maatschappij- en staatkundige kennis), afgelegd voor 1 januari 2011 in de Nederlandse taal.  
 
 ### Artikel  9  
 
 1.  Aan de verzoeker die in aanmerking komt voor vrijstelling van een onderdeel van de naturalisatietoets als in deze paragraaf bedoeld, geeft het hoofd van de Dienst Examens Sint Maarten een Certificaat naturalisatietoets waarop is aangetekend welk onderdeel of welke onderdelen de verzoeker niet heeft afgelegd.   
 2.  De aantekening geschiedt alleen op verzoek van degene aan wie het Certificaat naturalisatietoets wordt afgegeven.   
 3.  De Dienst Examens Sint Maarten treedt niet in een beoordeling of de verzoeker terecht afziet van het afleggen van een onderdeel van de naturalisatietoets.   
-4.  Bij de indiening van het naturalisatieverzoek legt de verzoeker aan de Gouverneur het bewijsstuk dan wel de bewijsstukken over op grond waarvan hij de gedeeltelijke vrijstelling heeft.   
+4.  Bij de indiening van het naturalisatieverzoek legt de verzoeker aan de Gouverneur het bewijsstuk dan wel de bewijsstukken over op grond waarvan hij de gedeeltelijke vrijstelling heeft.  
 
 ### Paragraaf  5  
 
@@ -95,24 +95,24 @@ f. Certificaat Profiel Academische Taalvaardigheid (niveau C1).
 
 ### Artikel  10  
 
-1.  Indien de verzoeker zich beroept op ontheffing van een of meer onderdelen van de naturalisatietoets wegens een belemmering als bedoeld in [artikel 4, aanhef en onder a van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) wordt omtrent het beroep op ontheffing geadviseerd door de hiervoor op advies van de Gouverneur aangewezen instantie.   
+1.  Indien de verzoeker zich beroept op ontheffing van een of meer onderdelen van de naturalisatietoets wegens een belemmering als bedoeld in [artikel 4, aanhef en onder a van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) wordt omtrent het beroep op ontheffing geadviseerd door de hiervoor op advies van de Gouverneur aangewezen instantie of natuurlijk persoon.   
 2.  De in [artikel 4, aanhef en onder a, van het besluit](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) bedoelde psychische of lichamelijke belemmering dan wel verstandelijke handicap toont verzoeker aan door overlegging van een medisch advies van de ingevolge het eerste lid aangewezen instantie, dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden en inhoudende dat sprake is van een belemmering of een handicap.   
 3.  De kosten die de aangewezen instantie in rekening brengt, komen ten laste van de verzoeker.   
 4.  Is ingevolge het eerste lid geen instantie aangewezen dan legt de verzoeker bij indiening van het naturalisatieverzoek een verklaring over van een huisarts, medisch specialist of andere deskundige inhoudende dat sprake is van een zodanige psychische of lichamelijke belemmering, dan wel een verstandelijke handicap als gevolg waarvan een of meerdere onderdelen van de naturalisatietoets niet kunnen worden afgelegd.   
-5.  De in het voorgaande lid bedoelde verklaring is op de dag van indiening van het naturalisatieverzoek niet ouder dan zes maanden en afkomstig van een in Sint Maarten gevestigde rechts- of natuurlijke persoon.   
+5.  De in het voorgaande lid bedoelde verklaring is op de dag van indiening van het naturalisatieverzoek niet ouder dan zes maanden en afkomstig van een in Sint Maarten gevestigde rechts- of natuurlijke persoon.  
 
 ### Artikel  11  
 
 1.  Inzake de verzoeker die zich beroept op ontheffing van een of meer onderdelen van de naturalisatietoets wegens omstandigheden als bedoeld in [artikel 4, aanhef en onder b van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md), wordt omtrent het beroep op ontheffing geadviseerd door de Dienst Examens Sint Maarten.   
 2.  Aan de advisering door de Dienst Examens Sint Maarten zijn kosten verbonden die door de verzoeker voorafgaand aan de advisering aan de Dienst Examens Sint Maarten voldaan dienen te worden.   
-3.  Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van de Dienst Examens Sint Maarten over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.   
+3.  Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van de Dienst Examens Sint Maarten over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.  
 
 ### Artikel  12  
 
 1.  Aan de verzoeker die in aanmerking komt voor ontheffing van een onderdeel van de naturalisatietoets als in deze paragraaf bedoeld, geeft het hoofd van de Dienst Examens Sint Maarten een Certificaat naturalisatietoets waarop is aangetekend welk onderdeel of welke onderdelen de verzoeker niet heeft afgelegd.   
 2.  De aantekening geschiedt alleen op verzoek van degene aan wie het Certificaat naturalisatietoets wordt afgegeven.   
 3.  De Dienst Examens Sint Maarten treedt niet in een beoordeling of de verzoeker terecht afziet van het afleggen van een onderdeel van de naturalisatietoets.   
-4.  Bij de indiening van het naturalisatieverzoek legt de verzoeker aan de Gouverneur het bewijsstuk dan wel de bewijsstukken over op grond waarvan hij de gedeeltelijke ontheffing heeft.   
+4.  Bij de indiening van het naturalisatieverzoek legt de verzoeker aan de Gouverneur het bewijsstuk dan wel de bewijsstukken over op grond waarvan hij de gedeeltelijke ontheffing heeft.  
 
 ### Paragraaf  6  
 
@@ -133,19 +133,19 @@ f. Certificaat Profiel Academische Taalvaardigheid (niveau C1).
 | f. voor het afleggen van deel III  | Naf. 110,-;  |
 | g. voor herkansing onderdeel van deel III  | Naf. 37,-;  |
 
-3.  Het in het eerste lid bedoelde examengeld wordt betaald door storting van het verschuldigde bedrag op de daarvoor door het Examenbureau Sint Maarten aangehouden bankrekening.   
+3.  Het in het eerste lid bedoelde examengeld wordt betaald door storting van het verschuldigde bedrag op de daarvoor door het Examenbureau Sint Maarten aangehouden bankrekening.  
 
 ### Artikel  14  
 
-Een jaarverslag van de Dienst Examens Sint Maarten met betrekking tot de naturalisatietoets wordt gezonden aan de Gouverneur alsmede aan de in [artikel 1, eerste lid, aanhef en onder a van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde Minister.  
+Een jaarverslag van de Dienst Examens Sint Maarten met betrekking tot de naturalisatietoets wordt gezonden aan de Gouverneur alsmede aan de in [artikel 1, eerste lid, aanhef en onder a van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde Minister. 
 
 ### Artikel  15  
 
-Deze regeling treedt in werking met ingang van 1 januari 2011.  
+Deze regeling treedt in werking met ingang van 1 januari 2011. 
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling naturalisatietoets Sint Maarten 2011  
+Deze regeling wordt aangehaald als: Regeling naturalisatietoets Sint Maarten 2011 
 Deze regeling wordt met de toelichting in de Staatscourant en het Afkondigingsblad van Sint Maarten geplaatst.   
 
 Den Haag 
@@ -153,9 +153,9 @@ Den Haag
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.P.H.Donner  
+J.P.H. Donner    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, behorend bij artikel 2, derde lid , van de Regeling naturalisatietoets Sint Maarten 2011
 
@@ -177,7 +177,7 @@ Vragen van het examen ‘Kennis van de staatsinrichting en samenleving’ worden
 
 7. staatsinrichting en rechtsstaat;  
 
-8. onderwijs en opvoeding.    
+8. onderwijs en opvoeding.   
 
 ####Eindtermen
 
@@ -197,9 +197,9 @@ De volgende eindtermen gelden:
 
 * staatsinrichting en rechtsstaat   De kandidaat is in staat om, door kennis van de staatkundige inrichting van het Koninkrijk der Nederlanden en de daarvan deeluitmakende Caribische landen, betrokken te zijn bij de samenleving waarin hij woont. 
 
-* onderwijs en opvoeding   De kandidaat kent het onderwijsstelsel, onderkent het belang van onderwijs in de samenleving en acht schoolgang van minderjarigen van groot belang.  
+* onderwijs en opvoeding   De kandidaat kent het onderwijsstelsel, onderkent het belang van onderwijs in de samenleving en acht schoolgang van minderjarigen van groot belang. 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####, behorend bij artikel 5, tweede lid , van de Regeling naturalisatietoets Sint Maarten 2011
 

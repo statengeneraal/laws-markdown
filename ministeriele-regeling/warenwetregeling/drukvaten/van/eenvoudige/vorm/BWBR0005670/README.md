@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. besluit:  het [Warenwetbesluit drukvaten van eenvoudige vorm](../../../../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md);    b. drukvat, aangewezen aangemelde instelling, richtlijn en wet:  hetgeen het besluit daaronder verstaat.     
+In deze regeling wordt verstaan onder: a. besluit:   het [Warenwetbesluit drukvaten van eenvoudige vorm](../../../../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md);  b. drukvat, aangewezen aangemelde instelling, richtlijn en wet:   hetgeen het besluit daaronder verstaat.   
 
 ### Artikel  3  
 
-De dossiers en de briefwisseling die betrekking hebben op de keuringsprocedures, bedoeld in [het besluit](../../../../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md), worden gesteld in de Nederlandse taal, of in een andere door de Nederlandse aangewezen aangemelde instelling aanvaarde taal.  
+De dossiers en de briefwisseling die betrekking hebben op de keuringsprocedures, bedoeld in [het besluit](../../../../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md), worden gesteld in de Nederlandse taal, of in een andere door de Nederlandse aangewezen aangemelde instelling aanvaarde taal. 
 
 ### Artikel  4  
 
@@ -38,17 +38,17 @@ i. door de instelling ontvangen klachten en de wijze van afhandeling daarvan;
 
 j. tegen de besluiten van de instelling ingediende bezwaren en ingestelde beroepen en de wijze van afhandeling daarvan;  
 
-k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.    
+k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.   
 
-### Artikel  5  
+###Artikel 5 
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Warenwetregeling drukvaten van eenvoudige vorm.  
+Deze regeling wordt aangehaald als: Warenwetregeling drukvaten van eenvoudige vorm.
 
 's-Gravenhage 
 30 september 1992    
 
 De 
 minister voornoemd, 
-B. deVries    
+B. de Vries      

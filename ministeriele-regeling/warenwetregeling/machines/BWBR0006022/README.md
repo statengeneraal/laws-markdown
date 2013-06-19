@@ -8,28 +8,28 @@ Besluiten:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder Besluit: het [Warenwetbesluit machines](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md).  
+In deze regeling wordt verstaan onder Besluit: het [Warenwetbesluit machines](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
 1.  Als categorie mobiele kranen als bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md) worden aangewezen: hijskranen voor haakbedrijf op rupsen of banden alsmede een torenvormige hijskranen voor haakbedrijf op rupsen of banden met een bedrijfslastmoment van tenminste 10 tonmeter, met uitzondering van: 
 
 a. op een voertuig bevestigde laadkranen die uitsluitend bestemd zijn of worden gebruikt voor het laden en lossen van de laadbak van het voertuig;  
 
 b. grondverzetmachines die ontgravingen maken en daarop aansluitend leidingwerk in die ontgravingen leggen of ten behoeve van het uitvoeren van grondverzetwerkzaamheden ondersteuningsschotten plaatsen.     
-2.  Als categorie torenkranen als bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md) worden aangewezen: torenvormige hijskranen, die vast zijn opgesteld of die verrijdbaar zijn op rails, met een bedrijfslastmoment van ten minste 10 tonmeter.   
+2.  Als categorie torenkranen als bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md) worden aangewezen: torenvormige hijskranen, die vast zijn opgesteld of die verrijdbaar zijn op rails, met een bedrijfslastmoment van ten minste 10 tonmeter.  
 
 ### Artikel  2a  
 
 ####Eisen voor aanwijzing en (blijven) functioneren als aangewezen instelling en aangewezen aangemelde instelling
 
-1.  Een aanwijzing als aangewezen instelling en aangewezen aangemelde instelling kan geschieden indien in geval van de overeenstemmingsbeoordeling van een machine of de beoordeling van een kwaliteitsborgingsysteem als bedoeld in [artikel 5 van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), dan wel de beoordeling van een voorgenomen wijziging in een machine of model machine als bedoeld in [artikel 5a van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), de aanvragende instelling voldoet aan de criteria, vastgelegd in het Schema voor Aanwijzing en Toezicht op de instellingen voor overeenstemmingsbeoordelingsprocedures voor het Warenwetbesluit Machines, zoals opgenomen in bijlage 1 bij de regeling.   
-2.  Een aanwijzing al aangewezen instelling en aangewezen aangemelde instelling kan tevens geschieden indien in geval van keuring van een mobiele en torenkraan, als bedoeld in [artikel 6d van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), de aanvragende instelling voldoet aan de criteria, vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op de certificatie- en keuringsinstellingen die mobiele kranen, torenkranen en/of hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of tijdelijke personen(bouw)liften periodiek keuren in het kader van verticaal transport, documentcode WDAT-VT-Producten: 2012, versie 01, zoals opgenomen in bijlage 2 bij de regeling.   
+1. Een aanwijzing als aangewezen instelling en aangewezen aangemelde instelling kan geschieden indien in geval van de overeenstemmingsbeoordeling van een machine of de beoordeling van een kwaliteitsborgingsysteem als bedoeld in [artikel 5 van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), dan wel de beoordeling van een voorgenomen wijziging in een machine of model machine als bedoeld in [artikel 5a van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), de aanvragende instelling voldoet aan de criteria, vastgelegd in het Schema voor Aanwijzing en Toezicht op de instellingen voor overeenstemmingsbeoordelingsprocedures voor het Warenwetbesluit Machines, zoals opgenomen in bijlage 1 bij de regeling. 
+2.  Een aanwijzing al aangewezen instelling en aangewezen aangemelde instelling kan tevens geschieden indien in geval van keuring van een mobiele en torenkraan, als bedoeld in [artikel 6d van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), de aanvragende instelling voldoet aan de criteria, vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op de certificatie- en keuringsinstellingen die mobiele kranen, torenkranen en/of hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of tijdelijke personen(bouw)liften periodiek keuren in het kader van verticaal transport, documentcode WDAT-VT-Producten: 2012, versie 01, zoals opgenomen in bijlage 2 bij de regeling.
 
 ### Artikel  2b  
 
 1.  Een certificaat van goedkeuring, bedoeld in [artikel 6e, eerste lid, van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md) wordt voor een aangewezen instelling afgegeven aan de aanvrager indien tijdens de keuring, bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), is gebleken dat de mobiele kraan of torenkraan voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema Periodieke Keuring Hijskranen, documentcode WSCS-VT Periodieke Keuring Hijskranen: 2012, versie 01, opgenomen in bijlage 3 bij de regeling.   
-2.  Een certificaat van goedkeuring, bedoeld in [artikel 6fa, derde lid, van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md) wordt voor een aangewezen instelling afgegeven aan de aanvrager indien tijdens de keuringen, bedoeld in artikel 6fa, eerste en tweede lid, van het besluit, is gebleken dat het hijs- of hefwerktuig voor beroepsmatig personenvervoer voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema opstellings- en periodieke keuring hijs- en hefwerktuigen voor beroepsmatig personenvervoer en tijdelijke personen(bouw)liften voor bewoners: document: TCVT/W8-01/11-017: 2012, versie 01, opgenomen in bijlage 4 bij de regeling.   
+2.  Een certificaat van goedkeuring, bedoeld in [artikel 6fa, derde lid, van het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md) wordt voor een aangewezen instelling afgegeven aan de aanvrager indien tijdens de keuringen, bedoeld in artikel 6fa, eerste en tweede lid, van het besluit, is gebleken dat het hijs- of hefwerktuig voor beroepsmatig personenvervoer voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema opstellings- en periodieke keuring hijs- en hefwerktuigen voor beroepsmatig personenvervoer en tijdelijke personen(bouw)liften voor bewoners: document: TCVT/W8-01/11-017: 2012, versie 01, opgenomen in bijlage 4 bij de regeling.  
 
 ### Artikel  2c  
 
@@ -55,30 +55,30 @@ i. door de instelling ontvangen klachten en de wijze van afhandeling daarvan;
 
 j. tegen de besluiten van de instelling ingediende bezwaren en ingestelde beroepen en de wijze van afhandeling daarvan;  
 
-k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.    
+k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.   
 
 ### Artikel  4  
 
-De dossiers en de briefwisseling die betrekking hebben op de certificeringsprocedures, bedoeld in [het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), worden gesteld in de Nederlandse taal, of in een andere door de aangewezen instelling of aangewezen aangemelde instelling aanvaarde taal.  
+De dossiers en de briefwisseling die betrekking hebben op de certificeringsprocedures, bedoeld in [het besluit](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md), worden gesteld in de Nederlandse taal, of in een andere door de aangewezen instelling of aangewezen aangemelde instelling aanvaarde taal. 
 
-### Artikel  5  
+###Artikel 5 
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Warenwetregeling machines.  
+Deze regeling wordt aangehaald als: Warenwetregeling machines.
 
 's-Gravenhage 
 22 juni 1993    
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-B. deVries 
+B. deVries
 
 De 
-Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, 
-H.J.Simons   
+Staatssecretaris van Welzijn, Volksgezondheid en Cultuur,
+H.J. Simons     
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####behorend bij Artikel 2a 
 
@@ -116,13 +116,13 @@ Document: WDA&T-EU-Machines: 2011, versie 01  *Onder beheer van:*  Ministerie va
 
 ####Inleiding
 
-Voor machines zijn er wettelijk verplichte conformiteit beoordelingsprocedures vastgesteld. De procedures zijn ontleend aan de Europese Machine richtlijn 2006/42/EG. Deze Richtlijn is geïmplementeerd in het Warenwetbesluit machines. Voor elk product dat onder de richtlijn valt moet een EG-verklaring van overeenstemming worden opgesteld. Hierin verklaart de fabrikant dat zijn product voldoet aan alle essentiële veiligheids- en gezondheidseisen uit de richtlijn. Een gemachtigde persoon van de fabrikant, of de fabrikant zelf, ondertekent de verklaring en deze wordt meegestuurd met het product. Ook brengt de fabrikant de CE markering op het product aan. Voor bepaalde categorieën machines zijn er wettelijke verplichte overeenstemmingsbeoordelingsprocedures die door onafhankelijke keuringsinstellingen worden verricht. Verklaringen van EG-typeonderzoek of goedkeuringen van kwaliteitsborgingssystemen worden in dat verband verstrekt door aangewezen (aangemelde) keuringsinstellingen. Om verklaringen of goedkeuringen te mogen verstrekken dient een aangewezen (aangemelde) keuringsinstelling hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit werkveldspecifieke document voor aanwijzing en toezicht (WDA&T). De aangewezen aangemelde keuringsinstellingen worden bij de Europese Commissie aangemeld, als zogenaamde Notified Bodies (NoBo). <sup> 1  Richtlijn 2006/42/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende machines en tot wijziging van Richtlijn 95/16/EG (herschikking).  </sup> In dit document is aangegeven aan welke eisen de betreffende aangewezen (aangemelde) keuringsinstellingen moeten voldoen, alvorens de aanwijzing voor een werkveld gebaseerd op het Warenwetbesluit machines kan plaatsvinden. Dit WDA&T is mede gebaseerd op het Warenwetbesluit machines. Dit WDA&T wordt beheerd door het ministerie van SZW.  
+Voor machines zijn er wettelijk verplichte conformiteit beoordelingsprocedures vastgesteld. De procedures zijn ontleend aan de Europese Machinerichtlijn 2006/42/EG <sup> 1  Richtlijn 2006/42/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende machines en tot wijziging van Richtlijn 95/16/EG (herschikking). </sup>. Deze Richtlijn is geïmplementeerd in het Warenwetbesluit machines. Voor elk product dat onder de richtlijn valt moet een EG-verklaring van overeenstemming worden opgesteld. Hierin verklaart de fabrikant dat zijn product voldoet aan alle essentiële veiligheids- en gezondheidseisen uit de richtlijn. Een gemachtigde persoon van de fabrikant, of de fabrikant zelf, ondertekent de verklaring en deze wordt meegestuurd met het product. Ook brengt de fabrikant de CE markering op het product aan. Voor bepaalde categorieën machines zijn er wettelijke verplichte overeenstemmingsbeoordelingsprocedures die door onafhankelijke keuringsinstellingen worden verricht. Verklaringen van EG-typeonderzoek of goedkeuringen van kwaliteitsborgingssystemen worden in dat verband verstrekt door aangewezen (aangemelde) keuringsinstellingen. Om verklaringen of goedkeuringen te mogen verstrekken dient een aangewezen (aangemelde) keuringsinstelling hiertoe te worden aangewezen door de minister van SZW. Dit gebeurt door een toetsing aan dit werkveldspecifieke document voor aanwijzing en toezicht (WDA&T). De aangewezen aangemelde keuringsinstellingen worden bij de Europese Commissie aangemeld, als zogenaamde Notified Bodies (NoBo). In dit document is aangegeven aan welke eisen de betreffende aangewezen (aangemelde) keuringsinstellingen moeten voldoen, alvorens de aanwijzing voor een werkveld gebaseerd op het Warenwetbesluit machines kan plaatsvinden. Dit WDA&T is mede gebaseerd op het Warenwetbesluit machines. Dit WDA&T wordt beheerd door het ministerie van SZW. 
 
 ### 2  
 
 ####Definities
 
-Zie de definities in de Richtlijn 2006/42/EG, de verordening (EG) Nr. 764/2008, de verordening (EG) Nr. 765/2008 en het besluit Nr. 768/2008/EG van 9 juli 2008. <sup> 2  Verordening (EG) Nr. 764/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van procedures voor de toepassing van bepaalde nationale technische voorschriften op goederen die in een andere lidstaat rechtmatig in de handel zijn gebracht, en tot intrekking van Beschikking nr. 3052/95/EG  </sup> <sup> 3  Verordening (EG) Nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93.  </sup> <sup> 4  Het Europees Parlement en de Raad gezamenlijk aangenomen besluiten Besluit Nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad.  </sup> Binnen dit document gelden verder de volgende definities:  
+Zie de definities in de Richtlijn 2006/42/EG, de verordening (EG) Nr. 764/2008 <sup> 2  Verordening (EG) Nr. 764/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van procedures voor de toepassing van bepaalde nationale technische voorschriften op goederen die in een andere lidstaat rechtmatig in de handel zijn gebracht, en tot intrekking van Beschikking nr. 3052/95/EG </sup>, de verordening (EG) Nr. 765/2008<sup> 3  Verordening (EG) Nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93. </sup>en het besluit Nr. 768/2008/EG<sup> 4 Het Europees Parlement en de Raad gezamenlijk aangenomen besluiten Besluit Nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad. </sup>van 9 juli 2008. Binnen dit document gelden verder de volgende definities:  
 
 | --- | --- |
 |:---|:---|
@@ -130,8 +130,8 @@ Zie de definities in de Richtlijn 2006/42/EG, de verordening (EG) Nr. 764/2008, 
 | Accreditatienorm:  | Geharmoniseerde norm, gepubliceerd in een Mededeling van de Commissie in het kader van de uitvoering van Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad, Besluit nr. 768/2008/EG van het Europees Parlement en de Raad, Verordening (EG) nr. 761/2001 van het Europees Parlement en de Raad (EU Pl 2009/C 136 van 2009-06-16).  |
 | ‘Goederenpakket’:  | Omvattende:  1) Verordening (EG) Nr. 764/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van procedures voor de toepassing van bepaalde nationale technische voorschriften op goederen die in een andere lidstaat rechtmatig in de handel zijn gebracht, en tot intrekking van Beschikking nr. 3052/95/EG;  2) Verordening (EG) Nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake beoordeling en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93;  3) Besluit Nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad.  |
 | het Besluit:  | Besluit Nr. 768/2008/EG van het Europees Parlement en de Raad van 9 juli 2008 betreffende een gemeenschappelijk kader voor het verhandelen van producten en tot intrekking van Besluit 93/465/EEG van de Raad.  |
-| de Richtlijn:  | Richtlijn 2006/42/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende machines en tot wijziging van Richtlijn 95/16/EG (herschikking).  |
-| de Verordening:  | Verordening (EG) Nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake beoordeling en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93.  |
+| de Richtlijn:  |  Richtlijn 2006/42/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende machines en tot wijziging van Richtlijn 95/16/EG (herschikking).  |
+| de Verordening:  |  Verordening (EG) Nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake beoordeling en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93.  |
 
 ### 3  
 
@@ -143,7 +143,7 @@ Conform de Richtlijn, het Warenwetbesluit machines en het ‘goederenpakket’.
 
 ####Beschrijving document
 
-Dit werkveldspecifieke document voor aanwijzing en toezicht binnen de werkvelden voor machines in de ontwerp- en productiefase (handelsfase) is door de minister van SZW vastgesteld. De minister van SZW kan na overleg met het veld wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het ministerie van SZW.  
+Dit werkveldspecifieke document voor aanwijzing en toezicht binnen de werkvelden voor machines in de ontwerp- en productiefase (handelsfase) is door de minister van SZW vastgesteld. De minister van SZW kan na overleg met het veld wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde document vervangt eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het ministerie van SZW. 
 
 ### 3.2  
 
@@ -173,7 +173,7 @@ De keuringsinstelling dient in alle gevallen haar werkzaamheden op integere, onp
 
 * inbreuken op het omgaan met ontoelaatbare (financiële) druk;  
 
-* inbreuken op de vereiste competenties en de gevolgen daarvan.    
+* inbreuken op de vereiste competenties en de gevolgen daarvan.   
 
 ### 4  
 
@@ -197,9 +197,9 @@ Het beoordelen en aanwijzen van een aangewezen (aangemelde) keuringsinstelling g
 
 3) Als er sprake is van een beoordeling voor de scope van de Warenwet op basis van de relevante geharmoniseerde accreditatienormen, dan is er een gerechtvaardigd vertrouwen dat daarmee is voldaan aan het criterium onder punt 1 en 2: de minimumcriteria voor de aanwijzing van de aan te melden keuringsinstellingen door de Lid-Staten zoals vermeld in bijlage XI van de Warenwet en de eisen in verband met aangewezen aangemelde instanties van artikel R17 van bijlage I van het Besluit. Als relevante geharmoniseerde accreditatienormen gelden: 
 
-a) *productcertificatie* op basis van een accreditatie volgens de norm NEN-EN-ISO/IEC 45011: 1998 (certificatie product) of NEN-EN-ISO/IEC 17020: 2004 (inspectie);  
+a)  *productcertificatie* op basis van een accreditatie volgens de norm NEN-EN-ISO/IEC 45011: 1998 (certificatie product) of NEN-EN-ISO/IEC 17020: 2004 (inspectie);  
 
-b) *systeemcertificatie* op basis een accreditatie volgens de norm van NEN-EN-ISO/IEC 17021: 2011.   De geharmoniseerde accreditatienormen zijn gepubliceerd in een Mededeling van de Commissie in het kader van de uitvoering van Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad, Besluit nr. 768/2008/EG van het Europees Parlement en de Raad, Verordening (EG) nr. 761/2001 van het Europees Parlement en de Raad (EU Pl 2009/C 136 van 2009-06-16). De Raad voor Accreditatie zal voor de beoordeling van aangewezen aangemelde keuringsinstellingen gebruik maken van de EA-2/17: 2009 EA Guidance on the horizontal requirements for the accreditation of conformity assessment bodies for notification purposes (June 2009 rev01). De Guidance omvat de criteria voor aanwijzing van Notified Bodies (NoBo), zoals onder de punt 1, 2 en 3 is vermeld. Uitgangspunt is dat keuringsinstellingen die conformiteitsbeoordelingen uitvoeren in het kader van de Richtlijn zijn geaccrediteerd op grond van de toepasselijke geharmoniseerde accreditatienorm(en).    
+b)  *systeemcertificatie* op basis een accreditatie volgens de norm van NEN-EN-ISO/IEC 17021: 2011.   De geharmoniseerde accreditatienormen zijn gepubliceerd in een Mededeling van de Commissie in het kader van de uitvoering van Verordening (EG) nr. 765/2008 van het Europees Parlement en de Raad, Besluit nr. 768/2008/EG van het Europees Parlement en de Raad, Verordening (EG) nr. 761/2001 van het Europees Parlement en de Raad (EU Pl 2009/C 136 van 2009-06-16). De Raad voor Accreditatie zal voor de beoordeling van aangewezen aangemelde keuringsinstellingen gebruik maken van de EA-2/17: 2009 EA Guidance on the horizontal requirements for the accreditation of conformity assessment bodies for notification purposes (June 2009 rev01). De Guidance omvat de criteria voor aanwijzing van Notified Bodies (NoBo), zoals onder de punt 1, 2 en 3 is vermeld. Uitgangspunt is dat keuringsinstellingen die conformiteitsbeoordelingen uitvoeren in het kader van de Richtlijn zijn geaccrediteerd op grond van de toepasselijke geharmoniseerde accreditatienorm(en).   
 
 ### 4.2  
 
@@ -209,7 +209,7 @@ Keurings- of certificerende instelling voor Machines volgens de Richtlijn, bijla
 
 a) Productcertificatie (t.b.v. module B, bijlage IX van de richtlijn);  
 
-b) Systeemcertificatie (t.b.v. module H, bijlage X van de richtlijn).    
+b) Systeemcertificatie (t.b.v. module H, bijlage X van de richtlijn).   
 
 ### 4.3  
 
@@ -221,7 +221,7 @@ b) Systeemcertificatie (t.b.v. module H, bijlage X van de richtlijn).
 
 a) NEN-EN-ISO/IEC 45011: 1998 of NEN-EN-ISO/IEC 17020: 2004 (Type A);  
 
-b) Bijlage XI van de Richtlijn.    
+b) Bijlage XI van de Richtlijn.   
 
 ### 4.3.2  
 
@@ -229,13 +229,13 @@ b) Bijlage XI van de Richtlijn.
 
 a) NEN-EN-ISO/IEC 17021: 2011;  
 
-b) Bijlage XI van de Richtlijn.   Naast de hiervoor opgesomde eisen dienen de keuringsinstellingen in samenhang met de gekozen aanwijzingskavels de daarop van toepassing zijnde procedures van de richtlijn in hun kwaliteitssysteem op te nemen.  
+b) Bijlage XI van de Richtlijn.   Naast de hiervoor opgesomde eisen dienen de keuringsinstellingen in samenhang met de gekozen aanwijzingskavels de daarop van toepassing zijnde procedures van de richtlijn in hun kwaliteitssysteem op te nemen. 
 
 ### 4.4  
 
 ####Functies en vakbekwaamheidseisen
 
-Voor deze vakbekwaamheidseisen geldt in algemene zin MBO/HBO ‘of gelijkwaardig’, waarbij die gelijkwaardigheid per geval door de instelling gemotiveerd moet zijn vastgelegd en door de Raad voor Accreditatie zal worden getoetst. In zijn algemeenheid geldt dat de (kandidaat) instelling over een gedegen kennis van 'nieuwe aanpak' richtlijnen beschikt, in het bijzonder op de onderhavige Warenwet.  
+Voor deze vakbekwaamheidseisen geldt in algemene zin MBO/HBO ‘of gelijkwaardig’, waarbij die gelijkwaardigheid per geval door de instelling gemotiveerd moet zijn vastgelegd en door de Raad voor Accreditatie zal worden getoetst. In zijn algemeenheid geldt dat de (kandidaat) instelling over een gedegen kennis van 'nieuwe aanpak' richtlijnen beschikt, in het bijzonder op de onderhavige Warenwet. 
 
 ### 4.5  
 
@@ -243,7 +243,7 @@ Voor deze vakbekwaamheidseisen geldt in algemene zin MBO/HBO ‘of gelijkwaardig
 
 a) EG-Typeonderzoek van een bepaalde categorie machines volgens Bijlage IV  
 
-b) Productkwaliteitsborging van een bepaalde categorie machines volgens Bijlage IV    
+b) Productkwaliteitsborging van een bepaalde categorie machines volgens Bijlage IV   
 
 ### 4.6  
 
@@ -259,7 +259,7 @@ c) De aangewezen aangemelde keuringsinstelling dient de volgende procedures op s
 
 d) Alle documenten en registraties in het verkeer met de overheid dienen in het Nederlands te zijn tenzij anders met de overheid overeengekomen.  
 
-e) Voor zover een sanctie- en maatregelenbeleid is vastgelegd, dient de CKI zich bij de op te leggen sancties/maatregelen aan dit sanctie- en maatregelenbeleid te houden. In geval van kennelijke onredelijkheid heeft de keuringsinstelling op grond van de Awb de bevoegdheid hier van af te wijken. Afwijking geschiedt alleen op grond van door de certificaathouder aan te dragen argumenten. De onderbouwing voor de afwijking wordt opgenomen in het besluit over de opgelegde sanctie. Afwijkingen worden geregistreerd door de keuringsinstelling.    
+e) Voor zover een sanctie- en maatregelenbeleid is vastgelegd, dient de CKI zich bij de op te leggen sancties/maatregelen aan dit sanctie- en maatregelenbeleid te houden. In geval van kennelijke onredelijkheid heeft de keuringsinstelling op grond van de Awb de bevoegdheid hier van af te wijken. Afwijking geschiedt alleen op grond van door de certificaathouder aan te dragen argumenten. De onderbouwing voor de afwijking wordt opgenomen in het besluit over de opgelegde sanctie. Afwijkingen worden geregistreerd door de keuringsinstelling.   
 
 ### 5  
 
@@ -273,19 +273,19 @@ b) Mee te werken aan controles door SZW (in de praktijk betekent dit dat de cont
 
 c) SZW in te lichten zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een wettelijke specifiek schema.  
 
-d) Informatie te verschaffen over het aantal malen per kalenderjaar dat afgeweken wordt van het sanctie- en maatregelenbeleid, genoemd in 4.6 punt e.    
+d) Informatie te verschaffen over het aantal malen per kalenderjaar dat afgeweken wordt van het sanctie- en maatregelenbeleid, genoemd in 4.6 punt e.   
 
 ### 6  
 
 ####Maatregelen
 
-Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet, Stcrt. 2010, nr. 10839 van 14 juli 2010.  
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet, Stcrt. 2010, nr. 10839 van 14 juli 2010. 
 
-### Bijlage  2  
+### Bijlage 2  
 
 ####Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op de certificatie- en keuringsinstellingen die: mobiele kranen, torenkranen en/of hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of tijdelijke personen(bouw)liften periodiek keuren in het kader van verticaal transport
 
-Document: WDAT-VT-Producten: 2012, versie 01 Onder beheer van: Stichting TCVT Postbus 154 3990 DD Houten www.TCVT.nl  *INHOUD*   
+Document: WDAT-VT-Producten: 2012, versie 01 Onder beheer van: Stichting TCVT Postbus 154 3990 DD Houten  www.TCVT.nl   *INHOUD*   
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -312,14 +312,14 @@ Het gebruik van mobiele kranen, torenkranen en/of het gebruik van hijs- en hefwe
 
 ####Definities
 
-| Begrip of afkorting  | :  | Betekenis  |
+| Begrip of afkorting  | :   | Betekenis  |
 |:---|:---|:---|
 | Aanvrager van een certificaat  | :  | De (rechts)persoon die bij de certificatie-instelling een aanvraag doet voor het afgeven van een certificaat.  |
 | Aanwijzing  | :  | Aanwijzing van een instelling bij of krachtens wettelijk voorschrift door de minister van SZW.  |
-| Beoordeling  | :  | Beoordeling (initiële, of her-) door de nationale accreditatie-instantie van instellingen op basis van het door de minister van SZW vastgestelde WDA&T, op grond waarvan de nationale accreditatie-instantie schriftelijk rapporteert of de instelling competent is om wettelijk verplichte certificaten af te geven.  |
-| BHST  | :  | Stichting die een wettelijke certificatieregeling beheert: TCVT.  |
-| Centraal College van Deskundigen (CCvD)  | :  | Het college, onderdeel van en/gefaciliteerd door BHST, dat belanghebbende partijen in een bepaalde sector of branche de mogelijkheid biedt tot deelname bij het opstellen en onderhouden van werkveldspecifieke documenten op zodanige wijze dat sprake is van een evenwichtige en representatieve vertegenwoordiging van deze partijen.  |
-| Certificaat  | :  | Een certificaat in de zin van artikel 20 Arbowet en artikel 6. Warenwetbesluit machines.  |
+| Beoordeling  | :  | Beoordeling (initiële, of her-) door de nationale accreditatie-instantie van instellingen op basis van het door de minister van SZW vastgestelde WDA&T, op grond waarvan de nationale accreditatie-instantie schriftelijk rapporteert of de instelling competent is om wettelijk verplichte certificaten af te geven.   |
+| BHST  | :  | Stichting die een wettelijke certificatieregeling beheert: TCVT.   |
+| Centraal College van Deskundigen (CCvD)  | :  | Het college, onderdeel van en/gefaciliteerd door BHST, dat belanghebbende partijen in een bepaalde sector of branche de mogelijkheid biedt tot deelname bij het opstellen en onderhouden van werkveldspecifieke documenten op zodanige wijze dat sprake is van een evenwichtige en representatieve vertegenwoordiging van deze partijen.   |
+| Certificaat  | :  | Een certificaat in de zin van artikel 20 Arbowet en artikel 6. Warenwetbesluit machines.   |
 | Certificaathouder  | :  | (rechts) Persoon die in het bezit is van een geldig wettelijk verplicht certificaat.  |
 | Certificatieproces  | :  | Alle activiteiten via welke een CKI beoordeelt en besluit of een persoon, product of systeem voldoet en blijft voldoen aan de normen, zoals opgenomen in het werkveldspecifieke certificatieschema.  |
 | Certificatiereglement  | :  | Bepalingen voor de uitvoering van het certificatieproces en de relaties tussen kandidaat en CKI.  |
@@ -345,7 +345,7 @@ Het gebruik van mobiele kranen, torenkranen en/of het gebruik van hijs- en hefwe
 
 ####Beschrijving document
 
-Dit werkveldspecifieke document voor aanwijzing en toezicht periodieke keuring van mobiele kranen, torenkranen en/of van hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of personen (bouw)liften is door het CCvD voorgesteld en door de minister van SZW vastgesteld. Dit vastgestelde document vervangt daarmee eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het CCvD.  
+Dit werkveldspecifieke document voor aanwijzing en toezicht periodieke keuring van mobiele kranen, torenkranen en/of van hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of personen (bouw)liften is door het CCvD voorgesteld en door de minister van SZW vastgesteld. Dit vastgestelde document vervangt daarmee eerdere versies. Op- en/of aanmerkingen over dit document kunnen worden ingediend bij het CCvD. 
 
 ### 3.2  
 
@@ -361,7 +361,7 @@ Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstel
 
 * Werkkamer 8 TCVT keuring hijs- en hefwerktuigen voor beroepsmatig personenvervoer en  
 
-* personen (bouw)liften CKI-overleg keuring hijskranen en keuring personenbouwliften en hefsteigers voor personen    
+* personen (bouw)liften CKI-overleg keuring hijskranen en keuring personenbouwliften en hefsteigers voor personen   
 
 ### 3.3  
 
@@ -369,14 +369,14 @@ Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstel
 
 | Centrale gebeurtenis  | Optredende risico’s  | Oorzaken  | Maatregelen  | Personen  | Producten  |
 |:---|:---|:---|:---|:---|:---|
-| Het verstrekken c.q. onderhouden van een certificaat op onterechte gronden  | Het niet naar behoren functioneren van de CKI  | Onvoldoende materiedeskundigheid eigen certificatiepersoneel/inlenen onvoldoende bekwaam personeel bij keuringen.  | 4.2.5  | 4.3.2  |
+| Het verstrekken c.q. onderhouden van een certificaat op onterechte gronden   | Het niet naar behoren functioneren van de CKI  | Onvoldoende materiedeskundigheid eigen certificatiepersoneel/inlenen onvoldoende bekwaam personeel bij keuringen.  | 4.2.5  | 4.3.2  |
 | Onvoldoende kennis van het werkveld  |
 | Inbreuk op de onafhankelijkheid/onpartijdigheid [afhankelijkheidsrelatie met de opdrachtgever bij kraankeuringen, inlenen van niet onafhankelijk certificatiepersoneel, uitbesteden aan niet onafhankelijke onderaannemers en daardoor inbreuk op onpartijdige keuring].  | 4.2.5  | 4.3.1  |
 | Onvoldoende toezichtkennis/geen effectief toezicht op certificaathouders. Waaronder het bijvoorbeeld bij inspectie bij de eigenaar/beheerder van de kraan niet bekend worden van het feit dat er een tekortkoming met direct gevaar voor de veiligheid bij een kraan is vastgesteld.  | 5. B, C, D, E en F  | 4.5.7 / 5.B, C en D  |
 | Geen onderlinge harmonisatie in het toepassen van de certificatieschema’s.  | --- | --- |
 | Inbreuk op de vertrouwelijkheid van informatie.  | 4.5.4  | 4.5.4  |
 
-Het verstrekken c.q. onderhouden van een certificaat op onterechte gronden wordt als de centrale gebeurtenis gedefinieerd. Om het verstrekken c.q. onderhouden van een certificaat op onterechte gronden te voorkomen is het noodzakelijk om maatregelen te nemen om zodoende de oorzaken van de optredende risico’s uit te bannen.  
+Het verstrekken c.q. onderhouden van een certificaat op onterechte gronden wordt als de centrale gebeurtenis gedefinieerd. Om het verstrekken c.q. onderhouden van een certificaat op onterechte gronden te voorkomen is het noodzakelijk om maatregelen te nemen om zodoende de oorzaken van de optredende risico’s uit te bannen. 
 
 ### 4  
 
@@ -396,7 +396,7 @@ De CKI, en de door haar ingeschakelde onderaannemers, is onafhankelijk en moet v
 
 − sub-sub contracting is niet toegestaan;  
 
-− niet uitbesteedbaar is de afgifte van certificaten van goedkeur.    
+− niet uitbesteedbaar is de afgifte van certificaten van goedkeur.   
 
 ### 4.1.2  
 
@@ -411,7 +411,7 @@ De CKI voldoet aan de voorwaarden voor aanwijzing door de minister van SZW als a
 | Training  | Al naar gelang de opleiding en ervaring van de keurmeester dient hij aanvullende training te volgen op de onder ‘opleiding’ genoemde opleidingen c.q. specifieke onderdelen daarvan. Daarnaast moet de keurmeester een training volgen, afgesloten met een TCVT-examen tot keurmeester. Daarnaast moet de keurmeester jaarlijks bijscholing volgen voor het specifieke type (mobiele kraan, torenkraan en/of hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of personen(bouw)liften), waarvoor hij wordt ingezet.  |
 | Zelfstandigheid  | Moet zelfstandig kunnen werken, risico’s in kunnen schatten, tekortkomingen kunnen wegen en beslissingen kunnen nemen.  |
 | Uitdrukkingsvaardig-  heid  | Goede mondelinge (en schriftelijke) uitdrukkingsvaardigheid.  |
-| Contactvaardigheid  | Goede contactuele vaardigheid.  |
+| Contactvaardigheid  | Goede contactuele vaardigheid.   |
 
 ### 4.1.3  
 
@@ -449,7 +449,7 @@ Het personeel van de CKI beschikt voor haar werkzaamheden tenminste over de volg
 
 ####Keuringsmethoden en -procedures
 
-De CKI is gehouden te keuren aan de hand van de beoordelingsformulieren van het WSCS-VT Periodiek keuring hijskranen en/of het WSCS Opstellings- en periodiek keuring hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of personen(bouw)liften. In voorkomende gevallen kan informatief een nadere uitleg van een eis in een TSJ zijn vastgelegd. Van de keuringen worden protocollen opgesteld en bewaard.  
+De CKI is gehouden te keuren aan de hand van de beoordelingsformulieren van het WSCS-VT Periodiek keuring hijskranen en/of het WSCS Opstellings- en periodiek keuring hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of personen(bouw)liften. In voorkomende gevallen kan informatief een nadere uitleg van een eis in een TSJ zijn vastgelegd. Van de keuringen worden protocollen opgesteld en bewaard. 
 
 ### 4.1.5  
 
@@ -459,7 +459,7 @@ Van een keuring wordt een rapport opgesteld dat wordt ondertekend door de CKI. B
 
 * naam en KvK-nummer van de CKI;  
 
-* het CKI-kenmerk van de aanwijzingsbeschikking door SZW.    
+* het CKI-kenmerk van de aanwijzingsbeschikking door SZW.   
 
 ### 4.2  
 
@@ -467,7 +467,7 @@ Van een keuring wordt een rapport opgesteld dat wordt ondertekend door de CKI. B
 
 De CKI wordt in het kader van haar aanwijzing op grond van de artikelen  1.5a t/m 1.5d Arbobesluit op de volgende criteria getoetst: 
 
-4.2.1 De aangewezen CKI en de werknemers die met de keuringen of beoordelingen zijn belast, voeren deze uit met de grootste mate van beroepsintegriteit.  
+4.2.1  De aangewezen CKI en de werknemers die met de keuringen of beoordelingen zijn belast, voeren deze uit met de grootste mate van beroepsintegriteit.  
 
 4.2.2 Er is een integriteitsbeleid, dat waar nodig in duidelijke voorschriften is uitgewerkt. Het personeel heeft zich aantoonbaar hieraan geconformeerd.  
 
@@ -493,7 +493,7 @@ De CKI wordt in het kader van haar aanwijzing op grond van de artikelen  1.5a t
 
 4.2.13 Alle documenten en registraties in het verkeer met de overheid dienen in het Nederlands te zijn tenzij anders met de overheid overeengekomen.  
 
-4.2.14 Verbod op onderuitbesteding op afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing.    
+4.2.14 Verbod op onderuitbesteding op afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing.   
 
 ### 5  
 
@@ -525,17 +525,17 @@ A. Zich jaarlijks vόόr 1 maart schriftelijk aan SZW te verantwoorden over de r
 
 11. het aantal malen per kalenderjaar dat afgeweken wordt van het sanctie- en maatregelenbeleid, genoemd onder 4.3.12.    
 
-B. Mee te werken aan de controles door SZW (in de praktijk betekent dit dat de controles door de Inspectie SZW en de nationale accreditatie-instantie uitgevoerd kunnen worden).  
+B.  Mee te werken aan de controles door SZW (in de praktijk betekent dit dat de controles door de Inspectie SZW en de nationale accreditatie-instantie uitgevoerd kunnen worden).  
 
-C. Tijdige en juiste informatie te verstrekken die SZW nodig heeft om te kunnen beoordelen of zij aan de aanwijzingsnormen blijft voldoen (in de praktijk betekent dit dat deze informatie aan de Inspectie SZW of de nationale accreditatie-instantie verstrekt moet worden). Deze informatie betreft alle informatie die relevant is voor de aanwijzingscriteria.  
+C.  Tijdige en juiste informatie te verstrekken die SZW nodig heeft om te kunnen beoordelen of zij aan de aanwijzingsnormen blijft voldoen (in de praktijk betekent dit dat deze informatie aan de Inspectie SZW of de nationale accreditatie-instantie verstrekt moet worden). Deze informatie betreft alle informatie die relevant is voor de aanwijzingscriteria.  
 
-D. Terstond informatie te verstrekken aan SZW en aan de BHST in het kader van hun registratietaak, over individuele certificaten/certificaathouders waaraan een sanctie is opgelegd (in de praktijk betekent dit dat deze informatie aan de Inspectie SZW, verstrekt moet worden). Deze informatie betreft de hoeveelheid niet afgegeven certificaten na inadequate reparatie of na niet reparatie na 2 maanden.  
+D.  Terstond informatie te verstrekken aan SZW en aan de BHST in het kader van hun registratietaak, over individuele certificaten/certificaathouders waaraan een sanctie is opgelegd (in de praktijk betekent dit dat deze informatie aan de Inspectie SZW, verstrekt moet worden). Deze informatie betreft de hoeveelheid niet afgegeven certificaten na inadequate reparatie of na niet reparatie na 2 maanden.  
 
-E. Aan te tonen aan SZW dat zij voldoende controleert of schriftelijk afgemelde tekortkomingen ook daadwerkelijk zijn verholpen. De CKI houdt zich bij de op te leggen sancties/maatregelen aan het vastgestelde sanctie- en maatregelenbeleid.  
+E.  Aan te tonen aan SZW dat zij voldoende controleert of schriftelijk afgemelde tekortkomingen ook daadwerkelijk zijn verholpen. De CKI houdt zich bij de op te leggen sancties/maatregelen aan het vastgestelde sanctie- en maatregelenbeleid.  
 
-F. SZW en TCVT in te lichten zodra zij voornemens is een of meer van haar taken te beëindigen.  
+F.  SZW en TCVT in te lichten zodra zij voornemens is een of meer van haar taken te beëindigen.  
 
-G. SZW in te lichten zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een wettelijke specifiek schema.    
+G.  SZW in te lichten zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een wettelijke specifiek schema.   
 
 ### 6  
 
@@ -561,7 +561,7 @@ De Stichting Toezicht Certificatie Verticaal Transport (Stichting TCVT) beheert 
 
 * Funderingsmachines;  
 
-* Hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of personen(bouw)liften.   Een actueel overzicht van de operationele certificatieschema’s en uitvoerende instellingen is beschikbaar op www.tcvt.nl. De certificatieschema’s worden gehanteerd door certificatie-instellingen, welke door de RvA zijn geaccrediteerd en in geval van verplichte certificatie door de minister van Sociale Zaken en Werkgelegenheid op verzoek daartoe zijn aangewezen. De certificaten worden geleverd als een dienst aan werkgevers, werknemers, afnemers en overheid teneinde duidelijk te stellen dat men er op mag vertrouwen dat de aangeboden vakbekwaamheid, producten, materieel, systemen en diensten in het kader van verticaal transport voldoen aan de eisen conform de Arbeidsomstandighedenwet etc. Door het uitgeven van een TCVT Certificaat van Vakbekwaamheid wordt aangegeven welke personen zijn gecertificeerd in het kader van Verticaal Transport. Door het zichtbaar aanbrengen van het TCVT Goedkeuringssticker op het materieel wordt duidelijk gemaakt dat het materieel is gecertificeerd in het kader van Verticaal Transport. Met een uniek nummer op het TCVT Goedkeuringssticker in combinatie met een daaraan gerelateerde en in het beoordelingsrapport opgenomen TCVT Certificaat van (Periodieke) Goedkeuring is de registratie van de keuring en de certificatiebeslissing door de keuringsinstelling terugvindbaar. De voorwaarden voor het gebruik van het TCVT-Certificaat van Vakbekwaamheid en Goedkeuring en het TCVT Goedkeuringssticker zijn in de volgende artikelen verwoord.  
+* Hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of personen(bouw)liften.   Een actueel overzicht van de operationele certificatieschema’s en uitvoerende instellingen is beschikbaar op www.tcvt.nl. De certificatieschema’s worden gehanteerd door certificatie-instellingen, welke door de RvA zijn geaccrediteerd en in geval van verplichte certificatie door de minister van Sociale Zaken en Werkgelegenheid op verzoek daartoe zijn aangewezen. De certificaten worden geleverd als een dienst aan werkgevers, werknemers, afnemers en overheid teneinde duidelijk te stellen dat men er op mag vertrouwen dat de aangeboden vakbekwaamheid, producten, materieel, systemen en diensten in het kader van verticaal transport voldoen aan de eisen conform de Arbeidsomstandighedenwet etc. Door het uitgeven van een TCVT Certificaat van Vakbekwaamheid wordt aangegeven welke personen zijn gecertificeerd in het kader van Verticaal Transport. Door het zichtbaar aanbrengen van het TCVT Goedkeuringssticker op het materieel wordt duidelijk gemaakt dat het materieel is gecertificeerd in het kader van Verticaal Transport. Met een uniek nummer op het TCVT Goedkeuringssticker in combinatie met een daaraan gerelateerde en in het beoordelingsrapport opgenomen TCVT Certificaat van (Periodieke) Goedkeuring is de registratie van de keuring en de certificatiebeslissing door de keuringsinstelling terugvindbaar. De voorwaarden voor het gebruik van het TCVT-Certificaat van Vakbekwaamheid en Goedkeuring en het TCVT Goedkeuringssticker zijn in de volgende artikelen verwoord. 
 
 ####Vormgeving en gebruik
 
@@ -576,12 +576,12 @@ Het TCVT Beeldmerk is geregistreerd onder nummer 0954925 in het Benelux Merkenre
 
 In de desbetreffende certificatieschema’s is de positie van het schema als volgt aangegeven. 
 
-A. wettelijke verplicht, waarin men toetst aan wettelijke normen, bijvoorbeeld bij risicovolle beroepsactiviteiten. Het TCVT Certificaat is het bewijs dat wordt voldaan aan de wettelijke normen. Dit wordt in het certificaat met een toevoeging aan het logo gecodeerd aangegeven met -A-  
+A.  wettelijke verplicht, waarin men toetst aan wettelijke normen, bijvoorbeeld bij risicovolle beroepsactiviteiten. Het TCVT Certificaat is het bewijs dat wordt voldaan aan de wettelijke normen. Dit wordt in het certificaat met een toevoeging aan het logo gecodeerd aangegeven met -A-  
 
-B. vrijwillig, waarbij betrokken partijen afspraken maken over de invulling van algemeen gestelde wettelijke voorschriften. Het TCVT Certificaat is een bewijs dat wordt voldaan aan de algemeen gestelde wettelijke voorschriften. Dit wordt in het certificaat gecodeerd aangegeven met een toevoeging aan het logo met -B-.   
+B.  vrijwillig, waarbij betrokken partijen afspraken maken over de invulling van algemeen gestelde wettelijke voorschriften. Het TCVT Certificaat is een bewijs dat wordt voldaan aan de algemeen gestelde wettelijke voorschriften. Dit wordt in het certificaat gecodeerd aangegeven met een toevoeging aan het logo met -B-.   
 ### *Onderscheid naar vakbekwaamheid of staat van onderhoud van het hijsmaterieel* 
 
-Dit wordt in het certificaat gecodeerd aangegeven met de onderstaande toevoeging aan het logo.   ![250886](http://wetten.overheid.nl/Illustration/250886)
+Dit wordt in het certificaat gecodeerd aangegeven met de onderstaande toevoeging aan het logo. ![250886](http://wetten.overheid.nl/Illustration/250886)
 
 ### 2  
 
@@ -591,7 +591,7 @@ Dit wordt in het certificaat gecodeerd aangegeven met de onderstaande toevoeging
 
 ### *Warenwetbesluit artikel 6f* 
 
-2. Op het certificaat van goedkeuring wordt de datum van keuring vermeld, alsmede gegevens betreffende de identificatie van de hijskraan. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van de hijskraan   Het TCVT Certificaat van Goedkeuring betreft materieel voor verticaal transport conform de desbetreffende certificatieschema’s, opgesteld door de werkkamers. De certificatie-instelling verleent een certificaat van goedkeuring (A-4 formaat) met een unieke identificatiecode volgens haar eigen systematiek. In het aangegeven gebied D1 wordt het TCVT-Beeldmerk aangebracht tezamen met het certificaatnummer en de datum van uitgifte. Het TCVT Certificaat van Goedkeuring wordt opgenomen in het keuringsrapport.   ![250887](http://wetten.overheid.nl/Illustration/250887)
+2. Op het certificaat van goedkeuring wordt de datum van keuring vermeld, alsmede gegevens betreffende de identificatie van de hijskraan. Het certificaat van goedkeuring of een afschrift daarvan bevindt zich in de nabijheid van de hijskraan   Het TCVT Certificaat van Goedkeuring betreft materieel voor verticaal transport conform de desbetreffende certificatieschema’s, opgesteld door de werkkamers. De certificatie-instelling verleent een certificaat van goedkeuring (A-4 formaat) met een unieke identificatiecode volgens haar eigen systematiek. In het aangegeven gebied D1 wordt het TCVT-Beeldmerk aangebracht tezamen met het certificaatnummer en de datum van uitgifte. Het TCVT Certificaat van Goedkeuring wordt opgenomen in het keuringsrapport.  ![250887](http://wetten.overheid.nl/Illustration/250887)
 
 ### *Goedkeuringssticker* 
 
@@ -608,7 +608,7 @@ In combinatie met het TCVT Certificaat van Goedkeuring wordt er op de machine ee
 − XXX.XXX = volgnummer .   De overige gegevens dienen door de CI met een door haar te verstrekken TCVT Goedkeuringssticker te worden aangebracht. Voor materieel en hijsmiddelen geldt dat het TCVT Goedkeuringssticker op een voor derden duidelijk zichtbare plaats is aangebracht. 
 ### *TCVT Goedkeuringssticker* 
 
-Door keuringsinstelling te verzorgen. Op de keuringslocatie handmatig invullen van datum, wettelijk verplicht (A) of vrijwillig (B), de identificatie van de machine en door aankruisen aangeven jaar/ maand van de volgende TCVT keuring wettelijk verplicht (A) of vrijwillig (B). Stickers bij Bureau TCVT te bestellen.   ![250888](http://wetten.overheid.nl/Illustration/250888)
+Door keuringsinstelling te verzorgen. Op de keuringslocatie handmatig invullen van datum, wettelijk verplicht (A) of vrijwillig (B), de identificatie van de machine en door aankruisen aangeven jaar/ maand van de volgende TCVT keuring wettelijk verplicht (A) of vrijwillig (B). Stickers bij Bureau TCVT te bestellen. ![250888](http://wetten.overheid.nl/Illustration/250888)
 ![250889](http://wetten.overheid.nl/Illustration/250889)
 
 ### 3  
@@ -627,7 +627,7 @@ Het TCVT-Certificaat van Vakbekwaamheid betreft de vakbekwaamheid van kraanmachi
 
 * YY.YYY = volgnummer van het verleende certificaat, onafhankelijk van het  
 
-* certificatieschema .   Deze gegevens zullen door Stichting TCVT opgenomen worden in het TCVT persoonsregister. Voor buitenstaanders zullen alleen de naam, geboortedatum, het certificaatnummer en de registratiecode beschikbaar zijn. Met het TCVT persoonsregister faciliteert Stichting TCVT de certificatie-instellingen, die de verplichting van een openbaar certificaatregister hebben. Het TCVT persoonsregister is voor derden toegankelijk op www.tcvt.nl. Via een vraagvenster wordt de input verzorgd. Aan de hand van de output, welke ook op het certificaat is vermeld, kan de geldigheid worden vastgesteld. voorbeeld:   ![250890](http://wetten.overheid.nl/Illustration/250890)
+* certificatieschema .   Deze gegevens zullen door Stichting TCVT opgenomen worden in het TCVT persoonsregister. Voor buitenstaanders zullen alleen de naam, geboortedatum, het certificaatnummer en de registratiecode beschikbaar zijn. Met het TCVT persoonsregister faciliteert Stichting TCVT de certificatie-instellingen, die de verplichting van een openbaar certificaatregister hebben. Het TCVT persoonsregister is voor derden toegankelijk op www.tcvt.nl. Via een vraagvenster wordt de input verzorgd. Aan de hand van de output, welke ook op het certificaat is vermeld, kan de geldigheid worden vastgesteld. voorbeeld: ![250890](http://wetten.overheid.nl/Illustration/250890)
 
 ### 4  
 
@@ -641,5 +641,5 @@ Het TCVT-Beeldmerk mag niet worden gebruikt op een wijze die zou kunnen suggerer
 De certificaatverlenende instelling heeft een signaleringsplicht naar de Stichting TCVT met betrekking tot het onjuiste dan wel oneigenlijk gebruik. Bij onjuist dan wel oneigenlijk gebruik van het TCVT-Beeldmerk kan Stichting TCVT tot haar daartoe beschikbare maatregelen overgaan. 
 ### *Reglementwijzigingen* 
 
-De Stichting TCVT kan besluiten dit reglement te wijzigen. Van iedere wijziging van dit reglement stelt de Stichting TCVT de instellingen onverwijld schriftelijk in kennis onder mededeling van een overgangstermijn.  
+De Stichting TCVT kan besluiten dit reglement te wijzigen. Van iedere wijziging van dit reglement stelt de Stichting TCVT de instellingen onverwijld schriftelijk in kennis onder mededeling van een overgangstermijn. 
 

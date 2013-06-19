@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. container, aangewezen instelling en wet:  hetgeen daaronder wordt verstaan in het [Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md);    b. R:  de maximaal toelaatbare massa van de container tezamen met zijn lading;    c. g:  de standaardversnelling van de zwaartekracht (9,8 m/s²).     
+In deze regeling wordt verstaan onder:   a. container, aangewezen instelling en wet:   hetgeen daaronder wordt verstaan in het [Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md);    b. R:  de maximaal toelaatbare massa van de container tezamen met zijn lading;    c. g:  de standaardversnelling van de zwaartekracht (9,8 m/s²).    
 
 ### Artikel  2  
 
@@ -19,7 +19,7 @@ Als wissellaadbakken, bedoeld in [artikel 1a, onder 3°, van het Warenwetbesluit
 
 a. niet stapelbaar zijn en niet toegerust zijn met bovenhoekstukken en tevens  
 
-b. ontworpen zijn en worden gebruikt voor vervoer uitsluitend over de weg of uitsluitend over rails en over de weg dan wel, geplaatst op een rail- of wegvoertuig, worden vervoerd over zee, met uitzondering van oceaankruisend vervoer.    
+b. ontworpen zijn en worden gebruikt voor vervoer uitsluitend over de weg of uitsluitend over rails en over de weg dan wel, geplaatst op een rail- of wegvoertuig, worden vervoerd over zee, met uitzondering van oceaankruisend vervoer.   
 
 ### Artikel  2a  
 
@@ -45,7 +45,7 @@ i. door de instelling ontvangen klachten en de wijze van afhandeling daarvan;
 
 j. tegen de besluiten van de instelling ingediende bezwaren en ingestelde beroepen en de wijze van afhandeling daarvan;  
 
-k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.    
+k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.   
 
 ### Hoofdstuk  II  
 
@@ -53,7 +53,7 @@ k. een financieel verslag betreffende de activiteiten waarvoor de instelling is 
 
 ### Artikel  3  
 
-De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md), worden uitgevoerd overeenkomstig het bepaalde in de artikelen 4 tot en met 10.  
+De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md), worden uitgevoerd overeenkomstig het bepaalde in de artikelen 4 tot en met 10. 
 
 ### Artikel  4  
 
@@ -62,9 +62,9 @@ De beproevingen, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit cont
 
 a. in geval van hijsen aan de bovenhoekstukken: 
 
-1º. bij een nominale lengte van de container tot en met 3000 mm op zodanige wijze onderworpen aan de hijskrachten op de vier bovenhoekstukken, dat de hoek tussen elk deel van de hijsinrichting en de vertikaal 30° bedraagt, en  
+1º.  bij een nominale lengte van de container tot en met 3000 mm op zodanige wijze onderworpen aan de hijskrachten op de vier bovenhoekstukken, dat de hoek tussen elk deel van de hijsinrichting en de vertikaal 30° bedraagt, en  
 
-2º. bij een nominale lengte van de container van meer dan 3000 mm onderworpen aan vertikale hijskrachten op de vier bovenhoekstukken;    
+2º.  bij een nominale lengte van de container van meer dan 3000 mm onderworpen aan vertikale hijskrachten op de vier bovenhoekstukken;    
 
 b. in geval van hijsen aan de bodemhoekstukken op zodanige wijze onderworpen aan de hijskrachten, dat de delen van de hijsinrichting slechts op die bodemhoekstukken uitwerking hebben. De hijskrachten moeten worden uitgeoefend onder een hoek met het horizontale vlak van: 
 
@@ -87,7 +87,7 @@ b. in geval van hijsen aan de bodemhoekstukken op zodanige wijze onderworpen aan
 | vierde lid  | 1,25 R  |
 
 met dien verstande dat zodanige uitwendige krachten worden uitgeoefend, dat de totale massa zoals aangegeven in kolom 2 kan worden opgeheven. Bij een tankcontainer wordt, indien de totale massa van de container en de inwendig aangebrachte beproevingsbelasting minder is dan de totale massa zoals aangegeven in kolom 2, een aanvullende belasting verdeeld over de lengte van de tank op de container aangebracht.   
-6.  Een container die ingericht is om in beladen toestand te worden opgehesen of opgeheven volgens een methode, anders dan bedoeld in het tweede, derde of vierde lid, moet tevens worden onderworpen aan een inwendige belasting en aan uitwendig uitgeoefende krachten, welke de aan die methode eigen versnellingskrachten typeren.   
+6.  Een container die ingericht is om in beladen toestand te worden opgehesen of opgeheven volgens een methode, anders dan bedoeld in het tweede, derde of vierde lid, moet tevens worden onderworpen aan een inwendige belasting en aan uitwendig uitgeoefende krachten, welke de aan die methode eigen versnellingskrachten typeren.  
 
 ### Artikel  5  
 
@@ -97,13 +97,13 @@ met dien verstande dat zodanige uitwendige krachten worden uitgeoefend, dat de t
 a. een zodanige inwendige, gelijkmatig verdeelde, belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan 1,8 R.  
 
 b. een uitwendige belasting, bestaande in een op elk van de vier bovenhoekstukken vertikaal neerwaarts gerichte krachten van 0,25 × 1,8 × de zwaartekracht van de toelaatbare statische stapelbelasting, met dien verstande dat de krachten worden uitgeoefend met behulp van een beproevingshoekstuk of een steunblok, waarvan de oppervlaktematen overeenstemmen met die van de bovenhoekstukken en welke op die bovenhoekstukken geplaatst moeten zijn met een afwijking van 25 mm in zijdelinge richting en 38 mm in de lengterichting.     
-3.  Het bepaalde in het tweede lid, onder a, kan ten aanzien van tankcontainers buiten toepassing blijven.   
+3.  Het bepaalde in het tweede lid, onder a, kan ten aanzien van tankcontainers buiten toepassing blijven.  
 
 ### Artikel  6  
 
 1.  De puntbelastingsbeproeving wordt uitgevoerd op de buitenzijde van het dak en op de binnenzijde van de bodem van de container.   
 2.  Bij de puntbelastingsbeproeving op de buitenzijde van het dak wordt die buitenzijde op het zwakste gedeelte over een oppervlakte van 600 mm × 300 mm onderworpen aan een uitwendige, gelijkmatig verdeelde, belasting, bestaande in een vertikaal neerwaarts gerichte zwaartekracht van 3 kN.   
-3.  Bij de puntbelastingsbeproeving op de binnenzijde van de bodem wordt de container met de bodemhoeken geplaatst op steunblokken waarvan de bovenzijden zich in één horizontaal vlak bevinden, en wel zodanig dat het bodemraam van de container vrij kan buigen. In deze stand van de container wordt over zijn gehele bodem een proeflast voortbewogen van 54,6 kN, bestaande in twee lasten van 27,3 kN die elk met de bodem een aanrakingsoppervlakte hebben van 142 cm² bij een breedte van 180 mm en waarvan de middelpunten 760 mm van elkaar verwijderd zijn.   
+3.  Bij de puntbelastingsbeproeving op de binnenzijde van de bodem wordt de container met de bodemhoeken geplaatst op steunblokken waarvan de bovenzijden zich in één horizontaal vlak bevinden, en wel zodanig dat het bodemraam van de container vrij kan buigen. In deze stand van de container wordt over zijn gehele bodem een proeflast voortbewogen van 54,6 kN, bestaande in twee lasten van 27,3 kN die elk met de bodem een aanrakingsoppervlakte hebben van 142 cm² bij een breedte van 180 mm en waarvan de middelpunten 760 mm van elkaar verwijderd zijn.  
 
 ### Artikel  7  
 
@@ -111,7 +111,7 @@ Bij de torsiebeproeving wordt de container in onbeladen toestand met elk van de 
 
 a. op elk bovenhoekstuk aan één zijde van de container, indien deze ten opzichte van zijn vertikale hartlijn symmetrisch is, en  
 
-b. op elk bovenhoekstuk aan beide zijden van de container, indien deze ten opzichte van zijn vertikale hartlijn asymmetrisch is,   een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met het bodemraam en de vlakken van de kopwanden, en vervolgens in omgekeerde richting.  
+b. op elk bovenhoekstuk aan beide zijden van de container, indien deze ten opzichte van zijn vertikale hartlijn asymmetrisch is,   een en ander in de richting van de bovenhoekstukken langs lijnen, evenwijdig met het bodemraam en de vlakken van de kopwanden, en vervolgens in omgekeerde richting. 
 
 ### Artikel  8  
 
@@ -120,7 +120,7 @@ b. op elk bovenhoekstuk aan beide zijden van de container, indien deze ten opzic
 a. een zodanige inwendige, gelijkmatig verdeelde, belasting dat de totale massa van de container en de beproevingsbelasting gelijk is aan R.  
 
 b. een uitwendige belasting, bestaande in trek- en drukkrachten gelijk aan Rg, resulterend in een samengestelde kracht van 2Rg op het bodemraam van de container in zijn geheel, met dien verstande dat de krachten op elk van de zijwanden in de lengterichting worden uitgeoefend in de richting van de veranderingspunten en vervolgens in omgekeerde richting     
-2.  Wanneer bij een tankcontainer de totale massa van de container en de inwendig aangebrachte beproevingsbelasting minder is dan R, wordt op die container een aanvullende belasting aangebracht.   
+2.  Wanneer bij een tankcontainer de totale massa van de container en de inwendig aangebrachte beproevingsbelasting minder is dan R, wordt op die container een aanvullende belasting aangebracht.  
 
 ### Artikel  9  
 
@@ -130,7 +130,7 @@ a. één der kopwanden, indien deze identiek zijn, en
 
 b. elk van de kopwanden, indien deze niet identiek zijn, met dien verstande dat de kopwanden niet gelijktijdig mogen worden beproefd ingeval de container uitgevoerd is met zijdeuren of met open zijwanden.     
 2.  In geval van afzonderlijke beproeving van de kopwanden moeten de reactiekrachten van de op die kopwanden uitgeoefende belasting zich beperken tot de structuur van het bodemraam van de container.   
-3.  Indien de kopwanden van een container zodanig ontworpen zijn dat zij een andere kracht dan 0,4 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (Pg) kunnen weerstaan, moet, in afwijking van het eerste lid, die andere belasting worden uitgeoefend.   
+3.  Indien de kopwanden van een container zodanig ontworpen zijn dat zij een andere kracht dan 0,4 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (Pg) kunnen weerstaan, moet, in afwijking van het eerste lid, die andere belasting worden uitgeoefend.  
 
 ### Artikel  10  
 
@@ -141,47 +141,47 @@ a. één der zijwanden, indien deze identiek zijn, en
 b. elk der zijwanden, indien deze niet identiek zijn, met dien verstande dat de zijwanden niet gelijktijdig mogen worden beproefd.     
 2.  Bij de beproeving, bedoeld in het eerste lid, moeten de reactiekrachten van de op de zijwand uitgeoefende belasting zich beperken tot de hoekstukken.   
 3.  Bij de beproeving, bedoeld in het eerste lid, moet een container die geen vaste bovenafdekking heeft, zich bevinden in de staat waarin die container bestemd is te worden gebruikt.   
-4.  Indien de zijwanden van een container zodanig ontworpen zijn, dat zij een andere kracht dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (Pg) kunnen weerstaan, moet, in afwijking van het eerste lid, die andere belasting worden uitgeoefend.   
+4.  Indien de zijwanden van een container zodanig ontworpen zijn, dat zij een andere kracht dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (Pg) kunnen weerstaan, moet, in afwijking van het eerste lid, die andere belasting worden uitgeoefend.  
 
 ### Artikel  10a  
 
 1.  Containers met één ontbrekende deur worden voor gebruik gekeurd.   
-2.  De artikelen 5 en 7 zijn van overeenkomstige toepassing op de keuring, bedoeld in het eerste lid.   
+2.  De artikelen 5 en 7 zijn van overeenkomstige toepassing op de keuring, bedoeld in het eerste lid.  
 
-### Hoofdstuk  III  
+### Hoofdstuk   III  
 
 ####Merk van goedkeuring
 
 ### Artikel  12  
 
-1.  Het merk van goedkeuring van een container bestaat in een plaat van duurzaam corrosie- en brandbestendig materiaal met een formaat van ten minste 200 mm × 100 mm, waarop in ten minste de Engelse of de Franse taal duidelijk en onuitwisbaar met betrekking tot de container vermeld moeten zijn: 
+1. Het merk van goedkeuring van een container bestaat in een plaat van duurzaam corrosie- en brandbestendig materiaal met een formaat van ten minste 200 mm × 100 mm, waarop in ten minste de Engelse of de Franse taal duidelijk en onuitwisbaar met betrekking tot de container vermeld moeten zijn: 
 
 a. de letters CSC met daarachter het woord VEILIGHEIDSKEUR, een en ander met een hoogte van ten minste 8 mm, en daaronder  
 
 b. in letters en cijfers met een hoogte van ten minste 5 mm onder elkaar: 
 
-1º. het teken NL- met daarachter de aanduiding van de goedkeuring,  
+1º.  het teken NL- met daarachter de aanduiding van de goedkeuring,  
 
-2º. de maand en het jaar van fabricage,  
+2º.  de maand en het jaar van fabricage,  
 
-3º. het identificatienummer dat de fabrikant aan de container heeft toegekend, of het met dat nummer corresponderende identificatienummer (met inbegrip van het voorvoegsel) waaronder de eigenaar de container heeft geregistreerd, dan wel, indien de container is vervaardigd vóór het tijdstip van inwerkingtreding van het [Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md) en dat nummer niet bekend is, het identificatienummer dat de aangewezen instelling aan de container heeft toegekend,  
+3º.  het identificatienummer dat de fabrikant aan de container heeft toegekend, of het met dat nummer corresponderende identificatienummer (met inbegrip van het voorvoegsel) waaronder de eigenaar de container heeft geregistreerd, dan wel, indien de container is vervaardigd vóór het tijdstip van inwerkingtreding van het [Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md) en dat nummer niet bekend is, het identificatienummer dat de aangewezen instelling aan de container heeft toegekend,  
 
-4º. de maximaal toelaatbare massa van de container tezamen met zijn lading, in kg en lbs (kg-lb),  
+4º.  de maximaal toelaatbare massa van de container tezamen met zijn lading, in kg en lbs (kg-lb),  
 
-5º. de toelaatbare stapelbelasting bij 1,8 g, in kg en lbs (kg-lb),  
+5º.   de toelaatbare stapelbelasting bij 1,8 g, in kg en lbs (kg-lb),  
 
-6º. de kracht bij de torsiebeproeving in kN (kg),  
+6º.  de kracht bij de torsiebeproeving in kN (kg),  
 
-7º. de kopwandsterkte, indien de kopwanden zo zijn ontworpen dat zij een kracht, anders dan 0,4 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,4 Pg) kunnen weerstaan,  
+7º.  de kopwandsterkte, indien de kopwanden zo zijn ontworpen dat zij een kracht, anders dan 0,4 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,4 Pg) kunnen weerstaan,  
 
-8º. de zijwandsterkte, indien de zijwanden zo zijn ontworpen dat zij een kracht, anders dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,6 Pg) kunnen weerstaan, alsmede  
+8º.  de zijwandsterkte, indien de zijwanden zo zijn ontworpen dat zij een kracht, anders dan 0,6 × de zwaartekracht bij het maximaal toelaatbare gewicht van de lading (0,6 Pg) kunnen weerstaan, alsmede  
 
-9º. de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md) voor de eerste maal moet worden onderzocht,  
+9º.  de maand en het jaar, voor het begin waarvan de container ingevolge [artikel 11, tweede lid, van het Warenwetbesluit containers](../../../../AMvB/besluit/containers/BWBR0003584/README.md) voor de eerste maal moet worden onderzocht,  
 
 10°. De stapelsterkte bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: TOELAATBAAR STAPELGEWICHT BIJ EEN ONTBREKENDE DEUR BIJ 1,8 g (in kg en lb). De markering wordt aangegeven nabij de waarde van de torsiebeproeving,  
 
-11°. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: BELASTINGSWAARDE BIJ TORSIEBEPROEVING BIJ EEN ONTBREKENDE DEUR (in kg en lb). De markering wordt aangegeven nabij de waarde van de stapelbeproeving.       
-2.  Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen respectievelijk een verminderde bestendigheid bij torsiebelasting te hebben en wordt zulks op een goed zichtbare plaats op de plaat vermeld, overeenkomstig de normen, bedoeld in Bijlage I, Hoofdstuk I, bepaling 1, derde lid, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).   
+11°. De belastingswaarde bij torsiebeproeving bij één ontbrekende deur, indien de container is goedgekeurd voor gebruik met één ontbrekende deur. De markering luidt: BELASTINGSWAARDE BIJ TORSIEBEPROEVING BIJ EEN ONTBREKENDE DEUR (in kg en lb). De markering wordt aangegeven nabij de waarde van de stapelbeproeving.     
+2.  Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen respectievelijk een verminderde bestendigheid bij torsiebelasting te hebben en wordt zulks op een goed zichtbare plaats op de plaat vermeld, overeenkomstig de normen, bedoeld in Bijlage I, Hoofdstuk I, bepaling 1, derde lid, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28). 
 
 ### Artikel  13  
 
@@ -189,13 +189,13 @@ Fabrikanten van en handelaren in containers zijn bevoegd om containers die gehee
 
 a. zulks geschiedt op een goed zichtbare en zo weinig mogelijk kwetsbare plaats op de container nabij andere wettelijk voorgeschreven aanduidingen;  
 
-b. in een daartoe bestemd register aantekening wordt gehouden van ten minste: 
+b. in een daartoe bestemd register aantekening wordt gehouden van ten minste:  
 
-1º. de identificatienummers die de fabrikant aan de containers heeft toegekend,  
+1º.  de identificatienummers die de fabrikant aan de containers heeft toegekend,  
 
-2º. de data van aflevering van de containers, alsmede  
+2º.  de data van aflevering van de containers, alsmede  
 
-3º. de namen en adressen van degenen aan wie de containers worden afgeleverd;    
+3º.  de namen en adressen van degenen aan wie de containers worden afgeleverd;    
 
 c. alvorens wordt aangevangen met de vervaardiging van een nieuwe serie containers overeenkomstig het goedgekeurde monster of de goedgekeurde monsters, daarvan aan de aangewezen instelling kennis wordt gegeven;  
 
@@ -203,11 +203,11 @@ d. in het ontwerp of de specificatie van het goedgekeurde monster of de goedgeke
 
 e. in de onderneming een controleregeling getroffen is om te waarborgen dat de containers met het goedgekeurde monster of de goedgekeurde monsters overeenkomen en  
 
-f. de aangewezen instelling in de gelegenheid wordt gesteld om tijdens de vervaardiging van de containers door onderzoekingen of beproevingen te controleren of die containers met het goedgekeurde monster of de goedgekeurde monsters overeenkomen.    
+f. de aangewezen instelling in de gelegenheid wordt gesteld om tijdens de vervaardiging van de containers door onderzoekingen of beproevingen te controleren of die containers met het goedgekeurde monster of de goedgekeurde monsters overeenkomen.   
 
 ### Artikel  14  
 
-Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die in de staten, zijnde Partijen bij de Internationale Overeenkomst voor Veilige Containers (Trb. 1976, 28) in overeenstemming met de aldaar geldende wettelijke en bestuursrechtelijke regelen op containers aangebracht zijn.  
+Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die in de staten, zijnde Partijen bij de Internationale Overeenkomst voor Veilige Containers (Trb. 1976, 28) in overeenstemming met de aldaar geldende wettelijke en bestuursrechtelijke regelen op containers aangebracht zijn. 
 
 ### Hoofdstuk  IV  
 
@@ -215,29 +215,33 @@ Met het merk van goedkeuring worden gelijkgesteld de merken van goedkeuring die 
 
 ### Artikel  15  
 
-De toezichthouder onderwerpt een goedgekeurde container aan controle met inachtneming van Bijlage III, paragrafen 1, 2 en 4, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28).  
+De toezichthouder onderwerpt een goedgekeurde container aan controle met inachtneming van Bijlage III, paragrafen 1, 2 en 4, bij de Internationale Overeenkomst voor veilige containers, 1972 (Trb. 1976, 28). 
 
 ### Hoofdstuk  V  
 
 ####Aanwijzing ambtenaren
 
-### Hoofdstuk  VI  
+Vervallen per 01-01-2012 
+
+### Hoofdstuk   VI  
 
 ####Merk van afkeuring
+
+Vervallen per 01-01-2012 
 
 ### Hoofdstuk  VII  
 
 ####Slotbepalingen
 
-### Artikel  19  
+###Artikel 19 
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Warenwetregeling containers.  
+Deze regeling wordt aangehaald als: Warenwetregeling containers.
 
 's-Gravenhage 
 28 januari 1985    
 
 De 
 staatssecretaris voornoemd, 
-A.Kappeyne van de Coppello    
+A. Kappeyne van de Coppello      

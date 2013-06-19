@@ -42,7 +42,7 @@ M.Rutte
 
 Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handelingen en werkzaamheden*   
 
-|  *NR*   |  *Toepassing(scategorie)*   |  *Voorbeelden*   |  *Doel toepassing*   |  *Argumenten rechtvaardiging*   <sup> 1)   Voor alle toepassingen gelden in meer of mindere mate de argumenten ‘werkgelegenheid’, ‘de verhoging van gemak’ en ‘economische of sociale voordelen voor de maatschappij’.    </sup> |
+|  *NR*   |  *Toepassing(scategorie)*   |  *Voorbeelden*   |  *Doel toepassing*   |  *Argumenten rechtvaardiging <sup>1)</sup>*   |
 |:---|:---|:---|:---|:---|
 |  *I*   |  *Onderzoeks- en Industriële toepassingen*   |
 |  *I.A*   |  *Ingekapselde bronnen voor*   |
@@ -80,13 +80,14 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | --- | --- | ♦ aangroeiing in procesapparaten en depositie in leidingen meten  | --- | ♦ tijdige signalering van onveilige situaties  |
 | I.A.8  | Exploratie onderzoek  | ♦ gammabackscatter t.b.v. dichtheidsmetingen van gesteenten in gas- en olievelden via boorputten  | ♦ verhoging rendement olie- en gasvelden  | ♦ optimalisatie ontginning van energiebronnen  |
 | --- | --- | ♦ neutronenbackscatter voor opsporen water-, gas- en olievelden via boorputten  | ♦ betere benutting van energievoorraden  | ♦ beter in beeld brengen van energiereserves  |
-| I.A.9  | Consumentenproducten  | ♦ aanwijsinstrumenten (klokken, horloges, navigatieinstrumenten)  <sup> 2)   Bepaalde aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, zijn voor ‘civiel’ gebruik niet te rechtvaardigen en daarom bij AMvB (§ 4.3, artikel 27 tot en met 30, BS) verboden    </sup> | ♦ (nood)verlichting  | ♦ vermindering van (mogelijk) gevaar  |
-| --- | --- | ♦ lampen (H-3 en Kr-85)  | ♦ leesbaarheid  | ♦ effectiviteit  |
+| I.A.9  | (Consumenten)producten  | ♦ aanwijsinstrumenten <sup>2)</sup> (klokken, horloges, navigatieinstrumenten)  | ♦ (nood)verlichting  | ♦ vermindering van (mogelijk) gevaar  |
+| --- | --- | ♦ lampen (H-3, Kr-85, Th 228, Th 230, Th 232 inclusief vervalproducten)  | ♦ leesbaarheid  | ♦ effectiviteit  |
 | --- | --- | ♦ starters (Kr-85 en Th-232)  | ♦ waarschuwing voor gevaar  | --- |
 | --- | --- | ♦ elektronische componenten  | ♦ snellere werking  | --- |
-| --- | --- | ♦ "bèta lights" in vliegtuigen en bioscopen  | --- | --- |
-| --- | --- | ♦ ionisatie rookmelders  <sup> 3)   Het gebruik van ionisatie rookmelders in woningen zal worden uitgefaseerd. Dit op basis van het feit dat er voor woningen een alternatief bestaat in de vorm van optische rookmelders. In nieuwbouw zal het plaatsen van ionisatie rookmelders vanaf de inwerkingtreding van het Bouwbesluit (gepland op 1 januari 2003) niet meer als gerechtvaardigd worden aangemerkt. Na 2005 zal tevens de verkoop van ionisatie rookmelders voor woningen door detailhandelaren als niet-gerechtvaardigd worden aangemerkt.    </sup> | --- | --- |
+| --- | --- | ♦ "bèta lights" in vliegtuigen en bioscopen  | ♦ helderheid  | --- |
+| --- | --- | ♦ ionisatie rookmelders voor bedrijfsmatige toepassingen  | --- | --- |
 | --- | --- | ♦ beeldschermen  | --- | --- |
+| I.A.10  | Ontsteking  | ♦ spark gap tubes H-3 en Ni-63  | ♦ ontsteking olie of gas brander door middel van hoge energie ontsteeklans  | ♦ optimalisatie van processen  ♦ veiliger en betrouwbaarder procesvoering  ♦ kostenbesparing  |
 |  *I.B*   |  *Open bronnen bij*   |
 | I.B.1  | Procesindustrie  | ♦ ertsverwerkende industrie  | ♦ bewerken van primaire en secundaire grondstoffen in de procesindustrie  | ♦ verbetering van marktpositie  |
 | --- | --- | ♦ olie- en gaswinning  | --- | ♦ bevordering van investeringen  |
@@ -148,7 +149,8 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | --- | --- | ♦ veiligheidsoefeningen  | --- | ♦ bevorderen van kennis  |
 | I.D.4  | Afvalverwerking  | ♦ erkende ophaaldienst radioactief afval  | ♦ afvalverwerking  | ♦ gecontroleerde en beheersbare afvaldeponie of -verwerking  |
 | --- | --- | ♦ afvaldeponie  | --- | --- |
-|  *II*   |  *Medische en veterinaire toepassingen*   <sup>  4)     Voor zover het de blootstelling van het personeel of leden van de bevolking ten gevolge van onderzoek of therapie van anderen of dieren betreft en niet de blootsteling van personen of dieren die zelf een onderzoek of therapie ondergaan    </sup> |
+| I.D.5  | Eerste hulp bij ongewenste situaties door het veiligstellen en indien nodig afvoeren bij derden van radio-actieve stoffen of splijtstoffen of ertsen, in het geval van het onverwacht of niet gepland en ongewild aanwezig zijn van die stoffen bij die derden en die derden niet gerechtigd zijn die stoffen voorhanden te hebben  | ♦ schroot- en afvalverwerkers, veembedrijven, container terminals, onderhouds- en servicebedrijven voor de olie en gasproductie-bedrijven  | ♦ opheffen van een ongewenste en illegale situatie;  ♦ veiligstellen of het afvoeren van bij derden onbevoegd voorhanden zijnde stoffen  | ♦ vermindering van (mogelijk) gevaar voor mens en milieu;  ♦ opheffen van illegale situaties  |
+|  *II*   |  *Medische en veterinaire toepassingen <sup>4)</sup>*   |
 |  *II.A*   |  *Medische praktijk met toestellen en open- of ingekapselde bronnen*   |
 | II.A.1  | Therapie  | ♦ therapie m.b.v. deeltjesversnellers  | ♦ curatieve of palliatieve therapie i.v.m. de behandeling van kanker, littekenweefsel of andere huisdefecten en voor pijnbestrijding etc.  | ♦ individuele gezondheid  |
 | --- | --- | ♦ therapie of simulatie- of planningsdoeleinden t.b.v. therapie m.b.v. röntgenapparatuur  | --- | ♦ volksgezondheid  |
@@ -182,11 +184,13 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | III.A.4  | Het vervoer en de in-, uit- en doorvoer van splijtstoffen, ertsen en radioactieve stoffen, indien reeds eerder voor soortgelijk transport onder dezelfde condities een vergunning is verleend of aan de meldingsplicht is voldaan en de condities op de plaats van bestemming niet zijn gewijzigd  | ♦ aan- en afvoer van materialen, bronnen etc. binnen, door en in en uit Nederland  | ♦ een eerder verleende vergunning of het voldoen aan een melding hield impliciet een rechtvaardiging in. Tenzij er nieuwe redelijke alternatieven zijn, is het transport wederom gerechtvaardigd  |
 | III.A.5  | Het vervoer van splijtstoffen, ertsen en radioactieve stoffen door een erkende ophaaldienst van radioactieve afvalstoffen en splijtstof of erts bevattende afvalstoffen  | ♦ afvoer naar de erkende ophaaldienst van materialen  | ♦ gecentraliseerde radioactief afval-berging is te prefereren  |
 | III.A.6  | Het vervoer door een daartoe aangewezen instelling of persoon van in bezit genomen radioactieve stoffen, splijtstoffen en ertsen  | ♦ afvoer van in bezit genomen materialen  | ♦ bij inbeslagname moet het materiaal vervoerd worden  |
-| III.A.7  | Opslag in verband met vervoer , indien het desbetreffende vervoer gerechtvaardigd is  <sup> 5)   Opslag in verband met vervoer, valt alleen onder het Vervoersbesluit indien deze opslag niet langer dan twee werkdagen plaatsvindt en het vervoer zelf reeds geregeld is.    </sup> | ♦ voor het vervoer het daartoe gereed maken en zetten van materialen  | ♦ noodzakelijk onderdeel van vervoer en dus gerechtvaardigd  |
+| III.A.7  | Opslag in verband met vervoer <sup>5)</sup>, indien het desbetreffende vervoer gerechtvaardigd is  | ♦ voor het vervoer het daartoe gereed maken en zetten van materialen  | ♦ noodzakelijk onderdeel van vervoer en dus gerechtvaardigd  |
 |  *III.B*   |  *In-, uit- en doorvoer van radioactieve afvalstoffen en splijtstof of erts bevattende afvalstoffen*   |
 | III.B.1  | In- uit- en doorvoer van radioactieve afvalstoffen en splijtstof of erts bevattende afvalstoffen, waarvoor aan de meldingsplicht voldaan is of waarvoor een vergunning is verleend en schriftelijk bekend gemaakt is dat het transitland of het land van bestemming deze materialen wil accepteren  | --- | ♦ een verleende vergunning of het voldoen aan een melding houd impliciet een rechtvaardiging in. Tenzij er nieuwe redelijke alternatieven zijn, is het transport wederom gerechtvaardigd  |
 | --- | --- | --- | ♦ de ontvangst elders is gerechtvaardigd en dus ook het transport er naar toe  |
 | III.B.2  | De invoer, de uitvoer of de doorvoer van de material en, bedoeld in III.B.1 indien reeds eerder voor een soortgelijk transport onder dezelfde condities een vergunning is verleend of aan de meldingsplicht is voldaan en de condities op de plaats van bestemming niet zijn gewijzigd  | --- | ♦ een reeds verleende vergunning of het voldoen aan een melding voor soortgelijk vervoer houd impliciet een rechtvaardiging in. Tenzij er nieuwe redelijke alternatieven zijn, is het transport wederom gerechtvaardigd  |
+
+1) Voor alle toepassingen gelden in meer of mindere mate de argumenten ‘werkgelegenheid’, ‘de verhoging van gemak’ en ‘economische of sociale voordelen voor de maatschappij’. 2) Bepaalde aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, zijn voor ‘civiel’ gebruik niet te rechtvaardigen en daarom bij AMvB (§ 4.3, artikel 27 tot en met 30, BS) verboden 4) Voor zover het de blootstelling van het personeel of leden van de bevolking ten gevolge van onderzoek of therapie van anderen of dieren betreft en niet de blootsteling van personen of dieren die zelf een onderzoek of therapie ondergaan 5) Opslag in verband met vervoer, valt alleen onder het Vervoersbesluit indien deze opslag niet langer dan twee werkdagen plaatsvindt en het vervoer zelf reeds geregeld is. 
 
 ### Bijlage  2  
 
