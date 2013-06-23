@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende de vaststelling van een algemene heffing groenten en fruit 2012 (Verordening PT algemene heffing groenten en fruit 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,  
-gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en gelet op de [artikelen 13](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor groenten en fruit, d.d. 3 november 2011;
 BESLUIT:     
@@ -11,12 +11,15 @@ BESLUIT:
 
 ####Begripsbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 31-03-2013   
+
+### Artikel  1   
+Materieel uitgewerkt per 31-03-2013   
 
 Deze verordening verstaat onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | productschap  | :  | Productschap Tuinbouw;  |
 | bestuur  | :  | het bestuur van het Productschap Tuinbouw;  |
 | voorzitter  | :  | voorzitter van het productschap;  |
@@ -25,10 +28,10 @@ Deze verordening verstaat onder:
 | afzetorganisatie/bemiddelaar  | :  | de natuurlijke of rechtspersoon die, voor zover niet voor eigen rekening en risico, in opdracht van of ten behoeve van telers de door hen geteelde producten verkoopt;  |
 | bewerken  | :  | handelingen waardoor van groenten en fruit gebruiksklare artikelen worden gemaakt, zoals schonen, schillen, schrappen, snijden, mengen, wassen en centrifugeren;  |
 | braakland  | :  | de gronden die in enig oogstjaar tot en met april van het daarop volgende oogstjaar niet worden beteeld;  |
-| cultuurgrond  | :  | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de [Regeling Landbouwtelling](../../../../../../../../../../ministeriele-regeling/regeling/landbouwtelling/en/gecombineerde/opgave/2011/BWBR0029777/README.md) nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
+| cultuurgrond  | :  | beteelde grond, braakland, beschikbare oppervlakte van bakken voor de trek van witlof of van elk ander groeimedium met behulp waarvan de in artikel 3  genoemde groenten en fruit kunnen worden geteeld, of in het tijdvak bedoeld in de Regeling Landbouwtelling nog niet beteelde grond waarbij een teelt voor eind augustus wordt ingezet;  |
 | contractteelt  | :  | de teelt van gewassen of producten ingevolge een overeenkomst waarbij het teeltrisico ligt bij de teler;  |
 | gemeten maat  | :  | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn;  |
-| groenten en fruit  | :  | de producten vermeld in [artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);  |
+| groenten en fruit  | :  | de producten vermeld in artikel 3, vierde lid, onder a en b, van het Instellingsbesluit Productschap Tuinbouw;  |
 | handelen  | :  | het aankopen of importeren van vers of bewerkt fruit (met uitzondering van slaggrondnoten en kopra) en groenten (met uitzondering van zaden van groenten) en het verkopen daarvan;  |
 | noten  | :  | amandelen, cashewnoten, hazelnoten, paranoten, pecannoten, pistachenoten en walnoten in welke vorm dan ook, gepeld, ongepeld, gedroogd, geblancheerd, gebrand, ongebrand, gezouten, gemengd, gebroken, geschaafd of verduurzaamd;  |
 | ondernemer  | :  | de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld;  |
@@ -42,22 +45,28 @@ Deze verordening verstaat onder:
 
 ####Heffingsplicht
 
-### Artikel  2  
+Materieel uitgewerkt per 31-03-2013   
+
+### Artikel  2   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  De ondernemer die een onderneming drijft, met als activiteit het handelen in groenten en fruit, het bewerken, het telen of verduurzamen van groenten en fruit, is over het kalenderjaar 2012 een heffing verschuldigd aan het productschap. Uit de opbrengst van deze heffing worden de bestuurskosten en de huishoudelijke kosten van het productschap gefinancierd.   
-2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan de Dienst Regelingen van het ministerie van Economische Zaken, Landbouw en Innovatie verstrekte gegevens of op basis van de conform de [Verordening PT Algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) aan het productschap verstrekte gegevens.   
+2.  De berekening van de heffing vindt plaats op basis van de door de ondernemer aan de Dienst Regelingen van het ministerie van Economische Zaken, Landbouw en Innovatie verstrekte gegevens of op basis van de conform de Verordening PT Algemene bepalingen 2009 aan het productschap verstrekte gegevens.   
 
 ### §  3  
 
 ####Grondslag en hoogte
 
-### Artikel  3  
+Materieel uitgewerkt per 31-03-2013   
+
+### Artikel  3   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  De ondernemer die in 2012 de in het tweede lid genoemde groenten en fruit teelt wordt een heffing opgelegd met als grondslag het grondgebruik.   
 2.  Deze heffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per productgroep uitgedrukt in de genoemde eenheid vermenigvuldigd met het genoemde tarief in Euro en bedraagt voor:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Productgroep*   |  *BRSnr.*   |  *Tarief*   |  *Eenh.*   |
 |  *Glasgroenten*   | --- | --- | --- |
 | Andijvie  | 648  | 0,85  | are  |
@@ -155,7 +164,8 @@ b. Overige paddenstoelen 0,036%, en
 
 c. Uitgangsmateriaal 0,012%.     
 
-### Artikel  4  
+### Artikel  4   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  Bij het vaststellen van de in artikel 3, tweede lid genoemde heffing wordt onder cultuurgrond mede verstaan de cultuurgrond die: 
 
@@ -168,44 +178,52 @@ c. in gebruik is ontvangen, of
 d. door de ondernemer wordt beteeld voor contractteelt.     
 2.  Bij het vaststellen van de heffing in artikel 3 wordt per productgroep een gedeelte van een hectare of een are afgerond tot een veelvoud van respectievelijk een are en een centiare.   
 
-### Artikel  5  
+### Artikel  5   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  De ondernemer die handelt in groenten en fruit is over het kalenderjaar 2012 een heffing verschuldigd met als grondslag de aankoopwaarde handel.   
 2.  In afwijking van het eerste lid is de ondernemer die groenten en fruit, die niet afkomstig zijn uit de Europese Unie, importeert, een heffing verschuldigd over de CIF-waarde.   
-3.  De in het eerste en het tweede lid genoemde heffingen bedragen 0,015% van de aankoopwaarde handel respectievelijk de CIF waarde in het kalenderjaar 2012.   
+3.  De in het eerste en tweede lid genoemde heffingen bedragen 0,003% van de aankoopwaarde handel respectievelijk de CIF-waarde in het kalenderjaar 2012.   
 4.  In afwijking van het eerste en het tweede lid, is de ondernemer die in het kalenderjaar 2012 handelt in uien een heffing verschuldigd met als grondslag het gewicht van de aangekochte uien.   
-5.  De in het vierde lid genoemde heffing bedraagt € 1,24 per 100.000 aangekochte netto kilogram uien.   
+5.  De in het vierde lid genoemde heffing bedraagt € 0,25 per 100.000 aangekochte netto kilogram uien.   
 6.  Geen heffing wordt opgelegd over aangekochte groenten en fruit die zijn verkocht aan consumenten voor hun persoonlijke behoefte, tenzij de ondernemer dit aan consumenten verkochte product: 
 
 a. heeft aangekocht, al dan niet via een afzetorganisatie of een bemiddelaar, van de ondernemer die dit product heeft geteeld, of  
 
 b. uit het buitenland heeft aangekocht.     
 
-### Artikel  6  
+### Artikel  6   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  De ondernemer die groenten en fruit verduurzaamt is over het kalenderjaar 2012 een heffing verschuldigd met als grondslag omzet af fabriek.   
 2.  Uitgezonderd van de heffing zijn: pindakaas, sauzen, natte en droge soepen, aroma's, limonades, salades, kindervoedsel, kant en klaarmaaltijden en snoeprepen.   
-3.  De in het eerste lid genoemde heffing bedraagt 0,019% van de omzet "af fabriek" in het kalenderjaar 2012.   
+3.  De in het eerste lid genoemde heffing bedraagt 0,013% van de omzet "af fabriek" in het kalenderjaar 2012.   
 
 ### §  4  
 
 ####Oplegging en inning
 
-### Artikel  7  
+Materieel uitgewerkt per 31-03-2013   
+
+### Artikel  7   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  De oplegging van de krachtens deze verordening verschuldigde heffing vindt plaats in of na afloop van het betreffende kalenderjaar en geschiedt door toezending of uitreiking aan de ondernemer van een heffingsnota.   
 2.  In afwijking van het eerste lid, kan aan de ondernemer een voorlopige heffing worden opgelegd tot het bedrag waarop de heffing vermoedelijk zal worden vastgesteld. De voorlopige heffing wordt verrekend met de krachtens deze verordening verschuldigde heffing.   
 
-### Artikel  8  
+### Artikel  8   
+Materieel uitgewerkt per 31-03-2013   
 
 Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat verstrekte gegevens of een raming als bedoeld in artikel 7, tweede lid, niet in overeenstemming zijn met de werkelijkheid, kan een opgelegde heffing aan de hand van deze gegevens worden herzien en opnieuw worden opgelegd.  
 
-### Artikel  9  
+### Artikel  9   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  De gegevens verkregen uit hoofde van het bepaalde in deze verordening worden in handen van de secretaris of door deze aan te wijzen personen van het secretariaat van het productschap gesteld.   
 2.  Deze gegevens worden uitsluitend gebruikt voor de vervulling van de taak van het productschap.   
 
-### Artikel  10  
+### Artikel  10   
+Materieel uitgewerkt per 31-03-2013   
 
 1.  Het bestuur is belast met de uitvoering van het bij of krachtens deze verordening bepaalde en is bevoegd omtrent de bij of krachtens deze verordening geregelde onderwerpen nadere uitvoeringsvoorschriften te geven.   
 2.  Het bestuur is bevoegd geheel of gedeeltelijk ontheffing te verlenen van het bij of krachtens deze verordening bepaalde. Aan een zodanige ontheffing kan het bestuur voorschriften verbinden.   
@@ -215,11 +233,15 @@ Indien uit de ter beschikking van het productschap gekomen gegevens blijkt dat v
 
 ####Slotbepalingen
 
-### Artikel  11  
+Materieel uitgewerkt per 31-03-2013   
+
+### Artikel  11   
+Materieel uitgewerkt per 31-03-2013   
 
 Deze verordening treedt in werking op 1 januari 2012. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2012, treedt zij in werking op de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2012.  
 
-### Artikel  12  
+### Artikel  12   
+Materieel uitgewerkt per 31-03-2013   
 
 Deze verordening wordt aangehaald als: Verordening PT algemene heffing groenten en fruit 2012.  
 
