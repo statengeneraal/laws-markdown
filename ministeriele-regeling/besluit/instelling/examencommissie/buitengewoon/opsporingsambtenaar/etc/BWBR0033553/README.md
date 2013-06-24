@@ -14,25 +14,25 @@ a. als voorzitter: A. Brouwer, namens de Landelijke Eenheid van de Nationale Pol
 
 b. als leden: D.K. Baak, namens HTM; H. Derks, namens RET; mw. mr. Y.E.T.M. Gerner, namens het Ministerie van Infrastructuur en Milieu; dr. J. Hollander, namens Connexxion; drs. A.J. Vaandrager, namens KNV; F.J. Vermeulen, namens het arrondissementsparket Rotterdam; G.G. van der Zalm, namens NS Opleidingen; mw. E.C.T.J. Zeldenthuis, namens het GVB.  
 
-c. Het secretariaat wordt gevoerd door KNV.    
+c. Het secretariaat wordt gevoerd door KNV.   
 
 ### Artikel  2  
 
-De Instellingsbeschikking examencommissie buitengewoon opsporingsambtenaar openbaar vervoer 2012 wordt ingetrokken.  
+De Instellingsbeschikking examencommissie buitengewoon opsporingsambtenaar openbaar vervoer 2012 wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als ‘Besluit instelling examencommissie buitengewoon opsporingsambtenaar openbaar vervoer 2013’.  
+Dit besluit wordt aangehaald als ‘Besluit instelling examencommissie buitengewoon opsporingsambtenaar openbaar vervoer 2013’. 
 Dit besluit wordt gepubliceerd in de Staatscourant.   
 
 ’s-Gravenhage 
 18 juni 2013   
 
 De 
-Minister van Veiligheid en Justitie,namens deze:
-M.Jongeneel - van Amerongen,
-het hoofd van de afdeling bestuurlijke en juridische zaken.   
+Minister van Veiligheid en Justitie, namens deze: 
+M. Jongeneel - van Amerongen,  
+het hoofd van de afdeling bestuurlijke en juridische zaken.    

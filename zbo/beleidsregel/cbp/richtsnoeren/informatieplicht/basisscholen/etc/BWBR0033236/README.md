@@ -6,7 +6,7 @@ De [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/beschermin
 
 ####Doel van dit richtsnoer
 
-Het College bescherming persoonsgegevens heeft dit richtsnoer opgesteld ter verduidelijking en concretisering voor basisscholen van de wettelijke norm met betrekking tot de informatieplicht in de [Wbp](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).    
+Het College bescherming persoonsgegevens heeft dit richtsnoer opgesteld ter verduidelijking en concretisering voor basisscholen van de wettelijke norm met betrekking tot de informatieplicht in de [Wbp](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 
 ####Informatieplicht met betrekking tot het onderwijskundig rapport
 
