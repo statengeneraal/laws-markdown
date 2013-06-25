@@ -2,7 +2,7 @@
 
 ##Beleidsregels aanwijzen accountantsopleidingen
 
-Voor inschrijving in het accountantsregister van de Nederlandse Beroepsorganisatie van Accountants (NBA) dienen kandidaten op grond van [artikel 38 van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) (Wab) een opleiding gevolgd te hebben die voldoet aan de in [artikel 49 Wab, tweede lid, onder a](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bedoelde eindtermen. Aan de Commissie Eindtermen Accountantsopleiding (CEA) komt op grond van [artikel 49 Wab, tweede lid, onder b](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) de bevoegdheid toe opleidingen aan te wijzen die geheel of gedeeltelijk voldoen aan de in artikel 49 Wab, eerste lid, onder a bedoelde eindtermen, met uitzondering van de eindtermen die betrekking hebben op de praktijkopleiding, voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig [artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of niet de toets nieuwe opleiding overeenkomstig [artikel 5a.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) met positief gevolg hebben ondergaan. CEA wijst alleen Nederlandse accountantsopleidingen aan indien deze voldoen aan de eindtermen. De eindtermen zijn immers specifiek voor Nederlandse opleidingen vastgesteld. Het wettelijk regime gaat er van uit dat studenten die in Nederland een accountantsopleiding volgen, ingeschreven kunnen worden in het accountantsregister als zij een opleiding hebben gevolgd die voldoet aan de eindtermen. Het aanwijzen van buitenlandse accountantsopleidingen behoort niet tot de taak en daarmee ook niet tot de bevoegdheid van CEA. Het wettelijk kader biedt CEA dan ook geen instrumenten om toezicht uit te oefenen op buitenlandse opleidingen of handhavend jegens hen op te treden. Voor personen die een buitenlandse accountantsopleiding hebben gevolgd, biedt de verklaring van vakbekwaamheid toegang tot het Nederlandse accountantsregister. CEA verstrekt aan een opleiding een aanwijzing als de opleiding kan aantonen dat zij voldoet aan de eindtermen en het bijbehorende toezichtkader zoals die door CEA zijn vastgesteld. CEA trekt een eenmaal verstrekte aanwijzing in beginsel in indien en zodra een opleiding niet meer blijkt te voldoen aan de eindtermen of aan de voorwaarden die verbonden zijn aan de aanwijzing. Om vast te kunnen stellen of opleidingen na de aanwijzing blijven voldoen aan de eindtermen en aan de voorwaarden die aan de aanwijzing zijn verbonden, houdt CEA doorlopend toezicht op door haar aangewezen opleidingen. Onderstaande beleidsregels bepalen hoe CEA invulling geeft aan de bevoegdheid om aanwijzingen te verstrekken in de zin van [artikel 49, tweede lid, onder b van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) dan wel een verstrekte aanwijzing in te trekken. De beleidsregels zien voorts op de wijze waarop CEA invulling geeft aan het doorlopende toezicht op aangewezen opleidingen.   
+Voor inschrijving in het accountantsregister van de Nederlandse Beroepsorganisatie van Accountants (NBA) dienen kandidaten op grond van [artikel 38 van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) (Wab) een opleiding gevolgd te hebben die voldoet aan de in [artikel 49 Wab, tweede lid, onder a](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) bedoelde eindtermen. Aan de Commissie Eindtermen Accountantsopleiding (CEA) komt op grond van [artikel 49 Wab, tweede lid, onder b](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) de bevoegdheid toe opleidingen aan te wijzen die geheel of gedeeltelijk voldoen aan de in artikel 49 Wab, eerste lid, onder a bedoelde eindtermen, met uitzondering van de eindtermen die betrekking hebben op de praktijkopleiding, voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig [artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of niet de toets nieuwe opleiding overeenkomstig [artikel 5a.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) met positief gevolg hebben ondergaan. CEA wijst alleen Nederlandse accountantsopleidingen aan indien deze voldoen aan de eindtermen. De eindtermen zijn immers specifiek voor Nederlandse opleidingen vastgesteld. Het wettelijk regime gaat er van uit dat studenten die in Nederland een accountantsopleiding volgen, ingeschreven kunnen worden in het accountantsregister als zij een opleiding hebben gevolgd die voldoet aan de eindtermen. Het aanwijzen van buitenlandse accountantsopleidingen behoort niet tot de taak en daarmee ook niet tot de bevoegdheid van CEA. Het wettelijk kader biedt CEA dan ook geen instrumenten om toezicht uit te oefenen op buitenlandse opleidingen of handhavend jegens hen op te treden. Voor personen die een buitenlandse accountantsopleiding hebben gevolgd, biedt de verklaring van vakbekwaamheid toegang tot het Nederlandse accountantsregister. CEA verstrekt aan een opleiding een aanwijzing als de opleiding kan aantonen dat zij voldoet aan de eindtermen en het bijbehorende toezichtkader zoals die door CEA zijn vastgesteld. CEA trekt een eenmaal verstrekte aanwijzing in beginsel in indien en zodra een opleiding niet meer blijkt te voldoen aan de eindtermen of aan de voorwaarden die verbonden zijn aan de aanwijzing. Om vast te kunnen stellen of opleidingen na de aanwijzing blijven voldoen aan de eindtermen en aan de voorwaarden die aan de aanwijzing zijn verbonden, houdt CEA doorlopend toezicht op door haar aangewezen opleidingen.  Onderstaande beleidsregels bepalen hoe CEA invulling geeft aan de bevoegdheid om aanwijzingen te verstrekken in de zin van [artikel 49, tweede lid, onder b van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) dan wel een verstrekte aanwijzing in te trekken. De beleidsregels zien voorts op de wijze waarop CEA invulling geeft aan het doorlopende toezicht op aangewezen opleidingen.    
 
 ####Regels
 
@@ -12,29 +12,29 @@ Voor inschrijving in het accountantsregister van de Nederlandse Beroepsorganisat
 
 In deze beleidsregels wordt verstaan onder: 
 
-a. *Aanvraag:* een verzoek van een belanghebbende opleiding aan CEA om een aanwijzing op grond van [artikel 49, tweede lid, onder b Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+a.  *Aanvraag:* een verzoek van een belanghebbende opleiding aan CEA om een aanwijzing op grond van [artikel 49, tweede lid, onder b Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-b. *Adviescommissie:* een door CEA benoemde persoon of ingesteld college, niet werkzaam onder verantwoordelijkheid van CEA, belast met het adviseren van CEA over het te nemen besluit ter zake van het aanwijzen van een opleiding;  
+b.  *Adviescommissie:* een door CEA benoemde persoon of ingesteld college, niet werkzaam onder verantwoordelijkheid van CEA, belast met het adviseren van CEA over het te nemen besluit ter zake van het aanwijzen van een opleiding;  
 
-c. *Awb:*[Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+c.  *Awb:* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-d. *Eindtermen:* de normen waarin is vastgelegd welke kennis en vaardigheden onderdeel van een accountantsopleiding moeten vormen, zoals bedoeld in [artikel 49, tweede lid, onder a Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+d.  *Eindtermen:* de normen waarin is vastgelegd welke kennis en vaardigheden onderdeel van een accountantsopleiding moeten vormen, zoals bedoeld in [artikel 49, tweede lid, onder a Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-e. *CEA:* Commissie Eindtermen Accountantsopleiding als bedoeld in [artikel 49, eerste lid Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+e.  *CEA:* Commissie Eindtermen Accountantsopleiding als bedoeld in [artikel 49, eerste lid Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-f. *Opleiding:* een samenhangend geheel van onder meer onderwijseenheden, docenten, faciliteiten en organisatie van een onderwijsinstelling of andersoortige organisatie die ten doel heeft studenten op te leiden voor de theoretische opleiding tot accountant zoals bepaald in [artikel 46 Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+f.  *Opleiding:* een samenhangend geheel van onder meer onderwijseenheden, docenten, faciliteiten en organisatie van een onderwijsinstelling of andersoortige organisatie die ten doel heeft studenten op te leiden voor de theoretische opleiding tot accountant zoals bepaald in [artikel 46 Wab](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
 
-g. *Studielast:* de studielast uitgedrukt in studiepunten zoals bepaald in [artikel 7.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+g.  *Studielast:* de studielast uitgedrukt in studiepunten zoals bepaald in [artikel 7.4 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-h. *Toezichtkader:* de door CEA vastgestelde aspecten en criteria die worden gehanteerd bij de beoordeling of een opleiding geheel of gedeeltelijk voldoet aan de eindtermen;  
+h.  *Toezichtkader:* de door CEA vastgestelde aspecten en criteria die worden gehanteerd bij de beoordeling of een opleiding geheel of gedeeltelijk voldoet aan de eindtermen;  
 
-i. *Wab:*[Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).    
+i.  *Wab:* [Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
 
 ### Artikel  2  
 
 ####Informatievoorziening
 
-1.  CEA stelt via haar website informatie beschikbaar over het aanwijzen van opleidingen. Op de website wordt tenminste informatie gegeven over CEA, over de relevante wettelijke bepalingen, over het verstrekken van een aanwijzing en over de daarbij gehanteerde procedure, criteria en rechtsmiddelen.   
+1.  CEA stelt via haar website informatie beschikbaar over het aanwijzen van opleidingen. Op de website wordt tenminste informatie gegeven over CEA, over de relevante wettelijke bepalingen, over het verstrekken van een aanwijzing en over de daarbij gehanteerde procedure, criteria en rechtsmiddelen.  
 
 ### Artikel  3  
 
@@ -42,7 +42,7 @@ i. *Wab:*[Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountant
 
 1.  CEA stelt een toezichtkader vast met daarin de aspecten en criteria die CEA hanteert bij de beoordeling van een aanvraag van een aanwijzing.   
 2.  Het toezichtkader vormt onderdeel van deze beleidsregels.   
-3.  De beleidsregels en het toezichtkader voor een aanvraag van een aanwijzing worden gepubliceerd op de website van CEA en in de Staatscourant. Ze worden voorts op verzoek beschikbaar gesteld aan de aanvrager.   
+3.  De beleidsregels en het toezichtkader voor een aanvraag van een aanwijzing worden gepubliceerd op de website van CEA en in de Staatscourant. Ze worden voorts op verzoek beschikbaar gesteld aan de aanvrager.  
 
 ### Artikel  4  
 
@@ -71,7 +71,7 @@ d. Beschrijving van de overeenstemming van het opleidings-/examenprogramma van d
 e. Overzicht van de docenten per onderwijseenheid, inclusief recent CV (of profielschets indien nog geen docenten zijn aangesteld);  
 
 f. Indien de opleiding slechts gedeeltelijk aan de eindtermen voldoet: de wijze waarop en de opleidingen waarmee de studenten aan de overige door CEA gestelde eindtermen kunnen gaan voldoen.     
-6.  Na indiening van de aanvraag verstrekt CEA aan de aanvrager zo spoedig mogelijk een overzicht van de voor behandeling van deze specifieke aanvraag benodigde (aanvullende) informatie.   
+6.  Na indiening van de aanvraag verstrekt CEA aan de aanvrager zo spoedig mogelijk een overzicht van de voor behandeling van deze specifieke aanvraag benodigde (aanvullende) informatie.  
 
 ### Artikel  5  
 
@@ -79,7 +79,7 @@ f. Indien de opleiding slechts gedeeltelijk aan de eindtermen voldoet: de wijze 
 
 1.  CEA kan voor de beoordeling van de aanvraag een adviescommissie inschakelen.   
 2.  CEA en de door CEA ingestelde adviescommissie kunnen de aanvrager ook na de aanvankelijk verzochte informatie om aanvullende gegevens en bescheiden verzoeken indien dit voor de beoordeling van de aanvraag noodzakelijk is. De termijn voor het beslissen op de aanvraag wordt opgeschort met ingang van de dag waarop CEA en/of de adviescommissie de aanvrager om aanvulling van gegevens heeft verzocht tot de dag waarop de aanvraag is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken.   
-3.  CEA en de adviescommissie betrachten, ieder met inachtneming van hun wettelijke verplichtingen, geheimhouding ter zake de behandeling van de aanvraag en de door de aanvrager overgelegde gegevens en bescheiden die vertrouwelijk zijn of waarvan redelijkerwijs het vermoeden bestaat dat ze vertrouwelijk zijn.   
+3.  CEA en de adviescommissie betrachten, ieder met inachtneming van hun wettelijke verplichtingen, geheimhouding ter zake de behandeling van de aanvraag en de door de aanvrager overgelegde gegevens en bescheiden die vertrouwelijk zijn of waarvan redelijkerwijs het vermoeden bestaat dat ze vertrouwelijk zijn.  
 
 ### Artikel  6  
 
@@ -141,7 +141,7 @@ iii. de mate waarin de instelling in Nederland bijdraagt aan het verzorgen van h
 iv. de mate van betrokkenheid van docenten van de instelling in Nederland bij het onderwijs en de examens van de accountantsopleiding;  
 
 v. de mate waarin het onderwijs en de examens tot doel hebben om studenten voor te bereiden op de beroepsuitoefening in Nederland.       
-5.  Het is in een specifieke situatie de combinatie van de verschillende aspecten zoals genoemd in lid 4 van dit artikel die bepaalt of er sprake is van een Nederlandse accountantsopleiding die in aanmerking kan komen voor een aanwijzing door CEA.   
+5.  Het is in een specifieke situatie de combinatie van de verschillende aspecten zoals genoemd in lid 4 van dit artikel die bepaalt of er sprake is van een Nederlandse accountantsopleiding die in aanmerking kan komen voor een aanwijzing door CEA.  
 
 ### Artikel  7  
 
@@ -165,7 +165,7 @@ c. dat de opleiding alle wijzigingen die relevant (kunnen) zijn voor de verstrek
 
 d. dat de opleiding incidenten en bijzondere gebeurtenissen die van wezenlijke invloed kunnen zijn op de kwaliteit en/of samenstelling van de opleiding terstond bij CEA meldt. De melding omvat in ieder geval een aanduiding van het incident of de bijzondere gebeurtenis, de datum van het incident of de bijzondere gebeurtenis, de maatregel(en) die de opleiding heeft getroffen of zal gaan treffen, inclusief het tijdstip van de maatregel(en). Nadere informatie over het melden van incidenten en bijzondere gebeurtenissen is te vinden op de website van CEA www.ceaweb.nl.     
 7.  Een besluit tot aanwijzing van een opleiding kan door CEA tijdelijk, voorwaardelijk, geheel of gedeeltelijk worden ingetrokken, indien CEA van oordeel is dat de opleiding op onderdelen niet of niet meer voldoet aan de criteria zoals bepaald in artikel 6 van deze beleidsregels, aan de aan de aanwijzing verbonden voorwaarden of indien de opleiding haar medewerking zoals bedoeld in het zesde lid van dit artikel onthoudt, of indien de opleiding aantoonbaar in strijd handelt met de bepalingen van artikel 8 van deze beleidsregels.   
-8.  Een aanwijzing is niet overdraagbaar.   
+8.  Een aanwijzing is niet overdraagbaar.  
 
 ### Artikel  8  
 
@@ -173,7 +173,7 @@ d. dat de opleiding incidenten en bijzondere gebeurtenissen die van wezenlijke i
 
 1.  CEA kan, ambtshalve of op verzoek van de houder van een aanwijzing, een verleende aanwijzing verlengen met een door CEA te bepalen termijn.   
 2.  De voorwaarden en voorschriften van de aanwijzing die verlengd wordt blijven onverminderd van kracht.   
-3.  CEA kan bij een besluit tot verlenging van een aanwijzing aanvullende voorwaarden en/of voorschriften bepalen.   
+3.  CEA kan bij een besluit tot verlenging van een aanwijzing aanvullende voorwaarden en/of voorschriften bepalen.  
 
 ### Artikel  9  
 
@@ -184,7 +184,7 @@ d. dat de opleiding incidenten en bijzondere gebeurtenissen die van wezenlijke i
 3.  De uitingen dienen nauwkeurig en in overeenstemming met de wet en de tekst van het aanwijzingsbesluit te zijn. De opleiding mag geen onjuiste verwachtingen wekken bij (potentiële) studenten of anderen over de reikwijdte van het besluit tot aanwijzing of de mogelijkheden tot inschrijving in het accountantsregister van NBA na voltooiing van de opleiding, welke inschrijving volledig voorbehouden is aan het bestuur van de NBA.   
 4.  Indien CEA van mening is dat een publieke uiting in strijd is met de bepalingen van deze beleidsregels kan zij de opleiding verzoeken de uiting aan te passen en/of ongedaan te maken dan wel te (doen) rectificeren. De opleiding dient aan een dergelijk verzoek van CEA terstond gevolg te geven.   
 5.  Indien CEA een eerder verstrekte aanwijzing tijdelijk of geheel heeft ingetrokken, dient de opleiding alle uitingen ter zake van het besluit tot aanwijzing terstond te staken en (potentiële) studenten en/of andere betrokkenen te informeren dat de aanwijzing niet meer van kracht is en welke gevolgen dit heeft voor betreffende (potentiële) studenten.   
-6.  Het gebruik van het CEA-logo bij uitingen over een aanwijzingsbesluit is niet toegestaan.   
+6.  Het gebruik van het CEA-logo bij uitingen over een aanwijzingsbesluit is niet toegestaan.  
 
 ### Artikel  10  
 
@@ -194,17 +194,17 @@ d. dat de opleiding incidenten en bijzondere gebeurtenissen die van wezenlijke i
 2.  Ten behoeve van de in het eerste lid van dit artikel bedoelde beoordeling, vraagt CEA periodiek en indien nodig gericht informatie op bij de aangewezen opleidingen. Voorts kan CEA de vertegenwoordigers van die opleidingen mondeling om inlichtingen of toelichtingen vragen.   
 3.  De periodieke informatie omvat in ieder geval een periodieke quick scan aan de hand van een vragenlijst die door CEA aan de opleidingen wordt toegezonden.   
 4.  Een opleiding is verplicht CEA onverwijld op eigen initiatief in kennis te stellen van alle wijzigingen die voor de verleende aanwijzing, zoals bedoeld in artikel 4, tweede lid, onderdeel c, relevant (kunnen) zijn.   
-5.  Een opleiding meldt alle incidenten en bijzondere gebeurtenissen na verlening van de aanwijzing die van wezenlijke invloed kunnen zijn op de kwaliteit en/of samenstelling van de opleiding terstond bij CEA. De melding omvat in ieder geval een aanduiding van het incident of de bijzondere gebeurtenis, de datum van het incident of de bijzondere gebeurtenis, de maatregel(en) die de opleiding heeft getroffen of zal gaan treffen, inclusief het tijdstip van de maatregel(en). Nadere informatie over het melden van incidenten en bijzondere gebeurtenissen is te vinden op de website van CEA www.ceaweb.nl.   
+5.  Een opleiding meldt alle incidenten en bijzondere gebeurtenissen na verlening van de aanwijzing die van wezenlijke invloed kunnen zijn op de kwaliteit en/of samenstelling van de opleiding terstond bij CEA. De melding omvat in ieder geval een aanduiding van het incident of de bijzondere gebeurtenis, de datum van het incident of de bijzondere gebeurtenis, de maatregel(en) die de opleiding heeft getroffen of zal gaan treffen, inclusief het tijdstip van de maatregel(en). Nadere informatie over het melden van incidenten en bijzondere gebeurtenissen is te vinden op de website van CEA www.ceaweb.nl.  
 
 ####Slotbepalingen
 
 ### Artikel  11  
 
-De [Beleidsregels aanwijzen accountantsopleidingen](../../../../../zbo/beleidsregels/aanwijzen/accountantsopleidingen/BWBR0033312/README.md) zoals vastgesteld op12 december 2012 en gepubliceerd in de Staatscourant nr. 199778 op 28 december 2012 worden ingetrokken.  
+De [Beleidsregels aanwijzen accountantsopleidingen](../../../../../zbo/beleidsregels/aanwijzen/accountantsopleidingen/BWBR0033312/README.md) zoals vastgesteld op12 december 2012 en gepubliceerd in de Staatscourant nr. 199778 op 28 december 2012 worden ingetrokken. 
 
 ### Artikel  12  
 
-Deze beleidsregels zijn vastgesteld op 25 maart 2013 en zijn van kracht met ingang van de dag na publicatie in de Staatscourant.  
+Deze beleidsregels zijn vastgesteld op 25 maart 2013 en zijn van kracht met ingang van de dag na publicatie in de Staatscourant. 
 
 ### Artikel  13  
 
@@ -212,7 +212,7 @@ Deze beleidsregels liggen ter inzage bij het secretariaat van CEA en zijn beschi
 
 ### Artikel  14  
 
-Deze beleidsregels kunnen worden aangehaald als Beleidsregels aanwijzen accountantsopleidingen.  
+Deze beleidsregels kunnen worden aangehaald als Beleidsregels aanwijzen accountantsopleidingen. 
 
 ####Toezichtkader voor het beoordelen van aanvragen voor een aanwijzing door CEA
 
@@ -220,13 +220,13 @@ Deze beleidsregels kunnen worden aangehaald als Beleidsregels aanwijzen accounta
 
 ####Inleiding
 
-Een van de wettelijke taken van de Commissie Eindtermen Accountantsopleiding (CEA) is het aanwijzen van opleidingen die voldoen aan de door CEA vastgestelde eindtermen. Naar aanleiding van de ervaringen met het toezicht in de afgelopen jaren heeft CEA besloten om bij het aanwijzen van opleidingen en het toezicht op de borging van theoretische eindtermen een meer risico- en themagerichte aanpak te hanteren. Dit leidt tot meer kwaliteit, meer transparantie, meer vergelijkbaarheid tussen opleidingen en over de jaren heen en meer zicht op de risico’s. Dit heeft geresulteerd in een aangepast toezichtkader, waarin jaarlijks wisselende thema’s gericht bevraagd worden in relatie tot de te realiseren eindtermen.  
+Een van de wettelijke taken van de Commissie Eindtermen Accountantsopleiding (CEA) is het aanwijzen van opleidingen die voldoen aan de door CEA vastgestelde eindtermen. Naar aanleiding van de ervaringen met het toezicht in de afgelopen jaren heeft CEA besloten om bij het aanwijzen van opleidingen en het toezicht op de borging van theoretische eindtermen een meer risico- en themagerichte aanpak te hanteren. Dit leidt tot meer kwaliteit, meer transparantie, meer vergelijkbaarheid tussen opleidingen en over de jaren heen en meer zicht op de risico’s. Dit heeft geresulteerd in een aangepast toezichtkader, waarin jaarlijks wisselende thema’s gericht bevraagd worden in relatie tot de te realiseren eindtermen. 
 
 ### 2  
 
 ####Opbouw toezichtkader
 
-Het toezichtkader, voor opleidingen die een aanwijzing van de CEA willen, geeft invulling aan het bepaalde in artikel 6 van de Beleidsregels aanwijzen opleidingen. Het toezichtkader vormt de leidraad voor CEA bij het beoordelen van een aanvraag voor een aanwijzing en bij het continue toezicht op de naleving van de eindtermen. De Beleidsregels en dit toezichtkader vormen samen één geheel.   ![251835](http://wetten.overheid.nl/Illustration/251835)
+Het toezichtkader, voor opleidingen die een aanwijzing van de CEA willen, geeft invulling aan het bepaalde in artikel 6 van de Beleidsregels aanwijzen opleidingen. Het toezichtkader vormt de leidraad voor CEA bij het beoordelen van een aanvraag voor een aanwijzing en bij het continue toezicht op de naleving van de eindtermen. De Beleidsregels en dit toezichtkader vormen samen één geheel.  ![251835](http://wetten.overheid.nl/Illustration/251835)
 Hierboven is het toezichtkader dat in dit document nader wordt toegelicht schematisch weergegeven. CEA wijst opleidingen aan die het theoretisch deel van de accountantsopleiding geheel of gedeeltelijk verzorgen, met uitzondering van de eindtermen die betrekking hebben op de praktijkstage, voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig [artikel 5a.9 Whw](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Deze taak omvat het toezicht op de realisatie van eindtermen door de opleidingen. Daartoe beoordeelt CEA postinitiële opleidingen op de volgende aspecten: 
 
 1. Instroom;  
@@ -237,15 +237,15 @@ Hierboven is het toezichtkader dat in dit document nader wordt toegelicht schema
 
 4. Organisatiegraad van de opleiding;  
 
-5. Inrichting van de regelkring (kwaliteitsborging).   Omdat de eindtermen in de opleiding tot accountant behalve in het postinitiële onderwijs ook in de initiële opleiding vorm krijgen, houdt CEA ook zicht op de ontwikkelingen binnen de initiële opleidingen: via de postinitiële opleidingen middels de uitvraag over de instroom en de aansluiting initieel-postinitieel en door kennisneming van de bevindingen van de periodieke accreditaties door de NVAO. Het waarborgen en realiseren van de eindtermen blijft uitdrukkelijk de verantwoordelijkheid van de opleidingen. De instroom in de postinitiële opleiding is een bijzonder aandachtspunt bij de beoordeling van opleidingen. De genoemde aspecten worden beoordeeld aan de hand van deelaspecten en daarbij behorende criteria. Deze deelaspecten en criteria zijn hieronder uitgewerkt. In paragraaf 3 wordt aangegeven hoe CEA tot een beoordeling komt.  
+5. Inrichting van de regelkring (kwaliteitsborging).    Omdat de eindtermen in de opleiding tot accountant behalve in het postinitiële onderwijs ook in de initiële opleiding vorm krijgen, houdt CEA ook zicht op de ontwikkelingen binnen de initiële opleidingen: via de postinitiële opleidingen middels de uitvraag over de instroom en de aansluiting initieel-postinitieel en door kennisneming van de bevindingen van de periodieke accreditaties door de NVAO. Het waarborgen en realiseren van de eindtermen blijft uitdrukkelijk de verantwoordelijkheid van de opleidingen. De instroom in de postinitiële opleiding is een bijzonder aandachtspunt bij de beoordeling van opleidingen. De genoemde aspecten worden beoordeeld aan de hand van deelaspecten en daarbij behorende criteria. Deze deelaspecten en criteria zijn hieronder uitgewerkt. In paragraaf 3 wordt aangegeven hoe CEA tot een beoordeling komt. 
 
 ### 3  
 
 ####Beoordelingskader
 
-| 1. Organisatiegraad van de opleiding  De organisatiegraad van de opleiding wordt getoetst aan de hand van de mate van sturing en grip (in termen van bijsturing) op proces en inhoud, de stabiliteit van de opleiding, tone at the top en de opleidingsomgeving en de afstemming tussen initiële en postinitiële opleiding.  |  *Deelaspecten*   |  *Criteria*   |
+| 1. Organisatiegraad van de opleiding  De organisatiegraad van de opleiding wordt getoetst aan de hand van de mate van sturing en grip (in termen van bijsturing) op proces en inhoud, de stabiliteit van de opleiding, tone at the top en de opleidingsomgeving en de afstemming tussen initiële en postinitiële opleiding.  |  * Deelaspecten*   |  *Criteria*   |
 |:---|:---|:---|
-| 1.1 Centrale coördinatie, regie  | De opleiding heeft een functionaris aangesteld die eindverantwoordelijk is voor de (inhoud en kwaliteit van de) gehele opleiding en beschikt over adequate bevoegdheden.  |
+| 1.1 Centrale coördinatie, regie  | De opleiding heeft een functionaris aangesteld die eindverantwoordelijk is voor de (inhoud en kwaliteit van de) gehele opleiding en beschikt over adequate bevoegdheden.   |
 | 1.2 Geen verstorende elementen, risico van discontinuïteit  | De opleiding kan zich voldoende focussen op het onderwijsleerproces door:  - Voldoende personeel / voorkomen van overbelasting;  - Kennisdeling en achtervang (en vastlegging);  - Voldoende management aandacht.  |
 | 1.3 Afstemming initieel - postinitieel  | De initiële opleiding en de postinitiële opleiding binnen dezelfde instelling hebben curriculum (eindtermen) en organisatie zodanig op elkaar afgestemd dat de eindtermen op het juiste niveau worden gerealiseerd.  |
 
@@ -255,10 +255,10 @@ Hierboven is het toezichtkader dat in dit document nader wordt toegelicht schema
 | 2.2 Ontwikkeling van het docentenkorps  | De opleiding draagt zorg voor het volgen van actuele ontwikkelingen rondom de eindtermen door docenten in het opleidingsmateriaal.  |
 | 2.3 Controle op functioneren van het kwaliteitszorgsysteem.  | De opleiding heeft een kwaliteitszorgsysteem waarvan de werking intern en/of extern periodiek wordt vastgesteld en beoordeeld.  |
 
-| 3. Instroom  De instroom in de postinitiële opleiding vormt een bijzonder aandachtspunt bij de beoordeling van opleidingen. De opleiding dient een gecontroleerd toelatingsproces ingericht te hebben, waarbij aandacht wordt gegeven aan het onderscheid tussen reguliere en niet-reguliere instroom.  |  *Aspecten*   |  *Criteria*   |
+| 3. Instroom  De instroom in de postinitiële opleiding vormt een bijzonder aandachtspunt bij de beoordeling van opleidingen. De opleiding dient een gecontroleerd toelatingsproces ingericht te hebben, waarbij aandacht wordt gegeven aan het onderscheid tussen reguliere en niet-reguliere instroom.  |  * Aspecten*   |  * Criteria*   |
 |:---|:---|:---|
 | 3.1 Toelating vanuit de initiële opleiding  | De postinitiële opleiding bepaalt per student de wijze van toelating (inclusief vrijstellingen en deficiënties) en houdt hierbij rekening met de vooropleiding (weging langs eindtermen, niveau en studiebelasting).  Bij reguliere instroom (accountancy vooropleiding) vanuit de eigen instellingen is (generiek) vastgesteld dat de initiële en postinitiële opleiding samen voldoen aan de eindtermen.  |
-| 3.2 Themagericht: het toetsen van vakken in initiële opleiding dat opleidt tot de eindtermen  | De opleiding kan per onderwijseenheid aantonen dat de eindtermen in de initiële opleiding op het juiste niveau zijn geborgd en dat hierop door de postinitiële opleiding wordt toegezien.  |
+| 3.2 Themagericht: het toetsen van vakken in initiële opleiding dat opleidt tot de eindtermen  | De opleiding kan per onderwijseenheid aantonen dat de eindtermen in de initiële opleiding op het juiste niveau zijn geborgd en dat hierop door de postinitiële opleiding wordt toegezien.   |
 
 | 4. Curriculum  Om het aspect curriculum met voldoende diepgang te beoordelen worden per periode een aantal domeinen door CEA benoemd waarop ‘thema-gewijs’ dit aspect wordt uitgevraagd en worden hiervoor voorbeelden en bewijs voor gevraagd.  |  *Aspecten*   |  *Criteria*   |
 |:---|:---|:---|
@@ -309,7 +309,7 @@ CEA kent twee aanwijzingsprocedures:
 
 * Er wordt wel al direct gevraagd verwijzingen te maken naar de eigen proces- en procedurebeschrijvingen en andere informatie en documentatie, zodat door CEA eenvoudig en snel doorgevraagd kan worden op eventuele aandachtspunten.  
 
-* Follow up vindt alleen plaats indien dit voor een verdere verduidelijking noodzakelijk is. Daarbij wordt de follow up (verdiepende uitvraag en/of gesprek) dan ook meer thematisch ingestoken op de aandachtspunten.   Er kan een aanwijzing worden gegeven voor de duur van maximaal 4 jaar (voor nieuwe opleidingen maximaal 2 jaar). Indien hier aanleiding voor is kan de looptijd van de aanwijzing worden beperkt en/of kunnen eventueel aandachtspunten expliciet worden benoemd, met als resultaat dat het toezichtregime vanuit CEA wordt geïntensiveerd. Dit komt tot uitdrukking in voorwaarden en/of voorschriften die CEA kan verbinden aan de aanwijzing.  
+* Follow up vindt alleen plaats indien dit voor een verdere verduidelijking noodzakelijk is. Daarbij wordt de follow up (verdiepende uitvraag en/of gesprek) dan ook meer thematisch ingestoken op de aandachtspunten.   Er kan een aanwijzing worden gegeven voor de duur van maximaal 4 jaar (voor nieuwe opleidingen maximaal 2 jaar). Indien hier aanleiding voor is kan de looptijd van de aanwijzing worden beperkt en/of kunnen eventueel aandachtspunten expliciet worden benoemd, met als resultaat dat het toezichtregime vanuit CEA wordt geïntensiveerd. Dit komt tot uitdrukking in voorwaarden en/of voorschriften die CEA kan verbinden aan de aanwijzing. 
 
 ####5. Bezwaar en beroepsprocedure
 

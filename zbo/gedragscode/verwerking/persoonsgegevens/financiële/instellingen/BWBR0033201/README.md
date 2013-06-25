@@ -6,19 +6,19 @@
 
 ####Overwegingen
 
-1.1 Banken en verzekeraars (hierna: Financiële instellingen) verwerken in het kader van hun bedrijfsvoering Persoonsgegevens en vinden het belangrijk dat met deze Persoonsgegevens zorgvuldig wordt omgegaan en dat deze vertrouwelijk worden behandeld.  
+1.1  Banken en verzekeraars (hierna: Financiële instellingen) verwerken in het kader van hun bedrijfsvoering Persoonsgegevens en vinden het belangrijk dat met deze Persoonsgegevens zorgvuldig wordt omgegaan en dat deze vertrouwelijk worden behandeld.  
 
-1.2 De [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) (hierna: WBP) biedt waarborgen voor de bescherming van de persoonlijke levenssfeer van natuurlijke personen met betrekking tot het verwerken van Persoonsgegevens.  
+1.2   De [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) (hierna: WBP) biedt waarborgen voor de bescherming van de persoonlijke levenssfeer van natuurlijke personen met betrekking tot het verwerken van Persoonsgegevens.  
 
-1.3 De Nederlandse Vereniging van Banken (hierna: de NVB) en het Verbond van Verzekeraars (hierna: het Verbond) hebben in lijn met het bepaalde in de [WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), de Gedragscode Verwerking Persoonsgegevens Financiële Instellingen (hierna: Gedragscode) opgesteld, waarvoor het College bescherming persoonsgegevens (hierna: CBP) op 13 april 2010 een goedkeurende verklaring heeft afgegeven. Deze verklaring is op 26 april 2010 gepubliceerd in de Staatscourant (nr. 6429). Het CBP heeft verklaard dat de Gedragscode, gelet op de bijzondere kenmerken van de sector, een juiste uitwerking vormt van de [WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en andere wettelijke bepalingen betreffende de Verwerking van Persoonsgegevens. De goedkeuring geldt voor een periode van vijf jaar. Deze Gedragscode vervangt de voorgaande Gedragscode Verwerking Persoonsgegevens Financiële Instellingen.  
+1.3   De Nederlandse Vereniging van Banken (hierna: de NVB) en het Verbond van Verzekeraars (hierna: het Verbond) hebben in lijn met het bepaalde in de [WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), de Gedragscode Verwerking Persoonsgegevens Financiële Instellingen (hierna: Gedragscode) opgesteld, waarvoor het College bescherming persoonsgegevens (hierna: CBP) op 13 april 2010 een goedkeurende verklaring heeft afgegeven. Deze verklaring is op 26 april 2010 gepubliceerd in de Staatscourant (nr. 6429). Het CBP heeft verklaard dat de Gedragscode, gelet op de bijzondere kenmerken van de sector, een juiste uitwerking vormt van de [WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en andere wettelijke bepalingen betreffende de Verwerking van Persoonsgegevens. De goedkeuring geldt voor een periode van vijf jaar. Deze Gedragscode vervangt de voorgaande Gedragscode Verwerking Persoonsgegevens Financiële Instellingen.  
 
-1.4 De Gedragscode heeft tot doel: 
+1.4   De Gedragscode heeft tot doel: 
 
-a. regels te stellen aan Financiële instellingen voor het Verwerken van Persoonsgegevens;  
+a.  regels te stellen aan Financiële instellingen voor het Verwerken van Persoonsgegevens;  
 
-b. informatie te verschaffen aan personen van wie Persoonsgegevens door Financiële instellingen verwerkt (zullen) worden; en  
+b.  informatie te verschaffen aan personen van wie Persoonsgegevens door Financiële instellingen verwerkt (zullen) worden; en  
 
-c. bij te dragen aan de transparantie van de regels die de door de Financiële instellingen worden gehanteerd met betrekking tot het Verwerken van Persoonsgegevens.        
+c.  bij te dragen aan de transparantie van de regels die de door de Financiële instellingen worden gehanteerd met betrekking tot het Verwerken van Persoonsgegevens.         
 ### 2  
 
 ####Begripsbepaling
@@ -29,7 +29,7 @@ a. Bestand: elk gestructureerd geheel van Persoonsgegevens dat volgens bepaalde 
 
 b. Betrokkene: degene op wie een Persoonsgegeven betrekking heeft.  
 
-c. Bewerker: degene die ten behoeve van de Verantwoordelijke Persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen.  
+c. Bewerker: degene die ten behoeve van de Verantwoordelijke Persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen.   
 
 d. Bijzondere persoonsgegevens: Persoonsgegevens betreffende iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven, lidmaatschap van een vakvereniging, evenals strafrechtelijke Persoonsgegevens en Persoonsgegevens over onrechtmatig of hinderlijk gedrag in verband met een opgelegd verbod naar aanleiding van dat gedrag.  
 
@@ -112,7 +112,7 @@ f. de Verwerking van Persoonsgegevens is noodzakelijk voor de behartiging van he
 
 4.6.1 Persoonsgegevens worden verwijderd nadat de door de Financiële instelling vastgestelde bewaartermijnen zijn verstreken en kunnen worden overgebracht naar een archiefbestemming ten behoeve van het archiefbeheer, het behandelen van geschillen en het verrichten van (wetenschappelijk, statistisch of historisch) onderzoek.  
 
-4.6.2 Persoonsgegevens mogen langer worden bewaard dan bepaald in artikel 4.6.1 Gedragscode voor zover ze voor historische, statistische of wetenschappelijke doeleinden worden bewaard, en de verantwoordelijke de nodige voorzieningen heeft getroffen ten einde te verzekeren dat de desbetreffende gegevens uitsluitend voor deze specifieke doeleinden worden gebruikt.  
+4.6.2 Persoonsgegevens mogen langer worden bewaard dan bepaald in artikel 4.6.1 Gedragscode voor zover ze voor historische, statistische of wetenschappelijke doeleinden worden bewaard, en de verantwoordelijke de nodige voorzieningen heeft getroffen ten einde te verzekeren dat de desbetreffende gegevens uitsluitend voor deze specifieke doeleinden worden gebruikt.   
 
 4.7 Indien Persoonsgegevens worden verzameld bij de Betrokkene, informeert de Verantwoordelijke de Betrokkene over zijn identiteit en de doeleinden van de Verwerking van Persoonsgegevens, tenzij de Verantwoordelijke op goede gronden mag aannemen dat de Betrokkene daarvan reeds op de hoogte is. Aan deze informatieplicht wordt voldaan vóór het moment van verkrijging.  
 
@@ -147,7 +147,7 @@ e. het voldoen aan wettelijke verplichtingen;
 
 f. het beheren van de relatie met de Cliënt.    
 
-5.1.2 Een Financiële instelling verwerkt niet meer Persoonsgegevens dan strikt noodzakelijk is. Financiële instellingen stellen deze Persoonsgegevens binnen de Groep slechts beschikbaar aan medewerkers die daartoe bevoegd zijn.  
+5.1.2 Een Financiële instelling verwerkt niet meer Persoonsgegevens dan strikt noodzakelijk is. Financiële instellingen stellen deze Persoonsgegevens binnen de Groep slechts beschikbaar aan medewerkers die daartoe bevoegd zijn.   
 
 5.1.3 Financiële instellingen zullen waar nodig hun specifieke activiteiten melden bij het CBP of, voor zover van toepassing, bij de eigen Functionaris.      
 ### 5.2  
@@ -202,7 +202,7 @@ c. De [Wft](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/
 
 d. [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [Invoeringswet inkomstenbelasting 2001](../../../../../../../wet/invoeringswet/wet/inkomstenbelasting/2001/BWBR0011354/README.md): op grond van deze wetten is voorgeschreven dat door Financiële instellingen het burgerservicenummer (hierna: BSN) als verplicht identificerend gegeven op de renseigneringen wordt vermeld.  
 
-e. [Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) (Wabb): op grond van deze wet moeten verzekeraars als bedoeld in [artikel 23, eerste lid, onder c Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md) het burgerservicenummer gebruiken ter uitvoering van pensioenregelingen.  
+e. [Wet algemene bepalingen burgerservicenummer ](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md)(Wabb): op grond van deze wet moeten verzekeraars als bedoeld in [artikel 23, eerste lid, onder c Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md) het burgerservicenummer gebruiken ter uitvoering van pensioenregelingen.  
 
 f. [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (AWR): op grond van deze wet zijn – administratieplichtige – Financiële instellingen gehouden het BSN van het identiteitsbewijs in hun administratie te bewaren.  
 
@@ -229,9 +229,9 @@ g. Verschillende wetten, waaronder het [Wetboek van Strafvordering](../../../../
 
 6.1.7 
 
-a. Indien in het kader van acceptatie en/of schadebehandeling medewerking van een Cliënt aan een medische keuring of aan een aanvullend onderzoek wordt gevraagd, zal de Financiële instelling in de keuringsstukken en formulieren wijzen op het belang van legitimatie teneinde verwisseling van personen te voorkomen.  
+a.  Indien in het kader van acceptatie en/of schadebehandeling medewerking van een Cliënt aan een medische keuring of aan een aanvullend onderzoek wordt gevraagd, zal de Financiële instelling in de keuringsstukken en formulieren wijzen op het belang van legitimatie teneinde verwisseling van personen te voorkomen.  
 
-b. De Cliënt zal daarbij worden geïnformeerd dat hij het recht heeft om schriftelijk te kennen te geven dat hij de uitslag en gevolgtrekking van het onderzoek wenst vernemen. Tenzij het betreft een tot stand gekomen burgerrechtelijke verzekering heeft de Cliënt het recht mede te delen om als eerste kennis te nemen van deze gegevens teneinde te kunnen beslissen dat geen mededeling van die uitslag en gevolgtrekking aan anderen wordt gedaan    
+b.  De Cliënt zal daarbij worden geïnformeerd dat hij het recht heeft om schriftelijk te kennen te geven dat hij de uitslag en gevolgtrekking van het onderzoek wenst vernemen. Tenzij het betreft een tot stand gekomen burgerrechtelijke verzekering heeft de Cliënt het recht mede te delen om als eerste kennis te nemen van deze gegevens teneinde te kunnen beslissen dat geen mededeling van die uitslag en gevolgtrekking aan anderen wordt gedaan    
 
 6.1.8 Niet onder de verantwoordelijkheid van de Medisch adviseur vallen Verwerkingen van Persoonsgegevens omtrent iemands gezondheid voor zover dat noodzakelijk is voor: 
 
@@ -245,7 +245,7 @@ c. de uitvoering van de verzekerings- of financieringsovereenkomst, waaronder me
 
 6.1.10 Op de Verwerking van Persoonsgegevens betreffende erfelijke eigenschappen is het moratorium erfelijkheidsonderzoek van toepassing. (Bijlage I: Document D).  
 
-6.1.11 Op de Verwerking van Persoonsgegevens betreffende iemands gezondheid die ontleend kunnen worden aan bloedonderzoek is de 'HIV-gedragscode' van toepassing. (Bijlage I: Document E).      
+6.1.11  Op de Verwerking van Persoonsgegevens betreffende iemands gezondheid die ontleend kunnen worden aan bloedonderzoek is de 'HIV-gedragscode' van toepassing. (Bijlage I: Document E).      
 ### 6.2  
 
 ####Persoonsgegevens van strafrechtelijke aard
@@ -254,11 +254,11 @@ c. de uitvoering van de verzekerings- of financieringsovereenkomst, waaronder me
 
 6.2.2 Onverminderd het bepaalde in artikel 6.2.1 is het Financiële instellingen toegestaan Persoonsgegevens van strafrechtelijke aard te verwerken indien: (i) hiertoe de uitdrukkelijke toestemming van de Cliënt is verkregen; (ii) de gegevens door de Betrokkene duidelijk openbaar zijn gemaakt; (iii) dit noodzakelijk is voor de vaststelling, de uitoefening of de verdediging van een recht in rechte; (iv) dit noodzakelijk is ter voldoening aan een volkenrechtelijke verplichting; (v) dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, passende waarborgen worden geboden ter bescherming van de persoonlijke levenssfeer en dit bij wet wordt bepaald dan wel het CBP ontheffing heeft verleend; (v) indien passende en specifieke waarborgen zijn getroffen en de procedure is gevolgd ingevolge [artikel 31 WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
 
-6.2.3 Financiële instellingen kunnen met het oog op een verantwoord acceptatiebeleid vragen naar feiten omtrent een eventueel strafrechtelijk verleden van te verzekeren personen en anderen wiens belangen op de aangevraagde verzekering worden (mee)verzekerd (bestuurders en aandeelhouders van rechtspersonen daaronder begrepen), voor zover die feiten betrekking hebben op een periode van 8 jaar voorafgaand aan de aanvraag tot verzekering. Daarbij geldt dat het opgegeven strafrechtelijk verleden slechts gebruikt zal worden voor de beoordeling van de verzekeringsaanvraag en dat langs rechtmatige weg verkregen gegevens omtrent een strafrechtelijk verleden kunnen worden gebruikt in het kader van een beroep op niet nakomen van de mededelingsplicht.  
+6.2.3  Financiële instellingen kunnen met het oog op een verantwoord acceptatiebeleid vragen naar feiten omtrent een eventueel strafrechtelijk verleden van te verzekeren personen en anderen wiens belangen op de aangevraagde verzekering worden (mee)verzekerd (bestuurders en aandeelhouders van rechtspersonen daaronder begrepen), voor zover die feiten betrekking hebben op een periode van 8 jaar voorafgaand aan de aanvraag tot verzekering. Daarbij geldt dat het opgegeven strafrechtelijk verleden slechts gebruikt zal worden voor de beoordeling van de verzekeringsaanvraag en dat langs rechtmatige weg verkregen gegevens omtrent een strafrechtelijk verleden kunnen worden gebruikt in het kader van een beroep op niet nakomen van de mededelingsplicht.  
 
-6.2.4 Het verbod om andere Bijzondere gegevens te verwerken is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens voor de doeleinden waarvoor deze gegevens worden verwerkt.  
+6.2.4  Het verbod om andere Bijzondere gegevens te verwerken is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens voor de doeleinden waarvoor deze gegevens worden verwerkt.  
 
-6.2.5 Persoonsgegevens die:(i) betrekking hebben op strafbare feiten die zijn, of op grond van feiten en omstandigheden naar verwachting zullen worden, begaan jegens één van de in een Groep verbonden Financiële instellingen; of (ii) dienen ter vaststelling van mogelijk strafbaar gedrag jegens één van de in een Groep verbonden Financiële instellingen, kunnen door de Financiële instelling worden verstrekt binnen de Groep, mits de gegevens uitsluitend worden verstrekt aan functionarissen die de gegevens voor de uitoefening van hun functie nodig hebben alsmede aan politie en Justitie.      
+6.2.5  Persoonsgegevens die:(i) betrekking hebben op strafbare feiten die zijn, of op grond van feiten en omstandigheden naar verwachting zullen worden, begaan jegens één van de in een Groep verbonden Financiële instellingen; of (ii) dienen ter vaststelling van mogelijk strafbaar gedrag jegens één van de in een Groep verbonden Financiële instellingen, kunnen door de Financiële instelling worden verstrekt binnen de Groep, mits de gegevens uitsluitend worden verstrekt aan functionarissen die de gegevens voor de uitoefening van hun functie nodig hebben alsmede aan politie en Justitie.      
 ### 6.3  
 
 ####Andere Bijzondere Persoonsgegevens
@@ -293,9 +293,9 @@ c. de uitvoering van de verzekerings- of financieringsovereenkomst, waaronder me
 
 7.2.3 Het gebruik van automatische oproepsystemen zonder menselijke tussenkomst, faxen of elektronische berichten voor Direct Marketing is uitsluitend toegestaan indien de verzender kan aantonen dat de Betrokkene daarvoor voorafgaand toestemming heeft verleend (‘opt-in’). Er zijn voor de Betrokkene geen kosten verbonden aan het verlenen van deze toestemming.  
 
-7.2.4 Het gebruik van andere dan de in artikel 7.2.3 Gedragscode genoemde technieken waaronder telefoon en ‘gewone’ post voor Direct Marketing is toegestaan, tenzij de betreffende Betrokkene te kennen heeft gegeven informatie of mededelingen waarbij van deze technieken gebruik wordt gemaakt, niet te willen ontvangen (‘opt-out’). Er zijn voor de Betrokkene geen kosten verbonden aan voorzieningen waarmee wordt voorkomen dat aan een Betrokkene ongevraagde informatie wordt overgebracht.  
+7.2.4  Het gebruik van andere dan de in artikel 7.2.3 Gedragscode genoemde technieken waaronder telefoon en ‘gewone’ post voor Direct Marketing is toegestaan, tenzij de betreffende Betrokkene te kennen heeft gegeven informatie of mededelingen waarbij van deze technieken gebruik wordt gemaakt, niet te willen ontvangen (‘opt-out’). Er zijn voor de Betrokkene geen kosten verbonden aan voorzieningen waarmee wordt voorkomen dat aan een Betrokkene ongevraagde informatie wordt overgebracht.  
 
-7.2.5 Een Financiële instelling die elektronische contactgegevens voor elektronische berichten (zoals e-mail, sms-berichten, mms-berichten) heeft verkregen in het kader van de verkoop van een financieel product of het verlenen van een financiële dienst mag deze gegevens gebruiken voor Direct Marketing ten behoeve van eigen gelijksoortige financiële producten of financiële diensten (‘soft opt-in’). Dit op voorwaarde dat: (i) bij de verkrijging van de contactgegevens aan de Betrokkene uitdrukkelijk de gelegenheid is geboden om kosteloos verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens; en, (ii) indien de Betrokkene hiervan geen gebruik heeft gemaakt, hem bij elke tot stand gebrachte communicatie nadrukkelijk de mogelijkheid wordt geboden om kosteloos verzet aan te tekenen tegen het verdere gebruik van zijn elektronische contactgegevens. [Artikel 41 lid 2 WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.  
+7.2.5  Een Financiële instelling die elektronische contactgegevens voor elektronische berichten (zoals e-mail, sms-berichten, mms-berichten) heeft verkregen in het kader van de verkoop van een financieel product of het verlenen van een financiële dienst mag deze gegevens gebruiken voor Direct Marketing ten behoeve van eigen gelijksoortige financiële producten of financiële diensten (‘soft opt-in’). Dit op voorwaarde dat: (i) bij de verkrijging van de contactgegevens aan de Betrokkene uitdrukkelijk de gelegenheid is geboden om kosteloos verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens; en, (ii) indien de Betrokkene hiervan geen gebruik heeft gemaakt, hem bij elke tot stand gebrachte communicatie nadrukkelijk de mogelijkheid wordt geboden om kosteloos verzet aan te tekenen tegen het verdere gebruik van zijn elektronische contactgegevens. [Artikel 41 lid 2 WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.  
 
 7.2.6 Bij het gebruik van elektronische berichten voor Direct Marketing dient de Financiële instelling te voldoen aan de informatieplicht ingevolge [artikel 3:15 e Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
 
@@ -308,7 +308,7 @@ c. de uitvoering van de verzekerings- of financieringsovereenkomst, waaronder me
 
 7.3.1 Een Financiële instelling kan voor een verzoek van een Betrokkene als bedoeld in de artikelen 7.1.1 en 7.2.1 Gedragscode een vergoeding van kosten verlangen die niet hoger is dan het bij algemene maatregel van bestuur vastgestelde bedrag.  
 
-7.3.2 Indien tot aanpassing, wijziging of verwijdering van de Persoonsgegevens wordt overgegaan als bedoeld in artikel 7.1.3 Gedragscode of indien het verzet als bedoeld in artikel 7.2.1 Gedragscode gegrond wordt bevonden wordt de vergoeding als bedoeld in artikel 7.3.1 Gedragscode gerestitueerd.      
+7.3.2 Indien tot aanpassing, wijziging of verwijdering van de Persoonsgegevens wordt overgegaan als bedoeld in artikel 7.1.3 Gedragscode of indien het verzet als bedoeld in artikel 7.2.1 Gedragscode gegrond wordt bevonden wordt de vergoeding als bedoeld in artikel 7.3.1 Gedragscode gerestitueerd.       
 ### 7.4  
 
 ####Besluit op grond van geautomatiseerde Verwerking van Persoonsgegevens
@@ -426,7 +426,7 @@ b. het beschermen en verdedigen van de rechten en vrijheiden van de Financiële 
 
 11.1 Een Betrokkene die van mening is dat een Financiële instelling in strijd handelt met de Gedragscode dan wel de [WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), kan zich wenden tot de Stichting Klachteninstituut Financiële Dienstverlening (KiFiD), Postbus 93257, 2509 AG Den Haag. Voorwaarde is dat eerst de interne klachtenprocedure van de Financiële instelling is doorlopen. Afhankelijk van de inhoud van de klacht kan de Betrokkene zich ook rechtstreeks tot het CBP dan wel de bevoegde rechter wenden. In alle gevallen dient hij acht te slaan op de termijnen van [artikel 46](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [47 WBP](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).      
 
-### Bijlage  I  
+### Bijlage  I 
 
 ####Informatie
 

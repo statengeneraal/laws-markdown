@@ -5,7 +5,7 @@
 De Raad van Bestuur van de Nederlandse Mededingingsautoriteit,  
 Gelet op de [artikelen 51 van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [19 van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);
 Besluit:     
-### Eerste  afdeling  
+### Eerste afdeling 
 
 ####– Algemeen
 
@@ -15,28 +15,28 @@ Besluit:
 
 In deze werkwijze wordt verstaan onder: 
 
-a. *Awb:*[Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+a.  *Awb:* [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-b. *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+b.  *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 
-c. *geschil:* een geschil als bedoeld in [artikel 51 van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 19 van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);  
+c.  *geschil:* een geschil als bedoeld in [artikel 51 van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 19 van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);  
 
-d. *aanvraag:* een aanvraag als bedoeld in [artikel 1:3, derde lid, van de Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) om een besluit te nemen op grond van [artikel 51 van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 19 van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);  
+d.  *aanvraag:* een aanvraag als bedoeld in [artikel 1:3, derde lid, van de Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) om een besluit te nemen op grond van [artikel 51 van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 19 van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);  
 
-e. *aanvrager:* een natuurlijke of rechtspersoon die bij de ACM een aanvraag indient;  
+e.  *aanvrager:* een natuurlijke of rechtspersoon die bij de ACM een aanvraag indient;  
 
-f. *netbeheerder:* een netbeheerder als bedoeld in [artikel 1, eerste lid, onder k, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 1, eerste lid, onder e, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);  
+f.  *netbeheerder:* een netbeheerder als bedoeld in [artikel 1, eerste lid, onder k, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 1, eerste lid, onder e, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md);  
 
-g. *derde:* een natuurlijk of rechtspersoon, niet zijnde de aanvrager of netbeheerder;    
+g.  *derde:* een natuurlijk of rechtspersoon, niet zijnde de aanvrager of netbeheerder;   
 
 ### Artikel  2  
 
 ####– Algemene bepaling
 
 1.  De [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is van toepassing op de termijnen die in deze werkwijze worden genoemd.   
-2.  De correspondentie vindt in het Nederlands plaats. Van de stukken die niet in de Nederlandse taal zijn opgesteld, dient een Nederlandse vertaling beschikbaar te zijn die ook leidend is.   
+2.  De correspondentie vindt in het Nederlands plaats. Van de stukken die niet in de Nederlandse taal zijn opgesteld, dient een Nederlandse vertaling beschikbaar te zijn die ook leidend is.  
 
-### Tweede  afdeling  
+### Tweede afdeling 
 
 ####– De aanvraag
 
@@ -52,13 +52,13 @@ a) afschriften van de correspondentie, waaronder in ieder geval een afschrift va
 
 b) overige gegevens en andere bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover de aanvrager beschikt of redelijkerwijs de beschikking kan krijgen.     
 4.  Indien de aanvrager wordt vertegenwoordigd, verschaft de vertegenwoordiger een afschrift van de stukken waaruit de bevoegdheid van de natuurlijk persoon blijkt om op te treden namens de andere natuurlijke persoon, de rechtspersoon of de Staat. Als voorbeeld van stukken worden genoemd: machtigingen, uittreksels van de Kamer van Koophandel, mandaatbesluiten en statuten.   
-5.  De aanvrager geeft bij het indienen van de aanvraag gemotiveerd aan of en zo ja, welke gegevens vertrouwelijk zijn jegens de netbeheerder.   
+5.  De aanvrager geeft bij het indienen van de aanvraag gemotiveerd aan of en zo ja, welke gegevens vertrouwelijk zijn jegens de netbeheerder.  
 
 ### Artikel  4  
 
 ####– Ontvangst van de aanvraag
 
-De ACM zendt binnen vijf dagen na ontvangst van de aanvraag een ontvangstbevestiging aan de aanvrager, onder vermelding van de dag van ontvangst.  
+De ACM zendt binnen vijf dagen na ontvangst van de aanvraag een ontvangstbevestiging aan de aanvrager, onder vermelding van de dag van ontvangst. 
 
 ### Artikel  5  
 
@@ -66,9 +66,9 @@ De ACM zendt binnen vijf dagen na ontvangst van de aanvraag een ontvangstbevesti
 
 1.  Indien de aanvrager niet heeft voldaan aan een voorschrift voor het in behandeling nemen van de aanvraag of indien de door de aanvrager verstrekte gegevens onvoldoende zijn voor de beoordeling van een aanvraag, stelt de ACM de aanvrager daarvan schriftelijk op de hoogte.   
 2.  De ACM stelt de aanvrager een termijn om de aanvraag aan te vullen.   
-3.  Indien de ACM besluit de aanvraag niet te behandelen, deelt de ACM dit de aanvrager mee binnen de vier weken nadat de aanvraag is aangevuld of nadat de daarvoor gestelde termijn ongebruikt is verstreken.   
+3.  Indien de ACM besluit de aanvraag niet te behandelen, deelt de ACM dit de aanvrager mee binnen de vier weken nadat de aanvraag is aangevuld of nadat de daarvoor gestelde termijn ongebruikt is verstreken.  
 
-### Derde  afdeling  
+### Derde afdeling 
 
 ####– De wijze van behandeling van de aanvraag
 
@@ -78,7 +78,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de aanvraag een ontvangstbevesti
 
 1.  De ACM kan een nieuwe aanvraag die betrekking heeft op een geschil dat reeds aanhangig is, voegen met de reeds ingediende aanvraag.   
 2.  De ACM kan verschillende aanvragen die betrekking hebben op één of meerdere netbeheerders, gevoegd behandelen.   
-3.  De ACM kan een aanvraag splitsen.   
+3.  De ACM kan een aanvraag splitsen.  
 
 ### Artikel  7  
 
@@ -88,7 +88,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de aanvraag een ontvangstbevesti
 2.  Indien nader onderzoek of een hoorzitting nodig is, bedraagt de beslistermijn 4 maanden.   
 3.  De ACM informeert partijen zo spoedig mogelijk over de voortgang en over de termijn waarop zij verwacht op de aanvraag te beslissen.   
 4.  Indien daartoe naar haar oordeel aanleiding bestaat, stelt de ACM een termijn om een zienswijze in te dienen of om gegevens en inlichtingen te verstrekken.   
-5.  Indien partijen aan de ACM meedelen dat zij zullen proberen onderling of via bemiddeling hun geschil op te lossen, wordt de beslistermijn met schriftelijke toestemming van de aanvrager opgeschort vanaf het moment van deze mededeling aan de ACM tot het moment waarop één van de partijen aangeeft dat zij er niet in geslaagd zijn hun geschil onderling of via bemiddeling hun geschil op te lossen.   
+5.  Indien partijen aan de ACM meedelen dat zij zullen proberen onderling of via bemiddeling hun geschil op te lossen, wordt de beslistermijn met schriftelijke toestemming van de aanvrager opgeschort vanaf het moment van deze mededeling aan de ACM tot het moment waarop één van de partijen aangeeft dat zij er niet in geslaagd zijn hun geschil onderling of via bemiddeling hun geschil op te lossen.  
 
 ### Artikel  8  
 
@@ -97,16 +97,16 @@ De ACM zendt binnen vijf dagen na ontvangst van de aanvraag een ontvangstbevesti
 1.  De ACM behandelt een aanvraag in beginsel via de reguliere procedure als bedoeld in de vierde afdeling.   
 2.  In de gevallen als omschreven in de vijfde afdeling wordt de aanvraag vereenvoudigd behandeld respectievelijk schriftelijk behandeld.   
 3.  Indien niet de reguliere procedure wordt gevolgd, wordt dit zo spoedig mogelijk – doch uiterlijk twee weken na ontvangst van de zienswijze van de netbeheerder – aan partijen meegedeeld.   
-4.  Indien de ACM concludeert dat de aanvraag zich bij nader inzien niet leent voor vereenvoudigde behandeling of schriftelijke behandeling, dan kan zij bepalen dat de aanvraag verder wordt behandeld volgens de reguliere procedure. De ACM stelt partijen hiervan schriftelijk op de hoogte. Hierbij vermeldt de ACM ook wat de gevolgen zijn voor de procedure.   
+4.  Indien de ACM concludeert dat de aanvraag zich bij nader inzien niet leent voor vereenvoudigde behandeling of schriftelijke behandeling, dan kan zij bepalen dat de aanvraag verder wordt behandeld volgens de reguliere procedure. De ACM stelt partijen hiervan schriftelijk op de hoogte. Hierbij vermeldt de ACM ook wat de gevolgen zijn voor de procedure.  
 
 ### Artikel  9  
 
 ####– Bekendmaking besluit
 
 1.  De beslissing op de aanvraag wordt bekendgemaakt door toezending aan de aanvrager.   
-2.  Een afschrift van het besluit stuurt de ACM naar de netbeheerder en eventuele andere partijen.   
+2.  Een afschrift van het besluit stuurt de ACM naar de netbeheerder en eventuele andere partijen.  
 
-### Vierde  afdeling  
+### Vierde afdeling 
 
 ####– De reguliere procedure
 
@@ -123,7 +123,7 @@ a) afschriften van correspondentie;
 
 b) overige gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover de aanvrager beschikt of redelijkerwijs de beschikking kan krijgen.     
 5.  Indien sprake is van vertegenwoordiging overlegt de vertegenwoordiger een machtiging en de bijbehorende uittreksels van de Kamer van Koophandel waaruit de bevoegdheid blijkt.   
-6.  De netbeheerder geeft gemotiveerd aan of en zo ja, welke gegevens vertrouwelijk zijn jegens de aanvrager.   
+6.  De netbeheerder geeft gemotiveerd aan of en zo ja, welke gegevens vertrouwelijk zijn jegens de aanvrager.  
 
 ### Artikel  11  
 
@@ -142,7 +142,7 @@ b) overige gegevens en bescheiden die voor de beslissing op de aanvraag nodig zi
 
 a. nieuwe feiten en omstandigheden zich na de hoorzitting hebben voorgedaan of redelijkerwijs niet voor de hoorzitting bekend waren, of  
 
-b. tijdens de hoorzitting anders is bepaald.     
+b. tijdens de hoorzitting anders is bepaald.    
 
 ### Artikel  12  
 
@@ -150,9 +150,9 @@ b. tijdens de hoorzitting anders is bepaald.
 
 1.  Indien dit naar het oordeel van de ACM noodzakelijk is, kan de ACM deskundigen als derden betrekken bij de behandeling van een geschil. De ACM informeert partijen hieromtrent.   
 2.  Voor zover de ACM de door deskundigen verstrekte inlichtingen of de door derden overgelegde gegevens gebruikt voor de beslissing op de aanvraag, ontvangen partijen daarvan een afschrift.   
-3.  Partijen wordt schriftelijk de gelegenheid geboden hun zienswijze te geven omtrent hetgeen door derden is verstrekt en overgelegd.   
+3.  Partijen wordt schriftelijk de gelegenheid geboden hun zienswijze te geven omtrent hetgeen door derden is verstrekt en overgelegd.  
 
-### Vijfde  afdeling  
+### Vijfde afdeling 
 
 ####– Bijzondere procedures
 
@@ -175,7 +175,7 @@ b. het geschil geen betrekking heeft op de wijze waarop de netbeheerder zijn tak
 a. zij kennelijk niet bevoegd is, of  
 
 b. zij de aanvraag kennelijk moet afwijzen,   beslist de ACM zo spoedig mogelijk dienovereenkomstig.   
-4.  Indien de ACM op basis van de aanvraag en de zienswijze van de netbeheerder concludeert dat de aanvraag moet worden toegewezen, beslist de ACM dienovereenkomstig. In dat geval wordt niet nogmaals de aanvrager benaderd zijn zienswijze te geven op de nader ingediende gegevens en bescheiden.   
+4.  Indien de ACM op basis van de aanvraag en de zienswijze van de netbeheerder concludeert dat de aanvraag moet worden toegewezen, beslist de ACM dienovereenkomstig. In dat geval wordt niet nogmaals de aanvrager benaderd zijn zienswijze te geven op de nader ingediende gegevens en bescheiden.  
 
 ### Artikel  14  
 
@@ -184,9 +184,9 @@ b. zij de aanvraag kennelijk moet afwijzen,   beslist de ACM zo spoedig mogelijk
 1.  Indien naar het oordeel van de ACM de rechtsvraag op grond van de aanvraag en de zienswijze van de netbeheerder voldoende duidelijk is en naar de feiten geen of slechts beperkt onderzoek nodig is, kan de ACM besluiten tot een schriftelijke behandeling.   
 2.  In geval van schriftelijke behandeling ontvangen de aanvrager en de netbeheerder een conceptbesluit van de ACM.   
 3.  De aanvrager en de netbeheerder worden door de ACM in de gelegenheid gesteld schriftelijk hun zienswijze in te dienen ten aanzien van het conceptbesluit, binnen een daartoe door de ACM gestelde termijn.   
-4.  De ACM neemt, met inachtneming van de tijdig gegeven zienswijzen van partijen, een besluit op de aanvraag.   
+4.  De ACM neemt, met inachtneming van de tijdig gegeven zienswijzen van partijen, een besluit op de aanvraag.  
 
-### Zesde  afdeling  
+### Zesde afdeling 
 
 ####– Uitwisseling van informatie
 
@@ -203,7 +203,7 @@ b. zij de aanvraag kennelijk moet afwijzen,   beslist de ACM zo spoedig mogelijk
 
 – het bepaalde bij artikel 16 en 17 zich tegen doorzending verzet, of  
 
-– artikel 11, vierde lid, van toepassing is.     
+– artikel 11, vierde lid, van toepassing is.    
 
 ### Artikel  16  
 
@@ -214,7 +214,7 @@ b. zij de aanvraag kennelijk moet afwijzen,   beslist de ACM zo spoedig mogelijk
 
 – een voor de ACM bestemde versie, getiteld ‘Versie ACM’, waarin de onderdelen die hij als vertrouwelijk aanmerkt, zijn opgenomen, en  
 
-– een voor de partijen bestemde versie, getiteld ‘Versie (naam partij)’, waarin de onderdelen die hij als vertrouwelijk aanmerkt onleesbaar zijn gemaakt of op zichtbare wijze zijn weggelaten.   Indien deze versie niet tevens geschikt is voor openbaarmaking, dient dit te worden vermeld.   
+– een voor de partijen bestemde versie, getiteld ‘Versie (naam partij)’, waarin de onderdelen die hij als vertrouwelijk aanmerkt onleesbaar zijn gemaakt of op zichtbare wijze zijn weggelaten.   Indien deze versie niet tevens geschikt is voor openbaarmaking, dient dit te worden vermeld.  
 
 ### Artikel  17  
 
@@ -222,9 +222,9 @@ b. zij de aanvraag kennelijk moet afwijzen,   beslist de ACM zo spoedig mogelijk
 
 1.  De beoordeling door de ACM of gegevens en bescheiden vertrouwelijk zijn, geschiedt op basis van [artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 2.  Gegevens en bescheiden die bij de verstrekking als vertrouwelijk zijn aangemerkt en die de ACM op basis van [artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) vertrouwelijk acht, worden niet aan een andere partij verstrekt.   
-3.  Indien de ACM van oordeel is dat bepaalde informatie ten onrechte als vertrouwelijk is aangemerkt, deelt zij de partij die de vertrouwelijkheid heeft ingeroepen dat mede. De ACM gaat niet eerder tot verstrekking van de informatie aan de andere partij over dan een week na verzending van deze mededeling of zoveel eerder als de partij die de vertrouwelijkheid heeft ingeroepen met de verstrekking instemt.   
+3.  Indien de ACM van oordeel is dat bepaalde informatie ten onrechte als vertrouwelijk is aangemerkt, deelt zij de partij die de vertrouwelijkheid heeft ingeroepen dat mede. De ACM gaat niet eerder tot verstrekking van de informatie aan de andere partij over dan een week na verzending van deze mededeling of zoveel eerder als de partij die de vertrouwelijkheid heeft ingeroepen met de verstrekking instemt.  
 
-### Zevende  afdeling  
+### Zevende afdeling 
 
 ####– Slotbepalingen
 
@@ -232,20 +232,20 @@ b. zij de aanvraag kennelijk moet afwijzen,   beslist de ACM zo spoedig mogelijk
 
 ####– Citeertitel
 
-Dit besluit wordt aangehaald als: Werkwijze geschilbeslechting energie.  
+Dit besluit wordt aangehaald als: Werkwijze geschilbeslechting energie. 
 
 ### Artikel  19  
 
 ####– Inwerkingtreding en intrekking
 
 1.  De Werkwijze geschilbeslechting energie treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Op de datum van inwerkingtreding wordt de ‘ Beleidsregel Procedure geschillen Energie van 30 augustus 2004’ ingetrokken.   
+2.  Op de datum van inwerkingtreding wordt de ‘Beleidsregel Procedure geschillen Energie van 30 augustus 2004’ ingetrokken.  
 
 ### Artikel  20  
 
 ####– Overgangsrecht
 
-Op de aanvragen ingediend vóór inwerkingtreding van de Werkwijze geschilbeslechting Energie blijft de ‘ Beleidsregel Procedure geschillen Energie ’ van toepassing.  
+Op de aanvragen ingediend vóór inwerkingtreding van de Werkwijze geschilbeslechting Energie blijft de ‘Beleidsregel Procedure geschillen Energie’ van toepassing. 
 
 Den Haag 
 15 november 2011   

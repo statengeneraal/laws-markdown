@@ -38,7 +38,7 @@ Een omschrijving bevat van het recht van bezwaar dat een kleinverbruiker kan uit
 Voorschrijft dat de Netbeheerder eens per twee jaar een audit uitvoert ter controle op de naleving van de Gedragscode,
 
 Voorschrijft dat een kleinverbruiker een geschil voor kan leggen aan de Geschillencommissie Energie en Water, mits de interne geschillenprocedure van de Netbeheerder is doorlopen,
-verklaart:     Dat de Gedragscode, gelet op de bijzondere kenmerken van de sector, een juiste uitwerking vormt van de [Wbp](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en andere wettelijke bepalingen betreffende de verwerking van persoonsgegevens.     
+verklaart:    Dat de Gedragscode, gelet op de bijzondere kenmerken van de sector, een juiste uitwerking vormt van de [Wbp](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en andere wettelijke bepalingen betreffende de verwerking van persoonsgegevens.    
 
 Den Haag 
 9 mei 2012   

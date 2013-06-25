@@ -22,7 +22,7 @@ Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en machtigi
 
 – voor het vertegenwoordigen van het CAK in bestuursrechtelijke procedures en in mediation en voor het verrichten van alle daartoe noodzakelijke proces- en feitelijke handelingen, waaronder het instellen van hoger beroep bij gerechtelijke instanties;  
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken op het terrein van het CAK;   aan de overige leden van het dagelijks bestuur.  
+– voor het ondertekenen van extern gerichte brieven en andere stukken op het terrein van het CAK;   aan de overige leden van het dagelijks bestuur. 
 
 ### Artikel  2  
 
@@ -32,7 +32,7 @@ Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en machtigi
 
 – voor het voorbereiden, nemen en bekendmaken van primaire besluiten strekkende tot het vaststellen van de eigen bijdrage op grond van [artikel 15](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en volgende van de [Wmo](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en de eigen bijdrage op grond van de [artikelen 4](../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), [14](../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) en [16a van het Bbz](../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md);  
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken op het terrein van de vaststelling van de eigen bijdrage;   aan de manager van de afdeling Registratie & Beschikkingen en aan de manager van de afdeling Klantadvies en wel aan ieder afzonderlijk.  
+– voor het ondertekenen van extern gerichte brieven en andere stukken op het terrein van de vaststelling van de eigen bijdrage;   aan de manager van de afdeling Registratie & Beschikkingen en aan de manager van de afdeling Klantadvies en wel aan ieder afzonderlijk. 
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ a. Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en macht
 
 b. Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en machtiging 
 
-– voor het vertegenwoordigen van het CAK in civielrechtelijke procedures met betrekking tot de in- of terugvordering van de conform artikel 2 van dit besluit vastgestelde eigen bijdragen, en voor het verrichten van alle daartoe noodzakelijke proces- en feitelijke handelingen.   aan de manager van de afdeling Incasso & Excasso.    
+– voor het vertegenwoordigen van het CAK in civielrechtelijke procedures met betrekking tot de in- of terugvordering van de conform artikel 2 van dit besluit vastgestelde eigen bijdragen, en voor het verrichten van alle daartoe noodzakelijke proces- en feitelijke handelingen.   aan de manager van de afdeling Incasso & Excasso.   
 
 ### Artikel  4  
 
@@ -62,7 +62,7 @@ Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en machtigi
 
 – voor het voorbereiden, nemen en bekendmaken van primaire besluiten strekkende tot het uitkeren van de Compensatie eigen risico (Cer) als bedoeld in [artikel 118a van de Zvw](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de Cer;   aan de manager van de afdeling Cer & Wtcg en aan de manager van de afdeling Klantadvies en wel aan ieder afzonderlijk.  
+– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de Cer;   aan de manager van de afdeling Cer & Wtcg en aan de manager van de afdeling Klantadvies en wel aan ieder afzonderlijk. 
 
 ### Artikel  5  
 
@@ -72,7 +72,7 @@ Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en machtigi
 
 – voor het voorbereiden, nemen en bekendmaken van primaire besluiten strekkende tot het uitkeren van de tegemoetkoming op basis van de [Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) (als bedoeld in [artikel 3 van de Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md));  
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de [Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);   aan de manager van de afdeling Cer-Wtcg en aan de manager van de afdeling Klantadvies en wel aan ieder afzonderlijk.  
+– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de [Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);   aan de manager van de afdeling Cer-Wtcg en aan de manager van de afdeling Klantadvies en wel aan ieder afzonderlijk. 
 
 ### Artikel  6  
 
@@ -82,7 +82,7 @@ Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en machtigi
 
 – voor het voorbereiden, nemen en bekendmaken van primaire besluiten op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (Wob) en de [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) (Wbp);  
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken rondom de besluitvorming op Wob-verzoeken en Wbp-verzoeken;   aan de beleidsadviseurs van de afdeling Strategie & Beleid.  
+– voor het ondertekenen van extern gerichte brieven en andere stukken rondom de besluitvorming op Wob-verzoeken en Wbp-verzoeken;   aan de beleidsadviseurs van de afdeling Strategie & Beleid. 
 
 ### Artikel  7  
 
@@ -92,7 +92,7 @@ Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en machtigi
 
 - voor het voorbereiden, nemen en bekendmaken van primaire besluiten strekkende tot vaststelling van schadevergoeding (inclusief wettelijke rente);  
 
-- voor het ondertekenen van extern gerichte brieven en andere stukken rondom de besluitvorming op schadeverzoeken;   aan de manager van de afdeling Klantadvies.  
+- voor het ondertekenen van extern gerichte brieven en andere stukken rondom de besluitvorming op schadeverzoeken;   aan de manager van de afdeling Klantadvies. 
 
 ### Artikel  8  
 
@@ -110,7 +110,7 @@ b. Het CAK, in de persoon van de voorzitter, verleent volmacht en machtiging
 
 – voor het intern behandelen alsmede afhandelen van klaagschriften (o.a. interne klachtbehandeling [hoofdstuk 9.1 van de Awb](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)) op het terrein van de Cer en de [Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);  
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken rondom de klachtbehandeling Cer en [Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);   tevens aan de manager van de afdeling Cer & Wtcg.    
+– voor het ondertekenen van extern gerichte brieven en andere stukken rondom de klachtbehandeling Cer en [Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);   tevens aan de manager van de afdeling Cer & Wtcg.   
 
 ### Artikel  9  
 
@@ -128,7 +128,7 @@ b. Het CAK, in de persoon van de voorzitter, verleent mandaat, volmacht en macht
 
 – voor het voorbereiden, nemen en bekendmaken van beslissingen op bezwaar inzake de in de artikelen 4 en 5 van dit besluit genoemde Cer en tegemoetkoming ([Wtcg](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md));  
 
-– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de in dit artikelonderdeel bedoelde bezwaarbehandeling;   tevens aan de manager van de unit Financiering Bijzondere Ziektekosten.    
+– voor het ondertekenen van extern gerichte brieven en andere stukken op het werkterrein van de in dit artikelonderdeel bedoelde bezwaarbehandeling;   tevens aan de manager van de unit Financiering Bijzondere Ziektekosten.   
 
 ### Artikel  10  
 
@@ -138,29 +138,29 @@ In de navolgende gevallen is mandaat, volmacht en machtiging uitgesloten. Dat be
 
 a. Bevoegdheden, privaatrechtelijke rechtshandelingen en andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling met betrekking waartoe een wettelijk voorschrift zich tegen verlening van mandaat, volmacht of machtiging verzet;  
 
-b. Bevoegdheden, privaatrechtelijke rechtshandelingen en andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling waarvan de aard zich tegen verlening van mandaat, volmacht of machtiging verzet of die genoemd zijn in [artikel 10:3, tweede lid, van de Awb](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+b. Bevoegdheden, privaatrechtelijke rechtshandelingen en andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling waarvan de aard zich tegen verlening van mandaat, volmacht of machtiging verzet of die genoemd zijn in [artikel 10:3, tweede lid, van de Awb](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  11  
 
 ####: ondermandaat
 
-Het CAK staat toe dat de manager van de afdeling Bezwaar & Beroep ondermandaat verleent op het terrein van de bezwaarbehandeling. Ondermandatering van de bezwaarbehandeling wordt niet toegestaan aan de manager van de unit Financiering Bijzondere Ziektekosten.  
+Het CAK staat toe dat de manager van de afdeling Bezwaar & Beroep ondermandaat verleent op het terrein van de bezwaarbehandeling. Ondermandatering van de bezwaarbehandeling wordt niet toegestaan aan de manager van de unit Financiering Bijzondere Ziektekosten. 
 
 ### Artikel  12  
 
 ####: vervanging mandaatregeling
 
-Dit besluit vervangt de [bestaande mandaatregeling](../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) en bestaat naast de vigerende volmachten en machtigingen  
+Dit besluit vervangt de [bestaande mandaatregeling](../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/cak/BWBR0033429/README.md) en bestaat naast de vigerende volmachten en machtigingen 
 
 ### Artikel  13  
 
 ####: inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 Den Haag 
 29 maart 2013   
 
-CAK, 
-E. van denBrink
-Voorzitter van het CAK   
+CAK,
+E. van den Brink  
+Voorzitter van het CAK    

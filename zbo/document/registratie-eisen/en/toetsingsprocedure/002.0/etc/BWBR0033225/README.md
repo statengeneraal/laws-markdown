@@ -2,12 +2,12 @@
 
 ##Document Registratie-eisen en toetsingsprocedure 002.0 Handschriftonderzoek
 
-De kwaliteitseisen geformuleerd in het tweede lid van [artikel 12 van het Besluit register deskundige in strafzaken](../../../../../../../../AMvB/besluit/register/deskundige/in/strafzaken/BWBR0026190/README.md) (Brdis) vormen de algemene criteria waarop de toetsing van forensische deskundigen bij het Nederlands Register Gerechtelijk Deskundigen (NRGD) is gebaseerd. Het College gerechtelijk deskundigen (College) formuleert voor elk deskundigheidsgebied op basis van de algemene criteria nadere eisen die specifiek zijn voor het deskundigheidsgebied. Tevens specificeert het College de toetsingsprocedure voor elk deskundigheidsgebied om te toetsen of een aanvrager voldoet aan de specifieke registratie-eisen. Dit document verduidelijkt de professionele eisen waaraan handschriftonderzoekers moeten voldoen en de specifieke toetsingsprocedure gebruikt door de toetsingsadviescommissies om handschriftonderzoekers die een aanvraag doen voor registratie in het NRGD te toetsen. Voor alle deskundigheidsgebieden geldt dat de beoordeling plaatsvindt op basis van informatie, waaronder documenten (zoals zaaksrapporten en bewijsstukken), in beginsel aangevuld met een mondelinge toetsing. Van deze mondelinge toetsing wordt afgezien indien de deskundigheid van de aanvrager reeds duidelijk is gebleken.   
+De kwaliteitseisen geformuleerd in het tweede lid van [artikel 12 van het Besluit register deskundige in strafzaken](../../../../../../../../AMvB/besluit/register/deskundige/in/strafzaken/BWBR0026190/README.md) (Brdis) vormen de algemene criteria waarop de toetsing van forensische deskundigen bij het Nederlands Register Gerechtelijk Deskundigen (NRGD) is gebaseerd. Het College gerechtelijk deskundigen (College) formuleert voor elk deskundigheidsgebied op basis van de algemene criteria nadere eisen die specifiek zijn voor het deskundigheidsgebied. Tevens specificeert het College de toetsingsprocedure voor elk deskundigheidsgebied om te toetsen of een aanvrager voldoet aan de specifieke registratie-eisen. Dit document verduidelijkt de professionele eisen waaraan handschriftonderzoekers moeten voldoen en de specifieke toetsingsprocedure gebruikt door de toetsingsadviescommissies om handschriftonderzoekers die een aanvraag doen voor registratie in het NRGD te toetsen. Voor alle deskundigheidsgebieden geldt dat de beoordeling plaatsvindt op basis van informatie, waaronder documenten (zoals zaaksrapporten en bewijsstukken), in beginsel aangevuld met een mondelinge toetsing. Van deze mondelinge toetsing wordt afgezien indien de deskundigheid van de aanvrager reeds duidelijk is gebleken.    
 ### A  
 
 ####Eisen voor registratie als een handschriftdeskundige
 
-De algemene eisen van het tweede lid van [artikel 12 Brdis](../../../../../../../../AMvB/besluit/register/deskundige/in/strafzaken/BWBR0026190/README.md) zijn in onderstaande samengevat met verwijzing naar hun respectieve subartikelen. Elke algemene eis wordt gevolgd door de meer specifieke eisen voor het deskundigheidsgebied Handschriftonderzoek. Wanneer geen nadere specificaties zijn aangegeven, zijn de algemene eisen geformuleerd in het tweede lid van artikel 12 Brdis (cursief weergegeven) op dit moment voldoende bevonden voor dat element van dit artikel en zijn geen nadere eisen nodig. Het tweede lid van [artikel 12 Brdis](../../../../../../../../AMvB/besluit/register/deskundige/in/strafzaken/BWBR0026190/README.md) luidt als volgt:  *Een deskundige wordt op zijn aanvraag slechts als deskundige in strafzaken in het register ingeschreven wanneer hij naar het oordeel van het College:*   *12(2) a.* *(...) beschikt over voldoende kennis van en ervaring binnen het deskundigheidsgebied waarop de aanvraag betrekking heeft.*  Een aanvrager dient: 
+De algemene eisen van het tweede lid van [artikel 12 Brdis](../../../../../../../../AMvB/besluit/register/deskundige/in/strafzaken/BWBR0026190/README.md) zijn in onderstaande samengevat met verwijzing naar hun respectieve subartikelen. Elke algemene eis wordt gevolgd door de meer specifieke eisen voor het deskundigheidsgebied Handschriftonderzoek. Wanneer geen nadere specificaties zijn aangegeven, zijn de algemene eisen geformuleerd in het tweede lid van artikel 12 Brdis (cursief weergegeven) op dit moment voldoende bevonden voor dat element van dit artikel en zijn geen nadere eisen nodig. Het tweede lid van [artikel 12 Brdis](../../../../../../../../AMvB/besluit/register/deskundige/in/strafzaken/BWBR0026190/README.md) luidt als volgt:  *Een deskundige wordt op zijn aanvraag slechts als deskundige in strafzaken in het register ingeschreven wanneer hij naar het oordeel van het College:*   *12(2) a.* * (...) beschikt over voldoende kennis van en ervaring binnen het deskundigheidsgebied waarop de aanvraag betrekking heeft.*  Een aanvrager dient: 
 
 − te werken op het niveau van iemand die een Bachelor diploma heeft behaald;  
 
@@ -21,7 +21,7 @@ De algemene eisen van het tweede lid van [artikel 12 Brdis](../../../../../../..
 
 − een basale kennis van beeldbewerkingtechnieken te hebben;  
 
-− een basale kennis van de concepten van descriptieve en inferentiële statistiek te hebben.    *12(2) b.* *(...) beschikt over voldoende kennis van en ervaring in het desbetreffende rechtsgebied en voldoende bekend is met de positie en de rol van de deskundige daarin.*  De generieke eisen zijn de volgende: Een aanvrager heeft voldoende kennis van het Nederlandse strafrecht: 
+− een basale kennis van de concepten van descriptieve en inferentiële statistiek te hebben.    *12(2) b.* * (...) beschikt over voldoende kennis van en ervaring in het desbetreffende rechtsgebied en voldoende bekend is met de positie en de rol van de deskundige daarin.*  De generieke eisen zijn de volgende: Een aanvrager heeft voldoende kennis van het Nederlandse strafrecht: 
 
 − context van het strafrecht Trias Politica, onderscheid privaat-, bestuurs- en strafrecht.  
 
@@ -35,15 +35,15 @@ o gerechtelijk vooronderzoek, dwangmiddelen;
 
 o verloop van de strafzitting en besluitvorming van de rechter;  
 
-o positie van de deskundige in de rechtsgang.    
+o  positie van de deskundige in de rechtsgang.    
 
 − materiële strafrecht Sancties en strafuitsluitingsgronden (zeer globaal).  
 
-− positionering deskundige als professional Beroepscodes en verwante regelgeving in relatie tot de Gedragscode gerechtelijk deskundigen.    *12(2) c.* *(...) in staat is de opdrachtgever inzicht te bieden in de vraag of en zo ja, in hoeverre de vraagstelling van de opdrachtgever voldoende helder en onderzoekbaar is om deze vanuit zijn specifieke deskundigheid te kunnen beantwoorden.*   *12(2) d.* *(...) in staat is op basis van de vraagstelling volgens de daarvoor geldende maatstaven een onderzoeksplan op te stellen en uit te voeren.*   *12(2) e.* *(...) in staat is onderzoeksmaterialen en -gegevens in een forensische context volgens de daarvoor geldende maatstaven te verzamelen, vast te leggen, te interpreteren en te beoordelen.*   *12(2) f.* *(...) in staat is om de geldende onderzoeksmethoden in een forensische context volgens de daarvoor geldende maatstaven toe te passen.*  Een handschriftonderzoeker dient toegang te hebben tot: 
+− positionering deskundige als professional Beroepscodes en verwante regelgeving in relatie tot de Gedragscode gerechtelijk deskundigen.    *12(2) c.* * (...) in staat is de opdrachtgever inzicht te bieden in de vraag of en zo ja, in hoeverre de vraagstelling van de opdrachtgever voldoende helder en onderzoekbaar is om deze vanuit zijn specifieke deskundigheid te kunnen beantwoorden.*   *12(2) d.* * (...) in staat is op basis van de vraagstelling volgens de daarvoor geldende maatstaven een onderzoeksplan op te stellen en uit te voeren.*   *12(2) e.* * (...) in staat is onderzoeksmaterialen en -gegevens in een forensische context volgens de daarvoor geldende maatstaven te verzamelen, vast te leggen, te interpreteren en te beoordelen.*   *12(2) f.* * (...) in staat is om de geldende onderzoeksmethoden in een forensische context volgens de daarvoor geldende maatstaven toe te passen.*  Een handschriftonderzoeker dient toegang te hebben tot: 
 
 o een stereomicroscoop;  
 
-o een ESDA <sup> 1  ElectroStatic Detection Apparatus.  </sup>    *12(2) g.* *(...) in staat is zowel schriftelijk als mondeling over de opdracht en elk ander relevant aspect van zijn deskundigheid gemotiveerd, controleerbaar en in voor de opdrachtgever begrijpelijke bewoordingen te rapporteren.*  
+o een ESDA<sup> 1  ElectroStatic Detection Apparatus. </sup>     *12(2) g.* * (...) in staat is zowel schriftelijk als mondeling over de opdracht en elk ander relevant aspect van zijn deskundigheid gemotiveerd, controleerbaar en in voor de opdrachtgever begrijpelijke bewoordingen te rapporteren.*  
 
 − Naast de vereiste administratieve gegevens (naam van de opdrachtgever, datum van de opdracht, datum van het rapport, referentie opdrachtgever, eigen referentie, nummer en type van bijlagen etc.) dient het rapport van een forensisch handschriftonderzoek de volgende onderdelen te bevatten: 
 
@@ -65,7 +65,7 @@ o de resultaten van het onderzoek;
 
 o de interpretatie van de resultaten van het onderzoek;  
 
-o de conclusies (met gebruikte schaal).      *12(2) h.* *(...) in staat is een opdracht te voltooien binnen de daarvoor gestelde of afgesproken termijn.*   *12(2) i.* *(...) in staat is zijn werkzaamheden als deskundige onafhankelijk, onpartijdig, zorgvuldig, vakbekwaam en integer te verrichten.*     
+o de conclusies (met gebruikte schaal).      *12(2) h.* * (...) in staat is een opdracht te voltooien binnen de daarvoor gestelde of afgesproken termijn.*   *12(2) i.* * (...) in staat is zijn werkzaamheden als deskundige onafhankelijk, onpartijdig, zorgvuldig, vakbekwaam en integer te verrichten.*     
 ### B  
 
 ####Toetsingsprocedure voor Handschriftonderzoek
@@ -106,7 +106,7 @@ o enige andere relevante informatie.
 
 − referenties van gekwalificeerde handschriftonderzoekers als ingeleverd door de aanvrager.     
 
-− Indien een mondelinge toetsing plaatsvindt: a *fname van een mondelinge toets* op de toetsingsdag. Tijdens deze toets kan de toetsingsadviescommissie informeren naar de volgende elementen: 
+− Indien een mondelinge toetsing plaatsvindt: a*fname van een mondelinge toets* op de toetsingsdag. Tijdens deze toets kan de toetsingsadviescommissie informeren naar de volgende elementen: 
 
 − de theorie van het handschriftonderzoek;  
 
@@ -126,13 +126,13 @@ o enige andere relevante informatie.
 
 − kennis van het relevante rechtsdomein.      *Optionele elementen:*  
 
-– *Ter plekke laten uitvoeren van de analyse van een* testcasus op de toetsingsdag en beoordelen van een kort geschreven rapport door de aanvrager met daarin diens conclusies ten aanzien van de testcasus. Deze toetsingsmethode is op het moment nog in ontwikkeling.  
+–  *Ter plekke laten uitvoeren van de analyse van een *testcasus op de toetsingsdag en beoordelen van een kort geschreven rapport door de aanvrager met daarin diens conclusies ten aanzien van de testcasus. Deze toetsingsmethode is op het moment nog in ontwikkeling.  
 
-– *Onderzoek in open* bronnen naar het forensische optreden van de aanvrager voor zover het (recente) jurisprudentie betreft.  
+–  *Onderzoek in open *bronnen naar het forensische optreden van de aanvrager voor zover het (recente) jurisprudentie betreft.  
 
-– Beoordelen van andere algemene informatie ingeleverd door de aanvrager als onderdeel van *het aanvraagpakket.*   De toetsingsadviescommissies kunnen daarnaast nadere informatie (of andere gedetailleerde zaaksrapporten) opvragen en/of gebruiken dan al ingeleverd door de aanvrager indien noodzakelijk geacht voor een adequate toetsing.    
+– Beoordelen van andere algemene informatie ingeleverd door de aanvrager als onderdeel van *het aanvraagpakket.*    De toetsingsadviescommissies kunnen daarnaast nadere informatie (of andere gedetailleerde zaaksrapporten) opvragen en/of gebruiken dan al ingeleverd door de aanvrager indien noodzakelijk geacht voor een adequate toetsing.    
 
-### Annex  A  
+###Annex A 
 
 ####Voorgestelde literatuur voor het deskundigheidsgebied Handschriftonderzoek
 
@@ -156,7 +156,7 @@ o Huber, R.A. & Headrick, A.M. (1999). *Handwriting Identification: Facts and Fu
 
 o Kam M. et al. (2001). Signature Authentication by Forensic Document Examiners. *Journal of Forensic Science*. 46 (4) pp 884-888.  
 
-o Kam M. & Lin E (2003). Writer Identification Using Hand-Printed and Non-Hand-Printed Questioned Documents. *Journal of Forensic Science* 48 (6) pp 1391-5;  
+o Kam M. & Lin E (2003). Writer Identification Using Hand-Printed and Non-Hand-Printed Questioned Documents.* Journal of Forensic Science* 48 (6) pp 1391-5;  
 
 o Michel, L. (1982). *Gerichtliche Schriftvergleichung*. W. de Gruyter, Berlin;  
 
@@ -164,12 +164,12 @@ o Mnookin, J.L. (2001). Scripting expertise: The history of handwriting identifi
 
 o Morris, R. (2000). Forensic *Handwriting Identification, Fundamental Concepts and Principles*. Academic Press, London/ San Diego;  
 
-o Risinger, D.M. (2002). Handwriting identification. In: D.L. Faigman, D.H. Kaye, M.J. Saks & J. Sanders (eds). *Modern scientific evidence: The law and science of expert testimony.* St. Paul, MI: West  
+o Risinger, D.M. (2002). Handwriting identification. In: D.L. Faigman, D.H. Kaye, M.J. Saks & J. Sanders (eds). *Modern scientific evidence: The law and science of expert testimony. *St. Paul, MI: West  
 
 o Risinger, D.M. & Saks, M.J. (1996). Science and nonscience in the courts: Daubert (Daubert v. Merrell Dow Pharmaceuticals, 113 S. Ct. 2786 (1993)) meets handwriting identification expertise. *Iowa Law Review*, 82, 21-74  
 
 o Saks, M.J. & Vanderhaar, H. (2005). On the‘general acceptance’ of handwriting identification principles. *Journal of Forensic Science*, 50, 119-126  
 
-o Seaman Kelly, J. & Lindblom, B.S. (2006). *Scientific Examination of Questioned Documents.* CRC Press, Boca Raton;  
+o Seaman Kelly, J. & Lindblom, B.S. (2006). *Scientific Examination of Questioned Documents. *CRC Press, Boca Raton;  
 
 o Srihari, S.N., Cha, S-H., Arora, H. & Lee, S. (2002). Individuality of handwriting. *Journal of Forensic Science* (47), pp.856-872.   

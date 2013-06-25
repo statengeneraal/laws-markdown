@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit Aanwijzing medewerkers BFT
+##Besluit Aanwijzing medewerkers BFT 
 
 Het Bestuur van het Bureau Financieel Toezicht (BFT), c.q. de voorzitter van het bestuur BFT,  
 Gelet op [hoofdstuk 5 Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
@@ -20,28 +20,28 @@ Besluit:
 
 ### Artikel  1  
 
-Het bestuur wijst aan en belast in het kader van het toezicht op de naleving van het bepaalde bij of krachtens de [Wna](../../../../../../wet/notariswet/BWBR0010388/README.md), de [Gdw](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) en de [WWFT](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) de medewerkers van het BFT, aangesteld in de functie van directeur, toezichthouder of jurist.  
+Het bestuur wijst aan en belast in het kader van het toezicht op de naleving van het bepaalde bij of krachtens de [Wna](../../../../../../wet/notariswet/BWBR0010388/README.md), de [Gdw](../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) en de [WWFT](../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) de medewerkers van het BFT, aangesteld in de functie van directeur, toezichthouder of jurist. 
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit Aanwijzing medewerkers BFT.  
+Dit besluit wordt aangehaald als: Besluit Aanwijzing medewerkers BFT. 
 
 ### Artikel  3  
 
-Het [Besluit Aanwijzing medewerkers BFT in het kader van de Wna](../../../../../../zbo/besluit/aanwijzing/medewerkers/bft/in/het/kader/van/de/wna/BWBR0033252/README.md), vastgesteld door het bestuur BFT op 4 oktober 2012 (gepubliceerd in de Staatscourant van 2 januari 2013, nr. 142) wordt hierbij ingetrokken.  
+Het [Besluit Aanwijzing medewerkers BFT in het kader van de Wna](../../../../../../zbo/besluit/aanwijzing/medewerkers/bft/in/het/kader/van/de/wna/BWBR0033252/README.md), vastgesteld door het bestuur BFT op 4 oktober 2012 (gepubliceerd in de Staatscourant van 2 januari 2013, nr. 142) wordt hierbij ingetrokken. 
 
 ### Artikel  4  
 
-Dit besluit treedt met terugwerkende kracht in werking op 1 januari 2013.  
+Dit besluit treedt met terugwerkende kracht in werking op 1 januari 2013. 
 
 ### Artikel  5  
 
 1.  Dit besluit zal in de Staatscourant worden geplaatst.   
-2.  Tevens zal dit besluit op de website van het BFT worden geplaatst.   
+2.  Tevens zal dit besluit op de website van het BFT worden geplaatst.  
 
 Utrecht 
 22 april 2013   
 
-Bureau Financieel Toezicht, 
-de voorzitter van het bestuur, 
+Bureau Financieel Toezicht,  
+de voorzitter van het bestuur,
 A. Hammerstein     
