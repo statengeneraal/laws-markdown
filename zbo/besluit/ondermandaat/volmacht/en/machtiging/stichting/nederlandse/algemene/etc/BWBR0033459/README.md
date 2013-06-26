@@ -10,15 +10,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Economische Zaken;  
+a.  *de minister:* de Minister van Economische Zaken;  
 
-b. *de NAK:* de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;  
+b.  *de NAK:* de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;  
 
-c. *de wet;* de [Plantenziektenwet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md);  
+c.  *de wet;* de [Plantenziektenwet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md);  
 
-d. *het besluit:* het [Besluit bestrijding schadelijke organismen](../../../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);  
+d.  *het besluit:* het [Besluit bestrijding schadelijke organismen](../../../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);  
 
-e. *de regeling:* de [Regeling invoer, uitvoer en verkeer van planten](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).    
+e.  *de regeling:* de [Regeling invoer, uitvoer en verkeer van planten](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ a. de vergunning voor het elektronisch aanvragen van inspecties, bedoeld in [art
 
 b. de mededelingen en aanzeggingen, op grond van het besluit, indien de NAK de vondst zelf mag afhandelen;  
 
-c. het besluit, bedoeld in [artikel 2 van de Regeling bestrijding schadelijke organismen](../../../../../../../../../../..//BWBR0007029/README.md), indien de keuringsdienst de vondst zelf mag afhandelen;  
+c. het besluit, bedoeld in artikel 2 van de Regeling bestrijding schadelijke organismen, indien de keuringsdienst de vondst zelf mag afhandelen;  
 
 d. de toestemmingen en de aanwijzingen, op grond van het besluit, indien de keuringsdienst de vondst zelf mag afhandelen;  
 
@@ -47,7 +47,7 @@ i. voor het nemen van beschikkingen en het verrichten van overige handelingen di
 5.  Aan de managers van de NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad en plantgoedwet 2005](../../../../../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), aangaande het teeltmateriaal van landbouwgewassen, alsmede de hiermee samenhangende besluiten.   
 6.  Aan de managers van de NAK wordt voorts, ieder voor zich, mandaat en machtiging verleend voor het besluit tot toepassing van [artikel 12, eerste lid, van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) voor zover het de verplichting tot het verlenen van medewerking van een krachtens [artikel 10 van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) aangewezen functionaris.   
 7.  Aan de managers van NAK wordt, ieder voor zich, tevens mandaat en machtiging verleend voor de uitgifte van legitimatiebewijzen aan de medewerkers van de NAK die zijn aangewezen als toezichthouder bedoeld in [artikel 10 van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
-8.  Aan de managers, technisch coördinator, regiohoofden, teamleiders, vakspecialisten, keurmeesters, controleurs en monsternemers van de NAK wordt, ieder voor zich, machtiging verleend voor het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 15 van het besluit](../../../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md).   
+8.  Aan de managers, technisch coördinator, regiohoofden, teamleiders, vakspecialisten, keurmeesters, controleurs en monsternemers van de NAK wordt, ieder voor zich, machtiging verleend voor het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 15 van het besluit](../../../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md).  
 
 ### Artikel  3  
 
@@ -61,19 +61,19 @@ c. de verklaring, bedoeld in [artikel 12b van het besluit](../../../../../../../
 
 d. de routinematige monitoring op de aanwezigheid van schadelijke organismen op grond van [artikel 3 van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) en het op verzoek van de minister verrichten van overige werkzaamheden die verband houden met de aanwezigheid van een schadelijk organisme.     
 2.  Aan de medewerkers INF en medewerkers LAB van de NAK wordt tevens, ieder voor zich, machtiging verleend voor het mededelen van de uitslagen van de onderzoeken als bedoeld in [artikel 12, eerste lid, van de regeling](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
-3.  Aan de medewerkers INF en medewerkers LAB van de NAK wordt voorts, ieder voor zich, machtiging verleend voor het verrichten van overige handelingen als bedoeld in [artikel 20b van de regeling](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
+3.  Aan de medewerkers INF en medewerkers LAB van de NAK wordt voorts, ieder voor zich, machtiging verleend voor het verrichten van overige handelingen als bedoeld in [artikel 20b van de regeling](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).  
 
 ### Artikel  4  
 
-Een afschrift van dit besluit wordt gezonden aan de secretaris generaal, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens dit besluit mandaat, volmacht en machtiging is verleend.  
+Een afschrift van dit besluit wordt gezonden aan de secretaris generaal, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens dit besluit mandaat, volmacht en machtiging is verleend. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2013.  
+Dit besluit treedt in werking met ingang van dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2013. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen 2013.  
+Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen 2013. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Emmeloord 

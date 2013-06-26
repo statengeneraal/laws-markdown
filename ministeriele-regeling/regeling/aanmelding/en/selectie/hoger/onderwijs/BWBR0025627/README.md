@@ -66,7 +66,7 @@ c. een gewaarmerkte verklaring van het bestuur van een instelling, inhoudende da
 
 ####Formulier
 
-1.  De in [artikel 7.37, vierde lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde aanmelding geschiedt door inlevering bij de Minister van het daarvoor bestemde, ingevulde en ondertekende formulier danwel digitaal via een door de Minister gevalideerd medium. Beide omvatten in elk geval vragen omtrent de naam, de geboortedatum en -plaats, het adres en de nationaliteit van de gegadigde.   
+1.  De in [artikel 7.37, vierde lid](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van de in de wet bedoelde aanmelding geschiedt digitaal via een door de Minister gevalideerd medium. De daarbij te verstrekken gegevens hebben in elk geval betrekking op de naam, de geboortedatum en -plaats, het adres en de nationaliteit van de gegadigde.   
 2.  De Minister verifieert de persoonsgegevens van de gegadigde die overeenkomstig het eerste lid dienen te worden vermeld, aan de hand van de over de gegadigde in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegevens.   
 3.  Indien de gegadigde buiten Nederland woonachtig is, gaat het formulier vergezeld van een fotokopie van de persoonsgegevens uit het paspoort of uit het rijbewijs, een uittreksel uit het bevolkingsregister dan wel een uittreksel uit of een fotokopie van de geboorteakte.   
 
@@ -207,6 +207,9 @@ Indien de gegadigde niet binnen de gestelde termijnen heeft voldaan aan de bepal
 3.  Bij de berekening, bedoeld in het tweede lid, worden de resultaten van een gegadigde voor de onderdelen ‘leren, loopbaan en burgerschap’ of ‘ loopbaan en burgerschap’, Nederlands, rekenen en Engels, of een andere moderne vreemde taal, buiten beschouwing gelaten.   
 4.  Indien de beoordelingen bij een diploma zijn uitgedrukt in de termen uitmuntend, zeer goed, goed, ruim voldoende, voldoende, matig, onvoldoende, ruim onvoldoende, slecht en zeer slecht, dan worden deze voor de berekening van het gemiddelde eindexamencijfer geïnterpreteerd als respectievelijk 10, 9, 8, 7, 6, 5, 4, 3, 2 en 1.   
 5.  Indien op de cijferlijst minder dan het in het tweede lid bedoelde aantal cijfers is vermeld, is het gemiddelde eindexamencijfer het gemiddelde van de vermelde cijfers.   
+6.  De minister deelt de gegadigde die in het bezit is van een diploma, afgegeven buiten Nederland in een andere lidstaat van de Europese Unie of de Europese Economische Ruimte of Zwitserland in klasse a in, indien naar het oordeel van de minister de gemiddelde waardering van de geëxamineerde vakken vergelijkbaar is met een gemiddeld eindexamencijfer van 8 of hoger als bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Artikel 7.57b, vierde lid, van de wet wordt in dat geval niet toegepast.   
+7.  Om voor indeling in klasse a in aanmerking te komen, verzoekt de gegadigde de minister daartoe een besluit te nemen bij de aanmelding voor de fixusopleiding.   
+8.  Om voor het studiejaar 2012-2013 voor indeling in klasse a in aanmerking te komen, dient de gegadigde, in afwijking van het zevende lid, het verzoek in voor 1 juli 2012.   
 
 ### §  2  
 
@@ -229,7 +232,9 @@ De Minister verstrekt direct een bewijs van toelating aan:
 
 a. een gegadigde als bedoeld in [artikel 7.57b, tweede lid, onderdeel a, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), nadat deze heeft voldaan aan artikel 7;  
 
-b. de gegadigden, die door de minister zijn aangewezen als bedoeld in artikel 14, derde.    
+b. de gegadigden, die door de minister zijn aangewezen als bedoeld in artikel 14, derde lid;  
+
+c. de gegadigde, die op grond van artikel 13, zesde lid, in klasse a is ingedeeld.    
 
 ### §  3  
 
@@ -311,7 +316,7 @@ b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadi
 
 1.  Indien blijkt dat alle gegadigden voor een bepaalde opleiding of een opleiding waarvoor [artikel 7.57d van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) geldt, zijn geplaatst en er plaatsen voor die opleiding onbenut blijven na de loting bedoeld in artikel 22, worden deze open plaatsen zo veel mogelijk opgevuld door gegadigden die voldoen aan de eisen, bedoeld in artikel 7, en die, doordat zij zich hebben aangemeld, wel hebben laten blijken belangstelling te hebben voor een plaats, maar die niet hebben voldaan aan de termijnen, genoemd in hoofdstuk 2.   
 2.  Het eerste lid is eveneens van toepassing ten aanzien van een opleiding waarvoor geen mededeling is gedaan als bedoeld in artikel 21, vijfde lid, maar waarvoor wel alle gegadigden zijn geplaatst en niettemin plaatsen onbenut zijn gebleven.   
-3.  Indien het eerste of tweede lid van toepassing is, registreert de Minister de gegadigden in volgorde van de datum van binnenkomst van hun verzoek om een bewijs van toelating. Bij de toepassing van het eerste of tweede lid worden bewijzen van toelating verstrekt met inachtneming van deze volgorde.   
+3.  Indien het eerste of tweede lid van toepassing is, registreert de Minister de gegadigden in volgorde van de datum van ontvangst van hun ingezonden bewijsstukken. Bij de toepassing van het eerste of tweede lid worden bewijzen van toelating verstrekt met inachtneming van deze volgorde.   
 
 ### Artikel  24  
 
@@ -359,7 +364,6 @@ De gegadigde die toepassing verlangt van [artikel 7.57d, derde lid, van de wet](
 
 1.  Het bestuur van de instelling dat gebruik wenst te maken van de bevoegdheid gegadigden op grond van [artikel 7.57e van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) door middel van decentrale selectie in aanmerking te brengen voor de toekenning van een bewijs van toelating, maakt daarvan melding aan de Minister voor 1 juni van het kalenderjaar dat voorafgaat aan het studiejaar waarvoor de decentrale selectie geldt.   
 2.  Deze melding gaat vergezeld van de informatie bedoeld in [artikel 7.57e, tweede lid, van de wet](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-3.  In afwijking van het eerste lid, doet het bestuur de melding ten behoeve van het studiejaar 2012–2013 voor 1 november 2011.   
 
 ### Artikel  29  
 

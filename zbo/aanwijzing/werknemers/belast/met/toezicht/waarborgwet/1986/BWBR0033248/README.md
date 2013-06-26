@@ -10,11 +10,11 @@ Besluit:
 
 ### Artikel  1  
 
-Als werknemers die belast zijn met het toezicht, bedoeld in [artikel 52 van de Waarborgwet 1986](../../../../../../../../../wet/waarborgwet/1986/BWBR0009275/README.md) worden aangewezen de controleurs in dienst van Verispect B.V.  
+Als werknemers die belast zijn met het toezicht, bedoeld in [artikel 52 van de Waarborgwet 1986](../../../../../../../../../wet/waarborgwet/1986/BWBR0009275/README.md) worden aangewezen de controleurs in dienst van Verispect B.V. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 11 maart 2002.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 11 maart 2002. 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden verzonden aan de Minister van Economische Zaken.   
 
 Delft 

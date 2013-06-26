@@ -99,8 +99,8 @@ Deze beleidsregels treden in werking met ingang van de dag na publicatie ervan i
 
 ####intrekking beleidsregels.
 
-De beleidsregels “ [uitgifte en beheer van achtcijferige 0909 medianummers](../../../../../../../../zbo/beleidsregels/uitgifte/en/beheer/van/achtcijferige/0909/medianummers/BWBR0033247/README.md) ” en de beleidsregels “ [masscalling en medianummers](../../../../../../../../zbo/beleidsregels/masscalling-/en/medianummers/BWBR0033040/README.md) ” worden samengevoegd tot deze beleidsregels “uitgifte en beheer van medianummers” en de bestemming masscalling wordt geschrapt. Voorgaande beleidsregels “uitgifte en beheer van achtcijferige 0909 medianummers” en de beleidsregels “masscalling en medianummers” komen hiermee te vervallen. <sup> 1  Staatscourant van 17 februari 2009, nr. 43  </sup> <sup> 2  Staatscourant van 28 oktober 2003, nr. 2008  </sup>      
+De beleidsregels “[uitgifte en beheer van achtcijferige 0909 medianummers](../../../../../../../../zbo/beleidsregels/uitgifte/en/beheer/van/achtcijferige/0909/medianummers/BWBR0033247/README.md)”<sup> 1 Staatscourant van 17 februari 2009, nr. 43 </sup> en de beleidsregels “[masscalling en medianummers](../../../../../../../../zbo/beleidsregels/masscalling-/en/medianummers/BWBR0033040/README.md)”<sup> 2 Staatscourant van 28 oktober 2003, nr. 2008 </sup> worden samengevoegd tot deze beleidsregels “uitgifte en beheer van medianummers” en de bestemming masscalling wordt geschrapt. Voorgaande beleidsregels “uitgifte en beheer van achtcijferige 0909 medianummers” en de beleidsregels “masscalling en medianummers” komen hiermee te vervallen.       
 
 Het college van de Onafhankelijke Post en Telecommunicatie Autoriteit, namens het college, 
-prof.dr. M.W. de Jong,  
+prof.dr. M.W. de  Jong,  
 plv. voorzitter    

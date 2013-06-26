@@ -10,15 +10,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Economische Zaken;  
+a.  *de minister:* de Minister van Economische Zaken;  
 
-b. *de Naktuinbouw:* de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;  
+b.  *de Naktuinbouw:* de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;  
 
-c. *de wet:* de [Plantenziektenwet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md);  
+c.  *de wet:* de [Plantenziektenwet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md);  
 
-d. *het besluit:* het [Besluit bestrijding schadelijke organismen](../../../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);  
+d.  *het besluit:* het [Besluit bestrijding schadelijke organismen](../../../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);  
 
-e. *de regeling:* de [Regeling invoer, uitvoer en verkeer van planten](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).    
+e.  *de regeling:* de [Regeling invoer, uitvoer en verkeer van planten](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
 
 ### Artikel  2  
 
@@ -57,29 +57,29 @@ e. het verrichten van taken als bedoeld in [artikel 15 van de regeling](../../..
 5.  Aan het hoofd Keuringen van de Naktuinbouw wordt tevens machtiging verleend voor de uitgifte van legitimatiebewijzen aan de medewerkers van de Naktuinbouw die zijn aangewezen als toezichthouder als bedoeld in [artikel 10 van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
 6.  Aan het hoofd Keuringen, de managers Keuringen en de keurmeesters van de Naktuinbouw wordt, ieder voor zich, machtiging verleend voor het mededelen van de uitslagen van de onderzoeken als bedoeld in [artikel 12, eerste lid, van de regeling](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
 7.  Aan de managers Keuringen de keurmeesters en de inspectiemedewerkers bacterievuurcontrole van de Naktuinbouw wordt, ieder voor zich, machtiging verleend voor het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 15 van het besluit](../../../../../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md).   
-8.  Aan de managers Keuringen en de keurmeesters van de Naktuinbouw wordt, ieder voor zich, machtiging verleend voor het verrichten van overige handelingen als bedoeld in [artikel 20b van de regeling](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).   
+8.  Aan de managers Keuringen en de keurmeesters van de Naktuinbouw wordt, ieder voor zich, machtiging verleend voor het verrichten van overige handelingen als bedoeld in [artikel 20b van de regeling](../../../../../../../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md).  
 
 ### Artikel  3  
 
 1.  Aan het hoofd van de afdeling Financiën en Middelen van de Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de verrichte werkzaamheden, bedoeld in [artikel 2, eerste lid, onderdelen a, f, i en j, van het Besluit mandaat, volmacht en machtiging keuringsdiensten 2013](../../../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/keuringsdiensten/2013/BWBR0032911/README.md), en het tweede lid, die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
 2.  Aan het hoofd van de afdeling Financiën en Middelen van de Naktuinbouw wordt tevens mandaat, volmacht en machtiging verleend voor het verzenden van facturen voor de afgifte van een fytosanitair certificaat en het eindonderzoek van de voor export gereedstaande zending die zijn gebaseerd op door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
-3.  Aan het hoofd van de afdeling Financiën en Middelen van de Naktuinbouw wordt voorts mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de verrichte werkzaamheden voor het doen van bijschrijvingen op een certificaat ten behoeve van zendingen van producten die onder de Overeenkomst inzake internationale handel in bedreigde in het wildlevende dier- en plantsoorten (Trb.  50 (1973) nr. 22) vallen die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
+3.  Aan het hoofd van de afdeling Financiën en Middelen van de Naktuinbouw wordt voorts mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de verrichte werkzaamheden voor het doen van bijschrijvingen op een certificaat ten behoeve van zendingen van producten die onder de Overeenkomst inzake internationale handel in bedreigde in het wildlevende dier- en plantsoorten (Trb.  50 (1973) nr. 22) vallen die zijn gebaseerd op de door de minister vastgestelde tarieven als bedoeld in [artikel 6a van de wet](../../../../../../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).  
 
 ### Artikel  4  
 
-Aan de secretaris van de Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten van de Naktuinbouw, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.  
+Aan de secretaris van de Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten van de Naktuinbouw, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep. 
 
 ### Artikel  5  
 
-Een afschrift van dit besluit wordt gezonden aan de secretaris generaal, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens dit besluit mandaat, volmacht en machtiging is verleend.  
+Een afschrift van dit besluit wordt gezonden aan de secretaris generaal, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens dit besluit mandaat, volmacht en machtiging is verleend. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2013.  
+Dit besluit treedt in werking met ingang van dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2013. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2013.  
+Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2013. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Roelofarendsveen 

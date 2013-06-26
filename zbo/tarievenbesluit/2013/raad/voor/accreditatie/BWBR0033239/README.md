@@ -7,30 +7,30 @@ Besluit vast te stellen het Tarievenbesluit 2013 Raad voor Accreditatie en de da
 
 ### Artikel  1  
 
-De RvA brengt tarieven in rekening voor haar dienstverlening op grond van de [Wet aanwijzing nationale accreditatie-instantie](../../../../../../../wet/wet/aanwijzing/nationale/accreditatie-instantie/BWBR0026591/README.md) zoals vermeld in dit besluit en de daarbij horende tarieventabel.  
+De RvA brengt tarieven in rekening voor haar dienstverlening op grond van de [Wet aanwijzing nationale accreditatie-instantie](../../../../../../../wet/wet/aanwijzing/nationale/accreditatie-instantie/BWBR0026591/README.md) zoals vermeld in dit besluit en de daarbij horende tarieventabel. 
 
 ### Artikel  2  
 
-De tarieven worden in rekening gebracht aan de aanvrager dan wel degene voor wie de dienst wordt verleend.  
+De tarieven worden in rekening gebracht aan de aanvrager dan wel degene voor wie de dienst wordt verleend. 
 
 ### Artikel  3  
 
 1.  Het jaarlijks tarief wordt in januari van het lopende jaar in rekening gebracht.   
 2.  Vooronderzoeken worden voorafgaande aan het onderzoek volledig gefactureerd en pas na ontvangst van de betaling uitgevoerd.   
-3.  Andere activiteiten kunnen voorafgaande aan de uitvoering volledig of gedeeltelijk worden gefactureerd en pas na ontvangst van de betaling uitgevoerd.   
+3.  Andere activiteiten kunnen voorafgaande aan de uitvoering volledig of gedeeltelijk worden gefactureerd en pas na ontvangst van de betaling uitgevoerd.  
 
 ### Artikel  4  
 
-De in rekening gebrachte tarieven moeten binnen 30 dagen na dagtekening worden betaald.  
+De in rekening gebrachte tarieven moeten binnen 30 dagen na dagtekening worden betaald. 
 
 ### Artikel  5  
 
 1.  Indien een instelling (aanvrager) in de loop van het jaar wordt geaccrediteerd, wordt er een equivalent deel van het van toepassing zijnde jaarlijks tarief geheven over de resterende periode van het jaar.   
-2.  Indien de accreditatie in de loop van het jaar eindigt of beëindigd wordt, vindt geen restitutie van het jaarlijks tarief plaats.   
+2.  Indien de accreditatie in de loop van het jaar eindigt of beëindigd wordt, vindt geen restitutie van het jaarlijks tarief plaats.  
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 Dit besluit zal met de hiernavolgende toelichting in de Staatscourant en op de website van de RvA worden geplaatst.  
 
