@@ -6,7 +6,7 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 12 maart 1976, Stafafdeling Wetgeving Publiekrecht, Nr. 120/676;
 
-Gelet op [artikel 73 van de Wet op de rechterlijke organisatie](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);
+Gelet op artikel 73 van de Wet op de rechterlijke organisatie;
 
 De Raad van State gehoord (advies van 24 maart 1976, nr. 5);
 
@@ -15,25 +15,25 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: bijzondere kamer: de bijzondere kamer bij het gerechtshof te Arnhem, bedoeld in [artikel 67, eerste lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md); raden: de niet tot de rechterlijke macht behorende personen die als deskundige leden deel uitmaken van de bijzondere kamer; plaatsvervangende raden: de voor de raden benoemde plaatsvervangers.  
+In dit besluit wordt verstaan onder: bijzondere kamer: de bijzondere kamer bij het gerechtshof Arnhem-Leeuwarden, bedoeld in artikel 67, eerste lid, van de Wet op de rechterlijke organisatie; raden: de niet tot de rechterlijke macht behorende personen die als deskundige leden deel uitmaken van de bijzondere kamer; plaatsvervangende raden: de voor de raden benoemde plaatsvervangers.  
 
 ### Artikel  2  
 
-Dit besluit berust op de [artikelen 67, vijfde en zesde lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [79, vierde lid, van de Zaaizaad- en plantgoedwet 2005](../../../../../../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) en [5a van de Militaire Ambtenarenwet 1931](../../../../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md).  
+Dit besluit berust op de artikelen 67, vijfde en zesde lid, van de Wet op de rechterlijke organisatie, 79, vierde lid, van de Zaaizaad- en plantgoedwet 2005 en 5a van de Militaire Ambtenarenwet 1931.  
 
 ### Artikel  3  
 
 1.  De rang van benoeming der raden, onderscheidenlijk der plaatsvervangende raden van de bijzondere kamer, wordt geregeld naar de dag waarop het besluit van een eerste benoeming door Ons is getekend.   
-2.  De rang van benoeming van verschillende op éénzelfde dag benoemde raden of plaatsvervangende raden wordt, indien hun benoeming bij hetzelfde besluit plaatsvindt, bepaald door de volgorde hunner namen, en, indien zij bij verschillende besluiten benoemd zijn, door de volgorde dezer besluiten. De griffier van het gerechtshof te Arnhem houdt een lijst waarop de namen van de raden en de plaatsvervangende raden in de bijzondere kamer geplaatst worden met vermelding van ieders rang van benoeming.   
+2.  De rang van benoeming van verschillende op éénzelfde dag benoemde raden of plaatsvervangende raden wordt, indien hun benoeming bij hetzelfde besluit plaatsvindt, bepaald door de volgorde hunner namen, en, indien zij bij verschillende besluiten benoemd zijn, door de volgorde dezer besluiten. De griffier van het gerechtshof Arnhem-Leeuwarden houdt een lijst waarop de namen van de raden en de plaatsvervangende raden in de bijzondere kamer geplaatst worden met vermelding van ieders rang van benoeming.   
 
 ### Artikel  4  
 
-1.  De deskundige leden, bedoeld in [artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof te Arnhem. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.   
-2.  Het formulier, bedoeld in [artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), wordt na het afleggen van de eed of belofte ondertekend door het deskundig lid en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer.   
+1.  De deskundige leden, bedoeld in artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie, leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof Arnhem-Leeuwarden. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.   
+2.  Het formulier, bedoeld in artikel 67, vijfde lid, van de Wet op de rechterlijke organisatie, wordt na het afleggen van de eed of belofte ondertekend door het deskundig lid en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer.   
 
 ### Artikel  5  
 
-1.  Het bestuur van het gerechtshof te Arnhem houdt een register bij, waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde raden en plaatsvervangende raden en de formulieren betreffende de afgelegde eed of belofte worden bewaard.   
+1.  Het bestuur van het gerechtshof Arnhem-Leeuwarden houdt een register bij, waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde raden en plaatsvervangende raden en de formulieren betreffende de afgelegde eed of belofte worden bewaard.   
 2.  Een uittreksel uit dat register, inclusief het formulier betreffende de eed of belofte, wordt aan de raden en plaatsvervangende raden uitgereikt.   
 
 ### Artikel  6  
@@ -42,7 +42,7 @@ De installatie van de raden en plaatsvervangende raden in de bijzondere kamer ge
 
 ### Artikel  7  
 
-De artikelen 4 tot en met 6 zijn van overeenkomstige toepassing op de beëdiging van een deskundig lid als bedoeld in [artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), deskundige leden als bedoeld in [artikel 70, tweede lid, van diezelfde wet](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en een militair lid als bedoeld in [artikel 54, derde lid, van diezelfde wet](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), met dien verstande dat in plaats van «gerechtshof te Arnhem» wordt gelezen: rechtbank te ’s-Gravenhage, gerechtshof te ’s-Gravenhage onderscheidenlijk rechtbank te ’s-Gravenhage.  
+De artikelen 4 tot en met 6 zijn van overeenkomstige toepassing op de beëdiging van een deskundig lid als bedoeld in artikel 55a, tweede lid, van de Wet op de rechterlijke organisatie, deskundige leden als bedoeld in artikel 70, tweede lid, van diezelfde wet, en een militair lid als bedoeld in artikel 54, derde lid, van diezelfde wet, met dien verstande dat in plaats van «gerechtshof Arnhem-Leeuwarden» wordt gelezen: rechtbank Den Haag, gerechtshof Den Haag onderscheidenlijk rechtbank Den Haag.  
 
 ### Artikel  10  
 
@@ -58,16 +58,18 @@ De raden en de plaatsvervangende raden ontvangen van de griffier de nodige kenni
 
 ### Artikel  13  
 
-Aan de raden en de plaatsvervangende raden wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de raadsheren-plaatsvervangers.  
+1.  Aan de raden en de plaatsvervangende raden wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de raadsheren-plaatsvervangers.   
+2.  Aan de raden en plaatsvervangende raden van de bijzondere kamer wordt, in afwijking van de regels die gelden voor de raadsheren-plaatsvervangers, een vergoeding toegekend ten bedrage van € 1.000 per zittingsdag.   
+3.  Bij regeling van Onze Minister kan de in het tweede lid genoemde vergoeding jaarlijks met ingang van 1 januari worden aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij worden de bedragen rekenkundig afgerond op hele euro’s.   
 
 ### Artikel  14  
 
-1.  De raden en plaatsvervangende raden genieten, zowel voor het bijwonen van de bijeenkomsten van de bijzondere kamer als voor het volbrengen van verrichtingen welke hun door de bijzondere kamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen van het Reisbesluit 1971 en worden daarbij ingedeeld in categorie A.   
+1.  De raden en plaatsvervangende raden genieten, zowel voor het bijwonen van de bijeenkomsten van de bijzondere kamer als voor het volbrengen van verrichtingen welke hun door de bijzondere kamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen die hieromtrent gelden voor burgerlijke rijksambtenaren.   
 2.  Reis- en verblijfkosten worden hun overeenkomstig het vorige lid eveneens vergoed ter gelegenheid van hun beëdiging en installatie.   
 
 ### Artikel  15  
 
-1.  Aan het Ministerie van Justitie worden maandelijks ingezonden: 
+1.  Aan het Ministerie van Veiligheid en Justitie worden maandelijks ingezonden: 
 
 a. de declaraties wegens vergoedingen, bedoeld in artikel 13;  
 
@@ -77,7 +79,7 @@ b. de declaraties wegens reis- en verblijfkosten, bedoeld in artikel 14.
 
 ### Artikel  16  
 
-1.  Dit besluit kan worden aangehaald als: Reglement voor de bijzondere kamer bij het gerechtshof te Arnhem.   
+1.  Dit besluit kan worden aangehaald als: Reglement voor de bijzondere kamer bij het gerechtshof Arnhem-Leeuwarden.   
 2.  Het treedt in werking met ingang van 1 mei 1976.   
 
 Lasten en bevelen dat dit besluit in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.   
