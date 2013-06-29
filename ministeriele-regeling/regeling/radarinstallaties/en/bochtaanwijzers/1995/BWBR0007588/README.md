@@ -4,7 +4,7 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op artikel 4A.02 van het [Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), alsmede gelet op de [artikelen 6](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md) en [19 van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md).
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,9 +12,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *radarinstallatie:* een radiozendapparaat als bedoeld in [artikel 1.1, onderdeel kk, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voor gebruik als hulpmiddel bij de navigatie;  
+a. *radarinstallatie:* een radiozendapparaat als bedoeld in [artikel 1.1, onderdeel kk, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) voor gebruik als hulpmiddel bij de navigatie; 
 
-b. *bochtaanwijzer:* een aanwijzer van de snelheid van draaiing van een schip.    
+b. *bochtaanwijzer:* een aanwijzer van de snelheid van draaiing van een schip.   
 
 ### Artikel  2  
 
@@ -30,33 +30,33 @@ b. *bochtaanwijzer:* een aanwijzer van de snelheid van draaiing van een schip.
 
 1.  De vaarwegen, bedoeld in [artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), zijn: 
 
-a. de Waddenzee;  
+a.  de Waddenzee; 
 
-b. de havens van Termunten, van Delfzijl, van Hefshuizen (Eemshaven) en van Scheveningen;  
+b.  de havens van Termunten, van Delfzijl, van Hefshuizen (Eemshaven) en van Scheveningen; 
 
-c. het Noordzeekanaal, met inbegrip van zijkanaal G tot aan de Zaansluizen, het IJ en de vaarwegen ten westen van de Noordzeesluizen te IJmuiden;  
+c. het Noordzeekanaal, met inbegrip van zijkanaal G tot aan de Zaansluizen, het IJ en de vaarwegen ten westen van de Noordzeesluizen te IJmuiden; 
 
-d. het IJsselmeer, met inbegrip van het Markermeer en het IJmeer en met uitzondering van de Gouwzee;  
+d.  het IJsselmeer, met inbegrip van het Markermeer en het IJmeer en met uitzondering van de Gouwzee; 
 
-e. de Maasmond, de Nieuwe Waterweg, de Nieuwe Maas, het Beerkanaal en het Calandkanaal;  
+e.  de Maasmond, de Nieuwe Waterweg, de Nieuwe Maas, het Beerkanaal en het Calandkanaal; 
 
-f. de Noord, de Oude Maas, de Dordtsche Kil en de daarop aansluitende vaarweg naar het Industrie- en Havenschap Moerdijk;  
+f.  de Noord, de Oude Maas, de Dordtsche Kil en de daarop aansluitende vaarweg naar het Industrie- en Havenschap Moerdijk; 
 
-g. de Oosterschelde;  
+g.  de Oosterschelde; 
 
-h. het Kanaal door Zuid-Beveland;  
+h.  het Kanaal door Zuid-Beveland; 
 
-i. de havens die met de Westerschelde in open verbinding staan.     
+i.  de havens die met de Westerschelde in open verbinding staan.    
 2.  Onder de bij het eerste lid vermelde vaarwegen zijn begrepen de daaraan gelegen havens met de tot die havens toegang gevende vaarwegen.   
 3.  Op de bij het eerste lid vermelde vaarwegen, respectievelijk op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, is de in dat lid, respectievelijk in [artikel 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), bedoelde radarinstallatie: 
 
-a. voor elk schip: een radarinstallatie van een type als bedoeld in artikel 2, tweede lid, of  
+a.  voor elk schip: een radarinstallatie van een type als bedoeld in artikel 2, tweede lid, of 
 
-b. voor een zeeschip: een radarinstallatie van een type, dat door de Minister van Infrastructuur en Milieu is goedgekeurd: 
+b.  voor een zeeschip: een radarinstallatie van een type, dat door de Minister van Infrastructuur en Milieu is goedgekeurd: 
 
-1e. volgens de keuringseisen voor radarinstallaties voor de zeevaart gesteld ingevolge [artikel 95a van het Schepenbesluit 1965](../../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md);  
+1e. volgens de keuringseisen voor radarinstallaties voor de zeevaart gesteld ingevolge [artikel 95a van het Schepenbesluit 1965](../../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md);
 
-2e. volgens de keuringseisen voor radarinstallaties, zoals vermeld in de door de Internationale Maritieme Organisatie aangenomen resoluties A.222 (VII) van 12 oktober 1971, A.278 (VIII) van 20 november 1973, A.422 (XI) van 14 januari 1980, A.477 (XII) van 19 november 1981 en A.574 (XIV) van 20 januari 1986.       
+2e. volgens de keuringseisen voor radarinstallaties, zoals vermeld in de door de Internationale Maritieme Organisatie aangenomen resoluties A.222 (VII) van 12 oktober 1971, A.278 (VIII) van 20 november 1973, A.422 (XI) van 14 januari 1980, A.477 (XII) van 19 november 1981 en A.574 (XIV) van 20 januari 1986.   
 4.  Op de in het eerste lid vermelde vaarwegen en op het Kanaal van Gent naar Terneuzen, met inbegrip van de buitenvoorhavens te Terneuzen, mogen zeeschepen in plaats van met een bochtaanwijzer zoals bedoeld in artikel 2, derde lid, zijn uitgerust met een ander daartoe bruikbaar middel.   
 5.  Met een zeeschip worden gelijkgesteld een reddingsvaartuig, een vissersschip en een klein schip dat niet wordt gebezigd voor het bedrijfsmatig vervoer van goederen of personen, zomede een door de Minister van Infrastructuur en Milieu aangewezen schip.   
 6.  Met een klein schip dat niet wordt gebezigd voor het bedrijfsmatig vervoer van goederen of personen worden gelijkgesteld een reddingsvaartuig en een vissersschip, zomede een door de Minister van Infrastructuur en Milieu aangewezen schip.   
@@ -68,12 +68,12 @@ b. voor een zeeschip: een radarinstallatie van een type, dat door de Minister va
 1.  Voor veerponten, die zijn ingericht om in twee richtingen te kunnen varen, geldt als keuringseis, bedoeld in artikel 2, tweede lid, dat de koerslijn zich voortdurend over de gehele diameter van het scherm van 000 - 180 graden aftekent. Voor deze veerponten is een middelpuntsverschuiving niet vereist.   
 2.  Niet vrijvarende veerponten mogen zijn uitgerust met een radarinstallatie als bedoeld in artikel 3, derde lid, onderdelen b en c.   
 
-### Artikel  5  
+###Artikel 5 
 
 ####Overgangstermijn
 
-1.  Een radarinstallatie van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in artikel 2, tweede en derde lid, van deze regeling bedoelde voorschriften.   
-2.  Een bochtaanwijzer van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in artikel 2, tweede en derde lid, van deze regeling bedoelde voorschriften.   
+1.  Een radarinstallatie van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in artikel 2, tweede en derde lid, van deze regeling bedoelde voorschriften.
+2.  Een bochtaanwijzer van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in artikel 2, tweede en derde lid, van deze regeling bedoelde voorschriften. 
 
 ### Artikel  6  
 
@@ -92,16 +92,16 @@ De stuurstelling van een schip die zodanig is ingericht dat het voeren van het s
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling radarinstallaties en bochtaanwijzers 1995.  
+Deze regeling wordt aangehaald als: Regeling radarinstallaties en bochtaanwijzers 1995. 
 Deze regeling met de daarbij behorende bijlage zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink   
+A. Jorritsma-Lebbink     
 
-#### Bijlage  
+####Bijlage 
 
-De stuurstelling van een schip, die zodanig is ingericht, dat het voeren van het schip op radar door één persoon kan geschieden, moet voldoen aan de volgende voorschriften: 
+De stuurstelling van een schip, die zodanig is ingericht, dat het voeren van het schip op radar door één persoon kan geschieden, moet voldoen aan de volgende voorschriften:  
 
 ### I  
 
@@ -147,13 +147,13 @@ Het radarscherm mag niet buiten de blikrichting van de roerganger vallen. Het ra
 
 Aan boord van schepen moet een interne spreekverbinding aanwezig zijn. Vanaf de stuurstelling moeten de volgende spreekverbindingen tot stand kunnen worden gebracht: 
 
-a. met het voorschip van het schip of het samenstel;  
+a.  met het voorschip van het schip of het samenstel; 
 
-b. met het achterschip van het schip of het achterste gedeelte van het samenstel, indien geen directe communicatie daarmee vanaf de stuurstelling mogelijk is;  
+b.  met het achterschip van het schip of het achterste gedeelte van het samenstel, indien geen directe communicatie daarmee vanaf de stuurstelling mogelijk is; 
 
-c. met het verblijf of de verblijven van de bemanning;  
+c.  met het verblijf of de verblijven van de bemanning; 
 
-d. met de hut van de schipper.   Op alle punten van deze spreekverbinding dient het luisteren door luidsprekers en het spreken door vast opgestelde microfoons te kunnen geschieden. Met het voorschip en het achterschip van het schip of van het samenstel is een marifoonverbinding toegestaan.  
+d.  met de hut van de schipper.  Op alle punten van deze spreekverbinding dient het luisteren door luidsprekers en het spreken door vast opgestelde microfoons te kunnen geschieden. Met het voorschip en het achterschip van het schip of van het samenstel is een marifoonverbinding toegestaan.  
 
 ### VII  
 

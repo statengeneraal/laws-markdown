@@ -11,46 +11,46 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  II  
 
-Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.   
+Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op de zorgtoeslag.   
+Wijzigt de Wet op de zorgtoeslag. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet toelating zorginstellingen.   
+Wijzigt de Wet toelating zorginstellingen. 
 
 ### Artikel  V  
 
-Wijzigt de Wet marktordening gezondheidszorg.   
+Wijzigt de Wet marktordening gezondheidszorg. 
 
 ### Artikel  VI  
 
-Wijzigt de Algemene Wet Bijzondere Ziektekosten.   
+Wijzigt de Algemene Wet Bijzondere Ziektekosten. 
 
 ### Artikel  VII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  VIII  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet.
 
 ### Artikel  IX  
 
 1.  De [Regeling bezoldiging en beheerskosten bestuursorganen volksgezondheid](../../../../../../../../../../ministeriele-regeling/regeling/bezoldiging/en/beheerskosten/bestuursorganen/volksgezondheid/BWBR0019253/README.md) berust na de inwerkingtreding van deze wet op de [artikelen 59, zesde en negende lid](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en [75, derde en vierde lid, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de [artikelen 4, zevende en negende lid](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), en [14, derde en vierde lid, van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en de [artikelen 20, zesde lid](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), [27](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) en [32 van de Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).   
-2.  De [Regeling zorgverzekering](../../../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) berust na de inwerkingtreding van deze wet mede op [artikel 69, zevende lid, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+2.  De [Regeling zorgverzekering](../../../../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) berust na de inwerkingtreding van deze wet mede op [artikel 69, zevende lid, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
 
 ### Artikel  X  
 
 1.  Deze wet, met uitzondering van artikel I, onderdelen C en I, en artikel III, die in werking treden op een bij koninklijk besluit te bepalen tijdstip, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
 2.  Artikel I, onderdeel F, wat betreft artikel 69, zesde lid, van de Zorgverzekeringswet, en onderdeel G werken terug tot en met 1 januari 2006.   
-3.  Artikel III werkt terug tot en met 1 januari 2007.   
+3.  Artikel III werkt terug tot en met 1 januari 2007.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -58,10 +58,10 @@ Gegeven te 's-Gravenhage
 13 december 2007  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink 
+De Minister van Volksgezondheid, Welzijn en Sport , 
+A. Klink   
 
 de *twintigste* december 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

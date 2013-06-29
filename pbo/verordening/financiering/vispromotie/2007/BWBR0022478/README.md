@@ -7,6 +7,7 @@ Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/B
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 10-05-2008 
 
 1.  In deze verordening wordt verstaan onder:  
 
@@ -18,7 +19,7 @@ Besluit:
 | d.  | voorzitter:  | de voorzitter van het productschap;  |
 | e.  | secretaris:  | de secretaris van het productschap;  |
 | f.  | ondernemer:  | degene, die een onderneming drijft, waarvoor het productschap is ingesteld;  |
-| g.  | fonds:  | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor vispromotie](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/vispromotie/BWBR0014054/README.md)<sup>1</sup>;  |
+| g.  | fonds:  |  het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor vispromotie](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/vispromotie/BWBR0014054/README.md)<sup>1</sup>;  |
 | h.  | vis:  | vissen, schaal- en schelpdieren, delen van vissen alsmede van schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren, pootvis, kokkels, spisula, zwaardscheden en mesheften, nonnetjes, mosselen en oesters;  |
 | i.  | visproducten:  | uit vis verkregen producten, welke al dan niet na verdere be- of verwerking, tot menselijk of dierlijk voedsel kunnen dienen;  |
 | j.  | visserij:  | het bedrijf van het vangen of kweken van vissen, schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren;  |
@@ -48,14 +49,16 @@ Besluit:
 | hh.  | inkoopbedrag:  | de totale factuurwaarde van alle gekochte vis- of visproducten;  |
 | ii.  | kopen:  | zich in eigendom verwerven door de daarvoor gevraagde of geboden prijs te betalen ofwel de overeenkomst waarbij de ene partij zich verbindt te vis of visproducten te leveren en de andere om daarvoor een prijs in geld te betalen.  |
 
-<sup>1</sup> Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 25-02-2003 en door de Sociaal-Economische Raad op 21-11-2002; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 14-03-2003, nr. 19 VIS 4.   
-2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vaartuig direct of indirect verbinding met de wal heeft verkregen.   
+<sup>1</sup> Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 25-02-2003 en door de Sociaal-Economische Raad op 21-11-2002; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 14-03-2003, nr. 19 VIS 4.  
+2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vaartuig direct of indirect verbinding met de wal heeft verkregen.  
 
 ### Artikel  1a  
+Materieel uitgewerkt per 10-05-2008 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.
 
 ### Artikel  2  
+Materieel uitgewerkt per 10-05-2008 
 
 Elke ondernemer is aan het productschap ten bate van het fonds een heffing verschuldigd wegens: 
 
@@ -67,23 +70,24 @@ c. het inkopen van vis of visproducten, welke fysiek in Nederland zijn of komen;
 
 d. het verkopen aan particulieren van vis of visproducten door een kleinhandelaar;  
 
-e. het kopen van maatjesharing, welke fysiek in Nederland is of komt.    
+e. het kopen van maatjesharing, welke fysiek in Nederland is of komt.   
 
 ### Artikel  3  
+Materieel uitgewerkt per 10-05-2008 
 
 1. 
-a. De heffing wegens de handeling, bedoeld in artikel 2, onder a, bedraagt 0,7 promille van de waarde van de met een kotter aangevoerde zeevis met uitzondering van garnalen.  
+a.  De heffing wegens de handeling, bedoeld in artikel 2, onder a, bedraagt 0,7 promille van de waarde van de met een kotter aangevoerde zeevis met uitzondering van garnalen.   
 
-b. De heffing wegens de handeling, bedoeld in artikel 2, onder a, bedraagt € 0,002 per kilogram aangevoerde garnalen.  
+b.  De heffing wegens de handeling, bedoeld in artikel 2, onder a, bedraagt € 0,002 per kilogram aangevoerde garnalen.   
 
-c. De heffing wegens de handeling, bedoeld in artikel 2, onder a, bedraagt 0,6 promille van de waarde van de met een trawler aangevoerde zeevis.     
+c.  De heffing wegens de handeling, bedoeld in artikel 2, onder a, bedraagt 0,6 promille van de waarde van de met een trawler aangevoerde zeevis.     
 2.  
 
-a. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt 0,8 promille van het aankoopbedrag van de van een kotter gekochte zeevis met uitzondering van garnalen.  
+a.  De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt 0,8 promille van het aankoopbedrag van de van een kotter gekochte zeevis met uitzondering van garnalen.   
 
-b. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt € 0,0022 per kilogram gekochte garnalen.  
+b.  De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt € 0,0022 per kilogram gekochte garnalen.   
 
-c. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt 0,7 promille van het aankoopbedrag van de van een trawler gekochte zeevis.     
+c.  De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt 0,7 promille van het aankoopbedrag van de van een trawler gekochte zeevis.     
 3.  De heffing wegens de handeling, bedoeld in artikel 2, onder c, bedraagt 0,6 promille van het inkoopbedrag van de ingekochte vis of visproducten.   
 4.  De heffing wegens de handeling, bedoeld in artikel 2, onder d, bedraagt € 80,– per verkooppunt per kalenderjaar. Onder verkooppunt wordt onder meer verstaan een viswinkel, een viskraam of een visverkoopwagen.   
 5.  Onverminderd het bepaalde in het derde lid, bedraagt de heffing wegens de handeling, bedoeld in artikel 2, onder e, 6 promille van het inkoopbedrag van de ingekochte maatjesharing.   
@@ -101,18 +105,20 @@ c. De conversiefactor voor gepelde garnalen als bedoeld in het eerste lid onder 
 a. Vis en visproducten zijn eenmalig onderhevig aan een heffing als bedoeld in artikel 2, onder c. Op het inkoopbedrag, als bedoeld in het derde lid, dient derhalve het inkoopbedrag waarover reeds een heffing als bedoeld in artikel 2, onder c, is opgelegd, in mindering te worden gebracht.  
 
 b. Vis en visproducten zijn eenmalig onderhevig aan een heffing als bedoeld in artikel 2, onder e. Op het inkoopbedrag, als bedoeld in het vijfde lid, dient derhalve het inkoopbedrag waarover reeds een heffing als bedoeld in artikel 2, onder e, is opgelegd, in mindering te worden gebracht.     
-10.  De ondernemer, die meent dat het achtste of negende lid van dit artikel van toepassing is en hier een beroep op doet, levert hiervan zelf schriftelijk het bewijs.   
+10.  De ondernemer, die meent dat het achtste of negende lid van dit artikel van toepassing is en hier een beroep op doet, levert hiervan zelf schriftelijk het bewijs.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 10-05-2008 
 
 1.  Indien de aangevoerde zeevis, bedoeld in artikel 3, eerste lid onder a, door tussenkomst van een afslag is verhandeld geldt als waarde van de zeevis de op de afslag gemaakte bruto besomming.   
 2.  Indien de aangevoerde zeevis, bedoeld in artikel 3, eerste lid onder a, zonder tussenkomst van een afslag is verhandeld geldt als waarde van de zeevis de door de koper, voor de aan hem verkochte zeevis, betaalde koopsom.   
 3.  Indien de aangevoerde zeevis, bedoeld in artikel 3, eerste lid onder c, zonder tussenkomst van een afslag is verhandeld geldt de waarde van de zeevis 70% van de door de koper, voor de aan hem verkochte zeevis, betaalde koopsom.   
-4.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde of gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.   
+4.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde of gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 10-05-2008 
 
-Deze verordening, welke kan worden aangehaald als Verordening financiering vispromotie 2007, treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.  
+Deze verordening, welke kan worden aangehaald als Verordening financiering vispromotie 2007, treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007. 
 
 Rijswijk 
 12 oktober 2006   

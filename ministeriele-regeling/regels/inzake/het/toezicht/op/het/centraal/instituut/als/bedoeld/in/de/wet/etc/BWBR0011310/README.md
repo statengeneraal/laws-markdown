@@ -6,15 +6,15 @@ De Minister van Financiën;
 Gelet op [artikel 2, eerste en vierde lid, van de Wet giraal effectenverkeer](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md),
 Besluit:    
 
-### 1  
+###1  
 
-Met ingang van 1 mei 2000 eervol ontslag te verlenen aan de heer prof. dr. J.J.M. Kremers te Den Haag als toezichthouder op het centraal instituut.  
+Met ingang van 1 mei 2000 eervol ontslag te verlenen aan de heer prof. dr. J.J.M. Kremers te Den Haag als toezichthouder op het centraal instituut. 
 
-### 2  
+###2  
 
-Met ingang van 1 mei 2000 de Stichting Autoriteit Financiële Markten te Amsterdam te benoemen tot toezichthouder op het centraal instituut.  
+Met ingang van 1 mei 2000 de Stichting Autoriteit Financiële Markten te Amsterdam te benoemen tot toezichthouder op het centraal instituut. 
 
-### 3  
+###3  
 
 Betreffende dit toezicht de navolgende nadere regels vast te stellen, onder gelijktijdige intrekking van artikel 3 van de beschikking van 11 augustus 1979, no. 377-6991, Stcrt. nr. 157. In deze regels wordt verstaan onder ‘de wet’: de [Wet giraal effectenverkeer](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), en onder ‘Necigef’: het centraal instituut, bedoeld in [artikel 1 van de wet](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md).  
 (i).  Het toezicht wordt uitgeoefend vanwege de Minister van Financiën op grond van de bevoegdheden van de toezichthouder, bedoeld in [artikel 2, tweede en derde lid](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), en [artikel 3, eerste lid, van de wet](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md). De benoeming van de STE tot toezichthouder laat de taken en bevoegdheden van de Minister, bedoeld in de [artikelen 1 tot en met 5](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), [25](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md) en [35 van de wet](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), onverlet. Inzake besluiten als bedoeld in de [artikelen 1](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), [2, vierde lid](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), [5](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), [25, derde lid](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), en [35 onder b, van de wet](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md), zal de STE, onverminderd het onder (vi) bepaalde, de Minister adviseren.   
@@ -23,9 +23,9 @@ Betreffende dit toezicht de navolgende nadere regels vast te stellen, onder geli
 (iv).  Indien de STE van oordeel is dat een voorgenomen besluit van Necigef in strijd is met de [wet](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md) of de op de [wet](../../../../../../../../../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md) gebaseerde regels, de statuten van Necigef, of met de eisen van een behoorlijk giraal effectenverkeer, maakt de STE Necigef daarop attent, met het verzoek het voornemen in te trekken of aan te passen. Indien Necigef het niet eens is met het oordeel treedt de voor die situatie gemaakte procedure-afspraak in werking. Onderdeel daarvan is dat de Minister van Financiën tijdig wordt geïnformeerd indien er aanleiding is te verwachten dat de kwestie aan hem zal moeten worden voorgelegd.   
 (v).  De STE informeert de Minister periodiek over de uitvoering van het toezicht en zo nodig tussentijds. Uiterlijk vier maanden na afloop van elk kalenderjaar brengt de STE een jaarverslag uit aan de Minister van Financiën.   
 (vi).  Deze regeling laat onverlet het op grond van het derde voorschrift, verbonden aan de beurserkenning Amsterdam Exchanges N.V. (zie brief Minister van Financiën van 30 december 1996, BGW 96/2719), door De Nederlandsche Bank N.V. (DNB) en de STE opgestelde Toezichtskader ACD en het daarvan deel uitmakende Convenant van samenwerking. De STE en DNB maken afspraken die nodig zijn voor een goede afstemming tussen het toezicht op Necigef op grond van de wet respectievelijk op grond van het Toezichtskader ACD. Deze afspraken behoeven de goedkeuring van de Minister van Financiën.   
-(vii).  Deze regeling treedt in werking met ingang van 1 mei 2000.   
+(vii).  Deze regeling treedt in werking met ingang van 1 mei 2000.  
 Deze regeling zal in de Staatscourant worden geplaatst. Tegen de beschikking, genoemd onder 2., kan iedere belanghebbende binnen zes weken na de datum van publicatie een gemotiveerd bezwaarschrift indienen bij de Minister van Financiën.   
 
 De 
 Minister van Financiën, 
-G.Zalm.    
+G. Zalm .     

@@ -8,13 +8,13 @@ De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  Besluit:
 
 ####Begrippen
 
-In deze regeling wordt verstaan onder het FBG: het Forum Biotechnologie en Genetica bedoeld in artikel 2.  
+In deze regeling wordt verstaan onder het FBG: het Forum Biotechnologie en Genetica bedoeld in artikel 2. 
 
 ### Artikel  2  
 
 ####Instellingsduur
 
-Het Form Biotechnologie en Genetica wordt ingesteld voor een periode van vier jaar.  
+Het Form Biotechnologie en Genetica wordt ingesteld voor een periode van vier jaar. 
 
 ### Artikel  3  
 
@@ -26,7 +26,7 @@ Het FBG heeft als doel om op de terreinen van de medische biotechnologie en de h
 
 – meningsvorming en beleidsontwikkeling bij betrokkenen,  
 
-– ten einde innovatie te bevorderen.   Het FBG richt zich op onderwerpen die spelen op nationaal en Europees bestuurlijk niveau, voor zover van invloed op de Nederlandse situatie en het Nederlandse beleid.  
+– ten einde innovatie te bevorderen.   Het FBG richt zich op onderwerpen die spelen op nationaal en Europees bestuurlijk niveau, voor zover van invloed op de Nederlandse situatie en het Nederlandse beleid. 
 
 ### Artikel  4  
 
@@ -44,7 +44,7 @@ Om zijn doelstelling te bereiken heeft het FBG de volgende taken:
 
 5. Geven van maximaal twee signalementen per jaar op verzoek van het ministerie van Volksgezondheid Welzijn en Sport. Een van deze gevraagde signalementen gaat over de (verre) toekomst en de andere over een actuele situatie;  
 
-6. Fungeren als klankbord voor betrokken organisaties en ministeries.    
+6. Fungeren als klankbord voor betrokken organisaties en ministeries.   
 
 ### Artikel  5  
 
@@ -54,7 +54,7 @@ Om zijn doelstelling te bereiken heeft het FBG de volgende taken:
 2.  Het FBG organiseert plenaire vergaderingen waarin informatie-uitwisseling en overleg centraal staan. Tevens worden er besluiten genomen over de signalen en signalementen en over interne zaken, zoals vaststellen van vergaderschema, verslagen en brieven enz.   
 3.  In tijdelijke werkgroepen kunnen onderwerpen multidisciplinair worden uitgediept.   
 4.  Op de eigen website is voor de deelnemers informatie beschikbaar. Periodiek komt een nieuwsbrief uit. Alle informatie, afgezien van het besloten deel van de website, is ook voor derden beschikbaar.   
-5.  In nader overleg met het ministerie van Volksgezondheid, Welzijn en Sport worden enkele prestatie-indicatoren vastgelegd. Aan de hand hiervan worden de resultaten van de FBG-activiteiten jaarlijks getoetst aan de doelstelling en reikwijdte zoals in artikel 3 genoemd.   
+5.  In nader overleg met het ministerie van Volksgezondheid, Welzijn en Sport worden enkele prestatie-indicatoren vastgelegd. Aan de hand hiervan worden de resultaten van de FBG-activiteiten jaarlijks getoetst aan de doelstelling en reikwijdte zoals in artikel 3 genoemd.  
 
 ### Artikel  6  
 
@@ -85,7 +85,7 @@ Om zijn doelstelling te bereiken heeft het FBG de volgende taken:
 
 – Landbouw, Natuur en Voedselkwaliteit  
 
-– Onderwijs, Cultuur en Wetenschappen.     
+– Onderwijs, Cultuur en Wetenschappen.    
 
 ### Artikel  7  
 
@@ -102,22 +102,22 @@ Om zijn doelstelling te bereiken heeft het FBG de volgende taken:
 
 – het zorgen voor een adequaat financieel beheer en tijdige periodieke verslaglegging;  
 
-– tijdige toezending van het jaarverslag en voortgangsrapportages aan de directie Geneesmiddelen en Medische Technologie van het ministerie van Volksgezondheid, Welzijn en Sport.     
+– tijdige toezending van het jaarverslag en voortgangsrapportages aan de directie Geneesmiddelen en Medische Technologie van het ministerie van Volksgezondheid, Welzijn en Sport.    
 
 ### Artikel  8  
 
 1.  Het FBG stelt zijn eigen werkwijze vast.   
-2.  Het FBG draait mee in de rapportagesystematiek van ZonMw, zodat jaarlijks een jaarverslag wordt opgesteld en één maal per jaar een voortgangsrapportage.   
+2.  Het FBG draait mee in de rapportagesystematiek van ZonMw, zodat jaarlijks een jaarverslag wordt opgesteld en één maal per jaar een voortgangsrapportage.  
 
 ### Artikel  9  
 
-Het beheer van de bescheiden vindt plaats op overeenkomstige wijze als bij het ministerie van Volksgezondheid, Welzijn en Sport. Deze bescheiden worden na beëindiging van de werkzaamheden van het FBG opgeborgen in het archief van dat ministerie.  
+Het beheer van de bescheiden vindt plaats op overeenkomstige wijze als bij het ministerie van Volksgezondheid, Welzijn en Sport. Deze bescheiden worden na beëindiging van de werkzaamheden van het FBG opgeborgen in het archief van dat ministerie. 
 
 ### Artikel  10  
 
 1.  Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
-2.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2008.   
+2.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2008.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-M.Bussemaker   
+M. Bussemaker     

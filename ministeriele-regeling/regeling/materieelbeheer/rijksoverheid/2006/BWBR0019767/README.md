@@ -15,7 +15,7 @@ Besluit:
 
 a. minister: de minister wie het aangaat;  
 
-b. college: een college, genoemd in [artikel 1, eerste lid, onder e, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), wie het aangaat; <sup> 1  Zoals deze artikelonderdelen van de Comptabiliteitswet 2001 komen te luiden, nadat het bij koninklijke boodschap van 13 oktober 2004 ingediende voorstel van wet tot Tweede wijziging van de Comptabiliteitswet 2001 (Kamerstukken II, 2004–2005, 29.833, nr. 2) tot wet is verheven en in werking is getreden.  </sup>  
+b. college: een college, genoemd in [artikel 1, eerste lid, onder e, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md)<sup>1Zoals deze artikelonderdelen van de Comptabiliteitswet 2001 komen te luiden, nadat het bij koninklijke boodschap van 13 oktober 2004 ingediende voorstel van wet tot Tweede wijziging van de Comptabiliteitswet 2001 (Kamerstukken II, 2004–2005, 29.833, nr. 2) tot wet is verheven en in werking is getreden.</sup>, wie het aangaat;  
 
 c. materieelbeheer: de zorg voor niet-geldelijke zaken vanaf het moment van inbeheer- of ingebruikneming tot aan het moment van afstoting;  
 
@@ -29,7 +29,7 @@ f. budgettairebijdrageafspraak: de afspraak tussen de Minister van Financiën en
 
 a. de archieven van het Rijk;  
 
-b. museale voorwerpen als bedoeld in [artikel 1, onderdeel c, van de Regeling materieelbeheer museale voorwerpen](../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md);     
+b. museale voorwerpen als bedoeld in [artikel 1, onderdeel c, van de Regeling materieelbeheer museale voorwerpen](../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md);    
 
 ### Hoofdstuk  2  
 
@@ -42,24 +42,24 @@ b. museale voorwerpen als bedoeld in [artikel 1, onderdeel c, van de Regeling ma
 ### Artikel  2  
 
 1.  De minister of het college legt de beschrijving van de administratieve organisatie met betrekking tot het materieelbeheer vast en draagt zorg voor de toepassing van de in die administratieve organisatie vastgelegde procedures.   
-2.  De minister of het college draagt er zorg voor dat in het kader van het gevoerde materieelbeheer een adequate administratie wordt bijgehouden.   
+2.  De minister of het college draagt er zorg voor dat in het kader van het gevoerde materieelbeheer een adequate administratie wordt bijgehouden.  
 
 ### Artikel  3  
 
 1.  In beheer of in gebruik genomen zaken worden zodanig beheerd of gebruikt dat onnodig kwaliteits- en kwantiteitsverlies worden voorkomen.   
 2.  Van door de minister of het college aan te wijzen roerende zaken wordt op niet vooraf aangekondigde momenten de aanwezigheid in de organisatie gecontroleerd. De resultaten van de controle worden in de administratie vastgelegd.   
-3.  De minister of het college inventariseert de risico’s dat door oorzaken gelegen buiten de organisatie aan in beheer of in gebruik genomen zaken aanzienlijke schade kan worden toegebracht.   
+3.  De minister of het college inventariseert de risico’s dat door oorzaken gelegen buiten de organisatie aan in beheer of in gebruik genomen zaken aanzienlijke schade kan worden toegebracht.  
 
 ### Artikel  4  
 
 1.  In beheer of in gebruik genomen zaken worden zodanig beheerd of gebruikt dat de kans op schade aan derden of aansprakelijkstelling door derden zoveel mogelijk wordt voorkomen.   
-2.  De minister of het college inventariseert de risico’s dat met in beheer of in gebruik genomen zaken aanzienlijke schade aan derden kan worden toegebracht, dan wel dat het beheer of het gebruik van die zaken aanleiding kan zijn tot aansprakelijkstelling door derden met aanzienlijke financiële gevolgen.   
+2.  De minister of het college inventariseert de risico’s dat met in beheer of in gebruik genomen zaken aanzienlijke schade aan derden kan worden toegebracht, dan wel dat het beheer of het gebruik van die zaken aanleiding kan zijn tot aansprakelijkstelling door derden met aanzienlijke financiële gevolgen.  
 
 ### Artikel  5  
 
 1.  Aan de hand van de inschatting van de kans dat de geïnventariseerde risico’s, bedoeld in de artikelen 3 en 4, zich zullen voordoen, wordt besloten of en zo ja welke preventieve maatregelen moeten worden genomen ter voorkoming of beperking van de risico’s, dan wel welke repressieve maatregelen moeten worden genomen voor het herstel van de schade of de opvang van de gevolgen van aansprakelijkstelling.   
 2.  De risico's van schade voor en aansprakelijkstelling van de Staat worden om redenen van doelmatigheid in het algemeen niet verzekerd. Een besluit tot verzekeren wordt genomen in overeenstemming met de Minister van Financiën.   
-3.  In overleg tussen de minister of het college en de Minister van Financiën kan worden besloten, dat de afwikkeling van een schade of een aansprakelijkstelling namens het Rijk door de Minister van Financiën geschiedt.   
+3.  In overleg tussen de minister of het college en de Minister van Financiën kan worden besloten, dat de afwikkeling van een schade of een aansprakelijkstelling namens het Rijk door de Minister van Financiën geschiedt.  
 
 ### Paragraaf  2.2  
 
@@ -68,7 +68,7 @@ b. museale voorwerpen als bedoeld in [artikel 1, onderdeel c, van de Regeling ma
 ### Artikel  6  
 
 1.  Voorraden, voor zover deze benodigd zijn voor de bedrijfsvoering, worden zodanig aangehouden dat de continuïteit van de bedrijfsvoering voldoende gewaarborgd is en dat geen ondoelmatige voorraden ontstaan.   
-2.  De minister of het college kan voorraden roerende zaken aanwijzen, waarop artikel 7 van toepassing is.   
+2.  De minister of het college kan voorraden roerende zaken aanwijzen, waarop artikel 7 van toepassing is.  
 
 ### Artikel  7  
 
@@ -89,7 +89,7 @@ f. de namen van de voorraadbeheerders en van de beschikkende functionarissen.
 3.  Tot afgifte van zaken uit een aangewezen voorraad is uitsluitend bevoegd de betrokken voorraadbeheerder in opdracht van de beschikkende functionarissen.   
 4.  Bij het beheer van een aangewezen voorraad wordt een voldoende functiescheiding toegepast.   
 5.  In het algemeen ten minste eenmaal per jaar wordt door middel van een aanwezigheidscontrole, te verrichten door een van de voorraadbeheerder onafhankelijke functionaris, nagegaan of de voorraad in overeenstemming is met de bijgehouden voorraadadministratie. De resultaten van die controle worden betrouwbaar vastgelegd.   
-6.  Na afloop van elk jaar legt de voorraadbeheerder verantwoording af over het door hem in het voorafgaande jaar gevoerde voorraadbeheer overeenkomstig de door de minister of het college vastgestelde procedure.   
+6.  Na afloop van elk jaar legt de voorraadbeheerder verantwoording af over het door hem in het voorafgaande jaar gevoerde voorraadbeheer overeenkomstig de door de minister of het college vastgestelde procedure.  
 
 ### Hoofdstuk  3  
 
@@ -109,7 +109,7 @@ f. de namen van de voorraadbeheerders en van de beschikkende functionarissen.
 6.  De dienst Domeinen kan de kosten van afstoting geheel of gedeeltelijk aan de overtolligstellende minister of het college in rekening brengen, indien zij die kosten niet kan dekken uit de opbrengst van afstoting. Zij doet daarvan zo spoedig mogelijk mededeling aan de minister of het college.   
 7.  De dienst Domeinen kan toestemming verlenen dat afstoting door de minister of het college zelf plaatsvindt. Aan die toestemming kunnen voorwaarden worden verbonden.   
 8.  Roerende zaken die niet op de in het vijfde lid bedoelde wijze kunnen worden afgestoten of overgedragen, stoot de dienst Domeinen voor rekening van de minister of het college door middel van vernietiging af.   
-9.  Indien naar het oordeel van de dienst Domeinen de minister of het college een besluit tot overtolligstelling of een overdracht in tijdelijk beheer aan de dienst Domeinen ondoelmatig lang uitstelt, kan de dienst Domeinen, nadat de Minister van Financiën de minister of het college schriftelijk een voorstel tot overdracht in tijdelijk beheer heeft gedaan, de betrokken zaak zonder een besluit tot overtolligstelling in tijdelijk beheer overnemen.   
+9.  Indien naar het oordeel van de dienst Domeinen de minister of het college een besluit tot overtolligstelling of een overdracht in tijdelijk beheer aan de dienst Domeinen ondoelmatig lang uitstelt, kan de dienst Domeinen, nadat de Minister van Financiën de minister of het college schriftelijk een voorstel tot overdracht in tijdelijk beheer heeft gedaan, de betrokken zaak zonder een besluit tot overtolligstelling in tijdelijk beheer overnemen.  
 
 ### Paragraaf  3.2  
 
@@ -135,7 +135,7 @@ d. andere rechts- of natuurlijke personen.
 8.  Aan de gebruiksgerechtigde die de onroerende zaak voorafgaand aan het moment van afstoting geheel of grotendeels in gebruik heeft, of aan een eigenaar van een aan de onroerende zaak aangrenzende onroerende zaak kan een voorkeurspositie bij de koop of de huur worden gegeven.   
 9.  Verkoop of verhuur aan derden geschiedt tegen marktconforme prijzen. Bij ingebruikgeving aan andere ministers of colleges vindt interne doorberekening plaats op basis van marktconforme prijzen.   
 10.  Indien de dienst Domeinen overweegt af te wijken van de toepassing van het zevende lid, kan zij daarover het advies van de Raad voor Vastgoed Rijksoverheid vragen.   
-11.  Indien een afstoting of een overdracht als bedoeld in het zevende lid wordt overwogen, kan de dienst Domeinen daarover advies vragen aan de Raad voor Vastgoed Rijksoverheid als dat uit hoofde van de belangenafweging naar het oordeel van de dienst Domeinen wenselijk is.   
+11.  Indien een afstoting of een overdracht als bedoeld in het zevende lid wordt overwogen, kan de dienst Domeinen daarover advies vragen aan de Raad voor Vastgoed Rijksoverheid als dat uit hoofde van de belangenafweging naar het oordeel van de dienst Domeinen wenselijk is.  
 
 ### Hoofdstuk  4  
 
@@ -143,18 +143,18 @@ d. andere rechts- of natuurlijke personen.
 
 ### Artikel  10  
 
-De minister of het college kan in bijzondere omstandigheden met de instemming van de Minister van Financiën afwijken van de bepalingen van deze regeling.  
+De minister of het college kan in bijzondere omstandigheden met de instemming van de Minister van Financiën afwijken van de bepalingen van deze regeling. 
 
 ### Artikel  11  
 
 1.  De regels, bedoeld in [artikel 38, eerste lid, van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), ten aanzien van het materieelbeheer, zoals die regels zijn vastgesteld bij de Regeling Rijksbegrotingsvoorschriften 2003 van 25 september 2002, worden ingetrokken.   
 2.  Deze regeling wordt aangehaald als: Regeling materieelbeheer rijksoverheid 2006.   
-3.  Deze regeling treedt in werking met ingang van 1 mei 2006 en werkt terug tot en met 1 januari 2006.   
+3.  Deze regeling treedt in werking met ingang van 1 mei 2006 en werkt terug tot en met 1 januari 2006.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-G.Zalm  
+G. Zalm    
 
 ### Bijlage  1  
 

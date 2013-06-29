@@ -15,63 +15,63 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement.
 
 ### Artikel  II  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal.
 
 ### Artikel  III  
 
-Wijzigt het Arbeidstijdenbesluit.   
+Wijzigt het Arbeidstijdenbesluit.
 
 ### Artikel  IV  
 
-De algemene maatregel van bestuur, bedoeld in [artikel 3b, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), voor zover deze betrekking heeft op het verstrekken van subsidie, wordt vastgesteld overeenkomstig het [Subsidiebesluit justitiële jeugdinrichtingen](../../../../../../../../AMvB/subsidiebesluit/justitiële/jeugdinrichtingen/BWBR0009369/README.md), zoals dit luidde op 31 december 2004.  
+De algemene maatregel van bestuur, bedoeld in [artikel 3b, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), voor zover deze betrekking heeft op het verstrekken van subsidie, wordt vastgesteld overeenkomstig het [Subsidiebesluit justitiële jeugdinrichtingen](../../../../../../../../AMvB/subsidiebesluit/justitiële/jeugdinrichtingen/BWBR0009369/README.md), zoals dit luidde op 31 december 2004.
 
 ### Artikel  V  
 
-Wijzigt het Besluit algemene rechtspositie politie.   
+Wijzigt het Besluit algemene rechtspositie politie.
 
 ### Artikel  VI  
 
-Wijzigt het Besluit beperking verkoop en gebruik tabaksprodukten.   
+Wijzigt het Besluit beperking verkoop en gebruik tabaksprodukten.
 
 ### Artikel  VII  
 
-Wijzigt het Besluit BIBOB.   
+Wijzigt het Besluit BIBOB.
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit gebruik sofi-nummer Wbp.   
+Wijzigt het Besluit gebruik sofi-nummer Wbp.
 
 ### Artikel  IX  
 
-Wijzigt het Besluit gezondheidszorgpsycholoog.   
+Wijzigt het Besluit gezondheidszorgpsycholoog.
 
 ### Artikel  X  
 
-Wijzigt het Besluit justitiële gegevens.   
+Wijzigt het Besluit justitiële gegevens.
 
 ### Artikel  XI  
 
-Wijzigt het Besluit klachtencommissie vergunninghouders interlandelijke adoptie.   
+Wijzigt het Besluit klachtencommissie vergunninghouders interlandelijke adoptie.
 
 ### Artikel  XII  
 
-Wijzigt het Besluit politieregisters.   
+Wijzigt het Besluit politieregisters.
 
 ### Artikel  XIII  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken.
 
 ### Artikel  XIV  
 
-Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.   
+Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ### Artikel  XV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2005.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2005. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

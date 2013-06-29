@@ -2,16 +2,19 @@
 
 ##Verordening van het Hoofdproductschap Akkerbouw van 20 maart 2003 houdende regels over de bestrijding van erosie op landbouwgronden (Verordening HPA erosiebestrijding landbouwgronden 2003)
 
-Het bestuur van het Hoofdproductschap Akkerbouw;  
+Het bestuur van het Hoofdproductschap Akkerbouw;
 Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [106](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 2, 4, 15 en 16 van de Instellingsverordening akkerbouwproductschappen 1997;
 
 Gehoord de Commissie Teeltaangelegenheden;
-Besluit:     
-### §  1  
+Besluit:
+###§ 1 
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 08-06-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 08-06-2008 
 
 Deze verordening verstaat onder:  
 
@@ -42,26 +45,32 @@ Deze verordening verstaat onder:
 | w.  | grasondergroei  | :  | teeltsysteem waarbij gras wordt ingezaaid tijdens de teelt van een hoofdgewas, leidend tot een grasmat die na de oogst van het hoofdgewas in stand wordt gehouden;  |
 | x.  | bedrijfserosieplan  | :  | een plan van aanpak voor de erosiebestrijding op bedrijfsniveau.  |
 
-### §  2  
+###§ 2 
 
 ####Gebied
 
-### Artikel  2  
+Materieel uitgewerkt per 08-06-2008 
 
-1.  Deze verordening is van toepassing op landbouwgronden voorzover deze geheel of gedeeltelijk zijn gelegen in de navolgende gemeenten: Eijsden, Maastricht, Meerssen, Stein, Geleen, Beek, Schinnen, Nuth, Voerendaal, Simpelveld, Vaals, Gulpen-Wittem, Margraten, Valkenburg a/d/ Geul, Sittard, Onderbanken, Brunssum, Landgraaf, Heerlen, Kerkrade.   
-2.  Deze verordening is niet van toepassing op de in het eerste lid bedoelde landbouwgronden, voor zover deze zijn gelegen: 
+###Artikel 2 
+Materieel uitgewerkt per 08-06-2008 
 
-in het watervoerend en waterbergend winterbed in het Maasdal;  
+1. Deze verordening is van toepassing op landbouwgronden voorzover deze geheel of gedeeltelijk zijn gelegen in de navolgende gemeenten:Eijsden, Maastricht, Meerssen, Stein, Geleen, Beek, Schinnen, Nuth, Voerendaal, Simpelveld, Vaals, Gulpen-Wittem, Margraten, Valkenburg a/d/ Geul, Sittard, Onderbanken, Brunssum, Landgraaf, Heerlen, Kerkrade.
+2. Deze verordening is niet van toepassing op de in het eerste lid bedoelde landbouwgronden, voor zover deze zijn gelegen:
 
-in de inundatiegebieden van de rivier de Geul;  
+in het watervoerend en waterbergend winterbed in het Maasdal;
 
-ten noorden van de wegen Sittard - Wehr en Sittard - Urmond.     
+in de inundatiegebieden van de rivier de Geul;
 
-### §  3  
+ten noorden van de wegen Sittard - Wehr en Sittard - Urmond.
+
+###§ 3 
 
 ####Algemene verplichtingen
 
+Materieel uitgewerkt per 08-06-2008 
+
 ### Artikel  3  
+Materieel uitgewerkt per 08-06-2008 
 
 1.  De ondernemer is verplicht: 
 
@@ -98,47 +107,54 @@ k. beperken van de lengte van percelen gerekend loodrecht van de hoogtelijn hell
 
 l. strokenbouw;  
 
-m. begreppeling.     
+m. begreppeling.    
 
-### Artikel  4  
+###Artikel 4 
+Materieel uitgewerkt per 08-06-2008 
 
-De ondernemer die landbouwgrond in gebruik heeft, is verplicht: 
+De ondernemer die landbouwgrond in gebruik heeft, is verplicht:
 
-a. na elke oogst een op het voorkomen van bodemerosie gerichte grondbewerking uit te voeren met een minimale diepte van 20 centimeter, behoudens bij de toepassing van grasondergroei en bij de aanwezigheid van meerjarige teelten;  
+a.na elke oogst een op het voorkomen van bodemerosie gerichte grondbewerking uit te voeren met een minimale diepte van 20 centimeter, behoudens bij de toepassing van grasondergroei en bij de aanwezigheid van meerjarige teelten;
 
-b. de onder a. bedoelde grondbewerking dient zo spoedig mogelijk na de oogst te worden uitgevoerd, doch vóór 1 oktober na de oogst van granen en vóór 1 december na de oogst van de overige gewassen;  
+b.de onder a. bedoelde grondbewerking dient zo spoedig mogelijk na de oogst te worden uitgevoerd, doch vóór 1 oktober na de oogst van granen en vóór 1 december na de oogst van de overige gewassen;
 
-c. bij het inzaaien van bieten of maïs de sporen van de trekkerwielen te wissen, tenzij de directzaaimethode wordt toegepast;  
+c.bij het inzaaien van bieten of maïs de sporen van de trekkerwielen te wissen, tenzij de directzaaimethode wordt toegepast;
 
-d. na de teelt van maïs en granen een groenbemester toe te passen, tenzij het korrelmaïs, ccm of mks betreft, dan wel bij de oogst van granen alle stro op het land achterblijft, waarbij de verplichting zoals opgenomen in onderdeel a niet mag leiden tot een verwijdering van de gewasresten;  
+d.na de teelt van maïs en granen een groenbemester toe te passen, tenzij het korrelmaïs, ccm of mks betreft, dan wel bij de oogst van granen alle stro op het land achterblijft, waarbij de verplichting zoals opgenomen in onderdeel a niet mag leiden tot een verwijdering van de gewasresten;
 
-e. bij de teelt van een erosie bevorderend gewas aan de onderzijde van het gewasperceel een waterremmende voorziening te realiseren, tenminste in de vorm van een berm, graft, heg, houtwal, sloot, schot, bloemrijke akkerrand of niet-erosie bevorderend gewas met een minimale breedte van 3 meter.    
+e.bij de teelt van een erosie bevorderend gewas aan de onderzijde van het gewasperceel een waterremmende voorziening te realiseren, tenminste in de vorm van een berm, graft, heg, houtwal, sloot, schot, bloemrijke akkerrand of niet-erosie bevorderend gewas met een minimale breedte van 3 meter.
 
-### §  4  
+###§ 4 
 
 ####Verbodsbepalingen
 
-### Artikel  5  
+Materieel uitgewerkt per 08-06-2008 
 
-1.  Het is een ondernemer verboden landbouwgronden met een hellingspercentage van 2% of méér, met een erosie bevorderend gewas te betelen.   
-2.  Het in het eerste lid bedoelde verbod geldt niet voor gewaspercelen met een hellingspercentage van 2 tot 5% indien: 
+###Artikel 5 
+Materieel uitgewerkt per 08-06-2008 
 
-a. de erosiebevorderende gewassen over geen grotere aaneengesloten lengte dan 400 meter worden geteeld en  
+1. Het is een ondernemer verboden landbouwgronden met een hellingspercentage van 2% of méér, met een erosie bevorderend gewas te betelen.
+2. Het in het eerste lid bedoelde verbod geldt niet voor gewaspercelen met een hellingspercentage van 2 tot 5% indien:
 
-b. toepassing wordt gegeven aan de directzaaimethode, mulchmethode of een strodek.     
-3.  Het in het eerste lid bedoelde verbod geldt niet voor gewaspercelen met een gemiddelde hellingspercentage van 5 tot 18 % indien: 
+a.de erosiebevorderende gewassen over geen grotere aaneengesloten lengte dan 400 meter worden geteeld en
 
-a. de erosiebevorderende gewassen over geen grotere aaneengesloten lengte dan 300 meter worden geteeld en  
+b.toepassing wordt gegeven aan de directzaaimethode, mulchmethode of een strodek.
+3. Het in het eerste lid bedoelde verbod geldt niet voor gewaspercelen met een gemiddelde hellingspercentage van 5 tot 18 % indien:
 
-b. toepassing wordt gegeven aan de directzaaimethode, mulchmethode of een strodek.     
-4.  Indien bij het bereiken van het lengtecriterium voor de teelt van een erosie bevorderend gewas, zoals vermeld in onderdeel a van de leden 2 en 3, afwisseling plaatsvindt met een niet-erosie bevorderend gewas, dient op de eerste plaats dit niet-erosiebevorderende gewas over de volle breedte te grenzen aan het erosiebevorderende gewas en dient op de tweede plaats de lengte van het niet- erosiebevorderende gewas tenminste 100 meter te bedragen, alvorens een volgend erosie bevorderend gewas wordt geteeld.   
-5.  Het is een ondernemer verboden landbouwgrond met een hellingspercentage van 18% of méer anders te exploiteren dan als grasland.   
+a.de erosiebevorderende gewassen over geen grotere aaneengesloten lengte dan 300 meter worden geteeld en
 
-### §  5  
+b.toepassing wordt gegeven aan de directzaaimethode, mulchmethode of een strodek.
+4. Indien bij het bereiken van het lengtecriterium voor de teelt van een erosie bevorderend gewas, zoals vermeld in onderdeel a van de leden 2 en 3, afwisseling plaatsvindt met een niet-erosie bevorderend gewas, dient op de eerste plaats dit niet-erosiebevorderende gewas over de volle breedte te grenzen aan het erosiebevorderende gewas en dient op de tweede plaats de lengte van het niet- erosiebevorderende gewas tenminste 100 meter te bedragen, alvorens een volgend erosie bevorderend gewas wordt geteeld.
+5. Het is een ondernemer verboden landbouwgrond met een hellingspercentage van 18% of méer anders te exploiteren dan als grasland.
+
+###§ 5 
 
 ####Nadere voorschriften knelpuntgebieden
 
+Materieel uitgewerkt per 08-06-2008 
+
 ### Artikel  6  
+Materieel uitgewerkt per 08-06-2008 
 
 1.  De ondernemer die landbouwgronden in gebruik heeft, niet zijnde grasland, en die gelegen zijn in een knelpuntgebied, kan een bedrijfserosieplan laten goedkeuren en dient hieraan uitvoering te geven.   
 2.  De ondernemer die landbouwgronden in gebruik heeft als grasland en die gelegen zijn in een knelpuntgebied, is verplicht een bedrijfserosieplan te laten goedkeuren en hieraan uitvoering te geven, indien hij voornemens is de landbouwgronden anders te exploiteren dan als grasland.   
@@ -151,60 +167,73 @@ b. artikel 5, vijfde lid en
 c. de verplichting om bij een hellingspercentage van 12 tot 18% toepassing te geven aan de directzaaimethode, mulchmethode of een strodek.     
 4.  De voorzitter kan, namens het bestuur, bij besluit nadere regelen stellen aan het bedrijfserosieplan.   
 5.  De ondernemer die voornemens is een bedrijfserosieplan in te dienen, dient een retributie te voldoen van €114,--.   
-6.  De secretaris beslist namens het bestuur over de goedkeuring van het bedrijfserosieplan.   
+6.  De secretaris beslist namens het bestuur over de goedkeuring van het bedrijfserosieplan.  
 
-### Artikel  7  
+###Artikel 7 
+Materieel uitgewerkt per 08-06-2008 
 
-De ondernemer die voornemens is om landbouwgronden, in gebruik als grasland en gelegen in een gebied als bedoeld in artikel 6, te scheuren met het doel die gronden weer in te zaaien als grasland (graslandvernieuwing) of met het doel elders binnen het bedrijf een zelfde are-aal landbouwgrond om te zetten in grasland (wisselteelt) meldt dit voornemen tenminste vier weken voorafgaand aan het scheuren aan de Limburgse Land- en Tuinbouwbond. Artikel 6, tweede lid, is niet van toepassing.  
+De ondernemer die voornemens is om landbouwgronden, in gebruik als grasland en gelegen in een gebied als bedoeld in artikel 6, te scheuren met het doel die gronden weer in te zaaien als grasland (graslandvernieuwing) of met het doel elders binnen het bedrijf een zelfde are-aal landbouwgrond om te zetten in grasland (wisselteelt) meldt dit voornemen tenminste vier weken voorafgaand aan het scheuren aan de Limburgse Land- en Tuinbouwbond. Artikel 6, tweede lid, is niet van toepassing.
 
-### §  6  
+###§ 6 
 
 ####Overige bepalingen
 
+Materieel uitgewerkt per 08-06-2008 
+
 ### Artikel  8  
+Materieel uitgewerkt per 08-06-2008 
 
-De secretaris is, namens het bestuur, bevoegd op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in de artikelen 3, 4, 5 en 7 en kan daarbij nadere voorschriften vaststellen.  
+De secretaris is, namens het bestuur, bevoegd op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in de artikelen 3, 4, 5 en 7 en kan daarbij nadere voorschriften vaststellen. 
 
-### Artikel  9  
+###Artikel 9 
+Materieel uitgewerkt per 08-06-2008 
 
-Het bepaalde bij of krachtens de artikelen 3, 4, 5, 6 en 7, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen plegen te worden verricht.  
+Het bepaalde bij of krachtens de artikelen 3, 4, 5, 6 en 7, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen plegen te worden verricht.
 
-### §  7  
+###§ 7 
 
 ####Slotbepalingen
 
-### Artikel  10  
+Materieel uitgewerkt per 08-06-2008 
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld. Een door het bevoegde tuchtgerecht op te leggen geldboete mag niet hoger zijn dan € 450,- per overtreding, totdat het op 24 februari 2000 ingediende voorstel van wet "Nieuwe regelen inzake tuchtrechtspraak in de publiekrechtelijke bedrijfsorganisatie (wet tuchtrechtspraak bedrijfsorganisatie 2002)", Kamerstukken II nr. 27025 (1999-2000), tot wet wordt verheven en in werking treedt.  
+###Artikel 10 
+Materieel uitgewerkt per 08-06-2008 
 
-### Artikel  11  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld. Een door het bevoegde tuchtgerecht op te leggen geldboete mag niet hoger zijn dan € 450,- per overtreding, totdat het op 24 februari 2000 ingediende voorstel van wet "Nieuwe regelen inzake tuchtrechtspraak in de publiekrechtelijke bedrijfsorganisatie (wet tuchtrechtspraak bedrijfsorganisatie 2002)", Kamerstukken II nr. 27025 (1999-2000), tot wet wordt verheven en in werking treedt.
 
-De Verordening HPA erosiebestrijding landbouwgronden 2001 wordt ingetrokken.  
+###Artikel 11 
+Materieel uitgewerkt per 08-06-2008 
 
-### Artikel  12  
+De Verordening HPA erosiebestrijding landbouwgronden 2001 wordt ingetrokken.
 
-Deze verordening treedt in werking met ingang van 1 juli 2003. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 30 juni 2003, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juli 2003, met uitzondering van het in artikel 10 bepaalde.  
+###Artikel 12 
+Materieel uitgewerkt per 08-06-2008 
 
-### Artikel  13  
+Deze verordening treedt in werking met ingang van 1 juli 2003.Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 30 juni 2003, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juli 2003, met uitzondering van het in artikel 10 bepaalde.
 
-Deze verordening wordt aangehaald als Verordening HPA erosiebestrijding landbouwgronden 2003.  
+###Artikel 13 
+Materieel uitgewerkt per 08-06-2008 
 
-Den Haag 
-20 maart 2003    
+Deze verordening wordt aangehaald als Verordening HPA erosiebestrijding landbouwgronden 2003.
 
-J .H.M. Kienhuis  
-voorzitter  
+Den Haag
+20 maart 2003
 
-R.J.M. ten Berge  
-secretaris    Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 12 juni 2003.   
+J .H.M. Kienhuis
+voorzitter
 
-### Bijlage  1  
+R.J.M. tenBerge
+secretarisGoedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 12 juni 2003.
+
+###Bijlage 1 
+Materieel uitgewerkt per 08-06-2008 
 
 ![141986](http://wetten.overheid.nl/Illustration/141986)
 ![141987](http://wetten.overheid.nl/Illustration/141987)
 ![141988](http://wetten.overheid.nl/Illustration/141988)
 
-### Bijlage  2  
+###Bijlage 2 
+Materieel uitgewerkt per 08-06-2008 
 
 ![141990](http://wetten.overheid.nl/Illustration/141990)
 

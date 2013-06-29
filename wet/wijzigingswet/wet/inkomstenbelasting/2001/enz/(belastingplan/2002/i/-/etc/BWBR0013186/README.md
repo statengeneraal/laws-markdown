@@ -14,23 +14,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001.  
 
 ### Artikel  IA  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964.  
 
 ### Artikel  IIA  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964.  
 
 ### Artikel  III  
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.   
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.  
 
 ### Hoofdstuk  2  
 
@@ -38,15 +38,15 @@ Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzek
 
 ### Artikel  IV  
 
-Wijzigt de Wet inschakeling werkzoekenden.   
+Wijzigt de Wet inschakeling werkzoekenden.  
 
 ### Artikel  V  
 
-Wijzigt de Wet sociale werkvoorziening.   
+Wijzigt de Wet sociale werkvoorziening.  
 
 ### Artikel  VA  
 
-Wijzigt de Wet financiering volksverzekeringen.   
+Wijzigt de Wet financiering volksverzekeringen.  
 
 ### Hoofdstuk  3  
 
@@ -62,7 +62,7 @@ Voor het kalenderjaar 2002 worden voor de toepassing van [artikel 6.24, tweede l
 
 ####Overgangsrecht inkomstenbelasting
 
-De in [artikel 8.21, eerste en tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde toetrederskorting geldt niet voor de belastingplichtige die vóór 1 juli 2001 reeds voldeed aan de in die leden omschreven voorwaarden.  
+De in [artikel 8.21, eerste en tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde toetrederskorting geldt niet voor de belastingplichtige die vóór 1 juli 2001 reeds voldeed aan de in die leden omschreven voorwaarden. 
 
 ### Artikel  VII  
 
@@ -74,26 +74,26 @@ a. ingeval de belastingplichtige bij het begin van het kalenderjaar de leeftijd 
 
 b. ingeval de belastingplichtige bij het begin van het kalenderjaar de leeftijd van 60 jaar heeft bereikt maar nog niet de leeftijd van 62, het percentage, bedoeld in het tweede lid, tweede volzin, onderdeel b, vervangen door 15,046% en het bedrag, bedoeld in het tweede lid, derde volzin, vervangen door € 1289;  
 
-c. ingeval de belastingplichtige bij het begin van het kalenderjaar de leeftijd van 62 jaar heeft bereikt, het percentage, bedoeld in het tweede lid, tweede volzin, onderdeel b, vervangen door 17,272% en het bedrag, bedoeld in het tweede lid, derde volzin, vervangen door € 1460.    
+c. ingeval de belastingplichtige bij het begin van het kalenderjaar de leeftijd van 62 jaar heeft bereikt, het percentage, bedoeld in het tweede lid, tweede volzin, onderdeel b, vervangen door 17,272% en het bedrag, bedoeld in het tweede lid, derde volzin, vervangen door € 1460.   
 
 ### Artikel  VIII  
 
 ####Overgangsrecht loonbelasting
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964.  
 
 ### Artikel  IX  
 
 ####Overgangsrecht Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen
 
-Voor de toepassing van [artikel 15a, tweede lid, onderdeel a, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) moet voor het kalenderjaar 2000 het begrip «resultaat uit overige werkzaamheden» worden opgevat als inkomsten uit arbeid uit niet in dienstbetrekking verrichte werkzaamheden, bedoeld in artikel 22, eerste lid, onderdeel b, van de Wet op de inkomstenbelasting 1964, verminderd met de aftrekbare kosten, bedoeld in artikel 35 van de Wet op de inkomstenbelasting 1964.  
+Voor de toepassing van [artikel 15a, tweede lid, onderdeel a, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) moet voor het kalenderjaar 2000 het begrip «resultaat uit overige werkzaamheden» worden opgevat als inkomsten uit arbeid uit niet in dienstbetrekking verrichte werkzaamheden, bedoeld in artikel 22, eerste lid, onderdeel b, van de Wet op de inkomstenbelasting 1964, verminderd met de aftrekbare kosten, bedoeld in artikel 35 van de Wet op de inkomstenbelasting 1964. 
 
 ### Artikel  IXA  
 
 ####Samenloopbepaling
 
 1.  Ingeval de samenloop van wetten die in 2001 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling.   
-2.  Ingeval de samenloop van wetten die in 2001 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in de [Coördinatiewet Sociale Verzekering](../../../../../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md), niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de [Coördinatiewet Sociale Verzekering](../../../../../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md), herstelt Onze Minister van Sociale Zaken en Werkgelegenheid dat bij ministeriële regeling.   
+2.  Ingeval de samenloop van wetten die in 2001 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in de [Coördinatiewet Sociale Verzekering](../../../../../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md), niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de [Coördinatiewet Sociale Verzekering](../../../../../../../../../../../../wet/coördinatiewet/sociale/verzekering/BWBR0002126/README.md), herstelt Onze Minister van Sociale Zaken en Werkgelegenheid dat bij ministeriële regeling.  
 
 ### Artikel  X  
 
@@ -104,8 +104,8 @@ Voor de toepassing van [artikel 15a, tweede lid, onderdeel a, van de Wet vermind
 3.  In afwijking van het eerste lid treden artikel I, onderdelen K, eerste lid en L, in werking met ingang van 1 juli 2002.   
 4.  In afwijking van het eerste lid treedt artikel IA, onderdeel A en B, en artikel IIA in werking met ingang van 1 januari 2003.   
 5.  In afwijking van het eerste lid treedt van het in artikel I, onderdeel L, opgenomen [artikel 8.13, het vierde lid](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) in werking op een bij koninklijk besluit vast te stellen tijdstip.   
-6.  Artikel I en artikel II vinden toepassing nadat [afdeling 10.1 van de Wet IB 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [artikel 11, achtste lid, van de Wet op de loonbelasting 1964](../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij het begin van het kalenderjaar 2002 zijn toegepast.   
-7.  Artikel III vindt toepassing nadat de [artikelen 30](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) bij het begin van het kalenderjaar 2002 zijn toegepast.   
+6.   Artikel I en artikel II vinden toepassing nadat [afdeling 10.1 van de Wet IB 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [artikel 11, achtste lid, van de Wet op de loonbelasting 1964](../../../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij het begin van het kalenderjaar 2002 zijn toegepast.   
+7.   Artikel III vindt toepassing nadat de [artikelen 30](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en [30a van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) bij het begin van het kalenderjaar 2002 zijn toegepast.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -13,10 +13,10 @@ Hebben goedgevonden en verstaan:
 
 1.  Van Onze Minister van Sociale Zaken en Werkgelegenheid naar Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gaan over: 
 
-a. de verantwoordelijkheid voor de uitvoering van het toezicht op de naleving van hetgeen bij of krachtens de [Kernenergiewet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) is bepaald en bevolen met betrekking tot inrichtingen waarvoor een vergunning krachtens [artikel 15, onder b, van die wet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) is verleend, en met betrekking tot de tot eenzelfde onderneming of instelling behorende installaties die daarmee technische, organisatorische of functionele bindingen hebben en in de onmiddellijke nabijheid daarvan zijn gelegen en met betrekking tot welke installaties een vergunning krachtens [die wet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) is verleend;  
+a.de verantwoordelijkheid voor de uitvoering van het toezicht op de naleving van hetgeen bij of krachtens de [Kernenergiewet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) is bepaald en bevolen met betrekking tot inrichtingen waarvoor een vergunning krachtens [artikel 15, onder b, van die wet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) is verleend, en met betrekking tot de tot eenzelfde onderneming of instelling behorende installaties die daarmee technische, organisatorische of functionele bindingen hebben en in de onmiddellijke nabijheid daarvan zijn gelegen en met betrekking tot welke installaties een vergunning krachtens [die wet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) is verleend;
 
-b. taken die met de vergunningverlening op grond van [artikel 15, onder b, van de Kernenergiewet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) verwant zijn.     
-2.  De Kernfysische Dienst van het ministerie van Sociale Zaken en Werkgelegenheid wordt overgeplaatst naar het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+b.taken die met de vergunningverlening op grond van [artikel 15, onder b, van de Kernenergiewet](../../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) verwant zijn.   
+2.  De Kernfysische Dienst van het ministerie van Sociale Zaken en Werkgelegenheid wordt overgeplaatst naar het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
 
 ### Artikel  2  
 
@@ -34,4 +34,4 @@ W. Kok
 de *twintigste* juni 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

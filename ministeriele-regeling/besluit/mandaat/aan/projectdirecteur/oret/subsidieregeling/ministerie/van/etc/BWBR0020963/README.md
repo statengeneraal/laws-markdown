@@ -14,21 +14,21 @@ a. besluiten te nemen inzake subsidieverlening op grond van de [artikelen 7.2](.
 
 b. te beslissen op bezwaarschriften tegen besluiten als bedoeld onder a, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.     
 2.  De Projectdirecteur ORET van PricewaterhouseCoopers Advisory N.V. wordt gemachtigd tot het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in het eerste lid bedoelde besluiten.   
-3.  De Projectdirecteur ORET kan van zijn bevoegdheden, bedoeld in het eerste en tweede lid, ondermandaat en machtiging verlenen aan functionarissen van PricewaterhouseCoopers Advisory N.V. en Ecorys Nederland B.V. (Ecorys).   
+3.  De Projectdirecteur ORET kan van zijn bevoegdheden, bedoeld in het eerste en tweede lid, ondermandaat en machtiging verlenen aan functionarissen van PricewaterhouseCoopers Advisory N.V. en Ecorys Nederland B.V. (Ecorys).  
 
 ### Artikel  II  
 
-Wijzigt het Vaststellingsbesluit beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (ORET).   
+Wijzigt het Vaststellingsbesluit beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (ORET). 
 
 ### Artikel  III  
 
-Wijzigt het Besluit vaststelling Subsidieplafond ORET 2007.   
+Wijzigt het Besluit vaststelling Subsidieplafond ORET 2007. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt wat betreft de artikelen I en II terug tot en met 1 januari 2007.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt wat betreft de artikelen I en II terug tot en met 1 januari 2007. 
 Dit besluit wordt in de Staatscourant geplaatst.  
 
 De 
 Minister voor Ontwikkelingssamenwerking, 
-A.M.A. vanArdenne-van der Hoeven   
+A.M.A. van Ardenne-van der Hoeven     

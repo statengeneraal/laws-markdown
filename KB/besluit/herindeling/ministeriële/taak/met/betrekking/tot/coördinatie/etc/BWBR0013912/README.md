@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onze Minister voor Vreemdelingenzaken en Integratie wordt belast met de coördinatie integratiebeleid minderheden voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister voor Grote Steden- en Integratiebeleid.  
+Onze Minister voor Vreemdelingenzaken en Integratie wordt belast met de coördinatie integratiebeleid minderheden voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister voor Grote Steden- en Integratiebeleid. 
 
 ### Artikel  2  
 
-De taken van het Ministerie van Justitie en het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties worden dienovereenkomstig gewijzigd.  
+De taken van het Ministerie van Justitie en het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties worden dienovereenkomstig gewijzigd. 
 
 ### Artikel  3  
 
@@ -33,4 +33,4 @@ J. P. Balkenende
 de *achtste* augustus 2002 
 
 De Minister van Justitie a.i., 
-J. P. Balkenende    
+J. P. Balkenende     

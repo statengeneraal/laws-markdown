@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Warenwetbesluit attractie- en speeltoestellen.   
+Wijzigt het Warenwetbesluit attractie- en speeltoestellen. 
 
 ### Artikel  II  
 
-[Artikel 3a, derde lid, van het Warenwetbesluit attractie- en speeltoestellen](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) is vanaf 13 juli 2006 tot het tijdstip waarop dit besluit in werking treedt, niet van toepassing.  
+[Artikel 3a, derde lid, van het Warenwetbesluit attractie- en speeltoestellen](../../../../../../../../AMvB/warenwetbesluit/attractie-/en/speeltoestellen/BWBR0008223/README.md) is vanaf 13 juli 2006 tot het tijdstip waarop dit besluit in werking treedt, niet van toepassing. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 13 juli 2006.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 13 juli 2006. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,7 +31,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 28 augustus 2008  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport , 
+De Minister van Volksgezondheid, Welzijn en Sport ,  
 A. Klink   
 
 de *tweede* oktober 2008 

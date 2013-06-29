@@ -12,12 +12,12 @@ In dit besluit wordt verstaan onder:
 
 a. Commissie: Commissie eindtermen accountantsopleiding;  
 
-b. minister: Minister van Financiën.    
+b. minister: Minister van Financiën.   
 
 ### Artikel  2  
 
 1.  Er is een Commissie eindtermen accountantsopleiding.   
-2.  De Commissie is belast met de voorbereiding van de taken, bedoeld in de [artikelen 56, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) en [69, tweede lid, van de Wet op de Registeraccountants](../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), zoals deze zijn opgenomen in de artikelen 75, onderdeel M, en 76, onderdeel M, van het voorstel van Wet toezicht accountantsorganisaties (kamerstukken I 2004/05, 29 658 A).   
+2.  De Commissie is belast met de voorbereiding van de taken, bedoeld in de [artikelen 56, eerste lid, van de Wet op de Accountants-Administratieconsulenten](../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) en [69, tweede lid, van de Wet op de Registeraccountants](../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), zoals deze zijn opgenomen in de artikelen 75, onderdeel M, en 76, onderdeel M, van het voorstel van Wet toezicht accountantsorganisaties (kamerstukken I 2004/05, 29 658 A).  
 
 ### Artikel  3  
 
@@ -29,22 +29,22 @@ b. minister: Minister van Financiën.
 
 a. het aanvaarden van een nevenfunctie anders dan uit hoofde van het lidmaatschap van de Commissie; en  
 
-b. de wijze van openbaarmaking van nevenfuncties.     
+b. de wijze van openbaarmaking van nevenfuncties.    
 
 ### Artikel  4  
 
 1.  Aan het lidmaatschap van de Commissie is een bezoldiging verbonden.   
-2.  De minister stelt de bezoldiging vast.   
+2.  De minister stelt de bezoldiging vast.  
 
 ### Artikel  5  
 
-De Commissie stelt een bestuursreglement vast. Het bestuursreglement en elke wijziging daarvan behoeven de goedkeuring van de minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.  
+De Commissie stelt een bestuursreglement vast. Het bestuursreglement en elke wijziging daarvan behoeven de goedkeuring van de minister. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 december 2005.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 december 2005. 
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 plv. Thesaurier-Generaal, 
-B. terHaar   
+B. ter Haar     

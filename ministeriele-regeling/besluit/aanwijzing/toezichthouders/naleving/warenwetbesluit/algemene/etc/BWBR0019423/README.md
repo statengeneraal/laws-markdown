@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-Als ambtenaren belast met het toezicht op de naleving van de [artikelen 21](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [21a](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), en [21b van de Warenwet](../../../../../../../../../wet/warenwet/BWBR0001969/README.md) met betrekking tot randapparaten als bedoeld in [artikel 1.1 onderdeel hh van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en radioapparaten als bedoeld in [artikel 1, onderdeel f, van het Besluit randapparaten en radioapparaten](../../../../../../../../../AMvB/besluit/randapparaten/en/radioapparaten/BWBR0011261/README.md) worden aangewezen de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving en senior medewerker handhaving van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken.  
+Als ambtenaren belast met het toezicht op de naleving van de [artikelen 21](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [21a](../../../../../../../../../wet/warenwet/BWBR0001969/README.md), en [21b van de Warenwet](../../../../../../../../../wet/warenwet/BWBR0001969/README.md) met betrekking tot randapparaten als bedoeld in [artikel 1.1 onderdeel hh van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en radioapparaten als bedoeld in [artikel 1, onderdeel f, van het Besluit randapparaten en radioapparaten](../../../../../../../../../AMvB/besluit/randapparaten/en/radioapparaten/BWBR0011261/README.md) worden aangewezen de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving en senior medewerker handhaving van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -20,4 +20,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-L.J.Brinkhorst   
+L.J. Brinkhorst     

@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs.   
+Wijzigt het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs.   
+Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs. 
 
 ### Artikel  III  
 
 ####Overgangsregeling
 
-Ten aanzien van de betrokkene aan wie uiterlijk op 31 december 2006 een uitkering op grond van de [artikelen 21 tot en met 38 van het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) is toegekend, blijven deze artikelen, zoals deze luidden op 31 december 2006, van toepassing.  
+Ten aanzien van de betrokkene aan wie uiterlijk op 31 december 2006 een uitkering op grond van de [artikelen 21 tot en met 38 van het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md) is toegekend, blijven deze artikelen, zoals deze luidden op 31 december 2006, van toepassing. 
 
 ### Artikel  IV  
 
@@ -35,7 +35,7 @@ Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand 
 
 1. artikel I, onderdeel B terugwerkt tot en met 1 januari 2007  
 
-2. artikel II terugwerkt tot en met 1 maart 2004.    
+2. artikel II terugwerkt tot en met 1 maart 2004.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -46,10 +46,10 @@ Beatrix
 De Minister van Onderwijs, Cultuur en Wetenschap , 
 M. J. A. van der Hoeven   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+De Minister van Landbouw, Natuur en Voedselkwaliteit ,  
 C. P. Veerman   
 
 de *dertiende* februari 2007 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

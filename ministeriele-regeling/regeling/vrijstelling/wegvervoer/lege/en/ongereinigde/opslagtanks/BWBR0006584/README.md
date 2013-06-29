@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *houder:*   een tank met een volume van meer dan 1 m³, gebruikt als ondergrondse opslagtank voor brandstoffen;    b.  *bevoegde deskundige:*   het daartoe door KIWA N.V. te Rijswijk gecertificeerde bedrijf;    c.  *VLG:*   [Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md).     
+In deze regeling wordt verstaan onder: a.*houder:* een tank met een volume van meer dan 1 m³, gebruikt als ondergrondse opslagtank voor brandstoffen;b.*bevoegde deskundige:* het daartoe door KIWA N.V. te Rijswijk gecertificeerde bedrijf;c.*VLG:*[ Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md). 
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ In deze regeling wordt verstaan onder:   a.  *houder:*   een tank met een volume
 
 5. randnummer 8.1.5;  
 
-6. randnummer 8.2.1, voor zover het gezamenlijke volume van de houders 3 m <sup>3</sup> of meer bedraagt;  
+6. randnummer 8.2.1, voor zover het gezamenlijke volume van de houders 3 m<sup>3</sup> of meer bedraagt;  
 
 7. randnummer 8.3.1;  
 
@@ -37,31 +37,31 @@ In deze regeling wordt verstaan onder:   a.  *houder:*   een tank met een volume
 11. randnummers 9.7.6, 9.2.4.4 en 9.2.4.5, indien de ongereinigde lege houders benzine hebben bevat.     
 2.  Aan de vrijstelling bedoeld in het eerste lid, zijn de navolgende voorschriften verbonden: 
 
-a. Vóór de belading van de transporteenheid wordt de uiterlijke staat van de houders beoordeeld; slechts de houders die naar het oordeel van een bevoegde deskundige voldoende stevig en intact zijn, worden vervoerd.  
+a. Vóór de belading van de transporteenheid wordt de uiterlijke staat van de houders beoordeeld; slechts de houders die naar het oordeel van een bevoegde deskundige voldoende stevig en intact zijn, worden vervoerd. 
 
-b. Vóór de belading van de transporteenheid wordt de vloeibare inhoud van de houders onder toezicht van een bevoegde deskundige zoveel mogelijk verwijderd.  
+b. Vóór de belading van de transporteenheid wordt de vloeibare inhoud van de houders onder toezicht van een bevoegde deskundige zoveel mogelijk verwijderd. 
 
-c. Met uitzondering van de ontluchtingsopening zijn alle openingen van de houders naar het oordeel van een bevoegde deskundige afdoende afgesloten, zodat tijdens het vervoer geen vloeistofrestanten naar buiten kunnen treden.  
+c. Met uitzondering van de ontluchtingsopening zijn alle openingen van de houders naar het oordeel van een bevoegde deskundige afdoende afgesloten, zodat tijdens het vervoer geen vloeistofrestanten naar buiten kunnen treden. 
 
-d. De bestaande ontluchtingsopening is tijdens transport aan de bovenzijde gesitueerd en is voorzien van een goed werkend vlamkerend rooster.  
+d. De bestaande ontluchtingsopening is tijdens transport aan de bovenzijde gesitueerd en is voorzien van een goed werkend vlamkerend rooster. 
 
-e. De houders zijn niet gestapeld; bovendien zijn de houders naar het oordeel van de bevoegde deskundige door geschikte middelen (bijvoorbeeld zadels, wiggen en sjorbanden) zodanig op de transporteenheid vastgezet en verankerd dat zij tijdens het vervoer niet kunnen verschuiven.  
+e. De houders zijn niet gestapeld; bovendien zijn de houders naar het oordeel van de bevoegde deskundige door geschikte middelen (bijvoorbeeld zadels, wiggen en sjorbanden) zodanig op de transporteenheid vastgezet en verankerd dat zij tijdens het vervoer niet kunnen verschuiven. 
 
-f. De houders en de appendages ervan steken niet buiten het laadoppervlak van de transporteenheid uit.  
+f. De houders en de appendages ervan steken niet buiten het laadoppervlak van de transporteenheid uit. 
 
-g. Het vervoer geschiedt vanaf het terrein, waar de houders uit de grond zijn gehaald, rechtstreeks naar een inrichting die geschikt en toegelaten is om de in de houder(s) achtergebleven resten te verwijderen dan wel om de houder(s) te verwerken voor hergebruik van materialen.  
+g. Het vervoer geschiedt vanaf het terrein, waar de houders uit de grond zijn gehaald, rechtstreeks naar een inrichting die geschikt en toegelaten is om de in de houder(s) achtergebleven resten te verwijderen dan wel om de houder(s) te verwerken voor hergebruik van materialen. 
 
-h. Met de transporteenheid worden tegelijkertijd geen andere gevaarlijke stoffen vervoerd.  
+h. Met de transporteenheid worden tegelijkertijd geen andere gevaarlijke stoffen vervoerd. 
 
-i. Tijdens het vervoer is in de transporteenheid een vervoerdocument aanwezig, waarop behalve de plaats van herkomst en bestemming van de houders, de navolgende vermelding is aangebracht: ‘Lege houder, 3’.     
+i. Tijdens het vervoer is in de transporteenheid een vervoerdocument aanwezig, waarop behalve de plaats van herkomst en bestemming van de houders, de navolgende vermelding is aangebracht: ‘Lege houder, 3’.   
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van verschijning in de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van verschijning in de Staatscourant waarin zij wordt geplaatst. Deze regeling zal met toelichting in de Staatscourant worden geplaatst. 
 
 's-Gravenhage 
 6 april 1994    
 
 De 
 Minister van Verkeer en Waterstaat, 
-J. R. H.Maij-Weggen    
+J. R. H. Maij-Weggen      

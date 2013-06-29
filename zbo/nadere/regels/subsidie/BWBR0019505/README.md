@@ -12,7 +12,7 @@ In deze regels wordt verstaan onder:
 
 – instelling: een organisatorisch verband als bedoeld in [artikel 1, lid 1, onder f, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md):  
 
-– Het College: het College sanering zorginstellingen.    
+– Het College: het College sanering zorginstellingen.   
 
 ### Artikel  2  
 
@@ -25,16 +25,16 @@ b. de laatst opgemaakte jaarrekening als bedoeld in [artikel 361 van Boek 2 van 
 c. het besluit of de besluiten krachtens welke de instelling is toegelaten als instelling in de zin van de [WTZi](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
 
 d. het besluit of de besluiten op grond waarvan de subsidie wordt aangevraagd.     
-2.  De aanvrager verschaft het College voorts andere gegevens en bescheiden die naar het oordeel van het College voor de beslissing op de aanvraag nodig zijn.   
+2.  De aanvrager verschaft het College voorts andere gegevens en bescheiden die naar het oordeel van het College voor de beslissing op de aanvraag nodig zijn.  
 
 ### Artikel  3  
 
-In afwijking van [artikel 4:31 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt de beschikking tot subsidieverlening niet het bedrag van de subsidie of het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.  
+In afwijking van [artikel 4:31 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt de beschikking tot subsidieverlening niet het bedrag van de subsidie of het bedrag waarop de subsidie ten hoogste kan worden vastgesteld. 
 
 ### Artikel  4  
 
 1.  Aan de subsidieverlening wordt in ieder geval de verplichting verbonden dat de subsidieontvanger binnen een door het College vast te stellen termijn bij het College een liquidatiebegroting indient.   
-2.  De liquidatiebegroting dient de gegevens te bevatten, genoemd in de bijlage bij deze regeling.   
+2.  De liquidatiebegroting dient de gegevens te bevatten, genoemd in de bijlage bij deze regeling.  
 
 ### Artikel  5  
 
@@ -54,27 +54,27 @@ f. het aangaan van overeenkomsten waarbij de instelling zich verbindt tot zekerh
 
 g. het ontbinden van de rechtspersoon;  
 
-h. het doen van aangifte tot haar faillissement of tot het aanvragen van surséance van betaling.    
+h. het doen van aangifte tot haar faillissement of tot het aanvragen van surséance van betaling.   
 
 ### Artikel  6  
 
-Het College kan de subsidieontvanger voorschotten verlenen.  
+Het College kan de subsidieontvanger voorschotten verlenen. 
 
 ### Artikel  7  
 
-De artikelen 1 tot en met 6 zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen als bedoeld in [artikel 12a van de Wet ambulancevervoer](../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md).  
+De artikelen 1 tot en met 6 zijn van overeenkomstige toepassing ten aanzien van de financiële gevolgen als bedoeld in [artikel 12a van de Wet ambulancevervoer](../../../../../wet/wet/ambulancevervoer/BWBR0002757/README.md). 
 
 ### Artikel  8  
 
-De [nadere regels subsidie sanering ziekenhuisvoorzieningen](../../../../../zbo/nadere/regels/subsidie/BWBR0013314/README.md) (Stcrt. 2002, 230) wordt ingetrokken.  
+De [nadere regels subsidie sanering ziekenhuisvoorzieningen](../../../../../zbo/nadere/regels/subsidie/BWBR0013314/README.md) (Stcrt. 2002, 230) wordt ingetrokken. 
 
 ### Artikel  9  
 
-Deze regeling treedt in werking na bekendmaking in de Staatscourant en werkt terug tot en met 1 januari 2006.  
+Deze regeling treedt in werking na bekendmaking in de Staatscourant en werkt terug tot en met 1 januari 2006. 
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Nadere regels subsidie.  
+Deze regeling wordt aangehaald als: Nadere regels subsidie. 
 
 ### Bijlage  
 
@@ -83,11 +83,11 @@ Liquidatiebegroting
 | Kosten  | Jaar t-1  | Jaar t  | Jaar t+1  | Jaar t+2  | Jaar t+n  | Totaal  |
 |:---|:---|:---|:---|:---|:---|:---|
 | Personeelskosten :  | --- | --- | --- | --- | --- | --- |
-| Sociaal Plan  <sup> *   specificatie op bijlage    </sup> | --- | --- | --- | --- | --- | --- |
+| Sociaal Plan<sup>* specificatie op bijlage </sup>  | --- | --- | --- | --- | --- | --- |
 | Overige personeelskosten  | --- | --- | --- | --- | --- | --- |
 | Subtotaal personeelskosten  | --- | --- | --- | --- | --- | --- |
 | --- |
-| Vrijgevestigde medische beroepsbeoefenaren /  <sup> *   specificatie op bijlage    </sup> <sup> **   niet van toepassing op ambulancediensten en Centrale Posten Ambulancevervoer (CPA’s)    </sup> | --- | --- | --- | --- | --- | --- |
+| Vrijgevestigde medische beroepsbeoefenaren<sup>* specificatie op bijlage </sup>/<sup>** niet van toepassing op ambulancediensten en Centrale Posten Ambulancevervoer (CPA’s) </sup>  | --- | --- | --- | --- | --- | --- |
 | --- |
 | Huisvestingskosten :  | --- | --- | --- | --- | --- | --- |
 | Exploitatiekosten  | --- | --- | --- | --- | --- | --- |
@@ -101,14 +101,14 @@ Liquidatiebegroting
 | Overige kosten :  | --- | --- | --- | --- | --- | --- |
 | Onderbezettingsverliezen  | --- | --- | --- | --- | --- | --- |
 | Integratiekosten  | --- | --- | --- | --- | --- | --- |
-| Overige kosten  <sup> *   specificatie op bijlage    </sup> | --- | --- | --- | --- | --- | --- |
+| Overige kosten<sup>* specificatie op bijlage </sup>  | --- | --- | --- | --- | --- | --- |
 | Subtotaal overige kosten  | --- | --- | --- | --- | --- | --- |
 | --- |
 | Totaal kosten  | --- | --- | --- | --- | --- | --- |
 
 | Baten  | Jaar t-1  | Jaar t  | Jaar t+1  | Jaar t+2  | Jaar t+n  | Totaal  |
 |:---|:---|:---|:---|:---|:---|:---|
-| Opbrengst verkoop  <sup> *   specificatie op bijlage    </sup> | --- | --- | --- | --- | --- | --- |
+| Opbrengst verkoop<sup>* specificatie op bijlage </sup>  | --- | --- | --- | --- | --- | --- |
 | Overige baten  | --- | --- | --- | --- | --- | --- |
 | Totaal baten  | --- | --- | --- | --- | --- | --- |
 
@@ -140,7 +140,7 @@ Liquidatiebegroting
 | Totaal kosten p.n.i.l.  | --- | --- | --- | --- | --- | --- |
 | Totaal  | --- | --- | --- | --- | --- | --- |
 | --- |
-| Vrijgevestigde medische beroepsbeoefenaren  <sup> **   niet van toepassing op ambulancediensten en Centrale Posten Ambulancevervoer (CPA’s)    </sup> | --- | --- | --- | --- | --- | --- |
+| Vrijgevestigde medische beroepsbeoefenaren <sup>**  niet van toepassing op ambulancediensten en Centrale Posten Ambulancevervoer (CPA’s) </sup>  | --- | --- | --- | --- | --- | --- |
 | 1. Ink. derving tot sluitingsdatum  | --- | --- | --- | --- | --- | --- |
 | 2. Claims opzegging toel. overeenk.  | --- | --- | --- | --- | --- | --- |
 | Totaal  | --- | --- | --- | --- | --- | --- |
@@ -218,19 +218,19 @@ Om voldoende zekerheid te verkrijgen over de juistheid en de volledigheid van de
 
 – is in de liquidatiebegroting/subsidie-aanvraag de opbrengst van verkoop van onroerende zaken aan derden dan wel aan andere instellingen die onder de [Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) vallen begrepen en is hierbij rekening gehouden met de juiste restantboekwaarde van de onroerende zaak;  
 
-– indien sprake is van boekverliezen voortvloeiend uit de afstoting/desinvestering van onroerende zaken is hier dan in de afrekening in voldoende mate aandacht aan geschonken?   Zo nodig kunnen aanvullende afspraken leiden tot aanvulling van het controleprotocol voor de desbetreffende accountant. In de Accountantsverklaring/het onderzoeksrapport, waarvan hierna een voorbeeld is opgenomen, refereert de accountant aan dit ‘Controleprotocol inzake subsidies, verrekeningen en afdrachten, etc.’  
+– indien sprake is van boekverliezen voortvloeiend uit de afstoting/desinvestering van onroerende zaken is hier dan in de afrekening in voldoende mate aandacht aan geschonken?   Zo nodig kunnen aanvullende afspraken leiden tot aanvulling van het controleprotocol voor de desbetreffende accountant. In de Accountantsverklaring/het onderzoeksrapport, waarvan hierna een voorbeeld is opgenomen, refereert de accountant aan dit ‘Controleprotocol inzake subsidies, verrekeningen en afdrachten, etc.’ 
 
 #### *Accountantsverklaring/onderzoeksrapport* 
 
 #### *Opdracht* 
 
-Wij hebben de bijgevoegde en door ons gewaarmerkte jaarrekening/liquidatiebegroting/subsidie-aanvraag over 20... (jaar) van ......... (naam huishouding) te ......... (statutaire vestigingsplaats) gecontroleerd. De jaarrekening/liquidatiebegroting/subsidie-aanvraag is opgesteld onder verantwoordelijkheid van het bestuur van de huishouding. Het is onze verantwoordelijkheid een accountantsverklaring/onderzoeksrapport inzake de jaarrekening/liquidatiebegroting/subsidie-aanvraag te verstrekken. De accountantsverklaring/het onderzoeksraport inzake deze jaarrekening/liquidatie-begroting/subsidie-aanvraag is bestemd voor de bepaling van de definitieve bijdragen, verrekeningen en afdrachten in verband met het College sanering zorginstellingen.  
+Wij hebben de bijgevoegde en door ons gewaarmerkte jaarrekening/liquidatiebegroting/subsidie-aanvraag over 20... (jaar) van ......... (naam huishouding) te ......... (statutaire vestigingsplaats) gecontroleerd. De jaarrekening/liquidatiebegroting/subsidie-aanvraag is opgesteld onder verantwoordelijkheid van het bestuur van de huishouding. Het is onze verantwoordelijkheid een accountantsverklaring/onderzoeksrapport inzake de jaarrekening/liquidatiebegroting/subsidie-aanvraag te verstrekken. De accountantsverklaring/het onderzoeksraport inzake deze jaarrekening/liquidatie-begroting/subsidie-aanvraag is bestemd voor de bepaling van de definitieve bijdragen, verrekeningen en afdrachten in verband met het College sanering zorginstellingen. 
 
 #### *Werkzaamheden* 
 
-Onze controle is verricht overeenkomstig algemeen aanvaarde richtlijnen met betrekking tot controle-opdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de eindafrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en de toelichtingen in de liquidatierekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de liquidatierekening zijn toegepast en van belangrijke schattingen die de leiding van de huishouding daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de liquidatierekening. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.  
+Onze controle is verricht overeenkomstig algemeen aanvaarde richtlijnen met betrekking tot controle-opdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd dat een redelijke mate van zekerheid wordt verkregen dat de eindafrekening geen onjuistheden van materieel belang bevat. Een controle omvat onder meer een onderzoek door middel van deelwaarnemingen van informatie ter onderbouwing van de bedragen en de toelichtingen in de liquidatierekening. Tevens omvat een controle een beoordeling van de grondslagen voor financiële verslaggeving die bij het opmaken van de liquidatierekening zijn toegepast en van belangrijke schattingen die de leiding van de huishouding daarbij heeft gemaakt, alsmede een evaluatie van het algehele beeld van de liquidatierekening. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel. 
 
 #### *Oordeel* 
 
-Wij zijn van oordeel dat de jaarrekening/liquidatiebegroting/subsidie-aanvraag een getrouw beeld geeft van de grootte en de samenstelling van de financiële positie op ......... en van de baten en lasten voortvloeiend uit de sanering over ......... en in overeenstemming is met algemeen aanvaarde grondslagen voor financiële verslaglegging en dat overigens gehandeld is zoals omschreven in het ‘Controleprotocol inzake subsidies, verrekeningen en afdrachten in verband met het College sanering ziekenhuisvoorzieningen’. Plaats, datum  In de Accountantsverklaring/het onderzoeksrapport wordt gerefereerd aan het ‘Controleprotocol inzake subsidies, verrekeningen en afdrachten, etc.’ waarvan de tekst hiervoor is opgenomen.   
+Wij zijn van oordeel dat de jaarrekening/liquidatiebegroting/subsidie-aanvraag een getrouw beeld geeft van de grootte en de samenstelling van de financiële positie op ......... en van de baten en lasten voortvloeiend uit de sanering over ......... en in overeenstemming is met algemeen aanvaarde grondslagen voor financiële verslaglegging en dat overigens gehandeld is zoals omschreven in het ‘Controleprotocol inzake subsidies, verrekeningen en afdrachten in verband met het College sanering ziekenhuisvoorzieningen’. Plaats, datum   In de Accountantsverklaring/het onderzoeksrapport wordt gerefereerd aan het ‘Controleprotocol inzake subsidies, verrekeningen en afdrachten, etc.’ waarvan de tekst hiervoor is opgenomen.  
 

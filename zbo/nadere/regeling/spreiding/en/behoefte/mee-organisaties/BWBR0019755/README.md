@@ -14,11 +14,11 @@ a. MEE-organisatie: een organisatie voor laagdrempelige, onafhankelijke en betro
 
 b. werkgebied: een regio als bedoeld in de bijlage bij deze regeling;  
 
-c. formeel samenwerkingsverband: een op een notariële akte gebaseerde samenwerking tussen twee of meer MEE-organisaties die één overkoepelende Raad van Toezicht hebben die het toezicht op het integrale strategische beleid van de samenwerkende organisaties in haar takenpakket heeft.    
+c. formeel samenwerkingsverband: een op een notariële akte gebaseerde samenwerking tussen twee of meer MEE-organisaties die één overkoepelende Raad van Toezicht hebben die het toezicht op het integrale strategische beleid van de samenwerkende organisaties in haar takenpakket heeft.   
 
 ### Artikel  2  
 
-In ieder werkgebied is behoefte aan één MEE-organisatie.  
+In ieder werkgebied is behoefte aan één MEE-organisatie. 
 
 ### Artikel  3  
 
@@ -27,30 +27,30 @@ In ieder werkgebied is behoefte aan één MEE-organisatie.
 
 a. het werkgebied valt samen met een provincie;  
 
-b. de MEE-organisatie heeft een formeel samenwerkingsverband met één of meer andere MEE-organisaties waarbij het werkgebied van de samenwerkende MEE-organisaties gezamenlijk minimaal 625.000 inwoners omvat.     
+b. de MEE-organisatie heeft een formeel samenwerkingsverband met één of meer andere MEE-organisaties waarbij het werkgebied van de samenwerkende MEE-organisaties gezamenlijk minimaal 625.000 inwoners omvat.    
 
 ### Artikel  4  
 
-Een MEE-organisatie vormt geen bestuurlijke eenheid met een toegelaten zorgaanbieder.  
+Een MEE-organisatie vormt geen bestuurlijke eenheid met een toegelaten zorgaanbieder. 
 
 ### Artikel  5  
 
-De [Nadere Regeling spreiding en behoefte MEE-organisaties](../../../../../../../../zbo/nadere/regeling/spreiding/en/behoefte/mee-organisaties/2005/BWBR0017829/README.md) (Stcrt. 2005, 31) wordt ingetrokken.  
+De [Nadere Regeling spreiding en behoefte MEE-organisaties](../../../../../../../../zbo/nadere/regeling/spreiding/en/behoefte/mee-organisaties/2005/BWBR0017829/README.md) (Stcrt. 2005, 31) wordt ingetrokken. 
 
 ### Artikel  6  
 
 1.  Deze regeling wordt aangehaald als Nadere Regeling spreiding en behoefte MEE-organisaties.   
-2.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2006.   
+2.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2006.  
 Deze regeling zal met de toelichting maar zonder bijlage in de Staatscourant worden geplaatst. De bijlage ligt met ingang van de tweede dag na dagtekening van de Staatscourant waarin deze regeling wordt geplaatst ter inzage in de bibliotheek van het College zorgverzekeringen. Regeling goedgekeurd door de Staatssecretaris van Volksgezondheid, Welzijn en Sport bij brief van 8 juni 2006, nummer Z/VU-2688566.  
 
 De 
 Voorzitter, 
-J.S.J.Hillen 
+J.S.J. Hillen   
 
 De 
 Algemeen Directeur, 
-P.C.Hermans  
+P.C. Hermans    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij het College zorgverzekeringen.  
+Ligt ter inzage bij het College zorgverzekeringen.

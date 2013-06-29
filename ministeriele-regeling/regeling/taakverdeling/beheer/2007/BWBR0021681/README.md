@@ -28,7 +28,7 @@ f. bedrijfsinstallatie: klimaattechnische, elektrotechnische, transporttechnisch
 
 g. onvoorziene gebeurtenis: gebeurtenis of een reeks van gebeurtenissen waarvan het moment van plaatsvinden niet kon worden voorzien of waarvan de toedracht zich aan de voorspelbaarheid heeft onttrokken;  
 
-h. serviceverlening: overname door de dienst van taken, waarop deze regeling betrekking heeft, die indien daarover geen nadere afspraken zouden zijn gemaakt op grond van de basistaakverdeling worden geacht tot de verantwoordelijkheid van de afnemer te behoren.    
+h. serviceverlening: overname door de dienst van taken, waarop deze regeling betrekking heeft, die indien daarover geen nadere afspraken zouden zijn gemaakt op grond van de basistaakverdeling worden geacht tot de verantwoordelijkheid van de afnemer te behoren.   
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ h. serviceverlening: overname door de dienst van taken, waarop deze regeling bet
 
 1.  Deze regeling is van toepassing bij ingebruikgeving van objecten die eigendom zijn van de dienst en van objecten die door de dienst worden gehuurd, geleasd, gepacht of in bruikleen zijn genomen.   
 2.  Bij de ingebruikgeving van objecten die door de dienst worden gehuurd, geleasd, gepacht of in bruikleen zijn genomen wordt bij de vaststelling van de taakverdeling tussen de dienst en de afnemer ten aanzien van dagelijks beheer, onderhoud, vervanging, oplevering en wederoplevering uitgegaan van de daarop betrekking hebbende afspraken waaraan de dienst zich jegens de rechthebbende heeft gebonden. De kosten die de dienst daarvoor verschuldigd is, worden direct of indirect bij de afnemer in rekening gebracht.   
-3.  De tussen de afnemer en de dienst vastgestelde taakverdeling wordt schriftelijk vastgelegd. Bij objecten die eigendom zijn van de dienst geschiedt de vastlegging op basis van de bij deze regeling behorende bijlage 2.   
+3.  De tussen de afnemer en de dienst vastgestelde taakverdeling wordt schriftelijk vastgelegd. Bij objecten die eigendom zijn van de dienst geschiedt de vastlegging op basis van de bij deze regeling behorende bijlage 2.  
 
 ### Artikel  3  
 
@@ -73,7 +73,7 @@ m. beplanting;
 n. losse inventaris;  
 
 o. bedrijfsinstallaties.     
-2.  Bij dit besluit gaat als bijlage 1 een schema waarin het onderscheid tussen gebouwinstallaties en bedrijfsinstallaties is opgenomen.   
+2.  Bij dit besluit gaat als bijlage 1 een schema waarin het onderscheid tussen gebouwinstallaties en bedrijfsinstallaties is opgenomen.  
 
 ### Artikel  4  
 
@@ -81,7 +81,7 @@ o. bedrijfsinstallaties.
 
 1.  Werkzaamheden ten aanzien van objecten worden onderscheiden in: dagelijks beheer, onderhoud, vervanging, oplevering en wederoplevering.   
 2.  De basistaakverdeling tussen de dienst en afnemers voor werkzaamheden aan zaken als bedoeld in artikel 3, alsmede de verdeling van de daaruit voortvloeiende kosten, zijn onderscheidenlijk voor monumenten en niet-monumenten nader uitgewerkt in bijlage 2, onderdeel ‘Basistaakverdeling monument’ en onderdeel ‘Basistaakverdeling niet-monument’.   
-3.  Ten aanzien de zorg als bedoeld in [artikel 3, onderdeel e, van het besluit](../../../../../../KB/besluit/rijksgebouwendienst/1999/BWBR0009888/README.md) en ten aanzien van objecten die in gebruik zijn gegeven bij het Ministerie van Algemene Zaken en de Hoge Colleges van Staat wordt de taakverdeling, alsmede de verdeling van de daaruit voortvloeiende kosten, vastgelegd in een document waaraan bijlage 2 ten grondslag ligt.   
+3.  Ten aanzien de zorg als bedoeld in [artikel 3, onderdeel e, van het besluit](../../../../../../KB/besluit/rijksgebouwendienst/1999/BWBR0009888/README.md) en ten aanzien van objecten die in gebruik zijn gegeven bij het Ministerie van Algemene Zaken en de Hoge Colleges van Staat wordt de taakverdeling, alsmede de verdeling van de daaruit voortvloeiende kosten, vastgelegd in een document waaraan bijlage 2 ten grondslag ligt.  
 
 ### Artikel  5  
 
@@ -91,19 +91,19 @@ o. bedrijfsinstallaties.
 2.  Uit het oogpunt van bedrijfsveiligheid en uit het oogpunt van bedrijfsvoering van de afnemer kunnen de afnemer en de dienst overeenkomen dat taken als bedoeld in artikel 4, tweede lid, en in bijlage 2 aangeduid met ‘R’ of ‘RA’, onder nader door de dienst te stellen voorwaarden en financiële afspraken worden aangemerkt als taken van de afnemer.   
 3.  De afnemer is verantwoordelijk voor het begeleiden van personen die direct of indirect in opdracht van de dienst werkzaamheden in, aan of op het object uitvoeren, alsmede voor het uitvoeren van daarmee verband houdende administratieve werkzaamheden.   
 4.  De tussen de afnemer en de dienst overeengekomen serviceverlening, alsmede een overdracht als bedoeld in het tweede lid, wordt schriftelijk vastgelegd in een door beide partijen ondertekend document.   
-5.  Indien in een overeenkomst waarin naar deze regeling wordt verwezen geen bepalingen aangaande de duur van de serviceverlening zijn opgenomen komt de duur van de serviceverlening overeen met de duur van bedoelde overeenkomst.   
+5.  Indien in een overeenkomst waarin naar deze regeling wordt verwezen geen bepalingen aangaande de duur van de serviceverlening zijn opgenomen komt de duur van de serviceverlening overeen met de duur van bedoelde overeenkomst.  
 
 ### Artikel  6  
 
 ####Slotbepalingen
 
 1.  De [Regeling Taakverdeling Beheer](../../../../../../ministeriele-regeling/regeling/taakverdeling/beheer/BWBR0009906/README.md) wordt ingetrokken.   
-2.  Overeenkomsten van de Staat met organisaties die geen onderdeel zijn van de Staat en waarin de dienst aangaande het beheer en onderhoud krachtens daarin opgenomen bepalingen is gebonden, worden aangepast met inachtneming van deze regeling.   
+2.  Overeenkomsten van de Staat met organisaties die geen onderdeel zijn van de Staat en waarin de dienst aangaande het beheer en onderhoud krachtens daarin opgenomen bepalingen is gebonden, worden aangepast met inachtneming van deze regeling.  
 
 ### Artikel  7  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2007.   
-2.  Deze regeling wordt aangehaald als: Regeling Taakverdeling Beheer 2007.   
+2.  Deze regeling wordt aangehaald als: Regeling Taakverdeling Beheer 2007.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -111,7 +111,7 @@ Den Haag
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-C.P.Vogelaar  
+C.P. Vogelaar    
 
 ### Bijlage  1  
 

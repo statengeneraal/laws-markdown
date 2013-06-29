@@ -15,7 +15,7 @@ Wijzigt de [Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../.
 
 ### Artikel  II  
 
-Wijzigt de [Wijzigingswet Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../../wet/wijzigingswet/wet/rechtspositie/rechterlijke/ambtenaren/enz./etc/BWBR0009399/README.md).   
+Wijzigt de [Wijzigingswet Wet rechtspositie rechterlijke ambtenaren](../../../../../../../../../wet/wijzigingswet/wet/rechtspositie/rechterlijke/ambtenaren/enz./etc/BWBR0009399/README.md).  
 
 ### Artikel  III  
 
@@ -23,7 +23,7 @@ Wijzigt de [Wijzigingswet Wet rechtspositie rechterlijke ambtenaren](../../../..
 2.  In afwijking van het eerste lid bedraagt de daar bedoelde toelage met ingang van 1 november 2000 1,5% van het salaris.   
 3.  In afwijking van het eerste lid bedraagt de daar bedoelde toelage met ingang van 1 januari 2001 1% van het salaris.   
 4.  In afwijking van het eerste lid bedraagt de daar bedoelde toelage met ingang van 1 april 2001 1,6% van het salaris.   
-5.  In afwijking van het eerste lid bedraagt de daar bedoelde toelage met ingang van 1 oktober 2001 tot 1 november 2001 – 2% van het salaris.   
+5.  In afwijking van het eerste lid bedraagt de daar bedoelde toelage met ingang van 1 oktober 2001 tot 1 november 2001 – 2% van het salaris.  
 
 ### Artikel  IV  
 
@@ -37,7 +37,7 @@ c. wat artikel I, onderdeel C, betreft: tot en met 1 april 2001;
 
 d. wat artikel I, onderdeel D, betreft: tot en met 1 november 2001;  
 
-e. wat artikel I, onderdeel E, betreft: tot en met 1 januari 2002;  
+e. wat artikel I, onderdeel E , betreft: tot en met 1 januari 2002;  
 
 f. wat artikel I, onderdeel F, betreft: tot en met 1 juli 2002;  
 
@@ -47,7 +47,7 @@ h. wat artikel I, onderdeel Fb betreft: tot en met 1 mei 2003;
 
 i. wat artikel I, onderdelen G tot en met N, betreft: tot en met 1 april 2002;  
 
-j. wat de artikelen II en III betreft: tot en met 1 augustus 2000.    
+j. wat de artikelen II en III betreft: tot en met 1 augustus 2000.   
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -61,4 +61,4 @@ J. P. H. Donner
 de veertiende oktober 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

@@ -12,7 +12,7 @@ In deze regeling wordt verstaan onder:
 
 – Centrale organisatie werk en inkomen: de Centrale organisatie werk en inkomen, bedoeld in [hoofdstuk 4 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-– werkgever, werknemer en arbeidsverhouding: hetgeen daaronder wordt verstaan in [artikel 1, onderdelen b tot en met d, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md).    
+– werkgever, werknemer en arbeidsverhouding: hetgeen daaronder wordt verstaan in [artikel 1, onderdelen b tot en met d, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md).   
 
 ### Artikel  2  
 
@@ -21,15 +21,15 @@ In deze regeling wordt verstaan onder:
 a. andere dan bedrijfseconomische redenen ten grondslag liggen; of  
 
 b. bedrijfseconomische redenen ten grondslag liggen waarbij onduidelijkheden zijn of vragen rijzen die de persoon van de werknemer betreffen.     
-2.  Dit artikel is van toepassing op verzoeken om toestemming om de arbeidsverhouding te mogen opzeggen, die op de locaties Arnhem en Eindhoven in onderscheidenlijk de districten Oost en Zuidoost, bedoeld in [bijlage 2 van het Besluit werkgebieden CWI](../../../../../../../../zbo/besluit/werkgebieden/cwi/BWBR0013498/README.md), zijn ingediend op of na 3 maart 2008 en voor 1 januari 2009.   
+2.  Dit artikel is van toepassing op verzoeken om toestemming om de arbeidsverhouding te mogen opzeggen, die op de locaties Arnhem en Eindhoven in onderscheidenlijk de districten Oost en Zuidoost, bedoeld in [bijlage 2 van het Besluit werkgebieden CWI](../../../../../../../../zbo/besluit/werkgebieden/cwi/BWBR0013498/README.md), zijn ingediend op of na 3 maart 2008 en voor 1 januari 2009.  
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 Den Haag 
 10 maart 2008   
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-J.P.H.Donner   
+J.P.H. Donner     

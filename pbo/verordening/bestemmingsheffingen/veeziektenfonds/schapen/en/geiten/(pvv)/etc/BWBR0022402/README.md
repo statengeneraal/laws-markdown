@@ -9,6 +9,7 @@ Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 07-02-2010 
 
 Deze verordening neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
 
@@ -21,23 +22,27 @@ Deze verordening neemt de begripsbepalingen over van de [Verordening algemene be
 | e.  | Veeziektenfonds PVV  | het fonds als bedoeld in [artikel 1 van de Verordening Veeziektenfonds PVV 2000](../../../../../../../../../../pbo/verordening/veeziektenfonds/pvv/2000/BWBR0010945/README.md).  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 07-02-2010 
 
 1.  De ondernemer aan wie in het jaar 2004 een aantal standaardbedrijfseenheden groter dan 1,25 wordt toegerekend ter zake van het houden van schapen, is een vaste heffing ten bedrage van € 192,– per UBN verschuldigd ten behoeve van het Veeziektenfonds PVV.   
 2.  De ondernemer aan wie in het jaar 2004 een aantal standaardbedrijfseenheden groter dan 1,25 wordt toegerekend ter zake van het houden van geiten, is een vaste heffing ten bedrage van € 168,– per UBN verschuldigd ten behoeve van het Veeziektenfonds PVV.   
-3.  De ondernemer aan wie in het jaar 2004 een aantal standaardbedrijfseenheden ter zake van het houden van zowel schapen als geiten wordt toegerekend groter dan 1,25, is slechts een vaste heffing verschuldigd op basis van het eerste lid.   
+3.  De ondernemer aan wie in het jaar 2004 een aantal standaardbedrijfseenheden ter zake van het houden van zowel schapen als geiten wordt toegerekend groter dan 1,25, is slechts een vaste heffing verschuldigd op basis van het eerste lid.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 07-02-2010 
 
-De ondernemer aan wie in het jaar 2004 een aantal standaardbedrijfseenheden groter dan 1,25 wordt toegerekend ter zake van het houden van schapen, onderscheidenlijk geiten, is een heffing ten behoeve van het Veeziektenfonds PVV verschuldigd over het aantal door hem op 1 november 2004 gehouden schapen en geiten ten bedrage van € 1,98 per schaap en € 1,68 per geit.  
+De ondernemer aan wie in het jaar 2004 een aantal standaardbedrijfseenheden groter dan 1,25 wordt toegerekend ter zake van het houden van schapen, onderscheidenlijk geiten, is een heffing ten behoeve van het Veeziektenfonds PVV verschuldigd over het aantal door hem op 1 november 2004 gehouden schapen en geiten ten bedrage van € 1,98 per schaap en € 1,68 per geit. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 07-02-2010 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md). 
 
 ### Artikel  5  
+Materieel uitgewerkt per 07-02-2010 
 
 1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen Veeziektenfonds schapen en geiten (PVV) 2006.   
-2.  Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, dan treedt zij in werking op de tweede dag na publicatie en werkt zij terug tot en met 1 januari 2006.   
+2.  Deze verordening treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2006, dan treedt zij in werking op de tweede dag na publicatie en werkt zij terug tot en met 1 januari 2006.  
 
 Zoetermeer 
 26 oktober 2005   

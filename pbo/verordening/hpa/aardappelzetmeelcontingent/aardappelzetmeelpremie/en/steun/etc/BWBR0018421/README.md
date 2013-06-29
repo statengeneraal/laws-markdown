@@ -7,11 +7,14 @@ Gelet op [artikel 1 van de Overdrachtsregeling bevoegdheden Landbouwwet 1966 Alg
 
 Gehoord de Commissie Aardappelen;
 Besluit:     
-### §  1  
+### § 1  
 
 ####Definities
 
+Materieel uitgewerkt per 07-02-2010 
+
 ### Artikel  1  
+Materieel uitgewerkt per 07-02-2010 
 
 In deze verordening wordt verstaan onder:  
 
@@ -29,47 +32,59 @@ In deze verordening wordt verstaan onder:
 | j. subcontingent  | :  | het gedeelte van het contingent dat door het hoofdproductschap aan een fabrikant wordt toegewezen;  |
 | k. A.I.D.  | :  | Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  |
 
-### §  2  
+### § 2  
 
 ####Contingenteringsregeling
 
-### Artikel  2  
+Materieel uitgewerkt per 07-02-2010 
 
-Het hoofdproductschap wijst jaarlijks aan de fabrikant zijn subcontingent voor het betreffende verkoopseizoen toe op basis van een hiertoe strekkende aanvraag door de fabrikant.  
+### Artikel  2  
+Materieel uitgewerkt per 07-02-2010 
+
+Het hoofdproductschap wijst jaarlijks aan de fabrikant zijn subcontingent voor het betreffende verkoopseizoen toe op basis van een hiertoe strekkende aanvraag door de fabrikant. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 07-02-2010 
 
 1.  De fabrikant sluit met de telers voor ieder verkoopseizoen teeltcontracten voor een hoeveelheid zetmeelequivalent die het toegewezen subcontingent voor het komende verkoopseizoen niet overschrijdt.   
-2.  De fabrikant verstrekt het hoofdproductschap jaarlijks vóór 31 mei vóór de campagne een verzamelstaat van alle teeltcontracten voor het komende verkoopseizoen, waarbij nummer, naam van de teler en de tonnage - uitgedrukt in zetmeelequivalent - worden vermeld.   
+2.  De fabrikant verstrekt het hoofdproductschap jaarlijks vóór 31 mei vóór de campagne een verzamelstaat van alle teeltcontracten voor het komende verkoopseizoen, waarbij nummer, naam van de teler en de tonnage - uitgedrukt in zetmeelequivalent - worden vermeld.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 07-02-2010 
 
 1.  De fabrikant deelt het hoofdproductschap jaarlijks uiterlijk 1 mei na de campagne mede of hij gebruik maakt van ten hoogste 5 % van zijn subcontingent geldend voor het volgende verkoopseizoen.   
-2.  Het hoofdproductschap deelt de fabrikant aan het begin van het verkoopseizoen het aangepaste subcontingent mede, in geval hij gebruik maakt van de in het eerste lid bedoelde mogelijkheid.   
+2.  Het hoofdproductschap deelt de fabrikant aan het begin van het verkoopseizoen het aangepaste subcontingent mede, in geval hij gebruik maakt van de in het eerste lid bedoelde mogelijkheid.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 07-02-2010 
 
-De A.I.D controleert de verzamelstaat en kan de teeltcontracten controleren.  
+De A.I.D controleert de verzamelstaat en kan de teeltcontracten controleren. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 07-02-2010 
 
 1.  Het hoofdproductschap deelt de fabrikant aan de hand van de mededeling respectievelijk opgaven in artikel 4, eerste lid en artikel 9, eerste lid, jaarlijks vóór 15 juni mede welke hoeveelheid aardappelzetmeel boven het subcontingent is geproduceerd en op grond van de EG-verordeningen uiterlijk aan het einde van het kalenderjaar waarin het betrokken verkoopseizoen afloopt uit de Gemeenschap moet worden uitgevoerd.   
 2.  Voor de uitvoer van de in het eerste lid bedoelde aardappelzetmeel vraagt de fabrikant bij het hoofdproductschap een speciaal uitvoercertificaat aan voor uitvoer zonder restitutie.   
-3.  Het bewijs van uitvoer wordt geleverd door overlegging van de in de EG-verordeningen genoemde documenten binnen de in die verordeningen geldende termijn, waarvan het formulier L (F) waarop een speciale vermelding is aangebracht deel uitmaakt.   
+3.  Het bewijs van uitvoer wordt geleverd door overlegging van de in de EG-verordeningen genoemde documenten binnen de in die verordeningen geldende termijn, waarvan het formulier L (F) waarop een speciale vermelding is aangebracht deel uitmaakt.  
 
-### §  3  
+### § 3  
 
 ####Premie, minimumprijs en steun voor zetmeelaardappelen
 
-### Artikel  7  
+Materieel uitgewerkt per 07-02-2010 
 
-Met inachtneming van het bij of krachtens de EG-verordeningen bepaalde, stelt het hoofdproductschap op aanvraag ter zake van het produceren van aardappelzetmeel dan wel voor het telen van zetmeelaardappelen, in de zin van [artikel 15 van de Landbouwwet](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), voor de fabrikant een bedrag aan premie vast en aan de teler een steunbedrag vast.  
+### Artikel  7  
+Materieel uitgewerkt per 07-02-2010 
+
+Met inachtneming van het bij of krachtens de EG-verordeningen bepaalde, stelt het hoofdproductschap op aanvraag ter zake van het produceren van aardappelzetmeel dan wel voor het telen van zetmeelaardappelen, in de zin van [artikel 15 van de Landbouwwet](../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md), voor de fabrikant een bedrag aan premie vast en aan de teler een steunbedrag vast. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 07-02-2010 
 
-Het zetmeelgehalte van de aardappelen, dat bepalend is voor de premie, de minimumprijs en de steun, wordt vastgesteld op basis van het onderwatergewicht, overeenkomstig een door de Europese Commissie in de EG-verordeningen vastgestelde methode.  
+Het zetmeelgehalte van de aardappelen, dat bepalend is voor de premie, de minimumprijs en de steun, wordt vastgesteld op basis van het onderwatergewicht, overeenkomstig een door de Europese Commissie in de EG-verordeningen vastgestelde methode. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 07-02-2010 
 
 1.  De fabrikant dient aan het hoofdproductschap een opgave te doen van de volgende gegevens: 
 
@@ -86,21 +101,24 @@ een verklaring van de fabrikant dat de betrokken hoeveelheden aardappelen zijn a
 een verklaring van de financiële instelling, dan wel de daarmee gelijkgestelde organisatie, die de betaling van de telers in opdracht van de fabrikant verricht, dat over de betrokken hoeveelheden aardappelen de minimumprijs en de steun aan de telers zijn betaald;  
 
 een akkoordbevinding van een externe accountant.     
-2.  Deze opgave dient voor het kunnen vaststellen van de premie en de steun alsmede ter controle van de uitputting van het subcontingent.   
+2.  Deze opgave dient voor het kunnen vaststellen van de premie en de steun alsmede ter controle van de uitputting van het subcontingent.  
 
 ### Artikel  10  
+Materieel uitgewerkt per 07-02-2010 
 
-De fabrikant, die voor de premie in aanmerking wenst te komen, is gehouden met inachtnemingvan het bepaalde bij of krachtens de EG-verordeningen, desgevraagd aan het hoofdproductschapalle inlichtingen te verschaffen welke nodig zijn voor de vaststelling van het juiste bedrag.  
+De fabrikant, die voor de premie in aanmerking wenst te komen, is gehouden met inachtnemingvan het bepaalde bij of krachtens de EG-verordeningen, desgevraagd aan het hoofdproductschapalle inlichtingen te verschaffen welke nodig zijn voor de vaststelling van het juiste bedrag. 
 
 ### Artikel  11  
+Materieel uitgewerkt per 07-02-2010 
 
 1.  Deze verordening treedt in werking met ingang van de tweede dag na de dagtekening van het Verordeningenblad Bedrijfsorganisatie.   
 2.  De Verordening HPA aardappelzetmeelcontingent, aardappelzetmeelpremie en compensatiebedrag aardappeltelers 1995 wordt alsdan ingetrokken.   
-3.  Verwijzingen naar de in het tweede lid bedoelde verordening moeten worden beschouwd als verwijzingen naar de onderhavige verordening.   
+3.  Verwijzingen naar de in het tweede lid bedoelde verordening moeten worden beschouwd als verwijzingen naar de onderhavige verordening.  
 
 ### Artikel  12  
+Materieel uitgewerkt per 07-02-2010 
 
-Deze verordening wordt aangehaald als: Verordening HPA aardappelzetmeelcontingent, aardappelzetmeelpremie en steun voor zetmeelaardappelen 2005.  
+Deze verordening wordt aangehaald als: Verordening HPA aardappelzetmeelcontingent, aardappelzetmeelpremie en steun voor zetmeelaardappelen 2005. 
 
 Den Haag 
 9 juni 2005   

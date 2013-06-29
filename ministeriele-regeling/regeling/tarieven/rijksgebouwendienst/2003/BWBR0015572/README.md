@@ -25,7 +25,7 @@ d. aankoopkosten: kosten die gemoeid zijn met de eigendomsverwerving van een geb
 e. serviceverlening: serviceverlening als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Regeling Taakverdeling Beheer](../../../../../../ministeriele-regeling/regeling/taakverdeling/beheer/BWBR0009906/README.md) alsmede dienstverlening op het terrein van de facilitaire ondersteuning van de afnemer;  
 
 f. advisering: werkzaamheden van de dienst met betrekking tot het ondersteunen van de afnemer inzake diens huisvesting, met uitzondering van ontwikkeling van huisvesting, serviceverlening en werkzaamheden waarvan de kosten begrepen zijn in de gebruiksvergoeding die de afnemer verschuldigd is of zal zijn voor het object waarop de advisering betrekking heeft.    
-2.  Onder gebouw wordt mede begrepen een gebouw dat nog niet gerealiseerd is, doch bij levering gerealiseerd dient te zijn.   
+2.  Onder gebouw wordt mede begrepen een gebouw dat nog niet gerealiseerd is, doch bij levering gerealiseerd dient te zijn.  
 
 ### Artikel  2  
 
@@ -46,7 +46,7 @@ c. het deeltarief van de huurkosten, met betrekking tot een object of objecten d
 a. de teller gelijk is aan het in het vierde lid genoemde consumentenprijsindexcijfer zoals dit door het Centraal Bureau voor de Statistiek wordt vastgesteld voor de maand augustus voorafgaande aan het tijdstip waarop de tarieven worden herzien;  
 
 b. de noemer gelijk is aan het in het vierde lid genoemde consumentenprijsindexcijfer, zoals dit door het Centraal Bureau voor de Statistiek is vastgesteld voor de maand augustus van het daaraan voorafgaande jaar.    
-6.  Op werkzaamheden die de dienst op grond van [artikel 4, tweede lid, van het besluit](../../../../../../KB/besluit/rijksgebouwendienst/1999/BWBR0009888/README.md) uitvoert zijn het eerste tot en met het vijfde lid van toepassing.   
+6.  Op werkzaamheden die de dienst op grond van [artikel 4, tweede lid, van het besluit](../../../../../../KB/besluit/rijksgebouwendienst/1999/BWBR0009888/README.md) uitvoert zijn het eerste tot en met het vijfde lid van toepassing.  
 
 ### Artikel  3  
 
@@ -54,28 +54,28 @@ b. de noemer gelijk is aan het in het vierde lid genoemde consumentenprijsindexc
 
 1.  De Regeling Tarieven Rijksgebouwendienst wordt ingetrokken.   
 2.  Deze regeling treedt in werking met ingang van 29 september 2003 en werkt terug tot en met 1 juli 2003.   
-3.  Deze regeling wordt aangehaald als: Regeling Tarieven Rijksgebouwendienst 2003.   
+3.  Deze regeling wordt aangehaald als: Regeling Tarieven Rijksgebouwendienst 2003.  
 Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8, ’s-Gravenhage.   
 
 Den Haag 
 12 september 2003    
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
-S.M.Dekker   
+Minister van  Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer 
+S.M. Dekker     
 
-### Bijlage  1  
+###Bijlage 1  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage. 
 
-### Bijlage  2  
+###Bijlage 2  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage. 
 
-### Bijlage  3  
+###Bijlage 3  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage. 
 
-### Bijlage  4  
+###Bijlage 4  
 
-Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage.  
+Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te ’s-Gravenhage. 

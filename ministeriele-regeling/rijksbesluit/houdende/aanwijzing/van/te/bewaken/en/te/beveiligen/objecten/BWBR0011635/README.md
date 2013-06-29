@@ -4,7 +4,7 @@
 
 De Minister van Defensie,  
 Gelet op [artikel 1, derde lid, van de Rijkswet geweldgebruik defensiepersoneel in de uitoefening van de bewakings- en beveiligingstaak](../../../../../../../../../../../../rijkswet/rijkswet/geweldgebruik/krijgsmacht/in/de/uitoefening/van/de/bewakings-/en/etc/BWBR0007949/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -21,7 +21,7 @@ Dit besluit treedt in werking met ingang van 1 oktober 2000.
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten.  
+Dit besluit wordt aangehaald als: Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten. 
 Dit besluit zal met de daarbij behorende bijlage in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.   
 
 `s-Gravenhage 
@@ -29,11 +29,11 @@ Dit besluit zal met de daarbij behorende bijlage in de Staatscourant, in de Cura
 
 De 
 Minister van Defensie, 
-F.H.G. deGrave   
+F.H.G. de Grave     
 
 ####Bijlage bij artikel 1  van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten
 
-Objecten als bedoeld in artikel 1 van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn: 
+Objecten als bedoeld in artikel 1 van het Rijksbesluit houdende aanwijzing van te bewaken en te beveiligen objecten, zijn:  
 
 ### A.  
 
@@ -49,37 +49,37 @@ Objecten als bedoeld in artikel 1 van het Rijksbesluit houdende aanwijzing van t
 
 5. militaire werkplaatsen en onderhoudsbedrijven;  
 
-6. POMS-sites, militaire depots, magazijnen en raccordementen;  
+6.  POMS-sites, militaire depots, magazijnen en raccordementen;  
 
-7. militaire radiostations, peilgebouwen, antenneparken, zenderparken en verbindingscentra;  
+7.  militaire radiostations, peilgebouwen, antenneparken, zenderparken en verbindingscentra;  
 
-8. de militaire hoofdkwartieren;  
+8.  de militaire hoofdkwartieren;  
 
-9. de steunpunten en de vitale onderdelen in gebruik bij of ten behoeve van de Kustwacht voor de Nederlandse Antillen en Aruba;  
+9.  de steunpunten en de vitale onderdelen in gebruik bij of ten behoeve van de Kustwacht voor de Nederlandse Antillen en Aruba;  
 
-10. het NATO-grondstation te Schoonhoven;  
+10.  het NATO-grondstation te Schoonhoven;  
 
-11. de vitale onderdelen van de Defensie Pijpleidingen Organisatie;  
+11.  de vitale onderdelen van de Defensie Pijpleidingen Organisatie;   
 
-12. overige objecten welke gebruikt worden voor: 
+12.overige objecten welke gebruikt worden voor:
 
-a. de opslag van gerubriceerde informatie ten behoeve van een krijgsmacht, of  
+a.de opslag van gerubriceerde informatie ten behoeve van een krijgsmacht, of 
 
-b. de opslag of aanwezigheid van voor de bedrijfsvoering van een krijgsmacht vitale infrastructuur of voorzieningen.      
+b.de opslag of aanwezigheid van voor de bedrijfsvoering van een krijgsmacht vitale infrastructuur of voorzieningen. 
 
 ### B.  
 
 ####Mobiele objecten
 
-1. tactische voertuigen en mobiele wapensystemen;  
+1.  tactische voertuigen en mobiele wapensystemen;  
 
-2. mobiele installaties waar vitale goederen of gerubriceerd materieel of gerubriceerde documenten aanwezig zijn, zoals commandoposten en verbindingsvoertuigen;  
+2.  mobiele installaties waar vitale goederen of gerubriceerd materieel of gerubriceerde documenten aanwezig zijn, zoals commandoposten en verbindingsvoertuigen;  
 
-3. luchtvaartuigen, in gebruik bij of ten behoeve van een krijgsmacht;  
+3.  luchtvaartuigen, in gebruik bij of ten behoeve van een krijgsmacht;  
 
-4. schepen, in gebruik bij of ten behoeve van een krijgsmacht;  
+4.  schepen, in gebruik bij of ten behoeve van een krijgsmacht;  
 
-5. schepen, in gebruik bij of ten behoeve van de Kustwacht voor de Nederlandse Antillen en Aruba;  
+5.  schepen, in gebruik bij of ten behoeve van de Kustwacht voor de Nederlandse Antillen en Aruba;  
 
 6. transporten van wapens, munitie, gevaarlijke stoffen en vitale voorwerpen.    
 

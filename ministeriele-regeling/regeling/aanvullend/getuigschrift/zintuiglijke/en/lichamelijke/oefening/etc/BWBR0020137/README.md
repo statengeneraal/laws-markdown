@@ -10,21 +10,21 @@ Besluit:
 
 ####Aanwijzing getuigschrift
 
-Het getuigschrift bedoeld in [artikel 3, tweede lid, onderdeel b, van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 3, tweede lid lid, onderdeel b, van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md) is het getuigschrift van de Leergang bewegingsonderwijs PO.  
+Het getuigschrift bedoeld in [artikel 3, tweede lid, onderdeel b, van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) en [artikel 3, tweede lid lid, onderdeel b, van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md) is het getuigschrift van de Leergang bewegingsonderwijs PO. 
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2006.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2006. 
 
 ### Artikel  3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling aanvullend getuigschrift zintuiglijke en lichamelijke oefening primair onderwijs.  
+Deze regeling wordt aangehaald als: Regeling aanvullend getuigschrift zintuiglijke en lichamelijke oefening primair onderwijs. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

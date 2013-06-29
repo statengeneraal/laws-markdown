@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister voor Wonen, Wijken en Integratie van 6 februari 2008, nr. DGW/I&I20086274, tot instelling van de Taskforce Antilliaanse Nederlanders
+##Besluit van de Minister voor Wonen, Wijken en Integratie van 6 februari 2008, nr. DGW/I&I20086274, tot instelling van de Taskforce Antilliaanse Nederlanders 
 
 De Minister voor Wonen, Wijken en Integratie,  
 Overwegende dat:
@@ -26,13 +26,13 @@ b. bestuurlijke arrangementen: de door de Minister voor Vreemdelingenzaken en In
 
 c. AG-21: de 21 Antillianengemeenten, zijnde de gemeenten Almere, Amersfoort, Amsterdam, Arnhem, Breda, Capelle a/d IJssel, Den Haag, Den Helder, Dordrecht, Eindhoven, Groningen, Leeuwarden, Lelystad, Nijmegen, Rotterdam, Schiedam,Tilburg, Vlaardingen, Vlissingen, Zoetermeer en Zwolle;  
 
-d. taskforce: Taskforce Antilliaanse Nederlanders.    
+d. taskforce: Taskforce Antilliaanse Nederlanders.   
 
 ### Artikel  2  
 
 1.  Ingesteld wordt de Taskforce Antilliaanse Nederlanders.   
 2.  De taskforce wordt ingesteld voor de periode van 16 januari 2008 tot 1 augustus 2008.   
-3.  De Minister kan in overleg met de taskforce besluiten de in het tweede lid genoemde periode te verlengen.   
+3.  De Minister kan in overleg met de taskforce besluiten de in het tweede lid genoemde periode te verlengen.  
 
 ### Artikel  3  
 
@@ -45,7 +45,7 @@ b. voorstellen te doen voor een meerjarig op duurzaamheid gericht en integrale a
 3.  Ter uitvoering van de in het eerste lid, onder b, genoemde taak doet de taskforce voorstellen met betrekking tot de na 2008 geldende prioritaire thema’s en doelgroepen, de kwantitatieve onderbouwing van de benodigde inzet, de te bereiken resultaten en in te zetten activiteiten, de benoeming van partijen die daarvoor verantwoordelijk zijn, de wijze van monitoring van de uitvoering van beleid en werkzaamheden, de wijze van effectbeoordeling en de wijze waarop de Antilliaanse gemeenschap daarbij betrokken is.   
 4.  De taskforce rapporteert aan de Minister met een tussenrapportage op 1 april 2008 met daarin een kwantitatieve onderbouwing voor de inzet die na 2008 van de overheid nodig zijn.   
 5.  Voor 1 augustus 2008 dient de taskforce een eindrapportage in met daarin de in het derde lid bedoelde voorstellen.   
-6.  Zo nodig treedt de Minister met de AG-21 in overleg terzake van werkzaamheden van de taskforce.   
+6.  Zo nodig treedt de Minister met de AG-21 in overleg terzake van werkzaamheden van de taskforce.  
 
 ### Artikel  4  
 
@@ -63,37 +63,37 @@ d. de heer Sjaak van der Tak, lid;
 e. de heer Hans Vissers, lid;  
 
 f. de heer Gilbert Wawoe, lid.     
-3.  De Minister kan, na overleg met de voorzitter, leden ontslaan en nieuwe leden benoemen.   
+3.  De Minister kan, na overleg met de voorzitter, leden ontslaan en nieuwe leden benoemen.  
 
 ### Artikel  5  
 
 1.  De taskforce is onafhankelijk en verricht zijn werkzaamheden zonder last of ruggespraak. De leden hebben op persoonlijke titel zitting in de taskforce.   
 2.  De taskforce stelt, met inachtneming van de bepalingen van dit besluit, zijn eigen werkwijze vast.   
-3.  Indien sprake is van een (dreigende) belangenverstrengeling met betrekking tot een bepaald onderwerp, onthoudt het desbetreffende lid van de taskforce zich met betrekking tot dat onderwerp van verdere deelname of besluitvorming.   
+3.  Indien sprake is van een (dreigende) belangenverstrengeling met betrekking tot een bepaald onderwerp, onthoudt het desbetreffende lid van de taskforce zich met betrekking tot dat onderwerp van verdere deelname of besluitvorming.  
 
 ### Artikel  6  
 
 1.  De taskforce kan zich voor de uitvoering van zijn activiteiten zonodig doen bijstaan door derden.   
-2.  Indien de taskforce toepassing wenst te geven aan het eerste lid, stelt hij of een derde een voorstel met financiële onderbouwing op. De Minister beslist op dit voorstel, waarbij voorwaarden kunnen worden gesteld.   
+2.  Indien de taskforce toepassing wenst te geven aan het eerste lid, stelt hij of een derde een voorstel met financiële onderbouwing op. De Minister beslist op dit voorstel, waarbij voorwaarden kunnen worden gesteld.  
 
 ### Artikel  7  
 
 1.  Het [Vacatiegeldenbesluit 1998](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) is van toepassing.   
 2.  De taskforce wordt aangemerkt als een commissie ‘zwaar’ als bedoeld in [artikel 1 van de Regeling maximumbedragen vacatiegeld 2004](../../../../../../../ministeriele-regeling/regeling/maximumbedragen/vacatiegeld/2004/BWBR0017556/README.md).   
 3.  Voor de duur van de instelling van de taskforce, zoals bepaald in artikel 2, eerste lid, kunnen leden van de taskforce in aanmerking komen voor maximaal 10 vacatievergoedingen. Voor de voorzitter geldt geen maximum.   
-4.  De Minister kan het aantal vacatievergoedingen verhogen.   
+4.  De Minister kan het aantal vacatievergoedingen verhogen.  
 
 ### Artikel  8  
 
-De archiefbescheiden van de taskforce worden na het staken van de activiteiten, of indien de omstandigheden daartoe aanleiding geven zoveel eerder, ter beschikking gesteld aan de Minister.  
+De archiefbescheiden van de taskforce worden na het staken van de activiteiten, of indien de omstandigheden daartoe aanleiding geven zoveel eerder, ter beschikking gesteld aan de Minister. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 16 januari 2008.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 16 januari 2008. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit instelling Taskforce Antilliaanse Nederlanders.  
+Dit besluit wordt aangehaald als: Besluit instelling Taskforce Antilliaanse Nederlanders. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -101,4 +101,4 @@ Den Haag
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-C.P.Vogelaar   
+C.P. Vogelaar     

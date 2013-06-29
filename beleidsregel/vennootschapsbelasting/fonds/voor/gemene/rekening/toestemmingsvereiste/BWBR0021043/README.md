@@ -51,6 +51,6 @@ Den Haag
 11 januari 2007   
 
 De 
-Minister van Financiën, namens deze: de 
+Minister van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

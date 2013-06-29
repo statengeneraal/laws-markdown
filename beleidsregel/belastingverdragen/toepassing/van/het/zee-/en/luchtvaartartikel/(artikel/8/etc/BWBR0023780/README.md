@@ -46,6 +46,6 @@ Den Haag
 4 april 2008   
 
 De 
-Staatssecretaris van Financiën, namens deze:
+Staatssecretaris van Financiën, namens deze: 
 plv. directeur-generaal voor Fiscale Zaken, 
-M.Snel   
+M. Snel     

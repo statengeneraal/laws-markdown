@@ -1,8 +1,8 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instellingsbesluit Landmachtmedaille
+##Instellingsbesluit Landmachtmedaille 
 
-De Minister van Defensie  Besluit:    
+De Minister van Defensie  Besluit:     
 
 ### Artikel  1  
 
@@ -17,24 +17,24 @@ Ingesteld wordt de Landmachtmedaille.
 
 1.  De medaille wordt toegekend aan de Nederlandse militair in werkelijke dienst die: 
 
-a. tenminste 48 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht in het buitenland bij 1(GE/NL)Corps, bij 1e Divisie `7 December' of bij het voormalig 1LK;  
+a.  tenminste 48 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht in het buitenland bij 1(GE/NL)Corps, bij 1e Divisie `7 December' of bij het voormalig 1LK; 
 
-b. tenminste 36 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht bij 1(GE/NL)Corps, 1e Divisie `7 December' of bij het voormalig 1LK, en bovendien 
+b.  tenminste 36 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht bij 1(GE/NL)Corps, 1e Divisie `7 December' of bij het voormalig 1LK, en bovendien 
 
-1º. tenminste 24 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht in het buitenland bij 1(GE/NL)Corps, 1e Divisie `7 December', het voormalig 1LK, dan wel dienst heeft verricht bij NASAG, bij het voormalig CoNLtrS/H/L of bij een in het buitenland gestationeerde internationale operationele eenheid of staf, of  
+1º.tenminste 24 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht in het buitenland bij 1(GE/NL)Corps, 1e Divisie `7 December', het voormalig 1LK, dan wel dienst heeft verricht bij NASAG, bij het voormalig CoNLtrS/H/L of bij een in het buitenland gestationeerde internationale operationele eenheid of staf, of
 
-2º. tenminste 6 maanden, opgebouwd uit perioden van 30 aaneengesloten dagen, dienst heeft verricht in de Nederlandse Antillen, het voormalig Nederlands Nieuw-Guinea of het voormalig Koninkrijksdeel Suriname dan wel dienst heeft verricht bij een onderdeel van de Koninklijke Marine of van de Koninklijke Luchtmacht of van de Koninklijke Marechaussee dat in een van de hiervoor genoemde gebieden was ingezet;    
+2º.tenminste 6 maanden, opgebouwd uit perioden van 30 aaneengesloten dagen, dienst heeft verricht in de Nederlandse Antillen, het voormalig Nederlands Nieuw-Guinea of het voormalig Koninkrijksdeel Suriname dan wel dienst heeft verricht bij een onderdeel van de Koninklijke Marine of van de Koninklijke Luchtmacht of van de Koninklijke Marechaussee dat in een van de hiervoor genoemde gebieden was ingezet; 
 
-c. tenminste 84 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht bij 1(GE/NL)Corps, 1e Divisie `7 December' of bij het voormalig 1LK.     
+c.  tenminste 84 maanden, opgebouwd uit perioden van minimaal 30 aaneengesloten dagen, operationele (parate) dienst heeft verricht bij 1(GE/NL)Corps, 1e Divisie `7 December' of bij het voormalig 1LK.    
 2.  Met dienst verricht bij 1(GE/NL)Corps, 1e Divisie `7 December' of bij het voormalig 1LK wordt gelijkgesteld: operationele dienst die door een militair van de Koninklijke Landmacht is verricht bij een operationele eenheid van de Koninklijke Marine, de Koninklijke Luchtmacht of de Koninklijke Marechaussee, voorzover deze dienst naar het oordeel van de Bevelhebber der Landstrijdkrachten vergelijkbaar is.   
 
 ### Artikel  4  
 
 Bij de berekening van de tijdsduur, bedoeld in artikel 3, wordt buiten beschouwing gelaten: 
 
-a. diensttijd op grond waarvan een met de Landmachtmedaille vergelijkbare onderscheiding is toegekend;  
+a.  diensttijd op grond waarvan een met de Landmachtmedaille vergelijkbare onderscheiding is toegekend; 
 
-b. diensttijd verricht in een Koninkrijksdeel of een voormalig Koninkrijksdeel voorzover op grond van die diensttijd reeds een onderscheiding is toegekend.    
+b.  diensttijd verricht in een Koninkrijksdeel of een voormalig Koninkrijksdeel voorzover op grond van die diensttijd reeds een onderscheiding is toegekend.   
 
 ### Artikel  5  
 
@@ -70,7 +70,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  13  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Landmachtmedaille.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Landmachtmedaille. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -78,4 +78,4 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Defensie, 
-A.H.Korthals    
+A.H.  Korthals      

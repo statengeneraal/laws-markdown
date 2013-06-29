@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De zorg voor de [Wet op de Registeraccountants](../../../../../../../../../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), de [Wet op de Accountants-Administratieconsulenten](../../../../../../../../../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) en de op deze wetten gebaseerde regelgeving, voor zover deze thans behoort tot de taak van Onze Minister van Economische Zaken, gaat over naar Onze Minister van Financiën.  
+De zorg voor de [Wet op de Registeraccountants](../../../../../../../../../../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), de [Wet op de Accountants-Administratieconsulenten](../../../../../../../../../../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md) en de op deze wetten gebaseerde regelgeving, voor zover deze thans behoort tot de taak van Onze Minister van Economische Zaken, gaat over naar Onze Minister van Financiën. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 19 februari 2003.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 19 februari 2003. 
 
 Onze Minister-President, Minister van Algemene Zaken, en Onze Ministers van Economische Zaken en van Financiën zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -29,4 +29,4 @@ J. P. Balkenende
 de eerste mei 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

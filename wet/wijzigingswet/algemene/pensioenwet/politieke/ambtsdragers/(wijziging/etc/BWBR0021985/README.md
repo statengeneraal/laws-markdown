@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Algemene pensioenwet politieke ambtsdragers.   
+Wijzigt de Algemene pensioenwet politieke ambtsdragers. 
 
 ### Artikel  II  
 
 Tot het tijdstip waarop het bij koninklijk boodschap van 20 december 2005 ingediende voorstel van wet, houdende regels betreffende pensioenen ([Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)) (Kamerstukken II 2005/06, 30 413, nr. 2) nadat het tot wet is verheven, in werking treedt, wordt bij de toepassing van de [artikelen 107](../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), [108](../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), [160a](../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) en [160b van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md): 
 
-a. voor « [Besluit reken- en procedureregels recht op waarde-overdracht](../../../../../../../../../AMvB/besluit/reken-/en/procedureregels/recht/op/waarde-overdracht/BWBR0006867/README.md) » telkens gelezen: [Besluit reken- en procedureregels waardeoverdracht](../../../../../../../../../AMvB/besluit/reken-/en/procedureregels/waardeoverdracht/BWBR0017995/README.md);  
+a. voor «[Besluit reken- en procedureregels recht op waarde-overdracht](../../../../../../../../../AMvB/besluit/reken-/en/procedureregels/recht/op/waarde-overdracht/BWBR0006867/README.md)» telkens gelezen: [Besluit reken- en procedureregels waardeoverdracht](../../../../../../../../../AMvB/besluit/reken-/en/procedureregels/waardeoverdracht/BWBR0017995/README.md);  
 
-b. voor «artikelen 8, 9 en 12» telkens gelezen: artikelen 8, 10 en 12.    
+b. voor «artikelen 8, 9 en 12» telkens gelezen: artikelen 8, 10 en 12.   
 
 ### Artikel  III  
 
@@ -28,7 +28,7 @@ b. voor «artikelen 8, 9 en 12» telkens gelezen: artikelen 8, 10 en 12.
 a. indien het bij koninklijk boodschap van 20 december 2005 ingediende voorstel van wet, houdende regels betreffende pensioenen ([Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)) (Kamerstukken II 2005/06, 30 413, nr. 2) nadat het tot wet is verheven, op een later tijdstip in werking treedt, artikel I op datzelfde tijdstip in werking treedt, of  
 
 b. indien het bij koninklijk boodschap van 20 december 2005 ingediende voorstel van wet, houdende regels betreffende pensioenen ([Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)) (Kamerstukken II 2005/06, 30 413, nr. 2) nadat het tot wet is verheven, op een eerder tijdstip in werking is getreden, artikel I terugwerkt tot en met dat tijdstip.     
-2.  Artikel II werkt terug tot en met 8 februari 2005.   
+2.  Artikel II werkt terug tot en met 8 februari 2005.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -36,10 +36,10 @@ Gegeven te ’s-Gravenhage
 11 mei 2007  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
+G. ter Horst   
 
 de *vijfde* juni 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

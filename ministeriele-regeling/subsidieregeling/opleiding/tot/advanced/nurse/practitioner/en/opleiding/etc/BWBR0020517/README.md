@@ -18,24 +18,24 @@ c. opleiding tot advanced nurse practitioner: een HBO-zorgmasteropleiding in de 
 
 d. opleiding tot physician assistant: een HBO-zorgmasteropleiding in de gezondheidszorg met een duur van 30 maanden;  
 
-e. buitenschoolse kosten: kosten die gemaakt worden door de zorgwerkgever in het kader van de HBO-zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant;    
+e. buitenschoolse kosten: kosten die gemaakt worden door de zorgwerkgever in het kader van de HBO-zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant;   
 
 ### Artikel  2  
 
 1.  De minister verstrekt op aanvraag van het bevoegd gezag voor maximaal de duur van de opleiding subsidie ten behoeve van de buitenschoolse kosten van de opleidingen tot advanced nurse practitioner en tot physician assistant.   
 2.  De subsidie per student bedraagt een vast normatief bedrag van € 1.875,– per maand voor maximaal de duur van de opleiding. De subsidie wordt door het bevoegd gezag doorbetaald aan de zorgwerkgever.   
-3.  De subsidie wordt vastgesteld door vermenigvuldiging van de som van het aantal maanden per student dat de opleiding daadwerkelijk is gevolgd met het bedrag, genoemd in het tweede lid.   
+3.  De subsidie wordt vastgesteld door vermenigvuldiging van de som van het aantal maanden per student dat de opleiding daadwerkelijk is gevolgd met het bedrag, genoemd in het tweede lid.  
 
 ### Artikel  3  
 
 1.  De subsidieaanvraag wordt vóór 1 november van het betreffende studiejaar ingediend.   
-2.  De subsidieaanvraag gaat vergezeld van een opgave van het aantal op te leiden studenten.   
+2.  De subsidieaanvraag gaat vergezeld van een opgave van het aantal op te leiden studenten.  
 
 ### Artikel  4  
 
 1.  De minister besluit binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie.   
 2.  De minister kan bij het besluit tot verlening van een subsidie ambtshalve tevens voorschotten verlenen.   
-3.  De voorschotten worden gelijkmatig verdeeld over het aantal maanden waarvoor de subsidie wordt verleend.   
+3.  De voorschotten worden gelijkmatig verdeeld over het aantal maanden waarvoor de subsidie wordt verleend.  
 
 ### Artikel  4a  
 
@@ -46,31 +46,31 @@ a. het tijdens de periode waarvoor de subsidie is verstrekt aannemelijk is gewor
 b. het aannemelijk is geworden dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of  
 
 c. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.     
-2.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.   
+2.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.  
 
 ### Artikel  5  
 
 1.  Voor het cohort studenten waarvoor in jaar ‘t’ subsidie is verleend dient het bevoegd gezag voor 1 juli van het jaar ‘t+3’ een aanvraag in voor de subsidievaststelling.   
-2.  De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in artikel 2, tweede lid, is nageleefd.   
+2.  De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in artikel 2, tweede lid, is nageleefd.  
 
 ### Artikel  5a  
 
-Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt de minister een besluit op de aanvraag.  
+Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt de minister een besluit op de aanvraag. 
 
 ### Artikel  6  
 
 1.  Het bevoegd gezag verstrekt aan de door de minister aangewezen personen op hun verzoek alle bescheiden en inlichtingen die noodzakelijk zijn voor een juiste vervulling van hun taak. De bescheiden worden op één adres getoond en de inlichtingen, op verzoek, schriftelijk verstrekt.   
-2.  Het bevoegd gezag werkt mee aan de door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het subsidiebeleid.   
+2.  Het bevoegd gezag werkt mee aan de door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het subsidiebeleid.  
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2006.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2006. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant.  
+Deze regeling wordt aangehaald als: Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst   
+J.F. Hoogervorst     

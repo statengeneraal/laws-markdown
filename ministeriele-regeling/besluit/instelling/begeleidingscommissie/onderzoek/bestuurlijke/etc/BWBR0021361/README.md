@@ -20,11 +20,11 @@ In dit besluit wordt verstaan onder:
 
 a. de Commissie: de begeleidingscommissie Onderzoek bestuurlijke maatregelen veiligheid;  
 
-b. de Minister: de Minister van Binnenlandse Zaken en Koninkrijksrelaties.    
+b. de Minister: de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 
 ### Artikel  2  
 
-Er is een begeleidingscommissie Onderzoek bestuurlijke maatregelen veiligheid.  
+Er is een begeleidingscommissie Onderzoek bestuurlijke maatregelen veiligheid. 
 
 ### Artikel  3  
 
@@ -34,7 +34,7 @@ a. het bewaken voor de voortgang, uitvoering en kwaliteit van het onderzoek;
 
 b. waar nodig het geven van aanwijzingen en aanbevelingen aan onderzoekers;  
 
-c. een antwoord te geven op de vraag, of het onderzoek naar bestuurlijke maatregelen veiligheid op adequate wijze is volbracht.    
+c. een antwoord te geven op de vraag, of het onderzoek naar bestuurlijke maatregelen veiligheid op adequate wijze is volbracht.   
 
 ### Artikel  4  
 
@@ -61,27 +61,27 @@ b. als leden:
 – twee vertegenwoordigers van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
 
 – twee vertegenwoordigers van het Ministerie van Justitie.       
-2.  De Commissie wordt bijgestaan door een ambtelijk secretaris, mr. A.B. Engberts, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.   
+2.  De Commissie wordt bijgestaan door een ambtelijk secretaris, mr. A.B. Engberts, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
 
 ### Artikel  5  
 
 1.  De onderzoekers brengen uiterlijk op 1 juni 2007 hun rapport uit aan de Commissie.   
 2.  Indien onvoorziene omstandigheden naar het oordeel van de Commissie in de weg staan aan het tijdig uitbrengen van een deugdelijk rapport door de onderzoekers, dan stelt de Commissie de Minister daarvan onverwijld op de hoogte.   
 3.  De Minister beslist over de eventuele verlenging van de termijn bedoeld in het eerste lid en brengt de Commissie daarvan schriftelijk op de hoogte.   
-4.  Na het uitbrengen van het rapport door de onderzoekers wordt de Commissie opgeheven.   
+4.  Na het uitbrengen van het rapport door de onderzoekers wordt de Commissie opgeheven.  
 
 ### Artikel  6  
 
-Op de Commissie is het [Vacatiegeldenbesluit 1988](../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) (Stb. 1988, 205) van toepassing. De Commissie wordt als ‘algemeen’ in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) aangemerkt.  
+Op de Commissie is het [Vacatiegeldenbesluit 1988](../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) (Stb. 1988, 205) van toepassing. De Commissie wordt als ‘algemeen’ in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) aangemerkt. 
 
 ### Artikel  7  
 
-De archiefbescheiden van de Commissie worden na haar opheffing, of zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+De archiefbescheiden van de Commissie worden na haar opheffing, of zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 december 2006.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 december 2006. 
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes   
+J.W. Remkes     

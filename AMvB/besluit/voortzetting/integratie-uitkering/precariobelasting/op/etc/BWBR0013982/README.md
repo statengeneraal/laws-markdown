@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Gemeenten genoemd in de bijlage bij dit besluit ontvangen in de periode 2002 tot en met 2007 een uitkering uit het gemeentefonds.  
+Gemeenten genoemd in de bijlage bij dit besluit ontvangen in de periode 2002 tot en met 2007 een uitkering uit het gemeentefonds. 
 
 ### Artikel  2  
 
-De uitkering is gebaseerd op de uitkering, die in het uitkeringsjaar 2001 aan de gemeenten is verstrekt uit hoofde van het Besluit integratie-uitkering afschaffing precariobelasting op omroepkabels en andere telecommunicatiekabels. De uitkeringsbedragen voor de jaren 2002 tot en met 2007 zijn vermeld in de bijlage bij dit besluit.  
+De uitkering is gebaseerd op de uitkering, die in het uitkeringsjaar 2001 aan de gemeenten is verstrekt uit hoofde van het Besluit integratie-uitkering afschaffing precariobelasting op omroepkabels en andere telecommunicatiekabels. De uitkeringsbedragen voor de jaren 2002 tot en met 2007 zijn vermeld in de bijlage bij dit besluit. 
 
 ### Artikel  3  
 
-In aanvulling op de uitkering genoemd in artikel 2 wordt de algemene uitkering van de gemeenten Amsterdam en Den Haag in ieder van de uitkeringsjaren 2005 tot en met 2007 verhoogd door een toevoeging aan het vaste bedrag van deze gemeenten, die overeenkomt met € 10 473 005,27 respectievelijk € 431 301,10 gedeeld door de uitkeringsfactor, bedoeld in het [Besluit Financiële Verhouding 2001, artikel 1 onder c](../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), die voor dat uitkeringsjaar geldt.  
+In aanvulling op de uitkering genoemd in artikel 2 wordt de algemene uitkering van de gemeenten Amsterdam en Den Haag in ieder van de uitkeringsjaren 2005 tot en met 2007 verhoogd door een toevoeging aan het vaste bedrag van deze gemeenten, die overeenkomt met € 10 473 005,27 respectievelijk € 431 301,10 gedeeld door de uitkeringsfactor, bedoeld in het [Besluit Financiële Verhouding 2001, artikel 1 onder c](../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), die voor dat uitkeringsjaar geldt. 
 
 ### Artikel  4  
 
-De uitkering genoemd in artikel 2 wordt herberekend naar rato van de mutatie in het aantal inwoners, indien in de periode 2002 tot en met 2007 bij in de bijlage van dit besluit genoemde gemeenten een wijziging plaatsvindt van de gemeentelijke indeling, als bedoeld in [artikel 1 onderdeel b van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md).  
+De uitkering genoemd in artikel 2 wordt herberekend naar rato van de mutatie in het aantal inwoners, indien in de periode 2002 tot en met 2007 bij in de bijlage van dit besluit genoemde gemeenten een wijziging plaatsvindt van de gemeentelijke indeling, als bedoeld in [artikel 1 onderdeel b van de Wet algemene regels herindeling](../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md). 
 
 ### Artikel  5  
 
-Het Besluit integratie-uitkering afschaffing precariobelasting op omroepkabels en andere telecommunicatiekabels wordt ingetrokken met ingang van 1 januari 2002.  
+Het Besluit integratie-uitkering afschaffing precariobelasting op omroepkabels en andere telecommunicatiekabels wordt ingetrokken met ingang van 1 januari 2002. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2002.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2002. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit voortzetting integratie-uitkering afschaffing precariobelasting op telecommunicatiekabels.  
+Dit besluit wordt aangehaald als: Besluit voortzetting integratie-uitkering afschaffing precariobelasting op telecommunicatiekabels. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -56,13 +56,13 @@ S. R. A. van Eijck
 de *vierentwintigste* oktober 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
 
 ### Bijlage  
 
 ####Integratie-uitkering afschaffing precariobelasting op telecommunicatiekabels voor de uitkeringsjaren 2002 tot en met 2007 (bedragen in euro's)
 
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
+|  1  | 2  | 3  | 4  | 5  | 6  | 7  |
 |:---|:---|:---|:---|:---|:---|:---|
 | Gemeenten per 1-1-2001  | 2002  | 2003  | 2004  | 2005  | 2006  | 2007  |
 | Amsterdam  | 33 418 947,97  | 32 752 303,91  | 32 085 659,86  | 20 946 010,53  | 10 473 005,27  | 0,00  |

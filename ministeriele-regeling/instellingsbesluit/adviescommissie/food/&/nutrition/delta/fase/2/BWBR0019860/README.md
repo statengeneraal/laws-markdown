@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder:
 
 a. de commissie: de Adviescommissie Food & Nutrition Delta fase 2;  
 
-b. de minister: de Minister van Economische Zaken.    
+b. de minister: de Minister van Economische Zaken.   
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ d. de ambitie in internationaal perspectief en de kansen voor Nederland op een v
 
 e. de noodzaak van betrokkenheid van de overheid voor de realisatie van de ambities.     
 3.  De commissie beoordeelt de kwaliteit en de uitvoerbaarheid van het voorgestelde programma, in samenhang met de geschetste visie, ambitie en de daaraan ten grondslag liggende strategische agenda.   
-4.  Het advies van de commissie gaat vergezeld van een deugdelijke motivering.   
+4.  Het advies van de commissie gaat vergezeld van een deugdelijke motivering.  
 
 ### Artikel  3  
 
@@ -44,36 +44,36 @@ c. dr. A. Mensink, te Bilthoven;
 
 d. prof.dr. A. van Tunen, te Wageningen;  
 
-e. prof.dr.ir. C.T. Verrips, te Utrecht.     
+e. prof.dr.ir. C.T. Verrips, te Utrecht.    
 
 ### Artikel  4  
 
 1.  De commissie stelt haar eigen werkwijze vast.   
 2.  In het secretariaat van de commissie wordt door de minister voorzien.   
 3.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.   
-4.  Na het uitbrengen van haar advies over het innovatieprogramma ‘Food & Nutrition Delta fase 2’ is de commissie opgeheven.   
+4.  Na het uitbrengen van haar advies over het innovatieprogramma ‘Food & Nutrition Delta fase 2’ is de commissie opgeheven.  
 
 ### Artikel  5  
 
-De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen.  
+De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. 
 
 ### Artikel  6  
 
 1.  De voorzitter van de commissie ontvangt voor het bijwonen van een vergadering een vergoeding van € 260,00.   
-2.  Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangt de voorzitter een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een voorbereidingstijd van 20 uur per vergadering.   
+2.  Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangt de voorzitter een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een voorbereidingstijd van 20 uur per vergadering.  
 
 ### Artikel  7  
 
 1.  De andere leden van de commissie ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.   
-2.  Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangen de leden een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een voorbereidingstijd van 16 uur per vergadering.   
+2.  Voor voorbereidende werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangen de leden een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op [salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een voorbereidingstijd van 16 uur per vergadering.  
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2006.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2006. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Food & Nutrition Delta fase 2. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 Den Haag 
@@ -81,4 +81,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-L.J.Brinkhorst   
+L.J. Brinkhorst     

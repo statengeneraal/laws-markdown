@@ -16,7 +16,7 @@ a. gericht zijn op de vervanging of ondersteuning van een door ziekte of gebrek 
 
 b. bestaan uit door een persoon te verrichten diensten; en  
 
-c. niet behoren tot de gebruikelijke werkzaamheden van die persoon.    
+c. niet behoren tot de gebruikelijke werkzaamheden van die persoon.   
 
 ### Artikel  2  
 
@@ -26,37 +26,37 @@ Kosten voor de bemiddeling bij het vinden van een persoon die de diensten zal ga
 
 a. de activiteiten bestaan uit de diensten van een doventolk; of  
 
-b. de noodzaak van de bemiddeling naar het oordeel van het UWV is aangetoond.    
+b. de noodzaak van de bemiddeling naar het oordeel van het UWV is aangetoond.   
 
 ### Artikel  3  
 
 ####Reiskosten
 
-Indien de persoon die de diensten verricht, werkzaam is in dezelfde bedrijfsvestiging als de aanvrager, worden reiskosten van deze persoon slechts vergoed voor zover zij betrekking hebben op het verrichten van diensten buiten die bedrijfsvestiging.  
+Indien de persoon die de diensten verricht, werkzaam is in dezelfde bedrijfsvestiging als de aanvrager, worden reiskosten van deze persoon slechts vergoed voor zover zij betrekking hebben op het verrichten van diensten buiten die bedrijfsvestiging. 
 
 ### Artikel  4  
 
 ####Verlenging na einde uitkering
 
-Indien het recht op een voorziening voor intermediaire activiteiten eindigt om de in [artikel 14, derde lid, van het Reïntegratiebesluit](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md) genoemde reden, wordt die voorziening, voor zover nog wordt voldaan aan de overige voorwaarden, gedurende twee maanden verlengd.  
+Indien het recht op een voorziening voor intermediaire activiteiten eindigt om de in [artikel 14, derde lid, van het Reïntegratiebesluit](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md) genoemde reden, wordt die voorziening, voor zover nog wordt voldaan aan de overige voorwaarden, gedurende twee maanden verlengd. 
 
 ### Artikel  5  
 
 ####Onderwijsvoorzieningen
 
-Kosten voor de diensten van een doventolk als bedoeld in [artikel 2.17, tweede lid, van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) en [artikel 19, eerste lid, onder b, van het Reïntegratiebesluit](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), worden niet vergoed voor zover zij betrekking hebben op het volgen van incidenteel of aanvullend onderwijs bij een instelling voor regulier onderwijs door een leerling die staat ingeschreven bij een instelling voor speciaal onderwijs.  
+Kosten voor de diensten van een doventolk als bedoeld in [artikel 2.17, tweede lid, van de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) en [artikel 19, eerste lid, onder b, van het Reïntegratiebesluit](../../../../../AMvB/reïntegratiebesluit/BWBR0019152/README.md), worden niet vergoed voor zover zij betrekking hebben op het volgen van incidenteel of aanvullend onderwijs bij een instelling voor regulier onderwijs door een leerling die staat ingeschreven bij een instelling voor speciaal onderwijs. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van plaatsing in de Staatscourant, en werkt terug tot en met 29 december 2005.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van plaatsing in de Staatscourant, en werkt terug tot en met 29 december 2005. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Beleidsregel intermediaire activiteiten.  
+Dit besluit wordt aangehaald als: Beleidsregel intermediaire activiteiten. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
@@ -64,4 +64,4 @@ Amsterdam
 
 De 
 Voorzitter Raad van bestuur UWV, 
-J.M.Linthorst   
+J.M. Linthorst     

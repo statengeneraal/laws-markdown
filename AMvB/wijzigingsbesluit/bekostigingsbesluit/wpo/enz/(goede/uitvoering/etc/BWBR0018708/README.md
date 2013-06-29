@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bekostigingsbesluit WPO.   
+Wijzigt het Bekostigingsbesluit WPO. 
 
 ### Artikel  II  
 
-Wijzigt het Formatiebesluit WPO.   
+Wijzigt het Formatiebesluit WPO. 
 
 ### Artikel  III  
 
-Wijzigt het Bekostigingsbesluit W.V.O.   
+Wijzigt het Bekostigingsbesluit W.V.O. 
 
 ### Artikel  IV  
 
-Wijzigt het Wijzigingsbesluit Bekostigingsbesluit WEC, enz. (invoering van leerlinggebonden financiering).   
+Wijzigt het Wijzigingsbesluit Bekostigingsbesluit WEC, enz. (invoering van leerlinggebonden financiering). 
 
 ### Artikel  V  
 
-Wijzigt het Besluit leerlinggebonden financiering.   
+Wijzigt het Besluit leerlinggebonden financiering. 
 
 ### Artikel  VI  
 
-De in de artikelen I, II, III en IV opgenomen wijzigingen zijn voor de eerste maal van toepassing op de bekostiging van het schooljaar 2005–2006.  
+De in de artikelen I, II, III en IV opgenomen wijzigingen zijn voor de eerste maal van toepassing op de bekostiging van het schooljaar 2005–2006. 
 
 ### Artikel  VII  
 
-De artikelen I, II, onderdeel B, III en V treden in werking op een bij koninklijk besluit te bepalen tijdstip, welk besluit kan bepalen dat die artikelen terugwerken tot en met 1 augustus 2005. De artikelen II, onderdeel A, IV en VI treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.  
+De artikelen I, II, onderdeel B, III en V treden in werking op een bij koninklijk besluit te bepalen tijdstip, welk besluit kan bepalen dat die artikelen terugwerken tot en met 1 augustus 2005. De artikelen II, onderdeel A, IV en VI treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -47,7 +47,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 29 augustus 2005  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap , 
+De Minister van Onderwijs, Cultuur en Wetenschap ,  
 M. J. A. van der Hoeven   
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit , 

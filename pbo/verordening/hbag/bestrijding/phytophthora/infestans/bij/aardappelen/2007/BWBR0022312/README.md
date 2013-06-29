@@ -13,7 +13,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Agrarische Groothandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verder verstaan onder: aardappelen: planten van de soort Solanum Tuberosum.  
+In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Agrarische Groothandel](../../../../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt verder verstaan onder: aardappelen: planten van de soort Solanum Tuberosum. 
 
 ### §  2  
 
@@ -22,7 +22,7 @@ In deze verordening wordt overgenomen de terminologie van het [Instellingsbeslui
 ### Artikel  2  
 
 1.  Het is de ondernemer verboden na 15 april van enig jaar niet-uitgeplante aardappelen of afval van aardappelen aanwezig te hebben waarop stengels met blad voorkomen, zonder op deze aardappelen een zodanige afdekking aan te brengen dat stengels met blad niet boven deze afdekking kunnen voorkomen. Dit verbod geldt niet ten aanzien van aardappelen waarvan de ondernemer ten genoegen van degenen die met de opsporing van de overtredingen van dit verbod zijn belast, aantoont dat deze aardappelen zijn bestemd om te worden uitgeplant.   
-2.  Het is de ondernemer verboden om zich van niet-uitgeplante aardappelen of afval van aardappelen te ontdoen, tenzij hij zodanige maatregelen heeft getroffen dat zich aan deze niet-uitgeplante aardappelen of afval van aardappelen geen stengels met blad kunnen ontwikkelen.   
+2.  Het is de ondernemer verboden om zich van niet-uitgeplante aardappelen of afval van aardappelen te ontdoen, tenzij hij zodanige maatregelen heeft getroffen dat zich aan deze niet-uitgeplante aardappelen of afval van aardappelen geen stengels met blad kunnen ontwikkelen.  
 
 ### §  3  
 
@@ -31,7 +31,7 @@ In deze verordening wordt overgenomen de terminologie van het [Instellingsbeslui
 ### Artikel  3  
 
 1.  Het bestuur kan bij besluit, gehoord de betreffende commissie pootaardappelen en/of de commissie consumptie-, fabrieks- en voeraardappelen van het hoofdbedrijfschap, vrijstelling verlenen van een of meer bepalingen uit deze verordening en daarbij nadere voorschriften stellen. Zo’n besluit wordt bekend gemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na die van bekendmaking, tenzij het betreffende besluit anders bepaalt.   
-2.  De secretaris van de betreffende commissie pootaardappelen en/of de commissie consumptie-, fabrieks- en voeraardappelen van het hoofdbedrijfschap is namens het bestuur bevoegd op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in de artikel 2 en daarbij nadere voorschriften vast te stellen.   
+2.  De secretaris van de betreffende commissie pootaardappelen en/of de commissie consumptie-, fabrieks- en voeraardappelen van het hoofdbedrijfschap is namens het bestuur bevoegd op schriftelijk verzoek van de ondernemer ontheffing te verlenen van het bepaalde in de artikel 2 en daarbij nadere voorschriften vast te stellen.  
 
 ### §  4  
 
@@ -39,7 +39,7 @@ In deze verordening wordt overgenomen de terminologie van het [Instellingsbeslui
 
 ### Artikel  4  
 
-Het bepaalde bij of krachtens artikel 2, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen plegen te worden verricht.  
+Het bepaalde bij of krachtens artikel 2, waarbij aan ondernemers verplichtingen worden opgelegd, is mede bindend voor andere natuurlijke en rechtspersonen, voor zover deze handelingen verrichten die bedrijfsmatig in ondernemingen plegen te worden verricht. 
 
 ### §  5  
 
@@ -48,7 +48,7 @@ Het bepaalde bij of krachtens artikel 2, waarbij aan ondernemers verplichtingen 
 ### Artikel  5  
 
 1.  Op overtreding van het bepaalde bij of krachtens deze verordening kunnen tuchtrechtelijke maatregelen worden gelegd.   
-2.  Het bevoegde tuchtgerecht is het tuchtgerecht van het Hoofdproductschap Akkerbouw.   
+2.  Het bevoegde tuchtgerecht is het tuchtgerecht van het Hoofdproductschap Akkerbouw.  
 
 ### §  6  
 
@@ -56,15 +56,15 @@ Het bepaalde bij of krachtens artikel 2, waarbij aan ondernemers verplichtingen 
 
 ### Artikel  6  
 
-Deze verordening vervangt de [Verordening HBAG bestrijding Phytophthora infestans bij aardappelen 2003](../../../../../../../../../../pbo/verordening/hbag/bestrijding/phytophthora/infestans/bij/aardappelen/2003/BWBR0015895/README.md).  
+Deze verordening vervangt de [Verordening HBAG bestrijding Phytophthora infestans bij aardappelen 2003](../../../../../../../../../../pbo/verordening/hbag/bestrijding/phytophthora/infestans/bij/aardappelen/2003/BWBR0015895/README.md). 
 
 ### Artikel  7  
 
-Deze verordening treedt in werking met ingang van 1 juli 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 30 juni 2007, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juli 2007, met uitzondering van het bepaalde in artikel 5.  
+Deze verordening treedt in werking met ingang van 1 juli 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 30 juni 2007, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 juli 2007, met uitzondering van het bepaalde in artikel 5. 
 
 ### Artikel  8  
 
-Deze verordening wordt aangehaald als: Verordening HBAG bestrijding Phytophthora infestans bij aardappelen 2007.  
+Deze verordening wordt aangehaald als: Verordening HBAG bestrijding Phytophthora infestans bij aardappelen 2007. 
 
 Den Haag 
 21 december 2006   

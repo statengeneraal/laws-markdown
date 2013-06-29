@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onze Minister van Sociale Zaken en Werkgelegenheid wordt belast met de behartiging van de aangelegenheden op het terrein van kinderopvang, voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister van Volksgezondheid, Welzijn en Sport.  
+Onze Minister van Sociale Zaken en Werkgelegenheid wordt belast met de behartiging van de aangelegenheden op het terrein van kinderopvang, voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister van Volksgezondheid, Welzijn en Sport. 
 
 ### Artikel  2  
 
-De taken van het Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van Volksgezondheid, Welzijn en Sport worden dienovereenkomstig gewijzigd.  
+De taken van het Ministerie van Sociale Zaken en Werkgelegenheid en het Ministerie van Volksgezondheid, Welzijn en Sport worden dienovereenkomstig gewijzigd. 
 
 ### Artikel  3  
 
@@ -33,4 +33,4 @@ J. P. Balkenende
 de *achtste* augustus 2002 
 
 De Minister van Justitie a.i., 
-J. P. Balkenende    
+J. P. Balkenende     

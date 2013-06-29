@@ -2,9 +2,9 @@
 
 ##Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW
 
-Het Uitvoeringsinstituut werknemersverzekeringen,  
+Het Uitvoeringsinstituut werknemersverzekeringen,
 Gelet op [artikel 63a, zevende lid, van de Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);
-Besluit:    
+Besluit: 
 
 ### Artikel  1  
 
@@ -12,24 +12,24 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *ZW:* de [Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);  
+a.  *ZW:* de [Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md);   
 
-b. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen;  
+b.  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen;  
 
-c. Wfsv: de [Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).    
+c. Wfsv: de [Wet financiering sociale verzekeringen](../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
 ####Toetsing voorstellen voor beslissingen
 
-1.  De eigenrisicodrager legt een voorstel voor een beslissing aan het UWV voor.   
-2.  De eigenrisicodrager bereidt de beslissing op zorgvuldige wijze voor, waarbij het voorstel wordt gedragen door de onderliggende feiten.   
-3.  De eigenrisicodrager doet zijn voorstel voor een beslissing op een door het UWV daartoe beschikbaar gesteld formulier en stuurt zo spoedig mogelijk nadat hij redelijkerwijze had kunnen weten dat het UWV een beslissing moet nemen en via een beschikking bekend moet maken, dit formulier aan het UWV.   
-4.  Met het in het eerste lid bedoelde voorstel voor een beslissing worden alle op de zaak betrekking hebbende stukken meegezonden.   
-5.  Het UWV verzekert zich ervan dat de voorbereiding van de beslissing door de eigenrisicodrager op zorgvuldige wijze heeft plaatsgevonden en dat het voorstel wordt gedragen door de onderliggende feiten.   
-6.  Indien de eigenrisicodrager het voorstel naar het oordeel van het UWV niet of niet voldoende zorgvuldig heeft voorbereid, wordt de eigenrisicodrager in de gelegenheid gesteld dit verzuim te herstellen binnen een hem door het UWV gestelde termijn.   
-7.  Indien de eigenrisicodrager binnen de gestelde termijn het verzuim niet of niet voldoende heeft hersteld, verricht het UWV de werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), of onderdelen daarvan.   
-8.  Het UWV maakt de beschikking zo spoedig mogelijk bekend.   
+1. De eigenrisicodrager legt een voorstel voor een beslissing aan het UWV voor.
+2. De eigenrisicodrager bereidt de beslissing op zorgvuldige wijze voor, waarbij het voorstel wordt gedragen door de onderliggende feiten.
+3. De eigenrisicodrager doet zijn voorstel voor een beslissing op een door het UWV daartoe beschikbaar gesteld formulier en stuurt zo spoedig mogelijk nadat hij redelijkerwijze had kunnen weten dat het UWV een beslissing moet nemen en via een beschikking bekend moet maken, dit formulier aan het UWV.
+4. Met het in het eerste lid bedoelde voorstel voor een beslissing worden alle op de zaak betrekking hebbende stukken meegezonden.
+5. Het UWV verzekert zich ervan dat de voorbereiding van de beslissing door de eigenrisicodrager op zorgvuldige wijze heeft plaatsgevonden en dat het voorstel wordt gedragen door de onderliggende feiten.
+6. Indien de eigenrisicodrager het voorstel naar het oordeel van het UWV niet of niet voldoende zorgvuldig heeft voorbereid, wordt de eigenrisicodrager in de gelegenheid gesteld dit verzuim te herstellen binnen een hem door het UWV gestelde termijn.
+7. Indien de eigenrisicodrager binnen de gestelde termijn het verzuim niet of niet voldoende heeft hersteld, verricht het UWV de werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), of onderdelen daarvan.
+8. Het UWV maakt de beschikking zo spoedig mogelijk bekend. 
 
 ### Artikel  3  
 
@@ -107,28 +107,28 @@ e. Beoordeling Maatregel Ziektewet € 29.
 2.  Het UWV brengt ter zake van verhaal van ziekengeld door het UWV op grond van [artikel 63a, derde en vijfde lid, van de ZW](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) de eigenrisicodrager de feitelijk gemaakte kosten van buitengerechtelijke en gerechtelijke invordering in rekening.   
 3.  Indien het UWV naast het ziekengeld een bedrag aan wettelijke rente heeft betaald wegens het te laat betalen van ziekengeld, brengt het UWV ook de wettelijke rente in rekening bij de eigenrisicodrager.   
 
-### Artikel  7  
+###Artikel 7 
 
 ####Schadevergoeding, griffierecht en proceskosten na onrechtmatig gebleken beschikking
 
-1.  Indien blijkt dat een door het UWV genomen beschikking onrechtmatig is, en op grond van het Besluit Schadebeleid dan wel op grond van een rechterlijke uitspraak, een schadevergoeding verschuldigd is, betaalt het UWV de schadevergoeding.   
-2.  Indien de kosten, bedoeld in [artikel 7:15, tweede lid](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of het griffierecht bedoeld in [art. 8:74, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) moeten worden vergoed, betaalt het UWV die vergoeding.   
+1. Indien blijkt dat een door het UWV genomen beschikking onrechtmatig is, en op grond van het Besluit Schadebeleid dan wel op grond van een rechterlijke uitspraak, een schadevergoeding verschuldigd is, betaalt het UWV de schadevergoeding.
+2. Indien de kosten, bedoeld in [artikel 7:15, tweede lid](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), of [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of het griffierecht bedoeld in [art. 8:74, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) moeten worden vergoed, betaalt het UWV die vergoeding. 
 
-### Artikel  8  
+###Artikel 8 
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW.  
+Dit besluit wordt aangehaald als: Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW. 
 
-### Artikel  9  
+###Artikel 9 
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.  
-Dit besluit zal, na goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, met de toelichting in de Staatscourant worden geplaatst.   
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.
+Dit besluit zal, na goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, met de toelichting in de Staatscourant worden geplaatst.
 
-Amsterdam 
-7 april 2003    
+Amsterdam
+7 april 2003
 
-T.H.J. Joustra  
-voorzitter Raad van bestuur UWV     
+T.H.J.Joustra
+voorzitter Raad van bestuur UWV

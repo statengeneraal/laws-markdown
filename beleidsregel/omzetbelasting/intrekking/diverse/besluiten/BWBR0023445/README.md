@@ -18,16 +18,16 @@ De onderstaande besluiten zijn met ingang van de dagtekening van dit besluit ing
 
 | Nummer  | Datum  | Verkorte inhoud  | Reden  |
 |:---|:---|:---|:---|
-|  [B70/14973](../../../../../../beleidsregel/exploitanten/van/stationsrijwielstallingen/en/stationskruierijen/BWBR0002723/README.md)   | 31-07-1970  | Stationsrijwielstallingen en stationskruierijen  | achterhaald  |
-|  [277-4704](../../../../../../beleidsregel/toepassing/van/artikel/38/van/de/wet/op/de/omzetbelasting/1968/BWBR0003099/README.md)   | 01-04-1977  | Toepassing [artikel 38 Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  | beschrijvend  |
+| [B70/14973](../../../../../../beleidsregel/exploitanten/van/stationsrijwielstallingen/en/stationskruierijen/BWBR0002723/README.md)  | 31-07-1970  | Stationsrijwielstallingen en stationskruierijen  | achterhaald  |
+| [277-4704](../../../../../../beleidsregel/toepassing/van/artikel/38/van/de/wet/op/de/omzetbelasting/1968/BWBR0003099/README.md)  | 01-04-1977  | Toepassing [artikel 38 Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)  | beschrijvend  |
 | VB88/1755  | 01-11-1988  | Heffing omzetbelasting mbt schadeloosstellingen voor het afmaken van vee  | beschrijvend  |
-|  [VB89/13](../../../../../../beleidsregel/verwijderen/van/zijruiten/bij/bestelauto's/BWBR0004595/README.md)   | 12-07-1989  | Verwijderen van zijruiten bij bestelauto’s  | achterhaald  |
+| [VB89/13](../../../../../../beleidsregel/verwijderen/van/zijruiten/bij/bestelauto's/BWBR0004595/README.md)  | 12-07-1989  | Verwijderen van zijruiten bij bestelauto’s  | achterhaald  |
 | VB89/1585  | 15-09-1989  | Verwijderen van zijruiten bij bestelauto’s  | achterhaald  |
-|  [VB92/1540](../../../../../../beleidsregel/heffing/van/omzetbelasting/ten/aanzien/van/de/handel/in/oude/materialen/en/etc/BWBR0005588/README.md)   | 07-07-1992  | Heffing omzetbelasting mbt oude materialen en afvalstoffen  | achterhaald  |
+| [VB92/1540](../../../../../../beleidsregel/heffing/van/omzetbelasting/ten/aanzien/van/de/handel/in/oude/materialen/en/etc/BWBR0005588/README.md)  | 07-07-1992  | Heffing omzetbelasting mbt oude materialen en afvalstoffen  | achterhaald  |
 | RTB2000/1197M  | 02-08-2000  | Stichting derdengelden  | achterhaald  |
-|  [CPP2003/2085M](../../../../../../beleidsregel/omzetbelasting/gebruik/van/munten/in/een/cafédancing/BWBR0015776/README.md)   | 23-10-2003  | Gebruik van munten in een café/dancing  | casuïstisch/ beschrijvend  |
-|  [CPP2004/993M](../../../../../../beleidsregel/omzetbelasting/vertraagde/uitreiking/van/btw-identificatienummers/door/etc/BWBR0016662/README.md)   | 29-04-2004  | Vertraagde uitreiking BTW-identificatienummers door nieuwe lidstaten  | achterhaald  |
-|  [CPP2007/285M](../../../../../../beleidsregel/omzetbelasting/overgangsregeling/heffing/van/omzetbelasting/over/etc/BWBR0021524/README.md)   | 08-03-2007  | Overgangsregeling arbitragediensten  | achterhaald  |
+| [CPP2003/2085M](../../../../../../beleidsregel/omzetbelasting/gebruik/van/munten/in/een/cafédancing/BWBR0015776/README.md)  | 23-10-2003  | Gebruik van munten in een café/dancing  | casuïstisch/ beschrijvend  |
+| [CPP2004/993M](../../../../../../beleidsregel/omzetbelasting/vertraagde/uitreiking/van/btw-identificatienummers/door/etc/BWBR0016662/README.md)  | 29-04-2004  | Vertraagde uitreiking BTW-identificatienummers door nieuwe lidstaten  | achterhaald  |
+| [CPP2007/285M](../../../../../../beleidsregel/omzetbelasting/overgangsregeling/heffing/van/omzetbelasting/over/etc/BWBR0021524/README.md)  | 08-03-2007  | Overgangsregeling arbitragediensten  | achterhaald  |
 
 ### 3  
 
@@ -39,6 +39,6 @@ Den Haag
 29 januari 2008   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
-directeur-generaalBelastingdienst, 
-J.Thunnissen   
+Staatssecretaris van Financiën, namens deze:de 
+directeur-generaal Belastingdienst, 
+J. Thunnissen     

@@ -4,21 +4,24 @@
 
 De Minister voor Ontwikkelingssamenwerking,  
 Gelet op [artikel 3, eerste en tweede lid, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken](../../../../../../../../wet/kaderwet/subsidies/ministerie/van/buitenlandse/zaken/BWBR0010178/README.md);
-Besluit:    
+Besluit:   
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2006 
 
-Wijzigt de Subsidieregeling Ministerie van Buitenlandse Zaken.   
+Wijzigt de Subsidieregeling Ministerie van Buitenlandse Zaken.
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2006 
 
 Subsidie op grond van [Hoofdstuk II, Afdeling 5a van de Subsidieregeling Ministerie van Buitenlandse Zaken](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/BWBR0010173/README.md) kan uitsluitend worden verleend voor aanvragen die voor 1 januari 2004 zijn ingediend.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2006 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 17 mei 2002. [Hoofdstuk II, Afdeling 5a van de Subsidieregeling Ministerie van Buitenlandse Zaken](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/BWBR0010173/README.md) vervalt met ingang van 1 januari 2005.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 17 mei 2002. [Hoofdstuk II, Afdeling 5a van de Subsidieregeling Ministerie van Buitenlandse Zaken](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/BWBR0010173/README.md) vervalt met ingang van 1 januari 2005. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister voor Ontwikkelingssamenwerking
-A.M.A. vanArdenne-van der Hoeven    
+Minister voor Ontwikkelingssamenwerking 
+A.M.A. van Ardenne-van der Hoeven      

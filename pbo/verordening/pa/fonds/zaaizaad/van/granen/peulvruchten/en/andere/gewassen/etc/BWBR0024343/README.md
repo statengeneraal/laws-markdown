@@ -17,7 +17,7 @@ Besluit:
 
 a. de opbrengst van de heffing uit hoofde van de [Heffingsverordening PA zaaizaad van granen, peulvruchten en andere gewassen](../../../../../../../../../../../../../pbo/heffingsverordening/pa/fonds/zaaizaad/van/granen/peulvruchten/en/andere/etc/BWBR0024480/README.md);  
 
-b. de van de middelen van het fonds gekweekte rente.     
+b. de van de middelen van het fonds gekweekte rente.    
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ a. bijdragen in de financiering van aangelegenheden verband houdende met het opt
 
 b. door derden ten behoeve van het productschap verrichte, met de taak van het productschap verband houdende, werkzaamheden;  
 
-c. bijdragen aan de Hoofdfunctie Bestuur van het productschap indien het bedrag genoemd in artikel 1, vierde lid, dreigt te worden overschreden.    
+c. bijdragen aan de Hoofdfunctie Bestuur van het productschap indien het bedrag genoemd in artikel 1, vierde lid, dreigt te worden overschreden.   
 
 ### §  2  
 
@@ -35,11 +35,11 @@ c. bijdragen aan de Hoofdfunctie Bestuur van het productschap indien het bedrag 
 
 ### Artikel  3  
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008.  
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008. 
 
 ### Artikel  4  
 
-Deze verordening wordt aangehaald als: Verordening PA fonds zaaizaad van granen, peulvruchten en andere gewassen 2008.  
+Deze verordening wordt aangehaald als: Verordening PA fonds zaaizaad van granen, peulvruchten en andere gewassen 2008. 
 
 Den Haag 
 5 juni 2008   

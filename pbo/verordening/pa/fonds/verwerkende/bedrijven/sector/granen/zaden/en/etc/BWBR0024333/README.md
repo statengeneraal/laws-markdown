@@ -19,12 +19,12 @@ a. een éénmalige bijdrage uit de algemene middelen van het productschap;
 
 b. de baten van het Bestemmingsfonds verwerkende bedrijven van het voormalige Productschap Granen, Zaden en Peulvruchten;  
 
-c. de van de middelen van het fonds gekweekte rente.     
+c. de van de middelen van het fonds gekweekte rente.    
 
 ### Artikel  2  
 
 1.  Het bestuur van het productschap kan ten laste van het fonds bijdragen ter beschikking stellen ten behoeve van het bevorderen van maatregelen die direct of indirect tot doel hebben de productie en afzet van de verwerkende bedrijven in de sector granen, zaden en peulvruchten te versterken.   
-2.  Het bestuur kan aan de verlening van de bijdragen voorwaarden verbinden.   
+2.  Het bestuur kan aan de verlening van de bijdragen voorwaarden verbinden.  
 
 ### §  2  
 
@@ -32,16 +32,16 @@ c. de van de middelen van het fonds gekweekte rente.
 
 ### Artikel  3  
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008.  
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008. 
 
 ### Artikel  4  
 
-Deze verordening wordt aangehaald als: Verordening PA fonds verwerkende bedrijven sector granen, zaden en peulvruchten 2008.  
+Deze verordening wordt aangehaald als: Verordening PA fonds verwerkende bedrijven sector granen, zaden en peulvruchten 2008. 
 
 Den Haag 
 5 juni 2008   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
 M. Elema  

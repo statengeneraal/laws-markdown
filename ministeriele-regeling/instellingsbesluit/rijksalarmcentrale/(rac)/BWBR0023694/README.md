@@ -20,7 +20,7 @@ Besluiten:
 
 ####Rijks Alarm Centrale
 
-Er is een Rijks Alarm Centrale (RAC), die deel uitmaakt van het Korps landelijke politiediensten (KLPD).  
+Er is een Rijks Alarm Centrale (RAC), die deel uitmaakt van het Korps landelijke politiediensten (KLPD). 
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ Er is een Rijks Alarm Centrale (RAC), die deel uitmaakt van het Korps landelijke
 
 1.  De RAC is de ontvangstcentrale voor alarmeringen met betrekking tot personen, objecten of informatie, waarvoor de rijksoverheid een bijzondere (veiligheids)verantwoordelijkheid kent.   
 2.  De RAC geleidt de ten aanzien van de personen en objecten, die op basis van het Stelsel bewaken en beveiligen dan wel in het kader van preventieve (informatie)beveiliging zijn aangesloten op de RAC, ontvangen signaleringsinformatie over ondermeer overval-, alarm, brand-inbraak, etc. onmiddellijk door aan de lokale politie-organisatie voor alarmopvolging.   
-3.  Aan de leden van de rechterlijke macht en politieambtenaren als bedoeld in [artikel 3 van de Politiewet](../../../../../wet/politiewet/1993/BWBR0006299/README.md), worden in het kader van preventieve informatiebeveiliging slechts aansluitingen op de RAC verstekt, indien zij voldoen aan de – door de stuurgroep goedgekeurde – vereiste criteria.   
+3.  Aan de leden van de rechterlijke macht en politieambtenaren als bedoeld in [artikel 3 van de Politiewet](../../../../../wet/politiewet/1993/BWBR0006299/README.md), worden in het kader van preventieve informatiebeveiliging slechts aansluitingen op de RAC verstekt, indien zij voldoen aan de – door de stuurgroep goedgekeurde – vereiste criteria.  
 
 ### Artikel  3  
 
@@ -51,7 +51,7 @@ Er is een Rijks Alarm Centrale (RAC), die deel uitmaakt van het Korps landelijke
 – Goedkeuren begroting.  
 
 – Instemmen met de jaarrekening.     
-4.  In het geval er onduidelijkheid bestaat over de beslissingsbevoegdheid ten aanzien van de aansluiting van een persoon of object op de RAC, wordt deze beslissing door de voorzitter van de stuurgroep genomen, nadat deze de overige leden van de stuurgroep heeft gehoord.   
+4.  In het geval er onduidelijkheid bestaat over de beslissingsbevoegdheid ten aanzien van de aansluiting van een persoon of object op de RAC, wordt deze beslissing door de voorzitter van de stuurgroep genomen, nadat deze de overige leden van de stuurgroep heeft gehoord.  
 
 ### Artikel  4  
 
@@ -61,7 +61,7 @@ In het kader van het verantwoordingsstramien van het KLPD aan de beheerder legt 
 
 – uiterlijk 1 oktober voorafgaand aan het jaar waarin de kosten worden gemaakt een begroting over aan de stuurgroep RAC, waarin inzichtelijk wordt gemaakt welke kostenposten door het KLPD in het kader van de RAC zullen worden gemaakt.  
 
-– uiterlijk aan het einde van het eerste kwartaal volgend op het jaar waarin de kosten daadwerkelijk zijn gemaakt, verantwoording af aan de RAC-stuurgroep over de gemaakte kosten door middel van een specificatie in de jaarrekening KLPD.    
+– uiterlijk aan het einde van het eerste kwartaal volgend op het jaar waarin de kosten daadwerkelijk zijn gemaakt, verantwoording af aan de RAC-stuurgroep over de gemaakte kosten door middel van een specificatie in de jaarrekening KLPD.   
 
 ### Artikel  5  
 
@@ -69,35 +69,35 @@ In het kader van het verantwoordingsstramien van het KLPD aan de beheerder legt 
 
 1.  De RAC wordt centraal gefinancierd.   
 2.  De financiering heeft betrekking op: de personeelskosten, de technische apparatuur en de infrastructuur van de RAC centrale.   
-3.  Onder de RAC-gelden vallen niet de benodigde financiën op de klantlocatie, te weten: het het aanbrengen/installeren en alle daarmee verband houdende exploitatielasten van de installatie en de huur van data/ISDN-lijnen.   
+3.  Onder de RAC-gelden vallen niet de benodigde financiën op de klantlocatie, te weten: het het aanbrengen/installeren en alle daarmee verband houdende exploitatielasten van de installatie en de huur van data/ISDN-lijnen.  
 
 ### Artikel  6  
 
 ####Publicatie
 
-Dit besluit zal worden gepubliceerd in de Staatscourant.  
+Dit besluit zal worden gepubliceerd in de Staatscourant. 
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met terugwerkende kracht met ingang van 1 januari 2007.  
+Dit besluit treedt in werking met terugwerkende kracht met ingang van 1 januari 2007. 
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als Instellingsbesluit Rijksalarmcentrale (RAC).  
+Dit besluit wordt aangehaald als Instellingsbesluit Rijksalarmcentrale (RAC). 
 
 Den Haag 
 22 januari 2008   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 Nationaal Coördinator Terrorismebestrijding, 
-T.H.J.Joustra 
+T.H.J. Joustra   
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze:de 
 Directeur-generaal Veiligheid, 
-H.W.M.Schoof   
+H.W.M. Schoof     

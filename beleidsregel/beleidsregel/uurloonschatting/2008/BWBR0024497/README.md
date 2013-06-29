@@ -18,7 +18,7 @@ b. maatgevende arbeid: arbeid verricht door de gelijksoortige gezonde persoon al
 
 c. mediane uurloon: uurloon als bedoeld in [artikel 10, eerste lid, onderdeel b, van het Schattingsbesluit arbeidsongeschiktheidswetten](../../../../../AMvB/schattingsbesluit/arbeidsongeschiktheidswetten/BWBR0011478/README.md)  
 
-d. SBC code: een Standaard Beroepenclassificatie, waarin soortgelijke functies worden gekoppeld.    
+d. SBC code: een Standaard Beroepenclassificatie, waarin soortgelijke functies worden gekoppeld.   
 
 ### Artikel  2  
 
@@ -30,41 +30,41 @@ d. SBC code: een Standaard Beroepenclassificatie, waarin soortgelijke functies w
 a. De urenomvang wordt per SBC-code gesteld op de grootste urenomvang van de binnen de SBC-code geselecteerde functies.  
 
 b. Vervolgens wordt van de drie bij de schatting gehanteerde SBC-codes de kleinste urenomvang aangehouden.     
-3.  Is betrokkene op medische gronden minder dan het aantal uren van de maatgevende arbeid belastbaar, dan wordt het eerste lid pas toegepast nadat het mediane uurloon overeenkomstig [artikel 6 van het Schattingsbesluit arbeidsongeschiktheidswetten](../../../../../AMvB/schattingsbesluit/arbeidsongeschiktheidswetten/BWBR0011478/README.md) is gemaximeerd op het maatmaninkomen per uur.   
+3.  Is betrokkene op medische gronden minder dan het aantal uren van de maatgevende arbeid belastbaar, dan wordt het eerste lid pas toegepast nadat het mediane uurloon overeenkomstig [artikel 6 van het Schattingsbesluit arbeidsongeschiktheidswetten](../../../../../AMvB/schattingsbesluit/arbeidsongeschiktheidswetten/BWBR0011478/README.md) is gemaximeerd op het maatmaninkomen per uur.  
 
 ### Artikel  3  
 
 ####Feitelijk verrichte arbeid
 
-Wordt bij het bepalen van hetgeen nog kan worden verdiend uitgegaan van feitelijk verrichte arbeid met een urenomvang kleiner dan de urenomvang van de maatgevende arbeid, dan wordt het uurloon van de feitelijk verrichte arbeid vermenigvuldigd met een factor a/b, waarbij a gelijk is aan de urenomvang van de feitelijk verrichte arbeid en b is gelijk aan de urenomvang van de maatgevende arbeid.  
+Wordt bij het bepalen van hetgeen nog kan worden verdiend uitgegaan van feitelijk verrichte arbeid met een urenomvang kleiner dan de urenomvang van de maatgevende arbeid, dan wordt het uurloon van de feitelijk verrichte arbeid vermenigvuldigd met een factor a/b, waarbij a gelijk is aan de urenomvang van de feitelijk verrichte arbeid en b is gelijk aan de urenomvang van de maatgevende arbeid. 
 
 ### Artikel  4  
 
 ####Toepassingsbereik
 
-Dit Besluit is niet van toepassing op personen die voor of op 1 juli 1959 geboren zijn en voor wie het recht op uitkering voor 1 oktober 2004 is ingegaan en niet op personen op wie het tot 1 januari 1987 of het tot 1 augustus 1993 geldende arbeidsongeschiktheidscriterium van toepassing is.  
+Dit Besluit is niet van toepassing op personen die voor of op 1 juli 1959 geboren zijn en voor wie het recht op uitkering voor 1 oktober 2004 is ingegaan en niet op personen op wie het tot 1 januari 1987 of het tot 1 augustus 1993 geldende arbeidsongeschiktheidscriterium van toepassing is. 
 
 ### Artikel  5  
 
 ####Intrekking besluit
 
-Het [Besluit beleidsregels uurloonschatting 2004](../../../../../zbo/besluit/beleidsregels/uurloonschatting/2004/BWBR0017195/README.md) wordt ingetrokken.  
+Het [Besluit beleidsregels uurloonschatting 2004](../../../../../zbo/besluit/beleidsregels/uurloonschatting/2004/BWBR0017195/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 2 maart 2007.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 2 maart 2007. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Beleidsregel uurloonschatting 2008.  
+Dit besluit wordt aangehaald als: Beleidsregel uurloonschatting 2008. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 12 augustus 2008   
 
-Voorzitter Raad van BestuurUWV, 
-J.M.Linthorst   
+Voorzitter Raad van Bestuur  UWV, 
+J.M. Linthorst     

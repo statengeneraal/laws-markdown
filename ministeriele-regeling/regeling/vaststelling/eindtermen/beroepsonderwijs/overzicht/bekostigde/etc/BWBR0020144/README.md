@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 augustus 2006, nr. TRCJZ/2006/2293, houdende vaststelling eindtermen beroepsonderwijs, overzicht bekostigde beroepsopleidingen en kwalificatieprofielen experimenten op het gebied van de landbouw en de natuurlijke omgeving
+##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 augustus 2006, nr. TRCJZ/2006/2293, houdende vaststelling eindtermen beroepsonderwijs, overzicht bekostigde beroepsopleidingen en kwalificatieprofielen experimenten op het gebied van de landbouw en de natuurlijke omgeving 
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Gelet op [artikel 7.2.4, tweede lid en derde lid](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) a en [artikel 2.1.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 2.2.3, derde lid, van het Uitvoeringsbesluit WEB](../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md);
@@ -27,7 +27,7 @@ a. de eindtermen;
 
 b. de onderverdeling in deelkwalificaties, en  
 
-c. de onderverdeling in deelkwalificaties die verplicht zijn voor het behalen van het diploma van de desbetreffende beroepsopleiding.     
+c. de onderverdeling in deelkwalificaties die verplicht zijn voor het behalen van het diploma van de desbetreffende beroepsopleiding.    
 
 ### Artikel  2  
 
@@ -43,15 +43,15 @@ c. de leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en ber
 
 d. of de beroepsopleiding voor bekostiging in aanmerking komt, en  
 
-e. de prijsfactor, bedoeld in [artikel 2.2.3, derde lid van het Uitvoeringsbesluit WEB](../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).     
+e. de prijsfactor, bedoeld in [artikel 2.2.3, derde lid van het Uitvoeringsbesluit WEB](../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).    
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 31 augustus 2005.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 31 augustus 2005. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling vaststelling eindtermen beroepsonderwijs, overzicht bekostigde beroepsopleidingen en kwalificatieprofielen experimenten op het gebied van de landbouw en de natuurlijke omgeving.  
+Deze regeling wordt aangehaald als: Regeling vaststelling eindtermen beroepsonderwijs, overzicht bekostigde beroepsopleidingen en kwalificatieprofielen experimenten op het gebied van de landbouw en de natuurlijke omgeving. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Landbouw, Natuur en Voedselkwaliteit en voor wat betreft de bijlagen 1, 3 en 5 tevens worden gepubliceerd op de websites www.cfi.nl en www.groenkennisnet.nl.   
 
 Den Haag 
@@ -59,28 +59,28 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C.P.Veerman  
+C.P. Veerman    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  
+Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  
+Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-### Bijlage  3  
+###Bijlage 3 
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  
+Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-### Bijlage  4  
+###Bijlage 4 
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  
+Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-### Bijlage  5  
+###Bijlage 5 
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  
+Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-### Bijlage  6  
+###Bijlage 6 
 
-Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.  
+Ligt ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit.

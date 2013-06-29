@@ -10,17 +10,17 @@ Besluit:
 
 ### Artikel  1  
 
-1.  De in [artikel 3.31 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde willekeurige afschrijving milieu-bedrijfsmiddelen wordt buiten toepassing gesteld met verplichtingen die zijn aangegaan of voortbrengingskosten die zijn gemaakt op of na 28 november doch voor 1 januari 2008.   
+1.  De in [artikel 3.31 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde willekeurige afschrijving milieu-bedrijfsmiddelen wordt buiten toepassing gesteld met verplichtingen die zijn aangegaan of voortbrengingskosten die zijn gemaakt op of na 28 november doch voor 1 januari 2008.  
 
 ### Artikel  2  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 28 november 2007.  
+Deze regeling treedt in werking met ingang van de tweede dag na die van de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 28 november 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Financiën, 
-J.C. deJager   
+J.C. de Jager     

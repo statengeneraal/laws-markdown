@@ -20,15 +20,15 @@ De telkenjare, gerekend vanaf 1 januari tot en met 31 december, aan de voorzit
 
 ### Artikel  2  
 
-De toekenning geschiedt door Onze Minister van Onderwijs, Cultuur en Wetenschap.  
+De toekenning geschiedt door Onze Minister van Onderwijs, Cultuur en Wetenschap. 
 
 ### Artikel  3  
 
-Indien aan de voorzitter of een der overige leden in de loop van enig jaar ontslag wordt verleend, dan wel indien de voorzitter of een der overige leden in de loop van enig jaar in functie treedt, wordt de in artikel 1 bedoelde toelage voor dat jaar bepaald naar evenredigheid van het aantal maanden waarin betrokkene zijn functie heeft vervuld.  
+Indien aan de voorzitter of een der overige leden in de loop van enig jaar ontslag wordt verleend, dan wel indien de voorzitter of een der overige leden in de loop van enig jaar in functie treedt, wordt de in artikel 1 bedoelde toelage voor dat jaar bepaald naar evenredigheid van het aantal maanden waarin betrokkene zijn functie heeft vervuld. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de derde dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2008.  
+Dit besluit treedt in werking met ingang van de derde dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2008. 
 Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit, waarvan mededeling zal worden gedaan in de Staatscourant en waarvan afschift zal worden gezonden aan Onze Minister van Financiën.   
 
 Den Haag 
@@ -37,4 +37,4 @@ Beatrix
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk   
+R.H.A. Plasterk     

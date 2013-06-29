@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet studiefinanciering 2000.   
+Wijzigt de Wet studiefinanciering 2000. 
 
 ### Artikel  II  
 
-Wijzigt de Aanpassingswet Algemene wet inkomensafhankelijke regelingen.   
+Wijzigt de Aanpassingswet Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek. 
 
 ### Artikel  IV  
 
-Wijzigt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.   
+Wijzigt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing. 
 
 ### Artikel  V  
 
-Wijzigt de Wet tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met onder meer invoering van leerrechten in het hoger onderwijs, herziening van de collegegeldsystematiek, invoering van het collegegeldkrediet en invoering van een nieuw aflossingssysteem (financiering in het hoger onderwijs).   
+Wijzigt de Wet tot wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet studiefinanciering 2000 in verband met onder meer invoering van leerrechten in het hoger onderwijs, herziening van de collegegeldsystematiek, invoering van het collegegeldkrediet en invoering van een nieuw aflossingssysteem (financiering in het hoger onderwijs). 
 
 ### Artikel  VI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VII  
 
@@ -46,11 +46,11 @@ b. voor studerenden waarvoor op grond van [artikel 3.10 van de Wet studiefinanci
 c. voor studerenden waarvoor op grond van [artikel 3.10 van de Wet studiefinanciering 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) wordt uitgegaan van het tweede jaar na het peiljaar, een vrije voet van € 15 754,81 wordt gebruikt, en  
 
 d. voor studerenden waarvoor op grond van [artikel 3.10 van de Wet studiefinanciering 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) wordt uitgegaan van het tweede jaar na het peiljaar en waarvoor de laatste volzin van [artikel 3.9, derde lid, van de Wet studiefinanciering 2000](../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) toepassing vindt, een vrije voet van € 20 067,93 wordt gebruikt.     
-4.  De compensatie wordt toegekend als gift en wordt uitbetaald in het eerste kwartaal van 2008.   
+4.  De compensatie wordt toegekend als gift en wordt uitbetaald in het eerste kwartaal van 2008.  
 
 ### Artikel  VIII  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de artikelen I, II en VII terug kunnen werken tot en met 1 januari 2006.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat de artikelen I, II en VII terug kunnen werken tot en met 1 januari 2006. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -58,13 +58,13 @@ Gegeven te ’s-Gravenhage
 16 mei 2007  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-R. H. A.Plasterk 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+R. H. A. Plasterk   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+G. Verburg   
 
 de *twaalfde* juni 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

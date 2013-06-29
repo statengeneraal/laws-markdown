@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Mandaatbesluit ambtenaren Douane
+##Mandaatbesluit ambtenaren Douane 
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
 Gelet op de instemming, bedoeld in [artikel 10:4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van de Staatssecretaris van Financiën van 23 juni 2003;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,7 +12,7 @@ De ambtenaren van de Belastingdienst bevoegd inzake douane van het Ministerie va
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2003.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2003. 
 Dit besluit wordt met toelichting in de Staatscourant geplaatst.   
 
 's-Gravenhage 
@@ -20,4 +20,4 @@ Dit besluit wordt met toelichting in de Staatscourant geplaatst.
 
 De 
 Minister van Landbouw, Natuurbeheer en Visserij, 
-C.P.Veerman    
+C.P.  Veerman      

@@ -7,12 +7,13 @@ Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/B
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 22-08-2009 
 
 1.  In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-|  *a.*   |  *Instellingsbesluit Productschap Vis*   | :  |   [Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (*Stb.* 2003, 253);  |
+|  *a.*   |  *Instellingsbesluit Productschap Vis*   | :  |  [Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (*Stb.* 2003, 253);  |
 |  *b.*   |  *productschap*   | :  | het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md);  |
 |  *c.*   |  *bestuur*   | :  | het bestuur van het productschap;  |
 |  *d.*   |  *voorzitter*   | :  | de voorzitter van het productschap;  |
@@ -49,13 +50,15 @@ Besluit:
 |  *ii.*   |  *inkoopbedrag*   | :  | de totale factuurwaarde van alle gekochte vis- of visproducten;  |
 |  *jj.*   |  *kopen*   | :  | zich in eigendom verwerven door de daarvoor gevraagde of geboden prijs te betalen ofwel de overeenkomst waarbij de ene partij zich verbindt vis of visproducten te leveren en de andere om daarvoor een prijs in geld te betalen.  |
 
-2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vaartuig direct of indirect verbinding met de wal heeft verkregen.   
+2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vaartuig direct of indirect verbinding met de wal heeft verkregen.  
 
 ### Artikel  1a  
+Materieel uitgewerkt per 22-08-2009 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2008 tot en met 31 december 2008 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2008 tot en met 31 december 2008 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 22-08-2009 
 
 Elke ondernemer is aan het productschap ten bate van het fonds een heffing verschuldigd wegens: 
 
@@ -67,9 +70,10 @@ c. het inkopen van vis of visproducten, welke fysiek in Nederland zijn of komen;
 
 d. het verkopen aan particulieren van vis of visproducten door een kleinhandelaar;  
 
-e. het kopen van maatjesharing, welke fysiek in Nederland is of komt.    
+e. het kopen van maatjesharing, welke fysiek in Nederland is of komt.   
 
 ### Artikel  3  
+Materieel uitgewerkt per 22-08-2009 
 
 1. 
 a. De heffing wegens de handeling, bedoeld in artikel 2, onder a, bedraagt 0,7 promille van de waarde van de met een kotter aangevoerde zeevis met uitzondering van garnalen.  
@@ -101,18 +105,20 @@ c. De conversiefactor voor gepelde garnalen als bedoeld in het eerste lid onder 
 a. Vis en visproducten zijn eenmalig onderhevig aan een heffing als bedoeld in artikel 2, onder b en onder c. Op het inkoopbedrag, als bedoeld in het derde lid, dient derhalve het inkoopbedrag waarover reeds een heffing als bedoeld in artikel 2, onder b en onder c, is opgelegd aan de eerste koper, in mindering te worden gebracht.  
 
 b. Vis en visproducten zijn eenmalig onderhevig aan een heffing als bedoeld in artikel 2, onder e. Op het inkoopbedrag, als bedoeld in het vijfde lid, dient derhalve het inkoopbedrag waarover reeds een heffing als bedoeld in artikel 2, onder e, is opgelegd aan de eerste koper, in mindering te worden gebracht.     
-10.  De ondernemer, die meent dat het achtste of negende lid van dit artikel van toepassing is en hier een beroep op doet, levert hiervan zelf schriftelijk het bewijs.   
+10.  De ondernemer, die meent dat het achtste of negende lid van dit artikel van toepassing is en hier een beroep op doet, levert hiervan zelf schriftelijk het bewijs.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 22-08-2009 
 
 1.  Indien de aangevoerde zeevis, bedoeld in artikel 3, eerste lid onder a, door tussenkomst van een afslag is verhandeld geldt als waarde van de zeevis de op de afslag gemaakte bruto besomming.   
 2.  Indien de aangevoerde zeevis, bedoeld in artikel 3, eerste lid onder a, zonder tussenkomst van een afslag is verhandeld geldt als waarde van de zeevis de door de koper, voor de aan hem verkochte zeevis, betaalde koopsom.   
 3.  Indien de aangevoerde zeevis, bedoeld in artikel 3, eerste lid onder c, zonder tussenkomst van een afslag is verhandeld geldt als waarde van de zeevis 70% van de door de koper, voor de aan hem verkochte zeevis, betaalde koopsom.   
-4.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde of gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.   
+4.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde of gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 22-08-2009 
 
-Deze verordening, welke kan worden aangehaald als Verordening financiering vispromotie 2008, treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2008.  
+Deze verordening, welke kan worden aangehaald als Verordening financiering vispromotie 2008, treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2008. 
 
 Rijswijk 
 4 oktober 2007   

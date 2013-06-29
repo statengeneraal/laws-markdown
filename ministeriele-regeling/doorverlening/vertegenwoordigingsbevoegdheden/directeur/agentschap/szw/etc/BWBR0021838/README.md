@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2007, nr. AV/IR/2007/15381, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke Subsidieregeling Europees Jaar van gelijke kansen voor iedereen
+##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2007, nr. AV/IR/2007/15381, houdende doorverlening van vertegenwoordigingsbevoegdheden aan de directeur van het Agentschap SZW in verband met de uitvoering van de Tijdelijke Subsidieregeling Europees Jaar van gelijke kansen voor iedereen 
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Gelet op [artikel 22, eerste en derde lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2004/BWBR0016199/README.md);
@@ -12,21 +12,21 @@ Aan de directeur van het Agentschap SZW wordt mandaat en machtiging verleend tot
 
 a. het verlenen en vaststellen van subsidies;  
 
-b. beslissingen in bezwaar- en beroepsprocedures, met uitzondering van de beslissing op een beroepschrift.    
+b. beslissingen in bezwaar- en beroepsprocedures, met uitzondering van de beslissing op een beroepschrift.   
 
 ### Artikel  2  
 
-De directeur van het Agentschap SZW kan de bevoegdheid, bedoeld in artikel 1, onder a, in een door hem te bepalen omvang doorverlenen aan onder hem ressorterende functionarissen.  
+De directeur van het Agentschap SZW kan de bevoegdheid, bedoeld in artikel 1, onder a, in een door hem te bepalen omvang doorverlenen aan onder hem ressorterende functionarissen. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2007.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 7 mei 2007   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
+Minister van Sociale Zaken en Werkgelegenheid, namens deze:de 
 directeur-generaal Arbeidsverhoudingen en Internationale Betrekkingen, 
-T.W.Langejan   
+T.W. Langejan     

@@ -8,12 +8,12 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Voorschrift Vreemdelingen 2000.   
+Wijzigt het Voorschrift Vreemdelingen 2000. 
 
 ### Artikel  III  
 
 1.  Deze regeling treedt inwerking met ingang van de tweede dag na dagtekening van de Staatscourant en werkt terug tot en met 1 mei 2006.   
-2.  Artikel II vervalt met ingang van 1 mei 2007.   
+2.  Artikel II vervalt met ingang van 1 mei 2007.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -21,4 +21,4 @@ Den Haag
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk   
+M.C.F. Verdonk     

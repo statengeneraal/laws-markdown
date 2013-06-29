@@ -23,75 +23,75 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement.  
 
 ### Artikel  II  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal.  
 
 ### Artikel  III  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### Artikel  IV  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### Artikel  V  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### Artikel  VI  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### Artikel  VII  
 
-Wijzigt de Wet rechtspositie ministers en staatssecretarissen.   
+Wijzigt de Wet rechtspositie ministers en staatssecretarissen.  
 
 ### Artikel  VIII  
 
-Wijzigt de Wet bezoldiging Raad van State en Algemene Rekenkamer.   
+Wijzigt de Wet bezoldiging Raad van State en Algemene Rekenkamer.  
 
 ### Artikel  IX  
 
-Wijzigt de Wet bezoldiging Nationale ombudsman.   
+Wijzigt de Wet bezoldiging Nationale ombudsman.  
 
 ### Artikel  X  
 
-Wijzigt de Wet rechtspositie ministers en staatssecretarissen.   
+Wijzigt de Wet rechtspositie ministers en staatssecretarissen.  
 
 ### Artikel  XI  
 
-Wijzigt de Wet bezoldiging Raad van State en Algemene Rekenkamer.   
+Wijzigt de Wet bezoldiging Raad van State en Algemene Rekenkamer.  
 
 ### Artikel  XII  
 
-Wijzigt de Wet bezoldiging Nationale ombudsman.   
+Wijzigt de Wet bezoldiging Nationale ombudsman.  
 
 ### Artikel  XIII  
 
-Wijzigt de Wet rechtspositie ministers en staatssecretarissen.   
+Wijzigt de Wet rechtspositie ministers en staatssecretarissen.  
 
 ### Artikel  XIV  
 
-Wijzigt de Wet bezoldiging Raad van State en Algemene Rekenkamer.   
+Wijzigt de Wet bezoldiging Raad van State en Algemene Rekenkamer.  
 
 ### Artikel  XV  
 
-Wijzigt de Wet rechtspositie ministers en staatssecretarissen.   
+Wijzigt de Wet rechtspositie ministers en staatssecretarissen.  
 
 ### Artikel  XVI  
 
-Wijzigt het Besluit tegemoetkoming ziektekosten rijkspersoneel.   
+Wijzigt het Besluit tegemoetkoming ziektekosten rijkspersoneel.  
 
 ### Artikel  XVII  
 
-Wijzigt de Regeling ziektekostenvoorziening rijkspersoneel.   
+Wijzigt de Regeling ziektekostenvoorziening rijkspersoneel.  
 
 ### Artikel  XVIII  
 
-Wijzigt het Besluit vergoeding representatiekosten rijkspersoneel.   
+Wijzigt het Besluit vergoeding representatiekosten rijkspersoneel.  
 
 ### Artikel  XIX  
 
@@ -116,12 +116,12 @@ Het Besluit van 22 september 1977 (Stb. 527), houdende regeling van de vergoedin
 .  G   
 1.  De ambtenaar die op 1 juli 2002 in dienst is op grond van het [Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of het [Ambtenarenreglement Staten-Generaal](../../../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en die krachtens werktijdregeling regelmatig of vrij regelmatig arbeid verricht op andere tijden dan op de dagen maandag tot en met vrijdag tussen 8 en 18 uur heeft recht op een eenmalige uitkering.   
 2.  De eenmalige uitkering bedraagt  € 450, vermenigvuldigd met de voor de ambtenaar op 1 juli 2002 geldende arbeidsduurfactor.   
-3.  De eenmalige uitkering wordt gelijktijdig met het salaris over de maand juli 2002 uitbetaald.   
+3.  De eenmalige uitkering wordt gelijktijdig met het salaris over de maand juli 2002 uitbetaald.  
 
 ### Artikel  XXI  
 
 1.  Dit besluit, met uitzondering van de artikelen I, onderdeel G, II, onderdeel G, VI, XIII, XIV, XV, XIX en XX, onderdelen E en F, treedt in werking met ingang van 1 juni 2002, met dien verstande dat: a. artikel III, onderdeel E, terugwerkt tot en met 1 januari 2001, b. de artikelen III, met uitzondering van de onderdelen E en G, VII, VIII, IX en XX, onderdelen A, B en C, terugwerken tot en met 1 oktober 2001, c. artikel XX, onderdeel D, terugwerkt tot 1 december 2001, d. de artikelen III, onderdeel G, IV, X, XI, XII, XVII, onderdeel B, en XVIII, terugwerken tot en met 1 januari 2002, e. de artikelen I, onderdelen A tot en met F, II, onderdelen A tot en met F, V en XVI, onderdeel B, terugwerken tot en met 1 april 2002.   
-2.  De artikelen I, onderdeel G, II, onderdeel G, VI, XIII, XIV, XV, XIX en XX, onderdelen E en F, treden in werking met ingang van 1 juli 2002.   
+2.  De artikelen I, onderdeel G, II, onderdeel G, VI, XIII, XIV, XV, XIX en XX, onderdelen E en F, treden in werking met ingang van 1 juli 2002.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

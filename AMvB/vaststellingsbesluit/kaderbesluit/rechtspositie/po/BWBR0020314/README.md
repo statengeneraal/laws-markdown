@@ -17,31 +17,31 @@ Hebben goedgevonden en verstaan:
 
 ####Vaststelling Kaderbesluit rechtspositie PO
 
-[Kaderbesluit rechtspositie PO](../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md)   
+[Kaderbesluit rechtspositie PO](../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md) 
 
 ### Artikel  II  
 
 ####Wijziging van het Kaderbesluit rechtspositie PO met ingang van 1 januari 2007
 
-Wijzigt het Kaderbesluit Rechtspositie PO.   
+Wijzigt het Kaderbesluit Rechtspositie PO. 
 
 ### Artikel  III  
 
 ####Wijziging van het Kaderbesluit rechtspositie PO met ingang van 1 januari 2008
 
-Wijzigt het Kaderbesluit Rechtspositie PO.   
+Wijzigt het Kaderbesluit Rechtspositie PO. 
 
 ### Artikel  IV  
 
 ####Wijziging in andere besluiten dan het [Rechtspositiebesluit WPO/WEC](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md)
 
-Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs, het Besluit trekkende bevolking WPO, het Besluit Werkloosheid onderwijs- en onderzoekpersoneel, het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs en het Overlegbesluit onderwijspersoneel.   
+Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs, het Besluit trekkende bevolking WPO, het Besluit Werkloosheid onderwijs- en onderzoekpersoneel, het Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs en het Overlegbesluit onderwijspersoneel. 
 
 ### Artikel  V  
 
 ####Wijziging [Rechtspositiebesluit WPO/WEC](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md)
 
-Wijzigt het Rechtspositiebesluit WPO/WEC.   
+Wijzigt het Rechtspositiebesluit WPO/WEC. 
 
 ### Artikel  VI  
 
@@ -53,7 +53,7 @@ a. de artikelen I, IV en V terugwerken tot en met 1 augustus 2006;
 
 b. artikel II in werking treedt met ingang van 1 januari 2007; en  
 
-c. artikel III in werking treedt met ingang van 1 januari 2008.    
+c. artikel III in werking treedt met ingang van 1 januari 2008.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

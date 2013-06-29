@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 17-02-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 17-02-2008 
 
 In deze verordening wordt overgenomen de terminologie van het [Instellingsbesluit Hoofdbedrijfschap Agrarische Groothandel](../../../../../../../AMvB/instellingsbesluit/hoofdbedrijfschap/agrarische/groothandel/BWBR0013477/README.md) en wordt voorts verstaan onder: 
 
@@ -31,13 +34,16 @@ g) pootaardappelen: aardappelen bestemd voor vermeerderingsdoeleinden;
 
 h) consumptieaardappelen: aardappelen bestemd voor menselijke consumptie of bestemd om te worden verwerkt tot produkten bestemd voor menselijke consumptie;  
 
-i) voeraardappelen: aardappelen bestemd voor veevoer.    
+i) voeraardappelen: aardappelen bestemd voor veevoer.   
 
 ### §  2  
 
 ####Heffing
 
+Materieel uitgewerkt per 17-02-2008 
+
 ### Artikel  2  
+Materieel uitgewerkt per 17-02-2008 
 
 De ondernemer is ten behoeve van de huishoudelijke uitgaven van respectievelijk de commissie pootaardappelen en de commissie consumptie-, fabrieks- en voeraardappelen voor elke hieronder sub a t/m f respectelijk sub g t/m 1 vermelde functie die hij op enig tijdstip in het kalenderjaar 2007 uitoefent aan het hoofdbedrijfschap verschuldigd het hieronder vermelde bedrag aanheffing over zijn omzet in de periode van 1 juli 2006 tot 1 juli 2007:  
 
@@ -96,6 +102,7 @@ De ondernemer is ten behoeve van de huishoudelijke uitgaven van respectievelijk 
 | --- | --- | ≥ 500 ton:  | €  | 150,–  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 17-02-2008 
 
 1.  Aan de ondernemer die ter zake van de uitoefening van een of meer van de in artikel 2 vermelde functies: 
 
@@ -105,38 +112,46 @@ b) hetzij al dan niet rechtstreeks lid is van een organisatie van ondernemers di
 
 1e krachtens haar statutaire doelstelling haar werkzaamheid kan uitstrekken tot tenminste een belangrijk gedeelte van het terrein waarop het hoofdbedrijfschap een taak heeft te vervullen,  
 
-2e voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),  
+2e voldoet aan de kwalitatieve representativiteitscriteria, genoemd in de [artikelen 3 tot en met 7 van de Verordening representativiteit organisaties](../../../../../../../pbo/verordening/representativiteit/organisaties/BWBR0011641/README.md),   
 
-3e tot de werkingssfeer van het hoofdbedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,  
+3e tot de werkingssfeer van het hoofdbedrijfschap behorende leden heeft, waarvan het gewogen aantal niet-onbetekenend is,   
 
-4e met betrekking tot de behartiging van sociaal-economische belangen van ondernemers een positie van enige betekenis inneemt binnen de groep van ondernemers die zij beoogt te organiseren, hetgeen onder meer kan blijken uit de mate van representativiteit binnen die groep, de deelname aan het arbeidsvoorwaardenoverleg, het verrichten van studie of diensten die ook buiten die groep van belang worden geacht en de deelname aan regelmatig overleg met de overheid, en  
+4e met betrekking tot de behartiging van sociaal-economische belangen van ondernemers een positie van enige betekenis inneemt binnen de groep van ondernemers die zij beoogt te organiseren, hetgeen onder meer kan blijken uit de mate van representativiteit binnen die groep, de deelname aan het arbeidsvoorwaardenoverleg, het verrichten van studie of diensten die ook buiten die groep van belang worden geacht en de deelname aan regelmatig overleg met de overheid, en   
 
 5e haar activiteiten, al dan niet door middel van een federatie van gelijksoortige organisaties landelijk ontplooit,   wordt een aftrek op de in artikel 2 genoemde heffing toegestaan van 50% van de contributie welke hij aan die organisatie ter zake van elk van die ondernemingen voor 15 augustus van het betreffende kalenderjaar heeft voldaan, doch tot ten hoogste de helft van het bedrag van de heffing.     
-2.  Aan de ondernemers als in het eerste lid, onder b bedoeld wordt de aftrek slechts toegestaan op grond van een daartoe strekkend verzoek van het bestuur van die organisatie aan het bestuur van het hoofdbedrijfschap.   
+2.  Aan de ondernemers als in het eerste lid, onder b bedoeld wordt de aftrek slechts toegestaan op grond van een daartoe strekkend verzoek van het bestuur van die organisatie aan het bestuur van het hoofdbedrijfschap.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 17-02-2008 
 
-De heffingsaanslag dient te zijn voldaan binnen 14 dagen na verzending door of namens het hoofdbedrijfschap van de betreffende heffingsaanslag.  
+De heffingsaanslag dient te zijn voldaan binnen 14 dagen na verzending door of namens het hoofdbedrijfschap van de betreffende heffingsaanslag. 
 
 ### §  3  
 
 ####Onvoorziene gevallen
 
+Materieel uitgewerkt per 17-02-2008 
+
 ### Artikel  5  
+Materieel uitgewerkt per 17-02-2008 
 
-In gevallen waarin de strikte toepassing van deze verordening tot kennelijke onbillijkheden leidt, is de voorzitter van het hoofdbedrijfschap namens het bestuur van het hoofdbedrijfschap bevoegd – gelet op het belang dat deze verordening beoogt te beschermen – al dan niet onder het stellen van voorwaarden geheel of gedeeltelijk ontheffing van de betaling van de heffing te verlenen.  
+In gevallen waarin de strikte toepassing van deze verordening tot kennelijke onbillijkheden leidt, is de voorzitter van het hoofdbedrijfschap namens het bestuur van het hoofdbedrijfschap bevoegd – gelet op het belang dat deze verordening beoogt te beschermen – al dan niet onder het stellen van voorwaarden geheel of gedeeltelijk ontheffing van de betaling van de heffing te verlenen. 
 
-### §  4  
+### §  4 
 
 ####Slotbepalingen
 
-### Artikel  6  
+Materieel uitgewerkt per 17-02-2008 
 
-Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007.  
+### Artikel  6  
+Materieel uitgewerkt per 17-02-2008 
+
+Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt zij in werking de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 17-02-2008 
 
-Deze verordening kan worden aangehaald als: Verordening HBAG financieringsheffing aardappelen 2007.  
+Deze verordening kan worden aangehaald als: Verordening HBAG financieringsheffing aardappelen 2007. 
 
 Aalsmeer 
 21 december 2006   

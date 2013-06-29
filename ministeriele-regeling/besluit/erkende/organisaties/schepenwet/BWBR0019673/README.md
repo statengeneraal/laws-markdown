@@ -27,7 +27,7 @@ e. Lloyd’s Register of Shipping (LR) te Londen, Verenigd Koninkrijk;
 f. Nippon Kaiji Kyokai (NKK) te Tokio, Japan;  
 
 g. Registro Italiano Navale (RINA) te Genua, Italië.     
-2.  De in het eerste lid genoemde rechtspersonen zijn tevens bevoegd tot het verrichten van de bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) en [13 tot en met 18 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken.   
+2.  De in het eerste lid genoemde rechtspersonen zijn tevens bevoegd tot het verrichten van de bij of krachtens de [artikelen 8 van het Schepenbesluit 1965](../../../../../../rijksKB/schepenbesluit/1965/BWBR0002501/README.md) en [13 tot en met 18 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken.  
 
 ### Artikel  2  
 
@@ -69,8 +69,8 @@ d. Alphatron Marine B.V., te Rotterdam;
 
 e. SAM Electronics Nederland B.V., te Rotterdam;  
 
-f. Collecte Localisation Satellites, te Ramonville Saint-Agne, Frankrijk.     
-4.  Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
+f. Collecte Localisation Satellites, te Ramonville Saint-Agne, Frankrijk.    
+4.  Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland B.V. te Enkhuizen.  
 5.  Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) voorgeschreven onderzoeken, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
 6.  Als keuringsinstantie voor reddingmiddelen, bevoegd tot het verrichten van onderzoeken gericht op het onderhoud van reddingmiddelen als bedoeld in circulaire MSC.1/Circ.1206/Rev.1 van de Maritieme Veiligheidscommissie, wordt in het Koninkrijk aangewezen: Willem Pot B.V. te Rotterdam.   
 7.  Als keuringsinstantie voor tuigage, bevoegd tot het verrichten van onderzoeken aan de tuigage van zeilschepen, wordt aangewezen: Register Holland B.V. te Enkhuizen.   
@@ -84,7 +84,7 @@ c. SAM Electronics Netherlands B.V. te Rotterdam;
 
 d. Pro Nautas B.V. te Barendrecht.     
 9.  Aan de aanwijzingen, bedoeld in het derde tot en met het achtste lid, zijn de voorschriften verbonden, opgenomen in de bijlage bij dit besluit.   
-10.  Buiten het Koninkrijk zijn aangewezen als keuringsinstantie voor opblaasbare reddingmiddelen en keuringsinstantie voor reddingmiddelen als bedoeld in het tweede respectievelijk het zesde lid, de door de bevoegde autoriteiten ter plaatse erkende organisaties.   
+10.  Buiten het Koninkrijk zijn aangewezen als keuringsinstantie voor opblaasbare reddingmiddelen en keuringsinstantie voor reddingmiddelen als bedoeld in het tweede respectievelijk het zesde lid, de door de bevoegde autoriteiten ter plaatse erkende organisaties. 
 
 ### Artikel  3  
 
@@ -106,19 +106,19 @@ d. Pro Nautas B.V. te Barendrecht.
 
 ####Erkende beveiligingsorganisaties
 
-Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), worden aangewezen de in artikel 1, eerste lid, genoemde rechtspersonen.  
+Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), worden aangewezen de in artikel 1, eerste lid, genoemde rechtspersonen. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit erkende organisaties Schepenwet.  
+Dit besluit wordt aangehaald als: Besluit erkende organisaties Schepenwet. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de artikelen 1 tot en met 3 en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), artikel 4, terug tot en met 1 januari 2005.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de artikelen 1 tot en met 3 en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](../../../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md), artikel 4, terug tot en met 1 januari 2005. 
 Dit besluit zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, 
+Minister van Verkeer en Waterstaat,
 
 K.M.H. Peijs    
 
@@ -132,5 +132,5 @@ b. De instantie verstrekt de Inspectie Verkeer en Waterstaat desgevraagd of uit 
 
 c. Indien de instantie voornemens is de taken waarvoor de aanwijzing geldt te beëindigen, wordt daarvan ten minste drie maanden voor de voorgenomen datum van beëindiging mededeling gedaan aan de Inspectie Verkeer en Waterstaat, en  
 
-d. De instantie verleent onvoorwaardelijk medewerking aan audits en steekproeven, gehouden door of vanwege het Hoofd van de Scheepvaartinspectie of de inspecteur-generaal van de Inspectie Verkeer en Waterstaat met betrekking tot de taken waarvoor de aanwijzing geldt.    
+d. De instantie verleent onvoorwaardelijk medewerking aan audits en steekproeven, gehouden door of vanwege het Hoofd van de Scheepvaartinspectie of de inspecteur-generaal van de Inspectie Verkeer en Waterstaat met betrekking tot de taken waarvoor de aanwijzing geldt.   
 

@@ -16,19 +16,19 @@ Besluit:
 
 a. de opbrengst van de heffing uit hoofde van de jaarlijks vast te stellen Heffingsverordening PA fonds teeltaangelegenheden;  
 
-b. de van de middelen van het fonds gekweekte rente.     
+b. de van de middelen van het fonds gekweekte rente.    
 
 ### Artikel  2  
 
-Ten laste van het fonds kan het bestuur van het productschap, op voorstel van de Commissie Teeltaangelegenheden, subsidies en bijdragen verlenen in het belang van de teelt van akkerbouwgewassen.  
+Ten laste van het fonds kan het bestuur van het productschap, op voorstel van de Commissie Teeltaangelegenheden, subsidies en bijdragen verlenen in het belang van de teelt van akkerbouwgewassen. 
 
 ### Artikel  3  
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008.  
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008. 
 
 ### Artikel  4  
 
-Deze verordening wordt aangehaald als: Verordening PA fonds teeltaangelegenheden 2008.  
+Deze verordening wordt aangehaald als: Verordening PA fonds teeltaangelegenheden 2008. 
 
 Den Haag 
 5 juni 2008   

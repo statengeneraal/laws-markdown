@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2005, nr. LMV 2005.191530, Directie Lokale Milieukwaliteit en Verkeer, Afdeling Sturing Bodemsaneringsoperatie, houdende financiële bepalingen met betrekking tot bodemsanering (Regeling financiële bepalingen bodemsanering 2005)
+## Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 december 2005, nr. LMV 2005.191530, Directie Lokale Milieukwaliteit en Verkeer, Afdeling Sturing Bodemsaneringsoperatie, houdende financiële bepalingen met betrekking tot bodemsanering (Regeling financiële bepalingen bodemsanering 2005)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Gelet op de [artikelen 2](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [3](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [4, tweede, derde en vijfde lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [7, tweede, derde, vijfde, zesde en zevende lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [11, derde lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [13, tweede lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [20](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [21, derde lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [26, tweede lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [28](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [29, tweede lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [41, eerste lid](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), [43, van het Besluit financiële bepalingen bodemsanering](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md);
@@ -15,9 +15,9 @@ In deze regeling wordt verstaan onder:
 
 a. besluit: [Besluit financiële bepalingen bodemsanering](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md);  
 
-b. bodemsaneringprestatie-eenheid (bpe): (m <sup>2</sup> verontreinigd oppervlak x 1) + (m <sup>3</sup> verontreinigde grond x 3) + (m <sup>3</sup> verontreinigd grondwater x 0.4);  
+b. bodemsaneringprestatie-eenheid (bpe): (m<sup>2</sup> verontreinigd oppervlak x 1) + (m<sup>3</sup> verontreinigde grond x 3) + (m<sup>3</sup> verontreinigd grondwater x 0.4);  
 
-c. netto-saneringskosten: de in hoofdstuk 3 bedoelde saneringskosten verminderd met de omzetbelasting (BTW).    
+c. netto-saneringskosten: de in hoofdstuk 3 bedoelde saneringskosten verminderd met de omzetbelasting (BTW).   
 
 ### Hoofdstuk  2  
 
@@ -101,9 +101,9 @@ c. netto-saneringskosten: de in hoofdstuk 3 bedoelde saneringskosten verminderd 
 | Noord-Brabant  | 0.119  |
 | Limburg  | 0.061  |
 
-4.  De hoogte van het bedrag als bedoeld in [artikel 2, eerste lid, onder e, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) wordt bepaald aan de hand van de volgende formule:   ![202018](http://wetten.overheid.nl/Illustration/202018)
-in welke formule voorstelt: G: de werkvoorraad landbodems landelijk gebied per budgethouder;   ![202019](http://wetten.overheid.nl/Illustration/202019)
-Het budget landbodems landelijk gebied omvat het door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gereserveerde (deel)budget voor onderzoek en sanering van landbodems in landelijk gebied dat verdeeld kan worden op basis van het relatieve aandeel van iedere budgethouder in de werkvoorraad landbodems in landelijk gebied.   
+4.  De hoogte van het bedrag als bedoeld in [artikel 2, eerste lid, onder e, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) wordt bepaald aan de hand van de volgende formule:  ![202018](http://wetten.overheid.nl/Illustration/202018)
+in welke formule voorstelt: G: de werkvoorraad landbodems landelijk gebied per budgethouder;  ![202019](http://wetten.overheid.nl/Illustration/202019)
+Het budget landbodems landelijk gebied omvat het door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer gereserveerde (deel)budget voor onderzoek en sanering van landbodems in landelijk gebied dat verdeeld kan worden op basis van het relatieve aandeel van iedere budgethouder in de werkvoorraad landbodems in landelijk gebied.  
 
 ### Artikel  3  
 
@@ -123,7 +123,7 @@ f. een geval dat uitgevoerd wordt in het kader van gebiedsgerichte aanpak;
 
 g. een nieuw geval dat niet of nauwelijks kan worden uitgevoerd als gevolg van een te klein indicatief budget;  
 
-h. een geval waarbij sprake is van de sanering van een regionale waterbodem die niet of nauwelijks kan worden uitgevoerd als gevolg van een te klein indicatief budget.    
+h. een geval waarbij sprake is van de sanering van een regionale waterbodem die niet of nauwelijks kan worden uitgevoerd als gevolg van een te klein indicatief budget.   
 
 ### Artikel  4  
 
@@ -159,7 +159,7 @@ De berekening van de vergoeding voor apparaatskosten als bedoeld in [artikel 3, 
 
 ### Artikel  5  
 
-De niet-projectgebonden kosten, bedoeld in [artikel 3, tweede lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) waarvoor, voor zover het budget toereikend is, een bijdrage kan worden verstrekt hebben betrekking op het stimuleren en ondersteunen van de uitvoering van bodemsaneringen.  
+De niet-projectgebonden kosten, bedoeld in [artikel 3, tweede lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) waarvoor, voor zover het budget toereikend is, een bijdrage kan worden verstrekt hebben betrekking op het stimuleren en ondersteunen van de uitvoering van bodemsaneringen. 
 
 ### Artikel  6  
 
@@ -177,7 +177,7 @@ e. de aanpak van asbestverontreinigingen;
 
 f. andere relevante aspecten van verontreiniging van het betreffende gebied.     
 2.  In het programma wordt het aantal bpe’s opgenomen die met het te verlenen budget zullen worden gerealiseerd in de budgetperiode, alsmede de werkzaamheden met betrekking tot regionale waterbodems.   
-3.  De financiële paragraaf, bedoeld in [artikel 4, vierde lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) en het overzicht met betrekking tot de inhoud van het programma worden ingericht overeenkomstig het model dat is opgenomen in bijlage 1.   
+3.  De financiële paragraaf, bedoeld in [artikel 4, vierde lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) en het overzicht met betrekking tot de inhoud van het programma worden ingericht overeenkomstig het model dat is opgenomen in bijlage 1.  
 
 ### Hoofdstuk  3  
 
@@ -185,17 +185,17 @@ f. andere relevante aspecten van verontreiniging van het betreffende gebied.
 
 ### Artikel  8  
 
-De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) wordt bepaald aan de hand van het protocol dat is opgenomen in bijlage 6.  
+De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) wordt bepaald aan de hand van het protocol dat is opgenomen in bijlage 6. 
 
 ### Artikel  9  
 
 1.  Bij de aanvraag tot subsidieverlening wordt naast de in [artikel 13, eerste lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) genoemde gegevens tevens een begroting van de saneringskosten verstrekt, die is opgebouwd uit kostenposten zoals genoemd in bijlage 7.   
-2.  Deze begroting dient te worden opgemaakt volgens een goede werkomschrijving, waarin een duidelijk inzicht wordt geboden in de omvang en de eenheidsprijzen van werkzaamheden, en waarbij voorts geldt dat de kosten voor de aanvrager van de subsidie die betrekking hebben op de directievoering en milieukundige begeleiding van de sanering in het geval de netto-saneringskosten meer dan € 50.000 bedragen maximaal 10% van deze netto-saneringskosten mogen zijn, of in het geval deze kosten gelijk zijn aan of minder dan € 50.000 bedragen maximaal 20% van de netto-saneringskosten mogen zijn.   
+2.  Deze begroting dient te worden opgemaakt volgens een goede werkomschrijving, waarin een duidelijk inzicht wordt geboden in de omvang en de eenheidsprijzen van werkzaamheden, en waarbij voorts geldt dat de kosten voor de aanvrager van de subsidie die betrekking hebben op de directievoering en milieukundige begeleiding van de sanering in het geval de netto-saneringskosten meer dan € 50.000 bedragen maximaal 10% van deze netto-saneringskosten mogen zijn, of in het geval deze kosten gelijk zijn aan of minder dan € 50.000 bedragen maximaal 20% van de netto-saneringskosten mogen zijn.  
 
 ### Artikel  10  
 
 1.  Het financieel verslag, bedoeld in [artikel 21, tweede lid van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), gaat vergezeld van een specificatie van de werkelijke saneringskosten, opgebouwd uit kostenposten zoals genoemd in bijlage 7.   
-2.  Deze specificatie vermeldt tevens het aantal gerealiseerde bpe’s.   
+2.  Deze specificatie vermeldt tevens het aantal gerealiseerde bpe’s.  
 
 ### Artikel  11  
 
@@ -204,7 +204,7 @@ De ouderdom van de bodemverontreiniging als bedoeld in [artikel 11, derde lid, v
 a. ten minste twee concurrerende offertes van aannemers, in het geval de netto-saneringskosten op een tijdstip gelegen direct vóór de aanvang van de uitvoering van de sanering of van een fase van de sanering in totaal worden geraamd op een bedrag van ten hoogste € 50.000, of  
 
 b. ten minste drie concurrerende offertes van aannemers, in het geval de netto saneringskosten op een tijdstip gelegen direct vóór de aanvang van de uitvoering van de sanering of van een fase van de sanering in totaal worden geraamd op een bedrag hoger dan € 50.000.   Indien niet wordt gekozen voor de goedkoopste offerte, wordt een schriftelijke motivering daarvoor bij de aanvraag gevoegd.   
-2.  De aanvraag bevat tevens een verklaring van de aanvrager van de subsidie inhoudende dat slechts de saneringskosten als bedoeld in artikel 10, eerste lid, zijn betrokken bij de aanvraag tot subsidievaststelling.   
+2.  De aanvraag bevat tevens een verklaring van de aanvrager van de subsidie inhoudende dat slechts de saneringskosten als bedoeld in artikel 10, eerste lid, zijn betrokken bij de aanvraag tot subsidievaststelling.  
 
 ### Artikel  11a  
 
@@ -241,18 +241,18 @@ d. waarvan de sanering nog niet is begonnen, en
 
 e. waarbij zich één of meer van de volgende situaties voordoet: 
 
-1e. een situatie waarbij de effecten van de verontreiniging op de omgeving zodanig zijn dat gewenste ontwikkelingen in de omgeving worden geremd of beperkt,  
+1e. een situatie waarbij de effecten van de verontreiniging op de omgeving zodanig zijn dat gewenste ontwikkelingen in de omgeving worden geremd of beperkt,   
 
 2e. een situatie waarbij de sanering onderdeel vormt van verbetering van de kwaliteit van een gebied dat groter is dan alleen het bedrijfsterrein, of  
 
 3e. een grondwaterverontreiniging die zich uitstrekt buiten het bedrijfsterrein, waardoor gewenste gebruiksfuncties van de ondergrond worden beperkt.       
 3.  In de gevallen, bedoeld in het eerste en tweede lid, bestaat de korting uit een door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer vast te stellen percentage van de saneringskosten, waarbij de hoogte van het percentage voor de diverse gevallen verschillend kan worden vastgesteld.   
 4.  In de gevallen, bedoeld in het tweede lid, kan de korting slechts worden verstrekt voor zover voldaan wordt aan de eisen gesteld bij of krachtens de Verordening van de Commissie der Europese gemeenschappen (Verordening (EG) Nr. 1998/2006 (EG) betreffende de toepassing van artikel 87 en 88 van het EG-verdrag op de minimis-steun (PbEU 2006, L 379/5), dan wel daarvoor in de plaats tredende Europese regelgeving. In verband daarmee draagt de coördinerende rechtspersoon ervoor zorg dat de eigenaar of erfpachter van het bedrijfsterrein waarop de korting betrekking heeft, aan hem een verklaring overlegt overeenkomstig het model in bijlage 8a bij deze regeling omtrent de minimis-steun.   
-5.  De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan bij het verlenen van de projectsubsidie nadere voorschriften stellen met betrekking tot het bepaalde in dit artikel.   
+5.  De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kan bij het verlenen van de projectsubsidie nadere voorschriften stellen met betrekking tot het bepaalde in dit artikel.  
 
 ### Artikel  11b  
 
-De in artikel 11a, derde lid, genoemde saneringskosten betreffen de kostenposten zoals genoemd in bijlage 7.  
+De in artikel 11a, derde lid, genoemde saneringskosten betreffen de kostenposten zoals genoemd in bijlage 7. 
 
 ### Hoofdstuk  4  
 
@@ -264,12 +264,12 @@ De melding, bedoeld in [artikel 26, tweede lid, van het besluit](../../../../../
 
 a. de begroting van de saneringskosten, bedoeld in artikel 9, eerste lid;  
 
-b. de gegevens, bedoeld in bijlage 8.    
+b. de gegevens, bedoeld in bijlage 8.   
 
 ### Artikel  13  
 
 1.  De bestedingsverantwoording, bedoeld in [artikel 28 van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) wordt opgesteld overeenkomstig het in bijlage 4 opgenomen model.   
-2.  De verklaring van getrouwheid van een accountant behorend bij de bestedingsverantwoording wordt opgesteld met inachtneming van de voorschriften opgenomen in bijlage 5 bij deze regeling.   
+2.  De verklaring van getrouwheid van een accountant behorend bij de bestedingsverantwoording wordt opgesteld met inachtneming van de voorschriften opgenomen in bijlage 5 bij deze regeling.  
 
 ### Hoofdstuk  5  
 
@@ -277,7 +277,7 @@ b. de gegevens, bedoeld in bijlage 8.
 
 ### Artikel  13a  
 
-In het geval, bedoeld in [artikel 40a, eerste lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), legt de eigenaar of erfpachter tezamen met het verzoek, bedoeld in [artikel 40, tweede lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) een verklaring overeenkomstig het model in bijlage 8a bij deze regeling omtrent de minimis-steun over.  
+In het geval, bedoeld in [artikel 40a, eerste lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md), legt de eigenaar of erfpachter tezamen met het verzoek, bedoeld in [artikel 40, tweede lid, van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) een verklaring overeenkomstig het model in bijlage 8a bij deze regeling omtrent de minimis-steun over. 
 
 ### Artikel  14  
 
@@ -291,11 +291,11 @@ c. kwaliteitsborging,
 
 d. nazorg en beheer, of  
 
-e. internationale samenwerking.    
+e. internationale samenwerking.   
 
 ### Artikel  15  
 
-De gegevens die dienen te worden verstrekt op grond van [artikel 43 van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) zijn opgenomen in bijlage 9.  
+De gegevens die dienen te worden verstrekt op grond van [artikel 43 van het besluit](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) zijn opgenomen in bijlage 9. 
 
 ### Hoofdstuk  6  
 
@@ -303,15 +303,15 @@ De gegevens die dienen te worden verstrekt op grond van [artikel 43 van het besl
 
 ### Artikel  16  
 
-De [Regeling financiële bepalingen bodemsanering 2002](../../../../../../../ministeriele-regeling/regeling/financiële/bepalingen/bodemsanering/2002/BWBR0013697/README.md), de [Circulaire ouderdomsbepaling](../../../../../../../beleidsregel/circulaire/ouderdomsbepaling/bij/bodemverontreiniging/op/in/gebruik/zijnde/etc/BWBR0013325/README.md), Staatscourant 2002, 86 en de Circulaire procedure inzake verlaagde gemeentelijke bijdrage, Staatscourant 1994, 228, laatstelijk gewijzigd bij Staatscourant 2002, 14, worden ingetrokken.  
+De [Regeling financiële bepalingen bodemsanering 2002](../../../../../../../ministeriele-regeling/regeling/financiële/bepalingen/bodemsanering/2002/BWBR0013697/README.md), de [Circulaire ouderdomsbepaling](../../../../../../../beleidsregel/circulaire/ouderdomsbepaling/bij/bodemverontreiniging/op/in/gebruik/zijnde/etc/BWBR0013325/README.md), Staatscourant 2002, 86 en de Circulaire procedure inzake verlaagde gemeentelijke bijdrage, Staatscourant 1994, 228, laatstelijk gewijzigd bij Staatscourant 2002, 14, worden ingetrokken. 
 
 ### Artikel  17  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit financiële bepalingen bodemsanering](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag vóór genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De artikelen 2 tot en met 7, 14 en 15 werken terug tot en met 1 januari 2005.  
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit financiële bepalingen bodemsanering](../../../../../../../AMvB/besluit/financiële/bepalingen/bodemsanering/BWBR0019285/README.md) in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag vóór genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De artikelen 2 tot en met 7, 14 en 15 werken terug tot en met 1 januari 2005. 
 
 ### Artikel  18  
 
-Deze regeling wordt aangehaald als: Regeling financiële bepalingen bodemsanering 2005.  
+Deze regeling wordt aangehaald als: Regeling financiële bepalingen bodemsanering 2005. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen met toelichting; een volledig exemplaar van de regeling, inclusief de bijlagen zal aan alle budgethouders en bevoegde overheden worden gezonden. Daarnaast zal de volledige regeling inclusief de bijlagen ter inzage worden gelegd bij het Ministerie van VROM en zal worden geplaatst op www.vrom.nl   
 
 Den Haag 
@@ -319,36 +319,36 @@ Den Haag
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel  
+P.L.B.A. van Geel    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.
 
-### Bijlage  4  
+###Bijlage 4 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.
 
-### Bijlage  5  
+###Bijlage 5 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.
 
-### Bijlage  6  
+###Bijlage 6 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.
 
-### Bijlage  7  
+###Bijlage 7 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.
 
-### Bijlage  8  
+###Bijlage 8 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.
 
-### Bijlage  8a  
+###Bijlage 8a 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.
 
-### Bijlage  9  
+###Bijlage 9 
 
-Ligt ter inzage bij het Ministerie van VROM.  
+Ligt ter inzage bij het Ministerie van VROM.

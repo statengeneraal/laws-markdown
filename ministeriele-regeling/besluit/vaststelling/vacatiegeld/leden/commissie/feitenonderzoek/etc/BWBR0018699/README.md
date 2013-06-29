@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  1  
 
-De leden van de Commissie feitenonderzoek uitzettingen naar de Democratische Republiek Congo ontvangen gedurende het bestaan van de commissie een maandelijkse vaste vergoeding voor hun werkzaamheden en hun persoonlijke onkosten.  
+De leden van de Commissie feitenonderzoek uitzettingen naar de Democratische Republiek Congo ontvangen gedurende het bestaan van de commissie een maandelijkse vaste vergoeding voor hun werkzaamheden en hun persoonlijke onkosten. 
 
 ### Artikel  2  
 
-De hoogte van deze vergoeding bedraagt per maand 46,6% procent van het maandsalaris volgens schaal 18.0 BBRA voor de voorzitter mr. dr. A.J.E. Havermans en het lid J.J.T Stoutjesdijk.  
+De hoogte van deze vergoeding bedraagt per maand 46,6% procent van het maandsalaris volgens schaal 18.0 BBRA voor de voorzitter mr. dr. A.J.E. Havermans en het lid J.J.T Stoutjesdijk. 
 
 ### Artikel  3  
 
-Dit besluit wordt gepubliceerd in de Staatscourant en treedt, met terugwerkende kracht, in werking op 8 juli 2005.  
+Dit besluit wordt gepubliceerd in de Staatscourant en treedt, met terugwerkende kracht, in werking op 8 juli 2005. 
 
 Den Haag 
 25 augustus 2005   
 
 De 
-Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk   
+Minister voor Vreemdelingenzaken en Integratie,
+M.C.F. Verdonk     

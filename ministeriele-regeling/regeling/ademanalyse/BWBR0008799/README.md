@@ -4,11 +4,11 @@
 
 De Minister van Justitie,  
 Gelet op [artikel 163, tiende lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en op de [artikelen 4](../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md), [5](../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md), [8](../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md) en [11 van het Besluit alcoholonderzoeken](../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: *het besluit:* het [Besluit alcoholonderzoeken](../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md); *ademanalyse:* het vaststellen van het alcoholgehalte van uitgeademde lucht door middel van een onderzoek als bedoeld in [artikel 8, tweede lid, onder a en derde lid, onder a, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 27, tweede lid, onder a, van de Scheepvaartverkeerswet](../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [artikel 2.12, derde lid, onder a, van de Wet Luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [artikel 4, tweede lid, onder a, van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md); *ademanalyse-apparaat:* een apparaat, bestemd voor het verrichten van ademanalyse; *het NFI*: het Nederlands Forensisch Instituut; *keuringsinstelling:* het Nederlands Meetinstituut N.V.  
+In deze regeling wordt verstaan onder:  *het besluit:* het [Besluit alcoholonderzoeken](../../../../AMvB/besluit/alcoholonderzoeken/BWBR0008805/README.md);  *ademanalyse:* het vaststellen van het alcoholgehalte van uitgeademde lucht door middel van een onderzoek als bedoeld in [artikel 8, tweede lid, onder a en derde lid, onder a, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 27, tweede lid, onder a, van de Scheepvaartverkeerswet](../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [artikel 2.12, derde lid, onder a, van de Wet Luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [artikel 4, tweede lid, onder a, van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md);  *ademanalyse-apparaat:* een apparaat, bestemd voor het verrichten van ademanalyse; *het NFI*: het Nederlands Forensisch Instituut;  *keuringsinstelling:* het Nederlands Meetinstituut N.V.  
 
 ### Artikel  2  
 
@@ -44,7 +44,7 @@ de ademanalyse wordt verricht volgens de in punt 3.9.1 van bijlage 1 bedoelde pr
 ### Artikel  9  
 
 1.  Bij de bepaling van het alcoholgehalte wordt de in punt 3.9.3 van bijlage 1 bedoelde correctie toegepast.   
-2.  Het verschil tussen de beide meetresultaten mag niet groter zijn dan de in punt 3.9.5.2 van bijlage 1 bedoelde waarde.   
+2.  Het verschil tussen de beide meetresultaten mag niet groter zijn dan de in punt 3.9.5.2 van bijlage 1 bedoelde waarde.  
 
 ### Artikel  9a  
 
@@ -69,20 +69,20 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  14  
 
-Deze regeling wordt aangehaald als: Regeling ademanalyse.  
+Deze regeling wordt aangehaald als: Regeling ademanalyse. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd op het Ministerie van Justitie, Schedeldoekshaven 100, Den Haag.   
 
 ’s-Gravenhage 
 4 juli 1997.    
 
 De 
-Minister van Justitie,
-W. Sorgdrager   
+Minister van Justitie, 
+W. Sorgdrager     
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage op het Ministerie van Justitie te Den Haag.  
+Ligt ter inzage op het Ministerie van Justitie te Den Haag.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage op het Ministerie van Justitie te Den Haag.  
+Ligt ter inzage op het Ministerie van Justitie te Den Haag.

@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
 a. "de wet": de [Wet verbetering rechtspositie verzetsmilitairen](../../../../../../../../../../wet/wet/verbetering/rechtspositie/verzetsmilitairen/BWBR0003015/README.md);  
 
@@ -33,21 +33,21 @@ f. "geneeskundig onderzoek": een geneeskundig onderzoek naar het ontstaan, tot u
 
 g. "de arts": de door de geneeskundige autoriteit aan te wijzen arts, die het onderzoek leidt;  
 
-h. "de gekozen arts": de door de geneeskundige autoriteit aan te wijzen, door de betrokkene gekozen, arts, die het geneeskundig onderzoek bijwoont en de onder g bedoelde arts van advies dient.    
+h. "de gekozen arts": de door de geneeskundige autoriteit aan te wijzen, door de betrokkene gekozen, arts, die het geneeskundig onderzoek bijwoont en de onder g bedoelde arts van advies dient.   
 
 ### Artikel  2  
 
 1.  Het geneeskundig onderzoek geschiedt door een door de geneeskundige autoriteit aan te wijzen arts.   
-2.  Op aanvraag van de betrokkene wijst de geneeskundige autoriteit bovendien een andere, door de betrokkene gekozen arts aan, die het onderzoek bijwoont en de in het vorig lid bedoelde arts schriftelijk van advies dient.   
-3.  Van de aanvraag kan een omschrijving van de omstandigheden, waaronder de verwonding of verminking of de ziekten of gebreken naar zijn mening zijn ontstaan, alsmede een omschrijving van de nadelige gevolgen, welke hij daarvan ondervindt, worden verlangd, zo mogelijk gestaafd door bewijsstukken.   
+2.   Op aanvraag van de betrokkene wijst de geneeskundige autoriteit bovendien een andere, door de betrokkene gekozen arts aan, die het onderzoek bijwoont en de in het vorig lid bedoelde arts schriftelijk van advies dient.   
+3.   Van de aanvraag kan een omschrijving van de omstandigheden, waaronder de verwonding of verminking of de ziekten of gebreken naar zijn mening zijn ontstaan, alsmede een omschrijving van de nadelige gevolgen, welke hij daarvan ondervindt, worden verlangd, zo mogelijk gestaafd door bewijsstukken.  
 
 ### Artikel  3  
 
-Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtingen over de betrokkene of over de omstandigheden bedoeld in artikel 2, derde lid, worden ingewonnen en te zijner beschikking gesteld, zorgt Onze Minister dat hieraan zoveel mogelijk wordt voldaan.  
+Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtingen over de betrokkene of over de omstandigheden bedoeld in artikel 2, derde lid, worden ingewonnen en te zijner beschikking gesteld, zorgt Onze Minister dat hieraan zoveel mogelijk wordt voldaan. 
 
 ### Artikel  4  
 
-1.  De arts brengt zo spoedig mogelijk een met redenen omkleed rapport uit, waarin tenminste het volgende is opgenomen: 
+1.  De arts brengt zo spoedig mogelijk een met redenen omkleed rapport uit, waarin tenminste het volgende is opgenomen:  
 
 a. een nauwkeurige omschrijving van de bij de onderzochte waargenomen verwonding, verminking, ziekten of gebreken, alsmede van de daardoor veroorzaakte stoornissen en bezwaren;  
 
@@ -68,38 +68,38 @@ h. de mate van invaliditeit, vastgesteld met inachtneming van de artikelen T 2 e
 i. de termijn, binnen welke verandering van de mate van invaliditeit niet aannemelijk wordt geacht;  
 
 j. het al dan niet aanwezig zijn van een der in artikel E 8 of E 9 van de pensioenwet aangegeven omstandigheden.     
-2.  Bij zijn rapport legt de arts de stukken over waarvan voor het opmaken van het rapport gebruik is gemaakt, desgewenst in gewaarmerkt afschrift, waaronder, indien aanwezig, het schriftelijk advies van de gekozen arts, alsmede de omschrijving van de betrokkene, zoals bedoeld in artikel 2, derde lid.   
+2.   Bij zijn rapport legt de arts de stukken over waarvan voor het opmaken van het rapport gebruik is gemaakt, desgewenst in gewaarmerkt afschrift, waaronder, indien aanwezig, het schriftelijk advies van de gekozen arts, alsmede de omschrijving van de betrokkene, zoals bedoeld in artikel 2, derde lid.  
 
 ### Artikel  5  
 
 1.  De arts zendt het rapport aan de geneeskundige autoriteit.   
-2.  De geneeskundige autoriteit is bevoegd de arts op te dragen het rapport met door hem verlangde gegevens aan te vullen, zonodig na een op zijn last voortgezet onderzoek.   
-3.  De geneeskundige autoriteit zendt, indien hij van oordeel is dat het rapport voldoende gegevens bevat, aan Onze Minister een uittreksel uit het rapport, na dit te hebben voorzien van zijn visum en van opmerkingen die hij nodig oordeelt.   
-4.  Onze Minister is bevoegd: 
+2.   De geneeskundige autoriteit is bevoegd de arts op te dragen het rapport met door hem verlangde gegevens aan te vullen, zonodig na een op zijn last voortgezet onderzoek.   
+3.   De geneeskundige autoriteit zendt, indien hij van oordeel is dat het rapport voldoende gegevens bevat, aan Onze Minister een uittreksel uit het rapport, na dit te hebben voorzien van zijn visum en van opmerkingen die hij nodig oordeelt.   
+4.   Onze Minister is bevoegd:  
 
 a. het uittreksel uit het rapport, indien het naar zijn oordeel onvoldoende of onvolledige gegevens bevat, te doen aanvullen, zonodig na een door de arts voortgezet onderzoek;  
 
 b. zich in bijzondere gevallen het rapport met de stukken genoemd in artikel 4, tweede lid, te doen toezenden, zulks onder gehoudenheid de functionarissen aan te wijzen, die bij uitsluiting bevoegd zijn van een volledig rapport kennis te nemen.     
-5.  Het uittreksel uit het rapport bevat de gegevens, als bedoeld in artikel 4, eerste lid, een en ander met weglating van eventuele medische gegevens.   
+5.   Het uittreksel uit het rapport bevat de gegevens, als bedoeld in artikel 4, eerste lid, een en ander met weglating van eventuele medische gegevens.  
 
 ### Artikel  6  
 
 1.  Onze Minister is bevoegd over het volledige rapport van de arts, nadat dit door de geneeskundige autoriteit is voorzien van zijn visum, een schriftelijk oordeel van één of meer andere deskundigen te vragen. Deze is/zijn gehouden de gekozen arts, indien betrokken bij het geneeskundig onderzoek, te horen. Wijkt het inzicht van deze deskundige(n) af van dat van de geneeskundige autoriteit, dan wordt van het door de deskundige(n) uitgebracht schriftelijk oordeel geen gebruik gemaakt dan nadat de geneeskundige autoriteit tegenover Onze Minister zijn standpunt nader schriftelijk heeft kunnen verdedigen.   
-2.  Onze Minister is voorts bevoegd de betrokkene met diens instemming nogmaals geneeskundig te doen onderzoeken dan wel voor de tijd van ten hoogste drie maanden in een inrichting ter observatie te doen opnemen.   
-3.  Het in artikel 5, vijfde lid, bepaalde is van overeenkomstige toepassing op het door de deskundige(n) uitgebrachte schriftelijk oordeel, als bedoeld in artikel 6, eerste lid.   
+2.   Onze Minister is voorts bevoegd de betrokkene met diens instemming nogmaals geneeskundig te doen onderzoeken dan wel voor de tijd van ten hoogste drie maanden in een inrichting ter observatie te doen opnemen.   
+3.   Het in artikel 5, vijfde lid, bepaalde is van overeenkomstige toepassing op het door de deskundige(n) uitgebrachte schriftelijk oordeel, als bedoeld in artikel 6, eerste lid.  
 
-### Artikel  7  
+###Artikel 7 
 
-1.  Onze Minister van Defensie kan nadere regels vaststellen met betrekking tot de uitvoering van dit besluit.   
-2.  Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in het eerste lid kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.   
+1. Onze Minister van Defensie kan nadere regels vaststellen met betrekking tot de uitvoering van dit besluit.
+2. Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in het eerste lid kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie. 
 
 ### Artikel  8  
 
-Dit besluit kan worden aangehaald als "Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen".  
+Dit besluit kan worden aangehaald als "Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen". 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de tweede dag na datum van afgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na datum van afgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  II  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal.  
 
 ### Artikel  III  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken.  
 
 ### Artikel  IV  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### Artikel  V  
 
-Wijzigt de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt de Overgangsregeling Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.  
 
 ### Artikel  VI  
 
-Wijzigt het Besluit personenchauffeurs Rijksdienst.   
+Wijzigt het Besluit personenchauffeurs Rijksdienst.  
 
 ### Artikel  VII  
 
-Degene aan wie op grond van het [Besluit tegemoetkoming ziektekosten rijkspersoneel](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md), zoals dat luidde op 31 december 2005, over december 2005 een tegemoetkoming voor een gezinslid als bedoeld in [artikel 1, eerste lid, onderdeel b, ten eerste, van dat besluit](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) is verleend, heeft recht op een eenmalige uitkering. Deze uitkering bedraagt € 450,00, vermenigvuldigd met de voor de betrokkene op 1 december 2005 geldende arbeidsduurfactor indien deze kleiner is dan 1.  
+Degene aan wie op grond van het [Besluit tegemoetkoming ziektekosten rijkspersoneel](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md), zoals dat luidde op 31 december 2005, over december 2005 een tegemoetkoming voor een gezinslid als bedoeld in [artikel 1, eerste lid, onderdeel b, ten eerste, van dat besluit](../../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) is verleend, heeft recht op een eenmalige uitkering. Deze uitkering bedraagt € 450,00, vermenigvuldigd met de voor de betrokkene op 1 december 2005 geldende arbeidsduurfactor indien deze kleiner is dan 1. 
 
 ### Artikel  VIII  
 
@@ -53,7 +53,7 @@ Degene aan wie op grond van het [Besluit tegemoetkoming ziektekosten rijksperson
 
 – de artikelen I, onderdelen A en B, II, onderdelen A en B, III, onderdelen C en D, IV, onderdelen A, C, E, F, G en H, en de artikelen V, VI en VII terugwerken tot en met 1 januari 2006.     
 2.  Artikel IV, onderdeel D, treedt in werking met ingang van 1 december 2006.   
-3.  De artikelen I, onderdeel C, II, onderdeel C en III, onderdeel E, treden in werking met ingang van 1 januari 2007.   
+3.  De artikelen I, onderdeel C, II, onderdeel C en III, onderdeel E, treden in werking met ingang van 1 januari 2007.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -69,5 +69,5 @@ B. R. Bot
 
 de *twintigste* december 2006 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

@@ -2,7 +2,7 @@
 
 ##Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 23 juni 2003, nr. MJZ2003057358, houdende instelling van het Overlegplatform Bouwregelgeving
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  Besluit:    
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  Besluit:     
 
 ### Artikel  1  
 
@@ -10,13 +10,13 @@ De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  Besluit
 
 1.  Er is een Overlegplatform Bouwregelgeving, hierna te noemen: overlegplatform, dat ten doel heeft: 
 
-a. het uitwisselen van informatie over nationale en internationale ontwikkelingen op het terrein van bouwvoorschriften;  
+a.  het uitwisselen van informatie over nationale en internationale ontwikkelingen op het terrein van bouwvoorschriften;  
 
-b. het doen van aanbevelingen met betrekking tot de nadere invulling van de (bouwparagraaf van de) Woningwet, het Bouwbesluit 2012 en aanverwante regelgeving;  
+b.  het doen van aanbevelingen met betrekking tot de nadere invulling van de (bouwparagraaf van de) [Woningwet](../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en aanverwante regelgeving;  
 
-c. het doen van aanbevelingen met betrekking tot de resultaten van onderzoekingen die zijn uitgevoerd in het kader van de aan het parlement toegezegde evaluatie van de bij of krachtens de Woningwet gegeven voorschriften, en de voorgenomen herziening van de bouwparagraaf van de Woningwet; en  
+c.  het doen van aanbevelingen met betrekking tot de resultaten van onderzoekingen die zijn uitgevoerd in het kader van de aan het parlement toegezegde evaluatie van de bij of krachtens de [Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) gegeven voorschriften, en de voorgenomen herziening van de bouwparagraaf van de [Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md); en  
 
-d. het doen van aanbevelingen met betrekking tot de resultaten van overige onderzoekingen die zijn uitgevoerd op het terrein van de kwaliteit van gebouwen.     
+d.  het doen van aanbevelingen met betrekking tot de resultaten van overige onderzoekingen die zijn uitgevoerd op het terrein van de kwaliteit van gebouwen.     
 2.  Het overlegplatform komt drie- of viermaal per jaar bijeen; de vergaderfrequentie wordt afgestemd op de momenten om tot aanpassing van regelgeving te komen. Een overleg mondt uit in een advies aan de verantwoordelijke bewindspersoon van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, over vraagstukken op het terrein van de bouwregelgeving en overige kwaliteitsaspecten van gebouwen in het algemeen en alle wijzigingen van de regelgeving op dit terrein in het bijzonder.   
 
 ### Artikel  2  
@@ -34,82 +34,82 @@ d. het doen van aanbevelingen met betrekking tot de resultaten van overige onder
 
 1.  In het overlegplatform zijn in elk geval vertegenwoordigd: 
 
-a. Aedes, vereniging van woningcorporaties,  
+a.  Aedes, vereniging van woningcorporaties,  
 
-b. Algemeen Verbond Bouwbedrijf (AVBB),  
+b.  Algemeen Verbond Bouwbedrijf (AVBB),  
 
-c. Bond van Nederlandse Architecten (BNA),  
+c.  Bond van Nederlandse Architecten (BNA),  
 
-d. Chronisch zieken en Gehandicapten Raad Nederland (CG-Raad),  
+d.  Chronisch zieken en Gehandicapten Raad Nederland (CG-Raad),  
 
-e. Federatie van Energiebedrijven in Nederland (EnergieNed),  
+e.  Federatie van Energiebedrijven in Nederland (EnergieNed),  
 
-f. Federatie Welstand,  
+f.  Federatie Welstand,  
 
-g. Landelijk Contact van de adviescommissies woningbouw en woonomgeving (LC VAC),  
+g.  Landelijk Contact van de adviescommissies woningbouw en woonomgeving (LC VAC),  
 
-h. Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
+h.  Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 
-i. MKB-Nederland,  
+i.  MKB-Nederland,  
 
-j. Nederlands Verbond Toelevering Bouw (NVTB),  
+j.  Nederlands Verbond Toelevering Bouw (NVTB),  
 
-k. Nederlandse Woonbond,  
+k.  Nederlandse Woonbond,  
 
-l. Organisatie van Advies- en Ingenieursbureaus (ONRI),  
+l.  Organisatie van Advies- en Ingenieursbureaus (ONRI),  
 
-m. UNETO-VNI, ondernemersorganisatie voor de installatiebranche en de technische detailhandel,  
+m.  UNETO-VNI, ondernemersorganisatie voor de installatiebranche en de technische detailhandel,  
 
-n. Vereniging Eigen Huis (VEH),  
+n.  Vereniging Eigen Huis (VEH),  
 
-o. Vereniging van Nederlandse Gemeenten (VNG),  
+o.  Vereniging van Nederlandse Gemeenten (VNG),  
 
-p. Vereniging van Nederlandse Projectontwikkeling Maatschappijen (Neprom),  
+p.  Vereniging van Nederlandse Projectontwikkeling Maatschappijen (Neprom),  
 
-q. Vereniging Stadswerk Nederland (VSN), en  
+q.  Vereniging Stadswerk Nederland (VSN), en  
 
-r. Vereniging van Waterbedrijven in Nederland (VEWIN).     
+r.  Vereniging van Waterbedrijven in Nederland (VEWIN).     
 2.  De agendaleden van het overlegplatform zijn in elk geval: 
 
-a. Garantie-instituut Woningbouw (GIW),  
+a.  Garantie-instituut Woningbouw (GIW),  
 
-b. Hoofdbedrijfschap Afbouw en Onderhoud,  
+b.  Hoofdbedrijfschap Afbouw en Onderhoud,  
 
-c. Interprovinciaal Overleg (IPO),  
+c.  Interprovinciaal Overleg (IPO),  
 
-d. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties,  
+d.  Ministerie van Binnenlandse Zaken en Koninkrijksrelaties,  
 
-e. Ministerie van Defensie,  
+e.  Ministerie van Defensie,  
 
-f. Ministerie van Economische Zaken,  
+f.  Ministerie van Economische Zaken,  
 
-g. Ministerie van Justitie,  
+g.  Ministerie van Justitie,  
 
-h. Ministerie van Landbouw, Natuur en Voedselkwaliteit,  
+h.  Ministerie van Landbouw, Natuur en Voedselkwaliteit,  
 
-i. Ministerie van Onderwijs, Cultuur en Wetenschappen,  
+i.  Ministerie van Onderwijs, Cultuur en Wetenschappen,  
 
-j. Ministerie van Sociale Zaken en Werkgelegenheid,  
+j.  Ministerie van Sociale Zaken en Werkgelegenheid,  
 
-k. Ministerie van Verkeer en Water-staat,  
+k.  Ministerie van Verkeer en Water-staat,  
 
-l. Ministerie van Volksgezondheid, Welzijn en Sport,  
+l.  Ministerie van Volksgezondheid, Welzijn en Sport,  
 
-m. Nederlands Normalisatie-instituut NEN-Bouw,  
+m.  Nederlands Normalisatie-instituut NEN-Bouw,  
 
-n. Raad voor Accreditatie,  
+n.  Raad voor Accreditatie,  
 
-o. Stichting Bouwkwaliteit (SBK),  
+o.  Stichting Bouwkwaliteit (SBK),  
 
-p. Stichting Duurzame Energie Koepel,  
+p.  Stichting Duurzame Energie Koepel,  
 
-q. TNO Bouw,  
+q.  TNO Bouw,  
 
-r. Unie van Waterschappen,  
+r.  Unie van Waterschappen,  
 
-s. Vereniging FME-CWM, en  
+s.  Vereniging FME-CWM, en  
 
-t. Vereniging Raad voor Onroerende Zaken (ROZ).     
+t.  Vereniging Raad voor Onroerende Zaken (ROZ).     
 3.  Tot het overlegplatform kunnen vertegenwoordigers van andere dan de in het eerste en tweede lid genoemde organisaties en instanties worden toegelaten. Een daartoe strekkend verzoek wordt gericht aan de Directeur-Generaal Wonen van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. Alvorens te beslissen, hoort deze de voorzitter van het overlegplatform.   
 
 ### Artikel  4  
@@ -131,7 +131,7 @@ Een ieder die betrokken is bij de werkzaamheden van het overlegplatform, de daar
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 juni 2003.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 juni 2003. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -139,4 +139,4 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-S.M.Dekker    
+S.M.  Dekker      

@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 Het verbod op bedrijfsmatige verstrekking van tabaksproducten aan particulieren voor de instellingen, diensten en bedrijven, die door de Staat of andere openbare lichamen worden beheerd, bedoeld in [artikel 7, eerste lid, van de Tabakswet](../../../../../../../wet/tabakswet/BWBR0004302/README.md) geldt niet in justitiële inrichtingen als bedoeld in: 
 
-a. [artikel 1, onderdeel b, van de Penitentiaire beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+a.  [artikel 1, onderdeel b, van de Penitentiaire beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
 
-b. [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+b.  [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
 
-c. [artikel 1, onderdeel b, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+c.  [artikel 1, onderdeel b, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
 
-d. [artikel 6, eerste lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+d.  [artikel 6, eerste lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
-e. [artikel 4, eerste lid, van de Tijdelijke wet noodcapaciteit drugskoeriers](../../../../../../../wet/tijdelijke/wet/noodcapaciteit/drugskoeriers/BWBR0013488/README.md).    
+e.  [artikel 4, eerste lid, van de Tijdelijke wet noodcapaciteit drugskoeriers](../../../../../../../wet/tijdelijke/wet/noodcapaciteit/drugskoeriers/BWBR0013488/README.md).   
 
 ### Artikel  2  
 
@@ -38,11 +38,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst 
+Minister van Volksgezondheid, Welzijn en Sport,
+J.F. Hoogervorst   
 
 de zesde november 2003 
 
 De 
 Minister van Justitie, 
-J. P. H.Donner  
+J. P. H. Donner     

@@ -4,27 +4,27 @@
 
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op [artikel 3 van het Besluit beschikbaarstelling politieambtenaren ten behoeve van vredesmissies](../../../../../AMvB/besluit/beschikbaarstelling/politieambtenaren/ten/behoeve/van/etc/BWBR0014439/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *Besluit:* het [Besluit beschikbaarstelling politieambtenaren ten behoeve van vredesmissies](../../../../../AMvB/besluit/beschikbaarstelling/politieambtenaren/ten/behoeve/van/etc/BWBR0014439/README.md);   
+a.*Besluit:* het [Besluit beschikbaarstelling politieambtenaren ten behoeve van vredesmissies](../../../../../AMvB/besluit/beschikbaarstelling/politieambtenaren/ten/behoeve/van/etc/BWBR0014439/README.md); 
 
-b. *operationeel gezag:* de head of mission, aangewezen door een volkenrechtelijke organisatie of aangewezen in het kader van een internationale overeenkomst waarbij Nederland partij is;  
+b.  *operationeel gezag:* de head of mission, aangewezen door een volkenrechtelijke organisatie of aangewezen in het kader van een internationale overeenkomst waarbij Nederland partij is; 
 
-c. *missie:* het verblijf in het missiegebied ten behoeve van het verrichten van werkzaamheden in het kader van de uitzending, bedoeld in het [Besluit](../../../../../AMvB/besluit/beschikbaarstelling/politieambtenaren/ten/behoeve/van/etc/BWBR0014439/README.md);  
+c.*missie:* het verblijf in het missiegebied ten behoeve van het verrichten van werkzaamheden in het kader van de uitzending, bedoeld in het [Besluit](../../../../../AMvB/besluit/beschikbaarstelling/politieambtenaren/ten/behoeve/van/etc/BWBR0014439/README.md);
 
-d. *inzet:* het daadwerkelijk verrichten van werkzaamheden in het kader van de uitzending, bedoeld in het [Besluit](../../../../../AMvB/besluit/beschikbaarstelling/politieambtenaren/ten/behoeve/van/etc/BWBR0014439/README.md);  
+d.*inzet:* het daadwerkelijk verrichten van werkzaamheden in het kader van de uitzending, bedoeld in het [Besluit](../../../../../AMvB/besluit/beschikbaarstelling/politieambtenaren/ten/behoeve/van/etc/BWBR0014439/README.md);
 
-e. *onkosten:* de tijdens de missie door de betrokkene gedane uitgaven wegens bewassing, (tele)communicatie, ontspanning, recuperatie en overige incidentele kosten;  
+e.*onkosten:* de tijdens de missie door de betrokkene gedane uitgaven wegens bewassing, (tele)communicatie, ontspanning, recuperatie en overige incidentele kosten;
 
-f. *recuperatie:* een periode, niet zijnde verlof, waarin aan de betrokkene geen feitelijke werkzaamheden worden opgedragen, opdat door afwisseling van inzet en rust de gewenste operationele inzetbaarheid wordt gehandhaafd;  
+f.*recuperatie:* een periode, niet zijnde verlof, waarin aan de betrokkene geen feitelijke werkzaamheden worden opgedragen, opdat door afwisseling van inzet en rust de gewenste operationele inzetbaarheid wordt gehandhaafd;
 
-g. *inschepingsverlof:* het verlof dat betrokkene wordt toegekend om zich voor te bereiden op de missie;  
+g.  *inschepingsverlof:* het verlof dat betrokkene wordt toegekend om zich voor te bereiden op de missie;  
 
-h. *ontschepingsverlof:* het verlof dat betrokkene wordt toegekend na afloop van de uitzending.    
+h.  *ontschepingsverlof:* het verlof dat betrokkene wordt toegekend na afloop van de uitzending.  
 
 ### Artikel  2  
 
@@ -58,14 +58,14 @@ Indien de betrokkene uit anderen hoofde aanspraak heeft op overeenkomstige voorz
 
 1.  De betrokkene heeft aanspraak op: 
 
-a. huisvesting en voeding vanwege en voor rekening van het Rijk;  
+a.  huisvesting en voeding vanwege en voor rekening van het Rijk; 
 
-b. een tegemoetkoming in de onkosten ten bedrage van € 27,21, indien geen aanspraak bestaat op een volledige dagvergoeding inclusief huisvesting, voeding en overige onkosten van derden.     
+b. een tegemoetkoming in de onkosten ten bedrage van € 27,21, indien geen aanspraak bestaat op een volledige dagvergoeding inclusief huisvesting, voeding en overige onkosten van derden.    
 2.  Indien om redenen verband houdend met de inzet, geen gebruik kan worden gemaakt van van Rijkswege verstrekte huisvesting of voeding en hierin ook niet door de volkenrechtelijke organisatie of de Europese Unie wordt voorzien, worden de noodzakelijk gemaakte kosten van huisvesting en voeding vergoed tot ten hoogste de bedragen, bedoeld in [Bijlage I behorende bij het Besluit reis-, verblijf- en verhuiskosten politie](../../../../../AMvB/besluit/reis-/verblijf-/en/verhuiskosten/politie/BWBR0024064/README.md).   
 
 ### Artikel  9  
 
-De betrokkene heeft aanspraak op een vergoeding voor de bij de missie ondervonden onregelmatige diensten en overuren. De vergoeding is vastgesteld in de vorm van een afkoopsom, en bedraagt € 83,81 per dag.  
+De betrokkene heeft aanspraak op een vergoeding voor de bij de missie ondervonden onregelmatige diensten en overuren. De vergoeding is vastgesteld in de vorm van een afkoopsom, en bedraagt € 83,81 per dag. 
 
 ### Artikel  10  
 
@@ -83,7 +83,7 @@ a. ernstige ziekte van de echtgenote of echtgenoot van de betrokkene, de persoon
 
 b. de bevalling van zijn echtgenote of de persoon met wie de betrokkene ongehuwd samenwoont;  
 
-c. het overlijden en de lijkbezorging van de echtgenote of echtgenoot van de betrokkene, de persoon met wie de betrokkene ongehuwd samenwoont of een van zijn bloed- en aanverwanten in de eerste graad.    
+c. het overlijden en de lijkbezorging van de echtgenote of echtgenoot van de betrokkene, de persoon met wie de betrokkene ongehuwd samenwoont of een van zijn bloed- en aanverwanten in de eerste graad.   
 
 ### Artikel  11  
 
@@ -97,12 +97,12 @@ De betrokkene heeft aansluitend op de definitieve terugkeer uit het missiegebied
 ### Artikel  12a  
 
 1.  De betrokkene die naar verwachting ten minste zes maanden achtereen buiten Nederland zal verblijven, wordt inschepingsverlof verleend voor vijf werkdagen.   
-2.  Ten aanzien van de betrokkene die inschepingsverlof heeft genoten en die door eigen wil of toedoen zijn bestemming niet volgt, kan het operationeel gezag dat verlof aanmerken als verleend vakantieverlof.   
+2.  Ten aanzien van de betrokkene die inschepingsverlof heeft genoten en die door eigen wil of toedoen zijn bestemming niet volgt, kan het operationeel gezag dat verlof aanmerken als verleend vakantieverlof.  
 
 ### Artikel  12b  
 
 1.  Betrokkene heeft na een verblijf buiten Nederland gedurende een maand of langer achtereen, aanspraak op ontschepingsverlof van een werkdag voor elke maand dat het verblijf buiten Nederland heeft geduurd, met een maximum van twintig werkdagen.   
-2.  Het ontschepingsverlof, bedoeld in het eerste lid, wordt aaneengesloten of in gedeelten aan betrokkene verleend zo spoedig mogelijk nadat hij in Nederland is teruggekeerd.   
+2.  Het ontschepingsverlof, bedoeld in het eerste lid, wordt aaneengesloten of in gedeelten aan betrokkene verleend zo spoedig mogelijk nadat hij in Nederland is teruggekeerd.  
 
 ### Artikel  13  
 
@@ -127,7 +127,7 @@ Indien de betrokkene tijdens de missie overlijdt, worden de kosten van lijkbezor
 
 ### Artikel  16a  
 
-Indien een politieambtenaar, of indien deze is overleden de weduwe of weduwnaar van wie de overleden persoon niet duurzaam gescheiden leefde of de daarmee gelijkgestelde persoon, bedoeld in [artikel 1, tweede lid, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), schade lijdt doordat de levensverzekering die hij ten behoeve van een hypotheek heeft gesloten niet of niet geheel tot uitbetaling komt doordat de verzekeraar een molestclausule inroept, staat de Minister van Veiligheid en Justitie ervoor in dat deze schade wordt vergoed tot een maximum van 400.000 euro.  
+Indien een politieambtenaar, of indien deze is overleden de weduwe of weduwnaar van wie de overleden persoon niet duurzaam gescheiden leefde of de daarmee gelijkgestelde persoon, bedoeld in [artikel 1, tweede lid, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), schade lijdt doordat de levensverzekering die hij ten behoeve van een hypotheek heeft gesloten niet of niet geheel tot uitbetaling komt doordat de verzekeraar een molestclausule inroept, staat de Minister van Veiligheid en Justitie ervoor in dat deze schade wordt vergoed tot een maximum van 400.000 euro. 
 
 ### Artikel  17  
 
@@ -150,7 +150,7 @@ c. de medische zorg voor politieambtenaren direct voorafgaand aan, tijdens en di
 
 d. de uitrusting, kleding en huisvesting tijdens de missie.     
 2.  Tevens bevordert de Minister van Veiligheid en Justitie dat voldoende rekening is gehouden met de wijze waarop wordt omgegaan met politieambtenaren die ervan verdacht worden tijdens de missie een tuchtrechtelijk of strafrechtelijk vergrijp te hebben begaan en de wijze waarop civielrechtelijke aansprakelijkheid is geregeld.   
-3.  De Minister van Veiligheid en Justitie brengt de omstandigheden, bedoeld in het eerste en tweede lid, onverwijld ter kennis van de politievakorganisaties zodra deze hem ter kennis zijn gekomen.   
+3.  De Minister van Veiligheid en Justitie brengt de omstandigheden, bedoeld in het eerste en tweede lid, onverwijld ter kennis van de politievakorganisaties zodra deze hem ter kennis zijn gekomen.  
 
 ### Artikel  19  
 
@@ -162,9 +162,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 ### Artikel  21  
 
-Deze regeling wordt aangehaald als: Regeling vredesmissies politie.  
+Deze regeling wordt aangehaald als: Regeling vredesmissies politie. 
 Deze regeling zal met toelichting worden geplaatst in de Staatscourant.   
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-R.H.Hessing    
+R.H. Hessing      

@@ -15,39 +15,39 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  II  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal. 
 
 ### Artikel  III  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken. 
 
 ### Artikel  IV  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk.   
+Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk. 
 
 ### Artikel  VI  
 
-Wijzigt het Rijkswachtgeldbesluit 1959.   
+Wijzigt het Rijkswachtgeldbesluit 1959. 
 
 ### Artikel  VII  
 
-Wijzigt de Uitkeringsregeling 1966.   
+Wijzigt de Uitkeringsregeling 1966. 
 
 ### Artikel  VIII  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. 
 
 ### Artikel  IX  
 
-Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. 
 
 ### Artikel  XI  
 
@@ -62,7 +62,7 @@ Wijzigt het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.
 5.  Artikel IV, onderdeel E, treedt in werking met ingang van 1 december 2008.   
 6.  Artikel IX treedt in werking met ingang van 1 april 2009.   
 7.  Artikel IV, onderdeel F, treedt in werking met ingang van 1 december 2009.   
-8.  Artikel X vervalt met ingang van 1 december 2007.   
+8.  Artikel X vervalt met ingang van 1 december 2007.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -71,12 +71,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
-G. ter Horst   
+G. ter  Horst   
 
 De Minister van Buitenlandse Zaken , 
 M. J. M. Verhagen   
 
 de *negende* oktober 2007 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

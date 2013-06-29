@@ -16,20 +16,20 @@ Aan de leden van een Nationaal Thematisch Netwerk als bedoeld in [artikel 2, eer
 2.  Het vacatiegeld bedraagt € 125,– per bijgewoonde bijeenkomst tot een maximum van € 1250,– kalenderjaar.   
 3.  Twee of meer bijeenkomsten op dezelfde dag gelden als één bijeenkomst.   
 4.  Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidieaanvragen op grond van het [Instellingsbesluit Nationaal Thematische Netwerken ESF-EQUAL](../../../../../ministeriele-regeling/instellingsbesluit/nationaal/thematische/netwerken/esf-equal/BWBR0016623/README.md), wordt een vergoeding voor de voorbereidingstijd per te bestuderen projectaanvraag vastgesteld, die wordt berekend op basis van een uurtarief, dat is gebaseerd op salarisschaal 12, niveau 10, van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), en op een beoordelingstijd van een uur per aanvraag.   
-5.  Geen vacatiegeld wordt toegekend aan functionarissen in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling, dan wel van een instelling welker personeelskosten door het Rijk worden vergoed, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.   
+5.  Geen vacatiegeld wordt toegekend aan functionarissen in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling, dan wel van een instelling welker personeelskosten door het Rijk worden vergoed, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.  
 
 ### Artikel  3  
 
-Onder leden als bedoeld in artikel 2 wordt de voorzitter van een Nationaal Thematische Netwerken niet begrepen.  
+Onder leden als bedoeld in artikel 2 wordt de voorzitter van een Nationaal Thematische Netwerken niet begrepen. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2004.  
+Deze regeling treedt in werking met ingang de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2004. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 20 april 2004    
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-M.Rutte    
+Staatssecretaris van  Sociale Zaken en Werkgelegenheid, 
+M. Rutte      

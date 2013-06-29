@@ -22,7 +22,7 @@ c. Project afbouw IBS: project afbouw Informatie, Beheer en Subsidieregelingen;
 
 d. programmamanager: de programmamanager afbouw IBS;  
 
-e. DGW: Directoraat-Generaal Wonen.    
+e. DGW: Directoraat-Generaal Wonen.   
 
 ### Artikel  2  
 
@@ -46,20 +46,20 @@ f. het beoordelen van de noodzaak tot inschakeling van externe juridische onders
 
 g. het geven van advies met betrekking tot de onder a tot en met d genoemde taken aan de directeur-generaal Wonen en de bewindslieden;  
 
-h. het overdragen van de resterende werkzaamheden, niet beschreven in het Convenant overdracht IBS naar de Belastingdienst aan de Belastingdienst en de lijnorganisatie van het DGW.     
+h. het overdragen van de resterende werkzaamheden, niet beschreven in het Convenant overdracht IBS naar de Belastingdienst aan de Belastingdienst en de lijnorganisatie van het DGW.    
 
 ### Artikel  3  
 
 ####Mandaat, volmacht en machtiging
 
-Aan de programmamanager afbouw IBS is mandaat, volmacht en machtiging verleend in het Besluit mandaat, volmacht en machtiging Directoraat-generaal Wonen 2006.  
+Aan de programmamanager afbouw IBS is mandaat, volmacht en machtiging verleend in het Besluit mandaat, volmacht en machtiging Directoraat-generaal Wonen 2006. 
 
 ### Artikel  4  
 
 ####Citeertitel en inwerkingtreding
 
 1.  Deze regeling wordt aangehaald als: Besluit project afbouw IBS.   
-2.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, werkt terug tot 15 maart 2006 en vervalt op een door de Minister te bepalen datum.   
+2.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, werkt terug tot 15 maart 2006 en vervalt op een door de Minister te bepalen datum.  
 Deze regeling zal worden geplaatst in de Staatscourant.   
 
 Den Haag 
@@ -67,4 +67,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-S.M.Dekker   
+S.M. Dekker     

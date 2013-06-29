@@ -24,25 +24,25 @@ a. van het College bouw zorginstellingen, voor zover het betreft de [artikelen 1
 
 b. van het College sanering zorginstellingen, voor zover het betreft: 
 
-1°. de [artikelen 17, eerste en achtste lid](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), en [18, eerste en tweede lid](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
+1°.de [artikelen 17, eerste en achtste lid](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), en [18, eerste en tweede lid](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);
 
-2°. de aan de toelating verbonden voorschriften inzake behoud van waarde van onroerende zaken voor de zorg: 
+2°.de aan de toelating verbonden voorschriften inzake behoud van waarde van onroerende zaken voor de zorg:
 
 – de bestuursleden van het college;  
 
 – de directeur/secretaris van het college en diens plaatsvervanger;  
 
-– de gemachtigden van het college (onder verantwoordelijkheid van het college).        
+– de gemachtigden van het college (onder verantwoordelijkheid van het college).     
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2006.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2006. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling toezicht Wet toelating zorginstellingen.  
+Deze regeling wordt aangehaald als: Regeling toezicht Wet toelating zorginstellingen. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-J.F.Hoogervorst   
+J.F. Hoogervorst     

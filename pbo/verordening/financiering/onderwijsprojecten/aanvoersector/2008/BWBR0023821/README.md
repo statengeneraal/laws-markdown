@@ -9,12 +9,13 @@ Gehoord de Commissie aanvoeraangelegenheden, de Onderwijscommissie, de Garnalena
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 11-07-2009 
 
 1.  In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| a.  |  [Instellingsbesluit Productschap Vis](../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md)   | :  | Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, be- en verwerking van vis en de handel in vis en visproducten (Stb. 2003, 253);  |
+| a.  | [Instellingsbesluit Productschap Vis](../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md)  | :  | Besluit van 3 juni 2003, houdende instelling van een productschap voor ondernemingen op het gebied van de visserij, be- en verwerking van vis en de handel in vis en visproducten (Stb. 2003, 253);  |
 | b.  | productschap  | :  | het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md);  |
 | c.  | bestuur  | :  | het bestuur van het Productschap;  |
 | d.  | Voorzitter  | :  | de voorzitter van het Productschap;  |
@@ -33,33 +34,37 @@ Besluit:
 | q.  | Kotter  | :  | vaartuig waarvan de lengte over alles minder dan 60 meter bedraagt;  |
 | r.  | Afslag  | :  | een veiling van vis of mosselen;  |
 | s.  | fonds voor de aanvoersector  | :  | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor de aanvoersector 2007](../../../../../../../pbo/verordening/instelling/van/een/fonds/voor/de/aanvoersector/2007/BWBR0023230/README.md);  |
-| t.  | ton  | :  | een inhoudsmaat van 1/7m <sup>3</sup>.  |
+| t.  | ton  | :  | een inhoudsmaat van 1/7m<sup>3</sup>.  |
 
 2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vaartuig direct of indirect verbinding met de wal heeft verkregen.   
-3.  Indien een vaartuig mosselen, niet zijnde ingevoerde mosselen, op een verwaterplaats stort voordat het vaartuig direct of indirect verbinding met de wal heeft verkregen, vindt het aanvoeren van mosselen, in afwijking van het bepaalde in het tweede lid, plaats op het tijdstip waarop de mosselen worden gestort op een verwaterplaats.   
+3.  Indien een vaartuig mosselen, niet zijnde ingevoerde mosselen, op een verwaterplaats stort voordat het vaartuig direct of indirect verbinding met de wal heeft verkregen, vindt het aanvoeren van mosselen, in afwijking van het bepaalde in het tweede lid, plaats op het tijdstip waarop de mosselen worden gestort op een verwaterplaats.  
 
 ### Artikel  1a  
+Materieel uitgewerkt per 11-07-2009 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2008 tot en met 31 december 2008 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2 en 3 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) in bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2008 tot en met 31 december 2008 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2 en 3 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) in bepaald. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 11-07-2009 
 
 1.  Een aanvoerder is aan het productschap ten behoeve van het fonds voor de aanvoersector ter financiering van onderwijsprojecten een heffing verschuldigd van 0,3 promille van de waarde van de door hem aangevoerde vis.   
 2.  Een aanvoerder is aan het productschap ten behoeve van het fonds voor de aanvoersector ter financiering van de onderwijsprojecten een heffing verschuldigd van € 0,02 per elke door de aanvoerder aangevoerde ton mosselen.   
 3.  De waarde van de aangevoerde vis wordt vastgesteld overeenkomstig artikel 3.   
 4.  Een aanvoerder is aan het productschap ten behoeve van het fonds voor de aanvoersector ter financiering van onderwijsprojecten een heffing verschuldigd van € 0,0009 per kilogram aangevoerde garnalen die door of namens een medewerker van het productschap zijn gecontroleerd op de indeling in de bij of krachtens de verordening (EG) nr. 2406/96 voorgeschreven versheidsklassen en grootteklassen voor garnalen voor eerste verhandeling.   
-5.  Indien de garnalen in gepelde toestand worden aangevoerd, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met factor 3.   
+5.  Indien de garnalen in gepelde toestand worden aangevoerd, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met factor 3.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 11-07-2009 
 
 1.  Indien de aangevoerde vis door tussenkomst van een afslag wordt verhandeld, wordt onder de in artikel 2, eerste lid, bedoelde waarde verstaan, de bruto besomming van de aangevoerde vis op de afslag.   
 2.  Indien de door een kotter aangevoerde vis zonder tussenkomst van een afslag wordt verhandeld, wordt onder de in artikel 2, eerste lid, bedoelde waarde verstaan, de door de koper van de aangevoerde vis betaalde koopsom.   
-3.  Indien de door een trawler aangevoerde vis zonder tussenkomst van een afslag wordt verhandeld, wordt onder de in artikel 2, eerste lid, bedoelde waarde verstaan, 70% van de door de koper van de aangevoerde vis betaalde koopsom.   
+3.  Indien de door een trawler aangevoerde vis zonder tussenkomst van een afslag wordt verhandeld, wordt onder de in artikel 2, eerste lid, bedoelde waarde verstaan, 70% van de door de koper van de aangevoerde vis betaalde koopsom.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 11-07-2009 
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met januari 2008.   
-2.  Deze verordening kan worden aangehaald als Verordening financiering onderwijsprojecten aanvoersector 2008.   
+2.  Deze verordening kan worden aangehaald als Verordening financiering onderwijsprojecten aanvoersector 2008.  
 
 Rijswijk 
 4 oktober 2007   

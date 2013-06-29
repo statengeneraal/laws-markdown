@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 27-07-2008 
+
 ### Artikel  1  
+Materieel uitgewerkt per 27-07-2008 
 
 Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en verstaat voorts onder:  
 
@@ -27,16 +30,20 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 
 ####Broedeieren en eendagskuikens
 
+Materieel uitgewerkt per 27-07-2008 
+
 ### Artikel  2  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De ondernemer die in het kalenderjaar 2007 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap een bestemmingsheffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor broedeieren: 
 
 a. voor legrassen kippen voor het verkrijgen van fok- en vermeerderingspluimvee € 0,00357 per ingelegd broedei,  
 
-b. voor legrassen kippen voor het verkrijgen van gebruikspluimvee € 0,00021 per ingelegd broedei.     
+b. voor legrassen kippen voor het verkrijgen van gebruikspluimvee € 0,00021 per ingelegd broedei.    
 
 ### Artikel  3  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De ondernemer die eendagskuikens plaatst om deze op te fokken tot grootmoederdieren, moederdieren of gebruikspluimvee is aan het productschap een bestemmingsheffing verschuldigd over de aantallen door hem met dat doel in het kalenderjaar 2007 geplaatste eendagskuikens.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor legrassen kippen: 
@@ -45,18 +52,22 @@ a. € 0,00622 per eendagskuiken in geval van opfok grootmoederdieren,
 
 b. € 0,00836 per eendagskuiken in geval van opfok moederdieren,  
 
-c. € 0,0014 per eendagskuiken in geval van opfok gebruikspluimvee.     
+c. € 0,0014 per eendagskuiken in geval van opfok gebruikspluimvee.    
 
 ### Artikel  4  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De ondernemer die een opfokvermeerderingsbedrijf uitoefent is over het kalenderjaar 2007 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.   
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor tot geslachtsrijpe moederdieren op te fokken eendagskuikens op opfokbedrijven € 0,01765 per kuiken.   
+2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor tot geslachtsrijpe moederdieren op te fokken eendagskuikens op opfokbedrijven € 0,01765 per kuiken.  
 
 ### §  3  
 
 ####Grootmoederdieren en moederdieren
 
+Materieel uitgewerkt per 27-07-2008 
+
 ### Artikel  5  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De ondernemer die grootmoederdieren of moederdieren houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 gehouden moederdieren voor legrassen kippen.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor legrassen kippen: 
@@ -68,32 +79,39 @@ b. € 0,06085 per moederdier.
 
 a. zodra het grootmoederdier of moederdier is geplaatst, of  
 
-b. zodra het grootmoederdier of moederdier de leeftijd van 20 weken heeft bereikt, in het geval het in het bedrijf van oorsprong in productie wordt genomen.     
+b. zodra het grootmoederdier of moederdier de leeftijd van 20 weken heeft bereikt, in het geval het in het bedrijf van oorsprong in productie wordt genomen.    
 
 ### Artikel  6  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De ondernemer die een vermeerderingsbedrijf uitoefent is over het kalenderjaar 2007 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor legrassen kippen op de vermeerderingsbedrijven € 0,07162 per moederdier.   
-3.  Indien de functies van opfok- en vermeerderingsbedrijf binnen één bedrijf worden uitgeoefend, is het in het tweede lid genoemde tarief verschuldigd wanneer de moederdieren 20 weken oud zijn.   
+3.  Indien de functies van opfok- en vermeerderingsbedrijf binnen één bedrijf worden uitgeoefend, is het in het tweede lid genoemde tarief verschuldigd wanneer de moederdieren 20 weken oud zijn.  
 
 ### §  4  
 
 ####Legkippen
 
+Materieel uitgewerkt per 27-07-2008 
+
 ### Artikel  7  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De ondernemer die legkippen houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 gehouden legkippen tegen een tarief van € 0,015 per legkip.   
 2.  De in het eerste lid bedoelde heffing is gedurende het leven van een legkip éénmaal verschuldigd, en wel: 
 
 a. zodra de legkip is geplaatst, of  
 
-b. zodra de legkip de leeftijd van 18 weken heeft bereikt.     
+b. zodra de legkip de leeftijd van 18 weken heeft bereikt.    
 
 ### §  5  
 
 ####Eieren
 
+Materieel uitgewerkt per 27-07-2008 
+
 ### Artikel  8  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De houder van een pakstation is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 afgeleverde eieren tegen een tarief van € 0,000009 per ei.   
 2.  De in het eerste lid bedoelde heffing is niet verschuldigd voor die eieren ten aanzien waarvan naar genoegen van het productschap wordt aangetoond dat zij: 
@@ -102,37 +120,47 @@ a. niet in Nederland zijn geproduceerd, of
 
 b. gesorteerd ontvangen zijn van een andere houder van een pakstation, als zodanig geregistreerd bij het productschap, of  
 
-c. afgeleverd zijn aan een eiproductenfabrikant.     
+c. afgeleverd zijn aan een eiproductenfabrikant.    
 
 ### §  6  
 
 ####Eiproducten
 
+Materieel uitgewerkt per 27-07-2008 
+
 ### Artikel  9  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  De eiproductenfabrikant is over de door hem ontvangen en tot eiproduct verwerkte eieren een bestemmingsheffing verschuldigd tegen een tarief van € 0,00002 per kilogram tot eiproduct verwerkte eieren.   
-2.  De in het eerste lid bedoelde heffing is niet verschuldigd voor die eieren ten aanzien waarvan naar genoegen van het productschap wordt aangetoond dat zij niet in Nederland zijn geproduceerd.   
+2.  De in het eerste lid bedoelde heffing is niet verschuldigd voor die eieren ten aanzien waarvan naar genoegen van het productschap wordt aangetoond dat zij niet in Nederland zijn geproduceerd.  
 
 ### §  7  
 
 ####Overige bepalingen
 
-### Artikel  10  
+Materieel uitgewerkt per 27-07-2008 
 
-De bestemmingsheffingen, bedoeld in de artikelen 2 tot en met 9, zijn bestemd voor de fondsen overeenkomstig de nadere verdeling zoals opgenomen in de bijlage.  
+### Artikel  10  
+Materieel uitgewerkt per 27-07-2008 
+
+De bestemmingsheffingen, bedoeld in de artikelen 2 tot en met 9, zijn bestemd voor de fondsen overeenkomstig de nadere verdeling zoals opgenomen in de bijlage. 
 
 ### Artikel  11  
+Materieel uitgewerkt per 27-07-2008 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
 
 ### §  8  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 27-07-2008 
+
 ### Artikel  12  
+Materieel uitgewerkt per 27-07-2008 
 
 1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen legsector (PPE) 2007.   
-2.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007.   
+2.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin zij wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007.  
 
 Zoetermeer 
 2 november 2006   
@@ -144,6 +172,7 @@ S.B.M. Jongerius
 secretaris   Goedgekeurd door de Bestuurskamer van de Sociaal-Economische Raad bij besluit van 23 februari 2007 en door de Minister van Landbouw, Natuur en Voedselkwaliteit bij beschikking van 19 februari 2007, nr. TRCJZ/2006/3558.   
 
 ### Bijlage  
+Materieel uitgewerkt per 27-07-2008 
 
 Nadere verdeling van de heffingen naar fondsen, zoals bedoeld in artikel 10 van de Verordening bestemmingsheffingen legsector (PPE) 2007  
 
@@ -151,19 +180,19 @@ Nadere verdeling van de heffingen naar fondsen, zoals bedoeld in artikel 10 van 
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | artikel  | --- | --- | €  | €  | €  | €  | €  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  2, lid 2, a    | inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee  | per stuk  | 0,00544  | 0,00408  | --- | --- | 0,00136  |
-|  2, lid 2, b    | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00021  | 0,00001  | --- | --- | 0,0002  |
+| 2, lid 2, a   | inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee  | per stuk  | 0,00544  | 0,00408  | --- | --- | 0,00136  |
+| 2, lid 2, b   | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00021  | 0,00001  | --- | --- | 0,0002  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  3, lid 2, a    | plaatsen eendagskuikens opfok grootmoederdieren  | per stuk  | 0,00622  | 0,00142  | --- | --- | 0,0048  |
-|  3, lid 2, b    | plaatsen eendagskuikens opfok moederdieren  | per stuk  | 0,00836  | 0,00142  | --- | --- | 0,00694  |
-|  3, lid 2, c    | plaatsen eendagskuikens opfok gebruikspluimvee  | per stuk  | 0,0014  | 0,0004  | --- | --- | 0,001  |
-|  4, lid 2    | plaatsen eendagskuikens opfok tot moederdieren  | per stuk  | 0,01765  | --- | --- | 0,01765  | --- |
+| 3, lid 2, a   | plaatsen eendagskuikens opfok grootmoederdieren  | per stuk  | 0,00622  | 0,00142  | --- | --- | 0,0048  |
+| 3, lid 2, b   | plaatsen eendagskuikens opfok moederdieren  | per stuk  | 0,00836  | 0,00142  | --- | --- | 0,00694  |
+| 3, lid 2, c   | plaatsen eendagskuikens opfok gebruikspluimvee  | per stuk  | 0,0014  | 0,0004  | --- | --- | 0,001  |
+| 4, lid 2   | plaatsen eendagskuikens opfok tot moederdieren  | per stuk  | 0,01765  | --- | --- | 0,01765  | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 5 lid 2  en 6 lid 2   | houden moederdieren  | per stuk  | 0,13247  | 0,003  | --- | 0,07162  | 0,05785  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  7, lid 1    | Houden legkippen  | per stuk  | 0,015  | 0,0055  | 0,0025  | --- | 0,007  |
+| 7, lid 1   | Houden legkippen  | per stuk  | 0,015  | 0,0055  | 0,0025  | --- | 0,007  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  8, lid 1    | Afgeleverde gesorteerde eieren  | per stuk  | 0,000009  | 0,0000045  | 0,0000045  | --- | --- |
+| 8, lid 1   | Afgeleverde gesorteerde eieren  | per stuk  | 0,000009  | 0,0000045  | 0,0000045  | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  9, lid 1    | tot eiproduct verwerkte eieren  | per kg eieren  | 0,00002  | 0,00002  | --- | --- | --- |
+| 9, lid 1   | tot eiproduct verwerkte eieren  | per kg eieren  | 0,00002  | 0,00002  | --- | --- | --- |
 

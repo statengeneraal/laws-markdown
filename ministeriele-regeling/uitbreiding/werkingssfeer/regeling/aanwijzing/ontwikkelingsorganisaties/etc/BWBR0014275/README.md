@@ -10,15 +10,15 @@ Besluit:
 
 ### Artikel  1  
 
-#### *Aanwijzing ontwikkelingsorganisaties vrijwillige verzekering* 
+####*Aanwijzing ontwikkelingsorganisaties vrijwillige verzekering*
 
-De aanwijzing van ontwikkelingsorganisaties op grond van de [Regeling aanwijzing ontwikkelingsorganisaties BEU 2002](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/ontwikkelingsorganisaties/beu/2002/BWBR0014127/README.md) is van toepassing op de gewezen verzekerde die is uitgezonden om werkzaamheden te verrichten, bedoeld in de [artikelen 35, derde lid, aanhef, onderdeel b, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en [63a, derde lid, aanhef, onderdeel b, van de Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
+De aanwijzing van ontwikkelingsorganisaties op grond van de [Regeling aanwijzing ontwikkelingsorganisaties BEU 2002 ](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/ontwikkelingsorganisaties/beu/2002/BWBR0014127/README.md)is van toepassing op de gewezen verzekerde die is uitgezonden om werkzaamheden te verrichten, bedoeld in de [artikelen 35, derde lid, aanhef, onderdeel b, van de Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en [63a, derde lid, aanhef, onderdeel b, van de Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). 
 
 ### Artikel  2  
 
-#### *Inwerkingtreding* 
+####*Inwerkingtreding*
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 24 oktober 2002.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 24 oktober 2002. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -26,4 +26,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-M.Rutte    
+M. Rutte      

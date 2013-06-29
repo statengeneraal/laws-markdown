@@ -23,7 +23,7 @@ d. hoofden van dienst: het Hoofd van de Immigratie- en Naturalisatiedienst, de C
 ### Artikel  2  
 
 1.  Er is een Commissie Integraal Toezicht Terugkeer.   
-2.  De commissie houdt toezicht op het totale terugkeerproces. Dit laat onverlet het toezicht dat wordt uitgeoefend door een op basis van [artikel 7 van de Penitentiaire Beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) ingestelde commissie van toezicht detentielocatie, een op basis van het [Besluit Regionale Politiekorpsen](../../../../../../../AMvB/besluit/beheer/regionale/politiekorpsen/BWBR0006560/README.md) en de [Regeling politiecellencomplex](../../../../../../../ministeriele-regeling/regeling/politiecellencomplex/BWBR0006557/README.md) ingestelde commissie van toezicht politiecellen, of door de Inspectie voor de Sanctietoepassing.   
+2.  De commissie houdt toezicht op het totale terugkeerproces. Dit laat onverlet het toezicht dat wordt uitgeoefend door een op basis van artikel 7 van de Penitentiaire Beginselenwet ingestelde commissie van toezicht detentielocatie, een op basis van het Besluit Regionale Politiekorpsen en de Regeling politiecellencomplex ingestelde commissie van toezicht politiecellen, of door de Inspectie voor de Sanctietoepassing.   
 3.  De commissie treedt regelmatig in contact met de in het tweede lid genoemde toezichthouders, teneinde de activiteiten met betrekking tot het toezicht – voor zover het hierbij vreemdelingen in het terugkeerproces betreft – af te stemmen en relevante informatie te wisselen.   
 4.  de commissie rapporteert omtrent haar bevindingen aan de Staatssecretaris van Justitie, als eerstverantwoordelijke en tegelijkertijd aan andere betrokken bewindspersonen. Een afschrift van dit rapport wordt verzonden aan de hoofden van dienst.   
 5.  de commissie brengt jaarlijks een schriftelijk verslag over haar werkzaamheden en bevindingen uit aan de Staatssecretaris van Justitie en andere betrokken bewindspersonen.   
@@ -67,7 +67,7 @@ c. Personen tegen wie, in verband met het vertrouwelijk karakter van de functie 
 
 ### Artikel  7  
 
-1.  De leden van de commissie en haar kamers hebben te allen tijde toegang tot de door de Immigratie- en Naturalisatiedienst, de Koninklijke Marechaussee, de Dienst Justitiële Inrichtingen, het Centraal orgaan Opvang Asielzoekers, de regionale politiekorpsen of de Dienst Terugkeer en Vertrek beheerde ruimten, voor zover daar het terugkeerproces wordt uitgevoerd, en de in die ruimten verblijvende vreemdelingen, tenzij er, naar het oordeel van de leidinggevende ambtenaar van de Immigratie- en Naturalisatiedienst, de Koninklijke Marechaussee, de Dienst Justitiële Inrichtingen, het Centraal orgaan Opvang Asielzoekers, de regionale politiekorpsen of de Dienst Terugkeer en Vertrek ter plaatse, gegronde reden bestaat dat de orde daardoor zal worden verstoord.   
+1.  De leden van de commissie en haar kamers hebben te allen tijde toegang tot de door de Immigratie- en Naturalisatiedienst, de Koninklijke Marechaussee, de Dienst Justitiële Inrichtingen, het Centraal orgaan Opvang Asielzoekers, de regionale politiekorpsen of de Dienst Terugkeer en Vertrek beheerde ruimten, voor zover daar het terugkeerproces wordt uitgevoerd, en de in die ruimten verblijvende vreemdelingen, tenzij er, naar het oordeel van de leidinggevende ambtenaar van de Immigratie- en Naturalisatiedienst, de Koninklijke Marechaussee, de Dienst Justitiële Inrichtingen, het Centraal orgaan Opvang Asielzoekers, de regionale politiekorpsen of de Dienst Terugkeer en Vertrek ter plaatse, gegronde reden bestaat dat de orde daardoor zal worden verstoord. De leden van de commissie en haar kamers kunnen zich te allen tijde laten vergezellen door de Inspecteurs van de Inspectie Veiligheid en Justitie.   
 2.  De leden van de commissie en haar kamers worden geïnformeerd over de veiligheidsvoorschriften en dienen de op grond daarvan gegeven aanwijzingen door de ambtenaren van de Immigratie- en Naturalisatiedienst, de Koninklijke Marechaussee, de Dienst Justitiële Inrichtingen, het Centraal orgaan Opvang Asielzoekers, de regionale politiekorpsen of de Dienst Terugkeer en Vertrek terstond op te volgen.   
 3.  De commissie kan zich over alle aangelegenheden die verband houden met de vervulling van haar taken rechtstreeks wenden tot de hoofden van dienst onder wier verantwoordelijkheid het terugkeerproces plaatsvindt of tot andere organisaties of bedrijven die faciliteiten leveren in het kader van het terugkeerproces.   
 4.  De ambtenaren van de Immigratie- en Naturalisatiedienst, de Koninklijke Marechaussee, de Dienst Justitiële Inrichtingen, het Centraal orgaan Opvang Asielzoekers, de regionale politiekorpsen en de Dienst Terugkeer en Vertrek verlenen de commissie en haar kamers terstond alle medewerking die zij redelijkerwijs voor haar taak behoeft. Zij voorzien de leden van de commissie en haar kamers desgevraagd van middelen en mogelijkheden om ook feitelijk toezicht uit te oefenen.   
@@ -94,8 +94,7 @@ De leden van de commissie en haar kamers ontvangen voor door hen in het kader va
 
 ### Artikel  12  
 
-1.  De [regeling van de Commissie van Toezicht Terugkeer](../../../../../../../ministeriele-regeling/regeling/commissie/van/toezicht/terugkeer/BWBR0019764/README.md) van 15 april 2006, alsmede de [regeling van de Commissie van Toezicht uitzettingen Koninklijke Marechaussee](../../../../../../../ministeriele-regeling/regeling/commissie/van/toezicht/uitzettingen/koninklijke/marechaussee/BWBR0018627/README.md) van 25 juli 2005 worden ingetrokken.   
-2.  De [regeling van de Commissie van Toezicht Uitzettingen KMar](../../../../../../../ministeriele-regeling/regeling/commissie/van/toezicht/uitzettingen/koninklijke/marechaussee/BWBR0018627/README.md), zoals die luidde voorafgaand aan de intrekking, blijft van kracht ten aanzien van onderzoeken die zijn aangevangen voor de inwerkingtreding van deze regeling.   
+Met ingang van 1 januari 2014 bestaat de taak van de commissie uit de werkzaamheden, bedoeld in artikel 2, vijfde lid.  
 
 ### Artikel  13  
 
@@ -103,7 +102,8 @@ De regeling wordt aangehaald als: Regeling Commissie Integraal Toezicht Terugkee
 
 ### Artikel  14  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+1.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.   
+2.  De regeling vervalt met ingang van 1 juli 2014.   
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 

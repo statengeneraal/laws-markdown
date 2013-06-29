@@ -41,7 +41,7 @@ d. voor de betrokkenen bedoeld in het eerste lid, onder d, het over de maand dec
 
 e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand december 2007 genoten uitkering, na toepassing van de krachtens de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), respectievelijk het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md), geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.     
 3.  De eenmalige uitkering 2007 heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging in de zin van het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) noch maakt zij deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
-4.  De eenmalige uitkering 2007 maakt voor de ambtenaar aangesteld in burgerlijke openbare dienst, alsmede voor de gewezen ambtenaar, die aanspraak heeft op deze uitkering, deel uit van de pensioengrondslag.   
+4.  De eenmalige uitkering 2007 maakt voor de ambtenaar aangesteld in burgerlijke openbare dienst, alsmede voor de gewezen ambtenaar, die aanspraak heeft op deze uitkering, deel uit van de pensioengrondslag.  
 
 ### Hoofdstuk  2  
 
@@ -72,7 +72,7 @@ d. voor de betrokkenen bedoeld in het eerste lid, onder d, het over de maand dec
 
 e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand december 2008 genoten uitkering, na toepassing van de krachtens de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), respectievelijk het [Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](../../../../../../../../../../../AMvB/besluit/uitkering/wegens/functioneel/leeftijdsontslag/burgerlijke/etc/BWBR0006041/README.md), geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.     
 3.  De eenmalige uitkering 2008 heeft geen algemeen karakter en wordt niet gerekend tot de bezoldiging in de zin van het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) noch maakt zij deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
-4.  De eenmalige uitkering 2008 maakt voor de ambtenaar aangesteld in burgerlijke openbare dienst, alsmede voor de gewezen ambtenaar, die aanspraak heeft op deze uitkering, deel uit van de pensioengrondslag.   
+4.  De eenmalige uitkering 2008 maakt voor de ambtenaar aangesteld in burgerlijke openbare dienst, alsmede voor de gewezen ambtenaar, die aanspraak heeft op deze uitkering, deel uit van de pensioengrondslag.  
 
 ### Hoofdstuk  3  
 
@@ -85,7 +85,7 @@ e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand dece
 3.  De gewezen militair bedoeld in het tweede lid heeft aanspraak op de in het eerste lid bedoelde jaarlijkse nominale uitkering gedurende de periode dat hij aanspraak heeft op een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md). De gewezen militair heeft in enig jaar hetzij aanspraak op de in het eerste lid bedoelde jaarlijkse nominale uitkering hetzij op de in het tweede lid bedoelde jaarlijkse nominale uitkering.   
 4.  De militair die op 31 december 2005 één of meer gezinsleden had als bedoeld in artikel 4, eerste lid, onder c en e, van de Regeling ziektekostenverzekering militairen zoals die regeling luidde op 31 december 2005, welke gezinsleden op die datum voor ziektekosten waren verzekerd bij de Stichting Ziektekostenverzekering Krijgsmacht, heeft per desbetreffend gezinslid aanspraak op een jaarlijkse nominale bruto uitkering ter grootte van € 300. De aanspraak op deze uitkering vervalt op het moment dat het gezinslid niet meer voldoet aan de op 31 december 2005 geldende voorwaarden voor het voor ziektekosten verzekerd zijn bij de Stichting Ziektekostenverzekering Krijgsmacht. De aanspraak op de uitkering wordt per gezinslid vastgesteld aan de hand van de situatie per 1 januari van enig jaar.   
 5.  De in dit artikel bedoelde uitkeringen hebben geen algemeen karakter en maken geen deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
-6.  De in dit artikel genoemde uitkeringen worden uitbetaald in de maand december van enig jaar.   
+6.  De in dit artikel genoemde uitkeringen worden uitbetaald in de maand december van enig jaar.  
 
 ### Hoofdstuk  4  
 
@@ -93,15 +93,15 @@ e. voor de betrokkenen bedoeld in het eerste lid, onder e, de over de maand dece
 
 ### Artikel  4  
 
-Wijzigt het Besluit personenchauffeurs defensie.   
+Wijzigt het Besluit personenchauffeurs defensie. 
 
 ### Artikel  5  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  6  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Hoofdstuk  5  
 
@@ -109,11 +109,11 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Artikel  7  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  8  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Hoofdstuk  6  
 
@@ -121,19 +121,19 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Artikel  9  
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement defensie. 
 
 ### Artikel  10  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  11  
 
-Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  12  
 
-Wijzigt het Verplaatsingskostenbesluit militairen.   
+Wijzigt het Verplaatsingskostenbesluit militairen. 
 
 ### Hoofdstuk  7  
 
@@ -141,27 +141,27 @@ Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ### Artikel  13  
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+Wijzigt het Algemeen militair ambtenarenreglement. 
 
 ### Artikel  14  
 
-Wijzigt het Besluit dienstreizen defensie.   
+Wijzigt het Besluit dienstreizen defensie. 
 
 ### Artikel  15  
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement defensie. 
 
 ### Artikel  16  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  17  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Artikel  18  
 
-Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie.   
+Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie. 
 
 ### Hoofdstuk  8  
 
@@ -169,15 +169,15 @@ Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector 
 
 ### Artikel  19  
 
-Wijzigt het Besluit personenchauffeurs defensie.   
+Wijzigt het Besluit personenchauffeurs defensie. 
 
 ### Artikel  20  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  21  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Hoofdstuk  9  
 
@@ -185,7 +185,7 @@ Wijzigt het Inkomstenbesluit militairen.
 
 ### Artikel  22  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Hoofdstuk  10  
 
@@ -200,7 +200,7 @@ a. 2,05% per 1 maart 2007
 
 b. 2% per 1 juli 2008  
 
-c. toekomstige aanpassingen van het salaris.    
+c. toekomstige aanpassingen van het salaris.   
 
 ### Hoofdstuk  11  
 
@@ -212,9 +212,9 @@ c. toekomstige aanpassingen van het salaris.
 
 Ingetrokken worden: 
 
-a. de [Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht](../../../../../../../../../../../AMvB/premieregeling/en/aanvullende/voorzieningen/beroepsmilitairen/van/de/etc/BWBR0003538/README.md).  
+a.de [Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht](../../../../../../../../../../../AMvB/premieregeling/en/aanvullende/voorzieningen/beroepsmilitairen/van/de/etc/BWBR0003538/README.md).
 
-b. het [koninklijk besluit van 17 januari 1967 houdende bepalingen betreffende het ontslag van de geestelijke verzorgers in de krijgsmacht](../../../../../../../../../../../AMvB/besluit/bepalingen/ontslag/geestelijke/verzorgers/krijgsmacht/BWBR0002550/README.md).    
+b.het [koninklijk besluit van 17 januari 1967 houdende bepalingen betreffende het ontslag van de geestelijke verzorgers in de krijgsmacht](../../../../../../../../../../../AMvB/besluit/bepalingen/ontslag/geestelijke/verzorgers/krijgsmacht/BWBR0002550/README.md).
 
 ### Artikel  25  
 
@@ -240,7 +240,7 @@ h. artikel 22, onderdeel B, in werking treedt met ingang van 1 april 2008;
 
 i. de artikelen 19 tot en met 21 in werking treden met ingang van 1 juli 2008;  
 
-j. artikel 22, onderdeel C in werking treedt met ingang van 1 april 2009.    
+j. artikel 22, onderdeel C in werking treedt met ingang van 1 april 2009.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -248,7 +248,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 11 december 2007  
 Beatrix  
 
-De Staatssecretaris van Defensie , 
+De Staatssecretaris van Defensie ,  
 C. van der Knaap   
 
 de *achtentwintigste* december 2007 

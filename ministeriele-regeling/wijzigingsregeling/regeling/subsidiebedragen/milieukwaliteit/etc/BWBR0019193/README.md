@@ -10,35 +10,35 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2005.   
+Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2005. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006.   
+Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006.
 
 ### Artikel  III  
 
-Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006 (periode 1 juli tot en met 31 december).   
+Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006 (periode 1 juli tot en met 31 december).
 
 ### Artikel  IV  
 
-Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007.   
+Wijzigt de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007.
 
 ### Artikel  V  
 
-Wijzigt de Regeling garanties van oorsprong voor duurzame elektriciteit.   
+Wijzigt de Regeling garanties van oorsprong voor duurzame elektriciteit.
 
 ### Artikel  VI  
 
-Wijzigt de Algemene uitvoeringsregeling milieukwaliteit elektriciteitsproductie.   
+Wijzigt de Algemene uitvoeringsregeling milieukwaliteit elektriciteitsproductie.
 
 ### Artikel  VII  
 
-Op aanvragen om subsidie voor de productie van duurzame elektriciteit als bedoeld in [artikel 3 van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) die vóór 10 mei 2005 zijn ingediend en op subsidies die vóór 10 mei 2005 zijn verstrekt, is de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde.  
+Op aanvragen om subsidie voor de productie van duurzame elektriciteit als bedoeld in [artikel 3 van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) die vóór 10 mei 2005 zijn ingediend en op subsidies die vóór 10 mei 2005 zijn verstrekt, is de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  VIII  
 
-Op aanvragen om subsidie voor de productie van duurzame elektriciteit als bedoeld in [artikel 6, tweede lid van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2005](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2005/BWBR0016122/README.md), [artikel 6, tweede lid, van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md), [artikel 5 van Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006 (periode 1 juli tot en met 31 december)](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/etc/BWBR0017787/README.md) en [artikel 5, tweede lid van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) die vóór 10 mei 2005 zijn ingediend en op subsidies die vóór 10 mei 2005 zijn verstrekt, is de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde.  
+Op aanvragen om subsidie voor de productie van duurzame elektriciteit als bedoeld in [artikel 6, tweede lid van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2005](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2005/BWBR0016122/README.md), [artikel 6, tweede lid, van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md), [artikel 5 van Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006 (periode 1 juli tot en met 31 december)](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/etc/BWBR0017787/README.md) en [artikel 5, tweede lid van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) die vóór 10 mei 2005 zijn ingediend en op subsidies die vóór 10 mei 2005 zijn verstrekt, is de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  IX  
 
@@ -48,11 +48,11 @@ Op aanvragen om subsidie voor de productie van duurzame elektriciteit als bedoel
 
 a. vóór 13 juni 2005 een schriftelijke overeenkomst heeft gesloten ter renovatie van de desbetreffende productie-installatie en  
 
-b. na 13 juni 2005 een aanvraag tot ontheffing en een aanvraag tot subsidie indient,   is de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde.   
+b. na 13 juni 2005 een aanvraag tot ontheffing en een aanvraag tot subsidie indient,   is de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde.  
 
 ### Artikel  X  
 
-Op aanvragen om subsidie voor subsidie voor de productie van duurzame elektriciteit als bedoeld in de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2005/BWBR0016122/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2005](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2005/BWBR0016122/README.md), de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md), de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/etc/BWBR0017787/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006 (periode 1 juli tot en met 31 december)](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md) en de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) die voor 6 oktober 2005 zijn ingediend en op subsidies die voor 6 oktober 2005 zijn verstrekt, de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde.  
+Op aanvragen om subsidie voor subsidie voor de productie van duurzame elektriciteit als bedoeld in de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2005/BWBR0016122/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2005](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2005/BWBR0016122/README.md), de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md), de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/etc/BWBR0017787/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2006 (periode 1 juli tot en met 31 december)](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2006/BWBR0016920/README.md) en de [artikelen 2](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) en [2a van de Regeling subsidiebedragen milieukwaliteit elektriciteitsproductie 2007](../../../../../../../ministeriele-regeling/regeling/subsidiebedragen/milieukwaliteit/elektriciteitsproductie/2007/BWBR0017785/README.md) die voor 6 oktober 2005 zijn ingediend en op subsidies die voor 6 oktober 2005 zijn verstrekt, de regelgeving van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  XI  
 
@@ -62,12 +62,12 @@ Op aanvragen om subsidie voor subsidie voor de productie van duurzame elektricit
 4.  De artikelen V en VI treden in werking met ingang van de tweede dag na de publicatie in de Staatscourant.   
 5.  Artikel II treedt in werking met ingang van 1 januari 2006.   
 6.  Artikel III treedt in werking met ingang van 1 juli 2006.   
-7.  Artikel IV treedt in werking met ingang van 1 januari 2007.   
+7.  Artikel IV treedt in werking met ingang van 1 januari 2007.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij de netbeheerder van het landelijk hoogspanningsnet, Utrechtseweg 310, Arnhem.   
 
 Den Haag 
 8 december 2005   
 
 De 
-Minister van Economische Zaken, 
-L.J.Brinkhorst   
+Minister van Economische Zaken,
+L.J. Brinkhorst     

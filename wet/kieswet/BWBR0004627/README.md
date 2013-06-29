@@ -159,10 +159,9 @@ Burgemeester en wethouders van 's-Gravenhage verwijderen de naam van een persoon
 
 ### Artikel  D 9  
 
-1.  Tegen een beschikking als bedoeld in de artikelen D 3, achtste lid, D 6 en D 8 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Artikel 7:1 en titel 8.3 van de Algemene wet bestuursrecht blijven buiten toepassing.   
-3.  In afwijking van artikel 8:41, tweede lid, van de Algemene wet bestuursrecht bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling kan een kortere termijn stellen.   
-4.  De Afdeling behandelt de zaak met toepassing van afdeling 8.2.3 van de Algemene wet bestuursrecht. Afdeling 8.2.4 blijft buiten toepassing. Aan burgemeester en wethouders wordt terstond een afschrift van het beroepschrift gezonden.   
+1.  Titel 8.3 van de Algemene wet bestuursrecht is niet van toepassing op beschikkingen als bedoeld in de artikelen D 3, achtste lid, D 6 en D 8.   
+2.  In afwijking van artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State kan een kortere termijn stellen.   
+3.  De Afdeling bestuursrechtspraak van de Raad van State behandelt de zaak met toepassing van afdeling 8.2.3 van de Algemene wet bestuursrecht. Afdeling 8.2.4 blijft buiten toepassing. Aan burgemeester en wethouders wordt terstond een afschrift van het beroepschrift gezonden.   
 
 ### Artikel  D 10  
 
@@ -381,15 +380,14 @@ d. voor de laatstgehouden verkiezing van de leden van de gemeenteraad geen geldi
 
 ### Artikel  G 5  
 
-1.  Tegen een beschikking als bedoeld in de artikelen G 1, G 2, G 3, en G 4 kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht wordt een beroepschrift ingevolge die wet tegen: 
+1.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht wordt een beroepschrift ingevolge die wet tegen: 
 
 a. een beschikking als bedoeld in de artikelen G 1 en G 2 ingediend uiterlijk op de zesde dag na de dagtekening van de *Staatscourant* waarin de beschikking is opgenomen, dan wel na de dag waarop de beschikking geacht wordt te zijn geweigerd,  
 
 b. een beschikking als bedoeld in artikel G 3 ingediend uiterlijk op de zesde dag na de dagtekening van de openbare kennisgeving, bedoeld in het vijfde lid van dat artikel, dan wel na de dag waarop de beschikking geacht wordt te zijn geweigerd, en  
 
 c. een beschikking als bedoeld in artikel G 4 ingediend uiterlijk op de zesde dag na de dag waarop de beschikking, als bedoeld in het tweede lid van dat artikel is bekendgemaakt, dan wel na de dag waarop de beschikking geacht wordt te zijn geweigerd.     
-3.  Artikel D 9, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
+2.  Artikel D 9 is van overeenkomstige toepassing.   
 
 ### Artikel  G 6  
 
@@ -604,11 +602,11 @@ b. de aanduiding geplaatst is boven meer dan één van de bij het hoofdstemburea
 
 ### Artikel  I 7  
 
-1.  Tegen een beschikking als bedoeld in artikel I 4 kan een belanghebbende en iedere kiezer beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een beroepschrift vier dagen.   
-2.  Artikel D 9, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
-3.  De Afdeling doet uitspraak uiterlijk op de zesde dag nadat het beroepschrift is ontvangen.   
-4.  Indien de uitspraak van de Afdeling strekt tot gegrondverklaring van het beroep, bepaalt zij dat haar uitspraak in de plaats treedt van de vernietigde beschikking.   
-5.  De voorzitter van de Afdeling stelt partijen en de voorzitter van het hoofdstembureau onverwijld in kennis van de uitspraak.   
+1.  Tegen een beschikking als bedoeld in artikel I 4 kan, in afwijking van artikel 8:1 van de Algemene wet bestuursrecht, beroep worden ingesteld door een belanghebbende en iedere kiezer. In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een beroepschrift vier dagen.   
+2.  Artikel D 9 lid, is van overeenkomstige toepassing.   
+3.  De Afdeling bestuursrechtspraak van de Raad van State doet uitspraak uiterlijk op de zesde dag nadat het beroepschrift is ontvangen.   
+4.  Indien de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State strekt tot gegrondverklaring van het beroep, bepaalt zij dat haar uitspraak in de plaats treedt van de vernietigde beschikking.   
+5.  De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State stelt partijen en de voorzitter van het hoofdstembureau onverwijld in kennis van de uitspraak.   
 
 ### Artikel  I 8  
 
@@ -695,6 +693,10 @@ a. de plaats waar de processen-verbaal ter inzage worden gelegd;
 b. de bekendmaking van het tijdstip en de plaats van de zitting, bedoeld in artikel I 4 onderscheidenlijk I 12.     
 4.  Bij ministeriële regeling worden voor de processen-verbaal modellen vastgesteld.   
 5.  Terstond na de zitting doet de voorzitter van het hoofdstembureau een afschrift van het proces-verbaal aan het centraal stembureau toekomen.   
+
+### Artikel  I 19  
+
+Het centraal stembureau vernietigt de ingeleverde kandidatenlijsten en, indien vereist, de verklaringen van ondersteuning, nadat onherroepelijk is beslist over de geldigheid van de ingeleverde lijsten. Van de vernietiging wordt proces-verbaal opgemaakt.  
 
 ### Hoofdstuk  J  
 
@@ -1157,6 +1159,17 @@ d. een enveloppe voor het stembiljet;
 e. een handleiding voor de kiezer.     
 2.  Bij ministeriële regeling worden voor de stukken, bedoeld in het eerste lid, onder b, c ,d en e, modellen vastgesteld.   
 
+### Artikel  M 6a  
+
+1.  De burgemeester van ’s-Gravenhage zet op de retourenveloppe het adres van: 
+
+a. het briefstembureau, indien dat voor de kiesgerechtigde is ingesteld op grond van artikel M 13, eerste, tweede en vierde lid;  
+
+b. de vertegenwoordiger van Aruba, Curaçao of Sint Maarten, indien voor de kiesgerechtigde een briefstembureau is ingesteld op Aruba, Curaçao respectievelijk Sint Maarten;  
+
+c. de burgemeester van ’s-Gravenhage, in alle overige gevallen.     
+2.  De vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten zet op de retourenveloppe het adres van de vertegenwoordiger van Nederland in Aruba, Curaçao respectievelijk Sint Maarten.   
+
 ### Artikel  M 7  
 
 1.  De kiezer stemt door op het hem toegezonden stembiljet een wit stipje, geplaatst vóór de kandidaat van zijn keuze, rood te maken.   
@@ -1164,6 +1177,10 @@ e. een handleiding voor de kiezer.
 3.  Hij ondertekent een op het briefstembewijs gestelde verklaring, dat hij het stembiljet persoonlijk heeft ingevuld.   
 4.  Vervolgens doet hij het briefstembewijs en de enveloppe met het stembiljet in de bijbehorende retourenveloppe en zendt hij deze gesloten naar de burgemeester van 's-Gravenhage dan wel naar het hoofd van de consulaire post waaronder de woon- en verblijfplaats van verzoeker ressorteert, die voor spoedige doorzending naar de burgemeester van 's-Gravenhage zorg draagt.   
 5.  De kiezer draagt er zorg voor dat de retourenveloppe voldoende is gefrankeerd.   
+
+### Artikel  M 7a  
+
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het stemmen per brief.  
 
 ### Artikel  M 8  
 
@@ -1198,6 +1215,35 @@ e. een handleiding voor de kiezer.
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het stemmen per brief.  
 
 ### §  2  
+
+####Briefstembureaus buiten Nederland
+
+### Artikel  M 13  
+
+1.  Onze Minister van Buitenlandse Zaken kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in een land een diplomatieke of consulaire vertegenwoordiging van Nederland aanwijzen waar een briefstembureau wordt ingesteld. Van deze aanwijzing wordt mededeling gedaan in de Staatscourant.   
+2.  Een briefstembureau kan ook voor kiesgerechtigden die hun werkelijke woonplaats in een ander land hebben dan het land waarin de diplomatieke of consulaire vertegenwoordiging van Nederland gevestigd is, worden ingesteld.   
+3.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt in Aruba, in Curaçao en in Sint Maarten briefstembureaus in bij de Vertegenwoordiging van Nederland.   
+4.  Onze Minister van Defensie kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties een of meer militaire missies buiten het Koninkrijk aanwijzen ten behoeve waarvan aldaar een briefstembureau wordt ingesteld.   
+5.  De leden en plaatsvervangende leden van de in het eerste, derde en vierde lid bedoelde briefstembureaus worden tijdig voor elke verkiezing benoemd door Onze Minister van Buitenlandse Zaken, onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, onderscheidenlijk Onze Minister van Defensie.   
+
+### Artikel  M 14  
+
+De burgemeester van 's-Gravenhage of de door hem daartoe aangewezen ambtenaar zendt de ingewilligde verzoekschriften, afkomstig van personen die hun werkelijke woonplaats hebben in een land als bedoeld in artikel M 13 of daar op de dag der stemming zullen verblijven, zo spoedig mogelijk per diplomatieke post naar het hoofd van de ingevolge artikel M 13, eerste lid, aangewezen diplomatieke of consulaire vertegenwoordiging van Nederland in het desbetreffende land dan wel naar de vertegenwoordiger van Nederland in Aruba, in Curaçao of in Sint Maarten dan wel naar de Nederlandse leiding in het inzetgebied van de ingevolge artikel M 13, vierde lid, aangewezen militaire missie.  
+
+### Artikel  M 15  
+
+De kiezer die bij een diplomatieke of consulaire vertegenwoordiging van Nederland in het buitenland of bij de Vertegenwoordiging van Nederland in Aruba, in Curaçao of in Sint Maarten of bij een voor een aangewezen militaire missie ingesteld briefstembureau per brief stemt, ontvangt van de burgemeester van 's-Gravenhage een retourenveloppe, geadresseerd aan de voorzitter van het daar gevestigde briefstembureau. Hij zendt de retourenveloppe, na de in artikel M 7 bedoelde handelingen te hebben verricht, naar deze voorzitter.  
+
+### Artikel  M 16  
+
+1.  De in artikel M 8, eerste tot en met derde lid, aan de burgemeester opgedragen taken worden verricht door het hoofd van de diplomatieke of consulaire vertegenwoordiging van Nederland in het desbetreffende land danwel door de vertegenwoordiger van Nederland in Aruba, in Curaçao of in Sint Maarten danwel door de Nederlandse leiding van de militaire missie.   
+2.  Indien een tijdsverschil met Nederland bestaat, gelden de in artikel M 8, eerste en tweede lid, genoemde tijdstippen naar plaatselijke tijd.   
+
+### Artikel  M 17  
+
+Voor de zitting van briefstembureaus buiten Nederland kan Onze Minister van Buitenlandse Zaken danwel Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties danwel Onze Minister van Defensie, een later aanvangstijdstip bepalen dan het in artikel J 1, tweede lid, genoemde.  
+
+### §  3  
 
 ####Briefstembureaus buiten Nederland
 
@@ -1304,6 +1350,10 @@ b. het aantal ongeldige stemmen.
 1.  Het stembureau beslist met inachtneming van artikel N 7 over de geldigheid van het stembiljet.   
 2.  De voorzitter maakt de reden van ongeldigverklaring en van twijfel over de geldigheid, alsmede de beslissing daaromtrent onmiddellijk bekend.   
 3.  Indien een van de aanwezige kiezers dit verlangt, moet het biljet worden getoond. De kiezers kunnen mondeling bezwaren tegen de genomen beslissing inbrengen.   
+
+### Artikel  N 8a  
+
+Het stembureau stelt vast het verschil tussen het aantal kiezers dat tot de stemming is toegelaten en het aantal stemmen dat is geteld. Voor zover mogelijk geeft het stembureau hiervoor een verklaring.  
 
 ### Artikel  N 9  
 
@@ -1588,6 +1638,10 @@ De voorzitter van het centraal stembureau doet een afschrift van het proces-verb
 
 De voorzitter van het centraal stembureau draagt zorg voor de bewaring van de verzegelde pakken met stembiljetten die op grond van het eerste lid van artikel P 21 naar het centraal stembureau zijn overgebracht. Hij vernietigt deze pakken, nadat over de toelating van de benoemden is beslist. Van deze vernietiging wordt proces-verbaal opgemaakt.  
 
+### Artikel  P 26  
+
+Nadat is beslist over de toelating van de gekozenen, is het centraal stembureau bevoegd, de pakken, bedoeld in artikel P 21, tweede lid, het proces-verbaal, bedoeld in artikel P 22, en, tenzij het de verkiezing betreft van de gemeenteraad of van provinciale staten van een provincie die één kieskring vormt, de processen-verbaal van de hoofdstembureaus, ten dienste van een onderzoek naar enig strafbaar feit aan de officier van justitie over te dragen.  
+
 ### Afdeling  III  
 
 ####De verkiezing van de leden van de Eerste Kamer der Staten-Generaal
@@ -1760,9 +1814,9 @@ b. de aanduiding geplaatst is boven meer dan één van de bij het centraal stemb
 
 ### Artikel  S 5  
 
-1.  Tegen een beschikking als bedoeld in artikel S 2 kan een belanghebbende en iedere kiezer beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+1.  Tegen een beschikking als bedoeld in artikel S 2 kan, in afwijking van artikel 8:1 van de Algemene wet bestuursrecht, beroep worden ingesteld door een belanghebbende en iedere kiezer.   
 2.  Artikel I 7, eerste lid, tweede volzin, en tweede tot en met vierde lid, is van overeenkomstige toepassing.   
-3.  De voorzitter van de Afdeling stelt partijen en de voorzitter van het centraal stembureau onverwijld in kennis van de uitspraak.   
+3.  De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State stelt partijen en de voorzitter van het centraal stembureau onverwijld in kennis van de uitspraak.   
 
 ### Artikel  S 6  
 
@@ -2008,7 +2062,7 @@ Het centraal stembureau kan, hetzij ambtshalve, hetzij naar aanleiding van een m
 1.  Tegelijk met de mededeling dat hij zijn benoeming aanneemt, legt de benoemde, onderscheidenlijk zijn gemachtigde, aan het vertegenwoordigend orgaan een door hem ondertekende verklaring over, vermeldende alle openbare betrekkingen die de benoemde bekleedt.   
 2.  Tenzij de benoemde op het tijdstip van benoeming reeds lid van het vertegenwoordigend orgaan was, legt hij tevens een gewaarmerkt afschrift van gegevens uit de basisadministratie persoonsgegevens van de gemeente waar hij als ingezetene is ingeschreven over, waaruit zijn woonplaats, datum en plaats van de geboorte, alsmede, indien het betreft een benoeming tot lid van de Tweede of Eerste Kamer of provinciale staten, zijn Nederlanderschap blijken.   
 3.  De gemachtigde van de benoemde die buiten Nederland woonplaats heeft, legt in plaats van het afschrift, bedoeld in het tweede lid, een uittreksel uit de geboorteregisters over, waaruit datum en plaats van de geboorte van de benoemde blijken, alsmede een bewijs van Nederlanderschap betreffende de benoemde.   
-4.  Indien een tot lid van de gemeenteraad benoemde persoon geen onderdaan is van een lid-staat van de Europese Unie, legt hij een gewaarmerkt afschrift van gegevens uit de basisadministratie persoonsgegevens van de gemeente waar hij als ingezetene is ingeschreven over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in artikel 10, tweede lid, van de Gemeentewet.   
+4.  Indien een tot lid van de gemeenteraad benoemde persoon geen onderdaan is van een lidstaat van de Europese Unie, legt hij een gewaarmerkt afschrift van gegevens uit de basisadministratie persoonsgegevens van de gemeente waar hij als ingezetene is ingeschreven over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in artikel 10, tweede lid, van de Gemeentewet.   
 
 ### Artikel  V 4  
 
@@ -2281,7 +2335,7 @@ b. de niet-Nederlanders die onderdanen zijn van andere lid-staten van de Europes
 
 2°. op de dag van de stemming de leeftijd van achttien jaar hebben bereikt, en  
 
-3°. niet zijn uitgesloten van het kiesrecht, hetzij in Nederland, hetzij in de lid-staat waarvan zij onderdaan zijn.      
+3°. niet zijn uitgesloten van het kiesrecht, hetzij in Nederland, hetzij in de lidstaat waarvan zij onderdaan zijn.      
 
 ### Artikel  Y 4  
 
@@ -2295,7 +2349,7 @@ b. de niet-Nederlanders die onderdanen zijn van andere lid-staten van de Europes
 
 2°. de leeftijd van achttien jaar hebben bereikt, en  
 
-3°. niet zijn uitgesloten van het recht om gekozen te worden, hetzij in Nederland, hetzij in de lid-staat waarvan zij onderdaan zijn.      
+3°. niet zijn uitgesloten van het recht om gekozen te worden, hetzij in Nederland, hetzij in de lidstaat waarvan zij onderdaan zijn.      
 
 ### Artikel  Y 5  
 
@@ -2308,9 +2362,9 @@ De Nederlander die op de dag van de kandidaatstelling zijn werkelijke woonplaats
 
 ### Artikel  Y 6  
 
-1.  Nederlanders die werkelijke woonplaats hebben in een andere lid-staat, kunnen in Nederland slechts als kiezer voor de verkiezing van de leden van het Europees Parlement worden geregistreerd, als zij hebben verklaard niet tevens in die andere lid-staat aan de verkiezing te zullen deelnemen.   
+1.  Nederlanders die werkelijke woonplaats hebben in een andere lidstaat, kunnen in Nederland slechts als kiezer voor de verkiezing van de leden van het Europees Parlement worden geregistreerd, als zij hebben verklaard niet tevens in die andere lidstaat aan de verkiezing te zullen deelnemen.   
 2.  De in het eerste lid bedoelde verklaring wordt gelijktijdig ingediend met het in artikel D 3, eerste lid, bedoelde verzoek. Zij maakt deel uit van het in artikel D 3, negende lid, bedoelde formulier. Bij ministeriële regeling wordt de formulering van de verklaring vastgesteld.   
-3.  Burgemeester en wethouders van 's-Gravenhage wijzen een verzoek als bedoeld in artikel D 3, eerste lid, af indien zij van de desbetreffende lid-staat bericht hebben ontvangen dat de verzoeker in die lid-staat als kiezer is geregistreerd.   
+3.  Burgemeester en wethouders van 's-Gravenhage wijzen een verzoek als bedoeld in artikel D 3, eerste lid, af indien zij van de desbetreffende lidstaat bericht hebben ontvangen dat de verzoeker in die lidstaat als kiezer is geregistreerd.   
 
 ### Artikel  Y 8  
 
@@ -2336,7 +2390,7 @@ De kandidatenlijsten gelden voor het gehele land. De inlevering van de lijsten g
 
 ### Artikel  Y 13  
 
-1.  Bij de lijst wordt van iedere daarop voorkomende kandidaat naast de in artikel H 9 bedoelde verklaring van instemming een schriftelijke verklaring overgelegd dat hij niet in een andere lid-staat kandidaat voor het lidmaatschap van het Europees Parlement zal zijn.   
+1.  Bij de lijst wordt van iedere daarop voorkomende kandidaat naast de in artikel H 9 bedoelde verklaring van instemming een schriftelijke verklaring overgelegd dat hij niet in een andere lidstaat kandidaat voor het lidmaatschap van het Europees Parlement zal zijn.   
 2.  Bij algemene maatregel van bestuur wordt geregeld waar en wanneer de formulieren voor de in het eerste lid bedoelde verklaring, kosteloos, voor de kiezers verkrijgbaar zijn. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.   
 
 ### Artikel  Y 14  
@@ -2369,6 +2423,14 @@ Artikel I 9 blijft buiten toepassing.
 ### Artikel  Y 22  
 
 Voor de toepassing van artikel N 12, hoofdstuk O en artikel P 1 treden de hoofdstembureaus voor de verkiezing van de leden van de Tweede Kamer op als hoofdstembureaus voor de verkiezing van de leden van het Europees Parlement.  
+
+### Artikel  Y 22a  
+
+De stemming geschiedt in elke kieskring over de kandidaten wier namen voorkomen op de voor het gehele land geldig verklaarde kandidatenlijsten.  
+
+### Artikel  Y 22b  
+
+De artikelen N 12, eerste lid, tweede zin, en O 4, eerste lid, blijven buiten toepassing tot de sluiting van de stembussen in de lidstaat waar de kiezers het laatst hun stem uitbrengen tijdens de in de Akte bedoelde stemmingsperiode.  
 
 ### Artikel  Y 23  
 
@@ -2434,30 +2496,30 @@ c. de voorzitter van de Tweede Kamer van de beslissing tot tijdelijk ontslag onv
 
 ### Artikel  Y 31  
 
-De kiesgerechtigde niet-Nederlander die onderdaan is van een andere lid-staat van de Europese Unie die zijn werkelijke woonplaats in het Europese deel van Nederland heeft, neemt aan de verkiezing deel hetzij in het Europese deel van Nederland, hetzij in de lid-staat waarvan hij onderdaan is.  
+De kiesgerechtigde niet-Nederlander die onderdaan is van een andere lidstaat van de Europese Unie die zijn werkelijke woonplaats in het Europese deel van Nederland heeft, neemt aan de verkiezing deel hetzij in het Europese deel van Nederland, hetzij in de lidstaat waarvan hij onderdaan is.  
 
 ### Artikel  Y 32  
 
 1.  Burgemeester en wethouders registreren de kiesgerechtigdheid van de in artikel Y 3, onder b, bedoelde personen die ingezetene zijn van de gemeente in de gemeentelijke administratie, indien zij daartoe een schriftelijk verzoek hebben ingediend.   
-2.  Bij het verzoek vermeldt verzoeker zijn adres van verblijf en, voor zover van toepassing, de plaats in de lid-staat waarvan hij onderdaan is, waar hij het laatst als kiezer was geregistreerd. Bij het verzoek legt verzoeker een kopie over van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. Voorts verklaart hij dat hij in de lid-staat waarvan hij onderdaan is, niet van het kiesrecht is uitgesloten en dat hij het kiesrecht uitsluitend in Nederland zal uitoefenen.   
+2.  Bij het verzoek vermeldt verzoeker zijn adres van verblijf en, voor zover van toepassing, de plaats in de lidstaat waarvan hij onderdaan is, waar hij het laatst als kiezer was geregistreerd. Bij het verzoek legt verzoeker een kopie over van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht. Voorts verklaart hij dat hij in de lidstaat waarvan hij onderdaan is, niet van het kiesrecht is uitgesloten en dat hij het kiesrecht uitsluitend in Nederland zal uitoefenen.   
 3.  Verzoeken die worden ontvangen na de dag van de kandidaatstelling blijven voor de daaropvolgende verkiezing buiten beschouwing.   
 4.  Bij algemene maatregel van bestuur wordt geregeld waar en wanneer het formulier voor het verzoek, kosteloos, voor de kiezers verkrijgbaar is. Van het formulier maken de verklaringen, bedoeld in het tweede lid, deel uit. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.   
-5.  Burgemeester en wethouders zenden aan de niet-Nederlander, die de nationaliteit van een andere lid-staat van de Europese Unie heeft, en die zich van buiten het Europese deel van Nederland vestigt in de gemeente, een formulier toe waarmee hij registratie van zijn kiesgerechtigdheid kan verzoeken.   
+5.  Burgemeester en wethouders zenden aan de niet-Nederlander, die de nationaliteit van een andere lidstaat van de Europese Unie heeft, en die zich van buiten het Europese deel van Nederland vestigt in de gemeente, een formulier toe waarmee hij registratie van zijn kiesgerechtigdheid kan verzoeken.   
 6.  Burgemeester en wethouders beslissen op het verzoek uiterlijk op de zevende dag nadat zij het verzoek hebben ontvangen en maken de beslissing onverwijld aan de verzoeker bekend.   
-7.  Indien burgemeester en wethouders van een andere lid-staat bericht hebben ontvangen dat een niet-Nederlander die onderdaan is van die lid-staat aldaar van het kiesrecht is uitgesloten, registreren zij de kiesgerechtigdheid van betrokkene niet.   
-8.  Nadat het verzoek om registratie is ingewilligd, delen burgemeester en wethouders aan de door de desbetreffende lid-staat aangewezen autoriteit mede, dat betrokkene in Nederland als kiezer is geregistreerd. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze en het tijdstip waarop deze mededeling dient te geschieden.   
+7.  Indien burgemeester en wethouders van een andere lidstaat bericht hebben ontvangen dat een niet-Nederlander die onderdaan is van die lidstaat aldaar van het kiesrecht is uitgesloten, registreren zij de kiesgerechtigdheid van betrokkene niet.   
+8.  Nadat het verzoek om registratie is ingewilligd, delen burgemeester en wethouders aan de door de desbetreffende lidstaat aangewezen autoriteit mede, dat betrokkene in Nederland als kiezer is geregistreerd. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze en het tijdstip waarop deze mededeling dient te geschieden.   
 9.  Ten minste zes weken voor de kandidaatstelling brengt de burgemeester de mogelijkheid van registratie voor niet-Nederlanders die onderdanen zijn van andere lid-staten ter openbare kennis.   
 10.  Artikel D 9 is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.   
 
 ### Artikel  Y 33  
 
 1.  De kiesgerechtigdheid van de niet-Nederlander die onderdaan is van een andere lidstaat blijft geregistreerd zolang betrokkene ingezetene is van een Nederlandse gemeente of totdat de registratie van de kiesgerechtigdheid van betrokkene is geschrapt.   
-2.  Burgemeester en wethouders schrappen de registratie van de kiesgerechtigdheid van de als kiezer geregistreerde niet-Nederlander die onderdaan is van een andere lid-staat in de gemeentelijke administratie: 
+2.  Burgemeester en wethouders schrappen de registratie van de kiesgerechtigdheid van de als kiezer geregistreerde niet-Nederlander die onderdaan is van een andere lidstaat in de gemeentelijke administratie: 
 
 a. op verzoek van betrokkene;  
 
 b. indien aan hen omstandigheden bekend worden op grond waarvan de desbetreffende persoon niet als kiezer behoort te zijn geregistreerd.     
-3.  Burgemeester en wethouders doen van een schrapping van de registratie van de kiesgerechtigdheid onverwijld mededeling aan betrokkene en aan de door de desbetreffende lid-staat aangewezen autoriteit waarvan betrokkene onderdaan is.   
+3.  Burgemeester en wethouders doen van een schrapping van de registratie van de kiesgerechtigdheid onverwijld mededeling aan betrokkene en aan de door de desbetreffende lidstaat aangewezen autoriteit waarvan betrokkene onderdaan is.   
 4.  Artikel D 9 is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.   
 
 ### Artikel  Y 33a  
@@ -2466,17 +2528,31 @@ Burgemeester en wethouders schrappen de registratie van de kiesgerechtigdheid al
 
 ### Artikel  Y 34  
 
-In de in artikel H 1 bedoelde openbare kennisgeving wordt tevens melding gemaakt van de mogelijkheid van kandidaatstelling niet-Nederlanders die onderdanen zijn van andere lid-staten.  
+In de in artikel H 1 bedoelde openbare kennisgeving wordt tevens melding gemaakt van de mogelijkheid van kandidaatstelling van niet-Nederlanders die onderdanen zijn van andere lid-staten.  
 
 ### Artikel  Y 35  
 
-1.  De kandidaat die onderdaan is van een andere lid-staat en niet tevens de Nederlandse nationaliteit heeft, vermeldt op de in artikel Y 13 bedoelde verklaring tevens zijn nationaliteit en de plaats in die lid-staat waar hij het laatst als kiezer was ingeschreven.   
-2.  Bij de lijst wordt van iedere daarop voorkomende kandidaat die onderdaan is van een andere lid-staat en niet tevens de Nederlandse nationaliteit heeft een schriftelijke verklaring van de daartoe bevoegde autoriteiten uit die lid-staat overgelegd dat hij, voor zover de autoriteiten bekend is, in die lid-staat niet is uitgesloten van het recht om te worden gekozen.   
-3.  In aanvulling op artikel I 2, eerste lid, wordt het ontbreken van de verklaring, bedoeld in het tweede lid, tevens als verzuim aangemerkt.   
+1.  Bij de lijst wordt van iedere daarop voorkomende kandidaat die onderdaan is van een andere lidstaat en niet tevens de Nederlandse nationaliteit heeft een schriftelijke verklaring van de kandidaat overgelegd dat hij in die lidstaat niet is uitgesloten van het recht om te worden gekozen. De kandidaat vermeldt op deze verklaring tevens zijn nationaliteit, geboortedatum, geboorteplaats en zijn laatste adres in die lidstaat.   
+2.  De formulieren voor de verklaring zijn kosteloos voor de kiezers verkrijgbaar op dezelfde wijze en gedurende dezelfde termijn als de formulieren, bedoeld in artikel Y 13, tweede lid. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.   
+3.  In aanvulling op artikel I 2, eerste lid, wordt het ontbreken van de verklaring, bedoeld in het eerste lid, tevens als verzuim aangemerkt.   
 
 ### Artikel  Y 35a  
 
-Het centraal stembureau schrapt van de lijst de kandidaat van wie de verklaring, bedoeld in artikel Y 35, tweede lid, niet is overgelegd.  
+Het centraal stembureau schrapt van de lijst de kandidaat van wie de verklaring, bedoeld in artikel Y 35, eerste lid, niet is overgelegd.  
+
+### Artikel  Y 35b  
+
+1.  Het centraal stembureau zendt de verklaring, bedoeld in artikel Y 35, eerste lid, onverwijld aan de daartoe aangewezen autoriteit in de andere lidstaat.   
+2.  Het centraal stembureau verzoekt de in het eerste lid bedoelde autoriteit voor aanvang van de zitting, bedoeld in artikel I 4, schriftelijk te verklaren of de kandidaat op wie de verklaring, bedoeld in artikel Y 35, eerste lid, betrekking heeft in die lidstaat is uitgesloten van het recht om te worden gekozen.   
+
+### Artikel  Y 35c  
+
+1.  Het centraal stembureau schrapt van de lijst de kandidaat die blijkens een verklaring als bedoeld in artikel Y 35b, tweede lid, in een andere lidstaat is uitgesloten van het recht om te worden gekozen, indien deze verklaring is ontvangen voor aanvang van de zitting, bedoeld in artikel I 4.   
+2.  Indien het centraal stembureau na het tijdstip, bedoeld in het eerste lid, een verklaring als bedoeld in artikel Y 35b, tweede lid, ontvangt dat een kandidaat in de lidstaat waarvan hij onderdaan is, is uitgesloten van het recht om te worden gekozen, zendt het centraal stembureau de verklaring: 
+
+a. gelijktijdig met de kennisgeving, bedoeld in artikel V 1, derde lid, aan de Tweede Kamer, indien de kandidaat benoemd wordt tot lid van het Europees Parlement;  
+
+b. onverwijld aan de Tweede Kamer, indien de kandidaat lid is van het Europees Parlement.     
 
 ### Artikel  Y 36  
 
@@ -2484,7 +2560,8 @@ Het centraal stembureau stelt door tussenkomst van Onze Minister van Buitenlands
 
 ### Artikel  Y 38  
 
-Een Nederlander die werkelijke woonplaats heeft in een andere lid-staat, kan ten behoeve van de kandidaatstelling in die lid-staat Onze Minister van Justitie verzoeken hem een verklaring te verstrekken, inhoudende dat hij in Nederland niet is uitgesloten van het recht om gekozen te worden.  
+1.  Indien de autoriteit, bedoeld in artikel Y 35b, eerste lid, het centraal stembureau verzoekt te verklaren of een kandidaat in Nederland is uitgesloten van het recht om te worden gekozen, verzoekt het centraal stembureau Onze Minister van Veiligheid en Justitie een dergelijke verklaring te verstrekken. De verklaring wordt onverwijld verstrekt.   
+2.  Het centraal stembureau geleidt de verklaring van Onze Minister van Veiligheid en Justitie onverwijld door naar de in het eerste lid bedoelde autoriteit.   
 
 ### §  5  
 
@@ -2583,6 +2660,11 @@ Artikel I 5, aanhef en onder a, is niet van toepassing indien een lijst op de da
 ### Artikel  Ya 10  
 
 De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire) brengt het proces-verbaal, bedoeld in artikel I 18, vijfde lid, langs elektronische weg terstond na de zitting ter kennis van het centraal stembureau.  
+
+### Artikel  Ya 10a  
+
+1.  Artikel I 5, aanhef en onder a, is niet van toepassing indien een lijst op de dag van de kandidaatstelling tussen negen en zeventien uur bij een gezaghebber is ingeleverd.   
+2.  Een verklaring of bewijs dat afzonderlijk wordt ingeleverd, is niet geldig indien deze niet overeenkomstig artikel Ya 5, eerste tot en met derde lid, is ingeleverd.   
 
 ### Artikel  Ya 11  
 
@@ -2787,7 +2869,7 @@ Degene die een verzoek indient als bedoeld in artikel D 5, verschaft de gegevens
 ### Artikel  Ya 43  
 
 1.  In afwijking van artikel 7 van de Wet administratieve rechtspraak BES wordt het beroep tegen een beschikking op grond van de artikelen G 1, Q 6 en Y 2, in samenhang met artikel G 1, die is gericht op een politieke groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, ingesteld bij het Gemeenschappelijk Hof.   
-2.  De artikelen G 5, tweede lid, aanhef en onder a, en Ya 42, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing.   
+2.  De artikelen G 5, eerste lid, aanhef en onder a, en Ya 42, tweede tot en met vijfde lid, zijn van overeenkomstige toepassing.   
 
 ### Artikel  Ya 44  
 
@@ -2806,7 +2888,7 @@ Tegen een beschikking op grond van de artikelen G 2, G 4 of I 4 die wordt genome
 
 1.  In afwijking van artikel 7 van de Wet administratieve rechtspraak BES wordt het beroep tegen een beschikking op grond van de artikelen G 3 of G 4 die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, ingesteld bij het Gemeenschappelijk Hof.   
 2.  Tegen een beschikking op grond van artikel I 4 die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, kan door een belanghebbende, in afwijking van artikel 7 van de Wet administratieve rechtspraak BES, en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.   
-3.  Artikel G 5, tweede lid, aanhef en onderdelen b en c, is van overeenkomstige toepassing indien het betreft een beschikking op grond van artikel G 3 of G 4.   
+3.  Artikel G 5, eerste lid, aanhef en onderdelen b en c, is van overeenkomstige toepassing indien het betreft een beschikking op grond van artikel G 3 of G 4.   
 4.  De artikelen I 7, derde tot en met vijfde lid, en I 8 zijn van overeenkomstige toepassing indien het betreft een beschikking op grond van artikel I 4.   
 5.  Artikel Ya 42, tweede tot en met vijfde lid, is van overeenkomstige toepassing.   
 
@@ -2831,7 +2913,7 @@ b. de beslissing van het centraal stembureau op een verzoek, bedoeld in onderdee
 
 c. een beschikking als bedoeld in artikel Ya 48, tweede lid, in samenhang met artikel G 4, tweede lid, wordt genomen uiterlijk op de twaalfde dag voor de dag van de kandidaatstelling;  
 
-d. in afwijking van artikel G 5, tweede lid, onder b en c, in samenhang met artikel Ya 46, wordt een beroepschrift tegen: 
+d. in afwijking van artikel G 5, eerste lid, onder b en c, in samenhang met artikel Ya 46, wordt een beroepschrift tegen: 
 
 1°. een beschikking als bedoeld in onderdeel b ingediend uiterlijk op de derde dag na de dagtekening van de openbare kennisgeving, bedoeld in artikel G 3, vijfde lid, dan wel na de dag waarop de beschikking wordt geacht te zijn geweigerd;  
 
@@ -2893,7 +2975,7 @@ Degene die stelselmatig personen aanspreekt of anderszins persoonlijk benadert t
 
 ### Artikel  Z 8a  
 
-De onderdaan van een lid-staat van de Europese Gemeenschappen die zowel in Nederland als in een andere lid-staat aan een stemming voor de verkiezing van de leden van het Europees Parlement deelneemt, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.  
+De onderdaan van een lidstaat van de Europese Gemeenschappen die zowel in Nederland als in een andere lidstaat aan een stemming voor de verkiezing van de leden van het Europees Parlement deelneemt, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.  
 
 ### Artikel  Z 9  
 

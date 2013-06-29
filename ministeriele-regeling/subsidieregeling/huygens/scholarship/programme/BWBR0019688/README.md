@@ -45,7 +45,7 @@ k. leges: kosten die verband houden met een aanvraag van een:
 
 1°. machtiging voorlopig verblijf; en  
 
-2°. verblijfsvergunning.      
+2°. verblijfsvergunning.     
 
 ### Artikel  2  
 
@@ -73,7 +73,7 @@ c. voor zover de gedragscode is ondertekend door de Nederlandse instelling waar:
 3°. de promotor aan is verbonden; en    
 
 d. voor zover de student, bedoeld in artikel 1, onderdeel b, de Nederlandse nationaliteit heeft of ten minste 3 van de 6 jaren voorafgaand aan de inschrijving aan de buitenlandse instelling in Nederland heeft gewoond en gedurende deze periode rechtmatig verblijf heeft gehad.     
-3.  Verstrekking van subsidie, bedoeld in het eerste lid, onderdeel a, geschiedt onder de voorwaarde dat de student een verblijfsvergunning verkrijgt.   
+3.  Verstrekking van subsidie, bedoeld in het eerste lid, onderdeel a, geschiedt onder de voorwaarde dat de student een verblijfsvergunning verkrijgt.  
 
 ### Artikel  3  
 
@@ -83,7 +83,7 @@ d. voor zover de student, bedoeld in artikel 1, onderdeel b, de Nederlandse nati
 2.  Het subsidieplafond voor subsidieverstrekking aan studenten als bedoeld in artikel 2, eerste lid, onderdeel a, bedraagt, met betrekking tot de studie Neerlandistiek, € 130.000 voor 2010 en 2011.   
 3.  Het subsidieplafond voor subsidieverstrekking aan studenten als bedoeld in artikel 2, eerste lid, onderdeel b, bedraagt € 3.000.000 voor 2010 en 2011.   
 4.  Het subsidieplafond voor subsidieverstrekking aan promovendi bedraagt € 500.000 voor 2010 en 2011.   
-5.  Indien een van de subsidieplafonds, genoemd in het tweede, derde en vierde lid, niet wordt bereikt, wordt het resterende bedrag toegevoegd aan de overige subsidieplafonds.   
+5.  Indien een van de subsidieplafonds, genoemd in het tweede, derde en vierde lid, niet wordt bereikt, wordt het resterende bedrag toegevoegd aan de overige subsidieplafonds.  
 
 ### Paragraaf  2  
 
@@ -124,7 +124,7 @@ c. aanbevelingsbrief van de Nederlandse instelling waar de student is ingeschrev
 a. aanbevelingsbrief van de promotor;  
 
 b. door de promovendus en promotor ondertekend Opleidings- en Begeleidingsplan of een door de promotor blijkens ondertekening goedgekeurd onderzoeksvoorstel, in welk plan of voorstel een raming van de kosten voor het uitvoeren van het promotieonderzoek is opgenomen.     
-6.  De subsidieaanvraag en de begeleidende documenten worden opgesteld, dan wel vertaald, in de Nederlandse of Engelse taal.   
+6.  De subsidieaanvraag en de begeleidende documenten worden opgesteld, dan wel vertaald, in de Nederlandse of Engelse taal.  
 
 ### Artikel  5  
 
@@ -160,7 +160,7 @@ c. leges die de promovendus verschuldigd is;
 
 d. kosten voor de ziektekostenverzekering die de promovendus moet afsluiten; en  
 
-e. in het onderzoeksvoorstel geraamde kosten voor het uitvoeren van het promotieonderzoek.     
+e. in het onderzoeksvoorstel geraamde kosten voor het uitvoeren van het promotieonderzoek.    
 
 ### Artikel  7  
 
@@ -179,8 +179,8 @@ d. de referenten in hun brieven, bedoeld in artikel 4, tweede lid, onderdeel d, 
 
 e. het korter geleden is dat de aanvrager de graad Bachelor of de graad Master heeft behaald, indien hij al is afgestudeerd; en  
 
-f. een promovendus beoogt een promotieonderzoek af te ronden in het tijdvak waarvoor subsidie wordt aangevraagd.     
-3.  De minister beslist uiterlijk op 1 mei voorafgaand aan het studiejaar waarop de aanvraag betrekking heeft, op de subsidieaanvraag.   
+f. een promovendus beoogt een promotieonderzoek af te ronden in het tijdvak waarvoor subsidie wordt aangevraagd.    
+3.  De minister beslist uiterlijk op 1 mei voorafgaand aan het studiejaar waarop de aanvraag betrekking heeft, op de subsidieaanvraag.  
 
 ### Artikel  8  
 
@@ -190,7 +190,7 @@ f. een promovendus beoogt een promotieonderzoek af te ronden in het tijdvak waar
 2.  De commissie bestaat uit een voorzitter en zestien andere leden, die deskundig zijn op het terrein waarop de commissie een taak heeft en zijn geen ambtenaren, werkzaam bij het Ministerie van Onderwijs, Cultuur en Wetenschap.   
 3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste twee jaar benoemd. Zij zijn te allen tijde opnieuw benoembaar.   
 4.  De commissie stelt haar eigen werkwijze schriftelijk vast.   
-5.  In het secretariaat van de commissie wordt door de minister voorzien.   
+5.  In het secretariaat van de commissie wordt door de minister voorzien.  
 
 ### Artikel  9  
 
@@ -214,14 +214,14 @@ b. het subsidiebedrag aan de promovendus overmaakt, met dien verstande dat de in
 
 c. binnen drie maanden na afloop van de periode waarop de subsidieverstrekking ziet, een door de promotor en promovendus opgestelde en ondertekende evaluatie verstrekt van alle onderzoeksactiviteiten; en  
 
-d. de minister onverwijld schriftelijk informeert, indien de activiteiten waarvoor de subsidie wordt verstrekt niet, of niet geheel zijn gestart, aanzienlijk zijn vertraagd of voortijdig zijn beëindigd.     
+d. de minister onverwijld schriftelijk informeert, indien de activiteiten waarvoor de subsidie wordt verstrekt niet, of niet geheel zijn gestart, aanzienlijk zijn vertraagd of voortijdig zijn beëindigd.    
 
 ### Artikel  10  
 
 ####Niet vervullen begrotingsvoorwaarde
 
 1.  Subsidie wordt verstrekt onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  In geval van het niet vervullen van de in het eerste lid bedoelde voorwaarde worden de op grond van deze regeling verstrekte subsidiebedragen verlaagd tot het bedrag van de subsidie dat na vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verstrekt en van de hoogte van de verstrekte subsidiebedragen.   
+2.  In geval van het niet vervullen van de in het eerste lid bedoelde voorwaarde worden de op grond van deze regeling verstrekte subsidiebedragen verlaagd tot het bedrag van de subsidie dat na vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verstrekt en van de hoogte van de verstrekte subsidiebedragen.  
 
 ### Paragraaf  3  
 
@@ -233,7 +233,7 @@ d. de minister onverwijld schriftelijk informeert, indien de activiteiten waarvo
 
 1.  De subsidieontvanger werkt mee aan door of namens de minister ingestelde onderzoeken die erop zijn gericht de minister inlichtingen te verschaffen voor de ontwikkeling en monitoring van het beleid dat tot doel heeft het binnenhalen, behouden, uitzenden en ontwikkelen van toptalent.   
 2.  De subsidieontvanger informeert de Nuffic onverwijld schriftelijk, indien de activiteiten niet of niet geheel worden gestart, aanzienlijk zijn vertraagd of voortijdig worden beëindigd.   
-3.  Een student als bedoeld in artikel 2, eerste lid, onderdeel b, overlegt binnen zes maanden na afloop van de periode waarop de subsidieverstrekking ziet een gewaarmerkt cijferlijst of een verklaring van deelname aan het onderwijs, opgesteld door de buitenlandse instelling waaraan deze verbonden was.   
+3.  Een student als bedoeld in artikel 2, eerste lid, onderdeel b, overlegt binnen zes maanden na afloop van de periode waarop de subsidieverstrekking ziet een gewaarmerkt cijferlijst of een verklaring van deelname aan het onderwijs, opgesteld door de buitenlandse instelling waaraan deze verbonden was.  
 
 ### Paragraaf  4  
 
@@ -249,13 +249,13 @@ a. de subsidiegelden te beheren en uit te betalen;
 
 b. besluiten te nemen over subsidieverstrekking op grond van deze regeling; en  
 
-c. het onderzoek, bedoeld in artikel 11, eerste lid, te verrichten.    
+c. het onderzoek, bedoeld in artikel 11, eerste lid, te verrichten.   
 
 ### Artikel  14  
 
 ####Voorwaarden uitvoering door de Nuffic
 
-De Nuffic voert een dusdanige administratie dat op basis van een accountantscontrole snelle, eenduidige uitspraken kunnen worden gedaan over de rechtmatigheid van de ten laste van deze subsidie gebrachte uitgaven.  
+De Nuffic voert een dusdanige administratie dat op basis van een accountantscontrole snelle, eenduidige uitspraken kunnen worden gedaan over de rechtmatigheid van de ten laste van deze subsidie gebrachte uitgaven. 
 
 ### Artikel  15  
 
@@ -263,7 +263,7 @@ De Nuffic voert een dusdanige administratie dat op basis van een accountantscont
 
 1.  De Nuffic verschaft de minister desgevraagd en uit eigen beweging informatie betreffende de uitvoering van de taken, bedoeld in artikel 12.   
 2.  De Nuffic verleent de minister volledige inzage in boeken en bescheiden, voor zover deze met de uitvoering van de regeling te maken hebben.   
-3.  De minister kan aanwijzingen geven met betrekking tot de wijze waarop de informatieverstrekking, bedoeld in het eerste en tweede lid, geschiedt.   
+3.  De minister kan aanwijzingen geven met betrekking tot de wijze waarop de informatieverstrekking, bedoeld in het eerste en tweede lid, geschiedt.  
 
 ### Paragraaf  5  
 
@@ -279,7 +279,7 @@ a. artikel 3, eerste lid, bedraagt het subsidieplafond € 4.650.000 voor het k
 
 b. artikel 6, eerste lid, kan een subsidieaanvraag die betrekking heeft op het studiejaar dat in 2006 aanvangt, worden ingediend tot en met 28 februari 2006; en  
 
-c. artikel 7, tweede lid, beslist de minister uiterlijk op 1 juni 2006 op een subsidieaanvraag die betrekking heeft op het studiejaar dat in 2006 aanvangt.    
+c. artikel 7, tweede lid, beslist de minister uiterlijk op 1 juni 2006 op een subsidieaanvraag die betrekking heeft op het studiejaar dat in 2006 aanvangt.   
 
 ### Paragraaf  6  
 
@@ -289,25 +289,25 @@ c. artikel 7, tweede lid, beslist de minister uiterlijk op 1 juni 2006 op een s
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 februari 2006.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 februari 2006. 
 
-### Artikel  18a  
+###Artikel 18a 
 
 ####vervaldatum
 
-De regeling vervalt met ingang van 1 januari 2016.  
+De regeling vervalt met ingang van 1 januari 2016.
 
 ### Artikel  19  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling Huygens Scholarship Programme.  
+Deze regeling wordt aangehaald als: Subsidieregeling Huygens Scholarship Programme. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap te Den Haag en die bekend wordt gemaakt op de internetsite www.nuffic.nl.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-M.Rutte  
+M. Rutte    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.  
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.

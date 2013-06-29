@@ -33,7 +33,7 @@ c. element: een verpakking die volwandig en vloeistofdicht is en voorzien is van
 
 d. begeleider: degene die bij het voertuig aanwezig is om het huishoudelijk gevaarlijk afval in ontvangst te nemen;  
 
-e. etiket: etiket, bedoeld in randnummer 5.2.2.2.2 van [bijlage 1 bij de VLG](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md).    
+e. etiket: etiket, bedoeld in randnummer 5.2.2.2.2 van [bijlage 1 bij de VLG](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md).   
 
 ### §  2  
 
@@ -41,7 +41,7 @@ e. etiket: etiket, bedoeld in randnummer 5.2.2.2.2 van [bijlage 1 bij de VLG](..
 
 ### Artikel  2  
 
-Deze regeling is van toepassing op het vervoeren alsmede het ten vervoer aanbieden en aannemen van huishoudelijk gevaarlijk afval.  
+Deze regeling is van toepassing op het vervoeren alsmede het ten vervoer aanbieden en aannemen van huishoudelijk gevaarlijk afval. 
 
 ### Artikel  3  
 
@@ -57,7 +57,7 @@ d. 5.2.1, 5.2.2, 5.4.0, 5.4.1, 5.4.3;
 
 e. 7.5.4, 7.5.7;  
 
-f. 8.1.2.1, onderdeel a) en b), 8.1.5, onderdeel c) en 8.3.6.    
+f. 8.1.2.1, onderdeel a) en b), 8.1.5, onderdeel c) en 8.3.6.   
 
 ### §  3  
 
@@ -65,7 +65,7 @@ f. 8.1.2.1, onderdeel a) en b), 8.1.5, onderdeel c) en 8.3.6.
 
 ### Artikel  4  
 
-De begeleider neemt het huishoudelijk gevaarlijk afval in.  
+De begeleider neemt het huishoudelijk gevaarlijk afval in. 
 
 ### Artikel  5  
 
@@ -76,7 +76,7 @@ a. voor de voorwerpen vallende onder klasse 6.2: een verpakking die bovendien ve
 b. voor huishoudelijk gevaarlijk afval afkomstig van bedrijven: een doos met een inhoud van ten hoogste 60 liter, ingericht om afvalstoffen op gevaarscategorie te scheiden (kga-box).     
 2.  De verpakking is aan de buitenzijde vrij van huishoudelijk gevaarlijk afval.   
 3.  De naam van de stof is op de verpakking aangegeven.   
-4.  Per inzameling wordt per bedrijf slechts een doos als bedoeld in het eerste lid, onderdeel b, aangenomen.   
+4.  Per inzameling wordt per bedrijf slechts een doos als bedoeld in het eerste lid, onderdeel b, aangenomen.  
 
 ### §  4  
 
@@ -88,7 +88,7 @@ Het voertuig bestemd voor het vervoer van huishoudelijk gevaarlijk afval:
 
 a. is ingericht voor het vervoer van goederen; en  
 
-b. beschikt over een laadruimte die van het bestuurdersgedeelte is gescheiden door een vaste dichte wand, of trekt een laadruimte mee die geen deel uitmaakt van het voertuig.    
+b. beschikt over een laadruimte die van het bestuurdersgedeelte is gescheiden door een vaste dichte wand, of trekt een laadruimte mee die geen deel uitmaakt van het voertuig.   
 
 ### Artikel  7  
 
@@ -98,7 +98,7 @@ b. beschikt over een laadruimte die van het bestuurdersgedeelte is gescheiden do
 4.  De motor van het voertuig is zodanig uitgerust en geplaatst, dat gevaar voor de lading door verwarming of ontsteking wordt vermeden.   
 5.  Het uitlaatsysteem alsmede de uitlaatleidingen zijn zodanig gericht of beschermd, dat gevaar voor de lading ten gevolge van verwarming of ontsteking wordt vermeden.   
 6.  Verwarmingstoestellen voldoen aan randnummer 9.2.4.7 van [bijlage 1 bij de VLG](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md).   
-7.  Het tweede lid is niet van toepassing op een trekkend voertuig, waarvan de laadruimte geen deel uitmaakt.   
+7.  Het tweede lid is niet van toepassing op een trekkend voertuig, waarvan de laadruimte geen deel uitmaakt.  
 
 ### Artikel  8  
 
@@ -110,7 +110,7 @@ b. met een deksel zijn gesloten en tegen onbedoeld openen zijn beschermd.
 2.  Het eerste lid, onderdeel b, is niet van toepassing tijdens het rijden ten behoeve van het inzamelen en het stilstaan voor het inzamelen.   
 3.  In het voertuig is voldoende bewegingsruimte vrijgehouden om het huishoudelijk gevaarlijk afval te sorteren en in de elementen te plaatsen.   
 4.  Aan de weerszijden en aan de achterzijde van het voertuig is duidelijk zichtbaar een rookverbod aangegeven.   
-5.  Het voertuig is voorzien van een geel zwaailicht.   
+5.  Het voertuig is voorzien van een geel zwaailicht.  
 
 ### Artikel  9  
 
@@ -118,7 +118,7 @@ In het voertuig bevinden zich:
 
 a. het vakbekwaamheidscertificaat van de begeleider en de aantekening, bedoeld in artikel 15, eerste lid, onderdeel b; en  
 
-b. de schriftelijke instructies en informatie opgemaakt overeenkomstig de bijlage bij deze regeling.    
+b. de schriftelijke instructies en informatie opgemaakt overeenkomstig de bijlage bij deze regeling.   
 
 ### Artikel  10  
 
@@ -134,11 +134,11 @@ d. synthetisch-rubberen handschoenen;
 
 e. zuurbestendige, zuur–niet–doorlatende, laarzen of veiligheidsschoenen; en  
 
-f. een oogspoelfles met gedestilleerd water.    
+f. een oogspoelfles met gedestilleerd water.   
 
 ### Artikel  11  
 
-In het voertuig is goed werkende telefoonapparatuur aanwezig.  
+In het voertuig is goed werkende telefoonapparatuur aanwezig. 
 
 ### §  5  
 
@@ -149,7 +149,7 @@ In het voertuig is goed werkende telefoonapparatuur aanwezig.
 1.  Het is verboden voedingsmiddelen voor mens en dier in de laadruimte te vervoeren.   
 2.  Tijdens het inzamelen staat het voertuig stil.   
 3.  Tijdens het rijden ten behoeve van het inzamelen en het stilstaan voor het inzamelen voert het voertuig geel zwaailicht.   
-4.  Tijdens het inzamelen op een vaste halteplaats die als zodanig is aangeduid, is de motor afgezet en mag, in afwijking van het derde lid, het zwaailicht zijn afgezet.   
+4.  Tijdens het inzamelen op een vaste halteplaats die als zodanig is aangeduid, is de motor afgezet en mag, in afwijking van het derde lid, het zwaailicht zijn afgezet.  
 
 ### §  6  
 
@@ -162,7 +162,7 @@ In het voertuig is goed werkende telefoonapparatuur aanwezig.
 3.  Voor de stoffen en voorwerpen van klasse 8 zijn afzonderlijke elementen aanwezig voor respectievelijk zuren, basen en accu’s.   
 4.  Spuitbussen mogen ook in afsluitbare kartonnen dozen zijn geplaatst, mits deze dozen worden vervoerd overeenkomstig artikel 8, eerste lid.   
 5.  Indien brandblusapparaten van klasse 2 zijn ingezameld, mogen deze in hetzelfde element als de spuitbussen, niet verpakt zijnde in kartonnen dozen, zijn geplaatst.   
-6.  In afwijking van artikel 8, eerste lid, is geen deksel verplicht voor het vervoer van accu’s, mits deze zodanig in het element zijn geplaatst dat alle openingen van de accu’s gesloten zijn en naar boven gericht.   
+6.  In afwijking van artikel 8, eerste lid, is geen deksel verplicht voor het vervoer van accu’s, mits deze zodanig in het element zijn geplaatst dat alle openingen van de accu’s gesloten zijn en naar boven gericht.  
 
 ### Artikel  14  
 
@@ -187,7 +187,7 @@ g. voor bijtende stoffen en voorwerpen van klasse 8: met het etiket nr. 8, en bo
 2°. voor stoffen met een zuur karakter: met het opschrift ‘ZUREN’;  
 
 3°. voor accu’s: met het opschrift ‘ACCU’S’.       
-2.  Dezelfde etiketten en opschriften zijn zichtbaar op afsluitbare ruimtes binnen het voertuig waarin de elementen kunnen staan.   
+2.  Dezelfde etiketten en opschriften zijn zichtbaar op afsluitbare ruimtes binnen het voertuig waarin de elementen kunnen staan.  
 
 ### §  7  
 
@@ -200,18 +200,18 @@ g. voor bijtende stoffen en voorwerpen van klasse 8: met het etiket nr. 8, en bo
 a. een geldig vakbekwaamheidscertificaat op grond van randnummer 8.2.1 van [bijlage 1 bij de VLG](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md); en  
 
 b. een geldige aantekening: ‘vervoer gevaarlijk afval’, afgegeven door de CCV, zijnde een zelfstandige divisie van de Stichting Centraal Bureau Rijvaardigheidsbewijzen (CBR).     
-2.  De aantekening, bedoeld in het eerste lid, onderdeel b, is geldig voor een periode van vijf jaar, en strekt ertoe aan te tonen dat de begeleider met goed gevolg het desbetreffende examen heeft afgelegd.   
+2.  De aantekening, bedoeld in het eerste lid, onderdeel b, is geldig voor een periode van vijf jaar, en strekt ertoe aan te tonen dat de begeleider met goed gevolg het desbetreffende examen heeft afgelegd.  
 
 ### Artikel  16  
 
 1.  De begeleider plaatst het aangeboden huishoudelijk gevaarlijk afval onverwijld in het daarvoor bestemde element onderscheidenlijk de daarvoor bestemde doos.   
-2.  De begeleider voorziet breekbare verpakkingen van een bescherming tegen breuk.   
+2.  De begeleider voorziet breekbare verpakkingen van een bescherming tegen breuk.  
 
 ### Artikel  17  
 
 1.  De begeleider is bij het voertuig aanwezig zolang dit zich op de openbare weg bevindt en neemt in geval van onregelmatigheden de nodige maatregelen.   
 2.  De begeleider draagt ervoor zorg, dat tijdens het vervoer de elementen voldoen aan artikel 8, eerste lid.   
-3.  De begeleider raadpleegt de veiligheidsadviseur, bedoeld in randnummer 1.8.3 van [bijlage 1 bij de VLG](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md), in geval van twijfel omtrent de indeling van het huishoudelijk gevaarlijk afval overeenkomstig artikel 1, onderdeel b.   
+3.  De begeleider raadpleegt de veiligheidsadviseur, bedoeld in randnummer 1.8.3 van [bijlage 1 bij de VLG](../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md), in geval van twijfel omtrent de indeling van het huishoudelijk gevaarlijk afval overeenkomstig artikel 1, onderdeel b.  
 
 ### §  8  
 
@@ -219,22 +219,22 @@ b. een geldige aantekening: ‘vervoer gevaarlijk afval’, afgegeven door de CC
 
 ### Artikel  18  
 
-De Regeling vervoer huishoudelijk gevaarlijk afval 1994 wordt ingetrokken.  
+De Regeling vervoer huishoudelijk gevaarlijk afval 1994 wordt ingetrokken. 
 
 ### Artikel  19  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  20  
 
-Deze regeling wordt aangehaald als: Regeling vervoer huishoudelijk gevaarlijk afval 2004.  
+Deze regeling wordt aangehaald als: Regeling vervoer huishoudelijk gevaarlijk afval 2004. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Verkeer en Waterstaat
-K.M.H.Peijs   
+Minister van Verkeer en Waterstaat 
+K.M.H. Peijs     
 
-### Bijlage  
+### Bijlage 
 
 ####als bedoeld in artikel 9, onderdeel b 
 

@@ -40,8 +40,8 @@ Deze regeling met toelichting treedt in werking met ingang van de tweede dag na 
 
 ### Artikel  9  
 
-Deze regeling kan worden aangehaald als: Vergoedingsregeling leden Raad voor maatschappelijke ontwikkeling 2002.  
+Deze regeling kan worden aangehaald als: Vergoedingsregeling leden Raad voor maatschappelijke ontwikkeling 2002. 
 
 De 
 Minister voornoemd, 
-E.J.Bomhoff    
+E.J. Bomhoff      

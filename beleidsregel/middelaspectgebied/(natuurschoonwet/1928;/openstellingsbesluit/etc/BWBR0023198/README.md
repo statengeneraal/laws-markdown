@@ -112,11 +112,11 @@ Den Haag
 20 december 2007   
 
 De 
-Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze: de 
+Minister van Landbouw, Natuur en Voedselkwaliteit, namens deze:de 
 directeur juridische zaken, 
-J.L.D.Heukers 
+J.L.D. Heukers   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

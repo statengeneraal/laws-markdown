@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 1.  De raad voor de kinderbescherming is gevestigd te Utrecht.   
 2.  De raad staat onder leiding van de algemeen directeur die bijgestaan wordt door twee directeuren. De algemeen directeur en deze directeuren vormen gezamenlijk de Landelijke directie.   
-3.  De algemeen directeur wordt, waar nodig, vervangen door een daartoe aangewezen directeur van de Landelijke directie.   
+3.  De algemeen directeur wordt, waar nodig, vervangen door een daartoe aangewezen directeur van de Landelijke directie.  
 
 ### Artikel  2  
 
@@ -48,19 +48,19 @@ k. regio Oost-Brabant met de locaties Den Bosch en Eindhoven;
 
 l. regio Midden- en West-Brabant met de locaties Breda en Tilburg;  
 
-m. regio Limburg met de locaties Maastricht en Roermond.     
+m. regio Limburg met de locaties Maastricht en Roermond.    
 
 ### Artikel  3  
 
-Het [Organisatiebesluit raad voor de kinderbescherming](../../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/BWBR0008125/README.md) wordt ingetrokken.  
+Het [Organisatiebesluit raad voor de kinderbescherming](../../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/BWBR0008125/README.md) wordt ingetrokken. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Organisatiebesluit raad voor de kinderbescherming 2006.  
+Dit besluit wordt aangehaald als: Organisatiebesluit raad voor de kinderbescherming 2006. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

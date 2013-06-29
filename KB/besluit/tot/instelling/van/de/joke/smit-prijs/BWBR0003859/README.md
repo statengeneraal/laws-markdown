@@ -19,21 +19,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Er is een regeringsprijs op het gebied van de emancipatie, genaamd Joke Smit-prijs.  
+Er is een regeringsprijs op het gebied van de emancipatie, genaamd Joke Smit-prijs. 
 
 ### Artikel  2  
 
 1.  De Joke Smit-prijs kan eenmaal in de twee jaar worden toegekend aan een persoon, een groep of een instantie op grond van het leveren of geleverd hebben van een fundamentele bijdrage tot verbetering van de positie van vrouwen in de Nederlandse samenleving.   
-2.  De prijs bestaat uit een geldbedrag van € 10 000 en een kunstvoorwerp.   
+2.   De prijs bestaat uit een geldbedrag van € 10 000 en een kunstvoorwerp.  
 
 ### Artikel  3  
 
 1.  De toekenning van de prijs geschiedt door Onze Minister van Sociale Zaken en Werkgelegenheid, nadat hij daarover het advies heeft ingewonnen van een door hem benoemde jury, en in overeenstemming met Onze Minister of Ministers wie zulks mede aangaat.   
-2.  Hij kan daaromtrent nadere regels stellen.   
+2.   Hij kan daaromtrent nadere regels stellen.  
 
 ### Artikel  4  
 
-Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kamers der Staten-Generaal, aan de Algemene Rekenkamer en aan de executeur-testamentair van wijlen mevrouw Joke Smit.  
+Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kamers der Staten-Generaal, aan de Algemene Rekenkamer en aan de executeur-testamentair van wijlen mevrouw Joke Smit. 
 
 's-Gravenhage 
 10 oktober 1985  

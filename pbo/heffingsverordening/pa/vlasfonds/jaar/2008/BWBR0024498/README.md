@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 08-02-2009 
+
 ### Artikel  1  
+Materieel uitgewerkt per 08-02-2009 
 
 Deze verordening verstaat onder:  
 
@@ -27,35 +30,45 @@ Deze verordening verstaat onder:
 
 ####Heffingsbepalingen
 
+Materieel uitgewerkt per 08-02-2009 
+
 ### Artikel  2  
+Materieel uitgewerkt per 08-02-2009 
 
 1.  De ondernemer die in het jaar 2008 een onderneming drijft, met als activiteit het telen van vlas, is verplicht voor dat jaar aan het productschap een heffing te betalen van € 9,80 per hectare.   
 2.  De ondernemer die in het jaar 2008 een onderneming drijft, met als activiteit het kweken van vlasrassen of het vertegenwoordigen in Nederland van buitenlandse kwekers van vezelvlasrassen, is verplicht voor dat jaar aan het productschap een heffing te betalen van € 1,90 per ha door de NAK te velde goedgekeurd zaaizaad van de oogst van het jaar dat voorafgaat aan het jaar waarop de bijdrage betrekking heeft.   
 3.  De ondernemer die in het jaar 2008 een onderneming drijft, met als activiteit het bereiden van zaaizaad van vezelvlas, is verplicht voor dat jaar aan het productschap een heffing te betalen van € 1,90 per ton goedgekeurd zaaizaad van de oogst van het jaar dat voorafgaat aan het jaar waarop de bijdrage betrekking heeft.   
 4.  De ondernemer die in het jaar 2008 een onderneming drijft, met als activiteit het verwerken van vezelvlas, is verplicht voor dat jaar aan het productschap een heffing te betalen van € 3,81 per ha verwerkt vlas van de oogst van het jaar dat voorafgaat aan het jaar waarop de bijdrage betrekking heeft.   
 5.  De in het eerste lid bedoelde heffing wordt vastgesteld op basis van de door de ondernemer aan het productschap ingevolge de bij of krachtens de [Verordening PA registratie en verstrekking van gegevens teeltsector 2008](../../../../../../../pbo/verordening/pa/registratie/en/verstrekking/van/gegevens/teeltsector/2008/BWBR0024009/README.md) verstrekte gegevens. De in het tweede tot en met vierde lid bedoelde heffingen worden vastgesteld op basis van de door de ondernemer op verzoek van het productschap verstrekte gegevens door middel van een door het productschap vastgesteld formulier.   
-6.  De heffing is bestemd voor het Vlasfonds.   
+6.  De heffing is bestemd voor het Vlasfonds.  
 
 ### §  3  
 
 ####Ambtshalve heffing
 
+Materieel uitgewerkt per 08-02-2009 
+
 ### Artikel  3  
+Materieel uitgewerkt per 08-02-2009 
 
 1.  Indien de ondernemer de gegevens, bedoeld in artikel 2, niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing ambtshalve bij aanslag vast te stellen.   
 2.  Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt, wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.   
-3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.   
+3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.  
 
 ### §  4  
 
 ####Betaling van de heffing
 
+Materieel uitgewerkt per 08-02-2009 
+
 ### Artikel  4  
+Materieel uitgewerkt per 08-02-2009 
 
 1.  De ingevolge deze verordening verschuldigde heffingsbedragen worden betaald uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening zijn gebracht, dan wel indien de secretaris van het hoofdproductschap zulks verlangt, vóór een door deze te bepalen datum.   
-2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.   
+2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 08-02-2009 
 
 In afwijking van artikel 4 is de aanslag terstond invorderbaar zodra: 
 
@@ -63,27 +76,33 @@ a. het faillissement van de ondernemer is aangevraagd;
 
 b. de ondernemer het drijven van de onderneming beëindigt of van het voornemen daartoe blijk geeft of  
 
-c. de ondernemer zich in het buitenland heeft gevestigd of van het voornemen daartoe blijk geeft.    
+c. de ondernemer zich in het buitenland heeft gevestigd of van het voornemen daartoe blijk geeft.   
 
 ### Artikel  6  
+Materieel uitgewerkt per 08-02-2009 
 
-Het productschap kan verrekening van bedragen kleiner dan € 5,– achterwege laten.  
+Het productschap kan verrekening van bedragen kleiner dan € 5,– achterwege laten. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 08-02-2009 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 4 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 4 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk dient te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  8  
+Materieel uitgewerkt per 08-02-2009 
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md).  
+### Artikel  8  
+Materieel uitgewerkt per 08-02-2009 
+
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008, met uitzondering van de toepassing van de [Verordening PA algemene bepalingen 2008](../../../../../../../pbo/verordening/pa/algemene/bepalingen/2008/BWBR0024318/README.md). 
 
 ### Artikel  9  
+Materieel uitgewerkt per 08-02-2009 
 
-Deze verordening wordt aangehaald als: Heffingsverordening PA vlasfonds jaar 2008.  
+Deze verordening wordt aangehaald als: Heffingsverordening PA vlasfonds jaar 2008. 
 
 Den Haag 
 5 juni 2008   

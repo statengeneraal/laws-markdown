@@ -22,7 +22,7 @@ e. Reserve aanvaardbare kosten: het cumulatieve verschil tussen het budget op ba
 
 f. Normaliseren: het aanpassen van de waarderingsgrondslagen zoals deze door de instelling is toegepast naar de waarderingsgrondslagen zoals in de Nadere regels gegevens negatief vermogen voorgeschreven;  
 
-g. Sluitingsbalans: de balans per datum beëindiging dienstverlening inzake ambulancehulpverlening.    
+g. Sluitingsbalans: de balans per datum beëindiging dienstverlening inzake ambulancehulpverlening.   
 
 ### Artikel  2  
 
@@ -34,12 +34,12 @@ c. De hoogte van de subsidievaststelling met betrekking tot het onderdeel negati
 
 d. Indien er per 31 december 2000 geen genormaliseerd negatief vermogen bestaat, maar een genormaliseerd negatief vermogen is ontstaan ná 31 december 2000, dan komt dit ná 31 december 2000 gevormde negatief vermogen niet voor subsidie in aanmerking.  
 
-e. Indien door de accountant géén goedkeurende accountantsverklaring bij de jaarrekening 2000 alsmede bij de genormaliseerde vermogensopstelling per 31 december 2000 is afgegeven, dan komt het genormaliseerde negatief vermogen niet voor compensatie in aanmerking.    
+e. Indien door de accountant géén goedkeurende accountantsverklaring bij de jaarrekening 2000 alsmede bij de genormaliseerde vermogensopstelling per 31 december 2000 is afgegeven, dan komt het genormaliseerde negatief vermogen niet voor compensatie in aanmerking.   
 
 ### Artikel  3  
 
-Het College zal niet eerder tot subsidievaststelling overgaan dan nadat de definitieve aanvaarbare kosten en de opbrengstresultaten tot en met de sluitingsbalans door de Nederlandse Zorgautoriteit (NZa) zijn vastgesteld.  
+Het College zal niet eerder tot subsidievaststelling overgaan dan nadat de definitieve aanvaarbare kosten en de opbrengstresultaten tot en met de sluitingsbalans door de Nederlandse Zorgautoriteit (NZa) zijn vastgesteld. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking na bekendmaking in de Nederlandse Staatscourant en werkt terug tot en met 1 januari 2006.  
+Deze regeling treedt in werking na bekendmaking in de Nederlandse Staatscourant en werkt terug tot en met 1 januari 2006. 

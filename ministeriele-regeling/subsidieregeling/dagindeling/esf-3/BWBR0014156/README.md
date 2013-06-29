@@ -6,11 +6,11 @@ De Staatssecretaris van Sociale Zaken en Werkgelegenheid, Khee Liang Phoa,
 Overwegende dat nadere regels dienen te worden vastgesteld over de besteding van uit het Europees Sociaal Fonds aan Nederland ter beschikking gestelde financiële middelen, voor zover deze worden benut ter financiering van experimentele projecten die ten doel hebben het combineren van arbeid en zorg te vergemakkelijken;
 
 Gelet op [artikel 3 van de Kaderwet SZW-subsidies](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:    *de minister:*   de Minister van Sociale Zaken en Werkgelegenheid;     *begunstigde:*   degene aan wie krachtens deze regeling projectsubsidie is verleend;     *aanvraagtijdvak:*   een door de minister vastgesteld tijdvak, als bedoeld in artikel 3, waarbinnen aanvragen om projectsubsidie kunnen worden ingediend;     *projectsubsidie:*   de subsidie, als bedoeld in artikel 6;     *aanvrager:*   de aanvrager van projectsubsidie.     
+In deze regeling wordt verstaan onder:   *de minister:*   de Minister van Sociale Zaken en Werkgelegenheid;    *begunstigde:*   degene aan wie krachtens deze regeling projectsubsidie is verleend;     *aanvraagtijdvak:*   een door de minister vastgesteld tijdvak, als bedoeld in artikel 3, waarbinnen aanvragen om projectsubsidie kunnen worden ingediend;     *projectsubsidie:*   de subsidie, als bedoeld in artikel 6;     *aanvrager:*   de aanvrager van projectsubsidie.     
 
 ### Artikel  2  
 
@@ -39,17 +39,17 @@ De mogelijkheid tot het indienen van aanvragen om projectsubsidie bestaat slecht
 
 Een subsidieaanvraag wordt afgewezen: 
 
-a. indien de aanvraag of de voor subsidie aangemelde activiteiten niet voldoen aan de bij en krachtens deze regeling gestelde eisen;  
+a.  indien de aanvraag of de voor subsidie aangemelde activiteiten niet voldoen aan de bij en krachtens deze regeling gestelde eisen;  
 
-b. indien onvoldoende zekerheid bestaat dat de administratie van de aanvrager aan de in artikel 10 gestelde eisen zal voldoen;  
+b.  indien onvoldoende zekerheid bestaat dat de administratie van de aanvrager aan de in artikel 10 gestelde eisen zal voldoen;  
 
-c. indien onvoldoende zekerheid bestaat over de financiering van de totale noodzakelijkerwijs ten behoeve van de uitvoering van het experiment te maken kosten;  
+c.  indien onvoldoende zekerheid bestaat over de financiering van de totale noodzakelijkerwijs ten behoeve van de uitvoering van het experiment te maken kosten;  
 
-d. indien de kosten van het experiment niet in een redelijke verhouding staan tot de daarvan te verwachten resultaten;  
+d.  indien de kosten van het experiment niet in een redelijke verhouding staan tot de daarvan te verwachten resultaten;  
 
-e. indien door subsidieverlening het in het toepasselijke Beleidskader Dagindeling ESF-3 aangegeven subsidieplafond zou worden overschreden;  
+e.  indien door subsidieverlening het in het toepasselijke Beleidskader Dagindeling ESF-3 aangegeven subsidieplafond zou worden overschreden;  
 
-f. indien het project reeds uit anderen hoofde wordt gefinancierd ten laste van Europese subsidieprogramma's.    
+f.  indien het project reeds uit anderen hoofde wordt gefinancierd ten laste van Europese subsidieprogramma's.    
 
 ### Artikel  6  
 
@@ -72,13 +72,13 @@ De subsidie bedraagt 100% van de subsidiabele kosten, doch ten hoogste het maxim
 1.  Uitsluitend de kosten die door de begunstigde daadwerkelijk zijn gemaakt, die ten laste van de begunstigde zijn gebleven en die voor de uitvoering en evaluatie van het project noodzakelijk moeten worden geacht, komen voor subsidiëring in aanmerking. Hierbij wordt verordening (EG)1685/2000 in acht genomen.   
 2.  Als projectkosten blijven buiten beschouwing: 
 
-a. kosten die voor de datum van subsidieverlening ten behoeve van het project zijn gemaakt;  
+a.  kosten die voor de datum van subsidieverlening ten behoeve van het project zijn gemaakt;  
 
-b. de kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;  
+b.  de kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;  
 
-c. de loonkosten van werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) de [Wet inschakeling werkzoekenden](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) of het [Besluit in- of doorstroombanen](../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md);  
+c.  de loonkosten van werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) de [Wet inschakeling werkzoekenden](../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) of het [Besluit in- of doorstroombanen](../../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md);  
 
-d. kosten van adviseurs, uitvoerders en onderuitvoerders die zijn bepaald als percentage van de totale kosten van het project, of als percentage van de te ontvangen projectsubsidie.     
+d.  kosten van adviseurs, uitvoerders en onderuitvoerders die zijn bepaald als percentage van de totale kosten van het project, of als percentage van de te ontvangen projectsubsidie.     
 
 ### Artikel  9  
 
@@ -87,9 +87,9 @@ d. kosten van adviseurs, uitvoerders en onderuitvoerders die zijn bepaald als pe
 1.  Aan de begunstigde worden, op diens verzoek, voorschotten op de projectsubsidie uitbetaald.   
 2.  Voorschotbetalingen zullen als volgt worden gedaan: 
 
-a. Een eerste voorschot, ten bedrage van 30% van het maximaal verleende subsidiebedrag, wordt direct uitbetaald bij de beschikking tot subsidieverlening.  
+a.  Een eerste voorschot, ten bedrage van 30% van het maximaal verleende subsidiebedrag, wordt direct uitbetaald bij de beschikking tot subsidieverlening.  
 
-b. Verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten hoogste 80% van het maximaal verleende subsidiebedrag, kunnen op verzoek worden verstrekt, voor zover door middel van tussentijdse rapportage is aangetoond dat verdere bevoorschotting noodzakelijk is.     
+b.  Verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten hoogste 80% van het maximaal verleende subsidiebedrag, kunnen op verzoek worden verstrekt, voor zover door middel van tussentijdse rapportage is aangetoond dat verdere bevoorschotting noodzakelijk is.     
 3.  Alvorens een voorschot, als bedoeld in het tweede lid onder b, te verlenen kan de minister van de begunstigde verlangen dat de tussentijdse rapportage wordt voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek. Een dergelijk voorschot wordt niet verleend indien de realisatie van het project achterblijft bij de ramingen, als vervat in de bij de subsidieaanvraag gevoegde projectbeschrijving, of wanneer er twijfel is aan een correcte uitvoering van het project.   
 
 ### Artikel  10  
@@ -133,22 +133,22 @@ b. Verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 
 1.  Een beschikking tot verlening van projectsubsidie kan geheel of gedeeltelijk worden ingetrokken, en de op basis daarvan uitbetaalde bedragen kunnen worden teruggevorderd: 
 
-a. indien de begunstigde bij zijn aanvraag onjuiste of onvolledige informatie heeft verstrekt, en de subsidie bij juiste of volledige informatie niet, dan wel tot een lager bedrag zou zijn verleend,  
+a.  indien de begunstigde bij zijn aanvraag onjuiste of onvolledige informatie heeft verstrekt, en de subsidie bij juiste of volledige informatie niet, dan wel tot een lager bedrag zou zijn verleend,  
 
-b. in geval het project wordt uitgevoerd in afwijking van de bij de aanvraag gevoegde projectbeschrijving, voor zover de subsidieverlening daarop was gebaseerd,  
+b.  in geval het project wordt uitgevoerd in afwijking van de bij de aanvraag gevoegde projectbeschrijving, voor zover de subsidieverlening daarop was gebaseerd,  
 
-c. indien de activiteiten waarvoor subsidie werd verleend niet zijn aangevangen binnen drie maanden na de datum van subsidieverlening,  
+c.  indien de activiteiten waarvoor subsidie werd verleend niet zijn aangevangen binnen drie maanden na de datum van subsidieverlening,  
 
-d. indien de doelstellingen van het project ten gevolge van nalatigheid van de begunstigde niet of slechts ten dele worden gerealiseerd, of  
+d.  indien de doelstellingen van het project ten gevolge van nalatigheid van de begunstigde niet of slechts ten dele worden gerealiseerd, of  
 
-e. indien de begunstigde een der voorschriften, vervat in de artikelen 10, 11, 12 of 13 niet naleeft.     
+e.  indien de begunstigde een der voorschriften, vervat in de artikelen 10, 11, 12 of 13 niet naleeft.     
 2.  Intrekking en terugvordering krachtens het eerste lid, onder b, vindt niet plaats, indien de afwijking vooraf aan de minister is voorgelegd, en deze daarmee schriftelijk heeft ingestemd.   
 
 ### Artikel  15  
 
 1.  Deze regeling wordt in de Nederlandse Staatscourant bekendgemaakt.   
 2.  Deze regeling treedt in werking met ingang van de dag na die van haar bekendmaking, en werkt terug tot en met 1 december 2001.   
-3.  Deze regeling kan worden aangehaald als: Subsidieregeling Dagindeling ESF-3.   
+3.  Deze regeling kan worden aangehaald als: Subsidieregeling Dagindeling ESF-3.  
 
 's-Gravenhage 
 29 oktober 2002    

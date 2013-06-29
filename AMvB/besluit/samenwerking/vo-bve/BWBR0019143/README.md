@@ -27,7 +27,7 @@ c. school: een uit ’s Rijks kas bekostigde school voor voortgezet onderwijs al
 
 d. instelling: een uit ’s Rijks kas bekostigde instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-e. VAVO: voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+e. VAVO: voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Artikel  2  
 
@@ -41,7 +41,7 @@ b. voor het in [artikel 25a, tweede lid, onderdeel b, van de WVO](../../../../..
 
 c. voor het in [artikel 25a, tweede lid, onderdeel c, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) bedoelde doel, iedere leerling.     
 2.  Een leerling als bedoeld in het eerste lid volgt per leerjaar voor ten hoogste de helft van het aantal klokuren per schooljaar die blijkens het onderwijsprogramma, bedoeld in [artikel 24, tweede lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden besteed aan het volgen van lessen of stages, aan de andere school of aan de instelling. Toepassing van het eerste lid leidt er niet toe dat het bevoegd gezag zelf uitsluitend nog de stage van die leerling verzorgt.   
-3.  Indien het betreft het verzorgen van vakken of programma-onderdelen als bedoeld in [artikel 10b, zesde of zevende lid](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of [artikel 10d, zesde of zevende lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), kan het bevoegd gezag van de school op grond van een samenwerkingsovereenkomst als bedoeld in [artikel 25a, derde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een regeling als bedoeld in [artikel 25a, vijfde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) afwijken van het tweede lid.   
+3.  Indien het betreft het verzorgen van vakken of programma-onderdelen als bedoeld in [artikel 10b, zesde of zevende lid](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of [artikel 10d, zesde of zevende lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), kan het bevoegd gezag van de school op grond van een samenwerkingsovereenkomst als bedoeld in [artikel 25a, derde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of een regeling als bedoeld in [artikel 25a, vijfde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) afwijken van het tweede lid.  
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ c. voor het in [artikel 25a, tweede lid, onderdeel c, van de WVO](../../../../..
 a. leerlingen van 16 en 17 jaar die naar het oordeel van het bevoegd gezag een grotere kans hebben een diploma of volgend diploma als bedoeld in [artikel 29, derde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) te behalen indien zij VAVO volgen in plaats van voortgezet onderwijs;  
 
 b. leerlingen van 18 jaar of ouder die ononderbroken in het voortgezet onderwijs of daarmee op grond van de [Leerplichtwet 1969](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) gelijkgesteld onderwijs ingeschreven zijn geweest en die naar het oordeel van het bevoegd gezag een grotere kans hebben om een diploma of volgend diploma als bedoeld in [artikel 29, derde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) te behalen indien zij VAVO volgen in plaats van voortgezet onderwijs.     
-2.  Het eerste lid, aanhef en onder b, vindt ten aanzien van de daar bedoelde leerlingen toepassing voor ten hoogste de periode van de resterende cursusduur van de opleiding waarvoor zij aan de school zijn ingeschreven, vermeerderd met een jaar.   
+2.  Het eerste lid, aanhef en onder b, vindt ten aanzien van de daar bedoelde leerlingen toepassing voor ten hoogste de periode van de resterende cursusduur van de opleiding waarvoor zij aan de school zijn ingeschreven, vermeerderd met een jaar.  
 
 ### Artikel  4  
 
@@ -64,50 +64,50 @@ a. ten aanzien van wie na 1 oktober van het schooljaar blijkt dat deze is aangew
 
 b. die in verband daarmee in dat schooljaar wordt uitgeschreven aan de school, en  
 
-c. die aansluitend in dat schooljaar wordt ingeschreven als leerling aan een andere school of als deelnemer aan een instelling.    
+c. die aansluitend in dat schooljaar wordt ingeschreven als leerling aan een andere school of als deelnemer aan een instelling.   
 
 ### Artikel  5  
 
 ####Afwijking van de [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
-In afwijking van [artikel 33, eerste lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) kan onderwijs ook worden verzorgd door docenten van de instelling waarmee het bevoegd gezag van de school een samenwerkingsovereenkomst heeft gesloten als bedoeld in [artikel 25a, derde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+In afwijking van [artikel 33, eerste lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) kan onderwijs ook worden verzorgd door docenten van de instelling waarmee het bevoegd gezag van de school een samenwerkingsovereenkomst heeft gesloten als bedoeld in [artikel 25a, derde lid, van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
 
 ### Artikel  6  
 
 ####Leerling geldt voor toepassing WMO 1992 ook als WEB-deelnemer
 
-Voor de toepassing van de [Wet medezeggenschap onderwijs 1992](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) gelden leerlingen als bedoeld in de artikelen 2 en 3 ten aanzien van het onderwijs dat zij volgen aan een instelling tevens als deelnemer in de zin van de [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+Voor de toepassing van de [Wet medezeggenschap onderwijs 1992](../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) gelden leerlingen als bedoeld in de artikelen 2 en 3 ten aanzien van het onderwijs dat zij volgen aan een instelling tevens als deelnemer in de zin van de [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
 
 ### Artikel  7  
 
 ####Wijziging Bekostigingsbesluit W.V.O.
 
-Wijzigt het Bekostigingsbesluit W.V.O.   
+Wijzigt het Bekostigingsbesluit W.V.O. 
 
 ### Artikel  8  
 
 ####Wijziging Inrichtingsbesluit W.V.O.
 
-Wijzigt het Inrichtingsbesluit W.V.O.   
+Wijzigt het Inrichtingsbesluit W.V.O. 
 
 ### Artikel  9  
 
 ####Wijziging Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.
 
-Wijzigt het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.   
+Wijzigt het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. 
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
 1.  Dit besluit treedt, met uitzondering van artikel 9, in werking met ingang van het tijdstip waarop de [Wet van 8 september 2005, houdende wijziging van de Wet op het voortgezet onderwijs en de Wet educatie en beroepsonderwijs om meer ruimte te scheppen voor samenwerking tussen in die wetten geregelde onderwijsinstellingen](../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(ruimte/scheppen/voor/etc/BWBR0018736/README.md) (Stb. 512) in werking treedt.   
-2.  Artikel 9 treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.   
+2.  Artikel 9 treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.  
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit samenwerking VO-BVE.  
+Dit besluit wordt aangehaald als: Besluit samenwerking VO-BVE. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -123,5 +123,5 @@ C. P. Veerman
 
 de *twintigste* december 2005 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner    

@@ -20,22 +20,22 @@ c. in het rijbewijzenregister ten aanzien van de aanvrager een verklaring van ri
 
 d. de aanmaak van het bromfietscertificaat centraal plaatsvindt en het bromfietscertificaat via de post aan de aanvrager wordt toegezonden;  
 
-e. voor het voor het bromfietscertificaat te betalen tarief wordt aangesloten bij het tarief dat is vastgesteld voor de vervangende bromfietscertificaten.    
+e. voor het voor het bromfietscertificaat te betalen tarief wordt aangesloten bij het tarief dat is vastgesteld voor de vervangende bromfietscertificaten.   
 
 ### Artikel  2  
 
-Wijzigt de de Kleine serie-regeling.   
+Wijzigt de de Kleine serie-regeling. 
 
 ### Artikel  3  
 
 1.  Indien artikel IVA van het bij koninklijke boodschap van 6 maart 2006 ingediende voorstel van wet tot wijziging van de Wegenverkeerswet 1994 en enkele verwante wetten op een aantal punten van uiteenlopende aard (Kamerstukken II 2005/06, 30 476) nadat het tot wet is verheven, in werking treedt, treedt artikel 1 van deze regeling op hetzelfde tijdstip in werking en werkt terug tot en met 1 oktober 2006.   
-2.  Artikel 2 treedt in werking met ingang van 9 november 2006. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 7 november 2006, treedt artikel 2 in werking met ingang van de tweede dag na de datum van de Staatscourant waarin deze regeling wordt gepubliceerd en werkt deze wijziging terug tot en met 9 november 2006.   
+2.  Artikel 2 treedt in werking met ingang van 9 november 2006. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 7 november 2006, treedt artikel 2 in werking met ingang van de tweede dag na de datum van de Staatscourant waarin deze regeling wordt gepubliceerd en werkt deze wijziging terug tot en met 9 november 2006.  
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling afgifte bromfietscertificaten.  
+Deze regeling wordt aangehaald als: Regeling afgifte bromfietscertificaten. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit handel in emissierechten.   
+Wijzigt het Besluit handel in emissierechten. 
 
 ### Artikel  II  
 
@@ -25,16 +25,16 @@ a. Degene die de betrokken inrichting drijft, kan het bestuur van de emissieauto
 
 b. De verzoeker verstrekt gegevens waaruit ten genoegen van het bestuur van de emissieautoriteit blijkt dat de inrichting op het tijdstip, bedoeld onder a, voldoet aan de voorwaarden, bedoeld in [artikel 2, tweede lid, onder a en b, van het Besluit handel in emissierechten](../../../../../../../AMvB/besluit/handel/in/emissierechten/BWBR0017779/README.md).  
 
-c. Het bestuur van de emissieautoriteit wijst het verzoek toe indien de inrichting voldoet aan de voorwaarden, bedoeld onder b.    
+c. Het bestuur van de emissieautoriteit wijst het verzoek toe indien de inrichting voldoet aan de voorwaarden, bedoeld onder b.   
 
 ### Artikel  III  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van artikel I, onderdelen J, K, L en M, welke onderdelen in werking treden met ingang van 1 januari 2011.   
-2.  De artikelen I, onderdeel C, en II werken terug tot en met 1 januari 2008.   
+2.  De artikelen I, onderdeel C, en II werken terug tot en met 1 januari 2008.  
 
 ### Artikel  IV  
 
-Dit besluit wordt aangehaald als: Aanpassingsbesluit handel in emissierechten III.  
+Dit besluit wordt aangehaald als: Aanpassingsbesluit handel in emissierechten III. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -42,10 +42,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 26 augustus 2008  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. M.Cramer 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+J. M. Cramer   
 
 de *elfde* september 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

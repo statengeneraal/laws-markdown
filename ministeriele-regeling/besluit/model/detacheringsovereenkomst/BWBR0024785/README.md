@@ -8,16 +8,16 @@ Besluit:
 
 ### Artikel  1  
 
-De inhoud van de modelovereenkomst, bedoeld in [artikel 62, derde lid, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), is opgenomen in de bijlage bij dit besluit.  
+De inhoud van de modelovereenkomst, bedoeld in [artikel 62, derde lid, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), is opgenomen in de bijlage bij dit besluit. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2008.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst  
+G. ter Horst    
 
 ### Bijlage  
 

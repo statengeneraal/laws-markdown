@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 a. militair: de militaire ambtenaar in de zin van [artikel 1 van de Militaire Ambtenarenwet 1931](../../../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) die is aangesteld bij het beroepspersoneel;  
 
-b. peildatum: 1 januari 2006;  
+b. peildatum:  1 januari 2006;  
 
 c. betrokkene: 
 
@@ -43,7 +43,7 @@ d. berekeningsbasis:
 3°. het wachtgeld of de uitkering die over de maand januari 2006, op grond van één van de in onderdeel c, subonderdeel 3° en 4°, genoemde besluiten is genoten na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.       
 2.  De betrokkene heeft op de peildatum aanspraak op een eenmalige uitkering 2004 ter grootte van 0,8% van het twaalfvoud van de voor betrokkene geldende berekeningsbasis.   
 3.  De eenmalige uitkering 2004 heeft geen algemeen karakter en is voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 1° en 3°, niet gerekend tot de bezoldiging in de zin van het [Inkomstenbesluit militairen](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) en maakt evenmin deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
-4.  De eenmalige uitkering 2004 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.   
+4.  De eenmalige uitkering 2004 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.  
 
 ### Hoofdstuk  2  
 
@@ -71,7 +71,7 @@ a. indien een tegemoetkoming is ontvangen over het gehele jaar 2005: het jaarbed
 b. indien een tegemoetkoming is ontvangen over een aaneengesloten tijdvak van twaalf maanden dat eindigt in 2005 alsmede een tegemoetkoming over het resterende deel van het jaar 2005: een bedrag berekend aan de hand van de formule (X : 12) x Y, waarbij X het totale bedrag van de tegemoetkoming over het aaneengesloten tijdvak van twaalf maanden bedraagt en Y het aantal maanden van het jaar 2005 waarop deze tegemoetkoming betrekking heeft. Hierbij wordt het totale bedrag van de tegemoetkoming over het resterende deel van het jaar 2005 opgeteld,  
 
 c. indien een ambtenaar, gewezen ambtenaar dan wel de nabestaanden van de ambtenaar of gewezen ambtenaar in 2005 rechthebbende is respectievelijk zijn geworden en als gevolg daarvan over een deel van het kalenderjaar 2005 een tegemoetkoming heeft respectievelijk hebben ontvangen: een bedrag berekend aan de hand van de formule (A : M) x 12, waarbij A het bedrag van de aanspraak over 2005 is en M het aantal maanden dat belanghebbende rechthebbende was.     
-4.  Dit artikel is niet van toepassing ten aanzien van een belanghebbende als bedoeld in artikel 3, eerste lid, onderdelen b tot en met e, alsmede ten aanzien van de gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 114, eerste lid, van het Burgerlijk ambtenarenreglement defensie](../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md).   
+4.  Dit artikel is niet van toepassing ten aanzien van een belanghebbende als bedoeld in artikel 3, eerste lid, onderdelen b tot en met e, alsmede ten aanzien van de gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 114, eerste lid, van het Burgerlijk ambtenarenreglement defensie](../../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md).  
 
 ### Hoofdstuk  3  
 
@@ -95,7 +95,7 @@ f. De gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 1
 2.  De belanghebbende heeft aanspraak op vergoeding van de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die hij verschuldigd is over zijn uitkering of pensioen.   
 3.  De belanghebbende als bedoeld in het eerste lid, onderdeel a, heeft aanspraak op een tegemoetkoming ter grootte van de inkomensafhankelijke bijdrage als bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) indien hij, in verband met zijn verblijf in het buitenland, deze inkomensafhankelijke bijdrage niet verschuldigd is.   
 4.  Voor de belanghebbende bedoeld in het eerste lid, onderdeel e, wordt, bij de vaststelling van de maximaal verschuldigde premie, eerst het ten laste van het VUT-fonds komende deel van de uitkering in aanmerking genomen.   
-5.  Bij ministeriële regeling kunnen omtrent het bepaalde in dit artikel nadere voorschriften worden vastgesteld.   
+5.  Bij ministeriële regeling kunnen omtrent het bepaalde in dit artikel nadere voorschriften worden vastgesteld.  
 
 ### Hoofdstuk  4  
 
@@ -103,15 +103,15 @@ f. De gewezen burgerambtenaar die een uitkering ontvangt op grond van [artikel 1
 
 ### Artikel  4  
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+Wijzigt het Algemeen militair ambtenarenreglement. 
 
 ### Artikel  5  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  6  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Hoofdstuk  5  
 
@@ -120,15 +120,15 @@ Wijzigt het Inkomstenbesluit militairen.
 ### Artikel  7  
 
 1.  De [Regeling ziektekostenvoorziening defensiepersoneel](../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md) blijft van toepassing zoals deze luidde op de dag voorafgaand aan de datum van intrekking ten aanzien van aanspraken welke zijn opgebouwd in het jaar 2005. In afwijking van [artikel 8 van die regeling](../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md) kan een tegemoetkoming betrekking hebben op een tijdvak korter dan twaalf aaneengesloten maanden indien dit tijdvak aanvangt na 1 januari 2005, waarbij de hoogte van het drempelbedrag naar evenredigheid wordt vastgesteld. De aanvraag van de tegemoetkoming geschiedt voor 1 juli 2006.   
-2.  In afwijking van [artikel 8, vijfde lid](../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md), geldt dat de beschikking op de aanvraag ingediend na 31 december 2005 wordt gegeven voor 1 januari 2007. Indien een beschikking niet voor 1 januari 2007 kan worden gegeven, wordt de aanvrager hiervan schriftelijk in kennis gesteld onder opgave van redenen en met vermelding van de termijn waarbinnen de beschikking wel kan worden gegeven. Deze termijn bedraagt ten hoogste acht weken.   
+2.  In afwijking van [artikel 8, vijfde lid](../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md), geldt dat de beschikking op de aanvraag ingediend na 31 december 2005 wordt gegeven voor 1 januari 2007. Indien een beschikking niet voor 1 januari 2007 kan worden gegeven, wordt de aanvrager hiervan schriftelijk in kennis gesteld onder opgave van redenen en met vermelding van de termijn waarbinnen de beschikking wel kan worden gegeven. Deze termijn bedraagt ten hoogste acht weken.  
 
 ### Artikel  8  
 
-In afwijking van artikel 6, onderdeel B, is het percentage in [artikel 6 van het Inkomstenbesluit militairen](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%.  
+In afwijking van artikel 6, onderdeel B, is het percentage in [artikel 6 van het Inkomstenbesluit militairen](../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) voor de periode 1 januari 2004 tot en met 31 december 2004 bepaald op 0,8%. 
 
 ### Artikel  9  
 
-[Hoofdstuk 7 van het Inkomstenbesluit burgerlijke ambtenaren defensie](../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) blijft van toepassing zoals dit luidde op de dag voorafgaand aan de intrekking van dit [hoofdstuk](../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) ten aanzien van de aanspraken welke zijn opgebouwd in het jaar 2005. In afwijking van het gestelde in [artikel 58, eerste lid, onderdelen a en b, van dat besluit](../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) wordt de tegemoetkoming uitbetaald in de maand maart 2006.  
+[Hoofdstuk 7 van het Inkomstenbesluit burgerlijke ambtenaren defensie](../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) blijft van toepassing zoals dit luidde op de dag voorafgaand aan de intrekking van dit [hoofdstuk](../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) ten aanzien van de aanspraken welke zijn opgebouwd in het jaar 2005. In afwijking van het gestelde in [artikel 58, eerste lid, onderdelen a en b, van dat besluit](../../../../../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) wordt de tegemoetkoming uitbetaald in de maand maart 2006. 
 
 ### Hoofdstuk  6  
 
@@ -136,11 +136,11 @@ In afwijking van artikel 6, onderdeel B, is het percentage in [artikel 6 van het
 
 ### Artikel  10  
 
-De [Regeling ziektekostenvoorziening defensiepersoneel](../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md) wordt ingetrokken.  
+De [Regeling ziektekostenvoorziening defensiepersoneel](../../../../../../../../../AMvB/regeling/ziektekostenvoorziening/defensiepersoneel/BWBR0008817/README.md) wordt ingetrokken. 
 
 ### Artikel  11  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2006. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

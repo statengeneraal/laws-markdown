@@ -43,7 +43,7 @@ d. berekeningsbasis:
 3°. het wachtgeld of de uitkering die over de maand januari 2006, op grond van één van de in onderdeel c, subonderdeel 3° en 4°, genoemde besluiten is genoten na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.       
 2.  De betrokkene, bedoeld in het eerste lid, onderdeel c, heeft aanspraak op een eenmalige uitkering 2005 ter grootte van 1,85% van het twaalfvoud van de voor betrokkene geldende berekeningsbasis.   
 3.  De eenmalige uitkering 2005 heeft geen algemeen karakter en is voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 1° en 3°, niet gerekend tot de bezoldiging in de zin van het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) en maakt evenmin deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
-4.  De eenmalige uitkering 2005 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.   
+4.  De eenmalige uitkering 2005 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.  
 
 ### Hoofdstuk  2  
 
@@ -76,7 +76,7 @@ d. berekeningsbasis:
 3°. het wachtgeld of de uitkering die over de maand december 2006, op grond van één van de in onderdeel c, subonderdeel 3° en 4°, genoemde besluiten is genoten na toepassing van de bij of krachtens die besluiten geldende vermindering wegens inkomsten uit of in verband met arbeid of bedrijf.       
 2.  De betrokkene, bedoeld in het eerste lid, onderdeel c, heeft aanspraak op een eenmalige uitkering 2006 ter grootte van 1% van het twaalfvoud van de voor betrokkene geldende berekeningsbasis.   
 3.  De eenmalige uitkering 2006 heeft geen algemeen karakter en is voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 1° en 3°, niet gerekend tot de bezoldiging in de zin van het [Inkomstenbesluit militairen](../../../../../../../../../../../AMvB/inkomstenbesluit/militairen/BWBR0007816/README.md) en maakt evenmin deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
-4.  De eenmalige uitkering 2006 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.   
+4.  De eenmalige uitkering 2006 maakt voor de betrokkene, bedoeld in het eerste lid, onderdeel c, subonderdeel 2° en 4°, deel uit van de pensioengrondslag.  
 
 ### Hoofdstuk  3  
 
@@ -86,7 +86,7 @@ d. berekeningsbasis:
 
 1.  De gewezen militair die op 1 januari 2006 aanspraak heeft op een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), heeft aanspraak op een eenmalige nominale bruto uitkering ter grootte van € 435.   
 2.  De gewezen militair die op 1 januari 2007 aanspraak heeft op een uitkering op grond van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), heeft aanspraak op een eenmalige nominale bruto uitkering ter grootte van € 300.   
-3.  De eenmalige uitkeringen hebben geen algemeen karakter en maken geen deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).   
+3.  De eenmalige uitkeringen hebben geen algemeen karakter en maken geen deel uit van de pensioengrondslag of het inkomen in de zin van de [Uitkeringswet gewezen militairen](../../../../../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md) dan wel de [Kaderwet militaire pensioenen](../../../../../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md).  
 
 ### Hoofdstuk  4  
 
@@ -94,43 +94,43 @@ d. berekeningsbasis:
 
 ### Artikel  4  
 
-Wijzigt het Besluit vaststelling eenmalige uitkering 2004, enz. (arbeidsvoorwaardenmaatregelen sector Defensie).   
+Wijzigt het Besluit vaststelling eenmalige uitkering 2004, enz. (arbeidsvoorwaardenmaatregelen sector Defensie).
 
 ### Artikel  5  
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+Wijzigt het Algemeen militair ambtenarenreglement. 
 
 ### Artikel  6  
 
-Wijzigt het Besluit dienstreizen defensie.   
+Wijzigt het Besluit dienstreizen defensie. 
 
 ### Artikel  7  
 
-Wijzigt het Besluit personenchauffeurs defensie.   
+Wijzigt het Besluit personenchauffeurs defensie. 
 
 ### Artikel  8  
 
-Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.   
+Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie. 
 
 ### Artikel  9  
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement defensie. 
 
 ### Artikel  10  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  11  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Artikel  12  
 
-Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  13  
 
-Wijzigt het Verplaatsingskostenbesluit militairen.   
+Wijzigt het Verplaatsingskostenbesluit militairen. 
 
 ### Hoofdstuk  5  
 
@@ -138,23 +138,23 @@ Wijzigt het Verplaatsingskostenbesluit militairen.
 
 ### Artikel  14  
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+Wijzigt het Algemeen militair ambtenarenreglement. 
 
 ### Artikel  15  
 
-Wijzigt het Besluit personenchauffeurs defensie.   
+Wijzigt het Besluit personenchauffeurs defensie. 
 
 ### Artikel  16  
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement defensie. 
 
 ### Artikel  17  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  18  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Hoofdstuk  6  
 
@@ -172,7 +172,7 @@ c. artikel 5 terugwerkt tot en met 1 april 2006;
 
 d. de artikelen 6, onderdeel A, artikel 12, en artikel 13, onderdeel A, terugwerken tot en met 1 juli 2006;  
 
-e. de artikelen 14 tot en met 18, terugwerken tot 1 januari 2007.    
+e. de artikelen 14 tot en met 18, terugwerken tot 1 januari 2007.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -180,10 +180,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 11 mei 2007  
 Beatrix  
 
-De Staatssecretaris van Defensie, 
-C. van derKnaap 
+De Staatssecretaris van Defensie , 
+C. van der Knaap   
 
 de *derde* juli 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

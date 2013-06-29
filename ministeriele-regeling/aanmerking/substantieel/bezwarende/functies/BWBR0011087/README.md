@@ -3,16 +3,16 @@
 ##Aanmerking substantieel bezwarende functies
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement,
-Besluit:    
+Gelet op [artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md),
+Besluit:     
 
-### Artikel  1  
+###Artikel  1  
 
-1.  Als substantieel bezwarend volgens categorie A, bedoeld in artikel 97, tweede lid van het Algemeen Rijksambtenarenreglement zijn de volgende functies aangemerkt: 
+1.  Als substantieel bezwarend volgens categorie A, bedoeld in [artikel 97, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) zijn de volgende functies aangemerkt: 
 
-a. bij het Ministerie van Veiligheid en Justitie: 
+a.  bij het Ministerie van Veiligheid en Justitie: 
 
-1° binnen de inrichtingen van de dienst Justitiële Inrichtingen: 
+1°  binnen de inrichtingen van de dienst Justitiële Inrichtingen: 
 
 (plaatsvervangend) vestigingsdirecteur danwel (plaatsvervangend) locatiedirecteur;  
 
@@ -36,13 +36,13 @@ instructeur lichamelijke opvoeding;
 
 kok;    
 
-2° Nederlands Forensisch Instituut: 
+2°  Nederlands Forensisch Instituut: 
 
 assistent Pathologie;      
 
-b. bij het Ministerie van Infrastructuur en Milieu: 
+b.  bij het Ministerie van Infrastructuur en Milieu: 
 
-1° dienstkring Waddenzee Oost bij de directie Noord-Nederland van het Directoraat-Generaal Rijkswaterstaat: 
+1°  dienstkring Waddenzee Oost bij de directie Noord-Nederland van het Directoraat-Generaal Rijkswaterstaat: 
 
 rayonmedewerker;  
 
@@ -50,7 +50,7 @@ kantonnier Landaanwinningswerken;
 
 rayonopzichter;    
 
-2° directie Noordzee van het Directoraat-Generaal Rijkswaterstaat: 
+2°  directie Noordzee van het Directoraat-Generaal Rijkswaterstaat: 
 
 gezagvoerder;  
 
@@ -64,9 +64,9 @@ geïntegreerd scheepsgezel op een betonningsvaartuig;
 
 officier aan boord van de zeegaande onderzoeksvaartuigen;  
 
-dekpersoneel aan boord van de zeegaande onderzoeksvaartuigen;    
+dekpersoneel aan boord van de zeegaande onderzoeksvaartuigen;   
 
-3° Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport:   
+3° Inlichtingen- en Opsporingsdienst van de Inspectie Leefomgeving en Transport:  
 
 – rechercheur;    
 
@@ -90,16 +90,16 @@ c. bij het Ministerie van Volksgezondheid, Welzijn en Sport, binnen de rijksinst
 
 – instructeur lichamelijke opvoeding;  
 
-– kok.       
-2.  Tevens zijn als substantieel bezwarend volgens categorie A, bedoeld in artikel 97, eerste lid van het Algemeen Rijksambtenarenreglement aangemerkt de functies bij de Algemene Inlichtingen- en Veiligheidsdienst van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, die daartoe afzonderlijk zijn aangewezen.   
+– kok.      
+2.  Tevens zijn als substantieel bezwarend volgens categorie A, bedoeld in [artikel 97, eerste lid van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) aangemerkt de functies bij de Algemene Inlichtingen- en Veiligheidsdienst van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, die daartoe afzonderlijk zijn aangewezen.   
 
-### Artikel  2  
+###Artikel  2  
 
-Als substantieel bezwarend volgens categorie B, bedoeld in artikel 97, derde lid, van het Algemeen Rijksambtenarenreglement zijn de volgende functies aangemerkt: 
+Als substantieel bezwarend volgens categorie B, bedoeld in [artikel 97, derde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) zijn de volgende functies aangemerkt: 
 
-a. bij het Ministerie van Infrastructuur en Milieu: 
+a.  bij het Ministerie van Infrastructuur en Milieu: 
 
-1° Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat: 
+1°  Divisie Luchtvaart van de Inspectie Verkeer en Waterstaat: 
 
 hoofd afdeling Vliegzaken;  
 
@@ -109,25 +109,25 @@ inspecteur-vlieger bij het cluster Toezicht en Operatie van de unit Operaties en
 
 testvlieger bij het cluster Techniek van de unit Luchtvaartuigen;    
 
-2° dienstkring Waddenzee Oost bij de directie Noord-Nederland van het Directoraat-Generaal Rijkswaterstaat: 
+2°  dienstkring Waddenzee Oost bij de directie Noord-Nederland van het Directoraat-Generaal Rijkswaterstaat: 
 
 medewerker Metingen;  
 
 hulpkantonnier Landaanwinningswerken;    
 
-3° Directoraat-Generaal Rijkswaterstaat: 
+3°  Directoraat-Generaal Rijkswaterstaat: 
 
-natte verkeersleider.        
+natte verkeersleider.      
 
-### Artikel  3  
+###Artikel  3  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2000.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2000. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling aanmerking substantieel bezwarende functies.  
+Deze regeling wordt aangehaald als: Regeling aanmerking substantieel bezwarende functies. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-A.Peper    
+A. Peper      

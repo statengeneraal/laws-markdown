@@ -7,7 +7,7 @@ De Staatssecretaris van Financiën heeft het volgende besloten. Dit besluit is e
 
 ####Inleiding
 
-Artiesten die hun beroep zelfstandig uitoefenen, dienen voor de heffing van de omzetbelasting in beginsel als ondernemer te worden aangemerkt. In bepaalde gevallen wordt ingevolge de [Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van zelfstandige artiesten loonbelasting ingehouden (de zogenoemde artiestenregeling). In dit besluit keur ik onder bepaalde voorwaarden goed dat artiesten die voor de loonbelasting onder de artiestenregeling vallen, buiten de heffing van omzetbelasting blijven. <sup> 1  In bepaalde gevallen kan zelfs de artiest die per optreden een arbeidsovereenkomst heeft gesloten in de zin van het Burgerlijk Wetboek als ondernemer voor de omzetbelasting worden aangemerkt. Dit is het geval als de artiest het wezenlijke van zijn werkzaamheden geheel naar eigen inzicht vervult.  </sup>   
+Artiesten die hun beroep zelfstandig<sup>1In bepaalde gevallen kan zelfs de artiest die per optreden een arbeidsovereenkomst heeft gesloten in de zin van het Burgerlijk Wetboek als ondernemer voor de omzetbelasting worden aangemerkt. Dit is het geval als de artiest het wezenlijke van zijn werkzaamheden geheel naar eigen inzicht vervult.</sup> uitoefenen, dienen voor de heffing van de omzetbelasting in beginsel als ondernemer te worden aangemerkt. In bepaalde gevallen wordt ingevolge de [Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) van zelfstandige artiesten loonbelasting ingehouden (de zogenoemde artiestenregeling). In dit besluit keur ik onder bepaalde voorwaarden goed dat artiesten die voor de loonbelasting onder de artiestenregeling vallen, buiten de heffing van omzetbelasting blijven.   
 ### 1.1  
 
 ####Gebruikte begrippen en afkortingen
@@ -22,12 +22,12 @@ Uit praktische overwegingen keur ik goed dat personen die worden aangemerkt als 
 
 ####Privé-optredens
 
-Voor de loonbelastingwetgeving wordt degene die een optreden rechtstreeks is overeengekomen met een natuurlijk persoon, ten behoeve van diens persoonlijke aangelegenheden, niet aangemerkt als artiest ([artikel 5a, eerste lid, onderdeel b, van de wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)). Het optreden op een privé-feest vormt dus een uitzondering op de artiestenregeling in de [wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Als een artiest echter gebruik maakt van de goedkeuring in onderdeel 2 van dit besluit, moet hij die goedkeuring ook toepassen op eventuele optredens in de privé-sfeer zoals bedoeld in de [wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). De goedkeuring kan ook worden toegepast door personen die uitsluitend optreden in opdracht van natuurlijke personen, ten behoeve van hun persoonlijke aangelegenheden.    
+Voor de loonbelastingwetgeving wordt degene die een optreden rechtstreeks is overeengekomen met een natuurlijk persoon, ten behoeve van diens persoonlijke aangelegenheden, niet aangemerkt als artiest ([artikel 5a, eerste lid, onderdeel b, van de wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)). Het optreden op een privé-feest vormt dus een uitzondering op de artiestenregeling in de [wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Als een artiest echter gebruik maakt van de goedkeuring in onderdeel 2 van dit besluit, moet hij die goedkeuring ook toepassen op eventuele optredens in de privé-sfeer zoals bedoeld in de [wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).  De goedkeuring kan ook worden toegepast door personen die uitsluitend optreden in opdracht van natuurlijke personen, ten behoeve van hun persoonlijke aangelegenheden.    
 ### 2.2  
 
 ####Uitzondering op de artiestenregeling
 
-Voor de heffing van de loonbelasting kan een artiest gebruik maken van een zogenoemde verklaring arbeidsrelatie winst uit onderneming of een zogenoemde verklaring arbeidsrelatie directeur grootaandeelhouder (zie [artikel 5a, eerste lid, onderdeel a, ten eerste en ten tweede van de wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 3.156](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.157 van de wet IB](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)). Zodra hij dit doet, moet hij al zijn activiteiten overeenkomstig de wettelijke bepalingen in de heffing van omzetbelasting betrekken.    
+Voor de heffing van de loonbelasting kan een artiest gebruik maken van een zogenoemde verklaring arbeidsrelatie winst uit onderneming of een zogenoemde verklaring arbeidsrelatie directeur grootaandeelhouder (zie [artikel 5a, eerste lid, onderdeel a, ten eerste en ten tweede van de wet LB](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 3.156](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.157 van de wet IB](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)). Zodra hij dit doet, moet hij al zijn activiteiten overeenkomstig de wettelijke bepalingen in de heffing van omzetbelasting betrekken.     
 ### 2.3  
 
 ####Buitenlandse optredens/artiesten
@@ -66,6 +66,6 @@ Den Haag
 13 juni 2007   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

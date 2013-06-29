@@ -2,50 +2,50 @@
 
 ##Regeling van 18 december 2002, nr. SAS/2001144917, inzake bekendmaking van al dan niet gerechtvaardigde handelingen en werkzaamheden (Regeling bekendmaking rechtvaardiging gebruik van ioniserende straling)
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte, handelende in overeenstemming met de Minister van Economische Zaken  
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte, handelende in overeenstemming met de Minister van Economische Zaken
 Gelet op de [artikelen 4, tweede lid](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), en [101](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), iuncto [artikel 4, tweede lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);
 
 Gelet op [artikel 19 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) en op [artikel 1b van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md).
-Besluiten:    
+Besluiten:
 
-### Artikel  1  
+###Artikel 1 
 
-De handelingen en werkzaamheden of categorieën daarvan die overeenkomstig [artikel 4, eerste lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) zijn gerechtvaardigd, worden bekend gemaakt door vermelding in de bij deze regeling behorende bijlage 1.  
+De handelingen en werkzaamheden of categorieën daarvan die overeenkomstig [artikel 4, eerste lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) zijn gerechtvaardigd, worden bekend gemaakt door vermelding in de bij deze regeling behorende bijlage 1. 
 
-### Artikel  2  
+###Artikel 2 
 
-De handelingen en werkzaamheden of categorieën daarvan die overeenkomstig [artikel 4, eerste lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) niet zijn gerechtvaardigd, worden bekend gemaakt door vermelding in de bij deze regeling behorende bijlage 2.  
+De handelingen en werkzaamheden of categorieën daarvan die overeenkomstig [artikel 4, eerste lid, van het Besluit stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) niet zijn gerechtvaardigd, worden bekend gemaakt door vermelding in de bij deze regeling behorende bijlage 2. 
 
-### Artikel  3  
+###Artikel 3 
 
-Deze regeling wordt aangehaald als: Regeling bekendmaking rechtvaardiging gebruik van ioniserende straling.  
+Deze regeling wordt aangehaald als: Regeling bekendmaking rechtvaardiging gebruik van ioniserende straling. 
 
-### Artikel  4  
+###Artikel 4 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2002.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2002.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. 
 
-'s-Gravenhage 
-18 december 2002    
-
-De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.B.L.A. vanGeel 
+'s-Gravenhage
+18 december 2002
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-M.Rutte   
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
+P.B.L.A. vanGeel
 
-### Bijlage  1  
+De 
+Staatssecretaris van Sociale Zaken en Werkgelegenheid,
+M.Rutte
+
+###Bijlage 1 
 
 ####bij de Regeling bekendmaking rechtvaardiging gebruik van ioniserende straling
 
-Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handelingen en werkzaamheden*   
+Deze bijlage behoort bij artikel 1 van de regeling.*Gerechtvaardigde handelingen en werkzaamheden*
 
-|  *NR*   |  *Toepassing(scategorie)*   |  *Voorbeelden*   |  *Doel toepassing*   |  *Argumenten rechtvaardiging <sup>1)</sup>*   |
+| *NR*  | *Toepassing(scategorie)*  |* Voorbeelden*  |* Doel toepassing*  |* Argumenten rechtvaardiging<sup>1)</sup> * |
 |:---|:---|:---|:---|:---|
-|  *I*   |  *Onderzoeks- en Industriële toepassingen*   |
-|  *I.A*   |  *Ingekapselde bronnen voor*   |
+| *I*  |* Onderzoeks- en Industriële toepassingen*  |
+| *I.A*  |* Ingekapselde bronnen voor*  |
 | I.A.1  | Meet- en regeltechniek  | ♦ diktemeting  | ♦ meten en regelen van of binnen diverse productieprocessen  | ♦ optimalisatie van processen  |
 | --- | --- | ♦ dichtheidsmeting  | --- | ♦ kostenbesparing  |
 | --- | --- | ♦ niveaumeting  | --- | ♦ veiliger en betrouwbaarder procesvoering  |
@@ -58,7 +58,7 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | I.A.2  | IJking  | ♦ diverse ijkbronnen  | ♦ testen en ijken van diverse apparatuur en stoffen  | ♦optimaliseren van processen, meet- en regelsystemen en analyseopstellingen  |
 | --- | --- | --- | --- | ♦ voorkomen van te grote of te kleine bestralingen  |
 | I.A.3  | Analyse  | ♦ gaschromatografie  | ♦ analyseren van bepaalde stoffen en materialen  | ♦ benutting van fysische mogelijkheden  |
-| --- | --- | ♦ elementenanalyse m.b.v. neutronenactivering  | --- | ♦ controle kwaliteit producten en productproces, dus minder afval en minder gevaar bij gebruik  |
+| --- | --- | ♦ elementenanalyse m.b.v. neutronenactivering | --- | ♦ controle kwaliteit producten en productproces, dus minder afval en minder gevaar bij gebruik  |
 | --- | --- | ♦ stofmonitoring  | --- | ♦ vermeerdering van kennis  |
 | --- | --- | ♦ stofemissiemeting  | --- | --- |
 | --- | --- | ♦ röntgenfluorescentie-analyse  | --- | --- |
@@ -80,15 +80,15 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | --- | --- | ♦ aangroeiing in procesapparaten en depositie in leidingen meten  | --- | ♦ tijdige signalering van onveilige situaties  |
 | I.A.8  | Exploratie onderzoek  | ♦ gammabackscatter t.b.v. dichtheidsmetingen van gesteenten in gas- en olievelden via boorputten  | ♦ verhoging rendement olie- en gasvelden  | ♦ optimalisatie ontginning van energiebronnen  |
 | --- | --- | ♦ neutronenbackscatter voor opsporen water-, gas- en olievelden via boorputten  | ♦ betere benutting van energievoorraden  | ♦ beter in beeld brengen van energiereserves  |
-| I.A.9  | (Consumenten)producten  | ♦ aanwijsinstrumenten <sup>2)</sup> (klokken, horloges, navigatieinstrumenten)  | ♦ (nood)verlichting  | ♦ vermindering van (mogelijk) gevaar  |
-| --- | --- | ♦ lampen (H-3, Kr-85, Th 228, Th 230, Th 232 inclusief vervalproducten)  | ♦ leesbaarheid  | ♦ effectiviteit  |
+| I.A.9  | (Consumenten)producten | ♦ aanwijsinstrumenten<sup>2)</sup> (klokken, horloges, navigatieinstrumenten)  | ♦ (nood)verlichting  | ♦ vermindering van (mogelijk) gevaar  |
+| --- | --- | ♦ lampen (H-3, Kr-85, Th 228, Th 230, Th 232 inclusief vervalproducten) | ♦ leesbaarheid  | ♦ effectiviteit  |
 | --- | --- | ♦ starters (Kr-85 en Th-232)  | ♦ waarschuwing voor gevaar  | --- |
 | --- | --- | ♦ elektronische componenten  | ♦ snellere werking  | --- |
-| --- | --- | ♦ "bèta lights" in vliegtuigen en bioscopen  | ♦ helderheid  | --- |
-| --- | --- | ♦ ionisatie rookmelders voor bedrijfsmatige toepassingen  | --- | --- |
+| --- | --- | ♦ "bèta lights" in vliegtuigen en bioscopen  |♦ helderheid | --- |
+| --- | --- | ♦ ionisatie rookmelders voor bedrijfsmatige toepassingen | --- | --- |
 | --- | --- | ♦ beeldschermen  | --- | --- |
-| I.A.10  | Ontsteking  | ♦ spark gap tubes H-3 en Ni-63  | ♦ ontsteking olie of gas brander door middel van hoge energie ontsteeklans  | ♦ optimalisatie van processen  ♦ veiliger en betrouwbaarder procesvoering  ♦ kostenbesparing  |
-|  *I.B*   |  *Open bronnen bij*   |
+|I.A.10  |Ontsteking  |♦ spark gap tubes H-3 en Ni-63  |♦ ontsteking olie of gas brander door middel van hoge energie ontsteeklans  |♦ optimalisatie van processen  ♦ veiliger en betrouwbaarder procesvoering  ♦ kostenbesparing  |
+| *I.B*  |* Open bronnen bij*  |
 | I.B.1  | Procesindustrie  | ♦ ertsverwerkende industrie  | ♦ bewerken van primaire en secundaire grondstoffen in de procesindustrie  | ♦ verbetering van marktpositie  |
 | --- | --- | ♦ olie- en gaswinning  | --- | ♦ bevordering van investeringen  |
 | --- | --- | ♦ minerale delfstoffen en -zanden  | --- | ♦ bevordering hergebruik  |
@@ -120,7 +120,7 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | --- | --- | ♦ scales verwijderen  | ♦ schoonmaken ten behoeve van scheiden van afval  | ♦ bevorderen hergebruik  |
 | --- | --- | ♦ sanering vervuilde grond  | --- | --- |
 | I.B.8  | Bouwmaterialen  | ♦ materialen voor grond-, weg- en waterbouw  | ♦ toepassingen bij grote constructies zoals wegen, dijken etc.  | ♦ (her)gebruik van primaire en secundaire grondstoffen uit de procesindustrie  |
-|  *I.C*   |  *Toestellen voor*   |
+| *I.C * |* Toestellen voor*  |
 | I.C.1  | Analyse en onderzoek d.m.v. röntgenstraling  | ♦ röntgendiffractie-apparaat  | ♦ analyses  | ♦ bevordering van kennis  |
 | --- | --- | ♦ röntgenspectrograaf  | ♦ fluorescentieanalyse  | ♦ benutten van fysische mogelijkheden  |
 | I.C.2  | Doorlichten van objecten m.b.v. röntgenstraling  | ♦ doorlichten van bagage  | ♦ opsporing wapens, drugs etc.  | ♦ voorkoming of opsporing van misdrijven  |
@@ -140,7 +140,7 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | I.C.7  | Meet- en regeltechniek  | ♦ röntgentoestel  | ♦ diktemetingen  | ♦ optimalisering van processen  |
 | --- | --- | --- | --- | ♦ kostenbesparing  |
 | --- | --- | --- | --- | ♦ veiliger en betrouwbaarder procesvoering  |
-|  *I.D*   |  *Toepassingen die zowel met ingekapselde bronnen, open bronnen als toestellen kunnen plaatsvinden*   |
+| *I.D*  |* Toepassingen die zowel met ingekapselde bronnen, open bronnen als toestellen kunnen plaatsvinden*  |
 | I.D.1  | Onderwijs  | ♦ natuurkunde onderwijs op middelbare scholen, in het beroepsonderwijs en op de universiteit  | ♦ onderwijs waarbij bronnen worden gebruikt  | ♦ bevordering kennis  |
 | --- | --- | ♦ stralingshygiënische opleidingen  | ♦ onderwijs in het toepassen van bronnen  | ♦ opleiding tot stralingsdeskundige  |
 | I.D.2  | Demonstraties  | ♦ ezposities bij wetenschappelijke vergaderingen  | ♦ demonstratie producten  | ♦ verkoopbevordering  |
@@ -149,9 +149,9 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | --- | --- | ♦ veiligheidsoefeningen  | --- | ♦ bevorderen van kennis  |
 | I.D.4  | Afvalverwerking  | ♦ erkende ophaaldienst radioactief afval  | ♦ afvalverwerking  | ♦ gecontroleerde en beheersbare afvaldeponie of -verwerking  |
 | --- | --- | ♦ afvaldeponie  | --- | --- |
-| I.D.5  | Eerste hulp bij ongewenste situaties door het veiligstellen en indien nodig afvoeren bij derden van radio-actieve stoffen of splijtstoffen of ertsen, in het geval van het onverwacht of niet gepland en ongewild aanwezig zijn van die stoffen bij die derden en die derden niet gerechtigd zijn die stoffen voorhanden te hebben  | ♦ schroot- en afvalverwerkers, veembedrijven, container terminals, onderhouds- en servicebedrijven voor de olie en gasproductie-bedrijven  | ♦ opheffen van een ongewenste en illegale situatie;  ♦ veiligstellen of het afvoeren van bij derden onbevoegd voorhanden zijnde stoffen  | ♦ vermindering van (mogelijk) gevaar voor mens en milieu;  ♦ opheffen van illegale situaties  |
-|  *II*   |  *Medische en veterinaire toepassingen <sup>4)</sup>*   |
-|  *II.A*   |  *Medische praktijk met toestellen en open- of ingekapselde bronnen*   |
+|I.D.5  |Eerste hulp bij ongewenste situaties door het veiligstellen en indien nodig afvoeren bij derden van radio-actieve stoffen of splijtstoffen of ertsen, in het geval van het onverwacht of niet gepland en ongewild aanwezig zijn van die stoffen bij die derden en die derden niet gerechtigd zijn die stoffen voorhanden te hebben  |♦ schroot- en afvalverwerkers, veembedrijven, container terminals, onderhouds- en servicebedrijven voor de olie en gasproductie-bedrijven  |♦ opheffen van een ongewenste en illegale situatie;  ♦ veiligstellen of het afvoeren van bij derden onbevoegd voorhanden zijnde stoffen  |♦ vermindering van (mogelijk) gevaar voor mens en milieu;  ♦ opheffen van illegale situaties  |
+| *II*  | *Medische en veterinaire toepassingen<sup>4)</sup>* |
+| *II.A*  |* Medische praktijk met toestellen en open- of ingekapselde bronnen*  |
 | II.A.1  | Therapie  | ♦ therapie m.b.v. deeltjesversnellers  | ♦ curatieve of palliatieve therapie i.v.m. de behandeling van kanker, littekenweefsel of andere huisdefecten en voor pijnbestrijding etc.  | ♦ individuele gezondheid  |
 | --- | --- | ♦ therapie of simulatie- of planningsdoeleinden t.b.v. therapie m.b.v. röntgenapparatuur  | --- | ♦ volksgezondheid  |
 | --- | --- | ♦ *in vivo* nucleair geneeskundige therapie  | --- | --- |
@@ -171,65 +171,66 @@ Deze bijlage behoort bij artikel 1 van de regeling.  *Gerechtvaardigde handeling
 | --- | --- | ♦ arbeidsgeneeskundig onderzoek  | --- | --- |
 | II.A.5  | Medisch-juridisch onderzoek  | ♦ het radiologisch onderzoek van personen vanwege verzekeringstechnische overwegingen of vanwege het in of op het lichaam opsporen van verboden voorwerpen of stoffen  | ♦ verkrijgen van inzicht in de fysieke toestand van personen  | ♦ zekerstelling  |
 | --- | --- | --- | ♦ voorkoming van lichamelijk onderzoek  | ♦ voorkoming van misdrijven  |
-|  *II.B*   |  *Veterinaire praktijk met toestellen en open- of ingekapselde bronnen*   |
+| *II.B*  |* Veterinaire praktijk met toestellen en open- of ingekapselde bronnen*  |
 | II.B.1  | Diagnostiek met toestellen, open- of ingekapselde bronnen  | ♦ röntgendiagnostiek  | ♦ diagnostiek bij dieren  | ♦ bevordering van kennis  |
 | --- | --- | ♦ nucleaire geneeskunde  | --- | ♦ zonder de toepassing doel vaak niet haalbaar  |
 | II.B.2  | Radiotherapie met toestellen of nucleaire geneeskunde  | ♦ therapie  | ♦ therapie bij dieren  | ♦ bevordering van kennis  |
 | --- | --- | --- | --- | ♦ zonder de toepassing doel vaak niet haalbaar  |
-|  *III*   |  *Vervoer en opslag in verband met vervoer, en in- uit en doorvoer van splijtstoffen, ertsen en radioactieve stoffen*   |
-|  *III.A*   |  *Vervoer*   |
+| *III*  | *Vervoer en opslag in verband met vervoer, en in- uit en doorvoer van splijtstoffen, ertsen en radioactieve stoffen*  |
+| *III.A*  |* Vervoer*  |
 | III.A.1  | Vervoer en invoer van radioactieve stoffen, splijtstoffen en ertsen van en naar de locatie waar handelingen of werkzaamheden met deze materialen worden verricht waarvoor een vergunning is verleend of waarvoor voldaan is aan de meldingsplicht.  | ♦ aan- en afvoer van materialen, bronnen etc. binnen, door en in en uit Nederland  | ♦ indien de toepassing waartoe dit vervoer dient, is gerechtvaardigd, is automatisch het vervoer van de middelen om de toepassing mogelijk te maken ook gerechtvaardigd  |
 | III.A.2  | Vervoer en invoer van de materialen, bedoeld in III.A.1, die zijn vrijgesteld van vergunning- of meldingsplicht  | ♦ aan- en afvoer van materialen, bronnen etc. binnen, door en in en uit Nederland  | ♦ idem III.A.1  |
 | III.A.3  | Uit- en doorvoer van radioactieve stoffen, splijtstoffen en ertsen, mits met betrekking tot deze stoffen aan de meldingsplicht voldaan is of waarvoor een vergunning is verleend en schriftelijk bekend gemaakt is dat het transitland of het land van bestemming deze materialen wil accepteren  | ♦ aan- en afvoer van materialen, bronnen etc. binnen, door en in en uit Nederland  | ♦ idem III.A.1  |
 | III.A.4  | Het vervoer en de in-, uit- en doorvoer van splijtstoffen, ertsen en radioactieve stoffen, indien reeds eerder voor soortgelijk transport onder dezelfde condities een vergunning is verleend of aan de meldingsplicht is voldaan en de condities op de plaats van bestemming niet zijn gewijzigd  | ♦ aan- en afvoer van materialen, bronnen etc. binnen, door en in en uit Nederland  | ♦ een eerder verleende vergunning of het voldoen aan een melding hield impliciet een rechtvaardiging in. Tenzij er nieuwe redelijke alternatieven zijn, is het transport wederom gerechtvaardigd  |
 | III.A.5  | Het vervoer van splijtstoffen, ertsen en radioactieve stoffen door een erkende ophaaldienst van radioactieve afvalstoffen en splijtstof of erts bevattende afvalstoffen  | ♦ afvoer naar de erkende ophaaldienst van materialen  | ♦ gecentraliseerde radioactief afval-berging is te prefereren  |
 | III.A.6  | Het vervoer door een daartoe aangewezen instelling of persoon van in bezit genomen radioactieve stoffen, splijtstoffen en ertsen  | ♦ afvoer van in bezit genomen materialen  | ♦ bij inbeslagname moet het materiaal vervoerd worden  |
-| III.A.7  | Opslag in verband met vervoer <sup>5)</sup>, indien het desbetreffende vervoer gerechtvaardigd is  | ♦ voor het vervoer het daartoe gereed maken en zetten van materialen  | ♦ noodzakelijk onderdeel van vervoer en dus gerechtvaardigd  |
-|  *III.B*   |  *In-, uit- en doorvoer van radioactieve afvalstoffen en splijtstof of erts bevattende afvalstoffen*   |
+| III.A.7  | Opslag in verband met vervoer<sup>5)</sup>, indien het desbetreffende vervoer gerechtvaardigd is  | ♦ voor het vervoer het daartoe gereed maken en zetten van materialen  | ♦ noodzakelijk onderdeel van vervoer en dus gerechtvaardigd  |
+| *III.B*  |* In-, uit- en doorvoer van radioactieve afvalstoffen en splijtstof of erts bevattende afvalstoffen*  |
 | III.B.1  | In- uit- en doorvoer van radioactieve afvalstoffen en splijtstof of erts bevattende afvalstoffen, waarvoor aan de meldingsplicht voldaan is of waarvoor een vergunning is verleend en schriftelijk bekend gemaakt is dat het transitland of het land van bestemming deze materialen wil accepteren  | --- | ♦ een verleende vergunning of het voldoen aan een melding houd impliciet een rechtvaardiging in. Tenzij er nieuwe redelijke alternatieven zijn, is het transport wederom gerechtvaardigd  |
 | --- | --- | --- | ♦ de ontvangst elders is gerechtvaardigd en dus ook het transport er naar toe  |
 | III.B.2  | De invoer, de uitvoer of de doorvoer van de material en, bedoeld in III.B.1 indien reeds eerder voor een soortgelijk transport onder dezelfde condities een vergunning is verleend of aan de meldingsplicht is voldaan en de condities op de plaats van bestemming niet zijn gewijzigd  | --- | ♦ een reeds verleende vergunning of het voldoen aan een melding voor soortgelijk vervoer houd impliciet een rechtvaardiging in. Tenzij er nieuwe redelijke alternatieven zijn, is het transport wederom gerechtvaardigd  |
 
-1) Voor alle toepassingen gelden in meer of mindere mate de argumenten ‘werkgelegenheid’, ‘de verhoging van gemak’ en ‘economische of sociale voordelen voor de maatschappij’. 2) Bepaalde aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, zijn voor ‘civiel’ gebruik niet te rechtvaardigen en daarom bij AMvB (§ 4.3, artikel 27 tot en met 30, BS) verboden 4) Voor zover het de blootstelling van het personeel of leden van de bevolking ten gevolge van onderzoek of therapie van anderen of dieren betreft en niet de blootsteling van personen of dieren die zelf een onderzoek of therapie ondergaan 5) Opslag in verband met vervoer, valt alleen onder het Vervoersbesluit indien deze opslag niet langer dan twee werkdagen plaatsvindt en het vervoer zelf reeds geregeld is. 
+1) Voor alle toepassingen gelden in meer of mindere mate de argumenten ‘werkgelegenheid’, ‘de verhoging van gemak’ en ‘economische of sociale voordelen voor de maatschappij’.2) Bepaalde aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, zijn voor ‘civiel’ gebruik niet te rechtvaardigen en daarom bij AMvB (§ 4.3, artikel 27 tot en met 30, BS) verboden4) Voor zover het de blootstelling van het personeel of leden van de bevolking ten gevolge van onderzoek of therapie van anderen of dieren betreft en niet de blootsteling van personen of dieren die zelf een onderzoek of therapie ondergaan5) Opslag in verband met vervoer, valt alleen onder het Vervoersbesluit indien deze opslag niet langer dan twee werkdagen plaatsvindt en het vervoer zelf reeds geregeld is.
 
-### Bijlage  2  
+###Bijlage 2 
 
 ####bij de Regeling bekendmaking rechtvaardiging gebruik van ioniserende straling
 
-Deze bijlage behoort bij artikel 2 van de regeling.  *Niet-gerechtvaardigde handelingen en werkzaamheden*   
+Deze bijlage behoort bij artikel 2 van de regeling.*Niet-gerechtvaardigde handelingen en werkzaamheden*
 
-|  *Nr*   |  *Toepassingscategorie*   |  *Voorbeelden*   |  *Doel toepassing*   |  *Argument*   |
+|* Nr*  | *Toepassingscategorie*  | *Voorbeelden*  | *Doel toepassing*  |* Argument*  |
 |:---|:---|:---|:---|:---|
-|  *I*   |  *Gebruiksartikelen*   |
-|  *I.A*   | Opzettelijke toevoeging van radioactieve stoffen aan speelgoed, sieraden of cosmetische producten  | --- | ♦ verfraaiing  | ♦ nut van de toepassing weegt niet op tegen de schade  |
-| --- | --- | --- | --- | ♦ verboden in Richtlijn 96/29 /EURATOM  |
-|  *I.B*   | Gebruik van schoenfluoroscopen en kryptoscopen  | ♦ kindervoetmetingen in normale schoenwinkels  | ♦ voetmetingen voor juiste schoenen  | ♦ nut van de toepassing is onvoldoende aantoonbaar  |
+|* I * | *Gebruiksartikelen*  |
+|* I.A*  | Opzettelijke toevoeging van radioactieve stoffen aan speelgoed, sieraden of cosmetische producten  | --- | ♦ verfraaiing  | ♦ nut van de toepassing weegt niet op tegen de schade  |
+| --- | --- | --- | --- | ♦ verboden in Richtlijn 96/29/EURATOM  |
+|* I.B*  | Gebruik van schoenfluoroscopen en kryptoscopen  | ♦ kindervoetmetingen in normale schoenwinkels  | ♦ voetmetingen voor juiste schoenen  | ♦ nut van de toepassing is onvoldoende aantoonbaar  |
 | --- | --- | --- | --- | ♦ voordelen zijn zeer gering ten opzichte van het nadeel voor leden van de bevolking en werkers  |
-|  *I.C*   | Toepassing van radiumhoudende korsetten, etc.  | --- | ♦ vermeende gezondheidsvoordelen  | ♦ nut van de toepassing is niet aantoonbaar;  |
+|* I.C*  | Toepassing van radiumhoudende korsetten, etc. | --- | ♦ vermeende gezondheidsvoordelen  | ♦ nut van de toepassing is niet aantoonbaar;  |
 | --- | --- | --- | --- | ♦ vermeende gezondheidsvoordelen zijn niet aantoonbaar en wegen daarom niet op tegen het gezondheidsnadeel  |
-|  *I.D*   | Toepassing van radioactieve bliksemafleiders  | --- | ♦ vermeende betere werking  | ♦ fysisch werkingsmechanisme is niet aangetoond  |
-|  *I.E*   | Diverse toepassingen van "bèta-lights"  | ♦ in visdobbers  | ♦ visdobber bij nacht waar te nemen  | ♦ goede alternatieven voorhanden  |
+|* I.D*  | Toepassing van radioactieve bliksemafleiders  | --- | ♦ vermeende betere werking  | ♦ fysisch werkingsmechanisme is niet aangetoond  |
+|* I.E*  | Diverse toepassingen van "bèta-lights"  | ♦ in visdobbers  | ♦ visdobber bij nacht waar te nemen  | ♦ goede alternatieven voorhanden  |
 | --- | --- | ♦ bij het labellen van dieren  | ♦ om dieren 's nachts te kunnen volgen  | ♦ het beperkte voordeel weegt niet op tegen het nadeel van potentiële en oncontroleerbare blootstelling  |
-|  *I.F*   | Toepassing van lexiscopen  | --- | --- | ♦ nut van de toepassing is onvoldoende aantoonbaar  |
+|* I.F*  | Toepassing van lexiscopen  | --- | --- | ♦ nut van de toepassing is onvoldoende aantoonbaar  |
 | --- | --- | --- | --- | ♦ het beperkte voordeel weegt niet op tegen het nadeel van potentiële en oncontroleerbare blootstelling  |
 | --- | --- | --- | --- | ♦ microafweging valt in het voordeel uit van andere diagnostische technieken  |
-|  *I.G*   | Detailhandel in thoriumlasstaven  | ♦ lassen van hooggelegeerde staalsoorten en non-ferro metalen  | ♦ kwalitatief hoogwaardig lasresultaat  | ♦ inhalatiedosis tijdens lassen zijn relatief hoog  |
+|* I.G*  | Detailhandel in thoriumlasstaven  | ♦ lassen van hooggelegeerde staalsoorten en non-ferro metalen  | ♦ kwalitatief hoogwaardig lasresultaat  | ♦ inhalatiedosis tijdens lassen zijn relatief hoog  |
 | --- | --- | --- | --- | ♦ goede alternatieven zijn beschikbaar  |
-|  *I.H*   | Detailhandel in gloeikousjes, die Th-232 bevatten  | ♦ verlichting in tenten, caravans etc  | ♦ verlichting zonder de aanwezigheid van een elektriciteitsnet  | ♦ bij onoordeelkundig verwisselen van de kousjes in besloten ruimtes zoals tenten en caravans kan de inhalatiedosis te hoog worden  |
+|* I.H*  | Detailhandel in gloeikousjes, die Th-232 bevatten  | ♦ verlichting in tenten, caravans etc  | ♦ verlichting zonder de aanwezigheid van een elektriciteitsnet  | ♦ bij onoordeelkundig verwisselen van de kousjes in besloten ruimtes zoals tenten en caravans kan de inhalatiedosis te hoog worden  |
 | --- | --- | --- | --- | ♦ goede alternatieven zijn beschikbaar  |
-|  *I.I*   | Detailhandel in antistatische middelen die Po-210 of Am-241 bevatten  | ♦ borsteltjes voor schoonmaak van fotografisch materiaal  | ♦ statische elektriciteit op bijv. fotografisch materiaal verminderen  | ♦ de voordelen van de toepassing weegt niet op tegen de dosis voor personeel  |
+| *I.I*  | Detailhandel in antistatische middelen die Po-210 of Am-241 bevatten  | ♦ borsteltjes voor schoonmaak van fotografisch materiaal  | ♦ statische elektriciteit op bijv. fotografisch materiaal verminderen  | ♦ de voordelen van de toepassing weegt niet op tegen de dosis voor personeel  |
 | --- | --- | --- | --- | ♦ goede alternatieven zijn beschikbaar  |
-|  *I.J*   | Detailhandel in gasontladingsbuizen, die Co-60 bevatten  | ♦ elektronische apparaten  | ♦ snelheid en betrouwbaarheid van de buizen verbeteren  | ♦ de voordelen van de toepassing weegt niet op tegen de dosis voor personeel  |
+|* I.J*  | Detailhandel in gasontladingsbuizen, die Co-60 bevatten  | ♦ elektronische apparaten  | ♦ snelheid en betrouwbaarheid van de buizen verbeteren  | ♦ de voordelen van de toepassing weegt niet op tegen de dosis voor personeel  |
 | --- | --- | --- | --- | ♦ goede alternatieven zijn beschikbaar  |
-|  *I.K*   | Detailhandel in cameralenzen die Th-232 bevatten  | ♦ oculairen, camera's  | ♦ brekingsindex van lenzen vergroten  | ♦ de voordelen van de toepassing weegt niet op tegen de dosis voor personeel  |
+|* I.K*  | Detailhandel in cameralenzen die Th-232 bevatten  | ♦ oculairen, camera's  | ♦ brekingsindex van lenzen vergroten  | ♦ de voordelen van de toepassing weegt niet op tegen de dosis voor personeel  |
 | --- | --- | --- | --- | ♦ goede alternatieven zijn beschikbaar  |
-|  *II*   |  *Consumptie*   |
-|  *II.A*   | Toepassing van radiumhoudende drinkbekers  | --- | ♦ vermeende gezondheidsvoordelen  | ♦ nut van de toepassing is onvoldoende aantoonbaar  |
-| --- | --- | --- | --- | ♦ relatief hoge dosis  |
-|  *II.B*   | Opzettelijke toevoeging van radioactieve stoffen aan levensmiddelen  | ♦ levensmiddelen voor normaal gebruik  | ♦ opzettelijke vermenging besmette en niet-besmette levensmiddelen  | ♦ verboden in Richtlijn 96/29 /EURATOM  |
+|*I.L*  |Verkoop van ionisatie rookmelders aan particulieren met uitzondering van rookmelders die vallen onder Richtlijn 2006/95/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende de onderlinge aanpassing van de wettelĳke voorschriften der lidstaten inzake elektrisch materiaal bestemd voor gebruik binnen bepaalde spanningsgrenzen (PbEU 2006, L 374)  |♦ detectie van rook  |♦ snelheid en betrouwbaarheid van rookmelder verbeteren |♦ Goede alternatieven zijn beschikbaar  |
+| *II*  | *Consumptie*  |
+|* II.A*  | Toepassing van radiumhoudende drinkbekers  | --- | ♦ vermeende gezondheidsvoordelen  | ♦ nut van de toepassing is onvoldoende aantoonbaar  |
+| --- | --- | --- | --- | ♦ relatief hoge dosis |
+|* II.B*  | Opzettelijke toevoeging van radioactieve stoffen aan levensmiddelen  | ♦ levensmiddelen voor normaal gebruik  | ♦ opzettelijke vermenging besmette en niet-besmette levensmiddelen  | ♦ verboden in Richtlijn 96/29/EURATOM  |
 | --- | --- | --- | ♦ verdunning met het doel om onder niveaus te komen  | --- |
 | --- | --- | --- | ♦ opzettelijk toevoegen besmette (grond)stoffen aan niet-besmette levensmiddelen  | --- |
-|  *III*   |  *Radioactief schroot*   |
-|  *III.A*   | Opslag van radioactief schroot op locaties, waar schroot wordt opgeslagen, bewerkt, verwerkt of overgeslagen tenzij als opslag in verband met vervoer en tenzij als opslag bij een erkende ophaaldienst of aangewezen instelling, zoals 37, zevende, onderscheidenlijk zesde of achtste lid  | ♦ aluminium-, ijzer- of roestvrijstaalschroothandelaren  | ♦ terzijde plaatsen tot verdere afhandeling van schroot dat radioactief is gebleken en niet kan worden teruggezonden  | ♦ de mogelijke blootstelling van personen op locaties die daar niet voor geschikt zijn  |
+|* III*  | *Radioactief schroot*  |
+| *III.A*  | Opslag van radioactief schroot op locaties, waar schroot wordt opgeslagen, bewerkt, verwerkt of overgeslagen tenzij als opslag in verband met vervoer en tenzij als opslag bij een erkende ophaaldienst of aangewezen instelling, zoals 37, zevende, onderscheidenlijk zesde of achtste lid  | ♦ aluminium-, ijzer- of roestvrijstaalschroothandelaren  | ♦ terzijde plaatsen tot verdere afhandeling van schroot dat radioactief is gebleken en niet kan worden teruggezonden  | ♦ de mogelijke blootstelling van personen op locaties die daar niet voor geschikt zijn  |
 | --- | --- | ♦ schrootverwerkingsbedrijven  | --- | ♦ aangewezen of erkende alternatieve opslaglocaties zijn beschikbaar  |
 

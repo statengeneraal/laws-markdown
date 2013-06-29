@@ -2,12 +2,12 @@
 
 ##Regeling van de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, van 30 juni 2005, nr. 2005-0000059936/CZW/WVOB, houdende regels ter uitvoering van het Besluit brede doeluitkering sociaal, integratie en veiligheid (Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid)
 
-De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,  
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,
 Handelende in overeenstemming met de Ministers van Justitie, voor Vreemdelingenzaken en Integratie, van Binnenlandse Zaken en Koninkrijksrelaties, en van Onderwijs, Cultuur en Wetenschap en met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
 Gelet op de [artikelen 4, tweede lid](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), [7, tweede en vierde lid](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), [16, eerste en tweede lid](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), [20, derde lid](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) en [24, negende lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md);
-Besluit:     
-### Hoofdstuk  1  
+Besluit:  
+###Hoofdstuk 1 
 
 ####Begripsomschrijvingen en reikwijdte
 
@@ -67,131 +67,131 @@ y. persoonlijk inburgeringsbudget: een budget dat door het college van burgemees
 
 z. staatsexamen: het staatsexamen Nederlands als tweede taal I en II, bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-aa. duale inburgeringsvoorziening: duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel p, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dit luidde op 31 december 2012;  
+aa. duale inburgeringsvoorziening: duale inburgeringsvoorziening als bedoeld in [artikel 1.1, onderdeel p, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dit luidde op 31 december 2012; 
 
-bb. taalkennisvoorziening: taalkennisvoorziening als bedoeld in [artikel 19, tweede lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die luidde op 31 december 2012.    
+bb.  taalkennisvoorziening: taalkennisvoorziening als bedoeld in [artikel 19, tweede lid, van de Wet inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) zoals die luidde op 31 december 2012.  
 
 ### Artikel  1a  
 
-De artikelen 2 tot en met 9a, 14a tot en met 14c, 15 en 15b zijn niet van toepassing op de gemeente Sittard-Geleen.  
+De artikelen 2 tot en met 9a, 14a tot en met 14c, 15 en 15b zijn niet van toepassing op de gemeente Sittard-Geleen. 
 
-### Hoofdstuk  2  
+###Hoofdstuk 2 
 
 ####Verdeling van de middelen
 
-### Afdeling  1  
+###Afdeling 1 
 
 ####Procentuele aandelen
 
-### Artikel  2  
+###Artikel 2 
 
-Het procentuele aandeel van de gemeente in de middelen voor leefbaarheid en veiligheid, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule: 0,3366 × ((0,50 × Inw2004gem /Inw2004G30) + 0,50 (Nwal2004gem/Nwal2004G30)) + 0,4795 × ((0,3333 × (Jong2004gem/Jong2004G30) + 0,3333 × (A/B) + 0,3333 × (HKS2003gem/HKS2003G30)) + 0,1839 × ((0,50 × Inw2004gem/Inw2004G30) + 0,25 × ((Link2004gem × Kpreg2004gem)/(Link2004G30 × Kpreg2004G30)+ 0,25 × (Jonggem × Kpreg2004gem)/(JongG30 × Kpreg2004G30)). In deze formule is 
+Het procentuele aandeel van de gemeente in de middelen voor leefbaarheid en veiligheid, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule:0,3366 × ((0,50 × Inw2004gem /Inw2004G30) + 0,50 (Nwal2004gem/Nwal2004G30)) + 0,4795 × ((0,3333 × (Jong2004gem/Jong2004G30) + 0,3333 × (A/B) + 0,3333 × (HKS2003gem/HKS2003G30)) + 0,1839 × ((0,50 × Inw2004gem/Inw2004G30) + 0,25 × ((Link2004gem × Kpreg2004gem)/(Link2004G30 × Kpreg2004G30)+ 0,25 × (Jonggem × Kpreg2004gem)/(JongG30 × Kpreg2004G30)).In deze formule is
 
-Inw2004gem: aantal inwoners van de gemeente op 1 januari 2004;  
+Inw2004gem: aantal inwoners van de gemeente op 1 januari 2004;
 
-Inw2004G30: aantal inwoners van de G30 op 1 januari 2004;  
+Inw2004G30: aantal inwoners van de G30 op 1 januari 2004;
 
-Nwal2004gem: aantal niet westerse allochtonen op 1 januari 2004 in de gemeente;  
+Nwal2004gem: aantal niet westerse allochtonen op 1 januari 2004 in de gemeente;
 
-Nwal2004G30: aantal niet westerse allochtonen op 1 januari 2004 in de G30;  
+Nwal2004G30: aantal niet westerse allochtonen op 1 januari 2004 in de G30;
 
-Jong2004gem: het aantal inwoners van de gemeente dat 24 jaar of jonger is op 1 januari 2004 in de gemeente;  
+Jong2004gem: het aantal inwoners van de gemeente dat 24 jaar of jonger is op 1 januari 2004 in de gemeente;
 
-Jong2004G30: het aantal inwoners van de G30 dat 24 jaar of jonger is op 1 januari 2004;  
+Jong2004G30: het aantal inwoners van de G30 dat 24 jaar of jonger is op 1 januari 2004;
 
-A: (Nwal2004gem/Inw2004gem) × Jong2004gem;  
+A: (Nwal2004gem/Inw2004gem) × Jong2004gem;
 
-B: (Nwal2004G30/Inw2003G30) × Jong2004G30;  
+B: (Nwal2004G30/Inw2003G30) × Jong2004G30;
 
-HKS2003gem: aantal inwoners van de gemeente van twaalf tot en met vierentwintig jaar dat in 2003 voorkomt in het herkenningssysteem van de politie  
+HKS2003gem: aantal inwoners van de gemeente van twaalf tot en met vierentwintig jaar dat in 2003 voorkomt in het herkenningssysteem van de politie
 
-HKS2003G30: aantal inwoners van de G30 van twaalf tot en met vierentwintig jaar dat in 2003 voorkomt in het herkenningssysteem van de politie;  
+HKS2003G30: aantal inwoners van de G30 van twaalf tot en met vierentwintig jaar dat in 2003 voorkomt in het herkenningssysteem van de politie;
 
-Link2004gem: het aantal huishoudens in de gemeente volgens de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), volgens de meest recente vóór 2004 vastgestelde inkomensstatistiek van het CBS;  
+Link2004gem: het aantal huishoudens in de gemeente volgens de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), volgens de meest recente vóór 2004 vastgestelde inkomensstatistiek van het CBS;
 
-Link2004G30: het aantal huishoudens in de G30 volgens de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), volgens de meest recente vóór 2004 vastgestelde inkomensstatistiek van het CBS;  
+Link2004G30: het aantal huishoudens in de G30 volgens de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), volgens de meest recente vóór 2004 vastgestelde inkomensstatistiek van het CBS;
 
-Kpreg2004gem: het aantal potentiële regionale klanten van de woonkernen in de gemeente als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004;  
+Kpreg2004gem: het aantal potentiële regionale klanten van de woonkernen in de gemeente als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004;
 
-Kpreg2004G30: het aantal potentiële regionale klanten van de woonkernen in de G30 als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004;  
+Kpreg2004G30: het aantal potentiële regionale klanten van de woonkernen in de G30 als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004;
 
-Jonggem: het aantal inwoners van de gemeente op 1 januari 2004 dat 19 jaar of jonger is;  
+Jonggem: het aantal inwoners van de gemeente op 1 januari 2004 dat 19 jaar of jonger is;
 
-JongG30: het aantal inwoners van de G30 op 1 januari 2004 dat 19 jaar of jonger is.    
+JongG30: het aantal inwoners van de G30 op 1 januari 2004 dat 19 jaar of jonger is.
 
-### Artikel  3  
+###Artikel 3 
 
-Het procentuele aandeel van de gemeente in de middelen voor het terugdringen van voortijdig schoolverlaten, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule 0,3333 × (NWAl2004gem/NWAl2004G30) + 0,3333 × (ABW2003gem/ABW2003G30) + 0,3333 × (Loplgem/LoplG30). In deze formule is 
+Het procentuele aandeel van de gemeente in de middelen voor het terugdringen van voortijdig schoolverlaten, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule0,3333 × (NWAl2004gem/NWAl2004G30) + 0,3333 × (ABW2003gem/ABW2003G30) + 0,3333 × (Loplgem/LoplG30).In deze formule is
 
-NWAl2004gem: aantal niet westerse allochtonen in de gemeente op 1 januari 2004;  
+NWAl2004gem: aantal niet westerse allochtonen in de gemeente op 1 januari 2004;
 
-NWAl2004G30: aantal niet westerse allochtonen in de G30 op 1 januari 2004;  
+NWAl2004G30: aantal niet westerse allochtonen in de G30 op 1 januari 2004;
 
-ABW2003gem: totaal aantal uitkeringen ingevolge de [Algemene bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md) in 2003 in de gemeente;  
+ABW2003gem: totaal aantal uitkeringen ingevolge de [Algemene bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md) in 2003 in de gemeente;
 
-ABW2003G30: totaal aantal uitkeringen ingevolge de [Algemene bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md) in 2003 in de G30;  
+ABW2003G30: totaal aantal uitkeringen ingevolge de [Algemene bijstandswet](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md) in 2003 in de G30;
 
-Loplgem: gemiddeld aantal inwoners in de gemeente van 18 jaar tot en met 64 jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs;  
+Loplgem: gemiddeld aantal inwoners in de gemeente van 18 jaar tot en met 64 jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs;
 
-LoplG30: gemiddeld aantal inwoners in de G30 van 18 jaar tot en met 64 jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs.    
+LoplG30: gemiddeld aantal inwoners in de G30 van 18 jaar tot en met 64 jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs.
 
-### Artikel  4  
+###Artikel 4 
 
-Het procentuele aandeel van de gemeente in de middelen voor de bestrijding van gezondheidsachterstanden wordt bepaald volgens de formule Schgw2003gem/Schgw2003G30. In deze formule is 
+Het procentuele aandeel van de gemeente in de middelen voor de bestrijding van gezondheidsachterstanden wordt bepaald volgens de formuleSchgw2003gem/Schgw2003G30.In deze formule is
 
-Schgw2003gem: het aantal van de schoolgewichten op 1 oktober 2003 in de gemeente op basis van [artikel 15b van het Formatiebesluit WPO](../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md), zoals dat luidde op die datum;  
+Schgw2003gem: het aantal van de schoolgewichten op 1 oktober 2003 in de gemeente op basis van [artikel 15b van het Formatiebesluit WPO](../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md), zoals dat luidde op die datum;
 
-Schgw2003G30: het aantal van de schoolgewichten op 1 oktober 2003 in de G30-gemeenten op basis van [artikel 15b van het Formatiebesluit WPO](../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md), zoals dat luidde op die datum.    
+Schgw2003G30: het aantal van de schoolgewichten op 1 oktober 2003 in de G30-gemeenten op basis van [artikel 15b van het Formatiebesluit WPO](../../../../../../../../../AMvB/formatiebesluit/wpo/BWBR0005441/README.md), zoals dat luidde op die datum.
 
-### Artikel  5  
+###Artikel 5 
 
-Het procentuele aandeel van de gemeente die behoort tot de maatschappelijke centrumgemeenten in de middelen voor maatschappelijke opvang en verslavingsbeleid, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule   ![166983](http://wetten.overheid.nl/Illustration/166983)
-In deze formule is 
+Het procentuele aandeel van de gemeente die behoort tot de maatschappelijke centrumgemeenten in de middelen voor maatschappelijke opvang en verslavingsbeleid, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule![166983](http://wetten.overheid.nl/Illustration/166983)
+In deze formule is
 
-Inw <sub>t-1</sub> gem: het aantal inwoners van het maatschappelijk zorggebied van de gemeente op 1 januari van het voorafgaande kalenderjaar;  
+Inw<sub>t-1</sub>gem: het aantal inwoners van het maatschappelijk zorggebied van de gemeente op 1 januari van het voorafgaande kalenderjaar;
 
-Inw <sub>t-1</sub> cgmo: het aantal inwoners van de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten op 1 januari van het voorafgaande kalenderjaar;  
+Inw<sub>t-1</sub>cgmo: het aantal inwoners van de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten op 1 januari van het voorafgaande kalenderjaar;
 
-Link <sub>t-1</sub> gem: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in het maatschappelijke zorggebied van de gemeente, volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;  
+Link<sub>t-1</sub>gem: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in het maatschappelijke zorggebied van de gemeente, volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;
 
-Link <sub>t-1</sub> cgmo: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;  
+Link<sub>t-1</sub>cgmo: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;
 
-Kpreg <sub>t-1</sub> gem: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in het maatschappelijke zorggebied van de gemeente;  
+Kpreg<sub>t-1</sub>gem: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in het maatschappelijke zorggebied van de gemeente;
 
-Kpreg <sub>t-1</sub> cgmo: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten;  
+Kpreg<sub>t-1</sub>cgmo: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten;
 
-U <sub>t-2</sub> gem: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in het maatschappelijke zorggebied van de gemeente, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in dat gebied, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;  
+U<sub>t-2</sub>gem: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in het maatschappelijke zorggebied van de gemeente, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in dat gebied, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;
 
-U <sub>t-2</sub> cgmo: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in die gebieden, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;  
+U<sub>t-2</sub>cgmo: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in die gebieden, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;
 
-Midmo <sub>t</sub> cgmo: het deel van de middelen voor maatschappelijke opvang en verslavingsbeleid dat aan het kalenderjaar is toe te rekenen;  
+Midmo<sub>t</sub>cgmo: het deel van de middelen voor maatschappelijke opvang en verslavingsbeleid dat aan het kalenderjaar is toe te rekenen;
 
-Basismo <sub>t</sub> cgmo: het deel van de basisbedragen voor maatschappelijke opvang en verslavingsbeleid van de maatschappelijke centrumgemeenten dat aan het kalenderjaar is toe te rekenen;  
+Basismo<sub>t</sub>cgmo: het deel van de basisbedragen voor maatschappelijke opvang en verslavingsbeleid van de maatschappelijke centrumgemeenten dat aan het kalenderjaar is toe te rekenen;
 
-Basismo <sub>t</sub> gem: het deel van het basisbedrag voor maatschappelijke opvang en verslavingsbeleid van de gemeente dat aan het kalenderjaar is toe te rekenen;  
+Basismo<sub>t</sub>gem: het deel van het basisbedrag voor maatschappelijke opvang en verslavingsbeleid van de gemeente dat aan het kalenderjaar is toe te rekenen;
 
-Midmo: de middelen voor maatschappelijke opvang en verslavingsbeleid in de GSB III periode.    
+Midmo: de middelen voor maatschappelijke opvang en verslavingsbeleid in de GSB III periode.
 
-### Artikel  6  
+###Artikel 6 
 
-Het procentuele aandeel van de gemeente die behoort tot de centrumgemeenten voor vrouwenopvang in de middelen voor vrouwenopvang, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule   ![166984](http://wetten.overheid.nl/Illustration/166984)
-In deze formule is 
+Het procentuele aandeel van de gemeente die behoort tot de centrumgemeenten voor vrouwenopvang in de middelen voor vrouwenopvang, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule![166984](http://wetten.overheid.nl/Illustration/166984)
+In deze formule is
 
-Inw <sub>t-1</sub> gem: het aantal inwoners van het zorggebied voor vrouwenopvang van de gemeente op 1 januari van het voorafgaande kalenderjaar;  
+Inw<sub>t-1</sub>gem: het aantal inwoners van het zorggebied voor vrouwenopvang van de gemeente op 1 januari van het voorafgaande kalenderjaar;
 
-Inw <sub>t-1</sub> cgvo: het aantal inwoners van de zorggebieden van de centrumgemeenten voor vrouwenopvang op 1 januari van het voorafgaande kalenderjaar;  
+Inw<sub>t-1</sub>cgvo: het aantal inwoners van de zorggebieden van de centrumgemeenten voor vrouwenopvang op 1 januari van het voorafgaande kalenderjaar;
 
-Min <sub>t-1</sub> gem: het totaal van het aantal inwoners van de gemeente in het zorggebied voor vrouwenopvang op 1 januari van het voorafgaande kalenderjaar, volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+Min<sub>t-1</sub>gem: het totaal van het aantal inwoners van de gemeente in het zorggebied voor vrouwenopvang op 1 januari van het voorafgaande kalenderjaar, volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);
 
-Min <sub>t-1</sub> cgvo: Het totaal van het aantal inwoners in de zorggebieden voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang op 1 januari van het voorafgaande kalenderjaar, volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+Min<sub>t-1</sub>cgvo: Het totaal van het aantal inwoners in de zorggebieden voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang op 1 januari van het voorafgaande kalenderjaar, volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);
 
-Midvo <sub>t</sub>: het deel van de middelen voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;  
+Midvo<sub>t</sub>: het deel van de middelen voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;
 
-Basisvo <sub>t</sub> cgvo: het deel van de basisbedragen voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;  
+Basisvo<sub>t</sub>cgvo: het deel van de basisbedragen voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;
 
-Basisvo <sub>t</sub> gem: het deel van het basisbedrag voor vrouwenopvang van de gemeente dat aan het kalenderjaar is toe rekenen;  
+Basisvo<sub>t</sub>gem: het deel van het basisbedrag voor vrouwenopvang van de gemeente dat aan het kalenderjaar is toe rekenen;
 
-Midvo: de middelen voor vrouwenopvang in de GSB III periode.    
+Midvo: de middelen voor vrouwenopvang in de GSB III periode.
 
 ### Artikel  7  
 
@@ -225,7 +225,7 @@ Midinbnk: de middelen voor de inburgering van nieuwkomers in 2005.
 
 – Midbesch: het bedrag dat voor de G30 voor maatstaf beschikkingen beschikbaar is;  
 
-– Midinbnk: de middelen voor de inburgering van nieuwkomers in het jaar 2006.     
+– Midinbnk: de middelen voor de inburgering van nieuwkomers in het jaar 2006.    
 
 ### Artikel  8  
 
@@ -238,51 +238,51 @@ H: het aantal oudkomers in de G30 dat in 2005 en 2006 start met een inburgerings
 I: het aantal oudkomers in de gemeente dat in 2005 met een inburgeringsprogramma voor oudkomers start en dat programma uiterlijk 31 december 2006 afrondt, alsmede het aantal oudkomers in de gemeente dat in 2006 met een inburgeringsprogramma voor oudkomers start en dat programma uiterlijk 31 december 2007 afrondt;  
 
 J: het aantal oudkomers in de G30 dat in 2005 met een inburgeringsprogramma voor oudkomers start en dat programma uiterlijk 31 december 2006 afrondt, alsmede het aantal oudkomers in de G30 dat in 2006 met een inburgeringsprogramma voor oudkomers start en dat programma uiterlijk 31 december 2007 afrondt.     
-2.  Bij de toepassing van de formule, genoemd in het eerste lid, bedraagt bij elk van de onderdelen van de formule het aantal in aanmerking te nemen oudkomers ten hoogste het aantal oudkomers dat bij de verlening van voorschotten is betrokken.   
+2.  Bij de toepassing van de formule, genoemd in het eerste lid, bedraagt bij elk van de onderdelen van de formule het aantal in aanmerking te nemen oudkomers ten hoogste het aantal oudkomers dat bij de verlening van voorschotten is betrokken.  
 
-### Artikel  9  
+###Artikel 9 
 
-Het procentuele aandeel van de gemeente in de extra middelen voor veiligheid, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule 0,1950 × (Inw2004gem/Inw2004G30) + 0,2090 × (Min2004gem/Min2004G30) + 0,12 × (Jonggem/JongG30) + 0,12 × (K/L) + 0,12 × (HKS2003gem/HKS2003G30) + 0,083 × (ABWontgem/ABWontG30) + 0,083 × (Loplgem/LoplG30) + 0,035 × ((Li2004gem × Kpreg2004gem)/(Li2004G30 × Kpreg2004G30)) + 0, 035 × ((Jonggem × Kpreg2004gem)/(JongG30 × Kpreg2004G30)). In deze formule is 
+Het procentuele aandeel van de gemeente in de extra middelen voor veiligheid, bedoeld in [artikel 4, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bepaald volgens de formule0,1950 × (Inw2004gem/Inw2004G30) + 0,2090 × (Min2004gem/Min2004G30) + 0,12 × (Jonggem/JongG30) + 0,12 × (K/L) + 0,12 × (HKS2003gem/HKS2003G30) + 0,083 × (ABWontgem/ABWontG30) + 0,083 × (Loplgem/LoplG30) + 0,035 × ((Li2004gem × Kpreg2004gem)/(Li2004G30 × Kpreg2004G30)) + 0, 035 × ((Jonggem × Kpreg2004gem)/(JongG30 × Kpreg2004G30)).In deze formule is
 
-Inw2004gem: aantal inwoners van de gemeente op 1 januari 2004;  
+Inw2004gem: aantal inwoners van de gemeente op 1 januari 2004;
 
-Inw2004G30: aantal inwoners van de G30 op 1 januari 2004;  
+Inw2004G30: aantal inwoners van de G30 op 1 januari 2004;
 
-Min2004gem: Het totaal van het aantal inwoners op 1 januari 2004 in de gemeente volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+Min2004gem: Het totaal van het aantal inwoners op 1 januari 2004 in de gemeente volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);
 
-Min2004G30: Het totaal van het aantal inwoners in de G30 op 1 januari 2004, volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+Min2004G30: Het totaal van het aantal inwoners in de G30 op 1 januari 2004, volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);
 
-Jonggem: het aantal inwoners van de gemeente dat negentien jaar of jonger is op 1 januari 2004;  
+Jonggem: het aantal inwoners van de gemeente dat negentien jaar of jonger is op 1 januari 2004;
 
-JongG30: het aantal inwoners van de G30 dat negentien jaar of jonger is op 1 januari 2004 op 1 januari 2004;  
+JongG30: het aantal inwoners van de G30 dat negentien jaar of jonger is op 1 januari 2004 op 1 januari 2004;
 
-K: (Min2004gem/Inw2004gem) × Jonggem;  
+K: (Min2004gem/Inw2004gem) × Jonggem;
 
-L: (Min2004G30/Inw2004G30) × JongG30;  
+L: (Min2004G30/Inw2004G30) × JongG30;
 
-HKS2003gem: aantal jongeren van twaalf tot en met vierentwintig jaar in de gemeente dat in 2003 voorkomt in het herkenningssysteem van de politie;  
+HKS2003gem: aantal jongeren van twaalf tot en met vierentwintig jaar in de gemeente dat in 2003 voorkomt in het herkenningssysteem van de politie;
 
-HKS2003G30: aantal jongeren van twaalf tot en met vierentwintig jaar in de G30 dat in 2003 voorkomt in het herkenningssysteem van de politie;  
+HKS2003G30: aantal jongeren van twaalf tot en met vierentwintig jaar in de G30 dat in 2003 voorkomt in het herkenningssysteem van de politie;
 
-ABWontgem: aantal personen in de gemeente op 31 december 2003 op basis van de Bijstandmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+ABWontgem: aantal personen in de gemeente op 31 december 2003 op basis van de Bijstandmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);
 
-ABWontG30: aantal personen in de G30 op 31 december 2003 op basis van de Bijstandmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+ABWontG30: aantal personen in de G30 op 31 december 2003 op basis van de Bijstandmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);
 
-Loplgem: gemiddeld aantal inwoners in de gemeente van vijftien jaar tot en met vierenzestig jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs;  
+Loplgem: gemiddeld aantal inwoners in de gemeente van vijftien jaar tot en met vierenzestig jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs;
 
-LoplG30: gemiddeld aantal inwoners in de G30 van vijftien jaar tot en met vierenzestig jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs;  
+LoplG30: gemiddeld aantal inwoners in de G30 van vijftien jaar tot en met vierenzestig jaar over de jaren 1997–2002 met ten hoogste een diploma op het niveau van het Voorbereidend Beroepsonderwijs;
 
-Kpreg2004gem: het aantal potentiële regionale klanten van de woonkernen in de gemeente als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004;  
+Kpreg2004gem: het aantal potentiële regionale klanten van de woonkernen in de gemeente als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004;
 
-Kpreg2004G30: het aantal potentiële regionale klanten van de woonkernen in de G30 als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004.    
+Kpreg2004G30: het aantal potentiële regionale klanten van de woonkernen in de G30 als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari 2004.
 
-### Afdeling  2  
+###Afdeling 2 
 
 ####Aandeel in de middelen voor inburgering
 
 ### Artikel  9a  
 
-1.  Het aandeel van de gemeente in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel Q, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2007, 2008 en 2009 wordt bepaald volgens de formule { ( [ A × B ] + [ C × D ] + [ E × F ] + [ G × H ] + [ I × J ] + [ K × L ] + [ M × N ] + [ O × P ] + [ Q × R ] + [ S x T ] ) × U } + V + W. In deze formule is A: het aantal inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een inburgeringsvoorziening heeft vastgesteld; B: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening, bedoeld in letter A; C: het aantal inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld; D: de bijdragevergoeding ten aanzien van de vaststelling van de gecombineerde inburgeringsvoorziening, bedoeld in letter C; E: het aantal inburgeringsplichtigen aan wie het college van burgemeester en wethouders een handhavingsbeschikking bekend heeft gemaakt, dan wel een kennisgeving heeft verstrekt; F: de bijdragevergoeding ten aanzien van de bekendmaking van een handhavingsbeschikking en de verstrekking van een kennisgeving; G: het aantal geestelijke bedienaren ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een inburgeringsvoorziening heeft vastgesteld; H: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening voor geestelijke bedienaren; I: het aantal in de letter A bedoelde inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders een inburgeringsvoorziening heeft vastgesteld en dat heeft deelgenomen aan het inburgeringsexamen of het staatsexamen; J: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen of het staatsexamen, bedoeld in letter I; K: het aantal in de letter C bedoelde inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders een gecombineerde inburgeringsvoorziening heeft vastgesteld en dat heeft deelgenomen aan het inburgeringsexamen of het staatsexamen; L: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen of het staatsexamen, bedoeld in letter K; M: het aantal geestelijke bedienaren dat heeft deelgenomen aan het inburgeringsexamen of het staatsexamen; N: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen of het staatsexamen, bedoeld in letter M; O: het aantal geestelijke bedienaren dat heeft deelgenomen aan het aanvullende praktijkdeel van het inburgeringsexamen of het staatsexamen, bedoeld in [artikel 3.8 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dit luidde op 31 december 2012; P: de bijdragevergoeding ten aanzien van de deelname aan het aanvullende praktijkdeel van het inburgeringsexamen of het staatsexamen, bedoeld in [artikel 3.8 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dit luidde op 31 december 2012; Q: het aantal door het college van burgemeester en wethouders in 2007 op grond van de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), zoals die luidde op 31 december 2006, genomen beschikkingen omtrent een inburgeringsprogramma; R: de bijdragevergoeding ten aanzien van een beschikking omtrent een inburgeringsprogramma als bedoeld in letter Q; S: het aantal door het college van burgemeester en wethouders in 2007 en 2008 ontvangen afschriften van door het bevoegd gezag van een instelling ingevolge de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), zoals die luidde op 31 december 2006, uitgereikte verklaringen als bedoeld in [artikel 7.4.15, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), zoals dat artikel luidde op 31 december 2006, die betrekking hebben op in 2006 en 2007 aangevangen inburgeringsprogramma’s; T: de bijdragevergoeding ten aanzien van een verklaring als bedoeld in letter S; U: de door de Minister vast te stellen correctiefactor; V: het bedrag, bedoeld in [artikel 9, vierde lid, onderdeel a, onder 2° van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md); W: het bedrag, bedoeld in [artikel 7, eerste lid, onderdeel o, onder 4°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md).   
+1. Het aandeel van de gemeente in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel Q, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2007, 2008 en 2009 wordt bepaald volgens de formule { ( [ A × B ] + [ C × D ] + [ E × F ] + [ G × H ] + [ I × J ] + [ K × L ] + [ M × N ] + [ O × P ] + [ Q × R ] + [ S x T ] ) × U } + V + W. In deze formule is A: het aantal inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een inburgeringsvoorziening heeft vastgesteld; B: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening, bedoeld in letter A; C: het aantal inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een gecombineerde inburgeringsvoorziening heeft vastgesteld; D: de bijdragevergoeding ten aanzien van de vaststelling van de gecombineerde inburgeringsvoorziening, bedoeld in letter C; E: het aantal inburgeringsplichtigen aan wie het college van burgemeester en wethouders een handhavingsbeschikking bekend heeft gemaakt, dan wel een kennisgeving heeft verstrekt; F: de bijdragevergoeding ten aanzien van de bekendmaking van een handhavingsbeschikking en de verstrekking van een kennisgeving; G: het aantal geestelijke bedienaren ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een inburgeringsvoorziening heeft vastgesteld; H: de bijdragevergoeding ten aanzien van de vaststelling van de inburgeringsvoorziening voor geestelijke bedienaren; I: het aantal in de letter A bedoelde inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders een inburgeringsvoorziening heeft vastgesteld en dat heeft deelgenomen aan het inburgeringsexamen of het staatsexamen; J: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen of het staatsexamen, bedoeld in letter I; K: het aantal in de letter C bedoelde inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders een gecombineerde inburgeringsvoorziening heeft vastgesteld en dat heeft deelgenomen aan het inburgeringsexamen of het staatsexamen; L: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen of het staatsexamen, bedoeld in letter K; M: het aantal geestelijke bedienaren dat heeft deelgenomen aan het inburgeringsexamen of het staatsexamen; N: de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen of het staatsexamen, bedoeld in letter M; O: het aantal geestelijke bedienaren dat heeft deelgenomen aan het aanvullende praktijkdeel van het inburgeringsexamen of het staatsexamen, bedoeld in [artikel 3.8 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dit luidde op 31 december 2012; P: de bijdragevergoeding ten aanzien van de deelname aan het aanvullende praktijkdeel van het inburgeringsexamen of het staatsexamen, bedoeld in [artikel 3.8 van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dit luidde op 31 december 2012; Q: het aantal door het college van burgemeester en wethouders in 2007 op grond van de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), zoals die luidde op 31 december 2006, genomen beschikkingen omtrent een inburgeringsprogramma;R: de bijdragevergoeding ten aanzien van een beschikking omtrent een inburgeringsprogramma als bedoeld in letter Q;S: het aantal door het college van burgemeester en wethouders in 2007 en 2008 ontvangen afschriften van door het bevoegd gezag van een instelling ingevolge de [Wet inburgering nieuwkomers](../../../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md), zoals die luidde op 31 december 2006, uitgereikte verklaringen als bedoeld in [artikel 7.4.15, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), zoals dat artikel luidde op 31 december 2006, die betrekking hebben op in 2006 en 2007 aangevangen inburgeringsprogramma’s; T: de bijdragevergoeding ten aanzien van een verklaring als bedoeld in letter S;U: de door de Minister vast te stellen correctiefactor;V: het bedrag, bedoeld in [artikel 9, vierde lid, onderdeel a, onder 2° van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md); W: het bedrag, bedoeld in [artikel 7, eerste lid, onderdeel o, onder 4°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md).  
 2.  Het aandeel van de gemeente in de middelen voor inburgering, bedoeld in het eerste lid, aanhef, wordt voor de jaren 2008 en 2009 verhoogd met de uitkomst van de formule [X x Y]+ [Z x AA], in welke formule voorstelt: 
 
 a. X: het aantal inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een duale inburgeringsvoorziening heeft vastgesteld;  
@@ -291,8 +291,8 @@ b. Y: de bijdragevergoeding ten aanzien van de vaststelling van de duale inburge
 
 c. Z:het aantal inburgeringsplichtigen en inburgeraars ten behoeve van wie het college van burgemeester en wethouders na 1 september 2008 voor de eerste keer een taalkennisvoorziening heeft vastgesteld, en  
 
-d. AA: de bijdragevergoeding ten aanzien van de vaststelling van de taalkennisvoorziening, bedoeld in letter Z.     
-3.  Het aandeel van de gemeente in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel R, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2008 en 2009 wordt bepaald volgens de formule ( A × B) + ( C × D)+ (E x F)+ (G x H). In deze formule is 
+d. AA: de bijdragevergoeding ten aanzien van de vaststelling van de taalkennisvoorziening, bedoeld in letter Z.  
+3. Het aandeel van de gemeente in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel R, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2008 en 2009 wordt bepaald volgens de formule ( A × B) + ( C × D)+ (E x F)+ (G x H). In deze formule is 
 
 A. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt, ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een inburgeringsvoorziening heeft vastgesteld;  
 
@@ -304,26 +304,26 @@ D. de bijdragevergoeding ten aanzien van de deelname aan het inburgeringsexamen;
 
 E. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt, ten behoeve van wie het college van burgemeester en wethouders voor de eerste keer een duale inburgeringsvoorziening heeft vastgesteld;  
 
-F. de bijdragevergoeding ten aanzien van de vaststelling van de duale inburgeringsvoorziening, bedoeld in letter E;  
+F. de bijdragevergoeding ten aanzien van de vaststelling van de duale inburgeringsvoorziening, bedoeld in letter E; 
 
 G. het aantal inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt, ten behoeve van wie het college van burgemeester en wethouders na 1 september 2008 voor de eerste keer een taalkennisvoorziening heeft vastgesteld, en  
 
-H. de bijdragevergoeding ten aanzien van de vaststelling van de taalkennisvoorziening, bedoeld in letter G.     
-4.  Bij het vaststellen van het programmadeel als bedoeld in [artikel 27, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bij de berekening van het aandeel, bedoeld in het eerste en tweede lid van dit artikel, uitgegaan van de door de gemeente gerealiseerde aantallen, bedoeld in de letters A, C, E, G, I, K, M, O, Q en S van het eerste lid, X en Z van het tweede lid, respectievelijk de letters A, C, E en G van het derde lid.   
+H. de bijdragevergoeding ten aanzien van de vaststelling van de taalkennisvoorziening, bedoeld in letter G.  
+4. Bij het vaststellen van het programmadeel als bedoeld in [artikel 27, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), wordt bij de berekening van het aandeel, bedoeld in het eerste en tweede lid van dit artikel, uitgegaan van de door de gemeente gerealiseerde aantallen, bedoeld in de letters A, C, E, G, I, K, M, O, Q en S van het eerste lid, X en Z van het tweede lid, respectievelijk de letters A, C, E en G van het derde lid. 
 
-### Afdeling  3  
+###Afdeling 3 
 
 ####Uitkering voor Sittard-Geleen
 
-### Artikel  9b  
+### Artikel 9b  
 
 De aan de gemeente Sittard-Geleen te verstrekken uitkering bedraagt: 
 
 a. € 14.818.757,27 voor de periode van 1 januari 2006 tot en met 31 december 2009, ten behoeve van de uitvoering van het ontwikkelingsprogramma, plus  
 
-b. € 870.420,– voor 2006, ten behoeve van de inburgering van nieuwkomers en oudkomers.    
+b. € 870.420,– voor 2006, ten behoeve van de inburgering van nieuwkomers en oudkomers.   
 
-### Afdeling  4  
+###Afdeling 4 
 
 ####Indicatoren voor resultaten
 
@@ -361,9 +361,9 @@ l. het aantal personen van nul tot negentien jaar met overgewicht die via de Jeu
 
 m. een door de gemeenteraad te bepalen doelstelling op het gebied van de bestrijding van gezondheidsachterstanden anders dan bedoeld onder l;  
 
-n.  vervallen;   
+n. vervallen;  
 
-o.  vervallen;   
+o. vervallen;  
 
 p. het procentuele deel van de personen die overlast geven op straat dat in maatschappelijke opvang kan worden geplaatst, die in crisissituaties vierentwintig uur per dag beschikbaar is;  
 
@@ -371,7 +371,7 @@ q. de aanwezigheid van een convenant of van een ander arrangement tussen alle pa
 
 r. de aanwezigheid van een advies- en steunpunt huiselijk geweld voor 1 januari 2009 (incl. aanvullende afspraken extra impuls); onder deze indicator kan het college van burgemeester en wethouders van de betreffende gemeente tevens kiezen voor een uitsplitsing in subindicatoren;  
 
-s.  vervallen;   
+s. vervallen;  
 
 t. het verminderen van criminaliteit in risicogebieden en in de woonomgeving uitgedrukt in een door de gemeenteraad te bepalen indicator;  
 
@@ -389,9 +389,9 @@ z. het door de gemeenteraad te bepalen aantal inburgeringsplichtigen en inburger
 
 aa. het aantal vast te stellen inburgeringsvoorzieningen ten behoeve van inburgeringsplichtigen, bedoeld in het besluit van de Staatssecretaris van Justitie van 12 juni 2007, nr. 2007/11, houdende wijziging van de Vreemdelingencirculaire 2000, aan wie geen persoonsvolgend budget is verstrekt;  
 
-bb. het aantal vast te stellen duale inburgeringsvoorzieningen;  
+bb. het aantal vast te stellen duale inburgeringsvoorzieningen; 
 
-cc. het aantal vast te stellen taalkennisvoorzieningen.    
+cc. het aantal vast te stellen taalkennisvoorzieningen.  
 
 ### Artikel  11  
 
@@ -423,10 +423,10 @@ b. 26,67 percent aan de indicator, bedoeld in artikel 10, onder r;
 
 c. 26,67 percent aan de indicator, bedoeld in artikel 10, onder t, en  
 
-d. 20,00 percent aan de indicator, bedoeld in artikel 10, onder u.     
-6.  De bedragen, bedoeld in de artikelen 12d en 12e, eerste lid, worden toegerekend aan de middelen, genoemd in het eerste tot en met vijfde lid, evenredig naar de omvang van die middelen, en daarbinnen naar rato van de in die leden genoemde percentsgewijze verdeling over de indicatoren.   
+d. 20,00 percent aan de indicator, bedoeld in artikel 10, onder u.    
+6.  De bedragen, bedoeld in de artikelen 12d en 12e, eerste lid, worden toegerekend aan de middelen, genoemd in het eerste tot en met vijfde lid, evenredig naar de omvang van die middelen, en daarbinnen naar rato van de in die leden genoemde percentsgewijze verdeling over de indicatoren.  
 
-### Afdeling  5  
+###Afdeling 5 
 
 ####Overige extra middelen
 
@@ -436,9 +436,9 @@ d. 20,00 percent aan de indicator, bedoeld in artikel 10, onder u.
 2.  Voor 1 augustus 2005 dient het college van burgemeester en wethouders van Heerlen bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. De aanvraag gaat vergezeld van een wijziging van het meerjaren ontwikkelingsprogramma. Daarin worden vastgelegd de in de GSB III periode te bereiken resultaten die bijdragen aan het verminderen van de aan harddrugs gerelateerde overlast, met de daarbij behorende indicatoren.   
 3.  De minister neemt een beschikking tot verlening van de in het eerste lid bedoelde verhoging binnen acht weken na het tijdstip waarop de in het tweede lid bedoelde aanvraag is ontvangen. De verhoging wordt in zijn geheel toegedeeld aan de in het tweede lid bedoelde indicatoren.   
 4.  De minister kan de verhoging op een lager bedrag dan € 1.500.000,– vaststellen indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.   
-5.  De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van Heerlen heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.   
+5.  De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van Heerlen heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.  
 
-### Artikel  12a  
+###Artikel 12a 
 
 1.  De uitkeringen aan de gemeenten Den Haag, Rotterdam en Utrecht en Amsterdam worden ten laste van de middelen die vanuit hoofdstuk VI van de Rijksbegroting ter beschikking worden gesteld voor het voorkomen van een criminele loopbaan van allochtone jongeren, op de volgende wijze verhoogd: 
 
@@ -493,9 +493,9 @@ c. voor Utrecht: 100% aan de indicator, genoemd in het derde lid, onder c.
 
 d. voor Amsterdam: 100% aan de indicator of indicatoren, bedoeld in het derde lid, onder d; in de beschikking tot verlening van een in het eerste lid bedoelde verhoging wordt de percentsgewijze toedeling aan de indicator of indicatoren vastgelegd.     
 5.  De Minister kan de verhoging lager vaststellen dan de bedragen genoemd in het eerste lid, indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.   
-6.  De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.   
+6.  De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.  
 
-### Artikel  12b  
+###Artikel 12b 
 
 1.  De uitkeringen aan gemeenten waar de som van de schoolgewichten 11 of meer bedraagt worden met ingang van 2006 verhoogd ten laste van de middelen die vanuit hoofdstuk VIII van de Rijksbegroting ter beschikking worden gesteld voor de bestrijding van onderwijsachterstanden.   
 2.  Het procentuele aandeel van de betreffende gemeenten wordt voor het jaar 2006 vastgesteld volgens de formule: 5/12 × s × v, en met ingang van 2007 jaarlijks volgens de formule: 7/12 × s × (v-1) + 5/12 × s × v. In die formules is: s: de som van de schoolgewichten volgens de definitie van het schoolgewicht, zoals die luidde op 31 juli 2006 en berekend aan de hand van het totaal aantal leerlingen op 1 oktober 2004 van de hoofdvestigingen en nevenvestigingen van basisscholen voor zover deze zich bevinden op het grondgebied van de betreffende gemeente; (v-1): het vermenigvuldigingsbedrag zoals dat van toepassing was in het voorgaande jaar, en v: het vermenigvuldigingsbedrag van het jaar van vaststelling.   
@@ -523,13 +523,13 @@ a. de samenwerking tussen gemeenten en bevoegde gezagsorganen van scholen in die
 
 b. de wijze waarop gemeenten uitvoering hebben gegeven aan de voorschoolse educatie;  
 
-c. de wijze waarop gemeenten schakelklassen onderwijs hebben ingericht.     
+c. de wijze waarop gemeenten schakelklassen onderwijs hebben ingericht.    
 
 ### Artikel  12ba  
 
 1.  De uitkeringen aan de gemeenten, bedoeld in artikel 12b, eerste lid, worden voor de schooljaren 2007–2008 tot en met 2008–2009 verhoogd ten laste van de middelen die vanuit hoofdstuk VIII van de Rijksbegroting voor 2007, 2008 en 2009 ter beschikking worden gesteld voor een extra impuls op het terrein van voorschoolse educatie, teneinde de in het meerjarenontwikkelingsprogramma vastgelegde resultaten, met inachtneming van de indicator, bedoeld in artikel 10, onderdeel a, eerder dan ultimo 2009 te bereiken.   
 2.  Het procentuele aandeel van de betreffende gemeenten in de middelen, bedoeld in het eerste lid, wordt vastgesteld door de som van de schoolgewichten, volgens de definitie van het schoolgewicht zoals die luidde op 31 juli 2006 en berekend aan de hand van het totaal aantal leerlingen op 1 oktober 2004 van de hoofdvestigingen en nevenvestigingen van basisscholen voor zover deze zich bevinden op het grondgebied van de betreffende gemeente, te vermenigvuldigen met een bedrag van € 176,45.   
-3.  De Minister neemt een beschikking tot verlening van een in het eerste lid bedoelde verhoging binnen acht weken na het tijdstip waarop de in artikel 12b, vijfde lid, bedoelde aanvraag is ontvangen, maar niet later dan 15 oktober 2007. De verhoging wordt in zijn geheel toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel a.   
+3.  De Minister neemt een beschikking tot verlening van een in het eerste lid bedoelde verhoging binnen acht weken na het tijdstip waarop de in artikel 12b, vijfde lid, bedoelde aanvraag is ontvangen, maar niet later dan 15 oktober 2007. De verhoging wordt in zijn geheel toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel a.  
 
 ### Artikel  12bb  
 
@@ -538,7 +538,7 @@ c. de wijze waarop gemeenten schakelklassen onderwijs hebben ingericht.
 
 a. een bedrag van € 251,00;  
 
-b. een bedrag van € 157,00 in 2009, in aanvulling op het bedrag, bedoeld in onderdeel a.     
+b. een bedrag van € 157,00 in 2009, in aanvulling op het bedrag, bedoeld in onderdeel a.    
 3.  Onverminderd het eerste lid, artikel 12b, eerste lid, en artikel 12ba, eerste lid, worden de uitkeringen aan de gemeenten Amsterdam, Rotterdam, Den Haag en Utrecht ten laste van de middelen die vanuit hoofdstuk VIII van de Rijksbegroting voor 2008 en 2009 ter beschikking worden gesteld ten behoeve van een extra impuls voor het realiseren van een dekkend aanbod aan voorschoolse plaatsen voor doelgroepkinderen in de Krachtwijken, op de volgende wijze verhoogd: 
 
 a. voor Amsterdam: met € 1.770.000,– per jaar voor 2008 en 2009;  
@@ -552,9 +552,9 @@ d. voor Utrecht: met € 440.000,– per jaar voor 2008 en 2009.
 5.  Aanvragen die zijn ingediend voor de inwerkingtreding van dit artikel worden aangemerkt als aanvragen als bedoeld in dit artikel. Voor de gemeenten Amsterdam, Rotterdam, Den Haag en Utrecht geldt als aanvraag de ‘Bestuurlijke overeenkomst over voorschoolse educatie in de G4’, die op 17 maart 2008 is getekend door de wethouders Onderwijs van de betreffende gemeenten en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, mevrouw Sharon A.M. Dijksma.   
 6.  De minister neemt een beschikking tot verlening van de in het eerste en derde lid bedoelde verhoging binnen vier weken na de inwerkingtreding van dit artikel. De verhoging, bedoeld in het eerste lid, wordt voor 30 procent toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel a, en voor 70 procent aan de indicator, bedoeld in artikel 10, onderdeel ba. Als bij de indicator, bedoeld in artikel 10, onderdeel ba, gekozen is voor een uitsplitsing in subindicatoren, wordt de 70 procent toegedeeld aan die subindicatoren met gelijke percentages. De verhoging, bedoeld in het derde lid, wordt in zijn geheel toegedeeld aan de betreffende subindicator, bedoeld in artikel 10, onderdeel ba.   
 7.  De minister kan minder dan 100 percent verlenen van het in het tweede lid bedoelde procentuele aandeel, indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.   
-8.  De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.   
+8.   De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.  
 
-### Artikel  12c  
+###Artikel 12c 
 
 1.  Indien het bij koninklijke boodschap van 21 september 2005 ingediende voorstel van Wet houdende regels inzake inburgering in de Nederlandse samenleving (Wet inburgering, Kamerstukken I 2005/06, 30 308, nr. A) nadat het tot wet is verheven, in werking treedt, worden de uitkeringen aan alle gemeenten met ingang van de datum van inwerkingtreding van die Wet verhoogd ten laste van de middelen die vanuit hoofdstuk VIII van de Rijksbegroting ter beschikking worden gesteld voor educatie.   
 2.  Het procentuele aandeel van elke gemeente wordt berekend op basis van de [artikelen 3.2.1. tot en met 3.2.3 van het Uitvoeringsbesluit Web](../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) en wordt aan elke gemeente bekendgemaakt in het verleningsbesluit, bedoeld in het vijfde lid.   
@@ -569,20 +569,20 @@ c. het te bereiken resultaat wordt geformuleerd op een van de indicatoren, bedoe
 5.  De minister neemt een beschikking tot verlening van een in het eerste lid respectievelijk in het negende lid bedoelde verhoging binnen acht weken na het tijdstip waarop de in het tweede lid respectievelijk in het negende lid bedoelde aanvraag is ontvangen. De verhoging wordt in zijn geheel toegerekend aan de gekozen indicator. Als is gekozen voor de indicator, bedoeld in artikel 10, onderdeel g, met daarbij een uitsplitsing in subindicatoren, wordt de verhoging toegerekend aan die subindicatoren op de wijze als aangegeven in de wijziging van het meerjarenontwikkelingsprogramma.   
 6.  De minister kan minder dan 100% verlenen van het in het tweede lid bedoelde procentuele aandeel respectievelijk de in het negende lid bedoelde verhoging, indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.   
 7.  De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.   
-8.  Indien activiteiten als bedoeld in [artikel 2.3.4, derde lid, onder a van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarvoor het college van burgemeester en wethouders van de betreffende gemeente zich heeft verplicht, niet of niet volledig zijn verricht en het college van burgemeester en wethouders uit dien hoofde in 2006 aanspraken heeft jegens de instelling, besteedt het college van burgemeester en wethouders de uit die aanspraken voortvloeiende en terugontvangen middelen die afkomstig zijn uit de rijksbijdrage 2006 in de resterende GSB III periode opnieuw voor volwasseneneducatie, en verantwoordt het college van burgemeester en wethouders die middelen bij de verantwoording van de uitkering.   
-9.  Indien er sprake is van een verhoging van de uitkering met de in het achtste lid bedoelde middelen, kan dit voor de Minister aanleiding zijn het college van burgemeester en wethouders van de betreffende gemeente te verzoeken hiervoor een aanvraag in te dienen, vergezeld van een wijziging van het meerjarenontwikkelingsprogramma, binnen een door hem te bepalen termijn. In deze wijziging van het ontwikkelingsprogramma wordt het te bereiken resultaat opnieuw geformuleerd met inachtneming van de in het derde lid bedoelde aanvraag en met inachtneming van de in het vierde lid, onderdelen a en c, gestelde eisen.   
+8.  Indien activiteiten als bedoeld in [artikel 2.3.4, derde lid, onder a van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarvoor het college van burgemeester en wethouders van de betreffende gemeente zich heeft verplicht, niet of niet volledig zijn verricht en het college van burgemeester en wethouders uit dien hoofde in 2006 aanspraken heeft jegens de instelling, besteedt het college van burgemeester en wethouders de uit die aanspraken voortvloeiende en terugontvangen middelen die afkomstig zijn uit de rijksbijdrage 2006 in de resterende GSB III periode opnieuw voor volwasseneneducatie, en verantwoordt het college van burgemeester en wethouders die middelen bij de verantwoording van de uitkering.  
+9.  Indien er sprake is van een verhoging van de uitkering met de in het achtste lid bedoelde middelen, kan dit voor de Minister aanleiding zijn het college van burgemeester en wethouders van de betreffende gemeente te verzoeken hiervoor een aanvraag in te dienen, vergezeld van een wijziging van het meerjarenontwikkelingsprogramma, binnen een door hem te bepalen termijn. In deze wijziging van het ontwikkelingsprogramma wordt het te bereiken resultaat opnieuw geformuleerd met inachtneming van de in het derde lid bedoelde aanvraag en met inachtneming van de in het vierde lid, onderdelen a en c, gestelde eisen. 
 
-### Artikel  12d  
+###Artikel 12d 
 
-1.  De uitkering aan de gemeenten Almelo, Amsterdam, Arnhem, Den Haag, Dordrecht, Eindhoven, Heerlen, Leeuwarden, Nijmegen, Rotterdam, Schiedam en Utrecht wordt verhoogd met € 2.000.000,– per gemeente ten laste van de middelen die vanuit hoofdstuk VII van de Rijksbegroting voor het jaar 2006 en 2007 ter beschikking worden gesteld, ten behoeve van de impuls ‘Sociale Herovering’. De verhoging is bestemd voor het uitvoeren van wijkgerichte activiteiten die bijdragen aan de doelstellingen, genoemd in [artikel 7, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md).   
-2.  Onverminderd het eerste lid wordt de uitkering aan de gemeente Leeuwarden verhoogd met € 50.000,– ten laste van de middelen die vanuit hoofdstuk XVIII van de Rijksbegroting voor het jaar 2008 ter beschikking worden gesteld voor de organisatie van een landelijke conferentie ‘Sociale Herovering’.   
+1. De uitkering aan de gemeenten Almelo, Amsterdam, Arnhem, Den Haag, Dordrecht, Eindhoven, Heerlen, Leeuwarden, Nijmegen, Rotterdam, Schiedam en Utrecht wordt verhoogd met € 2.000.000,– per gemeente ten laste van de middelen die vanuit hoofdstuk VII van de Rijksbegroting voor het jaar 2006 en 2007 ter beschikking worden gesteld, ten behoeve van de impuls ‘Sociale Herovering’. De verhoging is bestemd voor het uitvoeren van wijkgerichte activiteiten die bijdragen aan de doelstellingen, genoemd in [artikel 7, eerste lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md). 
+2.  Onverminderd het eerste lid wordt de uitkering aan de gemeente Leeuwarden verhoogd met € 50.000,– ten laste van de middelen die vanuit hoofdstuk XVIII van de Rijksbegroting voor het jaar 2008 ter beschikking worden gesteld voor de organisatie van een landelijke conferentie ‘Sociale Herovering’. 
 
-### Artikel  12e  
+### Artikel 12e  
 
-1.  De uitkering kan ten laste van de middelen die vanuit hoofdstuk VII van de Rijksbegroting voor het jaar 2006 ter beschikking worden gesteld ten behoeve van het initiatief ‘Aanval op de Uitval’ van de G27, verhoogd worden ten behoeve van experimentele projecten, gericht op het tegengaan van uitval van jeugd of van kansarmen, of op de uitval van wijken in relatie tot de zorg van bewoners voor hun eigen buurt.   
-2.  Voor 15 november 2006 kunnen de colleges van burgemeester en wethouders bij de bestuurlijke kern van de G27 een aanvraag indienen voor een verhoging als bedoeld in het eerste lid. Aanvragen die voor de inwerkingtreding van deze regeling zijn ingediend worden mede aangemerkt als een aanvraag als bedoeld in dit lid.   
-3.  De bestuurlijke kern van de G27 toetst de aanvragen aan de criteria, genoemd in het eerste en vierde lid en zendt deze, vergezeld van een advies, voor 20 november 2006 door naar de minister. Het advies is vormgegeven volgens het model in bijlage C bij deze regeling.   
-4.  De aanvraag gaat vergezeld van een wijziging van het meerjaren-ontwikkelingsprogramma. Deze wijziging voldoet aan de volgende eisen: 
+1. De uitkering kan ten laste van de middelen die vanuit hoofdstuk VII van de Rijksbegroting voor het jaar 2006 ter beschikking worden gesteld ten behoeve van het initiatief ‘Aanval op de Uitval’ van de G27, verhoogd worden ten behoeve van experimentele projecten, gericht op het tegengaan van uitval van jeugd of van kansarmen, of op de uitval van wijken in relatie tot de zorg van bewoners voor hun eigen buurt.
+2. Voor 15 november 2006 kunnen de colleges van burgemeester en wethouders bij de bestuurlijke kern van de G27 een aanvraag indienen voor een verhoging als bedoeld in het eerste lid. Aanvragen die voor de inwerkingtreding van deze regeling zijn ingediend worden mede aangemerkt als een aanvraag als bedoeld in dit lid.
+3. De bestuurlijke kern van de G27 toetst de aanvragen aan de criteria, genoemd in het eerste en vierde lid en zendt deze, vergezeld van een advies, voor 20 november 2006 door naar de minister. Het advies is vormgegeven volgens het model in bijlage C bij deze regeling.
+4. De aanvraag gaat vergezeld van een wijziging van het meerjaren-ontwikkelingsprogramma. Deze wijziging voldoet aan de volgende eisen:
 
 a. het project: 
 
@@ -592,28 +592,28 @@ a. het project:
 
 3°. is gericht op verbetering van de samenwerking tussen overheden, maatschappelijke instellingen of andere private partijen en    
 
-b. de resultaten van het project zijn in principe bruikbaar voor de andere G27 gemeenten en de aanvrager is bereid deze bekend te maken.     
-5.  Voor de verhoging, bedoeld in het eerste lid, is een bedrag van € 1.400.000,– beschikbaar. Per project wordt een bedrag van € 100.000,– toegekend.   
-6.  De minister neemt uiterlijk 1 december 2006 een beslissing over verlening van de verhogingen bedoeld in het eerste lid.   
-7.  De bestuurlijke kern van de G27 informeert de minister voor BVK uiterlijk 31 december 2007 over de behaalde resultaten van de projecten waarvoor een verhoging als bedoeld in het eerste lid is verleend. Daarbij wordt in ieder geval ingegaan op de volgende vragen: 
+b. de resultaten van het project zijn in principe bruikbaar voor de andere G27 gemeenten en de aanvrager is bereid deze bekend te maken.  
+5. Voor de verhoging, bedoeld in het eerste lid, is een bedrag van € 1.400.000,– beschikbaar. Per project wordt een bedrag van € 100.000,– toegekend.
+6. De minister neemt uiterlijk 1 december 2006 een beslissing over verlening van de verhogingen bedoeld in het eerste lid.
+7. De bestuurlijke kern van de G27 informeert de minister voor BVK uiterlijk 31 december 2007 over de behaalde resultaten van de projecten waarvoor een verhoging als bedoeld in het eerste lid is verleend. Daarbij wordt in ieder geval ingegaan op de volgende vragen: 
 
 a. welke knelpunten zijn in de projecten aangepakt;  
 
 b. welke oplossingsrichtingen zijn voorgesteld en in hoeverre hebben die oplossingsrichtingen bij de uitvoering gewerkt;  
 
-c. is een verdere verspreiding van de voorgestelde oplossingsrichtingen aan te bevelen en zo ja, hoe kan dat het beste gebeuren.     
-8.  Onverminderd het eerste lid wordt de uitkering aan de gemeente Hengelo verhoogd met een bedrag van € 120.000,– ten behoeve van de projectmanagementkosten van het initiatief ‘Aanval op de Uitval’ van de G27.   
+c. is een verdere verspreiding van de voorgestelde oplossingsrichtingen aan te bevelen en zo ja, hoe kan dat het beste gebeuren.  
+8. Onverminderd het eerste lid wordt de uitkering aan de gemeente Hengelo verhoogd met een bedrag van € 120.000,– ten behoeve van de projectmanagementkosten van het initiatief ‘Aanval op de Uitval’ van de G27.
 
 ### Artikel  12ea  
 
 1.  De uitkering aan de gemeente Leeuwarden kan worden verhoogd met € 300.000,– ten laste van de middelen die vanuit hoofdstuk XVIII van de Rijksbegroting voor de jaren 2008 en 2009 ter beschikking worden gesteld ten behoeve van de uitvoering door het Nicis Institute van het tweejarige programma ‘Aanval op de Uitval II’ van de G27, ten behoeve van activiteiten in de G31, gericht op het opleiden en coachen van gemeenten in de complexiteit van de stedelijke regie.   
 2.  Binnen vier weken na inwerkingtreding van deze regeling dient het college van burgemeester en wethouders van de gemeente Leeuwarden, namens het dagelijks bestuur van de G27, bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. Een aanvraag die is ingediend voor de inwerkingtreding van dit artikel worden aangemerkt als aanvraag als bedoeld in dit artikel.   
 3.  De minister neemt een beschikking over verlening van de verhoging, bedoeld in het eerste lid, binnen vier weken na de inwerkingtreding van dit artikel.   
-4.  Aan de verlening van de verhoging, bedoeld in het eerste lid, kunnen door de minister voorwaarden worden verbonden.   
+4.  Aan de verlening van de verhoging, bedoeld in het eerste lid, kunnen door de minister voorwaarden worden verbonden.  
 
-### Artikel  12f  
+### Artikel 12f  
 
-1.  De uitkeringen aan de gemeenten Amsterdam, Rotterdam, Den Haag, Utrecht, Eindhoven, Tilburg, Arnhem, Enschede, Zaanstad, Dordrecht en Nijmegen kunnen ten laste van de middelen die vanuit hoofdstuk XVI van de Rijksbegroting ter beschikking worden gesteld voor het vergroten van de sportdeelname onder allochtone jeugd op de volgende wijze worden verhoogd: 
+1. De uitkeringen aan de gemeenten Amsterdam, Rotterdam, Den Haag, Utrecht, Eindhoven, Tilburg, Arnhem, Enschede, Zaanstad, Dordrecht en Nijmegen kunnen ten laste van de middelen die vanuit hoofdstuk XVI van de Rijksbegroting ter beschikking worden gesteld voor het vergroten van de sportdeelname onder allochtone jeugd op de volgende wijze worden verhoogd: 
 
 a. voor Amsterdam met ten hoogste € 3.571.598,–;  
 
@@ -635,18 +635,18 @@ i. voor Zaanstad met ten hoogste € 295.324,–;
 
 j. voor Dordrecht met ten hoogste € 276.186,–, en  
 
-k. voor Nijmegen met ten hoogste € 267.895,–.     
-2.  Binnen vier weken na inwerkingtreding van deze regeling dienen de colleges van burgemeester en wethouders van de in het eerste lid genoemde gemeenten bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. De aanvraag gaat vergezeld van een wijziging van het meerjaren-ontwikkelingsprogramma. Daarin wordt vastgelegd de in de GSB III periode te bereiken resultaten die bijdragen aan het vergroten van de sportdeelname onder allochtone jeugd. Aanvragen die zijn ingediend voor de inwerkingtreding van dit artikel worden aangemerkt als aanvragen als bedoeld in dit artikel.   
-3.  In de wijziging van het meerjarenprogramma worden de te bereiken resultaten geformuleerd met inachtneming van een of meer door de gemeente te bepalen indicatoren op het gebied van het vergroten van de sportdeelname onder allochtone jeugd.   
-4.  De minister neemt een beschikking over verlening van een in het eerste lid bedoelde verhoging binnen acht weken na de inwerkingtreding van dit artikel. De in het derde lid bedoelde indicator of indicatoren, met bijbehorende overeengekomen resultaten, worden voor elk van de elf in het eerste lid genoemde gemeenten afzonderlijk in de beschikking tot verlening van de verhoging van de uitkering vastgelegd. De verhoging wordt voor 100% aan de indicator of indicatoren toegedeeld met gelijke percentages.   
-5.  De Minister kan de verhoging lager vaststellen dan de bedragen genoemd in het eerste lid, indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.   
-6.  De minister geeft niet eerder toepassing aan het vijfde lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.   
+k. voor Nijmegen met ten hoogste € 267.895,–.  
+2. Binnen vier weken na inwerkingtreding van deze regeling dienen de colleges van burgemeester en wethouders van de in het eerste lid genoemde gemeenten bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. De aanvraag gaat vergezeld van een wijziging van het meerjaren-ontwikkelingsprogramma. Daarin wordt vastgelegd de in de GSB III periode te bereiken resultaten die bijdragen aan het vergroten van de sportdeelname onder allochtone jeugd. Aanvragen die zijn ingediend voor de inwerkingtreding van dit artikel worden aangemerkt als aanvragen als bedoeld in dit artikel.
+3. In de wijziging van het meerjarenprogramma worden de te bereiken resultaten geformuleerd met inachtneming van een of meer door de gemeente te bepalen indicatoren op het gebied van het vergroten van de sportdeelname onder allochtone jeugd.
+4. De minister neemt een beschikking over verlening van een in het eerste lid bedoelde verhoging binnen acht weken na de inwerkingtreding van dit artikel. De in het derde lid bedoelde indicator of indicatoren, met bijbehorende overeengekomen resultaten, worden voor elk van de elf in het eerste lid genoemde gemeenten afzonderlijk in de beschikking tot verlening van de verhoging van de uitkering vastgelegd. De verhoging wordt voor 100% aan de indicator of indicatoren toegedeeld met gelijke percentages.
+5. De Minister kan de verhoging lager vaststellen dan de bedragen genoemd in het eerste lid, indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.
+6. De minister geeft niet eerder toepassing aan het vijfde lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.
 
 ### Artikel  12g  
 
 1.  De uitkeringen aan de centrumgemeenten voor vrouwenopvang, worden verhoogd ten laste van de middelen die vanuit hoofdstuk XVI van de Rijksbegroting voor 2008 en 2009 ter beschikking worden gesteld ten behoeve van de aanwezigheid van een advies- en steunpunt huiselijk geweld.   
 2.  Het procentuele aandeel van de betreffende centrumgemeenten wordt voor het jaar 2008 en voor het jaar 2009 vastgesteld volgens de Tijdelijke stimuleringsregeling advies- en steunpunten huiselijk geweld.   
-3.  De Minister neemt begin 2008 een beschikking tot verlening van de in het eerste lid bedoelde verhoging, met inachtneming van de in het meerjarenontwikkelingsprogramma vastgelegde te bereiken resultaten, bedoeld in [artikel 5, tweede lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md). De verhoging wordt in zijn geheel toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel r.   
+3.  De Minister neemt begin 2008 een beschikking tot verlening van de in het eerste lid bedoelde verhoging, met inachtneming van de in het meerjarenontwikkelingsprogramma vastgelegde te bereiken resultaten, bedoeld in [artikel 5, tweede lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md). De verhoging wordt in zijn geheel toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel r.  
 
 ### Artikel  12ga  
 
@@ -655,7 +655,7 @@ k. voor Nijmegen met ten hoogste € 267.895,–.
 3.  Binnen vier weken na inwerkingtreding van deze regeling dienen de colleges van burgemeester en wethouders van de betreffende gemeenten bij de minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. De aanvraag gaat vergezeld van een wijziging van het ontwikkelingsprogramma. In deze wijziging van het ontwikkelingsprogramma worden de te bereiken resultaten opnieuw geformuleerd met inachtneming van de in het ontwikkelingsprogramma eerder vastgelegde te bereiken resultaten, bedoeld in [artikel 5, tweede lid, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), en met inachtneming van de indicatoren, bedoeld in artikel 10, onderdelen i, k en r. Aanvragen die zijn ingediend voor de inwerkingtreding van dit artikel worden aangemerkt als aanvragen als bedoeld in dit artikel.   
 4.  De minister neemt een beschikking tot verlening van de in het eerste lid bedoelde verhoging binnen vier weken na de inwerkingtreding van dit artikel. De verhoging, bedoeld in het eerste lid, wordt voor 15 procent toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel i, voor 15 procent aan de indicator, bedoeld in artikel 10, onderdeel k, en voor 70 procent aan indicator, bedoeld in artikel 10, onderdeel r. Als bij de indicatoren, bedoeld in artikel 10, onderdelen k en r, gekozen is voor een uitsplitsing in subindicatoren, wordt de 15 en 70 procent toegedeeld aan die subindicatoren met gelijke percentages.   
 5.  De minister kan minder dan 100 percent verlenen van het in het tweede lid bedoelde procentuele aandeel, indien de in het ontwikkelingsprogramma opgenomen resultaten naar zijn oordeel daartoe aanleiding geven.   
-6.  De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.   
+6.   De minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van de wijziging van het ontwikkelingsprogramma in te zenden.  
 
 ### Artikel  12h  
 
@@ -674,15 +674,15 @@ k. voor Nijmegen met ten hoogste € 267.895,–.
 3.  Uiterlijk 1 april 2008 dienen de colleges van burgemeester en wethouders van de betreffende gemeenten bij de Minister een aanvraag in tot de verhoging, bedoeld in het eerste lid. De aanvraag gaat vergezeld van een wijziging van het meerjarenontwikkelingsprogramma, waarin als te bereiken resultaat is vastgelegd dat er een Plan van aanpak maatschappelijke opvang is opgesteld. Als bijlage bij de aanvraag dient tevens dit Plan van aanpak zelf te zijn bijgevoegd. Een Plan van aanpak maatschappelijke opvang dat door het college van burgemeester en wethouders van een maatschappelijke centrumgemeente is ingediend voor de inwerkingtreding van dit artikel, wordt aangemerkt als een aanvraag als bedoeld in dit artikel.   
 4.  De Minister neemt een beschikking tot verlening van een in het eerste lid bedoelde verhoging binnen acht weken na het tijdstip waarop de in het derde lid bedoelde aanvraag is ontvangen. Indien het Plan van aanpak maatschappelijke opvang van een maatschappelijke centrumgemeente reeds voor de inwerkingtreding van deze regeling is ingediend, neemt de Minister een beschikking tot verlening van de in het eerste lid bedoelde verhoging binnen acht weken na het tijdstip van de inwerkingtreding van deze regeling. De verhoging wordt in zijn geheel toegedeeld aan het in het derde lid bedoelde Plan van aanpak als indicator.   
 5.  De Minister kan minder dan 100 percent verlenen van het in het tweede lid bedoelde procentuele aandeel, indien het ingediende Plan van aanpak maatschappelijke opvang naar het oordeel van de Minister van Volksgezondheid, Welzijn en Sport daartoe aanleiding geeft.   
-6.  De Minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van het Plan van aanpak maatschappelijke opvang in te zenden.   
+6.  De Minister geeft niet eerder toepassing aan het vorige lid dan nadat hij het college van burgemeester en wethouders van de betreffende gemeente heeft geïnformeerd waarom hij voornemens is daartoe over te gaan en hij het college binnen een door hem te bepalen termijn in de gelegenheid heeft gesteld een aanpassing van het Plan van aanpak maatschappelijke opvang in te zenden.  
 
-### Artikel  12ha  
+### Artikel 12ha  
 
 1.  Onverminderd de artikelen 5 en 12h, eerste lid, worden de uitkeringen aan de maatschappelijke centrumgemeenten Amsterdam, Rotterdam, Den Haag en Utrecht verhoogd ten laste van de middelen die vanuit hoofdstuk XVI van de Rijksbegroting voor 2007, 2008 en 2009 ter beschikking worden gesteld ten behoeve van de voorfinanciering van een eventuele herverdeling van de verdeelsleutel maatschappelijke opvang en voor de voortgang in de uitvoering van het Plan van aanpak maatschappelijk opvang, bedoeld in artikel 12h, derde lid.   
 2.  Het procentuele aandeel van de betreffende maatschappelijke centrumgemeenten in de middelen, bedoeld in het eerste lid, wordt voor 2007, 2008 en 2009 vastgesteld volgens de verdeling die is gebaseerd op de kostenraming zoals opgenomen in het Plan van aanpak maatschappelijke opvang van de betrokken centrumgemeenten.   
-3.  De minister neemt in 2009 een beschikking tot verlening van de in het eerste lid bedoelde verhoging. De in het eerste lid bedoelde verhoging wordt in zijn geheel toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel k, of aan elk van de subindicatoren op de wijze als aangegeven in artikel 11, vierde lid, onderdeel d.   
+3.  De minister neemt in 2009 een beschikking tot verlening van de in het eerste lid bedoelde verhoging. De in het eerste lid bedoelde verhoging wordt in zijn geheel toegedeeld aan de indicator, bedoeld in artikel 10, onderdeel k, of aan elk van de subindicatoren op de wijze als aangegeven in artikel 11, vierde lid, onderdeel d.  
 
-### Hoofdstuk  3  
+###Hoofdstuk 3 
 
 ####Indicatoren voor maatschappelijke effecten
 
@@ -720,29 +720,29 @@ iv. ik voel mij thuis bij de mensen die hier wonen.
 2.  De in het eerste lid bedoelde gegevens worden zowel op het niveau van de wijk als op het niveau van de gemeente verzameld.   
 3.  Het college van burgemeester en wethouders verstrekt de in het eerste lid bedoelde gegevens uiterlijk op 30 juni 2005, 31 mei 2007 en 15 juli 2010 aan de minister.   
 4.  De uiterlijk per 30 juni 2005 te verstrekken gegevens hebben zoveel mogelijk betrekking op de stand per 31 december 2004, voorzover in het eerste lid niet anders is aangegeven.   
-5.  De in 2007 en 2010 te verstrekken gegevens die voortkomen uit registratiesystemen hebben zoveel mogelijk betrekking op de stand per 31 december 2006, respectievelijk 31 december 2009. Voorzover het college van burgemeester en wethouders gebruik maakt van enquêtes, worden deze uitgevoerd in de periode oktober 2006–maart 2007, respectievelijk 15 september–31 december 2009 en hebben deze betrekking op 2006, respectievelijk 2009.   
+5.  De in 2007 en 2010 te verstrekken gegevens die voortkomen uit registratiesystemen hebben zoveel mogelijk betrekking op de stand per 31 december 2006, respectievelijk 31 december 2009. Voorzover het college van burgemeester en wethouders gebruik maakt van enquêtes, worden deze uitgevoerd in de periode oktober 2006–maart 2007, respectievelijk 15 september–31 december 2009 en hebben deze betrekking op 2006, respectievelijk 2009.  
 
-### Hoofdstuk  4  
+### Hoofdstuk 4 
 
 ####Vrijwillige inburgering
 
-### Artikel  13a  
+### Artikel 13a  
 
-Besteding van de middelen, bestemd voor de inburgering van inburgeraars, voldoet aan de eisen, gesteld in dit hoofdstuk.  
+Besteding van de middelen, bestemd voor de inburgering van inburgeraars, voldoet aan de eisen, gesteld in dit hoofdstuk.
 
-### Artikel  13b  
+### Artikel 13b  
 
 1.  Het college van burgemeester en wethouders kan aan een inburgeraar een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening of, indien de inburgeraar een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) volgt of zal volgen, een taalkennisvoorziening aanbieden die op de persoonlijke situatie van de inburgeraar is afgestemd. Indien de inburgeraar daarom verzoekt, kan de inburgeringsvoorziening, de inburgeringscomponent van de gecombineerde inburgeringsvoorziening of de taalkennisvoorziening worden aangeboden in de vorm van een persoonlijk inburgeringsbudget.   
 2.  Zowel een inburgeringsvoorziening als een gecombineerde inburgeringsvoorziening bereidt voor op en leidt toe naar het inburgeringsexamen of het staatsexamen en omvat het eenmaal kosteloos afleggen van het desbetreffende examen.   
 3.  Het college van burgemeester en wethouders draagt er zorg voor dat de inburgeringsvoorziening, dan wel de gecombineerde inburgeringsvoorziening, uiterlijk 31 december van het tweede kalenderjaar na het jaar waarin de voorziening is vastgesteld, wordt afgesloten door middel van deelname aan het inburgeringsexamen of het staatsexamen.   
-4.  De inburgeraar is de in [artikel 23, tweede lid, van de wet](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) bedoelde eigen bijdrage verschuldigd, tenzij hij op last van het college van burgemeester en wethouders, dan wel een andere instantie, genoemd in [artikel 21, tweede lid, van de wet](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), een gecombineerde inburgeringsvoorziening dient te volgen.   
+4.  De inburgeraar is de in [artikel 23, tweede lid, van de wet](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) bedoelde eigen bijdrage verschuldigd, tenzij hij op last van het college van burgemeester en wethouders, dan wel een andere instantie, genoemd in [artikel 21, tweede lid, van de wet](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), een gecombineerde inburgeringsvoorziening dient te volgen. 
 
-### Artikel  13c  
+### Artikel 13c  
 
 1.  Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening of een taalkennisvoorziening doet het college van burgemeester en wethouders de inburgeraar terzake een aanbod.   
 2.  Indien het aanbod, bedoeld in het eerste lid, geheel of gedeeltelijk bestaat uit een persoonlijk inburgeringsbudget begeleidt het college van burgemeester en wethouders de inburgeraar op diens verzoek bij de vormgeving van zijn inburgeringsprogramma en de keuze van een inburgeringsbedrijf. Het college van burgemeester en wethouders beoordeelt het voorstel van de inburgeraar en sluit vervolgens een overeenkomst met het inburgeringsbedrijf.   
 3.  Indien een inburgeraar tevens geestelijke bedienaar is, wordt hem onverminderd het bepaalde in het eerste en tweede lid, de cursus, bedoeld in [artikel 4.25 van de Regeling inburgering](../../../../../../../../../ministeriele-regeling/regeling/inburgering/BWBR0020657/README.md) zoals deze luidde op 31 december 2012 aangeboden.   
-4.  Het college van burgemeester en wethouders doet geen aanbod aan een inburgeraar met wie eerder een overeenkomst als bedoeld in artikel 13d is gesloten.   
+4.  Het college van burgemeester en wethouders doet geen aanbod aan een inburgeraar met wie eerder een overeenkomst als bedoeld in artikel 13d is gesloten. 
 
 ### Artikel  13d  
 
@@ -757,71 +757,71 @@ b. de verschuldigdheid van de eigen bijdrage en de mogelijkheid van betaling in 
 c. de verlening van toestemming om de in de [bijlage bij artikel 6.1, tweede lid, van het Besluit inburgering](../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) zoals dit luidde op 31 december 2012 bedoelde (persoons)gegevens welke betrekking hebben op de inburgeraar, op te nemen in het Informatiesysteem Inburgering;  
 
 d. de gevolgen van niet-nakoming van de overeenkomst.     
-4.  De overeenkomst wordt door partijen niet later ondertekend dan 31 december 2009.   
+4.  De overeenkomst wordt door partijen niet later ondertekend dan 31 december 2009.  
 
-### Artikel  13e  
+### Artikel 13e  
 
-1.  Indien de inburgeraar het inburgeringsexamen heeft behaald, ontvangt hij het inburgeringsdiploma.   
-2.  Het inburgeringsdiploma wordt uitgereikt door de Minister.   
+1. Indien de inburgeraar het inburgeringsexamen heeft behaald, ontvangt hij het inburgeringsdiploma.
+2. Het inburgeringsdiploma wordt uitgereikt door de Minister.
 
-### Artikel  13f  
+### Artikel 13f  
 
-1.  Het college van burgemeester en wethouders, de exameninstellingen en de minister verstrekken aan de beheerder van het Informatiesysteem Inburgering uit eigen beweging of op verzoek kosteloos alle gegevens die noodzakelijk zijn voor de uitvoering van dit hoofdstuk.   
-2.  De Minister verstrekt aan het college van burgemeester en wethouders, uit eigen beweging of op verzoek alle gegevens die noodzakelijk zijn voor de uitvoering van dit hoofdstuk.   
-3.  In het Informatiesysteem Inburgering met betrekking tot inburgeraars opgenomen persoonsgegevens worden verwijderd: 
+1. Het college van burgemeester en wethouders, de exameninstellingen en de minister verstrekken aan de beheerder van het Informatiesysteem Inburgering uit eigen beweging of op verzoek kosteloos alle gegevens die noodzakelijk zijn voor de uitvoering van dit hoofdstuk.
+2. De Minister verstrekt aan het college van burgemeester en wethouders, uit eigen beweging of op verzoek alle gegevens die noodzakelijk zijn voor de uitvoering van dit hoofdstuk.
+3. In het Informatiesysteem Inburgering met betrekking tot inburgeraars opgenomen persoonsgegevens worden verwijderd: 
 
 a. na verloop van twintig jaren, of  
 
-b. indien de betrokken persoon is overleden.     
-4.  De termijn, bedoeld in het derde lid, onderdeel a, vangt aan op de dag waarop de gegevens in het Informatiesysteem Inburgering zijn opgenomen.   
+b. indien de betrokken persoon is overleden.  
+4. De termijn, bedoeld in het derde lid, onderdeel a, vangt aan op de dag waarop de gegevens in het Informatiesysteem Inburgering zijn opgenomen.
 
-### Hoofdstuk  5  
+###Hoofdstuk 5 
 
 ####Voorschotverlening
 
 ### Artikel  14  
 
-1.  Het bedrag dat jaarlijks ambtshalve aan voorschotten op het programmadeel wordt verleend, is de uitkomst van de formule 0,20 × M + ((0,40 × Inw <sub>t-1</sub> gemmo/Inw <sub>t-1</sub> cgmo) + 0,50 × ((Link <sub>t-1</sub> gemmo × Kpreg <sub>t-1</sub> gemmo)/(Link <sub>t-1</sub> cgmo × Kpreg <sub>t-1</sub> cgmo)) + 0.10 × (U <sub>t-2</sub> gemmo/U <sub>t-2</sub> cgmo)) × (Midmo <sub>t</sub> cgmo –Basismo <sub>t</sub> cgmo)+Basismo <sub>t</sub> gem + (0,90 × (Inw <sub>t-1</sub> gemvo/Inw <sub>t-1</sub> cgvo) + 0,10 × (Min <sub>t-1</sub> gemvo/Min <sub>t-1</sub> cgvo)) × ((Midvo <sub>t</sub> – Basisvo <sub>t</sub> cgvo))+Basisvo <sub>t</sub> gem + N + Q + R. In deze formule is 
+1.  Het bedrag dat jaarlijks ambtshalve aan voorschotten op het programmadeel wordt verleend, is de uitkomst van de formule 0,20 × M + ((0,40 × Inw<sub>t-1</sub>gemmo/Inw<sub>t-1</sub>cgmo) + 0,50 × ((Link<sub>t-1</sub>gemmo × Kpreg<sub>t-1</sub>gemmo)/(Link<sub>t-1</sub>cgmo × Kpreg<sub>t-1</sub>cgmo)) + 0.10 × (U<sub>t-2</sub>gemmo/U<sub>t-2</sub>cgmo)) × (Midmo<sub>t</sub>cgmo –Basismo<sub>t</sub>cgmo)+Basismo<sub>t</sub>gem + (0,90 × (Inw<sub>t-1</sub>gemvo/Inw<sub>t-1</sub>cgvo) + 0,10 × (Min<sub>t-1</sub>gemvo/Min<sub>t-1</sub>cgvo)) × ((Midvo<sub>t</sub> – Basisvo<sub>t</sub>cgvo))+Basisvo<sub>t</sub>gem + N + Q + R. In deze formule is 
 
 M: het bedrag van de aandelen van de gemeente in de middelen voor veiligheid en leefbaarheid, voor het terugdringen van voortijdig schoolverlaten en voor de bestrijding van gezondheidsachterstanden;  
 
-Inw <sub>t-1</sub> gemmo: het aantal inwoners in het maatschappelijke zorggebied van de gemeente, op 1 januari van het voorafgaande kalenderjaar;  
+Inw<sub>t-1</sub>gemmo: het aantal inwoners in het maatschappelijke zorggebied van de gemeente, op 1 januari van het voorafgaande kalenderjaar;  
 
-Inw <sub>t-1</sub> cgmo: het aantal inwoners in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten op 1 januari van het voorafgaande kalenderjaar;  
+Inw<sub>t-1</sub>cgmo: het aantal inwoners in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten op 1 januari van het voorafgaande kalenderjaar;  
 
-Link <sub>t-1</sub> gemmo: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in het maatschappelijke zorggebied van de gemeente volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;  
+Link<sub>t-1</sub>gemmo: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in het maatschappelijke zorggebied van de gemeente volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;  
 
-Link <sub>t-1</sub> cgmo: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;  
+Link<sub>t-1</sub>cgmo: het aantal huishoudens op basis van de Maatstaf lage inkomens, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md), in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten volgens de meest recente vóór het kalenderjaar vastgestelde inkomensstatistiek van het CBS;  
 
-Kpreg <sub>t-1</sub> gemmo: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in het maatschappelijke zorggebied van de gemeente;  
+Kpreg<sub>t-1</sub>gemmo: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in het maatschappelijke zorggebied van de gemeente;  
 
-Kpreg <sub>t-1</sub> cgmo: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten;  
+Kpreg<sub>t-1</sub>cgmo: het aantal potentiële regionale klanten van de woonkernen als bedoeld in [artikel 10 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) op 1 januari van het voorafgaande kalenderjaar in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten;  
 
-U <sub>t-2</sub> gemmo: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in het maatschappelijke zorggebied van de gemeente, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in dat gebied, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;  
+U<sub>t-2</sub>gemmo: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in het maatschappelijke zorggebied van de gemeente, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in dat gebied, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;  
 
-U <sub>t-2</sub> cgmo: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in die gebieden, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;  
+U<sub>t-2</sub>cgmo: het aantal personen volgens de Maatstaf uitkeringsontvangers, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in de maatschappelijke zorggebieden van de maatschappelijke centrumgemeenten, verminderd met het aantal personen volgens de bijstandsmaatstaf, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md) in die gebieden, op 31 december van het jaar dat twee jaar voorafgaat aan het kalenderjaar;  
 
-Midmo <sub>t</sub> cgmo: het deel van de middelen voor maatschappelijke opvang en verslavingsbeleid dat aan het kalenderjaar is toe te rekenen;  
+Midmo<sub>t</sub>cgmo: het deel van de middelen voor maatschappelijke opvang en verslavingsbeleid dat aan het kalenderjaar is toe te rekenen;  
 
-Basismo <sub>t</sub> cgmo: het deel van de basisbedragen voor maatschappelijke opvang en verslavingsbeleid van de maatschappelijke centrumgemeenten dat aan het kalenderjaar is toe te rekenen;  
+Basismo<sub>t</sub>cgmo: het deel van de basisbedragen voor maatschappelijke opvang en verslavingsbeleid van de maatschappelijke centrumgemeenten dat aan het kalenderjaar is toe te rekenen;  
 
-Basismo <sub>t</sub> gem: het deel van het basisbedrag voor maatschappelijke opvang en verslavingsbeleid van de gemeente dat aan het kalenderjaar is toe te rekenen;  
+Basismo<sub>t</sub>gem: het deel van het basisbedrag voor maatschappelijke opvang en verslavingsbeleid van de gemeente dat aan het kalenderjaar is toe te rekenen;  
 
 Inw: het aantal inwoners;  
 
-Inw <sub>t-1</sub> gemvo: het aantal inwoners van het zorggebied voor vrouwenopvang van de gemeente;  
+Inw<sub>t-1</sub>gemvo: het aantal inwoners van het zorggebied voor vrouwenopvang van de gemeente;  
 
-Inw <sub>t-1</sub> cgvo: het aantal inwoners van de centrumgemeenten voor vrouwenopvang en de regiogemeenten op 1 januari van het voorafgaande kalenderjaar;  
+Inw<sub>t-1</sub>cgvo: het aantal inwoners van de centrumgemeenten voor vrouwenopvang en de regiogemeenten op 1 januari van het voorafgaande kalenderjaar;  
 
-Min <sub>t-1</sub> gemvo: Het totaal van het aantal inwoners op 1 januari van het voorafgaande kalenderjaar in het zorggebied voor vrouwenopvang van de gemeente volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+Min<sub>t-1</sub>gemvo: Het totaal van het aantal inwoners op 1 januari van het voorafgaande kalenderjaar in het zorggebied voor vrouwenopvang van de gemeente volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
 
-Min <sub>t-1</sub> cgvo: Het totaal van het aantal inwoners op 1 januari van het voorafgaande kalenderjaar in de zorggebieden voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
+Min<sub>t-1</sub>cgvo: Het totaal van het aantal inwoners op 1 januari van het voorafgaande kalenderjaar in de zorggebieden voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang volgens de Maatstaf minderheden, bedoeld in [bijlage 2 van het Besluit financiële verhouding 2001](../../../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md);  
 
-Midvo <sub>t</sub>: het deel van de middelen voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;  
+Midvo<sub>t</sub>: het deel van de middelen voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;  
 
-Basisvo <sub>t</sub> cgvo: het deel van de basisbedragen voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;  
+Basisvo<sub>t</sub>cgvo: het deel van de basisbedragen voor vrouwenopvang van de centrumgemeenten voor vrouwenopvang dat aan het kalenderjaar is toe te rekenen;  
 
-Basisvo <sub>t</sub> gem: het deel van het basisbedrag voor vrouwenopvang van de gemeente dat aan het kalenderjaar is toe rekenen;  
+Basisvo<sub>t</sub>gem: het deel van het basisbedrag voor vrouwenopvang van de gemeente dat aan het kalenderjaar is toe rekenen;  
 
 N: het aan het kalenderjaar op basis van het tweede lid toe te rekenen bedrag van de gemeente voor de extra veiligheidsmiddelen;  
 
@@ -852,112 +852,112 @@ b. De aan de gemeenten, bedoeld in artikel 12b, eerste lid, te verlenen voorscho
 
 c. De aan de vier gemeenten, genoemd in artikel 12bb, derde lid, te verlenen voorschotten worden in 2008 en 2009 verhoogd met de bedragen, die de minister op grond van artikel 12bb, zesde lid, voor 2008 en 2009 heeft toegekend, onverminderd de verhoging bedoeld in de onderdelen a en b.     
 9.  De aan de gemeenten, waaraan op grond van artikel 12c een aanvulling op de uitkering wordt verleend, te verlenen voorschotten worden in de jaren 2007 tot en met 2009 steeds verhoogd met een derde deel van het bedrag dat op grond van artikel 12c, vijfde en zesde lid, is verleend.   
-10.  De aan gemeenten te verlenen voorschotten ten behoeve van de impuls ‘Sociale Herovering’ worden op de volgende wijze verleend: 
+10.   De aan gemeenten te verlenen voorschotten ten behoeve van de impuls ‘Sociale Herovering’ worden op de volgende wijze verleend: 
 
 a. De aan de gemeenten, genoemd in artikel 12d, te verlenen voorschotten worden verhoogd met € 808.333,– voor het jaar 2006 en met € 1.191.667,– voor het jaar 2007;  
 
 b. Het aan de gemeente Leeuwarden te verlenen voorschot wordt verhoogd met € 50.000,– voor het jaar 2008, onverminderd de verhoging bedoeld in onderdeel a.     
-11.  De aan gemeenten te verlenen voorschotten ten behoeve van ‘Aanval op de Uitval’ worden op de volgende wijze verleend: 
+11.   De aan gemeenten te verlenen voorschotten ten behoeve van ‘Aanval op de Uitval’ worden op de volgende wijze verleend: 
 
 a. De aan de gemeenten, die op basis van artikel 12e, zesde lid, in aanmerking komen voor een bijdrage in het kader van het initiatief ‘Aanval op de Uitval’, te verlenen voorschotten worden verhoogd met € 100.000 per toegekend project voor het jaar 2006. Het aan Hengelo te verlenen voorschot wordt ten gevolge van artikel 12e, achtste lid, voor het jaar 2006 verhoogd met € 120.000;  
 
 b. Het aan de gemeente Leeuwarden te verlenen voorschot wordt verhoogd met € 150.000,– voor het jaar 2008, onverminderd de verhoging bedoeld in onderdeel a.     
 12.  De aan de elf gemeenten, genoemd in artikel 12f, eerste lid, te verlenen voorschotten worden in de jaren 2006, 2007, 2008 en 2009 steeds verhoogd met respectievelijk 17,69%, 17,69%, 43,08% en 21,54% van het bedrag dat de minister op grond van artikel 12f, vierde en vijfde lid, heeft verleend.   
-13.  De aan de centrumgemeenten voor vrouwenopvang te verlenen voorschotten worden: 
+13.  De aan de centrumgemeenten voor vrouwenopvang te verlenen voorschotten worden:  
 
 a. voor het jaar 2008 en het jaar 2009 verhoogd met de helft van het bedrag dat de minister op grond van artikel 12g, derde lid, heeft verleend, en  
 
-b. voor het jaar 2008 en het jaar 2009 verhoogd met de bedragen, die de minister op grond van artikel 12ga, vierde en vijfde lid, heeft verleend, onverminderd de verhoging, bedoeld in onderdeel a.     
-14.  De aan de maatschappelijke centrumgemeenten te verlenen voorschotten worden op de volgende wijze verleend: 
+b. voor het jaar 2008 en het jaar 2009 verhoogd met de bedragen, die de minister op grond van artikel 12ga, vierde en vijfde lid, heeft verleend, onverminderd de verhoging, bedoeld in onderdeel a.    
+14.   De aan de maatschappelijke centrumgemeenten te verlenen voorschotten worden op de volgende wijze verleend: 
 
 a. De aan de maatschappelijke centrumgemeenten te verlenen voorschotten worden voor de jaren 2007, 2008 en 2009 verhoogd met het bedrag dat de minister op grond van artikel 12h, vierde en vijfde lid, heeft verleend. Indien een maatschappelijke centrumgemeente bij de inwerkingtreding van deze regeling niet beschikt over een Plan van aanpak maatschappelijke opvang, wordt het procentuele aandeel, bedoeld in artikel 12h, tweede lid, door de minister als voorschot vóór 1 augustus 2007 respectievelijk 1 augustus 2008 beschikbaar gesteld, vooruitlopend op de beschikking tot verlening, bedoeld in artikel 12h, vierde en vijfde lid;  
 
-b. Het procentuele aandeel aan de maatschappelijke centrumgemeenten Amsterdam, Rotterdam, Den Haag en Utrecht, bedoeld in artikel 12ha, tweede lid, wordt door de minister voor de jaren 2007, 2008 en 2009 op grond van artikel 12ha, derde lid, beschikbaar gesteld, onverminderd de verhoging bedoeld in onderdeel a. Het voorschot betreft een vooruitbetaling, vooruitlopend op de beschikking tot verlening, bedoeld als voorfinanciering van een eventuele herverdeling van de verdeelsleutel maatschappelijke opvang en voor de voortgang in de uitvoering van het Plan van aanpak maatschappelijk opvang van de betrokken centrumgemeenten.     
+b. Het procentuele aandeel aan de maatschappelijke centrumgemeenten Amsterdam, Rotterdam, Den Haag en Utrecht, bedoeld in artikel 12ha, tweede lid, wordt door de minister voor de jaren 2007, 2008 en 2009 op grond van artikel 12ha, derde lid, beschikbaar gesteld, onverminderd de verhoging bedoeld in onderdeel a. Het voorschot betreft een vooruitbetaling, vooruitlopend op de beschikking tot verlening, bedoeld als voorfinanciering van een eventuele herverdeling van de verdeelsleutel maatschappelijke opvang en voor de voortgang in de uitvoering van het Plan van aanpak maatschappelijk opvang van de betrokken centrumgemeenten.    
 
-### Artikel  14a  
+### Artikel 14a  
 
-De Minister maakt uiterlijk 1 maart 2007 een indicatieve rijksbijdrage bekend met betrekking tot het aandeel van de gemeente in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel Q, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) voor de jaren 2007, 2008 en 2009.  
+De Minister maakt uiterlijk 1 maart 2007 een indicatieve rijksbijdrage bekend met betrekking tot het aandeel van de gemeente in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel Q, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) voor de jaren 2007, 2008 en 2009.
 
-### Artikel  14b  
+### Artikel 14b  
 
-1.  Het bedrag dat aan voorschotten op het aandeel in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel Q, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2007, 2008 en 2009 wordt verleend is de uitkomst van: 
+1. Het bedrag dat aan voorschotten op het aandeel in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel Q, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2007, 2008 en 2009 wordt verleend is de uitkomst van: 
 
 a. de formule [ A × B ] + [ C × D ] + [ E × F ] + G indien het meerjaren ontwikkelingsprogramma van een gemeente met betrekking tot de in [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) genoemde onderdelen niet tot gevolg heeft dat de voor die gemeente gegeven indicatieve rijksbijdrage moet worden verhoogd;  
 
 b. de formule [ A × B ] + [ C × D ] + [ E × F ] + G indien het meerjaren ontwikkelingsprogramma van een gemeente met betrekking tot de in [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) genoemde onderdelen tot gevolg heeft dat de voor die gemeente gegeven indicatieve rijksbijdrage moet worden verhoogd en de jaarlijks vanuit hoofdstuk VI van de Rijksbegroting ten behoeve van de G30 te verstrekken middelen voor inburgering daartoe toereikend zijn;  
 
-c. de formule [ A × B ] + [ C × D ] + [ E × F ] + [ H × I ] + G indien het meerjaren ontwikkelingsprogramma van een gemeente met betrekking tot de in [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) genoemde onderdelen tot gevolg heeft dat de voor die gemeente gegeven indicatieve rijksbijdrage moet worden verhoogd en de jaarlijks vanuit hoofdstuk VI van de Rijksbegroting ten behoeve van de G30 te verstrekken middelen voor inburgering daartoe niet toereikend zijn.     
-2.  In de formules, genoemd in het eerste lid, is A: het in het meerjaren ontwikkelingsprogramma opgenomen aantal door het college van burgemeester en wethouders vast te stellen inburgerings-voorzieningen ten behoeve van inburgeringsplichtigen en inburgeraars; B: de voorschotvergoeding ten aanzien van de in de letter A bedoelde inburgeringsvoorziening; C: het in het meerjaren ontwikkelingsprogramma opgenomen aantal door het college van burgemeester en wethouders vast te stellen gecombineerde inburgeringsvoorzieningen ten behoeve van inburgeringsplichtigen en inburgeraars; D: de voorschotvergoeding ten aanzien van de in letter C bedoelde gecombineerde inburgeringsvoorziening; E: het in het meerjaren ontwikkelingsprogramma opgenomen aantal door het college van burgemeester en wethouders bekend te maken handhavings-beschikkingen en te verstrekken kennisgevingen; F: de voorschotvergoeding ten aanzien van de in letter E bedoelde handhavingsbeschikking en kennisgeving; G: het bedrag, bedoeld in [artikel 9, vierde lid, onderdeel a, onder 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md); H: het na toepassing van de in het eerste lid, onderdelen a en b, weergegeven formules resterende deel van de jaarlijks vanuit hoofdstuk VI van de Rijksbegroting ten behoeve van de G30 te verstrekken middelen voor inburgering; I: het relatieve aandeel in de overtekening van de jaarlijks vanuit hoofdstuk VI van de Rijksbegroting te verstrekken middelen voor inburgering van de gemeente die op de in [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) genoemde onderdelen een hoger meerjaren ontwikkelingsprogramma heeft ingediend dan de voor de gemeente gegeven indicatieve rijksbijdrage toelaat.   
-3.  Het bedrag, bedoeld in het eerste lid, wordt ten behoeve van het aanbieden van duale inburgeringsvoorzieningen voor de jaren 2008 en 2009 verhoogd met een bedrag dat wordt vastgesteld naar evenredigheid van het aandeel van de gemeente in het aantal in Nederland woonachtige leden van etnische minderheidsgroepen uit de eerste generatie die behoren tot de groep niet-westerse allochtonen, alsmede allochtonen afkomstig uit voormalig Joegoslavië en de voormalige Sovjet-Unie in de leeftijdscategorie 15 tot en met 65 jaar.   
-4.  Het bedrag dat aan voorschotten op het aandeel in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel R, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2008 en 2009 wordt verleend, wordt ambtshalve door de minister vastgesteld.   
-5.  Indien het eerste lid, aanhef en onderdeel c, van toepassing is, is het voorschot voor een gemeente niet hoger dan het met het door die gemeente op de onderdelen van [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) ingediende meerjaren ontwikkelingsprogramma corresponderende indicatieve rijksbijdrage.   
+c. de formule [ A × B ] + [ C × D ] + [ E × F ] + [ H × I ] + G indien het meerjaren ontwikkelingsprogramma van een gemeente met betrekking tot de in [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) genoemde onderdelen tot gevolg heeft dat de voor die gemeente gegeven indicatieve rijksbijdrage moet worden verhoogd en de jaarlijks vanuit hoofdstuk VI van de Rijksbegroting ten behoeve van de G30 te verstrekken middelen voor inburgering daartoe niet toereikend zijn.  
+2. In de formules, genoemd in het eerste lid, is A: het in het meerjaren ontwikkelingsprogramma opgenomen aantal door het college van burgemeester en wethouders vast te stellen inburgerings-voorzieningen ten behoeve van inburgeringsplichtigen en inburgeraars; B: de voorschotvergoeding ten aanzien van de in de letter A bedoelde inburgeringsvoorziening; C: het in het meerjaren ontwikkelingsprogramma opgenomen aantal door het college van burgemeester en wethouders vast te stellen gecombineerde inburgeringsvoorzieningen ten behoeve van inburgeringsplichtigen en inburgeraars; D: de voorschotvergoeding ten aanzien van de in letter C bedoelde gecombineerde inburgeringsvoorziening; E: het in het meerjaren ontwikkelingsprogramma opgenomen aantal door het college van burgemeester en wethouders bekend te maken handhavings-beschikkingen en te verstrekken kennisgevingen; F: de voorschotvergoeding ten aanzien van de in letter E bedoelde handhavingsbeschikking en kennisgeving; G: het bedrag, bedoeld in [artikel 9, vierde lid, onderdeel a, onder 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md); H: het na toepassing van de in het eerste lid, onderdelen a en b, weergegeven formules resterende deel van de jaarlijks vanuit hoofdstuk VI van de Rijksbegroting ten behoeve van de G30 te verstrekken middelen voor inburgering; I: het relatieve aandeel in de overtekening van de jaarlijks vanuit hoofdstuk VI van de Rijksbegroting te verstrekken middelen voor inburgering van de gemeente die op de in [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) genoemde onderdelen een hoger meerjaren ontwikkelingsprogramma heeft ingediend dan de voor de gemeente gegeven indicatieve rijksbijdrage toelaat. 
+3.  Het bedrag, bedoeld in het eerste lid, wordt ten behoeve van het aanbieden van duale inburgeringsvoorzieningen voor de jaren 2008 en 2009 verhoogd met een bedrag dat wordt vastgesteld naar evenredigheid van het aandeel van de gemeente in het aantal in Nederland woonachtige leden van etnische minderheidsgroepen uit de eerste generatie die behoren tot de groep niet-westerse allochtonen, alsmede allochtonen afkomstig uit voormalig Joegoslavië en de voormalige Sovjet-Unie in de leeftijdscategorie 15 tot en met 65 jaar. 
+4.  Het bedrag dat aan voorschotten op het aandeel in de middelen voor inburgering, bedoeld in [artikel 4, eerste lid, onderdeel R, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md), voor de jaren 2008 en 2009 wordt verleend, wordt ambtshalve door de minister vastgesteld. 
+5. Indien het eerste lid, aanhef en onderdeel c, van toepassing is, is het voorschot voor een gemeente niet hoger dan het met het door die gemeente op de onderdelen van [artikel 7, eerste lid, onderdeel o, onder 1° en 2°, van het Besluit](../../../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) ingediende meerjaren ontwikkelingsprogramma corresponderende indicatieve rijksbijdrage.
 
-### Artikel  14c  
+### Artikel 14c  
 
-1.  De Minister stelt jaarlijks de voorschotvergoedingen, bedoeld in artikel 14b, respectievelijk de bijdragevergoedingen, bedoeld in artikel 9a, vast.   
-2.  De Minister stelt ten behoeve van de vast te stellen hoogte van de bijdragevergoedingen de onderlinge verhouding vast tussen de onderdelen, bedoeld in artikel 9a, eerste lid, letters A, C en G enerzijds en de onderdelen, bedoeld in artikel 9a, eerste lid, letters I, K, M en O anderzijds, respectievelijk het onderdeel, bedoeld in artikel 9a, tweede lid, letter A enerzijds en het onderdeel, bedoeld in artikel 9a, tweede lid, letter C anderzijds.   
-3.  De Minister stelt de bijdragevergoedingen vast aan de hand van de verhouding, bedoeld in het tweede lid, en een uitvalpercentage ter hoogte van 10%.   
-4.  De Minister maakt de hoogte van de voorschotvergoedingen, alsmede de verhouding jaarlijks voor 15 september bekend.   
+1. De Minister stelt jaarlijks de voorschotvergoedingen, bedoeld in artikel 14b, respectievelijk de bijdragevergoedingen, bedoeld in artikel 9a, vast.
+2. De Minister stelt ten behoeve van de vast te stellen hoogte van de bijdragevergoedingen de onderlinge verhouding vast tussen de onderdelen, bedoeld in artikel 9a, eerste lid, letters A, C en G enerzijds en de onderdelen, bedoeld in artikel 9a, eerste lid, letters I, K, M en O anderzijds, respectievelijk het onderdeel, bedoeld in artikel 9a, tweede lid, letter A enerzijds en het onderdeel, bedoeld in artikel 9a, tweede lid, letter C anderzijds.
+3. De Minister stelt de bijdragevergoedingen vast aan de hand van de verhouding, bedoeld in het tweede lid, en een uitvalpercentage ter hoogte van 10%.
+4. De Minister maakt de hoogte van de voorschotvergoedingen, alsmede de verhouding jaarlijks voor 15 september bekend.
 
 ### Artikel  15  
 
 1.  Het bedrag dat in 2005 ambtshalve aan voorschotten op het inburgeringsdeel wordt verleend is de uitkomst van de formule ((O/P) × Midverkl + (Q:R) × Midbesch) – ½S + (T × € 6400). In deze formule is 
 
-O: het aantal verklaringen van de gemeente in 2003;  
+O: het aantal verklaringen van de gemeente in 2003;
 
-P: het aantal verklaringen van de G30 in 2003;  
+P: het aantal verklaringen van de G30 in 2003;
 
-Midverkl: het bedrag dat voor de G30 voor de maatstaf verklaringen beschikbaar is;  
+Midverkl: het bedrag dat voor de G30 voor de maatstaf verklaringen beschikbaar is;
 
-Q: het aantal beschikkingen van de gemeente in 2003;  
+Q: het aantal beschikkingen van de gemeente in 2003;
 
-R: het aantal beschikkingen van de G30 in 2003;  
+R: het aantal beschikkingen van de G30 in 2003;
 
-Midbesch: het bedrag dat voor de G30 voor de maatstaf beschikkingen beschikbaar is;  
+Midbesch: het bedrag dat voor de G30 voor de maatstaf beschikkingen beschikbaar is;
 
-S: de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](../../../../../../../../../AMvB/bekostigingsbesluit/inburgering/nieuwkomers/BWBR0009768/README.md), per 31 december 2004;  
+S: de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](../../../../../../../../../AMvB/bekostigingsbesluit/inburgering/nieuwkomers/BWBR0009768/README.md), per 31 december 2004;
 
-T: het door de Minister voor Vreemdelingenzaken en Integratie vastgestelde aantal oudkomers dat bij de verlening van de voorschotten wordt betrokken.     
+T: het door de Minister voor Vreemdelingenzaken en Integratie vastgestelde aantal oudkomers dat bij de verlening van de voorschotten wordt betrokken.   
 2.  Als de reserve, bedoeld in onderdeel S van de formule, genoemd in het eerste lid, negatief is wordt S gesteld op 0.   
-3.  Het bedrag dat in 2005 ambtshalve aan voorschotten op het inburgeringsdeel wordt verleend bedraagt in afwijking van het eerste lid ten minste T × € 6400.   
+3.  Het bedrag dat in 2005 ambtshalve aan voorschotten op het inburgeringsdeel wordt verleend bedraagt in afwijking van het eerste lid ten minste T × € 6400.  
 
-### Artikel  15a  
+### Artikel 15a  
 
-Onverminderd artikel 15 wordt in november 2005 een additioneel voorschot verstrekt op het inburgeringsdeel, ter hoogte van het verschil tussen enerzijds de helft van de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](../../../../../../../../../AMvB/bekostigingsbesluit/inburgering/nieuwkomers/BWBR0009768/README.md), per 31 december 2004, en anderzijds de helft van de verantwoorde reserve van een gemeente per 31 december 2004, mits dat verschil groter is dan € 0.  
+Onverminderd artikel 15 wordt in november 2005 een additioneel voorschot verstrekt op het inburgeringsdeel, ter hoogte van het verschil tussen enerzijds de helft van de door de Minister voor Vreemdelingenzaken en Integratie geraamde door een gemeente opgebouwde reserve aan niet bestede rijksbijdragen als bedoeld in [artikel 1, onderdeel g, van het Bekostigingsbesluit inburgering nieuwkomers](../../../../../../../../../AMvB/bekostigingsbesluit/inburgering/nieuwkomers/BWBR0009768/README.md), per 31 december 2004, en anderzijds de helft van de verantwoorde reserve van een gemeente per 31 december 2004, mits dat verschil groter is dan € 0. 
 
 ### Artikel  15b  
 
 1.  Het bedrag dat aan de gemeenten in 2006 ambtshalve aan voorschotten op het inburgeringsdeel wordt verleend is de uitkomst van de formule ((O/P) × Midverkl + (Q:R) × Midbesch) + (T × € 6400). In deze formule is O: het aantal verklaringen van de gemeente in 2004; P: het aantal verklaringen van de G30 in 2004; Midverkl: het bedrag dat voor de G30 voor de maatstaf verklaringen beschikbaar is; Q: het aantal beschikkingen van de gemeente in 2004; R: het aantal beschikkingen van de G30 in 2004; Midbesch: het bedrag dat voor de G30 voor de maatstaf beschikkingen beschikbaar is; T: het door de Minister voor Vreemdelingenzaken en Integratie vastgestelde aantal oudkomers dat bij de verlening van de voorschotten wordt betrokken.   
-2.  Het bedrag dat in 2006 ambtshalve aan voorschotten op het inburgeringsdeel wordt verleend bedraagt in afwijking van het eerste lid ten minste T × € 6400.   
+2.  Het bedrag dat in 2006 ambtshalve aan voorschotten op het inburgeringsdeel wordt verleend bedraagt in afwijking van het eerste lid ten minste T × € 6400.  
 
-### Artikel  15c  
+### Artikel 15c  
 
-Onverminderd artikel 15b kan in 2006 en 2007 een additioneel voorschot worden verstrekt op het inburgeringsdeel, maximaal ter hoogte van het verschil tussen enerzijds de op de grondslag van artikel 7, eerste en tweede lid, vast te stellen middelen voor de inburgering van nieuwkomers en anderzijds het op grond van artikel 15, eerste en tweede lid, verstrekte voorschot voor de inburgering van nieuwkomers, mits dat verschil groter is dan nul.  
+Onverminderd artikel 15b kan in 2006 en 2007 een additioneel voorschot worden verstrekt op het inburgeringsdeel, maximaal ter hoogte van het verschil tussen enerzijds de op de grondslag van artikel 7, eerste en tweede lid, vast te stellen middelen voor de inburgering van nieuwkomers en anderzijds het op grond van artikel 15, eerste en tweede lid, verstrekte voorschot voor de inburgering van nieuwkomers, mits dat verschil groter is dan nul. 
 
-### Hoofdstuk  6  
+###Hoofdstuk 6 
 
 ####Slotbepalingen
 
-### Artikel  17  
+###Artikel 17 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2005.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2005.
 
-### Artikel  18  
+###Artikel 18 
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties, 
-A.Pechtold   
+A.Pechtold 
 
-### Bijlage  A  
+### Bijlage A 
 
 ####behorende bij artikel 1, onderdelen e en f 
 
 In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](../../../../../../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md).  
 
-|  *Centrumgemeente voor maatschappelijke opvang, openbare geestelijke gezondheidszorg en verslavingsbeleid*   |  *Zorggebied voor maatschappelijke opvang, openbare geestelijke gezondheidszorg en verslavingsbeleid*   |
+| *Centrumgemeente voor maatschappelijke opvang, openbare geestelijke gezondheidszorg en verslavingsbeleid*  | *Zorggebied voor maatschappelijke opvang, openbare geestelijke gezondheidszorg en verslavingsbeleid*  |
 |:---|:---|
 | Alkmaar  | Het deelgebied Noord-Kennemerland van de gezondheidsregio12 Alkmaar  |
 | Almelo  | Het deelgebied Almelo van gezondheidsregio 05 Twente  |
@@ -987,13 +987,13 @@ In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de 
 | Zaanstad  | Het deelgebied Zaanstreek van de gezondheidsregio 14 Amsterdam  |
 | Zwolle  | De gezondheidsregio 04 Zwolle  |
 
-### Bijlage  B  
+### Bijlage B 
 
 ####behorende bij artikel 1, onderdeel g 
 
 In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de [Wet ziekenhuisvoorzieningen](../../../../../../../../../wet/wet/ziekenhuisvoorzieningen/BWBR0002753/README.md)  
 
-|  *Centrumgemeente voor vrouwenopvang*   |  *Zorggebied voor vrouwenopvang*   |
+| *Centrumgemeente voor vrouwenopvang*  | *Zorggebied voor vrouwenopvang*  |
 |:---|:---|
 | Alkmaar  | De deelgebieden Noord-Kennemerland en West-Friesland van de gezondheidsregio 12 Alkmaar  |
 | Amersfoort  | Het deelgebied Oost-Utrecht van de gezondheidsregio 09 Utrecht  |
@@ -1021,11 +1021,11 @@ In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de 
 | Zaanstad  | De deelgebieden Waterland en Zaanstreek van de gezondheidsregio 14 Amsterdam  |
 | Zwolle  | De gezondheidsregio 04 Zwolle  |
 
-### Bijlage  C  
+### Bijlage C 
 
 ####, behorende bij artikel 12e, derde lid 
 
-| Projectselectiecriteria  | Score  | Toelichting op Score  |
+|  Projectselectiecriteria   |  Score   |  Toelichting op Score   |
 |:---|:---|:---|
 | Betreft uitval van jeugd, kansarmen of wijken  | Ja/nee  | --- |
 | --- |  *Score**   | --- |
@@ -1034,5 +1034,5 @@ In deze bijlage wordt verstaan onder gezondheidsregio: gezondheidsregio voor de 
 | Het project is gericht op verbetering van de samenwerking tussen overheden, maatschappelijke instellingen of andere private partijen  | --- | --- |
 | De resultaten van het project zijn in principe bruikbaar voor de andere G27 gemeenten en de aanvrager is bereid deze bekend te maken  | --- | --- |
 
-* ++ = voldoet in hoge mate + = voldoet in voldoende mate – = voldoet niet aan criterium 
+* ++ = voldoet in hoge mate + = voldoet in voldoende mate – = voldoet niet aan criterium
 

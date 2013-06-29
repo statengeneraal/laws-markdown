@@ -26,7 +26,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 2. plaatsgebonden consignatie: een aaneengesloten tijdruimte van ten hoogste 24 uren waarin de medewerker, zo nodig naast het verrichten van de bedongen arbeid, verplicht is op de arbeidsplaats aanwezig te zijn om op oproep zo spoedig mogelijk de bedongen arbeid te verrichten;  
 
-3. bevoegd gezag: de korpschef.    
+3. bevoegd gezag: de korpschef.   
 
 ### Artikel  2  
 
@@ -43,7 +43,7 @@ a. in Nederland vindt planning plaats in dienst, plaatsgebonden consignatie of v
 
 2. dat tijdens plaatsgebonden consignatie geen taak kan worden opgedragen en dat de betrokken ambtenaar uitsluitend via telefoon of semafoon bereikbaar dient te zijn.    
 
-b. in het buitenland vindt planning plaats in dienst of plaatsgebonden consignatie.     
+b. in het buitenland vindt planning plaats in dienst of plaatsgebonden consignatie.    
 
 ### Artikel  3  
 
@@ -51,21 +51,21 @@ b. in het buitenland vindt planning plaats in dienst of plaatsgebonden consignat
 
 1.  Voor de toepassing van de in het tweede artikel bedoelde plaatsgebonden consignatie is [artikel 18 van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) van analoge toepassing met dien verstande dat de in het [eerste lid van artikel 18](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md) vermelde definitie wordt vervangen door de definitie vermeld in het eerste artikel van deze uitvoeringsregeling. Voorts zijn van toepassing uitgezonderd het [vierde tot en met het zesde lid van voormeld artikel 18](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md).   
 2.  De vergoeding voor elk uur plaatsgebonden consignatie wordt vergolden door middel van een bedrag in geld als bedoeld met de toeslag in [artikel 27, achtste lid van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md).   
-3.  De in het tweede lid genoemde toelage wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin consignatie is verricht. Van deze termijn kan worden afgeweken indien het dienstbelang dat vereist, of indien het dienstbelang zich daartegen niet verzet, op verzoek van de medewerker. Voor deze gevallen wordt een nieuwe uiterste termijn vastgesteld.   
+3.  De in het tweede lid genoemde toelage wordt zo spoedig mogelijk uitbetaald, doch uiterlijk bij gelegenheid van de tweede salarisbetaling volgende op de periode van vier weken waarin consignatie is verricht. Van deze termijn kan worden afgeweken indien het dienstbelang dat vereist, of indien het dienstbelang zich daartegen niet verzet, op verzoek van de medewerker. Voor deze gevallen wordt een nieuwe uiterste termijn vastgesteld.  
 
 ### Artikel  4  
 
 ####Slotbepalingen
 
-1.  Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheid’.   
-2.   Het ‘Besluit beëindiging en afbouw vergoedingregelingen extra diensten groepschefs en beveiligers KDB’ van 19 december 1994 met kenmerk 472700/594/HY en de ‘ [Regeling bevoegdheid toekenning toelage functionarissen KDB KLPD](../../../../../../ministeriele-regeling/regeling/bevoegdheid/toekenning/toelage/functionarissen/koninklijke/en/etc/BWBR0007388/README.md) ’ van 8 mei 1995 met kenmerk EA95/929a zijn met dit besluit ingetrokken.  
+1. Deze regeling kan worden aangehaald als: ‘Uitvoeringsregeling plaatsgebonden consignatie landelijke eenheid’. 
+2. Het ‘Besluit beëindiging en afbouw vergoedingregelingen extra diensten groepschefs en beveiligers KDB’ van 19 december 1994 met kenmerk 472700/594/HY en de ‘[Regeling bevoegdheid toekenning toelage functionarissen KDB KLPD](../../../../../../ministeriele-regeling/regeling/bevoegdheid/toekenning/toelage/functionarissen/koninklijke/en/etc/BWBR0007388/README.md)’ van 8 mei 1995 met kenmerk EA95/929a zijn met dit besluit ingetrokken.
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 22 december 2006.  
+Dit besluit treedt in werking met ingang de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 22 december 2006. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze: de 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, voor deze:de 
 Directeur-Generaal Veiligheid, 
-H.W.M.Schoof   
+H.W.M. Schoof     

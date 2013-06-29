@@ -15,20 +15,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit beheer autowrakken.   
+Wijzigt het Besluit beheer autowrakken. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit beheer autobanden.   
+Wijzigt het Besluit beheer autobanden. 
 
 ### Artikel  III  
 
-Het bevoegd gezag draagt er zorg voor dat op 1 juli 2009 de voor de datum van inwerkingtreding van dit besluit verleende vergunningen voor inrichtingen als bedoeld in [artikel 5, eerste lid, van het Besluit beheer autowrakken](../../../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md) aan dit besluit voldoen.  
+Het bevoegd gezag draagt er zorg voor dat op 1 juli 2009 de voor de datum van inwerkingtreding van dit besluit verleende vergunningen voor inrichtingen als bedoeld in [artikel 5, eerste lid, van het Besluit beheer autowrakken](../../../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md) aan dit besluit voldoen. 
 
 ### Artikel  IV  
 
 1.  Dit besluit treedt in werking met ingang van 1 oktober 2007.   
-2.  In afwijking van het eerste lid, treedt artikel I, onderdeel E, van dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt dat onderdeel terug tot en met 31 december 2006.   
+2.  In afwijking van het eerste lid, treedt artikel I, onderdeel E, van dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt dat onderdeel terug tot en met 31 december 2006.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

@@ -29,7 +29,7 @@ f. oudkomer: een oudkomer als bedoeld in [artikel 1, aanhef en onder i, van het 
 
 g. inburgeringsprogramma: een inburgeringsprogramma als bedoeld in [artikel 1, aanhef en onder j, van het Besluit](../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md);  
 
-h. prognose: het aantal oudkomers dat naar de verwachting van het college in de periode van 1 januari tot en met 30 juni 2006 zal aanvangen met een inburgeringsprogramma.    
+h. prognose: het aantal oudkomers dat naar de verwachting van het college in de periode van 1 januari tot en met 30 juni 2006 zal aanvangen met een inburgeringsprogramma.   
 
 ### Hoofdstuk  2  
 
@@ -37,7 +37,7 @@ h. prognose: het aantal oudkomers dat naar de verwachting van het college in de 
 
 ### Artikel  2  
 
-Het college verstrekt binnen zes weken na inwerkingtreding van deze regeling aan de Minister een prognose conform het in bijlage 2 opgenomen model indien een gemeente in aanmerking wenst te komen voor verlening van een aandeel in de middelen voor de inburgering van oudkomers als bedoeld in [artikel 10 van het Besluit](../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md).  
+Het college verstrekt binnen zes weken na inwerkingtreding van deze regeling aan de Minister een prognose conform het in bijlage 2 opgenomen model indien een gemeente in aanmerking wenst te komen voor verlening van een aandeel in de middelen voor de inburgering van oudkomers als bedoeld in [artikel 10 van het Besluit](../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md). 
 
 ### Artikel  3  
 
@@ -50,10 +50,10 @@ b. indien de prognose lager is dan het in de vierde kolom van bijlage 1 genoemde
 
 c. indien de prognose hoger is dan het in de vierde kolom van bijlage 1 genoemde aantal oudkomers, wordt de hoogte van de factor S: 
 
-1°. in het geval het beschikbare budget toereikend is, naar evenredigheid verhoogd;  
+1°.  in het geval het beschikbare budget toereikend is, naar evenredigheid verhoogd;  
 
-2°. in het geval het beschikbare budget niet toereikend is, vastgesteld conform het in de vierde kolom genoemde getal, welk getal wordt verhoogd met een getal dat afhankelijk is van de verdeling van de resterende middelen uit het beschikbare budget naar evenredigheid van het aantal oudkomers als genoemd in bijlage 1, vierde kolom.       
-3.  De hoogte van de factor S wordt binnen acht weken na inwerkingtreding van deze regeling vastgesteld en aan het college bekend gemaakt.   
+2°.  in het geval het beschikbare budget niet toereikend is, vastgesteld conform het in de vierde kolom genoemde getal, welk getal wordt verhoogd met een getal dat afhankelijk is van de verdeling van de resterende middelen uit het beschikbare budget naar evenredigheid van het aantal oudkomers als genoemd in bijlage 1, vierde kolom.       
+3.  De hoogte van de factor S wordt binnen acht weken na inwerkingtreding van deze regeling vastgesteld en aan het college bekend gemaakt.  
 
 ### Hoofdstuk  3  
 
@@ -63,7 +63,7 @@ c. indien de prognose hoger is dan het in de vierde kolom van bijlage 1 genoemde
 
 1.  Het college stelt het inburgeringsprogramma vast, waarbij zoveel mogelijk wordt aangesloten bij de persoonlijke situatie van de desbetreffende oudkomer.   
 2.  Het inburgeringsprogramma vangt aan in 2006 en is op uiterlijk 31 december 2007 afgerond.   
-3.  Het college draagt er zorg voor dat een inburgeringsprogramma ten minste 300 contacturen omvat.   
+3.  Het college draagt er zorg voor dat een inburgeringsprogramma ten minste 300 contacturen omvat.  
 
 ### Artikel  5  
 
@@ -85,7 +85,7 @@ f. de verplichtingen van de oudkomer;
 g. de informatieoverdracht tussen het college, de bij het aanbieden van het inburgeringsprogramma betrokken instellingen en de oudkomer met betrekking tot de voortgang van het inburgeringsprogramma;  
 
 h. de gevolgen welke zijn verbonden aan niet-nakoming van de overeenkomst door de oudkomer.     
-3.  Het college sluit op grond van deze regeling met een oudkomer slechts één overeenkomst.   
+3.  Het college sluit op grond van deze regeling met een oudkomer slechts één overeenkomst.  
 
 ### Artikel  6  
 
@@ -94,7 +94,7 @@ h. de gevolgen welke zijn verbonden aan niet-nakoming van de overeenkomst door d
 
 a. de Intaketoets NT2 als begintoets met de NT2-Profieltoets als eindtoets; of  
 
-b. de Intaketoets Alfabetisering NT2 als begintoets met de NT2-Profieltoets Alfabetisering als eindtoets.     
+b. de Intaketoets Alfabetisering NT2 als begintoets met de NT2-Profieltoets Alfabetisering als eindtoets.    
 
 ### Hoofdstuk  4  
 
@@ -102,15 +102,15 @@ b. de Intaketoets Alfabetisering NT2 als begintoets met de NT2-Profieltoets Alfa
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling inburgering oudkomers G30 2006.  
+Deze regeling wordt aangehaald als: Regeling inburgering oudkomers G30 2006. 
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk  
+M.C.F. Verdonk    
 
 ### Bijlage  1  
 

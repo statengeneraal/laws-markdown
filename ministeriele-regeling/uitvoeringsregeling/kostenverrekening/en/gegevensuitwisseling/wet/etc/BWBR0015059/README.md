@@ -1,15 +1,15 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
+##Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken 
 
 De Staatssecretaris van Financiën,  
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 Gelet op de [artikelen 2](../../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md) en [2a van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](../../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md);
-Besluit:     
-### Hoofdstuk  1  
+Besluit:      
+###Hoofdstuk  1 
 
-####Algemeen
+#### Algemeen 
 
 ### Artikel  1  
 
@@ -17,25 +17,25 @@ Besluit:
 
 Deze regeling geeft uitvoering aan [artikel 37g van de Wet waardering onroerende zaken](../../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [artikel 2 van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](../../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md).  
 
-### Artikel  2  
+###Artikel 2 
 
 ####Definities
 
-In deze regeling wordt verstaan onder: 
+In deze regeling wordt verstaan onder:
 
-a. *wet:* Wet waardering onroerende zaken;  
+a.*wet:* Wet waardering onroerende zaken;
 
-b. *besluit:* Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken;  
+b.*besluit:* Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken;
 
-c. *waardering:* waardebepaling en waardevaststelling van onroerende zaken op basis van de wet;  
+c.*waardering:* waardebepaling en waardevaststelling van onroerende zaken op basis van de wet;
 
-d. *verwerkbare gegevens:* gegevens voor de afnemers die voldoen aan de door de Waarderingskamer opgestelde kwaliteitscriteria;  
+d.*verwerkbare gegevens:* gegevens voor de afnemers die voldoen aan de door de Waarderingskamer opgestelde kwaliteitscriteria;
 
-e. *object:* een onroerende zaak die ten minste een van de afnemers betrekt in de heffing van een belasting naar een waardemaatstaf.    
+e.*object:* een onroerende zaak die ten minste een van de afnemers betrekt in de heffing van een belasting naar een waardemaatstaf. 
 
-### Hoofdstuk  2  
+###Hoofdstuk  2  
 
-####Kostenverdeling over de individuele waterschappen
+####Kostenverdeling over de individuele waterschappen 
 
 ### Artikel  3  
 
@@ -50,7 +50,7 @@ e. *object:* een onroerende zaak die ten minste een van de afnemers betrekt in d
 
 De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties uiterlijk op 1 april van het kalenderjaar het op de voet van artikel 3 door hem vastgestelde individuele aandeel van het waterschap in de kosten van de waardering, bedoeld in [artikel 2, vijfde lid, van het besluit](../../../../../../../../AMvB/uitvoeringsbesluit/kostenverrekening/en/gegevensuitwisseling/wet/etc/BWBR0007230/README.md).  
 
-### Hoofdstuk  3  
+###Hoofdstuk 3 
 
 ####Vergoeding van bepaalde kosten.
 
@@ -58,19 +58,19 @@ De individuele waterschappen betalen aan de Minister van Binnenlandse Zaken en K
 
 ####Vergoeding van bepaalde kosten aan de Vereniging van Nederlandse Gemeenten
 
-Uit het gemeentefonds wordt een bedrag van € 1 000 000 afgezonderd en ter beschikking gesteld aan de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet.  
+Uit het gemeentefonds wordt een bedrag van € 1 000 000 afgezonderd en ter beschikking gesteld aan de Vereniging van Nederlandse Gemeenten ter vergoeding van kosten die samenhangen met verbeteringen op het gebied van kwaliteit en kostenbeheersing bij de uitvoering van de wet. 
 
-### Hoofdstuk  3a  
+###Hoofdstuk 3a 
 
 ####Waarderingskamer
 
-### Artikel  6  
+###Artikel 6 
 
 ####Datum verzenden begroting
 
-De Waarderingskamer zendt jaarlijks voor 1 december de begroting voor het daaropvolgende kalenderjaar aan de Minister van Financiën.  
+De Waarderingskamer zendt jaarlijks voor 1 december de begroting voor het daaropvolgende kalenderjaar aan de Minister van Financiën.
 
-### Hoofdstuk  4  
+###Hoofdstuk 4 
 
 ####Basisregistratie waarde onroerende zaken.
 
@@ -78,7 +78,7 @@ De Waarderingskamer zendt jaarlijks voor 1 december de begroting voor het daaro
 
 ####Plaatsing aantekening ‘in onderzoek’
 
-Het college plaatst de aantekening ‘in onderzoek’ bij een waardegegeven binnen vier dagen, nadat er ten aanzien van dat waardegegeven een terugmelding is gedaan of er overigens gerede twijfel is ontstaan omtrent de juistheid van dat gegeven.  
+Het college plaatst de aantekening ‘in onderzoek’ bij een waardegegeven binnen vier dagen, nadat er ten aanzien van dat waardegegeven een terugmelding is gedaan of er overigens gerede twijfel is ontstaan omtrent de juistheid van dat gegeven. 
 
 ### Hoofdstuk  5  
 
@@ -94,9 +94,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Financiën, 
-S.R.A. vanEijck    
+S.R.A. van  Eijck      

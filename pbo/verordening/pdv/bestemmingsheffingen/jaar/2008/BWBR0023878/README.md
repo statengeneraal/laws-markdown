@@ -9,7 +9,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 15-02-2009 
+
 ### Artikel  1  
+Materieel uitgewerkt per 15-02-2009 
 
 Deze verordening verstaat onder:  
 
@@ -36,7 +39,10 @@ Deze verordening verstaat onder:
 
 ####Heffingen
 
+Materieel uitgewerkt per 15-02-2009 
+
 ### Artikel  2  
+Materieel uitgewerkt per 15-02-2009 
 
 1.  De ondernemer die: 
 
@@ -53,17 +59,19 @@ Deze verordening verstaat onder:
 
 – 0,74 voor halfvochtige (semi-moist) voeders  
 
-– 0,23 voor vochtige (moist) voeders.     
+– 0,23 voor vochtige (moist) voeders.    
 
 ### Artikel  3  
+Materieel uitgewerkt per 15-02-2009 
 
 De ondernemer die: 
 
 – gedroogde bietenpulp en  
 
-– gedroogde voedergewassen, zoals bedoeld in bijlage II onder C   produceert, is verplicht over de zelf geproduceerde en in het binnenland afgeleverd hoeveelheid aan het productschap een heffing te betalen per 1.000 kg product, zoals opgenomen in bijlage I.A. De hoeveelheid die ten genoegen van het productschap aantoonbaar aan bereiders van mengvoeders wordt afgeleverd, is van deze heffing vrijgesteld.  
+– gedroogde voedergewassen, zoals bedoeld in bijlage II onder C   produceert, is verplicht over de zelf geproduceerde en in het binnenland afgeleverd hoeveelheid aan het productschap een heffing te betalen per 1.000 kg product, zoals opgenomen in bijlage I.A. De hoeveelheid die ten genoegen van het productschap aantoonbaar aan bereiders van mengvoeders wordt afgeleverd, is van deze heffing vrijgesteld. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 15-02-2009 
 
 1.  De handelaar in: 
 
@@ -71,17 +79,20 @@ De ondernemer die:
 
 – vochtrijke voedermiddelen   zoals bedoeld in bijlage II onder A respectievelijk onder B, is verplicht over de in het binnenland, rechtstreeks dan wel indirect via de tussenhandel, aan veehouderijbedrijven afgeleverde hoeveelheid aan het productschap een heffing te betalen per 1.000 kg product, zoals opgenomen in bijlage I.A.   
 2.  De ondernemer die mengvoeders voor landbouwhuisdieren produceert, is verplicht over de in het binnenland afgeleverde hoeveelheid droge voedermiddelen, zoals bedoeld in bijlage II onder A aan het productschap een heffing te betalen per 1.000 kg product, zoals opgenomen in bijlage I.A.   
-3.  Op het in het eerste lid verschuldigde bedrag wordt in mindering gebracht het heffingsbedrag dat ten genoegen van het productschap aantoonbaar over de betrokken producten reeds eerder aan het productschap is afgedragen.   
+3.  Op het in het eerste lid verschuldigde bedrag wordt in mindering gebracht het heffingsbedrag dat ten genoegen van het productschap aantoonbaar over de betrokken producten reeds eerder aan het productschap is afgedragen.  
 
 ### Artikel  5  
+Materieel uitgewerkt per 15-02-2009 
 
-De ondernemer die toevoegingsmiddelen produceert of in de handel brengt, is verplicht aan het productschap een heffing te betalen, zoals opgenomen in bijlage I.B. De heffing is afhankelijk van de omzet in euro’s in het voorgaande jaar.  
+De ondernemer die toevoegingsmiddelen produceert of in de handel brengt, is verplicht aan het productschap een heffing te betalen, zoals opgenomen in bijlage I.B. De heffing is afhankelijk van de omzet in euro’s in het voorgaande jaar. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 15-02-2009 
 
-De heffingen bedoeld in de artikelen 2 tot en met 5 zijn bestemd voor de financiering van de werkzaamheden van het productschap, die zijn ondergebracht in programma’s en daaronder vallende projecten.  
+De heffingen bedoeld in de artikelen 2 tot en met 5 zijn bestemd voor de financiering van de werkzaamheden van het productschap, die zijn ondergebracht in programma’s en daaronder vallende projecten. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 15-02-2009 
 
 1.  De ondernemer is verplicht: 
 
@@ -95,56 +106,69 @@ De heffingen bedoeld in de artikelen 2 tot en met 5 zijn bestemd voor de financi
 
 a. ter controle van de in het eerste lid bedoelde opgave indien de in het vierde lid bedoelde accountantsverklaring niet afkomstig is van een registeraccount;  
 
-b. ter controle van de in het derde lid bedoelde verklaring.     
+b. ter controle van de in het derde lid bedoelde verklaring.    
 
 ### Artikel  8  
+Materieel uitgewerkt per 15-02-2009 
 
 1.  Op verzoek van de heffingsplichtige kan de secretaris namens het bestuur in individuele gevallen beslissen tot afwijking van het model van het opgaveformulier bedoeld in artikel 7.   
-2.  Op verzoek van de heffingsplichtige die ingevolge deze verordening jaarlijks minder dan € 1.000,– aan het productschap verschuldigd is kan de secretaris namens het bestuur beslissen om in afwijking van artikel 7, eerste lid, jaarlijks een opgave met de voor de vaststelling van de heffing benodigde gegevens aan het productschap te verstrekken.   
+2.  Op verzoek van de heffingsplichtige die ingevolge deze verordening jaarlijks minder dan € 1.000,– aan het productschap verschuldigd is kan de secretaris namens het bestuur beslissen om in afwijking van artikel 7, eerste lid, jaarlijks een opgave met de voor de vaststelling van de heffing benodigde gegevens aan het productschap te verstrekken.  
 
 ### §  3  
 
 ####Ambtshalve heffing
 
+Materieel uitgewerkt per 15-02-2009 
+
 ### Artikel  9  
+Materieel uitgewerkt per 15-02-2009 
 
 1.  Indien de onderneming de gegevens, bedoeld in artikel 7, eerste lid niet, niet tijdig of naar het oordeel van de secretaris niet volledig heeft verstrekt, is de secretaris bevoegd namens het bestuur de verschuldigde heffing voor het betreffende kwartaal ambtshalve bij aanslag vast te stellen.   
 2.  Indien de heffingsplichtige binnen 21 dagen na ontvangst van de heffingsaanslag bedoeld in het eerste lid, alsnog de gevraagde gegevens verstrekt, wordt de aanvankelijk vastgestelde heffing ingetrokken en een nieuwe heffing vastgesteld op basis van de door hem verstrekte gegevens.   
-3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.   
+3.  Indien het productschap, op verzoek van de ondernemer nadat de termijn genoemd in het tweede lid is verstreken, alsnog overgaat tot wijziging van de ambtshalve vastgestelde heffing, kunnen de voor het productschap daaruit voortvloeiende extra kosten in rekening worden gebracht.  
 
 ### §  4  
 
 ####Betaling van de heffing
 
+Materieel uitgewerkt per 15-02-2009 
+
 ### Artikel  10  
+Materieel uitgewerkt per 15-02-2009 
 
 1.  De ingevolge deze verordening verschuldigde heffingsbedragen worden betaald uiterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening zijn gebracht, dan wel, indien de secretaris van het productschap zulks verlangt, voor een door deze te bepalen datum.   
-2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.   
+2.  Het Hoofdproductschap Akkerbouw wordt gemachtigd de verschuldigde heffingsbedragen in rekening te brengen, in te vorderen en in ontvangst te nemen.  
 
 ### Artikel  11  
+Materieel uitgewerkt per 15-02-2009 
 
-Het productschap kan besluiten nota’s van minder dan € 50,– samen te voegen tot verzamelnota’s welke betrekking hebben op meerdere perioden.  
+Het productschap kan besluiten nota’s van minder dan € 50,– samen te voegen tot verzamelnota’s welke betrekking hebben op meerdere perioden. 
 
 ### Artikel  12  
+Materieel uitgewerkt per 15-02-2009 
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 10 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### §  5  
 
 ####Slotbepalingen
 
-### Artikel  13  
+Materieel uitgewerkt per 15-02-2009 
 
-Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenbald Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, treedt zij in werking met ingang van de tweede dag na de datekening van de Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2008, met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2003](../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md).  
+### Artikel  13  
+Materieel uitgewerkt per 15-02-2009 
+
+Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenbald Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, treedt zij in werking met ingang van de tweede dag na de datekening van de Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2008, met uitzondering van de toepassing van de [Verordening PDV algemene bepalingen 2003](../../../../../../../pbo/verordening/pdv/algemene/bepalingen/2003/BWBR0014694/README.md). 
 
 ### Artikel  14  
+Materieel uitgewerkt per 15-02-2009 
 
-Deze verordening wordt aangehaald als: Verordening PDV bestemmingsheffingen jaar 2008.  
+Deze verordening wordt aangehaald als: Verordening PDV bestemmingsheffingen jaar 2008. 
 
 Den Haag 
 7 november 2007   
 
-Th.A.M. Meijer  
+Th.A.M.  Meijer  
 voorzitter  
 
 J. Den Hartog  
@@ -154,10 +178,13 @@ secretaris
 
 ####Heffingstarieven
 
+Materieel uitgewerkt per 15-02-2009 
+
 ![243683](http://wetten.overheid.nl/Illustration/243683)
 ![243161](http://wetten.overheid.nl/Illustration/243161)
 
 ### Bijlage  II  
+Materieel uitgewerkt per 15-02-2009 
 
 ####Voedermiddelen waarop de regeling van toepassing is
 

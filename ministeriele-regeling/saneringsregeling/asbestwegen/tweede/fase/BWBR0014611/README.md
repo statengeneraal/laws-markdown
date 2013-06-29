@@ -1,17 +1,17 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 januari 2003, nr. DGM/SAS/2003000830, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt
+##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 januari 2003, nr. DGM/SAS/2003000830, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt 
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
-Besluit:     
-### §  1  
+Besluit:      
+### § 1  
 
-####Definities en reikwijdte
+####Definities en reikwijdte 
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder:   a. weg:  weg, pad, erfverharding of gedeelte daarvan, alsmede andere grond die bestemd is om door rij- of ander verkeer te worden gebruikt, uitgezonderd aangrenzende bermen;    b. stroken:  gedeelten van de aan een weg grenzende bermen met een breedte van ten hoogste een halve meter;    c. asbestbevattende weg:  weg waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram;    d. asbestbevattende stroken:  stroken waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram;    e. Eternit:  Eternit Fabrieken B.V., Eternit B.V. of Eternit Holding B.V., te Hof van Twente;    f. Asbestona:  Martinit B.V. te Hof van Twente;    g. eigenaar:  eigenaar of degene die uit anderen hoofde bevoegd is handelingen te verrichten aan een asbestbevattende weg of aan asbestbevattende stroken;    h. de minister:  de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.      
+1.  In deze regeling wordt verstaan onder: a. weg:   weg, pad, erfverharding of gedeelte daarvan, alsmede andere grond die bestemd is om door rij- of ander verkeer te worden gebruikt, uitgezonderd aangrenzende bermen;  b. stroken:   gedeelten van de aan een weg grenzende bermen met een breedte van ten hoogste een halve meter;  c. asbestbevattende weg:   weg waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram;  d. asbestbevattende stroken:   stroken waarin de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, meer is dan honderd milligram per kilogram;  e. Eternit:   Eternit Fabrieken B.V., Eternit B.V. of Eternit Holding B.V., te Hof van Twente;  f. Asbestona:   Martinit B.V. te Hof van Twente;  g. eigenaar:   eigenaar of degene die uit anderen hoofde bevoegd is handelingen te verrichten aan een asbestbevattende weg of aan asbestbevattende stroken;  h. de minister:   de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.     
 2.  Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het [Besluit asbestwegen milieubeheer](../../../../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md).   
 
 ### Artikel  2  
@@ -19,51 +19,51 @@ Besluit:
 1.  Deze regeling is van toepassing op wegen en stroken, gelegen binnen een straal van twaalf kilometer rond de voormalige gemeente Goor of binnen een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen.   
 2.  Deze regeling is niet van toepassing op: 
 
-a. wegen en stroken, gelegen op het terrein, kadastraal bekend als Goor, sectie B, nummers 2711, 2712 en 2231;  
+a.  wegen en stroken, gelegen op het terrein, kadastraal bekend als Goor, sectie B, nummers 2711, 2712 en 2231; 
 
-b. wegen en stroken, gelegen op het terrein, kadastraal bekend als gemeente Harderwijk, sectie E, nummer 4740 en 4862;  
+b.  wegen en stroken, gelegen op het terrein, kadastraal bekend als gemeente Harderwijk, sectie E, nummer 4740 en 4862; 
 
-c. wegen en stroken, die in strijd met het ter plaatse geldende bestemmingsplan of de krachtens dat plan gestelde eisen zijn aangelegd voor zover die strijd niet alsnog door een wijziging van dat bestemmingsplan is of wordt opgeheven;  
+c. wegen en stroken, die in strijd met het ter plaatse geldende bestemmingsplan of de krachtens dat plan gestelde eisen zijn aangelegd voor zover die strijd niet alsnog door een wijziging van dat bestemmingsplan is of wordt opgeheven; 
 
-d. wegen en stroken, die crocidoliet bevatten dat na 1 oktober 1978 is aangebracht;  
+d.  wegen en stroken, die crocidoliet bevatten dat na 1 oktober 1978 is aangebracht; 
 
-e. wegen en stroken, waarop na 1 juli 1993 asbest is aangebracht;  
+e.  wegen en stroken, waarop na 1 juli 1993 asbest is aangebracht; 
 
-f. wegen en stroken, waarop asbestbevattende afvalstoffen zijn aangebracht die niet rechtstreeks afkomstig zijn van Asbestona of Eternit;  
+f.  wegen en stroken, waarop asbestbevattende afvalstoffen zijn aangebracht die niet rechtstreeks afkomstig zijn van Asbestona of Eternit; 
 
-g. wegen en stroken, waarvoor krachtens de [Saneringsregeling asbestwegen Twente](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md), de [Saneringsregeling overige asbestwegen](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md) of de Saneringsregeling asbestwegen Haaksbergen een maatregel is toegekend.     
+g.  wegen en stroken, waarvoor krachtens de [Saneringsregeling asbestwegen Twente](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md), de [Saneringsregeling overige asbestwegen](../../../../../../ministeriele-regeling/saneringsregeling/overige/asbestwegen/BWBR0011209/README.md) of de Saneringsregeling asbestwegen Haaksbergen een maatregel is toegekend.    
 3.  Deze regeling is voorts van toepassing op wegen en stroken, gelegen buiten een straal van twaalf kilometer rond de voormalige gemeente Goor of buiten een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen, voorzover er gegronde reden bestaat om aan te nemen dat die wegen en stroken niet zijn aan te merken als wegen en stroken, als bedoeld in het tweede lid, onder d, e en f.   
 
-### §  2  
+### § 2  
 
-####Saneringen vanaf de datum van inwerkingtreding van deze regeling
+####Saneringen vanaf de datum van inwerkingtreding van deze regeling 
 
-### Artikel  3  
+###Artikel 3 
 
-De minister kan op aanvraag: 
+De minister kan op aanvraag:
 
-a. ter afdekking van een asbestbevattende weg: 
+a. ter afdekking van een asbestbevattende weg:
 
-1º. een asfaltlaag doen aanbrengen;  
+1º.een asfaltlaag doen aanbrengen;
 
-2º. een klinkerbestrating doen aanbrengen, of  
+2º.een klinkerbestrating doen aanbrengen, of
 
-3º. een betonlaag doen aanbrengen;    
+3º.een betonlaag doen aanbrengen;
 
-b. asbest uit een asbestbevattende weg doen verwijderen en op die weg vervolgens zand of menggranulaat doen aanbrengen;  
+b.asbest uit een asbestbevattende weg doen verwijderen en op die weg vervolgens zand of menggranulaat doen aanbrengen;
 
-c. asbest uit asbestbevattende stroken doen verwijderen.    
+c.asbest uit asbestbevattende stroken doen verwijderen. 
 
-### Artikel  4  
+###Artikel 4 
 
-1.  De minister kan een handeling als bedoeld in artikel 3 slechts doen verrichten indien: 
+1. De minister kan een handeling als bedoeld in artikel 3 slechts doen verrichten indien:
 
-a. de desbetreffende weg of strook niet in eigendom is van een publiekrechtelijke rechtspersoon, Asbestona, Eternit, een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of deelnam of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid;  
+a. de desbetreffende weg of strook niet in eigendom is van een publiekrechtelijke rechtspersoon, Asbestona, Eternit, een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of deelnam of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid;
 
-b. met betrekking tot de desbetreffende weg of stroken voor de inwerkingtreding van deze regeling geen handelingen als bedoeld in dat artikel zijn verricht;  
+b. met betrekking tot de desbetreffende weg of stroken voor de inwerkingtreding van deze regeling geen handelingen als bedoeld in dat artikel zijn verricht;
 
-c. deze in overeenstemming is met de bij of krachtens de wet gegeven regels.     
-2.  De minister kan een handeling als bedoeld in artikel 3, onderdeel a, onder 2° en 3°, slechts doen verrichten indien de eigenaar van de desbetreffende weg bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van een zodanige handeling, uitgezonderd de regiekosten, een bedrag van € 14,- per vierkante meter te boven gaan.   
+c. deze in overeenstemming is met de bij of krachtens de wet gegeven regels.
+2. De minister kan een handeling als bedoeld in artikel 3, onderdeel a, onder 2° en 3°, slechts doen verrichten indien de eigenaar van de desbetreffende weg bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van een zodanige handeling, uitgezonderd de regiekosten, een bedrag van € 14,- per vierkante meter te boven gaan.
 
 ### Artikel  5  
 
@@ -73,9 +73,9 @@ De minister kan aan de beschikking op een aanvraag als bedoeld in artikel 3 nade
 
 De minister draagt er zorg voor dat: 
 
-a. het verwijderen van asbest uit een asbestbevattende weg of asbestbevattende stroken plaatsvindt door een deskundig bedrijf, bedoeld in [artikel 1, onder c, van het Asbestverwijderingsbesluit](../../../../../../AMvB/asbest-verwijderingsbesluit/BWBR0006006/README.md);  
+a.  het verwijderen van asbest uit een asbestbevattende weg of asbestbevattende stroken plaatsvindt door een deskundig bedrijf, bedoeld in [artikel 1, onder c, van het Asbestverwijderingsbesluit](../../../../../../AMvB/asbest-verwijderingsbesluit/BWBR0006006/README.md); 
 
-b. de handelingen, bedoeld in artikel 3, worden verricht overeenkomstig de bij of krachtens de wet gegeven regels.    
+b.  de handelingen, bedoeld in artikel 3, worden verricht overeenkomstig de bij of krachtens de wet gegeven regels.   
 
 ### Artikel  7  
 
@@ -95,17 +95,17 @@ Zolang de handelingen waarvoor een beschikking op de aanvraag is gegeven, nog ni
 3.  Indien een aanvraag als bedoeld in het eerste lid wordt afgewezen omdat het doen verrichten van de handeling waarop de aanvraag betrekking heeft, in strijd zou zijn met het ter plaatse geldende bestemmingsplan of de krachtens dat plan gestelde eisen, of voor het doen verrichten van die handeling een aanlegvergunning als bedoeld in [artikel 3.3, onder a, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) niet wordt verleend, stelt de minister in afwijking van het eerste lid de betrokken eigenaar in de gelegenheid binnen vier weken een aanvraag voor één van de andere in artikel 3, onder a en b, genoemde handelingen in te dienen.   
 4.  De termijn, bedoeld in het tweede en derde lid, vangt aan met ingang van de dag na die waarop de desbetreffende beschikking op de voorgeschreven wijze is bekendgemaakt.   
 
-### Artikel  10  
+###Artikel 10 
 
-Alvorens een besluit op een aanvraag voor een handeling als bedoeld in artikel 3, onderdeel a, onder 2° of 3°, te nemen, geeft de minister de betrokken eigenaar schriftelijk een raming van de door de eigenaar te vergoeden meerkosten en stelt hij de eigenaar binnen vier weken na de dag waarop de raming aan de betrokken eigenaar is toegezonden, in de gelegenheid: 
+Alvorens een besluit op een aanvraag voor een handeling als bedoeld in artikel 3, onderdeel a, onder 2° of 3°, te nemen, geeft de minister de betrokken eigenaar schriftelijk een raming van de door de eigenaar te vergoeden meerkosten en stelt hij de eigenaar binnen vier weken na de dag waarop de raming aan de betrokken eigenaar is toegezonden, in de gelegenheid:
 
-a. schriftelijk aan de minister kenbaar te maken dat hij niet bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van de desbetreffende handeling, uitgezonderd de regiekosten, het in artikel 4 voor die handeling genoemde bedrag per vierkante meter te boven gaan, en  
+a. schriftelijk aan de minister kenbaar te maken dat hij niet bereid is de meerkosten te vergoeden ingeval de kosten van het verrichten van de desbetreffende handeling, uitgezonderd de regiekosten, het in artikel 4 voor die handeling genoemde bedrag per vierkante meter te boven gaan, en
 
-b. de aanvraag zodanig te wijzigen dat de aanvraag betrekking heeft op een handeling als bedoeld in artikel 3, onderdeel a, onder 1°, of b.    
+b. de aanvraag zodanig te wijzigen dat de aanvraag betrekking heeft op een handeling als bedoeld in artikel 3, onderdeel a, onder 1°, of b. 
 
-### §  3  
+### § 3  
 
-####Saneringen voor de datum van inwerkingtreding van deze regeling
+####Saneringen voor de datum van inwerkingtreding van deze regeling 
 
 ### Artikel  11  
 
@@ -113,25 +113,25 @@ b. de aanvraag zodanig te wijzigen dat de aanvraag betrekking heeft op een hande
 2.  Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in artikel 3, onderdeel a, onder 1°, worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het aanbrengen van een asfaltlaag ter afdekking van de asbestbevattende weg heeft gemaakt.   
 3.  Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in artikel 3, onder c, worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van asbest uit de asbestbevattende stroken heeft gemaakt.   
 4.  De subsidie in verband met de uitvoering van een handeling als bedoeld in artikel 3, onderdeel a, onder 2° en 3°, bedraagt € 14,- per vierkante meter weg waarop een klinkerbestrating of betonlaag is aangebracht, vermeerderd met de voorbereidingskosten die de betrokken eigenaar voor het aanbrengen van een klinkerbestrating of een betonlaag ter afdekking van de asbestbevattende weg heeft gemaakt.   
-5.  Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in artikel 3, onder b, worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van asbest uit de asbestbevattende weg en, indien van toepassing, voor het op de weg aanbrengen van zand of menggranulaat heeft gemaakt.   
+5.  Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in artikel 3, onder b, worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van asbest uit de asbestbevattende weg en, indien van toepassing, voor het op de weg aanbrengen van zand of menggranulaat heeft gemaakt.  
 
 ### Artikel  12  
 
 De minister kan een subsidie als bedoeld in artikel 11 slechts vaststellen indien: 
 
-a. de opdracht voor het verrichten van de desbetreffende handeling is verleend tussen: 
+a.  de opdracht voor het verrichten van de desbetreffende handeling is verleend tussen: 
 
-1º. 1 oktober 1999 en de datum van inwerkingtreding van deze regeling, voorzover het gaat om asbestbevattende wegen of asbestbevattende stroken binnen een straal van twaalf kilometer rond de voormalige gemeente Goor, of  
+1º. 1 oktober 1999 en de datum van inwerkingtreding van deze regeling, voorzover het gaat om asbestbevattende wegen of asbestbevattende stroken binnen een straal van twaalf kilometer rond de voormalige gemeente Goor, of 
 
-2º. 1 juni 2000 en de datum van inwerkingtreding van deze regeling, voorzover het gaat om asbestbevattende wegen of asbestbevattende stroken binnen een straal van twaalf kilometer rond de gemeente Harderwijk;    
+2º.  1 juni 2000 en de datum van inwerkingtreding van deze regeling, voorzover het gaat om asbestbevattende wegen of asbestbevattende stroken binnen een straal van twaalf kilometer rond de gemeente Harderwijk;  
 
-b. de desbetreffende handeling voor de datum van inwerkingtreding van deze regeling is verricht;  
+b.  de desbetreffende handeling voor de datum van inwerkingtreding van deze regeling is verricht; 
 
-c. de desbetreffende handeling is verricht met betrekking tot een weg of strook die ten tijde van het verrichten van de handeling niet in eigendom was van een publiekrechtelijke rechtspersoon, Asbestona, Eternit, een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of deelnam of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid;  
+c.  de desbetreffende handeling is verricht met betrekking tot een weg of strook die ten tijde van het verrichten van de handeling niet in eigendom was van een publiekrechtelijke rechtspersoon, Asbestona, Eternit, een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of deelnam of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid; 
 
-d. de desbetreffende handeling door de subsidieaanvrager voor eigen rekening en risico is verricht, en  
+d.  de desbetreffende handeling door de subsidieaanvrager voor eigen rekening en risico is verricht, en 
 
-e. de desbetreffende handeling is verricht overeenkomstig de bij of krachtens de wet gegeven regels.    
+e.  de desbetreffende handeling is verricht overeenkomstig de bij of krachtens de wet gegeven regels.   
 
 ### Artikel  13  
 
@@ -139,24 +139,24 @@ e. de desbetreffende handeling is verricht overeenkomstig de bij of krachtens de
 2.  Een aanvraag wordt ingediend bij de gedeputeerde staten van de Provincie Overijssel, met gebruikmaking van het formulier dat is opgenomen in de bijlage bij deze regeling.   
 3.  Bij een aanvraag als bedoeld in artikel 11 worden stukken gevoegd waaruit blijkt: 
 
-a. wat de gemaakte kosten zijn;  
+a.  wat de gemaakte kosten zijn; 
 
-b. dat de opdracht is verleend en uitgevoerd, en  
+b.  dat de opdracht is verleend en uitgevoerd, en 
 
-c. dat de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, in de weg of de stroken voor de uitvoering van de desbetreffende handeling meer was dan honderd milligram per kilogram.     
+c.  dat de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, beide bepaald volgens NEN 5897, uitgave februari 1999, in de weg of de stroken voor de uitvoering van de desbetreffende handeling meer was dan honderd milligram per kilogram.    
 4.  Een aanvraag als bedoeld in artikel 11 wordt ingediend voor 1 juni 2003.   
 
-### §  4  
+### § 4  
 
-####Slotbepalingen
+#### Slotbepalingen 
 
 ### Artikel  14  
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
-### Artikel  15  
+###Artikel 15 
 
-Deze regeling wordt aangehaald als: Saneringsregeling asbestwegen tweede fase.  
+Deze regeling wordt aangehaald als: Saneringsregeling asbestwegen tweede fase.
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -164,7 +164,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel   
+P.L.B.A. van  Geel     
 
 ### Bijlage  
 
@@ -176,101 +176,101 @@ Lees voor het invullen van het formulier eerst de toelichting op het aanvraagfor
 
 ### 1  
 
-####Gegevens aanvrager
+#### Gegevens aanvrager
 
-a. naam bedrijf, instelling of particulier:  
+a.  naam bedrijf, instelling of particulier: 
 
-b. inschrijfnummer Kamer van Koophandel bedrijf of instelling:  
+b.  inschrijfnummer Kamer van Koophandel bedrijf of instelling: 
 
-c. plaats Kamer van Koophandel waar bedrijf of instelling is ingeschreven:  
+c.  plaats Kamer van Koophandel waar bedrijf of instelling is ingeschreven: 
 
-d. naam van tot rechtshandelingen bevoegde contactpersoon van bedrijf of instelling:  
+d.  naam van tot rechtshandelingen bevoegde contactpersoon van bedrijf of instelling: 
 
-e. straatnaam en huisnummer:  
+e.  straatnaam en huisnummer: 
 
-f. postcode en plaats:  
+f.  postcode en plaats: 
 
-g. provincie: Overijssel/Gelderland*  
+g.  provincie: Overijssel/Gelderland* 
 
-h. telefoonnummer:  
+h.  telefoonnummer: 
 
-i. telefaxnummer:    
+i.  telefaxnummer:   
 
 ### 2  
 
-####Plaats en oppervlak van de asbestbevattende weg en/of de asbestbevattende stroken:
+#### Plaats en oppervlak van de asbestbevattende weg en/of de asbestbevattende stroken:
 
-a. kadastrale aanduiding van de weg:  
+a.  kadastrale aanduiding van de weg: 
 
-b. adres van de weg:  *Markeer de weg, bijvoorbeeld met een markeerstift, op de onder punt 6 genoemde kaart.*   
+b.  adres van de weg:  *Markeer de weg, bijvoorbeeld met een markeerstift, op de onder punt 6 genoemde kaart.*  
 
-c. lengte van (het deel van) de weg dat is verhard met asbest (in meters):  
+c.  lengte van (het deel van) de weg dat is verhard met asbest (in meters): 
 
-d. breedte van (het deel van) de weg dat is verhard met asbest (in meters):  
+d.  breedte van (het deel van) de weg dat is verhard met asbest (in meters): 
 
-e. oppervlak van (het deel van) de weg dat is verhard met asbest (lengte maal breedte, in vierkante meters):  
+e.  oppervlak van (het deel van) de weg dat is verhard met asbest (lengte maal breedte, in vierkante meters): 
 
-f. bevindt zich asbest in de bermen van de weg? ja/nee/onbekend*  
+f.  bevindt zich asbest in de bermen van de weg? ja/nee/onbekend* 
 
-g. indien vraag 2f met ja is beantwoord, wat zijn de lengte en de breedte van (het deel van) de bermen waarin zich asbest bevindt (in meters)? berm aan de ene kant van de weg: lengte ... meter; breedte ... meter berm aan de andere kant van de weg: lengte ... meter; breedte ... meter  
+g.  indien vraag 2f met ja is beantwoord, wat zijn de lengte en de breedte van (het deel van) de bermen waarin zich asbest bevindt (in meters)? berm aan de ene kant van de weg: lengte ... meter; breedte ... meter berm aan de andere kant van de weg: lengte ... meter; breedte ... meter 
 
-h. heeft u in het verleden op grond van de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen of de Saneringsregeling asbestwegen Haaksbergen een handeling voor de weg of de stroken aangevraagd? ja/nee*  
+h.  heeft u in het verleden op grond van de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen of de Saneringsregeling asbestwegen Haaksbergen een handeling voor de weg of de stroken aangevraagd? ja/nee* 
 
-i. is op grond van de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen of de Saneringsregeling asbestwegen Haaksbergen reeds een handeling aan de weg of de stroken uitgevoerd? ja/nee*    
+i.  is op grond van de Saneringsregeling asbestwegen Twente, de Saneringsregeling overige asbestwegen of de Saneringsregeling asbestwegen Haaksbergen reeds een handeling aan de weg of de stroken uitgevoerd? ja/nee*   
 
 ### 3  
 
-####Andere vragen over de asbestbevattende weg:
+#### Andere vragen over de asbestbevattende weg:
 
-a. bevindt de weg zich binnen een straal van 12 kilometer rond de voormalige gemeente Goor of de gemeente Harderwijk, te rekenen vanaf de gemeentegrens? ja/nee/onbekend*  
+a.  bevindt de weg zich binnen een straal van 12 kilometer rond de voormalige gemeente Goor of de gemeente Harderwijk, te rekenen vanaf de gemeentegrens? ja/nee/onbekend* 
 
-b. sinds wanneer bent u eigenaar van de weg?  
+b.  sinds wanneer bent u eigenaar van de weg? 
 
-c. is het asbest na 1 oktober 1978 op de weg aangebracht? ja/nee/onbekend  
+c.  is het asbest na 1 oktober 1978 op de weg aangebracht? ja/nee/onbekend 
 
-d. is het asbest na 1 juli 1993 op de weg aangebracht? ja/nee/onbekend*  
+d.  is het asbest na 1 juli 1993 op de weg aangebracht? ja/nee/onbekend* 
 
-e. is het asbest dat op de weg is aangebracht, rechtstreeks afkomstig van Eternit in de gemeente Hof van Twente of Asbestona in de gemeente Harderwijk? ja/nee/onbekend*  
+e.  is het asbest dat op de weg is aangebracht, rechtstreeks afkomstig van Eternit in de gemeente Hof van Twente of Asbestona in de gemeente Harderwijk? ja/nee/onbekend* 
 
-f. is (het asbestbevattende deel van) de weg reeds afgedekt met asfalt? ja/nee/onbekend/voor een deel* In het laatste geval: aantal vierkante meters waaruit dat deel bestaat:  
+f.  is (het asbestbevattende deel van) de weg reeds afgedekt met asfalt? ja/nee/onbekend/voor een deel* In het laatste geval: aantal vierkante meters waaruit dat deel bestaat: 
 
-g. is (het asbestbevattende deel van) de weg reeds afgedekt met een andere asbestvrije verharding? ja/nee/onbekend/voor een deel* In het laatste geval: aantal vierkante meters waaruit dat deel bestaat: In het geval dat het antwoord `ja' of `voor een deel' luidt, soort verharding: klinkers/beton/puingranulaat/anders*  
+g.  is (het asbestbevattende deel van) de weg reeds afgedekt met een andere asbestvrije verharding? ja/nee/onbekend/voor een deel* In het laatste geval: aantal vierkante meters waaruit dat deel bestaat: In het geval dat het antwoord `ja' of `voor een deel' luidt, soort verharding: klinkers/beton/puingranulaat/anders* 
 
-h. is het asbest reeds verwijderd? ja/nee/onbekend/voor een deel* In het laatste geval: aantal vierkante meters waaruit dat deel bestaat:  
+h.  is het asbest reeds verwijderd? ja/nee/onbekend/voor een deel* In het laatste geval: aantal vierkante meters waaruit dat deel bestaat: 
 
-i. welk materiaal bevindt zich onder de wegverharding? zand/klei/grond/puin/anders, nl. ..../onbekend*  
+i.  welk materiaal bevindt zich onder de wegverharding? zand/klei/grond/puin/anders, nl. ..../onbekend* 
 
-j. is de weg egaal of bevinden zich gaten in de weg? egaal/gaten*    
+j.  is de weg egaal of bevinden zich gaten in de weg? egaal/gaten*   
 
 ### 4  
 
 ####Vragen met betrekking tot reeds in uw opdracht gesaneerde wegen (deze vraag dient u alleen in te vullen indien u reeds zelf voor sanering van de betreffende weg of stroken heeft gezorgd).
 
-a. is de opdracht tot sanering van de weg, voorzover die weg is gelegen rondom de gemeente Hof van Twente, verleend tussen 1 oktober 1999 en de datum van inwerkingtreding van deze regeling of voorzover de weg is gelegen rondom de gemeente Harderwijk tussen 1 juni 2000 1999 en de datum van inwerkingtreding van deze regeling? ja/nee*  
+a.  is de opdracht tot sanering van de weg, voorzover die weg is gelegen rondom de gemeente Hof van Twente, verleend tussen 1 oktober 1999 en de datum van inwerkingtreding van deze regeling of voorzover de weg is gelegen rondom de gemeente Harderwijk tussen 1 juni 2000 1999 en de datum van inwerkingtreding van deze regeling? ja/nee* 
 
-b. is de sanering voor de datum van inwerkingtreding van de Saneringsregeling asbestwegen tweede fase uitgevoerd? ja/nee*  
+b.  is de sanering voor de datum van inwerkingtreding van de Saneringsregeling asbestwegen tweede fase uitgevoerd? ja/nee* 
 
-c. is de sanering uitgevoerd door een deskundig bedrijf? ja/nee*  
+c.  is de sanering uitgevoerd door een deskundig bedrijf? ja/nee* 
 
-d. heeft er voorafgaande aan de sanering door een daartoe deskundig bedrijf een onderzoek plaats gevonden of er sprake was van een asbestbevattende weg dan wel asbestbevattende stroken? ja/nee*  
+d.  heeft er voorafgaande aan de sanering door een daartoe deskundig bedrijf een onderzoek plaats gevonden of er sprake was van een asbestbevattende weg dan wel asbestbevattende stroken? ja/nee* 
 
-e. welke handeling heeft u laten uitvoeren? Asfalteren/klinkers/beton/afgraven/anders*    
+e.  welke handeling heeft u laten uitvoeren? Asfalteren/klinkers/beton/afgraven/anders*   
 
 ### 5  
 
 ####Voor welke saneringshandeling of subsidie wenst u in aanmerking te komen? Omcirkel een van de onderstaande mogelijkheden.
 
-a. Het laten asfalteren van het deel van de weg dat verhard is met asbest en het laten verwijderen van het asbest uit de asbestbevattende stroken.  
+a.  Het laten asfalteren van het deel van de weg dat verhard is met asbest en het laten verwijderen van het asbest uit de asbestbevattende stroken. 
 
-b. Het laten aanbrengen van een klinkerbestrating op het deel van de weg dat verhard is met asbest en het laten verwijderen van het asbest uit de asbestbevattende stroken.  
+b.  Het laten aanbrengen van een klinkerbestrating op het deel van de weg dat verhard is met asbest en het laten verwijderen van het asbest uit de asbestbevattende stroken. 
 
-c. Het laten storten van een betonlaag op het deel van de weg dat verhard is met asbest en het laten verwijderen van het asbest uit de asbestbevattende stroken.  
+c.  Het laten storten van een betonlaag op het deel van de weg dat verhard is met asbest en het laten verwijderen van het asbest uit de asbestbevattende stroken. 
 
-d. Het laten verwijderen van het asbest uit de weg en het laten verwijderen van het asbest uit de asbestbevattende stroken.  
+d.  Het laten verwijderen van het asbest uit de weg en het laten verwijderen van het asbest uit de asbestbevattende stroken. 
 
-e. Het laten verwijderen van asbest uit asbestbevattende stroken (gedeelten van aan de weg grenzende bermen).  
+e.  Het laten verwijderen van asbest uit asbestbevattende stroken (gedeelten van aan de weg grenzende bermen). 
 
-f. Subsidie voor (een deel van) de kosten van de in eigen beheer uitgevoerde sanering.    
+f.  Subsidie voor (een deel van) de kosten van de in eigen beheer uitgevoerde sanering.   
 
 ### 6  
 
@@ -290,11 +290,11 @@ bewijsstukken waaruit blijkt dat het asbestbevattend afval waarmee de weg is ver
 
 bewijsstukken waaruit blijkt dat het asbest voor 1 oktober 1978 op de weg of de stroken is aangebracht indien de weg crocidoliet (blauw asbest) bevat respectievelijk voor 1 juli 1993 op de weg of de stroken is aangebracht indien de weg of de stroken geen crocidoliet bevat.    
 
-### 7  
+### 7 
 
 ####Ruimte voor aanvullende opmerkingen:...
 
-### 8  
+###8  
 
 Ik verklaar dit formulier volledig en naar waarheid te hebben ingevuld. Indien ik kies voor mogelijkheid 5b, 5c of 5d, zal ik het deel van de kosten van de werkzaamheden betalen dat niet door de overheid wordt vergoed. Indien ik kies voor mogelijkheid 5a, 5b, 5c, 5d of 5e, ga ik ermee akkoord dat een door de provincie Overijssel of Gelderland aangewezen bedrijf of instelling onderzoekt of mijn aanvraag voor een saneringshandeling aan de voorwaarden in de Saneringsregeling asbestwegen tweede fase voldoet en dat dit bedrijf daartoe de weg waarvoor ik een saneringshandeling heb aangevraagd, kan betreden en ter plaatse monsters kan nemen. Ik ga ermee akkoord dat overeenkomstig de `Aanbesteding van provinciale werken' van Provinciale Staten van Overijssel, uitgave juni 1997 of de `Algemene delegatie verordening' van Provinciale Staten van Gelderland van 15 mei 2002 en met inachtneming van het vigerende Uniform Aanbestedingsreglement, wordt bepaald welk bedrijf de werkzaamheden uitvoert en verleen bedoeld bedrijf bij deze toestemming de handelingen op mijn grondgebied uit te voeren. Ik verklaar mijn eventuele aanspraken op grond van onrechtmatige daad jegens Asbestona of Eternit, dan wel een dochtermaatschappij van Asbestona of Eternit, een rechtspersoon waarin Asbestona of Eternit deelneemt of een anderszins organisatorisch aan Asbestona of Eternit verbonden eenheid, voor zover het betreft saneringskosten gemaakt in het kader van deze regeling, over te dragen aan de Staat (in dezen vertegenwoordigd door de Minister van Vokshuisvesting, Ruimelijke Ordening en Milieubeheer).  
 
@@ -302,11 +302,11 @@ Ik verklaar dit formulier volledig en naar waarheid te hebben ingevuld. Indien i
 
 ####Ondertekening:
 
-a. plaats:  
+a.  plaats: 
 
-b. datum:  
+b.  datum: 
 
-c. handtekening:   Het ingevulde formulier zenden naar: Provincie Overijssel, Postbus 10078, 8000 GB Zwolle. Het ingevulde formulier moet voor 1 juni 2003 zijn ontvangen. De Provincie Overijssel of Gelderland zendt u een bericht van ontvangst van de aanvraag.  
+c.  handtekening:  Het ingevulde formulier zenden naar: Provincie Overijssel, Postbus 10078, 8000 GB Zwolle. Het ingevulde formulier moet voor 1 juni 2003 zijn ontvangen. De Provincie Overijssel of Gelderland zendt u een bericht van ontvangst van de aanvraag.  
 
 ####Toelichting op het aanvraagformulier
 

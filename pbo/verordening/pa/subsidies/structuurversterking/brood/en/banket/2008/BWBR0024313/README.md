@@ -28,11 +28,11 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-Ten laste van het fonds kan de commissie namens het bestuur subsidies verstrekken voor activiteiten welke passen binnen het in artikel 3 bedoelde subsidiebeleid.  
+Ten laste van het fonds kan de commissie namens het bestuur subsidies verstrekken voor activiteiten welke passen binnen het in artikel 3 bedoelde subsidiebeleid. 
 
 ### Artikel  3  
 
-Hoofddoelstelling van het subsidiebeleid uit hoofde van de structuurversterking brood en ambachtelijk banket is bij te dragen aan het versterken van de structuur van de branche.  
+Hoofddoelstelling van het subsidiebeleid uit hoofde van de structuurversterking brood en ambachtelijk banket is bij te dragen aan het versterken van de structuur van de branche. 
 
 ### Artikel  4  
 
@@ -48,7 +48,7 @@ d. stimulering op het gebied van arbeidsomstandigheden, milieu, hygiëne, kwalit
 
 e. kennisoverdracht  
 
-f. borgstelling    
+f. borgstelling   
 
 ### Artikel  5  
 
@@ -72,26 +72,26 @@ h. de intrekking en wijziging van de subsidieverlening of –vaststelling;
 
 i. de betaling van de subsidie en het verlenen van voorschotten;  
 
-j. andere criteria voor de verstrekking van de subsidie.    
+j. andere criteria voor de verstrekking van de subsidie.   
 
 ### Artikel  6  
 
-De commissie draagt jaarlijks vóór 1 oktober een ontwerp-begroting alsmede een ontwerpmeerjarenbegroting inzake het benodigde budget voor de verstrekking van subsidies aan het bestuur ter vaststelling voor.  
+De commissie draagt jaarlijks vóór 1 oktober een ontwerp-begroting alsmede een ontwerpmeerjarenbegroting inzake het benodigde budget voor de verstrekking van subsidies aan het bestuur ter vaststelling voor. 
 
 ### Artikel  7  
 
 1.  Subsidies worden slechts verstrekt voor zover het te besteden bedrag is voorzien in de begroting zoals deze is vastgesteld door het bestuur.   
 2.  In geval van toepassing van een subsidieplafond, wordt het daarbij bepaalde bedrag ten hoogste vastgesteld ter grootte van het in de begroting voor de subsidie c.q. subsidieregelingen voorziene bedrag.   
-3.  In bijzondere gevallen kan de commissie besluiten tot afwijking van het bepaalde in het eerste en tweede lid, mits het dagelijks bestuur daartoe zijn toestemming verleent en onder door het dagelijks bestuur daarbij gestelde voorwaarden.   
+3.  In bijzondere gevallen kan de commissie besluiten tot afwijking van het bepaalde in het eerste en tweede lid, mits het dagelijks bestuur daartoe zijn toestemming verleent en onder door het dagelijks bestuur daarbij gestelde voorwaarden.  
 
 ### Artikel  8  
 
-In de begroting van het productschap opgenomen jaarlijks te verstrekken subsidies welke tot het taakgebied van de commissie behoren, worden door het bestuur slechts toegekend met inachtneming van het advies ter zake van de commissie.  
+In de begroting van het productschap opgenomen jaarlijks te verstrekken subsidies welke tot het taakgebied van de commissie behoren, worden door het bestuur slechts toegekend met inachtneming van het advies ter zake van de commissie. 
 
 ### Artikel  9  
 
 1.  De commissie brengt jaarlijks aan het bestuur een verslag uit over de doeltreffendheid van de verstrekte subsidies in de praktijk.   
-2.  Het verslag gaat vergezeld van een accountantsverklaring.   
+2.  Het verslag gaat vergezeld van een accountantsverklaring.  
 
 ### §  3  
 
@@ -99,11 +99,11 @@ In de begroting van het productschap opgenomen jaarlijks te verstrekken subsidie
 
 ### Artikel  10  
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008.  
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008. 
 
 ### Artikel  11  
 
-Deze verordening wordt aangehaald als: Verordening PA subsidies structuurversterking brood en banket 2008.  
+Deze verordening wordt aangehaald als: Verordening PA subsidies structuurversterking brood en banket 2008. 
 
 Den Haag 
 5 juni 2008   

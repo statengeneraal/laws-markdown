@@ -14,17 +14,17 @@ Als personen belast met het toezicht op de naleving van het bepaalde bij of krac
 
 – de directeur van de directie Markt & Consument van het Ministerie van Volksgezondheid, Welzijn en Sport;  
 
-– daartoe door de directeur van de directie Markt & Consument aangewezen ambtenaren van zijn directie.    
+– daartoe door de directeur van de directie Markt & Consument aangewezen ambtenaren van zijn directie.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2006.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2006. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als Regeling aanwijzing toezichthouders Wmg.  
+Deze regeling wordt aangehaald als Regeling aanwijzing toezichthouders Wmg. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

@@ -3,8 +3,8 @@
 ##Vergoedingenregeling leden Adviesraad internationale vraagstukken
 
 De Minister van Buitenlandse Zaken;  
-Gelet op [artikel 14 van de Kaderwet adviescolleges](../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), de [artikelen 3](../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md) en [5 van het Vergoedingenbesluit adviescolleges](../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md) en mede gelet op de [Wet op de Adviesraad internationale vraagstukken](../../../../../../../wet/wet/op/de/adviesraad/internationale/vraagstukken/BWBR0009474/README.md),
-Besluit:    
+Gelet op [artikel 14 van de Kaderwet adviescolleges](../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), de[ artikelen 3](../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md) en [5 van het Vergoedingenbesluit adviescolleges](../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md) en mede gelet op de [Wet op de Adviesraad internationale vraagstukken](../../../../../../../wet/wet/op/de/adviesraad/internationale/vraagstukken/BWBR0009474/README.md),
+Besluit:     
 
 ### Artikel  1  
 
@@ -36,9 +36,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling leden Adviesraad internationale vraagstukken.  
+Deze regeling wordt aangehaald als: Vergoedingenregeling leden Adviesraad internationale vraagstukken. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Buitenlandse Zaken, 
-J.J. vanAartsen    
+J.J. van Aartsen      

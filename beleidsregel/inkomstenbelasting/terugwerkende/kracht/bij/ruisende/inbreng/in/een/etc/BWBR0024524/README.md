@@ -68,11 +68,11 @@ Den Haag
 16 september 2008   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen  
+J. Thunnissen    
 
-### Bijlage  
+### Bijlage 
 
 ####. Model beslissing
 

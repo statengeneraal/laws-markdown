@@ -18,22 +18,22 @@ c. Financiële bijdrage: een geldelijk bedrag op grond van:
 
 – een privaatrechtelijke rechtshandeling als bedoeld in [artikel 32, eerste lid, van de Comptabiliteitswet](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), dan wel  
 
-– een subsidie als bedoeld in [artikel 4:21 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).      
+– een subsidie als bedoeld in [artikel 4:21 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 
 ### Artikel  2  
 
-Met het oog op de vervaardiging, aankoop, totstandkoming of uitzending van een coproductie of een ander omroepprogramma wordt geen financiële bijdrage aan derden verstrekt.  
+Met het oog op de vervaardiging, aankoop, totstandkoming of uitzending van een coproductie of een ander omroepprogramma wordt geen financiële bijdrage aan derden verstrekt. 
 
 ### Artikel  3  
 
-Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2008.  
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2008. 
 
 ### Artikel  4  
 
-Deze beleidsregel wordt aangehaald als: AZ-Beleidsregel beëindiging verstrekking financiële bijdragen aan coproducties en andere omroepprogramma’s.  
+Deze beleidsregel wordt aangehaald als: AZ-Beleidsregel beëindiging verstrekking financiële bijdragen aan coproducties en andere omroepprogramma’s. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister-President, 
-Minister van Algemene Zaken, 
-J.P.Balkenende   
+Minister van Algemene Zaken ,
+J.P. Balkenende     

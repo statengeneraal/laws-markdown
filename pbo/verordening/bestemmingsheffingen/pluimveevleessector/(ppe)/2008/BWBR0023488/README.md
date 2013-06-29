@@ -11,7 +11,10 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 07-06-2009 
+
 ### Artikel  1  
+Materieel uitgewerkt per 07-06-2009 
 
 Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en verstaat voorts onder:  
 
@@ -27,7 +30,10 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 
 ####Broedeieren en eendagskuikens
 
+Materieel uitgewerkt per 07-06-2009 
+
 ### Artikel  2  
+Materieel uitgewerkt per 07-06-2009 
 
 1.  De ondernemer die in het kalenderjaar 2008 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap een bestemmingsheffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van fok- en vermeerderingspluimvee:  
@@ -46,6 +52,7 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 | c.  | voor kalkoenen  | € 0,00212 per ingelegd broedei.  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 07-06-2009 
 
 1.  De ondernemer die eendagskuikens plaatst om deze op te fokken tot grootmoederdieren of moederdieren is aan het productschap een bestemmingsheffing verschuldigd over de aantallen door hem met dat doel in het kalenderjaar 2008 geplaatste eendagskuikens.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt:  
@@ -57,15 +64,19 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 | c.  | voor kalkoenen  | € 0,08828 per eendagskuiken in geval van opfok moederdieren.  |
 
 ### Artikel  4  
+Materieel uitgewerkt per 07-06-2009 
 
 1.  De ondernemer die een opfokvermeerderingsbedrijf uitoefent is over het kalenderjaar 2008 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.   
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor tot geslachtsrijpe moederdieren op te fokken kuikens van vleesrassen kippen op opfokvermeerderingsbedrijven € 0,01765 per eendagskuiken.   
+2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor tot geslachtsrijpe moederdieren op te fokken kuikens van vleesrassen kippen op opfokvermeerderingsbedrijven € 0,01765 per eendagskuiken.  
 
 ### 3  
 
 ####Grootmoederdieren en moederdieren
 
+Materieel uitgewerkt per 07-06-2009 
+
 ### Artikel  5  
+Materieel uitgewerkt per 07-06-2009 
 
 1.  De ondernemer die grootmoederdieren of moederdieren houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 gehouden grootmoederdieren of moederdieren.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt:  
@@ -88,35 +99,44 @@ b. Indien het moederdieren van kalkoenen betreft:
 
 1. zodra de moederdieren zijn geplaatst, of  
 
-2. zodra de moederdieren de leeftijd van 29 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong als zodanig in productie worden genomen.       
+2. zodra de moederdieren de leeftijd van 29 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong als zodanig in productie worden genomen.      
 
 ### Artikel  6  
+Materieel uitgewerkt per 07-06-2009 
 
 1.  De ondernemer die een vermeerderingsbedrijf uitoefent is over het kalenderjaar 2008 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor vleesrassen kippen op de vermeerderingsbedrijven € 0,06087 per moederdier.   
-3.  Indien de functies van opfok- en vermeerderingsbedrijf binnen één bedrijf worden uitgeoefend, is het in het tweede lid genoemde tarief verschuldigd wanneer de moederdieren 20 weken oud zijn.   
+3.  Indien de functies van opfok- en vermeerderingsbedrijf binnen één bedrijf worden uitgeoefend, is het in het tweede lid genoemde tarief verschuldigd wanneer de moederdieren 20 weken oud zijn.  
 
 ### 4  
 
 ####Vleespluimvee
 
-### Artikel  7  
+Materieel uitgewerkt per 07-06-2009 
 
-De ondernemer die vleeskuikens houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 opgezette vleeskuikens tegen een tarief van € 0,00165 per opgezet vleeskuiken.  
+### Artikel  7  
+Materieel uitgewerkt per 07-06-2009 
+
+De ondernemer die vleeskuikens houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 opgezette vleeskuikens tegen een tarief van € 0,00165 per opgezet vleeskuiken. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 07-06-2009 
 
-De ondernemer die eenden houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 afgeleverde eenden tegen een tarief van € 0,00045 per kilogram afgeleverd levend gewicht.  
+De ondernemer die eenden houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 afgeleverde eenden tegen een tarief van € 0,00045 per kilogram afgeleverd levend gewicht. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 07-06-2009 
 
-De ondernemer die vleeskalkoenen houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 opgezette vleeskalkoenen tegen een tarief van € 0,05366 per vleeskalkoen.  
+De ondernemer die vleeskalkoenen houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2008 opgezette vleeskalkoenen tegen een tarief van € 0,05366 per vleeskalkoen. 
 
 ### 5  
 
 ####Geslacht pluimvee
 
+Materieel uitgewerkt per 07-06-2009 
+
 ### Artikel  10  
+Materieel uitgewerkt per 07-06-2009 
 
 1.  De ondernemer die pluimvee slacht is aan het productschap over het geslacht gewicht van het door hem in het kalenderjaar 2008 geslachte pluimvee een bestemmingsheffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt: 
@@ -128,28 +148,35 @@ b. voor vleeskuikens, niet zijnde oude kippen en hanen als bedoeld onder a., €
 c. voor kalkoenen € 0,00003 per kilogram geslacht gewicht,  
 
 d. voor tamme eenden € 0,0008 per kilogram geslacht gewicht.     
-3.  Het bestuur is bevoegd om ter uitvoering van deze verordening met betrekking tot het geslacht gewicht nadere regels te stellen.   
+3.  Het bestuur is bevoegd om ter uitvoering van deze verordening met betrekking tot het geslacht gewicht nadere regels te stellen.  
 
 ### 6  
 
 ####Overige bepalingen
 
-### Artikel  11  
+Materieel uitgewerkt per 07-06-2009 
 
-De heffingen, bedoeld in de artikelen 2 tot en met 10, zijn bestemd voor de fondsen overeenkomstig de nadere verdeling zoals opgenomen in de bijlage.  
+### Artikel  11  
+Materieel uitgewerkt per 07-06-2009 
+
+De heffingen, bedoeld in de artikelen 2 tot en met 10, zijn bestemd voor de fondsen overeenkomstig de nadere verdeling zoals opgenomen in de bijlage. 
 
 ### Artikel  12  
+Materieel uitgewerkt per 07-06-2009 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
 
 ### 7  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 07-06-2009 
+
 ### Artikel  13  
+Materieel uitgewerkt per 07-06-2009 
 
 1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen pluimveevleessector (PPE) 2008.   
-2.  Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008.   
+2.  Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008.  
 
 Zoetermeer 
 1 november 2007   
@@ -161,6 +188,7 @@ B.M. Dellaert
 secretaris   
 
 ### Bijlage  
+Materieel uitgewerkt per 07-06-2009 
 
 ![243005](http://wetten.overheid.nl/Illustration/243005)
 

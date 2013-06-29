@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Aan de voorzitter van de de Stuurgroep Nationaal Historisch Museum wordt in plaats van vacatiegelden een vaste beloning ten bedrage van euro 24.000 zijnde 23% van de jaarwedde, bedoeld in [artikel 3, tweede lid, van het Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md), per jaar toegekend.  
+Aan de voorzitter van de de Stuurgroep Nationaal Historisch Museum wordt in plaats van vacatiegelden een vaste beloning ten bedrage van euro 24.000 zijnde 23% van de jaarwedde, bedoeld in [artikel 3, tweede lid, van het Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md), per jaar toegekend. 
 
 ### Artikel  2  
 
-Indien de voorzitter, bedoeld in artikel 1, niet gedurende 1 jaar de functie van voorzitter bekleedt, wordt de beloning, genoemd in artikel 1, naar evenredigheid vastgesteld.  
+Indien de voorzitter, bedoeld in artikel 1, niet gedurende 1 jaar de functie van voorzitter bekleedt, wordt de beloning, genoemd in artikel 1, naar evenredigheid vastgesteld. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2008. Dit besluit wordt aangehaald als: Besluit vaste beloning voorzitter Stuurgroep Nationaal Historisch Museum.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2008. Dit besluit wordt aangehaald als: Besluit vaste beloning voorzitter Stuurgroep Nationaal Historisch Museum. 
 Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -28,4 +28,4 @@ Beatrix
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk   
+R.H.A. Plasterk     

@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onze Minister van Landbouw, Natuurbeheer en Visserij wordt belast met de zorg voor het beheer met betrekking tot de Voedsel en Waren Autoriteit, voorzover deze zorg voor 27 mei 2003 was opgedragen aan Onze Minister van Volksgezondheid, Welzijn en Sport.  
+Onze Minister van Landbouw, Natuurbeheer en Visserij wordt belast met de zorg voor het beheer met betrekking tot de Voedsel en Waren Autoriteit, voorzover deze zorg voor 27 mei 2003 was opgedragen aan Onze Minister van Volksgezondheid, Welzijn en Sport. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 27 mei 2003.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 27 mei 2003. 
 
 Onze Minister-President, Minister van Algemene Zaken en Onze Ministers van Landbouw, Natuurbeheer en Visserij en van Volksgezondheid, Welzijn en Sport zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van de Nederlandse Antillen en van Aruba en de ministeries.   
 
@@ -29,4 +29,4 @@ J. P. Balkenende
 de negentiende juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

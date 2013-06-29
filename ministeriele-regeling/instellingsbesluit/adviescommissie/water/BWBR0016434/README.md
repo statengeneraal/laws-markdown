@@ -6,19 +6,19 @@ De Staatssecretaris van Verkeer en Waterstaat,  Besluit:
 
 ### Artikel  1  
 
-Er is een Adviescommissie Water, hierna te noemen: de Commissie.  
+Er is een Adviescommissie Water, hierna te noemen: de Commissie. 
 
 ### Artikel  2  
 
-De Commissie heeft tot taak de Minister van Infrastructuur en Milieu gevraagd en ongevraagd te adviseren omtrent de uitvoering van het integraal waterbeleid.  
+De Commissie heeft tot taak de Minister van Infrastructuur en Milieu gevraagd en ongevraagd te adviseren omtrent de uitvoering van het integraal waterbeleid. 
 
 ### Artikel  3  
 
-Voor zover het voor de vervulling van haar taak nodig is kan de Commissie inlichtingen verlangen van bestuursorganen, deskundigen en andere belanghebbenden.  
+Voor zover het voor de vervulling van haar taak nodig is kan de Commissie inlichtingen verlangen van bestuursorganen, deskundigen en andere belanghebbenden. 
 
-### Artikel  4  
+###Artikel 4 
 
-De Commissie bestaat uit acht leden, onder wie de voorzitter.  
+De Commissie bestaat uit acht leden, onder wie de voorzitter.
 
 ### Artikel  5  
 
@@ -37,32 +37,32 @@ d. F. Tielrooij te Muiderberg;
 e. E. Togtema te Drachten;  
 
 f. prof. dr. Th. Toonen te Oude Wetering.     
-4.  De leden van de Commissie kunnen voor een tijdvak van vier jaar worden herbenoemd.   
+4.  De leden van de Commissie kunnen voor een tijdvak van vier jaar worden herbenoemd.  
 
 ### Artikel  6  
 
-De Commissie kiest uit haar midden een plaatsvervangend voorzitter.  
+De Commissie kiest uit haar midden een plaatsvervangend voorzitter. 
 
 ### Artikel  7  
 
 1.  Het secretariaat van de Commissie berust bij het Ministerie van Infrastructuur en Milieu.   
 2.  De secretaris is voor zijn werkzaamheden voor de Commissie uitsluitend verantwoording schuldig aan de Commissie.   
-3.  Indien de Commissie wordt opgeheven draagt de secretaris het archief over aan de beheerder van het archief van het Ministerie van Infrastructuur en Milieu, met inachtneming van het bepaalde in het Besluit archiefoverdrachten rijksadministratie.   
+3.  Indien de Commissie wordt opgeheven draagt de secretaris het archief over aan de beheerder van het archief van het Ministerie van Infrastructuur en Milieu, met inachtneming van het bepaalde in het [Besluit archiefoverdrachten rijksadministratie](../../../../../KB/besluit/archiefoverdrachten/rijksadministratie/BWBR0004427/README.md).  
 
 ### Artikel  8  
 
 1.  Aan de leden, met inbegrip van de voorzitter, wordt een vaste vergoeding per maand toegekend.   
-2.  De toepasselijke arbeidsduurfactor wordt vastgesteld op 0,1 van het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+2.  De toepasselijke arbeidsduurfactor wordt vastgesteld op 0,1 van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).  
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatsten werkt terug tot en met 10 februari 2004.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatsten werkt terug tot en met 10 februari 2004. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Water.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Water. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H.  Schultz van Haegen      

@@ -9,6 +9,7 @@ Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-02-2009 
 
 Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en verstaat voorts onder:  
 
@@ -19,27 +20,31 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 | 3.  | voedsters  | :  | moederdieren van konijnen.  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-02-2009 
 
 1.  De ondernemer die konijnen houdt is aan het productschap een heffing verschuldigd tegen het in het tweede lid bepaalde tarief en de daarbij gegeven bestemming over het aantal voedsters en vleeskonijnen dat hij volgens opgave in het kader van de Landbouwtelling in het kalenderjaar 2007 houdt.   
 2.  De in het eerste lid bedoelde heffing bedraagt: 
 
 a. € 1,39 per voedster, waarvan: € 0,64 voor het o. en o. fonds en € 0,75 voor het gezondheidszorgfonds is bestemd.  
 
-b. € 0,0745 per vleeskonijn, waarvan: € 0,0380 voor het o. en o. fonds en € 0,0365 voor het gezondheidszorgfonds is bestemd.     
+b. € 0,0745 per vleeskonijn, waarvan: € 0,0380 voor het o. en o. fonds en € 0,0365 voor het gezondheidszorgfonds is bestemd.    
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-02-2009 
 
 1.  De ondernemer die nertsen of vossen houdt is aan het productschap een heffing verschuldigd tegen het in het tweede lid bepaalde tarief en de daarbij gegeven bestemming over het aantal moederdieren nertsen en moederdieren vossen dat hij volgens opgave in het kader van de Landbouwtelling in het kalenderjaar 2008 houdt.   
-2.  De in het eerste lid bedoelde heffing bedraagt: € 0,41165 per moederdier nerts en moederdier vos, waarvan: € 0,30 voor het o. en o. fonds en € 0,11165 voor het gezondheidszorgfonds is bestemd.   
+2.  De in het eerste lid bedoelde heffing bedraagt: € 0,41165 per moederdier nerts en moederdier vos, waarvan: € 0,30 voor het o. en o. fonds en € 0,11165 voor het gezondheidszorgfonds is bestemd.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-02-2009 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-02-2009 
 
 1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen konijnen en edelpelsdieren (PPE) 2008.   
-2.  Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008.   
+2.  Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2008, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2008.  
 
 Zoetermeer 
 1 november 2007   

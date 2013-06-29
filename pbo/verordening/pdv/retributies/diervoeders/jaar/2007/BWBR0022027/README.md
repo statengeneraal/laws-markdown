@@ -11,11 +11,11 @@ Besluit:
 
 ### Artikel  1  
 
-Deze verordening verstaat onder: productschap: Productschap Diervoeder secretaris: secretaris van het productschap; ondernemer: degene die een onderneming drijft waarvoor het productschap is ingesteld.  
+Deze verordening verstaat onder: productschap: Productschap Diervoeder secretaris: secretaris van het productschap; ondernemer: degene die een onderneming drijft waarvoor het productschap is ingesteld. 
 
 ### Artikel  2  
 
-In het geval in een verordening van het bestuur wordt bepaald dat de ondernemer verplicht is aan het productschap een retributie te betalen voor, door of namens het productschap verrichte werkzaamheden is het bepaalde in of krachtens deze verordening van toepassing.  
+In het geval in een verordening van het bestuur wordt bepaald dat de ondernemer verplicht is aan het productschap een retributie te betalen voor, door of namens het productschap verrichte werkzaamheden is het bepaalde in of krachtens deze verordening van toepassing. 
 
 ### §  2  
 
@@ -24,9 +24,9 @@ In het geval in een verordening van het bestuur wordt bepaald dat de ondernemer 
 ### Artikel  3  
 
 1.  De ondernemer die het productschap verzoekt om afgifte van een free sale certificaat voor gemedicineerde voeders is hiervoor aan het productschap een retributie verschuldigd.   
-2.  De retributie bedraagt: € 17,50 per certificaat.   
+2.  De retributie bedraagt: € 17,50 per certificaat.  
 
-### §  3  
+### §   3  
 
 ####Retributie Kwaliteitsdienst Landbouwkundige Laboratoria
 
@@ -60,20 +60,20 @@ In het geval in een verordening van het bestuur wordt bepaald dat de ondernemer 
 
 ### Artikel  5  
 
-Het productschap kan verrekeningen van bedragen kleiner dan € 50 achterwege laten.  
+Het productschap kan verrekeningen van bedragen kleiner dan € 50 achterwege laten. 
 
 ### Artikel  6  
 
-De retributies verschuldigd uïterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening is gebracht, dan wel, indien de secretaris zulks verlangt, voor een door deze te bepalen datum.  
+De retributies verschuldigd uïterlijk op de eenentwintigste dag volgend op die waarop zij door of vanwege het productschap in rekening is gebracht, dan wel, indien de secretaris zulks verlangt, voor een door deze te bepalen datum. 
 
 ### Artikel  7  
 
-Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  
+Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termijn heeft betaald, kan door het productschap de wettelijke interest over het niet betaalde bedrag in rekening worden gebracht, te berekenen vanaf de dag waarop de betaling uiterlijk diende te zijn verricht ingevolge de aanmaning bedoeld in [artikel 127, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
 
 ### Artikel  8  
 
 1.  De gegevens verkregen uit hoofde van het bepaalde in deze verordening dienen in handen van de secretaris te worden gesteld of door deze aan te wijzen personen van het secretariaat van het (hoofd-)productschap.   
-2.  Deze gegevens mogen slechts worden gebezigd voor de vervuiling van de taak van het productschap en mogen niet onder vermelding of aanduiding van de onderneming, waarop zij betrekking hebben, aan het bestuur, het dagelijks bestuur, een commissie van het (hoofd)productschap of aan leden of plaatsvervangende leden daarvan worden overgelegd.   
+2.  Deze gegevens mogen slechts worden gebezigd voor de vervuiling van de taak van het productschap en mogen niet onder vermelding of aanduiding van de onderneming, waarop zij betrekking hebben, aan het bestuur, het dagelijks bestuur, een commissie van het (hoofd)productschap of aan leden of plaatsvervangende leden daarvan worden overgelegd.  
 
 ### §  5  
 
@@ -81,16 +81,16 @@ Aan de ondernemer die niet of niet geheel binnen de in artikel 9 gestelde termij
 
 ### Artikel  9  
 
-Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2007.  
+Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2007. 
 
 ### Artikel  10  
 
 1.  De [Verordening PDV retributies diervoeders jaar 2006](../../../../../../../../pbo/verordening/pdv/retributies/diervoeders/jaar/2006/BWBR0019020/README.md) wordt ingetrokken.   
-2.  De in het eerste lid genoemde verordening biijft van kracht voor zover het betreft de op grond van die verordening verschuldigde, maar nog niet in rekening gebrachte dan wel betaalde bedragen.   
+2.  De in het eerste lid genoemde verordening biijft van kracht voor zover het betreft de op grond van die verordening verschuldigde, maar nog niet in rekening gebrachte dan wel betaalde bedragen.  
 
 ### Artikel  11  
 
-Deze verordening wordt aangehaald als: Verordening PDV retributies diervoeders jaar 2007.  
+Deze verordening wordt aangehaald als: Verordening PDV retributies diervoeders jaar 2007. 
 
 Den Haag 
 14 februari 2007   

@@ -11,15 +11,21 @@ Besluit:
 
 ####Begripsbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 10-02-2008 
 
-Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) over en verstaat daarnaast onder Veeziektenfonds PPE: het fonds als bedoeld in artikel 1 van de Verordening veeziektenfonds (PPE) 2004.  
+### Artikel  1  
+Materieel uitgewerkt per 10-02-2008 
+
+Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) over en verstaat daarnaast onder Veeziektenfonds PPE: het fonds als bedoeld in artikel 1 van de Verordening veeziektenfonds (PPE) 2004. 
 
 ### 2  
 
 ####Pluimveevleessector
 
+Materieel uitgewerkt per 10-02-2008 
+
 ### Artikel  2  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die in het kalenderjaar 2007 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van fok- en vermeerderingspluimvee:  
@@ -32,14 +38,15 @@ Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalin
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | voor vleesrassen kippen  | € 0,00009 per ingelegd broedei,  |
-| b.  | voor kalkoenen  | € 0,00107 per ingelegd broedei,  |
-| c.  | voor eenden  | € 0,00021 per ingelegd broedei.  |
+| a.  | voor vleesrassen kippen  | € 0,00009 per ingelegd broedei, |
+| b.  | voor kalkoenen  | € 0,00107 per ingelegd broedei, |
+| c.  | voor eenden  | € 0,00021 per ingelegd broedei. |
 
 ### Artikel  3  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die eendagskuikens plaatst om deze op te fokken tot grootmoederdieren of moederdieren is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de aantallen door hem met dat doel in het kalenderjaar 2007 geplaatste eendagskuikens.   
-2.  De tarieven van de in het eerste lid bedoelde heffing bedragen ingeval van opfok grootmoederdieren:  
+2.  De tarieven van de in het eerste lid bedoelde heffing bedragen ingeval van opfok grootmoederdieren: 
 
 | --- | --- |
 |:---|:---|
@@ -50,18 +57,19 @@ Deze verordening neemt de begripsbepalingen van de [Verordening algemene bepalin
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
 | a.  | voor vleesrassen kippen  | € 0,02146  | per eendagskuiken voor opfok moederdieren,  |
-| b.  | voor kalkoenen  | € 0,06936  | per eendagskuiken voor opfok moederdieren.  |
+| b.  | voor kalkoenen   | € 0,06936  | per eendagskuiken voor opfok moederdieren.  |
 
 ### Artikel  4  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die grootmoederdieren of moederdieren houdt is aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het Veeziektenfonds PPE over de door hem in het kalenderjaar 2007 gehouden grootmoederdieren en moederdieren.   
 2.  De tarieven van de in het eerste lid bedoelde heffing bedragen:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| a.  | voor vleesrassen kippen  | € 0,18756  | per grootmoederdier,  |
-| b.  | voor vleesrassen kippen  | € 0,06125  | per moederdier,  |
-| c.  | voor kalkoenen  | € 0,14936  | per moederdier.  |
+| a.  | voor vleesrassen kippen   | € 0,18756  | per grootmoederdier,  |
+| b.  | voor vleesrassen kippen   | € 0,06125   | per moederdier,  |
+| c.  | voor kalkoenen   | € 0,14936   | per moederdier.  |
 
 3.  De in het eerste lid bedoelde heffing is éénmaal gedurende het leven van een grootmoederdier of moederdier verschuldigd: 
 
@@ -75,37 +83,44 @@ b. Indien het moederdieren van kalkoenen betreft:
 
 1. zodra de moederdieren zijn geplaatst, of  
 
-2. zodra de moederdieren de leeftijd van 29 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong als zodanig in productie worden genomen.       
+2. zodra de moederdieren de leeftijd van 29 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong als zodanig in productie worden genomen.      
 
 ### Artikel  5  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die eenden houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 afgeleverde eenden.   
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,00085 per kilogram afgeleverd levend gewicht.   
+2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,00085 per kilogram afgeleverd levend gewicht.  
 
 ### Artikel  6  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die vleeskuikens houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 opgezette vleeskuikens.   
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,0013 opgezet vleeskuiken.   
+2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,0013 opgezet vleeskuiken.  
 
 ### Artikel  7  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die vleeskalkoenen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 opgezette vleeskalkoenen.   
-2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,04288 per opgezet vleeskalkoen.   
+2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt € 0,04288 per opgezet vleeskalkoen.  
 
 ### 3  
 
 ####Legsector
 
+Materieel uitgewerkt per 10-02-2008 
+
 ### Artikel  8  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die in het kalenderjaar 2007 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen, inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd.   
 2.  De tarieven van de in het eerste lid bedoelde heffing bedragen voor broedeieren: 
 
 a. voor legrassen kippen voor het verkrijgen van fok- en vermeerderingspluimvee € 0,00385 per ingelegd broedei,  
 
-b. voor legrassen kippen voor het verkrijgen van gebruikspluimvee € 0,00009 per ingelegd broedei.     
+b. voor legrassen kippen voor het verkrijgen van gebruikspluimvee € 0,00009 per ingelegd broedei.    
 
 ### Artikel  9  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die eendagskuikens plaatst om deze op te fokken tot grootmoederdieren, moederdieren of gebruikspluimvee is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de aantallen door hem met dat doel in het kalenderjaar 2007 geplaatste eendagskuikens.   
 2.  De tarieven van de in het eerste lid bedoelde heffing bedragen: 
@@ -114,9 +129,10 @@ a. voor legrassen kippen ingeval van opfok gebruikspluimvee € 0,00419 per een
 
 b. voor legrassen kippen ingeval van opfok grootmoederdieren € 0,11481 per eendagskuiken,  
 
-c. voor legrassen kippen ingeval van opfok moederdieren € 0,0251 per eendagskuiken.     
+c. voor legrassen kippen ingeval van opfok moederdieren € 0,0251 per eendagskuiken.    
 
 ### Artikel  10  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die grootmoederdieren of moederdieren voor legrassen kippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 gehouden grootmoederdieren of moederdieren.   
 2.  De tarieven van de in het eerste lid bedoelde heffing bedragen: 
@@ -128,9 +144,10 @@ b. € 0,05528 per moederdier.
 
 a. zodra de grootmoederdieren of moederdieren zijn geplaatst, of  
 
-b. zodra de grootmoederdieren of moederdieren de leeftijd van 20 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong in productie worden genomen.     
+b. zodra de grootmoederdieren of moederdieren de leeftijd van 20 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong in productie worden genomen.    
 
 ### Artikel  11  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die kippen in kooien, scharrelkippen, vrije uitloopkippen of biologische kippen houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over deze door hem in het kalenderjaar 2007 gehouden kippen.   
 2.  De tarieven van de in het eerste lid bedoelde heffing bedragen: 
@@ -146,50 +163,62 @@ d. voor biologische kippen € 0,04414 per kip.
 
 a. zodra deze kippen zijn geplaatst, of  
 
-b. zodra deze kippen de leeftijd van 18 weken hebben bereikt.     
+b. zodra deze kippen de leeftijd van 18 weken hebben bereikt.    
 
 ### 4  
 
 ####Loopvogels
 
+Materieel uitgewerkt per 10-02-2008 
+
 ### Artikel  12  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  De ondernemer die loopvogels houdt is aan het productschap ten behoeve van het Veeziektenfonds PPE een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2007 gehouden loopvogels.   
 2.  Het tarief van de in het eerste lid genoemde heffing bedraagt: 
 
-a.  dit onderdeel is nog niet in werking getreden;   
+a. dit onderdeel is nog niet in werking getreden;  
 
-b.  dit onderdeel is nog niet in werking getreden;   
+b. dit onderdeel is nog niet in werking getreden;  
 
-c.  dit onderdeel is nog niet in werking getreden.      
+c. dit onderdeel is nog niet in werking getreden.     
 3.  De in het tweede lid, onderdeel a. bedoelde heffing is verschuldigd op het moment van het afleveren van het eendagskuiken, dan wel, indien de loopvogel het bedrijf van de ondernemer niet verlaat, op het moment waarop het kuiken 72 uur oud is geworden.   
-4.  De in het tweede lid, onderdelen b. en c., bedoelde heffing is per kwartaal verschuldigd over het aantal loopvogels dat op 1 januari, 1 april, 1 juli respectievelijk 1 oktober op het bedrijf van de ondernemer aanwezig is.   
+4.  De in het tweede lid, onderdelen b. en c., bedoelde heffing is per kwartaal verschuldigd over het aantal loopvogels dat op 1 januari, 1 april, 1 juli respectievelijk 1 oktober op het bedrijf van de ondernemer aanwezig is.  
 
 ### 5  
 
 ####Vaccinbroedeieren
 
-### Artikel  13  
+Materieel uitgewerkt per 10-02-2008 
 
-De ondernemer die in het kalenderjaar 2007 vaccinbroedeieren inlegt of pleegt in te leggen, is aan het productschap een heffing verschuldigd tegen een tarief van € 0,00009 per ingelegd vaccinbroedei.  
+### Artikel  13  
+Materieel uitgewerkt per 10-02-2008 
+
+De ondernemer die in het kalenderjaar 2007 vaccinbroedeieren inlegt of pleegt in te leggen, is aan het productschap een heffing verschuldigd tegen een tarief van € 0,00009 per ingelegd vaccinbroedei. 
 
 ### 6  
 
 ####Overige bepalingen
 
-### Artikel  14  
+Materieel uitgewerkt per 10-02-2008 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+### Artikel  14  
+Materieel uitgewerkt per 10-02-2008 
+
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
 
 ### 7  
 
 ####Slotbepalingen
 
+Materieel uitgewerkt per 10-02-2008 
+
 ### Artikel  15  
+Materieel uitgewerkt per 10-02-2008 
 
 1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen Veeziektenfonds (PPE) 2007.   
 2.  Deze verordening treedt, met uitzondering van artikel 12, tweede lid, onderdelen a., b. en c., in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2007.   
-3.  Artikel 12, tweede lid, onderdelen a., b. en c., treden in werking op een door het bestuur bij besluit nader te bepalen tijdstip, dat voor deze onderdelen verschillend kan worden vastgesteld.   
+3.  Artikel 12, tweede lid, onderdelen a., b. en c., treden in werking op een door het bestuur bij besluit nader te bepalen tijdstip, dat voor deze onderdelen verschillend kan worden vastgesteld.  
 
 Zoetermeer 
 2 november 2006   

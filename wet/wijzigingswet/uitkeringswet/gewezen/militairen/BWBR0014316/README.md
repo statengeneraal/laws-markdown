@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Uitkeringswet gewezen militairen.   
+Wijzigt de Uitkeringswet gewezen militairen.  
 
 ### Artikel  II  
 
-De [artikelen 1, eerste lid, onderdeel d](../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), en [3 van de Uitkeringswet gewezen militairen](../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), zoals deze op de dag vóór de inwerkingtreding van deze wet luidden, blijven op de gewezen militair die op die dag aanspraak had op een uitkering ingevolge die wet van toepassing, totdat de eerste 60 maanden nadat de uitkering is ingegaan zijn verstreken.  
+De [artikelen 1, eerste lid, onderdeel d](../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), en [3 van de Uitkeringswet gewezen militairen](../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md), zoals deze op de dag vóór de inwerkingtreding van deze wet luidden, blijven op de gewezen militair die op die dag aanspraak had op een uitkering ingevolge die wet van toepassing, totdat de eerste 60 maanden nadat de uitkering is ingegaan zijn verstreken. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en werkt terug tot en met 1 januari 2001.  
+Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en werkt terug tot en met 1 januari 2001. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -28,9 +28,9 @@ Gegeven te 's-Gravenhage
 Beatrix  
 
 De Staatssecretaris van Defensie, 
-C. van der Knaap   
+C. van der Knaap    
 
 de negende januari 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

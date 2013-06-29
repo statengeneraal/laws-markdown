@@ -12,17 +12,17 @@ De vergoeding per vergadering, bedoeld in [artikel 3 van het Vergoedingenbesluit
 
 – voor de voorzitter: € 187,  
 
-– voor de overige leden: € 125.    
+– voor de overige leden: € 125.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 22 juni 2007.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 22 juni 2007. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 14 juni 2007   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 directeur Wetgeving, 
-J.T.K.Bos   
+J.T.K. Bos     

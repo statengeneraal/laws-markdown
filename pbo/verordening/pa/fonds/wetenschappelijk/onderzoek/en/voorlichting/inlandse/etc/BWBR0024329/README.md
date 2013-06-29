@@ -17,7 +17,7 @@ Besluit:
 
 a. de opbrengst van de heffing uit hoofde van de Heffingsverordening PA inlands graan;  
 
-b. de van de middelen van het fonds gekweekte rente.     
+b. de van de middelen van het fonds gekweekte rente.    
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ a. bijdragen in de financiering van aangelegenheden verband houdende met het opt
 
 b. bijdragen ter financiering van voorlichting samenhangende met het onder a. genoemde doel;  
 
-c. administratiekosten.    
+c. administratiekosten.   
 
 ### §  2  
 
@@ -35,11 +35,11 @@ c. administratiekosten.
 
 ### Artikel  3  
 
-Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008.  
+Deze verordening treedt in werking met ingang van 1 juli 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 juli 2008, treedt zij in werking met ingang van de tweede dag na de dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 juli 2008. 
 
 ### Artikel  4  
 
-Deze verordening wordt aangehaald als: Verordening PA fonds wetenschappelijk onderzoek en voorlichting inlandse granen 2008.  
+Deze verordening wordt aangehaald als: Verordening PA fonds wetenschappelijk onderzoek en voorlichting inlandse granen 2008. 
 
 Den Haag 
 5 juni 2008   

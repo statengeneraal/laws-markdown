@@ -9,6 +9,7 @@ Gezien de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 20-01-2008 
 
 Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(pvv)/2005/BWBR0017340/README.md) en verstaat voorts onder:  
 
@@ -19,6 +20,7 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 | c.  | kwaliteitsverbeteringsfonds:  | fonds als bedoeld in [artikel 1 van de Verordening fonds kwaliteitsverbetering (PVV) 2005](../../../../../../../../../pbo/verordening/fonds/voor/kwaliteitsverbetering/(pvv)/2005/BWBR0017337/README.md).  |
 
 ### Artikel  2  
+Materieel uitgewerkt per 20-01-2008 
 
 1.  De ondernemer die in het jaar 2007 één of meer dieren slacht of doet slachten, dan wel uitvoert, is aan het productschap een heffing verschuldigd tegen het in het tweede lid bepaalde tarief ten behoeve van de daarbij gegeven bestemming.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt: 
@@ -40,16 +42,18 @@ c. aflevert aan een (rechts)persoon wiens bedrijf niet in Nederland is gevestigd
 
 a. de periode tussen het tijdstip van invoer en het tijdstip van slacht korter is dan twee maanden;  
 
-b. de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter is dan twee maanden.     
+b. de periode tussen het tijdstip van invoer en het tijdstip van uitvoer korter is dan twee maanden.    
 
 ### Artikel  3  
+Materieel uitgewerkt per 20-01-2008 
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/fonds/gezondheidszorg/(pvv)/2005/BWBR0017338/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PVV) 2005](../../../../../../../../../pbo/verordening/fonds/gezondheidszorg/(pvv)/2005/BWBR0017338/README.md). 
 
 ### Artikel  4  
+Materieel uitgewerkt per 20-01-2008 
 
 1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen schapen en geiten (PVV) 2007.   
-2.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, dan treedt zij in werking op de tweede dag na de dag van publicatie en werkt zij terug tot en met 1 januari 2007.   
+2.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2007, dan treedt zij in werking op de tweede dag na de dag van publicatie en werkt zij terug tot en met 1 januari 2007.  
 
 Zoetermeer 
 1 november 2006   

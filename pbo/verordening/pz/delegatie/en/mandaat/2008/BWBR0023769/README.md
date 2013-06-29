@@ -12,16 +12,16 @@ Voor de toepassing van deze verordening wordt met de verlening van mandaat gelij
 
 a. volmacht om privaatrechtelijke rechthandelingen te verrichten, en  
 
-b. machtiging om handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.    
+b. machtiging om handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.   
 
 ### Artikel  2  
 
 1.  De voorzitter is belast met de uitvoering van verordeningen en besluiten van het bestuur, voor zover niet anders is bepaald.   
-2.  De voorzitter is bevoegd om in spoedeisende gevallen ontwerpverordeningen als bedoeld in [artikel 100, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) op te stellen en bekend te maken.   
+2.  De voorzitter is bevoegd om in spoedeisende gevallen ontwerpverordeningen als bedoeld in [artikel 100, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) op te stellen en bekend te maken.  
 
 ### Artikel  3  
 
-De aan het bestuur toekomende bevoegdheden ter uitvoering van het bepaalde bij of krachtens de [In- en uitvoerwet](../../../../../../../../wet/in-/en/uitvoerwet/BWBR0002376/README.md), de [Algemene douanewet](../../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), de [Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en de [Meststoffenwet](../../../../../../../../wet/meststoffenwet/BWBR0004054/README.md) worden uitgeoefend door de voorzitter.  
+De aan het bestuur toekomende bevoegdheden ter uitvoering van het bepaalde bij of krachtens de [In- en uitvoerwet](../../../../../../../../wet/in-/en/uitvoerwet/BWBR0002376/README.md), de [Algemene douanewet](../../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), de [Landbouwwet](../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en de [Meststoffenwet](../../../../../../../../wet/meststoffenwet/BWBR0004054/README.md) worden uitgeoefend door de voorzitter. 
 
 ### Artikel  4  
 
@@ -31,7 +31,7 @@ De aan het bestuur toekomende bevoegdheden ter uitvoering van het bepaalde bij o
 
 a. secretaris;  
 
-b. afdelingshoofden.   De voorzitter kan bij verlening van ondermandaat als hier bedoeld toestaan dat degenen aan wie ondermandaat is verleend ondermandaat verlenen aan een onder hen ressorterende medewerker.   
+b. afdelingshoofden.   De voorzitter kan bij verlening van ondermandaat als hier bedoeld toestaan dat degenen aan wie ondermandaat is verleend ondermandaat verlenen aan een onder hen ressorterende medewerker.  
 
 ### Artikel  5  
 
@@ -46,28 +46,28 @@ c. aangelegenheden betreffende de uitvoering van het financieel beleid en beheer
 
 a. afdelingshoofden;  
 
-b. andere medewerkers van het productschap.   De secretaris kan bij verlening van ondermandaat als bedoeld onder a toestaan dat deze ondermandaat verleent aan een onder het afdelingshoofd ressorterende medewerker.   
+b. andere medewerkers van het productschap.   De secretaris kan bij verlening van ondermandaat als bedoeld onder a toestaan dat deze ondermandaat verleent aan een onder het afdelingshoofd ressorterende medewerker.  
 
 ### Artikel  6  
 
 1.  Het hoofd Juridische Zaken houdt een register bij van de verleende ondermandaten als bedoeld in artikel 4, derde lid en artikel 5, tweede lid.   
-2.  Een afschrift van het in het eerste lid bedoelde register ligt ter inzake bij afdeling Juridische Zaken.   
+2.  Een afschrift van het in het eerste lid bedoelde register ligt ter inzake bij afdeling Juridische Zaken.  
 
 ### Artikel  7  
 
-Indien een bevoegdheid krachtens (onder)mandaat wordt uitgeoefend, worden de daarop betrekking hebbende documenten als volgt ondertekend: PRODUCTSCHAP ZUIVEL, De voorzitter, respectievelijk De secretaris, voor deze, gevolgd door de handtekening, naam en functie van de (onder)gemandateerde.  
+Indien een bevoegdheid krachtens (onder)mandaat wordt uitgeoefend, worden de daarop betrekking hebbende documenten als volgt ondertekend: PRODUCTSCHAP ZUIVEL, De voorzitter, respectievelijk De secretaris, voor deze, gevolgd door de handtekening, naam en functie van de (onder)gemandateerde. 
 
 ### Artikel  8  
 
-De Verordening PZ 1998, Delegatie bestuursbevoegdheden en werkwijze van het secretariaat en Machtigingsbesluit secretaris Productschap Zuivel komen te vervallen.  
+De Verordening PZ 1998, Delegatie bestuursbevoegdheden en werkwijze van het secretariaat en Machtigingsbesluit secretaris Productschap Zuivel komen te vervallen. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van 1 april 2008.  
+Dit besluit treedt in werking met ingang van 1 april 2008. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als Verordening PZ Delegatie en mandaat 2008.  
+Dit besluit wordt aangehaald als Verordening PZ Delegatie en mandaat 2008. 
 
 Zoetermeer 
 26 maart 2008   

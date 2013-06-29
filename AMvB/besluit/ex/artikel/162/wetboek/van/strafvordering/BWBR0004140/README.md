@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen: 
+Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen:  
 
 1°. het Algemeen Burgerlijk Pensioenfonds en het Spoorwegpensioenfonds;  
 
@@ -25,7 +25,7 @@ Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [a
 
 4°. de Nederlandse Zorgautoriteit;  
 
-5°.  Vervallen.   
+5°. Vervallen.  
 
 6°. instellingen, in het belang van de volkshuisvesting werkzaam, als toegelaten op grond van [artikel 59 van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md) (*Stb.* 1962, 287);  
 
@@ -33,11 +33,11 @@ Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [a
 
 8°. de keuringsinstellingen, bedoeld in [artikel 87 van de Zaaizaad- en plantgoedwet](../../../../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) (*Stb.* 1966, 455);  
 
-9°. de Stichting Gezondheidszorg voor Dieren en de als organen van deze stichting aangewezen gezondheidsdiensten (Bekendmaking van het landbouwschap Mb.BO. 1972, nr. 8).    
+9°. de Stichting Gezondheidszorg voor Dieren en de als organen van deze stichting aangewezen gezondheidsdiensten (Bekendmaking van het landbouwschap Mb.BO. 1972, nr. 8).   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

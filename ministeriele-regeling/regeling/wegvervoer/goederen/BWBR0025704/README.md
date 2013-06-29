@@ -3,7 +3,7 @@
 ##Regeling tot uitvoering van de Wet wegvervoer goederen (Regeling wegvervoer goederen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 1.1](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.1, derde lid, onder a en b](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.2](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.3, vierde en zevende lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.6](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.8, vierde lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.11, derde en vierde lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.13, tweede lid, onderdeel b, en derde lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [4.1, tweede lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), en [4.3, tweede lid, van de Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);
+Gelet op de artikelen 1.1, 2.1, derde lid, onder a en b, 2.2, 2.3, vierde en zevende lid, 2.6, 2.8, vierde lid, 2.11, derde en vierde lid, 2.13, tweede lid, onderdeel b, en derde lid, 4.1, tweede lid, en 4.3, tweede lid, van de Wet wegvervoer goederen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -11,14 +11,16 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder wet: [Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md).  
+In deze regeling wordt verstaan onder: 
+
+*besluit:* Besluit wegvervoer goederen;  
+
+*wet:* Wet wegvervoer goederen.    
 
 ### Artikel  2  
 
-1.  Als beroepsrichtlijn voor het wegvervoer wordt aangewezen: richtlijn 96/26/EG van de raad van 29 april 1996 inzake de toegang tot het beroep van ondernemer van goederen-, respectievelijk personenvervoer over de weg, nationaal en internationaal, en inzake de wederzijdse erkenning van diploma’s, certificaten en andere titels ter vergemakkelijking van de uitoefening van het recht van vrije vestiging van bedoelde vervoerondernemer (PbEG L 124).   
-2.  Als cabotageverordening voor het wegvervoer wordt aangewezen verordening (EEG) nr. 3118/93 van de Raad van Europese Gemeenschappen van 25 oktober 1993 tot vaststelling van de voorwaarden waaronder vervoerders worden toegelaten tot het binnenlands goederenvervoer over de weg in een lidstaat waarin zij niet gevestigd zijn (PbEG L 279).   
-3.  Als marktverordening voor het wegvervoer wordt aangewezen verordening (EEG) nr. 881/92 van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lidstaat of over het grondgebied van een of meer lidstaten (PbEG L 95).   
-4.  Als vrijstellingsrichtlijn voor het wegvervoer wordt aangewezen richtlijn nr. 2006/94/EG van het Europees parlement en de Raad van 12 december 2006 betreffende de vaststelling van gemeenschappelijke regels voor bepaalde soorten goederenvervoer (PbEU L 374).   
+1.  Als beroepsverordening voor het wegvervoer wordt aangewezen verordening (EG) nr. 1071/2009 van het Europees parlement en de Raad van de Europese Unie van 21 oktober 2009 tot vaststelling van gemeenschappelijke voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad (PbEU L 300).   
+2.  Als marktverordening voor het wegvervoer wordt aangewezen verordening (EG) nr. 1072/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg (PbEU L 300).   
 
 ### Hoofdstuk  2  
 
@@ -26,15 +28,15 @@ In deze regeling wordt verstaan onder wet: [Wet wegvervoer goederen](../../../..
 
 ### Artikel  3  
 
-Als vervoer, bedoeld in [artikel 2.1, derde lid, onder a, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), wordt aangewezen: 
+Als vervoer, bedoeld in artikel 4 van het besluit wordt aangewezen: 
 
 a. vervoer bij de verwijdering van huishoudelijke afvalstoffen die vrijkomen uit percelen waar zodanige stoffen geregeld in particuliere huishoudens ontstaan;  
 
 b. vervoer bij de verwijdering van afvalstoffen die vrijkomen bij de uitvoering van reinigingswerken welke door, of in opdracht van, gemeentelijke diensten worden verricht;  
 
-c. vervoer van beer, kolkafval, spoel- en sproeiwater voor het reinigen van de openbare weg, en zand en chemicaliën voor de bestrijding van gladheid van wegen en destructiemateriaal als bedoeld in [artikel 2 van de Destructiewet](../../../../../wet/destructiewet/BWBR0002244/README.md), voor zover dit vervoer geschiedt met in het bijzonder voor deze doelen ingerichte of uitgeruste vrachtauto's;  
+c. vervoer van beer, kolkafval, spoel- en sproeiwater voor het reinigen van de openbare weg, en zand en chemicaliën voor de bestrijding van gladheid van wegen en destructiemateriaal als bedoeld in artikel 2 van de Destructiewet, voor zover dit vervoer geschiedt met in het bijzonder voor deze doelen ingerichte of uitgeruste vrachtauto's;  
 
-d. vervoer van landbouwproducten of goederen, te gebruiken bij het verrichten van landbouwwerkzaamheden, met een landbouwtrekker als bedoeld in [afdeling 5.8 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), alsmede de daardoor voortbewogen aanhangwagens, mits het betreft eigen vervoer verricht door een landbouwer ten dienste van zijn landbouwbedrijf, dan wel vervoer dat plaatsvindt rechtstreeks ten behoeve van een landbouwbedrijf en onmiddellijk vooraf gaat aan of volgt op, alsmede in direct verband staat met de uitvoering van landbouwwerkzaamheden;  
+d. vervoer van landbouwproducten of goederen, te gebruiken bij het verrichten van landbouwwerkzaamheden, met een landbouwtrekker als bedoeld in afdeling 5.8 van de Regeling voertuigen, alsmede de daardoor voortbewogen aanhangwagens, mits het betreft eigen vervoer verricht door een landbouwer ten dienste van zijn landbouwbedrijf, dan wel vervoer dat plaatsvindt rechtstreeks ten behoeve van een landbouwbedrijf en onmiddellijk vooraf gaat aan of volgt op, alsmede in direct verband staat met de uitvoering van landbouwwerkzaamheden;  
 
 e. vervoer van kranten, tijdschriften, reclamedrukwerken, verricht in een distributie- of verspreidbedrijf, mits dit bedrijf de beschikking heeft over niet meer dan één vrachtauto of over twee vrachtauto's, mits één daarvan een aanhangwagen is, en waarbij geldt dat het ledig gewicht, vermeerderd met het laadvermogen, van de vrachtauto, dan wel van de beide vrachtauto's gezamenlijk, niet meer bedraagt dan 3500 kg;  
 
@@ -42,18 +44,13 @@ f. vervoer binnen Nederland of naar Nederland van voertuigen met toebehoren die 
 
 g. vervoer binnen Nederland van betonmortelspecie met daartoe speciaal ingerichte vrachtauto's van de betonmortelfabriek naar in aanbouw zijnde bouwobjecten.    
 
-### Artikel  4  
-
-Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toegestaan voor vervoer door een in Nederland gevestigde ondernemer binnen Bulgarije en Roemenië, alsmede binnen Nederland door een in Bulgarije of Roemenië gevestigde ondernemer.  
-
 ### Hoofdstuk  3  
 
 ####Toegang tot het beroep
 
 ### Artikel  5  
 
-1.  Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door het Centraal Bureau Rijvaardigheidsbewijzen, waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I van de beroepsrichtlijn voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.   
-2.  Aan de eis van vakbekwaamheid wordt tevens voldaan door degene die een verklaring van vakbekwaamheid overlegt die op grond van artikel 3, vierde lid, van de beroepsrichtlijn voor het wegvervoer door een andere lidstaat, door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of door Zwitserland is afgegeven.   
+Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift overlegt, dat is afgegeven door het Centraal Bureau Rijvaardigheidsbewijzen, waarbij ten minste de kennis is vastgesteld van de onderwerpen en het opleidingsniveau van bijlage I, deel I, van de beroepsverordening voor het wegvervoer en die overeenkomstig die bijlage zijn georganiseerd.  
 
 ### Artikel  6  
 
@@ -61,12 +58,17 @@ Cabotage als bedoeld in de cabotageverordening voor het wegvervoer is niet toege
 2.  Ten aanzien van een beginnende vervoerondernemer wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen.   
 3.  Ingeval van verlenging van de vergunning wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, vermeerderd met een ten opzichte van alle andere schulden achtergestelde lening.   
 4.  De vervoerder toont tegenover de NIWO zijn financiële draagkracht aan door het overleggen van een balans en een toelichting daarop, voorzien van een verklaring, inhoudende dat de waardering van het beschikbare risicodragend vermogen is geschied volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, en dat dit vermogen voldoet aan de in het eerste lid gestelde eisen.   
-5.  Indien de vervoerder een rechtspersoon is, die op grond van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) verplicht is om een jaarrekening op te maken, kan hij volstaan met het overleggen van zijn jaarrekening over het voorafgaande kalenderjaar, voorzien van een verklaring waaruit blijkt dat het beschikbare risicodragend vermogen voldoet aan de in het eerste lid gestelde eisen.   
-6.  De verklaringen, bedoeld in het vierde en vijfde lid, zijn afgegeven door een registeraccountant of een Accountant-Administratieconsulent als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-7.  In afwijking van het zesde lid kunnen ingeval van verlenging van een vergunning de verklaringen ook zijn afgegeven door een belastingdeskundige, aangesloten bij een door de NIWO daartoe aangewezen instelling.   
-8.  Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in artikel 3, derde lid, onder b van de beroepsrichtlijn voor het wegvervoer.   
-9.  De NIWO kan de vervoerder een uitstel van ten hoogste een jaar verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.   
-10.  Een vervoerder, wiens land van herkomst of oorsprong een andere lidstaat, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland is, voldoet aan de eis van financiële draagkracht, indien een verklaring overgelegd wordt die overeenkomstig artikel 9 van de beroepsrichtlijn voor het wegvervoer in die andere staat is afgegeven en die niet ouder is dan drie maanden.   
+5.  Indien de vervoerder een rechtspersoon is, die op grond van titel 9 van Boek 2 van het Burgerlijk Wetboek verplicht is om een jaarrekening op te maken, kan hij volstaan met het overleggen van zijn jaarrekening over het voorafgaande kalenderjaar, voorzien van een verklaring waaruit blijkt dat het beschikbare risicodragend vermogen voldoet aan de in het eerste lid gestelde eisen.   
+6.  De verklaringen, bedoeld in het vierde en vijfde lid, zijn afgegeven door: 
+
+a. een registeraccountant of een Accountant-administratieconsulent als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek;  
+
+b. een belastingdeskundige die is aangesloten bij Nederlandse Orde van Administratie- en Belastingdeskundigen;  
+
+c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.     
+7.  Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in artikel 3, derde lid, onder b van de beroepsrichtlijn voor het wegvervoer.   
+8.  De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.   
+9.  Een vervoerder, wiens land van herkomst of oorsprong een andere lidstaat, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland is, voldoet aan de eis van financiële draagkracht, indien een verklaring overgelegd wordt die overeenkomstig artikel 9 van de beroepsrichtlijn voor het wegvervoer in die andere staat is afgegeven en die niet ouder is dan drie maanden.   
 
 ### Hoofdstuk  4  
 
@@ -112,12 +114,12 @@ Degene, die krachtens een CEMT-vergunning dan wel krachtens een ritmachtiging gr
 
 ### Artikel  12  
 
-Het model voor een verklaring als bedoeld in [artikel 2.11, tweede lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage, die ter inzage ligt ten kantore van het ministerie van Verkeer en Waterstaat, Koningskade 4 te 's-Gravenhage.  
+Het model voor een verklaring als bedoeld in artikel 2.11, tweede lid, van de wet wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage, die ter inzage ligt ten kantore van het ministerie van Verkeer en Waterstaat, Koningskade 4 te 's-Gravenhage.  
 
 ### Artikel  13  
 
-1.  Van [artikel 2.11, eerste lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), wordt ontheffing verleend indien vervoer wordt verricht met een of meer vrachtauto’s met een laadvermogen van niet meer dan 500 kg.   
-2.  Van [artikel 2.11, eerste lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), wordt ontheffing verleend indien gebruik wordt gemaakt van: 
+1.  Van artikel 2.11, eerste lid, van de wet, wordt ontheffing verleend indien vervoer wordt verricht met een of meer vrachtauto’s met een laadvermogen van niet meer dan 500 kg.   
+2.  Van artikel 2.11, eerste lid, van de wet, wordt ontheffing verleend indien gebruik wordt gemaakt van: 
 
 a. een werknemer die voor beperkte tijd bij wijze van hulpbetoon zonder winstoogmerk aan een vergunninghouder ter beschikking is gesteld door een andere vergunninghouder bij wie die werknemer in dienstbetrekking is en die ten bewijze daarvan een verklaring van dienstbetrekking kan tonen; of  
 
@@ -126,7 +128,7 @@ b. een werknemer die door een instelling aan een vergunninghouder ter beschikkin
 ### Artikel  14  
 
 1.  Een instelling die een werknemer aan een vergunninghouder ter beschikking wil stellen, verkrijgt daartoe op aanvraag een aanwijzing van de Minister van Verkeer en Waterstaat.   
-2.  Een aanwijzing, die op het tijdstip van inwerkingtreding van de [wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) reeds was verleend, wordt aangemerkt als aanwijzing als bedoeld in het eerste lid.   
+2.  Een aanwijzing, die op het tijdstip van inwerkingtreding van de wet reeds was verleend, wordt aangemerkt als aanwijzing als bedoeld in het eerste lid.   
 
 ### Hoofdstuk  6  
 
@@ -200,8 +202,16 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 
 ### Artikel  18  
 
 1.  Overtreding van de artikelen 8, eerste en derde tot en met vijfde lid en 10 vormt een strafbaar feit.   
-2.  Als bepalingen, bedoeld in [artikel 2.6, eerste lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), worden aangewezen [artikel 72, eerste en tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 5.1.2](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).   
-3.  Als bepalingen, bedoeld in [artikel 2.6, tweede lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), worden aangewezen [artikel 5.1.2](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).   
+2.  Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen: 
+
+a. artikel 9, eerste, tweede, vierde, vijfde, zevende, achtste en negende lid, 72, eerste en tweede lid, en 107, eerste lid, en tweede lid, onderdeel b, van de Wegenverkeerswet 1994;  
+
+b. artikel 5.1.1, eerste lid, onderdeel c, juncto artikel 5.3.15, tweede tot en met vierde lid, van de Regeling voertuigen;  
+
+c. artikel 5.1.1, eerste lid, onderdeel c, juncto hoofdstuk 5, afdeling 3, van de Regeling voertuigen, voor zover overtreding van artikel 5.1.1, eerste lid, onderdeel c, leidt tot een bevel ingevolge artikel 160, zevende lid, van de Wegenverkeerswet 1994 om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;  
+
+d. artikel 5.1.2 juncto de artikelen 5.18.17a tot en met 5.18.17g of juncto artikel 5.18.25 van de Regeling voertuigen.     
+3.  Als bepalingen, bedoeld in artikel 2.6, tweede lid, van de wet, worden aangewezen artikel 5.1.2 in verbinding met de artikelen 5.18.17a tot en met 5.18.17g of in verbinding met artikel 5.18.25 van de Regeling voertuigen.   
 
 ### Hoofdstuk  10  
 
@@ -217,7 +227,7 @@ Wijzigt de Regeling getuigschrift vakbekwaamheid.
 
 ### Artikel  20  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), met uitzondering van [artikel 8.4, onderdelen A tot en met D van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), in werking treedt.  
+Deze regeling treedt in werking met ingang van het tijdstip waarop de wet, met uitzondering van artikel 8.4, onderdelen A tot en met D van de wet, in werking treedt.  
 
 ### Artikel  21  
 

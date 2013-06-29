@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  1  
 
-1.  De secretaris van het Productschap Vis houdt toezicht op de naleving van het bepaalde bij of krachtens [artikel 2 van de Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md).   
+1.  De secretaris van het Productschap Vis houdt toezicht op de naleving van het bepaalde bij of krachtens [artikel 2 van de Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md).  
 
 ### Artikel  2  
 
-De afdeling Buitendienst van het Productschap Vis houdt toezicht op de naleving van het bepaalde bij of krachtens de [Verordening regeling verkoop zoetwatervis 2003](../../../../../../../../pbo/verordening/regeling/verkoop/zoetwatervis/2003/BWBR0014875/README.md).  
+De afdeling Buitendienst van het Productschap Vis houdt toezicht op de naleving van het bepaalde bij of krachtens de [Verordening regeling verkoop zoetwatervis 2003](../../../../../../../../pbo/verordening/regeling/verkoop/zoetwatervis/2003/BWBR0014875/README.md). 
 
 ### Artikel  3  
 
-Het Besluit Productschap Vis toezichthouders wordt ingetrokken.  
+Het Besluit Productschap Vis toezichthouders wordt ingetrokken. 
 
 ### Artikel  4  
 
 1.  Dit besluit wordt aangehaald als: Besluit Productschap Vis toezichthouders tuchtrecht 2005.   
-2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningenblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Rijswijk 
 24 maart 2005   

@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 a. de vergoeding van de kosten van maximaal 4 uur huishoudelijke hulp per week;  
 
 b. de vergoeding van de kosten van het vervoer voor het onderhouden van sociale contacten.     
-2.  De vergoeding, genoemd in het eerste lid, wordt alleen toegekend indien hiertoe een medische noodzaak bestaat en de gerechtigde de leeftijd van 70 jaar heeft bereikt.   
+2.  De vergoeding, genoemd in het eerste lid, wordt alleen toegekend indien hiertoe een medische noodzaak bestaat en de gerechtigde de leeftijd van 70 jaar heeft bereikt.  
 
 ### Artikel  2  
 
@@ -33,7 +33,7 @@ b. de vergoeding van de kosten van het vervoer voor het onderhouden van sociale 
 c. de vergoeding van de kosten van extra vakantie;  
 
 d. de tegemoetkoming in de kosten van deelname aan het maatschappelijk verkeer.     
-2.  De vergoeding of de tegemoetkoming, genoemd in het eerste lid, wordt alleen toegekend indien hiertoe een medische noodzaak of medisch-sociale wenselijkheid bestaat en de gerechtigde de leeftijd van 70 jaar heeft bereikt.   
+2.  De vergoeding of de tegemoetkoming, genoemd in het eerste lid, wordt alleen toegekend indien hiertoe een medische noodzaak of medisch-sociale wenselijkheid bestaat en de gerechtigde de leeftijd van 70 jaar heeft bereikt.  
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ e. vergoeding van of tegemoetkoming in de kosten voor huishoudelijke hulp;
 f. vergoeding van of tegemoetkoming in de huurkosten;  
 
 g. vergoeding als bedoeld in [artikel 20, derde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) en [artikel 32, vierde lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md).     
-2.  De in het eerste lid, onder a tot en met g, genoemde vergoeding of tegemoetkoming wordt ook voortgezet indien de toekenning daarvan met terugwerkende kracht over het jaar voorafgaand aan het overlijden van de partner heeft plaatsgevonden en er gedurende dat jaar ter zake daadwerkelijk kosten zijn gemaakt.   
+2.  De in het eerste lid, onder a tot en met g, genoemde vergoeding of tegemoetkoming wordt ook voortgezet indien de toekenning daarvan met terugwerkende kracht over het jaar voorafgaand aan het overlijden van de partner heeft plaatsgevonden en er gedurende dat jaar ter zake daadwerkelijk kosten zijn gemaakt.  
 
 ### Artikel  4  
 
@@ -64,15 +64,15 @@ g. vergoeding als bedoeld in [artikel 20, derde lid, van de Wet uitkeringen verv
 6.  De in artikel 3, eerste lid, onder g, genoemde vergoeding wordt, in afwijking van de termijn genoemd in het vierde lid, beëindigd wanneer de weduwe of weduwnaar in het huwelijk treedt.   
 7.  De in artikel 3, eerste lid, onder f, genoemde vergoeding of tegemoetkoming wordt, in afwijking van de termijn genoemd in het derde lid, beëindigd wanneer de weduwe of weduwnaar vrijwillig verhuist.   
 8.  De in artikel 3, eerste lid, onder g, genoemde vergoeding wordt, in afwijking van de termijn genoemd in het vierde lid, beëindigd wanneer de weduwe of weduwnaar verhuist naar zelfstandige huisvesting, dan wel naar een inrichting voor verpleging of verzorging die met toepassing van één der sociale verzekeringswetten wordt betaald.   
-9.  Wanneer zich een omstandigheid als bedoeld in het vijfde, zesde, zevende of achtste lid voordoet, wordt de vergoeding of de tegemoetkoming beëindigd met ingang van de eerste dag van de maand volgend op de maand waarin zich deze omstandigheid voordoet.   
+9.  Wanneer zich een omstandigheid als bedoeld in het vijfde, zesde, zevende of achtste lid voordoet, wordt de vergoeding of de tegemoetkoming beëindigd met ingang van de eerste dag van de maand volgend op de maand waarin zich deze omstandigheid voordoet.  
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen.  
+Dit besluit wordt aangehaald als: Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

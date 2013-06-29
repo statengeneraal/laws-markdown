@@ -64,7 +64,7 @@ Remedial teaching heeft vooral ten doel leerachterstanden en leerproblemen bij l
 
 ####Reikwijdte vrijstelling
 
-De vrijstelling voor beroepsopleidingen heeft dezelfde strekking als de in artikel 13A, eerste lid, sub i, van de richtlijn opgenomen vrijstelling voor beroepsopleiding of -herscholing. De in dit richtlijnartikel bedoelde erkenning van vrijgestelde organisaties voor beroepsopleiding of -herscholing is ingevuld door de algemene aanwijzing van beroepsopleidingen in [artikel 8 van het uitvoeringsbesluit](../../../../../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md). Naast specifieke beroepsopleidingen en -herscholing vallen onder de vrijstelling ook cursussen die zijn gericht op het functioneren van personen in een (toekomstige) werkkring . Het gaat dan bijvoorbeeld om managements-, automatiserings-, ondernemingsraad-, sollicitatie- en taalcursussen. <sup> 1  Zie artikel 14 van Verordening (EG) nr. 1777/2005 van de Raad van de Europese Unie (PB EG L 288/1, d.d. 29 oktober 2005).  </sup> Onderwijs dat zich primair richt op het bijbrengen en ontwikkelen van vaardigheden in de persoonlijke levenssfeer (bijv. lessen voor EHBO, levensreddende handelingen, bedrijfshulpverlening en het rijbewijs BE) valt echter buiten de vrijstelling. Hetzelfde geldt voor onderwijs met een vrijetijdskarakter (bijv. hobbycursussen).    
+De vrijstelling voor beroepsopleidingen heeft dezelfde strekking als de in artikel 13A, eerste lid, sub i, van de richtlijn opgenomen vrijstelling voor beroepsopleiding of -herscholing. De in dit richtlijnartikel bedoelde erkenning van vrijgestelde organisaties voor beroepsopleiding of -herscholing is ingevuld door de algemene aanwijzing van beroepsopleidingen in [artikel 8 van het uitvoeringsbesluit](../../../../../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md). Naast specifieke beroepsopleidingen en -herscholing vallen onder de vrijstelling ook cursussen die zijn gericht op het functioneren van personen in een (toekomstige) werkkring<sup>1Zie artikel 14 van Verordening (EG) nr. 1777/2005 van de Raad van de Europese Unie (PB EG L 288/1, d.d. 29 oktober 2005).</sup>. Het gaat dan bijvoorbeeld om managements-, automatiserings-, ondernemingsraad-, sollicitatie- en taalcursussen.  Onderwijs dat zich primair richt op het bijbrengen en ontwikkelen van vaardigheden in de persoonlijke levenssfeer (bijv. lessen voor EHBO, levensreddende handelingen, bedrijfshulpverlening en het rijbewijs BE) valt echter buiten de vrijstelling. Hetzelfde geldt voor onderwijs met een vrijetijdskarakter (bijv. hobbycursussen).    
 ### 4.2  
 
 ####Goedkeuring sportcursussen
@@ -74,7 +74,7 @@ De georganiseerde sportwereld (d.w.z. de in verenigingsverband georganiseerde ta
 
 ####Vervallen van keuzemogelijkheid voor BTW-heffing bij bepaalde beroepsopleidingen; overgangsregeling
 
-Met ingang van 1 april 2007 zijn alle beroepsopleidingen verplicht vrijgesteld. In verband hiermee vervalt per 1 april 2007 de mogelijkheid om te kiezen voor BTW-heffing bij opleidingen die betrekking hebben op het functioneren van personen in een (toekomstige) werkkring . Voor ondernemers die opleidingen geven die onder vorenbedoelde keuzemogelijkheid vallen, geldt de volgende overgangsregeling. Ondernemers die vóór 1 april 2007 een overeenkomst afsluiten voor het verzorgen van zulke beroepsopleidingen, kunnen voor deze opleidingen nog gedurende één jaar kiezen voor BTW-heffing. Als de overeenkomst voor het verzorgen van zo’n beroepsopleiding doorloopt tot ná 1 april 2008, moet het ná 1 april 2008 verzorgde deel van de opleiding worden vrijgesteld. <sup> 2  Zie het Besluit van 24 juni 1993, nr. VB 93/1755 (Heffing van omzetbelasting met betrekking tot beroepsopleidingen) en het Besluit van 9 december 1993, nr. VB 93/3598) (Heffing van omzetbelasting met betrekking tot beroepsopleidingen).  </sup>     
+Met ingang van 1 april 2007 zijn alle beroepsopleidingen verplicht vrijgesteld. In verband hiermee vervalt per 1 april 2007 de mogelijkheid om te kiezen voor BTW-heffing bij opleidingen die betrekking hebben op het functioneren van personen in een (toekomstige) werkkring<sup>2Zie het Besluit van 24 juni 1993, nr. VB 93/1755 (Heffing van omzetbelasting met betrekking tot beroepsopleidingen) en het Besluit van 9 december 1993, nr. VB 93/3598) (Heffing van omzetbelasting met betrekking tot beroepsopleidingen).</sup>. Voor ondernemers die opleidingen geven die onder vorenbedoelde keuzemogelijkheid vallen, geldt de volgende overgangsregeling. Ondernemers die vóór 1 april 2007 een overeenkomst afsluiten voor het verzorgen van zulke beroepsopleidingen, kunnen voor deze opleidingen nog gedurende één jaar kiezen voor BTW-heffing. Als de overeenkomst voor het verzorgen van zo’n beroepsopleiding doorloopt tot ná 1 april 2008, moet het ná 1 april 2008 verzorgde deel van de opleiding worden vrijgesteld.      
 ### 5  
 
 ####Onderwijs in muziek, dans, drama en beeldende vorming aan personen jonger dan 21 jaar
@@ -118,6 +118,6 @@ Den Haag
 6 november 2006   
 
 De 
-Minister van Financiën, namens deze: de 
-Directeur-GeneraalBelastingdienst, 
-J.Thunnissen   
+Minister van Financiën, namens deze:de 
+Directeur-Generaal Belastingdienst,
+J. Thunnissen     

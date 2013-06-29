@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder:
 
 a. commissie: de Commissie regeldruk bedrijven;  
 
-b. Staatssecretarissen: de Staatssecretaris van Economische Zaken en de Staatssecretaris van Financiën.    
+b. Staatssecretarissen: de Staatssecretaris van Economische Zaken en de Staatssecretaris van Financiën.   
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ a. de plannen van het kabinet met betrekking tot regeldruk voor bedrijven te beo
 
 b. vraagstukken, die nog niet in de plannen, bedoeld in onderdeel a, zijn opgenomen, te identificeren en te agenderen;  
 
-c. onderwerpen met betrekking tot regeldruk onder de aandacht te brengen richting bedrijfsleven en overheden.     
+c. onderwerpen met betrekking tot regeldruk onder de aandacht te brengen richting bedrijfsleven en overheden.    
 
 ### Artikel  3  
 
@@ -58,30 +58,30 @@ b. mevrouw A. Jorritsma-Lebbink te Almere;
 
 c. de heer ir. J.F. de Leeuw te Krimpen aan den IJssel;  
 
-d. de heer drs. E. Stoové te Alphen aan den Rijn.     
+d. de heer drs. E. Stoové te Alphen aan den Rijn.    
 
 ### Artikel  4  
 
 1.  De commissie stelt haar eigen werkwijze vast.   
 2.  In het secretariaat van de commissie wordt door de Staatssecretarissen voorzien.   
-3.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.   
+3.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.  
 
 ### Artikel  5  
 
-De commissie verstrekt desgevraagd aan de Staatssecretarissen de voor de uitvoering van hun taak benodigde inlichtingen.  
+De commissie verstrekt desgevraagd aan de Staatssecretarissen de voor de uitvoering van hun taak benodigde inlichtingen. 
 
 ### Artikel  6  
 
 1.  De voorzitter van de commissie ontvangt voor het bijwonen van een vergadering € 260,00.   
-2.  De overige leden van de commissie afkomstig uit de kring van het bedrijfsleven ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.   
+2.  De overige leden van de commissie afkomstig uit de kring van het bedrijfsleven ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.  
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2008.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2008. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Commissie regeldruk bedrijven.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie regeldruk bedrijven. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -89,8 +89,8 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk 
+F. Heemskerk   
 
 De 
 Staatssecretaris van Financiën, 
-J.C. deJager   
+J.C. de Jager     

@@ -8,49 +8,49 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling afgifte duplikaten en vervanging van vaarbewijzen.   
+Wijzigt de Regeling afgifte duplikaten en vervanging van vaarbewijzen. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling erkenning gelijkwaardige radardiploma’s Reglement radarpatenten.   
+Wijzigt de Regeling erkenning gelijkwaardige radardiploma’s Reglement radarpatenten. 
 
 ### Artikel  III  
 
-Wijzigt de Regeling examen klein vaarbewijs.   
+Wijzigt de Regeling examen klein vaarbewijs. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling geneeskundig onderzoek vaarbewijzen binnenvaart.   
+Wijzigt de Regeling geneeskundig onderzoek vaarbewijzen binnenvaart. 
 
 ### Artikel  V  
 
-Wijzigt de Regeling uitwerking examenprocedure radarpatent.   
+Wijzigt de Regeling uitwerking examenprocedure radarpatent. 
 
 ### Artikel  VI  
 
-Wijzigt de Regeling vergunningverlening.   
+Wijzigt de Regeling vergunningverlening. 
 
 ### Artikel  VII  
 
-Wijzigt de Regeling vervoer over de binnenwateren van gevaarlijke stoffen.   
+Wijzigt de Regeling vervoer over de binnenwateren van gevaarlijke stoffen. 
 
 ### Artikel  VIII  
 
-Wijzigt de Regeling vrijstellingen Binnenschepenwet.   
+Wijzigt de Regeling vrijstellingen Binnenschepenwet. 
 
 ### Artikel  IX  
 
-Voor de toepassing van [artikel 2, onderdeel d, van de Regeling erkenning gelijkwaardige radardiploma’s Reglement radarpatenten](../../../../../../../../../ministeriele-regeling/regeling/erkenning/gelijkwaardige/radardiploma's/reglement/radarpatenten/BWBR0010988/README.md) blijven radardiploma’s ruime wateren afgegeven voor 1 juli 2005 door het Koninklijk Onderwijsfonds voor de Scheepvaart geldig tot het moment waarop zij blijkens de datum op het diploma hun geldigheid verliezen.  
+Voor de toepassing van [artikel 2, onderdeel d, van de Regeling erkenning gelijkwaardige radardiploma’s Reglement radarpatenten](../../../../../../../../../ministeriele-regeling/regeling/erkenning/gelijkwaardige/radardiploma's/reglement/radarpatenten/BWBR0010988/README.md) blijven radardiploma’s ruime wateren afgegeven voor 1 juli 2005 door het Koninklijk Onderwijsfonds voor de Scheepvaart geldig tot het moment waarop zij blijkens de datum op het diploma hun geldigheid verliezen. 
 
 ### Artikel  X  
 
-Voor de toepassing van [artikel 2b, eerste lid, onderdeel b, van de Regeling vrijstellingen Binnenschepenwet](../../../../../../../../../ministeriele-regeling/regeling/vrijstellingen/binnenschepenwet/BWBR0006112/README.md) blijven zeilbewijzen afgegeven voor 1 juli 2005 door het Koninklijk Onderwijsfonds voor de Scheepvaart geldig tot het moment waarop zij blijkens de datum op het bewijs hun geldigheid verliezen.  
+Voor de toepassing van [artikel 2b, eerste lid, onderdeel b, van de Regeling vrijstellingen Binnenschepenwet](../../../../../../../../../ministeriele-regeling/regeling/vrijstellingen/binnenschepenwet/BWBR0006112/README.md) blijven zeilbewijzen afgegeven voor 1 juli 2005 door het Koninklijk Onderwijsfonds voor de Scheepvaart geldig tot het moment waarop zij blijkens de datum op het bewijs hun geldigheid verliezen. 
 
 ### Artikel  XI  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2005.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2005. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

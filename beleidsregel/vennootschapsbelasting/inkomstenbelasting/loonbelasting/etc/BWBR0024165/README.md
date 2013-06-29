@@ -25,11 +25,11 @@ Dit besluit behandelt twee aandachtsgebieden. In hoofdstuk A staat de waarde in 
 | Begrippenlijst  | --- |
 | DGA  | Directeur-grootaandeelhouder  |
 | Pensioenlichaam  | Lichaam als bedoeld in [art. 19a, eerste lid, onderdeel d, Wet LB](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), dat niet zelf de pensioenaanspraak heeft toegekend  |
-| UBLB  |  [Uitvoeringsbesluit loonbelasting 1965](../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)   |
-| URIB  |  [Uitvoeringsregeling inkomstenbelasting 2001](../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md)   |
-| Wet LB  |  [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)   |
-| Wet VPB  |  [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)   |
-| Wet VPL  |  [Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling](../../../../../../wet/wet/aanpassing/fiscale/behandeling/vutprepensioen/en/introductie/etc/BWBR0018053/README.md)   |
+| UBLB  | [Uitvoeringsbesluit loonbelasting 1965](../../../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)  |
+| URIB  | [Uitvoeringsregeling inkomstenbelasting 2001](../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md)  |
+| Wet LB  | [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  |
+| Wet VPB  | [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md)  |
+| Wet VPL  | [Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling](../../../../../../wet/wet/aanpassing/fiscale/behandeling/vutprepensioen/en/introductie/etc/BWBR0018053/README.md)  |
 
 ### A  
 
@@ -192,6 +192,6 @@ Den Haag
 3 juli 2008   
 
 De 
-Staatssecretaris van Financiën, namens deze:
+Staatssecretaris van Financiën, namens deze: 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

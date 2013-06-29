@@ -4,7 +4,7 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 2, eerste en tweede lid, van de Subsidieregeling stiller, schoner en zuiniger 2002](../../../../../../../../../../ministeriele-regeling/subsidieregeling/stiller/schoner/en/zuiniger/2002/BWBR0013388/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,8 +16,8 @@ De regeling, houdende vaststelling van het actieplan Aansluiting Fiets op Openba
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 20 maart 2002. Deze regeling met toelichting zal, met uitzondering van de bijlagen, in de Staatscourant worden geplaatst. De bijlagen worden bekendgemaakt door terinzagelegging ten kantore van de Minister van Verkeer en Waterstaat, Plesmanweg 1-6 te Den Haag.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 20 maart 2002. Deze regeling met toelichting zal, met uitzondering van de bijlagen, in de Staatscourant worden geplaatst. De bijlagen worden bekendgemaakt door terinzagelegging ten kantore van de Minister van Verkeer en Waterstaat, Plesmanweg 1-6 te Den Haag. 
 
 De 
-Minister van Verkeer en Waterstaat, 
+Minister van Verkeer en Waterstaat,
 Roelf H. deBoer    

@@ -23,7 +23,7 @@ b. aanleg van de Tweede Maasvlakte: uitvoering van het deelproject Landaanwinnin
 
 c. bevoegd gezag: bestuursorgaan dat beslist op verzoeken;  
 
-d. commissie: schadebeoordelingscommissie, bedoeld in artikel 5;    
+d. commissie: schadebeoordelingscommissie, bedoeld in artikel 5;   
 
 ### §  2  
 
@@ -42,14 +42,14 @@ b. door een ander bestuursorgaan, voor zover deze regeling bij besluit van het b
 
 a. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit (nr. DRZO/2008-113) van 19 februari 2008 (Stcrt. 2008, 41), houdende de aanwijzing van de Voordelta als speciale beschermingszone ter uitvoering van Europeesrechtelijke verplichtingen;  
 
-b. de rechtmatige uitoefening van de bevoegdheden, bedoeld in de [artikelen19a](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), [19b](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en [20 van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), voor zover die bevoegdheden betrekking hebben op de zone, genoemd in onderdeel a, met dien verstande dat verzoeken die voor 30 juni 2014 zijn ingediend, ook na deze datum worden afgehandeld volgens de bepalingen van deze regeling.     
+b. de rechtmatige uitoefening van de bevoegdheden, bedoeld in de [artikelen19a](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), [19b](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en [20 van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), voor zover die bevoegdheden betrekking hebben op de zone, genoemd in onderdeel a, met dien verstande dat verzoeken die voor 30 juni 2014 zijn ingediend, ook na deze datum worden afgehandeld volgens de bepalingen van deze regeling.    
 
 ### Artikel  3  
 
 ####Eén loket voor verzoeken
 
 1.  Het bevoegd gezag legt de verzoeken voor aan de commissie voor advies over de op het verzoek te nemen beslissing.   
-2.  Een bij de commissie ingediend verzoek wordt geacht te zijn ingediend bij het bevoegd gezag.   
+2.  Een bij de commissie ingediend verzoek wordt geacht te zijn ingediend bij het bevoegd gezag.  
 
 ### Artikel  4  
 
@@ -58,7 +58,7 @@ b. de rechtmatige uitoefening van de bevoegdheden, bedoeld in de [artikelen19a](
 1.  Op de voorbereiding van het advies zijn de [artikelen 13](../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md) en [16 tot en met 19 van de Regeling nadeelcompensatie Verkeer en Waterstaat 1999](../../../../../ministeriele-regeling/regeling/nadeelcompensatie/verkeer/en/waterstaat/1999/BWBR0010692/README.md) van overeenkomstige toepassing, tenzij het verzoek betrekking heeft, of mede betrekking heeft, op een besluit als bedoeld in [artikel 31, eerste lid, van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).   
 2.  In afwijking van het eerste lid kan de voorzitter van de commissie een vereenvoudigd advies uitbrengen indien naar zijn oordeel sprake is van kennelijke niet-ontvankelijkheid of kennelijke ongegrondheid.   
 3.  Indien de commissie van oordeel is dat naast de gestelde schadeoorzaak of –oorzaken, andere uit de aanleg van de Tweede Maasvlakte voortvloeiende schadeoorzaken aan te wijzen zijn, kan zij tevens adviseren over die andere schadeoorzaken, tenzij de belangen van de verzoeker zich daartegen verzetten.   
-4.  Indien schade aan meer dan één schadeoorzaak is toe te rekenen, bevat het advies een verdeling van de schade per oorzaak.   
+4.  Indien schade aan meer dan één schadeoorzaak is toe te rekenen, bevat het advies een verdeling van de schade per oorzaak.  
 
 ### §  3  
 
@@ -68,7 +68,7 @@ b. de rechtmatige uitoefening van de bevoegdheden, bedoeld in de [artikelen19a](
 
 ####Instelling commissie
 
-Er is een schadebeoordelingscommissie Tweede Maasvlakte.  
+Er is een schadebeoordelingscommissie Tweede Maasvlakte. 
 
 ### Artikel  6  
 
@@ -78,19 +78,19 @@ Er is een schadebeoordelingscommissie Tweede Maasvlakte.
 2.  De commissie kiest uit haar midden een plaatsvervangend voorzitter.   
 3.  De leden en de plaatsvervangende leden voldoen aan de eisen, gesteld in [artikel 32 van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en artikel 2, tweede lid, van de Planschaderegeling 2005 van de gemeente Rotterdam.   
 4.  De voorzitter heeft de hoedanigheid van meester in de rechten.   
-5.  Aan de commissie kan een secretaris worden toegevoegd.   
+5.  Aan de commissie kan een secretaris worden toegevoegd.  
 
 ### Artikel  7  
 
 ####Vergoeding
 
-Aan de leden en de plaatsvervangende leden wordt een vergoeding toegekend voor werkzaamheden, alsmede voor het bijwonen van vergaderingen en reis- en verblijfkosten.  
+Aan de leden en de plaatsvervangende leden wordt een vergoeding toegekend voor werkzaamheden, alsmede voor het bijwonen van vergaderingen en reis- en verblijfkosten. 
 
 ### Artikel  8  
 
 ####Archief
 
-De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toegankelijke staat. Indien de commissie wordt opgeheven, wordt het archief overgedragen aan de beheerder van het archief van het ministerie van Verkeer en Waterstaat, met inachtneming van het bepaalde in het [Besluit archiefoverdrachten rijksadministratie](../../../../../KB/besluit/archiefoverdrachten/rijksadministratie/BWBR0004427/README.md).  
+De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toegankelijke staat. Indien de commissie wordt opgeheven, wordt het archief overgedragen aan de beheerder van het archief van het ministerie van Verkeer en Waterstaat, met inachtneming van het bepaalde in het [Besluit archiefoverdrachten rijksadministratie](../../../../../KB/besluit/archiefoverdrachten/rijksadministratie/BWBR0004427/README.md). 
 
 ### §  4  
 
@@ -102,7 +102,7 @@ De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toega
 
 1.  De Minister van Landbouw, Natuur en Voedselkwaliteit, het college van gedeputeerde staten van de provincie Zeeland en de colleges van burgemeester en wethouders van de gemeenten Rotterdam en Westvoorne verlenen de Minister van Verkeer en Waterstaat mandaat, volmacht en machtiging om de voor deze regeling noodzakelijke besluiten te nemen en handelingen te verrichten.   
 2.  De Minister van Verkeer en Waterstaat kan van het aan hem verleende mandaat ondermandaat verlenen aan een rechtstreeks onder hem ressorterende functionaris en toestaan dat deze vervolgens ondermandaat verleent aan een rechtstreeks onder hem ressorterende functionaris.   
-3.  De Minister van Verkeer en Waterstaat kan de aan hem verleende volmacht en machtiging aan een rechtstreeks onder hem ressorterende functionaris doorgeven. De tweede volzin van het tweede lid is van overeenkomstige toepassing.   
+3.  De Minister van Verkeer en Waterstaat kan de aan hem verleende volmacht en machtiging aan een rechtstreeks onder hem ressorterende functionaris doorgeven. De tweede volzin van het tweede lid is van overeenkomstige toepassing.  
 
 ### §  5  
 
@@ -114,43 +114,43 @@ De commissie brengt en bewaart de archiefbescheiden in goede, geordende en toega
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2008.   
 2.  Deze regeling vervalt met ingang van 1 januari 2024.   
-3.  Verzoeken die voor 1 januari 2024 zijn ingediend, worden ook na deze datum afgehandeld volgens de bepalingen van deze regeling.   
+3.  Verzoeken die voor 1 januari 2024 zijn ingediend, worden ook na deze datum afgehandeld volgens de bepalingen van deze regeling.  
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Schaderegeling Tweede Maasvlakte.  
+Deze regeling wordt aangehaald als: Schaderegeling Tweede Maasvlakte. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg 
+G. Verburg   
 
 Het College van Gedeputeerde Staten van de Provincie Zeeland, De 
 secretaris, 
-L.J.M.Verdult 
+L.J.M. Verdult   
 
 De 
 voorzitter, 
-K.M.A.Peijs 
+K.M.A. Peijs   
 
 Het College van Burgemeester en Wethouders van de Gemeente Rotterdam, De 
 secretaris, 
-A.H.P. vanGils 
+A.H.P. van Gils   
 
 De 
 burgemeester, 
-I.W.Opstelten 
+I.W. Opstelten   
 
 Het College van Burgemeester en Wethouders van de Gemeente Westvoorne, De 
 secretaris, 
-J.M.C.Postema 
+J.M.C. Postema   
 
 De 
 burgemeester, 
-P.E. deJong   
+P.E. de Jong     

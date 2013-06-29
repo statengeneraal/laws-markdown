@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs.   
+Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs. 
 
 ### Artikel  II  
 
@@ -26,13 +26,13 @@ Wijzigt het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersonee
 3.  De betrokkene wiens eerste werkloosheidsdag als bedoeld in [artikel 1 van het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) is gelegen op of na 1 oktober 2006 en vóór 1 april 2007 en die niet voldoet aan de voorwaarde van [artikel 42, tweede lid, WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), heeft na afloop van zijn WW-uitkering recht op drie maanden bovenwettelijke uitkering ter hoogte van 108% van het minimumloon per dag. Indien 78% van de ongemaximeerde berekeningsgrondslag lager is dan 108% van het minimumloon, wordt in de vorige zin voor «108% van het minimumloon» gelezen: 78% van de ongemaximeerde berekeningsgrondslag.   
 4.  De betrokkene wiens eerste werkloosheidsdag als bedoeld in [artikel 1 van het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) is gelegen op of na 1 oktober 2006 en vóór 1 april 2007 en die voldoet aan de voorwaarde van [artikel 42, tweede lid, WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), heeft na afloop van de WW-uitkering recht op een bovenwettelijke uitkering waarvan de duur gelijk is aan het aantal maanden dat zijn WW-uitkering korter duurt dan het geval zou zijn geweest op grond van de [WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), zoals die luidde op 30 september 2006. De hoogte van deze bovenwettelijke uitkering is gedurende de eerste 12 maanden, gerekend vanaf de eerste werkloosheidsdag, per dag 78%, en vervolgens 70%, van de ongemaximeerde berekeningsgrondslag. Voor de bepaling van de duur van de periode van 12 maanden, bedoeld in de vorige volzin, wordt [artikel 43 WW](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) overeenkomstig toegepast, en worden perioden van aanvulling op de ZW-uitkering en op de WAZO-uitkering mede in aanmerking genomen. Indien de betrokkene op grond van [artikel 8 van het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) recht heeft op een aansluitende uitkering, gaat die aansluitende uitkering in na afloop van de uitkering, bedoeld in dit lid.   
 5.  De uitkeringen, bedoeld in het derde en vierde lid, worden beschouwd als een aansluitende uitkering.   
-6.  In dit artikel zijn de begripsbepalingen van het [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) van toepassing.   
+6.  In dit artikel zijn de begripsbepalingen van het [Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs](../../../../../../../../AMvB/besluit/bovenwettelijke/werkloosheidsregeling/voor/onderwijspersoneel/etc/BWBR0012177/README.md) van toepassing.  
 
 ### Artikel  III  
 
 ####Inwerkingtreding
 
-Dit besluit, met uitzondering van artikel I, onderdelen I en J, treedt in werking met ingang de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2006. De onderdelen I en J van artikel I treden in werking met ingang van 1 april 2007.  
+Dit besluit, met uitzondering van artikel I, onderdelen I en J, treedt in werking met ingang de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 oktober 2006. De onderdelen I en J van artikel I treden in werking met ingang van 1 april 2007. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -40,13 +40,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 23 februari 2007  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-R. H. A.Plasterk 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+R. H. A. Plasterk   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+G. Verburg   
 
 de *twintigste* maart 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

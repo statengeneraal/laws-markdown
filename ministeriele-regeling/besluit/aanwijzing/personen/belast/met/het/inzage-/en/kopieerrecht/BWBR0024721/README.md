@@ -30,7 +30,7 @@ i. de medewerkers van de Afdeling Interne Controle van de baten-lastendienst Sen
 
 j. de medewerkers van de departementale auditdienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;  
 
-k. de medewerkers van de departementale auditdienst van het Ministerie van Sociale Zaken en Werkgelegenheid.    
+k. de medewerkers van de departementale auditdienst van het Ministerie van Sociale Zaken en Werkgelegenheid.   
 
 ### Artikel  2  
 
@@ -44,17 +44,17 @@ c. de medewerkers van de directie Coördinatie Auditbeleid Departementen van het
 
 d. de medewerkers van de departementale auditdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
 
-e. de medewerkers van de departementale auditdienst van het Ministerie van Volksgezondheid, Welzijn en Sport.    
+e. de medewerkers van de departementale auditdienst van het Ministerie van Volksgezondheid, Welzijn en Sport.   
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 29 augustus 2007.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 29 augustus 2007. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing personen belast met het inzage- en kopieerrecht.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing personen belast met het inzage- en kopieerrecht. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

@@ -7,30 +7,33 @@ Gelet op [artikel 5, derde lid, van de Verordening huishoudelijke heffingen plui
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 29-04-2007 
 
-Dit besluit neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Dit besluit neemt de begripsbepalingen over van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md). 
 
 ### Artikel  2  
+Materieel uitgewerkt per 29-04-2007 
 
 1.  Het geslacht gewicht is ten minste gelijk aan een percentage van het levend gewicht, welk percentage voor 
 
-– vleeskuikens 74%  
+–vleeskuikens 74%  
 
-– kalkoenen 80%  
+–kalkoenen 80%  
 
-– eenden 70%  
+–eenden 70%  
 
-– parelhoenders 70%  
+–parelhoenders 70%  
 
-– oude kippen en hanen 73% en voor  
+–oude kippen en hanen 73% en voor  
 
-– ganzen 70%   bedraagt.   
-2.  Het bepaalde in het eerste lid geldt niet voor die hoeveelheden waarvoor ten genoegen van het productschap is aangetoond dat een lager percentage van toepassing is.   
+–ganzen 70%   bedraagt.   
+2.  Het bepaalde in het eerste lid geldt niet voor die hoeveelheden waarvoor ten genoegen van het productschap is aangetoond dat een lager percentage van toepassing is.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 29-04-2007 
 
 1.  Dit besluit wordt aangehaald als: Besluit vaststelling geslacht gewicht pluimveevlees 2006.   
-2.  Dit besluit treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt het in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt het terug tot en met 1 januari 2006.   
+2.  Dit besluit treedt in werking met ingang van 1 januari 2006. Indien het Verordeningenblad Bedrijfsorganisatie waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2006, treedt het in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt het terug tot en met 1 januari 2006.  
 
 Zoetermeer 
 27 oktober 2005   

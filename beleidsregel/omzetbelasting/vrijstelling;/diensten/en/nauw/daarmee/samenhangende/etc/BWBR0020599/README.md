@@ -12,7 +12,7 @@ In dit besluit komt de reikwijdte aan de orde van de vrijstelling voor bepaalde 
 
 ####Gebruikte begrippen en afkortingen
 
-wet: [Wet op de omzetbelasting 1968](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) uitvoeringsbesluit: [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) uitvoeringsbeschikking: [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) vrijstelling: [artikel 11, eerste lid, onderdeel t, van de we](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) t Zesde richtlijn: Zesde richtlijn betreffende de harmonisatie van de wetgevingen der Lidstaten inzake omzetbelasting – Gemeenschappelijk stelsel van belasting over de toegevoegde waarde: uniforme grondslag (77/388/EEG) Hof van Justitie: Hof van Justitie van de Europese Gemeenschappen     
+wet: [Wet op de omzetbelasting 1968](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) uitvoeringsbesluit: [Uitvoeringsbesluit omzetbelasting 1968](../../../../../../../../../../AMvB/uitvoeringsbesluit/omzetbelasting/1968/BWBR0002633/README.md) uitvoeringsbeschikking: [Uitvoeringsbeschikking omzetbelasting 1968](../../../../../../../../../../ministeriele-regeling/uitvoeringsbeschikking/omzetbelasting/1968/BWBR0002634/README.md) vrijstelling: [artikel 11, eerste lid, onderdeel t, van de we](../../../../../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md)t Zesde richtlijn: Zesde richtlijn betreffende de harmonisatie van de wetgevingen der Lidstaten inzake omzetbelasting – Gemeenschappelijk stelsel van belasting over de toegevoegde waarde: uniforme grondslag (77/388/EEG) Hof van Justitie: Hof van Justitie van de Europese Gemeenschappen     
 ### 2  
 
 ####Juridisch kader
@@ -65,4 +65,4 @@ Den Haag
 de 
 Minister van Financiën, namens deze: de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

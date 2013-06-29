@@ -16,23 +16,23 @@ Besluit:
 
 ####Definities
 
-Onder de dienstonderdelen als weergegeven onder artikel 1, sub c, van het Mandaatbesluit dienstonderdelen Openbaar Ministerie d.d. 15 december 1997 dient tevens begrepen te worden de Centrale Verwerking Openbaar Ministerie.  
+Onder de dienstonderdelen als weergegeven onder artikel 1, sub c, van het Mandaatbesluit dienstonderdelen Openbaar Ministerie d.d. 15 december 1997 dient tevens begrepen te worden de Centrale Verwerking Openbaar Ministerie. 
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2005.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2005. 
 
 ### Artikel  3  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Wijzigingsbesluit bij het Mandaatbesluit dienstonderdelen Openbaar Ministerie.  
+Dit besluit wordt aangehaald als: Wijzigingsbesluit bij het Mandaatbesluit dienstonderdelen Openbaar Ministerie. 
 
 Den Haag 
 18 augustus 2005   
 
 De 
-Minister van Justitie, namens deze: het College van procureurs-generaal, 
-H.N.Brouwer   
+Minister van Justitie, namens deze:het College van procureurs-generaal, 
+H.N. Brouwer     

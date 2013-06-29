@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onze Minister van Economische Zaken wordt belast met de behartiging van de aangelegenheden op het terrein van het telecommunicatie- en postbeleid en het toezicht op dit terrein, voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister van Verkeer en Waterstaat.  
+Onze Minister van Economische Zaken wordt belast met de behartiging van de aangelegenheden op het terrein van het telecommunicatie- en postbeleid en het toezicht op dit terrein, voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister van Verkeer en Waterstaat. 
 
 ### Artikel  2  
 
-Onze Minister van Economische Zaken wordt belast met de behartiging van het beleid ten aanzien van marktordening en tarieven voor het gebruik van de infrastructuur in de kabelsector en ten aanzien van digitale televisie en radio via de ether, voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister van Onderwijs, Cultuur en Wetenschappen.  
+Onze Minister van Economische Zaken wordt belast met de behartiging van het beleid ten aanzien van marktordening en tarieven voor het gebruik van de infrastructuur in de kabelsector en ten aanzien van digitale televisie en radio via de ether, voorzover deze zorg voor 22 juli 2002 was opgedragen aan Onze Minister van Onderwijs, Cultuur en Wetenschappen. 
 
 ### Artikel  3  
 
-De taken van het Ministerie van Verkeer en Waterstaat, het Ministerie van Onderwijs, Cultuur en Wetenschappen en het Ministerie van Economische Zaken worden dienovereenkomstig gewijzigd.  
+De taken van het Ministerie van Verkeer en Waterstaat, het Ministerie van Onderwijs, Cultuur en Wetenschappen en het Ministerie van Economische Zaken worden dienovereenkomstig gewijzigd. 
 
 ### Artikel  4  
 
@@ -37,4 +37,4 @@ J. P. Balkenende
 de achtste augustus 2002 
 
 De Minister van Justitie a.i., 
-J. P. Balkenende    
+J. P. Balkenende     

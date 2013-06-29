@@ -55,7 +55,7 @@ q. Intracomptabele administratie: de begrotingsboekhouding waarin de financiële
 
 r. Extracomptabele administratie: de ondersteunende administratie die als aanvulling op de begrotingsadministratie wordt bijgehouden.  
 
-s. Bijstelling van een aangegane verplichting: een aanpassing van het bedrag van een aangegane verplichting en van de raming van de uit die verplichting voortvloeiende betaling(en), zonder dat er in formele zin sprake is van een nieuwe verplichting.    
+s. Bijstelling van een aangegane verplichting: een aanpassing van het bedrag van een aangegane verplichting en van de raming van de uit die verplichting voortvloeiende betaling(en), zonder dat er in formele zin sprake is van een nieuwe verplichting.   
 
 ### Artikel  2  
 
@@ -63,7 +63,7 @@ s. Bijstelling van een aangegane verplichting: een aanpassing van het bedrag van
 
 1.  De Minister, dan wel het college is verantwoordelijk voor een deugdelijke administratieve organisatie van het financieel beheer, inclusief de noodzakelijke functiescheiding.   
 2.  De Minister dan wel het college draagt zorg voor de tijdige verstrekking van informatie aan de Minister van Financiën.   
-3.  De Minister dan wel het college draagt bij de inrichting van de begrotingsadministratie zorg voor een adequate beveiliging van de (geautomatiseerde) begrotingsadministratie.   
+3.  De Minister dan wel het college draagt bij de inrichting van de begrotingsadministratie zorg voor een adequate beveiliging van de (geautomatiseerde) begrotingsadministratie.  
 
 ### Artikel  3  
 
@@ -88,7 +88,7 @@ e. de producten ten behoeve van de Algemene Rekenkamer waaronder in ieder geval:
 
 1°. de (ontwerp-)slotwetten;  
 
-2°. het jaarverslag inclusief de bedrijfsvoeringsparagraaf en een paragraaf voor de baten-lastendiensten, de balans per 31 december, het kasstroomoverzicht, de verantwoordingsstaat van de Ministeries en de baten-lastendiensten met bijbehorende toelichting en de saldibalans met toelichting.       
+2°. het jaarverslag inclusief de bedrijfsvoeringsparagraaf en een paragraaf voor de baten-lastendiensten, de balans per 31 december, het kasstroomoverzicht, de verantwoordingsstaat van de Ministeries en de baten-lastendiensten met bijbehorende toelichting en de saldibalans met toelichting.      
 
 ### Hoofdstuk  2  
 
@@ -105,7 +105,7 @@ a. de begrotingen genoemd in [artikel 1 van de Comptabiliteitswet 2001](../../..
 b. de baten-lastendiensten bedoeld in [artikel 10 van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
 
 c. de rekeningen buiten het begrotingsverband bedoeld in [artikel 28, tweede lid van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).     
-2.  De begrotingsadministraties worden ingericht overeenkomstig het geldende begrotingsstelsel. Voor de begrotingen bedoeld in het eerste lid onder a is dat een geïntegreerd verplichtingen-kasstelsel. De baten-lastendiensten bedoeld in het eerste lid onder b voeren een baten-lastenstelsel.   
+2.  De begrotingsadministraties worden ingericht overeenkomstig het geldende begrotingsstelsel. Voor de begrotingen bedoeld in het eerste lid onder a is dat een geïntegreerd verplichtingen-kasstelsel. De baten-lastendiensten bedoeld in het eerste lid onder b voeren een baten-lastenstelsel.  
 
 ### Artikel  5  
 
@@ -120,7 +120,7 @@ b. de eventuele mutaties in de begrotingsbedragen en in de meerjarenramingen waa
 c. in samenhang met de begrotingsboekhouding, informatie over de beschikbare begrotingsruimte.     
 2.  De departementale begrotingsadministratie bevat zowel ramingsgegevens als realisatiegegevens op basis waarvan in elk geval per Ministerie en zo mogelijk per begrotingsfonds een saldibalans kan worden opgesteld.   
 3.  De departementale begrotingsadministratie wordt zodanig ingericht en bijgehouden dat daaraan informatie kan worden ontleend die relevant is voor het EMU-saldo. De Minister van Financiën maakt bekend welke informatie relevant is voor het EMU-saldo.   
-4.  De begrotingsadministratie van een baten-lastendienst verschaft informatie over de door de Staten-Generaal geautoriseerde begrotingsbedragen met betrekking tot baten en lasten, het saldo van de baten en lasten, kapitaaluitgaven en -ontvangsten.   
+4.  De begrotingsadministratie van een baten-lastendienst verschaft informatie over de door de Staten-Generaal geautoriseerde begrotingsbedragen met betrekking tot baten en lasten, het saldo van de baten en lasten, kapitaaluitgaven en -ontvangsten.  
 
 ### Artikel  6  
 
@@ -135,7 +135,7 @@ b. voor het opstellen van de nieuwe begroting en de daarbij behorende meerjarenr
 
 c. voor het opstellen van begrotingswijzigingen in het kader van de eerste en tweede suppletoire begroting en de ontwerp-slotwetten;  
 
-d. voor het opstellen van de jaarlijkse verantwoording.     
+d. voor het opstellen van de jaarlijkse verantwoording.    
 
 ### Hoofdstuk  3  
 
@@ -146,13 +146,13 @@ d. voor het opstellen van de jaarlijkse verantwoording.
 ####Begrotings- en meerjarenramingen
 
 1.  Bij de begrotingsvoorbereiding worden de begrotings- en meerjarenramingen van een onderbouwing voorzien; tijdens de begrotingsuitvoering geldt hetzelfde voor de wijzigingen hierop.   
-2.  Indien tijdens de begrotingsuitvoering de verwachte realisatie afwijkt van het beschikbare bedrag, wordt een wijziging van het begrotingsbedrag boven de afgesproken grens op het niveau van beleidsdoelstellingen, operationele doelstellingen en instrumenten aan de Minister van Financiën voorgelegd.   
+2.  Indien tijdens de begrotingsuitvoering de verwachte realisatie afwijkt van het beschikbare bedrag, wordt een wijziging van het begrotingsbedrag boven de afgesproken grens op het niveau van beleidsdoelstellingen, operationele doelstellingen en instrumenten aan de Minister van Financiën voorgelegd.  
 
 ### Artikel  8  
 
 ####Kwaliteitseis verplichtingen, uitgaven en ontvangsten
 
-Alle verplichtingen, uitgaven en ontvangsten in de departementale begrotingsadministratie voldoen aan de eis van comptabele rechtmatigheid.  
+Alle verplichtingen, uitgaven en ontvangsten in de departementale begrotingsadministratie voldoen aan de eis van comptabele rechtmatigheid. 
 
 ### Artikel  9  
 
@@ -160,7 +160,7 @@ Alle verplichtingen, uitgaven en ontvangsten in de departementale begrotingsadmi
 
 1.  Voorafgaand aan iedere begrotingsuitgave wordt een verplichting in de departementale begrotingsadministratie opgenomen. Bij iedere verplichting wordt een einddatum geregistreerd. Geen enkele betaling geschiedt onverplicht.   
 2.  In afwijking van het gestelde in het eerste lid wordt geen afzonderlijke verplichting vastgelegd voor de categorieën verplichtingen als bedoeld in [artikel 3, derde lid van de Comptabiliteitswet 2001](../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
-3.  Bij aan te gane en aangegane verplichtingen wordt een (meerjarige) kasraming gemaakt.   
+3.  Bij aan te gane en aangegane verplichtingen wordt een (meerjarige) kasraming gemaakt.  
 
 ### Artikel  10  
 
@@ -168,7 +168,7 @@ Alle verplichtingen, uitgaven en ontvangsten in de departementale begrotingsadmi
 
 1.  Een positieve bijstelling van een aangegane verplichting wordt in de departementale begrotingsadministratie op dezelfde wijze als een aangegane verplichting verwerkt.   
 2.  Een negatieve bijstelling van een aangegane verplichting wordt in de departementale begrotingsadministratie verwerkt door een negatief bedrag als aangegane verplichting op te nemen en door de raming van de uit de oorspronkelijke verplichting voortvloeiende betaling(en) met dat bedrag te verlagen.   
-3.  De begrotingsboekhouding kan op ieder voorgeschreven moment een saldibalans met de actuele verplichtingenstand opleveren.   
+3.  De begrotingsboekhouding kan op ieder voorgeschreven moment een saldibalans met de actuele verplichtingenstand opleveren.  
 
 ### Artikel  11  
 
@@ -176,7 +176,7 @@ Alle verplichtingen, uitgaven en ontvangsten in de departementale begrotingsadmi
 
 1.  In de begrotingsboekhouding wordt verband gelegd tussen verplichtingen en de daarmee verband houdende betalingen.   
 2.  Bij het vastleggen van betalingen in de begrotingsboekhouding wordt verwezen naar de onderliggende stukken.   
-3.  De tussenrekeningen die in het traject van betaalbaarstelling worden gebruikt, bevatten bij de afsluiting van een begrotingsjaar geen saldo meer.   
+3.  De tussenrekeningen die in het traject van betaalbaarstelling worden gebruikt, bevatten bij de afsluiting van een begrotingsjaar geen saldo meer.  
 
 ### Artikel  12  
 
@@ -184,20 +184,20 @@ Alle verplichtingen, uitgaven en ontvangsten in de departementale begrotingsadmi
 
 1.  De rekeningen van de begrotingsartikelen worden aan het einde van een begrotingsjaar afgesloten.   
 2.  De totalen van deze rekeningen van uitgaven en ontvangsten worden op de saldibalans opgenomen met een verwijzing naar het desbetreffende begrotingsjaar.   
-3.  De definitieve afsluiting van een begrotingsjaar vindt plaats nadat de Staten-Generaal decharge hebben verleend.   
+3.  De definitieve afsluiting van een begrotingsjaar vindt plaats nadat de Staten-Generaal decharge hebben verleend.  
 
 ### Artikel  13  
 
 ####Boekingen buiten het begrotingsverband
 
-Boeking van verplichtingen, uitgaven en ontvangsten buiten het begrotingsverband geschiedt op analoge wijze als boeking van verplichtingen, uitgaven en ontvangsten binnen het begrotingsverband.  
+Boeking van verplichtingen, uitgaven en ontvangsten buiten het begrotingsverband geschiedt op analoge wijze als boeking van verplichtingen, uitgaven en ontvangsten binnen het begrotingsverband. 
 
 ### Artikel  14  
 
 ####Rekeningen van liquide middelen en rekening-courant met de rijkshoofdboekhouding
 
 1.  Op de rekeningen van liquide middelen wordt het saldo bij de banken en het aanwezige contante geld geregistreerd.   
-2.  Op de rekening-courant met de rijkshoofdboekhouding worden de mutaties in de financiële verhouding met ‘s Rijks schatkist geadministreerd.   
+2.  Op de rekening-courant met de rijkshoofdboekhouding worden de mutaties in de financiële verhouding met ‘s Rijks schatkist geadministreerd.  
 
 ### Hoofdstuk  4  
 
@@ -208,14 +208,14 @@ Boeking van verplichtingen, uitgaven en ontvangsten buiten het begrotingsverband
 ####Overige administraties binnen de begrotingsadministratie
 
 1.  Overige administraties worden voor zover mogelijk en doelmatig in controleverband met de begrotingsboekhouding bijgehouden.   
-2.  De Minister kan aanvullende regels stellen voor de overige administraties van zijn departement.   
+2.  De Minister kan aanvullende regels stellen voor de overige administraties van zijn departement.  
 
 ### Artikel  16  
 
 ####Verplichte overige administraties
 
 1.  Het voeren van een salarisadministratie is verplicht. Indien een Minister garanties, voorschotten of leningen ten laste van de begroting verstrekt, wordt hiervoor een aparte administratie gevoerd. Ook voor deelnemingen wordt een administratie bijgehouden.   
-2.  De Minister van Financiën kan schriftelijk ontheffing verlenen van het bepaalde in het eerste lid.   
+2.  De Minister van Financiën kan schriftelijk ontheffing verlenen van het bepaalde in het eerste lid.  
 
 ### Artikel  17  
 
@@ -232,7 +232,7 @@ c. de gegevens voor de betaalbaarstelling van de netto bedragen;
 d. de betaalbaargestelde netto bedragen en de berekening daarvan;  
 
 e. de gegevens voor de berekening van de bijdrage van het Rijk aan het Algemeen burgerlijk pensioenfonds en de als gevolg van belastingwetten en sociale wetten verschuldigde bedragen.     
-2.  De salarisadministratie is zodanig ingericht, dat daaraan op doelmatige wijze gegevens kunnen worden ontleend voor relevante overzichten en opgaven met betrekking tot het salaris.   
+2.  De salarisadministratie is zodanig ingericht, dat daaraan op doelmatige wijze gegevens kunnen worden ontleend voor relevante overzichten en opgaven met betrekking tot het salaris.  
 
 ### Artikel  18  
 
@@ -247,7 +247,7 @@ b. het begrotingsjaar, artikelnummer ten laste waarvan de garantie is verleend e
 c. de stand, de looptijd inclusief vervaldatum en het risico van de individuele garantie.     
 2.  Aan de garantieadministratie kan de reden waarom een garantie is verleend en de wettelijke grondslag van de garantie worden ontleend.   
 3.  Garanties worden naar type gerangschikt en geadministreerd.   
-4.  De eisen genoemd in het eerste, tweede en derde lid gelden voor garanties die het Rijk rechtstreeks verleent.   
+4.  De eisen genoemd in het eerste, tweede en derde lid gelden voor garanties die het Rijk rechtstreeks verleent.  
 
 ### Artikel  19  
 
@@ -266,7 +266,7 @@ d. de vorm waarin zekerheid is gesteld dan wel dat geen zekerheid is gesteld;
 e. of op grond van de Regeling verlening voorschotten 2007 al dan niet goedkeuring vereist is van de Minister van Financiën en, indien dat het geval is, of die goedkeuring al dan niet is verkregen;  
 
 f. de uiterste datum van afrekening en de stand van zaken bij de afwikkeling van de afrekening.     
-2.  Indien op grond van de Regeling verlening voorschotten 2007 een voorschot wordt verstrekt, blijkt uit de voorschottenadministratie waarom een voorschot wordt verleend.   
+2.  Indien op grond van de Regeling verlening voorschotten 2007 een voorschot wordt verstrekt, blijkt uit de voorschottenadministratie waarom een voorschot wordt verleend.  
 
 ### Artikel  20  
 
@@ -285,7 +285,7 @@ d. de stand, de looptijd en het risico van de individuele lening;
 e. de hoofdsom, het rentepercentage en het aflossingsschema van de lening;  
 
 f. of zekerheid is gesteld en de vorm waarin dit is gedaan.     
-2.  Uit de leningenadministratie blijkt waarom een lening is verstrekt en wat de wettelijke grondslag is.   
+2.  Uit de leningenadministratie blijkt waarom een lening is verstrekt en wat de wettelijke grondslag is.  
 
 ### Artikel  21  
 
@@ -305,7 +305,7 @@ e. de intrinsieke waarde of ingeval van een minderheidsbelang zo mogelijk de beu
 
 f. de bewijzen van deelneming en de nummers daarvan;  
 
-g. de plaats waar de bewijzen van deelneming bewaard worden.    
+g. de plaats waar de bewijzen van deelneming bewaard worden.   
 
 ### Artikel  22  
 
@@ -339,7 +339,7 @@ b. op termijn opeisbare vorderingen. Hierbij wordt een nader onderscheid aangebr
 2°. op lange termijn opeisbare vorderingen;    
 
 c. geconditioneerde vorderingen.     
-5.  De Minister bepaalt welke overige administraties zinvol zijn. Hij kan daarover advies vragen aan de Minister van Financiën.   
+5.  De Minister bepaalt welke overige administraties zinvol zijn. Hij kan daarover advies vragen aan de Minister van Financiën.  
 
 ### Hoofdstuk  5  
 
@@ -349,13 +349,13 @@ c. geconditioneerde vorderingen.
 
 ####Mogelijkheid tot het stellen van aanvullende regels
 
-De Minister van Financiën kan aanvullende regels voor de departementale begrotingsadministratie stellen.  
+De Minister van Financiën kan aanvullende regels voor de departementale begrotingsadministratie stellen. 
 
 ### Artikel  24  
 
 ####Evaluatiebepaling
 
-Deze regeling wordt vijf jaar na de datum van inwerkingtreding geëvalueerd.  
+Deze regeling wordt vijf jaar na de datum van inwerkingtreding geëvalueerd. 
 
 ### Artikel  25  
 
@@ -364,9 +364,9 @@ Deze regeling wordt vijf jaar na de datum van inwerkingtreding geëvalueerd.
 1.  De Regeling departementale begrotingsadministratie 1997 van 18 april 2003 wordt ingetrokken.   
 2.  Deze regeling kan worden aangehaald als: Regeling departementale begrotingsadministratie 2007.   
 3.  Zij wordt ter kennis gebracht van de Algemene Rekenkamer en zal voorts openbaar worden gemaakt door publicatie in het Handboek Financiële Informatie en Administratie Rijksoverheid (www.minfin.nl/hafir).   
-4.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2007.   
+4.  Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2007.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Financiën, 
-W.J.Bos   
+Minister van Financiën,
+W.J. Bos     

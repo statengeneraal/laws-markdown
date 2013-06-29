@@ -7,9 +7,9 @@ Handelende in overeenstemming met de Ministers van Economische Zaken, van Financ
 
 Gelet op de [artikelen 1](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), [2](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), [4](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), [6](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), [7](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), [9](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md) en [12 van de Wet tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md) en de [artikelen 2](../../../../../../../../../../../../AMvB/besluit/tegemoetkoming/schade/bij/rampen/BWBR0010000/README.md) en [3 van het Besluit tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../../../../../../AMvB/besluit/tegemoetkoming/schade/bij/rampen/BWBR0010000/README.md);
 Besluit:     
-### §  1  
+### §  1 
 
-####Algemene bepalingen
+####Algemene bepalingen 
 
 ### Artikel  1  
 
@@ -37,9 +37,9 @@ b. het overlopen of bezwijken van een gereglementeerde waterkering langs een ged
 
 Aan deze regeling kan slechts aanspraak tot tegemoetkoming worden ontleend nadat de Europese Commissie de verenigbaarheid van deze regeling met artikel 87 van het Verdrag tot oprichting van de Europese Gemeenschappen heeft vastgesteld.  
 
-### §  2  
+### § 2 
 
-####Hoogte van de tegemoetkoming
+####Hoogte van de tegemoetkoming 
 
 ### Artikel  4  
 
@@ -85,7 +85,7 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 ####Teeltplanschade
 
 1.  De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel e, van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md) bedraagt 65% van het schadebedrag.   
-2.  De gedupeerde heeft geen recht op een tegemoetkoming in teeltplanschade, voor zover deze schade bestaat uit een productieverlies van minder dan 30% ten opzichte van de door de minister vast te stellen normbedragen voor de gemiddelde opbrengst in het betrokken schadegewas in de drie jaren voorafgaande aan het jaar waarin de productieverliezen zich voordoen.   
+2.   De gedupeerde heeft geen recht op een tegemoetkoming in teeltplanschade, voor zover deze schade bestaat uit een productieverlies van minder dan 30% ten opzichte van de door de minister vast te stellen normbedragen voor de gemiddelde opbrengst in het betrokken schadegewas in de drie jaren voorafgaande aan het jaar waarin de productieverliezen zich voordoen.   
 3.  Indien een gedupeerde op grond van het bepaalde in het tweede lid geen recht heeft op een tegemoetkoming in teeltplanschade, wordt deze schade niet meegenomen bij de berekening van het drempelbedrag, bedoeld in artikel 13, of het eigen risico, bedoeld in artikel 15.   
 
 ### Artikel  10  
@@ -125,9 +125,9 @@ De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, onderdelen 
 
 Het eigen risico als gevolg van het resultaat van de berekeningen, genoemd in de artikelen 8 tot en met 13, bedraagt voor bedrijven niet meer dan € 4.550.  
 
-### §  3  
+### § 3 
 
-####Berekeningsgrondslag
+####Berekeningsgrondslag 
 
 ### Artikel  16  
 
@@ -137,9 +137,9 @@ De schadetermijn voor de teeltplanschade en de bedrijfsschade, bedoeld in [artik
 
 Het uurloon, bedoeld in de [artikelen 2, tweede lid](../../../../../../../../../../../../AMvB/besluit/tegemoetkoming/schade/bij/rampen/BWBR0010000/README.md), en [3, derde lid, van het Besluit tegemoetkoming schade bij rampen en zware ongevallen](../../../../../../../../../../../../AMvB/besluit/tegemoetkoming/schade/bij/rampen/BWBR0010000/README.md) wordt vastgesteld op € 17,34 bruto per mensuur.  
 
-### §  4  
+### §  4 
 
-####Procedure
+####Procedure 
 
 ### Artikel  18  
 
@@ -156,21 +156,21 @@ De minister beslist binnen dertien weken na ontvangst op de aanvraag. Indien nie
 
 De beschikking op de aanvraag bevat in ieder geval: 
 
-a. de omvang van de schade, bedoeld in [artikel 4, eerste lid, onderdelen a tot en met f, van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), berekend met inachtneming van het schaderapport, bedoeld in [artikel 5 van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md);  
+a.  de omvang van de schade, bedoeld in [artikel 4, eerste lid, onderdelen a tot en met f, van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), berekend met inachtneming van het schaderapport, bedoeld in [artikel 5 van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md);  
 
-b. de in aanmerking te nemen kosten, bedoeld in [artikel 4, eerste lid, onderdelen g, i en j, van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), berekend met inachtneming van het schaderapport, bedoeld in [artikel 5 van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md);  
+b.  de in aanmerking te nemen kosten, bedoeld in [artikel 4, eerste lid, onderdelen g, i en j, van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md), berekend met inachtneming van het schaderapport, bedoeld in [artikel 5 van de wet](../../../../../../../../../../../../wet/wet/tegemoetkoming/schade/bij/rampen/BWBR0009637/README.md);  
 
-c. de omvang van de schade en kosten waarvoor verzekeringspenningen zijn verkregen of hadden kunnen worden verkregen, de omvang van de schade waarvoor uit andere hoofde een tegemoetkoming is verkregen of had kunnen worden verkregen en de omvang van de schade die is veroorzaakt door eigen schuld of doordat de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van de schade of kosten waarmee de schade en de kosten zijn verminderd;  
+c.  de omvang van de schade en kosten waarvoor verzekeringspenningen zijn verkregen of hadden kunnen worden verkregen, de omvang van de schade waarvoor uit andere hoofde een tegemoetkoming is verkregen of had kunnen worden verkregen en de omvang van de schade die is veroorzaakt door eigen schuld of doordat de gedupeerde onvoldoende maatregelen heeft getroffen ter voorkoming of beperking van de schade of kosten waarmee de schade en de kosten zijn verminderd;  
 
-d. het bedrag van de tegemoetkoming.    
+d.  het bedrag van de tegemoetkoming.    
 
 ### Artikel  21  
 
 Het college van gedeputeerde staten van de provincie Limburg draagt zorg voor de verspreiding van de door LASER vastgestelde schademeldingformulieren.  
 
-### §  5  
+### §  5 
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  22  
 
@@ -178,17 +178,17 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  23  
 
-Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003.  
+Deze regeling wordt aangehaald als: Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
-R.H.Hessing   
+R.H.  Hessing     
 
-### Bijlage  
+### Bijlage 
 
 ####behorend bij artikel 2, tweede lid , van de Regeling tegemoetkoming schade bij overstroming van de Maas januari 2003
 
-Als schadegebied wordt aangewezen het gearceerde deel van de kaart, gelegen in de winterbedding van de Maas tussen de landsgrens en de Maasbrug bij Gennep, op het grondgebied van de gemeenten gelegen tussen Eijsden en Gennep, met uitzondering van de gebieden langs de Maas waar primaire waterkeringen als bedoeld in de Wet op de waterkering of anderszins gereglementeerde waterkeringen aanwezig zijn.   ![55381](http://wetten.overheid.nl/Illustration/55381)
-Tot het schadegebied behoort tevens het op onderstaande kaart donkergekleurde grondgebied van Tegelen (gemeente Venlo) direct gelegen achter de op 5 januari 2003 bezweken damwand. Hiertoe behoren de aan de straten Maashoek en de Sint Michaelstraat gelegen objecten.   ![55382](http://wetten.overheid.nl/Illustration/55382)
+Als schadegebied wordt aangewezen het gearceerde deel van de kaart, gelegen in de winterbedding van de Maas tussen de landsgrens en de Maasbrug bij Gennep, op het grondgebied van de gemeenten gelegen tussen Eijsden en Gennep, met uitzondering van de gebieden langs de Maas waar primaire waterkeringen als bedoeld in de Wet op de waterkering of anderszins gereglementeerde waterkeringen aanwezig zijn. ![55381](http://wetten.overheid.nl/Illustration/55381)
+Tot het schadegebied behoort tevens het op onderstaande kaart donkergekleurde grondgebied van Tegelen (gemeente Venlo) direct gelegen achter de op 5 januari 2003 bezweken damwand. Hiertoe behoren de aan de straten Maashoek en de Sint Michaelstraat gelegen objecten. ![55382](http://wetten.overheid.nl/Illustration/55382)
 

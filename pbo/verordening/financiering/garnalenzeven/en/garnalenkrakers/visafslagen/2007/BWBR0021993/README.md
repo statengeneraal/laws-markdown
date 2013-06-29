@@ -27,12 +27,12 @@ In deze verordening wordt verstaan onder:
 
 2.  Onder het productschap ressorterende ondernemers, die met een Nederlands vissersvaartuig garnalen aanvoeren, zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd van € 0,004 per kg garnalen die door het productschap zijn gecontroleerd over een voor controle aangewezen zeef in eigendom van het productschap. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.   
 2.  De opbrengst van de heffing is bestemd voor de financiering van de aanschaf door het productschap van garnalenzeven en garnalenkrakers en van de plaatsing en het onderhoud van deze gamalenzeven en garnalenkrakers.   
-3.  De heffing, als bedoeld in het eerste lid, is niet meer verschuldigd met ingang van de dag volgende op de dag waarop het saldo van de in de begroting opgenomen Functie Medebewind onder Garnalenzeven, een bedrag van € 270.000,– overschrijdt.   
+3.  De heffing, als bedoeld in het eerste lid, is niet meer verschuldigd met ingang van de dag volgende op de dag waarop het saldo van de in de begroting opgenomen Functie Medebewind onder Garnalenzeven, een bedrag van € 270.000,– overschrijdt.  
 
 ### Artikel  3  
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.   
-2.  Deze verordening kan worden aangehaald als de Verordening financiering garnalenzeven en garnalenkrakers visafslagen 2007.   
+2.  Deze verordening kan worden aangehaald als de Verordening financiering garnalenzeven en garnalenkrakers visafslagen 2007.  
 
 Rijswijk 
 12 oktober 2006   

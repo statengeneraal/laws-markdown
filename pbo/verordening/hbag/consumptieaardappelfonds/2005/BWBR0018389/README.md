@@ -20,7 +20,7 @@ Besluit:
 a) de opbrengst van de heffing uit hoofde van de jaarlijks vast te stellen Heffingsverordening HBAG Consumptieaardappelfonds (voorheen genaamd: Verordening heffingen consumptieaardappelen);  
 
 b) de van de middelen van het fonds gekweekte rente.     
-4.  Ten laste van het fonds kan het bestuur van het hoofdbedrijfschap, op voorstel van de commissie consumptie-, fabrieks- en voeraardappelen, subsidies en bijdragen verlenen ter financiering van maatregelen en projecten in het belang of de bevordering van de teelt, be- of verwerking en afzet van consumptieaardappelen.   
+4.  Ten laste van het fonds kan het bestuur van het hoofdbedrijfschap, op voorstel van de commissie consumptie-, fabrieks- en voeraardappelen, subsidies en bijdragen verlenen ter financiering van maatregelen en projecten in het belang of de bevordering van de teelt, be- of verwerking en afzet van consumptieaardappelen.  
 
 ### §  2  
 
@@ -28,11 +28,11 @@ b) de van de middelen van het fonds gekweekte rente.
 
 ### Artikel  2  
 
-Deze verordening treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2003.  
+Deze verordening treedt in werking met ingang van de tweede dag na publicatie in het Verordeningenblad Bedrijfsorganisatie en werkt terug tot en met 1 januari 2003. 
 
 ### Artikel  3  
 
-Deze verordening wordt aangehaald als Verordening HBAG Consumptieaardappelfonds 2005.  
+Deze verordening wordt aangehaald als Verordening HBAG Consumptieaardappelfonds 2005. 
 
 Aalsmeer 
 2 juni 2005   

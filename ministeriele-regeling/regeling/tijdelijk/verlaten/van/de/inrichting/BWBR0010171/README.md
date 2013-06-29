@@ -6,8 +6,8 @@ De Minister van Justitie,
 Gelet op [artikel 26, derde lid, van de Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), en [artikel 570b, tweede lid, van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 6 november 1998 (nr. 724485/98);
-Besluit:     
-### Hoofdstuk  1  
+Besluit:      
+### Hoofdstuk 1  
 
 ####Algemene bepalingen
 
@@ -57,18 +57,18 @@ s. inrichtingsarts: de aan de inrichting verbonden arts of tandarts;
 
 t. verlofadres: het adres waar de gedetineerde tijdens zijn verlof verblijft en bereikbaar is;  
 
-u. betrokkene: betrokkene als bedoeld in [artikel 44b, onder c, van het besluit](../../../../../../../../AMvB/penitentiaire/maatregel/BWBR0009398/README.md).    
+u. betrokkene: betrokkene als bedoeld in [artikel 44b, onder c, van het besluit](../../../../../../../../AMvB/penitentiaire/maatregel/BWBR0009398/README.md).   
 
 ### Artikel  1a  
 
-Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, worden de strafduur en het strafrestant voor de toepassing van deze regeling berekend op grond van de veroordeling waartegen het rechtsmiddel is aangewend.  
+Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, worden de strafduur en het strafrestant voor de toepassing van deze regeling berekend op grond van de veroordeling waartegen het rechtsmiddel is aangewend.
 
 ### Artikel  2  
 
 ####Verzoek, ontvangst en beslissing
 
 1.  De directeur neemt het verzoek om verlof in ontvangst.   
-2.  De minister beslist over verzoeken om verlof in de gevallen bedoeld in de artikelen 17, eerste lid, 32 en 39. In de overige gevallen beslist de directeur namens de minister.   
+2.  De minister beslist over verzoeken om verlof in de gevallen bedoeld in de artikelen 17, eerste lid, 32 en 39. In de overige gevallen beslist de directeur namens de minister.  
 
 ### Artikel  3  
 
@@ -84,29 +84,29 @@ Indien de veroordeling tot een vrijheidsstraf nog niet onherroepelijk is, worden
 
 Het verlof wordt geweigerd in geval van: 
 
-a. ernstig vermoeden dat de gedetineerde zal proberen zich aan de detentie te onttrekken;  
+a.  ernstig vermoeden dat de gedetineerde zal proberen zich aan de detentie te onttrekken;  
 
-b. gevaar voor ernstige verstoring van de openbare orde of het plegen van strafbare feiten;  
+b.  gevaar voor ernstige verstoring van de openbare orde of het plegen van strafbare feiten;  
 
-c. ernstig vermoeden dat het verlof zal leiden tot alcoholmisbruik, druggebruik of een poging tot invoer van contrabande;  
+c.  ernstig vermoeden dat het verlof zal leiden tot alcoholmisbruik, druggebruik of een poging tot invoer van contrabande;  
 
-d. gebleken onbetrouwbaarheid met betrekking tot het nakomen van afspraken;  
+d.  gebleken onbetrouwbaarheid met betrekking tot het nakomen van afspraken;  
 
-e. risico voor een ongestoord verlof als gevolg van de gestoorde of agressieve persoonlijkheid van de gedetineerde;  
+e.  risico voor een ongestoord verlof als gevolg van de gestoorde of agressieve persoonlijkheid van de gedetineerde;  
 
-f. risico voor een ongestoord verlof als gevolg van ernstige spanningen in de woon- of leefsfeer van de te bezoeken persoon;  
+f.  risico voor een ongestoord verlof als gevolg van ernstige spanningen in de woon- of leefsfeer van de te bezoeken persoon;  
 
-g. risico van ongewenste confrontatie met slachtoffers van of anderszins betrokkenen bij het door de gedetineerde gepleegde misdrijf;  
+g.  risico van ongewenste confrontatie met slachtoffers van of anderszins betrokkenen bij het door de gedetineerde gepleegde misdrijf;  
 
-h. gevaar voor de gedetineerde;  
+h.  gevaar voor de gedetineerde;  
 
-i. risico van maatschappelijke onrust;  
+i.  risico van maatschappelijke onrust;  
 
-j. het ontbreken van een aanvaardbaar verlofadres;  
+j.  het ontbreken van een aanvaardbaar verlofadres;  
 
-k. een gedetineerde ten aanzien van wie vaststaat dat hij na de detentie zal worden uitgeleverd of ten aanzien van wie een uitleveringsprocedure loopt, tenzij hieraan schorsende werking is verleend;  
+k.  een gedetineerde ten aanzien van wie vaststaat dat hij na de detentie zal worden uitgeleverd of ten aanzien van wie een uitleveringsprocedure loopt, tenzij hieraan schorsende werking is verleend;  
 
-l. een gedetineerde die ongewenst is verklaard, ten aanzien van wie een procedure tot ongewenstverklaring loopt, tenzij hieraan schorsende werking is verleend, of van wie vaststaat dat hij na de detentie zal worden uitgezet.    
+l.  een gedetineerde die ongewenst is verklaard, ten aanzien van wie een procedure tot ongewenstverklaring loopt, tenzij hieraan schorsende werking is verleend, of van wie vaststaat dat hij na de detentie zal worden uitgezet.    
 
 ### Artikel  5  
 
@@ -121,7 +121,7 @@ l. een gedetineerde die ongewenst is verklaard, ten aanzien van wie een procedur
 
 1.  Indien de directeur bevoegd is over het verlof te beslissen, stelt hij de gedetineerde schriftelijk in kennis van zijn beslissing.   
 2.  Bij afwijzing van het verzoek wordt de beslissing kort gemotiveerd; zo nodig wordt zij mondeling toegelicht.   
-3.  Alvorens advies aan de minister uit te brengen, hoort de directeur de gedetineerde.   
+3.  Alvorens advies aan de minister uit te brengen, hoort de directeur de gedetineerde.  
 
 ### Artikel  7  
 
@@ -130,15 +130,15 @@ l. een gedetineerde die ongewenst is verklaard, ten aanzien van wie een procedur
 1.  De beslissing van de minister wordt onverwijld schriftelijk en zo nodig ook telefonisch meegedeeld aan de directeur van de inrichting waar de betrokken gedetineerde verblijft.   
 2.  Bij een positieve beslissing geeft de minister in de schriftelijke mededeling aan de gedetineerde de aanvangsdatum van het verlof en eventuele bijzondere voorwaarden aan. Een schriftelijke mededeling houdende een afwijzende beslissing op een verlofaanvraag houdt een korte motivering in.   
 
-### Artikel  8  
+###Artikel 8 
 
 ####Tenuitvoerlegging straf tijdens verlof
 
-Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in artikel 10, tweede lid onder b, en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren.  
+Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlof en het verlof tijdens verblijf in een inrichting voor stelselmatige daders loopt de tenuitvoerlegging van de straf ofwel de maatregel door, gedurende de strafonderbreking wordt de tenuitvoerlegging van de straf opgeschort. In het geval bedoeld in artikel 10, tweede lid onder b, en in geval van ziekte wordt de tenuitvoerlegging geschorst vanaf het moment dat de gedetineerde terug had moeten keren. 
 
 ### Artikel  9  
 
-####Overplaatsing
+####Overplaatsing 
 
 1.  Wordt de gedetineerde tussen de verlening en het plaatsvinden van het verlof overgeplaatst naar een andere inrichting, dan voert de directeur van de laatstgenoemde inrichting de beslissing uit, tenzij gewijzigde omstandigheden hem aanleiding tot heroverweging geven.   
 2.  Wordt de gedetineerde na indiening van het verzoek om verlof maar voordat daarop beslist is overgeplaatst naar een andere inrichting, dan neemt de directeur van de laatstgenoemde inrichting de behandeling van het verzoek over. De directeur van de inrichting van herkomst verstrekt hem daartoe alle inlichtingen en informatie. Betreft het een verzoek waarover de minister beslist, dan informeert de directeur van de inrichting van herkomst ook de minister.   
@@ -149,22 +149,22 @@ Gedurende het algemeen verlof, het regimesgebonden verlof, het incidenteel verlo
 
 1.  Indien zich tijdens het verlof een incident voordoet, kan de directeur, afhankelijk van de aard van het incident en het verlof, en de bestemming van de inrichting: 
 
-a. het volgende verlof geheel of gedeeltelijk intrekken of niet verlenen,  
+a.  het volgende verlof geheel of gedeeltelijk intrekken of niet verlenen,  
 
-b. bij het volgende verlof bijzondere voorwaarden opleggen,  
+b.  bij het volgende verlof bijzondere voorwaarden opleggen,  
 
-c. de gedetineerde intern overplaatsen, of  
+c.  de gedetineerde intern overplaatsen, of  
 
-d. overplaatsing naar een andere afdeling of inrichting adviseren.     
+d.  overplaatsing naar een andere afdeling of inrichting adviseren.     
 2.  Van een incident als bedoeld in het eerste lid is in elk geval sprake wanneer de gedetineerde: 
 
-a. tijdens het verlof buiten de inrichting betrokken is bij een verstoring van de openbare orde of een strafbaar feit;  
+a.  tijdens het verlof buiten de inrichting betrokken is bij een verstoring van de openbare orde of een strafbaar feit;  
 
-b. verwijtbaar te laat of niet in de inrichting terugkeert;  
+b.  verwijtbaar te laat of niet in de inrichting terugkeert;  
 
-c. onder invloed van alcohol of verdovende middelen in de inrichting terugkeert;  
+c.  onder invloed van alcohol of verdovende middelen in de inrichting terugkeert;  
 
-d. bij terugkeer in de inrichting contrabande met zich meevoert.     
+d.  bij terugkeer in de inrichting contrabande met zich meevoert.     
 3.  Onverminderd de verplichting om het incident elders te signaleren, worden gegevens over incidenten tijdens verlof opgenomen in het penitentiair dossier.   
 
 ### Artikel  11  
@@ -188,7 +188,7 @@ d. bij terugkeer in de inrichting contrabande met zich meevoert.
 1.  De directeur kan de gedetineerde een bijdrage in de reis- en verblijfkosten verstrekken. De minister geeft nadere richtlijnen omtrent het bedrag.   
 2.  De gedetineerde is tijdens het verlof niet van rijkswege verzekerd tegen wettelijke aansprakelijkheid.   
 
-### Hoofdstuk  2  
+### Hoofdstuk 2  
 
 ####Algemeen verlof
 
@@ -200,17 +200,17 @@ d. bij terugkeer in de inrichting contrabande met zich meevoert.
 
 a. ingeval de veroordeling onherroepelijk is, hij ten minste een derde deel van de onvoorwaardelijk opgelegde straf heeft ondergaan dan wel, ingeval de veroordeling nog niet onherroepelijk is, de duur van de in voorlopige hechtenis doorgebrachte tijd ten minste gelijk is aan een derde deel van de onvoorwaardelijk opgelegde straf; en  
 
-b. zijn strafrestant nog ten minste drie maanden en ten hoogste een jaar bedraagt.     
+b. zijn strafrestant nog ten minste drie maanden en ten hoogste een jaar bedraagt.    
 2.  Bij het bepalen van het strafrestant wordt ook de vervangende hechtenis op grond van de [artikelen 24c](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [24d van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en de gijzeling op grond van [artikel 28, eerste lid, Wet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) administratieve handhaving verkeersvoorschriften meegeteld.   
 3.  Algemeen verlof wordt niet verleend aan: 
 
-a. gedetineerden die verblijven in een inrichting waar het verlof deel uitmaakt van het regime;  
+a.  gedetineerden die verblijven in een inrichting waar het verlof deel uitmaakt van het regime;  
 
-b. gedetineerden aan wie tevens de maatregel van terbeschikkingstelling met dwangverpleging is opgelegd;  
+b.  gedetineerden aan wie tevens de maatregel van terbeschikkingstelling met dwangverpleging is opgelegd;  
 
-c. gedetineerden die geselecteerd zijn voor, dan wel geplaatst zijn in, een extra beveiligde of uitgebreid beveiligde inrichting of afdeling;  
+c.  gedetineerden die geselecteerd zijn voor, dan wel geplaatst zijn in, een extra beveiligde of uitgebreid beveiligde inrichting of afdeling;   
 
-d. gedetineerden die geplaatst zijn in een Elektronisch Detentiehuis als bedoeld in artikel 2a van de Regeling selectie, plaatsing en overplaatsing gedetineerden.     
+d.  gedetineerden die geplaatst zijn in een Elektronisch Detentiehuis als bedoeld in artikel 2a van de Regeling selectie, plaatsing en overplaatsing gedetineerden.    
 
 ### Artikel  15  
 
@@ -231,9 +231,9 @@ Het algemeen verlof wordt verleend voor een duur van maximaal 60 uur.
 
 1.  De minister beslist over een eerste verzoek om algemeen verlof indien: 
 
-a. het een gedetineerde betreft die al dan niet onherroepelijk, is veroordeeld tot een onvoorwaardelijke vrijheidsstraf langer dan twee jaar of die veroordeeld is wegens een delict waarbij sprake was van een grote maatschappelijke onrust; zijn evenwel zowel het openbaar ministerie als de directeur van mening dat het verlof niet moet worden verleend, dan doet de directeur de aanvraag af;  
+a.  het een gedetineerde betreft die al dan niet onherroepelijk, is veroordeeld tot een onvoorwaardelijke vrijheidsstraf langer dan twee jaar of die veroordeeld is wegens een delict waarbij sprake was van een grote maatschappelijke onrust; zijn evenwel zowel het openbaar ministerie als de directeur van mening dat het verlof niet moet worden verleend, dan doet de directeur de aanvraag af;  
 
-b. het openbaar ministerie, al dan niet verplicht geraadpleegd, anders dan de directeur van mening is dat het verlof niet moet worden verleend.     
+b.  het openbaar ministerie, al dan niet verplicht geraadpleegd, anders dan de directeur van mening is dat het verlof niet moet worden verleend.     
 2.  In alle overige gevallen wordt de beslissing omtrent het verlenen van algemeen verlof door de directeur genomen.   
 3.  De directeur beslist namens de minister over verzoeken om vervolgverlof. De directeur neemt een verzoek om vervolgverlof in behandeling nadat de gedetineerde een eerste algemeen verlof heeft verkregen en dit verlof goed is verlopen. Incidenten bij of tijdens het vorige algemeen verlof zijn voor de directeur aanleiding om het daarop volgende verzoek voor verlof af te wijzen.   
 
@@ -243,7 +243,7 @@ b. het openbaar ministerie, al dan niet verplicht geraadpleegd, anders dan de di
 
 In verband met gewijzigde omstandigheden kan de directeur een reeds verleend algemeen verlof of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen of er nadere voorwaarden aan stellen. Indien de beslissing is genomen door de minister stelt de directeur hem onverwijld van de gewijzigde omstandigheden in kennis.  
 
-### Hoofdstuk  3  
+### Hoofdstuk 3  
 
 ####Regimesgebonden verlof
 
@@ -254,40 +254,40 @@ In verband met gewijzigde omstandigheden kan de directeur een reeds verleend alg
 1.  De directeur kan aan gedetineerden die verblijven in een inrichting waar vierwekelijks verlof deel uitmaakt van het regime, eenmaal per vier weken regimesgebonden verlof verlenen.   
 2.  Het verlof, bedoeld in het eerste lid, vindt volgens een door de directeur, na overleg met de gedetineerde, opgesteld verlofschema plaats in het weekend of gedurende een periode waartoe een algemeen erkende feestdag behoort. De directeur kan in uitzonderlijke omstandigheden anders bepalen.   
 3.  Aan gedetineerden die verblijven in een inrichting waar wekelijks verlof deel uitmaakt van het regime wordt ieder weekend regimesgebonden verlof verleend.   
-4.  De maximale duur van het verlof, bedoeld in het eerste lid, is 52 uur. Het mag tijdens het verblijf in de inrichting tweemaal tot 76 uur verlengd worden. Aan gedetineerden die zich door goed gedrag onderscheiden, kan de directeur daarenboven een verlengd verlof verlenen voor de weekends van Pasen en Pinksteren. Voorts kan hij erin toestemmen dat het laatste verlof van een jaar en het eerste verlof van het daaropvolgende jaar desgewenst kan worden verleend als een verlof voor Kerst respectievelijk voor Nieuwjaar, waarbij een van beide verloven verlengd mag worden.   
-5.  De maximale duur van het verlof, bedoeld in het derde lid, is 52 uur. Daarenboven kan de directeur verlof verlenen voor de algemeen erkende feestdagen als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md).   
+4.  De maximale duur van het verlof, bedoeld in het eerste lid, is 52 uur. Het mag tijdens het verblijf in de inrichting tweemaal tot 76 uur verlengd worden. Aan gedetineerden die zich door goed gedrag onderscheiden, kan de directeur daarenboven een verlengd verlof verlenen voor de weekends van Pasen en Pinksteren. Voorts kan hij erin toestemmen dat het laatste verlof van een jaar en het eerste verlof van het daaropvolgende jaar desgewenst kan worden verleend als een verlof voor Kerst respectievelijk voor Nieuwjaar, waarbij een van beide verloven verlengd mag worden.  
+5.  De maximale duur van het verlof, bedoeld in het derde lid, is 52 uur. Daarenboven kan de directeur verlof verlenen voor de algemeen erkende feestdagen als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md). 
 6.  De directeur beslist over weigering of verplaatsing van regimesgebonden verlof. Na overleg met de gedetineerde stelt de directeur een verlofschema op.   
-7.  In een beperkt beveiligde inrichting wordt in het laatste weekend van de detentie geen regimesgebonden verlof verleend, behoudens bijzondere gevallen.   
-8.  Ten aanzien van het verlof, bedoeld in het eerste lid dan wel het derde lid wordt advies door de reclassering uitgebracht.   
+7.  In een beperkt beveiligde inrichting wordt in het laatste weekend van de detentie geen regimesgebonden verlof verleend, behoudens bijzondere gevallen.    
+8.  Ten aanzien van het verlof, bedoeld in het eerste lid dan wel het derde lid wordt advies door de reclassering uitgebracht. 
 
 ### Artikel  20  
 
 ####Uitgesloten van regimesgebonden verlof
 
 1.  Aan gedetineerden die nog geen vier werkweken verblijven in een beperkt beveiligde inrichting wordt geen regimesgebonden verlof verleend, tenzij het gaat om gedetineerden die in het kader van detentiefasering in de inrichting worden geplaatst. In dat geval kan een reeds verleend algemeen verlof dat nog niet heeft plaatsgevonden, worden omgezet in een regimesgebonden verlof.   
-2.  Aan gedetineerden die verblijven op een normaal beveiligde afdeling van een beperkt beveiligde inrichting, wordt geen regimesgebonden verlof verleend.   
-3.  Aan gedetineerden die deelname weigeren, dan wel hun deelname weigeren voort te zetten aan een traject in het kader van het programma Terugdringen Recidive wordt geen regimesgebonden verlof verleend.   
+2.  Aan gedetineerden die verblijven op een normaal beveiligde afdeling van een beperkt beveiligde inrichting, wordt geen regimesgebonden verlof verleend.    
+3.  Aan gedetineerden die deelname weigeren, dan wel hun deelname weigeren voort te zetten aan een traject in het kader van het programma Terugdringen Recidive wordt geen regimesgebonden verlof verleend. 
 
-### Artikel  20a  
+### Artikel 20a  
 
 Gedetineerden die verblijven in een zeer beperkt beveiligde inrichting die tevens is aangewezen als Elektronisch Detentiehuis als bedoeld in [artikel 2a van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](../../../../../../../../ministeriele-regeling/regeling/selectie/plaatsing/en/overplaatsing/van/gedetineerden/BWBR0011558/README.md), komen niet voor regimesgebonden verlof in aanmerking. Ingeval van overplaatsing van een gedetineerde naar een Elektronisch Detentiehuis is artikel 9 niet van toepassing.  
 
-### Hoofdstuk  3a  
+###Hoofdstuk 3a 
 
 ####Verlof tijdens verblijf in een inrichting voor stelselmatige daders
 
-### Artikel  20b  
+###Artikel  20b 
 
-Artikel 4, onder j, is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.  
+Artikel 4, onder j, is niet van toepassing op het verlenen van verlof aan een betrokkene, voor zover het verlof zich niet uitstrekt over de nacht.
 
-### Artikel  20c  
+###Artikel 20c 
 
-1.  De directeur kan aan een betrokkene ten aanzien van wie de tenuitvoerlegging tenuitvoerlegging van de intramurale fase van de maatregel plaatsvindt verlof toekennen. De directeur bepaalt de frequentie en de duur van het verlof.   
-2.  Het verlof wordt verleend voor ten minste 2 uur en ten hoogste 52 uur per week.   
-3.  Bij de bepaling van de frequentie en het aantal uren verlof houdt de directeur rekening met de mate waarin vertrouwen bestaat dat het verlof zonder incidenten zal verlopen.   
-4.  De directeur kan besluiten dat de betrokkene tijdens het verlof wordt begeleid.   
+1. De directeur kan aan een betrokkene ten aanzien van wie de tenuitvoerlegging tenuitvoerlegging van de intramurale fase van de maatregel plaatsvindt verlof toekennen. De directeur bepaalt de frequentie en de duur van het verlof. 
+2.  Het verlof wordt verleend voor ten minste 2 uur en ten hoogste 52 uur per week.
+3. Bij de bepaling van de frequentie en het aantal uren verlof houdt de directeur rekening met de mate waarin vertrouwen bestaat dat het verlof zonder incidenten zal verlopen.
+4.  De directeur kan besluiten dat de betrokkene tijdens het verlof wordt begeleid.
 
-### Hoofdstuk  4  
+### Hoofdstuk 4  
 
 ####Incidenteel verlof
 
@@ -306,11 +306,11 @@ Artikel 4, onder j, is niet van toepassing op het verlenen van verlof aan een be
 
 1.  Voordat het incidenteel verlof wordt verleend voor een bezoek aan een persoon, dient ten aanzien van de te bezoeken persoon vast te staan dat: 
 
-a. de beweerde band bestaat,  
+a.  de beweerde band bestaat,  
 
-b. de relatie hecht is, en  
+b.  de relatie hecht is, en  
 
-c. de te bezoeken persoon geen bezwaar tegen het bezoek heeft.     
+c.  de te bezoeken persoon geen bezwaar tegen het bezoek heeft.     
 2.  Incidenteel verlof kan slechts worden verleend in verband met geboorte, ziekte, lichamelijke of geestelijke gesteldheid of overlijden van een relatie indien de desbetreffende toestand of gebeurtenis door een arts respectievelijk de burgerlijke stand is bevestigd.   
 3.  Uit veiligheidsoverwegingen kunnen aan de plaats van het bezoek nadere eisen worden gesteld.   
 
@@ -386,31 +386,31 @@ Incidenteel verlof kan worden verleend voor een bezoek aan een in levensgevaar o
 1.  De minister beslist indien het openbaar ministerie anders dan de directeur adviseert tot afwijzing of het een verzoek betreft van een gedetineerde die behoort tot een bijzondere categorie als bedoeld in het tweede lid. In de overige gevallen beslist de directeur.   
 2.  De bijzondere categorieën zijn: 
 
-a. onherroepelijk veroordeelden aan wie de maatregel van terbeschikkingstelling met dwangverpleging is opgelegd;  
+a.  onherroepelijk veroordeelden aan wie de maatregel van terbeschikkingstelling met dwangverpleging is opgelegd;  
 
-b. personen ten aanzien van wie op grond van [artikel 37 Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) een last tot plaatsing in een psychiatrisch ziekenhuis is gegeven, en die als passant in een huis van bewaring wachten op overbrenging naar een dergelijke inrichting;  
+b.  personen ten aanzien van wie op grond van [artikel 37 Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) een last tot plaatsing in een psychiatrisch ziekenhuis is gegeven, en die als passant in een huis van bewaring wachten op overbrenging naar een dergelijke inrichting;  
 
-c. gedetineerden verblijvend in een extra beveiligde inrichting;  
+c.  gedetineerden verblijvend in een extra beveiligde inrichting;  
 
-d. gedetineerden verblijvend in een uitgebreid beveiligde inrichting;  
+d.  gedetineerden verblijvend in een uitgebreid beveiligde inrichting;  
 
-e. gedetineerden verblijvend in een inrichting voor gedetineerden die een extreem beheersrisico vormen;  
+e.  gedetineerden verblijvend in een inrichting voor gedetineerden die een extreem beheersrisico vormen;  
 
-f. gedetineerden op de wachtlijst voor opname in een inrichting genoemd onder c, d en e;  
+f.  gedetineerden op de wachtlijst voor opname in een inrichting genoemd onder c, d en e;  
 
-g. gedetineerden die door de Afdeling Individuele Zaken van de sector Gevangeniswezen van de Dienst Justitiële Inrichtingen aangemerkt zijn als vlucht- of gemeengevaarlijk;  
+g.  gedetineerden die door de Afdeling Individuele Zaken van de sector Gevangeniswezen van de Dienst Justitiële Inrichtingen aangemerkt zijn als vlucht- of gemeengevaarlijk;  
 
-h. gedetineerden die op grond van [artikel 24, eerste lid, van de wet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) in afzondering zijn geplaatst;  
+h.  gedetineerden die op grond van [artikel 24, eerste lid, van de wet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) in afzondering zijn geplaatst;  
 
-i. personen die zijn gedetineerd wegens een delict waarbij sprake was of is van een grote mate van maatschappelijke onrust;  
+i.  personen die zijn gedetineerd wegens een delict waarbij sprake was of is van een grote mate van maatschappelijke onrust;  
 
-j. gedetineerden die op grond van [artikel 87 van de Faillissementswet](../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) in verzekerde bewaring zijn gesteld;  
+j.  gedetineerden die op grond van [artikel 87 van de Faillissementswet](../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) in verzekerde bewaring zijn gesteld;  
 
-k. gegijzelden en personen die in het kader van lijfsdwang rechtens van hun vrijheid beroofd zijn;  
+k.  gegijzelden en personen die in het kader van lijfsdwang rechtens van hun vrijheid beroofd zijn;  
 
-l. gedetineerden die, al dan niet onherroepelijk, zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan twee jaar;  
+l.  gedetineerden die, al dan niet onherroepelijk, zijn veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan twee jaar;  
 
-m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in artikel 28 eerste lid, waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.     
+m.  gedetineerden die een verzoek voor incidenteel verlof indienen voor één van de behandelingen genoemd in artikel 28 eerste lid, waarbij geen afdoende beveiliging kan worden gerealiseerd en ook in overleg met het Penitentiair Ziekenhuis geen oplossing kan worden bereikt.     
 
 ### Artikel  33  
 
@@ -418,7 +418,7 @@ m. gedetineerden die een verzoek voor incidenteel verlof indienen voor één van
 
 In verband met gewijzigde omstandigheden kan de directeur een reeds verleend incidenteel verlof of het daarvan nog resterende gedeelte intrekken, naar een ander tijdstip verplaatsen of er nadere voorwaarden aan stellen. Indien de beslissing is genomen door de minister stelt de directeur hem onverwijld van de gewijzigde omstandigheden in kennis.  
 
-### Hoofdstuk  5  
+### Hoofdstuk 5  
 
 ####Strafonderbreking
 
@@ -475,9 +475,9 @@ In verband met gewijzigde omstandigheden kan de minister een reeds verleende str
 2.  Indien een vrijheidsstraf van ten hoogste drie jaren is opgelegd, kan strafonderbreking worden verleend nadat tenminste de helft van de straf is ondergaan. Indien een vrijheidsstraf van meer dan drie jaren is opgelegd, kan strafonderbreking worden verleend nadat tenminste tweederde gedeelte van de straf is ondergaan.   
 3.  De strafonderbreking gaat in op het moment dat de vreemdeling Nederland daadwerkelijk heeft verlaten.   
 4.  Aan de strafonderbreking wordt de voorwaarde verbonden dat de vreemdeling niet naar Nederland terugkeert. Indien de vreemdeling de voorwaarde, bedoeld in het derde lid, niet naleeft, wordt de tenuitvoerlegging van de straf hervat.   
-5.  De artikelen 39 en 40 zijn van toepassing.   
+5.  De artikelen 39 en 40 zijn van toepassing.  
 
-### Hoofdstuk  6  
+### Hoofdstuk 6  
 
 ####Overgangsbepaling, inwerkingtreding en citeertitel
 
@@ -495,9 +495,9 @@ Deze regeling treedt in werking op 1 januari 1999.
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling tijdelijk verlaten van de inrichting.  
+Deze regeling wordt aangehaald als: Regeling tijdelijk verlaten van de inrichting. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H. Korthals      

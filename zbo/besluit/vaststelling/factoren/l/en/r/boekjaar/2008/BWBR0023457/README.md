@@ -7,16 +7,19 @@ Gelet op [artikel 4, zesde en zevende lid, van de Regeling vordering contante wa
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 13-02-2010 
 
-De factor L, bedoeld in [artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA](../../../../../../../../../../ministeriele-regeling/regeling/vordering/contante/waarde/periodieke/verstrekkingen/wao/BWBR0011500/README.md), wordt voor het boekjaar 2008 vastgesteld op 0,084293%.  
+De factor L, bedoeld in [artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA](../../../../../../../../../../ministeriele-regeling/regeling/vordering/contante/waarde/periodieke/verstrekkingen/wao/BWBR0011500/README.md), wordt voor het boekjaar 2008 vastgesteld op 0,084293%. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 13-02-2010 
 
-De factor r, bedoeld in [artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA](../../../../../../../../../../ministeriele-regeling/regeling/vordering/contante/waarde/periodieke/verstrekkingen/wao/BWBR0011500/README.md), wordt voor het boekjaar 2008 vastgesteld op 0,360275%.  
+De factor r, bedoeld in [artikel 3 van de Regeling vordering contante waarde van periodieke verstrekkingen WAO en Wet WIA](../../../../../../../../../../ministeriele-regeling/regeling/vordering/contante/waarde/periodieke/verstrekkingen/wao/BWBR0011500/README.md), wordt voor het boekjaar 2008 vastgesteld op 0,360275%. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 13-02-2010 
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2008.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2008. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
@@ -24,4 +27,4 @@ Amsterdam
 
 De 
 voorzitter Raad van bestuur UWV, 
-J.M.Linthorst   
+J.M. Linthorst     

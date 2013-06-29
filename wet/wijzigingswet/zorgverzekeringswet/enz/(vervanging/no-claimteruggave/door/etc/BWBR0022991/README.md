@@ -6,68 +6,68 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de no-claimteruggave in de Zorgverzekeringswet wordt vervangen door een verplicht eigen risico en dat verzekerden met meerjarige, onvermijdbare zorgkosten hiervoor worden gecompenseerd;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is dat de no-claimteruggave in de [Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt vervangen door een verplicht eigen risico en dat verzekerden met meerjarige, onvermijdbare zorgkosten hiervoor worden gecompenseerd;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  Ia  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  Ib  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  Ic  
 
-Wijzigt de Zorgverzekeringswet.   
+Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de zorgtoeslag.   
+Wijzigt de Wet op de zorgtoeslag. 
 
 ### Artikel  III  
 
-Wijzigt de Wet marktordening gezondheidszorg.   
+Wijzigt de Wet marktordening gezondheidszorg. 
 
 ### Artikel  IV  
 
-Wijzigt de Beroepswet.   
+Wijzigt de Beroepswet. 
 
 ### Artikel  V  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet werk en bijstand.   
+Wijzigt de Wet werk en bijstand. 
 
 ### Artikel  VII  
 
-Wijzigt de Wet werk en inkomen kunstenaars.   
+Wijzigt de Wet werk en inkomen kunstenaars. 
 
 ### Artikel  VIII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  IX  
 
-Wijzigt de Wijzigingswet Zorgverzekeringswet enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering), kst. 30918.   
+Wijzigt de Wijzigingswet Zorgverzekeringswet enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering), kst. 30918. 
 
 ### Artikel  X  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  XI  
 
-De artikelen 22, 23, tweede en derde lid, 69, tweede lid, 87, zesde lid, onderdeel e, subonderdeel 2, van de Zorgverzekeringswet, artikel 4 van de Wet op de zorgtoeslag en artikel 31, tweede lid, onderdeel r, van de Wet werk en bijstand en de daarop gebaseerde bepalingen, zoals deze luidden op de dag voorafgaande aan de dag waarop deze wet in werking treedt, blijven van toepassing op de no-claimteruggave over de jaren 2006 en 2007.  
+De [artikelen 22](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [23, tweede en derde lid](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [69, tweede lid](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [87, zesde lid, onderdeel e, subonderdeel 2, van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [artikel 4 van de Wet op de zorgtoeslag](../../../../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) en [artikel 31, tweede lid, onderdeel r, van de Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en de daarop gebaseerde bepalingen, zoals deze luidden op de dag voorafgaande aan de dag waarop deze wet in werking treedt, blijven van toepassing op de no-claimteruggave over de jaren 2006 en 2007. 
 
 ### Artikel  XII  
 
-Deze wet treedt in werking met ingang van 1 januari 2008, met dien verstande dat artikel II, onderdeel A, en artikel V, punt 1, in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en terugwerken tot en met 1 januari 2007.  
+Deze wet treedt in werking met ingang van 1 januari 2008, met dien verstande dat artikel II, onderdeel A, en artikel V, punt 1, in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij worden geplaatst en terugwerken tot en met 1 januari 2007. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

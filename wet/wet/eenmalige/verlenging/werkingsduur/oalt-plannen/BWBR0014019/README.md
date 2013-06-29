@@ -17,12 +17,12 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  2  
 
-Artikel 1 is van overeenkomstige toepassing op een besluit omtrent de verdeling van middelen als bedoeld in [artikel 171, eerste lid, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 157, eerste lid, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 272, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+Artikel 1 is van overeenkomstige toepassing op een besluit omtrent de verdeling van middelen als bedoeld in [artikel 171, eerste lid, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 157, eerste lid, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) en [artikel 272, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
 
 ### Artikel  3  
 
 1.  Indien de gemeenteraad voor de periode van 1 augustus 1998 tot en met 31 juli 2002 besloten heeft de middelen die de gemeente als specifieke uitkering ter tegemoetkoming in de kosten voor onderwijs in allochtone levende talen uit 's Rijks kas ontvangt, geheel of gedeeltelijk over te dragen aan een andere gemeente ten behoeve van onderwijs in een of meer allochtone levende talen in die gemeente, wordt dit besluit van rechtswege verlengd tot en met 31 juli 2004, tenzij de gemeenteraad anders besluit.   
-2.  Een besluit als bedoeld in [artikel 173a van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 159a van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) om de middelen die de gemeente als specifieke uitkering ter tegemoetkoming in de kosten voor onderwijs in allochtone levende talen uit 's Rijks kas ontvangt, geheel of gedeeltelijk te bestemmen voor taalondersteuning van allochtone leerlingen, heeft voor de eerste maal betrekking op de periode van 1 augustus 2002 tot en met 31 juli 2004.   
+2.  Een besluit als bedoeld in [artikel 173a van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 159a van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) om de middelen die de gemeente als specifieke uitkering ter tegemoetkoming in de kosten voor onderwijs in allochtone levende talen uit 's Rijks kas ontvangt, geheel of gedeeltelijk te bestemmen voor taalondersteuning van allochtone leerlingen, heeft voor de eerste maal betrekking op de periode van 1 augustus 2002 tot en met 31 juli 2004.  
 
 ### Artikel  4  
 
@@ -32,15 +32,15 @@ Artikel 1 is van overeenkomstige toepassing op een besluit omtrent de verdeling 
 
 ### Artikel  5  
 
-Wijzigt de Wijzigingswet Wet op het basisonderwijs, enz. (onderwijs in allochtone levende talen)   
+Wijzigt de Wijzigingswet Wet op het basisonderwijs, enz. (onderwijs in allochtone levende talen)  
 
 ### Artikel  6  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Daarbij kan worden bepaald dat artikel 5 van deze wet terugwerkt tot en met 31 juli 2002.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Daarbij kan worden bepaald dat artikel 5 van deze wet terugwerkt tot en met 31 juli 2002. 
 
 ### Artikel  7  
 
-Deze wet wordt aangehaald als: Wet eenmalige verlenging werkingsduur oalt-plannen.  
+Deze wet wordt aangehaald als: Wet eenmalige verlenging werkingsduur oalt-plannen. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -54,4 +54,4 @@ M. J. A. van der Hoeven
 de *vierentwintigste* september 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

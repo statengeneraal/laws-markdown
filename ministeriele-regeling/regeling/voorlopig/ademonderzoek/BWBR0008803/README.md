@@ -4,15 +4,15 @@
 
 De Minister van Justitie,  
 Gelet op artikel 2 van het Besluit alcoholonderzoeken;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: het NFI: het Nederlands Forensisch Instituut.  
+In deze regeling wordt verstaan onder:  het NFI: het Nederlands Forensisch Instituut. 
 
 ### Artikel  2  
 
-1.  Een voorlopig onderzoek van uitgeademde lucht geschiedt met: 
+1.   Een voorlopig onderzoek van uitgeademde lucht geschiedt met: 
 
 a. ademtestbuisjes, voorzien van een reagens waarmede alcohol langs chemische weg kan worden bepaald, van een type dat is aangewezen door het NFI, of  
 
@@ -33,10 +33,10 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling voorlopig ademonderzoek.  
+Deze regeling wordt aangehaald als: Regeling voorlopig ademonderzoek. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
-’s-Gravenhage, 
+’s-Gravenhage,  
 4 juli 1997.    
 
 De Minister van Justitie, 

@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  I  
 
-Wijzigt de Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba.   
+Wijzigt de Rijkswet van 20 december 1989, houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba.  
 
 ### Artikel  II  
 
-De onderdelen B, C, en D van artikel I zijn niet van toepassing op de voor de datum van inwerkingtreding ingegane pensioenen en uitkeringen krachtens de [Rijkswet houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba](../../../../../../../../../../rijkswet/rijkswet/pensioenen/en/uitkeringen/aan/gouverneurs/van/aruba/curaçao/en/etc/BWBR0004670/README.md) (Stb. 1990, 15).  
+De onderdelen B, C, en D van artikel I zijn niet van toepassing op de voor de datum van inwerkingtreding ingegane pensioenen en uitkeringen krachtens de [Rijkswet houdende regeling van pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba](../../../../../../../../../../rijkswet/rijkswet/pensioenen/en/uitkeringen/aan/gouverneurs/van/aruba/curaçao/en/etc/BWBR0004670/README.md) (Stb. 1990, 15). 
 
 ### Artikel  III  
 
-De tekst van de [rijkswet van 20 december 1989, houdende regeling van de pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba](../../../../../../../../../../rijkswet/rijkswet/pensioenen/en/uitkeringen/aan/gouverneurs/van/aruba/curaçao/en/etc/BWBR0004670/README.md) wordt in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba geplaatst.  
+De tekst van de [rijkswet van 20 december 1989, houdende regeling van de pensioenen en uitkeringen aan Gouverneurs van de Nederlandse Antillen en van Aruba](../../../../../../../../../../rijkswet/rijkswet/pensioenen/en/uitkeringen/aan/gouverneurs/van/aruba/curaçao/en/etc/BWBR0004670/README.md) wordt in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba geplaatst. 
 
 ### Artikel  IV  
 
-Deze rijkswet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt, met uitzondering van artikel I, onderdeel P, terug tot en met 1 januari 2002.  
+Deze rijkswet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt, met uitzondering van artikel I, onderdeel P, terug tot en met 1 januari 2002. 
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -40,4 +40,4 @@ R. H. Hessing
 de derde juni 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

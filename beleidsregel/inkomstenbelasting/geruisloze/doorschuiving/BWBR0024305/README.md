@@ -2,7 +2,7 @@
 
 ##Inkomstenbelasting, geruisloze doorschuiving
 
-De Staatssecretaris van Financiën heeft het volgende besloten:    Dit besluit betreft een actualisering van het besluit van 24 mei 2004, nr. CPP2004/1225M op het gebied van de geruisloze doorschuiving. Daarnaast zijn de gevolgen van het arrest van de Hoge Raad van 5 januari 2007, nr. 42.683 opgenomen. Voor het overige is met dit besluit geen inhoudelijke wijziging beoogd.   
+De Staatssecretaris van Financiën heeft het volgende besloten:     Dit besluit betreft een actualisering van het besluit van 24 mei 2004, nr. CPP2004/1225M op het gebied van de geruisloze doorschuiving. Daarnaast zijn de gevolgen van het arrest van de Hoge Raad van 5 januari 2007, nr. 42.683 opgenomen. Voor het overige is met dit besluit geen inhoudelijke wijziging beoogd.    
 ### 1  
 
 ####Inleiding
@@ -55,6 +55,6 @@ Den Haag
 18 juli 2008   
 
 De 
-Staatssecretaris van Financiën, namens deze: de 
+Staatssecretaris van Financiën, namens deze:de 
 directeur-generaal Belastingdienst, 
-J.Thunnissen   
+J. Thunnissen     

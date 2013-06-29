@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  l  
 
-Wijzigt het Besluit beheer sociale-huursector.   
+Wijzigt het Besluit beheer sociale-huursector.  
 
 ### Artikel  ll  
 
-De instellingen, toegelaten krachtens [artikel 70 van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md), die op het tijdstip waarop dit besluit in werking treedt bestaan, brengen hun statuten voor 1 juli 2003 in overeenstemming met dit besluit. Zij leggen de daarvoor noodzakelijke wijzigingen van de statuten ter goedkeuring voor aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De [artikelen 9](../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) en [10 van het Besluit beheer sociale-huursector](../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) zijn van toepassing.  
+De instellingen, toegelaten krachtens [artikel 70 van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md), die op het tijdstip waarop dit besluit in werking treedt bestaan, brengen hun statuten voor 1 juli 2003 in overeenstemming met dit besluit. Zij leggen de daarvoor noodzakelijke wijzigingen van de statuten ter goedkeuring voor aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De [artikelen 9](../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) en [10 van het Besluit beheer sociale-huursector](../../../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) zijn van toepassing. 
 
 ### Artikel  lll  
 
-Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.   
+Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.  
 
 ### Artikel  lV  
 
@@ -33,15 +33,15 @@ a. het Centraal Fonds voor de Volkshuisvesting, [bedoeld in artikel 71 van de Wo
 
 b. dat fonds de hoogte van die bijdrage binnen acht weken na de bepaling daarvan bekendmaakt aan de toegelaten instellingen, bedoeld in [artikel 70 van de Woningwet](../../../../../../../../../../wet/woningwet/BWBR0005181/README.md), en  
 
-c. die toegelaten instellingen die bijdrage binnen vier weken na de bekendmaking daarvan aan dat fonds betalen.    
+c. die toegelaten instellingen die bijdrage binnen vier weken na de bekendmaking daarvan aan dat fonds betalen.   
 
 ### Artikel  V  
 
-Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.   
+Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.  
 
 ### Artikel  Vl  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.   
 
@@ -55,4 +55,4 @@ J. W. Remkes
 de *éénentwintigste* juni 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

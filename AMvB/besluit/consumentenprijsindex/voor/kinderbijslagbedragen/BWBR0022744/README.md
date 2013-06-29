@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onder de consumentenprijsindex, bedoeld in [artikel 13, tweede lid, van de Algemene Kinderbijslagwet](../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) wordt verstaan de consumentenprijsindex alle huishoudens (afgeleide reeks 2006 = 100), zoals die wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op het midden van elke kalendermaand en gepubliceerd in het Statistische bulletin van het Centraal Bureau voor de Statistiek.  
+Onder de consumentenprijsindex, bedoeld in [artikel 13, tweede lid, van de Algemene Kinderbijslagwet](../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) wordt verstaan de consumentenprijsindex alle huishoudens (afgeleide reeks 2006 = 100), zoals die wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op het midden van elke kalendermaand en gepubliceerd in het Statistische bulletin van het Centraal Bureau voor de Statistiek. 
 
 ### Artikel  2  
 
-Het [Besluit begripsomschrijving prijsindexcijfer van de gezinsconsumptie 1994](../../../../../../AMvB/besluit/begripsomschrijving/prijsindexcijfer/van/de/gezinsconsumptie/1994/BWBR0006843/README.md) wordt ingetrokken.  
+Het [Besluit begripsomschrijving prijsindexcijfer van de gezinsconsumptie 1994](../../../../../../AMvB/besluit/begripsomschrijving/prijsindexcijfer/van/de/gezinsconsumptie/1994/BWBR0006843/README.md) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 april 2007.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 april 2007. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit consumentenprijsindex voor kinderbijslagbedragen.  
+Dit besluit wordt aangehaald als: Besluit consumentenprijsindex voor kinderbijslagbedragen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -40,5 +40,5 @@ A. Rouvoet
 
 de *eerste* november 2007 
 
-De Minister van Justitie 
+De Minister van Justitie  
 E. M. H. Hirsch Ballin    

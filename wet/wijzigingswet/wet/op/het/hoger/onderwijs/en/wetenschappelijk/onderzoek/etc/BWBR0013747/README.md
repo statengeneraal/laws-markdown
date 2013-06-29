@@ -11,55 +11,55 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-####Wijzigingen in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)
+####Wijzigingen in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) 
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  II  
 
 ####Wijzigingen in de Wet op het onderwijstoezicht
 
-Wijzigt de Wet op het onderwijstoezicht.   
+Wijzigt de Wet op het onderwijstoezicht.  
 
 ### Artikel  III  
 
 ####Wijzigingen in de [WHW](../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) als gevolg van de Wet op het onderwijstoezicht
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  IIIa  
 
-Vervallen  
+Vervallen 
 
 ### Artikel  IIIb  
 
 ####Wijzigingen in de [WHW](../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) als gevolg van de invoering van het onderwijsnummer
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wijzigingswet van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wijzigingswet van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs.  
 
 ### Artikel  IV  
 
-####Wijziging [WSF 2000](../../../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md)
+####Wijziging [WSF 2000](../../../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) 
 
-Wijzigt de Wet studiefinanciering 2000.   
+Wijzigt de Wet studiefinanciering 2000.  
 
 ### Artikel  IVa  
 
 ####Wijziging WTOS
 
-Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.   
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.  
 
 ### Artikel  V  
 
 ####Herplaatsing Wet op het onderwijstoezicht
 
-De tekst van de Wet op het onderwijstoezicht wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen en hoofdstukken opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de artikelen en hoofdstukken met de nieuwe nummering in overeenstemming.  
+De tekst van de Wet op het onderwijstoezicht wordt in het Staatsblad geplaatst. Voor de plaatsing in het Staatsblad stelt Onze Minister van Onderwijs, Cultuur en Wetenschappen de nummering van de artikelen en hoofdstukken opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de artikelen en hoofdstukken met de nieuwe nummering in overeenstemming. 
 
 ### Artikel  VI  
 
 ####Inwerkingtreding
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en waarbij artikel I, onderdelen H, voor wat betreft artikel 6.3, en O, kan terugwerken tot en met 12 september 2002 en artikel I, onderdeel O, eerst van toepassing kan zijn op opleidingen die starten met ingang van het studiejaar 2004–2005.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en waarbij artikel I, onderdelen H, voor wat betreft artikel 6.3, en O, kan terugwerken tot en met 12 september 2002 en artikel I, onderdeel O, eerst van toepassing kan zijn op opleidingen die starten met ingang van het studiejaar 2004–2005. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

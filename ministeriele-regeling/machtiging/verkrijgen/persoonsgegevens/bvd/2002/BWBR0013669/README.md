@@ -6,9 +6,9 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Jus
 Gelet op [artikel 17, eerste lid, onderdeel b, van de Wet op de inlichtingen- en veiligheidsdiensten](../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/BWBR0004244/README.md);
 Besluiten:    
 
-### Artikel  1  
+###Artikel 1 
 
-Het hoofd van de Binnenlandse Veiligheidsdienst wordt voor het verkrijgen van persoonsgegevens buiten de gevallen, bedoeld in [artikel 17, eerste lid, onderdeel a, en vierde lid van de Wet op de inlichtingen- veiligheidsdiensten](../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/BWBR0004244/README.md), gemachtigd zich te wenden tot de houder van een verzameling persoonsgegevens, indien zulks noodzakelijk is ter uitvoering van de taak, bedoeld in [artikel 8 van de Wet op de inlichtingen- en veiligheidsdiensten](../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/BWBR0004244/README.md).  
+Het hoofd van de Binnenlandse Veiligheidsdienst wordt voor het verkrijgen van persoonsgegevens buiten de gevallen, bedoeld in [artikel 17, eerste lid, onderdeel a, en vierde lid van de Wet op de inlichtingen- veiligheidsdiensten](../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/BWBR0004244/README.md), gemachtigd zich te wenden tot de houder van een verzameling persoonsgegevens, indien zulks noodzakelijk is ter uitvoering van de taak, bedoeld in [artikel 8 van de Wet op de inlichtingen- en veiligheidsdiensten](../../../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/BWBR0004244/README.md). 
 
 ### Artikel  2  
 
@@ -29,15 +29,15 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Machtiging verkrijgen persoonsgegevens BVD 2002.  
+Deze regeling wordt aangehaald als: Machtiging verkrijgen persoonsgegevens BVD 2002. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 
-K.G. de Vries   
+K.G. de Vries 
 
 De 
-Minister van Justitie, 
+Minister van Justitie,
 
-A.H. Korthals      
+A.H.Korthals   

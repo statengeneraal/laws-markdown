@@ -11,31 +11,31 @@ Gelet op [artikel 54 van de Wet rechtspositie rechterlijke ambtenaren](../../../
 De Raad van State gehoord (advies van 31 maart 2005, nr. W03.05.0074/I);
 
 Gezien het nader rapport van Onze Minister van Justitie van 6 april 2005, nr. 5345548/05/6;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.   
+Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
 
-### Artikel  III  
+###Artikel III 
 
-1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt als volgt terug: 
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt als volgt terug:
 
-a. wat artikel II betreft: tot en met 1 januari 2004;  
+a.wat artikel II betreft: tot en met 1 januari 2004;
 
-b. wat artikel I betreft: tot en met 1 januari 2005.     
-2.  Artikel II vervalt met ingang van 1 januari 2006.   
+b.wat artikel I betreft: tot en met 1 januari 2005.
+2. Artikel II vervalt met ingang van 1 januari 2006.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-’s-Gravenhage 
-18 april 2005  
-Beatrix  
-
-De Minister van Justitie , 
-J. P. H. Donner   
-
-de *zesentwintigste* april 2005 
+’s-Gravenhage
+18 april 2005
+Beatrix
 
 De Minister van Justitie , 
-J. P. H. Donner    
+J. P. H.Donner
+
+de *zesentwintigste* april 2005
+
+De Minister van Justitie , 
+J. P. H.Donner

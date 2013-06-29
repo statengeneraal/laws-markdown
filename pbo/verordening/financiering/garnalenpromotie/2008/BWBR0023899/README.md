@@ -9,6 +9,7 @@ Gehoord de Garnalenadviescommissie;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 11-07-2009 
 
 In deze verordening wordt verstaan onder:  
 
@@ -26,19 +27,22 @@ In deze verordening wordt verstaan onder:
 |  *j.*   |  *fonds*   | :  | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor promotie 2007](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/promotie/2007/BWBR0023232/README.md).  |
 
 ### Artikel  1a  
+Materieel uitgewerkt per 11-07-2009 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2008 tot en met 31 december 2008 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikel 2 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2008 tot en met 31 december 2008 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikel 2 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 11-07-2009 
 
 1.  Een ondernemer is per kilogram aangevoerde garnalen, die door of namens een medewerker van het productschap zijn gecontroleerd op de indeling in de bij of krachtens de verordening (EG) nr. 2406/96 voorgeschreven versheidsklassen en grootteklassen voor garnalen voor eerste verhandeling, aan en ten behoeve van het productschap een heffing verschuldigd van € 0,005.   
 2.  Een in Nederland gevestigde ondernemer die garnalen koopt van een ondernemer als bedoeld in het vorige lid, is over alle door hem van die ondernemer voor menselijke consumptiedoeleinden gekochte hoeveelheden garnalen aan en ten behoeve van het productschap een heffing verschuldigd van € 0,00 per kg.   
-3.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde en gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.   
+3.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde en gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 11-07-2009 
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2008. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2007, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2008.   
-2.  Deze verordening kan worden aangehaald als Verordening financiering garnalenpromotie 2008.   
+2.  Deze verordening kan worden aangehaald als Verordening financiering garnalenpromotie 2008.  
 
 Rijswijk 
 4 oktober 2007   

@@ -20,7 +20,7 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening houdende bepalingen betreffende het opleggen van heffingen bij de producenten van vee en vlees en registratie van vleesgrossiers PVV 2003](../../../../../../../../..//BWBR0014238/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening houdende bepalingen betreffende het opleggen van heffingen bij de producenten van vee en vlees en registratie van vleesgrossiers PVV 2003. 
 
 ### Artikel  3  
 
@@ -41,21 +41,21 @@ De ondernemer is over de periode vanaf 1 januari 2004 tot en met 31 december 2
 | Vanaf  | €  | 27.000.001,–  | tot en met  | €  | 50.000.000,–  | €  | 1286,–  |
 | --- | --- | --- | en meer dan  | €  | 50.000.001 ,–  | €  | 1774,–  |
 
-Voor een ondernemer, die na 1 januari 2003 aangevangen heeft een onderneming te drijven als bedoeld in artikel 1 bedraagt de heffing € 58,–.  
+Voor een ondernemer, die na 1 januari 2003 aangevangen heeft een onderneming te drijven als bedoeld in artikel 1 bedraagt de heffing € 58,–. 
 
 ### Artikel  4  
 
 1.  Aan de ondernemer, die contributie heeft betaald als lid of indirect lid van een overeenkomstig het derde lid aangewezen ondernemersorganisatie, wordt op zijn verzoek een aftrek toegestaan op het totaal aan heffing verschuldigde bedrag op grond van de [Verordening huishoudelijke heffingen vleeswarenindustrie (PVV) 2004](../../../../../../../../../pbo/verordening/huishoudelijke/heffingen/vleeswarenindustrie/(pvv)/2004/BWBR0016040/README.md), de [Verordening heffingen O&O fonds vleeswarenindustrie (PVV) 2004](../../../../../../../../../pbo/verordening/heffingen/o/&/o/fonds/vleeswarenindustrie/(pvv)/2004/BWBR0016057/README.md) en de [Verordening heffingen fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2004](../../../../../../../../../pbo/verordening/heffing/fonds/sociale/aangelegenheden/vleesindustrie/(pvv)/etc/BWBR0020614/README.md).   
 2.  De aftrek beloopt 50% van het bedrag, dat de ondernemer als contributie aan de betreffende ondernemersorganisatie over het betrokken kalenderjaar heeft betaald tot ten hoogste de helft van hetgeen hij in totaal is verschuldigd aan heffing, op grond van de in het eerste lid genoemde heffingsverordeningen, over datzelfde betrokken kalenderjaar.   
-3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregel Schilthuisaftrek van de Sociaal- Economische Raad.   
+3.  De in het eerste lid bedoelde ondernemersorganisatie wordt aangewezen door het bestuur, met inachtneming van het bepaalde in het Besluit beleidsregel Schilthuisaftrek van de Sociaal- Economische Raad.  
 
 ### Artikel  5  
 
-Deze verordening treedt in werking met ingang van 1 januari 2004. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2004, treedt zij in werking met ingang van de dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2004.  
+Deze verordening treedt in werking met ingang van 1 januari 2004. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2004, treedt zij in werking met ingang van de dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2004. 
 
 ### Artikel  6  
 
-Deze verordening wordt aangehaald als: Verordening heffingen fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2004.  
+Deze verordening wordt aangehaald als: Verordening heffingen fonds sociale aangelegenheden vleeswarenindustrie (PVV) 2004. 
 
 Zoetermeer 
 10 december 2003   
