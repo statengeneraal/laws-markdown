@@ -13,7 +13,7 @@
 
 a. door het hoofd of de bestuurder van de onderneming en zijn echtgenoot of bloedverwant in de eerste graad, dan wel verricht door personen, niet zijnde hoofd of bestuurder, die dezelfde bevoegdheden hebben als het hoofd of de bestuurder;  
 
-b. door straatventers, vissers, kleine handelslieden en land- en tuinbouwers, die geen vergunning nodig hebben op grond van de [Wet vestiging bedrijven BES](../../../../../wet-BES/wet/vestiging/bedrijven/bes/BWBR0028164/README.md);  
+b. door straatventers, vissers, kleine handelslieden en land- en tuinbouwers, die geen vergunning nodig hebben op grond van de Wet vestiging bedrijven BES;  
 
 c. met een wetenschappelijk doeleinde;  
 
@@ -27,17 +27,17 @@ g. door personen van 18 jaar of ouder ten behoeve van scheepvaartondernemingen e
 
 h. door personen van 18 jaar of ouder als opvarende van het schip waarop zij dienst doen;  
 
-i. door havenarbeiders van 18 jaar of ouder, waarop de [Stuwadoorswet 1946 BES](../../../../../wet-BES/stuwadoorswet/1946/bes/BWBR0028169/README.md) van toepassing is;  
+i. door havenarbeiders van 18 jaar of ouder, waarop de Stuwadoorswet 1946 BES van toepassing is;  
 
-j. door personen van 18 jaar of ouder, die ambtenaar zijn in de zin van de [Ambtenarenwet BES](../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) of van wie de arbeidsvoorwaarden bij of krachtens wettelijke regeling door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties dienen te worden goedgekeurd.     
+j. door personen van 18 jaar of ouder, die ambtenaar zijn in de zin van de Ambtenarenwet BES of van wie de arbeidsvoorwaarden bij of krachtens wettelijke regeling door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties dienen te worden goedgekeurd.     
 
 ### Artikel  2  
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *werknemer:* de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7a/BWBR0028752/README.md);  
+a. *werknemer:* de arbeider, bedoeld in artikel 1613a van het Burgerlijk Wetboek BES;  
 
-b. *werkgever:* de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7a/BWBR0028752/README.md), met uitzondering van degene die beroepsmatig arbeidskrachten ter beschikking stelt aan een derde als bedoeld in de [Wet op het ter beschikking stellen van arbeidskrachten BES](../../../../../wet-BES/wet/op/het/ter/beschikking/stellen/arbeidskrachten/bes/BWBR0028435/README.md), doch met inbegrip van degene aan wie arbeidskrachten ter beschikking worden gesteld als bedoeld in die wet;  
+b. *werkgever:* de werkgever, bedoeld in artikel 1613a van het Burgerlijk Wetboek BES, met uitzondering van degene die beroepsmatig arbeidskrachten ter beschikking stelt aan een derde als bedoeld in de Wet op het ter beschikking stellen van arbeidskrachten BES, doch met inbegrip van degene aan wie arbeidskrachten ter beschikking worden gesteld als bedoeld in die wet;  
 
 c. *kinderen:* personen die de leeftijd van vijftien jaar nog niet hebben bereikt;  
 
@@ -64,7 +64,7 @@ h. *rustdag:* de zondag dan wel de dag die voor de werknemer, die op zondag sche
 
 ### Artikel  3  
 
-1.  Deze wet is niet van toepassing op werknemers van wie het bruto jaarinkomen meer bedraagt dan 260 maal het dagloon, bedoeld in [artikel 8, tweede lid, van de Wet ziekteverzekering BES](../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md).   
+1.  Deze wet is niet van toepassing op werknemers van wie het bruto jaarinkomen meer bedraagt dan 260 maal het dagloon, bedoeld in artikel 5, tweede lid, van de Wet ziekteverzekering BES.   
 2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder inkomen verstaan: alle inkomsten uit arbeid in één onderneming, waaronder mede begrepen het naar tijdruimte vastgestelde loon, het vakantiegeld, provisie en winstbonussen en dergelijke, die als grondslag dienen voor de inkomstenbelasting, met uitzondering van de vergoeding voor overwerk en de toeslag, bedoeld in artikel 11, negende lid.   
 
 ### Artikel  4  
@@ -272,14 +272,14 @@ f. de Pinksterzondag;
 
 g. de Eerste en Tweede Kerstdag;  
 
-h. de dag waarop de verjaardag van de Koningin officieel wordt gevierd;  
+h. de dag waarop de verjaardag van de Koning officieel wordt gevierd;  
 
 i. de Dag van de Arbeid;  
 
 j. [Vervallen]  
 
 k. de datum 6 september voor het openbaar lichaam Bonaire, de datum 16 november voor het openbaar lichaam Sint Eustatius en de datum van de eerste vrijdag van december voor het openbaar lichaam Saba.     
-2.  De Dag van de Arbeid wordt jaarlijks gevierd op 1 mei, tenzij die dag op een zondag valt of op die dag de verjaardag van de Koningin officieel wordt gevierd, in welke gevallen de Dag van de Arbeid op de eerst volgende werkdag wordt gevierd.   
+2.  De Dag van de Arbeid wordt jaarlijks gevierd op 1 mei, tenzij die dag op een zondag valt of op die dag de verjaardag van de Koning officieel wordt gevierd, in welke gevallen de Dag van de Arbeid op de eerst volgende werkdag wordt gevierd.   
 3.  Het bestuurscollege van een openbaar lichaam is bevoegd te bepalen dat in het openbaar lichaam de in het eerste lid onder b of k bedoelde feestdag op een andere datum wordt gevierd.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat andere dan in de vorige leden bedoelde dagen als feestdagen gelden.   
 
@@ -395,7 +395,7 @@ c. alle plaatsen, met uitzondering van woningen, zonder de uitdrukkelijke toeste
 
 d. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkelijke toestemming van de bewoner te betreden.     
 5.  Zonodig, wordt de toegang tot een plaats als bedoeld in het vierde lid, onderdeel c, verschaft met behulp van de sterke arm.   
-6.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het vierde lid, onderdeel d, is [titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste volzin](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
+6.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het vierde lid, onderdeel d, is titel X van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste volzin, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
 7.  Een ieder is verplicht de in het eerste lid bedoelde ambtenaren en personen alle medewerking te verlenen die op grond van het vierde lid wordt gevorderd.   
 
 ### Artikel  35  

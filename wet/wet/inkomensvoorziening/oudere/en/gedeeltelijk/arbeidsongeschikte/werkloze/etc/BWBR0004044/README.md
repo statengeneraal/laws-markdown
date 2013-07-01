@@ -123,35 +123,36 @@ c. de alleenstaande werkloze werknemer en de thuisinwonende werkloze werknemer z
 2.  Het recht op uitkering komt de werkloze werknemer en de echtgenoot gezamenlijk toe. De uitkering wordt aan de werkloze werknemer en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 3.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat: 
 
-a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 660,98;  
+a. voor de werkloze werknemer en de echtgenoot die beiden 21 jaar of ouder zijn, de helft van de grondslag netto gelijk is aan € 661,77;  
 
 b. deze voor de werkloze werknemer en de echtgenoot, waarvan een of elk van beiden jonger dan 21 jaar is, de som bedraagt van de grondslagen die voor elk van hen als een alleenstaande werknemer of een thuisinwonende werkloze werknemer zou gelden doch ten hoogste de grondslag als bedoeld in onderdeel *a*.     
 4.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze: 
 
-a. voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen netto gelijk is aan € 1.189,76;  
+a. voor de alleenstaande werkloze werknemer van 21 jaar of ouder met een of meer kinderen netto gelijk is aan € 1.191,18;  
 
-b. voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen netto gelijk is aan € 925,37;  
+b. voor de alleenstaande werkloze werknemer van 23 jaar of ouder zonder kinderen netto gelijk is aan € 926,47;  
 
-c. voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen netto gelijk is aan € 763,38;  
+c. voor de alleenstaande werkloze werknemer van 22 jaar zonder kinderen netto gelijk is aan € 766,74;  
 
-d. voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen netto gelijk is aan € 669,59.     
+d. voor de alleenstaande werkloze werknemer van 21 jaar zonder kinderen netto gelijk is aan € 672,03.     
 5.  De grondslag, bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat deze: 
 
-a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 1.146,76;  
+a. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 1.147,95;  
 
-b. voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 859,59;  
+b. voor de thuisinwonende werkloze werknemer van 18, 19 of 20 jaar met een of meer kinderen netto gelijk is aan € 860,58;  
 
-c. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen netto gelijk is aan € 637,09;  
+c. voor de alleenstaande werkloze werknemer van 18, 19 of 20 jaar zonder kinderen netto gelijk is aan € 637,75;  
 
-d. voor de thuisinwonende werkloze werknemer zonder kinderen netto gelijk is aan € 349,92.     
+d. voor de thuisinwonende werkloze werknemer zonder kinderen netto gelijk is aan € 350,38.     
 6.  Indien dat lager is dan de grondslag, vastgesteld op grond van het derde tot en met vijfde lid, bedraagt de grondslag, bedoeld in het eerste lid, 10/7 x A + B, waarbij: A staat voor de uitkeringen ontvangen door de werkloze werknemer op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) in de kalendermaand voorafgaande aan de dag waarop de geldende uitkeringsduur op grond van de Werkloosheidswet of de geldende uitkeringsduur van de loongerelateerde werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is verstreken; B staat voor het loon uit dienstbetrekking dat de werkloze werknemer in die kalendermaand verdiende, waarbij A wordt herzien op de wijze als bedoeld in [artikel 14 van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md).   
 7.  Voor de toepassing van het zesde lid wordt onder uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) tevens verstaan inkomen dat op grond van [artikel 34 van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) geheel in mindering is gebracht op de uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).   
 8.  Voor de toepassing van het zesde lid worden de uitkeringen op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) vermenigvuldigd met 21,75 en vervolgens gedeeld door het aantal werkdagen in die betreffende kalendermaand.   
 9.  Het zesde lid is niet van toepassing, voor zover de uitkomst van de berekening op grond van dat lid minder bedroeg dan de van toepassing zijnde grondslag op grond van het derde tot en met vijfde lid, als gevolg van een gedeeltelijke eindiging van een recht op uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap.   
-10.  De in het derde lid, onderdeel a, vierde lid, onderdeel a en b, en vijfde lid, genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumloon wijzigt met het percentage van deze wijziging.   
-11.  De in het vierde lid, onderdeel c en d, genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumjeugdloon wijzigt met het percentage van deze wijziging.   
+10.  De in het derde lid, onderdeel a, vierde lid, onderdeel a en b, en vijfde lid, genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
+11.  De in het vierde lid, onderdeel c en d, genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumjeugdloon wordt herzien met het percentage van deze herziening.   
 12.  Voor zover het recht op uitkering op grond van de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) gedeeltelijk is geëindigd door het verrichten van werkzaamheden als bedoeld in [artikel 8, tweede lid, van die wet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), wordt bij de toepassing van het zesde lid voor de vaststelling van factor A uitgegaan van het bedrag aan loondervingsuitkering dat zou zijn genoten indien die werkzaamheden niet zouden zijn verricht.   
 13.  Het twaalfde lid is van overeenkomstige toepassing indien de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bedoeld in [hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), is verlaagd als gevolg van het verrichten van werkzaamheden uit hoofde waarvan de werkloze werknemer geen werknemer is als bedoeld in de [artikelen 8](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en [9 van die wet](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
+14.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant.   
 
 ### Artikel  6  
 
@@ -165,7 +166,9 @@ c. die rechtens zijn vrijheid is ontnomen;
 
 d. zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;  
 
-e. onbetaald verlof geniet als bedoeld in [artikel 1, onderdeel g, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of die met die persoon gehuwd is, ter hoogte van het bedrag van het verlies van inkomen uit arbeid als gevolg van het genieten van dat verlof, tenzij belanghebbende alleenstaande ouder is en hij verlof geniet als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).     
+e. onbetaald verlof geniet als bedoeld in [artikel 1, onderdeel g, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of die met die persoon gehuwd is, ter hoogte van het bedrag van het verlies van inkomen uit arbeid als gevolg van het genieten van dat verlof, tenzij belanghebbende alleenstaande ouder is en hij verlof geniet als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+
+f. die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.     
 2.  Geen recht op uitkering heeft de echtgenoot, indien ten aanzien van deze, dan wel ten aanzien van de werkloze werknemer zich een omstandigheid voordoet als omschreven in het eerste lid. Indien zich ten aanzien van de echtgenoot een omstandigheid voordoet als omschreven in het eerste lid, wordt de werkloze werknemer aangemerkt als alleenstaande.   
 3.  Bij algemene maatregel van bestuur kan worden bepaald dat hier te lande verblijvende vreemdelingen, anders dan die bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), recht op uitkering hebben, onverminderd de overige vereisten voor dat recht: 
 
@@ -185,10 +188,10 @@ Indien het recht op uitkering als gevolg van werkaanvaarding van de werkloze wer
 a. voor de werkloze werknemer en de echtgenoot: de som van het inkomen uit arbeid of overig inkomen van hemzelf en zijn echtgenoot;  
 
 b. voor de alleenstaande en de thuiswonende werkloze werknemer: zijn inkomen uit arbeid of overig inkomen.     
-2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2013: € 299,54 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+2.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 juli 2013: € 299,52 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 3.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 4.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
-5.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2013: € 196,34 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+5.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 juli 2013: € 198,14 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 
@@ -393,7 +396,8 @@ De persoon van wie wordt teruggevorderd is verplicht desgevraagd aan het college
 
 a. is het college, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
-b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij invordering van de onverschuldigd betaalde uitkering bij dwangbevel.     
+b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij invordering van de onverschuldigd betaalde uitkering en de bestuurlijke boete bij dwangbevel.     
+7.  Onverminderd het eerste tot en met het zesde lid kan het college een vordering die een belanghebbende op hem heeft, verrekenen met een vordering als bedoeld in artikel 25, eerste lid.   
 
 ### Artikel  29  
 
@@ -402,7 +406,9 @@ b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van 
 3.  Het eerste lid is van overeenkomstige toepassing bij de betaling, bedoeld in artikel 28, vierde lid, van de bestuurlijke boete, bedoeld in artikel 20a, vijfde lid, door een andere gemeente dan de gemeente waarvan het college de bestuurlijke boete heeft opgelegd met dien verstande dat het college van die andere gemeente de bevoegdheid heeft op verzoek van de belanghebbende bij de verrekening de beslagvrije voet in acht te nemen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  Artikel 28, tweede lid, en het eerste tot en met derde lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete, bedoeld in artikel 20a, eerste lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 5.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van de artikelen 28, tweede en vierde lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-6.  Indien als gevolg van de verrekening, bedoeld in het eerste en vierde lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+6.  Indien als gevolg van de verrekening, bedoeld in het eerste en vierde lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+7.  Voor de toepassing van het zesde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+8.  Het vrijgelaten deel, bedoeld in het zesde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.   
 
 ### Artikel  29a  
 
@@ -684,7 +690,7 @@ Ten behoeve van de kosten van voorzieningen als bedoeld in artikel 34, eerste li
 
 ### Artikel  60  
 
-Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt met een besluit gelijkgesteld het nalaten van een handeling die strekt tot uitvoering van het besluit inzake de verlening of terugvordering van de uitkering of het verrichten van een handeling die afwijkt van dat besluit.  
+Voor de toepassing van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt met een besluit gelijkgesteld het nalaten van een handeling die strekt tot uitvoering van het besluit inzake de verlening of terugvordering van de uitkering of het verrichten van een handeling die afwijkt van dat besluit.  
 
 ### Artikel  60b  
 

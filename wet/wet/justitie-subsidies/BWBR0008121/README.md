@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de verstrekking van subsidies door Onze Minister van Justitie wettelijk te regelen alsook enkele wetten aan te passen in verband met de bepalingen over subsidies in de derde tranche van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de verstrekking van subsidies door Onze Minister van Justitie wettelijk te regelen alsook enkele wetten aan te passen in verband met de bepalingen over subsidies in de derde tranche van de Algemene wet bestuursrecht;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### HOOFDSTUK  1  
 
@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Justitie.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Veiligheid en Justitie.  
 
 ### Artikel  2  
 
@@ -26,8 +26,7 @@ b. niet op een wettelijk voorschrift berusten.
 
 ### Artikel  3  
 
-1.  Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Onze Minister kan voorschotten op een subsidie verlenen. Bij ministeriële regeling kunnen regels met betrekking tot de bevoorschotting worden gesteld.   
+Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### Artikel  4  
 
@@ -39,8 +38,8 @@ b. daardoor het belang met het oog waarop die verplichtingen zijn opgelegd, niet
 
 ### Artikel  5  
 
-1.  Met het toezicht op de naleving van de bij of krachtens deze wet of de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aan de subsidie-ontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.   
-2.  De toezichthouder beschikt niet over de bevoegdheden, vermeld in de [artikelen 5:18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Met het toezicht op de naleving van de bij of krachtens deze wet of de Algemene wet bestuursrecht aan de subsidie-ontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.   
+2.  De toezichthouder beschikt niet over de bevoegdheden, vermeld in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 4.  Aan door Onze Minister verstrekte subsidies is de verplichting verbonden dat de subsidie-ontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 
@@ -79,7 +78,7 @@ b. activiteiten ter verbetering van de positie van het slachtoffer.
 
 ### Artikel  7a  
 
-De rechtspersoon behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De rechtspersoon behoeft de toestemming van Onze Minister voor de handelingen, bedoeld in artikel 4:71, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### Afdeling  3  
 
@@ -88,7 +87,7 @@ De rechtspersoon behoeft de toestemming van Onze Minister voor de handelingen, b
 ### Artikel  8  
 
 1.  Onze Minister verstrekt per boekjaar subsidie aan de rechtspersoon voor de werkzaamheden die door de rechtspersoon of onder zijn verantwoordelijkheid worden verricht.   
-2.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+2.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot: 
 
 a. het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald;  
@@ -107,7 +106,7 @@ Onze Minister kan subsidie verstrekken voor bijzondere projecten op het terrein 
 
 ### Artikel  10  
 
-1.  De rechtspersoon vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De rechtspersoon vormt een egalisatiereserve als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste lid.   
 
 ### Artikel  11  
@@ -124,12 +123,12 @@ Onze Minister kan subsidie verstrekken voor bijzondere projecten op het terrein 
 
 ### Artikel  13  
 
-1.  Bij het onderzoek, bedoeld in [artikel 4:78 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), onderzoekt de accountant tevens de naleving van de aan de subsidie verbonden verplichtingen.   
-2.  Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in [artikel 4:79, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vast.   
+1.  Bij het onderzoek, bedoeld in artikel 4:78 van de Algemene wet bestuursrecht, onderzoekt de accountant tevens de naleving van de aan de subsidie verbonden verplichtingen.   
+2.  Onze Minister stelt een aanwijzing over de reikwijdte en de intensiteit van de controle, als bedoeld in artikel 4:79, tweede lid, van de Algemene wet bestuursrecht, vast.   
 
 ### Artikel  15  
 
-1.  In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), legt Onze Minister een volledige vergoedingsplicht op.   
+1.  In de gevallen, bedoeld in artikel 4:41, tweede lid, van de Algemene wet bestuursrecht, legt Onze Minister een volledige vergoedingsplicht op.   
 2.  Bij de vaststelling van de hoogte van de vergoeding worden de activa gewaardeerd op hun actuele waarde. De waardebepaling van een onroerende zaak geschiedt door drie deskundigen. Onze Minister onderscheidenlijk de subsidie-ontvanger wijzen elk een deskundige aan, die in onderling overleg een derde deskundige aanwijzen.   
 3.  Het eerste lid is niet van toepassing, indien de activiteiten van de subsidie-ontvanger door een derde worden voortgezet en de activa en passiva met toestemming van Onze Minister tegen boekwaarde aan die derde worden overgedragen.   
 
@@ -137,60 +136,76 @@ Onze Minister kan subsidie verstrekken voor bijzondere projecten op het terrein 
 
 ####Overige per boekjaar verstrekte subsidies
 
+Vervallen per 01-01-2009   
+
 ### Afdeling  5  
 
 ####Projectsubsidies
+
+Vervallen per 01-01-2009   
 
 ### §  1  
 
 ####Algemeen
 
+Vervallen per 01-01-2009   
+
 ### §  2  
 
 ####De subsidieverlening
+
+Vervallen per 01-01-2009   
 
 ### §  3  
 
 ####Verplichtingen van de subsidie-ontvanger
 
+Vervallen per 01-01-2009   
+
 ### §  4  
 
 ####De subsidievaststelling
 
-### HOOFDSTUK  3  
+Vervallen per 01-01-2009   
 
-####CRIMINALITEITSPREVENTIE
+### Hoofdstuk  3  
+
+####Criminaliteitspreventie, het voorkomen van terrorisme, nazorg en vrijwilligersactiviteiten bij de sanctietoepassing
 
 ### Artikel  32  
 
-In dit hoofdstuk wordt verstaan onder criminaliteitspreventie: activiteiten gericht op: 
+In dit hoofdstuk wordt verstaan onder: 
 
-a. het weerhouden van potentiële plegers van strafbare feiten van het plegen daarvan;  
+*criminaliteitspreventie:* activiteiten gericht op: 
+
+a. het weerhouden van potentiële plegers van strafbare feiten van het plegen of opnieuw plegen daarvan;  
 
 b. het verminderen van de gelegenheid tot het plegen van strafbare feiten, of  
 
 c. het voorkomen van slachtofferschap.    
 
+*vrijwilligerswerk bij de sanctietoepassing:* activiteiten verricht door vrijwilligers ten behoeve van (ex-)justitieel ingeslotenen, gericht op reïntegratie van de (ex-)justitieel ingeslotenen in de samenleving.    
+
 ### Artikel  33  
 
-1.  Onze Minister kan per boekjaar subsidie verstrekken ten behoeve van de instandhouding van rechtspersonen die zich in overwegende mate met criminaliteitspreventie bezighouden.   
-2.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+1.  Onze Minister kan subsidie verstrekken ten behoeve van de instandhouding van rechtspersonen die zich bezighouden met criminaliteitspreventie, het voorkomen van terrorisme, nazorg of vrijwilligersactiviteiten bij de sanctietoepassing.   
+2.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 3.  De artikelen 13 en 15 zijn van overeenkomstige toepassing.   
 
 ### Artikel  34  
 
-Onze Minister kan projectsubsidies verstrekken voor: 
+Onze Minister kan subsidies verstrekken voor activiteiten op het gebied van criminaliteitspreventie, het voorkomen van terrorisme, nazorg en vrijwilligersactiviteiten bij de sanctietoepassing, waarbij: 
 
-a. de bevordering van de toepassing van effectief gebleken preventieve maatregelen;  
+a. de activiteiten worden bevorderd die effectief zijn gebleken;  
 
-b. de ontwikkeling van en het experimenteren met preventieve maatregelen, of  
+b. activiteiten op dit gebied worden ontwikkeld of  
 
-c. de deskundigheidsbevordering en voorlichting op het gebied van criminaliteitspreventie.    
+c. de activiteiten zijn gericht op deskundigheidsbevordering.    
 
 ### Artikel  35  
 
-1.  Onze Minister kan beleidsregels vaststellen voor de verstrekking van projectsubsidies op het gebied van criminaliteitspreventie.   
-2.  Deze beleidsregels bevatten in ieder geval: 
+1.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de subsidies, bedoeld in artikel 34.   
+2.  Deze regels kunnen in ieder geval betreffen: 
 
 a. een uitwerking van de activiteiten, genoemd in artikel 32, die voor subsidie in aanmerking komen, en  
 
@@ -198,7 +213,7 @@ b. een nadere omschrijving van aan de subsidie verbonden verplichtingen.
 
 ### Artikel  36  
 
-Onze Minister kan een subsidieplafond vaststellen voor activiteiten op het gebied van criminaliteitspreventie, waarvoor projectsubsidies kunnen worden verstrekt.  
+Onze Minister kan een subsidieplafond vaststellen voor subsidies als bedoeld in artikel 34. Hij bepaalt daarbij hoe het beschikbare bedrag wordt verdeeld.  
 
 ### HOOFDSTUK  4  
 
@@ -263,7 +278,7 @@ c. de stand van zaken met betrekking tot de beoordeling van eventuele aanvragen 
 
 ### Artikel  44  
 
-Onze Minister beslist binnen zes weken op de aanvraag tot verlening van de subsidie.  
+Onze Minister beslist binnen dertien weken op de aanvraag tot verlening van de subsidie.  
 
 ### §  3  
 
@@ -284,17 +299,12 @@ d. de publikatie van de onderzoeksresultaten;
 
 e. de eigendom, het gebruik en de opslag van onderzoeksmateriaal.     
 3.  De regels, bedoeld in het eerste lid, betreffen niet de uitkomsten van het onderzoek.   
-4.  Onze Minister maakt, onverminderd het bepaalde in [artikel 10 van de Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de onderzoeksresultaten zo spoedig mogelijk openbaar, maar in ieder geval binnen zes maanden na de aanbieding ervan aan Onze Minister.   
+4.  Onze Minister maakt, onverminderd het bepaalde in artikel 10 van de Wet openbaarheid van bestuur, de onderzoeksresultaten zo spoedig mogelijk openbaar, maar in ieder geval binnen zes maanden na de aanbieding ervan aan Onze Minister.   
 
 ### Artikel  46  
 
 1.  De subsidie-ontvanger en alle bij de uitvoering van het onderzoek betrokken personen zijn verplicht tot geheimhouding van in het kader van het onderzoek verkregen persoonsgegevens of andere gegevens met een vertrouwelijk karakter.   
 2.  Persoonsgegevens als bedoeld in het eerste lid worden slechts gebruikt voor het onderzoek waarvoor subsidie is verleend, tenzij Onze Minister of degene die de gegevens heeft verstrekt toestemming geeft voor gebruik ten behoeve van ander onderzoek.   
-
-### Artikel  47  
-
-1.  De subsidie-ontvanger voert een zodanig ingerichte administratie, dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de betalingen en de ontvangsten kunnen worden nagegaan.   
-2.  De administratie en de daartoe behorende bescheiden worden gedurende tien jaren bewaard.   
 
 ### §  4  
 
@@ -309,26 +319,21 @@ e. de eigendom, het gebruik en de opslag van onderzoeksmateriaal.
 
 ####TOLKENCENTRA
 
-### Artikel  48a  
+Vervallen per 01-07-2013   
 
-1.  Onze Minister kan aan een tolkencentrum zonder winstoogmerk per boekjaar subsidie verstrekken voor het verlenen van tolkdiensten.   
-2.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
-3.  De artikelen 10, 13 en 15 zijn van overeenkomstige toepassing.   
-4.  Onze Minister kan aan een tolkencentrum zonder winstoogmerk subsidie verstrekken voor andere activiteiten op het gebied van tolkdiensten.   
+### Hoofdstuk  4B  
 
-### HOOFDSTUK  4B  
-
-####SCHULDHULPVERLENING
+####Schuldsanering
 
 ### Artikel  48c  
 
 1.  Onze Minister kan subsidie verstrekken ten behoeve van: 
 
-a. het optreden als bewindvoerder als bedoeld in [artikel 287, derde lid, van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md);  
+a. het optreden als bewindvoerder als bedoeld in artikel 287, derde lid, van de Faillissementswet;  
 
 b. activiteiten ter ondersteuning van bewindvoerders.     
 2.  De subsidies worden per boekjaar verstrekt.   
-3.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+3.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 
 ### Artikel  48d  
 
@@ -338,12 +343,13 @@ a. de personen of instellingen waaraan de subsidies kunnen worden verstrekt;
 
 b. de wijze waarop het bedrag van de subsidies wordt bepaald;  
 
-c. de aan de subsidies voor de ontvanger verbonden verplichtingen voorzover niet reeds voortvloeiend uit de [derde titel van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md);  
+c. de aan de subsidies voor de ontvanger verbonden verplichtingen voorzover niet reeds voortvloeiend uit de derde titel van de Faillissementswet;  
 
 d. de verlening van voorschotten;  
 
 e. de vaststelling en verdeling van een of meer subsidieplafonds.     
-2.  Onze Minister stelt een commissie van deskundigen in. De commissie heeft een tijdelijk karakter. De commissie adviseert over de uitvoering van de [derde titel van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md).   
+2.  Indien de subsidie wordt verstrekt aan een rechtspersoon die krachtens publiekrecht is ingesteld, is, in afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht, titel 4.2 van die wet van toepassing.   
+3.  Onze Minister stelt een commissie van deskundigen in. De commissie heeft een tijdelijk karakter. De commissie adviseert over de uitvoering van de derde titel van de Faillissementswet.   
 
 ### Hoofdstuk  4C  
 
@@ -352,7 +358,7 @@ e. de vaststelling en verdeling van een of meer subsidieplafonds.
 ### Artikel  48e  
 
 1.  Onze Minister verstrekt per boekjaar subsidie aan een reclasseringsinstelling of een samenwerkingsverband van reclasseringsinstellingen voor de uitvoering van reclasseringswerkzaamheden.   
-2.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+2.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste lid.   
 
 ### Hoofdstuk  4D  
@@ -367,13 +373,11 @@ e. de vaststelling en verdeling van een of meer subsidieplafonds.
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. Halt-afdoening: een afdoening als bedoeld in [artikel 77e van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
+a. Halt-afdoening: een afdoening als bedoeld in artikel 77e van het Wetboek van Strafrecht.  
 
 b. Jeugdige: een verdachte in de leeftijd vanaf 12 tot en met 17 jaar.  
 
-c. Halt-bureau: een bureau dat in elk geval voorziet in de coördinatie en uitvoering van Halt-afdoeningen en dat zelf een door de minister aangewezen rechtspersoon is of onderdeel uitmaakt van een door de minister aangewezen rechtspersoon.  
-
-d. Stop-reactie: de reactie op strafbare feiten gepleegd door kinderen onder twaalf jaar, onder verantwoordelijkheid van het openbaar ministerie.    
+c. Halt-bureau: een bureau dat in elk geval voorziet in de coördinatie en uitvoering van Halt-afdoeningen en dat zelf een door de minister aangewezen rechtspersoon is of onderdeel uitmaakt van een door de minister aangewezen rechtspersoon.    
 
 ### Afdeling  2  
 
@@ -383,19 +387,19 @@ d. Stop-reactie: de reactie op strafbare feiten gepleegd door kinderen onder twa
 
 1.  Onze Minister verstrekt per boekjaar subsidie aan de door Onze Minister aangewezen Halt-bureaus.   
 2.  Bij ministeriële regeling kunnen eisen worden gesteld aan het aanwijzen van een Halt-bureau en kan worden bepaald in welke gevallen de aanwijzing wordt opgeschort of ingetrokken.   
-3.  De artikelen 13 en 15 zijn van overeenkomstige toepassing.   
-4.  De artikelen 11 en 13 tot en met 15 zijn van overeenkomstige toepassing.   
-5.  Het Halt-bureau dient binnen 16 weken na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in.   
+3.  Afdeling 4.2.8. van de Algemene wet bestuursrecht is van toepassing.   
+4.  De artikelen 13 en 15 zijn van overeenkomstige toepassing.   
+5.  Het Halt-bureau dient binnen dertien weken na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in.   
 
 ### Artikel  48h  
 
-1.  De subsidie aan de Halt-bureaus wordt bepaald door de kostprijzen voor de te onderscheiden categorieën Halt-afdoeningen, of samengevoegde categorieën Halt-afdoeningen, te vermenigvuldigen met het aantal afdoeningen voor de te onderscheiden categorieën Halt-afdoeningen, of samengevoegde categorieën Halt-afdoeningen.   
+1.  De subsidie aan de Halt-bureaus wordt bepaald door de kostprijzen voor de te onderscheiden categorieën Halt-afdoeningen, onderdelen daarvan of samengevoegde categorieën Halt-afdoeningen, te vermenigvuldigen met het aantal afdoeningen voor de te onderscheiden categorieën Halt-afdoeningen, onderdelen daarvan of samengevoegde categorieën Halt-afdoeningen.   
 2.  Bij ministeriële regeling worden verschillende categorieën Halt-afdoeningen en de daarbij behorende kostprijzen vastgesteld.   
 3.  Onze Minister kan bij de verlening van de subsidie bepalen dat het subsidiebedrag van de subsidie door hem in de loop van het boekjaar kan worden bijgesteld in verband met de ontwikkeling van het loon- en prijspeil.   
 
 ### Artikel  48i  
 
-1.  Het Halt-bureau verstrekt aan Onze Minister uiterlijk vier weken na het einde van ieder trimester een opgave van het aantal afdoeningen, uitgesplitst naar de onderscheiden categorieën Halt-afdoeningen.   
+1.  Het Halt-bureau verstrekt aan Onze Minister uiterlijk vier weken na het eind van ieder boekjaar een opgave van het aantal afdoeningen, uitgesplitst naar de onderscheiden categorieën Halt-afdoeningen of onderdelen daarvan.   
 2.  Bij ministeriële regeling kan worden bepaald welke andere verplichtingen aan de subsidieverlening zijn verbonden.   
 
 ### Artikel  48j  
@@ -406,11 +410,11 @@ d. Stop-reactie: de reactie op strafbare feiten gepleegd door kinderen onder twa
 
 ### Artikel  48k  
 
-Voor zover het Halt-bureau geen onderdeel uitmaakt van een gemeente, behoeft het Haltbureau de toestemming van Onze Minister voor de handelingen, bedoeld in [artikel 4:71, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Voor zover het Halt-bureau geen onderdeel uitmaakt van een gemeente, behoeft het Haltbureau de toestemming van Onze Minister voor de handelingen, bedoeld in artikel 4:71, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### Artikel  48l  
 
-1.  Het Halt-bureau kan een egalisatiereserve vormen als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Het Halt-bureau kan een egalisatiereserve vormen als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  Bij ministeriële regeling worden de maximale hoogte van de jaarlijkse toevoeging en de maximale omvang van de egalisatiereserve bepaald en kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste lid.   
 
 ### Artikel  48m  
@@ -427,12 +431,12 @@ Voor zover het Halt-bureau geen onderdeel uitmaakt van een gemeente, behoeft het
 ### Artikel  48n  
 
 1.  Onze Minister kan per boekjaar subsidie verstrekken aan een rechtspersoon die de Halt-bureaus ondersteunt.   
-2.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
+2.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing.   
 3.  De artikelen 13 en 15 zijn van overeenkomstige toepassing.   
 
 ### Artikel  48o  
 
-1.  De ondersteunende rechtspersoon kan een egalisatiereserve vormen als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De ondersteunende rechtspersoon kan een egalisatiereserve vormen als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  De jaarlijkse toevoeging aan de egalisatiereserve bedraagt niet meer dan vijf procent van de op grond van artikel 48n in dat jaar verstrekte subsidie. Bij ministeriële regeling wordt de maximale omvang van de egalisatiereserve bepaald.   
 
 ### Artikel  48p  
@@ -440,34 +444,60 @@ Voor zover het Halt-bureau geen onderdeel uitmaakt van een gemeente, behoeft het
 1.  De ondersteunende rechtspersoon kan een voorziening groot onderhoud en andere door Onze Minister te benoemen reserves en voorzieningen vormen.   
 2.  Per boekjaar wordt aan de voorziening groot onderhoud niet meer toegevoegd dan drie procent van de op grond van artikel 48n in dat jaar verstrekte subsidie. De voorziening groot onderhoud bedraagt niet meer dan 15 procent van de op grond van artikel 48n in dat jaar verstrekte subsidie. Uitgaven voor groot onderhoud dienen op de voorziening groot onderhoud te worden afgeboekt.   
 
-### Artikel  48q  
-
-1.  Onze Minister kan per boekjaar subsidie verstrekken aan de op grond van artikel 48g aangewezen Halt-bureaus ten behoeve van de coördinatie en uitvoering van de Stop-reactie.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste lid.   
-3.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
-4.  De artikelen 13 en 15 zijn van overeenkomstige toepassing.   
-5.  Het Halt-bureau dient binnen zestien weken na afloop van het boekjaar een aanvraag tot vaststelling van de subsidie in.   
-6.  Artikel 48h tot en met artikel 48j zijn van overeenkomstige toepassing.   
-
 ### Hoofdstuk  4E  
 
-####Integratie
+####Openbare orde en veiligheid
 
 ### Artikel  48r  
 
-1.  Onze Minister voor Wonen, Wijken en Integratie kan per boekjaar subsidies verstrekken ter bevordering van de integratie van etnische groepen in de Nederlandse samenleving en ter voorkoming van criminaliteit door bedoelde groepen.   
-2.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
-3.  De artikelen 3 tot en met 5, 13 en 15 zijn van overeenkomstige toepassing.   
-4.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste lid.   
+Onze Minister kan subsidies verstrekken ten behoeve van activiteiten inzake openbare orde en veiligheid die gericht zijn op: 
+
+a. het verminderen van de gelegenheid tot het plegen van strafbare feiten;  
+
+b. het vergroten van de kennis en het inzicht in veiligheidsvraagstukken, alsmede het verder ontwikkelen van integraal veiligheidsbeleid;  
+
+c. het vergroten van de veiligheid in de samenleving in het algemeen, waaronder de handhaving van de openbare orde;  
+
+d. het ondersteunen van bijzondere activiteiten ten behoeve van de politie, brandweer en de rampenbestrijdingsorganisaties.    
 
 ### Artikel  48s  
 
-1.  Onze Minister voor Wonen, Wijken en Integratie kan projectsubsidies verstrekken voor activiteiten, die: 
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen de activiteiten, bedoeld in artikel 48r, nader worden bepaald, alsmede criteria voor de verstrekking worden vastgesteld.  
 
-a. de integratie van etnische groepen in de Nederlandse samenleving bevorderen;  
+### Artikel  48t  
 
-b. de criminaliteit van bedoelde groepen voorkomen.     
-2.  De artikelen 3 tot en met 5 zijn van overeenkomstige toepassing.   
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen voor subsidies die verstrekt worden op grond van artikel 48r regels worden gesteld met betrekking tot: 
+
+a. de aanvraag van een subsidie en de besluitvorming daarover;  
+
+b. het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald;  
+
+c. de voorwaarden waaronder subsidie wordt verleend;  
+
+d. de aan de subsidie verbonden verplichtingen of te verbinden verplichtingen;  
+
+e. de vaststelling van de subsidie;  
+
+f. intrekking en wijziging van de subsidieverlening of subsidievaststelling;  
+
+g. de betaling van de subsidie en het verlenen van voorschotten;  
+
+h. het verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht.    
+
+### Hoofdstuk  4F  
+
+####Parentale internationale kinderontvoering
+
+### Artikel  48u  
+
+1.  Onze Minister kan subsidie verstrekken aan een rechtspersoon voor: 
+
+a. de instandhouding van een expertisecentrum dat gespecialiseerd is in zaken op het gebied van parentale internationale kinderontvoering;  
+
+b. overige activiteiten op het gebied van parentale internationale kinderontvoering.     
+2.  Op een subsidie als bedoeld in het eerste lid, aanhef en onder a, is afdeling 4.2.8 van de Algemene wet bestuursrecht van toepassing.   
+3.  Onze Minister kan een subsidieplafond vaststellen voor activiteiten als bedoeld in het eerste lid, aanhef en onder b. Hij bepaalt daarbij hoe het beschikbare bedrag wordt verdeeld.   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste lid.   
 
 ### HOOFDSTUK  5  
 
@@ -475,7 +505,7 @@ b. de criminaliteit van bedoelde groepen voorkomen.
 
 ### Artikel  49  
 
-1.  [Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op door Onze Minister per boekjaar verstrekte subsidies die niet op een wettelijk voorschrift berusten.   
+1.  Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing op door Onze Minister per boekjaar verstrekte subsidies die niet op een wettelijk voorschrift berusten.   
 2.  De artikelen 13 en 15 zijn van overeenkomstige toepassing.   
 3.  Onze Minister kan vrijstelling of ontheffing verlenen van het eerste lid.   
 
@@ -517,7 +547,7 @@ Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van de
 
 ### Artikel  57  
 
-Voor de plaatsing van deze wet in het *Staatsblad* brengt Onze Minister van Justitie de in deze wet voorkomende aanhalingen van de artikelen en afdelingen van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) met de nieuwe nummering van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in overeenstemming.  
+Voor de plaatsing van deze wet in het *Staatsblad* brengt Onze Minister van Justitie de in deze wet voorkomende aanhalingen van de artikelen en afdelingen van de Algemene wet bestuursrecht met de nieuwe nummering van de Algemene wet bestuursrecht in overeenstemming.  
 
 ### Artikel  58  
 

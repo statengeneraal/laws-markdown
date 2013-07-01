@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet wordt verstaan onder: 
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
@@ -48,7 +48,7 @@ g. importeur: degene die boeken of muziekuitgaven die in andere landen dan Neder
 
 h. verkoper: degene die door de uitgever of de importeur in het handelsverkeer gebrachte boeken of muziekuitgaven verkoopt aan eindafnemers;  
 
-i. openbare bibliotheek: een bibliotheek als bedoeld in [artikel 1, onderdeel e, van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
+i. openbare bibliotheek: een bibliotheek als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
 
 j. eindafnemer: degene aan wie de verkoper boeken of muziekuitgaven verkoopt voor eigen gebruik;  
 
@@ -70,8 +70,8 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 ### Artikel  3  
 
-1.  Voor boeken en muziekuitgaven die uit het buitenland worden geïmporteerd, stelt de importeur een vaste prijs vast. De vaste prijs voor boeken en muziekuitgaven die in Nederland zijn uitgegeven en na export weer in Nederland worden geïmporteerd is niet lager dan de door de Nederlandse uitgever vastgestelde prijs.   
-2.  In het geval dat ten hoogste vijf exemplaren van hetzelfde boek of dezelfde muziekuitgave per keer door de importeur worden geïmporteerd, is artikel 4 niet van toepassing, tenzij deze import plaatsvindt met het oogmerk deze wet te ontduiken.   
+1.  Voor boeken die in Nederland worden geïmporteerd en voor in Nederland uitgegeven muziekuitgaven die na export naar het buitenland weer in Nederland worden geïmporteerd, stelt de importeur een vaste prijs vast. De vaste prijs voor boeken en muziekuitgaven die in Nederland zijn uitgegeven en na export weer in Nederland worden geïmporteerd is niet lager dan de door de Nederlandse uitgever vastgestelde prijs.   
+2.  In het geval dat ten hoogste vijf exemplaren van hetzelfde boek per keer door de importeur worden geïmporteerd, is artikel 4 niet van toepassing, tenzij deze import plaatsvindt met het oogmerk deze wet te ontduiken.   
 3.  Het eerste lid, tweede volzin, is niet van toepassing op de import van boeken en muziekuitgaven uit een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, tenzij de import plaatsvindt met het oogmerk deze wet te ontduiken.   
 
 ### Artikel  4  
@@ -94,11 +94,23 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 a. boeken en muziekuitgaven die beschadigd zijn, mits de beschadiging niet opzettelijk is aangebracht en bij verkoop duidelijk wordt vermeld dat zij beschadigd zijn;  
 
-b. verkoop aan eindafnemers in geval van faillissement of opheffing van de activiteiten van de uitgever, importeur of verkoper, mits daarvan vooraf mededeling is gedaan aan het Commissariaat ;  
+b. verkoop aan eindafnemers in geval van faillissement of opheffing van de activiteiten van de uitgever, importeur of verkoper, gedurende een termijn van ten hoogste drie maanden en voor zover het boeken of muziekuitgaven betreft die bij de aanvang van de opheffingsuitverkoop tot de voorraad behoorden, en daarvan vooraf mededeling is gedaan aan het Commissariaat ;  
 
-c. verkoop aan eindafnemers in geval van opruiming van winkelvoorraad van boeken en muziekuitgaven die langer dan twee jaar geleden zijn uitgegeven en de laatste twaalf maanden niet meer door de verkoper zijn ingekocht, mits daarvan vooraf mededeling is gedaan aan het Commissariaat.     
+c. verkoop aan eindafnemers in geval van opruiming van winkelvoorraad van boeken en muziekuitgaven die langer dan twee jaar geleden zijn uitgegeven en de laatste twaalf maanden niet meer door de verkoper zijn ingekocht, mits daarvan vooraf mededeling is gedaan aan het Commissariaat;  
+
+d. verkoop door een uitgever van één exemplaar van een boek aan het Depot van de Koninklijke Bibliotheek, genoemd in [artikel 1.16 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+
+e. verkoop van één exemplaar van een boek of muziekuitgave aan een eindafnemer die krachtens arbeidsovereenkomst naar burgerlijk recht werkzaam is bij de verkoper, en de verkoper: 
+
+1° het boek uitgeeft, importeert of aan andere eindafnemers verkoopt; of  
+
+2° de muziekuitgave uitgeeft of aan andere eindafnemers verkoopt;    
+
+f. verkoop door een uitgever aan een auteur voor promotioneel gebruik van door die auteur geschreven boeken of muziekuitgaven.     
 2.  De verkoper kan kosten die verband houden met dienstverleningen en leveringen van bijzondere aard bij de eindafnemer in rekening brengen.   
 3.  De verkoper informeert de eindafnemer vooraf over de kosten, bedoeld in het tweede lid.   
+4.  De verkoper heeft geen deelneming in handelingen van derden waarbij de eindafnemer door de koop van een boek of muziekuitgave een geldelijk of een op geld waardeerbaar voordeel wordt verstrekt.   
+5.  Dit artikel is tevens van toepassing op in het buitenland gevestigde verkopers die boeken of muziekuitgaven importeren of doen importeren uit Nederland en vervolgens rechtstreeks aan eindafnemers in Nederland verkopen. Dit lid is niet van toepassing op verkopers gevestigd in een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, tenzij de verkoper het oogmerk heeft deze wet te ontduiken.   
 
 ### Paragraaf  3  
 
@@ -153,15 +165,15 @@ Bij algemene maatregel van bestuur kunnen ten behoeve van de instandhouding van 
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het toepassen door een verkoper van kortingen op de vaste prijs in geval van: 
 
-a. gelijktijdige levering van meerdere exemplaren van een boek of een muziekuitgave aan eenzelfde eindafnemer;  
+a. gelijktijdige verkoop van meerdere exemplaren van een boek of een muziekuitgave aan eenzelfde eindafnemer;  
 
-b. levering aan instellingen van onderwijs, aan door instellingen van onderwijs schriftelijk gemandateerde natuurlijke of rechtspersonen en aan bij een instelling van onderwijs als leerling of student ingeschreven natuurlijke personen van boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid of vanwege een rechtspersoon zonder winstoogmerk wordt gegeven, voor zover die boeken deel uitmaken van de voorgeschreven literatuur;  
+b. verkoop aan instellingen van onderwijs, aan door instellingen van onderwijs schriftelijk gemandateerde natuurlijke of rechtspersonen en aan bij een instelling van onderwijs als leerling of student ingeschreven natuurlijke personen van boeken of muziekuitgaven die dienen tot onderwijs dat vanwege de overheid of vanwege een rechtspersoon zonder winstoogmerk wordt gegeven, voor zover die boeken deel uitmaken van de voorgeschreven literatuur;  
 
-c. levering ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie;  
+c. verkoop ten behoeve van bibliotheken van onderwijsinstellingen en bibliotheken verbonden aan penitentiaire inrichtingen of ziekenhuizen en verpleeginrichtingen in het kader van de uitoefening van hun bibliotheekfunctie;  
 
-d. levering aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie;  
+d. verkoop aan openbare bibliotheken in het kader van de uitoefening van hun publieksfunctie;  
 
-e. levering door een verkoper in het kader van een collectieve promotie- of spaaractie.    
+e. verkoop door een verkoper in het kader van een collectieve promotie- of spaaractie.    
 
 ### Hoofdstuk  4  
 
@@ -197,11 +209,11 @@ b. een last onder dwangsom opleggen.
 
 ### Artikel  18  
 
-De in artikel 17, eerste lid, onder a, bedoelde bestuurlijke boete bedraagt ten hoogste € 90 000.  
+De in artikel 17, onderdeel a, bedoelde bestuurlijke boete bedraagt ten hoogste € 90 000.  
 
 ### Artikel  19  
 
-1.  Aan een last onder dwangsom, bedoeld in artikel 17, eerste lid, onder b, kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan het Commissariaat.   
+1.  Aan een last onder dwangsom, bedoeld in artikel 17, onderdeel b, kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan het Commissariaat.   
 2.  Een last geldt voor een door het Commissariaat te bepalen termijn van ten hoogste twee jaar.   
 
 ### Artikel  22  
@@ -215,7 +227,7 @@ Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangs
 
 ### Artikel  27a  
 
-Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in artikel 17, eerste lid, onder b, zijn de [artikelen 5:45](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in artikel 17, onderdeel b, zijn de [artikelen 5:45](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
 
 ### Hoofdstuk  6  
 
@@ -238,7 +250,7 @@ Een krachtens de artikelen 12, 13 en 14 vastgestelde algemene maatregel van best
 
 ### Artikel  30  
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
 
 ### Artikel  31  
 

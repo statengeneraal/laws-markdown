@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: Onze Minister: Onze Minister van Verkeer en Waterstaat; College: het College van Beroep voor het bedrijfsleven; zeeschip: een zeeschip in de zin van artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek; Nederlands zeeschip: een zeeschip dat voldoet aan de vereisten van [artikel 311 van het Wetboek van Koophandel](../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) of is ingeschreven in het rompbevrachtingsregister, genoemd in [artikel 2 van de Wet nationaliteit zeeschepen in rompbevrachting](../../../../wet/wet/nationaliteit/zeeschepen/in/rompbevrachting/BWBR0005681/README.md) (*Stb.* 1992, 541).  
+Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: Onze Minister: Onze Minister van Verkeer en Waterstaat; zeeschip: een zeeschip in de zin van artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek; Nederlands zeeschip: een zeeschip dat voldoet aan de vereisten van artikel 311 van het Wetboek van Koophandel of is ingeschreven in het rompbevrachtingsregister, genoemd in artikel 2 van de Wet nationaliteit zeeschepen in rompbevrachting (*Stb.* 1992, 541).  
 
 ### Artikel  2  
 
@@ -68,7 +68,7 @@ Onze Minister kan een vergunning of een ontheffing intrekken, indien de te harer
 ### Artikel  9  
 
 1.  Van een krachtens artikel 2, eerste lid, onder b, opgelegde heffing wordt door Onze Minister schriftelijk mededeling gedaan aan de gezagvoerder van het zeeschip. De mededeling bevat een opgave van de wijze waarop het bedrag der heffing is berekend.   
-2.  Met betrekking tot deze heffing is de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van overeenkomstige toepassing waarbij de in het vorige lid bedoelde kennisgeving wordt aangemerkt als uitnodiging tot betaling.   
+2.  Met betrekking tot deze heffing is de Invorderingswet 1990 van overeenkomstige toepassing waarbij de in het vorige lid bedoelde kennisgeving wordt aangemerkt als uitnodiging tot betaling.   
 3.  Het is de gezagvoerder van het zeeschip niet toegestaan naar het buitenland te vertrekken, alvorens de opgelegde heffing is betaald of voor de betaling daarvan zekerheid is gesteld.   
 
 ### Artikel  10  
@@ -105,7 +105,7 @@ Een wedervergeldingsregeling blijft, behoudens eerdere intrekking, van kracht to
 
 ### Artikel  15  
 
-In afwijking van [artikel 8:72, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) werkt een vernietiging vanaf het tijdstip, waarop zij wordt uitgesproken.  
+In afwijking van artikel 8:72, tweede lid, van de Algemene wet bestuursrecht werkt een vernietiging vanaf het tijdstip, waarop zij wordt uitgesproken.  
 
 ### Artikel  16  
 

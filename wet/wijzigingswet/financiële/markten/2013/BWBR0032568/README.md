@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten onder de werking van de [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) te brengen, en dat het voorts wenselijk is de in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) opgenomen biedingsregels en provisieregels te wijzigen, de bankierseed wettelijk te verankeren alsmede enige technische wijzigingen en verbeteringen in de wetgeving op het terrein van de financiële markten aan te brengen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten onder de werking van de Kaderwet zelfstandige bestuursorganen te brengen, en dat het voorts wenselijk is de in de Wet op het financieel toezicht opgenomen biedingsregels en provisieregels te wijzigen, de bankierseed wettelijk te verankeren alsmede enige technische wijzigingen en verbeteringen in de wetgeving op het terrein van de financiële markten aan te brengen;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -78,7 +78,7 @@ Wijzigt de Faillissementswet.
 1.  Voor de toepassing van dit artikel wordt onder SEPA-verordening verstaan: verordening (EU) nr 260/2012 van 14 maart 2012 van het Europees parlement en de Raad tot vaststelling van technische en bedrijfsmatige vereisten voor overmakingen en automatische afschrijvingen in euro en tot wijziging van Verordening (EG) nr. 924/2009 (PbEU L 94).   
 2.  De toezichthouder die is belast met de uitvoering en handhaving van artikel 6, eerste en tweede lid, van de SEPA-verordening, kan een ontheffing verlenen als bedoeld in artikel 16, derde, vierde of vijfde lid van de SEPA-verordening. Een ontheffing kan aan een of meer ondernemingen of voor een of meer producten of diensten worden verleend.   
 3.  Bij ministeriële regeling kan worden bepaald dat artikel 16, eerste lid of zesde lid van de SEPA-verordening wordt toegepast.   
-4.  Een ontheffing als bedoeld in het tweede lid wordt aangemerkt als een ontheffing die is verleend op grond van de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+4.  Een ontheffing als bedoeld in het tweede lid wordt aangemerkt als een ontheffing die is verleend op grond van de Wet op het financieel toezicht.   
 
 ### Artikel  XI  
 

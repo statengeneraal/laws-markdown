@@ -91,9 +91,11 @@ b. het in een oppervlaktewaterlichaam:
 
 2°. aanbrengen, verspreiden of tijdelijk opslaan van grond of baggerspecie alsmede het houden van die aangebrachte of tijdelijk opgeslagen grond of baggerspecie;    
 
-c. het lozen waarvoor regels zijn gesteld bij of krachtens het [Lozingenbesluit Wvo vaste objecten](../../../../../../AMvB/lozingenbesluit/wvo/vaste/objecten/BWBR0009355/README.md);  
+c. het lozen in een oppervlaktewaterlichaam ten gevolge van reinigingswerkzaamheden, conserveringswerkzaamheden of andere onderhoudswerkzaamheden aan vaste objecten en sloop-, renovatie- of nieuwbouwwerkzaamheden aan vaste objecten als bedoeld in de [artikelen 3.10](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) en [3.11 van het Besluit lozen buiten inrichtingen](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md);  
 
-d. het lozen waarvoor regels zijn gesteld bij het [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md).     
+d. het lozen vanuit een proefbronnering in het kader van een saneringsonderzoek in de zin van de [Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en het lozen vanuit een bodemsanering in de zin van de Wet bodembescherming;  
+
+e. het lozen buiten een inrichting ten gevolge van een gesloten bodemenergiesysteem als bedoeld in het [Activiteitenbesluit milieubeheer](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en het [Besluit lozen buiten inrichtingen](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md).     
 
 ### Artikel  3  
 
@@ -173,17 +175,11 @@ a. vanaf de kadastrale grens van het perceel waar het huishoudelijk afvalwater v
 b. langs de kortste lijn waarlangs de afvoerleidingen zonder overwegende bezwaren kunnen worden aangelegd.     
 3.  In afwijking van het eerste lid kan het bevoegd gezag, indien het belang van de bescherming van een oppervlaktewaterlichaam zich daartegen niet verzet, op een daartoe strekkende aanvraag bij maatwerkvoorschrift het lozen in een oppervlaktewaterlichaam toestaan voor een door hem vast te stellen termijn, gebaseerd op het nog niet verstreken deel van een afschrijvingstermijn van de voor de aanleg van het vuilwaterriool of het zuiveringtechnisch werk reeds bestaande zuiveringsvoorziening.   
 
-### Artikel  10a  
-
-1.  Het lozen van huishoudelijk afvalwater vanaf pleziervaartuigen, bedoeld in de [Wet pleziervaartuigen](../../../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md), is toegestaan.   
-2.  In afwijking van het eerste lid is het verboden toiletwater afkomstig van pleziervaartuigen te lozen.   
-3.  In afwijking van het tweede lid is het lozen van toiletwater na passage van een zuiveringsvoorziening toegestaan. De zuiveringsvoorziening voldoet aan bij ministeriële regeling te stellen eisen.   
-
 ### Artikel  11  
 
 1.  Voorafgaand aan het lozen in een oppervlaktewaterlichaam wordt huishoudelijk afvalwater door een zuiveringsvoorziening geleid.   
 2.  Bij regeling van Onze Minister van Verkeer en Waterstaat worden regels gesteld met betrekking tot de zuiveringsvoorziening, bedoeld in het eerste lid.   
-3.  Het bevoegd gezag kan, bij lozen in een niet aangewezen oppervlaktewaterlichaam als bedoeld in [artikel 1.1 van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is aangewezen, indien het belang van de bescherming van het milieu daartoe noodzaakt in afwijking van de regels bedoeld in het tweede lid bij maatwerkvoorschrift bepalen dat het huishoudelijk afvalwater door een aangegeven zuiveringsvoorziening dient te worden geleid.   
+3.  Het bevoegd gezag kan, bij lozen in een niet aangewezen oppervlaktewaterlichaam als bedoeld in [artikel 1.1 van het Activiteitenbesluit milieubeheer](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), indien het belang van de bescherming van het milieu daartoe noodzaakt in afwijking van de regels bedoeld in het tweede lid bij maatwerkvoorschrift bepalen dat het huishoudelijk afvalwater door een aangegeven zuiveringsvoorziening dient te worden geleid.   
 4.  In afwijking van de regels, bedoeld in het tweede lid, kan het bevoegd gezag, indien het belang van de bescherming van een oppervlaktewaterlichaam zich daartegen niet verzet, op een daartoe strekkende aanvraag voor een door hem vast te stellen termijn bij maatwerkvoorschrift het lozen toestaan: 
 
 a. door middel van een minder vergaande zuiveringsvoorziening; of  

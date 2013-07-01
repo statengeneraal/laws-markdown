@@ -1538,13 +1538,21 @@ De Nederlandse sociale en arbeidswetgeving is niet van toepassing voor zover een
 
 ####Samenstelling bestuur pensioenfonds
 
-1.  In het bestuur van een bedrijfstakpensioenfonds bezetten de vertegenwoordigers van werkgeversverenigingen en de vertegenwoordigers van werknemersverenigingen in de betrokken bedrijfstak of bedrijfstakken evenveel zetels.   
+1.  In het bestuur van een bedrijfstakpensioenfonds zijn de belanghebbenden op een evenwichtige wijze vertegenwoordigd met dien verstande dat: 
+
+a. de vertegenwoordigers van werknemersverenigingen ten minste evenveel zetels bezetten als de vertegenwoordigers van werkgeversverenigingen in de betrokken bedrijfstak of bedrijfstakken; of  
+
+b. indien vertegenwoordigers van pensioengerechtigden zetels bezetten, zij tezamen met de vertegenwoordigers van werknemersverenigingen ten minste evenveel zetels bezetten als de vertegenwoordigers van de werkgeversverenigingen.     
 2.  Indien de statuten van een bedrijfstakpensioenfonds voorzien in stemgerechtigde vertegenwoordigers in het bestuur van anderen dan werknemers- of werkgeversverenigingen binnen de betrokken bedrijfstak of bedrijfstakken, worden die vertegenwoordigers voor de toepassing van het eerste lid gelijkgesteld met vertegenwoordigers van werknemersverenigingen.   
-3.  In het bestuur van een ondernemingspensioenfonds bezetten de werknemersvertegenwoordigers ten minste evenveel zetels als de werkgeversvertegenwoordigers, met dien verstande dat indien vertegenwoordigers van pensioengerechtigden zetels bezetten, zij tezamen met werknemersvertegenwoordigers ten minste evenveel zetels bezetten als de werkgeversvertegenwoordigers.   
+3.  In het bestuur van een ondernemingspensioenfonds zijn de belanghebbenden op een evenwichtige wijze vertegenwoordigd met dien verstande dat: 
+
+a. de werknemersvertegenwoordigers ten minste evenveel zetels bezetten als de werkgeversvertegenwoordigers; of  
+
+b. indien vertegenwoordigers van pensioengerechtigden zetels bezetten, zij tezamen met werknemersvertegenwoordigers ten minste evenveel zetels bezetten als de werkgeversvertegenwoordigers.     
 4.  Indien een ondernemingspensioenfonds pensioenregelingen uitvoert voor meerdere ondernemingen of groepen wordt elke onderneming of groep door ten minste een werknemersvertegenwoordiger en een werkgeversvertegenwoordiger vertegenwoordigd in het bestuur.   
 5.  De benoeming van de werknemersvertegenwoordigers in het bestuur van een ondernemingspensioenfonds vindt plaats: 
 
-a. na verkiezing van de vertegenwoordigers door en uit de deelnemers;  
+a. na verkiezing van de vertegenwoordigers door de deelnemers;  
 
 b. op voordracht van de vertegenwoordigers van de deelnemers in een deelnemersraad als bedoeld in artikel 110;  
 
@@ -1556,24 +1564,26 @@ d. op een andere wijze, mits de ondernemingsraad heeft ingestemd met deze benoem
 
 ### Artikel  100  
 
-####Keuze medezeggenschap bij ondernemingspensioenfonds
+####Keuze medezeggenschap in pensioenfondsbesturen
 
-1.  Een ondernemingspensioenfonds waarvan: 
+1.  In het bestuur van een pensioenfonds zijn de pensioengerechtigden vertegenwoordigd wanneer: 
+
+a. het bestuur hiertoe op eigen initiatief besluit; of  
+
+b. een meerderheid van de responderende pensioengerechtigden hiervoor kiest bij een schriftelijke raadpleging waarbij ten minste 10% van het aantal pensioengerechtigden zijn voorkeur kenbaar heeft gemaakt.     
+2.  Een pensioenfonds waarvan: 
 
 a. het aantal pensioengerechtigden ten minste 10% bedraagt van de som van het aantal deelnemers en het aantal pensioengerechtigden en waarvan het aantal pensioengerechtigden ten minste 25 personen bedraagt; of  
 
-b. het aantal pensioengerechtigden ten minste 1000 personen bedraagt;   stelt een deelnemersraad in waarin vertegenwoordigers van pensioengerechtigden zitting hebben of heeft een bestuur waarin vertegenwoordigers van pensioengerechtigden zitting hebben.   
-2.  Het ondernemingspensioenfonds raadpleegt schriftelijk de pensioengerechtigden over de wijze waarop de medezeggenschap van pensioengerechtigden, bedoeld in het eerste lid, wordt vorm gegeven, tenzij bij het ondernemingspensioenfonds al is voorzien in een deelnemersraad en een bestuur waarin vertegenwoordigers van pensioengerechtigden zitting hebben.   
-3.  Het ondernemingspensioenfonds volgt met betrekking tot de wijze waarop de medezeggenschap van pensioengerechtigden vorm wordt gegeven de wens van de meerderheid van de responderende pensioengerechtigden, mits ten minste de helft van het aantal pensioengerechtigden zijn voorkeur kenbaar heeft gemaakt, tenzij er zwaarwegende redenen zijn om af te wijken van de door de meerderheid van de pensioengerechtigden gemaakte keuze.   
+b. het aantal pensioengerechtigden ten minste 1000 personen bedraagt;   houdt de in het eerste lid, onderdeel b, genoemde raadpleging tenzij het bestuur op eigen initiatief heeft besloten tot opname van vertegenwoordigers van de pensioengerechtigden in het bestuur.   
+3.  Eens in de vijf jaar herhaalt het pensioenfonds de raadpleging indien dit wordt verzocht door tenminste 5% van de pensioengerechtigden tenzij de pensioengerechtigden reeds in het bestuur zijn vertegenwoordigd.   
 
 ### Artikel  101  
 
-####Vertegenwoordigers van pensioengerechtigden in bestuur ondernemingspensioenfonds
+####Vertegenwoordigers van pensioengerechtigden in pensioenfondsbesturen
 
-1.  De verdeling van de zetels van werknemersvertegenwoordigers en vertegenwoordigers van pensioengerechtigden vindt plaats op basis van de onderlinge getalsverhoudingen, met dien verstande dat de vertegenwoordigers van pensioengerechtigden ten hoogste de helft van het aantal zetels in het bestuur van een ondernemingspensioenfonds bezetten dat werknemersvertegenwoordigers en vertegenwoordigers van pensioengerechtigden gezamenlijk bezetten.   
-2.  In afwijking van het eerste lid kunnen vertegenwoordigers van pensioengerechtigden meer zetels bezetten dan werknemersvertegenwoordigers, indien het aantal deelnemers minder bedraagt dan 10% van de som van het aantal deelnemers en pensioengerechtigden.   
-3.  In afwijking van het eerste lid kunnen vertegenwoordigers van pensioengerechtigden minder zetels bezetten dan het aantal op basis van de onderlinge getalsverhoudingen, bedoeld in het eerste lid, indien pensioengerechtigden bij de raadpleging, bedoeld in artikel 100, tweede lid, hebben gekozen voor een deelnemersraad en de vertegenwoordigers van pensioengerechtigden al voor die raadpleging zetels in het bestuur bezetten.   
-4.  De benoeming van de vertegenwoordigers van pensioengerechtigden in het bestuur van een ondernemingspensioenfonds vindt plaats na verkiezing van de vertegenwoordigers door en uit de pensioengerechtigden.   
+1.  In het bestuur van een pensioenfonds zijn de belanghebbenden op een evenwichtige wijze vertegenwoordigd met dien verstande dat de verdeling van de zetels van vertegenwoordigers van werknemersverenigingen of werknemersvertegenwoordigers en vertegenwoordigers van pensioengerechtigden plaats vindt op basis van de onderlinge getalsverhoudingen. Van deze verdeling kan worden afgeweken indien de betrokken partijen daarmee akkoord zijn.   
+2.  De benoeming van de vertegenwoordigers van pensioengerechtigden in het bestuur van een pensioenfonds vindt plaats na verkiezing van de vertegenwoordigers door de pensioengerechtigden. Artikel 109, vierde, zesde en zevende lid, is van overeenkomstige toepassing op de benoeming van vertegenwoordigers van pensioengerechtigden in het bestuur van een bedrijfstakpensioenfonds en artikel 110, vierde en zesde lid, is van overeenkomstige toepassing op de benoeming van vertegenwoordigers van pensioengerechtigden in het bestuur van een ondernemingspensioenfonds.   
 
 ### Artikel  102  
 
@@ -1711,6 +1721,7 @@ b. ten minste 250 personen van die geleding, voor welke die vereniging een kandi
 5.  Voor zover geen verkiezing door de deelnemers, gewezen deelnemers en pensioengerechtigden plaatsvindt, zijn verenigingen, die voldoen aan de in het vierde lid bedoelde criteria, evenredig aan hun ledentallen binnen het pensioenfonds vertegenwoordigd in de deelnemersraad binnen de betreffende geleding.   
 6.  Een vereniging als bedoeld in het vierde en vijfde lid, bezit volledige rechtsbevoegdheid. Haar statutair doel omvat mede het behartigen van de belangen van haar leden als belanghebbenden bij een bedrijfstakpensioenfonds.   
 7.  Bij regeling van Onze Minister kunnen verenigingen worden aangewezen op wie het vierde, vijfde en zesde lid, voor een bij die aanwijzing te bepalen periode niet van toepassing zijn.   
+8.  Het bedrijfstakpensioenfonds is gehouden om op verzoek van werknemers of een werknemersvereniging mee te werken aan de verstrekking van informatie aan de werknemers van het fonds over het voornemen tot oprichting, of over het bestaan, van een werknemersvereniging. Het bedrijfstakpensioenfonds is tevens gehouden om op verzoek van pensioengerechtigden of een vereniging van pensioengerechtigden mee te werken aan de verstrekking van informatie aan de pensioengerechtigden van een fonds over het voornemen tot oprichting, of over het bestaan, van een vereniging van pensioengerechtigden.   
 
 ### Artikel  110  
 
@@ -1718,16 +1729,15 @@ b. ten minste 250 personen van die geleding, voor welke die vereniging een kandi
 
 1.  Het bestuur van een ondernemingspensioenfonds gaat over tot het instellen van een deelnemersraad: 
 
-a. op eigen initiatief van het ondernemingspensioenfonds;  
+a. op eigen initiatief van het ondernemingspensioenfonds; of  
 
-b. indien dit wordt verzocht door ten minste 5% van de deelnemers, gewezen deelnemers en pensioengerechtigden; of  
-
-c. indien de pensioengerechtigden in de raadpleging, bedoeld in artikel 100, zich overeenkomstig artikel 100, tweede en derde lid, hebben uitgesproken voor instelling van een deelnemersraad.     
+b. indien dit wordt verzocht door ten minste 5% van de deelnemers, gewezen deelnemers en pensioengerechtigden.     
 2.  In de deelnemersraad zijn de deelnemers en de pensioengerechtigden evenredig op basis van onderlinge getalsverhoudingen vertegenwoordigd. Indien een ondernemingspensioenfonds pensioenregelingen uitvoert voor meerdere ondernemingen of groepen wordt elke onderneming of groep door ten minste een deelnemer en een pensioengerechtigde vertegenwoordigd in de deelnemersraad.   
 3.  Op grond van door het bestuur van het pensioenfonds vast te stellen criteria kunnen naast de in het tweede lid bedoelde vertegenwoordigers ook één of meer vertegenwoordigers van gewezen deelnemers in de deelnemersraad zitting hebben.   
 4.  In geval van verkiezing van de leden van de deelnemersraad door deelnemers, gewezen deelnemers en pensioengerechtigden kunnen kandidaten worden voorgedragen door verenigingen en door individuele deelnemers, gewezen deelnemers en pensioengerechtigden.   
 5.  Voor zover geen verkiezing door de deelnemers, gewezen deelnemers en pensioengerechtigden plaatsvindt, maar de leden worden benoemd door verenigingen, zijn deze verenigingen evenredig aan hun ledenaantallen binnen hun geleding binnen het ondernemingspensioenfonds vertegenwoordigd in de deelnemersraad.   
 6.  Een vereniging als bedoeld in het vierde en vijfde lid bezit volledige rechtsbevoegdheid; haar statutair doel omvat mede het behartigen van de belangen van haar leden als belanghebbenden bij een ondernemingspensioenfonds.   
+7.  Het ondernemingspensioenfonds is gehouden om op verzoek van werknemers of een werknemersvereniging mee te werken aan de verstrekking van informatie aan de werknemers van het fonds over het voornemen tot oprichting, of over het bestaan, van een werknemersvereniging. Het ondernemingspensioenfonds is tevens gehouden om op verzoek van pensioengerechtigden of een vereniging van pensioengerechtigden mee te werken aan de verstrekking van informatie aan de pensioengerechtigden van het fonds over het voornemen tot oprichting, of over het bestaan, van een vereniging van pensioengerechtigden.   
 
 ### Artikel  111  
 
@@ -2870,9 +2880,17 @@ b. het opleggen van een verbod aan het pensioenfonds om handelingen te verrichte
 
 ### Artikel  218  
 
-####Beroep geleding deelnemersraad bij ondernemingskamer
+####Beroep minderheid deelnemersraad bij ondernemingskamer
 
-1.  Een geleding binnen de deelnemersraad kan bij de ondernemingskamer van het gerechtshof Amsterdam beroep instellen tegen een besluit als bedoeld in artikel 111, tweede lid, onderdeel f of g, van het pensioenfonds, wanneer dat besluit niet in overeenstemming is met het advies van de deelnemersraad.   
+1.  Een gedeelte van de deelnemersraad dat ten minste 30% van de leden omvat kan bij de ondernemingskamer van het gerechtshof Amsterdam beroep instellen tegen een besluit betreffende een aangelegenheid als bedoeld in artikel 111, tweede lid, indien: 
+
+a. de deelnemersraad met betrekking tot dat besluit niet voorafgaand in de gelegenheid is gesteld advies uit te brengen;  
+
+b. dat besluit niet in overeenstemming is met het advies van de deelnemersraad;  
+
+c. feiten en omstandigheden bekend zijn geworden die, waren zij aan de deelnemersraad bekend geweest ten tijde van het uitbrengen van zijn advies, aanleiding zouden kunnen zijn geweest om dat advies niet uit te brengen zoals het is uitgebracht; of  
+
+d. dat besluit niet in overeenstemming is met het eerder uitgebrachte advies van deze minderheid.     
 2.  Artikel 217, tweede tot en met elfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  219  

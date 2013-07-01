@@ -218,7 +218,7 @@ a. de vermoedelijke datum van bevalling;
 b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gelijkgestelde het recht op uitkering wil laten ingaan.     
 2.  Het Uitvoeringsinstituut werknemersverzekeringen kan de werkgever, uiterlijk binnen een jaar na het tijdstip waarop de uitkering geëindigd is, een verklaring vragen van een arts of verloskundige over de vermoedelijke datum van bevalling, welke is opgemaakt uiterlijk twee weken voor de datum van ingang van het zwangerschapsverlof onderscheidenlijk twee weken voor de datum waarop de vrouwelijke werknemer het recht op uitkering wil laten ingaan.   
 3.  De werknemer of gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met adoptie of pleegzorg, doet de aanvraag daartoe door tussenkomst van de werkgever bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum van ingang van het verlof in verband met adoptie of pleegzorg onderscheidenlijk de datum waarop hij het recht op uitkering wil laten ingaan. Bij de aanvraag worden documenten gevoegd waaruit blijkt dat een kind ter adoptie of pleegzorg is of zal worden opgenomen en wanneer die opneming ter adoptie of pleegzorg heeft plaatsgevonden of zal plaatsvinden. Bij die aanvraag wordt de datum waarop het verlof in verband met adoptie of pleegzorg ingaat gemeld dan wel de datum waarop hij het recht op uitkering wil laten ingaan.   
-4.  Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werknemer of gelijkgestelde afwijken van het eerste en tweede lid.   
+4.  Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, adoptie of pleegzorg, valt in het jaar voorafgaand aan de datum van aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de werknemer of gelijkgestelde afwijken van de eerste zin.   
 
 ####De rechtstreekse aanvraag van uitkering
 
@@ -226,7 +226,7 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 
 1.  Indien de vrouwelijke gelijkgestelde, die in aanmerking wenst te komen voor toekenning van een uitkering in verband met zwangerschap en bevalling, geen werkgever heeft, doet zij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor de datum waarop zij het recht op uitkering wil laten ingaan. Artikel 3:11, eerste lid, tweede volzin, en tweede lid, zijn van overeenkomstige toepassing   
 2.  Indien de gelijkgestelde, die in aanmerking wenst te komen voor toekenning van uitkering in verband met adoptie of pleegzorg, geen werkgever heeft, doet hij de aanvraag daartoe bij het Uitvoeringsinstituut werknemersverzekeringen uiterlijk twee weken voor ingang van de datum waarop hij het recht op uitkering wil laten ingaan. Artikel 3:11, derde lid, tweede en derde volzin, is van toepassing.   
-3.  Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de gelijkgestelde afwijken van het eerste en tweede lid.   
+3.  Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, adoptie of pleegzorg, valt in het jaar voorafgaand aan de datum van aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de gelijkgestelde afwijken van de eerste zin.   
 4.  Voor de toepassing van dit artikel wordt onder gelijkgestelde mede verstaan degene die recht op uitkering heeft op grond van artikel 3:10.   
 
 ####De hoogte van de uitkering
@@ -234,8 +234,11 @@ b. de datum waarop het zwangerschapsverlof ingaat dan wel de datum waarop de gel
 ### Artikel  3:13  
 
 1.  De uitkering, bedoeld in deze paragraaf, bedraagt per dag het dagloon.   
-2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening met betrekking tot de werknemer, bedoeld in [artikel 29b van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), op grond van de [artikelen 15](../../../../../../wet/ziektewet/BWBR0001888/README.md) en [16 van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de daarop berustende bepalingen.   
-3.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, vastgesteld overeenkomstig [artikel 68 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de regels op grond van [artikel 71, onderdeel c, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md).   
+2.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, en de betrokkene, bedoeld in artikel 3:10, eerste en tweede lid, vastgesteld en herzien overeenkomstig de vaststelling en herziening op grond van de [artikelen 15 en van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de daarop berustende bepalingen waarbij de periode van één jaar, bedoeld in artikel 15 van die wet, voor de toepassing van deze wet eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de uitkering op grond deze wet ingaat.   
+3.  Voor de gelijkgestelde, bedoeld in artikel 3:6 eerste lid, onderdeel b, onder 1°, die op grond van [artikel 8, onder a, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) voorafgaand aan een uitkering op grond van deze wet ziekengeld ontving, is het dagloon gelijk aan het reeds ten behoeve daarvan vastgestelde en herziene dagloon.   
+4.  Indien voor de gelijkgestelde, bedoeld in het derde lid, [artikel 31 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) werd toegepast vanwege ander inkomen dan uit de dienstbetrekking, op grond waarvan het recht op ziekengeld is ontstaan, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/A van het ziekengeld per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet, waarbij A staat voor het uitkeringspercentage van uitkering op grond van de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md).   
+5.  Voor de gelijkgestelde, bedoeld in artikel 3:6, eerste lid, onderdeel b, onder 2°, is het dagloon, in afwijking van het tweede lid, gelijk aan het op grond van [artikel 13 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) en de daarop berustende bepalingen reeds vastgestelde en herziene dagloon. Indien voor de gelijkgestelde, bedoeld in de eerste zin, bij het vaststellen van de hoogte van de loongerelateerde uitkering van de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten op grond van [artikel 61 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) rekening werd gehouden met inkomen, wordt het dagloon voor de toepassing van deze wet, in afwijking van het tweede lid, vastgesteld op 100/70 van het bedrag van die uitkering per dag over de vier kalenderweken voorafgaande aan de uitkering op grond van deze wet.   
+6.  Het dagloon wordt voor de werknemer en de gelijkgestelde, bedoeld in artikel 3:6, tweede lid, vastgesteld overeenkomstig [artikel 68 van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) en de regels op grond van [artikel 71, onderdeel c, van die wet](../../../../../../wet/ziektewet/BWBR0001888/README.md).   
 
 ####De uitbetaling van de uitkering
 
@@ -359,7 +362,7 @@ a. de vermoedelijke datum van bevalling, onder overlegging van de verklaring van
 b. de datum waarop het zwangerschapsverlof, respectievelijk het recht op uitkering, bedoeld in artikel 3:18, tweede lid, ingaat;  
 
 c. of zij de uitkering wil genieten in de vorm van een uitkering ter zake van vervanging.     
-2.  Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst afwijken van het eerste lid.   
+2.  Indien de aanvraag niet tijdig wordt gedaan, wordt de uitkering uitsluitend toegekend voor zover het tijdvak waarin sprake was van recht op uitkering in verband met zwangerschap en bevalling, valt in het jaar voorafgaand aan de aanvraag. Het Uitvoeringsinstituut werknemersverzekeringen kan in bijzondere gevallen ten gunste van de vrouwelijke zelfstandige of de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst afwijken van de eerste zin.   
 
 ####De hoogte van de uitkering
 
@@ -577,7 +580,7 @@ b. een inwonend kind tot wie de werknemer als ouder in een familierechtelijke be
 
 c. een inwonend kind van de echtgenoot, de geregistreerde partner of de persoon met wie de werknemer ongehuwd samenwoont;  
 
-d. een pleegkind dat blijkens verklaringen uit de gemeentelijke basisadministratie op hetzelfde adres woont als de werknemer en door hem in diens gezin duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in [artikel 22, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+d. een pleegkind dat blijkens verklaringen uit de gemeentelijke basisadministratie op hetzelfde adres woont als de werknemer en door hem in diens gezin duurzaam wordt verzorgd en opgevoed op basis van een pleegcontract als bedoeld in [artikel 28b, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
 
 e. een bloedverwant in de eerste graad, niet zijnde een kind.     
 
@@ -834,9 +837,9 @@ Behoudens artikel 6:8 kan van dit hoofdstuk niet ten nadele van de werknemer wor
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. levensloopregeling: een regeling als bedoeld in [artikel 19g van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+a. levensloopregeling: een regeling als bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
-b. uitvoerder: een bank, een verzekeraar of een beheerder van een beleggingsinstelling als bedoeld in [artikel 19g, derde lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).    
+b. uitvoerder: een bank, een verzekeraar of een beheerder van een beleggingsinstelling als bedoeld in [artikel 19g, derde lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zoals dit artikellid op 31 december 2011 luidde.    
 
 ####Recht op deelname
 

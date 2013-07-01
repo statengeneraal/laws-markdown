@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Deze wet is van toepassing op door Onze Ministers verstrekte subsidies waarop ingevolge de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)[titel 4.2 van die wet](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is.  
+Deze wet is van toepassing op door Onze Ministers verstrekte subsidies waarop ingevolge de Algemene wet bestuursrechttitel 4.2 van die wet van toepassing is.  
 
 ### Artikel  2  
 
@@ -50,13 +50,13 @@ Een beschikking waarbij een bijzondere meldingsplicht als bedoeld in artikel 2, 
 
 ### Artikel  6  
 
-1.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 2, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
-2.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 3 of artikel 4, eerste lid, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+1.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 2, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
+2.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 3 of artikel 4, eerste lid, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 
 ### Artikel  7  
 
 1.   Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.    
-2.   Dit lid is nog niet in werking getreden.    
+2.   Vervallen.    
 
 ### Artikel  8  
 

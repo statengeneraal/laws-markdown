@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 15 oktober 1970, Stafafdeling Wetgeving Privaatrecht, Nr. 469/670;
 
-Gelet op [artikel 72 van de Wet op de Rechterlijke Organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en het Beleid der Justitie;
+Gelet op artikel 72 van de Wet op de Rechterlijke Organisatie en het Beleid der Justitie;
 
 De Raad van State gehoord (advies van 28 oktober 1970, Nr. 8);
 
@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-– *gerechtshof:* het gerechtshof te Amsterdam of 's-Gravenhage;  
+– *gerechtshof:* het gerechtshof Amsterdam of het gerechtshof Den Haag;  
 
-– *ondernemingskamer:* de ondernemingskamer van het gerechtshof te Amsterdam, bedoeld in [artikel 66, eerste lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md);  
+– *ondernemingskamer:* de ondernemingskamer van het gerechtshof Amsterdam, bedoeld in artikel 66, eerste lid, van de Wet op de rechterlijke organisatie;  
 
-– *bijzondere kamer:* de bijzondere kamer van het gerechtshof te ’s-Gravenhage, bedoeld in [artikel 66, derde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).    
+– *bijzondere kamer:* de bijzondere kamer van het gerechtshof Den Haag, bedoeld in artikel 66, derde lid, van de Wet op de rechterlijke organisatie.    
 
 ### Artikel  2  
 
-Dit besluit berust op [artikel 66, vijfde en zesde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
+Dit besluit berust op artikel 66, vijfde en zesde lid, van de Wet op de rechterlijke organisatie.  
 
 ### Artikel  3  
 
@@ -35,8 +35,8 @@ Dit besluit berust op [artikel 66, vijfde en zesde lid, van de Wet op de rechter
 
 ### Artikel  4  
 
-1.  De deskundige leden, bedoeld in [artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.   
-2.  Het formulier, bedoeld in [artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), wordt na het afleggen van de eed of belofte ondertekend door het deskundig lid en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer.   
+1.  De deskundige leden, bedoeld in artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie, leggen de eed of belofte af ten overstaan van een enkelvoudige of meervoudige kamer van het gerechtshof. De eed of belofte, bedoeld in de eerste volzin, wordt afgenomen op requisitoir van het openbaar ministerie.   
+2.  Het formulier, bedoeld in artikel 66, vijfde lid, van de Wet op de rechterlijke organisatie, wordt na het afleggen van de eed of belofte ondertekend door het deskundig lid en door de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in de in het eerste lid bedoelde enkelvoudige kamer dan wel voorzitter is van de in het eerste lid bedoelde meervoudige kamer.   
 
 ### Artikel  5  
 
@@ -61,7 +61,9 @@ De deskundige leden en plaatsvervangende deskundige leden ontvangen van de griff
 
 ### Artikel  13  
 
-Aan de deskundige leden en plaatsvervangende deskundige leden wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de raadsheren-plaatsvervangers.  
+1.  Aan de deskundige leden en plaatsvervangende deskundige leden wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de raadsheren-plaatsvervangers.   
+2.  Aan de deskundige leden en plaatsvervangende deskundige leden van de bijzondere kamer wordt, in afwijking van de regels die gelden voor de raadsheren-plaatsvervangers, een vergoeding toegekend ten bedrage van € 1.000 per zittingsdag.   
+3.  Bij regeling van Onze Minister kan de in het tweede lid genoemde vergoeding jaarlijks met ingang van 1 januari worden aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij worden de bedragen rekenkundig afgerond op hele euro’s.   
 
 ### Artikel  14  
 
@@ -70,14 +72,14 @@ Aan de deskundige leden en plaatsvervangende deskundige leden wordt een vergoedi
 
 ### Artikel  15  
 
-1.  De deskundige leden en plaatsvervangende deskundige leden genieten, zowel voor het bijwonen van de bijeenkomsten van de ondernemingskamer of de bijzondere kamer als voor het volbrengen van verrichtingen welke hun, ook buiten eigenlijk rechtsgeding, door de ondernemingskamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen van het Reisbesluit 1956 of het Besluit vergoeding plaatselijk vervoer en verblijf, en worden daarbij ingedeeld in categorie A.   
+1.  De deskundige leden en plaatsvervangende deskundige leden genieten, zowel voor het bijwonen van de bijeenkomsten van de ondernemingskamer of de bijzondere kamer als voor het volbrengen van verrichtingen welke hun, ook buiten eigenlijk rechtsgeding, door de ondernemingskamer of de bijzondere kamer worden opgedragen, reis- en verblijfkosten overeenkomstig de bepalingen die hieromtrent gelden voor burgerlijke rijksambtenaren.   
 2.  Reis- en verblijfkosten worden hun overeenkomstig het vorige lid eveneens vergoed ter gelegenheid van hun beëdiging en installatie.   
 
 ### Artikel  16  
 
-1.  Aan het Ministerie van Justitie worden maandelijks ingezonden: 
+1.  Aan het Ministerie van Veiligheid en Justitie worden maandelijks ingezonden: 
 
-a. de declaraties wegens vergoedingen, bedoeld in de artikelen no. 13 en 14;  
+a. de declaraties wegens vergoedingen, bedoeld in de artikelen 13 en 14;  
 
 b. de declaraties wegens reis- en verblijfkosten bedoeld in artikel 15.     
 2.  De in het eerste lid onder *a* genoemde declaraties vermelden de dagen waarop de bijeenkomsten zijn bijgewoond en aan de gerechtelijke plaatsopneming en bezichtiging is deelgenomen, en bevatten een verklaring van de voorzitter der ondernemingskamer of de bijzondere kamer dat de declarant de opgegeven bijeenkomsten heeft bijgewoond of aan de plaatsopneming of bezichtiging heeft deelgenomen voor de daarbij aangegeven tijdsduur.   

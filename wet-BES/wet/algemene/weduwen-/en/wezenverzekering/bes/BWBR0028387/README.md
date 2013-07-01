@@ -72,15 +72,15 @@ d. ten aanzien van echtgenoten en overige gezinsleden van de in het tweede lid e
 
 ### Artikel  7  
 
-De weduwe van een verzekerde heeft, zolang zij de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) niet bereikt heeft, recht op een weduwenpensioen op grond van deze wet.  
+De weduwe van een verzekerde heeft, zolang zij de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES niet bereikt heeft, recht op een weduwenpensioen op grond van deze wet.  
 
 ### Artikel  8  
 
 1.  Geen recht op weduwenpensioen heeft de weduwe: 
 
-a. wier echtgenoot vóór het bereiken van de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) nimmer verzekerd is geweest;  
+a. wier echtgenoot vóór het bereiken van de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES nimmer verzekerd is geweest;  
 
-b. wier echtgenoot op de dag van de huwelijkssluiting de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) had bereikt of overschreden, tenzij de weduwe met deze echtgenoot, vóórdat hij de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES had bereikt, reeds eerder gehuwd is geweest;  
+b. wier echtgenoot op de dag van de huwelijkssluiting de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES had bereikt of overschreden, tenzij de weduwe met deze echtgenoot, vóórdat hij de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES had bereikt, reeds eerder gehuwd is geweest;  
 
 c. die veroordeeld is terzake van het ombrengen van haar echtgenoot.     
 2.  Het bepaalde in het voorgaande lid onder a en b blijft buiten toepassing, indien de weduwe, indien zij niet was hertrouwd, recht op weduwenpensioen zou hebben.   
@@ -98,7 +98,7 @@ c. na het overlijden van een verzekerde man: de kinderen tot wie hij in familier
 d. na het overlijden van een verzekerde vrouw: haar eigen kinderen, die als gevolg van haar overlijden ouderloos zijn geworden.     
 2.  Ingeval van kinderen tot wie de verzekerde vader niet in familierechtelijke betrekking stond is het eerste lid, onderdelen a en c, van toepassing indien: 
 
-a. de verzekerde vader ten tijde van zijn overlijden onderhoudsplicht op grond van [artikel 349 van Boek 1 van het Burgerlijk Wetboek BES](../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) is opgelegd, dan wel door hem bij authentieke akte onderhoudsplicht is erkend; of  
+a. de verzekerde vader ten tijde van zijn overlijden onderhoudsplicht op grond van artikel 349 van Boek 1 van het Burgerlijk Wetboek BES is opgelegd, dan wel door hem bij authentieke akte onderhoudsplicht is erkend; of  
 
 b. zij in een gezinsverband met de overleden verzekerde man samen leefden.     
 3.  Kinderen zonder familierechtelijke betrekkingen met een vader die niet aangemerkt kunnen worden als kinderen als bedoeld in het tweede lid worden gelijkgesteld met kinderen die als gevolg van het overlijden van de moeder ouderloos zijn geworden, voor zolang geen wijziging van omstandigheden heeft plaatsgevonden.   
@@ -112,7 +112,7 @@ b. zij ten gevolge van ziekte of gebreken blijvend buiten staat zijn om met arbe
 
 ### Artikel  10  
 
-Geen recht op wezenpensioen bestaat indien de verzekerde aan wiens overlijden het recht daarop zou worden ontleend vóór het bereiken van de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) nimmer verzekerd is geweest.  
+Geen recht op wezenpensioen bestaat indien de verzekerde aan wiens overlijden het recht daarop zou worden ontleend vóór het bereiken van de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES nimmer verzekerd is geweest.  
 
 ### §  2  
 
@@ -128,14 +128,12 @@ b. van 40 tot en met 48 jaar: USD 222  per 1 januari 2013 indien belanghebbende
 
 c. van 49 tot en met 57 jaar: USD 278  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 430;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 462;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 436;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 430;   
 
-d. van 58 tot de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md): USD 365  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 567;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 609;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 575;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 567.      
+d. van 58 tot de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES: USD 365  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 567;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 609;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 575;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 567.      
 2.  Verhoging van het pensioenbedrag gaat in op de eerste dag van de maand volgende op die, waarin het recht op verhoging is ontstaan.   
 3.  In afwijking van het bepaalde in het eerste lid bedraagt het weduwenpensioen voor een weduwe die invalide is of die een of meer kinderen heeft die geheel te harer laste komen en recht hebben op wezenpensioen, USD 365  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 567;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 609;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 575;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 567.  per maand.   
 4.  Een weduwe is invalide, indien zij door een ziekte of gebrek blijvend buiten staat geacht moet worden om met arbeid, die voor haar krachten en bekwaamheid is berekend de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde vrouwen van soortgelijke bekwaamheid met arbeid gewoonlijk verdienen.   
 5.  Onze Minister trekt een weduwenpensioen, toegekend terzake van invaliditeit in met ingang van de eerste dag van de maand volgend op de maand, waarin de weduwe geacht wordt niet langer invalide te zijn.   
 6.  Onze Minister is bevoegd uitkering van weduwenpensioen voor invaliditeit te weigeren, indien de weduwe, die een dergelijk pensioen geniet, zonder deugdelijke grond weigert zich aan een door Onze Minister gewenst geneeskundig onderzoek te onderwerpen.   
-7.  De pensioenbedragen worden bij ministeriële regeling, met inachtneming van het volgende lid, aangepast aan de ontwikkeling van de consumentenprijsindexcijfers.   
-8.  De aanpassing van de pensioenbedragen op grond van het zevende lid vindt plaats met ingang van de eerste dag van enig kalenderjaar op basis van de stijging die het consumentenprijsindexcijfer van het derde kwartaal daaraan voorafgaande aangeeft ten opzichte van het consumentenprijsindexcijfer van het derde kwartaal van het voorafgaande jaar. Onze Minister bepaalt welk consumentenprijsindexcijfer, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin wordt gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.   
 
 ### Artikel  12  
 
@@ -143,6 +141,17 @@ d. van 58 tot de leeftijd waarop recht op ouderdomspensioen ontstaat op grond va
 2.  Het wezenpensioen bedraagt voor een kind, dat door het overlijden van de verzekerde vaderloos onderscheidenlijk moederloos is geworden, USD 132  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 190;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 204;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 193;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 190  per maand, indien het jonger is dan tien jaar en USD 134  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 207;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 222;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 210;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 207  per maand indien het tien jaar of ouder, doch nog geen 15 jaar is.   
 3.  Het wezenpensioen bedraagt voor een kind, bedoeld in artikel 9, vijfde lid, USD 146  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 227;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 244;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 230;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 227  per maand, voor zover het voldoet aan artikel 9, eerste lid, onderdelen a of b, en USD 169  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 262;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 281;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 265;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 262  per maand, voor zover het voldoet aan artikel 9, eerste lid, onderdelen c of d. Artikel 11, vijfde en zesde lid, is van overeenkomstige toepassing op een wezenpensioen terzake van invaliditeit.   
 4.  Indien op grond van meer dan één overlijden aanspraak op wezenpensioen kan worden gemaakt, wordt het hoogste wezenpensioen toegekend.   
+
+### §  2a  
+
+####Aanpassing en herziening van het weduwen- en wezenpensioen
+
+### Artikel  12a  
+
+1.  Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de artikelen 11, eerste en derde lid, en 12, eerste, tweede en derde lid, genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.   
+2.  Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.   
+3.  De overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde bedragen treden in de plaats van de bedragen, genoemd in de artikelen 11, eerste en derde lid, en 12, eerste, tweede en derde lid.   
+4.  Indien een wijziging als bedoeld in het tweede lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het tweede lid bedoelde ministeriële regeling.   
 
 ### §  3  
 
@@ -227,13 +236,15 @@ Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of
 
 ### Artikel  24a  
 
-1.  Onze Minister is bevoegd om op grond van verdragen, convenanten andersoortige overeenkomsten met uitvoerders van instellingen van sociale voorzieningen, het pensioen van een gerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de gerechtigde op het gebied van sociale voorzieningen.   
+1.  Onze Minister is bevoegd om op grond van verdragen, convenanten en andersoortige overeenkomsten met uitvoerders van instellingen van sociale voorzieningen, het pensioen van een gerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de gerechtigde op het gebied van sociale voorzieningen.   
 2.  Onze Minister is eveneens bevoegd om het pensioen van een gerechtigde te verminderen ter ontneming van een ten onrechte verkregen voordeel van de gerechtigde op het gebied van de door Onze Minister uitgevoerde sociale verzekeringswetten.   
 3.  De in het eerste en tweede lid bedoelde vermindering kan ineens geschieden indien het ten onrechte genoten voordeel niet groter is dan een derde deel van het door Onze Minister verstrekte weduwen- en wezenpensioen. In alle andere gevallen kan de vermindering niet meer bedragen dan een derde deel van het weduwen- of wezenpensioen.   
 
 ### §  4  
 
 ####Waarborg pensioenbetaling
+
+Vervallen per 01-01-2011   
 
 ### Hoofdstuk  IV  
 
@@ -244,17 +255,17 @@ Degene die gehouden is tot vergoeding van de schade door de weduwe, weduwnaar of
 1.  Ter zake van de kosten verbonden aan deze wet is door de verzekerden een premie verschuldigd.   
 2.  Aan de heffing van premie is niet onderworpen: 
 
-a. de verzekerde, die de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) heeft bereikt;  
+a. de verzekerde, die de leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de Wet algemene ouderdomsverzekering BES heeft bereikt;  
 
-b. de gehuwde man wiens echtgenote in verband met het bepaalde in [artikel 41, tweede lid, onderdeel c, van de Wet algemene ouderdomsverzekering BES](../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) recht op ouderdompensioen heeft.     
+b. de gehuwde man wiens echtgenote in verband met het bepaalde in artikel 41, tweede lid, onderdeel c, van de Wet algemene ouderdomsverzekering BES recht op ouderdompensioen heeft.     
 3.  De premie komt ten gunste van het Rijk.   
 4.  De op grond van deze wet uit te keren pensioenen en de aan de uitvoering van deze wet verbonden kosten komen ten laste van het Rijk   
 
 ### Artikel  29  
 
-1.  De premie ten behoeve van deze wet wordt geheven over het inkomen, met overeenkomstige toepassing van de [hoofdstukken V](../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VI](../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VII](../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [IX van de Wet inkomstenbelasting BES](../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), de [hoofdstukken III](../../../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [VI van de Wet loonbelasting BES](../../../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en de [hoofdstukken I](../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [VII](../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
-2.  Onder inkomen wordt verstaan: de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
-3.  Indien het inkomen meer bedraagt dan het in [artikel 24A, zevende lid, van de Wet inkomstenbelasting BES](../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) genoemde bedrag, wordt over dat meerdere geen premie geheven.   
+1.  De premie ten behoeve van deze wet wordt geheven over het inkomen, met overeenkomstige toepassing van de hoofdstukken V, VI, VII en IX van de Wet inkomstenbelasting BES, de hoofdstukken III en VI van de Wet loonbelasting BES en de hoofdstukken I, VII en VIII van de Belastingwet BES.   
+2.  Onder inkomen wordt verstaan: de belastbare som, bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES.   
+3.  Indien het inkomen meer bedraagt dan het in artikel 24A, zevende lid, van de Wet inkomstenbelasting BES genoemde bedrag, wordt over dat meerdere geen premie geheven.   
 
 ### Artikel  30  
 
@@ -262,7 +273,7 @@ Het percentage van de premie, bedoeld in artikel 29, eerste lid, wordt door Onze
 
 ### Artikel  31  
 
-Voor zover in deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 29 en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing.  
+Voor zover in deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 29 en de invordering daarvan hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing.  
 
 ### Hoofdstuk  V  
 
@@ -342,8 +353,7 @@ c. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestem
 
 ### Artikel  43  
 
-1.  Hij, die niet voldoet aan een van de verplichtingen opgelegd in de artikelen 35 en 36 wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie.   
-2.  De werkgever, die niet voldoet aan de verplichting, opgelegd in artikel 52, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de tweede categorie. Deze straf kan worden opgelegd voor elk geval waarin een werkgever voor een zijner werknemers de in dit lid bedoelde verplichting niet nakomt.   
+Hij, die niet voldoet aan een van de verplichtingen opgelegd in de artikelen 35 en 36 wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie.  
 
 ### Artikel  44  
 
@@ -363,7 +373,7 @@ Overtredingen van bepalingen van een op grond van deze wet vastgestelde algemene
 
 ### Artikel  48  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de op grond van het eerste lid aangewezen functionarissen dienen te voldoen.   
 
 ### Artikel  49  

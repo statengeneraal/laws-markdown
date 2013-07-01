@@ -73,7 +73,7 @@ a. een bedrag voor de kosten verbonden aan het vervoer van de betrokkene en zijn
 b. een bedrag voor de kosten van vervoer van de bagage en van de inboedel van de betrokkene naar de nieuwe woning, waaronder begrepen de kosten van het in- en uitpakken en de verschuldigde invoerrechten;  
 
 c. een bedrag van tien procent van de jaarlijkse bezoldiging voor alle andere direct uit de verhuizing voortvloeiende kosten.     
-2.  Voor de toepassing van dit artikel wordt onder gezinsleden verstaan de echtgenoot of geregistreerde partner of degene met wie betrokkene ongehuwd samenleeft en een gezamenlijke huishouding voert als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en de kinderen, stief- en pleegkinderen van hemzelf en/of van zijn echtgenoot of geregistreerde partner of degene met wie betrokkene ongehuwd samenleeft en een gezamenlijke huishouding voert, voor zover zij met hem samenwonen.   
+2.  Voor de toepassing van dit artikel wordt onder gezinsleden verstaan de echtgenoot of geregistreerde partner of degene met wie betrokkene ongehuwd samenleeft en een gezamenlijke huishouding voert als bedoeld in artikel 3, derde en vierde lid, van de Algemene nabestaandenwet en de kinderen, stief- en pleegkinderen van hemzelf en/of van zijn echtgenoot of geregistreerde partner of degene met wie betrokkene ongehuwd samenleeft en een gezamenlijke huishouding voert, voor zover zij met hem samenwonen.   
 3.  Indien de Rijksvertegenwoordiger na benoeming de ambtswoning nog niet kan betrekken heeft hij aanspraak op een vergoeding voor tijdelijke huisvesting. Ook heeft hij dan aanspraak op een verhuiskostenvergoeding als bedoeld in het eerste lid.   
 4.  De Rijksvertegenwoordiger heeft ten laste van het Rijk, wegens niet herbenoeming of eervol ontslag, aanspraak op een verhuiskostenvergoeding als bedoeld in het eerste lid, met dien verstande dat het bedrag onder c, zes procent van de jaarlijkse bezoldiging bedraagt.   
 5.  Bij ministeriële regeling worden regels gesteld over de hoogte van de bedragen, bedoeld in het eerste lid, onder a en b, en de vergoeding voor tijdelijke huisvesting, bedoeld in het derde lid, en de voorwaarden voor de aanspraak op deze bedragen en de vergoeding.   
@@ -88,19 +88,20 @@ c. een bedrag van tien procent van de jaarlijkse bezoldiging voor alle andere di
 
 ### Artikel  8  
 
-####Ambtswoning
-
-1.  Er wordt ten laste van het Rijk een ambtwoning ter beschikking gesteld aan de Rijksvertegenwoordiger.   
-2.  Voor het bewonen van de ambtswoning wordt op de bezoldiging een korting toegepast van 12%.   
-3.  Indien de Rijksvertegenwoordiger de ambtswoning bewoont, draagt hij de onderhoudskosten van de ambtswoning die volgens de wet en het plaatselijk gebruik voor rekening van de huurder zijn.   
+1.  Voor het bewonen van een ambtswoning wordt op de bezoldiging een korting toegepast van 18%.   
+2.  Indien Onze Minister de economische huurwaarde van de ambtswoning lager vaststelt dan 18% van de bezoldiging, stelt hij de korting, in afwijking van het eerste lid, vast op dat lagere percentage.   
+3.  Indien de Rijksvertegenwoordiger een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens de wet en het plaatselijk gebruik ten laste van de huurder zijn.   
+4.  Indien de Rijksvertegenwoordiger voor het gebruik van een ambtswoning loon- en inkomstenbelasting is verschuldigd, vergoedt het Rijk deze belasting aan de Rijksvertegenwoordiger.   
 
 ### Artikel  8a  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen: 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen: 
 
 a. de vergoeding voor aan het ambt verbonden kosten, bedoeld in artikel 2, tweede lid;  
 
-b. de vergoedingen, bedoeld in artikel 7, eerste en tweede lid, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdeelen a en b, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).    
+b. de vergoedingen, bedoeld in artikel 7, eerste en tweede lid, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in artikel 31a, tweede lid, onderdeelen a en b, van de Wet op de loonbelasting 1964;  
+
+c. de vergoeding, bedoeld in artikel 8, vierde lid.    
 
 ### Artikel  9  
 
@@ -114,12 +115,17 @@ Indien de Rijksvertegenwoordiger langer dan acht dagen wegens ziekte of om ander
 
 In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in artikel 2, eerste lid.  
 
+### Artikel  10a  
+
+1.  Onze Minister kent de Rijksvertegenwoordiger die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van het Rijk op aanvraag een tegemoetkoming toe voor een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+2.  Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.   
+
 ### Artikel  11  
 
 ####Buitengewoon verlof
 
-1.  De vrouwelijke Rijksvertegenwoordiger heeft in verband met haar zwangerschap en bevalling aanspraak op zwangerschaps- en bevallingsverlof. [Artikel 3:1 van de Wet arbeid en zorg](../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) is voor haar van toepassing.   
-2.  De Rijksvertegenwoordiger die na 31 december 1988 als ouder in een familierechtelijke betrekking is komen te staan tot een kind, heeft aanspraak op ouderschapsverlof. [Artikel 33g van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is van overeenkomstige toepassing.   
+1.  De vrouwelijke Rijksvertegenwoordiger heeft in verband met haar zwangerschap en bevalling aanspraak op zwangerschaps- en bevallingsverlof. Artikel 3:1 van de Wet arbeid en zorg is voor haar van toepassing.   
+2.  De Rijksvertegenwoordiger die na 31 december 1988 als ouder in een familierechtelijke betrekking is komen te staan tot een kind, heeft aanspraak op ouderschapsverlof. Artikel 33g van het Algemeen Rijksambtenarenreglement is van overeenkomstige toepassing.   
 
 ### Artikel  12  
 
@@ -153,32 +159,24 @@ c. andere gronden.
 
 ####Uitkering bij overlijden
 
-1.  Zo spoedig mogelijk na het overlijden van de Rijksvertegenwoordiger wordt aan de weduwe of weduwnaar van wie de Rijksvertegenwoordiger niet duurzaam gescheiden leefde een bedrag uitgekeerd gelijk aan de bezoldiging, vermeerderd met de vakantie-uitkering, over drie maanden, berekend naar het tijdstip van overlijden. [Artikel 102, tweede lid van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is van overeenkomstige toepassing.   
-2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden Rijksvertegenwoordiger ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
+1.  Zo spoedig mogelijk na het overlijden van de Rijksvertegenwoordiger wordt aan de weduwe of weduwnaar van wie de Rijksvertegenwoordiger niet duurzaam gescheiden leefde een bedrag uitgekeerd gelijk aan de bezoldiging, vermeerderd met de vakantie-uitkering, over drie maanden, berekend naar het tijdstip van overlijden. Artikel 102, tweede lid van het Algemeen Rijksambtenarenreglement is van overeenkomstige toepassing.   
+2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden Rijksvertegenwoordiger ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in artikel 3, derde en vierde lid, van de Algemene nabestaandenwet.   
 
 ### Artikel  16  
 
-[Het Voorzieningenstelsel Uitzendingen Binnenlandse Zaken en Koninkrijksrelaties](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md) is van overeenkomstige toepassing op de Rijksvertegenwoordiger die niet op het openbare lichaam waar de Rijksvertegenwoordiger is gezeteld woonachtig is, met uitzondering van de [artikelen 2.1](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [2.2](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [3.1, vierde en vijfde lid](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [4.1](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [4.2](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [4.7](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [5.1](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [7.1](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md), [7.3](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md) en [7.4](../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md).  
+Het Voorzieningenstelsel Uitzendingen Binnenlandse Zaken en Koninkrijksrelaties is van overeenkomstige toepassing op de Rijksvertegenwoordiger die niet op het openbare lichaam waar de Rijksvertegenwoordiger is gezeteld woonachtig is, met uitzondering van de artikelen 2.1, 2.2, 3.1, vierde en vijfde lid, 4.1, 4.2, 4.7, 5.1, 7.1, 7.3 en 7.4.  
 
 ### Artikel  16a  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
 a. wordt in artikel 2, tweede lid, voor «2,88%» gelezen: 6%;  
 
 b. blijft artikel 8a buiten toepassing.    
 
-### Artikel  17  
-
-####Overgangs- en slotbepalingen
-
-1.  Dit artikel is van toepassing indien als eerste Rijksvertegenwoordiger wordt benoemd de met ingang van 1 januari 2009 benoemde commissaris voor Bonaire, Sint Eustatius en Saba.   
-2.  Voor zover de aanspraken van de commissaris voor Bonaire, Sint Eustatius en Saba op grond van de beschikking van 30 december 2008 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties de aanspraken op grond van dit besluit te boven gaan, blijven de aanspraken op grond van bedoelde beschikking uiterlijk tot en met 31 december 2011 op de Rijksvertegenwoordiger van toepassing.   
-3.  Dit artikel vervalt met ingang van 1 januari 2012.   
-
 ### Artikel  18  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de Wet openbare lichamen Bonaire, Sint Eustatius en Saba in werking treedt.  
 
 ### Artikel  19  
 

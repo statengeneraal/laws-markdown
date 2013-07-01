@@ -1,0 +1,80 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 21 juni 2013, 124014-105221B-WJZ houdende regels ten aanzien van de pleegvergoeding (Regeling pleegvergoeding)
+
+De Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie;  
+Gelet op [artikel 28c, eerste en tweede lid, van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Besluiten:    
+
+### Artikel  1  
+
+In deze regeling wordt verstaan onder: 
+
+*pleegkind:* jeugdige die aanspraak heeft op pleegzorg op grond van de wet, welke aanspraak bij een pleegzorgaanbieder tot gelding wordt gebracht;  
+
+*pleegzorgaanbieder:* zorgaanbieder die pleegzorg biedt;  
+
+*wet:*[Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).    
+
+### Artikel  2  
+
+Het in [artikel 28c, eerste lid, van de wet](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bedoelde basisbedrag van de subsidie voor de verzorging en opvoeding van een pleegkind is het bedrag dat is opgenomen in de bijlage bij deze regeling.  
+
+### Artikel  3  
+
+Het basisbedrag, bedoeld in artikel 2, wordt steeds vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste het in de bijlage bij deze regeling opgenomen bedrag voor door de pleegouder ten behoeve van het pleegkind noodzakelijk gemaakte kosten, waarvan de pleegouder aantoont dat deze niet kunnen worden voldaan uit het basisbedrag en waarvoor geen uitkering op grond van een andere regeling kan worden verstrekt, indien: 
+
+a. het pleegkind aanspraak heeft op verblijf bij een pleegouder op grond van [artikel 14 van het Uitvoeringsbesluit Wet op de jeugdzorg](../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md) en de pleegouder in verband hiermee extra kosten moet maken;  
+
+b. de pleegouder aan drie of meer pleegkinderen verzorging en opvoeding biedt, vanaf het derde en volgende pleegkind;  
+
+c. de pleegouder verzorging en opvoeding aan een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking biedt die noodzaakt tot het maken van extra kosten.    
+
+### Artikel  4  
+
+Het basisbedrag, bedoeld in artikel 2, en de toeslagen, bedoeld in artikel 3, worden jaarlijks met ingang van 1 januari geïndexeerd overeenkomstig de in de bijlage bij deze regeling opgenomen wijze.  
+
+### Artikel  5  
+
+1.  Het basisbedrag, bedoeld in artikel 2, kan worden verminderd, indien een pleegkind als gevolg van bijzondere omstandigheden tijdelijk niet bij de pleegouder verblijft. Alsdan worden de door de pleegouder werkelijk gemaakte noodzakelijke kosten vergoed tot ten hoogste het basisbedrag.   
+2.  Een toeslag die noodzakelijk is voor het dekken van de in artikel 3 bedoelde kosten, wordt verstrekt gedurende een door de pleegzorgaanbieder te bepalen periode.   
+
+### Artikel  6  
+
+Deze regeling treedt in werking met ingang van 1 juli 2013.  
+
+### Artikel  7  
+
+Deze regeling wordt aangehaald als: Regeling pleegvergoeding.  
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
+
+De 
+Staatssecretaris van Volksgezondheid, Welzijn en Sport,
+M.J. vanRijn 
+
+De 
+Staatssecretaris van Veiligheid en Justitie,
+F.Teeven  
+
+### Bijlage  
+
+####, behorend bij de Regeling pleegvergoeding
+
+####Basisbedragen en maximale toeslag van de pleegvergoeding per pleegkind 2013
+
+Basisbedrag als bedoeld in artikel 2 per leeftijdscategorie 
+
+| Leeftijdscategorie  | Bedrag per maand/per dag  |
+|:---|:---|
+| 0 t/m 8 jaar  | € 516/16,90  |
+| 9 t/m 11 jaar  | € 22/17,10  |
+| 12 t/m 15 jaar  | € 68/18,62  |
+| 16 t/m 17 jaar  | € 628/20,58  |
+| 18 jaar en ouder  | € 634/20,79  |
+
+*Het in*artikel 3*, bedoelde bedrag van de maximale toeslag bedraagt* € 3,38 per dag.  
+
+####Indexering, bedoeld in artikel 4 
+
+Bij de aanvang van ieder jaar worden het basisbedrag en de toeslagen geïndexeerd met het procentuele verschil tussen de door het Centraal bureau voor de statistiek bekendgemaakte consumentenprijsindex ‘Alle huishoudens’, over de julimaanden van de twee direct aan het betreffende jaar voorafgaande jaren.  
+

@@ -568,9 +568,9 @@ b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overleden
 ### Artikel  25a  
 
 1.  Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd na 31 december 1985.   
-2.  De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft recht op een toeslag op zijn volgens artikel 25 berekende pensioen, tenzij zijn ouder recht heeft op halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar: 
+2.  De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft recht op een toeslag op zijn volgens artikel 25 berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar: 
 
-a. voor de wees, bedoeld in artikel 25, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide som van de nabestaandenuitkering en de halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
+a. voor de wees, bedoeld in artikel 25, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
 
 b. voor de wees bedoeld in artikel 25, eerste lid, onder b, 0,75 percent van het onder *a* bedoelde jaarbedrag.     
 3.  Indien aanspraak ontstaat op de toeslag, bedoeld in het tweede lid, geeft de wees hiervan onverwijld kennis aan Onze Minister. De toeslag gaat niet eerder in dan een jaar voor de eerste dag van de maand waarin de kennisgeving werd gedaan of waarin die toeslag ambtshalve is toegekend.   
@@ -1253,9 +1253,9 @@ b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overleden
 ### Artikel  70a  
 
 1.  Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd na 31 december 1985.   
-2.  De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft recht op een toeslag op zijn volgens artikel 70 berekende pensioen, tenzij zijn ouder recht heeft op halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar: 
+2.  De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft recht op een toeslag op zijn volgens artikel 70 berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar: 
 
-a. voor de wees, bedoeld in artikel 70, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide som van de nabestaandenuitkering en de halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
+a. voor de wees, bedoeld in artikel 70, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
 
 b. voor de wees bedoeld in artikel 70, eerste lid, onder b, 0,75 percent van het onder a bedoelde jaarbedrag.     
 3.  Indien aanspraak ontstaat op de toeslag, bedoeld in het tweede lid, geeft de wees hiervan onverwijld kennis aan Onze Minister. De toeslag gaat niet eerder in dan een jaar voor de eerste dag van de maand waarin de kennisgeving werd gedaan of waarin die toeslag ambtshalve is toegekend.   
@@ -1460,9 +1460,9 @@ a. een pensioen: een pensioen of een gedeelte van een pensioen voor zover bereke
 
 b. een algemeen pensioen: 
 
-1e. een bruto-ouderdomspensioen als bedoeld in de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), met inbegrip van de daarbij behorende vakantie-uitkering voor zover deze niet behoort tot de overlijdensuitkering krachtens [die wet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+1e. een bruto-ouderdomspensioen als bedoeld in de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), met inbegrip van de daarbij behorende vakantie-uitkering voor zover deze niet behoort tot de overlijdensuitkering krachtens die wet;  
 
-2e. een nabestaandenuitkering, een halfwezenuitkering en een wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+2e. een nabestaandenuitkering, en een wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
 
 3e. een pensioen of uitkering toegekend krachtens een wettelijke regeling van Aruba, van Curaçao, van Sint Maarten, van een vreemde mogendheid of krachtens een wettelijke regeling die uitsluitend in de openbare lichamen Bonaire, Sint Eustatius en Saba van toepassing is en naar aard en strekking overeenkomend met een algemeen pensioen als omschreven onder 1e of 2e;    
 
@@ -1508,7 +1508,7 @@ a. Het algemeen pensioen wordt geacht betrekking te hebben op het tijdvak liggen
 
 b. Het recht op een algemeen pensioen, dat bestond op de dag waarop de rechthebbende is overleden of sedert welke hij is vermist, wordt geacht voort te duren tot het tijdstip waarop diens pensioen krachtens het bepaalde in artikel 115, eerste lid, is geëindigd.  
 
-c. Indien een nabestaande recht heeft op nabestaandenuitkering alsmede halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), maar geen van de kinderen aan welke de nabestaande het recht op halfwezenuitkering ontleent recht heeft op pensioen, wordt uitsluitend uitgegaan van het bedrag van de nabestaandenuitkering.  
+c. Indien een nabestaande recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), maar geen van de kinderen aan welke de nabestaande het recht op die nabestaandenuitkering ontleent recht heeft op pensioen, wordt uitsluitend uitgegaan van het bedrag van de nabestaandenuitkering, bedoeld in [artikel 17, eerste lid, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
 
 d.  Vervallen.   
 
@@ -1520,7 +1520,7 @@ g. Een pensioen dat niet is berekend naar diensttijd wordt geacht te zijn bereke
 
 h. Diensttijd, waarnaar een pensioen is of geacht wordt te zijn berekend en die niet daadwerkelijk als politiek ambtsdrager is doorgebracht, wordt geacht aan te sluiten bij het einde van de ambtsvervulling waaraan het recht op pensioen is ontleend; voor zover dientengevolge deze diensttijd zich uitstrekt na het tijdstip waarop de leeftijd van 65 jaar is of zou zijn bereikt wordt die diensttijd, te rekenen van dat tijdstip, geacht te zijn doorgebracht, voor zover mogelijk gedurende tijdvakken van onderbreking van de daadwerkelijk als politiek ambtsdrager doorgebrachte tijd en voor het overige onmiddellijk voor de aanvang van de diensttijd waarnaar het pensioen is berekend.  
 
-i. Van de diensttijd wordt buiten beschouwing gelaten de tijd, waarop betrekking heeft of geacht kan worden betrekking te hebben het bedrag van het algemeen pensioen, waarop aanspraak is verkregen door vrijwillige premiebetaling krachtens [artikel 45 van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en [artikel 63 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
+i. Van de diensttijd wordt buiten beschouwing gelaten de tijd, waarop betrekking heeft of geacht kan worden betrekking te hebben het bedrag van het algemeen pensioen, waarop aanspraak is verkregen door vrijwillige premiebetaling krachtens [artikel 45 van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en [hoofdstuk 5 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
 
 j. De vakantie-uitkeringen, bedoeld in de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), worden geacht op overeenkomstige wijze als het algemeen pensioen in termijnen te worden uitbetaald.     
 
@@ -2311,9 +2311,9 @@ b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overleden
 ### Artikel  148a  
 
 1.  Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd na 31 december 1985.   
-2.  De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft recht op een toeslag op zijn volgens artikel 148 berekende pensioen, tenzij zijn ouder recht heeft op halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar: 
+2.  De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft recht op een toeslag op zijn volgens artikel 148 berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar: 
 
-a. voor de wees, bedoeld in artikel 148, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide som van de nabestaandenuitkering en de halfwezenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
+a. voor de wees, bedoeld in artikel 148, eerste lid, onder a, 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;  
 
 b. voor de wees bedoeld in artikel 148, eerste lid, onder b, 0,75 percent van het onder *a* bedoelde jaarbedrag.     
 3.  Indien aanspraak ontstaat op de toeslag, bedoeld in het tweede lid, geeft de wees hiervan onverwijld kennis aan de provincie. De toeslag gaat niet eerder in dan een jaar voor de eerste dag van de maand waarin de kennisgeving werd gedaan of waarin die toeslag ambtshalve is toegekend.   
@@ -2475,6 +2475,18 @@ In afwijking van artikel 130 is deze afdeling niet van toepassing op gewezen com
 1.  De artikelen 132, derde lid, en 132a tot en met 132c zijn niet van toepassing ter zake van een ontslag of aftreden dat is ingegaan vóór de datum van inwerkingtreding van die bepalingen. In artikel 132, eerste lid, wordt in dat geval voor «vier jaren» gelezen «zes jaren» en in artikel 132, tweede lid, wordt in dat geval voor «55 jaar» gelezen: 50 jaar.   
 2.  Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van artikel 132, derde lid, is benoemd als lid van gedeputeerde staten, wethouder, lid van het dagelijks bestuur van een deelgemeente of lid van het dagelijks bestuur van een waterschap en op het tijdstip voorafgaand aan de inwerkingtreding van artikel 132, derde lid, niet overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) was, en na de eerstvolgende verkiezing voor de leden van provinciale staten, de gemeenteraad onderscheidenlijk het algemeen bestuur van het waterschap niet wordt herbenoemd, dan wel bij herbenoeming in hetzelfde ambt onmiddellijk na de eerstvolgende verkiezing de leeftijd van 50 jaar heeft bereikt, wordt in artikel 132, eerste lid, voor «vier jaren» gelezen «zes jaren» en in artikel 132, tweede lid, voor «55 jaar» gelezen: 50 jaar.   
 3.  Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van de artikelen 132a tot en met 132c is benoemd als lid van gedeputeerde staten, wethouder, lid van het dagelijks bestuur van een deelgemeente of lid van het dagelijks bestuur van een waterschap dat op het tijdstip voorafgaand aan de inwerkingtreding van de artikelen 132a tot en met 132c niet overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) was, en na de eerstvolgende verkiezing voor de leden van provinciale staten, de gemeenteraad onderscheidenlijk het algemeen bestuur van het waterschap niet wordt herbenoemd, zijn de artikelen 132a tot en met 132c niet van toepassing.   
+
+### Artikel  163c*  
+
+1.  Deze afdeling is van overeenkomstige toepassing op leden van het dagelijks bestuur van een deelgemeente in de zin van [hoofdstuk V, paragraaf 2, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), zoals deze paragraaf luidde op de dag voorafgaand aan de datum van de verkiezing van de gemeenteraden in 2014, met dien verstande dat gelezen wordt voor: 
+
+a. lid van gedeputeerde staten: lid van het dagelijks bestuur van een deelgemeente;  
+
+b. provincie: gemeente;  
+
+c. provinciale staten: de raad;  
+
+d. gedeputeerde staten: college van burgemeester en wethouders.     
 
 ### Artikel  163c  
 

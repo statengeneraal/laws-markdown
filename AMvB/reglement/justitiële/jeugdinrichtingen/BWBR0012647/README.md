@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 26 februari 2001, 5082413/01/6, gedaan in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport, Onze Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst;
 
-Gelet op de [artikelen 3, tweede lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [7, vijfde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [8, derde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [20, tweede lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [21, tweede lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [30, vijfde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [31, vijfde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [37, tweede lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [46, vierde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), 47, vijfde lid, [52, vijfde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [63, tweede lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [66, vierde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [70, tweede lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), en [72, vierde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), de [artikelen 66, tweede lid](../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md), [67, eerste lid](../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md) en [68 van de Wet op de jeugdhulpverlening](../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md), [artikel 77ff, tweede lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 15 van de Gratiewet](../../../../../wet/gratiewet/BWBR0004257/README.md), [artikel 19b, vierde lid, van de Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md), de [artikelen 19a, vijfde lid](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), en [47b, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [artikelen 7b, vijfde lid](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), en [21b, vierde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [artikelen 6b, vijfde lid](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), en [20a, vierde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [artikel 19, achtste lid, van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [artikel 32c, derde lid, van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), [artikel 9, vierde lid, van de Algemene bijstandswet](../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md), [artikel 6, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 6, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), en [artikel 5, derde lid, van de Wet inkomensvoorziening kunstenaars](../../../../../wet/wet/inkomensvoorziening/kunstenaars/BWBR0009344/README.md) en [artikel 16, zesde lid, van de Arbeidsomstandighedenwet 1998](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);
+Gelet op de artikelen 3, tweede lid, 7, vijfde lid, 8, derde lid, 20, tweede lid, 21, tweede lid, 30, vijfde lid, 31, vijfde lid, 37, tweede lid, 46, vierde lid, 47, vijfde lid, 52, vijfde lid, 63, tweede lid, 66, vierde lid, 70, tweede lid, en 72, vierde lid, van de Beginselenwet justitiële jeugdinrichtingen, de artikelen 66, tweede lid, 67, eerste lid en 68 van de Wet op de jeugdhulpverlening, artikel 77ff, tweede lid, van het Wetboek van Strafrecht, artikel 15 van de Gratiewet, artikel 19b, vierde lid, van de Ziektewet, de artikelen 19a, vijfde lid, en 47b, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, de artikelen 7b, vijfde lid, en 21b, vierde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de artikelen 6b, vijfde lid, en 20a, vierde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, artikel 19, achtste lid, van de Werkloosheidswet, artikel 32c, derde lid, van de Algemene nabestaandenwet, artikel 9, vierde lid, van de Algemene bijstandswet, artikel 6, vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, artikel 6, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, en artikel 5, derde lid, van de Wet inkomensvoorziening kunstenaars en artikel 16, zesde lid, van de Arbeidsomstandighedenwet 1998;
 
 De Raad van State gehoord (advies van 7 mei 2001, No. W03.01.0116/I);
 
@@ -20,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. de wet: de [Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+a. de wet: de Beginselenwet justitiële jeugdinrichtingen;  
 
 b. executie-indicator: de aantekening van het openbaar ministerie bij het aanbieden van een vonnis ter executie aan Onze Minister waarin wordt aangegeven dat het openbaar ministerie wil adviseren over te nemen beslissingen inzake de verschillende vormen van te verlenen vrijheden en deelname aan een scholings- en trainingsprogramma aan de betrokken jeugdige;  
 
-c. jeugdreclassering: een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder c en d, van die wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+c. jeugdreclassering: een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, bij de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onder c en d, van die wet.  
 
-d. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
+d. reclassering: een reclasseringsinstelling als bedoeld in artikel 1, onder b, van de Reclasseringsregeling 1995;  
 
-e. raad voor de kinderbescherming: de raad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+e. raad voor de kinderbescherming: de raad, bedoeld in artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-f. stichting: een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).    
+f. stichting: een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.    
 
 ### Hoofdstuk  2  
 
@@ -67,7 +67,7 @@ c. voorlopig gehechte jeugdigen;
 
 d. jeugdigen ten aanzien van wie vaststaat dat zij, na de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel, Nederland dienen te verlaten dan wel zullen worden uitgezet of uitgeleverd;  
 
-e. de jeugdigen, bedoeld in [artikel 8, eerste lid, onderdeel c, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).    
+e. de jeugdigen, bedoeld in artikel 8, eerste lid, onderdeel c, van de wet.    
 
 ### Artikel  4  
 
@@ -92,11 +92,11 @@ c. een jaar voor het voorwaardelijk einde van de maatregel die maximaal zeven ja
 
 ### Artikel  6  
 
-Jeugdigen die op grond van [artikel 29k van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in een inrichting verblijven komen niet in aanmerking voor deelname aan een scholings- en trainingsprogramma, tenzij de deelname aan dit programma reeds een aanvang had genomen voor het tijdstip waarop de in artikel 29k, tweede lid, van de Wet op de jeugdzorg bedoelde machtiging werd verleend.  
+Jeugdigen die op grond van artikel 29k van de Wet op de jeugdzorg in een inrichting verblijven komen niet in aanmerking voor deelname aan een scholings- en trainingsprogramma, tenzij de deelname aan dit programma reeds een aanvang had genomen voor het tijdstip waarop de in artikel 29k, tweede lid, van de Wet op de jeugdzorg bedoelde machtiging werd verleend.  
 
 ### Artikel  8  
 
-1.  De directeur vraagt een machtiging tot deelname aan een scholings- en trainingsprogramma als bedoeld in [artikel 3 van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) schriftelijk aan bij Onze Minister. De directeur doet in zijn aanvraag verslag van de aspecten, bedoeld in artikel 9, eerste en tweede lid, en vermeldt de voorwaarden bedoeld in artikel 12, eerste lid. De aanvraag vermeldt voorts de duur van de deelname aan het scholings- en trainingsprogramma.   
+1.  De directeur vraagt een machtiging tot deelname aan een scholings- en trainingsprogramma als bedoeld in artikel 3 van de wet schriftelijk aan bij Onze Minister. De directeur doet in zijn aanvraag verslag van de aspecten, bedoeld in artikel 9, eerste en tweede lid, en vermeldt de voorwaarden bedoeld in artikel 12, eerste lid. De aanvraag vermeldt voorts de duur van de deelname aan het scholings- en trainingsprogramma.   
 2.  De directeur voegt bij de aanvraag het advies van het openbaar ministerie, indien de aanvraag betrekking heeft op een jeugdige ten aanzien van wie het openbaar ministerie een executie-indicator heeft gegeven. De aanvraag wordt opgesteld in samenwerking met de jeugdreclassering, dan wel de reclassering in het arrondissement waarin aan het scholings- en trainingsprogramma wordt deelgenomen. De raad voor de kinderbescherming wordt door de directeur in de gelegenheid gesteld advies uit te brengen.   
 3.  De directeur overlegt met de jeugdige alvorens hij zijn aanvraag opstelt.   
 4.  Bij het opstellen van de aanvraag betrekt de directeur zo veel mogelijk de ouders of voogd, stiefouder of pleegouders, tenzij: 
@@ -184,7 +184,7 @@ d. indien feiten of omstandigheden bekend worden waardoor, indien deze ten tijde
 ### Artikel  13  
 
 1.  De deelnemer aan een scholings- en trainingsprogramma kan bij de beklagcommissie bij de inrichting waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in artikel 12, derde lid.   
-2.  De [artikelen 65, tweede en derde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [66](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [67](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [68](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [69](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [70](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [72, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [73](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [74](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [75](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [76 van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) zijn van overeenkomstige toepassing.   
+2.  De artikelen 65, tweede en derde lid, 66, 67, 68, 69, 70, 72, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid, 73, 74, 75 en 76 van de wet zijn van overeenkomstige toepassing.   
 
 ### Hoofdstuk  3  
 
@@ -203,6 +203,7 @@ b. een advocaat;
 c. een deskundige op het gebied van de gedragswetenschappen;  
 
 d. een deskundige op het gebied van de pedagogische hulpverlening.     
+4.  Indien de commissie toezicht houdt op een afdeling waar geneeskundige behandeling als bedoeld in de artikelen 51a tot en met 51e van de wet wordt verricht, maakt ook een psychiater van de commissie deel uit.   
 
 ### Artikel  15  
 
@@ -223,7 +224,7 @@ c. personen, werkzaam bij een door Onze Minister gesubsidieerde instelling die w
 
 d. personen, werkzaam onder de verantwoordelijkheid van Onze Minister, indien hun onafhankelijkheid of onpartijdigheid hetzij door hun positie, hetzij door de aard van hun werkzaamheden in het geding zou kunnen komen;  
 
-e. personen tegen wie bezwaren bestaan tegen de vervulling van de functie die blijken uit de algemene documentatieregisters als bedoeld in het [Besluit inlichtingen justitiële documentatie](../../../../../AMvB/besluit/inlichtingen/justitiële/documentatie/BWBR0002292/README.md) of de politiegegevens, bedoeld in [artikel 1, onderdeel a, van de Wet politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md). De bezwaren hebben betrekking op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegdheden;  
+e. personen tegen wie bezwaren bestaan tegen de vervulling van de functie die blijken uit de algemene documentatieregisters als bedoeld in het Besluit inlichtingen justitiële documentatie of de politiegegevens, bedoeld in artikel 1, onderdeel a, van de Wet politiegegevens. De bezwaren hebben betrekking op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegdheden;  
 
 f. personen werkzaam bij de Raad of de Inspectie jeugdzorg.    
 
@@ -257,18 +258,18 @@ d. wanneer hij naar het oordeel van Onze Minister door handelen of nalaten ernst
 
 ### Artikel  20  
 
-1.  De maandcommissaris, bedoeld in [artikel 7, vierde lid, tweede volzin, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), houdt ten minste tweemaal per maand in de inrichting of afdeling spreekuur. Dit spreekuur wordt tijdig bekendgemaakt en kan worden bezocht door elke jeugdige of deelnemer aan een scholings- en trainingsprogramma die de wens daartoe te kennen geeft.   
+1.  De maandcommissaris, bedoeld in artikel 7, vierde lid, tweede volzin, van de wet, houdt ten minste tweemaal per maand in de inrichting of afdeling spreekuur. Dit spreekuur wordt tijdig bekendgemaakt en kan worden bezocht door elke jeugdige of deelnemer aan een scholings- en trainingsprogramma die de wens daartoe te kennen geeft.   
 2.  De maandcommissaris doet van zijn werkzaamheden verslag aan de commissie van toezicht en informeert tevens de directeur hierover.   
 
 ### Artikel  21  
 
-1.  De beklagcommissie of, indien [artikel 67, tweede lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) wordt toegepast, de voorzitter dan wel de door hem aangewezen persoon, houdt zitting zo dikwijls als een onverwijlde behandeling en afdoening van de klaagschriften dit noodzakelijk maken. Deze wordt bijgestaan door een secretaris.   
+1.  De beklagcommissie of, indien artikel 67, tweede lid, van de wet wordt toegepast, de voorzitter dan wel de door hem aangewezen persoon, houdt zitting zo dikwijls als een onverwijlde behandeling en afdoening van de klaagschriften dit noodzakelijk maken. Deze wordt bijgestaan door een secretaris.   
 2.  Indien de beklagcommissie zitting houdt treedt bij voorkeur als voorzitter op een met rechtspraak belast lid van de rechterlijke macht.   
 
 ### Artikel  22  
 
 1.  De commissie van toezicht brengt jaarlijks vóór 1 mei aan Onze Minister en aan de Raad en, voor zover het een particuliere inrichting betreft, tevens aan het bestuur, verslag uit over haar werkzaamheden in het voorgaande jaar. Een afschrift van het jaarverslag wordt aan de Inspectie Jeugdzorg gezonden.   
-2.  Zij schenkt in haar verslag in het bijzonder aandacht zowel aan de door haar ingevolge [artikel 64 van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) verrichte bemiddelingen en de uitkomsten daarvan als aan de werkzaamheden van de beklagcommissie, onder meer door een overzicht van de klaagschriften en de daarop genomen beslissingen. Onze Minister kan een model vaststellen omtrent de inrichting van het verslag.   
+2.  Zij schenkt in haar verslag in het bijzonder aandacht zowel aan de door haar ingevolge artikel 64 van de wet verrichte bemiddelingen en de uitkomsten daarvan als aan de werkzaamheden van de beklagcommissie, onder meer door een overzicht van de klaagschriften en de daarop genomen beslissingen. Onze Minister kan een model vaststellen omtrent de inrichting van het verslag.   
 
 ### Artikel  23  
 
@@ -293,7 +294,7 @@ De inrichtingen dragen zorg voor een veilige omgeving voor en een menswaardige b
 1.  Het perspectiefplan wordt opgesteld onder de verantwoordelijkheid van de directeur.   
 2.  Bij het opstellen en het wijzigen van het perspectiefplan zijn in ieder geval betrokken de groepsleider of mentor van de jeugdige, een leerkracht en een gedragsdeskundige.   
 3.  Bij het opstellen en wijzigen van het perspectiefplan voor jeugdigen die op strafrechtelijke titel in de inrichting verblijven, betrekt de inrichting tevens de jeugdreclassering dan wel de reclassering en de raad voor de kinderbescherming.   
-4.  Bij het opstellen en wijzigen van het perspectiefplan voor jeugdigen die op grond van [artikel 29k, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) in een inrichting zijn geplaatst, pleegt de inrichting overleg met de betrokken stichting.   
+4.  Bij het opstellen en wijzigen van het perspectiefplan voor jeugdigen die op grond van artikel 29k, tweede lid, van de Wet op de jeugdzorg in een inrichting zijn geplaatst, pleegt de inrichting overleg met de betrokken stichting.   
 5.  Bij het opstellen en wijzigen van het perspectiefplan betrekt de inrichting zo veel mogelijk de ouders of voogd, stiefouder of pleegouders, tenzij: 
 
 a. deze te kennen geven hierbij geen rol te willen vervullen, of;  
@@ -330,12 +331,12 @@ k. het verplichte programma met betrekking tot onderwijs of andere pedagogische 
 
 ### Artikel  27  
 
-De directeur stelt het perspectiefplan tijdig ter beschikking aan het trajectberaad, bedoeld in [artikel 21a van het Besluit tenuitvoerlegging jeugdstrafrecht 1994](../../../../../AMvB/besluit/tenuitvoerlegging/jeugdstrafrecht/1994/BWBR0007083/README.md).  
+De directeur stelt het perspectiefplan tijdig ter beschikking aan het trajectberaad, bedoeld in artikel 21a van het Besluit tenuitvoerlegging jeugdstrafrecht 1994.  
 
 ### Artikel  28  
 
 1.  Het perspectiefplan bestrijkt een periode van vier maanden, of zoveel korter als het strafrestant of het verblijf in de inrichting is, of zoveel korter als het strafrestant of het verblijf in de inrichting is.   
-2.  De jeugdige heeft recht op een periodieke evaluatie door de directeur van het perspectiefplan. Deze evaluatie vindt ten minste driemaal per jaar plaats, doch in ieder geval tijdig voor de opmaking van een advies als bedoeld in [artikel 77t, vijfde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of een verlenging als bedoeld in [artikel 262, eerste lid](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of  [305, derde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+2.  De jeugdige heeft recht op een periodieke evaluatie door de directeur van het perspectiefplan. Deze evaluatie vindt ten minste driemaal per jaar plaats, doch in ieder geval tijdig voor de opmaking van een advies als bedoeld in artikel 77t, vijfde lid, van het Wetboek van Strafrecht of een verlenging als bedoeld in artikel 262, eerste lid, of  305, derde lid, van Boek 1 van het Burgerlijk Wetboek.   
 3.  De evaluatie van het perspectiefplan vindt plaats op basis van informatie van ten minste de functionaris en de stichting als bedoeld in artikel 25. De jeugdige wordt in de gelegenheid gesteld zijn visie te geven op het verloop van het verblijf in de inrichting. Tevens worden bij de evaluatie betrokken de ouders of voogd, stiefouder of pleegouders van de jeugdige, met inachtneming van artikel 25, vijfde lid, en de betrokken stichting. Van de evaluatie wordt een verslag opgesteld.   
 4.  Bij de evaluatie worden de volgende aspecten betrokken: 
 
@@ -441,7 +442,7 @@ d. onbegeleid verlof met meerdere overnachtingen.
 1.  Het incidenteel verlof wordt door de jeugdige schriftelijk aangevraagd bij de directeur.   
 2.  Indien het verzoek een voorlopig gehechte jeugdige betreft, vraagt de directeur instemming van het openbaar ministerie.   
 3.  Indien het verzoek een civielrechtelijk geplaatste jeugdige betreft, vraagt de directeur instemming van de betrokken stichting.   
-4.  Indien het verzoek een jeugdige betreft die na de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel Nederland zal dienen te verlaten, of uitgezet of uitgeleverd zal worden, vraagt de directeur de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie om advies.   
+4.  Indien het verzoek een jeugdige betreft die na de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel Nederland zal dienen te verlaten, of uitgezet of uitgeleverd zal worden, vraagt de directeur de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie om advies.   
 
 ### Artikel  35  
 
@@ -482,28 +483,114 @@ Onze Minister kan nadere regels stellen over de procedure voor het aanvragen en 
 
 ####Proefverlof
 
+Vervallen per 01-07-2011   
+
 ### Hoofdstuk  8  
 
-####Gedwongen geneeskundige handelingen
+####(Onvrijwillige) geneeskundige behandeling
 
 ### Artikel  48  
 
-1.  Voordat de directeur beslist dat de door de arts noodzakelijk geachte geneeskundige handeling onder dwang zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de jeugdige verblijft. Indien de handeling door een andere arts wordt verricht, wordt bovendien met hem overlegd.   
-2.  Indien de toepassing van een geneeskundige handeling onder dwang noodzakelijk is ter afwending van ernstig gevaar dat voortvloeit uit een stoornis van de geestvermogens van de jeugdige, pleegt de directeur bovendien overleg met een psychiater.   
-3.  In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het ernstige gevaar voor de gezondheid of de veiligheid van de jeugdige of van anderen niet op een andere wijze kan worden afgewend. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de jeugdige minst ingrijpende handeling.   
-4.  De verantwoordelijke arts draagt zorg dat de melding van de toepassing van [artikel 37 van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), de resultaten van het overleg alsmede de afspraken die daarbij zijn gemaakt worden geregistreerd in het medisch dossier.   
+In dit hoofdstuk wordt verstaan onder: 
+
+a. *a-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in artikel 51d, onder a, van de wet;  
+
+b. *b-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in artikel 51d, onder b, van de wet;  
+
+c. *gedwongen geneeskundige handeling:* de gedwongen geneeskundige handeling als bedoeld in artikel 37 van de wet;  
+
+d. *geneeskundige behandeling:* de onvrijwillige geneeskundige behandelingen, bedoeld in de onderdelen a tot en met c, en de vrijwillige geneeskundige behandeling, bedoeld in artikel 51c van de wet;  
+
+e. *geneeskundig behandelingsplan:* het geneeskundig behandelingsplan, bedoeld in artikel 51b van de wet;  
+
+f. *inspecteur:* de inspecteur, bedoeld in artikel 1, onder c, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen;  
+
+g. *voorzetting van a-dwangbehandeling:* de voortzetting van a-dwangbehandeling bedoeld in artikel 51e, vijfde lid, van de wet.    
+
+### Artikel  48a  
+
+1.  Een geneeskundige behandeling wordt verricht in een daartoe geschikte ruimte, onder verantwoordelijkheid van de behandelend arts.   
+2.  In een inrichting of op een afdeling als bedoeld in artikel 8, zevende lid, van de wet is vierentwintig uur per dag, zeven dagen per week, voldoende psychiatrisch geschoold verpleegkundig personeel aanwezig. Bovendien is vierentwintig uur per dag, zeven dagen per week, een psychiater beschikbaar.   
+3.  Een geneeskundige behandeling wordt slechts uitgevoerd door een arts of verpleegkundige die over voldoende deskundigheid beschikt deze behandeling uit te voeren en indien daartoe voldoende voorzieningen beschikbaar zijn.   
+4.  Eens per twee weken, of vaker indien het belang van de jeugdige dit eist, vindt een multidisciplinair overleg plaats, waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige deelnemen. Indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, worden zijn ouders of voogd, stiefouder of pleegouders op de hoogte gesteld van de uitkomsten van het overleg.   
+
+### Artikel  48b  
+
+1.  In het geneeskundig behandelingsplan worden ten minste opgenomen: 
+
+a. de diagnose van de stoornis van de geestvermogens van de jeugdige;  
+
+b. de therapeutische middelen, zo mogelijk gerelateerd aan de verschillende aspecten die in de stoornis te onderscheiden zijn, die zullen worden toegepast teneinde een zodanige verbetering van de stoornis van de geestvermogens van de jeugdige te bereiken, dat het gevaar op grond waarvan deze in verband met zijn geestelijke gezondheidstoestand op een afdeling voor intensieve zorg of intensieve behandeling behoeft te verblijven, wordt weggenomen;  
+
+c. of er overeenstemming over het geneeskundig behandelingsplan is.     
+2.  Gedurende de behandeling kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging wordt de uitkomst van het multidisciplinair overleg, bedoeld in artikel 48a, vierde lid, betrokken.   
+3.  Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de persoon, bedoeld in artikel 51c, onder b, van de wet vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.   
 
 ### Artikel  49  
 
-1.  De gedwongen geneeskundige handeling wordt toegepast in een daartoe geschikte ruimte, onder verantwoordelijkheid van de arts.   
-2.  Van de toepassing van een gedwongen geneeskundige handeling wordt onverwijld melding gedaan aan Onze Minister en de commissie van toezicht. Indien de geneeskundige handeling wordt toegepast ter afwending van ernstig gevaar dat voortvloeit uit een stoornis van de geestvermogens van de jeugdige wordt tevens onverwijld melding gedaan aan de bevoegde regionale inspecteur voor de gezondheidszorg. Onze Minister kan voor de meldingen een model vaststellen.   
-3.  De jeugdige wordt gedurende de periode die volgt op de gedwongen geneeskundige handeling zo vaak als nodig is bezocht door een arts dan wel in diens opdracht door een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het medisch dossier.   
+1.  In geval van een a- of b-dwangbehandeling wordt in het geneeskundig behandelingsplan eveneens opgenomen: 
+
+a. welke minder bezwarende middelen zijn aangewend om het gevaar dat de stoornis van de geestvermogens de jeugdige doet veroorzaken weg te nemen dan wel af te wenden; en  
+
+b. de wijze waarop rekening wordt gehouden met de voorkeuren van de jeugdige en indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt zijn ouders of voogd, stiefouder of pleegouders ten aanzien van de behandeling.     
+2.  Het deel van het geneeskundig behandelingsplan waarover geen overeenstemming kan worden bereikt met de jeugdige of indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt zijn ouders of voogd, stiefouder of pleegouders, wordt slechts vastgesteld door een psychiater nadat een multidisciplinair overleg heeft plaatsgehad waaraan in ieder geval een psychiater, een psycholoog en een verpleegkundige hebben deelgenomen.   
+3.  Ingeval van a-dwangbehandeling worden de verklaringen van de psychiaters, bedoeld in artikel 51e, tweede lid, van de wet, bij het in het tweede lid bedoelde overleg betrokken.   
+
+### Artikel  49a  
+
+1.  Voordat de directeur beslist dat een door de arts noodzakelijk geachte b-dwangbehandeling of gedwongen geneeskundige handeling zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de jeugdige verblijft. Indien de behandeling door een andere arts wordt verricht, wordt tevens met hem overlegd.   
+2.  Ingeval van b-dwangbehandeling of indien het verrichten van een gedwongen geneeskundige handeling noodzakelijk is ter afwending van gevaar dat voortvloeit uit de stoornis van de geestvermogens van de jeugdige, pleegt de directeur bovendien overleg met de voor de behandeling verantwoordelijke psychiater.   
+3.  In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het gevaar niet op een andere wijze kan worden afgewend.   
+
+### Artikel  49b  
+
+1.  Zo spoedig mogelijk na de aanvang van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van een arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de jeugdige dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in geneeskundig behandelingsplan.   
+2.  Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de jeugdige minst ingrijpende handeling.   
+
+### Artikel  49c  
+
+1.  Voordat de directeur de beslissing tot voortzetting van a-dwangbehandeling neemt, pleegt hij overleg met de voor de behandeling verantwoordelijke psychiater en met het hoofd van de afdeling waar de jeugdige verblijft.   
+2.  In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.   
+3.  De uitkomsten van het multidisciplinaire overleg, bedoeld in artikel 48a, vierde lid, worden bij de beslissing meegenomen.   
+
+### Artikel  49d  
+
+De jeugdige wordt gedurende de periode dat de a- of b-dwangbehandeling of de gedwongen geneeskundige handeling wordt verricht, zo vaak als nodig is bezocht door een arts of in diens opdracht een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het medische dossier.  
+
+### Artikel  49e  
+
+1.  De directeur stelt de voorzitter van de commissie van toezicht, de raadsman van de jeugdige en indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, zijn ouders of voogd, stiefouder of pleegouders in kennis van het voornemen tot een beslissing tot a-dwangbehandeling uiterlijk drie dagen voor het nemen van die beslissing. Zij worden in de gelegenheid gesteld bezwaren tegen de beslissing kenbaar te maken.   
+2.  De voorzitter van de commissie van toezicht doet onverwijld een melding aan de maandcommissaris. De maandcommissaris bezoekt na de melding onverwijld de jeugdige.   
+3.  Van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling wordt uiterlijk bij de aanvang van de behandeling melding gedaan aan Onze Minister en de commissie van toezicht. Ingeval van a- of b-dwangbehandeling en indien een gedwongen geneeskundige handeling wordt toegepast in verband met een gevaar dat voortvloeit uit een stoornis van de geestvermogens van de jeugdige, wordt tevens melding gedaan aan de inspecteur.   
+4.  Bij de aanvang van een a-dwangbehandeling geeft de directeur daarvan eveneens kennis aan de in het eerste lid genoemde personen.   
+5.  De directeur zendt met de melding, bedoeld in het derde lid, een afschrift van de beslissing tot de behandeling mee waarin hij in ieder geval vermeldt: 
+
+a. in verband met welk gevaar is besloten tot een a- of b-dwangbehandeling, dan wel een gedwongen geneeskundige handeling;  
+
+b. welke minder bezwarende middelen zijn aangewend om het gevaar weg te nemen dan wel af te wenden;  
+
+c. welke personen, bedoeld in artikel 51c, onder c, van de wet, zich tegen de behandeling verzetten;  
+
+d. de wijze waarop rekening wordt gehouden met de voorkeuren van de jeugdige en indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt de voorkeuren van zijn ouders of voogd, stiefouder of pleegouders ten aanzien van de behandeling; en  
+
+e. indien een behandeling plaatsvindt in een situatie waarin het de jeugdige is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in Hoofdstuk XIII–XIV respectievelijk XV van de wet.     
+6.  Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling of voortzetting van a-dwangbehandeling, vermeldt de directeur tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in artikel 51c, onder b, van de wet te komen. In geval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.   
+7.  Van een beëindiging van een a-dwangbehandeling, b-dwangbehandeling of gedwongen geneeskundige handeling geeft de directeur kennis aan de personen, genoemd in het derde en – indien van toepassing – vierde lid.   
+8.  Onze Minister kan voor de meldingen een model vaststellen.   
+
+### Artikel  49f  
+
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling en voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in artikel 48a, vierde lid, artikel 49a en artikel 49c, alsmede de adviezen die daarbij zijn gegeven en de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.  
+
+### Artikel  49g  
+
+1.  De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling, doch in ieder geval na afloop van de termijn, bedoeld in artikel 51e, vierde lid, van de wet, een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.   
+2.  De inspecteur stelt eveneens een onderzoek in na beëindiging van elke gedwongen geneeskundige handeling indien die behandeling is verricht ter afwending van een gevaar dat voortvloeit uit de stoornis van de geestvermogens van de jeugdige.   
 
 ### Artikel  50  
 
-1.  Zo spoedig mogelijk na de toepassing van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van de aan de inrichting verbonden arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de jeugdige dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het medisch dossier.   
-2.  Indien de toepassing van een gedwongen geneeskundige handeling als bedoeld in artikel 48, tweede lid, de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een arts of een psychiater en een psycholoog.   
-3.  De in het tweede lid bedoelde commissie brengt binnen twee dagen na de in het tweede lid bedoelde termijn en, indien de gedwongen geneeskundige handeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van de gedwongen geneeskundige handeling.   
+1.  Indien de toepassing van de behandeling, bedoeld in artikel 49a, tweede lid, de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.   
+2.  De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige geneeskundige behandeling langer wordt voortgezet, om de twee weken, advies uit aan de directeur over de voortzetting van de behandeling.   
 
 ### Hoofdstuk  8a  
 
@@ -511,9 +598,9 @@ Onze Minister kan nadere regels stellen over de procedure voor het aanvragen en 
 
 ### Artikel  50a  
 
-1.  Telefoongesprekken die in verband met het toezicht, bedoeld in [artikel 44, tweede lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) worden opgenomen, worden bewaard voor een periode van ten hoogste acht maanden.   
+1.  Telefoongesprekken die in verband met het toezicht, bedoeld in artikel 44, tweede lid, van de wet worden opgenomen, worden bewaard voor een periode van ten hoogste acht maanden.   
 2.  Na het verstrijken van de periode, genoemd in het eerste lid, wordt een opgenomen telefoongesprek gewist.   
-3.  Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in [artikel 42, eerste lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) is opgenomen, wordt dit opgenomen gesprek terstond gewist.   
+3.  Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in artikel 42, eerste lid, van de wet is opgenomen, wordt dit opgenomen gesprek terstond gewist.   
 4.  De jeugdige wordt van het opnemen van het telefoonverkeer op de hoogte gesteld.   
 5.  Opgenomen telefoongesprekken worden slechts verstrekt aan derden die ingevolge de uitvoering van hen bij of krachtens de wet opgedragen taken, tot kennisneming daarvan bevoegd zijn.   
 6.  De verstrekking, bedoeld in het vijfde lid, kan slechts geschieden in verband met: 
@@ -534,7 +621,7 @@ Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of 
 
 ### Artikel  52  
 
-1.  Bij het Ministerie van Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistische geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.   
+1.  Bij het Ministerie van Veiligheid en Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistische geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.   
 2.  De hoofden, genoemd in het eerste lid, zijn in ieder geval belast met het doen van voordrachten voor de aanstelling van geestelijk verzorgers bij de rijksinrichtingen, behorende tot hun gezindte of levensovertuiging.   
 
 ### Artikel  53  
@@ -563,7 +650,7 @@ b. enig ander dan onder a bedoeld handelen of nalaten in die hoedanigheid in str
 
 ### Artikel  56  
 
-1.  Alvorens een beroepschrift in te dienen doet de jeugdige een schriftelijk verzoek aan de Medisch Adviseur bij het Ministerie van Justitie om te bemiddelen terzake van de klacht. Dit verzoek dient uiterlijk op de veertiende dag na die waarop het medisch handelen waartegen de klacht zich richt heeft plaatsgevonden te worden ingediend.   
+1.  Alvorens een beroepschrift in te dienen doet de jeugdige een schriftelijk verzoek aan de Medisch Adviseur bij het Ministerie van Veiligheid en Justitie om te bemiddelen terzake van de klacht. Dit verzoek dient uiterlijk op de veertiende dag na die waarop het medisch handelen waartegen de klacht zich richt heeft plaatsgevonden te worden ingediend.   
 2.  De Medisch Adviseur stelt de betrokkene in de gelegenheid de klacht schriftelijk of mondeling toe te lichten, tenzij hij het aanstonds duidelijk acht dat de klacht zich niet voor bemiddeling leent. Hij kan ook bij andere personen mondeling of schriftelijk inlichtingen inwinnen.   
 3.  De Medisch Adviseur is ten behoeve van de bemiddeling bevoegd het medisch dossier van de jeugdige in te zien.   
 4.  De Medisch Adviseur streeft ernaar binnen vier weken een voor beide partijen aanvaardbare oplossing te bereiken.   
@@ -588,7 +675,7 @@ b. enig ander dan onder a bedoeld handelen of nalaten in die hoedanigheid in str
 5.  De klager en de arts kunnen de voorzitter van de beroepscommissie de vragen opgeven die zij aan elkaar gesteld wensen te zien.   
 6.  De beroepscommissie kan de arts en de klager buiten elkaars aanwezigheid horen. In dat geval worden zij in de gelegenheid gesteld vooraf de vragen op te geven die zij gesteld wensen te zien en wordt de zakelijke inhoud van de aldus afgelegde verklaring door de voorzitter van de beroepscommissie aan de klager onderscheidenlijk de arts mondeling medegedeeld.   
 7.  De beroepscommissie kan ook bij andere personen mondeling of schriftelijk inlichtingen inwinnen. Indien mondeling inlichtingen worden ingewonnen, zijn het vijfde en zesde lid, tweede volzin, van overeenkomstige toepassing. De beroepscommissie kan bepalen dat ingeval bij een andere persoon mondeling inlichtingen worden ingewonnen, de betrokkenen uitsluitend in de gelegenheid worden gesteld schriftelijk de vragen op te geven die zij aan die persoon gesteld wensen te zien.   
-8.  De klager heeft het recht zich te doen bijstaan door een rechtsbijstandverlener of een andere vertrouwenspersoon die daartoe van de beroepscommissie toestemming heeft gekregen. Indien aan de klager een advocaat is toegevoegd, geschieden diens beloning en de vergoeding van de door hem gemaakte kosten volgens het [Besluit vergoedingen rechtsbijstand 2000](../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md).   
+8.  De klager heeft het recht zich te doen bijstaan door een rechtsbijstandverlener of een andere vertrouwenspersoon die daartoe van de beroepscommissie toestemming heeft gekregen. Indien aan de klager een advocaat is toegevoegd, geschieden diens beloning en de vergoeding van de door hem gemaakte kosten volgens het Besluit vergoedingen rechtsbijstand 2000.   
 9.  Indien de klager de Nederlandse taal niet voldoende beheerst, draagt de voorzitter zorg voor de bijstand van een tolk. De beloning van de tolk en de vergoeding van de door de tolk gemaakte kosten geschieden met overeenkomstige toepassing van artikel 81.   
 10.  Tijdens de beroepsprocedure staat de beroepscommissie aan de klager op diens verzoek toe van de gedingstukken kennis te nemen.   
 
@@ -596,7 +683,7 @@ b. enig ander dan onder a bedoeld handelen of nalaten in die hoedanigheid in str
 
 1.  De beroepscommissie doet zo spoedig mogelijk uitspraak. De uitspraak is met redenen omkleed en gedagtekend. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager, de arts en de directeur wordt onverwijld en kosteloos een afschrift van de beslissing van de beroepscommissie toegezonden of uitgereikt.   
 2.  Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van artikel 81.   
-3.  De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de jeugdige kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md) bepaalde van overeenkomstige toepassing.   
+3.  De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de jeugdige kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.   
 
 ### Artikel  60  
 
@@ -626,7 +713,7 @@ c. de ouders of voogd, indien de jeugdige minderjarig is.
 
 ### Artikel  62  
 
-1.  Op het onderwijs in particuliere inrichtingen is het bepaalde bij of krachtens de [Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) van toepassing.   
+1.  Op het onderwijs in particuliere inrichtingen is het bepaalde bij of krachtens de Wet op de expertisecentra van toepassing.   
 2.  Het onderwijs in de rijksinrichting bestaat uit theoretisch onderwijs, een beroepsgerichte leerweg of praktijkonderwijs.   
 3.  In ieder geval omvat het onderwijs in de rijksinrichting: 
 
@@ -699,17 +786,17 @@ d. gegevens omtrent het verblijf.
 
 ### Artikel  67  
 
-Naast de in [artikel 63, eerste lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) genoemde gegevens worden in het dossier opgenomen de jeugdige betreffende: 
+Naast de in artikel 63, eerste lid, van de wet genoemde gegevens worden in het dossier opgenomen de jeugdige betreffende: 
 
-a. afschriften van mededelingen, bedoeld in [artikel 62, eerste en tweede lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+a. afschriften van mededelingen, bedoeld in artikel 62, eerste en tweede lid, van de wet;  
 
-b. uitspraken van de beklagcommissie en de beroepscommissie alsmede mededelingen, bedoeld in [artikel 64, vijfde lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+b. uitspraken van de beklagcommissie en de beroepscommissie alsmede mededelingen, bedoeld in artikel 64, vijfde lid, van de wet;  
 
 c. ontvangen afschriften van rechterlijke beslissingen betreffende de vrijheidsstraf of vrijheidsbenemende maatregel;  
 
 d. kopieën van correspondentie van de inrichting over de jeugdige;  
 
-e. formulieren betreffende verlof en daarop genomen beslissingen alsmede machtigingen van Onze Minister, bedoeld in de [artikelen 30, eerste lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+e. formulieren betreffende verlof en daarop genomen beslissingen alsmede machtigingen van Onze Minister, bedoeld in de artikelen 30, eerste lid;  
 
 f. verzoeken om strafonderbreking en daarop genomen beslissingen;  
 
@@ -730,7 +817,7 @@ a. de jeugdige mondeling kennis geven van de gegevens waarvan hij inzage verlang
 
 b. een door de jeugdige gemachtigde persoon inzage geven in de gegevens waarvan de inzage aan de jeugdige wordt onthouden.     
 5.  Voor wat betreft het perspectiefplan en het evaluatieverslag omvat het recht op inzage tevens het recht op het ontvangen van een afschrift.   
-6.  Met toepassing van [artikel 464 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is [artikel 456 van dit boek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet van overeenkomstige toepassing op de dossiers, bedoeld in dit hoofdstuk.   
+6.  Met toepassing van artikel 464 van Boek 7 van het Burgerlijk Wetboek is artikel 456 van dit boek niet van overeenkomstige toepassing op de dossiers, bedoeld in dit hoofdstuk.   
 
 ### Artikel  69  
 
@@ -749,7 +836,7 @@ d. de behandeling van andere beslissingen, de jeugdige betreffende.
 ### Artikel  70  
 
 1.  Gedurende het verblijf van een jeugdige in een inrichting wordt zijn dossier in een afsluitbare ruimte in de inrichting bewaard.   
-2.  De directeur zendt het dossier gelijktijdig met de overplaatsing van de jeugdige, bedoeld in [artikel 12 van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), aan de directeur van de inrichting waar de jeugdige verder zal verblijven.   
+2.  De directeur zendt het dossier gelijktijdig met de overplaatsing van de jeugdige, bedoeld in artikel 12 van de wet, aan de directeur van de inrichting waar de jeugdige verder zal verblijven.   
 3.  Indien de jeugdige in de gelegenheid wordt gesteld deel te nemen aan een scholings- en trainingsprogramma zendt de directeur het dossier aan de directeur, bedoeld in artikel 10, eerste lid.   
 4.  Bij invrijheidstelling, ontvluchting of overlijden van de jeugdige zendt de directeur het dossier aan Onze Minister.   
 
@@ -765,7 +852,7 @@ d. de behandeling van andere beslissingen, de jeugdige betreffende.
 
 ### Artikel  72  
 
-1.  Een aanvraag tot aanwijzing als particuliere inrichting kan slechts worden gedaan door een rechtspersoon die een voorziening van jeugdhulpverlening als bedoeld in artikel [3b, eerste lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) beheert.   
+1.  Een aanvraag tot aanwijzing als particuliere inrichting kan slechts worden gedaan door een rechtspersoon die een voorziening van jeugdhulpverlening als bedoeld in artikel 3b, eerste lid, van de wet beheert.   
 2.  De aanvraag wordt bij Onze Minister ingediend en gaat vergezeld van de volgende bescheiden: 
 
 a. de statuten of reglementen van de rechtspersoon die de residentiële voorziening van jeugdhulpverlening beheert;  
@@ -842,7 +929,7 @@ c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veran
 
 ### Artikel  81  
 
-1.  De beloning van de tolk of vertaler en de vergoeding van de door hen gemaakte kosten, bedoeld in [artikel 66, vierde lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [70, tweede lid](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), en [72, vierde lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) geschieden volgens het bepaalde bij of krachtens de [Wet tarieven in strafzaken](../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).   
+1.  De beloning van de tolk of vertaler en de vergoeding van de door hen gemaakte kosten, bedoeld in artikel 66, vierde lid, 70, tweede lid, en 72, vierde lid, van de wet geschieden volgens het bepaalde bij of krachtens de Wet tarieven in strafzaken.   
 2.  De secretaris van de beklag- of beroepscommissie stelt op basis van de in het eerste lid bedoelde bepalingen de hoogte van de beloning en vergoeding vast. Met de uitbetaling is de directeur belast.   
 
 ### Hoofdstuk  17  
@@ -851,7 +938,7 @@ c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veran
 
 ### Artikel  82  
 
-Buiten geval van opzet of bewuste roekeloosheid is de aansprakelijkheid van de directeur voor voorwerpen die een jeugdige ingevolge [artikel 50, tweede lid, van de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) onder zich heeft, beperkt tot vijfhonderd euro per voorwerp, inclusief eventuele gevolgschade.  
+Buiten geval van opzet of bewuste roekeloosheid is de aansprakelijkheid van de directeur voor voorwerpen die een jeugdige ingevolge artikel 50, tweede lid, van de wet onder zich heeft, beperkt tot vijfhonderd euro per voorwerp, inclusief eventuele gevolgschade.  
 
 ### Hoofdstuk  18  
 
@@ -879,7 +966,7 @@ Wijzigt het Besluit extramurale vrijheidsbeneming en sociale zekerheid.
 
 ### Artikel  87  
 
-Een ieder die betrokken is bij de uitvoering van [de wet](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en dit reglement en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit reglement de noodzaak tot bekendmaking voortvloeit.  
+Een ieder die betrokken is bij de uitvoering van de wet en dit reglement en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit reglement de noodzaak tot bekendmaking voortvloeit.  
 
 ### Artikel  88  
 

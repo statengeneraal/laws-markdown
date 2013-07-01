@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Handelende in overeenstemming met de Staatssecretaris van Financiën;
 
-Gelet op de [artikelen 2](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md), [14, eerste en tweede lid](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), [15, eerste lid](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), [16, tweede lid](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), en [20, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), de vaststelling en invoering van [titel 5 (Pacht) van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [artikel 58 van de Wet agrarisch grondverkeer](../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) en [artikel 2 van het Besluit grondbankstelsel](../../../../AMvB/besluit/grondbankstelsel/BWBR0003548/README.md), de [artikelen 2](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [4 van de Kaderwet LNV-subsidies](../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md), [artikel 19 van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) en [artikel 18, derde lid, van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md);
+Gelet op de artikelen 2, 14, eerste en tweede lid, 15, eerste lid, 16, tweede lid, en 20, eerste lid, van het Pachtprijzenbesluit 2007, de vaststelling en invoering van titel 5 (Pacht) van Boek 7 van het Burgerlijk Wetboek, artikel 58 van de Wet agrarisch grondverkeer en artikel 2 van het Besluit grondbankstelsel, de artikelen 2 en 4 van de Kaderwet LNV-subsidies, artikel 19 van de Landbouwwet en artikel 18, derde lid, van de Wet waardering onroerende zaken;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,32 +15,32 @@ Besluit:
 
 Met betrekking tot pachtovereenkomsten voor land zonder woningen of andere opstallen: 
 
-a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in bijlage 1, onder A;  
+a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in artikel 2, eerste lid, van het Pachtprijzenbesluit 2007, voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, voor de onderscheiden pachtprijsgebieden de prijs die is vermeld in bijlage 1, onder A;  
 
-b. is het percentage, bedoeld in [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in bijlage 1, onder B.    
+b. is het percentage, bedoeld in artikel 2, tweede lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, voor de onderscheiden pachtprijsgebieden het percentage dat is vermeld in bijlage 1, onder B.    
 
 ### Artikel  2  
 
 Met betrekking tot pachtovereenkomsten voor tuinland: 
 
-a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.533,– en in de Rest van Nederland € 944,–;  
+a. is de hoogst toelaatbare pachtprijs per jaar per hectare, bedoeld in artikel 11 in samenhang met artikel 2, eerste lid, van het Pachtprijzenbesluit 2007, voor pachtovereenkomsten die worden aangegaan op of na 1 september 2007, in Westelijk Holland € 1.347,– en in de Rest van Nederland € 755,–;  
 
-b. is het percentage, bedoeld in [artikel 11](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) in samenhang met [artikel 2, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland 23% en in de Rest van Nederland –24%.    
+b. is het percentage, bedoeld in artikel 11 in samenhang met artikel 2, tweede lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd, in Westelijk Holland –12% en in de Rest van Nederland –20%.    
 
 ### Artikel  3  
 
 Met betrekking tot pachtovereenkomsten voor een tot een boerderij of tuinderij behorende woning of woongedeelte en voor een tot de boerderij behorende arbeiders- of dienstwoning: 
 
-a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in [artikel 14, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in bijlage 2, onder A;  
+a. is de hoogst toelaatbare pachtprijs per maand, bedoeld in artikel 14, eerste lid, van het Pachtprijzenbesluit 2007, de, gegeven het aantal punten waarop de woning of het woongedeelte is gewaardeerd, toepasselijke prijs die is vermeld in bijlage 2, onder A;  
 
-b. is het puntenstelsel, bedoeld in [artikel 14, tweede lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als bijlage 2, onder B;  
+b. is het puntenstelsel, bedoeld in artikel 14, tweede lid, van het Pachtprijzenbesluit 2007, aan de hand waarvan de hoogst toelaatbare pachtprijs als bedoeld in het eerste lid wordt vastgesteld, het puntenstelsel dat is vermeld als bijlage 2, onder B;  
 
-c. is het percentage, bedoeld in [artikel 15, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 2,3%.    
+c. is het percentage, bedoeld in artikel 15, eerste lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd: 4%.    
 
 ### Artikel  4  
 
-1.  De hoogst toelaatbare pachtprijs voor de bedrijfsgebouwen van akkerbouw- en melkveebedrijven en overige bedrijven, bedoeld in [artikel 16, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) komt overeen met de bedragen, genoemd in de tabel, opgenomen in bijlage 2A.   
-2.  Met betrekking tot de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in [artikel 20, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), waarmee de tussen partijen geldende pachtprijs wordt gewijzigd: 1,78%.   
+1.  De hoogst toelaatbare pachtprijs per hectare van een overeenkomst voor de bedrijfsgebouwen van akkerbouw- en melkveebedrijven en overige bedrijven, bedoeld in artikel 16, eerste lid, van het Pachtprijzenbesluit 2007 komt overeen met de bedragen, genoemd in de tabel, opgenomen in bijlage 2A.   
+2.  Met betrekking tot de bedrijfsgebouwen van akkerbouw- en veeteeltbedrijven en gemengde bedrijven is het percentage, bedoeld in artikel 20, eerste lid, van het Pachtprijzenbesluit 2007, waarmee de tussen partijen geldende pachtprijs wordt gewijzigd: 2%.   
 
 ### Hoofdstuk  2  
 
@@ -56,11 +56,11 @@ b. de grondkamer Zuidwest van 21 september 2007 als opgenomen in bijlage 3, ond
 
 ### Artikel  6  
 
-Het bedrag, bedoeld in [artikel 23, eerste lid, van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), dat door de verpachter aan de pachter kan worden doorberekend, indien op het verpachte land een ruilverkavelingsrente dan wel een landinrichtingsrente rust, bedraagt maximaal € 25,– per hectare per jaar.  
+Het bedrag, bedoeld in artikel 23, eerste lid, van het Pachtprijzenbesluit 2007, dat door de verpachter aan de pachter kan worden doorberekend, indien op het verpachte land een ruilverkavelingsrente dan wel een landinrichtingsrente rust, bedraagt maximaal € 25,– per hectare per jaar.  
 
 ### Artikel  7  
 
-Als model voor het formulier, bedoeld in [artikel 24 van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md), wordt vastgesteld: 
+Als model voor het formulier, bedoeld in artikel 24 van het Pachtprijzenbesluit 2007, wordt vastgesteld: 
 
 a. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingegaan op of na 1 september 2007, het model opgenomen in bijlage 4, onder A, en  
 
@@ -72,7 +72,7 @@ b. voor de hoogst toelaatbare pachtprijs voor pachtovereenkomsten die zijn ingeg
 
 ### Artikel  8  
 
-Deze regeling berust mede op [artikel 395 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), op de [artikelen 23](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) en [24 van het Pachtprijzenbesluit 2007](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) en op [artikel 18, vierde lid, Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md).  
+Deze regeling berust mede op artikel 395 van Boek 7 van het Burgerlijk Wetboek, op de artikelen 23 en 24 van het Pachtprijzenbesluit 2007 en op artikel 18, vierde lid, Wet waardering onroerende zaken.  
 
 ### Artikel  9  
 
@@ -95,45 +95,45 @@ G.Verburg
 
 ### A  
 
-####pachtovereenkomsten die worden aangegaan op of na 1 september 2007
+####pachtovereenkomsten die worden aangegaan op of na 1 september 2007
 
 | Pachtprijsgebied  | Hoogst toelaatbare pachtprijs per hectare per jaar  |
-|:---|:---|
-| Bouwhoek en Hogeland  | € 712,–  |
-| Veenkoloniën en Oldambt  | € 477,–  |
-| Noordelijk weidegebied  | € 603,–  |
-| Oostelijk veehouderijgebied  | € 548,–  |
-| Centraal veehouderijgebied  | € 623,–  |
-| IJsselmeerpolders  | € 1.086,–  |
-| Westelijk Holland  | € 515,–  |
-| Waterland en Droogmakerijen  | € 387,–  |
-| Hollands/Utrechts weidegebied  | € 582,–  |
-| Rivierengebied  | € 739,–  |
-| Zuidwestelijk akkerbouwgebied  | € 742,–  |
-| Zuidwest-Brabant  | € 619,–  |
-| Zuidelijk veehouderijgebied  | € 634,–  |
-| Zuid-Limburg  | € 715,–  |
+|---|---|
+| Bouwhoek en Hogeland  | € 633,–  |
+| Veenkoloniën en Oldambt  | € 522,–  |
+| Noordelijk weidegebied  | € 693,–  |
+| Oostelijk veehouderijgebied  | € 573,–  |
+| Centraal veehouderijgebied  | € 527,–  |
+| IJsselmeerpolders  | € 786,–  |
+| Westelijk Holland  | € 462,–  |
+| Waterland en Droogmakerijen  | € 373,–  |
+| Hollands/Utrechts weidegebied  | € 722,–  |
+| Rivierengebied  | € 823,–  |
+| Zuidwestelijk akkerbouwgebied  | € 522,–  |
+| Zuidwest-Brabant  | € 583,–  |
+| Zuidelijk veehouderijgebied  | € 671,–  |
+| Zuid-Limburg  | € 751,–  |
 
 ### B  
 
-####Percentage waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd
+####Percentage waarmee de tussen partijen op grond van een voor 1 september 2007 aangegane pachtovereenkomst geldende pachtprijs wordt gewijzigd
 
 | Pachtprijsgebied  | Veranderpercentage  |
-|:---|:---|
-| Bouwhoek en Hogeland  | 2  |
-| Veenkoloniën en Oldambt  | 11  |
-| Noordelijk weidegebied  | –3  |
-| Oostelijk veehouderijgebied  | –11  |
-| Centraal veehouderijgebied  | –2  |
-| IJsselmeerpolders  | 4  |
-| Westelijk Holland  | 30  |
-| Waterland en Droogmakerijen  | –10  |
-| Hollands/Utrechts weidegebied  | 7  |
-| Rivierengebied  | –4  |
-| Zuidwestelijk akkerbouwgebied  | 12  |
-| Zuidwest-Brabant  | –2  |
-| Zuidelijk veehouderijgebied  | –7  |
-| Zuid-Limburg  | 7  |
+|---|---|
+| Bouwhoek en Hogeland  | –11  |
+| Veenkoloniën en Oldambt  | 9  |
+| Noordelijk weidegebied  | 15  |
+| Oostelijk veehouderijgebied  | 5  |
+| Centraal veehouderijgebied  | –15  |
+| IJsselmeerpolders  | –28  |
+| Westelijk Holland  | –10  |
+| Waterland en Droogmakerijen  | –4  |
+| Hollands/Utrechts weidegebied  | 24  |
+| Rivierengebied  | 11  |
+| Zuidwestelijk akkerbouwgebied  | –30  |
+| Zuidwest-Brabant  | –6  |
+| Zuidelijk veehouderijgebied  | 6  |
+| Zuid-Limburg  | 5  |
 
 ### Bijlage  2  
 
@@ -143,58 +143,56 @@ G.Verburg
 
 ####Hoogst toelaatbare pachtprijzen agrarische woningen
 
-Bedragen in euro’s 
-
-| Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 40  | 168,58  | 82  | 346,46  | 124  | 524,32  | 166  | 738,15  | 208  | 933,98  |
-| 41  | 172,79  | 83  | 351,13  | 125  | 546,98  | 167  | 742,82  | 209  | 938,66  |
-| 42  | 177,02  | 84  | 355,79  | 126  | 551,63  | 168  | 747,47  | 210  | 943,33  |
-| 43  | 181,23  | 85  | 360,45  | 127  | 556,31  | 169  | 752,14  | 211  | 947,97  |
-| 44  | 185,43  | 86  | 365,12  | 128  | 560,97  | 170  | 756,79  | 212  | 952,64  |
-| 45  | 189,65  | 87  | 369,78  | 129  | 565,63  | 171  | 761,47  | 213  | 957,30  |
-| 46  | 193,88  | 88  | 374,44  | 130  | 570,30  | 172  | 766,12  | 214  | 961,97  |
-| 47  | 198,08  | 89  | 379,10  | 131  | 574,95  | 173  | 770,80  | 215  | 966,63  |
-| 48  | 202,31  | 90  | 383,78  | 132  | 579,61  | 174  | 775,43  | 216  | 971,30  |
-| 49  | 206,51  | 91  | 388,43  | 133  | 584,30  | 175  | 780,12  | 217  | 975,96  |
-| 50  | 210,73  | 92  | 393,10  | 134  | 588,94  | 176  | 784,76  | 218  | 980,61  |
-| 51  | 214,93  | 93  | 397,76  | 135  | 593,61  | 177  | 789,45  | 219  | 985,28  |
-| 52  | 219,16  | 94  | 402,41  | 136  | 598,26  | 178  | 794,10  | 220  | 989,96  |
-| 53  | 223,37  | 95  | 407,08  | 137  | 602,94  | 179  | 798,77  | 221  | 994,60  |
-| 54  | 227,59  | 96  | 411,76  | 138  | 607,58  | 180  | 803,42  | 222  | 999,28  |
-| 55  | 231,80  | 97  | 416,40  | 139  | 612,26  | 181  | 808,10  | 223  | 1.003,94  |
-| 56  | 236,02  | 98  | 421,07  | 140  | 616,92  | 182  | 812,75  | 224  | 1.008,59  |
-| 57  | 240,22  | 99  | 425,74  | 141  | 621,59  | 183  | 817,43  | 225  | 1.013,27  |
-| 58  | 244,44  | 100  | 430,39  | 142  | 626,23  | 184  | 822,07  | 226  | 1.017,93  |
-| 59  | 248,65  | 101  | 435,06  | 143  | 630,91  | 185  | 826,75  | 227  | 1.022,58  |
-| 60  | 252,89  | 102  | 439,73  | 144  | 635,57  | 186  | 831,40  | 228  | 1.027,26  |
-| 61  | 257,09  | 103  | 444,39  | 145  | 640,23  | 187  | 836,07  | 229  | 1.031,91  |
-| 62  | 261,29  | 104  | 449,05  | 146  | 644,90  | 188  | 840,74  | 230  | 1.036,56  |
-| 63  | 265,50  | 105  | 453,71  | 147  | 649,55  | 189  | 845,41  | 231  | 1.041,24  |
-| 64  | 269,71  | 106  | 458,39  | 148  | 654,21  | 190  | 850,06  | 232  | 1.045,90  |
-| 65  | 273,93  | 107  | 463,04  | 149  | 658,90  | 191  | 854,73  | 233  | 1.050,56  |
-| 66  | 278,15  | 108  | 467,71  | 150  | 663,54  | 192  | 859,38  | 234  | 1.055,21  |
-| 67  | 282,36  | 109  | 472,37  | 151  | 668,21  | 193  | 864,05  | 235  | 1.059,89  |
-| 68  | 286,56  | 110  | 477,01  | 152  | 672,87  | 194  | 868,72  | 236  | 1.064,55  |
-| 69  | 290,80  | 111  | 481,69  | 153  | 677,53  | 195  | 873,38  | 237  | 1.069,21  |
-| 70  | 294,99  | 112  | 486,36  | 154  | 682,19  | 196  | 878,03  | 238  | 1.073,88  |
-| 71  | 299,22  | 113  | 491,01  | 155  | 686,86  | 197  | 882,70  | 239  | 1.078,54  |
-| 72  | 303,43  | 114  | 495,68  | 156  | 691,52  | 198  | 887,37  | 240  | 1.083,19  |
-| 73  | 307,65  | 115  | 500,35  | 157  | 696,19  | 199  | 892,03  | 241  | 1.087,87  |
-| 74  | 311,85  | 116  | 504,99  | 158  | 700,84  | 200  | 896,69  | 242  | 1.092,52  |
-| 75  | 316,08  | 117  | 509,67  | 159  | 705,51  | 201  | 901,36  | 243  | 1.097,19  |
-| 76  | 320,28  | 118  | 514,33  | 160  | 710,16  | 202  | 906,01  | 244  | 1.101,86  |
-| 77  | 324,50  | 119  | 518,99  | 161  | 714,84  | 203  | 910,67  | 245  | 1.106,51  |
-| 78  | 328,73  | 120  | 523,65  | 162  | 719,50  | 204  | 915,35  | 246  | 1.111,17  |
-| 79  | 332,94  | 121  | 528,32  | 163  | 724,15  | 205  | 919,99  | 247  | 1.115,84  |
-| 80  | 337,15  | 122  | 532,98  | 164  | 728,82  | 206  | 924,67  | 248  | 1.120,50  |
-| 81  | 341,80  | 123  | 537,65  | 165  | 733,48  | 207  | 929,33  | 249  | 1.125,16  |
-| --- | --- | --- | --- | --- | --- | --- | --- | 250  | 1.129,82  |
+| Bedragen in euro’s  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  | Punten  | Bedrag  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 40  | 172,80  | 82  | 355,13  | 124  | 555,88  | 166  | 756,61  | 208  | 957,33  |
+| 41  | 177,11  | 83  | 359,91  | 125  | 560,66  | 167  | 761,40  | 209  | 962,13  |
+| 42  | 181,45  | 84  | 364,69  | 126  | 565,43  | 168  | 766,16  | 210  | 966,92  |
+| 43  | 185,77  | 85  | 369,47  | 127  | 570,22  | 169  | 770,95  | 211  | 971,67  |
+| 44  | 190,07  | 86  | 374,25  | 128  | 575,00  | 170  | 775,71  | 212  | 976,46  |
+| 45  | 194,40  | 87  | 379,03  | 129  | 579,78  | 171  | 780,51  | 213  | 981,24  |
+| 46  | 198,73  | 88  | 383,81  | 130  | 584,56  | 172  | 785,28  | 214  | 986,02  |
+| 47  | 203,04  | 89  | 388,58  | 131  | 589,33  | 173  | 790,07  | 215  | 990,80  |
+| 48  | 207,37  | 90  | 393,38  | 132  | 594,11  | 174  | 794,82  | 216  | 995,59  |
+| 49  | 211,68  | 91  | 398,15  | 133  | 598,91  | 175  | 799,63  | 217  | 1000,36  |
+| 50  | 216,00  | 92  | 402,93  | 134  | 603,67  | 176  | 804,38  | 218  | 1005,13  |
+| 51  | 220,31  | 93  | 407,71  | 135  | 608,46  | 177  | 809,19  | 219  | 1009,92  |
+| 52  | 224,64  | 94  | 412,48  | 136  | 613,22  | 178  | 813,96  | 220  | 1014,71  |
+| 53  | 228,96  | 95  | 417,26  | 137  | 618,02  | 179  | 818,74  | 221  | 1019,47  |
+| 54  | 233,28  | 96  | 422,06  | 138  | 622,77  | 180  | 823,51  | 222  | 1024,27  |
+| 55  | 237,60  | 97  | 426,81  | 139  | 627,57  | 181  | 828,31  | 223  | 1029,04  |
+| 56  | 241,93  | 98  | 431,60  | 140  | 632,35  | 182  | 833,07  | 224  | 1033,81  |
+| 57  | 246,23  | 99  | 436,39  | 141  | 637,13  | 183  | 837,87  | 225  | 1038,61  |
+| 58  | 250,56  | 100  | 441,15  | 142  | 641,89  | 184  | 842,63  | 226  | 1043,38  |
+| 59  | 254,87  | 101  | 445,94  | 143  | 646,69  | 185  | 847,42  | 227  | 1048,15  |
+| 60  | 259,22  | 102  | 450,73  | 144  | 651,46  | 186  | 852,19  | 228  | 1052,95  |
+| 61  | 263,52  | 103  | 455,50  | 145  | 656,24  | 187  | 856,98  | 229  | 1057,71  |
+| 62  | 267,83  | 104  | 460,28  | 146  | 661,03  | 188  | 861,76  | 230  | 1062,48  |
+| 63  | 272,14  | 105  | 465,06  | 147  | 665,79  | 189  | 866,55  | 231  | 1067,28  |
+| 64  | 276,46  | 106  | 469,85  | 148  | 670,57  | 190  | 871,32  | 232  | 1072,05  |
+| 65  | 280,78  | 107  | 474,62  | 149  | 675,38  | 191  | 876,10  | 233  | 1076,83  |
+| 66  | 285,11  | 108  | 479,41  | 150  | 680,13  | 192  | 880,87  | 234  | 1081,60  |
+| 67  | 289,42  | 109  | 484,18  | 151  | 684,92  | 193  | 885,66  | 235  | 1086,39  |
+| 68  | 293,73  | 110  | 488,94  | 152  | 689,70  | 194  | 890,44  | 236  | 1091,17  |
+| 69  | 298,07  | 111  | 493,74  | 153  | 694,47  | 195  | 895,22  | 237  | 1095,95  |
+| 70  | 302,37  | 112  | 498,52  | 154  | 699,25  | 196  | 899,99  | 238  | 1100,73  |
+| 71  | 306,71  | 113  | 503,29  | 155  | 704,04  | 197  | 904,77  | 239  | 1105,51  |
+| 72  | 311,02  | 114  | 508,08  | 156  | 708,81  | 198  | 909,56  | 240  | 1110,27  |
+| 73  | 315,35  | 115  | 512,86  | 157  | 713,60  | 199  | 914,34  | 241  | 1115,07  |
+| 74  | 319,65  | 116  | 517,62  | 158  | 718,37  | 200  | 919,11  | 242  | 1119,84  |
+| 75  | 323,99  | 117  | 522,42  | 159  | 723,15  | 201  | 923,90  | 243  | 1124,62  |
+| 76  | 328,29  | 118  | 527,19  | 160  | 727,92  | 202  | 928,67  | 244  | 1129,41  |
+| 77  | 332,62  | 119  | 531,97  | 161  | 732,72  | 203  | 933,44  | 245  | 1134,18  |
+| 78  | 336,95  | 120  | 536,75  | 162  | 737,49  | 204  | 938,24  | 246  | 1138,95  |
+| 79  | 341,27  | 121  | 541,53  | 163  | 742,26  | 205  | 942,99  | 247  | 1143,74  |
+| 80  | 345,58  | 122  | 546,31  | 164  | 747,05  | 206  | 947,79  | 248  | 1148,52  |
+| 81  | 350,35  | 123  | 551,10  | 165  | 751,82  | 207  | 952,57  | 249  | 1153,29  |
+| --- | --- | --- | --- | --- | --- | --- | --- | 250  | 1158,07  |
 
 #### *B. Puntenstelsel agrarische woningen* 
 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | *1 Vertrekken* (1)  | --- | --- | --- | --- | --- | --- | --- |
 | *Begane grond* (2)  | --- | --- | --- | --- | --- | --- | --- |
 | Woonkamer(s) (3)  | m x  | m =  | m <sup>2</sup> x  | pt  | pt  | --- | --- |
@@ -286,37 +284,37 @@ Bedragen in euro’s
 
 ####, behorend bij artikel 4, eerste lid , van de Uitvoeringsregeling pacht
 
-Hoogst toelaatbare pachtprijs voor de bedrijfsgebouwen 
+Hoogst toelaatbare pachtprijs per hectare voor de bedrijfsgebouwen 
 
 | Aard van het bedrijf  | Doelmatigheid  |--- | Nieuw  | Zeer goed  | Goed  | Redelijk  | Matig  | Slecht  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Akkerbouw  | € 446,–  | € 351,–  | € 268,–  | € 197,–  | € 137,–  | € 79,–  |
-| Melkvee  | € 1145,–  | € 901,–  | € 688,–  | € 505,–  | € 352,–  | € 202,–  |
-| Overig  | € 689,–  | € 543,–  | € 414,–  | € 304,–  | € 212,–  | € 122,–  |
+|---|---|---|---|---|---|---|---|---|
+| Akkerbouw  | € 455,–  | € 358,–  | € 273,–  | € 201,–  | € 140,–  | € 81,–  |
+| Melkvee  | € 1.168,–  | € 919,–  | € 702,–  | € 515,–  | € 359,–  | € 206,–  |
+| Overig  | € 703,–  | € 554,–  | € 422,–  | € 310,–  | € 216,–  | € 124,–  |
 
 ### Bijlage  3  
 
 ####, behorend bij artikel 5 
 
-####A. Besluit grondkamer Noordwest op grond van [artikel 395 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)
+####A. Besluit grondkamer Noordwest op grond van artikel 395 van Boek 7 van het Burgerlijk Wetboek
 
-Grondkamer Noordwest, Gelet op [artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), Besluit: 
+Grondkamer Noordwest, Gelet op artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek, Besluit: 
 
 #### *Artikel 1* 
 
-De in [artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) genoemde oppervlakte van 1 ha wordt voor de gehele provincie Noord-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in [artikel 312 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’.  
+De in artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek genoemde oppervlakte van 1 ha wordt voor de gehele provincie Noord-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in artikel 312 van Boek 7 van het Burgerlijk Wetboek wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’.  
 
 #### *Artikel 2* 
 
 Dit besluit treedt in werking op de tweede dag nadat het in de Nederlandse Staatscourant is bekendgemaakt. Aldus gedaan op woensdag 5 september 2007 ter zitting van de grondkamer Noordwest bestaande uit mr. J.H. Huijzer (voorzitter), D. Schenk en A.J.J. Lips (leden), in tegenwoordigheid van mr. G.J.M. Krekel (secretaris). w.g. De voorzitter, De secretaris,  
 
-####B. Besluit grondkamer Zuidwest op grond van [artikel 395 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)
+####B. Besluit grondkamer Zuidwest op grond van artikel 395 van Boek 7 van het Burgerlijk Wetboek
 
-Grondkamer Zuidwest, Gelet op [artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), Besluit: 
+Grondkamer Zuidwest, Gelet op artikel 395, tweede lid, van Boek 7 van het Burgerlijk Wetboek, Besluit: 
 
 #### *Artikel 1* 
 
-De in [artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) genoemde oppervlakte van 1 ha wordt voor de gehele provincie Zuid-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in [artikel 312 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’.  
+De in artikel 395, lid 1, van Boek 7 van het Burgerlijk Wetboek genoemde oppervlakte van 1 ha wordt voor de gehele provincie Zuid-Holland verlaagd tot 50 are voor de tak van bodemcultuur, welke in artikel 312 van Boek 7 van het Burgerlijk Wetboek wordt omschreven als ‘tuinbouw, daaronder begrepen fruitteelt en het kweken van bomen, bloemen en bloembollen’.  
 
 #### *Artikel 2.* 
 
@@ -339,7 +337,7 @@ Grondkamer: Verzoeknummer:
 ####Algemene gegevens
 
 | Verpachter:  |
-|:---|
+|---|
 | Pachter:  |
 | 1 <sup>e</sup> taxateur:  |
 | 2 <sup>e</sup> taxateur:  |
@@ -350,7 +348,7 @@ Grondkamer: Verzoeknummer:
 ####Land
 
 |--- | Perceel 1  | Perceel 2  | Perceel 3  | Perceel 4  | Perceel5  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Gemeente (voor pachtprijsgebied)  | --- | --- | --- | --- | --- |
 | Soort landbouwgrond (vermeld: tuinland of overig)  | ha  | ha  | ha  | ha  | ha  |
 | Totaal oppervlakte in ha (som van de percelen)  | ha  | --- | --- | --- | --- |
@@ -373,7 +371,7 @@ Grondkamer: Verzoeknummer:
 ####Woning
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Totale pachtprijs woning(en)  | €  |
 | Puntenstelsel agrarische bedrijfswoning bijvoegen  | --- |
 
@@ -382,7 +380,7 @@ Grondkamer: Verzoeknummer:
 ####Bedrijfsgebouwen
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Pachtprijs volgens hectareberekening  | €  |
 | Pachtprijs volgens artikel 17 Uitvoeringsregeling pacht (1)  | €  |
 | Pachtprijs overige bedrijfsgebouwen  | €  |
@@ -393,7 +391,7 @@ Grondkamer: Verzoeknummer:
 ####Totale pachtprijs
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Totale pachtprijs land, woningen en bedrijfsgebouwen  | €  |
 | Totaalbedrag bijzondere aftrek  | €  |
 | Totale pachtprijs  | €  |
@@ -403,7 +401,7 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 ####Omschrijving bij: 2 Land
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Perceel 1:  | kadastrale gegevens  |
 | --- | omschrijving  |
 | Perceel 2:  | kadastrale gegevens  |
@@ -418,13 +416,13 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 ####Omschrijving bij: 4 Bedrijfsgebouwen
 
 | --- |
-|:---|
+|---|
 | Omschrijving bedrijfsgebouwen (hectare-berekening):  |
 | --- |
 | Soort bedrijf:  |
 | Totale bedrijfsoppervlakte:  |
 | Voor welke oppervlakte geschikt?  |
-| Omschrijving bedrijfsgebouwen ([artikel 17 Pachtprijzenbesluit](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md)):  |
+| Omschrijving bedrijfsgebouwen (artikel 17 Pachtprijzenbesluit):  |
 | --- |
 | Omschrijving bedrijfsgebouwen (overig)  |
 | --- |
@@ -432,7 +430,7 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 ####Omschrijving bij: 5 Bedragen bijzondere aftrek
 
 |--- | Bedrag  | Toelichting  |
-|:---|:---|:---|
+|---|---|---|
 | Aftrek groot onderhoud <sup>1</sup>:  | €  | --- |
 | Aftrek opstalverzekeringspremie <sup>1</sup>:  | €  | --- |
 | Overige bijzondere aftrekbedragen:  | €  | --- |
@@ -451,7 +449,7 @@ Grondkamer: Verzoeknummer:
 ####Algemene gegevens
 
 | --- |
-|:---|
+|---|
 | Verpachter:  |
 | Pachter:  |
 | 1 <sup>e</sup> taxateur:  |
@@ -463,7 +461,7 @@ Grondkamer: Verzoeknummer:
 ####Land
 
 |--- | Perceel 1  | Perceel 2  | Perceel 3  | Perceel 4  | Perceel5  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Gemeente (voor pachtprijsgebied)  | --- | --- | --- | --- | --- |
 | Soort landbouwgrond (vermeld: tuinland of overig)  | ha  | ha  | ha  | ha  | ha  |
 | Totaal oppervlakte in ha (som van de percelen)  | ha  | ha  | ha  | ha  | ha  |
@@ -486,7 +484,7 @@ Grondkamer: Verzoeknummer:
 ####Woning
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Totale pachtprijs woning(en)  | €  |
 | Puntenstelsel agrarische bedrijfswoning bijvoegen  | --- |
 
@@ -495,20 +493,20 @@ Grondkamer: Verzoeknummer:
 ####Bedrijfsgebouwen
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Pachtprijs volgens hectareberekening  | €  |
 | Pachtprijs volgens artikel 17 Uitvoeringsregeling pacht <sup>1</sup>  | €  |
 | Pachtprijs overige bedrijfsgebouwen  | €  |
 | Totale pachtprijs bedrijfsgebouwen  | €  |
 
-<sup>1</sup> Berekening pachtprijs volgens [artikel 17 Pachtprijzenbesluit](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md) bijvoegen.  
+<sup>1</sup> Berekening pachtprijs volgens artikel 17 Pachtprijzenbesluit bijvoegen.  
 
 ### 5  
 
 ####Totale pachtprijs
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Totale pachtprijs land, woningen en bedrijfsgebouwen  | €  |
 | Totaalbedrag bijzondere aftrek  | €  |
 | Totale pachtprijs  | €  |
@@ -518,7 +516,7 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 ####Omschrijving bij: 2 Land
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Perceel 1:  | kadastrale gegevens:  |
 | --- | omschrijving:  |
 | Perceel 2:  | kadastrale gegevens:  |
@@ -533,13 +531,13 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 ####Omschrijving bij: 4 Bedrijfsgebouwen
 
 | --- |
-|:---|
+|---|
 | Omschrijving bedrijfsgebouwen (hectare-berekening):  |
 | --- |
 | Soort bedrijf:  |
 | Totale bedrijfsoppervlakte:  |
 | Voor welke oppervlakte geschikt?  |
-| Omschrijving bedrijfsgebouwen ([artikel 17 Pachtprijzenbesluit](../../../../AMvB/pachtprijzenbesluit/2007/BWBR0022448/README.md)):  |
+| Omschrijving bedrijfsgebouwen (artikel 17 Pachtprijzenbesluit):  |
 | --- |
 | Omschrijving bedrijfsgebouwen (overig):  |
 | --- |
@@ -547,7 +545,7 @@ Handtekening eerste taxateur Handtekening tweede taxateur
 ####Omschrijving bij: 5 Bedragen bijzondere aftrek
 
 |--- | Bedrag  | Toelichting  |
-|:---|:---|:---|
+|---|---|---|
 | Aftrek groot onderhoud <sup>1</sup>:  | €  | --- |
 | Aftrek opstalverzekeringspremie <sup>1</sup>:  | €  | --- |
 | Overige bijzondere aftrekbedragen:  | €  | --- |

@@ -43,7 +43,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 a. ingezetene is;  
 
-b. geen ingezetene is, maar wiens belastbare som als bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) geheel of nagenoeg geheel binnen de openbare lichamen Bonaire, Sint Eustatius of Saba aan de heffing van inkomstenbelasting of loonbelasting is onderworpen;  
+b. geen ingezetene is, maar wiens belastbare som als bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES geheel of nagenoeg geheel binnen de openbare lichamen Bonaire, Sint Eustatius of Saba aan de heffing van inkomstenbelasting of loonbelasting is onderworpen;  
 
 c. geen ingezetene is en evenmin geacht kan worden blijvend buiten de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen, doch terzake van buiten de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte arbeid wedde of loon geniet ten laste van de openbare lichamen Bonaire, Sint Eustatius of Saba, mits hij Nederlander is.     
 2.  Niet verzekerd is de vreemdeling, die niet geacht kan worden blijvend binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen en die terzake van binnen de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte arbeid wedde of loon geniet ten laste van een andere Mogendheid.   
@@ -72,28 +72,26 @@ Degene, die verzekerd is geweest en de leeftijd van 65 jaar heeft bereikt, heeft
 
 ### Artikel  7  
 
-1.  Het ouderdomspensioen bedraagt USD 365  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 555;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 582;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 558;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 555  per maand.   
-2.  Het pensioenbedrag, bedoeld in het eerste lid, wordt bij ministeriële regeling met ingang van elk kalenderjaar aangepast aan de ontwikkeling van het consumentenprijsindexcijfer.   
-3.  De aanpassing van het pensioenbedrag, bedoeld in het tweede lid, vindt plaats met ingang van de eerste dag van enig kalenderjaar op basis van de stijging die het consumentenprijsindexcijfer voor het derde kwartaal daaraan voorafgaande aangeeft ten opzichte van het consumentenprijsindexcijfer voor het derde kwartaal van het voorafgaande jaar. Onze Minister bepaalt welk consumentenprijsindexcijfer, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin wordt gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.   
+Het ouderdomspensioen bedraagt USD 365  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 567;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 609;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 575;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 567  per maand.  
 
 ### Artikel  7a  
 
-1.  Degene aan wie een ouderdomspensioen is toegekend en die gehuwd is met iemand die jonger is dan 65 jaar heeft recht op een toeslag van ten hoogste USD 250  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 380;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 399;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 382;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 380  per maand, voorzover het gezamenlijk inkomen niet meer dan USD 6.704  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 7233;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 7595;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 7281;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 7233  per 1 januari 2011: USD 6.830 per jaar bedraagt.   
+1.  Degene aan wie een ouderdomspensioen is toegekend en die gehuwd is met iemand die jonger is dan 65 jaar heeft recht op een toeslag van ten hoogste USD 250  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 389;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 417;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 394;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 389  per maand, voorzover het gezamenlijk inkomen niet meer dan USD 6.704  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 7399;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 7944;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 7499;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 7399  per jaar bedraagt.   
 2.  De toeslag wordt door Onze Minister betaalbaar gesteld aan degene met wie degene aan wie het ouderdomspensioen is toegekend, gehuwd is. De betaling geschiedt per kalendermaand.   
 3.  De toeslag eindigt: 
 
 a. wanneer degene met wie degene aan wie het ouderdomspensioen is toegekend, gehuwd is, de leeftijd van 65 jaar heeft bereikt;  
 
-b. bij ontbinding van het huwelijk in de gevallen, genoemd in [artikel 248 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md);  
+b. bij ontbinding van het huwelijk in de gevallen, genoemd in artikel 248 van het Burgerlijk Wetboek BES;  
 
 c. bij overlijden van degene aan wie het ouderdomspensioen is toegekend of van degene met wie degene aan wie het ouderdomspensioen is toegekend, gehuwd is;  
 
 d. bij intrekking van het pensioen of de toeslag;  
 
-e. wanneer het gezamenlijk inkomen, bedoeld in het eerste lid, meer dan USD 6.704  per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 7233;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 7595;   per 1 januari 2012 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 7281;   per 1 januari 2012 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 7233   
+e. wanneer het gezamenlijk inkomen, bedoeld in het eerste lid, meer dan USD 6.704  per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 7399;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 7944;   per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 7499;   per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 7399   
 
 per jaar bedraagt.     
-4.  Onder inkomen als bedoeld in het eerste lid en het derde lid, onderdeel e, wordt verstaan de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
+4.  Onder inkomen als bedoeld in het eerste lid en het derde lid, onderdeel e, wordt verstaan de belastbare som, bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES.   
 5.  De toeslag eindigt met ingang van de maand, volgende op die, waarin het feit of de omstandigheid, bedoeld in het derde lid, heeft plaatsgevonden , dan wel is ontstaan, die het einde van de toeslag ten gevolge heeft.   
 6.  De artikelen 12, 13, tweede tot en met vierde lid, 14, 15, 16, 18, 19, 22a tot en met 22c, 23, 34, 37, 44, eerste lid, 47 en 52 zijn van overeenkomstige toepassing op de toeslag.   
 7.  Op de toeslag wordt een korting toegepast van: 
@@ -102,7 +100,6 @@ a. 2% voor elk kalenderjaar dat degene die gehuwd is met de pensioengerechtigde,
 
 b. 3% voor elke jaarpremie op grond van deze wet, die degene die gehuwd is met de pensioengerechtigde schuldig nalatig is geweest te betalen.     
 8.  Artikel 20 is van overeenkomstige toepassing op de toeslag op grond van dit artikel met dien verstande dat bij overlijden van degene, met wie degene aan wie het ouderdomspensioen is toegekend, is gehuwd, een bedrag van viermaal het ouderdomspensioen, genoemd in artikel 7, eerste lid, wordt uitbetaald.   
-9.  De bedragen, bedoeld in artikel 7a, eerste en derde lid, onderdeel e, worden ingeval van aanpassing van het pensioenbedrag als bedoeld in artikel 7, tweede lid, op overeenkomstige wijze aangepast.   
 
 ### Artikel  7b  
 
@@ -113,10 +110,21 @@ b. 3% voor elke jaarpremie op grond van deze wet, die degene die gehuwd is met d
 
 ### Artikel  8  
 
-1.  Op het bedrag, bedoeld in artikel 7, eerste lid, wordt een korting toegepast van 2% voor elk kalenderjaar dat de pensioengerechtigde na het bereiken van de leeftijd van 15 jaar, doch voor het bereiken van de leeftijd van 65 jaar, niet verzekerd is geweest.   
-2.  Op het bedrag, genoemd in artikel 7, eerste lid, wordt een korting toegepast van 3% voor elke jaarpremie op grond van deze wet, die de pensioengerechtigde schuldig nalatig is geweest te betalen.   
+1.  Op het bedrag, bedoeld in artikel 7, wordt een korting toegepast van 2% voor elk kalenderjaar dat de pensioengerechtigde na het bereiken van de leeftijd van 15 jaar, doch voor het bereiken van de leeftijd van 65 jaar, niet verzekerd is geweest.   
+2.  Op het bedrag, genoemd in artikel 7, wordt een korting toegepast van 3% voor elke jaarpremie op grond van deze wet, die de pensioengerechtigde schuldig nalatig is geweest te betalen.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de herleiding van gedeelten van jaarpremies tot gehele jaarpremies en van gedeelten van kalenderjaren, bedoeld in het eerste en tweede lid, en artikel 7a, tot gehele kalenderjaren.   
 4.  Na de korting, bedoeld in het eerste en tweede lid, wordt het ouderdomspensioen afgerond op hele dollars.   
+
+### §  1a  
+
+####Aanpassing en herziening
+
+### Artikel  8a  
+
+1.  Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de artikelen 7 en 7a, eerste en derde lid, onderdeel e, genoemde bedragen, en tevens past hij de hoogte van de tegemoetkoming, bedoeld in artikel 7b, eerste lid, aan. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.   
+2.  Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kunnen de bedragen, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd. De bedragen, bedoeld in het eerste lid, kunnen door Onze Minister voor verschillende categorieën van huishoudens verschillend worden vastgesteld. Bij ministeriële regeling kunnen daartoe nadere regels worden vastgesteld. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.   
+3.  De overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde of vastgestelde bedragen treden in de plaats van de bedragen, genoemd in de artikelen 7 en 7a, eerste en derde lid, onderdeel e. De op grond van het eerste lid aangepaste hoogte van de tegemoetkoming, bedoeld in artikel 7b, eerste lid, treedt in de plaats van de eerder vastgestelde hoogte.   
+4.  Indien een wijziging als bedoeld in het tweede lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het tweede lid bedoelde ministeriële regeling.   
 
 ### §  2  
 
@@ -141,7 +149,7 @@ De aanvraag om ouderdomspensioen of om een verhoging van het ouderdomspensioen w
 1.  Het ouderdomspensioen wordt door Onze Minister ingetrokken of herzien, wanneer degene aan wie het is toegekend, ingevolge het op grond van deze wet bepaalde, daarvoor niet of niet of niet meer in aanmerking komt, dan wel voor een hoger of lager ouderdomspensioen in aanmerking komt.   
 2.  De herziening van het ouderdomspensioen, die voortvloeit uit een wijziging van de omstandigheden en die een verhoging van dit pensioen tot gevolg heeft, gaat in op de eerste dag van de maand, volgende op de maand waarin de wijziging van die omstandigheden heeft plaats gevonden. Het bepaalde in artikel 11, tweede lid, is van overeenkomstige toepassing.   
 3.  De intrekking van het ouderdomspensioen of de herziening daarvan, die een verlaging van dit pensioen tot gevolg heeft, gaat, behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen, in op de eerste dag van de maand, volgende op die, waarin de dag van de dagtekening van de kennisgeving op grond van artikel 37, eerste lid, onderdeel a, is gelegen.   
-4.  De herziening van het ouderdomspensioen in verband met artikel 7, derde lid, gaat, in afwijking van het bepaalde in het tweede en derde lid, in op de dag, met ingang waarvan op grond van artikel 7, derde lid, de in dat artikel genoemde bedragen van het ouderdomspensioen zijn herzien.   
+4.  De herziening van het ouderdomspensioen in verband met artikel 8a, eerste lid, gaat, in afwijking van het bepaalde in het tweede en derde lid, in op de dag, met ingang waarvan op grond van artikel 8a, eerste lid, de in artikel 7 genoemde bedragen van het ouderdomspensioen zijn herzien.   
 5.  Ter uitvoering van het bepaalde in dit artikel kunnen bij algemene maatregel van bestuur nadere voorschriften worden gegeven. Daarbij kunnen tevens nadere regels worden gesteld met betrekking tot schorsing en opschorting van de uitbetaling van het ouderdomspensioen.   
 
 ### Artikel  13  
@@ -216,6 +224,8 @@ c. behoudens voor zover dit dient tot verhaal van onderhoud, waartoe de gepensio
 
 ####Waarborg verplichtingen voortvloeiende uit deze Landsverordening
 
+Vervallen per 01-01-2011   
+
 ### §  6  
 
 ####Kerstuitkering
@@ -248,9 +258,9 @@ c. behoudens voor zover dit dient tot verhaal van onderhoud, waartoe de gepensio
 
 ### Artikel  26  
 
-1.  De premie ten behoeve van deze wet wordt geheven over het inkomen, met overeenkomstige toepassing van de [hoofdstukken V](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VI](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VII](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [IX van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), de [hoofdstukken III](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [VI van de Wet loonbelasting BES](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en de [hoofdstukken I](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [VII](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
-2.  Onder inkomen wordt verstaan: de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
-3.  Indien het inkomen meer bedraagt dan het in [artikel 24A, zevende lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) genoemde bedrag, wordt over dat meerdere geen premie geheven.   
+1.  De premie ten behoeve van deze wet wordt geheven over het inkomen, met overeenkomstige toepassing van de hoofdstukken V, VI, VII en IX van de Wet inkomstenbelasting BES, de hoofdstukken III en VI van de Wet loonbelasting BES en de hoofdstukken I, VII en VIII van de Belastingwet BES.   
+2.  Onder inkomen wordt verstaan: de belastbare som, bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES.   
+3.  Indien het inkomen meer bedraagt dan het in artikel 24A, zevende lid, van de Wet inkomstenbelasting BES genoemde bedrag, wordt over dat meerdere geen premie geheven.   
 
 ### Artikel  27  
 
@@ -272,13 +282,13 @@ Onze Minister is bevoegd, met inachtneming van het vastgestelde premiepercentage
 
 ### Artikel  29b  
 
-1.  Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven tijd is afgedragen kan de te weinig afgedragen premie door middel van een aanslag, op te leggen ten name van de werkgever, worden ingevorderd met overeenkomstige toepassing van [hoofdstuk VIII, titel 5, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). De werkgever is gerechtigd het nageheven bedrag te verhalen op zijn werknemer voor zover het bedrag betrekking heeft op van de werknemer ten onrechte niet ingehouden premie.   
+1.  Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven tijd is afgedragen kan de te weinig afgedragen premie door middel van een aanslag, op te leggen ten name van de werkgever, worden ingevorderd met overeenkomstige toepassing van hoofdstuk VIII, titel 5, van de Belastingwet BES. De werkgever is gerechtigd het nageheven bedrag te verhalen op zijn werknemer voor zover het bedrag betrekking heeft op van de werknemer ten onrechte niet ingehouden premie.   
 2.  Zo nodig in afwijking van het bepaalde in het eerste lid kan de in de aanslag inbegrepen premie bij wijze van boete worden verhoogd met ten hoogste honderd procent, maar tenminste met USD 14. De werkgever is niet gerechtigd deze boete op zijn werknemers te verhalen.   
 3.  Indien aan de verplichting opgelegd in artikel 29a, vijfde lid, niet wordt voldaan en ten gevolge daarvan de aanslag in zijn geheel moet worden verminderd, bedraagt de boete USD 14.   
 
 ### Artikel  30  
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 26 en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing.  
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 26 en de invordering daarvan hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing.  
 
 ### Hoofdstuk  V  
 
@@ -332,11 +342,11 @@ b. voor degene die in 2013 de leeftijd van 60 jaar bereikt, in die artikelen in 
 c. voor degene die in 2014 de leeftijd van 60 jaar bereikt, in die artikelen in plaats van «65 jaar» gelezen: 63 jaar;  
 
 d. voor degene die in 2015 de leeftijd van 60 jaar bereikt, in die artikelen in plaats van «65 jaar» gelezen: 64 jaar.     
-2.  De artikelen 7a, zevende lid, onderdeel a, en 8, eerste lid, zoals die luidden onmiddellijk voorafgaand aan inwerkingtreding van de [Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/aanpassingswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028129/README.md), blijven van toepassing op de pensioengerechtigde die voor 1 januari 2013 de leeftijd van 60 jaar heeft bereikt.   
+2.  De artikelen 7a, zevende lid, onderdeel a, en 8, eerste lid, zoals die luidden onmiddellijk voorafgaand aan inwerkingtreding van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba, blijven van toepassing op de pensioengerechtigde die voor 1 januari 2013 de leeftijd van 60 jaar heeft bereikt.   
 
 ### Artikel  40  
 
-1.  Degene, die voor 1 september 1960 de leeftijd van 15, doch nog niet die van 65 jaar heeft bereikt, en die – al dan niet onafgebroken – gedurende zes jaren na de voleindiging van zijn 54ste levensjaar in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius of Saba, Nederland, Suriname of Nederlands Nieuw-Guinea heeft gewoond, wordt voor wat betreft het tijdvak gelegen binnen het bereiken van de leeftijd van 15 jaar en het tijdstip van inwerking treden van deze wet voor de toepassing van het bepaalde in artikel 8, eerste en tweede lid, geacht verzekerd te zijn geweest. Voor de toepassing van het bepaalde in de vorige volzin wordt de gehuwde vrouw, die jonger is dan haar man, dan wel de echtgenoot van de gehuwde vrouw, bedoeld in artikel 7, tweede lid, geacht het 54ste levensjaar te hebben voleindigd op dezelfde dag als haar echtgenoot, dan wel zijn echtgenote.   
+1.  Degene, die voor 1 september 1960 de leeftijd van 15, doch nog niet die van 65 jaar heeft bereikt, en die – al dan niet onafgebroken – gedurende zes jaren na de voleindiging van zijn 54ste levensjaar in Aruba, Curaçao, Sint Maarten, de openbare lichamen Bonaire, Sint Eustatius of Saba, Nederland, Suriname of Nederlands Nieuw-Guinea heeft gewoond, wordt voor wat betreft het tijdvak gelegen binnen het bereiken van de leeftijd van 15 jaar en het tijdstip van inwerking treden van deze wet voor de toepassing van het bepaalde in artikel 8, eerste en tweede lid, geacht verzekerd te zijn geweest. Voor de toepassing van het bepaalde in de vorige volzin wordt de gehuwde vrouw, die jonger is dan haar man, dan wel de echtgenoot van de gehuwde vrouw, bedoeld in artikel 7a, tweede lid, geacht het 54ste levensjaar te hebben voleindigd op dezelfde dag als haar echtgenoot, dan wel zijn echtgenote.   
 2.  De gehuwde vrouw, die in tegenstelling tot haar echtgenoot voor of op de 1 september 1960 de leeftijd van 65 heeft bereikt, maar overigens voldoet aan de voorwaarden, van de eerste zin van het eerste lid wordt voor de toepassing van het bepaalde in artikel 8, eerste en tweede lid, gedurende het tijdvak, gelegen tussen de voleindiging van haar 15de en de voleindiging van haar 65ste levensjaar, geacht verzekerd te zijn geweest.   
 3.  Degene, die voldoet aan het bepaalde in de eerste volzin van het eerste lid, maar nooit op grond van deze wet verzekerd is geweest, wordt nochtans voor de toepassing van artikel 6 geacht verzekerd te zijn geweest.   
 
@@ -352,7 +362,7 @@ b. haar huwelijk plaatsvond nadat zowel zijzelf als haar echtgenoot recht op oud
 c. zij als kostwinster is aan te merken en haar echtgenoot de leeftijd van 65 jaar nog niet heeft bereikt.     
 3.  In afwijking van het bepaalde in artikel 11, eerste lid, gaat het op grond van dit artikel toegekende pensioen in op 1 september 1960.   
 4.  Ten aanzien van het bedrag van het op grond van dit artikel toegekende pensioen blijft artikel 8 buiten toepassing.   
-5.  Het bepaalde in artikel 7, tweede lid is van toepassing.   
+5.  Het bepaalde in artikel 8a, eerste en tweede lid is van toepassing.   
 
 ### Artikel  42  
 
@@ -416,7 +426,7 @@ Overtredingen van bepalingen van een op grond van deze wet vastgesteld algemene 
 
 ### Artikel  49  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de op grond van het eerste lid aangewezen functionarissen dienen te voldoen.   
 
 ### Artikel  50  

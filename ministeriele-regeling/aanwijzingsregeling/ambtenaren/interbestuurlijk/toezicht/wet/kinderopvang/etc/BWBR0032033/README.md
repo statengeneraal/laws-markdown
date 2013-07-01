@@ -5,20 +5,24 @@
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap;
 
-Gelet op [artikel 124e van de Gemeentewet](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md);
+Gelet op artikel 124e van de Gemeentewet;
 Besluit:    
 
 ### Artikel  1  
 
-De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs, genoemd in [artikel 2, eerste lid, van de Wet op het onderwijstoezicht](../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), worden aangewezen als ambtenaren die toezicht houden op de uitvoering van de aan het college van burgemeester en wethouders bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) opgedragen taken.  
+De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs, genoemd in artikel 2, eerste lid, van de Wet op het onderwijstoezicht, worden aangewezen als ambtenaren die toezicht houden op de uitvoering van de aan het college van burgemeester en wethouders bij of krachtens de Wet kinderopvang en kwaliteitseisen peuterspeelzalen opgedragen taken.  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 oktober 2012.  
+De vertrouwensinspecteurs, bedoeld in artikel 6, eerste lid, van de Wet op het onderwijstoezicht, worden aangewezen als deskundige als bedoeld in de artikelen 1.51b, eerste lid, en 2.9b, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.  
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht Wet kinderopvang en kwaliteitseisen peuterspeelzalen.  
+Deze regeling treedt in werking met ingang van 1 oktober 2012.  
+
+### Artikel  4  
+
+Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht en deskundigen Wet kinderopvang en kwaliteitseisen peuterspeelzalen.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 

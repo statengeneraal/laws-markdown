@@ -18,7 +18,7 @@ In deze wet wordt verstaan onder:
 
 1°. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-2°. de korpschef: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+2°. de korpschef: de korpschef, bedoeld in artikel 27 van de Politiewet 2012;  
 
 3°. vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door een loop af te schieten, waarvan de werking berust op het teweegbrengen van een scheikundige ontploffing of een andere scheikundige reactie;  
 
@@ -74,7 +74,7 @@ b. de lengte in opengevouwen toestand langer dan 28 cm is;
 
 6°. voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen, met uitzondering van medische hulpmiddelen en van vuurwapens in de vorm van geweren, revolvers en pistolen, bestemd voor het afschieten van munitie met weerloosmakende of traanverwekkende stof;  
 
-7°. voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing, met uitzondering van explosieven voor civiel gebruik indien met betrekking tot deze explosieven erkenning is verleend overeenkomstig de [Wet explosieven voor civiel gebruik](../../../../../../wet/wet/explosieven/voor/civiel/gebruik/BWBR0006803/README.md).    *Categorie III*  
+7°. voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing, met uitzondering van explosieven voor civiel gebruik indien met betrekking tot deze explosieven erkenning is verleend overeenkomstig de Wet explosieven voor civiel gebruik.    *Categorie III*  
 
 1°. vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie II sub 2°, 3° of 6°;  
 
@@ -124,7 +124,7 @@ c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de l
 
 1.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de krijgsmacht. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister van Defensie dit bij regeling heeft bepaald.   
 2.  De artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de politie. Zij zijn evenmin van toepassing op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, voor zover Onze Minister dit bij regeling heeft bepaald.   
-3.  De artikelen 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md) en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.   
+3.  De artikelen 13, eerste lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, 27, eerste lid, 32a, eerste lid, en 32b, eerste lid, zijn niet van toepassing op de overige openbare dienst en op personen die daarvan deel uitmaken of daarvoor werkzaam zijn, daaronder begrepen opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in artikel 2 van de Wet op de bijzondere opsporingsdiensten en buitengewone opsporingsambtenaren, voor zover Onze Minister dit bij regeling heeft bepaald.   
 4.  Voor de toepassing van dit artikel wordt onder krijgsmacht, politie en overige openbare dienst mede verstaan niet-Nederlandse krijgsmacht, politie of openbare dienst.   
 
 ### Artikel  4  
@@ -145,7 +145,7 @@ f. monster-, demonstratie- of testmateriaal en rekwisieten;
 
 g. noodsignaalmiddelen en de daarvoor bestemde munitie.     
 2.  Onze Minister beslist binnen dertien weken op het verzoek tot ontheffing.   
-3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek tot ontheffing.   
+3.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een verzoek tot ontheffing.   
 
 ### Artikel  5  
 
@@ -206,7 +206,7 @@ f. wanneer daartoe dringende, aan het algemeen belang ontleende, redenen bestaan
 a. wapens van categorie IV;  
 
 b. het vervaardigen of transformeren van munitie door personen die bevoegd zijn een wapen of munitie voorhanden te hebben.     
-6.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek tot erkenning of een verzoek tot het verlengen van een erkenning.   
+6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een verzoek tot erkenning of een verzoek tot het verlengen van een erkenning.   
 
 ### Artikel  10  
 
@@ -244,7 +244,8 @@ b. onderwijs ten behoeve van de krijgsmacht, de politie en de overige openbare d
 
 c. doorvoer van wapens of munitie.     
 3.  Op een ontheffing met het oog op doorvoer is artikel 20, tweede en derde lid, van overeenkomstige toepassing.   
-4.  Het eerste lid is niet van toepassing op het doen uitgaan van een wapen van categorie I, indien op basis van [artikel 6 van het Besluit strategische goederen](../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md) geen vergunning voor het uitvoeren van militaire goederen uit Nederland is vereist.   
+4.  Het eerste lid is niet van toepassing op het doen uitgaan van een wapen van categorie I, indien op basis van artikel 6 van het Besluit strategische goederen geen vergunning voor het uitvoeren van militaire goederen uit Nederland is vereist.   
+5.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op een verzoek tot ontheffing.   
 
 ### §  4  
 
@@ -263,11 +264,11 @@ b. doorvoer van wapens of munitie;
 
 c. de uitrusting van vaartuigen en luchtvaartuigen, alsmede van de bemanning daarvan.   Geen vrijstelling kan worden verleend ten aanzien van het, anders dan tijdelijk, doen uitgaan van wapens en munitie naar een lid-staat van de Europese Gemeenschappen.   
 5.  De houder van een in Nederland afgegeven consent of van een in een andere lid-staat van de Europese Gemeenschappen afgegeven vergunning voor het doen binnenkomen, doorvoeren of doen uitgaan van wapens of munitie, is verplicht de wapens en munitie tot aan de bestemming, respectievelijk het verlaten van het grondgebied van Nederland, te doen vergezellen van het consent of de vergunning.   
-6.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een verzoek om een consent.   
+6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een verzoek om een consent.   
 
 ### Artikel  15  
 
-Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen dat op grond van de [Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md) afgegeven vergunningen tevens gelden als consent in de zin van artikel 14.  
+Onze Minister kan, na overleg met Onze Minister van Economische Zaken, bepalen dat op grond van de Algemene douanewet afgegeven vergunningen tevens gelden als consent in de zin van artikel 14.  
 
 ### Artikel  16  
 
@@ -308,7 +309,7 @@ b. een redelijk belang de verlening van het verlof vordert.
 
 a. een verlof als bedoeld in artikel 28, eerste lid, van de wet, voor zover dit verlof reikt; of  
 
-b. een jachtakte als bedoeld in de [Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voor wat betreft voor de jacht en beheer en schadebestrijding bestemde wapens en munitie van categorie III, die in de jachtakte zijn omschreven.     
+b. een jachtakte als bedoeld in de Flora- en faunawet, voor wat betreft voor de jacht en beheer en schadebestrijding bestemde wapens en munitie van categorie III, die in de jachtakte zijn omschreven.     
 3.  Onze Minister kan bij regeling vrijstelling van het verbod van het eerste lid voor wapens of munitie van categorie III verlenen met betrekking tot jagers en sportschutters, die hun vaste woon- of verblijfplaats buiten Nederland hebben.   
 4.  Onze Minister kan ten aanzien van de personen bedoeld in het tweede lid regels vaststellen met betrekking tot: 
 
@@ -451,7 +452,7 @@ b. in de overige gevallen door de aanvrager, dan wel de houder van de erkenning,
 
 1.  Onze Minister kan regels vaststellen over de door de korpschef bij de uitvoering van deze wet te voeren administratie.   
 2.  Bij de uitvoering van deze wet volgen de korpschef en de Belastingdienst/Douane centrale dienst voor in- en uitvoer de aanwijzingen van Onze Minister.   
-3.  [Artikel 10:22, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+3.  Artikel 10:22, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 
 ### Artikel  39  
 
@@ -478,14 +479,14 @@ Onze Minister geeft regels met betrekking tot het bedrag dat is verschuldigd bij
 
 1.  Met het toezicht op de naleving van het bij en krachtens deze wet bepaalde zijn belast: 
 
-1e. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren;  
+1e. de bij of krachtens artikel 141 van het Wetboek van Strafvordering aangewezen ambtenaren;  
 
-2e. de bij of krachtens [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen buitengewone opsporingsambtenaren;  
+2e. de bij of krachtens artikel 142, eerste lid, van het Wetboek van Strafvordering aangewezen buitengewone opsporingsambtenaren;  
 
 3e. de bij besluit van Onze Minister, in overeenstemming met Onze Minister van Verkeer en Waterstaat, aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat.     
 2.  Van een besluit als bedoeld in het eerste lid, onderdeel 2, wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
-3.  De toezichthouder beschikt slechts over de in [artikel 5:18, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde bevoegdheid voorzover het betreft het openen van verpakkingen in het kader van het onderzoek van ladingen.   
-4.  De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  De toezichthouder beschikt slechts over de in artikel 5:18, tweede lid, van de Algemene wet bestuursrecht bedoelde bevoegdheid voorzover het betreft het openen van verpakkingen in het kader van het onderzoek van ladingen.   
+4.  De toezichthouder beschikt niet over de bevoegdheid, genoemd in artikel 5:19 van de Algemene wet bestuursrecht.   
 
 ### §  11a  
 
@@ -493,11 +494,11 @@ Onze Minister geeft regels met betrekking tot het bedrag dat is verschuldigd bij
 
 ### Artikel  49  
 
-De bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, ter inbeslagneming doorzoeking doen.  
+De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, ter inbeslagneming doorzoeking doen.  
 
 ### Artikel  50  
 
-1.  De bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) aangewezen ambtenaren zijn bevoegd te vorderen dat de verpakking van goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe redelijkerwijs aanleiding bestaat op grond van: 
+1.  De opsporingsambtenaren zijn bevoegd te vorderen dat de verpakking van goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe redelijkerwijs aanleiding bestaat op grond van: 
 
 a. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;  
 
@@ -505,12 +506,12 @@ b. een gepleegde overtreding van de artikelen 13, 26 of  27;
 
 c. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.     
 2.  De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat. De officier van justitie kan gelasten dat deze bevoegdheid tegenover een ieder kan worden uitgeoefend.   
-3.  In gebieden die overeenkomstig [artikel 151b, eerste lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), door de burgemeester als veiligheidsrisicogebied zijn aangewezen kan de officier van justitie gelasten dat tegenover een ieder de bevoegdheid kan worden uitgeoefend om verpakkingen van goederen, met inbegrip van reisbagage, te onderzoeken op wapens of munitie. Het bevel bevat een omschrijving van het aangewezen gebied en de geldigheidsduur die niet langer dan twaalf uur mag bedragen. Het bevel bevat voorts de feiten en omstandigheden, op grond waarvan de toepassing van de bevoegdheid om de verpakking van goederen, met inbegrip van reisbagage, te onderzoeken op wapens of munitie noodzakelijk wordt geacht.   
-4.  Indien geen medewerking wordt verleend, kunnen de in het eerste lid bedoelde ambtenaren, op kosten en risico van de houder van de goederen, in het nodige voorzien.   
+3.  In gebieden die overeenkomstig artikel 151b, eerste lid, van de Gemeentewet, door de burgemeester als veiligheidsrisicogebied zijn aangewezen kan de officier van justitie gelasten dat tegenover een ieder de bevoegdheid kan worden uitgeoefend om verpakkingen van goederen, met inbegrip van reisbagage, te onderzoeken op wapens of munitie. Het bevel bevat een omschrijving van het aangewezen gebied en de geldigheidsduur die niet langer dan twaalf uur mag bedragen. Het bevel bevat voorts de feiten en omstandigheden, op grond waarvan de toepassing van de bevoegdheid om de verpakking van goederen, met inbegrip van reisbagage, te onderzoeken op wapens of munitie noodzakelijk wordt geacht.   
+4.  Indien geen medewerking wordt verleend, kunnen de opsporingsambtenaren, op kosten en risico van de houder van de goederen, in het nodige voorzien.   
 
 ### Artikel  51  
 
-1.  De bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van: 
+1.  De opsporingsambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van: 
 
 een gepleegd strafbaar feit waarbij wapens zijn gebruikt;  
 
@@ -518,21 +519,21 @@ een gepleegde overtreding van de artikelen 13, 26 of  27;
 
 aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.     
 2.  De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend ten aanzien van bepaalde vervoermiddelen, indien daartoe jegens deze aanleiding bestaat. De officier van justitie kan gelasten dat deze bevoegdheid tegenover elk vervoermiddel kan worden uitgeoefend.   
-3.  In gebieden die overeenkomstig [artikel 151b, eerste lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), door de burgemeester als veiligheidsrisicogebied zijn aangewezen kan de officier van justitie gelasten dat tegenover een ieder de bevoegdheid kan worden uitgeoefend om vervoermiddelen te onderzoeken op wapens of munitie. Het bevel bevat een omschrijving van het aangewezen gebied en de geldigheidsduur die niet langer dan twaalf uur mag bedragen. Het bevel bevat voorts de feiten en omstandigheden, op grond waarvan de toepassing van de bevoegdheid vervoermiddelen te onderzoeken op wapens of munitie noodzakelijk wordt geacht.   
-4.  De in het eerste lid bedoelde ambtenaren kunnen van de bestuurders van voertuigen en van de schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot stilstand brengen, deze vervoermiddelen naar een door hen aangewezen plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking verlenen.   
+3.  In gebieden die overeenkomstig artikel 151b, eerste lid, van de Gemeentewet, door de burgemeester als veiligheidsrisicogebied zijn aangewezen kan de officier van justitie gelasten dat tegenover een ieder de bevoegdheid kan worden uitgeoefend om vervoermiddelen te onderzoeken op wapens of munitie. Het bevel bevat een omschrijving van het aangewezen gebied en de geldigheidsduur die niet langer dan twaalf uur mag bedragen. Het bevel bevat voorts de feiten en omstandigheden, op grond waarvan de toepassing van de bevoegdheid vervoermiddelen te onderzoeken op wapens of munitie noodzakelijk wordt geacht.   
+4.  De opsporingsambtenaren kunnen van de bestuurders van voertuigen en van de schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot stilstand brengen, deze vervoermiddelen naar een door hen aangewezen plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking verlenen.   
 
 ### Artikel  52  
 
-1.  De bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.   
-2.  De in het eerste lid bedoelde ambtenaren zijn bevoegd personen aan hun kleding te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van: 
+1.  De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.   
+2.  De opsporingsambtenaren zijn bevoegd personen aan hun kleding te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van: 
 
 een gepleegd strafbaar feit waarbij wapens zijn gebruikt;  
 
 een gepleegde overtreding van de artikelen 13, 26 of  27;  
 
 aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.     
-3.  In gebieden die overeenkomstig [artikel 151b, eerste lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), door de burgemeester als veiligheidsrisicogebied zijn aangewezen kan de officier van justitie gelasten dat tegenover een ieder de bevoegdheid kan worden uitgeoefend om hem aan zijn kleding te onderzoeken op de aanwezigheid van wapens of munitie. Het bevel bevat een omschrijving van het aangewezen gebied en de geldigheidsduur die niet langer dan twaalf uur mag bedragen. Het bevel bevat voorts de feiten en omstandigheden, op grond waarvan de toepassing van de bevoegdheid om een ieder aan zijn kleding te onderzoeken op wapens of munitie noodzakelijk wordt geacht.   
-4.  De bedoelde ambtenaren alsmede andere daartoe door Onze Minister aangewezen personen zijn bevoegd een persoon die zich bevindt op een bij regeling van Onze Minister aangewezen luchthaven, te allen tijde aan zijn kleding en de verpakking van goederen, met inbegrip van reisbagage, alsmede diens vervoermiddel, te onderzoeken.   
+3.  In gebieden die overeenkomstig artikel 151b, eerste lid, van de Gemeentewet, door de burgemeester als veiligheidsrisicogebied zijn aangewezen kan de officier van justitie gelasten dat tegenover een ieder de bevoegdheid kan worden uitgeoefend om hem aan zijn kleding te onderzoeken op de aanwezigheid van wapens of munitie. Het bevel bevat een omschrijving van het aangewezen gebied en de geldigheidsduur die niet langer dan twaalf uur mag bedragen. Het bevel bevat voorts de feiten en omstandigheden, op grond waarvan de toepassing van de bevoegdheid om een ieder aan zijn kleding te onderzoeken op wapens of munitie noodzakelijk wordt geacht.   
+4.  De opsporingsambtenaren alsmede andere daartoe door Onze Minister aangewezen personen zijn bevoegd een persoon die zich bevindt op een bij regeling van Onze Minister aangewezen luchthaven, te allen tijde aan zijn kleding en de verpakking van goederen, met inbegrip van reisbagage, alsmede diens vervoermiddel, te onderzoeken.   
 5.  Onze Minister wijst een luchthaven met toepassing van het vierde lid slechts aan indien dat naar zijn oordeel met het oog op de veiligheid nodig is.   
 
 ### §  12  
@@ -553,7 +554,7 @@ a. hij die handelt in strijd met de artikelen 9, eerste lid, 14, eerste lid, 26,
 
 b. hij die handelt in strijd met de artikelen 13, eerste lid, of 26, eerste lid, aan boord van een luchtvaartuig of op een luchthaven, aangewezen krachtens artikel 52, vierde lid.     
 4.  Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt gestraft: hij die handelt in strijd met de artikelen 9, eerste lid, 13, eerste lid, 14, eerste lid, 26, eerste lid, of  31, eerste lid, en van het in strijd met de wet vervaardigen, transformeren, uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens of munitie een beroep of een gewoonte maakt.   
-5.  Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt eveneens gestraft hij die handelt in strijd met artikel 9, eerste lid, 13, eerste lid, 14, eerste lid, 26, eerste lid, of  31, eerste lid, indien het feit begaan is met een terroristisch oogmerk als bedoeld in [artikel 83a van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in [artikel 83 van dat wetboek](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) voor te bereiden of gemakkelijk te maken.   
+5.  Met gevangenisstraf van ten hoogste acht jaar of geldboete van de vijfde categorie wordt eveneens gestraft hij die handelt in strijd met artikel 9, eerste lid, 13, eerste lid, 14, eerste lid, 26, eerste lid, of  31, eerste lid, indien het feit begaan is met een terroristisch oogmerk als bedoeld in artikel 83a van het Wetboek van Strafrecht dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in artikel 83 van dat wetboek voor te bereiden of gemakkelijk te maken.   
 6.  Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft hij die handelt in strijd met de artikelen 32a, eerste, tweede of derde lid, of 32b.   
 
 ### Artikel  56  

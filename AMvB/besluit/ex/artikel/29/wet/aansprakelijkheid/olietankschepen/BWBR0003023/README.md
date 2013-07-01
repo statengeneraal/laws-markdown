@@ -6,7 +6,7 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat, gedaan na overleg met Onze Minister van Justitie en de Staatssecretaris van Financiën, van 30 januari 1976, no. J/S 20383, Directoraat-Generaal van Scheepvaart;
 
-Gelet op [artikel 29 van de Wet aansprakelijkheid olietankschepen](../../../../../../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md) (*Stb.* 1975, 321);
+Gelet op artikel 29 van de Wet aansprakelijkheid olietankschepen (*Stb.* 1975, 321);
 
 De Raad van State gehoord (advies van 11 februari 1976, nr. 9);
 
@@ -15,17 +15,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De geldigheidsduur van een certificaat als bedoeld in [artikel 15 van de Wet aansprakelijkheid olietankschepen](../../../../../../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md), kan op verzoek van de eigenaar van het schip worden verlengd, doch ten hoogste viermaal achtereenvolgend.  
+De geldigheidsduur van een certificaat als bedoeld in artikel 15 van de Wet aansprakelijkheid olietankschepen, kan op verzoek van de eigenaar van het schip worden verlengd, doch ten hoogste viermaal achtereenvolgend.  
 
 ### Artikel  2  
 
 1.  Voor de kosten van de aanvraag en de afgifte, waarmerking of verlenging van de geldigheidsduur van een certificaat of een bewijs van financiële zekerheid als bedoeld in de hierna genoemde artikelen is de eigenaar van het schip een vergoeding verschuldigd: 
 
-a. [artikel 15 van de Wet aansprakelijkheid olietankschepen](../../../../../../../../../wet/wet/aansprakelijkheid/kernongevallen/BWBR0003234/README.md);  
+a. artikel 15 van de Wet aansprakelijkheid olietankschepen;  
 
-b. [artikel 647 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md).     
+b. artikel 647 van Boek 8 van het Burgerlijk Wetboek.     
 2.  De tarieven ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.   
 3.  In de regeling, bedoeld in het tweede lid, kan worden bepaald dat de vergoeding van kosten voorafgaand aan de behandeling van de aanvraag en de afgifte, waarmerking of verlenging van de geldigheidsduur van certificaten of bewijs van financiële zekerheid wordt betaald.   
+
+### Artikel  3  
+
+Voor de afgifte of waarmerking van een certificaat als bedoeld in artikel 529c, eerste lid, van Boek 8 van het Burgerlijk Wetboek is een tarief verschuldigd van € 129.  
 
 ### Artikel  4  
 

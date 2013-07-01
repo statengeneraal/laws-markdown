@@ -120,19 +120,20 @@ c. de alleenstaande gewezen zelfstandige zonder kinderen.
 
 2°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige bedroeg de laatste drie boekjaren gemiddeld minder dan ƒ 36 800 per 1 juli 2012: € 21.144,00 per jaar;  
 
-3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 januari 2013: € 22.952,00 per jaar bedragen; en  
+3°. het inkomen uit arbeid of overig inkomen van de gewezen zelfstandige zou bij voortzetting van het bedrijf of beroep naar verwachting duurzaam minder dan ƒ 36 800 per 1 juli 2013: € 23.095,00 per jaar bedragen; en  
 
 4°. de aanvraag is ingediend voor het beëindigen van het bedrijf of beroep en de beëindiging heeft plaatsgevonden binnen een periode van anderhalf jaar, volgend op het tijdstip van aanvraag.     
 3.  Het recht op uitkering komt de gewezen zelfstandige en de echtgenoot gezamenlijk toe. De uitkering wordt aan de gewezen zelfstandige en de echtgenoot ieder voor de helft uitbetaald, dan wel op hun gezamenlijk verzoek aan een van hen voor het geheel.   
 4.  De grondslag bedoeld in het eerste lid, wordt door Onze Minister zodanig vastgesteld dat voor: 
 
-a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 660,98;  
+a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 661,77;  
 
-b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.189,76;  
+b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.191,18;  
 
-c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 925,37.     
+c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 926,47.     
 5.  Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.   
-6.  De in het vierde lid genoemde bedragen worden gewijzigd met ingang van de dag waarop het netto minimumloon wijzigt met het percentage van deze wijziging.   
+6.  De in het vierde lid genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
+7.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant.   
 
 ### Artikel  5a  
 
@@ -153,7 +154,9 @@ d. rechtens zijn vrijheid is ontnomen;
 
 e. zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel;  
 
-f. onbetaald verlof geniet als bedoeld in [artikel 1, onderdeel g, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of die met die persoon gehuwd is, ter hoogte van het bedrag van het verlies van inkomen uit arbeid als gevolg van het genieten van dat verlof, tenzij belanghebbende alleenstaande ouder is en hij verlof geniet als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).     
+f. onbetaald verlof geniet als bedoeld in [artikel 1, onderdeel g, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of die met die persoon gehuwd is, ter hoogte van het bedrag van het verlies van inkomen uit arbeid als gevolg van het genieten van dat verlof, tenzij belanghebbende alleenstaande ouder is en hij verlof geniet als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](../../../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md);  
+
+g. die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt.     
 3.  Geen recht op uitkering heeft de echtgenoot, indien ten aanzien van deze, dan wel ten aanzien van de gewezen zelfstandige zich een omstandigheid voordoet als omschreven in het tweede lid. Indien zich ten aanzien van de echtgenoot een omstandigheid voordoet als omschreven in het tweede lid, onderdelen b, c, d en e, wordt de gewezen zelfstandige aangemerkt als alleenstaande.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat hier te lande verblijvende vreemdelingen, anders dan die bedoeld in [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) recht op uitkering hebben, onverminderd de overige vereisten voor dat recht: 
 
@@ -174,13 +177,13 @@ a. voor de gewezen zelfstandige en de echtgenoot: de som van het inkomen uit arb
 
 b. voor de alleenstaande gewezen zelfstandige: zijn inkomen uit arbeid of overig inkomen.     
 2.  Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2013: € 127.400,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.   
-3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 januari 2013: € 299,54 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
+3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04 per 1 juli 2013: € 299,52 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 4.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid en in artikel 5, tweede lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
 5.  Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 6.  Onze Minister herziet het percentage, bedoeld in het tweede lid, zodra de rente-ontwikkeling daartoe aanleiding geeft.   
 7.  Onze Minister stelt regels met betrekking tot de waardering van het vermogen, bedoeld in het tweede lid.   
 8.  Onze Minister herziet het bedrag, genoemd in het derde lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in [artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) genoemde bedrag daartoe aanleiding geeft.   
-9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 januari 2013: € 196,34 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
+9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 juli 2013: € 198,14 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
 
@@ -379,7 +382,8 @@ De persoon van wie wordt teruggevorderd is verplicht desgevraagd aan het college
 
 a. is het college, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
-b. geldt de beslagvrije voet, bedoeld in de artikelen [475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij invordering van de onverschuldigd betaalde uitkering bij dwangbevel.     
+b. geldt de beslagvrije voet, bedoeld in de artikelen [475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij invordering van de onverschuldigd betaalde uitkering en de bestuurlijke boete bij dwangbevel.     
+7.  Onverminderd het eerste tot en met het zesde lid kan het college een vordering die een belanghebbende op hem heeft, verrekenen met een vordering als bedoeld in artikel 25, eerste lid.   
 
 ### Artikel  29  
 
@@ -388,7 +392,9 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen [475c tot en met 475e van 
 3.  Het eerste lid is van overeenkomstige toepassing bij de betaling, bedoeld in artikel 28, vierde lid, van de bestuurlijke boete, bedoeld in artikel 20a, vijfde lid, door een andere gemeente dan de gemeente waarvan het college de bestuurlijke boete heeft opgelegd met dien verstande dat het college van die andere gemeente de bevoegdheid heeft op verzoek van de belanghebbende bij de verrekening de beslagvrije voet in acht te nemen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  Artikel 28, tweede lid, en het eerste tot en met derde lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete, bedoeld in artikel 20a, eerste lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 5.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van de artikelen 28, tweede en vierde lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-6.  Indien als gevolg van de verrekening, bedoeld in het eerste en vierde lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+6.  Indien als gevolg van de verrekening, bedoeld in het eerste en vierde lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+7.  Voor de toepassing van het zesde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+8.  Het vrijgelaten deel, bedoeld in het zesde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.   
 
 ### Artikel  29a  
 
@@ -676,7 +682,7 @@ Ten behoeve van de kosten van voorzieningen als bedoeld in artikel 34, eerste li
 
 ### Artikel  60  
 
-Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt met een besluit gelijkgesteld het nalaten van een handeling die strekt tot uitvoering van het besluit inzake de verlening of terugvordering van de uitkering of het verrichten van een handeling die afwijkt van dat besluit.  
+Voor de toepassing van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt met een besluit gelijkgesteld het nalaten van een handeling die strekt tot uitvoering van het besluit inzake de verlening of terugvordering van de uitkering of het verrichten van een handeling die afwijkt van dat besluit.  
 
 ### Artikel  60b  
 

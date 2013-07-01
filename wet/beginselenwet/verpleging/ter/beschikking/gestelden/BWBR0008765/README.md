@@ -22,9 +22,9 @@ b. inrichting voor verpleging van ter beschikking gestelden: een inrichting als 
 
 c. particuliere inrichting: een inrichting als bedoeld in [artikel 90quinquies, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), in samenhang met [artikel 37d, eerste lid, onder a, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
 
-d. inrichting: een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in artikel 90quinquies, tweede lid, van het Wetboek van Strafrecht;  
+d. inrichting: een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in [artikel 90quinquies, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
 
-e. rijksinrichting: een inrichting als bedoeld in artikel 90quinquies, tweede lid, in samenhang met [artikel 37d, eerste lid, onder b, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+e. rijksinrichting: een inrichting als bedoeld in [artikel 90quinquies, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), in samenhang met [artikel 37d, eerste lid, onder b, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
 
 f. justitiële particuliere inrichting: een inrichting als bedoeld in [artikel 90quinquies, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), in samenhang met [artikel 37d, eerste lid, onder a, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
 
@@ -54,27 +54,49 @@ r. beklagcommissie: een commissie als bedoeld in artikel 59, eerste lid;
 
 s. bestuur: het bestuur van de rechtspersoon die een justitiële particuliere inrichting beheert;  
 
-t. verpleging: het samenstel van handelingen, gericht op: 
+t. gevaar: 
+
+1. gevaar voor de verpleegde, die het veroorzaakt, hetgeen onder meer bestaat uit: 
+
+a. het gevaar dat de verpleegde zich van het leven zal beroven of zichzelf ernstig lichamelijk letsel zal toebrengen;  
+
+b. het gevaar dat de verpleegde maatschappelijk te gronde gaat;  
+
+c. het gevaar dat de verpleegde zichzelf in ernstige mate zal verwaarlozen;  
+
+d. het gevaar dat de verpleegde met hinderlijk gedrag agressie van anderen zal oproepen.    
+
+2. gevaar voor een of meer anderen, hetgeen onder meer bestaat uit: 
+
+a. het gevaar dat verpleegde een ander van het leven zal beroven of hem ernstig lichamelijk letsel zal toebrengen;  
+
+b. het gevaar voor de psychische gezondheid van een ander;  
+
+c. het gevaar dat de verpleegde een ander, die aan zijn zorg is toevertrouwd, zal verwaarlozen.    
+
+3. gevaar voor de algemene veiligheid van personen of goederen;    
+
+u. verpleging: het samenstel van handelingen, gericht op: 
 
 1°. de bescherming van de maatschappij tegen de gevaarlijkheid van de verpleegde voor de veiligheid van anderen dan de verpleegde of de algemene veiligheid van personen of goederen, en  
 
 2°. de verzorging van de verpleegde tijdens de tenuitvoerlegging van de vrijheidsbenemende straf of maatregel, waaronder begrepen het doen van een aanbod aan de verpleegde tot en het bevorderen en vergemakkelijken van zijn behandeling;    
 
-u. behandeling: het samenstel van handelingen, gericht op een dusdanige vermindering van de uit de stoornis van de geestvermogens voortvloeiende gevaarlijkheid van de verpleegde voor de veiligheid van anderen dan de verpleegde of de algemene veiligheid van personen of goederen dat het doen terugkeren van de verpleegde in de maatschappij verantwoord is;  
+v. behandeling: het samenstel van handelingen, gericht op een dusdanige vermindering van de uit de stoornis van de geestvermogens voortvloeiende gevaarlijkheid van de verpleegde voor de veiligheid van anderen dan de verpleegde of de algemene veiligheid van personen of goederen dat het doen terugkeren van de verpleegde in de maatschappij verantwoord is;  
 
-v. verplegings- en behandelingsplan: een plan als bedoeld in artikel 16, eerste lid, zoals dat ten aanzien van een verpleegde wordt toegepast;  
+w. verplegings- en behandelingsplan: een plan als bedoeld in artikel 16, eerste lid, zoals dat ten aanzien van een verpleegde wordt toegepast;  
 
-w. verpleegdedossier: een dossier als bedoeld in artikel 19, eerste lid;  
+x. verpleegdedossier: een dossier als bedoeld in artikel 19, eerste lid;  
 
-x. evaluatieverslag: een verslag als bedoeld in artikel 18, tweede lid;  
+y. evaluatieverslag: een verslag als bedoeld in artikel 18, tweede lid;  
 
-y. persoonlijke verblijfsruimte: de verblijfsruimte als bedoeld in artikel 16, eerste lid;  
+z. persoonlijke verblijfsruimte: de verblijfsruimte als bedoeld in artikel 16, eerste lid;  
 
-z. afzondering: het insluiten van een verpleegde in een gangbare woon- of verblijfsruimte, de persoonlijke verblijfsruimte daaronder begrepen, in afwijking van de in de inrichting geldende regels;  
+aa. afzondering: het insluiten van een verpleegde in een gangbare woon- of verblijfsruimte, de persoonlijke verblijfsruimte daaronder begrepen, in afwijking van de in de inrichting geldende regels;  
 
-aa. separatie: het insluiten van een verpleegde in een speciale voor separatie bestemde verblijfsruimte;  
+bb. separatie: het insluiten van een verpleegde in een speciale voor separatie bestemde verblijfsruimte;  
 
-bb. huisregels: regels als bedoeld in artikel 7, eerste lid.    
+cc. huisregels: regels als bedoeld in artikel 7, eerste lid.    
 
 ### HOOFDSTUK  II  
 
@@ -148,9 +170,11 @@ b. de separatie of de verlenging van de separatie als bedoeld in artikel 34;
 
 c. een beperking van het recht op onaantastbaarheid van het lichaam als bedoeld in de artikelen 25 tot en met 28;  
 
-d. de beslissingen met betrekking tot de onderbrenging van een kind in de inrichting als bedoeld in artikel 47;  
+d. de beslissing tot het verrichten van geneeskundige behandeling als bedoeld in artikel 16b, onder a of b;  
 
-e. de beslissingen met betrekking tot disciplinaire straffen als bedoeld in de artikelen 48 en 49.     
+e. de beslissingen met betrekking tot de onderbrenging van een kind in de inrichting als bedoeld in artikel 47;  
+
+f. de beslissingen met betrekking tot disciplinaire straffen als bedoeld in de artikelen 48 en 49.     
 5.  Aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden zijn voorbehouden: 
 
 a. de voorlopige overplaatsing als bedoeld in artikel 14, tweede lid;  
@@ -163,6 +187,14 @@ c. de hoorplicht als bedoeld in artikel 53 en de mededelingsplicht als bedoeld i
 
 1.  Het hoofd van de inrichting voor verpleging van ter beschikking gestelden meldt ongeoorloofde afwezigheid en andere bijzondere voorvallen aan Onze Minister.   
 2.  Het hoofd van de inrichting voor verpleging van ter beschikking gestelden verstrekt Onze Minister te allen tijde alle verlangde inlichtingen. Onze Minister kan nadere regels stellen omtrent de inhoud en de wijze van melding.   
+
+### Artikel  7b  
+
+1.  Het hoofd van de inrichting stelt voor personeelsleden en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+4.  Het hoofd van de inrichting bevordert de kennis en het gebruik van de meldcode.   
+5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Paragraaf  3  
 
@@ -237,15 +269,44 @@ b. de eisen die de behandeling van de ter beschikking gestelde gezien de aard va
 
 ### Artikel  16  
 
-1.  Het hoofd van de inrichting draagt zorg dat zo spoedig mogelijk en in ieder geval binnen drie maanden na binnenkomst van de verpleegde in de inrichting, zoveel mogelijk in overleg met hem, een verplegings- en behandelingsplan wordt vastgesteld. Hij wijst iedere verpleegde een persoonlijke verblijfsruimte toe en draagt zorg dat deze behoorlijk is ingericht. Onze Minister stelt regels omtrent de eisen waaraan een verblijfsruimte moet voldoen.   
-2.  Bij algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een verplegings- en behandelingsplan tenminste moet voldoen en de voorschriften die bij een wijziging daarvan in acht genomen moeten worden.   
-3.  Alvorens het verplegings- en behandelingsplan wordt vastgesteld, wordt overleg gepleegd met: 
+1.  Het hoofd van de inrichting draagt zorg dat zo spoedig mogelijk en in ieder geval binnen drie maanden na binnenkomst van de verpleegde in de inrichting, in overleg met hem, een verplegings- en behandelingsplan wordt vastgesteld. Hij wijst iedere verpleegde een persoonlijke verblijfsruimte toe en draagt zorg dat deze behoorlijk is ingericht. Onze Minister stelt regels omtrent de eisen waaraan een verblijfsruimte moet voldoen.   
+2.  Het behandelingsplan, bedoeld in het eerste lid, is gericht op het zodanig wegnemen van het gevaar dat de stoornis van de geestvermogens de verpleegde doet veroorzaken, dat de terbeschikkingstelling kan worden beëindigd of voorwaardelijk kan worden beëindigd. Zo mogelijk geschiedt dit door het behandelen van de stoornis. Indien dit niet mogelijk is, geschiedt dit door het anderszins wegnemen van het gevaar.   
+3.  Bij algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een verplegings- en behandelingsplan tenminste moet voldoen en de voorschriften die bij een wijziging daarvan in acht genomen moeten worden.   
+4.  Alvorens het verplegings- en behandelingsplan wordt vastgesteld, wordt overleg gepleegd met: 
 
 a. de curator, indien de verpleegde onder curatele is gesteld;  
 
 b. de mentor, indien ten behoeve van de verpleegde een mentorschap is ingesteld;  
 
 c. de ouders of voogd, indien de verpleegde minderjarig is.     
+
+### Artikel  16a  
+
+Behandeling van de verpleegde vindt slechts plaats: 
+
+a. voor zover deze is voorzien in het behandelingsplan  
+
+b. indien het overleg over het behandelingsplan als bedoeld in artikel 16, eerste of vierde lid, tot overeenstemming heeft geleid, en  
+
+c. indien de verpleegde of -indien van toepassing- de in artikel 16, vierde lid, bedoelde persoon zich niet tegen behandeling verzet.    
+
+### Artikel  16b  
+
+Indien niet voldaan wordt aan de voorwaarden van artikel 16a, onderdelen b en c, kan als uiterste middel niettemin behandeling plaatsvinden: 
+
+a. voor zover aannemelijk is dat zonder die behandeling het gevaar dat de stoornis van de geestvermogens de verpleegde doet veroorzaken niet binnen een redelijke termijn kan worden weggenomen, of  
+
+b. indien het hoofd van de inrichting daartoe een besluit heeft genomen en dit naar het oordeel van een arts volstrekt noodzakelijk is om het gevaar dat de stoornis van de geestvermogens de verpleegde binnen de inrichting doet veroorzaken, af te wenden.    
+
+### Artikel  16c  
+
+1.  Behandeling overeenkomstig artikel 16b, onder a, vindt plaats na een schriftelijke beslissing van het hoofd van de inrichting waarin wordt vermeld voor welke termijn zij geldt.   
+2.  Ten behoeve van de in het eerste lid genoemde beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede een verklaring van een psychiater die de verpleegde met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit deze verklaringen dient te blijken dat de persoon op wie de verklaring betrekking heeft, is gestoord in zijn geestvermogens en dat een geval als bedoeld in artikel 16b, onder a, zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.   
+3.  De beslissing als bedoeld in het eerste lid wordt gemeld aan de voorzitter van de Commissie van Toezicht. De voorzitter van de Commissie van Toezicht doet onverwijld een melding aan de maandcommissaris.   
+4.  De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. Het hoofd van de inrichting doet onverwijld een afschrift van de beslissing toekomen aan de verpleegde of de persoon als bedoeld in artikel 16, vierde lid.   
+5.  Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de behandeling overeenkomstig artikel 16b, onder a, nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van het hoofd van de inrichting. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn als bedoeld in artikel 16b, onder a, opnieuw behandeling nodig is. Het hoofd van de inrichting geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, tweede volzin, van toepassing.   
+6.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van artikel 16b, onder b.   
+7.  Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een behandeling als bedoeld in artikel 16b. Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.   
 
 ### Artikel  17  
 
@@ -325,9 +386,9 @@ g. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld i
 
 ### Artikel  26  
 
-1.  Het hoofd van de inrichting kan een verpleegde verplichten te gedogen dat ten aanzien van hem een bepaalde geneeskundige handeling wordt verricht, indien die handeling naar het oordeel van een arts volstrekt noodzakelijk is ter afwending van gevaar voor de gezondheid of de veiligheid van de verpleegde of van anderen. De handeling wordt verricht door een arts of, in diens opdracht, door een verpleegkundige.   
+1.  Het hoofd van de inrichting kan een verpleegde verplichten te gedogen dat ten aanzien van hem een bepaalde geneeskundige handeling wordt verricht niet zijnde een behandeling als bedoeld in artikel 16b, onder a of b, indien die handeling naar het oordeel van een arts volstrekt noodzakelijk is ter afwending van gevaar voor de gezondheid of de veiligheid van de verpleegde of van anderen. De handeling wordt verricht niet zijnde een behandeling als bedoeld in artikel 16b, onder a of b door een arts of, in diens opdracht, door een verpleegkundige.   
 2.  Artikel 25, tweede lid, is van overeenkomstige toepassing.   
-3.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste lid. Deze regels betreffen in ieder geval de melding en de registratie van de geneeskundige handeling, alsmede de taak van de verantwoordelijke arts indien de geneeskundige handeling volstrekt noodzakelijk is ter afwending van gevaar voortvloeiend uit de stoornis van de geestvermogens van de verpleegde. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
+3.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste lid. Deze regels betreffen in ieder geval de melding en de registratie van de geneeskundige handeling. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het *Staatsblad* waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
 
 ### Artikel  27  
 
@@ -428,7 +489,7 @@ Indien de bewegingsvrijheid waarop de verpleegde op grond van de bij of krachten
 ### Artikel  35  
 
 1.  De verpleegde heeft, behoudens de overeenkomstig het tweede tot en met vijfde lid te stellen beperkingen, het recht brieven en stukken per post te verzenden en te ontvangen. De hieraan verbonden kosten komen, tenzij het hoofd van de inrichting anders bepaalt, voor rekening van de verpleegde.   
-2.  Het hoofd van de inrichting is bevoegd enveloppen of andere poststukken afkomstig van of bestemd voor verpleegden op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Het openen geschiedt, voor zover mogelijk, in aanwezigheid van de betrokken verpleegde. Ten aanzien van de in artikel 4, eerste lid, onder g, genoemde verpleegden geldt deze bevoegdheid slechts indien de kantonrechter van de rechtbank te 's-Gravenhage hiertoe de last heeft gegeven.   
+2.  Het hoofd van de inrichting is bevoegd enveloppen of andere poststukken afkomstig van of bestemd voor verpleegden op de aanwezigheid van bijgesloten voorwerpen te onderzoeken en deze hiertoe te openen. Het openen geschiedt, voor zover mogelijk, in aanwezigheid van de betrokken verpleegde. Ten aanzien van de in artikel 4, eerste lid, onder g, genoemde verpleegden geldt deze bevoegdheid slechts indien de kantonrechter van de rechtbank Den Haag hiertoe de last heeft gegeven.   
 3.  Het hoofd van de inrichting is bevoegd op de inhoud van brieven of andere poststukken afkomstig van of bestemd voor de verpleegde telkens voor een periode van ten hoogste vier weken toezicht uit te oefenen, indien dit noodzakelijk is met het oog op één van de volgende belangen: 
 
 a. de bescherming van de maatschappij tegen de gevaarlijkheid van de verpleegde voor de veiligheid van anderen dan de verpleegde of de algemene veiligheid van personen of goederen;  
@@ -543,7 +604,7 @@ c. de verpleegden die hiervoor in aanmerking komen onderzoekt op hun geschikthei
 
 a. de verstrekking van de door een aan de inrichting verbonden arts voorgeschreven medicijnen en diëten;  
 
-b. de behandeling van de verpleegde op aanwijzing van een aan de inrichting verbonden arts voor zover deze niet kan worden aangemerkt als een behandeling, bedoeld in artikel 1, onder u;  
+b. de behandeling van de verpleegde op aanwijzing van een aan de inrichting verbonden arts voor zover deze niet kan worden aangemerkt als een behandeling, bedoeld in artikel 1, onder v;  
 
 c. de overbrenging van de verpleegde naar een ziekenhuis dan wel andere instelling, indien de onder *b* bedoelde behandeling aldaar plaatsvindt.     
 
@@ -693,11 +754,13 @@ b. een beperking van de bewegingsvrijheid als bedoeld in de artikelen 33 of 34;
 
 c. een beperking van het recht op onaantastbaarheid van het lichaam als bedoeld in artikelen 25 tot en met 27;  
 
-d. de beslissingen met betrekking tot de onderbrenging van een kind in de inrichting als bedoeld in artikel 47;  
+d. het verrichten van geneeskundige behandeling als bedoeld in artikel 16b, onder a of b;  
 
-e. de oplegging van een disciplinaire straf als bedoeld in artikel 49;  
+e. de beslissingen met betrekking tot de onderbrenging van een kind in de inrichting als bedoeld in artikel 47;  
 
-f. de observatie door middel van een camera, bedoeld in artikel 34a, eerste lid.     
+f. de oplegging van een disciplinaire straf als bedoeld in artikel 49;  
+
+g. de observatie door middel van een camera, bedoeld in artikel 34a, eerste lid.     
 2.  De ter beschikking gestelde wordt, zoveel mogelijk in een voor hem begrijpelijke taal, gehoord althans daartoe in de gelegenheid gesteld alvorens een beslissing wordt genomen omtrent: 
 
 a. de beslissingen met betrekking tot de plaatsing of overplaatsing overeenkomstig het bepaalde in hoofdstuk III;  
@@ -906,7 +969,9 @@ d. de beslissing van het hoofd van de particuliere inrichting, niet zijnde een j
 
 e. de beslissing van het hoofd van de particuliere inrichting, niet zijnde een justitiële particuliere inrichting, inzake de intrekking van het proefverlof als bedoeld in artikel 51, derde lid;  
 
-f. enige andere door Onze Minister genomen beslissing die een beperking inhoudt van een recht, dat hem op grond van een bij of krachtens deze wet gegeven voorschrift dan wel enig ander wettelijk voorschrift of enige een ieder verbindende bepaling van een in Nederland geldend verdrag toekomt.     
+f. enige andere door Onze Minister genomen beslissing die een beperking inhoudt van een recht, dat hem op grond van een bij of krachtens deze wet gegeven voorschrift dan wel enig ander wettelijk voorschrift of enige een ieder verbindende bepaling van een in Nederland geldend verdrag toekomt;  
+
+g. een beslissing als bedoeld in het eerste lid van artikel 16c.     
 2.  Het beroepschrift wordt behandeld door een door de Raad benoemde commissie van drie leden, die wordt bijgestaan door een secretaris.   
 3.  Artikel 56, vierde lid, is van overeenkomstige toepassing.   
 4.  Met betrekking tot de behandeling van het beroepschrift zijn de artikelen 56, vijfde lid, 58, tweede lid, derde lid, met uitzondering van de tweede volzin, vierde en vijfde lid, 59, vijfde lid, 60, eerste lid, 61, 62, eerste, tweede, derde en vijfde lid, en 64 van overeenkomstige toepassing, met dien verstande dat de commissie kan bepalen dat: 

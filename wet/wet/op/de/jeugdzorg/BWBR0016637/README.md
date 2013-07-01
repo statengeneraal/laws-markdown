@@ -16,17 +16,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-aanbieder van zorg: de natuurlijke persoon of de rechtspersoon, die andere zorg verleent dan die, waarop ingevolge deze wet aanspraak bestaat;  
+aanbieder van andere zorg: natuurlijke persoon of rechtspersoon, die zorg verleent als bedoeld in artikel 5, tweede lid, onder b of c;  
 
 accommodatie: een accommodatie als bedoeld in artikel 29k, eerste lid;  
 
 bureau jeugdzorg: een bureau als bedoeld in artikel 4;  
 
-cliënt: een jeugdige, zijn ouders of stiefouder of anderen die de jeugdige als behorend tot hun gezin verzorgen en opvoeden;  
+cliënt: jeugdige, zijn ouders of stiefouders of anderen die een jeugdige als behorend tot hun gezin verzorgen en opvoeden, met uitzondering van pleegouders;  
 
 eigen bijdrage: de bijdrage, bedoeld in artikel 70;  
 
 experiment: het ontwikkelen en in de praktijk beproeven van nieuwe en het verbeteren van bestaande methoden, werkvormen of hulpmiddelen ten behoeve van het functioneren van bureaus jeugdzorg en van jeugdzorg waarop ingevolge deze wet aanspraak bestaat;  
+
+huiselijk geweld: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
 
 hulpverleningsplan: het plan, bedoeld in artikel 24, tweede lid;  
 
@@ -40,7 +42,7 @@ jeugdige: een persoon die:
 
 3º. de meerderjarigheidsleeftijd doch niet de leeftijd van drieëntwintig jaren heeft bereikt, en voor wie voortzetting van jeugdzorg, die was aangevangen of waarvan de aanvraag, bedoeld in artikel 7, eerste lid, was ingediend vóór het bereiken van de meerderjarigheidsleeftijd, noodzakelijk is of voor wie, na beëindiging van jeugdzorg die was aangevangen vóór het bereiken van de meerderjarigheidsleeftijd, binnen een termijn van een half jaar hervatting van jeugdzorg noodzakelijk is;    
 
-jeugdzorg: ondersteuning van en hulp aan jeugdigen, hun ouders, stiefouders of anderen, die een jeugdige als behorende tot hun gezin verzorgen en opvoeden, bij opgroei- of opvoedingsproblemen of dreigende zodanige problemen;  
+jeugdzorg: ondersteuning van en hulp aan jeugdigen, hun ouders, stiefouders of anderen die een jeugdige als behorende tot hun gezin verzorgen en opvoeden, met uitzondering van pleegouders, bij opgroei- of opvoedingsproblemen of dreigende zodanige problemen;  
 
 kindermishandeling: elke vorm van voor een minderjarige bedreigende of gewelddadige interactie van fysieke, psychische of seksuele aard, die de ouders of andere personen ten opzichte van wie de minderjarige in een relatie van afhankelijkheid of van onvrijheid staat, actief of passief opdringen, waardoor ernstige schade wordt berokkend of dreigt te worden berokkend aan de minderjarige in de vorm van fysiek of psychisch letsel;  
 
@@ -50,11 +52,11 @@ Landelijk Bureau Inning Onderhoudsbijdragen: het bureau, genoemd in [artikel 2, 
 
 machtiging: een machtiging als bedoeld in artikel 29b, eerste lid;  
 
-Onze Ministers: Onze Minister voor Jeugd en Gezin en Onze Minister van Justitie tezamen;  
+Onze Ministers: Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Justitie tezamen;  
 
 ouderbijdrage: de bijdrage, bedoeld in artikel 69;  
 
-pleegouder: degene die in het kader van jeugdzorg een jeugdige die niet zijn kind of stiefkind is, als behorende tot zijn gezin verzorgt en opvoedt;  
+pleegouder: degene die een pleegcontract als bedoeld in artikel 28b, eerste lid, met een zorgaanbieder heeft gesloten;  
 
 provinciaal beleidskader: het provinciale beleidskader jeugdzorg, bedoeld in artikel 31, eerste lid;  
 
@@ -64,7 +66,7 @@ stichting: een stichting die een bureau jeugdzorg in stand houdt;
 
 uitvoeringsprogramma: het provinciale programma, bedoeld in artikel 32, eerste lid;  
 
-vertrouwenspersoon: een persoon werkzaam bij een rechtspersoon als bedoeld in artikel 41, vierde lid, die, onafhankelijk van het bestuur en van personen in dienst van de stichting of de zorgaanbieder, cliënten van het door de stichting in stand gehouden bureau jeugdzorg of van de zorgaanbieder op hun verzoek ondersteunt in aangelegenheden samenhangend met de door de stichting uitgeoefende taken onderscheidenlijk aangelegenheden samenhangend met de geboden jeugdzorg;  
+vertrouwenspersoon: persoon werkzaam bij een rechtspersoon als bedoeld in artikel 41, vierde lid, die cliënten of pleegouders onafhankelijk van het bestuur en van personen in dienst van de stichting of de zorgaanbieder, ondersteunt in aangelegenheden samenhangend met de door de stichting uitgeoefende taken onderscheidenlijk aangelegenheden samenhangend met de geboden jeugdzorg;  
 
 verwerken van persoonsgegevens: verwerking van persoonsgegevens als bedoeld in [artikel 1, onder b, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
@@ -75,7 +77,7 @@ zorgaanbieder: de natuurlijke persoon of de rechtspersoon die jeugdzorg verleent
 zorgeenheid: een organisatie-eenheid, waarbinnen een zorgaanbieder een afgebakend geheel aan jeugdzorg verleent;  
 
 zorgverzekeraar: een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).     
-2.  Het begrip jeugdige, bedoeld in het eerste lid, is niet van toepassing op de hoofdstukken IA en IVA.   
+2.  Het begrip jeugdige, bedoeld in het eerste lid, is niet van toepassing op de hoofdstukken IA en IVB.   
 3.  Deze wet is van toepassing op in Nederland verblijvende jeugdigen.   
 
 ### Artikel  2  
@@ -132,8 +134,8 @@ Met het oog op de goede uitvoering van dit hoofdstuk kan bij algemene maatregel 
 
 ### Artikel  2e  
 
-1.  Onze Minister voor Jeugd en Gezin draagt zorg voor de inrichting en het beheer van de verwijsindex.   
-2.  Onze Minister voor Jeugd en Gezin is de verantwoordelijke in de zin van [artikel 1, onder d, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor de verwijsindex.   
+1.  Onze Minister van Volksgezondheid, Welzijn en Sport draagt zorg voor de inrichting en het beheer van de verwijsindex.   
+2.  Onze Minister van Volksgezondheid, Welzijn en Sport is de verantwoordelijke in de zin van [artikel 1, onder d, van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor de verwijsindex.   
 3.  In afwijking van het tweede lid, is voor de toepassing van de [artikelen 34 tot en met 40](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [43 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) de verantwoordelijke het college van burgemeester en wethouders van de gemeente die afspraken als bedoeld in artikel 2g heeft gemaakt met de instantie waarvoor de meldingsbevoegde die de jeugdige heeft gemeld werkzaam is of, indien die niet werkzaam is voor een instantie, de meldingsbevoegde.   
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inrichting en het beheer van de verwijsindex. Daartoe behoren in elk geval regels omtrent de beveiliging van persoonsgegevens en de beschikbaarheid van de voorzieningen, bedoeld in artikel 2f.   
 
@@ -169,8 +171,8 @@ g. voorzieningen waarmee aan de jeugdige bij de uitoefening van de [artikelen 35
 
 1.  Het college van burgemeester en wethouders bevordert het gebruik van de verwijsindex. Daartoe maakt het college afspraken met de binnen hun gemeente werkzame instanties en functionarissen, voor zover zij behoren tot een categorie die is aangewezen bij de algemene maatregel van bestuur, bedoeld in artikel 2b. Het college organiseert voorts de aansluiting van die instanties en functionarissen op de verwijsindex.   
 2.  De afspraken betreffen in elk geval de wijze waarop het college samenwerkt met die instanties en functionarissen, en die instanties en functionarissen onderling samenwerken bij het verlenen van hulp, zorg of bijsturing ten behoeve van jeugdigen, alsmede het beheer en de nakoming van die afspraken. De afspraken worden in een convenant vastgelegd.   
-3.  Bij regeling van Onze Minister voor Jeugd en Gezin kunnen regels worden gesteld omtrent het beheer en de nakoming van de afspraken en kunnen voorts regels worden gesteld omtrent andere in de afspraken op te nemen onderwerpen. Voor zover dat uit hoofde van hun functie of taak noodzakelijk is, kan in de afspraken onderscheid worden gemaakt tussen daarbij aangewezen categorieën van meldingsbevoegden.   
-4.  Bij regeling van Onze Minister voor Jeugd en Gezin kunnen nadere regels worden gesteld omtrent het gebruik van, de aansluiting en de organisatie van de aansluiting op de verwijsindex. Daarbij kan onderscheid gemaakt worden tussen daarbij aangewezen categorieën van gemeenten en van meldingsbevoegden.   
+3.  Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen regels worden gesteld omtrent het beheer en de nakoming van de afspraken en kunnen voorts regels worden gesteld omtrent andere in de afspraken op te nemen onderwerpen. Voor zover dat uit hoofde van hun functie of taak noodzakelijk is, kan in de afspraken onderscheid worden gemaakt tussen daarbij aangewezen categorieën van meldingsbevoegden.   
+4.  Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen nadere regels worden gesteld omtrent het gebruik van, de aansluiting en de organisatie van de aansluiting op de verwijsindex. Daarbij kan onderscheid gemaakt worden tussen daarbij aangewezen categorieën van gemeenten en van meldingsbevoegden.   
 
 ### Artikel  2h  
 
@@ -416,7 +418,9 @@ c. het binnen het bureau jeugdzorg overdragen van een zaak ten behoeve van de ui
 
 d. het in kennis stellen van andere justitiële autoriteiten van kindermishandeling of een vermoeden daarvan, indien het belang van de minderjarige dan wel de ernst van de situatie waarop de melding betrekking heeft, daartoe aanleiding geeft;  
 
-e. het op de hoogte stellen van degene die een melding heeft gedaan, van de stappen die naar aanleiding van de melding zijn ondernomen.     
+e. het op de hoogte stellen van degene die een melding heeft gedaan, van de stappen die naar aanleiding van de melding zijn ondernomen;  
+
+f. het in kennis stellen van het steunpunt huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) van een melding van kindermishandeling gepleegd door iemand uit de huiselijke kring of een vermoeden daarvan.     
 2.  Het fungeren als advies- en meldpunt kindermishandeling houdt bovendien in het verstrekken van advies aan een persoon die een vermoeden van kindermishandeling heeft over de stappen die door hem in verband hiermee kunnen worden ondernomen en het zonodig ondersteunen daarbij.   
 
 ### Artikel  12  
@@ -431,7 +435,7 @@ De stichting heeft verder tot taak aan het Landelijk Bureau Inning Onderhoudsbij
 
 1.  De stichting legt de wijze waarop het bureau jeugdzorg de in de wet aan haar opgedragen taken uitvoert schriftelijk vast. Daarbij wordt in ieder geval aangegeven hoe de werkzaamheden in verband met deze taken zijn afgezonderd van de werkzaamheden, bedoeld in artikel 4, tweede lid, tweede volzin. Tevens wordt daarbij geregeld op welke wijze wordt gewaarborgd dat persoonsgegevens, waaronder bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die door het bureau worden verwerkt, slechts worden verwerkt voor het doel waarvoor ze zijn verzameld of voor zover het verwerken met dat doel verenigbaar is, alsmede hoe daarop wordt toegezien.   
 2.  De stichting draagt zorg voor een verantwoorde uitvoering door het bureau jeugdzorg van de in deze wet aan de stichting opgedragen taken hetgeen in ieder geval een doeltreffende, doelmatige en cliëntgerichte uitvoering inhoudt.   
-3.  Tot een verantwoorde uitvoering van de taken, genoemd in artikel 10, eerste lid, onder a, b, c en d, behoort in ieder geval dat de taken worden uitgevoerd op basis van een plan dat is afgestemd op de behoeften van de cliënt. Het plan wordt niet vastgesteld dan na overleg met de cliënt.   
+3.  Tot een verantwoorde uitvoering van de taken, genoemd in artikel 10, eerste lid, onder a, b, c en d, behoort in ieder geval dat de taken worden uitgevoerd op basis van een voogdijplan, gezinsvoogdijplan of jeugdreclasseringsplan dat is afgestemd op de behoeften van de cliënt. Het plan wordt niet vastgesteld dan na overleg met de cliënt en, indien er sprake is van pleegzorg, de pleegouders.   
 4.  De stichting organiseert de uitvoering van deze taken op zodanige wijze en voorziet het bureau jeugdzorg daartoe zowel kwalitatief als kwantitatief zodanig van personeel en materieel, en draagt zorg voor een zodanige verantwoordelijkheidstoedeling, dat een en ander leidt, of redelijkerwijs moet leiden tot een verantwoorde uitoefening van deze taken.   
 5.  Het uitvoeren van het vierde lid omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van de uitvoering van de taken.   
 6.  Ter uitvoering van het vijfde lid draagt de stichting zorg voor: 
@@ -441,8 +445,20 @@ a. het op systematische wijze verzamelen en registreren van gegevens betreffende
 b. het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van uitvoering van het vierde lid leidt tot een verantwoorde uitvoering van de taken;  
 
 c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zonodig veranderen van de wijze waarop het vierde lid wordt uitgevoerd.     
-7.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de deskundigheden waarover de stichting moet beschikken en kunnen regels worden gesteld over de deskundigheid waarover bij de stichting werkzame personen moeten beschikken om een verantwoorde uitvoering van de taken te kunnen realiseren. Bij of krachtens algemene maatregel van bestuur worden tevens regels gesteld omtrent de samenwerking van de stichting met de raad voor de kinderbescherming en de werkwijze van de stichting bij de uitoefening van de in de artikelen 5, eerste lid, en 10, eerste lid, genoemde taken. Bij of krachtens algemene maatregel van bestuur worden bovendien regels gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die de kindermishandeling of een vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de andere onderwerpen, genoemd in het vierde lid, en omtrent het eerste lid. Deze regels kunnen voor de verschillende taken verschillend zijn.   
+7.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de deskundigheden waarover de stichting moet beschikken en kunnen regels worden gesteld over de deskundigheid waarover bij de stichting werkzame personen moeten beschikken om een verantwoorde uitvoering van de taken te kunnen realiseren. Bij of krachtens algemene maatregel van bestuur worden tevens regels gesteld omtrent de samenwerking van de stichting met de raad voor de kinderbescherming en met een steunpunt huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), alsook omtrent de werkwijze van de stichting bij de uitoefening van de in de artikelen 5, eerste lid, en 10, eerste lid, genoemde taken. Bij of krachtens algemene maatregel van bestuur worden bovendien regels gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die de kindermishandeling of een vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de andere onderwerpen, genoemd in het vierde lid, en omtrent het eerste lid. Deze regels kunnen voor de verschillende taken verschillend zijn.   
 8.  De stichting wijst ten aanzien van een cliënt een contactpersoon aan. De contactpersoon is aanspreekpunt voor de cliënt gedurende de gehele periode waarin de stichting een van haar wettelijke taken ten aanzien van de cliënt uitoefent. De contactpersoon bevordert de continuïteit in de taakuitvoering van het bureau jeugdzorg ten aanzien van de cliënt en is de persoon die de cliënt in voorkomende gevallen jeugdzorg als bedoeld in artikel 10, derde lid, onder b, verleent. Zo mogelijk wijst de stichting bij de taakuitvoering ten aanzien van de cliënt in volgende gevallen dezelfde contactpersoon aan.   
+
+### Artikel  13a  
+
+1.  De stichting vergewist zich ervan dat de wijze waarop de medewerkers van de stichting in het verleden hebben gefunctioneerd, niet in de weg staat aan het inzetten van de medewerkers bij de uitvoering van de taken van de stichting.   
+2.  De stichting is in het bezit van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) voor de medewerkers van de stichting die in opdracht van hem beroepsmatig in contact kunnen komen met jeugdigen of ouders, welke verklaring niet eerder dan drie maanden voor het tijdstip waarop betrokkene voor de stichting ging werken, is afgegeven.   
+3.  Indien de stichting of inspectie redelijkerwijs mag vermoeden dat een medewerker niet langer voldoet aan de eisen voor het afgeven van een verklaring als bedoeld in het tweede lid, verlangt de stichting of inspectie dat die medewerker opnieuw een verklaring als bedoeld in het tweede lid overlegt, die niet ouder is dan drie maanden. De desbetreffende medewerker legt de verklaring over binnen een door de stichting of inspectie vast te stellen termijn.   
+
+### Artikel  13b  
+
+1.  De stichting stelt voor de medewerkers van de stichting een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
+2.  De stichting bevordert de kennis en het gebruik van die meldcode.   
+3.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Artikel  14  
 
@@ -454,7 +470,7 @@ a. op welke wijze zij cliënten bij haar kwaliteitsbeleid heeft betrokken;
 b. de frequentie waarmee en de wijze waarop binnen de stichting kwaliteitsbeoordeling heeft plaats gevonden en het resultaat daarvan;  
 
 c. welk gevolg zij heeft gegeven aan klachten en meldingen over de kwaliteit van de uitvoering van haar taken.     
-3.  De stichting zendt een afschrift van het verslag aan gedeputeerde staten van de betrokken provincie, de raad voor de kinderbescherming en aan de inspectie, alsmede aan de cliëntenorganisaties, bedoeld in artikel 30, derde lid.   
+3.  De stichting zendt een afschrift van het verslag aan gedeputeerde staten van de betrokken provincie, de raad voor de kinderbescherming en aan de inspectie, alsmede aan cliëntenorganisaties en pleegouderorganisaties.   
 
 ### Artikel  15  
 
@@ -493,29 +509,14 @@ Een zorgaanbieder en een aanbieder van jeugdzorg als bedoeld in artikel 5, tweed
 
 ### Artikel  21  
 
-1.  Indien het een zorgaanbieder bekend is geworden dat een persoon die bij hem werkzaam is zich mogelijk schuldig maakt of heeft gemaakt aan kindermishandeling, doet die zorgaanbieder hiervan onverwijld melding aan de stichting in verband met de uitoefening van de taak, bedoeld in artikel 10, eerste lid, onder e.   
-2.  Indien een persoon die werkzaam is bij een zorgaanbieder bekend is geworden dat een bij die zorgaanbieder werkzame andere persoon zich mogelijk schuldig maakt of heeft gemaakt aan kindermishandeling, stelt hij die zorgaanbieder daarvan onverwijld in kennis.   
-
-### Paragraaf  2  
-
-####Pleegzorg
+1.  Indien het een zorgaanbieder bekend is geworden dat een persoon die bij hem werkzaam is of dat een pleegouder zich mogelijk schuldig maakt of heeft gemaakt aan kindermishandeling, doet die zorgaanbieder hiervan onverwijld melding aan de stichting in verband met de uitoefening van de taak, bedoeld in artikel 10, eerste lid, onder e.   
+2.  Indien een persoon die werkzaam is bij een zorgaanbieder bekend is geworden dat een bij die zorgaanbieder werkzame andere persoon of een door die zorgaanbieder gecontracteerde pleegouder zich mogelijk schuldig maakt of heeft gemaakt aan kindermishandeling, stelt hij die zorgaanbieder daarvan onverwijld in kennis.   
 
 ### Artikel  22  
 
-1.  Een zorgaanbieder die pleegzorg biedt, draagt er voor zorg dat de verzorging en opvoeding van een jeugdige door een pleegouder geschiedt op basis van een pleegcontract tussen hem en de pleegouder, dat voldoet aan daaraan door Onze Ministers te stellen eisen.   
-2.  Bij ministeriële regeling worden eisen gesteld met betrekking tot pleegouders.   
+De artikelen 16 en 17 zijn van overeenkomstige toepassing ten aanzien van de naleving van deze wet en de daarop berustende bepalingen door een zorgaanbieder.  
 
-### Artikel  23  
-
-1.  Een zorgaanbieder die pleegzorg biedt, verstrekt aan een pleegouder waarmee hij een pleegcontract heeft gesloten een subsidie voor de opvoeding en verzorging van de in het gezin van de pleegouder geplaatste jeugdige, bestaande uit een door Onze Ministers vast te stellen basisbedrag, dat voor te onderscheiden leeftijdscategorieën verschillend kan zijn.   
-2.  Onze Ministers kunnen regels stellen omtrent op het basisbedrag te verlenen toeslagen of op het basisbedrag toe te passen kortingen.   
-3.  De regels, bedoeld in het tweede lid, hebben betrekking op: 
-
-a. het basisbedrag en het bedrag van de toeslagen en kortingen en de omstandigheden waaronder deze worden verleend of toegepast;  
-
-b. de dagen waarover het basisbedrag en de toeslagen worden verleend en de kortingen worden toegepast.     
-
-### Paragraaf  3  
+### Paragraaf  2  
 
 ####Kwaliteit
 
@@ -523,9 +524,9 @@ b. de dagen waarover het basisbedrag en de toeslagen worden verleend en de korti
 
 1.  Een zorgaanbieder, niet zijnde een alleen werkende zorgaanbieder als bedoeld in artikel 18, tweede lid, verleent verantwoorde zorg. Onder verantwoorde zorg wordt verstaan: zorg van goed niveau, die in ieder geval doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de cliënt.   
 2.  Tot verantwoorde zorg behoort in ieder geval dat de zorg die wordt verleend, is gebaseerd op een hulpverleningsplan dat is afgeleid van het besluit, bedoeld in artikel 6, eerste lid.   
-3.  Een zorgaanbieder en een aanbieder van zorg als bedoeld in artikel 5, tweede lid, onder b, c of d, plegen, in verband met het tweede lid, overleg met de stichting omtrent de inhoud van het hulpverleningsplan. Indien aan een cliënt door meer dan één zorgaanbieder of aanbieder van zorg als bedoeld in artikel 5, tweede lid, onder b, c of d, zorg wordt geboden, werken zij zodanig samen dat aan de cliënt samenhangende zorg wordt geboden en plegen zij gezamenlijk over het hulpverleningsplan overleg met de stichting. Tijdens het overleg wordt vastgesteld welke zorgaanbieder of aanbieder van zorg als bedoeld in artikel 5 tweede lid, onder b, c of d, belast is met de coördinatie van de totstandkoming van het hulpverleningsplan en de uitvoering daarvan. In het hulpverleningsplan wordt opgenomen welke aanbieder belast is met de coördinatie van de zorg.   
+3.  Een zorgaanbieder en een aanbieder van andere zorg plegen, in verband met het tweede lid, overleg met de stichting omtrent de inhoud van het hulpverleningsplan. Indien aan een cliënt door meer dan één zorgaanbieder of aanbieder van andere zorg zorg wordt geboden, werken zij zodanig samen dat aan de cliënt samenhangende zorg wordt geboden en plegen zij gezamenlijk over het hulpverleningsplan overleg met de stichting. Tijdens het overleg wordt vastgesteld welke zorgaanbieder of aanbieder van andere zorg belast is met de coördinatie van de totstandkoming van het hulpverleningsplan en de uitvoering daarvan. In het hulpverleningsplan wordt opgenomen welke aanbieder belast is met de coördinatie van de zorg.   
 4.  Voor zover het betreft cliënten ten aanzien van wie de stichting een van de taken, bedoeld in artikel 10, eerste lid, onder a, b, c of d, uitoefent, is het overleg er tevens op gericht het hulpverleningsplan en het plan, bedoeld in artikel 13, derde lid, op elkaar te doen aansluiten.   
-5.  Het hulpverleningsplan wordt niet dan na overleg met de cliënt vastgesteld. Het behoeft diens instemming, tenzij het zorg betreft waartoe een maatregel van kinderbescherming verplicht, of onderdelen van het hulpverleningsplan als bedoeld in de artikelen 29o tot en met 29r. Een zorgaanbieder die pleegzorg biedt, pleegt over het hulpverleningsplan tevens overleg met de betrokken pleegouder. Het hulpverleningsplan wordt vastgesteld vóór de aanvang van de zorg, doch uiterlijk binnen zes weken na de dag waarop is komen vast te staan welke aanbieder of zorgaanbieders de zorg waarop de cliënt is aangewezen, zal verlenen.   
+5.  Het hulpverleningsplan wordt niet dan na overleg met de cliënt vastgesteld. Het behoeft diens instemming, tenzij het zorg betreft waartoe een maatregel van kinderbescherming verplicht, of onderdelen van het hulpverleningsplan als bedoeld in de artikelen 29o tot en met 29r. Een zorgaanbieder die pleegzorg biedt, pleegt over het hulpverleningsplan tevens overleg met de betrokken pleegouder. Het behoeft diens instemming, voor zover het betreft de omschrijving daarin van zijn rol in het hulpverleningsproces en van de wijze waarop de begeleiding door de zorgaanbieder die pleegzorg biedt wordt vorm gegeven. Het hulpverleningsplan wordt vastgesteld vóór de aanvang van de zorg, doch uiterlijk binnen zes weken na de dag waarop is komen vast te staan welke aanbieder of zorgaanbieders de zorg waarop de cliënt is aangewezen, zal verlenen.   
 6.  Indien de cliënt minderjarig is, is in plaats van diens instemming, de instemming van zijn wettelijke vertegenwoordiger vereist, indien hij: 
 
 a. jonger is dan twaalf jaren, of  
@@ -538,8 +539,11 @@ c. ouder is dan twaalf jaren, maar nog niet de leeftijd van zestien jaren heeft 
 ### Artikel  25  
 
 1.  De zorgaanbieder organiseert de zorgverlening op zodanige wijze, voorziet de zorgeenheid zowel kwalitatief als kwantitatief zodanig van personeel en materieel, en draagt zorg voor een zodanige verantwoordelijkheidstoedeling, dat een en ander leidt of redelijkerwijs moet leiden tot een verantwoorde zorg.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de opleidingseisen te stellen aan het personeel werkzaam bij de zorgaanbieder.   
-3.  Voor zover het betreft een zorgaanbieder die jeugdzorg biedt die verblijf van cliënten gedurende ten minste een etmaal met zich meebrengt, draagt de zorgaanbieder er tevens zorg voor dat in de zorgeenheid geestelijke verzorging beschikbaar is, die zoveel mogelijk aansluit bij de godsdienst of levensovertuiging van de cliënten.   
+2.  De zorgaanbieder vergewist zich ervan dat de wijze waarop zorgverleners die zorg verlenen aan zijn cliënten in het verleden hebben gefunctioneerd, niet in de weg staat aan het inzetten van de zorgverleners bij het verlenen van zorg.   
+3.  De zorgaanbieder is in het bezit van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) voor de personen die hij jeugdzorg waarop ingevolge deze wet aanspraak bestaat doet verlenen en voor andere personen die in opdracht van de zorgaanbieder beroepsmatig in contact kunnen komen met zijn cliënten, welke verklaring niet eerder dan drie maanden voor het tijdstip waarop betrokkene voor de zorgaanbieder ging werken, is afgegeven.   
+4.  Indien de zorgaanbieder of de inspectie redelijkerwijs mag vermoeden dat een persoon niet langer voldoet aan de eisen voor het afgeven van een verklaring als bedoeld in het derde lid, verlangt de zorgaanbieder of de inspectie dat die persoon opnieuw een verklaring als bedoeld in het derde lid overlegt, die niet ouder is dan drie maanden. De desbetreffende persoon legt de verklaring over binnen een door de zorgaanbieder of de inspectie vast te stellen termijn.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de opleidingseisen te stellen aan het personeel werkzaam bij de zorgaanbieder.   
+6.  Voor zover het betreft een zorgaanbieder die jeugdzorg biedt die verblijf van cliënten gedurende ten minste een etmaal met zich meebrengt, draagt de zorgaanbieder er tevens zorg voor dat in de zorgeenheid geestelijke verzorging beschikbaar is, die zoveel mogelijk aansluit bij de godsdienst of levensovertuiging van de cliënten.   
 
 ### Artikel  26  
 
@@ -551,6 +555,7 @@ a. het op systematische wijze verzamelen en registreren van gegevens betreffende
 b. het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toetsen in hoeverre de wijze van uitvoering van artikel 25 leidt tot een verantwoorde zorgverlening;  
 
 c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zonodig veranderen van de wijze waarop artikel 25 wordt uitgevoerd.     
+3.  Onder de kwaliteit van de zorg, bedoeld in het eerste lid, wordt mede verstaan de begeleiding door de zorgaanbieder die pleegzorg biedt van een pleegouder tijdens de plaatsing van een jeugdige in diens gezin.   
 
 ### Artikel  27  
 
@@ -564,18 +569,54 @@ b. de frequentie waarmee en de wijze waarop binnen de zorgeenheid kwaliteitsbeoo
 c. welk gevolg hij heeft gegeven aan klachten en meldingen over de kwaliteit van de verleende zorg;  
 
 d. het aantal malen dat hij een beslissing heeft genomen tot toepassing van de artikelen 29o, derde lid, 29p, tweede lid, 29q, derde lid, 29r, derde lid, en 29t, onder vermelding van de duur daarvan, alsmede een overzicht van de omstandigheden die daartoe aanleiding gaven, alsmede het aantal klachten dat op grond van artikel 29w is ingediend en de aard van de beslissingen die op de klachten zijn genomen.     
-3.  De zorgaanbieder zendt een afschrift van het verslag aan gedeputeerde staten van de betrokken provincie en aan de inspectie, alsmede aan de cliëntenorganisaties, bedoeld in artikel 30, derde lid.   
+3.  De zorgaanbieder zendt een afschrift van het verslag aan gedeputeerde staten van de betrokken provincie en aan de inspectie, alsmede aan cliëntenorganisaties en pleegouderorganisaties.   
 
 ### Artikel  28  
 
 1.  Bij algemene maatregel van bestuur kunnen, indien het niveau van de zorg, verleend in een bij de maatregel aangewezen categorie van zorgaanbod, dit vereist, regels worden gesteld met betrekking tot de uitvoering van de artikelen 25 en 26.   
 2.  Indien uitvoering van de artikelen 25 en 26 overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot verantwoorde zorg, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot artikel 24.   
 
-### Artikel  29  
-
-Artikel 16 is van overeenkomstige toepassing ten aanzien van de naleving van deze wet en de daarop berustende bepalingen door een zorgaanbieder.  
-
 ### Hoofdstuk  IVa  
+
+####Pleegzorg
+
+### Artikel  28a  
+
+1.  De pleegouder voldoet aan de volgende voorwaarden: 
+
+a. de pleegouder heeft ten minste de leeftijd van eenentwintig jaren bereikt;  
+
+b. de pleegouder is niet tevens degene, die door de desbetreffende zorgaanbieder die pleegzorg biedt, is belast met de begeleiding van een pleegouder;  
+
+c. de pleegouder beschikt over een verklaring van geen bezwaar die voor de aanvang van de opvoeding en verzorging van een jeugdige is afgegeven door de raad voor de kinderbescherming, waaruit blijkt dat er geen sprake is van bezwarende feiten en omstandigheden voor het verzorgen en opvoeden van een pleegkind. De verklaring is vereist voorafgaand aan de plaatsing van een eerste jeugdige, bij de komst van nieuwe inwonenden en indien de pleegouder gedurende twee jaren geen pleegouder is geweest. Deze voorwaarde geldt tevens voor alle personen van 12 jaar en ouder die als inwonenden op het adres van de pleegouder staan ingeschreven;  
+
+d. de pleegouder heeft met goed gevolg een door de zorgaanbieder die pleegzorg biedt aangeboden voorbereidings- en selectietraject afgerond.     
+2.  De zorgaanbieder die pleegzorg biedt stelt vast of aan de voorwaarden, genoemd in het eerste lid, is voldaan.   
+3.  Voorafgaand aan de plaatsing van een jeugdige in het gezin van de pleegouder beoordeelt de zorgaanbieder die pleegzorg biedt of de jeugdige in het gezin van de pleegouder kan worden geplaatst, gelet op de leeftijd en de problemen van de jeugdige, de samenstelling van het gezin van de pleegouder en de verwachte duur van de plaatsing van de jeugdige in het gezin van de pleegouder.   
+4.  Degene die een jeugdige reeds verzorgt en opvoedt op het moment dat bij een zorgaanbieder die pleegzorg biedt de aanspraak van die jeugdige op verblijf bij een pleegouder tot gelding wordt gebracht, kan in afwijking van het eerste lid, onder c, en het derde lid, aan de in die artikelonderdelen bedoelde voorwaarden voldoen binnen dertien weken nadat de aanspraak tot gelding wordt gebracht, mits de betrokken zorgaanbieder heeft vastgesteld dat de verzorging en opvoeding van de jeugdige door diegene niet schadelijk is voor de ontwikkeling van de jeugdige.   
+
+### Artikel  28b  
+
+1.  Een zorgaanbieder die pleegzorg biedt en een pleegouder sluiten een pleegcontract voor de verzorging en opvoeding van een jeugdige.   
+2.  Het contract bevat in ieder geval afspraken omtrent de wijze waarop de verzorging en opvoeding van een jeugdige door de pleegouder wordt uitgevoerd en de begeleiding die de pleegouder daarbij van de zorgaanbieder die pleegzorg biedt ontvangt.   
+3.  Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen regels worden gesteld ten aanzien van het pleegcontract.   
+
+### Artikel  28c  
+
+1.  Een zorgaanbieder die pleegzorg biedt, verstrekt aan een pleegouder waarmee hij een pleegcontract heeft gesloten een subsidie voor de verzorging en opvoeding van de in het gezin van de pleegouder geplaatste jeugdige, bestaande uit een door Onze Ministers vast te stellen basisbedrag, dat voor te onderscheiden leeftijdscategorieën van pleegkinderen verschillend kan zijn.   
+2.  Onze Ministers stellen regels omtrent op het basisbedrag te verlenen toeslagen of op het basisbedrag toe te passen kortingen.   
+3.  De regels, bedoeld in het tweede lid, hebben betrekking op: 
+
+a. het basisbedrag en het bedrag van de toeslagen en kortingen en de omstandigheden waaronder deze worden verleend of toegepast;  
+
+b. de dagen waarover het basisbedrag en de toeslagen worden verleend en de kortingen worden toegepast.     
+
+### Artikel  28d  
+
+1.  De stichting en de zorgaanbieder die pleegzorg biedt, verstrekken aan de pleegouder in het belang van de verzorging en de opvoeding van de jeugdige, zo nodig zonder toestemming en zo mogelijk voorafgaand aan de plaatsing, inlichtingen inzake feiten en omstandigheden die de persoon van een jeugdige of diens verzorging of opvoeding betreffen en die noodzakelijk zijn voor de uitoefening van de taak van de pleegouder. Deze inlichtingen kunnen mede omvatten persoonsgegevens betreffende de gezondheid als bedoeld in [artikel 21 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+2.  Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport kunnen regels worden gesteld met betrekking tot de uitvoering van het eerste lid.   
+
+### Hoofdstuk  IVb  
 
 ####Gesloten jeugdzorg
 
@@ -629,6 +670,17 @@ c. degene die, anders dan bedoeld onder b, het gezag over hem uitoefent, met de 
 
 1.  Alvorens op een verzoek tot het verlenen van een machtiging of voorlopige machtiging te beslissen, hoort de kinderrechter de jeugdige, degene die het gezag over de minderjarige uitoefent en degene die de jeugdige als behorende tot zijn gezin verzorgt en opvoedt, tenzij de kinderrechter vaststelt dat een persoon niet bereid is zich te doen horen, alsmede de verzoekende stichting en de raad voor de kinderbescherming indien deze de verzoeker is.   
 2.  De rechter geeft het bestuur van de raad voor rechtsbijstand ambtshalve last tot toevoeging van een raadsman aan de jeugdige.   
+
+### Artikel  29fa  
+
+1.  Ten aanzien van een jeugdige voor wie een machtiging is afgegeven en die in verband met deze machtiging aanwezig is in het gerechtsgebouw, kunnen, om te voorkomen dat de jeugdige zich onttrekt aan de tenuitvoerlegging van de machtiging, tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent, voor de duur van zijn aanwezigheid aldaar de volgende maatregelen worden genomen: 
+
+a. vastpakken en vasthouden;  
+
+b. onderzoek aan kleding;  
+
+c. tijdelijke plaatsing in een geschikte, afzonderlijke en af te sluiten ruimte.     
+2.  De maatregelen, bedoeld in het eerste lid, worden uitsluitend ten uitvoer gelegd door ambtenaren aangewezen voor de uitvoering van de politietaak, bedoeld in [artikel 3 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  29g  
 
@@ -746,10 +798,24 @@ d. onderzoek van poststukken afkomstig van of bestemd voor de jeugdigen op de aa
 
 Met betrekking tot een jeugdige kunnen, anders dan ter uitvoering van een hulpverleningsplan of ter handhaving van de huisregels, bedoeld in artikel 29n, tweede lid, geen maatregelen, methoden of beperkingen, genoemd in de artikelen 29o tot en met 29r, tegen zijn wil of die van degene die het gezag over hem uitoefent, worden toegepast dan ter overbrugging van tijdelijke noodsituaties. De toepassing behoeft binnen vierentwintig uur nadat deze is aangevangen de instemming van een gedragswetenschapper behorende tot een bij regeling van Onze Ministers aangewezen categorie. De maatregelen, methoden of beperkingen worden ten hoogste gedurende zeven opeenvolgende dagen toegepast.  
 
+### Artikel  29ta  
+
+1.  Indien een zorgaanbieder met het oog op de veiligheid van de jeugdige of anderen dan wel om te voorkomen dat de jeugdige zich onttrekt aan de tenuitvoerlegging van de machtiging, ervoor zorg draagt dat het vervoer van en naar een accommodatie plaatsvindt door een vervoerder als bedoeld in het derde lid, kunnen door de vervoerder, voor zover dit noodzakelijk is met het oog op vorenomschreven doeleinden ten aanzien van die jeugdige tijdens dat vervoer tegen diens wil of de wil van degene die het gezag over hem uitoefent, voor de duur van het vervoer de volgende maatregelen worden genomen: 
+
+a. vastpakken en vasthouden;  
+
+b. onderzoek aan kleding;  
+
+c. tijdelijke plaatsing in een afzonderlijke en af te sluiten ruimte in het vervoermiddel.     
+2.  De maatregelen, bedoeld in het eerste lid, worden in het hulpverleningsplan opgenomen en worden dienovereenkomstig ten uitvoer gelegd.   
+3.  Een vervoerder als bedoeld in het eerste lid is een door Onze Ministers daartoe aangewezen vervoerder dan wel een andere vervoerder die voldoet aan de bij ministeriële regeling van Onze Ministers gestelde eisen, waaronder eisen omtrent het door de vervoerder te gebruiken vervoermiddel.   
+4.  In geval van vervoer als bedoeld in het eerste lid meldt de vervoerder de toepassing van een of meer van de in dat lid genoemde maatregelen aan de zorgaanbieder en de stichting. Indien de jeugdige niet onder toezicht is gesteld, licht de zorgaanbieder tevens de ouders in.   
+
 ### Artikel  29u  
 
 1.  Degene die de beslissing heeft genomen tot toepassing van de artikelen 29o tot en met 29r of van artikel 29t, draagt er zorg voor dat de toepassing zo spoedig mogelijk in het dossier betreffende de jeugdige wordt vastgelegd, onder vermelding van de omstandigheden die daartoe aanleiding gaven.   
-2.  De zorgaanbieder verstrekt aan de stichting alsmede aan de ouders indien de jeugdige niet onder toezicht is gesteld, elk half jaar een rapportage over de toepassingen, als bedoeld in het eerste lid.   
+2.  De zorgaanbieder draagt er zorg voor dat de toepassing van een of meer van de in de artikelen 29fa, eerste lid, of 29ta, eerste lid, genoemde maatregelen zo spoedig mogelijk in het dossier betreffende de jeugdige wordt vastgelegd, onder vermelding van de omstandigheden die daartoe aanleiding gaven.   
+3.  De zorgaanbieder verstrekt aan de stichting alsmede aan de ouders indien de jeugdige niet onder toezicht is gesteld, elk half jaar een rapportage over de toepassingen, als bedoeld in het eerste en tweede lid.   
 
 ### Paragraaf  4  
 
@@ -814,7 +880,7 @@ b. de colleges van burgemeester en wethouders, teneinde afspraken te maken over 
 c. de in de provincie werkzame zorgverzekeraars, teneinde afspraken te maken over de zorg waarin door de provincie, respectievelijk de zorgverzekeraars zal worden voorzien;  
 
 d. Onze Minister van Justitie, teneinde afspraken te maken over de capaciteit van inrichtingen als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) ten behoeve van aldaar op grond van de [artikelen 261](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of  [305, derde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) te plaatsen minderjarigen.     
-3.  Gedeputeerde staten stellen de betrokken cliëntenorganisaties in de gelegenheid te reageren op het ontwerp van het provinciale beleidskader.   
+3.  Gedeputeerde staten stellen de betrokken cliëntenorganisaties en pleegouderorganisaties in de gelegenheid te reageren op het ontwerp van het provinciale beleidskader.   
 
 ### Artikel  31  
 
@@ -865,7 +931,7 @@ c. Onze Minister van Justitie voornemens is te voorzien in de behoefte aan jeugd
 ### Artikel  35  
 
 1.  Alvorens het landelijke beleidskader vast te stellen, plegen Onze Ministers overleg met de colleges van gedeputeerde staten en een vertegenwoordiging van de colleges van burgemeester en wethouders en van zorgverzekeraars.   
-2.  Onze Ministers stellen de betrokken cliëntenorganisaties in de gelegenheid te reageren op het ontwerp van het landelijke beleidskader.   
+2.  Onze Ministers stellen de betrokken cliëntenorganisaties en pleegouderorganisaties in de gelegenheid te reageren op het ontwerp van het landelijke beleidskader.   
 
 ### Artikel  36  
 
@@ -966,12 +1032,12 @@ d. het toezicht op de rechtmatige en doelmatige besteding van subsidies.
 
 ### Artikel  43  
 
-Bij algemene maatregel van bestuur kan worden bepaald dat de stichtingen, de zorgaanbieders, de aanbieders van zorg als bedoeld in artikel 5, tweede lid, onder b, c en d, ten behoeve van de verwerking, bedoeld in artikel 42, de gegevens, bedoeld in artikel 44, zesde lid, onder a, verwerken en op welke wijze die verwerking plaatsvindt. Onze Ministers kunnen nadere regels stellen omtrent de wijze van verwerking.  
+Bij algemene maatregel van bestuur kan worden bepaald dat de stichtingen, de zorgaanbieders, de aanbieders van andere zorg ten behoeve van de verwerking, bedoeld in artikel 42, de gegevens, bedoeld in artikel 44, zesde lid, onder a, verwerken en op welke wijze die verwerking plaatsvindt. Onze Ministers kunnen nadere regels stellen omtrent de wijze van verwerking.  
 
 ### Artikel  44  
 
 1.  De stichtingen verstrekken ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens aan gedeputeerde staten van de betrokken provincie en de betrokken zorgverzekeraars.   
-2.  Bij algemene maatregel van bestuur kan worden bepaald dat de raad voor de kinderbescherming en de justitiële jeugdinrichtingen, bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens verstrekken aan Onze Minister van Justitie of de provincies. Bij die maatregel kan worden geregeld dat zorgaanbieders gegevens verstrekken aan gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, tweede lid, en aanbieders van zorg als bedoeld in artikel 5, tweede lid, onder b, c en d, aan de betrokken zorgverzekeraars ten behoeve van de verwerking bedoeld in artikel 42, derde lid.   
+2.  Bij algemene maatregel van bestuur kan worden bepaald dat de raad voor de kinderbescherming en de justitiële jeugdinrichtingen, bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), ten behoeve van de verwerking, bedoeld in artikel 42, eerste en tweede lid, gegevens verstrekken aan Onze Minister van Justitie of de provincies. Bij die maatregel kan worden geregeld dat zorgaanbieders gegevens verstrekken aan gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, tweede lid, en aanbieders van andere zorg aan de betrokken zorgverzekeraars ten behoeve van de verwerking bedoeld in artikel 42, derde lid.   
 3.  Gedeputeerde staten verstrekken gegevens aan Onze Ministers ten behoeve van de verwerking, bedoeld in artikel 42, eerste lid.   
 4.  Bij algemene maatregel van bestuur kan worden bepaald dat de zorgverzekeraars gegevens verstrekken aan Onze Ministers of gedeputeerde staten van de betrokken provincies ten behoeve van de verwerking, bedoeld in artikel 42, eerste of tweede lid.   
 5.  Onze Ministers verstrekken de gegevens aan de provincies en de betrokken zorgverzekeraars ten behoeve van de verwerking, bedoeld in artikel 42, eerste lid.   
@@ -992,7 +1058,7 @@ d. de termijnen waarbinnen de gegevens worden verstrekt.
 
 a. het doelmatig en doeltreffend functioneren van de toegang tot de jeugdzorg, bedoeld in artikel 5, tweede lid;  
 
-b. het doelmatig en doeltreffend functioneren van de zorgaanbieders, van de aanbieders van jeugdzorg als bedoeld in artikel 5, tweede lid, onder b en c, en van de raad voor de kinderbescherming;  
+b. het doelmatig en doeltreffend functioneren van de zorgaanbieders, van de aanbieders van andere zorg en van de raad voor de kinderbescherming;  
 
 c. de doelmatigheid en de doeltreffendheid van het aanbod aan jeugdzorg als bedoeld in artikel 5, tweede lid.     
 2.  Tot de persoonsgegevens kunnen gegevens behoren betreffende iemands etnische of culturele achtergrond of gezondheid, alsmede strafrechtelijke gegevens.   
@@ -1009,17 +1075,17 @@ c. de doelmatigheid en de doeltreffendheid van het aanbod aan jeugdzorg als bedo
 
 ### Artikel  47  
 
-1.  Er is een Inspectie jeugdzorg die ressorteert onder Onze Minister voor Jeugd en Gezin en die tot taak heeft: 
+1.  Er is een Inspectie jeugdzorg die ressorteert onder Onze Minister van Volksgezondheid, Welzijn en Sport en die tot taak heeft: 
 
 a. het verrichten van onderzoeken naar de kwaliteit in algemene zin van de bureaus jeugdzorg en de jeugdzorg, waarop ingevolge deze wet aanspraak bestaat, van de inrichtingen, bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en van de raad voor de kinderbescherming, alsmede waar nodig, het aangeven en bevorderen van middelen tot verbetering daarvan;  
 
-b. het toezicht op de naleving van de wet en de daarop berustende bepalingen ten aanzien van de stichtingen en zorgaanbieders, met uitzondering van artikel 70 en het toezicht op de rechtmatige en doelmatige besteding van subsidies;  
+b. het toezicht op de naleving van de wet en de daarop berustende bepalingen ten aanzien van de stichtingen, zorgaanbieders en vervoerders als bedoeld in artikel 29ta, derde lid, met uitzondering van artikel 70 en het toezicht op de rechtmatige en doelmatige besteding van subsidies;  
 
 c. het toezicht op de naleving van het bij of krachtens de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) bepaalde omtrent de kwaliteit van de justitiële jeugdinrichtingen;  
 
 d. het toezicht op de naleving van [artikel 9 van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md), voor zover het betreft minderjarigen die onder toezicht staan van de rechtspersoon, bedoeld in [artikel 254, tweede lid](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of die onder voogdij staan van de rechtspersoon, bedoeld in [artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).     
 2.  Met de taken, bedoeld in het eerste lid, zijn belast de ambtenaren van de inspectie.   
-3.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de ambtenaren, belast met de taak bedoeld in het eerste lid, onder a.   
+3.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de ambtenaren, belast met de taak bedoeld in het eerste lid, onder a.   
 4.  De ambtenaren van de inspectie nemen bij de vervulling van de taak, bedoeld in het eerste lid, onder a, de instructies van Onze Ministers en bij de vervulling van de taak, bedoeld in het eerste lid, onder b, de instructies van gedeputeerde staten van de betrokken provincie in acht. Bij de vervulling van de taken, bedoeld in het eerste lid, onder c en d, nemen zij de instructies van Onze Minister van Justitie in acht.   
 5.  De inspectie verricht onderzoeken als bedoeld in het eerste lid, onder a, uit eigen beweging of indien het onderzoeken betreft met betrekking tot de bureaus jeugdzorg en de jeugdzorg waarop ingevolge deze wet aanspraak bestaat, op verzoek van Onze Ministers en met betrekking tot de inrichtingen, bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en de raad voor de kinderbescherming, op verzoek van Onze Minister van Justitie. Onderzoeken in verband met de taak, bedoeld in het eerste lid, onder d, worden uit eigen beweging verricht of op verzoek van Onze Minister van Justitie.   
 6.  De inspectie verricht onderzoeken als bedoeld in het eerste lid onder b uit eigen beweging of op verzoek van gedeputeerde staten van de betrokken provincie.   
@@ -1106,13 +1172,17 @@ b. de leeftijd van twaalf jaren heeft bereikt en niet in staat kan worden geacht
 
 ### Artikel  57  
 
-1.  Gedeputeerde staten dragen er zorg voor dat cliënten van het door de stichting in stand gehouden bureau jeugdzorg en van de zorgaanbieders een beroep kunnen doen op een vertrouwenspersoon.   
+1.  Gedeputeerde staten dragen er zorg voor dat pleegouders en cliënten van het door de stichting in stand gehouden bureau jeugdzorg en van de zorgaanbieders een beroep kunnen doen op een vertrouwenspersoon.   
 2.  De stichting en de zorgaanbieders stellen vertrouwenspersonen, werkzaam bij de rechtspersoon, bedoeld in artikel 41, vierde lid, in de gelegenheid hun taak uit te oefenen.   
 3.  Bij algemene maatregel van bestuur worden regels gegeven met betrekking tot de taken en bevoegdheden van de vertrouwenspersoon en de verplichtingen van de stichting en de zorgaanbieders.   
 
 ### Hoofdstuk  XI  
 
 ####Medezeggenschap
+
+### Paragraaf  1  
+
+####Medezeggenschap van cliëntenraden
 
 ### Artikel  58  
 
@@ -1203,11 +1273,11 @@ b. op schrift gestelde uitgangspunten voor het beleid, waaronder begrepen de alg
 
 c. de notulen dan wel de besluitenlijst van de vergaderingen van het bestuur dan wel in de gevallen bedoeld in artikel 63, tweede lid, van het daar bedoelde orgaan, voor zover deze algemene beleidszaken betreffen;  
 
-d. een regeling inzake de behandeling van klachten en van andere voor cliënten geldende regelingen, alsmede een regeling als bedoeld in artikel 58, tweede lid;  
+d. een regeling inzake de behandeling van klachten en van andere voor cliënten geldende regelingen, alsmede een regeling als bedoeld in artikel 58, tweede lid en artikel 66a;  
 
 e. het verslag, bedoeld in artikel 64.     
-2.  De openbaarmaking geschiedt door de stukken voor cliënten ter inzage te leggen en hun op verzoek daarvan afschriften te verstrekken.   
-3.  Van de terinzagelegging wordt mededeling gedaan op de bij de stichting of de zorgaanbieder voor het doen van mededelingen aan cliënten gebruikelijke wijze.   
+2.  De openbaarmaking geschiedt door de stukken voor cliënten en pleegouders ter inzage te leggen en hun op verzoek daarvan afschriften te verstrekken.   
+3.  Van de terinzagelegging wordt mededeling gedaan op de bij de stichting of de zorgaanbieder voor het doen van mededelingen aan cliënten en pleegouders gebruikelijke wijze.   
 4.  Voor het op verzoek verstrekken van afschriften kan een tarief in rekening worden gebracht, ten hoogste gelijk aan de kostprijs, tenzij de Wet openbaarheid van bestuur van toepassing is.   
 
 ### Artikel  66  
@@ -1218,6 +1288,73 @@ e. het verslag, bedoeld in artikel 64.
 4.  De cliëntenraad en iedere cliënt van de stichting of de zorgaanbieder kan de kantonrechter van de rechtbank van het arrondissement waarin de woonplaats van de stichting of de zorgaanbieder is gelegen, schriftelijk verzoeken de stichting of de zorgaanbieder te bevelen de artikelen 58, 61, tweede lid, 63 en 65 en het eerste lid, na te leven. Een verzoeker die niet vooraf schriftelijk aan de stichting of de zorgaanbieder heeft verzocht te handelen overeenkomstig hetgeen in het verzoekschrift wordt verzocht en deze daarbij niet een redelijke termijn heeft gegeven om aan dat verzoek te voldoen, wordt niet-ontvankelijk verklaard.   
 5.  De kantonrechter kan in zijn beschikking aan de stichting of de zorgaanbieder de verplichting opleggen bepaalde handelingen te verrichten of na te laten.   
 6.  De [derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+
+### Paragraaf  2  
+
+####Medezeggenschap van pleegouderraden
+
+### Artikel  66a  
+
+1.  De zorgaanbieder die pleegzorg biedt, stelt een pleegouderraad in, die binnen het kader van zijn doelstelling de gemeenschappelijke belangen van de pleegouders behartigt. Een zorgaanbieder die pleegzorg biedt, kan deze verplichting ook nakomen door instelling van een pleegouderraad die voor meer dan een door hem in stand gehouden zorgeenheid werkzaam is.   
+2.  De zorgaanbieders die pleegzorg bieden, regelen schriftelijk: 
+
+a. het aantal leden van de pleegouderraad, de wijze van benoeming, welke personen tot lid kunnen worden benoemd en de zittingsduur van de leden;  
+
+b. de materiële middelen waarover de pleegouderraad ten behoeve van zijn werkzaamheden kan beschikken.     
+3.  De in het tweede lid bedoelde regeling is zodanig dat de pleegouderraad: 
+
+a. redelijkerwijze representatief kan worden geacht voor de bij de zorgaanbieder die pleegzorg biedt betrokken pleegouders; en  
+
+b. redelijkerwijze in staat kan worden geacht hun gemeenschappelijke belangen te behartigen.     
+4.  De pleegouderraad regelt schriftelijk zijn werkwijze met inbegrip van zijn vertegenwoordiging in en buiten rechte.   
+5.  Op door de pleegouderraad te voeren rechtsgedingen, is artikel 66, vierde lid van overeenkomstige toepassing. De kosten hiervan komen slechts ten laste van de zorgaanbieder die pleegzorg biedt, indien deze van de te maken kosten vooraf in kennis is gesteld.   
+6.  Na vaststelling van de in het tweede lid bedoelde regeling treft de zorgaanbieder die pleegzorg biedt de voorzieningen die op grond van die regeling noodzakelijk zijn voor de benoeming van de leden van de pleegouderraad. Zij treffen de bedoelde voorzieningen opnieuw telkens wanneer de pleegouderraad gedurende twee jaar niet heeft gefunctioneerd wegens het ontbreken van het in de regeling vastgestelde aantal leden.   
+
+### Artikel  66b  
+
+1.  De zorgaanbieders die pleegzorg bieden, stellen de pleegouderraad in ieder geval in de gelegenheid advies uit te brengen over elk voorgenomen besluit dat een of meer van de door een zorgaanbieder in stand gehouden zorgeenheden betreft, voor zover van invloed op pleegzorg inzake: 
+
+a. het overdragen van de zeggenschap of fusie of het aangaan of verbreken van de samenwerking met een andere zorgaanbieder;  
+
+b. een belangrijke wijziging in de organisatie van de zorgaanbieder, voor zover met betrekking tot pleegzorg;  
+
+c. een belangrijke inkrimping, uitbreiding of andere wijziging van de werkzaamheden van de zorgaanbieder, voor zover met betrekking tot pleegzorg;  
+
+d. de begroting en de jaarrekening van de zorgaanbieder;  
+
+e. het beleid van de zorgaanbieder inzake de toelating van cliënten en de beëindiging van de hulpverlening aan cliënten, voor zover met betrekking tot pleegzorg;  
+
+f. de systematische bewaking, beheersing of verbetering van de kwaliteit door de zorgaanbieder met betrekking tot de aspecten: te hanteren methodieken, organisatie, professionaliteit en materiële voorzieningen, voor zover met betrekking tot pleegzorg;  
+
+g. wijziging van een werkplan van de zorgaanbieder voor zover met betrekking tot pleegzorg, voor zover het aangelegenheden betreft die niet reeds hierboven zijn genoemd.     
+2.  Het advies wordt op een zodanig tijdstip gevraagd dat het wezenlijk van invloed kan zijn op het te nemen besluit.   
+3.  De pleegouderraad is bevoegd de zorgaanbieder die pleegzorg biedt ook ongevraagd te adviseren inzake de in het eerste lid genoemde en andere onderwerpen, die voor de pleegouders van belang zijn.   
+4.  Ingeval een zorgaanbieder die pleegzorg biedt meer dan één pleegouderraad heeft ingesteld en bovendien één pleegouderraad die alle door hem in stand gehouden zorgeenheden omvat, bevat de regeling, bedoeld in artikel 66a, tweede lid, tevens een voorziening waardoor de in dit hoofdstuk bedoelde verplichtingen en bevoegdheden slechts behoeven te worden nagekomen jegens en kunnen worden uitgeoefend door één pleegouderraad.   
+
+### Artikel  66c  
+
+De zorgaanbieders die pleegzorg bieden, vragen de voorafgaande instemming van de pleegouderraad voor elk door de zorgaanbieders die pleegzorg bieden te nemen besluit met betrekking tot in ieder geval de volgende aangelegenheden: 
+
+a. de vaststelling of wijziging van een regeling inzake de behandeling van klachten van pleegouders en het aanwijzen van personen die belast worden met de behandeling van klachten;  
+
+b. de vaststelling of wijziging van voor pleegouders geldende reglementen;  
+
+c. vaststelling of wijziging van een regeling over het verwerken van en de bescherming van persoonsgegevens van jeugdigen aan wie pleegouders pleegzorg bieden en pleegouders.    
+
+### Artikel  66d  
+
+1.  De zorgaanbieders die pleegzorg bieden, stellen in overeenstemming met de pleegouderraad of pleegouderraden een uit drie leden bestaande commissie van vertrouwenslieden in, waarvan één lid door henzelf wordt aangewezen, één lid door de pleegouderraad of pleegouderraden kan worden aangewezen en één lid door beide gezamenlijk wordt aangewezen.   
+2.  De vertrouwenscommissie, bedoeld in het eerste lid, heeft op verzoek van de zorgaanbieder die pleegzorg biedt tot taak te bemiddelen en zonodig een bindende uitspraak te doen, indien die zorgaanbieder ten aanzien van een te nemen, na overleg al dan niet gewijzigd, besluit dat ingevolge artikel 66c instemming behoeft, de vereiste instemming niet heeft verworven en die zorgaanbieder zijn voorstel wenst te handhaven.   
+
+### Artikel  66e  
+
+1.  Indien aan een te nemen besluit van de zorgaanbieder die pleegzorg biedt de instemming, vereist ingevolge artikel 66c, is onthouden, deelt die zorgaanbieder binnen drie maanden na het onthouden van instemming aan de pleegouderraad mee, of het voorstel wordt ingetrokken dan wel wordt voorgelegd aan de vertrouwenscommissie, bedoeld in artikel 66d, eerste lid. Indien deze mededeling niet binnen drie maanden wordt gedaan of het voorstel niet binnen zes weken na de mededeling aan de pleegouderraad aan de vertrouwenscommissie wordt voorgelegd, vervalt het voorstel.   
+2.  De zorgaanbieder die pleegzorg biedt, doet een verzoek als bedoeld in artikel 66d, tweede lid, onder overlegging van de door die zorgaanbieder gemaakte afweging van de belangen die daarbij voor die zorgaanbieder onderscheidenlijk de pleegouderraad aan de orde zijn. De vertrouwenscommissie stelt de pleegouderraad in de gelegenheid om zijn argumenten voor het onthouden van zijn instemming bij de vertrouwenscommissie naar voren te brengen.   
+3.  De vertrouwenscommissie kan een bemiddelingsvoorstel voorleggen aan de zorgaanbieder die pleegzorg biedt en de pleegouderraad, tenzij die zorgaanbieder of de pleegouderraad te kennen geven daarop geen prijs te stellen. Indien de vertrouwenscommissie van deze bevoegdheid geen gebruik maakt of indien haar voorstel niet de instemming heeft van de zorgaanbieder die pleegzorg biedt of de pleegouderraad, beoordeelt de vertrouwenscommissie of de pleegouderraad in redelijkheid tot het onthouden van instemming heeft kunnen komen of dat sprake is van bepaalde zwaarwegende omstandigheden die het voorstel van de zorgaanbieder die pleegzorg biedt rechtvaardigen.   
+
+### Artikel  66f  
+
+De artikelen 60 tot en met 64 en artikel 66, derde tot en met zesde lid, zijn van overeenkomstige toepassing op zorgaanbieders die pleegzorg bieden ten aanzien van pleegouderraden, met dien verstande dat in artikel 66, vierde lid, in plaats van artikel 58 wordt gelezen: artikel 66a.  
 
 ### Hoofdstuk  XII  
 
@@ -1267,6 +1404,10 @@ f. de strekking van de oordelen en aanbevelingen van die klachtencommissie;
 g. de aard van de maatregelen, bedoeld in het vijfde lid.     
 8.  Bij regeling van Onze Ministers kunnen nadere regels worden gesteld met betrekking tot het verslag.   
 9.  De stichting en de zorgaanbieder zenden het verslag voor 1 juni van het daaropvolgende kalenderjaar aan gedeputeerde staten, aan de inspectie en aan de betrokken cliëntenorganisaties.   
+
+### Artikel  68a  
+
+De artikelen 67 en 68 zijn van overeenkomstige toepassing op zorgaanbieders die pleegzorg bieden jegens pleegouders.  
 
 ### Hoofdstuk  XIII  
 

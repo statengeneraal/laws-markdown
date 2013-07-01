@@ -125,14 +125,24 @@ e. het onderzoek in het lichaam, bedoeld in artikel 31;
 
 f. het gedogen van een geneeskundige handeling, bedoeld in artikel 32;  
 
-g. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in artikel 33, eerste onderscheidenlijk derde lid;  
+g. het verrichten van geneeskundige behandeling als bedoeld in artikel 46d, onder a of b;  
 
-h. de oplegging van een disciplinaire straf, bedoeld in artikel 51, en de toepassing van de artikelen 52, eerste en tweede lid, en 53, derde en vierde lid.     
+h. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in artikel 33, eerste onderscheidenlijk derde lid;  
+
+i. de oplegging van een disciplinaire straf, bedoeld in artikel 51, en de toepassing van de artikelen 52, eerste en tweede lid, en 53, derde en vierde lid.     
 
 ### Artikel  5a  
 
 1.  De directeur meldt ongeoorloofde afwezigheid en andere bijzondere voorvallen aan Onze Minister.   
 2.  De directeur verstrekt Onze Minister te allen tijde alle verlangde inlichtingen. Onze Minister kan nadere regels stellen omtrent de inhoud en de wijze van melding.   
+
+### Artikel  5b  
+
+1.  De directeur stelt voor ambtenaren en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+4.  De directeur bevordert de kennis en het gebruik van de meldcode.   
+5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Artikel  6  
 
@@ -237,8 +247,9 @@ e. extra beveiligd.
 ### Artikel  14  
 
 1.  Inrichtingen of afdelingen daarvan kunnen door Onze Minister worden bestemd voor de onderbrenging van gedetineerden die een bijzondere opvang behoeven.   
-2.  De bijzondere opvang, bedoeld in het eerste lid, kan verband houden met de leeftijd, de persoonlijkheid, de lichamelijke of de geestelijke gezondheidstoestand van de gedetineerden, alsmede met het delict waarvoor zij zijn gedetineerd.   
+2.  De bijzondere opvang, bedoeld in het eerste lid, kan verband houden met de leeftijd, de persoonlijkheid, de lichamelijke of de geestelijke gezondheidstoestand van de gedetineerden, de geneeskundige behandeling van de geestelijke gezondheidstoestand als bedoeld in artikel 46d, onder a alsmede met het delict waarvoor zij zijn gedetineerd.   
 3.  Onze Minister bepaalt de criteria waaraan gedetineerden moeten voldoen om voor plaatsing in een inrichting of een afdeling als bedoeld in het eerste lid in aanmerking te komen.   
+4.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwezigheid van de benodigde voorzieningen in een inrichting of afdeling voor de geneeskundige behandeling van de geestelijke gezondheidstoestand als bedoeld in artikel 46d, onder a. In elk geval worden nadere regels gesteld omtrent de beschikbaarheid van een psychiater en een verpleegkundige ten dienste van deze inrichting of afdeling.   
 
 ### Hoofdstuk  IV  
 
@@ -648,6 +659,73 @@ b. de aansprakelijkheid van de directeur voor de voorwerpen.
 2.  In inrichtingen of afdelingen waar het bezit van contant geld door de gedetineerden verboden is, heeft de gedetineerde de beschikking over een rekening-courant bij de inrichting.   
 3.  In de huisregels kunnen nadere regels worden gesteld omtrent het bezit van contant geld en het gebruik van de rekening-courant. Deze regels kunnen een beperking betreffen van het bedrag waarover de gedetineerde ten hoogste in contanten of door middel van zijn rekeningcourant mag beschikken.   
 
+### Paragraaf  1a  
+
+####Verblijf in een bijzondere afdeling in verband met de geestelijke gezondheidstoestand
+
+### Artikel  46a  
+
+Voor de toepassing van deze paragraaf wordt onder gevaar verstaan:  *Gevaar:*  
+
+1. gevaar voor de gedetineerde, die het veroorzaakt, hetgeen onder meer bestaat uit: 
+
+a. het gevaar dat de gedetineerde zich van het leven zal beroven of zichzelf ernstig lichamelijk letsel zal toebrengen;  
+
+b. het gevaar dat de gedetineerde maatschappelijk te gronde gaat;  
+
+c. het gevaar dat de gedetineerde zichzelf in ernstige mate zal verwaarlozen;  
+
+d. het gevaar dat de gedetineerde met hinderlijk gedrag agressie van anderen zal oproepen.    
+
+2. gevaar voor een of meer anderen, hetgeen onder meer bestaat uit: 
+
+a. het gevaar dat de gedetineerde een ander van het leven zal beroven of hem ernstig lichamelijk letsel zal toebrengen;  
+
+b. het gevaar voor de psychische gezondheid van een ander;  
+
+c. het gevaar dat de gedetineerde een ander, die aan zijn zorg is toevertrouwd, zal verwaarlozen;    
+
+3. gevaar voor de algemene veiligheid van personen of goederen.    
+
+### Artikel  46b  
+
+1.  De directeur draagt zorg dat in overleg met de gedetineerde die in verband met zijn geestelijke gezondheidstoestand verblijft in een daartoe op grond van artikel 14 aangewezen afdeling of inrichting een geneeskundig behandelingsplan wordt vastgesteld.   
+2.  Het geneeskundig behandelingsplan is gericht op het zodanig wegnemen van het gevaar dat de stoornis van de geestvermogens de gedetineerde doet veroorzaken dat de gedetineerde niet langer in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens artikel 14 aangewezen afdeling of inrichting behoeft te verblijven. Zo mogelijk geschiedt dit door het behandelen van de stoornis. Indien dit niet mogelijk is, geschiedt dit door het anderszins wegnemen van het gevaar.   
+3.  Bij algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een geneeskundig behandelingsplan tenminste moet voldoen en de voorschriften die bij een wijziging daarvan in acht genomen moeten worden.   
+4.  Alvorens het geneeskundig behandelingsplan wordt vastgesteld, wordt overleg gepleegd met 
+
+a. de curator indien de gedetineerde onder curatele is gesteld  
+
+b. de mentor, indien ten behoeve van de gedetineerde een mentorschap is ingesteld.     
+
+### Artikel  46c  
+
+Geneeskundige behandeling van de geestelijke gezondheidstoestand van de gedetineerde vindt slechts plaats: 
+
+a. voor zover deze is voorzien in het geneeskundig behandelingsplan als bedoeld in artikel 46b, eerste lid  
+
+b. indien het overleg over het geneeskundig behandelingsplan, bedoeld in artikel 46b, eerste lid of vierde lid, tot overeenstemming heeft geleid, en  
+
+c. indien de gedetineerde of de persoon als bedoeld in artikel 46b, vierde lid, zich niet tegen de behandeling verzet.    
+
+### Artikel  46d  
+
+Buiten de situaties als bedoeld in artikel 32 kan, indien niet voldaan wordt aan de voorwaarden van artikel 46c, onderdelen b en c, niettemin als uiterste middel geneeskundige behandeling plaatsvinden: 
+
+a. voor zover aannemelijk is dat zonder die geneeskundige behandeling het gevaar dat de stoornis van de geestvermogens de gedetineerde doet veroorzaken niet binnen een redelijke termijn kan worden weggenomen, of  
+
+b. indien de directeur daartoe een besluit heeft genomen en dit naar het oordeel van een arts volstrekt noodzakelijk is om het gevaar dat de stoornis van de geestvermogens de gedetineerde binnen de inrichting doet veroorzaken, af te wenden.    
+
+### Artikel  46e  
+
+1.  Geneeskundige behandeling overeenkomstig artikel 46d, onder a, vindt plaats na een schriftelijke beslissing van de directeur waarin wordt vermeld voor welke termijn zij geldt.   
+2.  Ten behoeve van deze beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede een verklaring van een psychiater die de gedetineerde met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit deze verklaringen dient te blijken dat de gedetineerde op wie de verklaring betrekking heeft, is gestoord in zijn geestvermogens en dat een geval als bedoeld in artikel 46d, onder a, zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.   
+3.  De beslissing als bedoeld in het eerste lid wordt gemeld aan de voorzitter van de Commissie van Toezicht. De voorzitter van de Commissie van Toezicht doet onverwijld een melding aan de maandcommissaris.   
+4.  De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. De directeur doet onverwijld een afschrift van de beslissing toekomen aan de gedetineerde of de persoon als bedoeld in artikel 46b, vierde lid.   
+5.  Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de geneeskundige behandeling overeenkomstig artikel 46d, onder a, nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van de directeur. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn als bedoeld in artikel 46d, onder a, opnieuw behandeling nodig is. De gedetineerde of de persoon als bedoeld in artikel 46b, vierde lid, ontvangt onverwijld een afschrift van deze beslissing. De directeur geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, tweede volzin, van toepassing.   
+6.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van artikel 46d onder b.   
+7.  Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een geneeskundige behandeling als bedoeld in artikel 46d. Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.   
+
 ### Paragraaf  2  
 
 ####Arbeid en andere activiteiten
@@ -764,15 +842,17 @@ e. het onderzoek in het lichaam, bedoeld in artikel 31;
 
 f. het gedogen van een geneeskundige handeling, bedoeld in artikel 32;  
 
-g. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in artikel 33, eerste onderscheidenlijk derde lid;  
+g. het verrichten van een geneeskundige behandeling bedoeld in artikel 46d, onder a of b;  
 
-h. de observatie door middel van een camera en de verlenging daarvan, bedoeld in artikel 34a, eerste onderscheidenlijk derde lid;  
+h. de bevestiging door mechanische middelen en de verlenging daarvan, bedoeld in artikel 33, eerste onderscheidenlijk derde lid;  
 
-i. de observatie door middel van een camera, bedoeld in de artikelen 24a, eerste lid, en 51a, eerste lid;  
+i. de observatie door middel van een camera en de verlenging daarvan, bedoeld in artikel 34a, eerste onderscheidenlijk derde lid;  
 
-j. de oplegging van een disciplinaire straf, bedoeld in artikel 51, en toepassing van de artikelen 52 en 53, derde lid.     
+j. de observatie door middel van een camera, bedoeld in de artikelen 24a, eerste lid, en 51a, eerste lid;  
+
+k. de oplegging van een disciplinaire straf, bedoeld in artikel 51, en toepassing van de artikelen 52 en 53, derde lid.     
 2.  Zo nodig geschiedt het horen van de gedetineerde met bijstand van een tolk. Van het horen van de gedetineerde wordt aantekening gehouden.   
-3.  Toepassing van het eerste lid, onder b, c, d, e, f en g, kan achterwege blijven indien: 
+3.  Toepassing van het eerste lid, onder b, c, d, e, f en h, kan achterwege blijven indien: 
 
 a. de vereiste spoed zich daartegen verzet;  
 
@@ -927,6 +1007,7 @@ c. vernietiging van de uitspraak van de beklagcommissie.
 
 1.  De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de artikelen 17 en 18 een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 73, eerste lid. De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in artikel 17, vijfde lid, achterwege is gebleven.   
 2.  De gedetineerde heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge artikel 60, eerste en tweede lid, openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 73, eerste lid.   
+3.  Tegen de beslissing als bedoeld in het eerste lid van artikel 46e kan rechtstreeks beroep worden ingesteld bij de Raad.   
 
 ### Artikel  73  
 

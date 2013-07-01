@@ -214,8 +214,13 @@ Indien alleen door de verdachte beroep in cassatie is ingesteld, kan hij ter zak
 
 ### Artikel  36  
 
-1.  In afwijking in zoverre van het bepaalde in [artikel 461, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) geschiedt zowel in het daar als ook in het in [artikel 467, eerste lid, van dat Wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde geval, de verwijzing naar een bijzondere rechtbank.   
-2.  Hetgeen bij de [artikelen 470](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [473](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [474 van dat Wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent het gerechtshof, deszelfs voorzitter en de advocaat-generaal is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie van overeenkomstige toepassing.   
+1.  In afwijking in zoverre van het bepaalde in [artikel 471, eerste lid, van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) geschiedt zowel in het daar als ook in het in [artikel 472, eerste en tweede lid, van dat Wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde geval, de verwijzing naar een bijzondere rechtbank.   
+2.  Hetgeen bij de [artikelen 473](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [476 van dat Wetboek](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent het gerechtshof, deszelfs voorzitter en de advocaat-generaal is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie van overeenkomstige toepassing.   
+
+### Artikel  37  
+
+1.  In afwijking in zoverre van [artikel 482g van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), geschiedt in het daar bedoelde geval, de verwijzing naar een bijzondere rechtbank.   
+2.  Hetgeen bij [artikel 482g van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent de rechtbank, deszelfs voorzitter en de officier van justitie is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie bij die rechtbank van overeenkomstige toepassing.   
 
 ### Artikel  Ia  
 

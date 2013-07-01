@@ -16,11 +16,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister voor Immigratie, Integratie en Asiel;  
+a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
 b. inburgeringsplichtige: de persoon die op grond van de artikelen 3, 5 en 6 inburgeringsplichtig is;  
 
-c. leerplichtige leeftijd: de leeftijd waarop bij verblijf in Nederland sprake is van een verplichting tot inschrijving als bedoeld in [artikel 3 van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);  
+c. leerplichtige leeftijd: de leeftijd waarop bij verblijf in Nederland sprake is van een verplichting tot inschrijving als bedoeld in artikel 3 van de Leerplichtwet 1969;  
 
 d. inburgeringsplicht: de verplichting, bedoeld in artikel 7;  
 
@@ -28,9 +28,9 @@ e. geestelijke bedienaar: de persoon die een geestelijk, godsdienstig of levensb
 
 f. inburgeringsexamen: het examen, bedoeld in artikel 7, tweede lid, onderdeel a;  
 
-g. burgerservicenummer: het als zodanig overeenkomstig de [Wet algemene bepalingen burgerservicenummer](../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) aan een natuurlijke persoon toegekend nummer;  
+g. burgerservicenummer: het als zodanig overeenkomstig de Wet algemene bepalingen burgerservicenummer aan een natuurlijke persoon toegekend nummer;  
 
-h. kwalificatieplicht: de plicht tot inschrijving als bedoeld in [artikel 4a, eerste lid, van de Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md).     
+h. kwalificatieplicht: de plicht tot inschrijving als bedoeld in artikel 4a, eerste lid, van de Leerplichtwet 1969.     
 2.  Bij regeling van Onze Minister kan de geestelijke bedienaar, bedoeld in het eerste lid, onderdeel e, nader worden omschreven.   
 
 ### Artikel  2  
@@ -43,20 +43,20 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 ### Artikel  3  
 
-1.  Inburgeringsplichtig is de vreemdeling, die rechtmatig verblijf verkrijgt in de zin van [artikel 8, onderdelen a en c, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), die: 
+1.  Inburgeringsplichtig is de vreemdeling, die rechtmatig verblijf verkrijgt in de zin van artikel 8, onderdelen a en c, van de Vreemdelingenwet 2000, die: 
 
 a. anders dan voor een tijdelijk doel in Nederland verblijft, of  
 
 b. geestelijke bedienaar is.     
 2.  Bij algemene maatregel van bestuur worden regels gesteld over het voortduren van de inburgeringsplicht in geval van tijdelijke beëindiging van de in het eerste lid bedoelde omstandigheden.   
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het tijdelijke doel, bedoeld in het eerste lid, waarbij zo veel mogelijk wordt aangesloten bij het verblijfsrecht van tijdelijke aard, bedoeld in [artikel 21, eerste lid, onderdeel b, van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het tijdelijke doel, bedoeld in het eerste lid, waarbij zo veel mogelijk wordt aangesloten bij het verblijfsrecht van tijdelijke aard, bedoeld in artikel 21, eerste lid, onderdeel b, van de Vreemdelingenwet 2000.   
 4.  De inburgeringsplicht, bedoeld in het eerste lid, wordt niet met terugwerkende kracht gevestigd.   
 
 ### Artikel  5  
 
 1.  In afwijking van artikel 3 is niet inburgeringsplichtig degene die: 
 
-a. jonger dan 16 jaar is dan wel de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt;  
+a. jonger dan 16 jaar is dan wel de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt;  
 
 b. ten minste acht jaren tijdens de leerplichtige leeftijd in Nederland heeft verbleven;  
 
@@ -94,6 +94,7 @@ b. hij op grond van door de inburgeringsplichtige aantoonbaar geleverde inspanni
 a. verdere ontheffing van de inburgeringsplicht, en  
 
 b. nadere regels omtrent de toepassing van het eerste lid.     
+3.  Voor het in behandeling nemen van een aanvraag van een ontheffing als bedoeld in het eerste of tweede lid, dan wel voor een medisch onderzoek ten behoeve van de ontheffing, kan een bij ministeriële regeling te bepalen bedrag worden vastgesteld, dat de inburgeringsplichtige is verschuldigd. Onder de inburgeringsplichtige, bedoeld in de eerste zin, wordt mede verstaan de inburgeringsplichtige, bedoeld in artikel X, tweede lid, van de Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige (Stb. 2012, 430), die een ontheffing aanvraagt op grond van artikel 6, zoals dit artikel luidde op 31 december 2012.   
 
 ### Artikel  7  
 
@@ -169,6 +170,8 @@ c. het toezicht op de instelling, bedoeld in het eerste lid.
 
 ####Inburgeringsexamen
 
+Vervallen per 01-01-2013   
+
 ### Hoofdstuk  5  
 
 ####Sociale lening
@@ -200,7 +203,7 @@ c. kwijtschelding.
 ### Artikel  31  
 
 1.  Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die niet binnen de in artikel 7, eerste lid, genoemde termijn, of de met toepassing van artikel 7, derde lid, of van de krachtens artikel 7, vierde lid, aanhef en onderdeel a, gestelde regels verlengde termijn, aan de inburgeringsplicht heeft voldaan.   
-2.  In afwijking van het eerste lid, legt Onze Minister geen boete op, indien bij of krachtens [artikel 18 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd wordt afgewezen dan wel bij of krachtens [artikel 19 van die wet](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) de verblijfsvergunning voor bepaalde tijd wordt ingetrokken.   
+2.  In afwijking van het eerste lid, legt Onze Minister geen boete op, indien bij of krachtens artikel 18 van de Vreemdelingenwet 2000 de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd wordt afgewezen dan wel bij of krachtens artikel 19 van die wet de verblijfsvergunning voor bepaalde tijd wordt ingetrokken.   
 
 ### Artikel  32  
 
@@ -221,7 +224,7 @@ b. € 1250 voor het niet voldoen aan de inburgeringsplicht binnen de bij of kra
 
 ### Artikel  36  
 
-[Artikel 5:53 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien artikel 31, eerste lid, of 33 is overtreden.  
+Artikel 5:53 van de Algemene wet bestuursrecht is van toepassing indien artikel 31, eerste lid, of 33 is overtreden.  
 
 ### Hoofdstuk  7  
 
@@ -236,13 +239,13 @@ a. aan Onze Minister en een of meer bij of krachtens algemene maatregel van best
 
 b. aan Onze Minister van gegevens met het oog op de evaluatie van bestaand beleid en de voorbereiding van toekomstig beleid;  
 
-c. aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de gegevens die van belang zijn voor de beoordeling van een verzoek tot verkrijging van het Nederlanderschap op grond van de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+c. aan Onze Minister van Veiligheid en Justitie van de gegevens die van belang zijn voor de beoordeling van een verzoek tot verkrijging van het Nederlanderschap op grond van de Rijkswet op het Nederlanderschap;  
 
-d. aan Onze Minister van Onderwijs, Cultuur en Wetenschap van de gegevens, bedoeld in [artikel 24o, tweede lid, onder e, van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) ten behoeve van het diplomaregister;  
+d. aan Onze Minister van Onderwijs, Cultuur en Wetenschap van de gegevens, bedoeld in artikel 24o, tweede lid, onder e, van de Wet op het onderwijstoezicht ten behoeve van het diplomaregister;  
 
-e. aan Onze Minister van de gegevens die van belang zijn voor de uitvoering van de [artikelen 16a](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [18](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [19](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [21](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [34 van de Vreemdelingenwet 2000](../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+e. aan Onze Minister van Veiligheid en Justitie van de gegevens die van belang zijn voor de uitvoering van de artikelen 16a, 18, 19, 21 en 34 van de Vreemdelingenwet 2000;  
 
-f. aan de rijksbelastingdienst van de gegevens die van belang zijn voor de uitvoering van [artikel 1.6, eerste lid, onderdeel g, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../wet/wet/kinderopvang/BWBR0017017/README.md).     
+f. aan de rijksbelastingdienst van de gegevens die van belang zijn voor de uitvoering van artikel 1.6, eerste lid, onderdeel g, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.     
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het Informatiesysteem Inburgering. Daarbij worden in ieder geval regels gesteld met betrekking tot de in het Informatiesysteem Inburgering op te nemen gegevens en de verwerking van die gegevens.   
 
 ### Artikel  49  
@@ -251,7 +254,7 @@ Onze Minister en een of meer bij of krachtens algemene maatregel van bestuur aan
 
 ### Artikel  50  
 
-1.  Bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) kunnen door Onze Minister en een of meer bij of krachtens algemene maatregel van bestuur aan te wijzen instanties worden verwerkt, voorzover deze gegevens noodzakelijk zijn voor de doelmatige en doeltreffende uitvoering van deze wet.   
+1.  Bijzondere persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens kunnen door Onze Minister en een of meer bij of krachtens algemene maatregel van bestuur aan te wijzen instanties worden verwerkt, voorzover deze gegevens noodzakelijk zijn voor de doelmatige en doeltreffende uitvoering van deze wet.   
 2.  Bij regeling van Onze Minister worden regels gesteld ter waarborging van de persoonlijke levenssfeer. Daarbij wordt in ieder geval geregeld: 
 
 a. op welke wijze de verwerking, bedoeld in het eerste lid, plaatsvindt;  
@@ -320,7 +323,7 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 ### Artikel  67  
 
-Op rijksbijdragen die op grond van de [Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) zijn verstrekt ten behoeve van tijdvakken voorafgaand aan de inwerkingtreding van deze wet, blijft het recht zoals dat voor het desbetreffende tijdvak gold van toepassing.  
+Op rijksbijdragen die op grond van de Wet inburgering nieuwkomers zijn verstrekt ten behoeve van tijdvakken voorafgaand aan de inwerkingtreding van deze wet, blijft het recht zoals dat voor het desbetreffende tijdvak gold van toepassing.  
 
 ### Artikel  69  
 
@@ -336,7 +339,7 @@ Onze Minister zendt binnen vier jaar na inwerkingtreding van deze wet, en vervol
 
 ### Artikel  72  
 
-De [Wet inburgering nieuwkomers](../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md) wordt ingetrokken.  
+De Wet inburgering nieuwkomers wordt ingetrokken.  
 
 ### Artikel  73  
 

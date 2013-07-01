@@ -25,7 +25,11 @@ e. Enkelvoudig Verdrag: het op 30 maart 1961 te New York tot stand gekomen Enkel
 
 f. Psychotrope Stoffen Verdrag: het op 21 februari 1971 te Wenen tot stand gekomen Verdrag inzake psychotrope stoffen (*Trb.* 1989, 129);  
 
-g. Gemeenschappelijk optreden: het Gemeenschappelijk Optreden nr. 97/396/JBZ van 16 juni 1997 vastgesteld door de Raad van de Europese Unie op basis van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de informatie-uitwisseling, risicoanalyse en controle van nieuwe synthetische drugs (PbEG L 167).     
+g. Gemeenschappelijk optreden: het Gemeenschappelijk Optreden nr. 97/396/JBZ van 16 juni 1997 vastgesteld door de Raad van de Europese Unie op basis van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de informatie-uitwisseling, risicoanalyse en controle van nieuwe synthetische drugs (PbEG L 167);  
+
+h. Verdrag tegen sluikhandel: het op 20 december 1988 tot stand gekomen Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 1989, 97);  
+
+i. Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel: het op 31 januari 1995 te Straatsburg tot stand gekomen Verdrag inzake de sluikhandel over zee, ter uitvoering van artikel 17 van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 2010, 165 en 239).     
 2.  Voor toepassing van deze wet en de daarop berustende bepalingen worden de zouten van de substanties met die substanties gelijkgesteld.   
 3.  Voor de toepassing van deze wet wordt onder vervaardigen begrepen raffineren en omzetten.   
 4.  Onder binnen het grondgebied van Nederland brengen van middelen, bedoeld in de artikelen 2 en 3, is begrepen: het binnen het grondgebied van Nederland brengen van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling, met betrekking tot die middelen, die binnen het grondgebied van Nederland zijn gebracht, of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.   
@@ -97,7 +101,7 @@ a. apothekers en apotheekhoudende artsen indien zij krachtens artikel 4, eerste 
 
 b. dierenartsen, indien zij de krachtens artikel 4 aangewezen middelen voor diergeneeskundige doeleinden verkopen, afleveren, verstrekken, vervoeren of aanwezig hebben.     
 2.  De verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in lijst I of II, zijn voorts niet van toepassing op daartoe bij algemene maatregel van bestuur aangewezen instellingen en op hen die de desbetreffende middelen in de aanwezige hoeveelheid tot uitoefening van de geneeskunst, de tandheelkunde of de diergeneeskunde, dan wel voor eigen geneeskundig gebruik behoeven of krachtens wettelijk voorschrift in voorraad moeten hebben en langs wettige weg hebben verkregen.   
-3.  Voorts kunnen, indien een noodtoestand als bedoeld in [artikel 1, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) is afgekondigd, bij koninklijk besluit, op voordracht van Onze Minister, andere instellingen of personen dan die, bedoeld in het eerste en tweede lid, worden aangewezen voor wie de verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in lijst I of II, niet van toepassing zijn. Deze aanwijzing kan worden beperkt tot bepaalde gebieden en bepaalde middelen. Voorts kunnen aan de aanwijzing nadere voorschriften worden verbonden. De aanwijzing vervalt van rechtswege indien de noodtoestand wordt beëindigd, en kan voorts worden ingetrokken bij koninklijk besluit, op voordracht van Onze Minister.   
+3.  Voorts kunnen, indien een noodtoestand als bedoeld in artikel 1, eerste lid, van de Coördinatiewet uitzonderingstoestanden is afgekondigd, bij koninklijk besluit, op voordracht van Onze Minister, andere instellingen of personen dan die, bedoeld in het eerste en tweede lid, worden aangewezen voor wie de verboden inzake het verstrekken, vervoeren of aanwezig hebben van middelen als bedoeld in lijst I of II, niet van toepassing zijn. Deze aanwijzing kan worden beperkt tot bepaalde gebieden en bepaalde middelen. Voorts kunnen aan de aanwijzing nadere voorschriften worden verbonden. De aanwijzing vervalt van rechtswege indien de noodtoestand wordt beëindigd, en kan voorts worden ingetrokken bij koninklijk besluit, op voordracht van Onze Minister.   
 4.  De verboden inzake het vervoeren of aanwezig hebben zijn bovendien niet van toepassing op hen die de middelen vervoeren of daartoe aanwezig hebben in opdracht van degene die tot zodanig vervoer bevoegd is.   
 
 ### Artikel  6  
@@ -156,8 +160,8 @@ Een ontheffing of een verlenging daarvan wordt geweigerd indien de aanvrager ing
 
 ### Artikel  8c  
 
-1.  Een ontheffing of een verlenging daarvan kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-2.  Met het oog op toepassing van het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de in het eerste lid genoemde wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+1.  Een ontheffing of een verlenging daarvan kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+2.  Met het oog op toepassing van het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de in het eerste lid genoemde wet, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.   
 
 ### Artikel  8d  
 
@@ -177,8 +181,8 @@ d. indien een krachtens artikel 7, tweede lid, verschuldigde vergoeding niet bin
 
 a. indien de houder van de ontheffing handelt in strijd met een bij of krachtens deze wet gesteld voorschrift;  
 
-b. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
-2.  Met het oog op toepassing van het eerste lid, onder b, kan het Bureau bevordering integriteitsbeoordelingen, bedoeld in [artikel 8 van de in het eerste lid, onder b, genoemde wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+b. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.     
+2.  Met het oog op toepassing van het eerste lid, onder b, kan het Bureau bevordering integriteitsbeoordelingen, bedoeld in artikel 8 van de in het eerste lid, onder b, genoemde wet, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.   
 
 ### Artikel  8f  
 
@@ -224,7 +228,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ### Artikel  8k  
 
-Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, behalve de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen personen, belast de ambtenaren, bedoeld in artikel 8j, en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.  
+Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 en artikel 142, eerste lid, aanhef en onder a en b, van het Wetboek van Strafvordering, belast de ambtenaren, bedoeld in artikel 8j, en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.  
 
 ### Artikel  9  
 
@@ -280,7 +284,7 @@ c. een krachtens artikel 8a, eerste lid, aan een ontheffing verbonden voorschrif
 ### Artikel  11a  
 
 1.  Deelneming aan een organisatie die tot oogmerk heeft het plegen van een misdrijf als bedoeld in artikel 10, derde, vierde en vijfde lid, 10a, eerste lid, of 11, derde, vierde en vijfde lid, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.   
-2.  [Artikel 140, derde en vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van overeenkomstige toepassing.   
+2.  Artikel 140, derde en vierde lid, van het Wetboek van Strafrecht is van overeenkomstige toepassing.   
 
 ### Artikel  12  
 
@@ -295,10 +299,11 @@ Indien de waarde van de zaken waarmee of met betrekking tot welke de feiten, str
 a. een der in artikel 10a, eerste lid, strafbaar gestelde feiten voorzover die zijn gepleegd om het in artikel 10, vijfde lid, strafbaar gestelde feit voor te bereiden of te bevorderen, dan wel  
 
 b. poging tot of deelneming aan het in artikel 10, vijfde lid, strafbaar gestelde feit.     
+4.  De Nederlandse strafwet is toepasselijk op een der in artikel 10, tweede tot en met vijfde lid, artikel 10a, eerste lid, artikel 11, tweede tot en met vierde lid, en artikel 11a strafbaar gestelde feiten, indien het feit is gepleegd aan boord van een buitenlands vaartuig dan wel een vaartuig zonder nationaliteit of een daarmee gelijk gesteld vaartuig uit hoofde van het internationale recht, op open zee, en wordt opgetreden in het kader van de toepassing van het Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel.   
 
 ### Artikel  13a  
 
-Onverminderd het bepaalde in de [artikelen 33 tot en met 35](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [36 *b* tot en met 36 *d* van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) worden de in lijst I of II bedoelde middelen verbeurd of aan het verkeer onttrokken verklaard.  
+Onverminderd het bepaalde in de artikelen 33 tot en met 35 en 36 *b* tot en met 36 *d* van het Wetboek van Strafrecht worden de in lijst I of II bedoelde middelen verbeurd of aan het verkeer onttrokken verklaard.  
 
 ### Artikel  13b  
 
@@ -339,7 +344,7 @@ J. DONNER.
 ### Lijst  I  
 
 | International Non-proprietary Name (INN) ¹  | andere benamingen  | nadere omschrijving  |
-|:---|:---|:---|
+|---|---|---|
 | acetorfine  | –  | --- |
 | –  | acetyl- *alfa* -methylfentanyl  | *N* -[1-(*alfa* -methylfenethyl)-4-piperidyl]-acetanilide  |
 | –  | acetyldihydrocodeïne  | 4,5-epoxy-3-methoxy- *N* -methylmorfinan-6-yl-acetaat  |
@@ -519,7 +524,7 @@ J. DONNER.
 ### Lijst  II  
 
 | International Non-proprietary Name (INN)  | andere benamingen  | nadere omschrijving  |
-|:---|:---|:---|
+|---|---|---|
 | allobarbital  | –  | --- |
 | alprazolam  | –  | --- |
 | amobarbital  | –  | --- |
@@ -597,7 +602,7 @@ J. DONNER.
 Paddo’s A: paddenstoelen die van nature de stof psilocine of psilocybine bevatten:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | agrocybe farinacea  | –  |
 | conocybe cyanopus  | blauwvoetbreeksteeltje  |
 | conocybe kuehneriana  | grasbreeksteeltje  |
@@ -788,7 +793,7 @@ Paddo’s A: paddenstoelen die van nature de stof psilocine of psilocybine bevat
 B: paddenstoelen die van nature muscimol en iboteenzuur bevatten:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | amanita muscaria muscaria  | vliegenzwam  |
 | amanita pantherina  | panteramaniet  |
 

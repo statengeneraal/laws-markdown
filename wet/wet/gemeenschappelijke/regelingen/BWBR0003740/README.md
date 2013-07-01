@@ -43,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 1.  De regeling vermeldt het belang of de belangen ter behartiging waarvan zij is getroffen of gewijzigd.   
 2.  Een regeling, waarbij gebruik wordt gemaakt van de bevoegdheid, bedoeld in artikel 8, eerste of tweede lid, geeft aan welke bevoegdheden de besturen van de deelnemende gemeenten aan het bestuur van het openbaar lichaam onderscheidenlijk aan het gemeenschappelijk orgaan bij het aangaan van de regeling overdragen. Een regeling als hier bedoeld kan bepalingen inhouden omtrent de wijze waarop verandering kan worden gebracht in de overgedragen bevoegdheden.   
 3.  Een regeling als bedoeld in het tweede lid houdt bepalingen in omtrent de inrichting en samenstelling van het bestuur van het openbaar lichaam onderscheidenlijk de samenstelling van het gemeenschappelijk orgaan en wijst de plaats van vestiging aan.   
-4.  Een regeling als bedoeld in artikel 8, eerste of tweede lid, kan aangeven dat een ombudsman of ombudscommissie van een van de deelnemers aan de gemeenschappelijke regeling als bedoeld in [artikel 81p, eerste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 79q, eerste lid, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of [artikel 51b, eerste lid, van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) bevoegd is tot de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Indien een regeling de hiervoor bedoelde bevoegdheid instelt, dan wel deze beëindigt, zendt het bestuur de regeling aan de Nationale ombudsman.   
+4.  Een regeling als bedoeld in artikel 8, eerste of tweede lid, kan aangeven dat een ombudsman of ombudscommissie van een van de deelnemers aan de gemeenschappelijke regeling als bedoeld in artikel 81p, eerste lid, van de Gemeentewet, artikel 79q, eerste lid, van de Provinciewet of artikel 51b, eerste lid, van de Waterschapswet bevoegd is tot de behandeling van verzoekschriften als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht. Indien een regeling de hiervoor bedoelde bevoegdheid instelt, dan wel deze beëindigt, zendt het bestuur de regeling aan de Nationale ombudsman.   
 
 ### Artikel  10a  
 
@@ -103,7 +103,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in artikel 8, twee
 3.  De regeling houdt bepalingen in omtrent de wijze waarop een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan door de raad die dit lid heeft aangewezen, ter verantwoording kan worden geroepen voor het door hem in dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.   
 4.  Ingeval toepassing is gegeven aan het bepaalde in artikel 13, vijfde lid, onder a, houdt de regeling bepalingen in omtrent de wijze waarop aan de raad die geen lid van het algemeen bestuur van het openbaar lichaam of van het gemeenschappelijk orgaan aanwijst, de door een of meer leden van die raad gevraagde inlichtingen worden verstrekt en de door die raad gevraagde verantwoording wordt afgelegd voor het door dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.   
 5.  De regeling houdt bepalingen in omtrent de bevoegdheid van de raad, een door hem aangewezen lid van het algemeen bestuur van het openbaar lichaam of een door hem aangewezen lid van het gemeenschappelijk orgaan, ontslag te verlenen, indien dit lid het vertrouwen van de raad niet meer bezit.   
-6.  Bij het verstrekken van inlichtingen ingevolge het eerste of het vierde lid, of het afleggen van verantwoording ingevolge het derde of het vierde lid, verschaft een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan over zaken waaromtrent krachtens artikel 23 geheimhouding is opgelegd slechts informatie, indien krachtens [artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) geheimhouding is opgelegd. Laatstbedoelde geheimhouding kan eerst worden opgeheven, nadat door het algemeen bestuur van het openbaar lichaam of door het gemeenschappelijk orgaan tot opheffing van de geheimhouding is besloten.   
+6.  Bij het verstrekken van inlichtingen ingevolge het eerste of het vierde lid, of het afleggen van verantwoording ingevolge het derde of het vierde lid, verschaft een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan over zaken waaromtrent krachtens artikel 23 geheimhouding is opgelegd slechts informatie, indien krachtens artikel 25 van de Gemeentewet geheimhouding is opgelegd. Laatstbedoelde geheimhouding kan eerst worden opgeheven, nadat door het algemeen bestuur van het openbaar lichaam of door het gemeenschappelijk orgaan tot opheffing van de geheimhouding is besloten.   
 
 ### Artikel  17  
 
@@ -147,18 +147,18 @@ c. rechtstreeks noch middellijk een overeenkomst aangaan betreffende:
 7e. het ondershands huren of pachten van het openbaar lichaam.       
 2.  Van het bepaalde in het eerste lid onder *c* kunnen gedeputeerde staten ontheffing verlenen.   
 3.  Ten aanzien van een lid van het gemeenschappelijk orgaan is het bepaalde in het eerste lid onder *a* van overeenkomstige toepassing.   
-4.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid, is [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.   
+4.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid, is artikel X 8, eerste tot en met vijfde lid, van de Kieswet van overeenkomstige toepassing.   
 
 ### Artikel  21  
 
 1.  De leden van het bestuur van een openbaar lichaam of van het gemeenschappelijk orgaan kunnen een tegemoetkoming in de kosten en, voor zover zij niet de functie van wethouder, burgemeester of secretaris vervullen, een vergoeding voor hun werkzaamheden ontvangen. Deze tegemoetkoming en vergoeding worden bij de regeling, of krachtens de regeling door het algemeen bestuur van het openbaar lichaam of het gemeenschappelijk orgaan, vastgesteld. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld. De hoogte van de vergoeding staat in redelijke verhouding tot de aan het lidmaatschap verbonden werkzaamheden, mede rekening houdende met de vergoeding voor werkzaamheden welke het bestuurslid ontvangt uit hoofde van zijn lidmaatschap van de raad.   
 2.  Met betrekking tot de in het eerste lid bedoelde leden kan voorts bij de regeling, of krachtens de regeling door het algemeen bestuur van een openbaar lichaam of het gemeenschappelijk orgaan, een tegemoetkoming in of vergoeding van bijzondere kosten en andere financiële voorzieningen worden vastgesteld die verband houden met de vervulling van het lidmaatschap van het bestuur van een openbaar lichaam of van het gemeenschappelijk orgaan. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.   
 3.  Een besluit van het algemeen bestuur van het openbaar lichaam of van het gemeenschappelijk orgaan als bedoeld in het eerste, tweede en derde lid wordt aan gedeputeerde staten gezonden.   
-4.  [Artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) is van overeenkomstige toepassing.   
+4.  Artikel 99 van de Gemeentewet is van overeenkomstige toepassing.   
 
 ### Artikel  22  
 
-1.  De [artikelen 16](../../../../../wet/gemeentewet/BWBR0005416/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) zijn, voor zover daarvan bij deze wet niet is afgeweken, op het houden en de orde van de vergaderingen van het algemeen bestuur van het openbaar lichaam van overeenkomstige toepassing.   
+1.  De artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Gemeentewet zijn, voor zover daarvan bij deze wet niet is afgeweken, op het houden en de orde van de vergaderingen van het algemeen bestuur van het openbaar lichaam van overeenkomstige toepassing.   
 2.  Het algemeen bestuur van het openbaar lichaam en het gemeenschappelijk orgaan vergaderen jaarlijks tenminste tweemaal.   
 3.  De vergaderingen van het algemeen bestuur zijn openbaar.   
 4.  De deuren worden gesloten wanneer een vijfde gedeelte der aanwezige leden daarom verzoekt of de voorzitter het nodig oordeelt.   
@@ -166,22 +166,22 @@ c. rechtstreeks noch middellijk een overeenkomst aangaan betreffende:
 
 ### Artikel  23  
 
-1.  Het algemeen bestuur kan in een besloten vergadering, op grond van de belangen, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), omtrent het in die vergadering met gesloten deuren behandelde en omtrent de inhoud van de stukken welke aan het algemeen bestuur worden overgelegd, geheimhouding opleggen. Deze wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennisdragen, in acht genomen, totdat het algemeen bestuur haar opheft.   
-2.  Op grond van de belangen genoemd in [artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur en de voorzitter van het openbaar lichaam en door een commissie als bedoeld in artikel 24 of 25, ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van het algemeen bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.   
+1.  Het algemeen bestuur kan in een besloten vergadering, op grond van de belangen, genoemd in artikel 10 van de Wet openbaarheid van bestuur, omtrent het in die vergadering met gesloten deuren behandelde en omtrent de inhoud van de stukken welke aan het algemeen bestuur worden overgelegd, geheimhouding opleggen. Deze wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennisdragen, in acht genomen, totdat het algemeen bestuur haar opheft.   
+2.  Op grond van de belangen genoemd in artikel 10 van de Wet openbaarheid van bestuur kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur en de voorzitter van het openbaar lichaam en door een commissie als bedoeld in artikel 24 of 25, ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van het algemeen bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.   
 3.  De krachtens het tweede lid aan het algemeen bestuur opgelegde verplichting tot geheimhouding vervalt, indien de oplegging niet door het algemeen bestuur in zijn eerstvolgende vergadering, die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden, te zamen vertegenwoordigend meer dan de helft van het aantal stemmen, is bezocht, wordt bekrachtigd.   
 4.  De krachtens het tweede lid aan leden van het algemeen bestuur opgelegde verplichting tot geheimhouding wordt door hen in acht genomen totdat het orgaan, dat de verplichting heeft opgelegd, dan wel, indien het onderwerp waaromtrent geheimhouding is opgelegd aan het algemeen bestuur is voorgelegd, totdat het algemeen bestuur haar opheft. Het algemeen bestuur kan deze beslissing alleen nemen in een vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden, te zamen vertegenwoordigend meer dan de helft van het aantal stemmen, is bezocht.   
 5.  Het bepaalde in artikel 22 en in het eerste lid van dit artikel is eveneens van toepassing op het gemeenschappelijk orgaan, indien de regeling is getroffen of mede is getroffen door gemeenteraden.   
 
 ### Artikel  24  
 
-1.  Het algemeen bestuur van het openbaar lichaam kan commissies van advies instellen. Het regelt de bevoegdheden en de samenstelling. [Artikel 94 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) is van overeenkomstige toepassing.   
+1.  Het algemeen bestuur van het openbaar lichaam kan commissies van advies instellen. Het regelt de bevoegdheden en de samenstelling. Artikel 94 van de Gemeentewet is van overeenkomstige toepassing.   
 2.  De instelling van vaste commissies van advies aan het dagelijks bestuur of aan de voorzitter en de regeling van haar bevoegdheden en samenstelling geschieden door het algemeen bestuur op voorstel van het dagelijks bestuur onderscheidenlijk van de voorzitter.   
 3.  Andere commissies van advies aan het dagelijks bestuur of aan de voorzitter worden door het dagelijks bestuur onderscheidenlijk de voorzitter ingesteld.   
-4.  De leden van commissies van advies die geen burgemeester, wethouder of lid van een gemeenteraad zijn kunnen een vergoeding voor het bijwonen van vergaderingen van de commissie ontvangen. De [artikelen 96 tot en met 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), alsmede de op grond daarvan gestelde nadere regelen, zijn alsdan van overeenkomstige toepassing, met dien verstande dat, wanneer daarin sprake is van een onderverdeling in gemeenteklassen, het bepaalde voor de gemeenteklasse van 50 001-100 000 inwoners van toepassing is.   
+4.  De leden van commissies van advies die geen burgemeester, wethouder of lid van een gemeenteraad zijn kunnen een vergoeding voor het bijwonen van vergaderingen van de commissie ontvangen. De artikelen 96 tot en met 99 van de Gemeentewet, alsmede de op grond daarvan gestelde nadere regelen, zijn alsdan van overeenkomstige toepassing, met dien verstande dat, wanneer daarin sprake is van een onderverdeling in gemeenteklassen, het bepaalde voor de gemeenteklasse van 50 001-100 000 inwoners van toepassing is.   
 
 ### Artikel  25  
 
-1.  Het algemeen bestuur van het openbaar lichaam kan commissies instellen met het oog op de behartiging van bepaalde belangen indien de regeling in deze mogelijkheid voorziet. Het algemeen bestuur regelt de bevoegdheden en de samenstelling. [Artikel 94](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [139 tot en met 144 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en de artikelen 21 en 23, eerste en tweede lid van deze wet zijn van overeenkomstige toepassing.   
+1.  Het algemeen bestuur van het openbaar lichaam kan commissies instellen met het oog op de behartiging van bepaalde belangen indien de regeling in deze mogelijkheid voorziet. Het algemeen bestuur regelt de bevoegdheden en de samenstelling. Artikel 94 en 139 tot en met 144 van de Gemeentewet en de artikelen 21 en 23, eerste en tweede lid van deze wet zijn van overeenkomstige toepassing.   
 2.  Het algemeen bestuur gaat niet over tot het instellen van een commissie als bedoeld in het eerste lid dan na verkregen toestemming van de raden van elk der deelnemende gemeenten. De toestemming kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
 3.  Het algemeen bestuur kan aan een commissie als bedoeld in het eerste lid bevoegdheden van het algemeen bestuur en van het dagelijks bestuur van het openbaar lichaam overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet. Het algemeen bestuur kan in ieder geval niet overdragen de bevoegdheid tot: 
 
@@ -233,7 +233,7 @@ e. of een openbaar lichaam of een gemeenschappelijk orgaan is ingesteld.
 
 ### Artikel  28  
 
-1.  Geschillen omtrent de toepassing, in de ruimste zin, van een regeling tussen besturen van deelnemende gemeenten of tussen besturen van een of meer gemeenten en het bestuur van het openbaar lichaam of het gemeenschappelijk orgaan worden door gedeputeerde staten beslist, voor zover zij niet behoren tot die, vermeld in [artikel 112, eerste lid van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) of tot die, waarvan de beslissing krachtens [artikel 112, tweede lid van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) is opgedragen hetzij aan de rechterlijke macht, hetzij aan gerechten die niet tot de rechterlijke macht behoren.   
+1.  Geschillen omtrent de toepassing, in de ruimste zin, van een regeling tussen besturen van deelnemende gemeenten of tussen besturen van een of meer gemeenten en het bestuur van het openbaar lichaam of het gemeenschappelijk orgaan worden door gedeputeerde staten beslist, voor zover zij niet behoren tot die, vermeld in artikel 112, eerste lid van de Grondwet of tot die, waarvan de beslissing krachtens artikel 112, tweede lid van de Grondwet is opgedragen hetzij aan de rechterlijke macht, hetzij aan gerechten die niet tot de rechterlijke macht behoren.   
 2.  Gedeputeerde staten kunnen bij de beslissing van het geschil het desbetreffende bestuur opdragen een besluit te nemen met inachtneming van het in hun beslissing bepaalde en binnen een daartoe te stellen termijn. Indien binnen de gestelde termijn het besluit niet is genomen, geschiedt dit door gedeputeerde staten.   
 3.  In spoedeisende gevallen kunnen gedeputeerde staten bij de beslissing van het geschil in de plaats van het desbetreffende bestuur een besluit als bedoeld in het tweede lid nemen.   
 
@@ -249,7 +249,7 @@ Indien de deelnemende gemeenten in meer dan één provincie zijn gelegen, worden
 
 1.  Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen, en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de aan de regeling deelnemende gemeenten toekomen, met dien verstande dat: 
 
-a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de belasting, bedoeld in [artikel 228 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), de rioolheffing, bedoeld in [artikel 228a van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), de rechten bedoeld in [artikel 229 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), de rechten waarvan de heffing krachtens andere wetten dan de [Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) geschiedt en de belasting, bedoeld in [artikel 15.33 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de belasting, bedoeld in artikel 228 van de Gemeentewet, de rioolheffing, bedoeld in artikel 228a van de Gemeentewet, de rechten bedoeld in artikel 229 van de Gemeentewet, de rechten waarvan de heffing krachtens andere wetten dan de Gemeentewet geschiedt en de belasting, bedoeld in artikel 15.33 van de Wet milieubeheer.  
 
 b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.     
 2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de deelnemende gemeenten geregeld.   
@@ -261,7 +261,7 @@ Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het
 
 ### Artikel  32  
 
-Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), zullen gelden.  
+Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XV van de Gemeentewet, zullen gelden.  
 
 ### Artikel  33  
 
@@ -277,21 +277,21 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 
 ### Artikel  34a  
 
-1.  Indien het openbaar lichaam een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) ontvangt van het Rijk of middelen ontvangt van de deelnemende gemeenten, die afkomstig zijn uit een specifieke uitkering, zijn de [artikelen, 17a](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [17b van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing, met dien verstande dat: 
+1.  Indien het openbaar lichaam een specifieke uitkering als bedoeld in artikel 15a van de Financiële-verhoudingswet ontvangt van het Rijk of middelen ontvangt van de deelnemende gemeenten, die afkomstig zijn uit een specifieke uitkering, zijn de artikelen, 17a en 17b van de Financiële-verhoudingswet op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing, met dien verstande dat: 
 
 a. voor gedeputeerde staten en het college van burgemeester en wethouders wordt gelezen: het dagelijks bestuur van het openbaar lichaam;  
 
-b. de in [artikel 17b, derde lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) bedoelde opschorting betrekking heeft op de betalingen op grond van [artikel 15, eerste lid, Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de gemeenten die aan de regeling deelnemen.     
-2.  De ingevolge [artikel 186, tweede lid, aanhef en onder b, en derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) gestelde regels, alsmede het vierde tot en met het achtste lid van dat artikel, zijn van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
+b. de in artikel 17b, derde lid, van de Financiële-verhoudingswet bedoelde opschorting betrekking heeft op de betalingen op grond van artikel 15, eerste lid, Financiële-verhoudingswet aan de gemeenten die aan de regeling deelnemen.     
+2.  De ingevolge artikel 186, tweede lid, aanhef en onder b, en derde lid, van de Gemeentewet gestelde regels, alsmede het vierde tot en met het achtste lid van dat artikel, zijn van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
 
 a. voor het college wordt gelezen: het dagelijks bestuur van het openbaar lichaam;  
 
-b. de in [artikel 186, achtste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde opschorting betrekking heeft op de betalingen op grond van [artikel 15, eerste lid, Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de gemeenten die aan de regeling deelnemen.     
+b. de in artikel 186, achtste lid, van de Gemeentewet bedoelde opschorting betrekking heeft op de betalingen op grond van artikel 15, eerste lid, Financiële-verhoudingswet aan de gemeenten die aan de regeling deelnemen.     
 
 ### Artikel  35  
 
 1.  Het dagelijks bestuur van het openbaar lichaam of het gemeenschappelijk orgaan zendt de ontwerp-begroting zes weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk zes weken voordat zij door het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten.   
-2.  De ontwerp-begroting wordt door de zorg van de besturen van de deelnemende gemeenten voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. [Artikel 190, tweede en derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) is van overeenkomstige toepassing.   
+2.  De ontwerp-begroting wordt door de zorg van de besturen van de deelnemende gemeenten voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. Artikel 190, tweede en derde lid, van de Gemeentewet is van overeenkomstige toepassing.   
 3.  De raden van de deelnemende gemeenten kunnen bij het dagelijks bestuur van het openbaar lichaam onderscheidenlijk het gemeenschappelijk orgaan hun zienswijze over de ontwerp-begroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerp-begroting, zoals deze aan het algemeen bestuur wordt aangeboden.   
 4.  Nadat deze is vastgesteld, zendt het algemeen bestuur van het openbaar lichaam onderscheidenlijk het gemeenschappelijk orgaan, zo nodig, de begroting aan de raden van de deelnemende gemeenten, die ter zake bij gedeputeerde staten hun zienswijze naar voren kunnen brengen.   
 5.  Het bepaalde in het eerste, derde en vierde lid is mede van toepassing op besluiten tot wijziging van de begroting. In de gemeenschappelijke regeling kan worden bepaald ten aanzien van welke categorieën begrotingswijzigingen hiervan kan worden afgeweken.   
@@ -299,6 +299,8 @@ b. de in [artikel 186, achtste lid, van de Gemeentewet](../../../../../wet/gemee
 ### §  4  
 
 ####Goedkeuring van regelingen
+
+Vervallen per 01-01-2006   
 
 ### Hoofdstuk  II  
 
@@ -322,26 +324,26 @@ b. de in [artikel 186, achtste lid, van de Gemeentewet](../../../../../wet/gemee
 
 1.  De artikelen 8 tot en met 27 zijn van overeenkomstige toepassing, met uitzondering van artikel 20, vierde lid, en met dien verstande dat: 
 
-a. bij de toepassing van artikel 16, zesde lid, voor [artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 25 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+a. bij de toepassing van artikel 16, zesde lid, voor artikel 25 van de Gemeentewet wordt gelezen artikel 25 van de Provinciewet;  
 
 b. de ontheffing bedoeld in artikel 20, tweede lid, wordt verleend door Onze Minister van Binnenlandse Zaken;  
 
-c. bij de toepassing van artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+c. bij de toepassing van artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
-d. bij de toepassing van artikel 22, eerste lid, voor de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+d. bij de toepassing van artikel 22, eerste lid, voor de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Gemeentewet worden gelezen de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Provinciewet;  
 
-e. bij de toepassing van artikel 24, eerste lid, voor [artikel 94 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 92 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+e. bij de toepassing van artikel 24, eerste lid, voor artikel 94 van de Gemeentewet wordt gelezen artikel 92 van de Provinciewet;  
 
-f. bij de toepassing van artikel 24, vierde lid, voor de [artikelen 96 tot en met 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md).  
+f. bij de toepassing van artikel 24, vierde lid, voor de artikelen 96 tot en met 99 van de Gemeentewet worden gelezen de artikelen 93 tot en met 96 van de Provinciewet.  
 
-g. bij de toepassing van artikel 25, eerste lid, voor de [artikelen 94](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [139 tot en met 144 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen de [artikelen 92](../../../../../wet/provinciewet/BWBR0005645/README.md) en [136 tot en met 140 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+g. bij de toepassing van artikel 25, eerste lid, voor de artikelen 94 en 139 tot en met 144 van de Gemeentewet wordt gelezen de artikelen 92 en 136 tot en met 140 van de Provinciewet;  
 
-h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
 i. bij de toepassing van artikel 26, vierde lid, eerste volzin, voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;  
 
 j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.     
-2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.   
+2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is artikel X 7, eerste tot en met vijfde lid, van de Kieswet van overeenkomstige toepassing.   
 
 ### §  3  
 
@@ -351,7 +353,7 @@ j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethoude
 
 1.  Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de deelnemende provincies toekomen, met dien verstande dat: 
 
-a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de belasting, bedoeld in [artikel 222 *c* van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), de rechten, bedoeld in [artikel 223 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
+a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de belasting, bedoeld in artikel 222 *c* van de Provinciewet, de rechten, bedoeld in artikel 223 van de Provinciewet, en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
 
 b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.     
 2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de deelnemende provincies geregeld.   
@@ -363,7 +365,7 @@ Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het
 
 ### Artikel  45  
 
-Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), zullen gelden.  
+Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XV van de Provinciewet, zullen gelden.  
 
 ### Artikel  46  
 
@@ -379,16 +381,16 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 
 ### Artikel  47a  
 
-1.  Indien het openbaar lichaam een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), ontvangt van het Rijk of middelen ontvangt van de deelnemende provincies, die afkomstig zijn uit een specifieke uitkering, zijn de [artikelen 17a](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [17b van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
+1.  Indien het openbaar lichaam een specifieke uitkering als bedoeld in artikel 15a van de Financiële-verhoudingswet, ontvangt van het Rijk of middelen ontvangt van de deelnemende provincies, die afkomstig zijn uit een specifieke uitkering, zijn de artikelen 17a en 17b van de Financiële-verhoudingswet op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
 
 a. voor gedeputeerde staten en het college van burgemeester en wethouders wordt gelezen: het dagelijks bestuur van het openbaar lichaam;  
 
-b. de in [artikel 17b, derde lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) bedoelde opschorting betrekking heeft op de betalingen op grond van [artikel 15, eerste lid, Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de provincies die aan de regeling deelnemen.     
-2.  De ingevolge [artikel 190, tweede lid, aanhef en onder b, en derde lid, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) gestelde regels, alsmede het vierde tot en met het achtste lid van dat artikel, zijn van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
+b. de in artikel 17b, derde lid, van de Financiële-verhoudingswet bedoelde opschorting betrekking heeft op de betalingen op grond van artikel 15, eerste lid, Financiële-verhoudingswet aan de provincies die aan de regeling deelnemen.     
+2.  De ingevolge artikel 190, tweede lid, aanhef en onder b, en derde lid, van de Provinciewet gestelde regels, alsmede het vierde tot en met het achtste lid van dat artikel, zijn van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
 
 a. voor gedeputeerde staten wordt gelezen: het dagelijks bestuur van het openbaar lichaam;  
 
-b. de in [artikel 190, achtste lid, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) bedoelde opschorting betrekking heeft op de betalingen op grond van [artikel 15, eerste lid, Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de provincies die aan de regeling deelnemen.     
+b. de in artikel 190, achtste lid, van de Provinciewet bedoelde opschorting betrekking heeft op de betalingen op grond van artikel 15, eerste lid, Financiële-verhoudingswet aan de provincies die aan de regeling deelnemen.     
 
 ### Artikel  48  
 
@@ -420,11 +422,11 @@ b. de in [artikel 190, achtste lid, van de Provinciewet](../../../../../wet/prov
 
 1.  De artikelen 8 tot en met 24 en 26 tot en met 29 zijn van overeenkomstige toepassing, met dien verstande dat: 
 
-a. bij de toepassing van artikel 16, zesde lid, voor de woorden "[artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) " wordt gelezen: het reglement van het waterschap dat het lid heeft aangewezen;  
+a. bij de toepassing van artikel 16, zesde lid, voor de woorden "artikel 25 van de Gemeentewet " wordt gelezen: het reglement van het waterschap dat het lid heeft aangewezen;  
 
-b. bij de toepassing van artikel 21, vijfde lid, voor de woorden "[Artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) " wordt gelezen: Hetgeen in de voor de deelnemende waterschappen geldende reglementen overigens omtrent vergoedingen en tegemoetkomingen is bepaald;  
+b. bij de toepassing van artikel 21, vijfde lid, voor de woorden "Artikel 99 van de Gemeentewet " wordt gelezen: Hetgeen in de voor de deelnemende waterschappen geldende reglementen overigens omtrent vergoedingen en tegemoetkomingen is bepaald;  
 
-c. bij de toepassing van artikel 22, eerste lid, voor de woorden "De [artikelen 16](../../../../../wet/gemeentewet/BWBR0005416/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) " wordt gelezen: De desbetreffende bepalingen uit de voor de deelnemende waterschappen geldende reglementen;  
+c. bij de toepassing van artikel 22, eerste lid, voor de woorden "De artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Gemeentewet " wordt gelezen: De desbetreffende bepalingen uit de voor de deelnemende waterschappen geldende reglementen;  
 
 d. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: in hun provincie gelegen waterschappen.     
 2.  Wanneer bij de toepassing van voor de deelnemende waterschappen geldende reglementen als bedoeld in het vorige lid, onderdeel b en c en in artikel 50e de desbetreffende bepalingen in die reglementen onderling verschillen, wordt in de regeling aangegeven welke bepalingen van toepassing zijn.   
@@ -437,7 +439,7 @@ d. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethoude
 
 1.  Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de deelnemende waterschappen toekomen, met dien verstande dat: 
 
-a. aan het bestuur van een openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rechten bedoeld in [artikel 115 van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) (*Stb.* 1991, 444) alsmede de bijdragen bedoeld in [artikel 113, tweede lid, van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md),  
+a. aan het bestuur van een openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rechten bedoeld in artikel 115 van de Waterschapswet (*Stb.* 1991, 444) alsmede de bijdragen bedoeld in artikel 113, tweede lid, van de Waterschapswet,  
 
 b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.     
 2.  Indien toepassing wordt gegeven aan het eerste lid, wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de deelnemende waterschappen geregeld.   
@@ -449,7 +451,7 @@ Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het
 
 ### Artikel  50d  
 
-Een verordening van het openbaar lichaam tot heffing van een belasting regelt voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XVIII van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md), zullen gelden.  
+Een verordening van het openbaar lichaam tot heffing van een belasting regelt voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XVIII van de Waterschapswet, zullen gelden.  
 
 ### Artikel  50e  
 
@@ -514,26 +516,26 @@ De in artikel 50 *i* bedoelde goedkeuring treedt in de plaats van de goedkeuring
 
 1.  De artikelen 8 tot en met 27 zijn van overeenkomstige toepassing, met uitzondering van artikel 20, vierde lid, en met dien verstande dat: 
 
-a. bij de toepassing van artikel 16, zesde lid, voor de woorden "[artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) " wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;  
+a. bij de toepassing van artikel 16, zesde lid, voor de woorden "artikel 25 van de Gemeentewet " wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;  
 
 b. de ontheffing bedoeld in artikel 20, tweede lid, wordt verleend door Onze Minister van Binnenlandse Zaken;  
 
-c. bij de toepassing van artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+c. bij de toepassing van artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
-d. bij de toepassing van artikel 22, eerste lid, voor de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+d. bij de toepassing van artikel 22, eerste lid, voor de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Gemeentewet worden gelezen de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Provinciewet;  
 
-e. bij de toepassing van artikel 24, eerste lid, voor [artikel 94 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 92 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+e. bij de toepassing van artikel 24, eerste lid, voor artikel 94 van de Gemeentewet wordt gelezen artikel 92 van de Provinciewet;  
 
-f. bij de toepassing van artikel 24, vierde lid, voor de [artikelen 96 tot en met 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+f. bij de toepassing van artikel 24, vierde lid, voor de artikelen 96 tot en met 99 van de Gemeentewet worden gelezen de artikelen 93 tot en met 96 van de Provinciewet;  
 
-g. bij de toepassing van artikel 25, eerste lid, voor de [artikelen 94](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [139 tot en met 144 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen de [artikelen 92](../../../../../wet/provinciewet/BWBR0005645/README.md) en [136 tot en met 140 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+g. bij de toepassing van artikel 25, eerste lid, voor de artikelen 94 en 139 tot en met 144 van de Gemeentewet wordt gelezen de artikelen 92 en 136 tot en met 140 van de Provinciewet;  
 
-h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
 i. bij de toepassing van artikel 26, vierde lid, eerste volzin, voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;  
 
 j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.     
-2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.   
+2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is artikel X 7, eerste tot en met vijfde lid, van de Kieswet van overeenkomstige toepassing.   
 
 ### §  3  
 
@@ -543,7 +545,7 @@ j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethoude
 
 1.  Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij is getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen, als aan de besturen van de deelnemende gemeenten en provincies met betrekking tot hun eigen gemeente, onderscheidenlijk provincie toekomen, met dien verstande dat: 
 
-a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rioolheffing, bedoeld in [artikel 228a van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en de rechten, bedoeld in [artikel 229, eerste lid, onder a en b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en in [artikel 223 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), de belasting, bedoeld in [artikel 222c van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), de rechten waarvan heffing krachtens bijzondere wetten geschiedt en de heffing bedoeld in [artikel 15.33 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rioolheffing, bedoeld in artikel 228a van de Gemeentewet en de rechten, bedoeld in artikel 229, eerste lid, onder a en b, van de Gemeentewet en in artikel 223 van de Provinciewet, de belasting, bedoeld in artikel 222c van de Provinciewet, de rechten waarvan heffing krachtens bijzondere wetten geschiedt en de heffing bedoeld in artikel 15.33 van de Wet milieubeheer;  
 
 b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.     
 2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de deelnemende gemeenten en provincies geregeld.   
@@ -555,7 +557,7 @@ Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het
 
 ### Artikel  56  
 
-Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en die bedoeld in [hoofdstuk XV van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), zullen gelden.  
+Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XV van de Gemeentewet en die bedoeld in hoofdstuk XV van de Provinciewet, zullen gelden.  
 
 ### Artikel  57  
 
@@ -572,21 +574,21 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 
 ### Artikel  58a  
 
-1.  Indien het openbaar lichaam een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) ontvangt van het Rijk of middelen ontvangt van de deelnemende provincies en gemeenten, die afkomstig zijn uit een specifieke uitkering, zijn de [artikelen 17a](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) en [17b van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
+1.  Indien het openbaar lichaam een specifieke uitkering als bedoeld in artikel 15a van de Financiële-verhoudingswet ontvangt van het Rijk of middelen ontvangt van de deelnemende provincies en gemeenten, die afkomstig zijn uit een specifieke uitkering, zijn de artikelen 17a en 17b van de Financiële-verhoudingswet op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
 
 a. voor gedeputeerde staten en het college van burgemeester en wethouders wordt gelezen: het dagelijks bestuur van het openbaar lichaam;  
 
-b. de in [artikel 17b, derde lid, van de Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) bedoelde opschorting betrekking heeft op de betalingen op grond van [artikel 15, eerste lid, Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de provincies en gemeenten die aan de regeling deelnemen.     
-2.  De ingevolge [artikel 186, tweede lid, aanhef en onder b, en derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) gestelde regels, alsmede het vierde tot en met het achtste lid van dat artikel, zijn van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
+b. de in artikel 17b, derde lid, van de Financiële-verhoudingswet bedoelde opschorting betrekking heeft op de betalingen op grond van artikel 15, eerste lid, Financiële-verhoudingswet aan de provincies en gemeenten die aan de regeling deelnemen.     
+2.  De ingevolge artikel 186, tweede lid, aanhef en onder b, en derde lid, van de Gemeentewet gestelde regels, alsmede het vierde tot en met het achtste lid van dat artikel, zijn van overeenkomstige toepassing op het openbaar lichaam, met dien verstande dat: 
 
 a. voor het college wordt gelezen: het dagelijks bestuur van het openbaar lichaam;  
 
-b. de in [artikel 186, achtste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde opschorting betrekking heeft op de betalingen op grond van [artikel 15, eerste lid, Financiële-verhoudingswet](../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) aan de provincies en gemeenten die aan de regeling deelnemen.     
+b. de in artikel 186, achtste lid, van de Gemeentewet bedoelde opschorting betrekking heeft op de betalingen op grond van artikel 15, eerste lid, Financiële-verhoudingswet aan de provincies en gemeenten die aan de regeling deelnemen.     
 
 ### Artikel  59  
 
 1.  Het dagelijks bestuur van het openbaar lichaam of het gemeenschappelijk orgaan zendt de ontwerp-begroting zes weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk zes weken voordat zij door het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten en aan provinciale staten van de deelnemende provincies.   
-2.  De ontwerp-begroting wordt door de zorg van de deelnemende gemeenten en provincies voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. [Artikel 190, tweede en derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) is van overeenkomstige toepassing.   
+2.  De ontwerp-begroting wordt door de zorg van de deelnemende gemeenten en provincies voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. Artikel 190, tweede en derde lid, van de Gemeentewet is van overeenkomstige toepassing.   
 3.  De raad van een deelnemende gemeente en provinciale staten van een deelnemende provincie kunnen bij het dagelijks bestuur van het openbaar lichaam onderscheidenlijk het gemeenschappelijk orgaan hun zienswijze over de ontwerp-begroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerp-begroting, zoals deze aan het algemeen bestuur wordt aangeboden.   
 4.  Nadat deze is vastgesteld, zendt het algemeen bestuur van het openbaar lichaam, onderscheidenlijk het gemeenschappelijk orgaan, zo nodig, de begroting aan de raden der deelnemende gemeenten en de staten der deelnemende provincies, die ter zake bij Onze Minister van Binnenlandse Zaken hun zienswijze naar voren kunnen brengen.   
 5.  Het bepaalde in het eerste, derde en vierde lid is mede van toepassing op besluiten tot wijziging van de begroting. In de gemeenschappelijke regeling kan worden bepaald ten aanzien van welke categorieën begrotingswijzigingen hiervan kan worden afgeweken.   
@@ -621,7 +623,7 @@ De artikelen 8 tot en met 29 zijn van overeenkomstige toepassing met dien versta
 
 1.  Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de deelnemende gemeenten en waterschappen toekomen, met dien verstande dat: 
 
-a. aan het nieuwe bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rioolheffing, bedoeld in [artikel 228a van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en de rechten, bedoeld in [artikel 229, eerste lid, onder a en b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
+a. aan het nieuwe bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rioolheffing, bedoeld in artikel 228a van de Gemeentewet en de rechten, bedoeld in artikel 229, eerste lid, onder a en b, van de Gemeentewet en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
 
 b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.     
 2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de deelnemende gemeenten en waterschappen geregeld.   
@@ -633,7 +635,7 @@ Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het
 
 ### Artikel  65  
 
-Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), zullen gelden.  
+Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XV van de Gemeentewet, zullen gelden.  
 
 ### Artikel  66  
 
@@ -651,7 +653,7 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 ### Artikel  68  
 
 1.  Het dagelijks bestuur van het openbaar lichaam of het gemeenschappelijk orgaan zendt de ontwerp-begroting zes weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk zes weken voordat zij door het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten en aan de algemene besturen van de deelnemende waterschappen.   
-2.  De ontwerp-begroting wordt door de zorg van de deelnemende gemeenten en waterschappen voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. [Artikel 190, tweede en derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) is van overeenkomstige toepassing.   
+2.  De ontwerp-begroting wordt door de zorg van de deelnemende gemeenten en waterschappen voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. Artikel 190, tweede en derde lid, van de Gemeentewet is van overeenkomstige toepassing.   
 3.  De raden van de deelnemende gemeenten en de algemene besturen van de deelnemende waterschappen kunnen bij het dagelijks bestuur van het openbaar lichaam onderscheidenlijk het gemeenschappelijk orgaan hun zienswijze over de ontwerp-begroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerp-begroting, zoals deze aan het algemeen bestuur wordt aangeboden.   
 4.  Nadat deze is vastgesteld, zendt het algemeen bestuur van het openbaar lichaam, onderscheidenlijk het gemeenschappelijk orgaan, zo nodig, de begroting aan de raden van de deelnemende gemeenten en aan de algemene besturen van de deelnemende waterschappen, die ter zake bij gedeputeerde staten hun zienswijze naar voren kunnen brengen.   
 5.  Het bepaalde in het eerste, derde en vierde lid is mede van toepassing op besluiten tot wijziging van de begroting. In de gemeenschappelijke regeling kan worden bepaald ten aanzien van welke categorieën begrotingswijzigingen hiervan kan worden afgeweken.   
@@ -659,6 +661,8 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 ### §  4  
 
 ####Goedkeuring van regelingen
+
+Vervallen per 01-01-2006   
 
 ### Hoofdstuk  VI  
 
@@ -682,26 +686,26 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 
 1.  De artikelen 8 tot en met 27 zijn van overeenkomstige toepassing, met uitzondering van artikel 20, vierde lid, en met dien verstande dat: 
 
-a. bij de toepassing van artikel 16, zesde lid, voor de woorden "[artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) " wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;  
+a. bij de toepassing van artikel 16, zesde lid, voor de woorden "artikel 25 van de Gemeentewet " wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;  
 
 b. de ontheffing bedoeld in artikel 20, tweede lid, wordt verleend door Onze Minister van Binnenlandse Zaken;  
 
-c. bij de toepassing van artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+c. bij de toepassing van artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
-d. bij de toepassing van artikel 22, eerste lid, voor de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+d. bij de toepassing van artikel 22, eerste lid, voor de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Gemeentewet worden gelezen de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Provinciewet;  
 
-e. bij de toepassing van artikel 24, eerste lid, voor [artikel 94 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 92 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+e. bij de toepassing van artikel 24, eerste lid, voor artikel 94 van de Gemeentewet wordt gelezen artikel 92 van de Provinciewet;  
 
-f. bij de toepassing van artikel 24, vierde lid, voor de [artikelen 96 tot en met 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+f. bij de toepassing van artikel 24, vierde lid, voor de artikelen 96 tot en met 99 van de Gemeentewet worden gelezen de artikelen 93 tot en met 96 van de Provinciewet;  
 
-g. bij de toepassing van artikel 25, eerste lid, voor de [artikelen 94](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [139 tot en met 144 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen de [artikelen 92](../../../../../wet/provinciewet/BWBR0005645/README.md) en [136 tot en met 140 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+g. bij de toepassing van artikel 25, eerste lid, voor de artikelen 94 en 139 tot en met 144 van de Gemeentewet wordt gelezen de artikelen 92 en 136 tot en met 140 van de Provinciewet;  
 
-h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
 i. bij de toepassing van artikel 26, vierde lid, eerste volzin, voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;  
 
 j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.     
-2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.   
+2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is artikel X 7, eerste tot en met vijfde lid, van de Kieswet van overeenkomstige toepassing.   
 
 ### §  3  
 
@@ -711,7 +715,7 @@ j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethoude
 
 1.  Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij is getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen, als aan de besturen van de deelnemende gemeenten en provincies en van de deelnemende waterschappen met betrekking tot hun eigen gemeente, provincie, onderscheidenlijk waterschap toekomen, met dien verstande dat: 
 
-a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rioolheffing, bedoeld in [artikel 228a van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en de rechten, bedoeld in [artikel 229, eerste lid, onder a en b, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [artikel 223 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), de belasting, bedoeld in [artikel 222c van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
+a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rioolheffing, bedoeld in artikel 228a van de Gemeentewet en de rechten, bedoeld in artikel 229, eerste lid, onder a en b, van de Gemeentewet en artikel 223 van de Provinciewet, de belasting, bedoeld in artikel 222c van de Provinciewet, en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
 
 b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.     
 2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de deelnemende gemeenten en provincies en van de deelnemende waterschappen geregeld.   
@@ -723,7 +727,7 @@ Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het
 
 ### Artikel  78  
 
-Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XV van de Gemeentewet en die bedoeld in [hoofdstuk XV van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), zullen gelden.  
+Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XV van de Gemeentewet en die bedoeld in hoofdstuk XV van de Provinciewet, zullen gelden.  
 
 ### Artikel  79  
 
@@ -741,7 +745,7 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 ### Artikel  81  
 
 1.  Het dagelijks bestuur van het openbaar lichaam of het gemeenschappelijk orgaan zendt de ontwerp-begroting zes weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk zes weken voordat zij door het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten, aan provinciale staten van de deelnemende provincies en aan de algemene besturen van de deelnemende waterschappen.   
-2.  De ontwerp-begroting wordt door de zorg van de deelnemende gemeenten, provincies en waterschappen voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. [Artikel 190, tweede en derde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) is van overeenkomstige toepassing.   
+2.  De ontwerp-begroting wordt door de zorg van de deelnemende gemeenten, provincies en waterschappen voor een ieder ter inzage gelegd en, tegen betaling van de kosten, algemeen verkrijgbaar gesteld. Artikel 190, tweede en derde lid, van de Gemeentewet is van overeenkomstige toepassing.   
 3.  De raden van de deelnemende gemeenten, provinciale staten van de deelnemende provincies en de algemene besturen van de deelnemende waterschappen kunnen bij het dagelijks bestuur van het openbaar lichaam onderscheidenlijk het gemeenschappelijk orgaan hun zienswijze over de ontwerp-begroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerp-begroting, zoals deze aan het algemeen bestuur wordt aangeboden.   
 4.  Nadat deze is vastgesteld, zendt het algemeen bestuur van het openbaar lichaam, onderscheidenlijk het gemeenschappelijk orgaan, zo nodig, de begroting aan de raden van de deelnemende gemeenten, aan provinciale staten van de deelnemende provincies en aan de algemene besturen van de deelnemende waterschappen die ter zake bij Onze Minister van Binnenlandse Zaken hun zienswijze naar voren kunnen brengen.   
 5.  Het bepaalde in het eerste, derde en vierde lid is mede van toepassing op besluiten tot wijziging van de begroting. In de gemeenschappelijke regeling kan worden bepaald ten aanzien van welke categorieën begrotingswijzigingen hiervan kan worden afgeweken.   
@@ -768,26 +772,26 @@ Een verordening van het openbaar lichaam tot heffing van een belasting regelt, v
 
 1.  De artikelen 8-27 zijn van overeenkomstige toepassing, met uitzondering van artikel 20, vierde lid, en met dien verstande dat: 
 
-a. bij de toepassing van artikel 16, zesde lid, voor de woorden "[artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) " wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;  
+a. bij de toepassing van artikel 16, zesde lid, voor de woorden "artikel 25 van de Gemeentewet " wordt gelezen: het bepaalde voor het orgaan dat het lid heeft aangewezen;  
 
 b. de ontheffing bedoeld in artikel 20, tweede lid, wordt verleend door Onze Minister van Binnenlandse Zaken;  
 
-c. bij de toepassing van artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+c. bij de toepassing van artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
-d. bij de toepassing van artikel 22, eerste lid, voor de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 16](../../../../../wet/provinciewet/BWBR0005645/README.md), [17](../../../../../wet/gemeentewet/BWBR0005416/README.md), [19](../../../../../wet/gemeentewet/BWBR0005416/README.md), [20](../../../../../wet/gemeentewet/BWBR0005416/README.md), [22](../../../../../wet/gemeentewet/BWBR0005416/README.md), [26](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [28 tot en met 33 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+d. bij de toepassing van artikel 22, eerste lid, voor de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Gemeentewet worden gelezen de artikelen 16, 17, 19, 20, 22, 26 en 28 tot en met 33 van de Provinciewet;  
 
-e. bij de toepassing van artikel 24, eerste lid, voor [artikel 94 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 92 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+e. bij de toepassing van artikel 24, eerste lid, voor artikel 94 van de Gemeentewet wordt gelezen artikel 92 van de Provinciewet;  
 
-f. bij de toepassing van artikel 24, vierde lid, voor de [artikelen 96 tot en met 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) worden gelezen de [artikelen 93 tot en met 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+f. bij de toepassing van artikel 24, vierde lid, voor de artikelen 96 tot en met 99 van de Gemeentewet worden gelezen de artikelen 93 tot en met 96 van de Provinciewet;  
 
-g. bij de toepassing van artikel 25, eerste lid, voor de [artikelen 94](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [139 tot en met 144 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen de [artikelen 92](../../../../../wet/provinciewet/BWBR0005645/README.md) en [136 tot en met 140 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+g. bij de toepassing van artikel 25, eerste lid, voor de artikelen 94 en 139 tot en met 144 van de Gemeentewet wordt gelezen de artikelen 92 en 136 tot en met 140 van de Provinciewet;  
 
-h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen [artikel 96 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md);  
+h. bij de toepassing van artikel 25, eerste lid jo artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet wordt gelezen artikel 96 van de Provinciewet;  
 
 i. bij de toepassing van artikel 26, vierde lid, eerste volzin, voor gedeputeerde staten wordt gelezen gedeputeerde staten van de provincie, waarin de plaats van vestiging gelegen is;  
 
 j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethouders» wordt gelezen «Gedeputeerde staten» en voor «hun gemeente»: hun provincie.     
-2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.   
+2.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid juncto artikel 20, eerste lid, is artikel X 7, eerste tot en met vijfde lid, van de Kieswet van overeenkomstige toepassing.   
 
 ### §  3  
 
@@ -797,7 +801,7 @@ j. bij de toepassing van artikel 27, eerste lid, voor «Burgemeester en wethoude
 
 1.  Aan het bestuur van het openbaar lichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij is getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen, als aan de besturen van de deelnemende provincies en waterschappen met betrekking tot hun eigen provincie, onderscheidenlijk waterschap toekomen, met dien verstande dat: 
 
-a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rechten, bedoeld in [artikel 223 van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), de belasting, bedoeld in [artikel 222 *c* van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md),en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
+a. aan het bestuur van het openbaar lichaam niet de bevoegdheid kan worden overgedragen andere belastingen te heffen dan de rechten, bedoeld in artikel 223 van de Provinciewet, de belasting, bedoeld in artikel 222 *c* van de Provinciewet,en de rechten waarvan de heffing krachtens bijzondere wetten geschiedt;  
 
 b. aan het gemeenschappelijk orgaan niet de bevoegdheid kan worden overgedragen belastingen te heffen of anderszins algemeen verbindende voorschriften te geven.     
 2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, wordt daarbij tevens de verhouding van de overgedragen bevoegdheden tot die van de besturen van de aan de regeling deelnemende provincies en waterschappen geregeld.   
@@ -809,7 +813,7 @@ Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het
 
 ### Artikel  88  
 
-Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md), zullen gelden.  
+Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk XV van de Provinciewet, zullen gelden.  
 
 ### Artikel  89  
 
@@ -925,9 +929,7 @@ Voor zover in dit hoofdstuk niet anders is bepaald, is bij de oplegging van een 
 
 ### Artikel  103f  
 
-1.  Tegen een besluit tot aanwijzing als bedoeld in de artikelen 99, eerste lid, 103b en 103c, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Tegen een besluit tot oplegging als bedoeld in de artikel 100, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-3.  Bezwaar of beroep tegen een besluit tot oplegging kan geen grond vinden in bezwaar of beroep tegen het aanwijzingsbesluit.   
+Bezwaar of beroep tegen een besluit tot oplegging kan geen grond vinden in bezwaar of beroep tegen het aanwijzingsbesluit.  
 
 ### Hoofdstuk  XI  
 
@@ -984,12 +986,12 @@ Indien naar hun oordeel instelling van een plusregio bijzonder aangewezen is, en
 
 1.  In afwijking van artikel 13, negende lid, kan het algemeen bestuur van een plusregio een voorzitter aanwijzen van buiten de kring van het algemeen bestuur.   
 2.  Indien toepassing wordt gegeven aan het eerste lid, is artikel 21 op de voorzitter niet van toepassing. Bij of krachtens regeling van het algemeen bestuur, wordt in ieder geval de bezoldiging van de voorzitter geregeld.   
-3.  Indien toepassing wordt gegeven aan het eerste lid, zijn de [artikelen 66, tweede tot en met vierde lid](../../../../../wet/gemeentewet/BWBR0005416/README.md), en [67 tot en met 71 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.   
+3.  Indien toepassing wordt gegeven aan het eerste lid, zijn de artikelen 66, tweede tot en met vierde lid, en 67 tot en met 71 van de Gemeentewet van overeenkomstige toepassing.   
 
 ### Artikel  112  
 
 1.  In een regeling kan worden bepaald dat het algemeen bestuur van de plusregio commissies kan instellen ter behartiging van een of meer belangen van een deel van de gemeenten in die plusregio. Het algemeen bestuur regelt de bevoegdheden en samenstelling.   
-2.  De artikelen 21, 23, eerste en tweede lid, en 25, derde tot en met zevende lid, van deze wet en de [artikelen 139 tot en met 144 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) zijn van overeenkomstige toepassing.   
+2.  De artikelen 21, 23, eerste en tweede lid, en 25, derde tot en met zevende lid, van deze wet en de artikelen 139 tot en met 144 van de Gemeentewet zijn van overeenkomstige toepassing.   
 
 ### §  4  
 
@@ -1016,8 +1018,8 @@ Bij een oplegging als bedoeld in deze paragraaf treedt artikel 114 in de plaats 
 
 ### Artikel  116  
 
-1.  Met betrekking tot een aan een plusregio op- of overgedragen bevoegdheid of taak zijn de [artikelen 124](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124a](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124c tot en met 124i](../../../../../wet/gemeentewet/BWBR0005416/README.md), alsmede [hoofdstuk XVII van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.   
-2.  Met betrekking tot de bij of krachtens een andere wet dan deze of de Provinciewet aan een plusregio op- of overgedragen bevoegdheid of taak, worden de bevoegdheden die in de [artikelen 124](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124c](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124d](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [artikel 124f van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) aan gedeputeerde staten onderscheidenlijk de commissaris van de Koning zijn toegekend, in zoverre in afwijking van die artikelen uitgeoefend door Onze Minister wie het aangaat.   
+1.  Met betrekking tot een aan een plusregio op- of overgedragen bevoegdheid of taak zijn de artikelen 124, 124a, 124c tot en met 124h, alsmede hoofdstuk XVII van de Gemeentewet van overeenkomstige toepassing.   
+2.  Met betrekking tot de bij of krachtens een andere wet dan deze of de Provinciewet aan een plusregio op- of overgedragen bevoegdheid of taak, worden de bevoegdheden die in de artikelen 124, 124c, 124d en artikel 124f van de Gemeentewet aan gedeputeerde staten onderscheidenlijk de commissaris van de Koning zijn toegekend, in zoverre in afwijking van die artikelen uitgeoefend door Onze Minister wie het aangaat.   
 
 ### §  6  
 
@@ -1112,25 +1114,25 @@ a. telkens in die bepalingen wordt gelezen voor:
 
 – gedeputeerde staten: Rijksvertegenwoordiger, bedoeld in artikel 1, eerste lid, onder d, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;    
 
-b. bij de toepassing van artikel 10, vierde lid, voor [artikel 81p, eerste lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), [artikel 79q, eerste lid, van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of [artikel 51b eerste lid, van de Waterschapswet](../../../../../wet/waterschapswet/BWBR0005108/README.md) wordt gelezen: artikel 107, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
+b. bij de toepassing van artikel 10, vierde lid, voor artikel 81p, eerste lid, van de Gemeentewet, artikel 79q, eerste lid, van de Provinciewet of artikel 51b eerste lid, van de Waterschapswet wordt gelezen: artikel 107, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 c. bij de toepassing van artikel 14, eerste lid, voor dezelfde gemeente wordt gelezen: hetzelfde openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
-d. bij de toepassing van artikel 16, vijfde lid, voor [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt gelezen: [artikel 4:8 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en artikel 7, eerste lid, van de Wet administratieve rechtspraak BES;  
+d. artikel 7, eerste lid, van de Wet administratieve rechtspraak BES niet van toepassing is op een ontslagbesluit als bedoeld in artikel 16, vijfde lid;  
 
-e. bij de toepassing van artikel 16, zesde lid, voor [artikel 25 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt gelezen: artikel 26 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
+e. bij de toepassing van artikel 16, zesde lid, voor artikel 25 van de Gemeentewet wordt gelezen: artikel 26 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-f. bij de toepassing van artikel 21, tweede lid, voor [artikel 44, vijfde lid, van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), wordt gelezen: artikel 56, vijfde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
+f. bij de toepassing van artikel 21, tweede lid, voor artikel 44, vijfde lid, van de Gemeentewet, wordt gelezen: artikel 56, vijfde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-g. bij de toepassing van artikel 21, vijfde lid, voor [artikel 99 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md), wordt gelezen: artikel 123 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
+g. bij de toepassing van artikel 21, vijfde lid, voor artikel 99 van de Gemeentewet, wordt gelezen: artikel 123 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-h. bij de toepassing van artikel 23, eerste en tweede lid, voor [artikel 10 van de Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) telkens wordt gelezen: artikel 11 van de Wet openbaarheid van bestuur BES.    
+h. bij de toepassing van artikel 23, eerste en tweede lid, voor artikel 10 van de Wet openbaarheid van bestuur telkens wordt gelezen: artikel 11 van de Wet openbaarheid van bestuur BES.    
 
 ### Artikel  127  
 
 1.  Artikel 16 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba is van overeenkomstige toepassing op een lid van het bestuur van het samenwerkingslichaam.   
 2.  Ten aanzien van een lid van het gemeenschappelijk orgaan is het bepaalde in artikel 16, eerste lid, onder *a* en b, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba van overeenkomstige toepassing.   
-3.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid, is [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.   
+3.  Wanneer is gehandeld in strijd met het bepaalde in het eerste lid, is artikel X 8, eerste tot en met vijfde lid, van de Kieswet van overeenkomstige toepassing.   
 
 ### Artikel  128  
 
@@ -1145,7 +1147,7 @@ h. bij de toepassing van artikel 23, eerste en tweede lid, voor [artikel 10 van 
 
 ### Artikel  129  
 
-1.  Geschillen omtrent de toepassing, in de ruimste zin, van een regeling tussen besturen van deelnemende openbare lichamen of tussen besturen van een of meer deelnemende openbare lichamen en het bestuur van het samenwerkingslichaam of het gemeenschappelijk orgaan worden door de Rijksvertegenwoordiger beslist, voor zover zij niet behoren tot die, vermeld in [artikel 112, eerste lid, van de Grondwet](../../../../../wet/grondwet/BWBR0001840/README.md) of tot die, waarvan de beslissing krachtens artikel 112, tweede lid, van de Grondwet is opgedragen hetzij aan de rechterlijke macht, hetzij aan gerechten die niet tot de rechterlijke macht behoren. In eerste en enige aanleg wordt het geschil voorgelegd aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.   
+1.  Geschillen omtrent de toepassing, in de ruimste zin, van een regeling tussen besturen van deelnemende openbare lichamen of tussen besturen van een of meer deelnemende openbare lichamen en het bestuur van het samenwerkingslichaam of het gemeenschappelijk orgaan worden door de Rijksvertegenwoordiger beslist, voor zover zij niet behoren tot die, vermeld in artikel 112, eerste lid, van de Grondwet of tot die, waarvan de beslissing krachtens artikel 112, tweede lid, van de Grondwet is opgedragen hetzij aan de rechterlijke macht, hetzij aan gerechten die niet tot de rechterlijke macht behoren. In eerste en enige aanleg wordt het geschil voorgelegd aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.   
 2.  De Rijksvertegenwoordiger kan bij de beslissing van het geschil het desbetreffende bestuur opdragen een besluit te nemen met inachtneming van het in hun beslissing bepaalde en binnen een daartoe te stellen termijn. Indien binnen de gestelde termijn het besluit niet is genomen, geschiedt dit door de Rijksvertegenwoordiger.   
 3.  In spoedeisende gevallen kan de Rijksvertegenwoordiger bij de beslissing van het geschil in de plaats van het desbetreffende bestuur een besluit als bedoeld in het tweede lid nemen.   
 
@@ -1197,8 +1199,8 @@ Een verordening van het samenwerkingslichaam tot heffing van een belasting regel
 
 ### Artikel  136  
 
-1.  Voor zover bij of krachtens deze wet bij of krachtens de [Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of de [Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) gestelde regels van toepassing zijn verklaard, zijn de regels van toepassing, gesteld bij of krachtens de Provinciewet zoals die luidde op 11 maart 2003 onderscheidenlijk de Gemeentewet zoals die luidde op 6 maart 2002.   
-2.  Het eerste lid is niet van toepassing op de bij of krachtens de [hoofdstukken VIII, paragraaf 3](../../../../../wet/gemeentewet/BWBR0005416/README.md), [XII tot en met XIV](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [XVIII van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) en de bij of krachtens de [hoofdstukken VIII, paragraaf 3](../../../../../wet/gemeentewet/BWBR0005416/README.md), [XII tot en met XIV](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [XVII van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) gestelde regels.   
+1.  Voor zover bij of krachtens deze wet bij of krachtens de Provinciewet of de Gemeentewet gestelde regels van toepassing zijn verklaard, zijn de regels van toepassing, gesteld bij of krachtens de Provinciewet zoals die luidde op 11 maart 2003 onderscheidenlijk de Gemeentewet zoals die luidde op 6 maart 2002.   
+2.  Het eerste lid is niet van toepassing op de bij of krachtens de hoofdstukken VIII, paragraaf 3, XII tot en met XIV en XVIII van de Provinciewet en de bij of krachtens de hoofdstukken VIII, paragraaf 3, XII tot en met XIV en XVII van de Gemeentewet gestelde regels.   
 
 ### Artikel  137  
 

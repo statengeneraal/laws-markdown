@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 juli 2010, nr. BJZ2010017994, Directie Bestuurlijke en Juridische Zaken, gedaan mede namens Onze Minister van Verkeer en Waterstaat;
 
-Gelet op richtlijn nr. 80/68/EEG van de Raad van de Europese Gemeenschappen van 17 december 1979 betreffende de bescherming van het grondwater tegen verontreiniging veroorzaakt door de lozing van bepaalde gevaarlijke stoffen (PbEG L 020), richtlijn nr. 91/271/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1991 inzake de behandeling van stedelijk afvalwater (PbEG L 135), richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327) en richtlijn nr. 2006/11/EG van het Europees Parlement en de Raad van 15 februari 2006 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd (PbEG L 64), richtlijn 2006/118/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de bescherming van het grondwater tegen verontreiniging en achteruitgang van de toestand (PbEG L 372), op de [artikelen 10.2, tweede lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [10.30, derde lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [10.32 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), op de [artikelen 6](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [17](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [65](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [66 van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en op de [artikelen 6.2, eerste lid, aanhef en onderdeel b, en tweede lid, aanhef en onderdeel b](../../../../../../wet/waterwet/BWBR0025458/README.md), en [6.6 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md);
+Gelet op richtlijn nr. 80/68/EEG van de Raad van de Europese Gemeenschappen van 17 december 1979 betreffende de bescherming van het grondwater tegen verontreiniging veroorzaakt door de lozing van bepaalde gevaarlijke stoffen (PbEG L 020), richtlijn nr. 91/271/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1991 inzake de behandeling van stedelijk afvalwater (PbEG L 135), richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327) en richtlijn nr. 2006/11/EG van het Europees Parlement en de Raad van 15 februari 2006 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd (PbEG L 64), richtlijn 2006/118/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de bescherming van het grondwater tegen verontreiniging en achteruitgang van de toestand (PbEG L 372), op de artikelen 10.2, tweede lid, 10.30, derde lid, en 10.32 van de Wet milieubeheer, op de artikelen 6, 17, 65 en 66 van de Wet bodembescherming en op de artikelen 6.2, eerste lid, aanhef en onderdeel b, en tweede lid, aanhef en onderdeel b, en 6.6 van de Waterwet;
 
 De Raad van State gehoord (advies van 1 oktober 2010, nr. W08.10.0289/IV);
 
@@ -24,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat op grond van [artikel 1.7, eerste lid, onderdeel b, van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is aangewezen;  
+*aangewezen oppervlaktewaterlichaam:* oppervlaktewaterlichaam dat op grond van artikel 1.7, eerste lid, onderdeel b, van het Activiteitenbesluit milieubeheer is aangewezen;  
 
 *ADR:* de op 30 september 1957 te Genève totstandgekomen Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke stoffen over de weg (Trb. 1959, 171);  
 
@@ -32,11 +32,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *bodembeschermende voorziening:* vloeistofkerende voorziening, een vloeistofdichte vloer of verharding of een andere doelmatige fysieke voorziening, ter voorkoming van immissies in de bodem;  
 
+*bodemzijdig vermogen:* grootste hoeveelheid energie, uitgedrukt in kW, die het ondergrondse deel van een gesloten bodemenergiesysteem bij normaal gebruik kan uitwisselen met de bodem;  
+
 *BTEX:* som van benzeen, tolueen, ethylbenzeen en xyleen;  
 
 *CMR-stof:* stof die of preparaat dat volgens bijlage I bij Richtlijn nr. 67/548/EEG geclassificeerd is als Kankerverwekkend categorie 1 of 2 of als Mutageen categorie 1 of 2 of als «Voor de voortplanting giftig» categorie 1 of 2;  
 
-*doelmatig beheer van afvalwater:* zodanig beheer van afvalwater dat daarbij rekening wordt gehouden met de voorkeursvolgorde aangegeven in [artikel 10.29a van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+*doelmatig beheer van afvalwater:* zodanig beheer van afvalwater dat daarbij rekening wordt gehouden met de voorkeursvolgorde aangegeven in artikel 10.29a van de Wet milieubeheer;  
+
+*gesloten bodemenergiesysteem:* installatie waarmee, zonder grondwater te onttrekken en na gebruik in de bodem terug te brengen, gebruik wordt gemaakt van de bodem voor de levering van warmte of koude ten behoeve van de verwarming of koeling van ruimten in bouwwerken, door middel van een gesloten circuit van leidingen, met inbegrip van een bijbehorende warmtepomp circulatiepomp en regeneratievoorziening, voor zover aanwezig;  
 
 *gevaarlijke stoffen:* stoffen en voorwerpen, waarvan het vervoer volgens het ADR is verboden of slechts onder daarin opgenomen voorwaarden is toegestaan, dan wel stoffen, materialen en voorwerpen aangeduid in de International Maritime Dangerous Goods Code;  
 
@@ -46,7 +50,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *lozen:* brengen van: 
 
-a. stoffen als bedoeld in [artikel 6.1 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) in een oppervlaktewaterlichaam;  
+a. stoffen als bedoeld in artikel 6.1 van de Waterwet in een oppervlaktewaterlichaam;  
 
 b. afvalwater op of in de bodem;  
 
@@ -58,9 +62,9 @@ e. afvalwater of andere afvalstoffen in een openbaar vuilwaterriool;
 
 f. afvalwater of andere afvalstoffen in een andere voorziening voor de inzameling en het transport van afvalwater; of  
 
-g. water of stoffen als bedoeld in [artikel 6.1 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) met behulp van een werk, niet zijnde een openbaar vuilwaterriool, op een zuiveringtechnisch werk;    
+g. water of stoffen als bedoeld in artikel 6.1 van de Waterwet met behulp van een werk, niet zijnde een openbaar vuilwaterriool, op een zuiveringtechnisch werk;    
 
-*maatwerkvoorschrift:* voorschrift als bedoeld in de [artikelen 10.32 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [17, derde lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), [65, eerste lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), en [66, eerste en tweede lid van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [6.6, tweede lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), inhoudende: 
+*maatwerkvoorschrift:* voorschrift als bedoeld in de artikelen 10.32 van de Wet milieubeheer, 17, derde lid, 65, eerste lid, en 66, eerste en tweede lid van de Wet bodembescherming en 6.6, tweede lid, van de Waterwet, inhoudende: 
 
 a. een beschikking waarbij het bevoegd gezag aanvullende eisen stelt; dan wel  
 
@@ -74,15 +78,23 @@ b. een ontheffing waarbij het bevoegd gezag de daarbij aangewezen bepalingen nie
 
 *NRB:* door InfoMil uitgegeven Nederlandse richtlijn bodembescherming bedrijfsmatige activiteiten;  
 
+*open bodemenergiesysteem:* installatie waarmee van de bodem gebruik wordt gemaakt voor de levering van warmte of koude ten behoeve van de verwarming of koeling van ruimten in bouwwerken, door grondwater te onttrekken en na gebruik in de bodem terug te brengen, met inbegrip van bijbehorende bronpompen en warmtewisselaar en, voor zover aanwezig, warmtepomp en regeneratievoorziening;  
+
 *PAK’s:* som van naftaleen, anthraceen, fluorantheen, benzo(g,h,i)peryleen, benzo(a)pyreen, benzo(b)fluorantheen, benzo(k)fluorantheen en indeno(1,2,3-cd)pyreen;  
+
+*retourbuis van een gesloten bodemenergiesysteem:* de leiding die de circulatievloeistof terug geleidt door de bodem, waardoor warmte of koude wordt afgegeven aan de bodem;  
+
+*SPF:* Seasonal Performance Factor, waarmee het rendement van een bodemenergiesysteem wordt weergegeven, uitgedrukt als de door het systeem geleverde hoeveelheden warmte en koude per jaar in MWh, gedeeld door het gemeten of berekende energieverbruik van het systeem per jaar in MWh;  
 
 *totaal stikstof:* som van nitraat-, nitriet-, organisch en ammoniumstikstof waarvan de emissiemetingen worden uitgevoerd, bedoeld in artikel 2.4;  
 
 *vast object:* locatiegebonden constructie of gedeelte daarvan;  
 
+*vuilwaterriool:*  
+
 a. openbaar vuilwaterriool;  
 
-b. andere voorziening voor de inzameling en het transport van stedelijk afvalwater, aangesloten op een zuiveringtechnisch werk of op een zuiveringsvoorziening, die blijkens een vergunning als bedoeld in [artikel 6.2, eerste lid van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) mede voor het zuiveren van stedelijk afvalwater is bestemd; of  
+b. andere voorziening voor de inzameling en het transport van stedelijk afvalwater, aangesloten op een zuiveringtechnisch werk of op een zuiveringsvoorziening, die blijkens een vergunning als bedoeld in artikel 6.2, eerste lid van de Waterwet mede voor het zuiveren van stedelijk afvalwater is bestemd; of  
 
 c. werk, niet zijnde een voorziening voor de inzameling en het transport van afvalwater, aangesloten op een zuiveringtechnisch werk;    
 
@@ -92,7 +104,7 @@ c. werk, niet zijnde een voorziening voor de inzameling en het transport van afv
 
 1.  Dit besluit is van toepassing op lozen anders dan vanuit een inrichting, met uitzondering van: 
 
-a. lozen als bedoeld in [artikel 6.1 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), waarvoor op grond van artikel 1.3, onderdelen a en b, geen vrijstelling is verleend;  
+a. lozen als bedoeld in artikel 6.1 van de Waterwet, waarvoor op grond van artikel 1.3, onderdelen a en b, geen vrijstelling is verleend;  
 
 b. in een oppervlaktewaterlichaam: 
 
@@ -102,42 +114,51 @@ b. in een oppervlaktewaterlichaam:
 
 3°. lozen ten gevolge van het toepassen van bouwstoffen, grond of baggerspecie, waarop het Besluit bodemkwaliteit van toepassing is;    
 
-c. lozen ten gevolge van agrarische activiteiten als bedoeld in [artikel 1, eerste lid, onderdeel b, van het Lozingenbesluit open teelt en veehouderij](../../../../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md) dan wel van activiteiten die daarmee verband houden;  
+c. lozen waarop het Activiteitenbesluit milieubeheer van toepassing is;  
 
-d. lozen waarop het [Besluit lozing afvalwater huishoudens](../../../../../../AMvB/besluit/lozing/afvalwater/huishoudens/BWBR0022910/README.md) van toepassing is;  
+d. lozen waarop het Besluit lozing afvalwater huishoudens van toepassing is;  
 
-e. lozen waarop het [Scheepsafvalstoffenbesluit Rijn- en binnenvaart](../../../../../../AMvB/scheepsafvalstoffenbesluit/rijn-/en/binnenvaart/BWBR0012019/README.md) van toepassing is;  
+e. lozen waarop het Scheepsafvalstoffenbesluit Rijn- en binnenvaart van toepassing is;  
 
-f. lozen waaraan regels zijn gesteld bij of krachtens de [Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md); en  
+f. lozen waaraan regels zijn gesteld bij of krachtens de Mijnbouwwet; en  
 
-g. het brengen van afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater als bedoeld in [artikel 10.30, eerste lid van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), waarvoor op grond van artikel 1.3, onderdelen d en e, geen vrijstelling is verleend.     
+g. het brengen van afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater als bedoeld in artikel 10.30, eerste lid van de Wet milieubeheer, waarvoor op grond van artikel 1.3, onderdelen d en e, geen vrijstelling is verleend.     
 2.  Degene die loost voldoet aan de bij of krachtens dit besluit gestelde regels.   
+
+### Artikel  1.2a  
+
+1.  Dit besluit is tevens van toepassing op het installeren en in werking hebben van een gesloten bodemenergiesysteem buiten een inrichting en op het lozen ten gevolge van het installeren en in werking hebben van een open bodemenergiesysteem buiten een inrichting.   
+2.  Degene die een gesloten bodemenergiesysteem installeert of in werking heeft, voldoet aan de bij of krachtens dit besluit gestelde regels.   
 
 ### Artikel  1.3  
 
 Vrijstelling wordt verleend van: 
 
-a. het verbod, bedoeld in [artikel 6.2, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), voor zover aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.11 en 3.13 tot en met 3.26;  
+a. het verbod, bedoeld in artikel 6.2, eerste lid, van de Waterwet, voor zover aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.11 en 3.13 tot en met 3.26;  
 
-b. het verbod, bedoeld in [artikel 6.2, tweede lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), voor zover aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.5, 3.10, 3.12, 3.13, 3.22 en 3.24;  
+b. het verbod, bedoeld in artikel 6.2, tweede lid, van de Waterwet, voor zover aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.5, 3.10, 3.12, 3.13, 3.22, 3.24 en 3a.2;  
 
-c. het verbod, bedoeld in [artikel 10.2, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+c. het verbod, bedoeld in artikel 10.2, eerste lid, van de Wet milieubeheer;  
 
-d. het verbod, bedoeld in [artikel 10.30, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover het lozen in een vuilwaterriool betreft;  
+d. het verbod, bedoeld in artikel 10.30, eerste lid, van de Wet milieubeheer, voor zover het lozen in een vuilwaterriool betreft;  
 
-e. het verbod, bedoeld in [artikel 10.30, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover het lozen anders dan in een vuilwaterriool betreft en aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.5, 3.10, 3.13, 3.22 en 3.24.    
+e. het verbod, bedoeld in artikel 10.30, eerste lid, van de Wet milieubeheer, voor zover het lozen anders dan in een vuilwaterriool betreft en aan het lozen regels zijn gesteld in de artikelen 3.1 tot en met 3.5, 3.10, 3.13, 3.22 en 3.24;  
+
+f. het verbod, bedoeld in artikel 10.30, eerste lid, van de Wet milieubeheer, voor zover het lozen van spoelwater ten gevolge van het ontwikkelen en het onderhoud van een open bodemenergiesysteem in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, betreft.    
 
 ### Artikel  1.4  
 
-1.  Burgemeester en wethouders van de gemeente waar het lozen plaatsvindt zijn bevoegd gezag, indien het lozen betreft als bedoeld in [artikel 10.32 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+1.  Burgemeester en wethouders van de gemeente waar het lozen plaatsvindt zijn bevoegd gezag, indien het lozen betreft als bedoeld in artikel 10.32 van de Wet milieubeheer.   
 2.  Gedeputeerde staten van de provincie waar het lozen in de bodem plaatsvindt zijn bevoegd gezag, indien dat lozen geheel of gedeeltelijk plaatsvindt op een diepte van meer dan 10 meter beneden het maaiveld.   
 3.  Burgemeester en wethouders van de gemeente waar het lozen plaatsvindt zijn bevoegd gezag, indien het ander lozen op of in de bodem betreft dan bedoeld in het tweede lid.   
-4.  Onze Minister van Infrastructuur en Milieu is bevoegd gezag voor zover het betreft lozen als bedoeld in [artikel 6.2, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) in een oppervlaktewaterlichaam in beheer bij het Rijk.   
-5.  Het bestuur van het betrokken waterschap is bevoegd gezag voor zover het betreft lozen als bedoeld in [artikel 6.2, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) in een oppervlaktewaterlichaam dat niet in beheer is bij het Rijk en als bedoeld in artikel 6.2, tweede lid, van die wet.   
+4.  Onze Minister van Infrastructuur en Milieu is bevoegd gezag voor zover het betreft lozen als bedoeld in artikel 6.2, eerste lid, van de Waterwet in een oppervlaktewaterlichaam in beheer bij het Rijk.   
+5.  Het bestuur van het betrokken waterschap is bevoegd gezag voor zover het betreft lozen als bedoeld in artikel 6.2, eerste lid, van de Waterwet in een oppervlaktewaterlichaam dat niet in beheer is bij het Rijk en als bedoeld in artikel 6.2, tweede lid, van die wet.   
+6.  Burgemeester en wethouders van de gemeente waar het bodemenergiesysteem zich bevindt, zijn bevoegd gezag met betrekking tot het installeren en in werking hebben van een gesloten bodemenergiesysteem.   
+7.  Indien een ander bestuursorgaan dan burgemeester en wethouders bevoegd gezag is met betrekking tot een omgevingsvergunning met betrekking tot het installeren van een gesloten bodemenergiesysteem, bedoeld in artikel 2.2a, tweede lid, van het Besluit omgevingsrecht, is dat bestuursorgaan, in afwijking van het zesde lid, tevens bevoegd gezag met betrekking tot het installeren en in werking hebben van dat bodemenergiesysteem.   
 
 ### Artikel  1.5  
 
-1.  Bij regeling van Onze Minister van Infrastructuur en Milieu kunnen ter bescherming van het milieu regels worden gesteld ter uitwerking van de bepalingen in hoofdstuk 3.   
+1.  Bij regeling van Onze Minister van Infrastructuur en Milieu kunnen ter bescherming van het milieu regels worden gesteld ter uitwerking van de bepalingen in hoofdstuk 3 en hoofdstuk 3A.   
 2.  Bij de regeling, bedoeld in het eerste lid, kan de verplichting worden opgelegd te voldoen aan ter bescherming van het milieu door het bevoegd gezag gestelde maatwerkvoorschriften met betrekking tot de regels, bedoeld in het eerste lid, en kan worden bepaald in welke mate die maatwerkvoorschriften kunnen afwijken van die regels.   
 3.  Bij regeling van Onze Minister van Infrastructuur en Milieu kunnen regels worden gesteld omtrent de bij de toepassing van dit besluit in acht te nemen tekst van: 
 
@@ -150,8 +171,8 @@ c. de NRB.
 ### Artikel  1.6  
 
 1.  Van de beschikking waarbij bij of krachtens dit besluit een maatwerkvoorschrift wordt gesteld, wordt kennisgegeven in één of meer dagbladen, nieuwsbladen of huis-aan-huisbladen.   
-2.  In afwijking van [artikel 65, vijfde lid, van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) is [afdeling 3.4, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de voorbereiding van een maatwerkvoorschrift, inhoudende een ontheffing waarbij het bevoegd gezag de daarbij aangewezen bepalingen niet van toepassing verklaart al dan niet onder het stellen van beperkingen of voorwaarden.   
-3.  In afwijking van [artikel 66, derde lid, van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) is [afdeling 3.4, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de voorbereiding van een wijziging van een maatwerkvoorschrift, bedoeld in het tweede lid, en op de voorbereiding van andere beschikkingen krachtens artikel 66, eerste lid, van de Wet bodembescherming en van beschikkingen krachtens artikel 66, tweede lid, onder b, van de Wet bodembescherming.   
+2.  In afwijking van artikel 65, vijfde lid, van de Wet bodembescherming is afdeling 3.4, van de Algemene wet bestuursrecht niet van toepassing op de voorbereiding van een maatwerkvoorschrift, inhoudende een ontheffing waarbij het bevoegd gezag de daarbij aangewezen bepalingen niet van toepassing verklaart al dan niet onder het stellen van beperkingen of voorwaarden.   
+3.  In afwijking van artikel 66, derde lid, van de Wet bodembescherming is afdeling 3.4, van de Algemene wet bestuursrecht niet van toepassing op de voorbereiding van een wijziging van een maatwerkvoorschrift, bedoeld in het tweede lid, en op de voorbereiding van andere beschikkingen krachtens artikel 66, eerste lid, van de Wet bodembescherming en van beschikkingen krachtens artikel 66, tweede lid, onder b, van de Wet bodembescherming.   
 
 ### Artikel  1.7  
 
@@ -175,7 +196,7 @@ Degene die loost verstrekt, voor zover hij daarover beschikt of redelijkerwijs k
 
 ### Artikel  1.10  
 
-1.  Degene die voornemens is te lozen als bedoeld in de artikelen 3.1, tweede, derde, vierde en zesde lid, onderdeel a, 3.2, derde, vijfde, zevende en negende lid, 3.5, derde en vierde lid, 3.6, tweede lid, 3.10, eerste lid, 3.11, eerste lid, 3.12, eerste lid, 3.13, zevende en negende lid, 3.17, eerste en tweede lid, 3.20, vijfde lid, 3.21, eerste lid of 3.24 meldt dit ten minste vier weken voordat met het lozen wordt aangevangen aan het bevoegd gezag.   
+1.  Degene die voornemens is te lozen als bedoeld in de artikelen 3.1, tweede, derde, vierde en zesde lid, onderdeel a, 3.2, derde, vijfde, zevende en negende lid, 3.5, derde en vierde lid, 3.6, tweede lid, 3.10, eerste lid, 3.11, eerste lid, 3.12, eerste lid, 3.13, zevende en negende lid, 3.17, eerste en tweede lid, 3.20, vijfde lid, 3.21, eerste lid, 3.24, of 3a.8, meldt dit ten minste vier weken voordat met het lozen wordt aangevangen aan het bevoegd gezag.   
 2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot het veranderen van het lozen. Een melding is niet vereist, indien eerder een melding overeenkomstig het bepaalde in dit artikel is gedaan en door dit veranderen geen afwijking ontstaat van de bij die melding verstrekte gegevens en er niet op grond van de artikelen 1.16 tot en met 1.19 andere gegevens verstrekt moeten worden.   
 3.  Bij de melding worden de volgende gegevens verstrekt: 
 
@@ -188,9 +209,41 @@ c. de aard en omvang van het lozen;
 d. een situatieschets, met een schaal van ten minste 1:10.000 en voorzien van een noordpijl, waarop de ligging van de activiteit waarvan het lozen het gevolg is ten opzichte van de omgeving is aangegeven, met aanduiding van de lozingspunten en de ligging van de terreinriolering.     
 4.  Het bestuursorgaan dat een melding ontvangt waarvoor een ander bestuursorgaan mede bevoegd gezag is, stuurt onmiddellijk een kopie van de melding aan het andere bevoegde gezag. De melding geldt als mede bij dat andere bevoegde gezag te zijn gedaan.   
 
+### Artikel  1.10a  
+
+1.  Degene die voornemens is een gesloten bodemenergiesysteem te installeren, meldt dit ten minste vier weken voor de installatie aan het bevoegd gezag.   
+2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot het veranderen van een gesloten bodemenergiesysteem en het veranderen van de werking daarvan.   
+3.  Bij de melding worden de volgende gegevens verstrekt: 
+
+a. de naam en het adres van degene die voornemens is het systeem te installeren of te veranderen of de werking van het systeem te veranderen;  
+
+b. het tijdstip waarop de installatie of de verandering zal plaatsvinden;  
+
+c. de naam en het adres van degene die boringen of andere werkzaamheden ten behoeve van de installatie zal uitvoeren;  
+
+d. een beschrijving van de kenmerken van het systeem;  
+
+e. een situatieschets, met een schaal van ten minste 1:1.000 en voorzien van een noordpijl, waarop de ligging van het systeem ten opzichte van de omgeving is aangegeven;  
+
+f. de einddiepte waarop het systeem zal worden geïnstalleerd of de einddiepte van het systeem na de verandering;  
+
+g. de x-y-coördinaten van het middelpunt van het systeem;  
+
+h. een onderbouwing waaruit blijkt dat het in werking hebben van het systeem niet leidt tot zodanige interferentie met een eerder geïnstalleerd bodemenergiesysteem dat het doelmatig functioneren van een van de desbetreffende systemen kan worden geschaad;  
+
+i. het energierendement, uitgedrukt als de SPF, dat het bodemenergiesysteem zal behalen bij voorzien gebruik van het gebouw overeenkomstig de bestemming waarvoor het systeem is ontworpen, blijkend uit een schriftelijke verklaring van de installateur;  
+
+j. het bodemzijdig vermogen van het systeem en de omvang van de behoefte aan warmte en koude waarin het systeem voorziet.     
+4.  Bij een melding als bedoeld in het tweede lid die werkzaamheden als bedoeld in artikel 3a.10 betreft, worden de naam en het adres vermeld van degene die die werkzaamheden verricht.   
+5.  Indien een gesloten bodemenergiesysteem is geïnstalleerd voor het tijdstip van inwerkingtreding van hoofdstuk 3a en vanaf dat tijdstip vrijwillig een melding wordt gedaan van het in werking hebben van dat systeem, worden bij de melding de volgende gegevens verstrekt: 
+
+a. de naam en het adres van degene die het systeem in gebruik heeft;  
+
+b. de in het eerste lid, onderdelen d tot en met g en j, bedoelde gegevens.     
+
 ### Artikel  1.11  
 
-Indien op grond van [artikel 7 van het Besluit uniforme saneringen](../../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) met een sanering kan worden begonnen nadat vijf werkdagen zijn verstreken vanaf de datum van ontvangst van de melding, bedoeld in [artikel 6 van dat besluit](../../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), meldt degene die voornemens is te lozen vanuit die bodemsanering als bedoeld in artikel 3.1, tweede, derde en vierde lid, in afwijking van de termijn bedoeld in artikel 1.10, eerste lid, dit ten minste vijf werkdagen voordat met het lozen wordt aangevangen.  
+Indien op grond van artikel 7 van het Besluit uniforme saneringen met een sanering kan worden begonnen nadat vijf werkdagen zijn verstreken vanaf de datum van ontvangst van de melding, bedoeld in artikel 6 van dat besluit, meldt degene die voornemens is te lozen vanuit die bodemsanering als bedoeld in artikel 3.1, tweede, derde en vierde lid, in afwijking van de termijn bedoeld in artikel 1.10, eerste lid, dit ten minste vijf werkdagen voordat met het lozen wordt aangevangen.  
 
 ### Artikel  1.12  
 
@@ -208,7 +261,7 @@ Indien het lozen ten gevolge van werkzaamheden aan vaste objecten als bedoeld in
 
 ### Artikel  1.15  
 
-Indien het lozen ten gevolge van ontgravingen of baggerwerkzaamheden als bedoeld in artikel 3.17 in een oppervlaktewaterlichaam, dat niet in beheer bij het Rijk is, plaatsvindt door de beheerder of ter uitvoering van een onderhoudsverplichting als bedoeld in [artikel 78, tweede lid, van de Waterschapswet](../../../../../../wet/waterschapswet/BWBR0005108/README.md), is in afwijking van artikel 1.10, eerste lid, geen melding vereist.  
+Indien het lozen ten gevolge van ontgravingen of baggerwerkzaamheden als bedoeld in artikel 3.17 in een oppervlaktewaterlichaam, dat niet in beheer bij het Rijk is, plaatsvindt door de beheerder of ter uitvoering van een onderhoudsverplichting als bedoeld in artikel 78, tweede lid, van de Waterschapswet, is in afwijking van artikel 1.10, eerste lid, geen melding vereist.  
 
 ### Artikel  1.16  
 
@@ -240,7 +293,8 @@ b. indien de kwaliteit de interventiewaarde overschrijdt, een werkplan als bedoe
 
 ### Artikel  1.20  
 
-Indien zich met betrekking tot het lozen een ongewoon voorval voordoet of heeft voorgedaan, waardoor nadelige gevolgen voor de kwaliteit van het milieu zijn ontstaan of dreigen te ontstaan, meldt degene die loost dit zo spoedig mogelijk aan het bevoegd gezag.  
+1.  Indien zich met betrekking tot het lozen een ongewoon voorval voordoet of heeft voorgedaan, waardoor nadelige gevolgen voor de kwaliteit van het milieu zijn ontstaan of dreigen te ontstaan, meldt degene die loost dit zo spoedig mogelijk aan het bevoegd gezag.   
+2.  Het eerste lid is van overeenkomstige toepassing op het installeren, in werking hebben en buiten gebruik stellen van een gesloten bodemenergiesysteem.   
 
 ### Hoofdstuk  2  
 
@@ -269,7 +323,7 @@ g. het doelmatig beheer van afvalwater.
 
 ### Artikel  2.2  
 
-1.  Het lozen van afvalwater op of in de bodem, is verboden, tenzij aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.8, 3.10, 3.13 tot en met 3.16, 3.22 en 3.24.   
+1.  Het lozen van afvalwater op of in de bodem, is verboden, tenzij aan dat lozen regels zijn gesteld bij of krachtens de artikelen 3.1 tot en met 3.8, 3.10, 3.13 tot en met 3.16, 3.22, 3.24 en 3a.2.   
 2.  In afwijking van het eerste lid is lozen in de bodem waaraan regels zijn gesteld in de in dat lid genoemde artikelen verboden, indien daarbij stoffen zonder doorsijpeling door bodem of ondergrond in het grondwater geraken.   
 3.  Het bevoegd gezag kan bij maatwerkvoorschrift bepalen dat de verboden bedoeld in het eerste en tweede lid niet van toepassing zijn en dat lozen op of in de bodem is toegestaan, indien het belang van de bescherming van het milieu zich gelet op de samenstelling, hoeveelheid en eigenschappen van het afvalwater daartegen niet verzet.   
 4.  Bij maatwerkvoorschrift, bedoeld in het derde lid, kunnen voorwaarden worden gesteld met betrekking tot: 
@@ -281,7 +335,7 @@ b. de te treffen maatregelen;
 c. de duur van het lozen; en  
 
 d. de plaats van het lozingspunt.     
-5.  De verboden bedoeld in het eerste en tweede lid zijn niet van toepassing op lozen in de bodem waaraan in een vergunning op grond van [artikel 6.4](../../../../../../wet/waterwet/BWBR0025458/README.md) of [artikel 6.5, onderdeel b, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), dan wel een vergunning op grond van een verordening van het waterschap, voorschriften zijn gesteld ter voorkoming van bodemverontreiniging en verontreiniging van het grondwater.   
+5.  De verboden bedoeld in het eerste en tweede lid zijn niet van toepassing op lozen in de bodem waaraan in een vergunning op grond van artikel 6.4 of artikel 6.5, onderdeel b, van de Waterwet, dan wel een vergunning op grond van een verordening van het waterschap, voorschriften zijn gesteld ter voorkoming van bodemverontreiniging en verontreiniging van het grondwater.   
 
 ### Artikel  2.3  
 
@@ -339,7 +393,7 @@ r. NEN-EN-ISO 15682 ten aanzien van chloride.
 
 ### Artikel  3.1  
 
-1.  Bij het lozen van grondwater vanuit een proefbronnering in het kader van een saneringsonderzoek in de zin van de [Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en het lozen vanuit een bodemsanering in de zin van de Wet bodembescherming wordt ten minste voldaan aan het tweede tot en met het negende lid.   
+1.  Bij het lozen van grondwater vanuit een proefbronnering in het kader van een saneringsonderzoek in de zin van de Wet bodembescherming en het lozen vanuit een bodemsanering in de zin van de Wet bodembescherming wordt ten minste voldaan aan het tweede tot en met het negende lid.   
 2.  Het lozen in een aangewezen oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan, indien bij het lozen: 
 
 a. geen visuele verontreiniging plaatsvindt;  
@@ -351,7 +405,7 @@ c. het gehalte aan PAK’s in enig steekmonster ten hoogste 1 microgram per lite
 d. in een steekmonster de emissiewaarden van de in dit artikel opgenomen tabel 3.1a niet worden overschreden.    Tabel 3.1a 
 
 | Stoffen  | emissiewaarde  |
-|:---|:---|
+|---|---|
 | BTEX  | 50 microgram per liter  |
 | Vluchtige organohalogeenverbindingen uitgedrukt als chloor  | 20 microgram per liter  |
 | Aromatische organohalogeenverbindingen  | 20 microgram per liter  |
@@ -376,7 +430,7 @@ c. het gehalte aan PAK’s in enig steekmonster ten hoogste 1 microgram per lite
 d. in een steekmonster de emissiewaarden van de in dit artikel opgenomen tabel 3.1b niet worden overschreden.    Tabel 3.1b 
 
 | Stoffen  | emissiewaarde  |
-|:---|:---|
+|---|---|
 | Benzeen  | 2 microgram per liter  |
 | Tolueen  | 7 microgram per liter  |
 | Ethylbenzeen  | 4 microgram per liter  |
@@ -400,7 +454,7 @@ d. in een steekmonster de emissiewaarden van de in dit artikel opgenomen tabel 3
 | Chroom  | 2,4 microgram per liter  |
 | Onopgeloste stoffen  | 20 milligram per liter  |
 
-4.  Het lozen op of in de bodem is toegestaan indien het gehalte aan stoffen in enig steekmonster niet meer bedraagt dan de streefwaarden in tabel 1 van de [bijlage bij de circulaire bodemsanering 2009](../../../../../../circulaire/circulaire/bodemsanering/2009/BWBR0025649/README.md).   
+4.  Het lozen op of in de bodem is toegestaan indien het gehalte aan stoffen in enig steekmonster niet meer bedraagt dan de streefwaarden in tabel 1 van de bijlage bij de circulaire bodemsanering 2009.   
 5.  Het lozen in een vuilwaterriool is verboden.   
 6.  Indien lozen in een oppervlaktewaterlichaam, op of in de bodem of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, redelijkerwijs niet mogelijk is: 
 
@@ -440,7 +494,7 @@ a. afwijken van het gehalte, genoemd dat lid, en een hoger gehalte vaststellen, 
 
 b. bepalen dat visuele verontreiniging mag optreden, indien visuele verontreiniging niet door toepassing van beste beschikbare technieken kan worden voorkomen en het belang van de bescherming van het milieu zich niet verzet tegen het lozen waarbij visuele verontreiniging optreedt.     
 5.  Het lozen in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan indien het gehalte onopgeloste stoffen in enig steekmonster ten hoogste 50 milligram per liter bedraagt en het ijzergehalte in enig steekmonster ten hoogste 5 milligram per liter bedraagt.   
-6.  Het bevoegd gezag kan met betrekking tot lozen als bedoeld in het vijfde lid bij maatwerkvoorschrift of verordening als bedoeld in [artikel 10.32a van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) afwijken van: 
+6.  Het bevoegd gezag kan met betrekking tot lozen als bedoeld in het vijfde lid bij maatwerkvoorschrift of verordening als bedoeld in artikel 10.32a van de Wet milieubeheer afwijken van: 
 
 a. de gehalten, bedoeld in dat lid, en hogere gehalten vaststellen, indien eerstgenoemde gehalten niet door toepassing van beste beschikbare technieken kunnen worden bereikt en het belang van de bescherming van het milieu zich niet verzet tegen het lozen met een hoger gehalte;  
 
@@ -452,7 +506,7 @@ a. het lozen ten hoogste 8 weken duurt;
 b. de geloosde hoeveelheid ten hoogste 5 kubieke meter per uur bedraagt; en  
 
 c. het gehalte onopgeloste stoffen in enig steekmonster ten hoogste 300 milligram per liter bedraagt.     
-8.  Het bevoegd gezag kan met betrekking tot de tijdsduur en de hoeveelheid, bedoeld in het zevende lid bij maatwerkvoorschrift of bij verordening als bedoeld in [artikel 10.32a van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) andere waarden stellen.   
+8.  Het bevoegd gezag kan met betrekking tot de tijdsduur en de hoeveelheid, bedoeld in het zevende lid bij maatwerkvoorschrift of bij verordening als bedoeld in artikel 10.32a van de Wet milieubeheer andere waarden stellen.   
 9.  Het te lozen grondwater kan op een doelmatige wijze worden bemonsterd.   
 10.  De per tijdseenheid geloosde hoeveelheid grondwater kan voor de toepassing van het zevende lid op een doelmatige wijze worden bepaald.   
 
@@ -474,7 +528,7 @@ c. het gehalte onopgeloste stoffen in enig steekmonster ten hoogste 300 milligr
 
 a. sprake is van pleksgewijze behandeling door middel van selectieve toepassingstechnieken; en  
 
-b. de kans op neerslag voor een periode van 24 uur na het voorgenomen gebruik niet groter is dan 40% volgens het weerbericht, bedoeld in [artikel 5 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), voor de desbetreffende regio van het land.     
+b. de kans op neerslag voor een periode van 24 uur na het voorgenomen gebruik niet groter is dan 40% volgens het weerbericht, bedoeld in artikel 5 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut, voor de desbetreffende regio van het land.     
 5.  Gewasbeschermingsmiddelen, waaronder onkruidbestrijdingsmiddelen, worden niet gebruikt in of nabij straatkolken of putten.   
 
 ### Artikel  3.5  
@@ -515,7 +569,7 @@ b. indien voor een deel van het huishoudelijk afvalwater dat vrijkomt ten gevolg
 5.  Bij het lozen op of in de bodem of in een oppervlaktewaterlichaam worden de waarden van de in dit artikel opgenomen tabel 3.6 niet overschreden:  Tabel 3.6 
 
 |--- | Lozen op of in de bodem en in een aangewezen oppervlaktewaterlichaam  | Lozen in een niet-aangewezen oppervlaktewaterlichaam  |
-|:---|:---|:---|
+|---|---|---|
 | Parameter  | Representatief etmaalmonster  | Steekmonster  | Representatief etmaalmonster  | Steekmonster  |
 | Biochemisch zuurstof verbruik  | 30 milligram per liter  | 60 milligram per liter  | 20 milligram per liter  | 40 milligram per liter  |
 | Chemisch zuurstof verbruik  | 150 milligram per liter  | 300 milligram per liter  | 100 milligram per liter  | 200 milligram per liter  |
@@ -535,7 +589,7 @@ b. bepalen dat het huishoudelijk afvalwater door een daarbij voorgeschreven zuiv
 
 ### Artikel  3.7  
 
-1.  Het lozen op of in de bodem of in een oppervlaktewaterlichaam van huishoudelijk afvalwater, met uitzondering van ongezuiverd toiletwater, vanuit een spoorvoertuig als bedoeld in [artikel 1 van de Spoorwegwet](../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is toegestaan.   
+1.  Het lozen op of in de bodem of in een oppervlaktewaterlichaam van huishoudelijk afvalwater, met uitzondering van ongezuiverd toiletwater, vanuit een spoorvoertuig als bedoeld in artikel 1 van de Spoorwegwet is toegestaan.   
 2.  In afwijking van het eerste lid is het lozen van ongezuiverd toiletwater toegestaan vanuit: 
 
 a. spoorvoertuigen die voor de inwerkingtreding van dit artikel reeds in productie zijn genomen ten behoeve van een vervoerder die in Nederland treintrajecten exploiteert;  
@@ -550,7 +604,7 @@ Het lozen van huishoudelijk afvalwater op of in de bodem of in een oppervlaktewa
 
 ### Artikel  3.9  
 
-1.  Het lozen in een oppervlaktewaterlichaam van huishoudelijk afvalwater, met uitzondering van toiletwater, vanaf een pleziervaartuig als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet pleziervaartuigen](../../../../../../wet/wet/pleziervaartuigen/BWBR0008366/README.md) is toegestaan.   
+1.  Het lozen in een oppervlaktewaterlichaam van huishoudelijk afvalwater, met uitzondering van toiletwater, vanaf een pleziervaartuig als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet pleziervaartuigen is toegestaan.   
 2.  In afwijking van het eerste lid is het lozen van toiletwater toegestaan vanaf een pleziervaartuig, indien het toiletwater voordat het geloosd wordt door een zuiveringsvoorziening wordt geleid, die voldoet aan bij ministeriële regeling gestelde eisen.   
 
 ### §  3.5  
@@ -625,17 +679,17 @@ b. S3 bij een windsnelheid groter dan 14 meter per seconde.
 
 Het lozen in een oppervlaktewaterlichaam of op of in de bodem van afvalwater afkomstig uit een openbaar ontwateringsstelsel of een openbaar hemelwaterstelsel is toegestaan, indien het stelsel voorkomt op het in het gemeentelijk rioleringsplan opgenomen overzicht van: 
 
-a. de in de gemeente aanwezige voorzieningen voor de inzameling en verdere verwerking van afvloeiend hemelwater, bedoeld in [artikel 3.5 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md);  
+a. de in de gemeente aanwezige voorzieningen voor de inzameling en verdere verwerking van afvloeiend hemelwater, bedoeld in artikel 3.5 van de Waterwet;  
 
-b. de maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, bedoeld in [artikel 3.6 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md);   en het stelsel overeenkomstig het gemeentelijk rioleringsplan is uitgevoerd en wordt beheerd.  
+b. de maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, bedoeld in artikel 3.6 van de Waterwet;   en het stelsel overeenkomstig het gemeentelijk rioleringsplan is uitgevoerd en wordt beheerd.  
 
 ### Artikel  3.15  
 
-Het lozen in een oppervlaktewaterlichaam van afvalwater vanuit een openbaar vuilwaterriool is toegestaan, indien het vuilwaterriool voorkomt op het in het gemeentelijk rioleringsplan opgenomen overzicht van de in de gemeente aanwezige voorzieningen voor de inzameling en het transport van stedelijk afvalwater bedoeld in [artikel 10.33 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en overeenkomstig het gemeentelijk rioleringsplan is uitgevoerd en wordt beheerd.  
+Het lozen in een oppervlaktewaterlichaam van afvalwater vanuit een openbaar vuilwaterriool is toegestaan, indien het vuilwaterriool voorkomt op het in het gemeentelijk rioleringsplan opgenomen overzicht van de in de gemeente aanwezige voorzieningen voor de inzameling en het transport van stedelijk afvalwater bedoeld in artikel 10.33 van de Wet milieubeheer en overeenkomstig het gemeentelijk rioleringsplan is uitgevoerd en wordt beheerd.  
 
 ### Artikel  3.16  
 
-Het lozen in een oppervlaktewaterlichaam of op of in de bodem van huishoudelijk afvalwater door middel van systemen, als bedoeld in [artikel 10.33, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is toegestaan, indien het systeem voldoet aan artikel 10.33, tweede lid, van de Wet milieubeheer en overeenkomstig het gemeentelijk rioleringsplan is uitgevoerd en wordt beheerd.  
+Het lozen in een oppervlaktewaterlichaam of op of in de bodem van huishoudelijk afvalwater door middel van systemen, als bedoeld in artikel 10.33, tweede lid, van de Wet milieubeheer is toegestaan, indien het systeem voldoet aan artikel 10.33, tweede lid, van de Wet milieubeheer en overeenkomstig het gemeentelijk rioleringsplan is uitgevoerd en wordt beheerd.  
 
 ### §  3.9  
 
@@ -679,7 +733,7 @@ b. het gehalte onopgeloste stoffen in enig steekmonster niet meer bedraagt dan 2
 
 ### Artikel  3.22  
 
-1.  Dit artikel is van toepassing op het lozen van afvalwater dat vrijkomt bij het schoonmaken en in gebruik nemen van de middelen voor opslag, transport en distributie van leidingwater als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Waterleidingwet](../../../../../../wet/waterleidingwet/BWBR0002246/README.md). Bij het lozen wordt ten minste voldaan aan het tweede tot en met het vierde lid.   
+1.  Dit artikel is van toepassing op het lozen van afvalwater dat vrijkomt bij het schoonmaken en in gebruik nemen van de middelen voor opslag, transport en distributie van leidingwater als bedoeld in artikel 1, eerste lid, onderdeel b, van de Waterleidingwet. Bij het lozen wordt ten minste voldaan aan het tweede tot en met het vierde lid.   
 2.  Het lozen op of in de bodem is toegestaan indien aan het leidingwater geen chemicaliën zijn toegevoegd en als gevolg van het lozen geen wateroverlast ontstaat.   
 3.  Het lozen in een oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan, indien aan het leidingwater geen chemicaliën zijn toegevoegd.   
 4.  Het lozen vindt slechts dan in een vuilwaterriool plaats, indien het lozen bedoeld in het tweede en het derde lid redelijkerwijs niet mogelijk is.   
@@ -695,7 +749,7 @@ Het lozen van afvalwater dat vrijkomt bij een calamiteitenoefening, is toegestaa
 
 ### Artikel  3.25  
 
-Het lozen ten gevolge van het in een oppervlaktewaterlichaam individueel verstrooien van as door de nabestaande die de zorg voor de asbus heeft, bedoeld in [artikel 66a van de Wet op de lijkbezorging](../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), is toegestaan.  
+Het lozen ten gevolge van het in een oppervlaktewaterlichaam individueel verstrooien van as door de nabestaande die de zorg voor de asbus heeft, bedoeld in artikel 66a van de Wet op de lijkbezorging, is toegestaan.  
 
 ### Artikel  3.26  
 
@@ -704,6 +758,83 @@ Bij het lozen in een oppervlaktewaterlichaam ten gevolge van het gebruik van gew
 a. met een spuitgeweer dat is voorzien van een werveldop of dat gebruik maakt van een werkdruk van 5 bar of hoger; en  
 
 b. bij een windsnelheid van meer dan 5 meter per seconde gemeten op spuitdophoogte.    
+
+### Hoofdstuk  3a  
+
+####Algemene regels ten aanzien van bodemenergiesystemen
+
+### Artikel  3a.1  
+
+Dit hoofdstuk is van toepassing op het installeren en in werking hebben van een gesloten bodemenergiesysteem en het lozen ten gevolge van het installeren en in werking hebben van een open bodemenergiesysteem.  
+
+### Artikel  3a.2  
+
+1.  Het lozen van spoelwater ten gevolge van het boren ten behoeve van een gesloten bodemenergiesysteem of een open bodemenergiesysteem op de bodem is toegestaan.   
+2.  Het lozen van spoelwater ten gevolge van het ontwikkelen en het onderhoud van een open bodemenergiesysteem in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan.   
+3.  Het lozen van spoelwater ten gevolge van het ontwikkelen en het onderhoud van een open bodemenergiesysteem vindt slechts dan in een vuilwaterriool plaats, indien lozen als bedoeld in het tweede lid redelijkerwijs niet mogelijk is.   
+
+### Artikel  3a.3  
+
+1.  Indien een redelijk vermoeden bestaat dat in een gesloten bodemenergiesysteem lekkage optreedt, wordt het onmiddellijk buiten werking gesteld en wordt de circulatievloeistof daaruit onmiddellijk verwijderd, tenzij water zonder toevoegingen wordt gebruikt.   
+2.  Bij het opslaan van circulatievloeistof in een buffertank wordt de druk in het systeem continu gemeten en worden voorzieningen toegepast waarmee drukverlagingen kunnen worden gesignaleerd.   
+
+### Artikel  3a.4  
+
+1.  De temperatuur van de circulatievloeistof in de retourbuis van een gesloten bodemenergiesysteem bedraagt niet minder dan –3°C en niet meer dan 30°C.   
+2.  In afwijking van het eerste lid kan het bevoegd gezag in het belang van een doelmatig gebruik van bodemenergie bij maatwerkvoorschrift een hogere temperatuur dan 30°C toestaan, indien het belang van de bescherming van de bodem zich daartegen niet verzet.   
+
+### Artikel  3a.5  
+
+1.  Een gesloten bodemenergiesysteem bereikt uiterlijk vijf jaar na de datum van ingebruikneming een moment waarop geen sprake is van een warmteoverschot en herhaalt dit telkens uiterlijk vijf jaar na het laatste moment waarop die situatie werd bereikt.   
+2.  Van een warmteoverschot is sprake indien de hoeveelheid warmte groter is dan de hoeveelheid koude, die, uitgedrukt in MWh, vanaf de datum van ingebruikneming door het systeem aan de bodem zijn toegevoegd.   
+3.  Het bevoegd gezag kan in het belang van een doelmatig gebruik van bodemenergie bij maatwerkvoorschrift eisen stellen ter beperking van het koudeoverschot dat het systeem aan de bodem mag toevoegen.   
+4.  In afwijking van het eerste lid kan het bevoegd gezag in het belang van een doelmatig gebruik van bodemenergie bij maatwerkvoorschrift een warmteoverschot toestaan, indien het belang van de bescherming van de bodem zich daartegen niet verzet.   
+
+### Artikel  3a.6  
+
+1.  Het ontwerp van een gesloten bodemenergiesysteem is afgestemd op aard en omvang van de behoefte aan warmte of koude waarin het systeem voorziet.   
+2.  Een gesloten bodemenergiesysteem levert het energierendement dat bij een doelmatig gebruik en goed onderhoud kan worden behaald.   
+3.  Indien een gesloten bodemenergiesysteem een energierendement levert dat lager is dan in de melding bij de installatie is opgegeven, kan het bevoegd gezag de verplichting opleggen om binnen een daarbij bepaalde termijn onderzoek te verrichten of te laten verrichten waaruit blijkt of wordt voldaan aan het eerste lid, onderscheidenlijk tweede lid.   
+4.  Indien uit het onderzoek, bedoeld in het derde lid, blijkt dat niet wordt voldaan aan het eerste lid, onderscheidenlijk tweede lid, kan het bevoegd gezag de verplichting opleggen binnen een daarbij bepaalde termijn de daarbij aangegeven maatregelen te treffen teneinde te voldoen aan het eerste lid, voor zover dit redelijkerwijs kan worden gevergd, onderscheidenlijk het tweede lid.   
+5.  Dit artikel is niet van toepassing op een systeem dat uitsluitend ten behoeve van een afzonderlijke woning wordt gebruikt.   
+
+### Artikel  3a.7  
+
+1.  Het in werking hebben van een gesloten bodemenergiesysteem leidt niet tot zodanige interferentie met een eerder geïnstalleerd bodemenergiesysteem, dat het doelmatig functioneren van een van de desbetreffende systemen kan worden geschaad.   
+2.  Bij de toepassing van het eerste lid wordt rekening gehouden met een eerder geïnstalleerd bodemenergiesysteem, indien: 
+
+a. het een open bodemenergiesysteem betreft waarvoor een vergunning is verleend krachtens artikel 6.4, eerste lid, onder b, van de Waterwet, of dat aan het bevoegd gezag is gemeld krachtens artikel 6.6 van die wet;  
+
+b. het een gesloten bodemenergiesysteem betreft, dat is geïnstalleerd: 
+
+1° voor het tijdstip van inwerkingtreding van hoofdstuk 3a, indien het in werking hebben van het systeem na dat tijdstip aan het bevoegd gezag is gemeld overeenkomstig artikel 1.10a, vijfde lid, van dit besluit dan wel artikel 1.10 juncto artikel 1.21a, derde lid, van het Activiteitenbesluit milieubeheer;  
+
+2° na het tijdstip van inwerkingtreding van hoofdstuk 3a, indien de installatie overeenkomstig artikel 1.10a, eerste lid, van dit besluit dan wel artikel 1.10 juncto artikel 1.21a, eerste lid, van het Activiteitenbesluit milieubeheer aan het bevoegd gezag is gemeld of voor de installatie een omgevingsvergunning is verleend.       
+
+### Artikel  3a.8  
+
+1.  Met betrekking tot het in werking hebben van een gesloten bodemenergiesysteem wordt een registratie bijgehouden die de volgende gegevens bevat: 
+
+a. de temperatuur van de circulatievloeistof in de retourbuis;  
+
+b. de hoeveelheden warmte en koude die vanaf de datum van ingebruikneming aan de bodem zijn toegevoegd, op zodanige wijze dat daaruit de data kunnen worden afgelezen, waarop aan artikel 3a.5 is voldaan;  
+
+c. het energierendement dat jaarlijks vanaf de datum van ingebruikneming is behaald.     
+2.  Het eerste lid is niet van toepassing op een systeem dat uitsluitend ten behoeve van een afzonderlijke woning wordt gebruikt.   
+3.  Indien de geregistreerde gegevens, bedoeld in het eerste lid, betrekking hebben op een gesloten bodemenergiesysteem met een bodemzijdig vermogen van 70 kW of meer, worden zij binnen drie maanden na afloop van elk kalenderjaar toegezonden aan het bevoegd gezag.   
+4.  Indien de geregistreerde gegevens, bedoeld in het eerste lid, betrekking hebben op een gesloten bodemenergiesysteem met een bodemzijdig vermogen van minder dan 70 kW, worden zij ten minste tien jaar bewaard en ter inzage gehouden.   
+
+### Artikel  3a.9  
+
+Het verrichten van werkzaamheden ten behoeve van een gesloten bodemenergiesysteem vindt plaats overeenkomstig de daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocumenten door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.  
+
+### Artikel  3a.10  
+
+Zo spoedig mogelijk na de beëindiging van het in werking hebben van een gesloten bodemenergiesysteem wordt: 
+
+a. de circulatievloeistof uit de buizen verwijderd, en  
+
+b. het systeem, zonder daarbij het ondergrondse deel te verwijderen, zodanig opgevuld dat de werking van de oorspronkelijke waterscheidende lagen wordt hersteld.    
 
 ### Hoofdstuk  4  
 
@@ -731,23 +862,23 @@ Wijzigt het Besluit lozing afvalwater huishoudens.
 
 ### Artikel  5.1  
 
-1.  Voor het lozen dat bij of krachtens de in de hoofdstuk 3 gestelde voorschriften is toegestaan en waarvoor onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 een vergunning op grond van [artikel 6.2 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), een ontheffing op grond van [artikel 10.63, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of een ontheffing op grond van de [artikelen 14, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), [24, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), of [25, tweede lid, van het Lozingenbesluit bodembescherming](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md) in werking en onherroepelijk was, worden de voorschriften van die vergunning of ontheffing gedurende drie jaar na het tijdstip van inwerkingtreding van artikel 2.1 aangemerkt als maatwerkvoorschriften, mits de voorschriften vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften.   
-2.  De nadere eisen die onmiddelijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 golden krachtens het [Lozingenbesluit Wvo huishoudelijk afvalwater](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md), het [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), het [Lozingenbesluit Wvo vaste objecten](../../../../../../AMvB/lozingenbesluit/wvo/vaste/objecten/BWBR0009355/README.md) of het [Besluit lozingsvoorschriften niet-inrichtingen milieubeheer](../../../../../../AMvB/besluit/lozingsvoorschriften/niet-inrichtingen/milieubeheer/BWBR0007854/README.md) voor het lozen dat onder dit besluit valt, blijven na het tijdstip van inwerkingtreding van artikel 2.1 gelden als maatwerkvoorschriften, mits de nadere eisen vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften.   
-3.  De voorschriften van een vergunning op grond van [artikel 6.2 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), een ontheffing op grond van [artikel 10.63, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of een ontheffing op grond van de [artikelen 14, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), [24, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), of [25, tweede lid, van het Lozingenbesluit bodembescherming](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), dan wel de nadere eisen op grond van het [Lozingenbesluit Wvo huishoudelijk afvalwater](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md), het [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), het [Lozingenbesluit Wvo vaste objecten](../../../../../../AMvB/lozingenbesluit/wvo/vaste/objecten/BWBR0009355/README.md) of het [Besluit lozingsvoorschriften niet-inrichtingen milieubeheer](../../../../../../AMvB/besluit/lozingsvoorschriften/niet-inrichtingen/milieubeheer/BWBR0007854/README.md) die voor het lozen dat onder dit besluit valt onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 in werking en onherroepelijk waren en niet vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften worden, indien op grond van dit besluit strengere bepalingen gaan gelden, gedurende zes maanden na bedoeld tijdstip van inwerkingtreding aangemerkt als maatwerkvoorschriften.   
+1.  Voor het lozen dat bij of krachtens de in de hoofdstuk 3 gestelde voorschriften is toegestaan en waarvoor onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 een vergunning op grond van artikel 6.2 van de Waterwet, een ontheffing op grond van artikel 10.63, eerste lid, van de Wet milieubeheer, of een ontheffing op grond van de artikelen 14, tweede lid, 24, tweede lid, of 25, tweede lid, van het Lozingenbesluit bodembescherming in werking en onherroepelijk was, worden de voorschriften van die vergunning of ontheffing gedurende drie jaar na het tijdstip van inwerkingtreding van artikel 2.1 aangemerkt als maatwerkvoorschriften, mits de voorschriften vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften.   
+2.  De nadere eisen die onmiddelijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 golden krachtens het Lozingenbesluit Wvo huishoudelijk afvalwater, het Lozingenbesluit Wvo bodemsanering en proefbronnering, het Lozingenbesluit Wvo vaste objecten of het Besluit lozingsvoorschriften niet-inrichtingen milieubeheer voor het lozen dat onder dit besluit valt, blijven na het tijdstip van inwerkingtreding van artikel 2.1 gelden als maatwerkvoorschriften, mits de nadere eisen vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften.   
+3.  De voorschriften van een vergunning op grond van artikel 6.2 van de Waterwet, een ontheffing op grond van artikel 10.63, eerste lid, van de Wet milieubeheer, of een ontheffing op grond van de artikelen 14, tweede lid, 24, tweede lid, of 25, tweede lid, van het Lozingenbesluit bodembescherming, dan wel de nadere eisen op grond van het Lozingenbesluit Wvo huishoudelijk afvalwater, het Lozingenbesluit Wvo bodemsanering en proefbronnering, het Lozingenbesluit Wvo vaste objecten of het Besluit lozingsvoorschriften niet-inrichtingen milieubeheer die voor het lozen dat onder dit besluit valt onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 in werking en onherroepelijk waren en niet vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften worden, indien op grond van dit besluit strengere bepalingen gaan gelden, gedurende zes maanden na bedoeld tijdstip van inwerkingtreding aangemerkt als maatwerkvoorschriften.   
 4.  Voor de toepassing van dit artikel worden gegevens die in de aanvraag staan en die geacht worden onderdeel uit te maken van de voorschriften van de vergunning of ontheffing aangemerkt als voorschriften van de vergunning of ontheffing.   
 
 ### Artikel  5.2  
 
-1.  In afwijking van artikel 5.1, eerste lid, wordt een ontheffing op grond van de [artikelen 14, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), [24, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), en [25, tweede lid, van het Lozingenbesluit bodembescherming](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md) met betrekking tot het lozen als bedoeld in artikel 2.2, eerste en tweede lid, gedurende de resterende termijn van die ontheffing als die ontheffing nog van kracht zou zijn geweest doordat bepaalde artikelen van dit besluit niet in werking zouden zijn getreden, aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid.   
-2.  In afwijking van artikel 5.1, eerste lid, wordt een ontheffing op grond van [artikel 10.63, eerste lid van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) met betrekking tot het lozen, bedoeld in artikel 3.1, vijfde lid, gedurende de resterende termijn van die ontheffing als die ontheffing nog van kracht zou zijn geweest doordat bepaalde artikelen van dit besluit niet in werking zouden zijn getreden, aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 3.1, zesde lid, onderdeel b.   
-3.  Onverminderd artikel 5.1, tweede en derde lid, is het lozen vanuit een bodemsanering in het vuilwaterriool dat onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.1 was toegestaan volgens het [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), in afwijking van artikel 3.1, vijfde lid, toegestaan en worden de [artikelen 5, eerste lid](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), [6, eerste tot en met derde lid](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), [7, eerste lid](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), [8](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), [12](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), [13](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md), 13 en [14 van dat besluit](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md) aangemerkt als maatwerkvoorschrift als bedoeld in artikel 3.1, zesde lid, onderdeel b.   
-4.  Indien onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding van artikel 3.6 het lozen van huishoudelijk afvalwater in het oppervlaktewaterlichaam was toegestaan op grond van [artikel 14 van het Lozingenbesluit Wvo huishoudelijk afvalwater](../../../../../../AMvB/lozingenbesluit/wvo/huishoudelijk/afvalwater/BWBR0008512/README.md), blijft het lozen toegestaan gedurende de termijn die volgt uit de toepassing van dat artikel.   
+1.  In afwijking van artikel 5.1, eerste lid, wordt een ontheffing op grond van de artikelen 14, tweede lid, 24, tweede lid, en 25, tweede lid, van het Lozingenbesluit bodembescherming met betrekking tot het lozen als bedoeld in artikel 2.2, eerste en tweede lid, gedurende de resterende termijn van die ontheffing als die ontheffing nog van kracht zou zijn geweest doordat bepaalde artikelen van dit besluit niet in werking zouden zijn getreden, aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid.   
+2.  In afwijking van artikel 5.1, eerste lid, wordt een ontheffing op grond van artikel 10.63, eerste lid van de Wet milieubeheer met betrekking tot het lozen, bedoeld in artikel 3.1, vijfde lid, gedurende de resterende termijn van die ontheffing als die ontheffing nog van kracht zou zijn geweest doordat bepaalde artikelen van dit besluit niet in werking zouden zijn getreden, aangemerkt als een maatwerkvoorschrift als bedoeld in artikel 3.1, zesde lid, onderdeel b.   
+3.  Onverminderd artikel 5.1, tweede en derde lid, is het lozen vanuit een bodemsanering in het vuilwaterriool dat onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 3.1 was toegestaan volgens het Lozingenbesluit Wvo bodemsanering en proefbronnering, in afwijking van artikel 3.1, vijfde lid, toegestaan en worden de artikelen 5, eerste lid, 6, eerste tot en met derde lid, 7, eerste lid, 8, 12, 13, 13 en 14 van dat besluit aangemerkt als maatwerkvoorschrift als bedoeld in artikel 3.1, zesde lid, onderdeel b.   
+4.  Indien onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding van artikel 3.6 het lozen van huishoudelijk afvalwater in het oppervlaktewaterlichaam was toegestaan op grond van artikel 14 van het Lozingenbesluit Wvo huishoudelijk afvalwater, blijft het lozen toegestaan gedurende de termijn die volgt uit de toepassing van dat artikel.   
 5.  Voor de toepassing van dit artikel worden gegevens die in de aanvraag staan en die geacht worden onderdeel uit te maken van de voorschriften van de ontheffing of de vergunning aangemerkt als voorschriften van de ontheffing of vergunning.   
 
 ### Artikel  5.3  
 
-1.  Indien op het tijdstip van inwerkingtreding van artikel 2.1 nog niet is beslist op een aanvraag om een vergunning op grond van [artikel 6.2 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) of [artikel 1 van de Wet verontreiniging oppervlaktewateren](../../../../../../wet/wet/verontreiniging/oppervlaktewateren/BWBR0002682/README.md) en dit besluit op dat lozen van toepassing is, wordt de aanvraag om de vergunning aangemerkt als een melding overeenkomstig artikel 1.10 voor zover het lozen bij of krachtens de in hoofdstuk 3 van dit besluit gestelde voorschriften is toegestaan.   
-2.  Indien op het tijdstip van inwerkingtreding van artikel 2.1 nog niet is beslist op een aanvraag om een ontheffing op grond van de [artikelen 14, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), [24, tweede lid](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md), en [25, tweede lid van het Lozingenbesluit bodembescherming](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md) en dit besluit op dat lozen van toepassing is, wordt de aanvraag om de ontheffing aangemerkt als: 
+1.  Indien op het tijdstip van inwerkingtreding van artikel 2.1 nog niet is beslist op een aanvraag om een vergunning op grond van artikel 6.2 van de Waterwet of artikel 1 van de Wet verontreiniging oppervlaktewateren en dit besluit op dat lozen van toepassing is, wordt de aanvraag om de vergunning aangemerkt als een melding overeenkomstig artikel 1.10 voor zover het lozen bij of krachtens de in hoofdstuk 3 van dit besluit gestelde voorschriften is toegestaan.   
+2.  Indien op het tijdstip van inwerkingtreding van artikel 2.1 nog niet is beslist op een aanvraag om een ontheffing op grond van de artikelen 14, tweede lid, 24, tweede lid, en 25, tweede lid van het Lozingenbesluit bodembescherming en dit besluit op dat lozen van toepassing is, wordt de aanvraag om de ontheffing aangemerkt als: 
 
 a. een melding overeenkomstig artikel 1.10 voor zover het lozen bij of krachtens de in hoofdstuk 3 van dit besluit gestelde voorschriften is toegestaan;  
 
@@ -779,29 +910,37 @@ b. een verzoek tot het stellen van een maatwerkvoorschrift als bedoeld in artike
 
 ### Artikel  5.6  
 
-1.  In afwijking van de artikelen 3.14 en 3.15 is het lozen als bedoeld in die artikelen dat plaatsvond op het tijdstip van inwerkingtreding van artikel 2.1 toegestaan tot het tijdstip waarop een gemeentelijk rioleringsplan is vastgesteld, als bedoeld in [artikel IV, eerste lid, van de Wet verankering en bekostiging van gemeentelijke watertaken](../../../../../../wet/wijzigingswet/gemeentewet/enz./(verankering/en/bekostiging/van/etc/BWBR0022391/README.md).   
-2.  In afwijking van artikel 5.1 worden voor het lozen als bedoeld in het eerste lid waarvoor onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 een vergunning op grond van [artikel 6.2 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) in werking en onherroepelijk was, de voorschriften in een vergunning aangemerkt als maatwerkvoorschriften tot het tijdstip waarop een gemeentelijk rioleringsplan is vastgesteld, als bedoeld in [artikel IV, eerste lid, van de Wet verankering en bekostiging van gemeentelijke watertaken](../../../../../../wet/wijzigingswet/gemeentewet/enz./(verankering/en/bekostiging/van/etc/BWBR0022391/README.md).   
+1.  In afwijking van de artikelen 3.14 en 3.15 is het lozen als bedoeld in die artikelen dat plaatsvond op het tijdstip van inwerkingtreding van artikel 2.1 toegestaan tot het tijdstip waarop een gemeentelijk rioleringsplan is vastgesteld, als bedoeld in artikel IV, eerste lid, van de Wet verankering en bekostiging van gemeentelijke watertaken.   
+2.  In afwijking van artikel 5.1 worden voor het lozen als bedoeld in het eerste lid waarvoor onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 2.1 een vergunning op grond van artikel 6.2 van de Waterwet in werking en onherroepelijk was, de voorschriften in een vergunning aangemerkt als maatwerkvoorschriften tot het tijdstip waarop een gemeentelijk rioleringsplan is vastgesteld, als bedoeld in artikel IV, eerste lid, van de Wet verankering en bekostiging van gemeentelijke watertaken.   
 
 ### Artikel  5.7  
 
-1.  Artikel 3.16 is van toepassing met ingang van het tijdstip waarop een gemeentelijk rioleringsplan is vastgesteld, als bedoeld in [artikel IV, eerste lid, van de Wet verankering en bekostiging van gemeentelijke watertaken](../../../../../../wet/wijzigingswet/gemeentewet/enz./(verankering/en/bekostiging/van/etc/BWBR0022391/README.md).   
-2.  Tot het tijdstip, bedoeld in het eerste lid, is het lozen vanuit een systeem als bedoeld in [artikel 10.33, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), dat plaatsvond op het tijdstip van inwerkingtreding van artikel 2.1, toegestaan.   
+1.  Artikel 3.16 is van toepassing met ingang van het tijdstip waarop een gemeentelijk rioleringsplan is vastgesteld, als bedoeld in artikel IV, eerste lid, van de Wet verankering en bekostiging van gemeentelijke watertaken.   
+2.  Tot het tijdstip, bedoeld in het eerste lid, is het lozen vanuit een systeem als bedoeld in artikel 10.33, tweede lid, van de Wet milieubeheer, dat plaatsvond op het tijdstip van inwerkingtreding van artikel 2.1, toegestaan.   
 
 ### §  5.5  
+
+####Overgangsrecht met betrekking tot het in werking hebben van een gesloten bodemenergiesysteem
+
+### Artikel  5.7a  
+
+Hoofdstuk 3a, met uitzondering van artikel 3a.10, is niet van toepassing op het in werking hebben van een gesloten bodemenergiesysteem dat is geïnstalleerd voor het tijdstip van inwerkingtreding van dat hoofdstuk.  
+
+### §  5.6  
 
 ####Slotbepalingen
 
 ### Artikel  5.8  
 
-Het [Besluit lozingsvoorschriften niet-inrichtingen milieubeheer](../../../../../../AMvB/besluit/lozingsvoorschriften/niet-inrichtingen/milieubeheer/BWBR0007854/README.md) wordt ingetrokken.  
+Het Besluit lozingsvoorschriften niet-inrichtingen milieubeheer wordt ingetrokken.  
 
 ### Artikel  5.9  
 
-Het [Lozingenbesluit Wvo vaste objecten](../../../../../../AMvB/lozingenbesluit/wvo/vaste/objecten/BWBR0009355/README.md) wordt ingetrokken.  
+Het Lozingenbesluit Wvo vaste objecten wordt ingetrokken.  
 
 ### Artikel  5.10  
 
-Het [Lozingenbesluit Wvo bodemsanering en proefbronnering](../../../../../../AMvB/lozingenbesluit/wvo/bodemsanering/en/proefbronnering/BWBR0008511/README.md) wordt ingetrokken.  
+Het Lozingenbesluit Wvo bodemsanering en proefbronnering wordt ingetrokken.  
 
 ### Artikel  5.11  
 

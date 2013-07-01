@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: Onze Minister: Onze Minister van Verkeer en Waterstaat; College: het College van Beroep voor het bedrijfsleven; schip: een schip in de zin van artikel 1, eerste lid, van Boek 8 van het Burgerlijk Wetboek; lijnvervoer: het vervoer tegen vaste vervoertarieven door scheepvaartondernemingen, die een geregelde dienst onderhouden tussen twee of meer havens.  
+Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder: Onze Minister: Onze Minister van Verkeer en Waterstaat; schip: een schip in de zin van artikel 1, eerste lid, van Boek 8 van het Burgerlijk Wetboek; lijnvervoer: het vervoer tegen vaste vervoertarieven door scheepvaartondernemingen, die een geregelde dienst onderhouden tussen twee of meer havens.  
 
 ### Hoofdstuk  II  
 
@@ -147,12 +147,12 @@ Een besluit als bedoeld in artikel 18, eerste lid, blijft, behoudens eerdere int
 
 ### Artikel  19a  
 
-Indien ter zake van het vervoer van goederen bij een verordening van de Raad van de Europese Gemeenschappen op grond van de Verordening (EEG) nr. 4057/86 van de Raad van de Europese Gemeenschappen van 22 december 1986, betreffende oneerlijke tariefpraktijken in het vervoer over zee (*PbEG* L 378) een compenserend recht is ingesteld, wordt dit recht namens Onze Minister opgelegd door de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md).  
+Indien ter zake van het vervoer van goederen bij een verordening van de Raad van de Europese Gemeenschappen op grond van de Verordening (EEG) nr. 4057/86 van de Raad van de Europese Gemeenschappen van 22 december 1986, betreffende oneerlijke tariefpraktijken in het vervoer over zee (*PbEG* L 378) een compenserend recht is ingesteld, wordt dit recht namens Onze Minister opgelegd door de inspecteur, bedoeld in artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet.  
 
 ### Artikel  19b  
 
-1.  De inning en terugbetaling van compenserende rechten geschiedt door de ontvanger, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), ware het een recht bij invoer.   
-2.  Met betrekking tot de heffing en de invordering van compenserende rechten als bedoeld in artikel 19a zijn de artikelen 189 tot en met 200 van de verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het Communautair douanewetboek (PbEG L 302) en de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van overeenkomstige toepassing.   
+1.  De inning en terugbetaling van compenserende rechten geschiedt door de ontvanger, bedoeld in artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet, ware het een recht bij invoer.   
+2.  Met betrekking tot de heffing en de invordering van compenserende rechten als bedoeld in artikel 19a zijn de artikelen 189 tot en met 200 van de verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het Communautair douanewetboek (PbEG L 302) en de Invorderingswet 1990 van overeenkomstige toepassing.   
 3.  Bij algemene maatregel van bestuur kunnen regelen worden gesteld met betrekking tot de aangifte van een voorgenomen vervoer als bedoeld in artikel 19a en met betrekking tot daarmee samenhangende onderwerpen.   
 
 ### Artikel  19c  
@@ -265,8 +265,8 @@ Het is verboden terzake van een aanvraag voor een ontheffing onjuiste of onvolle
 
 ### Artikel  32  
 
-1.  Op de tenuitvoerlegging van een aanbeveling, voor zover die bindend is overeenkomstig de artikelen 37 en 39 van het op 6 april 1974 te Genève tot stand gekomen Verdrag inzake een gedragscode voor lijnvaartconferences, met bijlage, (*Trb.* 1980, 165) en die is gegeven in een bemiddelingsprocedure in Nederland, zijn de [artikelen 1062](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), [1063](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en [1071 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
-2.  Op de tenuitvoerlegging van een aanbeveling als bedoeld in het eerste lid, die buiten Nederland is gegeven, is [artikel 1075 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
+1.  Op de tenuitvoerlegging van een aanbeveling, voor zover die bindend is overeenkomstig de artikelen 37 en 39 van het op 6 april 1974 te Genève tot stand gekomen Verdrag inzake een gedragscode voor lijnvaartconferences, met bijlage, (*Trb.* 1980, 165) en die is gegeven in een bemiddelingsprocedure in Nederland, zijn de artikelen 1062, 1063 en 1071 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
+2.  Op de tenuitvoerlegging van een aanbeveling als bedoeld in het eerste lid, die buiten Nederland is gegeven, is artikel 1075 van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
 
 ### Hoofdstuk  XI  
 

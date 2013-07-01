@@ -1463,11 +1463,6 @@ Gedeputeerde staten, de commissaris van de Koning onderscheidenlijk Onze Ministe
 
 Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan het provinciebestuur of, in het geval artikel 124b, eerste lid, van toepassing is, Onze Minister wie het aangaat, betreffende de uitvoering door het gemeentebestuur van de andere wet, bedoeld in artikel 124, eerste lid. Bij ministeriële regeling of bij provinciale verordening kunnen nadere regels worden gesteld omtrent de toepassing.  
 
-### Artikel  124i  
-
-1.  De raad, het college onderscheidenlijk de burgemeester kan tegen een tot hem gericht besluit tot indeplaatsstelling beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  Gedeputeerde staten kunnen onderscheidenlijk de commissaris van de Koning kan tegen een tot hen onderscheidenlijk hem gericht verzoek als bedoeld in artikel 124a, eerste lid, beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-
 ### §  4  
 
 ####Bestuursdwang
@@ -1613,17 +1608,16 @@ b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhal
 7.  De ophouding mag niet langer duren dan de tijd die nodig is ter voorkoming van voortzetting of herhaling van de niet-naleving, met een maximum van twaalf uren.   
 8.  De plaats van ophouding dient geschikt te zijn voor de opvang van de op te houden personen. Bij algemene maatregel van bestuur kunnen nadere regels hieromtrent worden gesteld.   
 9.  De burgemeester draagt er voor zover mogelijk zorg voor dat de opgehouden personen in de gelegenheid worden gesteld door een daartoe door hem aangewezen ambtenaar hun gegevens te laten vastleggen ten bewijze dat zij zijn opgehouden.   
-10.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op de beschikking tot ophouding.   
-11.  Indien tegen de beschikking tot ophouding een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt gedaan: 
+10.  Indien tegen de beschikking tot ophouding een verzoek om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt gedaan: 
 
 a. wordt, in afwijking van [artikel 8:83, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de verzoeker die is opgehouden zo mogelijk nog tijdens zijn ophouding door de voorzieningenrechter gehoord;  
 
 b. doet de voorzieningenrechter in afwijking van [artikel 8:84, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onmiddellijk na het horen van partijen uitspraak, en  
 
 c. wordt, in afwijking van [artikel 8:82, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), geen griffierecht geheven.     
-12.  Bij de beoordeling van het verzoek betrekt de voorzieningenrechter tevens de rechtmatigheid van de tenuitvoerlegging van de beschikking tot ophouding jegens verzoeker.   
-13.  Indien de voorzieningenrechter een of meer verzoeken toewijst op de grond dat de beschikking tot ophouding naar zijn voorlopig oordeel onrechtmatig is, kan hij bepalen dat alle personen die op basis van de betrokken beschikking zijn opgehouden, onverwijld in vrijheid worden gesteld.   
-14.  Het twaalfde lid is van overeenkomstige toepassing op de beoordeling van een beroep tegen de beschikking tot ophouding als bedoeld in [artikel 8:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+11.  Bij de beoordeling van het verzoek betrekt de voorzieningenrechter tevens de rechtmatigheid van de tenuitvoerlegging van de beschikking tot ophouding jegens verzoeker.   
+12.  Indien de voorzieningenrechter een of meer verzoeken toewijst op de grond dat de beschikking tot ophouding naar zijn voorlopig oordeel onrechtmatig is, kan hij bepalen dat alle personen die op basis van de betrokken beschikking zijn opgehouden, onverwijld in vrijheid worden gesteld.   
+13.  Het elfde lid is van overeenkomstige toepassing op de beoordeling van een beroep tegen de beschikking tot ophouding als bedoeld in [artikel 8:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  154b  
 
@@ -1717,7 +1711,6 @@ b. verjaart de bevoegdheid tot invordering van de geldsom twee jaren nadat de be
 
 1.  Getuigen en deskundigen worden schriftelijk opgeroepen. De brief, houdende de oproep, wordt aangetekend verzonden of tegen gedagtekend ontvangstbewijs uitgereikt.   
 2.  De onderzoekscommissie kan bevelen dat getuigen en deskundigen die, hoewel opgeroepen in overeenstemming met het eerste lid, niet zijn verschenen, door de openbare macht voor hen worden gebracht om aan hun verplichting te voldoen. De onderzoekscommissie stelt de getuige of deskundige hiervan schriftelijk in kennis op de wijze, bedoeld in het eerste lid. In de beschikking wordt een termijn gesteld waarbinnen de belanghebbende de tenuitvoerlegging kan voorkomen door alsnog aan zijn verplichting te voldoen.   
-3.  Op een beschikking als bedoeld in het eerste en het tweede lid is [artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
 
 ### Artikel  155e  
 
@@ -2022,7 +2015,7 @@ Aan de gemeenten kunnen slechts bij of krachtens de wet uitgaven worden opgelegd
 ### Artikel  189  
 
 1.  Voor alle taken en activiteiten brengt de raad jaarlijks op de begroting de bedragen die hij daarvoor beschikbaar stelt, alsmede de financiële middelen die hij naar verwachting kan aanwenden.   
-2.  De raad ziet erop toe dat de begroting in evenwicht is. Hiervan kan hij afwijken indien aannemelijk is dat het evenwicht in de begroting in de eerstvolgende jaren tot stand zal worden gebracht.   
+2.  De raad ziet erop toe dat de begroting structureel en reëel in evenwicht is. Hiervan kan hij afwijken indien aannemelijk is dat het structureel en reëel evenwicht in de begroting in de eerstvolgende jaren tot stand zal worden gebracht.   
 3.  Behoudens het bepaalde in de artikelen 208 en 209 kunnen ten laste van de gemeente slechts lasten en daarmee overeenstemmende balansmutaties worden genomen tot de bedragen die hiervoor op de begroting zijn gebracht.   
 4.  Het begrotingsjaar is het kalenderjaar.   
 
@@ -2096,16 +2089,15 @@ Indien de raad de jaarrekening dan wel een indemniteitsbesluit niet of niet naar
 
 ### Artikel  203  
 
-1.  De begroting, bedoeld in artikel 189, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van gedeputeerde staten, indien naar hun oordeel de begroting, bedoeld in artikel 189, niet in evenwicht is en blijkens de meerjarenraming, bedoeld in artikel 190, niet aannemelijk is dat in de eerstvolgende jaren een evenwicht tot stand zal worden gebracht. Gedeputeerde staten doen hiervan vóór de aanvang van het begrotingsjaar mededeling aan het gemeentebestuur.   
+1.  De begroting, bedoeld in artikel 189, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van gedeputeerde staten, indien naar hun oordeel de begroting, bedoeld in artikel 189, niet structureel en reëel in evenwicht is en blijkens de meerjarenraming, bedoeld in artikel 190, niet aannemelijk is dat in de eerstvolgende jaren een structureel en reëel evenwicht tot stand zal worden gebracht. Gedeputeerde staten doen hiervan vóór de aanvang van het begrotingsjaar mededeling aan het gemeentebestuur.   
 2.  Gedeputeerde staten kunnen bepalen dat de begroting, bedoeld in artikel 189, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen hun goedkeuring behoeven, indien: 
 
-a. de jaarrekening van het tweede aan het begrotingsjaar voorafgaande jaar niet in evenwicht is, of  
+a. de begroting, bedoeld in artikel 189, niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in artikel 191, of  
 
-b. de begroting, bedoeld in artikel 189, niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in artikel 191, of  
-
-c. de jaarrekening, bedoeld in artikel 197, eerste lid, van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in artikel 200, eerste lid.     
+b. de jaarrekening, bedoeld in artikel 197, eerste lid, van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan gedeputeerde staten overeenkomstig het bepaalde in artikel 200, eerste lid.     
 3.  Gedeputeerde staten maken een besluit als bedoeld in het tweede lid vóór de aanvang van het begrotingsjaar aan het gemeentebestuur bekend.   
 4.  De begroting behoeft geen goedkeuring indien gedeputeerde staten geen mededeling doen als bedoeld in het eerste lid of geen besluit bekend maken als bedoeld in het tweede lid binnen de in het eerste respectievelijk derde lid genoemde termijn.   
+5.  Gedeputeerde staten kunnen het besluit, bedoeld in het eerste lid, gedurende het lopende begrotingsjaar intrekken.   
 
 ### Artikel  205  
 
@@ -2385,7 +2377,7 @@ a. het gebruik overeenkomstig de bestemming van voor de openbare dienst bestemde
 b. het genot van door of vanwege het gemeentebestuur verstrekte diensten;  
 
 c. het geven van vermakelijkheden waarbij gebruik wordt gemaakt van door of met medewerking van het gemeentebestuur tot stand gebrachte of in stand gehouden voorzieningen of waarbij een bijzondere voorziening in de vorm van toezicht of anderszins van de zijde van het gemeentebestuur getroffen wordt.     
-2.  Geen rechten kunnen worden geheven ter zake van het gebruik van voorzieningen en het genot van diensten waarvan de kosten kunnen worden bestreden door het heffen van een belasting als bedoeld in artikel 228a, zulks met uitzondering van het aanbrengen van een aansluiting op een voorziening voor de inzameling en het transport van afvalwater als bedoeld in [artikel 10.30, eerste lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) of op een systeem als bedoeld in [artikel 10.33, tweede lid, van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+2.  Geen rechten kunnen worden geheven ter zake van het gebruik van voorzieningen en het genot van diensten waarvan de kosten kunnen worden bestreden door het heffen van een belasting als bedoeld in artikel 228a, zulks met uitzondering van het aanbrengen van een aansluiting op een voorziening voor de inzameling en het transport van afvalwater als bedoeld in [artikel 10.31 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) of op een systeem als bedoeld in [artikel 10.33, tweede lid, van die wet](../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
 3.  Voor de toepassing van deze paragraaf en de eerste en vierde paragraaf van dit hoofdstuk worden de in het eerste lid bedoelde rechten aangemerkt als gemeentelijke belastingen.   
 
 ### Artikel  229a  
@@ -2420,7 +2412,7 @@ b. heffing op andere wijze: heffing op andere wijze dan bij wege van aanslag of 
 ### Artikel  231  
 
 1.  Onverminderd het overigens in deze paragraaf bepaalde geschieden de heffing en de invordering van gemeentelijke belastingen met toepassing van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) als waren die belastingen rijksbelastingen.   
-2.  Onverminderd het overigens in deze paragraaf bepaalde gelden de bevoegdheden en de verplichtingen van de hierna vermelde, in de Algemene wet, de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) genoemde functionarissen, met betrekking tot de gemeentelijke belastingen voor de daarachter genoemde colleges of functionarissen: 
+2.  Onverminderd het overigens in deze paragraaf bepaalde gelden de bevoegdheden en de verplichtingen van de hierna vermelde, in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) genoemde functionarissen, met betrekking tot de gemeentelijke belastingen voor de daarachter genoemde colleges of functionarissen: 
 
 a. Onze Minister van Financiën, het bestuur van ’s Rijksbelastingen en de directeur: het college;  
 
@@ -2434,7 +2426,7 @@ e. de belastingdeurwaarder: de daartoe aangewezen gemeenteambtenaar;
 
 f. de Tweede Kamer der Staten-Generaal of de Tweede Kamer: de raad.     
 3.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot gemeentelijke belastingen in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het college.   
-4.  Met betrekking tot gemeentelijke belastingen wordt in de [artikelen 27l](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27n](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [27p](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [29a van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: de gemeente.   
+4.  Met betrekking tot gemeentelijke belastingen wordt in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: de gemeente.   
 
 ### Artikel  232  
 
@@ -2483,17 +2475,16 @@ c. de dagtekening van het aanslagbiljet: de dagtekening van de schriftelijke ken
 a. het bij de aanvang van het parkeren in werking stellen van een parkeermeter of een parkeerautomaat op de daartoe bestemde wijze en met inachtneming van de door het college gestelde voorschriften;  
 
 b. indien ingevolge artikel 235, eerste lid, een wielklem is aangebracht, de voldoening op aangifte op de door het college bepaalde wijze.     
-3.  In afwijking van [artikel 26, tweede lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) kan tegen de in het tweede lid, onderdeel a, bedoelde voldoening op aangifte geen beroep worden ingesteld.   
-4.  Ingeval een naheffingsaanslag wordt opgelegd, wordt deze berekend over een parkeerduur van een uur, tenzij aannemelijk is dat het voertuig langer dan een uur zonder betaling geparkeerd heeft gestaan.   
-5.  De [artikelen 67b](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67c](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67f van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) blijven buiten toepassing.   
-6.  Ter zake van het opleggen van een naheffingsaanslag worden kosten in rekening gebracht. Deze kosten maken onderdeel uit van de naheffingsaanslag en worden afzonderlijk op het aanslagbiljet vermeld. Ten aanzien van hetzelfde voertuig worden per aaneengesloten periode de kosten niet vaker dan eenmaal per kalenderdag in rekening gebracht.   
-7.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van berekening en de maximale hoogte van de in het zesde lid bedoelde kosten. In de belastingverordening wordt het bedrag van de in rekening te brengen kosten bepaald.   
-8.  In afwijking van [artikel 8, eerste lid, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) kan, indien het niet mogelijk is het aanslagbiljet terstond aan de belastingschuldige uit te reiken, worden volstaan met het aanbrengen van het aanslagbiljet op of aan het voertuig. Alsdan vermeldt het aanslagbiljet niet de naam van de belastingschuldige maar het kenteken van het voertuig. Bij gebreke van een kenteken vermeldt het aanslagbiljet een of meer gegevens die kenmerkend zijn voor het geparkeerde voertuig.   
-9.  De naheffingsaanslag is dadelijk en ineens invorderbaar.   
+3.  Ingeval een naheffingsaanslag wordt opgelegd, wordt deze berekend over een parkeerduur van een uur, tenzij aannemelijk is dat het voertuig langer dan een uur zonder betaling geparkeerd heeft gestaan.   
+4.  De [artikelen 67b](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67c](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67f van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) blijven buiten toepassing.   
+5.  Ter zake van het opleggen van een naheffingsaanslag worden kosten in rekening gebracht. Deze kosten maken onderdeel uit van de naheffingsaanslag en worden afzonderlijk op het aanslagbiljet vermeld. Ten aanzien van hetzelfde voertuig worden per aaneengesloten periode de kosten niet vaker dan eenmaal per kalenderdag in rekening gebracht.   
+6.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van berekening en de maximale hoogte van de in het vijfde lid bedoelde kosten. In de belastingverordening wordt het bedrag van de in rekening te brengen kosten bepaald.   
+7.  In afwijking van [artikel 8, eerste lid, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) kan, indien het niet mogelijk is het aanslagbiljet terstond aan de belastingschuldige uit te reiken, worden volstaan met het aanbrengen van het aanslagbiljet op of aan het voertuig. Alsdan vermeldt het aanslagbiljet niet de naam van de belastingschuldige maar het kenteken van het voertuig. Bij gebreke van een kenteken vermeldt het aanslagbiljet een of meer gegevens die kenmerkend zijn voor het geparkeerde voertuig.   
+8.  De naheffingsaanslag is dadelijk en ineens invorderbaar.   
 
 ### Artikel  235  
 
-1.  Bij de belastingverordening, bedoeld in artikel 225, eerste lid, onder a, kan worden bepaald dat terstond nadat het aanslagbiljet aan de belastingschuldige is uitgereikt dan wel terstond nadat het aanslagbiljet, overeenkomstig artikel 234, achtste lid, aan het voertuig is aangebracht, de in artikel 231, tweede lid, onderdeel b, bedoelde gemeenteambtenaar bevoegd is tot zekerheid van de betaling van de naheffingsaanslag, bedoeld in artikel 234, vierde lid, aan het voertuig een mechanisch hulpmiddel, hierna te noemen: wielklem, te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden.   
+1.  Bij de belastingverordening, bedoeld in artikel 225, eerste lid, onder a, kan worden bepaald dat terstond nadat het aanslagbiljet aan de belastingschuldige is uitgereikt dan wel terstond nadat het aanslagbiljet, overeenkomstig artikel 234, zevende lid, aan het voertuig is aangebracht, de in artikel 231, tweede lid, onderdeel b, bedoelde gemeenteambtenaar bevoegd is tot zekerheid van de betaling van de naheffingsaanslag, bedoeld in artikel 234, derde lid, aan het voertuig een mechanisch hulpmiddel, hierna te noemen: wielklem, te doen aanbrengen, waardoor wordt verhinderd dat het voertuig wordt weggereden.   
 2.  Bij de belastingverordening dan wel krachtens de belastingverordening in de daarin aangewezen gevallen door het college worden de terreinen of weggedeelten aangewezen waar de wielklem wordt toegepast.   
 3.  Ter zake van het aanbrengen alsmede van het verwijderen van de wielklem worden kosten in rekening gebracht.   
 4.  De wielklem wordt niet verwijderd dan nadat de naheffingsaanslag alsmede de kosten van het aanbrengen en van het verwijderen van de wielklem zijn voldaan. Na deze voldoening vindt de verwijdering van de wielklem zo spoedig mogelijk plaats.   
@@ -2674,7 +2665,7 @@ Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het
 1.  In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van artikel 281 genomen besluit in werking is getreden.   
 2.  Indien, gelet op het koninklijk besluit, het gemeentebestuur bij de toepassing van artikel 281 niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.   
 3.  In het koninklijk besluit kan worden bepaald dat ter zake van het vernietigde besluit geen nieuw besluit wordt genomen.   
-4.  In het koninklijk besluit kan het gemeentebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De artikelen 124 tot en met 124i zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.   
+4.  In het koninklijk besluit kan het gemeentebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De artikelen 124 tot en met 124h zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.   
 5.  Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.   
 
 ### Artikel  279  
@@ -2684,12 +2675,11 @@ Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing o
 ### Artikel  281  
 
 1.  Het gemeentebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan artikel 278a, tweede of derde lid.   
-2.  In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De artikelen 124 tot en met 124i zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.   
+2.  In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De artikelen 124 tot en met 124h zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.   
 
 ### Artikel  281a  
 
-1.  In afwijking van [artikel 8:4, onderdeel *a*, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 268, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in de artikelen 85, tweede lid, en 87a, eerste lid, beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing   
-2.  In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan geen beroep worden ingesteld tegen de weigering om de vernietiging te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.   
+In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 268, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in de artikelen 85, tweede lid, en 87a, eerste lid, beroep instellen.  
 
 ### Titel  VI  
 

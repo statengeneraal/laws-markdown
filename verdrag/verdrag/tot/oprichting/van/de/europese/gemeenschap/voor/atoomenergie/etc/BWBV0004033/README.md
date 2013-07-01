@@ -4,7 +4,7 @@
 
 ####Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (Euratom)
 
-Zijne Majesteit de Koning der Belgen., de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Beseffende, dat de kernenergie de voornaamste hulpbron vormt welke de ontwikkeling en de vernieuwing van de produktie zal verzekeren en de vooruitgang van de werken des vredes mogelijk zal maken, Overtuigd, dat alleen een onverwijlde gemeenschappelijke inspanning de belofte inhoudt van een verwezenlijking die beantwoordt aan het scheppingsvermogen van hun landen, Vastbesloten, de voorwaarden te scheppen tot ontwikkeling van een krachtige industrie op het gebied van de kernenergie als bron van ruime energievoorraden en van een modernisering der techniek, alsook van talrijke andere toepassingen welke zullen bijdragen tot het welzijn van hun volkeren, Verlangende, veiligheidsvoorwaarden te scheppen, waardoor de gevaren voor het leven en de gezondheid van de bevolking worden afgewend, Geleid door de wens, andere landen te betrekken in hun arbeid en samen te werken met de internationale organisaties die zich toeleggen op de vreedzame ontwikkeling van de atoomenergie, Hebben besloten een Europese Gemeenschap voor Atoomenergie (Euratom) op te richten, en hebben te dien einde als hun gevolmachtigden aangewezen:  *Zijne Majesteit de Koning der Belgen:*  de Heer PAUL-HENRI SPAAK, Minister van Buitenlandse Zaken; J.CH. BARON SNOY ET D'OPPUERS, Secretaris-Generaal van het Ministerie van Economische Zaken, Voorzitter van de Belgische delegatie bij de Intergouvernementele Conferentie.  *De President van de Bondsrepubliek Duitsland:*  Dr. KONRAD ADENAUER, Bondskanselier; Prof. Dr. WALTER HALLSTEIN, Staatssecretaris van Buitenlandse Zaken.  *De President van de Franse Republiek:*  de Heer CHRISTIAN PINEAU, Minister van Buitenlandse Zaken; de Heer MAURICE FAURE, Staatssecretaris van Buitenlandse Zaken.  *De President van de Italiaanse Republiek:*  de Heer ANTONIO SEGNI, Voorzitter van de Raad van Ministers; Prof. GAETANO MARTINO, Minister van Buitenlandse Zaken.  *Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:*  de Heer JOSEPH BECH, Minister-President, Minister van Buitenlandse Zaken; de Heer LAMBERT SCHAUS, Ambassadeur, Voorzitter van de Luxemburgse delegatie bij de Intergouvernementele Conferentie.  *Hare Majesteit de Koningin der Nederlanden:*  de Heer JOSEPH LUNS, Minister van Buitenlandse Zaken; de Heer J. LINTHORST HOMAN, Voorzitter van de Nederlandse delegatie bij de Intergouvernementele Conferentie;   Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:    
+Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Beseffende, dat de kernenergie de voornaamste hulpbron vormt welke de ontwikkeling en de vernieuwing van de produktie zal verzekeren en de vooruitgang van de werken des vredes mogelijk zal maken, Overtuigd, dat alleen een onverwijlde gemeenschappelijke inspanning de belofte inhoudt van een verwezenlijking die beantwoordt aan het scheppingsvermogen van hun landen, Vastbesloten, de voorwaarden te scheppen tot ontwikkeling van een krachtige industrie op het gebied van de kernenergie als bron van ruime energievoorraden en van een modernisering der techniek, alsook van talrijke andere toepassingen welke zullen bijdragen tot het welzijn van hun volkeren, Verlangende, veiligheidsvoorwaarden te scheppen, waardoor de gevaren voor het leven en de gezondheid van de bevolking worden afgewend, Geleid door de wens, andere landen te betrekken in hun arbeid en samen te werken met de internationale organisaties die zich toeleggen op de vreedzame ontwikkeling van de atoomenergie, Hebben besloten een Europese Gemeenschap voor Atoomenergie (Euratom) op te richten, en hebben te dien einde als hun gevolmachtigden aangewezen:  *Zijne Majesteit de Koning der Belgen:*  de Heer PAUL-HENRI SPAAK, Minister van Buitenlandse Zaken; J.CH. BARON SNOY ET D’OPPUERS, Secretaris-Generaal van het Ministerie van Economische Zaken, Voorzitter van de Belgische delegatie bij de Intergouvernementele Conferentie.  *De President van de Bondsrepubliek Duitsland:*  Dr. KONRAD ADENAUER, Bondskanselier; Prof. Dr. WALTER HALLSTEIN, Staatssecretaris van Buitenlandse Zaken.  *De President van de Franse Republiek:*  de Heer CHRISTIAN PINEAU, Minister van Buitenlandse Zaken; de Heer MAURICE FAURE, Staatssecretaris van Buitenlandse Zaken.  *De President van de Italiaanse Republiek:*  de Heer ANTONIO SEGNI, Voorzitter van de Raad van Ministers; Prof. GAETANO MARTINO, Minister van Buitenlandse Zaken.  *Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:*  de Heer JOSEPH BECH, Minister-President, Minister van Buitenlandse Zaken; de Heer LAMBERT SCHAUS, Ambassadeur, Voorzitter van de Luxemburgse delegatie bij de Intergouvernementele Conferentie.  *Hare Majesteit de Koningin der Nederlanden:*  de Heer JOSEPH LUNS, Minister van Buitenlandse Zaken; de Heer J. LINTHORST HOMAN, Voorzitter van de Nederlandse delegatie bij de Intergouvernementele Conferentie;   Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:    
 
 ### EERSTE  TITEL  
 
@@ -49,15 +49,15 @@ h) met andere landen en met internationale organisaties alle betrekkingen tot st
 
 ### Artikel  5  
 
-Ten einde de coördinatie van de in de Lid-Staten ondernomen onderzoekingen te bevorderen en om deze te kunnen aanvullen, nodigt de Commissie, hetzij door een aan een bepaalde geadresseerde gericht speciaal verzoek dat ter kennis wordt gebracht van de Lid-Staat waaronder de geadresseerde ressorteert, hetzij door een openbaargemaakt algemeen verzoek, de Lid-Staten, personen of ondernemingen uit, haar hun programma's met betrekking tot de onderzoekingen die zij in haar verzoek omschrijft, mede te delen. De Commissie kan, na aan de betrokkenen alle gelegenheid tot het maken van opmerkingen te hebben verleend, een met redenen omkleed advies uitbrengen over elk van de programma's welke haar worden medegedeeld. Op verzoek van de Staat, van de persoon of van de onderneming die het programma heeft medegedeeld, is de Commissie gehouden een dergelijk advies uit te brengen. Door deze adviezen raadt de Commissie nutteloos dubbel werk af en richt het onderzoek op de onvoldoende bestudeerde sectoren. De Commissie kan de programma's niet publiceren zonder toestemming van de Staten, personen of ondernemingen die deze hebben medegedeeld. De Commissie publiceert op gezette tijden een lijst van de sectoren van het onderzoek op het gebied van de kernenergie, die zij onvoldoende bestudeerd acht. Ten einde te geraken tot wederzijds overleg en tot uitwisseling van inlichtingen kan de Commissie de vertegenwoordigers van de openbare en particuliere onderzoekcentra bijeenroepen, alsmede alle deskundigen die onderzoek verrichten op dezelfde of aanverwante gebieden.  
+Ten einde de coördinatie van de in de Lid-Staten ondernomen onderzoekingen te bevorderen en om deze te kunnen aanvullen, nodigt de Commissie, hetzij door een aan een bepaalde geadresseerde gericht speciaal verzoek dat ter kennis wordt gebracht van de Lid-Staat waaronder de geadresseerde ressorteert, hetzij door een openbaargemaakt algemeen verzoek, de Lid-Staten, personen of ondernemingen uit, haar hun programma’s met betrekking tot de onderzoekingen die zij in haar verzoek omschrijft, mede te delen. De Commissie kan, na aan de betrokkenen alle gelegenheid tot het maken van opmerkingen te hebben verleend, een met redenen omkleed advies uitbrengen over elk van de programma’s welke haar worden medegedeeld. Op verzoek van de Staat, van de persoon of van de onderneming die het programma heeft medegedeeld, is de Commissie gehouden een dergelijk advies uit te brengen. Door deze adviezen raadt de Commissie nutteloos dubbel werk af en richt het onderzoek op de onvoldoende bestudeerde sectoren. De Commissie kan de programma’s niet publiceren zonder toestemming van de Staten, personen of ondernemingen die deze hebben medegedeeld. De Commissie publiceert op gezette tijden een lijst van de sectoren van het onderzoek op het gebied van de kernenergie, die zij onvoldoende bestudeerd acht. Ten einde te geraken tot wederzijds overleg en tot uitwisseling van inlichtingen kan de Commissie de vertegenwoordigers van de openbare en particuliere onderzoekcentra bijeenroepen, alsmede alle deskundigen die onderzoek verrichten op dezelfde of aanverwante gebieden.  
 
 ### Artikel  6  
 
-Ter bevordering van de uitvoering van de haar medegedeelde onderzoekprogramma's kan de Commissie: 
+Ter bevordering van de uitvoering van de haar medegedeelde onderzoekprogramma’s kan de Commissie: 
 
 a) in het raam van onderzoekcontracten financiële bijstand verlenen met uitsluiting van subsidies;  
 
-b) al of niet tegen vergoeding de voor de uitvoering van deze programma's nodige grondstoffen of bijzondere splijtstoffen, waarover zij beschikt, verstrekken;  
+b) al of niet tegen vergoeding de voor de uitvoering van deze programma’s nodige grondstoffen of bijzondere splijtstoffen, waarover zij beschikt, verstrekken;  
 
 c) al of niet tegen vergoeding installaties, uitrustingen of bijstand van deskundigen ter beschikking stellen van de Lid-Staten, personen of ondernemingen;  
 
@@ -65,16 +65,16 @@ d) een gemeenschappelijke financiering door de betrokken Lid-Staten, personen of
 
 ### Artikel  7  
 
-Met eenparigheid van stemmen stelt de Raad, op voorstel van de Commissie, welke het Wetenschappelijk en Technisch Comité raadpleegt, de onderzoek- en onderwijsprogramma's van de Gemeenschap vast. Deze programma's worden opgesteld voor een tijdvak van ten hoogste vijf jaar. De geldmiddelen nodig voor de uitvoering van die programma's worden ieder jaar op de begroting voor onderzoek en investeringen van de Gemeenschap opgevoerd. De Commissie zorgt voor de uitvoering van de programma's en legt daaromtrent ieder jaar een verslag voor aan de Raad. De Commissie houdt het Economisch en Sociaal Comité op de hoogte van de grote lijnen van de onderzoek- en onderwijsprogramma's van de Gemeenschap.  
+Met eenparigheid van stemmen stelt de Raad, op voorstel van de Commissie, welke het Wetenschappelijk en Technisch Comité raadpleegt, de onderzoek- en onderwijsprogramma’s van de Gemeenschap vast. Deze programma’s worden opgesteld voor een tijdvak van ten hoogste vijf jaar. De geldmiddelen nodig voor de uitvoering van die programma’s worden ieder jaar op de begroting voor onderzoek en investeringen van de Gemeenschap opgevoerd. De Commissie zorgt voor de uitvoering van de programma’s en legt daaromtrent ieder jaar een verslag voor aan de Raad. De Commissie houdt het Economisch en Sociaal Comité op de hoogte van de grote lijnen van de onderzoek- en onderwijsprogramma’s van de Gemeenschap.  
 
 ### Artikel  8  
 
-1.  Na raadpleging van het Wetenschappelijk en Technisch Comité richt de Commissie een Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie op. Het Centrum draagt zorg voor de uitvoering van de onderzoekprogramma's en van de overige taken, welke de Commissie aan het Centrum toevertrouwt. Daarenboven zorgt het Centrum voor het vaststellen van een uniforme terminologie op het gebied van de kernenergie en voor één ijkstelsel. Het richt een centraal bureau op voor metingen op het gebied van de kernenergie.   
+1.  Na raadpleging van het Wetenschappelijk en Technisch Comité richt de Commissie een Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie op. Het Centrum draagt zorg voor de uitvoering van de onderzoekprogramma’s en van de overige taken, welke de Commissie aan het Centrum toevertrouwt. Daarenboven zorgt het Centrum voor het vaststellen van een uniforme terminologie op het gebied van de kernenergie en voor één ijkstelsel. Het richt een centraal bureau op voor metingen op het gebied van de kernenergie.   
 2.  De werkzaamheden van het Centrum kunnen om geografische of organisatorische redenen in afzonderlijke inrichtingen worden verricht.   
 
 ### Artikel  9  
 
-1.  Na advies van het Economisch en Sociaal Comité te hebben ingewonnen, kan de Commissie, in het kader van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie, scholen stichten voor de opleiding van specialisten, met name op het gebied van de opsporing van delfstoffen, de produktie van kernmateriaal van grote zuiverheid, de behandeling van bestraalde splijtstoffen, de techniek van de kernenergie, de bescherming van de gezondheid, de vervaardiging en het gebruik van radioactieve isotopen., De Commissie regelt de wijze waarop het onderwijs wordt ingericht.   
+1.  Na advies van het Economisch en Sociaal Comité te hebben ingewonnen, kan de Commissie, in het kader van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie, scholen stichten voor de opleiding van specialisten, met name op het gebied van de opsporing van delfstoffen, de produktie van kernmateriaal van grote zuiverheid, de behandeling van bestraalde splijtstoffen, de techniek van de kernenergie, de bescherming van de gezondheid, de vervaardiging en het gebruik van radioactieve isotopen. De Commissie regelt de wijze waarop het onderwijs wordt ingericht.   
 2.  Een instelling op universitair niveau wordt opgericht, waarvan de werkwijze door de Raad met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, zal worden bepaald.   
 
 ### Artikel  10  
@@ -83,7 +83,7 @@ De Commissie kan bij contract de uitvoering van bepaalde delen van het onderzoek
 
 ### Artikel  11  
 
-De Commissie publiceert de in de artikelen 7, 8 en 10 bedoelde onderzoekprogramma's, alsmede periodieke verslagen over de stand van de uitvoering daarvan.  
+De Commissie publiceert de in de artikelen 7, 8 en 10 bedoelde onderzoekprogramma’s, alsmede periodieke verslagen over de stand van de uitvoering daarvan.  
 
 ### HOOFDSTUK  II  
 
@@ -244,7 +244,7 @@ c) de grondbeginselen van het medisch toezicht op de werknemers.
 
 ### Artikel  31  
 
-De basisnormen worden voorbereid door de Commissie, na advies van een groep personen, aangewezen door het Wetenschappelijk en Technisch Comité uit wetenschappelijke deskundigen van de Lid-Staten, met name uit de deskundigen op het gebied van de volksgezondheid. De Commissie vraagt over de aldus voorbereide basisnormen het advies van het Economisch en Sociaal Comité. Na raadpleging van de Vergadering stelt de Raad met gekwalificeerde meerderheid van stemmen de basisnormen vast op voorstel van de Commissie, die hem de adviezen doorgeeft welke zij bij de Comités heeft ingewonnen.  
+De basisnormen worden voorbereid door de Commissie, na advies van een groep personen, aangewezen door het Wetenschappelijk en Technisch Comité uit wetenschappelijke deskundigen van de Lid-Staten, met name uit de deskundigen op het gebied van de volksgezondheid. De Commissie vraagt over de aldus voorbereide basisnormen het advies van het Economisch en Sociaal Comité. Na raadpleging van het Europees Parlement stelt de Raad met gekwalificeerde meerderheid van stemmen de basisnormen vast op voorstel van de Commissie, die hem de adviezen doorgeeft welke zij bij de Comités heeft ingewonnen.  
 
 ### Artikel  32  
 
@@ -284,7 +284,7 @@ In het kader van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van 
 
 ### Artikel  40  
 
-Ten einde het initiatief van personen en ondernemingen aan te wakkeren en een gecoördineerde ontwikkeling van hun investeringen op het gebied van de kernenergie te vergemakkelijken, publiceert de Commissie op gezette tijden programma's van indicatieve aard, die met name betrekking hebben op doeleinden van de produktie van kernenergie en op de voor hun verwezenlijking nodige investeringen van welke aard ook. Alvorens deze programma's te publiceren, wint de Commissie het advies in van het Economisch en Sociaal Comité.  
+Ten einde het initiatief van personen en ondernemingen aan te wakkeren en een gecoördineerde ontwikkeling van hun investeringen op het gebied van de kernenergie te vergemakkelijken, publiceert de Commissie op gezette tijden programma’s van indicatieve aard, die met name betrekking hebben op doeleinden van de produktie van kernenergie en op de voor hun verwezenlijking nodige investeringen van welke aard ook. Alvorens deze programma’s te publiceren, wint de Commissie het advies in van het Economisch en Sociaal Comité.  
 
 ### Artikel  41  
 
@@ -323,7 +323,7 @@ c) de omvang en het ritme van de financiering,
 
 d) de eventuele deelneming van de Gemeenschap aan de financiering van de Gemeenschappelijke Onderneming,  
 
-e) de eventuele deelneming van een derde Staat, een internationale organisatie of een onderdaan van een derde Staat aan de financiering of aan het beheer van de Gemeenschappelijke Ondernemings.  
+e) de eventuele deelneming van een derde Staat, een internationale organisatie of een onderdaan van een derde Staat aan de financiering of aan het beheer van de Gemeenschappelijke Onderneming,  
 
 f) de toekenning van alle of van een gedeelte der in bijlage III van dit Verdrag genoemde gunsten.   Zij voegt daaraan een uitvoerig rapport toe over het gehele project.   
 
@@ -411,7 +411,7 @@ b) wordt de producent bij besluit van de Commissie toestemming verleend om de be
 
 ### Artikel  60  
 
-De eventuele gebruikers delen aan het Agentschap op gezette tijden hun behoeften aan materialen mede, onder opgave van de hoeveelheden, de natuurkundige en scheikundige aard, de plaatsen van herkomst, het gebruik, de leveringstermijnen en de prijzen, welke de bepalingen en voorwaarden zouden uitmaken van een leveringscontract, waarvan zij de afsluiting wensen. Eveneens delen de producenten aan het Agentschap de aanbiedingen mede, welke zij kunnen doen, met alle specificaties die nodig zijn om hun produktieprogramma's te kunnen opstellen en met name de duur der contracten. Deze duur mag, zonder toestemming van de Commissie, niet langer zijn dan tien jaar. Het Agentschap brengt alle eventuele gebruikers op de hoogte van de aanbiedingen en van de omvang der ontvangen aanvragen en nodigt hen uit binnen een bepaalde termijn hun bestellingen in te dienen. Wanneer het Agentschap al deze bestellingen ontvangen heeft, deelt het mede, onder welke voorwaarden het aan deze kan voldoen. Indien het Agentschap niet in staat is aan alle ontvangen bestellingen volledig te voldoen, verdeelt het de leveringen naar evenredigheid van de bij elk der aanbiedingen passende bestellingen, behoudens de bepalingen van de artikelen 68 en 69. Een reglement van het Agentschap, dat de goedkeuring van de Commissie behoeft, bepaalt de wijze waarop vraag en aanbod tegen elkaar worden afgewogen.  
+De eventuele gebruikers delen aan het Agentschap op gezette tijden hun behoeften aan materialen mede, onder opgave van de hoeveelheden, de natuurkundige en scheikundige aard, de plaatsen van herkomst, het gebruik, de leveringstermijnen en de prijzen, welke de bepalingen en voorwaarden zouden uitmaken van een leveringscontract, waarvan zij de afsluiting wensen. Eveneens delen de producenten aan het Agentschap de aanbiedingen mede, welke zij kunnen doen, met alle specificaties die nodig zijn om hun produktieprogramma’s te kunnen opstellen en met name de duur der contracten. Deze duur mag, zonder toestemming van de Commissie, niet langer zijn dan tien jaar. Het Agentschap brengt alle eventuele gebruikers op de hoogte van de aanbiedingen en van de omvang der ontvangen aanvragen en nodigt hen uit binnen een bepaalde termijn hun bestellingen in te dienen. Wanneer het Agentschap al deze bestellingen ontvangen heeft, deelt het mede, onder welke voorwaarden het aan deze kan voldoen. Indien het Agentschap niet in staat is aan alle ontvangen bestellingen volledig te voldoen, verdeelt het de leveringen naar evenredigheid van de bij elk der aanbiedingen passende bestellingen, behoudens de bepalingen van de artikelen 68 en 69. Een reglement van het Agentschap, dat de goedkeuring van de Commissie behoeft, bepaalt de wijze waarop vraag en aanbod tegen elkaar worden afgewogen.  
 
 ### Artikel  61  
 
@@ -511,7 +511,7 @@ c) aangegaan tussen een persoon of onderneming en een internationale organisatie
 
 ### Artikel  76  
 
-De bepalingen van dit hoofdstuk kunnen, met name ingeval door onvoorziene omstandigheden een toestand van algemene schaarste zou ontstaan, door de Raad met eenparigheid van stemmen worden gewijzigd op voorstel van de Commissie en na raadpleging van de Vergadering; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden ieder verzoek van een Lid-Staat in behandeling te nemen. Na verloop van zeven jaar na 1 januari 1958 kan de Raad deze bepalingen in hun geheel bevestigen. Bij gebreke van bevestiging worden nieuwe bepalingen met betrekking tot het onderwerp van dit hoofdstuk vastgesteld overeenkomstig de procedure, omschreven in de voorgaande alinea.  
+De bepalingen van dit hoofdstuk kunnen, met name ingeval door onvoorziene omstandigheden een toestand van algemene schaarste zou ontstaan, door de Raad met eenparigheid van stemmen worden gewijzigd op voorstel van de Commissie en na raadpleging van het Europees Parlement; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden ieder verzoek van een Lid-Staat in behandeling te nemen. Na verloop van zeven jaar na 1 januari 1958 kan de Raad deze bepalingen in hun geheel bevestigen. Bij gebreke van bevestiging worden nieuwe bepalingen met betrekking tot het onderwerp van dit hoofdstuk vastgesteld overeenkomstig de procedure, omschreven in de voorgaande alinea.  
 
 ### HOOFDSTUK  VII  
 
@@ -558,7 +558,7 @@ c) het stellen van de onderneming, voor een tijdsduur van ten hoogste vier maand
 d) het geheel of gedeeltelijk intrekken van grondstoffen of van bijzondere splijtstoffen.     
 2.  De besluiten van de Commissie houdende verplichting tot levering welke zijn vastgesteld ter uitvoering van het voorgaande lid, vormen een executoriale titel. Zij kunnen op het grondgebied van de Lid-Staten ten uitvoer worden gelegd, onder de in artikel 164 vastgestelde voorwaarden. In afwijking van de bepalingen van artikel 157 heeft het beroep bij het Hof van Justitie van de Europese Unie tegen de besluiten van de Commissie waarbij sancties worden opgelegd als bepaald in het voorgaande lid, schorsende werking. Het Hof van Justitie van de Europese Unie kan echter, op verzoek van de Commissie of van elke betrokken Lid-Staat, de onmiddellijke tenuitvoerlegging van het besluit bevelen. De bescherming der geschade belangen moet door een passende rechtsprocedure worden gewaarborgd.   
 3.  De Commissie kan de Lid-Staten alle aanbevelingen doen met betrekking tot de wettelijke of bestuursrechtelijke bepalingen, welke ten doel hebben de naleving op hun grondgebied van de uit dit hoofdstuk voortvloeiende verplichtingen te verzekeren.   
-4.  De Lid-Staten zijn gehouden er voor te zorgen, dat de santies ten uitvoer worden gelegd en, in voorkomende gevallen, dat schade, veroorzaakt door de inbreuken, wordt hersteld door hen die zich aan deze inbreuken hebben schuldig gemaakt.   
+4.  De Lid-Staten zijn gehouden er voor te zorgen, dat de sancties ten uitvoer worden gelegd en, in voorkomende gevallen, dat schade, veroorzaakt door de inbreuken, wordt hersteld door hen die zich aan deze inbreuken hebben schuldig gemaakt.   
 
 ### Artikel  84  
 
@@ -566,7 +566,7 @@ Bij de uitoefening van de controle wordt niet gediscrimineerd op grond van de be
 
 ### Artikel  85  
 
-Indien nieuwe omstandigheden zulks noodzakelijk zouden maken, kan de in dit hoofdstuk bepaalde wijze van uitoefening van de controle door de Raad met eenparigheid van stemmen worden aangepast op voorstel van de Commissie en na raadpleging van de Vergadering; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden elk verzoek van een Lid-Staat in behandeling te nemen.  
+Indien nieuwe omstandigheden zulks noodzakelijk zouden maken, kan de in dit hoofdstuk bepaalde wijze van uitoefening van de controle door de Raad met eenparigheid van stemmen worden aangepast op voorstel van de Commissie en na raadpleging van het Europees Parlement; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden elk verzoek van een Lid-Staat in behandeling te nemen.  
 
 ### HOOFDSTUK  VIII  
 
@@ -597,7 +597,7 @@ b) wordt in het debet van de Gemeenschap en in het credit van de leverende Lid-S
 
 ### Artikel  90  
 
-Indien nieuwe omstandigheden zulks noodzakelijk zouden maken, kunnen de bepalingen van dit hoofdstuk betreffende het eigendomsrecht van de Gemeenschap door de Raad met eenparigheid van stemmen worden aangepast op voorstel van de Commissie en na raadpleging van de Vergadering; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden elk verzoek van een Lid-Staat in behandeling te nemen.  
+Indien nieuwe omstandigheden zulks noodzakelijk zouden maken, kunnen de bepalingen van dit hoofdstuk betreffende het eigendomsrecht van de Gemeenschap door de Raad met eenparigheid van stemmen worden aangepast op voorstel van de Commissie en na raadpleging van het Europees Parlement; het initiatief daartoe kan van een Lid-Staat of van de Commissie uitgaan. De Commissie is gehouden elk verzoek van een Lid-Staat in behandeling te nemen.  
 
 ### Artikel  91  
 
@@ -615,13 +615,13 @@ De bepalingen van dit hoofdstuk zijn van toepassing op de goederen en produkten,
 
 De lidstaten verbieden onderling alle douanerechten op de in- en uitvoer, of heffingen van gelijke werking en elke kwantitatieve beperking van de in- en uitvoer: 
 
-a) voor de op de lijsten A1 en A2 voorkomende produkten,  
+a) voor de op de lijsten A <sup>1</sup> en A <sup>2</sup> voorkomende produkten,  
 
 b) voor de op lijst B voorkomende produkten, voor zover hiervoor een gemeenschappelijk douanetarief geldt en deze produkten worden begeleid door een door de Commissie afgegeven certificaat, waaruit blijkt dat zij bestemd zijn voor doeleinden op het gebied van de kernenergie.   De niet-Europese grondgebieden, welke vallen onder de rechtsmacht van een Lid-Staat, kunnen echter in- en uitvoerrechten of heffingen van gelijke werking met een uitsluitend fiscaal karakter blijven heffen. De hoogte en de wijze van heffing dezer rechten en heffingen mogen geen discriminatie teweegbrengen tussen deze Staat en de overige Lid-Staten.  
 
 ### Artikel  96  
 
-De Lid-Staten schaffen elke op de nationaliteit gegronde beperking van de toegang tot gekwalificeerde arbeid op het gebied van de kernenergie af ten aanzien van hen die de nationaliteit van een van de Lid-Staten bezitten, behoudens de beperkingen welke voortvloeien uit de fundamentele eisen van openbare orde, openbare veiligheid en volksgezondheid. Na raadpleging van de Vergadering kan de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie, die vooraf het advies van het Economisch en Sociaal Comité inwint, de richtlijnen betreffende de wijze van toepassing van dit artikel vaststellen.  
+De Lid-Staten schaffen elke op de nationaliteit gegronde beperking van de toegang tot gekwalificeerde arbeid op het gebied van de kernenergie af ten aanzien van hen die de nationaliteit van een van de Lid-Staten bezitten, behoudens de beperkingen welke voortvloeien uit de fundamentele eisen van openbare orde, openbare veiligheid en volksgezondheid. Na raadpleging van het Europees Parlement kan de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie, die vooraf het advies van het Economisch en Sociaal Comité inwint, de richtlijnen betreffende de wijze van toepassing van dit artikel vaststellen.  
 
 ### Artikel  97  
 
@@ -629,7 +629,7 @@ Geen enkele op de nationaliteit gegronde beperking kan worden aangevoerd tegen n
 
 ### Artikel  98  
 
-De Lid-Staten nemen alle nodige maatregelen om het afsluiten van verzekeringscontracten ter dekking van de atoomrisico's te vergemakkelijken. De Raad stelt, na raadpleging van de Vergadering, met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, die vooraf het advies van het Economisch en Sociaal Comité inwint, de richtlijnen vast betreffende de wijze van toepassing van dit artikel.  
+De Lid-Staten nemen alle nodige maatregelen om het afsluiten van verzekeringscontracten ter dekking van de atoomrisico’s te vergemakkelijken. De Raad stelt, na raadpleging van het Europees Parlement, met gekwalificeerde meerderheid van stemmen, op voorstel van de Commissie, die vooraf het advies van het Economisch en Sociaal Comité inwint, de richtlijnen vast betreffende de wijze van toepassing van dit artikel.  
 
 ### Artikel  99  
 
@@ -674,7 +674,7 @@ De Lid-Staten die vóór 1 januari 1958 of, voor de toetredende staten, vóór d
 ### Artikel  106 bis  
 
 1.  Artikel 7, de artikelen 13 tot en met 19, artikel 48, leden 2 tot en met 5, en de artikelen 49 en 50 van het Verdrag betreffende de Europese Unie, artikel 15, de artikelen 223 tot en met 236, de artikelen 237 tot en met 244, artikel 245, de artikelen 246 tot en met 270, de artikelen 272, 273 en 274, de artikelen 277 tot en met 281, de artikelen 285 tot en met 304, de artikelen 310 tot en met 320, de artikelen 322 tot en met 325 en de artikelen 336, 342 en 344 van het Verdrag betreffende de werking van de Europese Unie, alsmede het Protocol betreffende de overgangsbepalingen, zijn van toepassing op dit Verdrag.   
-2.  In het kader van het onderhavige Verdrag moeten de verwijzingen naar de Unie, naar het „Verdrag betreffende de Europese Unie”, naar het „Verdrag betreffende de werking van de Europese Unie” of naar de „Verdragen” in de bepalingen die in lid 1 genoemd worden of die opgenomen zijn in de protocollen gehecht aan die Verdragen of aan het onderhavige Verdrag, gelezen worden als verwijzingen naar de Europese Gemeenschap voor Atoomenergie en naar het onderhavige Verdrag.   
+2.  In het kader van het onderhavige Verdrag moeten de verwijzingen naar de Unie, naar het „ Verdrag betreffende de Europese Unie ”, naar het „ Verdrag betreffende de werking van de Europese Unie ” of naar de „Verdragen” in de bepalingen die in lid 1 genoemd worden of die opgenomen zijn in de protocollen gehecht aan die Verdragen of aan het onderhavige Verdrag, gelezen worden als verwijzingen naar de Europese Gemeenschap voor Atoomenergie en naar het onderhavige Verdrag.   
 3.  De bepalingen van het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie laten de bepalingen van het onderhavige Verdrag onverlet.   
 
 ### HOOFDSTUK  II  
@@ -696,7 +696,7 @@ De Lid-Staten die vóór 1 januari 1958 of, voor de toetredende staten, vóór d
 ### Artikel  134  
 
 1.  Bij de Commissie wordt een Wetenschappelijk en Technisch Comité van raadgevende aard ingesteld. Het Comité moet worden geraadpleegd in de door dit Verdrag bepaalde gevallen. Het kan worden geraadpleegd in alle gevallen waarin de Commissie dit gewenst acht.   
-2.  Het Comité bestaat uit eenenveertig leden, benoemd door de Raad na raadpleging van de Commissie. De leden van het Comité worden in hun persoonlijke hoedanigheid benoemd voor de tijd van vijf jaar. Zij zijn herbenoembaar. Zij mogen niet gebonden zijn door enig imperatief mandaat. Het Wetenschappelijk en Technisch Comité wijst ieder jaar uit zijn leden zijn voorzitter en zijn bureau aan.   
+2.  Het comité bestaat uit tweeënveertig leden, benoemd door de Raad na raadpleging van de Commissie. De leden van het Comité worden in hun persoonlijke hoedanigheid benoemd voor de tijd van vijf jaar. Zij zijn herbenoembaar. Zij mogen niet gebonden zijn door enig imperatief mandaat. Het Wetenschappelijk en Technisch Comité wijst ieder jaar uit zijn leden zijn voorzitter en zijn bureau aan.   
 
 ### Artikel  135  
 
@@ -746,7 +746,7 @@ De tenuitvoerlegging geschiedt volgens de bepalingen van burgerlijke rechtsvorde
 
 1.  Alle ontvangsten en uitgaven van de Gemeenschap, behalve die van het Agentschap en van de Gemeenschappelijke Ondernemingen, moeten voor elk begrotingsjaar worden geraamd; zij moeten worden opgenomen hetzij in de huishoudelijke begroting hetzij in de begroting voor onderzoek en investeringen. De ontvangsten en uitgaven van elke begroting moeten in evenwicht zijn.   
 2.  De ontvangsten en uitgaven van het Agentschap, dat volgens commerciële beginselen zal werken, zullen op een afzonderlijke staat worden begroot. De voorwaarden betreffende de raming, de uitvoering en de controle op deze ontvangsten en uitgaven worden, met inachtneming van de statuten van het Agentschap, geregeld in een ter uitvoering van artikel 322 van het Verdrag betreffende de werking van de Europese Unie vastgesteld financieel reglement.   
-3.  De op ieder dienstjaar betrekking hebbende ramingen van ontvangsten en uitgaven alsmede de verlies- en winstrekeningen en de balansen der Gemeenschappelijke Ondernemingen worden medegedeeld aan de Commissie, de Raad en de Vergadering, overeenkomstig de bepalingen opgenomen in de statuten van deze Ondernemingen.   
+3.  De op ieder dienstjaar betrekking hebbende ramingen van ontvangsten en uitgaven alsmede de verlies- en winstrekeningen en de balansen der Gemeenschappelijke Ondernemingen worden medegedeeld aan de Commissie, de Raad en het Europees Parlement, overeenkomstig de bepalingen opgenomen in de statuten van deze Ondernemingen.   
 
 ### Artikel  172  
 
@@ -774,7 +774,7 @@ d) de eventuele deelneming aan de Gemeenschappelijke Ondernemingen en aan bepaal
 
 ### Artikel  176  
 
-1.  De toewijzingen ten behoeve van uitgaven voor onderzoek en investeringen omvatten, binnen de grenzen van de programma's of van betalingsbesluiten die op grond van dit Verdrag eenstemmigheid van de Raad vereisen: 
+1.  De toewijzingen ten behoeve van uitgaven voor onderzoek en investeringen omvatten, binnen de grenzen van de programma’s of van betalingsbesluiten die op grond van dit Verdrag eenstemmigheid van de Raad vereisen: 
 
 a) vastleggingskredieten ter dekking van een op zich zelf staand deel, dat een samenhangend geheel vormt,  
 
@@ -846,29 +846,29 @@ Voor de toepassing van dit Verdrag en voor zover hierin niet anders is bepaald, 
 
 a) *„persoon* ”; iedere natuurlijke persoon die op de grondgebieden van de Lid-Staten zijn werkzaamheden geheel of gedeeltelijk uitoefent op het door het desbetreffende hoofdstuk van het Verdrag bepaalde terrein;  
 
-b) *„onderneming” :* iedere onderneming of instelling welke haar werkzaamheden geheel of gedeeltelijk uitoefent onder dezelfde voorwaarden als bedoeld onder *a)*, ongeacht haar publiek- of privaatrechtelijke positie.    
+b) *„onderneming”:* iedere onderneming of instelling welke haar werkzaamheden geheel of gedeeltelijk uitoefent onder dezelfde voorwaarden als bedoeld onder *a)*, ongeacht haar publiek- of privaatrechtelijke positie.    
 
 ### Artikel  197  
 
 Voor de toepassing van dit Verdrag wordt verstaan onder: 
 
-1. *„bijzondere splijtstoffen” :* plutonium 239, uranium 233, uranium verrijkt in de isotopen 235 of 233; elk produkt dat een of meer der hierbovengenoemde isotopen bevat, evenals die andere splijtstoffen die door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie als zodanig worden aangewezen; de term *„bijzondere splijtstoffen”* is echter niet van toepassing op grondstoffen;  
+1. *„bijzondere splijtstoffen”:* plutonium 239, uranium 233, uranium verrijkt in de isotopen 235 of 233; elk produkt dat een of meer der hierbovengenoemde isotopen bevat, evenals die andere splijtstoffen die door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie als zodanig worden aangewezen; de term *„bijzondere splijtstoffen”* is echter niet van toepassing op grondstoffen;  
 
-2. *„uranium verrijkt in de isotopen 235 of 233” :* uranium dat hetzij uranium 235, hetzij uranium 233, hetzij beide isotopen bevat in een zodanige hoeveelheid dat de verhouding tussen de som van die twee isotopen en de isotoop 238 groter is dan de verhouding tussen de isotoop 235 en de isotoop 238 in natuurlijk uranium;  
+2. *„uranium verrijkt in de isotopen 235 of 233”:* uranium dat hetzij uranium 235, hetzij uranium 233, hetzij beide isotopen bevat in een zodanige hoeveelheid dat de verhouding tussen de som van die twee isotopen en de isotoop 238 groter is dan de verhouding tussen de isotoop 235 en de isotoop 238 in natuurlijk uranium;  
 
-3. *„grondstoffen” :* uranium dat het mengsel van isotopen bevat zoals dit in de natuur wordt aangetroffen, uranium waarvan het gehalte aan uranium 235 lager is dan normaal, thorium, alle hierboven vermelde materialen in de vorm van metaal, van legeringen, van chemische verbindingen of van concentraten, ieder ander materiaal dat een of meer der hierboven vermelde stoffen bevat in een gehalte dat door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie wordt vastgesteld;  
+3. *„grondstoffen”:* uranium dat het mengsel van isotopen bevat zoals dit in de natuur wordt aangetroffen, uranium waarvan het gehalte aan uranium 235 lager is dan normaal, thorium, alle hierboven vermelde materialen in de vorm van metaal, van legeringen, van chemische verbindingen of van concentraten, ieder ander materiaal dat een of meer der hierboven vermelde stoffen bevat in een gehalte dat door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie wordt vastgesteld;  
 
-4. *„ertsen” :* elk erts dat een door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie vast te stellen gemiddeld gehalte aan bestanddelen bevat, die het mogelijk maken om door doelmatige scheikundige en natuurkundige behandeling grondstoffen te verkrijgen als hierboven zijn omschreven.    
+4. *„ertsen”:* elk erts dat een door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie vast te stellen gemiddeld gehalte aan bestanddelen bevat, die het mogelijk maken om door doelmatige scheikundige en natuurkundige behandeling grondstoffen te verkrijgen als hierboven zijn omschreven.    
 
 ### Artikel  198  
 
 Voor zover in het Verdrag niet anders is bepaald, zijn de bepalingen van dit Verdrag van toepassing op de Europese grondgebieden van de Lid-Staten en op de niet-Europese grondgebieden welke onder hun rechtsmacht vallen. Zij zijn eveneens van toepassing op de Europese grondgebieden welker buitenlandse betrekkingen door een Lid-Staat worden behartigd. Overeenkomstig Protocol nr. 2 bij de Akte betreffende de toetredingsvoorwaarden van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden zijn de bepalingen van dit Verdrag van toepassing op de Åland-eilanden. In afwijking van de voorgaande alinea's: 
 
-a) is dit Verdrag niet van toepassing op de Faeröer.  
+a) is dit Verdrag niet van toepassing op de Faeröer. Dit verdrag is niet van toepassing op Groenland.  
 
 b) Is dit Verdrag niet van toepassing op de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen.  
 
-c) Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord- Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage IV van het Verdrag tot oprichting van de Europese Economische Gemeenschap.  
+c) Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage IV van het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie.  
 
 d) Zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voor zover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe Lid-Staten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.    
 
@@ -890,7 +890,7 @@ De bepalingen van dit Verdrag vormen geen beletsel voor het bestaan en de voltoo
 
 ### Artikel  203  
 
-Indien een optreden van de Gemeenschap noodzakelijk blijkt ter verwezenlijking van een der doelstellingen van de Gemeenschap zonder dat dit Verdrag in de daartoe vereiste bevoegdheden voorziet, neemt de Raad met eenparigheid van stemmen op voorstel van de Commissie en na raadpleging van de Vergadering, de passende maatregelen.  
+Indien een optreden van de Gemeenschap noodzakelijk blijkt ter verwezenlijking van een der doelstellingen van de Gemeenschap zonder dat dit Verdrag in de daartoe vereiste bevoegdheden voorziet, neemt de Raad met eenparigheid van stemmen op voorstel van de Commissie en na raadpleging van het Europees Parlement, de passende maatregelen.  
 
 ### Artikel  206  
 
@@ -908,17 +908,25 @@ Dit Verdrag wordt voor onbeperkte tijd gesloten.
 
 ####BEPALINGEN MET BETREKKING TOT DE BEGINPERIODE
 
+Vervallen per 01-05-1999   
+
 ### Afdeling  I  
 
 ####- Oprichting van de instellingen
+
+Vervallen per 01-05-1999   
 
 ### Afdeling  II  
 
 ####- Bepalingen voor de eerste toepassing van het Verdrag
 
+Vervallen per 01-05-1999   
+
 ### Afdeling  III  
 
 ####- Overgangsbepalingen
+
+Vervallen per 01-05-1999   
 
 ####SLOTBEPALINGEN
 
@@ -928,7 +936,7 @@ Dit Verdrag zal door de Hoge Verdragsluitende Partijen worden bekrachtigd overee
 
 ### Artikel  225  
 
-Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten. Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Tsjechische, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse en de Zweedse taal eveneens gelijkelijk authentiek.  
+Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten. Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Kroatische, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse, de Tsjechische en de Zweedse taal eveneens gelijkelijk authentiek.  
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld. Gedaan te Rome, de vijfentwintigste maart negentienhonderd zevenenvijftig.  
 
@@ -1201,7 +1209,7 @@ b) stoffen bestemd voor be- of verwerking of reeds bewerkt in de Gemeenschappeli
 
 - aanhangwagens, opleggers en dergelijke voertuigen zonder eigen beweegkracht.   Verpakkingsmiddelen voor het vervoer en de opslag van radioactieve stoffen, voorzien van een loden bekleding ter afscherming van radioactieve straling. Kunstmatig verkregen radioactieve isotopen en organische en anorganische verbindingen daarvan. Werktuigen voor het hanteren van goederen op afstand, speciaal vervaardigd voor het hanteren van sterk radioactieve stoffen 
 
-- al dan niet verplaatsbare mechanische werktuigen, niet bestemd om met handkracht te worden bediend.    *Lijst B*  Delen en onderdelen van kernreactoren. Lithiumertsen en concentraten daarvan. Metalen van de zuiverheid vereist voor toepassing op het gebied van de kernenergie 
+- al dan niet verplaatsbare mechanische werktuigen, niet bestemd om met handkracht te worden bediend.    *Lijst B*   (Vermelding geschrapt)  Lithiumertsen en concentraten daarvan. Metalen van de zuiverheid vereist voor toepassing op het gebied van de kernenergie 
 
 - beryllium (glucinium), ruw;  
 
@@ -1271,15 +1279,20 @@ b) stoffen bestemd voor be- of verwerking of reeds bewerkt in de Gemeenschappeli
 
 ####EERSTE PROGRAMMA VOOR ONDERZOEK EN ONDERWIJS
 
-*bedoeld in artikel 215 van het Verdrag*   
+*bedoeld in artikel 215 van het Verdrag*    
+Vervallen per 01-05-1999   
 
-### I  
+### I   
+Vervallen per 01-05-1999   
 
 Vervallen.   
 
-### II  
+### II   
+Vervallen per 01-05-1999   
 
 Vervallen.   
 
 ####Protocol betreffende de toepassing van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie op de niet-Europese delen van het Koninkrijk der Nederlanden
+
+Vervallen per 01-05-1999   
 

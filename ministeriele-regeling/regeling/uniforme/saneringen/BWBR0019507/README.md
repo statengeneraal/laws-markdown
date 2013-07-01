@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 februari 2006, nr. LMV 2006.229362, Directie Lokale Milieukwaliteit en Verkeer, Afdeling Sturing Bodemsaneringsoperatie, houdende nadere regels voor uniforme saneringen (Regeling uniforme saneringen)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op het [Besluit uniforme saneringen](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md);
+Gelet op het Besluit uniforme saneringen;
 Besluit:     
 ### Paragraaf  1  
 
@@ -15,11 +15,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: het [Besluit uniforme saneringen](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md);  
+a. besluit: het Besluit uniforme saneringen;  
 
-b. streefwaarde: de getalsmatige invulling van het gehalte aan chemische stoffen in grondwater, zoals vermeld in [tabel 1 van bijlage 1 bij de Circulaire bodemsanering 2009](../../../../../circulaire/circulaire/bodemsanering/2009/BWBR0025649/README.md);  
+b. streefwaarde: de getalsmatige invulling van het gehalte aan chemische stoffen in grondwater, zoals vermeld in tabel 1 van bijlage 1 bij de Circulaire bodemsanering 2009;  
 
-c. interventiewaarde: de getalsmatige invulling van het gehalte aan chemische stoffen in grond en grondwater, zoals vermeld in [tabel 1 van bijlage 1 bij de Circulaire bodemsanering 2009](../../../../../circulaire/circulaire/bodemsanering/2009/BWBR0025649/README.md);  
+c. interventiewaarde: de getalsmatige invulling van het gehalte aan chemische stoffen in grond en grondwater, zoals vermeld in tabel 1 van bijlage 1 bij de Circulaire bodemsanering 2009;  
 
 d. tussenwaarde: het rekenkundig gemiddelde van de streefwaarde en de interventiewaarde van een verontreinigende stof in het grondwater;  
 
@@ -27,17 +27,17 @@ e. immobiele verontreinigingssituatie: een situatie waarbij de in de bodem aanwe
 
 f. mobiele verontreinigingssituatie: een situatie waarbij de in de bodem aanwezige verontreinigende stoffen zich tot meer dan de tussenwaarde hebben verspreid naar het grondwater;  
 
-g. achtergrondwaarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, zoals opgenomen in [tabel 1 van bijlage B bij de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md);  
+g. achtergrondwaarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, zoals opgenomen in tabel 1 van bijlage B bij de Regeling bodemkwaliteit;  
 
-h. maximale waarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, zoals opgenomen in [tabel 1 van bijlage B bij de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md);  
+h. maximale waarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, zoals opgenomen in tabel 1 van bijlage B bij de Regeling bodemkwaliteit;  
 
-i. lokale maximale waarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, bedoeld in [artikel 44 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+i. lokale maximale waarden: de getalsmatige invulling van het gehalte aan chemische stoffen in de bodem, bedoeld in artikel 44 van het Besluit bodemkwaliteit;  
 
-j. bodemfuncties: bodemfuncties als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [artikel 4.7.1 van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md);  
+j. bodemfuncties: bodemfuncties als bedoeld in artikel 1 van het Besluit bodemkwaliteit en artikel 4.7.1 van de Regeling bodemkwaliteit;  
 
-k. bodemfunctieklassen wonen of industrie: bodemfunctieklassen wonen of industrie als bedoeld in [artikel 55, eerste lid, van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+k. bodemfunctieklassen wonen of industrie: bodemfunctieklassen wonen of industrie als bedoeld in artikel 55, eerste lid, van het Besluit bodemkwaliteit;  
 
-l. gebiedsspecifiek toetsingskader: toetsingskader als bedoeld in [hoofdstuk 4, afdeling 2, van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+l. gebiedsspecifiek toetsingskader: toetsingskader als bedoeld in hoofdstuk 4, afdeling 2, van het Besluit bodemkwaliteit;  
 
 m. projectgebied de Kempen: het gebied bedoeld in bijlage 3;  
 
@@ -57,7 +57,7 @@ s. NTA 5755: Bodem – Landbodem – Strategie voor het uitvoeren van nader onde
 
 ####Aanwijzing van categorieën van uniforme saneringen
 
-Als categorieën van uniforme saneringen, bedoeld in [artikel 39b van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), worden aangewezen: 
+Als categorieën van uniforme saneringen, bedoeld in artikel 39b van de wet, worden aangewezen: 
 
 a. immobiel;  
 
@@ -71,7 +71,7 @@ d. projectgebied de Kempen.
 
 ####Melding uniforme sanering
 
-1.  Degene die het voornemen heeft te saneren overeenkomstig het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) verstrekt bij de melding, bedoeld in [artikel 6 van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), de volgende gegevens aan het bevoegd gezag: 
+1.  Degene die het voornemen heeft te saneren overeenkomstig het besluit verstrekt bij de melding, bedoeld in artikel 6 van het besluit, de volgende gegevens aan het bevoegd gezag: 
 
 a. de naam, adres- en woonplaatsgegevens van de saneerder en de eigenaar of erfpachter van de saneringslocatie,dan wel, indien de sanering zich over meerdere aaneengesloten kadastrale percelen uitstrekt, van de betrokken eigenaren of erfpachters;  
 
@@ -106,9 +106,9 @@ k. de overige gegevens en documenten, zoals aangegeven in de modellen die zijn o
 
 ####Melding wijziging
 
-1.  De melding van wijzigingen als bedoeld in [artikel 10 van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) geschiedt: 
+1.  De melding van wijzigingen als bedoeld in artikel 10 van het besluit geschiedt: 
 
-a. onmiddellijk nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft gegevens, bedoeld in [artikel 6, eerste lid, onder a, b en c van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md);  
+a. onmiddellijk nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft gegevens, bedoeld in artikel 6, eerste lid, onder a, b en c van het besluit;  
 
 b. onmiddellijk nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft de volgende gegevens: 
 
@@ -116,7 +116,7 @@ b. onmiddellijk nadat van de wijzigingen of gewijzigde omstandigheden is gebleke
 
 2°. de verwachte dan wel de feitelijke aanvangsdatum van de sanering;    
 
-c. binnen twee weken nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft gegevens, bedoeld in [artikel 6, eerste lid, onder d](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), en gegevens met betrekking tot de feitelijke situatie, waartoe in ieder geval behoren: 
+c. binnen twee weken nadat van de wijzigingen of gewijzigde omstandigheden is gebleken, voorzover het betreft gegevens, bedoeld in artikel 6, eerste lid, onder d, en gegevens met betrekking tot de feitelijke situatie, waartoe in ieder geval behoren: 
 
 1°. de kadastrale gegevens met betrekking tot de saneringslocatie;  
 
@@ -139,7 +139,7 @@ c. indien de resultaten van het onderzoek, bedoeld onder a, daartoe aanleiding g
 
 d. nader onderzoek overeenkomstig NTA 5755, waarbij de aard en omvang van de verontreinigingen in de bodem worden vastgesteld.     
 2.  Onderzoek als bedoeld in het eerste lid, onder b en c, kan achterwege blijven indien eerder in een ander kader onderzoek is uitgevoerd dat representatief is voor de heersende situatie en waarvan de resultaten nog voldoende actueel zijn.   
-3.  De persoon of instelling die de onderzoeken, bedoeld in het eerste lid en artikel 3.4.5, tweede lid, uitvoert beschikt daartoe over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en staat op grond van [artikel 9, tweede lid, van dat besluit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) vermeld op die erkenning.   
+3.  De persoon of instelling die de onderzoeken, bedoeld in het eerste lid en artikel 3.4.5, tweede lid, uitvoert beschikt daartoe over een erkenning op grond van het Besluit bodemkwaliteit en staat op grond van artikel 9, tweede lid, van dat besluit vermeld op die erkenning.   
 4.  De gegevens voortvloeiend uit de onderzoeken bedoeld in het eerste en tweede lid worden in de vorm van bodemonderzoeksrapporten vastgelegd.   
 5.  Met de in deze regeling genoemde normen en richtlijnen worden gelijkgesteld normen en richtlijnen die zijn vastgesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.   
 
@@ -157,7 +157,7 @@ Degene die saneert, meldt aan het bevoegd gezag schriftelijk de datum en het tij
 
 ####Saneringsuitvoering
 
-1.  De sanering wordt uitgevoerd door een persoon of instelling die op grond van het [Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), beschikt over een erkenning voor het uitvoeren van de betrokken werkzaamheden.   
+1.  De sanering wordt uitgevoerd door een persoon of instelling die op grond van het Besluit bodemkwaliteit, beschikt over een erkenning voor het uitvoeren van de betrokken werkzaamheden.   
 2.  De verontreinigingen binnen de saneringslocatie zijn goed bereikbaar met de in te zetten technieken.   
 3.  De saneringslocatie en buiten de saneringslocatie liggende depots zijn omgeven door een hekwerk. Na het beëindigen van de dagelijkse werkzaamheden wordt het hekwerk afgesloten. Het hekwerk is aan de buitenzijden voorzien van het duidelijk leesbaar opschrift, luidende: verboden toegang voor onbevoegden, gevaarlijk terrein.   
 4.  De saneerder, dan wel degene die de sanering feitelijk uitvoert, stelt het bevoegd gezag in staat om de uitvoering van de sanering te controleren, zowel gedurende als na afloop van de sanering.   
@@ -167,7 +167,7 @@ Degene die saneert, meldt aan het bevoegd gezag schriftelijk de datum en het tij
 ####Milieukundige begeleiding
 
 1.  De werkzaamheden worden milieukundig begeleid, tenzij in paragraaf 3 anders is bepaald.   
-2.  De persoon of instelling die de milieukundige begeleiding uitvoert beschikt daartoe over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en staat op grond van [artikel 9, tweede lid, van dat besluit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) vermeld op die erkenning.   
+2.  De persoon of instelling die de milieukundige begeleiding uitvoert beschikt daartoe over een erkenning op grond van het Besluit bodemkwaliteit en staat op grond van artikel 9, tweede lid, van dat besluit vermeld op die erkenning.   
 3.  Gedurende de sanering houdt de milieukundig begeleider een logboek bij.   
 
 ### Artikel  2.4  
@@ -216,13 +216,13 @@ c. toegepast wordt ten hoogste één van de saneringsaanpakken beschreven in de 
 
 d. de eventuele verspreiding van verontreinigende stoffen uit de grond van de saneringslocatie heeft niet geleid tot een overschrijding van de tussenwaarde voor die stoffen in het grondwater; en  
 
-e. het betreft een verontreiniging met stoffen als bedoeld in bijlage 6 onder categorie Immobiel waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is.    
+e. het betreft een verontreiniging met stoffen als bedoeld in bijlage 6 onder categorie Immobiel waarop het besluit van toepassing is.    
 
 ### Artikel  3.1.2  
 
 ####Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde
 
-De saneringsaanpak bedoeld in [artikel 3, eerste lid, onder b, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) bestaat bij deze categorie uniforme saneringen uit: 
+De saneringsaanpak bedoeld in artikel 3, eerste lid, onder b, van het besluit bestaat bij deze categorie uniforme saneringen uit: 
 
 a. het ontgraven van de aanwezige verontreinigde grond tot minimaal het niveau van de terugsaneerwaarde als bedoeld in artikel 3.1.6; en  
 
@@ -234,7 +234,7 @@ c. het eventueel aanvullen van de ontgraving met grond van een kwaliteit van ten
 
 ####Saneringsaanpak: aanbrengen isolatielaag
 
-De saneringsaanpak bedoeld in [artikel 3, eerste lid, onder c, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), bestaat bij deze categorie uniforme saneringen uit: 
+De saneringsaanpak bedoeld in artikel 3, eerste lid, onder c, van het besluit, bestaat bij deze categorie uniforme saneringen uit: 
 
 a. in geval van het aanbrengen van een leeflaag dat: 
 
@@ -260,7 +260,7 @@ d. dat de verontreinigde grond die moet worden afgegraven om de isolatielaag te 
 
 ####Saneringsaanpak: open ontgraving in combinatie met aanbrengen isolatielaag
 
-1.  Een combinatie van de saneringsaanpakken bedoeld in [artikel 3, eerste lid, onder b en c, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) is toegestaan.   
+1.  Een combinatie van de saneringsaanpakken bedoeld in artikel 3, eerste lid, onder b en c, van het besluit is toegestaan.   
 2.  In afwijking van artikel 3.1.2, onder b, is herschikken van de verontreinigde grond, op dat deel van de saneringslocatie waar een isolatielaag wordt aangebracht, toegestaan.   
 
 ### Artikel  3.1.5  
@@ -268,7 +268,7 @@ d. dat de verontreinigde grond die moet worden afgegraven om de isolatielaag te 
 ####Saneringsaanpak: open ontgraving in combinatie met aanbrengen aanvullaag
 
 1.  In stedelijke gebieden, waarvoor geen gebiedsspecifiek toetsingskader is vastgesteld, is de saneringsaanpak bedoeld in het tweede lid toegestaan voorzover sprake is van een dunne verontreinigde toplaag met een dikte van ten hoogste 50 centimeter, waarvan de onderliggende bodem een kwaliteit heeft van ten hoogste de helft van de naar grondsoort gecorrigeerde interventiewaarde.   
-2.  De saneringsaanpak bedoeld in [artikel 3, eerste lid, onder b, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), in combinatie met het aanbrengen van een laag aanvulgrond, bestaat uit: 
+2.  De saneringsaanpak bedoeld in artikel 3, eerste lid, onder b, van het besluit, in combinatie met het aanbrengen van een laag aanvulgrond, bestaat uit: 
 
 a. het ontgraven van de verontreinigde toplaag tot ten hoogste de helft van de naar grondsoort gecorrigeerde interventiewaarden;  
 
@@ -312,7 +312,7 @@ Artikel 1.5, eerste lid, onder d, is niet van toepassing voor de saneringsaanpak
 
 1.  Een saneringsaanpak bedoeld in artikel 3.1.3, onderdeel a, mag niet leiden tot beperkingen voor de bodemfunctie van de saneringslocatie en het gebruik van de bodem. Het gebruik van de bodem van de saneringslocatie wordt vermeld op het formulier bedoeld in artikel 1.3, tweede lid.   
 2.  In geval artikel 3.1.3, onderdeel a, onder 3e, van toepassing is worden de voor het gebied waarin de saneringslocatie is gelegen reeds bestaande beperkingen in het gebruik eveneens vermeld op het formulier bedoeld in artikel 1.3, tweede lid.   
-3.  Bij een saneringsaanpak als bedoeld in [artikel 3, eerste lid, onder c, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) wordt de verontreinigingssituatie, zoals deze na de sanering onder de isolatielaag aanwezig is, beschreven in het verslag, bedoeld in [artikel 13 van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md).   
+3.  Bij een saneringsaanpak als bedoeld in artikel 3, eerste lid, onder c, van het besluit wordt de verontreinigingssituatie, zoals deze na de sanering onder de isolatielaag aanwezig is, beschreven in het verslag, bedoeld in artikel 13 van het besluit.   
 
 ### Paragraaf  3.2  
 
@@ -328,22 +328,24 @@ a. de saneringslocatie betreft een landbodem;
 
 b. de sanering heeft betrekking op een op zichzelf staande mobiele verontreinigingssituatie;  
 
-c. toegepast wordt een saneringsaanpak bedoeld in artikel 3.2.2, 3.2.2a of 3.2.3 of een combinatie hiervan;  
+c. toegepast wordt een saneringsaanpak bedoeld in artikel 3.2.2, 3.2.2a, 3.2.2b of 3.2.3 of een combinatie hiervan;  
 
-d. het betreft verontreiniging met stoffen als bedoeld in bijlage 6 onder categorie Mobiel waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is;  
+d. het betreft verontreiniging met stoffen als bedoeld in bijlage 6 onder categorie Mobiel waarop het besluit van toepassing is;  
 
-e. uit de melding, bedoeld in artikel 1.3, blijkt dat het verontreinigde bodemvolume met te saneren verontreinigende stoffen in het grondwater boven de streefwaarde ten hoogste gelijk is aan 1.000 m <sup>3</sup>; en  
+e. de verontreiniging in het grondwater is te bereiken met de in te zetten technieken;  
 
-f. in afwijking van onderdeel f geldt voor spoorwegterreinen, die zich bevinden op kadastrale percelen die in eigendom zijn van NS Vastgoed BV en Railinfratrust BV, dat het verontreinigde bodemvolume met te saneren verontreinigende stoffen in het grondwater boven de streefwaarde ten hoogste gelijk is aan 2.000 m <sup>3</sup>.     
-2.  De verontreinigingen die aanwezig zijn op plaatsen die niet bereikbaar zijn met de in te zetten technieken, zoals onder gebouwen, hoofd(transport)leidingen en andere belangrijke (ondergrondse) infrastructuur, worden niet tot de saneringslocatie gerekend, indien een voorziening is aangebracht als bedoeld in artikel 3.2.8.   
+f. een kwetsbaar object als bedoeld in de Circulaire bodemsanering is niet gelegen binnen het bodemvolume dat wordt ingesloten door de interventiewaarde contour in het grondwater of een straal van 100 meter er om heen, en  
+
+g. de in te zetten technieken leiden niet tot een verandering in de bodemgesteldheid die van nadelige invloed kan zijn op een binnen het invloedgebied gelegen kwetsbaar object als bedoeld in de Circulaire bodemsaneringen.     
+2.  Verontreinigingen in de vaste bodem die aanwezig zijn op plaatsen die niet bereikbaar zijn met de in te zetten technieken, zoals onder gebouwen, hoofd(transport)leidingen en andere belangrijke (ondergrondse) infrastructuur, worden niet tot de saneringslocatie gerekend, indien een voorziening is aangebracht als bedoeld in artikel 3.2.8.   
 
 ### Artikel  3.2.2  
 
 ####Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde
 
-De saneringsaanpak, bedoeld in [artikel 3, eerste lid, onder b, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) bestaat bij deze categorie uniforme saneringen uit: 
+De saneringsaanpak, bedoeld in artikel 3, eerste lid, onder b, van het besluit bestaat bij deze categorie uniforme saneringen uit: 
 
-a. het ontgraven van de aanwezige verontreinigde grond tot minimaal het niveau van de terugsaneerwaarde bedoeld in artikel 3.2.4;  
+a. het ontgraven van de verontreinigde grond en het daarin aanwezige verontreinigde grondwater tot minimaal het niveau van de terugsaneerwaarde bedoeld in artikel 3.2.4;  
 
 b. het van de saneringslocatie afvoeren van deze grond;  
 
@@ -353,28 +355,42 @@ c. het aanvullen van de ontgraving met grond van een kwaliteit van ten hoogste h
 
 ####Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde (combi)
 
-1.  De saneringsaanpak, bedoeld in [artikel 3, eerste lid, onder e, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) bestaat bij deze categorie uniforme saneringen uit: 
+1.  De saneringsaanpak, bedoeld in artikel 3, eerste lid, onder e, van het besluit bestaat bij deze categorie uniforme saneringen uit: 
 
 a. het tijdelijk uitplaatsen van de aanwezige verontreinigde grond zoals bedoeld in artikel 3.3.1 en volgens de aanpak als bedoeld in artikel 3.3.2;  
 
-b. het ontgraven van de te saneren grond tot minimaal het niveau van de terugsaneerwaarde bedoeld in artikel 3.2.4;  
+b. het ontgraven van de te saneren verontreinigde grond en het daarin aanwezige verontreinigde grondwater tot minimaal het niveau van de terugsaneerwaarde bedoeld in artikel 3.2.4;  
 
 c. het van de saneringslocatie afvoeren van de te saneren grond;  
 
-d. het aanvullen van de ontgraving tot het niveau van de terug te plaatsen grond bedoeld in lid a met grond van een kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in artikel 3.2.5; en  
+d. het aanvullen van de ontgraving tot het niveau van de terug te plaatsen grond bedoeld in onderdeel a met grond van een kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in artikel 3.2.5; en  
 
 e. het weer terugplaatsen van de verontreinigde grond, bedoeld in onderdeel a.     
 2.  Bij de saneringsaanpak bedoeld in het eerste lid kan, in afwijking van artikel 3.2.1, onderdeel b, tevens sprake zijn van een immobiele verontreinigingssituatie.   
+
+### Artikel  3.2.2b  
+
+####Saneringsaanpak: saneren verontreinigde grond en verontreinigd grondwater tot niveau terugsaneerwaarde
+
+De saneringsaanpak, bedoeld in artikel 3, eerste lid, onder b en d, van het besluit, bestaat bij deze categorie uniforme saneringen uit: 
+
+a. het ontgraven van de aanwezige verontreinigde grond in de bronzone tot ten minste het niveau van de terugsaneerwaarde bedoeld in artikel 3.2.4;  
+
+b. het van de saneringslocatie afvoeren van deze grond;  
+
+c. het aanvullen van de ontgraving met grond van een kwaliteit van ten hoogste het concentratieniveau voor stoffen bedoeld in artikel 3.2.5;  
+
+d. het onttrekken van het aanwezige verontreinigde grondwater uit de pluim tot minimaal het niveau van de terugsaneerwaarde, bedoeld in artikel 3.2.4, en het behandelen van het hierbij vrijkomende water, dan wel de inzet van in de saneringspraktijk gangbare en bewezen intensieve in-situ technieken voor sanering van de pluim, waarmee de in artikel 3.2.4 bedoelde terugsaneerwaarde kan worden gerealiseerd, zoals beschreven in de Richtlijn herstel en beheer (water)bodemkwaliteit(www.bodemrichtlijn.nl).    
 
 ### Artikel  3.2.3  
 
 ####Saneringsaanpak: saneren verontreinigd grondwater tot niveau terugsaneerwaarde
 
-De saneringsaanpak, bedoeld in [artikel 3, eerste lid, onder d, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), bestaat bij deze categorie uniforme saneringen uit: 
+De saneringsaanpak, bedoeld in artikel 3, eerste lid, onder d, van het besluit, bestaat bij deze categorie uniforme saneringen uit: 
 
 a. het onttrekken van verontreinigd grondwater tot minimaal het niveau van de terugsaneerwaarde bedoeld in artikel 3.2.4 en het behandelen van het hierbij vrijkomende water; of  
 
-b. de inzet van in de saneringspraktijk gangbare en bewezen in-situ technieken, waarmee de in artikel 3.2.4 bedoelde terugsaneerwaarde kan worden gerealiseerd, zoals onder meer beschreven in de Richtlijn herstel en beheer (water)bodemkwaliteit (www.bodemrichtlijn.nl).    
+b. de inzet van in de saneringspraktijk gangbare en bewezen intensieve in-situ technieken, waarmee de in artikel 3.2.4 bedoelde terugsaneerwaarde kan worden gerealiseerd, zoals beschreven in de Richtlijn herstel en beheer (water)bodemkwaliteit (www.bodemrichtlijn.nl).    
 
 ### Artikel  3.2.4  
 
@@ -382,10 +398,10 @@ b. de inzet van in de saneringspraktijk gangbare en bewezen in-situ technieken, 
 
 1.  De verontreinigde grond van de saneringslocatie, bedoeld in artikel 3.2.2, wordt ontgraven tot een niveau waarop de ontgraving geurvrij is en tot minimaal de naar grondsoort gecorrigeerde concentraties: 
 
-a. 0,1 maal de interventiewaarden voor vluchtige aromaten;  
+a. 0,1 maal de interventiewaarden van de somparameter voor naftaleen, fenantreen, antraceen, fluorantheen, chryseen, benzoantraceen, benzopyreen, benzofluorantheen, indenopyreen en benzoperyleen en de natuurlijke achtergrondwaarde voor aromatische stoffen;  
 
-b. de maximale waarden voor de bodemfunctieklasse wonen voor de overige verontreinigende stoffen, bedoeld in bijlage 6 onder de categorie Mobiel, waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is.     
-2.  De grondwaterverontreiniging van de saneringslocatie, bedoeld in artikel 3.2.3, wordt voor alle aanwezige verontreinigende stoffen gesaneerd tot minimaal de tussenwaarde.   
+b. de maximale waarden voor de bodemfunctieklasse wonen voor metalen, overige anorganische stoffen en minerale olie, of de voor deze stoffen vastgestelde lokale maximale waarden.     
+2.  De grondwaterverontreiniging van de saneringslocatie, bedoeld in artikel 3.2.2 tot en met 3.2.3, wordt voor alle aanwezige verontreinigende stoffen gesaneerd tot een niveau gelijk aan of lager dan de interventiewaarde.   
 
 ### Artikel  3.2.5  
 
@@ -416,12 +432,13 @@ De datum waarop de einddiepte van de ontgraving zal worden bereikt wordt door de
 
 1.  Ter bepaling van de afvoerbestemming kan de verontreinigde grond ten hoogste drie werkdagen worden opgeslagen op de saneringslocatie.   
 2.  De opgeslagen grond is van de onderliggende bodem gescheiden door middel van een lekdicht folie.   
+3.  Indien de grond wordt opgeslagen, wordt deze gescheiden naar grondsoort of naar aard en graad van verontreiniging, dan wel een combinatie daarvan.   
 
 ### Artikel  3.2.8  
 
 ####Voorzieningen in geval van achterblijvende verontreinigingen
 
-In geval van een sanering van een verontreinigingssituatie, bedoeld in artikel 3.2.1, tweede lid, geldt dat de saneerder op het grensvlak van de saneringslocatie en de achterblijvende verontreiniging een isolatiefolie aanbrengt, dat reikt tot 30 centimeter onder de ontgravingsdiepte met daarachter een horizontale drain met pompput, op een niveau van ten hoogste 50 centimeter beneden de gemiddeld aanwezige grondwaterstand. De isolatiefolie dient te reiken tot aan het maaiveld.  
+In geval van een sanering van een verontreinigingssituatie, bedoeld in artikel 3.2.1, tweede lid, geldt dat de saneerder een isolerende voorziening aanbrengt. Horizontale monitoringsdrains worden aangemerkt als isolerende voorziening.  
 
 ### Paragraaf  3.3  
 
@@ -441,13 +458,13 @@ c. toegepast wordt een saneringsaanpak bedoeld in artikel 3.3.2;
 
 d. het tijdelijk uitplaatsen is noodzakelijk voor de uitvoering van civieltechnische werkzaamheden zoals voor de aanleg, het onderhoud of de verwijdering van ondergrondse infrastructuur, waaronder wordt begrepen kabels, leidingen, rioleringen, duikers, funderingen en vergelijkbare activiteiten binnen een geval van verontreiniging; en  
 
-e. het betreft een verontreiniging met stoffen bedoeld in bijlage 6 onder categorie Tijdelijk uitplaatsen waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is.    
+e. het betreft een verontreiniging met stoffen bedoeld in bijlage 6 onder categorie Tijdelijk uitplaatsen waarop het besluit van toepassing is.    
 
 ### Artikel  3.3.2  
 
 ####Saneringsaanpak: het verplaatsen van verontreinigde grond
 
-De saneringsaanpak, bedoeld in [artikel 3, eerste lid, onder a, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) bestaat bij deze categorie uniforme saneringen uit: 
+De saneringsaanpak, bedoeld in artikel 3, eerste lid, onder a, van het besluit bestaat bij deze categorie uniforme saneringen uit: 
 
 a. het na uitplaatsen zoveel mogelijk terug brengen van de tijdelijk uitgeplaatste grond in het hetzelfde ontgravingsprofiel onder dezelfde bodemomstandigheden zonder dat de grond een bewerking heeft ondergaan; en  
 
@@ -462,7 +479,7 @@ b. eventueel het van de locatie afvoeren van de overtollige verontreinigde grond
 
 ####Nadere regels eenvoudige saneringen tijdelijk uitplaatsen
 
-Voor saneringen die binnen de termijn, bedoeld in [artikel 7 van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) aanvangen, geldt dat de kwaliteit van de terug te plaatsen grond niet verschilt met die van de aansluitende bodem.  
+Voor saneringen die binnen de termijn, bedoeld in artikel 7 van het besluit aanvangen, geldt dat de kwaliteit van de terug te plaatsen grond niet verschilt met die van de aansluitende bodem.  
 
 ### Artikel  3.3.5  
 
@@ -503,13 +520,13 @@ c. de sanering heeft betrekking op een verontreinigingssituatie waarbij zinkasse
 
 d. het betreft een saneringsaanpak bedoeld in artikel 3.4.2;  
 
-e. het betreft een verontreiniging met stoffen als bedoeld in bijlage 6 onder categorie De Kempen waarop het [besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) van toepassing is.     
+e. het betreft een verontreiniging met stoffen als bedoeld in bijlage 6 onder categorie De Kempen waarop het besluit van toepassing is.     
 
 ### Artikel  3.4.2  
 
 ####Saneringsaanpak: open ontgraving tot niveau terugsaneerwaarde
 
-De saneringsaanpak, bedoeld in [artikel 3, eerste lid, onder b, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), bestaat bij deze categorie uniforme saneringen uit: 
+De saneringsaanpak, bedoeld in artikel 3, eerste lid, onder b, van het besluit, bestaat bij deze categorie uniforme saneringen uit: 
 
 a. het ontgraven van de aanwezige verontreinigde grond en zinkassen tot minimaal het niveau van de terugsaneerwaarde bedoeld in artikel 3.4.3;  
 
@@ -557,7 +574,7 @@ Degene die saneert, meldt de datum van afronding van de sanering aan het bevoegd
 
 ####Evaluatieverslag
 
-1.  Degene die saneert verstrekt bij het verslag, bedoeld in [artikel 13 van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md), de volgende gegevens aan het bevoegd gezag: 
+1.  Degene die saneert verstrekt bij het verslag, bedoeld in artikel 13 van het besluit, de volgende gegevens aan het bevoegd gezag: 
 
 a. de naam, adres- en woonplaatsgegevens van de melder, de eigenaar of erfpachter van de saneringslocatie, of, indien de sanering zich over meerdere aaneengesloten kadastrale percelen uitstrekt, van de betrokken eigenaren of erfpachters, en de saneerder;  
 
@@ -594,12 +611,16 @@ l. in geval van toepassing van de saneringsaanpak bedoeld in artikelen 3.1.3 of 
 m. de overige gegevens en documenten, zoals aangegeven in de modellen die zijn opgenomen in bijlage 5.     
 2.  De gegevens met betrekking tot gerealiseerde aspecten bedoeld in het eerste lid, onder e tot en met k, worden achterwege gelaten in het verslag indien: 
 
-a. gesaneerd is volgens de saneringsaanpak verplaatsen van verontreinigde grond, bedoeld in [artikel 3, eerste lid, onder a, van het besluit](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md);  
+a. gesaneerd is volgens de saneringsaanpak verplaatsen van verontreinigde grond, bedoeld in artikel 3, eerste lid, onder a, van het besluit;  
 
 b. de uitkomende grond is teruggebracht in de ontgraving; en  
 
 c. de kwaliteit van de terug te plaatsen grond niet verschilt met de kwaliteit van de aansluitende bodem.     
 3.  Voor het verstrekken van de gegevens bij het verslag, bedoeld in het eerste lid, wordt per categorie uniforme saneringen gebruik gemaakt van een formulier waarvan de modellen zijn opgenomen in bijlage 5.   
+
+### Artikel  4.3  
+
+De categorie tijdelijk uitplaatsen, bedoeld in artikel 1.2, onder c, wordt aangewezen als categorie van saneringen die geen instemming behoeft, als bedoeld in artikel 14, derde lid, van het Besluit uniforme saneringen.  
 
 ### Paragraaf  5  
 
@@ -607,7 +628,7 @@ c. de kwaliteit van de terug te plaatsen grond niet verschilt met de kwaliteit v
 
 ### Artikel  5.1  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit uniforme saneringen](../../../../../AMvB/besluit/uniforme/saneringen/BWBR0019511/README.md) in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag vóór genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking op het tijdstip waarop het Besluit uniforme saneringen in werking treedt. Indien de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst later is gelegen dan de tweede dag vóór genoemd tijdstip, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
 ### Artikel  5.2  
 
@@ -630,7 +651,7 @@ P.L.B.A. vanGeel
 Waarden in relatie tot achtergrondwaarden en interventiewaarden voor een standaardbodem (25% lutum en 10% organisch stof) uitgedrukt in mg/kg ds.  
 
 |--- | Achtergrondwaarden  | Maximale waarden  | Interventiewaarden  | Stof  | Bodemfunctie-klasse landbouw en natuur  | Bodemfunctie-klasse wonen met moestuin*  | Bodemfunctie-klasse wonen met siertuin*  | Bodemfunctie-klasse wonen  | Bodemfunctie-klasse industrie**  |--- | Kwaliteitsklasse wonen met moestuin*  | Kwaliteitsklasse wonen met siertuin*  | Kwaliteitsklasse wonen  | Kwaliteitsklasse industrie**  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Antimoon  | 4  | 15  | 15  | 15  | 22  | 22  |
 | Arseen  | 20  | 55*  | 55*  | 27  | 76  | 76  |
 | Barium  | --- | --- | --- | --- | --- | --- |
@@ -656,11 +677,11 @@ Waarden in relatie tot achtergrondwaarden en interventiewaarden voor een standaa
 | Asbest  | --  | 100  | 100  | 100  | 100  | 100  |
 | Andere stoffen  | --- |  <sup>2</sup>   |  <sup>2</sup>   |  <sup>2</sup>   |  <sup>2</sup>   | --- |
 
-<sup>1</sup> Som aldrin, dieldrin, endrin <sup>2</sup> Zie tabel 1 van [bijlage B van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md) voor de generieke maximale waarden wonen en industrie. * De bodemfunctieklasse wonen en bodemkwaliteitsklasse wonen zoals opgenomen in de bijlagen bij de [Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md) is alleen voor het projectgebied De Kempen verbijzonderd in het gebruik als moestuin en als siertuin voor zover sprake is van een beïnvloeding door zinkassen. De verbijzondering geldt binnen het projectgebied alleen voor de stoffen Arseen, Cadmium, Koper, Lood en Zink. Indien niet sprake is van een aantoonbare beïnvloeding door zinkassen dan gelden de generieke waarden voor de bodemfunctieklasse en kwaliteitsklasse wonen van tabel 1, [bijlage B van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md). ** Voor de bodemfunctie- en bodemkwaliteitsklasse industrie is binnen het projectgebied De Kempen uitsluitend voor de stof cadmium een verbijzondering van toepassing. Indien niet sprake is van een aantoonbare beïnvloeding door zinkassen dan gelden de generieke waarden voor de bodemfunctieklasse en kwaliteitsklasse industrie van tabel 1, [Bijlage B van de Regeling bodemkwaliteit](../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md). Met bovenstaande gebiedsgerichte verbijzondering voor moestuin en siertuin is door Gedeputeerde Staten van Noord-Brabant ingestemd op 6 april 2004 onder nummer 982886 en door Gedeputeerde Staten van de provincie Limburg op 1 juni 2004 onder besluit 2004/30014. Voor het gebruik van de concentraties in de tabel geldt, dat voor andere bodems dan de standaard bodem een bodemtype correctie moet worden uitgevoerd conform de bestaande formules voor het corrigeren van genoemde waarden. De situering en omvang van het projectgebied van Actief Bodembeheer de Kempen staat weergegeven in de volgende tekening (in kleur).   ![245426](http://wetten.overheid.nl/Illustration/245426)
+<sup>1</sup> Som aldrin, dieldrin, endrin <sup>2</sup> Zie tabel 1 van bijlage B van de Regeling bodemkwaliteit voor de generieke maximale waarden wonen en industrie. * De bodemfunctieklasse wonen en bodemkwaliteitsklasse wonen zoals opgenomen in de bijlagen bij de Regeling bodemkwaliteit is alleen voor het projectgebied De Kempen verbijzonderd in het gebruik als moestuin en als siertuin voor zover sprake is van een beïnvloeding door zinkassen. De verbijzondering geldt binnen het projectgebied alleen voor de stoffen Arseen, Cadmium, Koper, Lood en Zink. Indien niet sprake is van een aantoonbare beïnvloeding door zinkassen dan gelden de generieke waarden voor de bodemfunctieklasse en kwaliteitsklasse wonen van tabel 1, bijlage B van de Regeling bodemkwaliteit. ** Voor de bodemfunctie- en bodemkwaliteitsklasse industrie is binnen het projectgebied De Kempen uitsluitend voor de stof cadmium een verbijzondering van toepassing. Indien niet sprake is van een aantoonbare beïnvloeding door zinkassen dan gelden de generieke waarden voor de bodemfunctieklasse en kwaliteitsklasse industrie van tabel 1, Bijlage B van de Regeling bodemkwaliteit. Met bovenstaande gebiedsgerichte verbijzondering voor moestuin en siertuin is door Gedeputeerde Staten van Noord-Brabant ingestemd op 6 april 2004 onder nummer 982886 en door Gedeputeerde Staten van de provincie Limburg op 1 juni 2004 onder besluit 2004/30014. Voor het gebruik van de concentraties in de tabel geldt, dat voor andere bodems dan de standaard bodem een bodemtype correctie moet worden uitgevoerd conform de bestaande formules voor het corrigeren van genoemde waarden. De situering en omvang van het projectgebied van Actief Bodembeheer de Kempen staat weergegeven in de volgende tekening (in kleur).   ![]()
 Figuur 1 . Overzicht projectgebied De Kempen  Het Projectgebied De Kempen betreft de volgende gemeenten:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Asten  | Maasbree  |
 | Bergeijk  | Maasgouw  |
 | Best  | Meijel  |
@@ -686,91 +707,80 @@ Figuur 1 . Overzicht projectgebied De Kempen  Het Projectgebied De Kempen betref
 
 ####behorende bij artikel 1.3  van de Regeling uniforme saneringen
 
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
-![249222](http://wetten.overheid.nl/Illustration/249222)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  5  
 
 ####behorende bij artikel 4.2  van de Regeling uniforme saneringen
 
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
-![249265](http://wetten.overheid.nl/Illustration/249265)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  6  
 
@@ -779,7 +789,7 @@ Figuur 1 . Overzicht projectgebied De Kempen  Het Projectgebied De Kempen betref
 ####Reikwijdte stoffen in de regeling uniforme saneringen waarbij sanering noodzakelijk is
 
 | Stofgroepen en Stoffen  | Categorie Mobiel*  | Categorie Immobiel, tijdelijk uitplaatsen en De Kempen*  |
-|:---|:---|:---|
+|---|---|---|
 | 1. metalen  | JA  | JA  |
 | 2. overige anorganische stoffen  | JA  | JA  |
 | 3. aromatische stoffen  | JA  | NEE  |

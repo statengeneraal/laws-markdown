@@ -54,15 +54,15 @@ f. een zaak: een door de bewindvoerder af te wikkelen schuldsaneringsboedel.
 
 1.  De bewindvoerderssubsidie wordt verstrekt naar de stand van de zaak ten tijde van de benoeming tot bewindvoerder en bedraagt per afgewikkelde zaak, inclusief de door de bewindvoerder verschuldigde BTW, en onverminderd de aanspraak op een salaris uit hoofde van het Besluit salaris bewindvoerder: 
 
-a. Indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 811 Per 1 juli 2011: € 1.022.  
+a. Indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 811 per 1 juli 2013: € 1.033.  
 
-b. Indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 1 797 Per 1 juli 2011: € 2.266.     
-2.  Indien de in het eerste lid bedoelde subsidie onevenredig hoog zou zijn in verhouding tot de verrichte werkzaamheden, en indien de voorlopige toepassing van de schuldsaneringsregeling natuurlijke personen wordt uitgesproken, kan het bestuur van de raad een lager bedrag vaststellen dan de bedragen, bedoeld in het eerste lid, maar niet lager dan € 356 Per 1 juli 2011: € 448 per afgewikkelde zaak inclusief de door de bewindvoerder verschuldigde BTW.   
+b. Indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 1 797 per 1 juli 2013: € 2.290.     
+2.  Indien de in het eerste lid bedoelde subsidie onevenredig hoog zou zijn in verhouding tot de verrichte werkzaamheden, en indien de voorlopige toepassing van de schuldsaneringsregeling natuurlijke personen wordt uitgesproken, kan het bestuur van de raad een lager bedrag vaststellen dan de bedragen, bedoeld in het eerste lid, maar niet lager dan € 356 per 1 juli 2013: € 454 per afgewikkelde zaak inclusief de door de bewindvoerder verschuldigde BTW.   
 3.  Indien sprake is van een gemeenschap van goederen ten aanzien waarvan voor meer dan een persoon de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, wordt de in het eerste lid bedoelde subsidie verhoogd met de volgende toeslag, inclusief de door de bewindvoerder verschuldigde BTW: 
 
-a. Indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 162 Per 1 juli 2011: € 205.  
+a. Indien de schulden niet in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 162 per 1 juli 2013: € 207.  
 
-b. Indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 359 Per 1 juli 2011: € 450.     
+b. Indien de schulden in belangrijke mate voortvloeien uit beroeps- of bedrijfsmatige werkzaamheden: € 359 per 1 juli 2013: € 456.     
 4.  De subsidie, bedoeld in het eerste tot en met derde lid, wordt jaarlijks door Onze Minister aangepast overeenkomstig het voor dat jaar vastgestelde percentage voor de bijdrage in de kosten van de arbeidsvoorwaardenontwikkeling aan niet VWS-gebonden gepremieerde en gesubsidieerde sectoren. Het basisbedrag wordt afgerond op hele euro's.   
 5.  De aanpassing, bedoeld in het vierde lid, vindt plaats met ingang van de eerste dag van de maand volgend op de datum waarop deze is vastgesteld, tenzij Onze Minister een andere datum van inwerkingtreding vaststelt.   
 6.  De subsidie, bedoeld in het eerste lid, wordt verhoogd met een toeslag van € 187, inclusief de door de bewindvoerder verschuldigde BTW, voor porto- en overige kosten die voortvloeien uit de taak van de bewindvoerder om belanghebbenden op de hoogte te houden van het verloop van een schuldsaneringsprocedure. Deze toeslag bedraagt € 216 indien de toeslag, bedoeld in het derde lid, wordt toegekend.   

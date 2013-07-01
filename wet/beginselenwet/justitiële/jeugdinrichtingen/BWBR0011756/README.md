@@ -168,9 +168,11 @@ h. het onderzoek in het lichaam, bedoeld in artikel 36, eerste lid;
 
 i. het gedogen van een geneeskundige handeling, bedoeld in artikel 37;  
 
-j. de bevestiging van mechanische middelen, bedoeld in artikel 38, eerste lid;  
+j. het verrichten van geneeskundige behandeling als bedoeld in artikel 51d, onder a of b;  
 
-k. de oplegging van een disciplinaire straf, bedoeld in artikel 55, de toepassing van artikel 56, eerste en tweede lid, en artikel 57, derde en vierde lid.     
+k. de bevestiging van mechanische middelen, bedoeld in artikel 38, eerste lid;  
+
+l. de oplegging van een disciplinaire straf, bedoeld in artikel 55, de toepassing van artikel 56, eerste en tweede lid, en artikel 57, derde en vierde lid.     
 5.  In afwijking van het bepaalde in het tweede en vierde lid, kan de directeur een afdelingshoofd machtigen tot het nemen van de volgende beslissingen: 
 
 a. de uitsluiting van verblijf in de groep of van deelname aan activiteiten, bedoeld in de artikelen 23, derde lid, en 24, eerste lid, de verlenging van de uitsluiting van verblijf in de groep of van deelname aan activiteiten, bedoeld in artikel 23, tweede lid en vierde lid, en artikel 24, tweede lid;  
@@ -182,6 +184,14 @@ b. de plaatsing in afzondering, bedoeld in artikel 25, eerste lid.
 
 1.  De directeur meldt ongeoorloofde afwezigheid en andere bijzondere voorvallen aan Onze Minister.   
 2.  De directeur verstrekt Onze Minister te allen tijde alle verlangde inlichtingen. Onze Minister kan nadere regels stellen omtrent de inhoud en de wijze van melding.   
+
+### Artikel  5a  
+
+1.  De directeur stelt voor zijn personeelsleden en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+4.  De directeur bevordert de kennis en het gebruik van de meldcode.   
+5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Paragraaf  3  
 
@@ -237,10 +247,11 @@ g. personen die in de inrichting verblijven en ten aanzien van wie een rechterli
 
 h. personen aan wie met toepassing van [artikel 77b van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de maatregel van terbeschikkingstelling als bedoeld in de [artikel 37a](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [37b van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) werd opgelegd, voorzover de jeugdige ten tijde van de tenuitvoerlegging de leeftijd van 21 jaar nog niet heeft bereikt, en ten aanzien van wie Onze Minister, of de rechter blijkens het vonnis of arrest waarbij de maatregel werd opgelegd, heeft bepaald dat de plaatsing van de jeugdige in een inrichting gelet op diens ontwikkeling aangewezen is.     
 2.  Onze Minister bepaalt de bestemming van elke inrichting of afdeling. Onze Minister kan delen van een inrichting als afdeling met een aparte bestemming aanwijzen.   
-3.  Inrichtingen of afdelingen daarvan kunnen door Onze Minister worden aangewezen voor de onderbrenging van jeugdigen die een bijzondere opvang of behandeling behoeven. Deze bijzondere opvang of behandeling kan verband houden met de leeftijd, de geestelijke of lichamelijke ontwikkeling van de jeugdige of de uitvoering van het perspectiefplan, alsmede met het delict waarvoor of de titel waarop de jeugdige in een inrichting verblijft.   
+3.  Inrichtingen of afdelingen daarvan kunnen door Onze Minister worden aangewezen voor de onderbrenging van jeugdigen die een bijzondere opvang of behandeling behoeven. Deze bijzondere opvang of behandeling kan verband houden met de leeftijd, de geestelijke of lichamelijke ontwikkeling van de jeugdige of de uitvoering van het perspectiefplan dan wel de verrichting van geneeskundige behandeling als bedoeld in artikel 51d, onder a, alsmede met het delict waarvoor of de titel waarop de jeugdige in een inrichting verblijft.   
 4.  Onze Minister wijst inrichtingen, afdelingen of plaatsen aan, waarin kinderen van de jeugdige tot een in de aanwijzing aangegeven leeftijd met de jeugdige kunnen worden ondergebracht.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze waarop het onderbrengen van jeugdigen in inrichtingen plaats heeft dan wel omtrent de wijze waarop de bijzondere bestemming invulling krijgt.   
 6.  Onze Minister kan ten aanzien van de in het eerste lid onder h. aangeduide personen bepalen dat de tenuitvoerlegging van de maatregel van terbeschikkingstelling kan voortduren ook nadat de leeftijd van 21 jaar is bereikt, maar de behandeling zich tegen onmiddellijke overplaatsing verzet. In deze gevallen wordt de jeugdige zo snel als de behandeling dit toelaat, overgeplaatst naar een inrichting als bedoeld in [artikel 1, onderdeel b. van de Beginselenwet verpleging ter beschikking gestelden](../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).   
+7.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwezigheid van de benodigde voorzieningen in een inrichting of afdeling voor de verrichting van geneeskundige behandeling als bedoeld in artikel 51d, onder a. In elk geval worden nadere regels gesteld omtrent de beschikbaarheid van een psychiater en een verpleegkundige ten dienste van deze inrichting of afdeling.   
 
 ### Artikel  9  
 
@@ -971,13 +982,15 @@ h. het onderzoek in het lichaam, bedoeld in artikel 36, eerste lid;
 
 i. het gedogen van een geneeskundige handeling, bedoeld in artikel 37;  
 
-j. de bevestiging door mechanische middelen, bedoeld in artikel 38, eerste lid;  
+j. het verrichten van geneeskundige behandeling als bedoeld in artikel 51d, onder a of b;  
 
-k. de oplegging van een disciplinaire straf, bedoeld in artikel 55 en de toepassing van de artikelen 56 en 57, derde lid;  
+k. de bevestiging door mechanische middelen, bedoeld in artikel 38, eerste lid;  
 
-l. de observatie door middel van een camera, bedoeld in de artikelen 25a, eerste lid, en 55a, eerste lid.     
+l. de oplegging van een disciplinaire straf, bedoeld in artikel 55 en de toepassing van de artikelen 56 en 57, derde lid;  
+
+m. de observatie door middel van een camera, bedoeld in de artikelen 25a, eerste lid, en 55a, eerste lid.     
 2.  Van het horen van de jeugdige wordt aantekening gehouden.   
-3.  Toepassing van het eerste lid, onder d, e, f, g, h, i en j kan achterwege blijven indien: 
+3.  Toepassing van het eerste lid, onder d, e, f, g, h, i en k kan achterwege blijven indien: 
 
 a. de vereiste spoed zich daartegen verzet;  
 
@@ -1199,6 +1212,7 @@ c. vernietiging van de uitspraak van de beklagcommissie.
 1.  De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de artikelen 18 en 19 een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 78, eerste lid. De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in artikel 18, vijfde lid, achterwege is gebleven.   
 2.  De jeugdige heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge artikel 65, eerste en tweede lid, openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 78, eerste lid.   
 3.  Het tweede lid is overeenkomstig van toepassing op de beslissing van Onze Minister, strekkende tot weigering van het verlenen van een machtiging tot deelname aan het scholings- en trainingsprogramma, na het verzoek, bedoeld in artikel 3, zesde lid. De jeugdige heeft ook het recht een beroepschrift in te dienen indien een tijdige beslissing op de aanvraag tot het verlenen van een machtiging uitblijft en tegen de beslissing tot intrekking van die machtiging door Onze Minister.   
+3.  Tegen een beslissing als bedoeld in artikel 51e, eerste lid, kan rechtstreeks beroep worden ingesteld bij de Raad.   
 
 ### Artikel  78  
 

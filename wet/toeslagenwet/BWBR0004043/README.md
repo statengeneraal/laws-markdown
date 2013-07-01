@@ -78,31 +78,31 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 a. recht heeft op loondervingsuitkering, en  
 
-b. per dag een inkomen heeft dat lager is dan € 59,80 per 1 januari 2013: € 67,56.     
+b. per dag een inkomen heeft dat lager is dan € 67,94.     
 2.  Recht op toeslag heeft een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering;  
 
 b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) niet van toepassing zou zijn, en  
 
-c. per dag een inkomen heeft dat lager is dan € 54,61 per 1 januari 2013: € 63,70.     
+c. per dag een inkomen heeft dat lager is dan € 63,83.     
 3.  Behoudens het vierde lid heeft voorts recht op toeslag een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering, en  
 
 b. per dag een inkomen heeft dat lager is dan: 
 
-1°. indien hij 23 jaar of ouder is: € 46,12 per 1 januari 2013: € 51,21;  
+1°. indien hij 23 jaar of ouder is: € 51,26;  
 
-2°. indien hij 22 jaar is: € 35,29 per 1 januari 2013: € 40,26;  
+2°. indien hij 22 jaar is: € 40,48;  
 
-3°. indien hij 21 jaar is: € 29,64 per 1 januari 2013: € 33,96;  
+3°. indien hij 21 jaar is: € 34,07;  
 
-4°. indien hij 20 jaar is: € 24,76 per 1 januari 2013: € 28,40;  
+4°. indien hij 20 jaar is: € 28,47;  
 
-5°. indien hij 19 jaar is: € 21,14 per 1 januari 2013: € 23,73;  
+5°. indien hij 19 jaar is: € 23,90;  
 
-6°. indien hij 18 jaar is: € 19,06 per 1 januari 2013: € 19,88.       
+6°. indien hij 18 jaar is: € 19,96.       
 4.  Geen recht op toeslag heeft de in het derde lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.   
 5.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.   
 6.  Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.   
@@ -158,8 +158,8 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 ### Artikel  8  
 
-1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 59,80 per 1 januari 2013: € 67,56 en het inkomen per dag.   
-2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 54,61 per 1 januari 2013: € 63,70 en het inkomen per dag.   
+1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 67,94 en het inkomen per dag.   
+2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 63,83 en het inkomen per dag.   
 3.  Voor de persoon, bedoeld in artikel 2, derde lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, derde lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.   
 
 ### Artikel  8a  
@@ -177,8 +177,8 @@ c. de persoon, bedoeld in artikel 2, derde lid, indien het dagloon, vervolgdaglo
 
 ### Artikel  9  
 
-1.  De in de artikelen 2 en 8 genoemde bedragen worden gewijzigd overeenkomstig de wijze en met ingang van de dag waarop de bedragen, genoemd in [hoofdstuk 3 van de Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), worden gewijzigd. De herziene bedragen treden voor de in de artikelen 2 en 8 genoemde bedragen in de plaats.   
-2.  Van de herziene bedragen, bedoeld in het eerste lid, wordt door Onze Minister mededeling gedaan in de Staatscourant.   
+1.  De in de artikelen 2 en 8 genoemde bedragen worden gewijzigd overeenkomstig de wijze en met ingang van de dag waarop de bedragen, genoemd in [hoofdstuk 3 van de Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), worden gewijzigd. De gewijzigde bedragen treden voor de in de artikelen 2 en 8 genoemde bedragen in de plaats.   
+2.  Van de gewijzigde bedragen, bedoeld in het eerste lid, en de dag waarop de wijziging plaats vindt, wordt door Onze Minister mededeling gedaan in de Staatscourant.   
 
 ### §  3  
 
@@ -268,9 +268,10 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 ### Artikel  14g  
 
 1.  Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete met een toeslag op grond van deze wet, een uitkering op grond van de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) of de [Wet arbeid en zorg](../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md), die degene aan wie de bestuurlijke boete is opgelegd ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
-3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
-4.  Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 14a, negende lid, niet of niet behoorlijk nakomt: 
+2.  Onverminderd het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het Uitvoeringsinstituut werknemersverzekeringen indien degene aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
+4.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het Uitvoeringsinstituut werknemersverzekeringen. Indien het Uitvoeringsinstituut werknemersverzekeringen gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan degene aan wie de boete is opgelegd.   
+5.  Zolang degene die aanspraak maakt op een toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 14a, negende lid, niet of niet behoorlijk nakomt: 
 
 a. is het Uitvoeringsinstituut werknemersverzekeringen in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
@@ -282,7 +283,9 @@ b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van 
 2.  Artikel 14g, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 14a, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het Uitvoeringsinstituut werknemersverzekeringen kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 14g, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de toeslag op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de toeslag kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de toeslag op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de toeslag kan afhankelijk worden gesteld van de leefsituatie.   
+6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.   
 
 ### §  5  
 

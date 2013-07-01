@@ -16,14 +16,14 @@ d. *cocablad:* het blad van de plant van een der soorten van het geslacht Erythr
 
 e. *ruwe cocaïne:* alle producten, getrokken uit het cocablad, die rechtstreeks of middellijk kunnen dienen voor de vervaardiging van cocaïne;  
 
-f. *ecgonine:* de linksdraaiende ecgonine ([a]   ![247239](http://wetten.overheid.nl/Illustration/247239)
+f. *ecgonine:* de linksdraaiende ecgonine ([a]   ![]()
 = 45.6 bepaald in een oplossing van 5% in water) met de formule C <sub>9</sub> H <sub>15</sub> NO <sub>3</sub> H <sub>2</sub> O, en alle derivaten van deze ecgonine, die in de industrie gebruikt zouden kunnen worden om opnieuw ecgonine te maken;  
 
 g. *morphine:* het voornaamste alcaloïde van opium, met de scheikundige formule C <sub>17</sub> H <sub>19</sub> NO <sub>3</sub>;  
 
 h. *diacetylmorphine:* diacetylmorphine (diamorphine, heroïne) dat de formule heeft C <sub>21</sub> H <sub>23</sub> NO <sub>5</sub>;  
 
-i. *cocaïne:* de methylester van de linksdraaiende benzoyl-ecgonine ([a]   ![247239](http://wetten.overheid.nl/Illustration/247239)
+i. *cocaïne:* de methylester van de linksdraaiende benzoyl-ecgonine ([a]   ![]()
 = –16.4 bepaald in een oplossing van 20% in chloroform) met de formule C17H21NO4;  
 
 j. *hennep:* de bloeiende of vruchtdragende toppen, of delen daarvan, van iedere plant van het geslacht cannabis (met uitzondering van de zaden en bladeren indien deze niet vergezeld gaan van de toppen) waaruit de hars niet is geëxtraheerd, met welke naam ook aangeduid;  
@@ -36,7 +36,11 @@ m. *zelfstandigheid:* stof van menselijke, dierlijke, plantaardige of chemische 
 
 n. *bereiding:* een vast of vloeibaar mengsel van zelfstandigheden;  
 
-o. *middel:* zelfstandigheid of bereiding.     
+o. *middel:* zelfstandigheid of bereiding;  
+
+p. *Verdrag tegen sluikhandel:* het op 20 december 1988 tot stand gekomen Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 1989, 97);  
+
+q. *Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel:* het op 31 januari 1995 te Straatsburg tot stand gekomen Verdrag inzake de sluikhandel over zee, ter uitvoering van artikel 17 van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen (Trb. 2010, 165 en 239).     
 2.  Onder invoeren van middelen, bedoeld in artikelen 3 en 4, is begrepen: het invoeren van de voorwerpen of goederen, waarin de middelen verpakt of geborgen zijn en elke op het verder vervoer, de opslag, de aflevering, ontvangst of overdracht gerichte handeling van wie het ook zij, met betrekking tot de hier te lande aanwezige, niet in het vrije verkeer gebrachte middelen zelve, of tot de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.   
 3.  Onder uitvoering van middelen, bedoeld in de artikelen 3 en 4, is begrepen: het uitvoeren van de voorwerpen of goederen, waarin de middelen verpakt of geborgen zijn en het met bestemming naar het buitenland vervoeren, ten vervoer aannemen of ten vervoer aanbieden, het ten uitvoer aangeven en het in, op of aan een naar het buitenland bestemd vaar- of voertuig aanwezig hebben van de zich hier te lande in het vrije verkeer bevindende middelen zelve, of van de voorwerpen of goederen, waarin die middelen verpakt of geborgen zijn.   
 
@@ -125,7 +129,7 @@ a. voor zover Onze Minister dit heeft bepaald ten aanzien van een in artikel 3, 
 b. voor zover Onze Minister schriftelijk verlof heeft gegeven tot het verrichten van een of meer van de daar bedoelde handelingen.   Voor ieder verlof, in dit artikel bedoeld, kan een jaarlijkse vergoeding worden geheven volgens een tarief, overeenkomstig regelen, bij algemene maatregel van bestuur, vast te stellen.   
 2.  Behoudens bij algemene maatregel van bestuur te geven voorschriften is het verbod tot het bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken of vervoeren van de in de artikelen 3, eerste lid, a, c, d, e en f, en 3a, eerste lid bedoelde middelen en tot het bezitten en aanwezig hebben van die middelen en van de in artikel 4, eerste lid, onder a en b bedoelde middelen mede niet van toepassing: 
 
-a. op gevestigde apothekers en geneeskundigen tot het afleveren van geneesmiddelen bevoegd, mits zij deze middelen slechts voor geneeskundig doel bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren, bezitten of aanwezig hebben, en bij een en ander in acht nemen de bepalingen van de [Wet op de geneesmiddelenvoorziening BES](../../../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md) of de bepalingen, welke deze wet te eniger tijd vervangen, en de nadere voorschriften door Onze Minister te geven om naleving van de bepalingen van het Enkelvoudig Verdrag te verzekeren;  
+a. op gevestigde apothekers en geneeskundigen tot het afleveren van geneesmiddelen bevoegd, mits zij deze middelen slechts voor geneeskundig doel bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren, bezitten of aanwezig hebben, en bij een en ander in acht nemen de bepalingen van de Wet op de geneesmiddelenvoorziening BES of de bepalingen, welke deze wet te eniger tijd vervangen, en de nadere voorschriften door Onze Minister te geven om naleving van de bepalingen van het Enkelvoudig Verdrag te verzekeren;  
 
 b. op gevestigde dierenartsen, mits zij deze middelen slechts voor geneeskundig doel ten behoeve van dieren bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken, vervoeren, bezitten of aanwezig hebben, en bij een en ander in acht nemen de voorschriften door Onze Minister te geven om naleving van de bepalingen van het Enkelvoudig Verdrag te verzekeren.     
 3.  Het verbod, gesteld in de artikelen 3, eerste lid, B voor zoveel het betreft het vervoeren, het, verbod gesteld in de artikelen 3, eerste lid, C met betrekking tot de in dat lid onder a, c, d, e en f genoemde middelen, en 3a, eerste lid, C, met betrekking tot het in dat lid genoemde middel, en dat in artikel 4, eerste lid, B, met betrekking tot de aldaar onder a en b bedoelde middelen, is mede niet van toepassing op hen, die aantonen, dat zij deze middelen in de bevonden hoeveelheid tot uitoefening der geneeskunde der tandheelkunde of der diergeneeskunde of voor eigen geneeskundig gebruik behoeven of volgens wettelijk voorschrift in voorraad moeten hebben en langs wettige weg verkregen hebben.   
@@ -152,16 +156,14 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 a. de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren;  
 
-b. de bij [artikel 184 van het Wetboek van Strafvordering Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen ambtenaren;  
+b. de bij artikel 184 van het Wetboek van Strafvordering Bonaire, Sint Eustatius en Saba aangewezen ambtenaren;  
 
-c. de door Onze Minister aangewezen ambtenaren van het Staatstoezicht op de volksgezondheid;  
-
-d. de ambtenaren van de belastingdienst, bevoegd inzake douane.    
+c. de ambtenaren van de belastingdienst, bevoegd inzake douane.    
 
 ### Artikel  9a  
 
 1.  De in artikel 9 bedoelde ambtenaren zijn bevoegd alle plaatsen met uitzondering van woningen zonder de uitdrukkelijke toestemming van de bewoner, waar, naar zij redelijkerwijs kunnen vermoeden, in verband met de uitoefening van een bedrijf, middelen of bereidingen als bedoeld in de artikelen 3, 3a en 4 aanwezig zijn, te betreden, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Zij zijn bevoegd zich te doen vergezellen door personen die daartoe door hen zijn aangewezen, voor zover dit voor het doel van het betreden redelijkerwijs nodig is. Wordt hun de toegang geweigerd, dan verschaffen zij zich die desnoods met behulp van de sterke arm.   
-2.  De in artikel 9, onderdeel a, bedoelde ambtenaren hebben te allen tijde toegang tot alle plaatsen, waar, naar zij redelijkerwijze kunnen vermoeden, middelen of bereidingen als bedoeld in de artikelen 3, 3a en 4 aanwezig zijn, en kunnen op die plaatsen ter inbeslagneming huiszoeking doen. Is de plaats een woning, tevens een woning of alleen door een woning toegankelijk, dan treden zij deze zonder de uitdrukkelijke toestemming van de bewoner niet binnen dan op algemene of bijzondere schriftelijke last van de officier van justitie, of op een bijzondere schriftelijke last van een hulp-officier. Van het binnentreden wordt door hen procesverbaal opgemaakt, dat binnen twee maal vierentwintig uur aan degene, wiens woning is binnengetreden in afschrift wordt toegezonden.   
+2.  De in artikel 9, onderdelen a en b, bedoelde ambtenaren hebben te allen tijde toegang tot alle plaatsen, waar, naar zij redelijkerwijze kunnen vermoeden, middelen of bereidingen als bedoeld in de artikelen 3, 3a en 4 aanwezig zijn, en kunnen op die plaatsen ter inbeslagneming huiszoeking doen. Is de plaats een woning, tevens een woning of alleen door een woning toegankelijk, dan treden zij deze zonder de uitdrukkelijke toestemming van de bewoner niet binnen dan op algemene of bijzondere schriftelijke last van de officier van justitie, of op een bijzondere schriftelijke last van een hulp-officier. Van het binnentreden wordt door hen procesverbaal opgemaakt, dat binnen twee maal vierentwintig uur aan degene, wiens woning is binnengetreden in afschrift wordt toegezonden.   
 
 ### Artikel  9b  
 
@@ -298,11 +300,12 @@ Voor de toepassing van de artikelen 11 a t/m c wordt onder voorwerpen mede begre
 
 1.  De bij of krachtens deze wet strafbaar gestelde feiten worden, voor zoveel zij bestaan in overtredingen van de artikelen 2, 2a, 3, eerste lid, 3a, eerste lid, 4, eerste lid, en 5 of van de regelen gesteld krachtens artikel 3, vijfde lid, 3a, tweede lid, of 4, derde lid of in het niet voldoen aan de voorwaarden of voorschriften, bij een verlof, bedoeld in de artikelen 6, 7 en 8, of bij de herroeping van een zodanig verlof gesteld, beschouwd als misdrijven en anders als overtredingen. De in de artikelen 11 a t/m c strafbaar gestelde feiten worden beschouwd als misdrijven, die in artikel 11, derde lid, als overtredingen.   
 2.  Op feiten, vallende onder een strafbepaling van deze wet, zijn niet van toepassing de strafbepalingen, voorkomende in de wetten, betreffende de invoerrechten en accijnzen.   
-3.  Het [Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) is toepasselijk op ieder die zich buiten Bonaire, Sint Eustatius en Saba schuldig maakt aan: 
+3.  Het Wetboek van Strafrecht BES is toepasselijk op ieder die zich buiten Bonaire, Sint Eustatius en Saba schuldig maakt aan: 
 
 a. een der in artikel 11 a strafbaar gestelde feiten voor zover die zijn gepleegd om opzettelijk handelen in strijd met artikel 3, eerste lid, onderdeel A, of artikel 3a, eerste lid, onderdeel A, voor te bereiden of te bevorderen, dan wel  
 
 b. poging tot of deelneming aan het opzettelijk handelen in strijd met artikel 3, eerste lid, onderdeel A, of artikel 3a, eerste lid onderdeel A of artikel 4, eerste lid, onderdeel A.     
+4.  Het Wetboek van Strafrecht BES is toepasselijk op een der in de artikelen 11, eerste en tweede lid, en 11a tot en met 11c strafbaar gestelde feiten, indien het feit is gepleegd aan boord van een buitenlands vaartuig dan wel een vaartuig zonder nationaliteit of een daarmee gelijk gesteld vaartuig uit hoofde van het internationale recht, op open zee, en wordt opgetreden in het kader van de toepassing van het Verdrag ter uitvoering van artikel 17 van het Verdrag tegen sluikhandel.   
 
 ### Artikel  15  
 

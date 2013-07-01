@@ -30,6 +30,16 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 – *eigenrisicodrager*: de werkgever aan wie op grond van [artikel 40, aanhef en eerste lid, onderdeel b, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) toestemming is verleend om zelf het risico te dragen van betaling van het daarvoor in aanmerking komende deel van de WGA-uitkering;  
 
+– *inkomen uit arbeid:* loon als bedoeld in artikel 12, met dien verstande dat niet tot het inkomen uit arbeid worden gerekend: 
+
+1°. uitkeringen op grond van een werknemersverzekering en de [Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of wachtgeld als bedoeld in [artikel 6, vijfde lid, tweede zin, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) al dan niet vermeerderd met een toeslag op grond van de Toeslagenwet en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;  
+
+2°. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), alsmede hetgeen door de werknemer met een publiekrechtelijke dienstbetrekking wordt genoten op grond van naar aard en strekking met artikel 629 van Boek 7 van het Burgerlijk Wetboek overeenkomstige regelingen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) en de aanvullingen daarop van degene tot wie de werknemer in dienstbetrekking staat;  
+
+3°. het voordeel van het voor privé-doeleinden ter beschikking stellen van een auto, bedoeld in [artikel 13bis van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+
+4°. een uitkering ingevolge een voorziening op grond van een levensloopregeling als bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);    
+
 – *justitiële inrichting*: een penitentiaire inrichting, een inrichting voor verpleging van ter beschikking gestelden, of een inrichting als bedoeld in [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
 
 – *lichaam*: publiekrechtelijke of privaatrechtelijke rechtspersoon, maat- en vennootschap, samenwerkingsvorm zonder rechtspersoonlijkheid die maatschappelijk kan worden gelijkgesteld met een vereniging, onderneming van publiekrechtelijke rechtspersonen en doelvermogens;  
@@ -69,6 +79,21 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 2°. die niet in Nederland woont en die belastbare winst uit Nederlandse onderneming als bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) vermeerderd met de ondernemersaftrek, bedoeld in [paragraaf 3.2.4 van die wet](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de MKB-winstvrijstelling, bedoeld in [paragraaf 3.2.5 van die wet](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft; of  
 
 3°. die directeur-grootaandeelhouder is, en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is.      
+
+### Artikel  1a  
+
+1.  Onder arbeidsuur wordt in deze wet verstaan: 
+
+a. uur waarover een werknemer inkomen uit arbeid heeft ontvangen; of  
+
+b. uur waarover een werknemer recht heeft op inkomen uit arbeid.     
+2.  Bij ministeriële regeling kunnen regels worden gesteld waarbij: 
+
+a. uren worden gelijkgesteld met een arbeidsuur als bedoeld in het eerste lid;  
+
+b. arbeidsuren als bedoeld in het eerste lid niet als arbeidsuren worden aangemerkt;  
+
+c. vastgesteld wordt welke in het kader van een dienstbetrekking ontvangen bedragen in aanmerking komen voor omrekening naar arbeidsuren en hoeveel arbeidsuren deze bedragen vertegenwoordigen.     
 
 ### Artikel  2  
 
@@ -133,7 +158,7 @@ Gedeeltelijk arbeidsgeschikt is hij die als rechtstreeks en objectief medisch va
 3.  Onder arbeid als bedoeld in artikel 4, eerste lid, en 5 wordt verstaan alle algemeen geaccepteerde arbeid waartoe de verzekerde met zijn krachten en bekwaamheden in staat is.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het eerste, tweede en derde lid, en de artikelen 4 en 5 nadere en zo nodig afwijkende regels worden gesteld die voor volledig en duurzaam arbeidsongeschikten en gedeeltelijk arbeidsgeschikten verschillend kunnen zijn. Hierbij kan tevens onderscheid worden gemaakt tussen de situaties, bedoeld in artikel 4, tweede en derde lid.   
 5.  De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur, dan wel de vaststelling van een ministeriële regeling op basis van een dergelijke algemene maatregel van bestuur, wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.   
-6.  Bij de beoordeling, bedoeld in het eerste lid, maakt de verzekeringsarts zo veel mogelijk gebruik van de bij ministeriële regeling vastgelegde wetenschappelijke inzichten die de beoordeling van de arbeidsongeschiktheid of de gedeeltelijke arbeidsgeschiktheid kunnen ondersteunen.   
+6.  Bij de beoordeling, bedoeld in het eerste lid, maakt de verzekeringsarts zo veel mogelijk gebruik van wetenschappelijke inzichten die de beoordeling van de arbeidsongeschiktheid of de gedeeltelijke arbeidsgeschiktheid kunnen ondersteunen.   
 
 ### §  1.3  
 
@@ -160,7 +185,11 @@ Gedeeltelijk arbeidsgeschikt is hij die als rechtstreeks en objectief medisch va
 
 Als werknemer wordt mede beschouwd: 
 
-a. in bij ministeriële regeling aan te wijzen gevallen de persoon, die ten minste vijf of ten minste de helft van zijn arbeidsuren per kalenderweek heeft verloren als bedoeld in [artikel 16, eerste lid, onderdeel a, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), doch aan wie geen uitkering wordt verleend op grond van enige bepaling van [die wet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of van een regeling als bedoeld in onderdeel b;  
+a. in bij ministeriële regeling aan te wijzen gevallen de persoon, die: 
+
+1° in een kalenderweek ten minste vijf arbeidsuren minder heeft dan zijn gemiddeld aantal arbeidsuren per kalenderweek of een aantal arbeidsuren heeft dat ten hoogste gelijk is aan de helft van zijn gemiddeld aantal arbeidsuren per kalenderweek als bedoeld in [artikel 16, eerste lid, onderdeel a, van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), doch aan wie geen uitkering wordt verleend op grond van enige bepaling van [die wet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) of van een regeling als bedoeld in onderdeel b; of  
+
+2° als gevolg van de regels gesteld in de ministeriële regeling op grond van artikel 1a, tweede lid, geen arbeidsuren minder heeft als bedoeld onder 1°;    
 
 b. de persoon, die wegens werkloosheid niet werkt en die op grond van een bij ministeriële regeling aan te wijzen, van overheidswege getroffen regeling, uitkering ontvangt.    
 
@@ -206,12 +235,23 @@ b. minimumloon: het minimumloon, bedoeld in [artikel 8, eerste lid, van de Wet m
 
 1.  Voor de berekening van een uitkering waarop op grond van deze wet recht bestaat, wordt als dagloon beschouwd 1/261 deel van het loon dat de werknemer verdiende in de periode van één jaar, die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ziekte, het gebrek, de zwangerschap of de bevalling, die tot volledig en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid heeft geleid, is ingetreden doch ten hoogste het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) bedoelde bedrag met betrekking tot een loontijdvak van een dag.   
 2.  In afwijking van het eerste lid wordt in het in artikel 21 bedoelde geval het dagloon op de daar genoemde wijze vastgesteld.   
-3.  Bij of krachtens algemene maatregel van bestuur worden met betrekking tot de vaststelling van het dagloon, bedoeld in het eerste lid, en de herziening ervan nadere en zonodig afwijkende regels gesteld. Daarbij kunnen tevens regels worden gesteld ter bepaling van het dagloon ten behoeve van de vaststelling van de hoogte van de vervolguitkering van de WGA-uitkering, bedoeld in artikel 62, vierde lid.   
+3.  Bij algemene maatregel van bestuur worden met betrekking tot de vaststelling van het dagloon, bedoeld in het eerste lid, en de herziening ervan nadere en zonodig afwijkende regels gesteld.   
 4.  Het maandloon bedraagt: 
 
 a. indien recht op een uitkering bestaat over een volledige kalendermaand: 21,75 maal het dagloon; of  
 
 b. indien niet over een volledige kalendermaand recht op een uitkering bestaat: de uitkomst van het aantal dagen in de betreffende kalendermaand waarover recht op een uitkering bestaat gedeeld door het totaal aantal dagen in de betreffende kalendermaand vermenigvuldigd met 21,75 maal het dagloon. Bij het bepalen van het aantal dagen worden de zaterdagen en zondagen buiten beschouwing gelaten.     
+
+### Artikel  13a  
+
+####Opnieuw vaststellen dagloon
+
+1.  Het dagloon van de verzekerde, 
+
+a. die na het ontstaan van het recht op uitkering op grond van deze wet ziek is geworden, en  
+
+b. voor wie als gevolg van de toepassing van artikel 43, onderdeel a, onder 1°, geen tweede recht op een uitkering ontstaat, omdat de eerste dag van de wachttijd is gelegen op een dag dat al recht op een uitkering op grond van deze wet bestaat of indien op die eerste dag het recht op een uitkering herleeft;   wordt met ingang van de dag waarop het tweede recht op een uitkering zou zijn ontstaan opnieuw vastgesteld overeenkomstig het bepaalde bij of krachtens artikel 13, eerste lid, mits dat leidt tot een hoger dagloon dan het dagloon dat voor de berekening van de laatstelijk ontvangen uitkering in aanmerking werd genomen. In afwijking van het bepaalde bij of krachtens artikel 13 wordt bij de dagloonvaststelling, bedoeld in de eerste zin, een uitkering op grond van hoofdstuk 6 of hoofdstuk 7 niet aangemerkt als loon.   
+2.  Voor de toepassing van het eerste lid wordt in artikel 13, eerste lid, in plaats van «voorafgaande aan het aangiftetijdvak waarin de ziekte, het gebrek, de zwangerschap of de bevalling, die tot volledig en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid heeft geleid, is ingetreden» gelezen: voorafgaande aan het aangiftetijdvak waarin de ziekte, het gebrek, de zwangerschap of de bevalling, die tot het ontstaan van een tweede recht op uitkering zou hebben geleid, is ingetreden.   
 
 ### Artikel  14  
 
@@ -232,25 +272,27 @@ b. indien niet over een volledige kalendermaand recht op een uitkering bestaat: 
 
 1.  In deze wet en de daarop berustende bepalingen wordt onder arbeidsverleden verstaan de periode die wordt berekend door samentelling van: 
 
-a. het aantal kalenderjaren, gelegen in de periode vanaf en met inbegrip van 1998 tot en met het kalenderjaar voorafgaand aan het kalenderjaar waarin de dag is gelegen waarop het recht op een uitkering op grond van deze wet is ontstaan, of zou zijn ontstaan als artikel 23, zesde lid, of 64, elfde lid, niet zou zijn toegepast, waarover de werknemer aantoont over 52 of meer dagen per jaar loon te hebben ontvangen; en  
+a. het aantal kalenderjaren, vanaf en met inbegrip van 2013 tot en met het kalenderjaar onmiddellijk voorafgaande aan het kalenderjaar waarin de dag is gelegen waarop het recht op een uitkering op grond van deze wet is ontstaan, of zou zijn ontstaan als artikel 23, zesde lid, of 64, elfde lid, niet zou zijn toegepast, waarin de werknemer over 208 of meer uren loon heeft ontvangen; en  
 
-b. het aantal kalenderjaren vanaf en met inbegrip van het jaar waarin de werknemer zijn 18e verjaardag bereikte tot 1998.     
-2.  Een kalenderjaar wordt in aanmerking genomen bij de berekening, bedoeld in het eerste lid, onderdeel a, indien volgens de informatie als bedoeld in [artikel 33d van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de werknemer in dat jaar over 52 of meer dagen loon heeft ontvangen.   
-3.  Voor de toepassing van het eerste lid, onderdeel a, worden met dagen waarover loon is ontvangen, gelijkgesteld: 
+b. het aantal kalenderjaren, gelegen in de periode vanaf en met inbegrip van 1998 tot 2013, waarover de werknemer aantoont over 52 of meer dagen per jaar loon te hebben ontvangen; en  
+
+c. het aantal kalenderjaren vanaf en met inbegrip van het jaar waarin de werknemer zijn 18e verjaardag bereikte tot 1998.     
+2.  Een kalenderjaar wordt in aanmerking genomen bij de berekening, bedoeld in het eerste lid, onderdelen a en b, indien volgens de informatie als bedoeld in [artikel 33d van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de werknemer in dat jaar over 52 of meer dagen respectievelijk over 208 of meer uren loon heeft ontvangen, waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren.   
+3.  Voor de toepassing van het eerste lid, onderdelen a en b, worden met dagen waarover loon is ontvangen of met acht uren waarover loon is ontvangen, gelijkgesteld: 
 
 a. dagen waarover recht bestond op een uitkering die naar aard en strekking overeenkomt met een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) of met een uitkering op grond van deze wet voor zover deze uitkering wordt toegekend naar een arbeidsongeschiktheid van ten minste 80% respectievelijk wordt toegekend over periodes waarin de verzekerde slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur;  
 
 b. dagen waarover een persoon een uitkering ontvangt op grond van [hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend.     
-4.  Voor de toepassing van het eerste lid, onderdeel a, worden niet reeds in aanmerking genomen kalenderjaren waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of een andere gezinsbijslag als bedoeld in artikel 4, eerste lid, onderdeel h, van verordening (EG) nr. 1408/71 van de Raad van de Europese Gemeenschap van 14 juni 1971 betreffende de toepassing van socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen. De in de eerste zin bedoelde persoon wordt aangemerkt als verzorgend persoon.   
-5.  In afwijking van het vierde lid worden over de periode tot 1 januari 2005, waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of een andere gezinsbijslag als bedoeld in artikel 4, eerste lid, onderdeel h, van verordening (EG) nr. 1408/71 van de Raad van de Europese Gemeenschap van 14 juni 1971 betreffende de toepassing van socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, gelijkgesteld met, en worden dergelijke kalenderjaren over de periode van 1 januari 2005 tot 1 januari 2007 voor drie kwart gelijkgesteld met, kalenderjaren waarin over 52 of meer dagen loon is ontvangen.   
-6.  Voor de toepassing van het eerste lid, onderdeel a, worden niet reeds in aanmerking genomen kalenderjaren vanaf en met in begrip van een bij ministeriële regeling nader te bepalen kalenderjaar, waarin een persoon inkomsten ontvangt voor het verlenen van zorg op grond van een regeling voor persoonsgebonden budget, die is gegrond op [artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of op [artikel 5, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), of die voldoet aan [artikel 14a van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen, tenzij hij deze inkomsten ontvangt uit arbeid als bedoeld in [artikel 6, eerste lid, onderdeel e, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md). De eerste zin is uitsluitend van toepassing indien de in de eerste zin bedoelde persoon aantoont dat deze zorgverlening aan deze voorwaarden voldoet of heeft voldaan. Die persoon wordt aangemerkt als verzorgend persoon. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit lid.   
+4.  Voor de toepassing van het eerste lid, onderdelen a en b, worden niet reeds in aanmerking genomen kalenderjaren waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of een andere gezinsbijslag als bedoeld in artikel 3, eerste lid, onderdeel j, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen respectievelijk 208 of meer uren loon is ontvangen, waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren. De in de eerste zin bedoelde persoon wordt aangemerkt als verzorgend persoon.   
+5.  In afwijking van het vierde lid worden over de periode tot 1 januari 2005, waarin een persoon recht heeft op kinderbijslag op grond van [artikel 7 van de Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) of een andere gezinsbijslag als bedoeld in artikel 3, eerste lid, onderdeel j, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, gelijkgesteld met, en worden dergelijke kalenderjaren over de periode van 1 januari 2005 tot 1 januari 2007 voor drie kwart gelijkgesteld met, kalenderjaren waarin over 52 of meer dagen respectievelijk over 208 of meer uren loon is ontvangen waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren.   
+6.  Voor de toepassing van het eerste lid, onderdelen a en b, worden niet reeds in aanmerking genomen kalenderjaren vanaf en met in begrip van een bij ministeriële regeling nader te bepalen kalenderjaar, waarin een persoon inkomsten ontvangt voor het verlenen van zorg op grond van een regeling voor persoonsgebonden budget, die is gegrond op [artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of op [artikel 5, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), of die voldoet aan [artikel 14a van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen respectievelijk 208 of meer uren loon is ontvangen, waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren, tenzij hij deze inkomsten ontvangt uit arbeid als bedoeld in [artikel 6, eerste lid, onderdeel e, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md). De eerste zin is uitsluitend van toepassing indien de in de eerste zin bedoelde persoon aantoont dat deze zorgverlening aan deze voorwaarden voldoet of heeft voldaan. Die persoon wordt aangemerkt als verzorgend persoon. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit lid.   
 7.  Het vierde, vijfde en zesde lid vinden geen toepassing indien de verzorgende persoon in een kalenderjaar voor een periode langer dan een half jaar als werknemer in de zin van een wettelijke regeling inzake werkloosheid recht heeft op een uitkering ter zake van werkloosheid of op de loongerelateerde uitkering op grond van hoofdstuk 7 van deze wet.   
 8.  Voor de toepassing van het vierde en vijfde lid wordt onder: 
 
 a. een kind verstaan een eigen, aangehuwd of pleegkind;  
 
 b. een pleegkind verstaan een kind dat als een eigen kind wordt onderhouden en opgevoed.     
-9.  Voor de toepassing van het eerste lid, onderdeel a, worden dagen, tot een maximum van achttien maanden, waarover de werknemer onbetaald verlof heeft genoten, gelijkgesteld met dagen, waarover loon is ontvangen.   
+9.  Voor de toepassing van het eerste lid, onderdelen a en b, worden dagen, tot een maximum van achttien maanden, waarover de werknemer onbetaald verlof heeft genoten, gelijkgesteld met dagen, waarover loon is ontvangen of met acht uren waarover loon is ontvangen.   
 10.  Voor de toepassing van dit artikel wordt niet als loon beschouwd een uitkering: 
 
 a. op grond van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), met uitzondering van een uitkering op grond van [hoofdstuk IV van die wet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
@@ -260,11 +302,17 @@ b. op grond van hoofdstuk 7 van deze wet, met uitzondering van een uitkering aan
 c. op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), berekend naar een arbeidsongeschiktheid van minder dan 80%; of  
 
 d. die naar aard en strekking overeenkomt met een uitkering als bedoeld in onderdeel a, b of c.     
-11.  Bij algemene maatregel van bestuur kunnen regels worden gesteld: 
+11.  Voor de toepassing van dit artikel wordt niet als loon beschouwd: 
 
-a. ter vaststelling van het aantal dagen waarover loon is ontvangen, bedoeld in het eerste lid, onderdeel a, en tweede lid;  
+a. het voordeel van het voor privé-doeleinden ter beschikking stellen van een auto, bedoeld in [artikel 13bis van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
 
-b. op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in het eerste lid, onderdeel a, en tweede lid, dagen waarover, anders dan bedoeld in het negende lid, geen loon is ontvangen, worden gelijkgesteld met dagen waarover loon is ontvangen.     
+b. een uitkering ingevolge een voorziening op grond van een levensloopregeling als bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).     
+12.  Bij algemene maatregel van bestuur kunnen regels worden gesteld: 
+
+a. ter vaststelling van het aantal dagen waarover loon is ontvangen, bedoeld in het eerste lid, onderdeel b, en tweede lid;  
+
+b. op grond waarvan voor het bepalen van het aantal van 52 dagen, bedoeld in het eerste lid, onderdeel b, en tweede lid, dagen waarover, anders dan bedoeld in het negende lid, geen loon is ontvangen, worden gelijkgesteld met dagen waarover loon is ontvangen.     
+13.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ter vaststelling van het aantal uren, bedoeld in het eerste lid, onderdeel a, en tweede lid.   
 
 ### Hoofdstuk  2  
 
@@ -438,7 +486,7 @@ Voorzover daarvan in deze paragraaf niet wordt afgeweken zijn de overige artikel
 ####De wachttijd
 
 1.  Voordat de verzekerde aanspraak kan maken op een uitkering op grond van deze wet geldt voor hem een wachttijd van 104 weken.   
-2.  Als eerste dag van de wachttijd geldt de eerste werkdag al dan niet in een dienstbetrekking waarop door de verzekerde wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt. Bij ministeriële regeling kunnen nadere en afwijkende regels worden gesteld in verband met het voor bijzondere gevallen vaststellen van welke dag als eerste werkdag wordt aangemerkt.   
+2.  Als eerste dag van de wachttijd geldt de eerste werkdag al dan niet in een dienstbetrekking waarop door de verzekerde wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt. Bij ministeriële regeling kunnen nadere regels worden gesteld en kunnen dagen waarop niet zou worden gewerkt als werkdag worden aangemerkt.   
 3.  Bij het bepalen van de wachttijd worden de volgende perioden in aanmerking genomen: 
 
 a. perioden waarin recht bestaat op ziekengeld als bedoeld in de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de daarop berustende bepalingen worden in aanmerking genomen en worden samengeteld, indien zij: 
@@ -470,7 +518,7 @@ a. [artikel 29](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) of 
 
 b. zwaarwegende omstandigheden zich daartegen verzetten.     
 2.  Het verlengde tijdvak, bedoeld in het eerste lid, eindigt op de door het UWV aangegeven datum en kan op verzoek van de werkgever of de verzekerde worden verkort, of wordt op hun gezamenlijk verzoek verder verlengd tenzij zwaarwegende omstandigheden zich daartegen verzetten.   
-3.  Het UWV stelt bij toepassing van het tweede lid een nieuwe datum vast waarop het verlengde tijdvak eindigt, met dien verstande dat dit tijdvak niet eerder eindigt dan vijftien weken na het verzoek, bedoeld in het tweede lid, tenzij de werkgever voor het verstrijken van het tijdvak van die vijftien weken geen loon meer verschuldigd is, omdat de dienstbetrekking is geëindigd.   
+3.  Het UWV stelt bij toepassing van het tweede lid een nieuwe datum vast waarop het verlengde tijdvak eindigt, met dien verstande dat dit tijdvak niet eerder eindigt dan dertien weken na het verzoek, bedoeld in het tweede lid, tenzij de werkgever voor het verstrijken van het tijdvak van die dertien weken geen loon meer verschuldigd is, omdat de dienstbetrekking is geëindigd.   
 
 ### Artikel  25  
 
@@ -478,12 +526,12 @@ b. zwaarwegende omstandigheden zich daartegen verzetten.
 
 1.  De werkgever jegens wie de verzekerde, bij ongeschiktheid tot het verrichten van arbeid wegens ziekte, recht heeft op loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) dan wel aanspraak heeft op bezoldiging op grond van [artikel 76a, eerste lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) houdt aantekening van het verloop van de ziekte en de reïntegratie van de verzekerde.   
 2.  De werkgever, bedoeld in het eerste lid, stelt binnen een bij ministeriële regeling nader te bepalen termijn, in overeenstemming met de verzekerde een plan van aanpak op. De afspraken die in het plan van aanpak zijn gemaakt worden door werkgever en verzekerde nageleefd. Het plan van aanpak wordt periodiek geëvalueerd.   
-3.  Uiterlijk vijftien weken voor het verstrijken van de wachttijd stelt de werkgever, bedoeld in het eerste lid, in overleg met de verzekerde een reïntegratieverslag op en verstrekt hiervan een afschrift aan de verzekerde.   
+3.  Uiterlijk dertien weken voor het verstrijken van de wachttijd stelt de werkgever, bedoeld in het eerste lid, in overleg met de verzekerde een reïntegratieverslag op en verstrekt hiervan een afschrift aan de verzekerde.   
 4.  Indien artikel 24, eerste lid, toepassing heeft gevonden: 
 
-a. stelt de werkgever in overleg met de verzekerde, indien hij nog geen reïntegratieverslag heeft opgesteld, in afwijking van het derde lid, het reïntegratieverslag uiterlijk vijftien weken voor het verstrijken van het door het UWV vastgestelde verlengde tijdvak, bedoeld in artikel 24, eerste lid, op en verstrekt een afschrift daarvan aan de verzekerde;  
+a. stelt de werkgever in overleg met de verzekerde, indien hij nog geen reïntegratieverslag heeft opgesteld, in afwijking van het derde lid, het reïntegratieverslag uiterlijk dertien weken voor het verstrijken van het door het UWV vastgestelde verlengde tijdvak, bedoeld in artikel 24, eerste lid, op en verstrekt een afschrift daarvan aan de verzekerde;  
 
-b. vult de werkgever in overleg met de verzekerde, indien hij al een reïntegratieverslag heeft opgesteld dit reïntegratieverslag uiterlijk vijftien weken voor het verstrijken van het door het UWV vastgestelde verlengde tijdvak, bedoeld in artikel 24, eerste lid, aan en verstrekt een afschrift daarvan aan de verzekerde, tenzij de verzekerde verzoekt dit, in verband met het doen van een aanvraag als bedoeld in artikel 64 eerder te doen. De werkgever komt binnen twee weken aan dit verzoek tegemoet.     
+b. vult de werkgever in overleg met de verzekerde, indien hij al een reïntegratieverslag heeft opgesteld dit reïntegratieverslag uiterlijk dertien weken voor het verstrijken van het door het UWV vastgestelde verlengde tijdvak, bedoeld in artikel 24, eerste lid, aan en verstrekt een afschrift daarvan aan de verzekerde, tenzij de verzekerde verzoekt dit, in verband met het doen van een aanvraag als bedoeld in artikel 64 eerder te doen. De werkgever komt binnen twee weken aan dit verzoek tegemoet.     
 5.  Bij de uitvoering van het eerste tot en met het vierde lid laat de werkgever zich bijstaan door een persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de bijstand, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) of door een arbodienst.   
 6.  De verzekerde verleent zijn medewerking bij het opstellen van het plan van aanpak en het opstellen van het reïntegratieverslag.   
 7.  Bij ministeriële regeling kunnen regels met betrekking tot het eerste tot en met zesde lid worden gesteld.   
@@ -666,14 +714,19 @@ d. noodzakelijke persoonlijke ondersteuning bij het verrichten van de aan de per
 
 a. die werkgever aantoont dat het totaal van de kosten die hij maakt of heeft gemaakt ten behoeve van het in dienst houden of in dienst nemen van een werknemer met een naar het oordeel van het UWV structurele functionele beperking meer bedraagt dan bij algemene maatregel van bestuur te bepalen bedragen, die in hoogte verschillen afhankelijk van de hoogte van het loon van de werknemer;  
 
-b. die werkgever, na ommekomst van de periode van 3 respectievelijk 1 jaar, genoemd in [artikel 49 van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), kosten maakt of heeft gemaakt ten behoeve van het in dienst houden van een werknemer als bedoeld in onderdeel a.     
+b. die werkgever, na ommekomst van de periode van 3 respectievelijk 1 jaar, genoemd in [artikel 49 van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), kosten maakt of heeft gemaakt ten behoeve van het in dienst houden van een werknemer als bedoeld in onderdeel a;  
+
+c. die werkgever kosten heeft gemaakt als bedoeld in het tweede lid en de periode van drie respectievelijk één jaar, bedoeld in onderdeel b, voortijdig wordt beëindigd op initiatief van de werknemer of omdat de werknemer wegens arbeidsongeschiktheid definitief niet in de dienstbetrekking terugkeert;  
+
+d. die werkgever kosten heeft gemaakt als bedoeld in het tweede lid en de periode van drie respectievelijk één jaar, bedoeld in onderdeel b, voortijdig wordt beëindigd omdat er bij die werkgever geen passende arbeid aanwezig is.     
 2.  Onder de kosten, bedoeld in het eerste lid, worden verstaan de kosten van voorzieningen, bedoeld in artikel 35, tweede lid, voorzover die naar de aard der zaak duurzaam zijn verenigd met het bedrijf van de werkgever.   
 3.  Een subsidie als bedoeld in het eerste lid wordt niet verstrekt, indien de subsidie wordt aangevraagd voor een werknemer voor wie reeds eerder aan de werkgever subsidie op grond van dit artikel is verstrekt, tenzij de subsidieaanvraag: 
 
 a. geen verband houdt met feiten en omstandigheden die aanleiding zijn geweest voor het verstrekken van de subsidie;  
 
 b. betrekking heeft op door de werkgever gemaakte kosten ter vervanging van de bij de arbeid te gebruiken hulpmiddelen door de werknemer.     
-4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere en zo nodig afwijkende regels worden gesteld met betrekking tot dit artikel. Daarbij kunnen regels worden gesteld met betrekking tot subsidie in geval van overgang van onderneming als bedoeld in [artikel 662 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) alsmede met betrekking tot de te verstrekken gegevens bij een aanvraag voor subsidie.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel. Daarbij kunnen regels worden gesteld met betrekking tot subsidie in geval van overgang van onderneming als bedoeld in [artikel 662 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), met betrekking tot de te verstrekken gegevens bij een aanvraag voor subsidie. Tevens kunnen daarbij regels worden gesteld met betrekking tot het niet hanteren van een drempelbedrag als bedoeld in het eerste lid, onderdeel a, indien de subsidie wordt verstrekt ten behoeve van een werknemer als bedoeld in het eerste lid, onderdeel a, voor wie de werkgever geen korting als bedoeld in [artikel 49 van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) kan toepassen.   
+5.  De bedragen in dit artikel worden verlaagd naar evenredigheid van de kortere duur van de dienstbetrekking.   
 
 ### Artikel  37  
 
@@ -805,11 +858,11 @@ b. bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbi
 a. de vindplaats van het desbetreffende verdrag of besluit, en  
 
 b. de eventueel in dat verdrag of besluit aanwezige beperkingen.     
-3.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot artikel 43, onderdeel f, afwijkende regels worden gesteld ten gunste van: 
+3.  Bij of krachtens algemene maatregel van bestuur kan worden geregeld dat het recht op een uitkering op grond van deze wet ontstaat of herleeft dan wel dat een dergelijke uitkering niet eindigt ten gunste van: 
 
-a. de verzekerde, die werkzaamheden verricht in het algemeen belang en niet in Nederland woont;  
+a. een verzekerde, die werkzaamheden verricht in het algemeen belang en niet in Nederland woont;  
 
-b. de verzekerde, die in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba woont; of  
+b. een verzekerde, die in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba woont; of  
 
 c. de gezinsleden van de in de onderdelen a of b bedoelde verzekerde.     
 
@@ -851,7 +904,7 @@ a. recht had op een WGA-uitkering;
 b. geen recht had op een WGA-uitkering omdat hij minder dan 35% arbeidsongeschikt was en de volledige en duurzame arbeidsongeschiktheid intreedt binnen vijf jaar na de in artikel 47, tweede lid, bedoelde dag en voortkomt uit dezelfde oorzaak als op grond waarvan hij gedurende de wachttijd ongeschikt was tot het verrichten van zijn arbeid; of  
 
 c. geen recht had op een WGA-uitkering omdat hij minder dan 35% arbeidsongeschikt was en de volledige en duurzame arbeidsongeschiktheid intreedt binnen vier weken na de in artikel 47, tweede lid, bedoelde dag en voortkomt uit een andere oorzaak als op grond waarvan hij gedurende de wachttijd ongeschikt was tot het verrichten van zijn arbeid.     
-2.  Indien op de dag, bedoeld in artikel 47, tweede lid, geen recht op een arbeidsongeschiktheidsuitkering is ontstaan omdat op die dag op de verzekerde een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel d, e of f, van toepassing waren, ontstaat alsnog recht op die uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet.   
+2.  Indien op de dag, bedoeld in artikel 47, tweede lid, geen recht op een arbeidsongeschiktheidsuitkering is ontstaan omdat op die dag op de verzekerde een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel d, e of f, van toepassing waren, ontstaat alsnog recht op die uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet, indien hij op die dag volledig en duurzaam arbeidsongeschikt is.   
 
 ### Artikel  49  
 
@@ -873,7 +926,7 @@ b. er op hem een uitsluitingsgrond als bedoeld in artikel 43, onderdeel d, e, f,
 a. recht had op een WGA-uitkering; of  
 
 b. geen recht had op een WGA-uitkering en de volledige en duurzame arbeidsongeschiktheid intreedt binnen vijf jaar na die dag van eindiging en voortkomt uit dezelfde oorzaak als op grond waarvan hij eerder recht had op een arbeidsongeschiktheidsuitkering.     
-2.  Indien op grond van artikel 49, eerste lid, onderdeel b, het recht op een arbeidsongeschiktheidsuitkering is geëindigd omdat op de persoon die recht had op die uitkering een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel d, e of f, van toepassing waren, herleeft het recht op die uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet.   
+2.  Indien op grond van artikel 49, eerste lid, onderdeel b, het recht op een arbeidsongeschiktheidsuitkering is geëindigd omdat op de persoon die recht had op die uitkering een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel d, e of f, van toepassing waren, herleeft het recht op die uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet, indien hij op die dag volledig en duurzaam arbeidsongeschikt is.   
 
 ### §  6.2  
 
@@ -904,7 +957,7 @@ C staat voor het dagloon waarnaar de arbeidsongeschiktheidsuitkering zou zijn be
 
 ####Verhoging uitkering bij hulpbehoevendheid
 
-Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid die geregeld oppassing en verzorging nodig maakt, wordt de arbeidsongeschiktheidsuitkering voor de duur van die hulpbehoevendheid verhoogd door vermenigvuldiging met ten hoogste een factor 100/70. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.  
+Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid die geregeld oppassing en verzorging nodig maakt, wordt de arbeidsongeschiktheidsuitkering voor de duur van die hulpbehoevendheid verhoogd door vermenigvuldiging met ten hoogste een factor 100/75. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.  
 
 ### Hoofdstuk  7  
 
@@ -940,7 +993,7 @@ a. recht had op een arbeidsongeschiktheidsuitkering;
 b. minder dan 35% arbeidsongeschikt was en de gedeeltelijke arbeidsgeschiktheid voortkomt uit dezelfde oorzaak als die op grond waarvan hij gedurende de wachttijd ongeschikt was tot het verrichten van zijn arbeid; of  
 
 c. minder dan 35% arbeidsongeschikt was en de gedeeltelijke arbeidsgeschiktheid voortkomt uit een andere oorzaak dan die op grond waarvan hij gedurende de wachttijd ongeschikt was tot het verrichten van zijn arbeid.     
-2.  Indien op de dag, bedoeld in artikel 54, tweede lid, geen recht op een WGA-uitkering is ontstaan omdat op die dag op de verzekerde een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel d, e of f, van toepassing waren, ontstaat alsnog recht op deze uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet.   
+2.  Indien op de dag, bedoeld in artikel 54, tweede lid, geen recht op een WGA-uitkering is ontstaan omdat op die dag op de verzekerde een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel d, e of f, van toepassing waren, ontstaat alsnog recht op deze uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet, indien hij op die dag gedeeltelijk arbeidsgeschikt is.   
 3.  Het recht op een WGA-uitkering kan in de situatie, bedoeld in het eerste lid, onderdeel b, en het tweede lid niet later ingaan dan vijf jaar na de dag, bedoeld in artikel 54, tweede lid, en in de situatie, bedoeld in het eerste lid, onderdeel c, niet later dan vier weken na de dag, bedoeld in artikel 54, tweede lid.   
 
 ### Artikel  56  
@@ -964,7 +1017,7 @@ b. er op hem een uitsluitingsgrond als bedoeld in artikel 43, onderdeel a, onder
 a. recht had op een arbeidsongeschiktheidsuitkering; of  
 
 b. een mate van arbeidsongeschiktheid had van minder dan 35% en de gedeeltelijke arbeidsgeschiktheid voortkomt uit dezelfde oorzaak op grond waarvan hij eerder recht had op een WGA-uitkering.     
-2.  Indien op grond van artikel 56, eerste lid, onderdeel b, geen recht op een WGA-uitkering meer bestaat omdat op de persoon die recht had op die uitkering een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel a, onder 2°, d, e of f, van toepassing waren, herleeft het recht op die uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet.   
+2.  Indien op grond van artikel 56, eerste lid, onderdeel b, geen recht op een WGA-uitkering meer bestaat omdat op de persoon die recht had op die uitkering een of meer uitsluitingsgronden als bedoeld in artikel 43, onderdeel a, onder 2°, d, e of f, van toepassing waren, herleeft het recht op die uitkering op de dag dat zich geen van deze uitsluitingsgronden meer voordoet, indien hij op die dag gedeeltelijk arbeidsgeschikt is.   
 3.  Het recht op een WGA-uitkering kan in de situatie, bedoeld in het eerste lid, onderdeel b, en het tweede lid, niet later herleven dan vijf jaar na de dag, bedoeld in artikel 56.   
 
 ### Artikel  58  
@@ -973,7 +1026,7 @@ b. een mate van arbeidsongeschiktheid had van minder dan 35% en de gedeeltelijke
 
 1.  De verzekerde voldoet aan de referte-eis indien: 
 
-a. hij in 36 weken onmiddellijk voorafgaande aan de eerste dag na de dag waarop het recht op loon op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of bezoldiging op grond van [hoofdstuk IV, vierde afdeling, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) of het recht op ziekengeld op grond van [artikel 29 van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) is geëindigd, in ten minste 26 weken als verzekerde arbeid heeft verricht;  
+a. hij in 36 kalenderweken onmiddellijk voorafgaande aan de eerste dag na de dag waarop het recht op loon op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of bezoldiging op grond van [hoofdstuk IV, vierde afdeling, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) of het recht op ziekengeld op grond van [artikel 29 van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) is geëindigd, in ten minste 26 kalenderweken ten minste één arbeidsuur per kalenderweek heeft;  
 
 b. hij onmiddellijk voorafgaande aan de eerste dag van de wachttijd recht heeft op een uitkering op grond van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
 
@@ -984,7 +1037,7 @@ d. hij onmiddellijk voorafgaande aan de eerste dag van de wachttijd wegens werkl
 e. hij onmiddellijk voorafgaande aan de eerste dag van de wachttijd wegens werkloosheid niet werkt en wachtgeld ontvangt uit hoofde van een dienstbetrekking die is geëindigd op of na 1 januari 2001 voor zover het recht op wachtgeld zich uitstrekt over een periode gelegen na het bereiken van de volledige uitkeringsduur van het, in verband met dezelfde werkloosheid ontstane, recht op uitkering op grond van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), bedoeld in [hoofdstuk II van die wet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), inclusief een eventuele verlenging van die duur op grond van [artikel 76 van die wet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md); of  
 
 f. het recht op uitkering op grond van de [Werkloosheidwet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) is geëindigd wegens het ontvangen van een uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) en de verzekerde onmiddellijk voorafgaande aan de eerste dag van de wachttijd deze laatste uitkering genoot.     
-2.  Voor de vaststelling van het aantal van 36 weken als bedoeld in het eerste lid, onderdeel a worden niet in aanmerking genomen weken gedurende welke de verzekerde: 
+2.  Voor de vaststelling van het aantal van 36 kalenderweken als bedoeld in het eerste lid, onderdeel a worden niet in aanmerking genomen kalenderweken gedurende welke de verzekerde: 
 
 a. wegens ziekte of arbeidsongeschiktheid geen arbeid kon verrichten;  
 
@@ -993,8 +1046,7 @@ b. werkzaamheden heeft verricht uit hoofde waarvan hij op grond van de [Werkloos
 c. wegens het genieten van onbetaald verlof geen arbeid heeft verricht, tot een maximum van achttien maanden; of  
 
 d. geen arbeid heeft verricht maar wel recht op uitkering heeft op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).     
-3.  Bij algemene maatregel van bestuur kan voor bepaalde groepen werknemers het in het eerste lid bedoelde aantal van 36 weken hoger worden vastgesteld en het in dat lid bedoelde aantal van 26 weken lager worden vastgesteld.   
-4.  Bij ministeriële regeling worden regels worden gesteld met betrekking tot de berekening van het aantal van 26 weken, bedoeld in het eerste lid, onderdeel a. Deze regels hebben betrekking op de gelijkstelling van weken waarin geen arbeid is verricht met weken waarin hij als verzekerde arbeid heeft verricht.   
+3.  Bij algemene maatregel van bestuur kan voor bepaalde groepen werknemers het in het eerste lid bedoelde aantal van 36 kalenderweken hoger worden vastgesteld en het in dat lid bedoelde aantal van 26 kalenderweken lager worden vastgesteld.   
 
 ### §  7.2  
 
@@ -1071,6 +1123,11 @@ e. 65–80%, 50,75%; en bij
 f. 80% of meer, 70%.     
 7.  De hoogte van de uitkering, bedoeld in het vijfde lid, wordt eerst nadat een wijziging in de mate van arbeidsongeschiktheid ten minste twee kalendermaanden heeft voortgeduurd, herzien.   
 8.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
+9.  De hoogte van de loonaanvullingsuitkering van de WGA-uitkering wordt voor de verzekerde: 
+
+a. die na het ontstaan van het recht op uitkering op grond van dit hoofdstuk ziek is geworden, en  
+
+b. voor wie als gevolg van de toepassing van artikel 43, onderdeel a, onder 1°, geen tweede recht op een uitkering op grond van dit hoofdstuk ontstaat omdat de eerste dag van de wachttijd is gelegen op een dag dat al recht op een uitkering op grond van deze wet bestaat of indien op die eerste dag het recht op een uitkering herleeft;   gedurende de periode dat, in het geval hij wel recht zou hebben gehad op een loongerelateerde uitkering en in het geval de hoogte van de loongerelateerde uitkering hoger zou zijn geweest dan de hoogte van de loonaanvullingsuitkering van de WGA-uitkering zoals die op grond van het tweede, vierde, vijfde of zevende lid is vastgesteld, vastgesteld op de hoogte van die loongerelateerde uitkering.   
 
 ### Artikel  62  
 
@@ -1088,13 +1145,13 @@ H staat voor het minimumloon per maand of het maandloon in het geval het minimum
 
 a. die na het ontstaan van recht op uitkering op grond van dit hoofdstuk ziek is geworden, en  
 
-b. voor wie als gevolg van de toepassing van artikel 43, onderdeel a, onder 1°, geen tweede recht op een uitkering op grond van dit hoofdstuk ontstaat omdat de eerste dag van de wachttijd is gelegen op een dag dat al recht op een uitkering op grond van dit hoofdstuk bestaat of indien op die eerste dag het recht op een dergelijke uitkering herleeft;   gedurende de periode dat, in het geval hij wel recht gehad zou hebben op een loongerelateerde uitkering en alleen in het geval dat de hoogte van de loongerelateerde uitkering hoger zou zijn geweest dan de hoogte van de vervolguitkering zoals die op grond van het eerste tot en met vierde lid is vastgesteld, vastgesteld op de hoogte van die loongerelateerde uitkering.   
+b. voor wie als gevolg van de toepassing van artikel 43, onderdeel a, onder 1°, geen tweede recht op een uitkering op grond van dit hoofdstuk ontstaat omdat de eerste dag van de wachttijd is gelegen op een dag dat al recht op een uitkering op grond van dit hoofdstuk bestaat of indien op die eerste dag het recht op een dergelijke uitkering herleeft;   gedurende de periode dat, in het geval hij wel recht zou hebben gehad op een loongerelateerde uitkering en in het geval dat de hoogte van de loongerelateerde uitkering hoger zou zijn geweest dan de hoogte van de vervolguitkering zoals die op grond van het eerste tot en met vierde lid is vastgesteld, vastgesteld op de hoogte van die loongerelateerde uitkering.   
 
 ### Artikel  63  
 
 ####Verhoging uitkering bij hulpbehoevendheid
 
-Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur, verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid welke geregeld oppassing en verzorging nodig maakt, wordt de WGA-uitkering voor de duur van die hulpbehoevendheid verhoogd door vermenigvuldiging met ten hoogste de factor 100/70. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.  
+Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur, verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid welke geregeld oppassing en verzorging nodig maakt, wordt de WGA-uitkering voor de duur van die hulpbehoevendheid verhoogd door vermenigvuldiging met ten hoogste de factor 100/70. Voornoemde factor bedraagt ten hoogste 100/75 gedurende de eerste twee maanden van de loongerelateerde uitkering. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.  
 
 ### Hoofdstuk  8  
 
@@ -1109,11 +1166,11 @@ Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te v
 ####Aanvraag van de uitkering
 
 1.  Het UWV stelt op aanvraag vast of recht op een uitkering op grond van artikel 47 of artikel 54 ontstaat.   
-2.  Het UWV stelt de verzekerde van de mogelijkheid van het doen van een aanvraag schriftelijk in kennis uiterlijk op de dag waarop de wachttijd 87 weken heeft geduurd. Indien artikel 24, derde lid, van toepassing is doet het UWV deze kennisgeving bij de bekendmaking van de in dat artikellid bedoelde beschikking. Het UWV verstrekt aan de werkgever een afschrift van de kennisgeving bedoeld in de eerste en tweede zin.   
-3.  De verzekerde doet zijn aanvraag uiterlijk dertien weken voor afloop van de wachttijd of indien toepassing is gegeven aan artikel 24, derde lid, dertien weken voor afloop van het in dat lid bedoelde verlengde tijdvak.   
+2.  Het UWV stelt de verzekerde van de mogelijkheid van het doen van een aanvraag schriftelijk in kennis uiterlijk op de dag waarop de wachttijd 89 weken heeft geduurd. Indien artikel 24, derde lid, van toepassing is doet het UWV deze kennisgeving bij de bekendmaking van de in dat artikellid bedoelde beschikking. Het UWV verstrekt aan de werkgever een afschrift van de kennisgeving bedoeld in de eerste en tweede zin.   
+3.  De verzekerde doet zijn aanvraag uiterlijk elf weken voor afloop van de wachttijd of indien toepassing is gegeven aan artikel 24, derde lid, elf weken voor afloop van het in dat lid bedoelde verlengde tijdvak.   
 4.  Indien het UWV de in het eerste lid bedoelde aanvraag afwijst omdat een uitsluitingsgrond als bedoeld in artikel 43, onderdeel d, e of f, van toepassing is maakt het UWV melding van de mogelijkheid tot het doen van een nieuwe aanvraag alsmede van de termijn waarbinnen een nieuwe aanvraag dient te worden gedaan.   
 5.  Indien het vierde lid van toepassing is doet de verzekerde zijn nieuwe aanvraag binnen de op grond van dat lid door het UWV aangegeven termijn.   
-6.  Een aanvraag wordt geacht tijdig te zijn ingediend indien het UWV de kennisgeving als bedoeld in het tweede lid niet heeft gedaan dan wel indien bij een latere kennisgeving dan bedoeld in het tweede lid of vierde lid de aanvraag wordt ingediend binnen vier weken nadat deze kennisgeving is ontvangen. Dit lid is niet van toepassing indien de werkgever de aangifte, bedoeld in [artikel 38, eerste lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), niet heeft gedaan voor de dag waarop de wachttijd 79 weken heeft geduurd.   
+6.  Een aanvraag wordt geacht tijdig te zijn ingediend indien het UWV de kennisgeving als bedoeld in het tweede lid niet heeft gedaan dan wel indien bij een latere kennisgeving dan bedoeld in het tweede lid of vierde lid de aanvraag wordt ingediend binnen vier weken nadat deze kennisgeving is ontvangen. Dit lid is niet van toepassing indien de werkgever de aangifte, bedoeld in [artikel 38, eerste lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), niet heeft gedaan voor de dag waarop de wachttijd 81 weken heeft geduurd.   
 7.  Indien het UWV toepassing geeft aan artikel 25, negende lid, of artikel 26, tweede lid, tweede zin, wordt de behandeling van de aanvraag opgeschort.   
 8.  Het UWV hervat de behandeling van de aanvraag in ieder geval: 
 
@@ -1140,11 +1197,11 @@ De aanvraag voor een uitkering op grond van deze wet gaat vergezeld van een reï
 
 1.  Een aanvraag voor een verkorte wachttijd als bedoeld in artikel 23, zesde lid, wordt tevens aangemerkt als aanvraag, bedoeld in artikel 64, eerste lid.   
 2.  Een aanvraag voor een verkorte wachttijd kan slechts eenmaal worden gedaan.   
-3.  Op verzoek van de werknemer verstrekt de persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die belast is met de bijstand, bedoeld in [artikel 14, eerste lid, onderdeel b, van die wet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), een verklaring waaruit de medische situatie alsmede de vooruitzichten van de werknemer blijken. De verklaring wordt mede opgesteld op basis van gegevens inzake de medische specialistische onderzoeken of behandelingen die de aanvrager heeft ondergaan, tenzij in redelijkheid niet van de bedrijfsarts kan worden gevergd dat hij deze gegevens aan zijn verklaring ten grondslag legt.   
+3.  Op verzoek van de werknemer verstrekt de persoon, bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), die belast is met de bijstand, bedoeld in artikel 14, eerste lid, onderdeel b, van die wet, een verklaring waaruit de medische situatie alsmede de vooruitzichten van de werknemer blijken. De verklaring wordt mede opgesteld op basis van gegevens inzake de medische specialistische onderzoeken of behandelingen die de aanvrager heeft ondergaan, tenzij in redelijkheid niet van de bedrijfsarts kan worden gevergd dat hij deze gegevens aan zijn verklaring ten grondslag legt.   
 4.  Een aanvraag voor een verkorte wachttijd gaat vergezeld van de verklaring, bedoeld in het derde lid.   
 5.  Indien de aanvraag voor een verkorte wachttijd niet vergezeld gaat van een verklaring als bedoeld in het derde lid, wordt de aanvraag niet in behandeling genomen.   
 6.  Artikel 65 is niet van toepassing op een aanvraag voor een verkorte wachttijd.   
-7.  Het derde, vierde en vijfde lid zijn niet van toepassing op de verzekerde aan wie ziekengeld als bedoeld in [artikel 29, tweede lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt uitgekeerd en die geen recht heeft op loon op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of op bezoldiging of hetgeen daarmee overeenkomt als bedoeld in [artikel 76a van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md).   
+7.  Het derde, vierde en vijfde lid zijn niet van toepassing op de verzekerde aan wie ziekengeld als bedoeld in [artikel 29, tweede lid, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt uitgekeerd en die geen recht heeft op loon op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of op bezoldiging of hetgeen daarmee overeenkomt als bedoeld in [artikel 76a van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), tenzij de verzekerde laatstelijk in dienstbetrekking stond tot een eigenrisicodrager, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md).   
 
 ### §  8.2  
 
@@ -1174,7 +1231,8 @@ c. de persoon, die recht heeft op een uitkering of zijn wettelijke vertegenwoord
 1.  In afwijking van artikel 67, eerste lid, betaalt het UWV een gedeelte van de uitkering waarop op grond van deze wet recht bestaat als vakantiebijslag jaarlijks in de maand mei over de aan die maand voorafgaande kalendermaanden, of, indien het recht op uitkering eerder dan in de maand mei geheel eindigt, in de desbetreffende kalendermaand. De vakantiebijslag bedraagt 8/108 van de uitkering.   
 2.  Indien het percentage van de vakantiebijslag, bedoeld in [artikel 15, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), wordt gewijzigd, wijzigt de in het eerste lid genoemde breuk dienovereenkomstig. Het gewijzigde percentage wordt in aanmerking genomen over de uitkering waarop op grond van deze wet recht bestaat vanaf de dag waarop de wijziging ingaat.   
 3.  De vakantiebijslag wordt betaald zonder dat dit bij beschikking is vastgesteld.   
-4.  Bij ministeriële regeling kunnen met betrekking tot het eerste lid nadere of afwijkende regels worden gesteld.   
+4.  Bij ministeriële regeling kunnen met betrekking tot het eerste lid nadere regels worden gesteld.   
+5.  Indien na de uitbetaling van de vakantiebijslag in een andere maand dan de maand mei wederom recht op een uitkering ontstaat en dientengevolge het eerste lid moet worden toegepast, wordt daarbij rekening gehouden met hetgeen in die andere maand reeds werd uitbetaald.   
 
 ### Artikel  69  
 
@@ -1392,7 +1450,7 @@ c. de werkgever die de onderneming overdraagt een werkgever is wiens eigenrisico
 
 ####Nadere regelgeving
 
-Bij algemene maatregel van bestuur kunnen nadere en zonodig afwijkende regels worden gesteld met betrekking tot dit hoofdstuk.  
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit hoofdstuk.  
 
 ### Hoofdstuk  10  
 
@@ -1464,9 +1522,10 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 ####Invordering bestuurlijke boete
 
 1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Wet arbeid en zorg](../../../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of een toeslag op grond van de [Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
-2.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
-3.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
-4.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 91, negende lid, niet of niet behoorlijk nakomt: 
+2.  Onverminderd het eerste lid kan het UWV de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).   
+4.  De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
+5.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 91, negende lid, niet of niet behoorlijk nakomt: 
 
 a. is het UWV in afwijking van [artikel 4.93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bevoegd tot verrekening van de bestuurlijke boete voor zover beslag op de vordering van de schuldeiser nietig zou zijn;  
 
@@ -1480,7 +1539,9 @@ b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van 
 2.  Artikel 96, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 91, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het UWV kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 96, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
+7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen.   
 
 ### Artikel  97a  
 
@@ -1605,7 +1666,7 @@ De gronden van het bezwaar of beroep, bedoeld in [artikel 6:5, eerste lid, onder
 
 ####Onderzoek ter zitting met gesloten deuren
 
-1.  Indien [artikel 8:32, tweede lid van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is toegepast, vindt in afwijking van [artikel 8:62, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats, tenzij de rechtbank ambtshalve of op verzoek van een van de partijen bepaalt dat het onderzoek openbaar is.   
+1.  Indien [artikel 8:32, tweede lid van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is toegepast, vindt in afwijking van [artikel 8:62, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats, tenzij de bestuursrechter ambtshalve of op verzoek van een van de partijen bepaalt dat het onderzoek openbaar is.   
 2.  In de uitnodiging, bedoeld in [artikel 8:56 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt mededeling gedaan van het eerste lid.   
 
 ### Artikel  110  
@@ -1630,12 +1691,6 @@ In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](.
 
 1.  Indien bezwaar wordt gemaakt tegen een beschikking waaraan een verzekeringsgeneeskundige of arbeidskundige beoordeling ten grondslag ligt, beslist het UWV, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), binnen zeventien weken of, indien het advies vraagt aan een deskundige die niet onder zijn verantwoordelijkheid werkzaam is binnen eenentwintig weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.   
 2.  Indien in verband met het geven van een beslissing op bezwaar een in het buitenland wonende persoon is opgeroepen en om die reden de beslissing op bezwaar niet binnen de in het eerste lid bedoelde termijn gegeven kan worden, wordt de beslissing, in afwijking van [artikel 7:10, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verdaagd met ten hoogste zes maanden en wordt de aanvrager van deze verdaging schriftelijk in kennis gesteld.   
-
-### Artikel  113  
-
-####Afzien van horen belanghebbende
-
-In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan van het horen van een belanghebbende worden afgezien indien de belanghebbende niet binnen een door het UWV gestelde redelijke termijn, verklaart dat hij gebruik wil maken van het recht te worden gehoord.  
 
 ### §  12.4  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 19 oktober 1993, directoraat-generaal Openbaar Bestuur, afdeling Kabinetszaken, nr. BK93/U1799;
 
-Gelet op de [artikelen 65](../../../../../../../wet/provinciewet/BWBR0005645/README.md), [72](../../../../../../../wet/provinciewet/BWBR0005645/README.md) en [77 van de Provinciewet](../../../../../../../wet/provinciewet/BWBR0005645/README.md);
+Gelet op de artikelen 65, 72 en 77 van de Provinciewet;
 
 De Raad van State gehoord (advies van 8 februari 1994, no. W04.93 0714);
 
@@ -54,7 +54,7 @@ b. een vergoeding van overige ambtskosten van € 485,73.
 6.  Indien een opgave of verklaring als in het vierde lid bedoeld, niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, bedraagt de bezoldiging 65% over dat kalenderjaar van de bezoldiging op jaarbasis.   
 7.  De commissaris zendt aan Onze Minister, dan wel de door hem aangewezen instantie, zo spoedig mogelijk na afloop van het kalenderjaar een afschrift van de aanslag voor de inkomstenbelasting over het betreffende kalenderjaar. Het bedrag van de uitbetaalde bezoldiging kan, al dan niet op verzoek van de commissaris, worden herzien, indien op grond van de onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.   
 8.  Bij de toepassing van het vijfde, zesde en zevende lid vindt zo nodig terugbetaling of verrekening plaats.   
-9.  Dit artikel is niet van toepassing op de commissaris op wie [artikel 282 van de Provinciewet](../../../../../../../wet/provinciewet/BWBR0005645/README.md) van toepassing is.   
+9.  Dit artikel is niet van toepassing op de commissaris op wie artikel 282 van de Provinciewet van toepassing is.   
 
 ####Vakantie-uitkering
 
@@ -81,8 +81,8 @@ b. een tegemoetkoming in de verhuiskosten als bedoeld in artikel 8, eerste lid.
 
 ### Artikel  6  
 
-1.  Bij het volbrengen van een diensttijd als bedoeld in een vut-overeenkomst als bedoeld in [artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel](../../../../../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md), van 12,5, 25, 40 of 50 jaren in overheidsdienst, ontvangt de commissaris een gratificatie of desgewenst een geschenk, dan wel een combinatie van beide, één en ander met dien verstande dat de daaraan verbonden uitgaven bedragen: bij een 12,5 jarig dienstjubileum een kwart, 25-jarig dienstjubileum de helft, en bij een 40- en 50-jarig dienstjubileum eenmaal het bedrag van de bezoldiging, vermeerderd met een evenredig gedeelte van de vakantie-uitkering per maand, berekend naar de datum van het dienstjubileum. Dit bedrag wordt zonodig op een veelvoud van vijf euro naar boven afgerond.   
-2.  Aan de commissaris die op grond van een vut-overeenkomst als bedoeld in [artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel](../../../../../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md) eervol ontslag is of zal worden verleend en binnen een termijn van vijf jaren na de datum van ingang van ontslag, doch voor het 70e levensjaar recht zou hebben op een gratificatie, bedoeld in het eerste lid, kan een dienstjubileumgratificatie worden toegekend ter grootte van een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van de gratificatie, bedoeld in het eerste lid.   
+1.  Bij het volbrengen van een diensttijd als bedoeld in een vut-overeenkomst als bedoeld in artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel, van 12,5, 25, 40 of 50 jaren in overheidsdienst, ontvangt de commissaris een gratificatie of desgewenst een geschenk, dan wel een combinatie van beide, één en ander met dien verstande dat de daaraan verbonden uitgaven bedragen: bij een 12,5 jarig dienstjubileum een kwart, 25-jarig dienstjubileum de helft, en bij een 40- en 50-jarig dienstjubileum eenmaal het bedrag van de bezoldiging, vermeerderd met een evenredig gedeelte van de vakantie-uitkering per maand, berekend naar de datum van het dienstjubileum. Dit bedrag wordt zonodig op een veelvoud van vijf euro naar boven afgerond.   
+2.  Aan de commissaris die op grond van een vut-overeenkomst als bedoeld in artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel eervol ontslag is of zal worden verleend en binnen een termijn van vijf jaren na de datum van ingang van ontslag, doch voor het 70e levensjaar recht zou hebben op een gratificatie, bedoeld in het eerste lid, kan een dienstjubileumgratificatie worden toegekend ter grootte van een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van de gratificatie, bedoeld in het eerste lid.   
 
 ####Computer- en communicatieapparatuur
 
@@ -125,13 +125,14 @@ Indien aan de commissaris van de Koning een dienstauto ter beschikking is gestel
 
 ### Artikel  9  
 
-1.  Voor het bewonen van een ambtswoning wordt op de bezoldiging een korting toegepast van 12%.   
-2.  In afwijking van het eerste lid, kan Onze Minister in zeer bijzondere gevallen de korting vaststellen op een lager percentage dan wel op een bepaald bedrag, mits dit eveneens minder beloopt dan 12% van de bezoldiging.   
-3.  Indien de commissaris een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens de wet en het plaatselijk gebruik voor rekening van de huurder zijn.   
+1.  Voor het bewonen van een ambtswoning wordt op de bezoldiging een korting toegepast van 18%.   
+2.  Indien gedeputeerde staten de economische huurwaarde van de ambtswoning lager vaststellen dan 18% van de bezoldiging, stellen zij de korting, in afwijking van het eerste lid, vast op dat lagere percentage.   
+3.  Indien de commissaris van de Koning een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens de wet en het plaatselijk gebruik ten laste van de huurder zijn.   
+4.  Indien de commissaris van de Koning voor het gebruik van een ambtswoning loon- en inkomstenbelasting is verschuldigd, vergoedt de provincie deze belasting aan de commissaris van de Koning.   
 
 ### Artikel  9a  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen: 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen: 
 
 a. de vergoeding voor overige ambtskosten, bedoeld in artikel 3, tweede lid, onderdeel b;  
 
@@ -141,9 +142,11 @@ c. de tegemoetkoming, bedoeld in artikel 7, vierde lid;
 
 d. de vergoeding, bedoeld in artikel 7, vijfde lid;  
 
-e. de vergoeding, bedoeld in artikel 8a, voor zover deze niet wordt gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+e. de vergoeding, bedoeld in artikel 8a, voor zover deze niet wordt gerekend tot een vergoeding als bedoeld in artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964;  
 
-f. de vergoeding, bedoeld in artikel 8b.    
+f. de vergoeding, bedoeld in artikel 8b;  
+
+g. de vergoeding, bedoeld in artikel 9, vierde lid.    
 
 ####Kennisgeving bij afwezigheid
 
@@ -155,7 +158,7 @@ Indien een commissaris langer dan acht dagen wegens ziekte of om andere redenen 
 
 ### Artikel  11  
 
-De commissaris geniet bedrijfsgeneeskundige begeleiding overeenkomstig [hoofdstuk VI, paragraaf 2, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).  
+De commissaris geniet bedrijfsgeneeskundige begeleiding overeenkomstig hoofdstuk VI, paragraaf 2, van het Algemeen Rijksambtenarenreglement.  
 
 ####Voorzieningen in verband met ziekte
 
@@ -170,12 +173,17 @@ b. in de bijzondere omstandigheden waaronder deze moesten worden verricht, en
 c. niet aan eigen schuld of onvoorzichtigheid is te wijten, kunnen de naar het oordeel van het college van gedeputeerde staten noodzakelijk gemaakte kosten van geneeskundige behandeling of verzorging, voor zover deze kosten ten laste van de commissaris blijven, aan de commissaris voor rekening van de provincie worden vergoed.     
 2.  Het eerste lid is van overeenkomstige toepassing op de gewezen commissaris.   
 
+### Artikel  13  
+
+1.  Gedeputeerde staten kennen een commissaris die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de provincie op aanvraag een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+2.  Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.   
+
 ####Buitengewoon verlof
 
 ### Artikel  14  
 
 1.  De vrouwelijke commissaris heeft in verband met haar bevalling aanspraak op zwangerschaps- en bevallingsverlof.   
-2.  De commissaris die na 31 december 1988 als ouder in een familierechtelijke betrekking is komen te staan tot een kind, heeft aanspraak op ouderschapsverlof. [Artikel 33g van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is van overeenkomstige toepassing.   
+2.  De commissaris die na 31 december 1988 als ouder in een familierechtelijke betrekking is komen te staan tot een kind, heeft aanspraak op ouderschapsverlof. Artikel 33g van het Algemeen Rijksambtenarenreglement is van overeenkomstige toepassing.   
 
 ####Gedrag
 
@@ -206,7 +214,7 @@ De commissaris kan in het belang van een goede uitoefening van het ambt worden g
 ### Artikel  19  
 
 1.  De commissaris wordt op zijn aanvraag ontslag verleend of wordt op zijn verzoek na afloop van de benoemingstermijn niet herbenoemd.   
-2.  Aan de commissaris die ontslag vraagt met het oog op een uitkering op grond van een vut-overeenkomst als bedoeld in [artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel](../../../../../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md) wordt ontslag verleend, indien het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel op grond van een desbetreffende schriftelijke aanvraag heeft vastgesteld dat na dat te verlenen ontslag recht bestaat op een uitkering op grond van die overeenkomst. Het ontslag gaat niet eerder in dan met ingang van de dag waarop het recht op evengenoemde uitkering ontstaat. Met een aanvraag tot ontslag wordt gelijkgesteld een verzoek om niet te worden herbenoemd.   
+2.  Aan de commissaris die ontslag vraagt met het oog op een uitkering op grond van een vut-overeenkomst als bedoeld in artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel wordt ontslag verleend, indien het bestuur van de Stichting fonds vrijwillig vervroegd uittreden overheidspersoneel op grond van een desbetreffende schriftelijke aanvraag heeft vastgesteld dat na dat te verlenen ontslag recht bestaat op een uitkering op grond van die overeenkomst. Het ontslag gaat niet eerder in dan met ingang van de dag waarop het recht op evengenoemde uitkering ontstaat. Met een aanvraag tot ontslag wordt gelijkgesteld een verzoek om niet te worden herbenoemd.   
 3.  Het ontslag op grond van het eerste en tweede lid van dit artikel wordt eervol verleend, tenzij naar het oordeel van Onze Minister zwaarwichtige redenen zich daartegen verzetten.   
 4.  Aan de commissaris wordt met ingang van de eerste dag van de maand volgend op die waarin hij de leeftijd van 70 jaar heeft bereikt, eervol ontslag verleend.   
 
@@ -234,7 +242,7 @@ b. herstel van zijn ziekte niet binnen een periode van zes maanden na de in onde
 ### Artikel  22  
 
 1.  Zo spoedig mogelijk na het overlijden van de commissaris wordt aan de weduwe of weduwnaar van wie de commissaris niet duurzaam gescheiden leefde, ten laste van de provincie een bedrag uitgekeerd gelijk aan de bezoldiging, vermeerderd met de vakantie-uitkering, over drie maanden, berekend naar het tijdstip van overlijden. Indien de overledene geen weduwe of weduwnaar van wie de commissaris niet duurzaam gescheiden leefde nalaat, geschiedt de uitkering ten behoeve van de minderjarige kinderen tot wie de overledene in familierechtelijke betrekking stond, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan: de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of gedeeltelijk afhankelijk waren van de bezoldiging van de commissaris.   
-2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden commissaris ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
+2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden commissaris ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in artikel 3, derde en vierde lid, van de Algemene nabestaandenwet.   
 
 ####Overleg
 
@@ -246,11 +254,11 @@ Over aangelegenheden van algemeen belang voor de rechtstoestand van de commissar
 
 ### Artikel  24  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
 a. wordt op aanvraag door gedeputeerde staten een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 7, eerste en derde lid;  
 
-b. wordt het bedrag, genoemd in artikel 3, tweede lid, onderdeel b, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+b. wordt het bedrag, genoemd in artikel 3, tweede lid, onderdeel b, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001;  
 
 c. bedraagt de vergoeding, bedoeld in artikel 8b, ten hoogste de gebruteerde verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto; en  
 
@@ -258,8 +266,8 @@ d. blijft artikel 9a buiten toepassing.
 
 ### Artikel  25  
 
-1.  De artikelen 10a, 10b, 10c, en 20, zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel I, onderdelen G en M, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](../../../../../../../AMvB/besluit/wijziging/van/de/rechtspositiebesluiten/decentrale/politieke/etc/BWBR0029407/README.md) blijven van toepassing op de commissaris die voor de datum van inwerkingtreding van dit besluit ingevolge artikel 10 kennis heeft gegeven aan Onze Minister dat hij wegens ziekte zijn ambt niet kan vervullen.   
-2.  Artikel 21, zoals dat luidde op de dag voor de datum van inwerkingtreding van [artikel I, onderdeel N, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](../../../../../../../AMvB/besluit/wijziging/van/de/rechtspositiebesluiten/decentrale/politieke/etc/BWBR0029407/README.md), blijft van toepassing op de voormalig commissaris van wie het ontslag is ingegaan voor 27 februari 2010.   
+1.  De artikelen 10a, 10b, 10c, en 20, zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel I, onderdelen G en M, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010 blijven van toepassing op de commissaris die voor de datum van inwerkingtreding van dit besluit ingevolge artikel 10 kennis heeft gegeven aan Onze Minister dat hij wegens ziekte zijn ambt niet kan vervullen.   
+2.  Artikel 21, zoals dat luidde op de dag voor de datum van inwerkingtreding van artikel I, onderdeel N, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010, blijft van toepassing op de voormalig commissaris van wie het ontslag is ingegaan voor 27 februari 2010.   
 
 ### Artikel  28  
 

@@ -2,7 +2,7 @@
 
 ##Verdrag betreffende de werking van de Europese Unie
 
-####Verdrag tot oprichting van de Europese Gemeenschap
+####Verdrag betreffende de werking van de Europese Unie
 
 Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, <sup> 2)  [Red: De lijst van ondertekenaars is niet toegevoegd.]  </sup> Vastberaden de grondslagen te leggen voor een steeds hechter verbond tussen de Europese volkeren, Besloten hebbende door gemeenschappelijk optreden de economische en sociale vooruitgang van hun staten te verzekeren en daartoe de barrières die Europa verdelen te verwijderen, Vaststellende als wezenlijk doel van hun streven, een voortdurende verbetering van de omstandigheden waaronder hun volkeren leven en werken, te verzekeren, Erkennende dat de verwijdering van de bestaande hinderpalen eensgezind optreden vereist teneinde de gestadige expansie, het evenwicht in het handelsverkeer en de eerlijkheid in de mededinging te waarborgen, Verlangende de eenheid hunner volkshuishoudingen te versterken en de harmonische ontwikkeling daarvan te bevorderen door het verschil in niveau tussen de onderscheidene gebieden en de achterstand van de minder begunstigde gebieden te verminderen, Geleid door de wens door middel van een gemeenschappelijke handelspolitiek bij te dragen tot de geleidelijke opheffing der beperkingen in het internationale handelsverkeer, Wensende de verbondenheid van Europa met de landen overzee te bevestigen en verlangende de ontwikkeling van hun welvaart te verzekeren, overeenkomstig de beginselen van het Handvest der Verenigde Naties, Vastbesloten door deze bundeling van krachten de waarborgen voor vrede en vrijheid te versterken en de overige Europese volkeren die hun idealen delen, oproepende zich bij hun streven aan te sluiten, Vastbesloten het hoogstmogelijke kennisniveau voor hun volkeren na te streven door middel van ruime toegang tot onderwijs en door middel van de voortdurende vernieuwing daarvan,   Hebben te dien einde als hun gevolmachtigden aangewezen: <sup> 2)  [Red: De lijst van ondertekenaars is niet toegevoegd.]  </sup> Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt.     
 ### EERSTE  DEEL  
@@ -40,7 +40,7 @@ c. het monetair beleid voor de lidstaten die de euro als munt hebben;
 d. de instandhouding van de biologische rijkdommen van de zee in het kader van het gemeenschappelijk visserijbeleid;  
 
 e. de gemeenschappelijke handelspolitiek.     
-2.  De Unie is tevens exclusief bevoegd een internationale overeenkomst te sluiten indien een wetgevingshandeling van de Unie in die sluiting voorziet, indien die sluiting noodzakelijk is om de Unie in staat te stellen haar interne bevoegdheid uit te oefenen of indien die sluiting gevolgen kan hebben voor gemeenschappelijke regels of de strekking daarvan kan wijzigen.   
+2.  De Unie is tevens exclusief bevoegd een internationale overeenkomst te sluiten indien een wetgevingshandeling van de Unie in die sluiting voorziet, indien die sluiting noodzakelijk is om de Unie in staat te stellen haar interne bevoegdheid uit te oefenen of wanneer die sluiting gemeenschappelijke regels kan aantasten of de strekking daarvan kan wijzigen.   
 
 ### Artikel  4  
 
@@ -135,7 +135,7 @@ Onverminderd artikel 4 van het Verdrag betreffende de Europese Unie en de artike
 
 1.  Om goed bestuur te bevorderen en de deelneming van het maatschappelijk middenveld te waarborgen, werken de instellingen, het organen of de instanties van de Unie in een zo groot mogelijke openheid.   
 2.  Het Europees Parlement, en de Raad wanneer hij beraadslaagt en stemt over een ontwerp van wetgevingshandeling, vergaderen in het openbaar.   
-3.  Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft recht op toegang tot documenten van de instellingen, organen en instanties van de Unie, ongeacht de informatiedrager waarop zij zijn vastgelegd, volgens de beginselen en onder de voorwaarden die overeenkomstig het huidige lid worden bepaald. De Raad bepaalt bij verordeningen volgens de gewone wetgevingsprocedure de algemene beginselen en de beperkingen op grond van openbare of particuliere belangen betreffende dit recht op toegang tot documenten. Elke instelling, orgaan of instantie zorgt voor transparantie in zijn of haar werkzaamheden en neemt in haar eigen reglement van orde specifieke bepalingen betreffende de toegang tot haar documenten op overeenkomstig de in de tweede alinea bedoelde verordeningen. Ten aanzien van het Hof van Justitie van de Europese Unie, de Europese Centrale Bank en de Europese Investeringsbank, geldt het onderhavige lid alleen voor de uitoefening van hun administratieve taken. Het Europees Parlement en de Raad zorgen voor de openbaarmaking van de stukken betreffende de wetgevingsprocedures overeenkomstig de voorwaarden van de in de tweede alinea bedoelde verordeningen   
+3.  Iedere burger van de Unie en iedere natuurlijke of rechtspersoon met verblijfplaats of statutaire zetel in een lidstaat heeft recht op toegang tot documenten van de instellingen, organen en instanties van de Unie, ongeacht de informatiedrager waarop zij zijn vastgelegd, volgens de beginselen en onder de voorwaarden die overeenkomstig het huidige lid worden bepaald. Het Europees Parlement en de Raad bepalen bij verordeningen volgens de gewone wetgevingsprocedure de algemene beginselen en de beperkingen op grond van openbare of particuliere belangen betreffende dit recht op toegang tot documenten. Elke instelling, orgaan of instantie zorgt voor transparantie in zijn of haar werkzaamheden en neemt in haar eigen reglement van orde specifieke bepalingen betreffende de toegang tot haar documenten op overeenkomstig de in de tweede alinea bedoelde verordeningen. Ten aanzien van het Hof van Justitie van de Europese Unie, de Europese Centrale Bank en de Europese Investeringsbank, geldt het onderhavige lid alleen voor de uitoefening van hun administratieve taken. Het Europees Parlement en de Raad zorgen voor de openbaarmaking van de stukken betreffende de wetgevingsprocedures overeenkomstig de voorwaarden van de in de tweede alinea bedoelde verordeningen   
 
 ### Artikel  16  
 
@@ -191,7 +191,7 @@ Iedere burger van de Unie geniet op het grondgebied van derde landen waar de lid
 
 ### Artikel  24  
 
-Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure bij verordeningen de bepalingen vast voor de procedures en voorwaarden voor de indiening van een burgerinitiatief in de zin van artikel 11 van het Verdrag betreffende de Europese Unie, met inbegrip van het minimum aantal lidstaten waaruit de burgers die het verzoek indienen, afkomstig dienen te zijn. Iedere burger van de Unie heeft het recht een verzoekschrift tot het Europees Parlement te richten overeenkomstig artikel 227. Iedere burger van de Unie kan zich wenden tot de overeenkomstig artikel 228 ingestelde ombudsman. Iedere burger van de Unie kan de in dit artikel of in artikel 13 van het Verdrag betreffende de Europese Unie genoemde instellingen, organen of instanties aanschrijven in een van de in artikel 55, lid 1, van het Verdrag betreffende de Europese Unie genoemde talen en ook in die taal antwoord krijgen.  
+Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure bij verordeningen de bepalingen vast voor de procedures en voorwaarden voor de indiening van een burgerinitiatief in de zin van artikel 11 van het Verdrag betreffende de Europese Unie, met inbegrip van het minimum aantal lidstaten waaruit de burgers die het verzoek indienen, afkomstig dienen te zijn. Iedere burger van de Unie heeft het recht een verzoekschrift tot het Europees Parlement te richten overeenkomstig artikel 227. Iedere burger van de Unie kan zich wenden tot de overeenkomstig artikel 228 ingestelde ombudsman. Iedere burger van de Unie kan de in dit artikel of in artikel 13 van het Verdrag betreffende de Europese Unie genoemde instellingen of organen aanschrijven in een van de in artikel 55, lid 1, van het Verdrag betreffende de Europese Unie genoemde talen en ook in die taal antwoord krijgen.  
 
 ### Artikel  25  
 
@@ -360,7 +360,7 @@ Wanneer in een lidstaat een product onder een nationale marktorganisatie valt of
 
 ### TITEL  IV  
 
-####HET VRIJE VERKEER VAN GOEDEREN, DIENSTEN EN KAPITAAL
+####HET VRIJE VERKEER VAN PERSONEN, DIENSTEN EN KAPITAAL
 
 ### HOOFDSTUK  1  
 
@@ -466,7 +466,7 @@ De lidstaten verlenen nationale behandeling wat betreft ﬁnanciële deelneming 
 
 ### Artikel  56  
 
-In het kader van de volgende bepalingen zijn de beperkingen op het vrij verrichten van diensten binnen de Unie verboden ten aanzien van de onderdanen der lidstaten die in een andere lidstaat zijn gevestigd dan dat, waarin degene is gevestigd te wiens behoeve de dienst wordt verricht. Het Europees Parlement en de Raad kunnen, volgens de gewone wetgevingsprocedure, de bepalingen van dit hoofdstuk van toepassing verklaren ten gunste van de onderdanen van een derde staat die diensten verrichten en binnen de Unie zijn gevestigd.  
+In het kader van de volgende bepalingen zijn de beperkingen op het vrij verrichten van diensten binnen de Unie verboden ten aanzien van de onderdanen der lidstaten die in een andere lidstaat zijn gevestigd dan die, waarin degene is gevestigd te wiens behoeve de dienst wordt verricht. Het Europees Parlement en de Raad kunnen, volgens de gewone wetgevingsprocedure, de bepalingen van dit hoofdstuk van toepassing verklaren ten gunste van de onderdanen van een derde staat die diensten verrichten en binnen de Unie zijn gevestigd.  
 
 ### Artikel  57  
 
@@ -513,7 +513,7 @@ De bepalingen van de artikelen 51 tot en met 54 zijn van toepassing op het onder
 
 ### Artikel  64  
 
-1.  Het bepaalde in artikel 63 doet geen afbreuk aan de toepassing op derde landen van beperkingen die op 31 december 1993 bestaan uit hoofde van het nationale recht of het recht van de Unie inzake het kapitaalverkeer naar of uit derde landen in verband met directe investeringen – met inbegrip van investeringen in onroerende goederen –, vestiging, het verrichten van ﬁnanciële diensten of de toelating van waardepapieren tot de kapitaalmarkten. Voor beperkingen uit hoofde van nationaal recht in Bulgarije, Estland en Hongarije geldt als datum 31 december 1999.   
+1.  Het bepaalde in artikel 63 doet geen afbreuk aan de toepassing op derde landen van beperkingen die op 31 december 1993 bestaan uit hoofde van het nationale recht of het recht van de Unie inzake het kapitaalverkeer naar of uit derde landen in verband met directe investeringen – met inbegrip van investeringen in onroerende goederen –, vestiging, het verrichten van ﬁnanciële diensten of de toelating van waardepapieren tot de kapitaalmarkten. Voor beperkingen uit hoofde van nationaal recht in Bulgarije, Estland en Hongarije geldt als datum 31 december 1999. Voor beperkingen uit hoofde van nationaal recht in Kroatië geldt als datum 31 december 2002.   
 2.  Hoewel het Europees Parlement en de Raad trachten de doelstelling van een niet aan beperkingen onderworpen vrij kapitaalverkeer tussen lidstaten en derde landen zoveel mogelijk te bereiken, stellen zij, onverminderd het bepaalde in de overige hoofdstukken van de Verdragen, volgens de gewone wetgevingsprocedure maatregelen vast betreffende het kapitaalverkeer naar of uit derde landen in verband met directe investeringen met inbegrip van investeringen in onroerende goederen –, vestiging, het verrichten van ﬁnanciële diensten of de toelating van waardepapieren tot de kapitaalmarkten.   
 3.  In afwijking van lid 2, kan alleen de Raad, volgens een bijzondere wetgevingsprocedure, met eenparigheid van stemmen en na raadpleging van het Europees Parlement, maatregelen vaststellen die in het recht van de Unie een achteruitgang op het gebied van de liberalisering van het kapitaalverkeer naar of uit derde landen vormen.   
 
@@ -752,7 +752,7 @@ c. gemeenschappelijke onderzoekstechnieken voor het opsporen van ernstige vormen
 
 ### Artikel  88  
 
-1.  De opdracht van Europol is het optreden van de politie-instanties en andere wetshandhavingsdiensten van de lidstaten, alsmede hun wederzijdse samenwerking bij de voorkoming en bestrijding van zware criminaliteit waardoor twee of meer lidstaten worden getroffen, van terrorisme en van vormen van criminaliteit die een schending inhouden van een gemeenschappelijk belang dat tot et beleid van de Unie behoort, te ondersteunen en te versterken.   
+1.  De opdracht van Europol is het optreden van de politie-instanties en andere wetshandhavingsdiensten van de lidstaten, alsmede hun wederzijdse samenwerking bij de voorkoming en bestrijding van zware criminaliteit waardoor twee of meer lidstaten worden getroffen, van terrorisme en van vormen van criminaliteit die een schending inhouden van een gemeenschappelijk belang dat tot het beleid van de Unie behoort, te ondersteunen en te versterken.   
 2.  Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure bij verordeningen de structuur, de werking, het werkterrein en de taken van Europol vast. Deze taken kunnen het volgende omvatten: 
 
 a. de verzameling, opslag, verwerking, analyse en uitwisseling van informatie die met name door de autoriteiten van de lidstaten of van derde landen of instanties worden verstrekt;  
@@ -963,7 +963,7 @@ Met betrekking tot andere belastingen dan de omzetbelasting, de accijnzen en de 
 
 ### Artikel  113  
 
-De Raad stelt en na raadpleging van het Europees Parlement en het Economisch en Sociaal Comité met eenparigheid van stemmen, volgens een bijzondere wetgevingsprocedure de bepalingen vast die betrekking hebben op de harmonisatie van de wetgevingen inzake de omzetbelasting, de accijnzen en de andere indirecte belastingen, voorzover deze harmonisatie noodzakelijk is om de instelling en de werking van de interne markt te bewerkstelligen en concurrentieverstoringen te voorkomen.  
+De Raad stelt na raadpleging van het Europees Parlement en het Economisch en Sociaal Comité met eenparigheid van stemmen, volgens een bijzondere wetgevingsprocedure de bepalingen vast die betrekking hebben op de harmonisatie van de wetgevingen inzake de omzetbelasting, de accijnzen en de andere indirecte belastingen, voorzover deze harmonisatie noodzakelijk is om de instelling en de werking van de interne markt te bewerkstelligen en concurrentieverstoringen te voorkomen.  
 
 ### HOOFDSTUK  3  
 
@@ -1112,7 +1112,7 @@ b. of de verhouding tussen de overheidsschuld en het bruto binnenlands product e
 
 1.  Het ESCB wordt bestuurd door de besluitvormende organen van de Europese Centrale Bank, te weten de Raad van bestuur en de directie.   
 2.  De statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank, hierna genoemd „statuten van het ESCB en van de ECB” zijn opgenomen in een aan de Verdragen gehecht protocol.   
-3.  Artikelen 5.1, 5.2, 5.3, 17, 18, 19.1, 22, 23, 24, 26, 32.2, 32.3, 32.4, 32.6, 33.1 a) en 36 van de statuten van het ESCB en van de ECB kunnen door het Europees Parlement en de Raad worden gewijzigd volgens de gewone wetgevingsprocedure. Zij besluiten hetzij op aanbeveling van de Europese Centrale Bank en na raadpleging van de Commissie, hetzij op voorstel van de Commissie en na raadpleging van de Europese Centrale Bank.   
+3.  Artikelen 5.1, 5.2, 5.3, 17, 18, 19.1, 22, 23, 24, 26, 32.2, 32.3, 32.4 32.6,, 33.1 a) en 36 van de statuten van het ESCB en van de ECB kunnen door het Europees Parlement en de Raad worden gewijzigd volgens de gewone wetgevingsprocedure. Zij besluiten hetzij op aanbeveling van de Europese Centrale Bank en na raadpleging van de Commissie, hetzij op voorstel van de Commissie en na raadpleging van de Europese Centrale Bank.   
 4.  De in de artikelen 4, 5.4, 19.2, 20, 28.1, 29.2, 30.4 en 34.3 van de statuten van het ESCB en van de ECB bedoelde bepalingen worden door de Raad aangenomen hetzij op voorstel van de Commissie en na raadpleging van het Europees Parlement en de Europese Centrale Bank, hetzij op aanbeveling van de Europese Centrale Bank en na raadpleging van het Europees Parlement en de Commissie.   
 
 ### Artikel  130  
@@ -1174,6 +1174,7 @@ a. ter versterking van de coördinatie en de bewaking van hun begrotingsdiscipli
 
 b. houdende bepaling van de richtsnoeren voor hun economisch beleid, met dien verstande dat deze verenigbaar moeten zijn met de richtsnoeren welke voor de gehele Unie zijn vastgesteld, en met het oog op de bewaking ervan.     
 2.  Met betrekking tot de in lid 1 bedoelde maatregelen hebben alleen leden van de Raad die lidstaten vertegenwoordigen welke de euro als munt hebben, stemrecht. De gekwaliﬁceerde meerderheid van deze leden wordt bepaald overeenkomstig artikel 238, lid 3, onder a).   
+3.  De lidstaten die de euro als munt hebben kunnen een stabiliteitsmechanisme instellen dat geactiveerd wordt indien dat onontbeerlijk is om de stabiliteit van de eurozone in haar geheel te waarborgen. De verlening van financiële steun, indien vereist, uit hoofde van het mechanisme zal aan stringente voorwaarden gebonden zijn.   
 
 ### Artikel  137  
 
@@ -1212,7 +1213,7 @@ h. aanwijzing van de leden van de directie van de Europese Centrale Bank (artike
 
 i. besluiten houdende gemeenschappelijke standpunten in de bevoegde internationale ﬁnanciële instellingen en conferenties over kwesties die voor de economische en monetaire unie van bijzonder belang zijn (artikel 138, lid 1);  
 
-j. maatregelen die een gezamenlijke vertegenwoordiging in de internationale ﬁnanciële instellingen en conferenties verzekeren (artikel 138, lid 2).   Derhalve wordt in de onder a) tot en met j) genoemde artikelen onder „lidstaten” verstaan „de lidstaten die de euro als munt hebben”.   
+j. maatregelen die een gezamenlijke vertegenwoordiging in de internationale ﬁnanciële instellingen en conferenties verzekeren (artikel 138, lid 2).   Derhalve wordt in de onder a) tot en met j) genoemde punten onder „lidstaten” verstaan „de lidstaten die de euro als munt hebben”.   
 3.  De lidstaten die onder een derogatie vallen, alsmede hun nationale centrale banken, zijn uitgesloten van de rechten en plichten in het kader van het ESCB, overeenkomstig hoofdstuk IX van de statuten van het ESCB en van de ECB.   
 4.  De stemrechten van de leden van de Raad die de lidstaten vertegenwoordigen welke onder een derogatie vallen, worden geschorst tijdens de aanneming door de Raad van de maatregelen bedoeld in de in lid 2 opgesomde artikelen, alsmede in de volgende gevallen: 
 
@@ -1361,15 +1362,15 @@ b. op de in lid 1, onder a) tot en met i), bedoelde gebieden door middel van ric
 
 ### Artikel  154  
 
-1.  De Commissie heeft tot taak de raadpleging van de sociale partners op niveau van de Unie te bevorderen en treft alle maatregelen die nuttig kunnen zijn om de dialoog tussen de partners te vergemakkelijken door middel van een evenwichtige ondersteuning van de partijen.   
+1.  De Commissie heeft tot taak de raadpleging van de sociale partners op het niveau van de Unie te bevorderen en treft alle maatregelen die nuttig kunnen zijn om de dialoog tussen de partners te vergemakkelijken door middel van een evenwichtige ondersteuning van de partijen.   
 2.  Daartoe raadpleegt de Commissie, alvorens voorstellen op het gebied van de sociale politiek in te dienen, de sociale partners over de mogelijke richting van een optreden van de Unie.   
 3.  Indien de Commissie na deze raadpleging van mening is dat een optreden van de Unie wenselijk is, raadpleegt zij de sociale partners over de inhoud van het overwogen voorstel. De sociale partners doen de Commissie een advies of, in voorkomend geval, een aanbeveling toekomen.   
 4.  Ter gelegenheid van de in de leden 2 en 3 bedoelde raadplegingen kunnen de sociale partners de Commissie in kennis stellen van hun wens om het in artikel 155 bedoelde proces in te leiden. Dit proces neemt maximaal negen maanden in beslag, tenzij de betrokken sociale partners en de Commissie gezamenlijk besluiten tot verlenging.   
 
 ### Artikel  155  
 
-1.  De dialoog tussen de sociale partners op niveau van de Unie kan, indien de sociale partners zulks wensen, leiden tot contractuele betrekkingen, met inbegrip van overeenkomsten.   
-2.  De tenuitvoerlegging van de op niveau van de Unie gesloten overeenkomsten geschiedt hetzij volgens de procedures en gebruiken die eigen zijn aan de sociale partners en aan de lidstaten, hetzij, voor zaken die onder artikel 153 vallen, op gezamenlijk verzoek van de ondertekenende partijen, door een besluit van de Raad op voorstel van de Commissie. Het Europees Parlement wordt hiervan in kennis gesteld. De Raad besluit met eenparigheid van stemmen wanneer de betrokken overeenkomst één of meer bepalingen bevat die betrekking hebben op één van de gebieden waarvoor krachtens artikel 153, lid 3 eenparigheid van stemmen vereist is.   
+1.  De dialoog tussen de sociale partners op het niveau van de Unie kan, indien de sociale partners zulks wensen, leiden tot contractuele betrekkingen, met inbegrip van overeenkomsten.   
+2.  De tenuitvoerlegging van de op het niveau van de Unie gesloten overeenkomsten geschiedt hetzij volgens de procedures en gebruiken die eigen zijn aan de sociale partners en aan de lidstaten, hetzij, voor zaken die onder artikel 153 vallen, op gezamenlijk verzoek van de ondertekenende partijen, door een besluit van de Raad op voorstel van de Commissie. Het Europees Parlement wordt hiervan in kennis gesteld. De Raad besluit met eenparigheid van stemmen wanneer de betrokken overeenkomst één of meer bepalingen bevat die betrekking hebben op één van de gebieden waarvoor krachtens artikel 153, lid 3 eenparigheid van stemmen vereist is.   
 
 ### Artikel  156  
 
@@ -1517,14 +1518,14 @@ Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure 
 1.  Bij de bepaling en de uitvoering van elk beleid en elk optreden van de Unie wordt een hoog niveau van bescherming van de menselijke gezondheid verzekerd. Het optreden van de Unie, dat een aanvulling vormt op het nationale beleid, is gericht op verbetering van de volksgezondheid, preventie van ziekten en aandoeningen bij de mens en het wegnemen van bronnen van gevaar voor de lichamelijke en geestelijke gezondheid. Dit optreden omvat de bestrijding van grote bedreigingen van de gezondheid, door het bevorderen van onderzoek naar de oorzaken, de overdracht en de preventie daarvan, alsmede door het bevorderen van gezondheidsvoorlichting en gezondheidsonderwijs, en de controle van, de alarmering bij en de bestrijding van ernstige grensoverschrijdende bedreigingen van de gezondheid. De Unie vult het optreden van de lidstaten aan ter vermindering van de schade aan de gezondheid door drugsgebruik, met inbegrip van voorlichting en preventie.   
 2.  De Unie moedigt samenwerking tussen de lidstaten op de in dit artikel bedoelde gebieden aan en steunt zo nodig hun optreden. Zij moedigt in het bijzonder aan dat de lidstaten samenwerken ter verbetering van de complementariteit van hun gezondheidsdiensten in de grensgebieden. De lidstaten coördineren onderling, in verbinding met de Commissie, hun beleid en programma’s op de in lid 1 bedoelde gebieden. De Commissie kan, in nauw contact met de lidstaten, alle dienstige initiatieven nemen om deze coördinatie te bevorderen, met name initiatieven om richtsnoeren en indicatoren vast te stellen, de uitwisseling van beste praktijken te regelen en de nodige elementen met het oog op periodieke controle en evaluatie te verzamelen. Het Europees Parlement wordt ten volle in kennis gesteld.   
 3.  De Unie en de lidstaten bevorderen de samenwerking met derde landen en met de inzake volksgezondheid bevoegde internationale organisaties.   
-4.  In afwijking van artikel 2, lid 5, en artikel 6, onder a), en overeenkomstig artikel 4, lid 2, onder k), draagt de Raad volgens de gewone wetgevingsprocedure, na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, bij tot de verwezenlijking van de doelstellingen van dit artikel door om gemeenschappelijke veiligheidskwesties het hoofd te bieden: 
+4.  In afwijking van artikel 2, lid 5, en artikel 6, onder a), en overeenkomstig artikel 4, lid 2, onder k), dragen het Europees Parlement en de Raad volgens de gewone wetgevingsprocedure, na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, bij tot de verwezenlijking van de doelstellingen van dit artikel door om gemeenschappelijke veiligheidskwesties het hoofd te bieden: 
 
 a. maatregelen aan te nemen waarbij hoge kwaliteits- en veiligheidseisen worden gesteld aan organen en stoffen van menselijke oorsprong, bloed en bloedderivaten; deze maatregelen beletten niet dat een lidstaat maatregelen voor een hogere graad van bescherming handhaaft of treft;  
 
 b. maatregelen op veterinair en fytosanitair gebied aan te nemen die rechtstreeks gericht zijn op de bescherming van de volksgezondheid;  
 
 c. maatregelen waarbij hoge kwaliteits- en veiligheidseisen worden gesteld aan geneesmiddelen en medische hulpmiddelen.     
-5.  Het Europees Parlement en de Raad kunnen, volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, ook stimuleringsmaatregelen vaststellen die gericht zijn op de bescherming en de verbetering van de menselijke gezondheid en met name de bestrijding van grote grensoverschrijdende bedreigingen van de gezondheid, maatregelen betreffende de controle van, de vroegtijdige alarmering bij en de bestrijding van ernstige grensoverschrijdende bedreigingen van de gezondheid, alsook maatregelen die rechtstreeks verband houden met de bescherming van de volksgezondheid ter zake van tabak en misbruik van alcohol, met uitsluiting van enige harmonisering van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten.   
+5.  Het Europees Parlement en de Raad kunnen, volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, ook stimuleringsmaatregelen vaststellen die gericht zijn op de bescherming en de verbetering van de menselijke gezondheid en met name de bestrijding van grote grensoverschrijdende bedreigingen van de gezondheid, maatregelen betreffende de controle van, de alarmering bij en de bestrijding van ernstige grensoverschrijdende bedreigingen van de gezondheid, alsook maatregelen die rechtstreeks verband houden met de bescherming van de volksgezondheid ter zake van tabak en misbruik van alcohol, met uitsluiting van enige harmonisering van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten.   
 6.  De Raad kan, op voorstel van de Commissie, ook aanbevelingen aannemen met het oog op de doelstellingen van dit artikel.   
 7.  Het optreden van de Unie eerbiedigt de verantwoordelijkheden van de lidstaten met betrekking tot de bepaling van hun gezondheidsbeleid, alsmede de organisatie en de verstrekking van gezondheidsdiensten en geneeskundige verzorging. De verantwoordelijkheden van de lidstaten omvatten het beheer van gezondheidsdiensten en geneeskundige verzorging, alsmede de allocatie van de daaraan toegewezen middelen. De in lid 4, onder a), bedoelde maatregelen doen geen afbreuk aan de nationale voorschriften inzake donatie en geneeskundig gebruik van organen en bloed.   
 
@@ -1635,7 +1636,7 @@ d. stimulering van de opleiding en de mobiliteit van onderzoekers in de Unie.
 ### Artikel  181  
 
 1.  De Unie en de lidstaten coördineren hun activiteiten op het gebied van onderzoek en technologische ontwikkeling, teneinde de wederzijdse samenhang van het beleid van de lidstaten en het beleid van de Unie te verzekeren.   
-2.  De Commissie kan in nauwe samenwerking met de lidstaten alle dienstige initiatieven nemen om de in lid 1 bedoelde coördinatie te bevorderen, met name initiatieven om richtsnoeren en indicatoren vast te stellen, de uitwisseling van beste praktijken te organiseren en in de nodige elementen te voorzien met het oog op periodieke controle en evaluatie te verzamelen. Het Europees Parlement wordt ten volle in kennis gesteld.   
+2.  De Commissie kan in nauwe samenwerking met de lidstaten alle dienstige initiatieven nemen om de in lid 1 bedoelde coördinatie te bevorderen, met name initiatieven om richtsnoeren en indicatoren vast te stellen, de uitwisseling van beste praktijken te organiseren en in de nodige elementen te voorzien met het oog op periodieke controle en evaluatie. Het Europees Parlement wordt ten volle in kennis gesteld.   
 
 ### Artikel  182  
 
@@ -1798,7 +1799,7 @@ c. de samenhang tussen internationale acties op het gebied van civiele beschermi
 ### Artikel  197  
 
 1.  De doeltreffende uitvoering van het recht van de Unie door de lidstaten, die van wezenlijk belang is voor de goede werking van de Unie, wordt beschouwd als een aangelegenheid van gemeenschappelijk belang.   
-2.  De Unie kan de inspanningen van de lidstaten ter verbetering van hun administratieve vermogen om het recht van de Unie uit te voeren, steunen. Dergelijke steun kan behalve het vergemakkelijken van de uitwisselingen van informatie en van ambtenaren ook ondersteunende opleidings- en ontwikkelingsregelingen omvatten. Geen enkele lidstaat is verplicht gebruik te maken van dergelijke steun. Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure bij verordeningen de daartoe noodzakelijke maatregelen vast, met uitsluiting van enige harmonisering van de wettelijke of bestuursrechtelijke bepalingen van de lidstaten.   
+2.  De Unie kan de inspanningen van de lidstaten ter verbetering van hun administratieve vermogen om het recht van de Unie uit te voeren, steunen. Dergelijke steun kan zowel het vergemakkelijken van de uitwisseling van informatie en van ambtenaren omvatten als het ondersteunen van opleidings- en ontwikkelingsregelingen. Geen enkele lidstaat is verplicht gebruik te maken van dergelijke steun. Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure bij verordeningen de daartoe noodzakelijke maatregelen vast, met uitsluiting van enige harmonisering van de wettelijke of bestuursrechtelijke bepalingen van de lidstaten.   
 3.  Dit artikel laat de verplichting van de lidstaten om het recht van de Unie uit te voeren, alsook de prerogatieven en taken van de Commissie, onverlet. Het laat ook de andere bepalingen van de Verdragen die voorzien in administratieve samenwerking tussen de lidstaten onderling en tussen de lidstaten en de Unie, onverlet.   
 
 ### VIERDE  DEEL  
@@ -1906,9 +1907,7 @@ b. sociale, onderwijs- en gezondheidsdiensten wanneer deze akkoorden de national
 
 ### Artikel  211  
 
-1.  Onverminderd de overige bepalingen van de Verdragen, met name de artikelen 208 tot en met 211, onderneemt de Unie activiteiten voor economische, ﬁnanciële en technische samenwerking, met inbegrip van bijstand op met name ﬁnancieel gebied, met derde landen die geen ontwikkelingsland zijn. Deze activiteiten zijn coherent met het ontwikkelingsbeleid van de Unie en vinden plaats in het kader van de beginselen en doelstellingen van haar externe optreden. De acties van de Unie en die van de lidstaten completeren en versterken elkaar.   
-2.  Het Europees Parlement en de Raad stellen, volgens de gewone wetgevingsprocedure, de voor de uitvoering van lid 1 nodige maatregelen vast.   
-3.  In het kader van hun onderscheiden bevoegdheden werken de Unie en de lidstaten samen met derde landen en de bevoegde internationale organisaties. De samenwerking van de Unie kan nader worden geregeld in overeenkomsten tussen de Unie en de betrokken derde partijen. De eerste alinea doet geen afbreuk aan de bevoegdheid van de lidstaten in internationale fora te onderhandelen en internationale overeenkomsten te sluiten.   
+In het kader van hun onderscheiden bevoegdheden werken de Unie en de lidstaten samen met derde landen en met de bevoegde internationale organisaties.  
 
 ### HOOFDSTUK  2  
 
@@ -1954,7 +1953,7 @@ Wanneer wegens de situatie in een derde land dringende ﬁnanciële hulp van de 
 
 ### Artikel  216  
 
-1.  De Unie kan een overeenkomst met één of meer derde landen of internationale organisaties sluiten wanneer de Verdragen daarin voorzien of wanneer het sluiten van een overeenkomst ofwel nodig is om, in het kader van het beleid van de Unie, een van de in de Verdragen bepaalde doelstellingen te verwezenlijken, of wanneer daarin bij een juridisch bindende handeling van de Unie is voorzien of wanneer zulks gevolgen kan hebben voor gemeenschappelijke regels of de strekking daarvan kan wijzigen.   
+1.  De Unie kan een overeenkomst met één of meer derde landen of internationale organisaties sluiten wanneer de Verdragen daarin voorzien of wanneer het sluiten van een overeenkomst ofwel nodig is om, in het kader van het beleid van de Unie, een van de in de Verdragen bepaalde doelstellingen te verwezenlijken, of wanneer daarin bij een juridisch bindende handeling van de Unie is voorzien of wanneer zulks gemeenschappelijke regels kan aantasten of de strekking daarvan kan wijzigen.   
 2.  De door de Unie gesloten overeenkomsten zijn verbindend voor de instellingen van de Unie en voor de lidstaten.   
 
 ### Artikel  217  
@@ -1985,9 +1984,9 @@ v. overeenkomsten betreffende gebieden waarop de gewone wetgevingsprocedure, of,
 b. na raadpleging van het Europees Parlement in de overige gevallen. Het Europees Parlement brengt advies uit binnen een termijn die de Raad naar gelang van de urgentie kan bepalen. Indien er binnen die termijn geen advies is uitgebracht, kan de Raad besluiten.     
 7.  Bij de sluiting van een overeenkomst kan de Raad, in afwijking van de leden 5, 6 en 9, de onderhandelaar machtigen om de wijzigingen die krachtens de overeenkomst volgens een vereenvoudigde procedure of door een bij de overeenkomst opgericht orgaan worden aangenomen, namens de Unie goed te keuren. De Raad kan aan deze machtiging bijzondere voorwaarden verbinden.   
 8.  Tijdens de gehele procedure besluit de Raad met gekwaliﬁceerde meerderheid van stemmen. De Raad besluit evenwel met eenparigheid van stemmen wanneer de overeenkomst een gebied betreft waarop handelingen van de Unie met eenparigheid van stemmen worden vastgesteld, alsmede ten aanzien van de associatieovereenkomsten en de in artikel 212 bedoelde overeenkomsten met de kandidaat-lidstaten. De Raad besluit eveneens met eenparigheid van stemmen over de overeenkomst inzake toetreding van de Unie tot het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. Dit besluit houdende sluiting van die overeenkomst treedt pas in werking nadat de lidstaten het overeenkomstig hun onderscheiden grondwettelijke bepalingen hebben goedgekeurd.   
-9.  De Raad stelt, op voorstel van de Commissie of van de hoge vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid, een besluit vast tot schorsing van de toepassing van een overeenkomst en tot bepaling van de standpunten die namens de Unie worden ingenomen in een krachtens een overeenkomst opgericht lichaam, wanneer dit lichaam handelingen met rechtsgevolgen vaststelt, met uitzondering van handelingen tot aanvulling of wijziging van het institutionele kader van het akkoord.   
+9.  De Raad stelt, op voorstel van de Commissie of van de hoge vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid, een besluit vast tot schorsing van de toepassing van een overeenkomst en tot bepaling van de standpunten die namens de Unie worden ingenomen in een krachtens een overeenkomst opgericht lichaam, wanneer dit lichaam handelingen met rechtsgevolgen vaststelt, met uitzondering van handelingen tot aanvulling of wijziging van het institutionele kader van de overeenkomst.   
 10.  Het Europees Parlement wordt in iedere fase van de procedure onverwijld en ten volle geïnformeerd.   
-11.  Een lidstaat, het Europees Parlement, de Raad of de Commissie kan het advies inwinnen van het Hof van Justitie over de verenigbaarheid van een voorgenomen overeenkomst met de Verdragen. Indien het Hof afwijzend adviseert, kan het voorgenomen akkoord niet in werking treden, behoudens in geval van wijziging daarvan of herziening van de Verdragen.   
+11.  Een lidstaat, het Europees Parlement, de Raad of de Commissie kan het advies inwinnen van het Hof van Justitie over de verenigbaarheid van een voorgenomen overeenkomst met de Verdragen. Indien het Hof afwijzend adviseert, kan de voorgenomen overeenkomst niet in werking treden, behoudens in geval van wijziging daarvan of herziening van de Verdragen.   
 
 ### Artikel  219  
 
@@ -2105,7 +2104,7 @@ Wanneer aan het Europees Parlement een motie van afkeuring betreffende het belei
 
 ### Artikel  235  
 
-1.  Ieder lid van de Europese Raad kan slechts door één ander lid worden gemachtigd om namens hem te stemmen. Artikel 16, lid 4, van het Verdrag betreffende de Europese Unie en artikel 238, lid 2, van dit Verdrag zijn van toepassing op de Europese Raad wanneer deze met gekwaliﬁceerde meerderheid van stemmen besluit. Wanneer de Europese Raad zich in een stemming uitspreekt, nemen de voorzitter van de Europese Raad en die van de Commissie niet aan de stemming deel. Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen beletsel voor het vaststellen van beslissingen van de Europese Raad waarvoor eenparigheid van stemmen is vereist. <sup> 8)  [Red: Het woord „beslissingen” moet worden vervangen door het woord „besluiten”.]  </sup>   
+1.  Ieder lid van de Europese Raad kan slechts door één ander lid worden gemachtigd om namens hem te stemmen. Artikel 16, lid 4, van het Verdrag betreffende de Europese Unie en artikel 238, lid 2, van dit Verdrag zijn van toepassing op de Europese Raad wanneer deze met gekwaliﬁceerde meerderheid van stemmen besluit. Wanneer de Europese Raad zich in een stemming uitspreekt, nemen de voorzitter van de Europese Raad en die van de Commissie niet aan de stemming deel. Onthouding van stemming door aanwezige of vertegenwoordigde leden vormt geen beletsel voor het vaststellen van beslissingen van de Europese Raad waarvoor eenparigheid van stemmen is vereist.   
 2.  De voorzitter van het Europees Parlement kan worden uitgenodigd om door de Europese Raad te worden gehoord.   
 3.  De Europese Raad besluit met gewone meerderheid van stemmen over procedurekwesties en over de vaststelling van zijn reglement van orde.   
 4.  De Europese Raad wordt bijgestaan door het secretariaat-generaal van de Raad.   
@@ -2650,7 +2649,7 @@ Indien bij het begin van een begrotingsjaar de begroting nog niet deﬁnitief is
 
 ### Artikel  316  
 
-Onder de voorwaarden die worden vastgesteld met toepassing van artikel 322, kunnen de kredieten welke aan het einde van het begrotingsjaar ongebruikt zijn gebleven, worden overgedragen uitsluitend naar het eerstvolgende begrotingsjaar, voorzover deze kredieten niet betrekking hebben op personeelsuitgaven. De kredieten worden ingedeeld in hoofdstukken, waarin de uitgaven worden gegroepeerd naar hun aard en bestemming en onderverdeeld overeenkomstig het ter uitvoering van artikel 322 vastgestelde reglement. De uitgaven van de Europese Raad en van de Raad, van de Commissie, evenals van het Hof van Justitie van de Europese Unie worden als afzonderlijke afdelingen in de begroting opgenomen, onverminderd een speciale regeling voor bepaalde gemeenschappelijke uitgaven.  
+Onder de voorwaarden die worden vastgesteld met toepassing van artikel 322, kunnen de kredieten welke aan het einde van het begrotingsjaar ongebruikt zijn gebleven, worden overgedragen uitsluitend naar het eerstvolgende begrotingsjaar, voorzover deze kredieten niet betrekking hebben op personeelsuitgaven. De kredieten worden ingedeeld in hoofdstukken, waarin de uitgaven worden gegroepeerd naar hun aard en bestemming en onderverdeeld overeenkomstig het ter uitvoering van artikel 322 vastgestelde reglement. De uitgaven van het Europees Parlement, van de Europese Raad en van de Raad, van de Commissie, evenals van het Hof van Justitie van de Europese Unie worden als afzonderlijke afdelingen in de begroting opgenomen, onverminderd een speciale regeling voor bepaalde gemeenschappelijke uitgaven.  
 
 ### HOOFDSTUK  4  
 
@@ -2824,7 +2823,7 @@ Indien maatregelen, genomen in de gevallen bedoeld in de artikelen 346 en 347, t
 
 ### Artikel  349  
 
-Gezien de structurele economische en sociale situatie van Guadeloupe, Frans Guyana, Martinique, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, die wordt bemoeilijkt door de grote afstand, het insulaire karakter, de kleine oppervlakte, een moeilijk reliëf en klimaat en de economische afhankelijkheid van enkele producten, welke factoren door hun blijvende en cumulatieve karakter de ontwikkeling van deze gebieden ernstig schaden, neemt de Raad op voorstel van de Commissie en na raadpleging van het Europees Parlement speciﬁeke maatregelen aan die er met name op gericht zijn de voorwaarden voor de toepassing van de Verdragen, met inbegrip van gemeenschappelijk beleid, op deze gebieden vast te stellen. Wanneer de betrokken speciﬁeke maatregelen volgens een bijzondere wetgevingsprocedure door de Raad worden vastgesteld, besluit hij eveneens op voorstel van de Commissie en na raadpleging van het Europees Parlement. De in de eerste alinea bedoelde maatregelen hebben met name betrekking op het douane- en handelsbeleid, het ﬁscale beleid, vrijhandelszones, het landbouw- en visserijbeleid, voorwaarden voor het aanbod van grondstoffen en essentiële consumptiegoederen, staatssteun en de voorwaarden voor toegang tot de structuurfondsen en tot horizontale programma’s van de Unie. De Raad neemt de in de eerste alinea bedoelde maatregelen aan, rekening houdend met de bijzondere kenmerken en beperkingen van de ultraperifere gebieden en zonder afbreuk te doen aan de integriteit en de samenhang van de rechtsorde van de Unie, met inbegrip van de interne markt en het gemeenschappelijk beleid.  
+Gezien de structurele economische en sociale situatie van Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, die wordt bemoeilijkt door de grote afstand, het insulaire karakter, de kleine oppervlakte, een moeilijk reliëf en klimaat en de economische afhankelijkheid van enkele producten, welke factoren door hun blijvende en cumulatieve karakter de ontwikkeling van deze gebieden ernstig schaden, neemt de Raad op voorstel van de Commissie en na raadpleging van het Europees Parlement speciﬁeke maatregelen aan die er met name op gericht zijn de voorwaarden voor de toepassing van de Verdragen, met inbegrip van gemeenschappelijk beleid, op deze gebieden vast te stellen. Wanneer de betrokken speciﬁeke maatregelen volgens een bijzondere wetgevingsprocedure door de Raad worden vastgesteld, besluit hij eveneens op voorstel van de Commissie en na raadpleging van het Europees Parlement. De in de eerste alinea bedoelde maatregelen hebben met name betrekking op het douane- en handelsbeleid, het ﬁscale beleid, vrijhandelszones, het landbouw- en visserijbeleid, voorwaarden voor het aanbod van grondstoffen en essentiële consumptiegoederen, staatssteun en de voorwaarden voor toegang tot de structuurfondsen en tot horizontale programma’s van de Unie. De Raad neemt de in de eerste alinea bedoelde maatregelen aan, rekening houdend met de bijzondere kenmerken en beperkingen van de ultraperifere gebieden en zonder afbreuk te doen aan de integriteit en de samenhang van de rechtsorde van de Unie, met inbegrip van de interne markt en het gemeenschappelijk beleid.  
 
 ### Artikel  350  
 
@@ -2861,7 +2860,7 @@ Voor de toepassing van artikel 7 van het Verdrag betreffende de Europese Unie in
 
 Naast de bepalingen van artikel 52 van het Verdrag betreffende de Europese Unie over het territoriale toepassingsgebied van de Verdragen, gelden onderstaande bepalingen: 
 
-1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig artikel 349.  
+1. De bepalingen van de Verdragen zijn van toepassing op Guadeloupe, Frans Guyana, Martinique, Mayotte, Réunion, Saint Martin, de Azoren, Madeira en de Canarische Eilanden, overeenkomstig artikel 349.  
 
 2. De landen en gebieden overzee waarvan de lijst als bijlage II is gehecht, vormen het onderwerp van de bijzondere associatieregeling omschreven in het vierde deel. De Verdragen zijn niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet op bovengenoemde lijst voorkomen.  
 
@@ -2898,7 +2897,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit 
 ####Lijst genoemd in artikel 38 van het Verdrag betreffende de werking van de Europese Unie
 
 | (1) Nummers van de naamlijst van Brussel  | (2) Omschrijving der goederen  |
-|:---|:---|
+|---|---|
 | Hoofdstuk 1  | Levende dieren  |
 | Hoofdstuk 2  | Vlees en eetbare slachtafvallen  |
 | Hoofdstuk 3  | Vis, schaal-, schelp- en weekdieren  |
@@ -2964,8 +2963,6 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit 
 – Franse Zuidelijke en Zuidpoolgebieden  
 
 – Wallisarchipel en Futunaeiland  
-
-– Mayotte  
 
 – Saint Pierre en Miquelon  
 

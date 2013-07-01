@@ -678,20 +678,21 @@ a. er sprake is van een wettelijke verplichting tot gegevensverstrekking;
 
 b. gegevensverstrekking noodzakelijk is voor de uitvoering van de beroepspensioenregeling;  
 
-c. gegevensverstrekking noodzakelijk is in verband met de toepassing van de artikelen 81 tot en met 99;  
+c. gegevensverstrekking noodzakelijk is in verband met waardeoverdracht;  
 
-d. het gegevensverstrekking betreft aan de toezichthouder voorzover deze gegevensverstrekking nodig is voor de vervulling van zijn krachtens deze wet opgelegde taken, of  
+d. het gegevensverstrekking betreft aan de toezichthouder voorzover deze gegevensverstrekking nodig is voor de vervulling van zijn bij of krachtens deze wet opgelegde taken, of  
 
-e. er sprake is van het verstrekken van naam-, adres- en woonplaatsgegevens aan verenigingen met volledige rechtsbevoegdheid die als statutair doel of mede als statutair doel hebben het behartigen van de belangen van haar leden als belanghebbenden bij een beroepspensioenregeling.     
-3.  Indien er gegevensverstrekking als bedoeld in het tweede lid, onderdeel b of onderdeel e heeft plaatsgevonden, zijn het eerste en het tweede lid van overeenkomstige toepassing op de persoon of de rechtspersoon aan wie de gegevens zijn verstrekt.   
-4.  In afwijking van het eerste lid kan een deelnemer, gewezen deelnemer, een andere aanspraakgerechtigde of een pensioengerechtigde, de pensioenuitvoerder machtigen zijn gegevens te verstrekken aan een door hem aan te wijzen derde. De pensioenuitvoerder onthoudt zich daarbij van suggesties met betrekking tot de aan te wijzen derde.   
+e. er sprake is van het verstrekken van naam-, adres- en woonplaatsgegevens aan verenigingen met volledige rechtsbevoegdheid die als statutair doel of mede als statutair doel hebben het behartigen van de belangen van haar leden als belanghebbenden bij een beroepspensioenregeling, dan wel aan de beroepspensioenvereniging die als uitsluitend statutair doel heeft het verzorgen van de beroepspensioenregeling van de pensioenuitvoerder.     
+3.  In afwijking van het eerste lid kan een deelnemer, gewezen deelnemer, een andere aanspraakgerechtigde of een pensioengerechtigde, de pensioenuitvoerder machtigen zijn gegevens te verstrekken aan een door hem aan te wijzen derde. De pensioenuitvoerder onthoudt zich daarbij van suggesties met betrekking tot de aan te wijzen derde.   
+4.  Indien er gegevensverstrekking als bedoeld in het tweede lid, onderdeel b of onderdeel e heeft plaatsgevonden, zijn het eerste, tweede en derde lid van overeenkomstige toepassing op de natuurlijke- of rechtspersoon aan wie de gegevens zijn verstrekt. Indien de rechtspersoon naast de werkzaamheden uit hoofde waarvan de gegevens zijn verstrekt ook andere werkzaamheden verricht, wordt bij de toepassing van het derde lid, de rechtspersoon als derde aangemerkt voor zover het de andere werkzaamheden betreft.   
 
 ### Artikel  47  
 
 ####Beperking van informatie aan deelnemers
 
 1.  Behoudens het geven van algemene informatie, geeft de pensioenuitvoerder deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden slechts informatie over de beroepspensioenregeling die door de pensioenuitvoerder zelf wordt uitgevoerd.   
-2.  Indien er in verband met de uitvoering van een beroepspensioenregeling gegevensverstrekking, als bedoeld in artikel 46, tweede lid, onderdeel b, heeft plaatsgevonden, is het eerste lid van overeenkomstige toepassing op de persoon of de rechtspersoon aan wie de gegevens zijn verstrekt.   
+2.  De pensioenuitvoerder die een beroepspensioenregeling uitvoert hanteert gelijke voorwaarden voor alle aanbieders van reclame-uitingen in informatiedragers van de pensioenuitvoerder. Deze voorwaarden worden op een voor een ieder toegankelijke wijze gepubliceerd.   
+3.  Indien er in verband met de uitvoering van een beroepspensioenregeling gegevensverstrekking, als bedoeld in artikel 46, tweede lid, onderdeel b, heeft plaatsgevonden, is het eerste lid van overeenkomstige toepassing op de natuurlijke- of rechtspersoon aan wie de gegevens zijn verstrekt.   
 
 ### Artikel  48  
 
@@ -2593,8 +2594,7 @@ e. de datum waarop de in het eerste lid bedoelde aanmaning is geschied.
 
 ####Bevoegde rechter
 
-1.  Voor burgerlijke rechtsvorderingen ter zake van deelneming in en uitkering op grond van een beroepspensioenregeling is de kantonrechter bevoegd.   
-2.  In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.   
+Voor burgerlijke rechtsvorderingen ter zake van deelneming in en uitkering op grond van een beroepspensioenregeling is de kantonrechter bevoegd.  
 
 ### Artikel  212  
 

@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; bodem: het vaste deel van de aarde met de zich daarin bevindende vloeibare en gasvormige bestanddelen en organismen; belang van de bescherming van de bodem: het belang van het voorkomen, beperken of ongedaan maken van veranderingen van hoedanigheden van de bodem, die een vermindering of bedreiging betekenen van de functionele eigenschappen die de bodem voor mens, plant of dier heeft; geval van verontreiniging: geval van verontreiniging of dreigende verontreiniging van de bodem dat betrekking heeft op grondgebieden die vanwege die verontreiniging, de oorzaak of de gevolgen daarvan in technische, organisatorische en ruimtelijke zin met elkaar samenhangen; oriënterend onderzoek: onderzoek naar aanleiding van een vermoeden dat sprake is van een geval van verontreiniging; nader onderzoek: onderzoek met betrekking tot de vraag of een geval van verontreiniging een geval van ernstige verontreiniging is; onderzoeksgeval: geval waarin oriënterend of nader onderzoek zal plaatsvinden of plaatsvindt; saneren: het beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem; geval van ernstige verontreiniging: geval van verontreiniging waarbij de bodem zodanig is of dreigt te worden verontreinigd, dat de functionele eigenschappen die de bodem voor mens, plant of dier heeft, ernstig zijn of dreigen te worden verminderd; saneringsonderzoek: inventarisatie van de mogelijke wijzen van sanering, inhoudende een beschrijving van hun milieuhygiënische, technische en financiële aspecten, alsmede van de kwaliteit van de bodem die met de op die wijzen uitgevoerde sanering zal worden bereikt, uitmondend in een keuze van de wijze van sanering; beheerder: beheerder als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); provinciaal milieuprogramma: provinciaal milieuprogramma, bedoeld in [artikel 4.14 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover dat betrekking heeft op gevallen als bedoeld in het [tweede lid, onder a, onder 1°, van dat artikel](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); gebiedsgerichte aanpak: aanpak die is gericht op de sanering van meerdere verontreinigingen van het diepere grondwater in een daartoe aangewezen gebied.  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; bodem: het vaste deel van de aarde met de zich daarin bevindende vloeibare en gasvormige bestanddelen en organismen; belang van de bescherming van de bodem: het belang van het voorkomen, beperken of ongedaan maken van veranderingen van hoedanigheden van de bodem, die een vermindering of bedreiging betekenen van de functionele eigenschappen die de bodem voor mens, plant of dier heeft; geval van verontreiniging: geval van verontreiniging of dreigende verontreiniging van de bodem dat betrekking heeft op grondgebieden die vanwege die verontreiniging, de oorzaak of de gevolgen daarvan in technische, organisatorische en ruimtelijke zin met elkaar samenhangen; oriënterend onderzoek: onderzoek naar aanleiding van een vermoeden dat sprake is van een geval van verontreiniging; nader onderzoek: onderzoek met betrekking tot de vraag of een geval van verontreiniging een geval van ernstige verontreiniging is; onderzoeksgeval: geval waarin oriënterend of nader onderzoek zal plaatsvinden of plaatsvindt; saneren: het beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem; geval van ernstige verontreiniging: geval van verontreiniging waarbij de bodem zodanig is of dreigt te worden verontreinigd, dat de functionele eigenschappen die de bodem voor mens, plant of dier heeft, ernstig zijn of dreigen te worden verminderd; saneringsonderzoek: inventarisatie van de mogelijke wijzen van sanering, inhoudende een beschrijving van hun milieuhygiënische, technische en financiële aspecten, alsmede van de kwaliteit van de bodem die met de op die wijzen uitgevoerde sanering zal worden bereikt, uitmondend in een keuze van de wijze van sanering; beheerder: beheerder als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); gebiedsgerichte aanpak: aanpak die is gericht op de sanering van meerdere verontreinigingen van het diepere grondwater in een daartoe aangewezen gebied.  
 
 ### Hoofdstuk  II  
 
@@ -185,7 +185,7 @@ b. welke voorschriften ter bescherming van het grondwater moeten worden verbonde
 1.  Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de bescherming van de bodem voor daarbij aangegeven categorieën van bodem regels worden gesteld ten aanzien van het toepassen van grond en baggerspecie op of in de bodem.   
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat bij besluit van een daarin aangewezen bestuursorgaan, grond of baggerspecie kan worden toegepast in andere gevallen dan die ingevolge de regels bedoeld in het eerste lid, mits dit geen onaanvaardbare risico’s oplevert voor de volksgezondheid en geen bedreiging vormt van de functionele eigenschappen van water, bodem en lucht voor mens, plant en dier. Een bestuursorgaan dat van deze mogelijkheid gebruik maakt stelt in het daartoe strekkend besluit de nodige eisen aan de kwaliteit, waaronder de samenstelling, van grond of baggerspecie.   
 3.  Tot de in het eerste lid bedoelde regels kunnen in elk geval behoren regels ten aanzien van de kwaliteit, waaronder de samenstelling en emissie, van grond of baggerspecie en de wijze van toetsing aan de kwaliteit en het gebruik van de bodem waarop of waarin grond of baggerspecie wordt toegepast.   
-4.  Bij de in het eerste lid bedoelde maatregel kan worden bepaald in welke gevallen de in het tweede lid bedoelde afwijking moet voldoen aan de krachtens artikel 36 en 37, eerste en zevende lid, van de Wet bodembescherming gestelde regels.   
+4.  Bij de in het eerste lid bedoelde maatregel kan worden bepaald in welke gevallen de in het tweede lid bedoelde afwijking moet voldoen aan de krachtens artikel 36 en 37, eerste en achtste lid, van de Wet bodembescherming gestelde regels.   
 5.  Bij de in het eerste lid bedoelde maatregel kan worden bepaald dat het aangewezen bestuursorgaan, bedoeld in het tweede lid, een kaart vaststelt met gegevens over de kwaliteit en functie van de bodem.   
 
 ### Artikel  12b  
@@ -286,14 +286,30 @@ d. indien verontreinigd grondwater zal worden onttrokken, de bestemming van dat 
 e. indien verontreinigde bodem zal worden afgegraven, de bestemming van de grond en of de verontreinigde grond zal worden gereinigd of geïmmobiliseerd;  
 
 f. indien de verontreinigde bodem geheel of gedeeltelijk niet zal worden gereinigd, wordt tevens een beoordeling van de reinigbaarheid of de immobiliseerbaarheid van de verontreinigde grond overgelegd.     
-3.  Een melding als bedoeld in het eerste lid kan achterwege blijven, indien de betrokkene redelijkerwijs kan aannemen dat de sanering of de handeling waarop zijn voornemen betrekking heeft geen geval van ernstige verontreiniging betreft en tevens vaststaat: 
+3.  In afwijking van het tweede lid, worden bij een melding als bedoeld in het eerste lid, waarbij een verontreiniging wordt verminderd of verplaatst uitsluitend door het onttrekken van grondwater als bedoeld in [artikel 1.1, eerste lid, van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), waarvoor: 
+
+a. een vergunning is vereist op grond van [artikel 6.4 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), en de onttrekking geschiedt ten behoeve van een bodemenergiesysteem,  
+
+b. een vergunning is vereist krachtens verordening van een waterschap, of  
+
+c. krachtens de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) een melding moet worden gedaan aan het bevoegd gezag, bedoeld in die wet,   de in het vierde lid bedoelde gegevens verstrekt.   
+4.  Bij een melding, bedoeld in het derde lid, worden de volgende gegevens verstrekt: 
+
+a. het tijdstip waarop de onttrekking van verontreinigd grondwater volgens voornemen zal aanvangen en de voorgenomen duur van deze onttrekking;  
+
+b. de bestemming van het grondwater;  
+
+c. gegevens waaruit blijkt dat de onttrekking van het grondwater en indien van toepassing het terug brengen van dat grondwater het belang van de bescherming van de bodem niet schaadt, en  
+
+d. een afschrift van de aanvraag van die vergunning dan wel van die melding aan het bevoegd gezag, bedoeld in die [wet](../../../../wet/waterwet/BWBR0025458/README.md).     
+5.  Een melding als bedoeld in het eerste lid kan achterwege blijven, indien de betrokkene redelijkerwijs kan aannemen dat de sanering of de handeling waarop zijn voornemen betrekking heeft geen geval van ernstige verontreiniging betreft en tevens vaststaat: 
 
 1°. dat de betreffende hoeveelheid verontreinigde grond of verontreinigd grondwater 50 kubieke meter onderscheidenlijk 1000 kubieke meter niet te boven gaat, of  
 
 2°. dat uit de aard van de in het eerste lid bedoelde handelingen volgt dat de grond slechts tijdelijk wordt verplaatst en na verplaatsing wordt teruggebracht.     
-4.  Bij algemene maatregel van bestuur kan worden bepaald in welke andere gevallen dan die, genoemd in het derde lid, een melding als bedoeld in het eerste lid achterwege kan blijven, mits het niet gevallen van ernstige verontreiniging betreft.   
-5.  Gedeputeerde staten stellen, indien het niet hun voornemen betreft, burgemeester en wethouders van de betrokken gemeente op de hoogte van een ingevolge het eerste lid gedane melding. Tegelijkertijd doen zij daarvan kennisgeving in één of meer dag-, nieuws- of huis-aan-huis-bladen.   
-6.  Dit artikel is niet van toepassing in gevallen als bedoeld in de artikelen 27, 30, eerste lid, en 43.   
+6.  Bij algemene maatregel van bestuur kan worden bepaald in welke andere gevallen dan die, genoemd in het vijfde lid, een melding als bedoeld in het eerste lid achterwege kan blijven, mits het niet gevallen van ernstige verontreiniging betreft.   
+7.  Gedeputeerde staten stellen, indien het niet hun voornemen betreft, burgemeester en wethouders van de betrokken gemeente op de hoogte van een ingevolge het eerste lid gedane melding. Tegelijkertijd doen zij daarvan kennisgeving in één of meer dag-, nieuws-, of huis-aan-huisbladen dan wel langs elektronische weg.   
+8.  Dit artikel is niet van toepassing in gevallen als bedoeld in de artikelen 27, 30, eerste lid, en 43.   
 
 ### Artikel  28a  
 
@@ -305,17 +321,31 @@ b. de wijze van indeling in partijen van de verontreinigde bodem op de te ontgra
 
 ### Artikel  29  
 
-1.  Gedeputeerde staten stellen in een beschikking vast of sprake is van een geval van ernstige verontreiniging: 
+1.  Gedeputeerde staten kunnen in een beschikking vaststellen of sprake is van een geval van ernstige verontreiniging: 
 
 a. naar aanleiding van een nader onderzoek of  
 
 b. naar aanleiding van een melding als bedoeld in artikel 28, eerste lid.     
-2.  Zij beslissen zo spoedig mogelijk, doch uiterlijk binnen vijftien weken na ontvangst van het nader onderzoek of de melding.   
-3.  Degene die een melding als bedoeld in artikel 28, eerste lid, heeft gedaan, gaat niet over tot de in dat lid bedoelde handelingen dan: 
+2.  Gedeputeerde staten nemen in ieder geval een beschikking: 
 
-a. nadat een beschikking als bedoeld in het eerste lid, onder *b*, is gegeven, dan wel  
+a. op aanvraag van degene die het nader onderzoek heeft overgelegd of degene die de melding, bedoeld in artikel 28, eerste lid, heeft gedaan;  
 
-b. indien binnen de termijn, bedoeld in het tweede lid, geen beschikking is gegeven als bedoeld in het eerste lid, onder *b*: nadat die termijn is verstreken.     
+b. indien toepassing wordt gegeven aan artikel 39, eerste lid.     
+3.  Gedeputeerde staten nemen een beschikking zo spoedig mogelijk, doch uiterlijk binnen vijftien weken na ontvangst van: 
+
+a. het nader onderzoek of de melding, bedoeld in artikel 28, eerste lid, of  
+
+b. een later daartoe strekkende aanvraag van degene die het nader onderzoek heeft overgelegd of degene die de melding, bedoeld in artikel 28, eerste lid, heeft gedaan.     
+4.  Degene die een melding als bedoeld in artikel 28, eerste lid, heeft gedaan, gaat niet over tot de in dat lid bedoelde handelingen dan: 
+
+a. nadat een beschikking als bedoeld in het eerste lid, onder b, is gegeven, dan wel  
+
+b. indien binnen de termijn, bedoeld in het derde lid, geen beschikking is gegeven als bedoeld in het eerste lid, onder b: nadat die termijn is verstreken.     
+5.  In afwijking van het eerste en tweede lid nemen gedeputeerde staten geen beschikking als bedoeld in het eerste lid naar aanleiding van een melding die is gedaan overeenkomstig artikel 28, derde lid. Degene die een melding als bedoeld in artikel 28, derde lid, heeft gedaan, gaat niet over tot de in dat lid bedoelde handelingen dan: 
+
+a. nadat sinds de melding ten minste vijf weken zijn verlopen, en  
+
+b. indien voor die handelingen een vergunning is vereist op grond van de [Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) of de verordening van een waterschap: nadat die vergunning is verleend.     
 
 ### §  2  
 
@@ -368,9 +398,10 @@ Bij of krachtens algemene maatregel van bestuur wordt bepaald in welke gevallen 
 2.  Indien gedeputeerde staten vaststellen dat van risico's sprake is als bedoeld in het eerste lid, bepalen zij dat met de sanering dient te worden begonnen voor een door hen vast te stellen tijdstip dat ligt zo spoedig mogelijk na de inwerkingtreding van de beschikking, bedoeld in het eerste lid. Bij de beschikking kunnen gedeputeerde staten het uiterste tijdstip van indienen van het saneringsplan, bedoeld in artikel 39, aangeven.   
 3.  Bij de beschikking kunnen gedeputeerde staten aangeven welke tijdelijke beveiligingsmaatregelen aan de sanering vooraf dienen te gaan en op welke wijze en tijdstippen aan hen verslag wordt gedaan van de uitvoering van die maatregelen.   
 4.  Indien gedeputeerde staten vaststellen dat geen sprake is van risico’s als bedoeld in het eerste lid, kunnen gedeputeerde staten bij de beschikking aangeven welke maatregelen in het belang van de bescherming van de bodem genomen moeten worden en op welke wijze en tijdstippen aan hen verslag wordt gedaan van de uitvoering van die maatregelen. Tevens kan worden aangegeven welke beperkingen in het gebruik van de bodem door de eigenaar, erfpachter of gebruiker van het grondgebied waar sprake is van ernstige verontreiniging, in acht worden genomen.   
-5.  Bij de beschikking geven gedeputeerde staten aan welke wijzigingen van het gebruik van de bodem aan hen dienen te worden gemeld.   
-6.  Gedeputeerde staten kunnen naar aanleiding van een verslag als bedoeld in het derde en vierde lid, een melding als bedoeld in het vijfde lid, of een wijziging van omstandigheden de risico's, bedoeld in het eerste lid, anders vaststellen of het tijdstip van de sanering of van het indienen van het saneringsplan, bedoeld in het tweede lid, vaststellen of anders vaststellen.   
-7.  Bij de maatregel, bedoeld in artikel 36, kunnen regels worden gesteld met betrekking tot de toepassing van het eerste, tweede en zesde lid.   
+5.  Bij de beschikking kunnen gedeputeerde staten aangeven door welke natuurlijke persoon of rechtspersoon een verplichting, bij de beschikking opgelegd met toepassing van het tweede lid, het derde lid of de eerste volzin van het vierde lid, moet worden nagekomen.   
+6.  Bij de beschikking geven gedeputeerde staten aan welke wijzigingen van het gebruik van de bodem aan hen dienen te worden gemeld.   
+7.  Gedeputeerde staten kunnen naar aanleiding van een verslag als bedoeld in het derde en vierde lid, een melding als bedoeld in het zesde lid, of een wijziging van omstandigheden de risico's, bedoeld in het eerste lid, anders vaststellen of het tijdstip van de sanering of van het indienen van het saneringsplan, bedoeld in het tweede lid, vaststellen of anders vaststellen.   
+8.  Bij de maatregel, bedoeld in artikel 36, kunnen regels worden gesteld met betrekking tot de toepassing van het eerste, tweede en zevende lid.   
 
 ### Artikel  38  
 
@@ -380,7 +411,7 @@ a. de bodem ten minste geschikt wordt gemaakt voor de functie die hij na de sane
 
 b. het risico van de verspreiding van verontreinigende stoffen zoveel mogelijk wordt beperkt;  
 
-c. de noodzaak tot het nemen van maatregelen en beperkingen in het gebruik van de bodem als bedoeld in artikel 39d zoveel mogelijk wordt beperkt.     
+c. de noodzaak tot het nemen van maatregelen en beperkingen in het gebruik van de bodem als bedoeld in artikel 39c en artikel 39d zoveel mogelijk wordt beperkt.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het bepaalde in het eerste lid nadere regels worden gesteld.   
 3.  Indien het belang van de bescherming van de bodem zich daartegen niet verzet, kunnen gedeputeerde staten op verzoek van degene die de bodem saneert, bepalen dat de sanering in fasen wordt uitgevoerd. Zij geven daarbij aan: 
 
@@ -416,10 +447,11 @@ h. indien de verontreiniging zich kan verspreiden en de saneringsmaatregelen zic
 1°. een overzicht van de tussentijds beoogde effecten, en de tijdstippen waarop gedeputeerde staten schriftelijk worden geïnformeerd omtrent de effecten van de getroffen maatregelen en in hoeverre deze overeenstemmen met de beoogde effecten;  
 
 2°. een beschrijving van een andere methode om de beoogde effecten, bedoeld onder b, te bereiken, voor het geval de in het saneringsplan opgenomen methode niet tot die effecten zou leiden.     Provinciale staten kunnen nadere regels stellen omtrent de gegevens die in het saneringsplan worden opgenomen.   
-2.  Het saneringsplan behoeft de instemming van gedeputeerde staten, die slechts met het plan instemmen indien door de daarin beschreven sanering naar hun oordeel wordt voldaan aan het bij of krachtens artikel 38 bepaalde. Zij beslissen hierover binnen vijftien weken na de indiening van het saneringsplan. Zij kunnen deze termijn binnen zes weken na de datum van ontvangst van de melding verlengen met ten hoogste vijftien weken. Met de uitvoering van het saneringsplan kan worden begonnen nadat gedeputeerde staten met dat plan hebben ingestemd of die instemming van rechtswege is verleend. Aan de instemming kunnen voorschriften worden verbonden. De instemming is van rechtswege verleend, indien gedeputeerde staten niet binnen de instemmingstermijn van vijftien weken of voor de afloop van de termijn waarmee is verlengd een beslissing hebben genomen. Een instemming van rechtswege wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  Het saneringsplan behoeft de instemming van gedeputeerde staten, die slechts met het plan instemmen indien door de daarin beschreven sanering naar hun oordeel wordt voldaan aan het bij of krachtens artikel 38 bepaalde. Gedeputeerde staten kunnen hun instemming aan het plan onthouden, indien niet is voldaan aan het bepaalde bij of krachtens het eerste lid. Zij beslissen hierover binnen vijftien weken na de indiening van het saneringsplan. Zij kunnen deze termijn binnen zes weken na de datum van ontvangst van de melding verlengen met ten hoogste vijftien weken. Met de uitvoering van het saneringsplan kan worden begonnen nadat gedeputeerde staten met dat plan hebben ingestemd of die instemming van rechtswege is verleend. Aan de instemming kunnen voorschriften worden verbonden. De instemming is van rechtswege verleend, indien gedeputeerde staten niet binnen de instemmingstermijn van vijftien weken of voor de afloop van de termijn waarmee is verlengd een beslissing hebben genomen. Een instemming van rechtswege wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 3.  Indien het voornemen, bedoeld in artikel 28, eerste lid, inhoudt dat de sanering niet onmiddellijk wordt uitgevoerd nadat de beschikking, bedoeld in artikel 29, eerste lid, is gegeven, kunnen gedeputeerde staten bepalen dat de in het eerste lid bedoelde stukken niet reeds bij de melding behoeven te worden ingediend.   
-4.  Degene die de bodem saneert, meldt wijzigingen van het saneringsplan, waarmee door gedeputeerde staten is ingestemd, uiterlijk twee weken voorafgaand aan de uitvoering daarvan aan gedeputeerde staten. Provinciale staten kunnen nadere regels stellen omtrent de gegevens die bij de melding worden verstrekt. Artikel 28, vijfde lid, is van overeenkomstige toepassing.   
+4.  Degene die de bodem saneert, meldt wijzigingen van het saneringsplan, waarmee door gedeputeerde staten is ingestemd, uiterlijk twee weken voorafgaand aan de uitvoering daarvan aan gedeputeerde staten. Provinciale staten kunnen nadere regels stellen omtrent de gegevens die bij de melding worden verstrekt. Artikel 28, zevende lid, is van overeenkomstige toepassing.   
 5.  Gedeputeerde staten kunnen naar aanleiding van de melding, bedoeld in het vierde lid, aanwijzingen geven omtrent de verdere uitvoering van de sanering, die een wijziging inhouden van onderdelen van het saneringsplan waarmee reeds is ingestemd.   
+6.  Dit artikel is niet van toepassing op een melding als bedoeld in artikel 28, derde lid.   
 
 ### Artikel  39a  
 
@@ -437,11 +469,12 @@ b. de gegevens die bij de melding, bedoeld in het derde lid, moeten worden verst
 c. de gegevens die degene die saneert tijdens de sanering aan gedeputeerde staten moet verstrekken en de wijze en het tijdstip waarop dat gebeurt;  
 
 d. de aanpak en wijze van sanering waaronder begrepen aanvang, duur en afronding van de sanering.     
-3.  Degene die voornemens is te saneren dan wel handelingen te verrichten ten gevolge waarvan de verontreiniging van de bodem wordt verminderd of verplaatst overeenkomstig de regels gesteld krachtens het eerste lid, doet van dat voornemen melding bij gedeputeerde staten van de betrokken provincie. Gedeputeerde staten stellen, indien het niet hun voornemen betreft, burgemeester en wethouders van de betrokken gemeente op de hoogte van de gedane melding. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze en het tijdstip waarop de kennisgeving van de melding in één of meer dag-, nieuws- of huis-aan-huis-bladen plaatsvindt en kan worden bepaald in welke gevallen een dergelijke kennisgeving achterwege kan worden gelaten.   
+3.  Degene die voornemens is te saneren dan wel handelingen te verrichten ten gevolge waarvan de verontreiniging van de bodem wordt verminderd of verplaatst overeenkomstig de regels gesteld krachtens het eerste lid, doet van dat voornemen melding bij gedeputeerde staten van de betrokken provincie. Artikel 28, zevende lid, is van overeenkomstige toepassing. Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze en het tijdstip waarop de kennisgeving van de melding plaatsvindt en kan worden bepaald in welke gevallen een dergelijke kennisgeving achterwege kan worden gelaten.   
 4.  Met de sanering kan met inachtneming van de regels gesteld krachtens het eerste lid worden begonnen nadat vijf weken zijn verstreken vanaf de datum van ontvangst van de melding, bedoeld in het derde lid, door gedeputeerde staten. In bij algemene maatregel van bestuur aangegeven omstandigheden kan bij die maatregel een kortere termijn dan vijf weken worden gesteld. De melding vervalt indien niet met de sanering wordt begonnen binnen een bij algemene maatregel van bestuur gestelde termijn.   
 5.  De artikelen 28, 29, 37, 39, 39a, 39c, 39d en 40 zijn niet van toepassing indien de sanering wordt gemeld en vervolgens wordt uitgevoerd overeenkomstig de regels gesteld bij of krachtens het eerste, derde en vierde lid.   
 6.  Na de uitvoering van de sanering doet degene die de bodem heeft gesaneerd daarvan schriftelijk verslag aan gedeputeerde staten. Het verslag behoeft de instemming van gedeputeerde staten die slechts met het verslag instemmen indien is gesaneerd overeenkomstig de regels gesteld bij of krachtens het eerste, derde en vierde lid. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gegevens die bij het verslag moeten worden verstrekt, de wijze waarop die gegevens worden verstrekt, en het tijdstip waarop dat gebeurt en de termijn waarbinnen de instemming met het verslag plaatsvindt.   
-7.  Dit artikel is niet van toepassing in gevallen als bedoeld in de artikelen 27, 30, eerste lid, en 43.   
+7.  Bij of krachtens algemene maatregel van bestuur kunnen categorieën van saneringen worden aangewezen waarvoor het verslag, bedoeld in het zesde lid, geen instemming van gedeputeerde staten behoeft.   
+8.  Dit artikel is niet van toepassing in gevallen als bedoeld in de artikelen 27, 30, eerste lid, en 43.   
 
 ### Artikel  39c  
 
@@ -457,25 +490,26 @@ d. indien ten behoeve van de sanering grond is aangevoerd de hoeveelheid, de kwa
 
 e. een evaluatie van de mate waarin de effecten van de getroffen saneringsmaatregelen overeenstemmen met de beoogde effecten, bedoeld in artikel 39, eerste lid, onder b;  
 
-f. indien na de sanering nog verontreiniging in de bodem aanwezig is, het aangeven van de noodzaak van beperkingen in het gebruik van de bodem, of maatregelen in het belang van de bescherming van de bodem.     
-2.  Het verslag behoeft de instemming van gedeputeerde staten, die slechts met het verslag instemmen indien gesaneerd is overeenkomstig het bepaalde bij of krachtens artikel 38. Artikel 28, vijfde lid, is van overeenkomstige toepassing voor wat betreft de instemming met het verslag.   
+f. indien na de sanering nog verontreiniging in de bodem aanwezig is en alleen beperkingen in het gebruik van de bodem noodzakelijk zijn, een beschrijving van deze beperkingen. Indien na de sanering alleen maatregelen in het belang van de bescherming van de bodem nodig zijn, het aangeven van de noodzaak daarvan. Indien na de sanering zowel beperkingen als maatregelen noodzakelijk zijn, het aangeven van de noodzaak van deze beperkingen en maatregelen.     
+2.  Het verslag behoeft de instemming van gedeputeerde staten, die slechts met het verslag instemmen indien gesaneerd is overeenkomstig het bepaalde bij of krachtens artikel 38, en indien de daarin opgenomen beperkingen in het gebruik van de bodem naar hun oordeel voldoende zijn om ervoor te zorgen dat de verontreiniging die na de sanering is achtergebleven niet zal leiden tot een vermindering van de kwaliteit van de bodem zoals beschreven in het verslag op grond van het eerste lid, onder b. Gedeputeerde staten kunnen hun instemming aan het verslag onthouden, indien de sanering niet is geschied overeenkomstig het saneringsplan waarmee door gedeputeerde staten is ingestemd, de beschikking waarbij gedeputeerde staten met het saneringsplan hebben ingestemd en de daaraan verbonden voorschriften, of aanwijzingen die gedeputeerde staten op grond van artikel 39, vijfde lid, hebben gegeven. Aan de instemming kunnen voorschriften worden verbonden. Artikel 28, zevende lid, is van overeenkomstige toepassing voor wat betreft de instemming met het verslag.   
 3.  Provinciale staten kunnen nadere regels stellen omtrent de gegevens die in het verslag worden opgenomen.   
+4.  Bij de beschikking tot instemming met het schriftelijk verslag kunnen gedeputeerde staten aangeven welke wijzigingen in het gebruik van de bodem aan hen dienen te worden gemeld. Naar aanleiding van die melding kunnen gedeputeerde staten bepalen dat een aanvullende sanering moet plaatsvinden.   
 
 ### Artikel  39d  
 
-1.  Indien na de sanering verontreiniging in de bodem aanwezig is gebleven en in het verslag, bedoeld in artikel 39c is aangegeven dat beperkingen in het gebruik van de bodem of maatregelen als bedoeld in artikel 39c, eerste lid, onder f, noodzakelijk zijn, wordt tegelijk met of zo spoedig mogelijk na de toezending van dat verslag door degene die de bodem heeft gesaneerd een nazorgplan ingediend waarin die beperkingen in het gebruik of die maatregelen worden beschreven. Het nazorgplan bevat tevens een begroting van de kosten van de maatregelen.   
+1.  Indien na de sanering verontreiniging in de bodem aanwezig is gebleven en in het verslag, bedoeld in artikel 39c, is aangegeven dat maatregelen als bedoeld in artikel 39c, eerste lid, onder f, noodzakelijk zijn, wordt tegelijk met of zo spoedig mogelijk na de toezending van dat verslag door degene die de bodem heeft gesaneerd een nazorgplan ingediend waarin die maatregelen worden beschreven. Het nazorgplan bevat tevens een begroting van de kosten van de maatregelen en, voor zover naast maatregelen ook beperkingen in het gebruik van de bodem noodzakelijk zijn, een beschrijving van deze beperkingen.   
 2.  De maatregelen kunnen onder meer inhouden: 
 
 a. het regelmatig inspecteren van de voorzieningen die ter uitvoering van de sanering zijn aangebracht en de tijdstippen waarop hierover tussentijds aan het bevoegd gezag verslag wordt gedaan;  
 
 b. het in stand houden en onderhouden alsmede waar nodig het herstellen, verbeteren of vervangen van die voorzieningen.     
-3.  Het nazorgplan behoeft de instemming van gedeputeerde staten, die slechts met het nazorgplan instemmen indien de daarin opgenomen beperkingen in het gebruik van de bodem of maatregelen naar hun oordeel voldoende zijn om er voor te zorgen dat de verontreiniging die na de sanering is achtergebleven niet zal leiden tot een vermindering van de kwaliteit van de bodem zoals beschreven in het verslag op grond van artikel 39c, eerste lid, onder b. Met de uitvoering van het nazorgplan kan worden begonnen nadat gedeputeerde staten met dat plan hebben ingestemd of die instemming van rechtswege is verleend. Aan de instemming kunnen voorschriften worden verbonden. De instemming is van rechtswege verleend, indien gedeputeerde staten niet binnen de termijn van zes maanden na ontvangst van het nazorgplan een beslissing hebben genomen. Een instemming van rechtswege wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Artikel 28, vijfde lid, is van overeenkomstige toepassing voor wat betreft de instemming met het nazorgplan.   
-4.  Bij de beschikking tot instemming met het nazorgplan kunnen gedeputeerde staten aangeven welke wijzigingen in het gebruik van de bodem aan hen dienen te worden gemeld. Naar aanleiding van die melding kunnen gedeputeerde staten bepalen dat een aanvullende sanering moet plaatsvinden.   
+3.  Het nazorgplan behoeft de instemming van gedeputeerde staten, die slechts met het nazorgplan instemmen indien de daarin opgenomen beperkingen in het gebruik van de bodem of maatregelen naar hun oordeel voldoende zijn om er voor te zorgen dat de verontreiniging die na de sanering is achtergebleven niet zal leiden tot een vermindering van de kwaliteit van de bodem zoals beschreven in het verslag op grond van artikel 39c, eerste lid, onder b. Met de uitvoering van het nazorgplan kan worden begonnen nadat gedeputeerde staten met dat plan hebben ingestemd of die instemming van rechtswege is verleend. Aan de instemming kunnen voorschriften worden verbonden. De instemming is van rechtswege verleend, indien gedeputeerde staten niet binnen de termijn van zes maanden na ontvangst van het nazorgplan een beslissing hebben genomen. Een instemming van rechtswege wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Artikel 28, zevende lid, is van overeenkomstige toepassing voor wat betreft de instemming met het nazorgplan.   
+4.  Artikel 39c, vierde lid, is van overeenkomstige toepassing voor wat betreft de instemming met het nazorgplan.   
 5.  Provinciale staten kunnen nadere regels stellen omtrent de gegevens die in het nazorgplan worden opgenomen.   
 
 ### Artikel  39e  
 
-1.  De eigenaar, erfpachter of gebruiker van het grondgebied waar sprake is van verontreiniging als bedoeld in artikel 39d, neemt de beperkingen in het gebruik van de bodem in acht die zijn beschreven in het nazorgplan, bedoeld in het eerste lid van dat artikel.   
+1.  De eigenaar, erfpachter of gebruiker van het grondgebied waar na de sanering een verontreiniging in de bodem aanwezig is gebleven, neemt de beperkingen in het gebruik van de bodem in acht die zijn beschreven in het schriftelijk verslag, bedoeld in artikel 39c, eerste lid, of het nazorgplan, bedoeld in artikel 39d, eerste lid.   
 2.  Met de uitvoering van de maatregelen die zijn beschreven in het nazorgplan, is belast degene die de bodem heeft gesaneerd, dan wel degene die daartoe is aangewezen in het nazorgplan, waarmee gedeputeerde staten hebben ingestemd. De uitvoering geschiedt overeenkomstig het nazorgplan waarmee door gedeputeerde staten is ingestemd, en overeenkomstig de voorschriften die aan de instemming zijn verbonden.   
 
 ### Artikel  39f  
@@ -485,11 +519,11 @@ b. het in stand houden en onderhouden alsmede waar nodig het herstellen, verbete
 
 ### Artikel  40  
 
-1.  Indien het belang van de bescherming van de bodem zich daartegen niet verzet, kunnen gedeputeerde staten, in afwijking van de artikelen 28 en 39, toestaan bij een melding als bedoeld in artikel 28, die een voornemen betreft om een handeling te verrichten ten gevolge waarvan slechts een gedeelte van de verontreiniging van de bodem wordt verplaatst, te volstaan met het verstrekken van: 
+1.  Indien het belang van de bescherming van de bodem zich daartegen niet verzet, kunnen gedeputeerde staten, in afwijking van de artikelen 28 en 39, toestaan bij een melding als bedoeld in artikel 28 te volstaan met het verstrekken van: 
 
-a. de resultaten van een nader onderzoek van het betrokken gedeelte en  
+a. De resultaten van een nader onderzoek van slechts een gedeelte van de verontreiniging van de bodem en  
 
-b. een saneringsplan voor het betrokken gedeelte.     
+b. een saneringsplan voor het gedeelte, bedoeld onder a.     
 2.  De stukken, bedoeld in het eerste lid, behoeven de instemming van gedeputeerde staten. Artikel 39, tweede lid, is van overeenkomstige toepassing.   
 
 ### Artikel  41  
@@ -556,7 +590,7 @@ Gedeputeerde staten zijn belast met het oriënterend onderzoek en het nader onde
 
 ### Artikel  49  
 
-1.  Gedeputeerde staten kunnen, indien dat noodzakelijk is om nader onderzoek, saneringsonderzoek, sanering of de uitvoering van de maatregelen, bedoeld in artikel 39e, tweede lid, mogelijk te maken, maatregelen nemen als bedoeld in artikel 30, tweede, derde en vierde lid.   
+1.  Gedeputeerde staten kunnen, indien dat noodzakelijk is om nader onderzoek, saneringsonderzoek, sanering, de uitvoering van maatregelen, bedoeld in artikel 37, derde en vierde lid, of de uitvoering van de maatregelen, bedoeld in artikel 39e, tweede lid, mogelijk te maken, maatregelen nemen als bedoeld in artikel 30, tweede, derde en vierde lid. De maatregelen kunnen mede betrekking hebben op het treffen van maatregelen als bedoeld in artikel 37, derde en vierde lid.   
 2.  Ten behoeve van het verrichten van oriënterend onderzoek kunnen gedeputeerde staten voorts een maatregel nemen als bedoeld in artikel 30, derde lid, onder a, met betrekking tot degene op wiens grondgebied dat onderzoek moet geschieden.   
 3.  Met betrekking tot gevallen als bedoeld in het eerste en tweede lid, waarvan het onderzoek of de sanering wordt uitgevoerd door burgemeester en wethouders, komen de overeenkomstig die leden aan gedeputeerde staten toekomende bevoegdheden toe aan burgemeester en wethouders. Artikel 55 is van overeenkomstige toepassing op burgemeester en wethouders.   
 4.  Artikel 47, eerste lid, is met betrekking tot de uitoefening van de in het eerste, tweede en derde lid bedoelde bevoegdheden van overeenkomstige toepassing.   
@@ -578,18 +612,10 @@ b. beperkte rechten, waaraan zaken als bedoeld onder a onderworpen zijn, dan wel
 1.  Gedeputeerde staten kunnen burgemeester en wethouders uitnodigen om met toepassing van [artikel 3.22, eerste lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) voor een door hen te bepalen termijn van ten hoogste vijf jaar ontheffing te verlenen van een bestemmingsplan, indien het met het oog op de voortgang van de bodemsanering noodzakelijk is voor die termijn grond of een ander materiaal op te slaan in afwijking van dat plan. Indien niet binnen tien weken nadat de uitnodiging is verzonden daaraan gevolg is gegeven, kunnen gedeputeerde staten de ontheffing verlenen.   
 2.  Het bij of krachtens [artikel 3.22, derde, vierde of vijfde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) bepaalde is van overeenkomstige toepassing.   
 
-### Artikel  52  
-
-Gedeputeerde staten betrekken bij de uitvoering van het nader onderzoek, of, in een geval van ernstige verontreiniging, dat is opgenomen in het provinciaal milieuprogramma, het saneringsonderzoek of de sanering burgemeester en wethouders alsmede de ingezetenen van de betrokken gemeente en belanghebbenden, op de wijze voorzien in de krachtens [artikel 147 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) vastgestelde verordening.  
-
 ### Artikel  53  
 
 1.  Burgemeester en wethouders kunnen gedeputeerde staten verzoeken hen te belasten met het onderzoek van onderzoeksgevallen, het saneringsonderzoek of de sanering van gevallen van ernstige verontreiniging, voor zover zodanig onderzoek of sanering door of vanwege gedeputeerde staten op het grondgebied van hun gemeente zal worden uitgevoerd.   
 2.  Gedeputeerde staten beslissen op een verzoek als bedoeld in het eerste lid binnen vier weken na de ontvangst daarvan. Van de beschikking wordt mededeling gedaan aan de inspecteur.   
-
-### Artikel  54  
-
-Artikel 52 is van overeenkomstige toepassing indien burgemeester en wethouders overgaan tot het onderzoek van onderzoeksgevallen of het saneringsonderzoek of de sanering van gevallen van ernstige verontreiniging, met dien verstande dat de verordening door de gemeenteraad wordt vastgesteld.  
 
 ### Artikel  55  
 
@@ -913,6 +939,8 @@ b. de veroorzaker met het oog op deze ernstige gevaren zich ernstig verwijtbaar 
 
 ####Verstrekken budget aan overheden
 
+Vervallen per 04-05-2011   
+
 ### §  3.2  
 
 ####Verstrekken subsidie aan derden
@@ -954,6 +982,8 @@ g. de betaling van de subsidie en het verlenen van voorschotten.
 
 ####Verstrekken budget voor waterbodems
 
+Vervallen per 04-05-2011   
+
 ### §  3.4  
 
 ####Overige bepalingen
@@ -987,10 +1017,7 @@ Met betrekking tot beschikkingen krachtens deze wet worden geen rechten geheven.
 
 ####Beroep op de administratieve rechter
 
-### Artikel  87  
-
-1.  Beroep op de administratieve rechter staat open overeenkomstig hoofdstuk 20 van de Wet milieubeheer.   
-2.  Geen beroep staat open tegen een besluit op grond van artikel 43, voor zover inhoudende de afwijzing van een verzoek.   
+Vervallen per 01-01-2013   
 
 ### Hoofdstuk  IX  
 
@@ -1011,15 +1038,15 @@ b. de voortgang van de uitvoering van de bodemsaneringsoperatie.
 
 1.  De gemeenten Amsterdam, 's-Gravenhage, Rotterdam en Utrecht worden gelijkgesteld met een provincie voor de toepassing van: 
 
-a. de artikelen 27 tot en met 34, 37, artikel 38, derde en vierde lid, 39, 39a, 39b, 39c, 39d, derde, vierde en vijfde lid, 39f, eerste lid, 40, 42, 43 tot en met 52, 55, 55b, derde lid, 55c, eerste en derde lid, 55e, eerste, tweede lid, onder f, en vijfde lid, 55f, 55g, derde lid, 63c, tweede lid, 74 tot en met 76l, 83, 87a en 92b;  
+a. de artikelen 27 tot en met 34, 37, artikel 38, derde en vierde lid, 39, 39a, 39b, 39c, 39d, derde, vierde en vijfde lid, 39f, eerste lid, 40, 42, 43 tot en met 51, 55, 55ab, tweede lid, 55b, derde lid, 55c, eerste en derde lid, 55e, eerste, tweede lid, onder f, en vijfde lid, 55f, 55g, derde lid, 63c, tweede lid, 74 tot en met 76l, 83, 87a en 92b;  
 
-b. de [artikelen 4.14, eerste lid, en tweede lid, onder a, onder 1°, en onder b](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover het de activiteiten, bedoeld onder a , onder 1°, betreft, en [4.15, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
-2.  Een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat wordt gelijkgesteld met een provincie voor de toepassing van de in het eerste lid genoemde artikelen, alsmede voor de artikelen 41, 51, 53 en 54. De gelijkstelling vindt toepassing: 
+b.  vervallen.      
+2.  Een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat wordt gelijkgesteld met een provincie voor de toepassing van de in het eerste lid genoemde artikelen, alsmede voor de artikelen 41, 51 en 53. De gelijkstelling vindt toepassing: 
 
 – voor de locaties waarvoor de plusregio rechtstreeks middelen van het Rijk ontvangt voor het onderzoek van onderzoeksgevallen, het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging, en  
 
 – indien de in deze artikelen bedoelde bevoegdheden aan de plusregio bij algemene maatregel van bestuur zijn overgedragen.     
-3.  In de gevallen waarin de in het eerste lid bedoelde gelijkstelling van toepassing is, blijven de artikelen 41, 51, 53 en 54 buiten toepassing.   
+3.  In de gevallen waarin de in het eerste lid bedoelde gelijkstelling van toepassing is, blijven de artikelen 41, 51 en 53 buiten toepassing.   
 4.  In de gevallen waarin de in het tweede lid bedoelde gelijkstelling van toepassing is, blijft het eerste lid buiten toepassing voor een in die plusregio gelegen gemeente.   
 5.  Onverlet het derde en vierde lid, treden in de gevallen, bedoeld in het eerste en het tweede lid: 
 
@@ -1041,7 +1068,7 @@ d. wordt de inhoud van een ingevolge artikel 30 of 31 gegeven beschikking tevens
 
 ### Artikel  89  
 
-Voor de toepassing van de artikelen 28, 32 tot en met 34, 41, 43, 45, 47, 49, 51, 52 tot en met 54 en 75 wordt onderscheidenlijk het gebied van een bovengemeentelijk openbaar lichaam met een gemeente en het bestuur van zodanig lichaam met de gemeenteraad, onderscheidenlijk burgemeester en wethouders gelijk gesteld.  
+Voor de toepassing van de artikelen 28, 32 tot en met 34, 41, 43, 45, 47, 49, 51, 53 en 75 wordt onderscheidenlijk het gebied van een bovengemeentelijk openbaar lichaam met een gemeente en het bestuur van zodanig lichaam met de gemeenteraad, onderscheidenlijk burgemeester en wethouders gelijk gesteld.  
 
 ### Artikel  90  
 
@@ -1086,7 +1113,7 @@ Een gedraging in strijd met een voorschrift, krachtens de artikelen 64, tweede l
 1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
 2.  Het in [artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften.   
 3.  Onze betrokken Minister, gedeputeerde staten en burgemeester en wethouders hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van artikel 13.   
-4.  De volgende bestuursorganen hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens § 3 van hoofdstuk IV en artikel 72: 
+4.  De volgende bestuursorganen hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens § 3 en § 3a van hoofdstuk IV en artikel 72: 
 
 a. in gevallen als bedoeld in artikel 88, eerste, tweede en zevende lid: burgemeester en wethouders, onderscheidenlijk het dagelijks bestuur van de plusregio;  
 
@@ -1114,8 +1141,8 @@ Voor de uitvoering van deze wet ten aanzien van gebieden die niet deel uitmaken 
 
 1.  De artikelen 6 tot en met 12b zijn niet van toepassing op gedragingen, voor zover daaromtrent regels gelden, die zijn gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), de [Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md) en de [Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).   
 2.  De artikelen 6 tot en met 12b zijn niet van toepassing op mijnbouwwerken als bedoeld in [artikel 1 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md). Bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 49 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) kan worden bepaald dat de artikelen 6 tot en met 12b en de daarop berustende bepalingen geheel of gedeeltelijk wel van toepassing zijn op deze werken.   
-3.  De artikelen 27 tot en met 54 zijn niet van toepassing ten aanzien van maatregelen met het oog op ongewone voorvallen of sanering van de bodem, voor zover daarin kan worden voorzien krachtens de [artikelen 39](../../../../wet/kernenergiewet/BWBR0002402/README.md) en [44 van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md).   
-4.  Deze wet is niet van toepassing op de bodem en de oevers van een oppervlaktewaterlichaam als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) en, voor zover het oppervlaktewaterlichaam behoort tot de zee, bedoeld in [dat artikel](../../../../wet/waterwet/BWBR0025458/README.md), de ondergrond van de zeebodem.   
+3.  De artikelen 27 tot en met 51 en 53 zijn niet van toepassing ten aanzien van maatregelen met het oog op ongewone voorvallen of sanering van de bodem, voor zover daarin kan worden voorzien krachtens de [artikelen 39](../../../../wet/kernenergiewet/BWBR0002402/README.md) en [44 van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md).   
+4.  Deze wet is niet van toepassing op de bodem en de oevers van een oppervlaktewaterlichaam als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) en, voor zover het oppervlaktewaterlichaam behoort tot de zee, bedoeld in dat artikel, de ondergrond van de zeebodem.   
 
 ### Artikel  99a  
 

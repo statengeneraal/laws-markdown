@@ -20,20 +20,20 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *wet*: de [Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+a.  *wet*: de [Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
 
-b. *bevoegd gezag*: gedeputeerde staten en daarmee op grond van [artikel 88 van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) gelijkgestelde bestuursorganen, dan wel Onze Minister van Verkeer en Waterstaat in gevallen als bedoeld in [artikel 63a, eerste lid, van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+b.  *bevoegd gezag*: gedeputeerde staten en daarmee op grond van [artikel 88 van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) gelijkgestelde bestuursorganen, dan wel Onze Minister van Verkeer en Waterstaat in gevallen als bedoeld in [artikel 63a, eerste lid, van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
 
-c. *saneringslocatie*: het gedeelte van het grondgebied van het geval van verontreiniging van een land- of waterbodem waarop de melding, bedoeld in artikel 6 betrekking heeft;  
+c.  *saneringslocatie*: het gedeelte van het grondgebied van het geval van verontreiniging van een land- of waterbodem waarop de melding, bedoeld in artikel 6 betrekking heeft;  
 
-d. *terugsaneerwaarde*: de getalsmatige invulling van het concentratieniveau voor stoffen in de bodem dat met een sanering moet worden gerealiseerd;  
+d.  *terugsaneerwaarde*: de getalsmatige invulling van het concentratieniveau voor stoffen in de bodem dat met een sanering moet worden gerealiseerd;  
 
-e. *isolatielaag*: een leeflaag of een andere duurzame aaneengesloten afdeklaag.    
+e.  *isolatielaag*: een leeflaag of een andere duurzame aaneengesloten afdeklaag.   
 
 ### Artikel  2  
 
 1.  Dit besluit is van toepassing op een sanering die behoort tot een krachtens [artikel 39b van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) bij ministeriële regeling aangewezen categorie van uniforme saneringen, indien met betrekking tot die sanering een voornemen kenbaar is gemaakt overeenkomstig [artikel 39b, derde lid, van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md).   
-2.  Degene die de bodem saneert, alsmede degene die de sanering feitelijk uitvoert, voeren de sanering uit overeenkomstig de regels gesteld bij of krachtens dit besluit.   
+2.  Degene die de bodem saneert, alsmede degene die de sanering feitelijk uitvoert, voeren de sanering uit overeenkomstig de regels gesteld bij of krachtens dit besluit.  
 
 ### Artikel  3  
 
@@ -57,7 +57,7 @@ b. het ontgraven of baggeren van verontreinigd sediment;
 c. het aanbrengen van een isolatielaag;  
 
 d. een combinatie van a, b of c.     
-3.  Bij ministeriële regeling worden nadere regels gesteld omtrent de saneringsaanpak.   
+3.  Bij ministeriële regeling worden nadere regels gesteld omtrent de saneringsaanpak.  
 
 ### Artikel  4  
 
@@ -79,12 +79,12 @@ b. de terugsaneerwaarde.
 
 a. de dikte, aard, constructie en kwaliteit van de aan te brengen isolatielaag;  
 
-b. de kwaliteit van de waterbodem na het ontgraven of baggeren van het verontreinigde sediment.     
+b. de kwaliteit van de waterbodem na het ontgraven of baggeren van het verontreinigde sediment.    
 
 ### Artikel  5  
 
 1.  Voorafgaand aan de melding, bedoeld in artikel 6, wordt onderzoek gedaan met betrekking tot de kwaliteit van de bodem van de saneringslocatie.   
-2.  Bij ministeriële regeling worden per categorie van uniforme saneringen nadere regels gesteld met betrekking tot het bodemonderzoek, bedoeld in het eerste lid.   
+2.  Bij ministeriële regeling worden per categorie van uniforme saneringen nadere regels gesteld met betrekking tot het bodemonderzoek, bedoeld in het eerste lid.  
 
 ### Paragraaf  2  
 
@@ -113,11 +113,11 @@ d. de verspreiding van verontreinigende stoffen uit de bovengrond;
 
 e. de kwaliteit van de af te voeren grond.     
 3.  Bij ministeriële regeling kunnen per categorie van uniforme saneringen nadere regels worden gesteld omtrent de te verstrekken gegevens.   
-4.  De gegevens worden verstrekt op een formulier waarvan het model bij ministeriële regeling wordt vastgesteld.   
+4.  De gegevens worden verstrekt op een formulier waarvan het model bij ministeriële regeling wordt vastgesteld.  
 
-### Artikel  6a  
+###Artikel 6a 
 
-Het bevoegd gezag doet uiterlijk twee weken na ontvangst van de melding, bedoeld in artikel 6, kennisgeving daarvan in één of meer dag-, nieuws- of huis-aan-huis-bladen. De kennisgeving wordt achterwege gelaten in het geval de melding een sanering betreft waarbij zich de omstandigheden voordoen, bedoeld in artikel 7, eerste lid.  
+Een kennisgeving als bedoeld in [artikel 39b, derde lid, van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), wordt achterwege gelaten indien de melding, bedoeld in artikel 6, een sanering betreft waarbij zich de in artikel 7, eerste lid, bedoelde omstandigheden voordoen.
 
 ### Paragraaf  3  
 
@@ -134,13 +134,13 @@ b. het verplaatsen betreft het tijdelijk uitplaatsen van grond, waarbij de grond
 c. de bodem is tot ontgravingsdiepte verontreinigd, en  
 
 d. er is geen isolatielaag op de saneringslocatie aanwezig.     
-2.  Bij ministeriële regeling worden nadere regels gesteld omtrent de saneringsaanpak in de omstandigheden, genoemd in het eerste lid.   
+2.  Bij ministeriële regeling worden nadere regels gesteld omtrent de saneringsaanpak in de omstandigheden, genoemd in het eerste lid.  
 
 ### Artikel  8  
 
 1.  De saneringswerkzaamheden vangen aan uiterlijk twaalf maanden nadat het bevoegd gezag de melding, bedoeld in artikel 6, heeft ontvangen.   
 2.  De melding vervalt indien de saneringswerkzaamheden niet binnen de termijn van twaalf maanden zijn aangevangen.   
-3.  Degene die saneert dan wel degene die de sanering feitelijk uitvoert, meldt de datum van aanvang van de saneringswerkzaamheden binnen een bij ministeriële regeling te bepalen termijn schriftelijk aan het bevoegd gezag.   
+3.  Degene die saneert dan wel degene die de sanering feitelijk uitvoert, meldt de datum van aanvang van de saneringswerkzaamheden binnen een bij ministeriële regeling te bepalen termijn schriftelijk aan het bevoegd gezag.  
 
 ### Artikel  9  
 
@@ -152,7 +152,7 @@ b. het verstrekken van gegevens tijdens de sanering aan het bevoegd gezag en de 
 
 c. de milieukundige begeleiding;  
 
-d. de in het kader van de milieukundige begeleiding verzamelde gegevens over de saneringsuitvoering.    
+d. de in het kader van de milieukundige begeleiding verzamelde gegevens over de saneringsuitvoering.   
 
 ### Artikel  10  
 
@@ -161,20 +161,20 @@ d. de in het kader van de milieukundige begeleiding verzamelde gegevens over de 
 
 a. de wijze waarop de wijzigingen worden gemeld;  
 
-b. de termijn waarbinnen de wijzigingen worden gemeld.     
+b. de termijn waarbinnen de wijzigingen worden gemeld.    
 
 ### Artikel  11  
 
 1.  De datum van voltooiing van de sanering dient binnen een bij ministeriële regeling vast te stellen termijn na beëindiging van de saneringswerkzaamheden aan het bevoegd gezag schriftelijk te worden gemeld.   
-2.  De termijn, bedoeld in het eerste lid, kan per categorie van uniforme saneringen verschillen.   
+2.  De termijn, bedoeld in het eerste lid, kan per categorie van uniforme saneringen verschillen.  
 
-### Paragraaf  4  
+### Paragraaf   4  
 
 ####Evaluatieverslag en nazorg
 
 ### Artikel  12  
 
-In afwijking van [artikel 39c van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), gelden voor saneringen als bedoeld in artikel 2, eerste lid, de artikelen 13 en 14.  
+In afwijking van [artikel 39c van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), gelden voor saneringen als bedoeld in artikel 2, eerste lid, de artikelen 13 en 14. 
 
 ### Artikel  13  
 
@@ -185,12 +185,13 @@ a. de vermelding van de gerealiseerde aspecten van de sanering en het saneringsr
 
 b. de in het kader van de milieukundige begeleiding verzamelde gegevens, bedoeld in artikel 9.     
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de te verstrekken gegevens, waarbij per categorie uniforme saneringen kan worden bepaald dat de vermelding van gegevens, bedoeld in het tweede lid, achterwege kan blijven.   
-4.  Het verslag wordt verstrekt op een formulier waarvan het model bij ministeriële regeling wordt vastgesteld.   
+4.  Het verslag wordt verstrekt op een formulier waarvan het model bij ministeriële regeling wordt vastgesteld.  
 
 ### Artikel  14  
 
 1.  Het verslag, bedoeld in artikel 13, behoeft de instemming van het bevoegd gezag, dat slechts met het verslag instemt indien de sanering voldoet aan het bepaalde bij of krachtens artikel 4.   
-2.  Het bevoegd gezag beslist met betrekking tot de instemming binnen acht weken na de indiening van het verslag.   
+2.  Het bevoegd gezag beslist met betrekking tot de instemming binnen acht weken na de indiening van het verslag.  
+3. In afwijking van het eerste lid behoeft het verslag geen instemming indien het betrekking heeft op een sanering behorende tot een bij ministeriële regeling aangewezen categorie uniforme saneringen.
 
 ### Artikel  15  
 
@@ -200,7 +201,7 @@ b. de in het kader van de milieukundige begeleiding verzamelde gegevens, bedoeld
 a. treft de noodzakelijke maatregelen gericht op het in stand houden en onderhouden alsmede waar nodig het herstellen, verbeteren of vervangen van de isolatielaag, en  
 
 b. neemt de noodzakelijke beperkingen in het gebruik van de bodem of het watersysteem in acht.     
-3.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de maatregelen en beperkingen, bedoeld in het tweede lid.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de maatregelen en beperkingen, bedoeld in het tweede lid.  
 
 ### Paragraaf  5  
 
@@ -208,15 +209,15 @@ b. neemt de noodzakelijke beperkingen in het gebruik van de bodem of het watersy
 
 ### Artikel  16  
 
-Dit besluit is niet van toepassing op saneringen waarvoor, voor het tijdstip van inwerkingtreding van dit besluit, overeenkomstig [artikel 39 van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) is ingestemd met een daarop betrekking hebbend saneringsplan.  
+Dit besluit is niet van toepassing op saneringen waarvoor, voor het tijdstip van inwerkingtreding van dit besluit, overeenkomstig [artikel 39 van de wet](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) is ingestemd met een daarop betrekking hebbend saneringsplan. 
 
 ### Artikel  17  
 
-Dit besluit treedt in werking met ingang van de vijfde dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de vijfde dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  18  
 
-Dit besluit wordt aangehaald als: Besluit uniforme saneringen.  
+Dit besluit wordt aangehaald als: Besluit uniforme saneringen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -224,7 +225,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 1 februari 2006  
 Beatrix  
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,  
 P. L. B. A. van Geel   
 
 De Staatssecretaris van Verkeer en Waterstaat , 
@@ -232,5 +233,5 @@ M. H. Schultz van Haegen-Maas Geesteranus
 
 de *negende* februari 2006 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner    

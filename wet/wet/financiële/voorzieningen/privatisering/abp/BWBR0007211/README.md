@@ -28,7 +28,7 @@ e. ambtenaar: de ambtenaar, bedoeld in de artikelen B 1, B 2 en B 3 van de Abp-w
 
 f. Amp-wet: de Algemene militaire pensioenwet;  
 
-g. Centrale Commissie: de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken, bedoeld in [artikel 105 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+g. Centrale Commissie: de Centrale Commissie voor Georganiseerd Overleg in Ambtenarenzaken, bedoeld in artikel 105 van het Algemeen Rijksambtenarenreglement;  
 
 h. deelnemer: de ambtenaar, de wachtgelder en degene die een herplaatsingstoelage ontvangt;  
 
@@ -54,11 +54,11 @@ p. Vut-wet: de Wet uitkering wegens vrijwillig vervroegd uittreden;
 
 q. wachtgelder: de ontslagen ambtenaar aan wie een wachtgeld, bedoeld in artikel A 1, onderdeel i, van de Abp-wet, is toegekend of een ingevolge artikel A 4 van die wet met wachtgeld gelijkgestelde uitkering, en die op grond daarvan ambtenaar is in de zin van die wet;  
 
-r. WAO: de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+r. WAO: de Wet op de arbeidsongeschiktheidsverzekering;  
 
 s.  vervallen;   
 
-t. werkgever: ieder gezag of bestuur dat bevoegd is tot aanstelling of indienstneming en ontslag van een overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) dan wel, indien het een gewezen overheidswerknemer betreft die de leeftijd van 65 jaar nog niet heeft bereikt, de instantie die het loon of het ambtelijk inkomen van de gewezen overheidswerknemer betaalt en voor de toepassing van de paragrafen 4 en 5 de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau voor zover het personeel betreft van de Koninklijke Hofhouding, bedoeld in [artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](../../../../../../../wet/wet/gevolgen/privatisering/abp/voor/het/personeel/van/de/koninklijke/etc/BWBR0008328/README.md);  
+t. werkgever: ieder gezag of bestuur dat bevoegd is tot aanstelling of indienstneming en ontslag van een overheidswerknemer in de zin van de Wet privatisering ABP dan wel, indien het een gewezen overheidswerknemer betreft die de leeftijd van 65 jaar nog niet heeft bereikt, de instantie die het loon of het ambtelijk inkomen van de gewezen overheidswerknemer betaalt en voor de toepassing van de paragrafen 4 en 5 de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau voor zover het personeel betreft van de Koninklijke Hofhouding, bedoeld in artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding;  
 
 u. werknemer: 
 
@@ -80,23 +80,25 @@ u. werknemer:
 
 ####Het FAOP en de financiering daarvan
 
+Vervallen per 01-01-1998   
+
 ### §  5  
 
 ### Artikel  28  
 
 1.  In deze paragraaf wordt verstaan onder: 
 
-a. loon: het loon, bedoeld in [hoofdstuk 3, afdeling 1, paragraaf 1, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+a. loon: het loon, bedoeld in hoofdstuk 3, afdeling 1, paragraaf 1, van de Wet financiering sociale verzekeringen;  
 
-b. werknemer: voor zover geen werknemer in de zin van de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md): 
+b. werknemer: voor zover geen werknemer in de zin van de Ziektewet en de Werkloosheidswet: 
 
-1°. de overheidswerknemer in de zin van de [Wet privatisering ABP](../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
+1°. de overheidswerknemer in de zin van de Wet privatisering ABP;  
 
-2°. de militair ambtenaar, bedoeld in [artikel 1, eerste en tweede lid, van de Militaire ambtenarenwet 1931](../../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), tenzij hij aanspraak heeft op zakgeld of voor eerste oefening onder de wapenen is;  
+2°. de militair ambtenaar, bedoeld in artikel 1, eerste en tweede lid, van de Militaire ambtenarenwet 1931, tenzij hij aanspraak heeft op zakgeld of voor eerste oefening onder de wapenen is;  
 
 3°. degene die voorzitter of lid van een waterschap is, of van een ander publiekrechtelijk lichaam;  
 
-4°. degene die behoort tot het personeel van de Koninklijke Hofhouding, bedoeld in [artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](../../../../../../../wet/wet/gevolgen/privatisering/abp/voor/het/personeel/van/de/koninklijke/etc/BWBR0008328/README.md).       
+4°. degene die behoort tot het personeel van de Koninklijke Hofhouding, bedoeld in artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding.       
 2.  In deze paragraaf wordt mede verstaan onder: 
 
 a. loon: 
@@ -111,22 +113,22 @@ a. loon:
 
 a. de in het eerste lid bedoelde werknemer wiens dienstverhouding of functievervulling als zodanig is geëindigd en die daaraan recht ontleent op: 
 
-1°. een pensioen ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen ter zake van wettelijke en bovenwettelijke arbeidsongeschiktheid, alsmede arbeidsongeschiktheid met dienstverband, met uitzondering van dat gedeelte van het pensioen waarvan de hoogte wordt bepaald door invaliditeit met dienstverband;  
+1°. een pensioen ingevolge de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen ter zake van wettelijke en bovenwettelijke arbeidsongeschiktheid, alsmede arbeidsongeschiktheid met dienstverband, met uitzondering van dat gedeelte van het pensioen waarvan de hoogte wordt bepaald door invaliditeit met dienstverband;  
 
-2°. een uitkering op grond van een ontslag [uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) anders dan in verband met vrijwillig vervroegd uittreden, functioneel leeftijdsontslag, of de toepassing van de [Uitkeringswet gewezen militairen](../../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md);    
+2°. een uitkering op grond van een ontslag uitkeringsregeling anders dan in verband met vrijwillig vervroegd uittreden, functioneel leeftijdsontslag, of de toepassing van de Uitkeringswet gewezen militairen;    
 
 b. de gewezen overheidswerknemer die na beëindiging van zijn dienstverband, in verband met ziekte recht heeft op doorbetaling van zijn bezoldiging.     
-5.  Degene die politiek ambtsdrager is als bedoeld in de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), alsmede degene die een functie vervult ter zake waarvan die wet bij of krachtens wet van overeenkomstige toepassing is verklaard, is als zodanig, respectievelijk in die functie, geen werknemer in de zin van deze paragraaf.   
+5.  Degene die politiek ambtsdrager is als bedoeld in de Algemene pensioenwet politieke ambtsdragers, alsmede degene die een functie vervult ter zake waarvan die wet bij of krachtens wet van overeenkomstige toepassing is verklaard, is als zodanig, respectievelijk in die functie, geen werknemer in de zin van deze paragraaf.   
 6.  Voor degene, bedoeld in het eerste lid en in het vierde lid, onderdeel *a*, onder 3°, eindigt het werknemerschap met ingang van de eerste dag van de maand volgende op die waarin hij de leeftijd van 65 heeft bereikt.   
 7.  Voor degene, bedoeld in het vierde lid, onderdeel *a*, onder 1° en 2°, eindigt het werknemerschap met ingang van de eerste dag van de maand waarin hij de leeftijd van 65 jaar heeft bereikt.   
 
 ### Artikel  29  
 
-De heffingsgrondslag waarnaar de inhouding ingevolge de bepalingen van deze paragraaf plaatsvinden, is het loon dat de werknemer in een uitbetalingstermijn van dezelfde werkgever heeft of geacht wordt te hebben ontvangen, met dien verstande dat de heffingsgrondslag, herleid naar een jaarbedrag, niet meer kan bedragen dan het bedrag dat wordt verkregen door het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.  
+De heffingsgrondslag waarnaar de inhouding ingevolge de bepalingen van deze paragraaf plaatsvinden, is het loon dat de werknemer in een uitbetalingstermijn van dezelfde werkgever heeft of geacht wordt te hebben ontvangen, met dien verstande dat de heffingsgrondslag, herleid naar een jaarbedrag, niet meer kan bedragen dan het bedrag dat wordt verkregen door het bedrag, bedoeld in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen, met betrekking tot een loontijdvak van een dag, te vermenigvuldigen met 261.  
 
 ### Artikel  31  
 
-1.  De werkgever houdt op het loon van de werknemer een inhouding inzake werkloosheid in, ter grootte van een percentage van de heffingsgrondslag dat overeenkomt met het premiedeel dat op grond van [artikel 86, eerste lid, van de Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) wordt vastgesteld door Onze Minister van Sociale Zaken en Werkgelegenheid, voor zover dat premiedeel ten laste wordt gebracht van de werknemer in de zin van die wet.   
+1.  De werkgever houdt op het loon van de werknemer een inhouding inzake werkloosheid in, ter grootte van een percentage van de heffingsgrondslag dat overeenkomt met het premiedeel dat op grond van artikel 86, eerste lid, van de Werkloosheidswet wordt vastgesteld door Onze Minister van Sociale Zaken en Werkgelegenheid, voor zover dat premiedeel ten laste wordt gebracht van de werknemer in de zin van die wet.   
 2.  In afwijking van het eerste lid bedraagt de inhouding inzake werkloosheid over het loon uit een deeltijdbetrekking: het met de deeltijdfactor vermenigvuldigde percentage, bedoeld in het eerste lid, van de heffingsgrondslag.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de in het eerste lid bedoelde inhouding.   
 
@@ -140,7 +142,7 @@ De heffingsgrondslag waarnaar de inhouding ingevolge de bepalingen van deze para
 
 a. bezoldigingsregelingen: de regelingen betreffende de beloning van de werknemer, bedoeld in onderdeel *c*;  
 
-b. salarissen: de bedragen, vermeld in de bijlagen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), dan wel hetgeen daarmee overeenkomt in de andere bezoldigingsregelingen, met uitzondering van de bezoldiging volgens de tabel, behorende bij het Besluit herziening bezoldiging militairen zeemacht 1954, en van de wedde eerste oefening in de zin van de Regeling inkomsten militairen landen luchtmacht 1969;  
+b. salarissen: de bedragen, vermeld in de bijlagen van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, dan wel hetgeen daarmee overeenkomt in de andere bezoldigingsregelingen, met uitzondering van de bezoldiging volgens de tabel, behorende bij het Besluit herziening bezoldiging militairen zeemacht 1954, en van de wedde eerste oefening in de zin van de Regeling inkomsten militairen landen luchtmacht 1969;  
 
 c. werknemer: 
 
@@ -152,8 +154,8 @@ c. werknemer:
 
 4°. de militair die wordt bezoldigd volgens de schaal behorende bij het Besluit herziening bezoldiging militairen zeemacht 1954, of die weddegenietend is in de zin van de Regeling inkomsten militairen land- en luchtmacht 1969;  
 
-5°. degene die voorzitter of lid is van het dagelijks bestuur van een waterschap of van een ander publiekrechtelijk lichaam, en als zodanig geen werknemer is in de zin van de [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [WAO](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de [Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md).       
-2.  Degene die politiek ambtsdrager is als bedoeld in de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md), alsmede degene die een functie vervult ter zake waarvan die wet bij of krachtens wet van overeenkomstige toepassing is verklaard, is als zodanig, respectievelijk in die functie, geen werknemer in de zin van deze paragraaf.   
+5°. degene die voorzitter of lid is van het dagelijks bestuur van een waterschap of van een ander publiekrechtelijk lichaam, en als zodanig geen werknemer is in de zin van de Ziektewet, de WAO en de Werkloosheidswet.       
+2.  Degene die politiek ambtsdrager is als bedoeld in de Algemene pensioenwet politieke ambtsdragers, alsmede degene die een functie vervult ter zake waarvan die wet bij of krachtens wet van overeenkomstige toepassing is verklaard, is als zodanig, respectievelijk in die functie, geen werknemer in de zin van deze paragraaf.   
 
 ### Artikel  34  
 
@@ -164,7 +166,7 @@ c. werknemer:
 
 1.  De aanpassing van de salarissen ingevolge artikel 34, is geen algemene bezoldigingswijziging als bedoeld in de artikelen A 8 van de Abp-wet en L 1 van de Amp-wet.   
 2.  In afwijking van artikel 2, derde lid, van de Vut-wet wordt de volgens het eerste en tweede lid van dat artikel vastgestelde bezoldiging met ingang van 1 januari 1995 gewijzigd overeenkomstig de salarisaanpassing, bedoeld in artikel 34.   
-3.  De berekeningsgrondslagen van uitkeringen op grond van een ontslag [uitkeringsregeling](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md) die zijn afgeleid van de laatstelijk genoten bezoldiging, worden gewijzigd overeenkomstig de salarisaanpassing, bedoeld in artikel 34.   
+3.  De berekeningsgrondslagen van uitkeringen op grond van een ontslag uitkeringsregeling die zijn afgeleid van de laatstelijk genoten bezoldiging, worden gewijzigd overeenkomstig de salarisaanpassing, bedoeld in artikel 34.   
 
 ### Artikel  36  
 
@@ -254,7 +256,7 @@ De ministeriële regeling, bedoeld in artikel 31, derde lid, wordt tot stand geb
 
 ### Artikel  66  
 
-De militair, bedoeld in artikel 28, eerste lid, onderdeel b, onder 2°, is met ingang van 1 januari 1995 maandelijks een premie, bijdrage of vergoeding verschuldigd, waarvan de grootte dezelfde is als het vut-bijdrageverhaal dat zou zijn ingehouden op het loon, indien het een overheidswerknemer in de zin van [artikel 2 van de Wet privatisering ABP](../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) betrof die werkzaam is binnen de sector Defensie. De doelstelling en de wijze van inhouding of verrekening van die premie, bijdrage of vergoeding worden vastgesteld bij algemene maatregel van bestuur.  
+De militair, bedoeld in artikel 28, eerste lid, onderdeel b, onder 2°, is met ingang van 1 januari 1995 maandelijks een premie, bijdrage of vergoeding verschuldigd, waarvan de grootte dezelfde is als het vut-bijdrageverhaal dat zou zijn ingehouden op het loon, indien het een overheidswerknemer in de zin van artikel 2 van de Wet privatisering ABP betrof die werkzaam is binnen de sector Defensie. De doelstelling en de wijze van inhouding of verrekening van die premie, bijdrage of vergoeding worden vastgesteld bij algemene maatregel van bestuur.  
 
 ### Artikel  67  
 
@@ -263,11 +265,11 @@ De militair, bedoeld in artikel 28, eerste lid, onderdeel b, onder 2°, is met i
 a. betalingen van ambtelijk inkomen of loon dat reeds voor 1 januari 1995 vorderbaar en inbaar was;  
 
 b. de in artikel 74 bedoelde uitbetaling van vakantie-uitkering.     
-2.  De in het eerste lid bedoelde betalingen worden, voor zover het loon betreft als bedoeld in [hoofdstuk 3, afdeling 1, paragraaf 1, van de Wet financiering sociale verzekeringen](../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), verhoogd met 1,86 procent.   
+2.  De in het eerste lid bedoelde betalingen worden, voor zover het loon betreft als bedoeld in hoofdstuk 3, afdeling 1, paragraaf 1, van de Wet financiering sociale verzekeringen, verhoogd met 1,86 procent.   
 
 ### Artikel  68  
 
-Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een beslissing van het bestuur van het ABP ingevolge het bepaalde in paragraaf 2 en artikel 80 van deze wet, van het bestuur van het Vut-fonds ingevolge het bepaalde in paragraaf 3 van deze wet, of van het bestuur van het FAOP ingevolge het bepaalde in paragraaf 4 van deze wet, gelijkgesteld met een besluit.  
+Voor de toepassing van artikel 8:1 van de Algemene wet bestuursrecht wordt een beslissing van het bestuur van het ABP ingevolge het bepaalde in paragraaf 2 en artikel 80 van deze wet, van het bestuur van het Vut-fonds ingevolge het bepaalde in paragraaf 3 van deze wet, of van het bestuur van het FAOP ingevolge het bepaalde in paragraaf 4 van deze wet, gelijkgesteld met een besluit.  
 
 ### Artikel  69  
 
@@ -293,7 +295,7 @@ Artikel A 8 van de Abp-wet en artikel L 1 van de Amp-wet, zoals deze artikelen l
 
 1.  De organen, bedoeld in artikel A 1, onderdeel *d*, van de Abp-wet, zijn pensioenbijdrage verschuldigd over de vakantie-uitkering die betrekking heeft op enig tijdvak in het jaar 1994 en die de ambtenaar, in verband met de regeling inzake het tijdstip van uitbetaling van die uitkering, eerst na dat jaar heeft of geacht wordt te hebben ontvangen.   
 2.  De pensioenbijdrage over de in het eerste lid bedoelde vakantieuitkering bedraagt 9,65 procent en wordt door de organen voldaan in de maand volgende op die waarin de ambtenaar deze uitkering ontvangt of geacht wordt te hebben ontvangen.   
-3.  Ten aanzien van de pensioenbijdrage, bedoeld in het tweede lid, is het [Verhaalsbesluit Algemene burgerlijke pensioenwet](../../../../../../../AMvB/verhaalsbesluit/abp/BWBR0006869/README.md), zoals dat luidde op 31 december 1994, van toepassing.   
+3.  Ten aanzien van de pensioenbijdrage, bedoeld in het tweede lid, is het Verhaalsbesluit Algemene burgerlijke pensioenwet, zoals dat luidde op 31 december 1994, van toepassing.   
 
 ### Artikel  75  
 
@@ -368,9 +370,9 @@ a. op of na 1 augustus 1993 in dienst is van een lichaam, als bedoeld in de arti
 
 b. geen ambtenaar is vanwege de omstandigheid dat hij voor niet langer dan zes maanden in dienst is genomen, dan wel vanwege de geringe omvang van zijn werkzaamheden, bedoeld in artikel B 7 van de Abp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel 53, onderdeel C, van deze wet, en  
 
-c. tijdens het vorenbedoeld dienstverband voor ten minste 15 procent arbeidsongeschikt is geworden en in verband daarmee een uitkering ingevolge de [WAO](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) ontvangt,   heeft recht op een aanvulling van zijn WAO-uitkering overeenkomstig artikel F 8 *f*, eerste en tweede lid, van de Abp-wet, voor zover die uitkering niet reeds tot het in de laatstbedoelde bepalingen bedoelde niveau wordt aangevuld op grond van de op hem van toepassing zijnde arbeidsvoorwaarden of de door hem gesloten arbeidsovereenkomst.   
+c. tijdens het vorenbedoeld dienstverband voor ten minste 15 procent arbeidsongeschikt is geworden en in verband daarmee een uitkering ingevolge de WAO ontvangt,   heeft recht op een aanvulling van zijn WAO-uitkering overeenkomstig artikel F 8 *f*, eerste en tweede lid, van de Abp-wet, voor zover die uitkering niet reeds tot het in de laatstbedoelde bepalingen bedoelde niveau wordt aangevuld op grond van de op hem van toepassing zijnde arbeidsvoorwaarden of de door hem gesloten arbeidsovereenkomst.   
 2.  De in het eerste lid bedoelde aanvulling wordt door het bestuur van het ABP aan de belanghebbende op diens verzoek toegekend.   
-3.  De belanghebbende aan wie een aanvulling, bedoeld in het eerste lid, is toegekend, is verplicht het bestuur van het ABP terstond mededeling te doen van wijziging of beëindiging van de WAO-uitkering die hij ontvangt, alsmede van wijziging of beëindiging van aanvullende uitkeringen die hij ontvangt ingevolge de op hem van toepassing zijnde arbeidsvoorwaarden of de door hem gesloten arbeidsovereenkomst. De voorgaande volzin is niet van toepassing op de wijziging van het bedrag van de WAO-uitkering ingevolge de toepassing van [artikel 15 van de WAO](../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md).   
+3.  De belanghebbende aan wie een aanvulling, bedoeld in het eerste lid, is toegekend, is verplicht het bestuur van het ABP terstond mededeling te doen van wijziging of beëindiging van de WAO-uitkering die hij ontvangt, alsmede van wijziging of beëindiging van aanvullende uitkeringen die hij ontvangt ingevolge de op hem van toepassing zijnde arbeidsvoorwaarden of de door hem gesloten arbeidsovereenkomst. De voorgaande volzin is niet van toepassing op de wijziging van het bedrag van de WAO-uitkering ingevolge de toepassing van artikel 15 van de WAO.   
 4.  Het bestuur van het ABP wijzigt de toegekende aanvulling, bedoeld in het eerste lid, of trekt deze in, indien de mededeling, bedoeld in het derde lid, daartoe aanleiding geeft.   
 5.  Het bestuur van het ABP is bevoegd de aanvulling, bedoeld in het eerste lid, geheel of gedeeltelijk in te trekken, indien de belanghebbende niet of niet tijdig voldoet aan de ingevolge het derde lid op hem rustende verplichting.   
 6.  De aanvullingen die op grond van dit artikel zijn toegekend, komen ten laste van het ABP.   
@@ -394,13 +396,13 @@ c. tijdens het vorenbedoeld dienstverband voor ten minste 15 procent arbeidsonge
 1.  Degene die ingevolge de Abp-wet een invaliditeitspensioen ontvangt, niet zijnde een pensioen als bedoeld in artikel F 12 van die wet, en wiens pensioen niet is berekend met toepassing van artikel F 1 *a*, tweede lid, van de Abp-wet, heeft recht op een toeslag ter grootte van een percentage van dat pensioen, welk percentage in kolom 2 van de bij deze wet behorende tabel II is opgenomen achter de daarbij in kolom 1 genoemde pensioengrenzen.   
 2.  Artikel 39, tweede lid, is van overeenkomstige toepassing.   
 3.  Wanneer het invaliditeitspensioen met toepassing van de artikelen J 18, J 19 of J 20 van de Abp-wet een vermindering heeft ondergaan, wordt de toeslag berekend over het aldus verminderde pensioen.   
-4.  Het eerste lid is niet van toepassing ten aanzien van degene wiens invaliditeitspensioen ingevolge artikel F 9, negende lid, van de Abp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel 53, onderdeel U, van deze wet, 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximumsalaris volgens schaal 1 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vermeerderd met de daarbij behorende vakantie-uitkering.   
+4.  Het eerste lid is niet van toepassing ten aanzien van degene wiens invaliditeitspensioen ingevolge artikel F 9, negende lid, van de Abp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel 53, onderdeel U, van deze wet, 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximumsalaris volgens schaal 1 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 vermeerderd met de daarbij behorende vakantie-uitkering.   
 
 ### Artikel  84  
 
-1.  De gewezen militair, die als zodanig een pensioen ter zake van arbeidsongeschiktheid ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen ontvangt op basis van een pensioengrondslag die is vastgesteld over een periode die geheel is gelegen voor het jaar 1995, heeft recht op een toeslag ter grootte van een percentage van dat pensioen, welk percentage in kolom 2 van de bij deze wet behorende tabel II is opgenomen achter de daarbij in kolom 1 genoemde pensioengrenzen.   
-2.  Wanneer het invaliditeitspensioen met toepassing van de bij of krachtens de [Kaderwet militaire pensioenen](../../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md) vastgestelde bepalingen ter zake van samenloop met andere inkomsten een vermindering heeft ondergaan, wordt de toeslag berekend over het aldus verminderde pensioen.   
-3.  Het eerste lid is niet van toepassing ten aanzien van degene wiens pensioen wegens ziekten of gebreken ingevolge artikel F 6, zevende lid, van de Amp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel 56, onderdeel I, van deze wet 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximum-salaris volgens schaal 1 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vermeerderd met de daarbij behorende vakantie-uitkering.   
+1.  De gewezen militair, die als zodanig een pensioen ter zake van arbeidsongeschiktheid ingevolge de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen ontvangt op basis van een pensioengrondslag die is vastgesteld over een periode die geheel is gelegen voor het jaar 1995, heeft recht op een toeslag ter grootte van een percentage van dat pensioen, welk percentage in kolom 2 van de bij deze wet behorende tabel II is opgenomen achter de daarbij in kolom 1 genoemde pensioengrenzen.   
+2.  Wanneer het invaliditeitspensioen met toepassing van de bij of krachtens de Kaderwet militaire pensioenen vastgestelde bepalingen ter zake van samenloop met andere inkomsten een vermindering heeft ondergaan, wordt de toeslag berekend over het aldus verminderde pensioen.   
+3.  Het eerste lid is niet van toepassing ten aanzien van degene wiens pensioen wegens ziekten of gebreken ingevolge artikel F 6, zevende lid, van de Amp-wet, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel 56, onderdeel I, van deze wet 80 procent bedraagt van het bedrag dat overeenkomt met het tot een jaarbedrag herleide maximum-salaris volgens schaal 1 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 vermeerderd met de daarbij behorende vakantie-uitkering.   
 
 ### Artikel  85  
 

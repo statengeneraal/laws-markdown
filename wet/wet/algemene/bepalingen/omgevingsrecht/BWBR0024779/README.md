@@ -40,15 +40,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *gevaarlijke afvalstoffen:* gevaarlijke afvalstoffen als bedoeld in [artikel 1.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
-*gpbv-installatie:* installatie als bedoeld in bijlage 1 bij richtlijn nr. 2008/1/EG van het Europees Parlement en de Raad van de Europese Unie van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging (PbEU L 24);  
-
 *inrichting:* inrichting, behorende tot een categorie die is aangewezen krachtens het derde lid;  
 
 *inspecteur:* als zodanig bij besluit van Onze Minister aangewezen ambtenaar;  
 
+*IPPC-installatie:* installatie voor industriële activiteiten als bedoeld in bijlage I van richtlijn nr. 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (PbEU L 334);  
+
 *mijnbouwwerk:* mijnbouwwerk als bedoeld in [artikel 1, onder n, van de Mijnbouwwet](../../../../../../wet/mijnbouwwet/BWBR0014168/README.md);  
 
 *omgevingsvergunning:* omgevingsvergunning als bedoeld in artikel 2.1 of  2.2;  
+
+*onlosmakelijke activiteit:* activiteit die behoort tot verschillende categorieën activiteiten als bedoeld in de artikelen 2.1 en 2.2;  
 
 *Onze Minister:* Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
 
@@ -62,8 +64,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *wijzigen van voorschriften van een omgevingsvergunning:* wijzigen, aanvullen of intrekken van voorschriften die aan een omgevingsvergunning zijn verbonden of alsnog verbinden van voorschriften aan een omgevingsvergunning.     
 2.  Met betrekking tot de betekenis van de begrippen «gevolgen voor het milieu» en «bescherming van het milieu» in deze wet en de daarop berustende bepalingen is [artikel 1.1, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing.   
-3.  Bij of krachtens algemene maatregel van bestuur worden categorieën inrichtingen aangewezen als bedoeld in [artikel 1.1, vierde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), waarvan het oprichten, het veranderen of veranderen van de werking of het in werking hebben moet worden onderworpen aan een voorafgaande toetsing, gezien de aard en de omvang van de nadelige gevolgen die de inrichtingen voor het milieu kunnen veroorzaken. Bij de maatregel worden als categorie in ieder geval aangewezen de inrichtingen waartoe een gpbv-installatie behoort.   
-4.  Een wijziging van bijlage 1 bij richtlijn nr. 2008/1/EG van het Europees Parlement en de Raad van de Europese Unie van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging (PbEU L 24) gaat voor de toepassing van de in het eerste lid gegeven omschrijving van «gpbv-installatie» gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
+3.  Bij of krachtens algemene maatregel van bestuur worden categorieën inrichtingen aangewezen als bedoeld in [artikel 1.1, vierde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), waarvan het oprichten, het veranderen of veranderen van de werking of het in werking hebben moet worden onderworpen aan een voorafgaande toetsing, gezien de aard en de omvang van de nadelige gevolgen die de inrichtingen voor het milieu kunnen veroorzaken. Bij de maatregel worden als categorie in ieder geval aangewezen de inrichtingen waartoe een IPPC-installatie behoort.   
+4.  Een wijziging van bijlage 1 bij richtlijn nr. 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (PbEU L 334) gaat voor de toepassing van de in het eerste lid gegeven omschrijving van «IPPC-installatie» gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
 
 ### Artikel  1.1a  
 
@@ -76,7 +78,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### §  2.1  
 
-####Verbodsbepalingen, bevoegd gezag, gefaseerde en revisievergunning
+####Verbodsbepalingen, bevoegd gezag, gefaseerde vergunning, deelvergunning en revisievergunning
 
 ### Artikel  2.1  
 
@@ -177,6 +179,10 @@ b. de eerste of tweede fase: indien op de aanvraag met betrekking tot de andere 
 7.  Het bepaalde bij of krachtens deze wet met betrekking tot een omgevingsvergunning is, met uitzondering van artikel 2.7, van overeenkomstige toepassing op de beschikkingen met betrekking tot de eerste en tweede fase.   
 8.  De beschikkingen waarbij positief is beslist op de aanvragen met betrekking tot de eerste en tweede fase worden, als deze in werking zijn getreden, tezamen aangemerkt als een omgevingsvergunning.   
 
+### Artikel  2.5a  
+
+Indien toepassing wordt gegeven aan artikel 2.7, eerste lid, tweede volzin, kan de omgevingsvergunning voor de activiteit, bedoeld in artikel 2.1, eerste lid, onder c, bij de beschikking waarbij wordt beslist op de aanvraag om een omgevingsvergunning voor de overige onlosmakelijke activiteiten worden gewijzigd, voor zover dat nodig is met het oog op het verlenen van die omgevingsvergunning.  
+
 ### Artikel  2.6  
 
 1.  Voor zover de aanvraag om een omgevingsvergunning betrekking heeft op het veranderen van een inrichting of mijnbouwwerk of van de werking daarvan, als bedoeld in artikel 2.1, eerste lid, onder e, onder 2° of 3°, en met betrekking tot die inrichting of dat mijnbouwwerk al een of meer omgevingsvergunningen zijn verleend, kan het bevoegd gezag bepalen dat een omgevingsvergunning wordt aangevraagd met betrekking tot die verandering en het in werking hebben van de betrokken inrichting of het betrokken mijnbouwwerk na die verandering.   
@@ -190,12 +196,12 @@ b. de eerste of tweede fase: indien op de aanvraag met betrekking tot de andere 
 
 ### Artikel  2.7  
 
-1.  Onverminderd het bepaalde in de artikelen 2.10, tweede lid, en 2.11, tweede lid, draagt de aanvrager van een omgevingsvergunning die betrekking heeft op een activiteit die behoort tot verschillende categorieën activiteiten als bedoeld in de artikelen 2.1 en 2.2 er zorg voor dat de aanvraag betrekking heeft op elk van die activiteiten.   
-2.  Een aanvraag om een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, mag slechts op één inrichting waartoe een gpbv-installatie behoort betrekking hebben.   
+1.  Onverminderd het bepaalde in de artikelen 2.10, tweede lid, en 2.11, tweede lid, draagt de aanvrager van een omgevingsvergunning er zorg voor dat de aanvraag betrekking heeft op alle onlosmakelijke activiteiten binnen het betrokken project. In afwijking van de eerste volzin en onverminderd artikel 2.5 kan, indien één van die onlosmakelijke activiteiten een activiteit is als bedoeld in artikel 2.1, eerste lid, onder c, voor die activiteit voorafgaand aan en los van de overige onlosmakelijke activiteiten een aanvraag om een omgevingsvergunning worden ingediend.   
+2.  Een aanvraag om een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, mag slechts op één inrichting waartoe een IPPC-installatie behoort betrekking hebben.   
 
 ### Artikel  2.8  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een omgevingsvergunning geschiedt en de gegevens en bescheiden die door de aanvrager worden verstrekt met het oog op de beslissing op de aanvraag. Bij de maatregel kan – in afwijking van de [artikelen 2:14, eerste lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [2:15 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) – worden bepaald dat de aanvraag geheel of gedeeltelijk elektronisch wordt ingediend of in ontvangst wordt genomen. Daarbij kan worden bepaald dat de verplichtingen slechts gelden in daarbij aangewezen categorieën gevallen.   
+1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop de aanvraag om een omgevingsvergunning geschiedt en de gegevens en bescheiden die door de aanvrager worden verstrekt met het oog op de beslissing op de aanvraag. Bij de regels wordt in elk geval bepaald dat in of bij een aanvraag die betrekking heeft op een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, onder 1° of 3°, gegevens en bescheiden worden verstrekt over de ten behoeve van de activiteiten en processen in de inrichting toe te passen technieken, voor zover die redelijkerwijs van belang kunnen zijn voor de beoordeling van de nadelige gevolgen voor het milieu die de inrichting kan veroorzaken. Bij de maatregel kan – in afwijking van de [artikelen 2:14, eerste lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [2:15 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) – worden bepaald dat de aanvraag geheel of gedeeltelijk elektronisch wordt ingediend of in ontvangst wordt genomen. Daarbij kan worden bepaald dat de verplichtingen slechts gelden in daarbij aangewezen categorieën gevallen.   
 2.  Bij een verordening als bedoeld in artikel 2.2, tweede lid, kunnen eveneens regels worden gesteld met betrekking tot de gegevens en bescheiden die door de aanvrager met betrekking tot de bij die verordening aangewezen activiteit worden verstrekt met het oog op de beslissing op de aanvraag.   
 
 ### Artikel  2.9  
@@ -226,12 +232,12 @@ a. de aanvraag en de daarbij verstrekte gegevens en bescheiden het naar het oord
 
 b. de aanvraag en de daarbij verstrekte gegevens en bescheiden het naar het oordeel van het bevoegd gezag niet aannemelijk maken dat het bouwen van een bouwwerk waarop de aanvraag betrekking heeft, voldoet aan de voorschriften die zijn gesteld bij de bouwverordening of, zolang de bouwverordening daarmee nog niet in overeenstemming is gebracht, met de voorschriften die zijn gesteld bij een algemene maatregel van bestuur als bedoeld in [artikel 8, achtste lid, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) dan wel bij of krachtens een algemene maatregel van bestuur als bedoeld in [artikel 120 van die wet](../../../../../../wet/woningwet/BWBR0005181/README.md);  
 
-c. de activiteit in strijd is met het bestemmingsplan, de beheersverordening of het exploitatieplan, of de regels die zijn gesteld krachtens [artikel 4.1, derde lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of  [4.3, derde lid, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+c. de activiteit in strijd is met het bestemmingsplan, de beheersverordening of het exploitatieplan, of de regels die zijn gesteld krachtens [artikel 4.1, derde lid](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of  [4.3, derde lid, van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), tenzij de activiteit niet in strijd is met een omgevingsvergunning die is verleend met toepassing van artikel 2.12;  
 
 d. het uiterlijk of de plaatsing van het bouwwerk waarop de aanvraag betrekking heeft, met uitzondering van een tijdelijk bouwwerk dat geen seizoensgebonden bouwwerk is, zowel op zichzelf beschouwd als in verband met de omgeving of de te verwachten ontwikkeling daarvan, in strijd is met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in [artikel 12a, eerste lid, onder a, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md), tenzij het bevoegd gezag van oordeel is dat de omgevingsvergunning niettemin moet worden verleend;  
 
-e. indien het advies van de Commissie voor de tunnelveiligheid, bedoeld in [artikel 6, derde lid, onder b, van de Wet aanvullende regels veiligheid wegtunnels](../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), daartoe aanleiding geeft.     
-2.  In gevallen als bedoeld in het eerste lid, onder c, wordt de aanvraag mede aangemerkt als een aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, en wordt de vergunning slechts geweigerd indien vergunningverlening met toepassing van artikel 2.12 niet mogelijk is.   
+e. de activiteit een wegtunnel als bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) betreft en uit de aanvraag en de daarbij verstrekte gegevens en bescheiden blijkt dat niet wordt voldaan aan de in [artikel 6, eerste lid, van die wet](../../../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) gestelde norm.     
+2.  In gevallen als bedoeld in het eerste lid, onder c, wordt de aanvraag mede aangemerkt als een aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, en wordt de vergunning op de grond, bedoeld in het eerste lid, onder c, slechts geweigerd indien vergunningverlening met toepassing van artikel 2.12 niet mogelijk is.   
 
 ### Artikel  2.11  
 
@@ -330,6 +336,7 @@ Voor zover de aanvraag ingevolge een wettelijk voorschrift tevens betrekking hee
 
 1.  Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, of in artikel 2.1, eerste lid, onder e, met betrekking tot een inrichting kan het bevoegd gezag de omgevingsvergunning in andere gevallen dan bedoeld in artikel 2.10, onderscheidenlijk artikel 2.14 slechts weigeren in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), met dien verstande dat voor de toepassing van [artikel 3 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), voor zover het deze wet betreft, onder betrokkene mede wordt verstaan degene die op grond van feiten en omstandigheden redelijkerwijs met de aanvrager van de omgevingsvergunning gelijk kan worden gesteld.   
 2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
+3.  Bij algemene maatregel van bestuur kan worden bepaald dat het tweede lid van overeenkomstige toepassing is op een aanvraag om een omgevingsvergunning met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder i, waarvoor bij die maatregel is bepaald dat een omgevingsvergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in het eerste lid.   
 
 ### Artikel  2.20a  
 
@@ -359,7 +366,7 @@ d. voorschriften die nodig zijn met het oog op het belang van de archeologische 
 
 e. voorschriften die niet aan de omgevingsvergunning kunnen worden verbonden.     
 4.  Bij een verordening als bedoeld in artikel 2.2 kunnen voor de betrokken categorieën activiteiten eveneens regels worden gesteld met betrekking tot het verbinden van voorschriften aan de omgevingsvergunning.   
-5.  Voor zover met betrekking tot de activiteit algemeen verbindende voorschriften gelden, kunnen de voorschriften die aan de vergunning worden verbonden daarvan alleen afwijken voor zover dat bij die regels is toegestaan. In afwijking van de eerste volzin worden aan een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, met betrekking tot een inrichting waartoe een gpbv-installatie behoort, voorschriften verbonden die afwijken van de algemeen verbindende voorschriften, bedoeld in de eerste volzin, voor zover met die voorschriften niet wordt voldaan aan het bepaalde bij of krachtens het tweede of derde lid of artikel 2.14.   
+5.  Voor zover met betrekking tot de activiteit algemeen verbindende voorschriften gelden, kunnen de voorschriften die aan de vergunning worden verbonden daarvan alleen afwijken voor zover dat bij die regels is toegestaan. In afwijking van de eerste volzin worden aan een omgevingsvergunning die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, met betrekking tot een inrichting waartoe een IPPC-installatie behoort, voorschriften verbonden die afwijken van de algemeen verbindende voorschriften, bedoeld in de eerste volzin, voor zover met die voorschriften niet wordt voldaan aan het bepaalde bij of krachtens het tweede of derde lid of artikel 2.14.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen in daarbij aangewezen categorieën gevallen regels worden gesteld omtrent het voorbereiden, vormgeven, inrichten of beschikbaar stellen van een omgevingsvergunning of omtrent de uitvoerbaarheid daarvan.   
 
 ### Artikel  2.23  
@@ -370,6 +377,17 @@ e. voorschriften die niet aan de omgevingsvergunning kunnen worden verbonden.
 a. dat de omgevingsvergunning voor ten hoogste een daarbij aangegeven termijn kan gelden of  
 
 b. in welke categorieën gevallen een bij de omgevingsvergunning aangegeven termijn kan worden verlengd.     
+
+### Artikel  2.23a   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  In een omgevingsvergunning voor een aflopende activiteit kan worden bepaald dat, voor zover zij betrekking heeft op die activiteit, de vergunninghouder na het verstrijken van een bij de omgevingsvergunning aangegeven termijn, verplicht is de voor de verlening van de omgevingsvergunning bestaande toestand te herstellen.   
+2.  Bij algemene maatregel van bestuur kunnen ten aanzien van activiteiten als bedoeld in het eerste lid categorieën gevallen worden aangewezen waarin in de omgevingsvergunning wordt bepaald dat op de vergunninghouder na het verstrijken van een bij de omgevingsvergunning aangegeven termijn, een plicht rust als bedoeld in het eerste lid. Ten aanzien van die termijn is artikel 2.23, tweede lid, laatste volzin, van overeenkomstige toepassing.   
+
+### Artikel  2.23b   
+Treedt in werking op een nader te bepalen tijdstip   
+
+In een omgevingsvergunning kan worden bepaald dat daarbij aangewezen voorschriften nadat de vergunning haar gelding heeft verloren, gedurende een daarbij aangegeven termijn van kracht blijven.  
 
 ### Artikel  2.24  
 
@@ -433,7 +451,7 @@ b. een adviseur: voor zover het betreft de aspecten waarover hij bij de totstand
 
 ### Artikel  2.30  
 
-1.  Voor zover de omgevingsvergunning betrekking heeft op een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, beziet het bevoegd gezag regelmatig of de voorschriften die aan een omgevingsvergunning zijn verbonden, nog toereikend zijn gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu.   
+1.  Voor zover de omgevingsvergunning betrekking heeft op een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, beziet het bevoegd gezag regelmatig of de voorschriften die aan een omgevingsvergunning zijn verbonden, nog toereikend zijn gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu. Onder ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu wordt mede verstaan de vaststelling van nieuwe of herziene conclusies over beste beschikbare technieken, overeenkomstig artikel 13, vijfde en zevende lid, van richtlijn nr. 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (PbEU L 334).   
 2.  Bij algemene maatregel van bestuur kunnen in het belang van de bescherming van het milieu regels worden gesteld met betrekking tot de wijze waarop het eerste lid wordt toegepast met betrekking tot daarbij aangewezen categorieën inrichtingen. Bij de maatregel kan worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangewezen categorieën gevallen.   
 
 ### Artikel  2.31  
@@ -462,6 +480,11 @@ c. een activiteit als bedoeld in artikel 2.1, eerste lid, onder i, op de gronden
 d. een activiteit als bedoeld in artikel 2.2, op de gronden die zijn aangegeven in de betrokken verordening;  
 
 e. een activiteit als bedoeld in artikel 2.19, op de gronden die zijn aangegeven in het betrokken wettelijk voorschrift.     
+
+### Artikel  2.31a  
+
+1.  Indien toepassing wordt gegeven aan artikel 2.31, eerste lid, aanhef en onder b, verbindt het bevoegd gezag voor zover nodig voorschriften aan de omgevingsvergunning die strekken tot toepassing van andere technieken dan die waaromtrent ingevolge artikel 2.8, eerste lid, tweede volzin, in of bij de aanvraag om de vergunning gegevens of bescheiden zijn verstrekt.   
+2.  Indien het bevoegd gezag voornemens is toepassing te geven aan artikel 2.31, eerste lid, aanhef en onder b, verschaft de vergunninghouder desgevraagd aan het bevoegd gezag de gegevens die voor die toepassing noodzakelijk zijn.   
 
 ### Artikel  2.32  
 
@@ -537,6 +560,10 @@ b. welke beslistermijn van toepassing is, en
 c. de beschikbare rechtsmiddelen om tegen de beschikking op te komen.   Indien op de voorbereiding van de beslissing paragraaf 3.2 van toepassing is, vermeldt het bevoegd gezag tevens dat de gevraagde beschikking van rechtswege is gegeven, indien niet tijdig op de aanvraag is beslist.   
 4.  Bij algemene maatregel van bestuur kunnen categorieën gevallen worden aangewezen waarin het bevoegd gezag de aanvraag of andere gegevens of bescheiden zendt aan daarbij aangewezen categorieën bestuursorganen of andere instanties.   
 5.  Indien bij de voorbereiding van de beslissing op de aanvraag een milieueffectrapport moet worden gemaakt, is [artikel 13.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing.   
+
+### Artikel  3.1a  
+
+Het bevoegd gezag kan zich bij het verlenen van een omgevingsvergunning in ieder geval baseren op gegevens en onderzoeken die niet ouder zijn dan twee jaar.  
 
 ### Artikel  3.2  
 
@@ -699,7 +726,7 @@ b. zendt het in bij algemene maatregel van bestuur aangewezen categorieën geval
 
 ### Artikel  3.16  
 
-In gevallen waarin een omgevingsvergunning of een wijziging van voorschriften van een omgevingsvergunning wordt aangevraagd op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is en die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, met betrekking tot een inrichting waartoe een gpbv-installatie behoort, waarbij sprake is van het lozen van stoffen als bedoeld in [artikel 6.1 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), worden, indien daarvoor krachtens [artikel 6.2 van die wet](../../../../../../wet/waterwet/BWBR0025458/README.md) een vergunning vereist is op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, bij de toepassing van deze wet de bepalingen van deze paragraaf in acht genomen.  
+In gevallen waarin een omgevingsvergunning of een wijziging van voorschriften van een omgevingsvergunning wordt aangevraagd op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is en die betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, met betrekking tot een inrichting waartoe een IPPC-installatie behoort, waarbij sprake is van het lozen van stoffen als bedoeld in [artikel 6.1 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), worden, indien daarvoor krachtens [artikel 6.2 van die wet](../../../../../../wet/waterwet/BWBR0025458/README.md) een vergunning vereist is op de voorbereiding waarvan [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, bij de toepassing van deze wet de bepalingen van deze paragraaf in acht genomen.  
 
 ### Artikel  3.17  
 
@@ -851,8 +878,8 @@ b. is ingetrokken, of de bij de beschikking opgelegde last onder dwangsom overee
 
 ### Artikel  5.2a  
 
-1.  Voor zover dit hoofdstuk bij of krachtens een in artikel 5.1 genoemde wet van toepassing is, en een orgaan van een waterschap een bij of krachtens dit hoofdstuk gevorderde beslissing niet of niet naar behoren neemt dan wel een bij of krachtens dit hoofdstuk gevorderde handeling niet of niet naar behoren verricht, zijn de [artikelen 121 tot en met 121g van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
-2.  In afwijking van het eerste lid zijn, voor zover § 5.2 bij of krachtens een in artikel 5.1 genoemde wet van toepassing is en een orgaan van een waterschap een bij of krachtens § 5.2 gevorderde beslissing niet of niet naar behoren neemt dan wel een bij of krachtens § 5.2 gevorderde handeling niet of niet naar behoren verricht, zijn de [artikelen 124](../../../../../../wet/gemeentewet/BWBR0005416/README.md), [124a](../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [124c tot en met 124i van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.   
+1.  Voor zover dit hoofdstuk bij of krachtens een in artikel 5.1 genoemde wet van toepassing is, en een orgaan van een waterschap een bij of krachtens dit hoofdstuk gevorderde beslissing niet of niet naar behoren neemt dan wel een bij of krachtens dit hoofdstuk gevorderde handeling niet of niet naar behoren verricht, zijn de [artikelen 121 tot en met 121f van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
+2.  In afwijking van het eerste lid zijn, voor zover § 5.2 bij of krachtens een in artikel 5.1 genoemde wet van toepassing is en een orgaan van een waterschap een bij of krachtens § 5.2 gevorderde beslissing niet of niet naar behoren neemt dan wel een bij of krachtens § 5.2 gevorderde handeling niet of niet naar behoren verricht, zijn de [artikelen 124](../../../../../../wet/gemeentewet/BWBR0005416/README.md), [124a](../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [124c tot en met 124h van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.   
 3.  [Hoofdstuk XVIII van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) is van overeenkomstige toepassing ten aanzien van door een orgaan van een waterschap bij of krachtens dit hoofdstuk genomen besluiten en niet-schriftelijke beslissingen, gericht op enig rechtsgevolg.   
 4.  In afwijking van het derde lid is [hoofdstuk XVII van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing ten aanzien van door een orgaan van een waterschap bij of krachtens § 5.2 genomen besluiten en niet-schriftelijke beslissingen, gericht op enig rechtsgevolg.   
 
@@ -1013,6 +1040,8 @@ Het bestuursorgaan zendt een exemplaar van de beschikking tot oplegging van een 
 
 ####Vorderingsbevoegdheid van Onze betrokken Minister
 
+Vervallen per 01-10-2012   
+
 ### §  5.6  
 
 ####Verhaal van kosten
@@ -1053,14 +1082,21 @@ Onverminderd artikel 6.1 treedt een omgevingsvergunning met betrekking tot een a
 
 ### Artikel  6.2c  
 
-1.  Onverminderd artikel 6.1 treedt een omgevingsvergunning met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, indien het te bouwen bouwwerk een bouwwerk betreft als bedoeld in [artikel 8, derde lid, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) en het bevoegd gezag op basis van het onderzoeksrapport, bedoeld in artikel 8, vierde lid, onderdeel c, van die wet, dan wel uit anderen hoofde een redelijk vermoeden heeft dat ter plaatse van het bouwwerk sprake is van een geval van ernstige verontreiniging als bedoeld in de [Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), niet eerder in werking dan nadat: 
+1.  Onverminderd artikel 6.1 treedt een omgevingsvergunning met betrekking tot een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, indien het te bouwen bouwwerk een bouwwerk betreft als bedoeld in [artikel 8, derde lid, van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) en het bevoegd gezag op basis van het onderzoeksrapport, bedoeld in artikel 8, vierde lid, onderdeel c, van die wet, dan wel uit anderen hoofde een redelijk vermoeden heeft dat ter plaatse van het bouwwerk sprake is van een vóór 1 januari 1987 ontstaan geval van ernstige verontreiniging als bedoeld in de [Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), niet eerder in werking dan nadat: 
 
 a. op grond van [artikel 29, eerste lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), in samenhang met [artikel 37, eerste lid, van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) is vastgesteld dat geen sprake is van een geval van ernstige verontreiniging ten aanzien waarvan spoedige sanering noodzakelijk is en het desbetreffende besluit in werking is getreden,  
 
 b. op grond van [artikel 39, tweede lid, van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) met het saneringsplan, bedoeld in het eerste lid van dat artikel, is ingestemd en het desbetreffende besluit in werking is getreden, of  
 
 c. een melding van een voornemen tot sanering als bedoeld in [artikel 39b, derde lid, van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) is gedaan en de bij of krachtens het vierde lid van dat artikel gestelde termijn is verstreken.     
-2.  Bij de omgevingsvergunning, bedoeld in het eerste lid, vermeldt het bevoegd gezag of het een vermoeden heeft als bedoeld in dat lid.   
+2.  In afwijking van het eerste lid, aanhef en onder b, treedt de omgevingsvergunning in werking als in de beschikking, bedoeld in [artikel 29, eerste lid](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), in samenhang met [artikel 37, eerste lid, van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), is vastgesteld dat: 
+
+a. sprake is van een geval van ernstige verontreiniging ten aanzien waarvan spoedige sanering noodzakelijk is,  
+
+b. geen sprake is van risico’s voor de mens, en  
+
+c. het bouwen de uitvoering van de sanering niet belemmert, mits degene die het nader onderzoek heeft overgelegd daarbij een met redenen omkleed verzoek heeft ingediend en de beschikking, bedoeld in de aanhef van dit lid, in werking is getreden.     
+3.  Bij de omgevingsvergunning, bedoeld in het eerste lid, vermeldt het bevoegd gezag of het een vermoeden heeft als bedoeld in dat lid.   
 
 ### Artikel  6.3  
 
@@ -1073,16 +1109,12 @@ Indien in een geval als bedoeld in artikel 3.16 beroep is ingesteld tegen een be
 
 ### Artikel  6.5  
 
-1.  Het beroep tegen een beschikking inzake een verklaring als bedoeld in artikel 2.27 kan door het ten aanzien van de beschikking waarop de verklaring betrekking heeft, bevoegde gezag eerst worden ingesteld nadat die beschikking is bekendgemaakt. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+1.  Het beroep tegen een beschikking inzake een verklaring als bedoeld in artikel 2.27 kan door het ten aanzien van de beschikking waarop de verklaring betrekking heeft, bevoegde gezag eerst worden ingesteld nadat die beschikking is bekendgemaakt.   
 2.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de beroepstermijn in een geval als bedoeld in het eerste lid aan met ingang van de dag na de dag waarop overeenkomstig artikel 3.9, eerste of vierde lid, of [artikel 3:44 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) mededeling is gedaan van de beschikking waarop de verklaring of het verzoek betrekking heeft. De bepalingen met betrekking tot het beroep tegen die beschikking zijn van overeenkomstige toepassing met betrekking tot het beroep tegen de beschikking inzake de verklaring of de aanwijzing.   
-
-### Artikel  6.5a  
-
-[Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing op een aanwijzingsbesluit als bedoeld in artikel 3.13, tweede lid.  
 
 ### Artikel  6.5b  
 
-1.  De stichting, bedoeld in [artikel 20.15 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), heeft tevens tot taak aan de administratieve rechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen op grond van deze wet.   
+1.  De stichting, bedoeld in [artikel 20.15 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), heeft tevens tot taak aan de bestuursrechter op diens verzoek deskundigenbericht uit te brengen inzake beroepen op grond van deze wet.   
 2.  [Artikel 20.17 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  7  

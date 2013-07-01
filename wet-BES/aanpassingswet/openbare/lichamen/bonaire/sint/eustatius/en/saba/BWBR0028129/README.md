@@ -48,7 +48,8 @@ Wijzigt de Wet gemeenschappelijke regelingen.
 
 Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.   
 
-### Artikel  2.3a  
+### Artikel  2.3a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Wet op de lijkbezorging.   
 
@@ -322,15 +323,15 @@ Wijzigt de Wet zeggenschap in ter beurze genoteerde vennootschappen BES.
 
 ### Artikel  6.12  
 
-Assurantiebemiddelaars die ten tijde van de inwerkingtreding van artikel 6.2 waren ingeschreven in het register, bedoeld in artikel 4 van de Landsverordening Assurantiebemiddelingsbedrijf, worden, indien zij op dat moment kantoor hielden op Bonaire, Sint Eustatius of Saba, van rechtswege ingeschreven in het register, bedoeld in [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](../../../../../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md).  
+Assurantiebemiddelaars die ten tijde van de inwerkingtreding van artikel 6.2 waren ingeschreven in het register, bedoeld in artikel 4 van de Landsverordening Assurantiebemiddelingsbedrijf, worden, indien zij op dat moment kantoor hielden op Bonaire, Sint Eustatius of Saba, van rechtswege ingeschreven in het register, bedoeld in artikel 4 van de Wet assurantiebemiddelingsbedrijf BES.  
 
 ### Artikel  6.13  
 
-Een op het tijdstip van inwerkingtreding van artikel 6.3 van kracht zijnde inbewaringneming op grond van artikel 5 van de Landsverordening meldingsplicht grensoverschrijdende geldtransporten, blijft van kracht totdat zij overeenkomstig [artikel 5 van de Wet grensoverschrijdende geldtransporten BES](../../../../../../../../../../wet-BES/wet/grensoverschrijdende/geldtransporten/bes/BWBR0028165/README.md) is geëindigd. Als tijdstip waarop de termijn van inbewaringneming voor de toepassing van die wet is aangevangen, geldt het tijdstip waarop de inbewaringneming feitelijk is aangevangen.  
+Een op het tijdstip van inwerkingtreding van artikel 6.3 van kracht zijnde inbewaringneming op grond van artikel 5 van de Landsverordening meldingsplicht grensoverschrijdende geldtransporten, blijft van kracht totdat zij overeenkomstig artikel 5 van de Wet grensoverschrijdende geldtransporten BES is geëindigd. Als tijdstip waarop de termijn van inbewaringneming voor de toepassing van die wet is aangevangen, geldt het tijdstip waarop de inbewaringneming feitelijk is aangevangen.  
 
 ### Artikel  6.14  
 
-[Artikel 7 van de Wet identificatie bij dienstverlening BES](../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) is van overeenkomstige toepassing op gegevens die voor inwerkingtreding van artikel 6.4 zijn vastgelegd ter voldoening aan artikel 6 van de Landsverordening identificatie bij financiële dienstverlening.  
+Artikel 7 van de Wet identificatie bij dienstverlening BES is van overeenkomstige toepassing op gegevens die voor inwerkingtreding van artikel 6.4 zijn vastgelegd ter voldoening aan artikel 6 van de Landsverordening identificatie bij financiële dienstverlening.  
 
 ### Artikel  6.15  
 
@@ -339,7 +340,7 @@ De Wet melding ongebruikelijke transacties BES is van overeenkomstige toepassing
 ### Artikel  6.16  
 
 1.  Bij regeling van Onze Minister van Financiën kunnen met het oog op een goede invoering van de in de artikelen 6.2 tot en met 6.11 genoemde wetten aanvullende regels van overgangsrecht worden gesteld.   
-2.  Bij een regeling als bedoeld in het eerste lid kan worden bepaald dat [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) niet van toepassing is op beslissingen van de Bank van de Nederlandse Antillen die betrekking hebben op activiteiten die voorafgaande aan het van toepassing worden in de openbare lichamen Bonaire, Sint Eustatius en Saba van een in de artikelen 6.2, 6.3, 6.4 of 6.5 tot en met 6.11 genoemde wet hoofdzakelijk of uitsluitend in of vanuit Curaçao of Sint Maarten plaatsvonden.   
+2.  Bij een regeling als bedoeld in het eerste lid kan worden bepaald dat artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba niet van toepassing is op beslissingen van de Bank van de Nederlandse Antillen die betrekking hebben op activiteiten die voorafgaande aan het van toepassing worden in de openbare lichamen Bonaire, Sint Eustatius en Saba van een in de artikelen 6.2, 6.3, 6.4 of 6.5 tot en met 6.11 genoemde wet hoofdzakelijk of uitsluitend in of vanuit Curaçao of Sint Maarten plaatsvonden.   
 
 ### Hoofdstuk  7  
 
@@ -393,11 +394,13 @@ Wijzigt de Algemene termijnenwet.
 
 Wijzigt de Bekendmakingswet.   
 
-### Artikel  8.6a  
+### Artikel  8.6a   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Wet afbreking zwangerschap.   
 
-### Artikel  8.6b  
+### Artikel  8.6b   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.   
 
@@ -703,7 +706,7 @@ Wijzigt de Wet College voor examens.
 
 ### Artikel  10.3  
 
-Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/253.   Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
 
 ### Artikel  10.4  
 
@@ -913,34 +916,34 @@ Wijzigt de Wet ziekteverzekering BES.
 
 Onze Minister van Sociale Zaken en Werkgelegenheid kan bij ministeriële regeling de bedragen genoemd in: 
 
-a. [artikel 7, eerste lid](../../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), [7a, eerste lid, en derde lid, onderdeel e](../../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md), [26, eerste en vierde lid, van de Wet algemene ouderdomsverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md),  
+a. artikel 7, eerste lid, 7a, eerste lid, en derde lid, onderdeel e, 26, eerste en vierde lid, van de Wet algemene ouderdomsverzekering BES,  
 
-b. [artikel 11, eerste en derde lid](../../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), [12, eerste, tweede en derde lid](../../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md), en [29, eerste en vierde lid, van de Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md),  
+b. artikel 11, eerste en derde lid, 12, eerste, tweede en derde lid, en 29, eerste en vierde lid, van de Wet algemene weduwen- en wezenverzekering BES,  
 
-c. [artikel 9, eerste lid, van de Wet minimumlonen BES](../../../../../../../../../../wet-BES/wet/minimumlonen/bes/BWBR0028170/README.md), en  
+c. artikel 9, eerste lid, van de Wet minimumlonen BES, en  
 
-d. [artikel 5, negende lid, van de Wet ongevallenverzekering BES](../../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md),   eenmalig aanpassen met ingang van de transitiedatum, bedoeld in [artikel 1, onderdeel a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) of 1 januari van het daaropvolgende kalenderjaar.  
+d. artikel 5, negende lid, van de Wet ongevallenverzekering BES,   eenmalig aanpassen met ingang van de transitiedatum, bedoeld in artikel 1, onderdeel a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba of 1 januari van het daaropvolgende kalenderjaar.  
 
 ### Artikel  11.34  
 
 1.  Dit artikel is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en verstaat onder: 
 
-a. tijdstip van transitie: het tijdstip bedoeld in [artikel 1, onderdeel a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md);  
+a. tijdstip van transitie: het tijdstip bedoeld in artikel 1, onderdeel a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 b. het tijdstip van inwerkingtreding: het tijdstip waarop de artikelen 11.18, 11.21, 11.22, 11.28 en 11.32 van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba in werking treden;  
 
 c. overgangsperiode: de periode vanaf het tijdstip van transitie tot het tijdstip van inwerkingtreding.     
 2.  Tijdens de overgangsperiode worden de volgende wetten en daarop berustende bepalingen uitgevoerd door Onze Minister van Sociale Zaken en Werkgelegenheid: 
 
-a. de [Cessantiawet BES](../../../../../../../../../../wet-BES/cessantiawet/bes/BWBR0028304/README.md);  
+a. de Cessantiawet BES;  
 
-b. de [Wet algemene ouderdomsverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md);  
+b. de Wet algemene ouderdomsverzekering BES;  
 
-c. de [Wet algemene weduwen- en wezenverzekering BES](../../../../../../../../../../wet-BES/wet/algemene/weduwen-/en/wezenverzekering/bes/BWBR0028387/README.md);  
+c. de Wet algemene weduwen- en wezenverzekering BES;  
 
-d. de [Wet ongevallenverzekering BES](../../../../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md), met uitzondering van de bepalingen inzake geneeskundige behandeling en verpleging;  
+d. de Wet ongevallenverzekering BES, met uitzondering van de bepalingen inzake geneeskundige behandeling en verpleging;  
 
-e. de [Wet ziekteverzekering BES](../../../../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md), met uitzondering van de bepalingen inzake geneeskundige behandeling en verpleging.     
+e. de Wet ziekteverzekering BES, met uitzondering van de bepalingen inzake geneeskundige behandeling en verpleging.     
 3.  Voor de toepassing van het tweede lid worden in de in dat lid genoemde wetten tijdens de overgangsperiode voor «de Minister van Arbeid en Sociale Zaken» respectievelijk «de Sociale Verzekeringsbank» gelezen «Onze Minister van Sociale Zaken en Werkgelegenheid».   
 4.  Indien noodzakelijk voor een goede uitvoering van de in het tweede lid genoemde wetten tijdens de overgangsperiode, wordt de tekst daarvan gelezen in het licht van de tekst van die wetten zoals die komt te luiden na het tijdstip van inwerkingtreding. De toepassing van de eerste zin leidt niet tot een uitkomst ten nadele van de belanghebbende.   
 5.  Bij ministeriele regeling kunnen nadere regels worden gesteld.   

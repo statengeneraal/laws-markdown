@@ -8,9 +8,9 @@ De ambtenaren of personen, die krachtens de artikelen 184 en 185 van het Wetboek
 
 ### Artikel  2  
 
-1.  Aan de in artikel 1 bedoelde ambtenaren of personen, belast met de opsporing der strafbare feiten, verstrekt Onze Minister van Justitie een legitimatiebewijs.   
+1.  Aan de ambtenaren of personen, belast met de opsporing der strafbare feiten, verstrekt Onze Minister van Justitie een legitimatiebewijs.   
 2.  De vorm en de inrichting van het legitimatiebewijs worden bij ministeriële regeling vastgesteld.   
-3.  Onze Minister van Justitie stelt bij ministeriële regeling bepalingen vast betreffende de wijze van afgifte en administratie der legitimatiebewijzen.   
+3.  Onze Minister van Veiligheid en Justitie stelt bij ministeriële regeling bepalingen vast betreffende de wijze van afgifte en administratie der legitimatiebewijzen.   
 4.  De in het eerste lid van dit artikel bedoelde ambtenaren en personen zijn verplicht hun legitimatiebewijs bij de uitoefening van hun opsporingstaak desgevraagd duidelijk zichtbaar te tonen.   
 
 ### Artikel  3  

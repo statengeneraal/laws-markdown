@@ -3,7 +3,7 @@
 ##Deelregeling projectsubsidies Fonds Podiumkunsten
 
 Het bestuur van het Fonds Podiumkunsten  
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en [artikel 4 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten+](../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/podiumkunsten+/BWBR0022753/README.md)
+Gelet op artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid en artikel 4 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten+
 Besluit:    
 
 ### Artikel  1.1  
@@ -26,9 +26,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  1.2  
 
-####Subsidievormen
-
-Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie of een subsidie compositieopdracht voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.  
+Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie, een subsidie nieuwe maker of een subsidie voor het verlenen van een opdracht voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.  
 
 ### Artikel  1.3  
 
@@ -73,7 +71,7 @@ C: niet honoreren.
 
 ####Algemene weigeringsgronden
 
-1.  Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), subsidie weigeren: 
+1.  Het bestuur kan, onverminderd het bepaalde in artikel 4:35 van de Algemene wet bestuursrecht, subsidie weigeren: 
 
 a. als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;  
 
@@ -222,34 +220,38 @@ d. bijdrage aan de pluriformiteit van het podiumkunstenaanbod in Nederland.
 
 ### Paragraaf  4:  
 
-####Subsidie compositieopdrachten
+####Subsidie voor het verlenen van een opdracht
 
 ### Artikel  4.1  
 
 ####Doel
 
-Het bestuur verstrekt subsidies compositieopdracht voor het verlenen van een opdracht tot het vervaardigen van een compositie om bij te dragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.  
+Het bestuur verstrekt subsidies voor het verlenen van een opdracht tot het vervaardigen van een compositie, libretto of theatertekst om bij te dragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.  
 
 ### Artikel  4.2  
 
 ####Aanvrager
 
-1.  Een subsidie compositieopdracht kan worden aangevraagd door een instelling die voornemens is vanuit een artistiek-inhoudelijk uitgangspunt activiteiten te organiseren die zullen leiden tot voorstellingen of concerten en in dat kader een compositie wil laten vervaardigen.   
+1.  Een subsidie voor het verlenen van een opdracht kan worden aangevraagd door een instelling die voornemens is vanuit een artistiek-inhoudelijk uitgangspunt activiteiten te organiseren die zullen leiden tot voorstellingen of concerten en in dat kader een compositie, libretto of theatertekst wil laten vervaardigen.   
 2.  Een aanvrager kan per aanvraagronde maximaal 3 aanvragen indienen.   
 
 ### Artikel  4.3  
 
 ####Subsidieaanvraag
 
-1.  Een aanvraag heeft betrekking op één opdracht aan een specifiek door de aanvrager gekozen componist.   
-2.  Als er sprake is van meerdere samenhangende opdrachten kunnen deze door middel van een gebundelde aanvraag worden ingediend, rekening houdend met het maximum van drie aanvragen per aanvrager per aanvraagronde.   
+1.  Een aanvraag heeft betrekking op één opdracht aan een door de aanvrager gekozen componist of auteur.   
+2.  Als er sprake is van samenhangende opdrachten kunnen deze door middel van een gebundelde aanvraag worden ingediend, rekening houdend met het maximum aantal aanvragen per aanvrager per aanvraagronde.   
 
 ### Artikel  4.4  
 
 ####Vereisten
 
-1.  Een subsidie compositieopdracht kan worden verstrekt als de aanvraag voldoende aannemelijk maakt dat het te componeren werk minimaal tweemaal zal worden uitgevoerd. Hiervan is in ieder geval sprake als de aanvraag vergezeld gaat van een of meer bevestigingen van instellingen die primair gericht zijn op het presenteren van voorstellingen of concerten waaruit blijkt dat het te componeren werk door hen zal worden geprogrammeerd.   
-2.  Maximaal één uitvoering kan worden vervangen door een televisie- of radio-uitzending van een opname van een onder verantwoordelijkheid van de opdrachtgever verzorgde uitvoering van de compositie of een andere publieke openbaarmaking die daaraan minimaal gelijk gesteld kan worden.   
+1.  Een subsidie voor het verlenen van een opdracht kan worden verstrekt als: 
+
+a) een nieuw werk tot stand komt dat onder de naam van de componist of auteur wordt gepresenteerd;  
+
+b) de aanvraag aannemelijk maakt dat het werk meermalen zal worden uitgevoerd.     
+2.  Het bestuur kan in bijzondere gevallen besluiten een aanvraag die niet voldoet aan de vereisten uit het eerste lid in behandeling te nemen als de aanvrager niet kan worden tegengeworpen dat niet aan het vereiste wordt voldaan en het resultaat van de opdracht een bijzondere bijdrage kan leveren aan het doel van deze subsidievorm.   
 
 ### Artikel  4.5  
 
@@ -257,20 +259,20 @@ Het bestuur verstrekt subsidies compositieopdracht voor het verlenen van een opd
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria: 
 
-a. motivering van de keuze voor de componist;  
+a) motivering van de keuze voor de componist of auteur;  
 
-b. programmering(sbeleid) waarbinnen de opdracht tot stand komt;  
+b) programmering(sbeleid) waarbinnen de opdracht tot stand komt;  
 
-c. verwachte uitvoeringsmogelijkheden;  
+c) verwachte uitvoeringsmogelijkheden;  
 
-d. bijdrage aan de pluriformiteit van het muziekrepertoire in Nederland.    
+d) bijdrage aan de pluriformiteit van het podiumkunstenrepertoire in Nederland.    
 
 ### Artikel  4.6  
 
 ####Hoogte subsidie
 
-1.  Het bestuur kan richtlijnen vaststellen aan de hand waarvan de hoogte van het subsidie wordt bepaald.   
-2.  Het bestuur kan bepalen dat een subsidie compositieopdracht nooit meer bedraagt dan een bepaald bedrag.   
+1.  Het bestuur kan richtlijnen vaststellen aan de hand waarvan de hoogte van de subsidie wordt bepaald.   
+2.  Het bestuur kan bepalen dat een subsidie nooit meer bedraagt dan een bepaald bedrag.   
 
 ### Paragraaf  5:  
 
@@ -304,7 +306,7 @@ c. er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan s
 ####Verantwoording bij subsidies van € 25.000 en groter
 
 1.  Als de verstrekte subsidie € 25.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.   
-2.  Als de verstrekte subsidie € 125.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+2.  Als de verstrekte subsidie € 125.000 of meer bedraagt, stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 
 ### Artikel  5.4  
 

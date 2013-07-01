@@ -829,21 +829,21 @@ In afwijking van artikel 79a kunnen provinciale staten met provinciale staten va
 
 Indien provinciale staten van één of meer provincies met de raad of raden van een of meer gemeenten een gemeenschappelijke rekenkamer instellen, is, onverminderd artikel 79m, eerste lid, juncto artikel 79f, een lid van de rekenkamer niet tevens: 
 
-burgemeester;  
+a. burgemeester;  
 
-wethouder;  
+b. wethouder;  
 
-lid van de raad van een deelnemende gemeente;  
+c. lid van de raad van een deelnemende gemeente;  
 
-lid van een deelraad van een deelnemende gemeente;  
+d. lid van een deelraad van een deelnemende gemeente;  
 
-lid van het dagelijks bestuur van een deelraad van een deelnemende gemeente;  
+e. lid van het dagelijks bestuur van een deelraad van een deelnemende gemeente;  
 
-ambtenaar, door of vanwege het gemeentebestuur van een deelnemende gemeente aangesteld of daaraan ondergeschikt;  
+f. ambtenaar, door of vanwege het gemeentebestuur van een deelnemende gemeente aangesteld of daaraan ondergeschikt;  
 
-ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op een deelnemende gemeente;  
+g. ambtenaar, door of vanwege het Rijk aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op een deelnemende gemeente;  
 
-functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het gemeentebestuur van een deelnemende gemeente van advies te dienen.    
+h. functionaris, krachtens wet of algemene maatregel van bestuur geroepen om het gemeentebestuur van een deelnemende gemeente van advies te dienen.    
 
 ### Artikel  79o  
 
@@ -1268,10 +1268,6 @@ Onze Minister wie het aangaat kan ambtenaren aanwijzen ten behoeve van het toezi
 
 Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan Onze Minister wie het aangaat, betreffende de uitvoering door het provinciebestuur van de andere wet, bedoeld in artikel 121, eerste lid. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de toepassing.  
 
-### Artikel  121g  
-
-Provinciale staten en gedeputeerde staten kunnen, onderscheidenlijk de commissaris van de Koning kan tegen een tot hen onderscheidenlijk hem gericht besluit tot indeplaatsstelling beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
-
 ### §  4  
 
 ####Bestuursdwang
@@ -1677,7 +1673,7 @@ Aan de provincies kunnen slechts bij of krachtens de wet uitgaven worden opgeleg
 ### Artikel  193  
 
 1.  Voor alle taken en activiteiten brengen provinciale staten jaarlijks op de begroting de bedragen die zij daarvoor beschikbaar stellen, alsmede de financiële middelen die zij naar verwachting kunnen aanwenden.   
-2.  Provinciale staten zien erop toe dat de begroting in evenwicht is. Hiervan kunnen zij afwijken indien aannemelijk is dat het evenwicht in de begroting in de eerstvolgende jaren tot stand zal worden gebracht.   
+2.  Provinciale staten zien erop toe dat de begroting structureel en reëel in evenwicht is. Hiervan kunnen zij afwijken indien aannemelijk is dat het structureel en reëel evenwicht in de begroting in de eerstvolgende jaren tot stand zal worden gebracht.   
 3.  Behoudens het bepaalde in de artikelen 212 en 213 kunnen ten laste van de provincie slechts lasten en daarmee overeenstemmende balansmutaties worden genomen tot de bedragen die hiervoor op de begroting zijn gebracht.   
 4.  Het begrotingsjaar is het kalenderjaar.   
 
@@ -1751,16 +1747,15 @@ Indien provinciale staten de jaarrekening dan wel een indemniteitsbesluit niet o
 
 ### Artikel  207  
 
-1.  De begroting, bedoeld in artikel 193, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van Onze Minister, indien naar zijn oordeel de begroting, bedoeld in artikel 193, niet in evenwicht is en blijkens de meerjarenraming, bedoeld in artikel 194, niet aannemelijk is dat in de eerstvolgende jaren een evenwicht tot stand zal worden gebracht. Onze Minister doet hiervan vóór de aanvang van het begrotingsjaar mededeling aan het provinciebestuur.   
+1.  De begroting, bedoeld in artikel 193, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen behoeven de goedkeuring van Onze Minister, indien naar zijn oordeel de begroting, bedoeld in artikel 193, niet structureel en reëel in evenwicht is en blijkens de meerjarenraming, bedoeld in artikel 194, niet aannemelijk is dat in de eerstvolgende jaren een structureel en reëel evenwicht tot stand zal worden gebracht. Onze Minister doet hiervan vóór de aanvang van het begrotingsjaar mededeling aan het provinciebestuur.   
 2.  Onze Minister kan bepalen dat de begroting, bedoeld in artikel 193, van het eerstvolgende begrotingsjaar alsmede de daarop betrekking hebbende begrotingswijzigingen zijn goedkeuring behoeven, indien: 
 
-a. de jaarrekening van het tweede aan het begrotingsjaar voorafgaande jaar niet in evenwicht is, of  
+a. de begroting, bedoeld in artikel 193, niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in artikel 195, of  
 
-b. de begroting, bedoeld in artikel 193, niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in artikel 195, of  
-
-c. de jaarrekening, bedoeld in artikel 202, eerste lid, van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in artikel 204, eerste lid.     
+b. de jaarrekening, bedoeld in artikel 202, eerste lid, van het tweede aan het begrotingsjaar voorafgaande jaar niet tijdig is ingezonden aan Onze Minister overeenkomstig het bepaalde in artikel 204, eerste lid.     
 3.  Onze Minister maakt een besluit als bedoeld in het tweede lid voor de aanvang van het begrotingsjaar aan het provinciebestuur bekend.   
 4.  De begroting behoeft geen goedkeuring indien Onze Minister geen mededeling doet als bedoeld in het eerste lid of geen besluit bekendmaakt als bedoeld in het tweede lid binnen de in het eerste respectievelijk derde lid genoemde termijn.   
+5.  Onze Minister kan het besluit, bedoeld in het eerste lid, gedurende het lopende begrotingsjaar intrekken.   
 
 ### Artikel  209  
 
@@ -2171,7 +2166,7 @@ Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het
 1.  In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van artikel 274 genomen besluit in werking is getreden.   
 2.  Indien, gelet op het koninklijk besluit, het provinciebestuur bij de toepassing van artikel 274 niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.   
 3.  In het koninklijk besluit kan worden bepaald dat ter zake van het vernietigde besluit geen nieuw besluit wordt genomen.   
-4.  In het koninklijk besluit kan het provinciebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De artikelen 121 tot en met 121g zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.   
+4.  In het koninklijk besluit kan het provinciebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De artikelen 121 tot en met 121f zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.   
 5.  Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.   
 
 ### Artikel  272  
@@ -2181,7 +2176,7 @@ Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing o
 ### Artikel  274  
 
 1.  Het provinciebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan artikel 271a, tweede of derde lid.   
-2.  In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De artikelen 121 tot en met 121g zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.   
+2.  In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De artikelen 121 tot en met 121f zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.   
 
 ### Artikel  274a  
 

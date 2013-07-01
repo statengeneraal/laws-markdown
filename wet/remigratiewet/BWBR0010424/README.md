@@ -127,38 +127,13 @@ e. de datum waarop het recht op de voorzieningen ingaat en het recht op de voorz
 
 ### Artikel  8b  
 
-1.  Aan de Sociale verzekeringsbank worden de uitgaven door Onze Minister vergoed van de voorzieningen die op grond van deze wet door de Sociale verzekeringsbank zijn betaald.   
-2.  Aan de Sociale verzekeringsbank worden de kosten door Onze Minister vergoed die door de Sociale verzekeringsbank bij de uitvoering van haar taak, bedoeld in artikel 8a, eerste lid, worden gemaakt.   
-3.  Onze Minister kan regels stellen over de systematiek van de kosten, bedoeld in het tweede lid.   
-
-### Artikel  8c  
-
-1.  Ten behoeve van de uitvoering van deze wet biedt de Sociale verzekeringsbank aan Onze Minister aan: 
-
-a. een begroting en een vijfjarige raming van de in artikel 8b, eerste en tweede lid, bedoelde uitgaven en kosten, alsmede van de te verwachten ontvangsten. De begroting behoeft goedkeuring van Onze Minister;  
-
-b. een aanvraag om een voorschot ten behoeve van een komend begrotingsjaar. Onze Minister stelt de hoogte van het voorschot vast;  
-
-c. een tussentijdse rapportage over het lopende kalenderjaar over de in artikel 8b, eerste en tweede lid, gerealiseerde uitgaven en kosten ten opzichte van de verstrekte voorschotten;  
-
-d. een jaarrekening, een verslag van werkzaamheden en het gevoerde beleid in het algemeen en de doelmatigheid van werkzaamheden en werkwijze in het bijzonder en een aanvraag tot vaststelling van de in artikel 8b, eerste en tweede lid, bedoelde uitgaven, kosten en ontvangsten. Onze Minister stelt de hoogte van het definitieve bedrag van de eindafrekening vast;  
-
-e. een verklaring omtrent de getrouwheid van de jaarrekening, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en een rechtmatigheidsrapportage over de uitvoering van deze wet, afgegeven door de interne accountant van de Sociale verzekeringsbank. Ten behoeve van de rechtmatigheid, met inbegrip van de getrouwheid, stelt Onze Minister een controleprotocol vast.     
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inhoud, de inrichting en het tijdstip van aanbieding van de schriftelijke stukken, bedoeld in het eerste lid, en over het tijdstip van betaling van voorschotten, bedoeld in het eerste lid.   
-
-### Artikel  8d  
-
-1.  Het boekjaar van de Sociale verzekeringsbank is wat betreft de uitvoering van deze wet gelijk aan het kalenderjaar.   
-2.  Indien gedurende het boekjaar aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke uitgaven en inkomsten en de begrote uitgaven en inkomsten doet de Sociale verzekeringsbank daarvan onverwijld mededeling aan Onze Minister onder vermelding van de oorzaak van de verschillen.   
-3.  Onze Minister kan naar aanleiding van een mededeling als bedoeld in het tweede lid het voorschot, bedoeld in artikel 8c, eerste lid, onderdeel b, aanpassen.   
-
-### Artikel  8e  
-
-Ten behoeve van de controle van de in artikel 8b, eerste en tweede lid, bedoelde uitgaven en kosten verschaft de Sociale verzekeringsbank desgevraagd aan de door Onze Minister daartoe aangewezen ambtenaren van de accountantsdienst, bedoeld in [artikel 66, eerste lid, van de Comptabiliteitswet 2001](../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), de voor deze controle benodigde informatie en verleent desgevraagd aan deze ambtenaren toegang tot en inzage in alle gegevens die bij de controle op enigerlei wijze een rol spelen.  
+1.  De kosten voor de remigratievoorzieningen en voor de uitvoering van deze wet komen ten laste van het Rijk.   
+2.  De Sociale verzekeringsbank beheert en administreert de in het eerste lid bedoelde kosten afzonderlijk.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de uitvoering van dit artikel.   
 
 ### Artikel  8f  
 
-1.  De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in artikel 8b, eerste en tweede lid, bedoelde uitgaven en kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.   
+1.  De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in artikel 8b, eerste lid, bedoelde kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.   
 2.  In de administratie, bedoeld in het eerste lid, wordt het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer opgenomen van de remigrant, zijn partner en hun kinderen, waarbij onder partner mede wordt verstaan de partner, bedoeld in artikel 1, tweede lid, en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in artikel 1, derde lid.   
 3.  Onze Minister kan regels stellen omtrent de inrichting van de administratie, bedoeld in het eerste lid.   
 
@@ -182,7 +157,7 @@ Ten behoeve van de controle van de in artikel 8b, eerste en tweede lid, bedoelde
 
 ### Artikel  8j  
 
-1.  De [hoofdstukken 7](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [8 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede de [artikelen 5](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [9](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [10](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [35](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [55, derde lid](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [72](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [73](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [77](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [79](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [84](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [86 van die wet](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zijn ten aanzien van de uitvoering van deze wet niet van toepassing.   
+1.  [Hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede de [artikelen 5](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [9](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [10](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [35](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [55, derde lid](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [72](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [73](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [77](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [79](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [84](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) en [86 van die wet](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zijn ten aanzien van de uitvoering van deze wet niet van toepassing.   
 2.  [Artikel 34, eerste lid, onderdeel g, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) is van overeenkomstige toepassing, met dien verstande dat wordt verstaan onder: 
 
 a. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;  

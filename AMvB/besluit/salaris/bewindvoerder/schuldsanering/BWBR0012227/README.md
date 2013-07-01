@@ -26,8 +26,8 @@ c. zaak: een door de bewindvoerder af te wikkelen schuldsaneringsboedel.
 ### Artikel  2  
 
 1.  Het salaris wordt berekend over iedere maand, een gedeelte van een maand daaronder begrepen, gedurende welke de schuldsaneringsregeling in een zaak van toepassing is.   
-2.  Voor iedere maand vanaf de maand waarin de toepassing van de schuldsaneringsregeling wordt uitgesproken bedraagt het salaris in een zaak € 37,– Per 1 juli 2011: € 42,00.   
-3.  In afwijking van het tweede lid bedraagt het salaris in een zaak € 44,– Per 1 juli 2011: € 50,00, indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt.   
+2.  Voor iedere maand vanaf de maand waarin de toepassing van de schuldsaneringsregeling wordt uitgesproken bedraagt het salaris in een zaak € 37,– per 1 juli 2013: € 42,00.   
+3.  In afwijking van het tweede lid bedraagt het salaris in een zaak € 44,– per 1 juli 2013: € 50,50, indien de toepassing van de schuldsaneringsregeling wordt uitgesproken bij twee personen ten aanzien van wie een algehele gemeenschap van goederen geldt.   
 4.  De hoogte van het salaris, bedoeld in dit artikel, wordt jaarlijks door Onze Minister aangepast overeenkomstig het voor dat jaar vastgestelde percentage voor de bijdrage in de kosten van de arbeidsvoorwaardenontwikkeling aan niet VWS-gebonden gepremieerde en gesubsidieerde sectoren. Het salaris wordt afgerond op het naastliggende veelvoud van € 0,50.   
 5.  De aanpassing, bedoeld in het vorige lid, vindt plaats met ingang van de eerste dag van de maand volgend op de datum waarop deze is vastgesteld, tenzij Onze Minister een andere datum van inwerkingtreding vaststelt.   
 

@@ -2435,7 +2435,7 @@ c. de voogdij overeenkomstig artikel 299a van dit boek aan een andere voogd is o
 3.  Het verzoek wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.   
 4.  Gezamenlijke uitoefening van de voogdij is niet mogelijk ten aanzien van tijdelijke voogdij als bedoeld in de artikelen 296 en 297. Zij staat niet open voor rechtspersonen.   
 5.  Artikel 253a is van overeenkomstige toepassing.   
-6.  In afwijking van artikel 336 hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. Artikel 253w is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing.   
+6.  In afwijking van artikel 336 hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. Artikel 253w is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing, tenzij het betreft pleegouders die zijn belast met de gezamenlijke voogdij en die met een zorgaanbieder een pleegcontract hebben gesloten als bedoeld in [artikel 28b van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
 7.  Een verzoek als bedoeld in het eerste lid kan vergezeld gaan van een verzoek tot wijziging van de geslachtsnaam van het kind in de geslachtsnaam van een van de voogden. Een zodanig verzoek wordt afgewezen, indien: 
 
 a. het kind van twaalf jaar of ouder ter gelegenheid van zijn verhoor niet heeft ingestemd met het verzoek;  

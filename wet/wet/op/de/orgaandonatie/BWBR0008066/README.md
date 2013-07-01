@@ -99,11 +99,12 @@ Het verwijderen van een orgaan bij leven is slechts toegestaan, indien daarvoor 
 
 ### Artikel  11  
 
-1.  Indien van een persoon als bedoeld in artikel 9 geen wilsverklaring omtrent het verwijderen van organen aanwezig is, kan daarvoor na het intreden van de dood toestemming worden verleend door de bij zijn overlijden met hem samenlevende echtgenoot, geregistreerde partner of andere levensgezel, dan wel bij afwezigheid of onbereikbaarheid van deze door de onmiddellijk bereikbare meerderjarige bloedverwanten tot en met de tweede graad dan wel bij afwezigheid of onbereikbaarheid van dezen door de onmiddellijk bereikbare meerderjarige aanverwanten tot en met de tweede graad. Betreft het een minderjarige van twaalf jaar of ouder waarvan geen wilsverklaring bekend is, dan kan de toestemming worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.   
-2.  Ten aanzien van een minderjarige beneden de twaalf jaar kan de in het eerste lid bedoelde toestemming worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.   
-3.  Bij verschil van mening tussen de bloedverwanten, de aanverwanten, onderscheidenlijk de ouders, bedoeld in het eerste en tweede lid, kan de toestemming niet worden verleend.   
-4.  Indien gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid, is dit artikel van overeenkomstige toepassing, met dien verstande dat indien de beslissing is overgelaten aan een bepaalde persoon, die persoon toestemming kan verlenen. Bij afwezigheid of onbereikbaarheid van laatstgenoemde persoon kan de toestemming worden verleend met overeenkomstige toepassing van het eerste en derde lid.   
-5.  Indien een persoon toestemming heeft verleend voor het na zijn overlijden verwijderen van organen, kan voor het verwijderen van een orgaan dat niet is opgenomen in de tekst van een op het tijdstip van toestemming geldend donorformulier en tegen verwijdering waarvan hij niet anderszins reeds zelf bezwaar heeft gemaakt, toestemming worden verleend met overeenkomstige toepassing van het eerste, derde en vierde lid.   
+1.  Indien van een persoon als bedoeld in artikel 9 geen wilsverklaring omtrent het verwijderen van organen aanwezig is, kan daarvoor na het vaststellen van de dood toestemming worden verleend door de bij zijn overlijden met hem samenlevende echtgenoot, geregistreerde partner of andere levensgezel, dan wel bij afwezigheid of onbereikbaarheid van deze door de onmiddellijk bereikbare meerderjarige bloedverwanten tot en met de tweede graad dan wel bij afwezigheid of onbereikbaarheid van dezen door de onmiddellijk bereikbare meerderjarige aanverwanten tot en met de tweede graad. Betreft het een minderjarige van twaalf jaar of ouder waarvan geen wilsverklaring bekend is, dan kan de toestemming worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.   
+2.  Indien van een persoon die in de periode voorafgaand aan zijn overlijden niet in staat was tot een redelijke waardering van zijn belangen terzake van orgaandonatie, terwijl deze gedurende een periode van zijn leven vanaf de leeftijd van twaalf jaar daartoe wel in staat is geweest, geen wilsverklaring omtrent het verwijderen van organen aanwezig is, kan daarvoor na het vaststellen van de dood toestemming worden verleend door de in het eerste lid bedoelde personen.   
+3.  Ten aanzien van een minderjarige beneden de twaalf jaar kan de in het eerste lid bedoelde toestemming worden verleend door de ouders die de ouderlijke macht uitoefenen, of de voogd.   
+4.  Bij verschil van mening tussen de bloedverwanten, de aanverwanten, onderscheidenlijk de ouders, bedoeld in het eerste en tweede lid, kan de toestemming niet worden verleend.   
+5.  Indien gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid, is dit artikel van overeenkomstige toepassing, met dien verstande dat indien de beslissing is overgelaten aan een bepaalde persoon, die persoon toestemming kan verlenen. Bij afwezigheid of onbereikbaarheid van laatstgenoemde persoon kan de toestemming worden verleend met overeenkomstige toepassing van het eerste en derde lid.   
+6.  Indien een persoon toestemming heeft verleend voor het na zijn overlijden verwijderen van organen, kan voor het verwijderen van een orgaan dat niet is opgenomen in de tekst van een op het tijdstip van toestemming geldend donorformulier en tegen verwijdering waarvan hij niet anderszins reeds zelf bezwaar heeft gemaakt, toestemming worden verleend met overeenkomstige toepassing van het eerste, derde en vierde lid.   
 
 ### Artikel  12  
 
@@ -115,7 +116,7 @@ Tenzij degene die toestemming verleent uitdrukkelijk anders bepaalt, wordt toest
 
 ### §  2  
 
-####Het intreden van de dood
+####Het vaststellen van de dood
 
 ### Artikel  14  
 
@@ -148,16 +149,17 @@ Bij de aanwezigheid of het vermoeden van een niet natuurlijke dood mag een orgaa
 
 ### §  4  
 
-####Het verwijderen van organen
+####Voorbereidende handelingen en het verwijderen van organen
 
 ### Artikel  20  
 
-1.  Wanneer een gerede kans bestaat dat een persoon binnen afzienbare tijd zal overlijden, maar in ieder geval zo spoedig mogelijk na het intreden van de dood, gaat de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris na of een wilsverklaring als bedoeld in artikel 9 of artikel 10 aanwezig is, tenzij reeds vaststaat dat de betrokkene medisch gezien niet in aanmerking komt als donor. Indien een uit het register blijkende wilsverklaring niet overeenkomt met een andere aanwezige verklaring als bedoeld in artikel 9 geldt de laatst afgelegde verklaring.   
-2.  Indien geen wilsverklaring als bedoeld in artikel 9 of 10 aanwezig is of gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid, raadpleegt de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris na het intreden van de dood van de betrokkene de persoon of personen, die op grond van artikel 11 bevoegd zijn tot het verlenen van toestemming voor het verwijderen van organen.   
-3.  Indien de betrokkene zelf toestemming heeft gegeven voor het verwijderen van organen, stelt de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris de daarvoor in aanmerking komende, onmiddellijk bereikbare naasten op de hoogte van de wijze waarop aan de toestemming gevolg wordt gegeven.   
-4.  De toepassing van dit artikel geschiedt met inachtneming van de regels gesteld in het in artikel 23 bedoelde protocol. Van de toepassing doet de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris verslag door invulling van een bij of krachtens algemene maatregel van bestuur vastgesteld formulier. Bij die algemene maatregel kunnen tevens regels worden gesteld omtrent de verstrekking van gegevens betreffende de toepassing van dit artikel aan het orgaancentrum.   
-5.  Aan de in dit artikel bedoelde functionarissen wordt voor zover dat voor de uitvoering van de werkzaamheden betreffende de toepassing van dit artikel noodzakelijk is, inzage gegeven in het dossier van de patiënt.   
-6.  Bij algemene maatregel van bestuur kunnen van dit artikel afwijkende regels worden gesteld betreffende de toepassing door bij die maatregel aan te wijzen categorieën van artsen. Daarbij kan worden bepaald dat de taken die in dit artikel zijn opgedragen aan een functionaris als bedoeld in het eerste lid, door een ander worden uitgevoerd.   
+1.  Wanneer een gerede kans bestaat dat een persoon binnen afzienbare tijd zal overlijden, maar in ieder geval zo spoedig mogelijk na het vaststellen van de dood, gaat de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris na of een wilsverklaring als bedoeld in artikel 9 of artikel 10 aanwezig is, tenzij reeds vaststaat dat de betrokkene medisch gezien niet in aanmerking komt als donor. Indien een uit het register blijkende wilsverklaring niet overeenkomt met een andere aanwezige verklaring als bedoeld in artikel 9 geldt de laatst afgelegde verklaring.   
+2.  Indien een persoon niet door middel van een wilsverklaring als bedoeld in artikel 9 of 10 toestemming heeft verleend tot of bezwaar heeft gemaakt tegen het na zijn overlijden verwijderen van organen, en redelijkerwijs vaststaat dat die persoon binnen afzienbare tijd zal overlijden, verstrekt de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris de persoon of personen die op grond van artikel 11 bevoegd zijn tot het verlenen van toestemming voor het verwijderen van organen, voor zover zij aanwezig of bereikbaar zijn, passende informatie over de mogelijkheid van orgaandonatie.   
+3.  Indien geen wilsverklaring als bedoeld in artikel 9 of 10 aanwezig is of gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid, vraagt de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris na het vaststellen van de dood de persoon of personen die op grond van artikel 11 bevoegd zijn tot het verlenen van toestemming voor het verwijderen van organen om toestemming voor het verwijderen van organen, tenzij reeds is gebleken van bezwaar daartegen van deze persoon of personen.   
+4.  Indien de betrokkene zelf toestemming heeft gegeven voor het verwijderen van organen, stelt de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris de daarvoor in aanmerking komende, onmiddellijk bereikbare naasten op de hoogte van de wijze waarop aan de toestemming gevolg wordt gegeven.   
+5.  De toepassing van dit artikel geschiedt met inachtneming van de regels gesteld in het in artikel 23 bedoelde protocol. Van de toepassing doet de daartoe in het protocol, bedoeld in artikel 23, aangewezen functionaris verslag door invulling van een bij of krachtens algemene maatregel van bestuur vastgesteld formulier. Bij die algemene maatregel kunnen tevens regels worden gesteld omtrent de verstrekking van gegevens betreffende de toepassing van dit artikel aan het orgaancentrum.   
+6.  Aan de in dit artikel bedoelde functionarissen wordt voor zover dat voor de uitvoering van de werkzaamheden betreffende de toepassing van dit artikel noodzakelijk is, inzage gegeven in het dossier van de patiënt.   
+7.  Bij algemene maatregel van bestuur kan worden bepaald dat in dit artikel gestelde regels niet van toepassing zijn op bij die maatregel aan te wijzen categorieën van artsen. Daarbij kan worden bepaald dat de taken die in dit artikel zijn opgedragen aan een functionaris als bedoeld in het eerste lid, door een ander worden uitgevoerd.   
 
 ### Artikel  21  
 
@@ -171,7 +173,7 @@ c. het voor implantatie ter beschikking gestelde orgaan overeenkomstig artikel 1
 
 ### Artikel  22  
 
-1.  Indien een persoon toestemming heeft verleend voor het na zijn overlijden verwijderen van een orgaan, mogen in verband met de implantatie reeds voor het intreden van de dood voorbereidingen worden getroffen voor zover deze niet strijdig zijn met de geneeskundige behandeling van die persoon en uitstel tot na het intreden van de dood niet mogelijk is. Die voorbereidingen kunnen bestaan uit: 
+1.  Indien een persoon toestemming heeft verleend voor het na zijn overlijden verwijderen van een orgaan, mogen wanneer redelijkerwijs vaststaat dat betrokkene binnen afzienbare tijd zal overlijden in verband met de implantatie reeds voor het vaststellen van de dood voorbereidingen worden getroffen voor zover deze niet strijdig zijn met de geneeskundige behandeling van die persoon en uitstel tot na het vaststellen van de dood niet mogelijk is. Die voorbereidingen kunnen bestaan uit: 
 
 – onderzoek noodzakelijk voor de voorbereiding van de implantatie;  
 
@@ -180,8 +182,19 @@ c. het voor implantatie ter beschikking gestelde orgaan overeenkomstig artikel 1
 – het kunstmatig in stand houden van de bloedsomloop, en  
 
 – andere maatregelen noodzakelijk om organen geschikt te houden voor implantatie.     
-2.  Indien van een persoon geen wilsverklaring als bedoeld in artikel 9 of artikel 10 aanwezig is of gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid en de betrokkene niet wordt beademd, kunnen vanaf vijf minuten na het intreden van de dood, zolang de procedure ter verkrijging van de voor het verwijderen van organen ingevolge deze wet noodzakelijke toestemmingen nog niet heeft geleid tot weigering daarvan, maatregelen worden getroffen om organen geschikt te houden voor implantatie.   
-3.  Indien van een persoon geen wilsverklaring als bedoeld in artikel 9 of artikel 10 aanwezig is of gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid en de betrokkene wordt beademd, kunnen na het intreden van de dood, zolang de procedure ter verkrijging van de voor het verwijderen van organen ingevolge deze wet noodzakelijke toestemmingen nog niet heeft geleid tot weigering daarvan, de volgende maatregelen worden getroffen: 
+2.  Indien van een persoon geen wilsverklaring als bedoeld in artikel 9 of 10 aanwezig is of gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid, mogen reeds voor het vaststellen van de dood, de in het eerste lid genoemde voorbereidingen worden getroffen voor zover: 
+
+a. het redelijkerwijs vaststaat dat betrokkene binnen afzienbare tijd zal overlijden;  
+
+b. de voorbereidingen niet strijdig zijn met de geneeskundige behandeling van betrokkene;  
+
+c. uitstel van de voorbereidingen tot na het vaststellen van de dood niet mogelijk is; en  
+
+d. de procedure ter verstrekking van informatie, bedoeld in artikel 20, tweede lid, nog niet heeft geleid tot bezwaar van de persoon of personen die op grond van artikel 11 bevoegd zijn tot het geven van toestemming voor het verwijderen van organen tegen het treffen van de voorbereidingen.     
+3.  Indien van een persoon geen wilsverklaring als bedoeld in artikel 9 of artikel 10 aanwezig is of gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid en de betrokkene niet wordt beademd, kunnen vanaf vijf minuten na de onomkeerbare hartstilstand, zolang de procedure ter verkrijging van de voor het verwijderen van organen ingevolge deze wet noodzakelijke toestemmingen nog niet heeft geleid tot weigering daarvan, onderzoek worden verricht dat noodzakelijk is voor de voorbereiding van implantatie en maatregelen worden getroffen om organen geschikt te houden voor implantatie.   
+4.  Indien van een persoon geen wilsverklaring als bedoeld in artikel 9 of artikel 10 aanwezig is of gebruik is gemaakt van de in de tweede volzin van artikel 9, tweede lid, bedoelde mogelijkheid en de betrokkene wordt beademd, kunnen na het het vaststellen van de dood, zolang de procedure ter verkrijging van de voor het verwijderen van organen ingevolge deze wet noodzakelijke toestemmingen nog niet heeft geleid tot weigering daarvan, de volgende maatregelen worden getroffen: 
+
+– onderzoek noodzakelijk voor de voorbereiding van implantatie;  
 
 – het in stand houden van de kunstmatige beademing;  
 
@@ -200,11 +213,11 @@ c. het voor implantatie ter beschikking gestelde orgaan overeenkomstig artikel 1
 
 a. de wijze waarop wordt nagegaan of een overledene in aanmerking komt als donor;  
 
-b. de wijze waarop overeenkomstig artikel 20 het donorregister en de in het tweede lid van artikel 20 bedoelde personen worden geraadpleegd, dan wel de in het derde lid van artikel 20 bedoelde personen op de hoogte worden gesteld;  
+b. de wijze waarop overeenkomstig artikel 20 het donorregister wordt geraadpleegd, de in het tweede lid van artikel 20 bedoelde personen worden geïnformeerd, de in het derde lid van artikel 20 bedoelde personen om toestemming worden gevraagd, dan wel de in het vierde lid van artikel 20 bedoelde personen op de hoogte worden gesteld;  
 
 c. de procedure die wordt gevolgd bij de melding van een orgaan bij een orgaancentrum;  
 
-d. de wijze waarop aan de personen bedoeld in artikel 20, tweede en derde lid, nazorg wordt verleend;  
+d. de wijze waarop aan de personen bedoeld in artikel 20, derde en vierde lid, nazorg wordt verleend;  
 
 e. de voorlichting in het ziekenhuis over de in het protocol gestelde regels.     
 3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de inhoud van het in het eerste lid bedoelde protocol en kan worden bepaald dat dit artikel geheel of gedeeltelijk niet van toepassing is op bepaalde categorieën ziekenhuizen.   

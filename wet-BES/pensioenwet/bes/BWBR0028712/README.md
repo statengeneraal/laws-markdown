@@ -18,7 +18,7 @@
 
 – *deelnemer:* de werknemer of gewezen werknemer die op grond van een pensioenovereenkomst aanspraken verwerft jegens een pensioenuitvoerder;  
 
-– *externe deskundige:* externe deskundige als bedoeld in [artikel 121 van Boek 2 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md);  
+– *externe deskundige:* externe deskundige als bedoeld in artikel 121 van Boek 2 van het Burgerlijk Wetboek BES;  
 
 – *gepensioneerde:* pensioengerechtigde voor wie het ouderdomspensioen is ingegaan;  
 
@@ -26,7 +26,7 @@
 
 – *Hof van Justitie:* Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
-– *ondernemingspensioenfonds:* een pensioenfonds verbonden aan een onderneming of aan een groepsmaatschappij als bedoeld in [Boek 2 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md);  
+– *ondernemingspensioenfonds:* een pensioenfonds verbonden aan een onderneming of aan een groepsmaatschappij als bedoeld in Boek 2 van het Burgerlijk Wetboek BES;  
 
 – *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
@@ -42,7 +42,7 @@
 
 – *pensioenuitvoerder:* een ondernemingspensioenfonds, een bedrijfstakpensioenfonds of een verzekeraar die zetel hebben in het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
-– *transitiedatum:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt;  
+– *transitiedatum:* het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt;  
 
 – *uitvoeringsovereenkomst:* de overeenkomst tussen een werkgever en een pensioenuitvoerder over de uitvoering van een of meer pensioenovereenkomsten;  
 
@@ -68,12 +68,12 @@ a. een pensioenuitvoerder;
 
 b. een pensioenfonds uit een ander deel van het Koninkrijk; of  
 
-c. een verzekeraar met een zetel buiten de openbare lichamen, mits die verzekeraar op grond van de [Wet toezicht verzekeringsbedrijf BES](../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md) het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen.     
+c. een verzekeraar met een zetel buiten de openbare lichamen, mits die verzekeraar op grond van de Wet financiële markten BES het bedrijf van levensverzekeraar of schadeverzekeraar mag uitoefenen.     
 2.  De in het eerste lid opgenomen verplichting van de werkgever tot het sluiten en in standhouden van een schriftelijke uitvoeringsovereenkomst geldt niet bij uitvoering door een bedrijfstakpensioenfonds, mits de werkgever: 
 
 a. gehouden is of zich verbonden heeft door lid te zijn van een werkgeversvereniging tot naleving van de statuten en reglementen van dit bedrijfstakpensioenfonds; of  
 
-b. ten aanzien van zijn werknemers gebonden is door de [Pensioenwet ambtenaren BES](../../../../wet-BES/pensioenwet/ambtenaren/bes/BWBR0028714/README.md).     
+b. ten aanzien van zijn werknemers gebonden is door de Pensioenwet ambtenaren BES.     
 3.  De in het eerste lid opgenomen verplichtingen van de werkgever tot onderbrenging en het sluiten en in stand houden van een schriftelijke uitvoeringsovereenkomst gelden niet wanneer een pensioenovereenkomst is gesloten door een werkgever die tevens pensioenuitvoerder is, mits de pensioenovereenkomsten van deze werknemers worden ondergebracht bij de werkgever in zijn hoedanigheid van pensioenuitvoerder.   
 
 ### Artikel  2  
@@ -179,7 +179,7 @@ j. de liquidatie van het fonds, met name ook wat betreft de verplichtingen van d
 
 ### Artikel  7a  
 
-1.  Afkoop is slechts mogelijk in bij of krachtens de artikelen 7, 7b en 13e bedoelde situaties of in geval van toepassing van [artikel 60 van de Wet toezicht verzekeringsbedrijf BES](../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md).   
+1.  Afkoop is slechts mogelijk in bij of krachtens de artikelen 7, 7b en 13e bedoelde situaties of in geval van toepassing van artikel 8:9, tweede of derde lid, van de Wet financiële markten BES.   
 2.  Elk beding strijdig met dit artikel is nietig.   
 
 ### Artikel  7b  
@@ -187,8 +187,9 @@ j. de liquidatie van het fonds, met name ook wat betreft de verplichtingen van d
 1.  De pensioenuitvoerder heeft het recht om bij ingang van een pensioen een pensioen dat minder bedraagt dan een bij regeling van Onze Minister vast te stellen bedrag per jaar, behoudens in bij die regeling aan te wijzen gevallen, af te kopen.   
 2.  De pensioenuitvoerder stelt de afkoopwaarde ter beschikking aan de pensioengerechtigde.   
 3.  Het in het eerste lid bedoelde bedrag wordt bij regeling van Onze Minister jaarlijks herzien op basis van een door Onze Minister aan te wijzen consumentenprijsindexcijfer, vastgesteld door het Centraal Bureau voor de Statistiek.   
-4.  Voor de toepassing van het eerste lid wordt het weduwen-, weduwnaars- en wezenpensioen als een eenheid beschouwd.   
-5.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de afkoopwaarde wordt berekend.   
+4.  Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van het bedrag, bedoeld in het eerste lid. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.   
+5.  Voor de toepassing van het eerste lid wordt het weduwen-, weduwnaars- en wezenpensioen als een eenheid beschouwd.   
+6.  Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de afkoopwaarde wordt berekend.   
 
 ### Artikel  7c  
 
@@ -196,7 +197,7 @@ j. de liquidatie van het fonds, met name ook wat betreft de verplichtingen van d
 
 a. een pensioenfonds;  
 
-b. een verzekeraar die het levensverzekeringsbedrijf uitoefent en in het bezit is van een vergunning, bedoeld in de [Wet toezicht verzekeringsbedrijf BES](../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md);  
+b. een verzekeraar die het levensverzekeringsbedrijf uitoefent en in het bezit is van een vergunning, bedoeld in de Wet financiële markten BES;  
 
 c. een instantie die een pensioenregeling uitvoert van een volkenrechtelijke organisatie waarin het Koninkrijk der Nederlanden deelneemt; of  
 
@@ -427,7 +428,7 @@ Ieder der bestuurders en ieder lid van het personeel van een pensioenfonds of va
 
 1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij besluit van de Bank aangewezen personen.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  [Titel 5.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing, met uitzondering van de [artikelen 5.18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.19](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Titel 5.2 van de Algemene wet bestuursrecht is van toepassing, met uitzondering van de artikelen 5.18 en 5.19.   
 
 ### Artikel  20  
 
@@ -489,22 +490,9 @@ c. voor de in artikel 4:116 van de Algemene wet bestuursrecht opgenomen verwijzi
 
 d. voor de in artikel 5:1 van de Algemene wet bestuursrecht opgenomen verwijzing naar artikel 51, tweede en derde lid, van het Wetboek van Strafrecht gelezen moet worden: artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES.     
 
-### Artikel  23  
-
-1.  De Bank stelt jaarlijks een begroting, een verantwoording en een jaarverslag op terzake van de haar op grond van deze wet opgedragen taken en de daaruit voortvloeiende werkzaamheden. De [artikelen 154 tot en met 157](../../../../wet/pensioenwet/BWBR0020809/README.md) en [159 van de Pensioenwet](../../../../wet/pensioenwet/BWBR0020809/README.md) zijn van overeenkomstige toepassing.   
-2.  Bij regeling van Onze Minister kunnen regels worden gesteld over de inhoud en indiening van de begroting, het jaarverslag en de verantwoording.   
-3.  Tegen besluiten van Onze Minister inzake instemming met de begroting of de verantwoording staat geen beroep open.   
-
 ### Artikel  23a  
 
 De Bank verstrekt Onze Minister desgevraagd de gegevens of inlichtingen die deze behoeft om zich over de uitvoering van deze wet in de praktijk of over de uitvoerbaarheid van beleidsvoornemens of voorgenomen wettelijke voorschriften een oordeel te vormen.  
-
-### Artikel  24  
-
-1.  De Bank brengt de kosten van de werkzaamheden die zij verricht in verband met de uitvoering van de taken op grond van deze wet in rekening bij de pensioenuitvoerders ten aanzien waarvan die werkzaamheden worden verricht, voor zover deze kosten niet ten laste komen van de Rijksbegroting. Tot de kosten behoren onder meer de kosten die zij ter voorbereiding op de uitvoering van nieuwe onderdelen van haar taak heeft gemaakt, voordat deze aan haar werden opgedragen. De kosten voor verzekeraars en pensioenfondsen worden gescheiden in rekening gebracht.   
-2.  De kosten worden gebaseerd op de begroting waarmee Onze Minister heeft ingestemd en op het exploitatiesaldo, indien Onze Minister heeft ingestemd met de verantwoording waarin een voorstel als bedoeld in [artikel 159, tweede lid, van de Pensioenwet](../../../../wet/pensioenwet/BWBR0020809/README.md) is opgenomen.   
-3.  Op de begrote kosten worden de opbrengsten uit bestuurlijke boeten, voor zover de hieraan ten grondslag liggende besluiten van de Bank in het voorafgaande jaar onherroepelijk zijn geworden, in mindering gebracht.   
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel. De nadere regels hebben onder meer betrekking op de wijze waarop de toezichtkosten worden berekend, de toerekening van toezichthandelingen en -kosten aan pensioenuitvoerders en de doorberekening van de toezichtkosten aan de pensioenuitvoerders.   
 
 ### Artikel  25  
 

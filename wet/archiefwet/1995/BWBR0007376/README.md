@@ -46,7 +46,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen worden onder 
 
 ### Artikel  2a  
 
-Het verbod persoonsgegevens te verwerken, bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), geldt niet voor verwerkingen die verband houden met: 
+Het verbod persoonsgegevens te verwerken, bedoeld in artikel 16 van de Wet bescherming persoonsgegevens, geldt niet voor verwerkingen die verband houden met: 
 
 a. de vervanging van archiefbescheiden, bedoeld in artikel 7;  
 
@@ -73,7 +73,7 @@ De overheidsorganen zijn verplicht de onder hen berustende archiefbescheiden in 
 ### Artikel  5  
 
 1.  De zorgdrager is verplicht tot het ontwerpen van selectielijsten waarin tenminste wordt aangegeven welke archiefbescheiden voor vernietiging in aanmerking komen.   
-2.  De lijsten worden, nadat Onze minister de Raad voor cultuur, bedoeld in [artikel 2a van de Wet op het specifiek cultuurbeleid](../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), heeft gehoord, vastgesteld, voor zover het betreft: 
+2.  De lijsten worden vastgesteld, voor zover het betreft: 
 
 a. archiefbescheiden van de Eerste en de Tweede Kamer der Staten-Generaal, de andere Hoge Colleges van Staat en het Kabinet van de Koning: bij koninklijk besluit, op voordracht van Onze minister, in overeenstemming met het betrokken overheidsorgaan;  
 
@@ -88,7 +88,7 @@ Tot vernietiging van in een rijksarchiefbewaarplaats berustende archiefbescheide
 
 ### Artikel  7  
 
-De zorgdrager is bevoegd archiefbescheiden te vervangen door reprodukties, teneinde de aldus vervangen bescheiden te vernietigen. Voor de vervanging van archiefbescheiden die niet als te vernietigen worden aangemerkt in de in artikel 5 bedoelde lijsten, is een machtiging vereist van Onze minister dan wel, indien het archiefbescheiden betreft voor de bewaring waarvan een andere dan een rijksarchiefbewaarplaats is aangewezen, van gedeputeerde staten. Deze machtiging houdt tevens een machtiging tot vernietiging in.  
+De zorgdrager is bevoegd archiefbescheiden te vervangen door reprodukties, teneinde de aldus vervangen bescheiden te vernietigen.  
 
 ### Artikel  8  
 
@@ -123,7 +123,7 @@ Indien archiefbescheiden ten onrechte berusten onder een ander overheidsorgaan d
 
 1.  De zorgdrager kan archiefbescheiden die niet voor vernietiging in aanmerking komen en jonger zijn dan twintig jaar naar een archiefbewaarplaats overbrengen, wanneer naar het oordeel van de beheerder van de archiefbewaarplaats voldoende aanleiding bestaat hiervoor ruimte beschikbaar te stellen.   
 2.  Een afwijzende beslissing krachtens het eerste lid kan door degene aan wie de beheerder onmiddellijk ondergeschikt is worden herzien.   
-3.  Indien archiefbescheiden ouder dan twintig jaar door het overheidsorgaan nog veelvuldig worden gebruikt of geraadpleegd kan op verzoek van de zorgdrager machtiging tot opschorting van de overbrenging van die archiefbescheiden worden verleend door Onze minister dan wel, indien het archiefbescheiden betreft voor de bewaring waarvan een andere dan een rijksarchiefbewaarplaats is aangewezen, door gedeputeerde staten.   
+3.  Indien archiefbescheiden ouder dan twintig jaar door het overheidsorgaan nog veelvuldig worden gebruikt of geraadpleegd kan op verzoek van de zorgdrager machtiging tot opschorting van de overbrenging van die archiefbescheiden worden verleend door Onze minister dan wel, indien het archiefbescheiden betreft voor de bewaring waarvan een andere dan een rijksarchiefbewaarplaats of een provinciale archiefbewaarplaats is aangewezen, door gedeputeerde staten.   
 4.  De in het derde lid bedoelde machtiging, waaraan voorwaarden kunnen worden verbonden, wordt verleend voor een periode van ten hoogste tien jaar, na afloop waarvan verlenging kan worden verkregen.   
 
 ### Artikel  14  
@@ -138,19 +138,19 @@ a. de eerbiediging van de persoonlijke levenssfeer;
 
 b. het belang van de Staat of zijn bondgenoten;  
 
-c. het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden.     
+c. het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden.   Voor zover de beheerder van een archiefbewaarplaats een rijksarchivaris is als bedoeld in artikel 26, tweede lid, wordt het advies, bedoeld in de eerste volzin, gevraagd aan de algemene rijksarchivaris, bedoeld in artikel 25, eerste lid.   
 2.  De zorgdrager ten aanzien van de in de archiefbewaarplaats berustende archiefbescheiden kan, na de in het eerste lid bedoelde overbrenging, niet alsnog beperkingen als bedoeld in het eerste lid stellen, tenzij zich na het tijdstip van overbrenging omstandigheden hebben voorgedaan die, waren zij op dat tijdstip bekend geweest, tot het stellen van beperkingen aan de openbaarheid ingevolge het eerste lid zouden hebben geleid.   
 3.  De zorgdrager ten aanzien van de in de archiefbewaarplaats berustende archiefbescheiden, kan, gehoord degene op wiens last de archiefbescheiden zijn overgebracht, de ingevolge het eerste of het tweede lid aan de openbaarheid gestelde beperkingen opheffen, dan wel ten aanzien van een verzoeker buiten toepassing laten, indien het belang van de gestelde beperking niet opweegt tegen diens belang tot raadpleging of gebruik van de archiefbescheiden.   
-4.  Ingevolge het eerste of het tweede lid aan de openbaarheid gestelde beperkingen hebben geen betrekking op archiefbescheiden die ouder zijn dan vijfenzeventig jaar, tenzij door Onze minister dan wel, indien het archiefbescheiden betreft voor de bewaring waarvan een andere dan een rijksarchiefbewaarplaats is aangewezen, door gedeputeerde staten anders wordt beslist.   
+4.  Ingevolge het eerste of het tweede lid aan de openbaarheid gestelde beperkingen hebben geen betrekking op archiefbescheiden die ouder zijn dan vijfenzeventig jaar, tenzij door Onze minister dan wel, indien het archiefbescheiden betreft voor de bewaring waarvan een andere dan een rijksarchiefbewaarplaats of een provinciale archiefbewaarplaats is aangewezen, door gedeputeerde staten anders wordt beslist.   
 5.  Het derde lid is niet van toepassing op archiefbescheiden aan de openbaarheid waarvan beperkingen zijn gesteld met het oog op het belang van de Staat of zijn bondgenoten.   
 6.  In geval van archiefbescheiden die het belang van de Staat of zijn bondgenoten betreffen vindt het vierde lid slechts toepassing voor zover de ministerraad niet anders beslist.   
 7.  Met betrekking tot de in het vijfde lid bedoelde archiefbescheiden zijn van toepassing de regelingen inzake het recht op informatie die zouden gelden indien de archiefbescheiden niet naar een archiefbewaarplaats waren overgebracht.   
 
 ### Artikel  15a  
 
-1.  Artikel 15, eerste lid, aanhef en onder c, is niet van toepassing voorzover in de archiefbescheiden milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is neergelegd.   
-2.  Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is neergelegd, laat de zorgdrager, in afwijking van artikel 15, derde lid, de ingevolge artikel 15, eerste lid, aanhef en onder c, of tweede lid, aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.   
-3.  In afwijking van artikel 15, eerste lid, onder a, en tweede lid in verbinding met het eerste lid, onder a, worden geen beperkingen aan de openbaarheid gesteld voorzover in de archiefbescheiden neergelegde milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) betrekking heeft op emissies in het milieu.   
+1.  Artikel 15, eerste lid, aanhef en onder c, is niet van toepassing voorzover in de archiefbescheiden milieu-informatie als bedoeld in artikel 19.1a van de Wet milieubeheer is neergelegd.   
+2.  Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie als bedoeld in artikel 19.1a van de Wet milieubeheer is neergelegd, laat de zorgdrager, in afwijking van artikel 15, derde lid, de ingevolge artikel 15, eerste lid, aanhef en onder c, of tweede lid, aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.   
+3.  In afwijking van artikel 15, eerste lid, onder a, en tweede lid in verbinding met het eerste lid, onder a, worden geen beperkingen aan de openbaarheid gesteld voorzover in de archiefbescheiden neergelegde milieu-informatie als bedoeld in artikel 19.1a van de Wet milieubeheer betrekking heeft op emissies in het milieu.   
 4.  Voorzover in de in de archiefbewaarplaats berustende archiefbescheiden milieu-informatie die betrekking heeft op emissies in het milieu is neergelegd, laat de zorgdrager in afwijking van artikel 15, derde lid, ten aanzien van de in de archiefbewaarplaats berustende archiefbescheiden, de ingevolge artikel 15, eerste lid, onder a, of tweede lid in verbinding met het eerste lid, onder a, aan de openbaarheid gestelde beperkingen ten aanzien van een verzoeker buiten toepassing.   
 
 ### Artikel  16  
@@ -170,7 +170,7 @@ c. het anderszins voorkomen van onevenredige bevoordeling of benadeling van betr
 1.  De beheerder van een archiefbewaarplaats is verplicht archiefbescheiden voor een bepaalde tijd uit te lenen aan het overheidsorgaan, waaronder de bescheiden, indien zij niet naar een archiefbewaarplaats waren overgebracht, zouden berusten, tenzij naar zijn oordeel de toestand van de archiefbescheiden zich daartegen verzet.   
 2.  De beheerder van een archiefbewaarplaats is, met inachtneming van de aan de openbaarheid gestelde beperkingen, bevoegd archiefbescheiden voor een bepaalde tijd uit te lenen aan een instelling, mits een deskundig beheer en een veilige bewaring zijn gewaarborgd. Aan een zodanige uitlening kunnen voorwaarden worden verbonden.   
 3.  De beheerder is bevoegd een verzoek tot uitlening als bedoeld in het tweede lid af te wijzen, indien naar zijn oordeel de toestand van de archiefbescheiden zich daartegen verzet of deze aan de verzoeker niet veilig kunnen worden toevertrouwd.   
-4.  Een gehele of gedeeltelijke afwijzing van een schriftelijk verzoek tot raadpleging of gebruik vindt schriftelijk plaats. In geval van een mondeling verzoek vindt een afwijzing schriftelijk plaats, indien de verzoeker daarom vraagt. De verzoeker wordt op deze mogelijkheid gewezen.   
+4.  Een gehele of gedeeltelijke afwijzing van een schriftelijk verzoek tot uitlening als bedoeld in het tweede lid vindt schriftelijk plaats. In geval van een mondeling verzoek vindt een afwijzing schriftelijk plaats, indien de verzoeker daarom vraagt. De verzoeker wordt op deze mogelijkheid gewezen.   
 5.  Indien de aard of de mate van raadpleging of gebruik van de archiefbescheiden bij de in het tweede lid bedoelde uitlening een ernstige bedreiging vormt voor hun toestand, is de beheerder bevoegd te bepalen dat in de plaats van die archiefbescheiden reprodukties worden uitgeleend.   
 6.  De aan de uitlening verbonden kosten kunnen de verzoeker in rekening worden gebracht.   
 
@@ -198,7 +198,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 ### Artikel  23  
 
 1.  De Eerste en de Tweede Kamer der Staten-Generaal, de andere Hoge Colleges van Staat, de directeur van het Kabinet van de Koning en Onze ministers dragen zorg voor hun archiefbescheiden, voor zover deze niet zijn overgebracht naar een rijksarchiefbewaarplaats.   
-2.  Onze commissarissen in de provincie dragen zorg voor de archiefbescheiden die verband houden met de taken, bedoeld in [artikel 182, eerste en tweede lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), voor zover deze archiefbescheiden niet zijn overgebracht naar een rijksarchiefbewaarplaats.   
+2.  Onze commissarissen in de provincie dragen zorg voor de archiefbescheiden die verband houden met de taken, bedoeld in artikel 182, eerste en tweede lid, van de Provinciewet, voor zover deze archiefbescheiden niet zijn overgebracht naar een rijksarchiefbewaarplaats.   
 3.  Onze minister draagt tevens zorg voor de archiefbescheiden, die in de rijksarchiefbewaarplaatsen berusten.   
 4.  Bij algemene maatregel van bestuur worden regels gesteld omtrent de wijze waarop de in het eerste lid bedoelde zorg wordt uitgeoefend.   
 
@@ -222,8 +222,8 @@ b. het verrichten van bij of krachtens algemene maatregel van bestuur of door On
 
 1.  Met het toezicht op de naleving van het bij of krachtens de wet bepaalde ten aanzien van het beheer van de archiefbescheiden, bedoeld in de artikelen 23, eerste en tweede lid, en 41, eerste lid, zijn belast de bij besluit van Onze minister als hoofdinspecteur en inspecteurs aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de *Staatscourant*.   
-3.  De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Indien een toezichthouder met toepassing van [artikel 5:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een ruimte betreedt waarin de in de artikelen 23, eerste of tweede lid, dan wel artikel 41, eerste lid, bedoelde archiefbescheiden worden bewaard, dan wel met toepassing van [artikel 5:18 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.   
+3.  De toezichthouder beschikt niet over de bevoegdheid, genoemd in artikel 5:19 van de Algemene wet bestuursrecht.   
+4.  Indien een toezichthouder met toepassing van artikel 5:15 van de Algemene wet bestuursrecht een ruimte betreedt waarin de in de artikelen 23, eerste of tweede lid, dan wel artikel 41, eerste lid, bedoelde archiefbescheiden worden bewaard, dan wel met toepassing van artikel 5:18 van de Algemene wet bestuursrecht inzage vordert van die archiefbescheiden, neemt hij de voorschriften ten aanzien van de beveiliging van geheimen in acht.   
 
 ### Artikel  25b  
 
@@ -233,7 +233,7 @@ b. het verrichten van bij of krachtens algemene maatregel van bestuur of door On
 ### Artikel  26  
 
 1.  Te 's-Gravenhage is gevestigd de algemene rijksarchiefbewaarplaats, welke is bestemd voor de bewaring van de archiefbescheiden der overheidsorganen, waarvan de functies zich over het gehele rijk uitstrekken of hebben uitgestrekt. De algemene rijksarchivaris is daarvan de beheerder.   
-2.  In de hoofdplaats van elke provincie is gevestigd een rijksarchiefbewaarplaats, welke is bestemd voor de bewaring van de archiefbescheiden van de provinciale organen. Voorts is de rijksarchiefbewaarplaats in de hoofdplaats van een provincie bestemd voor de bewaring van de archiefbescheiden van de in die provincie gevestigde organen van het rijk, van de voormalige provinciale en departementale besturen en van de in artikel 41, eerste lid, bedoelde overheidsorganen, waarvan de functies zich niet over het gehele rijk uitstrekken of hebben uitgestrekt. Een rijksarchivaris, die in het bezit dient te zijn van een diploma archivistiek, is daarvan de beheerder.   
+2.  In de hoofdplaats van elke provincie is gevestigd een rijksarchiefbewaarplaats, welke is bestemd voor de bewaring van de archiefbescheiden van de in die provincie gevestigde organen van het rijk, van de voormalige provinciale en departementale besturen en van de in artikel 41, eerste lid, bedoelde overheidsorganen, waarvan de functies zich niet over het gehele rijk uitstrekken of hebben uitgestrekt. Een rijksarchivaris, die in het bezit dient te zijn van een diploma archivistiek, is daarvan de beheerder.   
 3.  Bij koninklijk besluit kunnen andere rijksarchiefbewaarplaatsen worden aangewezen of gevestigd dan de in het eerste en tweede lid bedoelde.   
 4.  Bij koninklijk besluit kan worden bepaald, dat archiefbescheiden van overheidsorganen, waarvan de functies zich over het gehele rijk uitstrekken of hebben uitgestrekt, worden bewaard in de rijksarchiefbewaarplaats in de hoofdplaats van de provincie, waarin deze overheidsorganen gevestigd zijn of zijn geweest.   
 5.  Bij koninklijk besluit kan worden bepaald, dat archiefbescheiden van overheidsorganen, waarvan de functies zich over meer dan een provincie doch niet over het gehele rijk uitstrekken of hebben uitgestrekt, worden bewaard in de algemene rijksarchiefbewaarplaats.   
@@ -246,18 +246,20 @@ b. het verrichten van bij of krachtens algemene maatregel van bestuur of door On
 
 ### Artikel  27  
 
-1.  Overeenkomstig een door provinciale staten vast te stellen verordening dragen gedeputeerde staten zorg voor de archiefbescheiden van de provinciale organen, voor zover deze archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats.   
+1.  Overeenkomstig een door provinciale staten vast te stellen verordening dragen gedeputeerde staten zorg voor de archiefbescheiden van de provinciale organen.   
 2.  De kosten, verbonden aan de uitoefening van de in het eerste lid bedoelde zorg, komen ten laste van de provincie.   
+3.  Onze minister kan in bijzondere gevallen een subsidie verstrekken voor de kosten van het beheer van de in de provinciale archiefbewaarplaats berustende archiefbescheiden, indien de aard of de omvang van de archiefbescheiden naar zijn oordeel daartoe aanleiding geeft.   
+4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing op de subsidie, bedoeld in het derde lid.   
 
 ### Artikel  28  
 
-1.  Ten aanzien van het beheer van de archiefbescheiden, bedoeld in artikel 27, is, onder de bevelen van gedeputeerde staten, met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de provinciale inspecteur. Met betrekking tot dit toezicht op de naleving stellen provinciale staten een verordening vast.   
-2.  De provinciale inspecteur, die in het bezit dient te zijn van een diploma archivistiek, wordt door gedeputeerde staten benoemd, geschorst en ontslagen.   
+Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eerste lid, over te brengen archiefbescheiden van de provinciale organen wijzen gedeputeerde staten een provinciale archiefbewaarplaats aan.  
 
 ### Artikel  29  
 
-1.  Gedeputeerde staten kunnen Onze minister voorstellen doen omtrent het beheer van de in een rijksarchiefbewaarplaats berustende archiefbescheiden van de provinciale organen.   
-2.  Onze minister wijkt van dat voorstel niet af dan na overleg met gedeputeerde staten.   
+1.  De provinciale archiefbewaarplaats wordt beheerd door een provinciearchivaris, die in het bezit dient te zijn van een diploma archivistiek of, zo geen zodanige archivaris mocht zijn benoemd, door de secretaris.   
+2.  Ten aanzien van het beheer van de archiefbescheiden van de provinciale organen, voor zover deze archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats, is, onder de bevelen van gedeputeerde staten, met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de provinciearchivaris. Met betrekking tot dit toezicht stellen provinciale staten een verordening vast.   
+3.  De provinciearchivaris wordt door gedeputeerde staten benoemd, geschorst en ontslagen.   
 
 ### Hoofdstuk  V  
 
@@ -268,7 +270,7 @@ b. het verrichten van bij of krachtens algemene maatregel van bestuur of door On
 1.  Overeenkomstig een door de gemeenteraad vast te stellen verordening, welke aan gedeputeerde staten wordt medegedeeld, dragen burgemeester en wethouders zorg voor de archiefbescheiden van de gemeentelijke organen.   
 2.  De kosten, verbonden aan de uitoefening van de in het eerste lid bedoelde zorg, komen ten laste van de gemeente.   
 3.  Onze minister kan in bijzondere gevallen een subsidie verstrekken voor de kosten van het beheer van de in de gemeentelijke archiefbewaarplaats berustende archiefbescheiden, indien de aard of de omvang van de archiefbescheiden naar zijn oordeel daartoe aanleiding geeft.   
-4.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de subsidie, bedoeld in het derde lid, van toepassing.   
+4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van de Algemene wet bestuursrecht op de subsidie, bedoeld in het derde lid, van toepassing.   
 
 ### Artikel  31  
 
@@ -280,17 +282,6 @@ Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eers
 2.  Ten aanzien van het beheer van de archiefbescheiden van de gemeentelijke organen, voorzover deze archiefbescheiden niet zijn overgebracht naar een archiefbewaarplaats, is, onder de bevelen van burgemeester en wethouders, met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast de gemeentearchivaris. Met betrekking tot dit toezicht stelt de gemeenteraad een verordening vast, welke aan gedeputeerde staten wordt medegedeeld.   
 3.  De gemeentearchivaris wordt door burgemeester en wethouders benoemd, geschorst en ontslagen.   
 
-### Artikel  33  
-
-1.  Overeenkomstig een door provinciale staten vast te stellen verordening oefenen gedeputeerde staten toezicht uit op de aan burgemeester en wethouders in artikel 30, eerste lid, opgedragen zorg voor de archiefbescheiden. Zij bedienen zich daartoe van de in artikel 28 genoemde provinciale inspecteur.   
-2.  Burgemeester en wethouders onderwerpen de plannen betreffende bouw, verbouwing, inrichting of verandering van inrichting van een archiefbewaarplaats of tot ingebruikneming van gebouwen of gedeelten van gebouwen als archiefbewaarplaats, aan de goedkeuring van gedeputeerde staten. Goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.   
-3.  De kosten, verbonden aan de uitoefening van het in het eerste lid bedoelde toezicht, komen ten laste van de provincie.   
-
-### Artikel  34  
-
-1.  Gedeputeerde staten zijn bevoegd tot oplegging van een last onder bestuursdwang ingeval burgemeester en wethouders niet aan de in artikel 30, eerste lid, genoemde verplichting voldoen.   
-2.  Gedeputeerde staten maken van hun bevoegdheid, genoemd in het eerste lid, geen gebruik dan na overleg met de betrokken overheidsorganen.   
-
 ### Hoofdstuk  VI  
 
 ####Archiefbescheiden van waterschappen
@@ -300,7 +291,7 @@ Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eers
 1.  Overeenkomstig een door het bestuur vast te stellen verordening, welke aan gedeputeerde staten wordt medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van de organen van het waterschap.   
 2.  De kosten, verbonden aan de uitoefening van de in het eerste lid bedoelde zorg, komen ten laste van het waterschap.   
 3.  Onze minister kan in bijzondere gevallen een subsidie verstrekken voor de kosten van het beheer van de in de waterschapsarchiefbewaarplaats berustende archiefbescheiden, indien de aard of de omvang van de archiefbescheiden naar zijn oordeel daartoe aanleiding geeft.   
-4.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [titel 4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op de subsidie, bedoeld in het derde lid, van toepassing.   
+4.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van de Algemene wet bestuursrecht op de subsidie, bedoeld in het derde lid, van toepassing.   
 
 ### Artikel  36  
 
@@ -314,14 +305,7 @@ Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eers
 
 ### Artikel  38  
 
-1.  Overeenkomstig een door provinciale staten vast te stellen verordening oefenen gedeputeerde staten toezicht uit op de aan het dagelijks bestuur in artikel 35, eerste lid, opgedragen zorg voor de archiefbescheiden. Zij bedienen zich daartoe van de in artikel 28 genoemde provinciale inspecteur.   
-2.  Het dagelijks bestuur onderwerpt de plannen betreffende bouw, verbouwing, inrichting of verandering van inrichting van een archiefbewaarplaats of tot ingebruikneming van gebouwen of gedeelten van gebouwen als archiefbewaarplaats, aan de goedkeuring van gedeputeerde staten. Goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.   
-3.  De kosten, verbonden aan de uitoefening van het in het eerste lid bedoelde toezicht, komen ten laste van de provincie.   
-
-### Artikel  39  
-
-1.  Gedeputeerde staten zijn bevoegd tot oplegging van een last onder bestuursdwang in geval het dagelijks bestuur niet aan de in artikel 35, eerste lid, genoemde verplichting voldoet.   
-2.  Gedeputeerde staten maken van hun bevoegdheid, genoemd in het eerste lid, geen gebruik dan na overleg met de betrokken overheidsorganen.   
+Met betrekking tot de uitvoering van deze wet door het dagelijks bestuur zijn de artikelen 124, 124a, 124c tot en met 124h alsmede hoofdstuk XVII van de Gemeentewet van overeenkomstige toepassing.  
 
 ### Hoofdstuk  VII  
 
@@ -329,7 +313,7 @@ Voor de bewaring van de op grond van artikel 12, eerste lid, en artikel 13, eers
 
 ### Artikel  40  
 
-1.  Een regeling als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) (*Stb*. 1989, 571) houdt tevens een voorziening in omtrent de zorg voor de archiefbescheiden van bij die regeling ingestelde openbare lichamen of gemeenschappelijke organen.   
+1.  Een regeling als bedoeld in de Wet gemeenschappelijke regelingen (*Stb*. 1989, 571) houdt tevens een voorziening in omtrent de zorg voor de archiefbescheiden van bij die regeling ingestelde openbare lichamen of gemeenschappelijke organen.   
 2.  Deze voorziening wordt getroffen zoveel mogelijk overeenkomstig de bepalingen van deze wet.   
 3.  Zolang bij een gemeenschappelijke regeling niet is voldaan aan de verplichting tot het treffen van een voorziening als bedoeld in het eerste lid, zijn van overeenkomstige toepassing de bepalingen die terzake gelden voor de gemeente dan wel, indien een provincie aan de regeling deelneemt, voor de provincie, waar het ingestelde lichaam of orgaan is gevestigd.   
 
@@ -380,11 +364,11 @@ Andere dan de in artikel 46 bedoelde inbewaringgevingen blijven in stand tot het
 
 ### Artikel  48  
 
-De ingevolge [artikel 3 van het Archiefbesluit](../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md) (*Stb.* 1968, 200), zoals dit luidde voor de inwerkingtreding van deze wet, vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden blijven gehandhaafd totdat zij zijn vervangen door op grond van artikel 5 van deze wet vastgestelde selectielijsten.  
+De ingevolge artikel 3 van het Archiefbesluit (*Stb.* 1968, 200), zoals dit luidde voor de inwerkingtreding van deze wet, vastgestelde lijsten van voor vernietiging in aanmerking komende archiefbescheiden blijven gehandhaafd totdat zij zijn vervangen door op grond van artikel 5 van deze wet vastgestelde selectielijsten.  
 
 ### Artikel  49  
 
-De machtigingen, verleend op grond van [artikel 20 van het Archiefbesluit](../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), zoals dit luidde voor de inwerkingtreding van deze wet, blijven gelden totdat zij zijn vervangen door een machtiging afgegeven overeenkomstig het in artikel 13, derde lid, van deze wet bepaalde.  
+De machtigingen, verleend op grond van artikel 20 van het Archiefbesluit, zoals dit luidde voor de inwerkingtreding van deze wet, blijven gelden totdat zij zijn vervangen door een machtiging afgegeven overeenkomstig het in artikel 13, derde lid, van deze wet bepaalde.  
 
 ### Artikel  50  
 

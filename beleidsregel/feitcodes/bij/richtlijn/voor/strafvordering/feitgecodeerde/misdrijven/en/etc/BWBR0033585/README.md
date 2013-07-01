@@ -10,7 +10,7 @@ De recidiveregeling luidt als volgt: Van recidive is sprake indien de overtredin
 
 2.  *Ontbrekende of onjuiste gegevens anders dan onder categorie 3*  Bij de tweede categorie ontbreken één of meer van de in [artikel 2, tweede lid, onder a tot en met e Uitvoeringsbesluit ex artikel 437 Sr](../../../../../../../../../../../AMvB/uitvoeringsbesluit/ex/artikel/437/eerste/lid/van/het/wetboek/van/etc/BWBR0005381/README.md) genoemde onderdelen of is anders dan een kennelijke verschrijving onjuist genoteerd. Hier geldt dat naarmate meer fouten of onjuistheden worden geconstateerd, de hoogte van de sanctie oploopt.  
 
-3.  *Ontbrekende gegevens m.b.t. legitimatieplicht*  De derde categorie betreft de overtreding van de legitimatieplicht, krachtens [artikel 2, tweede lid, onder f van het Uitvoeringsbesluit ex artikel 437 Sr](../../../../../../../../../../../AMvB/uitvoeringsbesluit/ex/artikel/437/eerste/lid/van/het/wetboek/van/etc/BWBR0005381/README.md). Hierbij gaat het om het soort legitimatiebewijs en het nummer op het legitimatiebewijs . <sup> 1  In het kader van de actie Koperslag ligt het zwaartepunt bij dit subonderdeel en dit wordt hierdoor zwaarder bestraft.  </sup> In geval van een combinatie van overtredingen, waarbij sprake is van verschillende categorieën, geldt vervolging conform de categorie waar de hoogste straf voor is vastgesteld.  
+3.  *Ontbrekende gegevens m.b.t. legitimatieplicht*  De derde categorie betreft de overtreding van de legitimatieplicht, krachtens [artikel 2, tweede lid, onder f van het Uitvoeringsbesluit ex artikel 437 Sr](../../../../../../../../../../../AMvB/uitvoeringsbesluit/ex/artikel/437/eerste/lid/van/het/wetboek/van/etc/BWBR0005381/README.md). Hierbij gaat het om het soort legitimatiebewijs en het nummer op het legitimatiebewijs<sup> 1 In het kader van de actie Koperslag ligt het zwaartepunt bij dit subonderdeel en dit wordt hierdoor zwaarder bestraft. </sup>. In geval van een combinatie van overtredingen, waarbij sprake is van verschillende categorieën, geldt vervolging conform de categorie waar de hoogste straf voor is vastgesteld.  
 
 4.  *Geen register (bijhouden)*  In de vierde categorie is er geen register of wordt dit in het geheel niet bijgehouden, zoals voorgeschreven in [artikel 437, eerste lid, onder a Sr](../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) j. [art. 2, tweede lid Uitvoeringsbesluit](../../../../../../../../../../../AMvB/uitvoeringsbesluit/ex/artikel/437/eerste/lid/van/het/wetboek/van/etc/BWBR0005381/README.md). Voor deze overtreding is de hoogste straf vastgesteld.    *Categorie 1:*   *Gepleegde overtreding ten aanzien van artikel 2, tweede lid, onder e van het Uitvoeringsbesluit ex artikel 437 Sr, waarbij het gaat om verschrijvingen van NAW-gegevens:*   Categorie-indeling E, categorie 8 – een ieder 
 
@@ -36,7 +36,7 @@ De recidiveregeling luidt als volgt: Van recidive is sprake indien de overtredin
 |  *Tweede overtreding (binnen twee jaar na afdoening eerste overtreding)*   | OM- strafbeschikking  € 750  | OM-strafbeschikking  € 1.500  | Dagvaarden, eis ter zitting  € 2.200  |
 |  *Derde overtreding (binnen vier jaar na afdoening eerste overtreding)*   | Dagvaarden, eis ter zitting  € 1.000  | Dagvaarden, eis ter zitting  € 2.100  | Dagvaarden, eis ter zitting  1 maand hechtenis  |
 
-*Categorie 4:*   *Geen register of een register wordt in zijn geheel niet bijgehouden, overtreding van artikel 437, eerste lid, onder a Sr.*   Categorie-indeling E, categorie 8 – een ieder 
+*Categorie 4:*   *Geen register of een register wordt in zijn geheel niet bijgehouden, overtreding van artikel 437, eerste lid, onder a Sr. *   Categorie-indeling E, categorie 8 – een ieder 
 
 |--- | Geen register  |
 |:---|:---|
@@ -46,4 +46,4 @@ De recidiveregeling luidt als volgt: Van recidive is sprake indien de overtredin
 
 ###Overgangsrecht
 
-Deze feitcodes en boetebedragen hebben gelding voor feiten gepleegd vanaf 1 juli 2013.     
+Deze feitcodes en boetebedragen hebben gelding voor feiten gepleegd vanaf 1 juli 2013.    

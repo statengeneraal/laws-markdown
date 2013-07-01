@@ -13,15 +13,13 @@ De openbare arbeidsbemiddeling tussen werkgevers en werkzoekenden in het openbaa
 
 ### Artikel  3  
 
-1.  Onze Minister voorziet in: 
+1.  Onze Minister voorziet in het toezicht op de juiste naleving van de wettelijke regelingen, betrekking hebbende op de in artikel 2 bedoelde arbeidsbemiddeling.   
+2.  Onze Minister kan voorzien in: 
 
-a. het toezicht op de juiste naleving van de wettelijke regelingen op de in artikel 2 bedoelde arbeidsbemiddeling betrekking hebbende;  
+a. een voorziening voor de openbare arbeidsbemiddeling tussen werkgevers en werkzoekenden in de verschillende openbare lichamen Bonaire, Sint Eustatius en Saba woonachtig, alsmede tussen werkgevers gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba en werkzoekenden in andere delen van het Koninkrijk of het buitenland en omgekeerd;  
 
-b. een voorziening voor de openbare arbeidsbemiddeling tussen werkgevers en werkzoekenden in de verschillende openbare lichamen Bonaire, Sint Eustatius en Saba woonachtig, alsmede tussen werkgevers gevestigd in de openbare lichamen Bonaire, Sint Eustatius en Saba en Eerste Kamer, vergaderjaar 2009–2010, 31 959, A, 435 werkzoekenden in andere delen van het Koninkrijk of het buitenland en omgekeerd;  
-
-c. een voorziening voor het verzamelen en verstrekken van gegevens omtrent de stand der arbeidsmarkt voor zover noodzakelijk in verband met de openbare arbeidsbemiddeling.     
-2.  De bestuurscolleges zijn verplicht aan Onze Minister alle door deze in verband met het vorige lid verlangde inlichtingen kosteloos te verstrekken.   
-3.  [vervallen]   
+b. een voorziening voor het verzamelen en verstrekken van gegevens omtrent de stand der arbeidsmarkt voor zover noodzakelijk in verband met de openbare arbeidsbemiddeling.     
+3.  De bestuurscolleges zijn verplicht aan Onze Minister alle door deze in verband met het eerste en tweede lid verlangde inlichtingen kosteloos te verstrekken.   
 4.  Onder openbare arbeidsbemiddeling in een eilandgebied wordt verstaan: 
 
 a. de arbeidsbemiddeling tussen werkgevers en werkzoekenden binnen het betrokken eilandgebied en het verzamelen van gegevens welke voor deze bemiddeling nodig zijn;  

@@ -108,23 +108,39 @@ c. aan een der misdrijven, omschreven in de artikelen 117, 117a, 117b en 285, vo
 
 4°. aan een der misdrijven omschreven in de artikelen 138ab, 138b, 139c, 139d, 161sexies, 225, 226, 227, 240a, 240b, 326, 326c, 350, 350a en 351, voor zover het feit valt onder de omschrijving van de artikelen 2 tot en met 10 van het op 23 november 2001 te Budapest tot stand gekomen Internationaal Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken (Trb. 2002, 18, en 2004, 290), en een der misdrijven omschreven in de artikelen 137c tot en met 137e, 261, 262, 266, 284 en 285, voor zover het feit valt onder de omschrijving van de artikelen 3 tot en met 6 van het op 28 januari 2003 te Straatsburg totstandgekomen Aanvullend Protocol bij het Verdrag inzake de bestrijding van strafbare feiten verbonden met elektronische netwerken, betreffende de strafbaarstelling van handelingen van racistische of xenofobische aard verricht via computersystemen;  
 
-5°. aan een der misdrijven omschreven in artikel 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat.     
-2.  In de gevallen, omschreven in het eerste lid, onderdelen 2° en 3°, kan de vervolging ook plaatshebben, als de verdachte eerst na het feit Nederlander wordt.   
+5°. aan een der misdrijven omschreven in artikel 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat;  
+
+6°. aan het misdrijf omschreven in artikel 284, eerste lid.     
+2.  In de gevallen, omschreven in het eerste lid, onderdelen 2°, 3°, 5° en 6°, kan de vervolging ook plaatshebben, als de verdachte eerst na het feit Nederlander wordt.   
 
 ### Artikel  5a  
 
-1.  De Nederlandse strafwet is toepasselijk op de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft en zich buiten Nederland schuldig maakt aan een der misdrijven omschreven in de artikelen 240b, 242 tot en met 250 en 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel aan een der misdrijven omschreven in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, een terroristisch misdrijf, dan wel een der misdrijven omschreven in de artikelen 225, derde lid, 311, eerste lid, onder 6°, 312, tweede lid, onder 5°, alsmede 317, derde lid, jo. 312, tweede lid, onder 5°.   
-2.  De Nederlandse strafwet is toepasselijk op de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft en zich buiten Nederland schuldig maakt aan een der misdrijven omschreven in artikel 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 231, 321, 350 en 416 tot en met 417bis, en op het feit door de wet van het land waar het begaan is, straf is gesteld.   
-3.  De Nederlandse strafwet is toepasselijk op de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft en zich buiten Nederland schuldig maakt aan een der misdrijven omschreven in artikel 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat.   
-4.  De vervolging kan ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft gekregen.   
+1.  De Nederlandse strafwet is toepasselijk op de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft en zich buiten Nederland schuldig maakt: 
+
+1°. aan een der misdrijven omschreven in de artikelen 240b, 242 tot en met 250 en 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel aan een der misdrijven omschreven in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt;  
+
+2°. een terroristisch misdrijf, dan wel een der misdrijven omschreven in de artikelen 225, derde lid, 311, eerste lid, onder 6°, 312, tweede lid, onder 5°, alsmede 317, derde lid, jo. 312, tweede lid, onder 5°;  
+
+3°. aan een der misdrijven omschreven in artikel 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 231, 321, 350 en 416 tot en met 417bis, en op het feit door de wet van het land waar het begaan is, straf is gesteld;  
+
+4°. aan een der misdrijven omschreven in artikel 273f, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaar heeft bereikt, en in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd buiten de rechtsmacht van enige staat;  
+
+5°. aan het misdrijf omschreven in artikel 237;  
+
+6°. aan het misdrijf omschreven in artikel 284, eerste lid.     
+2.  In de gevallen, omschreven in het eerste lid, onderdelen 1°, 2°, 3°, 4° en 6°, kan de vervolging ook plaatshebben, indien de verdachte eerst na het begaan van het feit een vaste woon- of verblijfplaats in Nederland heeft gekregen.   
 
 ### Artikel  5b  
 
 De Nederlandse strafwet is toepasselijk op ieder die zich schuldig maakt: 
 
-1°. aan een der misdrijven omschreven in artikel 273f, en in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd tegen een Nederlander;  
+1°. aan een der misdrijven omschreven in artikel 273f en in de artikelen 231, 321, 350 en 416 tot en met 417bis, voor zover het feit valt onder de omschrijvingen van artikel 20 van het op 16 mei 2005 te Warschau totstandgekomen Verdrag inzake bestrijding van mensenhandel, indien het feit is gepleegd tegen een Nederlander;  
 
-2°. aan een der misdrijven omschreven in de artikelen 240b, 242 tot en met 250 en 273f, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft die de leeftijd van achttien jaren nog niet heeft bereikt.    
+2°. aan een der misdrijven omschreven in de artikelen 240b, 242 tot en met 250 en 273f, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft en die de leeftijd van achttien jaren nog niet heeft bereikt;  
+
+3°. aan een der misdrijven omschreven in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft;  
+
+4°. aan het misdrijf omschreven in artikel 284, eerste lid, indien het feit is gepleegd tegen een Nederlander of een vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft.    
 
 ### Artikel  6  
 
@@ -179,8 +195,8 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 ### Artikel  10  
 
 1.  De gevangenisstraf is levenslang of tijdelijk.   
-2.  De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste vijftien achtereenvolgende jaren.   
-3.  Zij kan voor ten hoogste dertig achtereenvolgende jaren worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij artikel 44, de tijd van vijftien jaren wordt overschreden.   
+2.  De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste achttien jaren.   
+3.  Zij kan voor ten hoogste dertig achtereenvolgende jaren worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij artikel 44, de tijd van achttien jaren wordt overschreden.   
 4.  Zij kan in geen geval de tijd van dertig jaren te boven gaan.   
 
 ### Artikel  11  
@@ -858,7 +874,8 @@ De kosten van de verpleging en behandeling van ter beschikking gestelden komen, 
 5.  Een voorwaarde als bedoeld in het eerste en vierde lid kan de rechter slechts stellen, indien de ter beschikking gestelde zich bereid heeft verklaard tot naleving van de voorwaarde.   
 6.  De rechter kan op vordering van de officier van justitie of ambtshalve bevelen dat de terbeschikkingstelling met voorwaarden dadelijk uitvoerbaar is.   
 7.  Een bevel als bedoeld in het zesde lid gaat in op het ogenblik waarop de verdachte ter tenuitvoerlegging van dit bevel wordt aangehouden, dan wel op het tijdstip waarop de tenuitvoerlegging van een ander bevel tot vrijheidsbeneming, in dezelfde zaak gegeven, eindigt.   
-8.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de procedure van terbeschikkingstelling met voorwaarden.   
+8.  Het bevel, bedoeld in het zesde lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.   
+9.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de procedure van terbeschikkingstelling met voorwaarden.   
 
 ### Artikel  38a  
 
@@ -1343,20 +1360,24 @@ Het recht tot strafvordering vervalt door de dood van de verdachte.
 
 3°. in twaalf jaren voor de misdrijven waarop tijdelijke gevangenisstraf van meer dan drie jaren is gesteld;  
 
-4°. in twintig jaren voor de misdrijven waarop gevangenisstraf van meer dan tien jaren is gesteld.     
-2.  In afwijking van het eerste lid verjaart het recht tot strafvordering niet voor misdrijven waarop levenslange gevangenisstraf is gesteld.   
+4°. in twintig jaren voor de misdrijven waarop gevangenisstraf van acht jaren of meer is gesteld.     
+2.  In afwijking van het eerste lid verjaart het recht tot strafvordering niet: 
+
+1°. voor de misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld;  
+
+2°. voor de misdrijven, omschreven in de artikelen 240b, tweede lid, 243, 245 en 246, voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.     
 
 ### Artikel  71  
 
 De termijn van verjaring vangt aan op de dag na die waarop het feit is gepleegd, behoudens in de volgende gevallen: 
 
-1°. bij de misdrijven omschreven in de artikelen 172, eerste lid, 173, eerste lid, 173a en 173b, vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen van een ambtenaar belast met de opsporing van strafbare feiten;  
+1°. bij de misdrijven omschreven in de artikelen 173, eerste lid, en 173b, vangt de termijn aan op de dag na die waarop het misdrijf ter kennis is gekomen van een ambtenaar belast met de opsporing van strafbare feiten;  
 
 2°. bij valsheid op de dag na die waarop gebruik is gemaakt van het voorwerp ten opzichte waarvan de valsheid gepleegd is;  
 
-3°. bij de misdrijven omschreven in de artikelen 240b, 242 tot en met 250 en 273f, dan wel 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht en gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden;  
+3°. bij de misdrijven omschreven in de artikelen 240b, eerste lid, 247 tot en met 250, 273f en 284, voor zover gepleegd tegen een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden;  
 
-4°. bij de misdrijven omschreven in de artikelen 278, 279, 282 en 282a op de dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het misdrijf gepleegd is;  
+4°. bij de misdrijven omschreven in de artikelen 279 en 282, eerste en tweede lid op de dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het misdrijf gepleegd is;  
 
 5°. bij de overtredingen omschreven in de artikelen 465, 466 en 467, op de dag na die waarop ingevolge de voorschriften gegeven in of ter uitvoering van [artikel 18c van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de aldaar bedoelde registers waaruit zodanige overtreding blijkt, naar de centrale bewaarplaats, bedoeld in [afdeling 8 van hoofdstuk 1 van het Besluit burgerlijke stand 1994](../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md) zijn overgebracht.    
 
@@ -1400,16 +1421,6 @@ Is op het strafbare feit naar de wettelijke omschrijving geen andere hoofdstraf 
 3.  Volgt na een bevel als bedoeld in het eerste lid een veroordeling, dan houdt de rechter rekening met de afstand of uitlevering door de veroordeelde van voorwerpen op grond van artikel 74, tweede lid, onder b en c, met de vergoeding van schade op grond van artikel 74, tweede lid, onder e, en met de onbetaalde arbeid die is verricht of het leerproject dat is gevolgd op grond van artikel 74, tweede lid, onder f.   
 4.  Eindigt, na een bevel als bedoeld in het eerste lid, de zaak waarbij een voorwaarde is gesteld als bedoeld in artikel 74, tweede lid, onder f, zonder oplegging van straf of maatregel, dan kan de rechter, op verzoek van de gewezen verdachte, deze een vergoeding ten laste van de staat toekennen voor de schade welke hij ten gevolge van de verrichtte onbetaalde arbeid of het gevolgde leerproject heeft geleden. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 89, derde tot en met zesde lid](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [91](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
 
-### Artikel  74c  
-
-1.  Bij algemene maatregel van bestuur kan aan daartoe aan te wijzen opsporingsambtenaren in bij die algemene maatregel van bestuur aangewezen zaken betreffende overtredingen, begaan door personen die de leeftijd van twaalf jaren hebben bereikt, tot wederopzeggens de bevoegdheid worden verleend die bij artikel 74, eerste lid, aan de officier van justitie is toegekend.   
-2.  De te stellen voorwaarde bestaat in de betaling van een bepaalde geldsom. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de plaats en wijze van betaling en de termijn waarbinnen de betaling moet zijn geschied.   
-3.  Het eerste en het tweede lid zijn van overeenkomstige toepassing op zaken betreffende misdrijven, als bedoeld in artikel 74, eerste lid, van eenvoudige aard, welke zijn begaan door personen die de leeftijd van achttien jaren hebben bereikt, met dien verstande dat de te betalen geldsom ten hoogste € 350 bedraagt.   
-4.  De ambtenaren bekleed met de bevoegdheid, bedoeld in het eerste lid, maken hiervan gebruik volgens richtlijnen, vast te stellen door het College van procureurs-generaal.   
-5.  Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met betrekking tot de aanwijzing van de in het eerste lid bedoelde opsporingsambtenaren, het toezicht op de wijze waarop zij van de hun verleende bevoegdheid gebruik maken en de intrekking van de aanwijzing van een opsporingsambtenaar.   
-6.  Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven inzake de verantwoording van ingevolge het tweede en derde lid betaalde geldbedragen.   
-7.  Bij het stellen van voorwaarden door opsporingsambtenaren zijn de artikelen 74, derde lid, en 74b van overeenkomstige toepassing.   
-
 ### Artikel  75  
 
 Het recht tot uitvoering van de straf of maatregel vervalt door de dood van de veroordeelde, met uitzondering van de maatregel tot ontneming van wederrechtelijk verkregen voordeel.  
@@ -1417,7 +1428,7 @@ Het recht tot uitvoering van de straf of maatregel vervalt door de dood van de v
 ### Artikel  76  
 
 1.  Het recht tot uitvoering van de straf of maatregel vervalt door verjaring.   
-2.  De termijn van deze verjaring is een derde langer dan de termijn van verjaring van het recht tot strafvordering. In geen geval is de termijn korter dan de duur van de opgelegde straf.   
+2.  De termijn van deze verjaring is een derde langer dan de termijn van verjaring van het recht tot strafvordering.   
 
 ### Artikel  76a  
 
@@ -1454,8 +1465,8 @@ Ten aanzien van degene die ten tijde van het begaan van het strafbaar feit de le
 ### Artikel  77d  
 
 1.  De verjaringstermijn van het recht tot strafvordering, genoemd in artikel 70, wordt ten aanzien van misdrijven tot de helft van de daar bedoelde duur ingekort.   
-2.  Het eerste lid is niet van toepassing op misdrijven omschreven in de artikelen 240b, 242 tot en met 250 en 273f, gepleegd door een persoon die ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren heeft bereikt, ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.   
-3.  Het recht tot strafvordering voor misdrijven waarop levenslange gevangenisstraf is gesteld, verjaart in twintig jaren.   
+2.  Het eerste lid is niet van toepassing op misdrijven omschreven in de artikelen 240b, eerste lid, 247 tot en met 250 en 273f, gepleegd door een persoon die ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren heeft bereikt, ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt.   
+3.  Het recht tot strafvordering voor misdrijven waarop gevangenisstraf van twaalf jaren of meer is gesteld, en de misdrijven omschreven in de artikelen 240b, tweede lid, 243, 245 en 246 voor zover het feit is gepleegd ten aanzien van een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, verjaart in twintig jaren.   
 
 ### Artikel  77e  
 
@@ -2458,7 +2469,7 @@ Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categori
 a. een technisch hulpmiddel dat hoofdzakelijk geschikt gemaakt of ontworpen is tot het plegen van een zodanig misdrijf, vervaardigt, verkoopt, verwerft, invoert, verspreidt of anderszins ter beschikking stelt of voorhanden heeft, of  
 
 b. een computerwachtwoord, toegangscode of daarmee vergelijkbaar gegeven waardoor toegang kan worden gekregen tot een geautomatiseerd werk of een deel daarvan, verkoopt, verwerft, verspreidt of anderszins ter beschikking stelt of voorhanden heeft.     
-3.  Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die het in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht op een misdrijf als bedoeld in artikel 138a, tweede of derde lid.   
+3.  Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie wordt gestraft hij die het in het tweede lid bedoelde feit pleegt terwijl zijn oogmerk is gericht op een misdrijf als bedoeld in artikel 138ab, tweede of derde lid.   
 
 ### Artikel  139e  
 
@@ -2728,12 +2739,12 @@ Hij aan wiens schuld te wijten is dat enig werk dienende voor het openbaar verke
 
 ### Artikel  164  
 
-1.  Hij die opzettelijk gevaar veroorzaakt voor het verkeer door mechanische kracht over een spoorweg, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.   
+1.  Hij die opzettelijk gevaar veroorzaakt voor het verkeer door mechanische kracht over een spoorweg of voor het luchtverkeer, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.   
 2.  Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.   
 
 ### Artikel  165  
 
-1.  Hij aan wiens schuld te wijten is dat gevaar ontstaat voor het verkeer door mechanische kracht over een spoorweg, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.   
+1.  Hij aan wiens schuld te wijten is dat gevaar ontstaat voor het verkeer door mechanische kracht over een spoorweg of voor het luchtverkeer, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.   
 2.  Indien het feit iemands dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.   
 
 ### Artikel  166  
@@ -3062,7 +3073,7 @@ Hij die een ander, die zich wederrechtelijk toegang tot of verblijf in Nederland
 
 ### Artikel  197c  
 
-Hij die van het in artikel 197b omschreven feit een beroep of gewoonte maakt wordt gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie.  
+Hij die van het in artikel 197b omschreven feit een beroep of gewoonte maakt wordt gestraft met een gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.  
 
 ### Artikel  197d  
 
@@ -3618,7 +3629,7 @@ Enig in de artikelen 273a tot en met 273d bedoeld persoon die opzettelijk toelaa
 
 ### Artikel  273f  
 
-1.  Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie gestraft: 
+1.  Als schuldig aan mensenhandel wordt met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie gestraft: 
 
 1°. degene die een ander door dwang, geweld of een andere feitelijkheid of door dreiging met geweld of een andere feitelijkheid, door afpersing, fraude, misleiding dan wel door misbruik van uit feitelijke omstandigheden voortvloeiend overwicht, door misbruik van een kwetsbare positie of door het geven of ontvangen van betalingen of voordelen om de instemming van een persoon te verkrijgen die zeggenschap over die ander heeft, werft, vervoert, overbrengt, huisvest of opneemt, met het oogmerk van uitbuiting van die ander of de verwijdering van diens organen;  
 
@@ -3638,13 +3649,13 @@ Enig in de artikelen 273a tot en met 273d bedoeld persoon die opzettelijk toelaa
 
 9°. degene die een ander met een van de onder 1° genoemde middelen dwingt dan wel beweegt hem te bevoordelen uit de opbrengst van diens seksuele handelingen met of voor een derde of van de verwijdering van diens organen.     
 2.  Uitbuiting omvat ten minste uitbuiting van een ander in de prostitutie, andere vormen van seksuele uitbuiting, gedwongen of verplichte arbeid of diensten, slavernij en met slavernij of dienstbaarheid te vergelijken praktijken.   
-3.  De schuldige wordt gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien: 
+3.  De schuldige wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien: 
 
 1°. de feiten, omschreven in het eerste lid, worden gepleegd door twee of meer verenigde personen;  
 
 2°. de persoon ten aanzien van wie de in het eerste lid omschreven feiten worden gepleegd, de leeftijd van zestien jaren nog niet heeft bereikt.     
-4.  Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie opgelegd.   
-5.  Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.   
+4.  Indien een van de in het eerste lid omschreven feiten zwaar lichamelijk letsel ten gevolge heeft of daarvan levensgevaar voor een ander te duchten is, wordt gevangenisstraf van ten hoogste achttien jaren of geldboete van de vijfde categorie opgelegd.   
+5.  Indien een van de in het eerste lid omschreven feiten de dood ten gevolge heeft, wordt levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie opgelegd.   
 6.  Artikel 251 is van overeenkomstige toepassing.   
 
 ### Artikel  274  
@@ -3731,7 +3742,7 @@ b. indien zij tijdens de wegvoering meerderjarig is, hetzij door haarzelf, hetzi
 
 ### Artikel  284  
 
-1.  Met gevangenisstraf van ten hoogste negen maanden of geldboete van de derde categorie wordt gestraft: 
+1.  Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft: 
 
 1°. hij die een ander door geweld of enige andere feitelijkheid of door bedreiging met geweld of enige andere feitelijkheid, gericht hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden;  
 
@@ -4074,7 +4085,7 @@ Hij die, om het handels- of bedrijfsdebiet van zichzelf of van een ander te vest
 ### Artikel  328ter  
 
 1.  Hij die, anders dan als ambtenaar, werkzaam zijnde in dienstbetrekking of optredend als lasthebber, naar aanleiding van hetgeen hij in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift, belofte of dienst aanneemt dan wel vraagt, en dit aannemen of vragen in strijd met de goede trouw verzwijgt tegenover zijn werkgever of lastgever, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.   
-2.  Met gelijke straf wordt gestraft hij die aan iemand die, anders dan als ambtenaar, werkzaam is in dienstbetrekking of optreedt als lasthebber, naar aanleiding van hetgeen deze in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift of belofte doet dan wel een dienst verleent of aanbiedt van die aard of onder zodanige omstandigheden, dat hij redelijkerwijs moet aannemen dat deze de gift of belofte in strijd met de goede trouw zal verzwijgen tegenover zijn werkgever of lastgever.   
+2.  Met gelijke straf wordt gestraft hij die aan iemand die, anders dan als ambtenaar, werkzaam is in dienstbetrekking of optreedt als lasthebber, naar aanleiding van hetgeen deze in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift of belofte doet dan wel een dienst verleent of aanbiedt van die aard of onder zodanige omstandigheden, dat hij redelijkerwijs moet aannemen dat deze de gift, belofte of dienst in strijd met de goede trouw zal verzwijgen tegenover zijn werkgever of lastgever.   
 
 ### Artikel  328quater  
 
@@ -4769,7 +4780,9 @@ Met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categori
 
 4°. hij die wederrechtelijk in oppervlaktewateren enige stof aanbrengt waardoor nadeel kan ontstaan in verband met het gebruik dat gewoonlijk van die wateren wordt gemaakt;  
 
-5°. hij die een vlieger oplaat of in de lucht heeft aan een lijn die zich geheel of ten dele bevindt binnen een afstand van vijfhonderd meter van een bovengrondse elektrische hoogspanningsleiding.    
+5°. hij die een vlieger oplaat of in de lucht heeft aan een lijn die zich geheel of ten dele bevindt binnen een afstand van vijfhonderd meter van een bovengrondse elektrische hoogspanningsleiding;  
+
+6°. hij die zich zodanig gedraagt dat gevaar voor het luchtverkeer wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer in de lucht wordt gehinderd of kan worden gehinderd.    
 
 ### Titel  II  
 
@@ -4854,7 +4867,7 @@ a. niet met inachtneming van de bij algemene maatregel van bestuur te stellen re
 
 b. een gebruikt of ongeregeld goed verwerft van iemand, zonder dat diegene zijn identiteitsgegevens heeft opgegeven of zonder dat hij die gegevens in zijn administratie heeft aangetekend,  
 
-c. nalaat zijn administratie op eerste aanvraag ter inzage te geven aan een daartoe door de burgemeester aangewezen ambtenaar.  
+c. nalaat zijn administratie op eerste aanvraag ter inzage te geven aan een ambtenaar als bedoeld in [artikel 552 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md),  
 
 d. nalaat een gebruikt of ongeregeld goed dat hij heeft verworven of voorhanden heeft, op eerste vordering van een ambtenaar als bedoeld in onderdeel *c*, ter bezichtiging af te staan en deze te laten zien waar dit goed in zijn administratie staat ingeschreven,  
 

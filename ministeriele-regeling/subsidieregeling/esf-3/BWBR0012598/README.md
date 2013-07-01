@@ -19,7 +19,7 @@ In deze regeling wordt verstaan onder:   a. de minister:  de minister van Social
 ####Inleidende bepaling
 
 1.  De minister verstrekt, overeenkomstig de regels van dit besluit, subsidie aan de nader krachtens dit besluit aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het programma Europees Sociaal Fonds Doelstelling 3.   
-2.  De [Algemene Regeling SZW-subsidies](../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is niet van toepassing op de subsidieverlening krachtens dit besluit.   
+2.  De Algemene Regeling SZW-subsidies is niet van toepassing op de subsidieverlening krachtens dit besluit.   
 
 ### Artikel  3  
 
@@ -115,11 +115,11 @@ b. kosten die meer dan zes maanden voor de datum van ontvangst van de aanvraag v
 
 c. de kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;  
 
-d. de loonkosten van werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) de [Wet inschakeling werkzoekenden](../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) of het [Besluit in- of doorstroombanen](../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md);  
+d. de loonkosten van werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de Wet werk en bijstand de Wet inschakeling werkzoekenden of het Besluit in- of doorstroombanen;  
 
 e. kosten van adviseurs, uitvoerders en onderuitvoerders die zijn bepaald als percentage van de totale kosten van het project, of als percentage van de te ontvangen projectsubsidie;  
 
-f. in het kader van een project als bedoeld in artikel 3, eerste lid, onderdeel c, de loonkosten van een persoon die in het kader van de [Wet sociale werkvoorziening](../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) een dienstverband met de gemeente dan wel met een reguliere werkgever heeft.     
+f. in het kader van een project als bedoeld in artikel 3, eerste lid, onderdeel c, de loonkosten van een persoon die in het kader van de Wet sociale werkvoorziening een dienstverband met de gemeente dan wel met een reguliere werkgever heeft.     
 3.  Indien een project wordt uitgevoerd ten behoeve van wel en niet tot de doelgroepen behorende deelnemers, dan worden de kosten naar verhouding, en op grond van een controleerbare berekening, toegerekend aan de onderscheiden deelnemers.   
 
 ### Artikel  10  
@@ -144,7 +144,7 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 4.  De administratie dient aldus te zijn opgezet dat deze voldoende waarborgen biedt voor correcte en adequate tussentijdse rapportages.   
 5.  De administratie dient voldoende mogelijkheden te bieden voor een goede accountantscontrole op de juiste naleving van de subsidievoorwaarden.   
 6.  Bij de vastlegging van de gegevens worden in ieder geval de eisen in acht genomen die in bijlage 1 bij dit besluit terzake worden gesteld.   
-7.  De begunstigde draagt zorg dat alle administratieve bescheiden welke betrekking hebben op het gesubsidieerde project bewaard blijven tot het jaar 2014.   
+7.  De begunstigde draagt er zorg voor dat alle administratieve bescheiden, welke betrekking hebben op het gesubsidieerde project, bewaard blijven tot 1 april 2016. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor deze bewaartermijn in de Staatscourant bekend.   
 8.  De begunstigde zal aan door de minister dan wel door de Europese Commissie daartoe aangewezen personen desgevraagd inzage in of informatie uit deze administratie geven of doen geven. Tevens zal hij de voornoemde personen desgevraagd informatie verschaffen over de voortgang van het voor subsidie in aanmerking gebrachte project.   
 
 ### Artikel  12  
@@ -161,7 +161,7 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 
 1.  De begunstigde dient binnen drie maanden na beëindiging van het project, doch uiterlijk 31 maart 2008, een verzoek in om vaststelling van het subsidiebedrag waarop aanspraak bestaat.   
 2.  Het verzoek wordt ingediend onder gebruikmaking van een formulier dat door de minister ter beschikking wordt gesteld, en bevat een eindrapportage en een declaratie van de gemaakte kosten, als bedoeld in artikel 9.   
-3.  De einddeclaratie is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), overeenkomstig het als bijlage 2 bij dit besluit opgenomen model.   
+3.  De einddeclaratie is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek, overeenkomstig het als bijlage 2 bij dit besluit opgenomen model.   
 4.  De hoogte van het vastgestelde subsidiebedrag wordt uiterlijk drie maanden na de datum van indiening van het in het eerste lid bedoelde verzoek door de minister schriftelijk medegedeeld aan de begunstigde.   
 
 ### Artikel  14  
@@ -196,7 +196,7 @@ Aanvragen tot bekostiging van projecten met ESF-middelen, ingediend vanuit enig 
 
 1.  Deze regeling wordt in de Nederlandse Staatscourant bekendgemaakt.   
 2.  Deze regeling treedt in werking met ingang van de dag na die van haar bekendmaking.   
-3.  Deze regeling kan worden aangehaald als: [Subsidieregeling ESF-3](../../../../ministeriele-regeling/subsidieregeling/esf-3/BWBR0012598/README.md)   
+3.  Deze regeling kan worden aangehaald als: Subsidieregeling ESF-3   
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
@@ -272,17 +272,17 @@ b. Inzetbaarheid beroepsbevolking: (bedoeld in artikel 3, eerste lid, onderdeel 
 
 * opleidingsniveau vóór toepassing maatregel 
 
-– conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+– conform indeling Wet educatie en beroepsonderwijs;  
 
-– conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);    
+– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;    
 
 * opleidingsniveau na toepassing maatregel 
 
 – al dan niet afronding opleiding;  
 
-– conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+– conform indeling Wet educatie en beroepsonderwijs;  
 
-– conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 – al dan niet EVC;    
 
@@ -350,17 +350,17 @@ c. scholing van werkenden: (bedoeld in artikel 3, eerste lid, onderdeel c, van d
 
 * opleidingsniveau vóór toepassing maatregel 
 
-– conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+– conform indeling Wet educatie en beroepsonderwijs;  
 
-– conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);    
+– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;    
 
 * opleidingsniveau na toepassing maatregel 
 
 – al dan niet afronding opleiding;  
 
-– conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+– conform indeling Wet educatie en beroepsonderwijs;  
 
-– conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 – al dan niet EVC;    
 
@@ -428,7 +428,7 @@ g. Praktijkonderwijs en voortgezet speciaal onderwijs: (bedoeld in artikel 3, ee
 
 * opleidingsniveau vóór en na toepassing van de maatregel 
 
-– BBL en VSV: aantal behaalde deelkwalificatie(s), conform [Wet educatie beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+– BBL en VSV: aantal behaalde deelkwalificatie(s), conform Wet educatie beroepsonderwijs;  
 
 – praktijkonderwijs en voortgezet speciaal onderwijs: aantal plaatsingen op de arbeidsmarkt.       
 

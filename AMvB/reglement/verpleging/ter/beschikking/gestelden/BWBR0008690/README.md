@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Onze Minister van Justitie, van 21 november 1996, nr. 591920/96/6;
 
-Gelet op [artikel 89 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) en de [artikelen 37 *c*, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [38 *a*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en voorts de [artikelen 5, tweede lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [6, tweede lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [8, derde lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [10, vijfde lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [15, eerste en tweede lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [16, tweede lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [18, vierde lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [19, tweede lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [26, derde lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [40, vierde lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [45](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [51, tweede en vierde lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [70, derde lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), en [75 van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);
+Gelet op artikel 89 van de Grondwet en de artikelen 37 *c*, eerste lid, 38, eerste lid, en 38 *a*, tweede lid, van het Wetboek van Strafrecht en voorts de artikelen 5, tweede lid, 6, tweede lid, 8, derde lid, 10, vijfde lid, 15, eerste en tweede lid, 16, tweede lid, 18, vierde lid, 19, tweede lid, 26, derde lid, 40, vierde lid, 45, 51, tweede en vierde lid, 70, derde lid, en 75 van de Beginselenwet verpleging ter beschikking gestelden;
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 11 oktober 1996, nr. RA 88/96;
 
@@ -22,9 +22,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. de wet: de [Beginselenwet verpleging ter beschikking gestelden](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+a. de wet: de Beginselenwet verpleging ter beschikking gestelden;  
 
-b. de reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](../../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md).    
+b. de reclassering: een reclasseringsinstelling als bedoeld in artikel 1, onder b, van de Reclasseringsregeling 1995.    
 
 ### HOOFDSTUK  2  
 
@@ -32,7 +32,7 @@ b. de reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder
 
 ### Artikel  2  
 
-1.  Een aanvraag tot aanwijzing als particuliere inrichting voor verpleging van ter beschikking gestelden, bedoeld in [artikel 37 *d*, eerste lid, onder *a*, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), wordt bij Onze Minister ingediend.   
+1.  Een aanvraag tot aanwijzing als particuliere inrichting voor verpleging van ter beschikking gestelden, bedoeld in artikel 37 *d*, eerste lid, onder *a*, van het Wetboek van Strafrecht, wordt bij Onze Minister ingediend.   
 2.  De aanvraag bevat de volgende bescheiden: 
 
 a. de statuten of reglementen van de rechtspersoon die het psychiatrisch ziekenhuis beheert;  
@@ -70,7 +70,7 @@ b. indien de beveiliging dan wel de personele of materiële toerusting van de in
 
 ### Artikel  5  
 
-1.  Omtrent iedere ter beschikking gestelde of anderszins verpleegde worden door het hoofd van de inrichting voor verpleging van ter beschikking gestelden aantekeningen gehouden omtrent diens lichamelijke en geestelijke gesteldheid, bedoeld in [artikel 509 *o*, tweede lid, onder 2°, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+1.  Omtrent iedere ter beschikking gestelde of anderszins verpleegde worden door het hoofd van de inrichting voor verpleging van ter beschikking gestelden aantekeningen gehouden omtrent diens lichamelijke en geestelijke gesteldheid, bedoeld in artikel 509 *o*, tweede lid, onder 2°, van het Wetboek van Strafvordering.   
 2.  De aantekeningen bevatten in elk geval: 
 
 a. zo volledig mogelijke gegevens betreffende de afkomst en het verleden;  
@@ -84,7 +84,7 @@ d. gegevens omtrent belangrijke voorvallen gedurende de verpleging.
 
 ### Artikel  6  
 
-1.  Het hoofd van de inrichting houdt in een register aantekening van de beslissingen tot beperking van het recht op onaantastbaarheid van het lichaam van de verpleegde, genoemd in de [artikelen 24 tot en met 28](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) en [30](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), alsmede de beslissingen tot afzondering of separatie, genoemd in [artikel 34](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), en van elke strafoplegging, genoemd in [artikel 49 van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).   
+1.  Het hoofd van de inrichting houdt in een register aantekening van de beslissingen tot beperking van het recht op onaantastbaarheid van het lichaam van de verpleegde, genoemd in de artikelen 16b, onder b, 16c, eerste en vijfde lid, 24 tot en met 28 en 30, alsmede de beslissingen tot afzondering of separatie, genoemd in artikel 34, en van elke strafoplegging, genoemd in artikel 49 van de wet.   
 2.  De aantekening bevat in elk geval: 
 
 a. de personalia van de verpleegde;  
@@ -142,7 +142,7 @@ c. personen, werkzaam bij een door Onze Minister gesubsidieerde instelling die w
 
 d. personen, werkzaam onder de verantwoordelijkheid van Onze Minister, indien hun onafhankelijkheid of onpartijdigheid hetzij door hun positie, hetzij door de aard van hun werkzaamheden in het geding zou kunnen komen;  
 
-e. personen tegen wie bezwaren bestaan tegen de vervulling van de functie die blijken uit de algemene documentatieregisters als bedoeld in het [Besluit justitiële gegevens](../../../../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) of de politiegegevens, bedoeld in [artikel 1, onderdeel a, van de Wet politiegegevens](../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md). De bezwaren dienen betrekking te hebben op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegheden.    
+e. personen tegen wie bezwaren bestaan tegen de vervulling van de functie die blijken uit de algemene documentatieregisters als bedoeld in het Besluit justitiële gegevens of de politiegegevens, bedoeld in artikel 1, onderdeel a, van de Wet politiegegevens. De bezwaren dienen betrekking te hebben op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegheden.    
 
 ### Artikel  11  
 
@@ -173,18 +173,18 @@ d. wanneer hij naar het oordeel van Onze Minister door handelen of nalaten ernst
 
 ### Artikel  14  
 
-1.  De maandcommissaris, bedoeld in [artikel 10, vierde lid, tweede volzin, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), houdt ten minste tweemaal per maand in de inrichting spreekuur. Dit spreekuur wordt tijdig bekend gemaakt en kan worden bezocht door elke verpleegde die de wens daartoe te kennen geeft.   
+1.  De maandcommissaris, bedoeld in artikel 10, vierde lid, tweede volzin, van de wet, houdt ten minste tweemaal per maand in de inrichting spreekuur. Dit spreekuur wordt tijdig bekend gemaakt en kan worden bezocht door elke verpleegde die de wens daartoe te kennen geeft.   
 2.  De maandcommissaris doet van zijn werkzaamheden verslag aan de commissie van toezicht.   
 
 ### Artikel  15  
 
-1.  De beklagcommissie, of, indien [artikel 59, derde lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) wordt toegepast, de voorzitter dan wel de door hem aangewezen persoon, houdt zitting zo dikwijls als een onverwijlde behandeling en afdoening van de klaagschriften dit noodzakelijk maken. Deze wordt bijgestaan door een secretaris.   
+1.  De beklagcommissie, of, indien artikel 59, derde lid, van de wet wordt toegepast, de voorzitter dan wel de door hem aangewezen persoon, houdt zitting zo dikwijls als een onverwijlde behandeling en afdoening van de klaagschriften dit noodzakelijk maken. Deze wordt bijgestaan door een secretaris.   
 2.  Indien de beklagcommissie zitting houdt treedt bij voorkeur als voorzitter op een met rechtspraak belast lid van de rechterlijke macht.   
 
 ### Artikel  16  
 
 1.  De commissie van toezicht brengt jaarlijks vóór 1 maart aan Onze Minister en aan de sectie terbeschikkingstelling en, voor zover het een justitiële particuliere inrichting betreft, tevens aan het bestuur, verslag uit over haar werkzaamheden in het voorgaande jaar.   
-2.  Zij schenkt in haar verslag in het bijzonder aandacht zowel aan de door haar ingevolge [artikel 55 van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) verrichte bemiddeling en de uitkomsten daarvan als aan de werkzaamheden van de beklagcommissie, onder meer door een overzicht van de klaagschriften en de daarop genomen beslissingen. Onze Minister kan een model vaststellen omtrent de inrichting van het verslag.   
+2.  Zij schenkt in haar verslag in het bijzonder aandacht zowel aan de door haar ingevolge artikel 55 van de wet verrichte bemiddeling en de uitkomsten daarvan als aan de werkzaamheden van de beklagcommissie, onder meer door een overzicht van de klaagschriften en de daarop genomen beslissingen. Onze Minister kan een model vaststellen omtrent de inrichting van het verslag.   
 
 ### Artikel  17  
 
@@ -198,7 +198,7 @@ d. wanneer hij naar het oordeel van Onze Minister door handelen of nalaten ernst
 
 ### Artikel  18  
 
-Van een uitspraak waarbij door de rechter ten aanzien van een ter beschikking gestelde met toepassing van [artikel 37 *b*](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [38 *c* van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) een bevel tot verpleging van overheidswege is gegeven, doet het openbaar ministerie zo spoedig mogelijk mededeling aan Onze Minister, onder bijvoeging van het dossier van de zaak.  
+Van een uitspraak waarbij door de rechter ten aanzien van een ter beschikking gestelde met toepassing van artikel 37 *b* of 38 *c* van het Wetboek van Strafrecht een bevel tot verpleging van overheidswege is gegeven, doet het openbaar ministerie zo spoedig mogelijk mededeling aan Onze Minister, onder bijvoeging van het dossier van de zaak.  
 
 ### Artikel  19  
 
@@ -206,19 +206,19 @@ De beslissing van Onze Minister omtrent de plaatsing in een inrichting voor verp
 
 ### Artikel  20  
 
-1.  Met inachtneming van [artikel 11, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) kan, indien de omstandigheden zulks wenselijk maken, Onze Minister ambtshalve of op schriftelijk verzoek van het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarin de ter beschikking gestelde verblijft, beslissen dat de ter beschikking gestelde naar een andere inrichting zal worden overgeplaatst.   
+1.  Met inachtneming van artikel 11, tweede lid, van de wet kan, indien de omstandigheden zulks wenselijk maken, Onze Minister ambtshalve of op schriftelijk verzoek van het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarin de ter beschikking gestelde verblijft, beslissen dat de ter beschikking gestelde naar een andere inrichting zal worden overgeplaatst.   
 2.  Het hoofd van de inrichting voor verpleging van ter beschikking gestelden stelt in dit geval een eindverslag op van de verpleging in diens inrichting. Hij voegt dit toe aan het verpleegdedossier.   
 
 ### Artikel  21  
 
-1.  De beslissing van Onze Minister tot overplaatsing, bedoeld in artikel 20, wordt zo spoedig mogelijk medegedeeld aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarin de ter beschikking gestelde verblijft en aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarheen de ter beschikking gestelde zal worden overgeplaatst. De beslissing van Onze Minister, bedoeld in [artikel 13](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) en [14, eerste lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) wordt zo spoedig mogelijk medegedeeld aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarin de ter beschikking gestelde verblijft en aan de inrichting tot klinische observatie bestemd onderscheidenlijk aan het psychiatrisch ziekenhuis waarheen de ter beschikking gestelde zal worden overgeplaatst. De voorgaande beslissingen worden tevens gemeld aan het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de terbeschikkingstelling is gelast, het openbaar ministerie van het arrondissement waarin de verpleging geschiedt, en het openbaar ministerie van het arrondissement waarin de verpleging zal worden voortgezet.   
-2.  Ingeval het hoofd van de inrichting voor verpleging van ter beschikking gestelden met toepassing van [artikel 14, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) voorlopig beslist tot overplaatsing naar een psychiatrisch ziekenhuis deelt hij dit onverwijld mede aan Onze Minister. Indien Onze Minister de beslissing bekrachtigt is het eerste lid van dit artikel van overeenkomstige toepassing.   
+1.  De beslissing van Onze Minister tot overplaatsing, bedoeld in artikel 20, wordt zo spoedig mogelijk medegedeeld aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarin de ter beschikking gestelde verblijft en aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarheen de ter beschikking gestelde zal worden overgeplaatst. De beslissing van Onze Minister, bedoeld in artikel 13 en 14, eerste lid, van de wet wordt zo spoedig mogelijk medegedeeld aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarin de ter beschikking gestelde verblijft en aan de inrichting tot klinische observatie bestemd onderscheidenlijk aan het psychiatrisch ziekenhuis waarheen de ter beschikking gestelde zal worden overgeplaatst. De voorgaande beslissingen worden tevens gemeld aan het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de terbeschikkingstelling is gelast, het openbaar ministerie van het arrondissement waarin de verpleging geschiedt, en het openbaar ministerie van het arrondissement waarin de verpleging zal worden voortgezet.   
+2.  Ingeval het hoofd van de inrichting voor verpleging van ter beschikking gestelden met toepassing van artikel 14, tweede lid, van de wet voorlopig beslist tot overplaatsing naar een psychiatrisch ziekenhuis deelt hij dit onverwijld mede aan Onze Minister. Indien Onze Minister de beslissing bekrachtigt is het eerste lid van dit artikel van overeenkomstige toepassing.   
 
 ### Artikel  22  
 
 1.  Overbrenging van een ter beschikking gestelde met het oog op de aanvang van de tenuitvoerlegging van het bevel tot verpleging van overheidswege geschiedt op last van het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de terbeschikkingstelling is gelast.   
-2.  Overbrenging van een ter beschikking gestelde of anderszins verpleegde naar een psychiatrisch ziekenhuis met machtiging van de rechter geschiedt op last van het openbaar ministerie bij het gerecht dat de machtiging op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) heeft verleend.   
-3.  Indien [artikel 14, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) is toegepast, indien het hoofd van de inrichting voor verpleging van ter beschikking gestelden het proefverlof heeft beëindigd of in geval van ongeoorloofde afwezigheid, geschiedt de overbrenging krachtens beslissing van het hoofd van de inrichting voor verpleging van ter beschikking gestelden. Deze kan ter uitvoering van zijn beslissing de hulp inroepen van het openbaar ministerie van het arrondissement waarin de ter beschikking gestelde of anderszins verpleegde verblijft.   
+2.  Overbrenging van een ter beschikking gestelde of anderszins verpleegde naar een psychiatrisch ziekenhuis met machtiging van de rechter geschiedt op last van het openbaar ministerie bij het gerecht dat de machtiging op grond van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen heeft verleend.   
+3.  Indien artikel 14, tweede lid, van de wet is toegepast, indien het hoofd van de inrichting voor verpleging van ter beschikking gestelden het proefverlof heeft beëindigd of in geval van ongeoorloofde afwezigheid, geschiedt de overbrenging krachtens beslissing van het hoofd van de inrichting voor verpleging van ter beschikking gestelden. Deze kan ter uitvoering van zijn beslissing de hulp inroepen van het openbaar ministerie van het arrondissement waarin de ter beschikking gestelde of anderszins verpleegde verblijft.   
 4.  In de andere gevallen geschiedt de overbrenging bij beslissing van Onze Minister.   
 5.  Onze Minister kan omtrent overbrenging, bedoeld in dit artikel, nadere regels stellen.   
 
@@ -229,7 +229,7 @@ De beslissing van Onze Minister omtrent de plaatsing in een inrichting voor verp
 ### Artikel  23  
 
 1.  Ongeoorloofde afwezigheid vangt aan op de dag dat de ter beschikking gestelde of anderszins verpleegde zich aan de tenuitvoerlegging van de vrijheidsbenemende straf of maatregel heeft onttrokken.   
-2.  Ongeoorloofde afwezigheid eindigt op de dag dat de ter beschikking gestelde of anderszins verpleegde zich meldt, hij wordt aangehouden, of door intrekking van het verzoek om signalering. Deze dag wordt niet meegerekend in de duur van de ongeoorloofde afwezigheid, bedoeld in [artikel 38 *f*, eerste lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  Ongeoorloofde afwezigheid eindigt op de dag dat de ter beschikking gestelde of anderszins verpleegde zich meldt, hij wordt aangehouden, of door intrekking van het verzoek om signalering. Deze dag wordt niet meegerekend in de duur van de ongeoorloofde afwezigheid, bedoeld in artikel 38 *f*, eerste lid, van het Wetboek van Strafrecht.   
 3.  Het hoofd van de inrichting voor verpleging van ter beschikking gestelden verzoekt de politie de ongeoorloofd afwezig ter beschikking gestelde of anderszins verpleegde te signaleren. Onze Minister kan aanwijzingen geven ten aanzien van dit verzoek alsmede de intrekking daarvan.   
 4.  Van het verzoek om signalering en van de intrekking van een verzoek om signalering wordt aantekening gehouden in een daartoe bestemd register dat volgens een door Onze Minister vastgesteld model is ingericht.   
 5.  Onze Minister wordt onverwijld in kennis gesteld van elk verzoek om signalering of een intrekking van een verzoek om signalering.   
@@ -244,19 +244,28 @@ Het hoofd van de inrichting meldt onverwijld andere bijzondere voorvallen aan On
 
 ### Artikel  25  
 
-In het verplegings- en behandelingsplan worden ten minste opgenomen: 
+1.  In het verplegings- en behandelingsplan worden ten minste opgenomen: 
 
 a. de diagnose van de stoornis van de verpleegde;  
 
 b. de therapeutische middelen die zullen worden toegepast, zo mogelijk gerelateerd aan de verschillende aspecten die in de stoornis te onderscheiden zijn;  
 
-c. de vrijheden die de verpleegde zijn toegekend boven de hem bij of krachtens de wet toekomende rechten, alsmede de voorwaarden die daaraan verbonden zijn en de consequenties van het niet opvolgen van die voorwaarden.    
+c. of er overeenstemming over het verplegings- en behandelingsplan is;  
+
+d. de vrijheden die de verpleegde zijn toegekend boven de hem bij of krachtens de wet toekomende rechten, alsmede de voorwaarden die daaraan verbonden zijn en de consequenties van het niet opvolgen van die voorwaarden.     
+2.  In geval van een behandeling overeenkomstig artikel 16b, onder a of b, van de wet wordt in het verplegings- en behandelingsplan eveneens opgenomen: 
+
+a. welke minder bezwarende middelen zijn aangewend om het gevaar dat de stoornis van de geestvermogens de verpleegde doet veroorzaken weg te nemen dan wel af te wenden; en  
+
+b. de wijze waarop rekening wordt gehouden met de voorkeuren van de verpleegde ten aanzien van de behandeling.     
+3.  Het deel van het verplegings- en behandelingsplan waarover geen overeenstemming kan worden bereikt met de verpleegde dan wel diens curator of mentor, wordt slechts vastgesteld door een psychiater nadat een multidisciplinair overleg heeft plaatsgehad waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige hebben deelgenomen.   
+4.  Ingeval van een behandeling overeenkomstig artikel 16b, onder a, van de wet worden de verklaringen van de psychiaters, bedoeld in artikel 16c, tweede lid, van de wet, bij het in het derde lid bedoelde overleg betrokken.   
 
 ### Artikel  26  
 
 1.  Het verplegings- en behandelingsplan bestrijkt ten minste een periode van één jaar.   
 2.  Gedurende de verpleging kan het verplegings- en behandelingsplan worden gewijzigd. Bij een wijziging wordt het evaluatieverslag betrokken.   
-3.  Een wijziging in het verplegings- en behandelingsplan wordt, zoveel mogelijk in overleg met de verpleegde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.   
+3.  Een wijziging in het verplegings- en behandelingsplan wordt, in overleg met de verpleegde, vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.   
 
 ### Artikel  27  
 
@@ -281,7 +290,7 @@ g. de mening van de verpleegde.
 ### Artikel  28  
 
 1.  Indien de verpleegde gedurende de verslagperiode heeft verbleven in een andere inrichting voor verpleging van ter beschikking gestelden of in een psychiatrisch ziekenhuis, dan wel in een huis van bewaring, verschaft het hoofd van die inrichting, de geneesheer-directeur van dat ziekenhuis onderscheidenlijk de directeur van dat huis van bewaring, de nodige gegevens aan hem die met de vaststelling van het verslag is belast.   
-2.  Dezelfde verplichting geldt voor de instelling, bedoeld in [artikel 51, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), die gedurende de verslagperiode belast is geweest met het verlenen van hulp en steun aan de verpleegde in het kader van proefverlof.   
+2.  Dezelfde verplichting geldt voor de instelling, bedoeld in artikel 51, tweede lid, van de wet, die gedurende de verslagperiode belast is geweest met het verlenen van hulp en steun aan de verpleegde in het kader van proefverlof.   
 
 ### HOOFDSTUK  9  
 
@@ -301,24 +310,26 @@ d. gegevens omtrent het verblijf.
 
 ### Artikel  30  
 
-Naast de in [artikel 19, eerste lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) genoemde gegevens, worden in het verpleegdedossier opgenomen: 
+Naast de in artikel 19, eerste lid, van de wet genoemde gegevens, worden in het verpleegdedossier opgenomen: 
 
-a. een afschrift van de mededelingen, bedoeld in [artikel 54 van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+a. een afschrift van de mededelingen, bedoeld in artikel 54 van de wet;  
 
-b. de uitspraken van de beklagcommissie en de beroepscommissie alsmede de verslagen bedoeld in [artikel 55, zesde lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+b. de uitspraken van de beklagcommissie en de beroepscommissie alsmede de verslagen bedoeld in artikel 55, zesde lid, van de wet;  
 
 c. de ontvangen afschriften van rechterlijke beslissingen betreffende de terbeschikkingstelling;  
 
-d. machtigingen van Onze Minister, bedoeld in de [artikelen 50, eerste lid](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), en [51, eerste lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+d. machtigingen van Onze Minister, bedoeld in de artikelen 50, eerste lid, en 51, eerste lid, van de wet;  
 
-e. gegevens met betrekking tot de toepassing van [artikel 26 van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+e. gegevens met betrekking tot de toepassing van artikel 26 van de wet;  
 
-f. overige gegevens omtrent de gezondheid van de verpleegde en te diens aanzien uitgevoerde verrichtingen, een en ander voor zover de opname van deze gegevens voor een goede verpleging en behandeling aan hem noodzakelijk is.    
+f. gegevens met betrekking tot de toepassing van artikel 16b, onder a of b, van de wet;  
+
+g. overige gegevens omtrent de gezondheid van de verpleegde en te diens aanzien uitgevoerde verrichtingen, een en ander voor zover de opname van deze gegevens voor een goede verpleging en behandeling aan hem noodzakelijk is.    
 
 ### Artikel  31  
 
 1.  Gedurende het verblijf van een verpleegde in een inrichting wordt het verpleegdedossier in een afsluitbare ruimte in de inrichting bewaard.   
-2.  Het hoofd van de inrichting zendt het verpleegdedossier gelijktijdig met de overplaatsing van de verpleegde, bedoeld in [artikel 11, derde lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), aan het hoofd van de inrichting waar de verpleegde verder zal worden verpleegd. Bij overplaatsing van en naar een particuliere inrichting, niet zijnde een justitiële particuliere inrichting, wordt het verpleegdedossier onderscheidenlijk het dossier, bedoeld in het [Besluit patiëntendossier Bopz](../../../../../../../AMvB/besluit/patiëntendossier/bopz/BWBR0006224/README.md), gelijktijdig met de formele overplaatsing meegezonden.   
+2.  Het hoofd van de inrichting zendt het verpleegdedossier gelijktijdig met de overplaatsing van de verpleegde, bedoeld in artikel 11, derde lid, van de wet, aan het hoofd van de inrichting waar de verpleegde verder zal worden verpleegd. Bij overplaatsing van en naar een particuliere inrichting, niet zijnde een justitiële particuliere inrichting, wordt het verpleegdedossier onderscheidenlijk het dossier, bedoeld in het Besluit patiëntendossier Bopz, gelijktijdig met de formele overplaatsing meegezonden.   
 
 ### Artikel  32  
 
@@ -326,29 +337,88 @@ f. overige gegevens omtrent de gezondheid van de verpleegde en te diens aanzien 
 2.  Na de in het eerste lid genoemde termijn worden de bescheiden, opgenomen in het verpleegdedossier, vernietigd, ofwel zodanig bewerkt dat deze niet meer tot de verpleegde kunnen worden herleid, tenzij dit in strijd is met een aanmerkelijk belang van een ander dan de verpleegde.   
 3.  Indien de verpleegde vóór de afloop van de in het eerste lid bedoelde termijn opnieuw ter beschikking wordt gesteld met bevel tot verpleging van overheidswege vervalt de bewaartermijn en vangt deze aan op het tijdstip dat de nieuwe terbeschikkingstelling eindigt.   
 
-### HOOFDSTUK  10  
+### Hoofdstuk  10  
 
-####GEDWONGEN GENEESKUNDIGE HANDELINGEN
+####(Onvrijwillige) geneeskundige behandeling
 
 ### Artikel  33  
 
-1.  Voordat het hoofd van de inrichting beslist dat een door de arts noodzakelijk geachte geneeskundige handeling onder dwang zal worden toegepast, pleegt het hoofd van de inrichting overleg met die arts en met het hoofd van de afdeling waar de verpleegde verblijft. Indien de handeling door een andere arts wordt verricht, wordt bovendien met hem overlegd.   
-2.  Indien de toepassing van een geneeskundige handeling onder dwang noodzakelijk is ter afwending van ernstig gevaar dat voortvloeit uit de stoornis van de geestvermogens van de verpleegde, pleegt het hoofd van de inrichting bovendien overleg met de voor de behandeling verantwoordelijke psychiater.   
-3.  In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het ernstige gevaar voor de gezondheid of de veiligheid van de verpleegde of van anderen niet op een andere wijze kan worden afgewend. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de verpleegde minst ingrijpende handeling.   
-4.  In de situatie, bedoeld in [artikel 26, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), pleegt het afdelingshoofd het in het eerste respectievelijk tweede lid bedoelde overleg. Het overleg van het hoofd van de inrichting met de in het eerste respectievelijk tweede lid bedoelde personen vindt zo spoedig mogelijk na de geneeskundige handeling plaats.   
-5.  De verantwoordelijke arts draagt zorg dat de melding van de toepassing van [artikel 26 van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) wordt opgenomen in het register als bedoeld in artikel 6 en in het verpleegdedossier en dat de resultaten van het overleg alsmede de afspraken die daarbij zijn gemaakt worden opgenomen in het verplegings- en behandelingsplan.   
+In dit hoofdstuk wordt verstaan onder: 
+
+a. *a-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in artikel 16b, onder a, van de wet;  
+
+b. *b-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in artikel 16b, onder b, van de wet;  
+
+c. *gedwongen geneeskundige handeling:* de gedwongen geneeskundige handeling, bedoeld in artikel 26 van de wet;  
+
+d. *geneeskundige behandeling:* de onvrijwillige geneeskundige behandelingen, bedoeld in de onderdelen a tot en met c, en de vrijwillige geneeskundige behandeling, bedoeld in artikel 16a van de wet;  
+
+e. *inspecteur:* de inspecteur, bedoeld in artikel 1, onder c, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen;  
+
+f. *voortzetting van a-dwangbehandeling:* de voortzetting van a-dwangbehandeling, bedoeld in artikel 16c, vijfde lid, van de wet.    
+
+### Artikel  33a  
+
+1.  Een geneeskundige behandeling wordt verricht in een daartoe geschikte ruimte, onder verantwoordelijkheid van de behandelend arts.   
+2.  Er is ten behoeve van de geneeskundige behandeling vierentwintig uur per dag, zeven dagen per week, voldoende psychiatrisch geschoold verpleegkundig personeel aanwezig. Bovendien is vierentwintig uur per dag, zeven dagen per week, een psychiater beschikbaar.   
+3.  Een geneeskundige behandeling wordt slechts uitgevoerd door een arts of verpleegkundige die over voldoende deskundigheid beschikt deze behandeling uit te voeren en indien daartoe voldoende voorzieningen beschikbaar zijn.   
+4.  Eens per twee weken, of vaker indien het belang van de verpleegde dit eist, vindt een multidisciplinair overleg plaats, waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige deelnemen.   
 
 ### Artikel  34  
 
-1.  De gedwongen geneeskundige handeling wordt toegepast in een daartoe geschikte ruimte, onder verantwoordelijkheid van de arts.   
-2.  Van de toepassing van een gedwongen geneeskundige handeling wordt onverwijld melding gedaan aan Onze Minister en de commissie van toezicht. Indien de geneeskundige handeling wordt toegepast ter afwending van ernstig gevaar dat voortvloeit uit de stoornis van de geestvermogens van de verpleegde wordt tevens onverwijld melding gedaan aan de bevoegde regionale inspecteur voor de gezondheidszorg.   
-3.  De verpleegde wordt gedurende de periode die volgt op de gedwongen geneeskundige handeling zo vaak als nodig is bezocht door een arts of in diens opdracht door een verpleegkundige. Het verslag van zijn bevindingen wordt opgenomen in het verpleegdedossier.   
+1.  Voordat het hoofd van de inrichting beslist dat een door de arts noodzakelijk geachte b-dwangbehandeling of gedwongen geneeskundige handeling zal worden verricht, pleegt het hoofd van de inrichting overleg met die arts en met het hoofd van de afdeling waar de verpleegde verblijft. Indien de behandeling door een andere arts wordt verricht, wordt tevens met hem overlegd.   
+2.  Ingeval van b-dwangbehandeling of indien het verrichten van een gedwongen geneeskundige handeling noodzakelijk is ter afwending van gevaar dat voortvloeit uit de stoornis van de geestvermogens van de verpleegde, pleegt het hoofd van de inrichting bovendien overleg met de voor de behandeling verantwoordelijke psychiater.   
+3.  In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het gevaar niet op een andere wijze kan worden afgewend.   
+4.  In de situatie bedoeld in artikel 26, tweede lid, van de wet, pleegt het afdelingshoofd het in het eerste respectievelijk tweede lid bedoelde overleg. Het overleg van het hoofd van de inrichting met de in het eerste en tweede lid bedoelde personen vindt vervolgens zo spoedig mogelijk na de aanvang van de geneeskundige behandeling plaats.   
+
+### Artikel  34a  
+
+1.  Zo spoedig mogelijk na de aanvang van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van een arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de verpleegde dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het verplegings- en behandelingsplan.   
+2.  Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de verpleegde minst ingrijpende handeling.   
+
+### Artikel  34b  
+
+1.  Voordat het hoofd van de inrichting de beslissing tot voortzetting van a-dwangbehandeling neemt, pleegt hij overleg met in ieder geval de voor de behandeling verantwoordelijke psychiater en met het hoofd van de afdeling waar de verpleegde verblijft.   
+2.  In het in het eerste lid bedoelde overleg wordt nagegaan of van de voortzetting van de behandeling alsnog het beoogde effect kan worden verwacht.   
+3.  De uitkomsten van het multidisciplinaire overleg, bedoeld in artikel 33a, vierde lid, worden bij de beslissing meegenomen.   
+
+### Artikel  34c  
+
+De verpleegde wordt gedurende de periode dat de a- of b-dwangbehandeling of de gedwongen geneeskundige handeling wordt verricht, zo vaak als nodig is bezocht door een arts of in diens opdracht een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het verpleegdedossier.  
+
+### Artikel  34d  
+
+1.  Het hoofd van de inrichting stelt de voorzitter van de commissie van toezicht, de raadsman van de verpleegde, de curator en de mentor in kennis van het voornemen tot een beslissing tot a-dwangbehandeling uiterlijk drie dagen voor het nemen van die beslissing. Zij worden in de gelegenheid gesteld bezwaren tegen de beslissing kenbaar te maken.   
+2.  De voorzitter van de commissie van toezicht doet onverwijld een melding aan de maandcommissaris. De maandcommissaris bezoekt na de melding onverwijld de verpleegde.   
+3.  Van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voortzetting van a-dwangbehandeling wordt uiterlijk bij de aanvang van de behandeling melding gedaan aan Onze Minister en de commissie van toezicht. Ingeval van een a-dwangbehandeling, b-dwangbehandeling of ingeval een gedwongen geneeskundige handeling wordt toegepast in verband met een gevaar dat voortvloeit uit een stoornis van de geestvermogens van de verpleegde, wordt bovendien melding gedaan aan de inspecteur.   
+4.  Bij de aanvang van een a-dwangbehandeling geeft het hoofd van de inrichting daarvan eveneens kennis aan de in het eerste lid genoemde personen.   
+5.  Het hoofd van de inrichting zendt met de melding, bedoeld in het derde lid, een afschrift van de beslissing tot de behandeling mee waarin hij in ieder geval vermeldt: 
+
+a. in verband met welk gevaar is besloten tot een a-dwangbehandeling, b-dwangbehandeling of een gedwongen geneeskundige handeling;  
+
+b. welke minder bezwarende middelen zijn aangewend om het gevaar weg te nemen dan wel af te wenden;  
+
+c. welke personen, bedoeld in artikel 16a, onder c, van de wet, zich tegen de behandeling verzetten;  
+
+d. de wijze waarop rekening wordt gehouden met de voorkeuren van de verpleegde ten aanzien van de behandeling; en  
+
+e. indien een behandeling plaatsvindt in een situatie waarin het de verpleegde is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in de hoofdstukken XIV–XV respectievelijk XVI van de wet.     
+6.  Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling of een beslissing tot voortzetting van a-dwangbehandeling, vermeldt het hoofd tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in artikel 16a, onder b, van de wet te komen. In geval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.   
+7.  Van een beëindiging van een a-dwangbehandeling, b-dwangbehandeling, of gedwongen geneeskundige handeling geeft het hoofd van de inrichting kennis aan de personen, genoemd in het derde en – indien van toepassing – vierde lid.   
+
+### Artikel  34e  
+
+De verantwoordelijke arts draagt zorg dat de melding van de toepassing van een a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling of voorzetting van a-dwangbehandeling wordt opgenomen in het register als bedoeld in artikel 6 en in het verpleegdedossier. Hij draagt tevens zorg dat de resultaten van het overleg, bedoeld in artikel 33a, vierde lid, artikel 34, en artikel 34b, alsmede de adviezen die daarbij zijn gegeven en de afspraken die zijn gemaakt worden opgenomen in het verplegings- en behandelingsplan.  
+
+### Artikel  34f  
+
+1.  De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling doch in ieder geval na afloop van de termijn, bedoeld in artikel 16c, vierde lid, van de wet, een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.   
+2.  De inspecteur stelt eveneens een onderzoek in na beëindiging van elke gedwongen geneeskundige handeling, indien die handeling is verricht ter afwending van een gevaar dat voortvloeit uit de stoornis van de geestvermogens van de verpleegde.   
 
 ### Artikel  35  
 
-1.  Zo spoedig mogelijk na de toepassing van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van een arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de verpleegde dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het verplegings- en behandelingsplan.   
-2.  Indien de toepassing van een gedwongen geneeskundige handeling als bedoeld in artikel 33, tweede lid, de duur van twee weken te boven gaat wordt door het hoofd van de inrichting een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een arts of een psychiater en een psycholoog.   
-3.  De in het tweede lid bedoelde commissie brengt binnen twee dagen na de in het tweede lid bedoelde termijn en, indien de gedwongen geneeskundige handeling langer wordt voortgezet, om de twee weken, advies uit aan het hoofd van de inrichting over de voortzetting van de gedwongen geneeskundige handeling.   
+1.  Indien de toepassing van de behandeling, bedoeld in artikel 34, tweede lid, de duur van twee weken te boven gaat, wordt door het hoofd van de inrichting een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.   
+2.  De in het eerste lid bedoelde commissie brengt binnen twee dagen na de in het eerste lid bedoelde termijn en, indien de onvrijwillige behandeling langer wordt voortgezet, om de twee weken, advies uit aan het hoofd van de inrichting over de voortzetting van die behandeling.   
 
 ### HOOFDSTUK  10a  
 
@@ -356,9 +426,9 @@ f. overige gegevens omtrent de gezondheid van de verpleegde en te diens aanzien 
 
 ### Artikel  35a  
 
-1.  Telefoongesprekken die in verband met het toezicht, bedoeld in [artikel 38, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) worden opgenomen, worden bewaard voor een periode van ten hoogste acht maanden.   
+1.  Telefoongesprekken die in verband met het toezicht, bedoeld in artikel 38, tweede lid, van de wet worden opgenomen, worden bewaard voor een periode van ten hoogste acht maanden.   
 2.  Na het verstrijken van de periode, genoemd in het eerste lid, wordt een opgenomen telefoongesprek gewist.   
-3.  Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in [artikel 36, eerste lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) is opgenomen, wordt dit opgenomen gesprek terstond gewist.   
+3.  Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in artikel 36, eerste lid, van de wet is opgenomen, wordt dit opgenomen gesprek terstond gewist.   
 4.  De verpleegde wordt van het opnemen van het telefoonverkeer op de hoogte gesteld.   
 5.  Opgenomen telefoongesprekken worden slechts verstrekt aan derden die ingevolge de uitvoering van hen bij of krachtens de wet opgedragen taken, tot kennisneming daarvan bevoegd zijn.   
 6.  De verstrekking, bedoeld in het vijfde lid, kan slechts geschieden in verband met: 
@@ -381,7 +451,7 @@ Aan een inrichting zijn geestelijke verzorgers van verschillende godsdiensten of
 
 ### Artikel  37  
 
-1.  Bij het Ministerie van Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistisch geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.   
+1.  Bij het Ministerie van Veiligheid en Justitie zijn een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistisch geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.   
 2.  De hoofden, genoemd in het eerste lid, zijn in ieder geval belast met het doen van voordrachten voor aanstelling van geestelijke verzorgers bij de rijksinrichtingen behorende tot hun gezindte of levensovertuiging.   
 
 ### Artikel  38  
@@ -407,7 +477,7 @@ a. het geld dat de verpleegde bij binnenkomst in de inrichting in zijn bezit hee
 
 b. het geld dat tijdens zijn verblijf in de inrichting te zijnen gunste wordt ontvangen;  
 
-c. de vergoeding voor het verrichten van werkzaamheden en het arbeidsloon, bedoeld in [artikel 46, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).     
+c. de vergoeding voor het verrichten van werkzaamheden en het arbeidsloon, bedoeld in artikel 46, tweede lid, van de wet.     
 2.  Het beheer van het eigen geld van de verpleegde berust bij het hoofd van de inrichting, tenzij in het verplegings- en behandelingsplan anders is bepaald.   
 3.  Wanneer de verpleegde geen beheer over zijn eigen geld heeft, heeft hij de beschikking over een rekening-courant bij de inrichting.   
 
@@ -421,18 +491,18 @@ De ter beschikking gestelde of anderzins verpleegde die geen inkomen heeft, ontv
 
 ### Artikel  42  
 
-1.  De verpleegdenraad, bedoeld in [artikel 70, eerste lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), bestaat uit ten minste drie en ten hoogste zeven leden.   
+1.  De verpleegdenraad, bedoeld in artikel 70, eerste lid, van de wet, bestaat uit ten minste drie en ten hoogste zeven leden.   
 2.  De leden worden gekozen bij meerderheid van stemmen.   
 3.  Het lidmaatschap van de verpleegdenraad eindigt na verloop van een termijn van twee jaar of zoveel eerder als de verpleging van het betreffende lid in de inrichting eindigt, aan hem proefverlof is verleend, dan wel zodra deze schriftelijk voor het lidmaatschap heeft bedankt.   
 
 ### Artikel  43  
 
-Het hoofd van de inrichting biedt de verpleegdenraad ten minste eenmaal per maand de gelegenheid tot het voeren van het overleg, bedoeld in [artikel 70, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), tenzij bijzondere omstandigheden zich hiertegen verzetten.  
+Het hoofd van de inrichting biedt de verpleegdenraad ten minste eenmaal per maand de gelegenheid tot het voeren van het overleg, bedoeld in artikel 70, tweede lid, van de wet, tenzij bijzondere omstandigheden zich hiertegen verzetten.  
 
 ### Artikel  44  
 
 1.  Het hoofd van de inrichting verschaft de verpleegdenraad de informatie, de tijd en de materiële middelen die voor zijn functioneren nodig zijn en biedt de verpleegdenraad eenmaal per maand gedurende twee uren de gelegenheid zich intern te beraden en daartoe te vergaderen.   
-2.  De leden van de verpleegdenraad hebben het recht aan het overleg, bedoeld in [artikel 70, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), alsmede aan het in het eerste lid genoemde intern beraad deel te nemen.   
+2.  De leden van de verpleegdenraad hebben het recht aan het overleg, bedoeld in artikel 70, tweede lid, van de wet, alsmede aan het in het eerste lid genoemde intern beraad deel te nemen.   
 3.  Het intern beraad, bedoeld in het eerste lid, vindt zonder toezicht plaats.   
 4.  Het hoofd van de inrichting kan op grond van de handhaving van de orde of veiligheid in de inrichting van het bepaalde in het tweede en derde lid afwijken.   
 
@@ -446,13 +516,13 @@ Geschillen tussen de verpleegdenraad en het hoofd van de inrichting kunnen door 
 
 ### Artikel  46  
 
-1.  Indien drie maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling met bevel tot verpleging van overheidswege zal zijn verstreken, de verpleging nog niet is beëindigd, maakt het hoofd van de inrichting voor verpleging van ter beschikking gestelden binnen een maand te rekenen vanaf voornoemd tijdstip een advies, bedoeld in [artikel 509 *o*, tweede lid, onder 1°, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), op en zendt dit aan Onze Minister. Het advies betreft: 
+1.  Indien drie maanden voor het tijdstip waarop de termijn van de terbeschikkingstelling met bevel tot verpleging van overheidswege zal zijn verstreken, de verpleging nog niet is beëindigd, maakt het hoofd van de inrichting voor verpleging van ter beschikking gestelden binnen een maand te rekenen vanaf voornoemd tijdstip een advies, bedoeld in artikel 509 *o*, tweede lid, onder 1°, van het Wetboek van Strafvordering, op en zendt dit aan Onze Minister. Het advies betreft: 
 
 a. de wenselijkheid van de verlenging van de terbeschikkingstelling;  
 
 b. de termijn, waarover naar zijn mening, de verlenging zich zou moeten uitstrekken.     
 2.  Indien de uit de stoornis van de geestvermogens voortvloeiende gevaarlijkheid van de ter beschikking gestelde voor de veiligheid van anderen dan de ter beschikking gestelde of de algemene veiligheid van personen of goederen dusdanig is teruggebracht dat het verantwoord is de verpleging onder voorwaarden te beëindigen, doet het hoofd van de inrichting voor verpleging van ter beschikking gestelden bij het advies, bedoeld in het eerste lid, een daartoe strekkend schriftelijk voorstel.   
-3.  Bij het advies wordt een afschrift van de aantekeningen, bedoeld in [artikel 509 *o*, tweede lid, onder 2°, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), overgelegd alsmede, indien het hoofd van de inrichting voor verpleging van ter beschikking gestelden niet zelf psychiater is, het advies van een aan de inrichting verbonden psychiater.   
+3.  Bij het advies wordt een afschrift van de aantekeningen, bedoeld in artikel 509 *o*, tweede lid, onder 2°, van het Wetboek van Strafvordering, overgelegd alsmede, indien het hoofd van de inrichting voor verpleging van ter beschikking gestelden niet zelf psychiater is, het advies van een aan de inrichting verbonden psychiater.   
 4.  Indien in het geval, bedoeld in het eerste lid, de ter beschikking gestelde op grond van proefverlof buiten de inrichting voor verpleging van ter beschikking gestelden verblijft en in zijn proefverlof door de reclassering wordt begeleid, voegt het hoofd van de inrichting voor verpleging van ter beschikking gestelden bij zijn advies de beschouwingen van de reclassering inzake de wenselijkheid van verlenging van de terbeschikkingstelling of de voorwaardelijke beëindiging van de verpleging.   
 5.  Onze Minister zendt het advies met de bijlagen aan het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de terbeschikkingstelling is gelast.   
 
@@ -468,8 +538,8 @@ Indien de verlenging van de terbeschikkingstelling er toe zou kunnen leiden dat 
 ### Artikel  49  
 
 1.  Indien het openbaar ministerie naar aanleiding van het voorlopig advies, bedoeld in artikel 47, voornemens is een vordering tot verlenging van de terbeschikkingstelling in te dienen waardoor de totale duur van de terbeschikkingstelling een periode van zes jaar of een veelvoud van zes jaar te boven gaat, doet het daarvan zo spoedig mogelijk mededeling aan Onze Minister.   
-2.  Na ontvangst van de mededeling, bedoeld in het eerste lid, draagt Onze Minister zorg voor het tijdig totstandkomen van een advies of rapport van deskundigen als bedoeld in [artikel 509 *o*, vierde lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en voor tijdige toezending daarvan aan het openbaar ministerie, bedoeld in artikel 46, vijfde lid.   
-3.  Onze Minister kan nadere regels stellen omtrent het onderzoek dat ten grondslag ligt aan het advies of rapport, bedoeld in [artikel 509 *o*, vierde lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+2.  Na ontvangst van de mededeling, bedoeld in het eerste lid, draagt Onze Minister zorg voor het tijdig totstandkomen van een advies of rapport van deskundigen als bedoeld in artikel 509 *o*, vierde lid, van het Wetboek van Strafvordering en voor tijdige toezending daarvan aan het openbaar ministerie, bedoeld in artikel 46, vijfde lid.   
+3.  Onze Minister kan nadere regels stellen omtrent het onderzoek dat ten grondslag ligt aan het advies of rapport, bedoeld in artikel 509 *o*, vierde lid, van het Wetboek van Strafvordering.   
 
 ### Artikel  50  
 
@@ -481,9 +551,9 @@ Indien het openbaar ministerie daarom verzoekt, wordt terstond een nieuw advies 
 
 a. van zijn beslissing geen vordering tot verlenging van de terbeschikkingstelling in te dienen;  
 
-b. van zijn vordering tot voorwaardelijke beëindiging van de verpleging van overheidswege overeenkomstig [artikel 38 *g*, eerste lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. van zijn vordering tot voorwaardelijke beëindiging van de verpleging van overheidswege overeenkomstig artikel 38g, eerste lid, van het Wetboek van Strafrecht;  
 
-c. indien een vordering tot verlenging van de terbeschikkingstelling is ingediend of een vordering als bedoeld onder *b* is ingediend, van de beslissing van de rechtbank op deze vordering en, indien deze niet onherroepelijk is geworden, van het instellen van beroep bij de bijzondere kamer van het gerechtshof te Arnhem, van een voorlopige beëindiging van de verpleging van overheidswege als bedoeld in [artikel 509 *w*, derde lid, van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en van de beslissing op het beroep.     
+c. indien een vordering tot verlenging van de terbeschikkingstelling is ingediend of een vordering als bedoeld onder *b* is ingediend, van de beslissing van de rechtbank op deze vordering en, indien deze niet onherroepelijk is geworden, van het instellen van beroep bij de bijzondere kamer van het gerechtshof Arnhem-Leeuwarden, van een voorlopige beëindiging van de verpleging van overheidswege als bedoeld in artikel 509w, derde lid, van het Wetboek van Strafvordering, en van de beslissing op het beroep.     
 2.  Het hoofd van de inrichting voor verpleging van ter beschikking gestelden waarin de betrokkene wordt verpleegd en de reclassering die de betrokkene tijdens proefverlof hulp en steun verleent, worden door Onze Minister op de hoogte gesteld van een beslissing van de rechter als bedoeld in het eerste lid, tenzij andere wettelijke bepalingen reeds op andere wijze in die kennisgeving voorzien.   
 
 ### HOOFDSTUK  15  
@@ -507,7 +577,7 @@ c. indien hij bij het bijwonen van de procedure een aanmerkelijk belang heeft en
 
 ### Artikel  53  
 
-1.  Verlof als bedoeld in [artikel 50, eerste lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), wordt in de navolgende vormen onderscheiden: 
+1.  Verlof als bedoeld in artikel 50, eerste lid, van de wet, wordt in de navolgende vormen onderscheiden: 
 
 a. begeleid verlof;  
 
@@ -530,7 +600,7 @@ d. incidenteel verlof.
 
 ### Artikel  54  
 
-1.  De machtiging tot het verlenen van proefverlof van Onze Minister, bedoeld in [artikel 51, eerste lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), wordt schriftelijk door het hoofd van de inrichting voor verpleging van ter beschikking gestelden aangevraagd.   
+1.  De machtiging tot het verlenen van proefverlof van Onze Minister, bedoeld in artikel 51, eerste lid, van de wet, wordt schriftelijk door het hoofd van de inrichting voor verpleging van ter beschikking gestelden aangevraagd.   
 2.  Bij dit verzoek wordt overgelegd een proefverlofplan, opgesteld in samenwerking met de reclassering, zo mogelijk die in het arrondissement waarin de ter beschikking gestelde tijdens dit proefverlof zal zijn gehuisvest.   
 3.  Onze Minister beslist zo spoedig mogelijk op dit verzoek. Deze beslissing wordt schriftelijk medegedeeld aan het hoofd van de inrichting voor verpleging van ter beschikking gestelden. De machtiging van Onze Minister wordt verleend voor de duur van een jaar.   
 4.  Onze Minister brengt een machtiging als bedoeld in het eerste lid schriftelijk ter kennis van het openbaar ministerie bij de rechtbank die in eerste aanleg kennis heeft genomen van het misdrijf ter zake waarvan de terbeschikkingstelling is gelast, het openbaar ministerie in het arrondissement waarin de ter beschikking gestelde zich op grond van het proefverlofplan zal vestigen en van de reclassering die aan de ter beschikking gestelde hulp en steun zal verlenen.   
@@ -542,7 +612,7 @@ Er is een proef forensisch psychiatrisch toezicht in de fase van proefverlof. De
 
 ### Artikel  55  
 
-Bij aanvang van het proefverlof ontvangt de ter beschikking gestelde van het hoofd van de inrichting voor verpleging van ter beschikking gestelden een schriftelijke verklaring waarin de voorwaarden zijn vermeld die aan het proefverlof zijn verbonden, benevens de gronden waarop het hoofd van de inrichting voor verpleging van ter beschikking gestelden overeenkomstig [artikel 50, derde lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), het proefverlof kan intrekken.  
+Bij aanvang van het proefverlof ontvangt de ter beschikking gestelde van het hoofd van de inrichting voor verpleging van ter beschikking gestelden een schriftelijke verklaring waarin de voorwaarden zijn vermeld die aan het proefverlof zijn verbonden, benevens de gronden waarop het hoofd van de inrichting voor verpleging van ter beschikking gestelden overeenkomstig artikel 50, derde lid, van de wet, het proefverlof kan intrekken.  
 
 ### Artikel  56  
 
@@ -562,7 +632,7 @@ De ter beschikking gestelde of anderzins verpleegde ontvangt zo nodig vergoeding
 
 ### Artikel  58  
 
-Bijzondere voorwaarden, bedoeld in [artikel 51, tweede lid, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), strekkende tot het verkrijgen van hulp en steun worden door het hoofd van de inrichting voor verpleging van ter beschikking gestelden ter kennis gebracht van de reclassering die de ter beschikking gestelde hulp en steun verleent. Hetzelfde geldt met betrekking tot beslissingen die strekken tot wijziging, aanvulling of opheffing van de voorwaarden waarop de verlening van hulp en steun betrekking heeft.  
+Bijzondere voorwaarden, bedoeld in artikel 51, tweede lid, van de wet, strekkende tot het verkrijgen van hulp en steun worden door het hoofd van de inrichting voor verpleging van ter beschikking gestelden ter kennis gebracht van de reclassering die de ter beschikking gestelde hulp en steun verleent. Hetzelfde geldt met betrekking tot beslissingen die strekken tot wijziging, aanvulling of opheffing van de voorwaarden waarop de verlening van hulp en steun betrekking heeft.  
 
 ### Artikel  59  
 
@@ -587,7 +657,7 @@ Bijzondere voorwaarden, bedoeld in [artikel 51, tweede lid, van de wet](../../..
 
 ### Artikel  62  
 
-Van de uitspraak waarbij de rechter aan de reclassering opdracht geeft de ter beschikking gestelde bij de naleving van de voorwaarden hulp en steun te verlenen, bedoeld in [artikel 38, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [38 *g*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), doet het openbaar ministerie zo spoedig mogelijk mededeling aan Onze Minister en aan de reclassering in het arrondissement waar de voorwaarden ten uitvoer worden gelegd.  
+Van de uitspraak waarbij de rechter aan de reclassering opdracht geeft de ter beschikking gestelde bij de naleving van de voorwaarden hulp en steun te verlenen, bedoeld in artikel 38, eerste lid, of 38 *g*, tweede lid, van het Wetboek van Strafrecht, doet het openbaar ministerie zo spoedig mogelijk mededeling aan Onze Minister en aan de reclassering in het arrondissement waar de voorwaarden ten uitvoer worden gelegd.  
 
 ### Artikel  63  
 
@@ -602,9 +672,9 @@ Het algemeen toezicht op ter beschikking gestelden die niet van overheidswege wo
 
 1.  Onze Minister ontvangt ten behoeve van het toezicht, bedoeld in artikel 63, zo spoedig mogelijk mededeling van elke op een niet van overheidswege verpleegde ter beschikking gestelde betrekking hebbende: 
 
-a. onherroepelijk geworden uitspraak waarbij terbeschikkingstelling met voorwaarden is gelast, als bedoeld in [artikel 38, eerste lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+a. onherroepelijk geworden uitspraak waarbij terbeschikkingstelling met voorwaarden is gelast, als bedoeld in artikel 38, eerste lid, van het Wetboek van Strafrecht;  
 
-b. rechterlijke beslissing inzake een vordering op grond van [artikel 38b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38c](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [38i](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [38k van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. rechterlijke beslissing inzake een vordering op grond van artikel 38b, 38c, 38i of 38k van het Wetboek van Strafrecht;  
 
 c. beslissing tot vrijheidsontneming door het bevoegd gezag;  
 
@@ -618,7 +688,7 @@ d. onherroepelijk geworden uitspraak van een burgerlijk of militair gerecht waar
 
 ### Artikel  67  
 
-1.  Met het toezicht op de naleving van de voorwaarden, bedoeld in [artikel 38, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en van de voorwaarden, bedoeld in [artikel 38 *g*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), is steeds mede belast het openbaar ministerie in het arrondissement waarin de ter beschikking gestelde feitelijk woont.   
+1.  Met het toezicht op de naleving van de voorwaarden, bedoeld in artikel 38, eerste lid, en van de voorwaarden, bedoeld in artikel 38 *g*, tweede lid, van het Wetboek van Strafrecht, is steeds mede belast het openbaar ministerie in het arrondissement waarin de ter beschikking gestelde feitelijk woont.   
 2.  Het openbaar ministerie, bedoeld in het eerste lid, wordt, voor zover nodig, door Onze Minister in kennis gesteld van de voorwaarden, bedoeld in het eerste lid, en van een verstrekte opdracht tot het verlenen van hulp en steun. Een op een later tijdstip gegeven rechterlijke beslissing met betrekking tot voorwaarden, opdracht tot het verlenen van hulp en steun of verlenging van de terbeschikkingstelling wordt eveneens, voor zover nodig, ter kennis van dit openbaar ministerie gebracht. Het openbaar ministerie doet zo nodig de nieuwe of gewijzigde voorwaarden op de ontslagbrief aantekenen.   
 
 ### Artikel  68  
@@ -627,11 +697,11 @@ De reclassering, bedoeld in artikel 62, stelt zich zo spoedig mogelijk nadat zij
 
 ### Artikel  69  
 
-Met betrekking tot de voorwaarden, bedoeld in [artikel 38, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [38 *g*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), rapporteert de reclassering ten minste eenmaal per drie maanden aan Onze Minister en aan het openbaar ministerie dat op grond van artikel 67, eerste lid, het toezicht op de ter beschikking gestelde uitoefent.  
+Met betrekking tot de voorwaarden, bedoeld in artikel 38, eerste lid, en 38 *g*, tweede lid, van het Wetboek van Strafrecht, rapporteert de reclassering ten minste eenmaal per drie maanden aan Onze Minister en aan het openbaar ministerie dat op grond van artikel 67, eerste lid, het toezicht op de ter beschikking gestelde uitoefent.  
 
 ### Artikel  70  
 
-De reclassering kan een voorstel doen aan het openbaar ministerie tot wijziging, aanvulling of opheffing van de voorwaarden, bedoeld in [artikel 38, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [artikel 38 *g*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Het voorstel wordt door tussenkomst van Onze Minister aan het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de terbeschikkingstelling is gelast, gezonden.  
+De reclassering kan een voorstel doen aan het openbaar ministerie tot wijziging, aanvulling of opheffing van de voorwaarden, bedoeld in artikel 38, eerste lid, en artikel 38 *g*, tweede lid, van het Wetboek van Strafrecht. Het voorstel wordt door tussenkomst van Onze Minister aan het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf ter zake waarvan de terbeschikkingstelling is gelast, gezonden.  
 
 ### Artikel  71  
 
@@ -644,23 +714,23 @@ De reclassering kan een voorstel doen aan het openbaar ministerie tot wijziging,
 
 ### Artikel  72  
 
-Van een inrichting als bedoeld in [artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), wordt vereist dat deze: 
+Van een inrichting als bedoeld in artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht, wordt vereist dat deze: 
 
-a. een instelling is als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), of  
+a. een instelling is als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge de Algemene Wet Bijzondere Ziektekosten, of  
 
-b. is aangemerkt als psychiatrisch ziekenhuis als bedoeld in [artikel 1, onder *h*, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).    
+b. is aangemerkt als psychiatrisch ziekenhuis als bedoeld in artikel 1, onder *h*, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.    
 
 ### Artikel  73  
 
-De directeur van een inrichting als bedoeld in [artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), verleent de door Onze Minister aangewezen ambtenaren te allen tijde toegang tot de plaatsen waar ter beschikking gestelden verblijven. De ambtenaren zijn, voor zover dit voor de uitoefening van hun taak redelijkerwijs nodig is, bevoegd de op deze personen betrekking hebbende stukken in te zien.  
+De directeur van een inrichting als bedoeld in artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht, verleent de door Onze Minister aangewezen ambtenaren te allen tijde toegang tot de plaatsen waar ter beschikking gestelden verblijven. De ambtenaren zijn, voor zover dit voor de uitoefening van hun taak redelijkerwijs nodig is, bevoegd de op deze personen betrekking hebbende stukken in te zien.  
 
 ### Artikel  74  
 
-De directeur van een inrichting als bedoeld in [artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), houdt van de in deze inrichting opgenomen ter beschikking gestelden aantekeningen als bedoeld in artikel 5. Het tweede en derde lid van artikel 5 zijn van toepassing. Artikel 24 is van overeenkomstige toepassing, met dien verstande dat de melding tevens wordt gedaan aan het openbaar ministerie dat op grond van artikel 67, eerste lid, het toezicht op de ter beschikking gestelde uitoefent alsmede aan de reclassering, bedoeld in artikel 62.  
+De directeur van een inrichting als bedoeld in artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht, houdt van de in deze inrichting opgenomen ter beschikking gestelden aantekeningen als bedoeld in artikel 5. Het tweede en derde lid van artikel 5 zijn van toepassing. Artikel 24 is van overeenkomstige toepassing, met dien verstande dat de melding tevens wordt gedaan aan het openbaar ministerie dat op grond van artikel 67, eerste lid, het toezicht op de ter beschikking gestelde uitoefent alsmede aan de reclassering, bedoeld in artikel 62.  
 
 ### Artikel  75  
 
-De directeur van een inrichting als bedoeld in [artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), verschaft de reclassering die is belast met de hulp en steun van een ter beschikking gestelde die in zijn inrichting verblijft de informatie die nodig is met het oog op de verlening van hulp en steun en de opstelling van de adviezen die de reclassering opstelt met betrekking tot de ter beschikking gestelde.  
+De directeur van een inrichting als bedoeld in artikel 38 *a*, tweede lid, van het Wetboek van Strafrecht, verschaft de reclassering die is belast met de hulp en steun van een ter beschikking gestelde die in zijn inrichting verblijft de informatie die nodig is met het oog op de verlening van hulp en steun en de opstelling van de adviezen die de reclassering opstelt met betrekking tot de ter beschikking gestelde.  
 
 ### HOOFDSTUK  19  
 
@@ -668,12 +738,12 @@ De directeur van een inrichting als bedoeld in [artikel 38 *a*, tweede lid, van 
 
 ### Artikel  76  
 
-1.  De beloning van de tolk of de vertaler en de vergoeding van de door hen gemaakte kosten, bedoeld in [artikel 78, onder *a*, van de wet](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) geschieden volgens het bepaalde bij of krachtens de [Wet tarieven in strafzaken](../../../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).   
+1.  De beloning van de tolk of de vertaler en de vergoeding van de door hen gemaakte kosten, bedoeld in artikel 78, onder *a*, van de wet geschieden volgens het bepaalde bij of krachtens de Wet tarieven in strafzaken.   
 2.  De secretaris van de beklag- of beroepscommissie stelt op basis van de in het eerste lid genoemde bepalingen de hoogte van de beloning en vergoeding vast. Met de uitbetaling is het hoofd van de inrichting belast.   
 
 ### Artikel  77  
 
-De vergoeding van de door een persoon als bedoeld in artikel 61, vierde lid, van de wet gemaakte kosten geschiedt volgens de [Wet tarieven in strafzaken](../../../../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md). Artikel 76, tweede lid, is van overeenkomstige toepassing.  
+De vergoeding van de door een persoon als bedoeld in artikel 61, vierde lid, van de wet gemaakte kosten geschiedt volgens de Wet tarieven in strafzaken. Artikel 76, tweede lid, is van overeenkomstige toepassing.  
 
 ### HOOFDSTUK  20  
 
@@ -685,7 +755,7 @@ Bij overlijden van een ter beschikking gestelde of anderzins verpleegde komen de
 
 ### Artikel  79  
 
-1.  Onverminderd het bepaalde bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) komen ten laste van de Staat: 
+1.  Onverminderd het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten komen ten laste van de Staat: 
 
 a. de kosten van verpleging en behandeling van de ter beschikking gestelde of anderszins verpleegde die voortvloeien uit hulpverlening door gedragsdeskundigen in verband met de geestesstoornis van de betrokkene;  
 

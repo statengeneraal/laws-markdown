@@ -280,7 +280,7 @@ d. door het college ingetrokken indien uit houding en gedragingen van de alleens
 
 ####Aanspraak op ondersteuning bij arbeidsinschakeling
 
-1.  Personen die algemene bijstand ontvangen, personen met een nabestaanden- of halfwezenuitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en niet-uitkeringsgerechtigden hebben, overeenkomstig de verordening, bedoeld in artikel 8, eerste lid, onderdeel a, aanspraak op ondersteuning bij arbeidsinschakeling en op de naar het oordeel van het college noodzakelijk geachte voorziening gericht op arbeidsinschakeling.   
+1.  Personen die algemene bijstand ontvangen, personen met een nabestaandenuitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en niet-uitkeringsgerechtigden hebben, overeenkomstig de verordening, bedoeld in artikel 8, eerste lid, onderdeel a, aanspraak op ondersteuning bij arbeidsinschakeling en op de naar het oordeel van het college noodzakelijk geachte voorziening gericht op arbeidsinschakeling.   
 2.  Het eerste lid is van overeenkomstige toepassing op personen die vanwege een voorziening gericht op arbeidsinschakeling niet tot een van de groepen, bedoeld in het eerste lid, behoren.   
 3.  Artikel 40, eerste lid, is van overeenkomstige toepassing.   
 
@@ -401,7 +401,7 @@ e. kosten van medische handelingen en verrichtingen die gerekend kunnen worden t
 ####Inlichtingenplicht
 
 1.  De belanghebbende doet aan het college op verzoek of onverwijld uit eigen beweging mededeling van alle feiten en omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op zijn arbeidsinschakeling of het recht op bijstand. Deze verplichting geldt niet indien die feiten en omstandigheden door het college kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.   
-2.  De belanghebbende is verplicht aan het college desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.   
+2.  De belanghebbende verleent het college desgevraagd de medewerking die redelijkerwijs nodig is voor de uitvoering van deze wet, waaronder in ieder geval wordt verstaan het verlenen van medewerking aan een oproep om op een bepaalde plaats en tijd te verschijnen in verband met zijn arbeidsinschakeling.   
 3.  Het college stelt bij de uitvoering van deze wet de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1º tot en met 3º, van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md).   
 4.  Een ieder is verplicht aan het college desgevraagd een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) terstond ter inzage te verstrekken, voorzover dit redelijkerwijs nodig is voor de uitvoering van deze wet.   
 
@@ -465,18 +465,18 @@ b. er geen in aanmerking te nemen vermogen is.
 
 1.  Voor belanghebbenden jonger dan 21 jaar zonder ten laste komende kinderen is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande van 18, 19 of 20 jaar: € 230,98 per 1 januari 2013: € 228,39;  
+a. een alleenstaande van 18, 19 of 20 jaar: € 230,98 per 1 juli 2013: € 228,66;  
 
-b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 461,96 per 1 januari 2013: € 456,78;  
+b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 461,96 per 1 juli 2013: € 457,32;  
 
-c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 899,42 per 1 januari 2013: € 889,37.     
+c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 899,42 per 1 juli 2013: € 890,43.     
 2.  Voor belanghebbenden jonger dan 21 jaar met een of meer ten laste komende kinderen is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande ouder van 18, 19 of 20 jaar: € 498,35 per 1 januari 2013: € 492,78;  
+a. een alleenstaande ouder van 18, 19 of 20 jaar: € 498,35 per 1 juli 2013: € 493,37;  
 
-b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 729,33 per 1 januari 2013: € 721,17;  
+b. gehuwden waarvan beide echtgenoten 18, 19 of 20 jaar zijn: € 729,33 per 1 juli 2013: € 722,03;  
 
-c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 1 166,79 per 1 januari 2013: € 1.153,76.     
+c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot 21 jaar of ouder: € 1 166,79 per 1 juli 2013: € 1.155,14.     
 
 ### Artikel  21  
 
@@ -484,11 +484,11 @@ c. gehuwden waarvan een echtgenoot 18, 19 of 20 jaar is en de andere echtgenoot
 
 Voor belanghebbenden van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande: € 668,44 per 1 januari 2013: € 660,98;  
+a. een alleenstaande: € 668,44 per 1 juli 2013: € 661,77;  
 
-b. een alleenstaande ouder: € 935,81 per 1 januari 2013: € 925,37;  
+b. een alleenstaande ouder: € 935,81 per 1 juli 2013: € 926,47;  
 
-c. gehuwden waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1 336,87 per 1 januari 2013: € 1.321,96.    
+c. gehuwden waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde leeftijd: € 1 336,87 per 1 juli 2013: € 1.323,53.    
 
 ### Artikel  22  
 
@@ -496,13 +496,13 @@ c. gehuwden waarvan beide echtgenoten jonger zijn dan de pensioengerechtigde lee
 
 Voor belanghebbenden die de pensioengerechtigde leeftijd hebben bereikt is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande: € 1 026,66 per 1 januari 2013: € 1.015,16;  
+a. een alleenstaande: € 1 026,66 per 1 juli 2013: € 1.016,38;  
 
-b. een alleenstaande ouder: € 1 291,99 per 1 januari 2013: € 1.277,52;  
+b. een alleenstaande ouder: € 1 291,99 per 1 juli 2013: € 1.279,05;  
 
-c. gehuwden waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1 413,13 per 1 januari 2013: € 1.397,30;  
+c. gehuwden waarvan beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt: € 1 413,13 per 1 juli 2013: € 1.398,98;  
 
-d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 januari 2013: € 1.397,30.    
+d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt en de andere echtgenoot 21 jaar of ouder, doch de pensioengerechtigde leeftijd nog niet heeft bereikt: € 1 413,13 per 1 juli 2013: € 1.398,98.    
 
 ### Artikel  23  
 
@@ -510,9 +510,9 @@ d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt
 
 1.  Bij een verblijf in een inrichting is de norm per kalendermaand, indien het betreft: 
 
-a. een alleenstaande of een alleenstaande ouder: € 296,35 per 1 januari 2013: € 292,94;  
+a. een alleenstaande of een alleenstaande ouder: € 296,35 per 1 juli 2013: € 293,29;  
 
-b. gehuwden: € 460,93 per 1 januari 2013: € 455,63.     
+b. gehuwden: € 460,93 per 1 juli 2013: € 456,18.     
 2.  Het bedrag van de norm, bedoeld in het eerste lid, wordt verhoogd met: 
 
 a. voor een alleenstaande of een alleenstaande ouder € 49,00 per 1 januari 2013: € 35;  
@@ -535,7 +535,7 @@ Indien een van de gehuwden geen recht op algemene bijstand heeft, is voor de rec
 ####Alleenstaande (ouder)
 
 1.  Het college verhoogt de norm, bedoeld in artikel 21, onderdelen a en b, met een toeslag voorzover de belanghebbende hogere algemeen noodzakelijke kosten van het bestaan heeft dan waarin de norm voorziet, als gevolg van het niet of niet geheel kunnen delen van deze kosten met een ander. Deze kosten kunnen in ieder geval niet geheel of gedeeltelijk gedeeld worden met thuisinwonende kinderen van 18 jaar of ouder die een in aanmerking te nemen inkomen hebben van ten hoogste het normbedrag voor de kosten van levensonderhoud voor hoger onderwijs, genoemd in [artikel 3.18 van de Wet studiefinanciering 2000](../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
-2.  De toeslag bedraagt ten hoogste  € 227,11 per 1 januari 2013: € 264,39 per kalendermaand.   
+2.  De toeslag bedraagt ten hoogste  € 227,11 per 1 juli 2013: € 264,71 per kalendermaand.   
 
 ### Artikel  26  
 
@@ -604,7 +604,7 @@ h. inkomsten uit arbeid van de tot zijn last komende kinderen, alsmede door hen 
 
 i. rente ontvangen over op grond van artikel 34, tweede lid, onderdelen b en c, niet in aanmerking genomen vermogen en spaargelden;  
 
-j. een een- of tweemalige premie van ten hoogste € 1984,00 per 1 januari 2013: € 2.250,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling;  
+j. een een- of tweemalige premie van ten hoogste € 1984,00 per 1 juli 2013: € 2.251,00 per kalenderjaar, voor zover dit naar het oordeel van het college bijdraagt aan zijn arbeidsinschakeling;  
 
 k. een kostenvergoeding voor het verrichten van vrijwilligerswerk van ten hoogste een bij ministeriële regeling vast te stellen bedrag;  
 
@@ -614,13 +614,13 @@ m. giften en andere dan de in onderdeel l bedoelde vergoedingen voor materiële 
 
 n. inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per 1 januari 2013: €188,00 per maand, voor zover hij algemene bijstand ontvangt, waarbij voor een persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt geldt dat die inkomsten gedurende ten hoogste zes aaneengesloten maanden niet tot de middelen worden gerekend en dat dit naar het oordeel van het college moet bijdragen aan zijn arbeidsinschakeling;  
 
-o. de ten behoeve van een levensloopregeling als bedoeld in [artikel 19g, eerste lid, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij een uitvoerder als bedoeld in artikel 19g, derde lid, van die wet opgebouwde voorziening;  
+o. de ten behoeve van een levensloopregeling als bedoeld in [artikel 39d van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) bij een uitvoerder als bedoeld in [artikel 19g, derde lid, van die wet](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), zoals dit artikellid op 31 december 2011 luidde opgebouwde voorziening;  
 
 p. een tegemoetkoming als bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
 
 q. een uitkering als bedoeld in [artikel 118a, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of een tegemoetkoming als bedoeld in [artikel 2:52](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:10 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
 
-r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 120,00 per 1 januari 2013: €118,01 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
+r. inkomsten uit arbeid van een alleenstaande ouder tot 12,5 procent van deze inkomsten, met een maximum van € 120,00 per 1 juli 2013: €118,09 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij algemene bijstand ontvangt, ingeval: 
 
 1°. hij de volledige zorg heeft voor een tot zijn last komend kind tot 12 jaar,  
 
@@ -701,7 +701,7 @@ d. het vermogen gebonden in de woning met bijbehorend erf, bedoeld in artikel 50
 
 e. vergoedingen voor immateriële schade als bedoeld in artikel 31, tweede lid, onderdelen l en m;  
 
-f. de voorziening, bedoeld in artikel 31, tweede lid, onderdeel p.     
+f. de voorziening, bedoeld in artikel 31, tweede lid, onderdeel o.     
 3.  De in het tweede lid, onderdeel b, bedoelde vermogensgrens is: 
 
 a. voor een alleenstaande:  € 4975,00 per 1 januari 2013: € 5.795,00;  
@@ -732,7 +732,7 @@ b. tijdens de bijstandsverlening niet in aanmerking is genomen op grond van dit 
 3.  In afwijking van het eerste lid kan bijzondere bijstand ook aan een persoon die de pensioengerechtigde leeftijd heeft bereikt, behorend tot een bepaalde categorie, worden verleend, zonder dat wordt nagegaan of ten aanzien van die persoon de hierna bedoelde kosten ook daadwerkelijk noodzakelijk zijn of gemaakt zijn, indien ten aanzien van de categorie waartoe hij behoort aannemelijk is dat die zich in bijzondere omstandigheden bevindt die leiden tot bepaalde noodzakelijke kosten van bestaan waarin de algemene bijstand niet voorziet en die de aanwezige draagkracht te boven gaan.   
 4.  In afwijking van het eerste lid kan bijzondere bijstand ook aan een persoon, behorend tot een categorie chronisch zieken of gehandicapten, of met een hem ten laste komend kind dat tot die categorie behoort, worden verleend met betrekking tot kosten in verband met chronische ziekte of handicap, zonder dat wordt nagegaan of ten behoeve van die persoon of dat kind die kosten ook daadwerkelijk noodzakelijk zijn of gemaakt zijn, indien ten aanzien van de categorie waartoe hij of dat kind behoort aannemelijk is dat die zich in bijzondere omstandigheden bevindt die leiden tot dergelijke noodzakelijke kosten van bestaan waarin de algemene bijstand niet voorziet en die de aanwezige draagkracht te boven gaan.   
 5.  In afwijking van het eerste lid kan bijzondere bijstand ook aan een persoon, met een hem ten laste komend kind dat onderwijs of een beroepsopleiding volgt, worden verleend met betrekking tot kosten in verband met maatschappelijke participatie van dat kind, zonder dat wordt nagegaan of ten behoeve van dat kind die kosten ook daadwerkelijk noodzakelijk zijn of gemaakt zijn, indien ten aanzien van de categorie waartoe hij behoort aannemelijk is dat die zich in bijzondere omstandigheden bevindt die leiden tot dergelijke noodzakelijke kosten van bestaan waarin de algemene bijstand niet voorziet en die de aanwezige draagkracht te boven gaan.   
-6.  In afwijking van het eerste lid kan bijzondere bijstand ook aan een persoon worden verleend in de vorm van een collectieve aanvullende ziektekostenverzekering zonder dat wordt nagegaan of ten aanzien van die persoon de kosten van die verzekering ook daadwerkelijk noodzakelijk zijn of gemaakt zijn.   
+6.  In afwijking van het eerste lid kan bijzondere bijstand ook aan een persoon worden verleend in de vorm van een collectieve aanvullende zorgverzekering of in de vorm van een tegemoetkoming in de kosten van de premie van een dergelijke verzekering zonder dat wordt nagegaan of ten aanzien van die persoon de kosten van die verzekering of die premie ook daadwerkelijk noodzakelijk zijn of gemaakt zijn.   
 7.  Voor de toepassing van dit artikel wordt onder bijzondere bijstand niet verstaan langdurigheidstoeslag als bedoeld in artikel 36.   
 8.  Voorzover de gemeente krachtens de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) inhoudingsplichtige is, wordt de bijzondere bijstand verhoogd met de loonbelasting en premies volksverzekeringen.   
 9.  Het derde tot en met het zesde lid zijn niet van toepassing ingeval van een alleenstaande of een gezin waarvan het in aanmerking te nemen inkomen hoger is dan 110 procent van de op hem van toepassing zijnde bijstandsnorm.   
@@ -741,12 +741,11 @@ b. tijdens de bijstandsverlening niet in aanmerking is genomen op grond van dit 
 
 ####Langdurigheidstoeslag
 
-1.  Het college verleent op aanvraag een langdurigheidstoeslag aan een persoon die ouder is dan 21 jaar maar die de pensioengerechtigde leeftijd nog niet heeft bereikt, die langdurig een laag inkomen en geen in aanmerking te nemen vermogen als bedoeld in artikel 34 heeft en geen uitzicht heeft op inkomensverbetering.   
+1.  Het college verleent op aanvraag een langdurigheidstoeslag aan een persoon van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, die langdurig een laag inkomen en geen in aanmerking te nemen vermogen als bedoeld in artikel 34 heeft en geen uitzicht heeft op inkomensverbetering.   
 2.  Bij de vaststelling van het inkomen, bedoeld in het eerste lid, wordt een eerder verstrekte langdurigheidstoeslag buiten beschouwing gelaten.   
 3.  Een persoon kan slechts eenmaal binnen een periode van 12 maanden in aanmerking komen voor een langdurigheidstoeslag.   
-4.  De langdurigheidstoeslag wordt verleend met ingang van de datum waarop de persoon langdurig een laag inkomen en geen in aanmerking te nemen vermogen als bedoeld in artikel 34 heeft.   
-5.  De artikelen 12, 43, 44, 49 en 52 zijn niet van toepassing.   
-6.  Voor de toepassing van het eerste lid wordt onder laag inkomen niet verstaan in aanmerking te nemen inkomen hoger dan 110 procent van de op de desbetreffende alleenstaande of gezin van toepassing zijnde bijstandsnorm.   
+4.  De artikelen 12, 43, 49 en 52 zijn niet van toepassing.   
+5.  Voor de toepassing van het eerste lid wordt onder laag inkomen niet verstaan in aanmerking te nemen inkomen hoger dan 110 procent van de op de desbetreffende alleenstaande of gezin van toepassing zijnde bijstandsnorm.   
 
 ### Artikel  36a  
 
@@ -777,18 +776,19 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 ####Netto minimumloon en consumentenprijsindex
 
 1.  In deze paragraaf wordt onder netto minimumloon verstaan het minimumloon per maand, genoemd in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), verhoogd met de aanspraak op vakantiebijslag waarop een werknemer op grond van [artikel 15 van die wet](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) over dat minimumloon ten minste aanspraak kan maken, na aftrek van de daarvan in te houden loonbelasting en premies volksverzekeringen.   
-2.  De in het eerste lid bedoelde loonbelasting en premies volksverzekeringen worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt rekening houdend met uitsluitend 192,5% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het minimumloon en de aanspraak op vakantiebijslag daarover.   
+2.  De in het eerste lid bedoelde loonbelasting en premies volksverzekeringen worden berekend voor een werknemer die de pensioengerechtigde leeftijd nog niet heeft bereikt rekening houdend met uitsluitend 190% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het minimumloon en de aanspraak op vakantiebijslag daarover.   
 3.  Onder consumentenprijsindex, wordt in deze afdeling verstaan hetgeen daaronder in [artikel 13, zesde lid, van de Algemene Kinderbijslagwet](../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) wordt verstaan.   
-4.  Met ingang van 1 juli 2012 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 2,5 procentpunt, tot het percentage van 100 is bereikt. Van het herziene percentage doet onze Minister mededeling in de Staatscourant. Dit lid vervalt met ingang van 1 januari 2032.   
+4.  Met ingang van 1 juli 2012 tot 1 januari 2014 en met ingang van 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 2,5 procentpunt. Met ingang van 1 januari 2014 tot 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 1,25 procentpunt. Van het herziene percentage doet onze Minister mededeling in de Staatscourant. Dit lid vervalt op het moment dat het percentage van 100 is bereikt.   
 
 ### Artikel  38  
 
 ####Aanpassing normen en bedragen
 
-1.  Met ingang van de dag waarop het netto minimumloon wijzigt, worden de normen, genoemd in de artikelen 21, 22 en 23, eerste lid, en het bedrag, genoemd in artikel 25, tweede lid, herzien met het percentage van deze wijziging.   
+1.  Met ingang van de dag waarop het netto minimumloon wijzigt, worden de normen, genoemd in de artikelen 20, 21, 22 en 23, eerste lid, en het bedrag, genoemd in artikel 25, tweede lid, herzien met het percentage van deze wijziging.   
 2.  Met ingang van de dag waarop het netto minimumloon, zonder de daarin begrepen aanspraak op vakantiebijslag, wijzigt, worden de bedragen, genoemd in artikel 31, tweede lid, onderdelen j, n en r, herzien met het percentage van deze wijziging.   
-3.  De bedragen, genoemd in artikel 23, tweede lid, worden herzien, indien het drempelinkomen, bedoeld in de [Wet op de zorgtoeslag](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), wordt aangepast, de percentages, bedoeld in [artikel 2 van die wet](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), worden gewijzigd of het bedrag van de standaardpremie op grond van [artikel 4 van die wet](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) op een ander bedrag wordt vastgesteld.   
-4.  Van de herziene normen en bedragen en van de dag waarop de herziening plaatsvindt wordt door Onze Minister mededeling gedaan in de Staatscourant.   
+3.  Met ingang van de dag waarop de over het inkomen, bedoeld in artikel 32, eerste lid, van de wet verschuldigde loonbelasting, premies, bijdragen en inhoudingen, bedoeld in artikel 31, derde lid, van de wet wijzigt, wordt de aanspraak op vakantietoeslag over een inkomen als bedoeld in artikel 31, vierde lid, gewijzigd.   
+4.  De bedragen, genoemd in artikel 23, tweede lid, worden herzien, indien het drempelinkomen, bedoeld in de [Wet op de zorgtoeslag](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), wordt aangepast, de percentages, bedoeld in [artikel 2 van die wet](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md), worden gewijzigd of het bedrag van de standaardpremie op grond van [artikel 4 van die wet](../../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md) op een ander bedrag wordt vastgesteld.   
+5.  Van de herziene normen en bedragen en van de dag waarop de herziening plaatsvindt wordt door Onze Minister mededeling gedaan in de Staatscourant.   
 
 ### Artikel  39  
 
@@ -953,7 +953,7 @@ b. gehuwden, van wie beide echtgenoten de pensioengerechtigde leeftijd hebben be
 
 ####Invulling toepassing artikelen voor Sociale verzekeringsbank
 
-Voor de toepassing van artikel 47a, eerste lid, wordt in de artikelen 9, met uitzondering van het eerste lid, onderdelen b en c, 16, eerste lid, 17, 31, tweede lid, onderdeel m, 33, vierde lid, 40, tweede tot en met zesde lid, 41, vierde, vijfde en achtste lid, 43, eerste, derde, vierde en vijfde lid, 44, eerste en derde lid, 48, derde, vierde en vijfde lid, 52, eerste lid, 53a, eerste tot en met zevende lid, 54, 55, 57, 58, eerste, tweede, vierde, vijfde, zevende en achtste lid, 60, eerste tot en met zesde lid, 60c, 62b, vierde lid, 62e, 62f, 62g, 62h, derde lid, 63, 66, 78s, derde en vierde lid, 78t, tweede lid, 78x, eerste lid, onderdeel b, 81, eerste en tweede lid, voor «het college» telkens gelezen: de Sociale verzekeringsbank.  
+Voor de toepassing van artikel 47a, eerste lid, wordt in de artikelen 9, met uitzondering van het eerste lid, onderdelen b en c, 16, eerste lid, 17, 31, tweede lid, onderdeel m, 33, vierde lid, 40, tweede tot en met zesde lid, 41, vierde, vijfde, achtste en tiende lid, 43, eerste, derde, vierde en vijfde lid, 44, eerste en derde lid, 48, derde, vierde en vijfde lid, 52, eerste lid, 53a, eerste tot en met zevende lid, 54, 55, 57, 58, eerste, tweede, vierde, vijfde, zevende en achtste lid, 60, eerste tot en met zesde lid, 60c, 62b, vierde lid, 62e, 62f, 62g, 62h, derde lid, 63, 66, 78s, derde en vierde lid, 78t, tweede lid, 78x, eerste lid, onderdeel b, 81, eerste en tweede lid, voor «het college» telkens gelezen: de Sociale verzekeringsbank.  
 
 ### Artikel  47c  
 
@@ -1104,31 +1104,23 @@ b. bij de aanvraag duidelijk is dat geen recht op algemene bijstand bestaat.
 1.  Onverminderd [30c, tweede, vierde en vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), bepaalt het college welke gegevens ten behoeve van de verlening van bijstand dan wel de voortzetting daarvan door de belanghebbende in ieder geval worden verstrekt en welke bewijsstukken worden overgelegd, alsmede de wijze en het tijdstip waarop de verstrekking van gegevens plaatsvindt. De gegevens en bewijsstukken worden door het college niet verkregen van de belanghebbende voor zover ze zijn verkregen door het Uitvoeringsinstituut werknemersverzekeringen dan wel voor zover zij verkregen kunnen worden uit de polisadministratie, bedoeld in [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), de verzekerdenadministratie, bedoeld in [artikel 35 van die wet](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), alsmede uit de gemeentelijke basisadministratie persoonsgegevens, tenzij hierdoor een goede vervulling van de taak van het college op grond van dit artikel wordt belet of bij wettelijk voorschrift anders is bepaald. Bij of krachtens algemene maatregel van bestuur kunnen andere administraties worden aangewezen waarvoor de tweede zin van toepassing is, worden regels gesteld over de gegevens die het betreft en kunnen administraties worden aangewezen waarvoor de tweede zin tijdelijk niet van toepassing is. Indien het authentieke gegevens uit andere basisregistraties betreft, is dit lid van overeenkomstige toepassing.   
 2.  In aanvulling op het eerste lid kan het college de belanghebbende verzoeken aan te tonen dat: 
 
-a. hij een belanghebbende is als bedoeld in artikel 20 of artikel 22, aanhef en onderdeel a of b;  
+a. hij een belanghebbende is als bedoeld in artikel 20, eerste lid, aanhef en onderdeel a, of artikel 20, tweede lid, aanhef en onderdeel a, of artikel 21, aanhef en onderdeel a of b, of artikel 22, aanhef en onderdeel a of b;  
 
-b. de feitelijke woonsituatie van hemzelf, van zijn meerderjarige gezinsleden of van zijn ten laste komende kinderen in overeenstemming is met het door hem verstrekte adres van hemzelf, zijn meerderjarige gezinsleden of van zijn ten laste komende kinderen;  
+b. de feitelijke woonsituatie van hemzelf, van zijn echtgenoot of van een kind in overeenstemming is met het door hem verstrekte adres van hemzelf, zijn echtgenoot of van een kind;  
 
-c. hij of het gezin waartoe hij behoort de algemeen noodzakelijke kosten van het bestaan niet geheel of gedeeltelijk kunnen delen met een ander.   Teneinde hem daartoe in de gelegenheid te stellen biedt het college bij die verzoeken de belanghebbende aan met diens toestemming zijn woning binnen te treden.   
-3.  Indien de belanghebbende niet desgevraagd aantoont dat hij een alleenstaande of een alleenstaande ouder is waarop de norm, bedoeld in artikel 20, eerste lid, of artikel 22, onderdeel a, respectievelijk artikel 20, tweede lid, of artikel 22, onderdeel b, van toepassing is, kent het college, onverminderd de toepassing van artikel 27, de uitkering toe respectievelijk herziet het de uitkering overeenkomstig de volgende norm: 
+c. hij de algemeen noodzakelijke kosten van het bestaan niet geheel of gedeeltelijk kan delen met een ander.   Teneinde hem daartoe in de gelegenheid te stellen kan het college bij die verzoeken de belanghebbende aanbieden met diens toestemming zijn woning binnen te treden.   
+3.  Indien de belanghebbende niet desgevraagd aantoont dat hij een belanghebbende is als bedoeld in artikel 20, eerste lid, aanhef en onderdeel a, of artikel 20, tweede lid, aanhef en onderdeel a, of artikel 21, aanhef en onderdeel a of b, of artikel 22, aanhef en onderdeel a of b: 
 
-a. indien de belanghebbende zich in de leeftijdscategorie van 18 jaar tot en met 20 jaar bevindt; de helft van de norm, bedoeld in artikel 21, tweede lid, onderdeel a, onder 1;  
+a. kent het college, onverminderd de toepassing van artikel 27, de uitkering toe respectievelijk herziet het de uitkering naar de helft van de norm, bedoeld in artikel 20, eerste lid, onderdeel b, onderscheidenlijk artikel 20, tweede lid, onderdeel b, onderscheidenlijk artikel 21, onderdeel c, onderscheidenlijk artikel 22, onderdeel c;  
 
-b. indien de belanghebbende zich in de leeftijdscategorie van 21 jaar tot en met 65 jaar bevindt; de helft van de norm, bedoeld in artikel 21, tweede lid, onderdeel b, onder 1;  
+b. wordt de belanghebbende voor de toepassing van de artikelen 9, vierde lid, en 9a niet als alleenstaande ouder aangemerkt;  
 
-c. indien de belanghebbende zich in de leeftijdscategorie van 65 jaar of ouder bevindt; de helft van de norm, bedoeld in artikel 22, onderdeel c.     
-4.  Indien de belanghebbende niet desgevraagd aantoont dat hij een alleenstaande ouder is waarop de norm, bedoeld in artikel 20, tweede lid, of artikel 22, onderdeel b, van toepassing is maar hij wel heeft aangetoond dat hij een of meer tot zijn last komende kinderen heeft kent het college, onverminderd de toepassing van artikel 27, de uitkering toe respectievelijk herziet het de uitkering overeenkomstig de volgende norm: 
-
-a. indien de belanghebbende zich in de leeftijdscategorie van 18 jaar tot en met 20 jaar bevindt, de helft van de norm, bedoeld in artikel 21, tweede lid, onderdeel a, onder 2;  
-
-b. indien de belanghebbende zich in de leeftijdscategorie van 21 jaar tot en met 65 jaar bevindt, de helft van de norm, bedoeld in artikel 21, tweede lid, onderdeel b, onder 2;  
-
-c. indien de belanghebbende zich in de leeftijdscategorie van 65 jaar of ouder bevindt; de helft van de norm, bedoeld in artikel 22, onderdeel c.     
-5.  In de gevallen, bedoeld in het derde en vierde lid, zijn de artikelen 25 en 30, tweede lid, aanhef en onderdeel a, niet van toepassing.   
-6.  Indien de belanghebbende niet desgevraagd de woonsituatie, bedoeld in het tweede lid, onderdeel b, aantoont op de wijze bedoeld in de laatste zin van dat lid, schort het college de betaling van de bijstand op, niet dan nadat het college aan belanghebbende gelegenheid heeft gegeven op andere wijze aan te tonen dat het feitelijke woonadres overeenkomt met het verstrekte adres, indien daartoe niet eerder aan belanghebbende gelegenheid is geboden.   
-7.  Het college doet schriftelijke mededeling van de opschorting aan de belanghebbende en stelt hem daarbij in de gelegenheid om aan te tonen dat het feitelijke woonadres overeenstemt met het verstrekte adres. Artikel 40, vierde lid, aanhef en onderdeel c, en zesde lid, tweede zin, zijn van overeenkomstige toepassing.   
-8.  Indien de belanghebbende niet desgevraagd zijn situatie als bedoeld in het tweede lid, onderdeel c, aantoont, zijn de artikelen artikel 25 en 30, tweede lid, niet van toepassing en wordt de norm overeenkomstig artikel 26 verlaagd.   
-9.  Het college is bevoegd onderzoek in te stellen naar de juistheid en volledigheid van de verstrekte gegevens en zonodig naar andere gegevens die noodzakelijk zijn voor de verlening dan wel de voortzetting van bijstand. Indien het onderzoek daartoe aanleiding geeft kan het college besluiten tot herziening van de bijstand.   
-10.  De voordracht voor een krachtens het eerste lid, derde zin, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+c. zijn de artikelen 25 en 30, tweede lid, in die gevallen niet van toepassing.     
+4.  Indien de belanghebbende niet desgevraagd de woonsituatie, bedoeld in het tweede lid, onderdeel b, aantoont op de wijze bedoeld in de laatste zin van dat lid, schort het college de betaling van de bijstand op, niet dan nadat het college aan belanghebbende gelegenheid heeft gegeven op andere wijze aan te tonen dat het feitelijke woonadres overeenkomt met het verstrekte adres, indien daartoe niet eerder aan belanghebbende gelegenheid is geboden.   
+5.  Het college doet schriftelijke mededeling van de opschorting aan de belanghebbende en stelt hem daarbij in de gelegenheid om aan te tonen dat het feitelijke woonadres overeenstemt met het verstrekte adres. Artikel 40, vierde lid, aanhef en onderdeel c, en zesde lid, tweede zin, zijn van overeenkomstige toepassing.   
+6.  Indien de belanghebbende niet desgevraagd zijn situatie als bedoeld in het tweede lid, onderdeel c, aantoont, zijn de artikelen artikel 25 en 30, tweede lid, niet van toepassing en wordt de norm overeenkomstig artikel 26 verlaagd.   
+7.  Het college is bevoegd onderzoek in te stellen naar de juistheid en volledigheid van de verstrekte gegevens en zonodig naar andere gegevens die noodzakelijk zijn voor de verlening dan wel de voortzetting van bijstand. Indien het onderzoek daartoe aanleiding geeft kan het college besluiten tot herziening of intrekking van de bijstand.   
+8.  De voordracht voor een krachtens het eerste lid, derde zin, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  54  
 
@@ -1140,11 +1132,7 @@ a. vanaf de eerste dag van de periode waarop het verzuim betrekking heeft, of
 
 b. vanaf de dag van het verzuim indien niet kan worden bepaald op welke periode dit verzuim betrekking heeft.     
 2.  Het college doet mededeling van de opschorting aan de belanghebbende en nodigt hem uit binnen een door hen te stellen termijn het verzuim te herstellen.   
-3.  Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van bijstand en terzake van weigering van bijstand, kan het college een dergelijk besluit herzien of intrekken: 
-
-a. indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 17, eerste lid, of [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van bijstand;  
-
-b. indien anderszins de bijstand ten onrechte of tot een te hoog bedrag is verleend.     
+3.  Het college herziet een besluit tot toekenning van bijstand, dan wel trekt een besluit tot toekenning van bijstand in, indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 17, eerste lid](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), of [artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van bijstand. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van bijstand kan het college een besluit tot toekenning van bijstand herzien of intrekken, indien anderszins de bijstand ten onrechte of tot een te hoog bedrag is verleend.   
 4.  Als de belanghebbende in het geval bedoeld in het eerste lid het verzuim niet herstelt binnen de daarvoor gestelde termijn, kan het college na het verstrijken van deze termijn het besluit tot toekenning van bijstand intrekken met ingang van de eerste dag waarover het recht op bijstand is opgeschort.   
 
 ### §  6.3  
@@ -1246,7 +1234,8 @@ b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van 
 1.  Indien degene van wie de kosten van bijstand worden teruggevorderd dan wel die verplicht is tot betaling van een bestuurlijke boete algemene bijstand of een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werklozen werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) ontvangt van het college van een andere gemeente dan het college dat de kosten van bijstand terugvordert of de bestuurlijke boete heeft opgelegd, betaalt het college van die andere gemeente, zonder dat daarvoor een machtiging nodig is van de belanghebbende, het bedrag van de terugvordering of de bestuurlijke boete uit de algemene bijstand of de uitkering op verzoek aan het college dat de kosten van bijstand terugvordert of de bestuurlijke boete heeft opgelegd.   
 2.  Indien degene van wie de kosten van bijstand worden teruggevorderd dan wel die verplicht is tot betaling van een bestuurlijke boete een uitkering ontvangt op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsvoorziening militairen](../../../../../../wet/wet/arbeidsongeschiktheidsvoorziening/militairen/BWBR0002822/README.md), de [Wet arbeid en zorg](../../../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md) of de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md) of inkomensondersteuning ontvangt op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) betaalt het Uitvoeringsinstituut werknemersverzekeringen, zonder dat daarvoor een machtiging nodig is van belanghebbende, het bedrag van de terugvordering of de bestuurlijke boete uit de uitkering of de inkomensondersteuning op verzoek aan het college dat de kosten van bijstand terugvordert of de bestuurlijke boete heeft opgelegd.   
 3.  Indien degene van wie de kosten van bijstand worden teruggevorderd dan wel die verplicht is tot betaling van een bestuurlijke boete een uitkering ontvangt op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) betaalt de Sociale verzekeringsbank, zonder dat daarvoor een machtiging nodig is van belanghebbende, het bedrag van de terugvordering of de bestuurlijke boete uit de uitkering op verzoek aan het college dat de kosten van bijstand terugvordert of de bestuurlijke boete heeft opgelegd.   
-4.  Indien de kosten van bijstand worden teruggevorderd danwel een bestuurlijke boete is opgelegd door de Sociale verzekeringsbank is het eerste tot en met het derde lid van overeenkomstige toepassing.   
+4.  Onverminderd artikel 60, derde lid, en het eerste, tweede en derde lid kan het college een vordering die een belanghebbende op hem heeft, verrekenen met een vordering als bedoeld in artikel 58 en 59.   
+5.  Indien de kosten van bijstand worden teruggevorderd door de Sociale verzekeringsbank is het eerste tot en met het vierde lid van overeenkomstige toepassing.   
 
 ### Artikel  60b  
 
@@ -1358,7 +1347,7 @@ b. de nalatenschap van de persoon indien:
 
 ####Schakelbepaling
 
-De artikelen 58, vijfde lid, en 60, eerste en vijfde tot en met zevende lid lid, zijn met betrekking tot het verhaal van kosten van bijstand van overeenkomstige toepassing, met dien verstande dat [artikel 479e, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing is.  
+De artikelen 58, vijfde lid, en 60, eerste en vijfde tot en met zevende lid, zijn met betrekking tot het verhaal van kosten van bijstand van overeenkomstige toepassing, met dien verstande dat [artikel 479e, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing is.  
 
 ### §  6.6  
 
@@ -1513,13 +1502,11 @@ i. Onze Minister van Veiligheid en Justitie in verband met de tenuitvoerlegging 
 
 a. algemene bijstand;  
 
-b. inkomensvoorzieningen, bedoeld in de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
-
-c. uitkeringen, bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md),   en voor de daarbij verschuldigde loonbelasting, premies volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die daarover verschuldigd zijn.   
+b. uitkeringen, als bedoeld in de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md),   en voor de daarbij verschuldigde loonbelasting, premies volksverzekeringen en de inkomensafhankelijke bijdrage, bedoeld in [artikel 42 van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
 2.  Bij wet wordt het totale bedrag dat beschikbaar is voor de uitkering, bedoeld in het eerste lid, vastgesteld, waarbij uitgangspunt is dat dit bedrag voor het desbetreffende kalenderjaar toereikend is voor de geraamde kosten van alle gemeenten in verband met uitgaven als bedoeld in het eerste lid.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de verdeling van de uitkering, bedoeld in het eerste lid, onder de gemeenten en het verzamelen van gegevens noodzakelijk voor het vaststellen van deze verdeling.   
 4.  De uitkering aan het college wordt ten minste drie maanden voorafgaand aan het kalenderjaar waarop zij betrekking heeft door Onze Minister bekend gemaakt.   
-5.  Mede ten behoeve van de kosten van de voorzieningen, bedoeld in artikel 7, eerste lid, onderdeel a, en de voorzieningen op grond van de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), niet zijnde uitvoeringskosten ontvangt het college een uitkering op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md).   
+5.  Mede ten behoeve van de kosten van de voorzieningen, bedoeld in artikel 7, eerste lid, onderdeel a, niet zijnde uitvoeringskosten ontvangt het college een uitkering op grond van de [Wet participatiebudget](../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md).   
 
 ### Artikel  71  
 
@@ -1607,7 +1594,7 @@ Met het toezicht op de naleving van deze wet zijn belast de bij besluit van het 
 
 ####Informatie ten behoeve van uitkering en uitvoeringsbeeld
 
-1.  Het college verstrekt de informatie ten behoeve van de vaststelling en de verdeling van de uitkering, bedoeld in artikel 69, tweede en derde lid, op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), waarbij slechts hoeft te blijken dat de verantwoorde bestedingen en baten een getrouw beeld geven van de omvang daarvan.   
+1.  Het college legt verantwoording af aan Onze Minister over de uitvoering van deze wet, op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md).   
 2.  Het college dient jaarlijks bij Onze Minister een beeld van de uitvoering in.   
 3.  Bij ministeriële regeling worden regels gesteld inzake het beeld van de uitvoering.   
 
@@ -1780,7 +1767,7 @@ Indien als gevolg van inwerkingtreding van de [Wet afschaffing huishoudinkomenst
 
 ####Begrip besluit
 
-Voor de toepassing van [artikel 8:1, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt met een besluit gelijkgesteld het nalaten van een handeling die strekt tot uitvoering van het besluit inzake de verlening of terugvordering van bijstand of het verrichten van een handeling die afwijkt van dat besluit.  
+Voor de toepassing van [artikel 8:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt met een besluit gelijkgesteld het nalaten van een handeling die strekt tot uitvoering van het besluit inzake de verlening of terugvordering van bijstand of het verrichten van een handeling die afwijkt van dat besluit.  
 
 ### Artikel  80  
 

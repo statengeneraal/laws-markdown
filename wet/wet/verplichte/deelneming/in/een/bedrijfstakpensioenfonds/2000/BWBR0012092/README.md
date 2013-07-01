@@ -80,33 +80,45 @@ De deelnemers alsmede, voorzover het werknemers betreft, hun werkgevers leven de
 
 ### Artikel  5  
 
-Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer geen ander lichaam gebruik maakt van een naam of het merk dat door het bedrijfstakpensioenfonds wordt gebruikt dan wel gebruik maakt van een naam, merk of daarmee overeenstemmend teken indien door dat gebruik de mogelijkheid bestaat dat bij het publiek een associatie wordt gewekt tussen de naam of het merk van het bedrijfstakpensioenfonds en de naam, het merk of het teken dat het lichaam gebruikt.  
+1.  Het bedrijfstakpensioenfonds draagt er zorg voor dat in het economisch verkeer geen ander lichaam bij het geven van informatie aan consumenten over financiële producten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gebruik maakt van een naam of het merk dat door het bedrijfstakpensioenfonds wordt gebruikt dan wel gebruik maakt van een naam, merk of daarmee overeenstemmend teken indien door dat gebruik de mogelijkheid bestaat dat bij de consument een associatie wordt gewekt tussen de naam of het merk van het bedrijfstakpensioenfonds en de naam, het merk of het teken dat het lichaam gebruikt.   
+2.  Onder consument als bedoeld in het eerste lid wordt verstaan: een niet in de uitoefening van zijn beroep of bedrijf handelende natuurlijke persoon, alsmede de als werkgever in de zin van [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) handelende natuurlijke- of rechtspersoon.   
+3.  Het eerste lid is niet van toepassing: 
+
+a. met betrekking tot het gebruik van een naam als bedoeld in het eerste lid wanneer uitsluitend informatie wordt gegeven over de wijze waarop financiële producten zich verhouden tot de bij het bedrijfstakpensioenfonds ondergebrachte pensioenregeling, waarbij geen kwalitatief oordeel wordt gegeven over de relatie van het product tot de betreffende pensioenregeling; of  
+
+b. indien artikel 6, derde lid, van toepassing is.     
+4.  Het bedrijfstakpensioenfonds draagt de naam die of het merk dat het bedrijfstakpensioenfonds gebruikt of heeft gebruikt niet over aan een ander lichaam.   
 
 ### Artikel  6  
 
 ####Gegevensverstrekking
 
-1.  Het bedrijfstakpensioenfonds verstrekt gegevens betreffende een deelnemer, een gewezen deelnemer of een andere rechthebbende op pensioen slechts aan de desbetreffende deelnemer en zijn werkgever, de desbetreffende gewezen deelnemer of de desbetreffende andere rechthebbende op pensioen.   
+1.  Het bedrijfstakpensioenfonds verstrekt gegevens betreffende een deelnemer, een gewezen deelnemer, een andere aanspraakgerechtigde of een pensioengerechtigde, slechts aan de desbetreffende deelnemer en zijn werkgever, de desbetreffende gewezen deelnemer, andere aanspraakgerechtigde of pensioengerechtigde.   
 2.  Het eerste lid is niet van toepassing indien: 
 
-a. er sprake is van een wettelijke verplichting tot gegevensverstrekking,  
+a. er sprake is van een wettelijke verplichting tot gegevensverstrekking;  
 
-b. gegevensverstrekking noodzakelijk is voor de uitvoering van de pensioenregeling,  
+b. gegevensverstrekking noodzakelijk is voor de uitvoering van de pensioenregeling;  
 
-c. gegevensverstrekking noodzakelijk is in verband met waardeoverdracht als bedoeld in [artikel 71 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md),  
+c. gegevensverstrekking noodzakelijk is in verband met waardeoverdracht als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
 
-d. het gegevensverstrekking betreft aan de Nederlandsche Bank voorzover deze gegevensverstrekking nodig is voor de vervulling van haar krachtens deze wet en de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) opgelegde taken, of  
+d. het gegevensverstrekking betreft aan de Nederlandsche Bank voorzover deze gegevensverstrekking nodig is voor de vervulling van haar bij of krachtens deze wet en de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) opgelegde taken; of  
 
 e. er sprake is van het verstrekken van naam-, adres-, en woonplaatsgegevens aan verenigingen met volledige rechtsbevoegdheid die als statutair doel of mede als statutair doel hebben het behartigen van de belangen van haar leden als belanghebbenden bij een bedrijfstakpensioenfonds.     
-3.  Indien er gegevensverstrekking als bedoeld in het tweede lid, onderdeel b of onderdeel e heeft plaatsgevonden, zijn het eerste en het tweede lid van overeenkomstige toepassing op de persoon of de rechtspersoon aan wie de gegevens zijn verstrekt.   
-4.  In afwijking van het eerste lid kan een deelnemer, gewezen deelnemer of een andere rechthebbende, het bedrijfstakpensioenfonds machtigen zijn gegevens te verstrekken aan een door hem aan te wijzen derde. Het bedrijfstakpensioenfonds onthoudt zich daarbij van suggesties met betrekking tot de aan te wijzen derde.   
+3.  De natuurlijke- of rechtspersoon aan wie de gegevensverstrekking, bedoeld in het tweede lid, onderdeel b, heeft plaatsgevonden gebruikt in het kader van de werkzaamheden uit hoofde waarvan de gegevens zijn verstrekt in contacten met deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, pensioengerechtigden en bij het bedrijfstakpensioenfonds aangesloten werkgevers uitsluitend de naam of het merk van het bedrijfstakpensioenfonds. Artikel 7, vierde en vijfde lid, zijn van overeenkomstige toepassing.   
+4.  In afwijking van het eerste lid kan een deelnemer, een gewezen deelnemer, een andere aanspraakgerechtigde of een pensioengerechtigde, het bedrijfstakpensioenfonds machtigen zijn gegevens te verstrekken aan een door hem aan te wijzen derde. Het bedrijfstakpensioenfonds onthoudt zich daarbij van suggesties met betrekking tot de aan te wijzen derde.   
+5.  Indien er gegevensverstrekking als bedoeld in het tweede lid, onderdeel b of onderdeel e heeft plaatsgevonden, zijn het eerste, tweede en vierde lid van overeenkomstige toepassing op de natuurlijke- of rechtspersoon aan wie de gegevens zijn verstrekt. Indien de rechtspersoon naast de werkzaamheden uit hoofde waarvan de gegevens zijn verstrekt ook andere werkzaamheden verricht, wordt bij de toepassing van het vierde lid, de rechtspersoon als derde aangemerkt voor zover het de andere werkzaamheden betreft.   
+6.  Het eerste lid is niet van toepassing indien het gegevensverstrekking betreft aan in dezelfde bedrijfstak werkzame fondsen voor vervroegd uittreden. Indien in verband met de uitvoering van de pensioenregeling gegevensverstrekking als bedoeld in het tweede lid, onderdeel b, heeft plaatsgevonden kan de natuurlijke- of rechtspersoon aan wie de gegevens zijn verstrekt de gegevensverstrekking, bedoeld in de eerste zin, verrichten na machtiging door het bedrijfstakpensioenfonds. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de fondsen aan wie de gegevens worden verstrekt.   
 
 ### Artikel  7  
 
 ####Informatie aan deelnemers
 
-1.  Behoudens het geven van algemene informatie, geeft het bedrijfstakpensioenfonds deelnemers, gewezen deelnemers en andere rechthebbenden op pensioen slechts informatie over regelingen die door het bedrijfstakpensioenfonds zelf worden uitgevoerd.   
-2.  Indien er in verband met de uitvoering van een pensioenregeling gegevensverstrekking, als bedoeld in artikel 6, tweede lid, onderdeel b, heeft plaatsgevonden, is het eerste lid van overeenkomstige toepassing op de persoon of de rechtspersoon aan wie de gegevens zijn verstrekt.   
+1.  Behoudens het geven van algemene informatie, geeft het bedrijfstakpensioenfonds deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, pensioengerechtigden en de bij het bedrijfstakpensioenfonds aangesloten werkgevers slechts informatie over regelingen die door het bedrijfstakpensioenfonds zelf worden uitgevoerd.   
+2.  Het bedrijfstakpensioenfonds hanteert gelijke voorwaarden voor alle aanbieders van reclame-uitingen in informatiedragers van het bedrijfstakpensioenfonds. Deze voorwaarden worden op een voor een ieder toegankelijke wijze gepubliceerd.   
+3.  Indien er in verband met de uitvoering van een pensioenregeling gegevensverstrekking als bedoeld in artikel 6, tweede lid, onderdeel b, heeft plaatsgevonden, is het eerste lid van overeenkomstige toepassing op de natuurlijke- of rechtspersoon aan wie de gegevens zijn verstrekt.   
+4.  Indien er in verband met de uitvoering van een pensioenregeling gegevensverstrekking als bedoeld in artikel 6, tweede lid, onderdeel b, heeft plaatsgevonden, mag, in afwijking van artikel 6, derde lid, in contacten met deelnemers, gewezen deelnemers, andere aanspraakgerechtigden, pensioengerechtigden en de bij het bedrijfstakpensioenfonds aangesloten werkgevers wel de naam worden vermeld van de natuurlijke- of rechtspersoon aan wie de gegevens zijn verstrekt. De natuurlijke- of rechtspersoon, bedoeld in de vorige zin, kan in contacten met bij het bedrijfstakpensioenfonds aangesloten werkgevers informatie dan wel gecombineerde nota’s verstrekken mede op naam van en met andere in dezelfde bedrijfstak werkzame fondsen die werkzaamheden hebben uitbesteed aan deze natuurlijke- of rechtspersoon.   
+5.  In afwijking van het eerste lid kan het bedrijfstakpensioenfonds samen met andere bedrijfstakpensioenfondsen dan wel samen met in dezelfde bedrijfstak werkzame fondsen voor vervroegd uittreden informatie verstrekken over activiteiten in verband met pensioenuitkeringen en werkzaamheden die daarmee verband houden.   
 
 ### Artikel  8  
 
@@ -335,12 +347,6 @@ d. indien een bestuurder van een lichaam een lichaam is: ieder van de bestuurder
 ####Burgerlijke rechtsvordering
 
 Van burgerlijke rechtsvorderingen ter zake van deelneming in en uitkering uit een bedrijfstakpensioenfonds neemt de kantonrechter kennis.  
-
-### Artikel  26  
-
-#### [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) 
-
-In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is voor beroepen tegen besluiten op grond van deze wet de rechtbank te Rotterdam bevoegd.  
 
 ### §  6  
 

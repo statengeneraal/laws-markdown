@@ -8,12 +8,12 @@
 
 ### Artikel  1  
 
-Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt onder de Minister verstaan Onze Minister van Sociale Zaken en Werkgelegenheid.  
+Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt onder Onze Minister verstaan Onze Minister van Sociale Zaken en Werkgelegenheid.  
 
 ### Artikel  2  
 
 1.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt ten aanzien van een dienstbetrekking onder normale arbeidsduur verstaan de arbeidsduur die in soortgelijke dienstbetrekkingen ingevolge de overeenkomsten waarop zij plegen te berusten, het arbeidsreglement, de collectieve arbeidsovereenkomst of de betrokken wettelijke regeling als volledige dienstbetrekking wordt beschouwd.   
-2.  De Minister kan ambtshalve dan wel op gezamenlijk verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers en een zodanige organisatie van werknemers ten aanzien van een door hem aangewezen categorie dienstbetrekkingen de arbeidsduur vaststellen die voor de toepassing van het bij of krachtens deze wet bepaalde als normale arbeidsduur wordt beschouwd.   
+2.  Onze Minister kan ambtshalve dan wel op gezamenlijk verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers en een zodanige organisatie van werknemers ten aanzien van een door hem aangewezen categorie dienstbetrekkingen de arbeidsduur vaststellen die voor de toepassing van het bij of krachtens deze wet bepaalde als normale arbeidsduur wordt beschouwd.   
 
 ### Artikel  3  
 
@@ -53,8 +53,8 @@ f. vergoedingen voorzover zij geacht kunnen worden te strekken tot bestrijding v
 
 g. bijzondere vergoedingen voor kostwinners en gezinshoofden.     
 2.  Bij algemene maatregel van bestuur kunnen andere uitzonderingen dan de in het eerste lid genoemde worden gesteld.   
-3.  Bij algemene maatregel van bestuur kan worden bepaald, dat tot een daarbij aangewezen categorie behorende niet geldelijke inkomsten uit hoofde van de dienstbetrekking mede onder loon worden verstaan. De Minister stelt de geldswaarde van deze inkomsten vast. De werkgever of de werknemer kan zich tot de Minister wenden met een daartoe strekkend verzoek.   
-4.  De Minister kan regelen stellen naar welke wordt beoordeeld welke inkomsten moeten worden aangemerkt als uitkeringen of vergoedingen als bedoeld in het eerste lid onder c tot en met g.   
+3.  Bij algemene maatregel van bestuur kan worden bepaald, dat tot een daarbij aangewezen categorie behorende niet geldelijke inkomsten uit hoofde van de dienstbetrekking mede onder loon worden verstaan. Onze Minister stelt de geldswaarde van deze inkomsten vast. De werkgever of de werknemer kan zich tot Onze Minister wenden met een daartoe strekkend verzoek.   
+4.  Onze Minister kan regelen stellen naar welke wordt beoordeeld welke inkomsten moeten worden aangemerkt als uitkeringen of vergoedingen als bedoeld in het eerste lid onder c tot en met g.   
 5.  [Vervallen]   
 
 ### Hoofdstuk  II  
@@ -73,11 +73,11 @@ g. bijzondere vergoedingen voor kostwinners en gezinshoofden.
 
 1.  Het bruto minimumuurloon bedraagt voor werknemers van 21 jaar en ouder in het openbaar lichaam: 
 
-a. Bonaire: USD 4,03 per 1 januari 2011: USD 4,20;  
+a. Bonaire: USD 4,03 per 1 januari 2013: USD 4,55;  
 
-b. Sint Eustatius: USD 3,32 per 1 januari 2011: USD 4,20;  
+b. Sint Eustatius: USD 3,32 per 1 januari 2013: USD 4,89;  
 
-c. Saba: USD 3,50 per 1 januari 2011: USD 4,20.     
+c. Saba: USD 3,50 per 1 januari 2013: USD 4,61.     
 2.  [vervallen]   
 3.  [vervallen]   
 4.  [vervallen]   
@@ -95,7 +95,7 @@ Indien bij collectieve arbeidsovereenkomst een periode van afrekening, welke mee
 
 ### Artikel  11  
 
-1.  De Minister kan op verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers of van werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel in een tak van bedrijf of beroep voor telkenmale ten hoogste een jaar op lagere dan de in artikel 9, eerste lid, genoemde bedragen vaststellen indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zo lang niet is gebleken dat de verzoeker met de naar het oordeel van de Minister representatieve organisaties van werknemers onderscheidenlijk van werkgevers terzake overleg heeft gepleegd.   
+1.  Onze Minister kan op verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers of van werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel in een tak van bedrijf of beroep voor telkenmale ten hoogste een jaar op lagere dan de in artikel 9, eerste lid, genoemde bedragen vaststellen indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zo lang niet is gebleken dat de verzoeker met de naar het oordeel van Onze Minister representatieve organisaties van werknemers onderscheidenlijk van werkgevers terzake overleg heeft gepleegd.   
 2.  Bij toepassing van het eerste lid zullen de daarin bedoelde bedragen niet lager kunnen worden gesteld dan op 75% van de in artikel 9 genoemde bedragen.   
 3.  [Vervallen]   
 4.  [Vervallen]   
@@ -106,14 +106,14 @@ Indien bij collectieve arbeidsovereenkomst een periode van afrekening, welke mee
 
 ### Artikel  12a  
 
-Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle geschikt is voor de door hem te verrichten arbeid dan wel op grond van een leer- of opleidingsovereenkomst werkzaam is, toekenning van het bedrag, dat krachtens de artikelen 8 tot en met 12 voor hem als minimumloon geldt, in verband met zijn arbeidsprestatie redelijkerwijs niet kan worden gevergd, stelt de Minister op verzoek van de betrokken werkgever of werknemer danwel ambtshalve voor een daarbij aan te geven periode een lager bedrag als minimumloon voor die werknemer vast.  
+Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle geschikt is voor de door hem te verrichten arbeid dan wel op grond van een leer- of opleidingsovereenkomst werkzaam is, toekenning van het bedrag, dat krachtens de artikelen 8 tot en met 12 voor hem als minimumloon geldt, in verband met zijn arbeidsprestatie redelijkerwijs niet kan worden gevergd, stelt Onze Minister op verzoek van de betrokken werkgever of werknemer danwel ambtshalve voor een daarbij aan te geven periode een lager bedrag als minimumloon voor die werknemer vast.  
 
 ### Artikel  13  
 
 1.  Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in artikel 9, eerste lid, genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.   
-2.  (vervallen)   
-3.  Onze Minister gaat telkens na verloop van een termijn van ten hoogste drie jaar na of er omstandigheden zijn die een bijzondere wijziging wenselijk maken van de bedragen genoemd in artikel 9, eerste lid. Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in dat verband om advies vragen.   
-4.  Bij algemene maatregel van bestuur kunnen vervolgens bedragen worden vastgesteld die in de plaats treden van de bedragen, genoemd in artikel 9, eerste lid, en kan ook een leeftijd worden vastgesteld die in de plaats treedt van de in artikel 8, eerste lid, genoemde leeftijd.   
+2.  Onze Minister gaat telkens na verloop van een termijn van ten hoogste drie jaar na of er omstandigheden zijn die een bijzondere wijziging wenselijk maken van de bedragen, genoemd in artikel 9, eerste lid.   
+3.  Onze Minister kan vervolgens bedragen vaststellen die in de plaats treden van de bedragen, genoemd in artikel 9, eerste lid, en kan ook een leeftijd vaststellen die in de plaats treedt van de in artikel 8, eerste lid, genoemde leeftijd.   
+4.  Onze Minister kan het bestuurscollege van het betrokken openbaar lichaam in verband met de toepassing van het tweede of derde lid om advies vragen.   
 
 ### Hoofdstuk  IIa  
 

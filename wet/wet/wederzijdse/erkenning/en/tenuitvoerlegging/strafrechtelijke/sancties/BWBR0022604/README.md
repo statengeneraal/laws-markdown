@@ -52,7 +52,7 @@ h. opbrengst: elk economisch voordeel dat uit strafbare feiten is verkregen. Dit
 
 i. hulpmiddelen: alle voorwerpen die op enigerlei wijze, geheel of gedeeltelijk, zijn gebruikt of bestemd om te worden gebruikt om één of meer strafbare feiten te begaan;  
 
-j. cultuurgoederen: cultuurgoederen als bedoeld in [artikel 3:86a, eerste lid, BW](../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
+j. cultuurgoederen: cultuurgoederen als bedoeld in artikel 3:86a, eerste lid, BW;  
 
 k. beslissing, houdende een geldelijke sanctie: een rechterlijke uitspraak of een beschikking, waarbij een geldelijke sanctie als bedoeld in onderdeel f van dit artikel is opgelegd;  
 
@@ -138,7 +138,7 @@ a. bij rechterlijke uitspraak opgelegde geldboete;
 
 b. bij rechterlijke uitspraak opgelegde verplichting tot betaling aan de staat van een geldsom ten behoeve van het slachtoffer;  
 
-c. door de bevoegde autoriteiten bij beschikking opgelegde administratieve sanctie als bedoeld in [artikel 2 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../../../wet/wet/mulder/BWBR0004581/README.md);  
+c. door de bevoegde autoriteiten bij beschikking opgelegde administratieve sanctie als bedoeld in artikel 2 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften;  
 
 d. genomen beslissing tot confiscatie, betreffende een geldbedrag;  
 
@@ -158,7 +158,7 @@ e. genomen beslissing tot confiscatie, betreffende een specifiek voorwerp.
 
 ####(erkenning en tenuitvoerlegging)
 
-1.  Een voor erkenning vatbare beslissing, houdende een geldelijke sanctie, wordt erkend en ten uitvoer gelegd overeenkomstig het bepaalde in de [artikelen 561](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [572](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [573, eerste en tweede lid](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [574 tot en met 576 van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), tenzij in deze wet anders is bepaald.   
+1.  Een voor erkenning vatbare beslissing, houdende een geldelijke sanctie, wordt erkend en ten uitvoer gelegd overeenkomstig het bepaalde in de artikelen 561 en 572, 573, eerste en tweede lid, 574 tot en met 576 van het Wetboek van Strafvordering, tenzij in deze wet anders is bepaald.   
 2.  De officier van justitie kan de tenuitvoerlegging opschorten gedurende de periode die nodig is om de ten uitvoer te leggen beslissing te laten vertalen in de Nederlandse taal.   
 3.  Behoudens de in artikel 12 genoemde gevallen blijft de hoogte van de opgelegde geldelijke sanctie ongewijzigd.   
 
@@ -238,20 +238,20 @@ Indien de officier van justitie op grond van een van de in de artikelen 13, 13a 
 
 ####(rechtsmiddelen)
 
-1.  De veroordeelde kan zich tegen het nemen van verhaal verzetten. [Artikel 575, derde lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van toepassing, met dien verstande dat het bezwaarschrift wordt ingediend bij de arrondissementsrechtbank te Leeuwarden.   
-2.  Ten aanzien van derden die geheel of gedeeltelijk recht menen te hebben op voorwerpen waarop verhaal wordt genomen, zijn de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing.   
+1.  De veroordeelde kan zich tegen het nemen van verhaal verzetten. Artikel 575, derde lid, van het Wetboek van Strafvordering is van toepassing, met dien verstande dat het bezwaarschrift wordt ingediend bij de rechtbank Noord-Nederland.   
+2.  Ten aanzien van derden die geheel of gedeeltelijk recht menen te hebben op voorwerpen waarop verhaal wordt genomen, zijn de bepalingen van het Wetboek van Burgerlijke Rechtsvordering van toepassing.   
 
 ### Artikel  16  
 
 ####(vervangende hechtenis)
 
-1.  Indien de geldelijke sanctie is opgelegd bij rechterlijke uitspraak waarbij tevens een tot vervangende hechtenis strekkende sanctie is opgelegd, kan de rechter op vordering van de officier van justitie verlof tot tenuitvoerlegging van die vervangende hechtenis verlenen. De vordering wordt slechts ingesteld indien de veroordeelde niet aan de verplichting tot betaling van de geldelijke sanctie voldoet, volledig verhaal op grond van de [artikelen 574 tot en met 576 van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) op diens inkomsten of vermogen niet mogelijk is gebleken en de bevoegde autoriteit van de uitvaardigende lidstaat met de tenuitvoerlegging van die vervangende hechtenis heeft ingestemd.   
-2.  De vordering wordt ingesteld bij en behandeld door de raadkamer van de arrondissementsrechtbank te Leeuwarden.   
+1.  Indien de geldelijke sanctie is opgelegd bij rechterlijke uitspraak waarbij tevens een tot vervangende hechtenis strekkende sanctie is opgelegd, kan de rechter op vordering van de officier van justitie verlof tot tenuitvoerlegging van die vervangende hechtenis verlenen. De vordering wordt slechts ingesteld indien de veroordeelde niet aan de verplichting tot betaling van de geldelijke sanctie voldoet, volledig verhaal op grond van de artikelen 574 tot en met 576 van het Wetboek van Strafvordering op diens inkomsten of vermogen niet mogelijk is gebleken en de bevoegde autoriteit van de uitvaardigende lidstaat met de tenuitvoerlegging van die vervangende hechtenis heeft ingestemd.   
+2.  De vordering wordt ingesteld bij en behandeld door de raadkamer van de rechtbank Noord-Nederland.   
 3.  De officier van justitie roept de veroordeelde op voor de behandeling van de vordering. De behandeling vindt plaats in het openbaar.   
 4.  De vordering wordt niet toegewezen indien het feit waarvoor de sanctie is opgelegd, indien het in Nederland was begaan, naar Nederlands recht niet strafbaar zou zijn.   
-5.  Bij de beoordeling van de vordering houdt de raadkamer rekening met gedeeltelijke betalingen die door de veroordeelde zijn verricht en het verhaal dat reeds ingevolge de [artikelen 574 tot en met 576 van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is genomen.   
-6.  Bij toewijzing van de vordering bepaalt de raadkamer de duur van de vervangende hechtenis. [Artikel 24c, tweede tot en met vijfde lid, van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van toepassing. De duur wordt niet hoger bepaald dan het maximum dat door de bevoegde autoriteit van de uitvaardigende lidstaat is aangegeven.   
-7.  De beslissing van de raadkamer wordt aan de veroordeelde betekend. [Artikel 564 van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+5.  Bij de beoordeling van de vordering houdt de raadkamer rekening met gedeeltelijke betalingen die door de veroordeelde zijn verricht en het verhaal dat reeds ingevolge de artikelen 574 tot en met 576 van het Wetboek van Strafvordering is genomen.   
+6.  Bij toewijzing van de vordering bepaalt de raadkamer de duur van de vervangende hechtenis. Artikel 24c, tweede tot en met vijfde lid, van het Wetboek van Strafrecht is van toepassing. De duur wordt niet hoger bepaald dan het maximum dat door de bevoegde autoriteit van de uitvaardigende lidstaat is aangegeven.   
+7.  De beslissing van de raadkamer wordt aan de veroordeelde betekend. Artikel 564 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 8.  De tot vervangende hechtenis strekkende sanctie kan te allen tijde worden beëindigd door de officier van justitie. De hechtenis eindigt indien de veroordeelde alsnog volledig voldoet aan de verplichting tot betaling van de geldboete.   
 9.  Indien de vordering wordt toegewezen en de tot vervangende hechtenis strekkende sanctie ten uitvoer wordt gelegd, stelt de officier van justitie de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis.   
 
@@ -312,10 +312,10 @@ Indien de officier van justitie beslist dat de tenuitvoerlegging van de beslissi
 
 1.  Een voor erkenning vatbare beslissing tot confiscatie wordt erkend en ten uitvoer gelegd volgens Nederlands recht. Voor zover de beslissing tot confiscatie: 
 
-a. strekt tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, wordt de beslissing overeenkomstig [artikel 577b, eerste lid](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [577c van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), ten uitvoer gelegd, met dien verstande dat de raadkamer van de arrondissementsrechtbank te Leeuwarden bevoegd is de vordering tot het verlenen van verlof tot tenuitvoerlegging van lijfsdwang te behandelen;  
+a. strekt tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel, wordt de beslissing overeenkomstig artikel 577b, eerste lid, en 577c van het Wetboek van Strafvordering, ten uitvoer gelegd, met dien verstande dat de raadkamer van de rechtbank Noord-Nederland bevoegd is de vordering tot het verlenen van verlof tot tenuitvoerlegging van lijfsdwang te behandelen;  
 
-b. betrekking heeft op een specifiek voorwerp, wordt de beslissing overeenkomstig de [artikelen 577](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [577a van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) ten uitvoer gelegd, tenzij in deze wet anders is bepaald.     
-2.  Indien de beslissing tot confiscatie betrekking heeft op een specifiek voorwerp, kan de officier van justitie met de bevoegde autoriteit van de uitvaardigende lidstaat overeenkomen, dat de tenuitvoerlegging geschiedt in de vorm van een verplichting tot betaling van een bepaald geldbedrag aan de staat. In voorkomend geval zijn de [artikelen 561](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [572](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [573, eerste en tweede lid](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [574 tot en met 576 van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+b. betrekking heeft op een specifiek voorwerp, wordt de beslissing overeenkomstig de artikelen 577 en 577a van het Wetboek van Strafvordering ten uitvoer gelegd, tenzij in deze wet anders is bepaald.     
+2.  Indien de beslissing tot confiscatie betrekking heeft op een specifiek voorwerp, kan de officier van justitie met de bevoegde autoriteit van de uitvaardigende lidstaat overeenkomen, dat de tenuitvoerlegging geschiedt in de vorm van een verplichting tot betaling van een bepaald geldbedrag aan de staat. In voorkomend geval zijn de artikelen 561, 572, 573, eerste en tweede lid, en 574 tot en met 576 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 3.  Een vervangende straf of maatregel wordt slechts ten uitvoer gelegd nadat de bevoegde autoriteit in de uitvaardigende lidstaat daartoe toestemming heeft gegeven.   
 
 ### Artikel  23  
@@ -394,9 +394,10 @@ e. de beslissing tot confiscatie betrekking heeft op een specifiek voorwerp en m
 
 ####(rechtsmiddelen)
 
-1.  De veroordeelde, alsmede belanghebbenden, kunnen tegen de erkenning en tenuitvoerlegging van een beslissing tot confiscatie beroep instellen bij de arrondissementsrechtbank te Leeuwarden. Het beroep wordt ingesteld uiterlijk binnen zeven dagen, te rekenen van de dag dat de veroordeelde of belanghebbende kennis heeft gekregen van de beslissing tot erkenning en tenuitvoerlegging. De [artikelen 21 tot en met 25 van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van toepassing. Een ingesteld beroep heeft schorsende werking.   
-2.  Ten aanzien van belanghebbenden die geheel of gedeeltelijk recht menen te hebben op voorwerpen die op grond van deze wet in beslag zijn genomen, zijn de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van toepassing.   
+1.  De veroordeelde, alsmede belanghebbenden, kunnen tegen de erkenning en tenuitvoerlegging van een beslissing tot confiscatie beroep instellen bij de rechtbank Noord-Nederland. Het beroep wordt ingesteld uiterlijk binnen zeven dagen, te rekenen van de dag dat de veroordeelde of belanghebbende kennis heeft gekregen van de beslissing tot erkenning en tenuitvoerlegging. De artikelen 21 tot en met 25 van het Wetboek van Strafvordering zijn van toepassing. Een ingesteld beroep heeft schorsende werking.   
+2.  Ten aanzien van belanghebbenden die geheel of gedeeltelijk recht menen te hebben op voorwerpen die op grond van deze wet in beslag zijn genomen, zijn de bepalingen van het Wetboek van Burgerlijke Rechtsvordering van toepassing.   
 3.  Indien een rechtsmiddel wordt ingesteld tegen de erkenning en tenuitvoerlegging van een beslissing tot confiscatie, wordt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan in kennis gesteld.   
+4.  Artikel 15 is van toepassing.   
 
 ### Artikel  28  
 
@@ -411,7 +412,7 @@ b. aan de uitvaardigende lidstaat worden overgedragen;
 
 c. worden vernietigd.     
 3.  De voorwerpen worden niet verkocht of teruggegeven, indien het cultuurgoederen zijn die deel uitmaken van het Nederlandse culturele erfgoed.   
-4.  Indien de voorwerpen met toepassing van [artikel 573, eerste lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn verkregen, worden deze niet aan de uitvaardigende lidstaat overgedragen, dan nadat deze daarvoor toestemming heeft gegeven.   
+4.  Indien de voorwerpen met toepassing van artikel 573, eerste lid, van het Wetboek van Strafvordering zijn verkregen, worden deze niet aan de uitvaardigende lidstaat overgedragen, dan nadat deze daarvoor toestemming heeft gegeven.   
 5.  De minister van Justitie kan met de uitvaardigende lidstaat overeenkomen dat de geconfisqueerde voorwerpen anders worden verdeeld dan volgens het eerste en tweede lid.   
 
 ### Artikel  29  
@@ -494,17 +495,17 @@ c. de officier van justitie een geldsom ontvangt die de veroordeelde vrijwillig 
 
 ####(betekening)
 
-Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet, zijn de [artikelen 585 tot en met 590 van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van toepassing.  
+Op betekeningen, kennisgevingen en oproepingen gedaan krachtens deze wet, zijn de artikelen 585 tot en met 590 van het Wetboek van Strafvordering van toepassing.  
 
 ### Artikel  37  
 
 ####(gratie)
 
-Indien met toepassing van [artikel 558, tweede lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) gratie is verleend van een sanctie die met toepassing van de bepalingen van deze wet in Nederland is erkend en ten uitvoer wordt gelegd, wordt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis gesteld.  
+Indien met toepassing van artikel 558, tweede lid, van het Wetboek van Strafvordering gratie is verleend van een sanctie die met toepassing van de bepalingen van deze wet in Nederland is erkend en ten uitvoer wordt gelegd, wordt de bevoegde autoriteit van de uitvaardigende lidstaat hiervan onverwijld schriftelijk in kennis gesteld.  
 
 ### Artikel  38  
 
-Deze wet wordt aangehaald als: Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008.  
+Deze wet wordt aangehaald als: Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -50,7 +50,19 @@ g. maatschappelijke ondersteuning:
 
 h. huishoudelijke verzorging: het ondersteunen bij of het overnemen van activiteiten op het gebied van het verzorgen van het huishouden van een persoon dan wel van de leefeenheid waartoe een persoon behoort;  
 
-i. steunfunctiewerk: activiteiten die het uitvoeren of voorbereiden daarvan, ondersteunen van het door de gemeente te voeren beleid betreffende maatschappelijke ondersteuning.     
+i. steunfunctiewerk: activiteiten die het uitvoeren of voorbereiden daarvan, ondersteunen van het door de gemeente te voeren beleid betreffende maatschappelijke ondersteuning;  
+
+j. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+
+k. huiselijk geweld: lichamelijk, geestelijk of seksueel geweld of bedreiging daarmee door iemand uit de huiselijke kring;  
+
+l. kindermishandeling: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+
+m. steunpunt huiselijk geweld: Steunpunt Huiselijk Geweld als bedoeld in artikel 21b;  
+
+n. advies- en meldpunt kindermishandeling: stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bij de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder e, van die wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+
+o. persoonsgegevens, verwerking van persoonsgegevens, verantwoordelijke, onderscheidenlijk betrokkene: hetgeen daaronder wordt verstaan in [artikel 1 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met: 
 
 a. echtgenoot: geregistreerde partner;  
@@ -155,15 +167,31 @@ b. bij ministeriële regeling aangewezen gegevens over de prestaties van gemeent
 2.  Het college van burgemeester en wethouders verstrekt jaarlijks voor 1 juli aan Onze Minister of een door Onze Minister aangewezen instelling de in het eerste lid omschreven gegevens.   
 3.  Onze Minister draagt er zorg voor dat op basis van de door de gemeente verstrekte gegevens voor 1 januari volgend op de in het tweede lid genoemde datum een rapportage wordt opgesteld en gepubliceerd waarin de gegevens van de gemeenten worden vergeleken.   
 
+### Artikel  9a  
+
+1.  Het college van burgemeester en wethouders draagt voortdurend zorg voor de kwaliteit en de continuïteit van de maatschappelijke ondersteuning.   
+2.  Indien het college van burgemeester en wethouders het verlenen van maatschappelijke ondersteuning door derden laat verrichten of van derden zaken betrekt die in het kader van het verlenen van maatschappelijke ondersteuning aan een persoon in eigendom worden overgedragen of in bruikleen worden gegeven, waarborgt hij daarbij de kwaliteit en de continuïteit van de maatschappelijke ondersteuning.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de verplichtingen van het college van burgemeester en wethouders bedoeld in het eerste en tweede lid.   
+
 ### Artikel  10  
 
 1.  Het college van burgemeester en wethouders laat het verlenen van maatschappelijke ondersteuning zoveel mogelijk verrichten door derden.   
 2.  Het college van burgemeester en wethouders betrekt zaken die in het kader van het verlenen van maatschappelijke ondersteuning aan een persoon in eigendom worden overgedragen of in bruikleen worden gegeven, van derden, tenzij dit redelijkerwijs niet mogelijk is.   
+3.  Het eerste en tweede lid zijn niet van toepassing op het verlenen van huishoudelijke verzorging. Indien het college van burgemeester en wethouders evenwel besluit het verlenen van huishoudelijke verzorging door derden te laten verrichten, vindt dit plaats in de vorm die het college passend acht. Het college is daarbij niet verplicht tot het uitschrijven van een aanbesteding.   
 
 ### Artikel  10a  
 
 1.  Degene die in opdracht van het college van burgemeester en wethouders huishoudelijke verzorging gaat verlenen aan personen die daarop aanspraak hebben, treedt met degenen die vóór hem in opdracht van het college van burgemeester en wethouders huishoudelijke verzorging hebben verleend in overleg over de overname van het betrokken personeel.   
 2.  Het college van burgemeester en wethouders ziet erop toe dat het in het eerste lid bedoelde overleg plaatsvindt.   
+
+### Artikel  10b  
+
+1.  Het college van burgemeester en wethouders ziet er op toe dat: 
+
+a. een derde die maatschappelijke ondersteuning verleent als bedoeld in artikel 1, eerste lid, onder g, onderdeel 2°, 3°, 5°, 6° of 7°, een meldcode vaststelt, waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden;  
+
+b. indien een derde als bedoeld in het eerste lid beschikt over personeel, hij de kennis en het gebruik van die meldcode onder het personeel bevordert.     
+2.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
 
 ### Artikel  11  
 
@@ -197,16 +225,13 @@ Provinciale staten onderscheidenlijk gedeputeerde staten dragen zorg voor het vo
 ### Artikel  15  
 
 1.  De gemeenteraad kan bij verordening bepalen dat een persoon van 18 jaren of ouder aan wie maatschappelijke ondersteuning is verleend, voor zover die ondersteuning bestaat uit het verlenen van een individuele voorziening in natura of een persoonsgebonden budget waaronder de vergoeding voor een arbeidsverhouding als bedoeld in [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en niet bestaat uit een aan hem verleende financiële tegemoetkoming, een eigen bijdrage is verschuldigd.   
-2.  De hoogte van de eigen bijdrage kan voor de verschillende soorten van maatschappelijke ondersteuning verschillend worden vastgesteld en mede afhankelijk gesteld worden van het inkomen van degene aan wie maatschappelijke ondersteuning is verleend en van zijn echtgenoot.   
+2.  De hoogte van de eigen bijdrage kan voor de verschillende soorten van maatschappelijke ondersteuning verschillend worden vastgesteld en mede afhankelijk gesteld worden van het inkomen en vermogen van degene aan wie maatschappelijke ondersteuning is verleend en van zijn echtgenoot.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de eigen bijdrage.   
+4.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het derde lid, die betrekking heeft op het in het tweede lid bedoelde vermogen, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.   
 
 ### Artikel  16  
 
-Een eigen bijdrage wordt vastgesteld en geïnd door een door Onze Minister aan te wijzen rechtspersoon.  
-
-### Artikel  17  
-
-Indien naar het oordeel van Onze Minister de rechtspersoon, bedoeld in artikel 16, zijn in dat artikel omschreven taak niet langer naar behoren verricht, kan Onze Minister bepalen dat de bevoegdheden die met die taak verband houden niet langer aan die rechtspersoon toekomen. De betrokken bevoegdheden gaan in dat geval over op Onze Minister.  
+Een eigen bijdrage wordt vastgesteld en geïnd door het CAK.  
 
 ### Artikel  18  
 
@@ -222,8 +247,9 @@ b. in hun contacten met de personen en instanties voor zover deze zelf gemachtig
 
 ### Artikel  19  
 
-1.  De hoogte van de financiële tegemoetkomingen kan voor de verschillende soorten van maatschappelijke ondersteuning verschillend worden vastgesteld en mede afhankelijk gesteld worden van het inkomen van degene aan wie maatschappelijke ondersteuning is verleend en van zijn echtgenoot.   
+1.  De hoogte van de financiële tegemoetkomingen kan voor de verschillende soorten van maatschappelijke ondersteuning verschillend worden vastgesteld en mede afhankelijk gesteld worden van het inkomen en vermogen van degene aan wie maatschappelijke ondersteuning is verleend en van zijn echtgenoot.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de financiële tegemoetkomingen.   
+3.  De voordracht voor de algemene maatregel van bestuur als bedoeld in het tweede lid, die betrekking heeft op het in het eerste lid bedoelde vermogen, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Indien een der kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.   
 
 ### §  6  
 
@@ -282,6 +308,103 @@ f. de betaling, de terugvordering van de uitkering alsmede het verlenen van voor
 1.  Onze Minister kan aan gemeenten een uitkering verstrekken ten behoeve van de stimulering van de maatschappelijke ondersteuning.   
 2.  Artikel 20, derde lid, is van toepassing.   
 
+### §  8a  
+
+####Huishoudelijke verzorging
+
+### Artikel  21a  
+
+1.  De gemeenteraad stelt basistarieven vast voor het verlenen van huishoudelijke verzorging.   
+2.  De basistarieven worden vastgesteld: 
+
+a. op basis van reële kostprijzen van de onderscheidenlijke vormen van huishoudelijke verzorging; en  
+
+b. uitgaande van inzet van personeel door de aanbieder tegen arbeidsvoorwaarden die passen bij de vereiste vaardigheden benodigd voor het leveren van huishoudelijke verzorging.     
+3.  Het college van burgemeester en wethouders neemt bij het aangaan van overeenkomsten met derden over het verlenen van huishoudelijke verzorging de door de gemeenteraad vastgestelde basistarieven in acht.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vaststelling van de in het eerste lid bedoelde basistarieven en de in het tweede lid bedoelde arbeidsvoorwaarden.   
+5.  Het ontwerp van een krachtens het vierde lid vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.   
+
+### §  8b  
+
+####Steunpunt huiselijk geweld
+
+### Artilel  21b  
+
+1.  Het college van burgemeester en wethouders van elk van de bij algemene maatregel van bestuur aangewezen gemeenten draagt zorg voor de organisatie van een steunpunt huiselijk geweld, ten behoeve van die gemeente en de omliggende regio.   
+2.  Een steunpunt huiselijk geweld oefent de volgende taken uit: 
+
+a. het fungeren als meldpunt voor gevallen of vermoedens van huiselijk geweld;  
+
+b. het in kennis stellen van een instantie die passende professionele hulp kan verlenen bij huiselijk geweld, van een melding van huiselijk geweld of een vermoeden daarvan, indien het belang van de betrokkene dan wel de ernst van de situatie waarop de melding betrekking heeft daartoe aanleiding geeft;  
+
+c. het in kennis stellen van de politie van een melding van huiselijk geweld of een vermoeden daarvan, indien het belang van de betrokkene dan wel de ernst van de situatie waarop de melding betrekking heeft daartoe aanleiding geeft;  
+
+d. het in kennis stellen van het advies- en meldpunt kindermishandeling van een melding van huiselijk geweld of een vermoeden daarvan, als er kinderen in het gezin zijn;  
+
+e. het op de hoogte stellen van degene die een melding heeft gedaan, van de stappen die naar aanleiding van de melding zijn ondernomen.     
+3.  Het steunpunt huiselijk geweld verstrekt aan degene die een vermoeden van huiselijk geweld heeft, desgevraagd advies over de stappen die in verband daarmee kunnen worden ondernomen en verleent daarbij zo nodig ondersteuning.   
+4.  Het college van burgemeester en wethouders van elk van de bij algemene maatregel van bestuur aangewezen gemeenten bevordert een goede samenwerking tussen het steunpunt huiselijk geweld en het advies- en meldpunt kindermishandeling, de hulpverlenende instanties en de politie.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de werkwijze van een steunpunt huiselijk geweld bij de uitoefening van de taken, bedoeld in het tweede en derde lid, en over de deskundigheid waarover een steunpunt huiselijk geweld moet beschikken om een verantwoorde uitvoering van zijn taken te kunnen realiseren.   
+
+### Artikel  21c  
+
+Het steunpunt huiselijk geweld verwerkt persoonsgegevens ten behoeve van de goede vervulling van de taken, bedoeld in artikel 21b, tweede en derde lid. Het steunpunt huiselijk geweld is de verantwoordelijke voor deze verwerking.  
+
+### Artikel  21d  
+
+1.  Een steunpunt huiselijk geweld kan zonder toestemming van degene die het betreft persoonsgegevens uitsluitend verwerken indien dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid.   
+2.  Een steunpunt huiselijk geweld kan zonder toestemming van degene die het betreft bijzondere persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uitsluitend verwerken indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld kan worden afgeleid en dit noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid.   
+3.  Derden die op grond van een wettelijk voorschrift of op grond van hun ambt of beroep tot geheimhouding zijn verplicht kunnen, zonder toestemming van degene die het betreft, aan een steunpunt huiselijk geweld desgevraagd of uit eigen beweging inlichtingen verstrekken waarover zij beroepshalve beschikken, indien dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden van huiselijk geweld te onderzoeken.   
+
+### Artikel  21e  
+
+1.  Het college van burgemeester en wethouders verstrekt een steunpunt huiselijk geweld op zijn verzoek terstond de algemene gegevens, bedoeld in [artikel 34, eerste lid, onder a, onderdelen 1 tot en met 6 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), die noodzakelijk zijn voor de uitvoering van de taken, bedoeld in artikel 21b, tweede lid.   
+2.  In afwijking van [artikel 103, eerste en tweede lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) doet het college van burgemeester en wethouders geen mededeling aan de betrokkene of degene die namens deze daarom verzoekt, over de verstrekking van hem betreffende gegevens uit de gemeentelijke basisadministratie aan het steunpunt, voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of een redelijk vermoeden daarvan te onderzoeken. Voor wat betreft de toepassing van [artikel 110 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) heeft het achterwege blijven van een mededeling als hier bedoeld dezelfde gevolgen als het achterwege blijven van een mededeling ingevolge artikel 103, derde lid, van de Wet gemeentelijke basisadministratie persoonsgegevens.   
+
+### Artikel  21f  
+
+1.  Indien aan een steunpunt huiselijk geweld bij de uitoefening van de taken, bedoeld in artikel 21b, tweede lid, persoonsgegevens worden verstrekt door een ander dan de betrokkene, brengt hij, in afwijking van [artikel 34, eerste lid, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), de betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.   
+2.  De in het eerste lid genoemde termijn kan door het steunpunt huiselijk geweld telkens met ten hoogste twee weken worden verlengd, voor zover dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid, en dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
+3.  In afwijking van [artikel 35 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) kan een steunpunt huiselijk geweld de mededeling als bedoeld in dat artikel aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
+4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die het huiselijk geweld of het vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven.   
+
+### Artikel  21g  
+
+1.  Het steunpunt huiselijk geweld verstrekt aan een betrokkene desgevraagd zo spoedig mogelijk inzage in en afschrift van de bescheiden waarover deze met betrekking tot die betrokkene beschikt.   
+2.  Inzage in of afschrift van de bescheiden wordt aan de betrokkene geweigerd, indien deze: 
+
+a. jonger dan twaalf jaren is, of  
+
+b. de leeftijd van twaalf jaren heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.     
+3.  Indien de betrokkene jonger is dan zestien jaren, of de leeftijd van zestien jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, worden desgevraagd aan de wettelijke vertegenwoordiger inlichtingen dan wel inzage in of afschrift van de bescheiden verstrekt, tenzij het belang van de betrokkene zich daartegen verzet.   
+4.  Inlichtingen over, inzage in of afschrift van bescheiden kan worden geweigerd, voor zover de persoonlijke levenssfeer van een ander dan de betrokkene daardoor zou worden geschaad dan wel dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 21b, tweede lid, of om een situatie van huiselijk geweld te beëindigen dan wel een redelijk vermoeden daarvan te onderzoeken.   
+5.  Voor de verstrekking van een afschrift kan een vergoeding worden gevraagd overeenkomstig de krachtens [artikel 39 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) gestelde regels.   
+
+### Artikel  21h  
+
+1.  Onverminderd het bij of krachtens de wet bepaalde, verstrekt een steunpunt huiselijk geweld aan anderen dan de betrokkene geen inlichtingen over de betrokkene, dan wel inzage in of afschrift van de bescheiden dan met toestemming van de betrokkene.   
+2.  Indien de betrokkene minderjarig is, is in plaats van diens toestemming de toestemming van zijn wettelijke vertegenwoordiger vereist, indien hij: 
+
+a. jonger is dan twaalf jaren, of  
+
+b. de leeftijd van twaalf jaren heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.     
+3.  Onder anderen dan de betrokkene zijn niet begrepen degenen van wie beroepshalve de medewerking vereist is bij de uitvoering van de taken, bedoeld in artikel 21b, tweede lid, door het steunpunt huiselijk geweld.   
+
+### Artikel  21i  
+
+Onverminderd artikel 21j bewaart het steunpunt huiselijk geweld bescheiden die deze met betrekking tot een betrokkene onder zich heeft gedurende vijftien jaren, te rekenen van het tijdstip van ontvangst of waarop zij door het steunpunt huiselijk geweld zijn vervaardigd, of zoveel langer als redelijkerwijs in verband met een zorgvuldige uitvoering van de taken, bedoeld in artikel 21b, tweede lid, noodzakelijk is.  
+
+### Artikel  21j  
+
+1.  Het steunpunt huiselijk geweld vernietigt de door hem bewaarde bescheiden binnen drie maanden na een daartoe strekkend schriftelijk verzoek van degene op wie de bescheiden betrekking hebben.   
+2.  Het eerste lid geldt niet voor zover het verzoek bescheiden betreft waarvan redelijkerwijs aannemelijk is dat de bewaring van aanmerkelijk belang is voor een ander dan de verzoeker alsmede voor zover het bepaalde bij of krachtens de wet zich tegen vernietiging verzet.   
+3.  Het verzoek wordt niet ingewilligd indien het gedaan is door iemand die: 
+
+a. jonger is dan twaalf jaren, of  
+
+b. minderjarig is en de leeftijd van twaalf jaren heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.     
+4.  In de gevallen, bedoeld in het derde lid, kan het verzoek door een wettelijke vertegenwoordiger worden gedaan.   
+
 ### §  9  
 
 ####Gegevensverstrekking
@@ -297,7 +420,7 @@ De rijksbelastingdienst verstrekt:
 
 a. het college van burgemeester en wethouders de persoonsgegevens die voor het college noodzakelijk zijn voor de uitvoering van artikel 19, en  
 
-b. de rechtspersoon, bedoeld in artikel 16, de persoonsgegevens die voor die rechtspersoon noodzakelijk zijn voor de uitvoering van artikel 16.    
+b. het CAK de persoonsgegevens die voor het CAK noodzakelijk zijn voor de uitvoering van artikel 16.    
 
 ### §  10  
 

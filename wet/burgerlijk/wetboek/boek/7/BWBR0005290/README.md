@@ -1392,7 +1392,7 @@ Onder huurcommissie wordt verstaan de huurcommissie bedoeld in artikel 3a van de
 
 ### Artikel  239  
 
-Onder Onze Minister wordt verstaan de Minister voor Wonen, Wijken en Integratie.  
+Onder Onze Minister wordt verstaan Onze Minister voor Wonen en Rijksdienst.  
 
 ### Artikel  240  
 
@@ -1448,7 +1448,7 @@ b. die overeenkomst betrekking heeft op een woning die is totstandgekomen op of 
 
 ### Artikel  248  
 
-1.  De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de artikelen 252 en 253. Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252 en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.   
+1.  De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de artikelen 252, 252a en 253. Gedurende het bestaan van een dergelijk beding is toepassing van de artikelen 252, 252a en 253 uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.   
 2.  Leidt toepassing van een beding als bedoeld in lid 1 tot verhoging van de huurprijs met een hoger percentage dan het door Onze Minister vastgestelde maximale huurverhogingspercentage als bedoeld in artikel 10 lid 2 van de Uitvoeringswet huurprijzen woonruimte, dan is het beding nietig voorzover zij tot dit hogere percentage leidt en geldt de huurprijs als verhoogd met het door Onze Minister vastgestelde maximale huurverhogingspercentage.   
 
 ### Artikel  249  
@@ -1457,14 +1457,14 @@ De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met
 
 ### Artikel  250  
 
-1.  De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de artikelen 252 en 253: 
+1.  De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de artikelen 252, 252a en 253: 
 
 a. gedurende het eerste tijdvak van twaalf maanden na de dag van ingang van de huur ten hoogste eenmaal, en  
 
 b. telkens tegen het einde van elkaar opvolgende tijdvakken van twaalf maanden na hetzij het ingaan van de onder a bedoelde verhoging, hetzij bij gebreke van zodanige verhoging de dag van ingang van de huur.     
 2.  Een verhoging van de huurprijs krachtens lid 1 is niet mogelijk, zolang er tussen huurder en verhuurder geen overeenstemming is dat de, bij toepassing van de artikelen 12 en 16 van de Uitvoeringswet huurprijzen woonruimte, geconstateerde gebreken ten aanzien van de woonruimte zijn opgeheven.   
 3.  In afwijking van lid 1 kan de huurprijs worden verhoogd tegen het einde van een tijdvak dat even zoveel korter dan twaalf maanden is als het daaraan voorafgaande tijdvak langer dan twaalf maanden is geweest.   
-4.  De huurprijs kan op verzoek van de huurder worden verlaagd op de wijze voorgeschreven in de artikelen 252 en 254.   
+4.  De huurprijs kan op verzoek van de huurder worden verlaagd op de wijze voorgeschreven in de artikelen 252, 252b en 254.   
 
 ### Artikel  251  
 
@@ -1487,17 +1487,56 @@ e. de wijze waarop en het tijdvak waarbinnen de huurder, wanneer hij bezwaren he
 3.  Voor het doen van een voorstel tot verlaging van de huurprijs dient een waardering van de kwaliteit van de woonruimte als bedoeld in artikel 10 lid 1 van de Uitvoeringswet huurprijzen woonruimte te worden verstrekt.   
 4.  Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 1 en lid 2 aanhef en onder b, d of e dan wel aan het in lid 3 bepaalde, blijft de voordien geldende huurprijs verschuldigd, tenzij blijkt dat degene tot wie het voorstel was gericht niet door het verzuim is benadeeld.   
 
+### Artikel  252a  
+
+1.  Een verhuurder kan ten aanzien van woonruimte die een zelfstandige woning vormt een voorstel als bedoeld in artikel 252 doen, strekkend tot verhoging van de huurprijs op de grond dat het huishoudinkomen over het peiljaar: 
+
+a. hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag doch lager is dan of gelijk is aan het in onderdeel b van dat lid genoemde bedrag, of  
+
+b. hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel b van die wet genoemde bedrag.     
+2.  In dit artikel wordt verstaan onder: 
+
+a. *basisregistratie inkomen:* basisregistratie inkomen als bedoeld in hoofdstuk IVA van de Algemene wet inzake rijksbelastingen;  
+
+b. *huishoudinkomen:* het gezamenlijke bedrag van de inkomensgegevens, bedoeld in artikel 21 onderdeel e van de Algemene wet inzake rijksbelastingen, van de huurder en de overige bewoners van een woonruimte, met dien verstande dat van een overige bewoner die op 1 januari van het jaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen de leeftijd van 23 jaar nog niet heeft bereikt het bedrag van het inkomensgegeven slechts in aanmerking wordt genomen voor zover dat meer bedraagt dan de uitkomst van 108% van het twaalfvoud van het bedrag per maand, bedoeld in artikel 8 lid 1 onderdeel a van de Wet minimumloon en minimumvakantiebijslag, als geldend op 1 januari van het peiljaar;  
+
+c. *inspecteur:* functionaris van de rijksbelastingdienst die als zodanig bij regeling van Onze Minister van Financiën is aangewezen;  
+
+d. *peiljaar:* tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de voorgestelde dag van ingang van de voorgestelde huurprijs is gelegen.     
+3.  Indien een voorstel als bedoeld in lid 1 wordt gedaan, wordt bij het voorstel een door de inspecteur op verzoek van die verhuurder aan deze afgegeven verklaring gevoegd.   
+4.  De verklaring bedoeld in lid 3 vermeldt het gegeven of op de door de verhuurder aangeduide plaats van de woonruimte op basis van gegevens uit de basisregistratie inkomen op het moment van behandeling van het verzoek van de verhuurder aan de inspecteur, te verwachten is dat van degene of degenen die daar volgens de registratie van de rijksbelastingdienst woont of wonen het huishoudinkomen over het peiljaar lager is dan of gelijk is aan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, dan wel hoger is dan dat bedrag doch lager is dan of gelijk is aan het in dat onderdeel laatstgenoemde bedrag, dan wel hoger is dan dat bedrag. De verklaring vermeldt voorts, indien dat huishoudinkomen hoger is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, het aantal personen waarop dat huishoudinkomen is gebaseerd. Indien geen inkomensgegeven in de basisregistratie inkomen beschikbaar is, vermeldt de verklaring dat dat het geval is. Bij regeling van Onze Minister van Financiën worden nadere regels gesteld ter uitvoering van dit lid en omtrent het kunnen doen van een verzoek, het verzoek zelf, de verstrekking van de verklaring, alsmede ten aanzien van de verhuurder.   
+5.  Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 3, is de verhoging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de huurder niet door het verzuim is benadeeld.   
+6.  Een overeenkomst tot wijziging van de huurprijs: 
+
+a. als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdelen a en b komt niet tot stand indien de huurder kan aantonen dat hij of een ander lid van het huishouden deel uitmaakt van een bij regeling van Onze Minister te bepalen groep;  
+
+b. als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdeel a komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, en  
+
+c. als gevolg van een voorstel als bedoeld in lid 1 aanhef en onderdeel b komt niet tot stand indien de huurder kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in onderdeel b van die volzin genoemde bedrag. Dat voorstel wordt aangemerkt als een voorstel als bedoeld in lid 1 aanhef en onderdeel a, tenzij de huurder tevens kan aantonen dat het huishoudinkomen in het kalenderjaar na het peiljaar gelijk is aan of lager is dan het in onderdeel a van die volzin eerstgenoemde bedrag.     
+
+### Artikel  252b  
+
+1.  Onverminderd het bepaalde in artikel 252a lid 6 kan een huurder ten aanzien van woonruimte die een zelfstandige woning vormt en ten aanzien waarvan een verhoging van de huurprijs op basis van artikel 252a lid 1 heeft plaatsgevonden, een voorstel als bedoeld in artikel 252 doen, strekkend tot verlaging van de huurprijs op de grond dat het huishoudinkomen, bedoeld in artikel 252a lid 2 onderdeel b, waarop een zodanige verhoging is gebaseerd, is gedaald en daarmee: 
+
+a. gelijk is aan of lager is dan het in artikel 14 lid 1 van de Wet op de huurtoeslag betrokken genoemde bedrag,  
+
+b. gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel a van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, of  
+
+c. hoger is dan het in onderdeel b bedoelde bedrag, doch gelijk is aan of lager is dan het in artikel 10 lid 2 eerste volzin onderdeel b van die wet genoemde bedrag.     
+2.  Indien een voorstel als bedoeld in lid 1 wordt gedaan, verstrekt de huurder gegevens met betrekking tot de betrokken huishoudinkomens. Bij regeling van Onze Minister wordt bepaald welke gegevens de huurder verstrekt.   
+3.  Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 2, is de verlaging van de huurprijs op basis van een voorstel als bedoeld in lid 1 niet mogelijk, tenzij blijkt dat de verhuurder niet door het verzuim is benadeeld.   
+
 ### Artikel  253  
 
-1.  Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel.   
-2.  De huurder kan de huurcommissie binnen drie maanden na het in lid 1 bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien: 
+1.  Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. Indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan, en de verklaring, bedoeld in de eerste volzin, betrekking heeft op het huishoudinkomen, verzoekt de verhuurder aan de inspecteur om een tweede verklaring als bedoeld in artikel 252a lid 4. Indien een verzoek als bedoeld in de eerste volzin wordt gedaan, legt de verhuurder daarbij tevens de tweede verklaring over.   
+2.  De huurder kan de huurcommissie binnen drie maanden na het in lid 1 eerste volzin bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien: 
 
-a. hij noch vóór het in lid 1 bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en  
+a. hij noch vóór het in lid 1 eerste volzin bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en  
 
-b. de verhuurder hem binnen zes weken na het in lid 1 bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt.   De huurder legt bij dit verzoek een afschrift over van het voorstel en van dat schrijven.   
+b. de verhuurder hem binnen zes weken na het in lid 1 eerste volzin bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt.   De huurder legt bij dit verzoek een afschrift over van het voorstel, van dat schrijven en, indien de verhuurder een voorstel als bedoeld in artikel 252a lid 1 heeft gedaan en het huishoudinkomen voorwerp van geschil is, gegevens met betrekking tot dat huishoudinkomen. Lid 1 derde volzin is van overeenkomstige toepassing.   
 3.  De huurder wordt geacht de voorgestelde verhoging van de huurprijs met ingang van de in het voorstel genoemde datum van ingang met de verhuurder te zijn overeengekomen indien hij, na ontvangst van het in het tweede lid bedoelde schrijven, niet binnen drie maanden na die datum van ingang een verzoek tot de huurcommissie heeft gericht.   
 4.  Indien de huurder het in het tweede lid bedoelde verzoek doet, stelt de huurcommissie de verhuurder daarvan onverwijld in kennis.   
-5.  Indien de verhuurder een voorstel als bedoeld in artikel 252 lid 1 aanhef bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.   
+5.  Indien de verhuurder een voorstel als bedoeld in artikel 252 lid 1 aanhef of artikel 252a lid 1 bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 eerste volzin bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.   
 
 ### Artikel  254  
 
@@ -5271,47 +5310,59 @@ Indien een ontbinding van een vaststellingsovereenkomst wegens een tekortkoming 
 
 ### Artikel  907  
 
-1.  Een overeenkomst strekkende tot vergoeding van schade die is veroorzaakt door een gebeurtenis of gelijksoortige gebeurtenissen, gesloten door een stichting of vereniging met volledige rechtsbevoegdheid met één of meer andere partijen, die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op gezamenlijk verzoek van de partijen die de overeenkomst hebben gesloten verbindend worden verklaard voor personen aan wie de schade is veroorzaakt, mits de stichting of vereniging de belangen van deze personen ingevolge haar statuten behartigt. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.   
+1.  Een overeenkomst strekkende tot vergoeding van schade die is veroorzaakt door een gebeurtenis of gelijksoortige gebeurtenissen, gesloten door één of meer stichtingen of verenigingen met volledige rechtsbevoegdheid met één of meer andere partijen, die zich bij deze overeenkomst hebben verbonden tot vergoeding van deze schade, kan door de rechter op gezamenlijk verzoek van deze stichtingen, verenigingen en andere partijen verbindend worden verklaard voor personen aan wie de schade is veroorzaakt, mits de stichtingen of verenigingen de belangen van deze personen ingevolge hun statuten behartigen. Onder personen aan wie de schade is veroorzaakt worden mede begrepen personen die een vordering ter zake van deze schade onder algemene of bijzondere titel hebben verkregen.   
 2.  De overeenkomst bevat in ieder geval: 
 
-a. een omschrijving van de groep dan wel groepen van personen ten behoeve van wie de overeenkomst is gesloten, naar gelang van de aard en de ernst van hun schade;  
+a. een omschrijving van de gebeurtenis of de gebeurtenissen waarop de overeenkomst betrekking heeft;  
 
-b. een zo nauwkeurig mogelijke aanduiding van het aantal personen dat tot deze groep of groepen behoort;  
+b. een omschrijving van de groep dan wel groepen van personen ten behoeve van wie de overeenkomst is gesloten, naar gelang van de aard en de ernst van hun schade;  
 
-c. de vergoeding die aan deze personen wordt toegekend;  
+c. een zo nauwkeurig mogelijke aanduiding van het aantal personen dat tot deze groep of groepen behoort;  
 
-d. de voorwaarden waaraan deze personen moeten voldoen om voor die vergoeding in aanmerking te komen;  
+d. de vergoeding die aan deze personen wordt toegekend;  
 
-e. de wijze waarop de vergoeding wordt vastgesteld en kan worden verkregen;  
+e. de voorwaarden waaraan deze personen moeten voldoen om voor die vergoeding in aanmerking te komen;  
 
-f. de naam en de woonplaats van degene aan wie de in artikel 908 leden 2 en 3 bedoelde schriftelijke mededeling kan worden gedaan.     
+f. de wijze waarop de vergoeding wordt vastgesteld en kan worden verkregen;  
+
+g. de naam en de woonplaats van degene aan wie de in artikel 908 leden 2 en 3 bedoelde schriftelijke mededeling kan worden gedaan.     
 3.  De rechter wijst het verzoek af indien: 
 
 a. de overeenkomst niet aan lid 2 voldoet;  
 
 b. de hoogte van de toegekende vergoedingen niet redelijk is, mede gelet op de omvang van de schade, de eenvoud en snelheid waarmee de vergoedingen verkregen kunnen worden en de mogelijke oorzaken van de schade;  
 
-c. onvoldoende zekerheid is gesteld voor de voldoening van de vorderingen van degenen ten behoeve van wie de overeenkomst is gesloten;  
+c. onvoldoende zeker is dat uit de overeenkomst voortvloeiende rechten van de personen ten behoeve van wie de overeenkomst is gesloten, kunnen worden nagekomen;  
 
-d. de overeenkomst niet voorziet in een onafhankelijke vaststelling van de vergoedingen ingevolge de overeenkomst;  
+d. de overeenkomst niet voorziet in de mogelijkheid van een onafhankelijke beslechting van geschillen die uit de overeenkomst kunnen voortvloeien door een ander dan de rechter die volgens de wet bevoegd zou zijn;  
 
 e. de belangen van de personen ten behoeve van wie de overeenkomst is gesloten anderszins onvoldoende gewaarborgd zijn;  
 
-f. de stichting of vereniging, bedoeld in lid 1 niet voldoende representatief is ter zake van de belangen van degenen ten behoeve van wie de overeenkomst is gesloten;  
+f. de in lid 1 bedoelde stichtingen of verenigingen niet voldoende representatief zijn ter zake van de belangen van degenen ten behoeve van wie de overeenkomst is gesloten;  
 
 g. de groep van personen ten behoeve van wie de overeenkomst is gesloten van onvoldoende omvang is om een verbindendverklaring te rechtvaardigen;  
 
 h. er een rechtspersoon is die ingevolge de overeenkomst de vergoedingen verstrekt, en deze geen partij is bij de overeenkomst.     
-4.  De rechter kan alvorens te beslissen partijen gelegenheid geven de overeenkomst aan te vullen of te wijzigen.   
-5.  Het verzoek, bedoeld in lid 1, stuit de verjaring van een rechtsvordering tot vergoeding van schade tegen de personen die partij zijn bij de overeenkomst, voorzover de overeenkomst in de vergoeding van deze schade voorziet. Indien het verzoek onherroepelijk is toegewezen, begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag, volgende op die waarop definitief is beslist welke vergoeding wordt toegekend. Voorts begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag volgende op die waarop een mededeling als bedoeld in artikel 908 lid 2 is gedaan. Indien het verzoek niet tot toewijzing leidt, begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag, volgende op die waarop dit onherroepelijk vaststaat. Indien de overeenkomst ingevolge artikel 908 lid 4 wordt opgezegd, begint een nieuwe verjaringstermijn te lopen met de aanvang van de dag, volgende op die waarop dit overeenkomstig dat lid plaatsvindt. [Artikel 319 lid 2 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van toepassing.   
+4.  De rechter kan alvorens te beslissen de overeenkomst met instemming van partijen die de overeenkomst hebben gesloten aanvullen of wijzigen of die partijen de gelegenheid geven de overeenkomst aan te vullen of te wijzigen. De rechter vermeldt de aanvulling of wijziging in de beschikking tot verbindendverklaring.   
+5.  Het verzoek, bedoeld in lid 1, stuit de verjaring van een rechtsvordering tot vergoeding van schade tegen de personen die zich bij de overeenkomst hebben verbonden tot vergoeding van deze schade. Een nieuwe verjaringstermijn van twee jaren begint te lopen met de aanvang van de dag, volgende op die waarop 
+
+a. definitief is beslist welke vergoeding wordt toegekend;  
+
+b. de in artikel 908 lid 2 bedoelde termijn is verstreken nadat een gerechtigde binnen die termijn een in dat lid bedoelde mededeling heeft gedaan;  
+
+c. onherroepelijk vaststaat dat het verzoek niet tot toewijzing leidt;  
+
+d. de overeenkomst overeenkomstig artikel 908 lid 4 wordt opgezegd.     
 6.  De overeenkomst kan bepalen dat een recht op vergoeding ingevolge de overeenkomst vervalt indien een gerechtigde tot een vergoeding niet binnen een termijn van ten minste één jaar na de aanvang van de dag, volgende op die waarop hij met de opeisbaarheid van zijn vergoeding bekend is geworden, daarop aanspraak heeft gemaakt.   
+7.  Dit artikel en de artikelen 908 tot en met 910 zijn van overeenkomstige toepassing op overeenkomsten die voor personen die door een gebeurtenis of gelijksoortige gebeurtenissen zijn benadeeld, een recht scheppen om een andere dan de in lid 1 bedoelde prestatie te vorderen of op een andere wijze een beroep op de overeenkomst te doen.   
+8.  De personen ten behoeve van wie de overeenkomst is gesloten zijn bevoegd om gedurende de tijd dat het verzoek in behandeling is en zolang daarop niet onherroepelijk is beslist, de nakoming van op hun rustende verbintenissen op te schorten voor zover de overeenkomst voorziet in de beëindiging van een geschil daaromtrent.   
 
 ### Artikel  908  
 
-1.  Zodra het verzoek tot verbindendverklaring onherroepelijk is toegewezen heeft de overeenkomst, bedoeld in artikel 907, tussen partijen en de gerechtigden tot een vergoeding de gevolgen van een vaststellingsovereenkomst waarbij ieder der gerechtigden als partij geldt.   
-2.  De verbindendverklaring heeft geen gevolg ten aanzien van een gerechtigde tot een vergoeding die binnen een door de rechter te bepalen termijn van ten minste drie maanden na de in [artikel 1017 lid 3 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde aankondiging van de beschikking door een schriftelijke mededeling aan de in artikel 907 lid 2, onder f, bedoelde persoon heeft laten weten niet gebonden te willen zijn.   
+1.  Zodra het verzoek tot verbindendverklaring is toegewezen heeft de overeenkomst, bedoeld in artikel 907, tussen partijen en de gerechtigden tot een vergoeding de gevolgen van een vaststellingsovereenkomst waarbij ieder der gerechtigden als partij geldt.   
+2.  De verbindendverklaring heeft geen gevolg ten aanzien van een gerechtigde tot een vergoeding die binnen een door de rechter te bepalen termijn van ten minste drie maanden na de in [artikel 1017 lid 3 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde aankondiging van de beschikking door een schriftelijke mededeling aan de in artikel 907 lid 2, onder f, bedoelde persoon heeft laten weten niet gebonden te willen zijn. De rechter kan het de partijen die de overeenkomst hebben gesloten, toestaan, dat de gerechtigden tot een vergoeding verzocht worden om met de in de eerste zin bedoelde mededeling nadere gegevens te verstrekken. Indien de in de tweede zin bedoelde gegevens niet worden verstrekt, dan wel onjuist of onvolledig zijn, tast dat niet de geldigheid aan van de in de eerste zin bedoelde mededeling.   
 3.  Voor een gerechtigde tot een vergoeding die bij de in lid 2 bedoelde aankondiging niet met zijn schade bekend kon zijn heeft een verbindendverklaring geen gevolg indien hij na het bekend worden van zijn schade door een schriftelijke mededeling aan de in artikel 907 lid 2, onder f, bedoelde persoon heeft laten weten niet gebonden te willen zijn. Een partij die zich bij de overeenkomst heeft verbonden tot vergoeding van schade kan een gerechtigde tot een vergoeding als bedoeld in de eerste zin schriftelijk een termijn van ten minste zes maanden stellen waarbinnen deze kan laten weten niet gebonden te willen zijn. Daarbij wordt tevens mededeling gedaan van de naam en de woonplaats van de in artikel 907 lid 2, onder f, bedoelde persoon.   
-4.  Een beding dat een partij bij de overeenkomst ten nadele van de gerechtigden tot een vergoeding van een verbintenis bevrijdt is na een verbindendverklaring nietig, tenzij het de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van de schade gezamenlijk de bevoegdheid geeft om uiterlijk binnen zes maanden na verloop van de in lid 2 bedoelde door de rechter te bepalen termijn de overeenkomst op te zeggen op de grond dat de verbindendverklaring voor te weinig gerechtigden tot een vergoeding gevolgen heeft. Opzegging vindt in dat geval plaats door aankondiging in twee nieuwsbladen en door een schriftelijke mededeling aan de stichting of vereniging, bedoeld in artikel 907 lid 1. De partijen die de overeenkomst hebben opgezegd dragen er zorg voor dat daarvan zo spoedig mogelijk schriftelijk mededeling wordt gedaan aan de bekende gerechtigden tot een vergoeding, waarbij de partijen zich kunnen houden aan de laatste hen bekende woonplaatsen van de gerechtigden tot een vergoeding.   
+4.  Een beding dat een partij bij de overeenkomst ten nadele van de gerechtigden tot een vergoeding van een verbintenis bevrijdt is na een verbindendverklaring nietig, tenzij het de partijen op wie een verplichting tot vergoeding van de schade rust gezamenlijk de bevoegdheid geeft om uiterlijk binnen zes maanden na verloop van de in lid 2 bedoelde door de rechter te bepalen termijn de overeenkomst op te zeggen op de grond dat de verbindendverklaring voor te weinig gerechtigden tot een vergoeding gevolgen heeft of op een andere in de overeenkomst vermelde grond onvoldoende gevolgen heeft. Opzegging vindt in dat geval plaats door aankondiging in twee nieuwsbladen en door een schriftelijke mededeling aan de stichting of vereniging, bedoeld in artikel 907 lid 1. De partijen die de overeenkomst hebben opgezegd dragen er zorg voor dat daarvan zo spoedig mogelijk schriftelijk mededeling wordt gedaan aan de bekende gerechtigden tot een vergoeding, waarbij de partijen zich kunnen houden aan de laatste hen bekende woonplaatsen van de gerechtigden tot een vergoeding.   
 5.  Nadat de overeenkomst verbindend is verklaard kunnen de partijen die de overeenkomst hebben gesloten zich niet beroepen op de vernietigingsgronden als bedoeld in de [artikelen 44 lid 3 van Boek 3](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [228 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), en kan een gerechtigde tot een vergoeding zich niet beroepen op de vernietigingsgrond als bedoeld in artikel 904 lid 1.   
 
 ### Artikel  909  
@@ -5325,7 +5376,7 @@ h. er een rechtspersoon is die ingevolge de overeenkomst de vergoedingen verstre
 ### Artikel  910  
 
 1.  Zijn naast de partij of partijen die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, andere schuldenaren hoofdelijk aansprakelijk, dan is [artikel 14 van Boek 6](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van overeenkomstige toepassing. Tenzij van een andere bedoeling blijkt, wordt de overeenkomst geacht mede een beding in te houden als in die bepaling bedoeld.   
-2.  Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst hebben voldaan door betaling van een in de overeenkomst vastgesteld bedrag en er na voldoening van de gerechtigden tot een vergoeding een restant is overgebleven, kan deze partij, of kunnen deze partijen gezamenlijk de rechter die de overeenkomst verbindend heeft verklaard, verzoeken om degene die deze gelden beheert te bevelen dit restant aan deze partij of, in geval van meer partijen, aan elke partij in evenredigheid van ieders bijdrage, uit te keren. De rechter wijst het verzoek af indien onvoldoende aannemelijk is dat alle gerechtigden tot een vergoeding zijn voldaan.   
+2.  Indien de partij of de partijen, die zich bij de overeenkomst hebben verbonden tot de vergoeding van schade, aan hun verplichtingen uit de overeenkomst hebben voldaan door betaling van een in de overeenkomst vastgesteld bedrag en er na voldoening van de gerechtigden tot een vergoeding een restant is overgebleven, kan deze partij, of kunnen deze partijen gezamenlijk de rechter die de overeenkomst verbindend heeft verklaard, verzoeken om degene die deze gelden beheert te bevelen dit restant aan deze partij of, in geval van meer partijen, aan elke partij in evenredigheid van ieders bijdrage, uit te keren. Indien verzocht wordt om degene die de gelden beheert te bevelen het gehele of een deel van het restant uit te keren, wijst de rechter het verzoek af indien onvoldoende aannemelijk is dat na uitkering van het gehele restant alle gerechtigden tot een vergoeding zijn voldaan, dan wel onvoldoende aannemelijk is dat na uitkering van een deel van het restant alle gerechtigde tot een vergoeding nog kunnen worden voldaan. De rechter kan bevelen dat één of meer deskundigen zullen berichten over de voor het verzoek van belang zijnde punten.   
 
 ### Titel  17  
 

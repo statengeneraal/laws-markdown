@@ -331,13 +331,13 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 ### Vijfde A  afdeling  
 
-####De raad van bestuur van de Nederlandse Mededingingsautoriteit en de commissie van de Europese gemeenschappen
+####De Autoriteit Consument en Markt en de commissie van de Europese gemeenschappen
 
 ### Artikel  44a  
 
-1.  De raad van bestuur van de Nederlandse Mededingingsautoriteit of de Commissie van de Europese Gemeenschappen kan, niet optredende als partij, schriftelijke opmerkingen maken ingevolge artikel 15, derde lid, eerste alinea, van verordening (EG) nr. 1/2003 van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1), indien deze de wens daartoe te kennen heeft gegeven. Met toestemming van de rechter kan de raad van bestuur van de Nederlandse Mededingingsautoriteit of de Commissie van de Europese Gemeenschappen ook mondelinge opmerkingen maken. De rechter kan daartoe een roldatum bepalen.   
-2.  Op een verzoek ingevolge artikel 15, derde lid, tweede alinea, van de verordening verstrekt de rechter aan de raad van bestuur van de Nederlandse Mededingingsautoriteit of de Commissie van de Europese Gemeenschappen de in die bepaling bedoelde stukken. Partijen kunnen binnen een door de rechter te bepalen termijn hun mening over de te verstrekken stukken geven.   
-3.  Partijen kunnen binnen een door de rechter te bepalen termijn op de opmerkingen van de raad van bestuur van de Nederlandse Mededingingsautoriteit of de Commissie van de Europese Gemeenschappen reageren.   
+1.  De Autoriteit Consument en Markt of de Commissie van de Europese Gemeenschappen kan, niet optredende als partij, schriftelijke opmerkingen maken ingevolge artikel 15, derde lid, eerste alinea, van verordening (EG) nr. 1/2003 van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1), indien deze de wens daartoe te kennen heeft gegeven. Met toestemming van de rechter kan de Autoriteit Consument en Markt of de Commissie van de Europese Gemeenschappen ook mondelinge opmerkingen maken. De rechter kan daartoe een roldatum bepalen.   
+2.  Op een verzoek ingevolge artikel 15, derde lid, tweede alinea, van de verordening verstrekt de rechter aan de Autoriteit Consument en Markt of de Commissie van de Europese Gemeenschappen de in die bepaling bedoelde stukken. Partijen kunnen binnen een door de rechter te bepalen termijn hun mening over de te verstrekken stukken geven.   
+3.  Partijen kunnen binnen een door de rechter te bepalen termijn op de opmerkingen van de Autoriteit Consument en Markt of de Commissie van de Europese Gemeenschappen reageren.   
 
 ### Zesde  afdeling  
 
@@ -529,7 +529,7 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 1.  Moet een zaak, in behandeling bij de kantonrechter, verder worden behandeld en beslist door een kamer voor andere zaken dan kantonzaken, dan wordt de zaak daartoe op verlangen van een der partijen of ambtshalve naar een zodanige kamer verwezen.   
 2.  Moet een zaak, in behandeling bij een kamer voor andere zaken dan kantonzaken, verder worden behandeld en beslist door de kantonrechter, dan wordt de zaak daartoe op verlangen van een der partijen of ambtshalve verwezen naar een kamer voor kantonzaken.   
 3.  De vraag of verwijzing nodig is beoordeelt de rechter, voor zover daarvoor het onderwerp van het geschil bepalend is, aan de hand van zijn voorlopig oordeel over het onderwerp van het geschil.   
-4.  In de beslissing tot verwijzing vermeldt de rechter op welke wijze partijen in de procedure moeten verschijnen en, voor zover van toepassing, het griffierecht of het verhoogde griffierecht dat ingevolge [artikel 8 van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) van partijen wordt geheven en binnen welke termijn dit griffierecht of dit verhoogde griffierecht betaald dient te worden. De volledige volzin in artikel 111, tweede lid, onderdeel k, is van overeenkomstige toepassing. In het geval van een dagvaardingsprocedure vermeldt de rechter tevens een nieuwe roldatum en beveelt hij, indien tegen de gedaagde verstek is verleend, dat deze door de eiser bij exploot aan de gedaagde wordt aangezegd onder betekening van de beslissing tot verwijzing.   
+4.  In de beslissing tot verwijzing vermeldt de rechter op welke wijze partijen in de procedure moeten verschijnen en, voor zover van toepassing, het griffierecht of het verhoogde griffierecht dat ingevolge [artikel 8 van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) van partijen wordt geheven en binnen welke termijn dit griffierecht of dit verhoogde griffierecht betaald dient te worden. Artikel 111, tweede lid, aanhef en onderdeel k en onderdeel l, is van overeenkomstige toepassing. In het geval van een dagvaardingsprocedure vermeldt de rechter tevens een nieuwe roldatum en beveelt hij, indien tegen de gedaagde verstek is verleend, dat deze door de eiser bij exploot aan de gedaagde wordt aangezegd onder betekening van de beslissing tot verwijzing.   
 5.  Tegen een verwijzing en tegen het achterwege laten van verwijzing staat geen voorziening open. De rechter naar wie de zaak is verwezen, is aan de verwijzing gebonden.   
 
 ### Artikel  72  
@@ -785,17 +785,17 @@ g. in zaken waarin partijen in persoon kunnen procederen: de wijze waarop de ged
 
 h. in zaken waarin partijen niet in persoon kunnen procederen: de wijze waarop de gedaagde in het geding moet verschijnen, te weten vertegenwoordigd door een advocaat;  
 
-i. de in artikel 139 genoemde rechtsgevolgen die intreden indien de gedaagde niet op de voorgeschreven wijze in het geding verschijnt of, behalve in zaken bij de sector kanton, het door zijn verschijning verschuldigde griffierecht niet tijdig voldoet;  
+i. de in artikel 139 genoemde rechtsgevolgen die intreden indien de gedaagde niet op de voorgeschreven wijze in het geding verschijnt of, behalve in kantonzaken of zaken in kort geding, het door zijn verschijning verschuldigde griffierecht niet tijdig voldoet;  
 
-j. indien er meer gedaagden zijn, het in artikel 140, tweede lid, genoemde rechtsgevolg dat intreedt indien niet alle gedaagden op de voorgeschreven wijze in het geding verschijnen;  
+j. indien er meer gedaagden zijn, het in artikel 140, derde lid, genoemde rechtsgevolg dat intreedt indien niet alle gedaagden op de voorgeschreven wijze in het geding verschijnen;  
 
-k. indien het exploot van dagvaarding een zaak betreft anders dan bij de sector kanton, de mededeling dat van gedaagde bij verschijning in de procedure een griffierecht zal worden geheven, binnen welke termijn dit griffierecht betaald dient te worden, alsmede de hoogte daarvan. Hierbij wordt vermeld dat van een persoon die onvermogend is, een lager griffierecht wordt geheven, indien hij op het tijdstip waarop het griffierecht wordt geheven heeft overgelegd: 
+k. de mededeling of van gedaagde bij verschijning in de procedure griffierecht zal worden geheven en binnen welke termijn dit griffierecht betaald dient te worden met verwijzing naar een vindplaats van de meest recente bijlage behorende bij de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) waarin de hoogte van de griffierechten staan vermeld. Hierbij wordt vermeld dat van een persoon die onvermogend is, een bij of krachtens de wet vastgesteld griffierecht voor onvermogenden wordt geheven, indien hij op het tijdstip waarop het griffierecht wordt geheven, heeft overgelegd: 
 
 1°. een afschrift van het besluit tot toevoeging, bedoeld in [artikel 29 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of indien dit niet mogelijk is ten gevolge van omstandigheden die redelijkerwijs niet aan hem zijn toe te rekenen, een afschrift van de aanvraag als bedoeld in [artikel 24, tweede lid, van de Wet op de Rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), dan wel  
 
-2°. een verklaring van de raad als bedoeld in [artikel 1, onder b, van die wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), waaruit blijkt dat zijn inkomen niet meer bedraagt dan de bedragen, bedoeld in [artikel 35, derde en vierde lid, telkens onderdelen a tot en met d dan wel in die artikelleden, telkens onderdeel e, van die wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);    
+2°. een verklaring van het bestuur van de raad voor rechtsbijstand als bedoeld in [artikel 7, derde lid, onderdeel e, van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) waaruit blijkt dat zijn inkomen niet meer bedraagt dan de inkomens, bedoeld in de algemene maatregel van bestuur krachtens [artikel 35, tweede lid, van die wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);    
 
-l. indien het exploot van dagvaarding een zaak betreft waarbij meerdere gedaagden zijn betrokken, de mededeling dat van partijen die bij dezelfde advocaat of gemachtigde verschijnen en gelijkluidende conclusies nemen, op basis van [artikel 15 van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) slechts eenmaal een gezamenlijk griffierecht wordt geheven.     
+l. indien het exploot van dagvaarding een zaak betreft waarbij meerdere gedaagden zijn betrokken, de mededeling dat van partijen die bij dezelfde advocaat verschijnen en gelijkluidende conclusies nemen of gelijkluidend verweer voeren, op basis van [artikel 15 van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) slechts eenmaal een gezamenlijk griffierecht wordt geheven.     
 3.  Het exploot van dagvaarding vermeldt de door gedaagde tegen de eis aangevoerde verweren en de gronden daarvoor. Verder vermeldt het exploot de bewijsmiddelen waarover eiser kan beschikken en de getuigen die hij kan doen horen ter staving van de aldus betwiste gronden van de eis.   
 
 ### Artikel  114  
@@ -885,8 +885,8 @@ Indien de eiser ten onrechte advocaat heeft gesteld, wordt de zaak voortgezet me
 ### Artikel  127a  
 
 1.  De rechter houdt de zaak aan zolang de eiser het griffierecht niet heeft voldaan en de termijn genoemd in [artikel 3, derde lid, van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) nog loopt.   
-2.  Indien de eiser het griffierecht niet tijdig heeft voldaan, ontslaat de rechter de gedaagde van de instantie, met veroordeling van de eiser in de kosten.   
-3.  De rechter laat het eerste en tweede lid geheel of ten dele buiten toepassing, indien hij van oordeel is dat de toepassing van die bepaling, gelet op het belang van één of meer van de partijen bij toegang tot de rechter, zal leiden tot een onbillijkheid van overwegende aard.   
+2.  Indien de eiser het griffierecht niet tijdig heeft voldaan, ontslaat de rechter de gedaagde van de instantie, met veroordeling van de eiser in de kosten. Voordat de rechter hiertoe overgaat, stelt hij eiser in de gelegenheid zich uit te laten over het niet tijdig voldoen van het verschuldigde griffierecht.   
+3.  De rechter laat het eerste en tweede lid, eerste volzin, geheel of ten dele buiten toepassing, indien hij van oordeel is dat de toepassing van die bepaling, gelet op het belang van één of meer van de partijen bij toegang tot de rechter, zal leiden tot een onbillijkheid van overwegende aard.   
 4.  Tegen beslissingen ingevolge het tweede en derde lid staat geen hogere voorziening open.   
 
 ### Artikel  128  
@@ -966,8 +966,9 @@ Indien de gedaagde niet op de eerste of op een door de rechter nader bepaalde ro
 ### Artikel  140  
 
 1.  Zijn er meer gedaagden en is ten minste een van hen in het geding verschenen, dan wordt, indien ten aanzien van de overige gedaagden de voorgeschreven formaliteiten en termijnen in acht zijn genomen, tegen dezen verstek verleend en tussen de eiser en de verschenen gedaagden voortgeprocedeerd.   
-2.  Tussen alle partijen wordt één vonnis gewezen, dat als een vonnis op tegenspraak wordt beschouwd.   
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing in geval van oproeping van derden als partij in het geding als bedoeld in artikel 118.   
+2.  Onder verschenen gedaagde als bedoeld in het eerste lid wordt verstaan de gedaagde die in het geding is verschenen en tijdig het griffierecht heeft voldaan.   
+3.  Tussen alle partijen wordt één vonnis gewezen, dat als een vonnis op tegenspraak wordt beschouwd.   
+4.  Het eerste en derde lid zijn van overeenkomstige toepassing in geval van oproeping van derden als partij in het geding als bedoeld in artikel 118.   
 
 ### Artikel  141  
 
@@ -1013,7 +1014,7 @@ Het verzet, mits tijdig en op de voorgeschreven wijze gedaan, schorst de tenuitv
 
 1.  Door het verzet wordt de instantie heropend. Het geding verloopt als in de vijfde afdeling bepaald, met dien verstande dat het exploot van verzet als conclusie van antwoord geldt.   
 2.  Was het verstek tegen de oorspronkelijk gedaagde verleend wegens het niet tijdig voldoen van het door hem verschuldigde griffierecht, dan zorgt de oorspronkelijk gedaagde dat het verschuldigde griffierecht is voldaan op de eerste roldatum van het verzet. Is het verschuldigde griffierecht, bedoeld in de eerste zin, niet alsnog tijdig voldaan, dan bekrachtigt de rechter het verstekvonnis.   
-3.  Was het verstek tegen de oorspronkelijk gedaagde verleend wegens het niet verschijnen in het geding, dan houdt de rechter de zaak aan zolang de gedaagde het verschuldigde griffierecht niet heeft voldaan en de termijn genoemd in [artikel 3, tweede lid, van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) nog loopt. De tweede zin van het tweede lid is van overeenkomstige toepassing.   
+3.  Was het verstek tegen de oorspronkelijk gedaagde verleend wegens het niet verschijnen in het geding, dan houdt de rechter de zaak aan zolang de gedaagde het verschuldigde griffierecht niet heeft voldaan en de termijn genoemd in [artikel 3, derde lid, van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) nog loopt. De tweede zin van het tweede lid is van overeenkomstige toepassing.   
 4.  Artikel 127a, derde en vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  148  
@@ -1470,7 +1471,7 @@ c. in zaken waarin partijen niet in persoon kunnen procederen, de naam van degen
 ### Artikel  219a  
 
 1.  De rechter houdt de zaak aan zolang degene die vordert zich te mogen voegen of te mogen tussenkomen het griffierecht niet heeft voldaan en de termijn genoemd in [artikel 5, tweede lid, van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) nog loopt.   
-2.  Heeft degene die de vordering instelt, het griffierecht niet tijdig voldaan, dan verklaart de rechter hem niet ontvankelijk in de vordering.   
+2.  Heeft degene die de vordering instelt, het griffierecht niet tijdig voldaan, dan verklaart de rechter hem niet ontvankelijk in de vordering. Voordat de rechter hiertoe overgaat, stelt hij degene die de vordering heeft ingesteld in de gelegenheid zich uit te laten over het niet tijdig voldoen van het verschuldigde griffierecht.   
 3.  Artikel 127a, derde en vierde lid, zijn van overeenkomstige toepassing.   
 
 ### §  4  
@@ -1640,6 +1641,7 @@ Indien het vonnis uitvoerbaar bij voorraad is verklaard, evenwel zonder dat daar
 2.  Bij een tussenvonnis kan de beslissing over de kosten tot het eindvonnis worden aangehouden.   
 3.  Het bedrag van de kosten waarin de verliezende partij wordt veroordeeld, wordt, voor zover die kosten vóór de uitspraak zijn gemaakt en niet aan haar zijde zijn gevallen, bij het vonnis vastgesteld.   
 4.  De na de uitspraak ontstane kosten worden op verzoek van de partij in het voordeel van wie een kostenveroordeling is uitgesproken, begroot door de rechter die het vonnis heeft gewezen. Deze geeft daarvoor een bevelschrift af. Hiertegen is geen hogere voorziening toegelaten.   
+5.  De rechter kan bepalen dat het griffierecht tot betaling waarvan de partij, bedoeld in het eerste of tweede lid, wordt veroordeeld, niet hoger is dan het griffierecht dat van deze partij is geheven of, in het geval dat deze partij gedaagde is in een zaak bij de kantonrechter en van haar geen griffierecht is geheven, het griffierecht dat deze partij verschuldigd zou zijn geweest als zij eiser was geweest. De rechter kan hiertoe besluiten indien hij van oordeel is dat veroordeling tot betaling van het hogere griffierecht, gelet op de proceshouding van de in het gelijk gestelde partij, zal leiden tot een onbillijkheid van overwegende aard. Hiertegen is geen hogere voorziening toegelaten.   
 
 ### Artikel  238  
 
@@ -1656,12 +1658,12 @@ Kosten terzake van ambtshandelingen, verricht door gerechtsdeurwaarders, worden 
 
 ### Artikel  241  
 
-Ter zake van verrichtingen waarvoor de in de artikelen 237 tot en met 240 bedoelde kosten een vergoeding plegen in te sluiten, zoals die ter voorbereiding van gedingstukken en ter instructie van de zaak, kan jegens de wederpartij geen vergoeding op grond van [artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) worden toegekend, maar zijn alleen de regels betreffende proceskosten van toepassing. Dit artikel is niet van toepassing ter zake van kosten als bedoeld in artikel 96, vierde lid, van Boek 6 van het Burgerlijk Wetboek.  
+Ter zake van verrichtingen waarvoor de in de artikelen 237 tot en met 240 bedoelde kosten een vergoeding plegen in te sluiten, zoals die ter voorbereiding van gedingstukken en ter instructie van de zaak, kan jegens de wederpartij geen vergoeding op grond van [artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) worden toegekend, maar zijn alleen de regels betreffende proceskosten van toepassing. Dit artikel is niet van toepassing ter zake van kosten als bedoeld in artikel 96, vijfde lid, van Boek 6 van het Burgerlijk Wetboek.  
 
 ### Artikel  242  
 
 1.  De rechter kan bedragen die geacht kunnen worden te zijn bedongen ter vergoeding van proceskosten of van buitengerechtelijke kosten als bedoeld in [artikel 96, tweede lid, onder b en c, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) ambtshalve matigen, doch niet tot onder het bedrag van de krachtens de wet te begroten proceskosten respectievelijk het bedrag van de buitengerechtelijke kosten die, gelet op de tarieven volgens welke zodanige kosten aan de opdrachtgevers gewoonlijk in rekening worden gebracht, jegens de wederpartij redelijk zijn.   
-2.  Het eerste lid is niet van toepassing ter zake van kosten als bedoeld in [artikel 96, vierde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en geldt niet voor overeenkomsten die strekken tot regeling van een reeds gerezen geschil.   
+2.  Het eerste lid is niet van toepassing ter zake van kosten als bedoeld in [artikel 96, vijfde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en geldt niet voor overeenkomsten die strekken tot regeling van een reeds gerezen geschil.   
 
 ### Artikel  244  
 
@@ -1748,7 +1750,8 @@ b. de wederpartij van de partij die het verval vordert, aannemelijk maakt dat vo
 1.  In alle spoedeisende zaken waarin, gelet op de belangen van partijen, een onmiddellijke voorziening bij voorraad wordt vereist, is de voorzieningenrechter bevoegd deze te geven.   
 2.  Op aanvraag van de belanghebbende partij kan de voorzieningenrechter de dagvaarding bevelen tegen de dag en het uur, de zondag daarbij inbegrepen, voor elk geval te bepalen. Hij kan daarbij tevens bevelen dat de terechtzitting op een andere plaats dan in het gerechtsgebouw wordt gehouden. De voorzieningenrechter kan aan de dagbepaling voorwaarden verbinden, die door de eiser in acht moeten worden genomen. Deze voorwaarden moeten uit de dagvaarding blijken.   
 3.  De zaak kan ook worden aangebracht op een terechtzitting, door de voorzieningenrechter te houden op de daartoe door hem te bepalen werkdagen.   
-4.  In zaken die ten gronde door de kantonrechter worden behandeld en beslist is ook de kantonrechter bevoegd tot het geven van een voorziening als in deze afdeling bedoeld. Daarbij is op de kantonrechter van toepassing hetgeen omtrent de voorzieningenrechter is bepaald.   
+4.  De artikelen 127a en 128, tweede lid en zesde lid, zijn niet van toepassing.   
+5.  In zaken die ten gronde door de kantonrechter worden behandeld en beslist is ook de kantonrechter bevoegd tot het geven van een voorziening als in deze afdeling bedoeld. Daarbij is op de kantonrechter van toepassing hetgeen omtrent de voorzieningenrechter is bepaald.   
 5.  Indien de gevorderde voorziening betrekking heeft op een zaak betreffende het personen- en familierecht als bedoeld in de zesde titel van het derde boek is artikel 803 van overeenkomstige toepassing.   
 
 ### Artikel  255  
@@ -1860,11 +1863,12 @@ Indien de griffier een bij aangetekende brief verzonden oproeping terug ontvangt
 ### Artikel  276  
 
 1.  Oproepingen vermelden de plaats, de dag en het uur van de terechtzitting. Zij worden zo spoedig mogelijk en ten minste een week vóór die dag verzonden, tenzij de rechter anders bepaalt.   
-2.  Betreft de oproeping een belanghebbende in een andere zaak dan een kantonzaak, dan bevat deze tevens de mededeling dat voor de indiening van een verweerschrift een griffierecht zal worden geheven, binnen welke termijn dit griffierecht betaald dient te worden, alsmede de hoogte daarvan. Hierbij wordt vermeld dat van een persoon die onvermogend is, een lager griffierecht wordt geheven, indien hij op het tijdstip waarop het griffierecht wordt geheven heeft overgelegd: 
+2.  De oproeping bevat tevens de mededeling of voor de indiening van een verweerschrift griffierecht zal worden geheven en dat indien de verweerder het verschuldigde griffierecht niet tijdig heeft voldaan de rechter het ingediende verweerschrift niet bij zijn beslissing op het verzoek betrekt, binnen welke termijn dit griffierecht betaald dient te worden, alsmede een verwijzing naar een vindplaats van de meest recente bijlage behorende bij de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) waarin de hoogte van de griffierechten staan vermeld. Hierbij wordt vermeld dat van een persoon die onvermogend is, een bij of krachtens de wet vastgesteld griffierecht voor onvermogenden wordt geheven, indien hij op het tijdstip waarop het griffierecht wordt geheven heeft overgelegd: 
 
 1°. een afschrift van het besluit tot toevoeging, bedoeld in [artikel 29 van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), of indien dit niet mogelijk is ten gevolge van omstandigheden die redelijkerwijs niet aan hem zijn toe te rekenen, een afschrift van de aanvraag als bedoeld in [artikel 24, tweede lid, van de Wet op de Rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), dan wel  
 
-2°. een verklaring van de raad als bedoeld in [artikel 1, onder b, van die wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md), waaruit blijkt dat zijn inkomen niet meer bedraagt dan de bedragen, bedoeld in [artikel 35, derde en vierde lid, telkens onderdelen a tot en met d dan wel in die artikelleden, telkens onderdeel e, van die wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).     
+2°. een verklaring van het bestuur van de raad voor rechtsbijstand als bedoeld in [artikel 7, derde lid, onderdeel e, van de Wet op de rechtsbijstand](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) waaruit blijkt dat zijn inkomen niet meer bedraagt dan de inkomens, bedoeld in de algemene maatregel van bestuur krachtens [artikel 35, tweede lid, van die wet](../../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md).     
+3.  Indien het een zaak betreft waarbij meerdere belanghebbenden zijn betrokken, bevat de oproeping tevens de mededeling dat van belanghebbenden die bij dezelfde advocaat verschijnen en gelijkluidende verweerschriften indienen, op basis van [artikel 15 van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) slechts eenmaal een gezamenlijk griffierecht wordt geheven.   
 
 ### Artikel  277  
 
@@ -1928,10 +1932,10 @@ In zaken waarin de indiening van het verzoekschrift niet door een advocaat behoe
 
 ### Artikel  282a  
 
-1.  Voor zover bij of krachtens deze wet of een andere wet niet anders is bepaald, houdt de rechter de zaak aan zolang de verzoeker en de verweerder het griffierecht niet hebben voldaan en de termijn genoemd in [artikel 3, vierde lid, van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) nog loopt.   
-2.  Heeft de verzoeker het verschuldigde griffierecht niet tijdig voldaan, dan verklaart de rechter de verzoeker niet-ontvankelijk in het verzoek.   
-3.  Heeft de verweerder het verschuldigde griffierecht niet tijdig voldaan, dan betrekt de rechter het ingediende verweerschrift niet bij zijn beslissing op het verzoek.   
-4.  De rechter laat het eerste, tweede en derde lid geheel of ten dele buiten toepassing, indien hij van oordeel is dat de toepassing van die bepalingen gelet op het belang van één of meer van de partijen bij toegang tot de rechter, zal leiden tot een onbillijkheid van overwegende aard.   
+1.  Voor zover bij of krachtens deze wet of een andere wet niet anders is bepaald, houdt de rechter de zaak aan zolang de verzoeker en de belanghebbende het griffierecht niet hebben voldaan en de termijn genoemd in [artikel 3, vierde lid, van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) nog loopt.   
+2.  Heeft de verzoeker het verschuldigde griffierecht niet tijdig voldaan, dan verklaart de rechter de verzoeker niet-ontvankelijk in het verzoek. Voordat de rechter hiertoe overgaat, stelt hij de verzoeker in de gelegenheid zich uit te laten over het niet tijdig voldoen van het verschuldigde griffierecht.   
+3.  Heeft de belanghebbende het verschuldigde griffierecht niet tijdig voldaan, dan betrekt de rechter het ingediende verweerschrift niet bij zijn beslissing op het verzoek. Voordat de rechter hiertoe overgaat, stelt hij de belanghebbende in de gelegenheid zich uit te laten over het niet tijdig voldoen van het verschuldigde griffierecht.   
+4.  De rechter laat het eerste lid, tweede lid, eerste volzin, en derde lid, eerste volzin geheel of ten dele buiten toepassing, indien hij van oordeel is dat de toepassing van die bepalingen gelet op het belang van één of meer van de partijen bij toegang tot de rechter, zal leiden tot een onbillijkheid van overwegende aard.   
 5.  Tegen beslissingen ingevolge het tweede, derde of vierde lid staat geen hogere voorziening open.   
 6.  Het eerste tot en met vijfde lid is niet van toepassing in zaken bij de voorzieningenrechter.   
 
@@ -2026,7 +2030,7 @@ Elke partij welke zal berust hebben in een vonnis, kan niet meer ontvankelijk zi
 ### Artikel  335  
 
 1.  Van veroordeelingen bij verstek valt geen hooger beroep, doch indien de oorspronkelijke eischer van het vonnis in hooger beroep komt, zal de gedaagde alle zijne verdedigingen insgelijks in het hooger beroep kunnen doen gelden, zelfs bij wege van incidenteel beroep, zonder van het middel van verzet in eersten aanleg meer te kunnen gebruik maken.   
-2.  In afwijking van het eerste lid kan de gedaagde die niet is verschenen of het griffierecht niet tijdig heeft voldaan van een vonnis als bedoeld in artikel 140, tweede lid, in hoger beroep komen, mits hij vooraf bij voorraad, tegen het stellen van zekerheid, aan het vonnis voldoet, zelfs wanneer dat vonnis niet uitvoerbaar bij voorraad was verklaard.   
+2.  In afwijking van het eerste lid kan de gedaagde die niet is verschenen of het griffierecht niet tijdig heeft voldaan van een vonnis als bedoeld in artikel 140, derde lid, in hoger beroep komen, mits hij vooraf bij voorraad, tegen het stellen van zekerheid, aan het vonnis voldoet, zelfs wanneer dat vonnis niet uitvoerbaar bij voorraad was verklaard.   
 
 ### Artikel  337  
 
@@ -2360,7 +2364,7 @@ c. steeds wanneer zij verwijzing wenselijk acht.
 ### Artikel  409a  
 
 1.  De Hoge Raad houdt de zaak aan zolang de eiser het griffierecht niet heeft voldaan en de termijn genoemd in [artikel 3, derde lid, van de Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) nog loopt.   
-2.  Indien de eiser het griffierecht niet tijdig heeft voldaan, verklaart de Hoge Raad eiser niet ontvankelijk in zijn beroep in cassatie, met veroordeling van de eiser in de kosten.   
+2.  Indien de eiser het griffierecht niet tijdig heeft voldaan, verklaart de Hoge Raad eiser niet ontvankelijk in zijn beroep in cassatie, met veroordeling van de eiser in de kosten. Voordat de Hoge Raad hiertoe overgaat, stelt de Hoge Raad eiser in de gelegenheid zich uit te laten over het niet tijdig voldoen van het verschuldigde griffierecht.   
 3.  Artikel 127a, derde en vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  410  
@@ -2371,7 +2375,7 @@ c. steeds wanneer zij verwijzing wenselijk acht.
 
 ### Artikel  411  
 
-1.  De verweerder neemt zijn met redenen omklede conclusie van antwoord op de eerste of op zijn verlangen op een nader door de rechter te bepalen roldatum die ten hoogste vier weken nadien valt, doch niet dan nadat hij het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om in cassatie te komen.   
+1.  De verweerder neemt zijn conclusie van antwoord op de eerste of op zijn verlangen op een nader door de rechter te bepalen roldatum die ten hoogste vier weken nadien valt, doch niet dan nadat hij het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om verweer in cassatie te voeren of om van zijn zijde in cassatie te komen.   
 2.  Hij is op straffe van verval van het recht exceptiën aan te voeren, gehouden deze met zijn antwoord ten principale te verenigen.   
 3.  Alleen de in artikel 128, vierde lid, bedoelde exceptie wordt op straffe van verval afzonderlijk voor alle weren van rechten voorgedragen.   
 
@@ -2513,7 +2517,7 @@ Voor zover uit deze afdeling niet anders voortvloeit, is artikel 284 van overeen
 
 ### Tweede  Boek  
 
-####Van de gerechtelijke tenuitvoerlegging van vonissen, beschikkingen en authentieke akten
+####Van de gerechtelijke tenuitvoerlegging van vonnissen, beschikkingen en authentieke akten
 
 ### Eerste  titel  
 
@@ -3256,7 +3260,7 @@ Vorderingen die betwist worden, kunnen door de rechter-commissaris voorwaardelij
 
 1.  In geval van tegenspraak verwijst de rechter-commissaris de partijen, zo hij ze niet kan verenigen, en voor zover het geschil niet reeds aanhangig is, naar een door hem te bepalen terechtzitting van de rechtbank, zonder dat daartoe een dagvaarding is vereist.   
 2.  De advocaten, die voor partijen optreden, verklaren dit bij het uitroepen ter terechtzitting.   
-3.  Verschijnt de schuldeiser, wiens vordering is tegengesproken, op de bepaalde terechtzitting niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht de aanmelding van zijn vordering te hebben ingetrokken; verschijnt hij die de tegenspraak doet niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn tegenspraak te hebben laten varen. Artikel 127a, derde en vierde lid, zijn van overeenkomstige toepassing.   
+3.  Verschijnt de schuldeiser, wiens vordering is tegengesproken, op de bepaalde terechtzitting niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht de aanmelding van zijn vordering te hebben ingetrokken; verschijnt hij die de tegenspraak doet niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn tegenspraak te hebben laten varen. Indien het griffierecht niet tijdig is voldaan, stelt de rechter-commissaris de desbetreffende partij eerst in de gelegenheid zich uit te laten over het niet tijdig voldoen van het verschuldigde griffierecht. Artikel 127a, derde en vierde lid, zijn van overeenkomstige toepassing.   
 4.  Belanghebbenden die geen tegenspraak hebben gedaan, kunnen in het geding niet tussenkomen of zich voegen.   
 
 ### Artikel  489  
@@ -5089,7 +5093,7 @@ De rekenplichtige deponeert de rekening met de daarbij behorende bescheiden ter 
 
 ### Artikel  773  
 
-Artikel 140, eerste en tweede lid, is van toepassing, met dien verstande dat de rechter, indien tegen een of meer gedaagden verstek is verleend, ambtshalve de rechtmatigheid en de gegrondheid van de vordering onderzoekt.  
+Artikel 140, eerste en derde lid, is van toepassing, met dien verstande dat de rechter, indien tegen een of meer gedaagden verstek is verleend, ambtshalve de rechtmatigheid en de gegrondheid van de vordering onderzoekt.  
 
 ### Artikel  774  
 
@@ -5662,39 +5666,39 @@ a. de namen en de woonplaatsen van de verzoekers;
 
 b. een omschrijving van de gebeurtenis of de gebeurtenissen waarop de overeenkomst betrekking heeft;  
 
-c. de namen en de woonplaatsen van de aan de verzoekers bekende personen ten behoeve van wie de overeenkomst is gesloten, waarbij zij zich kunnen houden aan de laatste hun bekende woonplaatsen;  
+c. een korte omschrijving van de overeenkomst;  
 
-d. een korte omschrijving van de overeenkomst;  
-
-e. een duidelijke omschrijving van het verzoek en de gronden waarop het berust.     
+d. een duidelijke omschrijving van het verzoek en de gronden waarop het berust.     
 2.  Aan het verzoekschrift wordt de overeenkomst als bijlage toegevoegd.   
 3.  Het gerechtshof Amsterdam is bij uitsluiting bevoegd tot kennisneming van een verzoek in eerste aanleg als in dit artikel bedoeld.   
-4.  In afwijking van artikel 282, tweede lid, behoeft geen afschrift van een verweerschrift en de overlegde bescheiden verzonden te worden aan de personen ten behoeve van wie de overeenkomst is gesloten.   
-5.  De oproeping van de in het eerste lid, onder c bedoelde personen geschiedt bij gewone brief, tenzij de rechter anders bepaalt. Bovendien geschiedt de oproeping door aankondiging daarvan in één of meer door de rechter aan te wijzen nieuwsbladen, waarbij tevens rechtspersonen als bedoeld in artikel 1014 worden opgeroepen. Hierbij wordt naast de plaats, de dag en het uur van de terechtzitting telkens op een door de rechter aan te geven wijze melding gemaakt van een korte omschrijving van de overeenkomst en van de gevolgen van toewijzing van het verzoek. Tevens wordt vermeld dat de in artikel 290, eerste lid, genoemde bescheiden ter inzage en afschrift liggen bij de griffie en wordt gewezen op de bevoegdheid om een verweerschrift in te dienen. Tenzij de rechter anders bepaalt, dragen de verzoekers zorg voor de oproeping ingevolge dit lid. De rechter kan gelasten dat de in dit lid bedoelde informatie ook op andere wijze wordt bekend gemaakt.   
-6.  De rechter kan, indien hij de dag en het uur van de behandeling bepaalt, tevens bepalen dat verweerschriften in afwijking van artikel 282, eerste lid, uiterlijk voor een door hem vast te stellen tijdstip voor de behandeling moeten worden ingediend.   
+4.  In afwijking van artikel 282, tweede lid, behoeft geen afschrift van een verweerschrift en de overlegde bescheiden verzonden te worden aan de personen ten behoeve van wie de overeenkomst is gesloten. De rechter kan, in afwijking van artikel 290, eerste en tweede lid, bevelen, dat het verzoekschrift, de verweerschriften, de op de zaak betrekking hebbende bescheiden en de processen-verbaal en zonodig een vertaling hiervan in één of meer andere talen dan de Nederlandse taal op één of meer door hem aan te wijzen internetadressen worden geplaatst, zodanig dat deze door de personen ten behoeve van wie de overeenkomst is gesloten ten behoeve van latere kennisneming kunnen worden opgeslagen. Tevens kan de rechter bevelen dat de verzoekers desverlangd aan een persoon ten behoeve van wie de overeenkomst is gesloten afschriften verstrekken van de in de tweede zin genoemde stukken.   
+5.  De oproeping van de aan de verzoekers bekende personen ten behoeve van wie de overeenkomst is gesloten geschiedt bij gewone brief, tenzij de rechter anders bepaalt. Bovendien geschiedt de oproeping door aankondiging daarvan in één of meer door de rechter aan te wijzen nieuwsbladen, waarbij tevens rechtspersonen als bedoeld in artikel 1014 worden opgeroepen. Hierbij wordt naast de plaats, de dag en het uur van de terechtzitting telkens op een door de rechter aan te geven wijze melding gemaakt van een korte omschrijving van de overeenkomst en van de gevolgen van toewijzing van het verzoek. Tevens wordt vermeld op welke wijze inzage en afschrift kan worden verkregen van de in het vierde lid genoemde stukken en wordt gewezen op de bevoegdheid om een verweerschrift in te dienen. Tenzij de rechter anders bepaalt, dragen de verzoekers zorg voor de oproeping ingevolge dit lid. De rechter kan gelasten dat de in dit lid bedoelde informatie ook op andere wijze wordt bekend gemaakt. Indien de curator in faillissement de overeenkomst heeft gesloten, gelast de rechter de verzoekers oproeping op een door hem te bepalen wijze van bekende en onbekende schuldeisers. Indien er personen zijn ten behoeve van wie de overeenkomst is gesloten, die geen woonplaats of verblijf in Nederland hebben en een voor Nederland bindende internationale of Unie-regeling niet een wijze van oproeping voorschrijft, gelast de rechter oproeping op een door hem bepaalde wijze van deze personen, zonodig in één of meer andere talen dan de Nederlandse taal.   
+6.  De rechter kan bevelen dat verzoekers de namen en woonplaatsen van de aan hen bekende personen ten behoeve van wie de overeenkomst is gesloten, uiterlijk op een door de rechter te bepalen dag en op een door hem te bepalen wijze aan hem worden overgelegd. De verzoekers kunnen zich daarbij houden aan de laatste hun bekende woonplaatsen van de in de eerste zin bedoelde personen.   
+7.  De rechter kan, indien hij de dag en het uur van de behandeling bepaalt, tevens bepalen dat verweerschriften in afwijking van artikel 282, eerste lid, uiterlijk voor een door hem vast te stellen tijdstip voor de behandeling moeten worden ingediend. Artikel 282, vierde lid, mist toepassing.   
+8.  De rechter kan, op verzoek van partijen of van een van hen dan wel ambtshalve, in elke stand van de procedure een verschijning van partijen ter terechtzitting bevelen teneinde het verloop van de procedure te bespreken en daaromtrent aanwijzingen te verstrekken en bevelen te geven. Partijen verschijnen ter terechtzitting in persoon of bij advocaat. Van het verhandelde wordt een proces-verbaal opgemaakt, dat door de rechter en de griffier wordt ondertekend. Tegen de beslissing om al dan niet een verschijning te bevelen, staat geen voorziening open.   
 
 ### Artikel  1014  
 
-Een stichting of vereniging met volledige rechtsbevoegdheid die ingevolge haar statuten de belangen van de personen behartigt ten behoeve van wie de overeenkomst is gesloten, kan een verweerschrift indienen.  
+Een stichting of vereniging met volledige rechtsbevoegdheid die ingevolge haar statuten de belangen van personen behartigt ten behoeve van wie de overeenkomst is gesloten, kan een verweerschrift indienen.  
 
 ### Artikel  1015  
 
-1.  Tijdens de behandeling van het verzoek lopende procedures betreffende vorderingen ter zake waarvan de overeenkomst in een vergoeding voorziet worden op verzoek van een partij bij de overeenkomst van wie in de procedure schadevergoeding wordt gevorderd geschorst overeenkomstig artikel 225, tweede lid, ook indien reeds de dag is bepaald waarop het vonnis zal worden uitgesproken.   
+1.  Procedures betreffende geschillen in de beëindiging waarvan de overeenkomst voorziet, worden door de indiening van het verzoek, bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), van rechtswege geschorst, ook indien reeds de dag is bepaald waarop het vonnis, het arrest of de beschikking zal worden uitgesproken.   
 2.  Het geschorste geding wordt overeenkomstig artikel 227, eerste lid, hervat: 
 
-a. indien in de procedure schadevergoeding wordt gevorderd, in de vergoeding waarvan de overeenkomst niet voorziet;  
+a. voor zover in de procedure om een beslissing wordt verzocht ter zake van een geschil in de beëindiging waarvan de overeenkomst niet voorziet;  
 
-b. indien de gerechtigde tot vergoeding de in [artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde verklaring heeft ingediend;  
+b. indien de in [artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde termijn is verstreken, nadat een gerechtigde onder de overeenkomst binnen die termijn de in dat lid bedoelde mededeling heeft gedaan;  
 
-c. indien vaststaat dat het verzoek niet tot toewijzing zal leiden;  
+c. indien onherroepelijk vaststaat dat het verzoek niet tot toewijzing zal leiden;  
 
-d. indien de overeenkomst ingevolge [artikel 908, vierde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt opgezegd;  
+d. indien de overeenkomst overeenkomstig [artikel 908, vierde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wordt opgezegd;  
 
-e. indien de behandeling van het verzoek met het oog op de belangen van een gerechtigde tot een vergoeding en alle omstandigheden in aanmerking genomen, onaanvaardbaar lang duurt en naar verwachting nog onaanvaardbaar lang zal duren;  
+e. indien de behandeling van het verzoek met het oog op de belangen van een gerechtigde onder de overeenkomst en alle omstandigheden in aanmerking genomen, onaanvaardbaar lang duurt en naar verwachting nog onaanvaardbaar lang zal duren;  
 
-f. indien een der partijen nadat de beschikking tot verbindendverklaring onherroepelijk is geworden de veroordeling in de kosten van het geding vordert.     
+f. indien de partijen in de geschorste procedure daarmee instemmen.     
 3.  [Artikel 907, vijfde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is niet van toepassing op hetgeen in een ingevolge het tweede lid hervat geding wordt gevorderd.   
-4.  Behoudens de gevallen, bedoeld in het tweede lid, wordt na schorsing van een hangende procedure het geding op verzoek van de meest gerede partij van de rol afgevoerd wanneer de beschikking tot verbindendverklaring onherroepelijk is geworden.   
+4.  Behoudens de gevallen, bedoeld in het tweede lid, wordt na schorsing van een hangende procedure het geding op verzoek van de meest gerede partij van de rol afgevoerd indien de in [artikel 908, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde termijn is verstreken.   
 5.  De artikelen 225, tweede lid, tweede zin, en derde lid en 227, tweede en derde lid, zijn van toepassing.   
 
 ### Artikel  1016  
@@ -5705,14 +5709,32 @@ f. indien een der partijen nadat de beschikking tot verbindendverklaring onherro
 ### Artikel  1017  
 
 1.  Een afschrift van de beschikking wordt door de griffier bij gewone brief zo spoedig mogelijk verstrekt aan de verzoekers.   
-2.  De beschikking en de overeenkomst die daarbij verbindend is verklaard liggen ter griffie ter inzage en afschrift van de gerechtigden tot een vergoeding.   
-3.  Een afschrift van de beschikking tot verbindendverklaring wordt zo spoedig mogelijk nadat deze onherroepelijk is bij gewone brief verstrekt aan de bekende gerechtigden tot een vergoeding en aan in de procedure verschenen rechtspersonen als bedoeld in artikel 1014. Bovendien wordt zo spoedig mogelijk nadat deze beschikking onherroepelijk is hiervan aankondiging gedaan in één of meer door de rechter aan te wijzen nieuwsbladen. Hierbij wordt telkens op een door de rechter aan te geven wijze melding gemaakt van een korte omschrijving van de overeenkomst, in het bijzonder de wijze waarop vergoeding kan worden verkregen en, indien de overeenkomst dat bepaalt, de termijn waarbinnen daarop aanspraak dient te worden gemaakt, alsmede van de gevolgen van de verbindendverklaring, en worden de termijn waarbinnen en de wijze waarop de gerechtigden zich van de gevolgen van de verbindendverklaring kunnen bevrijden vermeld. Tevens wordt vermeld dat de beschikking en de overeenkomst die daarbij verbindend is verklaard voor de gerechtigden ter inzage en afschrift bij de griffie liggen. Tenzij de rechter anders bepaalt, dragen de verzoekers zorg voor de in dit lid bedoelde verstrekking en aankondiging. De rechter kan bepalen dat de in dit lid bedoelde informatie ook op andere wijze wordt bekend gemaakt.   
+2.  De beschikking en de overeenkomst die daarbij verbindend is verklaard liggen ter griffie ter inzage en afschrift van de gerechtigden onder de overeenkomst. De rechter kan, in plaats daarvan, bevelen dat de beschikking en de overeenkomst en zonodig een vertaling hiervan in één of meer andere talen dan de Nederlandse taal op één of meer door hem aan te wijzen internetadressen worden geplaatst, zodanig dat deze door de gerechtigden onder de overeenkomst ten behoeve van latere kennisneming kunnen worden opgeslagen. Tevens kan de rechter bevelen dat de verzoekers desverlangd aan een gerechtigde onder de overeenkomst afschriften verstrekken van de beschikking en de overeenkomst.   
+3.  Bij gewone brief wordt aan de bekende gerechtigden onder de overeenkomst en aan de in de procedure verschenen rechtspersonen als bedoeld in artikel 1014, zo spoedig mogelijk mededeling gedaan van de beschikking tot verbindendverklaring, tenzij de rechter anders bepaalt. Bovendien wordt van de verbindendverklaring zo spoedig mogelijk aankondiging gedaan in één of meer door de rechter aan te wijzen nieuwsbladen. Hierbij wordt telkens op een door de rechter aan te geven wijze melding gemaakt van een korte omschrijving van de overeenkomst, in het bijzonder de wijze waarop vergoeding kan worden verkregen of anderszins een beroep op de overeenkomst kan worden gedaan en, indien de overeenkomst dat bepaalt, de termijn waarbinnen daarop aanspraak dient te worden gemaakt, alsmede van de gevolgen van de verbindendverklaring, en worden de termijn waarbinnen en de wijze waarop de gerechtigden onder de overeenkomst zich van de gevolgen van de verbindendverklaring kunnen bevrijden, vermeld. Tevens wordt vermeld op welke wijze inzage en afschrift kan worden verkregen van de beschikking en de overeenkomst die daarbij verbindend is verklaard. De rechter kan bevelen dat ook van andere dan de in dit lid genoemde gegevens melding wordt gemaakt. Tenzij de rechter anders bepaalt, dragen de verzoekers zorg voor de in dit lid bedoelde melding en aankondiging. De rechter kan gelasten dat de in dit lid bedoelde gegevens ook op andere wijze bekend worden gemaakt. Indien er gerechtigden onder de overeenkomst zijn die geen woonplaats of verblijf in Nederland hebben en een voor Nederland bindende internationale of Unie-regeling niet een wijze van aankondiging voorschrijft, gelast de rechter aankondiging op een door hem te bepalen wijze ten behoeve van deze gerechtigden, zonodig in één of meer andere talen dan de Nederlandse taal.   
 4.  Zo spoedig mogelijk nadat het verzoek tot verbindendverklaring onherroepelijk is afgewezen, dragen de verzoekers er zorg voor dat de personen ten behoeve van wie de overeenkomst is gesloten, daar op een door de rechter te bepalen wijze van op de hoogte worden gebracht.   
+5.  De verzoekers kunnen het gerechtshof te Amsterdam verzoeken om ter uitvoering van de in het derde en vierde lid bedoelde meldingen en aankondigingen nadere aanwijzingen te verstrekken.   
 
 ### Artikel  1018  
 
-1.  Beroep in cassatie staat uitsluitend voor de verzoekers open, en kan uitsluitend door de verzoekers gezamenlijk worden ingesteld.   
-2.  Herroeping staat uitsluitend open voor de stichting of vereniging, bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en voor de overige verzoekers gezamenlijk. Indien de in de eerste zin bedoelde stichting of vereniging is ontbonden, staat herroeping open voor een stichting of vereniging, bedoeld in artikel 1014. Herroeping van de beschikking op verzoek van een in de eerste of tweede zin bedoelde stichting of vereniging, heeft geen gevolgen voor een gerechtigde tot een vergoeding die zich daartegen verzet.   
+1.  Beroep in cassatie staat uitsluitend open indien het verzoek wordt afgewezen en kan uitsluitend door de verzoekers gezamenlijk worden ingesteld.   
+2.  Herroeping staat uitsluitend open voor de in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde stichtingen of verenigingen gezamenlijk, en voor de overige verzoekers gezamenlijk. Indien de in de eerste zin bedoelde stichtingen of verengingen zijn ontbonden, staat herroeping open voor een stichting of vereniging, bedoeld in artikel 1014. Herroeping van de beschikking op verzoek van stichtingen en verenigingen als bedoeld in de eerste of tweede zin, heeft geen gevolgen voor een gerechtigde onder de overeenkomst die zich tegen die gevolgen verzet.   
+
+### Artikel  1018a  
+
+1.  Indien een veelheid aan personen door een gebeurtenis of gelijksoortige gebeurtenissen is benadeeld, kan, voordat een zaak aanhangig is, de rechtbank, teneinde een overeenkomst, bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), te beproeven, op verzoek van een stichting of vereniging, bedoeld in artikel 907, derde lid, onderdeel f, van Boek 7 van het Burgerlijk Wetboek en van de persoon of personen die voor deze gebeurtenis of gebeurtenissen verantwoordelijk worden gehouden, dan wel op verzoek van een van hen, een verschijning ter terechtzitting van deze partijen bevelen.   
+2.  Het verzoekschrift vermeldt: 
+
+a. de naam en woonplaats van de verzoeker of verzoekers;  
+
+b. de naam en woonplaats van de in het eerste lid bedoelde partijen waarvan verschijning wordt verzocht;  
+
+c. een omschrijving van de gebeurtenis of gebeurtenissen waarop het verzoek betrekking heeft;  
+
+d. een omschrijving van het geschil of de geschillen die partijen verdeeld houdt;  
+
+e. een omschrijving van het verzoek.     
+3.  Indien de rechter het verzoek toestaat, bepaalt hij de plaats, de dag en het uur waarop de verschijning zal plaatsvinden. Verzoekers en andere partijen, die daartoe zijn opgeroepen, zijn verplicht te verschijnen. Indien een verzoeker of partij als bedoeld in de tweede zin niet verschijnt, kan zij worden veroordeeld tot vergoeding van de vergeefs aangewende kosten van degenen die wel zijn verschenen.   
+4.  Bij een verschijning ter terechtzitting kan besproken worden hoe verzoekers en de opgeroepen partijen de totstandkoming van een in het eerste lid bedoelde overeenkomst zullen trachten te bereiken. Ook kan een andere wijze van beëindiging van geschillen ter zake van de in het eerste lid bedoelde gebeurtenis of gebeurtenissen worden besproken. Artikel 191, tweede lid, tweede en derde zin, is van toepassing.   
 
 ### Titel  15  
 
