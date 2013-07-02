@@ -163,14 +163,14 @@ b. In afwijking van het bepaalde onder a wordt, indien de vervolging in het voor
 6.  Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in artikel 30 terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.   
 7.  De in de vorige leden, behoudens in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
-a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 januari 2013: € 2 022,98 en  
+a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 juli 2013: € 2.034,51 en  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 januari 2013: € 4 199,68.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 juli 2013: € 4.223,62.     
 8.  De in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
-a. tenminste een bedrag van 23 000 rupiah per maand per 1 januari 2012: 4.523.410 rupiah en  
+a. tenminste een bedrag van 23 000 rupiah per maand per 1 januari 2013: 4.717.917 rupiah en  
 
-b. ten hoogste een bedrag van 57 500 rupiah per maand per 1 januari 2012: 11.330.443 rupiah.     
+b. ten hoogste een bedrag van 57 500 rupiah per maand per 1 januari 2013: 11.817.652 rupiah.     
 9.  Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid in beroep of bedrijf, als bedoeld in het tweede lid, moet worden verstaan.   
 
 ### Artikel  9  
@@ -193,9 +193,9 @@ c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
 d. 75% voor de alleenstaande vervolgde;  
 
-e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 januari 2013: € 2 744,32;  
+e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 juli 2013: € 2.759,96;  
 
-f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2013: € 2 553,57.     
+f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 juli 2013: € 2.568,13.     
 2.   
 
 a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  
@@ -511,9 +511,7 @@ De uitkeringsgerechtigde, diens wettelijke vertegenwoordiger en de persoon aan w
 
 ### Artikel  44  
 
-1.  Tegen een besluit op grond van deze wet kan een belanghebbende beroep instellen bij de Centrale Raad van Beroep.   
-2.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd. In afwijking van [artikel 6:4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt ingeval een belanghebbende in het buitenland is gevestigd, het beroepschrift ingediend bij het hoofd van de Nederlandse diplomatieke dan wel consulaire vertegenwoordiging in wiens ambtsgebied of ressort hij gevestigd is, tenzij de Sociale verzekeringsbank in het desbetreffende land een eigen vertegenwoordiging heeft, in welk geval het beroepschrift aldaar wordt ingediend. De instantie, waar het beroepschrift op grond van de vorige volzin moet worden ingediend, zendt het toe aan de Centrale Raad van Beroep en voegt daaraan de gegevens toe die van belang zijn voor de beslissing op het beroepschrift.   
-3.  Het griffierecht bedraagt € 35.   
+In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift dertien weken, indien de belanghebbende in het buitenland is gevestigd. In afwijking van [artikel 6:4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt ingeval een belanghebbende in het buitenland is gevestigd, het beroepschrift ingediend bij het hoofd van de Nederlandse diplomatieke dan wel consulaire vertegenwoordiging in wiens ambtsgebied of ressort hij gevestigd is, tenzij de Sociale verzekeringsbank in het desbetreffende land een eigen vertegenwoordiging heeft, in welk geval het beroepschrift aldaar wordt ingediend. De instantie, waar het beroepschrift op grond van de vorige volzin moet worden ingediend, zendt het toe aan de Centrale Raad van Beroep en voegt daaraan de gegevens toe die van belang zijn voor de beslissing op het beroepschrift.  
 
 ### Hoofdstuk  VIII  
 

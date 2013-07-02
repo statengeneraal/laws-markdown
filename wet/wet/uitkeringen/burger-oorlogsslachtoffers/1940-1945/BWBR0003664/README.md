@@ -161,9 +161,9 @@ d. de Raad kan, bij beschikking, van het bepaalde onder c afwijken indien naar z
 7.  Indien het burger-oorlogsslachtoffer voldoet aan het bepaalde in artikel 7, onder c, wordt de grondslag vastgesteld op het bedrag, bedoeld in het achtste lid, onder a, tenzij de Raad, rekening houdende met alle omstandigheden, in een individueel geval van oordeel is, dat een hogere grondslag gerechtvaardigd is. Deze grondslag kan niet op een hoger bedrag worden vastgesteld dan de grondslag die zou zijn vastgesteld, indien het burger-oorlogsslachtoffer zou voldoen aan het bepaalde in het tweede lid, onder a of b.   
 8.  De grondslag wordt bepaald op: 
 
-a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983 per 1 januari 2013: € 2 022,98;  
+a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983 per 1 juli 2013: € 2.034,51;  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 januari 2013: € 4 199,68.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 juli 2013: € 4.223,62.     
 9.  De grondslag, waarnaar de uitkering aan de weduwe of weduwnaar bedoeld in artikel 7, onder d tot en met f, wordt berekend, wordt vastgesteld op hetzelfde bedrag als waarop de grondslag voor het burger-oorlogsslachtoffer zou zijn vastgesteld, indien hij op de datum van de aanvraag, bedoeld in artikel 35, nog in leven zou zijn geweest en op die datum voldaan zou hebben aan het bepaalde in artikel 7, onder a of b.   
 
 ### Artikel  11  
@@ -221,8 +221,8 @@ b. 50, indien de weduwe of weduwnaar van het burger-oorlogsslachtoffer geen mind
 a. De uitkering aan de minderjarige volle wees van het burger-oorlogsslachtoffer wordt naar behoefte individueel bepaald. Bij vaststelling van de uitkering wordt rekening gehouden met geëigende voorzieningen ter zake van kosten van onderwijs en opleiding.  
 
 b. De onder *a* bedoelde uitkering kan zo nodig worden voortgezet tot uiterlijk het bereiken van de 27-jarige leeftijd door de betrokkene, indien hij, hetzij in verband met een dagstudie, hetzij in verband met arbeidsongeschiktheid, door het ontbreken van andere geëigende voorzieningen op die uitkering is aangewezen.     
-4.  De uitkering, berekend met toepassing van het bepaalde in het eerste lid, onder *a*, bedraagt niet meer dan een bedrag ter grootte van 80% van het bedrag, bedoeld in artikel 10, achtste lid, onder *b*, vermenigvuldigd met 3/4 en vermeerderd met een bedrag ter grootte van 20% van de som van de uitkeringen bedoeld in de [artikelen 17](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), eerste lid, en [25 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
-5.  De uitkering, berekend met toepassing van het bepaalde in het eerste lid, onder *b*, bedraagt niet meer dan een bedrag ter grootte van 80% van het bedrag, bedoeld in artikel 10, achtste lid, onder *b*, vermenigvuldigd met 5/7 en vermeerderd met een bedrag ter grootte van 20% van de uitkering bedoeld in [artikel 17, eerste lid, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
+4.  De uitkering, berekend met toepassing van het bepaalde in het eerste lid, onder *a*, bedraagt niet meer dan een bedrag ter grootte van 80% van het bedrag, bedoeld in artikel 10, achtste lid, onder b, vermenigvuldigd met 3/4 en vermeerderd met een bedrag ter grootte van 20% van de uitkering, bedoeld in [artikel 17, tweede lid, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
+5.  De uitkering, berekend met toepassing van het bepaalde in het eerste lid, onder *b*, bedraagt niet meer dan een bedrag ter grootte van 80% van het bedrag, bedoeld in artikel 10, achtste lid, onder b, vermenigvuldigd met 5/7 en vermeerderd met een bedrag ter grootte van 20% van de uitkering bedoeld in [artikel 17, eerste lid, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
 
 ### Artikel  16  
 

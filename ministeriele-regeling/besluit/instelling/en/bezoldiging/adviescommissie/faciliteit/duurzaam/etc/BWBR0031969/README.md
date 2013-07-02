@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Buitenlandse Zaken van 5 september 2012, nr. DDE-359/2012, tot instelling en bezoldiging van de Adviescommissie Faciliteit Duurzaam Ondernemen en Voedselzekerheid (FDOV)
 
 De Staatssecretaris van Buitenlandse Zaken,  
-Gelet op het [besluit van 11 april 2012](../../../../../../../../../../ministeriele-regeling/besluit/vaststelling/call/for/ideas/ppp/facililteit/duurzaam/ondernemen/en/etc/BWBR0031473/README.md), nr. Minbuza-2012.7786, tot vaststelling van beleidsregels voor het deelnemen aan samenwerkingsverbanden op het terrein van voedselzekerheid en private sector ontwikkeling (Call for ideas PPP faciliteit duurzaam ondernemen en voedselzekerheid 2012)
+Gelet op het besluit van 11 april 2012, nr. Minbuza-2012.7786, tot vaststelling van beleidsregels voor het deelnemen aan samenwerkingsverbanden op het terrein van voedselzekerheid en private sector ontwikkeling (Call for ideas PPP faciliteit duurzaam ondernemen en voedselzekerheid 2012)
 Besluit:    
 
 ### Artikel  1  
@@ -37,14 +37,14 @@ Besluit:
 
 ### Artikel  4  
 
-1.  Aan de voorzitter van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 3.4 %van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). Voor de voorzitter geldt een arbeidsduurfactor van 0,034.   
-2.  Aan de leden van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 3.2% van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). Voor de leden geldt een arbeidsduurfactor van 0, 032.   
+1.  Aan de voorzitter van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 6,5% van het maximumbedrag van salarisschaal 16 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. Voor de voorzitter geldt een arbeidsduurfactor van 0,065.   
+2.  Aan de leden van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 6,4% van het maximumbedrag van salarisschaal 16 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. Voor de leden geldt een arbeidsduurfactor van 0,064.   
 
 ### Artikel  5  
 
 1.  De Staatssecretaris van Buitenlandse Zaken voorziet in het secretariaat van de adviescommissie.   
 2.  De adviescommissie stelt haar eigen werkwijze vast.   
-3.  De adviescommissie stelt voor 1 april een verslag op van haar werkzaamheden in het afgelopen kalenderjaar.   
+3.  De adviescommissie stelt voor 1 juli een verslag op van haar werkzaamheden in het afgelopen kalenderjaar.   
 
 ### Artikel  6  
 

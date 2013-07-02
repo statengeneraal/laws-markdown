@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Infrastructuur en Milieu van 28 juni 2011, nr. BJZ2011046962, houdende instelling van de Commissie duurzaamheidsvraagstukken biomassa (Instellingsbesluit Commissie duurzaamheidsvraagstukken biomassa)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies;
+Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -24,16 +24,16 @@ In dit besluit wordt verstaan onder:
 
 *ministerie:* ministerie van Infrastructuur en Milieu;  
 
-*richtlijn 98/70/EG:*richtlijn nr. 98/70/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 1998 betreffende de kwaliteit van benzine en van dieselbrandstof en tot wijziging van Richtlijn 93/12/EEG van de Raad (PbEG L 350);  
+*richtlijn 98/70/EG:* richtlijn nr. 98/70/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 1998 betreffende de kwaliteit van benzine en van dieselbrandstof en tot wijziging van Richtlijn 93/12/EEG van de Raad (PbEG L 350);  
 
-*richtlijn 2009/28/EG:*richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijnen 2001/77/EG en 2003/30/EG (PbEU L 140).    
+*richtlijn 2009/28/EG:* richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijnen 2001/77/EG en 2003/30/EG (PbEU L 140).   
 
 ### Artikel  2  
 
 ####Instelling commissie
 
 1.  Er is een Commissie Duurzaamheidsvraagstukken Biomassa.   
-2.  De commissie wordt ingesteld voor de periode van 1 juli 2011 tot 1 juli 2015.   
+2.  De commissie wordt ingesteld voor de periode van 1 juli 2011 tot 1 juli 2015.  
 
 ### Artikel  3  
 
@@ -66,7 +66,7 @@ b. het verwezenlijken van de 10%-doelstelling in Nederland, mede ten behoeve van
 
 2°. de mogelijkheden die de overheid en het bedrijfsleven hebben om het bereiken van de 10%-doelstelling te bespoedigen en uit te breiden naar vervoersmodaliteiten die nu nog niet worden omvat in de regelgeving ter implementatie van richtlijn 98/70/EG en richtlijn 2009/28/EG;  
 
-3°. de actuele duurzaamheidsvraagstukken die bij de verdere ontwikkeling van het Europese beleid aan de orde zijn, waaronder in ieder geval is begrepen: het vraagstuk van de indirecte effecten van de productie en het gebruik van biomassa, in het licht van de doelstelling om op duurzame wijze reductie van broeikasgasemissies te bereiken door middel van de inzet van biomassa, en het vraagstuk van de effecten op sociaal gebied van de productie van biomassa.       
+3°. de actuele duurzaamheidsvraagstukken die bij de verdere ontwikkeling van het Europese beleid aan de orde zijn, waaronder in ieder geval is begrepen: het vraagstuk van de indirecte effecten van de productie en het gebruik van biomassa, in het licht van de doelstelling om op duurzame wijze reductie van broeikasgasemissies te bereiken door middel van de inzet van biomassa, en het vraagstuk van de effecten op sociaal gebied van de productie van biomassa.      
 
 ### Artikel  4  
 
@@ -74,7 +74,7 @@ b. het verwezenlijken van de 10%-doelstelling in Nederland, mede ten behoeve van
 
 1.  De voorzitter en de leden van de commissie worden benoemd door de minister.   
 2.  De leden kunnen tussentijds worden ontslagen door de minister.   
-3.  Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.   
+3.  Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.  
 
 ### Artikel  5  
 
@@ -82,19 +82,19 @@ b. het verwezenlijken van de 10%-doelstelling in Nederland, mede ten behoeve van
 
 1.  De commissie bepaalt, met inachtneming van dit besluit, haar eigen werkwijze.   
 2.  De commissie stelt een werkplan op.   
-3.  De commissie kan subcommissies instellen en andere personen consulteren, voor zover nodig voor de vervulling van haar taak. De commissie kan, indien zij dit voor de vervulling van haar taak nodig acht, inlichtingen inwinnen bij het ministerie.   
+3.  De commissie kan subcommissies instellen en andere personen consulteren, voor zover nodig voor de vervulling van haar taak. De commissie kan, indien zij dit voor de vervulling van haar taak nodig acht, inlichtingen inwinnen bij het ministerie.  
 
 ### Artikel  6  
 
 ####Archiefbescheiden
 
-De archiefbescheiden betreffende de werkzaamheden van de commissie worden na beëindiging van de werkzaamheden van de commissie overgedragen aan het archief van het ministerie.  
+De archiefbescheiden betreffende de werkzaamheden van de commissie worden na beëindiging van de werkzaamheden van de commissie overgedragen aan het archief van het ministerie. 
 
 ### Artikel  7  
 
 ####Inlichtingen
 
-De commissie verstrekt desgevraagd aan de minister de door hem gewenste inlichtingen.  
+De commissie verstrekt desgevraagd aan de minister de door hem gewenste inlichtingen. 
 
 ### Artikel  8  
 
@@ -103,32 +103,32 @@ De commissie verstrekt desgevraagd aan de minister de door hem gewenste inlichti
 1.  De minister stelt een budget beschikbaar waaruit de materiële kosten van de commissie worden vergoed, voor zover deze in redelijkheid gemaakt zijn bij de vervulling van haar taak, bedoeld in artikel 3. Onder kosten worden in ieder geval verstaan de kosten voor vergaderingen en voor de productie van adviezen.   
 2.  De minister stelt secretariële ondersteuning beschikbaar ten behoeve van de commissie. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de commissie.   
 3.  Het secretariaat van de commissie handelt de declaraties in verband met de kosten, bedoeld in het eerste lid, af.   
-4.  De commissie rapporteert de minister voor het eind van elk kalenderjaar en voor 1 juli 2013 over de gemaakte kosten, in relatie tot het in artikel 5, tweede lid, bedoelde werkplan.   
+4.  De commissie rapporteert de minister voor het eind van elk kalenderjaar en voor 1 juli 2013 over de gemaakte kosten, in relatie tot het in artikel 5, tweede lid, bedoelde werkplan.  
 
 ### Artikel  9  
 
 ####Vergoeding
 
-1.  De voorzitter ontvangt een vaste vergoeding op schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 met een arbeidsduurfactor van 0,2.   
-2.  De andere leden van de commissie ontvangen een vergoeding van 3% van het maximum van salarisschaal 17 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren1984 per vergadering waaraan zij daadwerkelijk hebben deelgenomen.   
-3.  Het secretariaat van de commissie handelt de declaraties af voor vergoedingen als bedoeld in het tweede lid.   
+1.  De voorzitter ontvangt een vaste vergoeding op schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) met een arbeidsduurfactor van 0,2.   
+2.  De andere leden van de commissie ontvangen een vergoeding van 3% van het maximum van salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) per vergadering waaraan zij daadwerkelijk hebben deelgenomen.   
+3.  Het secretariaat van de commissie handelt de declaraties af voor vergoedingen als bedoeld in het tweede lid.  
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 juli 2015.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 juli 2015. 
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Commissie duurzaamheidsvraagstukken biomassa.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie duurzaamheidsvraagstukken biomassa. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 28 juni 2011   
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma   
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma     
