@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.   
+Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen. 
 
 ### Artikel  II  
 
-[Artikel 1k van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../../../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), zoals dat luidde op de dag voorafgaand aan het tijdstip waarop dat artikel vervalt, blijft van toepassing op verzoeken die overeenkomstig genoemd artikel door het Uitvoeringsinstituut werknemersverzekeringen zijn gehonoreerd.  
+[Artikel 1k van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../../../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md), zoals dat luidde op de dag voorafgaand aan het tijdstip waarop dat artikel vervalt, blijft van toepassing op verzoeken die overeenkomstig genoemd artikel door het Uitvoeringsinstituut werknemersverzekeringen zijn gehonoreerd. 
 
 ### Artikel  III  
 
 1.  De artikelen I en II van dit besluit treden in werking met ingang van 1 juli 2013.   
-2.  [Artikel 1k van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../../../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md) vervalt op een bij koninklijk besluit te bepalen tijdstip.   
+2.  [Artikel 1k van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../../../../../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md) vervalt op een bij koninklijk besluit te bepalen tijdstip.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,10 +32,10 @@ Wassenaar
 26 juni 2013  
 Willem-Alexander  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 L.F. Asscher   
 
 de *achtentwintigste* juni 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

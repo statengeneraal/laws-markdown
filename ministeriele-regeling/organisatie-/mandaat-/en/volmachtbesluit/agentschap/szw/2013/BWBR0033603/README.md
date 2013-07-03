@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder Agentschap SZW: het Agentschap SZW, genoemd in [artikel 6a van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md), waaraan de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid bij besluit van 9 december 2002 de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) hebben verleend.  
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder Agentschap SZW: het Agentschap SZW, genoemd in [artikel 6a van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/plaatsvervangend/etc/BWBR0026589/README.md), waaraan de Minister van Financiën en de Minister van Sociale Zaken en Werkgelegenheid bij besluit van 9 december 2002 de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) hebben verleend. 
 
 ### §  2  
 
@@ -28,12 +28,12 @@ b. de afdeling Uitvoering II;
 
 c. de afdeling Financiële Zaken;  
 
-d. de afdeling Diensten, Informatie en Advies.     
+d. de afdeling Diensten, Informatie en Advies.    
 
 ### Artikel  3  
 
 1.  De afdelingen staan onder leiding van een afdelingshoofd.   
-2.  De hoofden van de afdelingen Uitvoering I en Uitvoering II worden bijgestaan door onder hen ressorterende teamleider(s).   
+2.  De hoofden van de afdelingen Uitvoering I en Uitvoering II worden bijgestaan door onder hen ressorterende teamleider(s).  
 
 ### Artikel  4  
 
@@ -81,7 +81,7 @@ t. het opleveren van informatie aan verschillende instanties voor het doen van m
 
 u. het opstellen van managementinformatie over de uitkomsten van controles;  
 
-v. het adviseren van de directeur Agentschap SZW over te nemen acties ter voorbereiding en naar aanleiding van controles en audits betreffende de uitvoering.    
+v. het adviseren van de directeur Agentschap SZW over te nemen acties ter voorbereiding en naar aanleiding van controles en audits betreffende de uitvoering.   
 
 ### Artikel  5  
 
@@ -107,7 +107,7 @@ i. het uitvoeren van de financiële- en betalingsadministratie, zoals betalingen
 
 j. het voeren van de regie over de financiële en formatieve personeelsaangelegenheden richting de directie Bedrijfsvoering, als ook intern binnen het Agentschap SZW;  
 
-k. het leveren van financiële informatie aan opdrachtgevers over de uitvoeringskosten ten behoeve van de offertes en de periodieke financiële rapportages.    
+k. het leveren van financiële informatie aan opdrachtgevers over de uitvoeringskosten ten behoeve van de offertes en de periodieke financiële rapportages.   
 
 ### Artikel  6  
 
@@ -143,11 +143,11 @@ n. het voeren van de regie over taken op het gebied van postverwerking, archiefb
 
 o. de facilitaire aangelegenheden, onder andere op het gebied van huisvesting en telefonie;  
 
-p. het rechtmatig afronden van het ESF 1994-1999, ESF 2000-2006 en ESF-EQUAL.    
+p. het rechtmatig afronden van het ESF 1994-1999, ESF 2000-2006 en ESF-EQUAL.   
 
 ### Artikel  7  
 
-Alle afdelingshoofden zijn naast de specifieke verantwoordelijkheden ook verantwoordelijk voor de directe aansturing van de onder hen ressorterende functionarissen en het jaarlijks opstellen van een werkplan voor de eigen afdeling.  
+Alle afdelingshoofden zijn naast de specifieke verantwoordelijkheden ook verantwoordelijk voor de directe aansturing van de onder hen ressorterende functionarissen en het jaarlijks opstellen van een werkplan voor de eigen afdeling. 
 
 ### §  3  
 
@@ -171,11 +171,11 @@ a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en
 b. het afsluiten van koop-, huur- en leaseovereenkomsten voor de afdeling met een waarde van ten hoogste € 18.510,– per overeenkomst;  
 
 c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de afdeling welke voortvloeien uit het vastgestelde opleidingsplan van het Agentschap SZW.     
-3.  De afdelingshoofden en teamleiders worden gemachtigd tot het paraferen en ondertekenen van stukken, niet zijnde besluiten, die betrekking hebben op taken van de eigen afdeling of het eigen team, een en ander met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur Agentschap SZW afgedaan moeten worden.   
+3.  De afdelingshoofden en teamleiders worden gemachtigd tot het paraferen en ondertekenen van stukken, niet zijnde besluiten, die betrekking hebben op taken van de eigen afdeling of het eigen team, een en ander met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur Agentschap SZW afgedaan moeten worden.  
 
 ### Artikel  9  
 
-Aan de afdelingshoofden Uitvoering I en Uitvoering II wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de subsidieregelingen en opdrachten waarvoor zij verantwoordelijk zijn.  
+Aan de afdelingshoofden Uitvoering I en Uitvoering II wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de subsidieregelingen en opdrachten waarvoor zij verantwoordelijk zijn. 
 
 ### Artikel  10  
 
@@ -188,7 +188,7 @@ b. de functionaris die is aangewezen als plaatsvervanger van de plaatsvervangend
 c. het hoofd van de afdeling Diensten, Informatie en Advies, bij afwezigheid van de in onderdelen a en b genoemde functionarissen;  
 
 d. het hoofd van de afdeling Financiële Zaken, bij afwezigheid van de in onderdelen a, b en c genoemde functionarissen.     
-2.  Bij afwezigheid of verhindering van de directeur Agentschap SZW wordt, voor de duur van de afwezigheid of verhindering, de bevoegdheid tot het nemen van beslissingen in bezwaar- en beroepsprocedures waargenomen door het hoofd van de afdeling Diensten, Informatie en Advies of het hoofd van de afdeling Financiële Zaken.   
+2.  Bij afwezigheid of verhindering van de directeur Agentschap SZW wordt, voor de duur van de afwezigheid of verhindering, de bevoegdheid tot het nemen van beslissingen in bezwaar- en beroepsprocedures waargenomen door het hoofd van de afdeling Diensten, Informatie en Advies of het hoofd van de afdeling Financiële Zaken.  
 
 ### Artikel  11  
 
@@ -201,7 +201,7 @@ b. het hoofd van de afdeling Uitvoering II, bij afwezigheid van de in onderdeel 
 
 a. een teamleider van de afdeling Uitvoering II;  
 
-b. het hoofd van de afdeling Uitvoering I, bij afwezigheid van de in onderdeel a genoemde functionaris.     
+b. het hoofd van de afdeling Uitvoering I, bij afwezigheid van de in onderdeel a genoemde functionaris.    
 
 ### §  4  
 
@@ -211,13 +211,13 @@ b. het hoofd van de afdeling Uitvoering I, bij afwezigheid van de in onderdeel a
 
 1.  Het [Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/agentschap/szw/2010/BWBR0028311/README.md) wordt ingetrokken.   
 2.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 maart 2013.   
-3.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2013.   
+3.  Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2013.  
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 20 juni 2013   
 
 de 
-Minister van Sociale Zaken en Werkgelegenheid,namens deze:
-P.Loekemeijer,
-Directeur Agentschap SZW.   
+Minister van Sociale Zaken en Werkgelegenheid, namens deze: 
+P. Loekemeijer,  
+Directeur Agentschap SZW.    

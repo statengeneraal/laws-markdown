@@ -14,48 +14,59 @@ Gezien het nader rapport van Onze Minister van Financiën van 20 november 2009,
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit bestuurlijke boetes financiële sector.   
+Wijzigt het Besluit bestuurlijke boetes financiële sector. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.   
+Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.   
+Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.   
+Wijzigt het Besluit Markttoegang financiële ondernemingen Wft. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.   
+Wijzigt het Besluit prudentieel toezicht financiële groepen Wft. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit reikwijdtebepalingen Wft.   
+Wijzigt het Besluit reikwijdtebepalingen Wft. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 01-01-2012 
 
-Wijzigt het Besluit toezicht accountantsorganisaties.   
+Wijzigt het Besluit toezicht accountantsorganisaties. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 01-01-2012 
 
-De [Erkenningsregeling permanente educatie Wft](../../../../../../ministeriele-regeling/erkenningsregeling/permanente/educatie/wft/BWBR0023907/README.md) wordt ingetrokken.  
+De [Erkenningsregeling permanente educatie Wft](../../../../../../ministeriele-regeling/erkenningsregeling/permanente/educatie/wft/BWBR0023907/README.md) wordt ingetrokken. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 01-01-2012 
 
-1.  Dit besluit treedt in werking met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt, met uitzondering van de onderdelen A tot en met N en S tot en met V van artikel III, de onderdelen B tot en met F en I tot en met M van artikel IV, artikel V, artikel VI, artikel VII en artikel IX die in werking treden met ingang van 1 januari 2010.   
+1.  Dit besluit treedt in werking met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt, met uitzondering van de onderdelen A tot en met N en S tot en met V van artikel III, de onderdelen B tot en met F en I tot en met M van artikel IV, artikel V, artikel VI, artikel VII en artikel IX die in werking treden met ingang van 1 januari 2010.  
 
 ### Artikel  XI  
+Materieel uitgewerkt per 01-01-2012 
 
-Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2010.  
+Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2010. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

@@ -15,9 +15,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a, *Besluit:* het [Besluit werving, reclame en verslavingspreventie kansspelen](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md)  
+a,  *Besluit:* het [Besluit werving, reclame en verslavingspreventie kansspelen](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md)  
 
-b. *Wet:* de [Wet op de kansspelen](../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md)    
+b.  *Wet:* de [Wet op de kansspelen](../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md)   
 
 ### Paragraaf  2  
 
@@ -41,15 +41,15 @@ d. Het aantal ontvangen meldingen en klachten over wervings- en reclameactivitei
 
 e. Het aantal nieuwe inschrijvingen in het recht van verzet-bestand;  
 
-f. Het aantal aanmeldingen aangeleverd aan het Bel-me-niet-register als bedoeld in [artikel 11.7 van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).     
+f. Het aantal aanmeldingen aangeleverd aan het Bel-me-niet-register als bedoeld in [artikel 11.7 van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).    
 
 ### Artikel  3  
 
 ####Informatieverplichtingen
 
 1.  Bij elke afzonderlijke wervings- en reclameactiviteit wordt op voor de consument voldoende zichtbare wijze gewezen op de minimumleeftijd voor deelname aan een kansspel.   
-2.   Dit lid is nog niet in werking getreden.    
-3.  Bij elke afzonderlijke wervings- en reclameactiviteit wordt op voor de consument voldoende zichtbare wijze gewezen op de internetpagina van de vergunninghouder alwaar informatie verkregen kan worden over de in [artikel 5, eerste en tweede lid, van het besluit](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md), beschreven onderwerpen.   
+2.  Dit lid is nog niet in werking getreden.   
+3.  Bij elke afzonderlijke wervings- en reclameactiviteit wordt op voor de consument voldoende zichtbare wijze gewezen op de internetpagina van de vergunninghouder alwaar informatie verkregen kan worden over de in [artikel 5, eerste en tweede lid, van het besluit](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md), beschreven onderwerpen.  
 
 ### Paragraaf  3  
 
@@ -81,7 +81,7 @@ e. Preventiegesprekken;
 f. Vaardigheden op het gebied van motiveren en overtuigen;  
 
 g. Toeleiding naar de hulpverlening.     
-3.  De cursus, bedoeld in voorgaande artikelleden, wordt iedere drie jaar met goed gevolg herhaald.   
+3.  De cursus, bedoeld in voorgaande artikelleden, wordt iedere drie jaar met goed gevolg herhaald.  
 
 ### Artikel  5  
 
@@ -109,14 +109,14 @@ e. Preventiegesprekken;
 f. Vaardigheden op het gebied van motiveren en overtuigen;  
 
 g. Toeleiding naar de hulpverlening.     
-3.  De cursus, bedoeld in voorgaande artikelleden, wordt iedere drie jaar met goed gevolg herhaald.   
+3.  De cursus, bedoeld in voorgaande artikelleden, wordt iedere drie jaar met goed gevolg herhaald.  
 
 ### Artikel  6  
 
 ####Wettelijk bewijsstuk
 
 1.  Het GGZ Nederland certificaat verslavingsproblematiek voor speelautomatencentra geldt als bewijsstuk, bedoeld in [artikel 6, vijfde lid, van het besluit](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md).   
-2.  Bedrijfsleiders en beheerders van een hoogdrempelige inrichting, bedoeld in [artikel 30c, eerste lid, onder a, van de wet](../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), beschikken over een bewijsstuk, dat is aangewezen krachtens [artikel 8, vijfde lid, van de Drank- en horecawet](../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md).   
+2.  Bedrijfsleiders en beheerders van een hoogdrempelige inrichting, bedoeld in [artikel 30c, eerste lid, onder a, van de wet](../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), beschikken over een bewijsstuk, dat is aangewezen krachtens [artikel 8, vijfde lid, van de Drank- en horecawet](../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md).  
 
 ### Artikel  7  
 
@@ -129,7 +129,7 @@ a. Hoge of toenemende speelfrequentie;
 
 b. Veranderende speeltijdstippen;  
 
-c. Lange of toenemende speelduur.     
+c. Lange of toenemende speelduur.    
 
 ### Paragraaf  4  
 
@@ -139,7 +139,7 @@ c. Lange of toenemende speelduur.
 
 ####Overgangsregeling
 
-Cursussen, zoals bedoeld in artikel 4 en 5 van deze regeling, die door de leidinggevenden en personen, bedoeld in [artikel 8 van het besluit](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md), reeds met goed gevolg zijn voltooid op het moment van inwerkingtreding van deze regeling zijn evenzeer geldig.  
+Cursussen, zoals bedoeld in artikel 4 en 5 van deze regeling, die door de leidinggevenden en personen, bedoeld in [artikel 8 van het besluit](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md), reeds met goed gevolg zijn voltooid op het moment van inwerkingtreding van deze regeling zijn evenzeer geldig. 
 
 ### Artikel  9  
 
@@ -147,15 +147,15 @@ Cursussen, zoals bedoeld in artikel 4 en 5 van deze regeling, die door de leidin
 
 1.  Deze regeling treedt in werking met ingang van het tijdstip waarop het [besluit](../../../../../../../../AMvB/besluit/werving/reclame/en/verslavingspreventie/kansspelen/BWBR0033412/README.md) in werking treedt met uitzondering van artikel 3.   
 2.  Artikel 3, eerst en derde lid, van deze regeling treden in werking per 1 oktober 2013.   
-3.  Artikel 3, tweede lid, van deze regeling treedt in werking per 1 januari 2015.   
+3.  Artikel 3, tweede lid, van deze regeling treedt in werking per 1 januari 2015.  
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Deze Regeling wordt aangehaald als: Regeling werving, reclame en verslavingspreventie kansspelen.  
+Deze Regeling wordt aangehaald als: Regeling werving, reclame en verslavingspreventie kansspelen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     

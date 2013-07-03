@@ -16,11 +16,11 @@ b. [artikel 2, onderdeel b, van dat besluit](../../../../../../../../../AMvB/sub
 
 c. [artikel 2, onderdeel c, van dat besluit](../../../../../../../../../AMvB/subsidiebesluit/experimenten/en/kennisoverdracht/wonen/BWBR0020333/README.md): € 867.000, en  
 
-d. [artikel 2, onderdeel d, van dat besluit](../../../../../../../../../AMvB/subsidiebesluit/experimenten/en/kennisoverdracht/wonen/BWBR0020333/README.md): € 1.569.000.    
+d. [artikel 2, onderdeel d, van dat besluit](../../../../../../../../../AMvB/subsidiebesluit/experimenten/en/kennisoverdracht/wonen/BWBR0020333/README.md): € 1.569.000.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 januari 2007.  
+Deze regeling treedt in werking met ingang van 1 januari 2007. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,4 +28,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.Winsemius   
+P. Winsemius     

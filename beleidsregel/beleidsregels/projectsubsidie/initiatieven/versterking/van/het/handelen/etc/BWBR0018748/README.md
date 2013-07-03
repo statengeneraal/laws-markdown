@@ -18,7 +18,7 @@ b. Minderhedenorganisaties: (zelf)organisaties, al dan niet op etnische of relig
 
 c. Eergerelateerd geweld: elke vorm van geestelijk of lichamelijk geweld gepleegd vanuit een collectieve mentaliteit in reactie op een (dreiging van) schending van de eer van een man of vrouw en daarmee van zijn of haar familie waarvan de buitenwereld op de hoogte is of dreigt te raken;  
 
-d. Handelingsprotocol: een door en voor burgers en organisaties uit de minderheden op te stellen document dat inzicht geeft in handelingsmogelijkheden ter voorkoming van of interventie bij eergerelateerd geweld.    
+d. Handelingsprotocol: een door en voor burgers en organisaties uit de minderheden op te stellen document dat inzicht geeft in handelingsmogelijkheden ter voorkoming van of interventie bij eergerelateerd geweld.   
 
 ### Artikel  2  
 
@@ -28,13 +28,13 @@ De Minister kan op aanvraag een subsidie verlenen ten behoeve van initiatieven d
 
 a. gericht zijn op verbetering van het handelen van burgers en organisaties uit de minderheden bij eergerelateerd geweld en;  
 
-b. bijdragen aan de realisatie van een gezamenlijk op te stellen handelingsprotocol.    
+b. bijdragen aan de realisatie van een gezamenlijk op te stellen handelingsprotocol.   
 
 ### Artikel  3  
 
 ####Budget
 
-Het beschikbare budget voor het verlenen van de subsidies bedraagt € 200.000,= , te besteden in het jaar 2005.  
+Het beschikbare budget voor het verlenen van de subsidies bedraagt € 200.000,= , te besteden in het jaar 2005. 
 
 ### Artikel  4  
 
@@ -44,7 +44,7 @@ Voor verlening van een subsidie komen in aanmerking rechtspersonen, zijnde:
 
 a. minderhedenorganisaties uit groepen waar eergerelateerd geweld zich traditioneel voordoet, dan wel een samenwerkingsverband van meerdere van deze organisaties, waarbij participerende organisaties bij overeenkomst de wijze van samenwerking voor deze activiteit vastleggen en één partij aanwijzen als aanvrager;  
 
-b. een gemeente of provincie, dan wel een door de gemeente of provincie bij overeenkomst aangewezen rechtspersoon, onder aanvullende voorwaarden als genoemd in artikel 7, onderdelen e en f.    
+b. een gemeente of provincie, dan wel een door de gemeente of provincie bij overeenkomst aangewezen rechtspersoon, onder aanvullende voorwaarden als genoemd in artikel 7, onderdelen e en f.   
 
 ### Artikel  5  
 
@@ -56,7 +56,7 @@ b. een gemeente of provincie, dan wel een door de gemeente of provincie bij over
 – een afschrift van de overeenkomst;  
 
 – een door de gemeente, die partij is bij de overeenkomst, ondertekend document, waaruit blijkt dat de gemeente die de subsidie aanvraagt, de rechtspersoon heeft aangewezen als subsidieaanvrager.     
-3.  Een aanvraag tot verlening van een subsidie dient uiterlijk 5 oktober 2005 door de Minister te zijn ontvangen.   
+3.  Een aanvraag tot verlening van een subsidie dient uiterlijk 5 oktober 2005 door de Minister te zijn ontvangen.  
 
 ### Artikel  6  
 
@@ -84,7 +84,7 @@ i. een beschrijving van de wijze waarop, aan de hand van de activiteiten, wordt 
 
 j. een beschrijving van het voorziene gebruik van het handelingsprotocol na afronding van het project.     
 2.  Het projectvoorstel geeft er blijk van te voldoen aan de aanvullende criteria, als genoemd in artikel 7.   
-3.  Het projectvoorstel vermeldt een projectleider.   
+3.  Het projectvoorstel vermeldt een projectleider.  
 
 ### Artikel  7  
 
@@ -104,7 +104,7 @@ e. indien de subsidieaanvrager valt onder artikel 4, lid 2, dient aantoonbaar sp
 
 f. indien de subsidieaanvrager een gemeente of provincie is, dient die gemeente of provincie een eigen bijdrage te leveren voor activiteiten in 2005 of 2006 die bijdragen aan het doel als genoemd in artikel 2, voor een bedrag dat ten minste 50% bedraagt van de aangevraagde subsidie;  
 
-g. de activiteiten mogen niet reeds uit andere hoofde van rijkswege zijn gesubsidieerd en maken geen onderdeel uit van het reguliere beleid van de rijksoverheid, provincie of gemeente.    
+g. de activiteiten mogen niet reeds uit andere hoofde van rijkswege zijn gesubsidieerd en maken geen onderdeel uit van het reguliere beleid van de rijksoverheid, provincie of gemeente.   
 
 ### Artikel  8  
 
@@ -116,13 +116,13 @@ a. activiteiten;
 
 b. personeel;  
 
-c. overhead.    
+c. overhead.   
 
 ### Artikel  9  
 
 ####Omvang subsidie
 
-De subsidie voor de kosten, bedoeld in artikel 8, bedragen maximaal € 35.000 per project, onder verwijzing naar artikel 7, onderdeel f en artikel 8.  
+De subsidie voor de kosten, bedoeld in artikel 8, bedragen maximaal € 35.000 per project, onder verwijzing naar artikel 7, onderdeel f en artikel 8. 
 
 ### Artikel  10  
 
@@ -135,7 +135,7 @@ a. de bestemming van de subsidie;
 
 b. de aard van de medewerking van de aanvrager bij de totstandkoming van het protocol.     
 3.  De subsidie wordt verleend ten behoeve van de projectperiode van 1 oktober 2005 tot en met 31 december 2005.   
-4.  De subsidie wordt eenmalig verleend.   
+4.  De subsidie wordt eenmalig verleend.  
 
 ### Artikel  11  
 
@@ -145,7 +145,7 @@ Op een aanvraag om verlening van een subsidie wordt in ieder geval afwijzend bes
 
 a. niet wordt voldaan aan de artikelen 2, 3, 5 en het projectplan niet voldoet aan de voorwaarden als genoemd in artikel 6;  
 
-b. de kosten van het project naar het oordeel van de Minister niet in redelijke verhouding staan tot de beoogde effecten.    
+b. de kosten van het project naar het oordeel van de Minister niet in redelijke verhouding staan tot de beoogde effecten.   
 
 ### Artikel  12  
 
@@ -153,29 +153,29 @@ b. de kosten van het project naar het oordeel van de Minister niet in redelijke 
 
 1.  De ontvanger van een subsidie dient voor 1 mei 2006 bij de Minister een aanvraag in tot vaststelling van de subsidie.   
 2.  De aanvraag gaat vergezeld van een inhoudelijk en financieel verslag.   
-3.  De Minister beslist voor 1 augustus 2006 op de aanvraag om vaststelling van de subsidie.   
+3.  De Minister beslist voor 1 augustus 2006 op de aanvraag om vaststelling van de subsidie.  
 
 ### Artikel  13  
 
 ####Inventarisatie en evaluatie
 
-De subsidieontvanger verleent op verzoek van de Minister medewerking aan een inventarisatie- of evaluatieonderzoek, bedoeld om inzicht te krijgen in effecten van de gesubsidiëerde activiteiten.  
+De subsidieontvanger verleent op verzoek van de Minister medewerking aan een inventarisatie- of evaluatieonderzoek, bedoeld om inzicht te krijgen in effecten van de gesubsidiëerde activiteiten. 
 
 ### Artikel  14  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  15  
 
 ####Titel
 
-Dit besluit wordt aangehaald als: Beleidsregels projectsubsidie Initiatieven versterking van het handelen bij eergerelateerd geweld.  
+Dit besluit wordt aangehaald als: Beleidsregels projectsubsidie Initiatieven versterking van het handelen bij eergerelateerd geweld. 
 
 Den Haag 
 14 september 2005   
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk   
+M.C.F. Verdonk     

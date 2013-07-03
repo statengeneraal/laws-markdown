@@ -42,7 +42,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *vervoersmanager:* vervoersmanager als bedoeld in de beroepverordening voor het wegvervoer;  
 
-*vrachtauto:* motorvoertuig of een samenstel van voertuigen, dat uitsluitend wordt gebruikt voor vervoer van goederen.    
+*vrachtauto:* motorvoertuig of een samenstel van voertuigen, dat uitsluitend wordt gebruikt voor vervoer van goederen.   
 
 ### Artikel  1.2  
 
@@ -51,9 +51,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 3.  Een natuurlijk persoon die goederen vervoert met een communautaire vergunning van een derde of met een vergunning als bedoeld in artikel 7.1, eerste lid, van een derde, verricht beroepsvervoer indien hij de vrachtauto waarmee de goederen worden vervoerd in eigendom heeft of de vrachtauto hem anderszins tegen vergoeding ter beschikking is gesteld.   
 4.  Het binnenlands vervoer van goederen ten behoeve van een andere rechtspersoon geschiedt voor de toepassing van deze wet voor eigen rekening indien: 
 
-a. die rechtspersoon samen met de vervoerder al dan niet met een of meer andere rechtspersonen ingevolge een beschikking op basis van artikel 15 van de Wet op de vennootschapsbelasting 1969, als een fiscale eenheid wordt aangemerkt, of  
+a. die rechtspersoon samen met de vervoerder al dan niet met een of meer andere rechtspersonen ingevolge een beschikking op basis van [artikel 15 van de Wet op de vennootschapsbelasting 1969](../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), als een fiscale eenheid wordt aangemerkt, of  
 
-b. die rechtspersoon samen met de vervoerder al dan niet met een of meer andere rechtspersonen ingevolge een beschikking op basis van artikel 7 van de Wet op de omzetbelasting 1968, als één onderneming wordt aangemerkt.     
+b. die rechtspersoon samen met de vervoerder al dan niet met een of meer andere rechtspersonen ingevolge een beschikking op basis van [artikel 7 van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), als één onderneming wordt aangemerkt.    
 
 ### Artikel  1.3  
 
@@ -61,7 +61,7 @@ Deze wet is van toepassing op het beroepsvervoer en het eigen vervoer dat wordt 
 
 a. door een in Nederland gevestigde vervoerder;  
 
-b. in Nederland door een buiten Nederland gevestigde vervoerder.    
+b. in Nederland door een buiten Nederland gevestigde vervoerder.   
 
 ### Hoofdstuk  2  
 
@@ -70,11 +70,11 @@ b. in Nederland door een buiten Nederland gevestigde vervoerder.
 ### Artikel  2.1  
 
 1.  De communautaire vergunning is de Nederlandse vergunning voor de uitoefening van het beroep van ondernemer van goederenvervoer over de weg, bedoeld in de beroepsverordening voor het wegvervoer, heeft een geldigheidsduur van maximaal vijf jaar en kan telkens voor vijf jaar worden verlengd.   
-2.  Een vervoerder heeft geen toegang respectievelijk geen toegang meer tot het beroep van wegvervoerondernemer indien op basis van artikel 3.2, eerste lid, respectievelijk 3.4, eerste lid, artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur jegens de vervoerder toepassing vindt.   
+2.  Een vervoerder heeft geen toegang respectievelijk geen toegang meer tot het beroep van wegvervoerondernemer indien op basis van artikel 3.2, eerste lid, respectievelijk 3.4, eerste lid, [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) jegens de vervoerder toepassing vindt.   
 3.  De beroepsverordening voor het wegvervoer is van toepassing op het beroepsvervoer door een in Nederland gevestigde ondernemer dat wordt verricht met één of meer vrachtauto's met een laadvermogen van meer dan 500 kilogram.   
 4.  De NIWO is de bevoegde instantie voor de beroepsverordening voor het wegvervoer en de marktverordening voor het wegvervoer.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt onder daarbij te stellen voorwaarden een gehele of gedeeltelijke vrijstelling verleend van de beroepsverordening voor het wegvervoer aan een in Nederland gevestigde vervoerder die uitsluitend binnenlands beroepsvervoer verrichten dat slechts een geringe weerslag heeft op de vervoermarkt wegens de aard van de vervoerde goederen of de geringe afstand die wordt afgelegd.   
-6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.   
+6.  De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  2.2  
 
@@ -84,7 +84,7 @@ b. in Nederland door een buiten Nederland gevestigde vervoerder.
 4.  De vervoerder overlegt ter plaatse indien een toezichthouder belast met het toezicht op de naleving van de marktverordening voor het wegvervoer die heeft gevorderd, de op grond van die verordening vereiste duidelijke bewijzen dat het cabotagevervoer in overeenstemming met die verordening geschiedt.   
 5.  Cabotagevervoer door een vervoerder die niet in een lidstaat is gevestigd, is verboden.   
 6.  Ter uitvoering van een besluit van de Conferentie van Europese Ministers van Transport of van een bilateraal verdrag met een staat, niet zijnde een EU-lidstaat of een daarmee gelijkgestelde staat, kan bij of krachtens algemene maatregel van bestuur vrijstelling worden verleend van het verbod, bedoeld in het vijfde lid.   
-7.  De voordracht voor een krachtens het zesde lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.   
+7.  De voordracht voor een krachtens het zesde lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  2.3  
 
@@ -110,37 +110,37 @@ c. de op de ritmachtiging te vermelden gegevens, en
 d. de aan de CEMT-vergunning of de ritmachtiging te verbinden voorschriften.     
 5.  Het is een in Nederland gevestigde vervoerder verboden grensoverschrijdend eigen vervoer te verrichten voor trajecten op het grondgebied van andere staten dan lidstaten, zonder te beschikken over een daarvoor geldende door de NIWO verleende ritmachtiging, op grond van een verdrag voor het grensoverschrijdend goederenvervoer met een andere staat.   
 6.  Het is een vervoerder, die niet gevestigd is in een lidstaat verboden om in Nederland eigen vervoer te verrichten zonder te beschikken over één of meerdere daarvoor geldige ritmachtigingen op grond van een verdrag voor het goederenvervoer tussen Nederland met de staat waarin de vervoerder is gevestigd.   
-7.  Ter uitvoering van een besluit van de Conferentie van Europese Ministers van Transport, of van een verdrag met betrekking tot het grensoverschrijdend goederenvervoer, kan bij regeling van Onze Minister vrijstelling worden verleend van het verbod, bedoeld in het eerste, derde, vijfde of zesde lid.   
+7.  Ter uitvoering van een besluit van de Conferentie van Europese Ministers van Transport, of van een verdrag met betrekking tot het grensoverschrijdend goederenvervoer, kan bij regeling van Onze Minister vrijstelling worden verleend van het verbod, bedoeld in het eerste, derde, vijfde of zesde lid.  
 
 ### Artikel  2.4  
 
 1.  De andere staten dan lidstaten, die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, worden voor de toepassing van de marktverordening voor het wegvervoer en van deze wet gelijk gesteld met een lidstaat.   
 2.  Voor zover dit uit een verdrag van de Europese Unie met een staat voortvloeit, wordt die staat voor de toepassing van de marktverordening voor het wegvervoer en deze wet met een lidstaat gelijk gesteld.   
 3.  De door de staten, bedoeld in het eerste en tweede lid, verleende soortgelijke vervoervergunningen en attesten voor bestuurders worden voor de toepassing van de marktverordening voor het wegvervoer gelijkgesteld met communautaire vergunningen onderscheidenlijk met bestuurdersattesten.   
-4.  Onze Minister doet van de staten waarop het tweede lid van toepassing is mededeling in de Staatscourant.   
+4.  Onze Minister doet van de staten waarop het tweede lid van toepassing is mededeling in de Staatscourant.  
 
 ### Artikel  2.5  
 
 1.  Het is een in Nederland of in een andere lidstaat gevestigde vervoerder verboden om beroepsvervoer te verrichten zonder geldige daartoe verleende communautaire vergunning.   
 2.  Het is een in Nederland of in een andere lidstaat gevestigde vervoerder verboden beroepsvervoer te verrichten zonder de aanwezigheid in de vrachtauto van een eensluidend gewaarmerkt afschrift van de communautaire vergunning, bedoeld in het eerste lid.   
 3.  Het is een in Nederland gevestigde vervoerder verboden om grensoverschrijdend beroepsvervoer of cabotagevervoer te verrichten in strijd met het bij of krachtens de marktverordening voor het wegvervoer bepaalde omtrent het bestuurdersattest.   
-4.  Het is een in een andere lidstaat gevestigde vervoerder verboden om naar of vanuit Nederland beroepsvervoer, dan wel binnen Nederland cabotagevervoer te verrichten in strijd met het bij of krachtens de marktverordening voor het wegvervoer bepaalde omtrent het bestuurdersattest.   
+4.  Het is een in een andere lidstaat gevestigde vervoerder verboden om naar of vanuit Nederland beroepsvervoer, dan wel binnen Nederland cabotagevervoer te verrichten in strijd met het bij of krachtens de marktverordening voor het wegvervoer bepaalde omtrent het bestuurdersattest.  
 
 ### Artikel  2.6  
 
-1.  Het is verboden beroepsvervoer of eigen vervoer te verrichten met een vrachtauto ten aanzien waarvan in strijd wordt gehandeld met de bij regeling van Onze Minister aangewezen bepalingen die zijn vastgesteld bij of krachtens de Wegenverkeerswet 1994.   
-2.  Het eerste lid is van overeenkomstige toepassing op het doen verrichten van beroepsvervoer.   
+1.  Het is verboden beroepsvervoer of eigen vervoer te verrichten met een vrachtauto ten aanzien waarvan in strijd wordt gehandeld met de bij regeling van Onze Minister aangewezen bepalingen die zijn vastgesteld bij of krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+2.  Het eerste lid is van overeenkomstige toepassing op het doen verrichten van beroepsvervoer.  
 
 ### Artikel  2.7  
 
 1.  Het is de houder van een communautaire vergunning of van een vergunning als bedoeld in artikel 7.1, eerste lid, verboden om een gewaarmerkte kopie van die vergunning al dan niet tegen betaling ter beschikking te stellen aan een derde ten behoeve van het verrichten van beroepsvervoer.   
-2.  Het eerste lid is van overeenkomstige toepassing op degene aan wie door de houder van een vergunning een gewaarmerkte kopie van die vergunning ter beschikking is gesteld.   
+2.  Het eerste lid is van overeenkomstige toepassing op degene aan wie door de houder van een vergunning een gewaarmerkte kopie van die vergunning ter beschikking is gesteld.  
 
 ### Artikel  2.8  
 
 1.  De voorwaarden betreffende de betrouwbaarheidseis voor een vervoerder, bedoeld in de beroepsverordening voor het wegvervoer zijn: 
 
-a. de overlegging van een niet ouder dan twee maanden zijnde met het oog op de uitoefening van de functie van wegvervoerder verleende verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens;  
+a. de overlegging van een niet ouder dan twee maanden zijnde met het oog op de uitoefening van de functie van wegvervoerder verleende verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md);  
 
 b. het ontbreken van een minder dan twee jaar oud zijnde onherroepelijke rechterlijke uitspraak waarbij is vastgesteld dat de vervoerder de geldende voorschriften inzake de financiële arbeidsvoorwaarden niet is nagekomen, en  
 
@@ -151,7 +151,7 @@ d. het aantal minder dan twee jaar oud zijnde onherroepelijke veroordelingen of 
 e. de één of meer aangewezen vervoersmanagers zijn niet ingevolge de beroepsverordening voor het wegvervoer, door een bevoegde instantie voor die verordening, ongeschikt verklaard om de leiding te hebben over de vervoeractiviteiten van een vervoerder of zijn na een dergelijke ongeschiktverklaring gerehabiliteerd.     
 2.  De voorwaarden betreffende de betrouwbaarheidseis voor een vervoersmanager, bedoeld in artikel 6 van de beroepsverordening voor het wegvervoer zijn: 
 
-a. de overlegging van een niet ouder dan twee maanden zijnde met het oog op de uitoefening van de functie van vervoermanager verleende verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens;  
+a. de overlegging van een niet ouder dan twee maanden zijnde met het oog op de uitoefening van de functie van vervoermanager verleende verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md);  
 
 b. het ontbreken van een minder dan twee jaar oud zijnde onherroepelijke rechterlijke uitspraak als bedoeld in het eerste lid, onderdeel b, waarbij hij de leiding had over de vervoeractiviteiten van de betrokken vervoerder;  
 
@@ -161,7 +161,7 @@ d. het aantal minder dan twee jaar oud zijnde onherroepelijke veroordelingen en 
 
 e. het ontbreken van een veroordeling en van een sanctie als bedoeld in het eerste lid, onderdeel c, waarbij hij de leiding had over de vervoeractiviteiten van de betrokken vervoerder.     
 3.  Voor de toepassing van het eerste lid, onderdelen c en d en van het tweede lid, onderdelen c, d en e, worden veroordelingen en sancties, die vóór 4 december 2011 onherroepelijk zijn geworden, niet in aanmerking genomen.   
-4.  Bij regeling van Onze Minister kunnen met inachtneming van de beroepsverordening voor het wegvervoer en de marktverordening voor het wegvervoer regels worden gesteld over de eisen van financiële draagkracht en vakbekwaamheid.   
+4.  Bij regeling van Onze Minister kunnen met inachtneming van de beroepsverordening voor het wegvervoer en de marktverordening voor het wegvervoer regels worden gesteld over de eisen van financiële draagkracht en vakbekwaamheid.  
 
 ### Artikel  2.8a  
 
@@ -172,7 +172,7 @@ e. het ontbreken van een veroordeling en van een sanctie als bedoeld in het eers
 5.  De toestemming van Onze Minister is vereist voor het nemen van een besluit van de NIWO als bedoeld in het eerste of tweede lid, behoudens voor zover bij algemene maatregel van bestuur anders is bepaald.   
 6.  De toestemming kan slechts worden onthouden vanwege strijd met het recht of met het gelijkheidsbeginsel in het belang van een eerlijke mededinging op de markt voor het beroepsvervoer.   
 7.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de toepassing van het eerste, tweede en vijfde lid, en kunnen andere maatregelen voor rehabilitatie of maatregelen van gelijke werking en nadere regels voor de betrouwbaarheid worden vastgesteld.   
-8.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het zevende lid wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.   
+8.  De voordracht voor een algemene maatregel van bestuur als bedoeld in het zevende lid wordt niet eerder gedaan dan vier weken nadat het ontwerp daarvoor aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  2.9  
 
@@ -180,18 +180,18 @@ e. het ontbreken van een veroordeling en van een sanctie als bedoeld in het eers
 2.  De NIWO meldt aan Onze Minister na ontvangst van de daartoe strekkende melding van de vervoerder, welke één of meer natuurlijke personen de vervoerder als vervoersmanagers heeft aangewezen.   
 3.  De NIWO meldt aan Onze Minister de naam van een vervoersmanager die zij ingevolge de beroepsverordening voor het wegvervoer vanwege het niet voldoen aan de betrouwbaarheidseis, ongeschikt heeft verklaard om de leiding te hebben over de vervoeractiviteiten van een vervoerder.   
 4.  Onze Minister en de NIWO verwerken persoonsgegevens ten behoeve van uitvoering van de beroepsverordening en de marktverordening en het bij of krachtens deze wet gestelde, in het bijzonder in het belang van de handhaving van de vereisten voor de toegang tot het beroep van vervoerder en de betrouwbaarheid van de vervoersmanager.   
-5.  Onze Minister en de NIWO zijn verantwoordelijke als bedoeld in artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens, voor de in het vierde lid bedoelde door hen verwerkte gegevens.   
-6.  De griffier van een gerecht als bedoeld in artikel 2 van de Wet op de rechterlijke organisatie verstrekt aan Onze Minister van Veiligheid en Justitie een afschrift van een: 
+5.  Onze Minister en de NIWO zijn verantwoordelijke als bedoeld in [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor de in het vierde lid bedoelde door hen verwerkte gegevens.   
+6.  De griffier van een gerecht als bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) verstrekt aan Onze Minister van Veiligheid en Justitie een afschrift van een: 
 
 a. uitspraak waarbij is vastgesteld dat de vervoerder de geldende voorschriften inzake de financiële arbeidsvoorwaarden niet is nagekomen, en  
 
 b. uitspraak waarbij een in onderdeel a bedoelde uitspraak is vernietigd.     
-7.  Bij regeling van Onze Minister kunnen regels worden gegeven voor de toepassing van het vierde lid.   
+7.  Bij regeling van Onze Minister kunnen regels worden gegeven voor de toepassing van het vierde lid.  
 
 ### Artikel  2.10  
 
 1.  Onze Minister wijst een exameninstituut aan dat verantwoordelijk is voor de organisatie en de certificering van de examens, bedoeld in de beroepsverordening voor het wegvervoer.   
-2.  Onze Minister kan de aanwijzing, bedoeld in het eerste lid, intrekken indien het exameninstituut zijn taak ernstig verwaarloost of niet voldoet aan de beroepsverordening voor het wegvervoer.   
+2.  Onze Minister kan de aanwijzing, bedoeld in het eerste lid, intrekken indien het exameninstituut zijn taak ernstig verwaarloost of niet voldoet aan de beroepsverordening voor het wegvervoer.  
 
 ### Artikel  2.11  
 
@@ -203,12 +203,12 @@ a. het vervoer voor rekening en risico van de vervoerder wordt verricht; en
 b. tussen de vervoerder en de bestuurder van een vrachtauto sprake is van een loons- en gezagsverhouding.     
 3.  Onze Minster stelt het model vast van de in het tweede lid bedoelde verklaring.   
 4.  Bij regeling van Onze Minister worden regels gegeven over de gevallen waarin Onze Minister ontheffing kan verlenen van het in het eerste lid vermelde verbod, alsmede over de in die gevallen benodigde documenten.   
-5.  Een ontheffing kan onder beperkingen worden verleend en aan een ontheffing kunnen voorschriften worden verbonden.   
+5.  Een ontheffing kan onder beperkingen worden verleend en aan een ontheffing kunnen voorschriften worden verbonden.  
 
 ### Artikel  2.12  
 
-1.  Het bestuurdersattest wordt verleend voor de periode dat de bestuurder ingevolge de Wet arbeid vreemdelingen gerechtigd is arbeid te verrichten doch ten hoogste voor een periode van vijf jaar.   
-2.  De NIWO kan de geldigheid van het bestuurdersattest verlengen tot een periode van ten hoogste vijf jaar indien de periode waarin de bestuurder ingevolge de Wet arbeid vreemdelingen gerechtigd is arbeid te verrichten, is verlengd.   
+1.  Het bestuurdersattest wordt verleend voor de periode dat de bestuurder ingevolge de [Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) gerechtigd is arbeid te verrichten doch ten hoogste voor een periode van vijf jaar.   
+2.  De NIWO kan de geldigheid van het bestuurdersattest verlengen tot een periode van ten hoogste vijf jaar indien de periode waarin de bestuurder ingevolge de [Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) gerechtigd is arbeid te verrichten, is verlengd.  
 
 ### Artikel  2.13  
 
@@ -222,7 +222,7 @@ b. bij regeling van Onze Minister is aangewezen.
 
 a. de inhoud van de vrachtbrief voor het binnenlands beroepsvervoer, en  
 
-b. het gebruik van de vrachtbrief voor het binnenlands en het grensoverschrijdend beroepsvervoer.     
+b. het gebruik van de vrachtbrief voor het binnenlands en het grensoverschrijdend beroepsvervoer.    
 
 ### Hoofdstuk  3  
 
@@ -238,29 +238,29 @@ b. tot verlening of verlenging van een bestuurdersattest, of
 
 c. tot verlening van een CEMT-vergunning of van een ritmachtiging.     
 2.  De NIWO neemt een aanvraag als bedoeld in het eerste lid niet eerder in behandeling dan nadat zij de daarvoor krachtens artikel 4.6, eerste lid, onderdeel a, verschuldigde vergoeding heeft ontvangen.   
-3.  Indien de NIWO niet tijdig heeft beslist, is de aanvraag toegewezen.   
+3.  Indien de NIWO niet tijdig heeft beslist, is de aanvraag toegewezen.  
 
 ### Artikel  3.2  
 
-1.  De NIWO weigert de verlening of verlenging van een communautaire vergunning in het geval en onder de voorwaarden van artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
-2.  Voordat de NIWO toepassing geeft aan het eerste lid, kan zij het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet vragen.   
+1.  De NIWO weigert de verlening of verlenging van een communautaire vergunning in het geval en onder de voorwaarden van [artikel 3 van de Wet bevordering integriteitsbeoordelingen](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) door het openbaar bestuur.   
+2.  Voordat de NIWO toepassing geeft aan het eerste lid, kan zij het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vragen.   
 3.  De NIWO weigert de verlening of verlenging van de communautaire vergunning of de verlening of intrekking van een bestuurdersattest indien de vervoerder niet of niet meer voldoet aan de vereisten voor de uitoefening van het beroep van wegvervoerondernemer van de beroepsverordening voor het wegvervoer.   
 4.  De NIWO verklaart een vervoersmanager ongeschikt om leiding te hebben over de vervoeractiviteiten van een vervoerder indien hij niet langer voldoet aan de eis van betrouwbaarheid van de beroepsverordening voor het wegvervoer.   
 5.  De NIWO gaat over tot intrekking of schorsing van de communautaire vergunning of van een bestuurdersattest volgens de daarvoor geldende procedure van de beroepsverordening voor het wegvervoer indien de vervoerder niet meer voldoet aan de vereisten voor de uitoefening van het beroep van wegvervoerondernemer van die verordening.   
 6.  De NIWO vermeldt bij een besluit tot intrekking van een communautaire vergunning vanwege het niet meer voldoen aan de betrouwbaarheidseis, een termijn voor rehabilitatie vast.   
 7.  Een vervoerder waarvan de communautaire vergunning wegens het niet voldoen aan de betrouwbaarheidseis door de NIWO is geschorst, is na het verstrijken van de termijn van die schorsing, voor de toepassing van de beroepsverordening voor het wegvervoer, de marktverordening voor het wegvervoer en van deze wet gerehabiliteerd.   
 8.  Een vervoerder waarvan de NIWO de communautaire vergunning vanwege het niet voldoen aan de betrouwbaarheidseis heeft ingetrokken is na afloop van de termijn, bedoeld in het zesde lid, voor de toepassing van de beroepsverordening voor het wegvervoer, de marktverordening voor het wegvervoer en van deze wet gerehabiliteerd.   
-9.  Een vervoersmanager die vanwege het niet voldoen aan de betrouwbaarheidseis, door de NIWO ongeschikt is verklaard om zijn functie uit te oefenen, is na het verstrijken van de termijn voor de ongeschiktverklaring, voor de toepassing van de beroepsverordening voor het wegvervoer, de marktverordening voor het wegvervoer en van deze wet gerehabiliteerd.   
+9.  Een vervoersmanager die vanwege het niet voldoen aan de betrouwbaarheidseis, door de NIWO ongeschikt is verklaard om zijn functie uit te oefenen, is na het verstrijken van de termijn voor de ongeschiktverklaring, voor de toepassing van de beroepsverordening voor het wegvervoer, de marktverordening voor het wegvervoer en van deze wet gerehabiliteerd.  
 
 ### Artikel  3.3  
 
 1.  De NIWO weigert de verlening van een CEMT-vergunning indien daarvan vermoedelijk geen, onvoldoende of slechts voor bilateraal vervoer gebruik zal worden gemaakt.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld voor de verdeling van de voor de in Nederland gevestigde vervoerders in het kalenderjaar beschikbare CEMT-vergunningen en ritmachtigingen.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld voor de verdeling van de voor de in Nederland gevestigde vervoerders in het kalenderjaar beschikbare CEMT-vergunningen en ritmachtigingen.  
 
 ### Artikel  3.4  
 
-1.  De NIWO gaat over tot schorsing of intrekking van de communautaire vergunning, in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
-2.  Voordat de NIWO toepassing geeft aan het eerste lid, kan zij het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet vragen.   
+1.  De NIWO gaat over tot schorsing of intrekking van de communautaire vergunning, in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+2.  Voordat de NIWO toepassing geeft aan het eerste lid, kan zij het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vragen.  
 
 ### Artikel  3.5  
 
@@ -271,12 +271,12 @@ a. op verzoek van de vervoerder;
 b. indien de vervoerder niet meer beschikt over een geldige communautaire vergunning, of  
 
 c. de daartoe krachtens artikel 2.3, vierde lid, vastgestelde gevallen.     
-2.  De NIWO kan een aan een in Nederland gevestigde vervoerder verleende CEMT-vergunning intrekken indien de vervoerder daarvan geen, onvoldoende of slechts voor bilateraal vervoer gebruik heeft gemaakt.   
+2.  De NIWO kan een aan een in Nederland gevestigde vervoerder verleende CEMT-vergunning intrekken indien de vervoerder daarvan geen, onvoldoende of slechts voor bilateraal vervoer gebruik heeft gemaakt.  
 
 ### Artikel  3.6  
 
 1.  De vervoerder levert een vervallen of ingetrokken communautaire vergunning, CEMT-vergunning, ritmachtiging, vergunning als bedoeld in artikel 7.1, eerste lid, of een vervallen of ingetrokken bestuurdersattest bij de NIWO in binnen één week na de vervaldatum, onderscheidenlijk de datum van inwerkingtreding van de beschikking tot intrekking.   
-2.  Het eerste lid is van overeenkomstige toepassing op de verstrekte gewaarmerkte kopieën van de vervallen of ingetrokken communautaire vergunning of van het vervallen of ingetrokken bestuurdersattest.   
+2.  Het eerste lid is van overeenkomstige toepassing op de verstrekte gewaarmerkte kopieën van de vervallen of ingetrokken communautaire vergunning of van het vervallen of ingetrokken bestuurdersattest.  
 
 ### Hoofdstuk  4  
 
@@ -300,11 +300,11 @@ f. het beheer van gegevensbestanden en de verstrekking van gegevens uit die best
 
 g. het houden van een elektronisch register met de bij regeling van Onze Minister daarvoor bepaalde gegevens.     
 2.  Bij regeling van Onze Minister kan de NIWO belast worden met andere taken ten aanzien van het goederenvervoer.   
-3.  Op de NIWO is de Kaderwet zelfstandige bestuursorganen van toepassing.   
+3.  Op de NIWO is de [Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing. 
 
 ### Artikel  4.2  
 
-De beleidsregels die de NIWO vaststelt in verband met haar taken als bedoeld in artikel 4.1 worden bekend gemaakt in de Staatscourant.  
+De beleidsregels die de NIWO vaststelt in verband met haar taken als bedoeld in artikel 4.1 worden bekend gemaakt in de Staatscourant. 
 
 ### Artikel  4.3  
 
@@ -318,13 +318,13 @@ b. twee onafhankelijke leden die worden benoemd door Onze Minister.
 4.  Onze Minister kan de door hem benoemde onafhankelijke leden van het bestuur van de NIWO schorsen en ontslaan.   
 5.  De leden van het bestuur van de NIWO worden benoemd voor een periode van drie jaar welke periode met ten hoogste drie jaar kan worden verlengd.   
 6.  De in het eerste lid bedoelde organisaties wijzen plaatsvervangers aan voor de door hen benoemde leden.   
-7.  De vergaderingen van het bestuur kunnen worden bijgewoond door ambtenaren die door Onze Minister zijn aangewezen.   
+7.  De vergaderingen van het bestuur kunnen worden bijgewoond door ambtenaren die door Onze Minister zijn aangewezen.  
 
 ### Artikel  4.4  
 
 1.  De NIWO brengt geen wijziging aan in haar statuten of neemt geen besluit tot opheffing dan na instemming door Onze Minister.   
 2.  De NIWO maakt jaarlijks een begroting van baten en lasten op, die de instemming van Onze Minister behoeft.   
-3.  De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing op het eerste en tweede lid.   
+3.  De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing op het eerste en tweede lid.   
 4.  De NIWO vermeldt in het jaarverslag in ieder geval: 
 
 a. het aantal houders van een communautaire vergunning, van een CEMT-vergunning of van een vergunning als bedoeld in artikel 7.1, eerste lid op de eerste dag van het kalenderjaar en op de laatste dag van het voorafgaande kalenderjaar;  
@@ -335,12 +335,12 @@ c. het aantal communautaire vergunningen, bestuurdersattesten, CEMT-vergunningen
 
 d. het aantal gewaarmerkte kopieën van de in het voorafgaande kalenderjaar verleende communautaire vergunningen;  
 
-e. het aantal vergunningen als bedoeld in artikel 7.1, eerste lid, dat in het voorafgaande kalenderjaar is ingetrokken.     
+e. het aantal vergunningen als bedoeld in artikel 7.1, eerste lid, dat in het voorafgaande kalenderjaar is ingetrokken.    
 
 ### Artikel  4.5  
 
 1.  Onze Minister kan aan de NIWO aanwijzingen van algemene aard geven met betrekking tot de uitvoering van de in artikel 4.1, bedoelde taken.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de uitoefening van het toezicht op de NIWO.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de uitoefening van het toezicht op de NIWO.  
 
 ### Artikel  4.6  
 
@@ -355,7 +355,7 @@ c. is de houder van een vergunning als bedoeld in artikel 7.1, eerste lid, jaarl
 3.  De tarieven voor de vergoedingen, bedoeld in het eerste lid, onderdeel a, worden zodanig vastgesteld dat de begrote baten van die vergoedingen niet uitgaan boven de begrote kosten ter zake van de behandeling van de in het eerste lid bedoelde aanvragen.   
 4.  De tarieven voor de vergoedingen, bedoeld in het eerste lid, onderdelen b en c, worden zodanig vastgesteld dat de begrote baten van die vergoedingen niet uitgaan boven de begrote lasten van de taken, bedoeld in artikel 4.1, anders dan de behandeling van aanvragen.   
 5.  Onder de in het vierde lid bedoelde lasten wordt mede verstaan de bijdragen aan reserves van de NIWO.   
-6.  De NIWO maakt de besluiten tot vaststelling van de tarieven van de vergoedingen, bedoeld in het eerste lid, bekend in de Staatscourant met vermelding van de dagtekening van het besluit van Onze Minister waarbij de goedkeuring is verleend of met vermelding van de omstandigheid dat ingevolge artikel 10:31, vierde lid, van de Algemene wet bestuursrecht, een besluit tot goedkeuring wordt geacht te zijn genomen.   
+6.  De NIWO maakt de besluiten tot vaststelling van de tarieven van de vergoedingen, bedoeld in het eerste lid, bekend in de Staatscourant met vermelding van de dagtekening van het besluit van Onze Minister waarbij de goedkeuring is verleend of met vermelding van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een besluit tot goedkeuring wordt geacht te zijn genomen.  
 
 ### Hoofdstuk  5  
 
@@ -365,33 +365,33 @@ c. is de houder van een vergunning als bedoeld in artikel 7.1, eerste lid, jaarl
 
 1.  Met het toezicht op de naleving van de beroepsverordening voor het wegvervoer, de marktverordening voor het wegvervoer en van het bepaalde bij of krachtens deze wet zijn belast: 
 
-a. de bij of krachtens artikel 141 van het Wetboek van Strafvordering aangewezen ambtenaren;  
+a. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen ambtenaren;  
 
 b. de bij besluit van Onze Minister daartoe aangewezen personen.     
-2.  Van een besluit als bedoeld in het eerste lid, onderdeel c, wordt mededeling gedaan door plaatsing in de Staatscourant.   
+2.  Van een besluit als bedoeld in het eerste lid, onderdeel c, wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  5.2  
 
 1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de beroepsverordening voor het wegvervoer, van de marktverordening voor het wegvervoer of van de bij of krachtens deze wet gestelde verplichtingen.   
-2.  In afwijking van artikel 5:24, derde lid, van de Algemene wet bestuursrecht, kan de beschikking tot toepassing van bestuursdwang bekend worden gemaakt aan de bestuurder van de vrachtauto ten aanzien waarvan bestuursdwang zal worden toegepast.   
-3.  In geval van overtreding van artikel 3.6 kan de NIWO de vervoerder een last onder dwangsom opleggen teneinde die overtreding ongedaan te maken.   
+2.  In afwijking van [artikel 5:24, derde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan de beschikking tot toepassing van bestuursdwang bekend worden gemaakt aan de bestuurder van de vrachtauto ten aanzien waarvan bestuursdwang zal worden toegepast.   
+3.  In geval van overtreding van artikel 3.6 kan de NIWO de vervoerder een last onder dwangsom opleggen teneinde die overtreding ongedaan te maken.  
 
 ### Artikel  5.3  
 
-De Nederlandse strafwet is mede van toepassing op de in Nederland gevestigde vervoerder die zich buiten Nederland schuldig maakt aan een overtreding van het bepaalde bij of krachtens deze wet.  
+De Nederlandse strafwet is mede van toepassing op de in Nederland gevestigde vervoerder die zich buiten Nederland schuldig maakt aan een overtreding van het bepaalde bij of krachtens deze wet. 
 
 ### Artikel  5.4  
 
-1.  De ambtenaren, die op basis van artikel 17 van de Wet op de economische delicten zijn belast met de opsporing van overtredingen van deze wet, zijn bevoegd het vervoer van goederen dat wordt verricht in strijd met de artikelen 2.3, eerste en derde lid en 2.5 te beletten en een mechanisch hulpmiddel aan te brengen of te doen aanbrengen op de vrachtauto waarmee de overtreding is gepleegd waardoor wordt verhinderd dat de vrachtauto wordt weggereden, teneinde de overtreding te doen ophouden.   
+1.  De ambtenaren, die op basis van [artikel 17 van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) zijn belast met de opsporing van overtredingen van deze wet, zijn bevoegd het vervoer van goederen dat wordt verricht in strijd met de artikelen 2.3, eerste en derde lid en 2.5 te beletten en een mechanisch hulpmiddel aan te brengen of te doen aanbrengen op de vrachtauto waarmee de overtreding is gepleegd waardoor wordt verhinderd dat de vrachtauto wordt weggereden, teneinde de overtreding te doen ophouden.   
 2.  Het aangebrachte mechanisch hulpmiddel wordt verwijderd nadat de overtreding is opgehouden dan wel na het aanbrengen achtenveertig uren zijn verstreken en de kosten van het aanbrengen en het verwijderen ervan zijn voldaan.   
-3.  De betrokken ambtenaar maakt van het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, proces-verbaal op. Hij zendt dit proces-verbaal binnen vierentwintig uur aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, is geschied. Een afschrift van het proces-verbaal wordt gelijktijdig uitgereikt of toegezonden aan de bestuurder.   
+3.  De betrokken ambtenaar maakt van het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, proces-verbaal op. Hij zendt dit proces-verbaal binnen vierentwintig uur aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar het aanbrengen van het mechanisch hulpmiddel, bedoeld in het eerste lid, is geschied. Een afschrift van het proces-verbaal wordt gelijktijdig uitgereikt of toegezonden aan de bestuurder.  
 
 ### Artikel  5.5  
 
 1.  Elke belanghebbende kan tegen het aanbrengen van het mechanisch hulpmiddel, bedoeld in artikel 5.4, eerste lid, gedurende vier weken een beroepsschrift indienen bij de rechtbank, bedoeld in artikel 5.4, derde lid.   
 2.  Indien de rechtbank het beroepschrift gegrond acht, kan zij bepalen dat ten laste van de Staat der Nederlanden een vergoeding wordt toegekend.   
 3.  Tegen de beschikking van de rechtbank staat het Openbaar Ministerie binnen twee weken en de belanghebbende binnen twee weken nadat zij hem betekend werd, hoger beroep open bij het gerechtshof.   
-4.  Tegen de beschikking van het gerechtshof staat het Openbaar Ministerie binnen twee weken en de belanghebbende binnen twee weken nadat zij hem betekend werd, beroep in cassatie open.   
+4.  Tegen de beschikking van het gerechtshof staat het Openbaar Ministerie binnen twee weken en de belanghebbende binnen twee weken nadat zij hem betekend werd, beroep in cassatie open.  
 
 ### Hoofdstuk  6  
 
@@ -399,19 +399,19 @@ De Nederlandse strafwet is mede van toepassing op de in Nederland gevestigde ver
 
 ### Artikel  6.1  
 
-Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur. 
 
 ### Artikel  6.2  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  6.3  
 
-Wijzigt de Vervoersnoodwet.   
+Wijzigt de Vervoersnoodwet. 
 
 ### Artikel  6.4  
 
-Wijzigt de Vestigingswet Bedrijven 1954.   
+Wijzigt de Vestigingswet Bedrijven 1954. 
 
 ### Hoofdstuk  7  
 
@@ -419,7 +419,7 @@ Wijzigt de Vestigingswet Bedrijven 1954.
 
 ### Artikel  7.1  
 
-1.  De verboden, bedoeld in artikel 2.5, gelden niet voor binnenlands beroepsvervoer door een vervoerder die beschikt over een geldige vergunning als bedoeld in artikel 5, eerste lid, van de Wet goederenvervoer over de weg, die vóór de inwerkingtreding van deze wet is verleend.   
+1.  De verboden, bedoeld in artikel 2.5, gelden niet voor binnenlands beroepsvervoer door een vervoerder die beschikt over een geldige vergunning als bedoeld in [artikel 5, eerste lid, van de Wet goederenvervoer over de weg](../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), die vóór de inwerkingtreding van deze wet is verleend.   
 2.  De vergunning, bedoeld in het eerste lid, blijft voor onbepaalde tijd geldig.   
 3.  De NIWO onderzoekt iedere vijf jaar indien de vervoerder een natuurlijk persoon is of : 
 
@@ -434,7 +434,7 @@ b. de een of meer natuurlijke personen die de vervoeractiviteiten permanent en d
 
 c. ten minste een van de onder b bedoelde natuurlijke personen voldoet aan de eisen van vakbekwaamheid.     
 5.  De artikelen 2.8 en 2.8a en de artikel 7 van de beroepsverordening voor het wegvervoer zijn van overeenkomstige toepassing op de vergunning, bedoeld in het eerste lid.   
-6.  Het bij of krachtens artikel 21, eerste, of tweede lid, van het Besluit goederenvervoer over de weg, bepaalde zoals dat luidde op de dag voor de inwerkingtreding van deze wet, is van overeenkomstige toepassing.   
+6.  Het bij of krachtens [artikel 21, eerste, of tweede lid, van het Besluit goederenvervoer over de weg](../../../../../AMvB/besluit/goederenvervoer/over/de/weg/BWBR0005496/README.md), bepaalde zoals dat luidde op de dag voor de inwerkingtreding van deze wet, is van overeenkomstige toepassing.  
 
 ### Artikel  7.2  
 
@@ -447,14 +447,14 @@ b. op verzoek van de vergunninghouder;
 c. indien de vervoerder zijn vervoersactiviteiten heeft gestaakt, of  
 
 d. indien de een of meer natuurlijke personen die vóór de inwerkingtreding van deze wet de vervoeractiviteiten van de vervoerder permanent en daadwerkelijk leidden en voldeden aan de eis van vakbekwaamheid, bedoeld in artikel 7.1, derde en zesde lid onderscheidenlijk vierde en zesde lid, niet langer permanent en daadwerkelijk leiding geven aan die vervoeractiviteiten.     
-2.  De NIWO kan de vergunning, bedoeld in artikel 7.1, eerste lid, intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
-3.  Voordat de NIWO toepassing geeft aan het tweede lid, kan zij het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet vragen.   
+2.  De NIWO kan de vergunning, bedoeld in artikel 7.1, eerste lid, intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+3.  Voordat de NIWO toepassing geeft aan het tweede lid, kan zij het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vragen.   
 4.  De vergunning, bedoeld in artikel 7.1, eerste lid, vervalt van rechtswege met ingang van het tijdstip van: 
 
 a. overlijden dan wel intreden van wettelijke onbekwaamheid van de natuurlijke persoon waaraan de vergunning is verleend, of  
 
 b. ontbinding van de rechtspersoon waaraan de vergunning is verleend.     
-5.  Artikel 13 van de beroepsverordening voor het wegvervoer is van overeenkomstige toepassing indien als gevolg van overlijden of lichamelijk of wettelijke onbekwaamheid van een natuurlijk persoon niet meer wordt voldaan aan de eisen van betrouwbaarheid en vakbekwaamheid, bedoeld in artikel 7.1, derde, vijfde en zesde lid onderscheidenlijk vierde tot en met zesde lid.   
+5.  Artikel 13 van de beroepsverordening voor het wegvervoer is van overeenkomstige toepassing indien als gevolg van overlijden of lichamelijk of wettelijke onbekwaamheid van een natuurlijk persoon niet meer wordt voldaan aan de eisen van betrouwbaarheid en vakbekwaamheid, bedoeld in artikel 7.1, derde, vijfde en zesde lid onderscheidenlijk vierde tot en met zesde lid.  
 
 ### Hoofdstuk  8  
 
@@ -463,37 +463,37 @@ b. ontbinding van de rechtspersoon waaraan de vergunning is verleend.
 ### Artikel  8.1  
 
 1.  Tegen een op grond van de beroepsverordening voor het wegvervoer, van de marktverordening van het wegvervoer of van deze wet genomen besluit, kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  In afwijking van het eerste lid kan een belanghebbende indien de ingevolge artikel 2.8a, vijfde lid vereiste toestemming van Onze Minister ontbreekt, geen beroep instellen tegen een beschikking van de NIWO inhoudende het verlies van de betrouwbaarheid als bedoeld in artikel 2.8a, derde en vierde lid.   
+2.  In afwijking van het eerste lid kan een belanghebbende indien de ingevolge artikel 2.8a, vijfde lid vereiste toestemming van Onze Minister ontbreekt, geen beroep instellen tegen een beschikking van de NIWO inhoudende het verlies van de betrouwbaarheid als bedoeld in artikel 2.8a, derde en vierde lid.  
 
 ### Artikel  8.3  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  8.4  
 
-Wijzigt de Wet BDU verkeer en vervoer.   
+Wijzigt de Wet BDU verkeer en vervoer. 
 
 ### Artikel  8.5  
 
-Wijzigt de Spoorwegwet.   
+Wijzigt de Spoorwegwet. 
 
 ### Artikel  8.6  
 
-De Wet goederenvervoer over de weg wordt ingetrokken.  
+De [Wet goederenvervoer over de weg](../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) wordt ingetrokken. 
 
 ### Artikel  8.7  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  8.8  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kunnen andere tijdstippen worden vastgesteld waarop de onderdelen van artikel 8.4 in werking treden.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kunnen andere tijdstippen worden vastgesteld waarop de onderdelen van artikel 8.4 in werking treden. 
 
 ### Artikel  8.9  
 
-Deze wet wordt aangehaald als: Wet wegvervoer goederen.  
+Deze wet wordt aangehaald als: Wet wegvervoer goederen. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 30 oktober 2008  

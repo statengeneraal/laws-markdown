@@ -26,20 +26,20 @@ g. het aantal uitgevaardigde Europees bewijsverkrijgingsbevelen dat per lidstaat
 
 h. de gemiddelde duur van de uitvoering van de uitgevaardigde Europees bewijsverkrijgingsbevelen;  
 
-i. het aantal uitgevaardigde Europees bewijsverkrijgingsbevelen waarvan de erkenning of uitvoering is geweigerd alsmede de grond die tot weigering heeft geleid.    
+i. het aantal uitgevaardigde Europees bewijsverkrijgingsbevelen waarvan de erkenning of uitvoering is geweigerd alsmede de grond die tot weigering heeft geleid.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 juli 2013.  
+Deze regeling treedt in werking met ingang van 1 juli 2013. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling uitvoeringsrapportage Europees bewijsverkrijgingsbevel.  
+Deze regeling wordt aangehaald als: Regeling uitvoeringsrapportage Europees bewijsverkrijgingsbevel. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 24 juni 2013   
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     

@@ -1,15 +1,15 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling subsidie onderzoeksprogramma Politie en Wetenschap
+##Regeling subsidie onderzoeksprogramma Politie en Wetenschap 
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Gelet op [artikel 7 van de Wet overige BiZa-subsidies](../../../../../../../../wet/wet/overige/biza-subsidies/BWBR0009055/README.md);
-Besluit    
+Besluit     
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder:   a. de minister:  de minister van Binnenlandse Zaken en Koninkrijksrelaties;    b. het LSOP:  het Landelijk selectie- en opleidingsinstituut politie;    c. de CPW:  de door de minister bij besluit van 2 mei 2000 ingestelde Commissie Politie en Wetenschap;    d. het onderzoeksprogramma:  het meerjarig onderzoeksprogramma Politie en Wetenschap, bedoeld in artikel 3.      
-2.  Deze regeling berust op de [artikelen 14](../../../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md) en [15 van de Wet overige BZK-subsidies](../../../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md).   
+1. In deze regeling wordt verstaan onder: a. de minister:   de minister van Binnenlandse Zaken en Koninkrijksrelaties;  b. het LSOP:   het Landelijk selectie- en opleidingsinstituut politie;  c. de CPW:   de door de minister bij besluit van 2 mei 2000 ingestelde Commissie Politie en Wetenschap;  d. het onderzoeksprogramma:   het meerjarig onderzoeksprogramma Politie en Wetenschap, bedoeld in artikel 3.     
+2.  Deze regeling berust op de [artikelen 14](../../../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md) en [15 van de Wet overige BZK-subsidies](../../../../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md). 
 
 ### Artikel  2  
 
@@ -20,9 +20,9 @@ Besluit
 
 1.  Het onderzoeksprogramma heeft betrekking op: 
 
-a. het initiëren, coördineren en stimuleren van planmatig en systematisch strategisch onderzoek op het terrein van politie en veiligheid, met inbegrip van kortlopend onderzoek dat ingaat op actuele vraagstukken, en  
+a.  het initiëren, coördineren en stimuleren van planmatig en systematisch strategisch onderzoek op het terrein van politie en veiligheid, met inbegrip van kortlopend onderzoek dat ingaat op actuele vraagstukken, en 
 
-b. het stimuleren en verbeteren van de wetenschappelijke discussie met betrekking tot relevante ontwikkelingen inzake de politie tussen de onderzoekswereld enerzijds en de politie en relevante maatschappelijke actoren op het gebied van veiligheid anderzijds.     
+b.  het stimuleren en verbeteren van de wetenschappelijke discussie met betrekking tot relevante ontwikkelingen inzake de politie tussen de onderzoekswereld enerzijds en de politie en relevante maatschappelijke actoren op het gebied van veiligheid anderzijds.    
 2.  Het onderzoeksprogramma bestaat in ieder geval uit een overzicht van onderzoeksdomeinen, met daarbinnen prioritaire onderzoeksthema’s en concrete aanbesteedbare onderzoeksvoorstellen.   
 3.  Het onderzoeksprogramma heeft een maximale looptijd van vier jaar, tenzij de minister anders bepaalt. Door de CPW wordt daartoe een meerjarig onderzoeksprogramma opgesteld, alsmede jaarlijks een nadere uitwerking van dit onderzoeksprogramma voor het komende jaar. De minister stelt de stukken, bedoeld in de tweede volzin, vast.   
 
@@ -72,11 +72,11 @@ Het LSOP en de CPW zijn gehouden de minister te vrijwaren voor schade, die het g
 1.  Het LSOP, op voorstel van de CPW, dient de aanvraag tot subsidievaststelling bij de minister in voor 1 juni van het jaar volgend op het subsidiejaar.   
 2.  De aanvraag tot subsidievaststelling gaat vergezeld van: 
 
-a. de door de raad van toezicht van het LSOP goedgekeurde jaarrekening over het subsidiejaar, waarbij een accountantsverklaring is gevoegd;  
+a.  de door de raad van toezicht van het LSOP goedgekeurde jaarrekening over het subsidiejaar, waarbij een accountantsverklaring is gevoegd; 
 
-b. het verslag van werkzaamheden over het subsidiejaar;  
+b.  het verslag van werkzaamheden over het subsidiejaar; 
 
-c. de resultaten van het gesubsidieerde onderzoek in de vorm van een tussenrapportage of de goedgekeurde eindrapportage.     
+c.  de resultaten van het gesubsidieerde onderzoek in de vorm van een tussenrapportage of de goedgekeurde eindrapportage.    
 3.  Ter nadere verificatie van de verantwoording kan de minister een onderzoek laten instellen door door hem aangewezen ambtenaren of andere personen. Op hun verzoek verstrekken het LSOP en de CPW alle bescheiden en inlichtingen die de in de eerste volzin bedoelde personen noodzakelijk achten voor een juiste vervulling van hun taak.   
 4.  Indien door of namens de CPW of een onderzoekinstelling onjuiste of onvolledige gegevens zijn verstrekt, of indien de in deze bepalingen vervatte voorschriften, of andere voorschriften die de minister aan het verlenen van de subsidie heeft verbonden, niet zijn nageleefd, kan de minister de toezegging wijzigen, dan wel intrekken, het verstrekken van voorschotten opschorten, of de subsidie op een lager bedrag vaststellen, dan wanneer de instelling wel aan deze voorschriften had voldaan.   
 
@@ -100,7 +100,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling subsidie onderzoeksprogramma Politie en Wetenschap.  
+Deze regeling wordt aangehaald als: Regeling subsidie onderzoeksprogramma Politie en Wetenschap. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -108,4 +108,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-K.G. deVries    
+K.G. de Vries      

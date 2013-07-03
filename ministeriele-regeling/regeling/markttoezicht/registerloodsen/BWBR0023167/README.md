@@ -18,7 +18,7 @@ b. de gemeente Harlingen;
 
 c. het Centraal Nautisch Beheer Noordzeekanaalgebied;  
 
-d. de gemeente Amsterdam;  
+d. het Havenbedrijf Amsterdam N.V. namens de gemeente Amsterdam;  
 
 e. de gemeente Den Helder;  
 
@@ -28,7 +28,7 @@ g. de haven van Dordrecht;
 
 h. het Havenschap Moerdijk; en  
 
-i. Zeeland Seaports.    
+i. Zeeland Seaports.   
 
 ### Artikel  2  
 
@@ -54,7 +54,7 @@ h. Vereniging van Rotterdamse cargadoors (VRC);
 
 i. Adviescommissie uit het bedrijfsleven Zeeland Seaports;  
 
-j. Vereniging van Zeeuwse cargadoors (VZC).    
+j. Vereniging van Zeeuwse cargadoors (VZC).   
 
 ### Artikel  3  
 
@@ -68,19 +68,26 @@ b. de vertegenwoordigers van de openbare lichamen, bedoeld in artikel 1, onderde
 
 c. de vertegenwoordigers van de openbare lichamen, bedoeld in artikel 1, onderdelen f, g en h, en vertegenwoordigers van de organisaties, bedoeld in artikel 2, onderdelen a, g en h, in de regio Rotterdam-Rijnmond;  
 
-d. de vertegenwoordigers van de openbare lichamen, bedoeld in artikel 1, onderdeel i, en vertegenwoordigers van de organisaties, bedoeld in artikel 2, onderdelen a, i en j, in de regio Scheldemonden.    
+d. de vertegenwoordigers van de openbare lichamen, bedoeld in artikel 1, onderdeel i, en vertegenwoordigers van de organisaties, bedoeld in artikel 2, onderdelen a, i en j, in de regio Scheldemonden.   
+
+### Artikel  3a  
+
+####Tariefgebieden en tariefkolommen
+
+1.  Ter nadere bepaling van het T-tarief, bedoeld in [artikel 4.3 van het Besluit markttoezicht registerloodsen](../../../../../AMvB/besluit/markttoezicht/registerloodsen/BWBR0023123/README.md), worden de zeehavengebieden overeenkomstig bijlage 1 bij deze regeling ingedeeld in tariefgebieden.   
+2.  De in het eerste lid bedoelde tariefgebieden, worden overeenkomstig bijlage 2 bij deze regeling ingedeeld in tariefkolommen.  
 
 ### Artikel  4  
 
 ####Correctiefactor
 
-De correctiefactor, bedoeld in [artikel 27d, derde lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), die bij de vaststelling van de loodsgeldtarieven in acht wordt genomen, bedraagt met betrekking tot de tarieven voor 2011 voor de havengebieden, bedoeld in [artikel 1.1 van het Besluit markttoezicht registerloodsen](../../../../../AMvB/besluit/markttoezicht/registerloodsen/BWBR0023123/README.md), 0%.  
+De correctiefactor, bedoeld in [artikel 27d, derde lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), bedraagt voor schepen die een inkomende-, uitgaande-, rendez-vous- of verhaalreis maken waarbij loodsdiensten worden verricht in het zeehavengebied van Delfzijl-Eemshaven, Harlingen-Terschelling of Den Helder-Den Oever-Oudenschild, +30% van het voor de betreffende reis vastgestelde S-tarief. 
 
 ### Artikel  5  
 
 ####Bestuursorganen belast met nautisch beheer
 
-Voor de toepassing van [artikel 27j, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), worden vertegenwoordigers van de volgende bestuursorganen belast met het nautisch beheer van een of meer zeehavens aangewezen: 
+Voor de toepassing van[artikel 27j, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), worden vertegenwoordigers van de volgende bestuursorganen belast met het nautisch beheer van een of meer zeehavens aangewezen: 
 
 a. de hoofdingenieur-directeur van Rijkswaterstaat Noord-Nederland;  
 
@@ -92,7 +99,7 @@ d. de hoofdingenieur-directeur van Rijkswaterstaat Zuid-Holland;
 
 e. de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;  
 
-f. de Rijkshavenmeester Westerschelde.    
+f. de Rijkshavenmeester Westerschelde.   
 
 ### Artikel  6  
 
@@ -140,13 +147,13 @@ d. indirecte taakuren vastgesteld op de hoogte van de vergoeding voor directe lo
 
 ####Vergoeding afgifte verklaring van vrijstelling
 
-Voor de afgifte van een verklaring van vrijstelling, bedoeld in [artikel 2, eerste lid, van het Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md), is aan de regionale autoriteit die de verklaring afgeeft een vergoeding verschuldigd van € 35,–.  
+Voor de afgifte van een verklaring van vrijstelling, bedoeld in [artikel 2, eerste lid, van het Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md), is aan de regionale autoriteit die de verklaring afgeeft een vergoeding verschuldigd van € 35,–. 
 
 ### Artikel  8  
 
 ####Aanpassen andere regelingen
 
-[Paragraaf 4 van de Regeling EG-verklaring registerloods](../../../../../ministeriele-regeling/regeling/eg-verklaring/registerloods/BWBR0013240/README.md) vervalt.  
+[Paragraaf 4 van de Regeling EG-verklaring registerloods](../../../../../ministeriele-regeling/regeling/eg-verklaring/registerloods/BWBR0013240/README.md) vervalt. 
 
 ### Artikel  9  
 
@@ -154,27 +161,204 @@ Voor de afgifte van een verklaring van vrijstelling, bedoeld in [artikel 2, eers
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Regeling tarief verklaringen van vrijstelling Scheepvaartverkeerswet](../../../../../ministeriele-regeling/regeling/tarief/verklaringen/van/vrijstelling/scheepvaartverkeerswet/BWBR0007554/README.md);  
+a.[Regeling tarief verklaringen van vrijstelling Scheepvaartverkeerswet](../../../../../ministeriele-regeling/regeling/tarief/verklaringen/van/vrijstelling/scheepvaartverkeerswet/BWBR0007554/README.md);
 
-b. [Regeling tarief loodsenregister en Register loodsplicht kleine zeeschepen](../../../../../ministeriele-regeling/regeling/tarief/loodsenregister/en/register/loodsplicht/kleine/zeeschepen/BWBR0007557/README.md);  
+b.[Regeling tarief loodsenregister en Register loodsplicht kleine zeeschepen](../../../../../ministeriele-regeling/regeling/tarief/loodsenregister/en/register/loodsplicht/kleine/zeeschepen/BWBR0007557/README.md);
 
-c. [Regeling van de Minster van Verkeer en waterstaat van 14 september 1995, nr. J013.629/95](../../../../../ministeriele-regeling/aanwijzing/overleg-/partijen/loodsgeldtarief/BWBR0007552/README.md) (Stcrt. 188); en  
+c.[Regeling van de Minster van Verkeer en waterstaat van 14 september 1995, nr. J013.629/95](../../../../../ministeriele-regeling/aanwijzing/overleg-/partijen/loodsgeldtarief/BWBR0007552/README.md) (Stcrt. 188); en
 
-d. [Regeling loodsgeldtarieven](../../../../../ministeriele-regeling/regeling/loodsgeldtarieven/BWBR0007555/README.md).    
+d.[Regeling loodsgeldtarieven](../../../../../ministeriele-regeling/regeling/loodsgeldtarieven/BWBR0007555/README.md).
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2008.  
+Deze regeling treedt in werking met ingang van 1 januari 2008. 
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling markttoezicht registerloodsen.  
+Deze regeling wordt aangehaald als: Regeling markttoezicht registerloodsen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings    
+
+### Bijlage 1 
+
+####bij artikel 3a, eerste lid , Regeling markttoezicht registerloodsen
+
+1.  *Zeehavengebied Delfzijl-Eemshaven:*  
+
+–  *Tariefgebied Eems A: *Eemshaven. Het bevaarbare gedeelte van de Eems, dat gelegen is zuidelijk van de lijn gaande door de coördinaten 53° 28,5’N / 006° 40’E en 53° 29’N / 007° 01’E en noordelijk van de lijn gaande door de coördinaten 53° 24’N / 006° 53’E en 53° 24’N / 007° 01’E;  
+
+–  *Tariefgebied Eems B:* Delfzijl. Het bevaarbare gedeelte van de Eems, dat zuidelijk gelegen is van de lijn gaande door de coördinaten 53° 24’N / 006° 53’E en 53° 24’N / 007° 01’E.    
+
+2.  *Zeehavengebied Harlingen-Terschelling:*  
+
+–  *Tariefgebied Harlingen A:* Harlingen. Dit is het bevaarbare gedeelte dat zuidelijk gelegen is van de lijn gaande door de coördinaten 53° 12’N / 005° 06’ en 53° 20’N / 005° 27’E en noordoostelijk van de lijn gaande door de coördinaten 53° 12’N / 005° 06’E en 53° 08’N / 005° 25’E;  
+
+–  *Tariefgebied Harlingen B: *Kornwerderzand. Dit is het bevaarbare gedeelte dat zuidwestelijk gelegen is van de lijn gaande door de coördinaten 53° 12’N / 005° 06’E en 53° 08’N / 005° 25’E en oostelijk van de lijn gaande door de coördinaten 52° 54’N / 004° 50’E en 53° 01’N / 004° 48’E;  
+
+–  *Tariefgebied Harlingen C:* Den Helder. Dit is het bevaarbare gedeelte westelijk van de in het in Tariefgebied Harlingen B genoemde westelijke begrenzing    
+
+3.  *Zeehavengebied Den Helder-Den Oever- Oudeschild*  
+
+–  *Tariefgebied Den Helder A:* De Haven van Den Helder en de havens en het Wad ten noorden van 53°0’ Noorderbreedte en ten westen van 4° 53’ Oosterlengte;  
+
+–  *Tariefgebied Den Helder B:* De havens en het Wad ten zuiden van 53° Noorderbreedte en ten oosten van 4° 53’ Oosterlengte;  
+
+–  *Tariefgebied Den Helder C:* De havens en het Wad ten noorden van 53° Noorderbreedte en ten oosten van 4° 53’ Oosterlengte, exclusief de haven van Harlingen;  
+
+–  *Tariefgebied Den Helder D:* De haven van Harlingen.    
+
+4.  *Zeehavengebied Amsterdam-IJmuiden*  
+
+–  *Tariefgebied Amsterdam-IJmuiden A*. De havens en het bevaarbare gebied tussen de meridiaan van 4°34’ Oosterlengte en de sluizen, inclusief de Seaport Marina;  
+
+–  *Tariefgebied Amsterdam-IJmuiden B*. Het gedeelte van het Noordzeekanaal en de havens die liggen tussen de sluizen en kilometerraai 7, inclusief de sluizen;  
+
+–  *Tariefgebied Amsterdam-IJmuiden C*. Het gedeelte van het Noordzeekanaal en de havens die liggen tussen kilometerraai 7 en kilometerraai 14;  
+
+–  *Tariefgebied Amsterdam-IJmuiden D*. Het gedeelte van het Noordzeekanaal en de havens die liggen tussen kilometerraai 14 en kilometerraai 19;  
+
+–  *Tariefgebied Amsterdam-IJmuiden E*. Het gedeelte van het Noordzeekanaal en de havens die liggen tussen kilometerraai 19 en de parallel van 52° 23,3’ Noorderbreedte.  
+
+–  *Tariefgebied Amsterdam-IJmuiden F*. Het gedeelte van het IJ en de havens die zuidelijk liggen van de parallel van 52° 23,3’ Noorderbreedte.    
+
+5.  *Zeehavengebied Rotterdam-Rijnmond inclusief Dordrecht, Moerdijk en Scheveningen*  
+
+–  *Tariefgebied Rotterdam-Rijnmond A*: Maasvlakte. Gebied bestaande uit: 
+
+– de Maasmond aan de oostkant begrenst door 004° 6,4′ EL;  
+
+– het Beerkanaal aan de oostkant begrenst door 004° 6,4′ EL;  
+
+– het Calandkanaal aan de oostkant begrenst door 004° 6,4′ EL;  
+
+– het Hartelkanaal aan de oostkant begrenst door 004° 6,4′ EL;  
+
+– de Nieuwe Waterweg aan de oostkant begrenst door 004° 6,4′ EL.  
+
+– Het Yangtzekanaal, aan de westzijde begrenst door 004° 1’ EL inclusief de ligplaatsen aan de noordoever van het Yangtzekanaal.    
+
+–  *Tariefgebied Rotterdam-Rijnmond B*: Europoort. Gebied bestaande uit: 
+
+– het Calandkanaal en aanliggende havenbekkens aan de westkant begrenst door 004° 6,4′ EL en aan de oostkant begrenst door 004° 15,6′ EL;  
+
+– het Hartelkanaal en aanliggende havenbekkens aan de westkant begrenst door 004° 6,4′ EL en aan de oostkant begrenst door 004° 15,6′ EL;  
+
+– de Nieuwe Waterweg en aanliggende havenbekkens aan de westkant begrenst door 004° 6,4′ EL en aan de oostkant begrenst door 004° 15,6′ EL.    
+
+–  *Tariefgebied Rotterdam-Rijnmond C*: Botlek. Gebied bestaande uit: 
+
+– de Nieuwe Waterweg en aanliggende havenbekkens aan de westkant begrenst door 004° 15,6′ El en aan de oostkant begrenst door 004° 23,2′ EL;  
+
+– de Botlek en aanliggende havenbekkens aan de westkant begrenst door 004° 15,6′ EL;  
+
+– het Hartelkanaal en aanliggende havenbekkens aan de westkant begrenst door 004° 15,6′ EL en aan de oostkant begrenst door 004° 23,2′ EL;  
+
+– de Oude Maas en aanliggende havenbekkens aan de westkant begrenst door 004° 15,6′ EL en aan de oostkant begrenst door 004° 23,2′ EL;  
+
+– de Nieuwe Maas en aanliggende havenbekkens aan de westkant begrenst door 004° 15,6′ EL en aan de oostkant begrenst door 004° 23,2′ EL.    
+
+–  *Tariefgebied Rotterdam-Rijnmond D*: Stad. Gebied bestaande uit: 
+
+– de Nieuwe Maas en aanliggende havenbekkens aan de westkant begrenst door 004°23,2′ EL en aan de oostkant begrenst door 004° 33,3′ EL.    
+
+–  *Tariefgebied Rotterdam-Rijnmond E*: Boven de bruggen. Gebied bestaande uit: 
+
+– de Nieuwe Maas aan de westkant begrenst door 004° 33,3′ EL;  
+
+– de Hollandsche IJssel aan de westkant begrenst door 004° 33,3′ EL;    
+
+–  *Tariefgebied Rotterdam-Rijnmond F*: Dordrecht e.o. Gebied bestaande uit: 
+
+– de Lek;  
+
+– de Noord;  
+
+– de Beneden Merwede;  
+
+– Oude Maas aan de westkant begrenst door 004° 23,2′ EL;  
+
+– het Spui aan de westkant begrenst door 004° 20′ EL;  
+
+– de Dordtse Kil aan de zuidkant begrenst door 51° 47′ NB.    
+
+–  *Tariefgebied Rotterdam-Rijnmond G*: Moerdijk e.o. Gebied bestaande uit: 
+
+– de Dordtse Kil aan de noordzijde begrenst door 51° 47′ NB;  
+
+– het Spui aan de oostzijde begrenst door 004° 20′ EL;  
+
+– het Haringvliet aan de westzijde begrenst door 004° 04,5′ EL;  
+
+– het Zijpe aan de westzijde begrenst door 004° 04,5′ EL;  
+
+– het Volkerak;  
+
+– het Hollands Diep;  
+
+– de Amer;  
+
+– de Nieuwe Merwede;  
+
+– het Schelde Rijn kanaal.    
+
+–  *Tariefgebied Rotterdam-Rijnmond H*: Zeeland. Gebied bestaande uit: 
+
+– het Haringvliet aan oostzijde begrenst door 004° 04,5′ EL;  
+
+– het Zijpe aan de oostzijde begrenst door 004° 04,5′ EL;  
+
+– de Oosterschelde aan de oostzijde begrenst door 001° 04,5′ EL;  
+
+– Het Slijkgat.    
+
+–  *Tariefgebied Rotterdam-Rijnmond I*: Scheveningen. Gebied vanaf de scheidingston tot en met de haven van Scheveningen.  
+
+–  *Tariefgebied Rotterdam-Rijnmond J*: Maasvlakte 2. Gebied bestaande uit: de overige ligplaatsen westelijk van 004° 01′ EL met uitzondering van de ligplaatsen aan de noordoever van het Yangtzekanaal;    
+
+6.  *Zeehavengebied Scheldemonden*  
+
+–  *Tariefgebied Scheldemonden A*: Het gebied vanaf Vlissingen rede tot aan alle ligplaatsen in of aan de kades van Vlissingen Buitenhaven, Binnenhavens, het Kanaal door Walcheren inclusief Middelburg tot en met de sluis bij Veere, Breskens, Sloehavens en alle ligplaatsen in de Westerschelde inclusief Everingen A-E tot aan de lijn Fort Ellewoutsdijk – punt ten westen van industriegebied rond de Braakmanhaven;  
+
+–  *Tariefgebied Scheldemonden B*: Het gebied vanaf de lijn Fort Ellewoutsdijk – punt (ongeveer 2 km buiten de haveningang) ten westen van industriegebied rond de Braakmanhaven tot aan alle ligplaatsen in of aan de kades van de Braakmanhaven, Put van Terneuzen tot de sluis (kop van de havendammen) en aan oostelijke kant begrensd door de lijn Ossenisse – Bakendorp;  
+
+–  *Tariefgebied Scheldemonden C*: Het gebied met alle ligplaatsen in of aan de kades van het Kanaal van Gent naar Terneuzen vanaf Terneuzen sluis (kop van de havendammen aan de buitenzijde) tot aan de grens;  
+
+–  *Tariefgebied Scheldemonden D*: Het gebied met alle ligplaatsen in of aan de kades van de Westerschelde vanaf de lijn Ossenisse – Bakendorp tot de grens bij Antwerpen en aan de noordzijde begrensd door de uitgang van het kanaal door Zuid-Beveland (Walsoorden, Hansweert, Wemeldinge, kanaal door Z-Beveland);  
+
+– T*ariefgebied Scheldemonden E*: Het gebied met alle ligplaatsen in of aan de kades van de gehele Oosterschelde t/m Volkerak en tot de Roompotsluis, Schelde-Rijnkanaal, Veerse Meer;  
+
+–  *Tariefgebied Scheldemonden F*: Het gebied met alle ligplaatsen in of aan de kades van de Westerschelde vanaf de grens tot Antwerpen;  
+
+–  *Tariefgebied Scheldemonden G*: Het gebied met alle ligplaatsen in of aan de kades van het Kanaal van Gent naar Terneuzen vanaf de grens tot in Gent.     
+
+### Bijlage  2 
+
+####bij artikel 3a, tweede lid , Regeling markttoezicht registerloodsen
+
+####Bijlage indeling tariefgebieden naar tariefkolommen NTL
+
+| Zeehaven- gebied  |--- |--- |--- | Landelijk uniforme tariefkolommen  |--- |--- | TK1  | TK2  | TK3  | TK4  | TK5  | TK6  | TK7  | TK8  | TK9  | TK10  | TK11  | TK12  | TK13  | TK14  | TK15  | TK16  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| DZ EH *  | --- | --- | Eemshaven A  | --- | --- | Delfzijl – B  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HT  | --- | --- | --- | --- | Harlingen – A  | --- | Kornwerderzand B  | --- | --- | --- | --- | --- | --- | --- | --- | Den Helder – C  |
+| DH  | Den Helder A  | --- | --- | --- | --- | Den Oever B  | Kornwerderzand C  | --- | --- | Harlingen – D  | --- | --- | --- | --- | --- | --- |
+| AIJ  | --- | IJmuiden – A  | --- | Velsen – B  | --- | --- | --- | Westpoort C t/m E  | --- | PTA – F  | --- | --- | --- | --- | --- | Rendez-vous A IJmuiden  |
+| --- | --- | --- | --- | --- | Rozenburg – B  | Botlek – C  | --- | Bolnes – E  | --- | RV LNG Europoort – A  | Dordrecht – F  | Moerdijk – G  | Haringvliet – H  | --- | Rendez-vous A Europoort  | Rendez-vous B Rozenburg  |
+| RM  | --- | --- | --- | Europoort – A  | Scheveningen – I  |
+| Maasvlakte 2 – J  | Waalhaven D  | Rendez-vous J Maasvlakte 2  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | Hansweert – D  | Rendez-vous A  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | Vlissingen  |
+| Scheldemonden **  | --- | --- | --- | --- | --- | --- | --- | --- | Vlissingen – A  | Terneuzen vóór sluis – B  | --- | --- | --- | Kanaal van Gent naar Terneuzen – C  | --- | Oosterschelde E  |
+| --- |
+| Antwerpen – F  |
+| Gent – G  |
+
+Opmerking bij de tariefkolommen: * zeehavengebied Delfzijl / Eemshaven: voor een reis waarbij beloodsing of ontscheping van loods(en) op de verder gelegen beloodsingspost Westereems plaats vindt, geldt een toeslag (A-tarief) van 4 tariefkolommen *(= bedrag T-tarief uit tariefkolom *2). ** zeehavengebied Nederlandse Scheldehavens: voor een reis die het zogenoemde 'Westrond-traject' aflegt, geldt een toeslag (A-tarief) van 6 tariefkolommen *(= bedrag T-tarief uit tariefkolom 4).*  
+

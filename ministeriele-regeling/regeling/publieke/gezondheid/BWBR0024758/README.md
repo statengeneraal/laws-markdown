@@ -5,7 +5,7 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 In overeenstemming met de Minister van Verkeer en Waterstaat;
 
-Gelet op de [artikelen 22, vierde lid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [24, vijfde lid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [25, zesde en zevende lid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [26, tweede lid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [48](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [57, derde en vierde lid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [58, eerste en derde lid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [63, derde lid, van de Wet publieke gezondheid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);
+Gelet op de artikelen 22, vierde lid, 24, vijfde lid, 25, zesde en zevende lid, 26, tweede lid, 48, 57, derde en vierde lid, 58, eerste en derde lid, 63, derde lid, van de Wet publieke gezondheid;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -15,9 +15,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de wet:* de [Wet publieke gezondheid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+a. *de wet:* de Wet publieke gezondheid;  
 
-b. *zorginstelling:* instelling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), die beschikt over een eigen of gecontracteerde hygiënische dienst.    
+b. *zorginstelling:* instelling als bedoeld in artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen, die beschikt over een eigen of gecontracteerde hygiënische dienst.    
 
 ### Hoofdstuk  II  
 
@@ -29,7 +29,7 @@ b. *zorginstelling:* instelling als bedoeld in [artikel 1, eerste lid, onder f, 
 
 ### Artikel  2  
 
-1.  Voor de meldingsplicht van de arts op grond van [artikel 22, tweede lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), gelden voor de hieronder genoemde infectieziekten de volgende voorwaarden: 
+1.  Voor de meldingsplicht van de arts op grond van artikel 22, tweede lid, van de wet, gelden voor de hieronder genoemde infectieziekten de volgende voorwaarden: 
 
 a. pest, tuberculose en infectieziekten behorende tot groep B2 en groep C: de vaststelling wordt op normale werktijden binnen 24 uur gemeld,  
 
@@ -40,15 +40,11 @@ c. hepatitis C: alleen de vaststelling van een recente infectie wordt gemeld,
 d. mrsa-infectie: alleen de vaststelling van een cluster van een mrsa-infectie veroorzaakt door een bron buiten een zorginstelling wordt gemeld,  
 
 e. pneumokokkenziekte: alleen de vaststelling bij kinderen in de leeftijd tot en met 5 jaar wordt gemeld.     
-2.  Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), gelden voor het Mexicaanse influenzavirus (H1N1) de volgende voorwaarden: 
-
-1°. de vaststelling van een infectie bij een persoon die op grond van de ernst van dit ziektebeeld is opgenomen in een ziekenhuis wordt gemeld door de behandelend arts van het ziekenhuis, en  
-
-2°. de vaststelling van het overlijden van een persoon als gevolg van dit ziektebeeld, dan wel het vermoeden dat dit ziektebeeld de oorzaak daarvan is geweest, wordt gemeld door een arts.     
+2.  Voor de meldingsplicht van de arts op grond van artikel 22, eerste lid, van de wet, geldt voor het Middle East respiratory syndrome coronavirus (MERS-CoV) het volgende: de meldingsplicht wordt beperkt tot de vaststelling van een infectie bij een persoon, die op grond van de ernst van dit ziektebeeld is opgenomen in een ziekenhuis, door de behandelend arts van het ziekenhuis.   
 
 ### Artikel  3  
 
-Voor de meldingsplicht van het hoofd van het laboratorium op grond van [artikel 25, tweede lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), gelden de volgende termijnen: 
+Voor de meldingsplicht van het hoofd van het laboratorium op grond van artikel 25, tweede lid, van de wet, gelden de volgende termijnen: 
 
 a. de vaststelling van een verwekker van een infectieziekte behorend tot groep A wordt onverwijld gemeld aan de gemeentelijke gezondheidsdienst;  
 
@@ -58,11 +54,11 @@ c. de vaststelling van pest of tuberculose, alsmede van een verwekker van een in
 
 ### Artikel  4  
 
-De meldingsplicht van het hoofd van een instelling op grond van [artikel 26, eerste lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), wordt binnen normale werktijden zo spoedig mogelijk uitgevoerd.  
+De meldingsplicht van het hoofd van een instelling op grond van artikel 26, eerste lid, van de wet, wordt binnen normale werktijden zo spoedig mogelijk uitgevoerd.  
 
 ### Artikel  5  
 
-De gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), [22](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md) en [25](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), alsmede bij de aanvraag, bedoeld in [artikel 25, eerste lid, van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), voldoet aan de NEN 7510 norm voor informatiebeveiliging in de zorg.  
+De gegevensverwerking bij de meldingen, bedoeld in de artikelen 21, 22 en 25, alsmede bij de aanvraag, bedoeld in artikel 25, eerste lid, van de wet, voldoet aan de NEN 7510 norm voor informatiebeveiliging in de zorg.  
 
 ### §  2  
 
@@ -70,12 +66,12 @@ De gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](../../../..
 
 ### Artikel  6  
 
-1.  Ter uitvoering van [artikel 48 van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md) worden de volgende havens aangewezen: 
+1.  Ter uitvoering van artikel 48 van de wet worden de volgende havens aangewezen: 
 
 a. als behorende tot categorie A: de burgerhaven van de gemeente Rotterdam,  
 
 b. als behorende tot categorie B: de burgerhavens van de gemeenten Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam.     
-2.  Ter uitvoering van [artikel 48 van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md) worden de volgende burgerluchthavens aangewezen: 
+2.  Ter uitvoering van artikel 48 van de wet worden de volgende burgerluchthavens aangewezen: 
 
 a. als behorende tot categorie A: de burgerluchthaven van de gemeente Haarlemmermeer (Schiphol),  
 
@@ -92,13 +88,13 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ### Artikel  9  
 
-1.  Het tarief voor het onderzoek ter verkrijging van een certificaat tot vrijstelling van sanitaire controle van schepen of een certificaat van sanitaire controle van schepen als bedoeld in [artikel 57 van de wet](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), bedraagt: 
+1.  Het tarief voor het onderzoek ter verkrijging van een certificaat tot vrijstelling van sanitaire controle van schepen of een certificaat van sanitaire controle van schepen als bedoeld in artikel 57 van de wet, bedraagt: 
 
-a. € 95,35 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,  
+a. € 98,43 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 06.00 uur en 20.00 uur,  
 
-b. € 143,03 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,  
+b. € 147,65 per uur, indien het onderzoek plaatsvindt op maandag tot en met vrijdag tussen 20.00 uur en 06.00 uur, alsmede op zaterdag,  
 
-c. € 190,70 per uur, indien het onderzoek plaatsvindt op zondag.     
+c. € 196,86 per uur, indien het onderzoek plaatsvindt op zondag.     
 2.  Het aantal uren, bedoeld in het eerste lid, dat in rekening wordt gebracht, bedraagt niet meer dan: 
 
 – 4 uur bij schepen met minder dan 50 opvarenden, anders dan bemanningsleden,  
@@ -106,8 +102,8 @@ c. € 190,70 per uur, indien het onderzoek plaatsvindt op zondag.
 – 8 uur bij schepen met 50–500 opvarenden, anders dan bemanningsleden,  
 
 – 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.     
-3.  Het tarief voor het verlengen van het certificaat, bedoeld in artikel 8, tweede lid, bedraagt € 95,35.   
-4.  De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 23,84 per kwartier.   
+3.  Het tarief voor het verlengen van het certificaat, bedoeld in artikel 8, tweede lid, bedraagt € 98,43.   
+4.  De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,61 per kwartier.   
 
 ### §  3  
 
