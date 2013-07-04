@@ -162,6 +162,16 @@ e. niet krachtens rechterlijke uitspraak is uitgesloten van het verrichten van d
 2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat er sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een minderjarige leerling van de school, doet het bevoegd gezag onverwijld aangifte bij een opsporingsambtenaar als bedoeld in [artikel 127](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) juncto [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en stelt het bevoegd gezag de vertrouwensinspecteur daarvan onverwijld in kennis. Voordat het bevoegd gezag overgaat tot het doen van aangifte, stelt het de ouders van de betrokken leerling, onderscheidenlijk de betreffende ten behoeve van de school met taken belaste persoon, hiervan op de hoogte.   
 3.  Indien een personeelslid op enigerlei wijze bekend is geworden dat een ten behoeve van de school met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een minderjarige leerling van de school, stelt het personeelslid het bevoegd gezag daarvan onverwijld in kennis.   
 
+### Artikel  5  
+
+####Meldcode huiselijk geweld en kindermishandeling
+
+1.  Het bevoegd gezag stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+4.  Het bevoegd gezag bevordert de kennis en het gebruik van de meldcode.   
+5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
+
 ### Artikel  6  
 
 ####Uitgaven uit de openbare kas
@@ -811,7 +821,7 @@ Over de door het bevoegd gezag ingevolge artikel 33 te treffen regelingen, alsme
 
 1.  Degene die beschikt over een in artikel 162e bedoelde geschiktheidsverklaring, het bevoegd gezag dat betrokkene benoemt of tewerkstelt zonder benoeming, en het bestuur van een instelling die werkzaamheden uitvoert als bedoeld in artikel 162j, eerste lid onder a, sluiten een overeenkomst die hun wederzijdse rechten en plichten omvat met betrekking tot het uitvoeren van de noodzakelijk geachte scholing en begeleiding, met inachtneming van de beoordeling, bedoeld in artikel 162f, tweede lid, onder c. Indien na het sluiten van de overeenkomst blijkt dat de scholing of begeleiding niet volgens de overeenkomst kan worden uitgevoerd, treft het bevoegd gezag tijdig een toereikende vervangende voorziening.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven voor de uitvoering van het eerste lid, waaronder in elk geval voorschriften ter waarborging van de kwaliteit van het daarin bepaalde.   
-3.  Tevens worden bij algemene maatregel van bestuur bijzondere zonodig van deze wet afwijkende voorschriften gegeven voor gevallen waarin men voor dezelfde werkzaamheden wenst te worden benoemd of tewerkgesteld zonder benoeming aan scholen die niet uitgaan van hetzelfde bevoegd gezag.   
+3.  Voor zover betrokkene de werkzaamheden ten aanzien waarvan hem een geschiktheidsverklaring is verstrekt, verricht bij twee of meer bevoegde gezagsorganen, dragen deze bevoegde gezagsorganen er zorg voor dat de overeenkomsten, bedoeld in het eerste lid, waarbij zij ten aanzien van betrokkene partij zijn, op elkaar worden afgestemd. Zonodig wordt een al gesloten overeenkomst daartoe gewijzigd.   
 4.  De algemene maatregel van bestuur, bedoeld in het tweede en derde lid, wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### §  3  
@@ -1235,8 +1245,9 @@ g. de beëindiging van een verlengd tijdelijk dienstverband;
 h. de aanwijzing als personeelslid boven de reguliere formatie voortvloeiend uit een algemeen verbindend voorschrift welke aanwijzing op termijn kan leiden tot ontslag, vermindering van de betrekkingsomvang of beëindiging van een verlengd tijdelijk dienstverband;  
 
 i. de aanwijzing van een andere school of andere scholen waaraan een personeelslid werkzaamheden zal verrichten.     
-2.  Een beslissing als bedoeld in het vorige lid, aanhef, wordt schriftelijk aan de betrokkene medegedeeld. Daarbij wordt tevens vermeld de beroepstermijn en het adres van de commissie waar het beroep kan worden ingesteld.   
-3.  Het bevoegd gezag onderwerpt zich aan de uitspraak van de commissie.   
+2.  Zolang een of meer nevenvestigingen als bedoeld in het tweede lid van artikel 89 aan een instelling zijn verbonden, wordt met betrekking tot die instelling in het eerste lid, onder i, voor «een andere school of andere scholen» gelezen «een andere school, instelling, hoofdvestiging of nevenvestiging, dan wel andere scholen, instellingen, hoofdvestigingen of nevenvestigingen».   
+3.  Een beslissing als bedoeld in het eerste lid, aanhef, wordt schriftelijk aan de betrokkene medegedeeld. Daarbij wordt tevens vermeld de beroepstermijn en het adres van de commissie waar het beroep kan worden ingesteld.   
+4.  Het bevoegd gezag onderwerpt zich aan de uitspraak van de commissie.   
 
 ### Artikel  64  
 
@@ -1427,6 +1438,12 @@ Onze minister kan onder nader te stellen voorwaarden aanvullende middelen ter be
 2.  Onder een residentiële instelling als bedoeld in het eerste lid, wordt verstaan een instelling voor gehandicaptenzorg, jeugdhulpverlening of jeugdgezondheidszorg dan wel een justitiële jeugdinrichting, waarbij behandeling of opvang en onderwijs vanuit één plan noodzakelijk is vanwege de aard of de duur van de behandeling of opvang.   
 3.  Het bevoegd gezag doet Onze minister binnen een maand na de totstandkoming van de overeenkomst dan wel beëindiging ervan een afschrift toekomen van de overeenkomst dan wel deelt de datum waarop de overeenkomst is beëindigd mee.   
 
+### Artikel  71d  
+
+####Berekening aantal leerlingen instelling met nevenvestiging(en)
+
+Voor de toepassing van de wet en de ter uitvoering daarvan vastgestelde voorschriften wordt onder het aantal leerlingen van een instelling, bedoeld in het tweede lid van artikel 89, verstaan het aantal leerlingen van de hoofdvestiging en de nevenvestiging of nevenvestigingen van de instelling tezamen, tenzij in bedoelde voorschriften anders is bepaald.  
+
 ### Artikel  73  
 
 ####Instandhouding openbare scholen door een stichting of een openbare rechtspersoon
@@ -1508,6 +1525,7 @@ b. voor zover het betreft het toelaten van leerlingen, die door een commissie vo
 
 1.  Indien een bevoegd gezag van een instelling wenst over te gaan tot het inrichten van een nevenvestiging en het daarover overeenstemming heeft bereikt met de andere instellingen en de gemeente waar die nevenvestiging zal worden gevestigd, dient het bevoegd gezag voor 1 februari een daarop betrekking hebbend verzoek met de gegevens waaruit de bedoelde overeenstemming blijkt, in bij Onze minister.   
 2.  Onze minister beslist voor 1 april daaropvolgend. Indien Onze minister de inrichting van een nevenvestiging goedkeurt, vangt de bekostiging van die nevenvestiging aan op 1 augustus volgend op de goedkeuring. Voor de bekostiging wordt de nevenvestiging aangemerkt als deel van de instelling die de nevenvestiging in stand houdt.   
+3.  De nevenvestigingen van instellingen, genoemd in [artikel X van de Wet van 31 mei 1995](../../../wet/wijzigingswet/interimwet/op/het/speciaal/onderwijs/en/het/voortgezet/etc/BWBR0007421/README.md) (Stb. 1995, 319), zoals dat artikel luidde op 1 januari 2012, worden beschouwd als nevenvestiging in de zin van dit artikel.   
 
 ### Artikel  77  
 
@@ -1681,7 +1699,7 @@ Indien een plan onherroepelijk is vastgesteld, is de gemeente verplicht tot stic
 ####Voorziening in huisvesting door de gemeente
 
 1.  De gemeenteraad draagt onderscheidenlijk burgemeester en wethouders dragen ten behoeve van de door de gemeente in stand gehouden scholen en ten behoeve van de niet door de gemeente in stand gehouden scholen zorg voor de voorzieningen in de huisvesting op het grondgebied van de gemeente overeenkomstig het bepaalde in deze afdeling. Hij behandelt onderscheidenlijk zij behandelen daarbij de door de gemeente in stand gehouden scholen en de niet door de gemeente in stand gehouden scholen op gelijke voet.   
-2.  Voor de toepassing van deze afdeling worden onder een niet door de gemeente in stand gehouden school mede begrepen een op het grondgebied van de gemeente gelegen nevenvestiging als bedoeld in artikel 76a en artikel 76b en een op het grondgebied van de gemeente gelegen nevenvestiging van een instelling, genoemd in [artikel X van de Wet van 31 mei 1995](../../../wet/wijzigingswet/interimwet/op/het/speciaal/onderwijs/en/het/voortgezet/etc/BWBR0007421/README.md) (Stb. 319), waarvan de hoofdvestiging op het grondgebied van een andere gemeente is gelegen.   
+2.  Voor de toepassing van deze afdeling worden onder een niet door de gemeente in stand gehouden school mede begrepen een op het grondgebied van de gemeente gelegen nevenvestiging als bedoeld in artikel 76a en artikel 76b.   
 
 ### Artikel  90  
 
@@ -1718,7 +1736,7 @@ b. basisscholen,
 
 c. speciale scholen voor basisonderwijs, en  
 
-d. scholen voor voorbereidend wetenschappelijk onderwijs, voor hoger en middelbaar algemeen voortgezet onderwijs en voor voorbereidend beroepsonderwijs.     
+d. scholen voor voorbereidend wetenschappelijk onderwijs, voor hoger en middelbaar algemeen voortgezet onderwijs, voor voorbereidend beroepsonderwijs en voor praktijkonderwijs.     
 2.  Het bekostigingsplafond wordt zodanig vastgesteld dat redelijkerwijs kan worden voorzien in de huisvesting van de in het eerste lid bedoelde scholen op het grondgebied van de gemeente.   
 
 ### Artikel  92  
@@ -2729,7 +2747,7 @@ d. de schoolsoort;
 
 e. het leerjaar of de groep;  
 
-f. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond als bedoeld in [artikel 1 van het Formatiebesluit WEC](../../../AMvB/formatiebesluit/wec/BWBR0005442/README.md);  
+f. indien van toepassing de aanduiding dat het betreft een leerling met een niet-Nederlandse culturele achtergrond als bedoeld in [artikel 1 van het Besluit bekostiging WEC](../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
 
 g. het registratienummer van de school of, indien sprake is van een nevenvestiging, het registratienummer daarvan;  
 
@@ -2749,17 +2767,17 @@ j. indien een leerling is toegelaten met toepassing van artikel 40, derde lid, t
 7.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in het contact met een andere school of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die leerling en bij het overleggen van het onderwijskundig rapport, bedoeld in artikel 43.   
 8.  Indien de gegevens over de nationaliteit van de leerling niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze minister.   
 9.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.   
-10.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een leerling ter uitvoering van [artikel 107, tweede en vijfde lid, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+10.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een leerling ter uitvoering van [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), anders dan ter nakoming van verplichtingen als referent in de zin van [artikel 1 van die wet](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 11.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een leerling in contacten met een school als bedoeld in de [Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md), de [Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of de [Wet educatie en beroepsonderwijs](../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) in het kader van de ondersteuning van de school op grond van artikel 8a, eerste lid.   
 
 ### Artikel  164b  
 
 ####Verwerking gegevens door Onze minister
 
-1.  Onze minister neemt de door het bevoegd gezag verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in artikel 164a, tweede en achtste lid, op in het basisregister onderwijs, nadat zij deze gegevens heeft getoetst op juistheid en volledigheid. Onze minister verstrekt de gegevens, inclusief de gegevens, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), zoals zij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het bevoegd gezag. Onverminderd artikel 164c, tweede lid, kan Onze minister de door het bevoegd gezag verstrekte gegevens uitsluitend met instemming van het bevoegd gezag wijzigen.   
-2.  Het bevoegd gezag verstrekt Onze minister alle inlichtingen die zij nodig acht voor de uitvoering van de taak, bedoeld in het eerste lid. Het bevoegd gezag werkt eraan mee dat de in het basisregister onderwijs opgenomen gegevens juist en volledig zijn.   
+1.  Onze minister neemt de door het bevoegd gezag verstrekte persoonsgebonden nummers en andere gegevens, bedoeld in artikel 164a, tweede en achtste lid, op in het basisregister onderwijs, nadat hij deze gegevens heeft getoetst op juistheid en volledigheid. Onze minister verstrekt de gegevens, inclusief de gegevens, bedoeld in [artikel 24c, eerste lid, onderdeel g, van de Wet op het onderwijstoezicht](../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), zoals hij voornemens is die gegevens in het basisregister onderwijs op te nemen, aan het bevoegd gezag. Onverminderd artikel 164c, tweede lid, kan Onze minister de door het bevoegd gezag verstrekte gegevens uitsluitend met instemming van het bevoegd gezag wijzigen.   
+2.  Het bevoegd gezag verstrekt Onze minister alle inlichtingen die hij nodig acht voor de uitvoering van de taak, bedoeld in het eerste lid. Het bevoegd gezag werkt eraan mee dat de in het basisregister onderwijs opgenomen gegevens juist en volledig zijn.   
 3.  Indien Onze minister naar aanleiding van de toetsing, bedoeld in het eerste lid, redenen heeft om aan te nemen dat een bevoegd gezag in strijd handelt of heeft gehandeld met het bepaalde bij of krachtens deze wet en een onderzoek daarnaar door de inspectie nodig acht, verstrekt Onze minister ten behoeve van dit onderzoek de persoonsgebonden nummers en andere gegevens van leerlingen aan de inspectie. De inspectie meldt de uitkomst van het onderzoek aan Onze minister.   
-4.  Onze minister en de inspectie verstrekken ter uitvoering van [artikel 107, tweede lid, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geen gegevens die zij op grond van het derde lid hebben ontvangen.   
+4.  Onze Minister en de inspectie verstrekken ter uitvoering van [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) geen gegevens die zij op grond van het derde lid hebben ontvangen, tenzij deze gegevens noodzakelijk zijn voor nakoming van verplichtingen als referent in de zin van [die wet](../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) dan wel voor het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten in de zin van die wet.   
 
 ### Artikel  164c  
 
@@ -2961,9 +2979,55 @@ c. een bijdrage ten behoeve van de uitoefening van landelijke taken in het kader
 
 ### Titel  VII  
 
-####Slotbepalingen
+####Overgangsbepalingen
 
 ### Artikel  174  
+
+####Teruggave eerder verloren onderwijsbevoegdheid ingevolge artikel V van de wet van 28 maart 1987, Stb. 1987, 157
+
+1.  Aan degene die de bevoegdheid tot het geven van onderwijs krachtens artikel 4 van de Wet op het basisonderwijs (Stb. 1984, 2) voor 17 april 1982 heeft verloren en deze bevoegdheid niet voordien onvoorwaardelijk is teruggegeven, is deze bevoegdheid alsnog teruggegeven op 17 april 1987.   
+2.  Aan degene die de bevoegdheid, bedoeld in het eerste lid, vijf jaar of minder voor 17 april 1987 krachtens de in het eerste lid bedoelde bepalingen heeft verloren en deze bevoegdheid niet voordien onvoorwaardelijk is teruggegeven, is deze bevoegdheid vijf jaar na het verlies daarvan alsnog teruggegeven.   
+3.  Onze minister kan in bijzondere gevallen de bevoegdheid, bedoeld in het eerste lid, die krachtens de in het eerste lid bedoelde bepalingen is verloren en voor 17 april 1987 niet is teruggegeven, al dan niet onder voorwaarden, op schriftelijk verzoek van de betrokkene alsnog teruggeven. Deze voorwaarden vervallen vijf jaar na het verlies van de bevoegdheid, bedoeld in het eerste lid.   
+
+### Artikel  175  
+
+####Wijziging vergoeding voor schoolterreinen en gebouwen in het basisonderwijs ingevolge de [artikelen VI](../../../wet/wijzigingswet/wet/op/het/basisonderwijs/(beperking/rentevergoeding/etc/BWBR0005525/README.md) en [VII van de wet van 21 mei 1992](../../../wet/wijzigingswet/wet/op/het/basisonderwijs/(beperking/rentevergoeding/etc/BWBR0005525/README.md), Stb. 1992, 245
+
+1.  De vergoeding voor een schoolterrein die voor 1 juni 1992 is aangevangen en plaatsvindt met toepassing van artikel 95, derde lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs of artikel E 23 van de Overgangswet ISOVSO, zoals die voorschriften luidden op 31 mei 1991, wordt met ingang van 1 juni 1992 gewijzigd in een vergoeding ter grootte van twee-derde deel van de rente op basis van een fictieve lening voor de noodzakelijk geachte kosten, met een lineaire aflossing en, gerekend vanaf het tijdstip waarop voor het eerst een vergoeding voor het schoolterrein werd verleend, een looptijd van 40 jaar. Bij de toepassing van de eerste volzin wordt gerekend met het rentepercentage dat zou gelden voor een lening met een lineaire aflossing en een looptijd van 20 jaar, uitgaande van een herziening van het rentepercentage per 1 januari volgend op een periode van 20 kalenderjaren waarin vergoeding werd verleend. Onze minister is bevoegd om in verband met de rentestand tot bijstelling van een ingevolge de tweede volzin geldend rentepercentage over te gaan. Indien Onze minister tot bijstelling van het rentepercentage is overgegaan, wordt in afwijking van de tweede volzin uitgegaan van een herziening van het rentepercentage per 1 januari volgend op een periode van 20 kalenderjaren sinds die bijstelling, het kalenderjaar waarin die bijstelling plaatsvond daarbij inbegrepen.   
+2.  De vergoeding voor de niet op het schoolterrein betrekking hebbende kosten van stichting en eerste inrichting van een voorziening in de huisvesting bestemd voor blijvend gebruik die plaatsvindt met toepassing van artikel 95, eerste lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, zoals dat voorschrift luidde op 31 december 1991, wordt met ingang van 1 januari 1992 vastgesteld op een vergoeding ter grootte van de rente en aflossing op basis van een fictieve lening voor de noodzakelijk geachte kosten met een lineaire aflossing en een looptijd van 60 jaar. Indien de vergoeding voor 1 januari 1992 is aangevangen, wordt deze met ingang van 1 januari 1992 vastgesteld op een vergoeding ter grootte van de rente en aflossing op basis van een fictieve lening voor de op die datum nog niet vergoede noodzakelijk geachte kosten met een lineaire aflossing en, gerekend vanaf 1 januari 1992, een looptijd van 60 jaar verminderd met het aantal jaren waarover reeds een vergoeding is verleend.   
+3.  De vergoeding voor de niet op het schoolterrein betrekking hebbende kosten van stichting en eerste inrichting van een voorziening in de huisvesting bestemd voor blijvend gebruik die plaatsvindt met toepassing van artikel E 23 van de Overgangswet ISOVSO, zoals dat voorschrift luidde op 31 december 1991, wordt met ingang van 1 januari 1992 vastgesteld op een vergoeding ter grootte van de rente en aflossing op basis van een fictieve lening voor de noodzakelijk geachte kosten met een lineaire aflossing en een looptijd van 60 jaar. Indien de vergoeding voor 1 januari 1992 is aangevangen, wordt deze met ingang van 1 januari 1992 vastgesteld op een vergoeding ter grootte van de rente en aflossing op basis van een fictieve lening met een lineaire aflossing voor de op die datum nog niet vergoede noodzakelijk geachte kosten, welke lening 20 jaar meer bestrijkt dan de periode waarover vanaf 1 januari 1992 nog vergoeding diende te worden verleend.   
+4.  Bij de toepassing van het tweede en het derde lid wordt gerekend met het rentepercentage dat zou gelden voor een lening met een lineaire aflossing en een looptijd van 20 jaar, uitgaande van een herziening van het rentepercentage telkens per 1 januari volgend op een periode van 20 kalenderjaren waarin vergoeding werd verleend. Onze minister is bevoegd om in verband met de rentestand tot bijstelling van een ingevolge de eerste volzin geldend rentepercentage over te gaan. Indien Onze minister tot bijstelling van het rentepercentage is overgegaan, wordt in afwijking van de eerste volzin uitgegaan van een herziening van het rentepercentage telkens per 1 januari volgend op een periode van 20 kalenderjaren sinds die bijstelling, het kalenderjaar waarin die bijstelling plaatsvond daarbij inbegrepen.   
+
+### Artikel  176  
+
+####Salarisgaranties personeel van instellingen ingevolge artikel XI van de wet van 31 mei 1995, Stb. 1995, 319
+
+1.  De directeur van de instelling, bedoeld in het tweede lid van artikel 89, die op 31 juli 1995 als directeur in dienst was van het bevoegd gezag van de tot instelling omgezette school als bedoeld in dat lid, behoudt ten minste recht op salariëring volgens het functieniveau dat op 31 juli 1995 voor hem gold dan wel op de maximumschaal die daarvoor reeds 2 jaar formatief voor hem aanwezig was. Indien voor de functie van directeur van die instelling een hogere maximumschaal gold dan die welke op 31 juli 1995 voor de directeur gold dan wel formatief beschikbaar was, wordt hij vanaf die datum bezoldigd volgens het carrièrepatroon dat bij die hogere maximumschaal behoort en heeft hij bij de vaststelling van het salaris aanspraak op een bevorderingsperiodiek. Hij behoudt een blijvende aanspraak op de hogere maximumschaal, bedoeld in de vorige volzin, indien deze gedurende 3 achtereenvolgende schooljaren aan die instelling voor hem beschikbaar is geweest.   
+2.   Indien een personeelslid van een instelling als bedoeld in het tweede lid van artikel 89, die op 31 juli 1995 als directeur in dienst was van het bevoegd gezag van de tot instelling omgezette school als bedoeld in dat lid, is benoemd in een functie waarvan het niveau en het carrièrepatroon zo veel mogelijk overeenkomt met het niveau en het carrièrepatroon dat is gegarandeerd in de oorspronkelijke functie, met dien verstande dat het niveau en het carrièrepatroon van de nieuwe functie ten minste gelijk zijn aan die van een normfunctie leraar, behoudt hij ten minste aanspraak op salariëring volgens het functieniveau dat voor hem gold op 31 juli 1995, in zijn functie als directeur van een school waaruit de instelling is ontstaan, of, indien hij 2 jaar of langer directeur is geweest van die school, de maximumschaal die op die dag reeds 2 jaar formatief voor hem aanwezig was indien deze maximumschaal hoger is dan het functieniveau dat voor hem gold op die dag.  
+
+### Artikel  177  
+
+####Verhaal ontslaguitkeringskosten ingevolge [artikel V (artikel B5) van de wet van 15 mei 1997](../../../wet/wijzigingswet/wet/op/het/basisonderwijs/enz./(regeling/schoolbegeleiding)/BWBR0008685/README.md), Stb. 1997, 252
+
+1.  Ten aanzien van de bijdrage die een gemeente in de ontslaguitkeringskosten dient te verstrekken bij of krachtens artikel 102 van de Wet op de onderwijsverzorging zoals die voorschriften luidden op 31 december 1997, blijven die voorschriften van kracht gedurende de periode waarover ontslaguitkeringen worden uitgekeerd.   
+2.  Een schoolbegeleidingsdienst dient aan Onze minister op diens verzoek de kosten van werkloosheidsuitkeringen of herplaatsingswachtgelden te voldoen: 
+
+a. voor zover het betreft uitkeringen die zijn ontstaan voor 1 januari 1998: indien die kosten bij of krachtens de artikelen 90 en 102 van de Wet op de onderwijsverzorging zoals die voorschriften luidden op 31 december 1997, zouden worden ingehouden op de rijksvergoeding aan die schoolbegeleidingsdienst, en  
+
+b. voor zover het betreft uitkeringen die zijn ontstaan na 31 december 1997: indien de rechtspersoon, bedoeld in artikel 110b van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, zoals die bepaling luidde ten tijde van deze uitkeringen, op een daartoe strekkend verzoek van het bestuur van de schoolbegeleidingsdienst, voorafgaand aan het ontslag niet heeft ingestemd met het ten laste van die rechtspersoon brengen van de kosten van werkloosheidsuitkeringen of herplaatsingswachtgelden.     
+
+### Artikel  178  
+
+####Afhandeling aanspraken ingevolge [artikel V (Artikel B6) van de wet van 15 mei 1997](../../../wet/wijzigingswet/wet/op/het/basisonderwijs/enz./(regeling/schoolbegeleiding)/BWBR0008685/README.md), Stb. 1997, 1997, 252
+
+1.  Met betrekking tot de op 31 december 1997 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens de Wet op de onderwijsverzorging gegeven voorschriften die betrekking hebben op de schoolbegeleidingsdiensten, bedoeld in Hoofdstuk II, Titel II, van die wet.   
+2.  Met betrekking tot de op 31 december 2001 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens [artikel V, Titel A, van de wet van 15 mei 1997](../../../wet/wijzigingswet/wet/op/het/basisonderwijs/enz./(regeling/schoolbegeleiding)/BWBR0008685/README.md), Stb. 252 gegeven voorschriften.   
+
+### Titel  VIII  
+
+####Slotbepalingen
+
+### Artikel  179  
 
 ####Citeertitel
 

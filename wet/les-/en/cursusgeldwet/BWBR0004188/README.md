@@ -24,9 +24,9 @@ b. leerling: degene die is toegelaten tot het onderwijs aan een school of cursus
 
 c. cursusjaar: het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;  
 
-d. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het landbouwonderwijs, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+d. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken;  
 
-e. dagschool: een instelling als bedoeld in [1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft een opleiding als bedoeld in [artikel 7.2.7, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. dagschool: een instelling als bedoeld in [1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft een opleiding als bedoeld in [artikel 7.2.7, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een opleiding voortgezet algemeen volwassenenonderwijs die voldoet aan [artikel 2.17 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md);  
 
 f. cursus: 
 
@@ -36,7 +36,7 @@ f. cursus:
 
 3°. een op grond van de [Experimentenwet onderwijs](../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) uit de openbare kas bekostigde cursus, voor zover het voortgezet onderwijs betreft;  
 
-4°. een beroepsopleiding, een opleiding voortgezet algemeen volwassenenonderwijs, of een opleiding Nederlands als tweede taal, anders dan bedoeld onder e, die aan een instelling als bedoeld in [1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) ten laste van ’s Rijks kas wordt verzorgd;    
+4°. een opleiding als bedoeld in [artikel 7.2.2, eerste lid](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of [artikel 7.3.1, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), anders dan bedoeld in onderdeel e, die aan een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van die wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) ten laste van ’s Rijks kas wordt verzorgd;    
 
 g. onderwijsnummer: het door Onze Minister uitgegeven persoonsgebonden nummer, toegekend aan een persoon aan wie niet van overheidswege een burgerservicenummer is verstrekt;  
 
@@ -52,7 +52,7 @@ k. school: een dagschool, als bedoeld in deze wet.
 
 ####Heffing les- en cursusgeld
 
-Ter zake van het volgen van het uit de openbare kas bekostigde voortgezet algemeen volwassenenonderwijs, onderwijs aan opleidingen Nederlands als tweede taal, dan wel beroepsonderwijs aan scholen en cursussen wordt lesgeld of cursusgeld geheven met inachtneming van de bepalingen van deze wet. Ter zake van het volgen van onderwijs in het kader van contractactiviteiten wordt geen lesgeld of cursusgeld volgens de bepalingen van deze wet geheven.  
+Ter zake van uit de openbare kas bekostigd onderwijs aan een dagschool of uit de openbare kas bekostigde cursussen wordt lesgeld onderscheidenlijk cursusgeld geheven met inachtneming van de bepalingen van deze wet. Ter zake van het volgen van onderwijs in het kader van contractactiviteiten wordt geen lesgeld of cursusgeld volgens de bepalingen van deze wet geheven.  
 
 ### Hoofdstuk  II  
 
@@ -79,7 +79,7 @@ Ter zake van het volgen van het uit de openbare kas bekostigde voortgezet algeme
 ####Inschrijving en lesgeldbedrag
 
 1.  Tot de inschrijving wordt niet overgegaan dan nadat het bewijs is overgelegd dat het lesgeld wordt voldaan aan Onze Minister, met inachtneming van het bepaalde krachtens het vierde lid.   
-2.  Het lesgeld bedraagt naar de maatstaf van 1 augustus 2004 € 936,– per 01-10-2009: € 1.031,–. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de consumentenprijsindex. Het bedrag wordt vastgesteld bij ministeriële regeling, waarin tevens wordt bepaald wat onder de consumentenprijsindex wordt verstaan. Het bedrag wordt afgerond op het naastbij gelegen gehele getal. Deze regeling wordt vastgesteld voor 1 oktober voorafgaand aan het cursusjaar waarop de herziening van het lesgeld betrekking heeft.   
+2.  Het lesgeld bedraagt naar de maatstaf van 1 augustus 2004 € 936,– per 01-08-2012: € 1.065,–. Dit bedrag wordt jaarlijks geïndexeerd aan de hand van de consumentenprijsindex. Het bedrag wordt vastgesteld bij ministeriële regeling, waarin tevens wordt bepaald wat onder de consumentenprijsindex wordt verstaan. Het bedrag wordt afgerond op het naastbij gelegen gehele getal. Deze regeling wordt vastgesteld voor 1 oktober voorafgaand aan het cursusjaar waarop de herziening van het lesgeld betrekking heeft.   
 3.  De indexering wordt bepaald door de procentuele wijziging die het indexcijfer van de consumentenprijs over de maand april, voorafgaand aan de aanpassing, heeft ondergaan ten opzichte van de maand april van het daaraan voorafgaande jaar.   
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de voldoening en de vrijstelling, vermindering en terugbetaling van het lesgeld, alsmede met betrekking tot de te verstrekken gegevens, waaronder het burgerservicenummer of onderwijsnummer.   
 
@@ -109,7 +109,7 @@ Onze Minister kan aan onze minister ten behoeve van de bekostiging van instellin
 
 ####Algemene bepaling en nadere regeling cursusgeld
 
-1.  Cursusgeld is verschuldigd ter zake van het volgen van uit de openbare kas bekostigd onderwijs aan cursussen.   
+1.  Bij of krachtens algemene maatregel van bestuur wordt bepaald voor welke uit de openbare kas bekostigde cursussen cursusgeld verschuldigd is.   
 2.  Degene die tot het onderwijs aan een cursus is toegelaten, dient zich om in een bepaald cursusjaar onderwijs te kunnen volgen, te laten inschrijven.   
 3.  Tot de inschrijving wordt niet overgegaan dan nadat het bewijs is overgelegd dat het verschuldigde cursusgeld is of zal worden voldaan.   
 4.  Het in het eerste lid bedoelde cursusgeld, alsmede de heffing en de voldoening daarvan, en de in het tweede lid bedoelde inschrijving worden geregeld bij of krachtens algemene maatregel van bestuur.   

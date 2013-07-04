@@ -9,63 +9,73 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele onderwijswetten te wijzigen in verband met de bekostiging van nascholing ten behoeve van het primair en het voortgezet onderwijs;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
-### Artikel  I  
+### Artikel  I   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  II  
+### Artikel  II   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  III  
+### Artikel  III   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  IV  
+### Artikel  IV   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  V  
+### Artikel  V   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  VI  
+### Artikel  VI   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  VII  
+### Artikel  VII   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  VIII  
+### Artikel  VIII   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  IX  
+### Artikel  IX   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  X  
+### Artikel  X   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  XI  
+### Artikel  XI   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  XII  
+### Artikel  XII   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  XIII  
+### Artikel  XIII   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  XIV  
-
-In aanvulling op het bepaalde in de desbetreffende onderwijswetten zijn de bevoegde gezagsorganen van scholen als bedoeld in de [Wet op het basisonderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md) (*Stb.* 1986, 256), de [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](../../../../../../../../../wet/isovso/BWBR0003549/README.md) (*Stb.* 1987, 614) en de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (*Stb.* 1986, 552) tot 1 augustus 1997 verplicht ten minste 4/5 deel van het jaarlijks uit ’s Rijks kas ontvangen bedrag ten behoeve van nascholing van het personeel te besteden bij openbare en uit ’s Rijks kas bekostigde bijzondere lerarenopleidingen. De bestedingsverplichting, bedoeld in de eerste volzin, is eveneens van toepassing op de bedragen ten behoeve van nascholing die tot en met 31 juli 1997 in een fonds zijn ondergebracht, en na die datum worden besteed. Het bepaalde in de vorige volzin is niet van toepassing op de bevoegde gezagsorganen van scholen voor middelbaar beroepsonderwijs en scholen voor voortgezet algemeen volwassenenonderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
-
-### Artikel  XV  
+### Artikel  XV   
+Materieel uitgewerkt per 04-07-2013   
 
 Deze wet treedt in werking met ingang van 1 augustus 1993 met uitzondering van: 
 
@@ -75,9 +85,10 @@ b. artikel IX dat in werking treedt met ingang van de dag na de datum van uitgif
 
 c. artikel XI aanhef en onderdelen *a* en *b* dat in werking treedt met ingang van 1 augustus 1993 en, indien de wet van 21 april 1993 (*Stb.* 253) voor 1 augustus 1993 in werking is getreden, terugwerkt tot en met het tijdstip van inwerkingtreding van genoemde wet.    
 
-### Artikel  XVI  
+### Artikel  XVI   
+Materieel uitgewerkt per 04-07-2013   
 
-De tekst van de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.  
+De tekst van de Wet op het voortgezet onderwijs wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

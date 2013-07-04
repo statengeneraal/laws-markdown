@@ -15,11 +15,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####WIJZIGING VAN DE WBO
 
+Materieel uitgewerkt per 04-07-2013   
+
 Wijzigt de Wet op het basisonderwijs.   
 
 ### ARTIKEL  II  
 
 ####WIJZIGING VAN DE ISOVSO
+
+Materieel uitgewerkt per 04-07-2013   
 
 Wijzigt de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs.   
 
@@ -27,11 +31,15 @@ Wijzigt de Interimwet op het speciaal onderwijs en het voortgezet speciaal onder
 
 ####WIJZIGING VAN DE WVO
 
+Materieel uitgewerkt per 04-07-2013   
+
 Wijzigt de Wet op het voortgezet onderwijs.   
 
 ### ARTIKEL  IV  
 
 ####WIJZIGING VAN DE WET PRIVATISERING ABP
+
+Materieel uitgewerkt per 04-07-2013   
 
 Wijzigt de Wet privatisering ABP.   
 
@@ -39,41 +47,54 @@ Wijzigt de Wet privatisering ABP.
 
 ####OVERIGE BEPALINGEN
 
-####TITEL A. Vervallen
+Materieel uitgewerkt per 04-07-2013   
 
-Artikel A1.      Vervallen.      
-Artikel A2.      Vervallen.      
-Artikel A3.      Vervallen.      
-Artikel A4.      Vervallen.      
-Artikel A5.      Vervallen.       
+###TITEL A. Vervallen
 
-####TITEL B. OVERGANGSRECHT
+###Artikel A1
 
-Artikel B1.      Vervallen.      
-Artikel B2.      Vervallen.      
-Artikel B3.      Vervallen.      
-Artikel B4.   *Afhandeling bezwaar en beroep*    Op bezwaar en beroep met betrekking tot de toepassing van de op 31 december 1997 geldende bij of krachtens de Wet op de onderwijsverzorging gegeven voorschriften die betrekking hebben op de schoolbegeleidingsdiensten, bedoeld in Hoofdstuk II, Titel II, van die wet, en aangevangen voor 1 januari 1998, of aangevangen na die datum doch binnen de termijn, danwel aangevangen na die datum en na afloop van de termijn voor zover daarbij [artikel 6:11 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is verklaard, blijven de op 31 december 1997 geldende voorschriften van toepassing.     
-Artikel B5.   *Verhaal ontslaguitkeringskosten*     
-1.  Ten aanzien van de bijdrage die een gemeente in de ontslaguitkeringskosten dient te verstrekken bij of krachtens artikel 102 van de Wet op de onderwijsverzorging zoals die voorschriften luidden op 31 december 1997, blijven die voorschriften van kracht gedurende de periode waarover ontslaguitkeringen worden uitgekeerd.   
-2.  Een schoolbegeleidingsdienst dient aan Onze Minister op diens verzoek de kosten van werkloosheidsuitkeringen of herplaatsingswachtgelden te voldoen: 
+Vervallen.  
+###Artikel A2
 
-a. voor zover het betreft uitkeringen die zijn ontstaan voor 1 januari 1998: indien die kosten bij of krachtens de artikelen 90 en 102 van de Wet op de onderwijsverzorging zoals die voorschriften luidden op 31 december 1997, zouden worden ingehouden op de rijksvergoeding aan die schoolbegeleidingsdienst, en  
+Vervallen.  
+###Artikel A3
 
-b. voor zover het betreft uitkeringen die zijn ontstaan na 31 december 1997: indien de rechtspersoon, bedoeld in de artikelen 114b van de Wet op het basisonderwijs en 110b van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, op een daartoe strekkend verzoek van het bestuur van de schoolbegeleidingsdienst, voorafgaand aan het ontslag niet heeft ingestemd met het ten laste van die rechtspersoon brengen van de kosten van werkloosheidsuitkeringen of herplaatsingswachtgelden.        
-Artikel B6.   *Afhandeling aanspraken*     
-1.  Met betrekking tot de op 31 december 1997 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens de Wet op de onderwijsverzorging gegeven voorschriften die betrekking hebben op de schoolbegeleidingsdiensten, bedoeld in Hoofdstuk II, Titel II, van die wet.   
-2.  Met betrekking tot de op 31 december 2001 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens artikel V, Titel A, van deze wet gegeven voorschriften.      
-Artikel B7.   *Expiratie*    De artikelen B1 en B2 vervallen met ingang van 1 januari 2002.      
+Vervallen.  
+###Artikel A4
 
-### ARTIKEL  VI  
+Vervallen.  
+###Artikel A5
 
-####EVALUATIE
+Vervallen.  
+###TITEL B. OVERGANGSRECHT
 
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt voor 1 januari 2001 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel V, Titel A, van deze wet in de praktijk.  
+###Artikel B1
+
+Vervallen.  
+###Artikel B2
+
+Vervallen.  
+###Artikel B3
+
+Vervallen.  
+###Artikel B4. Afhandeling bezwaar en beroep
+
+Vervallen.  
+###Artikel B5. Verhaal ontslaguitkeringskosten
+
+Vervallen.  
+###Artikel B6. Afhandeling aanspraken
+
+Vervallen.  
+###Artikel B7. Expiratie
+
+Vervallen.   
 
 ### ARTIKEL  VII  
 
 ####INWERKINGTREDING
+
+Materieel uitgewerkt per 04-07-2013   
 
 Deze wet treedt in werking met ingang van 1 augustus 1997.  
 

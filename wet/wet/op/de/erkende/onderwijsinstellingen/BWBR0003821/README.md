@@ -25,7 +25,7 @@ b. "instelling": een instelling voor onderwijs die uitgaat van een natuurlijke p
 
 c. "bevoegd gezag": de natuurlijke persoon van wie de instelling uitgaat dan wel het orgaan van de rechtspersoon dat bevoegd is terzake van de instelling rechtshandelingen te verrichten;  
 
-d. "de inspectie": de inspectie bedoeld in de [Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), voor zover belast met taken op het gebied van het onderwijs waarop deze wet van toepassing is;  
+d. "de inspectie": de inspectie bedoeld in de Wet op het onderwijstoezicht, voor zover belast met taken op het gebied van het onderwijs waarop deze wet van toepassing is;  
 
 e. "schriftelijk onderwijs": onderwijs waarbij de communicatie tussen cursist en instelling zich geheel of in hoofdzaak voltrekt door geregelde uitwisseling van het gedrukte en geschreven woord al dan niet in combinatie met visuele, auditieve, audiovisuele of andere hulpmiddelen;  
 
@@ -43,12 +43,12 @@ i. "deelexamen": een voor de cursist op zich staand examen in een examenvak.
 
 1.  Deze wet is van toepassing op het onderwijs dat niet volledig en rechtstreeks uit ’s Rijks kas wordt bekostigd, gericht op het afleggen van een van de volgende examens: 
 
-a. een staatsexamen als bedoeld in [artikel 60 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+a. een staatsexamen als bedoeld in artikel 60 van de Wet op het voortgezet onderwijs,  
 
-b. een examen ter verkrijging van een diploma als bedoeld in [artikel 30 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en  
+b. een examen ter verkrijging van een diploma als bedoeld in artikel 30 van de Wet op het voortgezet onderwijs, en  
 
-c. een examen als bedoeld in [artikel 115](../../../../../../../wet/overgangswet/w.v.o./BWBR0002595/README.md) dan wel [116 van de Overgangswet W.V.O.](../../../../../../../wet/overgangswet/w.v.o./BWBR0002595/README.md)     
-2.  Deze wet is niet van toepassing op het onderwijs, aangewezen op grond van [artikel 56 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en op onderwijs verricht in het kader van contractactiviteiten in de zin van de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+c. een examen als bedoeld in artikel 115 dan wel 116 van de Overgangswet W.V.O.     
+2.  Deze wet is niet van toepassing op het onderwijs, aangewezen op grond van artikel 56 van de Wet op het voortgezet onderwijs, en op onderwijs verricht in het kader van contractactiviteiten in de zin van de Wet op het voortgezet onderwijs.   
 
 ### Titel  II  
 
@@ -58,7 +58,7 @@ c. een examen als bedoeld in [artikel 115](../../../../../../../wet/overgangswet
 
 ####Voorwaarden erkenning
 
-Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van deze wet en van de algemene maatregel van bestuur, bedoeld in artikel 9, tweede lid. Daar waar de erkenning betrekking heeft op een instelling die mede landbouwonderwijs verzorgt, handelt Onze Minister in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit.  
+Onze Minister erkent een instelling, indien zij voldoet aan de voorschriften van deze wet en van de algemene maatregel van bestuur, bedoeld in artikel 9, tweede lid. Daar waar de erkenning betrekking heeft op een instelling die mede landbouwonderwijs verzorgt, handelt Onze Minister in overeenstemming met de Minister van Economische Zaken.  
 
 ### Artikel  4  
 
@@ -91,14 +91,14 @@ Na ontvangst van het verzoek om erkenning en de in artikel 4, tweede lid, bedoel
 ####Bewijzen en verklaringen van bekwaamheid
 
 1.  De auteurs en docenten zijn in het bezit van een bewijs dan wel verklaring van bekwaamheid, zoals die voor het desbetreffende vak voor het op grond van een onderwijswet uit ’s Rijks kas bekostigd onderwijs vereist zijn en indien er geen overeenkomstig op grond van een onderwijswet uit ’s Rijks kas bekostigd onderwijs is, een door Onze Minister aanvaard bewijs of aanvaarde verklaring van bekwaamheid.   
-2.  Onder onderwijswet bedoeld in het eerste lid wordt verstaan: de Kleuteronderwijswet (*Stb.* 1974, 564), de Lager-onderwijswet 1920 (*Stb.* 1974, 565), de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Experimentenwet onderwijs](../../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) (*Stb.* 1970, 370) en het Besluit buitengewoon onderwijs 1967 (*Stb.* 1978, 582).   
+2.  Onder onderwijswet bedoeld in het eerste lid wordt verstaan: de Kleuteronderwijswet (*Stb.* 1974, 564), de Lager-onderwijswet 1920 (*Stb.* 1974, 565), de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Experimentenwet onderwijs (*Stb.* 1970, 370) en het Besluit buitengewoon onderwijs 1967 (*Stb.* 1978, 582).   
 3.  Onze Minister kan goedkeuren dat wordt afgeweken van de in het eerste lid gestelde eis.   
 
 ### Artikel  8  
 
 ####Verklaring omtrent het gedrag
 
-De leden van de directie van de instellingen zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).  
+De leden van de directie van de instellingen zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens.  
 
 ### Artikel  9  
 
@@ -185,7 +185,7 @@ h. de beoordelingsnormen en de normen voor slagen en afwijzen.
 2.  De examenopgaven hebben voor zover het examens betreft zoveel mogelijk betrekking op de gehele tijdens de cursus behandelde leerstof. Voor zover het deelexamens betreft, hebben de opgaven zoveel mogelijk betrekking op de tijdens de cursus tot het afleggen van die deelexamens behandelde leerstof.   
 3.  De examendata worden ten minste 6 weken voor de aanvang van het examen schriftelijk aan de cursist medegedeeld.   
 4.  Het bevoegd gezag van de instelling zendt onmiddellijk na afloop van elk examen een examenverslag aan Onze Minister. Onze Minister stelt het model van dit verslag vast.   
-5.  De examenopgaven dienen na afloop van een examen op verzoek en desgewenst tegen betaling bij de instelling verkrijgbaar te worden gesteld. Onze Minister kan bij wijze van algemene regeling dan wel in bijzondere gevallen toestaan dat hiervan wordt afgeweken.   
+5.  De examenopgaven dienen na afloop van een examen op verzoek en desgewenst tegen betaling bij de instelling verkrijgbaar te worden gesteld, behalve in gevallen waarin Onze Minister toestaat dat examenopgaven niet op deze wijze verkrijgbaar worden gesteld.   
 6.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven.   
 
 ### Artikel  13  
@@ -251,6 +251,8 @@ b. de erkenning intrekken.
 ### Titel  V  
 
 ####Toezicht
+
+Vervallen per 01-09-2002   
 
 ### Titel  VI  
 

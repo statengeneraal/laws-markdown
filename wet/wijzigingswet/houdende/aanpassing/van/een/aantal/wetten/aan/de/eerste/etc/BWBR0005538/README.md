@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het met het oog op de invoering van de eerste tranche van de [Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wenselijk is dat de andere wetten daarmee in overeenstemming worden gebracht;
+Alzo Wij in overweging genomen hebben, dat het met het oog op de invoering van de eerste tranche van de Algemene wet bestuursrecht wenselijk is dat de andere wetten daarmee in overeenstemming worden gebracht;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -950,82 +950,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  XIV1  
 
-Bij het verslag dat krachtens [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) binnen drie jaar na haar inwerkingtreding moet worden uitgebracht over de wijze waarop zij is toegepast, wordt tevens de vraag betrokken of [artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) kan vervallen. Gelijktijdig met de aanbieding van het verslag wordt alsdan bij de Staten-Generaal een voorstel van wet ingediend, dat daarin voorziet.  
-
-### Artikel  XIV2  
-
-1.  [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt gedurende drie jaren na de datum van inwerkingtreding van deze wet geen toepassing ten aanzien van besluiten van Onze Minister van Onderwijs en Wetenschappen, genomen op grond van de volgende wetten: 
-
-a. [Wet op het voortgezet onderwijs](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), met uitzondering van [artikel 121](../../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
-
-b. Wet op het leerlingwezen (*Stb.* 1966, 215);  
-
-d. Machtigingswet inschrijving studenten (*Stb.* 1985, 59);  
-
-d. [Experimentenwet onderwijs](../../../../../../../../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) (*Stb.* 1970, 370);  
-
-e. Lager-onderwijswet 1920 (*Stb.* 1974, 565).     
-2.  [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt gedurende drie jaren na de datum van inwerkingtreding van deze wet evenmin toepassing ten aanzien van besluiten van Onze Minister van Onderwijs en Wetenschappen, genomen op grond van de volgende wetten, voor zover tegen die besluiten krachtens de voor 1 januari 1994 geldende wetgeving beroep op de Kroon openstond: 
-
-a. [Wet op het basisonderwijs](../../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) (*Stb.* 1986, 286);  
-
-b. [Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](../../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) (*Stb.* 1987, 614);  
-
-c. Wet op de Open Universiteit (*Stb.* 1984, 573);  
-
-d. Wet op het hoger beroepsonderwijs (*Stb.* 1986, 289);  
-
-e. [Wet op de erkende onderwijsinstellingen](../../../../../../../../../../../../../wet/wet/op/de/erkende/onderwijsinstellingen/BWBR0003821/README.md) (*Stb.* 1985, 407);  
-
-f. Wet op het wetenschappelijk onderwijs (*Stb.* 1986, 414);  
-
-g. [TNO-wet](../../../../../../../../../../../../../wet/tno-wet/BWBR0003906/README.md) (*Stb.* 1985, 762);  
-
-h. Wet op de onderwijsverzorging (*Stb.* 1986, 635)  
-
-i. [Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](../../../../../../../../../../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md) (*Stb.* 1987, 369);  
-
-j. [Overgangswet WVO](../../../../../../../../../../../../../wet/overgangswet/w.v.o./BWBR0002595/README.md) (*Stb.* 1967, 387);  
-
-k. Wet medezeggenschap onderwijs (*Stb.* 1981, 778);  
-
-l. Overgangswet WBO (*Stb.* 1986, 257);  
-
-m. [Invoeringswet WHBO](../../../../../../../../../../../../../wet/invoeringswet/w.h.b.o./BWBR0003966/README.md) (*Stb.* 1986, 290);  
-
-n. [Les- en cursusgeldwet](../../../../../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md) (*Stb.* 1987, 343);  
-
-o. Wet maatregelen 1987-1991 inzake voorzieningen w.o. (*Stb.* 1987, 755);  
-
-p. Overgangswet ISOVSO (*Stb.* 1987, 615);  
-
-q. Wet op het wetenschappelijk onderwijs (*Stb.* 1975, 729);  
-
-r. Wet van 25 maart 1981 (*Stb.* 196), houdende wijziging van de Experimentenwet onderwijs;  
-
-s. [Wet invoering m.d.g.o.](../../../../../../../../../../../../../wet/wet/invoering/m.d.g.o./BWBR0003522/README.md) (*Stb.* 1982, 579);  
-
-t. [Wet van 14 oktober 1982 (*Stb.* 589), houdende regeling en invoering van de opleidingsscholen voor leraren basisonderwijs](../../../../../../../../../../../../../wet/wet/regeling/en/invoering/van/de/opleidingsscholen/voor/leraren/etc/BWBR0003523/README.md);  
-
-u. [Invoeringswet W.W.O.](../../../../../../../../../../../../../wet/invoeringswet/w.w.o./BWBR0003991/README.md) (*Stb.* 1986, 426);  
-
-v. Wet van 24 december 1986 (*Stb.* 719), houdende wijziging van de Wet op het basisonderwijs en de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs;  
-
-w. Tijdelijk wet arbeidsbemiddeling onderwijs;  
-
-x. Wet op het cursorisch beroepsonderwijs;  
-
-y. Wet van 1 juli 1992, (*Stb.* 364), houdende tijdelijke wet beperking toewijzing huisvestingsvoorzieningen in het basisonderwijs en het (voortgezet) speciaal onderwijs;  
-
-z. Tijdelijke wet bekostiging nieuwe basisscholen; 
-
-aa. [Wet op het hoger onderwijs en het wetenschappelijk onderzoek](../../../../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
-
-bb. [Wet van 27 februari 1992 (*Stb.* 112), houdende wijziging van de Wet op het voortgezet onderwijs in verband met de herziening van het bekostigingsstelsel voor scholen voor v.w.o., a.v.o., l.b.o. en m.b.o. (regeling herziening bekostigingsstelsel voortgezet onderwijs)](../../../../../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/herziening/etc/BWBR0005428/README.md).       
+Bij het verslag dat krachtens artikel 9:1 van de Algemene wet bestuursrecht binnen drie jaar na haar inwerkingtreding moet worden uitgebracht over de wijze waarop zij is toegepast, wordt tevens de vraag betrokken of artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen kan vervallen. Gelijktijdig met de aanbieding van het verslag wordt alsdan bij de Staten-Generaal een voorstel van wet ingediend, dat daarin voorziet.  
 
 ### Artikel  XIV3  
 
-[Artikel 6:14, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is tot 1 januari 1996 niet van toepassing ten aanzien van bezwaarschriften waarop de [Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (*Stb.* 1959, 301) of de Wet inzake de douane van toepassing is.  
+Artikel 6:14, eerste lid, van de Algemene wet bestuursrecht, is tot 1 januari 1996 niet van toepassing ten aanzien van bezwaarschriften waarop de Algemene wet inzake rijksbelastingen (*Stb.* 1959, 301) of de Wet inzake de douane van toepassing is.  
 
 ### Artikel  XIV3A  
 
@@ -1038,7 +967,7 @@ Bevat wijzigingen in andere regelgeving.
 ### Artikel  XIV4  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen van de wet verschillend kan worden gesteld.   
-2.  Voor de bekendmaking van deze wet brengt Onze Minister van Justitie de daarin voorkomende aanhalingen van artikelen, afdelingen, titels en hoofdstukken van de [Algemene wet bestuursrecht](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in overeenstemming met de krachtens [artikel 9:5 van die wet](../../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vastgestelde nummering.   
+2.  Voor de bekendmaking van deze wet brengt Onze Minister van Justitie de daarin voorkomende aanhalingen van artikelen, afdelingen, titels en hoofdstukken van de Algemene wet bestuursrecht in overeenstemming met de krachtens artikel 9:5 van die wet vastgestelde nummering.   
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

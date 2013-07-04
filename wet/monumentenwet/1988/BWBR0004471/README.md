@@ -32,7 +32,7 @@ e. kerkelijke monumenten: onroerende monumenten welke eigendom zijn van een kerk
 
 f. stads- en dorpsgezichten: groepen van onroerende zaken die van algemeen belang zijn wegens hun schoonheid, hun onderlinge ruimtelijke of structurele samenhang dan wel hun wetenschappelijke of cultuurhistorische waarde en in welke groepen zich één of meer monumenten bevinden;  
 
-g. beschermde stads- en dorpsgezichten: stads- en dorpsgezichten die door Onze minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als zodanig ingevolge artikel 35 van deze wet zijn aangewezen, met ingang van de datum van publikatie van die aanwijzing in de *Nederlandse Staatscourant*;  
+g. beschermde stads- en dorpsgezichten: stads- en dorpsgezichten die door Onze minister en Onze Minister van Infrastructuur en Milieu als zodanig ingevolge artikel 35 van deze wet zijn aangewezen, met ingang van de datum van publikatie van die aanwijzing in de *Nederlandse Staatscourant*;  
 
 h. het doen van opgravingen: het verrichten van werkzaamheden met als doel het opsporen of onderzoeken van monumenten, waardoor verstoring van de bodem optreedt;  
 
@@ -229,6 +229,8 @@ Onze minister beslist binnen twee maanden na ontvangst van het advies van de sch
 
 ####Bestuursdwang
 
+Vervallen per 01-10-2010   
+
 ### Hoofdstuk  III  
 
 ####Subsidies en specifieke uitkeringen
@@ -292,9 +294,9 @@ g. de betaling en terugvordering van de uitkering, alsmede het verlenen van voor
 
 ### Artikel  35  
 
-1.  Gehoord de gemeenteraad, gedeputeerde staten en de Raad, kunnen Onze minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer stads- en dorpsgezichten aanwijzen als beschermd stads- of dorpsgezicht en kunnen zij zodanige aanwijzingen intrekken.   
+1.  Gehoord de gemeenteraad, gedeputeerde staten en de Raad, kunnen Onze minister en Onze Minister van Infrastructuur en Milieu stads- en dorpsgezichten aanwijzen als beschermd stads- of dorpsgezicht en kunnen zij zodanige aanwijzingen intrekken.   
 2.  Onze minister zendt het voorstel tot aanwijzing of intrekking gelijktijdig aan de gemeenteraad, gedeputeerde staten en de Raad. De gemeenteraad brengt advies uit via gedeputeerde staten binnen 6 maanden, gedeputeerde staten binnen 9 maanden en de Raad binnen 12 maanden na verzending van het voorstel.   
-3.  Onze minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer beslissen over aanwijzing of intrekking binnen zestien maanden na verzending van het voorstel.   
+3.  Onze minister en Onze Minister van Infrastructuur en Milieu beslissen over aanwijzing of intrekking binnen zestien maanden na verzending van het voorstel.   
 4.  De bekendmaking van een besluit tot aanwijzing of tot intrekking daarvan geschiedt door plaatsing in de *Staatscourant*. Van het besluit wordt mededeling gedaan in de daarvoor in aanmerking komende dag- of nieuwsbladen en aan de gemeenteraad, gedeputeerde staten en de Raad.   
 
 ### Artikel  36  
@@ -480,7 +482,7 @@ d. het rapport, bedoeld in artikel 46, vierde lid; en
 
 e. de meldingen, bedoeld in de artikelen 46, eerste en tweede lid, 53, eerste lid, en 54.     
 2.  Het auteursrecht op de rapporten, bedoeld in artikel 46, vierde lid, en de daarin opgenomen werken is voorbehouden.   
-3.  Het auteursrecht en het databankenrecht, bedoeld in [artikel 2, eerste lid, van de Databankenwet](../../../../wet/databankenwet/BWBR0010591/README.md), op het Centraal archeologisch informatiesysteem zijn voorbehouden.   
+3.  Het auteursrecht en het databankenrecht, bedoeld in artikel 2, eerste lid, van de Databankenwet, op het Centraal archeologisch informatiesysteem zijn voorbehouden.   
 4.  Voor de verstrekking van informatie uit het Centraal archeologisch informatiesysteem kunnen kosten in rekening worden gebracht, volgens door Onze minister vast te stellen tarieven.   
 
 ### §  9  

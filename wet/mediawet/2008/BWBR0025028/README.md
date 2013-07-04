@@ -393,7 +393,7 @@ e. een beschrijving van de samenwerking met de regionale en lokale publieke medi
 
 1.  De NPO maakt het concessiebeleidsplan openbaar.   
 2.  Over het concessiebeleidsplan vraagt Onze Minister advies aan het Commissariaat en de Raad voor cultuur.   
-3.  Het concessiebeleidsplan behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in artikel 2.20, tweede lid, onderdelen b en c, waarbij de instemming geschiedt met inachtneming van [artikel 3.3, tweede lid, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
+3.  Het concessiebeleidsplan behoeft de instemming van Onze Minister voor zover het betreft de onderwerpen, bedoeld in artikel 2.20, tweede lid, onderdelen b en c, waarbij de instemming geschiedt in overeenstemming met het bepaalde in de [Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
 4.  Als de NPO wijzigingen wil aanbrengen in het door Onze Minister goedgekeurde deel van het concessiebeleidsplan, neemt zij die op in de begroting. Het eerste en tweede lid zijn van overeenkomstige toepassing.   
 
 ### Artikel  2.21a  
@@ -1255,7 +1255,7 @@ c. niet beeldvullend is.
 
 ### Artikel  2.108  
 
-1.  In gesponsord media-aanbod mogen producten of diensten van een sponsor worden vermeld of getoond, behalve als deze een bijdrage in geld heeft gegeven en onverminderd artikel 2.88a, derde lid, aanhef en onderdeel b.   
+1.  In gesponsord media-aanbod mogen producten of diensten van een sponsor worden vermeld of getoond, behalve als deze een bijdrage in geld heeft gegeven en onverminderd artikel 2.88b, derde lid, aanhef en onderdeel b.   
 2.  Het Commissariaat kan toestemming verlenen voor het vermelden of vertonen van de naam, het (beeld)merk, producten of diensten van sponsors in de titel van gesponsord media-aanbod, mits het publiek niet rechtstreeks door middel van specifieke aanprijzingen wordt aangespoord tot het kopen of huren van producten of afname van diensten van de sponsors.   
 3.  Het Commissariaat kan aan het verlenen van toestemming voorschriften verbinden.   
 
@@ -1303,7 +1303,7 @@ Op elk televisieprogrammakanaal van de landelijke en regionale publieke mediadie
 
 ### Artikel  2.116  
 
-1.  Bij algemene maatregel van bestuur wordt vastgesteld hoeveel procent van het totaal van de budgetten, bedoeld in artikel 2.149, eerste lid, met uitzondering van onderdeel g, en de gelden die op grond van artikel 2.158 ter beschikking zijn gesteld voor het verzorgen van media-aanbod, wordt besteed aan Europese producties als bedoeld in artikel 1 van de Europese richtlijn die kunnen worden aangemerkt als onafhankelijke productie. Het percentage, bedoeld in de vorige volzin, wordt vastgesteld op ten minste tien en ten hoogste twintig procent.   
+1.  Bij algemene maatregel van bestuur wordt vastgesteld hoeveel procent van het totaal van de budgetten, bedoeld in artikel 2.149, eerste lid, met uitzondering van onderdeel g, wordt besteed aan Europese producties als bedoeld in artikel 1 van de Europese richtlijn die kunnen worden aangemerkt als onafhankelijke productie. Het percentage, bedoeld in de vorige volzin, wordt vastgesteld op ten minste tien en ten hoogste twintig procent.   
 2.  Op elk van de televisieprogrammakanalen van de landelijke publieke mediadienst bestaat het programma-aanbod uit ten minste tien procent van de duur uit producties als bedoeld in artikel 2.115 die kunnen worden aangemerkt als onafhankelijke productie.   
 
 ### Artikel  2.117  
@@ -2418,7 +2418,8 @@ b. twee jaar, bij een geldboete van € 1 125 of meer, maar minder dan € 2�
 c. drie jaar, bij een geldboete van € 2 250 of meer, maar minder dan € 3 375; en  
 
 d. vier jaar, bij een geldboete van € 3 375 of meer.     
-2.  Als aan de lijst van een politieke partij aan de lijst waarvan op de dag waarop de veroordeling onherroepelijk wordt op grond van de [Kieswet](../../../../wet/kieswet/BWBR0004627/README.md) geen zetels zijn toegewezen, op grond van een verkiezing die plaatsvindt binnen een periode van twee jaar na die dag één of meer zetels worden toegewezen, gaat de periode gedurende welke aan deze politieke partij geen uren als bedoeld in artikel 6.1, eerste lid, worden toegewezen, in op de dag waarop de verkiezing heeft plaatsgevonden.   
+2.  Als een politieke partij is veroordeeld wegens een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is, wijst het Commissariaat in afwijking van artikel 6.1, eerste en tweede lid, aan deze politieke partij geen uren toe gedurende een periode van vier jaar die ingaat op de dag waarop de veroordeling onherroepelijk is geworden.   
+3.  Als aan de lijst van een politieke partij aan de lijst waarvan op de dag waarop de veroordeling onherroepelijk wordt op grond van de [Kieswet](../../../../wet/kieswet/BWBR0004627/README.md) geen zetels zijn toegewezen, op grond van een verkiezing die plaatsvindt binnen een periode van twee jaar na die dag één of meer zetels worden toegewezen, gaat de periode gedurende welke aan deze politieke partij geen uren als bedoeld in artikel 6.1, eerste lid, worden toegewezen, in op de dag waarop de verkiezing heeft plaatsgevonden.   
 
 ### Artikel  6.3  
 
@@ -2600,9 +2601,9 @@ Deze paragraaf is niet van toepassing op de aanbieder van een omroepnetwerk aan 
 
 ### Artikel  6.23  
 
-1.  Onze Minister, handelend in overeenstemming met het gevoelen van de ministerraad, wijst de frequentieruimte in de FM-band aan die wordt gebruikt voor het verspreiden van radioprogramma-aanbod dat overwegend bestaat uit Nederlandstalige muziek. Bij ministeriële regeling wordt nader omschreven in welke gevallen radioprogramma-aanbod aan deze eis voldoet.   
-2.  Onze Minister, handelend in overeenstemming met het gevoelen van de ministerraad, wijst andere frequentieruimte in de FM-band aan die slechts mag worden gebruikt voor het verspreiden van bij die aanwijzing vast te stellen categorieën radioprogramma-aanbod dat, gelet op de aard, inhoud of doelgroep, verhoudingsgewijs lage inkomsten uit reclame of verhoudingsgewijs hoge kosten meebrengt.   
-3.  Als aard en omvang van de frequentieruimte in de FM-band die beschikbaar is voor het verspreiden van radioprogramma-aanbod daartoe aanleiding geven, kan Onze Minister, handelend in overeenstemming met het gevoelen van de ministerraad, afzien van het aanwijzen van frequentieruimte in de FM-band op grond van het eerste en tweede lid.   
+1.  Onze Minister, in overeenstemming met Onze Minister van Economische Zaken, wijst de frequentieruimte in de FM-band aan die wordt gebruikt voor het verspreiden van radioprogramma-aanbod dat overwegend bestaat uit Nederlandstalige muziek. Bij ministeriële regeling wordt nader omschreven in welke gevallen radioprogramma-aanbod aan deze eis voldoet.   
+2.  Onze Minister, in overeenstemming met Onze Minister van Economische Zaken, wijst andere frequentieruimte in de FM-band aan die slechts mag worden gebruikt voor het verspreiden van bij die aanwijzing vast te stellen categorieën radioprogramma-aanbod dat, gelet op de aard, inhoud of doelgroep, verhoudingsgewijs lage inkomsten uit reclame of verhoudingsgewijs hoge kosten meebrengt.   
+3.  Als aard en omvang van de frequentieruimte in de FM-band die beschikbaar is voor het verspreiden van radioprogramma-aanbod daartoe aanleiding geven, kan Onze Minister, in overeenstemming met Onze Minister van Economische Zaken, afzien van het aanwijzen van frequentieruimte in de FM-band op grond van het eerste en tweede lid.   
 
 ### Artikel  6.24  
 
@@ -2704,7 +2705,7 @@ Het Commissariaat plaatst besluiten tot vaststelling van nadere regels op grond 
 
 1.  Het Commissariaat is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet, met uitzondering van: 
 
-a. de artikelen 2.2 tot en met 2.22, 2.24 tot en met 2.33, 2.34a tot en met 2.34j, 2.36 tot en met 2.41, 2.53 tot en met 2.57, 2.59, 2.60, 2.125 tot en met 2.131, 2.143 tot en met 2.145, 2.149, 2.150, eerste lid, 2.151, eerste lid, 2.158, 2.166 tot en met 2.168, 2.180 tot en met 2.187, 4.2 tot en met 4.5 en 6.26; en  
+a. de artikelen 2.2 tot en met 2.22, 2.24 tot en met 2.33, 2.34a tot en met 2.34j, 2.36 tot en met 2.41, 2.53 tot en met 2.57, 2.59, 2.60, 2.125 tot en met 2.131, 2.143 tot en met 2.145, 2.149, 2.150, eerste lid, 2.151, eerste lid, 2.166 tot en met 2.168, 2.180 tot en met 2.187, 4.2 tot en met 4.5 en 6.26; en  
 
 b. hoofdstuk 8.     
 2.  Met het toezicht op de naleving zijn belast de leden van het Commissariaat en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat.   

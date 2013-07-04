@@ -18,21 +18,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. wet: de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. wet: de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-b. instellingsbestuur: het instellingsbestuur van een universiteit als bedoeld in [artikel 1.8 van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b. instellingsbestuur: het instellingsbestuur van een universiteit als bedoeld in artikel 1.8 van de wet;  
 
-c. opleiding: een opleiding als bedoeld in [artikel 7.3 van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+c. opleiding: een opleiding als bedoeld in artikel 7.3 van de wet;  
 
-d. Informatie Beheer Groep: de Informatie Beheer Groep, bedoeld in de [Wet verzelfstandiging Informatiseringsbank](../../../../../../wet/wet/verzelfstandiging/informatiseringsbank/BWBR0006320/README.md);  
+d. Informatie Beheer Groep: de Informatie Beheer Groep, bedoeld in de Wet verzelfstandiging Informatiseringsbank;  
 
-e. register: het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+e. register: het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13 van de wet.    
 
 ### Artikel  2  
 
 ####Besluitvorming bèta-opleidingen met een studielast van 210 studiepunten
 
-1.  Onze Minister van Onderwijs, Cultuur en Wetenschappen kan op aanvraag van het instellingsbestuur in de jaren 1999, 2000 en 2001 toestaan dat een opleiding op het gebied van de natuur met een studielast van 210 studiepunten wordt ingesteld. Onze Minister van Landbouw, Natuurbeheer en Visserij kan op aanvraag van het instellingsbestuur van de openbare universiteit te Wageningen in dezelfde jaren toestaan dat de de opleiding biologie en de opleiding moleculaire wetenschappen, elk met een studielast van 210 studiepunten, worden ingesteld.   
+1.  Onze Minister van Onderwijs, Cultuur en Wetenschappen kan op aanvraag van het instellingsbestuur in de jaren 1999, 2000 en 2001 toestaan dat een opleiding op het gebied van de natuur met een studielast van 210 studiepunten wordt ingesteld. Onze Minister van Economische Zaken kan op aanvraag van het instellingsbestuur van de openbare universiteit te Wageningen in dezelfde jaren toestaan dat de de opleiding biologie en de opleiding moleculaire wetenschappen, elk met een studielast van 210 studiepunten, worden ingesteld.   
 2.  Het instellingsbestuur dient een aanvraag in bij Onze minister, wie het aangaat, ten behoeve van het studiejaar 1999–2000 voor 1 mei 1999, ten behoeve van het studiejaar 2000–2001 voor 1 april 2000 dan wel ten behoeve van het studiejaar 2001–2002 voor 1 april 2001. Het instellingsbestuur toont daarin ten genoegen van Onze minister aan dat: 
 
 a. de desbetreffende opleiding in een maatschappelijke behoefte voorziet,  
@@ -48,7 +48,7 @@ d. de desbetreffende opleiding omvat
 2°. in een voorkomend geval een afstudeerrichting gericht op het beroep van leraar voortgezet onderwijs van de eerste graad in een of meer met die opleiding verwante vakken in het voortgezet onderwijs, en  
 
 3°. een of meer andere afstudeerrichtingen.       
-3.  [Artikel 6.3, tweede lid, van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is niet van toepassing.   
+3.  Artikel 6.3, tweede lid, van de wet is niet van toepassing.   
 4.  Voor de toepassing van dit artikel wordt onder opleiding op het gebied van de natuur tevens verstaan: 
 
 a. de opleiding biomedische wetenschappen, verbonden aan de openbare universiteit te Leiden,  
@@ -67,13 +67,13 @@ Indien de uitspraak op een beroep tegen een besluit van Onze Minister als bedoel
 
 ####Registratie nieuwe bèta-opleidingen in het CROHO
 
-1.  In afwijking van [artikel 6.14, eerste lid, van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en in afwijking van de termijnbepalingen, bedoeld in de [artikelen 6.13, tweede lid, derde volzin](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [6.14, tweede lid, eerste volzin, van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) registreert de Informatie Beheer Groep de in de ministeriële regeling, bedoeld in [artikel 7.4, negende lid, van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) opgenomen opleidingen in het register dat betrekking heeft op een van de studiejaren 1999–2000, 2000–2001 of 2001–2002, in het gedeelte Wetenschappelijk onderwijs, onderdeel Landbouw en natuurlijke omgeving, onderdeel Natuur of onderdeel Gezondheidszorg. [Artikel 6.13, vierde lid, van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is van overeenkomstige toepassing. De registratie geschiedt overeenkomstig de door het instellingsbestuur verstrekte gegevens.   
+1.  In afwijking van artikel 6.14, eerste lid, van de wet en in afwijking van de termijnbepalingen, bedoeld in de artikelen 6.13, tweede lid, derde volzin, en 6.14, tweede lid, eerste volzin, van de wet registreert de Informatie Beheer Groep de in de ministeriële regeling, bedoeld in artikel 7.4, negende lid, van de wet opgenomen opleidingen in het register dat betrekking heeft op een van de studiejaren 1999–2000, 2000–2001 of 2001–2002, in het gedeelte Wetenschappelijk onderwijs, onderdeel Landbouw en natuurlijke omgeving, onderdeel Natuur of onderdeel Gezondheidszorg. Artikel 6.13, vierde lid, van de wet is van overeenkomstige toepassing. De registratie geschiedt overeenkomstig de door het instellingsbestuur verstrekte gegevens.   
 2.  De Informatie Beheer Groep weigert registratie in het register uitsluitend, indien: 
 
 a. de in het eerste lid bedoelde gegevens niet uiterlijk 1 juni van het desbetreffende jaar door de Informatie Beheer Groep zijn ontvangen, dan wel  
 
 b. deze uiterlijk op genoemde datum ontvangen gegevens naar het oordeel van de Informatie Beheer Groep niet volledig zijn en vervolgens niet binnen een door de Informatie Beheer Groep te bepalen termijn is voorzien in de ontbrekende gegevens.     
-3.  [Artikel 6.14, vijfde lid, eerste volzin, van de wet](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is van overeenkomstige toepassing.   
+3.  Artikel 6.14, vijfde lid, eerste volzin, van de wet is van overeenkomstige toepassing.   
 
 ### Artikel  5  
 
@@ -89,23 +89,25 @@ Indien een opleiding waarvoor met het oog op een bepaald studiejaar een besluit 
 
 ### HOOFDSTUK  2  
 
-####WIJZIGINGEN VAN DE [WHW](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) EN VAN DE [WET VAN 2 APRIL 1998](../../../../../../wet/wijzigingswet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/en/etc/BWBR0009524/README.md) (STB. 216)
+####WIJZIGINGEN VAN DE WHW EN VAN DE WET VAN 2 APRIL 1998 (STB. 216)
 
 ### Artikel  7  
 
-####Tijdelijke wijziging van de [WHW](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)
+####Tijdelijke wijziging van de WHW
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 
 ### Artikel  8  
 
-####Wijziging van de [WHW](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)
+####Wijziging van de WHW
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 
 ### Artikel  9  
 
-####Wijziging van de [wet van 2 april 1998](../../../../../../wet/wijzigingswet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/en/etc/BWBR0009524/README.md) (Stb. 216)
+####Wijziging van de wet van 2 april 1998 (Stb. 216)
 
 Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en Wet op de studiefinanciering (uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen).   
 

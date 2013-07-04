@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben dat het wenselijk is, de regels ten aanzien van de bekostiging die zijn opgenomen in de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) te vereenvoudigen en te actualiseren;
+Alzo Wij in overweging genomen hebben dat het wenselijk is, de regels ten aanzien van de bekostiging die zijn opgenomen in de Wet op het voortgezet onderwijs te vereenvoudigen en te actualiseren;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -19,19 +19,19 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ####Overgangsbepaling bekostiging periode start schooljaar – inwerkingtreding miv. 1 januari
 
-De aanspraak op bekostiging op grond van de [artikelen 84](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [84b](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [85b](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [86 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) van de scholen voor voortgezet onderwijs voor het schooljaar dat aanvangt in het kalenderjaar voorafgaand aan het kalenderjaar waarin deze wet in werking treedt, eindigt met ingang van de inwerkingtreding van deze wet. In de periode tussen de aanvang van het in de vorige volzin bedoelde schooljaar en de inwerkingtreding van deze wet heeft een school aanspraak op 32% van de personele bekostiging onderscheidenlijk 5/12 van de materiële bekostiging die voor dat schooljaar voor de desbetreffende school op grond van de [artikelen 84](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [84b](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [85b](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) respectievelijk [86 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) is vastgesteld.  
+De aanspraak op bekostiging op grond van de artikelen 84, 84b, 85b en 86 van de Wet op het voortgezet onderwijs van de scholen voor voortgezet onderwijs voor het schooljaar dat aanvangt in het kalenderjaar voorafgaand aan het kalenderjaar waarin deze wet in werking treedt, eindigt met ingang van de inwerkingtreding van deze wet. In de periode tussen de aanvang van het in de vorige volzin bedoelde schooljaar en de inwerkingtreding van deze wet heeft een school aanspraak op 32% van de personele bekostiging onderscheidenlijk 5/12 van de materiële bekostiging die voor dat schooljaar voor de desbetreffende school op grond van de artikelen 84, 84b en 85b respectievelijk 86 van de Wet op het voortgezet onderwijs is vastgesteld.  
 
 ### Artikel  III  
 
 ####Overgangsbepaling periode ABB
 
-Voor scholen waaraan voor de inwerkingtreding van deze wet bekostiging voor administratie, beheer en bestuur is toegekend als bedoeld in [artikel 96g1 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), eindigt de in het eerste lid van dat artikel bedoelde periode met ingang van het kalenderjaar volgend op de ingang van het zevende schooljaar na aanvang van die bekostiging.  
+Voor scholen waaraan voor de inwerkingtreding van deze wet bekostiging voor administratie, beheer en bestuur is toegekend als bedoeld in artikel 96g1 van de Wet op het voortgezet onderwijs, eindigt de in het eerste lid van dat artikel bedoelde periode met ingang van het kalenderjaar volgend op de ingang van het negende schooljaar na aanvang van die bekostiging.  
 
 ### Artikel  IV  
 
 ####Overgangsbepaling personele bekostiging
 
-1.  Indien de berekende bekostiging op grond van de [artikelen 84](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [84b](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [85b van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en op grond van de daarop gebaseerde lagere regelgeving zoals luidend nà inwerkingtreding van artikel I van deze wet van de scholen van een bevoegd gezag waarop voor het kalenderjaar voorafgaand aan het jaar waarin deze wet in werking treedt, aanspraak zou bestaan, hoger onderscheidenlijk 1,5% of meer lager is dan de berekende bekostiging waarop voor het schooljaar dat aanvangt in het jaar voorafgaand aan het jaar waarin deze wet in werking treedt aanspraak zou bestaan op grond van genoemde artikelen en op grond van de daarop gebaseerde lagere regelgeving zoals luidend vóór inwerkingtreding van artikel I van deze wet waarbij de leerlingfluctuatiefactor op 1 wordt gesteld, wordt de bekostiging: 
+1.  Indien de berekende bekostiging op grond van de artikelen 84, 84b en 85b van de Wet op het voortgezet onderwijs en op grond van de daarop gebaseerde lagere regelgeving zoals luidend nà inwerkingtreding van artikel I van deze wet van de scholen van een bevoegd gezag waarop voor het kalenderjaar voorafgaand aan het jaar waarin deze wet in werking treedt, aanspraak zou bestaan, hoger onderscheidenlijk 1,5% of meer lager is dan de berekende bekostiging waarop voor het schooljaar dat aanvangt in het jaar voorafgaand aan het jaar waarin deze wet in werking treedt aanspraak zou bestaan op grond van genoemde artikelen en op grond van de daarop gebaseerde lagere regelgeving zoals luidend vóór inwerkingtreding van artikel I van deze wet waarbij de leerlingfluctuatiefactor op 1 wordt gesteld, wordt de bekostiging: 
 
 a. voor het jaar waarin deze wet in werking treedt, verminderd met 95% van het verschil onderscheidenlijk vermeerderd met 100% van het verschil voorzover dat boven 1,5% uitgaat,  
 
@@ -50,13 +50,13 @@ e. voor het vierde jaar volgend op het jaar waarin deze wet in werking treedt, v
 
 ####Tijdelijke afwijking i.v.m. goede invoering
 
-Voorzover deze wet daarin niet voorziet, alsmede indien nodig in afwijking van het bij of krachtens deze wet bepaalde, kunnen bij ministeriële regeling voor bepaalde tijd regels worden vastgesteld ten behoeve van een goede invoering van de door deze wet gewijzigde of toegevoegde bepalingen van de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). Ten behoeve van de goede invoering van de in de eerste volzin bedoelde gewijzigde of toegevoegde bepalingen kan bij ministeriële regeling voor bepaalde tijd eveneens worden afgeweken van het overigens bepaalde bij of krachtens de in die volzin genoemde wet.  
+Voorzover deze wet daarin niet voorziet, alsmede indien nodig in afwijking van het bij of krachtens deze wet bepaalde, kunnen bij ministeriële regeling voor bepaalde tijd regels worden vastgesteld ten behoeve van een goede invoering van de door deze wet gewijzigde of toegevoegde bepalingen van de Wet op het voortgezet onderwijs. Ten behoeve van de goede invoering van de in de eerste volzin bedoelde gewijzigde of toegevoegde bepalingen kan bij ministeriële regeling voor bepaalde tijd eveneens worden afgeweken van het overigens bepaalde bij of krachtens de in die volzin genoemde wet.  
 
 ### Artikel  VI  
 
 ####Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip met dien verstande dat de nieuwe bekostigingsbepalingen in de [Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) voor het eerst van toepassing zijn ten aanzien van de bekostiging voor het kalenderjaar volgend op het kalenderjaar waarin deze wet in het Staatsblad wordt geplaatst.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip met dien verstande dat de nieuwe bekostigingsbepalingen in de Wet op het voortgezet onderwijs voor het eerst van toepassing zijn ten aanzien van de bekostiging voor het kalenderjaar volgend op het kalenderjaar waarin deze wet in het Staatsblad wordt geplaatst.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

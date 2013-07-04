@@ -13,11 +13,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####WIJZIGING VAN DE WET OP HET PRIMAIR ONDERWIJS
 
+Materieel uitgewerkt per 04-07-2013   
+
 Wijzigt de Wet op het primair onderwijs.   
 
 ### ARTIKEL  II  
 
 ####WIJZIGING VAN DE WET OP DE EXPERTISECENTRA
+
+Materieel uitgewerkt per 04-07-2013   
 
 Wijzigt de Wet op de expertisecentra.   
 
@@ -25,11 +29,15 @@ Wijzigt de Wet op de expertisecentra.
 
 ####WIJZIGING VAN DE WET OP HET VOORTGEZET ONDERWIJS
 
+Materieel uitgewerkt per 04-07-2013   
+
 Wijzigt de Wet op het voortgezet onderwijs.   
 
 ### ARTIKEL  IV  
 
 ####WET EDUCATIE EN BEROEPSONDERWIJS
+
+Materieel uitgewerkt per 04-07-2013   
 
 Wijzigt de Wet educatie en beroepsonderwijs.   
 
@@ -37,23 +45,15 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 ####WIJZIGING VAN DE WET OP HET HOGER ONDERWIJS EN WETENSCHAPPELIJK ONDERZOEK
 
+Materieel uitgewerkt per 04-07-2013   
+
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
-
-### ARTIKEL  VI  
-
-####OVERGANGSREGELING
-
-Een document als bedoeld in de artikelen I tot en met V wordt in geval van ondervertegenwoordiging voor de eerste maal opgesteld binnen 1 jaar na het tijdstip van inwerkingtreding van deze wet.  
-
-### ARTIKEL  VII  
-
-####EVALUATIE
-
-Onze Minister van Onderwijs, Cultuur en Wetenschappen zendt in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij binnen 7 jaren na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
 
 ### ARTIKEL  VIII  
 
 ####INWERKINGTREDING
+
+Materieel uitgewerkt per 04-07-2013   
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
 

@@ -15,70 +15,71 @@ Overwegende dat het voorts wenselijk is de bevoegde gezagsorganen in staat te st
 Overwegende dat het verder wenselijk is de bevoegdheden van de commissies van beroep uit te breiden in verband met de invoering van het formatiebudgetsysteem in het primair en voortgezet onderwijs;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
-### Artikel  I  
+### Artikel  I   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  II  
+### Artikel  II   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  III  
+### Artikel  III   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  IV  
+### Artikel  IV   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  V  
+### Artikel  V   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  VI  
+### Artikel  VI   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  VII  
+### Artikel  VII   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  VIII  
+### Artikel  VIII   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  IX  
+### Artikel  IX   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  X  
+### Artikel  X   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  XI  
+### Artikel  XI   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
 
-### Artikel  XIV  
+### Artikel  XIV   
+Materieel uitgewerkt per 04-07-2013   
 
 Bevat wijzigingen in andere regelgeving.   
-
-### Artikel  XV  
-
-####Overgangsbepaling bestuursaanstelling
-
-Zolang het bevoegd gezag niet de keuze voor benoeming in algemene dienst, bedoeld in [artikel 34, eerste lid, van de Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 34, eerste lid, van de Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) of [artikel 39a, eerste lid](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of [154, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) heeft gemaakt, blijft de aanstelling dan wel de benoeming bij een of meer scholen voor het personeel gehandhaafd.  
-
-### Artikel  XVI  
-
-####Evaluatie bestuursaanstelling
-
-1.  Onze Ministers van Onderwijs en Wetenschappen en van Landbouw, Natuurbeheer en Visserij brengen drie jaar na de inwerkingtreding van de wet tot wijziging van een aantal onderwijswetten in verband met onder meer de invoering van de mogelijkheid van bestuursaanstelling, het decentraal georganiseerd overleg, de invoering van de mogelijkheid van centrale diensten en de uitbreiding van de bevoegdheden van de commissies van beroep verslag uit aan de beide Kamers der Staten-Generaal over de mate waarin bevoegde gezagsorganen gebruik hebben gemaakt van de mogelijkheid van benoeming van personeel in algemene dienst, bedoeld in [artikel 20 *a* van de Wet op het basisonderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) (*Stb.* 1986, 256), [artikel 28 *a* van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) (*Stb.* 1987, 614) en [artikel 39 *a* van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (*Stb.* 1986, 552).   
-2.  Het bevoegd gezag van een uit 's Rijks kas bekostigde school voor basisonderwijs, voor speciaal onderwijs, voor voortgezet speciaal onderwijs, voor speciaal en voortgezet speciaal onderwijs of voor voortgezet onderwijs geeft Onze voornoemde ministers alle inlichtingen die deze voor de vaststelling van het in het eerste lid bedoelde verslag verlangen.   
 
 ### Artikel  XVII  
 
 ####Inwerkingtreding
+
+Materieel uitgewerkt per 04-07-2013   
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst, doch voor wat betreft de artikelen I, II en III met ingang van 1 augustus 1992, met uitzondering van artikel III, onderdelen M en N, die in werking treden met ingang van 1 januari 1993. Indien het *Staatsblad* waarin deze wet wordt geplaatst, wordt uitgegeven na 31 juli 1992, treden de artikelen I, II en III, in afwijking van het bepaalde in de eerste volzin, in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst, met uitzondering van artikel III onderdelen M en N, die in werking treden met ingang van 1 januari 1993.  
 

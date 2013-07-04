@@ -22,15 +22,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. wet: de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. wet: de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 b. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
-c. instelling: een instelling voor hoger onderwijs als bedoeld in [artikel 1.2, onderdelen a en b, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+c. instelling: een instelling voor hoger onderwijs als bedoeld in artikel 1.2, onderdelen a en b, van de wet;  
 
-d. instellingsbestuur: het instellingsbestuur, bedoeld in [artikel 1.1, onderdeel j, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+d. instellingsbestuur: het instellingsbestuur, bedoeld in artikel 1.1, onderdeel j, van de wet;  
 
-e. opleiding: een bachelor- of masteropleiding als bedoeld in [artikel 7.3 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+e. opleiding: een bachelor- of masteropleiding als bedoeld in artikel 7.3 van de wet;  
 
 f. voltijdse, duale of deeltijdse opleiding: een opleiding die onderscheidenlijk voltijds, duaal of deeltijds is ingericht;  
 
@@ -38,7 +38,7 @@ g. experimenteel programma: een programma binnen een bacheloropleiding als bedoe
 
 h. studiejaar: het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;  
 
-i. onderwijs- en examenregeling: de onderwijs- en examenregeling, bedoeld in [artikel 7.13 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+i. onderwijs- en examenregeling: de onderwijs- en examenregeling, bedoeld in artikel 7.13 van de wet.    
 
 ### Artikel  2  
 
@@ -50,7 +50,7 @@ De bepalingen van deze wet regelen het openbaar onderwijs en zijn voorwaarden vo
 
 ####Doelstelling experimenten
 
-Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van selectie van aanstaande studenten en extraneï, van differentiatie van collegegeld en van het stellen van vervangende vooropleidingseisen aan aanstaande studenten kunnen binnen de instellingen voor hoger onderwijs die op grond van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) worden bekostigd dan wel op grond van [die wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) zijn aangewezen, experimenten plaatsvinden met betrekking tot die terreinen, waarbij kan worden afgeweken van voorschriften gesteld bij [die wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).  
+Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van selectie van aanstaande studenten en extraneï, van differentiatie van collegegeld en van het stellen van vervangende vooropleidingseisen aan aanstaande studenten kunnen binnen de instellingen voor hoger onderwijs die op grond van de Wet op het hoger onderwijs en wetenschappelijk onderzoek worden bekostigd dan wel op grond van die wet zijn aangewezen, experimenten plaatsvinden met betrekking tot die terreinen, waarbij kan worden afgeweken van voorschriften gesteld bij die wet.  
 
 ### Artikel  4  
 
@@ -59,20 +59,20 @@ Met het oog op het verkrijgen van een duidelijker inzicht in de effecten van sel
 1.  Deze wet heeft betrekking op het studiejaar 2005–2006 en de volgende studiejaren.   
 2.  Deze wet heeft geen betrekking op: 
 
-a. opleidingen die niet zijn opgenomen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+a. opleidingen die niet zijn opgenomen in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13 van de wet,  
 
 b. opleidingen die wat betreft de doelstelling en de inhoud van de opleiding de enige in den lande zijn, voor zover het betreft experimenten op het terrein van de selectie van studenten, en  
 
-c. masteropleidingen als bedoeld in [artikel 7.30a van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), voor zover het betreft experimenten op het terrein van de selectie van studenten.     
+c. masteropleidingen als bedoeld in artikel 7.30a van de wet, voor zover het betreft experimenten op het terrein van de selectie van studenten.     
 
 ### Artikel  5  
 
 ####Experimenteel onderwijsprogramma
 
 1.  Ten behoeve van experimenten op het gebied van selectie van studenten en collegegelddifferentiatie kan het instellingsbestuur binnen een bacheloropleiding een experimenteel programma instellen.   
-2.  De studielast van een experimenteel programma binnen een bacheloropleiding in het wetenschappelijk onderwijs bedraagt 180 studiepunten. De studielast van een experimenteel programma binnen een bacheloropleiding in het hoger beroepsonderwijs bedraagt 240 studiepunten. [Artikel 7.3, tweede lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is van overeenkomstige toepassing. De kwaliteiten, bedoeld in [artikel 7.13, tweede lid, onder a, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), van een experimenteel programma komen overeen met die van de bacheloropleiding waarbinnen het programma is ingesteld.   
-3.  Het afsluitend examen van een experimenteel programma wordt aangemerkt als het afsluitend examen van de bacheloropleiding waarbinnen het programma is ingesteld. Op het getuigschrift, bedoeld in [artikel 7.11 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), wordt vermeld welk experimenteel programma het betreft.   
-4.  De bepalingen van [hoofdstuk 7](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), voorzover die betrekking hebben op bacheloropleidingen, zijn van overeenkomstige toepassing op een experimenteel programma, tenzij het tegendeel blijkt.   
+2.  De studielast van een experimenteel programma binnen een bacheloropleiding in het wetenschappelijk onderwijs bedraagt 180 studiepunten. De studielast van een experimenteel programma binnen een bacheloropleiding in het hoger beroepsonderwijs bedraagt 240 studiepunten. Artikel 7.3, tweede lid, eerste volzin, van de wet is van overeenkomstige toepassing. De kwaliteiten, bedoeld in artikel 7.13, tweede lid, onder a, van de wet, van een experimenteel programma komen overeen met die van de bacheloropleiding waarbinnen het programma is ingesteld.   
+3.  Het afsluitend examen van een experimenteel programma wordt aangemerkt als het afsluitend examen van de bacheloropleiding waarbinnen het programma is ingesteld. Op het getuigschrift, bedoeld in artikel 7.11 van de wet, wordt vermeld welk experimenteel programma het betreft.   
+4.  De bepalingen van hoofdstuk 7, voorzover die betrekking hebben op bacheloropleidingen, zijn van overeenkomstige toepassing op een experimenteel programma, tenzij het tegendeel blijkt.   
 
 ### Paragraaf  2  
 
@@ -82,8 +82,8 @@ c. masteropleidingen als bedoeld in [artikel 7.30a van de wet](../../../../../..
 
 ####Experimenten met vervangende vooropleidingseisen voor de bacheloropleidingen
 
-1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van [artikel 7.24, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) besluiten dat ten aanzien van een door hem aangewezen bacheloropleiding aanstaande studenten en extraneï kunnen voldoen aan eisen die in de plaats komen van de vooropleidingseisen, gesteld in [artikel 7.24, eerste onderscheidenlijk tweede lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
-2.  Een aanwijzing als bedoeld in het eerste lid vindt uitsluitend plaats, indien het instellingsbestuur heeft aangetoond dat de vervangende vooropleidingseisen ten minste gelijkwaardig zijn aan de vooropleidingseisen, gesteld in [artikel 7.24, eerste onderscheidenlijk tweede lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van artikel 7.24, eerste en tweede lid, van de wet besluiten dat ten aanzien van een door hem aangewezen bacheloropleiding aanstaande studenten en extraneï kunnen voldoen aan eisen die in de plaats komen van de vooropleidingseisen, gesteld in artikel 7.24, eerste onderscheidenlijk tweede lid, van de wet.   
+2.  Een aanwijzing als bedoeld in het eerste lid vindt uitsluitend plaats, indien het instellingsbestuur heeft aangetoond dat de vervangende vooropleidingseisen ten minste gelijkwaardig zijn aan de vooropleidingseisen, gesteld in artikel 7.24, eerste onderscheidenlijk tweede lid, van de wet.   
 3.  Het instellingsbestuur stelt de vervangende vooropleidingseisen vast.   
 4.  Het instellingsbestuur voert het onderzoek of de betrokkene voldoet aan de vervangende vooropleidingseisen uit. Dat onderzoek vindt plaats voorafgaand aan de aanvang van het studiejaar. Het instellingsbestuur beslist of de betrokkene voldoet aan de vervangende vooropleidingseisen.   
 5.  De vervangende vooropleidingseisen worden opgenomen in de onderwijs- en examenregeling.   
@@ -92,7 +92,7 @@ c. masteropleidingen als bedoeld in [artikel 7.30a van de wet](../../../../../..
 
 ####Experimenten met selectie en aanvullende selectie in bacheloropleidingen
 
-1.  Onverminderd [artikel 7.37, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) kan Onze Minister op aanvraag van het instellingsbestuur besluiten dat ten aanzien van een door hem aangewezen bacheloropleiding of een door hem aangewezen experimenteel programma binnen die opleiding selectie of aanvullende selectie plaatsvindt van de gegadigden voor die opleiding.   
+1.  Onverminderd artikel 7.37, eerste lid, van de wet kan Onze Minister op aanvraag van het instellingsbestuur besluiten dat ten aanzien van een door hem aangewezen bacheloropleiding of een door hem aangewezen experimenteel programma binnen die opleiding selectie of aanvullende selectie plaatsvindt van de gegadigden voor die opleiding.   
 2.  Een aanwijzing als bedoeld in het eerste lid vindt uitsluitend plaats, indien het instellingsbestuur heeft aangetoond dat het een opleiding met evidente meerwaarde betreft of het experiment kan bijdragen aan de verdere ontwikkeling van de evidente meerwaarde van die opleiding.   
 3.  Het instellingsbestuur stelt de selectiecriteria vast.   
 4.  Het instellingsbestuur voert de selectie uit. De selectie vindt plaats voorafgaand aan de aanvang van het studiejaar. Het instellingsbestuur beslist over de selectie.   
@@ -102,7 +102,7 @@ c. masteropleidingen als bedoeld in [artikel 7.30a van de wet](../../../../../..
 
 ####Experimenten met aanvullende toelatingseisen in de overige masteropleidingen
 
-1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van [artikel 7.30b, eerste lid, vierde volzin, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) besluiten dat ten aanzien van een door hem aangewezen masteropleiding, bedoeld in [artikel 7.30b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) de toelatingseisen voor die masteropleiding tevens betrekking kunnen hebben op andere aspecten.   
+1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van artikel 7.30b, eerste lid, vierde volzin, van de wet besluiten dat ten aanzien van een door hem aangewezen masteropleiding, bedoeld in artikel 7.30b, eerste lid, van de wet de toelatingseisen voor die masteropleiding tevens betrekking kunnen hebben op andere aspecten.   
 2.  Artikel 7, tweede lid, is van toepassing.   
 3.  Het instellingsbestuur stelt de aanvullende toelatingseisen vast.   
 4.  Artikel 6, vierde lid, is van overeenkomstige toepassing.   
@@ -112,15 +112,15 @@ c. masteropleidingen als bedoeld in [artikel 7.30a van de wet](../../../../../..
 
 ####Experimenten met collegegeldverhoging
 
-1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van [artikel 7.45, eerste lid van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) besluiten dat ten aanzien van een door hem aangewezen voltijdse opleiding of een door hem aangewezen experimenteel programma binnen die opleiding het instellingsbestuur een collegegeld vaststelt van ten hoogste vijf keer het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid, van de wet.   
+1.  Onze Minister kan op aanvraag van het instellingsbestuur in afwijking van artikel 7.45, eerste lid van de wet besluiten dat ten aanzien van een door hem aangewezen voltijdse opleiding of een door hem aangewezen experimenteel programma binnen die opleiding het instellingsbestuur een collegegeld vaststelt van ten hoogste vijf keer het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid, van de wet.   
 2.  Artikel 7, tweede lid, is van toepassing.   
 
 ### Artikel  10  
 
 ####Lening aan studenten i.v.m. collegegeldverhoging
 
-1.  Bij ministeriële regeling worden voorschriften vastgesteld over de beschikbaarstelling van een lening van rijkswege aan studenten in de kosten van het collegegeld, verschuldigd voor de inschrijving voor een opleiding als bedoeld in artikel 9, in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma. In de lening is het bedrag van het collegegeld, bedoeld in [artikel 7.45, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), niet begrepen.   
-2.  De lening is rentedragend. Met betrekking tot het rentepercentage is [artikel 6.3, eerste lid, van de Wet studiefinanciering 2000](../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md) van toepassing.   
+1.  Bij ministeriële regeling worden voorschriften vastgesteld over de beschikbaarstelling van een lening van rijkswege aan studenten in de kosten van het collegegeld, verschuldigd voor de inschrijving voor een opleiding als bedoeld in artikel 9, in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma. In de lening is het bedrag van het collegegeld, bedoeld in artikel 7.45, eerste lid, van de wet, niet begrepen.   
+2.  De lening is rentedragend. Met betrekking tot het rentepercentage is artikel 6.3, eerste lid, van de Wet studiefinanciering 2000 van toepassing.   
 3.  In de regeling kan worden bepaald dat een instellingsbestuur wordt belast met de uitvoering daarvan.   
 4.  De voorschriften, bedoeld in het eerste lid, hebben in elk geval betrekking op: 
 
@@ -131,7 +131,7 @@ b. de voorwaarden waaronder de lening kan worden toegekend,
 c. de aanvraagprocedure en de toekenning van de lening, en  
 
 d. de wijze van terugbetaling van de lening.     
-5.  Dit artikel is niet van toepassing op opleidingen, verbonden aan instellingen, bedoeld in [artikel 6.9 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+5.  Dit artikel is niet van toepassing op opleidingen, verbonden aan instellingen, bedoeld in artikel 6.9 van de wet.   
 
 ### Paragraaf  3  
 
@@ -142,14 +142,14 @@ d. de wijze van terugbetaling van de lening.
 ####Aanvraag door het instellingsbestuur
 
 1.  Het instellingsbestuur dient een aanvraag voor een experiment als bedoeld in de artikelen 6 tot en met 9 bij Onze Minister in voor een bij ministeriële regeling vast te stellen tijdstip. Een aanvraag kan op de studiejaren 2005–2006 en 2006–2007 betrekking hebben.   
-2.  Voor zover het betreft een experiment als bedoeld in artikel 6, toont het instellingsbestuur in de aanvraag aan dat de vervangende vooropleidingseisen ten minste gelijkwaardig zijn aan de vooropleidingseisen, gesteld in [artikel 7.24, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  Voor zover het betreft een experiment als bedoeld in artikel 6, toont het instellingsbestuur in de aanvraag aan dat de vervangende vooropleidingseisen ten minste gelijkwaardig zijn aan de vooropleidingseisen, gesteld in artikel 7.24, eerste en tweede lid, van de wet.   
 3.  Voor zover het betreft een experiment als bedoeld in de artikelen 7 tot en met 9, toont het instellingsbestuur in de aanvraag aan dat het een opleiding of een experimenteel programma met evidente meerwaarde betreft of het experiment kan bijdragen aan de verdere ontwikkeling van evidente meerwaarde binnen die opleiding of een experimenteel programma.   
 
 ### Artikel  12  
 
 ####Besluitvorming opleidingen op het gebied van landbouw; tijdstip besluitvorming studiejaar 2005–2006
 
-1.  Voorzover het betreft opleidingen op het gebied van landbouw en natuurlijke omgeving, neemt Onze Minister een besluit als bedoeld in de artikelen 6 tot en met 9 in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit.   
+1.  Voorzover het betreft opleidingen op het gebied van landbouw en natuurlijke omgeving, neemt Onze Minister een besluit als bedoeld in de artikelen 6 tot en met 9 in overeenstemming met Onze Minister van Economische Zaken.   
 2.  Onze Minister neemt een besluit als bedoeld in de artikelen 6 tot en met 9 ten behoeve van het studiejaar 2005–2006 voor een bij ministeriële regeling vast te stellen tijdstip.   
 
 ### Artikel  12a  
@@ -167,35 +167,37 @@ d. de wijze van terugbetaling van de lening.
 
 ####Rechtsgevolg besluit op grond van artikel 7 
 
-Indien een besluit als bedoeld in artikel 7 betrekking heeft op een bacheloropleiding waarvoor een toelatingsbeperking als bedoeld in de [artikelen 7.53](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.55](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [7.56 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van kracht is, blijft [paragraaf 4a van titel 3 van hoofdstuk 7 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) buiten toepassing. Voor de toepassing van dit artikel wordt onder een besluit als bedoeld in artikel 7 tevens begrepen een verlenging op grond van artikel 12a van een aanwijzing.  
+Indien een besluit als bedoeld in artikel 7 betrekking heeft op een bacheloropleiding waarvoor een toelatingsbeperking als bedoeld in de artikelen 7.53, 7.55 en 7.56 van de wet van kracht is, blijft paragraaf 4a van titel 3 van hoofdstuk 7 van de wet buiten toepassing. Voor de toepassing van dit artikel wordt onder een besluit als bedoeld in artikel 7 tevens begrepen een verlenging op grond van artikel 12a van een aanwijzing.  
 
 ### Artikel  14  
 
 ####Uitbreiding rechtsmacht colleges van beroep voor de examens
 
-1.  Een college van beroep voor de examens als bedoeld in [artikel 7.60 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) oordeelt tevens over het beroep tegen beslissingen van het instellingsbestuur als bedoeld in de artikelen 6, vierde lid, 7, vierde lid, en 8, vierde lid.   
-2.  De [artikelen 7.61, tweede tot en met zevende lid](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.63 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) zijn van toepassing op het beroep, bedoeld in het eerste lid.   
+1.  Een college van beroep voor de examens als bedoeld in artikel 7.60 van de wet oordeelt tevens over het beroep tegen beslissingen van het instellingsbestuur als bedoeld in de artikelen 6, vierde lid, 7, vierde lid, en 8, vierde lid.   
+2.  De artikelen 7.61, tweede tot en met zevende lid, en 7.63 van de wet zijn van toepassing op het beroep, bedoeld in het eerste lid.   
 
 ### Artikel  15  
 
 ####Medezeggenschap
 
-1.  De [artikelen 9.34, derde lid, onderdeel b](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [10.22, onderdeel b, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) zijn van overeenkomstige toepassing op het onderdeel van de onderwijs- en examenregeling, bedoeld in de artikelen 6, vijfde lid, 7, vijfde lid, en 8, vijfde lid.   
-2.  De [artikelen 9.43](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [10.30 van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) zijn van overeenkomstige toepassing.   
+1.  De artikelen 9.34, derde lid, onderdeel b, en 10.22, onderdeel b, van de wet zijn van overeenkomstige toepassing op het onderdeel van de onderwijs- en examenregeling, bedoeld in de artikelen 6, vijfde lid, 7, vijfde lid, en 8, vijfde lid.   
+2.  De artikelen 9.43 en 10.30 van de wet zijn van overeenkomstige toepassing.   
 
 ### Paragraaf  5  
 
-####Wijzigingen van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)
+####Wijzigingen van de Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
 ### Artikel  16  
 
-####Tijdelijke wijziging van de [WHW](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)
+####Tijdelijke wijziging van de WHW
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 
 ### Artikel  17  
 
-####Wijziging van de [WHW](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md)
+####Wijziging van de WHW
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 
@@ -208,20 +210,20 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 ####Overgangsbepaling afronding opleiding
 
 1.  Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een bacheloropleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van selectie aanvangt, kunnen die opleiding binnen een redelijke termijn aan dezelfde instelling voltooien volgens de voorschriften die op het tijdstip van hun eerste inschrijving van toepassing waren.   
-2.  Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een voltijdse opleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van collegegeldverhoging aanvangt, zijn het collegegeld, bedoeld in [artikel 7.45, eerste lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), verschuldigd.   
+2.  Studenten die op 31 augustus 2005 of op 31 augustus 2006 zijn ingeschreven voor een voltijdse opleiding ten aanzien waarvan met ingang van 1 september 2005 onderscheidenlijk met ingang van 1 september 2006 een experiment op het terrein van collegegeldverhoging aanvangt, zijn het collegegeld, bedoeld in artikel 7.45, eerste lid, van de wet, verschuldigd.   
 3.  Het eerste lid is van overeenkomstige toepassing op studenten die op 31 augustus 2007 of op 31 augustus van een van de volgende kalenderjaren zijn ingeschreven voor een opleiding als bedoeld in het eerste of tweede lid.   
 
 ### Artikel  19  
 
 ####Overgangsbepaling terugbetaling collegegeld
 
-Op aanvragen als bedoeld in [artikel 7.49a van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), zoals dat artikel luidde voor het tijdstip van intrekking van deze wet, en de afhandeling daarvan, alsmede op beroepen tegen een beslissing op een zodanige aanvraag, blijven de op de dag voor het tijdstip van intrekking van deze wet geldende voorschriften van deze wet en van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) van toepassing.  
+Op aanvragen als bedoeld in artikel 7.49a van de wet, zoals dat artikel luidde voor het tijdstip van intrekking van deze wet, en de afhandeling daarvan, alsmede op beroepen tegen een beslissing op een zodanige aanvraag, blijven de op de dag voor het tijdstip van intrekking van deze wet geldende voorschriften van deze wet en van de Wet op het hoger onderwijs en wetenschappelijk onderzoek van toepassing.  
 
 ### Artikel  20  
 
 ####Evaluatie
 
-Onze Minister zendt in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit voor 1 juni 2008 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt in overeenstemming met Onze Minister van Economische Zaken voor 1 juni 2008 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
 
 ### Artikel  21  
 

@@ -8,7 +8,7 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het voor de kwaliteit van het onderwijs, voor de kwalificatiestructuur en voor een moderne en open arbeidsorganisatie op het gebied van het primair en voortgezet onderwijs alsmede op het gebied van de educatie en het beroepsonderwijs wenselijk is, bekwaamheidseisen voor onderwijsgevenden vast te stellen, mogelijk te maken dat dergelijke eisen eveneens worden vastgesteld voor nauw met het onderwijs verbonden leidinggevende en ondersteunende werkzaamheden en te bevorderen dat de betrokkenen hun bekwaamheid onderhouden;
 
-dat het tevens noodzakelijk is, de onderwerpen uit de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](../../../../../../../../../wet/interimwet/zij-instroom/leraren/primair/en/voortgezet/onderwijs/BWBR0011469/README.md) te regelen in de desbetreffende onderwijswetten;
+dat het tevens noodzakelijk is, de onderwerpen uit de Interimwet zij-instroom leraren primair en voortgezet onderwijs te regelen in de desbetreffende onderwijswetten;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -72,43 +72,43 @@ b. is aangewezen, eerder was aangewezen onderscheidenlijk voor de eerste maal wo
 
 ####Omzetting geschiktheidsverklaringen
 
-Op de dag voor inwerkingtreding van deze wet nog geldige geschiktheidsverklaringen, afgegeven op grond van de Interimwet zij-instroom leraren primair en voortgezet onderwijs, gelden vanaf die inwerkingtreding als te zijn afgegeven op grond van artikel 176b van de Wet op het primair onderwijs, artikel 162e van de Wet op de expertisecentra, dan wel [artikel 118k van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), indien deze verklaringen vanaf dat tijdstip geldig zouden zijn geweest.  
+Op de dag voor inwerkingtreding van deze wet nog geldige geschiktheidsverklaringen, afgegeven op grond van de Interimwet zij-instroom leraren primair en voortgezet onderwijs, gelden vanaf die inwerkingtreding als te zijn afgegeven op grond van artikel 176b van de Wet op het primair onderwijs, artikel 162e van de Wet op de expertisecentra, dan wel artikel 118k van de Wet op het voortgezet onderwijs, indien deze verklaringen vanaf dat tijdstip geldig zouden zijn geweest.  
 
 ### Artikel  XIV  
 
 ####Omzetting melding zij-instroom
 
-Een gedane melding onder overlegging van een plan van aanpak als bedoeld in [artikel 7, eerste lid, van de Interimwet zij-instroom leraren primair en voortgezet onderwijs](../../../../../../../../../wet/interimwet/zij-instroom/leraren/primair/en/voortgezet/onderwijs/BWBR0011469/README.md) geldt als te zijn gedaan op grond van artikel 176g, eerste lid, van de Wet op het primair onderwijs, artikel 162j, eerste lid, van de Wet op de expertisecentra, dan wel artikel 118p, eerste lid, van de Wet op het voortgezet onderwijs met ingang van het tijdstip van inwerkingtreding van deze artikelen.  
+Een gedane melding onder overlegging van een plan van aanpak als bedoeld in artikel 7, eerste lid, van de Interimwet zij-instroom leraren primair en voortgezet onderwijs geldt als te zijn gedaan op grond van artikel 176g, eerste lid, van de Wet op het primair onderwijs, artikel 162j, eerste lid, van de Wet op de expertisecentra, dan wel artikel 118p, eerste lid, van de Wet op het voortgezet onderwijs met ingang van het tijdstip van inwerkingtreding van deze artikelen.  
 
 ### Artikel  XV  
 
 ####Toezending overzicht geschiktheidsverklaringen en bekwaamheidsonderzoeken
 
-Ten aanzien van onder de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](../../../../../../../../../wet/interimwet/zij-instroom/leraren/primair/en/voortgezet/onderwijs/BWBR0011469/README.md) afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken blijft [artikel 11, tweede lid, van die wet](../../../../../../../../../wet/interimwet/zij-instroom/leraren/primair/en/voortgezet/onderwijs/BWBR0011469/README.md) van toepassing.  
+Ten aanzien van onder de Interimwet zij-instroom leraren primair en voortgezet onderwijs afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken blijft artikel 11, tweede lid, van die wet van toepassing.  
 
 ### Artikel  XVI  
 
 ####Omzetting bevoegdheid geschiktheidsonderzoek zij-instroom
 
-Instellingen voor hoger onderwijs die bij inwerkingtreding van dit artikel bevoegd zijn tot het verrichten van het geschiktheidsonderzoek als bedoeld in de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](../../../../../../../../../wet/interimwet/zij-instroom/leraren/primair/en/voortgezet/onderwijs/BWBR0011469/README.md) worden aangemerkt als instellingen met een erkenning als bedoeld in [artikel 176e van de Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md), [162h van de Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md) of [118n van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+Instellingen voor hoger onderwijs die bij inwerkingtreding van dit artikel bevoegd zijn tot het verrichten van het geschiktheidsonderzoek als bedoeld in de Interimwet zij-instroom leraren primair en voortgezet onderwijs worden aangemerkt als instellingen met een erkenning als bedoeld in artikel 176e van de Wet op het primair onderwijs, 162h van de Wet op de expertisecentra of 118n van de Wet op het voortgezet onderwijs.  
 
 ### Artikel  XVII  
 
 ####Titulatuur zij-instromers Interimwet zij-instroom leraren primair en voortgezet onderwijs
 
-Tot het voeren van een in [artikel 7a.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde titel is eveneens gerechtigd degene aan wie op grond van de [Interimwet zij-instroom leraren primair en voortgezet onderwijs](../../../../../../../../../wet/interimwet/zij-instroom/leraren/primair/en/voortgezet/onderwijs/BWBR0011469/README.md) vanaf 1 september 2002 het getuigschrift van met goed gevolg afgesloten bekwaamheidsonderzoek is uitgereikt.  
+Tot het voeren van een in artikel 7a.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde titel is eveneens gerechtigd degene aan wie op grond van de Interimwet zij-instroom leraren primair en voortgezet onderwijs vanaf 1 september 2002 het getuigschrift van met goed gevolg afgesloten bekwaamheidsonderzoek is uitgereikt.  
 
 ### Artikel  XVIII  
 
 ####Intrekking Interimwet zij-instroom leraren primair en voortgezet onderwijs
 
-De [Interimwet zij-instroom leraren primair en voortgezet onderwijs](../../../../../../../../../wet/interimwet/zij-instroom/leraren/primair/en/voortgezet/onderwijs/BWBR0011469/README.md) wordt ingetrokken.  
+De Interimwet zij-instroom leraren primair en voortgezet onderwijs wordt ingetrokken.  
 
 ### Artikel  XIX  
 
 ####Evaluatie
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit, binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zoals gewijzigd door deze wet, in de praktijk.  
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, in overeenstemming met Onze Minister van Economische Zaken, binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs en de Wet educatie en beroepsonderwijs zoals gewijzigd door deze wet, in de praktijk.  
 
 ### Artikel  XX  
 

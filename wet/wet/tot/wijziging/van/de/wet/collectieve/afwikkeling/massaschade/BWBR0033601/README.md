@@ -11,43 +11,43 @@ Zo is het, dat Wij, de afdeling advisering Raad van State gehoord, en met gemeen
 
 ### Artikel  I  
 
-Wijzigt het Burgerlijk Wetboek Boek 3.   
+Wijzigt het Burgerlijk Wetboek Boek 3. 
 
 ### Artikel  II  
 
-Wijzigt het Burgerlijk Wetboek Boek 7.   
+Wijzigt het Burgerlijk Wetboek Boek 7. 
 
 ### Artikel  III  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  IV  
 
-Wijzigt de Faillissementswet.   
+Wijzigt de Faillissementswet. 
 
 ### Artikel  V  
 
 1.  De artikelen II en III zijn niet van toepassing op verzoeken, bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), die vóór de inwerkingtreding van de wet zijn ingeleid. Op verzoeken, bedoeld in de eerste zin, blijft het tevoren geldende recht van toepassing.   
-2.  Artikel IV is niet van toepassing op vorderingen die vóór de inwerkingtreding van de wet ter verificatie zijn ingediend.   
+2.  Artikel IV is niet van toepassing op vorderingen die vóór de inwerkingtreding van de wet ter verificatie zijn ingediend.  
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  VII  
 
-Deze wet wordt aangehaald als: Wet tot wijziging van de Wet collectieve afwikkeling massaschade.  
+Deze wet wordt aangehaald als: Wet tot wijziging van de Wet collectieve afwikkeling massaschade. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te 
 
 Wassenaar 
 26 juni 2013  
 Willem-Alexander  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten   
 
 de *achtentwintigste* juni 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

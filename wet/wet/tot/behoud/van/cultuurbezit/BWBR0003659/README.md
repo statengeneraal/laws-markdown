@@ -22,7 +22,7 @@ b. verzameling: roerende zaken, die uit cultuurhistorisch of wetenschappelijk oo
 
 c. beschermde verzameling: een verzameling die op grond van artikel 3 is aangewezen als beschermde verzameling;  
 
-d. de Raad: de Raad voor cultuur, bedoeld in [artikel 2a van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
+d. de Raad: de Raad voor cultuur, bedoeld in artikel 2a van de Wet op het specifiek cultuurbeleid;  
 
 e. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
@@ -135,7 +135,7 @@ c. bedenkingen zijn aangevoerd tegen verplaatsing naar de - buiten Nederland gel
 2.  Onze Minister en de eigenaar van het beschermd voorwerp kunnen de in het eerste lid bedoelde termijn in onderling overleg verlengen.   
 3.  De in het eerste lid bedoelde termijn wordt opgeschort, zolang over een aanbod van de Staat tot aankoop van een beschermd voorwerp: 
 
-a. bij de rechtbank te 's-Gravenhage een procedure als bedoeld in artikel 12, tweede lid, aanhangig is, of  
+a. bij de rechtbank Den Haag een procedure als bedoeld in artikel 12, tweede lid, aanhangig is, of  
 
 b. tussen de Staat en de eigenaar een overeenkomst tot arbitrage bestaat.     
 4.  Het aanvoeren van bedenkingen geldt niet als een aanbod tot aankoop, indien bij de kennisgeving daarvan een mededeling is gedaan als bedoeld in artikel 8.   
@@ -143,7 +143,7 @@ b. tussen de Staat en de eigenaar een overeenkomst tot arbitrage bestaat.
 ### Artikel  12  
 
 1.  Onze Minister treedt onverwijld na de kennisgeving van bedenkingen als bedoeld in artikel 7, vierde lid, met de eigenaar in onderhandeling over de koopprijs en de overige verkoopvoorwaarden.   
-2.  Indien de onderhandelingen niet tot overeenstemming leiden, wordt de prijs op verzoek van de meest gerede partij vastgesteld door de rechtbank te 's-Gravenhage, tenzij de eigenaar te kennen geeft af te zien van de in artikel 7, eerste lid, bedoelde handeling of Onze Minister de daartegen aangevoerde bedenkingen intrekt.   
+2.  Indien de onderhandelingen niet tot overeenstemming leiden, wordt de prijs op verzoek van de meest gerede partij vastgesteld door de rechtbank Den Haag, tenzij de eigenaar te kennen geeft af te zien van de in artikel 7, eerste lid, bedoelde handeling of Onze Minister de daartegen aangevoerde bedenkingen intrekt.   
 3.  Alvorens te beslissen wint de rechtbank advies van deskundigen in. De griffier zendt een afschrift van het deskundigenadvies aan de verzoeker en de wederpartij. Deze kunnen binnen een door de rechter te bepalen termijn hun beschouwingen over het advies ter griffie indienen.   
 4.  Tegen beschikkingen op grond van dit artikel staat uitsluitend beroep in cassatie open.   
 
@@ -173,11 +173,11 @@ b. een openbare collectie die vermeld staat in de inventarislijst van een museum
 c. de inventarislijst die door Onze Minister wordt bijgehouden van roerende zaken van cultuurhistorische of wetenschappelijke betekenis.     
 3.  Het verbod, bedoeld in het eerste lid, geldt bovendien voor: 
 
-a. beschermde monumenten en onderdelen daarvan in de zin van [artikel 1 onder d van de Monumentenwet](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
+a. beschermde monumenten en onderdelen daarvan in de zin van artikel 1, onder d, van de Monumentenwet 1988;  
 
 b. onrechtmatig opgegraven voorwerpen;  
 
-c. archiefbescheiden en onderdelen daarvan in de zin van [artikel 1 onder c, nummers 1°, 2° en 3° van de Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), mits zij ouder zijn dan vijftig jaren.     
+c. archiefbescheiden en onderdelen daarvan in de zin van artikel 1, onder c, nummers 1°, 2° en 3°, van de Archiefwet 1995, mits zij ouder zijn dan vijftig jaren.     
 4.  Artikel 9, tweede lid, is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  IIIB  
@@ -186,7 +186,7 @@ c. archiefbescheiden en onderdelen daarvan in de zin van [artikel 1 onder c, num
 
 ### Artikel  14b  
 
-1.  Het is verboden zonder vergunning van Onze Minister of van een andere bevoegde autoriteit als bedoeld in artikel 2, tweede lid, van verordening (EEG) nr. 3911/92 van de Raad van de Europese Gemeenschappen van 9 december 1992 betreffende de uitvoer van cultuurgoederen (*PbEG* L 395), cultuurgoederen die behoren tot een categorie, vermeld in de bijlage bij genoemde verordening, uit te voeren buiten het grondgebied van de lidstaten van de Europese Unie.   
+1.  Het is verboden zonder vergunning van Onze Minister of van een andere bevoegde autoriteit als bedoeld in artikel 2, tweede lid, van verordening (EG) nr. 116/2009 van de Raad van de Europese Unie van 18 december 2008 betreffende de uitvoer van cultuurgoederen (PbEU L. 39), cultuurgoederen die behoren tot een categorie, vermeld in de bijlage bij genoemde verordening, uit te voeren buiten het grondgebied van de lidstaten van de Europese Unie.   
 2.  Onze Minister kan bepalen dat het verbod, bedoeld in het eerste lid, niet geldt ten aanzien van oudheidkundige voorwerpen ouder dan honderd jaren, die afkomstig zijn van opgravingen en vondsten op het land en in de zee dan wel van oudheidkundige locaties, wanneer deze goederen van beperkt archeologisch of wetenschappelijk belang zijn en mits zij niet rechtstreeks afkomstig zijn van opgravingen, vondsten en archeologische locaties in een lidstaat van de Europese Unie, en zij zich legaal op de markt bevinden.   
 
 ### Hoofdstuk  IV  
@@ -200,13 +200,13 @@ c. archiefbescheiden en onderdelen daarvan in de zin van [artikel 1 onder c, num
 
 ### Artikel  16  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast: 
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast: 
 
-a. de inspecteur en de in artikel 15, eerste lid, bedoelde ambtenaren, voorzover zij daartoe bij besluit van Onze Minister van Justitie zijn aangewezen;  
+a. de inspecteur en de in artikel 15, eerste lid, bedoelde ambtenaren, voorzover zij daartoe bij besluit van Onze Minister van Veiligheid en Justitie zijn aangewezen;  
 
 b. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.  
 
-Deze ambtenaren zijn tevens belast met de opsporing van de feiten strafbaar gesteld in de [artikelen 179](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voorzover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.     
+Deze ambtenaren zijn tevens belast met de opsporing van de feiten strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voorzover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.     
 2.  De in het eerste lid bedoelde ambtenaren zijn belast met het op verzoek van een lidstaat van de Europese Unie of van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte opsporen van een door die staat in het verzoek omschreven roerende zaak die krachtens de nationale wetgeving van die staat een cultuurgoed is in de zin van artikel 1, onder 1, van richtlijn nr. 93/7/EEG van de Raad van de Europese Gemeenschappen van 15 maart 1993 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lidstaat zijn gebracht (*PbEG* L 74), mits die zaak in de zin van die richtlijn op onrechtmatige wijze buiten het grondgebied van die staat is gebracht.   
 3.  Een wijziging van de richtlijn nr. 93/7/EEG gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekend gemaakt, een ander tijdstip wordt vastgesteld.   
 4.  Van een besluit als bedoeld in het eerste lid, onderdeel *a*, wordt mededeling gedaan door plaatsing in de *Staatscourant*.   

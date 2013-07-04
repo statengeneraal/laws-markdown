@@ -11,39 +11,39 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
+Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen. 
 
 ### Artikel  II  
 
-Wijzigt de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba.   
+Wijzigt de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  III  
 
-Wijzigt de Handelsregisterwet 2007.   
+Wijzigt de Handelsregisterwet 2007. 
 
 ### Artikel  IV  
 
-Wijzigt deze Wet.   
+Wijzigt deze Wet. 
 
 ### Artikel  V  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen of subonderdelen daarvan verschillend kan worden vastgesteld.   
-2.  In afwijking van het eerste lid, treedt artikel I, onderdelen Aa en AL voor wat betreft artikel 3.8h, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2013.   
+2.  In afwijking van het eerste lid, treedt artikel I, onderdelen Aa en AL voor wat betreft artikel 3.8h, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2013.  
 
 ### Artikel  VI  
 
-Deze wet wordt aangehaald als: Wijzigingswet kinderopvang 2013.  
+Deze wet wordt aangehaald als: Wijzigingswet kinderopvang 2013. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle Ministers, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle Ministers, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 26 juni 2013  
 Willem-Alexander  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 L.F. Asscher   
 
 de *achtentwintigste* juni 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

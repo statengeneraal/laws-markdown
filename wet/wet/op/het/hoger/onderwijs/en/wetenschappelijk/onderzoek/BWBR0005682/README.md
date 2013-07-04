@@ -26,7 +26,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voorzover het betreft het onderwijs en het onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voorzover het betreft het onderwijs en het onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken;  
 
 b. hoger onderwijs: wetenschappelijk onderwijs en hoger beroepsonderwijs;  
 
@@ -364,6 +364,16 @@ d. het bestuur en de inrichting.
 2.  Indien uit het overleg, bedoeld in het eerste lid, moet worden geconcludeerd dat er sprake is van een redelijk vermoeden dat de desbetreffende persoon zich schuldig heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een minderjarige student van de instelling, doet het instellingsbestuur onverwijld aangifte bij een opsporingsambtenaar als bedoeld in [artikel 127](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) juncto [artikel 141 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en stelt het instellingsbestuur de vertrouwensinspecteur daarvan onverwijld in kennis. Voordat het instellingsbestuur overgaat tot het doen van aangifte, stelt het de ouders van de betrokken student, onderscheidenlijk de betreffende ten behoeve van de instelling met taken belaste persoon, hiervan op de hoogte.   
 3.  Indien een personeelslid bekend is geworden dat een ten behoeve van de instelling met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een minderjarige student van de instelling, stelt het personeelslid het instellingsbestuur daarvan onverwijld in kennis.   
 
+### Artikel  1.21  
+
+####Meldcode huiselijk geweld en kindermishandeling
+
+1.  Het instellingsbestuur stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+4.  Het instellingsbestuur bevordert de kennis en het gebruik van de meldcode.   
+5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.   
+
 ### Hoofdstuk  2  
 
 ####Planning en bekostiging
@@ -405,7 +415,7 @@ c. de financiële, personele, materiële en organisatorische voorwaarden die moe
 
 ####Hoger onderwijs- en onderzoekplan
 
-1.  Onze Minister van Onderwijs, Cultuur en Wetenschap, voor onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit, stelt mede op grondslag van de gegevens vermeld in de jaarverslagen omtrent het voorgenomen beleid ten aanzien van de werkzaamheden van de instellingen een hoger onderwijs- en onderzoekplan vast. Het plan heeft betrekking op een tijdvak van ten minste vier jaren.   
+1.  Onze Minister van Onderwijs, Cultuur en Wetenschap, voor onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving in overeenstemming met Onze Minister van Economische Zaken, stelt mede op grondslag van de gegevens vermeld in de jaarverslagen omtrent het voorgenomen beleid ten aanzien van de werkzaamheden van de instellingen een hoger onderwijs- en onderzoekplan vast. Het plan heeft betrekking op een tijdvak van ten minste vier jaren.   
 2.  Het hoger onderwijs- en onderzoekplan bevat de voornemens ten aanzien van het door Onze minister te voeren beleid met betrekking tot het hoger onderwijs en wetenschappelijk onderzoek.   
 3.  Het hoger onderwijs- en onderzoekplan bevat voorts in ieder geval: 
 
@@ -432,11 +442,6 @@ c. een financiële raming in verband met de bekostiging van de daarvoor in aanme
 ####Rijksbijdrage aan instellingen voor hoger onderwijs
 
 1.  De rijksbijdrage waarop de in artikel 1.9, eerste lid, bedoelde aanspraak betrekking heeft, wordt berekend op de grondslag van een algemene berekeningswijze. In afwijking van de eerste volzin kan de rijksbijdrage worden berekend op de grondslag van een bijzondere berekeningswijze, voorzover dit voortvloeit uit de artikelen 5 en 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg (Trb. 2001, 38).   
-1a.  In afwijking van het eerste lid kan de rijksbijdrage worden berekend op de grondslag van een bijzondere berekeningswijze: 
-
-a. voor de universiteiten voorzover het betreft onderwijs gericht op het beroep van leraar voortgezet onderwijs van de eerste graad, of  
-
-b. voorzover dit voortvloeit uit de artikelen 5 en 7 van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg (Trb. 2001, 38).     
 2.  Onze minister kan aan de bekostiging van onderzoek aan universiteiten voorwaarden verbinden, verband houdend met de kwaliteitszorg.   
 3.  De rijksbijdrage wordt jaarlijks door Onze minister vastgesteld in overeenstemming met het desbetreffende onderdeel van de voor dat begrotingsjaar vastgestelde rijksbegroting.   
 4.  Indien het in het derde lid bedoelde onderdeel van de voor het desbetreffende begrotingsjaar vastgestelde rijksbegroting wordt gewijzigd, wordt de rijksbijdrage door Onze minister nader vastgesteld.   
@@ -482,7 +487,7 @@ c. andere inkomsten.
 
 ####Begroting
 
-1.  Het instellingsbestuur stelt jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, voor de instelling een begroting vast. Het begrotingsjaar valt samen met het kalenderjaar. Het bestuur van een in artikel 1.13, eerste lid, bedoelde universiteit, neemt bij de vaststelling van de begroting, onderscheidenlijk wijziging van de begroting de vastgestelde rijksbijdrage ten behoeve van het academisch ziekenhuis in acht.   
+1.  Het instellingsbestuur stelt jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, voor de instelling een begroting vast. Het begrotingsjaar valt samen met het kalenderjaar. Het bestuur van een in artikel 1.13, eerste lid, bedoelde universiteit, neemt bij de vaststelling van de begroting, onderscheidenlijk wijziging van de begroting de vastgestelde rijksbijdrage ten behoeve van het academisch ziekenhuis in acht. De besturen van de instellingen, genoemd in artikel 1.5, zenden de begroting, alsmede wijzigingen van de begroting, binnen veertien dagen na de vaststelling ter kennis aan Onze minister.   
 2.  De begroting behelst een raming van de inkomsten en uitgaven alsmede van de baten en lasten van de instelling en dient in evenwicht te zijn. In de begroting van de Koninklijke Nederlandse Akademie van Wetenschappen en die van de Koninklijke Bibliotheek is een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in artikel 2.2a. De in de begroting voorziene inkomsten uit de rijksbijdrage sluiten aan op de voor het desbetreffende begrotingsjaar door Onze minister geraamde, onderscheidenlijk vastgestelde en in voorkomende gevallen nader vastgestelde rijksbijdrage.   
 3.  Het instellingsbestuur draagt zorg voor wijziging van de begroting indien de vastgestelde rijksbijdrage afwijkt van de in de begroting opgenomen geraamde rijksbijdrage, alsmede in geval van een nader vastgestelde rijksbijdrage.   
 4.  Het instellingsbestuur doet de noodzakelijke uitgaven binnen de grenzen van de vastgestelde of gewijzigde begroting.   
@@ -783,13 +788,13 @@ f. de opzet en organisatie van de interne kwaliteitszorg gericht op de systemati
 
 ####Accreditatierapport
 
-1.  Het accreditatieorgaan legt haar oordeel vast in een accreditatierapport dat bestaat uit de volgende onderdelen: 
+1.  Het accreditatieorgaan legt zijn oordeel vast in een accreditatierapport dat bestaat uit de volgende onderdelen: 
 
 a. het besluit op de aanvraag om accreditatie,  
 
 b. de bevindingen naar aanleiding van de beoordeling van de opleiding, bedoeld in artikel 5a.9, derde lid,  
 
-c. een eindoordeel onvoldoende, voldoende, goed of excellent voor de opleiding, of  
+c. een eindoordeel onvoldoende, voldoende, goed of excellent voor de opleiding, en in voorkomende gevallen  
 
 d. de bijzondere kenmerken van de opleiding.     
 2.  Het accreditatierapport is een besluit in de zin van de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
@@ -829,7 +834,7 @@ f. de opzet en organisatie van de interne kwaliteitszorg gericht op de systemati
 2.  Het accreditatieorgaan neemt binnen zes maanden na ontvangst van de aanvraag om de toets nieuwe opleiding een besluit. In dit besluit geeft het accreditatieorgaan aan welk onderdeel van het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, naar zijn oordeel voor de opleiding passend is.   
 3.  Het accreditatieorgaan besluit gedurende drie jaar geen toets nieuwe opleiding te verlenen, indien uit de gegevens van de desbetreffende aanvraag blijkt dat de instelling voornemens is een opleiding te verzorgen die geheel of in hoofdzaak overeenstemt met een opleiding, verzorgd door diezelfde instelling, waarvoor geen accreditatie is verleend of het besluit tot het verlenen van accreditatie is ingetrokken.   
 4.  Het accreditatieorgaan kan een toets nieuwe opleiding onder voorwaarden verlenen. Bij algemene maatregel van bestuur wordt bepaald in welke gevallen het accreditatieorgaan een toets nieuwe opleiding onder voorwaarden kan verlenen en welke voorwaarden hieraan gesteld kunnen worden. Indien naar het oordeel van het accreditatieorgaan binnen een jaar niet aan de gestelde voorwaarden is voldaan, verliest de opleiding een jaar na de dag waarop het besluit tot verlenen van de toets nieuwe opleiding onder voorwaarden is genomen deze toets nieuwe opleiding. Artikel 5a.12, vijfde lid, is van overeenkomstige toepassing. Onze minister legt het ontwerp van een algemene maatregel van bestuur als bedoeld in de tweede volzin voor aan de Tweede Kamer der Staten-Generaal. De voordracht voor die algemene maatregel van bestuur wordt niet gedaan dan nadat dertig dagen na die voorlegging zijn verstreken.   
-5.  Met een besluit tot het verlenen van een toets nieuwe opleiding laat het instellingsbestuur die opleiding als nieuwe opleiding registeren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13.   
+5.  Met een besluit tot het verlenen van een toets nieuwe opleiding laat het instellingsbestuur die opleiding als nieuwe opleiding registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13.   
 6.  Het besluit tot het verlenen van een toets nieuwe opleiding vervalt: 
 
 a. na zes jaar,  
@@ -838,7 +843,7 @@ b. in afwijking van onderdeel a, een jaar na de dag waarop het besluit tot het v
 
 c. na tien maanden, indien het instellingsbestuur de bekostigde opleiding niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, of  
 
-d. na zes maanden, indien het instellingsbestuur een opleiding, niet zijnde een opleiding onder c, niet binnen deze termijn heeft laten registeren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13.     
+d. na zes maanden, indien het instellingsbestuur een opleiding, niet zijnde een opleiding onder c, niet binnen deze termijn heeft laten registreren in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13.     
 7.  De artikelen 5a.9, negende lid en 5a.10, met uitzondering van het eerste lid, tweede volzin, zijn van overeenkomstige toepassing.   
 8.  Indien een toets nieuwe opleiding wordt aangevraagd voor een masteropleiding in het hoger beroepsonderwijs die de voortzetting vormt van een postinitiële masteropleiding in het hoger beroepsonderwijs, waarvoor accreditatie is verleend, verleent het accreditatieorgaan de toets nieuwe opleiding zonder nader onderzoek voor dezelfde termijn als gold voor de accreditatie.   
 
@@ -883,7 +888,7 @@ b. de termijn gedurende welke de opleiding wordt voortgezet ten behoeve van de s
 
 ####Instellingstoets kwaliteitszorg
 
-Een instelling voor hoger onderwijs kan een instellingstoets kwaliteitszorg aanvragen.  
+Het bestuur van een instelling voor hoger onderwijs kan een instellingstoets kwaliteitszorg aanvragen.  
 
 ### Artikel  5a.13b  
 
@@ -906,7 +911,7 @@ d. de voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten me
 
 ### Artikel  5a.13c  
 
-####Aanvraag instellingstoets kwaliteitszorg
+####Besluit instellingstoets kwaliteitszorg
 
 1.  Het besluit tot het verlenen van een instellingstoets kwaliteitszorg vervalt zes jaar na de dag van inwerkingtreding van het besluit.   
 2.  Een aanvraag om verlenging van het besluit tot het verlenen van een instellingstoets kwaliteitszorg wordt ten minste een jaar voor de vervaldatum van het besluit tot het verlenen van de vorige instellingstoets kwaliteitszorg bij het accreditatieorgaan ingediend.   
@@ -940,27 +945,27 @@ d. de voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten me
 
 ####Beperkte beoordelingscriteria accreditatie bij instellingen met een instellingstoets kwaliteitszorg
 
-1.  Bij de beoordeling van de aanvraag om accreditatie voor een opleiding van een instellingsbestuur dat beschikt over een instellingstoets kwaliteitszorg wordt aandacht geschonken aan de aspecten van kwaliteit die betrekking hebben op het niveau van de opleiding waarbij ten minste wordt beoordeeld: 
+1.  Bij de beoordeling van de aanvraag om accreditatie voor een opleiding van een instellingsbestuur dat beschikt over een instellingstoets kwaliteitszorg wordt aandacht geschonken aan de aspecten van kwaliteit die betrekking hebben op het niveau van de opleiding waarbij ten minste worden beoordeeld: 
 
 a. het beoogde eindniveau, gelet op hetgeen internationaal gewenst of gangbaar is,  
 
 b. de inhoud en opzet van het onderwijsprogramma, de kwaliteit en kwantiteit van het ingezette personeel en de opleidingsspecifieke voorzieningen, en  
 
 c. het gerealiseerde eindniveau, gelet op hetgeen internationaal gewenst en gangbaar is, alsmede de deugdelijkheid van beoordeling, toetsing en examinering van de studenten.     
-2.  De artikelen 5a.8, eerste lid, 5a.9, 5a.10, 5a.12 en 5a.12a zijn van overeenkomstige toepassing met dien verstande dat met de criteria wordt bedoeld de criteria op grond van dit artikel.   
+2.  De artikelen 5a.8, eerste lid, 5a.9, 5a.10, 5a.12 en 5a.12a zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.   
 
 ### Artikel  5a.13g  
 
 ####Beperkte beoordelingscriteria toets nieuwe opleiding bij instellingen met een instellingstoets kwaliteitszorg
 
-1.  Bij de beoordeling van de aanvraag om een toets nieuwe opleiding voor een voorgenomen opleiding van een instellingsbestuur dat beschikt over een instellingstoets kwaliteitszorg wordt aandacht geschonken aan de volgende aspecten van kwaliteit die betrekking hebben op het niveau van de voorgenomen opleiding waarbij ten minste wordt beoordeeld: 
+1.  Bij de beoordeling van de aanvraag om een toets nieuwe opleiding voor een voorgenomen opleiding van een instellingsbestuur dat beschikt over een instellingstoets kwaliteitszorg wordt aandacht geschonken aan de volgende aspecten van kwaliteit die betrekking hebben op het niveau van de voorgenomen opleiding waarbij ten minste worden beoordeeld: 
 
 a. het beoogde eindniveau, gelet op hetgeen internationaal gewenst of gangbaar is,  
 
 b. de inhoud en opzet van het onderwijsprogramma, de kwaliteit en kwantiteit van het in te zetten personeel en de opleidingsspecifieke voorzieningen, en  
 
 c. de wijze van beoordeling, toetsing en examinering van de studenten.     
-2.  De artikelen 5a.10a, eerste lid, 5a.11 en 5a.12, vijfde lid, zijn van overeenkomstige toepassing met dien verstande dat met de criteria wordt bedoeld de criteria op grond van dit artikel.   
+2.  De artikelen 5a.10a, eerste lid, 5a.11 en 5a.12, vijfde lid, zijn van overeenkomstige toepassing met dien verstande dat met de criteria worden bedoeld de criteria op grond van dit artikel.   
 
 ### Titel  3  
 
@@ -1018,14 +1023,14 @@ b. niet of niet meer wordt voldaan aan hetgeen bij of krachtens deze wet is bepa
 
 ####Toestemming voor specifieke selectiecriteria en hoger collegegeld
 
-1.  Onze minister kan op aanvraag van het instellingsbestuur toestemming verlenen gegadigden bij de inschrijving voor een opleiding te selecteren volgens door het instellingsbestuur vast te stellen criteria en in samenhang daarmee voor de geselecteerde studenten een collegegeld vast te stellen dat hoger is dan het volledige wettelijke collegegeld volgens het basistarief dat op grond van artikel 7.45, zevende lid, bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.   
+1.  Onze minister kan op aanvraag van het instellingsbestuur toestemming verlenen gegadigden bij de inschrijving voor een opleiding te selecteren volgens door het instellingsbestuur vast te stellen criteria en in samenhang daarmee voor de geselecteerde studenten een collegegeld vast te stellen dat hoger is dan het volledige wettelijke collegegeld dat op grond van artikel 7.45, vijfde lid, bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.   
 2.  De toestemming van Onze minister heeft betrekking op een bepaalde opleiding of op een bepaald programma binnen een opleiding waarvan de studielast en eindtermen gelijk zijn aan die van de opleiding.   
 3.  Onze minister verleent uitsluitend zijn toestemming, indien: 
 
 a. de aanvraag kleinschalig en intensief onderwijs betreft, dat is gericht op een bovengemiddeld onderwijsrendement en waarbij de activiteiten binnen en buiten het curriculum met elkaar zijn verbonden; en  
 
 b. de toestemming geen afbreuk doet aan de kwaliteit of de toegankelijkheid van het hoger onderwijs.     
-4.  Het hogere collegegeld bedoeld in het eerste lid, bedraagt ten hoogste vijf maal het volledige wettelijk collegegeld volgens het basistarief dat op grond van artikel 7.45, zevende lid, bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.   
+4.  Het hogere collegegeld bedoeld in het eerste lid, bedraagt ten hoogste vijf maal het volledige wettelijk collegegeld dat op grond van artikel 7.45, vijfde lid, bij algemene maatregel van bestuur is vastgesteld en op de wijze daarin bepaald is geïndexeerd.   
 
 ### Artikel  6.7a  
 
@@ -1103,13 +1108,6 @@ d. het instellingsbestuur de verplichtingen, bedoeld in artikel 6.7a, niet nalee
 4.  Voordat Onze minister een besluit op grond van het eerste lid neemt, geeft hij het instellingsbestuur een waarschuwing onder bepaling van een termijn waarbinnen aan die waarschuwing gevolg moet zijn gegeven en desgewenst overleg met hem dienaangaande plaats kan vinden. De termijn waarbinnen aan de waarschuwing gevolg moet zijn gegeven, bedraagt ten minste drie maanden.   
 5.  Indien Onze minister een besluit als bedoeld in het eerste lid heeft genomen ten aanzien van alle opleidingen verzorgd door de desbetreffende rechtspersoon, kan deze rechtspersoon slechts opnieuw graden verlenen na toepassing van artikel 6.9.   
 
-### Artikel  6.12  
-
-####Intrekking aanwijzing instelling
-
-1.  Het besluit tot intrekking van de aanwijzing wordt door Onze minister genomen, indien de instelling geen opleiding die is geregistreerd in het Centraal register opleidingen hoger onderwijs, meer verzorgt.   
-2.  De aanwijzing kan door Onze minister worden ingetrokken, indien niet meer wordt voldaan aan de in artikel 1.12, tweede of derde lid, bedoelde voorwaarden. Artikel 6.10, vierde lid, is van toepassing.   
-
 ### Titel  3  
 
 ####Het Centraal register opleidingen hoger onderwijs
@@ -1157,7 +1155,7 @@ p. het tijdstip waarop voor het eerst inschrijving voor de opleiding mogelijk is
 
 q. indien de opleiding niet langer zal worden verzorgd, het tijdstip waarop de registratie zal worden beëindigd, alsmede het tijdstip waarop voor het eerst inschrijving in de propedeutische fase van de opleiding of, indien die fase niet is ingesteld, de eerste periode in een bacheloropleiding in het wetenschappelijk onderwijs met een studielast van 60 studiepunten, niet meer mogelijk is,  
 
-r. indien artikel 5a.9, zevende lid, van toepassing is: de door het accreditatieorgaan vastgestelde termijn, bedoeld in de tweede volzin van dat artikellid.  
+r. indien artikel 5a.9, zevende lid, van toepassing is: de door het accreditatieorgaan vastgestelde termijn, bedoeld in de tweede volzin van dat artikellid,  
 
 s. of Onze minister met betrekking tot een opleiding toestemming heeft verleend voor het hanteren van specifieke selectiecriteria, bedoeld in artikel 6.7, en in samenhang daarmee voor het vaststellen van een hoger collegegeld als bedoeld in dat artikel,  
 
@@ -1208,7 +1206,7 @@ d. Onze minister met toepassing van de artikelen 6.9, vierde lid, of 6.10 heeft 
 ####Reikwijdte
 
 1.  Dit hoofdstuk heeft betrekking op bekostigde universiteiten en hogescholen, op de Open Universiteit en op de levensbeschouwelijke universiteiten.   
-2.  De titels 1 en 2 van dit hoofdstuk, met uitzondering van de artikelen 7.8b, 7.17, 7.17a, 7.18, 7.22, 7.25, 7.30a, en 7.30b, met uitzondering van het eerste lid, vierde volzin, zijn van overeenkomstige toepassing op de rechtspersonen voor hoger onderwijs.   
+2.  De titels 1 en 2 van dit hoofdstuk, met uitzondering van de artikelen 7.8b, 7.17, 7.17a, 7.18, 7.22, 7.25 en 7.30a, zijn van toepassing op de rechtspersonen voor hoger onderwijs. Van artikel 7.30b is het eerste lid, vierde volzin, van toepassing met dien verstande dat de toelatingseisen naast kennis, inzicht en vaardigheden die kunnen zijn verworven bij beëindiging van een bacheloropleiding ook op andere zaken betrekking kunnen hebben.   
 
 ### Titel  1  
 
@@ -1273,7 +1271,7 @@ b. postinitiële masteropleidingen in het hoger beroepsonderwijs.
 
 ####Gezamenlijke opleiding of gezamenlijke afstudeerrichting
 
-1.  Een instelling kan gezamenlijk met een of meer Nederlandse instellingen of buitenlandse instellingen voor hoger onderwijs een opleiding of afstudeerrichting verzorgen. In dat geval is het instellingsbestuur van de betrokken Nederlandse instelling onderscheidenlijk zijn de instellingsbesturen van de betrokken Nederlandse instellingen gezamenlijk verantwoordelijk voor de taken en bevoegdheden, bedoeld in de artikelen 5a.9, 5a.11, 6.2, 6.14, 7.4a, derde en achtste lid, 7.4b, derde lid, 7.8, 7.8b, 7.9, 7.10a, 7.11, 7.12, 7.13, 7.17, 7.24 tot en met 7.30d, 7.32, 7.37, 7.42, 7.42a, 9.18, 10.3c en 11.11.   
+1.  Een instelling kan gezamenlijk met een of meer Nederlandse instellingen of buitenlandse instellingen voor hoger onderwijs een opleiding of afstudeerrichting verzorgen. In dat geval is het instellingsbestuur van de betrokken Nederlandse instelling onderscheidenlijk zijn de instellingsbesturen van de betrokken Nederlandse instellingen gezamenlijk verantwoordelijk voor de taken en bevoegdheden, bedoeld in de artikelen 5a.9, 5a.11, 6.2, 6.14, 7.4a, derde en achtste lid, 7.4b, derde lid, 7.8, 7.8b, 7.9, 7.10a, 7.11, 7.12a, 7.13, 7.17, 7.24 tot en met 7.30d, 7.32, 7.37, 7.42, 7.42a, 9.18, 10.3c en 11.11.   
 2.  Voor andere dan de in het eerste lid bedoelde taken en bevoegdheden die betrekking hebben op een opleiding of afstudeerrichting, leggen de instellingsbesturen in een overeenkomst vast welk instellingsbestuur verantwoordelijk is voor de uitoefening daarvan. De Nederlandse instellingsbesturen blijven voor de uitoefening van deze taken en bevoegdheden gezamenlijk verantwoordelijk ten opzichte van belanghebbenden buiten de instelling.   
 3.  Als een student zich bij een instelling laat inschrijven voor een gezamenlijke opleiding of afstudeerrichting, wordt die student ook ingeschreven bij de opleiding van de andere instelling voorzover het een Nederlandse instelling betreft.   
 4.  Indien een instellingsbestuur als bedoeld in het eerste lid, tweede volzin, ten aanzien van een ingeschreven student bevoegd is de hoogte van het collegegeld te bepalen, geldt in het geval die student ook is ingeschreven bij een buitenlandse instelling voor hoger onderwijs voor een gezamenlijke opleiding of afstudeerrichting in de zin van dit artikel, voor de vaststelling van de hoogte van het collegegeld niet het bij of krachtens de wet vastgestelde minimumbedrag.   
@@ -1632,7 +1630,7 @@ b. als proeve van bekwaamheid tot het zelfstandig beoefenen van de wetenschap ee
 c. heeft voldaan aan de eisen, gesteld in het in artikel 7.19 bedoelde promotiereglement.     
 3.  In bijzondere gevallen kan het college voor promoties personen die voldoen aan het tweede lid onder b en c maar niet voldoen aan dat lid onder a, tot de promotie toegang verlenen.   
 4.  Voor elke promotie wijst het college voor promoties een hoogleraar van een universiteit, een levensbeschouwelijke universiteit of de Open Universiteit aan als promotor. De promotie vindt plaats ten overstaan van dit college of van een commissie, door het college samen te stellen uit hoogleraren en andere personen ten aanzien van wie het heeft geoordeeld dat zij over voldoende bekwaamheid beschikken om in de commissie zitting te hebben, met inachtneming van het in artikel 7.19 bedoelde promotiereglement.   
-5.  Voor de toepassing van het vierde lid worden en de bijzondere hoogleraren bij een openbare universiteit gerekend tot de hoogleraren van die universiteit.   
+5.  Voor de toepassing van het vierde lid worden de bijzondere hoogleraren bij een openbare universiteit gerekend tot de hoogleraren van die universiteit.   
 6.  Een instelling kan gezamenlijk met een of meer Nederlandse of buitenlandse instellingen de graad Doctor verlenen op grond van een promotie. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing. De instellingen kunnen nadere afspraken maken omtrent de uitvoering binnen het bepaalde in het promotiereglement.   
 
 ### Artikel  7.19  
@@ -1746,20 +1744,24 @@ In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
 
 a. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of  
 
-b. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).     
+b. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 13, eerste lid, van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).     
 2.  Onverminderd het derde lid geldt voor de inschrijving voor een opleiding in het hoger beroepsonderwijs als vooropleidingseis het bezit van: 
 
 a. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-b. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
+b. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 13, eerste lid, van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
 
 c. het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-d. het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
+d. het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 14 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
 
-e. het diploma van een middenkaderopleiding of van een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  
+e. het diploma van een middenkaderopleiding of van een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
 
-f. het diploma van de bij ministeriële regeling aangewezen vakopleidingen, bedoeld in [artikel 7.2.2, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
+f. het diploma van een middenkaderopleiding of van een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de Wet educatie en beroepsonderwijs BES](../../../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md),  
+
+g. het diploma van de bij ministeriële regeling aangewezen vakopleidingen, bedoeld in [artikel 7.2.2, eerste lid, onder c, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of  
+
+h. het diploma van de bij ministeriële regeling aangewezen vakopleidingen, bedoeld in [artikel 7.2.2, eerste lid, onder c, van de Wet educatie en beroepsonderwijs BES](../../../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).     
 3.  Voor de inschrijving voor een opleiding of voor een onderwijseenheid behorend tot een opleiding, aan de Open Universiteit gelden geen vooropleidingseisen. Deze inschrijving voor een opleiding of voor een onderwijseenheid behorend tot een opleiding, staat open voor ieder die de leeftijd van achttien jaren heeft bereikt.   
 
 ### Artikel  7.25  
@@ -1770,11 +1772,11 @@ f. het diploma van de bij ministeriële regeling aangewezen vakopleidingen, bedo
 
 a. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-b. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 7 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
+b. het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in [artikel 13 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md),  
 
 c. het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), of  
 
-d. het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).     
+d. het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 14 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).     
 2.  Bij ministeriële regeling kunnen tevens worden aangewezen, vakken en andere programmaonderdelen die deel moeten hebben uitgemaakt van het examen ter verkrijging van een in het eerste lid bedoeld diploma om te kunnen worden ingeschreven voor een bepaalde opleiding of groep van opleidingen, indien het betreft: 
 
 a. een diploma dat betrekking heeft op een profiel waarvan het profieldeel niet voor alle kandidaten dezelfde vakken en andere programmaonderdelen omvat;  
@@ -1882,12 +1884,6 @@ a. artikel 7.30a, met uitzondering van het derde lid, tweede volzin, onderdeel b
 b. artikel 7.30b, met uitzondering van de in het eerste lid, vierde volzin, bedoelde eisen op het gebied van kennis, inzicht en vaardigheden, en  
 
 c. artikel 7.30c, met uitzondering van de in het tweede lid bedoelde kennis, inzicht en vaardigheden.    
-
-### Artikel  7.30e  
-
-####Wegnemen tekortkoming bij niet voldoen aan toelatingseisen
-
-Indien de betrokkene niet voldoet aan de toelatingseisen, bedoeld in de artikelen 7.30a tot en met 7.30c, en van hem redelijkerwijs kan worden verwacht dat hij daaraan binnen een redelijke termijn alsnog kan voldoen, wordt hem de mogelijkheid geboden, de tekortkoming weg te nemen en alsnog aan de toelatingseisen te voldoen.  
 
 ### Artikel  7.31  
 
@@ -2032,7 +2028,7 @@ In afwijking van artikel 7.37, eerste lid, staat de inschrijving voor een opleid
 
 ####Collegegeldverplichting
 
-1.  Een student is voor elk studiejaar dat hij door het instellingsbestuur voor een opleiding is ingeschreven, aan de desbetreffende instelling wettelijk collegegeld als bedoeld in de artikelen 7.45 tot en met 7.45b of instellingscollegegeld als bedoeld in artikel 7.46 verschuldigd. Een student die door het instellingsbestuur van de Open Universiteit voor een onderwijseenheid is ingeschreven, is het collegegeld OU, bedoeld in artikel 7.45c, verschuldigd.   
+1.  Een student is voor elk studiejaar dat hij door het instellingsbestuur voor een opleiding is ingeschreven, aan de desbetreffende instelling wettelijk collegegeld als bedoeld in de artikelen 7.45 en 7.45a of instellingscollegegeld als bedoeld in artikel 7.46 verschuldigd. Een student die door het instellingsbestuur van de Open Universiteit voor een onderwijseenheid is ingeschreven, is het collegegeld OU, bedoeld in artikel 7.45b, verschuldigd.   
 2.  Met uitzondering van de gevallen, bedoeld in artikel 7.48, eerste en tweede lid, is artikel 7.42, tweede lid, van toepassing.   
 
 ### Artikel  7.44  
@@ -2047,13 +2043,11 @@ In afwijking van artikel 7.37, eerste lid, staat de inschrijving voor een opleid
 
 ####Hoogte wettelijk collegegeld
 
-1.  De bedragen van het volledige en van het gedeeltelijke wettelijke collegegeld worden vastgesteld volgens een basistarief en een verhoogd tarief. Het verhoogde tarief bestaat uit het basistarief vermeerderd met een opslag.   
-2.  Het basistarief en het verhoogde tarief van het volledige wettelijke collegegeld worden bij algemene maatregel van bestuur vastgesteld.   
-3.  De hoogte van het gedeeltelijke wettelijke collegegeld wordt door het instellingsbestuur vastgesteld en is gelegen tussen een minimum- en een maximumbedrag. Deze bedragen worden bij of krachtens algemene maatregel van bestuur vastgesteld.   
-4.  Het gedeeltelijke wettelijke collegegeld volgens het basistarief bedraagt niet meer dan het volledige wettelijke collegegeld volgens het basistarief.   
-5.  Het gedeeltelijke wettelijke collegegeld volgens het verhoogde tarief bedraagt niet meer dan het volledige wettelijke collegegeld volgens het verhoogde tarief.   
-6.  Het instellingsbestuur informeert Onze minister over de hoogte van de bedragen die het instellingsbestuur op grond van het derde lid heeft vastgesteld.   
-7.  De bij of krachtens algemene maatregel van bestuur vastgestelde bedragen, bedoeld in het tweede en het derde lid, worden jaarlijks volgens de consumentenprijsindex geïndexeerd, op de wijze bij of krachtens algemene maatregel van bestuur bepaald.   
+1.  De hoogte van het volledige wettelijke collegegeld wordt bij algemene maatregel van bestuur vastgesteld.   
+2.  De hoogte van het gedeeltelijke wettelijke collegegeld wordt door het instellingsbestuur vastgesteld en is gelegen tussen een minimum- en een maximumbedrag. Deze bedragen worden bij of krachtens algemene maatregel van bestuur vastgesteld.   
+3.  Het gedeeltelijke wettelijke collegegeld bedraagt niet meer dan het volledige wettelijke collegegeld.   
+4.  Het instellingsbestuur informeert Onze minister over de hoogte van het bedrag dat het instellingsbestuur op grond van het tweede lid heeft vastgesteld.   
+5.  De bij of krachtens algemene maatregel van bestuur vastgestelde bedragen, bedoeld in het eerste en tweede lid, worden jaarlijks volgens de consumentenprijsindex geïndexeerd, op de wijze bij of krachtens algemene maatregel van bestuur bepaald.   
 
 ### Artikel  7.45a  
 
@@ -2069,7 +2063,7 @@ c. tot één van de groepen van personen, bedoeld in [artikel 2.2 van de Wet stu
 2.  De voorwaarde, bedoeld in het eerste lid, onderdeel a, geldt niet voor een student die voor de eerste maal een opleiding op het gebied van onderwijs of gezondheidszorg volgt.   
 3.  Bij algemene maatregel van bestuur kan de categorie studenten, bedoeld in het eerste lid, worden uitgebreid.   
 4.  Een student als bedoeld in het eerste, tweede of derde lid, die is ingeschreven voor een voltijdse opleiding is het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid, verschuldigd.   
-5.  Een student als bedoeld in het eerste, tweede of derde lid, die is ingeschreven voor een deeltijdse of duale opleiding, is het gedeeltelijke wettelijke collegegeld, bedoeld in artikel 7.45, derde lid, verschuldigd.   
+5.  Een student als bedoeld in het eerste, tweede of derde lid, die is ingeschreven voor een deeltijdse of duale opleiding, is het gedeeltelijke wettelijke collegegeld, bedoeld in artikel 7.45, tweede lid, verschuldigd.   
 6.  Indien een student als bedoeld in het eerste, tweede of derde lid meer dan één opleiding volgt en de opleiding waarvoor hij het eerst is ingeschreven met goed gevolg afrondt, is deze student het wettelijke collegegeld verschuldigd voor het resterende deel van het studiejaar. Het verschuldigde bedrag wordt in dat geval berekend naar rato van het aantal resterende maanden van het desbetreffende studiejaar.   
 7.  Voor de voorwaarde, bedoeld in het eerste lid, onderdeel a, wordt met een student die een bachelorgraad heeft behaald gelijkgesteld: 
 
@@ -2086,41 +2080,10 @@ c. een student die op grond van artikel 18.15 met goed gevolg het afsluitend exa
 
 ### Artikel  7.45b  
 
-####Verhoogd wettelijk collegegeld
-
-1.  Het wettelijke collegegeld volgens het verhoogde tarief, bedoeld in artikel 7.45, eerste lid, is verschuldigd door een student die voldoet aan de voorwaarden die in artikel 7.45a worden gesteld om in aanmerking te komen voor het wettelijke collegegeld en die blijkens het Centraal register inschrijving hoger onderwijs, bedoeld in artikel 7.52, sedert 1991 
-
-a. langer voor een opleiding ingeschreven is geweest dan: 
-
-1°. vijf studiejaren, indien de inschrijving een bacheloropleiding met een studielast van 240 studiepunten betreft, of  
-
-2°. vier studiejaren, indien de inschrijving een bacheloropleiding met een studielast van 180 studiepunten betreft, dan wel    
-
-b. langer voor een masteropleiding ingeschreven is geweest dan: 
-
-1°. vijf studiejaren, indien de inschrijving een masteropleiding met een studielast van 240 studiepunten betreft,  
-
-2°. vier studiejaren, indien de inschrijving een masteropleiding met een studielast van 180 studiepunten betreft,  
-
-3°. drie studiejaren, indien de inschrijving een masteropleiding met een studielast van 120 studiepunten betreft,  
-
-4°. twee studiejaren, indien de inschrijving een masteropleiding met een studielast van 60 studiepunten betreft, of    
-
-c. langer ingeschreven is geweest voor een opleiding als bedoeld in artikel 18.15 dan het aantal jaren dat de som is van het aantal studiepunten van de opleiding, bedoeld in artikel 7.4, zoals dat luidde op 31 augustus 2002, gedeeld door 42 en vermeerderd met een jaar.     
-2.  Voor de berekening van de studielast wordt het aantal studiepunten van de opleiding, bedoeld in het eerste lid, onderdelen a en b, zo nodig naar boven afgerond tot 240, 180 of 120 studiepunten.   
-3.  Het aantal studiejaren van een student, bedoeld in het eerste lid, wordt berekend door een optelling van diens inschrijvingen op de peildatum in enig jaar vanaf 1 september 1991. Bij of krachtens algemene maatregel van bestuur wordt de peildatum, bedoeld in de eerste volzin, vastgesteld en kunnen overige aspecten van de berekening van het aantal studiejaren worden geregeld.   
-4.  Een student die, nadat hij een bachelorgraad of een mastergraad heeft behaald, voor de eerste maal een opleiding op het gebied van onderwijs of gezondheidszorg volgt en op grond van artikel 7.45a in aanmerking komt voor het wettelijke collegegeld, is voor die opleiding gedurende het aantal studiejaren, bedoeld in het eerste lid, onderdelen a en b, uitsluitend het wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid, verschuldigd.   
-5.  Onze minister vermeerdert eenmalig op aanvraag van een student het aantal studiejaren, bedoeld in het eerste lid, voor een opleiding als bedoeld in de onderdelen a, b of c van dat lid, met een jaar indien de student blijkens gedagtekende verklaringen van een arts en van het bestuur van de onderwijsinstelling waar hij is ingeschreven, als gevolg van een handicap of chronische ziekte niet in staat is het afsluitend examen met goed gevolg af te ronden binnen het genoemde aantal jaren.   
-5a.  Indien een student als direct gevolg van een tijdens zijn studie ontstane handicap, ten gevolge van een zich tijdens de studie verergerde handicap of ten gevolge van een zich tijdens de studie manifesterende chronische ziekte genoodzaakt is een reeds begonnen opleiding te beëindigen, telt Onze minister de inschrijvingen van deze student in het Centraal register inschrijvingen hoger onderwijs voorafgaand aan de beëindiging niet mee bij het bepalen van het aantal inschrijvingen voor een opleiding als bedoeld in de onderdelen a, b, of c van het eerste lid.   
-6.  Bij algemene maatregel van bestuur kunnen de categorieën studenten, bedoeld in het vierde en het vijfde lid, worden uitgebreid.   
-7.  Indien een student een ongedeelde opleiding als bedoeld in artikel 18.15 vervolgt met een masteropleiding, telt het aantal studiejaren van die ongedeelde opleiding, verminderd met drie, mee bij de vaststelling van het aantal studiejaren, bedoeld in het eerste lid, onderdeel b.   
-
-### Artikel  7.45c  
-
 ####Collegegeld OU
 
-1.  Een student als bedoeld in artikel 7.45a, eerste, tweede of derde lid, die is ingeschreven voor een onderwijseenheid bij de Open Universiteit, is collegegeld OU verschuldigd ter hoogte van ten minste één zestigste deel en ten hoogste één dertigste deel van het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid, vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.   
-2.  Een student die is ingeschreven voor een onderwijseenheid bij de Open Universiteit en die niet voldoet aan de voorwaarden, bedoeld in artikel 7.45a, eerste, tweede, of derde lid, is collegegeld OU verschuldigd ter hoogte van ten minste één dertigste deel van het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid, vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.   
+1.  Een student als bedoeld in artikel 7.45a, eerste, tweede of derde lid, die is ingeschreven voor een onderwijseenheid bij de Open Universiteit, is collegegeld OU verschuldigd ter hoogte van ten minste één zestigste deel en ten hoogste één dertigste deel van het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid, vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.   
+2.  Een student die is ingeschreven voor een onderwijseenheid bij de Open Universiteit en die niet voldoet aan de voorwaarden, bedoeld in artikel 7.45a, eerste, tweede, of derde lid, is collegegeld OU verschuldigd ter hoogte van ten minste één dertigste deel van het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid, vermenigvuldigd met het aantal studiepunten dat een onderwijseenheid groot is.   
 3.  De hoogte van het collegegeld OU wordt door het instellingsbestuur van de Open Universiteit vastgesteld. Voor de categorie studenten, bedoeld in het tweede lid, kan het instellingsbestuur van de Open Universiteit per onderwijseenheid of groep van onderwijseenheden of per groep of groepen studenten een verschillend collegegeld OU vaststellen.   
 4.  Indien een student als bedoeld in het tweede lid gedurende een studiejaar alsnog voldoet aan de voorwaarden, bedoeld in artikel 7.45a, eerste, tweede of derde lid, is hij voor het resterende deel van het studiejaar op zijn verzoek het collegegeld OU, bedoeld in het eerste lid, verschuldigd, en betaalt het instellingsbestuur OU hem het hogere collegegeld OU, dat de student voor het restant van het studiejaar heeft betaald, terug.   
 5.  Het instellingsbestuur van de Open Universiteit stelt regels vast met betrekking tot de toepassing van dit artikel.   
@@ -2131,7 +2094,7 @@ c. langer ingeschreven is geweest voor een opleiding als bedoeld in artikel 18.1
 
 1.  Een student die niet voldoet aan de voorwaarden, bedoeld in artikel 7.45a, eerste, tweede, derde of zesde lid, en niet is ingeschreven voor een onderwijseenheid bij de Open Universiteit, is het instellingscollegegeld verschuldigd.   
 2.  De hoogte van het instellingscollegegeld wordt door het instellingsbestuur vastgesteld. Het instellingsbestuur kan per opleiding of groep van opleidingen of per groep of groepen studenten een verschillend instellingscollegegeld vaststellen.   
-3.  Onverminderd artikel 7.3c, vierde lid, bedraagt het instellingscollegegeld ten minste het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid.   
+3.  Onverminderd artikel 7.3c, vierde lid, bedraagt het instellingscollegegeld ten minste het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid.   
 4.  Indien de student, bedoeld in het eerste lid, gedurende een studiejaar alsnog voldoet aan de voorwaarden, bedoeld in artikel 7.45a, eerste, tweede, derde of zesde lid, is hij voor het resterende deel van het studiejaar op zijn verzoek het wettelijke collegegeld verschuldigd en betaalt het instellingsbestuur hem het hogere instellingscollegegeld, dat de student voor het restant van het studiejaar heeft betaald, terug.   
 5.  Het instellingsbestuur stelt regels vast met betrekking tot de toepassing van dit artikel.   
 
@@ -2154,17 +2117,17 @@ b. betaling in termijnen, overeenkomstig een door het instellingsbestuur en dege
 3.  Een student is slechts een gedeelte van het door hem verschuldigde wettelijk collegegeld verschuldigd, indien de student zich gedurende het studiejaar inschrijft. In dat geval wordt het verschuldigde bedrag berekend naar rato van het aantal resterende maanden van het desbetreffende studiejaar.   
 4.  De student heeft aanspraak op terugbetaling van een twaalfde gedeelte van het door hem verschuldigde wettelijk collegegeld voor elke maand dat het studiejaar na beëindiging van zijn inschrijving duurt, tenzij een betalingsregeling als bedoeld in artikel 7.47, onderdeel b, is getroffen. Indien een student in de loop van het studiejaar overlijdt, wordt voor elke daaropvolgende maand van het studiejaar na diens overlijden, een twaalfde gedeelte van het betaalde wettelijk collegegeld terugbetaald. Bij beëindiging van de inschrijving met ingang van juli of augustus heeft de student geen aanspraak op beëindiging van betaling van de termijnen, bedoeld in artikel 7.47, onderdeel b, en op terugbetaling van het voor die maanden betaalde collegegeld, tenzij het instellingsbestuur dat anders heeft geregeld. Dit lid is niet van toepassing op de Open Universiteit.   
 5.  Vermindering of vrijstelling van het wettelijk collegegeld in andere gevallen dan bedoeld in het eerste tot en met vierde lid, wordt aangemerkt als ondoelmatige besteding van de rijksbijdrage, bedoeld in artikel 2.9, eerste lid.   
-6.  Het instellingsbestuur van de Open Universiteit stelt een regeling vast waarin een voorziening in de vorm van een verlaging van het collegegeld OU wordt getroffen, voor studenten als bedoeld in artikel 7.45c, eerste lid, van wie het toetsingsinkomen, bedoeld in [artikel 8, eerste tot en met vierde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), minder dan 110% van het belastbaar minimumloon bedraagt. In de regeling stelt het instellingsbestuur vast welke aanvraagbescheiden moeten worden ingediend. De hoogte van de verlaging, bedoeld in de eerste volzin, is in elk geval afhankelijk van het inkomen van de betrokkene.   
-7.  Een student die aanspraak maakt op wettelijk collegegeld op grond van artikel 7.45a, tweede lid, wordt voor een andere inschrijving niet vrijgesteld van het betalen van collegegeld als bedoeld in de artikelen 7.45, 7.45a, 7.45b en 7.46.   
+6.  Het instellingsbestuur van de Open Universiteit stelt een regeling vast waarin een voorziening in de vorm van een verlaging van het collegegeld OU wordt getroffen, voor studenten als bedoeld in artikel 7.45b, eerste lid, van wie het toetsingsinkomen, bedoeld in [artikel 8, eerste tot en met vierde lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), minder dan 110% van het belastbaar minimumloon bedraagt. In de regeling stelt het instellingsbestuur vast welke aanvraagbescheiden moeten worden ingediend. De hoogte van de verlaging, bedoeld in de eerste volzin, is in elk geval afhankelijk van het inkomen van de betrokkene.   
+7.  Een student die aanspraak maakt op wettelijk collegegeld op grond van artikel 7.45a, tweede lid, wordt voor een andere inschrijving niet vrijgesteld van het betalen van collegegeld als bedoeld in de artikelen 7.45, 7.45a en 7.46.   
 
 ### Artikel  7.49  
 
 ####Collegegeld voor bepaalde voltijdse opleidingen vanaf het studiejaar 2005–2006
 
-1.  Het instellingsbestuur stelt in afwijking van artikel 7.45, eerste lid, voor een opleiding die of voor een experimenteel programma dat is aangewezen op grond van [artikel 9 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](../../../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md), een collegegeld vast. Het collegegeld bedraagt ten hoogste vijf keer het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid.   
+1.  Het instellingsbestuur stelt in afwijking van artikel 7.45, eerste lid, voor een opleiding die of voor een experimenteel programma dat is aangewezen op grond van [artikel 9 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](../../../../../../../../../../wet/experimentenwet/vooropleidingseisen/selectie/en/collegegeldheffing/BWBR0018259/README.md), een collegegeld vast. Het collegegeld bedraagt ten hoogste vijf keer het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid.   
 2.  Het instellingsbestuur draagt tijdig voor de aanvang van het studiejaar zorg voor openbaarmaking van het op grond van het eerste lid vastgestelde bedrag.   
 3.  Indien het eerste lid voor een opleiding toepassing heeft gevonden, komt het overeenkomstig het eerste lid vastgestelde collegegeld in de plaats van het collegegeld, genoemd in artikel 7.45, eerste lid.   
-4.  Artikel 7.45, zevende lid is van overeenkomstige toepassing.   
+4.  Artikel 7.45, vijfde lid is van overeenkomstige toepassing.   
 5.  Artikel 7.47 is van toepassing.   
 
 ### Artikel  7.50  
@@ -2189,10 +2152,8 @@ c. studievertraging heeft opgelopen of naar verwachting zal oplopen als gevolg v
 
 d. is ingeschreven voor een opleiding waarop het instellingsbestuur artikel 7.4a, achtste lid, heeft toegepast, of  
 
-e. aan de desbetreffende instelling voor hoger onderwijs, bedoeld in artikel 1.2, onderdeel a, is ingeschreven voor een opleiding waaraan niet opnieuw accreditatie is verleend en waarvoor aan hem nog geen graad is verleend, of  
-
-f. aan de desbetreffende instelling voor hoger onderwijs, bedoeld in artikel 1.2, onderdeel a, is ingeschreven voor een deeltijdopleiding waarvoor aan hem nog geen graad is verleend en verhoogd wettelijk collegegeld verschuldigd is, in verband met de aanwezigheid van een bijzondere omstandigheid de opleiding niet of niet geheel volgt en studievertraging heeft opgelopen of naar verwachting zal oplopen als gevolg van bijzondere omstandigheden.     
-2.  De bijzondere omstandigheden, bedoeld in het eerste lid, onderdelen b, c en f, zijn: 
+e. aan de desbetreffende instelling voor hoger onderwijs, bedoeld in artikel 1.2, onderdeel a, is ingeschreven voor een opleiding waaraan niet opnieuw accreditatie is verleend en waarvoor aan hem nog geen graad is verleend.     
+2.  De bijzondere omstandigheden, bedoeld in het eerste lid, onderdelen b en c, zijn: 
 
 a. het lidmaatschap van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid, een opleidingscommissie, het bestuur van een opleiding als bedoeld in artikel 9.17, de universiteitsraad, de faculteitsraad, het orgaan dat is ingesteld op grond van de medezeggenschapsregeling, bedoeld in artikel 9.30, derde lid, of  10.16a, derde lid, de medezeggenschapsraad, de deelraad of de studentenraad,  
 
@@ -2221,7 +2182,7 @@ c. woonachtig is in Nederland, België, Luxemburg of een van de deelstaten Noord
 a. niet is ingeschreven, en  
 
 b. indien hij ingeschreven zou staan aan een instelling aanspraak zou hebben op een vorm van studiefinanciering als bedoeld in [artikel 5.2 van de Wet studiefinanciering 2000](../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).     
-4.  Het instellingsbestuur stelt regels van procedurele aard vast met betrekking tot de toepassing van dit artikel, met uitzondering van lid 3a, waartoe in ieder geval behoren regels over de aanvang, de duur en de hoogte van de financiële ondersteuning. Deze regels hebben in ieder geval betrekking op de financiële ondersteuning van een student als bedoeld in het eerste lid, die als gevolg van de omstandigheden, bedoeld in het tweede lid, onderdelen c, d en e, het verhoogde collegegeld is verschuldigd. De duur van de financiële ondersteuning aan een student als bedoeld in het eerste lid, onderdeel d, bedraagt de periode die overeenstemt met de studielast die uitgaat boven 60 studiepunten. De financiële ondersteuning is niet hoger dan de studiefinanciering die betrokkene geniet uit hoofde van [hoofdstuk 3 van de Wet studiefinanciering 2000](../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), dan wel zou hebben genoten, indien hij daarop aanspraak zou maken of zou hebben mogen maken. Het instellingsbestuur kan aan de toekenning van financiële ondersteuning de voorwaarde verbinden dat de student feitelijk studerend is. De financiële ondersteuning, bedoeld in het eerste lid, onderdeel f, bedraagt maximaal de hoogte van de opslag, bedoeld in artikel 7.45, eerste lid.   
+4.  Het instellingsbestuur stelt regels van procedurele aard vast met betrekking tot de toepassing van dit artikel, met uitzondering van lid 3a, waartoe in ieder geval behoren regels over de aanvang, de duur en de hoogte van de financiële ondersteuning. De duur van de financiële ondersteuning aan een student als bedoeld in het eerste lid, onderdeel d, bedraagt de periode die overeenstemt met de studielast die uitgaat boven 60 studiepunten. De financiële ondersteuning is niet hoger dan de studiefinanciering die betrokkene geniet uit hoofde van [hoofdstuk 3 van de Wet studiefinanciering 2000](../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), dan wel zou hebben genoten, indien hij daarop aanspraak zou maken of zou hebben mogen maken. Het instellingsbestuur kan aan de toekenning van financiële ondersteuning de voorwaarde verbinden dat de student feitelijk studerend is.   
 4a.  De voorziening, bedoeld in lid 3a, 
 
 a. heeft de vorm van een overeenkomst,  
@@ -2255,6 +2216,9 @@ c. Onze minister op diens verzoek de noodzakelijke informatie te verstrekken ten
 3.  Van het Centraal register inschrijving hoger onderwijs is Onze Minister verantwoordelijke in de zin van [artikel 1 van de Wet bescherming persoonsgegevens](../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
 4.  Onze Minister kan ten behoeve van het Centraal register inschrijving hoger onderwijs gebruikmaken van het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), voorzover dit noodzakelijk is voor de uitvoering van de [Wet werk en bijstand](../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Algemene Kinderbijslagwet](../../../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) en de [Wet studiefinanciering 2000](../../../../../../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md).   
 5.  De instellingsbesturen stellen het Centraal register inschrijving hoger onderwijs telkenmale voor een door Onze Minister van Onderwijs, Cultuur en Wetenschap te bepalen datum en op een door hem te bepalen wijze in kennis van elke door hen genomen beslissing met betrekking tot de inschrijving als student of extraneus de gegevens over de studievoortgang, bedoeld in artikel 7.9a, alsmede van de gegevens met betrekking tot het met goed gevolg hebben afgelegd van het afsluitend examen, bedoeld in artikel 7.9d. De instellingsbesturen zijn gehouden medewerking te verlenen aan procedures die er op zijn gericht te bevorderen dat de in het Centraal register inschrijving hoger onderwijs opgenomen gegevens zoveel mogelijk juist en volledig zijn. Bij of krachtens algemene maatregel van bestuur kunnen terzake nadere regels worden gesteld.   
+6.   Dit lid is nog niet in werking getreden.    
+7.   Dit lid is nog niet in werking getreden.    
+8.  Het instellingsbestuur van een universiteit of hogeschool verstrekt geen persoonsgebonden nummer van een student of extraneus ter uitvoering van [artikel 107, vijfde lid, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), anders dan ter nakoming van verplichtingen als referent in de zin van [artikel 1 van die wet](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
 
 ### Paragraaf  4  
 
@@ -2356,7 +2320,7 @@ d. lager dan 7 maar hoger dan of gelijk aan 6,5 en
 e. lager dan 6,5.   De klassen b tot en met e worden aangeduid als lotingsklassen.   
 3.  De wijze van indeling in de klassen, bedoeld in het tweede lid, van degenen die een onderwijsvorm hebben afgerond waaraan geen cijferlijst is verbonden, wordt geregeld in de ministeriële regeling, bedoeld in artikel 7.57a, vierde lid.   
 4.  Onze Minister deelt degenen die op grond van de artikelen 7.28 of 7.29 zijn vrijgesteld van de in artikel 7.24, eerste of tweede lid, bedoelde vooropleidingseisen in de lotingsklasse, bedoeld in het tweede lid onder c, in.   
-5.  Onze Minister deelt de door haar aangewezen aanstaande studenten uit Aruba, Curaçao, Sint Maarten en de openbare lichamen BES in de klasse, bedoeld in het tweede lid onder a, in. De wijze waarop die aanwijzing geschiedt, en het aantal aanstaande studenten dat ten hoogste kan worden aangewezen, wordt bepaald in de ministeriële regeling, bedoeld in artikel 7.57a, vierde lid.   
+5.  Onze Minister deelt de door hem aangewezen aanstaande studenten uit Aruba, Curaçao, Sint Maarten en de openbare lichamen BES in de klasse, bedoeld in het tweede lid onder a, in. De wijze waarop die aanwijzing geschiedt, en het aantal aanstaande studenten dat ten hoogste kan worden aangewezen, wordt bepaald in de ministeriële regeling, bedoeld in artikel 7.57a, vierde lid.   
 
 ### Artikel  7.57c  
 
@@ -2620,7 +2584,7 @@ d. bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroord
 
 ####Griffierecht
 
-Het griffierecht bedraagt € 44. [Artikel 11:2, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.  
+Het griffierecht bedraagt € 44. Dat bedrag wordt jaarlijks met ingang van 1 januari bij regeling van Onze Minister van Veiligheid en Justitie aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij wordt het bedrag rekenkundig afgerond op gehele euro’s.  
 
 ### Paragraaf  4  
 
@@ -2647,13 +2611,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 a. instelling: een instelling als bedoeld in artikel 7a.2, en  
 
-b. bekwaamheidsonderzoek: het onderzoek, bedoeld in [artikel 176f van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 148 van de Wet primair onderwijs BES](../../../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md), [artikel 162i van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 118o van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [artikel 203 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md).    
+b. bekwaamheidsonderzoek: het onderzoek, bedoeld in [artikel 176f van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 141 van de Wet primair onderwijs BES](../../../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), [artikel 162i van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 118o van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [artikel 201 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).    
 
 ### Artikel  7a.2  
 
 ####Reikwijdte
 
-Dit hoofdstuk heeft betrekking op de bekostigde en ingevolge artikel 6.9 aangewezen instellingen voor hoger onderwijs die voldoen aan [artikel 176g van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 149 van de Wet primair onderwijs BES](../../../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md), [artikel 162j van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 118p van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [artikel 204 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md).  
+Dit hoofdstuk heeft betrekking op de bekostigde en ingevolge artikel 6.9 aangewezen instellingen voor hoger onderwijs die voldoen aan [artikel 176g van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 142 van de Wet primair onderwijs BES](../../../../../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0030280/README.md), [artikel 162j van de Wet op de expertisecentra](../../../../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 118p van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [artikel 202 van de Wet voortgezet onderwijs BES](../../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).  
 
 ### Artikel  7a.3  
 
@@ -3490,7 +3454,7 @@ h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomsti
 
 i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het jaarverslag van de hogeschool.     
 3.  Het college van bestuur voorziet de raad van toezicht van een functioneel onafhankelijke administratieve ondersteuning. De raad van toezicht heeft instemmingsrecht ten aanzien van de benoeming en het ontslag van de secretaris van de raad.   
-4.  De samenstelling, taken en bevoegdheden van de raad van toezicht zijn zodanig dat de raad een deugdelijk en onafhankelijk toezicht kan uitoefenen. De leden van de raad van toezicht hebben geen directe belangen bij de hogeschool. Zij hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak. De benoeming van de leden van de raad geschiedt op basis van vooraf openbaar gemaakte profielen. Een van de leden wordt benoemd op voordracht van de medezeggenschapsraad, dan wel de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin, is ingesteld. De voordracht bevat ten minste twee namen. Indien de voorgedragen kandidaten niet door Onze minister worden benoemd, wordt een nieuwe voordracht gedaan. Onze minister kan gemotiveerd afwijken van de tweede voordracht.   
+4.  De samenstelling, taken en bevoegdheden van de raad van toezicht zijn zodanig dat de raad een deugdelijk en onafhankelijk toezicht kan uitoefenen. De leden van de raad van toezicht hebben geen directe belangen bij de hogeschool. Zij hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak. De benoeming van de leden van de raad geschiedt op basis van vooraf openbaar gemaakte profielen. Een van de leden wordt benoemd op voordracht van de medezeggenschapsraad, dan wel de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin, is ingesteld. De voordracht bevat ten minste twee namen.   
 5.  De medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de hogeschool dat op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin, is ingesteld, wordt of worden in de gelegenheid gesteld om aan de raad van toezicht advies uit te brengen over de profielen bedoeld in het vierde lid.   
 6.  De raad van toezicht pleegt ten minste twee keer per jaar overleg met de medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin, is ingesteld.   
 7.  Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de levensbeschouwelijke aard van de hogeschool, kan de hogeschool in afwijking van het eerste lid een functionele scheiding tussen het bestuur en het toezicht aanbrengen.   
@@ -3612,7 +3576,7 @@ f. regels op het gebied van de arbeidsomstandigheden,
 
 g. de keuze uit medezeggenschapsstelsels, bedoeld in artikel 10.16a, eerste lid,  
 
-h. het beleid van het college van bestuur bij de toepassing van artikel 7.51, en de regels, bedoeld in het vijfde lid van dat artikel, en  
+h. het beleid van het college van bestuur bij de toepassing van artikel 7.51, en de regels, bedoeld in het vierde lid van dat artikel, en  
 
 i. een besluit tot fusie als bedoeld in artikel 16.16.     
 2.  Het college van bestuur stelt de medezeggenschapsraad in de gelegenheid tijdig voorafgaand aan het verzoek om instemming met een besluit tot fusie als bedoeld in het eerste lid, onderdeel i, kennis te nemen van de opgestelde fusie-effectrapportage bedoeld in artikel 16.16a, vierde lid.   
@@ -4228,7 +4192,7 @@ Degene die niet is ingeschreven en gebruikmaakt van onderwijs- of examenvoorzien
 
 a. met toepassing van artikel 7.46, tweede lid, indien het deelname aan een voltijdse opleiding betreft, of  
 
-b. met toepassing van artikel 7.45, derde lid, indien het deelname aan een deeltijdse of duale opleiding betreft.    
+b. met toepassing van artikel 7.45, tweede lid, indien het deelname aan een deeltijdse of duale opleiding betreft.    
 
 ### Artikel  15.3  
 
@@ -4253,7 +4217,7 @@ Degene die aan een in de bijlage van deze wet genoemde instelling meewerkt aan h
 
 ####Geldboete niet-gerechtigde verlening graden en titels
 
-1.  Het is verboden graden, genoemd in de artikelen 7.10a, 7.18 en 7.19, te verlenen, tenzij: 
+1.  Het is verboden graden, genoemd in de artikelen 7.10a, 7.10b, 7.18 en 7.19a, te verlenen, tenzij: 
 
 a. op grond van artikel 5a.9 een accreditatiebesluit voor de opleiding van kracht is,  
 
@@ -4526,15 +4490,6 @@ Personeel van niet bekostigde ingevolge deze wet aangewezen hogescholen dat op g
 
 ####Instelling en registratie van bachelor- en masteropleidingen in het wetenschappelijk onderwijs; tijdelijke handhaving van opleidingen in afbouw
 
-### Artikel  18.14  
-
-####Opleidingen in afbouw
-
-1.  Indien het instellingsbestuur, bedoeld in artikel 18.7 of artikel 18.9 toepassing heeft gegeven aan het tweede lid van die artikelen, houdt hij de opleiding in het wetenschappelijk onderwijs in stand tot een zodanig tijdstip dat de voor de opleiding ingeschreven studenten en extraneï de opleiding aan dezelfde instelling of aan een andere instelling binnen een redelijke tijd kunnen voltooien.   
-2.  Met ingang van het in artikel 18.7, tweede lid, bedoelde studiejaar worden geen studenten of extraneï voor de eerste maal voor de propedeutische fase van de desbetreffende opleiding in het wetenschappelijk onderwijs ingeschreven.   
-3.  Op een in dit artikel bedoelde opleiding en de daarvoor ingeschreven studenten en extraneï blijven de voorschriften van deze wet en de daarop gebaseerde uitvoeringsregelingen, zoals die op 31 augustus 2002 luidden, van toepassing.   
-4.  In afwijking van het derde lid zijn met betrekking tot het toezicht op een in dat lid bedoelde opleiding de voorschriften van de [Wet op het onderwijstoezicht](../../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) van toepassing.   
-
 ### Paragraaf  3  
 
 ####Ongedeelde opleidingen in het wetenschappelijk onderwijs
@@ -4623,7 +4578,7 @@ In afwijking van artikel 5a.9, zesde lid en 5a.13f kan Onze minister eenmalig be
 
 1.  Het besluit tot deelname aan het invoeringsregime houdt in dat in afwijking van artikel 5a.13e, eerste lid, de aanvragen om accreditatie en toets nieuwe opleiding worden ingediend en beoordeeld op grond van artikel 5a.13f en 5a.13g.   
 2.  Aan het besluit tot deelname aan het invoeringsregime is de verplichting voor het instellingsbestuur verbonden op een door het accreditatieorgaan te bepalen tijdstip een aanvraag om instellingstoets kwaliteitszorg in te dienen. Het tijdstip is niet gelegen na drie jaar na de inwerkingtreding van de Wet van 24 juni 2010 (Stb. 293).   
-3.  In afwijking van artikel 5a.13f en 5a.13g is de duur van het besluit om accreditatie of toets nieuwe opleiding 3 jaar.   
+3.  In afwijking van artikel 5a.13f en 5a.13g vervallen de besluiten tot het verlenen van accreditatie en tot het verlenen van een toets nieuwe opleiding na 3 jaar.   
 4.  Indien het accreditatieorgaan besluit een instellingstoets kwaliteitszorg te verlenen, dan wordt de duur van de accreditatie of toets nieuwe opleiding, bedoeld in het derde lid, verlengd tot zes jaar.   
 5.  Indien het accreditatieorgaan besluit geen instellingstoets kwaliteitszorg te verlenen dan wel indien het instellingsbestuur niet voldoet aan de verplichting, bedoeld in het tweede lid, is het instellingsbestuur verplicht binnen een jaar na de datum waarop het accreditatieorgaan het besluit heeft genomen dat geen instellingstoets kwaliteitszorg wordt verleend of binnen een jaar na het door het accreditatieorgaan bepaalde tijdstip, bedoeld in het tweede lid, waarop het instellingsbestuur aan de daar genoemde verplichting had moeten voldoen, een aanvraag om toetsing van de aspecten van artikel 5a.8, tweede lid, onderdelen d tot en met f, of artikel 5a.10a, tweede lid, onderdelen d tot en met f, bij het accreditatieorgaan in te dienen voor de aanvragen tot het verlenen van accreditatie of een toets nieuwe opleiding die zijn ingediend en beoordeeld volgens het invoeringsregime. Het accreditatieorgaan besluit binnen drie maanden op de aanvraag en indien het accreditatieorgaan positief besluit op de aanvraag, bedoeld in de eerste volzin, wordt de duur van de accreditatie of toets nieuwe opleiding verlengd tot zes jaar. Bij een negatief besluit van het accreditatieorgaan zijn artikel 5a.12, eerste tot en met vijfde lid, en artikel 5a.12a van overeenkomstige toepassing.   
 6.  In afwijking van het derde lid wordt het besluit tot het verlenen van accreditatie of toets nieuwe opleiding verlengd tot aan het einde van het studiejaar of, indien nodig, tot aan het einde van het daarop volgende studiejaar, indien het accreditatieorgaan niet over de aanvraag op grond van het tweede of vijfde lid heeft besloten.   
@@ -4842,56 +4797,72 @@ Onze minister kan ten aanzien van één of meer instellingen tot 1 juni 2012 be
 
 ### Artikel  18.78  
 
-####Vaststelling bedragen volledig wettelijk collegegeld 2011–2013
+####Vaststelling bedragen volledig wettelijk collegegeld 2011–2012
 
-1.  In afwijking van artikel 7.45, tweede lid, wordt voor de studiejaren 2011–2012 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld.   
-2.  Het bedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief: 
-
-a. voor het studiejaar 2011–2012 1 713 euro; en  
-
-b. voor het studiejaar 2012–2013 1 735 euro.     
-3.  Het bedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief: 
-
-a. voor het studiejaar 2011–2012 1 713 euro; en  
-
-b. voor het studiejaar 2012–2013 4 735 euro.     
-4.  Bij ministeriële regeling worden de bedragen, genoemd in het tweede lid, onderdeel b, en het derde lid, onderdeel b, aangepast aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voorafgaand aan het studiejaar 2012–2013 waarvoor het aangepaste collegegeld zal gelden. De aanpassing wordt bepaald voor de procentuele wijziging die de consumentenprijsindex over de maand april, voorafgaand aan de vaststelling van de ministeriële regeling heeft ondergaan ten opzichte van de maand april in het daaraan voorafgaande jaar. De aldus verkregen wijziging van het collegegeldbedrag wordt afgerond op het naastbij gelegen gehele getal. De overeenkomstig dit lid aangepaste bedragen treden in de plaats van de in het tweede lid, onderdeel b en het derde lid, onderdeel b, genoemde bedragen.   
-5.  Onder de consumentenprijsindex, bedoeld in het vierde lid, wordt verstaan: de consumentenprijsindex «reeks alle huishoudens» zoals vastgesteld door het Centraal Bureau voor Statistiek.   
+1.  In afwijking van artikel 7.45, tweede lid, zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2011–2012 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld.   
+2.  Het bedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2011–2012 1713 euro.   
+3.  Het bedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief voor het studiejaar 2011–2012 1713 euro.   
 
 ### Artikel  18.79  
 
-####Vaststelling bedragen gedeeltelijk wettelijk collegegeld 2011–2013
+####Vaststelling bedragen gedeeltelijk wettelijk collegegeld 2011–2012
 
-1.  In afwijking van artikel 7.45, derde lid, wordt voor de studiejaren 2011–2013 het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld.   
-2.  Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief: 
+1.  In afwijking van artikel 7.45, derde lid, zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2011–2012 het bedrag van het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld.   
+2.  Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2011–2012 961 euro.   
+3.  Het maximumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2011–2012 1713 euro.   
+4.  Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief voor het studiejaar 2011–2012 961 euro.   
+5.  Het maximumbedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief voor het studiejaar 2011–2012 1713 euro.   
 
-a. voor het studiejaar 2011–2012 961 euro; en  
+### Titel  14  
 
-b. voor het studiejaar 2012–2013 983 euro.     
-3.  Het maximumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief: 
+####Wet van 28 januari 2013 (Stb. 70)
 
-a. voor het studiejaar 2011–2012 1 713 euro; en  
+### Artikel  18.81  
 
-b. voor het studiejaar 2012–2013 1 735 euro.     
-4.  Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief: 
+####Vaststelling bedragen volledig wettelijk collegegeld volgens basistarief en verhoogd tarief 2012–2013
 
-a. voor het studiejaar 2011–2012 961 euro; en  
+1.  In afwijking van artikel 7.45, tweede lid, zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2012–2013 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld.   
+2.  Het bedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2012–2013 1771 euro.   
+3.  Het bedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief voor het studiejaar 2012–2013 1771 euro.   
 
-b. voor het studiejaar 2012–2013 3 983 euro.     
-5.  Het maximumbedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief: 
+### Artikel  18.82  
 
-a. voor het studiejaar 2011–2012 1 713 euro; en  
+####Vaststelling bedragen gedeeltelijk wettelijk collegegeld volgens basistarief en verhoogd tarief 2012–2013
 
-b. voor het studiejaar 2012–2013 4 735 euro.     
-6.  Bij ministeriële regeling worden de bedragen, genoemd in het tweede lid, onderdeel b, het derde lid, onderdeel b, het vierde lid, onderdeel b en het vijfde lid, aangepast aan de hand van de consumentenprijsindex. De ministeriële regeling wordt vastgesteld voorafgaand aan het studiejaar 2012–2013 waarvoor het aangepaste collegegeld zal gelden. De aanpassing wordt bepaald voor de procentuele wijziging die de consumentenprijsindex over de maand april, voorafgaand aan de vaststelling van de ministeriële regeling heeft ondergaan ten opzichte van de maand april in het daaraan voorafgaande jaar. De aldus verkregen wijziging van het collegegeldbedrag wordt afgerond op het naastbij gelegen gehele getal. De overeenkomstig dit lid aangepaste bedragen treden in de plaats van de in het tweede lid, onderdeel b, het derde lid, onderdeel b, het vierde lid, onderdeel b, en het vijfde lid, onderdeel b, genoemde bedragen.   
-7.  Onder de consumentenprijsindex, bedoeld in het zesde lid, wordt verstaan: de consumentenprijsindex «reeks alle huishoudens» zoals vastgesteld door het Centraal Bureau voor Statistiek.   
+1.  In afwijking van artikel 7.45, derde lid, zoals dat luidde op 1 september 2011, wordt voor het studiejaar 2012–2013 het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld.   
+2.  Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2012–2013 1003 euro.   
+3.  Het maximumbedrag, bedoeld in het eerste lid, bedraagt volgens het basistarief voor het studiejaar 2012–2013 1771 euro.   
+4.  Het minimumbedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief voor het studiejaar 2012–2013 1003 euro.   
+5.  Het maximumbedrag, bedoeld in het eerste lid, bedraagt volgens het verhoogde tarief voor het studiejaar 2012–2013 1771 euro.   
 
-### Artikel  18.80  
+### Artikel  18.83  
 
-####Vaststelling peildatum
+####Vaststelling bedrag van het wettelijke collegegeld na inwerkingtreding van de Wet van 28 januari 2013 (Stb. 70)
 
-1.  In afwijking van artikel 7.45b, derde lid, wordt de peildatum voor de studiejaren 2011–2012 en 2012–2013 bij wet vastgesteld.   
-2.  De peildatum, bedoeld in het eerste lid, wordt vastgesteld op 30 september.   
+1.  In afwijking van artikel 7.45, eerste lid, wordt voor het studiejaar 2012–2013 het bedrag van het volledige wettelijke collegegeld bij wet vastgesteld. Het volledige wettelijke collegegeld bedraagt voor het studiejaar 2012–2013 euro 1771.   
+2.  In afwijking van artikel 7.45, tweede lid, tweede volzin, wordt voor het studiejaar 2012–2013 het minimum- en maximumbedrag van het gedeeltelijke wettelijke collegegeld bij wet vastgesteld. Voor het studiejaar 2012–2013 bedraagt het gedeeltelijk wettelijke collegegeld minimaal euro 1003 en maximaal euro 1771.   
+
+### Artikel  18.84  
+
+####Profileringsfonds voor langstudeerders
+
+Het instellingsbestuur dat voorzieningen heeft getroffen voor studenten op grond van artikel 7.51, eerste lid, onderdeel f, of vierde lid, tweede volzin, stelt regels vast met betrekking tot de afhandeling van de wederzijdse financiële verplichtingen ten aanzien van de opslag, bedoeld in artikel 7.45, eerste lid, tweede volzin, van de wet zoals deze luidde op 1 september 2011.  
+
+### Titel  15  
+
+####Wet van 10 juli 2013 (Stb. 298)
+
+### Artikel  18.85  
+
+####Overgangsbepaling recht op inschrijving
+
+Aspirant-studenten die op het moment van inwerkingtreding van [artikel I, onderdeel AW, onderscheidenlijk onderdeel AX, van de Wet van 10 juli 2013](../../../../../../../../../../wet/wet/kwaliteit/in/verscheidenheid/hoger/onderwijs/BWBR0033693/README.md) (Stb. 2013, 298) beschikken over een bewijs van toelating als bedoeld in de artikelen 7.57c en 7.57d, zoals die artikelen luidden op de dag voordat het desbetreffende onderdeel in werking treedt, behouden hun recht op inschrijving voor de propedeutische fase van de desbetreffende opleiding.  
+
+### Artikel  18.86  
+
+####Overgangsbepaling selectie door instellingen bij opleidingen met een toelatingsbeperking
+
+Wijzigt deze wet.   
 
 ### Hoofdstuk  19  
 

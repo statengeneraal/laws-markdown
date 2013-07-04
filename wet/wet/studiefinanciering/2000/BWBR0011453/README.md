@@ -242,16 +242,19 @@ b. die overigens voldoet aan bij ministeriële regeling vastgestelde criteria.
 
 ####Buitenlandse opleidingen hoger onderwijs
 
-1.  Dit artikel is uitsluitend van toepassing op studenten die na 31 augustus 2007 zijn ingeschreven voor het volgen van hoger onderwijs aan een opleiding buiten Nederland. Dit artikel is niet van toepassing op studenten die op grond van artikel 2.2, tweede lid, slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs ontvangen.   
-2.  Voor studiefinanciering kan een student in aanmerking komen die: 
+1.  Dit artikel is niet van toepassing op studenten die op grond van artikel 2.2, tweede lid, slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs ontvangen.   
+2.  In aanmerking voor studiefinanciering komt een student die: 
 
-a. is ingeschreven voor het volgen van onderwijs aan een opleiding buiten Nederland, voorzover in Nederland voor een vergelijkbaar soort opleiding studiefinanciering wordt verstrekt, het niveau en de kwaliteit van de opleiding vergelijkbaar zijn met overeenkomstige opleidingen in de zin van de [WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en het afsluitend examen voor de opleiding vergelijkbaar is met een afsluitend examen voor overeenkomstige opleidingen in de zin van de [WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+a. is ingeschreven voor het volgen van onderwijs aan een opleiding buiten Nederland, voorzover in Nederland voor een vergelijkbaar soort opleiding studiefinanciering wordt verstrekt, het niveau en de kwaliteit van de opleiding vergelijkbaar zijn met overeenkomstige opleidingen in de zin van de [WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en het afsluitend examen voor de opleiding vergelijkbaar is met een afsluitend examen voor overeenkomstige opleidingen in de zin van de WHW,  
 
 b. is ingeschreven voor het volgen van onderwijs aan een opleiding buiten Nederland die, onverminderd onderdeel a, overigens voldoet aan bij ministeriële regeling vastgestelde criteria, en  
 
-c. ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan die opleiding in Nederland heeft gewoond en gedurende deze periode rechtmatig verblijf heeft gehad. De periode gedurende welke een student is ingeschreven aan een opleiding buiten Nederland als bedoeld onder a, telt niet mee voor de bepaling van de 6 jaren, bedoeld in de vorige volzin.     
+c. binnen de reikwijdte van artikel 45 van het Verdrag betreffende de werking van de Europese Unie valt, of daarmee gelijkgesteld is op grond van het recht van de Europese Unie, of ten minste 3 jaren van de 6 jaren voorafgaand aan diens inschrijving aan die opleiding in Nederland heeft gewoond en gedurende deze periode rechtmatig verblijf heeft gehad. De periode gedurende welke een student is ingeschreven aan een opleiding buiten Nederland als bedoeld onder a, telt niet mee voor de bepaling van de 6 jaren, bedoeld in de vorige volzin.     
 3.  Onze Minister stelt vast of een opleiding buiten Nederland voldoet aan de criteria, bedoeld in het tweede lid. Indien voor een vergelijkbare opleiding of vergelijkbaar geheel van een bacheloropleiding en een masteropleiding in Nederland de prestatiebeurs voor meer dan 4 jaren wordt verstrekt stelt Onze Minister voor de betreffende opleiding buiten Nederland de duur van de prestatiebeurs vast op de duur van de periode gedurende welke studiefinanciering wordt verstrekt in de vorm van een prestatiebeurs voor die opleiding in Nederland. Indien de studielast van een vergelijkbare opleiding of vergelijkbaar geheel van een bacheloropleiding en een masteropleiding in Nederland minder dan 4 jaren betreft, stelt Onze Minister de studielast van de opleiding buiten Nederland vast op de studielast van die opleiding in Nederland.   
-4.  Het [tweede en derde lid van artikel 2.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op het tweede lid. Het [tweede en derde lid van artikel 2.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn, voor de toepassing van de eerste volzin, tevens van overeenkomstige toepassing op personen met een andere dan de Nederlandse nationaliteit.   
+4.  Het [tweede en derde lid van artikel 2.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op het tweede lid. Het tweede en derde lid van artikel 2.2 van de Wet inkomstenbelasting 2001 zijn, voor de toepassing van de eerste volzin, tevens van overeenkomstige toepassing op personen met een andere dan de Nederlandse nationaliteit.   
+5.  Bij ministeriële regeling kan een maximum worden gesteld aan het aantal aanvragen van studenten voor studiefinanciering voor het volgen van onderwijs buiten Nederland.   
+6.  Het vijfde lid is niet van toepassing op aanvragen van studenten die in de 12 maanden voorafgaand aan de periode waarvoor studiefinanciering voor het volgen van onderwijs buiten Nederland wordt aangevraagd, reeds studiefinanciering voor het volgen van onderwijs buiten Nederland toegekend hebben gekregen.   
+7.  Bij ministeriële regeling kunnen nadere regels met betrekking tot de uitvoering van dit artikel worden vastgesteld.   
 
 ### Artikel  2.15  
 
@@ -279,7 +282,7 @@ De studerende die lesgeld is verschuldigd op grond van [artikel 5, tweede lid, v
 
 ####Rechtens ontnomen vrijheid
 
-1.  Een studerende die voor ten minste één maand rechtens zijn vrijheid is ontnomen, heeft, behoudens in de gevallen, bedoeld in de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) en in [artikel 37, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en de gevallen, bedoeld in hoofdstuk VIa, van de [Wet op de Jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming ten minste één maand heeft geduurd slechts aanspraak op studiefinanciering voor een thuiswonende studerende.   
+1.  Een studerende die voor ten minste één maand rechtens zijn vrijheid is ontnomen, heeft, behoudens in de gevallen, bedoeld in de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) en in [artikel 37, eerste lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en de gevallen, bedoeld in [hoofdstuk IVB, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming ten minste één maand heeft geduurd slechts aanspraak op studiefinanciering voor een thuiswonende studerende.   
 2.  Voor de toepassing van het eerste lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.   
 3.  Het eerste en tweede lid zijn niet van toepassing op bij algemene maatregel van bestuur aan te wijzen groepen van personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.   
 
@@ -471,8 +474,9 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 ####Collegegeldkrediet
 
 1.  Het collegegeldkrediet is een lening die aan de student op aanvraag wordt toegekend.   
-2.  Het bedrag dat per maand kan worden geleend bedraagt ten hoogste eentwaalfde deel van het volledige wettelijke collegegeld volgens het basistarief, bedoeld in [artikel 7.45, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Indien het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs hoger is dan het volledige wettelijke collegegeld volgens het basistarief, bedoeld in artikel 7.45, eerste lid, bedraagt het bedrag dat per maand kan worden geleend, in afwijking van de eerste volzin, ten hoogste eentwaalfde deel van het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs.   
-3.  Het collegegeldkrediet bedraagt per maand maximaal vijftwaalfde deel van het volledige wettelijke collegegeld volgens het basistarief, bedoeld in [artikel 7.45, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  Het bedrag dat per maand kan worden geleend bedraagt ten hoogste eentwaalfde deel van het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). Indien het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs hoger is dan het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste lid, bedraagt het bedrag dat per maand kan worden geleend, in afwijking van de eerste volzin, ten hoogste eentwaalfde deel van het door de student voor een periode van twaalf maanden te betalen bedrag voor het volgen van hoger onderwijs.   
+3.  Het collegegeldkrediet bedraagt per maand maximaal vijftwaalfde deel van het volledige wettelijke collegegeld, bedoeld in [artikel 7.45, eerste lid](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag, toekenning, betaling en andere uitvoeringsaspecten van het collegegeldkrediet.   
 
 ### Artikel  3.17  
 
@@ -486,7 +490,7 @@ a. een uitkering op grond van de [Wet werk en bijstand](../../../../../wet/wet/w
 
 b. de studiefinanciering verstrekt op grond van deze wet en voor zover in deze inkomsten begrepen, en  
 
-c. de belastbare winst uit onderneming, bedoeld in [artikel 3.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die in het kalenderjaar waarin de studerende zijn afsluitend examen behaalt, is verworven. Met dien verstande dat een studerende hier slechts eenmaal voor in aanmerking komt.     
+c. de belastbare winst uit onderneming, bedoeld in [artikel 3.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), die in het kalenderjaar waarin de studerende zijn afsluitend examen behaalt, is verworven, met dien verstande dat een studerende hier slechts eenmaal voor in aanmerking komt.     
 4.  Voor iedere maand dat een studerende een uitkering ontvangt in de zin van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), blijft daarvan een bedrag ter grootte van de maximale aanvullende beurs voor een thuiswonende deelnemer, bedoeld in artikel 3.18, buiten beschouwing.   
 5.  Bij de berekening van het meerinkomen blijft buiten beschouwing inkomen waarvan de studerende aantoont dat het is verworven over de periode in het kalenderjaar waarin hij zonder onderbreking geen studerende was in de zin van deze wet of waarin hij heeft afgezien van zijn aanspraak op studiefinanciering. Dit kan slechts de periode betreffen: 
 
@@ -627,11 +631,11 @@ b. in contacten met Onze Minister.
 
 ####Beëindiging reisrecht
 
-1.  De studerende is verplicht het reisproduct te verwijderen uiterlijk op de vijfde werkdag nadat: 
+1.  De studerende is verplicht het reisproduct stop te zetten uiterlijk op de vijfde werkdag nadat: 
 
 a. zijn aanspraak op reisrecht is beëindigd, of  
 
-b. zijn reisrecht op grond van artikel 3.7, tweede of derde lid, is vervangen door een reisvoorziening in de vorm van geld.     
+b. zijn reisproduct op grond van artikel 3.7, tweede of derde lid, is vervangen door een reisvoorziening in de vorm van geld.     
 2.  Bij het ten onrechte beschikken over een op een OV-chipkaart geladen reisproduct, is degene aan wie het reisrecht is toegekend aan Onze Minister een bedrag van € 97,00 per halve kalendermaand of een deel van een halve kalendermaand verschuldigd, ongeacht of gebruik is gemaakt van het reisrecht. De eerste helft van een kalendermaand loopt tot en met de vijftiende dag van een maand. De tweede helft loopt tot en met het einde van die maand.   
 3.  Het eerste lid is niet van toepassing op een periode waarin het niet tijdig beëindigen van het reisrecht aantoonbaar niet kan worden toegerekend aan degene aan wie het reisrecht is toegekend.   
 4.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze van beëindigen van het reisrecht, en kunnen nadere regels worden gesteld met betrekking tot de wijze waarop en het tijdstip waarvoor de niet-toerekenbaarheid, bedoeld in het derde lid, moet worden aangetoond.   
@@ -738,7 +742,7 @@ Deze paragraaf is uitsluitend van toepassing op deelnemers die in Nederland een 
 
 1.  In afwijking van artikel 4.7, eerste en tweede lid, wordt de studiefinanciering in de vorm van een reisvoorziening verstrekt in de vorm van een prestatiebeurs gedurende het in deze leden bedoelde aantal jaren, vermeerderd met 3 jaren. Indien artikel 4.12 is toegepast, wordt de uitkomst van de vorige volzin met 1 jaar vermeerderd.   
 2.  Het deel van de prestatiebeurs dat betrekking heeft op het recht op de reisvoorziening, is gelijk aan eentwaalfde deel van de waarde die daarvoor per studerende door het vervoerbedrijf aan Onze Minister in rekening wordt gebracht. De waarde wordt berekend door de voorlopige vergoeding voor het lopende kalenderjaar te corrigeren naar de correctie die de voorlopige vergoeding voor het voorafgaande kalenderjaar onderging. Dit deel van de prestatiebeurs wordt niet uitbetaald of verrekend.   
-3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet op een OV-chipkaart is geladen als bedoeld in artikel 3.26 of is beëindigd als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
+3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet op een OV-chipkaart is geladen als bedoeld in artikel 3.26 of is stopgezet als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
 
 ### Artikel  4.9  
 
@@ -891,9 +895,9 @@ Dit hoofdstuk is uitsluitend van toepassing op studenten die na 31 augustus 1996
 
 ####Vorm waarin reisvoorziening wordt verstrekt
 
-1.  Studiefinanciering in de vorm van een reisvoorziening wordt in de vorm van een prestatiebeurs verstrekt gedurende de periode bedoeld in artikel 5.2, eerste lid, vermeerderd met 1 jaar.   
+1.  Studiefinanciering in de vorm van een reisvoorziening wordt in de vorm van een prestatiebeurs verstrekt gedurende de periode, bedoeld in artikel 5.2, eerste lid, vermeerderd met 1 jaar.   
 2.  Het deel van de prestatiebeurs dat betrekking heeft op het recht op de reisvoorziening, is gelijk aan eentwaalfde deel van de waarde die daarvoor per studerende door het vervoerbedrijf aan Onze Minister in rekening wordt gebracht. De waarde wordt berekend door de voorlopige vergoeding voor het lopende kalenderjaar te corrigeren naar de correctie die de voorlopige vergoeding voor het tweede daaraan voorafgaande kalenderjaar onderging. Dit deel van de prestatiebeurs wordt niet uitbetaald of verrekend.   
-3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet op een OV-chipkaart is geladen als bedoeld in artikel 3.26 of is verwijderd als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
+3.  Indien de prestatiebeurs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet op een OV-chipkaart is geladen als bedoeld in artikel 3.26 of is stopgezet als bedoeld in artikel 3.27. In afwijking van artikel 1.2 is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in artikel 3.7, tweede of derde lid, is toegekend.   
 
 ### Artikel  5.5  
 
@@ -1367,7 +1371,7 @@ Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatr
 ####Gegevensuitwisseling met landen buiten de Europese Economische Ruimte
 
 1.  Onze Minister kan, overeenkomstig artikel 9.6b, gegevens, die bij haar bekend zijn als gevolg van de uitvoering van haar wettelijke taken, uitwisselen met een staat die geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte indien deze staat een passend beschermingsniveau als bedoeld in [artikel 76 van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) waarborgt.   
-2.  Voor gegevensuitwisseling als bedoeld in artikel 9.6b met een staat die geen passend beschermingsniveau kan waarborgen, kan Onze Minister een vergunning als bedoeld in [artikel 77, tweede lid, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) aanvragen bij Onze Minister van Justitie.   
+2.  Voor gegevensuitwisseling als bedoeld in artikel 9.6b met een staat die geen passend beschermingsniveau kan waarborgen, kan Onze Minister een vergunning als bedoeld in [artikel 77, tweede lid, van de Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) aanvragen bij Onze Minister van Veiligheid en Justitie.   
 
 ### Paragraaf  9.3  
 
@@ -1718,16 +1722,16 @@ Voor deelnemers die voor 1 augustus onderscheidenlijk voor studenten die voor 1 
 ####Afwijking van artikel 2.1 
 
 1.  In afwijking van artikel 2.1 regelt dit artikel het langstudeerderskrediet.   
-2.  Het langstudeerderskrediet is een lening die op aanvraag kan worden toegekend voor het studiejaar 2011–2012, 2012–2013 of 2013–2014. Het langstudeerderskrediet kan worden toegekend aan een iemand die: 
+2.  Het langstudeerderskrediet is een lening die op aanvraag kan worden toegekend voor het studiejaar 2011–2012 en 2012–2013. Het langstudeerderskrediet kan worden toegekend aan een iemand die: 
 
 a. voor 1 september 2011 aanspraak op studiefinanciering had;  
 
 b. op het moment van aanvraag geen aanspraak op studiefinanciering heeft; en  
 
-c. het verhoogde wettelijke collegegeld verschuldigd is op grond van [artikel 7.45b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
-3.  Het langstudeerderskrediet voor het desbetreffende studiejaar wordt in een keer uitgekeerd en bedraagt maximaal de hoogte van de opslag, bedoeld in [artikel 7.45, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+c. het verhoogde wettelijke collegegeld verschuldigd is op grond van [artikel 7.45b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) zoals dat luidde op 1 september 2011.     
+3.  Het langstudeerderskrediet voor het desbetreffende studiejaar wordt in een keer uitgekeerd en bedraagt maximaal de hoogte van de opslag, bedoeld in [artikel 7.45, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) zoals dat luidde op 1 september 2011.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de aanvraag, toekenning, betaling en andere uitvoeringsaspecten van het langstudeerderskrediet.   
-5.  Hoofdstuk 6 en 10a en de artikelen 7.1 en 7.3 zijn van overeenkomstige toepassing.   
+5.  Hoofdstuk 6 en 10a en de artikelen 7.1, 7.3 en 12.10a1 zijn van overeenkomstige toepassing.   
 
 ### Artikel  12.1aa  
 
@@ -1787,7 +1791,7 @@ Op de student die vóór 1 september 2010 voor het volgen van hoger onderwijs s
 
 ####Reeds toegekende reisvoorziening
 
-Op een student die een reisvoorziening als bedoeld in artikel 5.3, zoals dat artikel luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel Y, van deze Wijzigingswet van 12 juli 2012 toegekend heeft gekregen, blijft ten aanzien van deze toegekende reisvoorziening artikel 5.3 zoals dat artikel luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel Y, van deze Wijzigingswet van 12 juli 2012 van toepassing.  
+Op een student die een reisvoorziening als bedoeld in artikel 5.3, zoals dat artikel luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel Y, van de Wet van 12 juli 2012 tot wijziging van de Wet studiefinanciering 2000 in verband met het inkorten van het studentenreisrecht, het vervallen van de bijverdiengrens voor ondernemers in hun laatste studiejaar en het herstel van enkele technische onvolkomenheden (Stb. 2012, 368) toegekend heeft gekregen, blijft ten aanzien van deze toegekende reisvoorziening artikel 5.3, zoals dat artikel luidde voor het tijdstip van inwerkingtreding van artikel I, onderdeel Y, van deze Wijzigingswet van 12 juli 2012 van toepassing.  
 
 ### Artikel  12.10  
 
@@ -1820,14 +1824,20 @@ b. een opleiding met een studielast van 360 studiepunten gericht op een godsdien
 
 ####Afwijking van artikel 6.3 
 
-Het rentepercentage voor leningen aangegaan voor 1 januari 1992 is in afwijking van artikel 6.3, 1,65 procentpunt lager dan het in dat artikel bedoelde rentepercentage.  
+Het rentepercentage voor leningen aangegaan voor 1 januari 1992 is in afwijking van artikel 6.3, 1,65 procentpunt lager dan het in dat artikel bedoelde rentepercentage, en wordt, indien het rentepercentage, vastgesteld overeenkomstig artikel 6.3, 1,65 procent of lager bedraagt, gesteld op nul.  
+
+### Artikel  12.10a1  
+
+####langstudeerders geen rente verschuldigd
+
+In afwijking van artikel 6.4 wordt er geen rente berekend over collegegeldkrediet ten behoeve van de opslag, als bedoeld in [artikel 7.45, eerste lid van de WHW](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), zoals dat luidde op 1 september 2011, indien het daarvoor geleende bedrag vóór 1 maart 2013 wordt teruggestort.  
 
 ### Artikel  12.10b  
 
 ####Tijdelijke afwijking van artikel 11.1 
 
-1.  Artikel 11.1, eerste lid, is niet van toepassing in het kalenderjaar 2011, met uitzondering van hetgeen in dat artikellid is bepaald ten aanzien van de artikelen 3.4, tweede lid. en 3.9, derde lid.   
-2.  Artikel 11.1, eerste lid, is niet van toepassing in het kalenderjaar 2012, met uitzondering van hetgeen in dat artikellid is bepaald ten aanzien van de artikelen 3.4, tweede lid, 3.9, derde lid, en artikel 3.17, eerste lid.   
+1.  Artikel 11.1, eerste lid, is niet van toepassing in het kalenderjaar 2011, met uitzondering van hetgeen in dat artikellid is bepaald ten aanzien van de artikelen 3.4, tweede lid, en 3.9, derde lid.   
+2.  Artikel 11.1, eerste lid, is niet van toepassing in het kalenderjaar 2012, met uitzondering van hetgeen in dat artikellid is bepaald ten aanzien van de artikelen 3.4, tweede lid, 3.9, derde lid, en 3.17, eerste lid.   
 
 ### Artikel  12.11  
 
