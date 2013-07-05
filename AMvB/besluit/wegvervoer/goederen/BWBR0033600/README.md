@@ -24,7 +24,7 @@ b. de wijze waarop de vervoerder de bedrijfsvoering van de vervoeronderneming he
 
 c. het aantal aan een veroordeling of sanctie ten grondslag liggende overtredingen naar het oordeel van de NIWO niet in redelijke verhouding staat tot de omvang van de vervoeronderneming, gemeten naar het aantal gewaarmerkte afschriften van de vergunning van die onderneming.     
 3.  Onze Minister beslist over de in [artikel 2.8a, vijfde lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) bedoelde toestemming op grond van de in het tweede lid genoemde gronden.   
-4.  Voor een besluit als bedoeld in [artikel 2.8a, eerste lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) is in het geval, bedoeld in het eerste lid, geen toestemming van Onze Minister vereist.   
+4.  Voor een besluit als bedoeld in [artikel 2.8a, eerste lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) is in het geval, bedoeld in het eerste lid, geen toestemming van Onze Minister vereist.  
 
 ### Artikel  2  
 
@@ -38,11 +38,11 @@ b. de wijze waarop de vervoersmanager de bedrijfsvoering van een of meer vervoer
 c. het aantal aan een veroordeling of sanctie ten grondslag liggende overtredingen naar het oordeel van de NIWO niet in redelijke verhouding staat tot de omvang van de vervoeronderneming of vervoerondernemingen waarvoor hij als zodanig werkzaam is, gemeten naar het aantal gewaarmerkte afschriften van de vergunning van die onderneming of ondernemingen.     
 3.  Onze Minister beslist over de in [artikel 2.8a, vijfde lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) bedoelde toestemming op grond van de in het tweede lid genoemde gronden.   
 4.  Voor een besluit als bedoeld in [artikel 2.8a, tweede lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) is in het geval, bedoeld in het eerste lid, geen toestemming van Onze Minister vereist.   
-5.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien het gaat om de in artikel 1 bedoelde veroordelingen en sancties jegens de vervoerder waarvoor de vervoersmanager werkzaam is.   
+5.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien het gaat om de in artikel 1 bedoelde veroordelingen en sancties jegens de vervoerder waarvoor de vervoersmanager werkzaam is.  
 
 ### Artikel  3  
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van artikelen 1 en 2.  
+Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van artikelen 1 en 2. 
 
 ### Artikel  4  
 
@@ -52,27 +52,27 @@ a. het vervoer geschiedt in het kader van een publiek belang of maatschappelijk 
 
 b. het vervoer wordt verricht door een beperkt aantal gespecialiseerde bedrijven met gebruik van voorzieningen die niet bestemd zijn voor verrichten van vervoersactiviteiten, waarbij sprake is van een markt van beperkte omvang; of  
 
-c. voor het vervoer geldt op het tijdstip van inwerkingtreding van dit besluit reeds een vrijstelling.    
+c. voor het vervoer geldt op het tijdstip van inwerkingtreding van dit besluit reeds een vrijstelling.   
 
 ### Artikel  5  
 
-Wijzigt het Besluit personenvervoer 2000.   
+Wijzigt het Besluit personenvervoer 2000. 
 
 ### Artikel  6  
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.   
+Wijzigt het Besluit justitiële en strafvorderlijke gegevens. 
 
 ### Artikel  7  
 
-Wijzigt het Wijzigingsbesluit Besluit personenvervoer 2000, enz. (invoering boordcomputer taxi, afschaffing vergunning collectief personenvervoer, elektronisch vervoerbewijs).   
+Wijzigt het Wijzigingsbesluit Besluit personenvervoer 2000, enz. (invoering boordcomputer taxi, afschaffing vergunning collectief personenvervoer, elektronisch vervoerbewijs). 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit wegvervoer goederen.  
+Dit besluit wordt aangehaald als: Besluit wegvervoer goederen. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -80,10 +80,10 @@ Wassenaar
 14 juni 2013  
 Willem-Alexander  
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M.H. Schultz van Haegen-Maas Geesteranus   
 
 de *achtentwintigste* juni 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

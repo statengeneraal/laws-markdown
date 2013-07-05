@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit begroting en verantwoording provincies en gemeenten.   
+Wijzigt het Besluit begroting en verantwoording provincies en gemeenten.
 
 ### Artikel  II  
 
@@ -24,7 +24,7 @@ Wijzigt het Besluit begroting en verantwoording provincies en gemeenten.
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op het tijdstip waarop de wet van 28 maart 2013 tot wijziging van de Gemeentewet en de Provinciewet in verband met het aanpassen van enkele bepalingen inzake het financieel toezicht op gemeenten en provincies (Stb. 2013, 141) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de wet van 28 maart 2013 tot wijziging van de Gemeentewet en de Provinciewet in verband met het aanpassen van enkele bepalingen inzake het financieel toezicht op gemeenten en provincies (Stb. 2013, 141) in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,10 +32,10 @@ Wassenaar
 25 juni 2013  
 Willem-Alexander  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 R.H.A. Plasterk   
 
 de *achtentwintigste* juni 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

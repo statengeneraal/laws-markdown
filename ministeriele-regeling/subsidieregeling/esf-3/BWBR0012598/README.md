@@ -6,20 +6,20 @@ De Minister van Sociale Zaken en Werkgelegenheid;
 Gezien de Beschikking van de Europese Commissie, kenmerk C(2000)1127, d.d. 8 augustus 2000, waarbij aan Nederland voor de periode 2000-2006 gelden uit het Europees Sociaal Fonds zijn toegewezen ter verwezenlijking van maatregelen op het gebied van het arbeidsmarktbeleid en het beroepsonderwijs, binnen de kaders, als vastgelegd in het terzake door de Commissie goedgekeurde Enig Programmeringsdocument,
 
 Overwegende dat over de besteding van deze middelen nadere regels dienen te worden vastgesteld,
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 ####Definities
 
-In deze regeling wordt verstaan onder:   a. de minister:  de minister van Sociale Zaken en Werkgelegenheid;    b. begunstigde:  degene aan wie krachtens deze regeling projectsubsidie is verleend;    c. aanvraagtijdvak:  een door de minister vastgesteld tijdvak, als bedoeld in artikel 4, waarbinnen aanvragen om projectsubsidie kunnen worden ingediend;    d. project:  een samenhangend geheel van activiteiten met betrekking tot de in artikel 3, eerste lid, genoemde onderwerpen;    e. projectsubsidie:  de subsidie, als bedoeld in artikel 7;    f. aanvrager:  de aanvrager van projectsubsidie;    g. ESF3-Beleidskader:  een door de minister vastgesteld beleidskader voor nieuwe subsidie-aanvragen, als bedoeld in artikel 4, eerste lid, waarin de groep van subsidiegerechtigden, de omvang van de ter beschikking staande subsidiemiddelen alsmede de aan projecten te stellen eisen nader worden bepaald;    h. werkzoekende:  de persoon die als werkzoekende is geregistreerd bij de Centrale organisatie werk en inkomen, danwel anderszins een dienstbetrekking tracht te verwerven;    i. werkende:  de persoon die arbeid verricht als werknemer, dan wel als zelfstandige zonder personeel.     
+In deze regeling wordt verstaan onder: a.  de minister:   de minister van Sociale Zaken en Werkgelegenheid;  b.  begunstigde:   degene aan wie krachtens deze regeling projectsubsidie is verleend;  c.  aanvraagtijdvak:   een door de minister vastgesteld tijdvak, als bedoeld in artikel 4, waarbinnen aanvragen om projectsubsidie kunnen worden ingediend;  d.  project:   een samenhangend geheel van activiteiten met betrekking tot de in artikel 3, eerste lid, genoemde onderwerpen;  e. projectsubsidie:   de subsidie, als bedoeld in artikel 7;  f. aanvrager:   de aanvrager van projectsubsidie;  g. ESF3-Beleidskader:   een door de minister vastgesteld beleidskader voor nieuwe subsidie-aanvragen, als bedoeld in artikel 4, eerste lid, waarin de groep van subsidiegerechtigden, de omvang van de ter beschikking staande subsidiemiddelen alsmede de aan projecten te stellen eisen nader worden bepaald;   h.werkzoekende:de persoon die als werkzoekende is geregistreerd bij de Centrale organisatie werk en inkomen, danwel anderszins een dienstbetrekking tracht te verwerven;i.werkende:de persoon die arbeid verricht als werknemer, dan wel als zelfstandige zonder personeel. 
 
 ### Artikel  2  
 
 ####Inleidende bepaling
 
 1.  De minister verstrekt, overeenkomstig de regels van dit besluit, subsidie aan de nader krachtens dit besluit aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het programma Europees Sociaal Fonds Doelstelling 3.   
-2.  De Algemene Regeling SZW-subsidies is niet van toepassing op de subsidieverlening krachtens dit besluit.   
+2.  De [Algemene Regeling SZW-subsidies](../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is niet van toepassing op de subsidieverlening krachtens dit besluit.   
 
 ### Artikel  3  
 
@@ -37,7 +37,7 @@ b. inzetbaarheid beroepsbevolking onderscheiden naar:
 
 c. scholing van werkenden;  
 
-d. onderwerpen, subsidiabel onder toepassing van artikel 4, tweede lid, van de ESF- Verordening 1784/99;  
+d. onderwerpen, subsidiabel onder toepassing van artikel 4, tweede lid, van de ESF-Verordening 1784/99;  
 
 e. bestrijding voortijdig schoolverlaten;  
 
@@ -46,11 +46,11 @@ f. versterking beroepsbegeleidende leerweg;
 g. praktijk onderwijs en voortgezet speciaal onderwijs.     
 2.  Krachtens deze regeling wordt geen subsidie verleend voor projecten: 
 
-a. die zich richten op werkloos werkzoekenden die woonachtig zijn in de provincie Flevoland;  
+a.  die zich richten op werkloos werkzoekenden die woonachtig zijn in de provincie Flevoland; 
 
-b. die zich richten op de scholing van werkenden ten behoeve van ondernemingen die zijn gevestigd in de provincie Flevoland;  
+b.  die zich richten op de scholing van werkenden ten behoeve van ondernemingen die zijn gevestigd in de provincie Flevoland; 
 
-c. als bedoeld in het eerste lid, onderdeel b, onder 2e, of onderdelen e tot en met g, welke worden uitgevoerd in de provincie Flevoland, dan wel zich richten op aldaar woonachtige personen.     
+c. als bedoeld in het eerste lid, onderdeel b, onder 2e, of onderdelen e tot en met g, welke worden uitgevoerd in de provincie Flevoland, dan wel zich richten op aldaar woonachtige personen.   
 
 ### Artikel  4  
 
@@ -59,14 +59,14 @@ c. als bedoeld in het eerste lid, onderdeel b, onder 2e, of onderdelen e tot en 
 1.  De mogelijkheid tot het indienen van aanvragen om projectsubsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken, gelegen in de jaren 2001 t/m 2006. Indien deze mogelijkheid wordt geopend, wordt hiervan vooraf door de minister in de Nederlandse Staatscourant mededeling gedaan. In een gelijktijdig door de minister vastgesteld en bekend gemaakt ESF3-Beleidskader kunnen bedragen worden vastgesteld die ten hoogste voor de verschillende categorieën aanvragers en projecten ter beschikking zullen worden gesteld, en kunnen nadere eisen worden gesteld waaraan nieuwe aanvragers en projecten zullen moeten voldoen om voor subsidie in aanmerking te komen.   
 2.  De beleidskaders zullen zodanig worden vastgesteld, dat over de periode 2000-2006 20% van het totaal van de budgetten zal worden aangewend ten behoeve van activiteiten die ten gunste komen van deelnemers die woonachtig dan wel werkzaam zijn in doelstelling-2-gebieden, als omschreven in bijlage 3.   
 
-### Artikel  5  
+###Artikel 5 
 
 ####De aanvraag van projectsubsidie
 
-1.  Een aanvraag heeft steeds betrekking op één project, waarvan de gehele of gedeeltelijke uitvoering van de directe projectactiviteiten in ieder geval plaatsvindt in een periode van ten minste zes maanden na de datum van ontvangst van de aanvraag en de duur in ieder geval eindigt uiterlijk 31 december 2007.   
-2.  De aanvraag wordt ingediend onder gebruikmaking van een formulier dat daartoe door de minister ter beschikking wordt gesteld, en bevat in ieder geval een projectbeschrijving met bijbehorende begroting en financieringsplan.   
-3.  Indien de aanvrager voor de financiering van het te subsidiëren project middelen van een derde inzet, geschiedt dit op basis van een schriftelijke overeenkomst met, dan wel schriftelijke toezegging van die derde. In de overeenkomst of toezegging wordt de bijdrage die door die derde wordt verschaft vastgelegd, alsmede de voorwaarden waaronder deze ter beschikking wordt gesteld. De aanvrager verstrekt op verzoek van de minister een afschrift van de overeenkomst of toezegging.   
-4.  Op de aanvraag wordt uiterlijk 12 weken na ontvangst beschikt.   
+1. Een aanvraag heeft steeds betrekking op één project, waarvan de gehele of gedeeltelijke uitvoering van de directe projectactiviteiten in ieder geval plaatsvindt in een periode van ten minste zes maanden na de datum van ontvangst van de aanvraag en de duur in ieder geval eindigt uiterlijk 31 december 2007.
+2. De aanvraag wordt ingediend onder gebruikmaking van een formulier dat daartoe door de minister ter beschikking wordt gesteld, en bevat in ieder geval een projectbeschrijving met bijbehorende begroting en financieringsplan.
+3. Indien de aanvrager voor de financiering van het te subsidiëren project middelen van een derde inzet, geschiedt dit op basis van een schriftelijke overeenkomst met, dan wel schriftelijke toezegging van die derde. In de overeenkomst of toezegging wordt de bijdrage die door die derde wordt verschaft vastgelegd, alsmede de voorwaarden waaronder deze ter beschikking wordt gesteld. De aanvrager verstrekt op verzoek van de minister een afschrift van de overeenkomst of toezegging.
+4. Op de aanvraag wordt uiterlijk 12 weken na ontvangst beschikt. 
 
 ### Artikel  6  
 
@@ -74,17 +74,17 @@ c. als bedoeld in het eerste lid, onderdeel b, onder 2e, of onderdelen e tot en 
 
 Een projectsubsidie-aanvraag wordt afgewezen: 
 
-a. indien de aanvraag of het voor subsidie aangemelde project niet voldoet aan de bij en krachtens deze regeling gestelde eisen;  
+a.  indien de aanvraag of het voor subsidie aangemelde project niet voldoet aan de bij en krachtens deze regeling gestelde eisen; 
 
-b. indien onvoldoende zekerheid bestaat dat de projectadministratie van de aanvrager aan de in artikel 11 gestelde eisen zal voldoen;  
+b.  indien onvoldoende zekerheid bestaat dat de projectadministratie van de aanvrager aan de in artikel 11 gestelde eisen zal voldoen; 
 
-c. indien onvoldoende zekerheid bestaat over de financiering van de totale noodzakelijkerwijs ten behoeve van de uitvoering van het project te maken kosten;  
+c.  indien onvoldoende zekerheid bestaat over de financiering van de totale noodzakelijkerwijs ten behoeve van de uitvoering van het project te maken kosten; 
 
-d. indien de kosten van het project niet in een redelijke verhouding staan tot de daarvan te verwachten resultaten;  
+d.  indien de kosten van het project niet in een redelijke verhouding staan tot de daarvan te verwachten resultaten; 
 
-e. indien door subsidieverlening het in het toepasselijke ESF3-Beleidskader aangegeven subsidieplafond zou worden overschreden;  
+e.  indien door subsidieverlening het in het toepasselijke ESF3-Beleidskader aangegeven subsidieplafond zou worden overschreden; 
 
-f. indien het project reeds uit anderen hoofde wordt gefinancierd ten laste van Europese subsidieprogramma's.    
+f.  indien het project reeds uit anderen hoofde wordt gefinancierd ten laste van Europese subsidieprogramma's.   
 
 ### Artikel  7  
 
@@ -100,27 +100,27 @@ f. indien het project reeds uit anderen hoofde wordt gefinancierd ten laste van 
 
 1.  De subsidie bedraagt 50% van de subsidiabele kosten, doch ten hoogste het maximumbedrag dat is vastgesteld in de beschikking tot subsidieverlening.   
 2.  In afwijking van het eerste lid bedraagt de subsidie voor projecten, als bedoeld in artikel 3, eerste lid onder d, 100% van de subsidiabele kosten, doch ten hoogste het maximumbedrag dat is vastgesteld in de beschikking tot subsidieverlening.   
-3.  In geval de begunstigde krachtens een in artikel 5, derde lid, bedoelde overeenkomst of toezegging jegens derden terzake van de uitvoering van het gesubsidieerde project aanspraak heeft op betaling van een bedrag dat meer bedraagt dan 50% van de subsidiabele kosten, dan wel de begunstigde bij zijn aanvraag een schriftelijke toezegging heeft gedaan dat hij meer dan 50% van de subsidiabele kosten voor eigen rekening zal nemen, wordt de subsidie verlaagd met dit meerdere.   
+3.   In geval de begunstigde krachtens een in artikel 5, derde lid, bedoelde overeenkomst of toezegging jegens derden terzake van de uitvoering van het gesubsidieerde project aanspraak heeft op betaling van een bedrag dat meer bedraagt dan 50% van de subsidiabele kosten, dan wel de begunstigde bij zijn aanvraag een schriftelijke toezegging heeft gedaan dat hij meer dan 50% van de subsidiabele kosten voor eigen rekening zal nemen, wordt de subsidie verlaagd met dit meerdere.  
 
-### Artikel  9  
+###Artikel 9 
 
 ####Subsidiabele kosten
 
-1.  Uitsluitend de kosten die door of op verzoek van de begunstigde daadwerkelijk zijn gemaakt, die ten laste van de begunstigde zijn gebleven en die voor de voorbereiding, uitvoering en evaluatie van het project noodzakelijk moeten worden geacht, komen voor subsidiëring in aanmerking. Hierbij wordt verordening(EG)1685/2000 in acht genomen.   
-2.  Als projectkosten blijven buiten beschouwing: 
+1. Uitsluitend de kosten die door of op verzoek van de begunstigde daadwerkelijk zijn gemaakt, die ten laste van de begunstigde zijn gebleven en die voor de voorbereiding, uitvoering en evaluatie van het project noodzakelijk moeten worden geacht, komen voor subsidiëring in aanmerking. Hierbij wordt verordening(EG)1685/2000 in acht genomen.
+2. Als projectkosten blijven buiten beschouwing:
 
-a. kosten die meer dan zes maanden voor de aanvang van het project zijn gemaakt ten behoeve van de voorbereiding van dat project;  
+a.kosten die meer dan zes maanden voor de aanvang van het project zijn gemaakt ten behoeve van de voorbereiding van dat project;
 
-b. kosten die meer dan zes maanden voor de datum van ontvangst van de aanvraag van projectsubsidie voor het project zijn gemaakt ten behoeve van de uitvoering van dat project;  
+b.kosten die meer dan zes maanden voor de datum van ontvangst van de aanvraag van projectsubsidie voor het project zijn gemaakt ten behoeve van de uitvoering van dat project;
 
-c. de kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;  
+c. de kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;
 
-d. de loonkosten van werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de Wet werk en bijstand de Wet inschakeling werkzoekenden of het Besluit in- of doorstroombanen;  
+d. de loonkosten van werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) de [Wet inschakeling werkzoekenden](../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) of het [Besluit in- of doorstroombanen](../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md);
 
-e. kosten van adviseurs, uitvoerders en onderuitvoerders die zijn bepaald als percentage van de totale kosten van het project, of als percentage van de te ontvangen projectsubsidie;  
+e. kosten van adviseurs, uitvoerders en onderuitvoerders die zijn bepaald als percentage van de totale kosten van het project, of als percentage van de te ontvangen projectsubsidie;
 
-f. in het kader van een project als bedoeld in artikel 3, eerste lid, onderdeel c, de loonkosten van een persoon die in het kader van de Wet sociale werkvoorziening een dienstverband met de gemeente dan wel met een reguliere werkgever heeft.     
-3.  Indien een project wordt uitgevoerd ten behoeve van wel en niet tot de doelgroepen behorende deelnemers, dan worden de kosten naar verhouding, en op grond van een controleerbare berekening, toegerekend aan de onderscheiden deelnemers.   
+f.in het kader van een project als bedoeld in artikel 3, eerste lid, onderdeel c, de loonkosten van een persoon die in het kader van de [Wet sociale werkvoorziening](../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) een dienstverband met de gemeente dan wel met een reguliere werkgever heeft.
+3. Indien een project wordt uitgevoerd ten behoeve van wel en niet tot de doelgroepen behorende deelnemers, dan worden de kosten naar verhouding, en op grond van een controleerbare berekening, toegerekend aan de onderscheiden deelnemers.
 
 ### Artikel  10  
 
@@ -129,9 +129,9 @@ f. in het kader van een project als bedoeld in artikel 3, eerste lid, onderdeel 
 1.  Aan de begunstigde worden, op diens verzoek, voorschotten op de projectsubsidie uitbetaald.   
 2.  Voorschotbetalingen zullen als volgt worden gedaan: 
 
-a. Een eerste voorschot, ten bedrage van 30% van het maximaal toegekende subsidiebedrag, wordt direct uitbetaald nadat van de begunstigde bericht is ontvangen dat de uitvoering van het project waarvoor de subsidie werd toegekend is aangevangen;  
+a.  Een eerste voorschot, ten bedrage van 30% van het maximaal toegekende subsidiebedrag, wordt direct uitbetaald nadat van de begunstigde bericht is ontvangen dat de uitvoering van het project waarvoor de subsidie werd toegekend is aangevangen; 
 
-b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten hoogste 80% van het maximaal verleende subsidiebedrag, kunnen op verzoek worden verstrekt, voor zover door middel van tussentijdse rapportages is aangetoond dat verdere bevoorschotting noodzakelijk is.     
+b.  verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten hoogste 80% van het maximaal verleende subsidiebedrag, kunnen op verzoek worden verstrekt, voor zover door middel van tussentijdse rapportages is aangetoond dat verdere bevoorschotting noodzakelijk is.    
 3.  Alvorens een voorschot, als bedoeld in het tweede lid onder b, te verlenen kan de minister van de aanvrager verlangen dat de tussentijdse rapportage wordt voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek. Een dergelijk voorschot wordt niet verleend indien de realisatie van het project achterblijft bij de ramingen, als vervat in de bij de subsidie-aanvraag gevoegde projectbeschrijving, of wanneer er twijfel is aan een correcte uitvoering van het project.   
 
 ### Artikel  11  
@@ -161,7 +161,7 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 
 1.  De begunstigde dient binnen drie maanden na beëindiging van het project, doch uiterlijk 31 maart 2008, een verzoek in om vaststelling van het subsidiebedrag waarop aanspraak bestaat.   
 2.  Het verzoek wordt ingediend onder gebruikmaking van een formulier dat door de minister ter beschikking wordt gesteld, en bevat een eindrapportage en een declaratie van de gemaakte kosten, als bedoeld in artikel 9.   
-3.  De einddeclaratie is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek, overeenkomstig het als bijlage 2 bij dit besluit opgenomen model.   
+3.  De einddeclaratie is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), overeenkomstig het als bijlage 2 bij dit besluit opgenomen model.   
 4.  De hoogte van het vastgestelde subsidiebedrag wordt uiterlijk drie maanden na de datum van indiening van het in het eerste lid bedoelde verzoek door de minister schriftelijk medegedeeld aan de begunstigde.   
 
 ### Artikel  14  
@@ -177,13 +177,13 @@ b. verdere voorschotten, waarbij het eerste voorschot wordt aangevuld tot ten ho
 
 1.  Een beschikking tot verlening van projectsubsidie kan geheel of gedeeltelijk worden ingetrokken, en de op basis daarvan uitbetaalde bedragen kunnen worden teruggevorderd: 
 
-a. indien de begunstigde bij zijn aanvraag onjuiste of onvolledige informatie heeft verstrekt, en de subsidie bij juiste of volledige informatie niet, dan wel tot een lager bedrag zou zijn verleend,  
+a.  indien de begunstigde bij zijn aanvraag onjuiste of onvolledige informatie heeft verstrekt, en de subsidie bij juiste of volledige informatie niet, dan wel tot een lager bedrag zou zijn verleend, 
 
-b. in geval het project wordt uitgevoerd in afwijking van de bij de aanvraag gevoegde projectbeschrijving, voor zover de subsidieverlening daarop was gebaseerd,  
+b.  in geval het project wordt uitgevoerd in afwijking van de bij de aanvraag gevoegde projectbeschrijving, voor zover de subsidieverlening daarop was gebaseerd, 
 
-c. indien de doelstellingen van het project ten gevolge van nalatigheid van de begunstigde niet of slechts ten dele worden gerealiseerd, of  
+c.  indien de doelstellingen van het project ten gevolge van nalatigheid van de begunstigde niet of slechts ten dele worden gerealiseerd, of 
 
-d. indien de begunstigde een der voorschriften, vervat in de artikelen 11, 12, 13 of 14 niet naleeft.     
+d.  indien de begunstigde een der voorschriften, vervat in de artikelen 11, 12, 13 of 14 niet naleeft.    
 2.  Intrekking en terugvordering krachtens het eerste lid, onder b, vindt niet plaats, indien de afwijking vooraf aan de minister is voorgelegd, en deze daarmee schriftelijk heeft ingestemd.   
 
 ### Artikel  16  
@@ -196,287 +196,287 @@ Aanvragen tot bekostiging van projecten met ESF-middelen, ingediend vanuit enig 
 
 1.  Deze regeling wordt in de Nederlandse Staatscourant bekendgemaakt.   
 2.  Deze regeling treedt in werking met ingang van de dag na die van haar bekendmaking.   
-3.  Deze regeling kan worden aangehaald als: Subsidieregeling ESF-3   
+3.  Deze regeling kan worden aangehaald als: [Subsidieregeling ESF-3](../../../../ministeriele-regeling/subsidieregeling/esf-3/BWBR0012598/README.md)  
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-W.A.Vermeend   
+W.A. Vermeend     
 
-### Bijlage  1  
+###Bijlage 1 
 
-####bedoeld in artikel 11, zesde lid , van de Subsidieregeling ESF-3,
+####bedoeld in artikel 11, zesde lid , van de Subsidieregeling ESF-3, 
 
-bij Subsidieregeling ESF-3 door begunstigde ten behoeve van evaluatie vast te leggen gegevens  
+bij Subsidieregeling ESF-3 door begunstigde ten behoeve van evaluatie vast te leggen gegevens 
 
-De door de begunstigde ten behoeve van evaluatie vast te leggen gegevens omvatten in ieder geval met betrekking tot: 
+De door de begunstigde ten behoeve van evaluatie vast te leggen gegevens omvatten in ieder geval met betrekking tot:
 
-a. Activerend arbeidsmarktbeleid voor werkzoekenden en arbeidsgehandicapten: (bedoeld in artikel 3, eerste lid, onderdeel a, van de Subsidieregeling ESF-3) 
+a.Activerend arbeidsmarktbeleid voor werkzoekenden en arbeidsgehandicapten:(bedoeld in artikel 3, eerste lid, onderdeel a, van de Subsidieregeling ESF-3)
 
-* identificerend kenmerk project 
+*identificerend kenmerk project
 
-– door de minister toegekend projectnummer;  
+–door de minister toegekend projectnummer;
 
-– verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project, de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;    
+–verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project, de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;
 
-* identificerend kenmerk deelnemers 
+*identificerend kenmerk deelnemers
 
-– naam, adres, postcode, woonplaats;    
+–naam, adres, postcode, woonplaats;
 
-* persoongegevens deelnemers 
+*persoongegevens deelnemers
 
-– geboortedatum;  
+–geboortedatum;
 
-– geslacht;  
+–geslacht;
 
-– al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);  
+–al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);
 
-– fase-indeling (onbekend; fase 1, 2, 3 of 4 danwel fase A of B; fase nog nader te bepalen);    
+–fase-indeling (onbekend; fase 1, 2, 3 of 4 danwel fase A of B; fase nog nader te bepalen);
 
-* ingangsdatum uitkering  
+*ingangsdatum uitkering
 
-* aard van het ingezette (vanuit ESF-gelden bekostigde) trajectinstrument  
+* aard van het ingezette (vanuit ESF-gelden bekostigde) trajectinstrument
 
-* duur van de toepassing van het trajectinstrument 
+* duur van de toepassing van het trajectinstrument
 
-– startdatum toepassing;  
+–startdatum toepassing;
 
-– einddatum toepassing;      
+–einddatum toepassing;
 
-b. Inzetbaarheid beroepsbevolking: (bedoeld in artikel 3, eerste lid, onderdeel b, van de Subsidieregeling ESF-3)  *1e Preventie instroom in arbeidsongeschiktheid en verbetering arbeidsomstandigheden*  
+b.Inzetbaarheid beroepsbevolking:(bedoeld in artikel 3, eerste lid, onderdeel b, van de Subsidieregeling ESF-3)*1e Preventie instroom in arbeidsongeschiktheid en verbetering arbeidsomstandigheden*
 
-* identificerend kenmerk project 
+*identificerend kenmerk project
 
-– door de minister toegekend projectnummer;  
+–door de minister toegekend projectnummer;
 
-– verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project (onderscheiden in a. werkende zonder startkwalificatie, b. opscholing van werknemers, en c. sectoroverschrijdende scholing), de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;    
+–verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project (onderscheiden in a. werkende zonder startkwalificatie, b. opscholing van werknemers, en c. sectoroverschrijdende scholing), de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;
 
-* identificerend kenmerk deelnemers 
+*identificerend kenmerk deelnemers
 
-–  naam, adres, postcode, woonplaats;    
+– naam, adres, postcode, woonplaats;
 
-* persoongegevens deelnemers 
+* persoongegevens deelnemers
 
-– geboortedatum;  
+–geboortedatum;
 
-– geslacht;  
+–geslacht;
 
-– al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);    
+–al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);
 
-* bedrijfstak 
+*bedrijfstak
 
-–  2-cijferige SBI-codering CBS;    
+– 2-cijferige SBI-codering CBS;
 
-* omvang bedrijf 
+*omvang bedrijf
 
-– al dan niet 250 naar full-time werkweek herleiden werknemers die werkzaam zijn bij de juridische eenheid;    
+–al dan niet 250 naar full-time werkweek herleiden werknemers die werkzaam zijn bij de juridische eenheid;
 
-* opleidingsniveau vóór toepassing maatregel 
+*opleidingsniveau vóór toepassing maatregel
 
-– conform indeling Wet educatie en beroepsonderwijs;  
+–conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
 
-– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;    
+–conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
 
-* opleidingsniveau na toepassing maatregel 
+*opleidingsniveau na toepassing maatregel
 
-– al dan niet afronding opleiding;  
+–al dan niet afronding opleiding;
 
-– conform indeling Wet educatie en beroepsonderwijs;  
+–conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
 
-– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
+–conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
 
-– al dan niet EVC;    
+–al dan niet EVC;
 
-* beschrijving van de oorzaken voor risico’s op verzuim/arbeidsrisico’s en welke preventieve maatregelen daarop genomen worden. (Bijvoorbeeld: veel beeldschermwerk onder hoge tijdsdruk kan leiden tot RSI-verschijnselen. Een RSI-consulent is aangesteld en geschoold in het herkennen van belastende arbeidsomstandigheden.)    *2e Vergemakkelijken van de combinatie arbeid en zorg*  
+*beschrijving van de oorzaken voor risico’s op verzuim/arbeidsrisico’s en welke preventieve maatregelen daarop genomen worden. (Bijvoorbeeld: veel beeldschermwerk onder hoge tijdsdruk kan leiden tot RSI-verschijnselen. Een RSI-consulent is aangesteld en geschoold in het herkennen van belastende arbeidsomstandigheden.)*2e Vergemakkelijken van de combinatie arbeid en zorg*
 
-* identificerend kenmerk project 
+*identificerend kenmerk project
 
-– door de minister toegekend projectnummer;  
+–door de minister toegekend projectnummer;
 
-– verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project, de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;    
+–verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project, de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;
 
-* identificerend kenmerk deelnemers (indien van toepassing) 
+*identificerend kenmerk deelnemers (indien van toepassing)
 
-– naam, adres, postcode, woonplaats;    
+–naam, adres, postcode, woonplaats;
 
-* persoongegevens deelnemers (indien van toepassing) 
+*persoongegevens deelnemers (indien van toepassing)
 
-– geboortedatum;  
+–geboortedatum;
 
-– geslacht;  
+–geslacht;
 
-– al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);    
+–al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);
 
-* combinatiefuncties 
+*combinatiefuncties
 
-– gerealiseerd aantal combinatiefuncties;  
+–gerealiseerd aantal combinatiefuncties;
 
-– functiebeschrijving;  
+–functiebeschrijving;
 
-– duur van de functie;  
+–duur van de functie;
 
-– indien personeel op combinatiefuncties geschoold wordt, zie dan gegevens conform c. scholing van werkenden;    
+–indien personeel op combinatiefuncties geschoold wordt, zie dan gegevens conform c. scholing van werkenden;
 
-* dagarrangementen 
+*dagarrangementen
 
-– beschrijving van de projecten en de resultaten.      
+–beschrijving van de projecten en de resultaten.
 
-c. scholing van werkenden: (bedoeld in artikel 3, eerste lid, onderdeel c, van de Subsidieregeling ESF-3) 
+c.scholing van werkenden:(bedoeld in artikel 3, eerste lid, onderdeel c, van de Subsidieregeling ESF-3)
 
-* identificerend kenmerk project 
+*identificerend kenmerk project
 
-– door de minister toegekend projectnummer;  
+–door de minister toegekend projectnummer;
 
-– verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project (onderscheiden in a. werkende zonder startkwalificatie, b. opscholing van werknemers, en c. sectoroverschrijdende scholing), de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;    
+–verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project (onderscheiden in a. werkende zonder startkwalificatie, b. opscholing van werknemers, en c. sectoroverschrijdende scholing), de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;
 
-* identificerend kenmerk deelnemers 
+*identificerend kenmerk deelnemers
 
-– naam, adres, postcode, woonplaats;    
+–naam, adres, postcode, woonplaats;
 
-* persoongegevens deelnemers 
+*persoongegevens deelnemers
 
-– geboortedatum;  
+–geboortedatum;
 
-– geslacht;  
+–geslacht;
 
-– al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);    
+–al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);
 
-* bedrijfstak 
+*bedrijfstak
 
-– 2-cijferige SBI-codering CBS;    
+–2-cijferige SBI-codering CBS;
 
-* omvang bedrijf 
+*omvang bedrijf
 
-– al dan niet 250 naar full-time werkweek herleiden werknemers die werkzaam zijn bij de juridische eenheid;    
+–al dan niet 250 naar full-time werkweek herleiden werknemers die werkzaam zijn bij de juridische eenheid;
 
-* opleidingsniveau vóór toepassing maatregel 
+*opleidingsniveau vóór toepassing maatregel
 
-– conform indeling Wet educatie en beroepsonderwijs;  
+–conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
 
-– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;    
+–conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
 
-* opleidingsniveau na toepassing maatregel 
+*opleidingsniveau na toepassing maatregel
 
-– al dan niet afronding opleiding;  
+–al dan niet afronding opleiding;
 
-– conform indeling Wet educatie en beroepsonderwijs;  
+–conform indeling [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
 
-– conform de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
+–conform de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
 
-– al dan niet EVC;    
+–al dan niet EVC;
 
-* omschrijving outplacementtraject (indien van toepassing);  
+*omschrijving outplacementtraject (indien van toepassing);
 
-* omschrijving toegepast instrument ter ontwikkeling van loopbaanadvisering, bedrijfsopleidingsplan of persoonlijk opleidingsplan (indien van toepassing).    
+* omschrijving toegepast instrument ter ontwikkeling van loopbaanadvisering, bedrijfsopleidingsplan of persoonlijk opleidingsplan (indien van toepassing).
 
-d. Artikel 4, tweede lid van de ESF- verordening 1784/99: (bedoeld in artikel 3, eerste lid, onderdeel d, van de Subsidieregeling ESF-3) 
+d.Artikel 4, tweede lid van de ESF-verordening 1784/99:(bedoeld in artikel 3, eerste lid, onderdeel d, van de Subsidieregeling ESF-3)
 
-* identificerend kenmerk project 
+*identificerend kenmerk project
 
-– door de minister toegekend projectnummer;  
+–door de minister toegekend projectnummer;
 
-– verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project, de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;    
+–verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project, de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;
 
-* omschrijving van (specifieke aard van) projectaanpak en resultaten   Indien van toepassing: 
+*omschrijving van (specifieke aard van) projectaanpak en resultaten Indien van toepassing:
 
-* identificerend kenmerk deelnemers 
+*identificerend kenmerk deelnemers
 
-– naam, adres, postcode, woonplaats;    
+–naam, adres, postcode, woonplaats;
 
-* persoongegevens deelnemers 
+*persoongegevens deelnemers
 
-– geboortedatum;  
+–geboortedatum;
 
-– geslacht;  
+–geslacht;
 
-– al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);  
+–al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);
 
-– fase-indeling (onbekend; fase 1, 2, 3 of 4, danwel fase A of B; fase nog nader te bepalen);    
+–fase-indeling (onbekend; fase 1, 2, 3 of 4, danwel fase A of B; fase nog nader te bepalen);
 
-* ingangsdatum uitkering  
+*ingangsdatum uitkering
 
-* aard van het ingezette (vanuit ESF-gelden bekostigde) trajectinstrument  
+* aard van het ingezette (vanuit ESF-gelden bekostigde) trajectinstrument
 
-* duur van de toepassing van het trajectinstrument 
+* duur van de toepassing van het trajectinstrument
 
-– startdatum toepassing;  
+–startdatum toepassing;
 
-– einddatum toepassing;      
+–einddatum toepassing;
 
-e. Bestrijding voortijdig schoolverlaten (bedoeld in artikel 3, eerste lid, onderdeel e, van de Subsidieregeling ESF-3); of  
+e.Bestrijding voortijdig schoolverlaten(bedoeld in artikel 3, eerste lid, onderdeel e, van de Subsidieregeling ESF-3); of
 
-f. Versterking beroepsbegeleidende leerweg: (bedoeld in artikel 3, eerste lid, onderdeel f, van de Subsidieregeling ESF-3); of  
+f.Versterking beroepsbegeleidende leerweg:(bedoeld in artikel 3, eerste lid, onderdeel f, van de Subsidieregeling ESF-3); of
 
-g. Praktijkonderwijs en voortgezet speciaal onderwijs: (bedoeld in artikel 3, eerste lid, onderdeel g, van de Subsidieregeling ESF-3) 
+g.Praktijkonderwijs en voortgezet speciaal onderwijs:(bedoeld in artikel 3, eerste lid, onderdeel g, van de Subsidieregeling ESF-3)
 
-* identificerend kenmerk project 
+*identificerend kenmerk project
 
-– door de minister toegekend projectnummer;  
+–door de minister toegekend projectnummer;
 
-– verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project (onderscheiden in bestrijding van voortijdig schoolverlaten, versterking van beroepsbegeleidende leerweg, praktijkonderwijs en voortgezet speciaal onderwijs) de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;    
+–verondersteld wordt dat dit kenmerk een zodanige koppeling met de projectadministratie mogelijk maakt, dat gegevens kunnen worden toegevoegd over de aard van het project (onderscheiden in bestrijding van voortijdig schoolverlaten, versterking van beroepsbegeleidende leerweg, praktijkonderwijs en voortgezet speciaal onderwijs) de – gemiddelde – kosten per deelnemer, de aanvragende en uitvoerende organisaties en dergelijke;
 
-* identificerend kenmerk deelnemers 
+*identificerend kenmerk deelnemers
 
-– naam, adres, postcode, woonplaats;    
+–naam, adres, postcode, woonplaats;
 
-* persoongegevens deelnemers 
+*persoongegevens deelnemers
 
-– geboortedatum;  
+–geboortedatum;
 
-– geslacht;  
+–geslacht;
 
-– al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);    
+–al dan niet woonachtig doelstelling 2 gebied (koppeling met postcode);
 
-* opleidingsniveau vóór en na toepassing van de maatregel 
+*opleidingsniveau vóór en na toepassing van de maatregel
 
-– BBL en VSV: aantal behaalde deelkwalificatie(s), conform Wet educatie beroepsonderwijs;  
+–BBL en VSV: aantal behaalde deelkwalificatie(s), conform [Wet educatie beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
 
-– praktijkonderwijs en voortgezet speciaal onderwijs: aantal plaatsingen op de arbeidsmarkt.       
+–praktijkonderwijs en voortgezet speciaal onderwijs: aantal plaatsingen op de arbeidsmarkt.
 
-### Bijlage  2  
+### Bijlage 2  
 
-####bij Subsidieregeling ESF3: Controleprotocol (art.13, derde lid )
+####bij Subsidieregeling ESF3: Controleprotocol ( art.13, derde lid )
 
-### 1  
+###1  
 
 ####Algemeen
 
-### 1.1  
+###1.1  
 
-#### *Doel en reikwijdte van het controleprotocol* 
+####*Doel en reikwijdte van het controleprotocol*
 
 Dit controleprotocol geeft nadere aanwijzingen en een toelichting op de door de accountants uit te voeren controlewerkzaamheden in het kader van de activiteiten, die mede gefinancierd zijn uit het Europees Sociaal Fonds, Doelstelling 3 (2000-2006). Dit controleprotocol is geen werkprogramma. De accountant belast met de controle van de einddeclaratie (artikel 13 lid 3) of een tussentijdse rapportage (artikel 10 lid 3) dient zorg te dragen voor een op de situatie toegesneden werkprogramma, waarbij aan de specifieke AO-kenmerken van een project, alsmede aan de controletolerantie, voldoende aandacht wordt geschonken. De wijze waarop het Ministerie van Sociale Zaken en Werkgelegenheid (SZW) toezicht uitoefent op de uitvoering van ESF-projecten is beschreven in een controle- en toezichtsplan (Auditfilosofie Agentschap SZW). In dit plan worden de verantwoordelijkheden van de diverse partijen die bij de uitvoering van ESF-projecten zijn betrokken (waaronder de externe accountant) nader uitgewerkt.  
 
-### 1.2  
+###1.2  
 
-#### *Doel en reikwijdte van de accountantscontrole* 
+####*Doel en reikwijdte van de accountantscontrole*
 
 In het kader van de controle op de uitvoering van de Subsidieregeling ESF-3 dient de einddeclaratie voorzien te zijn van een verklaring van een accountant (artikel 13, lid 3). De einddeclaratie en de daarbij afgegeven accountantsverklaring zijn voor SZW de basis voor het vaststellen van de definitieve subsidie. Op grond van artikel 10 lid 3 kan SZW ook verlangen dat een tussentijdse rapportage van een accountantsverklaring wordt voorzien. De tussentijdse rapportage en de daarbij afgegeven accountantsverklaring zijn voor SZW dan de basis voor het vaststellen van een voorschot. Daar waar in de vorige alinea wordt gesproken over einddeclaratie/tussentijdse rapportage wordt bedoeld de einddeclaratie/tussentijdse rapportage op projectniveau. De einddeclaratie/tussentijdse rapportage is een financiële verantwoording bij een subsidie-afrekening/voorschotverzoek. De uitkomst van de werkzaamheden van de accountant is derhalve een accountantsverklaring. Deze accountantsverklaring geeft zowel een oordeel over de juistheid van de einddeclaratie/tussentijdse rapportage, alsmede over de rechtmatigheid hiervan. Het is van essentieel belang dat de strekking van de accountantsverklaring duidelijk is en dat de eventueel geconstateerde problemen goed worden weergegeven. De geconstateerde bevindingen worden door de accountant opgenomen in een rapport van bevindingen. Het gaat bij de accountantscontrole van een ESF-subsidiedeclaratie primair om vast te stellen, in hoeverre de indiener van de declaratie de regeling heeft nageleefd. Dit aspect van de controle dient de accountant zelf op toereikende wijze in zijn werkprogramma op te nemen. Niet voldoende controleerbare bedragen dienen eveneens uit de declaratie te worden verwijderd. Voor de accountantsverklaring heeft SZW modellen ontwikkeld. Deze modellen zijn als bijlage bij dit protocol opgenomen.  
 
-### 1.3  
+###1.3  
 
-#### *Materialiteit en correcties* 
+####*Materialiteit en correcties*
 
-De controle dient dusdanig te worden opgezet, dat daarmee wordt voldaan aan de materialiteitseis van de Rijksoverheid. Dit houdt in, dat alle fouten groter dan 1 procent van het projectbedrag dienen te worden vastgesteld. Uiteraard geldt voor de accountant het axiomatische voorbehoud. Teneinde een goedkeurende verklaring af te kunnen geven is het noodzakelijk dat alle geconstateerde fouten in de einddeclaratie / tussentijdse rapportage worden gecorrigeerd. Indien een correctie niet of niet afdoende wordt aangebracht dient dit tot uitdrukking te worden gebracht door middel van het verstrekken van een niet goedkeurende accountantsverklaring (afkeurende verklaring of verklaring met beperking). In het rapport van bevindingen dienen de geconstateerde, niet gecorrigeerde, fouten of voor de accountant niet controleerbare posten, nader te worden geanalyseerd en dienen de gevolgen voor de einddeclaratie / tussentijdse rapportage nader te worden gekwantificeerd.  
+De controle dient dusdanig te worden opgezet, dat daarmee wordt voldaan aan de materialiteitseis van de Rijksoverheid. Dit houdt in, dat alle fouten groter dan 1 procent van het projectbedrag dienen te worden vastgesteld. Uiteraard geldt voor de accountant het axiomatische voorbehoud. Teneinde een goedkeurende verklaring af te kunnen geven is het noodzakelijk dat alle geconstateerde fouten in de einddeclaratie / tussentijdse rapportage worden gecorrigeerd. Indien een correctie niet of niet afdoende wordt aangebracht dient dit tot uitdrukking te worden gebracht door middel van het verstrekken van een niet goedkeurende accountantsverklaring (afkeurende verklaring of verklaring met beperking). In het rapport van bevindingen dienen de geconstateerde, niet gecorrigeerde, fouten of voor de accountant niet controleerbare posten, nader te worden geanalyseerd en dienen de gevolgen voor de einddeclaratie / tussentijdse rapportage nader te worden gekwantificeerd. 
 
-### 1.4  
+###1.4  
 
-#### *OLAF-meldingen* 
+####*OLAF-meldingen*
 
-De Europese regelgeving schrijft voor dat alle afwijkingen van de regelgeving groter dan € 4.000 gemeld moeten worden aan de Europese Commissie. Deze verplichte melding vindt plaats aan de zogenaamde fraude commissie van de Europese Commissie (OLAF).  
+De Europese regelgeving schrijft voor dat alle afwijkingen van de regelgeving groter dan € 4.000 gemeld moeten worden aan de Europese Commissie. Deze verplichte melding vindt plaats aan de zogenaamde fraude commissie van de Europese Commissie (OLAF). 
 
-### 2  
+###2  
 
 ####Opdrachtbevestiging
 
 SZW wenst zekerheid te verkrijgen dat de controlerend accountant tijdig op de hoogte is gesteld van de inhoud van dit controleprotocol. Bij de indiening van de aanvraag van projectsubsidie dient een kopie van de opdrachtbevestiging of een andere schriftelijke mededeling, waarin de toepassing en naleving van dit controleprotocol door de controlerend accountant wordt bevestigd, aan SZW te worden gezonden. De tekst van deze opdrachtbevestiging is opgenomen in bijlage A van dit controleprotocol. Zolang bovengenoemde stukken niet in het bezit zijn van SZW wordt de behandeling van verzoeken tot voorschotverlening van de aanvrager opgeschort.  
 
-### 3  
+###3  
 
 ####Werkzaamheden van de accountant
 
-### 3.1  
+###3.1  
 
-#### *Algemeen* 
+####*Algemeen*
 
 De accountant maakt onderscheid tussen de volgende werkzaamheden: 
 
@@ -486,99 +486,99 @@ interim controle;
 
 eindcontrole.    
 
-### 3.2  
+###3.2  
 
-#### *Preventieve werkzaamheden* 
+####*Preventieve werkzaamheden*
 
 De preventieve werkzaamheden zijn van belang indien de externe accountant reeds in een vroeg stadium, bijvoorbeeld in de voorbereidende fase, bij de totstandkoming van de projectaanvraag, is betrokken. In deze voorbereidende fase beoordeelt de accountant de voorgenomen administratieve organisatie en daarin vervatte maatregelen van interne controle (AO/IC) teneinde vast te stellen of deze voorgenomen AO/IC voldoet aan de in de regelgeving gestelde eisen om te kunnen komen tot een goedkeurende accountantsverklaring. De uitkomsten van deze beoordeling worden schriftelijk aan de opdrachtgever gerapporteerd evenals de eventuele aanbevelingen die daarbij zijn gedaan. De opdrachtgever verstrekt SZW een afschrift van deze rapportage.  
 
-### 3.3  
+###3.3  
 
-#### *Interim controle* 
+####*Interim controle*
 
 De interim controle heeft mede tot doel vast te stellen of de voorgestelde AO/IC daadwerkelijk bestaat en dat de werking daarvan gedurende de te controleren periode gewaarborgd is. Voor zover tijdens de preventieve werkzaamheden door de accountant aanbevelingen zijn gedaan met betrekking tot de AO/IC onderzoekt de accountant of deze aanbevelingen zijn opgevolgd. Uiterlijk zes maanden nadat met de uitvoering van een project is gestart, rapporteert de accountant zijn bevindingen met betrekking tot het onderzoek naar de AO/IC in de vorm van een zogenaamde management letter. SZW ontvangt een afschrift van deze rapportage. Indien de AO/IC bij latere controles van tussentijdse declaraties onderwerp van onderzoek door de accountant is, worden de bevindingen naar aanleiding van deze controles eveneens door middel van een afschrift van de schriftelijke rapportage door de opdrachtgever ter kennis van SZW gebracht.  
 
-### 3.4  
+###3.4  
 
-#### *Eindcontrole* 
+####*Eindcontrole*
 
-### 3.4.1  
+###3.4.1  
 
-#### *Algemeen* 
+####*Algemeen*
 
 Hetgeen in deze paragraaf wordt opgenomen met betrekking tot de eindcontrole, is eveneens van toepassing op de controle die door de accountant wordt verricht met betrekking tot een tussentijdse rapportage, indien daarbij door SZW op grond van artikel 13 lid 3 een accountantsverklaring wordt verlangd. Ter zake van de eindcontrole dient de accountant bij de uitvoering van de accountantscontrole op de einddeclaratie inzake ESF-3 vast te stellen dat minimaal aan de onderstaande punten is voldaan. Hierbij wordt opgemerkt dat de naleving van de gehele subsidieregeling object van controle is.  
 
-### 3.4.2  
+###3.4.2  
 
-#### *Algemene voorwaarden* 
+####*Algemene voorwaarden*
 
-a. Er is een beschikking van SZW op grond waarvan de einddeclaratie kan worden ingediend.  
+a.  Er is een beschikking van SZW op grond waarvan de einddeclaratie kan worden ingediend. 
 
-b. De einddeclaratie is volledig en juist ingevuld.  
+b.  De einddeclaratie is volledig en juist ingevuld. 
 
-c. De einddeclaratie is rekenkundig juist.  
+c.  De einddeclaratie is rekenkundig juist. 
 
-d. De einddeclaratie stemt overeen met de onderliggende administratie en overige bescheiden van de subsidieaanvrager en/of uitvoerders.  
+d. De einddeclaratie stemt overeen met de onderliggende administratie en overige bescheiden van de subsidieaanvrager en/of uitvoerders. 
 
-e. Alle in de einddeclaratie verantwoorde uitgaven voldoen aan de in de Subsidieregeling ESF-3 vermelde criteria.    
+e.  Alle in de einddeclaratie verantwoorde uitgaven voldoen aan de in de Subsidieregeling ESF-3 vermelde criteria.   
 
-### 3.4.3  
+###3.4.3  
 
-#### *Administratieve voorschriften* 
+####*Administratieve voorschriften*
 
 De accountant gaat na dat alle administratieve voorschriften zoals aangegeven in artikel 11, lid 1 tot en met 6, van de subsidieregeling ESF-3 zijn nageleefd. De belangrijkste voorwaarde is het voeren van een administratie, die waarborgt dat de volgens de subsidieregeling te verstrekken gegevens op een ordelijke, transparante en controleerbare wijze geregistreerd worden.  
 
-### 3.4.4  
+###3.4.4  
 
-#### *Subsidiabele kosten* 
+####*Subsidiabele kosten*
 
 De accountant gaat na dat de in de einddeclaratie verantwoorde kosten juist en rechtmatig zijn. Hieraan is voldaan indien de accountant constateert dat: 
 
-a. de in de einddeclaratie verantwoorde kosten naar hun aard passen binnen de aanvraag met bijbehorende begroting waarop de beschikking is ontvangen;  
+a.  de in de einddeclaratie verantwoorde kosten naar hun aard passen binnen de aanvraag met bijbehorende begroting waarop de beschikking is ontvangen; 
 
-b. de in de einddeclaratie verantwoorde kosten daadwerkelijk zijn gemaakt, voor de uitvoering van het project noodzakelijk zijn en ten laste van de aanvrager zijn gebleven (artikel 9 , lid 1);  
+b.  de in de einddeclaratie verantwoorde kosten daadwerkelijk zijn gemaakt, voor de uitvoering van het project noodzakelijk zijn en ten laste van de aanvrager zijn gebleven (artikel 9 , lid 1); 
 
-c. de in de einddeclaratie verantwoorde kosten subsidiabel zijn overeenkomstig EG verordening 1685/2000 (artikel 9 lid 1);  
+c.  de in de einddeclaratie verantwoorde kosten subsidiabel zijn overeenkomstig EG verordening 1685/2000 (artikel 9 lid 1); 
 
-d. de in de einddeclaratie verantwoorde kosten geen kosten betreffen die niet subsidiabel zijn, zoals aangegeven in artikel 9, lid 2;  
+d.  de in de einddeclaratie verantwoorde kosten geen kosten betreffen die niet subsidiabel zijn, zoals aangegeven in artikel 9, lid 2; 
 
-e. de gemengde kosten (kosten voor zowel subsidiabele als niet-subsidiabele deelnemers) op een controleerbare en aanvaardbare wijze zijn toegerekend (artikel 9, lid 3).    
+e.  de gemengde kosten (kosten voor zowel subsidiabele als niet-subsidiabele deelnemers) op een controleerbare en aanvaardbare wijze zijn toegerekend (artikel 9, lid 3).   
 
-### 3.4.5  
+###3.4.5  
 
-#### *Deelnemers* 
+####*Deelnemers*
 
 De kenmerken van de deelnemers dienen te voldoen aan de eisen die daaraan, ingevolge de bij de beslissing op de subsidie-aanvraag goedgekeurde projectbeschrijving zijn gesteld.  
 
-### 3.4.6  
+###3.4.6  
 
-#### *Financiering en overige ontvangsten* 
+####*Financiering en overige ontvangsten*
 
 De financiering van de activiteiten dient aan de financiële administratie ontleend te kunnen worden. Deze financiering bestaat uit: 
 
-a. publiekrechtelijke bijdrage(n)  
+a. publiekrechtelijke bijdrage(n) 
 
-b. ESF-subsidie, en voor zover van toepassing  
+b. ESF-subsidie, en voor zover van toepassing 
 
-c. privaatrechtelijke bijdragen, en/of  
+c. privaatrechtelijke bijdragen, en/of 
 
-d. overige ontvangsten, voor zover voortvloeiend uit de uitvoering van het project.   Ook de onder d genoemde ontvangsten dienen afzonderlijk uit de administratie te blijken. Deze ontvangsten dienen op het totaal van de in de subsidiegrondslag opgenomen kosten in mindering te worden gebracht , waarna over het saldo de subsidie kan worden berekend. De accountant dient de financiering en overige ontvangsten op volledigheid te controleren.  
+d. overige ontvangsten, voor zover voortvloeiend uit de uitvoering van het project.  Ook de onder d genoemde ontvangsten dienen afzonderlijk uit de administratie te blijken. Deze ontvangsten dienen op het totaal van de in de subsidiegrondslag opgenomen kosten in mindering te worden gebracht , waarna over het saldo de subsidie kan worden berekend. De accountant dient de financiering en overige ontvangsten op volledigheid te controleren.  
 
-### 3.4.7  
+###3.4.7  
 
-#### *Subsidieberekening* 
+####*Subsidieberekening*
 
 De accountant gaat na dat de berekening van de ESF-3 subsidie: 
 
-a. rekenkundig juist is;  
+a.  rekenkundig juist is; 
 
-b. conform de subsidiegrondslag als opgenomen in artikel 11 is vastgesteld;  
+b.  conform de subsidiegrondslag als opgenomen in artikel 11 is vastgesteld; 
 
-c. niet meer bedraagt dan de subsidie zoals aangegeven in de beschikking.    
+c. niet meer bedraagt dan de subsidie zoals aangegeven in de beschikking.   
 
-### 3.4.8  
+###3.4.8  
 
-#### *Afronding en rapportage* 
+####*Afronding en rapportage*
 
 Indien tijdens de accountantscontrole blijkt dat er fouten in de einddeclaratie voorkomen, dan dienen deze gecorrigeerd te worden. Bij het nalaten van de correctie van deze fouten kan de accountant geen goedkeurende accountantsverklaring afgeven. De accountant hanteert voor de weergave van de bevindingen van zijn controlewerkzaamheden het van toepassing zijnde model Accountantsverklaring zoals dit in bijlage B, C en D bij dit controleprotocol is opgenomen. Naast de accountantsverklaring dient door de accountant in de volgende gevallen een rapport van bevindingen ten behoeve van SZW te worden opgesteld: 
 
@@ -598,19 +598,19 @@ Belangrijke bevindingen en aanbevelingen ter verbetering van de AO/IC, indien sp
 
 Motivering van de afgegeven accountantsverklaring.    
 
-### 3.4.9  
+###3.4.9  
 
-#### *Ongedeelde verantwoordelijkheid* 
+####*Ongedeelde verantwoordelijkheid*
 
 Voorzover voor de controle van de einddeclaratie gebruik wordt gemaakt van de werkzaamheden van andere accountants, draagt de accountant die verantwoordelijk is voor de accountantsverklaring bij de einddeclaratie, er zorg voor dat de aanvrager hiervan op de hoogte wordt gesteld en wijst de aanvrager op het feit dat alle relevante verplichtingen uit dit controleprotocol ook aan de accountant(s), belast met de controle van de einddeclaratie van (een) deel project(en), bekend worden gemaakt en dat deze laatste accountant(s) hun werkzaamheden verrichten met inachtneming van dit protocol. Deze laatstgenoemde categorie accountants dient schriftelijk aan de opdrachtgever te bevestigen dat zij van alle verplichtingen uit dit protocol op de hoogte zijn en dat zij deze zullen naleven. Voor deze bevestiging dient gebruik te worden gemaakt van de opdrachtbevestiging volgens bijlage A.  
 
-### 4  
+###4  
 
 ####Reviews
 
 SZW kan steekproefsgewijs reviews dan wel monitoring onderzoeken uit (laten) voeren teneinde na te gaan of de accountantscontrole met een deugdelijke grondslag en met inachtneming van dit controleprotocol is uitgevoerd. Deze reviews komen niet in de plaats van andere controles dan wel reviews uitgevoerd door de Algemene Rekenkamer, de Europese Commissie en/of de Europese Rekenkamer. De accountant belast met de controle van de einddeclaratie stemt er mee in dat de controle-dossiers in het kader van bovengenoemde reviews integraal aan de reviewers ter beschikking worden gesteld. Voorts zal deze accountant, schriftelijk dan wel mondeling, alle gevraagde gegevens verstrekken waarom in het kader van voornoemde review wordt verzocht. Vorenstaande geldt onverkort voor de in de eerste alinea genoemde monitoring onderzoeken.  
 
-### Bijlage  A  
+### Bijlage A  
 
 ####Opdrachtbevestiging
 
@@ -628,48 +628,48 @@ Elke accountant c.q. accountantsorganisatie kan zijn opdrachtbevestiging (gebase
 | --- |
 | (ondertekening)  |
 | --- |
-| (plaatsnaam, datering)  |
+| (plaatsnaam, datering)   |
 | --- |
 
-### Bijlage  B  
+### Bijlage B  
 
 ####(Model goedkeurende accountantsverklaring)
 
-Aan: (Naam opdrachtgever)  
+Aan: (Naam opdrachtgever)   
 
-*Accountantsverklaring Subsidieregeling ESF-3*  afgegeven ten behoeve van de minister van Sociale Zaken en Werkgelegenheid  *Opdracht*  Ingevolge uw opdracht hebben wij de bijgevoegde, door ons per pagina gewaarmerkte, einddeclaratie/tussentijdse rapportage* met bijlagen inzake de uitvoering van het project met registratienummer ... waarvoor subsidie is toegekend op grond van de Subsidieregeling ESF-3, gecontroleerd. Deze einddeclaratie/tussentijdse rapportage* is opgesteld onder verantwoordelijkheid van de aanvrager. Het is onze verantwoordelijkheid een accountantsverklaring inzake deze einddeclaratie/tussentijdse rapportage te verstrekken. De aanvrager is met beschikkingsnummer ..., d.d ... door de minister van Sociale Zaken en Werkgelegenheid (SZW) voor toekenning van ESF-subsidie in aanmerking gebracht ten behoeve van prioriteit ... maatregel ...  *Werkzaamheden*  Onze controle is verricht overeenkomstig de bepalingen van het controleprotocol Subsidieregeling ESF-3, alsmede de nadere aanwijzingen van SZW zoals vastgelegd in brief gedateerd ... onder nummer ... en overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat voldoende zekerheid wordt verkregen dat de einddeclaratie/tussentijdse rapportage geen onjuistheden van materieel belang, zoals bedoeld in paragraaf 1.3 van het controleprotocol, bevat. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.  *Bevindingen*  Bij onze controle hebben wij vastgesteld dat: (De accountant dient de bevindingen op te nemen in een afzonderlijk op te stellen rapport van bevindingen, waarnaar kan worden verwezen).  *Oordeel*  Wij zijn van oordeel dat de ingediende einddeclaratie/tussentijdse rapportage* met bijlagen, voldoet aan de in de Subsidieregeling ESF-3 gestelde voorwaarden. De einddeclaratie/tussentijdse rapportage* met bijlagen sluit met een totaal bedrag van € ...  *(ondertekening)*   *(plaatsnaam, datering)*   
+*Accountantsverklaring Subsidieregeling ESF-3* afgegeven ten behoeve van de minister van Sociale Zaken en Werkgelegenheid  *Opdracht* Ingevolge uw opdracht hebben wij de bijgevoegde, door ons per pagina gewaarmerkte, einddeclaratie/tussentijdse rapportage* met bijlagen inzake de uitvoering van het project met registratienummer ... waarvoor subsidie is toegekend op grond van de Subsidieregeling ESF-3, gecontroleerd. Deze einddeclaratie/tussentijdse rapportage* is opgesteld onder verantwoordelijkheid van de aanvrager. Het is onze verantwoordelijkheid een accountantsverklaring inzake deze einddeclaratie/tussentijdse rapportage te verstrekken. De aanvrager is met beschikkingsnummer ..., d.d ... door de minister van Sociale Zaken en Werkgelegenheid (SZW) voor toekenning van ESF-subsidie in aanmerking gebracht ten behoeve van prioriteit ... maatregel ...  *Werkzaamheden* Onze controle is verricht overeenkomstig de bepalingen van het controleprotocol Subsidieregeling ESF-3, alsmede de nadere aanwijzingen van SZW zoals vastgelegd in brief gedateerd ... onder nummer ... en overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat voldoende zekerheid wordt verkregen dat de einddeclaratie/tussentijdse rapportage geen onjuistheden van materieel belang, zoals bedoeld in paragraaf 1.3 van het controleprotocol, bevat. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.  *Bevindingen* Bij onze controle hebben wij vastgesteld dat: (De accountant dient de bevindingen op te nemen in een afzonderlijk op te stellen rapport van bevindingen, waarnaar kan worden verwezen).  *Oordeel* Wij zijn van oordeel dat de ingediende einddeclaratie/tussentijdse rapportage* met bijlagen, voldoet aan de in de Subsidieregeling ESF-3 gestelde voorwaarden. De einddeclaratie/tussentijdse rapportage* met bijlagen sluit met een totaal bedrag van € ...  *(ondertekening)*   *(plaatsnaam, datering)*  
 
-### Bijlage  C  
+### Bijlage C  
 
-Indien bij de controle van de einddeclaratie onjuistheden zijn geconstateerd die niet op afdoende wijze zijn gecorrigeerd kan de accountant geen goedkeurende verklaring verstrekken. In dergelijke gevallen dient de accountant een afkeurend oordeel te geven.  *(Model afkeurende accountantsverklaring)*   *Aan: (Naam opdrachtgever)*   *Accountantsverklaring Subsidieregeling ESF-3*  afgegeven ten behoeve van de minister van Sociale Zaken en Werkgelegenheid  *Opdracht*  Ingevolge uw opdracht hebben wij de bijgevoegde, door ons per pagina gewaarmerkte, einddeclaratie/tussentijdse rapportage* met bijlagen inzake de uitvoering van het project met registratienummer ... waarvoor subsidie is toegekend op grond van de Subsidieregeling ESF-3, gecontroleerd. Deze einddeclaratie/tussentijdse rapportage* is opgesteld onder verantwoordelijkheid van de aanvrager. Het is onze verantwoordelijkheid een accountantsverklaring inzake deze einddeclaratie/tussentijdse rapportage te verstrekken. De aanvrager is met beschikkingsnummer ..., d.d... door de minister van Sociale Zaken en Werkgelegenheid (SZW) voor toekenning van ESF-subsidie in aanmerking gebracht ten behoeve van prioriteit ... maatregel ...  *Werkzaamheden*  Onze controle is verricht overeenkomstig de bepalingen van het controleprotocol Subsidieregeling ESF-3, alsmede de nadere aanwijzingen van SZW zoals vastgelegd in brief gedateerd ... onder nummer ... en overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat zekerheid wordt verkregen dat de einddeclaratie/tussentijdse rapportage geen onjuistheden van materieel belang, zoals bedoeld in paragraaf 1.3 van het controleprotocol, bevat. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.  *Bevindingen*  Bij onze controle hebben wij vastgesteld dat: (Bevindingen aangeven die hebben geleid tot een afkeurend oordeel. Tevens de omvang van het bedrag aangeven dat niet juist is dan wel waarvan de juistheid niet kan worden vastgesteld. De accountant dient de bevindingen op te nemen in een afzonderlijk op te stellen rapport van bevindingen, waarnaar kan worden verwezen).  *Oordeel*  Wij zijn van oordeel dat de ingediende einddeclaratie/tussentijdse rapportage* met bijlagen, niet voldoet aan de in de Subsidieregeling ESF-3 gestelde voorwaarden en derhalve niet juist is. De einddeclaratie/tussentijdse rapportage* met bijlagen sluit met een totaal bedrag van € ...  *(ondertekening)*   *(plaatsnaam, datering)*   
+Indien bij de controle van de einddeclaratie onjuistheden zijn geconstateerd die niet op afdoende wijze zijn gecorrigeerd kan de accountant geen goedkeurende verklaring verstrekken. In dergelijke gevallen dient de accountant een afkeurend oordeel te geven.  *(Model afkeurende accountantsverklaring)* * Aan: (Naam opdrachtgever) * *Accountantsverklaring Subsidieregeling ESF-3* afgegeven ten behoeve van de minister van Sociale Zaken en Werkgelegenheid  *Opdracht* Ingevolge uw opdracht hebben wij de bijgevoegde, door ons per pagina gewaarmerkte, einddeclaratie/tussentijdse rapportage* met bijlagen inzake de uitvoering van het project met registratienummer ... waarvoor subsidie is toegekend op grond van de Subsidieregeling ESF-3, gecontroleerd. Deze einddeclaratie/tussentijdse rapportage* is opgesteld onder verantwoordelijkheid van de aanvrager. Het is onze verantwoordelijkheid een accountantsverklaring inzake deze einddeclaratie/tussentijdse rapportage te verstrekken. De aanvrager is met beschikkingsnummer ..., d.d... door de minister van Sociale Zaken en Werkgelegenheid (SZW) voor toekenning van ESF-subsidie in aanmerking gebracht ten behoeve van prioriteit ... maatregel ...  *Werkzaamheden* Onze controle is verricht overeenkomstig de bepalingen van het controleprotocol Subsidieregeling ESF-3, alsmede de nadere aanwijzingen van SZW zoals vastgelegd in brief gedateerd ... onder nummer ... en overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat zekerheid wordt verkregen dat de einddeclaratie/tussentijdse rapportage geen onjuistheden van materieel belang, zoals bedoeld in paragraaf 1.3 van het controleprotocol, bevat. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.  *Bevindingen* Bij onze controle hebben wij vastgesteld dat: (Bevindingen aangeven die hebben geleid tot een afkeurend oordeel. Tevens de omvang van het bedrag aangeven dat niet juist is dan wel waarvan de juistheid niet kan worden vastgesteld. De accountant dient de bevindingen op te nemen in een afzonderlijk op te stellen rapport van bevindingen, waarnaar kan worden verwezen).  *Oordeel* Wij zijn van oordeel dat de ingediende einddeclaratie/tussentijdse rapportage* met bijlagen, niet voldoet aan de in de Subsidieregeling ESF-3 gestelde voorwaarden en derhalve niet juist is. De einddeclaratie/tussentijdse rapportage* met bijlagen sluit met een totaal bedrag van € ...  *(ondertekening)*   *(plaatsnaam, datering)*  
 
-### Bijlage  D  
+### Bijlage D  
 
-Indien bij de controle van de einddeclaratie onzekerheden van materieel belang zijn blijven bestaan die niet noodzakelijkerwijs hadden moeten leiden tot een correctie van de declaratie (bijvoorbeeld bij onduidelijkheid over de juiste interpretatie van subsidievoorwaarden) en die daardoor niet hoefden te leiden tot het geven van een afkeurende verklaring kan de accountant evenmin een goedkeurende verklaring verstrekken. In dergelijke gevallen dient de accountant een verklaring met beperking te geven.  *(Model verklaring met beperking)*   *Aan: (Naam opdrachtgever)*   *Accountantsverklaring Subsidieregeling ESF-3*  afgegeven ten behoeve van de minister van Sociale Zaken en Werkgelegenheid  *Opdracht*  Ingevolge uw opdracht hebben wij de bijgevoegde, door ons per pagina gewaarmerkte, einddeclaratie/tussentijdse rapportage* met bijlagen inzake de uitvoering van het project met registratienummer ... waarvoor subsidie is toegekend op grond van de Subsidieregeling ESF-3, gecontroleerd. Deze einddeclaratie/tussentijdse rapportage* is opgesteld onder verantwoordelijkheid van de aanvrager. Het is onze verantwoordelijkheid een accountantsverklaring inzake deze einddeclaratie/tussentijdse rapportage te verstrekken. De aanvrager is met beschikkingsnummer ..., d.d. ... door de minister van Sociale Zaken en Werkgelegenheid (SZW) voor toekenning van ESF-subsidie in aanmerking gebracht ten behoeve van prioriteit ... maatregel ...  *Werkzaamheden*  Onze controle is verricht overeenkomstig de bepalingen van het controleprotocol Subsidieregeling ESF-3, alsmede de nadere aanwijzingen van SZW zoals vastgelegd in brief gedateerd ... onder nummer ... en overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat zekerheid wordt verkregen dat de einddeclaratie/tussentijdse rapportage geen onjuistheden van materieel belang, zoals bedoeld in paragraaf 1.3 van het controleprotocol, bevat. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.  *Bevindingen*  Bij onze controle hebben wij vastgesteld dat: (Bevindingen aangeven die hebben geleid tot de verklaring met beperking. Tevens de omvang van het bedrag aangeven waarvan de juistheid niet kan worden vastgesteld. De accountant dient de bevindingen op te nemen in een afzonderlijk op te stellen rapport van bevindingen, waarnaar kan worden verwezen).  *Oordeel*  Wij zijn van oordeel dat de ingediende einddeclaratie/tussentijdse rapportage* met bijlagen, onder voorbehoud van (omschrijving van de onzekerheid) voldoet aan de in de Subsidieregeling ESF-3 gestelde voorwaarden. De einddeclaratie/tussentijdse rapportage* met bijlagen sluit met een totaal bedrag van € ...  *(ondertekening)*   *(plaatsnaam, datering)*  * doorhalen wat niet van toepassing is  
+Indien bij de controle van de einddeclaratie onzekerheden van materieel belang zijn blijven bestaan die niet noodzakelijkerwijs hadden moeten leiden tot een correctie van de declaratie (bijvoorbeeld bij onduidelijkheid over de juiste interpretatie van subsidievoorwaarden) en die daardoor niet hoefden te leiden tot het geven van een afkeurende verklaring kan de accountant evenmin een goedkeurende verklaring verstrekken. In dergelijke gevallen dient de accountant een verklaring met beperking te geven.  *(Model verklaring met beperking)* * Aan: (Naam opdrachtgever) * *Accountantsverklaring Subsidieregeling ESF-3* afgegeven ten behoeve van de minister van Sociale Zaken en Werkgelegenheid  *Opdracht* Ingevolge uw opdracht hebben wij de bijgevoegde, door ons per pagina gewaarmerkte, einddeclaratie/tussentijdse rapportage* met bijlagen inzake de uitvoering van het project met registratienummer ... waarvoor subsidie is toegekend op grond van de Subsidieregeling ESF-3, gecontroleerd. Deze einddeclaratie/tussentijdse rapportage* is opgesteld onder verantwoordelijkheid van de aanvrager. Het is onze verantwoordelijkheid een accountantsverklaring inzake deze einddeclaratie/tussentijdse rapportage te verstrekken. De aanvrager is met beschikkingsnummer ..., d.d. ... door de minister van Sociale Zaken en Werkgelegenheid (SZW) voor toekenning van ESF-subsidie in aanmerking gebracht ten behoeve van prioriteit ... maatregel ...  *Werkzaamheden* Onze controle is verricht overeenkomstig de bepalingen van het controleprotocol Subsidieregeling ESF-3, alsmede de nadere aanwijzingen van SZW zoals vastgelegd in brief gedateerd ... onder nummer ... en overeenkomstig in Nederland algemeen aanvaarde richtlijnen met betrekking tot controleopdrachten. Volgens deze richtlijnen dient onze controle zodanig te worden gepland en uitgevoerd, dat zekerheid wordt verkregen dat de einddeclaratie/tussentijdse rapportage geen onjuistheden van materieel belang, zoals bedoeld in paragraaf 1.3 van het controleprotocol, bevat. Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons oordeel.  *Bevindingen* Bij onze controle hebben wij vastgesteld dat: (Bevindingen aangeven die hebben geleid tot de verklaring met beperking. Tevens de omvang van het bedrag aangeven waarvan de juistheid niet kan worden vastgesteld. De accountant dient de bevindingen op te nemen in een afzonderlijk op te stellen rapport van bevindingen, waarnaar kan worden verwezen).  *Oordeel* Wij zijn van oordeel dat de ingediende einddeclaratie/tussentijdse rapportage* met bijlagen, onder voorbehoud van (omschrijving van de onzekerheid) voldoet aan de in de Subsidieregeling ESF-3 gestelde voorwaarden. De einddeclaratie/tussentijdse rapportage* met bijlagen sluit met een totaal bedrag van € ...  *(ondertekening)*   *(plaatsnaam, datering)*  * doorhalen wat niet van toepassing is  
 
-### Bijlage  3  
+### Bijlage 3  
 
 ####bij Subsidieregeling ESF3: doelstelling-2-gebieden (artikel 4, twee-de lid)
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
-| --- |  *NUTS III-regio*   |  *In aanmerking komende zones*   |  *In de in aanmerking*    *komende zones wo-*    *nende bevolking van*    *de NUTS III-regio*   |
-| --- | --- |  *De gehele NUTS III-regio*   |  *Alleen de volgende zones*   | --- |
-| --- | --- |  *met uitzondering van*   |  *van de NUTS III-regio*   | --- |
-| --- |  *Zones die voldoen aan het bepaalde in artikel 4, lid 7, van Verordening (EG) nr. 1260/1999*   |
-| NL213  | Twente  |  *de gemeente:*   | 50997  |
+| --- | *NUTS III-regio*  | *In aanmerking komende zones*  | *In de in aanmerking*  *komende zones wo-*  * nende bevolking van*  * de NUTS III-regio*  |
+| --- | --- | *De gehele NUTS III-regio*  | *Alleen de volgende zones*  | --- |
+| --- | --- | *met uitzondering van*  | *van de NUTS III-regio*  | --- |
+| --- | *Zones die voldoen aan het bepaalde in artikel 4, lid 7, van Verordening (EG) nr. 1260/1999*  |
+| NL213   | Twente  | *de gemeente:*  | 50997  |
 | --- | --- | --- | Enschede (uitsluitend CBS-buurten:  | --- |
 | --- | --- | --- | City  | --- |
-| --- | --- | --- | Lasonder, Zeggelt  | --- |
-| --- | --- | --- | Laarens West  | --- |
+| --- | --- | --- |  Lasonder, Zeggelt   | --- |
+| --- | --- | --- | Laarens West   | --- |
 | --- | --- | --- | Veldkamp-Geffert-West  | --- |
-| --- | --- | --- | Horstlanden-Stadsweide  | --- |
+| --- | --- | --- |  Horstlanden-Stadsweide  | --- |
 | --- | --- | --- | Cromhoffsbleek-Kotman  | --- |
-| --- | --- | --- | Boswinkel-De Braker  | --- |
+| --- | --- | --- |  Boswinkel-De Braker  | --- |
 | --- | --- | --- | Pathmos  | --- |
 | --- | --- | --- | Stevenvenne  | --- |
-| --- | --- | --- | Tubantia-Toekomst (behalve  | --- |
-| --- | --- | --- | postcodes 7514AA, 7514AB, van  | --- |
+| --- | --- | --- |  Tubantia-Toekomst (behalve  | --- |
+| --- | --- | --- |  postcodes 7514AA, 7514AB, van   | --- |
 | --- | --- | --- | 7521AA tot en met 7521AE, 7521AG,  | --- |
 | --- | --- | --- | van 7521AP tot en met 7521BD)  | --- |
 | --- | --- | --- | Twekkelerveld (behalve postcode 7521DD)  | --- |
@@ -680,11 +680,11 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | Wesselerbrink Noord-West (behalve  | --- |
 | --- | --- | --- | postcodes 7544NA, 7544NB, 7544NC,  | --- |
 | --- | --- | --- | van 7544NE tot en met 7544NH, van  | --- |
-| --- | --- | --- | 7544NK tot en met 7544NZ)  | --- |
-| --- | --- | --- | Industrie- en havengebied (behalve  | --- |
-| --- | --- | --- | postcodes 7547AN en 7547PH)  | --- |
+| --- | --- | --- | 7544NK tot en met 7544NZ)   | --- |
+| --- | --- | --- |  Industrie- en havengebied (behalve  | --- |
+| --- | --- | --- |  postcodes 7547AN en 7547PH)  | --- |
 | --- | --- | --- | --- | --- |
-| NL223  | Arnhem/Nijmegen  |  *de gemeente:*   | 99612  |
+| NL223   | Arnhem/Nijmegen  | *de gemeente:*  | 99612  |
 | --- | --- | --- | Arnhem (uitsluitend CBS-buurten:  | --- |
 | --- | --- | --- | Markt  | --- |
 | --- | --- | --- | Weverstraat  | --- |
@@ -695,36 +695,36 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | Hommelstraat  | --- |
 | --- | --- | --- | Spijkerbuurt  | --- |
 | --- | --- | --- | Boulevardwijk  | --- |
-| --- | --- | --- | Bij de John Frostbrug  | --- |
+| --- | --- | --- |  Bij de John Frostbrug  | --- |
 | --- | --- | --- | Statenkwartier  | --- |
 | --- | --- | --- | Arnhemse Broek  | --- |
-| --- | --- | --- | Van Vershuerbuurt  | --- |
-| --- | --- | --- | Industrieterrein Arnhemse Broek  | --- |
-| --- | --- | --- | (uitsluitend het gedeelte tussen  | --- |
-| --- | --- | --- | Nieuwe Kade, Westervoortsedijk,  | --- |
+| --- | --- | --- |  Van Vershuerbuurt  | --- |
+| --- | --- | --- |  Industrieterrein Arnhemse Broek  | --- |
+| --- | --- | --- |  (uitsluitend het gedeelte tussen  | --- |
+| --- | --- | --- |  Nieuwe Kade, Westervoortsedijk,  | --- |
 | --- | --- | --- | Nieuwe Havenweg via verlenging  | --- |
-| --- | --- | --- | van "Nieuwe Haven" tot Pleijweg,  | --- |
-| --- | --- | --- | Zevenaarseweg, oude Zevenaarse-  | --- |
+| --- | --- | --- |  van "Nieuwe Haven" tot Pleijweg,  | --- |
+| --- | --- | --- |  Zevenaarseweg, oude Zevenaarse-  | --- |
 | --- | --- | --- | weg, Broekstraat en Badhuisstraat,  | --- |
 | --- | --- | --- | behalve postcode 6827 BG)  | --- |
-| --- | --- | --- | Presikhaaf I  | --- |
+| --- | --- | --- |  Presikhaaf I  | --- |
 | --- | --- | --- | Presikhaaf II  | --- |
-| --- | --- | --- | Presikhaaf III  | --- |
-| --- | --- | --- | St. Marten  | --- |
+| --- | --- | --- |  Presikhaaf III  | --- |
+| --- | --- | --- |  St. Marten  | --- |
 | --- | --- | --- | Klarendal-zuid  | --- |
-| --- | --- | --- | Klarendal-noord  | --- |
-| --- | --- | --- | Onder de Linden  | --- |
-| --- | --- | --- | Sint Janskerkstraat e.o.  | --- |
+| --- | --- | --- |  Klarendal-noord  | --- |
+| --- | --- | --- |  Onder de Linden  | --- |
+| --- | --- | --- |  Sint Janskerkstraat e.o.   | --- |
 | --- | --- | --- | Meinerswijk en de Praets  | --- |
-| --- | --- | --- | Malburgen-west  | --- |
+| --- | --- | --- |  Malburgen-west  | --- |
 | --- | --- | --- | Groene weide  | --- |
-| --- | --- | --- | Kamillehof en Bakenhof  | --- |
+| --- | --- | --- |  Kamillehof en Bakenhof  | --- |
 | --- | --- | --- | Het Duifje  | --- |
-| --- | --- | --- | Immerloo I  | --- |
+| --- | --- | --- |  Immerloo I  | --- |
 | --- | --- | --- | Middelgraaflaan e.o.  | --- |
-| --- | --- | --- | Zeessingel e.o.  | --- |
-| --- | --- | --- | Immerloo II)  | --- |
-| --- | --- | --- | de gemeente:  | --- |
+| --- | --- | --- |  Zeessingel e.o.  | --- |
+| --- | --- | --- |  Immerloo II)  | --- |
+| --- | --- | --- |  de gemeente:  | --- |
 | --- | --- | --- | Nijmegen (uitsluitend CBS-buurten:  | --- |
 | --- | --- | --- | Nijeveld  | --- |
 | --- | --- | --- | Goffert  | --- |
@@ -735,55 +735,55 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | Hees  | --- |
 | --- | --- | --- | Heseveld  | --- |
 | --- | --- | --- | Neerbosch  | --- |
-| --- | --- | --- | Haven- en industrieterrein)  | --- |
+| --- | --- | --- |  Haven- en industrieterrein)  | --- |
 | --- | --- | --- | --- | --- |
-| NL31  | Utrecht  |  *de gemeente:*   | 70669  |
+| NL31   | Utrecht  | *de gemeente:*  | 70669  |
 | --- | --- | --- | Utrecht (uitsluitend CBS-buurten:  | --- |
-| --- | --- | --- | Welgelegen/Den Hommel (uitsluit-  | --- |
+| --- | --- | --- |  Welgelegen/Den Hommel (uitsluit-  | --- |
 | --- | --- | --- | end het gedeelte tussen de Martin  | --- |
 | --- | --- | --- | Luther Kinglaan, Pijperlaan, Oude  | --- |
-| --- | --- | --- | Leidseweg en Amsterdam-  | --- |
-| --- | --- | --- | Rijnkanaal)  | --- |
-| --- | --- | --- | Halve Maan  | --- |
+| --- | --- | --- |  Leidseweg en Amsterdam-  | --- |
+| --- | --- | --- | Rijnkanaal)   | --- |
+| --- | --- | --- | Halve Maan   | --- |
 | --- | --- | --- | Schepenbuurt/bedrijvengebied  | --- |
 | --- | --- | --- | Cartesiusweg  | --- |
 | --- | --- | --- | Lageweide/Hogeweide  | --- |
 | --- | --- | --- | Pijlsweerd-Zuid  | --- |
 | --- | --- | --- | Pijlsweerd-Noord  | --- |
 | --- | --- | --- | Ondiep  | --- |
-| --- | --- | --- | Tweede Daalsebuurt  | --- |
-| --- | --- | --- | Egelantiersstraat/Mariendaalstraat  | --- |
+| --- | --- | --- |  Tweede Daalsebuurt  | --- |
+| --- | --- | --- |  Egelantiersstraat/Mariendaalstraat  | --- |
 | --- | --- | --- | Geuzenwijk  | --- |
-| --- | --- | --- | De Driehoek  | --- |
-| --- | --- | --- | Prins Bernhardplein e.o.  | --- |
+| --- | --- | --- |  De Driehoek  | --- |
+| --- | --- | --- |  Prins Bernhardplein e.o.  | --- |
 | --- | --- | --- | J.M. de Muinck Keizerlaan  | --- |
-| --- | --- | --- | Zuilen Noord  | --- |
-| --- | --- | --- | Loevenhoutsedijk e.o.  | --- |
-| --- | --- | --- | Taag-/Rubicondreef e.o.  | --- |
-| --- | --- | --- | Zamenhofdreef e.o.  | --- |
-| --- | --- | --- | Wolga-/Donaudreef  | --- |
-| --- | --- | --- | Neckardreef  | --- |
-| --- | --- | --- | Zambesidreef  | --- |
+| --- | --- | --- |  Zuilen Noord  | --- |
+| --- | --- | --- |  Loevenhoutsedijk e.o.  | --- |
+| --- | --- | --- |  Taag-/Rubicondreef e.o.  | --- |
+| --- | --- | --- |  Zamenhofdreef e.o.  | --- |
+| --- | --- | --- |  Wolga-/Donaudreef  | --- |
+| --- | --- | --- |  Neckardreef  | --- |
+| --- | --- | --- |  Zambesidreef  | --- |
 | --- | --- | --- | Bedrijvengebied Overvecht  | --- |
-| --- | --- | --- | Bedrijvengebied Kanaleneiland  | --- |
-| --- | --- | --- | (uitsluitend het gedeelte tussen  | --- |
-| --- | --- | --- | Merwedekanaal, gemeentegrens  | --- |
+| --- | --- | --- |  Bedrijvengebied Kanaleneiland  | --- |
+| --- | --- | --- |  (uitsluitend het gedeelte tussen  | --- |
+| --- | --- | --- |  Merwedekanaal, gemeentegrens  | --- |
 | --- | --- | --- | Utrecht-Nieuwegein (tot kruising  | --- |
-| --- | --- | --- | Amsterdam-Rijnkanaal), Papen-  | --- |
+| --- | --- | --- |  Amsterdam-Rijnkanaal), Papen-  | --- |
 | --- | --- | --- | dorpsepad/Amsterdam-Rijnkanaal  | --- |
-| --- | --- | --- | (tot kruising Aziëlaan), Aziëlaan  | --- |
-| --- | --- | --- | (tot Europalaan), Europalaan,  | --- |
+| --- | --- | --- |  (tot kruising Aziëlaan), Aziëlaan  | --- |
+| --- | --- | --- |  (tot Europalaan), Europalaan,  | --- |
 | --- | --- | --- | Overste  | --- |
 | --- | --- | --- | Transwijk-Zuid  | --- |
-| --- | --- | --- | Kanaleneiland-Zuid  | --- |
-| --- | --- | --- | Kanaleneiland-Noord  | --- |
+| --- | --- | --- |  Kanaleneiland-Zuid  | --- |
+| --- | --- | --- |  Kanaleneiland-Noord  | --- |
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-| --- |  *NUTS III-regio*   |  *In aanmerking komende zones*   |  *In de in aanmerking*    *komende zones wo-*    *nende bevolking van*    *de NUTS III-regio*   |
-| --- | --- |  *De gehele NUTS III-regio*   |  *Alleen de volgende zones*   | --- |
-| --- | --- |  *met uitzondering van*   |  *van de NUTS III-regio*   | --- |
-| NL326  | Groot-Amsterdam  |  *de gemeente:*   | 119057  |
+| --- | *NUTS III-regio*  | *In aanmerking komende zones*  | *In de in aanmerking*  *komende zones wo-*  * nende bevolking van*  * de NUTS III-regio*  |
+| --- | --- | *De gehele NUTS III-regio*  | *Alleen de volgende zones*  | --- |
+| --- | --- | *met uitzondering van*  | *van de NUTS III-regio*  | --- |
+| NL326  | Groot-Amsterdam  | *de gemeente:*  | 119057  |
 | --- | --- | --- | Amsterdam (uitsluitend  | --- |
 | --- | --- | --- | CBS-buurten:  | --- |
 | --- | --- | --- | Bijlmer Oost  | --- |
@@ -798,7 +798,7 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | IJ-Eiland  | --- |
 | --- | --- | --- | Oostelijke Eilanden/Kadijken)  | --- |
 | --- | --- | --- | --- | --- |
-| NL332  | Agglomeratie 's Gravenhage  |  *de gemeente:*   | 96771  |
+| NL332  | Agglomeratie 's Gravenhage  | *de gemeente:*  | 96771  |
 | --- | --- | --- | 's Gravenhage (uitsluitend  | --- |
 | --- | --- | --- | CBS-buurten:  | --- |
 | --- | --- | --- | Huygenspark  | --- |
@@ -820,7 +820,7 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | Noordpolderbuurt  | --- |
 | --- | --- | --- | Binckhorst)  | --- |
 | --- | --- | --- | --- | --- |
-| NL335  | Groot-Rijnmond  |  *de gemeente:*   | 120944  |
+| NL335  | Groot-Rijnmond  | *de gemeente:*  | 120944  |
 | --- | --- | --- | Rotterdam (uitsluitend CBS-buurten:  | --- |
 | --- | --- | --- | Delfshaven  | --- |
 | --- | --- | --- | Bospolder  | --- |
@@ -845,7 +845,7 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | Afrikaanderwijk  | --- |
 | --- | --- | --- | Feijenoord  | --- |
 | --- | --- | --- | --- | --- |
-| NL414  | Zuidoost-Noord-Brabant  |  *de gemeente:*   | 50578  |
+| NL414  | Zuidoost-Noord-Brabant  | *de gemeente:*  | 50578  |
 | --- | --- | --- | Eindhoven (uitsluitend CBS-buurten:  | --- |
 | --- | --- | --- | Centrum  | --- |
 | --- | --- | --- | Irisbuurt  | --- |
@@ -875,7 +875,7 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | Bakkerstraat  | --- |
 | --- | --- | --- | Het Groenewoud)  | --- |
 | --- | --- | --- | --- | --- |
-| NL422  | Zuid-Limburg  |  *de gemeente:*   | 49506  |
+| NL422  | Zuid-Limburg  | *de gemeente:*  | 49506  |
 | --- | --- | Maastricht (uitsluitend CBS-buurten:  | --- |
 | --- | --- | City (uitsluitend het gedeelte tussen  | --- |
 | --- | --- | Stadhuisstraat, Markt (buitengrens),  | --- |
@@ -948,7 +948,7 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | --- | --- |
 | --- |  *Zones die voldoen aan het bepaalde in artikel 4, lid 9, onder b), van Verordening (EG) nr. 1260/1999*   |
 | --- | --- | --- | --- |
-| NL212  | Zuidwest-Overijssel  |  *de volgende gemeenten:*   | 37400  |
+| NL212  |  Zuidwest-Overijssel   | *de volgende gemeenten:*   | 37400  |
 | --- | --- | Olst  | --- |
 | --- | --- | Deventer/Diepenveen (met  | --- |
 | --- | --- | --- | --- |
@@ -959,7 +959,7 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | CBS-telgebieden: 0000-0106)  | --- |
 | --- | --- | Bathmen  | --- |
 | --- | --- | Holten  | --- |
-| NL213  | Twente  |  *de volgende gemeenten:*   | 68100  |
+| NL213  |  Twente  |  *de volgende gemeenten:*   | 68100  |
 | --- | --- | Hellendoorn (met uitzondering  | --- |
 | --- | --- | van de CBS-telgebieden: 0000,  | --- |
 | --- | --- | 0100-0105, 0201, 0202)  | --- |
@@ -1011,7 +1011,7 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | 0000-0005, 0007-0009, 0102,  | --- |
 | --- | --- | 0108-0109)  | --- |
 | --- | --- | --- | --- |
-| NL222  | Achterhoek  |  *de volgende gemeenten:*   | 137000  |
+| NL222  |  Achterhoek  |  *de volgende gemeenten:*   | 137000  |
 | --- | --- | Gorssel (uitsluitend de  | --- |
 | --- | --- | CBS-telgebieden:  | --- |
 | --- | --- | 0001-0002, 0006, 0008-0009,  | --- |
@@ -1138,15 +1138,15 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | --- | --- | 6031TZ, 6031VA-VZ, 6031WB-WL,  | --- |
 | --- | --- | 6031XA-XG, 6031XJ-XL, 6031XN-XZ)  | --- |
 | --- | --- |
-|  *Zones die voldoen aan het bepaalde in*   |  *artikel 4, lid 9, onder c), van Verordening (EG) nr. 1260/1999*   |
+|  *Zones die voldoen aan het bepaalde in *   | *artikel 4, lid 9, onder c), van Verordening (EG) nr. 1260/1999*  |
 | --- | --- | --- | --- |
 | NL111  | Oost-Groningen  |  *de gemeente:*   | 142583  |
 | --- | --- | Bellingwedde  | --- |
 | --- | --- | --- | --- |
-| NL112  | Delfzijl en omgeving  |  *de gemeente:*   | 30743  |
+| NL112  |  Delfzijl en omgeving  |  *de gemeente:*   | 30743  |
 | --- | --- | Delfzijl  | --- |
 | --- | --- | --- | --- |
-| NL113  | Overig Groningen  |  *de volgende gemeenten:*   | 226255  |
+| NL113  | Overig Groningen   |  *de volgende gemeenten:*   | 226255  |
 | --- | --- | Groningen  | --- |
 | --- | --- | Leek  | --- |
 | --- | --- | Hoogezand/Sappemeer  | --- |
@@ -1193,5 +1193,5 @@ Indien bij de controle van de einddeclaratie onzekerheden van materieel belang z
 | NL133  | Zuidwest-Drenthe  |  *de volgende gemeenten:*   | 100656  |
 | --- | --- | De Wolden  | --- |
 | --- | --- | Hoogeveen  | --- |
-| --- | --- | Meppel  | --- |
+| --- | --- | Meppel   | --- |
 
