@@ -7,7 +7,7 @@ Gelet op artikel 33 van de Stageverordening 2012 treden de artikelen 1, 25 tot e
 
 Overwegende, dat het wenselijk is regels te stellen over de verhouding tussen patroon en stagiaire en de nieuwe beroepsopleiding voor advocaten die de praktijk onder begeleiding van een patroon uitoefenen;
 
-Gelet op de [artikelen 9b, zesde lid](../../../../wet/advocatenwet/BWBR0002093/README.md), [9c, tweede lid](../../../../wet/advocatenwet/BWBR0002093/README.md) en [28, eerste lid, van de Advocatenwet](../../../../wet/advocatenwet/BWBR0002093/README.md);
+Gelet op de artikelen 9b, zesde lid, 9c, tweede lid en 28, eerste lid, van de Advocatenwet;
 
 Gezien het ontwerp van de algemene raad met de bijbehorende toelichting;
 
@@ -21,37 +21,39 @@ Stelt de navolgende verordening vast:
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *accreditatie:* door de algemene raad verstrekte vergunning aan een opleidingsinstelling, waardoor deze de onderdelen van de beroepsopleiding advocaten, bedoeld in artikel 16, eerste lid, onderdelen b en c, mag aanbieden; *accrediteren:* het verstrekken door de algemene raad van een vergunning aan een opleidingsinstelling, waardoor deze de onderdelen van de beroepsopleiding advocaten, bedoeld in artikel 16, eerste lid, onderdelen b en c, mag aanbieden;  
+a.  *accreditatie:*  door de algemene raad verstrekte vergunning aan een opleidingsinstelling, waardoor deze de onderdelen van de beroepsopleiding advocaten, bedoeld in artikel 16, eerste lid, onderdelen b en c, mag aanbieden;  
 
-b. *advocaat:* een in Nederland ingeschreven advocaat alsmede een advocaat, die is ingeschreven overeenkomstig [artikel 2a van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md), indien deze in de lidstaat van herkomst een verklaring heeft verworven waaruit blijkt dat de stage aldaar is afgerond;  
+b.  *accrediteren:*  het verstrekken door de algemene raad van een vergunning aan een opleidingsinstelling, waardoor deze de onderdelen van de beroepsopleiding advocaten, bedoeld in artikel 16, eerste lid, onderdelen b en c, mag aanbieden;  
 
-c. *algemene raad:* de algemene raad van de Nederlandse orde van advocaten;  
+c.  *advocaat:*  een in Nederland ingeschreven advocaat alsmede een advocaat, die is ingeschreven overeenkomstig artikel 2a van de wet, indien deze in de lidstaat van herkomst een verklaring heeft verworven waaruit blijkt dat de stage aldaar is afgerond;  
 
-d. *beroepsopleiding advocaten:* de opleiding voor stagiaires, bedoeld in [artikel 9c van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md);  
+d.  *algemene raad:*  de algemene raad van de Nederlandse orde van advocaten;  
 
-e. *buitenstagiaire:* de stagiaire aan wie op grond van [artikel 9b, derde lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) vrijstelling is verleend van de verplichting om de praktijk uit te oefenen ten kantore van de patroon;  
+e.  *beroepsopleiding advocaten:*  de opleiding voor stagiaires, bedoeld in artikel 9c van de wet;  
 
-f. *certificaat beroepsopleiding:* het bewijs, bedoeld in [artikel 8, derde lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) dat met gunstig gevolg het in [artikel 9c van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) bedoelde examen is afgelegd;  
+f.  *buitenstagiaire:*  de stagiaire aan wie op grond van artikel 9b, derde lid, van de wet vrijstelling is verleend van de verplichting om de praktijk uit te oefenen ten kantore van de patroon;  
 
-g. *juridische hoofdrichting:* een van de volgende hoofdrichtingen, te weten burgerlijk (proces)recht, bestuurs(proces)recht of straf(proces)recht;  
+g.  *certificaat beroepsopleiding:*  het bewijs, bedoeld in artikel 8, derde lid, van de wet dat met gunstig gevolg het in artikel 9c van de wet bedoelde examen is afgelegd;  
 
-h. *opleidingsinstelling:* een natuurlijk persoon of rechtspersoon die een opleiding verzorgt, gericht op het bereiken van vakbekwaamheid van de stagiaire, die daartoe geaccrediteerd is of die daartoe een verzoek heeft gedaan;  
+h.  *juridische hoofdrichting:*  een van de volgende hoofdrichtingen, te weten burgerlijk (proces)recht, bestuurs(proces)recht of straf(proces)recht;  
 
-i. *patroon:* de advocaat onder wiens toezicht de stagiaire de praktijk uitoefent, na verkregen goedkeuring door de raad van toezicht;  
+i.  *opleidingsinstelling:*  een natuurlijk persoon of rechtspersoon die een opleiding verzorgt, gericht op het bereiken van vakbekwaamheid van de stagiaire, die daartoe geaccrediteerd is of die daartoe een verzoek heeft gedaan;  
 
-j. *raad van toezicht:* de raad van toezicht, bedoeld in [artikel 9a van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md), in het arrondissement waar de stagiaire kantoor houdt;  
+j.  *patroon:*  de advocaat onder wiens toezicht de stagiaire de praktijk uitoefent, na verkregen goedkeuring door de raad van toezicht;  
 
-k. *stage:* de uitoefening van de praktijk door een advocaat onder toezicht van een patroon;  
+k.  *raad van toezicht:*  de raad van toezicht, bedoeld in artikel 9a van de wet, in het arrondissement waar de stagiaire kantoor houdt;  
 
-l. *stagiaire:* een advocaat die verplicht is zijn praktijk uit te oefenen onder toezicht van een patroon;  
+l.  *stage:*  de uitoefening van de praktijk door een advocaat onder toezicht van een patroon;  
 
-m. *stagiaire-ondernemer:* de stagiaire die niet in loondienst is maar de praktijk voor eigen risico en rekening uitoefent;  
+m.  *stagiaire:*  een advocaat die verplicht is zijn praktijk uit te oefenen onder toezicht van een patroon;  
 
-n. *stichting:* een door de algemene raad opgerichte stichting als bedoeld in artikel 25;  
+n.  *stagiaire-ondernemer:*  de stagiaire die niet in loondienst is maar de praktijk voor eigen risico en rekening uitoefent;  
 
-o. *uitvoeringsorganisatie:* de uitvoeringsorganisatie, bedoeld in artikel 26, eerste lid;  
+o.  *stichting:*  een door de algemene raad opgerichte stichting als bedoeld in artikel 25;  
 
-p. *wet:* de [Advocatenwet](../../../../wet/advocatenwet/BWBR0002093/README.md).    
+p.  *uitvoeringsorganisatie:*  de uitvoeringsorganisatie, bedoeld in artikel 26, eerste lid;  
+
+q.  *wet:*  de Advocatenwet.    
 
 ### Hoofdstuk  2  
 
@@ -67,13 +69,13 @@ De stage vangt aan wanneer de stagiaire beëdigd is, de stage en de patroon zijn
 
 ####Voltooiing stage
 
-1.  De stage is voltooid zodra de termijn, bedoeld in [artikel 9b van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md), is verstreken en 
+1.  De stage is voltooid zodra de termijn, bedoeld in artikel 9b van de wet, is verstreken en 
 
 a. de stagiaire voldaan heeft aan het bepaalde in de artikelen 11 en 12;  
 
 b. de stagiaire beschikt over het certificaat beroepsopleiding en  
 
-c. de raad van toezicht, gehoord de patroon en de stagiaire, oordeelt dat de stagiaire over voldoende praktijkervaring beschikt, als bedoeld in [artikel 9b, tweede lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md).     
+c. de raad van toezicht, gehoord de patroon en de stagiaire, oordeelt dat de stagiaire over voldoende praktijkervaring beschikt, als bedoeld in artikel 9b, tweede lid, van de wet.     
 2.  De raad van toezicht verstrekt aan de stagiaire, wiens stage overeenkomstig het eerste lid is voltooid, een verklaring dat de stage is voltooid.   
 
 ### Artikel  4  
@@ -138,12 +140,12 @@ e. de beoogd patroon reeds patroon is hetzij van een stagiaire-ondernemer, hetzi
 f. de beoogd patroon niet geschikt wordt geacht als patroon;  
 
 g. of op andere gronden te verwachten valt dat er onvoldoende begeleiding zal zijn in de praktijk.     
-2.  De periode, bedoeld in het eerste lid, onderdeel c, bedraagt vier jaar indien de advocaat ingeschreven is overeenkomstig [artikel 2a van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md).   
+2.  De periode, bedoeld in het eerste lid, onderdeel c, bedraagt vier jaar indien de advocaat ingeschreven is overeenkomstig artikel 2a van de wet.   
 3.  De raad van toezicht onthoudt de goedkeuring in ieder geval: 
 
-a. indien de beoogd patroon korter dan een aaneengesloten periode van vijf jaar in Nederland als advocaat is ingeschreven, dan wel, indien het een advocaat betreft die overeenkomstig [artikel 2a van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) is ingeschreven, een periode van twee jaar;  
+a. indien de beoogd patroon korter dan een aaneengesloten periode van vijf jaar in Nederland als advocaat is ingeschreven, dan wel, indien het een advocaat betreft die overeenkomstig artikel 2a van de wet is ingeschreven, een periode van twee jaar;  
 
-b. in geval het een buitenstagiaire betreft, indien de beoogd patroon niet in Nederland als advocaat is ingeschreven voor een periode van zeven jaar, dan wel, indien het een advocaat betreft die overeenkomstig [artikel 2a van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) is ingeschreven, voor een periode van vier jaar.     
+b. in geval het een buitenstagiaire of een stagiaire-ondernemer betreft, indien de beoogd patroon niet in Nederland als advocaat is ingeschreven voor een periode van zeven jaar, dan wel, indien het een advocaat betreft die overeenkomstig artikel 2a van de wet is ingeschreven, voor een periode van vier jaar.     
 
 ### Artikel  8  
 
@@ -177,7 +179,7 @@ b. stagiaire-ondernemer of buitenstagiaire is, brengt ten minste eenmaal per zes
 ####Verplichtingen voor de stagiaire
 
 1.  De stagiaire stelt zijn patroon in staat om te voldoen aan de verplichtingen genoemd in artikel 9.   
-2.  De stagiaire informeert de raad van toezicht indien de stage beëindigd is of onderbroken wordt met uitzondering van de gevallen bedoeld in de artikelen 5, vierde lid, en 9, zesde lid.   
+2.  De stagiaire informeert de raad van toezicht indien de stage beëindigd is of onderbroken wordt met uitzondering van de gevallen, bedoeld in de artikel 5, vijfde lid, en 9, zesde lid.   
 
 ### Artikel  11  
 
@@ -306,7 +308,7 @@ De stagiaire die het examen met gunstig gevolg heeft afgelegd, ontvangt van de e
 
 ####Terme de grâce
 
-1.  De stagiaire die is geschrapt op grond van [artikel 8, derde lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md), wordt op een daartoe strekkend verzoek aan de algemene raad nog ten hoogste twee keer toegelaten tot een toets in de nog niet behaalde onderdelen van het examen, voor zover deze toets binnen twee jaar na de schrapping afgelegd wordt. Het aantal keren dat een toets afgelegd kan worden, bepaald in artikel 20, tweede lid, wordt daarbij in acht genomen.   
+1.  De stagiaire die is geschrapt op grond van artikel 8, derde lid, van de wet, wordt op een daartoe strekkend verzoek aan de algemene raad nog ten hoogste twee keer toegelaten tot een toets in de nog niet behaalde onderdelen van het examen, voor zover deze toets binnen twee jaar na de schrapping afgelegd wordt. Het aantal keren dat een toets afgelegd kan worden, bepaald in artikel 20, tweede lid, wordt daarbij in acht genomen.   
 2.  Het verzoek, bedoeld in het eerste lid, wordt slechts ingewilligd indien: 
 
 a. het onderwijs in het onderdeel van de beroepsopleiding advocaten waarop het verzoek ziet, is gevolgd dan wel indien daarvoor een vrijstelling als bedoeld in artikel 19, eerste lid, is verleend, en  
@@ -338,12 +340,12 @@ b. de afwijzing naar het oordeel van de algemene raad zou leiden tot een onbilli
 
 ####Stichting beroepsopleiding advocaten
 
-1.  De algemene raad kan een stichting doen oprichten, waarvan de bestuursleden door de algemene raad worden benoemd. Bestuursleden kunnen onder meer advocaten, leden van de algemene raad of aan de faculteiten rechtsgeleerdheid van de universiteiten verbonden en door hen voorgedragen hoogleraren of docenten zijn.   
+1.  De algemene raad kan een stichting doen oprichten, waarvan de bestuursleden door het college van afgevaardigden benoemd. Bestuursleden kunnen onder meer advocaten, leden van de algemene raad of aan de faculteiten rechtsgeleerdheid van de universiteiten verbonden en door hen voorgedragen hoogleraren of docenten zijn.   
 2.  Voorzitter van het bestuur van de stichting is een lid van de algemene raad.   
 3.  De statuten van de stichting zijn zodanig ingericht dat de advocaten een meerderheid van stemmen hebben in het bestuur en bij het staken van de stemmen de voorzitter beslist.   
 4.  De stichting kan tot taak hebben: 
 
-a. het beoordelen van de kwaliteit van de beroepsopleiding en de uitvoering van de beroepsopleiding advocaten door de beroepsorganisatie;  
+a. het beoordelen van de kwaliteit van de beroepsopleiding en de uitvoering van de beroepsopleiding advocaten door de uitvoeringsorganisatie;  
 
 b. gevraagd en ongevraagd te adviseren over de beroepsopleiding advocaten, waaronder in elk geval over de eindtermen en toetstermen.     
 5.  De stichting brengt tweemaal per jaar verslag uit aan de algemene raad, waarin zij aanbevelingen kan doen over de inhoud, het curriculum, de exameneisen en de kwaliteit van de beroepsopleiding advocaten.   
@@ -353,7 +355,7 @@ b. gevraagd en ongevraagd te adviseren over de beroepsopleiding advocaten, waaro
 
 ####Uitvoeringsorganisatie
 
-1.  De algemene raad kan besluiten de uitvoering van de opleiding aan een uitvoeringsorganisatie op te dragen, met inbegrip van de bevoegdheid om examens af te nemen, met inachtneming van het in de [wet](../../../../wet/advocatenwet/BWBR0002093/README.md) en bij of krachtens deze verordening bepaalde.   
+1.  De algemene raad kan besluiten de uitvoering van de opleiding aan een uitvoeringsorganisatie op te dragen, met inbegrip van de bevoegdheid om examens af te nemen, met inachtneming van het in de wet en bij of krachtens deze verordening bepaalde.   
 2.  De uitvoeringsorganisatie doet tweemaal per jaar verslag aan de algemene raad of in diens plaats aan de stichting, bedoeld in artikel 25. Het verslag bevat ten minste een beschrijving van haar werkzaamheden, de resultaten van de examinering en de evaluatie door stagiaires van de opleiding en beschrijft hoe de continuïteit is gewaarborgd.   
 3.  Onverminderd het bepaalde in het tweede lid, informeert de uitvoeringsorganisatie de algemene raad of in diens plaats de stichting, bedoeld in artikel 25, onverwijld indien de continuïteit van de opleiding of een onderdeel ervan in gevaar komt.   
 
@@ -379,7 +381,7 @@ b. een beschrijving van de opleiding, de vakken, de docenten en de lesmethode.
 
 a. de opleiding ten minste een van de in artikel 16, tweede lid, genoemde vakinhoudelijke leerlijnen omvat;  
 
-b. de opleidingsinstelling en de opleiding voldoet aan de door de algemene raad vastgestelde accreditatievoorwaarden;  
+b. de opleidingsinstelling en de opleiding voldoen aan de door de algemene raad vastgestelde accreditatievoorwaarden;  
 
 c. de continuïteit van het onderwijs is gewaarborgd.     
 4.  Aan de accreditatie kan de algemene raad voorwaarden verbinden. Deze voorwaarden kunnen onder meer zien op de duur van de accreditatie, het verlenen van medewerking bij onderzoeken naar de kwaliteit van de opleiding en een verslagleggingsplicht.   
@@ -396,7 +398,7 @@ c. de continuïteit van het onderwijs is gewaarborgd.
 
 De raad van toezicht kan voorwaarden verbinden aan: 
 
-– beschikkingen genomen op grond van [artikel 9b, tweede, derde en vierde lid van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md);  
+– beschikkingen genomen op grond van artikel 9b, tweede, derde en vierde lid van de wet;  
 
 – de goedkeuring, bedoeld in artikel 6 en 7.    
 
@@ -404,13 +406,13 @@ De raad van toezicht kan voorwaarden verbinden aan:
 
 ####Administratief beroep
 
-1.  In aanvulling op het bepaalde in [artikel 9b, vijfde lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) kan een belanghebbende tegen de navolgende beschikkingen van de raad van toezicht en de daaraan verbonden voorwaardenadministratief beroep instellen bij de algemene raad: 
+1.  In aanvulling op het bepaalde in artikel 9b, vijfde lid, van de wet kan een belanghebbende tegen de navolgende beschikkingen van de raad van toezicht en de daaraan verbonden voorwaardenadministratief beroep instellen bij de algemene raad: 
 
-a. de verlenging van de stage, bedoeld in [artikel 9b, tweede lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md), eerste respectievelijk tweede zin;  
+a. de verlenging van de stage, bedoeld in artikel 9b, tweede lid, van de wet, eerste respectievelijk tweede zin;  
 
-b. de verlening van een vrijstelling ingevolge [artikel 9b, derde lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md);  
+b. de verlening van een vrijstelling ingevolge artikel 9b, derde lid, van de wet;  
 
-c. de aanwijzing van een patroon, bedoeld in [artikel 9b, vierde lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md);  
+c. de aanwijzing van een patroon, bedoeld in artikel 9b, vierde lid, van de wet;  
 
 d. de weigering van de goedkeuring van een patronaat, bedoeld in artikel 7, eerste en derde lid;  
 
@@ -423,7 +425,7 @@ g. de weigering tot afgifte van een verklaring, bedoeld in artikel 3, tweede lid
 
 ### Artikel  31  
 
-Een beschikking van de raad van toezicht waartegen een belanghebbende, krachtens [artikel 9b, vijfde lid, van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) of artikel 30, administratief beroep kan instellen bij de algemene raad, wordt door de secretaris van de raad van toezicht onverwijld bekend gemaakt aan de betrokkenen, alsmede aan de secretaris van de algemene raad.  
+Een beschikking van de raad van toezicht waartegen een belanghebbende, krachtens artikel 9b, vijfde lid, van de wet of artikel 30, administratief beroep kan instellen bij de algemene raad, wordt door de secretaris van de raad van toezicht onverwijld bekend gemaakt aan de betrokkenen, alsmede aan de secretaris van de algemene raad.  
 
 ### Hoofdstuk  8  
 
@@ -433,9 +435,19 @@ Een beschikking van de raad van toezicht waartegen een belanghebbende, krachtens
 
 ####Overgangsrecht
 
-1.  Voor stagiaires die beschikken over een op grond van de [Stageverordening 2005](../../../../pbo/stageverordening/1998/BWBR0013310/README.md) afgegeven bewijs dat het in [artikel 9c van de wet](../../../../wet/advocatenwet/BWBR0002093/README.md) bedoelde examen met gunstig gevolg is afgelegd en voor stagiaires die beëdigd zijn voor 1 maart 2013, ingeschreven zijn voor de beroepsopleiding en vanaf inwerkingtreding van dit artikel zonder onderbreking op het tableau staan ingeschreven, blijven de Stageverordening 2005 en de daarop berustende bepalingen van toepassing totdat de stagiaire aan de daaruit voortvloeiende verplichtingen heeft voldaan.   
+1.  Voor stagiaires die beschikken over een op grond van de Stageverordening 2005 afgegeven bewijs dat het in artikel 9c van de wet bedoelde examen met gunstig gevolg is afgelegd en voor stagiaires die beëdigd zijn voor 1 maart 2013, ingeschreven zijn voor de beroepsopleiding en vanaf inwerkingtreding van dit artikel zonder onderbreking op het tableau staan ingeschreven, blijven de Stageverordening 2005 en de daarop berustende bepalingen van toepassing totdat de stagiaire aan de daaruit voortvloeiende verplichtingen heeft voldaan.   
 2.  Indien een stagiaire op 1 september 2014 niet in het bezit is van het in het eerste lid genoemde bewijs kan de algemene raad, in afwijking van het eerste lid, aan de stagiaire alternatieve maatregelen opleggen ter afronding van de beroepsopleiding.   
-3.  Indien een stagiaire er niet in slaagt de stage voor 1 maart 2016 af te ronden, kan de raad van toezicht, respectievelijk de algemene raad hem in de gelegenheid stellen de opleidingsmaatregelen als bedoeld in [artikel 11 van de Stageverordening 2005](../../../../pbo/stageverordening/1998/BWBR0013310/README.md) anderszins te voltooien.   
+3.  Indien een stagiaire er niet in slaagt de stage voor 1 maart 2016 af te ronden, kan de raad van toezicht, respectievelijk de algemene raad hem in de gelegenheid stellen de opleidingsmaatregelen als bedoeld in artikel 11 van de Stageverordening 2005 anderszins te voltooien.   
+4.  Een stagiaire kan de algemene raad verzoeken om toegelaten te worden tot de beroepsopleiding, op grond van de Stageverordening 2005, indien hij 
+
+a. niet voldoet aan het vereiste van zonder onderbreking ingeschreven staan, bedoeld in het eerste lid,  
+
+b. reeds beëdigd is geweest,  
+
+c. op grond van de Stageverordening 2005 met de beroepsopleiding was begonnen en  
+
+d. geen certificaat als bedoeld in artikel 8, derde lid, van de wet heeft behaald.     
+5.  De algemene raad kan, op verzoek van de stagiaire, bedoeld in het vierde lid, besluiten dat op hem de bepalingen van de Stageverordening 2005 van toepassing zijn, indien de stagiaire beëdigd is voorafgaand aan het te volgen onderwijs of het af te leggen examen dat ingevolge de Stageverordening 2005 nog gegeven of afgenomen wordt.   
 
 ### Artikel  33  
 
@@ -448,4 +460,4 @@ Deze verordening treedt in werking met ingang van een door de algemene raad te b
 ####Citeertitel
 
 1.  Deze verordening wordt aangehaald als: ‘Stageverordening 2012’.   
-2.  Deze verordening treedt in de plaats van de [Stageverordening 2005](../../../../pbo/stageverordening/1998/BWBR0013310/README.md), welke op het tijdstip van de inwerkingtreding van deze verordening vervalt.   
+2.  Deze verordening treedt in de plaats van de Stageverordening 2005, welke op het tijdstip van de inwerkingtreding van deze verordening vervalt.   
