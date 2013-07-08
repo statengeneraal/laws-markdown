@@ -50,108 +50,108 @@ voor wat betreft artikel XX: [artikel 6, vierde lid, van de Algemene Wet Bijzond
 
 De Afdeling advisering van de Raad van State gehoord (advies van 25 juli 2012, no. W12.12.0270/III);
 
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 1 augustus 2012, nr. IVV/OOG/2012/11961;
+Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 1 augustus 2012, nr. IVV/OOG/2012/11961; 
 Hebben goedgevonden en verstaan:     
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
 ### Artikel  I  
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit op de huurtoeslag.   
+Wijzigt het Besluit op de huurtoeslag. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit voorzieningen Remigratiewet.   
+Wijzigt het Besluit voorzieningen Remigratiewet. 
 
 ### Artikel  IV  
 
-Wijzigt het Rechtspositiebesluit raads- en commissieleden.   
+Wijzigt het Rechtspositiebesluit raads- en commissieleden. 
 
 ### Artikel  V  
 
-Wijzigt het Rechtspositiebesluit staten- en commissieleden.   
+Wijzigt het Rechtspositiebesluit staten- en commissieleden. 
 
 ### Artikel  VI  
 
-Wijzigt het Vreemdelingenbesluit 2000.   
+Wijzigt het Vreemdelingenbesluit 2000. 
 
 ####Ministerie van Economische Zaken, Landbouw en Innovatie
 
 ### Artikel  VII  
 
-Wijzigt het Besluit samenstelling en werkwijze commissie beheer landbouwgronden.   
+Wijzigt het Besluit samenstelling en werkwijze commissie beheer landbouwgronden. 
 
 ####Ministerie van Sociale Zaken en Werkgelegenheid
 
 ### Artikel  VIII  
 
-Wijzigt het Algemeen inkomensbesluit socialezekerheidswetten.   
+Wijzigt het Algemeen inkomensbesluit socialezekerheidswetten. 
 
 ### Artikel  IX  
 
-Wijzigt het Besluit berekening afkoopsommen ongevalsuitkeringen 2008.   
+Wijzigt het Besluit berekening afkoopsommen ongevalsuitkeringen 2008. 
 
 ### Artikel  X  
 
-Wijzigt het Besluit bijstandverlening zelfstandigen 2004.   
+Wijzigt het Besluit bijstandverlening zelfstandigen 2004. 
 
 ### Artikel  XI  
 
-Wijzigt het Besluit reserve-overdracht N.S.-personeel.   
+Wijzigt het Besluit reserve-overdracht N.S.-personeel. 
 
 ### Artikel  XII  
 
-Wijzigt het Besluit uitvoering afwikkeling liquidatieuitkeringen en voorzieningen.   
+Wijzigt het Besluit uitvoering afwikkeling liquidatieuitkeringen en voorzieningen. 
 
 ### Artikel  XIII  
 
-Wijzigt het Besluit WWB 2007.   
+Wijzigt het Besluit WWB 2007. 
 
 ### Artikel  XIV  
 
-Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.   
+Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten. 
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport
 
 ### Artikel  XV  
 
-Wijzigt het Besluit draagkracht burger-oorlogsslachtoffers.   
+Wijzigt het Besluit draagkracht burger-oorlogsslachtoffers. 
 
 ### Artikel  XVI  
 
-Wijzigt het Besluit draagkracht vervolgden.   
+Wijzigt het Besluit draagkracht vervolgden. 
 
 ### Artikel  XVII  
 
-Wijzigt het Besluit maatschappelijke ondersteuning.   
+Wijzigt het Besluit maatschappelijke ondersteuning. 
 
 ### Artikel  XVIII  
 
-Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.   
+Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten. 
 
 ### Artikel  XIX  
 
-Wijzigt het Besluit toeslag premie ziektekostenverzekering Wubo en Wuv.   
+Wijzigt het Besluit toeslag premie ziektekostenverzekering Wubo en Wuv. 
 
 ### Artikel  XX  
 
-Wijzigt het Bijdragebesluit zorg.   
+Wijzigt het Bijdragebesluit zorg. 
 
 ### Artikel  XXI  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet verhoging AOW- en pensioenrichtleeftijd](../../../../../../../wet/wet/verhoging/aow-/en/pensioenrichtleeftijd/BWBR0031799/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet verhoging AOW- en pensioenrichtleeftijd](../../../../../../../wet/wet/verhoging/aow-/en/pensioenrichtleeftijd/BWBR0031799/README.md) in werking treedt. 
 
 ### Artikel  XXII  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Tweede aanpassingsbesluit inzake verhoging AOW-leeftijd.  
+Dit besluit wordt aangehaald als: Tweede aanpassingsbesluit inzake verhoging AOW-leeftijd. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -159,10 +159,10 @@ Tavarnelle
 2 augustus 2012  
 Beatrix  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 H. G. J. Kamp   
 
 de *achtste* augustus 2012 
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven    
