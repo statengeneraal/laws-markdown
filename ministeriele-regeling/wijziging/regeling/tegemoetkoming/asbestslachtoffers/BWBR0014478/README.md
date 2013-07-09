@@ -8,25 +8,25 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling tegemoetkoming asbestslachtoffers.   
+Wijzigt de Regeling tegemoetkoming asbestslachtoffers. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling vrijlating immateriële schadevergoeding Algemene bijstandswet.   
+Wijzigt de Regeling vrijlating immateriële schadevergoeding Algemene bijstandswet. 
 
 ### Artikel  III  
 
-De minister zendt binnen drie jaar na de datum van inwerkingtreding van deze regeling aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.  
+De minister zendt binnen drie jaar na de datum van inwerkingtreding van deze regeling aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk. 
 
 ### Artikel  IV  
 
 1.  Indien op het tijdstip van inwerkingtreding van deze regeling aan de werknemer of zijn nabestaanden een eenmalige uitkering is toegekend of een aanvraag van de werknemer of zijn nabestaanden om een eenmalige uitkering is afgewezen op grond van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md), zoals deze regeling luidde voor dit tijdstip, bestaat geen recht op een voorschot of een eenmalige uitkering op grond van de onderhavige regeling.   
 2.  Indien op het tijdstip van inwerkingtreding van deze regeling een aanvraag van de werknemer om een eenmalige uitkering is afgewezen op grond van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md), zoals deze regeling luidde voor dit tijdstip, kan, in afwijking van het eerste lid, de werknemer opnieuw een aanvraag om een eenmalige uitkering of een aanvraag om een voorschot op grond van de onderhavige regeling indienen, indien de werknemer op het tijdstip van de aanvraag op grond van de onderhavige regeling in leven is.   
-3.  De behandeling van aanvragen om een eenmalige uitkering en daarmee verbandhoudende bezwaren en beroepen, die op het tijdstip van inwerkingtreding van deze regeling zijn gedaan onderscheidenlijk zijn ingesteld op grond van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md), zoals deze regeling luidde voor dit tijdstip, wordt voortgezet overeenkomstig deze regeling indien de werknemer in leven is op het tijdstip van inwerkingtreding van deze regeling en deze regeling gunstiger is.   
+3.  De behandeling van aanvragen om een eenmalige uitkering en daarmee verbandhoudende bezwaren en beroepen, die op het tijdstip van inwerkingtreding van deze regeling zijn gedaan onderscheidenlijk zijn ingesteld op grond van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md), zoals deze regeling luidde voor dit tijdstip, wordt voortgezet overeenkomstig deze regeling indien de werknemer in leven is op het tijdstip van inwerkingtreding van deze regeling en deze regeling gunstiger is.  
 
 ### Artikel  V  
 
-Deze regeling treedt in werking met ingang van 1 januari 2003  
+Deze regeling treedt in werking met ingang van 1 januari 2003 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -34,4 +34,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-M.Rutte    
+M. Rutte      

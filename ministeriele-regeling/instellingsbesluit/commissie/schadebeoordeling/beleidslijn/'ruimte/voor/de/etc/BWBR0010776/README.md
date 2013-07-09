@@ -11,19 +11,19 @@ op 7 juli 1997 de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieub
 
 in paragraaf 3.4 sub c van het op 4 maart 1999 ondertekende bestuursakkoord tussen Rijk, het Interprovinciaal Overleg en de Vereniging van Nederlandse Gemeenten de afspraak is opgenomen dat een schadecommissie ter uitvoering van de beleidslijn ’Ruimte voor de rivier’ wordt ingesteld;  
 
-ter uitvoering van die afspraken een schadecommissie moet worden ingesteld,     Besluit:     
+ter uitvoering van die afspraken een schadecommissie moet worden ingesteld,     Besluit:      
 
 ####Begripsomschrijvingen
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   a. de Minister:  de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;    b. de Beleidslijn:  de Beleidslijn ’Ruimte voor de rivier’, gepubliceerd in de Staatscourant van 19 april 1996, nr. 77, en zoals gewijzigd en laatstelijk gepubliceerd in de Staatscourant van 12 mei 1997, nr. 87;    c. gemeente:  een gemeente op wier grondgebied wateren aanwezig zijn waarop de Beleidslijn overeenkomstig bijlage 1 van die Beleidslijn van toepassing is;    d. de commissie:  de commissie schadebeoordeling beleidslijn ’Ruimte voor de rivier’, bedoeld in artikel 2;    e. de Wet:  de [Wet ruimtelijke ordening](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);    f. schade:  inkomens- of vermogensschade die redelijkerwijs niet of niet geheel ten laste van een persoon behoort te blijven en waarvan de vergoeding niet of niet voldoende door aankoop, onteigening of anderszins is verzekerd.    g. hogere kosten:  de hogere kosten, bedoeld in [artikel 6.8 van de Wet](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);    h. de verzoeker:  de natuurlijke persoon of de privaatrechtelijke of de publiekrechtelijke rechtspersoon die een verzoek om schadevergoeding of vergoeding van de hogere kosten indient.     
+In dit besluit wordt verstaan onder:   a. de Minister:   de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;    b. de Beleidslijn:   de Beleidslijn ’Ruimte voor de rivier’, gepubliceerd in de Staatscourant van 19 april 1996, nr. 77, en zoals gewijzigd en laatstelijk gepubliceerd in de Staatscourant van 12 mei 1997, nr. 87;    c. gemeente:   een gemeente op wier grondgebied wateren aanwezig zijn waarop de Beleidslijn overeenkomstig bijlage 1 van die Beleidslijn van toepassing is;    d. de commissie:   de commissie schadebeoordeling beleidslijn ’Ruimte voor de rivier’, bedoeld in artikel 2;    e. de Wet:   de [Wet ruimtelijke ordening](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);    f. schade:   inkomens- of vermogensschade die redelijkerwijs niet of niet geheel ten laste van een persoon behoort te blijven en waarvan de vergoeding niet of niet voldoende door aankoop, onteigening of anderszins is verzekerd.    g. hogere kosten:   de hogere kosten, bedoeld in [artikel 6.8 van de Wet](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);    h.  de verzoeker:   de natuurlijke persoon of de privaatrechtelijke of de publiekrechtelijke rechtspersoon die een verzoek om schadevergoeding of vergoeding van de hogere kosten indient.     
 
 ####Commissie schadebeoordeling
 
 ### Artikel  2  
 
-Er is een commissie schadebeoordeling Beleidslijn ’Ruimte voor de rivier’.  
+Er is een commissie schadebeoordeling Beleidslijn ’Ruimte voor de rivier’. 
 
 ####Instellingstermijn commissie
 
@@ -37,17 +37,17 @@ De commissie wordt ingesteld voor de duur van 5 jaar, te rekenen vanaf de datum 
 
 1.  De commissie heeft tot taak: 
 
-a. de raad van de gemeente, waarin zulks bij verordening is bepaald, van advies te dienen over de door hem ingevolge [artikel 6.1 van de Wet](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) aan een belanghebbende op diens verzoek toe te kennen vergoeding van de schade als gevolg van: 
+a.  de raad van de gemeente, waarin zulks bij verordening is bepaald, van advies te dienen over de door hem ingevolge [artikel 6.1 van de Wet](../../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) aan een belanghebbende op diens verzoek toe te kennen vergoeding van de schade als gevolg van: 
 
 1. <sup>e</sup> de wijziging van bepalingen van een bestemmingsplan welke wijzigingen leiden tot het teniet gaan van bouwmogelijkheden die voor 1 februari 1995 in het betreffende bestemmingsplan vastlagen of als gevolg van een ander in dit wetsartikel genoemd besluit, welke bepalingen of welk besluit uitsluitend een gevolg zijn van de tenuitvoerlegging van de Beleidslijn;  
 
 2. <sup>e</sup> de wijziging van een bestemmingsplan in het kader van de Beleidslijn, dat op of na 1 februari 1995 van kracht werd, mits de Provinciale Planologische Commissie heeft ingestemd met die wijziging;    
 
-b. de Minister van advies te dienen over de door hem op verzoek van een gemeente te nemen beslissing over de aan die gemeente te vergoeden kosten, bedoeld onder a., voorzover de commissie terzake geen advies aan de gemeenteraad heeft uitgebracht;  
+b.  de Minister van advies te dienen over de door hem op verzoek van een gemeente te nemen beslissing over de aan die gemeente te vergoeden kosten, bedoeld onder a., voorzover de commissie terzake geen advies aan de gemeenteraad heeft uitgebracht;  
 
-c. de Minister van advies te dienen over de door hem op verzoek van een gemeente te nemen beslissing over de door hem aan die gemeente te vergoeden hogere kosten, voor zover die kosten voor de gemeente een gevolg zijn van in een bestemmingsplan opgenomen nieuwe of gewijzigde bepalingen ter uitvoering van de Beleidslijn welke bepalingen hebben geleid tot het teniet gaan van bouwmogelijkheden die voor 1 februari 1995 in het betreffende bestemmingsplan vastlagen;  
+c.  de Minister van advies te dienen over de door hem op verzoek van een gemeente te nemen beslissing over de door hem aan die gemeente te vergoeden hogere kosten, voor zover die kosten voor de gemeente een gevolg zijn van in een bestemmingsplan opgenomen nieuwe of gewijzigde bepalingen ter uitvoering van de Beleidslijn welke bepalingen hebben geleid tot het teniet gaan van bouwmogelijkheden die voor 1 februari 1995 in het betreffende bestemmingsplan vastlagen;  
 
-d. de Minister van advies te dienen over een rechtstreeks aan hem gericht verzoek tot vergoeding van de schade die de verzoeker lijdt of zal lijden omdat de gemeente schriftelijk vastgelegde toezeggingen of privaatrechtelijke overeenkomsten tengevolge van de Beleidslijn niet meer kan nakomen, welke toezeggingen of overeenkomsten niet zijn gedaan of aangegaan op basis van een geldend bestemmingsplan, of over andere gevallen van schade in het kader van de Beleidslijn.     
+d.  de Minister van advies te dienen over een rechtstreeks aan hem gericht verzoek tot vergoeding van de schade die de verzoeker lijdt of zal lijden omdat de gemeente schriftelijk vastgelegde toezeggingen of privaatrechtelijke overeenkomsten tengevolge van de Beleidslijn niet meer kan nakomen, welke toezeggingen of overeenkomsten niet zijn gedaan of aangegaan op basis van een geldend bestemmingsplan, of over andere gevallen van schade in het kader van de Beleidslijn.     
 2.  In de gevallen als bedoeld in het eerste lid, onder d, adviseert de commissie de minister mede ten aanzien van de vraag of hij gelet op het schrijnende karakter van het geval het verzoek in beschouwing zou moeten nemen.   
 
 ####Samenstelling van de commissie
@@ -57,11 +57,11 @@ d. de Minister van advies te dienen over een rechtstreeks aan hem gericht verzoe
 1.  De commissie bestaat uit drie leden.   
 2.  De leden van de commissie worden als volgt benoemd: 
 
-a. één lid wordt benoemd door de Minister;  
+a.  één lid wordt benoemd door de Minister;  
 
-b. één lid wordt benoemd door de Minister op voordracht van het bestuur van de Vereniging van Nederlandse Gemeenten;  
+b.  één lid wordt benoemd door de Minister op voordracht van het bestuur van de Vereniging van Nederlandse Gemeenten;  
 
-c. één lid wordt benoemd door de Minister op voordracht van de twee eerst benoemde leden.     
+c.  één lid wordt benoemd door de Minister op voordracht van de twee eerst benoemde leden.     
 3.  De commissie benoemt uit haar midden een voorzitter en plaatsvervangend voorzitter.   
 4.  De leden zijn onafhankelijk en hebben geen bindingen met of geen belangen in een der gemeenten die belast zijn met de uitvoering van de Beleidslijn of de ministeries van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer of van Verkeer en Waterstaat.   
 5.  De leden kunnen te allen tijde hun functie neerleggen door een schriftelijke kennisgeving aan de Minister.   
@@ -114,11 +114,11 @@ Aan de leden wordt ten laste van het Rijk een vergoeding toegekend voor het bijw
 
 ### Artikel  12  
 
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit kan worden aangehaald als: Instellingsbesluit Commissie schadebeoordeling beleidslijn ’Ruimte voor de rivier’.  
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. Dit besluit kan worden aangehaald als: Instellingsbesluit Commissie schadebeoordeling beleidslijn ’Ruimte voor de rivier’. 
 
 ’s-Gravenhage 
 15 oktober 1999    
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.P.Pronk    
+J.P. Pronk      

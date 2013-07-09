@@ -10,17 +10,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Wet Bibob:*[Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+a.  *Wet Bibob:* [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
 
-b. *bevoegde instantie:* een bestuursorgaan of een rechtspersoon met een overheidstaak die bevoegd is om de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) toe te passen;  
+b.  *bevoegde instantie:* een bestuursorgaan of een rechtspersoon met een overheidstaak die bevoegd is om de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) toe te passen;  
 
-c. *betrokkene:* een betrokkene als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
+c.  *betrokkene:* een betrokkene als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);  
 
-d. *vragenformulier:* een formulier als bedoeld in artikel 2;  
+d.  *vragenformulier:* een formulier als bedoeld in artikel 2;  
 
-e. *vragenlijst:* een vragenlijst als bedoeld in artikel 4;  
+e.  *vragenlijst:* een vragenlijst als bedoeld in artikel 4;  
 
-f. *Bibob-aangelegenheid:* een aangelegenheid als bedoeld in artikel 2, onder a tot en met e, waarbij de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wordt toegepast.    
+f.  *Bibob-aangelegenheid:* een aangelegenheid als bedoeld in artikel 2, onder a tot en met e, waarbij de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) wordt toegepast.   
 
 ### Artikel  2  
 
@@ -34,19 +34,19 @@ c. voor overige beschikkingen, overeenkomstig bijlage 3 bij deze regeling.
 
 d. voor overheidsopdrachten als bedoeld in [artikel 1, eerste lid, onder j, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), overeenkomstig bijlage 4 bij deze regeling;  
 
-e. voor vastgoedtransacties als bedoeld in [artikel 1, eerste lid, onder o, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), overeenkomstig bijlage 5 bij deze regeling.    
+e. voor vastgoedtransacties als bedoeld in [artikel 1, eerste lid, onder o, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), overeenkomstig bijlage 5 bij deze regeling.   
 
 ### Artikel  3  
 
-Het formulier voor de bevindingen van het eigen onderzoek, bedoeld in [artikel 30, vierde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), wordt vastgesteld overeenkomstig bijlage 6 bij deze regeling.  
+Het formulier voor de bevindingen van het eigen onderzoek, bedoeld in [artikel 30, vierde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), wordt vastgesteld overeenkomstig bijlage 6 bij deze regeling. 
 
 ### Artikel  4  
 
-Het is de bevoegde instantie toegestaan om op basis van het vragenformulier voor een Bibob-aangelegenheid een vragenlijst samen te stellen en in de plaats van het vragenformulier te gebruiken voor het verkrijgen van gegevens en bescheiden, bedoeld in [artikel 30, eerste en derde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).  
+Het is de bevoegde instantie toegestaan om op basis van het vragenformulier voor een Bibob-aangelegenheid een vragenlijst samen te stellen en in de plaats van het vragenformulier te gebruiken voor het verkrijgen van gegevens en bescheiden, bedoeld in [artikel 30, eerste en derde lid, van de Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). 
 
 ### Artikel  5  
 
-Bij het samenstellen van een vragenlijst voor een Bibob-aangelegenheid dient de bevoegde instantie uitsluitend een selectie te maken van vragen en deelvragen uit het vragenformulier voor die Bibob-aangelegenheid.  
+Bij het samenstellen van een vragenlijst voor een Bibob-aangelegenheid dient de bevoegde instantie uitsluitend een selectie te maken van vragen en deelvragen uit het vragenformulier voor die Bibob-aangelegenheid. 
 
 ### Artikel  6  
 
@@ -56,24 +56,24 @@ a. de bevoegde instantie dit noodzakelijk acht ter verbetering van de communicat
 
 b. de bevoegde instantie daarmee van de betrokkene niet meer gegevens of bescheiden verlangt dan op grond van het vragenformulier van de betrokkene zouden worden verlangd;  
 
-c. de strekking van de vragen in de vragenlijst niet inhoudelijk anders wordt ten opzichte van de vragen uit het vragenformulier.    
+c. de strekking van de vragen in de vragenlijst niet inhoudelijk anders wordt ten opzichte van de vragen uit het vragenformulier.   
 
 ### Artikel  7  
 
-Tot 1 november 2013 is het de bevoegde instantie toegestaan vragenlijsten te gebruiken die afwijken van de bepalingen in deze regeling.  
+Tot 1 november 2013 is het de bevoegde instantie toegestaan vragenlijsten te gebruiken die afwijken van de bepalingen in deze regeling. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Evaluatie- en uitbreidingswet Bibob](../../../../wet/evaluatie-/en/uitbreidingswet/bibob/BWBR0033159/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de [Evaluatie- en uitbreidingswet Bibob](../../../../wet/evaluatie-/en/uitbreidingswet/bibob/BWBR0033159/README.md) in werking treedt. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling Bibob-formulieren.  
+Deze regeling wordt aangehaald als: Regeling Bibob-formulieren. 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant.  
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten  
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten    
 
 ### Bijlage  1  
 
@@ -128,7 +128,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * Een subsidieaanvraag kan buiten behandeling worden gelaten.  
 
-* Een verleende subsidiebeschikking kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de subsidiebeschikking leiden.  
+* Een verleende subsidiebeschikking kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de subsidiebeschikking leiden. 
 
 ####Verwijzen
 
@@ -138,19 +138,19 @@ Het kan voorkomen dat in dit formulier wordt gevraagd naar informatie die u al e
 
 * de bewijsstukken die u bij de beantwoording van de vragen verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de koopovereenkomst van 1 januari 2013.’  
 
-* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de subsidieaanvraag van 1 januari 2013.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig beantwoordt, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder aangegeven/vastgelegd is.  
+* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de subsidieaanvraag van 1 januari 2013.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig beantwoordt, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder aangegeven/vastgelegd is. 
 
 ####Informatie overgelegd in eerdere procedures
 
-Het kan voorkomen dat u in een andere procedure bij het onderhavige bestuursorgaan al documenten of gegevens heeft gegeven, die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en het bestuursorgaan daarover nog beschikt, is het niet nodig om die opnieuw te geven. Neem contact op met het bestuursorgaan om te bepalen welke informatie u wel en niet meer hoeft te geven.  
+Het kan voorkomen dat u in een andere procedure bij het onderhavige bestuursorgaan al documenten of gegevens heeft gegeven, die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en het bestuursorgaan daarover nog beschikt, is het niet nodig om die opnieuw te geven. Neem contact op met het bestuursorgaan om te bepalen welke informatie u wel en niet meer hoeft te geven. 
 
 ####Uw antwoord past niet op het formulier
 
-Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval kunt u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt.  
+Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval kunt u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt. 
 
 ####Toelichting gebruikte termen
 
-In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)) die doelen op de subsidieontvanger(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder gaat het herhaaldelijk over ‘u’ of ‘uw’. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier vindt u een ‘Toelichting’. Daarin leggen wij de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door.  
+In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)) die doelen op de subsidieontvanger(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder gaat het herhaaldelijk over ‘u’ of ‘uw’. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier vindt u een ‘Toelichting’. Daarin leggen wij de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
 
 ### 1  
 
@@ -535,7 +535,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).    
+* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).   
 
 ### 2  
 
@@ -569,7 +569,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 1. als uw uiteindelijke zeggenschap niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -581,7 +581,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 * (kopieën van) bewijsstukken waaruit uw (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.    
+* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.   
 
 ####Financiën
 
@@ -633,7 +633,7 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -649,7 +649,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -682,7 +682,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 3  
 
@@ -696,7 +696,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *3A: Op welke vennoot heeft de hierop volgende beantwoording van de vragen 3B tot en met 3M betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -722,7 +722,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 1. als de uiteindelijke zeggenschap van deze vennoot niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -734,7 +734,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.    
+* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.   
 
 ####Financiën
 
@@ -785,7 +785,7 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -801,7 +801,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -834,7 +834,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 4  
 
@@ -885,7 +885,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 1. als de uiteindelijke zeggenschap van deze uiteindelijk zeggenschaphebbende niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -897,7 +897,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.   
 
 ####Financiën
 
@@ -948,7 +948,7 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -964,7 +964,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -997,7 +997,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 5  
 
@@ -1013,7 +1013,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *5A: Op welke uiteindelijk leidinggevende heeft de hierop volgende beantwoording van de vragen 5B t/m 5G betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -1027,7 +1027,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit de uiteindelijke zeggenschap blijkt (bijvoorbeeld aandeelhoudersregisters). Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.   
 
 ####Bestuursfuncties
 
@@ -1037,7 +1037,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 □ Ja, namelijk:   Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -1070,7 +1070,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 6  
 
@@ -1111,7 +1111,7 @@ Soort overeenkomst: Huursom/vergoeding per maand: € Als u ‘ja, gehuurd/gepac
 
 □ Nee.  
 
-□ Ja. Geef het onderstaande aan.   Jaar van aankoop: Aankoopbedrag: Wijze van financiering: Percentage eigendom: Namen mede-eigenaren:  
+□ Ja. Geef het onderstaande aan.   Jaar van aankoop: Aankoopbedrag: Wijze van financiering: Percentage eigendom: Namen mede-eigenaren: 
 
 ####Financiering van de activiteiten
 
@@ -1164,7 +1164,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 □ Nee.  
 
-□ Ja. Geef het onderstaande aan.   Bestuursorgaan: Subsidiebedrag: Bestuursorgaan: Subsidiebedrag:  
+□ Ja. Geef het onderstaande aan.   Bestuursorgaan: Subsidiebedrag: Bestuursorgaan: Subsidiebedrag: 
 
 ### 7  
 
@@ -1176,7 +1176,7 @@ De ondergetekenden verklaren dat:
 
 * de documenten die als bijlagen bij de beantwoording van dit formulier overgelegd worden, met de werkelijkheid overeenstemmen en juist zijn.   Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Als u dit formulier als gemachtigde van de betrokkene(n) ondertekent, lever dan het volgende in: 
 
-* een schriftelijk bewijs van machtiging.    
+* een schriftelijk bewijs van machtiging.   
 
 ####Toelichting
 
@@ -1198,7 +1198,7 @@ In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevord
 
 * de onderaannemers van overheidsopdrachten; en  
 
-* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die daartoe handelingen verrichten (bijvoorbeeld dit formulier invullen) of daarbij belang hebben. Voor de duidelijkheid: bij een subsidie(aanvraag) is de subsidieontvanger/-aanvrager de betrokkene.  
+* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die daartoe handelingen verrichten (bijvoorbeeld dit formulier invullen) of daarbij belang hebben. Voor de duidelijkheid: bij een subsidie(aanvraag) is de subsidieontvanger/-aanvrager de betrokkene. 
 
 ####Bezittingen
 
@@ -1226,19 +1226,19 @@ Onder ‘bezittingen’ worden verstaan:
 
 * Andere roerende zaken voor eigen gebruik of gebruik binnen het gezin, bijvoorbeeld een de inboedel van de eigen woning.  
 
-* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt.  
+* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt. 
 
 ####Natuurlijk persoon
 
-Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma).  
+Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma). 
 
 ####Onderhavige onderneming
 
-Als gesproken wordt van ‘de onderhavige onderneming’ gaat het over de onderneming waarop de vergunning(aanvraag) betrekking heeft. In principe is dit de onderneming die de betrokkene(n) drijft.  
+Als gesproken wordt van ‘de onderhavige onderneming’ gaat het over de onderneming waarop de vergunning(aanvraag) betrekking heeft. In principe is dit de onderneming die de betrokkene(n) drijft. 
 
 ####U en uw
 
-Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreven betrokkene.  
+Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreven betrokkene. 
 
 ####Uiteindelijk begunstigde
 
@@ -1250,7 +1250,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 * natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.  
 
-* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met het bestuursorgaan over wie u informatie moet geven.    
+* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met het bestuursorgaan over wie u informatie moet geven.   
 
 ####Uiteindelijk leidinggevende
 
@@ -1270,7 +1270,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Bij een stichting zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.  
 
-* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ####Uiteindelijk zeggenschaphebbende
 
@@ -1296,7 +1296,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Natuurlijke personen die direct of indirect een pandrecht hebben op de desbetreffende aandelen.  
 
-* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ### Bijlage  2  
 
@@ -1352,7 +1352,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * Een vergunningaanvraag kan buiten behandeling worden gelaten.  
 
-* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de vergunning leiden.  
+* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de vergunning leiden. 
 
 ####Verwijzen
 
@@ -1362,19 +1362,19 @@ Het kan voorkomen dat in dit formulier wordt gevraagd naar informatie die u al e
 
 * de bewijsstukken die u bij de beantwoording van de vragen verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de koopovereenkomst van 1 januari 2013.’  
 
-* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de vergunningaanvraag van 1 januari 2013.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig kunt beantwoorden, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder is aangegeven of vastgelegd.  
+* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de vergunningaanvraag van 1 januari 2013.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig kunt beantwoorden, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder is aangegeven of vastgelegd. 
 
 ####Informatie overgelegd in eerdere procedures
 
-Het kan voorkomen dat u in een andere procedure bij het onderhavige bestuursorgaan ook al documenten of gegevens heeft verstrekt, die nu weer worden opgevraagd. Als deze documenten en gegevens niet gewijzigd zijn en het bestuursorgaan daarover nog beschikt, is het niet nodig om de gegevens opnieuw te geven die opnieuw te verstrekken. Neem contact op met het bestuursorgaan om te bepalen welke informatie u wel en niet meer hoeft te geven.  
+Het kan voorkomen dat u in een andere procedure bij het onderhavige bestuursorgaan ook al documenten of gegevens heeft verstrekt, die nu weer worden opgevraagd. Als deze documenten en gegevens niet gewijzigd zijn en het bestuursorgaan daarover nog beschikt, is het niet nodig om de gegevens opnieuw te geven die opnieuw te verstrekken. Neem contact op met het bestuursorgaan om te bepalen welke informatie u wel en niet meer hoeft te geven. 
 
 ####Uw antwoord past niet op het formulier
 
-Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval kunt u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt.  
+Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval kunt u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt. 
 
 ####Toelichting gebruikte termen
 
-In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door.  
+In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door. 
 
 ### 1  
 
@@ -1410,7 +1410,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * de winst- en verliesrekening met toelichting over de afgelopen drie (boek)jaren.  
 
-* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond.*   
+* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond. *   
 
 | --- |
 |:---|
@@ -1426,14 +1426,14 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 | • de vragen 4A tot en met 4M onder ‘4. Uiteindelijk zeggenschaphebbende’; en  |
 | • de vragen 5A tot en met 5G onder ‘5. Uiteindelijk leidinggevende’.  |
 
-### * *1C: Is sprake van een vergunning(aanvraag) van/door een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of een maatschap?* * 
+### * *1C: Is sprake van een vergunning(aanvraag) van/door een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of een maatschap? * * 
 
 □ Nee. Ga door naar vraag 1F en 1G. Sla vragen 1D en 1E over.  
 
 □ Ja, en alle vennoten zijn natuurlijke personen. Beantwoord vraag 1D. Sla vragen 1E, 1F en 1G over.  
 
 □ Ja, en één of meer vennoten zijn rechtspersonen. Beantwoord vraag 1E en 1G. Sla vragen 1D en 1F over.   
-### * *1D: Welke vof, cv of maatschap betreft de vergunning(aanvraag)?* * 
+### * *1D: Welke vof, cv of maatschap betreft de vergunning(aanvraag)? * * 
 
 | --- |
 |:---|
@@ -1750,7 +1750,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).    
+* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).   
 
 ### 2  
 
@@ -1793,7 +1793,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * (kopieën van) bewijsstukken waaruit uw (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.    
+* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.   
 
 ####Financiën
 
@@ -1839,11 +1839,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *2G: Heeft u een fiscaal partner?* * 
+### * *2G: Heeft u een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -1859,7 +1859,7 @@ Opmerking: U moet hierbij in te gaan op *alle* ontvangen leningen die vermeld wo
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -1868,7 +1868,7 @@ Opmerking: U moet hierbij in te gaan op *alle* ontvangen leningen die vermeld wo
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -1884,7 +1884,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -1892,7 +1892,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 3  
 
@@ -1906,7 +1906,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *3A: Op welke vennoot heeft de hierop volgende beantwoording van de vragen 3B tot en met 3M betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -1932,7 +1932,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 1. als de uiteindelijke zeggenschap van deze vennoot niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -1944,7 +1944,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.    
+* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.   
 
 ####Financiën
 
@@ -1991,11 +1991,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *3H: Heeft deze vennoot een fiscaal partner?* * 
+### * *3H: Heeft deze vennoot een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -2011,7 +2011,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -2020,7 +2020,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -2036,7 +2036,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -2044,7 +2044,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 4  
 
@@ -2095,7 +2095,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 1. als de uiteindelijke zeggenschap van deze uiteindelijk zeggenschaphebbende niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -2107,7 +2107,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.   
 
 ####Financiën
 
@@ -2154,11 +2154,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *4H: Heeft deze uiteindelijk zeggenschaphebbende een fiscaal partner?* * 
+### * *4H: Heeft deze uiteindelijk zeggenschaphebbende een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -2174,7 +2174,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -2199,7 +2199,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -2207,7 +2207,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 5  
 
@@ -2223,7 +2223,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *5A: Op welke uiteindelijk leidinggevende heeft de hierop volgende beantwoording van de vragen 5B t/m 5G betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -2237,7 +2237,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit de uiteindelijke zeggenschap blijkt (bijvoorbeeld aandeelhoudersregisters). Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.   
 
 ####Bestuursfuncties
 
@@ -2247,7 +2247,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 □ Ja, namelijk:   Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -2272,7 +2272,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft aangegeven, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
 
@@ -2280,7 +2280,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 6  
 
@@ -2290,7 +2290,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *6A: Is de vergunningaanvrager/-houder tevens de opdrachtgever van de bouw?* * 
 
-□ Ja.  
+□  Ja.  
 
 □ Nee. De opdrachtgever(s) is/zijn:    
 
@@ -2344,7 +2344,7 @@ Als u ‘nee‘ heeft geantwoord, lever dan het volgende in:
 □ Nee.  
 
 □ Ja. Geef het onderstaande aan.   Jaar van aankoop: Aankoopbedrag: Wijze van financiering: 
-### * *6D: Wordt het pand of het terrein waarop de vergunning toeziet, gehuurd/gepacht of is er een andere gebruiksovereenkomst?* * 
+### * *6D: Wordt het pand of het terrein waarop de vergunning toeziet, gehuurd/gepacht of is er een andere gebruiksovereenkomst? * * 
 
 □ Nee.  
 
@@ -2362,7 +2362,7 @@ Als u ‘nee‘ heeft geantwoord, lever dan het volgende in:
 
 Soort overeenkomst: Huursom/vergoeding per maand: € Als u ‘ja, gehuurd/gepacht’ of ‘een andere gebruiksovereenkomst’ heeft geantwoord, lever dan het volgende in: 
 
-* (een kopie van) de huur-/pachtovereenkomst of de andere gebruiksovereenkomst.    
+* (een kopie van) de huur-/pachtovereenkomst of de andere gebruiksovereenkomst.   
 
 ####Financiering van de bouw
 
@@ -2373,14 +2373,14 @@ De bouwkosten bedragen (naar verwachting): € Lever het volgende in:
 * een begroting van de bouwkosten.  
 
 * een investeringsplanning, waarin aangegeven wordt wanneer welke kosten gemaakt zullen worden.   
-### * *6F: Wordt/is de bouw waarop de vergunning toeziet, door u (deels) gefinancierd met eigen vermogen?* * 
+### * *6F: Wordt/is de bouw waarop de vergunning toeziet, door u (deels) gefinancierd met eigen vermogen? * * 
 
 □ Nee.  
 
 □ Ja, namelijk:   Bedrag: € Dit eigen vermogen is/wordt verkregen door: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) bewijsstukken waaruit de bron en omvang van dit eigen vermogen blijkt (bijvoorbeeld rekeningafschriften).   
-### * *6G: Wordt/is de bouw waarop de vergunning toeziet, door u (deels) gefinancierd met vreemd vermogen?* * 
+### * *6G: Wordt/is de bouw waarop de vergunning toeziet, door u (deels) gefinancierd met vreemd vermogen? * * 
 
 □ Nee.  
 
@@ -2408,7 +2408,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * per financiering (een kopie van) de leenovereenkomst.  
 
-* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).    
+* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
 
 ### 7  
 
@@ -2420,7 +2420,7 @@ De ondergetekenden verklaren dat:
 
 * de documenten die als bijlagen bij de beantwoording van dit formulier overgelegd worden, met de werkelijkheid overeenstemmen en juist zijn.   Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Als u dit formulier als gemachtigde van de betrokkene(n) ondertekent, lever dan het volgende in: 
 
-* een schriftelijk bewijs van machtiging.    
+* een schriftelijk bewijs van machtiging.   
 
 ####Toelichting
 
@@ -2442,7 +2442,7 @@ In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevord
 
 * de onderaannemers van overheidsopdrachten; en  
 
-* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die daartoe handelingen verrichten (bijvoorbeeld dit formulier invullen) of daarbij belang hebben. Voor de duidelijkheid: bij een bouwvergunning(aanvraag) is de vergunninghouder/-aanvrager de betrokkene.  
+* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die daartoe handelingen verrichten (bijvoorbeeld dit formulier invullen) of daarbij belang hebben. Voor de duidelijkheid: bij een bouwvergunning(aanvraag) is de vergunninghouder/-aanvrager de betrokkene. 
 
 ####Bezittingen
 
@@ -2470,19 +2470,19 @@ Onder ‘bezittingen’ worden verstaan:
 
 * Andere roerende zaken voor eigen gebruik of gebruik binnen het gezin, bijvoorbeeld een de inboedel van de eigen woning.  
 
-* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt.  
+* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt. 
 
 ####Natuurlijk persoon
 
-Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma).  
+Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma). 
 
 ####Onderhavige onderneming
 
-Als gesproken wordt van ‘de onderhavige onderneming’ gaat het over de onderneming waarop de vergunning(aanvraag) betrekking heeft. In principe is dit de onderneming die de betrokkene(n) drijft.  
+Als gesproken wordt van ‘de onderhavige onderneming’ gaat het over de onderneming waarop de vergunning(aanvraag) betrekking heeft. In principe is dit de onderneming die de betrokkene(n) drijft. 
 
 ####U en uw
 
-Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreven betrokkene.  
+Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreven betrokkene. 
 
 ####Uiteindelijk begunstigde
 
@@ -2494,7 +2494,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 * natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.  
 
-* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met het bestuursorgaan over wie u informatie moet geven.    
+* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met het bestuursorgaan over wie u informatie moet geven.   
 
 ####Uiteindelijk leidinggevende
 
@@ -2514,7 +2514,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Bij een stichting zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.  
 
-* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ####Uiteindelijk zeggenschaphebbende
 
@@ -2540,7 +2540,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Natuurlijke personen die direct of indirect een pandrecht hebben op de desbetreffende aandelen.  
 
-* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ### Bijlage  3  
 
@@ -2594,7 +2594,7 @@ Dit vragenformulier is op grond van [artikel 30 van de Wet Bibob](../../../../we
 
 ####Vergunningen, ontheffingen, erkenningen en toekenningen
 
-Dit Bibob-vragenformulier gaat over (aanvragen van) beschikkingen – vergunningen, ontheffingen, erkenningen en toekenningen – die onder de werking van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vallen, met uitzondering van subsidiebeschikkingen en omgevingsvergunningen bouw ex [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Hieronder gebruiken wij het woord ‘vergunning’, ook als sprake is van een andere beschikking.  
+Dit Bibob-vragenformulier gaat over (aanvragen van) beschikkingen – vergunningen, ontheffingen, erkenningen en toekenningen – die onder de werking van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) vallen, met uitzondering van subsidiebeschikkingen en omgevingsvergunningen bouw ex [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Hieronder gebruiken wij het woord ‘vergunning’, ook als sprake is van een andere beschikking. 
 
 ####Consequenties gebrekkig invullen
 
@@ -2602,7 +2602,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * Een vergunningaanvraag kan buiten behandeling worden gelaten.  
 
-* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de vergunning leiden.  
+* Een verleende vergunning kan worden ingetrokken.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot weigering en/of intrekking van de vergunning leiden. 
 
 ####Verwijzen
 
@@ -2612,19 +2612,19 @@ Het kan voorkomen dat in dit formulier wordt gevraagd naar informatie die u al e
 
 * de bewijsstukken die u bij de beantwoording van de vragen verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de koopovereenkomst van 1 januari 2013.’  
 
-* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de vergunningaanvraag van 1 januari 2013.’   Als u de vragen uit dit formulier met deze verwijzingen volledig beantwoordt, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder is aangegeven of vastgelegd.  
+* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de vergunningaanvraag van 1 januari 2013.’   Als u de vragen uit dit formulier met deze verwijzingen volledig beantwoordt, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder is aangegeven of vastgelegd. 
 
 ####Informatie overgelegd in eerdere procedures
 
-Het kan voorkomen dat u in een andere procedure bij het onderhavige bestuursorgaan al documenten of gegevens heeft verstrekt die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en het bestuursorgaan die gegevens nog heeft, is het niet nodig om die gegevens opnieuw te verstrekken. U moet dat wel met het bestuursorgaan overleggen.  
+Het kan voorkomen dat u in een andere procedure bij het onderhavige bestuursorgaan al documenten of gegevens heeft verstrekt die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en het bestuursorgaan die gegevens nog heeft, is het niet nodig om die gegevens opnieuw te verstrekken. U moet dat wel met het bestuursorgaan overleggen. 
 
 ####Uw antwoord past niet op het formulier
 
-Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval moet u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt.  
+Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval moet u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt. 
 
 ####Toelichting gebruikte termen
 
-In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door.  
+In de vragen staan vaak de woorden ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Het gaat dan om de vergunninghouder(s) of -aanvrager(s). Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Daarmee bedoelen we de hierboven beschreven betrokkene. Achter dit vragenformulier is een hoofdstuk ‘Toelichting’ opgenomen. Daarin leggen we de betekenis van enkele andere termen uit. Lees deze toelichting goed door. 
 
 ### 1  
 
@@ -2660,7 +2660,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * de winst- en verliesrekening met toelichting over de afgelopen drie (boek)jaren.  
 
-* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond.*   
+* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond. *   
 
 | --- |
 |:---|
@@ -2670,14 +2670,14 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 | --- |
 | U kunt de volgende vragen overslaan:  • de vragen 1C tot en met 1G;  • de vragen 3A tot en met 3N onder ‘3. Vennoot – natuurlijk persoon’;  • de vragen 4A tot en met 4N onder ‘4. Uiteindelijk zeggenschaphebbende’; en  • de vragen 5A tot en met 5G onder ‘5. Uiteindelijk leidinggevende’.  |
 
-### * *1C: Is sprake van een vergunning(aanvraag) van/door een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of een maatschap?* * 
+### * *1C: Is sprake van een vergunning(aanvraag) van/door een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of een maatschap? * * 
 
 □ Nee. Ga door naar vraag 1F en 1G. Sla vragen 1D en 1E over.  
 
 □ Ja, en alle vennoten zijn natuurlijke personen. Beantwoord vraag 1D. Sla vragen 1E, 1F en 1G over.  
 
 □ Ja, en één of meer vennoten zijn rechtspersonen. Beantwoord vraag 1E en 1G. Sla vragen 1D en 1F over.   
-### * *1D: Welke vof, cv of maatschap betreft de vergunning(aanvraag)?* * 
+### * *1D: Welke vof, cv of maatschap betreft de vergunning(aanvraag)? * * 
 
 | --- |
 |:---|
@@ -2975,7 +2975,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).    
+* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).   
 
 ### 2  
 
@@ -3009,7 +3009,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 1. als uw uiteindelijke zeggenschap niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -3021,7 +3021,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 * (kopieën van) bewijsstukken waaruit uw (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.    
+* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.   
 
 ####Financiën
 
@@ -3069,11 +3069,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *2G: Heeft u een fiscaal partner?* * 
+### * *2G: Heeft u een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -3089,7 +3089,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -3098,7 +3098,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -3114,7 +3114,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -3122,7 +3122,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ####Arbeidshistorie
 
@@ -3130,7 +3130,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Nee.  
 
-□ Ja. Geef het onderstaande aan:   Naam werkgever: Periode:  
+□ Ja. Geef het onderstaande aan:   Naam werkgever: Periode: 
 
 ### 3  
 
@@ -3144,7 +3144,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *3A: Op welke vennoot heeft de hierop volgende beantwoording van de vragen 3B tot en met 3N betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -3170,7 +3170,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 1. als de uiteindelijke zeggenschap van deze vennoot niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -3182,7 +3182,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.    
+* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.   
 
 ####Financiën
 
@@ -3229,11 +3229,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *3H: Heeft deze vennoot een fiscaal partner?* * 
+### * *3H: Heeft deze vennoot een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -3249,7 +3249,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -3258,7 +3258,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -3274,7 +3274,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -3282,7 +3282,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ####Arbeidshistorie
 
@@ -3290,7 +3290,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Nee.  
 
-□ Ja. Geef het onderstaande aan:   Naam werkgever: Periode:  
+□ Ja. Geef het onderstaande aan:   Naam werkgever: Periode: 
 
 ### 4  
 
@@ -3341,7 +3341,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 1. als de uiteindelijke zeggenschap van deze uiteindelijk zeggenschaphebbende niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -3353,7 +3353,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.   
 
 ####Financiën
 
@@ -3400,11 +3400,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *4H: Heeft deze uiteindelijk zeggenschaphebbende een fiscaal partner?* * 
+### * *4H: Heeft deze uiteindelijk zeggenschaphebbende een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -3420,7 +3420,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -3445,7 +3445,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -3453,7 +3453,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ####Arbeidshistorie
 
@@ -3463,7 +3463,7 @@ Opmerking: Geef ook ‘nee’ aan als deze uiteindelijk zeggenschaphebbende een 
 
 □ Nee.  
 
-□ Ja. Geef het onderstaande aan:   Naam werkgever: Periode:  
+□ Ja. Geef het onderstaande aan:   Naam werkgever: Periode: 
 
 ### 5  
 
@@ -3479,7 +3479,7 @@ Opmerking: Geef ook ‘nee’ aan als deze uiteindelijk zeggenschaphebbende een 
 
 ### * *5A: Op welke uiteindelijk leidinggevende heeft de hierop volgende beantwoording van de vragen 5B t/m 5G betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -3493,7 +3493,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit de uiteindelijke zeggenschap blijkt (bijvoorbeeld aandeelhoudersregisters). Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.   
 
 ####Bestuursfuncties
 
@@ -3503,7 +3503,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 □ Ja, namelijk:   Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -3528,7 +3528,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft aangegeven, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
 
@@ -3536,7 +3536,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 6  
 
@@ -3617,7 +3617,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * de exploitatieovereenkomst.  
 
-* (kopieën van) bewijsstukken waaruit blijkt hoeveel geld daadwerkelijk voor het (laten) plaatsen van deze speelautomaten is ontvangen.    
+* (kopieën van) bewijsstukken waaruit blijkt hoeveel geld daadwerkelijk voor het (laten) plaatsen van deze speelautomaten is ontvangen.   
 
 ####Vestigingslocatie en inventaris
 
@@ -3626,7 +3626,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 □ Nee. Sla vragen 6F tot en met 6K over.  
 
 □ Ja, namelijk:   Adres(sen): 
-### * *6F: Wordt het pand of terrein waarop de vergunning(aanvraag) toeziet, gehuurd/gepacht of is er een andere gebruiksovereenkomst?* * 
+### * *6F: Wordt het pand of terrein waarop de vergunning(aanvraag) toeziet, gehuurd/gepacht of is er een andere gebruiksovereenkomst? * * 
 
 □ Nee. Sla vraag 6G over.  
 
@@ -3654,8 +3654,8 @@ Soort overeenkomst: Huursom/vergoeding per maand: € Als u ‘ja, gehuurd/gepac
 
 □ Nee.  
 
-□ Ja. Geef het onderstaande aan.   Jaar van aankoop: Aankoopbedrag: Wijze van financiering: Percentage eigendom: Namen mede-eigenaren: 
-### * *6I: Wordt de inventaris van de onderhavige onderneming (deels) gepacht of gehuurd?* * 
+□  Ja. Geef het onderstaande aan.   Jaar van aankoop: Aankoopbedrag: Wijze van financiering: Percentage eigendom: Namen mede-eigenaren: 
+### * *6I: Wordt de inventaris van de onderhavige onderneming (deels) gepacht of gehuurd? * * 
 
 □ Nee. Sla vraag 6J over.  
 
@@ -3683,7 +3683,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 □ Nee.  
 
-□ Ja. Geef het onderstaande aan.   Aankoopbedrag: Wijze van financiering:  
+□ Ja. Geef het onderstaande aan.   Aankoopbedrag: Wijze van financiering: 
 
 ### 7  
 
@@ -3695,7 +3695,7 @@ De ondergetekenden verklaren dat:
 
 * de documenten die als bijlagen bij de beantwoording van dit formulier overgelegd worden, met de werkelijkheid overeenstemmen en juist zijn.   Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Als u dit formulier als gemachtigde van de betrokkene(n) ondertekent, lever dan het volgende in: 
 
-* een schriftelijk bewijs van machtiging.    
+* een schriftelijk bewijs van machtiging.   
 
 ####Toelichting
 
@@ -3717,7 +3717,7 @@ In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevord
 
 * de onderaannemers van overheidsopdrachten; en  
 
-* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet altijd om de natuurlijke personen die daartoe handelingen verrichten (bijvoorbeeld dit formulier invullen) of daarbij belang hebben. Voor de duidelijkheid: bij een vergunning(aanvraag) is de vergunninghouder/-aanvrager de betrokkene.  
+* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet altijd om de natuurlijke personen die daartoe handelingen verrichten (bijvoorbeeld dit formulier invullen) of daarbij belang hebben. Voor de duidelijkheid: bij een vergunning(aanvraag) is de vergunninghouder/-aanvrager de betrokkene. 
 
 ####Bezittingen
 
@@ -3745,19 +3745,19 @@ Onder ‘bezittingen’ worden verstaan:
 
 * Andere roerende zaken voor eigen gebruik of gebruik binnen het gezin, bijvoorbeeld een de inboedel van de eigen woning.  
 
-* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt.  
+* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt. 
 
 ####Natuurlijk persoon
 
-Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma).  
+Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma). 
 
 ####Onderhavige onderneming
 
-‘De onderhavige onderneming’ is de onderneming waarop de vergunning(aanvraag) betrekking heeft. In principe is dit de onderneming die de betrokkene(n) drijft.  
+‘De onderhavige onderneming’ is de onderneming waarop de vergunning(aanvraag) betrekking heeft. In principe is dit de onderneming die de betrokkene(n) drijft. 
 
 ####U en uw
 
-Als er ‘u’ of ‘uw’ staat, bedoelen we de hierboven beschreven betrokkene.  
+Als er ‘u’ of ‘uw’ staat, bedoelen we de hierboven beschreven betrokkene. 
 
 ####Uiteindelijk begunstigde
 
@@ -3769,7 +3769,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 * natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.  
 
-* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Dit kan een groot aantal natuurlijke personen betreffen. Overleg met het bestuursorgaan over wie u informatie moet geven.    
+* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Dit kan een groot aantal natuurlijke personen betreffen. Overleg met het bestuursorgaan over wie u informatie moet geven.   
 
 ####Uiteindelijk leidinggevende
 
@@ -3789,7 +3789,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Bij een stichting zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.  
 
-* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Dit betreft bijvoorbeeld natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Dit betreft bijvoorbeeld natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ####Uiteindelijk zeggenschaphebbende
 
@@ -3815,7 +3815,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Natuurlijke personen die direct of indirect een pandrecht hebben op de desbetreffende aandelen.  
 
-* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld om natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld om natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ### Bijlage  4  
 
@@ -3882,7 +3882,7 @@ Dit vragenformulier is bedoeld voor betrokkenen zoals die in [artikel 1, eerste 
 
 ####Relatie met eigen verklaring
 
-Belangrijk: indien de betrokkene, aan wie de vragenlijst wordt uitgereikt, een gegadigde of onderaannemer voor overheidsopdrachten is, zijn een aantal vragen in dit formulier al reeds beantwoord in de eigen verklaring. Ingevolge [artikel 2.85, tweede lid van de Aanbestedingswet 2012](../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) is het dan niet toegestaan dat de aanbestedende dienst deze vragen nogmaals in het kader van de [wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) stelt. Vragen die ook (deels) kunnen worden gesteld in de eigen verklaring zijn 2I, 2J, 2L, 3J, 3K, 3M, 4J, 4K, 4M, 5D, 5E en de vragen in hoofdstuk 6. Deze vragen dienen derhalve uit de vragenlijst te worden verwijderd. Indien de vragenlijst, na gunning van de opdracht, dient voor een onderzoek met het oog op een beslissing ter zake van de ontbinding van een overeenkomst inzake een overheidsopdracht kunnen alle vragen uit het vragenformulier worden gesteld.  
+Belangrijk: indien de betrokkene, aan wie de vragenlijst wordt uitgereikt, een gegadigde of onderaannemer voor overheidsopdrachten is, zijn een aantal vragen in dit formulier al reeds beantwoord in de eigen verklaring. Ingevolge [artikel 2.85, tweede lid van de Aanbestedingswet 2012](../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) is het dan niet toegestaan dat de aanbestedende dienst deze vragen nogmaals in het kader van de [wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) stelt. Vragen die ook (deels) kunnen worden gesteld in de eigen verklaring zijn 2I, 2J, 2L, 3J, 3K, 3M, 4J, 4K, 4M, 5D, 5E en de vragen in hoofdstuk 6. Deze vragen dienen derhalve uit de vragenlijst te worden verwijderd. Indien de vragenlijst, na gunning van de opdracht, dient voor een onderzoek met het oog op een beslissing ter zake van de ontbinding van een overeenkomst inzake een overheidsopdracht kunnen alle vragen uit het vragenformulier worden gesteld. 
 
 ####Verwijzen
 
@@ -3892,19 +3892,19 @@ Het kan voorkomen dat wij in dit formulier vragen naar informatie die u al heeft
 
 * de bewijsstukken die u bij de beantwoording van de vragen geeft. Geef dan bijvoorbeeld het volgende aan: ‘Zie de balans van 1 januari 2013.’  
 
-* documenten die u eerder in de onderhavige procedure heeft gegeven. Geef dan bijvoorbeeld het volgende aan: ‘Zie de jaarrekening 2012.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig kunt beantwoorden, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder aangegeven/vastgelegd is.  
+* documenten die u eerder in de onderhavige procedure heeft gegeven. Geef dan bijvoorbeeld het volgende aan: ‘Zie de jaarrekening 2012.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig kunt beantwoorden, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder aangegeven/vastgelegd is. 
 
 ####Informatie overgelegd in eerdere procedures
 
-Het kan voorkomen dat u in een andere procedure bij de onderhavige rechtspersoon met een overheidstaak al documenten of gegevens heeft gegeven die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en de rechtspersoon met een overheidstaak daarover nog beschikt, is het niet nodig om die informatie opnieuw te geven. Overleg met de rechtspersoon met een overheidstaak welke informatie u nog wel en niet meer hoeft te geven.  
+Het kan voorkomen dat u in een andere procedure bij de onderhavige rechtspersoon met een overheidstaak al documenten of gegevens heeft gegeven die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en de rechtspersoon met een overheidstaak daarover nog beschikt, is het niet nodig om die informatie opnieuw te geven. Overleg met de rechtspersoon met een overheidstaak welke informatie u nog wel en niet meer hoeft te geven. 
 
 ####Uw antwoord past niet op het formulier
 
-Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval kunt u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt.  
+Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. In dat geval kunt u de gevraagde gegevens vermelden op een bijlage die u bij dit formulier voegt. 
 
 ####Toelichting gebruikte termen
 
-In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dat zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Hiermee doelen wij op gegadigden, (rechts)personen aan wie een overheidsopdracht is of zal worden gegund en onderaannemers. Als de gegadigde, de (rechts)persoon aan wie een overheidsopdracht is of zal worden gegund, of de onderaannemer een vof, cv of maatschap is, zijn alle vennoten betrokkenen. Verder spreken wij herhaaldelijk van ‘u’ of ‘uw’. Hiermee bedoelen wij ook de betrokkenen. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door.  
+In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dat zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Hiermee doelen wij op gegadigden, (rechts)personen aan wie een overheidsopdracht is of zal worden gegund en onderaannemers. Als de gegadigde, de (rechts)persoon aan wie een overheidsopdracht is of zal worden gegund, of de onderaannemer een vof, cv of maatschap is, zijn alle vennoten betrokkenen. Verder spreken wij herhaaldelijk van ‘u’ of ‘uw’. Hiermee bedoelen wij ook de betrokkenen. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
 
 ### 1  
 
@@ -3942,7 +3942,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * de winst- en verliesrekening met toelichting over de afgelopen drie (boek)jaren.  
 
-* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond.*   
+* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond. *   
 
 | --- |
 |:---|
@@ -3956,11 +3956,11 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 | • de vragen 4A tot en met 4M onder ‘4. Uiteindelijk zeggenschaphebbende’; en  |
 | • de vragen 5A tot en met 5G onder ‘5. Uiteindelijk leidinggevende’.  |
 
-### * *1C: Handelen de betrokkenen met betrekking tot de onderhavige overheidsopdracht als vennoten van een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of maatschap?* * 
+### * *1C: Handelen de betrokkenen met betrekking tot de onderhavige overheidsopdracht als vennoten van een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of maatschap? * * 
 
 Opmerking: Als de gegadigde, de (rechts)persoon aan wie een overheidsopdracht is of zal worden gegund of de onderaannemer een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of maatschap is, zijn alle vennoten betrokkenen. 
 
-□ Nee. Ga door naar vraag 1F en 1G. Sla vragen 1D en 1E over.  
+□  Nee. Ga door naar vraag 1F en 1G. Sla vragen 1D en 1E over.  
 
 □ Ja, en alle vennoten zijn natuurlijke personen. Beantwoord vraag 1D. Sla vragen 1E, 1F en 1G over.  
 
@@ -4282,7 +4282,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).    
+* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).   
 
 ### 2  
 
@@ -4316,7 +4316,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 1. als uw uiteindelijke zeggenschap niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -4328,7 +4328,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 * (kopieën van) bewijsstukken waaruit uw (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.    
+* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.   
 
 ####Financiën
 
@@ -4376,11 +4376,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *2G: Heeft u een fiscaal partner?* * 
+### * *2G: Heeft u een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -4396,7 +4396,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -4405,7 +4405,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -4421,7 +4421,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -4429,7 +4429,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 3  
 
@@ -4443,7 +4443,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *3A: Op welke vennoot heeft de hierop volgende beantwoording van de vragen 3B tot en met 3 M betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -4469,7 +4469,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 1. als de uiteindelijke zeggenschap van deze vennoot niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -4481,7 +4481,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.    
+* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.   
 
 ####Financiën
 
@@ -4528,11 +4528,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *3H: Heeft deze vennoot een fiscaal partner?* * 
+### * *3H: Heeft deze vennoot een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -4548,7 +4548,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -4557,7 +4557,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -4573,7 +4573,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -4581,7 +4581,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 4  
 
@@ -4632,7 +4632,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 1. als de uiteindelijke zeggenschap van deze uiteindelijk zeggenschaphebbende niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -4644,7 +4644,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.   
 
 ####Financiën
 
@@ -4691,11 +4691,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *4H: Heeft deze uiteindelijk zeggenschaphebbende een fiscaal partner?* * 
+### * *4H: Heeft deze uiteindelijk zeggenschaphebbende een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -4711,7 +4711,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -4736,7 +4736,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -4744,7 +4744,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 5  
 
@@ -4760,7 +4760,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *5A: Op welke uiteindelijk leidinggevende heeft de hierop volgende beantwoording van de vragen 5B t/m 5G betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -4774,7 +4774,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit de uiteindelijke zeggenschap blijkt (bijvoorbeeld aandeelhoudersregisters). Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.   
 
 ####Bestuursfuncties
 
@@ -4784,7 +4784,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 □ Ja, namelijk:   Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -4809,7 +4809,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft aangegeven, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
 
@@ -4817,7 +4817,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 6  
 
@@ -4829,7 +4829,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ####Uitsluitingsgronden Europese aanbestedingsrichtlijnen
 
-### * *6A: Verkeert deze betrokkene in staat van faillissement, vereffening, surséance van betaling of akkoord, heeft deze betrokkene zijn werkzaamheden gestaakt of verkeert hij in een andere soortgelijke toestand ingevolge een gelijkaardige procedure van de nationale wettelijke regeling?* * 
+### * *6A: Verkeert deze betrokkene in staat van faillissement, vereffening, surséance van betaling of akkoord, heeft deze betrokkene zijn werkzaamheden gestaakt of verkeert hij in een andere soortgelijke toestand ingevolge een gelijkaardige procedure van de nationale wettelijke regeling? * * 
 
 | --- | --- |
 |:---|:---|
@@ -4895,7 +4895,7 @@ Opmerking: Het uitoefenen van het beroep is meer dan alleen het afleveren van ee
 
 □ Ja.   Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* een uitgebreide omschrijving van de valse verklaring.    
+* een uitgebreide omschrijving van de valse verklaring.   
 
 ####Financiële en economische draagkracht
 
@@ -4913,7 +4913,7 @@ Lever het volgende in:
 
 * als de opdracht over diensten gaat: de omzetcijfers van de diensten.  
 
-* als de opdracht gaat over leveringen: de omzetcijfers van de leverancier ten aanzien van zijn producten.    
+* als de opdracht gaat over leveringen: de omzetcijfers van de leverancier ten aanzien van zijn producten.   
 
 ### 7  
 
@@ -4925,7 +4925,7 @@ De ondergetekenden verklaren dat:
 
 * de documenten die als bijlagen bij de beantwoording van dit formulier overgelegd worden, met de werkelijkheid overeenstemmen en juist zijn.   Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Als u dit formulier als gemachtigde van de betrokkene(n) ondertekent, lever dan het volgende in: 
 
-* een schriftelijk bewijs van machtiging.    
+* een schriftelijk bewijs van machtiging.   
 
 ####Toelichting
 
@@ -4947,7 +4947,7 @@ In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevord
 
 * de onderaannemers van overheidsopdrachten; en  
 
-* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die handelingen verrichten (bijvoorbeeld dit formulier invullen) of belang hebben bij de relatie. Voor de duidelijkheid: bij een overheidsopdracht zijn de gegadigden, de (rechts)personen aan wie een overheidsopdracht is of zal worden gegund en de onderaannemers de betrokkenen. Als de gegadigde, de (rechts)persoon aan wie een overheidsopdracht is of zal worden gegund of onderaannemer een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of maatschap is, zijn alle vennoten betrokkenen.  
+* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die handelingen verrichten (bijvoorbeeld dit formulier invullen) of belang hebben bij de relatie. Voor de duidelijkheid: bij een overheidsopdracht zijn de gegadigden, de (rechts)personen aan wie een overheidsopdracht is of zal worden gegund en de onderaannemers de betrokkenen. Als de gegadigde, de (rechts)persoon aan wie een overheidsopdracht is of zal worden gegund of onderaannemer een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of maatschap is, zijn alle vennoten betrokkenen. 
 
 ####Bezittingen
 
@@ -4975,15 +4975,15 @@ Onder ‘bezittingen’ worden begrepen:
 
 * Andere roerende zaken voor eigen gebruik of gebruik binnen het gezin, bijvoorbeeld een de inboedel van de eigen woning.  
 
-* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt.  
+* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt. 
 
 ####Natuurlijk persoon
 
-Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma).  
+Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma). 
 
 ####Onderhavige onderneming
 
-Als gesproken wordt van ‘de onderhavige onderneming’ betreft dit in principe de onderneming die door de betrokkene(n) wordt gedreven.  
+Als gesproken wordt van ‘de onderhavige onderneming’ betreft dit in principe de onderneming die door de betrokkene(n) wordt gedreven. 
 
 ####Rechtspersoon met een overheidstaak
 
@@ -5005,11 +5005,11 @@ In [artikel 1, eerste lid, onder a van de Wet Bibob](../../../../wet/wet/bevorde
 
 * openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md); en  
 
-* zelfstandige bestuursorganen die bij algemene maatregel van bestuur aangewezen zijn.   In het kader van een overheidsopdracht treden deze rechtspersonen op als aanbestedende dienst of de contractpartij waarmee – na een aanbesteding – een overeenkomst is gesloten.  
+* zelfstandige bestuursorganen die bij algemene maatregel van bestuur aangewezen zijn.   In het kader van een overheidsopdracht treden deze rechtspersonen op als aanbestedende dienst of de contractpartij waarmee – na een aanbesteding – een overeenkomst is gesloten. 
 
 ####U en uw
 
-Als wij van ‘u’ of ‘uw’ spreken, bedoelen wij de hierboven beschreven betrokkene.  
+Als wij van ‘u’ of ‘uw’ spreken, bedoelen wij de hierboven beschreven betrokkene. 
 
 ####Uiteindelijk begunstigde
 
@@ -5021,7 +5021,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 * natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.  
 
-* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met de rechtspersoon met een overheidstaak over wie u informatie moet geven.    
+* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met de rechtspersoon met een overheidstaak over wie u informatie moet geven.   
 
 ####Uiteindelijk leidinggevende
 
@@ -5041,7 +5041,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Bij een stichting zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.  
 
-* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ####Uiteindelijk zeggenschaphebbende
 
@@ -5067,7 +5067,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Natuurlijke personen die direct of indirect een pandrecht hebben op de desbetreffende aandelen.  
 
-* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ### Bijlage  5  
 
@@ -5128,7 +5128,7 @@ Dit Bibob-vragenformulier moet u volledig, correct en waarheidsgetrouw invullen 
 
 * van het aangaan van een vastgoedtransactie kan worden afgezien; en  
 
-* reeds gesloten vastgoedtransacties kunnen worden ontbonden of opgeschort.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot het afzien, ontbinden of opschorten van een vastgoedtransactie leiden.  
+* reeds gesloten vastgoedtransacties kunnen worden ontbonden of opgeschort.   Bovendien is het opzettelijk verschaffen van onjuiste informatie (valsheid in geschrifte) strafbaar in de zin van [artikel 225 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Dit kan ook tot het afzien, ontbinden of opschorten van een vastgoedtransactie leiden. 
 
 ####Verwijzen
 
@@ -5138,19 +5138,19 @@ Het kan voorkomen dat in dit formulier wordt gevraagd naar informatie die u al h
 
 * de bewijsstukken die u bij de beantwoording van de vragen verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de koopovereenkomst van 1 januari 2013.’  
 
-* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de huurovereenkomst van 1 januari 2013.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig kunt beantwoorden, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder aangegeven/vastgelegd is.  
+* documenten die u eerder in de onderhavige procedure heeft verstrekt. Geef dan bijvoorbeeld het volgende aan: ‘Zie de huurovereenkomst van 1 januari 2013.’   Voor zover u de vragen uit dit formulier met deze verwijzingen volledig kunt beantwoorden, hoeft u verder niets in te vullen. Houd er wel rekening mee dat de actuele situatie veranderd kan zijn ten opzichte van wat eerder aangegeven/vastgelegd is. 
 
 ####Informatie overgelegd in eerdere procedures
 
-Het kan voorkomen dat u in een andere procedure bij de onderhavige rechtspersoon met een overheidstaak al documenten of gegevens heeft gegeven die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en de rechtspersoon met een overheidstaak die informatie nog heeft, is het niet nodig om die opnieuw te geven. Overleg met de rechtspersoon met een overheidstaak welke informatie u nog wel en niet meer hoeft te geven.  
+Het kan voorkomen dat u in een andere procedure bij de onderhavige rechtspersoon met een overheidstaak al documenten of gegevens heeft gegeven die nu weer worden opgevraagd. Als deze documenten en gegevens niet zijn veranderd en de rechtspersoon met een overheidstaak die informatie nog heeft, is het niet nodig om die opnieuw te geven. Overleg met de rechtspersoon met een overheidstaak welke informatie u nog wel en niet meer hoeft te geven. 
 
 ####Uw antwoord past niet op het formulier
 
-Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. U kunt de gevraagde gegevens dan vermelden op een bijlage die u bij dit formulier voegt.  
+Het kan voorkomen dat uw antwoord niet past in de antwoordruimte bij de desbetreffende vraag. U kunt de gevraagde gegevens dan vermelden op een bijlage die u bij dit formulier voegt. 
 
 ####Toelichting gebruikte termen
 
-In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Hiermee wordt de (beoogde) contractpartij bedoeld, dus de (rechts)persoon met wie een vastgoedtransactie is of zal worden aangegaan. Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door.  
+In de vragen spreken wij herhaaldelijk over ‘de betrokkene’ of ‘de betrokkenen’. Dit zijn termen uit de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) (zie [artikel 1, eerste lid, onder e](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md)). Hiermee wordt de (beoogde) contractpartij bedoeld, dus de (rechts)persoon met wie een vastgoedtransactie is of zal worden aangegaan. Dit kunnen ook rechtspersonen zijn. Verder wordt herhaaldelijk van ‘u’ of ‘uw’ gesproken. Hiermee bedoelen wij de hierboven beschreven betrokkene. Achterin dit vragenformulier leggen wij onder ‘Toelichting’ de betekenis van enkele andere termen uit. Lees dit hoofdstuk goed door. 
 
 ### 1  
 
@@ -5186,7 +5186,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * de winst- en verliesrekening met toelichting over de afgelopen drie (boek)jaren.  
 
-* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond.*   
+* de balans met toelichting per het eind van de afgelopen drie (boek)jaren.    *U hoeft deze balansen en winst- en verliesrekeningen natuurlijk niet te geven voor de periode dat de eenmanszaak nog niet bestond. *   
 
 | --- |
 |:---|
@@ -5202,14 +5202,14 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 | • de vragen 4A tot en met 4M onder ‘4. Uiteindelijk zeggenschaphebbende’; en  |
 | • de vragen 5A tot en met 5G onder ‘5. Uiteindelijk leidinggevende’.  |
 
-### * *1C: Is sprake van een vastgoedtransactie met een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of een maatschap?* * 
+### * *1C: Is sprake van een vastgoedtransactie met een vennootschap onder firma (vof), een commanditaire vennootschap (cv) of een maatschap? * * 
 
 □ Nee. Ga door naar vraag 1F en 1G. Sla vragen 1D en 1E over.  
 
 □ Ja, en alle vennoten zijn natuurlijke personen. Beantwoord vraag 1D. Sla vragen 1E, 1F en 1G over.  
 
 □ Ja, en één of meer vennoten zijn rechtspersonen. Beantwoord vraag 1E en 1G. Sla vragen 1D en 1F over.   
-### * *1D: Welke vof, cv of maatschap betreft de vastgoedtransactie?* * 
+### * *1D: Welke vof, cv of maatschap betreft de vastgoedtransactie? * * 
 
 | --- |
 |:---|
@@ -5528,7 +5528,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).    
+* (kopieën van) bewijsstukken waaruit deze uiteindelijke begunstiging blijkt (bijvoorbeeld certificaten).   
 
 ### 2  
 
@@ -5562,7 +5562,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 1. als uw uiteindelijke zeggenschap niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -5574,7 +5574,7 @@ Opmerking: In de toelichting achterin dit formulier staat wanneer iemand als uit
 
 * (kopieën van) bewijsstukken waaruit uw (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.    
+* een organogram waarin de verhoudingen tussen u en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 2A overlegt.   
 
 ####Financiën
 
@@ -5622,11 +5622,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *2G: Heeft u een fiscaal partner?* * 
+### * *2G: Heeft u een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -5642,7 +5642,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -5651,7 +5651,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *2J: Hebben u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -5667,7 +5667,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *2L: Is aan u en/of de rechtspersonen en ondernemingen die bij de vragen 2A en 2B worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -5675,7 +5675,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 3  
 
@@ -5689,7 +5689,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *3A: Op welke vennoot heeft de hierop volgende beantwoording van de vragen 3B tot en met 3M betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -5715,7 +5715,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 1. als de uiteindelijke zeggenschap van deze vennoot niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -5727,7 +5727,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.    
+* een organogram waarin de verhoudingen tussen deze vennoot en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aan te geven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 3B overlegt.   
 
 ####Financiën
 
@@ -5774,11 +5774,11 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 | Adres:  | --- |
 
 □ Op een andere manier, namelijk:   Door: 
-### * *3H: Heeft deze vennoot een fiscaal partner?* * 
+### * *3H: Heeft deze vennoot een fiscaal partner? * * 
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -5794,7 +5794,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -5803,7 +5803,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 □ Nee.  
 
 □ Ja, namelijk:   Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: Verdachte: Jaar/jaren: Land(en): Strafbare feiten: Eventuele toelichting: 
-### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen?* * 
+### * *3K: Hebben deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een bestuursrechtelijke en/of fiscaalrechtelijke boete opgelegd gekregen? * * 
 
 Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder andere boetes van de Arbeidsinspectie en de Belastingdienst verstaan. 
 
@@ -5819,7 +5819,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *3M: Is aan deze vennoot, de onderhavige vennootschap en/of de rechtspersonen en ondernemingen die bij de vragen 3B en 3C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -5827,7 +5827,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 4  
 
@@ -5878,7 +5878,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 1. als de uiteindelijke zeggenschap van deze uiteindelijk zeggenschaphebbende niet meer actueel is; en  
 
-2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.    
+2. voor de periode dat de desbetreffende rechtspersonen en ondernemingen nog niet bestonden.   
 
 ####Bestuursfuncties
 
@@ -5890,7 +5890,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 * (kopieën van) bewijsstukken waaruit het (indirecte) bestuur blijkt. Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk zeggenschaphebbende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 4B overlegt.   
 
 ####Financiën
 
@@ -5940,7 +5940,7 @@ Opmerking: Bij beantwoording van deze vraag, kunt u meerdere antwoorden geven.
 
 □ Nee.  
 
-□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres:  
+□ Ja, namelijk:   Achternaam: Voornamen: Geboortedatum en -plaats: Adres: 
 
 ####Leningen
 
@@ -5956,7 +5956,7 @@ Opmerking: U moet hierbij in te gaan op alle ontvangen leningen die vermeld word
 
 * (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).  
 
-* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.    
+* (kopieën van) bewijsstukken met betrekking tot de eventueel aangegeven zekerheden.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -5981,7 +5981,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *4M: Is aan (a) deze uiteindelijk zeggenschaphebbende, (b) de betrokkene en/of (c) de rechtspersonen en ondernemingen die bij de vragen 4B en 4C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) begrepen. 
 
@@ -5989,7 +5989,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 5  
 
@@ -6005,7 +6005,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 ### * *5A: Op welke uiteindelijk leidinggevende heeft de hierop volgende beantwoording van de vragen 5B t/m 5G betrekking?* * 
 
-Volledige naam: Geboortedatum:  
+Volledige naam: Geboortedatum: 
 
 ####Uiteindelijke zeggenschap
 
@@ -6019,7 +6019,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 * (kopieën van) bewijsstukken waaruit de uiteindelijke zeggenschap blijkt (bijvoorbeeld aandeelhoudersregisters). Voor zover het bewijs in het handelsregister van de Nederlandse Kamer van Koophandel is opgenomen, kunt u volstaan met een verwijzing naar het handelsregister.  
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven.   
 
 ####Bestuursfuncties
 
@@ -6029,7 +6029,7 @@ Opmerking: In de toelichting achter dit formulier staat wanneer iemand als uitei
 
 □ Ja, namelijk:   Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Functie: Periode: Statutaire naam: Alle handelsnamen: Handelsregisternummer: Adres(sen): Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.    
+* een organogram waarin de verhoudingen tussen de uiteindelijk leidinggevende en de genoemde rechtspersonen en ondernemingen worden aangegeven. U moet daarbij ook de desbetreffende periodes aangeven. U kunt deze weergave samenvoegen met het organogram dat u bij de beantwoording van vraag 5B overlegt.   
 
 ####Strafrechtelijk en bestuursrechtelijk optreden
 
@@ -6054,7 +6054,7 @@ Opmerking: Onder bestuursrechtelijke en fiscaalrechtelijke boetes worden onder a
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Betrokken (rechts)persoon/onderneming: Jaar/jaren: Bestuursorgaan: Locatie: Naam onderneming: Als u ‘ja’ heeft aangegeven, lever dan het volgende in: 
 
 * (kopieën van) de desbetreffende besluiten.   
-### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd?* * 
+### * *5G: Is aan deze uiteindelijk leidinggevende en/of van de rechtspersonen en ondernemingen die bij de vragen 5B en 5C worden genoemd, de afgelopen vijf jaar een last onder bestuursdwang en/of dwangsom opgelegd? * * 
 
 Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of erf op grond van [artikel 13b van de Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) verstaan. 
 
@@ -6062,7 +6062,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ja, namelijk:   Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Betrokken (rechts)persoon/onderneming: Overtreding: Jaar/jaren: Bestuursorgaan: Locatie: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
-* (kopieën van) de desbetreffende besluiten.    
+* (kopieën van) de desbetreffende besluiten.   
 
 ### 6  
 
@@ -6100,7 +6100,7 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 
 □ Ik ga samen met een rechtspersoon met overheidstaak deelnemen aan een rechtspersoon, een commanditaire vennootschap of een vennootschap onder firma die het eigendomsrecht of een zakelijk recht met betrekking tot een onroerende zaak heeft of die een onroerende zaak huurt of verhuurt. → Beantwoord de vragen onder 6.8. Sla de vragen onder 6.2 tot en met 6.7 over.  
 
-□ Ik neem samen met een rechtspersoon met overheidstaak deel aan een rechtspersoon, een commanditaire vennootschap of een vennootschap onder firma die het eigendomsrecht of een zakelijk recht met betrekking tot een onroerende zaak heeft of die een onroerende zaak huurt of verhuurt. → Beantwoord de vragen onder 6.8. Sla de vragen onder 6.2 tot en met 6.7 over.    
+□ Ik neem samen met een rechtspersoon met overheidstaak deel aan een rechtspersoon, een commanditaire vennootschap of een vennootschap onder firma die het eigendomsrecht of een zakelijk recht met betrekking tot een onroerende zaak heeft of die een onroerende zaak huurt of verhuurt. → Beantwoord de vragen onder 6.8. Sla de vragen onder 6.2 tot en met 6.7 over.   
 
 ### 6.2  
 
@@ -6111,14 +6111,14 @@ Opmerking: Onder last onder bestuursdwang wordt ook de sluiting van een pand of 
 □ Nee. Sla de vragen 6.2B en 6.2C over.  
 
 □ Ja. Geef het onderstaande aan.   Jaar van aankoop: Aankoopbedrag: 
-### * *6.2B: Is/was/wordt de onroerende zaak waarop de transactie toeziet, door u (deels) gefinancierd met eigen vermogen?* * 
+### * *6.2B: Is/was/wordt de onroerende zaak waarop de transactie toeziet, door u (deels) gefinancierd met eigen vermogen? * * 
 
 □ Nee.  
 
 □ Ja, namelijk:   Bedrag: € Dit eigen vermogen is/was/wordt verkregen door: Als u ‘ja’ heeft geantwoord, lever dan het volgende in: 
 
 * (kopieën van) bewijsstukken waaruit de bron en omvang van dit eigen vermogen blijkt (bijvoorbeeld rekeningafschriften).   
-### * *6.2C: Is/was/wordt de onroerende zaak waarop de transactie toeziet, door u (deels) gefinancierd met vreemd vermogen?* * 
+### * *6.2C: Is/was/wordt de onroerende zaak waarop de transactie toeziet, door u (deels) gefinancierd met vreemd vermogen? * * 
 
 □ Nee.  
 
@@ -6146,7 +6146,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * per financiering (een kopie van) de leenovereenkomst.  
 
-* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).    
+* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
 
 ### 6.3  
 
@@ -6193,7 +6193,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 * per financiering (een kopie van) de leenovereenkomst.  
 
 * per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
-### * *6.3D: Is/wordt de onroerende zaak waarop de transactie toeziet, door u weer van een ander gehuurd/gepacht of is sprake van een andere gebruiksovereenkomst?* * 
+### * *6.3D: Is/wordt de onroerende zaak waarop de transactie toeziet, door u weer van een ander gehuurd/gepacht of is sprake van een andere gebruiksovereenkomst? * * 
 
 □ Nee.  
 
@@ -6211,7 +6211,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 Soort overeenkomst: Huursom/vergoeding per maand: € Als u ‘ja, gehuurd/gepacht’ of ‘een andere gebruiksovereenkomst’ heeft geantwoord, lever dan het volgende in: 
 
-* (een kopie van) de huur-/pachtovereenkomst of de andere gebruiksovereenkomst.    
+* (een kopie van) de huur-/pachtovereenkomst of de andere gebruiksovereenkomst.   
 
 ### 6.4  
 
@@ -6241,7 +6241,7 @@ Soort overeenkomst: Huursom/vergoeding per maand: € Als u ‘ja, gehuurd/gepac
 □ Nee. Sla de vragen 6.4C en 6.4D over.  
 
 □ Ja, namelijk: €   
-### * *6.4C: Als u een vergoeding moet betalen, financiert u deze betalingen dan (deels) met eigen vermogen?* * 
+### * *6.4C: Als u een vergoeding moet betalen, financiert u deze betalingen dan (deels) met eigen vermogen? * * 
 
 □ Nee.  
 
@@ -6276,7 +6276,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * per financiering (een kopie van) de leenovereenkomst.  
 
-* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).    
+* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
 
 ### 6.5  
 
@@ -6341,7 +6341,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * per financiering (een kopie) van de leenovereenkomst.  
 
-* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).    
+* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
 
 ### 6.6  
 
@@ -6406,7 +6406,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * per financiering (een kopie van) de leenovereenkomst.  
 
-* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).    
+* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
 
 ### 6.7  
 
@@ -6436,7 +6436,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 □ Nee. Sla de vragen 6.7C en 6.7D over.  
 
 □ Ja, namelijk:   Totale vergoeding: € Reeds betaald: € Nog te betalen: € 
-### * *6.7C: Voor zover u al een vergoeding heeft betaald, financierde u deze betalingen dan (deels) met eigen vermogen?* * 
+### * *6.7C: Voor zover u al een vergoeding heeft betaald, financierde u deze betalingen dan (deels) met eigen vermogen? * * 
 
 □ Nee.  
 
@@ -6470,7 +6470,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * per financiering (een kopie van) de leenovereenkomst.  
 
-* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).    
+* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
 
 ### 6.8  
 
@@ -6533,7 +6533,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 □ Nee.  
 
-□ Ja. Geef daarbij het onderstaande aan.   Totaal vreemd vermogen: € De financiers (zullen) zijn:  
+□  Ja. Geef daarbij het onderstaande aan.   Totaal vreemd vermogen: € De financiers (zullen) zijn:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -6557,7 +6557,7 @@ Als u ‘ja’ heeft geantwoord, lever dan het volgende in:
 
 * per financiering (een kopie van) de leenovereenkomst.  
 
-* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).    
+* per financiering (kopieën van) bewijsstukken waaruit blijkt dat u het geleende bedrag daadwerkelijk heeft ontvangen (bijvoorbeeld rekeningafschriften).   
 
 ### 7  
 
@@ -6569,7 +6569,7 @@ De ondergetekenden verklaren dat:
 
 * de documenten die als bijlagen bij de beantwoording van dit formulier overgelegd worden, met de werkelijkheid overeenstemmen en juist zijn.   Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Naam betrokkene: Naam ondertekenaar: Adres ondertekenaar: Hoedanigheid: Datum van ondertekening: Plaats van ondertekening: Handtekening: Als u dit formulier als gemachtigde van de betrokkene(n) ondertekent, lever dan het volgende in: 
 
-* een schriftelijk bewijs van machtiging.    
+* een schriftelijk bewijs van machtiging.   
 
 ####Toelichting
 
@@ -6577,7 +6577,7 @@ In de voorgaande vragen gebruiken wij enkele specifieke termen. Hieronder volgt 
 
 ####(beoogde) contractpartij
 
-De (beoogde) contractpartij is de hieronder beschreven betrokkene.  
+De (beoogde) contractpartij is de hieronder beschreven betrokkene. 
 
 ####Betrokkene
 
@@ -6595,7 +6595,7 @@ In [artikel 1, eerste lid, onder e, van de wet Bibob](../../../../wet/wet/bevord
 
 * de onderaannemers van overheidsopdrachten; en  
 
-* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die handelingen verrichten (bijvoorbeeld dit formulier invullen) of belang hebben bij de relatie. Voor de duidelijkheid: bij een vastgoedtransactie is de betrokkene de (rechts)persoon met wie een vastgoedtransactie is of zal worden aangegaan.  
+* de (rechts)personen met wie een vastgoedtransactie is of zal worden aangegaan.   De betrokkene is dus telkens de partij die formeel een relatie met de overheid aangaat. Omdat betrokkenen ook rechtspersonen kunnen zijn, gaat het niet noodzakelijk over de natuurlijke personen die handelingen verrichten (bijvoorbeeld dit formulier invullen) of belang hebben bij de relatie. Voor de duidelijkheid: bij een vastgoedtransactie is de betrokkene de (rechts)persoon met wie een vastgoedtransactie is of zal worden aangegaan. 
 
 ####Bezittingen
 
@@ -6623,15 +6623,15 @@ Onder ‘bezittingen’ worden verstaan:
 
 * Andere roerende zaken voor eigen gebruik of gebruik binnen het gezin, bijvoorbeeld een de inboedel van de eigen woning.  
 
-* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt.  
+* Contant geld onder de € 500,–.   Opmerking: vruchtgebruik en genotsrechten Ook genotsrechten en rechten van vruchtgebruik van de bovengenoemde bezittingen worden als een bezitting aangemerkt. 
 
 ####Natuurlijk persoon
 
-Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma).  
+Een natuurlijk persoon is een individu (mens). Dit is van belang omdat er bij de beantwoording van de voorgaande vragen ook sprake kan zijn van rechtspersonen (bijvoorbeeld besloten vennootschappen) of een samenwerkingsverband van meerdere natuurlijke personen (bijvoorbeeld een vennootschap onder firma). 
 
 ####Onderhavige onderneming
 
-Als gesproken wordt van ‘de onderhavige onderneming’ gaat het over de onderneming waarmee een vastgoedtransactie is of zal worden aangegaan. In principe is dit de onderneming die de betrokkene(n) drijft.  
+Als gesproken wordt van ‘de onderhavige onderneming’ gaat het over de onderneming waarmee een vastgoedtransactie is of zal worden aangegaan. In principe is dit de onderneming die de betrokkene(n) drijft. 
 
 ####Rechtspersoon met een overheidstaak
 
@@ -6653,11 +6653,11 @@ De term ‘rechtspersoon met een overheidstaak’ is afkomstig uit de [Wet Bibob
 
 * openbare lichamen als bedoeld in [artikel 134 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md); en  
 
-* zelfstandige bestuursorganen die bij algemene maatregel van bestuur aangewezen zijn.    
+* zelfstandige bestuursorganen die bij algemene maatregel van bestuur aangewezen zijn.   
 
 ####U en uw
 
-Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreven betrokkene.  
+Als van ‘u’ of ‘uw’ wordt gesproken, bedoelen wij de hierboven beschreven betrokkene. 
 
 ####Uiteindelijk begunstigde
 
@@ -6669,7 +6669,7 @@ Voor een beoordeling op grond van de [Wet Bibob](../../../../wet/wet/bevordering
 
 * natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.  
 
-* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met de rechtspersoon met een overheidstaak over wie u informatie moet geven.    
+* natuurlijke personen die direct of indirect begunstigde zijn van een stichting of trust. Opmerking: Het kan om een groot aantal natuurlijke personen gaan. Overleg met de rechtspersoon met een overheidstaak over wie u informatie moet geven.   
 
 ####Uiteindelijk leidinggevende
 
@@ -6689,7 +6689,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Bij een stichting zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.  
 
-* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Bij een vereniging, onderlinge waarborgmaatschappij of coöperatie zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die direct of indirect bestuurder zijn.   Opmerking: commissarissen Bij meerdere van de bovenbeschreven rechtsvormen kunnen commissarissen een (indirecte) rol spelen. Als dat het geval is, zijn ook zij doorgaans uiteindelijk leidinggevenden. Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk leidinggevenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die director zijn van een Engelse limited company of zaakvoerder van een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ####Uiteindelijk zeggenschaphebbende
 
@@ -6715,7 +6715,7 @@ De [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/he
 
 * Natuurlijke personen die direct of indirect een pandrecht hebben op de desbetreffende aandelen.  
 
-* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba).  
+* Natuurlijke personen die direct of indirect het recht van vruchtgebruik op de desbetreffende aandelen hebben.   Opmerking: buitenlandse rechtsvormen Bij buitenlandse rechtsvormen zijn de uiteindelijk zeggenschaphebbenden doorgaans de natuurlijke personen die een functie vervullen die vergelijkbaar is met één van de hierboven beschreven functies. Het gaat dan bijvoorbeeld over natuurlijke personen die aandeelhouder zijn van een Engelse limited company of een Belgische besloten vennootschap met beperkte aansprakelijkheid (bvba). 
 
 ### Bijlage  6  
 
@@ -6729,17 +6729,17 @@ Dit formulier is op grond van [artikel 30, vijfde lid, van de Wet Bibob](../../.
 
 ####Invulwijzer
 
-Dit formulier is exclusief bedoeld voor bestuursorganen en rechtspersonen met een overheidstaak. Het hoeft alleen ingevuld te worden als er sprake is van een adviesaanvraag op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Het kan voorkomen dat een antwoord niet past in de gegeven antwoordruimte. In dat geval dient u de gevraagde gegevens te vermelden op een bijlage die u bij dit formulier voegt en naar die bijlage te verwijzen. Het kan voorkomen dat de gevraagde informatie in bijgevoegde documenten eenduidig wordt beschreven. Als dat het geval is, volstaat het om naar die documenten te verwijzen. Geef bij onderdelen 4 en 5 ook telkens aan uit welke bron de vermelde gegevens komen.  
+Dit formulier is exclusief bedoeld voor bestuursorganen en rechtspersonen met een overheidstaak. Het hoeft alleen ingevuld te worden als er sprake is van een adviesaanvraag op grond van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Het kan voorkomen dat een antwoord niet past in de gegeven antwoordruimte. In dat geval dient u de gevraagde gegevens te vermelden op een bijlage die u bij dit formulier voegt en naar die bijlage te verwijzen. Het kan voorkomen dat de gevraagde informatie in bijgevoegde documenten eenduidig wordt beschreven. Als dat het geval is, volstaat het om naar die documenten te verwijzen. Geef bij onderdelen 4 en 5 ook telkens aan uit welke bron de vermelde gegevens komen. 
 
 ####Heeft u nog vragen?
 
-Als u vragen heeft over dit formulier, dan kunt u tijdens kantooruren bellen met Bureau Bibob op 070 370 4600. Voor meer informatie kunt u ook kijken op www.justis.nl.  
+Als u vragen heeft over dit formulier, dan kunt u tijdens kantooruren bellen met Bureau Bibob op 070 370 4600. Voor meer informatie kunt u ook kijken op www.justis.nl. 
 
 ### 1  
 
 ####Betrokkene
 
-Dit formulier betreft de volgende betrokkene: (Statutaire) naam: ..... Eventuele handelsnamen: .....  
+Dit formulier betreft de volgende betrokkene: (Statutaire) naam: ..... Eventuele handelsnamen: ..... 
 
 ### 2  
 
@@ -6747,21 +6747,21 @@ Dit formulier betreft de volgende betrokkene: (Statutaire) naam: ..... Eventuele
 
 Dit formulier betreft een: 
 
-□ *Vergunning* zoals bedoeld in: 
+□  *Vergunning* zoals bedoeld in: 
 
 □ [Artikel 2.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), namelijk: .....  
 
-□  Artikel 3 Drank- en Horecawet   
+□ Artikel 3 Drank- en Horecawet  
 
 □ Artikel 3, eerste lid, van de marktverordening voor het wegvervoer, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en [artikel 7.1, eerste lid, van de Wet wegvervoer goederen](../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  
 
-□  [Artikel 4 van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)   
+□ [Artikel 4 van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)  
 
 □ [Artikel 6 Opiumwet](../../../../wet/opiumwet/BWBR0001941/README.md) (opiumverloven)  
 
 □ Anders, namelijk: .....    
 
-□ *Gemeentelijke vergunning* die op grond van een verordening verplicht is gesteld voor een inrichting of bedrijf, namelijk voor een: 
+□  *Gemeentelijke vergunning* die op grond van een verordening verplicht is gesteld voor een inrichting of bedrijf, namelijk voor een: 
 
 □ Horeca-gelegenheid  
 
@@ -6773,11 +6773,11 @@ Dit formulier betreft een:
 
 □ Anders, namelijk:    
 
-□ *Subsidie* inzake: .....  
+□  *Subsidie* inzake: .....  
 
-□ *Andere beschikking*, namelijk: .....  
+□  *Andere beschikking*, namelijk: .....  
 
-□ *Overheidsopdracht* inzake: 
+□  *Overheidsopdracht* inzake: 
 
 □ Informatie en Communicatie Technologie (ICT)  
 
@@ -6785,7 +6785,7 @@ Dit formulier betreft een:
 
 □ Milieu   CPV-code: .....  
 
-□ *Vastgoedtransactie* inzake: .....   Deze vergunning, subsidie, andere beschikking, opdracht of transactie is: 
+□  *Vastgoedtransactie* inzake: .....   Deze vergunning, subsidie, andere beschikking, opdracht of transactie is: 
 
 □ reeds verleend, genomen, gegund of aangegaan.  
 
@@ -6793,7 +6793,7 @@ Dit formulier betreft een:
 
 □ open en/of in bedrijf.  
 
-□ (nog) niet open en/of in bedrijf.    
+□ (nog) niet open en/of in bedrijf.   
 
 ### 3  
 
@@ -6807,7 +6807,7 @@ Heeft u van de officier van justitie een bericht gehad zoals bedoeld in [artikel
 
 □ Nee.  
 
-□ Ja. → Overleg een kopie van dit RIEC-advies.   Geef hieronder aan wat (verder) de aanleiding voor deze adviesaanvraag is.  
+□ Ja. → Overleg een kopie van dit RIEC-advies.   Geef hieronder aan wat (verder) de aanleiding voor deze adviesaanvraag is. 
 
 ### 4  
 
@@ -6817,13 +6817,13 @@ Komen de (mogelijk) betrokken (rechts)personen en ondernemingen bij u voor in an
 
 □ Nee.  
 
-□ Ja. → Geef hieronder dan aan welke partijen in welke dossiers voorkomen, zodat het Bureau deze dossier in een later stadium eventueel op kan vragen.   Geef hieronder aan welke feiten en omstandigheden u verder opmerkelijk en relevant acht in het onderhavige dossier. In andere woorden, wat zijn de bevindingen van uw eigen onderzoek?  
+□ Ja. → Geef hieronder dan aan welke partijen in welke dossiers voorkomen, zodat het Bureau deze dossier in een later stadium eventueel op kan vragen.   Geef hieronder aan welke feiten en omstandigheden u verder opmerkelijk en relevant acht in het onderhavige dossier. In andere woorden, wat zijn de bevindingen van uw eigen onderzoek? 
 
 ### 5  
 
 ####Onderzoeksvragen
 
-Het kan voorkomen dat uw eigen onderzoek onvoldoende duidelijkheid heeft gebracht op specifieke voor toepassing van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) relevante punten. Hieronder kunt u de onderzoeksvragen aangeven die u voor het advies van belang acht.  
+Het kan voorkomen dat uw eigen onderzoek onvoldoende duidelijkheid heeft gebracht op specifieke voor toepassing van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) relevante punten. Hieronder kunt u de onderzoeksvragen aangeven die u voor het advies van belang acht. 
 
 ### 6  
 
@@ -7058,5 +7058,5 @@ Overleg een overzicht van de bijgevoegde bijlagen, waaronder:
 
 – de reguliere procedure;  
 
-– het eigen onderzoek in het kader van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).      
+– het eigen onderzoek in het kader van de [Wet Bibob](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
 

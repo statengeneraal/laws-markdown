@@ -14,11 +14,11 @@ Dit besluit bevat het beleid over diverse onderwerpen betreffende de vrijstellin
 
 *Samenwoners:* Personen die een duurzame samenwoning beogen en een gemeenschappelijke huishouding voeren  
 
-*WILG:* [Wet inrichting landelijk gebied](../../../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md)   
+*WILG:* [Wet inrichting landelijk gebied](../../../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md)  
 
-*WBR:* [Wet op belastingen van rechtsverkeer](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md)   
+*WBR:* [Wet op belastingen van rechtsverkeer](../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md)  
 
-*UBBR:* [Uitvoeringsbesluit belastingen van rechtsverkeer](../../../../../../AMvB/uitvoeringsbesluit/belastingen/van/rechtsverkeer/BWBR0002770/README.md)        
+*UBBR:* [Uitvoeringsbesluit belastingen van rechtsverkeer](../../../../../../AMvB/uitvoeringsbesluit/belastingen/van/rechtsverkeer/BWBR0002770/README.md)       
 ### 2  
 
 ####Verdeling gemeenschap tussen samenwoners
@@ -158,4 +158,4 @@ Den Haag
 
 De 
 staatssecretaris van Financiën, 
-F.H.H.Weekers   
+F.H.H. Weekers     
