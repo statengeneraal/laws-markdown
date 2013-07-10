@@ -10,66 +10,66 @@ Alzo Wij in overweging genomen hebben, dat het, in verband met het terugdringen 
 
 dat het daartoe tevens gewenst is het bevoegd gezag van een school voor basisonderwijs, voor speciaal onderwijs, voor voortgezet speciaal onderwijs, voor speciaal en voortgezet speciaal onderwijs, voor voortgezet onderwijs en voor beroepsonderwijs of volwasseneneducatie, alsmede het bestuur van een landelijk orgaan en van een onderwijsverzorgingsinstelling te doen deelnemen aan een participatiefonds;
 
-dat het in verband met die verantwoordelijkheid voor de kosten van de werkloosheidsuitkeringen en herplaatsingswachtgelden en de instelling van dat participatiefonds wenselijk is de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs, de Kaderwet Volwasseneneducatie 1991 en de Wet op de onderwijsverzorging te wijzigen;
+dat het in verband met die verantwoordelijkheid voor de kosten van de werkloosheidsuitkeringen en herplaatsingswachtgelden en de instelling van dat participatiefonds wenselijk is de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de Wet op het cursorisch beroepsonderwijs, de Kaderwet Volwasseneneducatie 1991 en de Wet op de onderwijsverzorging te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-####Wijziging Wet op het primair onderwijs
+####Wijziging [Wet op het primair onderwijs](../../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-####Wijziging Wet op de expertisecentra
+####Wijziging [Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-####Wijziging Wet op het voortgezet onderwijs
+####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
 ####Wijziging Wet op het cursorisch beroepsonderwijs
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
 ####Wijziging Kaderwet volwasseneneducatie 1991
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
-####Wijziging Wet op de onderwijsverzorging
+####Wijziging Wet op de onderwijsverzorging 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VIII  
 
 ####Wijziging wetsvoorstel sociale vernieuwing volwasseneneducatie
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  XI  
 
 ####Invoering artikel 18a KVE 1991
 
-Artikel 18 *a* van de Kaderwet Volwasseneneducatie 1991 vindt toepassing naar aanleiding van een vermindering van de bijdragen waartoe de gemeentebesturen op grond van artikel 21, eerste lid, van die wet in het jaar 1995 hebben beslist.  
+Artikel 18*a* van de Kaderwet Volwasseneneducatie 1991 vindt toepassing naar aanleiding van een vermindering van de bijdragen waartoe de gemeentebesturen op grond van artikel 21, eerste lid, van die wet in het jaar 1995 hebben beslist. 
 
 ### Artikel  XIII  
 
 ####Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van artikel III, onderdeel K, artikel IV, onderdeel N wat betreft de invoeging van "96 *f*.4," en onderdeel O, en artikel V, onderdelen A en B, die in werking treden met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst en terugwerken tot en met 1 augustus 1994.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van artikel III, onderdeel K, artikel IV, onderdeel N wat betreft de invoeging van "96*f*.4," en onderdeel O, en artikel V, onderdelen A en B, die in werking treden met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst en terugwerken tot en met 1 augustus 1994. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

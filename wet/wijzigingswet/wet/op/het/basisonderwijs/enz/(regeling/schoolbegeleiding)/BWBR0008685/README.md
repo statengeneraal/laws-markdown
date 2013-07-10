@@ -6,48 +6,48 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is wettelijke regels te stellen betreffende de verantwoordelijkheid van gemeentebesturen voor schoolbegeleiding en voor de instandhouding van schoolbegeleidingsdiensten;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is wettelijke regels te stellen betreffende de verantwoordelijkheid van gemeentebesturen voor schoolbegeleiding en voor de instandhouding van schoolbegeleidingsdiensten; 
 
-Dat het tevens wenselijk is daartoe tijdelijk een wettelijke basis te bieden voor een specifieke uitkering voor de subsidiëring van schoolbegeleidingsactiviteiten;
+Dat het tevens wenselijk is daartoe tijdelijk een wettelijke basis te bieden voor een specifieke uitkering voor de subsidiëring van schoolbegeleidingsactiviteiten; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
 
 ####WIJZIGING VAN DE WBO
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Wijzigt de Wet op het basisonderwijs.   
+Wijzigt de Wet op het basisonderwijs.  
 
 ### ARTIKEL  II  
 
 ####WIJZIGING VAN DE ISOVSO
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Wijzigt de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs.   
+Wijzigt de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs.  
 
 ### ARTIKEL  III  
 
 ####WIJZIGING VAN DE WVO
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.  
 
 ### ARTIKEL  IV  
 
 ####WIJZIGING VAN DE WET PRIVATISERING ABP
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Wijzigt de Wet privatisering ABP.   
+Wijzigt de Wet privatisering ABP.  
 
-### ARTIKEL  V  
+###ARTIKEL V 
 
 ####OVERIGE BEPALINGEN
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
 ###TITEL A. Vervallen
 
@@ -66,7 +66,7 @@ Vervallen.
 ###Artikel A5
 
 Vervallen.  
-###TITEL B. OVERGANGSRECHT
+###TITEL B. OVERGANGSRECHT 
 
 ###Artikel B1
 
@@ -88,24 +88,24 @@ Vervallen.
 Vervallen.  
 ###Artikel B7. Expiratie
 
-Vervallen.   
+Vervallen.  
 
 ### ARTIKEL  VII  
 
 ####INWERKINGTREDING
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Deze wet treedt in werking met ingang van 1 augustus 1997.  
+Deze wet treedt in werking met ingang van 1 augustus 1997. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 15 mei 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-T. Netelenbos   
+T. Netelenbos    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 J. J. van Aartsen   
@@ -113,4 +113,4 @@ J. J. van Aartsen
 de *zesentwintigste* juni 1997 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

@@ -10,56 +10,56 @@ Alzo Wij in overweging genomen hebben, dat het gewenst is duidelijkheid te schep
 
 dat het in verband met die duidelijkheid wenselijk is de vaststelling van een directiestatuut door het bevoegd gezag voor te schrijven;
 
-dat in verband hiermee wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs en de Wet medezeggenschap onderwijs 1992 wenselijk is;
+dat in verband hiermee wijziging van de [Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de Wet op het cursorisch beroepsonderwijs en de [Wet medezeggenschap onderwijs 1992](../../../../../../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) wenselijk is;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-####Wijziging Wet op het primair onderwijs
+####Wijziging [Wet op het primair onderwijs](../../../../../../../../../../../wet/wbo/BWBR0003420/README.md) 
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-####Wijziging Wet op de expertisecentra
+####Wijziging [Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) 
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-####Wijziging Wet op het voortgezet onderwijs
+####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
 ####Wijziging Wet op het cursorisch beroepsonderwijs
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-####Wijziging wet medezeggenschap onderwijs 1992
+####Wijziging [wet medezeggenschap onderwijs 1992](../../../../../../../../../../../wet/wet/medezeggenschap/onderwijs/1992/BWBR0005746/README.md) 
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
 
 ####Inwerkingtreding
 
-Materieel uitgewerkt per 04-07-2013   
+Materieel uitgewerkt per 04-07-2013 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

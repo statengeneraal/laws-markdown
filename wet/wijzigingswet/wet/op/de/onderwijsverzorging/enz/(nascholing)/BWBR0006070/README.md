@@ -9,86 +9,86 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het wenselijk is enkele onderwijswetten te wijzigen in verband met de bekostiging van nascholing ten behoeve van het primair en het voortgezet onderwijs;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
-### Artikel  I   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  I  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  II   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  II  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  III   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  III  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  IV   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  IV  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  V   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  V  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  VI   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  VI  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  VII   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  VII  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  VIII   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  VIII  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  IX   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  IX  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  X   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  X  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  XI   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  XI  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  XII   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  XII  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  XIII   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  XIII  
+Materieel uitgewerkt per 04-07-2013 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
-### Artikel  XV   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  XV  
+Materieel uitgewerkt per 04-07-2013 
 
-Deze wet treedt in werking met ingang van 1 augustus 1993 met uitzondering van: 
+Deze wet treedt in werking met ingang van 1 augustus 1993 met uitzondering van:  
 
 a. de artikelen VI, VIII onderdeel A en X die in werking treden met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst,  
 
 b. artikel IX dat in werking treedt met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst, en terugwerkt tot en met 1 januari 1993, en  
 
-c. artikel XI aanhef en onderdelen *a* en *b* dat in werking treedt met ingang van 1 augustus 1993 en, indien de wet van 21 april 1993 (*Stb.* 253) voor 1 augustus 1993 in werking is getreden, terugwerkt tot en met het tijdstip van inwerkingtreding van genoemde wet.    
+c. artikel XI aanhef en onderdelen *a* en *b* dat in werking treedt met ingang van 1 augustus 1993 en, indien de wet van 21 april 1993 (*Stb.* 253) voor 1 augustus 1993 in werking is getreden, terugwerkt tot en met het tijdstip van inwerkingtreding van genoemde wet.   
 
-### Artikel  XVI   
-Materieel uitgewerkt per 04-07-2013   
+### Artikel  XVI  
+Materieel uitgewerkt per 04-07-2013 
 
-De tekst van de Wet op het voortgezet onderwijs wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst.  
+De tekst van de [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) wordt door Onze Minister van Justitie in het *Staatsblad* geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
