@@ -15,27 +15,35 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging [Besluit bekostiging WPO](../../../../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md)
+####Wijziging [Besluit bekostiging WPO](../../../../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md)
 
-Wijzigt het Besluit bekostiging WPO.   
+Materieel uitgewerkt per 24-04-2014 
+
+Wijzigt het Besluit bekostiging WPO. 
 
 ### Artikel  II  
 
 ####Overgangsregeling gewichtenregeling
 
-Wijzigt het Wijzigingsbesluit Besluit bekostiging WPO en Besluit bekostiging WEC (wijziging gewichtenregeling en groepsgrootte).   
+Materieel uitgewerkt per 24-04-2014 
+
+Wijzigt het Wijzigingsbesluit Besluit bekostiging WPO en Besluit bekostiging WEC (wijziging gewichtenregeling en groepsgrootte). 
 
 ### Artikel  III  
 
 ####Evaluatiebepaling
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, binnen drie jaar nadat dit besluit in werking is getreden, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.  
+Materieel uitgewerkt per 24-04-2014 
+
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt, binnen drie jaar nadat dit besluit in werking is getreden, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk. 
 
 ### Artikel  IV  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Materieel uitgewerkt per 24-04-2014 
+
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -43,10 +51,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 27 januari 2009  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-S. A. M.Dijksma 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap , 
+S. A. M. Dijksma   
 
 de *zeventiende* februari 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

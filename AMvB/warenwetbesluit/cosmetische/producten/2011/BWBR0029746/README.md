@@ -24,34 +24,48 @@ In dit besluit wordt verstaan onder verordening (EG) 1223/2009: Verordening (EG)
 
 1.  Het is verboden te handelen in strijd met de volgende artikelen van verordening (EG) 1223/2009: 
 
-a.  dit onderdeel is nog niet in werking getreden;   
+a. artikel 3;  
 
-b.  dit onderdeel is nog niet in werking getreden;   
+b. artikel 4, eerste en tweede lid;  
 
-c.  dit onderdeel is nog niet in werking getreden;   
+c. artikel 5;  
 
-d.  dit onderdeel is nog niet in werking getreden;   
+d. artikel 6;  
 
-e.  dit onderdeel is nog niet in werking getreden;   
+e. artikel 7;  
 
-f.  dit onderdeel is nog niet in werking getreden;   
+f. artikel 8, eerste lid;  
 
-g.  dit onderdeel is nog niet in werking getreden;   
+g. artikel 10, eerste lid, eerste tot en met derde alinea, tweede en derde lid;  
 
-h.  dit onderdeel is nog niet in werking getreden;   
+h. artikel 11, eerste tot en met derde lid;  
 
-i.  dit onderdeel is nog niet in werking getreden;   
+i. artikel 12, eerste lid;  
 
-j.  dit onderdeel is nog niet in werking getreden;   
+j. artikel 13, eerste tot en met vierde lid en zevende lid;  
 
 k. artikel 14, eerste lid en tweede lid, eerste alinea: 
 
 1° voorzover dit noodzakelijk is voor de toepassing van artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea, van verordening (EG) 1223/2009;  
 
-2°  dit onderdeel is nog niet in werking getreden;     
+2° voorzover dit noodzakelijk is voor de toepassing van andere bepalingen dan artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea, van verordening (EG) 1223/2009;    
 
-l. artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea;     
-2.   Dit lid is nog niet in werking getreden.    
+l. artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea;  
+
+m. artikel 16, eerste en derde lid;  
+
+n. artikel 18 eerste lid;  
+
+o. artikel 19, eerste tot en met derde lid en zesde lid;  
+
+p. artikel 20, eerste en derde lid,  
+
+q. artikel 21;  
+
+r. artikel 23, eerste lid; en  
+
+s. artikel 25, derde lid.     
+2.  Het is verboden te handelen in strijd met artikel 3.   
 
 ### Artikel  3  
 
@@ -61,7 +75,7 @@ l. artikel 15, eerste lid en tweede lid, eerste tot en met derde alinea;
 
 ### Artikel  4  
 
-Als nationale bevoegde autoriteit, bedoeld in artikel 34, eerste lid, van verordening (EG) 1223/2009 wordt aangewezen de Voedsel en Waren Autoriteit.  
+Als nationale bevoegde autoriteit, bedoeld in artikel 34, eerste lid, van verordening (EG) 1223/2009 wordt aangewezen de Nederlandse Voedsel- en Warenautoriteit.  
 
 ### Artikel  5  
 
@@ -72,10 +86,6 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 Wijzigt het Warenwetbesluit cosmetische producten.   
 
 ### Artikel  7  
-
-Wijzigt het Warenwetbesluit bestuurlijke boeten.   
-
-### Artikel  8  
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.   
 

@@ -11,38 +11,38 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie. 
 
 ### Artikel  III  
 
-Wijzigt de Wet griffierechten burgerlijke zaken.   
+Wijzigt de Wet griffierechten burgerlijke zaken. 
 
 ### Artikel  IV  
 
-Onze Minister van Veiligheid en Justitie zendt binnen vijf jaren na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Veiligheid en Justitie zendt binnen vijf jaren na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  VI  
 
-Deze wet wordt aangehaald als: Wet prejudiciële vragen aan de Hoge Raad.  
+Deze wet wordt aangehaald als: Wet prejudiciële vragen aan de Hoge Raad. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 9 februari 2012  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
 de *zeventiende* februari 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

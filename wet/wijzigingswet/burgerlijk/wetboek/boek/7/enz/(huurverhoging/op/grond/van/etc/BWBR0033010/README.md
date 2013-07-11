@@ -11,36 +11,36 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Artikel  I  
 
-Wijzigt het Burgerlijk Wetboek Boek 7.   
+Wijzigt het Burgerlijk Wetboek Boek 7. 
 
 ### Artikel  II  
 
-Wijzigt de Uitvoeringswet huurprijzen woonruimte.   
+Wijzigt de Uitvoeringswet huurprijzen woonruimte. 
 
 ### Artikel  IV  
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Veiligheid en Justitie en Onze Minister van Financiën zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de door deze wet gewijzigde en toegevoegde artikelen van [Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en de [Uitvoeringswet huurprijzen woonruimte](../../../../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).  
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Veiligheid en Justitie en Onze Minister van Financiën zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van de door deze wet gewijzigde en toegevoegde artikelen van [Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en de [Uitvoeringswet huurprijzen woonruimte](../../../../../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md). 
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 14 maart 2013  
 Beatrix  
 
-De Minister voor Wonen en Rijksdienst, 
+De Minister voor Wonen en Rijksdienst,  
 S.A. Blok   
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten   
 
-De Staatssecretaris van Financiën, 
+De Staatssecretaris van Financiën,  
 F.H.H. Weekers   
 
 de *vijftiende* maart 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

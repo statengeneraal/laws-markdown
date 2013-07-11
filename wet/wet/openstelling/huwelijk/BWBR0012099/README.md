@@ -10,22 +10,27 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is het huwelijk open te
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-04-2008 
 
 Wijzigt Boek 1 van het Burgerlijk Wetboek.   
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-04-2008 
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-04-2008 
 
-Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de effecten van deze wet in de praktijk, daarbij in het bijzonder betrekkend de verhouding tot het geregistreerd partnerschap.  
+Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de effecten van deze wet in de praktijk, daarbij in het bijzonder betrekkend de verhouding tot het geregistreerd partnerschap. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-04-2008 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-04-2008 
 
 Deze wet wordt aangehaald als: Wet openstelling huwelijk.  
 
@@ -41,4 +46,4 @@ M. J. Cohen
 de *elfde* januari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

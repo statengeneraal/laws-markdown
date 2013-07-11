@@ -11,33 +11,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.  
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  III  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie.  
 
 ### Artikel  IV  
 
-Wijzigt de Penitentiaire beginselenwet.   
+Wijzigt de Penitentiaire beginselenwet.  
 
 ### Artikel  V  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  VI  
 
 1.  Onze Minister van Justitie zendt binnen drie jaren na de inwerkingtreding van deze wet en vervolgens telkens na drie jaren aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.   
-2.  De gemeenten die deelnemen aan de tenuitvoerlegging van de maatregel van plaatsing in een inrichting voor de opvang van verslaafden, verlenen hun medewerking aan de totstandkoming van het in het eerste lid bedoelde verslag.   
+2.  De gemeenten die deelnemen aan de tenuitvoerlegging van de maatregel van plaatsing in een inrichting voor de opvang van verslaafden, verlenen hun medewerking aan de totstandkoming van het in het eerste lid bedoelde verslag.  
 
 ### Artikel  VII  
 
-1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
-2.   Vervallen.    
+1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
+2. Vervallen. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -51,4 +51,4 @@ A. H. Korthals
 de *achttiende* januari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 april 2003, VGB/P&L 2373505, gedaan in overeenstemming met Onze Minister van Economische Zaken;
 
-Gelet op [artikel 4, eerste tot en met derde lid](../../../../wet/warenwet/BWBR0001969/README.md), [5, eerste en tweede lid](../../../../wet/warenwet/BWBR0001969/README.md), en [14 van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op artikel 4, eerste tot en met derde lid, 5, eerste en tweede lid, en 14 van de Warenwet;
 
 De Raad van State gehoord (advies van 14 juli 2003, nr. W13.03.0152/III);
 
@@ -27,7 +27,7 @@ d. steriel: vrij van levensvatbare organismen, virussen inbegrepen;
 
 e. houder: verpakking van tatoeagekleurstof die rechtstreeks in aanraking komt met de tatoeagekleurstof;  
 
-f. cosmeticarichtlijn: richtlijn 76/768/EEG van de Raad van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake cosmetische producten (PbEG L 262).    
+f. cosmeticaverordening: Verordening (EU) nr. 1223/2009 van het Europees Parlement en de Raad van 30 november 2009 betreffende cosmetische producten (PbEU 2009, L 342).    
 
 ### Artikel  2  
 
@@ -45,9 +45,9 @@ a. geen stoffen bevatten die de in bijlage I bij dit besluit genoemde aromatisch
 
 b. geen stoffen bevatten die voorkomen in bijlage II bij dit besluit;  
 
-c. geen stoffen bevatten die voorkomen in bijlage II van de cosmeticarichtlijn;  
+c. geen stoffen bevatten die voorkomen in bijlage II van de cosmeticaverordening;  
 
-d. geen stoffen bevatten die worden aangeduid in de toepassingsgebiedkolommen 2 tot en met 4 van bijlage IV van de cosmeticarichtlijn;  
+d. geen stoffen bevatten die worden aangeduid in de voorwaardenkolom g van bijlage IV van de cosmeticaverordening;  
 
 e. geen stoffen bevatten die als kankerverwekkend, mutageen of vergiftig voor de voortplanting zijn ingedeeld in categorie 1A, 1B en 2 in deel 3 van bijlage VI bij verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);  
 
@@ -78,10 +78,6 @@ e. een vermelding van de ingrediënten in volgorde van afnemend gewicht op het t
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de kleurstoffen al dan niet is voldaan aan bij of krachtens dit besluit gestelde regels, worden methoden aangewezen op het gebied van chemisch en microbiologisch onderzoek.   
 2.  Onze Minister kan omtrent de in het eerste lid bedoelde methoden van onderzoek nadere regels stellen.   
-
-### Artikel  7  
-
-Wijzigt het [Warenwetbesluit bestuurlijke boeten](../../../../AMvB/warenwetbesluit/bestuurlijke/boeten/BWBR0011841/README.md).   
 
 ### Artikel  8  
 
@@ -114,7 +110,7 @@ J. P. H. Donner
 ####als bedoeld in artikel 4 lid 1 onderdeel a  van het Warenwetbesluit tatoeagekleurstoffen
 
 | CAS-nummer  | Catalogusnummer  | EG-nummer  | Stoffen  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 92–67–1  | 612–072–00–6  | 202–177–1  | Biphenyl-4-ylamine4-aminobifenylxenylamine  |
 | 92–87–5  | 612–042–00–2  | 202–199–1  | Benzidine  |
 | 95–69–2  | --- | 202–411–6  | 4-chloor-o-toluïdine  |
@@ -143,7 +139,7 @@ J. P. H. Donner
 ####als bedoeld in artikel 4 lid 1 onderdeel b  van het Warenwetbesluit tatoeagekleurstoffen
 
 | CAS-nummer  | EG-nummer  | mogelijke CI Naam  |
-|:---|:---|:---|
+|---|---|---|
 | 12768–78–4  | --- | Acid Green 16  |
 | 3761–53–3  | 223–178–3  | Acid Red 26  |
 | 4129–84–4  | 223–942–6  | Acid Violet 17  |

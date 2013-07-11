@@ -10,40 +10,49 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is uitvoering te geven 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-09-2013 
 
-Wijzigt de Monumentenwet 1988.   
+Wijzigt de Monumentenwet 1988.
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-09-2013 
 
-Wijzigt de Ontgrondingenwet.   
+Wijzigt de Ontgrondingenwet.
 
 ### Artikel  IIa  
+Materieel uitgewerkt per 01-09-2013 
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-09-2013 
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.
 
 ### Artikel  IIIa  
+Materieel uitgewerkt per 01-09-2013 
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-09-2013 
 
-Wijzigt de Woningwet.   
+Wijzigt de Woningwet.
 
 ### Artikel  IVa  
+Materieel uitgewerkt per 01-09-2013 
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-09-2013 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-09-2013 
 
-Deze wet wordt aangehaald als: Wet op de archeologische monumentenzorg.  
+Deze wet wordt aangehaald als: Wet op de archeologische monumentenzorg. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -51,10 +60,10 @@ Gegeven te ’s-Gravenhage
 21 december 2006  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
-M. J. A. van derHoeven 
+De Minister van Onderwijs, Cultuur en Wetenschap , 
+M. J. A. van der Hoeven   
 
 de *zesde* februari 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

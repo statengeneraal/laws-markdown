@@ -15,27 +15,27 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit registers kinderopvang en peuterspeelzaalwerk.   
+Wijzigt het Besluit registers kinderopvang en peuterspeelzaalwerk. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit SUWI.   
+Wijzigt het Besluit SUWI. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.   
+Wijzigt het Besluit justitiële en strafvorderlijke gegevens. 
 
 ### Artikel  IV  
 
-Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen twee jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.  
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen twee jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van 1 maart 2013.  
+Dit besluit treedt in werking met ingang van 1 maart 2013. 
 
 ### Artikel  VI  
 
-Dit besluit wordt aangehaald als: Besluit continue screening kinderopvang.  
+Dit besluit wordt aangehaald als: Besluit continue screening kinderopvang. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -46,10 +46,10 @@ Beatrix
 De Minister van Sociale Zaken en Werkgelegenheid , 
 L.F. Asscher   
 
-De Staatssecretaris van Veiligheid en Justitie , 
+De Staatssecretaris van Veiligheid en Justitie ,  
 F. Teeven   
 
 de *negentiende* februari 2013 
 
-De Minister van Veiligheid en Justitie , 
+De Minister van Veiligheid en Justitie ,  
 I.W. Opstelten    

@@ -10,18 +10,21 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de kanssp
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 03-10-2013 
 
-Wijzigt de Wet op de kansspelbelasting.   
+Wijzigt de Wet op de kansspelbelasting. 
 
 ### Artikel  IA  
+Materieel uitgewerkt per 03-10-2013 
 
-Onze Minister van Financiën zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Financiën zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 03-10-2013 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en is van toepassing op tijdvakken die aanvangen na inwerkingtreding van deze wet.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en is van toepassing op tijdvakken die aanvangen na inwerkingtreding van deze wet. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 's-Gravenhage 
 11 september 2008  
@@ -32,5 +35,5 @@ J. C. de Jager
 
 de *tweede* oktober 2008 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

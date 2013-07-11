@@ -7,38 +7,43 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is de aanpak van stelselmatige plegers van misdrijven te verbeteren, te voorzien in een regeling inzake de maatregel tot plaatsing in een inrichting voor deze plegers en de regeling inzake de maatregel tot plaatsing in een inrichting voor de opvang van verslaafden daarin op te nemen;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:   
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-10-2010 
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-10-2010 
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-10-2010 
 
-Wijzigt de Penitentiaire beginselenwet.   
+Wijzigt de Penitentiaire beginselenwet.
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-10-2010 
 
-Onze Minister van Justitie zendt binnen vier jaren na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Justitie zendt binnen vier jaren na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-10-2010 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-Gegeven te Tavarnelle 
-9 juli 2004  
-Beatrix  
+Gegeven te Tavarnelle
+9 juli 2004
+Beatrix
 
-De Minister van Justitie , 
-J. P. H. Donner   
+De Minister van Justitie ,
+J. P. H.Donner
 
-de *twintigste* juli 2004 
+de *twintigste* juli 2004
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

@@ -7,19 +7,22 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben dat het wenselijk is de reikwijdte van de [Wet voorkeursrecht gemeenten](../../../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) uit te breiden tot alle gemeenten in Nederland;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:   
 
-### Artikel  1  
+###Artikel 1 
+Materieel uitgewerkt per 01-02-2010 
 
-Wijzigt Wet voorkeursrecht gemeenten.   
+Wijzigt Wet voorkeursrecht gemeenten.
 
-### Artikel  2  
+###Artikel 2 
+Materieel uitgewerkt per 01-02-2010 
 
-Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-### Artikel  3  
+###Artikel 3 
+Materieel uitgewerkt per 01-02-2010 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

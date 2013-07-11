@@ -10,25 +10,28 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in de [Gemeentewet](
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
+Materieel uitgewerkt per 26-03-2002 
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.  
 
 ### ARTIKEL  II  
+Materieel uitgewerkt per 26-03-2002 
 
-Onze Minister van Binnenlandse Zaken zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel 174 *a* van de Gemeentewet](../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) in de praktijk.  
+Onze Minister van Binnenlandse Zaken zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [artikel 174*a* van de Gemeentewet](../../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) in de praktijk. 
 
 ### ARTIKEL  III  
+Materieel uitgewerkt per 26-03-2002 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 13 maart 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Binnenlandse Zaken, 
-A. G. M. van de Vondervoort   
+A. G. M. van de Vondervoort    
 
 De Staatssecretaris van Binnenlandse Zaken, 
 J. Kohnstamm   

@@ -7,38 +7,43 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging hebben genomen, dat het wenselijk is in de [Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) regels op te nemen omtrent het gebruik van camera’s ten behoeve van toezicht op openbare plaatsen alsmede in verband daarmee de [Wet politieregisters](../../../../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) te wijzigen;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-### Artikel  I  
+###Artikel I 
+Materieel uitgewerkt per 01-02-2013 
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.
 
-### Artikel  II  
+###Artikel II 
+Materieel uitgewerkt per 01-02-2013 
 
-Wijzigt de Wet politieregisters.   
+Wijzigt de Wet politieregisters.
 
-### Artikel  III  
+###Artikel III 
+Materieel uitgewerkt per 01-02-2013 
 
-[Artikel 151c van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) blijft buiten toepassing gedurende een jaar na het tijdstip van inwerkingtreding van deze wet ten aanzien van camera’s ten behoeve van de handhaving van de openbare orde die geplaatst zijn voorafgaand aan het tijdstip van inwerkingtreding van deze wet.  
+[Artikel 151c van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) blijft buiten toepassing gedurende een jaar na het tijdstip van inwerkingtreding van deze wet ten aanzien van camera’s ten behoeve van de handhaving van de openbare orde die geplaatst zijn voorafgaand aan het tijdstip van inwerkingtreding van deze wet.
 
-### Artikel  IV  
+###Artikel IV 
+Materieel uitgewerkt per 01-02-2013 
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-### Artikel  V  
+###Artikel V 
+Materieel uitgewerkt per 01-02-2013 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-Gegeven te ’s-Gravenhage 
-30 juni 2005  
-Beatrix  
+Gegeven te ’s-Gravenhage
+30 juni 2005
+Beatrix
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
-J. W. Remkes   
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties ,
+J. W.Remkes
 
-de *tweede* augustus 2005 
+de *tweede* augustus 2005
 
 De Minister van Justitie a.i. , 
-M. C. F. Verdonk    
+M. C. F.Verdonk
