@@ -22,17 +22,17 @@ e. Lloyds Register EMEA (LR) te Londen, Verenigd Koninkrijk;
 
 f. Nippon Kaiji Kyokai (NK) te Tokio, Japan;  
 
-g. Registro Italiano Navale (RINA) te Genua, Italië.    
+g. Registro Italiano Navale (RINA) te Genua, Italië.   
 
 ### Artikel  2  
 
-De ingevolge artikel 1 aangewezen rechtspersonen blijven voldoen aan de erkenningscriteria, opgenomen in [artikel 5.9, eerste en tweede lid, van de Regeling zeevarenden](../../../../../../../../../../ministeriele-regeling/regeling/zeevarenden/BWBR0032140/README.md).  
+De ingevolge artikel 1 aangewezen rechtspersonen blijven voldoen aan de erkenningscriteria, opgenomen in [artikel 5.9, eerste en tweede lid, van de Regeling zeevarenden](../../../../../../../../../../ministeriele-regeling/regeling/zeevarenden/BWBR0032140/README.md). 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus.   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus.     

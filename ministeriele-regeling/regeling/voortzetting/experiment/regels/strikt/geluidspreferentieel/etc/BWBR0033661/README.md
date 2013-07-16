@@ -12,19 +12,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *LVB:* het [Luchthavenverkeerbesluit Schiphol](../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md);  
+a.  *LVB:* het [Luchthavenverkeerbesluit Schiphol](../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md);  
 
-b. *het experiment:* het experiment met het nieuwe normen- en handhavingstelsel voor de luchthaven Schiphol;  
+b.  *het experiment:* het experiment met het nieuwe normen- en handhavingstelsel voor de luchthaven Schiphol;  
 
-c. *gebruiksjaar 2013:* de periode van 1 november 2012 tot en met 31 oktober 2013;  
+c.  *gebruiksjaar 2013:* de periode van 1 november 2012 tot en met 31 oktober 2013;  
 
-d. *Schiphol:* N.V. Luchthaven Schiphol.    
+d.  *Schiphol:* N.V. Luchthaven Schiphol.   
 
 ### Artikel  2  
 
 ####Doel
 
-De regeling heeft tot doel te borgen dat het vliegen volgens de regels van het strikt geluidspreferentieel baangebruik voortgang kan vinden en niet leidt tot ongewenste stuurmaatregelen in de operatie van Schiphol om de kans op overschrijdingen van de grenswaarden voor de geluidbelasting in handhavingspunten te minimaliseren.  
+De regeling heeft tot doel te borgen dat het vliegen volgens de regels van het strikt geluidspreferentieel baangebruik voortgang kan vinden en niet leidt tot ongewenste stuurmaatregelen in de operatie van Schiphol om de kans op overschrijdingen van de grenswaarden voor de geluidbelasting in handhavingspunten te minimaliseren. 
 
 ### Artikel  3  
 
@@ -104,13 +104,13 @@ De regeling heeft tot doel te borgen dat het vliegen volgens de regels van het s
 
 ####Uitvoering
 
-In het gebruiksjaar 2013 wordt het vliegen volgens de regels voor het strikt geluidsprefentieel baangebruik voortgezet. Dit houdt in dat bij voorkeur de voor de omgeving minst overlastgevende start- en landingsbanen (Polderbaan en Kaagbaan) worden ingezet.  
+In het gebruiksjaar 2013 wordt het vliegen volgens de regels voor het strikt geluidsprefentieel baangebruik voortgezet. Dit houdt in dat bij voorkeur de voor de omgeving minst overlastgevende start- en landingsbanen (Polderbaan en Kaagbaan) worden ingezet. 
 
 ### Artikel  5  
 
 ####Gevolgen
 
-De gevolgen van het experiment met het nieuwe normen- en handhavingstelsel staan beschreven in het Tussentijdse evaluatierapport van de Tafel van Alders (Kamerstukken II 2011/2012, 29 665, nr. 175) en de monitoringsrapportages over het gebruiksjaar 2011 en 2012 (Kamerstukken II 2011/2012, 29 665, nrs. 162, 165, 168, 171, 175, 176, 179 en 185).  
+De gevolgen van het experiment met het nieuwe normen- en handhavingstelsel staan beschreven in het Tussentijdse evaluatierapport van de Tafel van Alders (Kamerstukken II 2011/2012, 29 665, nr. 175) en de monitoringsrapportages over het gebruiksjaar 2011 en 2012 (Kamerstukken II 2011/2012, 29 665, nrs. 162, 165, 168, 171, 175, 176, 179 en 185). 
 
 ### Artikel  6  
 
@@ -128,33 +128,33 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 * transparant, minder complex, navolgbaar, uitlegbaar  
 
-* robuuste ruimtelijk ordening.   Deze criteria zijn nader uitgewerkt in de brief van de Staatssecretaris van Infrastructuur en Milieu aan de Tweede Kamer van 28 oktober 2010 (Kamerstukken II 2009/2010, 29 665, nr. 158).  
+* robuuste ruimtelijk ordening.   Deze criteria zijn nader uitgewerkt in de brief van de Staatssecretaris van Infrastructuur en Milieu aan de Tweede Kamer van 28 oktober 2010 (Kamerstukken II 2009/2010, 29 665, nr. 158). 
 
 ### Artikel  7  
 
 ####Onvoorziene gevallen
 
-In onvoorziene gevallen kan op advies van belanghebbenden de Staatssecretaris van Infrastructuur en Milieu overgaan tot bijsturen, opschorten of vroegtijdig stopzetten van het experiment.  
+In onvoorziene gevallen kan op advies van belanghebbenden de Staatssecretaris van Infrastructuur en Milieu overgaan tot bijsturen, opschorten of vroegtijdig stopzetten van het experiment. 
 
 ### Artikel  8  
 
 ####Termijn experiment
 
-De termijn van het experiment betreft de periode van 15 juli 2013 tot en met 31 oktober 2013.  
+De termijn van het experiment betreft de periode van 15 juli 2013 tot en met 31 oktober 2013. 
 
 ### Artikel  9  
 
 ####Reparatie
 
-Wijzigt de Regeling milieu-informatie luchthaven Schiphol.   
+Wijzigt de Regeling milieu-informatie luchthaven Schiphol.
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-W.J.Mansveld   
+Staatssecretaris van Infrastructuur en Milieu, 
+W.J. Mansveld     

@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  1  
 
-Met ingang van de datum van herindeling worden opgeheven de gemeenten Boarnsterhim, Gaasterlân-Sleat, Heerenveen, Leeuwarden, Lemsterland en Skarsterlân.  
+Met ingang van de datum van herindeling worden opgeheven de gemeenten Boarnsterhim, Gaasterlân-Sleat, Heerenveen, Leeuwarden, Lemsterland en Skarsterlân. 
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ b. Heerenveen;
 c. Leeuwarden.     
 2.  De nieuwe gemeente De Friese Meren bestaat uit het grondgebied van de op te heffen gemeenten Gaasterlân-Sleat, Lemsterland en Skarsterlân en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende kaart, met dien verstande dat tevens het grensbeloop met de op te heffen gemeente Heerenveen wordt gewijzigd.   
 3.  De nieuwe gemeente Heerenveen bestaat uit het grondgebied van de op te heffen gemeente Heerenveen en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende kaart, met dien verstande dat tevens het grensbeloop met de op te heffen gemeente Skarsterlân wordt gewijzigd.   
-4.  De nieuwe gemeente Leeuwarden bestaat uit het grondgebied van de op te heffen gemeente Leeuwarden en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende kaart.   
+4.  De nieuwe gemeente Leeuwarden bestaat uit het grondgebied van de op te heffen gemeente Leeuwarden en een deel van de op te heffen gemeente Boarnsterhim, waarbij de grens van de nieuwe gemeente komt te lopen zoals aangegeven op de bij deze wet behorende kaart.  
 
 ### §  2  
 
@@ -35,7 +35,7 @@ c. Leeuwarden.
 
 ### Artikel  3  
 
-Met ingang van de datum van herindeling wordt de grens van de gemeente Súdwest-Fryslân gewijzigd, zoals wordt aangegeven op de bij deze wet behorende kaart.  
+Met ingang van de datum van herindeling wordt de grens van de gemeente Súdwest-Fryslân gewijzigd, zoals wordt aangegeven op de bij deze wet behorende kaart. 
 
 ### §  3  
 
@@ -49,7 +49,7 @@ a. Skarsterlân, voor de nieuwe gemeente De Friese Meren;
 
 b. Heerenveen, voor de nieuwe gemeente Heerenveen;  
 
-c. Leeuwarden, voor de nieuwe gemeente Leeuwarden.    
+c. Leeuwarden, voor de nieuwe gemeente Leeuwarden.   
 
 ### Artikel  5  
 
@@ -86,35 +86,35 @@ b. Heerenveen, voor de nieuwe gemeente Heerenveen;
 
 c. Leeuwarden, voor de nieuwe gemeente Leeuwarden.     
 3.  Indien de datum van herindeling valt binnen twee jaar voor de datum waarop de reguliere verkiezingen voor de leden van de gemeenteraden ingevolge de [Kieswet](../../../../../../../../../wet/kieswet/BWBR0004627/README.md) moeten worden gehouden, vinden deze verkiezingen niet plaats in de nieuwe gemeenten genoemd in artikel 2, eerste lid.   
-4.  De zittingsperiode van de leden van de raad van de nieuwe gemeenten, genoemd in artikel 2, eerste lid, eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.   
+4.  De zittingsperiode van de leden van de raad van de nieuwe gemeenten, genoemd in artikel 2, eerste lid, eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.  
 
 ### Artikel  7  
 
-Wijzigt de Wet veiligheidsregio’s.   
+Wijzigt de Wet veiligheidsregio’s.
 
 ### Artikel  8  
 
-Gedeputeerde staten kunnen bij vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van de aangebrachte verbeteringen.  
+Gedeputeerde staten kunnen bij vaststelling van de grensbeschrijving, bedoeld in [artikel 2, tweede lid, van de Wet algemene regels herindeling](../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), kennelijke onjuistheden verbeteren in de grenzen zoals die zijn aangegeven op de bij deze wet behorende kaart. Zij stellen Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van de aangebrachte verbeteringen. 
 
 ### Artikel  9  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 19 juni 2013  
 Willem-Alexander  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 R.H.A. Plasterk   
 
 de *twaalfde* juli 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
 
-### Kaart  
+### Kaart 
 
 ####, genoemd in artikel 2, tweede tot en met het vierde lid , artikel 3  en artikel 8 
 

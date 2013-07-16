@@ -2,13 +2,13 @@
 
 ##Reglement betreffende het scheepvaartpersoneel op de Rijn (RSP)
 
-### Deel  I  
+###Deel  I  
 
-#### *Algemene bepalingen* 
+#### *Algemene bepalingen*
 
-### Hoofdstuk  1  
+###Hoofdstuk  1  
 
-#### *Algemene bepalingen voor de delen I, II en III* 
+#### *Algemene bepalingen voor de delen I, II en III*
 
 ### Artikel  1.01  
 
@@ -17,96 +17,96 @@
 In dit reglement wordt verstaan onder: 
 ### * *Typen schepen* * 
 
-1. *schip:* een binnenschip, een veerpont, een zeeschip of een drijvend werktuig;  
+1.  *schip:* een binnenschip, een veerpont, een zeeschip of een drijvend werktuig;  
 
-2. *binnenschip:* een schip dat uitsluitend of overwegend voor de vaart opbinnenwateren bestemd is;  
+2.  *binnenschip:* een schip dat uitsluitend of overwegend voor de vaart opbinnenwateren bestemd is;  
 
-3. *zeeschip:* een schip dat voor de zee- of kustvaart is toegelaten en overwegend daartoe bestemd is;  
+3.  *zeeschip:* een schip dat voor de zee- of kustvaart is toegelaten en overwegend daartoe bestemd is;  
 
-4. *motorschip:* een schip dat voor het vervoer van goederen bestemd is en door middel van zijn eigen mechanische middelen tot voortbeweging zelfstandig kan varen;  
+4.  *motorschip:* een schip dat voor het vervoer van goederen bestemd is en door middel van zijn eigen mechanische middelen tot voortbeweging zelfstandig kan varen;  
 
-5. *veerpont:* een schip dat een veerdienst onderhoudt waarbij de vaarweg wordt overgestoken en door de bevoegde autoriteit als veerpont wordt aangemerkt;  
+5.  *veerpont:* een schip dat een veerdienst onderhoudt waarbij de vaarweg wordt overgestoken en door de bevoegde autoriteit als veerpont wordt aangemerkt;  
 
-6. *overheidsvaartuig:* een schip waarvan de lengte niet meer dan 25 m bedraagt en ter uitvoering van overheidstaken wordt ingezet;  
+6.  *overheidsvaartuig:* een schip waarvan de lengte niet meer dan 25 m bedraagt en ter uitvoering van overheidstaken wordt ingezet;  
 
-7. *brandweerboot:* een schip waarvan de lengte 15 m of meer bedraagt en ter uitvoering van hulpverlening wordt ingezet;  
+7.  *brandweerboot:* een schip waarvan de lengte 15 m of meer bedraagt en ter uitvoering van hulpverlening wordt ingezet;  
 
-8. *sleepboot:* een schip dat speciaal gebouwd is om te slepen;  
+8.  *sleepboot:* een schip dat speciaal gebouwd is om te slepen;  
 
-9. *duwboot:* een schip dat speciaal gebouwd is voor het voortbewegen van een duwstel;  
+9.  *duwboot:* een schip dat speciaal gebouwd is voor het voortbewegen van een duwstel;  
 
-10. *sleepschip:* een schip dat bestemd is voor het vervoer van goederen en is gebouwd om te worden gesleept, met of zonder eigen mechanische middelen tot voortbeweging waardoor slechts verplaatsingen over kleine afstanden mogelijk zijn;  
+10.  *sleepschip:* een schip dat bestemd is voor het vervoer van goederen en is gebouwd om te worden gesleept, met of zonder eigen mechanische middelen tot voortbeweging waardoor slechts verplaatsingen over kleine afstanden mogelijk zijn;  
 
-11. *duwbak:* een schip dat gebouwd of specifiek uitgerust is om te worden geduwd;  
+11.  *duwbak:* een schip dat gebouwd of specifiek uitgerust is om te worden geduwd;  
 
-12. *passagiersschip:* een schip voor dagtochten of een hotelschip dat is gebouwd en ingericht voor het vervoer van meer dan 12 passagiers;  
+12.  *passagiersschip:* een schip voor dagtochten of een hotelschip dat is gebouwd en ingericht voor het vervoer van meer dan 12 passagiers;  
 
-13. *schip voor dagtochten:* een passagiersschip zonder hutten voor overnachting van passagiers en met een overeenkomstige aantekening in het certificaat van onderzoek;  
+13.  *schip voor dagtochten:* een passagiersschip zonder hutten voor overnachting van passagiers en met een overeenkomstige aantekening in het certificaat van onderzoek;  
 
-14. *hotelschip:* een passagiersschip met hutten voor overnachting van passagiers en met een overeenkomstige aantekening in het certificaat van onderzoek;  
+14.  *hotelschip:* een passagiersschip met hutten voor overnachting van passagiers en met een overeenkomstige aantekening in het certificaat van onderzoek;  
 
-15. *drijvend werktuig:* een drijvend bouwsel waarop zich werkinstallaties bevinden zoals kranen, baggermolens, hei-installaties, elevatoren;  
+15.  *drijvend werktuig:* een drijvend bouwsel waarop zich werkinstallaties bevinden zoals kranen, baggermolens, hei-installaties, elevatoren;  
 
-16. *pleziervaartuig:* een schip dat bestemd is voor sportieve of recreatieve doeleinden en geen passagiersschip is.   
+16.  *pleziervaartuig:* een schip dat bestemd is voor sportieve of recreatieve doeleinden en geen passagiersschip is.   
 ### * *Samenstellen van vaartuigen* * 
 
-17. *samenstel:* een hecht samenstel of een sleep;  
+17.  *samenstel:* een hecht samenstel of een sleep;  
 
-18. *formatie:* vorm van de samenstelling van een samenstel;  
+18.  *formatie:* vorm van de samenstelling van een samenstel;  
 
-19. *hecht samenstel:* een duwstel of een gekoppeld samenstel;  
+19.  *hecht samenstel:* een duwstel of een gekoppeld samenstel;  
 
-20. *duwstel:* een hecht samenstel van vaartuigen, waarvan er ten minste één geplaatst is vóór het schip of de twee schepen met motoraandrijving die dienen voor het voortbewegen van het samenstel en worden aangeduid als ‘duwboot’ of ‘duwboten’. Hieronder wordt ook een duwstel verstaan dat is samengesteld uit een duwend en een geduwd vaartuig waarvan de koppelingen een beheerst knikken mogelijk maken;  
+20.  *duwstel:* een hecht samenstel van vaartuigen, waarvan er ten minste één geplaatst is vóór het schip of de twee schepen met motoraandrijving die dienen voor het voortbewegen van het samenstel en worden aangeduid als ‘duwboot’ of ‘duwboten’. Hieronder wordt ook een duwstel verstaan dat is samengesteld uit een duwend en een geduwd vaartuig waarvan de koppelingen een beheerst knikken mogelijk maken;  
 
-21. *gekoppeld samenstel:* een hecht samenstel van langszijde aan elkaar vastgemaakte schepen, die geen van beide vóór het motorschip geplaatst zijn dat voor het voortbewegen van het samenstel dient;  
+21.  *gekoppeld samenstel:* een hecht samenstel van langszijde aan elkaar vastgemaakte schepen, die geen van beide vóór het motorschip geplaatst zijn dat voor het voortbewegen van het samenstel dient;  
 
-22. *sleep:* een samenstel van één of meer vaartuigen, drijvende inrichtingen of drijvend materieel, dat wordt gesleept door één of meer tot het samenstel behorende vaartuigen met motoraandrijving;  
+22.  *sleep:* een samenstel van één of meer vaartuigen, drijvende inrichtingen of drijvend materieel, dat wordt gesleept door één of meer tot het samenstel behorende vaartuigen met motoraandrijving;  
 
-23. *lengte of L:* de grootste lengte van de scheepsromp in m, gemetenzonder roer en boegspriet;  
+23.  *lengte of L:* de grootste lengte van de scheepsromp in m, gemetenzonder roer en boegspriet;  
 
-24. *breedte of B:* de grootste breedte van de scheepsromp in m, gemeten op de buitenkant van de huidbeplating (zonder schoepraderen, schuurlijsten en dergelijke).   
+24.  *breedte of B:* de grootste breedte van de scheepsromp in m, gemeten op de buitenkant van de huidbeplating (zonder schoepraderen, schuurlijsten en dergelijke).   
 ### * *Personeel* * 
 
-25. *bemanning:* de dekbemanning en de machinisten;  
+25.  *bemanning:* de dekbemanning en de machinisten;  
 
-26. *minimumbemanning:* de voorgeschreven minimumbemanning overeenkomstig in de artikelen 3.14 tot 3.21 van dit reglement;  
+26.  *minimumbemanning:* de voorgeschreven minimumbemanning overeenkomstig in de artikelen 3.14 tot 3.21 van dit reglement;  
 
-27. *dekbemanning:* de bemanning met uitzondering van machinisten;  
+27.  *dekbemanning:* de bemanning met uitzondering van machinisten;  
 
-28. *boordpersoneel:* alle werkzame personen aan boord van een passagiersschip die niet tot de bemanning behoren;  
+28.  *boordpersoneel:* alle werkzame personen aan boord van een passagiersschip die niet tot de bemanning behoren;  
 
-29. *veiligheidspersoneel:* de deskundige voor de passagiersscheepvaart, de eerste-hulpverlener en de persoon die is opgeleid voor het dragen van ademhalingsapparatuur, alsmede de deskundige voor het transport van gevaarlijke stoffen;  
+29.  *veiligheidspersoneel:* de deskundige voor de passagiersscheepvaart, de eerste-hulpverlener en de persoon die is opgeleid voor het dragen van ademhalingsapparatuur, alsmede de deskundige voor het transport van gevaarlijke stoffen;  
 
-30. *passagier:* iedere persoon aan boord die niet tot de bemanning of tot het boordpersoneel behoort;  
+30.  *passagier:* iedere persoon aan boord die niet tot de bemanning of tot het boordpersoneel behoort;  
 
-31. *vaartijd:* de tijd aan boord van een schip dat een reis maakt;  
+31.  *vaartijd:* de tijd aan boord van een schip dat een reis maakt;  
 
-32. *radarvaart:* de vaart bij slecht zicht, waarbij de radar voor het voeren van het schip wordt gebruikt;  
+32.  *radarvaart:* de vaart bij slecht zicht, waarbij de radar voor het voeren van het schip wordt gebruikt;  
 
-33. *marifoonbedieningscertificaat:* een op basis van bijlage 5 van de Regionale Regeling betreffende de Marifoondienst in de Binnenvaart afgegeven certificaat marifoonbediening;  
+33.  *marifoonbedieningscertificaat:* een op basis van bijlage 5 van de Regionale Regeling betreffende de Marifoondienst in de Binnenvaart afgegeven certificaat marifoonbediening;  
 
-34. *schipperspatent:* een Rijnpatent of een ander bevoegdheidsbewijsvoor het voeren van een binnenvaartschip;  
+34.  *schipperspatent:* een Rijnpatent of een ander bevoegdheidsbewijsvoor het voeren van een binnenvaartschip;  
 
-35. *Rijnpatent:* een bevoegdheidsbewijs voor het voeren van een schip op de Rijn overeenkomstig artikel 6.04, eerste lid van dit reglement;   
+35.  *Rijnpatent:* een bevoegdheidsbewijs voor het voeren van een schip op de Rijn overeenkomstig artikel 6.04, eerste lid van dit reglement;   
 ### * *Overige begrippen* * 
 
-36. *ADN-Reglement:* het bij het Europees Verdrag over het internationale Vervoer van gevaarlijke Stoffen over Binnenwateren (ADN) gevoegde Reglement.  
+36.  *ADN-Reglement:* het bij het Europees Verdrag over het internationale Vervoer van gevaarlijke Stoffen over Binnenwateren (ADN) gevoegde Reglement.  
 
-37. *binnenvaartcertificaat:* een certificaat van onderzoek of een communautair certificaat;  
+37.  *binnenvaartcertificaat:* een certificaat van onderzoek of een communautair certificaat;  
 
-38. *Commissie van Deskundigen:* de nationale autoriteit die bevoegd is voor de afgifte van het certificaat van onderzoek en waarvan de samenstelling is vastgesteld in [artikel 2.01 van het Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).    
+38.  *Commissie van Deskundigen:* de nationale autoriteit die bevoegd is voor de afgifte van het certificaat van onderzoek en waarvan de samenstelling is vastgesteld in [artikel 2.01 van het Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
 
 ### Artikel  1.02  
 
 ####Wijzigingen door voorschriften van tijdelijke aard
 
-De Centrale Commissie voor de Rijnvaart kan voorschriften van tijdelijke aard aannemen, wanneer het voor een aanpassing aan de technische ontwikkeling van de binnenscheepvaart noodzakelijk wordt geacht om in dringende gevallen afwijkingen van dit reglement toe te laten dan wel proefnemingen mogelijk te maken, waardoor de veiligheid en de vlotte afwikkeling van het scheepvaartverkeer niet worden aangetast. Deze voorschriften van tijdelijke aard worden door de bevoegde autoriteit gepubliceerd en hebben een geldigheidsduur van ten hoogste drie jaren. Zij worden in alle Rijnoeverstaten en België op hetzelfde tijdstip in werking gesteld en worden onder dezelfde voorwaarden buiten werking gesteld.  
+De Centrale Commissie voor de Rijnvaart kan voorschriften van tijdelijke aard aannemen, wanneer het voor een aanpassing aan de technische ontwikkeling van de binnenscheepvaart noodzakelijk wordt geacht om in dringende gevallen afwijkingen van dit reglement toe te laten dan wel proefnemingen mogelijk te maken, waardoor de veiligheid en de vlotte afwikkeling van het scheepvaartverkeer niet worden aangetast. Deze voorschriften van tijdelijke aard worden door de bevoegde autoriteit gepubliceerd en hebben een geldigheidsduur van ten hoogste drie jaren. Zij worden in alle Rijnoeverstaten en België op hetzelfde tijdstip in werking gesteld en worden onder dezelfde voorwaarden buiten werking gesteld.
 
 ### Artikel  1.03  
 
 ####Dienstinstructies
 
-In het belang van een eenvoudige en uniforme toepassing van het onderhavige reglement kan de Centrale Commissie voor de Rijnvaart dienstinstructies vaststellen. De bevoegde autoriteiten dienen zich aan deze dienstinstructies te houden.  
+In het belang van een eenvoudige en uniforme toepassing van het onderhavige reglement kan de Centrale Commissie voor de Rijnvaart dienstinstructies vaststellen. De bevoegde autoriteiten dienen zich aan deze dienstinstructies te houden.
 
 ### Deel  II  
 
@@ -124,7 +124,7 @@ In het belang van een eenvoudige en uniforme toepassing van het onderhavige regl
 
 a) schepen met een lengte van 20 m of meer;  
 
-b) schepen waarvan het product van L . B . T gelijk is aan een inhoud van 100 m <sup>3</sup> of meer.    
+b) schepen waarvan het product van L . B . T gelijk is aan een inhoud van 100 m<sup>3</sup> of meer.    
 
 2. Bovendien is dit deel van toepassing op alle 
 
@@ -136,7 +136,7 @@ c) passagiersschepen;
 
 d) drijvende werktuigen.    
 
-3. Dit deel is niet van toepassing op veerponten.    
+3. Dit deel is niet van toepassing op veerponten.  
 
 ### Artikel  2.02  
 
@@ -146,7 +146,7 @@ d) drijvende werktuigen.
 
 2. Elke Rijnoeverstaat of België kan bepalen dat de nationale voorschriften betreffende de arbeidsbescherming van toepassing zijn op de Rijnschepen die in die staat zijn ingeschreven. Niet in een register ingeschreven schepen vallen onder de wettelijke voorschriften van die Rijnoeverstaat of België waarin het bedrijf zijn hoofdzetel of de eigenaar zijn wettelijke domicilie heeft. In afwijking hiervan kunnen de bevoegde autoriteiten van de Rijnoeverstaten of België bilateraal overeenkomen dat bepaalde schepen die in de ene staat zijn ingeschreven, onder de voorschriften van de andere staat vallen. Zwangere vrouwen en kraamvrouwen mogen gedurende ten minste 14 weken, waarvan ten minste zes weken voor en zeven weken na de bevalling geen deel uitmaken van de bemanning.  
 
-3. Voor de toepassing van de artikelen 3.10, 3.11 en 3.13 dient tevens rekening te worden gehouden met vaar- en rusttijden diebuiten het toepassingsgebied van dit reglement vervuld zijn.    
+3. Voor de toepassing van de artikelen 3.10, 3.11 en 3.13 dient tevens rekening te worden gehouden met vaar- en rusttijden diebuiten het toepassingsgebied van dit reglement vervuld zijn.  
 
 ### Hoofdstuk  3  
 
@@ -160,7 +160,7 @@ d) drijvende werktuigen.
 
 ####Beschrijving van de bekwaamheden
 
-Tot de leden van de bemanning behoren de dekbemanning en het machinekamerpersoneel. Leden van de dekbemanning zijn de deksman, de lichtmatroos (scheepsjongen), de matroos, de matroos-motordrijver, de volmatroos, de stuurman en de schipper. Het machinekamerpersoneel bestaat uit de machinist.  
+Tot de leden van de bemanning behoren de dekbemanning en het machinekamerpersoneel. Leden van de dekbemanning zijn de deksman, de lichtmatroos (scheepsjongen), de matroos, de matroos-motordrijver, de volmatroos, de stuurman en de schipper. Het machinekamerpersoneel bestaat uit de machinist.
 
 ### Subparagraaf  1  
 
@@ -224,7 +224,7 @@ c) een vaartijd in de binnenvaart van ten minste vier jaar en het bezit van een 
 
 a) een minimumleeftijd van 18 jaar en een met goed gevolg afgelegd eindexamen van eenvakopleiding op het gebied van motoren of werktuigbouwkunde; of  
 
-b) een minimumleeftijd van 19 jaar en een vaartijd van ten minste 2 jaar als matroos-motordrijver op een gemotoriseerd binnenschip.     Houders van een groot patent, een overeenkomstig Richtlijn 96/50/EG afgegeven vaarbewijs, een vaarbewijs als bedoeld in bijlage I van Richtlijn 91/672/EEG of een aan het grote patent als gelijkwaardig erkende vaarbevoegdheidsbewijs mogen naast de functie van stuurman ook de functies van lichtmatroos, matroos, volmatroos en matroos-motordrijver uitoefenen.  
+b) een minimumleeftijd van 19 jaar en een vaartijd van ten minste 2 jaar als matroos-motordrijver op een gemotoriseerd binnenschip.     Houders van een groot patent, een overeenkomstig Richtlijn 96/50/EG afgegeven vaarbewijs, een vaarbewijs als bedoeld in bijlage I van Richtlijn 91/672/EEG of een aan het grote patent als gelijkwaardig erkende vaarbevoegdheidsbewijs mogen naast de functie van stuurman ook de functies van lichtmatroos, matroos, volmatroos en matroos-motordrijver uitoefenen.
 
 ### Artikel  3.03  
 
@@ -238,7 +238,7 @@ b) een door de CCR als gelijkwaardig erkende medische verklaring, die niet ouder
 
 c) een als gelijkwaardig erkend, geldig vaarbevoegdheidsbewijs, waarvoor op zijn minst dezelfde vereisten gelden, als die in bijlage B1 zijn vastgesteld.    
 
-2. Voor de functie van machinist hoeft niet aan de vereisten voor ogen en oren, zoals bedoeld in [bijlage B1 van het Patentreglement Rijn](../../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), te worden voldaan.    
+2. Voor de functie van machinist hoeft niet aan de vereisten voor ogen en oren, zoals bedoeld in [bijlage B1 van het Patentreglement Rijn](../../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), te worden voldaan.  
 
 ### Artikel  3.04  
 
@@ -248,7 +248,7 @@ Het bewijs van lichamelijke en geestelijke geschiktheid moet vernieuwd worden do
 
 a) voor de houder van een schipperspatent, iedere vijf jaar vanaf het bereiken van de leeftijd van 50 jaar tot de leeftijd van 65 jaar, daarna ieder jaar vanaf het bereiken van de leeftijd van 65 jaar;  
 
-b) voor de leden van de bemanning, met uitzondering van de houder van een schipperspatent, vanaf het bereiken van de leeftijd van 65 jaar en daarna ieder jaar.    
+b) voor de leden van de bemanning, met uitzondering van de houder van een schipperspatent, vanaf het bereiken van de leeftijd van 65 jaar en daarna ieder jaar.  
 
 ### Subparagraaf  2  
 
@@ -264,7 +264,7 @@ a) door de schipper aan de hand van een Rijnpatent of een door de CCR als gelijk
 
 b) door de overige leden van de bemanning aan de hand van een op hun naam afgegeven geldig dienstboekje, overeenkomstig het model van bijlage A2, of een ander door de CCR als gelijkwaardig erkend, geldig dienstboekje; de lijst van de als gelijkwaardig erkende dienstboekjes is in bijlage A6 van dit reglement opgenomen.    
 
-2. De leden van de bemanning kunnen, met uitzondering van de machinist, hun bekwaamheid ook aantonen door een groot patent of een daarmee overeenstemmend en door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs overeenkomstig deel III van dit reglement.    
+2. De leden van de bemanning kunnen, met uitzondering van de machinist, hun bekwaamheid ook aantonen door een groot patent of een daarmee overeenstemmend en door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs overeenkomstig deel III van dit reglement.  
 
 ### Artikel  3.06  
 
@@ -290,7 +290,7 @@ a) overeenkomstig de aanwijzingen en instructies voor het bijhouden van een dien
 
 b) het dienstboekje tot aan het einde van het dienstverband, arbeidscontract dan wel andere regeling op een veilige plaats in het stuurhuis bewaren;  
 
-c) het dienstboekje te allen tijdemeteen aan de houder teruggeven, als deze daarom verzoekt.      
+c) het dienstboekje te allen tijdemeteen aan de houder teruggeven, als deze daarom verzoekt.    
 
 ### Artikel  3.07  
 
@@ -304,7 +304,7 @@ a) informeert ze de autoriteit die het dienstboekje heeft afgegeven. Deze kan ve
 
 b) kan ze de geldigheid van het dienstboekje voor een bepaalde tijd opschorten, maar niet langer dan de datum die door de autoriteit die het dienstboekje heeft afgegeven, voor het overleggen van een nieuwe medische verklaringis vastgesteld . De CCR en de autoriteit die het dienstboekje heeft afgeven, dienen in dit geval van haar beslissing op de hoogte te worden gesteld.    
 
-3. Als gebleken is dat de houder ongeschikt is, als bedoeld in het eerste en tweede lid, vermeldt de afgevende autoriteit op pagina 2 en 7 van het dienstboekje de goed leesbare aantekening ‘ONGESCHIKT’ en waarmerkt hij die.    
+3. Als gebleken is dat de houder ongeschikt is, als bedoeld in het eerste en tweede lid, vermeldt de afgevende autoriteit op pagina 2 en 7 van het dienstboekje de goed leesbare aantekening ‘ONGESCHIKT’ en waarmerkt hij die.  
 
 ### Subparagraaf  3  
 
@@ -314,7 +314,7 @@ b) kan ze de geldigheid van het dienstboekje voor een bepaalde tijd opschorten, 
 
 ####Berekening van de vaartijd
 
-Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binnen een periode van 365 opeenvolgende dagen kunnen maximaal 180 dagen als daadwerkelijke vaartijd worden meegerekend. 250 vaardagen in de zee- en kustvaart alsmede de visserij gelden als één jaar vaartijd.  
+Als één jaar vaartijd gelden 180 effectieve vaardagen in de binnenvaart. Binnen een periode van 365 opeenvolgende dagen kunnen maximaal 180 dagen als daadwerkelijke vaartijd worden meegerekend. 250 vaardagen in de zee- en kustvaart alsmede de visserij gelden als één jaar vaartijd.
 
 ### Artikel  3.09  
 
@@ -340,7 +340,7 @@ e) de bevaren riviergedeelten (precieze aanduiding met plaatsen van vertrek en a
 
 5. De tijd die is doorgebracht voor het bezoeken van een vakschool voor schippers moet door het getuigschrift van de school worden aangetoond.  
 
-6. Indien nodig, moeten de officiële documenten, zoals bedoeld in het tweede tot en met het vijfde lid, samen met een beëdigde vertaling in de Duitse, Franse of Nederlandse taal worden overgelegd.    
+6. Indien nodig, moeten de officiële documenten, zoals bedoeld in het tweede tot en met het vijfde lid, samen met een beëdigde vertaling in de Duitse, Franse of Nederlandse taal worden overgelegd.  
 
 ### Paragraaf  2  
 
@@ -358,7 +358,7 @@ e) de bevaren riviergedeelten (precieze aanduiding met plaatsen van vertrek en a
 
 a) in de exploitatiewijze A1 tussen 22.00 en 06.00 uur, en  
 
-b) in de exploitatiewijze A2 tussen 23.00 en 05.00 uur.   Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd door middel van een tachograaf van een type dat door de bevoegde autoriteit van een Rijnoeverstaat of België is goedgekeurd en toegelaten, aan de vereisten van bijlage A3 van dit reglement voldoet en naar behoren functioneert. De tachograaf moet ten minste vanaf het begin van de laatste ononderbroken rusttijd van acht, respectievelijk zes uur zijn ingeschakeld en voor de controlerende diensten te allen tijde bereikbaar zijn.    
+b) in de exploitatiewijze A2 tussen 23.00 en 05.00 uur.   Er mag van deze tijden worden afgeweken, indien de vaartijd wordt geregistreerd door middel van een tachograaf van een type dat door de bevoegde autoriteit van een Rijnoeverstaat of België is goedgekeurd en toegelaten, aan de vereisten van bijlage A3 van dit reglement voldoet en naar behoren functioneert. De tachograaf moet ten minste vanaf het begin van de laatste ononderbroken rusttijd van acht, respectievelijk zes uur zijn ingeschakeld en voor de controlerende diensten te allen tijde bereikbaar zijn.  
 
 ### Artikel  3.11  
 
@@ -372,7 +372,7 @@ b) in de exploitatiewijze A2 tussen 23.00 en 05.00 uur.   Er mag van deze tijden
 
 4. Gedurende zijn verplichte rusttijd mag een bemanningslid niet voor enigerlei taak wordeningezet, ook niet om toezicht te houden of stand-by te zijn. De in de politievoorschriften bedoelde wacht- en toezichtstaken voor stilliggende vaartuigen worden niet als taak in de zin van dit lid beschouwd.  
 
-5. Bepalingen in de arbeidsvoorschriften of collectieve arbeidsovereenkomsten die langere rusttijden voorschrijven, blijven onverlet.    
+5. Bepalingen in de arbeidsvoorschriften of collectieve arbeidsovereenkomsten die langere rusttijden voorschrijven, blijven onverlet.  
 
 ### Artikel  3.12  
 
@@ -406,7 +406,7 @@ b) de voor exploitatiewijze B bestemde bemanningsleden direct vóór de wisselin
 
 6. Een schip kan onmiddellijk in aansluiting op een reis in exploitatiewijze A1 of A2 voor een volgende reis in exploitatiewijze A1 of A2 worden ingezet, indien een voltallige uitwisseling van de bemanning heeft plaatsgevonden en de nieuwe bemanningsleden onmiddellijk voorafgaand aan de verdere exploitatiewijze A1 en A2 een ononderbroken rusttijd van acht, respectievelijk zes uur buiten de vaartijd in acht genomen en aangetoond hebben.  
 
-7. Het bewijs van een rusttijd van acht, respectievelijk zes uur wordt aangetoond met een verklaring als bedoeld in bijlage A4 van dit reglement of door een kopie van de pagina van het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden en de vaar-, respectievelijk rusttijden, vermeld staan.    
+7. Het bewijs van een rusttijd van acht, respectievelijk zes uur wordt aangetoond met een verklaring als bedoeld in bijlage A4 van dit reglement of door een kopie van de pagina van het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden en de vaar-, respectievelijk rusttijden, vermeld staan.  
 
 ### Artikel  3.13  
 
@@ -429,7 +429,7 @@ a) Punt 2 van de instructies betreffende het bijhouden van het vaartijdenboek, v
 
 b) De na de wisseling van de exploitatiewijze vereiste aantekeningen moeten op een nieuwe bladzijde van het vaartijdenboek worden genoteerd.  
 
-c) Worden per dag twee of meer reizen met ongewijzigde bemanning afgelegd, kan worden volstaan met het invullen van het tijdstip van het begin van de eerste dagvaart en van het einde van de laatste dagvaart.      
+c) Worden per dag twee of meer reizen met ongewijzigde bemanning afgelegd, kan worden volstaan met het invullen van het tijdstip van het begin van de eerste dagvaart en van het einde van de laatste dagvaart.    
 
 ### Paragraaf  3  
 
@@ -481,7 +481,7 @@ d) voor duwboten die een duwstel voortbewegen: Standaard S1 en bovendien een uit
 
 e) voor passagiersschepen: Standaard S1 en bovendien een uitrusting met een vanuit de stuurhut bedienbare boegschroefinstallatie. Deze uitrusting is echter niet vereist, indien de voortstuwingsinstallatie en de stuurinrichting van het passagiersschip gelijkwaardige manoeuvreereigenschappen waarborgen.      
 
-2. Het voldoen of niet voldoen aan de voorschriften van 1.1 of 1.2 wordt door de Commissie van Deskundigen in het certificaat van onderzoek onder nummer 47 gewaarmerkt.    
+2. Het voldoen of niet voldoen aan de voorschriften van 1.1 of 1.2 wordt door de Commissie van Deskundigen in het certificaat van onderzoek onder nummer 47 gewaarmerkt.  
 
 ### Artikel  3.15  
 
@@ -491,11 +491,11 @@ e) voor passagiersschepen: Standaard S1 en bovendien een uitrusting met een vanu
 
 | Groep  | Bemanningsleden  | Aantal bemanningsleden bij de exploitatiewijze  A1, A2 of B en voor de uitrustingsstandaard S1 of S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | L ≤ 70 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  | 1  –  –  1  –  | --- | --- | 2  –  –  –  –  | --- | 2  –  –  1  1 <sup>1)</sup>  | --- | 2  –  –  –  2 <sup>1)</sup><sup>3)</sup>  |
-| 2  | 70 m < L ≤ 86 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  | 1 of  –  1  –  –  | 1  –  –  1  1  | 1  –  –  1  1  | 2  –  –  –  1 <sup>1)</sup>  | --- | 2  –  –  2  –  | --- | 2  –  –  1  1  |
-| 3  | L > 86 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  | 1 of  1  –  1  –  | 1  1  –  –  2  | 1  1  –  –  1  | 2  –  –  1  1 <sup>1)</sup>  | 2  –  –  –  2 <sup>1)</sup>  | 2 of  1  –  2  –  | 2  1 <sup>2)</sup>  –  1  –  | 2  1  –  1  1  |
+| 1  | L ≤ 70 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  | 1  –  –  1  –  | --- | --- | 2  –  –  –  –  | --- | 2  –  –  1  1<sup>1)</sup>   | --- | 2  –  –  –  2<sup>1)</sup> <sup>3)</sup>   |
+| 2  | 70 m < L ≤ 86 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  | 1 of  –  1  –  –  | 1  –  –  1  1  | 1  –  –  1  1  | 2  –  –  –  1<sup>1)</sup>   | --- | 2  –  –  2  –  | --- | 2  –  –  1  1  |
+| 3  | L > 86 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  | 1 of  1  –  1  –  | 1  1  –  –  2  | 1  1  –  –  1  | 2  –  –  1  1<sup>1)</sup>   | 2  –  –  –  2<sup>1)</sup>   | 2 of  1  –  2  –  | 2  1<sup>2)</sup>   –  1  –  | 2  1  –  1  1  |
 
-<sup>1)</sup> De lichtmatroos of één van de lichtmatrozen mag worden vervangen door een deksman. <sup>2)</sup> De stuurman moet in het bezit zijn van het overeenkomstig dit reglement vereiste schipperspatent. <sup>3)</sup> Eén van de lichtmatrozen moet ouder zijn dan 18 jaar.  
+<sup>1)</sup> De lichtmatroos of één van de lichtmatrozen mag worden vervangen door een deksman.  <sup>2)</sup> De stuurman moet in het bezit zijn van het overeenkomstig dit reglement vereiste schipperspatent.  <sup>3)</sup> Eén van de lichtmatrozen moet ouder zijn dan 18 jaar.  
 
 2. De voorgeschreven matrozen overeenkomstig de in het eerste lid genoemde tabel mogen door lichtmatrozen worden vervangen die de minimumleeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.  
 
@@ -503,7 +503,7 @@ e) voor passagiersschepen: Standaard S1 en bovendien een uitrusting met een vanu
 
 a) in groep 2, exploitatiewijze A1, Standaard S2, en  
 
-b) in groep 3, exploitatiewijze A1, Standaard S1,   voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatrozen, zoals bedoeld in het tweede lid.    
+b) in groep 3, exploitatiewijze A1, Standaard S1,   voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatrozen, zoals bedoeld in het tweede lid.  
 
 ### Artikel  3.16  
 
@@ -513,14 +513,14 @@ Minimumbemanning van hechte samenstellen en andere hechte samenstellingen
 
 | Groep  | Bemanningsleden  | Aantal bemanningsleden bij de exploitatiewijze  A1, A2 of B en voor de uitrustingsstandaard S1 of S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | afmeting van het samenstel  L ≤ 37 m  B ≤ 15 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1  –  –  1  –  –  | --- | --- | 2  –  –  –  –  –  | --- | 2  –  –  1  1 <sup>1)</sup>  –  | --- | 2  –  –  –  2 <sup>1)3)</sup>  –  | --- |
-| 2  | afmeting van het samenstel  37 m < L ≤ 86m B ≤ 15 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  –  1  –  –  –  | 1  –  –  1  1  –  | 1  –  –  1  1  –  | 2  –  –  –  1 <sup>1)</sup>  –  | --- | 2  –  –  2  –  –  | --- | 2  –  –  1  1  –  | --- |
-| 3  | duwboot + 1 duwbak met L > 86 m of afmeting van het samenstel 86 m < L ≤ 116,5 m B ≤ 15 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  1  –  1  –  –  | 1  1  –  –  2  –  | 1  1  –  –  1  –  | 2  –  –  1  1 <sup>1)</sup>  –  | 2  –  –  –  2 <sup>1)</sup>  –  | 2 of  1  –  2  –  –  | 2  1 <sup>2)</sup>  –  1  –  –  | 2  1  –  1  1  –  | --- |
-| 4  | duwboot + 2 duwbakken <sup>*)</sup>  motorschip + 1 duwbak <sup>*)</sup>  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1  1  –  1  1 <sup>1)</sup>  –  | --- | 1  1  –  –  2 <sup>1)</sup>  –  | 2  –  –  2  1 <sup>1)</sup>  –  | 2  –  1  –  2 <sup>1)</sup>  –  | 2 of  1  –  2  –  1  | 2  1 <sup>2)</sup>  –  2  –  –  | 2 of  1  1  –  1  1  | 2  1 <sup>2)</sup>  1  –  1  –  |
-| 5  | duwboot + 3 of 4 duwbakken <sup>*)</sup>  motorschip + 2 of 3 duwbakken <sup>*)</sup>  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  1  –  2  –  1  | 1  1  –  1  2  1  | 1  1  –  1  1  1  | 2  –  –  2  1 <sup>1)</sup>  1  | 2  –  1  –  2 <sup>1)</sup>  1  | 2 of  1  –  2  –  1  | 2  1 <sup>2)</sup>  –  2  1 <sup>1)</sup>  1  | 2 of  1  1  –  2  1  | 2  1 <sup>2)</sup>  1  –  1  1  |
-| 6  | duwboot + meer dan 4 duwbakken <sup>*)</sup>  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  1  –  3  –  1  | 1  1  –  2  2  1  | 1  1  1  1  1  1  | 2  –  –  3  1 <sup>1)</sup>  1  | 2  –  1  1  2 <sup>1)</sup>  1  | 2 of  1  –  3  –  1  | 2  1 <sup>2)</sup>  –  3  1 <sup>1)</sup>  1  | 2 of  1  1  1  1  1  | 2  1 <sup>2)</sup>  1  1  2 <sup>1)</sup>  1  |
+| 1  | afmeting van het samenstel  L ≤ 37 m  B ≤ 15 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1  –  –  1  –  –  | --- | --- | 2  –  –  –  –  –  | --- | 2  –  –  1  1<sup>1)</sup>   –  | --- | 2  –  –  –  2<sup>1)3)</sup>   –  | --- |
+| 2  | afmeting van het samenstel  37 m < L ≤ 86m B ≤ 15 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  –  1  –  –  –  | 1  –  –  1  1  –  | 1  –  –  1  1  –  | 2  –  –  –  1<sup>1)</sup>   –  | --- | 2  –  –  2  –  –  | --- | 2  –  –  1  1  –  | --- |
+| 3  | duwboot + 1 duwbak met L > 86 m of afmeting van het samenstel 86 m < L ≤ 116,5 m B ≤ 15 m  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  1  –  1  –  –  | 1  1  –  –  2  –  | 1  1  –  –  1  –  | 2  –  –  1  1<sup>1)</sup>   –  | 2  –  –  –  2<sup>1)</sup>   –  | 2 of  1  –  2  –  –  | 2  1<sup>2)</sup>   –  1  –  –  | 2  1  –  1  1  –  | --- |
+| 4  | duwboot + 2 duwbakken<sup>*)</sup>   motorschip + 1 duwbak<sup>*)</sup>   | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1  1  –  1  1<sup>1)</sup>   –  | --- | 1  1  –  –  2<sup>1)</sup>   –  | 2  –  –  2  1<sup>1)</sup>   –  | 2  –  1  –  2<sup>1)</sup>   –  | 2 of  1  –  2  –  1  | 2  1<sup>2)</sup>   –  2  –  –  | 2 of  1  1  –  1  1  | 2  1<sup>2)</sup>   1  –  1  –  |
+| 5  | duwboot + 3 of 4 duwbakken<sup>*)</sup>   motorschip + 2 of 3 duwbakken<sup>*)</sup>   | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  1  –  2  –  1  | 1  1  –  1  2  1  | 1  1  –  1  1  1  | 2  –  –  2  1<sup>1)</sup>   1  | 2  –  1  –  2<sup>1)</sup>   1  | 2 of  1  –  2  –  1  | 2  1<sup>2)</sup>   –  2  1<sup>1)</sup>   1  | 2 of  1  1  –  2  1  | 2  1<sup>2)</sup>   1  –  1  1  |
+| 6  | duwboot + meer dan 4 duwbakken<sup>*)</sup>   | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  1  –  3  –  1  | 1  1  –  2  2  1  | 1  1  1  1  1  1  | 2  –  –  3  1<sup>1)</sup>   1  | 2  –  1  1  2<sup>1)</sup>   1  | 2 of  1  –  3  –  1  | 2  1<sup>2)</sup>   –  3  1<sup>1)</sup>   1  | 2 of  1  1  1  1  1  | 2  1<sup>2)</sup>   1  1  2<sup>1)</sup>   1  |
 
-<sup>1)</sup> De lichtmatroos of één van de lichtmatrozen mag worden vervangen door een deksman. <sup>2)</sup> De stuurman moet in het bezit zijn van het overeenkomstig dit reglement vereisteschipperspatent. <sup>3)</sup> Eén van de lichtmatrozen moet ouder zijn dan 18 jaar. *) In dit artikel omvat het begrip ‘duwbak’ ook motorschepen zonder eigen in werking gestelde voortstuwingswerktuigen en sleepschepen. Bovendien is de volgende gelijkwaardigheid van toepassing: 1 duwbak = meerdere bakken met een totale lengte van niet meer dan 76,50 m en een totale breedte van niet meer dan 15 m.  
+<sup>1)</sup> De lichtmatroos of één van de lichtmatrozen mag worden vervangen door een deksman.  <sup>2) </sup>De stuurman moet in het bezit zijn van het overeenkomstig dit reglement vereisteschipperspatent.  <sup>3)</sup> Eén van de lichtmatrozen moet ouder zijn dan 18 jaar. *) In dit artikel omvat het begrip ‘duwbak’ ook motorschepen zonder eigen in werking gestelde voortstuwingswerktuigen en sleepschepen. Bovendien is de volgende gelijkwaardigheid van toepassing: 1 duwbak = meerdere bakken met een totale lengte van niet meer dan 76,50 m en een totale breedte van niet meer dan 15 m.  
 
 2. De voorgeschreven matrozen overeenkomstig de in het eerste lid genoemde tabel mogen door lichtmatrozen worden vervangen die de minimumleeftijd van 17 jaar hebben bereikt, zich ten minste in het derde leerjaar bevinden en een jaar vaartijd in de binnenvaart kunnen aantonen.  
 
@@ -528,7 +528,7 @@ Minimumbemanning van hechte samenstellen en andere hechte samenstellingen
 
 a) in de groep 2, exploitatiewijze A1, Standaard S2, en  
 
-b) in de groepen 3, 5 en 6 exploitatiewijze A1, Standaard S1,   voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatrozen, zoals bedoeld in het tweede lid.    
+b) in de groepen 3, 5 en 6 exploitatiewijze A1, Standaard S1,   voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatrozen, zoals bedoeld in het tweede lid.  
 
 ### Artikel  3.17  
 
@@ -539,11 +539,11 @@ b) in de groepen 3, 5 en 6 exploitatiewijze A1, Standaard S1,   voor de ononderb
 | Groep  | Bemanningsleden  | Aantal bemanningsleden bij de exploitatiewijze  A1, A2 of B en voor de uitrustingsstandaard S1 of S2  | A1  | A2  | B  | S1  |--- | S2  | S1  | S2  | S1  | S2  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | 1  | Toegestaan aantal passagiers tot en met 75  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1  –  –  1  –  –  | --- | --- | 2  –  –  1  –  –  | --- | 2  –  –  2  –  –  | 2  –  1  –  1  –  |
-| 2  | Toegestaan aantal passagiers van 76 tot en met 250  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  –  –  1  1  –  | 1  –  –  –  –  1  | 1  –  –  1  1  –  | 2  –  –  –  1 <sup>1)</sup>  1  | --- | 2  –  –  1  1 <sup>1)</sup>  1  | --- |
+| 2  | Toegestaan aantal passagiers van 76 tot en met 250  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  –  –  1  1  –  | 1  –  –  –  –  1  | 1  –  –  1  1  –  | 2  –  –  –  1<sup>1)</sup>   1  | --- | 2  –  –  1  1<sup>1)</sup>   1  | --- |
 | 3  | Toegestaan aantal passagiers van 251tot en met 600  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1 of  –  1  –  –  1  | 1  –  1  –  2  –  | 1  –  1  –  1  –  | 2  –  –  1  –  1  | 2  –  –  –  1  1  | 3  –  –  1  –  1  | 3  –  –  –  1  1  |
-| 4  | Toegestaan aantal passagiers van 601 tot en met 1000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1  1  –  1  1 <sup>1)</sup>  1  | --- | 1  1  –  –  2 <sup>1)</sup>  1  | 2  –  –  2  –  1  | 2  –  1  –  1  1  | 3  –  –  2  –  1  | 3  –  1  –  1  1  |
-| 5  | Toegestaan aantal passagiers van 1001 tot en met 2000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 2 of  –  –  3  –  1  | 2  –  –  2  2  1  | 2  –  1  1  1  1  | 2  –  –  3  1 <sup>1)</sup>  1  | 2  –  1  1  2 <sup>1)</sup>  1  | 3  –  –  3  1 <sup>1)</sup>  1  | 3  –  1  1  2 <sup>1)</sup>  1  |
-| 6  | Toegestaan aantal passagiers meer dan 2000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 2  –  –  3  1 <sup>1)</sup>  1  | --- | 2  –  1  1  2 <sup>1)</sup>  1  | 2  –  –  4  –  1  | 2  –  1  2  1  1  | 3  –  –  4  1 <sup>1)</sup>  1  | 3  –  1  2  2 <sup>1)</sup>  1  |
+| 4  | Toegestaan aantal passagiers van 601 tot en met 1000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 1  1  –  1  1<sup>1)</sup>   1  | --- | 1  1  –  –  2<sup>1)</sup>   1  | 2  –  –  2  –  1  | 2  –  1  –  1  1  | 3  –  –  2  –  1  | 3  –  1  –  1  1  |
+| 5  | Toegestaan aantal passagiers van 1001 tot en met 2000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 2 of  –  –  3  –  1  | 2  –  –  2  2  1  | 2  –  1  1  1  1  | 2  –  –  3  1<sup>1)</sup>   1  | 2  –  1  1  2<sup>1)</sup>   1  | 3  –  –  3  1<sup>1)</sup>   1  | 3  –  1  1  2<sup>1)</sup>   1  |
+| 6  | Toegestaan aantal passagiers meer dan 2000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver  | 2  –  –  3  1<sup>1)</sup>   1  | --- | 2  –  1  1  2<sup>1)</sup>   1  | 2  –  –  4  –  1  | 2  –  1  2  1  1  | 3  –  –  4  1<sup>1)</sup>   1  | 3  –  1  2  2<sup>1)</sup>   1  |
 
 <sup>1)</sup> De lichtmatroos of één van de lichtmatrozen mag worden vervangen door een deksman. 
 
@@ -551,10 +551,10 @@ b) in de groepen 3, 5 en 6 exploitatiewijze A1, Standaard S1,   voor de ononderb
 
 | Groep  | Bemanningsleden  | Aantal bemanningsleden bij de exploitatiewijze  A1, A2 of B en voor de uitrustingsstandaard S1 of S2  | A1  | A2  | B  | S1  | S2  | S1  | S2  | S1  | S2  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Toegestaan aantal passagiers van 501 tot en met 1000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver <sup>2)</sup>  | 1  1  1  1  -  2  | --- | 1  1  1  –  1  2  | 2  –  1  1  –  2  | 2  –  1  –  1  2  | 3  –  1  1  –  3  | 3  –  1  –  1  3  |
-| 2  | Toegestaan aantal passagiers van 1001 tot en met 2000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver <sup>2)</sup>  | 2 of  –  –  3  –  3  | 2  –  –  2  2  3  | 2  –  1  1  1  3  | 2  –  –  3  1 <sup>1)</sup>  3  | 2  –  1  1  2 <sup>1)</sup>  3  | 3  –  –  3  1 <sup>1)</sup>  3  | 3  –  1  1  2 <sup>1)</sup>  3  |
+| 1  | Toegestaan aantal passagiers van 501 tot en met 1000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver<sup>2)</sup>   | 1  1  1  1  -  2  | --- | 1  1  1  –  1  2  | 2  –  1  1  –  2  | 2  –  1  –  1  2  | 3  –  1  1  –  3  | 3  –  1  –  1  3  |
+| 2  | Toegestaan aantal passagiers van 1001 tot en met 2000  | schipper  stuurman  volmatroos  matroos  lichtmatroos  machinist of  matroos-motordrijver<sup>2)</sup>   | 2 of  –  –  3  –  3  | 2  –  –  2  2  3  | 2  –  1  1  1  3  | 2  –  –  3  1<sup>1)</sup>   3  | 2  –  1  1  2<sup>1)</sup>   3  | 3  –  –  3  1<sup>1)</sup>   3  | 3  –  1  1  2<sup>1)</sup>   3  |
 
-<sup>1)</sup> De lichtmatroos of één van de lichtmatrozen mag worden vervangen door een deksman. <sup>2)</sup> De Commissie van Deskundigen bepaalt of machinisten en/of matrozen-motordrijvers vereist zijn en vult dit onder nummer 52 van binnenvaartcertificaat in. 
+<sup>1)</sup> De lichtmatroos of één van de lichtmatrozen mag worden vervangen door een deksman.  <sup>2)</sup> De Commissie van Deskundigen bepaalt of machinisten en/of matrozen-motordrijvers vereist zijn en vult dit onder nummer 52 van binnenvaartcertificaat in. 
 
 3. De minimumbemanning van hotelschepen bestaat uit:  
 
@@ -576,7 +576,7 @@ b) in de groepen 3 en 5, exploitatiewijze A1, Standaard S1,   voor de ononderbro
 
 7. De voorgeschreven minimumbemanning overeenkomstig de in het tweede lid genoemde tabel (stoomschepen voor dagtochten), kan voor groep 2, exploitatiewijze A1, standaard S1, voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven. Deze bepalingen zijn niet van toepassing op de lichtmatrozen, zoals bedoeld in het vijfde lid.  
 
-8. De in het eerste lid voorgeschreven minimumbemanning (hotelschepen) kan voor groep 3, exploitatiewijze A1, standaard S1, voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven.    
+8. De in het eerste lid voorgeschreven minimumbemanning (hotelschepen) kan voor groep 3, exploitatiewijze A1, standaard S1, voor de ononderbroken duur van ten hoogste drie maanden per kalenderjaar met een lichtmatroos worden verminderd, als deze lichtmatroos gedurende deze tijd een schippersschool bezoekt. Opeenvolgende periodes met een gereduceerde bemanning moeten door een periode van minimaal één maand worden onderbroken. Het bezoek aan de schippersschool moet worden aangetoond met een verklaring van de schippersschool, die zich aan boord moet bevinden en waarin de tijden van het schoolbezoek zijn aangegeven.  
 
 ### Artikel  3.18  
 
@@ -594,7 +594,7 @@ a) moet in de exploitatiewijzen A1 en A2 de matroos, zoals voorgeschreven in het
 
 b) moeten de twee matrozen in de exploitatiewijze B, zoals voorgeschreven in het eerste lid, onderdeel b), door twee matrozen-motordrijver.   worden vervangen.  
 
-3. De verhoging van de vereiste bemanning wordt door de Commissie van Deskundigen onder nummer 47 van het certificaat van onderzoek ingeschreven.    
+3. De verhoging van de vereiste bemanning wordt door de Commissie van Deskundigen onder nummer 47 van het certificaat van onderzoek ingeschreven.  
 
 ### Artikel  3.19  
 
@@ -604,7 +604,7 @@ b) moeten de twee matrozen in de exploitatiewijze B, zoals voorgeschreven in het
 
 2. Ten aanzien van bunkerschepen, die slechts op korte riviergedeelten ingezet mogen worden, kan de Commissie van Deskundigen een minimumbemanning voorschrijven die afwijkt van artikel 3.15.  
 
-3. De Commissie van Deskundigen schrijft deze aantekeningen in onder nummer 48 van het certificaat van onderzoek.    
+3. De Commissie van Deskundigen schrijft deze aantekeningen in onder nummer 48 van het certificaat van onderzoek.  
 
 ### Artikel  3.20  
 
@@ -616,7 +616,7 @@ b) moeten de twee matrozen in de exploitatiewijze B, zoals voorgeschreven in het
 
 a) de naam van de patenthouders die zich aan boord bevinden, alsmede het begin en einde van hun diensttijd;  
 
-b) begin, onderbreking, voortzetting en einde van de vaart met vermelding van de volgende gegevens: datum, tijdstip en plaats met aanduiding van de kilometerraai.      
+b) begin, onderbreking, voortzetting en einde van de vaart met vermelding van de volgende gegevens: datum, tijdstip en plaats met aanduiding van de kilometerraai.    
 
 ### Artikel  3.21  
 
@@ -626,7 +626,7 @@ De bepalingen van hoofdstuk 3 zijn niet van toepassing op kanaalspitsen. Desalni
 
 – een schipper die houder is van een patent als bedoeld in dit reglement;  
 
-– een persoon die ten minste 16 jaar oud is en die in staat is te helpen bij het manoeuvreren met het schip.    
+– een persoon die ten minste 16 jaar oud is en die in staat is te helpen bij het manoeuvreren met het schip.  
 
 ### Artikel  3.22  
 
@@ -636,13 +636,13 @@ De bepalingen van hoofdstuk 3 zijn niet van toepassing op pleziervaartuigen. Des
 
 – een schipper die houder is van een patent als bedoeld in dit reglement;  
 
-– een persoon die in staat is te helpen bij het manoeuvreren met het schip.    
+– een persoon die in staat is te helpen bij het manoeuvreren met het schip.  
 
 ### Artikel  3.23  
 
 ####Uitzondering
 
-Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Nederlandse grens tijdens de vaart noch in de ene, noch in de andere richting wordt overschreden, worden volstaan met de toepassing van de voorschriften van de Nederlandse ‘ [Binnenvaartwet](../../../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) ’ (Staatsblad 2007, Nummer 498).  
+Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Nederlandse grens tijdens de vaart noch in de ene, noch in de andere richting wordt overschreden, worden volstaan met de toepassing van de voorschriften van de Nederlandse ‘[Binnenvaartwet](../../../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md)’ (Staatsblad 2007, Nummer 498).
 
 ### Hoofdstuk  4  
 
@@ -652,7 +652,7 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 
 ####Verwijzing naar de bepalingen van het ADN
 
-Aan boord van schepen die gevaarlijke stoffen vervoeren, moet een persoon houder zijn van een verklaring van deskundigen volgens het model van randnummer 8.6.2. van het ADN, overeenkomstig de randnummers 7.1.3.15 en 7.2.3.15 van het ADN.  
+Aan boord van schepen die gevaarlijke stoffen vervoeren, moet een persoon houder zijn van een verklaring van deskundigen volgens het model van randnummer 8.6.2. van het ADN, overeenkomstig de randnummers 7.1.3.15 en 7.2.3.15 van het ADN.
 
 ### Hoofdstuk  5  
 
@@ -664,7 +664,7 @@ Aan boord van schepen die gevaarlijke stoffen vervoeren, moet een persoon houder
 
 1. Aan boord van elk passagiersschip moet veiligheidspersoneel in voldoende aantal aanwezig zijn zolang er passagiers aan boord zijn.  
 
-2. De leden van het veiligheidspersoneel kunnen deel uitmaken van de bemanning of het boordpersoneel.    
+2. De leden van het veiligheidspersoneel kunnen deel uitmaken van de bemanning of het boordpersoneel.  
 
 ### Paragraaf  1  
 
@@ -678,7 +678,7 @@ De deskundige voor de passagiervaart moet ten minste 18 jaar zijn en de vereiste
 
 a) aan een door de bevoegde autoriteit erkende basisopleiding heeft deelgenomen, die ten minste aan de in artikel 5.03 gestelde eisen voldoet, en het examen met goed gevolg heeft afgelegd, en  
 
-b) regelmatig overeenkomstig artikel 5.04, tweede lid, wordt bijgeschoold.    
+b) regelmatig overeenkomstig artikel 5.04, tweede lid, wordt bijgeschoold.  
 
 ### Artikel  5.03  
 
@@ -710,7 +710,7 @@ b) praktische scholing over:
 
 * kennis betreffende de praktische omzetting van veiligheidsvoorschriften en het treffen van de noodzakelijke reddingsmaatregelen (bijvoorbeeld de evacuatie van passagiers uit een ruimte vol rook naar een veilige omgeving, de bestrijding van een beginnende brand, het gebruik van de waterdichte en brandwerende deuren);    
 
-c) een afsluitend examen.    
+c) een afsluitend examen.  
 
 ### Artikel  5.04  
 
@@ -720,7 +720,7 @@ c) een afsluitend examen.
 
 2. De opfriscursus moet met name betrekking hebben op typische gevaarsituaties (zoals bijvoorbeeld het voorkomen van paniek, brandbestrijding) en – voor zover mogelijk – informeren over nieuwe ontwikkelingen op het gebied van passagiersveiligheid. Tijdens de herhalingscursus moet door middel van oefeningen en tests worden vastgesteld dat de deelnemer actief aan de cursus heeft deelgenomen.  
 
-3. De deskundige voor de passagiersvaart moet telkens voor het einde van een termijn van 5 jaar na deelname aan de vorige herhalingscursus opnieuw aan een herhalingscursus deelnemen.    
+3. De deskundige voor de passagiersvaart moet telkens voor het einde van een termijn van 5 jaar na deelname aan de vorige herhalingscursus opnieuw aan een herhalingscursus deelnemen.  
 
 ### Artikel  5.05  
 
@@ -730,19 +730,19 @@ De eerste hulpverlener moet ten minste 17 jaar zijn en de vereiste bekwaamheid b
 
 a) aan een cursus voor eerste hulpverlener heeft deelgenomen, en  
 
-b) regelmatig overeenkomstig artikel 5.07 wordt bijgeschoold.    
+b) regelmatig overeenkomstig artikel 5.07 wordt bijgeschoold.  
 
 ### Artikel  5.06  
 
 ####Persluchtmaskerdrager
 
-De persluchtmaskerdrager moet ten minste 18 jaar zijn en de vereiste bekwaamheid bezitten, om de ademhalingsapparatuur zoals bedoeld in [artikel 15.12, tiende lid, onderdeel a, van het Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de bekwaamheid overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig artikel 5.07 is bijgeschoold.  
+De persluchtmaskerdrager moet ten minste 18 jaar zijn en de vereiste bekwaamheid bezitten, om de ademhalingsapparatuur zoals bedoeld in [artikel 15.12, tiende lid, onderdeel a, van het Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de bekwaamheid overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig artikel 5.07 is bijgeschoold.
 
 ### Artikel  5.07  
 
 ####Cursussen en bijscholing voor eerste hulpverleners en persluchtmaskerdragers
 
-De opleiding en bijscholing voor eerste hulpverleners en persluchtmaskerdragers moeten gevolgd worden overeenkomstig de voorschriften van één van de Rijnoeverstaten of België.  
+De opleiding en bijscholing voor eerste hulpverleners en persluchtmaskerdragers moeten gevolgd worden overeenkomstig de voorschriften van één van de Rijnoeverstaten of België.
 
 ### Artikel  5.08  
 
@@ -754,7 +754,7 @@ De opleiding en bijscholing voor eerste hulpverleners en persluchtmaskerdragers 
 
 3. Op vertoon van het cursusbewijs geeft de bevoegde autoriteit een verklaring af betreffende de bevoegdheid als persluchtmaskerdrager volgens het model van bijlage C3 of verlengt deze. Deze cursusbewijzen gelden als verklaring, als deze zijn afgegeven door een volgens het nationale recht van de Rijnoeverstaten of België erkend opleidingsinstituut en door de Centrale Commissie voor de Rijnvaart gepubliceerd zijn.  
 
-4. De verklaring van deskundige voor de passagiersvaart overeenkomstig bijlage C1, de verklaring van eerste hulpverlener overeenkomstig bijlage C2 en de verklaring van persluchtmaskerdrager overeenkomstige bijlage C3 kunnen in één enkel document overeenkomstig bijlage C4 worden samengevat.    
+4. De verklaring van deskundige voor de passagiersvaart overeenkomstig bijlage C1, de verklaring van eerste hulpverlener overeenkomstig bijlage C2 en de verklaring van persluchtmaskerdrager overeenkomstige bijlage C3 kunnen in één enkel document overeenkomstig bijlage C4 worden samengevat.  
 
 ### Paragraaf  2  
 
@@ -770,21 +770,21 @@ a) gedurende de vaart aan boord:
 
 aa) schepen voor dagtochten  
 
-| groep  | Aantal personenaan boord  | Deskundige voor de passagiersvaart  | Eerste hulpverleners  |
+| groep | Aantal personenaan boord | Deskundige voor de passagiersvaart | Eerste hulpverleners |
 |:---|:---|:---|:---|
-| 1  | tot 250  | 1  | 1  |
-| 2  | meer dan 250  | 1  | 2  |
+| 1 | tot 250 | 1 | 1 |
+| 2 | meer dan 250 | 1 | 2 |
 
 bb) hotelschepen  
 
-| groep  | Aantal bezette bedden  | Deskundigen voor de passagiersvaart  | Eerste hulpverleners  | Persluchtmaskerdragers  |
+| groep | Aantal bezette bedden | Deskundigen voor de passagiersvaart | Eerste hulpverleners | Persluchtmaskerdragers |
 |:---|:---|:---|:---|:---|
-| 1  | tot 100  | 1  | 1  | 2  |
-| 2  | meer dan 100  | 1  | 2  | 2  |
+| 1 | tot 100 | 1 | 1 | 2 |
+| 2 | meer dan 100 | 1 | 2 | 2 |
 
 b) permanent beschikbaar tijdens het stilliggen: het in bovenstaande tabel voorgeschreven veiligheidspersoneel in onderdeel a)voor groep 1 .   Voor hotelschepen met een lengte van 45 m of minder, waarvan de kabines voorzien zijn van een aantal vluchtmaskers dat overeenkomt met het aantal bedden en die voor het grijpen liggen, zijn persluchtmaskerdragers niet vereist.  
 
-2. Op schepen voor dagtochten met een toegelaten aantal personen van niet meer dan 75 en op stilliggende passagiersschepen mogen de functies van deskundigen voor de passagiersvaart en eerste hulpverlener door één en dezelfde persoon worden waargenomen. In alle andere gevallen mag de taak van deskundige voor de passagiersvaart, eerste hulpverlener en persluchtmaskerdrager niet door één en dezelfde persoon worden waargenomen.    
+2. Op schepen voor dagtochten met een toegelaten aantal personen van niet meer dan 75 en op stilliggende passagiersschepen mogen de functies van deskundigen voor de passagiersvaart en eerste hulpverlener door één en dezelfde persoon worden waargenomen. In alle andere gevallen mag de taak van deskundige voor de passagiersvaart, eerste hulpverlener en persluchtmaskerdrager niet door één en dezelfde persoon worden waargenomen.  
 
 ### Artikel  5.10  
 
@@ -806,13 +806,13 @@ a) de leden van de bemanning en het boordpersoneel die op grond van het veilighe
 
 b) de leden van de bemanning en het boordpersoneel regelmatig over de hun toebedeelde taken informeren;  
 
-c) de passagiers aan boord van hotelschepen bij het begin van de reis over de gedragsregels en de inhoud van het veiligheidsplan informeren.      
+c) de passagiers aan boord van hotelschepen bij het begin van de reis over de gedragsregels en de inhoud van het veiligheidsplan informeren.    
 
 ### Artikel  5.11  
 
-####Toezicht
+####Toezicht 
 
-Zolang zich passagiers aan boord bevinden, moet er ’s nachts ieder uur een controleronde gemaakt worden. Er moet op een adequate wijze kunnen worden gecontroleerd of deze rondes plaatsvinden.  
+Zolang zich passagiers aan boord bevinden, moet er ’s nachts ieder uur een controleronde gemaakt worden. Er moet op een adequate wijze kunnen worden gecontroleerd of deze rondes plaatsvinden.
 
 ### Deel  III  
 
@@ -826,7 +826,7 @@ Zolang zich passagiers aan boord bevinden, moet er ’s nachts ieder uur een con
 
 ####Toepasselijkheid
 
-Dit deel regelt de verplichting tot het hebben van een patent voor de scheepvaart op de Rijn voor de verschillende scheepstypes en -afmetingen en voor de te bevaren riviergedeelten, alsmede de voorwaarden voor het verkrijgen van een patent.  
+Dit deel regelt de verplichting tot het hebben van een patent voor de scheepvaart op de Rijn voor de verschillende scheepstypes en -afmetingen en voor de te bevaren riviergedeelten, alsmede de voorwaarden voor het verkrijgen van een patent.
 
 ### Artikel  6.02  
 
@@ -850,7 +850,7 @@ a) voor veerponten;
 
 b) voor schepen die slechts door spierkracht worden voortbewogen;  
 
-c) voor schepen met een lengte van minder dan 15 m die slechts door middel van zeilen worden voortbewogen of voorzien zijn van een aandrijvingsmotor met een vermogen van niet meer dan 3,68 kW.      
+c) voor schepen met een lengte van minder dan 15 m die slechts door middel van zeilen worden voortbewogen of voorzien zijn van een aandrijvingsmotor met een vermogen van niet meer dan 3,68 kW.    
 
 ### Artikel  6.03  
 
@@ -858,7 +858,7 @@ c) voor schepen met een lengte van minder dan 15 m die slechts door middel van z
 
 1. Degene die op de Rijn op radar wil varen moet, naast het voor het te bevaren riviergedeelte benodigde schipperspatent, houder zijn van een radarpatent dat in overeenstemming met dit reglement is afgegeven of van een ander door de CCR als gelijkwaardig erkendbewijs van bekwaamheid voor de radarvaart. De lijst van de als gelijkwaardig erkende ’bewijzen van bekwaamheid voor de radarvaart, alsmede de eventuele aanvullende voorwaarden voor deze erkenning zijn in bijlage D6 opgenomen.  
 
-2. De bevoegde autoriteit kan binnen het gebied waar hij bevoegd is, in afwijking van artikel 8.05, voor het voeren van een veerpont een een radarpatent afgeven, waarinrekening wordt gehouden met de bijzonderheden van het traject waarvoor het radarpatent moet gelden.    
+2. De bevoegde autoriteit kan binnen het gebied waar hij bevoegd is, in afwijking van artikel 8.05, voor het voeren van een veerpont een een radarpatent afgeven, waarinrekening wordt gehouden met de bijzonderheden van het traject waarvoor het radarpatent moet gelden.  
 
 ### Artikel  6.04  
 
@@ -876,7 +876,7 @@ c) het sportpatent voor het voeren van een pleziervaartuig met een lengte van mi
 
 d) het overheidspatent voor het voeren van overheidsschepen en van brandweerboten.   Met de bovengenoemde patenten is het eveneens geoorloofd een schip te voeren als bedoeld in artikel 6.02, vierde lid.  
 
-2. Een radarpatent voor de radarvaart.    
+2. Een radarpatent voor de radarvaart.  
 
 ### Hoofdstuk  7  
 
@@ -912,7 +912,7 @@ c) capabel is, dat wil zeggen, beschikt over de noodzakelijke beroepsmatige vaar
 
 a) de tijd van de opleiding, met een maximum van drie jaar, indien de gegadigde in het bezit is van een door de bevoegde autoriteit erkende verklaring betreffende een met goed gevolg afgesloten beroepsopleiding met praktijkgedeelten op het gebied van de binnenvaart,  
 
-b) de vaartijd, met een maximum van twee jaar, die op zee als lid van een dekbemanning is doorgebracht, waarbij 250 zeedagen als één jaar vaartijd gelden.      
+b) de vaartijd, met een maximum van twee jaar, die op zee als lid van een dekbemanning is doorgebracht, waarbij 250 zeedagen als één jaar vaartijd gelden.    
 
 ### Artikel  7.02  
 
@@ -936,11 +936,11 @@ c) capabel is, dat wil zeggen, beschikt over de noodzakelijke beroepsmatige vaar
 
 a) de tijd van de opleiding, met een maximum van drie jaar, indien de kandidaat in het bezit is van een door de bevoegde autoriteit erkende verklaring betreffende een met goed gevolg afgesloten beroepsopleiding met praktijkgedeelten op het gebied van de binnenvaart,  
 
-b) de aangetoonde vaartijd, met een maximum van twee jaar, die op zee als lid van een dekbemanning is doorgebracht, waarbij 250 zeedagen als één jaar vaartijd gelden.      
+b) de aangetoonde vaartijd, met een maximum van twee jaar, die op zee als lid van een dekbemanning is doorgebracht, waarbij 250 zeedagen als één jaar vaartijd gelden.    
 
 ### Artikel  7.03  
 
-####Sportpatent
+####Sportpatent 
 
 1. Degene die het sportpatent wil verkrijgen, moet ten minste 18 jaar oud zijn.  
 
@@ -950,7 +950,7 @@ a) lichamelijk en geestelijk geschikt is om een schip te voeren. De lichamelijke
 
 b) geen strafbare feiten in de scheepvaart heeft begaan,en op grond van zijn vroeger gedrag verwacht mag worden dat hij een schip veilig zal voeren;  
 
-c) bekwaam is, dat wil zeggen, beschikt over de noodzakelijke beroepsmatige vaardigheden en kennis, ook in nautisch opzicht, alsmede over voldoende kennis van de reglementen en de vaarweg. Aan de voorwaarden wordt geacht te zijn voldaan wanneer de kandidaat het daartoe ingestelde examen met goed gevolg heeft afgelegd.      
+c) bekwaam is, dat wil zeggen, beschikt over de noodzakelijke beroepsmatige vaardigheden en kennis, ook in nautisch opzicht, alsmede over voldoende kennis van de reglementen en de vaarweg. Aan de voorwaarden wordt geacht te zijn voldaan wanneer de kandidaat het daartoe ingestelde examen met goed gevolg heeft afgelegd.    
 
 ### Artikel  7.04  
 
@@ -968,7 +968,7 @@ d) bekwaam zijn, dat wil zeggen, beschikken over de noodzakelijke beroepsmatige 
 
 e) ten minste drie jaar praktische ervaring in de binnenvaart hebben opgedaan, waarvan ten minste drie maanden gedurende het laatste jaar.    
 
-2. De autoriteit waaronder de kandidaat ressorteert, moet een verklaring hebben afgegeven waarin wordt bevestigd dat de kandidaat voldoet aan de in het eerste lid, onderdelen b) en e) en inde artikelen 7.05 en 7.06 genoemde vereisten..    
+2. De autoriteit waaronder de kandidaat ressorteert, moet een verklaring hebben afgegeven waarin wordt bevestigd dat de kandidaat voldoet aan de in het eerste lid, onderdelen b) en e) en inde artikelen 7.05 en 7.06 genoemde vereisten..  
 
 ### Subparagraaf  2  
 
@@ -978,7 +978,7 @@ e) ten minste drie jaar praktische ervaring in de binnenvaart hebben opgedaan, w
 
 ####Bedoeld riviergedeelte
 
-Ongeacht het soort patent is specifieke kennis van riviergedeelten bovendien verplicht tussen de sluizen te Iffezheim (km 335,92) en het Spijksche Veer (km 857,40).  
+Ongeacht het soort patent is specifieke kennis van riviergedeelten bovendien verplicht tussen de sluizen te Iffezheim (km 335,92) en het Spijksche Veer (km 857,40).
 
 ### Artikel  7.06  
 
@@ -992,7 +992,7 @@ b) Degene die een sportpatent wil verkrijgen, moet zijn reizen aan boord van een
 
 c) Degene die een overheidspatent wil verkrijgen, moet zijn reizen aan boord van een schip met een lengte van 15 m of meer hebben gemaakt; de reizen komen slechts in aanmerking, als de persoon ten minste 15 jaar oud is.    
 
-2. De kandidaat moet bovendien met goed gevolg een examen hebben afgelegd, dat een beschrijving van de vaarweg in de op- en de afvaart, een beschrijving van de afmetingen van de vaarweg en vragen moet omvatten, waarmee kan worden vastgesteld dat hij in staat is de specifieke voorschriften van het Politiereglement voor het riviergedeelte dat ligt tussen de sluizen van Iffezheim en het Spijksche Veer kan toepassen (bijlage D7).    
+2. De kandidaat moet bovendien met goed gevolg een examen hebben afgelegd, dat een beschrijving van de vaarweg in de op- en de afvaart, een beschrijving van de afmetingen van de vaarweg en vragen moet omvatten, waarmee kan worden vastgesteld dat hij in staat is de specifieke voorschriften van het Politiereglement voor het riviergedeelte dat ligt tussen de sluizen van Iffezheim en het Spijksche Veer kan toepassen (bijlage D7).  
 
 ### Artikel  7.07  
 
@@ -1000,7 +1000,7 @@ c) Degene die een overheidspatent wil verkrijgen, moet zijn reizen aan boord van
 
 1. De kandidaat voor een patent voor een riviergedeelte dat het in artikel 7.05 gedefinieerde riviergedeelte geheel of gedeeltelijk omvat, en de houder van een als gelijkwaardig erkend vaarbevoegdheidsbewijs, die het in artikel 7.05 gedefinieerde riviergedeelte geheel of gedeeltelijk willen bevaren, moeten de vereiste kennis van het riviergedeelte kunnen aantonen.  
 
-2. Als bewijs van de kennis van riviergedeelten wordt op de patentkaart het riviergedeelte aangegeven waarvoor deze patentkaart geldig is. Voor vaarbevoegdheidsbewijzen die erkend zijn als gelijkwaardig aan het grote patent, wordt de kennis van het riviergedeelte door middel van een bewijs voor riviergedeelten overeenkomstig bijlage D3 aangetoond.    
+2. Als bewijs van de kennis van riviergedeelten wordt op de patentkaart het riviergedeelte aangegeven waarvoor deze patentkaart geldig is. Voor vaarbevoegdheidsbewijzen die erkend zijn als gelijkwaardig aan het grote patent, wordt de kennis van het riviergedeelte door middel van een bewijs voor riviergedeelten overeenkomstig bijlage D3 aangetoond.  
 
 ### Paragraaf  2  
 
@@ -1012,7 +1012,7 @@ c) Degene die een overheidspatent wil verkrijgen, moet zijn reizen aan boord van
 
 1. De bevoegde autoriteit benoemt één of meer examencommissies voor het afnemen van de examens. Iedere examencommissie bestaat uit een voorzitter die vertegenwoordiger is van de overheid van één van de Rijnoeverstaten of België, en ten minste twee examinatoren die voldoende ter zake kundig zijn.  
 
-2. De examencommissie voor het Rijnpatent moet zo zijn samengesteld, dat ten minste één examinator houder is van het patent van het type dat wordt aangevraagd dan wel van het grote patent en deze, of een ander lid van de examencommissie, houder is van het patent voor het aangevraagde riviergedeelte.    
+2. De examencommissie voor het Rijnpatent moet zo zijn samengesteld, dat ten minste één examinator houder is van het patent van het type dat wordt aangevraagd dan wel van het grote patent en deze, of een ander lid van de examencommissie, houder is van het patent voor het aangevraagde riviergedeelte.  
 
 ### Artikel  7.09  
 
@@ -1064,7 +1064,7 @@ a) een recente pasfoto;
 
 b) een kopie van de identiteitskaart of het paspoort;  
 
-c) een kopie van het geldige Rijnpatent.      
+c) een kopie van het geldige Rijnpatent.    
 
 ### Artikel  7.10  
 
@@ -1084,7 +1084,7 @@ b) een kopie van de identiteitskaart of het paspoort;
 
 c) een kopie van het door de CCR, overeenkomstig artikel 6.02, eerste lid, als gelijkwaardig erkend geldig vaarbevoegdheidsbewijs  
 
-d) het bewijs van de afgelegde reizen.      
+d) het bewijs van de afgelegde reizen.    
 
 ### Artikel  7.11  
 
@@ -1096,11 +1096,11 @@ d) het bewijs van de afgelegde reizen.
 
 3. De houder van een Rijnpatent die een ander type Rijnpatent wil verkrijgen, wordt tot het examen toegelaten, als het aanvraagdossier volledig is overeenkomstig het bepaalde in artikel 7.09, eerste en zesde lid.  
 
-4. Degene die een bewijs voor kennis van een riviergedeelte wil verkrijgen of uitbreiden, wordt tot het examen toegelaten, als het aanvraagdossier volledig is, overeenkomstig het bepaalde in artikel 7.10.    
+4. Degene die een bewijs voor kennis van een riviergedeelte wil verkrijgen of uitbreiden, wordt tot het examen toegelaten, als het aanvraagdossier volledig is, overeenkomstig het bepaalde in artikel 7.10.  
 
 ### Artikel  7.12  
 
-####Examen
+####Examen 
 
 1. De kandidaat moet tijdens het examen voor de examencommissie aantonen dat hij: 
 
@@ -1110,7 +1110,7 @@ b) beschikt over de vereiste kennis van het riviergedeelte, indien krachtens art
 
 2. Voor het verkrijgen van het grote patent of het kleine patent is een theoretisch examen, en voor het verkrijgen van het sportpatent of het overheidspatent een theoretisch en een praktisch examen vereist.  
 
-3. Indien het examen niet wordt gehaald, wordende redenenaan de kandidaat meegedeeld. De examencommissie kan aan het opnieuw deelnemen aan een examen vereisten of voorwaarden verbinden dan wel bepaalde vrijstellingen verlenen.    
+3. Indien het examen niet wordt gehaald, wordende redenenaan de kandidaat meegedeeld. De examencommissie kan aan het opnieuw deelnemen aan een examen vereisten of voorwaarden verbinden dan wel bepaalde vrijstellingen verlenen.  
 
 ### Artikel  7.13  
 
@@ -1124,7 +1124,7 @@ b) beschikt over de vereiste kennis van het riviergedeelte, indien krachtens art
 
 4. De houder van een overheidspatent verkrijgt op aanvraag een sportpatent voor hetzelfde riviergedeelte zonder daarvoor examen te doen.  
 
-5. Voor het verkrijgen van een ander patent als bedoeld in artikel 6.04 of van een uitbreiding tot een ander riviergedeelte kan de houder van een Rijnpatent van dat deel van het examen worden vrijgesteld dat betrekking heeft op de kennis of de vaardigheden, die reeds voor het verkrijgen van zijn huidige patent moesten worden aangetoond.    
+5. Voor het verkrijgen van een ander patent als bedoeld in artikel 6.04 of van een uitbreiding tot een ander riviergedeelte kan de houder van een Rijnpatent van dat deel van het examen worden vrijgesteld dat betrekking heeft op de kennis of de vaardigheden, die reeds voor het verkrijgen van zijn huidige patent moesten worden aangetoond.  
 
 ### Artikel  7.14  
 
@@ -1138,19 +1138,19 @@ b) beschikt over de vereiste kennis van het riviergedeelte, indien krachtens art
 
 4. In geval van een uitbreiding kan een bevoegde autoriteit het in het derde lid bedoelde voorlopige Rijnpatent ook afgeven ter overbrugging van de tijd gelegen tussen het slagen voor het examen en de afgifte van het nieuwe Rijnpatent. In verband met de afgifte van een nieuw Rijnpatent volgens het model van de bijlage D1 wordt de autoriteit die het patent heeft afgegeven, hiervan in kennis gesteld.  
 
-5. De autoriteit die het patent heeft afgegeven, geeft op verzoek een vervangend patent af indien het Rijnpatent onbruikbaar is geworden of verloren is gegaan. Dit patent wordt als zodanig gewaarmerkt. De houder moet bij de bevoegde autoriteit melding maken van het verlies. Een onbruikbaar geworden of een teruggevonden patent moet bij de autoriteit die het heeft afgegeven worden ingeleverd of worden overgelegd om ongeldig te worden gemaakt.    
+5. De autoriteit die het patent heeft afgegeven, geeft op verzoek een vervangend patent af indien het Rijnpatent onbruikbaar is geworden of verloren is gegaan. Dit patent wordt als zodanig gewaarmerkt. De houder moet bij de bevoegde autoriteit melding maken van het verlies. Een onbruikbaar geworden of een teruggevonden patent moet bij de autoriteit die het heeft afgegeven worden ingeleverd of worden overgelegd om ongeldig te worden gemaakt.  
 
 ### Artikel  7.15  
 
 ####Afgifte van een bewijs voor kennis van riviergedeelten
 
-De bevoegde autoriteit geeft aan degene die het examen voor de kennis van riviergedeelten zoals voorzien in artikel 7.06, tweede lid, met goed gevolg heeft afgelegd een bewijs voor kennis van riviergedeelten af volgens het model van de bijlage D3.  
+De bevoegde autoriteit geeft aan degene die het examen voor de kennis van riviergedeelten zoals voorzien in artikel 7.06, tweede lid, met goed gevolg heeft afgelegd een bewijs voor kennis van riviergedeelten af volgens het model van de bijlage D3.
 
 ### Artikel  7.16  
 
-####Kosten
+####Kosten 
 
-Het examen, de afgifte, de uitbreiding, de verlenging en het verstrekken van het Rijnpatent of een bewijs voor kennis van riviergedeelten, evenals de afgifte van een duplicaat en het omruilen worden gedaan tegen een redelijke vergoeding van de kosten door de aanvrager. De hoogte van de kosten wordt door de bevoegde autoriteit vastgesteld. Deze kan vanaf het tijdstip van de aanvaarding van de aanvraag gehele of gedeeltelijke betaling eisen.  
+Het examen, de afgifte, de uitbreiding, de verlenging en het verstrekken van het Rijnpatent of een bewijs voor kennis van riviergedeelten, evenals de afgifte van een duplicaat en het omruilen worden gedaan tegen een redelijke vergoeding van de kosten door de aanvrager. De hoogte van de kosten wordt door de bevoegde autoriteit vastgesteld. Deze kan vanaf het tijdstip van de aanvaarding van de aanvraag gehele of gedeeltelijke betaling eisen.
 
 ### Paragraaf  3  
 
@@ -1164,7 +1164,7 @@ Het examen, de afgifte, de uitbreiding, de verlenging en het verstrekken van het
 
 2. Hij moet zijn bewijs van lichamelijke en geestelijke geschiktheid voorleggen aan de autoriteit die het patent heeft afgegeven. Hij kan het bewijs ook aan een andere bevoegde autoriteit voorleggen. Deze autoriteit geeft de overgelegde stukken door aande autoriteit die het patent heeft afgegeven en kan in de plaats van deze autoriteit een tijdelijke Rijnpatent afgeven.  
 
-3. Voor de houders van een als gelijkwaardig erkende verklaring, moet de medische verklaring worden overgelegd aan een autoriteit die voor de afgifte van een Rijnpatent gerechtigd is of aan de autoriteit die de als gelijkwaardig erkende verklaring heeft afgegeven.    
+3. Voor de houders van een als gelijkwaardig erkende verklaring, moet de medische verklaring worden overgelegd aan een autoriteit die voor de afgifte van een Rijnpatent gerechtigd is of aan de autoriteit die de als gelijkwaardig erkende verklaring heeft afgegeven.  
 
 ### Artikel  7.18  
 
@@ -1182,7 +1182,7 @@ c) een bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in bijlag
 
 3. Blijkt uit de medische verklaring slechts een beperkte lichamelijke en geestelijke geschiktheid, dantekent de bevoegde autoriteit de aanvullende voorwaarden voor de geldigheid van het patent aan op de vernieuwde patentkaart, op het bewijs van lichamelijke en geestelijke geschiktheid of op de medische verklaring die is afgegeven overeenkomstig bijlage B2.  
 
-4. Wordt geen nieuwe patentkaart afgegeven, dan is het Rijnpatent slechts geldig, als de houder van het patent in het bezit is van een bewijs van lichamelijke en geestelijke geschiktheid bedoeld in bijlage B3 of van een door de bevoegde autoriteit gewaarmerkte medische verklaring overeenkomstig bijlage B2.    
+4. Wordt geen nieuwe patentkaart afgegeven, dan is het Rijnpatent slechts geldig, als de houder van het patent in het bezit is van een bewijs van lichamelijke en geestelijke geschiktheid bedoeld in bijlage B3 of van een door de bevoegde autoriteit gewaarmerkte medische verklaring overeenkomstig bijlage B2.  
 
 ### Artikel  7.19  
 
@@ -1192,7 +1192,7 @@ c) een bewijs van lichamelijke en geestelijke geschiktheid als bedoeld in bijlag
 
 2. Blijkt uit de medische verklaring slechts een beperkte lichamelijke en geestelijke geschiktheid, dan vult de bevoegde autoriteit op het bewijs van lichamelijke en geestelijke geschiktheid of op het vernieuwde vaarbevoegdheidsbewijs de aanvullende voorwaarden voor de geldigheid van het als gelijkwaardig erkende vaarbevoegdheidsbewijs op de Rijn in.  
 
-3. Als er geen nieuw vaarbevoegdheidsbewijs wordt afgegeven, dan is het als gelijkwaardig erkende vaarbevoegdheidsbewijs alleengeldig, als dit vergezeld gaat van een verklaring van lichamelijke en geestelijke geschiktheid overeenkomstig het model van bijlage B3.    
+3. Als er geen nieuw vaarbevoegdheidsbewijs wordt afgegeven, dan is het als gelijkwaardig erkende vaarbevoegdheidsbewijs alleengeldig, als dit vergezeld gaat van een verklaring van lichamelijke en geestelijke geschiktheid overeenkomstig het model van bijlage B3.  
 
 ### Paragraaf  4  
 
@@ -1214,7 +1214,7 @@ a) informeert ze de autoriteit die het patent heeft afgegeven. Deze kan verlange
 
 b) kan ze de geldigheid van het patent opschorten, voor een periode die de datum van het besluit vande autoriteit die het Rijnpatent heeft afgegeven op basis van de nieuwe medische verklaring niet mag overschrijden. In dit geval inormeert zij de CCR en de autoriteit die het patent heeft afgegeven over haar beslissing.    
 
-3. In het geval zoals bedoeld in het eerste lid, onderdeel a), moet het Rijnpatent bij de bevoegde autoriteit in bewaring worden gegeven.    
+3. In het geval zoals bedoeld in het eerste lid, onderdeel a), moet het Rijnpatent bij de bevoegde autoriteit in bewaring worden gegeven.  
 
 ### Artikel  7.21  
 
@@ -1224,7 +1224,7 @@ Het door de CCR als gelijkwaardig erkend vaarbevoegdheidsbewijs verliest van amt
 
 a) wanneer het bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 niet wordt getoond, of niet binnen drie maanden na de in artikel 3.04, onderdeel a), bedoelde verlengingstermijn wordt vernieuwd, of  
 
-b) wanneer in de gevallen waarin de CCR overeenkomstig artikel 7.19, eerste lid, de afgifte van een nieuw vaarbevoegdheidsbewijs als geldig bewijs voor de vernieuwing van de lichamelijke en geestelijke geschiktheid erkent, de geldigheidsdatum van het als gelijkwaardig erkende vaarbevoegdheidsbewijs sedert ten minste drie maanden verstreken is.    
+b) wanneer in de gevallen waarin de CCR overeenkomstig artikel 7.19, eerste lid, de afgifte van een nieuw vaarbevoegdheidsbewijs als geldig bewijs voor de vernieuwing van de lichamelijke en geestelijke geschiktheid erkent, de geldigheidsdatum van het als gelijkwaardig erkende vaarbevoegdheidsbewijs sedert ten minste drie maanden verstreken is.  
 
 ### Artikel  7.22  
 
@@ -1244,7 +1244,7 @@ b) de kandidaat voor een nieuw patent, om tot een nieuw examen te worden toegela
 
 5. Na ontvangst van de aanvraag voor het verkrijgen van een nieuw patent kan de bevoegde autoriteit de aanvrager geheel of gedeeltelijk van het examen vrijstellen.  
 
-6. De autoriteit die het patent intrekt, deelt dit aan de Centrale Commissie voor de Rijnvaart mee. Indien een bevoegde autoriteit feiten vaststelt die de intrekking van een patent zouden kunnen rechtvaardigen, stelt zij de autoriteit die het patent heeft afgegeven hiervan in kennis.    
+6. De autoriteit die het patent intrekt, deelt dit aan de Centrale Commissie voor de Rijnvaart mee. Indien een bevoegde autoriteit feiten vaststelt die de intrekking van een patent zouden kunnen rechtvaardigen, stelt zij de autoriteit die het patent heeft afgegeven hiervan in kennis.  
 
 ### Artikel  7.23  
 
@@ -1258,7 +1258,7 @@ a) bij bewezen lichamelijke of geestelijke ongeschiktheid, of
 
 b) bij veelvuldig overtreden van belangrijke veiligheids- of gedragsvoorschriften, in het bijzonder bij het herhaald voeren van een schip terwijl hij een alcoholconcentratie in het bloed heeft die het in het [Rijnvaartpolitiereglement](../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) vastgelegde promillage overschrijdt.    
 
-3. Met uitzondering van noodgevallen, wordt het besluit genomen na de houder van het desbetreffende vaarbevoegdheidsbewijs in het kader van een procedure op tegenspraak te hebben gehoord; de autoriteit die het vaarbevoegdheidsbewijs heeft afgegeven en de CCR worden van het verhoor en de door de bevoegde autoriteit genomen beslissing in kennis gesteld.    
+3. Met uitzondering van noodgevallen, wordt het besluit genomen na de houder van het desbetreffende vaarbevoegdheidsbewijs in het kader van een procedure op tegenspraak te hebben gehoord; de autoriteit die het vaarbevoegdheidsbewijs heeft afgegeven en de CCR worden van het verhoor en de door de bevoegde autoriteit genomen beslissing in kennis gesteld.  
 
 ### Artikel  7.24  
 
@@ -1270,7 +1270,7 @@ b) bij veelvuldig overtreden van belangrijke veiligheids- of gedragsvoorschrifte
 
 3. De autoriteit die het patent heeft afgegeven moet onverwijld, nadat zij van het besluit van de tijdelijke invordering kennis heeft genomen, een beslissing nemen over de opschorting van de geldigheid of de intrekking van het patent. Indien een rechtbank bevoegd is, beschikt de rechter overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België. Totdat een besluit als bedoeld in eerste of tweede zin is genomen, geldt het besluit van de tijdelijke invordering als een besluit in de zin van artikel 7.20, eerste lid, onderdeel a).  
 
-4. De tijdelijke invordering van het Rijnpatent moet worden beëindigd en het patent moet aan de houder worden teruggegeven, wanneer de oorzaak daarvan is komen te vervallen of wanneer er niet totopschorting of intrekking van het patent wordt besloten.    
+4. De tijdelijke invordering van het Rijnpatent moet worden beëindigd en het patent moet aan de houder worden teruggegeven, wanneer de oorzaak daarvan is komen te vervallen of wanneer er niet totopschorting of intrekking van het patent wordt besloten.  
 
 ### Artikel  7.25  
 
@@ -1280,7 +1280,7 @@ b) bij veelvuldig overtreden van belangrijke veiligheids- of gedragsvoorschrifte
 
 2. Een tijdelijk ingevorderd vaarbevoegdheidsbewijs moet onverwijld aan de autoriteit die dit heeft afgegeven, worden overgelegd.  
 
-3. De autoriteit die het vaarbevoegdheidsbewijs heeft afgegeven, voert de noodzakelijke controles uit en informeert de bevoegde autoriteit die het vaarbevoegdheidsbewijs heeft ingevorderd en de CCR onverwijld over de geldigheid van het document.    
+3. De autoriteit die het vaarbevoegdheidsbewijs heeft afgegeven, voert de noodzakelijke controles uit en informeert de bevoegde autoriteit die het vaarbevoegdheidsbewijs heeft ingevorderd en de CCR onverwijld over de geldigheid van het document.  
 
 ### Hoofdstuk  8  
 
@@ -1296,7 +1296,7 @@ a) ten minste 18 jaar oud,
 
 b) houder van een schipperspatent en  
 
-c) houder van een marifoonbedieningscertificaat zijn.    
+c) houder van een marifoonbedieningscertificaat zijn.  
 
 ### Artikel  8.02  
 
@@ -1318,7 +1318,7 @@ b) een kopie van de identiteitskaart of het paspoort;
 
 c) een kopie van het schipperspatent;  
 
-d) een kopie van het marifoonbedieningscertificaat.      
+d) een kopie van het marifoonbedieningscertificaat.    
 
 ### Artikel  8.03  
 
@@ -1326,11 +1326,11 @@ d) een kopie van het marifoonbedieningscertificaat.
 
 1. De bevoegde autoriteit benoemt één of meer examencommissies voor het afnemen van de examens. Iedere examencommissie bestaat uit een voorzitter die vertegenwoordiger is van de bevoegde autoriteit, en ten minste twee examinatoren die voldoende ter zake kundig zijn.  
 
-2. De examinator die toeziet op het verloop van het praktijkgedeelte van het examen moet houder van het radarpatent zijn.    
+2. De examinator die toeziet op het verloop van het praktijkgedeelte van het examen moet houder van het radarpatent zijn.  
 
 ### Artikel  8.04  
 
-####Examen
+####Examen 
 
 1. De kandidaat moet tijdens het examen overeenkomstig het examenprogramma zoals vermeld in bijlage D8 (theoretisch en praktijkgedeelte), ten overstaan van een examencommissie zoals bedoeld in artikel 8.03 aantonen dat hij beschikt over voldoende kennis om een schip te voeren met behulp van radar.  
 
@@ -1340,7 +1340,7 @@ d) een kopie van het marifoonbedieningscertificaat.
 
 4. De kandidaat die voor het theoretische of praktische onderdeel van het examen is gezakt, kan voor dit onderdeel binnen een door de bevoegde autoriteit vastgestelde termijn, die niet korter dan twee maanden mag zijn, bij dezelfde examencommissie een herexamen doen. Indien de kandidaat niet binnen een jaar voor het herexamen is geslaagd, moet hij opnieuw alle onderdelen van het examen afleggen.  
 
-5. De examencommissie deelt aan iedere kandidaat persoonlijk de uitslag van het examen mee. Op verzoek van de kandidaat moet de examencommissie mondeling inlichtingen verstrekken over de door hem gemaakte fouten en kan zij hem tevens toestaan zijn examendocumenten in te zien.    
+5. De examencommissie deelt aan iedere kandidaat persoonlijk de uitslag van het examen mee. Op verzoek van de kandidaat moet de examencommissie mondeling inlichtingen verstrekken over de door hem gemaakte fouten en kan zij hem tevens toestaan zijn examendocumenten in te zien.  
 
 ### Artikel  8.05  
 
@@ -1352,13 +1352,13 @@ d) een kopie van het marifoonbedieningscertificaat.
 
 3. Op de radarpatenten, bedoeld in artikel 6.03, tweede lid, wordt aangetekend: ‘Alleen geldig voor het voeren van een veerpont tussen ........ en ..........’.  
 
-4. Is een radarpatent onbruikbaar geworden of verloren gegaan,verstrekt de autoriteit die het heeft afgegeven op aanvraag een duplicaat, dat als zodanig is gewaarmerkt. De houder moet het verlies bij de bevoegde autoriteit melden. Een onbruikbaar geworden of een teruggevonden patent moet bij de autoriteit die het heeft afgegeven, worden ingeleverd of worden overgelegd om ongeldig te worden gemaakt.    
+4. Is een radarpatent onbruikbaar geworden of verloren gegaan,verstrekt de autoriteit die het heeft afgegeven op aanvraag een duplicaat, dat als zodanig is gewaarmerkt. De houder moet het verlies bij de bevoegde autoriteit melden. Een onbruikbaar geworden of een teruggevonden patent moet bij de autoriteit die het heeft afgegeven, worden ingeleverd of worden overgelegd om ongeldig te worden gemaakt.  
 
 ### Artikel  8.06  
 
 ####Intrekking van het radarpatent
 
-Het radarpatent kan door de bevoegde autoriteit die het radarpatent heeft afgegeven, worden ingetrokken, wanneer de houder bij het voeren van een schip met behulp van radar een voor de scheepvaart gevaar veroorzakende onbekwaamheid aan de dag heeft gelegd. Het radarpatent kan tijdelijk dan wel permanent worden ingetrokken.  
+Het radarpatent kan door de bevoegde autoriteit die het radarpatent heeft afgegeven, worden ingetrokken, wanneer de houder bij het voeren van een schip met behulp van radar een voor de scheepvaart gevaar veroorzakende onbekwaamheid aan de dag heeft gelegd. Het radarpatent kan tijdelijk dan wel permanent worden ingetrokken.
 
 ### Artikel  8.07  
 
@@ -1366,13 +1366,13 @@ Het radarpatent kan door de bevoegde autoriteit die het radarpatent heeft afgege
 
 1. De bevoegde autoriteit of de bevoegde rechter kan de schipper die houder van een als gelijkwaardig erkend radargetuigschrift is, een tijdelijk of definitief verbod voor het voeren van een schip met radar op de Rijn opleggen, wanneer de houder bij het voeren van een schip een voor de scheepvaart gevaarzettende onbekwaamheid heeft begaan.  
 
-2. Met uitzondering van noodgevallen, wordt het besluit genomen na de houder van het desbetreffende radargetuigschrift in het kader van een procedure op tegenspraak te hebben gehoord; de autoriteit die het radargetuigschrift heeft afgegeven en de CCR worden van het horen en de door de bevoegde autoriteit genomen beslissing in kennis gesteld.    
+2. Met uitzondering van noodgevallen, wordt het besluit genomen na de houder van het desbetreffende radargetuigschrift in het kader van een procedure op tegenspraak te hebben gehoord; de autoriteit die het radargetuigschrift heeft afgegeven en de CCR worden van het horen en de door de bevoegde autoriteit genomen beslissing in kennis gesteld.  
 
 ### Artikel  8.08  
 
-####Kosten
+####Kosten 
 
-Het examen, de afgifte, de verstrekking van een duplicaat en het omruilen van het radarpatent geschieden tegen een redelijke vergoeding van de kosten door de aanvrager. De hoogte van de kosten wordt door de bevoegde autoriteit vastgesteld. Deze kan verlangen dat de kosten in hun geheel of ten dele bij de aanvaarding van de aanvraag worden voldaan.  
+Het examen, de afgifte, de verstrekking van een duplicaat en het omruilen van het radarpatent geschieden tegen een redelijke vergoeding van de kosten door de aanvrager. De hoogte van de kosten wordt door de bevoegde autoriteit vastgesteld. Deze kan verlangen dat de kosten in hun geheel of ten dele bij de aanvaarding van de aanvraag worden voldaan.
 
 ### Hoofdstuk  9  
 
@@ -1382,7 +1382,7 @@ Het examen, de afgifte, de verstrekking van een duplicaat en het omruilen van he
 
 ####Geldigheid van vaartijdenboeken en dienstboekjes
 
-Vaartijdenboeken en dienstboekjes, afgegeven overeenkomstig de voorschriften die van toepassing zijn tot aan de inwerkingtreding van dit reglement dan wel waarvan de geldigheid krachtens de genoemde voorschriften verlengd werd, blijven geldig met inachtneming van die voorschriften tot de eerste vernieuwing.  
+Vaartijdenboeken en dienstboekjes, afgegeven overeenkomstig de voorschriften die van toepassing zijn tot aan de inwerkingtreding van dit reglement dan wel waarvan de geldigheid krachtens de genoemde voorschriften verlengd werd, blijven geldig met inachtneming van die voorschriften tot de eerste vernieuwing.
 
 ### Artikel  9.02  
 
@@ -1394,7 +1394,7 @@ Vaartijdenboeken en dienstboekjes, afgegeven overeenkomstig de voorschriften die
 
 3. De bepalingen van de artikelen 7.20 en 7.22 zijn van toepassing op de patenten als bedoeld in het eerste lid.  
 
-4. Radarpatenten en radardiploma’s afgegeven overeenkomstig de voorschriften die van toepassing zijn tot aan de inwerkingtreding van dit reglement, blijven geldig met inachtneming van die voorschriften. Zij kunnen worden vervangen door radarpatenten conform dit reglement.    
+4. Radarpatenten en radardiploma’s afgegeven overeenkomstig de voorschriften die van toepassing zijn tot aan de inwerkingtreding van dit reglement, blijven geldig met inachtneming van die voorschriften. Zij kunnen worden vervangen door radarpatenten conform dit reglement.  
 
 ### Artikel  9.03  
 
@@ -1411,19 +1411,19 @@ Vaartijdenboeken en dienstboekjes, afgegeven overeenkomstig de voorschriften die
 | Brandweerbotenpatent  | →  | Overheidspatent  |
 | Sportpatent  | →  | Sportpatent  |
 
-2. Een geldig patent kan volgens de tabel in het eerste lid worden omgewisseld voor het gelijkwaardige patent voor hetzelfde riviergedeelte.    
+2. Een geldig patent kan volgens de tabel in het eerste lid worden omgewisseld voor het gelijkwaardige patent voor hetzelfde riviergedeelte.  
 
 ### Artikel  9.04  
 
 ####In beschouwing nemen van de vaartijd
 
-De vaartijd en de reizen die vóór de inwerkingtreding van dit reglement zijn gemaakt, worden overeenkomstig de vroeger hiervoor geldende voorschriften in beschouwing genomen.  
+De vaartijd en de reizen die vóór de inwerkingtreding van dit reglement zijn gemaakt, worden overeenkomstig de vroeger hiervoor geldende voorschriften in beschouwing genomen.
 
 ### Bijlage  A1  
 
 ####Vaartijdenboek (Model B-00734)
 
-Volgnummer ...... Dit vaartijdenboek omvat 200 bladzijden, genummerd van 1 tot en met 200. De aantekeningen in dit boek dienen met inkt en duidelijk leesbaar (bijv. in drukletters) te worden aangebracht. Naam van het schip: ...... Uniek Europees scheepsidentificatienummer (ENI) of officieel scheepsnummer: ...... 
+Volgnummer ...... Dit vaartijdenboek omvat 200 bladzijden, genummerd van 1 tot en met 200. De aantekeningen in dit boek dienen met inkt en duidelijk leesbaar (bijv. in drukletters) te worden aangebracht. Naam van het schip: ...... Uniek Europees scheepsidentificatienummer (ENI) of officieel scheepsnummer: ......
 
 ####Aanwijzingen voor het bijhouden van het vaartijdenboek
 
@@ -1446,9 +1446,9 @@ Op iedere bladzijde dient de schipper het volgende aan te tekenen:
 
 – de exploitatiewijze (aantekeningen in verband met een wijziging van exploitatiewijze dienen steeds op een nieuwe bladzijde te worden aangebracht) het jaar  
 
-– zodra het schip de vaart begint: 1 <sup>e</sup> kolom – de datum (dag en maand) 2 <sup>e</sup> kolom – de tijd (uur en minuten) 3 <sup>e</sup> kolom – de plaats waar de vaart begint 4 <sup>e</sup> kolom – de kilometerraai van die plaats  
+– zodra het schip de vaart begint: 1<sup>e</sup> kolom – de datum (dag en maand) 2<sup>e </sup>kolom – de tijd (uur en minuten) 3<sup>e </sup>kolom – de plaats waar de vaart begint 4<sup>e </sup>kolom – de kilometerraai van die plaats  
 
-– zodra het schip de vaart onderbreekt: 1 <sup>e</sup> kolom – de datum (dag en maand) indien deze afwijkt van de begindatum waarop het schip de reis begonnen is 5 <sup>e</sup> kolom – de tijd (uur en minuten) 6 <sup>e</sup> kolom – de plaats waar het schip stilligt 7 <sup>e</sup> kolom – de kilometerraai van die plaats  
+– zodra het schip de vaart onderbreekt: 1<sup>e</sup> kolom – de datum (dag en maand) indien deze afwijkt van de begindatum waarop het schip de reis begonnen is 5<sup>e</sup> kolom – de tijd (uur en minuten) 6<sup>e</sup> kolom – de plaats waar het schip stilligt 7<sup>e</sup> kolom – de kilometerraai van die plaats  
 
 – zodra het schip de vaart voortzet: dezelfde aantekeningen als bij het begin van de vaart  
 
@@ -1458,11 +1458,11 @@ Op iedere bladzijde dient de schipper het volgende aan te tekenen:
 
 – in de kolommen 9 t/m 11 moeten het begin en het einde van de rusttijd van elk bemanningslid worden aangetekend. Deze aantekeningen dienen uiterlijk om 8 uur de volgende ochtend in het vaartijdenboek te worden aangebracht. Ingeval de bemanningsleden hun rust nemen volgens een regelmatig rooster, kan per reis met één schema worden volstaan  
 
-– in de kolommen 12 en 13 moet bij wisseling van de bemanning telkens het tijdstip van aan boord komen of van boord gaan worden vermeld.      
+– in de kolommen 12 en 13 moet bij wisseling van de bemanning telkens het tijdstip van aan boord komen of van boord gaan worden vermeld.     
 
 ####Sancties
 
-Overtreding van de bemanningsvoorschriften van het Reglement betreffende het Scheepvaartpersoneel op de Rijn is strafbaar. Hetzelfde geldt voor het niet bijhouden, dan wel het niet volgens de voorschriften bijhouden van het vaartijdenboek. (Gevolgd door de van kracht zijnde tekst van deel II van het Reglement betreffende het Scheepvaartpersoneel op de Rijn in het Frans, Duits en Nederlands.)  
+Overtreding van de bemanningsvoorschriften van het Reglement betreffende het Scheepvaartpersoneel op de Rijn is strafbaar. Hetzelfde geldt voor het niet bijhouden, dan wel het niet volgens de voorschriften bijhouden van het vaartijdenboek. (Gevolgd door de van kracht zijnde tekst van deel II van het Reglement betreffende het Scheepvaartpersoneel op de Rijn in het Frans, Duits en Nederlands.) 
 
 ####TEMPS DE REPOS – RUHEZEITEN – RUSTTIJDEN
 
@@ -1490,15 +1490,15 @@ Mode d'exploitation Betriebsform ............................. Exploitatiewijze
 
 ####Dienstboekje (Model A-00735)
 
-*Livret de service/Schifferdienstbuch/ Dienstboekje délivré par/ausgestellt durch/afgegeven door:*  *Titulaire/Inhaber* (im ganzen Buch wird sowohl die weibliche und die männliche Form gemeint)/ *Houder* (in het gehele dienstboekje wordt zowel de vrouwelijke als de mannelijke vorm bedoeld)   ![249080](http://wetten.overheid.nl/Illustration/249080)
+*Livret de service/Schifferdienstbuch/ Dienstboekje délivré par/ausgestellt durch/afgegeven door:*   *Titulaire/Inhaber* (im ganzen Buch wird sowohl die weibliche und die männliche Form gemeint)/*Houder* (in het gehele dienstboekje wordt zowel de vrouwelijke als de mannelijke vorm bedoeld) ![249035](http://wetten.overheid.nl/Illustration/249035)
+![249076](http://wetten.overheid.nl/Illustration/249076)
+![249077](http://wetten.overheid.nl/Illustration/249077)
+![249078](http://wetten.overheid.nl/Illustration/249078)
+![249079](http://wetten.overheid.nl/Illustration/249079)
 ![249080](http://wetten.overheid.nl/Illustration/249080)
-![249080](http://wetten.overheid.nl/Illustration/249080)
-![249080](http://wetten.overheid.nl/Illustration/249080)
-![249080](http://wetten.overheid.nl/Illustration/249080)
-![249080](http://wetten.overheid.nl/Illustration/249080)
-![249080](http://wetten.overheid.nl/Illustration/249080)
-![249080](http://wetten.overheid.nl/Illustration/249080)
-![249080](http://wetten.overheid.nl/Illustration/249080)
+![249081](http://wetten.overheid.nl/Illustration/249081)
+![249082](http://wetten.overheid.nl/Illustration/249082)
+![249083](http://wetten.overheid.nl/Illustration/249083)
 
 ####Indications et directives relatives à la tenue du Livret de service
 
@@ -1518,7 +1518,7 @@ Le titulaire du Livret de service est la personne au nom de laquelle le Livret d
 Il doit porter dans le Livret de service les inscriptions relatives à sa propre personne, il doit y inscrire régulièrement les temps de navigation et les secteurs parcourus et il doit conserver le Livret de service en lieu sûr jusqu'à la fin du service ou jusqu'au terme du contrat de travail ou de tout autre arrangement. Conformément au Règlement relatif au personnel de la navigation sur le Rhin, un timonier qui a porté sur la page 10 du livret de service la mention ‘n'a pas l'intention d'acquérir une patente de batelier’ suivie de sa signature est exonéré de l'obligation d'inscrire les temps de navigation et secteurs parcourus. A la demande du titulaire, le Livret de service doit être remis à ce dernier sans délai et à tout moment. Des précisions relatives à la manière de tenir un Livret de service figurent dans les instructions ci-dessous. 
 ### * *Quelles sont les obligations de l'autorité compétente?* * 
 
-Elle est dans l'obligation, mais aussi en droit, de contrôler les Livrets de service présentés et d'y apposer le visa de contrôle correspondant à ses conclusions. A cet effet, elle est en droit de demander également la présentation de livres de bord, complets ou par extraits, ou d'autres justificatifs appropriés.  
+Elle est dans l'obligation, mais aussi en droit, de contrôler les Livrets de service présentés et d'y apposer le visa de contrôle correspondant à ses conclusions. A cet effet, elle est en droit de demander également la présentation de livres de bord, complets ou par extraits, ou d'autres justificatifs appropriés. 
 
 ### B)  
 
@@ -1556,7 +1556,7 @@ Elle est dans l'obligation, mais aussi en droit, de contrôler les Livrets de se
 
 3.5 La correspondance avec les inscriptions portées dans le livre de bord (voir point 1.3) est avérée si les indications, pour l'intégralité du voyage du jour et lieu de départ au jour et lieu d'arrivée concordent et si à la rubrique ‘Journées d'interruption’ (D) est inscrit le total des jours d'interruption du voyage (par exemple chargement, déchargement, attente) figurant dans le livre de bord.  
 
-3.6 Sur la page ‘Temps de navigation et secteurs parcourus’, la ligne ‘Inscription de l'autorité : total des jours de navigation pris en compte sur cette page’ est complétée par l'autorité compétente.      
+3.6 Sur la page ‘Temps de navigation et secteurs parcourus’, la ligne ‘Inscription de l'autorité : total des jours de navigation pris en compte sur cette page’ est complétée par l'autorité compétente.     
 
 ####Schifferdienstbuch – Hinweise und Anweisungen zur Führung
 
@@ -1576,7 +1576,7 @@ Inhaber des Schifferdienstbuches ist die Person, auf welche das Schifferdienstbu
 Er hat im Schifferdienstbuch die Eintragungen über seine eigene Person und regelmäßig Eintragungen über Fahrzeiten und Streckenfahrten vorzunehmen und es bis zur Beendigung des Dienst-, Arbeits- oder sonstigen Verhältnisses sicher aufzubewahren. Soweit ein Steuermann gem. der Verordnung über das Schiffspersonal auf dem Rhein auf Seite 10 des Schifferdienstbuches den Vermerk: ‘Beabsichtigt nicht den Erwerb eines Schifferpatentes’ eingetragen und ordnungsgemäß unterzeichnet hat, entfällt die Verpflichtung Fahrzeiten und Streckenfahrten einzutragen. Auf Wunsch des Inhabers ist diesem das Schifferdienstbuch jederzeit und unverzüglich auszuhändigen. Einzelheiten über die Art und Weise der Führung des Schifferdienstbuches ergeben sich aus den nachfolgenden Anweisungen. 
 ### * *Welche Pflichten hat die zuständige Behörde?* * 
 
-Sie hat die Pflicht, aber auch das Recht, vorgelegte Dienstbücher zu prüfen und je nach Ergebnis mit dem entsprechenden Kontrollvermerk zu versehen. In diesem Zusammenhang darf sie auch die Vorlage von Bordbüchern vollständig oder auszugsweise oder von anderen geeigneten Belegen verlangen.  
+Sie hat die Pflicht, aber auch das Recht, vorgelegte Dienstbücher zu prüfen und je nach Ergebnis mit dem entsprechenden Kontrollvermerk zu versehen. In diesem Zusammenhang darf sie auch die Vorlage von Bordbüchern vollständig oder auszugsweise oder von anderen geeigneten Belegen verlangen. 
 
 ### B)  
 
@@ -1614,7 +1614,7 @@ Sie hat die Pflicht, aber auch das Recht, vorgelegte Dienstbücher zu prüfen un
 
 3.5 Die Übereinstimmung mit dem Bordbuch (s. Nr. 1.3) ist gegeben, wenn für die gesamte Reise der Abgangsort mit Abfahrtsdatum, der Zielort mit Ankunftsdatum übereinstimmen und in der Spalte ‘Unterbrechungstage’ (D) vom Bordbuch die in einer Summe zusammengefasste Anzahl der Tage, in der die gesamte Reise unterbrochen worden ist, übertragen wird (z.B. für Laden, Löschen, Wartezeit).  
 
-3.6 Auf der Seite ‘Fahrzeiten und Streckenfahrten’ wird die Zeile ‘Behördeneintrag: Gesamtanzahl der anrechenbaren Fahrtage auf dieser Seite ‘ durch die zuständige Behörde ausgefüllt.      
+3.6 Auf der Seite ‘Fahrzeiten und Streckenfahrten’ wird die Zeile ‘Behördeneintrag: Gesamtanzahl der anrechenbaren Fahrtage auf dieser Seite ‘ durch die zuständige Behörde ausgefüllt.     
 
 ####Aanwijzingen en instructies voor het bijhouden van het dienstboekje
 
@@ -1634,7 +1634,7 @@ Houder van een dienstboekje is degene op wiens naam het dienstboekje is afgegeve
 Hij moet in het dienstboekje de vereiste gegevens over hem zelf inschrijven en regelmatig aantekeningen over de vaartijden en de bevaren riviergedeelten maken en het dienstboekje tot het einde van het dienstverband, arbeidscontract of andere arbeidsverhoudingen op een veilige plaats bewaren. Als een stuurman overeenkomstig het Reglement betreffende het Scheepvaartpersoneel op de Rijn op bladzijde 10 van het dienstboekje de aantekening: ‘Is niet voornemens een schipperspatent te verkrijgen’ heeft aangebracht en rechtsgeldig heeft ondertekend, is hij niet langer verplicht de vaartijden en bevaren riviergedeelten aan te tekenen. Op verzoek van de houder moet het dienstboekje te allen tijde en onverwijld aan hem worden overhandigd. Meer details met betrekking tot de wijze waarop het dienstboekje moet worden bijgehouden, vindt u in de hierna volgende instructies. 
 ### * *Welke plichten heeft de bevoegde autoriteit?* * 
 
-Deze heeft de plicht, maar ook het recht, het overgelegde dienstboekje te controleren en afhankelijk van het resultaat te voorzien van een waarmerk ter controle. Hiertoe heeft de bevoegde instantie het recht te verlangen dat haar ook vaartijdenboeken, volledig of een uitreksel daarvan, dan wel andere relevante bewijsstukken worden overgelegd.  
+Deze heeft de plicht, maar ook het recht, het overgelegde dienstboekje te controleren en afhankelijk van het resultaat te voorzien van een waarmerk ter controle. Hiertoe heeft de bevoegde instantie het recht te verlangen dat haar ook vaartijdenboeken, volledig of een uitreksel daarvan, dan wel andere relevante bewijsstukken worden overgelegd. 
 
 ### B)  
 
@@ -1672,7 +1672,7 @@ Deze heeft de plicht, maar ook het recht, het overgelegde dienstboekje te contro
 
 3.5 Van overeenstemming met de aantekeningen in het vaartijdenboek (zie punt 1.3) is sprake indien voor de gehele reis, de datum en plaats van vertrek en de datum en plaats van aankomst overeenstemmen, en indien in de kolom ‘Dagen van onderbreking’ (D) het totaal aantal dagen dat de gehele reis onderbroken is geweest, is ingevuld (bijv. voor laden, lossen, wachttijd).  
 
-3.6 Op de pagina ‘Vaartijden en scheepsreizen’ wordt de regel ‘Totaal van het aantal toe te rekenen vaardagen op deze bladzijde’ door de bevoegde autoriteit ingevuld.      
+3.6 Op de pagina ‘Vaartijden en scheepsreizen’ wordt de regel ‘Totaal van het aantal toe te rekenen vaardagen op deze bladzijde’ door de bevoegde autoriteit ingevuld.     
 
 ### Bijlage  A3  
 
@@ -1740,7 +1740,7 @@ Bij de installatie van tachografen aan boord moet aan de volgende voorwaarden wo
 
 – datum waarop de werking is getest.   De verklaring is vijf jaar geldig. De verklaring dient om aan te tonen dat het om een goedgekeurd apparaat gaat, dat door een erkend bedrijf is geïnstalleerd en op de goede werking ervan is onderzocht.  
 
-7. Het erkende bedrijf moet de schipper instrueren omtrent het gebruik van het apparaat en een gebruiksaanwijzing verstrekken die aan boord bewaard moet worden. Dit moet in de verklaring met betrekking tot de installatie worden vermeld.    
+7. Het erkende bedrijf moet de schipper instrueren omtrent het gebruik van het apparaat en een gebruiksaanwijzing verstrekken die aan boord bewaard moet worden. Dit moet in de verklaring met betrekking tot de installatie worden vermeld.   
 
 ### Bijlage  A4  
 
@@ -1768,7 +1768,7 @@ Deze verklaring maakt deel uit van het vaartijdenboek van het schip waarop het b
 
 2. De verklaring moet aan de schipper van het schip waarop de nieuwe reis wordt aangevangen, worden overgelegd.  
 
-3. De gegevens in de verklaring moeten met de gegevens in het dienstboekje en het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden, overeenstemmen.   
+3. De gegevens in de verklaring moeten met de gegevens in het dienstboekje en het vaartijdenboek van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden, overeenstemmen.  
 
 ### Bijlage  A5  
 
@@ -1814,7 +1814,7 @@ Deze verklaring maakt deel uit van het vaartijdenboek van het schip waarop het b
 |  *Slowaakse Republiek*   | --- | --- | 2010-II-3  |
 | Státna plavebná správa (ŠPS)  Vedúci odboru plavebnej bezpečnosti  | Prístavná 10, 821 09 Bratislava 2  | Tel: + 421 2 333 00217  Fax: +421 2 555 67 604  +421 2 335 23 913  sekretariat @sps.sk   |
 
-Op de pagina van de website van de CCR die gewijd is aan informatie over de toepassing van de Administratieve Overeenstemming over de Wederzijdse Erkenning van Dienstboekjes, zal het model van de erkende dienstboekjes toegankelijk zijn. 
+Op de pagina van de website van de CCR die gewijd is aan informatie over de toepassing van de Administratieve Overeenstemming over de Wederzijdse Erkenning van Dienstboekjes, zal het model van de erkende dienstboekjes toegankelijk zijn.
 
 ### Bijlage  B1  
 
@@ -1846,13 +1846,13 @@ e. TMC (resultaat ten minste ‘second degree’),
 
 f. Holmer-Wright B (Resultaat ten hoogte 8 fouten bij ‘small’).    
 
-6. Motiliteit: Geen dubbelzien. Bij eenogigheid, normale beweeglijkheid van het goed functionerende oog.    
+6. Motiliteit: Geen dubbelzien. Bij eenogigheid, normale beweeglijkheid van het goed functionerende oog.   
 
 ### II  
 
 ####Gehoorvermogen:
 
-Het gehoor is als voldoende te beschouwen, indien het gemiddeld gehoorverlies van beide oren bij de frequenties 500, 1000, 2000 en 3000 Hz de waarde van 40 dB(A) niet overschrijdt. Indien de waarde van 40 dB wordt overschreden, is het gehoorvermogen toch als voldoende aan te merken, als de conversatiespraak met een hoortoestel op 2 m met elk oor afzonderlijk duidelijk wordt verstaan.  
+Het gehoor is als voldoende te beschouwen, indien het gemiddeld gehoorverlies van beide oren bij de frequenties 500, 1000, 2000 en 3000 Hz de waarde van 40 dB(A) niet overschrijdt. Indien de waarde van 40 dB wordt overschreden, is het gehoorvermogen toch als voldoende aan te merken, als de conversatiespraak met een hoortoestel op 2 m met elk oor afzonderlijk duidelijk wordt verstaan. 
 
 ### III  
 
@@ -1878,13 +1878,13 @@ Indien de navolgende ziekten of lichamelijke gebreken voorkomen, kan dit aanleid
 
 9. aandoeningen of gevolgen na een ongeval die leiden tot een aanzienlijke bewegingsbeperking, verlies of sterke vermindering van de kracht in een der ledematen die voor de uit te oefenen arbeid van belang zijn;  
 
-10. chronisch alcoholisme, alsmede verslaving aan verdovende middelen of andere vormen van verslaving.    
+10. chronisch alcoholisme, alsmede verslaving aan verdovende middelen of andere vormen van verslaving.   
 
 ### Bijlage  B2  
 
 ####Medische verklaring met betrekking tot de lichamelijke en geestelijke geschiktheid in de Rijnvaart (Model)
 
-![249085](http://wetten.overheid.nl/Illustration/249085)
+![249084](http://wetten.overheid.nl/Illustration/249084)
 ![249085](http://wetten.overheid.nl/Illustration/249085)
 
 ### Bijlage  B3  
@@ -1917,20 +1917,20 @@ Indien de navolgende ziekten of lichamelijke gebreken voorkomen, kan dit aanleid
 
 (105 X 147 mm – Achtergrond groen)  
 
+![249091](http://wetten.overheid.nl/Illustration/249091)
+![249092](http://wetten.overheid.nl/Illustration/249092)
+![249093](http://wetten.overheid.nl/Illustration/249093)
+![249094](http://wetten.overheid.nl/Illustration/249094)
+![249095](http://wetten.overheid.nl/Illustration/249095)
+![249096](http://wetten.overheid.nl/Illustration/249096)
+![249097](http://wetten.overheid.nl/Illustration/249097)
 ![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
-![249098](http://wetten.overheid.nl/Illustration/249098)
+![249099](http://wetten.overheid.nl/Illustration/249099)
+![249100](http://wetten.overheid.nl/Illustration/249100)
 
 ### Bijlage  D1  
 
-####Rijnpatent (Model)
+####Rijnpatent (Model) 
 
 (85 mm x 54 mm – Grondkleur blauw)  
 
@@ -1976,13 +1976,13 @@ Indien de navolgende ziekten of lichamelijke gebreken voorkomen, kan dit aanleid
 | B  | Certificat de Conduite/ Vaarbewijs A  | – voor de geldigheid van dit vaarbewijs op het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  bij het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet ten minste 21 jaar oud zijn,  – de houder moet vanaf het bereiken van de leeftijd van 50. jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door de Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd.  | S.P.F. Mobilité et Transports/F.O.D. Mobiliteit en vervoer  Direction Générale Transport Terrestre/ Directoraat- Generaal Vervoer Te Land  City Atrium  Rue du Progrès/ Vooruitgangsstraat 56  B-1210 Brussel  | Model  |
 | B  | Certificat de conduite /Vaarbewijs B  |
 
-*Duits model:*  Schipperspatent voor de binnenvaart A en B (85 mm x 54 mm – basiskleur blauw; overeenkomstig ISO-Norm 7810.)   ![249109](http://wetten.overheid.nl/Illustration/249109)
-*Nederlands Model:*  Groot vaarbewijs A en B voor de binnenvaart (85 mm x 54 mm – achtergrond blauw)   ![249109](http://wetten.overheid.nl/Illustration/249109)
-Groot vaarbewijs I en II:   ![249109](http://wetten.overheid.nl/Illustration/249109)
-Groot vaarbewijs I <sup> 1  Dit document kan ook door de ‘Minister van Verkeer en Waterstaat, namens deze, De Directeur-Generaal Scheepvaart en Maritieme Zaken’ worden afgegeven.  </sup>   ![249109](http://wetten.overheid.nl/Illustration/249109)
-Groot vaarbewijs II <sup> 2  Dit document kan ook door de ‘Minister van Verkeer en Waterstaat, namens deze, De Directeur-Generaal Scheepvaart en Maritieme Zaken’ worden afgegeven.  </sup>   ![249109](http://wetten.overheid.nl/Illustration/249109)
-*Belgisch Model:*  Het materiaal van de kaart moet voldoen aan ISO-norm 7810.   ![249109](http://wetten.overheid.nl/Illustration/249109)
-Het materiaal van de kaart moet voldoen aan ISO-norm 7810.   ![249109](http://wetten.overheid.nl/Illustration/249109)
+*Duits model:*  Schipperspatent voor de binnenvaart A en B (85 mm x 54 mm – basiskleur blauw; overeenkomstig ISO-Norm 7810.) ![249108](http://wetten.overheid.nl/Illustration/249108)
+*Nederlands Model:*  Groot vaarbewijs A en B voor de binnenvaart (85 mm x 54 mm – achtergrond blauw) ![249109](http://wetten.overheid.nl/Illustration/249109)
+Groot vaarbewijs I en II: ![249111](http://wetten.overheid.nl/Illustration/249111)
+Groot vaarbewijs I<sup> 1 Dit document kan ook door de ‘Minister van Verkeer en Waterstaat, namens deze, De Directeur-Generaal Scheepvaart en Maritieme Zaken’ worden afgegeven. </sup>  ![249112](http://wetten.overheid.nl/Illustration/249112)
+Groot vaarbewijs II<sup> 2 Dit document kan ook door de ‘Minister van Verkeer en Waterstaat, namens deze, De Directeur-Generaal Scheepvaart en Maritieme Zaken’ worden afgegeven. </sup>  ![249118](http://wetten.overheid.nl/Illustration/249118)
+*Belgisch Model:*  Het materiaal van de kaart moet voldoen aan ISO-norm 7810. ![249120](http://wetten.overheid.nl/Illustration/249120)
+Het materiaal van de kaart moet voldoen aan ISO-norm 7810. ![249121](http://wetten.overheid.nl/Illustration/249121)
 
 ### II  
 
@@ -2002,12 +2002,13 @@ Het materiaal van de kaart moet voldoen aan ISO-norm 7810.   ![249109](http://we
 | --- | --- | --- | Inland Navigation Office in Gizycko  Urząd Zeglugi Śródlądowej w Giżycku  ul. Łuczańska 5  11-500 Giżycko  urzad@giz.uzs.gov.pl  Tel. +48 87 428-56-51  Fax +48 87 428-56-51  Inland Navigation Office in Kedzierzyn-Kozle  Urząd Zeglugi Śródlądowej w Kędzierzynie-Koźlu  ul. Chełmońskiego 1  47-205 Kędzierzyn-Koźle  | --- |
 | --- | Vaarbewijs type B  | --- | urzad@k-k.uzs.gov.pl  Tel. +48 77 472-23-60  Fax +48 77 472-23-61  Inland Navigation Office in Krakow  Urząd Zeglugi Śródlądowej w Krakowie  ul. Skawińska 31/3  31-066 Kraków  urzad@kr.uzs.gov.pl  Tel. +48 12 430-53-97  Fax +48 12 430-53-97  Inland Navigation Office in Szczecin  Urząd Zeglugi Śródlądowej w Szczecinie  Plac Batorego 4  70-207 Szczecin  urzad@szn.uzs.gov.pl  Tel. +48 91 434-02-79  Fax +48 91 434-01-29  | Model  |
 | --- | --- | --- | Inland Navigation Office in Warszawa  Urząd Zeglugi Śródlądowej w Warszawie  ul. Dubois 9  00-182 Warszawa urzad@waw.uzs.gov.pl  Tel. +48 22 635-93-30  Fax +48 22 635-93-30  Inland Navigation Office in Wroclaw  Urząd Zeglugi Śródlądowej we Wrocławiu  ul. Kleczkowska 52  50-227 Wrocław  urzad@wroc.uzs.gov.pl  Tel. +48 71 329-18-93  Fax +48 71 329-18-93  | --- |
-| SL  | Kapiteinsvaarbewijs klasse I   *Preukaz odbornej spôsobilosti vodca plávajúceho stoja I. triedy kategórie A*   | – voor de geldigheid van dit Slowaakse vaarbewijs op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd.  | Státna plavebná správa (ŠPS)  Vedúci odboru plavebnej bezpečnosti  Prístavná 10, 821 09 Bratislava 2  Tél. + 421 2 333 00217  Fax +421 2 555 67 604  +421 2 335 23 913  sekretariat @sps.sk  | Model  |
-| AT  | Kapiteinspatent   *Kapitänspatent*   | – voor de geldigheid van dit Oostenrijkse vaarbewijs op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd.  | --- | Model  |
+|SK |Kapiteinsvaarbewijs klasse I  *Preukaz odbornej spôsobilosti Lodný*  *kapitán I. triedy kategórie B* |– voor de geldigheid van dit Slowaakse vaarbewijs op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd, – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd. |Státna plavebná správa (ŠPS) Vedúci odboru plavebnej bezpečnosti Prístavná 10, 821 09 Bratislava 2 Tél. + 421 2 333 00217 Fax +421 2 555 67 604 +421 2 335 23 913 sekretariat @sps.sk |Model |
+|AT |Kapiteinspatent *Kapitänspatent* |– voor de geldigheid van dit Oostenrijkse vaarbewijs op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd, – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd. | --- |Model |
+|BG  |Binnenvaartpatent   *Schifferpatent für die Binnenschiffahrt*   |– op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd, - de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd.  |Bulgarian Maritime Administration (BMA)  Ruse 7000  20 Pristanistna St.  stw_rs@marad.bg  Tél : +359 82 815 815  Fax : +359 82 824 009  |Model |
 
 ####Model van de Roemeense vaarbevoedheidsbewijzen van de klassen A en B
 
-Vaarbevoegdheidsbewijs klasse A   ![249123](http://wetten.overheid.nl/Illustration/249123)
+Vaarbevoegdheidsbewijs klasse A ![249122](http://wetten.overheid.nl/Illustration/249122)
 
 1. Naam van de houder  
 
@@ -2029,7 +2030,7 @@ Vaarbevoegdheidsbewijs klasse A   ![249123](http://wetten.overheid.nl/Illustrati
 
 10. Vervaldatum  
 
-11. Aantekeningen, beperkingen   Vaarbevoegdheidsbewijs klasse B   ![249123](http://wetten.overheid.nl/Illustration/249123)
+11. Aantekeningen, beperkingen  Vaarbevoegdheidsbewijs klasse B ![249123](http://wetten.overheid.nl/Illustration/249123)
 
 1. Naam van de houder  
 
@@ -2051,35 +2052,41 @@ Vaarbevoegdheidsbewijs klasse A   ![249123](http://wetten.overheid.nl/Illustrati
 
 10. Vervaldatum  
 
-11. Aantekeningen, beperkingen    
+11. Aantekeningen, beperkingen   
 
 ####Model van het Tsjechische vaarbewijs
 
-Vaarbewijs Kapitein Klasse I   ![249124](http://wetten.overheid.nl/Illustration/249124)
+Vaarbewijs Kapitein Klasse I ![249124](http://wetten.overheid.nl/Illustration/249124)
 
 ####Hongaarse modellen vaarbewijs klasse A en klasse B
 
-Vaarbewijs klasse A (585 mm × 54 mm – Achtergrond lichtblauw) (De fysieke kenmerken van de kaart moeten voldoen aan de ISO-norm 7810.)   ![249126](http://wetten.overheid.nl/Illustration/249126)
-Vaarbewijs Klasse B (585 mm × 54 mm – Achtergrond lichtblauw (De fysieke kenmerken van de kaart moeten voldoen aan de ISO-norm 7810.)   ![249126](http://wetten.overheid.nl/Illustration/249126)
+Vaarbewijs klasse A (585 mm × 54 mm – Achtergrond lichtblauw) (De fysieke kenmerken van de kaart moeten voldoen aan de ISO-norm 7810.) ![249125](http://wetten.overheid.nl/Illustration/249125)
+Vaarbewijs Klasse B (585 mm × 54 mm – Achtergrond lichtblauw (De fysieke kenmerken van de kaart moeten voldoen aan de ISO-norm 7810.) ![249126](http://wetten.overheid.nl/Illustration/249126)
 
-####Model van de Poolse vaarbevoedheidsbewijzen van de klassen A en B
+####Model van de Poolse vaarbevoedheidsbewijzen van de klassen A en B 
 
-Vaarbewijs type A   ![249128](http://wetten.overheid.nl/Illustration/249128)
-Vaarbewijs type B   ![249128](http://wetten.overheid.nl/Illustration/249128)
+Vaarbewijs type A ![249127](http://wetten.overheid.nl/Illustration/249127)
+Vaarbewijs type B ![249128](http://wetten.overheid.nl/Illustration/249128)
 
-####Kapiteinsvaarbewijs klasse I
+####Model van het Slowaakse vaarbewijs
 
-###Preukaz odbornej spôsobilosti vodca plávajúceho stoja I. triedy kategórie A
+###Kapiteinsvaarbewijs Klasse I
 
-(Voorzijde)   ![249369](http://wetten.overheid.nl/Illustration/249369)
-(Achterzijde)   ![249369](http://wetten.overheid.nl/Illustration/249369)
+###Preukaz odbornej spôsobilosti Lodný kapitán I. triedy kategórie B
+
+(voorzijde)![251906](http://wetten.overheid.nl/Illustration/251906)
+*1. Foto voorzijde*(achterzijde)![251907](http://wetten.overheid.nl/Illustration/251907)
+*2. Foto achterzijde*
 
 ####Kapiteinspatent
 
 ###Kapitänspatent
 
-(Voorzijde)   ![249371](http://wetten.overheid.nl/Illustration/249371)
-(Achterzijde)   ![249371](http://wetten.overheid.nl/Illustration/249371)
+(Voorzijde)![249370](http://wetten.overheid.nl/Illustration/249370)
+(Achterzijde)![249371](http://wetten.overheid.nl/Illustration/249371)
+
+![250186](http://wetten.overheid.nl/Illustration/250186)
+![250187](http://wetten.overheid.nl/Illustration/250187)
 
 ### Bijlage  D6  
 
@@ -2092,8 +2099,8 @@ Vaarbewijs type B   ![249128](http://wetten.overheid.nl/Illustration/249128)
 | CZ  | Radarbevoegdheidsbewijs voor de binnenvaart  | ---  | Státní plavební správa,  Jankovcova 4  Praha 7  170 04  Tsjechische Republiek  Tel : +420 234 637 240  kuzminski@spspraha.cz  bimka@spsprha.cz  | Model  |
 | --- | --- | --- | --- | --- |
 | HU  | Radarbevoegdheidsbewijs voor de binnenvaart  | ---  | Nemzeti Közlekedési Hatóság / Autorité Nationale de Transport  Stratégiai és Módszertani Igazgatóság / Direction de Stratégique et  Méthdologique  Hajózási és Légiközlekedési Főosztály / Departement Scheepvaart en Burgerluchtvaart  Postadres:  1389 Boedapest 62 Pf. 102  Bezoekadres:  1066 Boedapest,  Teréz körút 62  Hongarije  Tel. : +36 1 815 9646  Fax : +36 1 815 9659  E-mail :  hajozaslegikozlekedesfoo.smi@nkh.gov.hu  | Model  |
-| SL  | Radarbevoegdheidsbewijs   *Preukaz radarového navigátora*   | --- | Státna plavebná správa (ŠPS)  Vedúci odboru plavebnej bezpečnosti  Prístavná 10, 821 09 Bratislava 2  Tél. + 421 2 333 00217  Fax +421 2 555 67 604  +421 2 335 23 913  ecretariat @sps.sk  | Model  |
-| AT  | Aantekening ‘Radar’ ingeschreven op het kapiteinspatent  | --- | --- | --- |
+|SK |Radarbevoegdheidsbewijs *Preukaz radarového navigátora* | --- |Státna plavebná správa (ŠPS) Vedúci odboru plavebnej bezpečnosti Prístavná 10, 821 09 Bratislava 2 Tél. + 421 2 333 00217 Fax +421 2 555 67 604 +421 2 335 23 913 ecretariat @sps.sk |Model |
+|AT |Aantekening ‘Radar’ ingeschreven op het kapiteinspatent | --- | --- | --- |
 
 ####Model van het Roemeense bevoegdheidsbewijs voor het varen op radar
 
@@ -2111,8 +2118,8 @@ Vaarbewijs type B   ![249128](http://wetten.overheid.nl/Illustration/249128)
 
 ###Preukaz radarového navigátora
 
-(Voorzijde)   ![249373](http://wetten.overheid.nl/Illustration/249373)
-(Achterzijde)   ![249373](http://wetten.overheid.nl/Illustration/249373)
+(Voorzijde)![249372](http://wetten.overheid.nl/Illustration/249372)
+(Achterzijde)![249373](http://wetten.overheid.nl/Illustration/249373)
 
 ### Bijlage  D7  
 

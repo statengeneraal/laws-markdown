@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *wet:*[Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+a.  *wet:* [Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-b. *vergunning:* vergunning als bedoeld in [artikel 3.13, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+b.  *vergunning:* vergunning als bedoeld in [artikel 3.13, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-c. *antenneregister:* openbaar antenneregister als bedoeld in [artikel 3.23, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).    
+c.  *antenneregister:* openbaar antenneregister als bedoeld in [artikel 3.23, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -44,7 +44,7 @@ a. inzake de doelmatigheid van het gebruik;
 
 b. inzake de aard van de radiozendapparaten en de daarbij behorende antenne-inrichtingen alsmede het vermogen waarmee mag worden uitgezonden;  
 
-c. ter uitvoering van verplichtingen die voorvloeien uit verdragen of uit bindende besluiten van volkenrechtelijk organisaties aangaande het gebruik van frequentieruimte.     
+c. ter uitvoering van verplichtingen die voorvloeien uit verdragen of uit bindende besluiten van volkenrechtelijk organisaties aangaande het gebruik van frequentieruimte.    
 
 ### Paragraaf  2.2  
 
@@ -58,7 +58,7 @@ c. ter uitvoering van verplichtingen die voorvloeien uit verdragen of uit binden
 a. het door de gebruiker beschikbaar houden van bescheiden;  
 
 b. het veroorzaken van belemmeringen in radiozend- of ontvangapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radiozendapparaat.     
-3.  Artikel 2, derde lid, is van overeenkomstige toepassing.   
+3.  Artikel 2, derde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  4  
 
@@ -81,7 +81,7 @@ d. de wijze waarop de vergoeding voor een examen dan wel een ontheffing moet wor
 
 e. het verkrijgen van een certificaat van bediening.     
 3.  Bij ministeriële regeling kunnen regels worden gesteld voor het gebruik door rechtspersonen van frequentieruimte als bedoeld in artikel 3, eerste lid.   
-4.  Voor de toepassing van dit artikel wordt een vennootschap zonder rechtspersoonlijkheid gelijk gesteld met een rechtspersoon.   
+4.  Voor de toepassing van dit artikel wordt een vennootschap zonder rechtspersoonlijkheid gelijk gesteld met een rechtspersoon.  
 
 ### Artikel  5  
 
@@ -89,7 +89,7 @@ e. het verkrijgen van een certificaat van bediening.
 2.  Onze Minister registreert het in de melding bedoelde frequentiegebruik tenzij niet wordt voldaan aan bij ministeriële regeling te stellen regels.   
 3.  De frequentieruimte voor het gebruik waarvan geen vergunning is vereist, wordt slechts gebruikt indien het gebruik is geregistreerd overeenkomstig het tweede lid.   
 4.  Met het oog op de identificatie van het radiozendapparaat kent Onze Minister in bij ministeriële regeling te bepalen gevallen aan degene die de melding heeft gedaan een combinatie van letters of cijfers toe.   
-5.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de melding, de registratie en de toekenning van de combinatie van letters of cijfers.   
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de melding, de registratie en de toekenning van de combinatie van letters of cijfers.  
 
 ### Hoofdstuk  3  
 
@@ -101,7 +101,7 @@ e. het verkrijgen van een certificaat van bediening.
 
 ### Artikel  6  
 
-Ingeval van een procedure voor de verlening van een vergunning als bedoeld in [artikel 3.10, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) kan bij ministeriële regeling frequentieruimte voor een categorie van aanvragers worden gereserveerd. Daarbij kan een maximale hoeveelheid gereserveerde frequentieruimte worden vastgesteld die een aanvrager in de procedure kan verwerven.  
+Ingeval van een procedure voor de verlening van een vergunning als bedoeld in [artikel 3.10, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) kan bij ministeriële regeling frequentieruimte voor een categorie van aanvragers worden gereserveerd. Daarbij kan een maximale hoeveelheid gereserveerde frequentieruimte worden vastgesteld die een aanvrager in de procedure kan verwerven. 
 
 ### Paragraaf  3.2  
 
@@ -114,11 +114,11 @@ Ingeval van een procedure voor de verlening van een vergunning als bedoeld in [a
 a. de regels, bedoeld in de artikelen 8, 9, eerste lid en 10, eerste lid;  
 
 b. de regels, bedoeld in [artikel 3.15, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).     
-2.  Onze Minister stelt eenieder gedurende een periode van ten minste vier weken in de gelegenheid zijn zienswijze te geven over een ontwerp van de regels, bedoeld in het eerste lid.   
+2.  Onze Minister stelt eenieder gedurende een periode van ten minste vier weken in de gelegenheid zijn zienswijze te geven over een ontwerp van de regels, bedoeld in het eerste lid.  
 
 ### Artikel  8  
 
-Bij ministeriële regeling worden regels gesteld omtrent de indiening van de aanvraag om een vergunning en omtrent de inhoud van de aanvraag en de daarbij te overleggen gegevens. Deze regels kunnen per vergunning verschillen.  
+Bij ministeriële regeling worden regels gesteld omtrent de indiening van de aanvraag om een vergunning en omtrent de inhoud van de aanvraag en de daarbij te overleggen gegevens. Deze regels kunnen per vergunning verschillen. 
 
 ### Artikel  9  
 
@@ -136,7 +136,7 @@ d. technische middelen waarover de aanvrager kan beschikken;
 e. hoedanigheid van de aanvrager als commerciële omroep;  
 
 f. door de aanvrager te leveren bijdrage aan de overgang van analoge naar digitale techniek.     
-3.  Indien een te verlenen vergunning betrekking heeft op het gebruik van frequentieruimte die is bestemd voor commerciële omroep, kunnen de in het eerste lid bedoelde eisen tevens betrekking hebben op het waarborgen van democratische, sociale, taalkundige en culturele belangen die een rol spelen bij het gebruik van frequentieruimte, waarbij rekening kan worden gehouden met pluralisme in de media.   
+3.  Indien een te verlenen vergunning betrekking heeft op het gebruik van frequentieruimte die is bestemd voor commerciële omroep, kunnen de in het eerste lid bedoelde eisen tevens betrekking hebben op het waarborgen van democratische, sociale, taalkundige en culturele belangen die een rol spelen bij het gebruik van frequentieruimte, waarbij rekening kan worden gehouden met pluralisme in de media.  
 
 ### Artikel  10  
 
@@ -165,7 +165,7 @@ c. de zekerheidstelling dat een financieel bod gestand wordt gedaan of kosten en
 
 d. de eisen die gesteld worden met betrekking tot de wijze van betaling van het financieel bod en het tijdstip waarop degene aan wie de vergunning wordt verleend deze betaling moet hebben verricht.     
 5.  In het geval van een vergelijkende toets houdt Onze Minister bij het opstellen van de criteria rekening met de doelstellingen, bedoeld in [artikel 1.3, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
-6.  Bij ministeriële regeling kunnen regels worden gesteld als bedoeld in [artikel 3.16, tweede lid, onderdeel b, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
+6.  Bij ministeriële regeling kunnen regels worden gesteld als bedoeld in [artikel 3.16, tweede lid, onderdeel b, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
 
 ### Paragraaf  3.3  
 
@@ -183,16 +183,16 @@ c. de aanvrager in het bezit is van een certificaat van bediening;
 
 d. de aanvrager een redelijk belang heeft bij het voorgenomen gebruik van de gevraagde frequentieruimte.     
 2.  Artikel 4, tweede lid, is van overeenkomstige toepassing.   
-3.  Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het eerste lid bij ministeriële regeling tevens de eisen worden gesteld bedoeld in artikel 9, tweede en derde lid, en kunnen voorts regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.   
+3.  Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het eerste lid bij ministeriële regeling tevens de eisen worden gesteld bedoeld in artikel 9, tweede en derde lid, en kunnen voorts regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.  
 
 ### Artikel  12  
 
-Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van de aanvraag om een vergunning en omtrent de inhoud van de aanvraag en de daarbij te overleggen gegevens. Deze regels kunnen per te verlenen vergunning verschillen.  
+Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van de aanvraag om een vergunning en omtrent de inhoud van de aanvraag en de daarbij te overleggen gegevens. Deze regels kunnen per te verlenen vergunning verschillen. 
 
 ### Artikel  13  
 
 1.  In het geval de verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor het aanbieden van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten beslist Onze Minister op een aanvraag om verlening van de vergunning binnen zes weken na ontvangst van de aanvraag.   
-2.  Van de termijn, genoemd in het eerste lid, kan worden afgeweken indien internationale frequentie- en satellietcoördinatie op grond van het Internationale Telecommunicatieverdrag daartoe noopt.   
+2.  Van de termijn, genoemd in het eerste lid, kan worden afgeweken indien internationale frequentie- en satellietcoördinatie op grond van het Internationale Telecommunicatieverdrag daartoe noopt.  
 
 ### Paragraaf  3.4  
 
@@ -220,7 +220,7 @@ d. technische middelen waarover de aanvrager kan beschikken;
 e. hoedanigheid van de aanvrager als commerciële omroep;  
 
 f. door de aanvrager te leveren bijdrage aan de overgang van analoge naar digitale techniek.     
-3.  Voor zover dat op dat moment reeds mogelijk is, stelt Onze Minister bij het besluit om vergunningen in een bepaalde frequentieband te verlenen met toepassing van de procedure bedoeld in [artikel 3.10, eerste lid, onderdeel b, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), tevens de voorschriften en beperkingen vast die aan de vergunning zullen worden verbonden.   
+3.  Voor zover dat op dat moment reeds mogelijk is, stelt Onze Minister bij het besluit om vergunningen in een bepaalde frequentieband te verlenen met toepassing van de procedure bedoeld in [artikel 3.10, eerste lid, onderdeel b, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), tevens de voorschriften en beperkingen vast die aan de vergunning zullen worden verbonden.  
 
 ### Artikel  15  
 
@@ -231,7 +231,7 @@ a. de ontvangst van de aanvraag en de frequentieband waarop deze aanvraag betrek
 b. de aanvang van de termijn van zes weken voor het indienen van aanvragen om verlening van een vergunning voor het gebruik van dezelfde frequentieband;  
 
 c. voor zover dit redelijkerwijs mogelijk is, de voorschriften en beperkingen die aan een vergunning voor het gebruik van de betreffende frequentieband zullen worden verbonden.     
-2.  Het op grond van artikel 14 bepaalde is mede van toepassing op aanvragen als bedoeld in het eerste lid, onderdeel b.   
+2.  Het op grond van artikel 14 bepaalde is mede van toepassing op aanvragen als bedoeld in het eerste lid, onderdeel b.  
 
 ### Artikel  16  
 
@@ -248,7 +248,7 @@ a. het tijdstip van de aanvang van de veiling;
 b. de vergunningen die door middel van een veiling zullen worden verleend;  
 
 c. voor zover dit redelijkerwijs mogelijk is, de voorschriften en beperkingen die aan het gebruik van de betreffende frequentieruimte zullen worden verbonden.     
-4.  In geval van verlening van een vergunning door middel van een veiling als bedoeld in het eerste lid, onderdeel b, neemt Onze Minister uiterlijk 25 weken na de uiterste ontvangstdatum, bedoeld in artikel 15, eerste lid, onderdeel b, een besluit omtrent de verlening van een vergunning.   
+4.  In geval van verlening van een vergunning door middel van een veiling als bedoeld in het eerste lid, onderdeel b, neemt Onze Minister uiterlijk 25 weken na de uiterste ontvangstdatum, bedoeld in artikel 15, eerste lid, onderdeel b, een besluit omtrent de verlening van een vergunning.  
 
 ### Paragraaf  3.5  
 
@@ -278,7 +278,7 @@ i. de identificatie van het zendapparaat door middel van een daartoe bij de verg
 2.  De in het eerste lid, onderdeel a, bedoelde voorschriften en beperkingen kunnen onder meer betrekking hebben op de termijn waarop en het geografisch gebied waarbinnen de in het eerste lid, onderdeel g, bedoelde diensten moeten worden aangeboden.   
 3.  Indien samenwerking tussen vergunninghouders noodzakelijk is om gewijzigde of nieuw toegekende frequentieruimte in gebruik te kunnen nemen met behoud van continuïteit van dienstverlening, kunnen de in het eerste lid, onderdeel a, bedoelde voorschriften en beperkingen onder meer bestaan uit een verplichting voor deze vergunninghouders om binnen een bepaalde termijn een overeenkomst te sluiten over deze samenwerking.   
 4.  Onze Minister kan op verzoek van een van de houders van een vergunning bedoeld in het derde lid of uit eigen beweging, voorschriften geven met betrekking tot de wijze waarop de overeenkomst tot stand moet komen. De vergunninghouders houden zich aan de door Onze Minister gegeven voorschriften.   
-5.  Indien op een of meer onderdelen van de overeenkomst bedoeld in het derde lid geen overeenstemming van alle bij dat onderdeel of die onderdelen betrokken vergunninghouders dreigt te worden bereikt, kan Onze Minister op verzoek of uit eigen beweging een dwingende aanwijzing geven. De vergunninghouders zijn bij het sluiten van de overeenkomst gebonden aan de aanwijzing.   
+5.  Indien op een of meer onderdelen van de overeenkomst bedoeld in het derde lid geen overeenstemming van alle bij dat onderdeel of die onderdelen betrokken vergunninghouders dreigt te worden bereikt, kan Onze Minister op verzoek of uit eigen beweging een dwingende aanwijzing geven. De vergunninghouders zijn bij het sluiten van de overeenkomst gebonden aan de aanwijzing.  
 
 ### Paragraaf  3.6  
 
@@ -291,7 +291,7 @@ i. de identificatie van het zendapparaat door middel van een daartoe bij de verg
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op een vergunning die op grond van de [artikelen 3.19a](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of [3.20 van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) is verkregen.   
 4.  Vergunningen die zijn verleend met toepassing van de procedure, bedoeld in [artikel 3.6, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), worden op aanvraag verlengd, tenzij een doelmatige ordening van het frequentiespectrum zich daartegen verzet.   
 5.  In het geval een vergunning wordt verlengd kunnen de aan de vergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan de vergunning worden toegevoegd.   
-6.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent de verlenging van vergunningen. Deze regels kunnen per te verlenen vergunning verschillen.   
+6.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent de verlenging van vergunningen. Deze regels kunnen per te verlenen vergunning verschillen.  
 
 ### Paragraaf  3.7  
 
@@ -308,7 +308,7 @@ b. [artikel 3.19a, tweede lid, van de wet](../../../../wet/telecommunicatiewet/B
 
 a. de termijn, bedoeld in [artikel 3.19a, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-b. de periode, bedoeld in [artikel 3.19a, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).     
+b. de periode, bedoeld in [artikel 3.19a, vijfde lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).    
 
 ### Artikel  20  
 
@@ -318,7 +318,7 @@ a. de indiening van de aanvraag om toestemming of overdracht,
 
 b. de eisen die ter verkrijging van toestemming of ter overdracht van de vergunning worden gesteld aan de aanvrager,  
 
-c. de inhoud van de aanvraag en de daarbij te overleggen gegevens.   Deze regels kunnen per vergunning verschillen.  
+c. de inhoud van de aanvraag en de daarbij te overleggen gegevens.   Deze regels kunnen per vergunning verschillen. 
 
 ### Artikel  21  
 
@@ -344,7 +344,7 @@ a. de aanvrager de latende vergunninghouder is,
 
 b. de aanvrager op de latende vergunninghouder of de latende vergunninghouder op de aanvrager zodanige zeggenschap of feitelijke invloed heeft dat deze in belangrijke mate het beleid van de aanvrager of de latende vergunninghouder kan bepalen of aanmerkelijke invloed heeft op de inhoud van dat beleid, of  
 
-c. een natuurlijke persoon of groep van natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed heeft in zowel de aanvrager als de latende vergunninghouder dat deze in belangrijke mate het beleid van beiden kan bepalen of aanmerkelijke invloed heeft op de inhoud van het beleid van beiden.     
+c. een natuurlijke persoon of groep van natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed heeft in zowel de aanvrager als de latende vergunninghouder dat deze in belangrijke mate het beleid van beiden kan bepalen of aanmerkelijke invloed heeft op de inhoud van het beleid van beiden.    
 
 ### Artikel  22  
 
@@ -365,7 +365,7 @@ f. de maatregelen ten behoeve van een ongestoord verloop van de in het eerste li
 
 g. de door de vergunninghouder toe te passen methode ter vaststelling van het bod waarvan de uitbrenger in aanmerking komt voor verlening van de vergunning;  
 
-h. de eisen die worden gesteld met betrekking tot de wijze van betaling van de in onderdeel e bedoelde financiële verplichtingen, en het tijdstip waarop degene aan wie de vergunning wordt overgedragen deze betaling moet hebben verricht.     
+h. de eisen die worden gesteld met betrekking tot de wijze van betaling van de in onderdeel e bedoelde financiële verplichtingen, en het tijdstip waarop degene aan wie de vergunning wordt overgedragen deze betaling moet hebben verricht.    
 
 ### Hoofdstuk  4  
 
@@ -380,7 +380,7 @@ a. antennes die zijn geplaatst op een vaste locatie met het doel met een zendver
 b. antennes die zijn geplaatst op een vaste locatie en die tot een netwerk behoren, indien meer dan de helft van het aantal antennes van het netwerk een zendvermogen van meer dan 10 dB watt ERP heeft;  
 
 c. antennes van radiozendamateurs die zijn geregistreerd als gebruiker van frequentieruimte.     
-2.  Van het eerste lid zijn uitgezonderd de gegevens van antennes in gebruik bij overheidsorganen die een taak uitoefenen op het terrein van politie, justitie of veiligheid.   
+2.  Van het eerste lid zijn uitgezonderd de gegevens van antennes in gebruik bij overheidsorganen die een taak uitoefenen op het terrein van politie, justitie of veiligheid.  
 
 ### Artikel  24  
 
@@ -399,7 +399,7 @@ e. het zendvermogen van de antenne in de hoofdstraalrichting aangeduid in dB wat
 f. de datum van ingebruikname van de antenne;  
 
 g. de locatie van de antenne-installatie, met een nauwkeurigheid van 15 meter, aangeduid met toepassing van het World Geodetic System 1984.     
-2.  De gegevens, bedoeld in het eerste lid, worden aan Onze Minister verstrekt door diegene die de frequentie gebruikt of wil gebruiken.   
+2.  De gegevens, bedoeld in het eerste lid, worden aan Onze Minister verstrekt door diegene die de frequentie gebruikt of wil gebruiken.  
 
 ### Artikel  25  
 
@@ -409,7 +409,7 @@ a. de locatie van de antenne-installatie, met een nauwkeurigheid van 15 meter, 
 
 b. het type registratie.     
 2.  De gegevens, bedoeld in het eerste lid, worden aan Onze Minister verstrekt door de radiozendamateur die zich voor het gebruik van frequentieruimte heeft geregistreerd.   
-3.  Onze Minister kan gegevens die door radiozendamateurs worden verstrekt in het kader van de registratie opnemen in het antenneregister.   
+3.  Onze Minister kan gegevens die door radiozendamateurs worden verstrekt in het kader van de registratie opnemen in het antenneregister.  
 
 ### Artikel  26  
 
@@ -421,12 +421,12 @@ b. het tijdstip waarop de gegevens worden aangeleverd;
 
 c. de wijze waarop en de vorm waarin de gegevens aangeleverd worden;  
 
-d. de wijze waarop van de gegevens kennis wordt genomen.    
+d. de wijze waarop van de gegevens kennis wordt genomen.   
 
 ### Artikel  27  
 
 1.  Bij ministeriële regeling wordt frequentieruimte als bedoeld in [artikel 3.24, eerste lid, van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md), aangewezen.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld als bedoeld in [artikel 3.25 van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld als bedoeld in [artikel 3.25 van de wet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
 
 ### Hoofdstuk  5  
 
@@ -434,39 +434,39 @@ d. de wijze waarop van de gegevens kennis wordt genomen.
 
 ### Artikel  28  
 
-Wijzigt het Besluit medegebruik omroepzendernetwerken.   
+Wijzigt het Besluit medegebruik omroepzendernetwerken. 
 
 ### Artikel  29  
 
-Wijzigt het Besluit vergoedingen Telecommunicatiewet.   
+Wijzigt het Besluit vergoedingen Telecommunicatiewet. 
 
 ### Artikel  30  
 
-Wijzigt het Besluit bijzondere vergaring nummergegevens telecommunicatie.   
+Wijzigt het Besluit bijzondere vergaring nummergegevens telecommunicatie. 
 
 ### Artikel  31  
 
-Wijzigt het Besluit technische hulpmiddelen strafvordering.   
+Wijzigt het Besluit technische hulpmiddelen strafvordering. 
 
 ### Artikel  32  
 
-Wijzigt het Besluit zeevaartbemanning handelsvaart en zeilvaart.   
+Wijzigt het Besluit zeevaartbemanning handelsvaart en zeilvaart. 
 
 ### Artikel  33  
 
-Wijzigt het Besluit zeevisvaartbemanning.   
+Wijzigt het Besluit zeevisvaartbemanning. 
 
 ### Artikel  34  
 
-Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.   
+Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart. 
 
 ### Artikel  35  
 
-Wijzigt het Besluit overgangsrecht Telecommunicatiewet.   
+Wijzigt het Besluit overgangsrecht Telecommunicatiewet. 
 
 ### Artikel  36  
 
-Wijzigt het Besluit randapparaten en radioapparaten 2007.   
+Wijzigt het Besluit randapparaten en radioapparaten 2007. 
 
 ### Hoofdstuk  6  
 
@@ -497,7 +497,7 @@ i. de [Regeling aanvraagprocedure en veiling gebruiksrechten frequentieruimte vo
 
 j. de [Regeling verlenging en digitalisering commerciële radio-omroep (middengolf en niet-landelijke FM)](../../../../ministeriele-regeling/regeling/verlenging/en/digitalisering/commerciële/radio-omroep/(middengolf/etc/BWBR0030039/README.md), en  
 
-k. de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](../../../../ministeriele-regeling/regeling/verlenging/en/digitalisering/landelijke/commerciële/radio-omroep/BWBR0029751/README.md).     
+k. de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](../../../../ministeriele-regeling/regeling/verlenging/en/digitalisering/landelijke/commerciële/radio-omroep/BWBR0029751/README.md).    
 
 ### Artikel  38  
 
@@ -515,7 +515,7 @@ e. de [Regeling openbaar antenneregister](../../../../ministeriele-regeling/rege
 
 f. de [Regeling gebruik van frequentieruimte zonder vergunning 2008](../../../../ministeriele-regeling/regeling/gebruik/van/frequentieruimte/zonder/vergunning/2008/BWBR0023553/README.md) op de artikelen 2, derde lid, 3, eerste en tweede lid, 4, en 5, tweede, vierde en vijfde lid, van dit besluit, en  
 
-g. de [Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](../../../../ministeriele-regeling/regeling/vervolg/verdeling/frequenties/commerciële/radio-omroep/2003/BWBR0015414/README.md) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en de artikelen 8, 9 en 10 van dit besluit.    
+g. de [Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](../../../../ministeriele-regeling/regeling/vervolg/verdeling/frequenties/commerciële/radio-omroep/2003/BWBR0015414/README.md) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en de artikelen 8, 9 en 10 van dit besluit.   
 
 ### Artikel  39  
 
@@ -537,18 +537,18 @@ g. het [Wijzigingsbesluit Besluit vergunningen mobiele telecommunicatie (DCS 180
 
 h. het [Wijzigingsbesluit Besluit mobiele telecommunicatie GSM in verband met de invoering van het systeem voor een openbare paneuropese semafoondienst te land (ERMES)](../../../../AMvB/wijzigingsbesluit/besluit/mobiele/telecommunicatie/gsm/in/verband/met/de/etc/BWBR0007628/README.md), en  
 
-i. het [Wijzigingsbesluit Besluit ONP huurlijnen en telefonie (leveringsplicht en goedkeuring voorgenomen tariefwijzigingen)](../../../../AMvB/wijzigingsbesluit/besluit/onp/huurlijnen/en/telefonie/(leveringsplicht/en/etc/BWBR0012979/README.md).    
+i. het [Wijzigingsbesluit Besluit ONP huurlijnen en telefonie (leveringsplicht en goedkeuring voorgenomen tariefwijzigingen)](../../../../AMvB/wijzigingsbesluit/besluit/onp/huurlijnen/en/telefonie/(leveringsplicht/en/etc/BWBR0012979/README.md).   
 
 ### Artikel  40  
 
 1.  De Wet van 10 mei 2012 houdende wijziging van de Telecommunicatiewet in verband met de Nota frequentiebeleid 2005 (Staatsblad 2013, 48) treedt in werking met ingang van een maand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.   
 2.  Artikel XXXVII, onderdeel K, van de Wet van 22 december 2011 tot aanpassing van een aantal wetten op het terrein van Economische Zaken, Landbouw en Innovatie naar aanleiding van de departementale herindeling en het herstel van enkele wetstechnische gebreken en leemten (Staatsblad 2012, 19) treedt in werking op het in het eerste lid bedoelde tijdstip, direct na inwerkingtreding van de wet, bedoeld in het eerste lid.   
 3.  [Artikel I, onderdelen C, D, E tot en met H](../../../../wet/wijzigingswet/telecommunicatiewet/(implementatie/herziene/etc/BWBR0031609/README.md), [artikel V, eerste lid](../../../../wet/wijzigingswet/telecommunicatiewet/(implementatie/herziene/etc/BWBR0031609/README.md) en [artikel VIa van de Wet van 10 mei 2012 tot wijziging van de Telecommunicatiewet ter implementatie van de herziene telecommunicatierichtlijnen](../../../../wet/wijzigingswet/telecommunicatiewet/(implementatie/herziene/etc/BWBR0031609/README.md) treedt in werking op het in het eerste lid bedoelde tijdstip, direct na inwerkingtreding van de wet, bedoeld in het eerste lid.   
-4.  Dit besluit treedt in werking op het in het derde lid bedoelde tijdstip.   
+4.  Dit besluit treedt in werking op het in het derde lid bedoelde tijdstip.  
 
 ### Artikel  41  
 
-Dit besluit wordt aangehaald als: Frequentiebesluit 2013.  
+Dit besluit wordt aangehaald als: Frequentiebesluit 2013. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -556,10 +556,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 8 februari 2013  
 Beatrix  
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 H.G.J. Kamp   
 
 de *vijftiende* februari 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
