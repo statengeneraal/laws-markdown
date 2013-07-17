@@ -6,7 +6,7 @@
 
 ####Inleiding
 
-Op 1 april 2013 is de [Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md) in werking getreden. Daarmee zijn de Nederlandse Mededingingsautoriteit, de Onafhankelijke Post- en Telecommunicatieautoriteit en de Consumentenautoriteit samengevoegd tot één nieuwe toezichthouder, de Autoriteit Consument en Markt (ACM). Onlangs is een wetsvoorstel bij de Tweede Kamer ingediend waarmee de procedures van ACM worden gestroomlijnd en bevoegdheden worden geharmoniseerd . In de periode tot de inwerkingtreding van dit wetsvoorstel bestaan er verschillende wettelijke regimes op basis waarvan ACM informatie over haar werkzaamheden en besluiten aan het publiek kenbaar kan (of moet) maken. Deze werkwijze geeft inzicht in de wijze waarop ACM het publiek informeert over haar werkzaamheden en besluiten die zij in het kader van de aan haar toevertrouwde wettelijke taken verricht, met inachtneming van de genoemde verschillende kaders . <sup> 1  Kamerstukken II 2012/2023, 33 622, nrs. 1 t/m 4.  </sup> <sup> 2  De wetten waarin aan ACM op 1 april 2013 taken zijn opgedragen zijn: de Aanbestedingswet 2012, de Aanbestedingswet op defensie- en veiligheidsgebied, de Drinkwaterwet, de Elektriciteitswet 1998, de Gaswet, de Loodsenwet, de Mededingingswet, de Postwet 2009, de Scheepvaartverkeerswet, de Spoorwegwet, de Telecommunicatiewet, de Wet handhaving consumentenbescherming, Wet implementatie derde pakket, de Wet implementatie EU-richtlijnen energie-efficiëntie, de Wet luchtvaart, de Wet onafhankelijk netbeheer, de Wet op het financieel toezicht, de Wet personenvervoer 2000, de Wet post BES en de Wet telecommunicatievoorziening BES.  </sup> Deze werkwijze geldt slechts tot inwerkingtreding van het wetsvoorstel waarmee de procedures worden gestroomlijnd en de bevoegdheden worden geharmoniseerd. Als uitgangspunt geldt dat ACM bij de uitvoering van haar taken openheid betracht met inachtneming van geldende rechtswaarborgen. Dit is één van de kernwaarden van de organisatie. Openheid is echter niet onbegrensd. Niet alleen het belang van onderzoek en handhaving, maar bijvoorbeeld ook belangen van ondernemingen kunnen ertoe leiden dat een beperking van openbaarmaking van informatie geraden is.    
+Op 1 april 2013 is de [Instellingswet Autoriteit Consument en Markt](../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md) in werking getreden. Daarmee zijn de Nederlandse Mededingingsautoriteit, de Onafhankelijke Post- en Telecommunicatieautoriteit en de Consumentenautoriteit samengevoegd tot één nieuwe toezichthouder, de Autoriteit Consument en Markt (ACM). Onlangs is een wetsvoorstel bij de Tweede Kamer ingediend waarmee de procedures van ACM worden gestroomlijnd en bevoegdheden worden geharmoniseerd<sup> 1 Kamerstukken II 2012/2023, 33 622, nrs. 1 t/m 4. </sup>. In de periode tot de inwerkingtreding van dit wetsvoorstel bestaan er verschillende wettelijke regimes op basis waarvan ACM informatie over haar werkzaamheden en besluiten aan het publiek kenbaar kan (of moet) maken. Deze werkwijze geeft inzicht in de wijze waarop ACM het publiek informeert over haar werkzaamheden en besluiten die zij in het kader van de aan haar toevertrouwde wettelijke taken verricht, met inachtneming van de genoemde verschillende kaders<sup> 2 De wetten waarin aan ACM op 1 april 2013 taken zijn opgedragen zijn: de Aanbestedingswet 2012, de Aanbestedingswet op defensie- en veiligheidsgebied, de Drinkwaterwet, de Elektriciteitswet 1998, de Gaswet, de Loodsenwet, de Mededingingswet, de Postwet 2009, de Scheepvaartverkeerswet, de Spoorwegwet, de Telecommunicatiewet, de Wet handhaving consumentenbescherming, Wet implementatie derde pakket, de Wet implementatie EU-richtlijnen energie-efficiëntie, de Wet luchtvaart, de Wet onafhankelijk netbeheer, de Wet op het financieel toezicht, de Wet personenvervoer 2000, de Wet post BES en de Wet telecommunicatievoorziening BES. </sup>. Deze werkwijze geldt slechts tot inwerkingtreding van het wetsvoorstel waarmee de procedures worden gestroomlijnd en de bevoegdheden worden geharmoniseerd. Als uitgangspunt geldt dat ACM bij de uitvoering van haar taken openheid betracht met inachtneming van geldende rechtswaarborgen. Dit is één van de kernwaarden van de organisatie. Openheid is echter niet onbegrensd. Niet alleen het belang van onderzoek en handhaving, maar bijvoorbeeld ook belangen van ondernemingen kunnen ertoe leiden dat een beperking van openbaarmaking van informatie geraden is.    
 ### §  2  
 
 ####Algemene uitgangspunten
@@ -38,14 +38,14 @@ Op 1 april 2013 is de [Instellingswet Autoriteit Consument en Markt](../../../.
 
 5. Indien onduidelijk is hoe de informatie over een bedrijfsbezoek bekend is geworden bij de media, zal ACM per geval afwegen of zij tot verstrekking van informatie over het bedrijfsbezoek overgaat. In haar afweging zal ACM betrekken of het niet bekend maken van informatie zou kunnen leiden tot onwenselijke speculaties ten aanzien van het bedrijfsbezoek.  
 
-6. Bij het verstrekken van informatie over bedrijfsbezoeken of rapporten als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), maakt ACM niet de namen bekend van de bij die bedrijfsbezoeken of rapporten betrokken partijen, tenzij het niet noemen van die namen tot onwenselijke speculaties kan leiden over de betrokkenheid van die partijen.   
+6. Bij het verstrekken van informatie over bedrijfsbezoeken of rapporten als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), maakt ACM niet de namen bekend van de bij die bedrijfsbezoeken of rapporten betrokken partijen, tenzij het niet noemen van die namen tot onwenselijke speculaties kan leiden over de betrokkenheid van die partijen.  
 ###Werkwijze persberichten
 
 1. Indien ACM over een besluit een persbericht uitbrengt, krijgt de geadresseerde van dat besluit gedurende minimaal 24 uur de gelegenheid te reageren op het concept van het persbericht en om feitelijke onjuistheden daarin te signaleren. Hierbij wordt een deadline gecommuniceerd waarbinnen hij zijn reactie op dat concept aan ACM kenbaar moet maken.  
 
 2. ACM stelt de geadresseerde van het besluit op de hoogte van de definitieve versie van het persbericht, met daarbij de aankondiging van het moment waarop ACM tot publicatie zal overgaan.  
 
-3. Indien de geadresseerde tot wie het besluit is gericht beursgenoteerd is, brengt ACM het persbericht na sluiting (na 18.00 uur) of voor opening (09.00 uur) van de Amsterdamse effectenbeurs uit, dan wel buiten de openingstijden van een andere effectenbeurs waaraan die geadresseerde is genoteerd. Dit laat onverlet de eigen verantwoordelijkheid van deze geadresseerde om aandeelhouders op de hoogte te stellen.   
+3. Indien de geadresseerde tot wie het besluit is gericht beursgenoteerd is, brengt ACM het persbericht na sluiting (na 18.00 uur) of voor opening (09.00 uur) van de Amsterdamse effectenbeurs uit, dan wel buiten de openingstijden van een andere effectenbeurs waaraan die geadresseerde is genoteerd. Dit laat onverlet de eigen verantwoordelijkheid van deze geadresseerde om aandeelhouders op de hoogte te stellen.  
 ###Woordvoering en publieksvoorlichting
 
 1. ACM beantwoordt vragen van media via haar woordvoerders.  
@@ -54,7 +54,7 @@ Op 1 april 2013 is de [Instellingswet Autoriteit Consument en Markt](../../../.
 
 3. ACM beantwoordt vragen van consumenten en ondernemingen, buiten de reguliere zaakbehandeling, via ConsuWijzer (088 – 0707070) respectievelijk het ACM-loket (070-722 20 00).  
 
-4. ACM neemt tips over vermeende overtredingen in ontvangst via de Tiplijn (070-722 20 00) en via het daarvoor bestemde elektronische formulier dat beschikbaar is op de website van ACM.      
+4. ACM neemt tips over vermeende overtredingen in ontvangst via de Tiplijn (070-722 20 00) en via het daarvoor bestemde elektronische formulier dat beschikbaar is op de website van ACM.     
 ### §  4  
 
 ####Openbaarmaking en terinzagelegging besluiten
@@ -73,7 +73,7 @@ Op 1 april 2013 is de [Instellingswet Autoriteit Consument en Markt](../../../.
 
 6. Besluiten die zich tot één of meer belanghebbenden richten en die volgens [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn voorbereid worden, geschoond van vertrouwelijke informatie, ter inzage gelegd ten kantore van ACM en op de website van ACM gepubliceerd. Hiervan wordt mededeling gedaan in de Staatscourant.  
 
-7. Besluiten die niet gericht zijn tot een of meer belanghebbenden worden integraal in de Staatscourant geplaatst en zijn te raadplegen via de website van ACM.   
+7. Besluiten die niet gericht zijn tot een of meer belanghebbenden worden integraal in de Staatscourant geplaatst en zijn te raadplegen via de website van ACM.  
 ###Bijzondere werkwijze
 
 1. Voor zover bij de bekendmaking van besluiten verwezen wordt naar de [artikelen 65](../../../../../wet/mededingingswet/BWBR0008691/README.md) en [82b van de Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md), hanteert ACM in afwijking van het hiervoor bepaalde de navolgende werkwijze.  
@@ -84,7 +84,7 @@ Op 1 april 2013 is de [Instellingswet Autoriteit Consument en Markt](../../../.
 
 4. De terinzagelegging en publicatie van het besluit geschiedt niet eerder dan nadat vijf dagen zijn verstreken na de dag daarop waarop het op de daarvoor voorgeschreven wijze is bekendgemaakt.  
 
-5. Van het besluit wordt mededeling gedaan in de Staatscourant.      
+5. Van het besluit wordt mededeling gedaan in de Staatscourant.     
 ### §  5  
 
 ####Slotbepalingen

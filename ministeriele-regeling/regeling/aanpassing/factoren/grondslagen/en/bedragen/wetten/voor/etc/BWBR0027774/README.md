@@ -7,10 +7,12 @@ Gelet op de [artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-07-2012 
 
-De pensioenbedragen, bedoeld in [artikel 31b van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en in [artikel 28b van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), zoals zij golden op 1 januari 2010, worden per 1 juli 2010 verhoogd met 0,60%.  
+De pensioenbedragen, bedoeld in [artikel 31b van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en in [artikel 28b van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), zoals zij golden op 1 januari 2010, worden per 1 juli 2010 verhoogd met 0,60%. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2012 
 
 De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) wordt aangepast, worden per 1 juli 2010 vastgesteld als volgt:  
 
@@ -71,34 +73,41 @@ De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buite
 | 4.040,91  | 4.084,02  | 16,3558  | 186,00  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2012 
 
-De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), zoals zij golden op 1 januari 2010, worden per 1 juli 2010 verhoogd met 0,60%.  
+De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), zoals zij golden op 1 januari 2010, worden per 1 juli 2010 verhoogd met 0,60%. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.   
+Wijzigt de Wet buitengewoon pensioen Indisch verzet. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-07-2012 
 
-De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals zij golden op 1 januari 2010 worden per 1 juli 2010 verhoogd met 0,60%.  
+De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals zij golden op 1 januari 2010 worden per 1 juli 2010 verhoogd met 0,60%. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.   
+Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-07-2012 
 
-De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), zoals zij golden op 1 januari 2010, worden per 1 juli 2010 verhoogd met 0,60%.  
+De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), zoals zij golden op 1 januari 2010, worden per 1 juli 2010 verhoogd met 0,60%. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.   
+Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-07-2012 
 
-Deze regeling treedt in werking met ingang van 1 juli 2010.  
+Deze regeling treedt in werking met ingang van 1 juli 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-A.Klink   
+Minister van Volksgezondheid, Welzijn en Sport, 
+A. Klink     

@@ -3,14 +3,16 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 28 november 2011, nr. DMO/OHW-U-3092048, houdende aanpassing van de factoren, grondslagen en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2012
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md);
+Gelet op de[ artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md)en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md);
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2014 
 
-De pensioenbedragen, [bedoeld in artikel 31b van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en in [artikel 28b van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), zoals zij golden op 1 juli 2011, worden per 1 januari 2012 verhoogd met 0,79%.  
+De pensioenbedragen, [bedoeld in artikel 31b van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en in [artikel 28b van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), zoals zij golden op 1 juli 2011, worden per 1 januari 2012 verhoogd met 0,79%. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2014 
 
 De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en [de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) wordt aangepast, worden per 1 januari 2012 vastgesteld als volgt:  
 
@@ -70,34 +72,41 @@ De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buite
 | 4.040,91  | 4.084,02  | 16,7299  | 189,00  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2014 
 
-De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), zoals zij golden op 1 juli 2011, worden per 1 januari 2012 verhoogd met 0,79%.  
+De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), zoals zij golden op 1 juli 2011, worden per 1 januari 2012 verhoogd met 0,79%. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.   
+Wijzigt de Wet buitengewoon pensioen Indisch verzet. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-01-2014 
 
-De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals zij golden op 1 juli 2011 worden per 1 januari 2012 verhoogd met 0,79%.  
+De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals zij golden op 1 juli 2011 worden per 1 januari 2012 verhoogd met 0,79%. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.   
+Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945. 
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-01-2014 
 
-De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), zoals zij golden op 1 juli 2011, worden per 1 januari 2012 verhoogd met 0,79%.  
+De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), zoals zij golden op 1 juli 2011, worden per 1 januari 2012 verhoogd met 0,79%. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.   
+Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945. 
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-01-2014 
 
-Deze regeling treedt in werking met ingang van 1 januari 2012.  
+Deze regeling treedt in werking met ingang van 1 januari 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.L.L.E.Veldhuijzen van Zanten-Hyllner   
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.L.L.E. Veldhuijzen van Zanten-Hyllner     
