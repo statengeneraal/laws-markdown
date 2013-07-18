@@ -17,17 +17,17 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *wet:* de [Uitvoeringswet huurprijzen woonruimte](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+a.  *wet:* de [Uitvoeringswet huurprijzen woonruimte](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-b. *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+b.  *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-c. *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+c.  *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-d. *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+d.  *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
 
-e. *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en  
+e.  *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en  
 
-f. *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) en [3h, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).    
+f.  *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) en [3h, van de wet](../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).   
 
 ### Artikel  2  
 
@@ -41,7 +41,7 @@ a. de afdeling Geschilbeslechting, genoemd in artikel 3 en 4;
 b. het Bedrijfsbureau, genoemd in de artikelen 5 en 6, en  
 
 c. het Bestuursbureau, genoemd in de artikelen 7 en 8.     
-3.  De administratieve ondersteuning kent, conform artikel 9, de functie van concerncontrol. Deze functionaris staat onder directe leiding van het bestuur.   
+3.  De administratieve ondersteuning kent, conform artikel 9, de functie van concerncontrol. Deze functionaris staat onder directe leiding van het bestuur.  
 
 ### §  2  
 
@@ -55,7 +55,7 @@ c. het Bestuursbureau, genoemd in de artikelen 7 en 8.
 2.  De afdeling Geschilbeslechting bestaat uit verschillende teams. Elk team staat onder leiding van een deelprojectleider. Voor de samenwerking tussen de teams, de deelprojectleiders en de medewerkers is de middenmanager Geschilbeslechting (schaal 12) verantwoordelijk.   
 3.  De voorzitter wijst bij afwezigheid van meer dan twee opeenvolgende werkdagen van de middenmanager Geschilbeslechting (schaal 14), voor die gevallen waarin de middenmanager Geschilbeslechting (schaal 14) niet wordt vervangen door de plaatsvervangend voorzitter, de middenmanager Bestuursbureau aan om op te treden als waarnemer van de middenmanager Geschilbeslechting (schaal 14). In afwijking hiervan kan de voorzitter, in het belang van de continuïteit van de dienstverlening van de huurcommissie, een andere functionaris aanwijzen die optreedt als waarnemer van de middenmanager Geschilbeslechting (schaal 14).   
 4.  De middenmanager Geschilbeslechting (schaal 14) wijst een deelprojectleider aan om bij afwezigheid van de middenmanager Geschilbeslechting (schaal 12) van meer dan twee opeenvolgende werkdagen op te treden als waarnemer van de middenmanager Geschilbeslechting (schaal 12).   
-5.  Aanwijzing van waarnemers als bedoeld in het derde en vierde lid geschiedt schriftelijk.   
+5.  Aanwijzing van waarnemers als bedoeld in het derde en vierde lid geschiedt schriftelijk.  
 
 ### Artikel  4  
 
@@ -94,7 +94,7 @@ j. uitvoeren kwaliteitstoetsen;
 
 k. voeren van het zittingssecretariaat; en  
 
-l. opstellen concept-uitspraken.     
+l. opstellen concept-uitspraken.    
 
 ### §  3  
 
@@ -106,7 +106,7 @@ l. opstellen concept-uitspraken.
 
 1.  Het Bedrijfsbureau staat onder leiding van de plaatsvervangend voorzitter.   
 2.  De voorzitter wijst de middenmanager Geschilbeslechting (schaal 14) of de middenmanager Bestuursbureau aan om bij afwezigheid van meer dan twee opeenvolgende werkdagen van de plaatsvervangend voorzitter op te treden als waarnemend leidinggevende van het Bedrijfsbureau. In afwijking hiervan kan de voorzitter, in het belang van de continuïteit van de dienstverlening van de huurcommissie, een andere functionaris aanwijzen die optreedt als waarnemend leidinggevende van het Bedrijfsbureau.   
-3.  Aanwijzing van een waarnemer als bedoeld in het tweede lid geschiedt schriftelijk.   
+3.  Aanwijzing van een waarnemer als bedoeld in het tweede lid geschiedt schriftelijk.  
 
 ### Artikel  6  
 
@@ -133,7 +133,7 @@ c. bedrijfsprocessen verband houdende met automatisering en ICT;
 
 d. bedrijfsprocessen verband houdende met procesanalyse; en  
 
-e. bedrijfsprocessen verband houdende met huisvesting, inkoop en facilitaire zaken.     
+e. bedrijfsprocessen verband houdende met huisvesting, inkoop en facilitaire zaken.    
 
 ### §  4  
 
@@ -145,7 +145,7 @@ e. bedrijfsprocessen verband houdende met huisvesting, inkoop en facilitaire zak
 
 1.  Het Bestuursbureau staat onder leiding van de middenmanager Bestuursbureau.   
 2.  De voorzitter wijst bij afwezigheid van meer dan twee opeenvolgende werkdagen van de middenmanager Bestuursbureau, voor die gevallen waarin de middenmanager Bestuursbureau niet wordt vervangen door de plaatsvervangend voorzitter, de middenmanager Geschilbeslechting (schaal 14) aan om op te treden als waarnemer van de middenmanager Bestuursbureau. In afwijking hiervan kan de voorzitter, in het belang van de continuïteit van de dienstverlening van de huurcommissie, een andere functionaris aanwijzen die optreedt als waarnemend middenmanager Bestuursbureau.   
-3.  Aanwijzing van een waarnemer als bedoeld in het tweede lid geschiedt schriftelijk.   
+3.  Aanwijzing van een waarnemer als bedoeld in het tweede lid geschiedt schriftelijk.  
 
 ### Artikel  8  
 
@@ -178,7 +178,7 @@ f. coördineren van en adviseren over inzet van strategische communicatie en com
 
 g. onderhouden van de website van de Huurcommissie; en  
 
-h. bieden van ondersteuning bij woordvoerderschap en persvoorlichting.     
+h. bieden van ondersteuning bij woordvoerderschap en persvoorlichting.    
 
 ### Artikel  9  
 
@@ -194,7 +194,7 @@ c. periodiek en ad hoc beoordelen van bedrijfsresultaten in het licht van de ext
 
 d. jaarlijks opstellen van een controlplan als onderdeel van het jaarplan; en  
 
-e. gevraagd en ongevraagd adviseren van de voorzitter over de bedrijfsvoering.    
+e. gevraagd en ongevraagd adviseren van de voorzitter over de bedrijfsvoering.   
 
 ### §  5  
 
@@ -206,7 +206,7 @@ e. gevraagd en ongevraagd adviseren van de voorzitter over de bedrijfsvoering.
 
 1.  Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst.   
 2.  Het Organisatiebesluit dienst van de huurcommissie en het Organisatiebesluit dienst van de huurcommissie 2012 worden ingetrokken.   
-3.  Dit besluit wordt aangehaald als: Organisatiebesluit dienst van de huurcommissie 2013.   
+3.  Dit besluit wordt aangehaald als: Organisatiebesluit dienst van de huurcommissie 2013.  
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
