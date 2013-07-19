@@ -3,9 +3,9 @@
 ##Verordening van de Sociaal-Economische Raad van 22 maart 2002, houdende regelen omtrent de samenstelling, de werkwijze en het voorzitterschap van de bedrijfscommissies (Verordening op de bedrijfscommissies 2002)
 
 De Sociaal-Economische Raad;  
-Gelet op [artikel 36 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 36 van de Wet op de bedrijfsorganisatie;
 
-Gelet op [artikel 39 van de Wet op de ondernemingsraden](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);
+Gelet op artikel 39 van de Wet op de ondernemingsraden;
 
 Gehoord de Bestuurskamer;
 Besluit:     
@@ -18,8 +18,8 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
-| a.  | de wet:  | de [Wet op de ondernemingsraden](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);  |
+|---|---|---|
+| a.  | de wet:  | de Wet op de ondernemingsraden;  |
 | b.  | de Minister:  | de Minister van Sociale Zaken en Werkgelegenheid;  |
 | c.  | de Raad:  | de Sociaal-Economische Raad.  |
 
@@ -32,7 +32,7 @@ In deze verordening wordt verstaan onder:
 1.  De leden en de plaatsvervangende leden van een bedrijfscommissie worden benoemd voor een zittingsperiode van vier jaar. Zij treden tegelijk af en kunnen terstond opnieuw worden benoemd.   
 2.  Het tijdstip waarop de eerste zittingsperiode aanvangt, wordt bepaald door de Raad.   
 3.  Hij die tot lid of tot plaatsvervangend lid van een bedrijfscommissie is benoemd ter vervulling van een tussentijds opengevallen plaats, treedt af op het tijdstip waarop degene, in wiens plaats hij is benoemd, had moeten aftreden.   
-4.  Ten minste zes maanden voor het begin van iedere zittingsperiode wint de Raad het advies in van de bedrijfscommissie inzake de vraag of er grond bestaat wijziging te brengen in de krachtens [artikel 38 van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) door de Raad gedane aanwijzing van organisaties dan wel bepaling van het aantal leden dat elke aangewezen organisatie kan benoemen. Van het inwinnen van het advies wordt door de Raad mededeling gedaan in het Mededelingenblad Bedrijfsorganisatie.   
+4.  Ten minste zes maanden voor het begin van iedere zittingsperiode wint de Raad het advies in van de bedrijfscommissie inzake de vraag of er grond bestaat wijziging te brengen in de krachtens artikel 38 van de wet door de Raad gedane aanwijzing van organisaties dan wel bepaling van het aantal leden dat elke aangewezen organisatie kan benoemen. Van het inwinnen van het advies wordt door de Raad mededeling gedaan in het Mededelingenblad Bedrijfsorganisatie.   
 
 ### Artikel  3  
 
@@ -46,11 +46,12 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  5  
 
-Een bedrijfscommissie kan al dan niet uit haar midden commissies of kamers instellen. Aan deze commissies of kamers kunnen, geheel of gedeeltelijk en al dan niet voorwaardelijk, bevoegdheden van de bedrijfscommissie worden overgedragen.  
+1.  Een bedrijfscommissie kan al dan niet uit haar midden commissies of kamers instellen. Aan deze commissies of kamers kunnen, geheel of gedeeltelijk en al dan niet voorwaardelijk, bevoegdheden van de bedrijfscommissie worden overgedragen.   
+2.  Elke bedrijfscommissie stelt, al dan niet gezamenlijk met een andere bedrijfscommissie, een scholingskamer in ter behandeling van vragen en geschillen over artikel 18, tweede en derde lid, en artikel 22, derde en vierde lid, van de wet.   
 
 ### Artikel  6  
 
-Een bedrijfscommissie voorziet in de waarneming van haar secretariaat. Van de zetel van het secretariaat alsmede van wijzigingen daarin doet de bedrijfscommissie mededeling aan de Raad.  
+De Raad draagt de kosten en voorziet in de secretariële ondersteuning van de bedrijfscommissies.  
 
 ### §  3  
 
@@ -90,21 +91,35 @@ De leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die
 1.  Bij staking van stemmen in een voltallige vergadering wordt, indien het zaken betreft, het voorstel geacht niet te zijn aangenomen, en beslist, indien het personen betreft, het lot.   
 2.  Rij staking van stemmen in een andere dan een voltallig vergadering wordt het nemen van een besluit tot een volgende vergadering uitgesteld, waarin de beraadslagingen kunnen worden heropend. Indien de stemmen dan opnieuw staken, is het eerste lid van overeenkomstige toepassing.   
 
+### Artikel  13a  
+
+1.  Iedere belanghebbende kan de bedrijfscommissie verzoeken te bemiddelen in geschillen met de ondernemer of de ondernemingsraad over de naleving door de ondernemer of de ondernemingsraad van hetgeen bij of krachtens de wet is bepaald omtrent het instellen of in stand houden van een ondernemingsraad, het vaststellen van een voorlopig of een definitief reglement van de ondernemingsraad, de kandidaatstelling voor en de verkiezing van de leden van de ondernemingsraad, alsmede omtrent het bekend maken van agenda's en verslagen van vergaderingen, een en ander voor zover dit van de ondernemer of de ondernemingsraad afhangt.   
+2.  De ondernemingsraad en de ondernemer kunnen de bedrijfscommissie verzoeken te bemiddelen in geschillen over de naleving door de ondernemer, onderscheidenlijk de ondernemingsraad, van hetgeen overigens bij of krachtens de wet is bepaald, een en ander voor zover dit van de ondernemer onderscheidenlijk de ondernemingsraad afhangt.   
+3.  Een verzoek aan de bedrijfscommissie kan niet-ontvankelijk worden verklaard indien het geschil eveneens is voorgelegd aan een gerechtelijke instantie.   
+4.  Een verzoek aan de bedrijfscommissie kan niet-ontvankelijk worden verklaard indien het geschil eveneens is voorgelegd aan haar scholingskamer.   
+5.  Een verzoek om bemiddeling wordt schriftelijk gedaan. Onder schriftelijk wordt mede verstaan een langs elektronische weg toegezonden en reproduceerbaar bericht.   
+6.  De bedrijfscommissie stelt de wederpartij in de gelegenheid omtrent het verzoek te worden gehoord.   
+7.  De bedrijfscommissie tracht een minnelijke schikking tussen partijen tot stand te brengen.   
+8.  Indien geen minnelijke schikking wordt bereikt, brengt de bedrijfscommissie aan partijen schriftelijk verslag van haar bevindingen uit met een advies omtrent de oplossing van het geschil.   
+9.  De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van de naleving van hetgeen bij of krachtens de wet is bepaald met betrekking tot een centrale ondernemingsraad, een groepsondernemingsraad en een personeelsvertegenwoordiging.   
+
 ### Artikel  14  
 
-1.  Na ontvangst van een verzoek om bemiddeling als bedoeld in [artikel 36, derde lid, van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), gaat de bedrijfscommissie na of zij bevoegd is om van het verzoek kennis te nemen en of het verzoek voldoende is omschreven, gemotiveerd en gedocumenteerd.   
+1.  Na ontvangst van een verzoek om bemiddeling als bedoeld in artikel 13a gaat de bedrijfscommissie na of zij bevoegd is om van het verzoek kennis te nemen en of het verzoek voldoende is omschreven, gemotiveerd en gedocumenteerd.   
 2.  De bedrijfscommissie zendt een verzoek als bedoeld in het eerste lid, tot behandeling waarvan kennelijk een andere bedrijfscommissie bevoegd is, onverwijld door naar die commissie, onder gelijktijdige mededeling daarvan aan de verzoeker.   
 3.  Verklaart de bedrijfscommissie zich onbevoegd op een andere grond dan in het tweede lid bedoeld, of verklaart zij de verzoeker niet ontvankelijk, dan geeft zij daarvan onverwijld een gemotiveerde mededeling aan de verzoeker.   
 4.  Acht de bedrijfscommissie een verzoek onvoldoende omschreven, gemotiveerd of gedocumenteerd, dan bericht zij aan verzoeker op welke punten en met welke documenten deze zijn verzoek dient aan te vullen. Zij stelt daarbij aan de verzoeker een termijn. Een verzoek om bemiddeling is in ieder geval onvoldoende gemotiveerd, wanneer de verzoeker daarin niet zijn zienswijze weergeeft op hetgeen blijkens de door hem overgelegde documenten zijn wederpartij in het geschil schriftelijk heeft aangevoerd.   
-5.  De termijn waarbinnen een bedrijfscommissie overeenkomstig [artikel 36, derde lid, van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), schriftelijk verslag van haar bevindingen dient uit te brengen, vangt aan op de dag waarop het verzoek bij de bevoegde bedrijfscommissie is ontvangen, maar wordt opgeschort met ingang van de dag waarop een bedrijfscommissie krachtens het vierde lid de verzoeker uitnodigt het verzoek aan te vullen, tot de dag waarop het verzoek is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken.   
-6.  Acht de bedrijfscommissie zich bevoegd en acht zij het verzoek voldoende omschreven, gemotiveerd en gedocumenteerd, dan doet zij daarvan mededeling aan de verzoeker en diens wederpartij, en informeert hen daarbij over de procedure en de vermoedelijke duur daarvan, alsmede de aanvang van de termijn, bedoeld in het vijfde lid, en de eventuele opschorting daarvan.   
-7.  Onverminderd [artikel 36, derde lid, laatste volzin, van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) verlengt de bedrijfscommissie de termijn in elk geval indien een van de partijen zulks verzoekt en de andere partij daarmee instemt.   
-8.  Indien de bedrijfscommissie er niet in slaagt het schriftelijk verslag binnen de wettelijk bepaalde uiterste termijn uit te brengen, stelt zij beide partijen daarvan zo spoedig mogelijk in kennis.   
+5.  De bedrijfscommissie brengt het schriftelijke verslag van haar bevindingen als bedoeld in artikel 13a, achtste lid, uit binnen twee maanden nadat haar bemiddeling is gevraagd.   
+6.  De bedrijfscommissie kan de termijn van twee maanden, bedoeld in het vijfde lid, met instemming van beide partijen voor ten hoogste twee maanden verlengen.   
+7.  De termijn van twee maanden, bedoeld in het vijfde lid, vangt aan op de dag waarop het verzoek bij de bevoegde bedrijfscommissie is ontvangen, maar wordt opgeschort met ingang van de dag waarop een bedrijfscommissie krachtens het vierde lid de verzoeker uitnodigt het verzoek aan te vullen, tot de dag waarop het verzoek is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken.   
+8.  Acht de bedrijfscommissie zich bevoegd en acht zij het verzoek voldoende omschreven, gemotiveerd en gedocumenteerd, dan doet zij daarvan mededeling aan de verzoeker en diens wederpartij, en informeert hen daarbij over de procedure en de vermoedelijke duur daarvan, alsmede de aanvang van de termijn, bedoeld in het zevende lid, en de eventuele opschorting daarvan.   
+9.  Onverminderd het zesde lid verlengt de bedrijfscommissie de termijn in elk geval indien een van de partijen zulks verzoekt en de andere partij daarmee instemt.   
+10.  Indien de bedrijfscommissie er niet in slaagt het schriftelijk verslag binnen de in het vijfde tot en met negende lid bepaalde uiterste termijn uit te brengen, stelt zij beide partijen daarvan zo spoedig mogelijk in kennis.   
 
 ### Artikel  15  
 
-1.  Aangaande de wijze waarop zij, gelet op de betrokken omstandigheden, tussen de partijen in het geschil zal bemiddelen, beslist de bedrijfscommissie naar eigen oordeel, met dien verstande dat zij daarbij het bepaalde in [artikel 36, derde lid, van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) in acht neemt en voorts de partijen in de gelegenheid stelt hun standpunten op een hoorzitting toe te lichten.   
-2.  Het schriftelijk verslag dat de bedrijfscommissie overeenkomstig [artikel 36, derde lid, van de wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) opmaakt van de bevindingen waartoe zij bij haar bemiddeling is gekomen, bevat ten minste de volgende onderdelen: 
+1.  Aangaande de wijze waarop zij, gelet op de betrokken omstandigheden, tussen de partijen in het geschil zal bemiddelen, beslist de bedrijfscommissie naar eigen oordeel, met dien verstande dat zij daarbij het bepaalde in de artikelen 13a en 14 in acht neemt en voorts de partijen in de gelegenheid stelt hun standpunten op een hoorzitting toe te lichten.   
+2.  Het schriftelijk verslag dat de bedrijfscommissie overeenkomstig artikel 13a, achtste lid opmaakt van de bevindingen waartoe zij bij haar bemiddeling is gekomen, bevat ten minste de volgende onderdelen: 
 
 de datum waarop de bemiddeling is gevraagd;  
 
@@ -123,32 +138,38 @@ de datum van het verslag.
 
 Een bedrijfscommissie dient de Minister en de Raad en zijn commissies desgevraagd of uit eigen beweging van bericht en advies over alle zaken haar werkterrein betreffende.  
 
-### Artikel  17  
-
-1.  De bedrijfscommissie houdt een register bij van de tot haar werkterrein behorende ondernemingen waarvoor met inachtneming van de [wet](../../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) een ondernemingsraad is ingesteld. Onder ‘ondernemingsraad’ wordt mede verstaan: centrale ondernemingsraad en groeps ondernemingsraad.   
-2.  Bij elke inschrijving van een onderneming in dit register worden vermeld: 
-
-naam en adres van de onderneming;  
-
-naam van de ondernemer die de onderneming in stand houdt;  
-
-datum waarop de bedrijfscommissie het voorlopige reglement respectievelijk het reglement van de ondernemingsraad heeft ontvangen;  
-
-datum waarop de bedrijfscommissie wijzigingen van het reglement heeft ontvangen.     
-3.  De bedrijfscommissie deelt aan een ieder desgevraagd schriftelijk mede of voor een tot haar werkterrein behorende onderneming een ondernemingsraad is ingesteld.   
-4.  De bedrijfscommissie verschaft desgevraagd inzage in het register aan de Minister, aan de Raad, alsmede aan de centrale organisaties van ondernemers en van werknemers.   
-
 ### Artikel  18  
 
 Een bedrijfscommissie brengt jaarlijks voor 1 april aan de Minister en de Raad verslag uit van haar werkzaamheden in het afgelopen kalenderjaar. Het verslag wordt door de bedrijfscommissie, zonodig tegen betaling van de kosten, algemeen verkrijgbaar gesteld.  
 
-### Artikel  19  
+### §  3a  
 
-Een bedrijfscommissie kan nadere regelen stellen over haar werkwijze. Deze regelen behoeven de goedkeuring van de Raad.  
+####Bijzondere procedure scholingskamer
+
+### Artikel  18a  
+
+De ondernemingsraad en de ondernemer kunnen, al dan niet gezamenlijk, vragen over artikel 18, tweede en derde lid, en artikel 22, derde en vierde lid, van de wet en geschillen over deze artikelen voorleggen aan de scholingskamer. Het in de vorige zin bepaalde is van overeenkomstige toepassing voor een centrale ondernemingsraad en een groepsondernemingsraad.  
+
+### Artikel  18b  
+
+De in artikel 18a bedoelde vragen worden binnen een week beantwoord. Bij vragen over de hoogte van kosten van scholing en vorming, betrekt de scholingskamer in haar oordeel de richtbedragen zoals die jaarlijks worden vastgesteld door de Raad.  
+
+### Artikel  18c  
+
+1.  Een geschil als bedoeld in artikel 18a wordt schriftelijk aanhangig gemaakt. Onder schriftelijk wordt mede verstaan een langs elektronische weg toegezonden en reproduceerbaar bericht.   
+2.  De scholingskamer stelt de wederpartij in de gelegenheid zijn standpunt ten aanzien van het voorgelegde geschil kenbaar te maken.   
+3.  De scholingskamer brengt binnen drie weken na de indiening van het geschil schriftelijk haar verslag van bevindingen uit waarin opgenomen haar oordeel omtrent de beslechting van het geschil.   
+4.  In afwijking van het derde lid belegt de scholingskamer, indien zij van oordeel is dat voor de behandeling van het voorgelegde geschil een zitting nodig is in aanwezigheid van partijen, zo spoedig mogelijk doch niet later dan vier weken na indiening van het geschil een zitting, waartoe partijen worden uitgenodigd. Binnen twee weken na de zitting brengt de scholingskamer schriftelijk haar verslag van bevindingen uit waarin opgenomen haar oordeel omtrent de beslechting van het geschil.   
+5.  Met instemming van beide partijen kan de termijn voor het uitbrengen van het schriftelijke verslag van bevindingen als bedoeld in het derde en het vierde lid met maximaal drie weken worden verlengd.   
 
 ### §  4  
 
 ####Overgangs- en slotbepalingen
+
+### Artikel  19  
+
+1.  Een bedrijfscommissie kan nadere regelen stellen over haar werkwijze. Deze regelen behoeven de goedkeuring van de Raad.   
+2.  In de in het eerste lid bedoelde regelen kan worden opgenomen dat de leden van een bedrijfscommissie een vacatievergoeding kunnen ontvangen. Deze vergoeding is niet hoger dan € 200 per vergadering van de bedrijfscommissie.   
 
 ### Artikel  20  
 
