@@ -8,14 +8,14 @@ Op de voordracht van Onze Minister van Justitie van 8 juli 2005, nr. 5362278/05
 
 Gelet op artikel 10 van Richtlijn 2004/25/EG van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende het openbaar overnamebod en [artikel 391 lid 5 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
 
-De Raad van State gehoord (advies van 28 september 2005, nr. W03.05.0309/l);
+De Raad van State gehoord (advies van 28 september 2005, nr. W03.05.0309/I);
 
 Gezien het nader rapport van Onze Minister van Justitie van 28 maart 2006, Directie Wetgeving, nr. 5411517/06/6;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
-1.  In het jaarverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een op grond van [artikel 5:26 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) erkende effectenbeurs of op een in een andere lidstaat van de Europese Unie gevestigde gereglementeerde markt als bedoeld in artikel 1, onder 13, van richtlijn nr. 93/22/EEG van de raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141) , wordt mededeling gedaan omtrent: 
+1.  In het jaarverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt mededeling gedaan omtrent: 
 
 a. de kapitaalstructuur van de vennootschap, het bestaan van verschillende soorten aandelen en de daaraan verbonden rechten en plichten en het percentage van het geplaatste kapitaal dat door elke soort wordt vertegenwoordigd;  
 
@@ -39,15 +39,15 @@ j. belangrijke overeenkomsten waarbij de vennootschap partij is en die tot stand
 
 k. elke overeenkomst van de vennootschap met een bestuurder of werknemer die voorziet in een uitkering bij beëindiging van het dienstverband naar aanleiding van een openbaar bod in de zin van [artikel 5:70 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
 2.  Een toelichtend verslag omtrent de mededelingen bedoeld in het eerste lid wordt opgenomen in het jaarverslag.   
-3.  Het eerste lid is niet van toepassing op een beleggingsmaatschappij in de zin van [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij direct of indirect worden ingekocht of terugbetaald.   
+3.  Het eerste lid is niet van toepassing op een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten in de zin van [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten direct of indirect worden ingekocht of terugbetaald.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit artikel 10 overnamerichtlijn.  
+Dit besluit wordt aangehaald als: Besluit artikel 10 overnamerichtlijn. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

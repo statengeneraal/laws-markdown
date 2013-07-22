@@ -29,15 +29,15 @@ b. Lijst: de opsomming van personen, groepen en entiteiten, neergelegd in:
 
 c. Financiële onderneming: 
 
-1° een kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+1°.  een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-2° een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+2° een verzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
 
-3° een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+3° een beleggingsinstelling of icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
 
-4° een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+4° een beleggingsonderneming als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); 
 
-5° een bemiddelaar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die bemiddelt in verzekeringen;  
+5° een bemiddelaar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die bemiddelt in verzekeringen; 
 
 6° een natuurlijke persoon, rechtspersoon of vennootschap die beroeps- of bedrijfsmatig ten behoeve van of op verzoek van een ander munten of bankbiljetten wisselt, munten of bankbiljetten uitbetaald, tegen inlevering van een of meer cheques of munten of bankbiljetten uitbetaald op vertoon van een creditcard;  
 
@@ -57,7 +57,7 @@ d. Financiële dienst: het door een financiële onderneming in of vanuit Nederla
 
 5° verlenen van een dienst als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet inzake de geldtransactiekantoren](../../../../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md);  
 
-6° sluiten van een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tegen een premie als bedoeld in [dat artikel](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), alsmede het daarbij bemiddelen als bedoeld in [dat artikel](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+6° sluiten van een overeenkomst van levensverzekering als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tegen een premie als bedoeld in dat artikel, alsmede het daarbij bemiddelen als bedoeld in dat artikel;  
 
 7° doen van een uitkering uit hoofde van een levensverzekeringsovereenkomst als bedoeld onder 6°;  
 
@@ -65,11 +65,11 @@ d. Financiële dienst: het door een financiële onderneming in of vanuit Nederla
 
 9° verlenen van een dienst ter zake van een transactie of van kennelijk met elkaar samenhangende transacties;    
 
-e. Transactie: een handeling of samenstel van handelingen van of ten behoeve van een cliënt in verband met het afnemen van één of meer financiële diensten.    
+e. Transactie: een handeling of samenstel van handelingen van of ten behoeve van een cliënt in verband met het afnemen van één of meer financiële diensten.   
 
 ### Artikel  2  
 
-Een financiële onderneming doet van elk verzoek om een financiële dienst te verrichten waarbij als wederpartij optreedt, dan wel op andere wijze betrokken is, een natuurlijke persoon, rechtspersoon, groep of entiteit die is vermeld op de lijst, melding aan het meldpunt.  
+Een financiële onderneming doet van elk verzoek om een financiële dienst te verrichten waarbij als wederpartij optreedt, dan wel op andere wijze betrokken is, een natuurlijke persoon, rechtspersoon, groep of entiteit die is vermeld op de lijst, melding aan het meldpunt. 
 
 ### Artikel  3  
 
@@ -81,16 +81,16 @@ b. de identiteit van de natuurlijke of rechtspersoon, groep of entiteit voor of 
 
 c. de aard, het tijdstip en de plaats van de te verrichten financiële dienst; en  
 
-d. de omvang en de herkomst van de bij de financiële dienst betrokken gelden, effecten, edele metalen of andere waarden.    
+d. de omvang en de herkomst van de bij de financiële dienst betrokken gelden, effecten, edele metalen of andere waarden.   
 
 ### Artikel  4  
 
 1.  Het meldpunt is bevoegd bij degene die een melding heeft gedaan, alsmede bij degene die bij een financiële dienst als bedoeld in artikel 1, onderdeel d, onder 8°, bij een transactie is betrokken waarover het meldpunt gegevens heeft verzameld, nadere gegevens of inlichtingen te vragen, teneinde te kunnen beoordelen of verzamelde gegevens dienen te worden verstrekt op grond van zijn taak bedoeld in [artikel 13, onderdeel b, van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).   
-2.  Degene aan wie overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, is verplicht deze aan het meldpunt schriftelijk, alsmede in spoedeisende gevallen mondeling, te verstrekken binnen de door het meldpunt gestelde termijn.   
+2.  Degene aan wie overeenkomstig het eerste lid deze gegevens of inlichtingen zijn gevraagd, is verplicht deze aan het meldpunt schriftelijk, alsmede in spoedeisende gevallen mondeling, te verstrekken binnen de door het meldpunt gestelde termijn.  
 
 ### Artikel  5  
 
-Degene die ingevolge artikel 2 een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit.  
+Degene die ingevolge artikel 2 een melding doet, is verplicht tot geheimhouding daarvan, onverminderd het bepaalde in [artikel 10 van de Sanctiewet 1977](../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), behoudens voor zover uit de doelstelling van dit besluit de noodzaak tot bekendmaking voortvloeit. 
 
 ### Artikel  6  
 

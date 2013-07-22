@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van dit besluit wordt onder een organisatie van openbaar belang verstaan een organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md).  
+Voor de toepassing van dit besluit wordt onder een organisatie van openbaar belang verstaan een organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md). 
 
 ### Artikel  2  
 
@@ -29,7 +29,7 @@ b. het monitoren van de doeltreffendheid van het interne beheersingssysteem, het
 
 c. het monitoren van de wettelijke controle van de jaarrekening en de geconsolideerde jaarrekening;  
 
-d. het beoordelen en monitoren van de onafhankelijkheid van de externe accountant of het accountantskantoor, waarbij met name wordt gelet op de verlening van nevendiensten aan de gecontroleerde entiteit.    Tenminste één lid van het orgaan is onafhankelijk in de zin van best practice bepaling III.2.2 van de code als bedoeld in het tweede lid. In het jaarverslag wordt opgave gedaan van het aangewezen orgaan en de samenstelling daarvan.  
+d. het beoordelen en monitoren van de onafhankelijkheid van de externe accountant of het accountantskantoor, waarbij met name wordt gelet op de verlening van nevendiensten aan de gecontroleerde entiteit.    Tenminste één lid van het orgaan is onafhankelijk in de zin van best practice bepaling III.2.2 van de code als bedoeld in het tweede lid. In het jaarverslag wordt opgave gedaan van het aangewezen orgaan en de samenstelling daarvan. 
 
 ### Artikel  3  
 
@@ -39,17 +39,17 @@ a. een dochtermaatschappij als bedoeld in [artikel 24a, eerste lid, van boek 2 v
 
 b. een bank waarop een vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is indien een centrale kredietinstelling de in artikel 2, derde lid, onder a. tot en met d. genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;  
 
-c. een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die is opgenomen in het register als bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+c. een beleggingsinstelling of icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die is opgenomen in het register als bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-d. een entiteit voor securisatiedoeleinden als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), mits de onderneming aan het publiek bekent maakt waarom zij het niet dienstig acht een auditcommissie in te stellen, of een orgaan aan te wijzen in de zin van artikel 2, derde lid.    
+d. een entiteit voor securisatiedoeleinden als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), mits de onderneming aan het publiek bekent maakt waarom zij het niet dienstig acht een auditcommissie in te stellen, of een orgaan aan te wijzen in de zin van artikel 2, derde lid.   
 
 ### Artikel  4  
 
-Dit besluit is van toepassing op een jaarverslag dat betrekking heeft op een boekjaar dat aanvangt op of na 1 januari 2008.  
+Dit besluit is van toepassing op een jaarverslag dat betrekking heeft op een boekjaar dat aanvangt op of na 1 januari 2008. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -62,5 +62,5 @@ E. M. H. Hirsch Ballin
 
 de *zevende* augustus 2008 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    
