@@ -12,7 +12,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *wet:* de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. *wet:* de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 b. *minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het opleidingen op het gebied van landbouw en natuurlijke omgeving betreft, de Minister van Landbouw, Natuur en Voedselkwaliteit;  
 
@@ -32,11 +32,15 @@ Er is een Commissie Doelmatigheid Hoger Onderwijs.
 
 De commissie heeft tot taak: 
 
-1. Het op grond van de [artikelen 6.2](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [7.3a, tweede lid onder b en derde lid](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en [7.17, tweede en derde lid, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) beoordelen van aanvragen macrodoelmatigheid hoger onderwijs over te verzorgen nieuwe opleidingen, de vestiging of de verplaatsing van een opleiding of een gedeelte van een opleiding naar een andere gemeente dan die waar de opleiding blijkens het Centraal register hoger onderwijs (Croho) is gevestigd of de samenvoeging van bestaande opleidingen.  
+1. Het op grond van de artikelen 6.2, 7.3a, tweede lid onder b en derde lid, en 7.17, tweede en derde lid, van de wet beoordelen van aanvragen macrodoelmatigheid hoger onderwijs over te verzorgen nieuwe opleidingen, de vestiging of de verplaatsing van een opleiding of een gedeelte van een opleiding naar een andere gemeente dan die waar de opleiding blijkens het Centraal register hoger onderwijs (Croho) is gevestigd of de samenvoeging van bestaande opleidingen.  
 
 2. Het uitbrengen van een advies over de onder a bedoelde beoordelingen aan de minister. De commissie beoordeelt de aanvragen aan de hand van het door de minister in de Beleidsregel doelmatigheid hoger onderwijs vastgestelde beoordelingskader.  
 
-3. Het desgevraagd uitbrengen van advies aan de minister in het kader van besluitvorming over het ontnemen van de rechten aan een opleiding op grond van [artikel 6.5, eerste lid onder a, van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en het opheffen van een vestigingsplaats van een opleiding op grond van [artikel 7.17a, eerste lid van de wet](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).    
+3. Het desgevraagd uitbrengen van advies aan de minister in het kader van besluitvorming over het ontnemen van de rechten aan een opleiding op grond van artikel 6.5, eerste lid onder a, van de wet en het opheffen van een vestigingsplaats van een opleiding op grond van artikel 7.17a, eerste lid van de wet.  
+
+4. Het uitbrengen van advies aan de Minister over aanvragen gedaan op grond van artikel 16.16b van de WHW. De commissie beoordeelt een aanvraag als bedoeld in de vorige volzin aan de hand van de toetscriteria, genoemd in hoofdstuk 4, paragraaf 5 en 6 van de Regeling fusietoets in het onderwijs.  
+
+5. Het uitbrengen van advies aan de Minister overeenkomstig het vierde lid in geval van intersectorale bestuurlijke fusie door rechtspersonen in het voortgezet onderwijs of rechtspersonen in het beroepsonderwijs en volwasseneneducatie en rechtspersonen in het hoger onderwijs.    
 
 ### Artikel  4  
 
@@ -49,30 +53,7 @@ De commissie heeft tot taak:
 
 ####Lidmaatschap
 
-1.  De commissie, inclusief voorzitter, bestaat uit minimaal 5 en maximaal 7 leden.   
-2.  De leden worden door de minister benoemd voor een periode van vier jaar. Zij zijn eenmaal herbenoembaar.   
-3.  Een lid van de commissie kan niet tevens lid van het college van bestuur van een bekostigde universiteit of bekostigde hogeschool zijn.   
-4.  In het geval een commissielid tevens werknemer of toezichthouder is of anderszins betrokken is bij een universiteit of hogeschool, zal hij of zij niet worden belast met de behandeling van zaken waarbij die universiteit of hogeschool een belang heeft of kan hebben en waarbij zijn onpartijdigheid in het geding kan zijn. In dit geval onthoudt het betreffende commissielid zich van stemming bij de plenaire vaststelling van een advies van de commissie.   
-
-### Artikel  6  
-
-####Leden
-
-Tot leden van de commissie worden benoemd: 
-
-1. de heer drs. N. M. Verbraak, tevens voorzitter,  
-
-2. mevrouw mr. R.G.K. Voss,  
-
-3. de heer dr. A Mosterd,  
-
-4. de heer ir. F. Kuipers,  
-
-5. de heer prof. dr. J. A. Bruijn,  
-
-6. de heer mr. E.M. d’Hondt,  
-
-7. mevrouw J.G. Stam.    
+De leden van de commissie worden door de minister benoemd en ontslagen. De leden worden benoemd voor een periode van ten hoogste vier jaar. Zij zijn slechts eenmaal herbenoembaar.  
 
 ### Artikel  7  
 
@@ -82,7 +63,7 @@ Tot leden van de commissie worden benoemd:
 2.  Indien in geval van besluitvorming over aanvragen de stemmen staken, geeft de stem van de voorzitter de doorslag.   
 3.  De commissie brengt binnen een termijn van 6 weken na indiening van de aanvraag advies uit aan de minister.   
 4.  Indien de commissie niet binnen de in het vorig lid genoemde termijn een advies kan uitbrengen, stelt de voorzitter van de commissie de minister daarvan in kennis en noemt daarbij een zo kort mogelijke termijn waarbinnen het advies tegemoet gezien kan worden.   
-5.  De voorzitter van de commissie is gemachtigd om namens de minister toepassing te geven aan [artikel 4.14 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) waar het besluitvorming door de minister betreft.   
+5.  De voorzitter van de commissie is gemachtigd om namens de minister toepassing te geven aan artikel 4.14 van de Algemene wet bestuursrecht waar het besluitvorming door de minister betreft.   
 6.  De commissie benoemt uit haar midden een vice-voorzitter die bij afwezigheid van de voorzitter in diens rechten treedt.   
 7.  De voorzitter kan in voorkomende gevallen expertise van derden inroepen, voor zover dat valt binnen het daarvoor door de minister goedgekeurde begrote bedrag. Indien dit bedrag ontoereikend is, dient voorafgaand aan het inroepen van derden, toestemming van de minister verkregen te worden.   
 8.  De commissie doet verslag van haar werkzaamheden aan de minister in een jaarlijks te publiceren verslag.   
@@ -103,8 +84,8 @@ De minister voorziet in het secretariaat van de commissie en treft voorzieningen
 a. De kosten voor vergaderingen en (administratieve) ondersteuning;  
 
 b. De kosten voor het secretariaat van de commissie.     
-2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor de voorzitter en de andere leden is maximaal 0,24, respectievelijk 0,125.   
-3.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md). Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.   
+2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor de voorzitter en de andere leden is maximaal 0,24, respectievelijk 0,125.   
+3.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het Reisbesluit binnenland en het Reisbesluit buitenland. Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.   
 4.  De NVAO treedt voor wat betreft de begroting en verantwoording op als penvoerder van de commissie.   
 5.  De NVAO biedt, als penvoerder van de commissie, zo spoedig mogelijk na de instelling van de commissie c.q. jaarlijks voor 1 april de begroting voor het daaropvolgende jaar aan de minister aan.   
 6.  De NVAO biedt, als penvoerder van de commissie, de minister jaarlijks voor 1 juli een financiële verantwoording aan.   

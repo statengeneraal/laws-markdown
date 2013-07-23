@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Vaststelling model werkrooster en werklijst voor zeevarenden
+##Regeling werkrooster en werklijst zeevarenden
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op de artikelen 6.4:1, tweede lid, en 6.4:2, [vierde lid](../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), van het [Arbeidstijdenbesluit vervoer](../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Als model voor de werklijst, bedoeld in artikel 6.4:2, [eerste lid](../../../../
 
 ### Artikel  3  
 
-Het werkrooster en de werklijst worden volledig en duidelijk leesbaar ingevuld met vulpen, balpen of schrijfmachine. Op de werklijst wordt in de kolom ’opmerkingen’ in elk geval melding gemaakt van het verrichten van bergingswerkzaamheden en van de gevallen waarin een jeugdige schepeling heeft wachtgelopen dan wel arbeid heeft verricht tussen 00.00 en 05.00 uur.  
+Het werkrooster en de werklijst worden volledig en duidelijk leesbaar ingevuld. Op de werklijst wordt melding gemaakt van het verrichten van bergingswerkzaamheden en van de gevallen waarin een jeugdige zeevarende heeft wachtgelopen dan wel arbeid heeft verricht tussen 00.00 en 05.00 uur. 
 
 ### Artikel  4  
 
@@ -24,19 +24,19 @@ De toezichthoudende ambtenaren kunnen de kapitein aanwijzingen geven met betrekk
 
 ### Artikel  5  
 
-Deze regeling treedt inwerking met ingang van 1 december 1998.  
+Deze regeling wordt aangehaald als: Regeling werkrooster en werklijst zeevarenden. 
 Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos   
+T. Netelenbos     
 
-### Bijlage  1  
+### Bijlage 1  
 
-![30650](http://wetten.overheid.nl/Illustration/30650)
+![251281](http://wetten.overheid.nl/Illustration/251281)
 
-### Bijlage  2  
+### Bijlage 2  
 
-![30652](http://wetten.overheid.nl/Illustration/30652)
-![30652](http://wetten.overheid.nl/Illustration/30652)
+![251282](http://wetten.overheid.nl/Illustration/251282)
+![251283](http://wetten.overheid.nl/Illustration/251283)
 

@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder 
 
-a. *politieke gezagdrager:* gezaghebber, eilandgedeputeerde, lid van de eilandsraad van een openbaar lichaam en lid van een commissie als bedoeld in de [artikelen 117](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);  
+a.  *politieke gezagdrager:* gezaghebber, eilandgedeputeerde, lid van de eilandsraad van een openbaar lichaam en lid van een commissie als bedoeld in de [artikelen 117](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [118 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);  
 
-b. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+b.  *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-c. *inwonertal:* het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.    
+c.  *inwonertal:* het aantal inwoners volgens de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers per 1 januari.   
 
 ### §  2  
 
@@ -45,16 +45,16 @@ De openbare lichamen worden ten behoeve van de vaststelling van de bezoldiging v
 ### Artikel  3  
 
 1.  Wegens bijzondere omstandigheden kan Onze Minister, de eilandsraad gehoord, een openbaar lichaam voor de toepassing van artikel 6 voor een bepaald tijdvak een of twee klassen hoger plaatsen dan die, waartoe het op grond van zijn inwonertal behoort.   
-2.  Onze Minister kan na afloop van het tijdvak, bedoeld in het eerste lid, een nieuw tijdvak vaststellen.   
+2.  Onze Minister kan na afloop van het tijdvak, bedoeld in het eerste lid, een nieuw tijdvak vaststellen.  
 
 ### Artikel  4  
 
 1.  De overgang van een openbaar lichaam naar een hogere klasse in verband met toeneming van het inwonertal vindt plaats met ingang van het jaar waarin op 1 januari het inwonertal van dat openbaar lichaam de minimumgrens van de volgende klasse heeft bereikt en blijkt dat het die grens ook heeft bereikt op 1 januari van het volgende jaar.   
-2.  De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal vindt plaats met ingang van het jaar waarin het inwonertal van het openbaar lichaam op 1 januari voor de tweede achtereenvolgende maal beneden de minimumgrens van de klasse, waarin het openbaar lichaam tot dan toe was ingedeeld, gedaald is.   
+2.  De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal vindt plaats met ingang van het jaar waarin het inwonertal van het openbaar lichaam op 1 januari voor de tweede achtereenvolgende maal beneden de minimumgrens van de klasse, waarin het openbaar lichaam tot dan toe was ingedeeld, gedaald is.  
 
 ### Artikel  5  
 
-De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal is niet van invloed op de bezoldiging van de op het tijdstip van overgang in functie zijnde gezaghebber en eilandgedeputeerden, tot uiterlijk het tijdstip van beëindiging van het gezaghebber- of gedeputeerdenschap, of op de vergoeding voor de werkzaamheden en tegemoetkoming in de kosten daarvan van de op het tijdstip van overgang zittende leden van de eilandsraad tot hun aftreden.  
+De overgang van een openbaar lichaam naar een lagere klasse in verband met vermindering van het inwonertal is niet van invloed op de bezoldiging van de op het tijdstip van overgang in functie zijnde gezaghebber en eilandgedeputeerden, tot uiterlijk het tijdstip van beëindiging van het gezaghebber- of gedeputeerdenschap, of op de vergoeding voor de werkzaamheden en tegemoetkoming in de kosten daarvan van de op het tijdstip van overgang zittende leden van de eilandsraad tot hun aftreden. 
 
 ### §  3  
 
@@ -92,15 +92,15 @@ De overgang van een openbaar lichaam naar een lagere klasse in verband met vermi
 | 4  | USD 7.732  | USD 1.258  |
 | 5  | USD 8.445  | USD 1.327  |
 
-4.  De maandelijkse uitbetaling van de bezoldiging of de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten daarvan wordt naar boven afgerond op hele dollars.   
+4.  De maandelijkse uitbetaling van de bezoldiging of de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten daarvan wordt naar boven afgerond op hele dollars.  
 
 ### Artikel  7  
 
-Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat met betrekking tot de gezaghebber of de eilandgedeputeerden de bezoldiging, of met betrekking tot de leden van de eilandsraad de maximale vergoeding voor hun werkzaamheden en de maximale tegemoetkoming in de kosten daarvan bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in artikel 6, eerste, onderscheidenlijk tweede en derde lid.  
+Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat met betrekking tot de gezaghebber of de eilandgedeputeerden de bezoldiging, of met betrekking tot de leden van de eilandsraad de maximale vergoeding voor hun werkzaamheden en de maximale tegemoetkoming in de kosten daarvan bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in artikel 6, eerste, onderscheidenlijk tweede en derde lid. 
 
 ### Artikel  8  
 
-Artikel 6 is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge [artikel Ya 13](../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [artikel X 10, eerste en tweede lid, van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten van zijn werkzaamheden de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.  
+Artikel 6 is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge [artikel Ya 13](../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [artikel X 10, eerste en tweede lid, van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten van zijn werkzaamheden de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is. 
 
 ### §  4  
 
@@ -120,7 +120,7 @@ Artikel 6 is van overeenkomstige toepassing op het lid van de eilandsraad aan wi
 
 2.  Geen vergoeding wordt verstrekt aan een lid van een commissie dat tevens lid is van de eilandsraad of aan een ambtenaar die als zodanig tot lid van een commissie is benoemd.   
 3.  Artikel 6, vierde lid, is van overeenkomstige toepassing op de vergoeding voor de leden van een commissie.   
-4.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de maximale vergoeding voor de leden van een commissie bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in het eerste lid.   
+4.  Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de maximale vergoeding voor de leden van een commissie bij ministeriële regeling op gelijke voet gewijzigd, onder nadere vaststelling van de bedragen, genoemd in het eerste lid.  
 
 ### Artikel  10  
 
@@ -128,7 +128,7 @@ Ten aanzien van een lid van een commissie als bedoeld in de [artikelen 117](../.
 
 a. die op grond van zijn bijzondere beroepsmatige deskundigheid op het taakgebied van de commissie voor deelneming aan haar werkzaamheden is aangetrokken, en  
 
-b. ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid,kan de eilandsraad bij eilandverordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de bedragen, genoemd in artikel 9, eerste lid.    
+b. ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid,kan de eilandsraad bij eilandverordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de bedragen, genoemd in artikel 9, eerste lid.   
 
 ### §  5  
 
@@ -136,15 +136,15 @@ b. ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke ver
 
 ### Artikel  11  
 
-De gezaghebber of eilandgedeputeerde van Sint Eustatius en Saba ontvangt een toelage van zestien en drietiende procent van zijn bezoldiging.  
+De gezaghebber of eilandgedeputeerde van Sint Eustatius en Saba ontvangt een toelage van zestien en drietiende procent van zijn bezoldiging. 
 
 ### Artikel  12  
 
-Indien aan de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, een eenmalige uitkering wordt toegekend, ontvangt de gezaghebber of de eilandgedeputeerde een uitkering op gelijke voet.  
+Indien aan de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat, een eenmalige uitkering wordt toegekend, ontvangt de gezaghebber of de eilandgedeputeerde een uitkering op gelijke voet. 
 
 ### Artikel  13  
 
-De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen die daaromtrent zijn vastgesteld voor de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat.  
+De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen die daaromtrent zijn vastgesteld voor de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en in dienst van de staat. 
 
 ### §  6  
 
@@ -155,7 +155,7 @@ De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkerin
 1.  De gezaghebber ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een ambtstoelage van 10% van zijn bezoldiging, bedoeld in artikel 6, eerste lid.   
 2.  De eilandgedeputeerde ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een buitengewone toelage van 6% van zijn bezoldiging, bedoeld in artikel 6, tweede lid.   
 3.  De maandelijkse uitbetaling van de toelagen, bedoeld in het eerste en tweede lid, wordt naar boven afgerond op hele dollars.   
-4.  De toelage wordt niet genoten gedurende de tijd dat de gezaghebber is geschorst.   
+4.  De toelage wordt niet genoten gedurende de tijd dat de gezaghebber is geschorst.  
 
 ### §  7  
 
@@ -171,7 +171,7 @@ De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkerin
 6.  Indien een opgave of verklaring als bedoeld in het vierde lid niet binnen zes maanden na afloop van het kalenderjaar is ontvangen, bedraagt de bezoldiging over dat kalenderjaar 65% van de bezoldiging op jaarbasis.   
 7.  De gezaghebber of de eilandgedeputeerde zendt Onze Minister, dan wel de door hem aangewezen instantie, zo spoedig mogelijk na afloop van het kalenderjaar tevens een afschrift van de aanslag voor de inkomstenbelasting over het desbetreffende kalenderjaar. Het bedrag van de uitbetaalde bezoldiging kan, al dan niet op verzoek van de gezaghebber of de eilandgedeputeerde, worden herzien, indien op grond van de onherroepelijk geworden aanslag in de inkomstenbelasting daartoe aanleiding blijkt te bestaan.   
 8.  Bij de toepassing van het vijfde, zesde en zevende lid vindt zo nodig terugbetaling of verrekening plaats.   
-9.  Dit artikel is niet van toepassing op de gezaghebber en de eilandgedeputeerde op wie [artikel 235, tweede onderscheidenlijk derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) van toepassing is.   
+9.  Dit artikel is niet van toepassing op de gezaghebber en de eilandgedeputeerde op wie [artikel 235, tweede onderscheidenlijk derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) van toepassing is.  
 
 ### §  8  
 
@@ -189,7 +189,7 @@ b. in een tijdvak van zes maanden in totaal dertig dagen of langer heeft geduurd
 
 c. in een tijdvak van twaalf maanden in totaal zestig dagen of langer heeft geduurd.   Daarnaast heeft hij aanspraak op de helft van de ambtstoelage, bedoeld in artikel 13, eerste lid.   
 4.  Op de waarnemend gezaghebber, bedoeld in het derde lid, die voor een periode van naar verwachting een jaar of langer met de waarneming zal zijn belast, is dit besluit van overeenkomstige toepassing.   
-5.  Zodra een waarnemend gezaghebber ten aanzien van wie het derde lid is toegepast zonder onderbreking één jaar het ambt van gezaghebber heeft waargenomen, wordt, met terugwerkende kracht tot en met de ingangsdatum van de waarneming in dat openbaar lichaam, alsnog het vierde lid toegepast.   
+5.  Zodra een waarnemend gezaghebber ten aanzien van wie het derde lid is toegepast zonder onderbreking één jaar het ambt van gezaghebber heeft waargenomen, wordt, met terugwerkende kracht tot en met de ingangsdatum van de waarneming in dat openbaar lichaam, alsnog het vierde lid toegepast.  
 
 ### §  9  
 
@@ -199,11 +199,11 @@ c. in een tijdvak van twaalf maanden in totaal zestig dagen of langer heeft gedu
 
 1.  Indien de gezaghebber een ambtswoning bewoont, wordt op de bezoldiging een korting toegepast van 12 procent.   
 2.  In afwijking van het eerste lid, kan Onze Minister in de gevallen waarin naar zijn oordeel daartoe aanleiding bestaat, de korting vaststellen op een lager percentage dan wel op een bepaald bedrag, mits dit eveneens minder beloopt dan 12 procent van de bezoldiging.   
-3.  Indien de gezaghebber een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens de wet en het plaatselijk gebruik ten laste van de huurder zijn.   
+3.  Indien de gezaghebber een ambtswoning bewoont, draagt hij de onderhoudskosten welke volgens de wet en het plaatselijk gebruik ten laste van de huurder zijn.  
 
 ### Artikel  18  
 
-Bij het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) eindigt de ambtsperiode van de gezaghebber.  
+Bij het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](../../../../../../wet-BES/wet/algemene/ouderdomsverzekering/bes/BWBR0028459/README.md) eindigt de ambtsperiode van de gezaghebber. 
 
 ### §  10  
 
@@ -211,15 +211,15 @@ Bij het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene o
 
 ### Artikel  19  
 
-Het [Rechtspositiebesluit gezaghebbers BES](../../../../../../AMvB-BES/rechtspositiebesluit/gezaghebbers/bes/BWBR0028526/README.md), het [Rechtspositiebesluit eilandgedeputeerden en eilandsraadsleden BES](../../../../../../AMvB-BES/rechtspositiebesluit/eilandgedeputeerden/en/eilandsraadsleden/bes/BWBR0028423/README.md) en het [Aanvullend rechtspositiebesluit eilandgedeputeerden BES](../../../../../../AMvB-BES/aanvullend/rechtspositiebesluit/eilandgedeputeerden/bes/BWBR0028484/README.md) worden ingetrokken.  
+Het [Rechtspositiebesluit gezaghebbers BES](../../../../../../AMvB-BES/rechtspositiebesluit/gezaghebbers/bes/BWBR0028526/README.md), het [Rechtspositiebesluit eilandgedeputeerden en eilandsraadsleden BES](../../../../../../AMvB-BES/rechtspositiebesluit/eilandgedeputeerden/en/eilandsraadsleden/bes/BWBR0028423/README.md) en het [Aanvullend rechtspositiebesluit eilandgedeputeerden BES](../../../../../../AMvB-BES/aanvullend/rechtspositiebesluit/eilandgedeputeerden/bes/BWBR0028484/README.md) worden ingetrokken. 
 
 ### Artikel  20  
 
-Dit besluit wordt aangehaald als: Rechtspositiebesluit politieke gezagdragers BES.  
+Dit besluit wordt aangehaald als: Rechtspositiebesluit politieke gezagdragers BES. 
 
 ### Artikel  21  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -227,10 +227,10 @@ Wassenaar
 3 juli 2013  
 Willem-Alexander  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 R.H.A. Plasterk   
 
 de *negentiende* juli 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
