@@ -10,9 +10,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-– *richtlijn 2001/82/EG:*Richtlijn 2001/82/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEU 2001 L 311);  
+–  *richtlijn 2001/82/EG:* Richtlijn 2001/82/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEU 2001 L 311);  
 
-– *wet:*[Wet dieren](../../../../../../../wet/wet/dieren/BWBR0030250/README.md).    
+–  *wet:* [Wet dieren](../../../../../../../wet/wet/dieren/BWBR0030250/README.md).   
 
 ### Artikel  2  
 
@@ -28,22 +28,22 @@ d. de ambtenaren van de Inspectie voor de Gezondheidszorg van het Ministerie van
 
 1°. de [artikelen 2.19](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.20](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.21](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.22](../../../../../../../wet/wet/dieren/BWBR0030250/README.md) en [2.25 van de wet](../../../../../../../wet/wet/dieren/BWBR0030250/README.md) in samenhang met het bepaalde bij of krachtens de hoofdstukken 4 en 5 van het Besluit diergeneesmiddelen;  
 
-2°. de [artikelen 2.19](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.20](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.21](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.22](../../../../../../../wet/wet/dieren/BWBR0030250/README.md) en [2.25 van de wet](../../../../../../../wet/wet/dieren/BWBR0030250/README.md) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 2](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en  [3 van het Besluit diergeneesmiddelen](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage I, inleiding en algemene beginselen, onderdeel 6, van richtlijn 2001/82/EG;    
+2°. de [artikelen 2.19](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.20](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.21](../../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.22](../../../../../../../wet/wet/dieren/BWBR0030250/README.md) en [2.25 van de wet](../../../../../../../wet/wet/dieren/BWBR0030250/README.md) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 2](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) en [3 van het Besluit diergeneesmiddelen](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md) ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage I, inleiding en algemene beginselen, onderdeel 6, van richtlijn 2001/82/EG;    
 
-e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ.    
+e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ.   
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet dieren.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet dieren. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
 12 december 2012   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp.   
+Minister van Economische Zaken, 
+H.G.J. Kamp.     

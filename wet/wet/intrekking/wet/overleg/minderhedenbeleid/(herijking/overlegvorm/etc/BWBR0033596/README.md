@@ -11,26 +11,26 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-De [Wet overleg minderhedenbeleid](../../../../../../../../../../wet/wet/overleg/minderhedenbeleid/BWBR0008755/README.md) wordt ingetrokken.  
+De [Wet overleg minderhedenbeleid](../../../../../../../../../../wet/wet/overleg/minderhedenbeleid/BWBR0008755/README.md) wordt ingetrokken. 
 
 ### Artikel  II  
 
-De krachtens [artikel 6, derde lid, van de Wet overleg minderhedenbeleid](../../../../../../../../../../wet/wet/overleg/minderhedenbeleid/BWBR0008755/README.md) vastgestelde ministeriële regeling blijft van kracht tot de bij regeling van Onze Minister voor Immigratie, Integratie en Asiel te bepalen datum van intrekking daarvan, en berust vanaf de datum van inwerkingtreding van deze wet op dit artikel.  
+De krachtens [artikel 6, derde lid, van de Wet overleg minderhedenbeleid](../../../../../../../../../../wet/wet/overleg/minderhedenbeleid/BWBR0008755/README.md) vastgestelde ministeriële regeling blijft van kracht tot de bij regeling van Onze Minister voor Immigratie, Integratie en Asiel te bepalen datum van intrekking daarvan, en berust vanaf de datum van inwerkingtreding van deze wet op dit artikel. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 19 juni 2013  
 Willem-Alexander  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 L.F. Asscher   
 
 de *achtentwintigste* juni 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
