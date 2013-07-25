@@ -22,21 +22,21 @@ b. projectgebied: gebied waarin op grond van de artikelen 2, 3 of 9 wordt afgewe
 
 c. milieukwaliteitsnorm: bij wettelijk voorschrift gestelde norm ten aanzien van de kwaliteit van een onderdeel van het milieu;  
 
-d. omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1 van de Wet algemene bepalingen omgevingsrecht;  
+d.  omgevingsvergunning: omgevingsvergunning als bedoeld in [artikel 1.1 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
-e. veehouderij: veehouderij als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij;  
+e. veehouderij: veehouderij als bedoeld in [artikel 1, eerste lid, van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  
 
-f. zeer kwetsbaar gebied: zeer kwetsbaar gebied als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij;  
+f. zeer kwetsbaar gebied: zeer kwetsbaar gebied als bedoeld in [artikel 1, eerste lid, van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  
 
-g. ammoniakemissie: ammoniakemissie als bedoeld in artikel 1, eerste lid, van de Wet ammoniak en veehouderij;  
+g. ammoniakemissie: ammoniakemissie als bedoeld in [artikel 1, eerste lid, van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md);  
 
-h. dierenverblijf: dierenverblijf als bedoeld in artikel 1 van de Wet geurhinder en veehouderij;  
+h. dierenverblijf: dierenverblijf als bedoeld in [artikel 1 van de Wet geurhinder en veehouderij](../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md);  
 
-i. reconstructiegebied: reconstructiegebied als bedoeld in artikel 1 van de Reconstructiewet concentratiegebieden;  
+i. reconstructiegebied: reconstructiegebied als bedoeld in [artikel 1 van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md);  
 
 j. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, en  
 
-k. inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar.    
+k. inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar.   
 
 ### §  2  
 
@@ -48,41 +48,41 @@ De gemeenteraad kan ten behoeve van het vestigen van milieugevoelige bestemminge
 
 a. tot afwijking van een milieukwaliteitsnorm met betrekking tot bodem, geluid en lucht, en  
 
-b. tot afwijking van de waarden en afstanden, bedoeld in de artikelen 3, 4 en 5 van de Wet geurhinder en veehouderij.    
+b. tot afwijking van de waarden en afstanden, bedoeld in de [artikelen 3](../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md), [4](../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md) en [5 van de Wet geurhinder en veehouderij](../../../../wet/wet/geurhinder/en/veehouderij/BWBR0020396/README.md).   
 
 ### Artikel  3  
 
 De gemeenteraad kan ten aanzien van een door hem aangewezen projectgebied in het belang van zuinig en doelmatig ruimtegebruik en het bereiken van optimale leefomgevingskwaliteit, besluiten: 
 
-a. dat, in afwijking van artikel 4 van de Wet ammoniak en veehouderij, een omgevingsvergunning kan worden verleend voor het oprichten van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een bestaande veehouderij die binnen dat projectgebied dichter bij een zeer kwetsbaar gebied is gevestigd, met dien verstande dat: 
+a. dat, in afwijking van [artikel 4 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), een omgevingsvergunning kan worden verleend voor het oprichten van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een bestaande veehouderij die binnen dat projectgebied dichter bij een zeer kwetsbaar gebied is gevestigd, met dien verstande dat: 
 
 1°. indien het aantal dieren per diercategorie niet hoger is dan het aantal dat in de bestaande veehouderij aanwezig mocht zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de op te richten veehouderij ten hoogste gelijk is aan de ammoniakemissie die de bestaande veehouderij zou mogen veroorzaken, of  
 
-2°. indien het aantal dieren per diercategorie van de op te richten veehouderij hoger is dan het aantal dat in de bestaande veehouderij aanwezig mocht zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de op te richten veehouderij ten hoogste gelijk is aan de ammoniakemissie die de bestaande veehouderij zou mogen veroorzaken indien daarop artikel 7 van de Wet ammoniak en veehouderij van toepassing zou zijn, en    
+2°. indien het aantal dieren per diercategorie van de op te richten veehouderij hoger is dan het aantal dat in de bestaande veehouderij aanwezig mocht zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de op te richten veehouderij ten hoogste gelijk is aan de ammoniakemissie die de bestaande veehouderij zou mogen veroorzaken indien daarop [artikel 7 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md) van toepassing zou zijn, en    
 
-b. dat, in afwijking van artikel 6 van de Wet ammoniak en veehouderij, een omgevingsvergunning kan worden verleend voor het veranderen van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een of meer andere binnen dat projectgebied bestaande, met de te veranderen veehouderij samen te voegen veehouderijen die dichter bij een zeer kwetsbaar gebied zijn gevestigd, met dien verstande dat: 
+b. dat, in afwijking van [artikel 6 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), een omgevingsvergunning kan worden verleend voor het veranderen van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een of meer andere binnen dat projectgebied bestaande, met de te veranderen veehouderij samen te voegen veehouderijen die dichter bij een zeer kwetsbaar gebied zijn gevestigd, met dien verstande dat: 
 
 1°. indien het aantal dieren per diercategorie niet hoger is dan het aantal dat in de samen te voegen veehouderijen aanwezig mag zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de te veranderen veehouderij ten hoogste de ammoniakemissie bedraagt die de samen te voegen veehouderijen zouden mogen veroorzaken, of  
 
-2°. indien het aantal dieren per diercategorie hoger is dan het aantal dat in de samen te voegen veehouderijen aanwezig mag zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de te veranderen veehouderij ten hoogste de ammoniakemissie bedraagt die de samen te voegen veehouderijen zouden mogen veroorzaken indien daarop artikel 7 van de Wet ammoniak en veehouderij van toepassing zou zijn.      
+2°. indien het aantal dieren per diercategorie hoger is dan het aantal dat in de samen te voegen veehouderijen aanwezig mag zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de te veranderen veehouderij ten hoogste de ammoniakemissie bedraagt die de samen te voegen veehouderijen zouden mogen veroorzaken indien daarop [artikel 7 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md) van toepassing zou zijn.     
 
 ### Artikel  4  
 
 1.  Van de bevoegdheid, bedoeld in artikel 2, wordt geen gebruik gemaakt: 
 
-a. met betrekking tot milieukwaliteitsnormen, gesteld bij of krachtens de Luchtvaartwet of de Wet luchtvaart;  
+a. met betrekking tot milieukwaliteitsnormen, gesteld bij of krachtens de [Luchtvaartwet ](../../../../wet/luchtvaartwet/BWBR0002267/README.md)of de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
-b. met betrekking tot milieukwaliteitsnormen, gesteld bij of krachtens artikel 5.2b of titel 5.2 van de Wet milieubeheer;  
+b. met betrekking tot milieukwaliteitsnormen, gesteld bij of krachtens [artikel 5.2b](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [titel 5.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); 
 
-c. met betrekking tot milieukwaliteitsnormen, gesteld krachtens artikel 108 van de Wet geluidhinder voorzover die normen betrekking hebben op luchtvaartterreinen, of  
+c. met betrekking tot milieukwaliteitsnormen, gesteld krachtens [artikel 108 van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) voorzover die normen betrekking hebben op luchtvaartterreinen, of  
 
 d. voorzover dat leidt tot een geluidsbelasting binnen een woning met gesloten ramen, die hoger is dan 33 dB.     
-2.  Van de bevoegdheid, bedoeld in artikel 3, wordt geen gebruik gemaakt met betrekking tot een deel van een reconstructiegebied waarop artikel 27 van de Reconstructiewet concentratiegebieden van toepassing is.   
+2.  Van de bevoegdheid, bedoeld in artikel 3, wordt geen gebruik gemaakt met betrekking tot een deel van een reconstructiegebied waarop [artikel 27 van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) van toepassing is.   
 3.  De gemeenteraad maakt van de bevoegdheid, bedoeld in de artikelen 2 en 3, uitsluitend gebruik, indien: 
 
 a. hij tot het oordeel is gekomen dat het rekening houden met milieukwaliteit in de ruimtelijke planvorming, het nemen van brongerelateerde maatregelen en het optimaal benutten van wettelijke voorschriften niet toereikend zijn om zuinig en doelmatig ruimtegebruik en optimale leefomgevingskwaliteit te bereiken, en  
 
-b. een melding als bedoeld in artikel 11 is gedaan.     
+b. een melding als bedoeld in artikel 11 is gedaan.    
 
 ### Artikel  5  
 
@@ -106,7 +106,7 @@ b. de kadastrale aanduiding van die onroerende zaken;
 c. de grootte van elk van de desbetreffende percelen volgens de basisregistratie kadaster, en  
 
 d. indien een in de beschrijving opgenomen onroerende zaak een gedeelte van een perceel uitmaakt, de grootte van dat gedeelte.     
-3.  Op de bijgevoegde kadastrale kaart, bedoeld in het tweede lid, zijn de desbetreffende onroerende zaken en de bijhorende percelen en perceelsgedeelten duidelijk aangegeven.   
+3.  Op de bijgevoegde kadastrale kaart, bedoeld in het tweede lid, zijn de desbetreffende onroerende zaken en de bijhorende percelen en perceelsgedeelten duidelijk aangegeven.  
 
 ### Artikel  6  
 
@@ -126,15 +126,15 @@ f. de wijze waarop bij de voorbereiding van het besluit belanghebbenden en bestu
 
 g. de naar voren gebrachte zienswijzen en uitgebrachte adviezen en de overwegingen van de gemeenteraad omtrent de naar voren gebrachte zienswijzen en uitgebrachte adviezen, en  
 
-h. indien het besluit een bepaalde termijn bevat, de overwegingen die hebben geleid tot de in het besluit aangegeven termijn waarvoor de afwijking geldt en de maatregelen die zullen worden getroffen teneinde die termijn niet te overschrijden.    
+h. indien het besluit een bepaalde termijn bevat, de overwegingen die hebben geleid tot de in het besluit aangegeven termijn waarvoor de afwijking geldt en de maatregelen die zullen worden getroffen teneinde die termijn niet te overschrijden.   
 
 ### Artikel  7  
 
-Voorzover de nadelige gevolgen voor het milieu van een besluit als bedoeld in de artikelen 2 en 3 niet kunnen worden voorkomen of beperkt, worden die nadelige gevolgen gecompenseerd in of in de directe omgeving van het projectgebied op een wijze die de belangen, genoemd in de aanhef van de artikelen 2 en 3, dient.  
+Voorzover de nadelige gevolgen voor het milieu van een besluit als bedoeld in de artikelen 2 en 3 niet kunnen worden voorkomen of beperkt, worden die nadelige gevolgen gecompenseerd in of in de directe omgeving van het projectgebied op een wijze die de belangen, genoemd in de aanhef van de artikelen 2 en 3, dient. 
 
 ### Artikel  8  
 
-Indien de uitvoering van een besluit als bedoeld in de artikelen 2 en 3 onvoorziene en ontoelaatbare effecten heeft op het milieu of de volksgezondheid, neemt de gemeenteraad noodzakelijke maatregelen teneinde die effecten tot een toelaatbaar niveau terug te brengen.  
+Indien de uitvoering van een besluit als bedoeld in de artikelen 2 en 3 onvoorziene en ontoelaatbare effecten heeft op het milieu of de volksgezondheid, neemt de gemeenteraad noodzakelijke maatregelen teneinde die effecten tot een toelaatbaar niveau terug te brengen. 
 
 ### §  3  
 
@@ -142,24 +142,24 @@ Indien de uitvoering van een besluit als bedoeld in de artikelen 2 en 3 onvoorzi
 
 ### Artikel  9  
 
-Indien op een deel van een reconstructiegebied artikel 27 van de Reconstructiewet concentratiegebieden van toepassing is, kunnen provinciale staten van de provincie waarin dat reconstructiegebied geheel of grotendeels is gelegen ten aanzien van een door hen aan te wijzen projectgebied binnen dat deel van het reconstructiegebied in het belang van zuinig en doelmatig ruimtegebruik en het bereiken van optimale leefomgevingskwaliteit, besluiten: 
+Indien op een deel van een reconstructiegebied [artikel 27 van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) van toepassing is, kunnen provinciale staten van de provincie waarin dat reconstructiegebied geheel of grotendeels is gelegen ten aanzien van een door hen aan te wijzen projectgebied binnen dat deel van het reconstructiegebied in het belang van zuinig en doelmatig ruimtegebruik en het bereiken van optimale leefomgevingskwaliteit, besluiten: 
 
-a. dat, in afwijking van artikel 4 van de Wet ammoniak en veehouderij, een omgevingsvergunning kan worden verleend voor het oprichten van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een bestaande veehouderij die binnen het projectgebied, bedoeld in de aanhef, dichter bij een zeer kwetsbaar gebied is gevestigd, met dien verstande dat: 
+a. dat, in afwijking van [artikel 4 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), een omgevingsvergunning kan worden verleend voor het oprichten van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een bestaande veehouderij die binnen het projectgebied, bedoeld in de aanhef, dichter bij een zeer kwetsbaar gebied is gevestigd, met dien verstande dat: 
 
 1°. indien het aantal dieren per diercategorie niet hoger is dan het aantal dat in de bestaande veehouderij aanwezig mocht zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de op te richten veehouderij ten hoogste gelijk is aan de ammoniakemissie die de bestaande veehouderij zou mogen veroorzaken, of  
 
-2°. indien het aantal dieren per diercategorie in de op te richten veehouderij hoger is dan het aantal dat in de bestaande veehouderij aanwezig mocht zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de op te richten veehouderij ten hoogste gelijk is aan de ammoniakemissie die de bestaande veehouderij zou mogen veroorzaken indien daarop artikel 7 van de Wet ammoniak en veehouderij van toepassing zou zijn, en    
+2°. indien het aantal dieren per diercategorie in de op te richten veehouderij hoger is dan het aantal dat in de bestaande veehouderij aanwezig mocht zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de op te richten veehouderij ten hoogste gelijk is aan de ammoniakemissie die de bestaande veehouderij zou mogen veroorzaken indien daarop [artikel 7 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md) van toepassing zou zijn, en    
 
-b. dat, in afwijking van artikel 6 van de Wet ammoniak en veehouderij, een omgevingsvergunning kan worden verleend voor het veranderen van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een of meer andere binnen het projectgebied, bedoeld in de aanhef, bestaande, met de te veranderen veehouderij samen te voegen veehouderijen die dichter bij een zeer kwetsbaar gebied zijn gevestigd, met dien verstande dat: 
+b. dat, in afwijking van [artikel 6 van de Wet ammoniak en veehouderij](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), een omgevingsvergunning kan worden verleend voor het veranderen van een veehouderij onder intrekking van de rechtsgeldige omgevingsvergunning voor een of meer andere binnen het projectgebied, bedoeld in de aanhef, bestaande, met de te veranderen veehouderij samen te voegen veehouderijen die dichter bij een zeer kwetsbaar gebied zijn gevestigd, met dien verstande dat: 
 
 1°. indien het aantal dieren per diercategorie niet hoger is dan het aantal dat in de samen te voegen veehouderijen aanwezig mag zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de te veranderen veehouderij ten hoogste de ammoniakemissie bedraagt die de samen te voegen veehouderijen zouden mogen veroorzaken, of  
 
-2°. indien het aantal dieren per diercategorie hoger is dan het aantal dat in de samen te voegen veehouderijen aanwezig mag zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de te veranderen veehouderij ten hoogste de ammoniakemissie bedraagt die de samen te voegen veehouderijen zouden mogen veroorzaken indien daarop artikel 7 van de Wet ammoniak en veehouderij van toepassing zou zijn.      
+2°. indien het aantal dieren per diercategorie hoger is dan het aantal dat in de samen te voegen veehouderijen aanwezig mag zijn, de toegestane ammoniakemissie uit de dierenverblijven behorende tot de te veranderen veehouderij ten hoogste de ammoniakemissie bedraagt die de samen te voegen veehouderijen zouden mogen veroorzaken indien daarop [artikel 7 van de Wet ammoniak en veehouderij ](../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md)van toepassing zou zijn.     
 
 ### Artikel  10  
 
-1.  In een reconstructiegebied vindt de voorbereiding, het nemen, de goedkeuring van het besluit, bedoeld in artikel 9, en het beroep tegen het besluit omtrent goedkeuring van dat besluit, gelijktijdig plaats met de voorbereiding, het nemen en de goedkeuring van het besluit tot vaststelling van het reconstructieplan, bedoeld in artikel 11, eerste lid, van de Reconstructiewet concentratiegebieden, het gewijzigde reconstructieplan, bedoeld in artikel 17, vierde lid, van die wet, of de uitwerking van het reconstructieplan, bedoeld in artikel 18, eerste lid, van die wet, en het beroep tegen een van die besluiten.   
-2.  Bij de toepassing van het eerste lid zijn de artikelen 4, derde lid, 5, eerste lid, 6, 7, 8, 11, 14 en 15 van deze wet en de artikelen 15, 16, eerste lid, en 28 van de Reconstructiewet concentratiegebieden van overeenkomstige toepassing, met dien verstande dat: 
+1.  In een reconstructiegebied vindt de voorbereiding, het nemen, de goedkeuring van het besluit, bedoeld in artikel 9, en het beroep tegen het besluit omtrent goedkeuring van dat besluit, gelijktijdig plaats met de voorbereiding, het nemen en de goedkeuring van het besluit tot vaststelling van het reconstructieplan, bedoeld in [artikel 11, eerste lid, van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), het gewijzigde reconstructieplan, bedoeld in [artikel 17, vierde lid, van die wet](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), of de uitwerking van het reconstructieplan, bedoeld in [artikel 18, eerste lid, van die wet](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), en het beroep tegen een van die besluiten.   
+2.  Bij de toepassing van het eerste lid zijn de artikelen 4, derde lid, 5, eerste lid, 6, 7, 8, 11, 14 en 15 van deze wet en de [artikelen 15](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), [16, eerste lid](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), en [28 van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) van overeenkomstige toepassing, met dien verstande dat: 
 
 a. onder «gemeenteraad» telkens wordt verstaan «provinciale staten van de provincie waarin het reconstructiegebied geheel of grotendeels is gelegen»;  
 
@@ -169,9 +169,9 @@ c. onder «gedeputeerde staten» telkens wordt verstaan «Onze Minister en Onze 
 
 d. de mededeling, bedoeld in artikel 11, derde lid, van deze wet tevens in de Staatscourant wordt geplaatst, en  
 
-e. ook in het geval, bedoeld in artikel 16, derde lid, of 17, zesde lid, van de Reconstructiewet concentratiegebieden, gedeputeerde staten van de provincie waarin het reconstructiegebied geheel of grotendeels is gelegen, een besluit als bedoeld in artikel 9 van deze wet bekendmaken.     
+e. ook in het geval, bedoeld in [artikel 16, derde lid](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), of [17, zesde lid, van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md), gedeputeerde staten van de provincie waarin het reconstructiegebied geheel of grotendeels is gelegen, een besluit als bedoeld in artikel 9 van deze wet bekendmaken.     
 3.  Het niet tijdig bekendmaken van een besluit omtrent goedkeuring van een besluit als bedoeld in artikel 9 van deze wet of van een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring is genomen.   
-4.  Indien goedkeuring wordt onthouden aan het reconstructieplan dat betrekking heeft op het projectgebied, wordt tevens goedkeuring onthouden aan het besluit, bedoeld in artikel 9 van deze wet.   
+4.  Indien goedkeuring wordt onthouden aan het reconstructieplan dat betrekking heeft op het projectgebied, wordt tevens goedkeuring onthouden aan het besluit, bedoeld in artikel 9 van deze wet.  
 
 ### §  4  
 
@@ -192,12 +192,12 @@ d. de milieukwaliteitsnorm of het andere wettelijke voorschrift waarvan afwijkin
 
 e. een beschrijving op hoofdlijnen van de te verwachten gevolgen voor het milieu en de volksgezondheid in het projectgebied.     
 3.  Van de melding, bedoeld in het eerste lid, wordt gelijktijdig mededeling gedaan door kennisgeving van de melding of van de inhoud ervan in een van overheidswege uitgegeven blad, een dag- of nieuwsblad of huis-aan-huisblad en langs elektronische weg.   
-4.  Burgemeester en wethouders zenden een afschrift van de melding, bedoeld in het eerste lid, aan de inspecteur.   
+4.  Burgemeester en wethouders zenden een afschrift van de melding, bedoeld in het eerste lid, aan de inspecteur.  
 
 ### Artikel  12  
 
 1.  In dit artikel wordt onder bevoegd gezag verstaan: bestuursorgaan dat ten aanzien van een projectgebied belast is met toepassing van een milieukwaliteitsnorm of ander wettelijk voorschrift waarvan op grond van artikel 2 of 3 afwijking wordt overwogen.   
-2.  Op de voorbereiding, het nemen en de terinzagelegging van het besluit, bedoeld in de artikelen 2 en 3 of  9, zijn artikel 3.8 van de Wet ruimtelijke ordening en de krachtens die wet gestelde voorschriften omtrent totstandkoming en inhoud van het bestemmingsplan van overeenkomstige toepassing met dien verstande dat: 
+2.  Op de voorbereiding, het nemen en de terinzagelegging van het besluit, bedoeld in de artikelen 2 en 3 of 9, zijn [artikel 3.8 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) en de krachtens die wet gestelde voorschriften omtrent totstandkoming en inhoud van het bestemmingsplan van overeenkomstige toepassing met dien verstande dat: 
 
 a. burgemeester en wethouders gelijktijdig met de terinzagelegging van het ontwerpbesluit, bedoeld in de artikelen 2 en 3, het bevoegd gezag in de gelegenheid stellen advies uit te brengen over het ontwerpbesluit, tenzij een orgaan van de gemeente als bevoegd gezag of adviseur is aangewezen;  
 
@@ -205,12 +205,12 @@ b. gedeputeerde staten gelijktijdig met de terinzagelegging van het ontwerpbeslu
 
 c. het bevoegd gezag bij de voorbereiding van zijn advies de bestuursorganen betrekt, die ingevolge wettelijk voorschrift zijn aangewezen om hem terzake van advies te dienen;  
 
-d. naar voren gebrachte zienswijzen omtrent het ontwerpbesluit, bedoeld in artikel 9, zo spoedig mogelijk doch in elk geval daags na afloop van de terinzagelegging van het ontwerpbesluit aan Onze Minister en Onze Minister van Economische Zaken, Landbouw en Innovatie worden gestuurd.     
+d. naar voren gebrachte zienswijzen omtrent het ontwerpbesluit, bedoeld in artikel 9, zo spoedig mogelijk doch in elk geval daags na afloop van de terinzagelegging van het ontwerpbesluit aan Onze Minister en Onze Minister van Economische Zaken, Landbouw en Innovatie worden gestuurd.   
 
 ### Artikel  14  
 
 1.  Op een besluit van de gemeenteraad tot wijziging van een besluit als bedoeld in de artikelen 2 en 3 zijn de artikelen 5 tot en met 8, 11, 12, eerste en tweede lid, onderdelen a, c en d, 16 en 18 van overeenkomstige toepassing.   
-2.  Op een besluit van de gemeenteraad tot intrekking van een besluit als bedoeld in de artikelen 2 en 3 zijn de artikelen 11, eerste, derde en vierde lid, 12, eerste en tweede lid, onderdelen a, c en d, 16 en 18 van overeenkomstige toepassing.   
+2.  Op een besluit van de gemeenteraad tot intrekking van een besluit als bedoeld in de artikelen 2 en 3 zijn de artikelen 11, eerste, derde en vierde lid, 12, eerste en tweede lid, onderdelen a, c en d, 16 en 18 van overeenkomstige toepassing.  
 
 ### §  5  
 
@@ -219,26 +219,26 @@ d. naar voren gebrachte zienswijzen omtrent het ontwerpbesluit, bedoeld in artik
 ### Artikel  15  
 
 1.  Het bestuursorgaan dat is belast met de uitvoering van en het toezicht op de naleving van de milieukwaliteitsnormen, bedoeld in artikel 2, onderdeel a, of de andere wettelijke voorschriften, bedoeld in de artikelen 2, onderdeel b, en 3, neemt bij de uitoefening van zijn taak ten aanzien van een projectgebied het besluit, bedoeld in de artikelen 2 en 3, in acht.   
-2.  Het bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning voor activiteiten met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht neemt een besluit als bedoeld in de artikelen 2 en 3 in acht bij: 
+2.  Het bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning voor activiteiten met betrekking tot een inrichting als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) neemt een besluit als bedoeld in de artikelen 2 en 3 in acht bij: 
 
 a. het beslissen op een aanvraag om een omgevingsvergunning, en  
 
-b. het toepassen van artikel 2.31, eerste lid, onder b, en tweede lid, onder b, van de Wet algemene bepalingen omgevingsrecht.     
+b. het toepassen van [artikel 2.31, eerste lid, onder b, en tweede lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
 
 ### Artikel  16  
 
-1.  Burgemeester en wethouders zenden een afschrift van het besluit, bedoeld in artikel 2, aan het betrokken kantoor van de Dienst voor het kadaster en de openbare registers ter inschrijving van dat besluit in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. Artikel 24, eerste lid, en artikel 26 van Boek 3 van dat wetboek zijn niet van toepassing.   
-2.  Indien een besluit als bedoeld in het eerste lid ingevolge een besluit of uitspraak in rechte is vernietigd, ingetrokken of gewijzigd, doen burgemeester en wethouders daarvan mededeling aan het kantoor, bedoeld in het eerste lid. Het eerste lid is van overeenkomstige toepassing.   
+1.  Burgemeester en wethouders zenden een afschrift van het besluit, bedoeld in artikel 2, aan het betrokken kantoor van de Dienst voor het kadaster en de openbare registers ter inschrijving van dat besluit in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). [Artikel 24, eerste lid](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [artikel 26 van Boek 3](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van dat wetboek zijn niet van toepassing.   
+2.  Indien een besluit als bedoeld in het eerste lid ingevolge een besluit of uitspraak in rechte is vernietigd, ingetrokken of gewijzigd, doen burgemeester en wethouders daarvan mededeling aan het kantoor, bedoeld in het eerste lid. Het eerste lid is van overeenkomstige toepassing.  
 
 ### §  5a  
 
-####Toezicht op de uitvoering en de handhaving
+#### Toezicht op de uitvoering en de handhaving
 
 ### §  6  
 
 ####Verslagleggingsplicht
 
-Vervallen per 31-03-2010   
+Vervallen per 31-03-2010 
 
 ### §  7  
 
@@ -246,8 +246,8 @@ Vervallen per 31-03-2010
 
 ### Artikel  19  
 
-1.  Voor de mogelijkheid van beroep ingevolge hoofdstuk 8 van de Algemene wet bestuursrecht worden als één besluit aangemerkt een besluit als bedoeld in artikel 9 en een reconstructieplan of een gewijzigd reconstructieplan. Artikel 29, tweede lid, van de Reconstructiewet concentratiegebieden is van overeenkomstige toepassing.   
-2.  Het beroep tegen een besluit ter uitvoering van een besluit als bedoeld in artikel 9 kan geen grond vinden in bedenkingen tegen het laatstbedoelde besluit.   
+1.  Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden als één besluit aangemerkt een besluit als bedoeld in artikel 9 en een reconstructieplan of een gewijzigd reconstructieplan. [Artikel 29, tweede lid, van de Reconstructiewet concentratiegebieden](../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md) is van overeenkomstige toepassing.   
+2.  Het beroep tegen een besluit ter uitvoering van een besluit als bedoeld in artikel 9 kan geen grond vinden in bedenkingen tegen het laatstbedoelde besluit.  
 
 ### §  8  
 
@@ -255,11 +255,11 @@ Vervallen per 31-03-2010
 
 ### Artikel  20  
 
-Wijzigt de Wet ammoniak en veehouderij.   
+Wijzigt de Wet ammoniak en veehouderij. 
 
 ### Artikel  21  
 
-Wijzigt de Wet geluidhinder.   
+Wijzigt de Wet geluidhinder. 
 
 ### §  9  
 
@@ -267,12 +267,12 @@ Wijzigt de Wet geluidhinder.
 
 ### Artikel  24  
 
-1.  De Experimentenwet Stad en Milieu wordt ingetrokken.   
-2.  De Experimentenwet Stad en Milieu blijft van toepassing op voor 1 januari 2004 genomen besluiten als bedoeld in artikel 3, eerste lid, van die wet, met dien verstande dat voor de toepassing van artikel 14, eerste lid, eerste volzin en derde lid, van die wet gedeputeerde staten in de plaats treden van Onze Minister.   
+1.  De [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) wordt ingetrokken.   
+2.  De [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) blijft van toepassing op voor 1 januari 2004 genomen besluiten als bedoeld in [artikel 3, eerste lid, van die wet](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md), met dien verstande dat voor de toepassing van [artikel 14, eerste lid, eerste volzin en derde lid, van die wet](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) gedeputeerde staten in de plaats treden van Onze Minister.  
 
 ### Artikel  26  
 
-Deze wet wordt aangehaald als: Interimwet stad-en-milieubenadering.  
+Deze wet wordt aangehaald als: Interimwet stad-en-milieubenadering. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -280,10 +280,10 @@ Gegeven te ’s-Gravenhage
 19 januari 2006  
 Beatrix  
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P. L. B. A.van Geel 
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+P. L. B. A. van Geel   
 
 de *eenendertigste* januari 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

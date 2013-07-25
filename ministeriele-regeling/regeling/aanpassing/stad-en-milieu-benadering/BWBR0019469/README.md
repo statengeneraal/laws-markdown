@@ -8,18 +8,18 @@ Besluit:
 
 ### Artikel  I  
 
-A.   Wijzigt het Besluit aanwijzing ambtenaren VROM-regelgeving.    
-B.  
+A. Wijzigt het Besluit aanwijzing ambtenaren VROM-regelgeving. 
+B. 
 
-1. De [Subsidieregeling stad & milieu](../../../../../ministeriele-regeling/subsidieregeling/stad/&/milieu/BWBR0010449/README.md) wordt ingetrokken.  
+1.De [Subsidieregeling stad & milieu](../../../../../ministeriele-regeling/subsidieregeling/stad/&/milieu/BWBR0010449/README.md) wordt ingetrokken.
 
-2. Voorzover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de [Subsidieregeling stad & milieu](../../../../../ministeriele-regeling/subsidieregeling/stad/&/milieu/BWBR0010449/README.md) plaats.  
+2.Voorzover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de [Subsidieregeling stad & milieu](../../../../../ministeriele-regeling/subsidieregeling/stad/&/milieu/BWBR0010449/README.md) plaats.
 
-3. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de [Subsidieregeling stad & milieu](../../../../../ministeriele-regeling/subsidieregeling/stad/&/milieu/BWBR0010449/README.md) blijven in stand.     
+3.Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de [Subsidieregeling stad & milieu](../../../../../ministeriele-regeling/subsidieregeling/stad/&/milieu/BWBR0010449/README.md) blijven in stand.
 
 ### Artikel  II  
 
-Deze regeling treedt in werking op het tijdstip waarop de Interimwet stad-en-milieubenadering in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de Interimwet stad-en-milieubenadering in werking treedt. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -27,4 +27,4 @@ Den Haag
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel   
+P.L.B.A. van Geel     
