@@ -64,7 +64,7 @@ p. vergunninghouder: een houder van een leveringsvergunning als bedoeld in artik
 
 q. richtlijn: richtlijn nr. 2009/73/EG van het Europees Parlement en de Raad van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG (Pb EU 2009, L 211);  
 
-r. raad van bestuur van de mededingingsautoriteit: de raad van bestuur van de mededingingsautoriteit, genoemd in [artikel 2 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md);  
+r. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 
 s.  vervallen;   
 
@@ -122,6 +122,12 @@ an. directe lijn: één of meer gasleidingen die geen gastransportnet zijn en di
 
 ao. hernieuwbare energiebronnen: hernieuwbare energiebronnen als bedoeld in artikel 2 van de richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (Pb EU 2009, L 140);  
 
+ap. verordening 1227/2011: verordening (EU) nr. 1227/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de integriteit en transparantie van de groothandelsmarkt voor energie (PbEU 2011, L 326), alsmede de door de Europese Commissie vastgestelde gedelegeerde en uitvoeringshandelingen op grond van verordening 1227/2011;  
+
+aq. marktdeelnemer: een marktdeelnemer als bedoeld in artikel 2, zevende lid, van verordening 1227/2011;  
+
+ar. Autoriteit Financiële Markten: de Autoriteit Financiële Markten, genoemd in [artikel 1:1 van de Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
 bb. verordening 994/2010: verordening (EU) nr. 994/2010 van het Europees Parlement en de Raad van 20 oktober 2010 betreffende maatregelen tot veiligstelling van de gaslevering en houdende intrekking van Richtlijn 2004/67/EG (PbEU 2010, L 295).     
 2.  Bij algemene maatregel van bestuur kan deze wet geheel of gedeeltelijk van toepassing worden verklaard op andere gasvormige stoffen dan de stof, bedoeld in het eerste lid, onderdeel b.   
 3.  Deze wet en de daarop berustende bepalingen zijn mede van toepassing op gasopslaginstallaties, LNG-installaties en landsgrensoverschrijdende gastransportnetten die zijn gelegen binnen de Nederlandse exclusieve economische zone of op het continentaal plat.   
@@ -132,22 +138,22 @@ bb. verordening 994/2010: verordening (EU) nr. 994/2010 van het Europees Parleme
 
 ### Artikel  1a  
 
-1.  De raad van bestuur van de mededingingsautoriteit is belast met taken ter uitvoering van deze wet, verordening 713/2009, verordening 715/2009 en verordening 994/2010. Ook is de raad van bestuur van de mededingingsautoriteit belast met het toezicht op de naleving van deze wet, verordening 713/2009, verordening 715/2009 en verordening 994/2010, met uitzondering van artikel 8, tenzij het gaat om investeringen, genoemd in artikel 8, tweede lid, onderdeel f tot en met i, en met uitzondering van de artikelen 8a, 35a en 54 tot en met 57.   
-2.  De raad van bestuur van de mededingingsautoriteit is de regulerende instantie, bedoeld in artikel 39, eerste lid, van de richtlijn en in verordening 715/2009 en is de bevoegde instantie als bedoeld in verordening 715/2009.   
-3.  De raad van bestuur van de mededingingsautoriteit houdt bij de uitoefening van de hem op grond van deze wet toegekende taken en bevoegdheden rekening met artikel 40 van de richtlijn.   
-4.  De raad van bestuur van de mededingingsautoriteit werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 715/2009 te integreren en samenwerking tussen de netbeheerder van het landelijk gastransportnet en buitenlandse instelling die op grond van nationale wettelijke regels belast zijn met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijn in deze gebieden aan te moedigen, samen met: 
+1.  De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet, verordening 713/2009, verordening 715/2009, verordening 1227/2011 en verordening 994/2010. Ook is de Autoriteit Consument en Markt belast met het toezicht op de naleving van deze wet, verordening 713/2009, verordening 715/2009, verordening 1227/2011 en verordening 994/2010, met uitzondering van artikel 8, tenzij het gaat om investeringen, genoemd in artikel 8, tweede lid, onderdeel f tot en met i, en met uitzondering van de artikelen 8a, 35a en 54 tot en met 57.   
+2.  De Autoriteit Consument en Markt is de regulerende instantie, bedoeld in artikel 39, eerste lid, van de richtlijn en in verordening 715/2009 en is de bevoegde instantie als bedoeld in verordening 715/2009.   
+3.  De Autoriteit Consument en Markt houdt bij de uitoefening van de haar op grond van deze wet toegekende taken en bevoegdheden rekening met artikel 40 van de richtlijn.   
+4.  De Autoriteit Consument en Markt werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 715/2009 te integreren en samenwerking tussen de netbeheerder van het landelijk gastransportnet en buitenlandse instelling die op grond van nationale wettelijke regels belast zijn met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijn in deze gebieden aan te moedigen, samen met: 
 
 a. instellingen in andere lidstaten van de Europese Unie die op grond van nationale wettelijke regels zijn belast met de toepassing van de regels op het gebied van gas;  
 
 b. het Agentschap.     
-5.  De raad van bestuur van de mededingingsautoriteit draagt bij aan de compatibiliteit van gegevensuitwisselingsprocessen voor de belangrijkste marktprocessen in één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 715/2009.   
-6.  De raad van bestuur van de mededingingsautoriteit beslist over de goedkeuring van de door de netbeheerder van het landelijk gastransportnet gehanteerde congestiebeheersprocedures voor landsgrensoverschrijdende netten.   
+5.  De Autoriteit Consument en Markt draagt bij aan de compatibiliteit van gegevensuitwisselingsprocessen voor de belangrijkste marktprocessen in één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 715/2009.   
+6.  De Autoriteit Consument en Markt beslist over de goedkeuring van de door de netbeheerder van het landelijk gastransportnet gehanteerde congestiebeheersprocedures voor landsgrensoverschrijdende netten.   
 
 ### Artikel  1b  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van artikel 8, tenzij het gaat om investeringen, genoemd in artikel 8, tweede lid, onderdeel f tot en met i, en met uitzondering van de artikelen 8a, 35a en 54 tot en met 57, verordening 713/2009, verordening 715/2009 en verordening 994/2010 zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van artikel 8, tenzij het gaat om investeringen, genoemd in artikel 8, tweede lid, onderdeel f tot en met i, en met uitzondering van de artikelen 8a, 35a en 54 tot en met 57, verordening 713/2009, verordening 715/2009, verordening 994/2010 en verordening 1227/2011 zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  De raad van bestuur van de mededingingsautoriteit kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, verordening 713/2009, verordening 715/2009 en verordening 994/2010. Van de beschikking wordt mededeling gedaan in de Staatscourant.   
+3.  De Autoriteit Consument en Markt kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, verordening 713/2009, verordening 715/2009, verordening 994/2010 en verordening 1227/2011. Van de beschikking wordt mededeling gedaan in de Staatscourant.   
 4.  De werkzaamheden in verband met de uitvoering van artikel 19 worden verricht door personen die niet betrokken zijn bij werkzaamheden op grond van hoofdstuk 2, paragrafen 2.2 en 2.3.   
 
 ### Artikel  1c  
@@ -159,7 +165,7 @@ b. het Agentschap.
 
 ### Artikel  1d  
 
-De raad van bestuur van de mededingingsautoriteit volgt nauwlettend in welke mate de gasmarkt aan de doelstellingen, bedoeld in artikel 40 van de richtlijn, voldoet. Tevens volgt hij: 
+De Autoriteit Consument en Markt volgt nauwlettend in welke mate de gasmarkt aan de doelstellingen, bedoeld in artikel 40 van de richtlijn, voldoet. Tevens volgt zij: 
 
 a. de samenhang tussen de voorgenomen investeringen, bedoeld in artikel 8, tweede lid, van de netbeheerder van het landelijk gastransportnet en de netontwikkelingsplannen als bedoeld in artikel 8, derde lid, onderdeel b, van verordening 715/2009;  
 
@@ -171,36 +177,31 @@ d. het bestaan van praktijken gericht op het aangaan van overeenkomsten die afne
 
 ### Artikel  1e  
 
-1.  De raad van bestuur van de mededingingsautoriteit brengt jaarlijks verslag uit over de uitvoering van zijn taken. Het verslag bevat een overzicht van de behaalde resultaten en de genomen maatregelen.   
-2.  De raad van bestuur van de mededingingsautoriteit zendt het verslag toe aan Onze Minister, het Agentschap en de Europese Commissie.   
-
-### Artikel  1f  
-
-1.  Onze Minister onthoudt zich van instructies die op een individuele zaak betrekking hebben.   
-2.  De raad van bestuur van de mededingingsautoriteit en het ter beschikking van de raad gestelde personeel verlangen of ontvangen geen instructies die op een individuele zaak betrekking hebben.   
+1.  Onverminderd de verplichting tot het opstellen van een jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), brengt de Autoriteit Consument en Markt jaarlijks verslag uit over de uitvoering van haar taken, bedoeld in artikel 1a, eerste lid. Het verslag bevat een overzicht van de behaalde resultaten en genomen maatregelen.   
+2.  De Autoriteit Consument en Markt zendt het verslag toe aan Onze Minister, het Agentschap en de Europese Commissie.   
 
 ### Artikel  1g  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan van een gasbedrijf, een gasbeurs, een netgebruiker of een afnemer de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van de hem in deze wet, verordening 713/2009, verordening 715/2009 en verordening 994/2010 opgedragen taken.   
-2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door de raad van bestuur van de mededingingsautoriteit gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
-3.  Gegevens of inlichtingen omtrent een gasbedrijf, een gasbeurs, een netgebruiker of een afnemer, welke in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet, verordening 715/2009 of verordening 994/2010 zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, verordening 713/2009, verordening 715/2009, verordening 994/2010, de [Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md), de [Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de Warmtewet en de [artikelen 4.4](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en [4.5 van de Wet handhaving consumentenbescherming](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) worden gebruikt.   
-4.  In afwijking van het derde lid is de raad van bestuur van de mededingingsautoriteit bevoegd bescheiden, gegevens of inlichtingen, bedoeld in het derde lid, te verstrekken aan: 
+1.  De Autoriteit Consument en Markt kan van een gasbedrijf, een gasbeurs, een netgebruiker, een afnemer of een marktdeelnemer de gegevens en inlichtingen verlangen die zij nodig heeft voor de uitvoering van de haar in deze wet, verordening 713/2009, verordening 715/2009, verordening 994/2010 en verordening 1227/2011 opgedragen taken.   
+2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar bevoegdheden.   
+
+### Artikel  1h  
+
+1.  Artikel 1g is van overeenkomstige toepassing op Onze Minister voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet, verordening 715/2009 of verordening 994/2010.   
+2.  Gegevens of inlichtingen omtrent een gasbedrijf, een gasbeurs, een netgebruiker of een afnemer, welke door Onze Minister in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet of verordening 715/2009 zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, verordening 715/2009, verordening 713/2009, de [Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md), de [Elektriciteitswet 1998](../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), de Warmtewet en de [artikelen 4.4](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en [4.5 van de Wet handhaving consumentenbescherming](../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) worden gebruikt.   
+3.  In afwijking van het tweede lid is Onze Minister bevoegd bescheiden, gegevens of inlichtingen, bedoeld in het tweede lid, te verstrekken aan: 
 
 a. een buitenlandse instelling, die op grond van nationale wettelijke regels is belast met de toepassing van de regels op het gebied van gas, voor zover die bescheiden, gegevens en inlichtingen van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die instelling;  
 
 b. een bestuursorgaan dat op grond van deze wet of van een andere wettelijke regeling dan deze wet is belast met taken die de toepassing of mede de toepassing van bepalingen op het gebied van gas betreffen, voor zover die bescheiden, gegevens of inlichtingen van betekenis kunnen zijn voor de uitoefening van de taak van dat bestuursorgaan;  
 
 c. het Agentschap, voor zover die bescheiden, gegevens of inlichtingen van betekenis kunnen zijn voor de uitoefening van de taak van het Agentschap.     
-5.  Op basis van het vierde lid kunnen uitsluitend bescheiden, gegevens of inlichtingen worden verstrekt indien: 
+4.  Op basis van het derde lid kunnen uitsluitend bescheiden, gegevens of inlichtingen worden verstrekt indien: 
 
-a. de geheimhouding van de bescheiden, gegevens of inlichtingen in voldoende mate is gewaarborgd en  
+a. de geheimhouding van de bescheiden, gegevens of inlichtingen in voldoende mate is gewaarborgd, en  
 
 b. voldoende is gewaarborgd dat de bescheiden, gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.     
-
-### Artikel  1h  
-
-1.  Artikel 1g is van overeenkomstige toepassing op Onze Minister voor zover hij inlichtingen en gegevens nodig heeft voor de uitvoering van zijn taken op grond van deze wet, verordening 715/2009 of verordening 994/2010.   
-2.  Indien Onze Minister op grond van artikel 10a, eerste lid, onderdeel f, de netbeheerder van het landelijk gastransportnet opdraagt werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in artikel 52a, zijn artikel 1g, eerste tot en met derde lid, van overeenkomstige toepassing op die netbeheerder.   
+5.  Indien Onze Minister op grond van artikel 10a, eerste lid, onderdeel f, de netbeheerder van het landelijk gastransportnet opdraagt werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in artikel 52a, zijn artikel 1g, eerste en tweede lid, en het tweede tot en met vierde lid van overeenkomstige toepassing op die netbeheerder.   
 
 ### Paragraaf  1.1.b  
 
@@ -230,13 +231,13 @@ e. de wijze waarop wordt vastgesteld of een afwijking aan haar doel beantwoordt,
 
 ### Artikel  2  
 
-1.  Onze Minister wijst op verzoek een naamloze of een besloten vennootschap voor tien jaar als netbeheerder van het landelijk gastransportnet aan. Bij het verzoek wordt een besluit van de raad van bestuur van de mededingingsautoriteit overgelegd waaruit blijkt dat is voldaan aan het bepaalde bij of krachtens artikel 2c en 3b, vierde lid.   
-2.  De raad van bestuur van de mededingingsautoriteit besluit op verzoek van degene die wenst te worden aangewezen als netbeheerder van het landelijk gastransportnet of naar aanleiding van een situatie, bedoeld in het zevende lid, of is voldaan aan het bepaalde bij of krachtens artikel 2c en 3b, vierde lid.   
-3.  De raad van bestuur van de mededingingsautoriteit neemt de beschikking, bedoeld in het tweede lid, overeenkomstig de procedure van artikel 10, vijfde en zesde lid, van de richtlijn en artikel 3 van verordening 715/2009 .   
+1.  Onze Minister wijst op verzoek een naamloze of een besloten vennootschap voor tien jaar als netbeheerder van het landelijk gastransportnet aan. Bij het verzoek wordt een besluit van de Autoriteit Consument en Markt overgelegd waaruit blijkt dat is voldaan aan het bepaalde bij of krachtens artikel 2c en 3b, vierde lid.   
+2.  De Autoriteit Consument en Markt besluit op verzoek van degene die wenst te worden aangewezen als netbeheerder van het landelijk gastransportnet of naar aanleiding van een situatie, bedoeld in het zevende lid, of is voldaan aan het bepaalde bij of krachtens artikel 2c en 3b, vierde lid.   
+3.  De Autoriteit Consument en Markt neemt de beschikking, bedoeld in het tweede lid, overeenkomstig de procedure van artikel 10, vijfde en zesde lid, van de richtlijn en artikel 3 van verordening 715/2009 .   
 4.  De Europese Commissie kan van een producent, een leverancier of de netbeheerder van het landelijk gastransportnet de gegevens en inlichtingen verlangen die zij nodig heeft voor de uitvoering van artikel 10 van de richtlijn.   
 5.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken als bedoeld in het vierde lid, is verplicht binnen de door de Europese Commissie gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar bevoegdheden.   
-6.  De netbeheerder van het landelijk gastransportnet meldt de raad van bestuur van de mededingingsautoriteit omstandigheden die aanleiding kunnen geven tot herziening van de beschikking, bedoeld in het tweede lid.   
-7.  De raad van bestuur van de mededingingsautoriteit kan de beschikking, bedoeld in het tweede lid, wijzigen of intrekken: 
+6.  De netbeheerder van het landelijk gastransportnet meldt de Autoriteit Consument en Markt omstandigheden die aanleiding kunnen geven tot herziening van de beschikking, bedoeld in het tweede lid.   
+7.  De Autoriteit Consument en Markt kan de beschikking, bedoeld in het tweede lid, wijzigen of intrekken: 
 
 a. naar aanleiding van een melding als bedoeld in het zesde lid;  
 
@@ -248,15 +249,15 @@ c. op verzoek van de Europese Commissie.
 
 ### Artikel  2a  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan op diens aanvraag ontheffing verlenen aan een eigenaar van een gesloten distributiesysteem van het gebod van artikel 2, achtste lid, indien: 
+1.  De Autoriteit Consument en Markt kan op diens aanvraag ontheffing verlenen aan een eigenaar van een gesloten distributiesysteem van het gebod van artikel 2, achtste lid, indien: 
 
 a. de bedrijfs- of productieproces van de gebruikers van een gesloten distributiesysteem om specifieke technische of veiligheidsredenen geïntegreerd is of  
 
 b. het gesloten distributiesysteem primair gas transporteert voor de eigenaar van dat systeem of de daarmee verwante bedrijven en  
 
 c. de aanvrager geen netbeheerder is en niet in een groepsmaatschappij met een netbeheerder verbonden is.     
-2.  De raad van bestuur van de mededingingsautoriteit neemt het besluit zo spoedig mogelijk, doch uiterlijk zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd. De raad van bestuur van de mededingingsautoriteit kan aan een ontheffing voorschriften en beperkingen verbinden.   
-3.  De raad van bestuur van de mededingingsautoriteit kan een ontheffing intrekken indien degene aan wie de ontheffing is verleend: 
+2.  De Autoriteit Consument en Markt neemt het besluit zo spoedig mogelijk, doch uiterlijk zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd. De Autoriteit Consument en Markt kan aan een ontheffing voorschriften en beperkingen verbinden.   
+3.  De Autoriteit Consument en Markt kan een ontheffing intrekken indien degene aan wie de ontheffing is verleend: 
 
 a. niet langer voldoet aan de voorwaarden, bedoeld in het eerste lid;  
 
@@ -272,7 +273,7 @@ a. artikel 10, zesde lid, uitsluitend geldt voor zover er na aansluiting sprake 
 b. niet aan de verplichtingen, bedoeld in de in artikel 14, eerste lid, genoemde artikelen behoeft te worden voldaan;  
 
 c. dat in de artikelen 1g en 1h in plaats van «gasbedrijf» wordt gelezen «eigenaar van een gesloten distributiesysteem».     
-7.  De raad van bestuur van de mededingingsautoriteit keurt op verzoek van een aangeslotene op een gesloten distributiesysteem de van kracht zijnde methode voor de berekening van de tarieven goed.   
+7.  De Autoriteit Consument en Markt keurt op verzoek van een aangeslotene op een gesloten distributiesysteem de van kracht zijnde methode voor de berekening van de tarieven goed.   
 8.  Indien een verzoek als bedoeld in het zevende lid is ontvangen, overlegt de eigenaar van een gesloten distributiesysteem binnen drie maanden na de datum waarop de raad van bestuur de eigenaar van een gesloten distributiesysteem over het verzoek heeft geïnformeerd, aan de raad van bestuur informatie over het aan het verzoek voorafgaande kalenderjaar die relevant is voor de beoordeling van het verzoek, met daarbij een toerekening van de kosten en opbrengsten aan activiteiten die verband houden met de aanleg en het beheer van het gesloten distributiesysteem in overeenstemming met het daadwerkelijk gebruik van financiële of andere middelen voor die activiteiten.   
 9.  Een besluit als bedoeld in het zevende lid, wordt genomen binnen zes maanden nadat de informatie, bedoeld in het achtste lid door de raad van bestuur is ontvangen. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd.   
 
@@ -282,7 +283,7 @@ c. dat in de artikelen 1g en 1h in plaats van «gasbedrijf» wordt gelezen «eig
 2.  Artikel 6, eerste tot en met derde lid, is van overeenkomstige toepassing, met dien verstande dat de interconnector-beheerder geen naamloze of besloten vennootschap behoeft te zijn.   
 3.  Artikel, 3, eerste en vijfde lid, 3c, 10, eerste, tweede, vierde en zevende lid, 10a, eerste lid, onderdeel m, en achtste lid, 12 tot en met 13 en 14 tot en met 16, 19, 20, 37 en 39a zijn van overeenkomstige toepassing. Artikel 82 is van overeenkomstige toepassing, rekening houdend met het grensoverschrijdende karakter en de regulering van de andere lidstaat.   
 4.  Indien de netbeheerder van het landelijk gastransportnet is aangewezen als interconnector-beheerder zijn, in afwijking van het vierde en vijfde lid, de bij of krachtens de Gaswet voor de netbeheerder van het landelijk gastransportnet geldende bepalingen van overeenkomstige toepassing, rekening houdend met het grensoverschrijdende karakter en de regulering van de andere lidstaat.   
-5.  Indien een persoon uit een derde land zeggenschap heeft over een eigenaar van een landsgrensoverschrijdend net of een interconnector-beheerder, besluit de raad van bestuur van de mededingingsautoriteit in het besluit, bedoeld in artikel 2, tweede lid, op verzoek en volgens de procedure van artikel 11 van de richtlijn of is voldaan aan artikel 11, derde lid, van de richtlijn.   
+5.  Indien een persoon uit een derde land zeggenschap heeft over een eigenaar van een landsgrensoverschrijdend net of een interconnector-beheerder, besluit de Autoriteit Consument en Markt in het besluit, bedoeld in artikel 2, tweede lid, op verzoek en volgens de procedure van artikel 11 van de richtlijn of is voldaan aan artikel 11, derde lid, van de richtlijn.   
 6.  Bij algemene maatregel van bestuur worden ter implementatie van artikel 9 van de richtlijn nadere regels gesteld voor interconnector-beheerders.   
 
 ### Artikel  2c  
@@ -353,7 +354,7 @@ b. beschikt de raad van commissarissen van de rechtspersoon, bedoeld in onderdee
 
 1.  Een netbeheerder die deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) stelt een reglement vast, waarin regels worden gesteld die beogen discriminatie bij de uitoefening van zijn taken en bevoegdheden op grond van deze wet te voorkomen. Het reglement bevat in ieder geval regels ten aanzien van het gedrag van werknemers die ertoe strekken dat discriminatie als bedoeld in de vorige volzin wordt voorkomen.   
 2.  De netbeheerder draagt er zorg voor dat elke werknemer is gebonden aan het reglement en ziet er op toe dat het reglement nauwgezet wordt nageleefd.   
-3.  De netbeheerder stelt jaarlijks een verslag op over de wijze waarop uitvoering is gegeven aan het reglement, en welke maatregelen in dat kader zijn genomen. Hij zendt het verslag naar de raad van bestuur van de mededingingsautoriteit en draagt zorg voor publicatie ervan op een geschikte wijze.   
+3.  De netbeheerder stelt jaarlijks een verslag op over de wijze waarop uitvoering is gegeven aan het reglement, en welke maatregelen in dat kader zijn genomen. Hij zendt het verslag naar de Autoriteit Consument en Markt en draagt zorg voor publicatie ervan op een geschikte wijze.   
 
 ### Artikel  4  
 
@@ -421,7 +422,7 @@ c. draagt de netbeheerder er zorg voor dat in de overeenkomst tot uitbesteding d
 ### Artikel  8  
 
 1.  Een netbeheerder beschikt over een doeltreffend systeem voor de beheersing van de kwaliteit van zijn transportdienst, waaronder in elk geval te verstaan de betrouwbaarheid en de veiligheid van die transportdienst, en over voldoende capaciteit voor het transport van gas om te voorzien in de totale behoefte.   
-2.  Een netbeheerder dient om het jaar bij de raad van bestuur van de mededingingsautoriteit een door hem vastgesteld document in waarin hij: 
+2.  Een netbeheerder dient om het jaar bij de Autoriteit Consument en Markt een door hem vastgesteld document in waarin hij: 
 
 a. aangeeft welk kwaliteitsniveau hij nastreeft,  
 
@@ -457,7 +458,7 @@ f. investeringen met betrekking tot een gastransportnet;
 g. de periode waarop het document of onderdelen daarvan betrekking hebben.     
 4.  De netbeheerder maakt het document op een geschikte wijze openbaar.   
 5.  Bij ministeriële regeling kan worden bepaald dat een door een geaccrediteerde instelling aan een netbeheerder verstrekt certificaat van conformiteit aan het bepaalde bij of krachtens dit artikel, ten behoeve van het toezicht op de naleving van dit artikel, het vermoeden oplevert dat de netbeheerder een kwaliteitsbeheersingssyteem heeft en daaraan uitvoering geeft overeenkomstig het bepaalde bij of krachtens dit artikel.   
-6.  De netbeheerder handelt naar zijn voornemens, opgenomen in het document, bedoeld in het tweede lid. Hij meldt de raad van bestuur van de mededingingsautoriteit indien hij hiervan heeft afgeweken.   
+6.  De netbeheerder handelt naar zijn voornemens, opgenomen in het document, bedoeld in het tweede lid. Hij meldt de Autoriteit Consument en Markt indien hij hiervan heeft afgeweken.   
 
 ### Artikel  8a  
 
@@ -467,7 +468,7 @@ g. de periode waarop het document of onderdelen daarvan betrekking hebben.
 
 ### Artikel  9  
 
-1.  Indien naar het oordeel van de raad van bestuur van de mededingingsautoriteit uit het document, bedoeld in artikel 8, of uit de overzichten, bedoeld in artikel 35b, of anderszins, blijkt dat een netbeheerder in onvoldoende mate of op een ondoelmatige wijze kan of zal kunnen voorzien in het door hem te bereiken niveau van de kwaliteit van zijn transportdienst of in de totale behoefte aan capaciteit voor het transport van gas over de door hem beheerde netten, meldt hij zulks na overleg met de netbeheerder van het landelijk gastransportnet en de netbeheerder van het desbetreffende net aan Onze Minister.   
+1.  Indien naar het oordeel van de Autoriteit Consument en Markt uit het document, bedoeld in artikel 8, of uit de overzichten, bedoeld in artikel 35b, of anderszins, blijkt dat een netbeheerder in onvoldoende mate of op een ondoelmatige wijze kan of zal kunnen voorzien in het door hem te bereiken niveau van de kwaliteit van zijn transportdienst of in de totale behoefte aan capaciteit voor het transport van gas over de door hem beheerde netten, meldt zij zulks na overleg met de netbeheerder van het landelijk gastransportnet en de netbeheerder van het desbetreffende net aan Onze Minister.   
 2.  Nadat hij een melding heeft ontvangen, kan Onze Minister aan de desbetreffende netbeheerder opdragen voorzieningen te treffen teneinde zeker te stellen dat het transport van gas in voldoende mate of op een doelmatige wijze plaatsvindt.   
 3.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de opdracht, bedoeld in het tweede lid.   
 
@@ -570,10 +571,10 @@ m. samen te werken met het Agentschap.
 2.  Indien de netbeheerder van het landelijk gastransportnet bij de uitvoering van zijn wettelijke taken energie inkoopt, doet hij dit op basis van een transparante, niet-discriminatoire en marktconforme procedure.   
 3.  De rechtspersoon, bedoeld in artikel 54, eerste lid, is verplicht de netbeheerder van het landelijk gastransportnet een aanbod met redelijke tarieven en voorwaarden te doen tot levering aan de door de netbeheerder van het landelijk gastransportnet ter uitvoering van zijn wettelijke taken benodigde hoeveelheden gas in de door hem gevraagde hoeveelheden en op de door hem gewenste tijdstippen.   
 4.  Bij algemene maatregel van bestuur worden regels gesteld ter uitvoering van de taak, bedoeld in het eerste lid, onderdeel a en artikel 10, derde lid, onderdeel c. Deze regels hebben mede betrekking op de wijze waarop enerzijds de netbeheerder van het landelijk gastransportnet, en anderzijds gasproductiebedrijven, gasopslagbedrijven, LNG-bedrijven, andere netbeheerders, leveranciers en afnemers zich jegens elkaar gedragen.   
-5.  De raad van bestuur van de mededingingsautoriteit brengt advies uit over het ontwerp van de algemene maatregel van bestuur, bedoeld in het vierde lid. De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.   
+5.  De Autoriteit Consument en Markt brengt advies uit over het ontwerp van de algemene maatregel van bestuur, bedoeld in het vierde lid. De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.   
 6.  Een besluit als bedoeld in het eerste lid, onderdeel f, wordt gepubliceerd in de Staatscourant.   
 7.  Indien de netbeheerder van het landelijk gastransportnet deelneemt aan een gemeenschappelijke onderneming waaraan ook een verticaal geïntegreerde buitenlandse instelling die op grond van nationale wettelijke regels belast is met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijn deelneemt, draagt de netbeheerder van het landelijk gastransportnet er zorg voor dat de gemeenschappelijke onderneming een nalevingsprogramma ontwerpt, door het Agentschap laat goedkeuren en implementeert met maatregelen die moeten worden genomen om discriminerend en concurrentieverstorend gedrag uit te sluiten.   
-8.  Voordat de netbeheerder van het landelijk gastransportnet congestiebeheersprocedures hanteert voor landsgrensoverschrijdende netten, legt hij deze procedures ter goedkeuring voor aan de raad van bestuur van de mededingingsautoriteit.   
+8.  Voordat de netbeheerder van het landelijk gastransportnet congestiebeheersprocedures hanteert voor landsgrensoverschrijdende netten, legt hij deze procedures ter goedkeuring voor aan de Autoriteit Consument en Markt.   
 
 ### Paragraaf  1.4  
 
@@ -619,7 +620,7 @@ c. het ter beschikking stellen en houden van netten ten behoeve van het gebruik 
 d. de aanleg, het beheer of het onderhoud van aansluitingen met een doorlaatwaarde groter dan 40 m <sup>3</sup> (n) per uur.     
 2.  Indien de netbeheerder van het landelijk gastransportnet onderdeel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), is het deze groep niet toegestaan om handelingen of activiteiten te verrichten die strijdig kunnen zijn met het belang van het beheer van het landelijk gastransportnet.   
 3.  De statuten van de rechtspersonen die met de netbeheerder van het landelijk gastransportnet in een groep zijn verbonden, behoeven de goedkeuring van Onze Minister, voor zover het betreft de daarin opgenomen doelstelling van die rechtspersonen.   
-4.  De netbeheerder van het landelijk gastransportnet verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de raad van bestuur van de mededingingsautoriteit een overzicht van de financiële middelen waarover hij beschikt ten behoeve van de uitvoering van zijn wettelijke taken, waaruit blijkt welke financiële middelen voor de afzonderlijke taken beschikbaar zijn.   
+4.  De netbeheerder van het landelijk gastransportnet verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de Autoriteit Consument en Markt een overzicht van de financiële middelen waarover hij beschikt ten behoeve van de uitvoering van zijn wettelijke taken, waaruit blijkt welke financiële middelen voor de afzonderlijke taken beschikbaar zijn.   
 
 ### Artikel  10d  
 
@@ -631,7 +632,7 @@ a. het verstrekken van gegevens aan een groepsmaatschappij over afnemers, niet z
 b. het leveren van goederen of diensten aan een groepsmaatschappij tegen een vergoeding die lager is dan de redelijkerwijs daaraan toe te rekenen kosten, of  
 
 c. het toestaan van het gebruik door een groepsmaatschappij van de naam en het beeldmerk van de netbeheerder op een wijze waardoor verwarring bij het publiek te duchten is over de herkomst van goederen of diensten.     
-3.  De netbeheerder voegt bij zijn jaarrekening een verklaring waaruit blijkt dat de financiële verhouding tussen de netbeheerder en de groepsmaatschappijen, bedoeld in het eerste lid, voldoet aan de in het eerste lid gestelde eisen. De netbeheerder legt een exemplaar van zijn jaarrekening, de daartoe behorende toelichting en de daarbij gevoegde verklaring voor een ieder ter inzage in al zijn kantoren en zendt een exemplaar daarvan aan de raad van bestuur van de mededingingsautoriteit.   
+3.  De netbeheerder voegt bij zijn jaarrekening een verklaring waaruit blijkt dat de financiële verhouding tussen de netbeheerder en de groepsmaatschappijen, bedoeld in het eerste lid, voldoet aan de in het eerste lid gestelde eisen. De netbeheerder legt een exemplaar van zijn jaarrekening, de daartoe behorende toelichting en de daarbij gevoegde verklaring voor een ieder ter inzage in al zijn kantoren en zendt een exemplaar daarvan aan de Autoriteit Consument en Markt.   
 
 ### Artikel  10e  
 
@@ -648,12 +649,12 @@ a. regels worden gesteld omtrent de wijze van berekening van vermogensonderdelen
 b. eisen worden gesteld met betrekking tot de in het tweede lid, onderdeel b, bedoelde verklaring en de daar bedoelde deskundige.     
 4.  Indien de netbeheerder niet voldoet aan de regels, bedoeld in het eerste lid: 
 
-a. stelt de netbeheerder de raad van bestuur van de mededingingsautoriteit hiervan onverwijld schriftelijk op de hoogte,  
+a. stelt de netbeheerder de Autoriteit Consument en Markt hiervan onverwijld schriftelijk op de hoogte,  
 
-b. stelt de netbeheerder binnen vier weken na de melding een herstelplan op waarin wordt beschreven op welke wijze hij het financieel beheer gaat verbeteren en zendt hij dit plan aan de raad van bestuur van de mededingingsautoriteit, en  
+b. stelt de netbeheerder binnen vier weken na de melding een herstelplan op waarin wordt beschreven op welke wijze hij het financieel beheer gaat verbeteren en zendt hij dit plan aan de Autoriteit Consument en Markt, en  
 
 c. keert de netbeheerder geen dividend uit aan zijn aandeelhouders.     
-5.  De raad van bestuur van de mededingingsautoriteit kan de netbeheerder aanwijzingen geven met betrekking tot de verbetering van het financieel beheer.   
+5.  De Autoriteit Consument en Markt kan de netbeheerder aanwijzingen geven met betrekking tot de verbetering van het financieel beheer.   
 
 ### Hoofdstuk  2  
 
@@ -670,12 +671,12 @@ c. keert de netbeheerder geen dividend uit aan zijn aandeelhouders.
 ### Artikel  12  
 
 1.  Bij ministeriële regeling worden regels gesteld met betrekking tot de tariefstructuren en voorwaarden als bedoeld in de artikelen 12a en 12b.   
-2.  De raad van bestuur van de mededingingsautoriteit brengt advies uit over het ontwerp van de in het eerste lid bedoelde regels.   
+2.  De Autoriteit Consument en Markt brengt advies uit over het ontwerp van de in het eerste lid bedoelde regels.   
 3.  Een krachtens het eerste lid vastgestelde ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de ministeriële regeling bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling ingetrokken.   
 
 ### Artikel  12a  
 
-Met inachtneming van de in artikel 12 bedoelde regels en de in artikel 6 van verordening 715/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de raad van bestuur van de mededingingsautoriteit een voorstel met betrekking tot de door hen jegens netgebruikers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van: 
+Met inachtneming van de in artikel 12 bedoelde regels en de in artikel 6 van verordening 715/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel met betrekking tot de door hen jegens netgebruikers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van: 
 
 a. het tarief voor transport van gas, met inbegrip van invoer, uitvoer en doorvoer van gas en de het transport ondersteunende diensten ten behoeve van netgebruikers en met inbegrip van de in artikel 10a, eerste lid, met uitzondering van onderdeel d, omschreven wettelijke taken,  
 
@@ -685,7 +686,7 @@ c. de tarieven voor meting van gas bij afnemers als bedoeld in artikel 43, eerst
 
 ### Artikel  12b  
 
-1.  Met inachtneming van de in artikel 12 bedoelde regels en de in artikel 6 van verordening 715/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de door hen jegens netgebruikers te hanteren voorwaarden met betrekking tot: 
+1.  Met inachtneming van de in artikel 12 bedoelde regels en de in artikel 6 van verordening 715/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel voor de door hen jegens netgebruikers te hanteren voorwaarden met betrekking tot: 
 
 a. de wijze waarop netbeheerders en netgebruikers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het in werking hebben van de gastransportnetten, het voorzien van een aansluiting op het net en het uitvoeren van transport van gas over het gastransportnet;  
 
@@ -741,23 +742,23 @@ e. de wijze waarop de netbeheerder van het landelijk gastransportnet een ernstig
 ### Artikel  12c  
 
 1.  De netbeheerder van het landelijk gastransportnet of ten minste een derde van het aantal overige netbeheerders kan de gezamenlijke netbeheerders verzoeken met inachtneming van de in artikel 12 bedoelde regels een voorstel te doen tot wijziging van de tariefstructuren of de voorwaarden bedoeld in de artikelen 12a en 12b onder opgave van de redenen die naar zijn oordeel een dergelijke wijziging noodzakelijk maken.   
-2.  Indien naar zijn oordeel wijziging van de tariefstructuren of de voorwaarden bedoeld in de artikelen 12a en 12b noodzakelijk is, zendt de raad van bestuur van de mededingingsautoriteit met inachtneming van de in artikel 12 bedoelde regels een ontwerp van het besluit tot wijziging van de tariefstructuren of de voorwaarden aan de gezamenlijke netbeheerders en de representatieve organisaties van netgebruikers.   
+2.  Indien naar haar oordeel wijziging van de tariefstructuren of de voorwaarden bedoeld in de artikelen 12a en 12b noodzakelijk is, zendt de Autoriteit Consument en Markt met inachtneming van de in artikel 12 bedoelde regels een ontwerp van het besluit tot wijziging van de tariefstructuren of de voorwaarden aan de gezamenlijke netbeheerders en de representatieve organisaties van netgebruikers.   
 3.  In een voorstel of een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden worden die onderdelen bedoeld in artikel 12a of  12b opgenomen waarvan wijziging wordt verzocht.   
 
 ### Artikel  12d  
 
 1.  De gezamenlijke netbeheerders voeren overleg met representatieve organisaties van netgebruikers op de gasmarkt over de voorstellen met betrekking tot de tariefstructuren en de voorwaarden, bedoeld in de artikelen 12a, 12b en 12c, eerste lid.   
-2.  In de voorstellen die aan de raad van bestuur van de mededingingsautoriteit worden gezonden, geven de gezamenlijke netbeheerders aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het eerste lid, naar voren hebben gebracht.   
+2.  In de voorstellen die aan de Autoriteit Consument en Markt worden gezonden, geven de gezamenlijke netbeheerders aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het eerste lid, naar voren hebben gebracht.   
 
 ### Artikel  12e  
 
-1.  De eerste maal na inwerkingtreding van dit artikel zenden de gezamenlijke netbeheerders de voorstellen met betrekking tot de tariefstructuren of de voorwaarden, bedoeld in de artikelen 12a en 12b, aan de raad van bestuur van de mededingingsautoriteit binnen zes kalendermaanden na inwerkingtreding van dit artikel.   
-2.  De gezamenlijke netbeheerders zenden een voorstel met betrekking tot de wijziging van de tariefstructuren of de voorwaarden aan de raad van bestuur van de mededingingsautoriteit binnen 12 weken na het tijdstip waarop een verzoek als bedoeld in artikel 12c, eerste lid, wordt gedaan.   
-3.  De gezamenlijke netbeheerders en de representatieve organisaties van netgebruikers op de gasmarkt kunnen hun zienswijze op een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden aan de raad van bestuur van de mededingingsautoriteit kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit op grond van artikel 12c, tweede lid, aan hen is gezonden.   
+1.  De eerste maal na inwerkingtreding van dit artikel zenden de gezamenlijke netbeheerders de voorstellen met betrekking tot de tariefstructuren of de voorwaarden, bedoeld in de artikelen 12a en 12b, aan de Autoriteit Consument en Markt binnen zes kalendermaanden na inwerkingtreding van dit artikel.   
+2.  De gezamenlijke netbeheerders zenden een voorstel met betrekking tot de wijziging van de tariefstructuren of de voorwaarden aan de Autoriteit Consument en Markt binnen 12 weken na het tijdstip waarop een verzoek als bedoeld in artikel 12c, eerste lid, wordt gedaan.   
+3.  De gezamenlijke netbeheerders en de representatieve organisaties van netgebruikers op de gasmarkt kunnen hun zienswijze op een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden aan de Autoriteit Consument en Markt kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit op grond van artikel 12c, tweede lid, aan hen is gezonden.   
 
 ### Artikel  12f  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt de tariefstructuren en de voorwaarden vast met inachtneming van: 
+1.  De Autoriteit Consument en Markt stelt de tariefstructuren en de voorwaarden vast met inachtneming van: 
 
 a. het voorstel van de gezamenlijke netbeheerders als bedoeld in artikel 12a, 12b of  12c en de resultaten van het overleg, bedoeld in artikel 12d;  
 
@@ -776,33 +777,33 @@ g. de in artikel 12 bedoelde regels;
 h. verordening 715/2009;  
 
 i. de richtlijn.     
-2.  De raad van bestuur van de mededingingsautoriteit stelt de voorwaarden niet vast dan nadat hij zich ervan vergewist heeft dat de voorwaarden de interoperabiliteit van de netten garanderen en objectief, evenredig en niet-discriminatoir zijn, alsmede voor zover dat op grond van de notificatierichtlijn noodzakelijk is, aan de Commissie van de Europese Gemeenschappen in ontwerp zijn meegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van richtlijn 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204), zijn verstreken.   
-3.  Indien een voorstel als bedoeld in artikel 12a, 12b of 12c naar het oordeel van de raad van bestuur van de mededingingsautoriteit in strijd is met het belang, bedoeld in het eerste lid, onderdeel b, c, d, e of f, met de regels, bedoeld in het eerste lid, onderdelen g, h en i, of met de eisen, bedoeld in het tweede lid, draagt de raad van bestuur van de mededingingsautoriteit de gezamenlijke netbeheerders op het voorstel onverwijld zodanig te wijzigen dat deze strijd wordt opgeheven. [Artikel 4:15 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-4.  Indien de gezamenlijke netbeheerders niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de raad van bestuur van de mededingingsautoriteit, bedoeld in het derde lid, stelt de raad van bestuur van de mededingingsautoriteit de tariefstructuren of de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in het eerste lid, onderdelen b tot en met f, met de regels, bedoeld in het eerste lid, onderdelen g, h en i, en met de eisen, bedoeld in het tweede lid.   
+2.  De Autoriteit Consument en Markt stelt de voorwaarden niet vast dan nadat zij zich ervan vergewist heeft dat de voorwaarden de interoperabiliteit van de netten garanderen en objectief, evenredig en niet-discriminatoir zijn, alsmede voor zover dat op grond van de notificatierichtlijn noodzakelijk is, aan de Commissie van de Europese Gemeenschappen in ontwerp zijn meegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van richtlijn 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204), zijn verstreken.   
+3.  Indien een voorstel als bedoeld in artikel 12a, 12b of 12c naar het oordeel van de Autoriteit Consument en Markt in strijd is met het belang, bedoeld in het eerste lid, onderdeel b, c, d, e of f, met de regels, bedoeld in het eerste lid, onderdelen g, h en i, of met de eisen, bedoeld in het tweede lid, draagt de Autoriteit Consument en Markt de gezamenlijke netbeheerders op het voorstel onverwijld zodanig te wijzigen dat deze strijd wordt opgeheven. [Artikel 4:15 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+4.  Indien de gezamenlijke netbeheerders niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de Autoriteit Consument en Markt, bedoeld in het derde lid, stelt de Autoriteit Consument en Markt de tariefstructuren of de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in het eerste lid, onderdelen b tot en met f, met de regels, bedoeld in het eerste lid, onderdelen g, h en i, en met de eisen, bedoeld in het tweede lid.   
 
 ### Artikel  12g  
 
-1.  Nadat de termijn, bedoeld in artikel 12e, derde lid, is verstreken, stelt de raad van bestuur van de mededingingsautoriteit de tariefstructuren of de voorwaarden vast met inachtneming van de voorstellen van de gezamenlijke netbeheerders en van artikel 12f, eerste, tweede en derde lid. Indien een voorstel als bedoeld in artikel 12e niet binnen de daarbij aangegeven termijn aan de raad van bestuur van de mededingingsautoriteit is gezonden, stelt deze de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 12f, eerste, tweede en derde lid.   
-2.  Indien de gezamenlijke netbeheerders niet binnen de termijn, bedoeld in artikel 12e, derde lid, hun zienswijze op een ontwerp van een besluit als bedoeld in dat artikel aan de raad van bestuur van de mededingingsautoriteit kenbaar maken, stelt deze het besluit tot wijziging van de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 12f, eerste en tweede lid.   
+1.  Nadat de termijn, bedoeld in artikel 12e, derde lid, is verstreken, stelt de Autoriteit Consument en Markt de tariefstructuren of de voorwaarden vast met inachtneming van de voorstellen van de gezamenlijke netbeheerders en van artikel 12f, eerste, tweede en derde lid. Indien een voorstel als bedoeld in artikel 12e niet binnen de daarbij aangegeven termijn aan de Autoriteit Consument en Markt is gezonden, stelt deze de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 12f, eerste, tweede en derde lid.   
+2.  Indien de gezamenlijke netbeheerders niet binnen de termijn, bedoeld in artikel 12e, derde lid, hun zienswijze op een ontwerp van een besluit als bedoeld in dat artikel aan de Autoriteit Consument en Markt kenbaar maken, stelt deze het besluit tot wijziging van de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 12f, eerste en tweede lid.   
 
 ### Artikel  12h  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan op aanvraag bij beschikking een ontheffing verlenen van de tariefstructuren en de voorwaarden. Bij zijn beslissing neemt de raad van bestuur van de mededingingsautoriteit de belangen als bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, en de regels, bedoeld in artikel 12f, eerste lid, onderdelen g, h en i, in acht.   
-2.  De raad van bestuur van de mededingingsautoriteit stelt beleidsregels op met betrekking tot de procedure voor aanvraag van een ontheffing.   
-3.  De raad van bestuur van de mededingingsautoriteit kan voorschriften en beperkingen verbinden aan de ontheffing. De raad van bestuur van de mededingingsautoriteit kan de voorschriften en opgelegde beperkingen wijzigen.   
-4.  De raad van bestuur van de mededingingsautoriteit trekt de ontheffing in op een daartoe strekkend schriftelijk verzoek van de houder van de ontheffing.   
-5.  De raad van bestuur van de mededingingsautoriteit kan de ontheffing intrekken, indien: 
+1.  De Autoriteit Consument en Markt kan op aanvraag bij beschikking een ontheffing verlenen van de tariefstructuren en de voorwaarden. Bij haar beslissing neemt de Autoriteit Consument en Markt de belangen als bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, en de regels, bedoeld in artikel 12f, eerste lid, onderdelen g, h en i, in acht.   
+2.  De Autoriteit Consument en Markt stelt beleidsregels op met betrekking tot de procedure voor aanvraag van een ontheffing.   
+3.  De Autoriteit Consument en Markt kan voorschriften en beperkingen verbinden aan de ontheffing. De Autoriteit Consument en Markt kan de voorschriften en opgelegde beperkingen wijzigen.   
+4.  De Autoriteit Consument en Markt trekt de ontheffing in op een daartoe strekkend schriftelijk verzoek van de houder van de ontheffing.   
+5.  De Autoriteit Consument en Markt kan de ontheffing intrekken, indien: 
 
 a. de houder van de ontheffing de aan de ontheffing verbonden voorschriften of opgelegde beperkingen niet nakomt;  
 
 b. de houder van de ontheffing bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste en volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid;  
 
-c. de raad van bestuur van de mededingingsautoriteit, gelet op de belangen bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, en de regels, bedoeld in artikel 12f, eerste lid, onderdelen g, h en i, van oordeel is dat intrekking van de ontheffing noodzakelijk is.     
+c. de Autoriteit Consument en Markt, gelet op de belangen bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, en de regels, bedoeld in artikel 12f, eerste lid, onderdelen g, h en i, van oordeel is dat intrekking van de ontheffing noodzakelijk is.     
 6.  Een op grond van dit artikel genomen beschikking wordt bekendgemaakt in de Staatscourant.   
 
 ### Artikel  12i  
 
-1.  De tariefstructuren en de voorwaarden treden in werking op een door de raad van bestuur van de mededingingsautoriteit te bepalen datum en gelden voor onbepaalde tijd.   
+1.  De tariefstructuren en de voorwaarden treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden voor onbepaalde tijd.   
 2.  Van de besluiten betreffende de vaststelling van de tariefstructuren en de voorwaarden alsmede de wijziging daarvan wordt mededeling gedaan door plaatsing in de Staatscourant.   
 3.  Iedere netbeheerder legt een exemplaar van de tariefstructuren en de voorwaarden voor een ieder ter inzage in al zijn vestigingen.   
 4.  Na de vaststelling van de voorwaarden gelden deze als minimumeisen voor de technische veiligheid en voor het technisch ontwerp en de exploitatie van de installaties en netten, bedoeld in artikel 8 van de richtlijn.   
@@ -821,10 +822,10 @@ d. de dienstverlening van LNG-bedrijven aan derden
 
 e. de door het LNG-bedrijf te hanteren technische specificaties.     
 2.  Een LNG-bedrijf stelt jaarlijks voor 1 juli de berekeningsmethodiek van de tarieven en de voorwaarden vast die het in het volgende kalenderjaar wil hanteren voor het sluiten van overeenkomsten over het verlenen van toegang tot de LNG-installatie, alsmede voor het verrichten van die toegang ondersteunende diensten. De voorwaarden van een LNG-bedrijf zijn redelijk, transparant en niet-discriminatoir.   
-3.  Het LNG-bedrijf zendt de door hem vastgestelde berekeningsmethodiek van de tarieven en de voorwaarden onverwijld ter goedkeuring aan de raad van bestuur van de mededingingsautoriteit.   
-4.  De raad van bestuur van de mededingingsautoriteit beslist binnen een termijn van drie maanden na ontvangst omtrent de goedkeuring van de berekeningsmethodiek en de voorwaarden. De raad van bestuur van de mededingingsautoriteit onthoudt zijn goedkeuring aan de berekeningsmethodiek en de voorwaarden als zij naar zijn oordeel niet in overeenstemming zijn met de bij of krachtens het eerste en tweede lid gestelde eisen.   
-5.  Indien de raad van bestuur van de mededingingsautoriteit niet binnen een termijn, genoemd in het vierde lid, omtrent de goedkeuring heeft beslist, worden zij geacht te zijn goedgekeurd.   
-6.  Indien de raad van bestuur van de mededingingsautoriteit zijn goedkeuring aan de berekeningsmethodiek van de tarieven en de voorwaarden heeft onthouden, stelt het LNG-bedrijf de berekeningsmethodiek van de tarieven en voorwaarden zo spoedig mogelijk opnieuw vast, met inachtneming van de aanwijzingen die de raad van bestuur van de mededingingsautoriteit hem heeft gegeven in zijn beslissing tot onthouding van goedkeuring, en zendt het de berekeningsmethodiek van de tarieven en de voorwaarden wederom onverwijld ter goedkeuring aan de raad van bestuur van de mededingingsautoriteit. Het vierde, vijfde en zesde lid zijn van overeenkomstige toepassing.   
+3.  Het LNG-bedrijf zendt de door hem vastgestelde berekeningsmethodiek van de tarieven en de voorwaarden onverwijld ter goedkeuring aan de Autoriteit Consument en Markt.   
+4.  De Autoriteit Consument en Markt beslist binnen een termijn van drie maanden na ontvangst omtrent de goedkeuring van de berekeningsmethodiek en de voorwaarden. De Autoriteit Consument en Markt onthoudt haar goedkeuring aan de berekeningsmethodiek en de voorwaarden als zij naar haar oordeel niet in overeenstemming zijn met de bij of krachtens het eerste en tweede lid gestelde eisen.   
+5.  Indien de Autoriteit Consument en Markt niet binnen een termijn, genoemd in het vierde lid, omtrent de goedkeuring heeft beslist, worden zij geacht te zijn goedgekeurd.   
+6.  Indien de Autoriteit Consument en Markt haar goedkeuring aan de berekeningsmethodiek van de tarieven en de voorwaarden heeft onthouden, stelt het LNG-bedrijf de berekeningsmethodiek van de tarieven en voorwaarden zo spoedig mogelijk opnieuw vast, met inachtneming van de aanwijzingen die de Autoriteit Consument en Markt hem heeft gegeven in haar beslissing tot onthouding van goedkeuring, en zendt het de berekeningsmethodiek van de tarieven en de voorwaarden wederom onverwijld ter goedkeuring aan de Autoriteit Consument en Markt. Het vierde, vijfde en zesde lid zijn van overeenkomstige toepassing.   
 7.  De berekeningsmethodiek van de tarieven en voorwaarden treden in werking op 1 januari van het kalenderjaar waarop zij betrekking hebben. Indien zij op die datum nog niet zijn goedgekeurd, treden zij in werking op de dag waarop het besluit tot goedkeuring in werking is getreden. In het geval, bedoeld in de vorige volzin, gelden tot de dag waarop het besluit tot goedkeuring in werking treedt, de berekeningsmethodiek van de tarieven en voorwaarden die golden in het voorafgaande kalenderjaar.   
 8.  Het LNG-bedrijf publiceert op een geschikte wijze de goedgekeurde berekeningsmethodiek van de tarieven, de voorwaarden en de tarieven, voorafgaand aan de inwerkingtreding ervan. Het LNG-bedrijf legt een exemplaar van de goedgekeurde berekeningsmethodiek van de tarieven, de voorwaarden en de tarieven voor een ieder ter inzage in al zijn vestigingen.   
 
@@ -904,7 +905,7 @@ c. een gebouw ingrijpend wordt gerenoveerd.
 10.  Het is anderen dan de netbeheerder niet toegestaan bij afnemers als bedoeld in artikel 43, eerste lid, geïnstalleerde, op afstand uitleesbare meetinrichtingen te vervangen die geïnstalleerd zijn tussen 31 december 2005 en het tijdstip waarop de in het eerste lid bedoelde periode aanvangt.   
 11.  Indien een op afstand uitleesbare meetinrichting door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 43, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.   
 12.  In aanvulling op artikel 81e, eerste lid, kan het tarief voor de meting van gas mede betrekking hebben op de mate waarin een netbeheerder voortgang boekt bij de uitvoering van de verplichting, bedoeld in het eerste lid, en alsdan verschillen per netbeheerder.   
-13.  Een netbeheerder zendt jaarlijks vóór 1 juni een rapportage aan Onze Minister en de raad van bestuur van de mededingingsautoriteit waarin hij aangeeft welke voortgang is geboekt met de uitvoering van de taak, bedoeld in het eerste lid.   
+13.  Een netbeheerder zendt jaarlijks vóór 1 juni een rapportage aan Onze Minister en de Autoriteit Consument en Markt waarin hij aangeeft welke voortgang is geboekt met de uitvoering van de taak, bedoeld in het eerste lid.   
 
 ### Artikel  13f  
 
@@ -934,8 +935,8 @@ De artikelen 13b en 13c, eerste lid, zijn niet van toepassing met betrekking tot
 
 ### Artikel  14a  
 
-1.  Behoudens artikel 15 is een LNG-bedrijf verplicht, in voorkomend geval tezamen met een verwant bedrijf, aan degene die daarom verzoekt een aanbod te doen met behulp van de door hem beheerde LNG-installatie en van één of meer installaties van het verwante bedrijf, ten behoeve van verzoeker LNG-activiteiten en de die activiteiten ondersteunende diensten uit te voeren. Het aanbod bevat een tarief, berekend op basis van een berekeningsmethodiek die, en tegen voorwaarden die, in overeenstemming zijn met die welke overeenkomstig artikel 13 door de raad van bestuur van de mededingingsautoriteit zijn goedgekeurd.   
-2.  Indien een LNG-bedrijf, een onjuiste toepassing geeft aan de overeenkomstig artikel 13 goedgekeurde berekeningsmethodiek en de voorwaarden, geeft de raad van bestuur van de mededingingsautoriteit dat bedrijf een bindende aanwijzing met betrekking tot de wijze waarop die berekeningsmethodiek en die voorwaarden behoren te worden toegepast.   
+1.  Behoudens artikel 15 is een LNG-bedrijf verplicht, in voorkomend geval tezamen met een verwant bedrijf, aan degene die daarom verzoekt een aanbod te doen met behulp van de door hem beheerde LNG-installatie en van één of meer installaties van het verwante bedrijf, ten behoeve van verzoeker LNG-activiteiten en de die activiteiten ondersteunende diensten uit te voeren. Het aanbod bevat een tarief, berekend op basis van een berekeningsmethodiek die, en tegen voorwaarden die, in overeenstemming zijn met die welke overeenkomstig artikel 13 door de Autoriteit Consument en Markt zijn goedgekeurd.   
+2.  Indien een LNG-bedrijf, een onjuiste toepassing geeft aan de overeenkomstig artikel 13 goedgekeurde berekeningsmethodiek en de voorwaarden, geeft de Autoriteit Consument en Markt dat bedrijf een bindende aanwijzing met betrekking tot de wijze waarop die berekeningsmethodiek en die voorwaarden behoren te worden toegepast.   
 3.  Een LNG-bedrijf hanteert voorwaarden die redelijk, transparant en niet-discriminatoir zijn.   
 4.  De [artikelen 236](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [237 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn mede van toepassing op voorwaarden in overeenkomsten met afnemers als bedoeld in artikel 43, eerste lid, die rechtspersoon zijn of handelen in de uitoefening van een beroep of bedrijf.   
 
@@ -952,12 +953,12 @@ c. de netbeheerder beschikt over een daartoe strekkende ontheffing als bedoeld i
 
 ### Artikel  16  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan op aanvraag de netbeheerder van het landelijk gastransportnet tijdelijk ontheffing verlenen van de in artikel 14, eerste lid, bedoelde verplichting indien een verzoek om transport is gericht tot die netbeheerder en die netbeheerder of een verwant bedrijf ernstige economische en financiële moeilijkheden ondervindt of dreigt te ondervinden in verband met één of meer reeds aangegane overeenkomsten die een verplichting bevatten tot afname van een bepaalde hoeveelheid gas of, bij gebreke daarvan, tot het betalen van een vergoeding ter waarde van die hoeveelheid gas of van een deel daarvan.   
+1.  De Autoriteit Consument en Markt kan op aanvraag de netbeheerder van het landelijk gastransportnet tijdelijk ontheffing verlenen van de in artikel 14, eerste lid, bedoelde verplichting indien een verzoek om transport is gericht tot die netbeheerder en die netbeheerder of een verwant bedrijf ernstige economische en financiële moeilijkheden ondervindt of dreigt te ondervinden in verband met één of meer reeds aangegane overeenkomsten die een verplichting bevatten tot afname van een bepaalde hoeveelheid gas of, bij gebreke daarvan, tot het betalen van een vergoeding ter waarde van die hoeveelheid gas of van een deel daarvan.   
 2.  In een verzoek om ontheffing worden de aard en de omvang van de verwachte moeilijkheden aangegeven, alsmede de inspanningen die de netbeheerder van het landelijk gastransportnet onderscheidenlijk het verwant bedrijf heeft geleverd om die moeilijkheden op te lossen.   
-3.  Bij het beoordelen van de aanvraag houdt de raad van bestuur van de mededingingsautoriteit rekening met artikel 48, eerste lid, tweede alinea, en derde lid, van de richtlijn.   
-4.  De raad van bestuur van de mededingingsautoriteit beslist zo spoedig mogelijk op de aanvraag, doch uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
-5.  Indien de raad van bestuur van de mededingingsautoriteit een ontheffing als bedoeld in het eerste lid heeft verleend, stelt hij de Commissie van de Europese Gemeenschappen daarvan onverwijld in kennis, onder overlegging van de daarvoor van belang zijnde gegevens.   
-6.  Indien een definitief besluit van de Commissie als bedoeld in artikel 48, tweede lid, van de richtlijn strekt tot wijziging of intrekking van de ontheffing is de raad van bestuur van de mededingingsautoriteit verplicht daaraan onverwijld gevolg te geven.   
+3.  Bij het beoordelen van de aanvraag houdt de Autoriteit Consument en Markt rekening met artikel 48, eerste lid, tweede alinea, en derde lid, van de richtlijn.   
+4.  De Autoriteit Consument en Markt beslist zo spoedig mogelijk op de aanvraag, doch uiterlijk binnen vier maanden na ontvangst van de aanvraag.   
+5.  Indien de Autoriteit Consument en Markt een ontheffing als bedoeld in het eerste lid heeft verleend, stelt zij de Commissie van de Europese Gemeenschappen daarvan onverwijld in kennis, onder overlegging van de daarvoor van belang zijnde gegevens.   
+6.  Indien een definitief besluit van de Commissie als bedoeld in artikel 48, tweede lid, van de richtlijn strekt tot wijziging of intrekking van de ontheffing is de Autoriteit Consument en Markt verplicht daaraan onverwijld gevolg te geven.   
 7.  Van een besluit als bedoeld in het vierde lid wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  17  
@@ -1026,7 +1027,7 @@ e. de ontheffing belemmert niet de mededinging op of de doelmatige werking van d
 2.  Het eerste lid is van overeenkomstige toepassing op aanmerkelijke uitbreidingen van de capaciteit van bestaande netten of installaties en op wijzigingen van de bestaande netten of installaties die de ontwikkeling van nieuwe bronnen van gasvoorziening bevorderen.   
 3.  De ontheffing kan betrekking hebben op het gehele nieuwe net of de gehele nieuwe installatie onderscheidenlijk de aanmerkelijke uitbreiding of wijziging van een bestaand net of een bestaande installatie dan wel op gedeelten daarvan.   
 4.   Vervallen.    
-5.  Alvorens Onze Minister beslist op een verzoek om een ontheffing brengt de raad van bestuur van de mededingingsautoriteit of, indien dit voortvloeit uit artikel 36, vierde en zevende lid, van de richtlijn, het Agentschap advies uit. Van het advies wordt uiterlijk tegelijk met de bekendmaking van het besluit op de aanvraag kennis gegeven.   
+5.  Alvorens Onze Minister beslist op een verzoek om een ontheffing brengt de Autoriteit Consument en Markt of, indien dit voortvloeit uit artikel 36, vierde en zevende lid, van de richtlijn, het Agentschap advies uit. Van het advies wordt uiterlijk tegelijk met de bekendmaking van het besluit op de aanvraag kennis gegeven.   
 6.  Indien sprake is van de aanleg van een landsgrensoverschrijdend gastransportnet, overlegt Onze Minister met de bevoegde instantie in de andere lidstaat of lidstaten van de Europese Unie.   
 7.  Onze Minister verbindt voorschriften aan de ontheffing met betrekking tot de niet-discriminerende toegang tot de infrastructuur, onder andere over de mechanismen voor het beheer of de toewijzing van capaciteit. Deze voorschriften bevatten in elk geval: 
 
@@ -1046,7 +1047,7 @@ b. de bepaling dat ongebruikte capaciteit op de markt moet worden aangeboden en 
 
 ### Artikel  18i  
 
-Indien ingevolge artikel 8, eerste lid, van de verordening 713/2009 het Agentschap bevoegd is een besluit te nemen over grensoverschrijdende infrastructuur, is de raad van bestuur van de mededingingsautoriteit hiertoe niet bevoegd.  
+Indien ingevolge artikel 8, eerste lid, van de verordening 713/2009 het Agentschap bevoegd is een besluit te nemen over grensoverschrijdende infrastructuur, is de Autoriteit Consument en Markt hiertoe niet bevoegd.  
 
 ### Paragraaf  2.5  
 
@@ -1054,14 +1055,14 @@ Indien ingevolge artikel 8, eerste lid, van de verordening 713/2009 het Agentsch
 
 ### Artikel  19  
 
-1.  Een partij die een geschil heeft met een netbeheerder, een gasopslagbedrijf of een LNG-bedrijf over de wijze waarop deze zijn taken en bevoegdheden op grond van deze wet uitoefent, dan wel aan zijn verplichtingen op grond van deze wet voldoet, kan een klacht bij de raad van bestuur van de mededingingsautoriteit indienen.   
-2.  De raad van bestuur van de mededingingsautoriteit beslist op een klacht binnen twee maanden na ontvangst ervan. Deze termijn kan met twee maanden worden verlengd als de raad van bestuur van de mededingingsautoriteit om aanvullende gegevens verzoekt. Met instemming van de klager is verdere verlenging mogelijk.   
-3.  De beslissing van de raad van bestuur van de mededingingsautoriteit is bindend.   
+1.  Een partij die een geschil heeft met een netbeheerder, een gasopslagbedrijf of een LNG-bedrijf over de wijze waarop deze zijn taken en bevoegdheden op grond van deze wet uitoefent, dan wel aan zijn verplichtingen op grond van deze wet voldoet, kan een klacht bij de Autoriteit Consument en Markt indienen.   
+2.  De Autoriteit Consument en Markt beslist op een klacht binnen twee maanden na ontvangst ervan. Deze termijn kan met twee maanden worden verlengd als de Autoriteit Consument en Markt om aanvullende gegevens verzoekt. Met instemming van de klager is verdere verlenging mogelijk.   
+3.  De beslissing van de Autoriteit Consument en Markt is bindend.   
 4.  Het indienen van een klacht als bedoeld in het eerste lid laat onverlet elke mogelijkheid voor de desbetreffende partij een hem ter beschikking staand rechtsmiddel aan te wenden.   
 
 ### Artikel  20  
 
-In het geval van een landsgrensoverschrijdend geschil is de raad van bestuur van de mededingingsautoriteit onbevoegd te beslissen op een klacht als bedoeld in artikel 19, als de netbeheerder, het gasopslagbedrijf of het LNG-bedrijf waartegen de klacht is gericht onder de rechtsmacht van een andere lidstaat van de Europese Unie valt.  
+In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument en Markt onbevoegd te beslissen op een klacht als bedoeld in artikel 19, als de netbeheerder, het gasopslagbedrijf of het LNG-bedrijf waartegen de klacht is gericht onder de rechtsmacht van een andere lidstaat van de Europese Unie valt.  
 
 ### Hoofdstuk  3  
 
@@ -1073,17 +1074,17 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot een of meer 
 
 ### Artikel  22  
 
-1.  Met inachtneming van de krachtens artikel 21 vastgestelde regels zendt een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de door hen jegens elkaar en afnemers in het kader van administratieve processen te hanteren voorwaarden met betrekking tot de wijze waarop de met die administratieve processen samenhangende gegevens worden vastgelegd, uitgewisseld of gebruikt of met betrekking tot de wijze waarop en de termijn waarbinnen die gegevens worden bewaard, waaronder in ieder geval voorwaarden die bepalen dat: 
+1.  Met inachtneming van de krachtens artikel 21 vastgestelde regels zendt een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas aan de Autoriteit Consument en Markt een voorstel voor de door hen jegens elkaar en afnemers in het kader van administratieve processen te hanteren voorwaarden met betrekking tot de wijze waarop de met die administratieve processen samenhangende gegevens worden vastgelegd, uitgewisseld of gebruikt of met betrekking tot de wijze waarop en de termijn waarbinnen die gegevens worden bewaard, waaronder in ieder geval voorwaarden die bepalen dat: 
 
 a. bij een wisseling van leverancier, de beoogde leverancier, en  
 
 b. bij een verhuizing, de leverancier van de afnemer   verantwoordelijk is voor het verzamelen van de meetgegevens van de afnemer.   
 2.  Ondernemingen die een voorstel doen, voeren overleg over dit voorstel met representatieve organisaties van partijen op de gasmarkt.   
-3.  In het voorstel dat aan de raad van bestuur van de mededingingsautoriteit wordt gezonden, geven de ondernemingen aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het tweede lid, naar voren hebben gebracht.   
+3.  In het voorstel dat aan de Autoriteit Consument en Markt wordt gezonden, geven de ondernemingen aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het tweede lid, naar voren hebben gebracht.   
 
 ### Artikel  23  
 
-De raad van bestuur van de mededingingsautoriteit stelt de voorwaarden vast met inachtneming van: 
+De Autoriteit Consument en Markt stelt de voorwaarden vast met inachtneming van: 
 
 a. het voorstel als bedoeld in artikel 22, eerste lid,  
 
@@ -1095,24 +1096,24 @@ d. artikel 12f, eerste lid, onderdelen b tot en met f, en tweede lid.
 
 ### Artikel  24  
 
-1.  Na ontvangst van een voorstel als bedoeld in artikel 22, eerste lid, kan de raad van bestuur van de mededingingsautoriteit de in artikel 22, eerste lid, bedoelde ondernemingen die het voorstel hebben ingediend, opdragen binnen vier weken en met inachtneming van zijn bevindingen, waaronder zijn bevindingen omtrent de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, de regels, bedoeld in artikel 21, of het bepaalde, bedoeld in artikel 12f, tweede lid, het voorstel te wijzigen. Indien de raad van bestuur van de mededingingsautoriteit van deze bevoegdheid gebruik maakt is [artikel 4:15 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-2.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de raad van bestuur van de mededingingsautoriteit, stelt de raad van bestuur van de mededingingsautoriteit de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, met artikel 12f, tweede lid, of met de regels, bedoeld in artikel 21.   
+1.  Na ontvangst van een voorstel als bedoeld in artikel 22, eerste lid, kan de Autoriteit Consument en Markt de in artikel 22, eerste lid, bedoelde ondernemingen die het voorstel hebben ingediend, opdragen binnen vier weken en met inachtneming van haar bevindingen, waaronder haar bevindingen omtrent de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, de regels, bedoeld in artikel 21, of het bepaalde, bedoeld in artikel 12f, tweede lid, het voorstel te wijzigen. Indien de Autoriteit Consument en Markt van deze bevoegdheid gebruik maakt is [artikel 4:15 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de Autoriteit Consument en Markt, stelt de Autoriteit Consument en Markt de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, met artikel 12f, tweede lid, of met de regels, bedoeld in artikel 21.   
 
 ### Artikel  25  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan uit eigen beweging een ontwerp van een besluit maken tot wijziging van de voorwaarden, bedoeld in artikel 22, eerste lid, of kan een representatief deel van de in artikel 22, eerste lid, bedoelde ondernemingen opdragen een daartoe strekkend voorstel voor te bereiden en aan haar toe te zenden.   
-2.  Ondernemingen als bedoeld in artikel 22, eerste lid, en de representatieve organisaties, bedoeld in artikel 22, tweede lid, kunnen hun zienswijze op een dergelijk ontwerp van een besluit aan de raad van bestuur van de mededingingsautoriteit kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit is bekendgemaakt.   
-3.  Indien de in het tweede lid bedoelde ondernemingen en representatieve organisaties niet binnen de in het tweede lid genoemde termijn hun zienswijze op het ontwerp van het besluit kenbaar maken, stelt de raad van bestuur van de mededingingsautoriteit het besluit vast met inachtneming van de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, met artikel 12f, tweede lid, en met de regels, bedoeld in artikel 21.   
-4.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen twaalf weken na toezending van de in het eerste lid bedoelde opdracht, een voorstel aan de raad van bestuur van de mededingingsautoriteit zenden, stelt de raad van bestuur van de mededingingsautoriteit de voorwaarden vast met inachtneming van de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, met artikel 12f, tweede lid, en met de regels, bedoeld in artikel 21.   
+1.  De Autoriteit Consument en Markt kan uit eigen beweging een ontwerp van een besluit maken tot wijziging van de voorwaarden, bedoeld in artikel 22, eerste lid, of kan een representatief deel van de in artikel 22, eerste lid, bedoelde ondernemingen opdragen een daartoe strekkend voorstel voor te bereiden en aan haar toe te zenden.   
+2.  Ondernemingen als bedoeld in artikel 22, eerste lid, en de representatieve organisaties, bedoeld in artikel 22, tweede lid, kunnen hun zienswijze op een dergelijk ontwerp van een besluit aan de Autoriteit Consument en Markt kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit is bekendgemaakt.   
+3.  Indien de in het tweede lid bedoelde ondernemingen en representatieve organisaties niet binnen de in het tweede lid genoemde termijn hun zienswijze op het ontwerp van het besluit kenbaar maken, stelt de Autoriteit Consument en Markt het besluit vast met inachtneming van de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, met artikel 12f, tweede lid, en met de regels, bedoeld in artikel 21.   
+4.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen twaalf weken na toezending van de in het eerste lid bedoelde opdracht, een voorstel aan de Autoriteit Consument en Markt zenden, stelt de Autoriteit Consument en Markt de voorwaarden vast met inachtneming van de belangen, bedoeld in artikel 12f, eerste lid, onderdelen b tot en met f, met artikel 12f, tweede lid, en met de regels, bedoeld in artikel 21.   
 
 ### Artikel  26  
 
-Ten aanzien van de overeenkomstig dit hoofdstuk door de raad van bestuur van de mededingingsautoriteit vastgestelde voorwaarden zijn de artikelen 12h en 12i, eerste tot en met derde lid, van overeenkomstige toepassing.  
+Ten aanzien van de overeenkomstig dit hoofdstuk door de Autoriteit Consument en Markt vastgestelde voorwaarden zijn de artikelen 12h en 12i, eerste tot en met derde lid, van overeenkomstige toepassing.  
 
 ### Artikel  27  
 
-1.  De door de raad van bestuur van de mededingingsautoriteit op basis van artikel 12b, eerste lid, op 6 maart 2007 vastgestelde informatiecode (Stcrt. 2007, 49) wordt op het tijdstip van inwerkingtreding van de artikelen aangemerkt als voorwaarden die overeenkomstig dit hoofdstuk zijn vastgesteld.   
-2.  Uiterlijk 12 weken na inwerkingtreding van dit hoofdstuk ontvangt de raad van bestuur van de mededingingsautoriteit een voorstel als bedoeld in artikel 22, eerste lid, dat tot doel heeft de in het eerste lid bedoelde informatiecode uit te breiden tot voorwaarden voor alle soorten ondernemingen, genoemd in artikel 22, eerste lid.   
+1.  De door de Autoriteit Consument en Markt op basis van artikel 12b, eerste lid, op 6 maart 2007 vastgestelde informatiecode (Stcrt. 2007, 49) wordt op het tijdstip van inwerkingtreding van de artikelen aangemerkt als voorwaarden die overeenkomstig dit hoofdstuk zijn vastgesteld.   
+2.  Uiterlijk 12 weken na inwerkingtreding van dit hoofdstuk ontvangt de Autoriteit Consument en Markt een voorstel als bedoeld in artikel 22, eerste lid, dat tot doel heeft de in het eerste lid bedoelde informatiecode uit te breiden tot voorwaarden voor alle soorten ondernemingen, genoemd in artikel 22, eerste lid.   
 
 ### Hoofdstuk  4  
 
@@ -1155,8 +1156,8 @@ a. gas winnen uit biomassa of uit andere niet-fossiele bronnen en de hoeveelheid
 b. anders dan bedrijfsmatig gas leveren overeenkomstig de in artikel 43, tweede lid, onderdeel b, bedoelde regels.     
 10.  Indien een gasbedrijf niet reeds uit hoofde van een wettelijke verplichting zijn jaarrekening of een daarmee overeenkomend financieel overzicht openbaar maakt, legt het zijn jaarrekening of dat overzicht voor een ieder ter inzage op het kantoor van zijn hoofdvestiging.   
 11.  Een netbeheerder publiceert jaarlijks op geschikte wijze een verslag van de afzonderlijke boekhouding, bedoeld in het derde lid, en de gegevens waaruit blijkt dat de netbeheerder voldoet aan de regels omtrent een goed financieel beheer, bedoeld in artikel 10e, eerste lid.   
-12.  Een leverancier houdt de boekhouding, bedoeld in het eerste lid, gedurende vijf jaar ter beschikking van de raad van bestuur van de mededingingsautoriteit en de Europese Commissie.   
-13.  De raad van bestuur van de mededingingsautoriteit kan informatie uit de boekhouding van de leverancier ter beschikking te stellen aan marktpartijen indien is voldaan aan artikel 44, derde lid, van de richtlijn.   
+12.  Een leverancier houdt de boekhouding, bedoeld in het eerste lid, gedurende vijf jaar ter beschikking van de Autoriteit Consument en Markt en de Europese Commissie.   
+13.  De Autoriteit Consument en Markt kan informatie uit de boekhouding van de leverancier ter beschikking te stellen aan marktpartijen indien is voldaan aan artikel 44, derde lid, van de richtlijn.   
 
 ### Paragraaf  4.2  
 
@@ -1165,9 +1166,9 @@ b. anders dan bedrijfsmatig gas leveren overeenkomstig de in artikel 43, tweede 
 ### Artikel  35a  
 
 1.  Een netbeheerder houdt een registratie bij van kwaliteitsindicatoren betreffende het transport van gas.   
-2.  De netbeheerder zendt de raad van bestuur van de mededingingsautoriteit voor 1 maart van elk jaar een afschrift van de registratie van het voorafgaande jaar tezamen met een rapportage waarin de wijzigingen ten opzichte van het daaraan voorafgaande jaar en de afwijkingen ten opzichte van het kwaliteitsniveau, bedoeld in artikel 8, tweede lid, onder a, dat de netbeheerder nastreeft, zijn toegelicht. De netbeheerder maakt eveneens voor het tijdstip, bedoeld in de eerste volzin, de rapportage op een geschikte wijze openbaar.   
+2.  De netbeheerder zendt de Autoriteit Consument en Markt voor 1 maart van elk jaar een afschrift van de registratie van het voorafgaande jaar tezamen met een rapportage waarin de wijzigingen ten opzichte van het daaraan voorafgaande jaar en de afwijkingen ten opzichte van het kwaliteitsniveau, bedoeld in artikel 8, tweede lid, onder a, dat de netbeheerder nastreeft, zijn toegelicht. De netbeheerder maakt eveneens voor het tijdstip, bedoeld in de eerste volzin, de rapportage op een geschikte wijze openbaar.   
 3.  De netbeheerder bewaart de registratiegegevens ten minste tien jaar.   
-4.  De raad van bestuur van de mededingingsautoriteit kan onderzoek doen naar de deugdelijkheid van de registratie, in het bijzonder doch niet uitsluitend door in het gastransportnet van de desbetreffende netbeheerder metingen te verrichten of te doen verrichten. De netbeheerder gedoogt dat de metingen in zijn net worden verricht.   
+4.  De Autoriteit Consument en Markt kan onderzoek doen naar de deugdelijkheid van de registratie, in het bijzonder doch niet uitsluitend door in het gastransportnet van de desbetreffende netbeheerder metingen te verrichten of te doen verrichten. De netbeheerder gedoogt dat de metingen in zijn net worden verricht.   
 5.  Bij ministeriële regeling worden regels gesteld over: 
 
 a. de inhoud van de registratie en de wijze van registreren;  
@@ -1179,9 +1180,9 @@ c. de rapportage.
 
 ### Artikel  35b  
 
-1.  De netbeheerder, met uitzondering van de netbeheerder van het landelijk gastransportnet, verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de raad van bestuur van de mededingingsautoriteit: 
+1.  De netbeheerder, met uitzondering van de netbeheerder van het landelijk gastransportnet, verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de Autoriteit Consument en Markt: 
 
-a. een overzicht van de door hem gesloten overeenkomsten met betrekking tot het verrichten van diensten ten behoeve van het netbeheer, vergezeld van afschriften van die overeenkomsten, voorzover de raad van bestuur van de mededingingsautoriteit daarover niet reeds beschikt,  
+a. een overzicht van de door hem gesloten overeenkomsten met betrekking tot het verrichten van diensten ten behoeve van het netbeheer, vergezeld van afschriften van die overeenkomsten, voorzover de Autoriteit Consument en Markt daarover niet reeds beschikt,  
 
 b. een overzicht van het aantal personen dat bij de netbeheerder werkzaam is ter uitvoering van de in artikelen 10, 42 en hoofdstuk 2 genoemde taken,  
 
@@ -1222,11 +1223,11 @@ c. de klacht zo spoedig mogelijk doch uiterlijk binnen acht weken wordt afgehand
 
 ### Artikel  38  
 
-Indien de netbeheerder van het landelijk gastransportnet niet in staat is de informatie te publiceren in overeenstemming met verordening 715/2009 stelt hij na overleg met de raad van bestuur van de mededingingsautoriteit een actieplan vast voor de uitvoering.  
+Indien de netbeheerder van het landelijk gastransportnet niet in staat is de informatie te publiceren in overeenstemming met verordening 715/2009 stelt hij na overleg met de Autoriteit Consument en Markt een actieplan vast voor de uitvoering.  
 
 ### Artikel  38b  
 
-Onze Minister en de raad van bestuur van de mededingingsautoriteit verstrekken de Commissie van de Europese Gemeenschappen desgevraagd overeenkomstig artikel 25 van verordening 715/2009 alle voor de toepassing van artikel 23 van verordening 715/2009 noodzakelijke informatie.  
+Onze Minister en de Autoriteit Consument en Markt verstrekken de Commissie van de Europese Gemeenschappen desgevraagd overeenkomstig artikel 25 van verordening 715/2009 alle voor de toepassing van artikel 23 van verordening 715/2009 noodzakelijke informatie.  
 
 ### Hoofdstuk  5  
 
@@ -1287,14 +1288,14 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 
 ### Artikel  39e  
 
-De raad van bestuur van de mededingingsautoriteit verrekent in de tarieven de kosten van een investering waarvoor op grond van [artikel 3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) een inpassingsplan is vastgesteld.  
+De Autoriteit Consument en Markt verrekent in de tarieven de kosten van een investering waarvoor op grond van [artikel 3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) een inpassingsplan is vastgesteld.  
 
 ### Artikel  39f  
 
-1.  Een netbeheerder meldt een voornemen tot een bijzondere investering in de aanleg of uitbreiding van het net, waarop de procedure, bedoeld in [artikel 3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), niet van toepassing is, zo spoedig mogelijk schriftelijk aan de raad van bestuur van de mededingingsautoriteit of, indien het de netbeheerder van het landelijk gastransportnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
-2.  De raad van bestuur van de mededingingsautoriteit besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van een netbeheerder niet zijnde de netbeheerder van het landelijk gastransportnet noodzakelijk is.   
-3.  Onze Minister besluit of een investering als bedoeld in het eerste lid van de netbeheerder van het landelijk gastransportnet noodzakelijk is, gelet op het belang van een duurzame, betrouwbare en efficiënte energievoorziening. Alvorens Onze Minister besluit, brengt de raad van bestuur van de mededingingsautoriteit binnen vier weken nadat de melding is gedaan advies uit over het te nemen besluit. Indien de investering niet is opgenomen in een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), stelt Onze Minister het besluit niet eerder vast, dan na twee weken nadat het ontwerp daarvan en het betrekkelijke advies aan beide kamers der Staten-Generaal zijn overlegd.   
-4.  De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het tweede of het derde lid, in de tarieven.   
+1.  Een netbeheerder meldt een voornemen tot een bijzondere investering in de aanleg of uitbreiding van het net, waarop de procedure, bedoeld in [artikel 3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), niet van toepassing is, zo spoedig mogelijk schriftelijk aan de Autoriteit Consument en Markt of, indien het de netbeheerder van het landelijk gastransportnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
+2.  De Autoriteit Consument en Markt besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van een netbeheerder niet zijnde de netbeheerder van het landelijk gastransportnet noodzakelijk is.   
+3.  Onze Minister besluit of een investering als bedoeld in het eerste lid van de netbeheerder van het landelijk gastransportnet noodzakelijk is, gelet op het belang van een duurzame, betrouwbare en efficiënte energievoorziening. Alvorens Onze Minister besluit, brengt de Autoriteit Consument en Markt binnen vier weken nadat de melding is gedaan advies uit over het te nemen besluit. Indien de investering niet is opgenomen in een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), stelt Onze Minister het besluit niet eerder vast, dan na twee weken nadat het ontwerp daarvan en het betrekkelijke advies aan beide kamers der Staten-Generaal zijn overlegd.   
+4.  De Autoriteit Consument en Markt verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het tweede of het derde lid, in de tarieven.   
 
 ### Artikel  39g  
 
@@ -1306,7 +1307,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ### Artikel  39h  
 
-Een producent die gas levert met een directe lijn meldt zo spoedig mogelijk na ingebruikname van een directe lijn aan de raad van bestuur van de mededingingsautoriteit: 
+Een producent die gas levert met een directe lijn meldt zo spoedig mogelijk na ingebruikname van een directe lijn aan de Autoriteit Consument en Markt: 
 
 a. zijn naam en adres;  
 
@@ -1374,8 +1375,8 @@ c. indien het gas wordt geleverd in het kader van een overeenkomst als bedoeld i
 ### Artikel  44  
 
 1.  Een houder van een vergunning heeft de plicht op een betrouwbare wijze en tegen redelijke tarieven en voorwaarden zorg te dragen voor de levering van gas aan iedere in artikel 43, eerste lid, bedoelde afnemer die daarom verzoekt. De voorwaarden zijn in ieder geval niet redelijk als zij niet in overeenstemming zijn met het bepaalde bij of krachtens artikel 52b. De [artikelen 236](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [237 van Boek 6 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn mede van toepassing op voorwaarden in overeenkomsten met afnemers die rechtspersoon zijn of handelen in de uitoefening van een beroep en bedrijf. Artikel 14, vierde lid, is van overeenkomstige toepassing.   
-2.  Een houder van een vergunning verschaft de raad van bestuur van de mededingingsautoriteit ieder jaar en vier weken voor de wijziging van de tarieven een opgave van de tarieven die hij berekent en de voorwaarden die hij gebruikt bij de levering van gas aan de in artikel 43, eerste lid, bedoelde afnemers.   
-3.  Indien de raad van bestuur van de mededingingsautoriteit van oordeel is dat de tarieven die houders van een vergunning berekenen onredelijk zijn, omdat daarin de effecten van een doelmatige bedrijfsvoering, die mede inhoudt de inkoop van gas, in onvoldoende mate leiden tot kostenverlaging, kan hij een tarief vaststellen dat leveranciers ten hoogste mogen berekenen voor de levering van gas aan afnemers als bedoeld in artikel 43.   
+2.  Een houder van een vergunning verschaft de Autoriteit Consument en Markt ieder jaar en vier weken voor de wijziging van de tarieven een opgave van de tarieven die hij berekent en de voorwaarden die hij gebruikt bij de levering van gas aan de in artikel 43, eerste lid, bedoelde afnemers.   
+3.  Indien de Autoriteit Consument en Markt van oordeel is dat de tarieven die houders van een vergunning berekenen onredelijk zijn, omdat daarin de effecten van een doelmatige bedrijfsvoering, die mede inhoudt de inkoop van gas, in onvoldoende mate leiden tot kostenverlaging, kan zij een tarief vaststellen dat leveranciers ten hoogste mogen berekenen voor de levering van gas aan afnemers als bedoeld in artikel 43.   
 4.  Na de vaststelling van het maximumtarief, bedoeld in het derde lid, worden de tarieven voor de levering van gas aan afnemers als bedoeld in artikel 43 die hoger zijn dan dat maximumtarief, van rechtswege gesteld op dat maximumtarief.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de bepaling of de tarieven, bedoeld in het tweede lid, onredelijk zijn en tot vaststelling van het maximumtarief, bedoeld in het derde lid. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 6.  Het tweede tot en met het zesde lid vervallen op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor een krachtens dit lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
@@ -1383,7 +1384,7 @@ c. indien het gas wordt geleverd in het kader van een overeenkomst als bedoeld i
 8.  Bij ministeriële regeling worden regels gesteld over het beëindigen van de levering van gas aan een afnemer als bedoeld in artikel 43, eerste lid, alsmede over preventieve maatregelen om de afsluiting van dergelijke afnemers zoveel mogelijk te voorkomen. Deze regels houden in ieder geval in dat een afnemer niet wordt afgesloten in de periode van 1 oktober tot 1 april van enig jaar, behoudens in gevallen die in de regeling zijn aangegeven.   
 9.  De in het achtste lid bedoelde preventieve maatregelen kunnen tevens inhouden dat in daarbij omschreven gevallen met in die regeling aangeduide instanties overleg wordt gepleegd alsmede dat in die gevallen aan de desbetreffende instantie in die regeling omschreven gegevens omtrent de afnemer worden verstrekt.   
 10.  De ministeriële regeling, bedoeld in het achtste lid, wordt niet eerder vastgesteld dan nadat de gezamenlijke netbeheerders en de vergunninghouders alsmede de consumentenorganisaties in de gelegenheid zijn gesteld hun zienswijze te geven over de inhoud van de regeling.   
-11.  De raad van bestuur van de mededingingsautoriteit publiceert jaarlijks, op basis van de informatie verkregen op grond van het tweede lid, aanbevelingen over de conformiteit van de leveringsprijzen met artikel 3 van de richtlijn.   
+11.  De Autoriteit Consument en Markt publiceert jaarlijks, op basis van de informatie verkregen op grond van het tweede lid, aanbevelingen over de conformiteit van de leveringsprijzen met artikel 3 van de richtlijn.   
 
 ### Artikel  44a  
 
@@ -1524,7 +1525,7 @@ c. deze vertegenwoordiger er zorg voor draagt dat hij ten aanzien van alle aansl
 ### Artikel  52ca  
 
 1.  Leveranciers zijn verplicht om aan afnemers als bedoeld in artikel 43, eerste lid, naast eventuele andere vrije contractvormen, levering volgens een modelcontract aan te bieden.   
-2.  De raad van bestuur van de mededingingsautoriteit stelt het modelcontract vast, na consultatie van organisaties van leveranciers, netbeheerders en afnemers.   
+2.  De Autoriteit Consument en Markt stelt het modelcontract vast, na consultatie van organisaties van leveranciers, netbeheerders en afnemers.   
 
 ### Artikel  52d  
 
@@ -1563,7 +1564,7 @@ c. het jaarlijks aan Onze Minister overleggen van een overzicht waarin ten aanzi
 1.  Onverminderd de artikelen 10 en 10a heeft de netbeheerder van het landelijk gastransportnet, in het belang van het planmatig beheer van voorkomens van gas, ter verzekering op lange termijn van een behoedzaam en rationeel gebruik van deze natuurlijke hulpbron tot taak zorg te dragen voor de inname en het transport van gas uit de gasvoorkomens in gebieden binnen Nederland en op het continentaal plat.   
 2.  Indien de netbeheerder van het landelijk gastransportnet ter uitvoering van de in het eerste lid bedoelde taak moet investeren in de aanleg of uitbreiding van het net dan meldt hij dit voornemen aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
 3.  Onze Minister besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van de netbeheerder van het landelijk gastransportnet noodzakelijk is, gelet op het belang, bedoeld in het eerste lid. Indien Onze Minister besluit dat de investering niet noodzakelijk is, wordt de netbeheerder van het landelijk gastransportnet geacht te zijn ontheven van de in het eerste lid bedoelde taak voor dat voorkomen.   
-4.  De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het derde lid, in de tarieven.   
+4.  De Autoriteit Consument en Markt verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het derde lid, in de tarieven.   
 5.  De netbeheerder van het landelijk gastransportnet overlegt jaarlijks aan Onze Minister een overzicht, waarin ten aanzien van de eerstvolgende twintig jaar ramingen zijn opgenomen met betrekking tot de uitoefening van de taak, bedoeld in het eerste lid, onder vermelding van daarbij gehanteerde vooronderstellingen en relevante onderscheiden.   
 
 ### Artikel  54b  
@@ -1599,26 +1600,26 @@ c. het jaarlijks aan Onze Minister overleggen van een overzicht waarin ten aanzi
 
 ### Artikel  60ac  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 5, 9, tweede lid, 13a, 13d, vijfde lid, en 13e, tiende lid, 54, eerste lid, 54a, eerste lid, en artikel 55, tweede en derde lid, van verordening 715/2009 en verordening 994/2010 de overtreder een last onder dwangsom opleggen.   
-2.  Indien daarvoor naar zijn oordeel aanleiding bestaat, gelet op het voorschrift waarop de overtreding betrekking heeft, geeft de raad van bestuur van de mededingingsautoriteit een bindende aanwijzing als bedoeld in artikel 1b, derde lid, alvorens een last onder dwangsom op te leggen.   
-3.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur van de mededingingsautoriteit.   
+1.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van de artikelen 5, 9, tweede lid, 13a, 13d, vijfde lid, en 13e, tiende lid, 54, eerste lid, 54a, eerste lid, en artikel 55, tweede en derde lid, van verordening 715/2009, verordening 994/2010 en verordening 1227/2011 de overtreder een last onder dwangsom opleggen.   
+2.  Indien daarvoor naar haar oordeel aanleiding bestaat, gelet op het voorschrift waarop de overtreding betrekking heeft, geeft de Autoriteit Consument en Markt een bindende aanwijzing als bedoeld in artikel 1b, derde lid, alvorens een last onder dwangsom op te leggen.   
+3.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
 4.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
-5.  Indien de raad van bestuur van de mededingingsautoriteit vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet hij daarvan een rapport opmaken.   
+5.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet zij daarvan een rapport opmaken.   
 6.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  60ad  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens: 
+1.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens: 
 
-a. de artikelen 1g, tweede lid, 1h, 2, vijfde en zesde lid, 2a, achtste lid, 3c, derde lid, 4, eerste en tweede lid, 7a, derde en vierde lid, 10, tweede lid en derde lid, onderdeel b, 10b, vierde lid, 10c, derde en vierde lid, 10d, derde lid, 12i, derde lid, 13e, twaalfde lid, 17a, 18g, vijfde lid, 35b, 35c, 35d, 35e, 39h, eerste lid, 40, tweede lid, 42, 44, tweede en achtste lid, 52a, derde lid, 52d, 56, artikel 66d, eerste en derde lid, 82, eerste en derde lid, en 83, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking, en  
+a. de artikelen 1g, tweede lid, 1h, 2, vijfde en zesde lid, 2a, achtste lid, 3c, derde lid, 4, eerste en tweede lid, 7a, derde en vierde lid, 10, tweede lid en derde lid, onderdeel b, 10b, vierde lid, 10c, derde en vierde lid, 10d, derde lid, 12i, derde lid, 13e, twaalfde lid, 17a, 18g, vijfde lid, 35b, 35c, 35d, 35e, 39h, eerste lid, 40, tweede lid, 42, 44, tweede en achtste lid, 52a, derde lid, 52d, 56, artikel 66d, eerste en derde lid, 82, eerste en derde lid, en 83, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 8, 9 en 15 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking, en  
 
-b. de artikelen, 2c, tweede en derde lid, 3, eerste lid, 3b, eerste en tweede lid, 3c, eerste en tweede lid, 7, 7a, eerste en tweede lid, 8, 9a9b, 10, eerste lid, derde lid, onderdeel a, en vierde tot en met zesde lid, 10a, eerste, tweede en derde lid, 10b, eerste en tweede lid, 10c, eerste en tweede lid, 10d, eerste lid, 10e, 12a, 12b, 12e, eerste lid, 12f, 12g, 13b, 13c, 13d, eerste tot en met vierde lid, 13e, eerste tot en met vierde lid, zesde, zevende en negende lid, 12f, 18g, eerste en derde lid, 23, 24, tweede lid, 25, derde en vierde lid, 32, 35a, 37, 39, tweede lid, 40, eerste, derde en vierde lid, 43, eerste lid, 44, eerste en vijfde lid, 44a, 44b eerste, tweede, vijfde en zesde lid, 47, tweede lid, 51, 52b, 60, tweede lid, 63, 66a, 66b, 66c, 72, 73, vierde lid en 85b de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.     
+b. de artikelen, 2c, tweede en derde lid, 3, eerste lid, 3b, eerste en tweede lid, 3c, eerste en tweede lid, 7, 7a, eerste en tweede lid, 8, 9a9b, 10, eerste lid, derde lid, onderdeel a, en vierde tot en met zesde lid, 10a, eerste, tweede en derde lid, 10b, eerste en tweede lid, 10c, eerste en tweede lid, 10d, eerste lid, 10e, 12a, 12b, 12e, eerste lid, 12f, 12g, 13b, 13c, 13d, eerste tot en met vierde lid, 13e, eerste tot en met vierde lid, zesde, zevende en negende lid, 12f, 18g, eerste en derde lid, 23, 24, tweede lid, 25, derde en vierde lid, 32, 35a, 37, 39, tweede lid, 40, eerste, derde en vierde lid, 43, eerste lid, 44, eerste en vijfde lid, 44a, 44b eerste, tweede, vijfde en zesde lid, 47, tweede lid, 51, 52b, 60, tweede lid, 63, 66a, 66b, 66c, 72, 73, vierde lid en 85b en de artikelen 3, 4 en 5 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.     
 2.  Indien op grond van [artikel 5:1, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing is gegeven aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), bedraagt de bestuurlijke boete voor de daar bedoelde overtreder ten hoogste € 450 000.   
 3.  De berekening van de netto-omzet, bedoeld in het eerste lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 
 ### Artikel  60aj  
 
-1.  Een beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de raad van bestuur van de mededingingsautoriteit.   
+1.  Een beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt.   
 2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  60al  
@@ -1673,7 +1674,7 @@ a. de voorzienings- en leveringszekerheid van gas;
 b. de marktordening en de marktwerking;  
 
 c. mede gelet op de [Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md), het toezicht en de naleving.     
-3.  De Nederlandse Mededingingsautoriteit is belast met de uitvoering van de evaluatie.   
+3.  De Autoriteit Consument en Markt is belast met de uitvoering van de evaluatie.   
 
 ### Paragraaf  5.11  
 
@@ -1737,6 +1738,24 @@ c. is het de koper van gas niet toegestaan tarieven en voorwaarden te hanteren w
 
 Iedere producent van gas en verbruiker van gas heeft daadwerkelijke keuzevrijheid van leverancier.  
 
+### Paragraaf  5.14  
+
+####Registratieplicht
+
+### Artikel  66g  
+
+1.  De Autoriteit Consument en Markt verwerkt een registratie als bedoeld in artikel 9, eerste lid, van verordening 1227/2011 zo spoedig mogelijk.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld over de registratie, bedoeld in het eerste lid.   
+
+### Paragraaf  5.15  
+
+####Verbod marktmisbruik
+
+### Artikel  66h  
+
+1.  Het is verboden te handelen in strijd met de artikelen 3, 4 en 5 van verordening 1227/2011.   
+2.  Overtreding van het eerste lid is een misdrijf.   
+
 ### Hoofdstuk  6  
 
 ####Wijziging andere wetten
@@ -1788,26 +1807,26 @@ Het tarief voor meting van gas bij afnemers als bedoeld in artikel 43, eerste li
 
 ### Artikel  81  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd, de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager van elke dienst waarvoor een tarief wordt vastgesteld, vast. Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
+1.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd, de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager van elke dienst waarvoor een tarief wordt vastgesteld, vast. Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
 2.  De korting ter bevordering van de doelmatige bedrijfsvoering heeft onder meer ten doel te bereiken dat de netbeheerder in ieder geval geen rendement kan behalen dat hoger is dan in het economisch verkeer gebruikelijk en dat de gelijkwaardigheid in de doelmatigheid van de netbeheerders wordt bevorderd.   
 3.  De kwaliteitsterm geeft de aanpassing van de tarieven in verband met de geleverde kwaliteit aan en heeft ten doel netbeheerders te stimuleren om de kwaliteit van hun transportdienst te optimaliseren.   
-4.  De rekenvolumina die een netbeheerder gebruikt bij het voorstel, bedoeld in artikel 81b, zijn gebaseerd op daadwerkelijk gefactureerde volumina in eerdere jaren, of worden door de raad van bestuur van de mededingingsautoriteit geschat indien deze betrekking hebben op nieuwe tarieven.   
+4.  De rekenvolumina die een netbeheerder gebruikt bij het voorstel, bedoeld in artikel 81b, zijn gebaseerd op daadwerkelijk gefactureerde volumina in eerdere jaren, of worden door de Autoriteit Consument en Markt geschat indien deze betrekking hebben op nieuwe tarieven.   
 
 ### Artikel  81a  
 
-1.  Ten behoeve van het voorstel, bedoeld in artikel 81b, stelt de raad van bestuur van de mededingingsautoriteit voor iedere netbeheerder afzonderlijk voor dezelfde periode als waarvoor het besluit geldt op grond van artikel 81, eerste lid, vast: 
+1.  Ten behoeve van het voorstel, bedoeld in artikel 81b, stelt de Autoriteit Consument en Markt voor iedere netbeheerder afzonderlijk voor dezelfde periode als waarvoor het besluit geldt op grond van artikel 81, eerste lid, vast: 
 
 a. de korting ter bevordering van de doelmatige bedrijfsvoering,  
 
 b. de kwaliteitsterm, en  
 
 c. het rekenvolume van elke tariefdrager van elke dienst waarvoor een tarief wordt vastgesteld.     
-2.  De raad van bestuur van de mededingingsautoriteit kan het in het eerste lid, onderdeel c, bedoelde rekenvolume gedurende de in dat lid bedoelde periode wijzigen.   
-3.  Indien een besluit op grond van artikel 81, eerste lid, bij een onherroepelijke rechterlijke uitspraak vernietigd is of bij een onherroepelijk besluit op bezwaar herroepen is, herziet de raad van bestuur van de mededingingsautoriteit de in het eerste lid vermelde besluiten met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode.   
+2.  De Autoriteit Consument en Markt kan het in het eerste lid, onderdeel c, bedoelde rekenvolume gedurende de in dat lid bedoelde periode wijzigen.   
+3.  Indien een besluit op grond van artikel 81, eerste lid, bij een onherroepelijke rechterlijke uitspraak vernietigd is of bij een onherroepelijk besluit op bezwaar herroepen is, herziet de Autoriteit Consument en Markt de in het eerste lid vermelde besluiten met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode.   
 
 ### Artikel  81b  
 
-1.  Iedere netbeheerder die het transport van gas verricht dat bestemd is voor levering aan afnemers zendt jaarlijks voor 1 oktober aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor het transport van gas aan die afnemers en de dat transport ondersteunende diensten, met inachtneming van: 
+1.  Iedere netbeheerder die het transport van gas verricht dat bestemd is voor levering aan afnemers zendt jaarlijks voor 1 oktober aan de Autoriteit Consument en Markt een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor het transport van gas aan die afnemers en de dat transport ondersteunende diensten, met inachtneming van: 
 
 a. het uitgangspunt dat de kosten worden toegerekend aan de tariefdragers betreffende de diensten die deze kosten veroorzaken,  
 
@@ -1821,27 +1840,27 @@ waarbij TI <sub>t</sub> = de totale inkomsten uit de tarieven uit het jaar t, te
 e. de gemaakte kosten voor investeringen, bedoeld in artikel 39e of  39f, tweede lid, voor zover deze kosten doelmatig zijn;  
 
 f. het totaal van de gemaakte kosten voor een verwerving van een bestaand net waarvoor nog niet eerder een netbeheerder was aangewezen door of met instemming van Onze Minister en voor de investeringen tot aanpassing van dat verworven net waardoor aan de bij en krachtens deze wet daaraan gestelde eisen wordt voldaan, voor zover deze kosten doelmatig zijn.     
-2.  De raad van bestuur van de mededingingsautoriteit stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e en f.   
+2.  De Autoriteit Consument en Markt stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e en f.   
 
 ### Artikel  81c  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt met betrekking tot het transport van gas dat bestemd is voor levering aan afnemers voor iedere netbeheerder de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor de onderscheiden tariefdragers en die deze ten hoogste mag berekenen voor het transport van dat gas en de dat transport ondersteunende diensten, alsmede de tarieven voor het verzorgen van een aansluiting en aansluitpunt, jaarlijks vast.   
-2.  De raad van bestuur van de mededingingsautoriteit kan de tarieven die zullen gelden in het jaar t corrigeren, indien de tarieven die golden in het jaar of de jaren voorafgaand aan het jaar t: 
+1.  De Autoriteit Consument en Markt stelt met betrekking tot het transport van gas dat bestemd is voor levering aan afnemers voor iedere netbeheerder de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor de onderscheiden tariefdragers en die deze ten hoogste mag berekenen voor het transport van dat gas en de dat transport ondersteunende diensten, alsmede de tarieven voor het verzorgen van een aansluiting en aansluitpunt, jaarlijks vast.   
+2.  De Autoriteit Consument en Markt kan de tarieven die zullen gelden in het jaar t corrigeren, indien de tarieven die golden in het jaar of de jaren voorafgaand aan het jaar t: 
 
 a. bij rechterlijke uitspraak of met toepassing van de [artikel 6:19](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [7:11 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;  
 
-b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de raad van bestuur van de mededingingsautoriteit, indien hij de beschikking had over juiste of volledige gegevens, tarieven zou hebben vastgesteld die in aanmerkelijke mate zouden afwijken van de vastgestelde tarieven;  
+b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de Autoriteit Consument en Markt, indien zij de beschikking had over juiste of volledige gegevens, tarieven zou hebben vastgesteld die in aanmerkelijke mate zouden afwijken van de vastgestelde tarieven;  
 
 c. zijn vastgesteld met gebruikmaking van geschatte gegevens en de feitelijk gegevens daarvan afwijken;  
 
 d. zijn vastgesteld met gebruikmaking van gegevens omtrent kosten voor bepaalde diensten, terwijl netbeheerders die diensten in het jaar t of een gedeelte van jaar t niet hebben geleverd of voor die diensten geen of minder kosten hebben gemaakt.     
-3.  Indien het voorstel niet binnen de termijn, bedoeld in artikel 81b, eerste lid, aan de raad van bestuur van de mededingingsautoriteit is gezonden, stelt deze de tarieven voor de desbetreffende netbeheerder uit eigen beweging vast met inachtneming van artikel 81b.   
-4.  Indien de totale inkomsten aan het begin van de periode, bedoeld in artikel 81, eerste lid, niet in overeenstemming zijn met het efficiënte kostenniveau inclusief een rendement dat in het economisch verkeer gebruikelijk is, kan de raad van bestuur van de mededingingsautoriteit bij de toepassing van de formule, genoemd in artikel 81b, eerste lid, onderdeel d, in plaats van TIt-1, de totale inkomsten vaststellen op het efficiënte kostenniveau, inclusief een rendement dat in het economisch verkeer gebruikelijk is.   
-5.  Indien een besluit op grond van artikel 81, eerste lid, of  81a, eerste lid, bij onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit op bezwaar is herroepen, herberekent de raad van bestuur van de mededingingsautoriteit de tarieven, bedoeld in het eerste lid, met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode onderscheidenlijk gecorrigeerde doelmatigheidskorting, kwaliteitsterm of rekenvolume, en verdisconteert hij de uitkomsten van deze herberekening in de eerstvolgende op grond van het eerste lid vast te stellen tarieven. Daarbij worden deze herberekening en de wijze waarop de uitkomsten daarvan in de tarieven zijn verdisconteerd separaat weergegeven.   
+3.  Indien het voorstel niet binnen de termijn, bedoeld in artikel 81b, eerste lid, aan de Autoriteit Consument en Markt is gezonden, stelt deze de tarieven voor de desbetreffende netbeheerder uit eigen beweging vast met inachtneming van artikel 81b.   
+4.  Indien de totale inkomsten aan het begin van de periode, bedoeld in artikel 81, eerste lid, niet in overeenstemming zijn met het efficiënte kostenniveau inclusief een rendement dat in het economisch verkeer gebruikelijk is, kan de Autoriteit Consument en Markt bij de toepassing van de formule, genoemd in artikel 81b, eerste lid, onderdeel d, in plaats van TIt-1, de totale inkomsten vaststellen op het efficiënte kostenniveau, inclusief een rendement dat in het economisch verkeer gebruikelijk is.   
+5.  Indien een besluit op grond van artikel 81, eerste lid, of  81a, eerste lid, bij onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit op bezwaar is herroepen, herberekent de Autoriteit Consument en Markt de tarieven, bedoeld in het eerste lid, met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode onderscheidenlijk gecorrigeerde doelmatigheidskorting, kwaliteitsterm of rekenvolume, en verdisconteert zij de uitkomsten van deze herberekening in de eerstvolgende op grond van het eerste lid vast te stellen tarieven. Daarbij worden deze herberekening en de wijze waarop de uitkomsten daarvan in de tarieven zijn verdisconteerd separaat weergegeven.   
 
 ### Artikel  81d  
 
-1.  De tarieven treden in werking op een door de raad van bestuur van de mededingingsautoriteit te bepalen datum en gelden tot 1 januari van het jaar, volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven.   
+1.  De tarieven treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden tot 1 januari van het jaar, volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven.   
 2.  Indien op 1 januari de tarieven voor het volgende jaar nog niet zijn vastgesteld, gelden de tarieven tot de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven voor het volgende jaar.   
 3.  Iedere netbeheerder legt een exemplaar van de voor hem geldende tarieven voor een ieder ter inzage in al zijn vestigingen.   
 
@@ -1852,26 +1871,26 @@ d. zijn vastgesteld met gebruikmaking van gegevens omtrent kosten voor bepaalde 
 a. het beheer van de meetinrichtingen;  
 
 b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 13b, tweede en derde lid.     
-2.  De tarieven voor de meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, worden vastgesteld door de raad van bestuur van de mededingingsautoriteit na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot procedure tot vaststelling van de tarieven voor de meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, en de wijze van berekening van deze tarieven.   
+2.  De tarieven voor de meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, worden vastgesteld door de Autoriteit Consument en Markt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot procedure tot vaststelling van de tarieven voor de meting van gas bij afnemers als bedoeld in artikel 43, eerste lid, en de wijze van berekening van deze tarieven.   
 
 ### Artikel  82  
 
 1.  In afwijking van artikel 80 worden de tarieven ter uitvoering van de taken door de netbeheerder van het landelijk gastransportnet, genoemd in de artikelen 10 en 10a, eerste lid, onderdeel b, c, d en e, alsmede de tarieven voor de transport ondersteunende diensten vastgesteld overeenkomstig dit artikel.   
-2.  Voor elke taak van de netbeheerder van het landelijk gastransportnet, bedoeld in het eerste lid, stelt de raad van bestuur van de mededingingsautoriteit de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt en met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering op de meest doelmatige kwaliteit van de uitvoering van deze taken worden bevorderd.   
-3.  De netbeheerder van het landelijk gastransportnet zendt jaarlijks voor 1 september aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de tarieven voor uitvoering van de taken genoemd in de artikelen 10 en 10a, met inachtneming van de tariefstructuren vastgesteld op grond van artikel 12f of  12g en met inachtneming van de gemaakte kosten voor investeringen, bedoeld in artikel 39e, 39f, derde lid, of  54a, derde lid, voor zover deze kosten doelmatig zijn.   
-4.  De raad van bestuur van de mededingingsautoriteit stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties een doelmatigheidskorting vast. Dit besluit geldt voor dezelfde periode als het besluit op grond van het tweede lid. De doelmatigheidskorting heeft tot doel om een doelmatige bedrijfsvoering te bevorderen.   
-5.  De raad van bestuur van de mededingingsautoriteit stelt jaarlijks de tarieven vast die kunnen verschillen voor de onderscheiden tariefdragers.   
-6.  Indien een voorstel niet binnen de termijn, bedoeld in het derde lid, aan de raad van bestuur van de mededingingsautoriteit is gezonden stelt deze de tarieven uit eigen beweging vast met inachtneming van dit artikel.   
-7.  De vastgestelde tarieven treden in werking op een door de raad van bestuur van de mededingingsautoriteit te bepalen datum en gelden tot de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven voor het volgende jaar.   
+2.  Voor elke taak van de netbeheerder van het landelijk gastransportnet, bedoeld in het eerste lid, stelt de Autoriteit Consument en Markt de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de gasmarkt en met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering op de meest doelmatige kwaliteit van de uitvoering van deze taken worden bevorderd.   
+3.  De netbeheerder van het landelijk gastransportnet zendt jaarlijks voor 1 september aan de Autoriteit Consument en Markt een voorstel voor de tarieven voor uitvoering van de taken genoemd in de artikelen 10 en 10a, met inachtneming van de tariefstructuren vastgesteld op grond van artikel 12f of  12g en met inachtneming van de gemaakte kosten voor investeringen, bedoeld in artikel 39e, 39f, derde lid, of  54a, derde lid, voor zover deze kosten doelmatig zijn.   
+4.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties een doelmatigheidskorting vast. Dit besluit geldt voor dezelfde periode als het besluit op grond van het tweede lid. De doelmatigheidskorting heeft tot doel om een doelmatige bedrijfsvoering te bevorderen.   
+5.  De Autoriteit Consument en Markt stelt jaarlijks de tarieven vast die kunnen verschillen voor de onderscheiden tariefdragers.   
+6.  Indien een voorstel niet binnen de termijn, bedoeld in het derde lid, aan de Autoriteit Consument en Markt is gezonden stelt deze de tarieven uit eigen beweging vast met inachtneming van dit artikel.   
+7.  De vastgestelde tarieven treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden tot de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven voor het volgende jaar.   
 8.  Artikel 81c, tweede en vijfde lid, zijn van overeenkomstige toepassing.   
 9.  De netbeheerder van het landelijk gastransportnet publiceert de voor hem geldende tarieven op een geschikte wijze. Tevens legt de netbeheerder van het landelijk gastransportnet de voor hem geldende tarieven voor een ieder ter inzage in al zijn vestigingen.   
-10.  De raad van bestuur van de mededingingsautoriteit stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het derde lid.   
+10.  De Autoriteit Consument en Markt stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het derde lid.   
 10.  Het derde tot en met negende lid is niet van toepassing op de taak van de netbeheerder van het landelijk gastransportnet, bedoeld in artikel 10, eerste lid, voor zover: 
 
 a. die taak betrekking heeft op het transport van gas dat de landsgrens overschrijdt, en  
 
 b. de toedeling van die transportcapaciteit plaatsvindt door middel van een veiling of een andere marktconforme methode.     
-11.  De raad van bestuur van de mededingingsautoriteit houdt bij het vaststellen van de methode van regulering van de tarieven rekening met de opbrengsten uit een veiling of een andere marktconforme methode.   
+11.  De Autoriteit Consument en Markt houdt bij het vaststellen van de methode van regulering van de tarieven rekening met de opbrengsten uit een veiling of een andere marktconforme methode.   
 
 ### Artikel  83  
 

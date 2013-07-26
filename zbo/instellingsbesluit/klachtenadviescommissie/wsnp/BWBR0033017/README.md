@@ -14,15 +14,15 @@ Besluit:
 
 ### Artikel  1  
 
-De Raad besluit tot instelling van de Klachtenadviescomissie Wsnp. De werkzaamheden van de commissie nemen per direct aanvang.  
+De Raad besluit tot instelling van de Klachtenadviescomissie Wsnp. De werkzaamheden van de commissie nemen per direct aanvang. 
 
 ### Artikel  2  
 
-De Raad benoemt tot voorzitter van deze commissie mevrouw mr. D.M.I. de Waele (senior rechter en rechter-commissaris in Insolventies bij de rechtbank Oost-Nederland), tot plaatsvervangend voorzitter en lid de heer mr. M.H.F. van Vugt (rechter/rechter-commissaris bij de rechtbank Midden-Nederland, afdeling Civiel recht, team Insolventies Utrecht) en tot leden de heer mr. J.T.J. Gorissen (advocaat en partner bij Vondenhoff & Sijben advocaten, lid van Insolad), de heer C.J. van der Linden (bewindvoerder Wsnp/curator en voorzitter van de branchevereniging voor bewindvoerders Wsnp), mevrouw E.M. van Ooijen, bewindvoerder Wsnp en de heer F.D. Lassing, bewindvoerder Wsnp/curator.  
+De Raad benoemt tot voorzitter van deze commissie mevrouw mr. D.M.I. de Waele (senior rechter en rechter-commissaris in Insolventies bij de rechtbank Oost-Nederland), tot plaatsvervangend voorzitter en lid de heer mr. M.H.F. van Vugt (rechter/rechter-commissaris bij de rechtbank Midden-Nederland, afdeling Civiel recht, team Insolventies Utrecht) en tot leden de heer mr. J.T.J. Gorissen (advocaat en partner bij Vondenhoff & Sijben advocaten, lid van Insolad), de heer C.J. van der Linden (bewindvoerder Wsnp/curator en voorzitter van de branchevereniging voor bewindvoerders Wsnp), mevrouw E.M. van Ooijen, bewindvoerder Wsnp en de heer F.D. Lassing, bewindvoerder Wsnp/curator. 
 
 ### Artikel  3  
 
-De commissie heeft tot taak het adviseren van de Raad voor Rechtsbijstand betreffende klachten die op basis van de [Klachtenregeling bewindvoerders Wsnp](../../../../../ministeriele-regeling/klachtenregeling/bewindvoerders/wsnp/BWBR0032998/README.md) bij de Raad worden ingediend en behandeld. De commissie kan daarnaast de Raad voor Rechtsbijstand ’s-Hertogenbosch adviseren over beleidsaanbevelingen op basis van de resultaten van de klachtenprocedures.  
+De commissie heeft tot taak het adviseren van de Raad voor Rechtsbijstand betreffende klachten die op basis van de [Klachtenregeling bewindvoerders Wsnp](../../../../../ministeriele-regeling/klachtenregeling/bewindvoerders/wsnp/BWBR0032998/README.md) bij de Raad worden ingediend en behandeld. De commissie kan daarnaast de Raad voor Rechtsbijstand ’s-Hertogenbosch adviseren over beleidsaanbevelingen op basis van de resultaten van de klachtenprocedures. 
 
 Utrecht 
 4 maart 2013   

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 16 november 1993, directoraat-generaal voor Openbare Orde en Veiligheid, directie Politie, hoofdafdeling Personeel, Onderwijs en Informatievoorziening, afdeling Arbeidsvoorwaardenbeleid, nummer EA93/U3217;
 
-Gelet op [artikel 50, eerste lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md);
+Gelet op artikel 50, eerste lid, van de Politiewet 1993;
 
 De Raad van State gehoord (advies van 7 februari 1994, nummer WO4.93.0768);
 
@@ -26,25 +26,25 @@ b.  vervallen;
 
 c.  vervallen;   
 
-d. Het LSOP: het Landelijk selectie- en opleidingsinstituut politie, bedoeld in [artikel 2 van het LSOP-wet](../../../../../../../../wet/lsop-wet/BWBR0006942/README.md);  
+d. Het LSOP: het Landelijk selectie- en opleidingsinstituut politie, bedoeld in artikel 2 van het LSOP-wet;  
 
 e.  vervallen;   
 
-f. ambtenaar: de ambtenaar, bedoeld in [artikel 1, onderdeel h, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+f. ambtenaar: de ambtenaar, bedoeld in artikel 1, onderdeel h, van het Besluit algemene rechtspositie politie;  
 
 g. bevoegd gezag: 
 
-1°. de korpschef, voor zover het betreft de ambtenaar, aangesteld bij een onderdeel, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+1°. de korpschef, voor zover het betreft de ambtenaar, aangesteld bij een onderdeel, bedoeld in artikel 25, eerste lid, van de Politiewet 2012;  
 
 2°. het College van procureurs-generaal, voor zover het betreft ambtenaren van de rijksrecherche;  
 
-3° De raad van toezicht van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
+3° De raad van toezicht van het LSOP, voor zover het betreft de ambtenaren, bedoeld in artikel 10, eerste lid, onderdeel a, van de Wet op het LSOP en het politieonderwijs;  
 
-4° het college van bestuur van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel b, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);    
+4° het college van bestuur van het LSOP, voor zover het betreft de ambtenaren, bedoeld in artikel 10, eerste lid, onderdeel b, van de Wet op het LSOP en het politieonderwijs;    
 
-h. korpschef: de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+h. korpschef: de korpschef als bedoeld in artikel 27 van de Politiewet 2012;  
 
-i. Centrale: een centrale van overheidspersoneel als bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](../../../../../../../../KB/regeling/overleg/raad/voor/het/overheidspersoneelsbeleid/BWBR0008494/README.md);  
+i. Centrale: een centrale van overheidspersoneel als bedoeld in artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid;  
 
 j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in artikel 2;  
 
@@ -60,11 +60,9 @@ o.  vervallen;
 
 p. Pensioenreglement: het Pensioenreglement van de Stichting Pensioenfonds ABP;  
 
-q. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](../../../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
+q. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in artikel 6 van de Wet privatisering ABP;  
 
-r. AFUP-opbouwreglement: het reglement bedoeld in artikel 2.4b, tweede lid, van het pensioenreglement;  
-
-s. AFUP: de in het AFUP-opbouwreglement neergelegde regeling.    
+r. PartnerPlusPensioen Politie: het PartnerPlusPensioen Politie, bedoeld in artikel 1 van bijlage C van het Pensioenreglement.    
 
 ### Hoofdstuk  II  
 
@@ -95,7 +93,7 @@ e. andere bij koninklijk besluit tot het overleg toegelaten verenigingen van amb
 ### Artikel  3  
 
 1.  Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, wordt niet beslist dan nadat daarover door of namens Onze Minister overleg is gepleegd met de Commissie.   
-2.  Het eerste lid blijft buiten toepassing met betrekking tot regelingen, bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](../../../../../../../../KB/regeling/overleg/raad/voor/het/overheidspersoneelsbeleid/BWBR0008494/README.md).   
+2.  Het eerste lid blijft buiten toepassing met betrekking tot regelingen, bedoeld in artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid.   
 3.  Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, wordt slechts ten uitvoer gebracht, indien daarover overeenstemming bestaat met de Commissie. Indien de stemmen binnen de Commissie staken beslist de voorzitter van het overleg met de Commissie of het voorstel ten uitvoer wordt gebracht.   
 
 ### Artikel  3a  
@@ -104,11 +102,9 @@ e. andere bij koninklijk besluit tot het overleg toegelaten verenigingen van amb
 2.  De sectorale commissie Politie bestaat uit vier leden namens de in artikel 2, eerste lid, bedoelde Commissie en vier leden namens Onze Minister.   
 3.  De sectorale commissie heeft tot taak: 
 
-a. advies uit te brengen aan het Bestuur van de Stichting Pensioenfonds ABP over de hoogte van de pensioenpremiepercentages voor het algemeen deel en het specifiek deel van de AFUP;  
+a. advies uit te brengen aan het Bestuur van de Stichting Pensioenfonds ABP over de premie voor het PartnerPlusPensioen Politie;  
 
-b. desgewenst advies uit te brengen aan het Bestuur van de Stichting Pensioenfonds ABP in geval door dat Bestuur wordt overwogen de indexatie van de in het Pensioenreglement genoemde pensioenen achterwege te laten;  
-
-c. te besluiten over toelating van werkgevers die een verzoek tot deelname aan de AFUP doen.     
+b. te besluiten over toelating van werkgevers die een verzoek tot deelname aan het PartnerPlusPensioen Politie doen.     
 4.  Onze Minister stelt in overeenstemming met de Commissie nadere regels met betrekking tot de werkwijze van de sectorale commissie Politie.   
 
 ### Artikel  4  
@@ -162,13 +158,19 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 ####Het overleg met de Regionale Commissie
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  3  
 
 ####Het overleg met de Commissie Korps landelijke politiediensten
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  4  
 
 ####Het overleg met de Commissie bijzondere ambtenaren van politie
+
+Vervallen per 01-01-2013   
 
 ### Afdeling  4A  
 
@@ -256,6 +258,8 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie LSOP st
 
 ####Het overleg met de Commissie voorziening tot samenwerking
 
+Vervallen per 01-01-2013   
+
 ### Afdeling  5  
 
 ####Advies en arbitrage
@@ -266,7 +270,7 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 a. deelnemers aan het overleg: de voorzitter en de tot de Commissie toegelaten verenigingen van ambtenaren;  
 
-b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [artikel 110 *g* van het ARAR](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).    
+b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in artikel 110 *g* van het ARAR.    
 
 ### Artikel  24  
 
@@ -295,12 +299,12 @@ b. de standpunten van alle deelnemers aan het overleg omtrent onderwerp en inhou
 
 ### Artikel  28  
 
-1.  Met betrekking tot de samenstelling van de Advies- en Arbitragecommissie is [artikel 110h, eerste lid, van het ARAR](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), van toepassing met dien verstande dat deze commissie voor de behandeling van een geschil, bedoeld in artikel 26, tweede lid, wordt uitgebreid met twee bijzondere leden.   
+1.  Met betrekking tot de samenstelling van de Advies- en Arbitragecommissie is artikel 110h, eerste lid, van het ARAR, van toepassing met dien verstande dat deze commissie voor de behandeling van een geschil, bedoeld in artikel 26, tweede lid, wordt uitgebreid met twee bijzondere leden.   
 2.  De bijzondere leden, bedoeld in het eerste lid, worden door Onze Minister benoemd voor een periode van ten hoogste vier jaren. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.   
 3.  Van de bijzondere leden, bedoeld in het eerste lid, wordt een lid benoemd op voordracht van de voorzitter van het overleg met de Commissie en een lid op voordracht van de tot dat overleg toegelaten verenigingen van ambtenaren.   
 4.  Niet benoembaar tot bijzonder lid zijn: 
 
-a. personen die ingevolge [artikel 110g, vierde lid, van het ARAR](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) zijn uitgesloten van het lidmaatschap of van het plaatsvervangend lidmaatschap;  
+a. personen die ingevolge artikel 110g, vierde lid, van het ARAR zijn uitgesloten van het lidmaatschap of van het plaatsvervangend lidmaatschap;  
 
 b. personen die lid of plaatsvervangend lid zijn van de Commissie, de Commissie LSOP dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd.     
 5.  Overeenkomstig de aan de leden en de plaatsvervangende leden te verlenen vergoedingen worden aan de bijzondere leden uit 's Rijks kas vergoedingen voor reis- en verblijfkosten verleend volgens de regelen welke voor de vergoeding voor reis- en verblijfkosten wegens reizen voor 's Rijks dienst gelden.   
@@ -357,7 +361,7 @@ De uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
 ### Artikel  63a  
 
-Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Dit besluit berust op artikel 47, eerste lid, van de Politiewet 2012.  
 
 ### Artikel  64  
 

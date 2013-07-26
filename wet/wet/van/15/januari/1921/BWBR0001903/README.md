@@ -30,7 +30,7 @@ Strafvordering heeft alleen plaats op de wijze bij de wet voorzien.
 
 ### Artikel  2  
 
-1.  Van de rechtbanken zijn gelijkelijk bevoegd: die binnen welker rechtsgebied het feit is begaan; die binnen welker rechtsgebied de verdachte woon- of verblijfplaats heeft; die binnen welker rechtsgebied de verdachte zich bevindt; die binnen welker rechtsgebied de verdachte zijne laatst bekende woon- of verblijfplaats heeft gehad; die bij welke tegen de verdachte een vervolging ter zake van een ander feit is aangevangen; die welker rechtsgebied grenst aan de territoriale zee alsmede de rechtbank Amsterdam, indien het feit is begaan ter zee buiten het rechtsgebied van een rechtbank of aan boord van een vaartuig dat buitengaats wordt gebracht; de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Oost-Nederland en de rechtbank Rotterdam, indien de officier van justitie bij het landelijk parket met de vervolging van het strafbare feit is belast; de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Oost-Nederland en de rechtbank Rotterdam ten aanzien van bij algemene maatregel van bestuur aan te wijzen strafbare feiten met de vervolging waarvan de officier van justitie bij het functioneel parket is belast.   
+1.  Van de rechtbanken zijn gelijkelijk bevoegd: die binnen welker rechtsgebied het feit is begaan; die binnen welker rechtsgebied de verdachte woon- of verblijfplaats heeft; die binnen welker rechtsgebied de verdachte zich bevindt; die binnen welker rechtsgebied de verdachte zijne laatst bekende woon- of verblijfplaats heeft gehad; die bij welke tegen de verdachte een vervolging ter zake van een ander feit is aangevangen; die welker rechtsgebied grenst aan de territoriale zee alsmede de rechtbank Amsterdam, indien het feit is begaan ter zee buiten het rechtsgebied van een rechtbank of aan boord van een vaartuig dat buitengaats wordt gebracht; de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Overijssel en de rechtbank Rotterdam, indien de officier van justitie bij het landelijk parket met de vervolging van het strafbare feit is belast; de rechtbank Amsterdam, de rechtbank Oost-Brabant, de rechtbank Overijssel en de rechtbank Rotterdam ten aanzien van bij algemene maatregel van bestuur aan te wijzen strafbare feiten met de vervolging waarvan de officier van justitie bij het functioneel parket is belast.   
 2.  In geval van gelijktijdige vervolging bij meer dan ééne rechtbank blijft uitsluitend bevoegd de rechtbank die in deze rangschikking eerder is geplaatst, of, indien het rechtbanken betreft, welke in deze rangschikking dezelfde plaats innemen, de rechtbank waarbij de vervolging het eerst is ingesteld.   
 
 ### Artikel  4  
@@ -287,7 +287,7 @@ c. bij de Hoge Raad uit vijf leden of, overeenkomstig [artikel 75, derde lid, va
 1.  De kennisneming van de processtukken wordt de verdachte op diens verzoek tijdens het voorbereidende onderzoek verleend door de officier van justitie. De kennisneming wordt de verdachte in elk geval toegestaan vanaf het eerste verhoor na aanhouding.   
 2.  Indien de officier van justitie in gebreke blijft de kennisneming te verlenen, kan hem op verzoek van de verdachte door de rechter-commissaris een termijn worden gesteld binnen welke de kennisneming van processtukken wordt verleend. Alvorens op het verzoek te beslissen, hoort de rechter-commissaris de officier van justitie.   
 3.  Niettemin kan de officier van justitie, indien het belang van het onderzoek dit vordert, de verdachte de kennisneming van bepaalde processtukken onthouden.   
-4.  De verdachte wordt in het geval, bedoeld in het derde lid, schriftelijk medegedeeld dat de hem ter inzage gegeven stukken niet volledig zijn. De verdachte kan binnen veertien dagen na dagtekening van de mededeling, bedoeld in het derde lid, en daarna telkens na periodes van dertig dagen, een bezwaarschrift indienen bij de rechter-commissaris. Alvorens te beslissen, hoort de rechter-commissaris de officier van justitie en stelt hij de verdachte in de gelegenheid om opmerkingen te maken.   
+4.  De verdachte wordt in het geval, bedoeld in het derde lid, schriftelijk medegedeeld dat de hem ter inzage gegeven stukken niet volledig zijn. De verdachte kan binnen veertien dagen na dagtekening van de mededeling, bedoeld in de vorige volzin, en daarna telkens na periodes van dertig dagen, een bezwaarschrift indienen bij de rechter-commissaris. Alvorens te beslissen, hoort de rechter-commissaris de officier van justitie en stelt hij de verdachte in de gelegenheid om opmerkingen te maken.   
 
 ### Artikel  31  
 
@@ -444,7 +444,7 @@ Bij algemene maatregel van bestuur kunnen regelen worden gegeven omtrent de belo
 
 ### Artikel  51  
 
-Ten aanzien van de bevoegdheid van den raadsman tot de kennisneming van processtukken en het bekomen van afschrift daarvan vinden de artikelen 30-34 overeenkomstige toepassing. Van alle stukken die ingevolge dit wetboek ter kennis van de verdachte worden gebracht ontvangt de raadsman, behoudens het bepaalde in artikel 32, tweede lid, onverwijld afschrift.  
+Ten aanzien van de bevoegdheid van den raadsman tot de kennisneming van processtukken en het bekomen van afschrift daarvan vinden de artikelen 30 tot en met 34 overeenkomstige toepassing. Van alle stukken die ingevolge dit wetboek ter kennis van de verdachte worden gebracht ontvangt de raadsman, behoudens het bepaalde in artikel 32, tweede lid, onverwijld afschrift.  
 
 ### Titel  IIIA  
 
@@ -492,7 +492,7 @@ a. de echtgenoot of geregistreerde partner dan wel een andere levensgezel, en
 b. de bloedverwanten in de rechte lijn en die in de zijlijn tot de vierde graad ingesloten.   Indien meer dan drie nabestaanden bedoeld onder b hebben meegedeeld dat zij van hun spreekrecht gebruik willen maken, en zij het onderling niet eens kunnen worden over wie van hen het woord zal voeren, beslist de voorzitter welke drie personen van het spreekrecht gebruik kunnen maken.   
 5.  Tot de slachtoffers of nabestaanden die van het spreekrecht gebruik kunnen maken, behoort de minderjarige die de leeftijd van twaalf jaar heeft bereikt. Dit geldt ook voor de minderjarige die die leeftijd nog niet heeft bereikt en die in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.   
 6.  Indien het slachtoffer of een nabestaande de leeftijd van twaalf jaren nog niet heeft bereikt, kan het spreekrecht worden uitgeoefend door zijn wettelijke vertegenwoordigers voor zover deze vertegenwoordiging niet in strijd is met het belang van de minderjarige. De wettelijke vertegenwoordigers kunnen tevens gezamenlijk of elk afzonderlijk, op de terechtzitting een verklaring afleggen over de gevolgen die de strafbare feiten genoemd in het eerste lid, bij hen teweeg hebben gebracht. De voorzitter kan, ambtshalve of op vordering van de officier van justitie, beslissen dat het spreekrecht niet wordt uitgeoefend door de wettelijke vertegenwoordiger wegens strijd met het belang van de minderjarige.   
-7.  Voor het slachtoffer of de nabestaande dat feitelijk niet bij machte is het spreekrecht uit te oefenen, kan het spreekrecht over de gevolgen van het strafbaar feit door welke deze is getroffen, worden uitgeoefend door de persoon genoemd in het vierde lid, onderdeel a, en één van de personen genoemd in het vierde lid, onderdeel b.   
+7.  Voor het slachtoffer dat, of de nabestaande die feitelijk niet bij machte is het spreekrecht uit te oefenen, kan het spreekrecht over de gevolgen van het strafbaar feit door welke deze is getroffen, worden uitgeoefend door de persoon genoemd in het vierde lid, onderdeel a, en één van de personen genoemd in het vierde lid, onderdeel b.   
 
 ### Tweede  afdeling  
 
@@ -766,9 +766,9 @@ c. het bevel tot voorlopige hechtenis was gegeven terzake van verdenking van een
 
 a. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld;  
 
-b. een der misdrijven omschreven in de [artikelen 132](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138ab](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [139c](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [139d, eerste en tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [141a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [161sexies, eerste lid, onder 1°, en tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137c, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137d, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137e, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137g, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [184a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [254a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248d](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248e](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [285, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [285b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [300, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [321](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [323a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [326c, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [350](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [350a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [351](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [395](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [417bis](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [420quater van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. een der misdrijven omschreven in de [artikelen 132](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138ab](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [139c](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [139d, eerste en tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [141a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [161sexies, eerste lid, onder 1°, en tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137c, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137d, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137e, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [137g, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [151](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [184a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [254a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248d](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248e](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [272](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [284, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [285, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [285b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [300, eerste lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [321](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [323a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [326c, tweede lid](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [350](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [350a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [351](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [395](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [417bis](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [420quater van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
 
-c. een der misdrijven omschreven in: [artikel 122, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md); [artikel 175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); [artikel 30, tweede lid, van de Wet buitengewone bevoegdheden burgerlijk gezag](../../../../../../../wet/wet/buitengewone/bevoegdheden/burgerlijk/gezag/BWBR0007982/README.md); de [artikelen 52](../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), [53, eerste lid](../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) en [54 van de Wet gewetensbezwaren militaire dienst](../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md); [artikel 31 van de Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md); [artikel 11, tweede lid, van de Opiumwet](../../../../../../../wet/opiumwet/BWBR0001941/README.md); artikel 55, tweede lid, van de Wet wapens en munitie; de [artikelen 5:56](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:57](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:58 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [artikel 11 van de Wet tijdelijk huisverbod](../../../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md).     
+c. een der misdrijven omschreven in: [artikel 86i, eerste lid, van de Elektriciteitswet 1998](../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md); [artikel 66h, eerste lid, van de Gaswet](../../../../../../../wet/gaswet/BWBR0011440/README.md); [artikel 122, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md); [artikel 175, tweede lid, onderdeel b, of derde lid in verbinding met het eerste lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); [artikel 30, tweede lid, van de Wet buitengewone bevoegdheden burgerlijk gezag](../../../../../../../wet/wet/buitengewone/bevoegdheden/burgerlijk/gezag/BWBR0007982/README.md); de [artikelen 52](../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md), [53, eerste lid](../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md) en [54 van de Wet gewetensbezwaren militaire dienst](../../../../../../../wet/wet/gewetensbezwaren/militaire/dienst/BWBR0002386/README.md); [artikel 31 van de Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md); [artikel 11, tweede lid, van de Opiumwet](../../../../../../../wet/opiumwet/BWBR0001941/README.md); artikel 55, tweede lid, van de Wet wapens en munitie; de [artikelen 5:56](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:57](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:58 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [artikel 11 van de Wet tijdelijk huisverbod](../../../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md).     
 2.  Het bevel kan voorts worden gegeven indien geen vaste woon- of verblijfplaats in Nederland van de verdachte kan worden vastgesteld en hij verdacht wordt van een misdrijf waarvan de rechtbanken kennis nemen en waarop, naar de wettelijke omschrijving gevangenisstraf is gesteld.   
 3.  De voorgaande leden van dit artikel vinden alleen toepassing wanneer uit feiten of omstandigheden blijkt van ernstige bezwaren tegen de verdachte.   
 4.  In afwijking van het derde lid zijn ernstige bezwaren niet vereist voor een bevel tot bewaring bij verdenking van een terroristisch misdrijf.   
@@ -1623,8 +1623,8 @@ e. indien de vordering gegevens betreft als bedoeld in het eerste lid, tweede vo
 
 ### Artikel  126nb  
 
-1.  Teneinde toepassing te kunnen geven aan artikel 126m of artikel 126n kan de officier van justitie met inachtneming van [artikel 3.10, vierde lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee de gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen.   
-2.  Het bevel wordt gegeven aan een ambtenaar als bedoeld in [artikel 3.10, vierde lid, onder a, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en is schriftelijk. Bij dringende noodzaak kan het bevel mondeling worden gegeven. In dat geval stelt de officier van justitie het bevel binnen drie dagen op schrift.   
+1.  Teneinde toepassing te kunnen geven aan artikel 126m of artikel 126n kan de officier van justitie met inachtneming van [artikel 3.22, eerste lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee de gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen.   
+2.  Het bevel wordt gegeven aan een ambtenaar als bedoeld in [artikel 3.22, eerste lid, onder a, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en is schriftelijk. Bij dringende noodzaak kan het bevel mondeling worden gegeven. In dat geval stelt de officier van justitie het bevel binnen drie dagen op schrift.   
 3.  Het bevel wordt gegeven voor een periode van ten hoogste een week en vermeldt: 
 
 a. de feiten of omstandigheden waaruit blijkt dat voldaan is aan de voorwaarden voor toepassing van artikel 126m of artikel 126n en  
@@ -1944,7 +1944,7 @@ e. indien de vordering gegevens betreft als bedoeld in het eerste lid, tweede vo
 
 ### Artikel  126ub  
 
-Teneinde toepassing te kunnen geven aan artikel 126t of artikel 126u kan de officier van justitie met inachtneming van [artikel 3.10, vierde lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee een gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen. Artikel 126nb, tweede tot en met vierde lid, is van overeenkomstige toepassing.  
+Teneinde toepassing te kunnen geven aan artikel 126t of artikel 126u kan de officier van justitie met inachtneming van [artikel 3.22, eerste lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee een gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen. Artikel 126nb, tweede tot en met vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  126uc  
 
@@ -2226,7 +2226,7 @@ b. na het tijdstip van de vordering worden verwerkt.
 
 ### Artikel  126zj  
 
-Teneinde toepassing te kunnen geven aan artikel 126zg of artikel 126zh kan de officier van justitie met inachtneming van [artikel 3.10, vierde lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee de gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen. Artikel 126nb, tweede tot en met vierde lid, is van overeenkomstige toepassing.  
+Teneinde toepassing te kunnen geven aan artikel 126zg of artikel 126zh kan de officier van justitie met inachtneming van [artikel 3.22, eerste lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bevelen dat met behulp van in dat artikel bedoelde apparatuur het nummer waarmee de gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen. Artikel 126nb, tweede tot en met vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  126zja  
 
@@ -2482,6 +2482,10 @@ a. de eisen waaraan de techniek van videoconferentie dient te voldoen, onder mee
 
 b. de controle op de naleving van de eisen, bedoeld onder a.     
 
+### Artikel  131b  
+
+Waar wordt gesproken van bijstand van een tolk aan een verdachte die de Nederlandse taal niet of onvoldoende beheerst, wordt daaronder mede begrepen bijstand van een daartoe geschikte persoon als tolk aan een verdachte die niet of slechts zeer gebrekkig kan horen of spreken.  
+
 ### Artikel  132  
 
 Onder het voorbereidende onderzoek wordt verstaan het onderzoek hetwelk aan de behandeling ter terechtzitting voorafgaat.  
@@ -2616,7 +2620,7 @@ c. de personen die bij bijzondere wetten met de opsporing van de daarin bedoelde
 
 Ter plaatse waar en binnen de grenzen binnen welke zij bevoegd zijn tot opsporing, zijn hulpofficier van justitie: 
 
-a. de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, en de bijzondere ambtenaren van politie;  
+a. de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak;  
 
 b. de officieren van de Koninklijke marechaussee;  
 
@@ -3069,7 +3073,7 @@ De rechter-commissaris neemt de noodige maatregelen om te beletten dat de ten ve
 
 ### Artikel  192  
 
-1.  De rechter-commissaris kan, ambtshalve, op de vordering van de officier van justitie of op het verzoek van de verdachte, de bevoegdheid omschreven in artikel 150 uitoefenen.   
+1.  De rechter-commissaris kan, ambtshalve, op de vordering van de officier van justitie of op het verzoek van de verdachte, de bevoegdheid omschreven in artikel 151 uitoefenen.   
 2.  De rechter-commissaris kan bepalen dat de verdachte, de getuigen en deskundigen op de plaats zullen worden verhoord.   
 3.  Van het binnentreden in een woning waarvan de toegang door de bewoner wordt geweigerd wordt binnen tweemaal vier en twintig uur proces-verbaal opgemaakt.   
 
@@ -3656,7 +3660,7 @@ g. de wijze van tenuitvoerlegging.
 2.  Indien uitreiking van het afschrift niet in persoon plaatsvindt, wordt het afschrift toegezonden aan het in de basisadministratie persoonsgegevens vermelde adres van de verdachte dan wel, indien deze niet als ingezetene is ingeschreven in de basisadministratie persoonsgegevens, aan de woon- of verblijfplaats van de verdachte. Indien de verdachte bij zijn eerste verhoor in de desbetreffende strafzaak aan de verhorende ambtenaar een ander adres in Nederland heeft opgegeven waaraan mededelingen over de strafzaak kunnen worden toegezonden, wordt tevens een afschrift aan dat adres toegezonden.   
 3.  Indien de verdachte een rechtspersoon, een maatschap of vennootschap zonder rechtspersoonlijkheid, een doelvermogen of een rederij is, kan het afschrift worden uitgereikt aan onderscheidenlijk een bestuurder van de rechtspersoon, een aansprakelijke vennoot, een bestuurder van het doelvermogen, de boekhouder of een lid van de rederij, dan wel aan een persoon die gemachtigd is het afschrift in ontvangst te nemen. Het afschrift wordt in deze gevallen geacht in persoon aan de verdachte uitgereikt te zijn. Indien uitreiking van het afschrift niet op deze wijze plaatsvindt, wordt het toegezonden aan een van de verdachte bekend adres. Als zodanig worden aangemerkt de woonplaats van de rechtspersoon, de plaats van het kantoor van de rechtspersoon, de maatschap of vennootschap zonder rechtspersoonlijkheid, het doelvermogen of de rederij, alsmede het in de basisadministratie persoonsgegevens vermelde adres van elk der bestuurders, aansprakelijke vennoten of de boekhouder en elk der leden van de rederij. Indien een bestuurder, aansprakelijke vennoot of de boekhouder of een lid van de rederij bij zijn eerste verhoor in de desbetreffende strafzaak aan de verhorende ambtenaar een ander adres in Nederland heeft opgegeven waaraan mededelingen over de strafzaak kunnen worden toegezonden, wordt tevens een afschrift aan dat adres toegezonden.   
 4.  Toezending vindt plaats bij brief. Toezending van strafbeschikkingen houdende betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel die afzonderlijk of gezamenlijk meer belopen dan € 2000, geschiedt bij aangetekende brief. Van elke uitreiking of toezending wordt aantekening gehouden op de wijze, bij algemene maatregel van bestuur bepaald.   
-5.  Indien bij de officier van justitie opgave is gedaan overeenkomstig artikel 51g, tweede lid, wordt aan de benadeelde partij een afschrift van de strafbeschikking toegezonden. Voorts wordt een afschrift toegezonden aan de rechtstreeks belanghebbende die de officier van justitie bekend is.   
+5.  Indien bij de officier van justitie een verzoek als bedoeld in artikel 51a, derde lid, is gedaan, wordt aan het slachtoffer een afschrift van de strafbeschikking toegezonden. Voorts wordt een afschrift toegezonden aan de rechtstreeks belanghebbende die de officier van justitie bekend is.   
 
 ### Vijfde  afdeling  
 
@@ -3711,7 +3715,10 @@ g. de wijze van tenuitvoerlegging.
 
 1.  De zaak wordt ter terechtzitting aanhangig gemaakt door eene dagvaarding vanwege den officier van justitie aan den verdachte beteekend; het rechtsgeding neemt hierdoor een aanvang.   
 2.  De voorzitter der rechtbank bepaalt, op het verzoek en de voordracht van den officier van justitie, den dag der terechtzitting. Hij kan, bij het bepalen van de dag der terechtzitting of nadien, bevelen dat de verdachte in persoon zal verschijnen; hij kan daartoe tevens zijn medebrenging gelasten. De voorzitter kan ook de medebrenging gelasten van de getuige van wie op grond van feiten en omstandigheden aannemelijk is dat hij niet voornemens is gevolg te geven aan een oproep om ter terechtzitting te verschijnen. Voorts kan de voorzitter van de rechtbank de officier van justitie bevelen, nader omschreven onderzoek te verrichten of doen verrichten, alsmede gegevensdragers en stukken bij de processtukken te voegen dan wel stukken van overtuiging over te leggen.   
-6.  De personen als bedoeld in artikel 51e, eerste lid, eerste volzin, derde, vijfde of zesde lid, kunnen de voorzitter verzoeken of het hen toegekende spreekrecht mag worden uitgeoefend door hun raadsman of een daartoe bijzondere gemachtigde. Indien meer dan drie nabestaanden bedoeld onder 51e, vierde lid, onder b, hebben meegedeeld dat zij van hun spreekrecht gebruik willen maken, en zij het onderling niet eens kunnen worden over wie van hen het woord zal voeren, beslist de voorzitter welke drie personen van het spreekrecht gebruik kunnen maken.   
+3.   Vervallen.    
+4.   Vervallen.    
+5.   Vervallen.    
+6.  De personen, bedoeld in artikel 51e, tweede lid, eerste volzin, derde, vijfde of zesde lid, kunnen de voorzitter verzoeken of het hen toegekende spreekrecht mag worden uitgeoefend door hun raadsman of een daartoe bijzondere gemachtigde. Indien meer dan drie nabestaanden bedoeld onder 51e, vierde lid, onder b, hebben meegedeeld dat zij van hun spreekrecht gebruik willen maken, en zij het onderling niet eens kunnen worden over wie van hen het woord zal voeren, beslist de voorzitter welke drie personen van het spreekrecht gebruik kunnen maken.   
 
 ### Artikel  259  
 
@@ -3720,7 +3727,7 @@ Strafbare feiten welke op dezelfde terechtzitting worden aangebracht en waartuss
 ### Artikel  260  
 
 1.  De officier is bevoegd getuigen, slachtoffers of hun nabestaanden, deskundigen en tolken ter terechtzitting schriftelijk te doen oproepen.   
-2.  Indien de personen als bedoeld in artikel 51e, eerste lid, eerste volzin of een nabestaande als bedoeld in artikel 51e, derde en vierde lid, en degenen die te kennen hebben gegeven gebruik te willen maken van het spreekrecht op grond van artikel 51e, zesde en zevende lid, schriftelijk verzoeken om oproeping voor de uitoefening van het spreekrecht, geeft de officier van justitie daaraan gehoor.   
+2.  Indien de personen, bedoeld in artikel 51e, tweede lid, eerste volzin, of een nabestaande als bedoeld in artikel 51e, derde en vierde lid, en degenen die te kennen hebben gegeven gebruik te willen maken van het spreekrecht op grond van artikel 51e, zesde en zevende lid, schriftelijk verzoeken om oproeping voor de uitoefening van het spreekrecht, geeft de officier van justitie daaraan gehoor.   
 3.  Bij de dagvaarding van de verdachte wordt opgave gedaan van de naam, het beroep en de woon- of verblijfplaats, of bij onbekendheid daarvan de aanduiding van de getuigen en deskundigen die door de officier van justitie zijn opgeroepen. Ook van de oproeping van het slachtoffer of een nabestaande voor de uitoefening van het spreekrecht, van de benadeelde partij voor zover dit nog niet op de voet van artikel 51g, tweede lid, is geschied en van een tolk wordt opgave gedaan.   
 4.  Aan de verdachte wordt daarbij kenbaar gemaakt dat hij het recht heeft getuigen en deskundigen schriftelijk te doen oproepen of op de terechtzitting mede te brengen; hij wordt daarbij tevens opmerkzaam gemaakt op de voorschriften van de artikelen 262, eerste lid, 263, tweede en derde lid, en 278, tweede lid.   
 
@@ -4037,14 +4044,14 @@ Onverminderd artikel 51m, zijn alle bepalingen in deze titel betreffende getuige
 
 ### Artikel  302  
 
-1.  De voorzitter stelt het slachtoffer dat te kennen heeft gegeven gebruik te zullen maken van het spreekrecht, daartoe in de gelegenheid. Nadat het slachtoffer zijn verklaring heeft afgelegd, kunnen hem door de voorzitter en de rechters nadere vragen over zijn verklaring worden gesteld. Nadere vragen van de officier van justitie en de verdachte worden door tussenkomst van de voorzitter gesteld.   
+1.  De voorzitter stelt degene die het hem toegekende spreekrecht wenst uit te oefenen daartoe in de gelegenheid. Nadat deze zijn verklaring heeft afgelegd, kunnen hem door de voorzitter en de rechters nadere vragen over zijn verklaring worden gesteld. Nadere vragen van de officier van justitie en de verdachte worden door tussenkomst van de voorzitter gesteld.   
 2.  Indien meer nabestaanden van het slachtoffer te kennen hebben gegeven een verklaring te willen afleggen en zij geen overeenstemming hebben bereikt over wie van hen het woord zal voeren, beslist de rechtbank wie zij zal horen.   
 
 ### Artikel  303  
 
 1.  De rechtbank hoort het slachtoffer, diens vertegenwoordiger op grond van artikel 51e, zesde of zevende lid, of de nabestaande die op grond van artikel 260, tweede lid, is opgeroepen en verschenen.   
 2.  Artikel 258, zesde lid, is na de aanvang van de terechtzitting van overeenkomstige toepassing.   
-3.  De rechtbank kan bevelen dat het slachtoffer, diens vertegenwoordiger op grond van artikel 51e, zesde of zevende lid, of diens nabestaande, indien deze na oproeping niet op de terechtzitting is verschenen, zal worden opgeroepen om op een nader te bepalen tijdstip op de terechtzitting te verschijnen. Indien deze ten tweede male niet op de terechtzitting verschijnt, kan de rechtbank van het horen van het slachtoffer of de nabestaande afzien.   
+3.  De rechtbank kan bevelen dat het slachtoffer, diens vertegenwoordiger op grond van artikel 51e, zesde of zevende lid, of diens nabestaande, indien deze na oproeping niet op de terechtzitting is verschenen, zal worden opgeroepen om op een nader te bepalen tijdstip op de terechtzitting te verschijnen. Indien deze ten tweede male niet op de terechtzitting verschijnt, kan de rechtbank van het horen van het slachtoffer diens vertegenwoordiger op grond van artikel 51e, zesde of zevende lid, of de nabestaande afzien.   
 
 ### Artikel  309  
 
@@ -4434,7 +4441,7 @@ Heeft de officier van justitie tevens een vordering ingediend tot het gelasten v
 
 1.  Het vonnis wordt binnen tweemaal vier en twintig uren na de uitspraak onderteekend door de rechters die over de zaak hebben geoordeeld, en door den griffier die bij de beraadslaging tegenwoordig is geweest.   
 2.  Zoo één of meer hunner daartoe buiten staat zijn, wordt hiervan aan het slot van het vonnis melding gemaakt.   
-3.  Zoodra het vonnis is geteekend en in ieder geval na afloop van den termijn in het eerste lid vermeld, kan de verdachte of zijn raadsman daarvan en van het proces-verbaal der terechtzitting kennis nemen. De voorzitter verstrekt desgevraagd een afschrift van het vonnis en het proces-verbaal aan de verdachte en zijn raadsman.   
+3.  Zoodra het vonnis is geteekend en in ieder geval na afloop van den termijn in het eerste lid vermeld, kan de verdachte, zijn raadsman of de benadeelde partij daarvan en van het proces-verbaal der terechtzitting kennis nemen. De voorzitter verstrekt desgevraagd een afschrift van het vonnis en het proces-verbaal aan de verdachte, zijn raadsman en de benadeelde partij.   
 4.  De voorzitter verstrekt desgevraagd een afschrift van het vonnis en het proces-verbaal der terechtzitting aan ieder ander dan de verdachte of zijn raadsman, tenzij verstrekking naar het oordeel van de voorzitter ter bescherming van de belangen van degene ten aanzien van wie het vonnis is gewezen of van de derden die in het vonnis of in het proces-verbaal worden genoemd, geheel of gedeeltelijk dient te worden geweigerd. In het laatste geval kan de voorzitter een geanonimiseerd afschrift of een uittreksel van het vonnis en het proces-verbaal verstrekken.   
 5.  Onder het vonnis zijn begrepen de stukken die aan de uitspraak zijn gehecht. Van andere tot het strafdossier behorende stukken wordt geen afschrift of uittreksel verstrekt.   
 
@@ -4560,7 +4567,7 @@ b. indien de officier van justitie, de verdachte of zijn raadsman, dan wel de be
 c. indien een gewoon rechtsmiddel tegen het vonnis is aangewend, tenzij het aanwenden van het rechtsmiddel meer dan drie maanden na de uitspraak is geschied of sprake is van een vonnis als bedoeld in artikel 410a, eerste lid;  
 
 d. indien het vonnis bij verstek is gewezen en de dagvaarding niet in persoon is betekend en zich geen omstandigheid heeft voorgedaan waaruit voortvloeit dat de dag van de terechtzitting of nadere terechtzitting aan de verdachte bekend was, terwijl op de terechtzitting getuigen of deskundigen zijn gehoord dan wel een benadeelde partij zich in het strafproces heeft gevoegd, tenzij sprake is van een vonnis als bedoeld in artikel 410a, eerste lid.     
-3.  Zodra het proces-verbaal der terechtzitting is getekend, kunnen de verdachte en zijn raadsman daarvan kennis nemen. De politierechter verstrekt desgevraagd een afschrift van het proces-verbaal aan de verdachte en zijn raadsman.   
+3.  Zodra het proces-verbaal der terechtzitting is getekend, kunnen de verdachte, zijn raadsman of de benadeelde partij daarvan kennis nemen. De politierechter verstrekt desgevraagd een afschrift van het proces-verbaal aan de verdachte, zijn raadsman of de benadeelde partij.   
 4.  Artikel 365, vierde en vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  378a  
@@ -4685,7 +4692,7 @@ b. indien de officier van justitie, de verdachte of zijn raadsman dan wel de ben
 c. indien een gewoon rechtsmiddel tegen het vonnis is aangewend, tenzij het aanwenden van het rechtsmiddel meer dan drie maanden na de uitspraak is geschied of sprake is van een vonnis als bedoeld in artikel 410a, eerste lid;  
 
 d. indien het vonnis bij verstek is gewezen en de dagvaarding niet in persoon is betekend en zich geen omstandigheid heeft voorgedaan waaruit voortvloeit dat de dag van de terechtzitting of nadere terechtzitting aan de verdachte bekend was, terwijl op de terechtzitting getuigen of deskundigen zijn gehoord dan wel een benadeelde partij zich in het strafproces heeft gevoegd, tenzij sprake is van een vonnis als bedoeld in artikel 410a, eerste lid.     
-3.  Zodra het proces-verbaal der terechtzitting is getekend, kunnen de verdachte en zijn raadsman daarvan kennis nemen. De kantonrechter verstrekt desgevraagd een afschrift van het proces-verbaal aan de verdachte en zijn raadsman.   
+3.  Zodra het proces-verbaal der terechtzitting is getekend, kunnen de verdachte, zijn raadsman of de benadeelde partij daarvan kennis nemen. De kantonrechter verstrekt desgevraagd een afschrift van het proces-verbaal aan de verdachte, zijn raadsman of de benadeelde partij.   
 4.  Artikel 365, vierde en vijfde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  395a  
@@ -4894,7 +4901,7 @@ b. de zaak in eerste aanleg door de kantonrechter of de politierechter is behand
 ### Artikel  418  
 
 1.  De oproeping van niet verschenen getuigen kan worden geweigerd in de gevallen, genoemd in artikel 288.   
-2.  In het geval de berechting in eerste aanleg op tegenspraak heeft plaatsgevonden, kan oproeping ook worden geweigerd indien de getuige of deskundige ter terechtzitting in eerste aanleg dan wel, door de rechter-commissaris is gehoord en het gerechtshof horen ter terechtzitting niet noodzakelijk oordeelt.   
+2.  In het geval de berechting in eerste aanleg op tegenspraak heeft plaatsgevonden, kan oproeping ook worden geweigerd indien de getuige of deskundige ter terechtzitting in eerste aanleg dan wel door de rechter-commissaris is gehoord en het gerechtshof horen ter terechtzitting niet noodzakelijk oordeelt.   
 3.  Indien de verdachte hoger beroep heeft ingesteld kan oproeping van een niet bij schriftuur door de verdachte opgegeven getuige of deskundige worden geweigerd indien horen ter terechtzitting niet noodzakelijk is te achten.   
 
 ### Artikel  419  
@@ -4910,11 +4917,11 @@ In geval van artikel 295 wordt het proces-verbaal met de andere processtukken do
 
 ### Artikel  421  
 
-1.  De benadeelde partij die zich niet overeenkomstig artikel 51b, eerste of tweede lid, in het geding in eerste aanleg heeft gevoegd, is daartoe onbevoegd in het geding in hoger beroep.   
+1.  De benadeelde partij die zich niet overeenkomstig artikel 51g, eerste of derde lid, in het geding in eerste aanleg heeft gevoegd, is daartoe onbevoegd in het geding in hoger beroep.   
 2.  Heeft de voeging in eerste aanleg plaats gehad, dan duurt zij, voor zover de gevorderde schadevergoeding is toegewezen, van rechtswege voort in hoger beroep.   
-3.  Voor zover de gevorderde schadevergoeding niet is toegewezen kan de benadeelde partij zich binnen de grenzen van haar eerste vordering in hoger beroep voegen. De artikelen 51b tot en met 51f zijn van overeenkomstige toepassing, met dien verstande dat voor de ingevolge artikel 51b vereiste opgave kan worden volstaan met een verwijzing naar de opgave van de eerste vordering, indien deze ongewijzigd is gebleven.   
+3.  Voor zover de gevorderde schadevergoeding niet is toegewezen kan de benadeelde partij zich binnen de grenzen van haar eerste vordering in hoger beroep voegen. Titel IIIa van het Eerste Boek is, met uitzondering van artikel 51f, eerste tot en met derde lid, van overeenkomstige toepassing, met dien verstande dat voor de ingevolge artikel 51g vereiste opgave kan worden volstaan met een verwijzing naar de opgave van de eerste vordering, indien deze ongewijzigd is gebleven.   
 4.  Indien geen hoger beroep is ingesteld, kan de benadeelde partij tegen het deel van het vonnis waarbij haar vordering is afgewezen, tegen deze afwijzing in hoger beroep komen bij het gerechtshof. De tweede afdeling van de Zesde Titel van Boek II is niet van toepassing. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) inzake het rechtsgeding in hoger beroep en cassatie zijn van overeenkomstige toepassing. Voor het geding wordt geen griffierecht geheven.   
-5.  Indien geen hoger beroep is ingesteld en tegen de vordering op de voet van artikel 51g, vierde lid, verweer is gevoerd door de ouders of voogd van de veroordeelde, kunnen deze tegen de toewijzing van de vordering in hoger beroep komen bij het gerechtshof. De tweede afdeling van de Zesde Titel van Boek II is niet van toepassing. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) inzake het rechtsgeding in hoger beroep zijn van overeenkomstige toepassing. Voor het geding wordt geen vast recht geheven.   
+5.  Indien geen hoger beroep is ingesteld en tegen de vordering op de voet van artikel 51g, vierde lid, verweer is gevoerd door de ouders of voogd van de veroordeelde, kunnen deze tegen de toewijzing van de vordering in hoger beroep komen bij het gerechtshof. De tweede afdeling van de Zesde Titel van Boek II is niet van toepassing. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) inzake het rechtsgeding in hoger beroep zijn van overeenkomstige toepassing. Voor het geding wordt geen griffierecht geheven.   
 
 ### Artikel  422  
 
@@ -5278,6 +5285,17 @@ b. het verzochte onderzoek niet noodzakelijk is.
 
 1.  Ten aanzien van het in artikel 463, tweede lid, bedoelde onderzoek vinden de a rtikelen 28 tot en met 31, 94, eerste en derde lid, 96 tot en met 102a, 104 tot en met 116, eerste lid, 124 tot en met 125o, 126n tot en met 126nd, 126nf tot en met 126ni, 126aa tot en met 126dd, 141, 142, 148, 150 tot en met 151d en 152 tot en met 157 overeenkomstige toepassing met dien verstande dat daar waar wordt gesproken van de verdachte daaronder wordt verstaan de gewezen verdachte, voorzover niet uit enige bepaling het tegendeel volgt.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de inrichting van het onderzoek.   
+
+### Artikel  464a  
+
+1.  In gevallen waarin de Hoge Raad beslist op een herzieningsaanvraag die betrekking heeft op een uitspraak als bedoeld in artikel 457, eerste lid, waartegen beroep in cassatie als bedoeld in de Derde Titel van het Derde Boek is ingesteld, is hij samengesteld uit raadsheren die niet op het beroep in cassatie hebben beslist.   
+2.  In gevallen waarin de procureur-generaal, de plaatsvervangend procureur-generaal of een advocaat-generaal met betrekking tot een uitspraak als bedoeld in artikel 457, eerste lid, eerder bevoegdheden heeft uitgeoefend die op grond van de Derde Titel van het Derde Boek aan de procureur-generaal zijn toegekend, worden de bevoegdheden die in deze Titel aan de procureur-generaal zijn toegekend bij voorkeur uitgeoefend door: 
+
+a. in geval het de procureur-generaal betreft: de plaatsvervangend procureur-generaal of een advocaat-generaal;  
+
+b. in geval het de plaatsvervangend procureur-generaal betreft: een advocaat-generaal;  
+
+c. in geval het een advocaat-generaal betreft – een andere advocaat-generaal.     
 
 ### Artikel  465  
 
@@ -5758,10 +5776,10 @@ Tot kennisneming van de vordering is bij uitsluiting bevoegd de rechtbank die in
 ### Artikel  509t  
 
 1.  De rechtbank beslist op de vordering tot verlenging zo spoedig mogelijk, doch uiterlijk twee maanden na de dag waarop de vordering is ingediend.   
-2.  De rechtbank kan, indien zij beslist tot verlenging van de terbeschikkingstelling voor een jaar, hetzij ambtshalve, hetzij op vordering van de officier van justitie of op verzoek van de ter beschikking gestelde of diens raadsman tevens de verpleging van overheidswege voorwaardelijk beëindigen.   
-3.  Indien zich na de indiening van de vordering als bedoeld in artikel 509 *o*, eerste lid, een omstandigheid heeft voorgedaan, waaruit voortvloeit dat de rechtbank, gelet op de in het eerste lid gestelde termijn waarbinnen zij op de vordering tot verlenging moet beslissen, niet kan voldoen aan de ingevolge artikel 509 *s*, derde lid, voorgeschreven hoorplicht, vindt het eerste lid geen toepassing. De rechtbank beslist in dat geval op de vordering tot verlenging binnen twee maanden nadat het beletsel om aan de hoorplicht te voldoen is weggevallen.   
+2.  De rechtbank kan, indien zij beslist tot verlenging van de terbeschikkingstelling voor de tijd van een jaar dan wel voor de tijd van twee jaren dan wel voor de tijd van twee jaren, hetzij ambtshalve, hetzij op vordering van de officier van justitie of op verzoek van de ter beschikking gestelde of diens raadsman tevens de verpleging van overheidswege voorwaardelijk beëindigen. Beëindiging van de terbeschikkingstelling vindt niet plaats dan nadat de verpleging van overheidswege gedurende minimaal een jaar voorwaardelijk beëindigd is geweest.   
+3.  Indien zich na de indiening van de vordering als bedoeld in artikel 509o, eerste lid, een omstandigheid heeft voorgedaan, waaruit voortvloeit dat de rechtbank, gelet op de in het eerste lid gestelde termijn waarbinnen zij op de vordering tot verlenging moet beslissen, niet kan voldoen aan de ingevolge artikel 509s, derde lid, voorgeschreven hoorplicht, vindt het eerste lid geen toepassing. De rechtbank beslist in dat geval op de vordering tot verlenging binnen twee maanden nadat het beletsel om aan de hoorplicht te voldoen is weggevallen.   
 4.  De beslissing geeft de bijzondere redenen aan die de rechtbank doen besluiten tot de verlenging van de terbeschikkingstelling, dan wel tot afwijzing van de vordering.   
-5.  Indien de rechtbank in geval van verlenging van de terbeschikkingstelling voor de tijd van een jaar voorwaardelijke beëindiging of beëindiging van de verpleging overweegt en zij het voor de vorming van haar eindoordeel noodzakelijk acht zich nader te doen voorlichten omtrent de wijze waarop en de voorwaarden waaronder de terugkeer van de ter beschikking gestelde in het maatschappelijk verkeer zou kunnen geschieden, kan zij met gelijktijdige verlenging van de verpleging haar beslissing voor ten hoogste drie maanden aanhouden.   
+5.  Indien de rechtbank in geval van verlenging van de terbeschikkingstelling voor de tijd van een jaar dan wel voor de tijd van twee jaren dan wel voor de tijd van twee jaren voorwaardelijke beëindiging van de verpleging overweegt en zij het voor de vorming van haar eindoordeel noodzakelijk acht zich nader te doen voorlichten omtrent de wijze waarop en de voorwaarden waaronder de terugkeer van de ter beschikking gestelde in het maatschappelijk verkeer zou kunnen geschieden, kan zij met gelijktijdige verlenging van de verpleging haar beslissing voor ten hoogste drie maanden aanhouden.   
 
 ### Artikel  509u  
 
@@ -6325,11 +6343,11 @@ Tegen de beslissing tot afwijzing van eene door den officier van justitie kracht
 
 ### Artikel  551a  
 
-In geval van verdenking van een misdrijf als omschreven in de [artikelen 138](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [139 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) kan iedere opsporingsambtenaar de desbetreffende plaats betreden. Zij zijn bevoegd alle personen die daar wederrechtelijk vertoeven, alsmede alle voorwerpen die daar ter plaatse worden aangetroffen, te verwijderen of te doen verwijderen.  
+In geval van verdenking van een misdrijf als omschreven in de [artikelen 138](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [138a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [139 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) kan iedere opsporingsambtenaar de desbetreffende plaats betreden. De opsporingsambtenaar is bevoegd alle personen die daar wederrechtelijk vertoeven, alsmede alle voorwerpen die daar ter plaatse worden aangetroffen, te verwijderen of te doen verwijderen.  
 
 ### Artikel  552  
 
-De in artikel 141 bedoelde ambtenaren hebben toegang tot elke plaats, waarvan redelijkerwijs kan worden vermoed, dat zij door een handelaar als aangewezen bij algemene maatregel van bestuur op grond van artikel [437 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) worden gebruikt. [Artikel 90 *bis* van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van toepassing.  
+De in artikel 141 bedoelde ambtenaren en de ambtenaren die krachtens artikel 142 zijn belast met de opsporing van de bij [artikel 437](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [437bis](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [437ter van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) strafbaar gestelde feiten, hebben toegang tot elke plaats waarvan redelijkerwijs kan worden vermoed dat zij wordt gebruikt door een handelaar als bedoeld in laatstgenoemde artikelen. [Artikel 90bis van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van toepassing.  
 
 ### Titel  IX  
 
@@ -6432,14 +6450,10 @@ De officier van justitie die het verzoek heeft ontvangen, beslist onverwijld omt
 
 ### Artikel  552l  
 
-1.  Aan het verzoek wordt geen gevolg gegeven: 
-
-a. in gevallen waarin grond bestaat voor het vermoeden, dat het is gedaan ten behoeve van een onderzoek, ingesteld met het oogmerk de verdachte te vervolgen, te straffen of op andere wijze te treffen in verband met zijn godsdienstige, levensbeschouwelijke dan wel staatkundige overtuiging, zijn nationaliteit, zijn ras of de groep van de bevolking waartoe hij behoort;  
-
-b. voor zover inwilliging zou strekken tot het verlenen van medewerking aan een vervolging of berechting welke onverenigbaar is met het aan [artikel 68 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en artikel 255, eerste lid, van dit wetboek ten grondslag liggende beginsel;  
-
-c. voor zover het is gedaan ten behoeve van een onderzoek naar feiten terzake waarvan de verdachte in Nederland wordt vervolgd.     
-2.  In gevallen waarin grond bestaat voor een vermoeden als bedoeld onder *a* van het vorige lid wordt het verzoek voorgelegd aan Onze Minister van Veiligheid en Justitie.   
+1.  Aan het verzoek wordt geen gevolg gegeven in gevallen waarin grond bestaat voor het vermoeden, dat het is gedaan ten behoeve van een onderzoek, ingesteld met het oogmerk de verdachte te vervolgen, te straffen of op andere wijze te treffen in verband met zijn godsdienstige, levensbeschouwelijke dan wel staatkundige overtuiging, zijn nationaliteit, zijn ras of de groep van de bevolking waartoe hij behoort.   
+2.  In gevallen waarin grond bestaat voor een vermoeden als bedoeld in het eerste lid wordt het verzoek voorgelegd aan de Minister van Veiligheid en Justitie.   
+3.  Aan het verzoek wordt geen gevolg gegeven in gevallen waarin na overleg met de verzoekende autoriteit moet worden vastgesteld dat inwilliging zou strekken tot het verlenen van medewerking aan een vervolging of berechting welke onverenigbaar is met het aan [artikel 68 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en artikel 255, eerste lid, van dit wetboek ten grondslag liggende beginsel.   
+4.  Aan het verzoek wordt geen gevolg gegeven indien het is gedaan ten behoeve van een onderzoek naar feiten terzake waarvan de verdachte in Nederland wordt vervolgd en uit overleg met de verzoekende autoriteit is gebleken dat inwilliging van het verzoek niet verenigbaar zou zijn met de Nederlandse belangen bij de strafvervolging danwel zou leiden tot schending van het beginsel ne bis in idem.   
 
 ### Artikel  552m  
 
@@ -6529,7 +6543,7 @@ b. alleen mogen worden gebruikt voor het strafrechtelijk onderzoek in het kader 
 
 ### Artikel  552qa  
 
-1.  Voor zover een verdrag daarin voorziet of ter uitvoering van een kaderbesluit van de Raad van de Europese Unie, kan de officier van justitie voor een beperkte periode, ten behoeve van het gezamenlijk uitvoeren van strafrechtelijke onderzoeken, tezamen met de bevoegde autoriteiten van andere landen een gemeenschappelijk onderzoeksteam instellen. Artikel 552l, eerste lid, onder c, is niet van toepassing.   
+1.  Voor zover een verdrag daarin voorziet of ter uitvoering van een kaderbesluit van de Raad van de Europese Unie, kan de officier van justitie voor een beperkte periode, ten behoeve van het gezamenlijk uitvoeren van strafrechtelijke onderzoeken, tezamen met de bevoegde autoriteiten van andere landen een gemeenschappelijk onderzoeksteam instellen.   
 2.  De instelling van een gemeenschappelijk onderzoeksteam wordt door de officier van justitie met de bevoegde autoriteiten van de betrokken landen schriftelijk overeengekomen.   
 3.  In de overeenkomst, bedoeld in het tweede lid, worden in elk geval het doel, de bestaansperiode, de plaats van vestiging en de samenstelling van het gemeenschappelijke onderzoeksteam, de door Nederlandse ambtenaren op buitenlands grondgebied en de door buitenlandse opsporingsambtenaren op Nederlands grondgebied uit te oefenen opsporingsbevoegdheden alsmede de verplichting voor buitenlandse opsporingsambtenaren om gehoor te geven aan een dagvaarding als bedoeld in artikel 210 of een oproeping als bedoeld in de artikel 260, vastgelegd.   
 
@@ -6737,11 +6751,15 @@ De artikelen 552dd en 552gg, eerste lid, zijn van overeenkomstige toepassing bij
 
 ### Titel  XI  
 
-####Wederzijdse erkenning en tenuitvoerlegging van strafvorderlijke bevelen
+####Wederzijdse erkenning
 
 ### Eerste  afdeling  
 
-####Erkenning en tenuitvoerlegging van buitenlandse strafvorderlijke bevelen
+####Bevriezingsbevel
+
+### §  1  
+
+####Bevelen uitgevaardigd door een andere lidstaat van de Europese Unie
 
 ### Artikel  552jj  
 
@@ -6834,9 +6852,9 @@ b. de autoriteiten van de uitvaardigende lidstaat hebben aangegeven het bevel in
 2.  Tenzij aannemelijk is dat de rechthebbende op de in beslag genomen voorwerpen niet in Nederland verblijf houdt, wordt het krachtens het eerste lid vereiste verlof slechts verleend onder het voorbehoud dat bij de afgifte aan de autoriteiten van de uitvaardigende lidstaat wordt bedongen, dat de voorwerpen zullen worden teruggezonden zodra daarvan het voor de strafvordering nodige gebruik is gemaakt.   
 3.  De artikelen 552a, 552ca, 552d, eerste lid en 552e, eerste lid, zijn van overeenkomstige toepassing, met dien verstande dat het klaagschrift wordt ingediend bij de griffie van de rechtbank die bevoegd is tot het verlenen van het krachtens het eerste lid vereiste verlof.   
 
-### Tweede  afdeling  
+### §  2  
 
-####Erkenning en tenuitvoerlegging van Nederlandse strafvorderlijke bevelen
+####Bevelen uitgevaardigd door Nederland
 
 ### Artikel  552rr  
 
@@ -6870,6 +6888,140 @@ c. ontneming van wederrechtelijk verkregen voordeel in verband waarmee het bevel
 ### Artikel  552vv  
 
 De officier van justitie kan het bevel te allen tijde intrekken. Indien hij een bevel intrekt, stelt hij de autoriteiten van de uitvoerende lidstaat hiervan onverwijld in kennis.  
+
+### Tweede  afdeling  
+
+####Europees bewijsverkrijgingsbevel
+
+### §  1  
+
+####Europees bewijsverkrijgingsbevel uitgevaardigd door een andere lidstaat van de Europese Unie
+
+### Artikel  552ww  
+
+1.  Vatbaar voor erkenning en tenuitvoerlegging is een door een bevoegde justitiële autoriteit van een andere lidstaat van de Europese Unie uitgevaardigd Europees bewijsverkrijgingsbevel dat is opgesteld overeenkomstig het in de bijlage bij kaderbesluit nr. 2008/978/JBZ van de Raad van de Europese Unie van 18 december 2008 betreffende het Europees bewijsverkrijgingsbevel ter verkrijging van voorwerpen, documenten en gegevens voor gebruik in strafprocedures (PbEU L 350) opgenomen model en strekt tot: 
+
+a. inbeslagneming van voorwerpen of bescheiden ten behoeve van de waarheidsvinding voor zover deze zich op Nederlands grondgebied bevinden;  
+
+b. het verkrijgen van opgeslagen of vastgelegde gegevens voor zover deze zich op Nederlands grondgebied bevinden of naar Nederlands recht toegankelijk zijn;  
+
+c. de overdracht van de in de onderdelen a en b bedoelde voorwerpen, bescheiden of gegevens aan de uitvaardigende autoriteit;  
+
+d. verstrekking van strafvorderlijke of politiegegevens aan de uitvaardigende autoriteit.     
+2.  Met een door een bevoegde justitiële autoriteit uitgevaardigd Europees bewijsverkrijgingsbevel als bedoeld in het eerste lid wordt gelijk gesteld een Europees bewijsverkrijgingsbevel dat is uitgevaardigd door een andere autoriteit die door de uitvaardigende lidstaat is aangewezen als bevoegd tot het uitvaardigen van een Europees bewijsverkrijgingsbevel, voor zover de uitvoering van dat bevel kan geschieden zonder toepassing van dwangmiddelen. Indien voor de uitvoering van het bevel toepassing van dwangmiddelen is vereist, is het bevel slechts voor erkenning en tenuitvoerlegging vatbaar indien het is bekrachtigd door een justitiële autoriteit van de uitvaardigende lidstaat.   
+3.  Niet voor erkenning en tenuitvoerlegging vatbaar is een Europees bewijsverkrijgingsbevel strekkende tot het verkrijgen van opgeslagen of vastgelegde gegevens over het communicatieverkeer van een gebruiker van een communicatiedienst als bedoeld in artikel 126la.   
+
+### Artikel  552xx  
+
+1.  Een voor erkenning en tenuitvoerlegging vatbaar Europees bewijsverkrijgingsbevel wordt door de officier van justitie erkend en ten uitvoer gelegd overeenkomstig het bepaalde in artikel 552aaa, tenzij de tenuitvoerlegging wordt geweigerd op grond van artikel 552yy.   
+2.  Indien het bevel onvolledig of kennelijk onjuist is of in het geval, bedoeld in artikel 552ww, tweede lid, tweede volzin, niet door een justitiële autoriteit is bekrachtigd, stelt de officier van justitie de autoriteiten van de uitvaardigende lidstaat in de gelegenheid binnen een door hem te stellen redelijke termijn het bevel alsnog aan te vullen, te verbeteren of door een justitiële autoriteit te laten bekrachtigen.   
+3.  Het bevel wordt, zo dit niet aan een officier van justitie is gezonden, door de geadresseerde onverwijld doorgezonden aan de officier van justitie. De geadresseerde stelt de autoriteiten van de uitvaardigende lidstaat schriftelijk in kennis van de doorzending.   
+
+### Artikel  552yy  
+
+1.  De tenuitvoerlegging van een Europees bewijsverkrijgingsbevel wordt geweigerd, indien: 
+
+a. de uitvoering van het bevel zou strekken tot het verlenen van medewerking aan een vervolging of berechting die onverenigbaar is met het aan [artikel 68 van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en artikel 255, eerste lid, van dit wetboek ten grondslag liggende beginsel;  
+
+b. onverminderd het bepaalde in het derde lid, het feit waarvoor het bevel is uitgevaardigd, indien het in Nederland was begaan, naar Nederlands recht niet strafbaar zou zijn en voor de uitvoering van het bevel toepassing van dwangmiddelen is vereist;  
+
+c. onverminderd het bepaalde in het derde lid, de uitvoering van het bevel noopt tot toepassing van bevoegdheden die, indien het feit waarvoor het bevel is uitgevaardigd in Nederland was begaan, naar Nederlands recht niet zouden kunnen worden toegepast;  
+
+d. de uitvoering van het bevel onverenigbaar is met een krachtens Nederlands recht geldend voorrecht of immuniteit, waaronder mede wordt verstaan het verschoningsrecht, bedoeld in artikel 218;  
+
+e. het bevel niet door een justitiële autoriteit is uitgevaardigd en ook na verloop van de termijn, bedoeld in artikel 552xx, tweede lid, niet door een zodanige autoriteit is bekrachtigd terwijl voor de uitvoering van het bevel toepassing van dwangmiddelen is vereist.     
+2.  Voorts kan de tenuitvoerlegging van een Europees bewijsverkrijgingsbevel worden geweigerd, indien: 
+
+a. het feit waarvoor het bevel is uitgevaardigd: 
+
+1°. geacht wordt geheel of voor een belangrijk deel op Nederlands grondgebied of buiten Nederland aan boord van een Nederlands vaartuig of luchtvaartuig te zijn gepleegd; of  
+
+2°. buiten het grondgebied van de uitvaardigende lidstaat is gepleegd, terwijl naar Nederlands recht geen vervolging zou kunnen worden ingesteld indien het feit buiten Nederland zou zijn gepleegd;    
+
+b. door de uitvoering van het bevel wezenlijke belangen van nationale veiligheid worden geschaad of de bron van informatie in gevaar wordt gebracht dan wel het bevel strekt tot verstrekking van gegevens van inlichtingendiensten die als geclassificeerd zijn aangemerkt;  
+
+c. na verloop van de termijn, bedoeld in artikel 552xx, tweede lid, het bevel onvolledig of kennelijk onjuist is.     
+3.  De tenuitvoerlegging van een bevel wordt niet geweigerd op grond van het eerste lid, onderdelen b of c, indien het feit waarvoor het bevel is uitgevaardigd, is vermeld op of valt onder de lijst met feiten en soorten van feiten, genoemd in artikel 14 van het kaderbesluit nr. 2008/978/JBZ van de Raad van de Europese Unie van 18 december 2008 betreffende het Europees bewijsverkrijgingsbevel ter verkrijging van voorwerpen, documenten en gegevens voor gebruik in strafprocedures (PbEU L 350), en op dat feit naar het recht van de uitvaardigende lidstaat een vrijheidsstraf met een maximum van ten minste drie jaren is gesteld.   
+4.  Indien de officier van justitie overweegt de tenuitvoerlegging te weigeren op grond van het eerste lid, onderdeel a, of het tweede lid, onderdelen b of c, pleegt hij overleg met de uitvaardigende autoriteit en verzoekt deze zo nodig om aanvullende inlichtingen.   
+5.  Indien de officier van justitie overweegt de tenuitvoerlegging te weigeren op grond van het tweede lid, onderdeel a, onder 1°, raadpleegt hij Eurojust. Besluit de officier van justitie, in afwijking van het advies van Eurojust, de tenuitvoerlegging te weigeren, dan wordt daarvan het secretariaat-generaal van de Raad van de Europese Unie in kennis gesteld.   
+6.  Onverminderd het bepaalde in artikel 552xx, tweede lid, beslist de officier van justitie zo spoedig mogelijk doch uiterlijk binnen dertig dagen na ontvangst van het bevel, over de erkenning en tenuitvoerlegging ervan. Hij stelt de uitvaardigende autoriteit onverwijld van zijn beslissing in kennis. Indien het redelijkerwijs niet mogelijk is binnen dertig dagen te beslissen, stelt hij de uitvaardigende autoriteit hiervan met opgaaf van redenen in kennis alsmede van de termijn waarbinnen naar verwachting zal worden beslist. Indien de officier van justitie de tenuitvoerlegging van het bevel weigert, geschiedt de kennisgeving schriftelijk en met redenen omkleed.   
+
+### Artikel  552zz  
+
+1.  De officier van justitie kan de tenuitvoerlegging van het Europees bewijsverkrijgingsbevel opschorten, indien: 
+
+a. het belang van een lopend strafrechtelijk onderzoek zich verzet tegen de tenuitvoerlegging van het bevel;  
+
+b. de voorwerpen, bescheiden of gegevens waarop het bevel ziet reeds gebruikt worden in een gerechtelijke procedure;     
+2.  Indien de officier van justitie de tenuitvoerlegging opschort, geeft hij hiervan onverwijld schriftelijk kennis aan de autoriteiten van de uitvaardigende lidstaat, onder vermelding van de gronden en zo mogelijk van de verwachte duur van de opschorting.   
+3.  Zodra de gronden voor opschorting zijn vervallen, wordt het Europees bewijsverkrijgingsbevel alsnog ten uitvoer gelegd. De autoriteiten van de uitvaardigende lidstaat worden hiervan onverwijld schriftelijk in kennis gesteld.   
+
+### Artikel  552aaa  
+
+1.  De tenuitvoerlegging van een Europees bewijsverkrijgingsbevel geschiedt in opdracht van de officier van justitie overeenkomstig de toepasselijke bepalingen van dit wetboek, tenzij in deze titel anders is bepaald.   
+2.  De officier van justitie stelt een Europees bewijsverkrijgingsbevel in handen van de rechter-commissaris, indien de uitvoering ervan noopt tot toepassing van bevoegdheden die aan de rechter-commissaris zijn voorbehouden. De overlegging geschiedt bij een schriftelijke vordering, waarin wordt omschreven welke verrichtingen van de rechter-commissaris worden verlangd. Deze vordering heeft dezelfde rechtsgevolgen als een vordering tot het verrichten van onderzoekshandelingen door de rechter-commissaris uit hoofde van artikel 181.   
+3.  Voor zover het Europees bewijsverkrijgingsbevel betrekking heeft op een feit als bedoeld in artikel 552yy, derde lid, kunnen de voor de uitvoering van het bevel benodigde bevoegdheden worden uitgeoefend ook buiten de in de toepasselijke bepalingen genoemde gevallen.   
+4.  Tenzij de tenuitvoerlegging op grond van artikel 552zz is opgeschort, geschiedt deze binnen zestig dagen na ontvangst van het bevel. Indien dit redelijkerwijs niet mogelijk is, stelt de officier van justitie de uitvaardigende autoriteit hiervan met opgaaf van redenen in kennis alsmede van de termijn waarbinnen tenuitvoerlegging naar verwachting zal plaatsvinden.   
+5.  De officier van justitie of rechter-commissaris neemt bij de tenuitvoerlegging van het bevel zo veel mogelijk de door de autoriteiten van de uitvaardigende lidstaat in het bevel aangegeven termijnen en vormvereisten in acht, zulks voor zover niet strijdig met de grondbeginselen van het Nederlandse recht. Onder vormvereiste kan mede worden verstaan het verzoek van de autoriteiten van de uitvaardigende lidstaat om bij de uitvoering van het bevel aanwezig te zijn.   
+6.  Indien de uitvaardigende autoriteit dit in het bevel heeft aangegeven en voor zover rechtstreeks verband houdend met het Europees bewijsverkrijgingsbevel, kunnen bij de uitvoering van het bevel de volgende handelingen worden verricht: 
+
+a. het verkrijgen van andere relevante voorwerpen, bescheiden of gegevens dan die welke in het bevel zijn genoemd;  
+
+b. het opnemen van verklaringen van personen aanwezig bij de uitvoering van het Europees bewijsverkrijgingsbevel.     
+7.  De officier van justitie stelt de uitvaardigende autoriteit onverwijld in kennis indien: 
+
+a. het niet mogelijk is vormvereisten als bedoeld in het vijfde lid in acht te nemen;  
+
+b. hij tijdens de tenuitvoerlegging van het bevel tot het oordeel komt dat aanvullende maatregelen geboden zijn;  
+
+c. bij de uitvoering van het bevel is gehandeld in strijd met de toepasselijke bepalingen.     
+8.  De officier van justitie zendt de uitvaardigende autoriteit onverwijld een schriftelijke kennisgeving indien het bevel niet ten uitvoer kan worden gelegd omdat de in het bevel verzochte voorwerpen, bescheiden of gegevens zijn verdwenen, vernietigd of niet worden aangetroffen op de door de uitvaardigende autoriteit aangegeven plaats, dan wel omdat de plaats waar deze zich zouden bevinden door de uitvaardigende autoriteit onvoldoende nauwkeurig is aangegeven.   
+
+### Artikel  552bbb  
+
+1.  De artikelen 552a, 552d, eerste lid, en 552e, eerste lid, zijn van toepassing, met dien verstande dat de rechter geen onderzoek doet naar de gronden voor het uitvaardigen van het Europees bewijsverkrijgingsbevel dat heeft geleid tot de toepassing van de bevoegdheid met betrekking tot welke het klaagschrift is ingediend.   
+2.  Zodra de officier van justitie redenen heeft om aan te nemen dat een inbeslaggenomen voorwerp niet uitsluitend aan de beslagene toebehoort, doet hij de nodige naspeuringen naar andere rechthebbenden in Nederland en stelt hij deze in kennis van de bevoegdheid binnen veertien dagen na ontvangst van de kennisgeving een klaagschrift ingevolge artikel 552a in te dienen.   
+3.  Indien een klaagschrift is ingediend, stelt de officier van justitie de autoriteiten van de uitvaardigende lidstaat hiervan onverwijld in kennis, onder vermelding van de gronden van het klaagschrift. De autoriteiten van de uitvaardigende lidstaat worden van de beslissing op het klaagschrift in kennis gesteld.   
+
+### Artikel  552ccc  
+
+1.  Indien de uitvoering van een Europees bewijsverkrijgingsbevel heeft plaatsgevonden door de rechter-commissaris, stelt deze de verkregen voorwerpen, bescheiden of gegevens onverwijld ter beschikking van de officier van justitie.   
+2.  De officier van justitie draagt de ter uitvoering van een Europees bewijsverkrijgingsbevel verkregen voorwerpen, bescheiden of gegevens onverwijld over aan de autoriteiten van de uitvaardigende lidstaat, tenzij een klaagschrift is ingediend en daarop nog niet is beslist of het ingestelde beklag gegrond is verklaard.   
+3.  Indien noodzakelijk ter beëindiging van een strafbaar feit of ter voorkoming van nieuwe strafbare feiten, kan de officier van justitie, in afwachting van een beslissing op een ingesteld beklag, een afschift van de verkregen bescheiden of gegevens aan de autoriteiten van de uitvaardigende lidstaat verstrekken.   
+4.  Tenzij aannemelijk is dat de rechthebbende op de in beslag genomen voorwerpen of bescheiden niet in Nederland verblijf houdt, worden de voorwerpen of bescheiden overgedragen onder het voorbehoud dat de autoriteiten van de uitvaardigende lidstaat deze zullen terugzenden zodra daarvan het voor de strafvordering nodige gebruik is gemaakt.   
+
+### §  2  
+
+####Europees bewijsverkrijgingsbevel uitgevaardigd door Nederland
+
+### Artikel  552ddd  
+
+1.  De officier van justitie of rechter-commissaris kan een Europees bewijsverkrijgingsbevel uitvaardigen ter verkrijging van voorwerpen, bescheiden, opgeslagen of vastgelegde gegevens dan wel strafvorderlijke of politiegegevens die kunnen dienen de waarheid aan de dag te brengen en die zich op het grondgebied van een andere lidstaat van de Europese Unie bevinden of, voor zover het vastgelegde of opgeslagen gegevens betreft, die op het grondgebied van een andere lidstaat van de Europese Unie overeenkomstig het nationale recht van die lidstaat toegankelijk zijn.   
+2.  Een Europees bewijsverkrijgingsbevel kan slechts worden uitgevaardigd voor zover de voorwerpen, bescheiden of gegevens waarop het bevel betrekking heeft, indien zij zich in Nederland hadden bevonden, naar Nederlands recht hadden kunnen worden verkregen.   
+3.  Een Europees bewijsverkrijgingsbevel kan niet worden uitgevaardigd ter verkrijging van in een andere lidstaat van de Europese Unie opgeslagen of vastgelegde gegevens over het communicatieverkeer van een gebruiker van een communicatiedienst als bedoeld in artikel 126la.   
+
+### Artikel  552eee  
+
+1.  Het Europees bewijsverkrijgingsbevel is opgesteld overeenkomstig het in de bijlage bij kaderbesluit nr. 2008/978/JBZ van de Raad van de Europese Unie van 18 december 2008 betreffende het Europees bewijsverkrijgingsbevel ter verkrijging van voorwerpen, documenten en gegevens voor gebruik in strafprocedures (PbEU L 350) opgenomen model.   
+2.  Het bevel is opgesteld of vertaald in de officiële taal of een van de officiële talen van de uitvoerende lidstaat of in een andere officiële taal van de instellingen van de Europese Unie, indien die lidstaat heeft verklaard bevelen in die andere taal gesteld of vertaald te accepteren.   
+3.  De officier van justitie of rechter-commissaris kan in het bevel vormvereisten opnemen die de autoriteiten van de uitvoerende lidstaat bij de tenuitvoerlegging zo veel mogelijk in acht nemen. Dit kan mede omvatten het verzoek om bij de uitvoering van het bevel aanwezig te zijn.   
+4.  Indien een Europees bewijsverkrijgingsbevel wordt uitgevaardigd als aanvulling op een eerder uitgevaardigd Europees bewijsverkrijgingsbevel of als vervolg op een eerder uitgevaardigd bevel als bedoeld in artikel 552rr, wordt dit in het bevel aangegeven.   
+
+### Artikel  552fff  
+
+1.  De officier van justitie of rechter-commissaris zendt het Europees bewijsverkrijgingsbevel rechtstreeks aan de tot erkenning en tenuitvoerlegging bevoegde autoriteiten van de lidstaat op wiens grondgebied hij redelijkerwijs vermoedt dat de voorwerpen, bescheiden of gegevens zich bevinden of, indien het bevel betrekking heeft op vastgelegde of opgeslagen gegevens, op wiens grondgebied hij redelijkerwijs vermoedt dat de gegevens overeenkomstig het nationale recht van die lidstaat toegankelijk zijn.   
+2.  Indien niet bekend is welke autoriteiten in de uitvoerende lidstaat bevoegd zijn tot erkenning en tenuitvoerlegging van het bevel, verzoekt de officier van justitie of rechter-commissaris hieromtrent om inlichtingen onder andere via het Europees Justitieel Netwerk.   
+3.  De toezending kan plaatsvinden per gewone post, telefax of elektronische post, mits de echtheid van het toegezonden Europees bewijsverkrijgingsbevel door de autoriteiten van de uitvoerende lidstaat kan worden vastgesteld.   
+
+### Artikel  552ggg  
+
+1.  Belanghebbenden kunnen zich schriftelijk beklagen over het uitvaardigen van het Europees bewijsverkrijgingsbevel. De artikelen 552a en 552d, eerste lid, zijn van overeenkomstige toepassing, met dien verstande dat het klaagschrift wordt ingediend bij de griffie van de rechtbank in het arrondissement, binnen hetwelk de officier van justitie of rechter-commissaris het bevel heeft uitgevaardigd.   
+2.  Indien de rechter het beklag gegrond acht, trekt de officier van justitie of rechter-commissaris het Europees bewijsverkrijgingsbevel onmiddellijk in en stelt deze de autoriteiten van de uitvoerende lidstaat hiervan onverwijld in kennis.   
+3.  Indien een belanghebbende zich beklaagt over de erkenning en tenuitvoerlegging van het Europees bewijsverkrijgingsbevel in de uitvoerende lidstaat, kan de officier van justitie of rechter-commissaris de autoriteiten van die lidstaat de nodige inlichtingen omtrent het bevel verschaffen.   
+
+### Artikel  552hhh  
+
+Bij ministeriële regeling kunnen regels worden vastgesteld over het verzamelen en verstrekken van gegevens over de uitvoering van de bepalingen van deze afdeling.  
 
 ### Vijfde  Boek  
 
@@ -7013,9 +7165,9 @@ Indien de aanhouding is verricht buiten het rechtsgebied van een rechtbank en de
 ### Artikel  565  
 
 1.  De met de tenuitvoerlegging belaste ambtenaar kan ter aanhouding van de te vatten persoon elke plaats betreden en doorzoeken.   
-2.  Met het oog op de vaststelling van de verblijfplaats van de aan te houden persoon kan de officier van justitie, of, indien de artikelen de hulpofficier of de opsporingsambtenaar als bevoegd aanwijzen, deze ambtenaar, de in de artikelen 96 tot en met 102a, 125i tot en met 125m, 126g, 126k tot en met 126ni en 126ui bedoelde bevoegdheden toepassen, met dien verstande dat: 
+2.  Met het oog op de vaststelling van de verblijfplaats van de aan te houden persoon kan de officier van justitie, of, indien de artikelen de hulpofficier of de opsporingsambtenaar als bevoegd aanwijzen, deze ambtenaar, de in de artikelen 96 tot en met 102a, 125i tot en met 125m, 126g, 126k tot en met 126ni en 126ui bedoelde bevoegdheden toepassen, en kan de rechter-commissaris op vordering van de officier van justitie de bevoegdheid van artikel 110 toepassen, met dien verstande dat: 
 
-a. een bevoegdheid slechts met het oog op de vaststelling van de aan te houden persoon wordt toegepast in geval de aan te houden persoon wordt vervolgd of is veroordeeld tot een vrijheidsstraf dan wel hem een vrijheidsbenemende maatregel is opgelegd voor een misdrijf van dezelfde ernst als waarvoor de bevoegdheid in gevolge het desbetreffende artikel mag worden toegepast;  
+a. een bevoegdheid slechts met het oog op de vaststelling van de verblijfplaats van de aan te houden persoon wordt toegepast in geval de aan te houden persoon wordt vervolgd of is veroordeeld tot een vrijheidsstraf dan wel hem een vrijheidsbenemende maatregel is opgelegd voor een misdrijf van dezelfde ernst als waarvoor de bevoegdheid in gevolge het desbetreffende artikel mag worden toegepast;  
 
 b. een bevoegdheid die in gevolge het desbetreffende artikel alleen na een machtiging door de rechter-commissaris kan worden toegepast, met het oog op de vaststelling van de verblijfplaats van de aan te houden persoon eveneens slechts na schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris, wordt toegepast;  
 

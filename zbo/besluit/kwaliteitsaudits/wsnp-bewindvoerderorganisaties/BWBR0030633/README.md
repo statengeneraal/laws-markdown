@@ -34,9 +34,9 @@ Den Haag
 4 november 2011   
 
 De 
-Minister van Veiligheid en Justitie,voor deze:
-P.J.M. van denBiggelaar,
-directeur stelsel. 
+Minister van Veiligheid en Justitie, voor deze: 
+P.J.M. van den Biggelaar,  
+directeur stelsel.  
 
 J. Wijkstra,  
 directeur bedrijfsvoering.    

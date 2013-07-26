@@ -28,7 +28,7 @@ c. afnemer: een ieder die beschikt over een aansluiting op een net;
 
 d. *verordening 714/2009:* verordening nr. 714/2009 van het Europees Parlement en de Raad van 13 juli 2009 betreffende de voorwaarden voor toegang tot het net voor grensoverschrijdende handel in elektriciteit en tot intrekking van Verordening (EG) nr. 1228/2003 (Pb EU 2009, L 211);  
 
-e. raad van bestuur van de mededingingsautoriteit: de raad van bestuur van de mededingingsautoriteit, genoemd in [artikel 2 van de Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md);  
+e. Autoriteit Consument en Markt: de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
 
 f. leverancier: een organisatorische eenheid die zich bezighoudt met het leveren van elektriciteit;  
 
@@ -120,7 +120,13 @@ ar. directe lijn: een elektriciteitslijn die geen net is en die:
 
 as. landsgrensoverschrijdend net: een net dat de grens tussen ten minste twee landen overschrijdt en dat de netten van die landen onderling koppelt;  
 
-at. interconnector-beheerder: een beheerder van een landsgrensoverschrijdend net dat geen deel uitmaakt van het landelijk hoogspanningsnet.     
+at. interconnector-beheerder: een beheerder van een landsgrensoverschrijdend net dat geen deel uitmaakt van het landelijk hoogspanningsnet;  
+
+au. verordening 1227/2011: verordening (EU) nr. 1227/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de integriteit en transparantie van de groothandelsmarkt voor energie (PbEU 2011, L 326), alsmede de door de Europese Commissie vastgestelde gedelegeerde en uitvoeringshandelingen op grond van verordening 1227/2011;  
+
+av. marktdeelnemer: een marktdeelnemer als bedoeld in artikel 2, zevende lid, van verordening 1227/2011;  
+
+aw. Autoriteit Financiële Markten: de Autoriteit Financiële Markten, genoemd in [artikel 1:1 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt als afnemer, niet zijnde een afnemer als bedoeld in artikel 95a, eerste lid, beschouwd een organisatorische eenheid die zich in hoofdzaak bezig houdt met het openbaar vervoer per metro, tram of trolley, met mijnbouwkundige activiteiten, met het beheer en de exploitatie van telecommunicatie- en kabelnetwerken, met het beheer van de openbare verlichting of van verkeersregelinstallaties, dan wel met riolering, bemaling, waterzuivering of transport en distributie van water, mits: 
 
 a. deze eenheid daarbij uitsluitend ingevolge de technische aard van de bedrijfsuitoefening beschikt over verscheidene aansluitingen,  
@@ -209,27 +215,27 @@ d. regionale, nationale en Europese doelstellingen voor duurzame ontwikkeling me
 
 ### Artikel  5  
 
-1.  De raad van bestuur van de mededingingsautoriteit is belast met taken ter uitvoering van deze wet, van verordening 714/2009 en van de verordening 713/2009, alsmede met het toezicht op de naleving van deze wet, verordening 714/2009 en verordening 713/2009.   
-2.  De raad van bestuur van de mededingingsautoriteit is de regulerende instantie, bedoeld in artikel 35, eerste lid, van de richtlijn en artikel 2, tweede lid, onderdeel a, van verordening 714/2009.   
-3.  De raad van bestuur van de mededingingsautoriteit houdt bij de uitoefening van de hem op grond van deze wet toegekende taken en bevoegdheden rekening met artikel 36 van de richtlijn.   
-4.  De raad van bestuur van de mededingingsautoriteit werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 714/2009 te integreren en samenwerking tussen de netbeheerder van het landelijk hoogspanningnet en buitenlandse instellingen die op grond van nationale wettelijke regels zijn belast met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijn in deze gebieden aan te moedigen, samen met: 
+1.  De Autoriteit Consument en Markt is belast met taken ter uitvoering van deze wet, van verordening 714/2009, van verordening 713/2009 en van verordening 1227/2011, alsmede met het toezicht op de naleving van deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011.   
+2.  De Autoriteit Consument en Markt is de regulerende instantie, bedoeld in artikel 35, eerste lid, van de richtlijn en artikel 2, tweede lid, onderdeel a, van verordening 714/2009.   
+3.  De Autoriteit Consument en Markt houdt bij de uitoefening van de haar op grond van deze wet toegekende taken en bevoegdheden rekening met artikel 36 van de richtlijn.   
+4.  De Autoriteit Consument en Markt werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 714/2009 te integreren en samenwerking tussen de netbeheerder van het landelijk hoogspanningnet en buitenlandse instellingen die op grond van nationale wettelijke regels zijn belast met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijn in deze gebieden aan te moedigen, samen met: 
 
 a. instellingen in andere lidstaten van de Europese Unie die op grond van nationale wettelijke regels zijn belast met de toepassing van de regels op het gebied van elektriciteit;  
 
 b. het Agentschap.     
-5.  De raad van bestuur van de mededingingsautoriteit draagt bij aan de compatibiliteit van gegevensuitwisselingsprocessen voor de belangrijkste marktprocessen in één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 714/2009.   
-6.  De raad van bestuur van de mededingingsautoriteit beslist over de goedkeuring van de door de netbeheerder van het landelijk hoogspanningsnet gehanteerde congestiebeheersprocedures voor landsgrensoverschrijdende netten.   
+5.  De Autoriteit Consument en Markt draagt bij aan de compatibiliteit van gegevensuitwisselingsprocessen voor de belangrijkste marktprocessen in één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 714/2009.   
+6.  De Autoriteit Consument en Markt beslist over de goedkeuring van de door de netbeheerder van het landelijk hoogspanningsnet gehanteerde congestiebeheersprocedures voor landsgrensoverschrijdende netten.   
 
 ### Artikel  5a  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009 en de verordening 713/2009 zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren.   
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011 zijn belast de bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-3.  De raad van bestuur van de mededingingsautoriteit kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009 en verordening 713/2009. Van de beschikking wordt mededeling gedaan in de Staatscourant.   
+3.  De Autoriteit Consument en Markt kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011. Van de beschikking wordt mededeling gedaan in de Staatscourant.   
 4.  De werkzaamheden in verband met de uitvoering van artikel 51 worden verricht door personen die niet betrokken zijn bij werkzaamheden op grond van hoofdstuk 3, paragrafen 4 tot en met 6.   
 
 ### Artikel  5b  
 
-De raad van bestuur van de mededingingsautoriteit volgt nauwlettend in welke mate de elektriciteitsmarkt aan de doelstellingen, bedoeld in artikel 36 van de richtlijn, voldoet. Tevens volgt hij: 
+De Autoriteit Consument en Markt volgt nauwlettend in welke mate de elektriciteitsmarkt aan de doelstellingen, bedoeld in artikel 36 van de richtlijn, voldoet. Tevens volgt zij: 
 
 a. de samenhang tussen de voorgenomen investeringen, bedoeld in artikel 21, tweede lid, van de netbeheerder van het landelijk hoogspanningnet en de netontwikkelingsplannen als bedoeld in artikel 8, derde lid, onderdeel b, van verordening 714/2009;  
 
@@ -245,31 +251,13 @@ f. de technische samenwerking tussen de netbeheerder van het landelijk hoogspann
 
 ### Artikel  5c  
 
-1.  De raad van bestuur van de mededingingsautoriteit brengt jaarlijks verslag uit over de uitvoering van zijn taken. Het verslag bevat een overzicht van de behaalde resultaten en genomen maatregelen.   
-2.  De raad van bestuur van de mededingingsautoriteit zendt het verslag toe aan Onze Minister, het Agentschap en de Europese Commissie.   
-
-### Artikel  6  
-
-1.  Onze Minister onthoudt zich van instructies die op een individuele zaak betrekking hebben.   
-2.  De raad van bestuur van de mededingingsautoriteit en het ter beschikking van de raad gestelde personeel verlangen of ontvangen geen instructies die op een individuele zaak betrekking hebben.   
+1.  Onverminderd de verplichting tot het opstellen van een jaarverslag, bedoeld in [artikel 18, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), brengt de Autoriteit Consument en Markt jaarlijks verslag uit over de uitvoering van haar taken, bedoeld in artikel 5, eerste lid. Het verslag bevat een overzicht van de behaalde resultaten en genomen maatregelen.   
+2.  De Autoriteit Consument en Markt zendt het verslag toe aan Onze Minister, het Agentschap en de Europese Commissie.   
 
 ### Artikel  7  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan van een producent, een leverancier, een handelaar, een netbeheerder, een elektriciteits- of gasbeurs of een afnemer de gegevens en inlichtingen verlangen die hij nodig heeft voor uitvoering van de hem in deze wet, verordening 714/2009 en de verordening 713/2009 opgedragen taken.   
-2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door de raad van bestuur van de mededingingsautoriteit gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
-3.  Gegevens of inlichtingen omtrent een producent, een leverancier, een handelaar, een netbeheerder, een elektriciteits- of gasbeurs of een afnemer, welke in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet, verordening 714/2009 of de verordening 713/2009 zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, verordening 714/2009, de verordening 713/2009, de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) en de [Gaswet](../../../../wet/gaswet/BWBR0011440/README.md) en voor de toepassing van [artikelen 4.4](../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) en [4.5 van de Wet handhaving consumentenbescherming](../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md) worden gebruikt.   
-4.  In afwijking van het derde lid is de raad van bestuur van de mededingingsautoriteit bevoegd gegevens en inlichtingen, verkregen ingevolge het eerste lid, te verstrekken aan: 
-
-a. een buitenlandse instelling, die op grond van nationale wettelijke regels is belast met de toepassing van de regels op het gebied van elektriciteit, voor zover die gegevens en inlichtingen van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die instelling;  
-
-b. een bestuursorgaan dat op grond van deze wet of van een andere wettelijke regeling dan deze wet is belast met taken die de toepassing of mede de toepassing van bepalingen op het gebied van elektriciteit betreffen, voor zover die gegevens en inlichtingen van betekenis kunnen zijn voor de uitoefening van de taak van dat bestuursorgaan;  
-
-c. het Agentschap, voor zover die bescheiden, gegevens of inlichtingen van betekenis kunnen zijn voor de uitoefening van de taak van het Agentschap.     
-5.  Op basis van het vierde lid kunnen uitsluitend gegevens en inlichtingen worden verstrekt indien: 
-
-a. de geheimhouding van de gegevens en inlichtingen in voldoende mate is gewaarborgd, en  
-
-b. voldoende is gewaarborgd dat de gegevens en inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.     
+1.  De Autoriteit Consument en Markt kan van een producent, een leverancier, een handelaar, een netbeheerder, een elektriciteits- of gasbeurs, een afnemer of een marktdeelnemer de gegevens en inlichtingen verlangen die zij nodig heeft voor uitvoering van de haar in deze wet, verordening 714/2009, verordening 713/2009 en verordening 1227/2011 opgedragen taken.   
+2.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar bevoegdheden.   
 
 ### Artikel  7a  
 
@@ -371,7 +359,7 @@ De aanleg of uitbreiding van een productie-installatie als bedoeld in artikel 9e
 
 ### Artikel  9h  
 
-Een producent die elektriciteit levert met een directe lijn aan verbruikers van elektriciteit meldt zo spoedig mogelijk na ingebruikname van een directe lijn aan de raad van bestuur van de mededingingsautoriteit: 
+Een producent die elektriciteit levert met een directe lijn aan verbruikers van elektriciteit meldt zo spoedig mogelijk na ingebruikname van een directe lijn aan de Autoriteit Consument en Markt: 
 
 a. zijn naam en adres;  
 
@@ -390,13 +378,13 @@ c. een aanduiding van de locatie waar de directe lijn zich bevindt.
 ### Artikel  10  
 
 1.  Het landelijk hoogspanningsnet omvat de netten die bestemd zijn voor transport van elektriciteit op een spanningsniveau van 110 kV of hoger en die als zodanig worden bedreven en landsgrensoverschrijdende netten met wisselstroom.   
-2.  Onze Minister wijst op verzoek een naamloze of een besloten vennootschap voor tien jaar als netbeheerder van het landelijk hoogspanningsnet aan. Bij het verzoek wordt een besluit van de raad van bestuur van de mededingingsautoriteit overgelegd waaruit blijkt dat is voldaan aan het bepaalde bij of krachtens artikel 10a, vierde lid, en 10b.   
-3.  De raad van bestuur van de mededingingsautoriteit besluit op verzoek van degene die wenst te worden aangewezen als netbeheerder van het landelijk hoogspanningsnet of naar aanleiding van een situatie, bedoeld in het achtste lid, of is voldaan aan het bepaalde bij of krachtens artikel 10a, vierde lid, en 10b.   
-4.  De raad van bestuur van de mededingingsautoriteit neemt de beschikking, bedoeld in het derde lid, overeenkomstig de procedure van artikel 10, vijfde en zesde lid, van de richtlijn en artikel 3 van verordening 714/2009.   
+2.  Onze Minister wijst op verzoek een naamloze of een besloten vennootschap voor tien jaar als netbeheerder van het landelijk hoogspanningsnet aan. Bij het verzoek wordt een besluit van de Autoriteit Consument en Markt overgelegd waaruit blijkt dat is voldaan aan het bepaalde bij of krachtens artikel 10a, vierde lid, en 10b.   
+3.  De Autoriteit Consument en Markt besluit op verzoek van degene die wenst te worden aangewezen als netbeheerder van het landelijk hoogspanningsnet of naar aanleiding van een situatie, bedoeld in het achtste lid, of is voldaan aan het bepaalde bij of krachtens artikel 10a, vierde lid, en 10b.   
+4.  De Autoriteit Consument en Markt neemt de beschikking, bedoeld in het derde lid, overeenkomstig de procedure van artikel 10, vijfde en zesde lid, van de richtlijn en artikel 3 van verordening 714/2009.   
 5.  De Europese Commissie kan van een producent, een leverancier of de netbeheerder van het landelijk hoogspanningsnet de gegevens en inlichtingen verlangen die zij nodig heeft voor de uitvoering van artikel 10 van de richtlijn.   
 6.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken als bedoeld in het vijfde lid, is verplicht binnen de door de Europese Commissie gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar bevoegdheden.   
-7.  De netbeheerder van het landelijk hoogspanningsnet meldt de raad van bestuur van de mededingingsautoriteit omstandigheden die aanleiding kunnen geven tot herziening van de beschikking, bedoeld in het derde lid.   
-8.  De raad van bestuur van de mededingingsautoriteit kan de beschikking, bedoeld in het derde lid, wijzigen of intrekken: 
+7.  De netbeheerder van het landelijk hoogspanningsnet meldt de Autoriteit Consument en Markt omstandigheden die aanleiding kunnen geven tot herziening van de beschikking, bedoeld in het derde lid.   
+8.  De Autoriteit Consument en Markt kan de beschikking, bedoeld in het derde lid, wijzigen of intrekken: 
 
 a. naar aanleiding van een melding als bedoeld in het zevende lid;  
 
@@ -413,14 +401,14 @@ c. op verzoek van de Europese Commissie.
 3.  Voor een interconnector-beheerder zijn uitsluitend de artikelen 7, 16, eerste lid, onderdeel a, b, j, k en l, tweede lid, onderdeel g, k en m en vijftiende lid, 24, 26a, eerste lid, 31a, 51, 52 en 79 van overeenkomstige toepassing.   
 4.  De op basis van artikel 36 of 37 vastgestelde voorwaarden zijn van toepassing voor zover dit in de voorwaarden is aangegeven. Met betrekking tot deze voorwaarden is artikelen 32 van overeenkomstige toepassing, met dien verstande dat in plaats van «netbeheerder van het landelijk hoogspanningsnet» wordt gelezen «interconnector-beheerder», en maakt de interconnector-beheerder in dat geval deel uit van de gezamenlijke netbeheerders als bedoeld in de artikelen 33 en 34.   
 5.  Indien de netbeheerder van het landelijk hoogspanningsnet is aangewezen als interconnector-beheerder zijn, in afwijking van het tweede tot en met het vierde lid, de bij of krachtens de Elektriciteitswet 1998 voor de netbeheerder van het landelijk hoogspanningsnet geldende bepalingen van overeenkomstige toepassing, met dien verstande dat het landelijk hoogspanningsnet en het desbetreffende landsgrensoverschrijdende net voor de vaststelling van de tarieven als één net kunnen worden beschouwd.   
-6.  Indien een persoon uit een derde land zeggenschap heeft over een eigenaar van een landsgrensoverschrijdend net of een interconnector-beheerder, besluit de raad van bestuur van de mededingingsautoriteit in het besluit, bedoeld in artikel 10, derde lid, op verzoek en volgens de procedure van artikel 11 van de richtlijn of is voldaan aan de eisen van artikel 11, derde lid, van de richtlijn.   
+6.  Indien een persoon uit een derde land zeggenschap heeft over een eigenaar van een landsgrensoverschrijdend net of een interconnector-beheerder, besluit de Autoriteit Consument en Markt in het besluit, bedoeld in artikel 10, derde lid, op verzoek en volgens de procedure van artikel 11 van de richtlijn of is voldaan aan de eisen van artikel 11, derde lid, van de richtlijn.   
 7.  Bij algemene maatregel van bestuur worden ter implementatie van artikel 9 van de richtlijn nadere regels gesteld voor interconnector-beheerders.   
 
 ### Artikel  10a  
 
 1.  De netbeheerder, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, beschikt over de economische eigendom van het door hem beheerde net.   
 2.  Bij gelegenheid van een aanwijzing als bedoeld in artikel 10, negende lid, vindt voor zover nodig overdracht van de economische eigendom aan de aangewezen netbeheerder plaats.   
-3.  De overdracht geschiedt tegen verrichting van een tegenprestatie waarvan de waarde ten hoogste de opbrengst vertegenwoordigt van de exploitatie van het net, zoals deze op basis van algemene bedrijfseconomische uitgangspunten kan worden afgeleid van de door de raad van bestuur van de mededingingsautoriteit in de daaraan voorafgaande periode van vijf jaar vastgestelde tarieven met betrekking tot het netbeheer. Deze tegenprestatie kan zowel bestaan uit een periodieke uitkering als uit een contant bedrag ineens.   
+3.  De overdracht geschiedt tegen verrichting van een tegenprestatie waarvan de waarde ten hoogste de opbrengst vertegenwoordigt van de exploitatie van het net, zoals deze op basis van algemene bedrijfseconomische uitgangspunten kan worden afgeleid van de door de Autoriteit Consument en Markt in de daaraan voorafgaande periode van vijf jaar vastgestelde tarieven met betrekking tot het netbeheer. Deze tegenprestatie kan zowel bestaan uit een periodieke uitkering als uit een contant bedrag ineens.   
 4.  De netbeheerder van het landelijk hoogspanningsnet of een tot de groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waarvan de netbeheerder van het landelijk hoogspanningsnet deel uitmaakt behorende vennootschap beschikt over de eigendom van het landelijk hoogspanningsnet.   
 
 ### Artikel  10b  
@@ -479,7 +467,7 @@ b. beschikt de raad van commissarissen van de rechtspersoon, bedoeld in onderdee
 
 1.  Een netbeheerder die deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) stelt een reglement vast, waarin regels worden gesteld die beogen discriminatie bij de uitoefening van zijn taken en bevoegdheden op grond van deze wet te voorkomen. Het reglement bevat in ieder geval regels ten aanzien van het gedrag van werknemers die ertoe strekken dat discriminatie als bedoeld in de vorige volzin wordt voorkomen.   
 2.  De netbeheerder draagt er zorg voor dat elke werknemer is gebonden aan het reglement en ziet er op toe dat het reglement nauwgezet wordt nageleefd.   
-3.  De netbeheerder stelt jaarlijks een verslag op over de wijze waarop uitvoering is gegeven aan het reglement, en welke maatregelen in dat kader zijn genomen. Hij zendt het verslag naar de raad van bestuur van de mededingingsautoriteit en draagt zorg voor publicatie ervan op een geschikte wijze.   
+3.  De netbeheerder stelt jaarlijks een verslag op over de wijze waarop uitvoering is gegeven aan het reglement, en welke maatregelen in dat kader zijn genomen. Hij zendt het verslag naar de Autoriteit Consument en Markt en draagt zorg voor publicatie ervan op een geschikte wijze.   
 
 ### Artikel  12  
 
@@ -499,7 +487,7 @@ b. artikel 13a toepassen.
 4.  In een beschikking als bedoeld in het derde lid, onderdeel a, bepaalt Onze Minister de termijn waarop die aanwijzing vervalt en kan hij degene die de netbeheerder, bedoeld in de aanhef van het derde lid, heeft aangewezen in de gelegenheid stellen binnen een door Onze Minister te bepalen termijn een andere netbeheerder aan hem ter aanwijzing voor te dragen. Onze Minister kan deze termijn eenmaal verlengen.   
 5.  Onze Minister kan voor de periode totdat een beschikking als bedoeld in het derde lid, onderdeel a, in werking treedt, artikel 13a toepassen.   
 6.  Uiterlijk op de dag waarop een beschikking tot aanwijzing van Onze Minister in werking treedt, draagt de netbeheerder of, indien van toepassing, degene aan wie een net toebehoort, de economische eigendom van het net over aan de aangewezen nieuwe netbeheerder. Degene die de netbeheerder, bedoeld in de aanhef van het derde lid, heeft aangewezen, verleent daaraan voor zover nodig zijn medewerking.   
-7.  De overdracht van de economische eigendom, bedoeld in het zesde lid, geschiedt tegen verrichting van een tegenprestatie waarvan de waarde uiterlijk op de in dat lid bedoelde dag is vastgesteld en die ten hoogste de opbrengst vertegenwoordigt van de exploitatie van het net, zoals deze op basis van algemene bedrijfseconomische uitgangspunten kan worden afgeleid van de door de raad van bestuur van de mededingingsautoriteit in de daaraan voorafgaande periode van vijf jaar vastgestelde tarieven met betrekking tot het netbeheer. Deze tegenprestatie kan zowel bestaan uit een periodieke uitkering als uit een contant bedrag ineens.   
+7.  De overdracht van de economische eigendom, bedoeld in het zesde lid, geschiedt tegen verrichting van een tegenprestatie waarvan de waarde uiterlijk op de in dat lid bedoelde dag is vastgesteld en die ten hoogste de opbrengst vertegenwoordigt van de exploitatie van het net, zoals deze op basis van algemene bedrijfseconomische uitgangspunten kan worden afgeleid van de door de Autoriteit Consument en Markt in de daaraan voorafgaande periode van vijf jaar vastgestelde tarieven met betrekking tot het netbeheer. Deze tegenprestatie kan zowel bestaan uit een periodieke uitkering als uit een contant bedrag ineens.   
 8.  Indien de tegenprestatie, bedoeld in het zevende lid, niet kan worden afgeleid uit de vastgestelde tarieven, kan de tegenprestatie worden vastgesteld volgens bij algemene maatregel van bestuur vast te stellen regels.   
 9.  Aan de vaststelling van de tegenprestatie, bedoeld in het zevende en achtste lid, verlenen degene die de economische eigendom van het net overdraagt en degene die deze eigendom overneemt, voor zover nodig hun medewerking.   
 10.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde in dit artikel.   
@@ -521,15 +509,15 @@ b. artikel 13a toepassen.
 
 ### Artikel  15  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan op diens aanvraag ontheffing verlenen aan een eigenaar van een gesloten distributiesysteem, van het gebod van artikel 10, negende lid, indien: 
+1.  De Autoriteit Consument en Markt kan op diens aanvraag ontheffing verlenen aan een eigenaar van een gesloten distributiesysteem, van het gebod van artikel 10, negende lid, indien: 
 
 a. het bedrijfs- of productieproces van de gebruikers van een gesloten distributiesysteem om specifieke technische of veiligheidsredenen geïntegreerd is of  
 
 b. het gesloten distributiesysteem primair elektriciteit transporteert voor de eigenaar van dat systeem of de daarmee verwante bedrijven en  
 
 c. de aanvrager geen netbeheerder is en niet in een groepsmaatschappij met een netbeheerder verbonden is.     
-2.  De raad van bestuur van de mededingingsautoriteit neemt het besluit zo spoedig mogelijk, doch uiterlijk zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd. De raad van bestuur van de mededingingsautoriteit kan aan een ontheffing voorschriften en beperkingen verbinden.   
-3.  De raad van bestuur van de mededingingsautoriteit kan een ontheffing intrekken indien degene aan wie de ontheffing is verleend: 
+2.  De Autoriteit Consument en Markt neemt het besluit zo spoedig mogelijk, doch uiterlijk zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd. De Autoriteit Consument en Markt kan aan een ontheffing voorschriften en beperkingen verbinden.   
+3.  De Autoriteit Consument en Markt kan een ontheffing intrekken indien degene aan wie de ontheffing is verleend: 
 
 a. niet langer voldoet aan de voorwaarden, bedoeld in het eerste lid;  
 
@@ -545,7 +533,7 @@ a. artikel 23, eerste lid, uitsluitend geldt voor zover er na aansluiting sprake
 b. niet aan de verplichtingen, bedoeld in de in artikelen 23, eerste lid, en 24, eerste lid, genoemde paragrafen behoeft te worden voldaan en  
 
 c. in de artikelen 7 en 78 in plaats van «netbeheerder» wordt gelezen «eigenaar van een gesloten distributiesysteem».     
-7.  De raad van bestuur van de mededingingsautoriteit keurt op verzoek van een aangeslotene op een gesloten distributiesysteem de van kracht zijnde methode voor de berekening van de tarieven goed.   
+7.  De Autoriteit Consument en Markt keurt op verzoek van een aangeslotene op een gesloten distributiesysteem de van kracht zijnde methode voor de berekening van de tarieven goed.   
 8.  Indien een verzoek als bedoeld in het zevende lid is ontvangen, overlegt de eigenaar van een gesloten distributiesysteem binnen drie maanden na de datum waarop de raad van bestuur de eigenaar van een gesloten distributiesysteem over het verzoek heeft geïnformeerd, aan de raad van bestuur informatie over het aan het verzoek voorafgaande kalenderjaar die relevant is voor de beoordeling van het verzoek, met daarbij een toerekening van de kosten en opbrengsten aan activiteiten die verband houden met de aanleg en het beheer van het gesloten distributiesysteem in overeenstemming met het daadwerkelijk gebruik van financiële of andere middelen voor die activiteiten.   
 9.  Een besluit als bedoeld in het zevende lid wordt genomen binnen zes maanden nadat de informatie, bedoeld in het achtste lid door de raad van bestuur is ontvangen. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd.   
 
@@ -710,11 +698,11 @@ c. het ter beschikking stellen en houden van netten ten behoeve van het gebruik 
 d. het uitvoeren van werkzaamheden, bedoeld in artikel 16c, eerste en vijfde lid.     
 2.  Indien de netbeheerder van het landelijk hoogspanningsnet onderdeel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), is het deze groep niet toegestaan om handelingen of activiteiten te verrichten die strijdig kunnen zijn met het belang van het beheer van het landelijk hoogspanningsnet.   
 3.  De statuten van de rechtspersonen die met de netbeheerder van het landelijk hoogspanningsnet in een groep zijn verbonden, behoeven de goedkeuring van Onze Minister voor zover het betreft de daarin opgenomen doelstellingen van die rechtspersonen.   
-4.  De netbeheerder van het landelijk hoogspanningsnet verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de raad van bestuur van de mededingingsautoriteit een overzicht van de financiële middelen waarover hij beschikt ten behoeve van de uitvoering van zijn wettelijke taken, waaruit blijkt welke financiële middelen voor de afzonderlijke taken beschikbaar zijn.   
+4.  De netbeheerder van het landelijk hoogspanningsnet verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de Autoriteit Consument en Markt een overzicht van de financiële middelen waarover hij beschikt ten behoeve van de uitvoering van zijn wettelijke taken, waaruit blijkt welke financiële middelen voor de afzonderlijke taken beschikbaar zijn.   
 
 ### Artikel  18  
 
-1.  Indien een met de netbeheerder in een groep verbonden groepsmaatschappij in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) activiteiten verricht die de netbeheerder op grond van artikel 17 of  17a niet zelf mag verrichten, mag de netbeheerder of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in artikel 17 of  17a een dergelijke groepsmaatschappij niet bevoordelen boven anderen waarmee een dergelijke groepsmaatschappij in concurrentie treedt, of anderszins voordelen toekennen die verder gaan dan in normaal handelsverkeer gebruikelijk is.   
+1.  Indien een met de netbeheerder in een groep verbonden groepsmaatschappij in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) activiteiten verricht die de netbeheerder op grond van artikel 17 of  17a niet zelf mag verrichten, mag de netbeheerder of een rechtspersoon waarin de netbeheerder een deelneming heeft als bedoeld in artikel 17 of 17a een dergelijke groepsmaatschappij niet bevoordelen boven anderen waarmee een dergelijke groepsmaatschappij in concurrentie treedt, of anderszins voordelen toekennen die verder gaan dan in normaal handelsverkeer gebruikelijk is.   
 2.  Als bevoordelen van een groepsmaatschappij als bedoeld in het eerste lid of het toekennen van voordelen die verder gaan dan in normaal handelsverkeer gebruikelijk is, worden in ieder geval aangemerkt: 
 
 a. het verstrekken van gegevens aan een groepsmaatschappij over afnemers, niet zijnde niet zijnde afnemers als bedoeld in artikel 95a, eerste lid, die een verzoek als bedoeld in artikel 23 of 24 hebben gedaan;  
@@ -722,7 +710,7 @@ a. het verstrekken van gegevens aan een groepsmaatschappij over afnemers, niet z
 b. het leveren van goederen of diensten aan een groepsmaatschappij tegen een vergoeding die lager is dan de redelijkerwijs daaraan toe te rekenen kosten, of  
 
 c. het toestaan van het gebruik door een groepsmaatschappij van de naam en het beeldmerk van de netbeheerder op een wijze waardoor verwarring bij het publiek te duchten is over de herkomst van goederen of diensten.     
-3.  De netbeheerder voegt bij zijn jaarrekening een verklaring waaruit blijkt dat de financiële verhouding tussen de netbeheerder en de groepsmaatschappijen, bedoeld in het eerste lid, voldoet aan de in het eerste lid gestelde eisen. De netbeheerder legt een exemplaar van zijn jaarrekening, de daartoe behorende toelichting en de daarbij gevoegde verklaring voor een ieder ter inzage in al zijn kantoren en zendt een exemplaar daarvan aan de raad van bestuur van de mededingingsautoriteit.   
+3.  De netbeheerder voegt bij zijn jaarrekening een verklaring waaruit blijkt dat de financiële verhouding tussen de netbeheerder en de groepsmaatschappijen, bedoeld in het eerste lid, voldoet aan de in het eerste lid gestelde eisen. De netbeheerder legt een exemplaar van zijn jaarrekening, de daartoe behorende toelichting en de daarbij gevoegde verklaring voor een ieder ter inzage in al zijn kantoren en zendt een exemplaar daarvan aan de Autoriteit Consument en Markt.   
 
 ### Artikel  18a  
 
@@ -739,12 +727,12 @@ a. regels worden gesteld omtrent de wijze van berekening van vermogensonderdelen
 b. eisen worden gesteld met betrekking tot de in het tweede lid, onderdeel b, bedoelde verklaring en de daar bedoelde deskundige.     
 4.  Indien de netbeheerder niet voldoet aan de regels, bedoeld in het eerste lid: 
 
-a. stelt de netbeheerder de raad van bestuur van de mededingingsautoriteit hiervan onverwijld schriftelijk op de hoogte,  
+a. stelt de netbeheerder de Autoriteit Consument en Markt hiervan onverwijld schriftelijk op de hoogte,  
 
-b. stelt de netbeheerder binnen vier weken na de melding een herstelplan op waarin wordt beschreven op welke wijze hij het financieel beheer gaat verbeteren en zendt hij dit plan aan de raad van bestuur van de mededingingsautoriteit, en  
+b. stelt de netbeheerder binnen vier weken na de melding een herstelplan op waarin wordt beschreven op welke wijze hij het financieel beheer gaat verbeteren en zendt hij dit plan aan de Autoriteit Consument en Markt, en  
 
 c. keert de netbeheerder geen dividend uit aan zijn aandeelhouders.     
-5.  De raad van bestuur van de mededingingsautoriteit kan de netbeheerder aanwijzingen geven met betrekking tot de verbetering van het financieel beheer.   
+5.  De Autoriteit Consument en Markt kan de netbeheerder aanwijzingen geven met betrekking tot de verbetering van het financieel beheer.   
 
 ### Artikel  19  
 
@@ -753,9 +741,9 @@ De netbeheerder gebruikt aan hem verstrekte gegevens over afnemers als bedoeld i
 ### Artikel  19a  
 
 1.  Een netbeheerder houdt een registratie bij van kwaliteitsindicatoren betreffende het transport van elektriciteit.   
-2.  De netbeheerder zendt de raad van bestuur van de mededingingsautoriteit voor 1 maart van elk jaar een afschrift van de registratie van het voorafgaande jaar tezamen met een rapportage waarin de wijzigingen ten opzichte van het daaraan voorafgaande jaar en de afwijkingen ten opzichte van het kwaliteitsniveau dat de netbeheerder nastreeft, bedoeld in artikel 21, tweede lid, onder a, zijn toegelicht. De netbeheerder maakt eveneens voor het tijdstip, bedoeld in de eerste volzin, de rapportage op een geschikte wijze openbaar.   
+2.  De netbeheerder zendt de Autoriteit Consument en Markt voor 1 maart van elk jaar een afschrift van de registratie van het voorafgaande jaar tezamen met een rapportage waarin de wijzigingen ten opzichte van het daaraan voorafgaande jaar en de afwijkingen ten opzichte van het kwaliteitsniveau dat de netbeheerder nastreeft, bedoeld in artikel 21, tweede lid, onder a, zijn toegelicht. De netbeheerder maakt eveneens voor het tijdstip, bedoeld in de eerste volzin, de rapportage op een geschikte wijze openbaar.   
 3.  De netbeheerder bewaart de registratie ten minste tien jaar.   
-4.  De raad van bestuur van de mededingingsautoriteit kan onderzoek doen naar de deugdelijkheid van de registratie, in het bijzonder doch niet uitsluitend door in het net van de desbetreffende netbeheerder metingen te verrichten of te doen verrichten. De netbeheerder gedoogt dat de metingen in zijn net worden verricht.   
+4.  De Autoriteit Consument en Markt kan onderzoek doen naar de deugdelijkheid van de registratie, in het bijzonder doch niet uitsluitend door in het net van de desbetreffende netbeheerder metingen te verrichten of te doen verrichten. De netbeheerder gedoogt dat de metingen in zijn net worden verricht.   
 5.  Bij ministeriële regeling worden regels gesteld over: 
 
 a. de inhoud van de registratie en de wijze van registreren;  
@@ -767,9 +755,9 @@ c. de rapportage.
 
 ### Artikel  19b  
 
-1.  De netbeheerder, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de raad van bestuur van de mededingingsautoriteit: 
+1.  De netbeheerder, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, verstrekt binnen zes maanden na afloop van ieder kalenderjaar aan de Autoriteit Consument en Markt: 
 
-a. een overzicht van de door hem gesloten overeenkomsten met betrekking tot het verrichten van diensten ten behoeve van het netbeheer, vergezeld van afschriften van die overeenkomsten voorzover de raad van bestuur van de mededingingsautoriteit daarover niet reeds beschikt,  
+a. een overzicht van de door hem gesloten overeenkomsten met betrekking tot het verrichten van diensten ten behoeve van het netbeheer, vergezeld van afschriften van die overeenkomsten voorzover de Autoriteit Consument en Markt daarover niet reeds beschikt,  
 
 b. een overzicht van het aantal personen dat bij de netbeheerder werkzaam is ter uitvoering van de in artikel 16 en 16a genoemde taken,  
 
@@ -839,14 +827,14 @@ d. de procedure, bedoeld in [artikel 3.35, eerste lid, aanhef en onderdeel a](..
 
 ### Artikel  20d  
 
-De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvoor op grond van [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) een inpassingsplan is vastgesteld of projectbesluit is genomen, in de tarieven.  
+De Autoriteit Consument en Markt verrekent de kosten van een investering waarvoor op grond van [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) een inpassingsplan is vastgesteld of projectbesluit is genomen, in de tarieven.  
 
 ### Artikel  20e  
 
-1.  Een netbeheerder meldt een voornemen tot een bijzondere investering in de aanleg of uitbreiding van het net, waarop de procedure, bedoeld in [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), niet van toepassing is, zo spoedig mogelijk schriftelijk aan de raad van bestuur van de mededingingsautoriteit of, indien het de netbeheerder van het landelijk hoogspanningsnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
-2.  De raad van bestuur van de mededingingsautoriteit besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van een netbeheerder niet zijnde de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is.   
-3.  Onze Minister besluit of een investering als bedoeld in het eerste lid van de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is, gelet op het belang van een duurzame, betrouwbare en efficiënte energievoorziening. Alvorens Onze Minister besluit, brengt de raad van bestuur van de mededingingsautoriteit binnen vier weken nadat de melding is gedaan advies uit over het te nemen besluit. Indien de investering niet is opgenomen in een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), stelt Onze Minister het besluit niet eerder vast, dan na twee weken nadat het ontwerp daarvan en het betrekkelijke advies aan beide kamers der Staten-Generaal zijn overlegd.   
-4.  De raad van bestuur van de mededingingsautoriteit verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het tweede of derde lid, in de tarieven.   
+1.  Een netbeheerder meldt een voornemen tot een bijzondere investering in de aanleg of uitbreiding van het net, waarop de procedure, bedoeld in [artikel 3.28 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), niet van toepassing is, zo spoedig mogelijk schriftelijk aan de Autoriteit Consument en Markt of, indien het de netbeheerder van het landelijk hoogspanningsnet betreft, eveneens aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld omtrent de melding.   
+2.  De Autoriteit Consument en Markt besluit binnen 13 weken nadat de melding is gedaan, of een investering als bedoeld in het eerste lid, van een netbeheerder niet zijnde de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is.   
+3.  Onze Minister besluit of een investering als bedoeld in het eerste lid van de netbeheerder van het landelijk hoogspanningsnet noodzakelijk is, gelet op het belang van een duurzame, betrouwbare en efficiënte energievoorziening. Alvorens Onze Minister besluit, brengt de Autoriteit Consument en Markt binnen vier weken nadat de melding is gedaan advies uit over het te nemen besluit. Indien de investering niet is opgenomen in een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), stelt Onze Minister het besluit niet eerder vast, dan na twee weken nadat het ontwerp daarvan en het betrekkelijke advies aan beide kamers der Staten-Generaal zijn overlegd.   
+4.  De Autoriteit Consument en Markt verrekent de kosten van een investering waarvan de noodzaak is vastgesteld op grond van het tweede of derde lid, in de tarieven.   
 
 ### Artikel  20f  
 
@@ -855,7 +843,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 ### Artikel  21  
 
 1.  Een netbeheerder beschikt over een doeltreffend systeem voor de beheersing van de kwaliteit van zijn transportdienst en over voldoende capaciteit voor het transport van elektriciteit om te voorzien in de totale behoefte.   
-2.  De netbeheerder dient om het jaar bij de raad van bestuur van de mededingingsautoriteit een door hem vastgesteld document in waarin hij: 
+2.  De netbeheerder dient om het jaar bij de Autoriteit Consument en Markt een door hem vastgesteld document in waarin hij: 
 
 a. aangeeft welk kwaliteitsniveau hij nastreeft,  
 
@@ -891,12 +879,12 @@ f. de periode waarop het document of onderdelen daarvan betrekking hebben.
 5.  Bij ministeriële regeling kan worden bepaald dat een door een geaccrediteerde instelling aan een netbeheerder verstrekt certificaat van conformiteit aan het bepaalde bij of krachtens dit artikel, ten behoeve van het toezicht op de naleving van dit artikel, het vermoeden oplevert dat de netbeheerder een kwaliteitsbeheersingssyteem heeft en daaraan uitvoering geeft overeenkomstig het bepaalde bij of krachtens dit artikel.   
 6.  De netbeheerder van het landelijk hoogspanningsnet geeft in het document bedoeld in het tweede lid in elk geval aan welke prestaties op het gebied van leveringskwaliteit en operationele netwerkveiligheid hij nastreeft.   
 7.  De doelstellingen bedoeld in het zesde lid zijn objectief, transparant en niet-discriminatoir.   
-8.  De raad van bestuur van de mededingingsautoriteit verleent goedkeuring aan het document bedoeld in het tweede lid voor zover het betreft de prestaties die de netbeheerder van het landelijk hoogspanningsnet nastreeft ten aanzien van de leveringskwaliteit en de operationele netwerkveiligheid indien naar het oordeel van de raad van bestuur van de mededingingsautoriteit blijkt dat deze netbeheerder in voldoende mate en op een doelmatige wijze kan voorzien in de door hem gestelde doelen.   
-9.  De netbeheerder handelt naar zijn voornemens, opgenomen in het document, bedoeld in het tweede lid, en meldt de raad van bestuur van de mededingingsautoriteit indien hij hiervan heeft afgeweken.   
+8.  De Autoriteit Consument en Markt verleent goedkeuring aan het document bedoeld in het tweede lid voor zover het betreft de prestaties die de netbeheerder van het landelijk hoogspanningsnet nastreeft ten aanzien van de leveringskwaliteit en de operationele netwerkveiligheid indien naar het oordeel van de Autoriteit Consument en Markt blijkt dat deze netbeheerder in voldoende mate en op een doelmatige wijze kan voorzien in de door hem gestelde doelen.   
+9.  De netbeheerder handelt naar zijn voornemens, opgenomen in het document, bedoeld in het tweede lid, en meldt de Autoriteit Consument en Markt indien hij hiervan heeft afgeweken.   
 
 ### Artikel  22  
 
-1.  Indien naar het oordeel van de raad van bestuur van de mededingingsautoriteit uit de overzichten, bedoeld in artikel 19b of uit het document, bedoeld in artikel 21, of anderszins, blijkt dat een netbeheerder in onvoldoende mate of op een ondoelmatige wijze kan of zal kunnen voorzien in het door hem te bereiken niveau van de kwaliteit van zijn transportdienst of in de totale behoefte aan capaciteit voor het transport van elektriciteit over de door hem beheerde netten, meldt hij zulks na overleg met de netbeheerder van het landelijk hoogspanningsnet en de netbeheerder van het desbetreffende net aan Onze Minister.   
+1.  Indien naar het oordeel van de Autoriteit Consument en Markt uit de overzichten, bedoeld in artikel 19b of uit het document, bedoeld in artikel 21, of anderszins, blijkt dat een netbeheerder in onvoldoende mate of op een ondoelmatige wijze kan of zal kunnen voorzien in het door hem te bereiken niveau van de kwaliteit van zijn transportdienst of in de totale behoefte aan capaciteit voor het transport van elektriciteit over de door hem beheerde netten, meldt zij zulks na overleg met de netbeheerder van het landelijk hoogspanningsnet en de netbeheerder van het desbetreffende net aan Onze Minister.   
 2.  Nadat hij een melding heeft ontvangen, kan Onze Minister aan de desbetreffende netbeheerder opdragen voorzieningen te treffen teneinde zeker te stellen dat het transport van elektriciteit in voldoende mate of op een doelmatige wijze plaatsvindt.   
 3.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de opdracht, bedoeld in het tweede lid.   
 
@@ -917,7 +905,7 @@ b. een aansluiting voor een productie-installatie voor de opwekking van duurzame
 ### Artikel  24  
 
 1.  De netbeheerder is verplicht aan degene die daarom verzoekt een aanbod te doen om met gebruikmaking van het door hem beheerde net ten behoeve van de verzoeker transport van elektriciteit uit te voeren tegen een tarief en tegen andere voorwaarden die in overeenstemming zijn met de paragrafen 5 en 6 van dit hoofdstuk.   
-2.  De verplichting, bedoeld in het eerste lid, geldt niet voor zover de netbeheerder voor het gevraagde transport redelijkerwijs geen capaciteit ter beschikking heeft. Een weigering transport uit te voeren als bedoeld in de vorige volzin is met redenen omkleed. De netbeheerder verschaft degene aan wie transport is geweigerd desgevraagd en ten hoogste tegen kostprijs de relevante gegevens over de maatregelen die nodig zijn om het net te versterken. Indien ten aanzien van duurzame elektriciteit een weigering transport uit te voeren als bedoeld in de eerste volzin plaatsvindt, meldt de netbeheerder dit aan de raad van bestuur van de mededingingsautoriteit, waarbij de netbeheerder aangeeft welke maatregelen worden genomen om toekomstige weigeringen te voorkomen.   
+2.  De verplichting, bedoeld in het eerste lid, geldt niet voor zover de netbeheerder voor het gevraagde transport redelijkerwijs geen capaciteit ter beschikking heeft. Een weigering transport uit te voeren als bedoeld in de vorige volzin is met redenen omkleed. De netbeheerder verschaft degene aan wie transport is geweigerd desgevraagd en ten hoogste tegen kostprijs de relevante gegevens over de maatregelen die nodig zijn om het net te versterken. Indien ten aanzien van duurzame elektriciteit een weigering transport uit te voeren als bedoeld in de eerste volzin plaatsvindt, meldt de netbeheerder dit aan de Autoriteit Consument en Markt, waarbij de netbeheerder aangeeft welke maatregelen worden genomen om toekomstige weigeringen te voorkomen.   
 3.  De netbeheerder onthoudt zich van iedere vorm van discriminatie tussen degenen jegens wie de verplichting, bedoeld in het eerste lid, geldt.   
 
 ### Artikel  24a  
@@ -933,8 +921,8 @@ b. een aansluiting voor een productie-installatie voor de opwekking van duurzame
 
 ### Artikel  26  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan op aanvraag besluiten dat capaciteit op het landsgrensoverschrijdend net voor het transport van elektriciteit tot een door hem te bepalen omvang en voor een door hem te bepalen tijdsduur bij voorrang wordt bestemd voor door hem aan te geven verzoekers om capaciteit voor het transport van elektriciteit, indien die capaciteit uitsluitend is bestemd om op een transparante en niet-discriminatoire wijze, die bijdraagt aan een goede marktwerking op de elektriciteitsmarkt, te worden toegewezen.   
-2.  Bij het nemen van het besluit, bedoeld in het eerste lid, kan de raad van bestuur van de mededingingsautoriteit voor het transport van elektriciteit voorwaarden goedkeuren en tarieven vaststellen die afwijken van het bepaalde bij of krachtens de paragrafen 5 en 6 van dit hoofdstuk.   
+1.  De Autoriteit Consument en Markt kan op aanvraag besluiten dat capaciteit op het landsgrensoverschrijdend net voor het transport van elektriciteit tot een door haar te bepalen omvang en voor een door haar te bepalen tijdsduur bij voorrang wordt bestemd voor door haar aan te geven verzoekers om capaciteit voor het transport van elektriciteit, indien die capaciteit uitsluitend is bestemd om op een transparante en niet-discriminatoire wijze, die bijdraagt aan een goede marktwerking op de elektriciteitsmarkt, te worden toegewezen.   
+2.  Bij het nemen van het besluit, bedoeld in het eerste lid, kan de Autoriteit Consument en Markt voor het transport van elektriciteit voorwaarden goedkeuren en tarieven vaststellen die afwijken van het bepaalde bij of krachtens de paragrafen 5 en 6 van dit hoofdstuk.   
 3.  Het besluit, bedoeld in het eerste lid, mag niet het gevolg hebben dat de hoeveelheid capaciteit die de netbeheerder van het landelijk hoogspanningsnet reserveert om noodzakelijk transport van elektriciteit in het kader van onderlinge hulp en bijstand ten behoeve van de instandhouding van de integriteit van de netten te kunnen uitvoeren, wordt beperkt.   
 4.  Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in de Staatscourant.   
 
@@ -1022,7 +1010,7 @@ c. een gebouw ingrijpend wordt gerenoveerd.
 10.  Het is anderen dan de netbeheerder niet toegestaan bij afnemers als bedoeld in artikel 95a, eerste lid, geïnstalleerde, op afstand uitleesbare meetinrichtingen te vervangen die geïnstalleerd zijn tussen 31 december 2005 en het tijdstip waarop de in het eerste lid bedoelde periode aanvangt.   
 11.  Indien een meetinrichting als bedoeld in artikel 95la, eerste lid, door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 95a, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.   
 12.  In aanvulling op artikel 30a kan het tarief voor de meting van elektriciteit mede betrekking hebben op de mate waarin een netbeheerder voortgang boekt bij de uitvoering van de verplichting, bedoeld in het eerste lid, en alsdan verschillen per netbeheerder.   
-13.  Een netbeheerder zendt jaarlijks vóór 1 juni een rapportage aan Onze Minister en de raad van bestuur van de mededingingsautoriteit waarin hij aangeeft welke voortgang is geboekt met de uitvoering van de taak, bedoeld in het eerste lid.   
+13.  Een netbeheerder zendt jaarlijks vóór 1 juni een rapportage aan Onze Minister en de Autoriteit Consument en Markt waarin hij aangeeft welke voortgang is geboekt met de uitvoering van de taak, bedoeld in het eerste lid.   
 
 ### Artikel  26af  
 
@@ -1043,12 +1031,12 @@ De artikelen 26ab en 26ac, eerste lid, zijn niet van toepassing met betrekking t
 ### Artikel  26b  
 
 1.  Bij ministeriële regeling worden regels gesteld met betrekking tot de tariefstructuren en voorwaarden als bedoeld in de artikelen 27 en 31.   
-2.  De raad van bestuur van de mededingingsautoriteit brengt advies uit over het ontwerp van de in het eerste lid bedoelde regels.   
-3.  Een krachtens het eerste lid vast te stellen ministeriële regeling treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Het ontwerp wordt vergezeld door het over de ministeriële regeling uitgebrachte advies van de raad van bestuur van de mededingingsautoriteit.   
+2.  De Autoriteit Consument en Markt brengt advies uit over het ontwerp van de in het eerste lid bedoelde regels.   
+3.  Een krachtens het eerste lid vast te stellen ministeriële regeling treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Het ontwerp wordt vergezeld door het over de ministeriële regeling uitgebrachte advies van de Autoriteit Consument en Markt.   
 
 ### Artikel  27  
 
-1.  Met inachtneming van de in artikel 26b bedoelde regels en de in artikel 6 van verordening 714/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de raad van bestuur van de mededingingsautoriteit een voorstel met betrekking tot de door hen jegens afnemers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van het tarief waarvoor afnemers zullen worden aangesloten op een net, van het tarief waarvoor transport van elektriciteit, met inbegrip van de invoer, uitvoer en doorvoer van elektriciteit, ten behoeve van afnemers zal worden uitgevoerd, het tarief waarvoor de systeemdiensten worden verricht en de energiebalans wordt gehandhaafd en het tarief voor meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid.   
+1.  Met inachtneming van de in artikel 26b bedoelde regels en de in artikel 6 van verordening 714/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel met betrekking tot de door hen jegens afnemers te hanteren tariefstructuren dat de elementen en wijze van berekening beschrijft van het tarief waarvoor afnemers zullen worden aangesloten op een net, van het tarief waarvoor transport van elektriciteit, met inbegrip van de invoer, uitvoer en doorvoer van elektriciteit, ten behoeve van afnemers zal worden uitgevoerd, het tarief waarvoor de systeemdiensten worden verricht en de energiebalans wordt gehandhaafd en het tarief voor meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid.   
 2.  In de tariefstructuren wordt in ieder geval opgenomen dat: 
 
 a. een afnemer recht heeft op een aansluiting op het door hem gewenste spanningsniveau, tenzij dit om technische redenen redelijkerwijs niet van de netbeheerder kan worden verlangd;  
@@ -1109,7 +1097,7 @@ b. het verschaffen van toegang tot meetgegevens als bedoeld in artikel 26ab, twe
 
 ### Artikel  31  
 
-1.  Met inachtneming van de in artikel 26b bedoelde regels en de in artikel 6 van verordening 714/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de door hen jegens afnemers te hanteren voorwaarden met betrekking tot: 
+1.  Met inachtneming van de in artikel 26b bedoelde regels en de in artikel 6 van verordening 714/2009 bedoelde netcodes zenden de gezamenlijke netbeheerders aan de Autoriteit Consument en Markt een voorstel voor de door hen jegens afnemers te hanteren voorwaarden met betrekking tot: 
 
 a. de wijze waarop netbeheerders en afnemers alsmede netbeheerders zich jegens elkaar gedragen ten aanzien van het in werking hebben van de netten, het voorzien van een aansluiting op het net en het uitvoeren van transport van elektriciteit over het net,  
 
@@ -1139,10 +1127,10 @@ k. de wijze waarop de netbeheerder van het landelijk hoogspanningsnet enerzijds 
 
 a. de hoeveelheid capaciteit die de netbeheerder van het landelijk hoogspanningsnet reserveert om noodzakelijk transport van elektriciteit in het kader van onderlinge hulp en bijstand ten behoeve van de instandhouding van de integriteit van de netten te kunnen uitvoeren,  
 
-b. de hoeveelheid capaciteit die de raad van bestuur van de mededingingsautoriteit op grond van artikel 26 heeft bestemd voor bepaalde verzoekers om capaciteit voor het transport van elektriciteit, en  
+b. de hoeveelheid capaciteit die de Autoriteit Consument en Markt op grond van artikel 26 heeft bestemd voor bepaalde verzoekers om capaciteit voor het transport van elektriciteit, en  
 
 c. de hoeveelheid capaciteit waarvoor Onze Minister ontheffing heeft verleend op grond van artikel 86c.     
-6.  De netbeheerder van het landelijk hoogspanningsnet benut de opbrengst van het veilen of op een andere marktconforme methode toewijzen van capaciteit overeenkomstig de regeling, bedoeld in het vierde lid, voor het opheffen van beperkingen in de transportcapaciteit op het landsgrensoverschrijdende net dan wel voor andere, door de raad van bestuur van de mededingingsautoriteit te bepalen doelen.   
+6.  De netbeheerder van het landelijk hoogspanningsnet benut de opbrengst van het veilen of op een andere marktconforme methode toewijzen van capaciteit overeenkomstig de regeling, bedoeld in het vierde lid, voor het opheffen van beperkingen in de transportcapaciteit op het landsgrensoverschrijdende net dan wel voor andere, door de Autoriteit Consument en Markt te bepalen doelen.   
 7.  De netbeheerder van het landelijk hoogspanningsnet voert een afzonderlijke boekhouding met betrekking tot de opbrengst van het veilen of op een andere marktconforme methode toewijzen van capaciteit. Artikel 43 is van overeenkomstige toepassing.   
 8.  De voorwaarden, bedoeld in het eerste lid, onderdeel g, kunnen mede betrekking hebben op de wijze waarop de netbeheerder van het landelijk hoogspanningsnet enerzijds en afnemers, leveranciers en de overige netbeheerders anderzijds zich jegens elkaar gedragen.   
 9.  Onze Minister kan, in aanvulling op de voorwaarden, bedoeld in het eerste lid, onderdeel b, en voorzover dit onderwerp geen regeling vindt in het bepaalde bij of krachtens artikel 72m, nadere regels stellen over: 
@@ -1174,23 +1162,23 @@ Voor afnemers als bedoeld in artikel 95a, eerste lid, die elektriciteit invoeden
 ### Artikel  32  
 
 1.  De netbeheerder van het landelijk hoogspanningsnet of ten minste een derde van het aantal overige netbeheerders kan de gezamenlijke netbeheerders verzoeken een voorstel te doen tot wijziging van de tariefstructuren of de voorwaarden, bedoeld in de artikelen 27 en 31, onder opgave van de redenen die naar zijn oordeel een dergelijke wijziging noodzakelijk maken.   
-2.  Indien naar zijn oordeel wijziging van de tariefstructuren of de voorwaarden, bedoeld in de artikelen 27 en 31, noodzakelijk is, zendt de raad van bestuur van de mededingingsautoriteit een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden aan de gezamenlijke netbeheerders en de representatieve organisaties van partijen op de elektriciteitsmarkt.   
+2.  Indien naar haar oordeel wijziging van de tariefstructuren of de voorwaarden, bedoeld in de artikelen 27 en 31, noodzakelijk is, zendt de Autoriteit Consument en Markt een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden aan de gezamenlijke netbeheerders en de representatieve organisaties van partijen op de elektriciteitsmarkt.   
 3.  In een voorstel of een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden worden die onderdelen, bedoeld in artikel 27 of  31, opgenomen waarvan wijziging wordt verzocht.   
 
 ### Artikel  33  
 
 1.  De gezamenlijke netbeheerders voeren overleg met representatieve organisaties van partijen op de elektriciteitsmarkt over de voorstellen met betrekking tot de tariefstructuren en de voorwaarden, bedoeld in de artikelen 27, 31 en 32, eerste lid.   
-2.  In de voorstellen die aan de raad van bestuur van de mededingingsautoriteit worden gezonden, geven de gezamenlijke netbeheerders aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het eerste lid, naar voren hebben gebracht.   
+2.  In de voorstellen die aan de Autoriteit Consument en Markt worden gezonden, geven de gezamenlijke netbeheerders aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het eerste lid, naar voren hebben gebracht.   
 3.  De netbeheerder van het landelijk hoogspanningsnet voert overleg met de netbeheerders in andere landen waarmee een landgrensoverschrijdend net tot stand is gebracht over de voorschriften en verplichtingen inzake operationele netwerkveiligheid als bedoeld in artikel 31, elfde lid, voordat hij die voorschriften en verplichtingen vaststelt.   
 
 ### Artikel  34  
 
-1.  De gezamenlijke netbeheerders zenden een voorstel met betrekking tot de wijziging van de tariefstructuren of de voorwaarden aan de raad van bestuur van de mededingingsautoriteit binnen twaalf weken na het tijdstip waarop een verzoek als bedoeld in artikel 32, eerste lid, wordt gedaan.   
-2.  De gezamenlijke netbeheerders en representatieve organisaties van partijen op de elektriciteitsmarkt kunnen hun zienswijze op een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden aan de raad van bestuur van de mededingingsautoriteit kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit op grond van artikel 32, tweede lid, aan hen is gezonden.   
+1.  De gezamenlijke netbeheerders zenden een voorstel met betrekking tot de wijziging van de tariefstructuren of de voorwaarden aan de Autoriteit Consument en Markt binnen twaalf weken na het tijdstip waarop een verzoek als bedoeld in artikel 32, eerste lid, wordt gedaan.   
+2.  De gezamenlijke netbeheerders en representatieve organisaties van partijen op de elektriciteitsmarkt kunnen hun zienswijze op een ontwerp van een besluit tot wijziging van de tariefstructuren of de voorwaarden aan de Autoriteit Consument en Markt kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit op grond van artikel 32, tweede lid, aan hen is gezonden.   
 
 ### Artikel  36  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt de tariefstructuren en voorwaarden vast met inachtneming van: 
+1.  De Autoriteit Consument en Markt stelt de tariefstructuren en voorwaarden vast met inachtneming van: 
 
 a. het voorstel van de gezamenlijke netbeheerders als bedoeld in artikel 27, 31 of  32 en de resultaten van het overleg, bedoeld in artikel 33, eerste lid,  
 
@@ -1207,41 +1195,41 @@ f. het belang van een objectieve, transparante en niet discriminatoire handhavin
 g. de in artikel 26b bedoelde regels en  
 
 h. verordening 714/2009 en de richtlijn.     
-2.  De raad van bestuur van de mededingingsautoriteit stelt de voorwaarden niet vast dan nadat hij zich met inachtneming van artikel 5 van de richtlijn ervan vergewist heeft dat de voorwaarden de interoperabiliteit van de netten garanderen en objectief, evenredig en niet-discriminatoir zijn, alsmede voor zover dat op grond van de notificatierichtlijn noodzakelijk is, aan de Commissie van de Europese Gemeenschappen in ontwerp zijn meegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.   
-3.  Indien een voorstel als bedoeld in artikel 27, 31 of  32 naar het oordeel van de raad van bestuur van de mededingingsautoriteit in strijd is met het belang, bedoeld in het eerste lid, onderdeel b, c, d, e of f, met de regels, bedoeld in het eerste lid, onderdelen g en h, of of met de eisen, bedoeld in het tweede lid, draagt de raad van bestuur van de mededingingsautoriteit de gezamenlijke netbeheerders op het voorstel onverwijld zodanig te wijzigen dat deze strijd wordt opgeheven. [Artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-4.  Indien de gezamenlijke netbeheerders niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de raad van bestuur van de mededingingsautoriteit, bedoeld in het derde lid, stelt de raad van bestuur van de mededingingsautoriteit de tariefstructuren of de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in het eerste lid, onderdelen b tot en met f, met de regels, bedoeld in het eerste lid, onderdelen g en h, en met de eisen, bedoeld in het tweede lid.   
+2.  De Autoriteit Consument en Markt stelt de voorwaarden niet vast dan nadat zij zich met inachtneming van artikel 5 van de richtlijn ervan vergewist heeft dat de voorwaarden de interoperabiliteit van de netten garanderen en objectief, evenredig en niet-discriminatoir zijn, alsmede voor zover dat op grond van de notificatierichtlijn noodzakelijk is, aan de Commissie van de Europese Gemeenschappen in ontwerp zijn meegedeeld en de van toepassing zijnde termijnen, bedoeld in artikel 9 van de notificatierichtlijn, zijn verstreken.   
+3.  Indien een voorstel als bedoeld in artikel 27, 31 of  32 naar het oordeel van de Autoriteit Consument en Markt in strijd is met het belang, bedoeld in het eerste lid, onderdeel b, c, d, e of f, met de regels, bedoeld in het eerste lid, onderdelen g en h, of of met de eisen, bedoeld in het tweede lid, draagt de Autoriteit Consument en Markt de gezamenlijke netbeheerders op het voorstel onverwijld zodanig te wijzigen dat deze strijd wordt opgeheven. [Artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+4.  Indien de gezamenlijke netbeheerders niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de Autoriteit Consument en Markt, bedoeld in het derde lid, stelt de Autoriteit Consument en Markt de tariefstructuren of de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in het eerste lid, onderdelen b tot en met f, met de regels, bedoeld in het eerste lid, onderdelen g en h, en met de eisen, bedoeld in het tweede lid.   
 
 ### Artikel  37  
 
-1.  Nadat de termijn, bedoeld in artikel 34, is verstreken, stelt de raad van bestuur van de mededingingsautoriteit de tariefstructuren of de voorwaarden vast met inachtneming van de voorstellen van netbeheerders en van artikel 36, eerste en tweede lid. Indien een voorstel als bedoeld in artikel 34 niet binnen de daarbij aangegeven termijn aan de raad van bestuur van de mededingingsautoriteit is gezonden, stelt deze de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 36, eerste en tweede lid.   
-2.  Indien de gezamenlijke netbeheerders niet binnen de termijn, bedoeld in artikel 34, derde lid, hun zienswijze op een ontwerp van een besluit als bedoeld in dat artikellid aan de raad van bestuur van de mededingingsautoriteit kenbaar maken, stelt deze het besluit tot wijziging van de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 36, eerste en tweede lid.   
+1.  Nadat de termijn, bedoeld in artikel 34, is verstreken, stelt de Autoriteit Consument en Markt de tariefstructuren of de voorwaarden vast met inachtneming van de voorstellen van netbeheerders en van artikel 36, eerste en tweede lid. Indien een voorstel als bedoeld in artikel 34 niet binnen de daarbij aangegeven termijn aan de Autoriteit Consument en Markt is gezonden, stelt deze de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 36, eerste en tweede lid.   
+2.  Indien de gezamenlijke netbeheerders niet binnen de termijn, bedoeld in artikel 34, derde lid, hun zienswijze op een ontwerp van een besluit als bedoeld in dat artikellid aan de Autoriteit Consument en Markt kenbaar maken, stelt deze het besluit tot wijziging van de tariefstructuren of de voorwaarden uit eigen beweging vast met inachtneming van artikel 36, eerste en tweede lid.   
 
 ### Artikel  37a  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan op aanvraag bij beschikking een ontheffing verlenen van de tariefstructuren en de voorwaarden. Bij zijn beslissing neemt de raad van bestuur van de mededingingsautoriteit de belangen als bedoeld in artikel 36, eerste lid, onderdelen b tot en met f en de regels, bedoeld in artikel 36, eerste lid, onderdelen g en h, in acht.   
-2.  De raad van bestuur van de mededingingsautoriteit stelt beleidsregels op met betrekking tot de procedure voor aanvraag van een ontheffing. De beleidsregels worden bekendgemaakt in de Staatscourant.   
-3.  De raad van bestuur van de mededingingsautoriteit kan voorschriften en beperkingen verbinden aan de ontheffing. De raad van bestuur van de mededingingsautoriteit kan de voorschriften en de opgelegde beperkingen wijzigen.   
-4.  De raad van bestuur van de mededingingsautoriteit trekt de ontheffing in op daartoe strekkend schriftelijk verzoek van de houder van de ontheffing.   
-5.  De raad van bestuur van de mededingingsautoriteit kan een ontheffing intrekken, indien: 
+1.  De Autoriteit Consument en Markt kan op aanvraag bij beschikking een ontheffing verlenen van de tariefstructuren en de voorwaarden. Bij haar beslissing neemt de Autoriteit Consument en Markt de belangen als bedoeld in artikel 36, eerste lid, onderdelen b tot en met f en de regels, bedoeld in artikel 36, eerste lid, onderdelen g en h, in acht.   
+2.  De Autoriteit Consument en Markt stelt beleidsregels op met betrekking tot de procedure voor aanvraag van een ontheffing. De beleidsregels worden bekendgemaakt in de Staatscourant.   
+3.  De Autoriteit Consument en Markt kan voorschriften en beperkingen verbinden aan de ontheffing. De Autoriteit Consument en Markt kan de voorschriften en de opgelegde beperkingen wijzigen.   
+4.  De Autoriteit Consument en Markt trekt de ontheffing in op daartoe strekkend schriftelijk verzoek van de houder van de ontheffing.   
+5.  De Autoriteit Consument en Markt kan een ontheffing intrekken, indien: 
 
 a. de houder van de ontheffing de aan de ontheffing verbonden voorschriften of opgelegde beperkingen niet nakomt;  
 
 b. de houder van de ontheffing bij de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste en volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid;  
 
-c. de raad van bestuur van de mededingingsautoriteit, gelet op de belangen bedoeld in artikel 36, eerste lid, onderdelen b tot en met f en de regels, bedoeld in artikel 36, eerste lid, onderdelen g en h, van oordeel is dat intrekking van de ontheffing noodzakelijk is.     
+c. de Autoriteit Consument en Markt, gelet op de belangen bedoeld in artikel 36, eerste lid, onderdelen b tot en met f en de regels, bedoeld in artikel 36, eerste lid, onderdelen g en h, van oordeel is dat intrekking van de ontheffing noodzakelijk is.     
 6.  Een op grond van dit artikel genomen beschikking wordt bekendgemaakt in de Staatscourant.   
 
 ### Artikel  38  
 
-1.  De tariefstructuren en de voorwaarden treden in werking op een door de raad van bestuur van de mededingingsautoriteit te bepalen datum en gelden voor onbepaalde tijd.   
+1.  De tariefstructuren en de voorwaarden treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden voor onbepaalde tijd.   
 2.  Van de besluiten betreffende de vaststelling van de tariefstructuren en de voorwaarden alsmede de wijziging daarvan wordt mededeling gedaan door plaatsing in de Staatscourant.   
 3.  Iedere netbeheerder legt een exemplaar van de tariefstructuren en de voorwaarden voor een ieder ter inzage in al zijn vestigingen.   
 4.  Na de vaststelling van de voorwaarden gelden deze als minimumeisen voor de technische veiligheid en voor het technisch ontwerp en de exploitatie van de installaties en netten, bedoeld in artikel 5 van de richtlijn.   
 
 ### Artikel  39  
 
-1.  Netbeheerders zenden de raad van bestuur van de mededingingsautoriteit voor 1 maart van elk jaar een rapportage omtrent de naleving door hen van de kwaliteitscriteria, bedoeld in artikel 31, eerste lid, onderdeel f.   
-2.  De raad van bestuur van de mededingingsautoriteit vermeldt de bevindingen die hij ontleent aan rapportages als bedoeld in het eerste lid in het verslag, bedoeld in artikel 9.   
+1.  Netbeheerders zenden de Autoriteit Consument en Markt voor 1 maart van elk jaar een rapportage omtrent de naleving door hen van de kwaliteitscriteria, bedoeld in artikel 31, eerste lid, onderdeel f.   
+2.  De Autoriteit Consument en Markt vermeldt de bevindingen die zij ontleent aan rapportages als bedoeld in het eerste lid in het verslag, bedoeld in artikel 9.   
 
 ### §  6  
 
@@ -1253,31 +1241,31 @@ De tarieven voor de diensten ter uitvoering van de taken, genoemd in artikel 16,
 
 ### Artikel  40a  
 
-De tarieven voor de meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid, als bedoeld in artikel 30a, worden vastgesteld door de raad van bestuur van de mededingingsautoriteit na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot procedure tot vaststelling van de tarieven voor de meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid en de wijze van berekening van deze tarieven.  
+De tarieven voor de meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid, als bedoeld in artikel 30a, worden vastgesteld door de Autoriteit Consument en Markt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot procedure tot vaststelling van de tarieven voor de meting van elektriciteit bij afnemers als bedoeld in artikel 95a, eerste lid en de wijze van berekening van deze tarieven.  
 
 ### Artikel  41  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd, voor netbeheerders, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld, vast. Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
+1.  De Autoriteit Consument en Markt stelt na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt, met inachtneming van het belang dat door middel van marktwerking ten behoeve van afnemers de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van het transport worden bevorderd, voor netbeheerders, met uitzondering van de netbeheerder van het landelijk hoogspanningsnet, de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering, van de kwaliteitsterm en van het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld, vast. Het besluit tot vaststelling van de methode geldt voor een periode van ten minste drie en ten hoogste vijf jaar.   
 2.  Het eerste lid is van overeenkomstige toepassing voor vaststelling van de methode tot vaststelling van de korting ter bevordering van de doelmatige bedrijfsvoering en van het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld voor de netbeheerder van het landelijk hoogspanningsnet.   
 3.  De korting ter bevordering van de doelmatige bedrijfsvoering heeft onder meer ten doel te bereiken dat de netbeheerder in ieder geval geen rendement kan behalen dat hoger is dan in het economische verkeer gebruikelijk en dat de gelijkwaardigheid in de doelmatigheid van de netbeheerders wordt bevorderd.   
 4.  De kwaliteitsterm geeft de aanpassing van de tarieven in verband met de geleverde kwaliteit aan en heeft ten doel netbeheerders te stimuleren om de kwaliteit van hun transportdienst te optimaliseren.   
-5.  De rekenvolumina die een netbeheerder gebruikt bij het voorstel, bedoeld in artikel 41b, zijn gebaseerd op daadwerkelijk gefactureerde volumina in eerdere jaren, of worden door de raad van bestuur van de mededingingsautoriteit geschat indien deze betrekking hebben op nieuwe tarieven.   
+5.  De rekenvolumina die een netbeheerder gebruikt bij het voorstel, bedoeld in artikel 41b, zijn gebaseerd op daadwerkelijk gefactureerde volumina in eerdere jaren, of worden door de Autoriteit Consument en Markt geschat indien deze betrekking hebben op nieuwe tarieven.   
 
 ### Artikel  41a  
 
-1.  Ten behoeve van het voorstel, bedoeld in artikel 41b, stelt de raad van bestuur van de mededingingsautoriteit voor iedere netbeheerder afzonderlijk voor dezelfde periode als waarvoor het besluit geldt op grond van artikel 41, eerste lid, vast: 
+1.  Ten behoeve van het voorstel, bedoeld in artikel 41b, stelt de Autoriteit Consument en Markt voor iedere netbeheerder afzonderlijk voor dezelfde periode als waarvoor het besluit geldt op grond van artikel 41, eerste lid, vast: 
 
 a. de korting ter bevordering van de doelmatige bedrijfsvoering,  
 
 b. de kwaliteitsterm, en  
 
 c. het rekenvolume van elke tariefdrager waarvoor een tarief wordt vastgesteld.     
-2.  De raad van bestuur van de mededingingsautoriteit kan het in het eerste lid, onderdeel c, bedoelde rekenvolume gedurende de in de aanhef van dat lid bedoelde periode wijzigen.   
-3.  Indien het besluit op grond van artikel 41, eerste lid, bij een onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit op bezwaar is herroepen, herziet de raad van bestuur van de mededingingsautoriteit de in het eerste lid vermelde besluiten met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode.   
+2.  De Autoriteit Consument en Markt kan het in het eerste lid, onderdeel c, bedoelde rekenvolume gedurende de in de aanhef van dat lid bedoelde periode wijzigen.   
+3.  Indien het besluit op grond van artikel 41, eerste lid, bij een onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit op bezwaar is herroepen, herziet de Autoriteit Consument en Markt de in het eerste lid vermelde besluiten met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode.   
 
 ### Artikel  41b  
 
-1.  Iedere netbeheerder zendt jaarlijks voor 1 oktober aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor de uitvoering van de taken genoemd in artikel 16, eerste lid, met uitzondering van onderdeel p, met inachtneming van: 
+1.  Iedere netbeheerder zendt jaarlijks voor 1 oktober aan de Autoriteit Consument en Markt een voorstel voor de tarieven die deze netbeheerder ten hoogste zal berekenen voor de uitvoering van de taken genoemd in artikel 16, eerste lid, met uitzondering van onderdeel p, met inachtneming van: 
 
 a. het uitgangspunt dat de kosten worden toegerekend aan de tariefdragers betreffende de diensten die deze kosten veroorzaken,  
 
@@ -1294,41 +1282,41 @@ f.  dit onderdeel is nog niet in werking getreden;
 
 g. het totaal van de gemaakte kosten voor een verwerving van een bestaand net waarvoor nog niet eerder een netbeheerder was aangewezen door of met instemming van Onze Minister en voor de investeringen tot aanpassing van dat verworven net waardoor aan de bij of krachtens deze wet daaraan gestelde eisen wordt voldaan, voor zover deze kosten doelmatig zijn.     
 2.  De geschatte kosten die een netbeheerder voor de uitvoering van de taken genoemd in artikel 16, eerste lid, bij een andere netbeheerder in rekening zal brengen, worden zonder toepassing van de formule, bedoeld in het eerste lid, onder d, toegevoegd aan de totale inkomsten uit de tarieven van deze andere netbeheerder. Het verschil tussen de geschatte en gerealiseerde kosten wordt betrokken bij de vaststelling van de totale inkomsten uit de tarieven van de andere netbeheerder in een volgend jaar.   
-3.  De raad van bestuur van de mededingingsautoriteit stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e en g.   
+3.  De Autoriteit Consument en Markt stelt een beleidsregel vast betreffende de beoordeling van doelmatigheid, bedoeld in het eerste lid, onder e en g.   
 
 ### Artikel  41c  
 
-1.  De raad van bestuur van de mededingingsautoriteit stelt de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor onderscheiden tariefdragers, jaarlijks vast.   
-2.  De raad van bestuur van de mededingingsautoriteit kan de tarieven die zullen gelden in het jaar t corrigeren, indien de tarieven die golden in dat jaar of de jaren voorafgaand aan het jaar t: 
+1.  De Autoriteit Consument en Markt stelt de tarieven, die kunnen verschillen voor de verschillende netbeheerders en voor onderscheiden tariefdragers, jaarlijks vast.   
+2.  De Autoriteit Consument en Markt kan de tarieven die zullen gelden in het jaar t corrigeren, indien de tarieven die golden in dat jaar of de jaren voorafgaand aan het jaar t: 
 
-a. bij rechterlijke uitspraak of met toepassing van de [artikelen 6:18](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [7:11 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;  
+a. bij rechterlijke uitspraak of met toepassing van de [artikel 6:19](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of [7:11 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn gewijzigd;  
 
-b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de raad van bestuur van de mededingingsautoriteit, indien hij de beschikking had over juiste of volledige gegevens, tarieven zou hebben vastgesteld die in aanmerkelijke mate zouden afwijken van de vastgestelde tarieven;  
+b. zijn vastgesteld met inachtneming van onjuiste of onvolledige gegevens en de Autoriteit Consument en Markt, indien zij de beschikking had over juiste of volledige gegevens, tarieven zou hebben vastgesteld die in aanmerkelijke mate zouden afwijken van de vastgestelde tarieven;  
 
 c. zijn vastgesteld met gebruikmaking van geschatte gegevens en de feitelijke gegevens daarvan afwijken;  
 
 d. zijn vastgesteld met gebruikmaking van gegevens omtrent kosten voor bepaalde diensten, terwijl netbeheerders die diensten in het jaar t of een gedeelte van jaar t niet hebben geleverd of voor die diensten geen of minder kosten hebben gemaakt.     
-3.  Indien een voorstel niet binnen de termijn, bedoeld in artikel 41b, eerste lid, aan de raad van bestuur van de mededingingsautoriteit is gezonden, stelt deze de tarieven voor de desbetreffende netbeheerder uit eigen beweging vast met inachtneming van artikel 41b.   
-4.  Indien de totale inkomsten aan het begin van de periode, bedoeld in artikel 41, eerste lid, niet in overeenstemming zijn met het efficiënte kostenniveau inclusief een rendement dat in het economisch verkeer gebruikelijk is, kan de raad van bestuur van de mededingingsautoriteit bij de toepassing van de formule, genoemd in artikel 41b, eerste lid, onderdeel d, in plaats van TIt-1, de totale inkomsten vaststellen op het efficiënte kostenniveau inclusief een rendement dat in het economisch verkeer gebruikelijk is.   
-5.  Indien een besluit op grond van artikel 41, eerste lid, of  41a eerste lid, bij onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit op bezwaar is herroepen, herberekent de raad van bestuur van de mededingingsautoriteit de tarieven, bedoeld in het eerste lid, met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode onderscheidenlijk gecorrigeerde doelmatigheidskorting, kwaliteitsterm of rekenvolume, en verdisconteert hij de uitkomsten van deze herberekening in de eerstvolgende op grond van het eerste lid vast te stellen tarieven. Daarbij worden deze herberekening en de wijze waarop de uitkomsten daarvan in de tarieven zijn verdisconteerd separaat weergegeven.   
+3.  Indien een voorstel niet binnen de termijn, bedoeld in artikel 41b, eerste lid, aan de Autoriteit Consument en Markt is gezonden, stelt deze de tarieven voor de desbetreffende netbeheerder uit eigen beweging vast met inachtneming van artikel 41b.   
+4.  Indien de totale inkomsten aan het begin van de periode, bedoeld in artikel 41, eerste lid, niet in overeenstemming zijn met het efficiënte kostenniveau inclusief een rendement dat in het economisch verkeer gebruikelijk is, kan de Autoriteit Consument en Markt bij de toepassing van de formule, genoemd in artikel 41b, eerste lid, onderdeel d, in plaats van TIt-1, de totale inkomsten vaststellen op het efficiënte kostenniveau inclusief een rendement dat in het economisch verkeer gebruikelijk is.   
+5.  Indien een besluit op grond van artikel 41, eerste lid, of  41a eerste lid, bij onherroepelijke rechterlijke uitspraak is vernietigd of bij een onherroepelijk besluit op bezwaar is herroepen, herberekent de Autoriteit Consument en Markt de tarieven, bedoeld in het eerste lid, met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode onderscheidenlijk gecorrigeerde doelmatigheidskorting, kwaliteitsterm of rekenvolume, en verdisconteert zij de uitkomsten van deze herberekening in de eerstvolgende op grond van het eerste lid vast te stellen tarieven. Daarbij worden deze herberekening en de wijze waarop de uitkomsten daarvan in de tarieven zijn verdisconteerd separaat weergegeven.   
 
 ### Artikel  41d  
 
 1.  In afwijking van artikel 41a wordt voor de netbeheerder van het landelijk hoogspanningsnet geen kwaliteitsterm vastgesteld.   
-2.  De raad van bestuur van de mededingingsautoriteit stelt voor de netbeheerder van het landelijk hoogspanningsnet jaarlijks het verschil vast tussen de totale inkomsten uit de tarieven, bedoeld in artikel 41b, eerste lid, onderdeel d, en de gerealiseerde totale inkomsten uit de tarieven. Bij de eerstvolgende vaststelling van de tarieven verwerkt de raad van bestuur van de mededingingsautoriteit het verschil in de tarieven.   
+2.  De Autoriteit Consument en Markt stelt voor de netbeheerder van het landelijk hoogspanningsnet jaarlijks het verschil vast tussen de totale inkomsten uit de tarieven, bedoeld in artikel 41b, eerste lid, onderdeel d, en de gerealiseerde totale inkomsten uit de tarieven. Bij de eerstvolgende vaststelling van de tarieven verwerkt de Autoriteit Consument en Markt het verschil in de tarieven.   
 
 ### Artikel  41e  
 
 1.  De tarieven voor diensten ter uitvoering van de taken, genoemd in artikel 16, tweede lid, worden vastgesteld overeenkomstig dit artikel.   
-2.  Voor elke taak van de netbeheerder van het landelijk hoogspanningsnet, genoemd in artikel 16, tweede lid, stelt de raad van bestuur van de mededingingsautoriteit de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt en met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van uitvoering van deze taken worden bevorderd.   
-3.  De netbeheerder van het landelijk hoogspanningsnet zendt jaarlijks voor 1 oktober aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de tarieven voor uitvoering van de taken, genoemd in artikel 16, tweede lid, met inachtneming van de tariefstructuren vastgesteld op grond van artikel 36 of 37.   
-4.  De raad van bestuur van de mededingingsautoriteit stelt de tarieven vast overeenkomstig artikel 41c, eerste en tweede lid.   
-5.  Indien een voorstel niet binnen de termijn, bedoeld in het derde lid, aan de raad van bestuur van de mededingingsautoriteit is gezonden, stelt deze de tarieven uit eigen beweging vast met inachtneming van dit artikel.   
-6.  Indien een besluit op grond van het tweede lid bij onherroepelijke rechterlijke uitspraak is vernietigd of bij onherroepelijk besluit op bezwaar is herroepen, herberekent de raad van bestuur van de mededingingsautoriteit de tarieven, bedoeld in het vierde lid, met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode en verdisconteert hij de uitkomsten van deze herberekening in de eerstvolgende op grond van het vierde lid vast te stellen tarieven. Daarbij worden deze herberekening en de wijze waarop de uitkomsten daarvan in de tarieven verdisconteerd zijn separaat weergegeven.   
+2.  Voor elke taak van de netbeheerder van het landelijk hoogspanningsnet, genoemd in artikel 16, tweede lid, stelt de Autoriteit Consument en Markt de methode van regulering vast, voor een periode van ten minste drie en ten hoogste vijf jaar, na overleg met de gezamenlijke netbeheerders en met representatieve organisaties van partijen op de elektriciteitsmarkt en met inachtneming van het belang dat de doelmatigheid van de bedrijfsvoering en de meest doelmatige kwaliteit van uitvoering van deze taken worden bevorderd.   
+3.  De netbeheerder van het landelijk hoogspanningsnet zendt jaarlijks voor 1 oktober aan de Autoriteit Consument en Markt een voorstel voor de tarieven voor uitvoering van de taken, genoemd in artikel 16, tweede lid, met inachtneming van de tariefstructuren vastgesteld op grond van artikel 36 of 37.   
+4.  De Autoriteit Consument en Markt stelt de tarieven vast overeenkomstig artikel 41c, eerste en tweede lid.   
+5.  Indien een voorstel niet binnen de termijn, bedoeld in het derde lid, aan de Autoriteit Consument en Markt is gezonden, stelt deze de tarieven uit eigen beweging vast met inachtneming van dit artikel.   
+6.  Indien een besluit op grond van het tweede lid bij onherroepelijke rechterlijke uitspraak is vernietigd of bij onherroepelijk besluit op bezwaar is herroepen, herberekent de Autoriteit Consument en Markt de tarieven, bedoeld in het vierde lid, met toepassing van de met inachtneming van die uitspraak of dat besluit op bezwaar gecorrigeerde methode en verdisconteert zij de uitkomsten van deze herberekening in de eerstvolgende op grond van het vierde lid vast te stellen tarieven. Daarbij worden deze herberekening en de wijze waarop de uitkomsten daarvan in de tarieven verdisconteerd zijn separaat weergegeven.   
 
 ### Artikel  42  
 
-1.  De tarieven treden in werking op een door de raad van bestuur van de mededingingsautoriteit te bepalen datum en gelden tot 1 januari van het jaar, volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven.   
+1.  De tarieven treden in werking op een door de Autoriteit Consument en Markt te bepalen datum en gelden tot 1 januari van het jaar, volgend op de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven.   
 2.  Indien op 1 januari de tarieven voor het volgende jaar nog niet zijn vastgesteld, gelden de tarieven tot de datum van inwerkingtreding van het besluit tot vaststelling van de tarieven voor het volgende jaar.   
 3.  Iedere netbeheerder legt een exemplaar van de voor hem geldende tarieven voor een ieder ter inzage in al zijn vestigingen.   
 
@@ -1374,14 +1362,14 @@ d. de inhoud van de ingevolge artikel 46 te verschaffen gegevens.
 
 ### Artikel  51  
 
-1.  Een partij die een geschil heeft met een netbeheerder over de wijze waarop deze zijn taken en bevoegdheden op grond van deze wet uitoefent, dan wel aan zijn verplichtingen op grond van deze wet voldoet, kan een klacht bij de raad van bestuur van de mededingingsautoriteit indienen.   
-2.  De raad van bestuur van de mededingingsautoriteit beslist op een klacht binnen twee maanden na ontvangst van de klacht. Indien de klacht betrekking heeft op de tarieven voor de aansluiting op het net van een grote productie-eenheid, kan de raad van bestuur van de mededingingsautoriteit een langere termijn stellen. De raad van bestuur van de mededingingsautoriteit kan de in de eerste volzin genoemde termijn met twee maanden verlengen als hij aanvullende gegevens nodig heeft. Indien de klager daarmee instemt, is verdere verlenging mogelijk.   
-3.  De beslissing van de raad van bestuur van de mededingingsautoriteit is bindend.   
+1.  Een partij die een geschil heeft met een netbeheerder over de wijze waarop deze zijn taken en bevoegdheden op grond van deze wet uitoefent, dan wel aan zijn verplichtingen op grond van deze wet voldoet, kan een klacht bij de Autoriteit Consument en Markt indienen.   
+2.  De Autoriteit Consument en Markt beslist op een klacht binnen twee maanden na ontvangst van de klacht. Indien de klacht betrekking heeft op de tarieven voor de aansluiting op het net van een grote productie-eenheid, kan de Autoriteit Consument en Markt een langere termijn stellen. De Autoriteit Consument en Markt kan de in de eerste volzin genoemde termijn met twee maanden verlengen als zij aanvullende gegevens nodig heeft. Indien de klager daarmee instemt, is verdere verlenging mogelijk.   
+3.  De beslissing van de Autoriteit Consument en Markt is bindend.   
 4.  Het indienen van een klacht als bedoeld in het eerste lid laat onverlet elke mogelijkheid voor de desbetreffende partij een hem ter beschikking staand rechtsmiddel aan te wenden.   
 
 ### Artikel  52  
 
-In het geval van een landsgrensoverschrijdend geschil is de raad van bestuur van de mededingingsautoriteit onbevoegd te beslissen op een klacht als bedoeld in artikel 51, als de netbeheerder waartegen de klacht is gericht onder de rechtsmacht van een andere lidstaat van de Europese Unie valt.  
+In het geval van een landsgrensoverschrijdend geschil is de Autoriteit Consument en Markt onbevoegd te beslissen op een klacht als bedoeld in artikel 51, als de netbeheerder waartegen de klacht is gericht onder de rechtsmacht van een andere lidstaat van de Europese Unie valt.  
 
 ### Hoofdstuk  4  
 
@@ -1393,17 +1381,17 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot een of meer 
 
 ### Artikel  54  
 
-1.  Met inachtneming van de krachtens artikel 53 vastgestelde regels zendt een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit aan de raad van bestuur van de mededingingsautoriteit een voorstel voor de door hen jegens elkaar en afnemers in het kader van administratieve processen te hanteren voorwaarden met betrekking tot de wijze waarop de met die administratieve processen samenhangende gegevens worden vastgelegd, uitgewisseld of gebruikt of met betrekking tot de wijze waarop en de termijn waarbinnen die gegevens worden bewaard, waaronder in ieder geval voorwaarden die bepalen dat: 
+1.  Met inachtneming van de krachtens artikel 53 vastgestelde regels zendt een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit aan de Autoriteit Consument en Markt een voorstel voor de door hen jegens elkaar en afnemers in het kader van administratieve processen te hanteren voorwaarden met betrekking tot de wijze waarop de met die administratieve processen samenhangende gegevens worden vastgelegd, uitgewisseld of gebruikt of met betrekking tot de wijze waarop en de termijn waarbinnen die gegevens worden bewaard, waaronder in ieder geval voorwaarden die bepalen dat: 
 
 a. bij een wisseling van leverancier, de beoogde leverancier, en  
 
 b. bij een verhuizing, de leverancier van de afnemer   verantwoordelijk is voor het verzamelen van de meetgegevens van de afnemer.   
 2.  Ondernemingen die een voorstel doen, voeren overleg over dit voorstel met representatieve organisaties van partijen op de elektriciteitsmarkt.   
-3.  In het voorstel dat aan de raad van bestuur van de mededingingsautoriteit wordt gezonden, geven de ondernemingen aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het tweede lid, naar voren hebben gebracht.   
+3.  In het voorstel dat aan de Autoriteit Consument en Markt wordt gezonden, geven de ondernemingen aan welke gevolgtrekkingen zij hebben verbonden aan de zienswijzen die de organisaties, bedoeld in het tweede lid, naar voren hebben gebracht.   
 
 ### Artikel  55  
 
-De raad van bestuur van de mededingingsautoriteit stelt de voorwaarden vast met inachtneming van: 
+De Autoriteit Consument en Markt stelt de voorwaarden vast met inachtneming van: 
 
 a. het voorstel als bedoeld in artikel 54, eerste lid,  
 
@@ -1415,24 +1403,24 @@ d. artikel 36, eerste lid, onderdelen b tot en met f, en tweede lid.
 
 ### Artikel  56  
 
-1.  Na ontvangst van een voorstel als bedoeld in artikel 54, eerste lid, kan de raad van bestuur van de mededingingsautoriteit de ondernemingen die het voorstel hebben ingediend, opdragen binnen vier weken en met inachtneming van zijn bevindingen, waaronder zijn bevindingen omtrent de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, de regels, bedoeld in artikel 53, of het bepaalde in artikel 36, tweede lid, het voorstel te wijzigen. Indien de raad van bestuur van de mededingingsautoriteit van deze bevoegdheid gebruik maakt is [artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-2.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de raad van bestuur van de mededingingsautoriteit, stelt de raad van bestuur van de mededingingsautoriteit de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, met artikel 36, tweede lid, of met de regels, bedoeld in artikel 53.   
+1.  Na ontvangst van een voorstel als bedoeld in artikel 54, eerste lid, kan de Autoriteit Consument en Markt de ondernemingen die het voorstel hebben ingediend, opdragen binnen vier weken en met inachtneming van haar bevindingen, waaronder haar bevindingen omtrent de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, de regels, bedoeld in artikel 53, of het bepaalde in artikel 36, tweede lid, het voorstel te wijzigen. Indien de Autoriteit Consument en Markt van deze bevoegdheid gebruik maakt is [artikel 4:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen vier weken het voorstel wijzigen overeenkomstig de opdracht van de Autoriteit Consument en Markt, stelt de Autoriteit Consument en Markt de voorwaarden vast onder het aanbrengen van zodanige wijzigingen dat deze in overeenstemming zijn met de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, met artikel 36, tweede lid, of met de regels, bedoeld in artikel 53.   
 
 ### Artikel  57  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan uit eigen beweging een ontwerp van een besluit maken tot wijziging van de voorwaarden, bedoeld in artikel 54, eerste lid, of kan een representatief deel van de in artikel 54, eerste lid, bedoelde ondernemingen opdragen een daartoe strekkend voorstel voor te bereiden en aan haar toe te zenden.   
-2.  Ondernemingen als bedoeld in artikel 54, eerste lid, en de representatieve organisaties, bedoeld in artikel 54, tweede lid, kunnen hun zienswijze op een dergelijk ontwerp van een besluit aan de raad van bestuur van de mededingingsautoriteit kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit is bekendgemaakt.   
-3.  Indien de in het tweede lid bedoelde ondernemingen en representatieve organisaties niet binnen de in het tweede lid genoemde termijn hun zienswijze op het ontwerp van het besluit kenbaar maken, stelt de raad van bestuur van de mededingingsautoriteit het besluit vast met inachtneming van de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, met artikel 36, tweede lid, en met de regels, bedoeld in artikel 53.   
-4.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen twaalf weken na toezending van de in het eerste lid bedoelde opdracht, een voorstel aan de raad van bestuur van de mededingingsautoriteit zenden, stelt de raad van bestuur van de mededingingsautoriteit de voorwaarden vast met inachtneming van de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, met artikel 36, tweede lid, en met de regels, bedoeld in artikel 53.   
+1.  De Autoriteit Consument en Markt kan uit eigen beweging een ontwerp van een besluit maken tot wijziging van de voorwaarden, bedoeld in artikel 54, eerste lid, of kan een representatief deel van de in artikel 54, eerste lid, bedoelde ondernemingen opdragen een daartoe strekkend voorstel voor te bereiden en aan haar toe te zenden.   
+2.  Ondernemingen als bedoeld in artikel 54, eerste lid, en de representatieve organisaties, bedoeld in artikel 54, tweede lid, kunnen hun zienswijze op een dergelijk ontwerp van een besluit aan de Autoriteit Consument en Markt kenbaar maken binnen twaalf weken na het tijdstip waarop het ontwerp van het besluit is bekendgemaakt.   
+3.  Indien de in het tweede lid bedoelde ondernemingen en representatieve organisaties niet binnen de in het tweede lid genoemde termijn hun zienswijze op het ontwerp van het besluit kenbaar maken, stelt de Autoriteit Consument en Markt het besluit vast met inachtneming van de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, met artikel 36, tweede lid, en met de regels, bedoeld in artikel 53.   
+4.  Indien de ondernemingen, bedoeld in het eerste lid, niet binnen twaalf weken na toezending van de in het eerste lid bedoelde opdracht, een voorstel aan de Autoriteit Consument en Markt zenden, stelt de Autoriteit Consument en Markt de voorwaarden vast met inachtneming van de belangen, bedoeld in artikel 36, eerste lid, onderdelen b tot en met f, met artikel 36, tweede lid, en met de regels, bedoeld in artikel 53.   
 
 ### Artikel  58  
 
-Ten aanzien van de overeenkomstig dit hoofdstuk door de raad van bestuur van de mededingingsautoriteit vastgestelde voorwaarden zijn de artikelen 37a en 38, eerste tot en met derde lid, van overeenkomstige toepassing.  
+Ten aanzien van de overeenkomstig dit hoofdstuk door de Autoriteit Consument en Markt vastgestelde voorwaarden zijn de artikelen 37a en 38, eerste tot en met derde lid, van overeenkomstige toepassing.  
 
 ### Artikel  59  
 
-1.  De door de raad van bestuur van de mededingingsautoriteit op basis van artikel 31, eerste lid, op 6 maart 2007 vastgestelde informatiecode (Stcrt. 2007, 49) wordt op het tijdstip van inwerkingtreding van dit hoofdstuk aangemerkt als voorwaarden die overeenkomstig dit hoofdstuk zijn vastgesteld.   
-2.  Uiterlijk 12 weken na inwerkingtreding van dit hoofdstuk ontvangt de raad van bestuur van de mededingingsautoriteit een voorstel als bedoeld in artikel 54, eerste lid, dat tot doel heeft de in het eerste lid bedoelde informatiecode uit te breiden tot voorwaarden voor alle soorten ondernemingen, genoemd in artikel 54, eerste lid.   
+1.  De door de Autoriteit Consument en Markt op basis van artikel 31, eerste lid, op 6 maart 2007 vastgestelde informatiecode (Stcrt. 2007, 49) wordt op het tijdstip van inwerkingtreding van dit hoofdstuk aangemerkt als voorwaarden die overeenkomstig dit hoofdstuk zijn vastgesteld.   
+2.  Uiterlijk 12 weken na inwerkingtreding van dit hoofdstuk ontvangt de Autoriteit Consument en Markt een voorstel als bedoeld in artikel 54, eerste lid, dat tot doel heeft de in het eerste lid bedoelde informatiecode uit te breiden tot voorwaarden voor alle soorten ondernemingen, genoemd in artikel 54, eerste lid.   
 
 ### Hoofdstuk  5  
 
@@ -1585,26 +1573,26 @@ f. de afdracht van de bedragen, verkregen met toepassing van de toeslag op de ta
 
 ### Artikel  77h  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan ingeval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van artikel 13, 22, tweede lid, 26aa, 26ad, vijfde lid, en 26ae, tiende lid, dan wel van overtreding van het bepaalde bij verordening 714/2009 en verordening 713/2009 de overtreder een last onder dwangsom opleggen.   
-2.  Indien daarvoor naar zijn oordeel aanleiding bestaat, gelet op het voorschrift waarop de overtreding betrekking heeft, geeft de raad van bestuur van de mededingingsautoriteit een bindende aanwijzing als bedoeld in artikel 5a, derde lid, alvorens een last onder dwangsom op te leggen.   
-3.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de raad van bestuur van de mededingingsautoriteit.   
+1.  De Autoriteit Consument en Markt kan ingeval van overtreding van het bepaalde bij of krachtens deze wet, met uitzondering van artikel 13, 22, tweede lid, 26aa, 26ad, vijfde lid, en 26ae, tiende lid, dan wel van overtreding van het bepaalde bij verordening 714/2009, verordening 713/2009 en verordening 1227/2011 de overtreder een last onder dwangsom opleggen.   
+2.  Indien daarvoor naar haar oordeel aanleiding bestaat, gelet op het voorschrift waarop de overtreding betrekking heeft, geeft de Autoriteit Consument en Markt een bindende aanwijzing als bedoeld in artikel 5a, derde lid, alvorens een last onder dwangsom op te leggen.   
+3.  Aan een last onder dwangsom kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan de Autoriteit Consument en Markt.   
 4.  De bevoegdheid tot het opleggen van een last onder dwangsom vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
-5.  Indien de raad van bestuur van de mededingingsautoriteit vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet hij daarvan een rapport opmaken.   
+5.  Indien de Autoriteit Consument en Markt vaststelt dat een overtreding als bedoeld in het eerste lid is begaan, doet zij daarvan een rapport opmaken.   
 6.  [Afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  77i  
 
-1.  De raad van bestuur van de mededingingsautoriteit kan in geval van overtreding van het bepaalde bij of krachtens: 
+1.  De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens: 
 
-a. de artikelen 4a, derde lid, 7, tweede lid, 10, zesde en zevende lid, 9h, 11a, tweede lid, 11b, derde lid, 12, eerste en tweede lid, 15, achtste lid16, eerste lid, onderdelen g, k en l, en tweede lid, onderdeel g, 16Aa, derde en vierde lid, 16a, 17, vierde lid, 17a, derde en vierde lid, 18, derde lid, 19b, 19c, 19d, 19e, 21, negende lid, tweede volzin, 24, tweede lid, 24a, 26ae, twaalfde lid, 38, derde lid, 39, 42, derde lid, 68, tweede lid, 71, 78, tweede lid, 95b, tweede en achtste lid, 95e, 95k, 95l en 95o alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking, en  
+a. de artikelen 4a, derde lid, 7, tweede lid, 10, zesde en zevende lid, 9h, 11a, tweede lid, 11b, derde lid, 12, eerste en tweede lid, 15, achtste lid16, eerste lid, onderdelen g, k en l, en tweede lid, onderdeel g, 16Aa, derde en vierde lid, 16a, 17, vierde lid, 17a, derde en vierde lid, 18, derde lid, 19b, 19c, 19d, 19e, 21, negende lid, tweede volzin, 24, tweede lid, 24a, 26ae, twaalfde lid, 38, derde lid, 39, 42, derde lid, 68, tweede lid, 71, 78, tweede lid, 95b, tweede en achtste lid, 95e, 95k, 95l en 95o alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de artikelen 8, 9 en 15 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 1% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking, en  
 
-b. de artikelen 5a, derde lid, 10a, eerste en tweede lid, 10b, tweede tot en met vijfde lid, 11, eerste lid, 11a, derde lid, 11b, eerste en tweede lid, 16, eerste lid, onderdelen a tot en met f, h tot en met j, n, o en p, tweede lid, onderdelen a tot en met f, vierde lid en zesde lid, 16Aa, eerste en tweede lid, 17, eerste en tweede lid, 17a, eerste en tweede lid, 18, eerste lid, 18a, 19a, 20, derde lid, 21, 23, 24, eerste en derde lid, 26ab, 26ac, 26ad, eerste tot en met vierde lid, 26ae, eerste tot en met vierde lid, zesde, zevende en negende lid, 31, eerste lid, 31b, 36, 37, 43, 55, 56, tweede lid, 57, derde en vierde lid, 68, eerste lid, 79, 84, 86, eerste, tweede en vierde lid86d, 86e, 93b, 95a, eerste lid, 95b, eerste en vijfde lid, 95ca, 95cb, eerste, tweede, vijfde en zesde lid, 95f, tweede lid en 95m de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.     
+b. de artikelen 5a, derde lid, 10a, eerste en tweede lid, 10b, tweede tot en met vijfde lid, 11, eerste lid, 11a, derde lid, 11b, eerste en tweede lid, 16, eerste lid, onderdelen a tot en met f, h tot en met j, n, o en p, tweede lid, onderdelen a tot en met f, vierde lid en zesde lid, 16Aa, eerste en tweede lid, 17, eerste en tweede lid, 17a, eerste en tweede lid, 18, eerste lid, 18a, 19a, 20, derde lid, 21, 23, 24, eerste en derde lid, 26ab, 26ac, 26ad, eerste tot en met vierde lid, 26ae, eerste tot en met vierde lid, zesde, zevende en negende lid, 31, eerste lid, 31b, 36, 37, 43, 55, 56, tweede lid, 57, derde en vierde lid, 68, eerste lid, 79, 84, 86, eerste, tweede en vierde lid86d, 86e, 93b, 95a, eerste lid, 95b, eerste en vijfde lid, 95ca, 95cb, eerste, tweede, vijfde en zesde lid, 95f, tweede lid en 95m en de artikelen 3, 4 en 5 van verordening 1227/2011, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste 10% van de omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.     
 2.  Indien op grond van [artikel 5:1, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toepassing is gegeven aan [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), bedraagt voor de daar bedoelde overtreder de bestuurlijke boete ten hoogste € 450 000.   
 3.  De berekening van de netto-omzet, bedoeld in het eerste lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 
 ### Artikel  77o  
 
-1.  Een beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de raad van bestuur van de mededingingsautoriteit.   
+1.  Een beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt.   
 2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  77q  
@@ -1641,7 +1629,7 @@ a. de voorzienings- en leveringszekerheid van elektriciteit;
 b. de marktordening en de marktwerking;  
 
 c. mede gelet op de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md), het toezicht en de naleving.     
-3.  De Nederlandse Mededingingsautoriteit is belast met de uitvoering van de evaluatie.   
+3.  De Autoriteit Consument en Markt is belast met de uitvoering van de evaluatie.   
 
 ### Artikel  81  
 
@@ -1653,10 +1641,7 @@ De voordracht voor een krachtens artikel 29, 30, 84 of 85 vast te stellen algeme
 
 ### Artikel  82  
 
-1.  Tegen een op grond van deze wet genomen besluit, met uitzondering van een besluit op grond van de artikelen 77h en 77i, kan een belanghebbende beroep instellen bij het College van beroep voor het bedrijfsleven.   
-2.  Indien beroep wordt ingesteld tegen een besluit op grond van de artikelen 77h en 77i is, in afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de rechtbank te Rotterdam bevoegd.   
-3.  Voor zover een door de raad van bestuur van de mededingingsautoriteit genomen besluit, genomen op grond van de artikelen 36, 37, 41, 41c, 55, 56, tweede lid, en 57, derde en vierde lid aangemerkt wordt als algemeen verbindend voorschrift, kan een belanghebbende beroep instellen bij het College van beroep voor het bedrijfsleven.   
-4.  Een representatieve organisatie van partijen op de elektriciteitsmarkt wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.   
+Een representatieve organisatie van partijen op de elektriciteitsmarkt wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.  
 
 ### §  3  
 
@@ -1697,8 +1682,8 @@ b. de voorwaarden die door een netbeheerder of een leverancier in het belang van
 1.  Een producent of een leverancier voert een afzonderlijke boekhouding voor de productie van elektriciteit met behulp van zijn installaties onderscheidenlijk de levering van elektriciteit aan afnemers. Indien de producent of leverancier andere activiteiten verricht dan die welke verband houden met de productie of de levering van elektriciteit, voert hij daarvoor eveneens, al dan niet op geconsolideerde basis, een afzonderlijke boekhouding.   
 2.  Artikel 43, tweede tot en met zevende lid, is van overeenkomstige toepassing op de boekhouding en de jaarrekening van de producent of leverancier.   
 3.  Het eerste en tweede lid zijn niet van toepassing op leveranciers die anders dan bedrijfsmatig elektriciteit leveren.   
-4.  Een leverancier houdt de boekhouding, bedoeld in het eerste lid, gedurende vijf jaar ter beschikking van de raad van bestuur van de mededingingsautoriteit en de Europese Commissie.   
-5.  De raad van bestuur van de mededingingsautoriteit kan informatie uit de boekhouding van de leverancier ter beschikking te stellen aan marktpartijen indien is voldaan aan artikel 40, derde lid, van de richtlijn.   
+4.  Een leverancier houdt de boekhouding, bedoeld in het eerste lid, gedurende vijf jaar ter beschikking van de Autoriteit Consument en Markt en de Europese Commissie.   
+5.  De Autoriteit Consument en Markt kan informatie uit de boekhouding van de leverancier ter beschikking te stellen aan marktpartijen indien is voldaan aan artikel 40, derde lid, van de richtlijn.   
 
 ### §  7  
 
@@ -1726,12 +1711,12 @@ Bij ministeriële regeling worden regels gesteld omtrent het vaststellen of spra
 
 ### Artikel  86c  
 
-1.  Onze Minister beslist op een verzoek om een ontheffing als bedoeld in artikel 17 van verordening 714/2009. De raad van bestuur van de mededingingsautoriteit of, in voorkomend geval, het Agentschap brengt advies aan Onze Minister uit over door hem te nemen besluiten als bedoeld in de eerste volzin.   
+1.  Onze Minister beslist op een verzoek om een ontheffing als bedoeld in artikel 17 van verordening 714/2009. De Autoriteit Consument en Markt of, in voorkomend geval, het Agentschap brengt advies aan Onze Minister uit over door hem te nemen besluiten als bedoeld in de eerste volzin.   
 2.  Op een landsgrensoverschrijdend net dat bij de ingebruikname daarvan over een ontheffing als bedoeld in het eerste lid beschikt, is artikel 93 niet van toepassing.   
 
 ### Artikel  86ca  
 
-Indien ingevolge artikel 8, eerste lid, van de verordening 713/2009 het Agentschap bevoegd is een besluit te nemen over grensoverschrijdende infrastructuur, is de raad van bestuur van de mededingingsautoriteit hiertoe niet bevoegd.  
+Indien ingevolge artikel 8, eerste lid, van de verordening 713/2009 het Agentschap bevoegd is een besluit te nemen over grensoverschrijdende infrastructuur, is de Autoriteit Consument en Markt hiertoe niet bevoegd.  
 
 ### §  10  
 
@@ -1771,6 +1756,24 @@ b. de informatie die producenten, handelaren, leveranciers of netbeheerders vers
 ### Artikel  86g  
 
 Iedere producent en verbruiker van elektriciteit heeft daadwerkelijke keuzevrijheid van leverancier.  
+
+### §  13  
+
+####Registratieplicht
+
+### Artikel  86h  
+
+1.  De Autoriteit Consument en Markt verwerkt een registratie als bedoeld in artikel 9, eerste lid, van verordening 1227/2011 zo spoedig mogelijk.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld over de registratie, bedoeld in het eerste lid.   
+
+### §  14  
+
+####Verbod marktmisbruik
+
+### Artikel  86i  
+
+1.  Het is verboden te handelen in strijd met de artikelen 3, 4 en 5 van verordening 1227/2011.   
+2.  Overtreding van het eerste lid is een misdrijf.   
 
 ### Hoofdstuk  7  
 
@@ -1833,8 +1836,8 @@ e. indien de elektriciteit wordt geleverd in het kader van een overeenkomst als 
 ### Artikel  95b  
 
 1.  Een houder van een vergunning heeft de plicht op een betrouwbare wijze en tegen redelijke tarieven en voorwaarden zorg te dragen voor de levering van elektriciteit aan iedere in artikel 95a, eerste lid, bedoelde afnemer die daarom verzoekt. De voorwaarden zijn in ieder geval niet redelijk als zij niet in overeenstemming zijn met het bepaalde bij of krachtens artikel 95m. Artikel 26a, vijfde lid, is van overeenkomstige toepassing.   
-2.  Een houder van een vergunning verschaft de raad van bestuur van de mededingingsautoriteit ieder jaar en vier weken voor de wijziging van de tarieven een opgave van de tarieven die hij berekent en de voorwaarden die hij gebruikt bij de levering van elektriciteit aan de in artikel 95a, eerste lid, bedoelde afnemers.   
-3.  Indien de raad van bestuur van de mededingingsautoriteit van oordeel is dat de tarieven die houders van een vergunning berekenen onredelijk zijn, omdat daarin de effecten van een doelmatige bedrijfsvoering, die mede inhoudt de inkoop van elektriciteit en van energiebronnen bestemd voor opwekking daarvan, in onvoldoende mate leiden tot kostenverlaging, kan hij een tarief vaststellen dat leveranciers ten hoogste mogen berekenen voor de levering van elektriciteit aan afnemers als bedoeld in artikel 95a, eerste lid.   
+2.  Een houder van een vergunning verschaft de Autoriteit Consument en Markt ieder jaar en vier weken voor de wijziging van de tarieven een opgave van de tarieven die hij berekent en de voorwaarden die hij gebruikt bij de levering van elektriciteit aan de in artikel 95a, eerste lid, bedoelde afnemers.   
+3.  Indien de Autoriteit Consument en Markt van oordeel is dat de tarieven die houders van een vergunning berekenen onredelijk zijn, omdat daarin de effecten van een doelmatige bedrijfsvoering, die mede inhoudt de inkoop van elektriciteit en van energiebronnen bestemd voor opwekking daarvan, in onvoldoende mate leiden tot kostenverlaging, kan zij een tarief vaststellen dat leveranciers ten hoogste mogen berekenen voor de levering van elektriciteit aan afnemers als bedoeld in artikel 95a, eerste lid.   
 4.  Na de vaststelling van het maximumtarief, bedoeld in het derde lid, worden de tarieven voor de levering van elektriciteit aan afnemers als bedoeld in artikel 95a, eerste lid die hoger zijn dan dat maximumtarief, van rechtswege gesteld op dat maximumtarief.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de bepaling of de tarieven, bedoeld in het tweede lid, onredelijk zijn en tot vaststelling van het maximumtarief, bedoeld in het derde lid. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 6.  Het tweede tot en met het zesde lid vervallen op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor een krachtens dit lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
@@ -1843,7 +1846,7 @@ e. indien de elektriciteit wordt geleverd in het kader van een overeenkomst als 
 9.  De in het achtste lid bedoelde preventieve maatregelen kunnen tevens inhouden dat in daarbij omschreven gevallen met in die regeling aangeduide instanties overleg wordt gepleegd alsmede dat in die gevallen aan de desbetreffende instantie in die regeling omschreven gegevens omtrent de afnemer worden verstrekt.   
 10.  De ministeriële regeling, bedoeld in het achtste lid, wordt niet eerder vastgesteld dan nadat de gezamenlijke netbeheerders en de vergunninghouders alsmede de consumentenorganisaties in de gelegenheid zijn gesteld hun zienswijze te geven over de inhoud van de regeling.   
 11.  Bij ministeriële regeling worden regels gesteld over het beperken van de levering van elektriciteit. Deze regels bepalen in elk geval wanneer en onder welke voorwaarden de levering van elektriciteit kan worden beperkt.   
-12.  De raad van bestuur van de mededingingsautoriteit publiceert jaarlijks, op basis van de informatie verkregen op grond van het tweede lid, aanbevelingen over de conformiteit van de leveringsprijzen met artikel 3 van de richtlijn.   
+12.  De Autoriteit Consument en Markt publiceert jaarlijks, op basis van de informatie verkregen op grond van het tweede lid, aanbevelingen over de conformiteit van de leveringsprijzen met artikel 3 van de richtlijn.   
 
 ### Artikel  95c  
 
@@ -1868,7 +1871,7 @@ b. behalve één of meer aansluitingen met een doorlaatwaarde kleiner dan of gel
 1.  Een leverancier heeft ten aanzien van een afnemer als bedoeld in artikel 95a, eerste lid, tot taak de door deze afnemer verschuldigde bedragen voor de uitvoering van de bij of krachtens deze wet aan de netbeheerder opgedragen taken te factureren en innen. De leverancier brengt hiervoor geen kosten in rekening aan de netbeheerder.   
 2.  Het eerste lid is niet van toepassing op bedragen die zijn gebaseerd op tarieven met een eenmalig karakter.   
 3.  De betaling door een afnemer als bedoeld in artikel 95a, eerste lid, aan een leverancier van de overeenkomstig het eerste en tweede lid gefactureerde bedragen geldt als bevrijdende betaling.   
-4.  Rechtsvorderingen tot betaling van de door de leverancier overeenkomstig het eerste en tweede lid gefactureerde bedragen alsmede van de overeenkomstig artikel 16b, tweede lid, gefactureerde tarieven, verjaren door verloop van twee jaren. Indien de leverancier de factuur, bedoeld in het eerste lid, niet binnen twee jaar na het moment dat de betreffende dienst door de netbeheerder aan de afnemer is geleverd, aan de afnemer heeft gezonden, vervalt het recht om voor de betreffende dienst bij de afnemer te factureren.   
+4.  Rechtsvorderingen tot betaling van de door de leverancier overeenkomstig het eerste en tweede lid gefactureerde bedragen alsmede van de overeenkomstig artikel 16b, tweede lid, gefactureerde tarieven, verjaren door verloop van twee jaren. Indien de leverancier een vordering tot betaling van een schuld van een afnemer ter zake van de uitvoering van taken als bedoeld in het eerste lid, niet heeft gedaan binnen twee jaren nadat de vordering opeisbaar is geworden, vervalt het recht om betaling te vorderen.   
 5.  Een leverancier draagt per periode de overeenkomstig het eerste lid gefactureerde of te factureren bedragen af aan de desbetreffende netbeheerder.   
 6.  Bij ministeriële regeling worden regels gesteld over de omvang en het moment van de afdracht, bedoeld in het vijfde lid, ten behoeve van een gelijkmatige afdracht aan de netbeheerders.   
 
@@ -2026,7 +2029,7 @@ c. deze vertegenwoordiger er zorg voor draagt dat hij ten aanzien van alle aansl
 ### Artikel  95na  
 
 1.  Leveranciers zijn verplicht om aan afnemers als bedoeld in artikel 95a, eerste lid, naast eventuele andere vrije contractvormen, levering volgens een modelcontract aan te bieden.   
-2.  De raad van bestuur van de mededingingsautoriteit stelt het modelcontract vast, na consultatie van organisaties van leveranciers, netbeheerders en afnemers.   
+2.  De Autoriteit Consument en Markt stelt het modelcontract vast, na consultatie van organisaties van leveranciers, netbeheerders en afnemers.   
 
 ### Artikel  95o  
 
