@@ -10,29 +10,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de Minister:* de Minister van Veiligheid en Justitie;  
+a.  *de Minister:* de Minister van Veiligheid en Justitie;  
 
-b. *bevoegd gezag:* hetgeen daaronder in het [Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt verstaan;  
+b.  *bevoegd gezag:* hetgeen daaronder in het [Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) wordt verstaan;  
 
-c. *ontslag:* een ontslag als bedoeld in [artikel 88](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) dan wel [artikel 88a van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+c.  *ontslag:* een ontslag als bedoeld in [artikel 88](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) dan wel [artikel 88a van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
 
-d. *betrokkene:* de gewezen ambtenaar als bedoeld in [artikel 88, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), aan wie ontslag is verleend;  
+d.  *betrokkene:* de gewezen ambtenaar als bedoeld in [artikel 88, eerste lid, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), aan wie ontslag is verleend;  
 
-e. *Stichting Pensioenfonds ABP:* de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
+e.  *Stichting Pensioenfonds ABP:* de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  
 
-f. *pensioenreglement:* het pensioenreglement Stichting Pensioenfonds ABP;  
+f.  *pensioenreglement:* het pensioenreglement Stichting Pensioenfonds ABP;  
 
-g. *pensioen:* een pensioen krachtens het pensioenreglement;  
+g.  *pensioen:* een pensioen krachtens het pensioenreglement;  
 
-h. *FPU-reglement:* het Reglement flexibel pensioen en uittreden ter zake van basisuitkering en aanvullende uitkering, bedoeld in artikel 6, tweede lid, van de Centrale vut-overeenkomst overheids- en onderwijspersoneel;  
+h.  *FPU-reglement:* het Reglement flexibel pensioen en uittreden ter zake van basisuitkering en aanvullende uitkering, bedoeld in artikel 6, tweede lid, van de Centrale vut-overeenkomst overheids- en onderwijspersoneel;  
 
-i. *invaliditeitspensioen:* een invaliditeitspensioen krachtens het pensioenreglement;  
+i.  *invaliditeitspensioen:* een invaliditeitspensioen krachtens het pensioenreglement;  
 
-j. *arbeidsongeschiktheid:* arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+j.  *arbeidsongeschiktheid:* arbeidsongeschiktheid in de zin van [artikel 18, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
 
-k. *WAO-uitkering:* een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
+k.  *WAO-uitkering:* een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);  
 
-l. *uitkering:* uitkering, bedoeld in artikel 3.    
+l.  *uitkering:* uitkering, bedoeld in artikel 3.    
 
 ### Artikel  2  
 
@@ -53,9 +53,9 @@ l. *uitkering:* uitkering, bedoeld in artikel 3.
 3.  Bij de berekening van het bedrag van het pensioen, bedoeld in het tweede lid, wordt mede in aanmerking genomen de diensttijd, bedoeld in artikel 5.1, eerste lid, van het pensioenreglement, die de betrokkene bij het bereiken van de leeftijd van 65 jaar zal kunnen aanwijzen.   
 4.  Onder diensttijd, bedoeld in het eerste lid, wordt verstaan: 
 
-a. voor zover gelegen vóór 1 januari 1996: de tijd, die voor betrokkene per 31 december 1995 meetelt voor de pensioenberekening, bedoeld in de Algemene burgerlijke pensioenwet zoals deze luidde op 31 december 1995;  
+a.  voor zover gelegen vóór 1 januari 1996: de tijd, die voor betrokkene per 31 december 1995 meetelt voor de pensioenberekening, bedoeld in de Algemene burgerlijke pensioenwet zoals deze luidde op 31 december 1995;  
 
-b. voor zover gelegen op of na 1 januari 1996: de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).     
+b.  voor zover gelegen op of na 1 januari 1996: de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de [Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).     
 5.  Voor de toepassing van het eerste lid wordt de eventuele diensttijd, bedoeld in artikel D1, tweede lid, van de Algemene burgerlijke pensioenwet, zoals deze luidde op 31 december 1995, in aanmerking genomen. Het verzoek, bedoeld in artikel D2 van die wet wordt daarbij geacht te zijn gedaan.   
 
 ### Artikel  5  
@@ -110,16 +110,16 @@ Indien de betrokkene de gegevens, die noodzakelijk zijn voor de vaststelling of 
 
 1.  Het recht op de uitkering eindigt: 
 
-a. met ingang van de dag waarop betrokkene recht verkrijgt op een WAO-uitkering;  
+a.  met ingang van de dag waarop betrokkene recht verkrijgt op een WAO-uitkering;  
 
-b. met ingang van de dag volgende op die waarop de betrokkene is overleden;  
+b.  met ingang van de dag volgende op die waarop de betrokkene is overleden;  
 
-c. met ingang van de eerste dag van de maand volgende op die waarin de betrokkene de leeftijd van 65 jaar heeft bereikt.     
+c.  met ingang van de eerste dag van de maand volgende op die waarin de betrokkene de leeftijd van 65 jaar heeft bereikt.     
 2.  Het recht op de uitkering kan geheel of ten dele vervallen worden verklaard indien de betrokkene: 
 
-a. zich zodanig gedraagt dat hij, ware hij in dienst gebleven, zou zijn ontslagen;  
+a.  zich zodanig gedraagt dat hij, ware hij in dienst gebleven, zou zijn ontslagen;  
 
-b. weigert mee te werken aan een onderzoek tot vaststelling van zijn arbeidsongeschiktheid ter verkrijging van een WAO-uitkering.     
+b.  weigert mee te werken aan een onderzoek tot vaststelling van zijn arbeidsongeschiktheid ter verkrijging van een WAO-uitkering.     
 
 ### Artikel  15  
 
@@ -147,9 +147,9 @@ Deze regeling treedt in werking op 1 januari 2001.
 
 ### Artikel  18  
 
-Deze regeling wordt aangehaald als: Regeling bijzondere ontslaguitkering politie.  
+Deze regeling wordt aangehaald als: Regeling bijzondere ontslaguitkering politie. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-K.G. deVries    
+K.G. de Vries      
