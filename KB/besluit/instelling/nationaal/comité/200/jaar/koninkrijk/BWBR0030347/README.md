@@ -9,11 +9,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Er is een Nationaal Comité 200 jaar Koninkrijk, hierna te noemen: Nationaal Comité.  
+Er is een Nationaal Comité 200 jaar Koninkrijk, hierna te noemen: Nationaal Comité. 
 
 ### Artikel  2  
 
-Het Nationaal Comité heeft tot taak de viering van 200 jaar Koninkrijk der Nederlanden tussen 2013 en 2015 te organiseren en te coördineren. In de viering zullen centraal staan de verworvenheden van 200 jaar onafhankelijkheid en van ons democratisch bestel. Het Nationaal Comité zal een deel van de festiviteiten zelf voorbereiden en zal daarnaast initiatieven op nationaal, regionaal en lokaal niveau stimuleren.  
+Het Nationaal Comité heeft tot taak de viering van 200 jaar Koninkrijk der Nederlanden tussen 2013 en 2015 te organiseren en te coördineren. In de viering zullen centraal staan de verworvenheden van 200 jaar onafhankelijkheid en van ons democratisch bestel. Het Nationaal Comité zal een deel van de festiviteiten zelf voorbereiden en zal daarnaast initiatieven op nationaal, regionaal en lokaal niveau stimuleren. 
 
 ### Artikel  3  
 
@@ -39,21 +39,21 @@ Het Nationaal Comité heeft tot taak de viering van 200 jaar Koninkrijk der Nede
 − De heer ir. R. Willems.     
 3.  Onze Minister-President, Minister van Algemene Zaken, en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties benoemen elk een adviserend lid.   
 4.  Leden van het Nationaal Comité kunnen worden ontslagen op voordracht van Onze Minister-President, Minister van Algemene Zaken, mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-5.  De secretaris van het Nationaal Comité wordt benoemd door Onze Minister-President, Minister van Algemene Zaken, mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
+5.  De secretaris van het Nationaal Comité wordt benoemd door Onze Minister-President, Minister van Algemene Zaken, mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.  
 
 ### Artikel  4  
 
 1.  Het Nationaal Comité kan werkgroepen instellen voor de uitvoering van bepaalde taken.   
 2.  Van de werkgroepen kunnen ook personen deel uitmaken die geen lid zijn van het Nationaal Comité.   
-3.  Het Nationaal Comité beschikt over een projectbureau, waarvan de secretaris het hoofd is.   
+3.  Het Nationaal Comité beschikt over een projectbureau, waarvan de secretaris of diens plaatsvervanger het hoofd is.  
 
 ### Artikel  5  
 
-De bescheiden van het Nationaal Comité worden na beëindiging van de werkzaamheden overgedragen aan het ministerie van Algemene Zaken.  
+De bescheiden van het Nationaal Comité worden na beëindiging van de werkzaamheden overgedragen aan het ministerie van Algemene Zaken. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en vervalt op 1 januari 2016.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en vervalt op 1 januari 2016. 
 Onze Minister-President, Minister van Algemene Zaken, en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zijn belast met de uitvoering van dit besluit, dat met de nota van toelichting in de Staatscourant zal worden geplaatst en waarvan een afschrift zal worden gezonden naar de in dit besluit genoemden, de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van Aruba, Curaçao en Sint Maarten en de ministeries.   
 
 ’s-Gravenhage 
@@ -62,9 +62,9 @@ Beatrix
 
 De Minister-President,  
 
-Minister van Algemene Zaken,
-M.Rutte 
+Minister van Algemene Zaken, 
+M. Rutte   
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.P.H.Donner   
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.P.H. Donner     
