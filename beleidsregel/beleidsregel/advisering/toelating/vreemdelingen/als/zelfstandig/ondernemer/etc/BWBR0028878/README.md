@@ -70,133 +70,98 @@ M.J.A. van derHoeven
 
 ### Bijlage  1  
 
-####behorend bij artikel 3  van de Beleidsregel advisering toelating vreemdelingen als zelfstandig ondernemer in nederland 2010
+####behorend bij artikel 3, eerste lid , van de Beleidsregel advisering toelating vreemdelingen als zelfstandig ondernemer in Nederland 2010
 
-####Criterium persoonlijke ervaring (minimum score 30 punten)
+Criterium persoonlijke ervaring (minimum score 30 punten) 
 
-| Subonderdelen  | Punten  | Controle  | Opmerking  |
-|:---|:---|:---|:---|
-| Opleiding  (max. 35 punten)  | PhD (Doctor)  | 35  | – Bewijs succesvolle afronding (diploma) vereist  – Opleiding dient gewaardeerd te zijn door *IcDW (Nuffic/Colo)*  | Bij geen directe relatie tussen opleiding en voor de onderneming benodigde kennis max. 5 punten aftrek  |
-| Master (bijv MBA)  | 30  |
-| Technische Studies (master of science)  | 30  |
-| Bachelor (Hogechool etc.)  | 20  |
-| MBO  | 10  |
-| --- | --- | --- | --- | --- |
-| Ondernemerschapservaring  (max. 35 punten)  | 0 tot 35 punten  Positieve indicatoren:  – oprichter/eigenaar onderneming  – lid directie onderneming  Minder punten:  – als ervaring niet relevant is voor onderneming  – als sprake is van marginale betrokkenheid in onderneming  | – Betrokkene dient schriftelijke bewijzen te overleggen (bijv. jaarrekeningen, bewijzen van rol in onderneming etc.)  – Eventuele werkgeversreferenties schriftelijk aantonen  | Deze score kan lagere score op andere onderdelen compenseren  Hardheid bewijsmateriaal en daadwerkelijk niveau van functioneren dienen buiten twijfel te zijn voor een positieve score  |
-| --- | --- | --- | --- | --- |
-| Werkervaring  (max. 10 punten)  | Bachelor/academisch  | --- | Werkgever referenties (schriftelijk aantonen)  | Hardheid bewijsmateriaal en daadwerkelijk niveau van functioneren dienen buiten twijfel te zijn  |
-| < 1 jaar  | 0  |
-| 1 – <2 jaar  | 1  |
-| --- | 2 – < 5 jaar  | 5  |
-| --- | > 5 jaar  | 10  | --- |
-| --- | Seniorniveau  | --- | --- |
-| --- | < 1 jaar  | 0  | --- |
-| --- | 1 – < 2 jaar  | 1  | --- |
-| --- | 2 – < 5 jaar  | 5  | --- |
+| Criterium  | Punten  |--- | Controle  | Opmerking  |
+|:---|:---|:---|:---|:---|
+|  *Opleiding*   (max. 35 punten)  | PhD (Doctor)  | 35  | Diploma als bewijs vereist.  Opleiding dient erkend te zijn door IDW *(Nuffic/Colo)*.  | Geen directe relatie tussen opleiding en voor de onderneming benodigde kennis = max. 5 punten aftrek.  |
+| --- | Master  | 30  | --- | --- |
+| --- | Bachelor  | 20  | --- | --- |
+| --- | MBO-4  | 10  | --- | --- |
+|  *Ondernemerschapservaring*   (max. 35 punten)  | 0–35 punten (t/m)   *Geen/minder punten*   – ervaring is niet relevant voor onderneming  – marginale betrokkenheid in onderneming  – ervaring < 1 jaar   *meer/max. punten*   – actief oprichter/eigenaar onderneming  – lid directie(team)  – > 10 werknemers  – > 5 jaar ervaring  | --- | Ondernemers dienen schriftelijke bewijzen te overleggen (bijv. jaarrekeningen, bewijzen van rol in onderneming etc.).  | Deze score kan lagere score op andere onderdelen compenseren.  Hardheid bewijsmateriaal dient buiten twijfel te zijn voor een positieve score.  Actief: niet alleen aandeelhouder/ financier.  |
+|  *Werkervaring*   (max. 10 punten)  |  *Bachelor/academisch*   | --- | Werkgever-referenties schriftelijk aantonen.  | Hardheid bewijsmateriaal en daadwerkelijk niveau van functioneren dienen buiten twijfel te zijn.  |
+| --- | 1–<2 jaar  | 1  | --- | --- |
+| --- | 2–<5 jaar  | 5  | --- | --- |
 | --- | ≥ 5 jaar  | 10  | --- | --- |
-| --- | Specialistische functie  | --- | --- | --- |
-| --- | < 1 jaar  | 0  | --- | --- |
-| --- | 1 – < 2 jaar  | 1  | --- | --- |
-| --- | 2 – < 5 jaar  | 3  | --- | --- |
-| --- | ≥ 5 jaar  | 6  | --- | --- |
-| --- | --- | --- | --- | --- |
-| Inkomen  (max. 10 punten)  | Bruto inkomen over 12 maanden voorafgaand aan aanvraag:  | Als bewijs kunnen dienen:  – (loon)belastingaanslagen  – Jaarrekening  – Jaaropgave  | Alleen inkomsten gerelateerd aan activiteiten in CV; bedragen zijn gerelateerd aan Nederlandse inkomens, er moet een internationale vergelijking worden gemaakt  |
-| < € 12.000  | 0  |
-| € 12.000 – < € 25.000  | 5  |
-| € 25.000 – < € 45.000  | 7  |
-| ≥ € 45.000  | 10  |
-| --- | --- | --- | --- | --- |
-| Ervaring met Nederland  (max. 10 punten)  | 0 tot 10 punten  Positieve indicatoren:  – referenties potentiële klanten of opdrachtgevers  – referenties Nederlandse (handels) partners  – in Nederland gevolgde opleiding of afgerond proefschrift  | Alleen schriftelijke bewijzen  | Hardheid bewijsmateriaal dient buiten twijfel te zijn;  Bij familiebezoek, inburgeringscursus of vakantie in Nederland geen punten  |
+| --- |  *Seniorniveau*   | --- | --- | --- |
+| --- | 1–<2 jaar  | 1  | --- | --- |
+| --- | 2–<5 jaar  | 5  | --- | --- |
+| --- | ≥ 5 jaar  | 10  | --- | --- |
+| --- |  *Specialistische functie*   | --- | --- | --- |
+| --- | 1–<2 jaar  | 1  | --- | --- |
+| --- | 2–<5 jaar  | 5  | --- | --- |
+| --- | ≥ 5 jaar  | 10  | --- | --- |
+|  *Inkomen*   (max. 10 punten)  | Bruto inkomen over 12 maanden voorafgaand aan aanvraag:  | --- | Als bewijs kunnen dienen:  – (loon)belastingaanslagen  – jaarrekening  – jaaropgave  | Alleen inkomsten gerelateerd aan: activiteiten in CV  |
+| --- | < € 12.000  | 0  | --- | --- |
+| --- | € 12.000–<€ 25.000  | 5  | --- | --- |
+| --- | € 25.000–< €45.000  | 7  | --- | --- |
+| --- | ≥ € 45.000  | 10  | --- | --- |
+|  *Ervaring met Nederland*   (max. 10 punten)  |  *Ondernemerschap 0–4*   – (handels)partners of opdrachtgevers uit NL   *Cultuur 0–2*   – Taal NT2/4   *Opleiding/ervaring 0–4*   – In NL gevolgde opleiding (min. MBO 4) of proefschrift  – Werkervaring als kenniswerker (min. MBO 4)  | --- | Alleen schriftelijke bewijzen.  | Hardheid bewijsmateriaal dient buiten twijfel te zijn;  NT2 niveau 4 of hoger / Europees referentiekader niveau B2 of hoger;  Bij familiebezoek, inburgeringscursus of vakantie in Nederland geen punten  |
 
 ### Bijlage  2  
 
-####behorend bij artikel 4  van de Beleidsregel advisering toelating vreemdelingen als zelfstandig ondernemer in nederland 2010
+####behorend bij artikel 4, eerste lid , van de Beleidsregel advisering toelating vreemdelingen als zelfstandig ondernemer in Nederland 2010
 
-####Criterium ondernemingsplan (minimum score 30 punten)
+Criterium ondernemingsplan (minimum score 30 punten) 
 
-| Subonderdelen  | Punten  | Controle  | Opmerking  |
-|:---|:---|:---|:---|
-| Marktpotentie  (max. 30 punten)  |  *Marktanalyse:*   |  *max. 10*   | Zo veel mogelijk schriftelijke bewijzen (patenten, referenties etc.)  | Aannemelijk dient te worden gemaakt dat product/dienst tegen gewenste prijs in Nederland ook verkocht kan worden  |
-| – marktonderzoek  – potentiële klanten  – concurrenten  – toetredingsbarrières  – samenwerking  – risico’s  |
-| --- | --- | --- | --- | --- |
-| --- |  *Product/dienst:*   |  *max. 15*   | --- | --- |
-| --- | – kenmerken  – toepassing  – behoefte  – unique selling points  – marketing/promotie  | --- | --- |
-| --- | --- | --- | --- | --- |
-| --- |  *Prijs:*   |  *max. 5*   | --- | --- |
-| --- | Duidelijke prijsopbouw met alle kosten daarin verdisconteerd  | --- | --- |
-| --- | --- | --- | --- | --- |
-| Organisatie  (max. 10 punten)  | 0 tot 10 punten  Beoordeling of de voorgestelde structuur, competenties, kennis en vaardigheden passend zijn voor product of dienst  | Zo veel mogelijk schriftelijke bewijzen  | Bij schriftelijke bewijzen meer punten dan bij ontbreken daarvan  |
-| --- | --- | --- | --- | --- |
-| Financiering  (max. 60 punten)  |  *Solvabiliteit (verhouding eigen vermogen-totaal vermogen)*   | Zo veel mogelijk schriftelijk aantonen; documenten moeten zijn goedgekeurd door onafhankelijke deskundige (bijv. in het geval van financiering door een Nederlandse bank)  | Punt van aandacht is realiteit van onderliggende vooronderstellingen  |
-| – Balanstotaal  | --- |
-| < € 15.000  | 0  |
-| --- | Ook bij solvabiliteit van 100%  | NB: indien financiering door een Nederlandse bank is verleend kan zonder verdere controle 50 punten worden gegeven  |
-| --- | --- | --- |
-| --- | – Balanstotaal  | --- | --- |
-| --- | € 15.000 – € 25.000  | --- | --- |
-| --- | Solvabiliteit  | --- | --- |
-| --- | < 20%  | 0  | --- |
-| --- | 20% – < 35%  | 1  | --- |
-| --- | 35% – < 50%  | 3  | --- | --- |
+| Criterium  | Punten  |--- | Controle  | Opmerking  |
+|:---|:---|:---|:---|:---|
+|  *Marktpotentie*   (max. 25 punten)  |  *Product/dienst:*   – kenmerken  – toepassing  – behoefte  – unique selling points  | 0–10  | Marktpotentie:  Voor alle aspecten geldt: Zo veel mogelijk schriftelijk bewijs (patenten referenties enz.).  Geraadpleegde bronnen dienen algemeen aanvaard en/of gerenommeerd te zijn.  | Marktpotentie: Aannemelijk dient te worden gemaakt dat men een positie op de markt kan innemen en dat product/dienst tegen gewenste prijs ook verkocht kan worden met revenuen voor Nederland.  |
+| --- |  *Marktanalyse:*   – marktonderzoek  – potentiële klanten  – concurrenten  – toetredingsbarrières  – samenwerking  – risico’s  – marketing/promotie  | 0–10  | --- | --- |
+| --- |  *Prijs:*   Duidelijke prijsopbouw met alle kosten daarin verdisconteerd  | 0–5  | Kostprijsberekening.  | --- |
+|  *Organisatie*   (max. 25 punten)  | 0–25 punten (t/m)  | --- | Zo veel mogelijk schriftelijke bewijzen  | Bij schriftelijke bewijzen meer punten dan bij ontbreken daarvan.  |
+| --- | – Beoordeling of voorgestelde structuur, competenties, kennis en vaardigheden passend zijn voor product of dienst  | 0–10  | --- | --- |
+| --- | – De ondernemer kan extra punten krijgen voor sector overschrijdende en multidisciplinaire organisatie  | 0–15  | --- | --- |
+|  *Financiering*   (max. 50 punten)  |  *Solvabiliteit (verhouding eigen vermogen-totaal vermogen)*   | --- | Voor alle aspecten: Zo veel mogelijk schriftelijk aantonen; documenten moeten zijn goed gekeurd door onafhankelijke deskundige (bijv. bij financiering door een Nederlandse bank).  | Financiering:  – Prognoses van minstens 3 jaar aanleveren.  – Punt van aandacht is realiteit van onderliggende vooronderstellingen.  – Revenuen voor de Nederlndse economie aantonen.  – Indien al actief in Nederland: aanleveren van jaarrekeningen, BTW- en IB-aangiftes en- beschikkingen.  NB!: indien financiering door een Nederlandse bank is verleend kan zonder verdere controle 50 punten worden gegeven.  |
+| --- |  *Balanstotaal*    *< € 5.000*   Ook bij solvabiliteit van 100%  | 0  | --- | --- |
+| --- |  *Balanstotaal*    *€ 5.000 – € 25.000*   | --- | --- | --- |
+| --- | Solvabiliteit  < 20%  | 0  | --- | --- |
+| --- | 20%–< 35%  | 1  | --- | --- |
+| --- | 35%–< 50%  | 3  | --- | --- |
 | --- | ≥ 50%  | 5  | --- | --- |
-| --- | --- | --- | --- | --- |
-| --- | – Balanstotaal  | --- | --- | --- |
-| --- | € 25.000 – € 50.000  | --- | --- | --- |
-| --- | Solvabiliteit  | --- | --- | --- |
-| --- | < 20%  | 0  | --- | --- |
-| --- | 20% – < 35%  | 4  | --- | --- |
-| --- | 35% – < 50%  | 9  | --- | --- |
-| --- | > 50%  | 13  | --- | --- |
-| --- | --- | --- | --- | --- |
-| --- | – Balanstotaal  | --- | --- | --- |
-| --- | > € 50.000  | --- | --- | --- |
-| --- | Solvabiliteit  | --- | --- | --- |
-| --- | < 20%  | 0  | --- | --- |
-| --- | 20% – < 35%  | 9  | --- | --- |
-| --- | 35% – < 50%  | 19  | --- | --- |
-| --- | ≥ 50%  | 25  | --- | --- |
-| --- | --- | --- | --- | --- |
-| --- | Omzet  | --- | --- | --- |
-| --- | < € 75.000  | 0  | --- | --- |
-| --- | € 75.000 – < € 125.000  | 5  | --- | --- |
-| --- | € 125.000 – < € 250.000  | 10  | --- | --- |
-| --- | € 250.000 – < € 500.000  | 15  | --- | --- |
-| --- | ≥ € 500.000  | 25  | --- | --- |
-| --- | --- | --- | --- | --- |
-| --- |  *Liquiditeitsprognose (gunstige verwachting gedurende):*   | --- | --- |
+| --- |  *Balanstotaal*    *€ 25.000– € 50.000*   Solvabiliteit  < 20%  | 0  | --- | --- |
+| --- | 20%–< 35%  | 4  | --- | --- |
+| --- | 35%–< 50%  | 9  | --- | --- |
+| --- | ≥ 50%  | 13  | --- | --- |
+| --- |  *Balanstotaal*    *> € 50.000*   Solvabiliteit  < 20%  | 0  | --- | --- |
+| --- | 20%–< 35%  | 9  | --- | --- |
+| --- | 35%–< 50%  | 16  | --- | --- |
+| --- | ≥ 50%  | 20  | --- | --- |
+| --- |  *Omzet*   < € 35.000  | 0  | --- | --- |
+| --- | € 35.000–< €100.000  | 5  | --- | --- |
+| --- | €100.000–< €250.000  | 10  | --- | --- |
+| --- | €250.000–< €500.000  | 15  | --- | --- |
+| --- | ≥ € 500.000  | 20  | --- | --- |
+| --- |  *Liquiditeitsprognose (gunstige verwachting gedurende):*   | --- | --- | Aantonen dat de onderneming levensvatbaar is.  |
 | --- | het eerste jaar  | 5  | --- | --- |
 | --- | de eerste 2 jaren  | 8  | --- | --- |
 | --- | de eerste 3 jaren  | 10  | --- | --- |
 
 ### Bijlage  3  
 
-####behorend bij artikel 5  van de Beleidsregel advisering toelating vreemdelingen als zelfstandig ondernemer in nederland 2010
+####behorend bij artikel 5, eerste lid , van de Beleidsregel advisering toelating vreemdelingen als zelfstandig ondernemer in Nederland 2010
 
-####Criterium toegevoegde waarde voor Nederland (minimum score 30 punten)
+Criterium toegevoegde waarde van de economische activiteiten voor de Nederlandse economie (minimum score 30 punten) 
 
-| Subonderdelen  | Punten  | Controle  | Opmerking  |
-|:---|:---|:---|:---|
-| Innovativiteit  (max. 20 punten)  | 0 tot 20 punten  2 criteria:  – is product/dienst nieuw voor Nederlandse markt?  – is sprake van nieuwe technologie bij productie, distributie, marketing?  | Zo veel mogelijk schriftelijke bewijzen  | Bij schriftelijke bewijzen meer punten dan bij ontbreken daarvan  |
-| --- | --- | --- | --- |
-| Arbeidscreatie  (max. 40 punten)  | Aantal arbeidsplaatsen (excl. aanvrager):  | Aantal en aard van de te realiseren arbeidsplaatsen moet blijken uit het ondernemingsplan, waarbij de realiteitswaarde van het plan op dit punt een rol speelt  | De arbeidsplaatsen moeten binnen 1,5 jaar zijn gerealiseerd  |
-| < 0,5 fte  | 0  |
-| --- | 0,5 – < 2 fte  | 10  |
-| --- | 2 – < 5 fte  | 20  |
-| --- | 5 – < 10 fte  | 30  | --- |
-| --- | ≥ 10 fte  | 40  | --- |
-| --- | --- | --- | --- |
-| --- | Bij hoogwaardige arbeidsplaatsen (> € 45.000):  | --- |
-| --- | < 1 fte  | 0  | --- |
-| --- | 1 – < 3 fte  | 20  | --- |
-| --- | 3 – < 6 fte  | 30  | --- |
-| --- | ≥ 6 fte  | 40  | --- |
-| --- | --- | --- | --- | --- |
-| Investeringen  (max. 40 punten)  | Materiële en immateriële vaste activa:  | Hoogte van de investeringen moet blijken uit ondernemingsplan, waarbij de realiteitswaarde van het plan op dit punt een rol speelt  | De investeringen moeten binnen 1 jaar zijn gerealiseerd  |
-| < € 25.000  | 0  |
-| € 25.000 – < € 50.000  | 10  |
-| --- | € 50.000 – < € 100.000  | 20  |
-| --- | € 100.000 – < € 500.000  | 30  | --- |
-| --- | ≥ € 500.000  | 40  | --- |
-| --- | --- | --- | --- | --- |
-| Hoogopgeleide met gedegen ondernemingsplan  | Indien de aanvrager op de criteria Persoonlijke ervaring (bijlage 1) en Ondernemingsplan (bijlage 2) reeds het minimum aantal punten van 90 heeft gehaald (voor bijlage 1. minimaal 45 punten en voor bijlage 2. minimaal 45 punten), maar op het criterium Toegevoegde waarde (bijlage 3) de minimaal benodigde 30 punten niet haalt wordt onderdeel 3. op 30 punten gesteld. Aanvrager krijgt daarmee een positief advies  | --- | --- |
+| Criterium  | Punten  |--- | Controle  | Opmerking  |
+|:---|:---|:---|:---|:---|
+|  *Innovativiteit*   (max. 20 punten)  | 0–20 punten (t/m)  – Is product/dienst nieuw voor Nederlandse markt?  – Is sprake van nieuwe technologie bij productie, distributie, marketing?  – Is sprake van innovatieve organisatorische opzet en werkwijze?  | --- | Zo veel mogelijk schriftelijke bewijzen  | Bij schriftelijke bewijzen meer punten dan bij ontbreken daarvan.  |
+|  *Arbeidscreatie*   (max. 40 punten)  | Aantal arbeidsplaatsen (excl. aanvrager):  | --- | Aantal en aard van te realiseren arbeidsplaatsen moet blijken uit het ondernemingsplan, waarbij de realiteit van het plan op dit punt een rol speelt.  | Binnen 1,5 jaar moeten de arbeidsplaatsen zijn gerealiseerd en de medewerkers ook daadwerkelijk in dienst zijn genomen.  |
+| --- | 0,5–< 2 fte  | 10  | --- | --- |
+| --- | 2–< 5 fte  | 20  | --- | --- |
+| --- | 5–< 10 fte  | 30  | --- | --- |
+| --- | ≥ 10 fte  | 40  | --- | --- |
+| --- | Bij hoogwaardige arbeidsplaatsen  (> € 45.000):  | --- | --- | --- |
+| --- | 1–< 3 fte  | 20  | --- | --- |
+| --- | 3–< 6 fte  | 30  | --- | --- |
+| --- | ≥6 fte  | 40  | --- | --- |
+|  *Investeringen*   (max. 40 punten)  | Materiële en immateriële vaste activa:  | --- | Hoogte van de investeringen moet blijken uit onderne- mingsplan, waarbij de realiteit van het plan op dit punt een rol speelt.  | De investeringen moeten binnen 1 jaar zijn gerealiseerd.  |
+| --- | € 0–< 5.000  | 0  | --- | --- |
+| --- | € 5–< 50.000  | 10  | --- | --- |
+| --- | € 50–< 100.000  | 20  | --- | --- |
+| --- | € 100–< 500.000  | 30  | --- | --- |
+| --- | ≥ € 500.000  | 40  | --- | --- |
+| Hoogopgeleide met gedegen ondernemingsplan  | Indien de aanvrager op de onderdelen A en B reeds het minimum aantal punten van 90 heeft gehaald (voor A. minimaal 45 en voor B. minimaal 45), maar op onderdeel C de minimaal benodigde 30 punten niet haalt wordt onderdeel C op 30 punten gesteld. Aanvrager krijgt daarmee een positief advies.  | --- | --- | --- |
 

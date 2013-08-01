@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
-Gelet op [artikel 7.4.6, tweede lid van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 7.4.6, tweede lid van de Wet educatie en beroepsonderwijs;
 Besluit:    
 
 ### Artikel  1  
@@ -14,13 +14,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:*[Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. *wet:*Wet educatie en beroepsonderwijs;  
 
 b. *examenkandidaat:* deelnemer of examendeelnemer;  
 
 c. *waardepapier:* beveiligde papiersoort die wordt gebruikt voor diploma’s en resultatenlijsten;  
 
-d. *resultatenlijst:* het overzicht waarin de eindwaardering van de examenonderdelen, zoals bedoeld in [artikel 3 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md), zijn opgenomen.    
+d. *resultatenlijst:* het overzicht waarin de eindwaardering van de examenonderdelen, zoals bedoeld in artikel 3 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB, zijn opgenomen.    
 
 ### Artikel  2  
 
@@ -61,13 +61,11 @@ f. een beschermlaag die verkleurt bij mechanische of chemische aantasting.
 
 ### Artikel  6  
 
-####Inwerkingtreding
+Deze regeling treedt in werking op 1 augustus 2013 en is voor het eerst van toepassing op: 
 
-Deze regeling treedt in werking op 1 augustus 2012 en is voor het eerst van toepassing op: 
+a. diploma’s die worden uitgereikt vanaf 1 augustus 2013; en  
 
-a. diploma’s die worden uitgereikt vanaf 1 augustus 2012; en  
-
-b. resultatenlijsten die worden uitgereikt aan examenkandidaten die het examen afleggen op basis van een kwalificatiedossier dat is vastgesteld na inwerkingtreding van het voorstel tot wijziging van onder meer de wet inzake de beroepsgerichte kwalificatiestructuur.    
+b. resultatenlijsten die worden uitgereikt aan examenkandidaten die het examen afleggen op basis van een kwalificatiedossier dat is vastgesteld na 1 januari 2012.    
 
 ### Artikel  7  
 
@@ -84,7 +82,7 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ####behorende bij artikel 2  van de Regeling modeldiploma mbo
 
-![250179](http://wetten.overheid.nl/Illustration/250179)
+![]()
 
 ### Bijlage  2  
 
@@ -92,7 +90,7 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ####Resultatenlijst voor de mbo-niveaus 1 tot en met 3
 
-![250180](http://wetten.overheid.nl/Illustration/250180)
+![]()
 
 ### Bijlage  3  
 
@@ -100,7 +98,7 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ####Resultatenlijst voor mbo-niveau 4
 
-![250181](http://wetten.overheid.nl/Illustration/250181)
+![]()
 
 ### Bijlage  4  
 
@@ -110,11 +108,11 @@ J.M. vanBijsterveldt-Vliegenthart
 
 ####Kwalificatie
 
-De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs (hierna: Crebo), conform [artikel 7.1.2, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) (hierna: de WEB). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie. Voor iedere kwalificatie die een examenkandidaat (deelnemer of examendeelnemer) behaalt, wordt een apart diploma uitgegeven.  
+De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs (hierna: Crebo), conform artikel 7.1.2, eerste lid, van de Wet educatie en beroepsonderwijs (hierna: de WEB). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie. Voor iedere kwalificatie die een examenkandidaat (deelnemer of examendeelnemer) behaalt, wordt een apart diploma uitgegeven.  
 
 ####Kwalificatiedossier
 
-De te hanteren benaming voor een kwalificatiedossier is de benaming zoals vermeld in het Crebo, conform [artikel 7.1.2, eerste lid, van de WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). Als Crebocode dient te worden vermeld de in Crebo opgenomen code van het betreffende kwalificatiedossier.  
+De te hanteren benaming voor een kwalificatiedossier is de benaming zoals vermeld in het Crebo, conform artikel 7.1.2, eerste lid, van de WEB. Als Crebocode dient te worden vermeld de in Crebo opgenomen code van het betreffende kwalificatiedossier.  
 
 ####Niveau
 
@@ -134,11 +132,11 @@ Achter het woord ‘aan’ wordt steeds de naam van de instelling vermeld. De na
 
 ####Eventuele wettelijke beroepsvereisten
 
-Indien op grond van een andere (wettelijke) regeling dan de [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het diploma (en/of op de resultatenlijst), dan is de instelling verplicht om de desbetreffende informatie op het diploma te vermelden.  
+Indien op grond van een andere (wettelijke) regeling dan de WEB een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het diploma (en/of op de resultatenlijst), dan is de instelling verplicht om de desbetreffende informatie op het diploma te vermelden.  
 
 ####Ondertekening
 
-De waardedocumenten worden ondertekend door één of meer leden van de examencommissie en door de examenkandidaat. De handtekeningen moeten feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. In het geval van de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld. De termen ‘(handtekening)’, ‘(naam)’ en ‘(functie)’ mogen worden weggelaten. Boven de ondertekening dienen de plaats en datum waarop de ondertekening van het diploma door de examencommissie plaatsvindt te worden ingevuld. Indien de onderwijsinstelling aan een andere instelling of aan een exameninstelling de examinering heeft uitbesteed overeenkomstig [artikel 7.4.4a van de WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan dient de examencommissie van de instelling waaraan is uitbesteed het diploma te ondertekenen.  
+De waardedocumenten worden ondertekend door één of meer leden van de examencommissie en door de examenkandidaat. De handtekeningen moeten feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. In het geval van de examencommissie dienen de functie en de naam van de ondertekenaar(s) te worden vermeld. De termen ‘(handtekening)’, ‘(naam)’ en ‘(functie)’ mogen worden weggelaten. Boven de ondertekening dienen de plaats en datum waarop de ondertekening van het diploma door de examencommissie plaatsvindt te worden ingevuld. Indien de onderwijsinstelling aan een andere instelling of aan een exameninstelling de examinering heeft uitbesteed overeenkomstig artikel 7.4.4a van de WEB, dan dient de examencommissie van de instelling waaraan is uitbesteed het diploma te ondertekenen.  
 
 ####Extra informatie
 
@@ -154,7 +152,7 @@ De kwalificatie, het kwalificatiedossier, de Crebocode voor zowel de kwalificati
 
 ####Resultaten
 
-De eindwaardering voor een generiek of een specifiek examenonderdeel wordt conform [artikel 15 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md) bepaald. Voor de eindwaardering voor een generiek of een specifiek examenonderdeel, uitgezonderd het onderdeel loopbaan en burgerschap, geldt dat als het resultaat wordt uitgedrukt in een cijfer, dit geschreven wordt zowel in cijfers als in letters. Zo wordt bijvoorbeeld het cijfer 7 ook uitgeschreven als ‘zeven’. Als het resultaat wordt uitgedrukt in een woord, dan wordt het betreffende woord vermeld. In geval van een vrijstelling voor een specifiek examenonderdeel wordt het woord ‘vrijstelling’ vermeld op de resultatenlijst. Bij een vrijstelling voor het examenonderdeel Nederlandse taal of rekenen, op grond van [artikel 3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md), wordt het resultaat zowel in cijfers als in letters op de resultatenlijst geschreven.  
+De eindwaardering voor een generiek of een specifiek examenonderdeel wordt conform artikel 15 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB bepaald. Voor de eindwaardering voor een generiek of een specifiek examenonderdeel, uitgezonderd het onderdeel loopbaan en burgerschap, geldt dat als het resultaat wordt uitgedrukt in een cijfer, dit geschreven wordt zowel in cijfers als in letters. Zo wordt bijvoorbeeld het cijfer 7 ook uitgeschreven als ‘zeven’. Als het resultaat wordt uitgedrukt in een woord, dan wordt het betreffende woord vermeld. In geval van een vrijstelling voor een specifiek examenonderdeel wordt het woord ‘vrijstelling’ vermeld op de resultatenlijst. Bij een vrijstelling voor het examenonderdeel Nederlandse taal of rekenen, op grond van artikel 3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB, wordt het resultaat zowel in cijfers als in letters op de resultatenlijst geschreven.  
 
 ####Aanpassing aan aantal examenonderdelen
 
@@ -162,39 +160,39 @@ De kwalificatiestructuur kent geen deelkwalificaties, daarom zijn de kerntaken b
 
 ####Specifieke examenonderdelen
 
-De benaming van alle specifieke examenonderdelen, te weten de kerntaken, zoals opgenomen in het betreffende kwalificatiedossier, worden vermeld op de resultatenlijst, inclusief de bijhorende resultaten. In [artikel 17 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md) is bepaald dat het examen van een beroepsopleiding met goed gevolg is afgelegd indien onder andere voor alle specifieke examenonderdelen van de betreffende beroepsopleiding een eindwaardering van ten minste het cijfer 6 of ten minste een voldoende is behaald, dan wel op grond van [artikel 14a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md) vrijstelling is verleend. Het verdient aanbeveling de bij de kerntaken behorende werkprocessen op de resultatenlijst te vermelden. De werkprocessen kunnen per kerntaak onder de betreffende kerntaak worden vermeld, eventueel met vermelding van bijbehorende resultaten. Daarnaast kan de instelling ervoor kiezen om in de tabel meer informatie over de specifieke examenonderdelen op te nemen. Te denken valt bijvoorbeeld aan de beroepsgerichte moderne vreemde talen en kennistoetsen. De te hanteren benamingen van de kerntaken en de bijbehorende werkprocessen staan vermeld in het kwalificatiedossier van de betreffende kwalificatie.  
+De benaming van alle specifieke examenonderdelen, te weten de kerntaken, zoals opgenomen in het betreffende kwalificatiedossier, worden vermeld op de resultatenlijst, inclusief de bijhorende resultaten. In artikel 17 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB is bepaald dat het examen van een beroepsopleiding met goed gevolg is afgelegd indien onder andere voor alle specifieke examenonderdelen van de betreffende beroepsopleiding een eindwaardering van ten minste het cijfer 6 of ten minste een voldoende is behaald, dan wel op grond van artikel 14a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB vrijstelling is verleend. Het verdient aanbeveling de bij de kerntaken behorende werkprocessen op de resultatenlijst te vermelden. De werkprocessen kunnen per kerntaak onder de betreffende kerntaak worden vermeld, eventueel met vermelding van bijbehorende resultaten. Daarnaast kan de instelling ervoor kiezen om in de tabel meer informatie over de specifieke examenonderdelen op te nemen. Te denken valt bijvoorbeeld aan de beroepsgerichte moderne vreemde talen en kennistoetsen. De te hanteren benamingen van de kerntaken en de bijbehorende werkprocessen staan vermeld in het kwalificatiedossier van de betreffende kwalificatie.  
 
 ####Generieke examenonderdelen
 
 ####Nederlandse taal en rekenen
 
-Voor Nederlandse taal dient, behalve de eindwaardering, ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform [artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md). Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen. Het referentieniveau, dat op de resultatenlijst wordt vermeld, dient te zijn het referentieniveau waarop de examenkandidaat het examen heeft afgelegd. De referentieniveaus voor de onderdelen Nederlandse taal en rekenen zijn bepaald in de [artikelen 2](../../../../../AMvB/besluit/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027879/README.md) en [3 van het Besluit referentieniveaus Nederlandse taal en rekenen](../../../../../AMvB/besluit/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027879/README.md).  
+Voor Nederlandse taal dient, behalve de eindwaardering, ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB. Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen. Het referentieniveau, dat op de resultatenlijst wordt vermeld, dient te zijn het referentieniveau waarop de examenkandidaat het examen heeft afgelegd. De referentieniveaus voor de onderdelen Nederlandse taal en rekenen zijn bepaald in de artikelen 2 en 3 van het Besluit referentieniveaus Nederlandse taal en rekenen.  
 
 ####Pilotfase Nederlandse taal en rekenen
 
-De resultaten voor de generieke examenonderdelen Nederlandse taal en rekenen worden alleen opgenomen in de tabel ‘Examenonderdelen behorende bij de kwalificatie’ wanneer de centrale examinering van deze onderdelen wettelijk is ingevoerd en de resultaten hiervan meewegen bij de uitslagregel voor het diploma. Voor mbo-4 vindt in studiejaar 2013–2014 voor het eerst centrale examinering plaats en voor mbo-2 en mbo-3 is dit in studiejaar 2014–2015. Tot die tijd is sprake van pilotexamens. De resultaten van deze pilotexamens voor de generieke examenonderdelen Nederlandse taal en rekenen worden niet opgenomen in de tabel ‘Examenonderdelen behorende bij de kwalificatie’. In [artikel 19 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md) is bepaald dat indien een examen in pilotfase of uitsluitend een instellingsexamen voor de generieke onderdelen Nederlandse taal of rekenen van een beroepsopleiding is afgenomen voordat centrale examinering van die onderdelen voor die beroepsopleiding voor de eerste maal plaatsvindt, de waardering daarvan met een cijfer lager dan 6 dan wel met onvoldoende geen gevolgen heeft voor het behalen van het diploma. Indien dit artikel van toepassing is voor het betreffende diploma, dan worden deze generieke examenonderdelen niet vermeld in de tabel ‘Examenonderdelen behorende bij de kwalificatie. De instelling kan er in voornoemd geval voor kiezen om de resultaten voor Nederlandse taal en rekenen te vermelden in een aparte tabel of op een afzonderlijke bijlage bij de resultatenlijst. Zo is ook voor toekomstige werkgevers en instellingen voor vervolgonderwijs duidelijk dat de behaalde resultaten niet hebben meegewogen voor de diplomabeslissing.  
+De resultaten voor de generieke examenonderdelen Nederlandse taal en rekenen worden alleen opgenomen in de tabel ‘Examenonderdelen behorende bij de kwalificatie’ wanneer de centrale examinering van deze onderdelen wettelijk is ingevoerd en de resultaten hiervan meewegen bij de uitslagregel voor het diploma. Voor mbo-4 vindt in studiejaar 2013–2014 voor het eerst centrale examinering plaats en voor mbo-2 en mbo-3 is dit in studiejaar 2014–2015. Tot die tijd is sprake van pilotexamens. De resultaten van deze pilotexamens voor de generieke examenonderdelen Nederlandse taal en rekenen worden niet opgenomen in de tabel ‘Examenonderdelen behorende bij de kwalificatie’. In artikel 19 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB is bepaald dat indien een examen in pilotfase of uitsluitend een instellingsexamen voor de generieke onderdelen Nederlandse taal of rekenen van een beroepsopleiding is afgenomen voordat centrale examinering van die onderdelen voor die beroepsopleiding voor de eerste maal plaatsvindt, de waardering daarvan met een cijfer lager dan 6 dan wel met onvoldoende geen gevolgen heeft voor het behalen van het diploma. Indien dit artikel van toepassing is voor het betreffende diploma, dan worden deze generieke examenonderdelen niet vermeld in de tabel ‘Examenonderdelen behorende bij de kwalificatie. De instelling kan er in voornoemd geval voor kiezen om de resultaten voor Nederlandse taal en rekenen te vermelden in een aparte tabel of op een afzonderlijke bijlage bij de resultatenlijst. Zo is ook voor toekomstige werkgevers en instellingen voor vervolgonderwijs duidelijk dat de behaalde resultaten niet hebben meegewogen voor de diplomabeslissing.  
 
 ####Resultatenlijst bij Nederlandse taal en rekenen bij hoger mbo-niveau en/of vrijstelling
 
-Op grond van de [artikelen 3a](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md) en [3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md) kunnen examenkandidaten de examens van de examenonderdelen Nederlandse taal en/of rekenen afleggen die behoren bij een hoger mbo-niveau dan het mbo-niveau van de beroepsopleiding waarin hij examen doet. Op de resultatenlijst wordt achter de naam van het betreffende examenonderdeel vermeld op welk niveau het examen is afgelegd. Voorbeeld in geval van hoger mbo-niveau: Een examenkandidaat die een opleiding op mbo-niveau 2 volgt, legt het examenonderdeel Nederlandse taal af op mbo-niveau 3. De rij bij het examenonderdeel ‘Nederlands’ in de tabel ‘Examenonderdelen behorend bij de kwalificatie’ wordt op onderstaande wijze ingevuld. Achter het generieke examenonderdeel ‘Nederlandse taal’ in de eerste kolom is ‘mbo-3’ ingevuld. De rij in de tabel ziet er in dat geval als volgt uit:  
+Op grond van de artikelen 3a en 3b van het Examen- en kwalificatiebesluit beroepsopleidingen WEB kunnen examenkandidaten de examens van de examenonderdelen Nederlandse taal en/of rekenen afleggen die behoren bij een hoger mbo-niveau dan het mbo-niveau van de beroepsopleiding waarin hij examen doet. Op de resultatenlijst wordt achter de naam van het betreffende examenonderdeel vermeld op welk niveau het examen is afgelegd. Voorbeeld in geval van hoger mbo-niveau: Een examenkandidaat die een opleiding op mbo-niveau 2 volgt, legt het examenonderdeel Nederlandse taal af op mbo-niveau 3. De rij bij het examenonderdeel ‘Nederlands’ in de tabel ‘Examenonderdelen behorend bij de kwalificatie’ wordt op onderstaande wijze ingevuld. Achter het generieke examenonderdeel ‘Nederlandse taal’ in de eerste kolom is ‘mbo-3’ ingevuld. De rij in de tabel ziet er in dat geval als volgt uit:  
 
 |  *Nederlandse taal, mbo-3*   | Referentieniveau: .....  | Centraal examen: .....  | .....  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Instellingsexamen: .....  |
 
 Voorbeeld in geval van vrijstelling: Een examenkandidaat volgt een opleiding op mbo-niveau 4, maar heeft op grond van het behalen van een havodiploma vrijstelling gekregen voor het examenonderdeel ‘Rekenen’. In dat geval wordt de rij bij het examenonderdeel ‘Rekenen’ in de tabel ‘Examenonderdelen behorend bij de kwalificatie’ op onderstaande wijze ingevuld. Achter het generieke examenonderdeel ‘Rekenen’ in de eerste kolom is ‘havo (vrijstelling)’ ingevuld. De tabel ziet er in dat geval als volgt uit:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Rekenen, havo (vrijstelling)*   | Referentieniveau: .....  | Centraal examen  | .....  |
 
 ####Generieke kwalificatie-eisen Engels
 
-Op de resultatenlijst voor mbo-niveau 4 wordt onder generieke examenonderdelen ook het onderdeel Engels vermeld. Voor dit onderdeel dient behalve de eindwaardering ook het taalbeheersingsniveau volgens het Europees Referentiekader (ERK) te worden vermeld conform [artikel 17a, vierde lid, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md).  
+Op de resultatenlijst voor mbo-niveau 4 wordt onder generieke examenonderdelen ook het onderdeel Engels vermeld. Voor dit onderdeel dient behalve de eindwaardering ook het taalbeheersingsniveau volgens het Europees Referentiekader (ERK) te worden vermeld conform artikel 17a, vierde lid, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB.  
 
 ####Loopbaan en burgerschap
 
-De eindwaardering voor het onderdeel loopbaan en burgerschap wordt conform [artikel 15, derde lid, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md), uitgedrukt met de term ‘niet voldaan’ of ‘voldaan’ op de resultatenlijst. Het examen van een beroepsopleiding is namelijk alleen met goed gevolg afgelegd als voor het onderdeel loopbaan en burgerschap een eindwaardering ‘voldaan’ is behaald, zoals bepaald in [artikel 17 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md).  
+De eindwaardering voor het onderdeel loopbaan en burgerschap wordt conform artikel 15, derde lid, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB, uitgedrukt met de term ‘niet voldaan’ of ‘voldaan’ op de resultatenlijst. Het examen van een beroepsopleiding is namelijk alleen met goed gevolg afgelegd als voor het onderdeel loopbaan en burgerschap een eindwaardering ‘voldaan’ is behaald, zoals bepaald in artikel 17 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB.  
 
 ####Extra informatie
 
@@ -205,11 +203,11 @@ Instellingen hebben net als bij het diploma de mogelijkheid om extra informatie 
 Resultaten van examinering van onderdelen die in de vrije ruimte van een opleiding zijn gevolgd, maar die niet behoren bij de kwalificatie waarvan het betreffende diploma is behaald, mogen op de resultatenlijst worden vermeld. Deze keuze is aan de instelling. Indien de instelling kiest om deze informatie op de resultatenlijst te vermelden, wordt deze geplaatst in een aparte tabel met de titel ‘Examen van overige onderdelen’. Bovengenoemde resultaten worden niet in de tabel ‘Examenonderdelen behorend bij de kwalificatie’ vermeld, omdat deze overige onderdelen geen deel uitmaken van de betreffende kwalificatie en de resultaten hiervan niet van invloed zijn op de uitslagbepaling van de voornoemde kwalificatie en het daarbij bijbehorende diploma. De tabel ‘Examen van overige onderdelen’ ziet er als volgt uit:  
 
 | Examen van overige onderdelen  (Niet van invloed op het behalen van het diploma)  | Resultaat  |
-|:---|:---|
+|---|---|
 | .....  | .....  |
 | .....  | .....  |
 
 ####Eventuele wettelijke beroepsvereisten
 
-Indien op grond van een andere (wettelijke) regeling dan de [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het diploma en/of op de resultatenlijst, is de instelling verplicht de desbetreffende informatie te vermelden. De tekstpassage over wettelijke beroepsvereisten wordt vermeld op de resultatenlijst direct na de tabel ‘Examenonderdelen behorend bij kwalificatie’ en (indien van toepassing) voor de tabel ‘Examen van extra onderdelen’. Tenzij anders bepaald op grond van een andere (wettelijke) regeling dan de [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) luidt de te vermelden tekstpassage, als volgt: ‘De kandidaat heeft voldaan aan de wettelijke beroepsvereisten’. Achter de zinsnede ‘vermeld in’ moet worden ingevuld de (wettelijke) regeling waarin de wettelijke beroepsvereisten wordt bepaald.  
+Indien op grond van een andere (wettelijke) regeling dan de WEB een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het diploma en/of op de resultatenlijst, is de instelling verplicht de desbetreffende informatie te vermelden. De tekstpassage over wettelijke beroepsvereisten wordt vermeld op de resultatenlijst direct na de tabel ‘Examenonderdelen behorend bij kwalificatie’ en (indien van toepassing) voor de tabel ‘Examen van extra onderdelen’. Tenzij anders bepaald op grond van een andere (wettelijke) regeling dan de WEB luidt de te vermelden tekstpassage, als volgt: ‘De kandidaat heeft voldaan aan de wettelijke beroepsvereisten’. Achter de zinsnede ‘vermeld in’ moet worden ingevuld de (wettelijke) regeling waarin de wettelijke beroepsvereisten wordt bepaald.  
 

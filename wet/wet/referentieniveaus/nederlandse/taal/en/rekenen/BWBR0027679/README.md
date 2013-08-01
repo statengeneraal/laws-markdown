@@ -38,9 +38,14 @@ a. het basisonderwijs, bedoeld in de [Wet op het primair onderwijs](../../../../
 
 b. het speciaal onderwijs, bedoeld in de [Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md), met dien verstande dat daarvoor twee referentieniveaus Nederlandse taal en twee referentieniveaus rekenen worden vastgesteld,  
 
-c. de schoolsoorten, bedoeld in [artikel 5, onderdelen a tot en met d, van de Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), met dien verstande dat verschillende referentieniveaus kunnen worden vastgesteld voor en binnen de leerwegen, bedoeld in de [artikelen 10](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [10d van die wet](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en  
+c. de schoolsoorten, bedoeld in [artikel 5, onderdelen a tot en met d, van de Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), met dien verstande dat verschillende referentieniveaus kunnen worden vastgesteld voor en binnen de leerwegen, bedoeld in de [artikelen 10](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [10d van die wet](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
 
-d. de soorten opleidingen, bedoeld in [artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
+d. de soorten opleidingen, bedoeld in [artikel 7.2.2, eerste lid, onderdelen a tot en met e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
+
+e. de opleidingen Nederlandse taal en rekenen, bedoeld in [artikel 7.3.1, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat daarvoor twee referentieniveaus Nederlandse taal en twee referentieniveaus rekenen worden vastgesteld, en  
+
+f. het arbeidsmarktgerichte uitstroomprofiel, bedoeld in [artikel 14, eerste lid, onderdeel b, van de Wet op de expertisecentra](../../../../../../../../wet/isovso/BWBR0003549/README.md).     
+3.  Referentieniveaus Nederlandse taal kunnen worden vastgesteld voor de opleidingen Nederlands als tweede taal, bedoeld in [artikel 7.3.1, eerste lid, onder c, d en e, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met dien verstande dat voor elke opleiding verschillende referentieniveaus kunnen worden vastgesteld.   
 
 ### Artikel  3  
 
@@ -69,6 +74,8 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 ### Artikel  7  
 
 ####Wijziging van de [Leerplichtwet 1969](../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md)
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Wijzigt de Leerplichtwet 1969.   
 

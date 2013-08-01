@@ -39,7 +39,7 @@ c. een samenwerkingsschool als bedoeld in artikel 53d: het bestuur van de samenw
 
 a. de benoemde rector, directeur, conrector, adjunct-directeur of leraar, en overig personeel benoemd in een andere functie dan het geven van onderwijs, waaronder begrepen de leden van het bestuur van die scholen die zijn benoemd door een raad van toezicht als bedoeld in artikel 24e1, derde lid, voor zover die leden mede zijn benoemd op basis van een arbeidsovereenkomst of een akte van aanstelling;  
 
-b. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld, tenzij het betreft de toepassing van de artikelen 38a tot en met 39a, 40a, 43a, eerste en tweede lid, 51, eerste tot en met derde lid, 52, 52a, 53, 53b en 96o, voor zover niet anders is bepaald, en de toepassing van daarmee verband houdende wettelijke bepalingen;   «nascholing»: een vorm van scholing, gegeven aan leden van het personeel om hun kennis, inzicht, vaardigheden en beroepshoudingen direct verband houdend met de uitoefening van hun beroep, voortbouwend op de in de initiële opleiding verworven aanvangsbekwaamheid te verdiepen en uit te breiden; «leerlinggebonden budget»: een leerlinggebonden budget voor een leerling als bedoeld in artikel 77a; «kerndoelen»: de op grond van artikel 11b vastgestelde na te streven inhoudelijke doelstellingen voor het onderwijsprogramma voor de eerste twee leerjaren, bedoeld in artikel 11c, gericht op het verwerven door leerlingen van kennis, inzicht en vaardigheden; maatschappelijke stage: stage gericht op het verwerven van vaardigheden ten behoeve van het functioneren in de maatschappij, bestaande uit onbezoldigde vrijwilligersactiviteiten, niet zijnde de stage bedoeld in artikel 22, derde lid, onderdeel d; meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in [artikel 24h van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); «College voor examens»: het College voor examens, bedoeld in [artikel 2, eerste lid, van de Wet College voor examens](../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md); «basisregister onderwijs»: het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezich](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) t.  
+b. het onder a bedoelde personeel dat zonder benoeming is tewerkgesteld, tenzij het betreft de toepassing van de artikelen 38a tot en met 39a, 40a, 43a, eerste en tweede lid, 51, eerste tot en met derde lid, 52, 52a, 53, 53b en 96o, voor zover niet anders is bepaald, en de toepassing van daarmee verband houdende wettelijke bepalingen;   «nascholing»: een vorm van scholing, gegeven aan leden van het personeel om hun kennis, inzicht, vaardigheden en beroepshoudingen direct verband houdend met de uitoefening van hun beroep, voortbouwend op de in de initiële opleiding verworven aanvangsbekwaamheid te verdiepen en uit te breiden; «leerlinggebonden budget»: een leerlinggebonden budget voor een leerling als bedoeld in artikel 77a; «kerndoelen»: de op grond van artikel 11b vastgestelde na te streven inhoudelijke doelstellingen voor het onderwijsprogramma voor de eerste twee leerjaren, bedoeld in artikel 11c, gericht op het verwerven door leerlingen van kennis, inzicht en vaardigheden; maatschappelijke stage: stage gericht op het verwerven van vaardigheden ten behoeve van het functioneren in de maatschappij, bestaande uit onbezoldigde vrijwilligersactiviteiten, niet zijnde de stage bedoeld in artikel 22, derde lid, onderdeel d; meldingsregister relatief verzuim: meldingsregister relatief verzuim als bedoeld in [artikel 24h van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); «College voor examens»: het College voor examens, bedoeld in [artikel 2, eerste lid, van de Wet College voor examens](../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md); «basisregister onderwijs»: het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); «schoolondersteuningsprofiel»: een beschrijving van de voorzieningen die zijn getroffen voor leerlingen die extra ondersteuning behoeven.  
 
 ### Artikel  2  
 
@@ -199,7 +199,7 @@ Middelbaar algemeen voortgezet onderwijs is het onderwijs dat is ingericht ter v
 ####Theoretische leerweg en sectoren m.a.v.o.
 
 1.  Aan scholen voor middelbaar algemeen voortgezet onderwijs wordt onderwijs in de theoretische leerweg gegeven.   
-2.  De theoretische leerweg omvat een door het bevoegd gezag in te richten in schooltijd verzorgd samenhangend onderwijsprogramma. Het programma omvat voor elke leerling in het derde leerjaar ten minste 1000 uren en in het vierde leerjaar ten minste 700 uren. Het programma is gericht op: 
+2.  De theoretische leerweg omvat een door het bevoegd gezag in te richten in schooltijd verzorgd samenhangend onderwijsprogramma. Het programma is gericht op: 
 
 a. een algemene maatschappelijke voorbereiding en persoonlijke vorming,  
 
@@ -255,7 +255,7 @@ Voorbereidend beroepsonderwijs is het onderwijs dat is ingericht ter voorbereidi
 ####Beroepsgerichte leerweg en sectoren v.b.o.
 
 1.  Aan scholen voor voorbereidend beroepsonderwijs wordt, in elke afdeling als bedoeld in artikel 10c, onderwijs in de basisberoepsgerichte leerweg en de kaderberoepsgerichte leerweg gegeven.   
-2.  De beroepsgerichte leerwegen omvatten een door het bevoegd gezag in te richten in schooltijd verzorgd samenhangend onderwijsprogramma. Het programma omvat voor elke leerling in het derde leerjaar ten minste 1000 uren en in het vierde leerjaar ten minste 700 uren. Het programma is gericht op: 
+2.  De beroepsgerichte leerwegen omvatten een door het bevoegd gezag in te richten in schooltijd verzorgd samenhangend onderwijsprogramma. Het programma is gericht op: 
 
 a. een algemene maatschappelijke voorbereiding en persoonlijke vorming, en  
 
@@ -500,7 +500,7 @@ b. een vestiging van een agrarisch opleidingscentrum wat het daarin verzorgde vo
 1°. het agrarisch opleidingscentrum onderdeel uitmaakt van een scholengemeenschap waarvan tevens een school voor middelbaar algemeen voortgezet onderwijs onderdeel uitmaakt, en  
 
 2°. het voorbereidend beroepsonderwijs op de desbetreffende vestiging deels leerlingen betrekt uit hetzelfde gebied als de desbetreffende school voor middelbaar algemeen voortgezet onderwijs.       
-2.  De gemengde leerweg omvat een door het bevoegd gezag in te richten in schooltijd verzorgd samenhangend onderwijsprogramma. Het programma omvat voor elke leerling in het derde leerjaar ten minste 1000 uren en in het vierde leerjaar ten minste 700 uren. Het programma is gericht op: 
+2.  De gemengde leerweg omvat een door het bevoegd gezag in te richten in schooltijd verzorgd samenhangend onderwijsprogramma. Het programma is gericht op: 
 
 a. een algemene maatschappelijke voorbereiding en persoonlijke vorming, en  
 
@@ -573,7 +573,7 @@ a. overwegend een orthopedagogische en orthodidactische benadering is geboden, e
 
 b. het volgen van het onderwijs in een van de leerwegen, genoemd in de artikelen 10, 10b en 10d, al dan niet in combinatie met het volgen van leerwegondersteunend onderwijs, bedoeld in artikel 10e, niet leidt tot het behalen van een diploma of een getuigschrift voorbereidend middelbaar beroepsonderwijs als bedoeld in artikel 29.     
 3.  Praktijkonderwijs bestaat uit een gedeelte waarin aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden worden verzorgd, en een gedeelte waarin de leerling wordt voorbereid op het uitoefenen van functies op de arbeidsmarkt. Praktijkonderwijs wordt zo veel mogelijk op basis van de kerndoelen verzorgd en is er op gericht dat leerlingen zo veel mogelijk het referentieniveau Nederlandse taal en het referentieniveau rekenen bereiken die voor het praktijkonderwijs zijn vastgesteld op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md). Praktijkonderwijs bereidt de leerling voor op functies binnen de regionale arbeidsmarkt op een niveau dat ligt onder het niveau van de assistentopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)   
-3a.  In afwijking van artikel 11c, eerste lid, onder b, wordt het praktijkonderwijs zodanig ingericht dat de leerlingen per schooljaar ten minste 1000 klokuren praktijkonderwijs ontvangen. De leerlingen ontvangen per dag ten hoogste 5,5 uren praktijkonderwijs, voor zover het betreft aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden.    
+3a.  In afwijking van artikel 6g, eerste lid, wordt het praktijkonderwijs zodanig ingericht dat de leerlingen per leerjaar ten minste 1000 klokuren praktijkonderwijs ontvangen. De leerlingen ontvangen per dag ten hoogste 5,5 uren praktijkonderwijs, voor zover het betreft aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden.    
 4.  Het bevoegd gezag van een school voor praktijkonderwijs kan, met inachtneming van de tweede volzin van het derde lid en van lid 3a, indien dat ten behoeve van de leerling noodzakelijk is, bij het aanbieden van dat onderwijs afwijken van de voorschriften, gegeven bij of krachtens de artikelen 11a tot en met 11c, 22 en 29.   
 5.  Bij algemene maatregel van bestuur worden voorschriften vastgesteld met betrekking tot de vakken en de maatschappelijke stage, bedoeld in artikel 6f, die het praktijkonderwijs omvat, alsmede met betrekking tot het aantal uren dat het onderricht in de praktijk van de uitoefening van een vak of beroep gedurende een schoolweek ten hoogste omvat. De algemene maatregel van bestuur, bedoeld in de eerste volzin, bevat tevens voorschriften omtrent het in uren uitgedrukte tijdsbestek dat door de leerling moet worden besteed aan de maatschappelijke stage, bedoeld in de eerste volzin.   
 6.  De in het vijfde lid bedoelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
@@ -684,11 +684,9 @@ m. beeldende vorming, muziek, drama en dans.
 
 1.  Het bevoegd gezag richt voor de eerste twee leerjaren een in schooltijd verzorgd samenhangend onderwijsprogramma in. Dit programma voldoet aan de volgende voorwaarden: 
 
-a. het bevoegd gezag werkt de kerndoelen uit voor de verschillende schoolsoorten en verschillende groepen leerlingen, onverminderd de doorstroombevordering met behoud van keuzevrijheid van leerlingen, bedoeld in artikel 11a,  
+a. het bevoegd gezag werkt de kerndoelen uit voor de verschillende schoolsoorten en verschillende groepen leerlingen, onverminderd de doorstroombevordering met behoud van keuzevrijheid van leerlingen, bedoeld in artikel 11a, en  
 
-b. het programma omvat per leerjaar ten minste 1040 uren, en  
-
-c. in de eerste twee leerjaren worden gezamenlijk ten minste 1425 uren onderwijs verzorgd op basis van de kerndoelen.     
+b. in de eerste twee leerjaren worden gezamenlijk ten minste 1425 uren onderwijs verzorgd op basis van de kerndoelen.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven voor het verzorgen van onderwijs in de eerste twee leerjaren naast het onderwijs dat wordt verzorgd op basis van de kerndoelen.   
 3.  De algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Een maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken.   
 4.  Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van het eerste lid.   
@@ -721,7 +719,7 @@ Op het onderwijs in het derde leerjaar aan scholen voor voorbereidend wetenschap
 
 a. artikel 11a, en  
 
-b. artikel 11c met uitzondering van het eerste lid, onderdelen a en c.    
+b. artikel 11c met uitzondering van het eerste lid, tweede volzin.    
 
 ### Artikel  12  
 
@@ -751,7 +749,7 @@ a. een gemeenschappelijk deel, dat voor alle profielen van de desbetreffende sch
 b. een profieldeel, dat kenmerkend is voor dat profiel, en  
 
 c. een vrij deel.     
-5.  Het bevoegd gezag richt het onderwijs in de periode van voorbereidend hoger onderwijs in op de grondslag van een normatieve studielast voor de leerling van 1600 uren per leerjaar, uitgaande van 40 weken met elk een normatieve studielast van 40 uren. Het bevoegd gezag richt een in schooltijd verzorgd onderwijsprogramma in dat voor elke leerling ten minste 1000 uren per leerjaar omvat, met dien verstande dat het programma in het laatste leerjaar ten minste 700 uren omvat.   
+5.  Het bevoegd gezag richt het onderwijs in de periode van voorbereidend hoger onderwijs in op de grondslag van een normatieve studielast voor de leerling van 1600 uren per leerjaar, uitgaande van 40 weken met elk een normatieve studielast van 40 uren. Het bevoegd gezag richt daarbij een in schooltijd verzorgd samenhangend onderwijsprogramma in.   
 
 ### Artikel  13  
 
@@ -947,11 +945,37 @@ c. is er mede op gericht dat leerlingen kennis hebben van en kennismaken met ver
 3a.   Dit lid is nog niet in werking getreden.    
 4.  De bevoegde gezagsorganen van de scholen, bedoeld in het tweede lid, geven het samenwerkingsverband vorm door het oprichten van een rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk, waarin uitsluitend deze bevoegde gezagsorganen deelnemen, behoudens deelname van een bevoegd gezag op grond van het vijfde lid. De statuten van de rechtspersoon bevatten een voorziening voor de beslechting van geschillen.   
 5.  Indien het bevoegd gezag van een school voor voortgezet speciaal onderwijs of een school voor speciaal en voortgezet speciaal onderwijs, behorend tot cluster 3 en 4, bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), waarvan de vestiging of vestigingen zijn gelegen buiten het gebied van een samenwerkingsverband, wenst deel te nemen aan dit samenwerkingsverband, wordt dit bevoegd gezag niet uitgesloten van deelname aan het samenwerkingsverband.   
-6.   Dit lid is nog niet in werking getreden.    
-7.   Dit lid is nog niet in werking getreden.    
-8.   Dit lid is nog niet in werking getreden.    
-9.   Dit lid is nog niet in werking getreden.    
-10.   Dit lid is nog niet in werking getreden.    
+6.  Het samenwerkingsverband heeft in elk geval tot taak: 
+
+a. het vaststellen van een ondersteuningsplan,  
+
+b.  dit onderdeel is nog niet in werking getreden,   
+
+c.  dit onderdeel is nog niet in werking getreden,   
+
+d.  dit onderdeel is nog niet in werking getreden,   
+
+e.  dit onderdeel is nog niet in werking getreden.      
+7.  Het samenwerkingsverband stelt ten minste eenmaal in de 4 jaar een ondersteuningsplan vast. Bij het vaststellen van het ondersteuningsplan kunnen door het samenwerkingsverband slechts beperkingen worden gesteld aan de door de school gewenste invulling van het schoolondersteuningsprofiel, indien dat voor het samenwerkingsverband met het oog op de beschikbare ondersteuningsmiddelen en ondersteuningsvoorzieningen een onevenredige belasting zou vormen.   
+8.  Het ondersteuningsplan omvat in elk geval: 
+
+a. de wijze waarop wordt voldaan aan het tweede lid, tweede volzin, waaronder tevens zijn begrepen de basisondersteuningsvoorzieningen die op alle vestigingen van scholen in het samenwerkingsverband aanwezig zijn,  
+
+b. de procedure en criteria voor de verdeling, besteding en toewijzing van ondersteuningsmiddelen en ondersteuningsvoorzieningen aan de scholen, bedoeld in het tweede lid, mede bezien in het perspectief van een meerjarenbegroting,  
+
+c. de procedure en criteria voor de plaatsing van leerlingen op scholen voor voortgezet speciaal onderwijs en speciaal en voortgezet speciaal onderwijs,  
+
+d. de procedure en het beleid met betrekking tot de terugplaatsing of overplaatsing naar het voortgezet onderwijs van leerlingen van scholen voor voortgezet speciaal onderwijs en speciaal en voortgezet speciaal onderwijs voor wie de periode waarop de toelaatbaarheidsverklaring, bedoeld in [artikel 40, twaalfde lid, van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) betrekking heeft, is verstreken,  
+
+e. de beoogde en bereikte kwalitatieve en kwantitatieve resultaten van het onderwijs aan leerlingen die extra ondersteuning behoeven en de daarmee samenhangende bekostiging,  
+
+f. de wijze waarop aan de ouders informatie wordt verstrekt over de ondersteuningsvoorzieningen en over de onafhankelijke ondersteuningsmogelijkheden voor ouders,  
+
+g. de wijze waarop wordt bepaald of de situaties, bedoeld in artikel 85d, zich voordoen, waaronder de vaststelling van de in artikel 85d, eerste lid, bedoelde peildatum, die is gelegen in de periode van 2 oktober tot en met 31 juli daaropvolgend, en  
+
+h. de wijze waarop wordt vastgesteld wat het aandeel van de onderscheiden scholen, bedoeld in het tweede lid, is in de overdracht van de bekostiging in een situatie als bedoeld in artikel 85d, derde lid.     
+9.  Het ondersteuningsplan wordt niet vastgesteld voordat over een concept van het plan op overeenstemming gericht overleg heeft plaatsgevonden met burgemeester en wethouders van de desbetreffende gemeente of gemeenten en overleg heeft plaatsgevonden met het samenwerkingsverband, bedoeld in [artikel 18a, tweede lid, van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), waarvan het gebied geheel of gedeeltelijk samenvalt met het gebied van het samenwerkingsverband. Het overleg met burgemeester en wethouders vindt plaats overeenkomstig een procedure, vastgesteld door het samenwerkingsverband en burgemeester en wethouders van die gemeente of gemeenten. De procedure bevat een voorziening voor het beslechten van geschillen.   
+10.  Het ondersteuningsplan wordt voor 1 mei voorafgaand aan het eerste schooljaar van de periode waarop het plan betrekking heeft, toegezonden aan de inspectie.   
 10a.   Dit lid is nog niet in werking getreden.    
 11.   Dit lid is nog niet in werking getreden.    
 12.   Dit lid is nog niet in werking getreden.    
@@ -959,7 +983,14 @@ c. is er mede op gericht dat leerlingen kennis hebben van en kennismaken met ver
 14.   Dit lid is nog niet in werking getreden.    
 15.   Dit lid is nog niet in werking getreden.    
 16.  Bevoegde gezagsorganen van tot dezelfde richting behorende scholen en scholen als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) waaraan voortgezet speciaal onderwijs behorend tot cluster 3 en 4 wordt verzorgd, kunnen een landelijk samenwerkingsverband oprichten. Een landelijk samenwerkingsverband omvat alle in Nederland gelegen en tot dezelfde richting behorende scholen als bedoeld in de eerste volzin. Op een landelijk samenwerkingsverband zijn het tweede tot en met vijftiende lid, met uitzondering van het derde en vijfde lid, en het zeventiende lid van overeenkomstige toepassing. Indien een bevoegd gezag scholen heeft met meer dan een richting bepaalt het bevoegd gezag eenmalig op basis van welke richting de aansluiting bij het samenwerkingsverband plaatsvindt.   
-17.   Dit lid is nog niet in werking getreden.    
+17.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden vastgesteld met betrekking tot de samenwerkingsverbanden.   
+
+### Artikel  17b  
+
+####Begeleiding van leerlingen die extra ondersteuning behoeven
+
+1.   Dit lid is nog niet in werking getreden.    
+2.  Het bevoegd gezag stelt ten minste eenmaal in de 4 jaar een schoolondersteuningsprofiel vast.   
 
 ### Artikel  18  
 
@@ -1006,7 +1037,7 @@ c. in voorkomend geval welk onderwijs de school verzorgt met toepassing van arti
 ####Overige voorschriften inrichting onderwijs
 
 1.  Bij of krachtens algemene maatregel van bestuur worden voor de scholen voor voorbereidend wetenschappelijk onderwijs, algemeen voortgezet onderwijs en voorbereidend beroepsonderwijs voorschriften vastgesteld omtrent de inrichting van het onderwijs. Deze voorschriften kunnen per schoolsoort verschillen. Voor de scholen, bedoeld in de artikelen 7, 8, 9 en 10a, kunnen afzonderlijke voorschriften worden gegeven. De bij deze algemene maatregel van bestuur gegeven voorschriften zijn niet van toepassing op scholen en afdelingen voor voorbereidend beroepsonderwijs waarvoor artikel 24, vijfde lid, wordt toegepast. De algemene maatregel van bestuur, bedoeld in de eerste volzin, wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
-2.  De algemene maatregel van bestuur, bedoeld in het eerste lid, houdt voor alle schoolsoorten voorschriften in omtrent de tijd die per cursusjaar ten hoogste voor vakantie mag worden besteed, met dien verstande dat begin en einde van de zomervakantie kunnen worden voorgeschreven.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden vastgesteld omtrent vakanties en andere dagen waarop geen onderwijs behoeft te worden verzorgd. Bij ministeriële regeling kunnen begin en eind van vakanties worden vastgesteld die niet voor alle scholen gelijk behoeven te zijn.   
 3.  De algemene maatregel van bestuur, bedoeld in het eerste lid kan, naast het bepaalde in het tweede lid, slechts voorschriften inhouden omtrent: 
 
 a. de maatschappelijke stage, bedoeld in artikel 6f, waaronder het in uren uitgedrukte tijdsbestek dat door de leerling daaraan moet worden besteed,  
@@ -1055,7 +1086,7 @@ Het bevoegd gezag rapporteert over de vorderingen van de leerlingen aan hun oude
 ####Schoolplan
 
 1.  Het schoolplan bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs. Het schoolplan omvat mede het beleid ten aanzien van de aanvaarding van materiële bijdragen of geldelijke bijdragen, niet zijnde ouderbijdragen of op de onderwijswetgeving gebaseerde bijdragen, indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd. In het schoolplan wordt aangegeven op welke wijze invulling wordt gegeven aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool. Het schoolplan kan op een of meer scholen voor voortgezet onderwijs en een of meer scholen voor ander onderwijs van hetzelfde bevoegd gezag betrekking hebben.   
-2.  Het onderwijskundig beleid omvat in elk geval de uitwerking van de wettelijke opdrachten voor het onderwijs en van de door het bevoegd gezag in het schoolplan opgenomen eigen opdrachten voor het onderwijs in een onderwijsprogramma. Daarbij worden tevens betrokken de voorzieningen die zijn getroffen voor leerlingen met specifieke onderwijsbehoeften en voor leerlingen voor wie een leerlinggebonden budget beschikbaar is.   
+2.  Het onderwijskundig beleid omvat in elk geval de uitwerking van de wettelijke opdrachten voor het onderwijs en van de door het bevoegd gezag in het schoolplan opgenomen eigen opdrachten voor het onderwijs in een onderwijsprogramma. Daarbij wordt tevens het schoolondersteuningsprofiel betrokken.   
 3.  Het personeelsbeleid, voor zover dat in het schoolplan tot uitdrukking wordt gebracht, omvat in elk geval maatregelen met betrekking tot het personeel die bijdragen aan de ontwikkeling en de uitvoering van het onderwijskundig beleid alsmede het document inzake evenredige vertegenwoordiging van vrouwen in de schoolleiding, bedoeld in artikel 32d van de wet.   
 4.  Het beleid met betrekking tot de bewaking en verbetering van de kwaliteit van het onderwijs omvat in elk geval: 
 
@@ -1080,7 +1111,13 @@ a. de doelen van het onderwijs en de resultaten die met het onderwijsleerproces 
 
 b. de wijze waarop aan de zorg voor leerlingen met specifieke onderwijsbehoeften en voor leerlingen voor wie een leerlinggebonden budget beschikbaar is, wordt vormgegeven  
 
-c. de wijze waarop de verplichte onderwijstijd wordt benut, de inrichting van het onderwijsprogramma voor de eerste twee leerjaren waarbij wordt aangegeven of sprake is van vakoverstijgende programmaonderdelen en de inzet van het personeel daarbij alsmede de invulling van de maatschappelijke stage, bedoeld in artikel 6f,  
+c. 
+
+1°. het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in artikel 6g, eerste lid, wordt geprogrammeerd, de vakanties en andere dagen waarop geen onderwijs wordt verzorgd, alsmede wat het beleid is ten aanzien van lesuitval,  
+
+2°. de inrichting van het onderwijsprogramma voor de eerste twee leerjaren waarbij wordt aangegeven of sprake is van vakoverstijgende programmaonderdelen en de inzet van het personeel daarbij,  
+
+3°. de invulling van de maatschappelijke stage, bedoeld in artikel 6f;    
 
 d. de geldelijke bijdrage, bedoeld in artikel 27, tweede lid, waarbij wordt vermeld dat deze vrijwillig is,  
 
@@ -1189,7 +1226,7 @@ De programma's dan wel beschrijvingen van de contractactiviteiten worden ter ken
 
 ####Bijzondere inrichting school
 
-Ten behoeve van de bijzondere inrichting van het onderwijs aan een school kan Onze minister toestaan dat van de artikelen 7 tot en met 11f, 12 tot en met 15, en van de voorschriften, bedoeld in artikel 22, wordt afgeweken. Onze minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.  
+Ten behoeve van de bijzondere inrichting van het onderwijs aan een school kan Onze minister toestaan dat van de artikelen 6g, 7 tot en met 11f, 12 tot en met 15, en van de voorschriften, bedoeld in artikel 22, wordt afgeweken. Onze minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.  
 
 ### Artikel  25a  
 
@@ -1346,9 +1383,10 @@ Bij algemene maatregel van bestuur kan worden bepaald dat aan de leerlingen van 
 1b.  Onze Minister besluit of toepassing wordt gegeven aan lid 1a nadat het bevoegd gezag van de school gedurende een periode van tenminste drie jaar de gelegenheid heeft gehad, het gemiddelde verschil, bedoeld in lid 1a, ongedaan te maken voor zover dat verschil meer dan een half punt bedraagt.   
 2.  Het eindexamen wordt afgenomen door de rector, de directeur, de conrector, de adjunct-directeur of een of meer leden van de centrale directie en leraren van de school. Het eindexamen staat onder toezicht van een of meer gecommitteerden behoudens voor bij of krachtens algemene maatregel van bestuur aan te wijzen examens en examenonderdelen. Bij of krachtens algemene maatregel van bestuur wordt bepaald door wie en op welke wijze de gecommitteerden worden aangewezen. Het eindexamen kan mede worden afgenomen door deskundigen. Het bevoegd gezag wijst de deskundigen aan.   
 3.  Zij die het eindexamen met goed gevolg hebben afgelegd, ontvangen een diploma. Leerlingen van een school voor voorbereidend beroepsonderwijs voor zover het betreft de basisberoepsgerichte leerweg, die met goed gevolg een gedeelte van het examenprogramma hebben afgelegd, ontvangen een getuigschrift voorbereidend middelbaar beroepsonderwijs en leerlingen die een leer-werktraject met goed gevolg afsluiten, ontvangen een diploma basisberoepsgerichte leerweg/leer-werktraject. Onze minister stelt de modellen van diploma's en getuigschriften vast.   
-4.  Bij of krachtens algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de in dit artikel bedoelde eindexamens, alsmede omtrent programma-onderdelen, die niet voor alle leerlingen van een school dezelfde vakken en andere programma-onderdelen behoeven te omvatten. Bij deze algemene maatregel van bestuur worden tevens de eindexamenprogramma's vastgesteld. De algemene maatregel van bestuur, bedoeld in de vorige volzinnen, wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
-5.  Voor examens, die niet vanwege de school worden afgenomen, kunnen bij algemene maatregel van bestuur voorschriften worden gegeven.   
-6.  Ten behoeve van de bijzondere inrichting van het onderwijs aan een school kan Onze minister toestaan dat wordt afgeweken van het bepaalde bij of krachtens dit artikel. Onze minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
+4.  Bij of krachtens algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de in dit artikel bedoelde eindexamens, alsmede omtrent programma-onderdelen, die niet voor alle leerlingen van een school dezelfde vakken en andere programma-onderdelen behoeven te omvatten. Bij deze algemene maatregel van bestuur worden tevens de eindexamenprogramma's vastgesteld. Bij de vaststelling van de eindexamenprogramma’s Nederlandse taal respectievelijk Nederlandse taal en literatuur worden de referentieniveaus Nederlandse taal in acht genomen die voor de desbetreffende schoolsoorten of voor dan wel binnen leerwegen zijn vastgesteld op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md). De algemene maatregel van bestuur, bedoeld in de eerste en tweede volzin, wordt aan de beide Kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en niet door of namens een van beide Kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
+5.  De eindexamens omvatten een rekentoets. Bij de vaststelling van de opgaven van de rekentoets worden de referentieniveaus rekenen in acht genomen die voor de desbetreffende schoolsoorten of voor dan wel binnen leerwegen zijn vastgesteld op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md). Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften omtrent deze toets vastgesteld.   
+6.  Voor examens, die niet vanwege de school worden afgenomen, kunnen bij algemene maatregel van bestuur voorschriften worden gegeven.   
+7.  Ten behoeve van de bijzondere inrichting van het onderwijs aan een school kan Onze minister toestaan dat wordt afgeweken van het bepaalde bij of krachtens dit artikel. Onze minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 
 ### Artikel  29a  
 
@@ -2098,7 +2136,7 @@ Het bestuur van een bijzondere school voor voortgezet onderwijs geeft binnen vie
 
 1.  Onze minister kan de school, die ten aanzien van de duur van de cursus, het schoolplan en de bevoegdheden van de leraren overeenkomt met een school voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs, voor middelbaar algemeen voortgezet onderwijs of voor voorbereidend beroepsonderwijs, als bedoeld in artikel 29, eerste lid, aanwijzen als bevoegd om aan de leerlingen op grond van het met gunstig gevolg afleggen van een eindexamen aan de school het diploma uit te reiken, bedoeld in het derde lid van dat artikel.   
 1a.  Artikel 29, leden 1a en 1b, zijn van overeenkomstige toepassing op de bevoegdheid het eindexamen af te nemen, bedoeld in het eerste lid.   
-2.  Artikel 29, tweede en vierde lid, is op dit eindexamen van toepassing.   
+2.  Artikel 29, tweede, vierde en vijfde lid, is op dit eindexamen van toepassing.   
 3.  Onze minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 
 ### Artikel  57  
@@ -2113,7 +2151,7 @@ c. de statuten en het reglement van de rechtspersoon met volledige rechtsbevoegd
 
 ### Artikel  58  
 
-1.  Het schoolplan van een ingevolge artikel 56 aangewezen school voldoet ten minste aan de voorschriften, gegeven bij of krachtens de artikelen 10, 10b, 10d, 11a tot en met 11f, 12 tot en met 15, 22 en 24.   
+1.  Het schoolplan van een ingevolge artikel 56 aangewezen school voldoet ten minste aan de voorschriften, gegeven bij of krachtens de artikelen 6g, 10, 10b, 10d, 11a tot en met 11f, 12 tot en met 15, 22 en 24.   
 2.  Bij wijziging van het schoolplan doet het schoolbestuur daarvan onmiddellijk mededeling aan de inspectie.   
 3.  Onze minister kan ten behoeve van de bijzondere inrichting van het onderwijs aan de school toestaan, dat wordt afgeweken van het eerste lid. Onze minister besluit binnen zes maanden na ontvangst van een aanvraag. Indien de beschikking niet binnen zes maanden kan worden gegeven, stelt Onze minister de aanvrager daarvan in kennis en noemt hij daarbij een termijn waarbinnen de beschikking wel tegemoet kan worden gezien.   
 4.  De naam van de school duidt aan, met welke van de uit de openbare kas bekostigde scholen zij overeenkomt.   
@@ -2138,6 +2176,20 @@ f. de artikelen 118g tot en met 118i.
 
 Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan de artikelen 56 en 58, met uitzondering van artikel 58, zevende lid, onderdeel f, of indien van misbruik van de verleende aanwijzing is gebleken. De aanwijzing kan door Onze minister tevens worden ingetrokken indien het schoolbestuur of het personeel van de school in strijd handelt met [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
+### Afdeling  IIa  
+
+####Toepassing bepalingen afdeling II  op scholen als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md)
+
+### Artikel  59a  
+
+####Aanwijzing scholen voortgezet speciaal onderwijs
+
+1.  De artikelen 56 tot en met 59, met uitzondering van artikel 57, onderdeel c, en artikel 58, zevende en achtste lid, zijn van overeenkomstige toepassing op scholen als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) waar voortgezet speciaal onderwijs wordt verzorgd. Ten aanzien van scholen waar toepassing is gegegeven aan de eerste volzin, zijn de voorschriften gegeven bij of krachtens de artikelen 6f en 28b van overeenkomstige toepassing.   
+2.  Ten aanzien van scholen waar toepassing is gegeven aan het eerste lid, zijn de artikelen 10b1 tot en met 10b8 en 10b9, eerste en tweede lid, van overeenkomstige toepassing voor zover het betreft de basisberoepsgerichte leerweg van het voorbereidend beroepsonderwijs.   
+3.  Onze Minister kan, onverminderd artikel 59, de aanwijzing ingevolge het eerste lid intrekken indien niet langer wordt voldaan aan het eerste lid, tweede volzin, of het tweede lid.   
+4.  Ten aanzien van een op grond van het eerste lid aangewezen school kunnen bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling regels worden vastgesteld in afwijking van bij algemene maatregel van bestuur respectievelijk bij ministeriële regeling vastgestelde regels die gelden ingevolge het eerste en tweede lid, met dien verstande dat bij algemene maatregel van bestuur tevens kerndoelen kunnen worden vastgesteld in aanvulling op de kerndoelen die zijn vastgesteld op grond van artikel 11b van de Wet op het voortgezet onderwijs, waarbij tevens kan worden bepaald dat het onderwijs na de eerste twee leerjaren wordt verzorgd mede op basis van de kerndoelen die zijn vastgesteld op grond van dit lid.   
+5.  Indien de aanvraag ingevolge het eerste lid, betrekking heeft op het voorbereidend beroepsonderwijs, geeft het bevoegd gezag aan in welke sectoren, bedoeld in artikel 10b, derde lid, het onderwijs wordt verzorgd.   
+
 ### Afdeling  III  
 
 ####Staatsexamens
@@ -2146,10 +2198,11 @@ Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan 
 
 1.  Jaarlijks geeft het College voor examens gelegenheid om door het met gunstig gevolg afleggen van een staatsexamen, een diploma te verkrijgen, overeenkomende met een diploma van een school voor voorbereidend wetenschappelijk onderwijs, voor hoger algemeen voortgezet onderwijs , voor middelbaar algemeen voortgezet onderwijs en voor voorbereidend beroepsonderwijs, als bedoeld in artikel 29, derde lid.   
 2.  Bij algemene maatregel van bestuur wordt bepaald, welke andere diploma's kunnen worden verkregen door het met gunstig gevolg afleggen van een staatsexamen voor het College voor examens.   
-3.  Zij, die zijn afgewezen bij het eindexamen van een school, worden niet toegelaten tot het in hetzelfde jaar te houden overeenkomstige staatsexamen.   
+3.  Zij, die zijn afgewezen bij het eindexamen van een school of een school als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), worden niet toegelaten tot het in hetzelfde jaar te houden overeenkomstige staatsexamen.   
 4.  De staatsexamens zijn openbaar, behoudens het schriftelijke gedeelte.   
 5.  Bij algemene maatregel van bestuur worden voorschriften vastgesteld omtrent de in dit artikel bedoelde examens, die niet voor alle kandidaten dezelfde vakken en andere programma-onderdelen behoeven te omvatten. Daarbij kan worden bepaald het bedrag, dat voor de toelating tot deze examens verschuldigd is. Tevens kan daarbij worden bepaald dat dit bedrag is verschuldigd door het bevoegd gezag van een school ten aanzien waarvan toepassing is gegeven aan artikel 29, lid 1a, of door het bevoegd gezag van een instelling ten aanzien waarvan toepassing is gegeven aan [artikel 6a.2.1 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
-6.  Artikel 30a is van overeenkomstige toepassing.   
+6.  De staatsexamens omvatten een rekentoets. Bij de vaststelling van de opgaven van de rekentoets worden de referentieniveaus rekenen in acht genomen die voor de desbetreffende schoolsoorten zijn vastgesteld op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md). Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften omtrent deze toets vastgesteld.   
+7.  Artikel 30a is van overeenkomstige toepassing.   
 
 ### Afdeling  IV  
 
@@ -3180,6 +3233,14 @@ b. heeft de inspectie daarover een inspectierapport als bedoeld in [artikel 20, 
 
 c. stelt Onze Minister de rechtspersoon vervolgens vier weken in de gelegenheid zijn zienswijze met betrekking tot de aanwijzing naar voren te brengen.     
 
+### Artikel  103h  
+
+####Taakverwaarlozing samenwerkingsverband
+
+1.  Indien naar het oordeel van Onze Minister het samenwerkingsverband zijn taak ernstig verwaarloost, kan tot een bij koninklijk besluit te bepalen datum Onze Minister de noodzakelijke voorzieningen treffen.   
+2.  De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat het samenwerkingsverband in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing indien de bevoegde gezagsorganen, bedoeld in artikel 17a, tweede lid, niet of niet tijdig voldoen aan de verplichtingen, bedoeld in genoemd artikel.   
+
 ### Artikel  104  
 
 ####Inhouding bekostiging
@@ -3326,7 +3387,7 @@ Het toezicht op de beoordeling door de regionale verwijzingscommissies, bedoeld 
 a. die het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste vier weken of een door het bevoegd gezag te bepalen kortere periode zonder geldige reden niet meer volgt, of  
 
 b. die niet meer aan een school is ingeschreven en evenmin is ingeschreven aan een instelling als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) dan wel aan een school of instelling als bedoeld in de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md).     
-2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdige schoolverlater niet verstaan degene die in het bezit is van een getuigschrift van het praktijkonderwijs als bedoeld in artikel 10f dan wel een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.   
+2.  Voor zover nodig in afwijking van het eerste lid wordt onder een voortijdige schoolverlater niet verstaan degene die in het bezit is van een getuigschrift van het praktijkonderwijs als bedoeld in artikel 10f, een getuigschrift van het arbeidsmarktgerichte uitstroomprofiel of het uitstroomprofiel dagbesteding als bedoeld in [artikel 14d](../../../../../../../wet/isovso/BWBR0003549/README.md) respectievelijk [artikel 14g van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md) dan wel een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en werkzaam is op grond van een aanstelling of arbeidsovereenkomst.   
 
 ### Artikel  118h  
 

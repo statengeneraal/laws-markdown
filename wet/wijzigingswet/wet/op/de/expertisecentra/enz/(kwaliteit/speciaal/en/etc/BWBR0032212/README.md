@@ -8,42 +8,42 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het met het oog op de verbetering van de kwaliteit van het speciaal en voortgezet speciaal onderwijs wenselijk is onder meer de opzet en inhoud van het voortgezet speciaal onderwijs aan te passen;
 
-dat het daarvoor noodzakelijk is wijzigingen aan te brengen in de [Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), de [Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md) en de [Leerplichtwet 1969](../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);
+dat het daarvoor noodzakelijk is wijzigingen aan te brengen in de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs, de Wet referentieniveaus Nederlandse taal en rekenen en de Leerplichtwet 1969;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-####Wijziging [Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md)
+####Wijziging Wet op de expertisecentra
 
 Wijzigt de Wet op de expertisecentra.   
 
 ### Artikel  II  
 
-####Wijziging [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
+####Wijziging Wet op het voortgezet onderwijs
 
 Wijzigt de Wet op het voortgezet onderwijs.   
 
 ### Artikel  III  
 
-####Wijziging [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)
+####Wijziging Wet educatie en beroepsonderwijs
 
 Wijzigt de Wet educatie en beroepsonderwijs.   
 
 ### Artikel  IV  
 
-####Wijziging [Leerplichtwet 1969](../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md)
+####Wijziging Leerplichtwet 1969
 
 Wijzigt de Leerplichtwet 1969.   
 
 ### Artikel  V  
 
-####Wijziging [Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md)
+####Wijziging Wet referentieniveaus Nederlandse taal en rekenen
 
 Wijzigt de Wet referentieniveaus Nederlandse taal en rekenen.   
 
 ### Artikel  VI  
 
-####Wijziging [Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering)](../../../../../../../../../../../../wet/wijzigingswet/wet/op/de/expertisecentra/enz./(invoering/regeling/etc/BWBR0014350/README.md) (Stb. 2002, 631)
+####Wijziging Wet van 28 november 2002 tot wijziging van de Wet op de expertisecentra, de Wet op het primair onderwijs en de Wet op het voortgezet onderwijs in verband met de invoering van een leerlinggebonden financiering en de vorming van regionale expertisecentra (regeling leerlinggebonden financiering) (Stb. 2002, 631)
 
 Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (invoering regeling leerlinggebonden financiering).   
 
@@ -51,8 +51,10 @@ Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (invoering regeling lee
 
 ####Overgangsrecht maatschappelijke stage uitstroomprofiel vervolgonderwijs
 
-1.  [Artikel 6f van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) is niet van overeenkomstige toepassing ten aanzien van leerlingen in het voortgezet speciaal onderwijs die vóór het tijdstip van inwerkingtreding van artikel I, onderdeel F, [artikel 14a](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), zijn ingestroomd in het voortgezet speciaal onderwijs.   
-2.  [Artikel 6f van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) is niet van overeenkomstige toepassing ten aanzien van leerlingen die ingevolge artikel I, onderdeel DD, [artikel 173a, vijfde lid](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), het speciaal onderwijs hebben verlaten en aansluitend zijn ingestroomd in het voortgezet speciaal onderwijs.   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Artikel 6f van de Wet op het voortgezet onderwijs is niet van overeenkomstige toepassing ten aanzien van leerlingen in het voortgezet speciaal onderwijs die vóór het tijdstip van inwerkingtreding van artikel I, onderdeel F, artikel 14a, zijn ingestroomd in het voortgezet speciaal onderwijs.   
+2.  Artikel 6f van de Wet op het voortgezet onderwijs is niet van overeenkomstige toepassing ten aanzien van leerlingen die ingevolge artikel I, onderdeel DD, artikel 173a, vijfde lid, het speciaal onderwijs hebben verlaten en aansluitend zijn ingestroomd in het voortgezet speciaal onderwijs.   
 
 ### Artikel  VIII  
 
@@ -64,15 +66,15 @@ Wijzigt deze wet.
 
 ####Vavo-examen leerlingen (V)SO
 
-1.  Tot aan het tijdstip van inwerkingtreding van artikel I, onderdeel F, [artikel 14b](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), kan het bevoegd gezag van een school als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) leerlingen van 16 jaar en ouder voor wie, in het kader van het onderwijs een deel van het schoolplan op grond van [artikel 24 van de Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) wordt uitgevoerd aan een regionaal opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in verbinding met een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in de gelegenheid stellen deel te nemen aan een examen van een opleiding voortgezet algemeen volwassenenonderwijs van het betreffende regionaal opleidingencentrum. Wat betreft leerlingen van 18 jaar en ouder, kan de eerste volzin enkel worden toegepast voor leerlingen die ononderbroken in het speciaal of voortgezet speciaal onderwijs ingeschreven zijn geweest.   
-2.  Het bevoegd gezag van een regionaal opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) kan in afwijking van [artikel 8.1.1 van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in gevallen als geregeld in en met inachtneming van het eerste en derde lid, ook tot examenvoorzieningen van de instelling toelaten zij die niet als examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).   
-3.  Toepassing van het eerste lid berust op een overeenkomst, gesloten tussen het bevoegd gezag van de school, bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), en het bevoegd gezag van een regionaal opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). De overeenkomst omvat in elk geval welke begeleiding door de school aan de leerlingen wordt verzorgd ten behoeve van de deelname aan de examens.   
+1.  Tot aan het tijdstip van inwerkingtreding van artikel I, onderdeel F, artikel 14b, kan het bevoegd gezag van een school als bedoeld in artikel 1 van de Wet op de expertisecentra leerlingen van 16 jaar en ouder voor wie, in het kader van het onderwijs een deel van het schoolplan op grond van artikel 24 van de Wet op de expertisecentra wordt uitgevoerd aan een regionaal opleidingencentrum als bedoeld in de Wet educatie en beroepsonderwijs, in verbinding met een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs, in de gelegenheid stellen deel te nemen aan een examen van een opleiding voortgezet algemeen volwassenenonderwijs van het betreffende regionaal opleidingencentrum. Wat betreft leerlingen van 18 jaar en ouder, kan de eerste volzin enkel worden toegepast voor leerlingen die ononderbroken in het speciaal of voortgezet speciaal onderwijs ingeschreven zijn geweest.   
+2.  Het bevoegd gezag van een regionaal opleidingencentrum als bedoeld in de Wet educatie en beroepsonderwijs kan in afwijking van artikel 8.1.1 van de Wet educatie en beroepsonderwijs, in gevallen als geregeld in en met inachtneming van het eerste en derde lid, ook tot examenvoorzieningen van de instelling toelaten zij die niet als examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school als bedoeld in artikel 1 van de Wet op de expertisecentra.   
+3.  Toepassing van het eerste lid berust op een overeenkomst, gesloten tussen het bevoegd gezag van de school, bedoeld in artikel 1 van de Wet op de expertisecentra, en het bevoegd gezag van een regionaal opleidingencentrum als bedoeld in de Wet educatie en beroepsonderwijs. De overeenkomst omvat in elk geval welke begeleiding door de school aan de leerlingen wordt verzorgd ten behoeve van de deelname aan de examens.   
 
 ### Artikel  VIIIb  
 
-####Invoeringsrecht [artikel 59a WVO](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
+####Invoeringsrecht artikel 59a WVO
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap kan voorafgaande aan het tijdstip van inwerkingtreding van artikel II, onderdeel A, een school als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) waar voortgezet speciaal onderwijs wordt verzorgd aanwijzen overeenkomstig artikel II, onderdeel A. Die aanwijzing heeft geen betrekking op de periode voorafgaande aan dat tijdstip, en geldt met ingang van dat tijdstip als aanwijzing op grond van [artikel 59a van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+Onze Minister van Onderwijs, Cultuur en Wetenschap kan voorafgaande aan het tijdstip van inwerkingtreding van artikel II, onderdeel A, een school als bedoeld in artikel 1 van de Wet op de expertisecentra waar voortgezet speciaal onderwijs wordt verzorgd aanwijzen overeenkomstig artikel II, onderdeel A. Die aanwijzing heeft geen betrekking op de periode voorafgaande aan dat tijdstip, en geldt met ingang van dat tijdstip als aanwijzing op grond van artikel 59a van de Wet op het voortgezet onderwijs.  
 
 ### Artikel  VIIIc  
 
@@ -95,7 +97,7 @@ Wijzigt deze wet.
 
 ### Artikel  VIIIf  
 
-####Wijziging van de [Wet medezeggenschap op scholen](../../../../../../../../../../../../wet/wet/medezeggenschap/op/scholen/BWBR0020685/README.md)
+####Wijziging van de Wet medezeggenschap op scholen
 
 Wijzigt de Wet medezeggenschap op scholen.   
 

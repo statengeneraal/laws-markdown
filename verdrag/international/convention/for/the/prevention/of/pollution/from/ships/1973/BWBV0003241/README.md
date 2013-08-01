@@ -990,7 +990,7 @@ The International Oil Pollution Prevention Certificate shall be drawn up in the 
 To enable pipes of reception facilities to be connected with the ship’s discharge pipeline for residues from machinery bilges and from oil residue (sludge) tanks, both lines shall be fitted with a standard discharge connection in accordance with the following table: Standard dimensions of flanges for discharge connections  
 
 |  *Description*   |  *Dimension*   |
-|:---|:---|
+|---|---|
 | Outside diameter  | 215 mm  |
 | Inner diameter  | According to pipe outside diameter  |
 | Bolt circle diameter  | 183 mm  |
@@ -1165,10 +1165,10 @@ d <sub>m</sub> = 2.0 + 0.02L
 .3 An Administration which has endorsed a Certificate in accordance with subparagraph 10.1.3 of this regulation shall communicate to the Organization the particulars thereof for circulation to the Parties to the present Convention.     *Oil tankers of 70,000 tonnes deadweight and above delivered after 31 December 1979*   
 11.  Oil tankers of 70,000 tonnes deadweight and above delivered after 31 December 1979, as defined in regulation 1.28.2, shall be provided with segregated ballast tanks and shall comply with paragraphs 2, 3 and 4 or paragraph 5 as appropriate of this regulation.   *Protective location of segregated ballast*   
 12.  Protective location of segregated ballast spaces. In every crude oil tanker of 20,000 tonnes deadweight and above and every product carrier of 30,000 tonnes deadweight and above delivered after 1 June 1982, as defined in regulation 1.28.4, except those tankers that meet regulation 19, the segregated ballast tanks required to provide the capacity to comply with the requirements of paragraph 2 of this regulation, which are located within the cargo tank length, shall be arranged in accordance with the requirements of paragraphs 13, 14 and 15 of this regulation to provide a measure of protection against oil outflow in the event of grounding or collision.   
-13.  Segregated ballast tanks and spaces other than oil tanks within the cargo tanks length (Lt) shall be so arranged as to comply with the following requirement:   ![10000053442](http://wetten.overheid.nl/Illustration/10000053442)
+13.  Segregated ballast tanks and spaces other than oil tanks within the cargo tanks length (Lt) shall be so arranged as to comply with the following requirement:   ![]()
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | where:  | PAc  | =  | the side shell area in square metres for each segregated ballast tank or space other than an oil tank based on projected moulded dimensions,  |
 | --- | --- | PAs  | =  | the bottom shell area in square metres for each such tank or space based on projected moulded dimensions,  |
 | --- | --- | L <sub>t</sub>  | =  | length in metres between the forward and after extremities of the cargo tanks,  |
@@ -1177,10 +1177,10 @@ d <sub>m</sub> = 2.0 + 0.02L
 | --- | --- | J  | =  | 0.45 for oil tankers of 20,000 tonnes deadweight, 0.30 for oil tankers of 200,000 tonnes deadweight and above, subject to the provisions of paragraph 14 of this regulation.  For intermediate values of deadweight the value of J shall be determined by linear interpolation.  |
 
 Whenever symbols given in this paragraph appear in this regulation, they have the meaning as defined in this paragraph.  
-14.  For tankers of 200,000 tonnes deadweight and above the value of J may be reduced as follows:   ![10000053442](http://wetten.overheid.nl/Illustration/10000053442)
+14.  For tankers of 200,000 tonnes deadweight and above the value of J may be reduced as follows:   ![]()
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | where:  |  *a*   | =  | 0.25 for oil tankers of 200,000 tonnes deadweight,  |
 | --- |  *a*   | =  | 0.40 for oil tankers of 300,000 tonnes deadweight,  |
 | --- |  *a*   | =  | 0.50 for oil tankers of 420,000 tonnes deadweight and above.  |
@@ -1211,7 +1211,7 @@ Whenever symbols given in this paragraph appear in this regulation, they have th
 
 .1 Wing tanks or spaces  
 
-Wing tanks or spaces shall extend either for the full depth of the ship’s side or from the top of the double bottom to the uppermost deck, disregarding a rounded gunwale where fitted. They shall be arranged such that the cargo tanks are located inboard of the moulded line of the side shell plating nowhere less than the distance w which, as shown in figure 1 is measured at any cross-section at right angles to the side shell, as specified below:   ![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
+Wing tanks or spaces shall extend either for the full depth of the ship’s side or from the top of the double bottom to the uppermost deck, disregarding a rounded gunwale where fitted. They shall be arranged such that the cargo tanks are located inboard of the moulded line of the side shell plating nowhere less than the distance w which, as shown in figure 1 is measured at any cross-section at right angles to the side shell, as specified below:   ![]()
 w = 2.0 m, whichever is the lesser. The minimum value of w = 1.0 m.  
 
 .2 Double bottom tanks or spaces At any cross-section the depth of each double bottom tank or space shall be such that the distance h between the bottom of the cargo tanks and the moulded line of the bottom shell plating measured at right angles to the bottom shell plating as shown in figure 1 is not less than specified below: h = B/15 (m) or h = 2.0 m, whichever is the lesser. The minimum value of h = 1.0 m.  
@@ -1232,7 +1232,7 @@ w = 2.0 m, whichever is the lesser. The minimum value of w = 1.0 m.
 where:     
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- |  *h <sub>c</sub>*   | =  | height of cargo in contract with the bottom shell plating in metres  |
 | --- |  *ρ <sub>c</sub>*   | =  | maximum cargo density in kg/m <sup>3</sup>  |
 | --- |  *d <sub>n</sub>*   | =  | minimum operating draught under any expected loading condition in metres  |
@@ -1249,12 +1249,12 @@ where:
 
 .1 at least be fitted with double bottom tanks or spaces having such a depth that the distance h specified in paragraph 3.2 of this regulation, complies with the following: h = B/15 (m) with a minimum value of h = 0.76 m; in the turn of the bilge area and at locations without a clearly defined turn of the bilge, the cargo tank boundary line shall run parallel to the line of the midship flat bottom as shown in figure 3; and  
 
-.2 be provided with cargo tanks so arranged that the capacity of each cargo tank does not exceed 700 m3 unless wing tanks or spaces are arranged in accordance with paragraph 3.1 of this regulation, complying with the following:   ![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
+.2 be provided with cargo tanks so arranged that the capacity of each cargo tank does not exceed 700 m3 unless wing tanks or spaces are arranged in accordance with paragraph 3.1 of this regulation, complying with the following:   ![]()
 
-7.  Oil shall not be carried in any space extending forward of a collision bulkhead located in accordance with regulation II-1/11 of the Inter-national Convention for the Safety of Life at Sea, 1974, as amended. An oil tanker that is not required to have a collision bulkhead in accordance with that regulation shall not carry oil in any space extending forward of the transverse plane perpendicular to the centreline that is located as if it were a collision bulkhead located in accordance with that regulation.   
-8.  In approving the design and construction of oil tankers to be built in accordance with the provisions of this regulation, Administrations shall have due regard to the general safety aspects including the need for the maintenance and inspections of wing and double bottom tanks or spaces.   ![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
-![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
-![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
+7.  Oil shall not be carried in any space extending forward of a collision bulkhead located in accordance with regulation II-1/11 of the International Convention for the Safety of Life at Sea, 1974, as amended. An oil tanker that is not required to have a collision bulkhead in accordance with that regulation shall not carry oil in any space extending forward of the transverse plane perpendicular to the centreline that is located as if it were a collision bulkhead located in accordance with that regulation.   
+8.  In approving the design and construction of oil tankers to be built in accordance with the provisions of this regulation, Administrations shall have due regard to the general safety aspects including the need for the maintenance and inspections of wing and double bottom tanks or spaces.   ![]()
+![]()
+![]()
 
 ### Regulation  20  
 
@@ -1282,7 +1282,7 @@ where:
 4.  An oil tanker to which this regulation applies shall comply with the requirements of paragraphs 2 to 5, 7 and 8 of regulation 19 and regulation 28 in respect of paragraph 28.6 of this Annex not later than 5 April 2005 or the anniversary of the date of delivery of the ship on the date or in the year specified in the following table:   
 
 |  *Category of oil tanker*   |  *Date or year*   |
-|:---|:---|
+|---|---|
 | Category 1  | 5 April 2005 for ships delivered on 5 April 1982 or earlier  2005 for ships delivered after 5 April 1982  |
 | Category 2 and  Category 3  | 5 April 2005 for ships delivered on 5 April 1977 or earlier  2005 for ships delivered after 5 April 1977 but before 1 January 1978  2006 for ships delivered in 1978 and 1979  2007 for ships delivered in 1980 and 1981  2008 for ships delivered in 1982  2009 for ships delivered in 1983  2010 for ships delivered in 1984 or later  |
 
@@ -1298,7 +1298,7 @@ where:
 6.  A Category 2 or 3 oil tanker of 15 years and over after the date of its delivery shall comply with the Condition Assessment Scheme adopted by the Marine Environment Protection Committee by resolution MEPC.94(46), as amended, provided that such amendments shall be adopted, brought into force and take effect in accordance with the provisions of article 16 of the present Convention relating to amendment procedures applicable to an appendix to an Annex.   
 7.  The Administration may allow continued operation of a Category 2 or 3 oil tanker beyond the date specified in paragraph 4 of this regulation, if satisfactory results of the Condition Assessment Scheme warrant that, in the opinion of the Administration, the ship is fit to continue such operation, provided that the operation shall not go beyond the anniversary of the date of delivery of the ship in 2015 or the date on which the ship reaches 25 years after the date of its delivery, whichever is the earlier date.   
 8. 
-.1The Administration of a Party to the present Convention which allows the application of paragraph 5 of this regulation, or allows, suspends, withdraws or declines the application of paragraph 7 of this regulation, to a ship entitled to fly its flag shall forthwith communicate to the Organization for circulation to the Parties to the present Convention particulars thereof, for their information and appropriate action, if any.  
+.1 The Administration of a Party to the present Convention which allows the application of paragraph 5 of this regulation, or allows, suspends, withdraws or declines the application of paragraph 7 of this regulation, to a ship entitled to fly its flag shall forthwith communicate to the Organization for circulation to the Parties to the present Convention particulars thereof, for their information and appropriate action, if any.  
 
 .2 A Party to the present Convention shall be entitled to deny entry into the ports or offshore terminals under its jurisdiction of oil tankers operating in accordance with the provisions of: 
 
@@ -1376,7 +1376,7 @@ where:
 .1 Side damage:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | 1.  | Longitudinal extent(l <sub>c</sub>):  | 1/3 L 2/3 or 14.5 metres, whichever is less.  |
 | --- | 2.  | Transverse extent (t <sub>c</sub>) (inboard from the ship’s side at right angles to the centreline at the level corresponding to the assigned summer freeboard):  | B/5 or 11.5 metres, whichever is less  |
 | --- | 3.  | Vertical extent (v <sub>c</sub>):  | From the base line upwards without limit  |
@@ -1384,7 +1384,7 @@ where:
 .2 Bottom damage:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | For 0.3L from the forward perpendicular of the ship  | Any other part of the ship  |
 | --- | 1.  | Longitudinal extent (l <sub>s</sub>):  | L/10  | L/10 or 5 metres, whichever is less  |
 | --- | 2.  | Transverse extent (t <sub>s</sub>):  | B/6 or 10 metres, whichever is less but not less than 5 metres  | 5 metres  |
@@ -1403,7 +1403,7 @@ where:
 .2 For bottom damages: O <sub>s</sub> = 1/3 (Σ Z <sub>i</sub> W <sub>i</sub> + Σ Z <sub>i</sub> C <sub>i</sub>) (II) where:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | W <sub>i</sub>  | =  | volume of a wing tank in cubic metres assumed to be breached by the damage as specified in regulation 24 of this Annex; W <sub>i</sub> for a segregated ballast tank may be taken equal to zero.  |
 | --- | C <sub>i</sub>  | =  | volume of a centre tank in cubic metres assumed to be breached by the damage as specified in regulation 24 of this Annex; C <sub>i</sub> for a segregated ballast tank may be taken equal to zero.  |
 | --- | K <sub>i</sub>  | =  | 1– b <sub>i</sub> /t <sub>c</sub> when b <sub>i</sub> is equal to or greater than t <sub>c</sub>, K <sub>i</sub> shall be taken equal to zero.  |
@@ -1447,9 +1447,9 @@ S <sub>i</sub> = 1 - l <sub>i</sub> /l <sub>c</sub> where l <sub>i</sub> = lengt
 3.  The volume of any one wing cargo oil tank of an oil tanker shall not exceed 75 per cent of the limits of the hypothetical oil outflow referred to in paragraph 2 of this regulation. The volume of any one centre cargo oil tank shall not exceed 50,000 cubic metres. However, in segregated ballast oil tankers as defined in regulation 18 of this Annex, the permitted volume of a wing cargo oil tank situated between two segregated ballast tanks, each exceeding l <sub>c</sub> in length, may be increased to the maximum limit of hypothetical oil outflow provided that the width of the wing tanks exceeds t <sub>c</sub>.   
 4.  The length of each cargo tank shall not exceed 10 m or one of the following values, whichever is the greater: 
 
-.1 where no longitudinal bulkhead is provided inside the cargo tanks:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.1 where no longitudinal bulkhead is provided inside the cargo tanks:   ![]()
 
-.2 where a centreline longitudinal bulkhead is provided inside the cargo tanks:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.2 where a centreline longitudinal bulkhead is provided inside the cargo tanks:   ![]()
 
 .3 where two or more longitudinal bulkheads are provided inside the cargo tanks: 
 
@@ -1457,15 +1457,15 @@ S <sub>i</sub> = 1 - l <sub>i</sub> /l <sub>c</sub> where l <sub>i</sub> = lengt
 
 .2 for centre cargo tanks: 
 
-.1 if   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.1 if   ![]()
 is equal to or greater than one fifth: 0.2L  
 
-.2 if   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.2 if   ![]()
 is less than one fifth: 
 
-– where no centreline longitudinal bulkhead is provided:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+– where no centreline longitudinal bulkhead is provided:   ![]()
 
-– where a centreline longitudinal bulkhead is provided:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+– where a centreline longitudinal bulkhead is provided:   ![]()
 
 .4 *b <sub>i</sub>* is the minimum distance from the ship’s side to the outer longitudinal bulkhead of the tank in question measured inboard at right angles to the centreline at the level corresponding to the assigned summer freeboard.     
 5.  In order not to exceed the volume limits established by paragraphs 2, 3 and 4 of this regulation and irrespective of the accepted type of cargo transfer system installed, when such system interconnects two or more cargo tanks, valves or other similar closing devices shall be provided for separating the tanks from each other. These valves or devices shall be closed when the tanker is at sea.   
@@ -1524,7 +1524,7 @@ is less than one fifth:
 .1 Side damage:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | Longitudinal extent:  | 1/3 (L <sup>2/3</sup>) or 14.5 metres, whichever is less  |
 | 2.  | Transverse extent (inboard from the ship’s side at right angles to the centreline at the level of the summer load line):  | *B/5* or 11.5 metres, whichever is less  |
 | 3.  | Vertical extent:  | From the moulded line of the bottom shell plating at centreline, upwards without limit  |
@@ -1532,7 +1532,7 @@ is less than one fifth:
 .2 Bottom damage:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | For 0.3L from the forward perpendicular of the ship  | Any other part of the ship  |
 | 1.  | Longitudinal extent:  | 1/3 (L <sup>2/3</sup>) or 14.5 metres, whichever is less  | 1/3 (L <sup>2/3</sup>) or 5 metres, whichever is less  |
 | 2.  | Transverse extent:  | or 10 metres, whichever is less  | or 5 metres, whichever is less  |
@@ -1567,7 +1567,7 @@ is less than one fifth:
 .2 The permeabilities assumed for spaces flooded as a result of damage shall be as follows:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Spaces*   |  *Permeabilities*   |
 | Appropriated to stores  | 0.60  |
 | Occupied by accommodation  | 0.95  |
@@ -1805,9 +1805,7 @@ Subject to the provisions of paragraphs 4 and 5 of regulation 3 of this Annex, o
 
 .1 Crude oil loading terminals shall have sufficient reception facilities to receive oil and oily mixtures which cannot be discharged in accordance with the provisions of regulation 34.1 of this Annex from all oil tankers on voyages as described in paragraph 2.1 of this regulation.  
 
-.2 Loading ports and terminals referred to in paragraph 2.2 of this regulation shall have sufficient reception facilities to receive oil and oily mixtures which cannot be discharged in accordance  
-
-with the provisions of regulation 34.1 of this Annex from oil tankers which load oil other than crude oil in bulk.  
+.2 Loading ports and terminals referred to in paragraph 2.2 of this regulation shall have sufficient reception facilities to receive oil and oily mixtures which cannot be discharged in accordance with the provisions of regulation 34.1 of this Annex from oil tankers which load oil other than crude oil in bulk  
 
 .3 All ports having ship repair yards or tank cleaning facilities shall have sufficient reception facilities to receive all residues and oily mixtures which remain on board for disposal from ships prior to entering such yards or facilities.  
 
@@ -1815,9 +1813,25 @@ with the provisions of regulation 34.1 of this Annex from oil tankers which load
 
 .5 All facilities provided in ports and terminals under this regulation shall be sufficient to receive oily bilge waters and other residues which cannot be discharged in accordance with regulation 15 of this Annex.  
 
-.6 The facilities provided in loading ports for bulk cargoes shall take into account the special problems of combination carriers as appropriate.      *B. Reception facilities within special areas*  
+.6 The facilities provided in loading ports for bulk cargoes shall take into account the special problems of combination carriers as appropriate.    
+
+3bis. Small Island Developing States may satisfy the requirements in paragraphs 1 to 3 of this regulation through regional arrangements when, because of those States’ unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization. The Government of each Party participating in the arrangement shall consult with the Organization, for circulation to the Parties of the present Convention: 
+
+.1. how the Regional Reception Facilities Plan takes into account the Guidelines;  
+
+.2. particulars of the identified Regional Ships Waste Reception Centres; and  
+
+.3. particulars of those ports with only limited facilities.      *B. Reception facilities within special areas*  
 
 4. The Government of each Party to the present Convention the coastline of which borders on any given special area shall ensure that all oil loading terminals and repair ports within the special area are provided with facilities adequate for the reception and treatment of all the dirty ballast and tank washing water from oil tankers. In addition all ports within the special area shall be provided with adequate reception facilities for other residues and oily mixtures from all ships. Such facilities shall have adequate capacity to meet the needs of the ships using them without causing undue delay.  
+
+4bis. Small Island Developing States may satisfy the requirements in paragraph 4 of this regulation through regional arrangements when, because of those States’ unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization. The Government of each Party participating in the arrangement shall consult with the Organization for circulation to the Parties of the present Convention: 
+
+.1. how the Regional Reception Facilities Plan takes into account the Guidelines;  
+
+.2. particulars of the identified Regional Ships Waste Reception Centres; and  
+
+.3. particulars of those ports with only limited facilities.    
 
 5. The Government of each Party to the present Convention having under its jurisdiction entrances to seawater courses with low depth contour which might require a reduction of draught by the discharge of ballast shall ensure the provision of the facilities referred to in paragraph 4 of this regulation but with the proviso that ships required to discharge slops or dirty ballast could be subject to some delay.  
 
@@ -1958,36 +1972,36 @@ Solvent Petroleum Heartcut distillate oil
 
 ####FORM OF IOPP CERTIFICATE AND SUPPLEMENTS
 
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Appendix  III  
 
 ####FORM OF OIL RECORD BOOK
 
-![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
+![]()
 
 ###Introduction
 
@@ -2106,9 +2120,9 @@ The following pages of this section show a comprehensive list of items of machin
 
 .4. Type and quantity of lubricating oil and identity of tank(s) (state quantity added, in tonnes and total content of tank(s)).      
 
-(I)  *Additional operational procedures and general remarks*    ![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
-![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
-![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
+(I)  *Additional operational procedures and general remarks*    ![]()
+![]()
+![]()
 
 ###Introduction
 
@@ -2121,7 +2135,7 @@ The following pages of this section show a comprehensive list of items of cargo 
 
 2. Type of oil loaded and identity of tank(s).  
 
-3. Total quantity of oil loaded (state quantity added, in m3 at 15°C and the total content of tank(s), in m3).3 at 15°C and the total content of tank(s), in m <sup>3</sup>).    
+3. Total quantity of oil loaded (state quantity added, in m <sup>3</sup> at 15°C and the total content of tank(s), in m <sup>3</sup>).    
 
 (B)  *Internal transfer of oil cargo during voyage*  
 
@@ -2345,7 +2359,7 @@ The following pages of this section show a comprehensive list of items of cargo 
 
 84. Total quantity of ballast water discharged in cubic metres.  
 
-85. Date, signature and stamp of port authority official.       ![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
+85. Date, signature and stamp of port authority official.       ![]()
 
 ### Annex  II  
 
@@ -2721,7 +2735,7 @@ Notwithstanding the provisions of regulations 8, 9, and 10 of this Annex, chemic
 
 8. The underwater discharge outlet (or outlets) shall be located within the cargo area in the vicinity of the turn of the bilge and shall be so arranged as to avoid the re-intake of residue/water mixtures by the ship’s seawater intakes.  
 
-9. The underwater discharge outlet arrangement shall be such that the residue/water mixture discharged into the sea will not pass through the ship’s boundary layer. To this end, when the discharge is made normal to the ship’s shell plating, the minimum diameter of the discharge outlet is governed by the following equation:   ![10000053496](http://wetten.overheid.nl/Illustration/10000053496)
+9. The underwater discharge outlet arrangement shall be such that the residue/water mixture discharged into the sea will not pass through the ship’s boundary layer. To this end, when the discharge is made normal to the ship’s shell plating, the minimum diameter of the discharge outlet is governed by the following equation:   ![]()
 where: d = minimum diameter of the discharge outlet (m) L <sub>d</sub> = distance from the forward perpendicular to the discharge outlet (m) Q <sub>d</sub> = the maximum rate selected at which the ship may discharge a residue/water mixture through the outlet (m <sup>3</sup> /h).  
 
 10. When the discharge is directed at an angle to the ship’s shell plating, the above relationship shall be modified by substituting for Qd the component of Qd which is normal to the ship’s shell plating.  
@@ -2800,7 +2814,9 @@ Subject to the provisions of regulation 3 of this Annex the control of discharge
 
 7.2.3 The discharge into the sea of clean or segregated ballast shall not be subject to the requirements of this Annex.      *8 Discharges in the Antarctic Area*  
 
-8.1 *Antarctic Area* means the sea area south of latitude 60°S. 8.2 In the Antarctic area any discharge into the sea of Noxious Liquid Substances or mixtures containing such substances is prohibited.    
+8.1 *Antarctic Area* means the sea area south of latitude 60°S.  
+
+8.2 In the Antarctic area any discharge into the sea of Noxious Liquid Substances or mixtures containing such substances is prohibited.    
 
 ### Regulation  14  
 
@@ -2904,6 +2920,16 @@ Subject to the provisions of regulation 3 of this Annex the control of discharge
 
 2. The Government of each Party shall determine the types of facilities provided for the purpose of paragraph 1 of this regulation at each cargo loading and unloading port, terminal and ship repair port in its territories and notify the Organization thereof.  
 
+2bis. Small Island Developing States may satisfy the requirements in paragraphs 1, 2 and 4 of this regulation through regional arrangements when, because of those States’ unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization. The Government of each Party participating in the arrangement shall consult with the Organization for circulation to the Parties of the present Convention: 
+
+.1. how the Regional Reception Facilities Plan takes into account the Guidelines;  
+
+.2. particulars of the identified Regional Ships Waste Reception Centres; and  
+
+.3. particulars of those ports with only limited facilities.    
+
+2ter. Where regulation 13 of this annex requires a prewash and the Regional Reception Facility Plan is applicable to the port of unloading, the prewash and subsequent discharge to a reception facility shall be carried out as prescribed in regulation 13 of this annex or at a Regional Ship Waste Reception Centre specified in the applicable Regional Reception Facility Plan.  
+
 3. The Governments of Parties to the Convention, the coastlines of which border on any given special area, shall collectively agree and establish a date by which time the requirement of paragraph 1 of this regulation will be fulfilled and from which the requirements of the applicable paragraphs of regulation 13 in respect of that area shall take effect and notify the Organization of the date so established at least six months in advance of that date. The Organization shall then promptly notify all Parties of that date.  
 
 4. The Government of each Party to the Convention shall undertake to ensure that cargo unloading terminals shall provide arrangements to facilitate stripping of cargo tanks of ships unloading Noxious Liquid Substances at these terminals. Cargo hoses and piping systems of the terminal, containing Noxious Liquid Substances received from ships unloading these substances at the terminal, shall not be drained back to the ship.  
@@ -2914,15 +2940,15 @@ Subject to the provisions of regulation 3 of this Annex the control of discharge
 
 ####GUIDELINES FOR THE CATEGORIZATION OF NOXIOUS LIQUID SUBSTANCES
 
-![10000053499](http://wetten.overheid.nl/Illustration/10000053499)
-![10000053499](http://wetten.overheid.nl/Illustration/10000053499)
+![]()
+![]()
 
 ### Appendix  2  
 
 ####FORM OF CARGO RECORD BOOK FOR SHIPS CARRYING NOXIOUS LIQUID SUBSTANCES IN BULK
 
-![10000053502](http://wetten.overheid.nl/Illustration/10000053502)
-![10000053502](http://wetten.overheid.nl/Illustration/10000053502)
+![]()
+![]()
 
 ###Introduction
 
@@ -3009,7 +3035,7 @@ Entries are required for operations involving all Categories of substances.
 
 .3 to slops collecting tank (identify tank).      
 
-(F)  *(Discharge into the sea of tank washings*  
+(F)  *Discharge into the sea of tank washings*  
 
 17. Identify tank(s): 
 
@@ -3069,24 +3095,24 @@ Entries are required for operations involving all Categories of substances.
 
 37. Organization, company, government agency for which surveyor works.    
 
-(K)  *Additional operational procedures and remarks*    ![10000053502](http://wetten.overheid.nl/Illustration/10000053502)
+(K)  *Additional operational procedures and remarks*    ![]()
 
 ### Appendix  3  
 
 ####FORM OF INTERNATIONAL POLLUTION PREVENTION CERTIFICATE FOR THE CARRIAGE OF NOXIOUS LIQUID SUBSTANCES IN BULK
 
-<sup> *  The NLSCertificate shall be at least in English, French or Spanish. Where entries in an official national language of the State whose flag is entitled to fly are also used, this shall prevail in case of a dispute or discrepancy.  </sup>     ![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
+<sup> *  The NLSCertificate shall be at least in English, French or Spanish. Where entries in an official national language of the State whose flag is entitled to fly are also used, this shall prevail in case of a dispute or discrepancy.  </sup>     ![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Appendix  4  
 
 ####STANDARD FORMAT FOR THE PROCEDURES AND ARRANGEMENTS MANUAL
 
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
+![]()
+![]()
 
 ###Introduction
 
@@ -3305,9 +3331,9 @@ Addendum D : Additional information and operational instructions when required o
 | --- | --- | --- |
 | --- | --- | --- |
 
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
+![]()
+![]()
+![]()
 
 ###Addendum B
 
@@ -3389,7 +3415,7 @@ Addendum D : Additional information and operational instructions when required o
 
 3.2.5. The total water volumes collected above determine the stripping quantity for the cargo tank.  
 
-3.2.6. Where a group of tanks is served by a common pump or piping, the water test residues associated with the common system(s) may be apportioned equally among the tanks provided that the following operational restriction is included in the ship’s approved Manual: “For sequential unloading of tanks in this group, the pump or piping is not to be washed until all tanks in the group have been unloaded.”       ![10000053421](http://wetten.overheid.nl/Illustration/10000053421)
+3.2.6. Where a group of tanks is served by a common pump or piping, the water test residues associated with the common system(s) may be apportioned equally among the tanks provided that the following operational restriction is included in the ship’s approved Manual: “For sequential unloading of tanks in this group, the pump or piping is not to be washed until all tanks in the group have been unloaded.”       ![]()
 
 ### Appendix  6  
 
@@ -3424,7 +3450,7 @@ A  *For ships built before 1 July 1994*  A prewash procedure is required in orde
 7. After washing, the cleaning machine(s) shall be kept operating long enough to flush the pipeline, pump and filter,and discharge to shore reception facilities shall be continues until the tank is empty.    Table 6-1 – Number of cleaning machine cycles to be used in each location 
 
 | Category of substance  | Number of cleaning machine cycles  |
-|:---|:---|
+|---|---|
 | Non-Solidifying Substances  | Solidifying Substanaces  |
 | Category X  | 1  | 2  |
 | Category Y  | 1/2  | 1  |
@@ -3473,7 +3499,7 @@ B  *For ships built on or after 1 July 1994 and recommendatory for ships built b
 19. After completing the tank washing with recycling to the extent specified in paragraph 17, the washing medium shall be discharged and the tank thoroughly stripped. Thereafter, the tank shall be subjected to a rinse, using clean washing medium, with continuous drainage and discharged to a reception facility. The rinse shall as a minimum cover the tank bottom and be sufficient to flush the pipelines, pump and filter.   
 ###Minimum quantity of water to be used in a prewash
 
-20. The minimum quantity of water to be used in a prewash is determined by the residual quantity of noxious liquid substance in the tank, the tank size, the cargo properties, the permitted concentration in any subsequent wash water effluent, and the area of operation. The minimum quantity is given by the following formula:   ![10000053520](http://wetten.overheid.nl/Illustration/10000053520)
+20. The minimum quantity of water to be used in a prewash is determined by the residual quantity of noxious liquid substance in the tank, the tank size, the cargo properties, the permitted concentration in any subsequent wash water effluent, and the area of operation. The minimum quantity is given by the following formula:   ![]()
 where 
 
 Q = the required minimum quantity in m <sup>3</sup>  
@@ -3493,7 +3519,7 @@ Category Y, non-Solidifying, Low-Viscosity Substance k = 0.5
 Category Y, Solidifying or High-Viscosity Substance k = 1.0   The table below is calculated using the formula with a k factor of 1 and may be used as an easy reference.  
 
 |  *Stripping quantity (m <sup>3</sup>)*   |  *Tank volume (m <sup>3</sup>)*   |
-|:---|:---|
+|---|---|
 | 100  | 500  | 3000  |
 | <0.04  | 1.2  | 2.9  | 5.4  |
 | .10  | 2.5  | 2.9  | 5.4  |
@@ -3524,7 +3550,7 @@ Category Y, Solidifying or High-Viscosity Substance k = 1.0   The table below is
 
 .5 ventilation equipment shall, when practicable, be positioned so that the airjet is directed at the tank sump or suction point and impingement of the airjet on tank structural members is to be avoided as much as possible; and  
 
-.6 ventilation shall continue until no visible remains of liquid can be observed in the tank. This shall be verified by a visual examination or an equivalent method.       ![10000053519](http://wetten.overheid.nl/Illustration/10000053519)
+.6 ventilation shall continue until no visible remains of liquid can be observed in the tank. This shall be verified by a visual examination or an equivalent method.       ![]()
 
 ### ANNEX  III  
 
@@ -3605,7 +3631,7 @@ Certain harmful substances may, for sound scientific and technical reasons, need
 For the purposes of this Annex, substances identified by any one of the following criteria are harmful substances : <sup> 5)  The criteria are based on those developed by the United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), as amended.   For definitions of acronyms or terms used in this appendix, refer to the relevant paragraphs of the IMDG Code.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Category: Acute 1*   | --- |
 | --- | --- |
 | 96 hr LC <sub>50</sub> (for fish)  | ≤ 1 mg/l and/or  |
@@ -3613,7 +3639,7 @@ For the purposes of this Annex, substances identified by any one of the followin
 | 72 or 96 hr ErC <sub>50</sub> (for algae or other aquatic plants)  | ≤ 1 mg/l  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Category: Chronic 1*   | --- |
 | --- | --- |
 | 96 hr LC <sub>50</sub> (for fish)  | ≤ 1 mg/l and/or  |
@@ -3622,7 +3648,7 @@ For the purposes of this Annex, substances identified by any one of the followin
 | and the substance is not rapidly degradable and/or the log K <sub>ow</sub> ≥ 4 (unless the experimentally determined BCF < 500).  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Category: Chronic 2*   | --- |
 | --- | --- |
 | 96 hr LC <sub>50</sub> (for fish)  | > 1 to ≤ 10 mg/l and/or  |
@@ -3692,9 +3718,27 @@ thence to a point on the coast of Australia
 
 in latitude 24°42’ S, longitude 153°15’ E    
 
+5bis. *Special area* means a sea area where for recognized technical reasons in relation to its oceanographical and ecological condition and to the particular character of its traffic the adoption of special mandatory methods for the prevention of sea pollution by sewage is required. The special areas are: 
+
+.1 the Baltic Sea area as defined in regulation 1.11.2 of Annex I; and  
+
+.2 any other sea area designated by the Organization in accordance with criteria and procedures for designation of special areas with respect to prevention of pollution by sewage from ships. <sup> 1)  Refer to Assembly resolution A.927(22), Guidelines for the designation of special areas under MARPOL 73/78 and guidelines for the identification and designation of particularly sensitive sea areas.  </sup>    
+
 6. “International voyage” means a voyage from a country to which the present Convention applies to a port outside such country, or conversely.  
 
 7. “Person” means member of the crew and passengers.  
+
+7bis. A *passenger* means every person other than: 
+
+.1 the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; and  
+
+.2 a child under one year of age.    
+
+7ter. A *passenger ship* means a ship which carries more than twelve passengers. For the application of regulation 11.3, a *new passenger ship* is a passenger ship: 
+
+.1 for which the building contract is placed, or in the absence of a building contract, the keel of which is laid, or which is in a similar stage of construction, on or after 1 January 2016; or  
+
+.2 the delivery of which is two years or more after 1 January 2016.   An *existing passenger ship* is a passenger ship which is not a new passenger ship.  
 
 8. “Anniversary date” means the day and the month of each year which will correspond to the date of expiry of the International Sewage Pollution Prevention Certificate.    
 
@@ -3830,7 +3874,13 @@ The International Sewage Pollution Prevention Certificate shall be drawn up in t
 
 .2 a sewage comminuting and disinfecting system approved by the Administration. Such system shall be fitted with facilities to the satisfaction of the Administration, for the temporary storage of sewage when the ship is less than 3 nautical miles from the nearest land, or  
 
-.3 a holding tank of the capacity to the satisfaction of the Administration for the retention of all sewage, having regard to the operation of the ship, the number of persons on board and other relevant factors. The holding tank shall be constructed to the satisfaction of the Administration and shall have a means to indicate visually the amount of its contents.      
+.3 a holding tank of the capacity to the satisfaction of the Administration for the retention of all sewage, having regard to the operation of the ship, the number of persons on board and other relevant factors. The holding tank shall be constructed to the satisfaction of the Administration and shall have a means to indicate visually the amount of its contents.    
+
+2. By derogation from paragraph 1, every passenger ship which, in accordance with regulation 2, is required to comply with the provisions of this Annex, and for which regulation 11.3 applies while in a special area, shall be equipped with one of the following sewage systems: 
+
+.1 a sewage treatment plant which shall be of a type approved by the Administration, taking into account the standards and test methods developed by the Organization, or <sup> 2)  Refer to the [draft 2012] Guidelines on Implementation of Effluent Standards and Performance Tests for Sewage Treatment Plants adopted by the Marine Environment Protection Committee of the Organization by [resolution MEPC....].  </sup>  
+
+.2 a holding tank of the capacity to the satisfaction of the Administration for the retention of all sewage, having regard to the operation of the ship, the number of persons on board and other relevant factors. The holding tank shall be constructed to the satisfaction of the Administration and shall have a means to indicate visually the amount of its contents.      
 
 ### Regulation  10  
 
@@ -3839,7 +3889,7 @@ The International Sewage Pollution Prevention Certificate shall be drawn up in t
 1. To enable pipes of reception facilities to be connected with the ship’s discharge pipeline, both lines shall be fitted with a standard discharge connection in accordance with the following table:  STANDARD DIMENSIONS OF FLANGES FOR DISCHARGE CONNECTIONS 
 
 | Description  | Dimension  |
-|:---|:---|
+|---|---|
 | Outside diameter  | 210 mm  |
 | Inner diameter  | According to pipe outside diameter  |
 | Bolt circle diameter  | 170 mm  |
@@ -3856,19 +3906,25 @@ For ships having a moulded depth of 5 metres and less, the inner diameter of the
 
 ####Discharge of Sewage
 
+###A Discharge of sewage from ships other than passenger ships in all areas and discharge of sewage from passenger ships outside special areas
+
 1. Subject to the provisions of regulation 3 of this Annex, the discharge of sewage into the sea is prohibited, except when: 
 
-.1. the ship is discharging comminuted and disinfected sewage using a system approved by the Administration in accordance with regulation 9.1.2 of this Annex at a distance of more than 3 nautical miles from the nearest land, or sewage which is not comminuted or disinfected, at a distance of more than 12 nautical miles from the nearest land, provided that, in any case, the sewage that has been stored in holding tanks, or sewage originating from spaces containing living animals, shall not be discharged instantaneously but at a moderate rate when the ship is *en route* and proceeding at not less than 4 knots; the rate of discharge shall be approved by the Administration based upon standards developed by the Organization ; or <sup> 1)  Refer to the Recommendation on standards for the rate of discharge of untreated sewage from ships adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.157(55).  </sup>  
+.1 the ship is discharging comminuted and disinfected sewage using a system approved by the Administration in accordance with regulation 9.1.2 of this Annex at a distance of more than 3 nautical miles from the nearest land, or sewage which is not comminuted or disinfected at a distance of more than 12 nautical miles from the nearest land, provided that, in any case, the sewage that has been stored in holding tanks, or sewage originating from spaces containing living animals, shall not be discharged instantaneously but at a moderate rate when the ship is *en route* and proceeding at not less than 4 knots; the rate of discharge shall be approved by the Administration based upon standards developed by the Organization ; or <sup> 3)  Refer to the Recommendation on standards for the rate of discharge of untreated sewage from ships adopted by the Marine Environmental Protection Committee of the Organization by resolution MEPC.157(55).  </sup>  
 
-.2 the ship has in operation an approved sewage treatment plant which has been certified by the Administration to meet the operational requirements referred to in regulation 9.1.1 of this Annex, and 
+.2 the ship has in operation an approved sewage treatment plant which has been certified by the Administration to meet the operational requirements referred to in regulation 9.1.1 of this Annex, and the effluent shall not produce visible floating solids nor cause discoloration of the surrounding water.    
 
-.1 the test results of the plant are laid down in the ship’s International Sewage Pollution Prevention Certificate; and  
+2. The provisions of paragraph 1 shall not apply to ships operating in the waters under the jurisdiction of a State and visiting ships from other States while they are in these waters and are discharging sewage in accordance with such less stringent requirements as may be imposed by such State.   
+###B Discharge of sewage from passenger ships within a special area
 
-.2 additionally, the effluent shall not produce visible floating solids nor cause discoloration of the surrounding water.      
+3. Subject to the provisions of regulation 3 of this Annex, the discharge of sewage from a passenger ship within a special area shall be prohibited: 
 
-2. The provisions of paragraph 1 shall not apply to ships operating in the waters under the jurisdiction of a State and visiting ships from other States while they are in these waters and are discharging sewage in accordance with such less stringent requirements as may be imposed by such State.  
+a) for new passenger ships on, or after 1 January 2016, subject to regulation 12bis, subparagraph 2; and  
 
-3. When the sewage is mixed with wastes or waste water covered by other Annexes of MARPOL 73/78, the requirements of those Annexes shall be complied with in addition to the requirements of this Annex.    
+b) for existing passenger ships on, or after 1 January 2018, subject to regulation 12bis, subparagraph 2,   except when the following conditions are satisfied: the ship has in operation an approved sewage treatment plant which has been certified by the Administration to meet the operational requirements referred to in regulation 9.2.1 of this Annex, and the effluent shall not produce visible floating solids nor cause discoloration of the surrounding water.   
+###C General requirements
+
+4. When the sewage is mixed with wastes or waste water covered by other Annexes of MARPOL, the requirements of those Annexes shall be complied with in addition to the requirements of this Annex.    
 
 ### CHAPTER  4  
 
@@ -3880,7 +3936,29 @@ For ships having a moulded depth of 5 metres and less, the inner diameter of the
 
 1. The Government of each Party to the Convention, which requires ships operating in waters under its jurisdiction and visiting ships while in its waters to comply with the requirements of regulation 11.1, undertakes to ensure the provision of facilities at ports and terminals of the reception of sewage, without causing delay to ships, adequate to meet the needs of the ships using them.  
 
+1bis. Small Island Developing States may satisfy the requirements in paragraph 1 of this regulation through regional arrangements when, because of those States’ unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization. The Government of each Party participating in the arrangement shall consult with the Organization for circulation to the Parties of the present Convention: 
+
+.1. how the Regional Reception Facilities Plan takes into account the Guidelines;  
+
+.2. particulars of the identified Regional Ships Waste Reception Centres; and  
+
+.3. particulars of those ports with only limited facilities.    
+
 2. The Government of each Party shall notify the Organization for transmission to the Contracting Governments concerned of all cases where the facilities provided under this regulation are alleged to be inadequate.    
+
+### 12bis  
+
+####Reception facilities for passenger ships in Special Areas
+
+.1 Each Party, the coastline of which borders a special area, undertakes to ensure that: 
+
+.1 facilities for the reception of sewage are provided in ports and terminals which are in a special area and which are used by passenger ships;  
+
+.2 the facilities are adequate to meet the needs of those passenger ships; and  
+
+.3 the facilities are operated so as not to cause undue delay to those passenger ships.    
+
+.2 The Government of each Party concerned shall notify the Organization of the measures taken pursuant to subparagraph .1 of this regulation. Upon receipt of sufficient notifications in accordance with subparagraph .1 the Organization shall establish a date from which the requirements of regulation 11.3 in respect of the area in question shall take effect. The Organization shall notify all Parties of the date so established no less than twelve months in advance of that date. Until the date so established, ships while navigating in the special area shall comply with the requirements of regulation 11.1 of this Annex.    
 
 ### CHAPTER  5  
 
@@ -3901,11 +3979,11 @@ For ships having a moulded depth of 5 metres and less, the inner diameter of the
 
 ###International Sewage Pollution Prevention Certificate
 
-Issued under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, and as amended by resolution MEPC. 115(51), (hereinafter referred to as “the Convention”) under the authority of the Government of: .................................................................................................................... (full designation of the country) by ............................................................................................................... (full designation of the competent person or organization authorized under the provisions of the Convention)  *Particulars of ship*  <sup> 1)  Alternatively, the particulars of the ship may be placed horizontally in boxes.  </sup> Name of ship ................................................................................................ Distinctive number or letters ........................................................................... Port of registry .............................................................................................. Gross tonnage .............................................................................................. Number of persons which the ship is certified to carry ....................................... IMO Number ....................................................................................... <sup> 2)  Refer to the IMO Ship Identification Number Scheme adopted by the Organization by resolution A.600(15).  </sup> New/existing ship ....................................................................................... <sup> *)  Delete as appropriate.  </sup> Date on which keel was laid or ship was at a similar stage of construction or, where applicable, date on which work for a conversion or an alteration or modification of a major character was commenced .............. THIS IS TO CERTIFY 
+Issued under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, and as amended by resolution MEPC. 115(51), (hereinafter referred to as “the Convention”) under the authority of the Government of: .................................................................................................................... (full designation of the country) by ............................................................................................................... (full designation of the competent person or organization authorized under the provisions of the Convention)  *Particulars of ship*  <sup> 1)  Alternatively, the particulars of the ship may be placed horizontally in boxes.  </sup> Type of ship for the application of regulation 11.3: <sup> 1)  Delete as appropriate.  </sup> New/Existing passenger ship Ship other than a passenger ship Name of ship ................................................................................................ Distinctive number or letters ........................................................................... Port of registry .............................................................................................. Gross tonnage .............................................................................................. Number of persons which the ship is certified to carry ....................................... IMO Number ....................................................................................... <sup> 2)  Refer to the IMO Ship Identification Number Scheme adopted by the Organization by resolution A.600(15).  </sup> New/existing ship ....................................................................................... <sup> *)  Delete as appropriate.  </sup> Date on which keel was laid or ship was at a similar stage of construction or, where applicable, date on which work for a conversion or an alteration or modification of a major character was commenced .............. THIS IS TO CERTIFY 
 
 1. That the ship is equipped with a sewage treatment plant/comminuter/holding tank and a discharge pipeline in compliance with regulations 9 and 10 of Annex IV of the Convention as follows: <sup> *)  Delete as appropriate.  </sup> 
 
-*1.1 Description of the sewage treatment plant: Type of sewage treatment plant ............................... Name of manufacturer ............................................. The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.2(VI)  
+*1.1 Description of the sewage treatment plant: Type of sewage treatment plant .... Name of manufacturer ... The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.2(VI). The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.159(55). The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in [resolution MEPC....]. <sup> 2)  The number of the MEPC resolution will be inserted when the standards have been adopted by the MEPC at a future session.  </sup>  
 
 *1.2 Description of comminuter: Type of comminuter ............................................... Name of manufacturer ............................................ Standard of sewage after disinfection ......................  
 
@@ -3919,7 +3997,7 @@ Issued under the provisions of the International Convention for the Prevention o
 
 ### Annex  V  
 
-####Regulations for the Prevention of Pollution by Garbage from Ships
+####Regulations for the prevention of pollution by garbage from ships
 
 ### Regulation  1  
 
@@ -3927,11 +4005,55 @@ Issued under the provisions of the International Convention for the Prevention o
 
 For the purposes of this Annex: 
 
-(1) “Garbage” means all kinds of victual, domestic and operational waste excluding fresh fish and parts thereof, generated during the normal operation of the ship and liable to be disposed of continuously or periodically except those substances which are defined or listed in other Annexes to the present Convention.  
+1 *Animal carcasses* means the bodies of any animals that are carried on board as cargo and that die or are euthanized during the voyage.  
 
-(2) “Nearest land”. The term “from the nearest land” means from the baseline from which the territorial sea of the territory in question is established in accordance with international law, except that, for the purposes of the present Convention “from nearest land” off the north-eastern coast of Australia shall mean from a line drawn from a point on the coast of Australia in latitude 11°00' S, longitude 142°08' E to a point in latitude 10°35' S, longitude 141°55' E, thence to a point latitude 10°00' S, longitude 142°00' E, thence to a point latitude 9°10' S, longitude 143°52' E, thence to a point latitude 9°00' S, longitude 144°30' E, thence to a point latitude 10°41' S, longitude 145°00' E, thence to a point latitude 13°00' S, longitude 145°00' E, thence to a point latitude 15°00' S, longitude 146°00' E, thence to a point latitude 17°30' S, longitude 147°00' E, thence to a point latitude 21°00' S, longitude 152°55' E, thence to a point latitude 24°30' S, longitude 154°00' E, thence to a point on the coast of Australia in latitude 24°42' S, longitude 153°15' E  
+2 *Cargo residues* means the remnants of any cargo which are not covered by other Annexes to the present Convention and which remain on the deck or in holds following loading or unloading, including loading and unloading excess or spillage, whether in wet or dry condition or entrained in wash water but does not include cargo dust remaining on the deck after sweeping or dust on the external surfaces of the ship.  
 
-(3) “Special area” means a sea area where for recognized technical reasons in relation to its oceanographical and ecological condition and to the particular character of its traffic the adoption of special mandatory methods for the prevention of sea pollution by garbage is required. Special areas shall include those listed in Regulation 5 of this Annex.    
+3 *Cooking oil* means any type of edible oil or animal fat used or intended to be used for the preparation or cooking of food, but does not include the food itself that is prepared using these oils.  
+
+4 *Domestic wastes* means all types of wastes not covered by other Annexes that are generated in the accommodation spaces on board the ship. Domestic wastes does not include grey water.  
+
+5 *En route* means that the ship is underway at sea on a course or courses, including deviation from the shortest direct route, which as far as practicable for navigational purposes, will cause any discharge to be spread over as great an area of the sea as is reasonable and practicable.  
+
+6 *Fishing gear* means any physical device or part thereof or combination of items that may be placed on or in the water or on the sea-bed with the intended purpose of capturing, or controlling for subsequent capture or harvesting, marine or fresh water organisms.  
+
+7 *Fixed or floating platforms* means fixed or floating structures located at sea which are engaged in the exploration, exploitation or associated offshore processing of sea-bed mineral resources.  
+
+8 *Food wastes* means any spoiled or unspoiled food substances and includes fruits, vegetables, dairy products, poultry, meat products and food scraps generated aboard ship.  
+
+9 *Garbage* means all kinds of food wastes, domestic wastes and operational wastes, all plastics, cargo residues, cooking oil, fishing gear, and animal carcasses generated during the normal operation of the ship and liable to be disposed of continuously or periodically except those substances which are defined or listed in other Annexes to the present Convention. Garbage does not include fresh fish and parts thereof generated as a result of fishing activities undertaken during the voyage, or as a result of aquaculture activities which involve the transport of fish including shellfish for placement in the aquaculture facility and the transport of harvested fish including shellfish from such facilities to shore for processing.  
+
+10 *Incinerator ashes* means ash and clinkers resulting from shipboard incinerators used for the incineration of garbage.  
+
+11 *Nearest land.* The term “from the nearest land” means from the baseline from which the territorial sea of the territory in question is established in accordance with international law, except that, for the purposes of the present Annex, “from the nearest land” off the north-eastern coast of Australia shall mean from a line drawn from a point on the coast of Australia in: latitude 11°00’ S, longitude 142°08’ E to a point in latitude 10°35’ S, longitude 141°55’ E, thence to a point latitude 10°00’ S, longitude 142°00’ E, thence to a point latitude 09°10’ S, longitude 143°52’ E, thence to a point latitude 09°00’ S, longitude 144°30’ E, thence to a point latitude 10°41’ S, longitude 145°00’ E, thence to a point latitude 13°00’ S, longitude 145°00’ E, thence to a point latitude 15°00’ S, longitude 146°00’ E, thence to a point latitude 17°30’ S, longitude 147°00’ E, thence to a point latitude 21°00’ S, longitude 152°55’ E, thence to a point latitude 24°30’ S, longitude 154°00’ E, thence to a point on the coast of Australia in latitude 24°42’ S, longitude 153°15’ E.  
+
+12 *Operational wastes* means all solid wastes (including slurries) not covered by other Annexes that are collected on board during normal maintenance or operations of a ship, or used for cargo stowage and handling. Operational wastes also includes cleaning agents and additives contained in cargo hold and external wash water. Operational wastes does not include grey water, bilge water, or other similar discharges essential to the operation of a ship, taking into account the guidelines developed by the Organization.  
+
+13 *Plastic* means a solid material which contains as an essential ingredient one or more high molecular mass polymers and which is formed (shaped) during either manufacture of the polymer or the fabrication into a finished product by heat and/or pressure. Plastics have material properties ranging from hard and brittle to soft and elastic. For the purposes of this annex, “all plastics” means all garbage that consists of or includes plastic in any form, including synthetic ropes, synthetic fishing nets, plastic garbage bags and incinerator ashes from plastic products.  
+
+14 *Special area* means a sea area where for recognized technical reasons in relation to its oceanographic and ecological condition and to the particular character of its traffic the adoption of special mandatory methods for the prevention of sea pollution by garbage is required. For the purposes of this Annex the special areas are the Mediterranean Sea area, the Baltic Sea area, the Black Sea area, the Red Sea area, the Gulfs area, the North Sea area, the Antarctic area and the Wider Caribbean Region, which are defined as follows: 
+
+.1 The Mediterranean Sea area means the Mediterranean Sea proper including the gulfs and seas therein with the boundary between the Mediterranean and the Black Sea constituted by the 41º N parallel and bounded to the west by the Straits of Gibraltar at the meridian 5°36’ W.  
+
+.2 The Baltic Sea area means the Baltic Sea proper with the Gulf of Bothnia and the Gulf of Finland and the entrance to the Baltic Sea bounded by the parallel of the Skaw in the Skagerrak at 57º 44.8’ N.  
+
+.3 The Black Sea area means the Black Sea proper with the boundary between the Mediterranean and the Black Sea constituted by the parallel 41º N.  
+
+.4 The Red Sea area means the Red Sea proper including the Gulfs of Suez and Aqaba bounded at the south by the rhumb line between Ras si Ane (12º 28.5’ N, 43º 19.6’ E) and Husn Murad (12º 40.4’ N, 43º 30.2’ E).  
+
+.5 The Gulfs area means the sea area located north-west of the rhumb line between Ras al Hadd (22º 30’ N, 59º 48’ E) and Ras al Fasteh (25º 04’ N, 61º 25’ E).  
+
+.6 The North Sea area means the North Sea proper including seas therein with the boundary between: 
+
+.1 the North Sea southwards of latitude 62º N and eastwards of longitude 4º W;  
+
+.2 the Skagerrak, the southern limit of which is determined east of the Skaw by latitude 57º 44.8’ N; and  
+
+.3 the English Channel and its approaches eastwards of longitude 5º W and northwards of latitude 48º 30’ N.    
+
+.7 The Antarctic area means the sea area south of latitude 60º S.  
+
+.8 The Wider Caribbean Region means the Gulf of Mexico and Caribbean Sea proper including the bays and seas therein and that portion of the Atlantic Ocean within the boundary constituted by the 30° N parallel from Florida eastward to 77°30’ W meridian, thence a rhumb line to the intersection of 20° N parallel and 59° W meridian, thence a rhumb line to the intersection of 7°20’ N parallel and 50° W meridian, thence a rhumb line drawn southwesterly to the eastern boundary of French Guiana.      
 
 ### Regulation  2  
 
@@ -3941,247 +4063,244 @@ Unless expressly provided otherwise, the provisions of this Annex shall apply to
 
 ### Regulation  3  
 
-####Disposal of Garbage outside Special Areas
+####General prohibition on discharge of garbage into the sea
 
-(1) Subject to the provisions of Regulations 4, 5 and 6 of this Annex: 
-
-(a) the disposal into the sea of all plastics, including but not limited to synthetic ropes, synthetic fishing nets, plastic garbage bags and incinerator ashes from plastic products which may contain toxic or heavy metal residues, is prohibited;  
-
-(b) the disposal into the sea of the following garbage shall be made as far as practicable from the nearest land but in any case is prohibited if the distance from the nearest land is less than: 
-
-(i) 25 nautical miles for dunnage, lining and packing materials which will float;  
-
-(ii) 12 nautical miles for food wastes and all other garbage including paper products, rags, glass, metal, bottles, crockery and similar refuse;    
-
-(c) disposal into the sea of garbage specified in sub-paragraph (b) (ii) of this Regulation may be permitted when it has passed through a comminuter or grinder and made as far as practicable from the nearest land but in any case is prohibited if the distance from the nearest land is less than 3 nautical miles. Such comminuted or ground garbage shall be capable of passing through a screen with openings no greater than 25 millimetres.    
-
-(2) When the garbage is mixed with other discharges having different disposal or discharge requirements the more stringent requirements shall apply.    
+1.  Discharge of all garbage into the sea is prohibited, except as provided otherwise in regulations 4, 5, 6 and 7 of this Annex.   
+2.  Except as provided in regulation 7 of this Annex, discharge into the sea of all plastics, including but not limited to synthetic ropes, synthetic fishing nets, plastic garbage bags and incinerator ashes from plastic products is prohibited.   
+3.  Except as provided in regulation 7 of this Annex, the discharge into the sea of cooking oil is prohibited.   
 
 ### Regulation  4  
 
-####Special Requirements for Disposal of Garbage
+####Discharge of garbage outside special areas
 
-(1) Subject to the provisions of paragraph (2) of this Regulation, the disposal of any materials regulated by this Annex is prohibited from fixed or floating platforms engaged in the exploration, exploitation and associated offshore processing of seabed mineral resources, and from all other ships when alongside or within 500 metres of such platforms.  
+1.  Subject to the provisions of regulations 5, 6, and 7 of this Annex, discharge of the following garbage into the sea outside special areas shall only be permitted while the ship is en route and as far as practicable from the nearest land, but in any case not less than: 
 
-(2) The disposal into the sea of food wastes may be permitted when they have been passed through a comminuter or grinder from such fixed or floating platforms located more than 12 nautical miles from land and all other ships when alongside or within 500 metres of such platforms. Such comminuted or ground food wastes shall be capable of passing through a screen with openings no greater than 25 millimetres.    
+.1 3 nautical miles from the nearest land for food wastes which have been passed through a comminuter or grinder. Such comminuted or ground food wastes shall be capable of passing through a screen with openings no greater than 25 mm.  
+
+.2 12 nautical miles from the nearest land for food wastes that have not been treated in accordance with subparagraph .1 above.  
+
+.3 12 nautical miles from the nearest land for cargo residues that cannot be recovered using commonly available methods for unloading. These cargo residues shall not contain any substances classified as harmful to the marine environment, taking into account guidelines developed by the Organization.  
+
+.4 For animal carcasses, discharge shall occur as far from the nearest land as possible, taking into account the guidelines developed by the Organization.     
+2.  Cleaning agents or additives contained in cargo hold, deck and external surfaces wash water may be discharged into the sea, but these substances must not be harmful to the marine environment, taking into account guidelines developed by the Organization.   
+3.  When garbage is mixed with or contaminated by other substances prohibited from discharge or having different discharge requirements, the more stringent requirements shall apply.   
 
 ### Regulation  5  
 
-####Disposal of Garbage within Special Areas
+####Special requirements for discharge of garbage from fixed or floating platforms
 
-(1) For the purposes of this Annex the special areas are the Mediterranean Sea area, the Baltic Sea area, the Black Sea area, the Red Sea area, the ‘Gulfs area’, the North Sea area, the Antarctic area and the Wider Caribbean Region, including the Gulf of Mexico and the Caribbean Sea, which are defined as follows: 
-
-(a) The Mediterranean Sea area means the Mediterranean Sea proper including the gulfs and seas therein with the boundary between the Mediterranean and the Black Sea constituted by the 41 °N parallel and bounded to the west by the Straits of Gibraltar at the meridian of 5°36’W.  
-
-(b) The Baltic Sea area means the Baltic Sea proper with the Gulf of Bothnia and the Gulf of Finland and the entrance to the Baltic Sea bounded by the parallel of the Skaw in the Skagerrak at 57°44.8’N.  
-
-(c) The Black Sea area means the Black Sea proper with the boundary between the Mediterranean and the Black Sea constituted by the parallel 41°N.  
-
-(d) The Red Sea area means the Red Sea proper including the Gulfs of Suez and Aqaba bounded at the south by the rhumb line between Ras si Ane (12°8.5’N, 43°19.6’E) and Husn Murad (12°40.4’N, 43°30.2’E).  
-
-(e) The “Gulfs area” means the sea area located north west of the rhumb line between Ras al Hadd (22°30‘N, 59°48‘E) and Ras al Fasteh (25°04’N, 61°25’E).  
-
-(f) The North Sea area means the North Sea proper, including seas therein the boundary between: 
-
-(i) the North Sea southwards of latitude 62° N and eastwards of longitude 4° W;  
-
-(ii) the Skagerrak, the southern limit of which is determined east of the Skaw by latitude 57°44.8' N; and  
-
-(iii) the English Channel and its approaches eastwards of longitude 5° W, and northward of latitude 48° 30'N.    
-
-(g) The Antarctic area means the sea area south of 60° south latitude.  
-
-(h) The Wider Caribbean Region, as defined in article 2, paragraph 1 of the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region (Cartagena de Indias, 1983), means the Gulf of Mexico and Caribbean Sea proper including the bays and seas therein and that portion of the Atlantic Ocean within the boundary constituted by the 30° N parallel from Florida eastward to 77°30'W meridian, thence a rhumb line to the intersection of 20° N parallel and 59° W meridian, thence a rhumb line to the intersection of 7°20'N parallel and 50° W meridian, thence a rhumb line drawn southwesterly to the eastern boundary of French Guiana    
-
-(2) Subject to the provisions of Regulation 6 of this Annex: 
-
-(a) disposal into the sea of the following is prohibited: 
-
-(i) all plastics, including but not limited to synthetic ropes, synthetic fishing nets, plastic garbage bags and incinerator ashes from plastic products which may contain toxic or heavy metal residues; and  
-
-(ii) all other garbage, including paper products, rags, glass, metal, bottles, crockery, dunnage, lining and packing materials;    
-
-(b) except as provided in subparagraph (c) of this paragraph, disposal into the sea of food wastes shall be made as far as practicable from land, but in any case not less than 12 nautical miles from the nearest land.  
-
-(c) disposal into the Wider Caribbean Region of food wastes which have been passed through a comminuter or grinder shall be made as far as practicable from land, but in any case not subject to regulation 4 not less than 3 nautical miles from the nearest land. Such comminuted or ground food wastes shall be capable of passing through a screen with openings no greater than 25 millimetres.    
-
-(3) When the garbage is mixed with other discharges having different disposal or discharge requirements the more stringent requirements shall apply.  
-
-(4) Reception facilities within special areas: 
-
-(a) The Government of each Party to the Convention, the coastline of which borders a special area undertakes to ensure that as soon as possible in all ports within a special area, adequate reception facilities are provided in accordance with Regulation 7 of this Annex, taking into account the special needs of ships operating in these areas.  
-
-(b) The Government of each Party concerned shall notify the Organization of the measures taken pursuant to sub-paragraph (a) of this Regulation. Upon receipt of sufficient notifications the Organization shall establish a date from which the requirements of this Regulation in respect of the area in question shall take effect. The Organization shall notify all Parties of the date so established no less than twelve months in advance of that date.  
-
-(c) After the date so established, ships calling also at ports in these special areas where such facilities are not yet available, shall fully comply with the requirements of this Regulation.    
-
-(5) Notwithstanding paragraph 4 of this Regulation, the following rules apply to the Antarctic area: 
-
-a) The Government of each Party to the Convention whose ports are used by ships departing en route to or arriving from the Antarctic area undertakes to ensure that as soon as practicable adequate facilities are provided for the reception of all garbage from all ships, without causing undue delay, and according to the needs of the ships using them.  
-
-b) The Government of each Party to the Convention shall ensure that all ships entitled to fly its flag, before entering the Antarctic area, have sufficient capacity on board for the retention of all garbage while operating in the area and have concluded arrangements to discharge such garbage at a reception facility after leaving the area.      
+1.  Subject to the provisions of paragraph 2 of this regulation, the discharge into the sea of any garbage is prohibited from fixed or floating platforms and from all other ships when alongside or within 500 m of such platforms.   
+2.  Food wastes may be discharged into the sea from fixed or floating platforms located more than 12 nautical miles from the nearest land and from all other ships when alongside or within 500 m of such platforms, but only when the wastes have been passed through a comminuter or grinder. Such comminuted or ground food wastes shall be capable of passing through a screen with openings no greater than 25 mm.   
 
 ### Regulation  6  
 
-####Exceptions
+####Discharge of garbage within special areas
 
-Regulations 3, 4 and 5 of this Annex shall not apply to: 
+1.  Discharge of the following garbage into the sea within special areas shall only be permitted while the ship is en route and as follows: 
 
-(a) the disposal of garbage from a ship necessary for the purpose of securing the safety of a ship and those on board, or saving life at sea; or  
+.1 Discharge into the sea of food wastes as far as practicable from the nearest land, but not less than 12 nautical miles from the nearest land or the nearest ice shelf. Food wastes shall be comminuted or ground and shall be capable of passing through a screen with openings no greater than 25 mm. Food wastes shall not be contaminated by any other garbage type. Discharge of introduced avian products, including poultry and poultry parts, is not permitted in the Antarctic area unless it has been treated to be made sterile.  
 
-(b) the escape of garbage resulting from damage to a ship or its equipment provided all reasonable precautions have been taken before and after the occurrence of the damage, for the purpose of preventing or minimizing the escape; or  
+.2 Discharge of cargo residues that cannot be recovered using commonly available methods for unloading, where all the following conditions are satisfied: 
 
-(c) the accidental loss of synthetic fishing nets, provided that all reasonable precautions have been taken to prevent such loss    
+.1 Cargo residues, cleaning agents or additives, contained in hold washing water do not include any substances classified as harmful to the marine environment, taking into account guidelines developed by the Organization;  
+
+.2 Both the port of departure and the next port of destination are within the special area and the ship will not transit outside the special area between those ports;  
+
+.3 No adequate reception facilities are available at those ports taking into account guidelines developed by the Organization; and  
+
+.4 Where the conditions of subparagraphs 2.1, 2.2 and 2.3 of this paragraph have been fulfilled, discharge of cargo hold washing water containing residues shall be made as far as practicable from the nearest land or the nearest ice shelf and not less than 12 nautical miles from the nearest land or the nearest ice shelf.       
+2.  Cleaning agents or additives contained in deck and external surfaces wash water may be discharged into the sea, but only if these substances are not harmful to the marine environment, taking into account guidelines developed by the Organization.   
+3.  The following rules (in addition to the rules in paragraph 1 of this regulation) apply with respect to the Antarctic area: 
+
+.1 Each Party at whose ports ships depart en route to or arrive from the Antarctic area undertakes to ensure that as soon as practicable adequate facilities are provided for the reception of all garbage from all ships, without causing undue delay, and according to the needs of the ships using them.  
+
+.2 Each Party shall ensure that all ships entitled to fly its flag, before entering the Antarctic area, have sufficient capacity on board for the retention of all garbage, while operating in the area and have concluded arrangements to discharge such garbage at a reception facility after leaving the area.     
+4.  When garbage is mixed with or contaminated by other substances prohibited from discharge or having different discharge requirements, the more stringent requirements shall apply.   
 
 ### Regulation  7  
 
-####Reception Facilities
+####Exceptions
 
-(1) The Government of each Party to the Convention undertakes to ensure the provision of facilities at ports and terminals for the reception of garbage, without causing undue delay to ships, and according to the needs of the ships using them.  
+1.  Regulations 3, 4, 5 and 6 of this Annex shall not apply to: 
 
-(2) The Government of each Party shall notify the Organization for transmission to the Parties concerned of all cases where the facilities provided under this Regulation are alleged to be inadequate.    
+.1 The discharge of garbage from a ship necessary for the purpose of securing the safety of a ship and those on board or saving life at sea; or  
+
+.2 The accidental loss of garbage resulting from damage to a ship or its equipment, provided that all reasonable precautions have been taken before and after the occurrence of the damage, to prevent or minimize the accidental loss; or  
+
+.3 The accidental loss of fishing gear from a ship provided that all reasonable precautions have been taken to prevent such loss; or  
+
+.4 The discharge of fishing gear from a ship for the protection of the marine environment or for the safety of that ship or its crew.     
+2.  Exception of *en route*: 
+
+.1 The *en route* requirements of regulations 4 and 6 shall not apply to the discharge of food wastes where it is clear the retention on board of these food wastes presents an imminent health risk to the people on board.     
 
 ### Regulation  8  
 
-####Port State control on operational requirements
+####Reception facilities
 
-(1) A ship when in a port of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex, where there are clear grounds for believing that the master or crew are not familiair with essential shipboard procedures relating to the prevention of pollution by garbage.  
+1.  Each Party undertakes to ensure the provision of adequate facilities at ports and terminals for the reception of garbage without causing undue delay to ships, and according to the needs of the ships using them.   
+2.  Each Party shall notify the Organization for transmission to the Contracting Parties concerned of all cases where the facilities provided under this regulation are alleged to be inadequate.   
+2bis.  Small Island Developing States may satisfy the requirements in paragraphs 1 and 2.1 of this regulation through regional arrangements when, because of those States’ unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization. The Government of each Party participating in the Arrangement shall consult with the Organization for circulation to the Parties of the present Convention: 
 
-(2) In the circumstances given in paragraph (1) of this regulation, the Party shall take such steps as will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.  
+.1. how the Regional Reception Facilities Plan takes into account the Guidelines;  
 
-(3) Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.  
+.2. particulars of the identified Regional Ships Waste Reception Centres; and  
 
-(4) Nothing in this regulation shall be construed to limit the rights and obligations of a Party carrying out control over operational requirements specifically provided for in the present Convention    
+.3. particulars of those ports with only limited facilities.     
+3.  Reception facilities within special areas 
+
+.1 Each Party, the coastline of which borders a special area, undertakes to ensure that as soon as possible, in all ports and terminals within the special area, adequate reception facilities are provided, taking into account the needs of ships operating in these areas.  
+
+.2 Each Party concerned shall notify the Organization of the measures taken pursuant to subparagraph 3.1 of this regulation. Upon receipt of sufficient notifications the Organization shall establish a date from which the requirements of regulation 6 of this Annex in respect of the area in question are to take effect. The Organization shall notify all Parties of the date so established no less than twelve months in advance of that date. Until the date so established, ships that are navigating in a special area shall comply with the requirements of regulation 4 of this Annex as regards discharges outside special areas.     
 
 ### Regulation  9  
 
+####Port State control on operational requirements
+
+<sup> 1)  Refer to the Procedures for port State control adopted by the Organization by resolution A.787(19) and amended by A.882(21); see IMO sales publication IA650E.  </sup>   
+1.  A ship when in a port or an offshore terminal of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex, where there are clear grounds for believing that the master or crew are not familiar with essential shipboard procedures relating to the prevention of pollution by garbage.   
+2.  In the circumstances given in paragraph 1 of this regulation, the Party shall take such steps as will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.   
+3.  Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.   
+4.  Nothing in this regulation shall be construed to limit the rights and obligations of a Party carrying out control over operational requirements specifically provided for in the present Convention.   
+
+### Regulation  10  
+
 ####Placards, garbage management plans and garbage record-keeping
 
-1 
+<sup> 2)  Refer to the Guidelines for the development of garbage management plans adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.71(38); see MEPC/Circ.317 and IMO sales publication IA656E.  </sup>   
+1.  
 
-a) Every ship of 12 metres or more in length overall shall display placards which notify the crew and passengers of the disposal requirements of regulations 3 and 5 of this Annex, as applicable.  
+.1 Every ship of 12 m or more in length overall and fixed or floating platforms shall display placards which notify the crew and passengers of the discharge requirements of regulations 3, 4, 5 and 6 of this Annex, as applicable.  
 
-b) The placards shall be written in the working language of the ship's personnel and, for ships engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention, shall also be in English, French or Spanish.    
+.2 The placards shall be written in the working language of the ship’s crew and, for ships engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention, shall also be in English, French or Spanish.     
+2.  Every ship of 100 gross tonnage and above, and every ship which is certified to carry 15 or more persons, and fixed or floating platforms shall carry a garbage management plan which the crew shall follow. This plan shall provide written procedures for minimizing, collecting, storing, processing and disposing of garbage, including the use of the equipment on board. It shall also designate the person or persons in charge of carrying out the plan. Such a plan shall be based on the guidelines developed by the Organization 2 and written in the working language of the crew.   
+3.  Every ship of 400 gross tonnage and above and every ship which is certified to carry 15 or more persons engaged in voyages to ports or offshore terminals under the jurisdiction of another Party to the Convention and every fixed or floating platform shall be provided with a Garbage Record Book. The Garbage Record Book, whether as a part of the ship’s official log-book or otherwise, shall be in the form specified in the appendix to this Annex: 
 
-2. Every ship of 400 tons gross tonnage and above, and every ship which is certified to carry 15 persons or more, shall carry a garbage management plan which the crew shall follow. This plan shall provide written procedures for collecting, storing, processing and disposing of garbage, including the use of the equipment on board. It shall also designate the person in charge of carrying out the plan. Such a plan shall be in accordance with the guidelines developed by the Organization and written in the working language of the crew.  
+.1 Each discharge into the sea or to a reception facility, or a completed incineration, shall be promptly recorded in the Garbage Record Book and signed for on the date of the discharge or incineration by the officer in charge. Each completed page of the Garbage Record Book shall be signed by the master of the ship. The entries in the Garbage Record Book shall be at least in English, French or Spanish. Where the entries are also made in an official language of the State whose flag the ship is entitled to fly, the entries in that language shall prevail in case of a dispute or discrepancy;  
 
-3. Every ship of 400 tons gross tonnage and above and every ship which is certified to carry 15 persons or more engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention and every fixed and floating platform engaged in exploration and exploitation of the sea-bed, shall be provided with a Garbage Record Book. The Garbage Record Book, whether as a part of the ship's official logbook or otherwise, shall be in the form specified in the Appendix to this Annex; 
+.2 The entry for each discharge or incineration shall include date and time, position of the ship, category of the garbage and the estimated amount discharged or incinerated;  
 
-a) Each discharge operation, or completed incineration, shall be recorded in the Garbage Record Book and signed for on the date of the incineration or discharge by the officer in charge. Each completed page of the Garbage Record Book shall be signed by the master of the ship. The entries in the Garbage Record Book shall be at least in English, French or Spanish. Where the entries are also made in an official language of the State whose flag the ship is entitled to fly are also used, these entries shall prevail in case of a dispute or discrepancy;  
+.3 The Garbage Record Book shall be kept on board the ship or the fixed or floating platform, and in such a place as to be readily available for inspection at all reasonable times. This document shall be preserved for a period of at least two years from the date of the last entry made in it;  
 
-b) the entry for each incineration or discharge shall include date and time, position of the ship, description of the garbage and the estimated amount incinerated or discharged;  
+.4 In the event of any discharge or accidental loss referred to in regulation 7 of this Annex an entry shall be made in the Garbage Record Book, or in the case of any ship of less than 400 gross tonnage, an entry shall be made in the ship’s official log-book, of the location, circumstances of, and the reasons for the discharge or loss, details of the items discharged or lost, and the reasonable precautions taken to prevent or minimize such discharge or accidental loss.     
+4.  The Administration may waive the requirements for Garbage Record Books for: 
 
-c) the Garbage Record Book shall be kept on board the ship and in such a place as to be available for inspection in a reasonable time. This document shall be preserved for a period of two years after the last entry is made on the record;  
+.1 Any ship engaged on voyages of one (1) hour or less in duration which is certified to carry 15 or more persons; or  
 
-d) in the event of discharge, escape or accidental loss referred to in regulation 6 of this Annex an entry shall be made in the Garbage Record Book of the circumstances of, and the reasons for, the loss.    
-
-4. The Administration may waive the requirements for Garbage Record Book for: 
-
-(i) any ship engaged on voyages of 1 hour or less in duration which is certified to carry 15 persons or more; or  
-
-(ii) fixed or floating platforms while engaged in exploration and exploitation of the sea-bed.    
-
-5. The competent authority of the Government of a Party to the Convention may inspect the Garbage Record Book on board any ship to which this regulation applies while the ship is in its ports or offshore terminals and may make a copy of any entry in that book, and may require the master of the ship to certify that the copy is a true copy of such an entry. Any copy so made, which has been certified by the master of the ship as a true copy of an entry in the ship's Garbage Record Book, shall be admissible in any judicial proceedings as evidence of the facts stated in the entry. The inspection of a Garbage Record Book and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.  
-
-6. In the case of ships built before 1 July 1997, this regulation shall apply as from 1 July 1998.    
+.2 Fixed or floating platforms.     
+5.  The competent authority of the Government of a Party to the Convention may inspect the Garbage Record Books or ship’s official log–book on board any ship to which this regulation applies while the ship is in its ports or offshore terminals and may make a copy of any entry in those books, and may require the master of the ship to certify that the copy is a true copy of such an entry. Any copy so made, which has been certified by the master of the ship as a true copy of an entry in the ship’s Garbage Record Book or ship’s official log-book, shall be admissible in any judicial proceedings as evidence of the facts stated in the entry. The inspection of a Garbage Record Book or ship’s official log-book and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.   
+6.  The accidental loss or discharge of fishing gear as provided for in regulations 7.1.3 and 7.1.3bis which poses a significant threat to the marine environment or navigation shall be reported to the State whose flag the ship is entitled to fly, and, where the loss or discharge occurs within waters subject to the jurisdiction of a coastal State, also to that coastal State.   
 
 ### Appendix  
 
-####Form of Garbage Record Book
+####Form of garbage record book
 
-Name of ship: ———————————— Distinctive number or letters ——————— IMO No. ——————————————— Period: ——— From: ——— To: ——— 
+Name of ship: ... Distinctive number or letters: ... IMO No.: ... Period: ... From: ... To: ... 
 
-1. Introduction In accordance with Regulation 9 of Annex V of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL 73/78) a record is to be kept of each discharge operation or completed incineration. This includes discharges at sea, to reception facilities, or to other ships.  
+I  *Introduction*  In accordance with regulation 10 of Annex V of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 (MARPOL), a record is to be kept of each discharge operation or completed incineration. This includes discharges into the sea, to reception facilities, or to other ships, as well as the accidental loss of garbage.  
 
-2. Garbage and garbage management: Garbage includes all kinds of food, domestic and operational waste excluding fresh fish and parts thereof, generated during the normal operation of the vessel and liable to be disposed of continuously or periodically except those substances which are defined or listed in other annexes to MARPOL 73/78 (such as oil, sewage or noxious liquid substances). The Guidelines for the Implementation of Annex V of MARPOL 73/78 should also be referred to for relevant information.  
+2  *Garbage and garbage management*  *Garbage* means all kinds of food wastes, domestic wastes and operational wastes, all plastics, cargo residues, cooking oil, fishing gear, and animal carcasses generated during the normal operation of the ship and liable to be disposed of continuously or periodically except those substances which are defined or listed in other Annexes to the present Convention. Garbage does not include fresh fish and parts thereof generated as a result of fishing activities undertaken during the voyage, or as a result of aquaculture activities which involve the transport of fish including shellfish for placement in the aquaculture facility and the transport of harvested fish including shellfish from such facilities to shore for processing. The Guidelines for the Implementation of Annex V of MARPOL should also be referred to for relevant information. <sup> 1)  Refer to the Guidelines for the Implementation of Annex V of MARPOL 73/78, as amended by resolutions.  </sup>  
 
-3. Description of the garbage The garbage is to be grouped into categories for the purposes of this record book as follows: 
+3  *Description of the garbage*  Garbage is to be grouped into categories for the purposes of the Garbage Record Book (or ship’s official log-book) as follows: 
 
-1. Plastics  
+A Plastics  
 
-2. Floating dunnage, lining, or packing material  
+B Food wastes  
 
-3. Ground-down paper products, rags, glass, metal, bottles, crockery, etc.  
+C Domestic Wastes  
 
-4. Cargo residues, paper products, rags, glass, metal, bottles, crockery, etc.  
+D Cooking Oil  
 
-5. Food waste  
+E Incinerator ashes  
 
-6. Incinerator ash    
+F Operational wastes  
 
-4. Entries in the Garbage Record Book Entries in the Garbage Record Book shall be made on each of the following occasions: 
+G Cargo residues  
 
-a) When garbage is discharged into the sea: 
+H Animal Carcass(es)  
 
-(i) Date and time of discharge  
+I Fishing Gear <sup> 2)  Refer to Guidelines to be developed by the Organization.  </sup>    
 
-(ii) Position of the ship (latitude and longitude). Note for cargo residue discharges, include discharge start and stop positions.  
+4  *Entries in the Garbage Record Book*  
 
-(iii) Category of garbage discharged  
+4.1 Entries in the Garbage Record Book shall be made on each of the following occasions: 
 
-(iv) Estimated amount discharged for each category in m <sup>3</sup>  
+4.1.1 When garbage is discharged to a reception facility ashore or to other ships: <sup> 3)  Ship’s masters should obtain from the operator of the reception facilities, which includes barges and trucks, a receipt or certificate specifying the estimated amount of garbage transferred. The receipts or certificates must be kept together with the Garbage Record Book.  </sup> 
 
-(v) Signature of the officer in charge of the operation.    
+.1 Date and time of discharge  
 
-b) When garbage is discharged to reception facilities ashore or to other ships: 
+.2 Port or facility, or name of ship  
 
-(i) Date and time of discharge  
+.3 Categories of garbage discharged  
 
-(ii) Port or facility, or name of ship  
+.4 Estimated amount discharged for each category in cubic metres  
 
-(iii) Category of garbage discharged  
+.5 Signature of officer in charge of the operation.    
 
-(iv) Estimated amount discharged for each category in m <sup>3</sup>  
+4.1.2 When garbage is incinerated: 
 
-(v) Signature of officer in charge of the operation.    
+.1 Date and time of start and stop of incineration  
 
-c) When garbage is incinerated: 
+.2 Position of the ship (latitude and longitude) at the start and stop of incineration  
 
-(i) Date and time of start and stop of incineration  
+.3 Categories of garbage incinerated  
 
-(ii) Position of the ship (latitude and longitude)  
+.4 Estimated amount incinerated in cubic metres  
 
-(iii) Estimated amount incinerated in m <sup>3</sup>  
+.5 Signature of the officer in charge of the operation.    
 
-(iv) Signature of the officier in charge of the operation.    
+4.1.3 When garbage is discharged into the sea in accordance with regulations 4, 5 or 6 of Annex V of MARPOL: 
 
-d) Accidental or other exceptional discharges of garbage: 
+.1 Date and time of discharge  
 
-(i) Time of occurrence  
+.2 Position of the ship (latitude and longitude). Note: for cargo residue discharges, include discharge start and stop positions.  
 
-(ii) Port or position of the ship at time of occurrence  
+.3 Category of garbage discharged  
 
-(iii) Estimated amount and category of garbage  
+.4 Estimated amount discharged for each category in cubic metres  
 
-(iv) Circumstances of disposal, escape or loss, the reason therefore and general remarks.      
+.5 Signature of the officer in charge of the operation.    
 
-4.2. Receipts The master should obtain from the operator of port reception facilities, or from the master of the ship receiving the garbage, a receipt or certificate specifying the estimated amount of garbage transferred. The receipts or certificates must be kept on board the ship with the Garbage Record Book for two years.  
+4.1.4 Accidental or other exceptional discharges or loss of garbage into the sea, including in accordance with regulation 7 of Annex V of MARPOL: 
 
-4.3. Amount of garbage The amount of garbage onboard should be estimated in m <sup>3</sup>, if possible separately according to category. The Garbage Record Book contains many references to estimated amount of garbage. It is recognized that the accuracy of estimating amounts of garbage is left to interpretation. Volume estimates will differ before and after processing. Some processing procedures may not allow for a usable estimate of volume, e.g. the continuous processing of food waste. Such factors should be taken into consideration when making and interpreting entries made in a record.   
-###Record of garbage discharges
+.1 Date and time of occurrence  
 
-Ship's name : ___________________________ Distinctive No, or letters : IMO No : _______ Garbage categories: 
+.2 Port or position of the ship at time of occurrence (latitude, longitude and water depth if known)  
 
-1. Plastic  
+.3 Categories of garbage discharged or lost  
 
-2. Floating dunnage, lining or packing materials  
+.4 Estimated amount for each category in cubic metres  
 
-3. Ground paper products, rags, glass, metal, bottles, crockery, etc.  
+.5 The reason for the discharge or loss and general remarks.      
 
-4. Paper products, rages, glass, metal, bottles, crockery, etc.  
+4.2 Amount of garbage The amount of garbage on board should be estimated in cubic metres, if possible separately according to category. The Garbage Record Book contains many references to estimated amount of garbage. It is recognized that the accuracy of estimating amounts of garbage is left to interpretation. Volume estimates will differ before and after processing. Some processing procedures may not allow for a usable estimate of volume, e.g., the continuous processing of food waste. Such factors should be taken into consideration when making and interpreting entries made in a record.      *RECORD OF GARBAGE DISCHARGES*  Ship’s name: ... Distinctive No., or letters: ... IMO No.: ... Garbage categories: 
 
-5. Food waste  
+A. Plastics  
 
-6. Incinerator ash except from plastic products which may contain toxic or heavy metal residues   NOTE : THE DISCHARGE OF ANY GARBAGE OTHER THAN FOOD WASTE IS PROHIBITED IN SPECIAL AREAS. ONLY GARBAGE DISCHARGED INTO THE SEA MUST BE CATEGORIZED. GARBAGE OTHER THAN CATEGORY 1 DISCHARGED TO RECEPTION FACILITIES NEED ONLY BE LISTED AS A TOTAL ESTIMATED AMOUNT. DISCHARGES OF CARGO RESIDUES REQUIRE START AND STOP POSITIONS TO BE RECORDED.  
+B. Food wastes  
 
-| Date/time  | Position of the ship  | Estimated amount discharged into sea (m <sup>3</sup>)  | Estimated amount dis- charged to reception faci- lities or to other ship (m <sup>3</sup>)  | Estimated amount inci- nerated (m <sup>3</sup>)  | Certification/ Signature  |
-|:---|:---|:---|:---|:---|:---|
-| --- | --- | Cat. 2  | Cat. 3  | Cat. 4  | Cat. 5  | Cat. 6  | Cat. 1  | Other  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+C. Domestic wastes (e.g., paper products, rags, glass, metal, bottles, crockery, etc.)  
 
-Master's signature: _____________________________ Date : ________________   
+D. Cooking oil  
+
+E. Incinerator Ashes  
+
+F. Operational wastes  
+
+G. Cargo residues  
+
+H. Animal Carcass(es)  
+
+I. Fishing gear   NEW TABLE LAYOUT AS BELOW:  
+
+|  *Date/Time*   |  *Position of the Ship/Remarks (e.g., accidental loss)*   |  *Category*   |  *Estimated Amount Discharged or Incinerated*   |  *To Sea*   |  *To Reception Facility*   |  *Incineration*   |  *Certification/Signature*   |
+|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+Master’s signature: ... Date: ...   
 
 ### Annex  VI  
 
@@ -4195,7 +4314,7 @@ Master's signature: _____________________________ Date : ________________
 
 ####Application
 
-The provisions of this Annex shall apply to all ships, except where expressly provided otherwise in regulations 3, 5, 6, 13, 15, 16 and 18 of this Annex.  
+The provisions of this Annex shall apply to all ships, except where expressly provided otherwise in regulations 3, 5, 6, 13, 15, 16, 18, 19, 20, 21, 22 and 23 of this Annex.  
 
 ### Regulation  2  
 
@@ -4263,7 +4382,55 @@ CFC-115 Chloropentafluoroethane
 
 20. *Sludge oil* means sludge from the fuel oil or lubricating oil separators, waste lubricating oil from main or auxiliary machinery, or waste oil from bilge water separators, oil filtering equipment or drip trays.  
 
-21. *Tanker* means an oil tanker as defined in regulation 1 of Annex I or a chemical tanker as defined in regulation 1 of Annex II of the present Convention.    
+21. *Tanker* in relation to regulation 15 means an oil tanker as defined in regulation 1 of Annex I or a chemical tanker as defined in regulation 1 of Annex II of the present Convention.   For the purpose of chapter 4: 
+
+22. “Existing ship” means a ship which is not a new ship.  
+
+23. “New ship” means a ship: 
+
+.1. for which the building contract is placed on or after 1 January 2013; or  
+
+.2. in the absence of a building contract, the keel of which is laid or which is at a similar stage of construction on or after 1 July 2013; or  
+
+.3. the delivery of which is on or after 1 July 2015.    
+
+24. “Major Conversion” means in relation to chapter 4 a conversion of a ship: 
+
+.1. which substantially alters the dimensions, carrying capacity or engine power of the ship; or  
+
+.2. which changes the type of the ship; or  
+
+.3. the intent of which in the opinion of the Administration is substantially to prolong the life of the ship; or  
+
+.4. which otherwise so alters the ship that, if it were a new ship, it would become subject to relevant provisions of the present Convention not applicable to it as an existing ship; or  
+
+.5. which substantially alters the energy efficiency of the ship and includes any modifications that could cause the ship to exceed the applicable required EEDI as set out in regulation 21.    
+
+25. “Bulk carrier” means a ship which is intended primarily to carry dry cargo in bulk, including such types as ore carriers as defined in SOLAS chapter XII, regulation 1, but excluding combination carriers.  
+
+26. “Gas carrier” means a cargo ship constructed or adapted and used for the carriage in bulk of any liquefied gas.  
+
+27. “Tanker” in relation to chapter 4 means an oil tanker as defined in MARPOL Annex I, regulation 1 or a chemical tanker or an NLS tanker as defined in MARPOL Annex II, regulation 1.  
+
+28. “Container ship” means a ship designed exclusively for the carriage of containers in holds and on deck.  
+
+29. “General cargo ship” means a ship with a multi-deck or single deck hull designed primarily for the carriage of general cargo. This definition excludes specialized dry cargo ships, which are not included in the calculation of reference lines for general cargo ships, namely livestock carrier, barge carrier, heavy load carrier, yacht carrier, nuclear fuel carrier.  
+
+30. “Refrigerated cargo carrier” means a ship designed exclusively for the carriage of refrigerated cargoes in holds.  
+
+31. “Combination carrier” means a ship designed to load 100% deadweight with both liquid and dry cargo in bulk.  
+
+32. “Passenger ship” means a ship which carries more than 12 passengers.  
+
+33. “Ro-ro cargo ship (vehicle carrier)” means a multi deck roll-on-roll-off cargo ship designed for the carriage of empty cars and trucks.  
+
+34. “Ro-ro cargo ship” means a ship designed for the carriage of roll-on-roll-off cargo transportation units.  
+
+35. “Ro-ro passenger ship” means a passenger ship with roll-on-roll-off cargo spaces.  
+
+36. “Attained EEDI” is the EEDI value achieved by an individual ship in accordance with regulation 20 of chapter 4.  
+
+37. “Required EEDI” is the maximum value of attained EEDI that is allowed by regulation 21 of chapter 4 for the specific ship type and size.    
 
 ### Regulation  3  
 
@@ -4317,18 +4484,18 @@ CFC-115 Chloropentafluoroethane
 
 ####Surveys
 
-1.  Every ship of 400 gross tonnage and above and every fixed and floating drilling rig and other platforms shall be subject to the surveys specified below: 
+1.  Every ship of 400 gross tonnage and above and every fixed and floating drilling rig and other platforms shall to ensure compliance with chapter 3 be subject to the surveys specified below: 
 
-.1. An initial survey before the ship is put into service or before the certificate required under regulation 6 of this Annex is issued for the first time. This survey shall be such as to ensure that the equipment, systems, fittings, arrangements and material fully comply with the applicable requirements of this Annex;  
+.1. An initial survey before the ship is put into service or before the certificate required under regulation 6 of this Annex is issued for the first time. This survey shall be such as to ensure that the equipment, systems, fittings, arrangements and material fully comply with the applicable requirements of chapter 3;  
 
-.2. A renewal survey at intervals specified by the Administration, but not exceeding five years, except where regulation 9.2, 9.5, 9.6 or 9.7 of this Annex is applicable. The renewal survey shall be such as to ensure that the equipment, systems, fittings, arrangements and material fully comply with applicable requirements of this Annex;  
+.2. A renewal survey at intervals specified by the Administration, but not exceeding five years, except where regulation 9.2, 9.5, 9.6 or 9.7 of this Annex is applicable. The renewal survey shall be such as to ensure that the equipment, systems, fittings, arrangements and material fully comply with applicable requirements of chapter 3;  
 
-.3. An intermediate survey within three months before or after the second anniversary date or within three months before or after the third anniversary date of the certificate which shall take the place of one of the annual surveys specified in paragraph 1.4 of this regulation. The intermediate survey shall be such as to ensure that the equipment and arrangements fully comply with the applicable requirements of this Annex and are in good working order. Such intermediate surveys shall be endorsed on the certificate issued under regulation 6 or 7 of this Annex;  
+.3. An intermediate survey within three months before or after the second anniversary date or within three months before or after the third anniversary date of the certificate which shall take the place of one of the annual surveys specified in paragraph 1.4 of this regulation. The intermediate survey shall be such as to ensure that the equipment and arrangements fully comply with the applicable requirements of chapter 3 and are in good working order. Such intermediate surveys shall be endorsed on the IAPP Certificate issued under regulation 6 or 7 of this Annex;  
 
-.4. An annual survey within three months before or after each anniversary date of the certificate, including a general inspection of the equipment, systems, fittings, arrangements and material referred to in paragraph 1.1 of this regulation to ensure that they have been maintained in accordance with paragraph 4 of this regulation and that they remain satisfactory for the service for which the ship is intended. Such annual surveys shall be endorsed on the certificate issued under regulation 6 or 7 of this Annex; and  
+.4. An annual survey within three months before or after each anniversary date of the certificate, including a general inspection of the equipment, systems, fittings, arrangements and material referred to in paragraph 1.1 of this regulation to ensure that they have been maintained in accordance with paragraph 5 of this regulation and that they remain satisfactory for the service for which the ship is intended. Such annual surveys shall be endorsed on the IAPP Certificate issued under regulation 6 or 7 of this Annex; and  
 
-.5. An additional survey either general or partial, according to the circumstances, shall be made whenever any important repairs or renewals are made as prescribed in paragraph 4 of this regulation or after a repair resulting from investigations prescribed in paragraph 5 of this regulation. The survey shall be such as to ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are in all respects satisfactory and that the ship complies in all respects with the requirements of this Annex.     
-2.  In the case of ships of less than 400 gross tonnage, the Administration may establish appropriate measures in order to ensure that the applicable provisions of this Annex are complied with.   
+.5. An additional survey either general or partial, according to the circumstances, shall be made whenever any important repairs or renewals are made as prescribed in paragraph 5 of this regulation or after a repair resulting from investigations prescribed in paragraph 6 of this regulation. The survey shall be such as to ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are in all respects satisfactory and that the ship complies in all respects with the requirements of chapter 3.     
+2.  In the case of ships of less than 400 gross tonnage, the Administration may establish appropriate measures in order to ensure that the applicable provisions of chapter 3 are complied with.   
 3.  Surveys of ships as regards the enforcement of the provisions of this Annex shall be carried out by officers of the Administration. 
 
 .1. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. Such organizations shall comply with the guidelines adopted by the Organization; <sup> 1)  Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19), as may be amended by the Organization.  </sup>  
@@ -4338,39 +4505,61 @@ CFC-115 Chloropentafluoroethane
 .3. When a nominated surveyor or recognized organization determines that the condition of the equipment does not correspond substantially with the particulars of the certificate, they shall ensure that corrective action is taken and shall in due course notify the Administration. If such corrective action is not taken, the certificate shall be withdrawn by the Administration. If the ship is in a port of another Party, the appropriate authorities of the port State shall also be notified immediately. When an officer of the Administration, a nominated surveyor or recognized organization has notified the appropriate authorities of the port State, the Government of the port State concerned shall give such officer, surveyor or organization any necessary assistance to carry out their obligations under this regulation; and  
 
 .4. In every case, the Administration concerned shall fully guarantee the completeness and efficiency of the survey and shall undertake to ensure the necessary arrangements to satisfy this obligation.     
-4.  The equipment shall be maintained to conform with the provisions of this Annex and no changes shall be made in the equipment, systems, fittings, arrangements, or material covered by the survey, without the express approval of the Administration. The direct replacement of such equipment and fittings with equipment and fittings that conform with the provisions of this Annex is permitted.   
-5.  Whenever an accident occurs to a ship or a defect is discovered which substantially affects the efficiency or completeness of its equipment covered by this Annex, the master or owner of the ship shall report at the earliest opportunity to the Administration, a nominated surveyor, or recognized organization responsible for issuing the relevant certificate.   
+4.  Ships to which chapter 4 applies shall also be subject to the surveys specified below, taking into account Guidelines adopted by the Organization : <sup> 3)  Refer to Guidelines on Survey and Certification of the Energy Efficiency Design Index.  </sup> 
+
+.1. An initial survey before a new ship is put in service and before the International Energy Efficiency Certificate is issued. The survey shall verify that the ship’s attained EEDI is in accordance with the requirements in chapter 4, and that the SEEMP required by regulation 22 is on board;  
+
+.2. A general or partial survey, according to the circumstances, after a major conversion of a ship to which this regulation applies. The survey shall ensure that the attained EEDI is recalculated as necessary and meets the requirement of regulation 21, with the reduction factor applicable to the ship type and size of the converted ship in the phase corresponding to the date of contract or keel laying or delivery determined for the original ship in accordance with regulation 2.23;  
+
+.3. In cases where the major conversion of a new or existing ship is so extensive that the ship is regarded by the Administration as a newly constructed ship, the Administration shall determine the necessity of an initial survey on attained EEDI. Such a survey, if determined necessary, shall ensure that the attained EEDI is calculated and meets the requirement of regulation 21, with the reduction factor applicable corresponding to the ship type and size of the converted ship at the date of the contract of the conversion, or in the absence of a contract, the commencement date of the conversion. The survey shall also verify that the SEEMP required by regulation 22 is on board; and  
+
+.4. For existing ships, the verification of the requirement to have a SEEMP on board according to regulation 22 shall take place at the first intermediate or renewal survey identified in paragraph 1 of this regulation, whichever is the first, on or after 1 January 2013.     
+5.  The equipment shall be maintained to conform with the provisions of this Annex and no changes shall be made in the equipment, systems, fittings, arrangements, or material covered by the survey, without the express approval of the Administration. The direct replacement of such equipment and fittings with equipment and fittings that conform with the provisions of this Annex is permitted.   
+6.  Whenever an accident occurs to a ship or a defect is discovered which substantially affects the efficiency or completeness of its equipment covered by this Annex, the master or owner of the ship shall report at the earliest opportunity to the Administration, a nominated surveyor, or recognized organization responsible for issuing the relevant certificate.   
 
 ### Regulation  6  
 
-####Issue or endorsement of a Certificate
+####Issue or endorsement of Certificates
+
+International Air Pollution Prevention Certificate  
 
 1.  An International Air Pollution Prevention Certificate shall be issued, after an initial or renewal survey in accordance with the provisions of regulation 5 of this Annex, to: 
 
 .1. any ship of 400 gross tonnage and above engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties; and  
 
 .2. platforms and drilling rigs engaged in voyages to waters under the sovereignty or jurisdiction of other Parties.     
-2.  A ship constructed before the date of entry into force of Annex VI for such ship’s Administration shall be issued with an International Air Pollution Prevention Certificate in accordance with paragraph 1 of this regulation no later than the first scheduled dry-docking after the date of such entry into force, but in no case later than three years after this date.   
-3.  Such certificate shall be issued or endorsed either by the Administration or by any person or organization duly authorized by it. In every case, the Administration assumes full responsibility for the certificate.   
+2.  A ship constructed before the date Annex VI enters into force for that particular ship’s Administration, shall be issued with an International Air Pollution Prevention Certificate in accordance with paragraph 1 of this regulation no later than the first scheduled dry-docking after the date of such entry into force, but in no case later than three years after this date.   
+3.  Such certificate shall be issued or endorsed either by the Administration or by any person or organization duly authorized by it. In every case, the Administration assumes full responsibility for the certificate.  
+###International Energy Efficiency Certificate
+
+4.  An International Energy Efficiency Certificate for the ship shall be issued after a survey in accordance with the provisions of regulation 5.4 to any ship of 400 gross tonnage and above before that ship may engage in voyages to ports or offshore terminals under the jurisdiction of other Parties.   
+5.  The certificate shall be issued or endorsed either by the Administration or any organization duly authorized by it . In every case, the Administration assumes full responsibility for the certificate. <sup> 4)  Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19), as may be amended by the Organization.  </sup>   
 
 ### Regulation  7  
 
 ####Issue of a Certificate by another Party
 
-1.  A Party may, at the request of the Administration, cause a ship to be surveyed and, if satisfied that the provisions of this Annex are complied with, shall issue or authorize the issuance of an International Air Pollution Prevention Certificate to the ship, and where appropriate, endorse or authorize the endorsement of that certificate on the ship, in accordance with this Annex.   
+1.  A Party may, at the request of the Administration, cause a ship to be surveyed and, if satisfied that the applicable provisions of this Annex are complied with, shall issue or authorize the issuance of an International Air Pollution Prevention Certificate or an International Energy Efficiency Certificate to the ship, and where appropriate, endorse or authorize the endorsement of such certificates on the ship, in accordance with this Annex.   
 2.  A copy of the certificate and a copy of the survey report shall be transmitted as soon as possible to the requesting Administration.   
 3.  A certificate so issued shall contain a statement to the effect that it has been issued at the request of the Administration and it shall have the same force and receive the same recognition as a certificate issued under regulation 6 of this Annex.   
-4.  No International Air Pollution Prevention Certificate shall be issued to a ship which is entitled to fly the flag of a State which is not a Party.   
+4.  No International Air Pollution Prevention Certificate or International Energy Efficiency Certificate shall be issued to a ship which is entitled to fly the flag of a State which is not a Party.   
 
 ### Regulation  8  
 
-####Form of Certificate
+####Form of Certificates
 
-The International Air Pollution Prevention Certificate shall be drawn up in a form corresponding to the model given in appendix I to this Annex and shall be at least in English, French or Spanish. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy.  
+International Air Pollution Prevention Certificate  
+
+1.  The International Air Pollution Prevention Certificate shall be drawn up in a form corresponding to the model given in appendix I to this Annex and shall be at least in English, French or Spanish. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy.  
+###International Energy Efficiency Certificate
+
+2.  The International Energy Efficiency Certificate shall be drawn up in a form corresponding to the model given in appendix VIII to this Annex and shall be at least in English, French or Spanish. If an official language of the issuing Party is also used, this shall prevail in case of a dispute or discrepancy.   
 
 ### Regulation  9  
 
-####Duration and Validity of Certificate
+####Duration and Validity of Certificates
+
+International Air Pollution Prevention Certificate  
 
 1.  An International Air Pollution Prevention Certificate shall be issued for a period specified by the Administration, which shall not exceed five years.   
 2.  Notwithstanding the requirements of paragraph 1 of this regulation: 
@@ -4398,7 +4587,15 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 
 .2. if the certificate is not endorsed in accordance with regulation 5.1.3 or 5.1.4 of this Annex; and  
 
-.3. upon transfer of the ship to the flag of another State. A new certificate shall only be issued when the Government issuing the new certificate is fully satisfied that the ship is in compliance with the requirements of regulation 5.4 of this Annex. In the case of a transfer between Parties, if requested within three months after the transfer has taken place, the Government of the Party whose flag the ship was formerly entitled to fly shall, as soon as possible, transmit to the Administration copies of the certificate carried by the ship before the transfer and, if available, copies of the relevant survey reports.     
+.3. upon transfer of the ship to the flag of another State. A new certificate shall only be issued when the Government issuing the new certificate is fully satisfied that the ship is in compliance with the requirements of regulation 5.4 of this Annex. In the case of a transfer between Parties, if requested within three months after the transfer has taken place, the Government of the Party whose flag the ship was formerly entitled to fly shall, as soon as possible, transmit to the Administration copies of the certificate carried by the ship before the transfer and, if available, copies of the relevant survey reports.    
+###International Energy Efficiency Certificate
+
+10.  The International Energy Efficiency Certificate shall be valid throughout the life of the ship subject to the provisions of paragraph 11 below.   
+11.  An International Energy Efficiency Certificate issued under this Annex shall cease to be valid in any of the following cases: 
+
+.1. if the ship is withdrawn from service or if a new certificate is issued following major conversion of the ship; or  
+
+.2. upon transfer of the ship to the flag of another State. A new certificate shall only be issued when the Government issuing the new certificate is fully satisfied that the ship is in compliance with the requirements of chapter 4. In the case of a transfer between Parties, if requested within three months after the transfer has taken place, the Government of the Party whose flag the ship was formerly entitled to fly shall, as soon as possible, transmit to the Administration copies of the certificate carried by the ship before the transfer and, if available, copies of the relevant survey reports.     
 
 ### Regulation  10  
 
@@ -4408,6 +4605,7 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 2.  In the circumstances given in paragraph 1 of this regulation, the Party shall take such steps as to ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.   
 3.  Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.   
 4.  Nothing in this regulation shall be construed to limit the rights and obligations of a Party carrying out control over operational requirements specifically provided for in the present Convention.   
+5.  In relation to chapter 4, any port State inspection shall be limited to verifying, when appropriate, that there is a valid International Energy Efficiency Certificate on board, in accordance with article 5 of the Convention   
 
 ### Regulation  11  
 
@@ -4531,11 +4729,13 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 .2. a marine diesel engine installed on a ship with a combined nameplate diesel engine propulsion power of less than 750 kW if it is demonstrated, to the satisfaction of the Administration, that the ship cannot comply with the standards set forth in paragraph 5.1.1 of this regulation because of design or construction limitations of the ship.    
 ###Emission Control Area
 
-6.  For the purposes of this regulation, emission control areas shall be: 
+6.  For the purpose of this regulation, emission control areas shall be: 
 
-.1. the North American area, which means the area described by the coordinates provided in appendix VII to this Annex; and  
+.1. the North American area, which means the area described by the coordinates provided in Appendix VII to this Annex;  
 
-.2. any other sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in appendix III to this Annex.    
+.2. the United States Caribbean Sea area, which means the area described by the coordinates provided in Appendix VII to this Annex; and  
+
+.3. any other sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in Appendix III to this Annex.    
 ###Marine Diesel Engines Installed on a Ship Constructed Prior to 1 January 2000
 
 7.1.  Notwithstanding paragraph 1.1.1 of this regulation, a marine diesel engine with a power output of more than 5,000 kW and a per cylinder displacement at or above 90 litres installed on a ship constructed on or after 1 January 1990 but prior to 1 January 2000 shall comply with the emission limits set forth in subparagraph 7.4 of this paragraph, provided that an Approved Method for that engine has been certified by an Administration of a Party and notification of such certification has been submitted to the Organization by the certifying Administration. Compliance with this paragraph shall be demonstrated through one of the following: 
@@ -4544,7 +4744,7 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 
 .2. certification of the engine confirming that it operates within the limits set forth in paragraph 3, 4, or 5.1.1 of this regulation and an appropriate notation of the engine certification on the ship’s International Air Pollution Prevention Certificate.     
 7.2.  Subparagraph 7.1 shall apply no later than the first renewal survey that occurs 12 months or more after deposit of the notification in subparagraph 7.1. If a shipowner of a ship on which an Approved Method is to be installed can demonstrate to the satisfaction of the Administration that the Approved Method was not commercially available despite best efforts to obtain it, then that Approved Method shall be installed on the ship no later than the next annual survey of that ship which falls after the Approved Method is commercially available.   
-7.3.  With regard to a ship with a marine diesel engine with a power output of more than 5,000 kW and a per cylinder displacement at or above 90 litres installed on a ship constructed on or after 1 January 1990 but prior to 1 January 2000, the International Air Pollution Prevention Certificate shall, for a marine diesel engine to which paragraph 7.1 of this regulation applies, indicate that either an Approved Method has been applied pursuant to paragraph 7.1.1 of this regulation or the engine has been certified pursuant to paragraph 7.1.2 of this regulation or that an Approved Method does not yet exist or is not yet commercially available as described in subparagraph 7.2 of this regulation.   
+7.3.  With regard to a marine diesel engine with a power output of more than 5,000 kW and a per cylinder displacement at or above 90 litres installed on a ship constructed on or after 1 January 1990 but prior to 1 January 2000, the International Air Pollution Prevention Certificate shall, for a marine diesel engine to which paragraph 7.1 of this regulation applies, indicate that either an approved method has been applied pursuant to paragraph 7.1.1 of this regulation or the engine has been certified pursuant to paragraph 7.1.2 of this regulation or that an approved method does not yet exist or is not yet commercially available as described in paragraph 7.2 of this regulation.   
 7.4.  Subject to regulation 3 of this Annex, the operation of a marine diesel engine described in subparagraph 7.1 is prohibited, except when the emission of nitrogen oxides (calculated as the total weighted emission of NO <sub>2</sub>) from the engine is within the following limits, where n = rated engine speed (crankshaft revolutions per minute): 
 
 .1. 17.0 g/kWh when n is less than 130 rpm;  
@@ -4583,21 +4783,25 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 
 3.  For the purpose of this regulation, emission control areas shall include: 
 
-.1. the Baltic Sea area as defined in regulation 1.11.2 of Annex I and the North Sea as defined in regulation 5(1)(f) of Annex V;  
+.1. the Baltic Sea area as defined in regulation 1.11.2 of Annex I and the North Sea area as defined in regulation 1.12.6 of Annex V;  
 
-.2. the North American area as described by the coordinates provided in appendix VII to this Annex; and  
+.2. the North American area as described by the coordinates provided in Appendix VII to this Annex;  
 
-.3. any other sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in appendix III to this Annex.     
+.3. the United States Caribbean Sea area as described by the coordinates provided in Appendix VII to this Annex; and  
+
+.4. any other sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in Appendix III to this Annex.     
 4.  While ships are operating within an Emission Control Area, the sulphur content of fuel oil used on board ships shall not exceed the following limits: 
 
 .1. 1.50% m/m prior to 1 July 2010;  
 
 .2. 1.00% m/m on and after 1 July 2010; and  
 
-.3. 0.10% m/m on and after 1 January 2015.     
+.3. 0.10% m/m on and after 1 January 2015;  
+
+.4. Prior to 1 January 2020, the sulphur content of fuel oil referred to in paragraph 4 of this regulation shall not apply to ships operating in the North American area or the United States Caribbean Sea area defined in paragraph 3, built on or before 1 August 2011 that are powered by propulsion boilers that were not originally designed for continued operation on marine distillate fuel or natural gas.     
 5.  The sulphur content of fuel oil referred to in paragraph 1 and paragraph 4 of this regulation shall be documented by its supplier as required by regulation 18 of this Annex.   
 6.  Those ships using separate fuel oils to comply with paragraph 4 of this regulation and entering or leaving an Emission Control Area set forth in paragraph 3 of this regulation shall carry a written procedure showing how the fuel oil change-over is to be done, allowing sufficient time for the fuel oil service system to be fully flushed of all fuel oils exceeding the applicable sulphur content specified in paragraph 4 of this regulation prior to entry into an Emission Control Area. The volume of low sulphur fuel oils in each tank as well as the date, time, and position of the ship when any fuel-oil-change-over operation is completed prior to the entry into an Emission Control Area or commenced after exit from such an area, shall be recorded in such log-book as prescribed by the Administration.   
-7.  During the first twelve months immediately following an amendment designating a specific Emission Control Area under paragraph 3.2 of this regulation, ships operating in that Emission Control Area are exempt from the requirements in paragraphs 4 and 6 of this regulation and from the requirements of paragraph 5 of this regulation insofar as they relate to paragraph 4 of this regulation.  
+7.  During the first twelve months immediately following entry into force of an amendment designating a specific emission control area under paragraph 3 of this regulation, ships operating in that emission control area are exempt from the requirements in paragraphs 4 and 6 of this regulation and from the requirements of paragraph 5 of this regulation insofar as they relate to paragraph 4 of this regulation . <sup> 1)  The 12 month exemption provided by paragraph 7 will apply for the North American emission control area until 1 August 2012.   The 12 month exemption provided by paragraph 7 will apply for the United States Caribbean Sea emission control area until 1 January 2014.  </sup>  
 ###Review Provision
 
 8.  A review of the standard set forth in subparagraph 1.3 of this regulation shall be completed by 2018 to determine the availability of fuel oil to comply with the fuel oil standard set forth in that paragraph and shall take into account the following elements: 
@@ -4672,6 +4876,13 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 .2. needs of ships using its ports, terminals or repair ports for the reception of exhaust gas cleaning residues from an exhaust gas cleaning system, without causing undue delay to ships; and  
 
 .3. needs in ship-breaking facilities for the reception of ozone depleting substances and equipment containing such substances when removed from ships.     
+1bis.  Small Island Developing States may satisfy the requirements in paragraph 1 of this regulation through regional arrangements when, because of those States' unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization. The Government of each Party participating in the arrangement shall consult with the Organization for circulation to the Parties of the present Convention: 
+
+.1. how the Regional Reception Facilities Plan takes into account the Guidelines;  
+
+.2. particulars of the identified Regional Ships Waste Reception Centres; and  
+
+.3. particulars of those ports with only limited facilities.     
 2.  If a particular port or terminal of a Party is – taking into account the guidelines to be developed by the Organization – remotely located from, or lacking in, the industrial infrastructure necessary to manage and process those substances referred to in paragraph 1 of this regulation and therefore cannot accept such substances, then the Party shall inform the Organization of any such port or terminal so that this information may be circulated to all Parties and Member States of the Organization for their information and any appropriate action. Each Party that has provided the Organization with such information shall also notify the Organization of its ports and terminals where reception facilities are available to manage and process such substances.   
 3.  Each Party shall notify the Organization for transmission to the Members of the Organization of all cases where the facilities provided under this regulation are unavailable or alleged to be inadequate.   
 
@@ -4749,6 +4960,105 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 .2. ensure that remedial action as appropriate is taken to bring noncompliant fuel oil discovered into compliance.     
 11.  For every ship of 400 gross tonnage and above on scheduled services with frequent and regular port calls, an Administration may decide after application and consultation with affected States that compliance with paragraph 6 of this regulation may be documented in an alternative manner which gives similar certainty of compliance with regulations 14 and 18 of this Annex.   
 
+### CHAPTER  IV  
+
+####REGULATIONS ON ENERGY EFFICIENCY FOR SHIPS
+
+### Regulation  19  
+
+####Application
+
+1.  This chapter shall apply to all ships of 400 gross tonnage and above.   
+2.  The provisions of this chapter shall not apply to: 
+
+.1. ships solely engaged in voyages within waters subject to the sovereignty or jurisdiction of the State the flag of which the ship is entitled to fly. However, each Party should ensure, by the adoption of appropriate measures, that such ships are constructed and act in a manner consistent with chapter 4, so far as is reasonable and practicable.     
+3.  Regulation 20 and regulation 21 shall not apply to ships which have diesel-electric propulsion, turbine propulsion or hybrid propulsion systems.   
+4.  Notwithstanding the provisions of paragraph 1 of this regulation, the Administration may waive the requirement for a ship of 400 gross tonnage and above from complying with regulation 20 and regulation 21.   
+5.  The provision of paragraph 4 of this regulation shall not apply to ships of 400 gross tonnage and above: 
+
+.1. for which the building contract is placed on or after 1 January 2017; or  
+
+.2. in the absence of a building contract, the keel of which is laid or which is at a similar stage of construction on or after 1 July 2017; or  
+
+.3. the delivery of which is on or after 1 July 2019; or  
+
+.4. in cases of a major conversion of a new or existing ship, as defined in regulation 2.24, on or after 1 January 2017, and in which regulation 5.4.2 and regulation 5.4.3 of chapter 2 apply.     
+6.  The Administration of a Party to the present Convention which allows application of paragraph 4, or suspends, withdraws or declines the application of that paragraph, to a ship entitled to fly its flag shall forthwith communicate to the Organization for circulation to the Parties to the present Protocol particulars thereof, for their information.   
+
+### Regulation  20  
+
+####Attained Energy Efficiency Design Index (Attained EEDI)
+
+1.  The attained EEDI shall be calculated for: 
+
+.1. each new ship;  
+
+.2. each new ship which has undergone a major conversion; and  
+
+.3. each new or existing ship which has undergone a major conversion, that is so extensive that the ship is regarded by the Administration as a newly constructed ship   which falls into one or more of the categories in regulations 2.25 to 2.35. The attained EEDI shall be specific to each ship and shall indicate the estimated performance of the ship in terms of energy efficiency, and be accompanied by the EEDI technical file that contains the information necessary for the calculation of the attained EEDI and that shows the process of calculation. The attained EEDI shall be verified, based on the EEDI technical file, either by the Administration or by any organization duly authorized by it. <sup> 5)  Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19), as may be amended by the Organization.  </sup>   
+2.  The attained EEDI shall be calculated taking into account guidelines developed by the Organization. <sup> 6)  Guidelines on the method of calculation of the Energy Efficiency Design Index for new ships.  </sup>   
+
+### Regulation  21  
+
+####Required EEDI
+
+1.  For each: 
+
+.1. new ship;  
+
+.2. new ship which has undergone a major conversion; and  
+
+.3. new or existing ship which has undergone a major conversion that is so extensive that the ship is regarded by the Administration as a newly constructed ship   which falls into one of the categories defined in regulation 2.25 to 2.31 and to which this chapter is applicable, the attained EEDI shall be as follows: Attained EEDI ≤ Required EEDI = (1-X/100) x Reference line value where X is the reduction factor specified in Table 1 for the required EEDI compared to the EEDI Reference line.   
+2.  For each new and existing ship that has undergone a major conversion which is so extensive that the ship is regarded by the Administration as a newly constructed ship, the attained EEDI shall be calculated and meet the requirement of paragraph 21.1 with the reduction factor applicable corresponding to the ship type and size of the converted ship at the date of the contract of the conversion, or in the absence of a contract, the commencement date of the conversion.  Table 1. Reduction factors (in percentage) for the EEDI relative to the EEDI Reference line 
+
+|  *Ship Type*   | Size  | Phase 0  1 Jan 2013 – 31 Dec 2014  | Phase 1  1 Jan 2015 – 31 Dec 2019  | Phase 2  1 Jan 2020 – 31 Dec 2024  | Phase 3  1 Jan 2025 and onwards  |
+|---|---|---|---|---|---|
+| Bulk carrier  | 20,000 DWT and above  | 0  | 10  | 20  | 30  |
+| --- | 10,000 – 20,000 DWT  | n/a  | 0-10 <sup>1)</sup>  | 0-20 <sub>1)</sub>  | 0-30 <sup>1)</sup>  |
+| Gas carrier  | 10,000 DWT and above  | 0  | 10  | 20  | 30  |
+| --- | 2,000 – 10,000 DWT  | n/a  | 0-10 <sup>1)</sup>  | 0-20 <sup>1)</sup>  | 0-30 <sup>1)</sup>  |
+| Tanker  | 20,000 DWT and above  | 0  | 10  | 20  | 30  |
+| --- | 4,000 – 20,000 DWT  | n/a  | 0-10 <sup>1)</sup>  | 0-20 <sup>1)</sup>  | 0-30 <sup>1)</sup>  |
+| Container ship  | 15,000 DWT and above  | 0  | 10  | 20  | 30  |
+| --- | 10,000 – 15,000 DWT  | n/a  | 0-10 <sup>1)</sup>  | 0-20 <sup>1)</sup>  | 0-30 <sup>1)</sup>  |
+| General Cargo ships  | 15,000 DWT and above  | 0  | 10  | 15  | 30  |
+| --- | 3,000 – 15,000 DWT  | n/a  | 0-10 <sup>1)</sup>  | 0-15 <sup>1)</sup>  | 0-30 <sup>1)</sup>  |
+| Refrigerated cargo carrier  | 5,000 DWT and above  | 0  | 10  | 15  | 30  |
+| --- | 3,000 – 5,000 DWT  | n/a  | 0-10 <sup>1)</sup>  | 0-15 <sup>1)</sup>  | 0-30 <sup>1)</sup>  |
+| Combination carrier  | 20,000 DWT and above  | 0  | 10  | 20  | 30  |
+| --- | 4,000 – 20,000 DWT  | n/a  | 0-10 <sup>1)</sup>  | 0-20 <sup>1)</sup>  | 0-30 <sup>1)</sup>  |
+
+<sup>1)</sup> Reduction factor to be linearly interpolated between the two values dependent upon vessel size. The lower value of the reduction factor is to be applied to the smaller ship size. n/a means that no required EEDI applies.   
+3.  The Reference line values shall be calculated as follows: Reference line value = a ×b <sup>-c</sup> where a, b and c are the parameters given in Table 2.  Table 2. Parameters for determination of reference values for the different ship types 
+
+|  *Ship type defined in regulation 2*   |  *a*   |  *b*   |  *c*   |
+|---|---|---|---|
+| 2.25  | Bulk carrier  | 961.79  | DWT of the ship  | 0.477  |
+| 2.26  | Gas carrier  | 1120.00  | DWT of the ship  | 0.456  |
+| 2.27  | Tanker  | 1218.80  | DWT of the ship  | 0.488  |
+| 2.28  | Container ship  | 174.22  | DWT of the ship  | 0.201  |
+| 2.29  | General cargo ship  | 107.48  | DWT of the ship  | 0.216  |
+| 2.30  | Refrigerated cargo carrier  | 227.01  | DWT of the ship  | 0.244  |
+| 2.31  | Combination carrier  | 1219.00  | DWT of the ship  | 0.488  |
+
+4.  If the design of a ship allows it to fall into more than one of the above ship type definitions, the required EEDI for the ship shall be the most stringent (the lowest) required EEDI.   
+5.  For each ship to which this regulation applies, the installed propulsion power shall not be less than the propulsion power needed to maintain the manoeuvrability of the ship under adverse conditions as defined in the guidelines to be developed by the Organization.   
+6.  At the beginning of Phase 1 and at the midpoint of Phase 2, the Organization shall review the status of technological developments and, if proven necessary, amend the time periods, the EEDI reference line parameters for relevant ship types and reduction rates set out in this regulation.   
+
+### Regulation  22  
+
+####Ship Energy Efficiency Management Plan (SEEMP)
+
+1.  Each ship shall keep on board a ship specific Ship Energy Efficiency Management Plan (SEEMP). This may form part of the ship’s Safety Management System (SMS).   
+2.  The SEEMP shall be developed taking into account guidelines adopted by the Organization.   
+
+### Regulation  23  
+
+####Promotion of technical co-operation and transfer of technology relating to the improvement of energy efficiency of ships
+
+1.  Administrations shall, in co-operation with the Organization and other international bodies, promote and provide, as appropriate, support directly or through the Organization to States, especially developing States, that request technical assistance.   
+2.  The Administration of a Party shall co-operate actively with other Parties, subject to its national laws, regulations and policies, to promote the development and transfer of technology and exchange of information to States which request technical assistance, particularly developing States, in respect of the implementation of measures to fulfil the requirements of chapter 4 of this annex, in particular regulations 19.4 to 19.6.   
+
 ### Appendix  I  
 
 ####Form of International Air Pollution Prevention (IAPP) Certificate (Regulation 8)
@@ -4758,7 +5068,7 @@ The International Air Pollution Prevention Certificate shall be drawn up in a fo
 Issued under the provisions of the Protocol of 1997, as amended by resolution MEPC.xx(58) in 2008, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 related thereto (hereinafter referred to as “the Convention”) under the authority of the Government of:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | .....  |
 |  *(full designation of the country)*   |
 | --- |
@@ -4772,7 +5082,7 @@ Issued under the provisions of the Protocol of 1997, as amended by resolution ME
 2. That the survey shows that the equipment, systems, fittings, arrangements and materials fully comply with the applicable requirements of Annex VI of the Convention.   Completion date of survey on which this Certificate is based: ..... (dd/mm/yyyy) This Certificate is valid until .....* subject to surveys in accordance with regulation 5 of Annex VI of the Convention.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at  | .....  |
 |  *(Place of issue of certificate)*   |
 | --- |
@@ -4789,7 +5099,7 @@ Issued under the provisions of the Protocol of 1997, as amended by resolution ME
 THIS IS TO CERTIFY that at a survey required by regulation 5 of Annex VI of the Convention the ship was found to comply with the relevant provisions of that Annex:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4799,7 +5109,7 @@ THIS IS TO CERTIFY that at a survey required by regulation 5 of Annex VI of the 
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate* survey:  | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4809,7 +5119,7 @@ THIS IS TO CERTIFY that at a survey required by regulation 5 of Annex VI of the 
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual/Intermediate* survey:  | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4819,7 +5129,7 @@ THIS IS TO CERTIFY that at a survey required by regulation 5 of Annex VI of the 
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Annual survey:  | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4829,12 +5139,12 @@ THIS IS TO CERTIFY that at a survey required by regulation 5 of Annex VI of the 
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 * Delete as appropriate. 
-###Annual/intermediate survey in accordance with regulation 9.8.3
+###Annual/intermediate survey in accordance with regulation 9.8.3 
 
 THIS IS TO CERTIFY that, at an annual/intermediate* survey in accordance with regulation 9.8.3 of Annex VI of the Convention, the ship was found to comply with the relevant provisions of that Annex:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4844,12 +5154,12 @@ THIS IS TO CERTIFY that, at an annual/intermediate* survey in accordance with re
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 * Delete as appropriate. 
-###Endorsement to extend the certificate if valid for less than 5 years where regulation 9.3 applies
+###Endorsement to extend the certificate if valid for less than 5 years where regulation 9.3  applies
 
 The ship complies with the relevant provisions of the Annex, and this certificate shall, in accordance with regulation 9.3 of Annex VI of the Convention, be accepted as valid until (dd/mm/yyyy): .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4858,12 +5168,12 @@ The ship complies with the relevant provisions of the Annex, and this certificat
 | --- | --- |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
-###Endorsement where the renewal survey has been completed and regulation 9.4 applies
+###Endorsement where the renewal survey has been completed and regulation 9.4  applies
 
 The ship complies with the relevant provisions of the Annex, and this certificate shall, in accordance with regulation 9.4 of Annex VI of the Convention, be accepted as valid until (dd/mm/yyyy): .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4872,12 +5182,12 @@ The ship complies with the relevant provisions of the Annex, and this certificat
 | --- | --- |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
-###Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation 9.5 or 9.6 applies
+###Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation 9.5 or 9.6  applies
 
 This certificate shall, in accordance with regulation 9.5 or 9.6* of Annex VI of the Convention, be accepted as valid until (dd/mm/yyyy): .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4887,12 +5197,12 @@ This certificate shall, in accordance with regulation 9.5 or 9.6* of Annex VI of
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
 * Delete as appropriate. 
-###Endorsement for advancement of anniversary date where regulation 9.8 applies
+###Endorsement for advancement of anniversary date where regulation 9.8  applies
 
 In accordance with regulation 9.8 of Annex VI of the Convention, the new anniversary date is (dd/mm/yyyy): .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4904,7 +5214,7 @@ In accordance with regulation 9.8 of Annex VI of the Convention, the new anniver
 In accordance with regulation 9.8 of Annex VI of the Convention, the new anniversary date is (dd/mm/yyyy): .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Signed: .....  |
 | --- |  *(Signature of authorized official)*   |
 | --- | --- |
@@ -4925,7 +5235,7 @@ RECORD OF CONSTRUCTION AND EQUIPMENT
 
 3. Entries in boxes shall be made by inserting either a cross (x) for the answer “yes” and “applicable” or a (-) for the answers “no” and “not applicable” as appropriate.  
 
-4. Unless otherwise stated, regulations mentioned in this Record refer to regulations of AnnexVI of the Convention and resolutions or circulars refer to those adopted by the International Maritime Organization.   
+4. Unless otherwise stated, regulations mentioned in this Record refer to regulations of Annex VI of the Convention and resolutions or circulars refer to those adopted by the International Maritime Organization.   
 ### *1. Particulars of ship* 
 
 1.1. Name of ship .....  
@@ -4937,26 +5247,26 @@ RECORD OF CONSTRUCTION AND EQUIPMENT
 1.4. Length (L) <sup>#</sup> metres .....   <sup>#</sup> Completed only in respect of ships constructed on or after 1 January 2016, which are specially designed, and used solely, for recreational purposes and to which, in accordance with regulation 13.5.2.1, the NO <sub>x</sub> emission limit as given by regulation 13.5.1.1 will not apply. 
 ### *2. Control of emissions from ships* 
 
-2.1.  *Ozone depleting substances (regulation 12)*  
+2.1. *Ozone depleting substances* (regulation 12) 
 
 2.1.1. The following fire-extinguishing systems, other systems and equipment containing ozone depleting substances, other than hydro-chlorofluorocarbons, installed before 19 May 2005 may continue in service:  
 
 |  *System or equipment*   |  *Location on board*   |  *Substance*   |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 
 2.1.2. The following systems containing hydro-chlorofluorocarbons (HCFCs) installed before 1 January 2020 may continue in service:  
 
 |  *System or equipment*   |  *Location on board*   |  *Substance*   |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 
-2.2.  *Nitrogen oxides (NO <sub>x</sub>) (regulation 13)*  
+2.2. *Nitrogen oxides (NO <sub>x</sub>)* (regulation 13) 
 
 2.2.1. The following marine diesel engines installed on this ship comply with the applicable emission limit of regulation 13 in accordance with the revised NO <sub>x</sub> Technical Code 2008:  
 
 |--- |  *Engine #1*   |  *Engine #2*   |  *Engine #3*   |  *Engine #4*   |  *Engine #5*   |  *Engine #6*   |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 |  *Manufacturer and model*   | --- | --- | --- | --- | --- | --- |
 |  *Serial number*   | --- | --- | --- | --- | --- | --- |
 |  *Use*   | --- | --- | --- | --- | --- | --- |
@@ -4974,15 +5284,43 @@ RECORD OF CONSTRUCTION AND EQUIPMENT
 |  *Approved Method not commercially available*   | □  | □  | □  | □  | □  | □  |
 |  *Approved Method installed*   | □  | □  | □  | □  | □  | □  |
 
-2.3.  *Sulphur oxides (SO <sub>x</sub>) and particulate matter (regulation 14)*  
+2.3. Sulphur oxides (SO <sub>x</sub>) and particulate matter (regulation 14) 
 
-2.3.1. When the ship operates within an Emission Control Area specified in regulation14.3, the ship uses:   
+2.3.1. When the ship operates outside of an Emission Control Area specified in regulation 14.3, the ship uses: 
 
-.1. fuel oil with a sulphur content that does not exceed the applicable limit value as documented by bunker delivery notes; or ..... □  
+.1. fuel oil with a sulphur content as documented by bunker delivery notes that does not exceed the limit value of:  
 
-.2. an equivalent arrangement approved in accordance with regulation 4.1 as listed in 2.6 ..... □    
+| --- | --- | --- |
+|---|---|---|
+| •  | 4.50% m/m (not applicable on or after 1 January 2012); or …  | □  |
+| •  | 3.50% m/m (not applicable on or after 1 January 2020); or …  | □  |
+| •  | 0.50% m/m, and/or …  | □  |
 
-2.4.  *Volatile organic compounds (VOCs) (regulation 15)*  
+.2. an equivalent arrangement approved in accordance with regulation 4.1 as listed in 2.6 that is at least as effective in terms of SO <sub>x</sub> emission reductions as compared to using a fuel oil with a sulphur content limit value of:  
+
+| --- | --- | --- |
+|---|---|---|
+| •  | 4.50% m/m (not applicable on or after 1 January 2012); or …  | □  |
+| •  | 3.50% m/m (not applicable on or after 1 January 2020); or …  | □  |
+| •  | 0.50% m/m …  | □  |
+
+2.3.2. When the ship operates inside an Emission Control Area specified in regulation 14.3, the ship uses: 
+
+.1. fuel oil with a sulphur content as documented by bunker delivery notes that does not exceed the limit value of:  
+
+| --- | --- | --- |
+|---|---|---|
+| •  | 1.00% m/m (not applicable on or after 1 January 2015); or …  | □  |
+| •  | 0.10% m/m, and/or …  | □  |
+
+.2. an equivalent arrangement approved in accordance with regulation 4.1 as listed in 2.6 that is at least as effective in terms of SO <sub>x</sub> emission reductions as compared to using a fuel oil with a sulphur content limit value of:  
+
+| --- | --- | --- |
+|---|---|---|
+| •  | 1.00% m/m (not applicable on or after 1 January 2015); or …  | □  |
+| •  | 0.10% m/m …  | □  |
+
+2.4. *Volatile organic compounds (VOCs)* (regulation 15) 
 
 2.4.1. The tanker has a vapour collection system installed and approved in accordance with MSC/Circ.585 ..... □ 
 
@@ -4990,7 +5328,7 @@ RECORD OF CONSTRUCTION AND EQUIPMENT
 
 2.4.2.2. VOC Management Plan approval reference: .....      
 
-2.5.  *Shipboard incineration (regulation 16)*  The ship has an incinerator: 
+2.5. *Shipboard incineration* (regulation 16) The ship has an incinerator: 
 
 .1 installed on or after 1 January 2000 which complies with resolution MEPC.76(40) as amended ..... □  
 
@@ -5000,16 +5338,16 @@ RECORD OF CONSTRUCTION AND EQUIPMENT
 
 .2.2. resolution MEPC.76(40) ..... □      
 
-2.6.  *Equivalents (regulation 4)*  The ship has been allowed to use the following fitting, material, appliance or apparatus to be fitted in a ship or other procedures, alternative fuel oils, or compliance methods used as an alternative to that required by this Annex:  
+2.6. *Equivalents* (regulation 4) The ship has been allowed to use the following fitting, material, appliance or apparatus to be fitted in a ship or other procedures, alternative fuel oils, or compliance methods used as an alternative to that required by this Annex:  
 
 |  *System or equipment*   |  *Equivalent used*   |  *Approval reference*   |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 
 THIS IS TO CERTIFY that this Record is correct in all respects.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Issued at  | .....  |
 |  *(Place of issue of the Record)*   |
 | --- | --- |
@@ -5036,7 +5374,7 @@ The following test cycles and weighing factors shall be applied for verification
 .5. For variable-speed, variable-load auxiliary engines, not included above, test cycle C1 shall be applied.   Test cycle for *constant speed main propulsion* application (including diesel-electric drive and all controllable-pitch propeller installations)  
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Test cycle type E2  | Speed  | 100%  | 100%  | 100%  | 100%  |
 | Power  | 100%  | 75%  | 50%  | 25%  |
 | Weighting factor  | 0.2  | 0.5  | 0.15  | 0.15  |
@@ -5044,7 +5382,7 @@ The following test cycles and weighing factors shall be applied for verification
 Test cycle for *propeller-law-operated main* and *propeller-law-operated auxiliary engine* application  
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Test cycle type E3  | Speed  | 100%  | 91%  | 80%  | 63%  |
 | Power  | 100%  | 75%  | 50%  | 25%  |
 | Weighting factor  | 0.2  | 0.5  | 0.15  | 0.15  |
@@ -5052,7 +5390,7 @@ Test cycle for *propeller-law-operated main* and *propeller-law-operated auxilia
 Test cycle for *constant-speed auxiliary engine* application  
 
 | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | Test cycle type D2  | Speed  | 100%  | 100%  | 100%  | 100%  | 100%  |
 | Power  | 100%  | 75%  | 50%  | 25%  | 10%  |
 | Weighting factor  | 0.05  | 0.25  | 0.3  | 0.3  | 0.1  |
@@ -5060,7 +5398,7 @@ Test cycle for *constant-speed auxiliary engine* application
 Test cycle for *variable-speed and load auxiliary engine* application  
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | Test cycle type C1  | Speed  | Rated  | Intermediate  | Idle  |
 | Torque  | 100%  | 75%  | 50%  | 10%  | 100%  | 75%  | 50%  | 0%  |
 | Weighting factor  | 0.15  | 0.15  | 0.15  | 0.1  | 0.1  | 0.1  | 0.1  | 0.15  |
@@ -5136,13 +5474,13 @@ In the case of an engine to be certified in accordance with subparagraph 5.1.1 o
 1. Ships incinerators described in regulation 16.6.1 on board shall possess an IMO type approval certificate for each incinerator. In order to obtain such certificate, the incinerator shall be designed and built to an approved standard as described in regulation 16.6.1. Each model shall be subject to a specified type approval test operation at the factory or an approved test facility, and under the responsibility of the Administration, using the following standard fuel/waste specification for the type approval test for determining whether the incinerator operates within the limits specified in paragraph 2 of this appendix:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Sludge Oil Consisting of:  | 75% Sludge oil from HFO;  |
 | --- | 5% waste lubricating oil; and  |
 | --- | 20% emulsified water.  |
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Solid waste consisting of:  | 50% food waste;  |
 | --- | 50% rubbish containing;  |
 | --- | approx.  | 30% paper,  |
@@ -5154,7 +5492,7 @@ In the case of an engine to be certified in accordance with subparagraph 5.1.1 o
 2. Incinerators described in regulation 16.6.1 shall operate within the following limits:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | O <sub>2</sub> in combustion chamber:  | 6 – 12%  |
 | CO in flue gas maximum average:  | 200 mg/MJ  |
 | Soot number maximum average:  | Bacharach 3 or Ringelman 1 (20% opacity)  |
@@ -5239,14 +5577,16 @@ The following procedure shall be used to determine whether the fuel oil delivere
 
 ### Appendix  VII  
 
-####North American Emission Control Area (Regulation 13.6 and regulation 14.3)
+####Emission Control Areas (Regulation 13.6  and regulation 14.3 )
 
-The North American area comprises: 
+.1. The boundaries of emission control areas designated under regulations 13.6 and 14.3, other than the Baltic Sea and the North Sea areas, are set forth in this appendix.  
+
+.2. The North American area comprises: 
 
 .1. the sea area located off the Pacific coasts of the United States and Canada, enclosed by geodesic lines connecting the following coordinates:  
 
 |  *POINT*   |  *LATITUDE*   |  *LONGITUDE*   |
-|:---|:---|:---|
+|---|---|---|
 | 1  | 32º 32’ 10” N.  | 117º 06’ 11” W.  |
 | 2  | 32º 32’ 04” N.  | 117º 07’ 29” W.  |
 | 3  | 32º 31’ 39” N.  | 117º 14’ 20” W.  |
@@ -5298,7 +5638,7 @@ The North American area comprises:
 .2. the sea areas located off the Atlantic coasts of the United States, Canada, and France (Saint-Pierre-et-Miquelon) and the Gulf of Mexico coast of the United States enclosed by geodesic lines connecting the following coordinates:  
 
 |  *POINT*   |  *LATITUDE*   |  *LONGITUDE*   |
-|:---|:---|:---|
+|---|---|---|
 | 1  | 60º 00’ 00” N.  | 64º 09’ 36” W.  |
 | 2  | 60º 00’ 00” N.  | 56º 43’ 00” W.  |
 | 3  | 58º 54’ 01” N.  | 55º 38’ 05” W.  |
@@ -5509,7 +5849,7 @@ The North American area comprises:
 .3. the sea area located off the coasts of the Hawaiian Islands of Hawai’i, Maui, Oahu, Moloka’i, Ni’ihau, Kaua’i, Lāna’i, and Kaho’olawe, enclosed by geodesic lines connecting the following coordinates:  
 
 |  *POINT*   |  *LATITUDE*   |  *LONGITUDE*   |
-|:---|:---|:---|
+|---|---|---|
 | 1  | 22º 32’ 54” N.  | 153º 00’ 33” W.  |
 | 2  | 23º 06’ 05” N.  | 153º 28’ 36” W.  |
 | 3  | 23º 32’ 11” N.  | 154º 02’ 12” W.  |
@@ -5556,7 +5896,206 @@ The North American area comprises:
 | 44  | 22º 06’ 58” N.  | 152º 31’ 25” W.  |
 | 45  | 22º 32’ 54” N.  | 153º 00’ 33” W.  |
 
-(end of text)   
+(end of text)    
+
+.3. The United States Caribbean Sea area includes: 
+
+.1. the sea area located off the Atlantic and Caribbean coasts of the Commonwealth of Puerto Rico and the United States Virgin Islands, enclosed by geodesic lines connecting the following coordinates:  
+
+|  *POINT*   |  *LATITUDE*   |  *LONGITUDE*   |
+|---|---|---|
+| 1  | 17º 18’ 37” N.  | 67º 32’ 14” W.  |
+| 2  | 19º 11’ 14” N.  | 67º 26’ 45” W.  |
+| 3  | 19º 30’ 28” N.  | 65º 16’ 48” W.  |
+| 4  | 19º 12’ 25” N.  | 65º 6’ 8” W.  |
+| 5  | 18º 45’ 13” N.  | 65º 0’ 22” W.  |
+| 6  | 18º 41’ 14” N.  | 64º 59’ 33” W.  |
+| 7  | 18º 29’ 22” N.  | 64º 53’ 51” W.  |
+| 8  | 18º 27’ 35” N.  | 64º 53’ 22” W.  |
+| 9  | 18º 25’ 21” N.  | 64º 52’ 39” W.  |
+| 10  | 18º 24’ 30” N.  | 64º 52’ 19” W.  |
+| 11  | 18º 23’ 51” N.  | 64º 51’ 50” W.  |
+| 12  | 18º 23’ 42” N.  | 64º 51’ 23” W.  |
+| 13  | 18º 23’ 36” N.  | 64º 50’ 17” W.  |
+| 14  | 18º 23’ 48” N.  | 64º 49’ 41” W.  |
+| 15  | 18º 24’ 11” N.  | 64º 49’ 0” W.  |
+| 16  | 18º 24’ 28” N.  | 64º 47’ 57” W.  |
+| 17  | 18º 24’ 18” N.  | 64º 47’ 1” W.  |
+| 18  | 18º 23’ 13” N.  | 64º 46’ 37” W.  |
+| 19  | 18º 22’ 37” N.  | 64º 45’ 20” W.  |
+| 20  | 18º 22’ 39” N.  | 64º 44’ 42” W.  |
+| 21  | 18º 22’ 42” N.  | 64º 44’ 36” W.  |
+| 22  | 18º 22’ 37” N.  | 64º 44’ 24” W.  |
+| 23  | 18º 22’ 39” N.  | 64º 43’ 42” W.  |
+| 24  | 18º 22’ 30” N.  | 64º 43’ 36” W.  |
+| 25  | 18º 22’ 25” N.  | 64º 42’ 58” W.  |
+| 26  | 18º 22’ 26” N.  | 64º 42’ 28” W.  |
+| 27  | 18º 22’ 15” N.  | 64º 42’ 3” W.  |
+| 28  | 18º 22’ 22” N.  | 64º 38’ 23” W.  |
+| 29  | 18º 21’ 57” N.  | 64º 40’ 60” W.  |
+| 30  | 18º 21’ 51” N.  | 64º 40’ 15” W.  |
+| 31  | 18º 21’ 22” N.  | 64º 38’ 16” W.  |
+| 32  | 18º 20’ 39” N.  | 64º 38’ 33” W.  |
+| 33  | 18º 19’ 15” N.  | 64º 38’ 14” W.  |
+| 34  | 18º 19’ 7” N.  | 64º 38’ 16” W.  |
+| 35  | 18º 17’ 23” N.  | 64º 39’ 38” W.  |
+| 36  | 18º 16’ 43” N.  | 64º 39’ 41” W.  |
+| 37  | 18º 11’ 33” N.  | 64º 38’ 58” W.  |
+| 38  | 18º 3’ 2” N.  | 64º 38’ 3” W.  |
+| 39  | 18º 2’ 56” N.  | 64º 29’ 35” W.  |
+| 40  | 18º 2’ 51” N.  | 64º 27’ 2” W.  |
+| 41  | 18º 2’ 30” N.  | 64º 21’ 8” W.  |
+| 42  | 18º 2’ 31” N.  | 64º 20’ 8” W.  |
+| 43  | 18º 2’ 3” N.  | 64º 15’ 57” W.  |
+| 44  | 18º 0’ 12” N.  | 64º 2’ 29” W.  |
+| 45  | 17º 59’ 58” N.  | 64º 1’ 4” W.  |
+| 46  | 17º 58’ 47” N.  | 63º 57’ 1” W.  |
+| 47  | 17º 57’ 51” N.  | 63º 53’ 54” W.  |
+| 48  | 17º 56’ 38” N.  | 63º 53’ 21” W.  |
+| 49  | 17º 39’ 40” N.  | 63º 54’ 53” W.  |
+| 50  | 17º 37’ 8” N.  | 63º 55’ 10” W.  |
+| 51  | 17º 30’ 21” N.  | 63º 55’ 56” W.  |
+| 52  | 17º 11’ 36” N.  | 63º 57’ 57” W.  |
+| 53  | 17º 4’ 60” N.  | 63º 58’ 41” W.  |
+| 54  | 16º 59’ 49” N.  | 63º 59’ 18” W.  |
+| 55  | 17º 18’ 37” N.  | 67º 32’ 14” W.  |
+
+### Appendix  VIII  
+
+####Form of International Energy Efficiency (IEE) Certificate
+
+INTERNATIONAL ENERGY EFFICIENCY CERTIFICATE Issued under the provisions of the Protocol of 1997, as amended by resolution MEPC.203(62), to amend the International Convention for the Prevention of Pollution by Ships, 1973, as modified by the Protocol of 1978 related thereto (hereinafter referred to as “the Convention”) under the authority of the Government of:  
+
+| ......  |
+|---|
+| (Full designation of the Party)  |
+| --- | --- |
+| by  | ......  |
+| --- | (Full designation of the competent person or organization authorized under the provisions of the Convention)  |
+
+|  *Particulars of ship*   <sup> 7)   Alternatively, the particulars of the ship may be placed horizontally in boxes.    </sup> | Name of ship  | ......  |
+|---|---|---|
+| Distinctive number or letters  | ......  |
+| Port of registry  | ......  |
+| Gross tonnage  | ......  |
+| IMO Number  <sup> 8)   In accordance with IMO ship identification number scheme, adopted by the Organization by resolution A.600(15).    </sup> | ......  |
+
+THIS IS TO CERTIFY: 
+
+1. That the ship has been surveyed in accordance with regulation 5.4 of Annex VI of the Convention; and  
+
+2. That the survey shows that the ship complies with the applicable requirements in regulation 20, regulation 21 and regulation 22. Completion date of survey on which this Certificate is based: ...... (dd/mm/yyyy)  
+
+| --- | --- | --- |
+|---|---|---|
+| Issued at  | ......  |
+| --- | (Place of issue of certificate)  |
+| --- | --- | --- |
+| (dd/mm/yyyy):  | ......  | ......  |
+| --- | (Date of issue)  | (Signature of duly authorized official issuing the certificate)  |
+| --- | --- | --- |
+| (Seal or stamp of the authority, as appropriate)  |
+
+####Supplement to the International Energy Efficiency Certificate
+
+(IEE Certificate)  
+
+*RECORD OF CONSTRUCTION RELATING TO ENERGY EFFICIENCY*   
+
+| --- | --- |
+|---|---|
+| Notes:  |
+| --- | --- |
+| 1.  | This Record shall be permanently attached to the IEE Certificate. The IEE Certificate shall be available on board the ship at all times.  |
+| --- | --- |
+| 2.  | The Record shall be at least in English, French or Spanish. If an official language of the issuing Party is also used, this shall prevail in case of a dispute or discrepancy.  |
+| --- | --- |
+| 3.  | Entries in boxes shall be made by inserting either: a cross (x) for the answers “yes” and “applicable”; or a dash (-) for the answers “no” and “not applicable”, as appropriate.  |
+| --- | --- |
+| 4.  | Unless otherwise stated, regulations mentioned in this Record refer to regulations in Annex VI of the Convention , and resolutions or circulars refer to those adopted by the International Maritime Organization.  |
+
+| --- | --- | --- | --- |
+|---|---|---|---|
+|  *1.*   |  *Particulars of ship*   |
+| --- | --- | --- | --- |
+| 1.1.  | Name of ship  | ......  | --- |
+| --- | --- | --- | --- |
+| 1.2.  | IMO number  | ......  | --- |
+| --- | --- | --- | --- |
+| 1.3.  | Date of building contract  | ......  | --- |
+| --- | --- | --- | --- |
+| 1.4.  | Gross tonnage  | ......  | --- |
+| --- | --- | --- | --- |
+| 1.5.  | Deadweight  | ......  | --- |
+| --- | --- | --- | --- |
+| 1.6.  | Type of ship  <sup> 9)   Insert ship type in accordance with definitions specified in regulation 2 . Ships falling into more than one of the ship types defined in regulation 2 should be considered as being the ship type with the most stringent (the lowest) required EEDI. If ship does not fall into the ship types defined in regulation 2, insert “Ship other than any of the ship type defined in regulation 2”.    </sup> | ......  | --- |
+| --- | --- | --- | --- |
+|  *2.*   |  *Propulsion system*   |
+| --- | --- | --- | --- |
+| 2.1.  | Diesel propulsion  | ......  | □  |
+| --- | --- | --- | --- |
+| 2.2.  | Diesel-electric propulsion  | ......  | □  |
+| --- | --- | --- | --- |
+| 2.3.  | Turbine propulsion  | ......  | □  |
+| --- | --- | --- | --- |
+| 2.4.  | Hybrid propulsion  | ......  | □  |
+| --- | --- | --- | --- |
+| 2.5.  | Propulsion system other than any of the above  | ......  | □  |
+| --- | --- | --- | --- |
+|  *3.*   |  *Attained Energy Efficiency Design Index (EEDI)*   |
+| --- | --- | --- | --- |
+| 3.1.  | The Attained EEDI in accordance with regulation 20.1  is calculated based on the information contained in the EEDI technical file which also shows the process of calculating the Attained EEDI.  | ......  | □  |
+| --- | --- | --- | --- |
+| --- | The Attained EEDI is: ...... grams-CO <sub>2</sub> /tonne-mile  | --- | --- |
+| --- | --- | --- | --- |
+| 3.2.  | The Attained EEDI is not calculated as:  | --- | --- |
+| --- | --- | --- | --- |
+| 3.2.1.  | the ship is exempt under regulation 20.1  as it is not a new ship as defined in regulation 2.23   | ......  | □  |
+| --- | --- | --- | --- |
+| 3.2.2.  | the type of propulsion system is exempt in accordance with regulation 19.3   | ......  | □  |
+| --- | --- | --- | --- |
+| 3.2.3.  | the requirement of regulation 20  is waived by the ship’s Administration in accordance with regulation 19.4   | ......  | □  |
+| --- | --- | --- | --- |
+| 3.2.4.  | the type of ship is exempt in accordance with regulation 20.1   | ......  | □  |
+| --- | --- | --- | --- |
+|  *4.*   |  *Required EEDI*   |
+| --- | --- | --- | --- |
+| 4.1.  | Required EEDI is: ...... grams-CO <sub>2</sub> /tonne-mile  | --- | --- |
+| --- | --- | --- | --- |
+| 4.2.  | The required EEDI is not applicable as:  | --- | --- |
+| --- | --- | --- | --- |
+| 4.2.1.  | the ship is exempt under regulation 21.1  as it is not a new ship as defined in regulation 2.23   | ......  | □  |
+| --- | --- | --- | --- |
+| 4.2.2.  | the type of propulsion system is exempt in accordance with regulation 19.3   | ......  | □  |
+| --- | --- | --- | --- |
+| 4.2.3.  | the requirement of regulation 21  is waived by the ship’s Administration in accordance with regulation 19.4   | ......  | □  |
+| --- | --- | --- | --- |
+| 4.2.4.  | the type of ship is exempt in accordance with regulation 21.1   | ......  | □  |
+| --- | --- | --- | --- |
+| 4.2.5.  | the ship’s capacity is below the minimum capacity threshold in Table 1 of regulation 21.2   | ......  | □  |
+| --- | --- | --- | --- |
+|  *5.*   |  *Ship Energy Efficiency Management Plan*   |
+| --- | --- | --- | --- |
+| 5.1.  | The ship is provided with a Ship Energy Efficiency Management Plan (SEEMP) in compliance with regulation 22   | ......  | □  |
+| --- | --- | --- | --- |
+|  *6.*   |  *EEDI technical file*   |
+| --- | --- | --- | --- |
+| 6.1.  | The IEE Certificate is accompanied by the EEDI technical file in compliance with regulation 20.1   | ......  | □  |
+| --- | --- | --- | --- |
+| 6.2.  | The EEDI technical file identification/verification number  | ......  | --- |
+| --- | --- | --- | --- |
+| 6.3.  | The EEDI technical file verification date  | ......  | --- |
+
+THIS IS TO CERTIFY that this Record is correct in all respects.  
+
+| Issued at  | ......  |
+|---|---|
+| --- | (Place of issue of the Record)  |
+| --- | --- | --- |
+| (dd/mm/yyyy):  | ......  | ......  |
+| --- | (Date of issue)  | (Signature of duly authorized official issuing the Record)  |
+| --- | --- | --- |
+| (Seal or stamp of the authority, as appropriate)  |
 
 ####Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973
 
@@ -6546,7 +7085,7 @@ Het Internationaal certificaat voor voorkoming van verontreiniging door olie wor
 Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de scheepspijpleiding voor de afgifte van restanten afkomstig van machinekamerlensruimten en van tanks voor olierestanten (oliedrab), dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel:  Standaardafmetingen van flenzen voor aansluitingen voor afgifte 
 
 |  *Omschrijving*   |  *Afmeting*   |
-|:---|:---|
+|---|---|
 | Uitwendige flensdiameter  | 215 mm  |
 | Inwendige flensdiameter  | Overeenkomstig de uitwendige diameter van de pijp  |
 | Diameter van de steekcirkel van de bouten  | 183 mm  |
@@ -6598,7 +7137,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 1.  Overeenkomstig de bepalingen van voorschrift 4 van deze Bijlage en de leden 2, 3 en 6 van dit voorschrift, is elke lozing in zee van olie of oliehoudende mengsels door schepen verboden.   *A. Lozingen buiten bijzondere gebieden*   
 2.  Elke lozing in zee van olie of oliehoudende mengsels door schepen met een brutotonnage van 400 of meer is verboden, tenzij voldaan wordt aan alle onderstaande voorwaarden: 
 
-.1 het schip vervolgt zijn vaarroute;  
+.1 het schip is onderweg;  
 
 .2 het oliehoudend mengsel wordt behandeld door apparatuur voor het filtreren van olie die voldoet aan de vereisten van voorschrift 14 van deze Bijlage;  
 
@@ -6622,7 +7161,7 @@ Teneinde leidingen van de ontvangstinrichtingen te kunnen aansluiten op de schee
 5.  Geen enkele bepaling in dit voorschrift belet een schip dat slechts gedurende een deel van zijn reis door een bijzonder gebied vaart lozingen te verrichten buiten een bijzonder gebied in overeenstemming met lid 2 van dit voorschrift.   *C. Vereisten voor schepen met een brutotonnage van minder dan 400 in alle gebieden uitgezonderd het Antarctisch gebied*   
 6.  Bij een schip met een brutotonnage van minder dan 400, dienen olie en oliehoudende mengsels aan boord te worden gehouden om naderhand bij ontvangstinrichtingen te worden afgegeven of in zee te worden geloosd in overeenstemming met de volgende voorwaarden: 
 
-.1 het schip vervolgt zijn vaarroute;  
+.1 het schip is onderweg;  
 
 .2 op het schip wordt met apparatuur gewerkt, waarvan het ontwerp door de Administratie is goedgekeurd, die waarborgt dat het oliegehalte van het onverdunde effluent niet meer bedraagt dan 15 delen per miljoen;  
 
@@ -6734,11 +7273,11 @@ d <sub>m</sub> = 2.0 + 0.02L
 
 12. Beschermende ligging van gescheiden-ballastruimten. Op elk ruwe-olietankschip met een draagvermogen van 20.000 ton of meer en op elk productentankschip met een draagvermogen van 30.000 ton of meer opgeleverd na 1 juni 1982, als omschreven in voorschrift 1.28.4, uitgezonderd de tankschepen die aan voorschrift 19 voldoen, dienen de binnen het ladingtankgedeelte aangebrachte gescheiden-ballasttanks, van de vereiste inhoud die noodzakelijk is om te kunnen voldoen aan de vereisten van lid 2 van dit voorschrift, te zijn geplaatst in overeenstemming met het bepaalde in de leden 13, 14 en 15 van dit voorschrift teneinde een zekere mate van bescherming te bieden tegen het uitstromen van olie ingeval van stranding of aanvaring.  
 
-13. Gescheiden-ballasttanks en ruimten binnen het ladingtankgedeelte (L <sub>t</sub>), geen olietanks zijnde, dienen zodanig te zijn geplaatst dat aan de volgende eisen wordt voldaan:   ![10000053442](http://wetten.overheid.nl/Illustration/10000053442)
+13. Gescheiden-ballasttanks en ruimten binnen het ladingtankgedeelte (L <sub>t</sub>), geen olietanks zijnde, dienen zodanig te zijn geplaatst dat aan de volgende eisen wordt voldaan:   ![]()
 waarbij:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | PA <sub>c</sub>  | =  | voor elke gescheiden-ballasttank of -ruimte, geen olietank zijnde, de verticale projectie van het oppervlak van de zijbeplating van de huid, gemeten naar de mal in m <sup>2</sup>,  |
 | PA <sub>s</sub>  | =  | voor elke zodanige tank of ruimte, de horizontale projectie van het oppervlak van de vlakbeplating van de huid, gemeten naar de mal in m <sup>2</sup>,  |
 | L <sub>t</sub>  | =  | lengte tussen het voorste en achterste begrenzingsschot van de ladingtanks in m,  |
@@ -6748,11 +7287,11 @@ waarbij:
 
 Waar in dit voorschrift de in dit lid vermelde symbolen voorkomen, hebben zij de betekenis als omschreven in dit lid.  
 
-14. Voor olietankschepen met een draagvermogen van 200.000 ton of meer mag de waarde van J als volgt worden verminderd:   ![10000053442](http://wetten.overheid.nl/Illustration/10000053442)
+14. Voor olietankschepen met een draagvermogen van 200.000 ton of meer mag de waarde van J als volgt worden verminderd:   ![]()
 waarbij:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 |  *a*   | =  | 0,25 voor olietankschepen met een draagvermogen van 200.000 ton,  |
 |  *a*   | =  | 0,40 voor olietankschepen met een draagvermogen van 300.000 ton,  |
 |  *a*   | =  | 0,50 voor olietankschepen met een draagvermogen van 420.000 ton of meer.  |
@@ -6783,7 +7322,7 @@ waarbij:
 
 3. De gehele lengte van het ladingtankgedeelte dient als volgt te worden beschermd door ballasttanks of -ruimten niet zijnde olietanks: 
 
-.1 Zijtanks of -ruimten Zijtanks of –ruimten dienen zich uit te strekken hetzij over de volle holte van het schip in de zijde of van de bovenzijde van de dubbele bodem tot het bovenste dek, daarbij geen rekening houdend met een rondgezette plaat als overgang van huidbeplating naar dekbeplating. Zij dienen zodanig te zijn geplaatst dat de ladingtanks zich bevinden binnen de doorgestrookte lijn van de zijbeplating van het schip, nergens minder dan de afstand w die, zoals weergegeven in figuur 1, wordt gemeten op iedere dwarsdoorsnede die een rechte hoek maakt met de zijbeplating van het schip, zoals hieronder omschreven:   ![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
+.1 Zijtanks of -ruimten Zijtanks of –ruimten dienen zich uit te strekken hetzij over de volle holte van het schip in de zijde of van de bovenzijde van de dubbele bodem tot het bovenste dek, daarbij geen rekening houdend met een rondgezette plaat als overgang van huidbeplating naar dekbeplating. Zij dienen zodanig te zijn geplaatst dat de ladingtanks zich bevinden binnen de doorgestrookte lijn van de zijbeplating van het schip, nergens minder dan de afstand w die, zoals weergegeven in figuur 1, wordt gemeten op iedere dwarsdoorsnede die een rechte hoek maakt met de zijbeplating van het schip, zoals hieronder omschreven:   ![]()
 w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 m.  
 
 .2 Dubbele-bodemtanks of -ruimten De hoogte van elke dubbele-bodemtank of –ruimte dient op iedere willekeurige dwarsdoorsnede zodanig te zijn dat de afstand h tussen de bodem van de ladingtanks en de doorgestrookte lijn van de vlakbeplating van het schip gemeten in een rechte hoek met de vlakbeplating, zoals weergegeven in figuur 1, niet minder is dan hieronder omschreven: h = B/15 (m) of h = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van h = 1,0 m.  
@@ -6801,7 +7340,7 @@ w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 
 .1 Dubbele-bodemtanks of –ruimten zoals vereist in lid 3.2 van dit voorschrift kunnen achterwege blijven op voorwaarde dat het ontwerp van het tankschip zodanig is dat de druk die door lading en damp wordt uitgeoefend op de vlakbeplating van het schip die de enige scheiding vormt tussen de lading en de zee, niet hoger is dan de hydrostatische waterdruk van buitenaf, zoals weergegeven in de volgende formule:  *f x hc x ρc x g + p ≤ dn x ρs x g*  waarbij:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- |  *h <sub>c</sub>*   | =  | de hoogte van de lading die in aanraking komt met de vlakbeplating in meters  |
 | --- |  *ρ <sub>c</sub>*   | =  | de maximale ladingdichtheid in kg/m <sup>3</sup>  |
 | --- |  *d <sub>n</sub>*   | =  | minimum diepgang van een schip in bedrijf, onder alle te verwachten beladingstoestanden, in meters  |
@@ -6820,13 +7359,13 @@ w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 
 
 .1 ten minste te zijn voorzien van dubbele-bodemtanks of –ruimten die een zodanige hoogte hebben dat de afstand h, als omschreven in lid 3.2 van dit voorschrift, voldoet aan de volgende voorwaarde: h = B/15 (m) met een minimum waarde van h = 0,76 m; in het gebied van de ronding van de kim en op plaatsen zonder duidelijk afgebakende ronding van de kim dient de grenslijn van de ladingtank parallel te lopen aan de lijn van het midscheepse vlak, zoals weergegeven in figuur 3; en  
 
-.2 te zijn voorzien van ladingtanks die zodanig zijn geplaatst dat de capaciteit van elke ladingtank niet groter is dan 700 m <sup>3</sup>, tenzij de zijtanks of -ruimten zijn geplaatst in overeenstemming met lid 3.1 van dit voorschrift, en voldoen aan de volgende voorwaarde:   ![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
+.2 te zijn voorzien van ladingtanks die zodanig zijn geplaatst dat de capaciteit van elke ladingtank niet groter is dan 700 m <sup>3</sup>, tenzij de zijtanks of -ruimten zijn geplaatst in overeenstemming met lid 3.1 van dit voorschrift, en voldoen aan de volgende voorwaarde:   ![]()
 
 7. Er mag geen olie worden vervoerd in ruimten die zich uitstrekken tot voor een aanvaringsschot dat in overeenstemming met voorschrift II-1/11 van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd, is geplaatst. Een olietankschip waarvoor in overeenstemming met dat voorschrift geen aanvaringsschot vereist is, mag geen olie vervoeren in ruimten die zich uitstrekken tot voor het dwarsschot dat loodrecht staat op het vlak van kiel en stevens, dat is geplaatst zoals een aanvaringsschot in overeenstemming met dat voorschrift zou zijn geplaatst.  
 
-8. Bij het goedkeuren van het ontwerp en de bouw van olietankschepen die moeten worden gebouwd in overeenstemming met de bepalingen van dit voorschrift, houden Administraties naar behoren rekening met de algemene veiligheidsaspecten, met inbegrip van de noodzaak van onderhoud en inspecties van zij- en dubbele-bodemtanks of -ruimten.     ![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
-![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
-![10000053447](http://wetten.overheid.nl/Illustration/10000053447)
+8. Bij het goedkeuren van het ontwerp en de bouw van olietankschepen die moeten worden gebouwd in overeenstemming met de bepalingen van dit voorschrift, houden Administraties naar behoren rekening met de algemene veiligheidsaspecten, met inbegrip van de noodzaak van onderhoud en inspecties van zij- en dubbele-bodemtanks of -ruimten.     ![]()
+![]()
+![]()
 
 ### Voorschrift  20  
 
@@ -6857,7 +7396,7 @@ w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 
 4. Olietankschepen waarop dit voorschrift van toepassing is dienen uiterlijk op 5 april 2005 of op de verjaardatum van hun oplevering op de datum of in het jaar zoals vermeld in de onderstaande tabel, te voldoen aan de vereisten van voorschrift 19, de leden 2 tot en met 5, 7 en 8 en voorschrift 28 met betrekking tot lid 28.6 van deze Bijlage:  
 
 |  *Categorie olietankschepen*   |  *Datum of jaar*   |
-|:---|:---|
+|---|---|
 | Categorie 1  | 5 april 2005 voor schepen opgeleverd op 5 april 1982 of eerder  2005 voor schepen opgeleverd na 5 april 1982  |
 | Categorie 2 en  Categorie 3  | 5 april 2005 voor schepen opgeleverd op 5 april 1977 of eerder  2005 voor schepen opgeleverd na 5 april 1977 maar voor 1 januari 1978  2006 voor schepen opgeleverd in 1978 en 1979  2007 voor schepen opgeleverd in 1980 en 1981  2008 voor schepen opgeleverd in 1982  2009 voor schepen opgeleverd in 1983  2010 voor schepen opgeleverd in 1984 of later  |
 
@@ -6966,7 +7505,7 @@ w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 
 .1 Schade in de zijde van het schip:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | Langsscheeps (l <sub>c</sub>):  | 1/3 L 2/3 of 14,5 meter, naar gelang welk getal het kleinst is.  |
 | 2.  | Dwarsscheeps (t <sub>c</sub>) (binnenboord gemeten vanaf de scheepshuid loodrecht op het vlak van kiel en stevens, ter hoogte van de lastlijn behorende bij het toegekende zomervrijboord):  | B/5 of 11,5 meter, naar gelang welk getal het kleinst is.  |
 | 3.  | Verticaal (v <sub>c</sub>):  | Vanaf de lijn van onderzijde spanten naar boven, zonder begrenzing  |
@@ -6974,7 +7513,7 @@ w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 
 .2 Schade aan het vlak van het schip:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | Over 0,3 L vanaf de voorloodlijn van het schip  | Elk ander deel van het schip  |
 | 1.  | Langsscheeps (l <sub>s</sub>):  | L/10  | L/10 of 5 meter, naar gelang welk getal het kleinst is.  |
 | 2.  | Dwarsscheeps (t <sub>s</sub>):  | B/6 of 10 meter, naar gelang welk getal het kleinst is, echter niet kleiner dan 5 meter  | 5 meter  |
@@ -6993,7 +7532,7 @@ w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 
 .2 bij schade aan het vlak van het schip: O <sub>s</sub> = 1/3 (Σ Z <sub>i</sub> W <sub>i</sub> + Σ Z <sub>i</sub> C <sub>i</sub>) (II) waarbij:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | W <sub>i</sub>  | =  | de inhoud van een zijtank in kubieke meters, die wordt geacht te zijn lek gestoten als gevolg van de schade zoals aangegeven in voorschrift 24 van deze Bijlage. Voor gescheiden-ballasttanks kan W <sub>i</sub> op 0 worden gesteld.  |
 | C <sub>i</sub>  | =  | de inhoud van een middentank in kubieke meters, die wordt geacht te zijn lek gestoten als gevolg van de schade zoals aangegeven in voorschrift 24 van deze Bijlage. Voor gescheiden-ballasttanks kan C <sub>i</sub> op 0 worden gesteld;  |
 | K <sub>i</sub>  | =  | 1– b <sub>i</sub> /t <sub>c</sub>; wanneer b <sub>i</sub>  gelijk is aan of groter is dan t <sub>c</sub>, dient K <sub>i</sub> op 0 te worden gesteld.  |
@@ -7003,7 +7542,7 @@ w = 2,0 m, naar gelang welk getal het kleinst is. De minimum waarde van w = 1,0 
 
 Waar in dit lid de in dit Hoofdstuk vermelde symbolen voorkomen, hebben zij de betekenis als omschreven in dit voorschrift.    
 
-2. Indien een lege ruimte of een gescheiden-ballasttank met een lengte die kleiner is dan lc als omschreven in voorschrift 24 van deze Bijlage, tussen zijtanks voor olie is gelegen, kan O <sub>c</sub> in formule (I) worden berekend onder de veronderstelling dat W <sub>i</sub> de werkelijke inhoud van een van deze tanks is (wanneer deze eenzelfde inhoud hebben) of dat de inhoud W <sub>i</sub> de kleinste is van de twee tanks (wanneer zij een verschillende inhoud hebben) die aan een dergelijke ruimte grenzen, vermenigvuldigd met S <sub>i</sub> zoals hieronder omschreven, terwijl voor alle andere bij een dergelijke aanvaring betrokken zijtanks de waarde van de feitelijke volle inhoud moet worden aangehouden. 
+2. Indien een lege ruimte of een gescheiden-ballasttank met een lengte die kleiner is dan l <sub>c</sub> als omschreven in voorschrift 24 van deze Bijlage, tussen zijtanks voor olie is gelegen, kan O <sub>c</sub> in formule (I) worden berekend onder de veronderstelling dat W <sub>i</sub> de werkelijke inhoud van een van deze tanks is (wanneer deze eenzelfde inhoud hebben) of dat de inhoud W <sub>i</sub> de kleinste is van de twee tanks (wanneer zij een verschillende inhoud hebben) die aan een dergelijke ruimte grenzen, vermenigvuldigd met S <sub>i</sub> zoals hieronder omschreven, terwijl voor alle andere bij een dergelijke aanvaring betrokken zijtanks de waarde van de feitelijke volle inhoud moet worden aangehouden. 
 
 S <sub>i</sub> = 1 - l <sub>i</sub> /l <sub>c</sub>   waarbij l <sub>i</sub> = lengte van de betreffende lege ruimte of gescheiden-ballasttank in meters.  
 
@@ -7041,16 +7580,16 @@ O <sub>s</sub> = 1/4 (Σ Z <sub>i</sub> W <sub>i</sub> + Σ Z <sub>i</sub> C <su
 
 .2 het bouwcontract wordt afgesloten na 1 januari 1974 of, indien vooraf geen bouwcontract is afgesloten, de kiel wordt gelegd dan wel de bouw van het tankschip bevindt zich na 30 juni 1974 in een soortgelijk stadium,     aan de bepalingen van dit voorschrift te voldoen.  
 
-2. De grootte en de indeling van de ladingtanks van olietankschepen dienen zodanig te zijn dat de hypothetische uitstroming Oc of Os berekend in overeenstemming met het bepaalde in voorschrift 25 van deze Bijlage, op elke willekeurige plaats over de gehele lengte van het schip niet groter is dan 30.000 m <sup>3</sup> of 400   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+2. De grootte en de indeling van de ladingtanks van olietankschepen dienen zodanig te zijn dat de hypothetische uitstroming Oc of Os berekend in overeenstemming met het bepaalde in voorschrift 25 van deze Bijlage, op elke willekeurige plaats over de gehele lengte van het schip niet groter is dan 30.000 m <sup>3</sup> of 400   ![]()
 , welke van de twee de grootste is, maar niet meer dan 40.000 m <sup>3</sup>.  
 
 3. De inhoud van elke zijtank voor olie van een olietankschip mag niet groter zijn dan 75 percent van de toegelaten hypothetische uitstroming van olie zoals bedoeld in lid 2 van dit voorschrift. De inhoud van een middentank mag niet groter zijn dan 50.000 m <sup>3</sup>. Bij olietankschepen met gescheiden ballast zoals omschreven in voorschrift 18 van deze Bijlage, mag de toegestane inhoud van een zijtank voor olie, gelegen tussen twee gescheiden-ballasttanks die elk langer zijn dan l <sub>c</sub>, worden vergroot tot de maximaal toegestane hypothetische uitstroming van olie, mits de breedte van de zijtanks groter is dan t <sub>c</sub>.  
 
 4. De lengte van elke ladingtank mag niet groter zijn dan 10 meter of groter dan een van de volgende waarden, naar gelang welk getal het grootst is: 
 
-.1 wanneer geen langsschot is aangebracht binnen de ladingtanks:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.1 wanneer geen langsschot is aangebracht binnen de ladingtanks:   ![]()
 
-.2 wanneer er op hart schip een langsschot is aangebracht binnen de ladingtanks:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.2 wanneer er op hart schip een langsschot is aangebracht binnen de ladingtanks:   ![]()
 
 .3 wanneer aan de binnenzijde van de ladingtanks twee of meer langsschotten zijn aangebracht: 
 
@@ -7058,15 +7597,15 @@ O <sub>s</sub> = 1/4 (Σ Z <sub>i</sub> W <sub>i</sub> + Σ Z <sub>i</sub> C <su
 
 .2 voor middentanks voor lading: 
 
-.1 indien   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.1 indien   ![]()
 gelijk is aan of groter is dan een vijfde: 0,2 L  
 
-.2 indien   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+.2 indien   ![]()
 kleiner is dan een vijfde: 
 
-– wanneer er geen langsschot op hart schip is aangebracht:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+– wanneer er geen langsschot op hart schip is aangebracht:   ![]()
 
-– wanneer er een langsschot op hart schip is aangebracht:   ![10000053461](http://wetten.overheid.nl/Illustration/10000053461)
+– wanneer er een langsschot op hart schip is aangebracht:   ![]()
 
 .4  *b*<sub>i</sub> is de minimum afstand van de scheepshuid tot het buitenste langsschot van de desbetreffende tank, binnenboord gemeten loodrecht op het vlak van kiel en stevens, ter hoogte van de lastlijn behorende bij het toegekende zomervrijboord.    
 
@@ -7131,7 +7670,7 @@ kleiner is dan een vijfde:
 .1 Schade in de zijde van het schip:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | Langsscheeps:  | <sup>1</sup> / <sub>3</sub> (L <sup>⅔</sup>) of 14.5 meter, naar gelang welke getal het kleinst is  |
 | 2.  | Dwarsscheeps (binnenboord gemeten vanaf de zijde van het schip loodrecht op het vlak van kiel en stevens, ter hoogte van de zomerlastlijn):  | <sup>B</sup> / <sub>5</sub> of 11,5 meter, naar gelang welk getal het kleinst is  |
 | 3  | Verticaal:  | Vanaf de doorgestrookte lijn van de vlakbeplating op hart schip naar boven, zonder begrenzing  |
@@ -7139,7 +7678,7 @@ kleiner is dan een vijfde:
 .2 Schade aan het vlak van het schip:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | Over 0,3 L vanaf de voorloodlijn van het schip  | Elk ander deel van het schip  |
 | --- | 1  | Langsscheeps:  | <sup>1</sup> / <sub>3</sub> (L <sup>⅔</sup>) of 14,5 meter, naar gelang welk getal het kleinst is  | <sup>1</sup> / <sub>3</sub> (L <sup>⅔</sup>) of 5 meter, naar gelang welk getal het kleinst is  |
 | --- | --- | --- | --- | --- |
@@ -7178,7 +7717,7 @@ kleiner is dan een vijfde:
 .2 De volgende permeabiliteiten dienen te worden toegepast voor ten gevolge van schade volgelopen ruimtes:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Ruimten*   |  *Permeabiliteit*   |
 | bestemd voor voorraden  | 0,60  |
 | ingenomen door verblijven  | 0,95  |
@@ -7437,9 +7976,25 @@ Onverminderd de bepalingen van de leden 4 en 5 van voorschrift 3 van deze Bijlag
 
 .5 Alle inrichtingen die ingevolge dit voorschrift in havens en laad- of losplaatsen zijn aangelegd, dienen toereikend te zijn voor de ontvangst van oliehoudend lenswater en andere restanten die niet geloosd kunnen worden overeenkomstig voorschrift 15 van deze Bijlage.  
 
-.6 De inrichtingen die in laadhavens voor bulkladingen zijn aangelegd, dienen naar behoren te worden afgestemd op de speciale problemen van combinatietankschepen.      *B. Ontvangstinrichtingen binnen de bijzondere gebieden*  
+.6 De inrichtingen die in laadhavens voor bulkladingen zijn aangelegd, dienen naar behoren te worden afgestemd op de speciale problemen van combinatietankschepen.    
+
+3bis. Kleine eilandstaten in ontwikkeling kunnen met behulp van regionale regelingen voldoen aan de vereisten van de leden 1 tot en met 3 van dit voorschrift, indien dergelijke regelingen de enige praktische manier zijn om aan deze vereisten te voldoen vanwege de unieke omstandigheden van die staten. Partijen die deelnemen aan een regionale regeling moeten een regionaal plan voor ontvangstfaciliteiten opstellen waarbij rekening wordt gehouden met de door de Organisatie opgestelde richtlijnen. De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organisatie, ten behoeve van het rondsturen aan de Partijen bij dit Verdrag, over: 
+
+.1 de wijze waarop in het regionale plan voor ontvangstfaciliteiten rekening wordt gehouden met de richtlijnen;  
+
+.2 bijzonderheden van de aangewezen regionale ontvangstfaciliteiten voor afval van schepen; en  
+
+.3 bijzonderheden van havens met beperkte voorzieningen.      *B. Ontvangstinrichtingen binnen de bijzondere gebieden*  
 
 4. De Regering van elke Partij bij dit Verdrag wier kustlijn grenst aan een bijzonder gebied draagt er zorg voor dat alle olielaadplaatsen en reparatiehavens in het bijzondere gebied voorzien zijn van inrichtingen toereikend voor het ontvangen en verwerken van al het vuile ballast- en tankwaswater van olietankschepen. Bovendien dienen alle havens binnen het bijzondere gebied te worden voorzien van inrichtingen toereikend voor het ontvangen van andere restanten en oliehoudende mengsels afkomstig van alle schepen. Deze inrichtingen dienen een capaciteit te hebben die toereikend is om te voldoen aan de behoeften van de schepen die er gebruik van maken zonder onnodig oponthoud van deze schepen te veroorzaken.  
+
+4bis. Kleine eilandstaten in ontwikkeling kunnen met behulp van regionale regelingen voldoen aan de vereisten van lid 4 van dit voorschrift, indien dergelijke regelingen de enige praktische manier zijn om aan deze vereisten te voldoen vanwege de unieke omstandigheden van die staten. Partijen die deelnemen aan een regionale regeling moeten een regionaal plan voor ontvangstfaciliteiten opstellen waarbij rekening wordt gehouden met de door de Organisatie opgestelde richtlijnen. De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organisatie, ten behoeve van het rondsturen aan de Partijen bij dit Verdrag, over: 
+
+.1 de wijze waarop in het regionale plan voor ontvangstfaciliteiten rekening wordt gehouden met de richtlijnen;  
+
+.2 bijzonderheden van de aangewezen regionale ontvangstfaciliteiten voor afval van schepen; en  
+
+.3 bijzonderheden van havens met beperkte voorzieningen.    
 
 5. De Regering van elke Partij bij dit Verdrag onder wier rechtsmacht ondiepe toegangen tot scheepvaartroutes vallen welke een vermindering van diepgang door middel van het lozen van ballast zouden vereisen, draagt zorg voor inrichtingen bedoeld in lid 4 van dit voorschrift, met dien verstande evenwel dat schepen die verontreinigd tankwas- of ballastwater moeten lozen enig oponthoud kunnen ondervinden.  
 
@@ -7529,6 +8084,23 @@ Onverminderd de bepalingen van de leden 4 en 5 van voorschrift 3 van deze Bijlag
 .7. bevestiging dat de olietanker een plan voor STS-operaties aan boord heeft dat aan de vereisten van voorschrift 41 voldoet.     
 3.  Indien de verwachte tijd van aankomst van een olietankschip op de locatie of in het gebied waar de STS-operaties zullen plaatsvinden meer dan zes uur verschuift, dient de kapitein, reder of scheepsagent van het olietankschip de aangepaste verwachte tijd van aankomst door te geven aan de partij bij dit Verdrag die in het eerste lid van dit voorschrift wordt genoemd.   
 
+### HOOFDSTUK  9  
+
+####BIJZONDERE VEREISTEN VOOR HET GEBRUIK OF VERVOER VAN OLIE IN HET ANTARCTISCH GEBIED
+
+### Voorschrift  43  
+
+####Bijzondere vereisten voor het gebruik of vervoer van olie in het Antarctisch gebied
+
+1.  Met uitzondering van schepen die ingezet worden bij het waarborgen van de veiligheid van schepen of bij een opsporings- en reddingsoperatie, is het vervoer in bulk als lading of het vervoer en gebruik van brandstof van het volgende: 
+
+.1 ruwe olie met een dichtheid van meer dan 900 kg/m <sup>3</sup> bij 15ºC;  
+
+.2 andere olieproducten dan ruwe olie, met een dichtheid van meer dan 900 kg/m <sup>3</sup> bij 15ºC of een kinematische viscositeit van meer dan 180 mm <sup>2</sup> /s bij 50ºC; of  
+
+.3 bitumen, teer en emulsies van deze producten,   verboden in het Antarctisch gebied, zoals omschreven in Bijlage I, voorschrift 1.11.7.   
+2.  Indien eerdere operationele handelingen het vervoer of het gebruik van de in paragraaf 1.1 tot en met 1.3 van dit voorschrift genoemde olieproducten hebben ingehouden, is het reinigen of spoelen van de tanks of pijpleidingen niet vereist.   
+
 ### Aanhangsel  I  
 
 ####LIJST VAN OLIËN
@@ -7563,15 +8135,15 @@ Oplosmiddel Petroleum Destillaatolie met beperkt kooktraject
 
 ####MODEL VAN HET IOPP-CERTIFICAAT EN VAN DE SUPPLEMENTEN
 
-<sup> *  [Red: Het IOPP-certificaat dient tenminste in het Engels. Frans of Spaans te worden gesteld. Wanneer het certificaat tevens is gesteld in een officiële taal van het land dat het certificaat afgeeft, is deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.]  </sup>     ![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
+<sup> *  [Red: Het IOPP-certificaat dient tenminste in het Engels. Frans of Spaans te worden gesteld. Wanneer het certificaat tevens is gesteld in een officiële taal van het land dat het certificaat afgeeft, is deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.]  </sup>     ![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ###3. Middelen voor het aan boord houden en verwijderen van olierestanten (oliedrab) (voorschrift 12) en verzameltank(s) voor oliehoudend lenswater
 
@@ -7580,7 +8152,7 @@ Oplosmiddel Petroleum Destillaatolie met beperkt kooktraject
 3.1. Het schip is als volgt uitgerust met tanks voor olierestanten (oliedrab) voor het aan boord houden van olierestanten (oliedrab):  
 
 | Aanduiding van de tank  | Plaatsing van de tank  | Inhoud (m <sup>3</sup>)  |
-|:---|:---|:---|
+|---|---|---|
 | Spant(nummers)(van)-(naar)  | Plaats in de breedte  |
 | --- | --- | --- | --- |
 | --- | Totale inhoud: ….. m <sup>3</sup>  |
@@ -7596,7 +8168,7 @@ Oplosmiddel Petroleum Destillaatolie met beperkt kooktraject
 3.3. Het schip is als volgt uitgerust met (een) verzameltank(s) voor het aan boord houden van oliehoudend lenswater:  
 
 | Aanduiding van de tank  | Plaatsing van de tank  | Inhoud (m <sup>3</sup>)  |
-|:---|:---|:---|
+|---|---|---|
 | Spant(nummers)(van)-(naar)  | Plaats in de breedte  |
 | --- | --- | --- | --- |
 | --- | Totale inhoud: ….. m <sup>3</sup>  |
@@ -7605,12 +8177,12 @@ Oplosmiddel Petroleum Destillaatolie met beperkt kooktraject
 
 (voorschrift 13) 
 
-4.1 Het schip is uitgerust met een pijpleiding voor de afgifte van oliedrab en van restanten afkomstig uit machinekamerlensputten aan ontvangstinrichtingen, voorzien van een standaard aansluiting voor afgifte overeenkomstig voorschrift 13 □     ![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
+4.1 Het schip is uitgerust met een pijpleiding voor de afgifte van oliedrab en van restanten afkomstig uit machinekamerlensputten aan ontvangstinrichtingen, voorzien van een standaard aansluiting voor afgifte overeenkomstig voorschrift 13 □     ![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ###3. Middelen voor het aan boord houden en verwijderen van olierestanten (oliedrab) (voorschrift 12) en verzameltank(s) voor oliehoudend lenswater
 
@@ -7619,7 +8191,7 @@ Oplosmiddel Petroleum Destillaatolie met beperkt kooktraject
 3.1. Het schip is als volgt uitgerust met tanks voor olierestanten (oliedrab) voor het aan boord houden van olierestanten (oliedrab):  
 
 | Aanduiding van de tank  | Plaatsing van de tank  | Inhoud (m <sup>3</sup>)  |
-|:---|:---|:---|
+|---|---|---|
 | Spant(nummers)(van)-(naar)  | Plaats in de breedte  |
 | --- | --- | --- | --- |
 | --- | Totale inhoud: ….. m <sup>3</sup>  |
@@ -7635,7 +8207,7 @@ Oplosmiddel Petroleum Destillaatolie met beperkt kooktraject
 3.3. Het schip is als volgt uitgerust met (een) verzameltank(s) voor het aan boord houden van oliehoudend lenswater:  
 
 | Aanduiding van de tank  | Plaatsing van de tank  | Inhoud (m <sup>3</sup>)  |
-|:---|:---|:---|
+|---|---|---|
 | Spant(nummers)(van)-(naar)  | Plaats in de breedte  |
 | --- | --- | --- | --- |
 | --- | Totale inhoud: ….. m <sup>3</sup>  |
@@ -7644,8 +8216,8 @@ Oplosmiddel Petroleum Destillaatolie met beperkt kooktraject
 
 (voorschrift 13) 
 
-4.1 Het schip is uitgerust met een pijpleiding voor de afgifte van oliedrab en van restanten afkomstig uit machinekamerlensputten aan ontvangstinrichtingen, voorzien van een standaard aansluiting voor afgifte overeenkomstig voorschrift 13 □     ![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
+4.1 Het schip is uitgerust met een pijpleiding voor de afgifte van oliedrab en van restanten afkomstig uit machinekamerlensputten aan ontvangstinrichtingen, voorzien van een standaard aansluiting voor afgifte overeenkomstig voorschrift 13 □     ![]()
+![]()
 
 5.7 Waterdichte indeling en lekstabiliteit (voorschrift 28): 
 
@@ -7780,9 +8352,9 @@ Het schip is uitgerust met ... aangewezen sloptank(s) meteen totale capaciteit v
 
 6.4.2 In overeenstemming met voorschrift 2.2 is het schip vrijgesteld van de vereisten van de voorschriften 29,31 en 32 □    
 
-6.5 Ontheffing van voorschrift:     ![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
+6.5 Ontheffing van voorschrift:     ![]()
+![]()
+![]()
 
 .1 de restanten kunnen naar een ladingtank of sloptank worden overgebracht □  
 
@@ -7815,7 +8387,7 @@ Het schip is uitgerust met ... aangewezen sloptank(s) meteen totale capaciteit v
 
 ####MODEL VOOR OLIEJOURNAAL
 
-![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
+![]()
 
 ###Inleiding
 
@@ -7865,7 +8437,7 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 11. Opslag van olierestanten (oliedrab). Hoeveelheid aan boord opgeslagen olierestanten (oliedrab). De hoeveelheid dient wekelijks te worden geregistreerd : (dit houdt in dat de hoeveelheid eenmaal per week dient te worden geregistreerd, zelfs wanneer de reis langer dan een week duurt): <sup> 1)  Uitsluitend de tanks vermeld onder punt 3.1 van formulier A en B van het Supplement bij het IOPP-certificaat die voor olierestanten (oliedrab) worden gebruikt.  </sup>  
 
 | .1.  | aanduiding van de tank(s)  |--- |
-|:---|:---|:---|
+|---|---|---|
 | .2.  | capaciteit van de tank(s)  | – m <sup>3</sup>  |
 | .3.  | totaal opgeslagen hoeveelheid  | – m <sup>3</sup>  |
 | .4.  | hoeveelheid restanten die handmatig zijn opgeslagen  | – m <sup>3</sup>  |
@@ -7933,9 +8505,9 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 
 .4  Soort en hoeveelheid smeerolie en aanduiding van de tank(s) (vermeld toegevoegde hoeveelheid in tonnen, en de totale inhoud van de tank(s)).      
 
-(I)  *Aanvullende operationele procedures en algemene opmerkingen*    ![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
-![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
-![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
+(I)  *Aanvullende operationele procedures en algemene opmerkingen*    ![]()
+![]()
+![]()
 
 ###Inleiding
 
@@ -8172,7 +8744,7 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 
 84. Totale hoeveelheid afgegeven ballastwater in kubieke meters.  
 
-85. Datum, handtekening en stempel van functionaris havenautoriteit.       ![10000053399](http://wetten.overheid.nl/Illustration/10000053399)
+85. Datum, handtekening en stempel van functionaris havenautoriteit.       ![]()
 
 ### Bijlage  II  
 
@@ -8198,7 +8770,7 @@ Voor de toepassing van deze Bijlage:
 
 5. wordt onder *waterdiepte* verstaan de diepte zoals op de kaart aangegeven.  
 
-6. wordt onder *onderweg* verstaan dat het schip onderweg is op zee op een of meerdere koersen, met inbegrip van afwijking van de kortste rechtstreekse route, voor zover met het oog op de navigatie praktisch uitvoerbaar, waarbij een eventuele lozing, over een uit redelijk en praktisch oogpunt zo groot mogelijk gebied van de zee wordt verspreid.  
+6. wordt onder *onderweg* verstaan dat het schip onderweg is op zee op een of meerdere koersen, met inbegrip van afwijking van de kortste rechtstreekse route, voor zover met het oog op de navigatie praktisch uitvoerbaar, waarbij elke of iedere lozing, over een uit redelijk en praktisch oogpunt zo groot mogelijk gebied van de zee wordt verspreid.  
 
 7. wordt onder *vloeistoffen* verstaan stoffen die een dampspanning hebben van ten hoogste 0,28 MPa bij een temperatuur van 37,8°C.   
 
@@ -8548,7 +9120,7 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 8. De onderwateruitlaat (of uitlaten) dient (dienen) zich te bevinden in het ladinggedeelte, nabij de ronding van de kim, en dient (dienen) zodanig te zijn aangebracht dat wordt vermeden dat residu-watermengsels weer naar binnen worden gezogen via de zeewaterinlaten van het schip.  
 
-9. De voorziening van de onderwateruitlaat dient zodanig te zijn dat de geloosde residu-watermengsels niet door de huidbeplating van het schip lopen. Daarom dient, wanneer de lozing loodrecht op de huidbeplating plaatsvindt, de lozingsuitlaat minimaal een diameter te hebben die wordt berekend met de volgende formule:     ![10000053496](http://wetten.overheid.nl/Illustration/10000053496)
+9. De voorziening van de onderwateruitlaat dient zodanig te zijn dat de geloosde residu-watermengsels niet door de huidbeplating van het schip lopen. Daarom dient, wanneer de lozing loodrecht op de huidbeplating plaatsvindt, de lozingsuitlaat minimaal een diameter te hebben die wordt berekend met de volgende formule:     ![]()
 waarbij: d =  de minimum diameter van de uitlaat (m) L <sub>d</sub>  = de afstand van de voorloodlijn tot de uitlaat (m) Q <sub>d</sub>  = de geselecteerde maximum snelheid waarbij het schip een residu-watermengsel kan lozen via de uitlaat (m <sup>3</sup> /u).  
 
 10. Wanneer de lozing plaatsvindt bij een hoek ten opzichte van de huidbeplating van het schip, dient bovenstaande verhouding te worden veranderd door Q <sub>d</sub> te vervangen door de component van Q <sub>d</sub> loodrecht op de huidbeplating.  
@@ -8573,7 +9145,7 @@ Onverminderd de bepalingen van voorschrift 3 van deze Bijlage dient de regeling 
 
 2.1 Wanneer de bepalingen van dit voorschrift de lozing in zee toestaan van residuen van stoffen die vallen in categorie X, Y of Z of van die welke voorlopig zijn beoordeeld als zodanig, of ballastwater, tankwaswater of andere mengsels die dergelijke stoffen bevatten, zijn de volgende lozingsbepalingen van toepassing: 
 
-.1 het schip vervolgt zijn vaarroute met een snelheid van ten minste 7 knopen in geval van schepen met eigen voortstuwing, en van ten minste 4 knopen in geval van schepen zonder eigen voortstuwing;  
+.1 het schip is onderweg met een snelheid van ten minste 7 knopen in geval van schepen met eigen voortstuwing, en van ten minste 4 knopen in geval van schepen zonder eigen voortstuwing;  
 
 .2 de lozing vindt plaats onder de waterlijn via de onderwateruitlaat of -uitlaten met een snelheid die niet meer bedraagt dan de maximumsnelheid waarvoor de onderwateruitlaat of -uitlaten zijn ontworpen; en  
 
@@ -8733,6 +9305,16 @@ Onverminderd de bepalingen van voorschrift 3 van deze Bijlage dient de regeling 
 
 2. De Regering van elke Partij dient de soorten van inrichtingen te bepalen die, ter toepassing van het bepaalde onder 1 van dit voorschrift, in elke laad- en losplaats, overslagplaats, en scheepsreparatiehaven binnen haar grondgebied zijn geïnstalleerd en de organisatie daarvan in kennis te stellen.  
 
+2bis. Kleine eilandstaten in ontwikkeling kunnen met behulp van regionale regelingen voldoen aan de vereisten van de leden 1, 2 en 4 van dit voorschrift, indien dergelijke regelingen de enige praktische manier zijn om aan deze vereisten te voldoen vanwege de unieke omstandigheden van die staten. Partijen die deelnemen aan een regionale regeling moeten een regionaal plan voor ontvangstfaciliteiten opstellen waarbij rekening wordt gehouden met de door de Organisatie opgestelde richtlijnen. De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organisatie, ten behoeve van het rondsturen aan de Partijen bij dit Verdrag, over: 
+
+.1 de wijze waarop in het regionale plan voor ontvangstfaciliteiten rekening wordt gehouden met de richtlijnen;  
+
+.2 bijzonderheden van de aangewezen regionale ontvangstfaciliteiten voor afval van schepen; en  
+
+.3 bijzonderheden van havens met beperkte voorzieningen.    
+
+2ter. Indien voorschrift 13 van deze Bijlage een voorwas verplicht stelt en het regionale plan voor ontvangstfaciliteiten van toepassing is op de haven van lossen, wordt de voorwas en de daarop volgende afgifte aan een ontvangstfaciliteit uitgevoerd zoals voorgeschreven door voorschrift 13 van deze Bijlage of bij een regionale ontvangstfaciliteit voor afval van schepen vermeld in het desbetreffende regionale plan voor ontvangstfaciliteiten.  
+
 3. De Regeringen van Partijen bij dit Verdrag, wier kust grenst aan een bijzonder gebied dienen tezamen een datum overeen te komen vóór welke aan het bepaalde in lid 1 van dit voorschrift moet zijn voldaan en waarop de vereisten van de relevante leden van voorschrift 13 met betrekking tot dat gebied van kracht worden en zij dienen de Organisatie ten minste zes maanden voor die datum in kennis te stellen van de aldus vastgestelde datum. De Organisatie dient alle Partijen onverwijld in kennis te stellen van die datum.  
 
 4. De Regering van elke Partij bij dit Verdrag verbindt zich ertoe ervoor te zorgen dat de losplaatsen beschikken over voorzieningen voor het vergemakkelijken van het nazuigen van de ladingtanks van schepen die schadelijke vloeistoffen lossen op deze losplaatsen. De nog in de laadslangen en leidingsystemen van de losplaats aanwezige schadelijke vloeistoffen, afkomstig van schepen die deze stoffen op de losplaats lossen, mogen niet terugstromen naar het schip.  
@@ -8743,15 +9325,15 @@ Onverminderd de bepalingen van voorschrift 3 van deze Bijlage dient de regeling 
 
 ####RICHTLIJNEN VOOR DE INDELING IN CATEGORIEËN VAN SCHADELIJKE VLOEISTOFFEN
 
-![10000053499](http://wetten.overheid.nl/Illustration/10000053499)
-![10000053499](http://wetten.overheid.nl/Illustration/10000053499)
+![]()
+![]()
 
 ### Aanhangsel  2  
 
 ####MODEL VAN LADINGJOURNAAL VOOR SCHEPEN DIE SCHADELIJKE VLOEISTOFFEN IN BULK VERVOEREN
 
-![10000053502](http://wetten.overheid.nl/Illustration/10000053502)
-![10000053502](http://wetten.overheid.nl/Illustration/10000053502)
+![]()
+![]()
 
 ###Inleiding
 
@@ -8898,24 +9480,24 @@ Voor handelingen van alle categorieën stoffen dienen gegevens te worden ingevul
 
 37. Organisatie, bedrijf of overheidsinstantie waarvoor de inspecteur werkt.    
 
-(K)  *Aanvullende operationele procedures en opmerkingen*    ![10000053502](http://wetten.overheid.nl/Illustration/10000053502)
+(K)  *Aanvullende operationele procedures en opmerkingen*    ![]()
 
 ### Aanhangsel  3  
 
 ####MODEL VAN HET INTERNATIONAAL CERTIFICAAT BETREFFENDE VOORKOMING VAN VERONTREINIGING VOOR HET VERVOER VAN SCHADELIJKE VLOEISTOFFEN IN BULK
 
-<sup> *  Het NLS-certificaat dient ten minste in het Engels, Frans of Spaans te worden gesteld. Wanneer aantekeningen teven zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, is deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.  </sup>     ![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
-![10000053509](http://wetten.overheid.nl/Illustration/10000053509)
+<sup> *  Het NLS-certificaat dient ten minste in het Engels, Frans of Spaans te worden gesteld. Wanneer aantekeningen teven zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, is deze doorslaggevend in geval van een geschil of een tegenstrijdigheid.  </sup>     ![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Aanhangsel  4  
 
 ####MODEL VOOR HET HANDBOEK VOOR PROCEDURES EN VOORZIENINGEN
 
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
+![]()
+![]()
 
 ###Inleiding
 
@@ -9046,9 +9628,11 @@ Voor handelingen van alle categorieën stoffen dienen gegevens te worden ingevul
 
 *.4 plaats van openingen in het dek ten behoeve van het wassen van tanks;*   
 
-*.5 het aantal reinigingsmachines en de plaats hiervan, nodig om alle ladingtankwanden te bereiken;*   
+*.5 het aantal reinigingsmachines en de plaats hiervan, nodig om alle ladingtankwanden te bereiken;*     
 
-*.6 maximum hoeveelheid waswater die door de aanwezige verwarmingsinstallatie tot 60°C kan worden verwarmd; en*      
+*.6 maximum hoeveelheid waswater die door de aanwezige verwarmingsinstallatie tot 60°C kan worden verwarmd; en*   
+
+*.7 maximum aantal tankreinigingsmachines dat tegelijkertijd op 60°C kan functioneren.*    
 ###Hoofdstuk 3 Werkwijzen voor het lossen van lading en het nazuigen van tanks
 
 3.1. Dit Hoofdstuk bevat operationele werkwijzen met betrekking tot het lossen van lading en het nazuigen van tanks die dienen te worden toegepast om de naleving van de vereisten van Bijlage II te waarborgen.  
@@ -9096,7 +9680,7 @@ Voor handelingen van alle categorieën stoffen dienen gegevens te worden ingevul
 
 *.6 Verenigbaarheid met residuen uit sloptanks die andere stoffen bevatten*   *Deze paragraaf dient instructies te bevatten over de toelaatbare en niet-toelaatbare vermenging van ladingresiduen uit sloptanks. Hiervoor dienen de desbetreffende naslagwerken te worden geraadpleegd.*   
 
-*.7 Lozing in de ontvangstinrichtingi*   *In deze paragraaf dienen de stoffen te worden vermeld waarvan de residuen moeten worden voorgewassen en geloosd in een ontvangstinrichting.*   
+*.7 Lozing in de ontvangstinrichting*   *In deze paragraaf dienen de stoffen te worden vermeld waarvan de residuen moeten worden voorgewassen en geloosd in een ontvangstinrichting.*   
 
 *.8 Lozen in zee*   *Deze paragraaf dient informatie te bevatten over de factoren die in aanmerking moeten worden genomen om te bepalen of de residu-watermengsels in zee mogen worden geloosd.*   
 
@@ -9132,9 +9716,9 @@ Addendum D  : Aanvullende informatie en operationele instructies indien door
 | --- | --- | --- |
 | --- | --- | --- |
 
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
-![10000053516](http://wetten.overheid.nl/Illustration/10000053516)
+![]()
+![]()
+![]()
 
 ###Addendum B
 
@@ -9206,7 +9790,7 @@ Addendum D  : Aanvullende informatie en operationele instructies indien door
 
 3.2.5. De totale aldus opgevangen hoeveelheid water bepaalt de totale uit de ladingtank af te zuigen hoeveelheid water.  
 
-3.2.6. Wanneer meerdere tanks zijn aangesloten op één gezamenlijke pomp of leiding, moet de hoeveelheid te beproeven waterresiduen evenredig worden verdeeld over de tanks, met dien verstande dat in het goedgekeurde handboek van het schip de volgende beperking voor de bedrijfsvoering moet worden opgenomen: „Voor het opeenvolgend lossen van de tanks van deze groep, mogen de desbetreffende pomp of leidingen pas worden gewassen wanneer alle aangesloten tanks zijn gelost”.       ![10000053421](http://wetten.overheid.nl/Illustration/10000053421)
+3.2.6. Wanneer meerdere tanks zijn aangesloten op één gezamenlijke pomp of leiding, moet de hoeveelheid te beproeven waterresiduen evenredig worden verdeeld over de tanks, met dien verstande dat in het goedgekeurde handboek van het schip de volgende beperking voor de bedrijfsvoering moet worden opgenomen: „Voor het opeenvolgend lossen van de tanks van deze groep, mogen de desbetreffende pomp of leidingen pas worden gewassen wanneer alle aangesloten tanks zijn gelost”.       ![]()
 
 ### Aanhangsel  6  
 
@@ -9239,7 +9823,7 @@ A  *Voor schepen gebouwd vóór 1 juli 1994*  Is een voorwasprocedure voorgeschr
 7. Na het wassen moet de reinigingsmachine lang genoeg in bedrijf worden gehouden om de leiding, de pomp en het filter door te spoelen, en het lozen naar ontvangstinrichtingen aan wal moet worden voortgezet totdat de tank leeg is.    Tabel 6-1 – Aantal cycli per plaats waar reinigingsmachine is opgesteld 
 
 | Categorie van de stof  | Aantal cycli van de reinigingsmachine  |
-|:---|:---|
+|---|---|
 | Niet-stollende stoffen  | Stollende stoffen  |
 | Categorie X  | 1  | 2  |
 | Categorie Y  | 1/2  | 1  |
@@ -9284,7 +9868,7 @@ B  *Voor schepen gebouwd op of na 1 juli 1994 en aanbevolen voor schepen gebouwd
 
 19. Na voltooiing van het tankwassen met hergebruik als aangeduid in punt 17, moet het wasmiddel worden geloosd en de tank grondig worden leeggezogen. Vervolgens moet de tank met een schoon wasmiddel, onder permanente afvoer, worden gespoeld en moet het spoelwater naar een ontvangstinrichting worden geloosd. Het spoelwater moet ten minste de tankbodem bedekken en voldoende zijn om de leidingen, de pomp en het filter door te spoelen.    *Minimum hoeveelheid water die bij een voorwas moet worden gebruikt*  
 
-20. De minimum hoeveelheid water die bij een voorwas moet worden gebruikt, hangt af van de resthoeveelheid van schadelijke vloeistof in de tank, de tankinhoud, de eigenschappen van de lading, de toegestane concentratie in het waswatereffluent, en van het gebied waar de handelingen plaatsvinden. De minimum hoeveelheid wordt berekend aan de hand van de volgende formule:   ![10000053520](http://wetten.overheid.nl/Illustration/10000053520)
+20. De minimum hoeveelheid water die bij een voorwas moet worden gebruikt, hangt af van de resthoeveelheid van schadelijke vloeistof in de tank, de tankinhoud, de eigenschappen van de lading, de toegestane concentratie in het waswatereffluent, en van het gebied waar de handelingen plaatsvinden. De minimum hoeveelheid wordt berekend aan de hand van de volgende formule:   ![]()
 waarbij: 
 
 Q =  de vereiste minimum hoeveelheid in m <sup>3</sup>  
@@ -9304,7 +9888,7 @@ Categorie Y, niet-stollende, laagvisceuze stof k = 0,5
 Categorie Y, stollende of hoogvisceuze stof k = 1,0   De onderstaande tabel is berekend met gebruikmaking van de formule waarbij k = 1; deze tabel kan als een snelle referentie worden gebruikt.  
 
 |  *Nazuighoeveelheid (m <sup>3</sup>)*   |  *Tankinhoud (m <sup>3</sup>)*   |
-|:---|:---|
+|---|---|
 | 100  | 500  | 3000  |
 | <0,04  | 1,2  | 2,9  | 5,4  |
 | ,10  | 2,5  | 2,9  | 5,4  |
@@ -9335,7 +9919,7 @@ Categorie Y, stollende of hoogvisceuze stof k = 1,0   De onderstaande tabel is b
 
 .5 de ventilatie-apparatuur moet, indien mogelijk, zo worden geplaatst dat de luchtstroom is gericht naar het diepste punt of de zuigmond van de tank en er moet zoveel mogelijk worden vermeden dat de luchtstroom de verbanddelen van de tank raakt; en  
 
-.6 het ventileren moet zo lang voortgaan totdat er geen zichtbare residuen vloeistof meer in de tank zijn waar te nemen. Dit moet worden geverifieerd door middel van visuele waarneming of een gelijkwaardige methode.       ![10000053519](http://wetten.overheid.nl/Illustration/10000053519)
+.6 het ventileren moet zo lang voortgaan totdat er geen zichtbare residuen vloeistof meer in de tank zijn waar te nemen. Dit moet worden geverifieerd door middel van visuele waarneming of een gelijkwaardige methode.       ![]()
 
 ### BIJLAGE  III  
 
@@ -9416,7 +10000,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 Voor de toepassing van deze Bijlage worden als schadelijke stoffen aangemerkt : <sup> 5)  Deze criteria zijn gebaseerd op de criteria ontwikkeld door het United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), zoals gewijzigd.   Voor omschrijvingen van de in dit aanhangsel gebruikte acroniemen of begripsomschrijvingen wordt verwezen naar de desbetreffende delen van de IDMG-Code.  </sup>  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Categorie: Acuut 1*   | --- |
 | --- | --- |
 | 96 uur LC <sub>50</sub> (voor vissen)  | ≤1 mg/l en/of  |
@@ -9424,7 +10008,7 @@ Voor de toepassing van deze Bijlage worden als schadelijke stoffen aangemerkt : 
 | 72 of 96 uur ErC <sub>50</sub> (voor algen of overige waterplanten)  | ≤ 1 mg/l  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Categorie: Chronisch 1*   | --- |
 | --- | --- |
 | 96 uur LC <sub>50</sub> (voor vissen)  | ≤1 mg/l en/of  |
@@ -9433,7 +10017,7 @@ Voor de toepassing van deze Bijlage worden als schadelijke stoffen aangemerkt : 
 | waarbij de stof niet snel afbreekbaar is en/of de log Kow ≥ 4 (tenzij de experimenteel bepaalde BCF < 500).  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Categorie: Chronisch 2*   | --- |
 | --- | --- |
 | 96 uur LC <sub>50</sub> (voor vissen)  | >1 tot ≤10 mg/l en/of  |
@@ -9503,9 +10087,27 @@ vandaar naar een punt op de kust van Australië
 
 op 24°42’ zuiderbreedte en 153°15’ oosterlengte.    
 
+5bis. „bijzonder gebied”, een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, aanneming van bijzondere verplichte methoden ter voorkoming van verontreiniging van de zee door sanitair afval nodig is; Deze bijzondere gebieden zijn: 
+
+.1 het Oostzeegebied zoals omschreven in voorschrift 1.11.2 van Bijlage I; en  
+
+.2 elk ander zeegebied dat door de Organisatie is aangewezen overeenkomstig de criteria en procedures voor de aanwijzing van bijzondere gebieden met betrekking tot het voorkomen van verontreiniging door sanitair afval van schepen. <sup> 1)  Zie resolutie A.927(22) van de Algemene Vergadering voor de aanwijzing van bijzondere gebieden ingevolge MARPOL 73/78 en richtlijnen voor de erkenning en aanwijzing van bijzonder kwetsbare zeegebieden.  </sup>    
+
 6. „internationale reis”, een reis vanuit een land waarop dit Verdrag van toepassing is naar een haven buiten dat land of vice versa.  
 
 7. „persoon”, een lid van de bemanning of een passagier.  
+
+7bis. „een passagier”, iedere persoon anders dan: 
+
+.1. de kapitein en de leden van de bemanning of andere personen die, in welke hoedanigheid dan ook, in dienst of te werk zijn gesteld ten behoeve van dat schip; en  
+
+.2. een kind jonger dan één jaar.    
+
+7ter. „een passagiersschip”, een schip dat meer dan twaalf passagiers vervoert. Voor de toepassing van voorschrift 11.3 wordt onder een *„nieuw passagiersschip”* verstaan een passagiersschip: 
+
+1. waarvoor het bouwcontract wordt afgesloten of waarvan, bij het ontbreken van een bouwcontract, de kiel wordt gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 januari 2016; of  
+
+.2. waarvan de oplevering plaatsvindt twee jaar of meer na 1 januari 2016.   Een *„bestaand passagiersschip”* is een passagiersschip dat geen nieuw passagiersschip is.  
 
 8. „verjaardatum”, de dag en maand van elk jaar die overeenkomen met de datum waarop het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval verloopt.    
 
@@ -9595,7 +10197,7 @@ op 24°42’ zuiderbreedte en 153°15’ oosterlengte.
 
 ####Model van het certificaat
 
-Het Internationaal Certificaat van Voorkoming van Verontreinigingdoor Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.  
+Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval wordt opgesteld overeenkomstig het model opgenomen in het aanhangsel bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn opgesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.  
 
 ### Voorschrift  8  
 
@@ -9641,7 +10243,13 @@ Het Internationaal Certificaat van Voorkoming van Verontreinigingdoor Sanitair A
 
 .2 een door de Administratie goedgekeurd systeem voor het versnijden en ontsmetten van sanitair afval. Een dergelijk systeem dient ten genoegen van de Administratie te zijn uitgerust met voorzieningen voor het tijdelijk opslaan van sanitair afval indien het schip zich op minder dan 3 zeemijlen van het dichtstbijzijnde land bevindt, of  
 
-.3 een verzameltank met naar het oordeel van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient ten genoegen van de Administratie te zijn en voorzien te zijn van een voorziening voor visuele inspectie van het niveau van de inhoud.      
+.3 een verzameltank met naar het oordeel van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient ten genoegen van de Administratie te zijn en voorzien te zijn van een voorziening voor visuele inspectie van het niveau van de inhoud.    
+
+2. In afwijking van het eerste lid dient ieder passagiersschip dat, in overeenstemming met voorschrift 2 dient te voldoen aan de bepalingen van deze Bijlage, en waarop voorschrift 11.3 van toepassing is wanneer het zich in een bijzonder gebied bevindt, te zijn uitgerust met een van de volgende systemen voor sanitair afval: 
+
+.1 een installatie voor het behandelen van sanitair afval van een door de Administratie goedgekeurd type, rekening houdend met de door de Organisatie ontwikkelde normen en testmethodes , of <sup> 2)  Zie de [concept 2012] Richtlijnen voor de implementatie van effluentnormen en prestatieproeven voor installaties voor het behandelen van sanitair afval aangenomen door de Commissie voor de Bescherming van het Mariene Milieu bij [resolutie MEPC....].  </sup>  
+
+.2 een verzameltank met naar tevredenheid van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient naar tevredenheid van de Administratie te zijn en een voorziening hebben om zichtbaar het niveau van de inhoud aan te geven.      
 
 ### Voorschrift  10  
 
@@ -9650,7 +10258,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreinigingdoor Sanitair A
 1. Teneinde de leiding van de ontvangstinrichting te kunnen aansluiten op de scheepsleiding voor afgifte, dienen beide leidingen te zijn voorzien van een standaardaansluiting voor afgifte overeenkomstig de volgende tabel:  STANDAARDAFMETINGEN VOOR FLENZEN VOOR AANSLUITINGEN VOOR AFGIFTE 
 
 | Omschrijving  | Afmetingen  |
-|:---|:---|
+|---|---|
 | Uitwendige diameter  | 210 mm  |
 | Inwendige diameter  | overeenkomstig de uitwendige diameter van de leiding  |
 | Diameter van de steekcirkel van de bouten  | 170 mm  |
@@ -9667,19 +10275,24 @@ Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige d
 
 ####Lozen van sanitair afval
 
-1. Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer: 
+###A Het lozen van sanitair afval van schepen anders dan passagiersschepen in alle gebieden en het lozen van sanitair afval van passagiersschepen buiten bijzondere gebieden
 
-.1. de lozing van het schip ofwel versneden en ontsmet sanitair afval betreft op een afstand van meer dan 3 zeemijlen van het dichtstbijzijnde land, waarbij een door de Administratie in overeenstemming met voorschrift 9.1.2 van deze Bijlage goedgekeurd systeem wordt gebruikt, ofwel het sanitair afval betreft dat niet is versneden of ontsmet op een afstand van meer dan 12 zeemijlen van het dichtstbijzijnde land, mits in elk geval het in verzameltanks opgeslagen sanitaire afval of afval afkomstig van ruimten waar zich levende dieren bevinden niet ineens wordt geloosd, doch in een matig tempo, terwijl het schip zijn vaarroute vervolgt met een snelheid van ten minste 4 knopen; het tempo van de lozing dient te worden goedgekeurd door de Administratie op grond van door de Organisatie ontwikkelde normen; of <sup> 1)  Zie de aanbeveling inzake normen voor het tempo van lozing van onbehandeld sanitair afval van schepen aangenomen door de Commissie voor de Bescherming van het Mariene Milieu van de Organisatie bij resolutie MEPC.157(55).  </sup>  
+1.  Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer: 
 
-.2 het schip gebruik maakt van een installatie voor het behandelen van sanitair afval, die volgens een certificaat, afgegeven door de Administratie, voldoet aan de operationele vereisten bedoeld in voorschrift 9.1.1 van deze Bijlage, en 
+.1. de lozing van het schip versneden en ontsmet sanitair afval betreft op een afstand van meer dan 3 zeemijlen van het dichtstbijzijnde land, waarbij een door de Administratie in overeenstemming met voorschrift 9.1.2 van deze Bijlage goedgekeurd systeem wordt gebruikt, ofwel sanitair afval betreft dat niet is versneden of ontsmet op een afstand van meer dan 12 zeemijlen van het dichtstbijzijnde land, mits in elk geval het in verzameltanks opgeslagen sanitaire afval of sanitair afval afkomstig van ruimten waar zich levende dieren bevinden niet ineens wordt geloosd, doch in een matig tempo, terwijl het schip onderweg is met een snelheid van niet minder dan 4 knopen; het tempo van de lozing dient te worden goedgekeurd door de Administratie op grond van door de Organisatie ontwikkelde normen; of <sup> 3)  Zie de aanbeveling inzake normen voor het tempo van lozing van onbehandeld sanitair afval van schepen aangenomen door de Commissie voor de Bescherming van het Mariene Milieu van de Organisatie bij resolutie MEPC.157(55).  </sup>  
 
-.1 de resultaten van de beproevingen van dat systeem neergelegd zijn in het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval van het schip; en  
+.2. het schip een installatie voor het behandelen van sanitair afval in gebruik heeft, die door de Administratie is gecertificeerd teneinde te voldoen aan de operationele vereisten bedoeld in voorschrift 9.1.1 van deze Bijlage, en het geloosde effluent geen zichtbare drijvende vaste deeltjes veroorzaakt noch verkleuring van het omringende water.     
+2.  Het bepaalde in paragraaf 1 is niet van toepassing op schepen die zich bevinden in de wateren onder de rechtsmacht van een Staat en bezoekende schepen uit andere Staten terwijl zij zich in deze wateren bevinden en bezig zijn met het lozen van sanitair afval in overeenstemming met de eventueel minder strikte eisen die door die Staat kunnen worden gesteld.  
+###B Het lozen van sanitair afval van passagiersschepen in een bijzonder gebied
 
-.2 de geloosde vloeistof bovendien geen zichtbare drijvende vaste deeltjes in of verkleuring van het water in de omgeving ten gevolge heeft.      
+3.  Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen van sanitair afval van een passagiersschip in een bijzonder gebied verboden: 
 
-2. Het bepaalde in punt 1 is niet van toepassing op schepen die zich bevinden in de wateren onder de rechtsmacht van een Staat en bezoekende schepen uit andere Staten terwijl zij zich in deze wateren bevinden en bezig zijn met het lozen van sanitair afval in overeenstemming met de eventueel minder strikte eisen die door die Staat kunnen worden gesteld.  
+a. voor nieuwe passagiersschepen op of na 1 januari 2016, onverminderd voorschrift 12bis, subparagraaf 2; en  
 
-3. Indien het sanitair afval wordt vermengd met afval of afvalwater waarop andere bijlagen van MARPOL 73/78 van toepassing zijn, dient behalve aan de vereisten van deze Bijlage tevens aan de vereisten van die Bijlagen te worden voldaan.    
+b. voor bestaande passagiersschepen op of na 1 januari 2018, onverminderd voorschrift 12bis, subparagraaf 2, behalve wanneer aan de volgende voorwaarden wordt voldaan: het schip een installatie voor het behandelen van sanitair afval in gebruik heeft die door de Administratie is gecertificeerd teneinde te voldoen aan de operationele vereisten bedoeld in voorschrift 9.2.1 van deze Bijlage, en het geloosde effluent veroorzaakt geen zichtbare drijvende vaste deeltjes noch verkleuring van het omringende water    
+###C Algemene vereisten
+
+4.  Indien het sanitair afval wordt vermengd met afval of afvalwater waarop andere Bijlagen van MARPOL van toepassing zijn, dient behalve aan de vereisten van deze Bijlage tevens aan de vereisten van die Bijlagen te worden voldaan.   
 
 ### HOOFDSTUK  4  
 
@@ -9691,7 +10304,28 @@ Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige d
 
 1. De Regering van elke Partij bij het Verdrag, die van alle schepen in de wateren die onder haar rechtsmacht vallen vereist dat zij voldoen aan de eisen van voorschrift 11.1, verbindt zich tot het installeren in havens en laad- en losplaatsen van inrichtingen voor het in ontvangst nemen van sanitair afval, zonder onnodig oponthoud van de schepen te veroorzaken, die toereikend zijn voor de behoeften van de schepen die er gebruik van maken.  
 
+1bis. Kleine eilandstaten in ontwikkeling kunnen met behulp van regionale regelingen voldoen aan de vereisten van lid 1 van dit voorschrift, indien dergelijke regelingen de enige praktische manier zijn om aan deze vereisten te voldoen vanwege de unieke omstandigheden van die staten. Partijen die deelnemen aan een regionale regeling moeten een regionaal plan voor ontvangstfaciliteiten opstellen waarbij rekening wordt gehouden met de door de Organisatie opgestelde richtlijnen. De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organisatie, ten behoeve van het rondsturen aan de Partijen bij dit Verdrag, over: 
+
+.1 de wijze waarop in het regionale plan voor ontvangstfaciliteiten rekening wordt gehouden met de richtlijnen;  
+
+.2 bijzonderheden van de aangewezen regionale ontvangstfaciliteiten voor afval van schepen; en  
+
+.3 bijzonderheden van havens met beperkte voorzieningen.    
+
 2. De Regering van elke Partij stelt de Organisatie in kennis, opdat deze de andere betrokken Verdragsluitende Regeringen op de hoogte kan stellen, van alle gevallen waarin gesteld wordt dat de uit hoofde van dit voorschrift ter beschikking gestelde voorzieningen onvoldoende zijn.    
+
+### Voorschrift  12bis  
+
+####Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden
+
+1.  Elke partij waarvan de kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat: 
+
+.1. voorzien wordt in inrichtingen voor het in ontvangst nemen van sanitair afval in havens en laad- en losplaatsen in een bijzonder gebied die door passagiersschepen worden gebruikt;  
+
+.2. de inrichtingen toereikend zijn voor de behoeften van deze passagiersschepen; en  
+
+.3. de inrichtingen zodanig worden geëxploiteerd dat zij geen onnodig oponthoud van deze passagiersschepen veroorzaken.     
+2.  De Regering van elke betrokken partij stelt de Organisatie in kennis van de maatregelen die zijn getroffen ingevolge subparagraaf .1 van dit voorschrift. Na ontvangst van voldoende kennisgevingen in overeenstemming met subparagraaf .1 stelt de Organisatie een datum vast waarop de vereisten van voorschrift 11.3 ten aanzien van het betreffende gebied van kracht worden. De Organisatie stelt alle partijen ten minste twaalf maanden van tevoren in kennis van de aldus vastgestelde datum. Tot de aldus vastgestelde datum moeten schepen die in een bijzonder gebied varen voldoen aan de vereisten van voorschrift 11.1 van deze Bijlage.   
 
 ### HOOFDSTUK  5  
 
@@ -9712,9 +10346,9 @@ Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige d
 
 ###Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval
 
-Afgegeven krachtens de bepalingen van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij en gewijzigd bij resolutie MEPC (..), (hierna te noemen het „Verdrag”) namens de Regering van: ................................................................................................ (volledige naam van het land) door ......................................................................................... (volledige naam van de bevoegde persoon of organisatie gemachtigd overeenkomstig de bepalingen van het Verdrag)  *Gegevens van het schip*  <sup> 1)  De gegevens van het schip kunnen ook horizontaal worden vermeld in vakjes.  </sup> Naam van het ship ..................................................................................... Onderscheidingsnummer of -letters ............................................................. Haven van registratie .................................................................................. Bruto tonnage ........................................................................................... Aantal personen dat het schip mag vervoeren ............................................... IMO-nummer <sup> 2)  Zie het stelsel voor scheepsidentieficatienummers van de IMO door de Organisatie aangenomen bij resolutie A.600(15).  </sup> Nieuw/bestaand schip ......................................................................... <sup> *)  Doorhalen wat niet van toepassing is.  </sup> Datum waarop de kiel werd gelegd of de bouw van het schip zich in een soortgelijk stadium bevond, of, indien van toepassing, de aanvangsdatum van werkzaamheden ten behoeve van een verandering of wijziging van ingrijpende aard: ..................................................................... HIERBIJ WORDT VERKLAARD: 
+Afgegeven krachtens de bepalingen van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij en gewijzigd bij resolutie MEPC (..), (hierna te noemen het „Verdrag”) namens de Regering van: ................................................................................................ (volledige naam van het land) door ......................................................................................... (volledige naam van de bevoegde persoon of organisatie gemachtigd overeenkomstig de bepalingen van het Verdrag)  *Gegevens van het schip*  <sup> 1)  De gegevens van het schip kunnen ook horizontaal worden vermeld in vakjes.  </sup> Type schip voor de toepassing van voorschrift 11.3: <sup> 4)  Doorhalen wat niet van toepassing is.  </sup> Nieuw/bestaand passagiersschip Schip anders dan een passagiersschip Naam van het ship ..................................................................................... Onderscheidingsnummer of -letters ............................................................. Haven van registratie .................................................................................. Bruto tonnage ........................................................................................... Aantal personen dat het schip mag vervoeren ............................................... IMO-nummer <sup> 2)  Zie het stelsel voor scheepsidentieficatienummers van de IMO door de Organisatie aangenomen bij resolutie A.600(15).  </sup> Nieuw/bestaand schip ......................................................................... <sup> *)  Doorhalen wat niet van toepassing is.  </sup> Datum waarop de kiel werd gelegd of de bouw van het schip zich in een soortgelijk stadium bevond, of, indien van toepassing, de aanvangsdatum van werkzaamheden ten behoeve van een verandering of wijziging van ingrijpende aard: ..................................................................... HIERBIJ WORDT VERKLAARD: 
 
-1. dat het schip uitgerust is met de volgende installatie voor het behandelen/versnijden van sanitair afval/ een verzameltank alsmede een scheepsleiding voor afgifte in overeenstemming met de voorschriften 9 en 10 van Bijlage IV van het Verdrag: <sup> *)  Doorhalen wat niet van toepassing is.  </sup> *1.1 Beschrijving van de installatie voor het behandelen van sanitair afval: Type installatie: ........................................................... Naam van fabrikant: ..................................................... De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in resolutie MEPC.2(VI). *1.2 Beschrijving van versnijdingssysteem Type installatie: ........................................................... Naam van fabrikant: ..................................................... Zuiveringsgraad van sanitair afval na ontsmetting ............. *1.3 Beschijving van de opslagtank: Totale capaciteit van opslagtank: ............................ m <sup>3</sup> Locatie: ..................................................................... 1.4 Een pijpleiding voor afgifte van sanitair afval aan een ontvangstinrichting uitgerust met een standaardwalaansluiting.  
+1. dat het schip uitgerust is met de volgende installatie voor het behandelen/versnijden van sanitair afval/ een verzameltank alsmede een scheepsleiding voor afgifte in overeenstemming met de voorschriften 9 en 10 van Bijlage IV van het Verdrag: <sup> *)  Doorhalen wat niet van toepassing is.  </sup> *1.1 Beschrijving van de installatie voor het behandelen van sanitair afval: Type installatie voor het behandelen van sanitair afval: ........ Naam van fabrikant: ........ De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in resolutie MEPC.2 (VI). De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in resolutie MEPC.159 (55). De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in [resolutie MEPC…] . <sup> 5)  Het nummer van de MEPC-resolutie wordt toegevoegd wanneer de normen door de MEPC tijdens een toekomstige zitting worden aangenomen.  </sup> *1.2 Beschrijving van versnijdingssysteem Type installatie: ........................................................... Naam van fabrikant: ..................................................... Zuiveringsgraad van sanitair afval na ontsmetting ............. *1.3 Beschijving van de opslagtank: Totale capaciteit van opslagtank: ............................ m <sup>3</sup> Locatie: ..................................................................... 1.4 Een pijpleiding voor afgifte van sanitair afval aan een ontvangstinrichting uitgerust met een standaardwalaansluiting.  
 
 2. dat het schip is onderzocht in overeenstemming met voorschrift 4 van Bijlage IV bij het Verdrag.  
 
@@ -9726,15 +10360,59 @@ Afgegeven krachtens de bepalingen van het Internationaal Verdrag ter voorkoming 
 
 ### Voorschrift  1  
 
-####Omschrijvingen
+####Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage: 
 
-(1) wordt onder „vuilnis” verstaan alle soorten etensresten, huishoudelijk afval en afval voortvloeiende uit de bedrijfsvoering, met uitzondering van verse vis en gedeelten daarvan, ontstaan tijdens de normale bedrijfsvoering van het schip en die voortdurend of regelmatig worden verwijderd van het schip, met uitzondering van de stoffen omschreven of opgesomd in andere Bijlagen bij dit Verdrag;  
+1. wordt verstaan onder *dierlijke kadavers*, de lichamen van dieren die als lading aan boord worden vervoerd en tijdens de reis sterven of moeten worden afgemaakt.  
 
-(2) „Dichtstbijzijnde land”. De uitdrukking „van het dichtstbijzijnde land” betekent: van de basislijn van waaruit de territoriale zee van het betrokken gebied wordt bepaald overeenkomstig het internationale recht, behoudens dat, voor de toepassing van dit Verdrag „van het dichtstbijzijnde land” onder de noordoostkust van Australië betekent: „van een lijn getrokken van een punt op de kust van Australië gelegen op 11°00' zuiderbreedte en 142°08' oosterlengte, naar een punt op 10°35' zuiderbreedte en 141°55' oosterlengte, vandaar naar een punt op 10°00' zuiderbreedte en 142°00' oosterlengte, vandaar naar een punt op 9°10' zuiderbreedte en 143°52' oosterlengte, vandaar naar een punt op 9°00' zuiderbreedte en 144°30' oosterlengte, vandaar naar een punt op 10°41' zuiderbreedte en 145°00' oosterlengte, vandaar naar een punt op 13°00' zuiderbreedte en 145°00' oosterlengte, vandaar naar een punt op 15°00' zuiderbreedte en 146°00' oosterlengte, vandaar naar een punt op 17°30' zuiderbreedte en 147°00' oosterlengte, vandaar naar een punt op 21°00' zuiderbreedte en 152°55' oosterlengte, vandaar naar een punt op 24°30' zuiderbreedte en 154°00' oosterlengte, vandaar naar een punt op de kust van Australië op 24°42' zuiderbreedte en 153°15' oosterlengte;  
+2. wordt verstaan onder *ladingrestanten*, de resten van ongeacht welke lading die niet vallen onder andere Bijlagen bij dit Verdrag en die op het dek of in de ruimen achterblijven na het laden of lossen, met inbegrip van het overschot ontstaan tijdens laden of lossen of gemorste lading, ongeacht of deze resten nat of droog zijn of worden meegevoerd in waswater. Onder ladingrestanten wordt niet verstaan ladingstof dat na het vegen op het dek achterblijft of stof op de buitenoppervlakken van het schip.  
 
-(3) wordt onder „bijzonder gebied” verstaan een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, het volgen van bijzondere noodzakelijke methoden ter voorkoming van verontreiniging van de zee door vuilnis moeten worden genomen. Onder deze bijzondere gebieden worden begrepen de gebieden genoemd in Voorschrift 5 van deze Bijlage.    
+3. wordt verstaan onder *bak- en braadolie*, alle soorten eetbare olie of dierlijke vetten die gebruikt worden of bedoeld zijn om gebruikt te worden bij het voorbereiden of het bereiden van voedsel. Hieronder wordt niet verstaan het voedsel dat met behulp van deze oliën wordt bereid.  
+
+4. wordt verstaan onder *huishoudelijk afval*, alle soorten afval die niet onder andere Bijlagen vallen en die zijn ontstaan in de ruimten voor accommodatie aan boord van het schip. Onder huishoudelijk afval wordt niet grijs water verstaan.  
+
+5. wordt verstaan onder *onderweg* dat het schip varende is op zee op één of op meerdere koersen, met inbegrip van afwijkingen van de kortste rechtstreekse route, waarbij iedere lozing, voor zover met het oog op de navigatie praktisch uitvoerbaar, over een uit redelijk en praktisch oogpunt zo groot mogelijk gebied van de zee moet worden verspreid.  
+
+6. wordt verstaan onder *vistuig*, elk fysiek apparaat of onderdeel daarvan of elk samenstel van delen dat op of in het water of op de zeebodem kan worden geplaatst met als beoogd doel het vangen of beheersen ten behoeve van latere vangst of oogst, van zeeorganismen of zoetwaterorganismen.  
+
+7. wordt verstaan onder *vaste of drijvende platforms*, vaste of drijvende structuren op zee die gebruikt worden voor de opsporing, winning en de bijbehorende buitengaatse bewerking van minerale rijkdommen in de zeebodem.  
+
+8. wordt verstaan onder *voedselresten*, alle bedorven en onbedorven levensmiddelen, met inbegrip van fruit, groenten, zuivelproducten, gevogelte, vleesproducten en etensresten die aan boord van een schip zijn ontstaan.  
+
+9. wordt verstaan onder *vuilnis*, alle soorten voedselresten, huishoudelijk afval en afval uit de bedrijfsvoering, alle plastic, ladingrestanten, bak- en braadolie, vistuig en dierlijke kadavers, ontstaan tijdens de normale bedrijfsvoering van het schip en die vermoedelijk voortdurend of regelmatig worden verwijderd van het schip, met uitzondering van de stoffen omschreven of opgesomd in andere Bijlagen bij dit Verdrag. Onder vuilnis wordt niet verstaan verse vis en gedeelten daarvan die zijn ontstaan als gevolg van visactiviteiten tijdens de reis of die het resultaat zijn van werkzaamheden op het gebied van aquacultuur die met zich meebrengen dat vis, met inbegrip van schaaldieren, vervoerd dient te worden om in de faciliteit voor aquacultuur geplaatst te worden en dat geoogste vis, met inbegrip van schaaldieren, van deze faciliteiten naar wal vervoerd dient te worden ter verwerking.  
+
+10. wordt verstaan onder *as van verbrandingsovens*, as en slakken die ontstaan zijn in de verbrandingsovens aan boord die gebruikt worden voor het verbranden van vuilnis.  
+
+11. wordt verstaan onder de uitdrukking *dichtstbijzijnde land*: van de basislijn van waaruit de territoriale zee van het desbetreffende grondgebied wordt bepaald overeenkomstig het internationaal recht, behoudens dat, voor de toepassing van deze Bijlage „van het dichtstbijzijnde land” onder de noordoostkust van Australië betekent van een lijn getrokken van een punt op de kust van Australië gelegen op: 11°00’ zuiderbreedte en 142°08’ oosterlengte naar een punt op 10°35’ zuiderbreedte en 141°55’ oosterlengte, vandaar naar een punt op 10°00’ zuiderbreedte en 142°00’ oosterlengte, vandaar naar een punt op 9°10’ zuiderbreedte en 143°52’ oosterlengte, vandaar naar een punt op 9°00’ zuiderbreedte en 144°30’ oosterlengte, vandaar naar een punt op 10°41’ zuiderbreedte en 145°00’ oosterlengte, vandaar naar een punt op 13°00’ zuiderbreedte en 145°00’ oosterlengte, vandaar naar een punt op 15°00’ zuiderbreedte en 146°00’ oosterlengte, vandaar naar een punt op 17°30’ zuiderbreedte en 147°00’ oosterlengte, vandaar naar een punt op 21°00’ zuiderbreedte en 152°55’ oosterlengte, vandaar naar een punt op 24°30’ zuiderbreedte en 154°00’ oosterlengte, vandaar naar een punt op de kust van Australië op 24°42’ zuiderbreedte en 153°15’ oosterlengte.  
+
+12. wordt verstaan onder *afval uit de bedrijfsvoering*, alle vaste afvalstoffen (met inbegrip van slurry) die niet onder andere Bijlagen vallen en die tijdens normaal onderhoud of de normale bedrijfsvoering van een schip aan boord worden verzameld of die worden gebruikt voor het stuwen en behandelen van lading. Onder afval uit de bedrijfsvoering wordt tevens verstaan alle schoonmaakmiddelen en additieven in waswater van laadruimen en buitenoppervlakken. Onder afval uit de bedrijfsvoering wordt niet verstaan grijs water, lenswater of andere soortgelijke lozingen die essentieel zijn voor de bedrijfsvoering van een schip, rekening houdend met de door de Organisatie ontwikkelde richtsnoeren.  
+
+13. wordt verstaan onder plastic, een vaste stof met als essentieel bestanddeel een of meer polymeren met een hoge moleculaire massa, die hetzij tijdens de productie van het polymeer hetzij tijdens de productie van een eindproduct door middel van verhitting en/of druk is gevormd (gemodelleerd). Plastic heeft materiaaleigenschappen die uiteenlopen van hard en breekbaar tot zacht en buigzaam. Voor de toepassing van deze Bijlage wordt onder „alle plastic” verstaan al het vuilnis dat bestaat uit plastic in welke vorm dan ook of dat plastic in welke vorm dan ook bevat, met inbegrip van trossen en visnetten van synthetisch materiaal, plastic vuilniszakken en van verbrandingsovens afkomstige as van plastic producten.  
+
+14. wordt verstaan onder *bijzonder gebied*, een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, het aannemen van bijzondere verplichte methoden ter voorkoming van verontreiniging van de zee door vuilnis vereist is.   Voor de toepassing van deze Bijlage wordt onder bijzondere gebieden verstaan: de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de Golf, de Noordzee, het Antarctisch gebied en het wijdere Caribisch gebied, die als volgt worden omschreven: 
+
+.1. onder het gebied van de Middellandse Zee wordt verstaan de Middellandse Zee zelf, alsmede de golven en zeeën daarin, waarbij de grens tussen de Middellandse Zee en de Zwarte Zee wordt gevormd door de parallel van 41° noorderbreedte en de westelijke grens wordt gevormd door de Straat van Gibraltar op de meridiaan van 5°36’ westerlengte;  
+
+.2. onder het gebied van de Oostzee wordt verstaan de Oostzee zelf met inbegrip van de Botnische Golf, de Finse Golf en de toegang tot de Oostzee, begrensd door de parallel van Kaap Skagen in het Skagerrak op 57°44.8’ noorderbreedte;  
+
+.3. onder het gebied van de Zwarte Zee wordt verstaan de Zwarte Zee zelf, waarbij de grens tussen de Middellandse Zee en de Zwarte Zee wordt gevormd door de parallel van 41° noorderbreedte;  
+
+.4. onder het gebied van de Rode Zee wordt verstaan de Rode Zee zelf met inbegrip van de Golf van Suez en de Golf van Aqaba, in het zuiden begrensd door de loxodroom tussen Ras si Ane (12°28.5’ noorderbreedte, 43°19.6’ oosterlengte) en Husn Murad (12°40.4’ noorderbreedte, 43°30.2’ oosterlengte);  
+
+.5. onder het Golfgebied wordt verstaan het zeegebied ten noordwesten van de loxodroom tussen Ras al Hadd (22°30’ noorderbreedte, 59°48’ oosterlengte) en Ras al Fasteh (25°04’ noorderbreedte, 61°25’ oosterlengte);  
+
+.6. onder het Noordzeegebied wordt verstaan de Noordzee zelf alsmede de zeeën daarin waarbij de grens wordt gevormd tussen: 
+
+.1. de Noordzee ten zuiden van de breedtegraad 62° noorderbreedte en ten oosten van lengtegraad 4º westerlengte;  
+
+.2. het Skagerrak, waarvan de zuidelijke begrenzing wordt bepaald ten oosten van Skagen door de breedtegraad 57º44.8’ noorderbreedte; en  
+
+.3. het Engelse Kanaal en de toegangen daartoe ten oosten van lengtegraad 5º westerlengte en ten noorden van breedtegraad 48º30’ noorderbreedte.    
+
+.7. onder het Antarctisch gebied wordt verstaan het zeegebied ten zuiden van 60° zuiderbreedte;  
+
+.8. onder het wijdere Caribisch Gebied wordt verstaan de Golf van Mexico en de Caribische Zee zelf met inbegrip van de baaien en zeeën daarin, en het gedeelte van de Atlantische Oceaan binnen de grens die wordt gevormd door de parallel van 30° noorderbreedte van Florida naar het oosten tot de meridiaan van 77°30’ westerlengte, vanaf dat punt een loxodroom tot het snijpunt van de parallel van 20° noorderbreedte en de meridiaan van 59° westerlengte, vanaf dat punt een loxodroom tot het snijpunt van de parallel van 7°20’ noorderbreedte en de meridiaan van 50° westerlengte, en vanaf dat punt naar het zuidwesten een loxodroom tot de oostelijke grens van Frans Guyana.    
 
 ### Voorschrift  2  
 
@@ -9744,257 +10422,264 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 ### Voorschrift  3  
 
-####Storten van vuilnis buiten bijzondere gebieden
+####Algemeen verbod op het lozen van vuilnis in zee
 
-(1) Behoudens de bepalingen van de Voorschriften 4, 5 en 6 van deze Bijlage: 
-
-(a) is het storten in zee van alle kunststoffen, met inbegrip van doch niet beperkt tot trossen en visnetten van synthetisch materiaal, plastic vuilniszakken en van verbrandingsovens afkomstige as van kunststofproducten die giftige residuen of residuen van zware metalen kan bevatten, verboden;  
-
-(b) dient het storten in zee van de volgende vuilnis zover mogelijk van het dichtstbijzijnde land te geschieden, doch het storten is in elk geval verboden indien de afstand tot het dichtstbijzijnde land kleiner is dan: 
-
-(i) 25 zeemijlen, in geval van stuwhout, bekledings- en verpakkingsmateriaal dat blijft drijven;  
-
-(ii) 12 zeemijlen, in geval van voedselresten en alle andere vuilnis, daarbij inbegrepen papierprodukten, lompen, glas, metaal, flessen, aardewerk en soortgelijk afval;    
-
-(c) kan het storten in zee, van vuilnis als omschreven in letter (b) onder (ii) van deze paragraaf worden toegestaan, indien de vuilnis door een afbreek- of maalinstallatie is gevoerd en indien het storten zover als mogelijk vanaf het dichtstbijzijnde land geschiedt, doch het storten is in elk geval verboden indien de afstand tot het dichtstbijzijnde land kleiner is dan 3 zeemijlen. Deze afgebroken of gemalen vuilnis moet een rooster met gaten van maximaal 25 mm doorsnee kunnen passeren.    
-
-(2) Ingeval de vuilnis is vermengd met andere lozingen, waarvoor afwijkende eisen gelden met betrekking tot verwijderen of lozen, zijn de zwaarste eisen van toepassing.    
+1.  Het lozen van alle vuilnis in zee is verboden, tenzij in de voorschriften 4, 5, 6 en 7 van deze Bijlage anders is bepaald.   
+2.  Het lozen in zee van alle plastic, met inbegrip van doch niet beperkt tot trossen en visnetten van synthetisch materiaal, plastic vuilniszakken en van verbrandingsovens afkomstige as van plastic producten is verboden, uitgezonderd zoals voorzien in voorschrift 7 van deze Bijlage.   
+3.  Het lozen in zee van bak- en braadolie is verboden, uitgezonderd zoals voorzien in voorschrift 7 van deze Bijlage.   
 
 ### Voorschrift  4  
 
-####Speciale eisen voor het storten van vuilnis
+####Lozen van vuilnis buiten bijzondere gebieden
 
-(1) Behoudens de bepalingen van paragraaf (2) van dit Voorschrift is het storten van stoffen waarop dit Voorschrift van toepassing is, verboden vanaf vaste of drijvende platforms buitengaats gebezigd bij de exploratie, exploitatie en daarbij behorende verwerking van minerale zeebodemschatten, alsmede vanaf alle andere schepen, wanneer deze zich langszij of binnen 500 meter van dergelijke platforms bevinden.  
+1.  Behoudens de bepalingen van de voorschriften 5, 6 en 7 van deze Bijlage, is het lozen in zee van het onderstaande vuilnis buiten bijzondere gebieden uitsluitend toegestaan wanneer het schip onderweg is en zo ver als mogelijk van het dichtstbijzijnde land, maar in ieder geval niet minder dan: 
 
-(2) Het storten in zee van voedselresten vanaf vaste of drijvende platforms kan worden toegestaan, ingeval deze door een afbreek- of maalinstallatie zijn gevoerd en deze platforms zich meer dan 12 zeemijlen vanaf het dichtstbijzijnde land bevinden, alsmede van alle andere schepen, ingeval deze zich langszij of binnen 500 meter van zulke platforms bevinden. Deze afgebroken of gemalen voedselresten moeten een rooster met gaten van maximaal 25 mm kunnen passeren.    
+.1. 3 zeemijlen van het dichtstbijzijnde land voor voedselresten die door een afbreek- of maalinstallatie zijn gevoerd. Deze afgebroken of gemalen voedselresten dienen een rooster met gaten van maximaal 25 mm doorsnee te kunnen passeren.  
+
+.2. 12 zeemijlen van het dichtstbijzijnde land voor voedselresten die niet overeenkomstig subparagraaf .1 van dit voorschrift zijn behandeld.  
+
+.3. 12 zeemijlen van het dichtstbijzijnde land voor ladingrestanten die niet met algemeen beschikbare losmethoden kunnen worden teruggewonnen. Deze ladingrestanten mogen geen stoffen bevatten die geclassificeerd zijn als schadelijk voor het mariene milieu, rekening houdend met de door de Organisatie ontwikkelde richtsnoeren.  
+
+.4. Dierlijke kadavers dienen zo ver als mogelijk van het dichtstbijzijnde land te worden geloosd, rekening houdend met de door de Organisatie ontwikkelde richtsnoeren.     
+2.  Schoonmaakmiddelen of additieven in waswater van de laadruimen, dekken en buitenoppervlakken mogen in zee worden geloosd, maar deze stoffen mogen niet schadelijk zijn voor het mariene milieu, rekening houdend met de door de Organisatie ontwikkelde richtsnoeren.   
+3.  Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.   
 
 ### Voorschrift  5  
 
-####Storten van vuilnis binnen bijzondere gebieden
+####Bijzondere vereisten voor het lozen van vuilnis vanaf vaste of drijvende platforms
 
-(1) Voor de toepassing van deze Bijlage worden onder bijzondere gebieden verstaan de gebieden van de Middellandse Zee, de Oostzee, de Zwarte Zee, de Rode Zee, de „Golf, de Noordzee, de Zuidpool en het Caraïbisch Gebied, met inbegrip van de Golf van Mexico en de Caraïbische Zee, die als volgt worden omschreven: 
-
-(a) Onder het gebied van de Middellandse Zee wordt verstaan de Middellandse Zee zelf, alsmede de Golven en Zeeën daarin, waarbij de grens tussen de Middellandse Zee en de Zwarte Zee wordt gevormd door de parallel van 41° noorderbreedte en de westelijke grens wordt gevormd door de Straat van Gibraltar op de meridiaan van 5°36' westerlengte.  
-
-(b) Onder het gebied van de Oostzee wordt verstaan de Oostzee zelf met inbegrip van de Botnische Golf, de Finse Golf en de toegang tot de Oostzee, begrensd door de parallel van Kaap Skagen in het Skagerrak op 57°44'.8 noorderbreedte.  
-
-(c) Onder het gebied van de Zwarte Zee wordt verstaan de Zwarte Zee zelf, waarbij de grens tussen de Middellandse Zee en de Zwarte Zee wordt gevormd door de parallel van 41° noorderbreedte.  
-
-(d) Onder het gebied van de Rode Zee wordt verstaan de Rode Zee zelf met inbegrip van de Golf van Suez en de Golf van Aqaba, in het zuiden begrensd door de loxodroom tussen Ras si Ane (12°8'.5 noorderbreedte, 43°19'.6 oosterlengte) en Hasn Murad 12°40'.4 noorderbreedte, 43°30'.2 oosterlengte).  
-
-(e) Onder het gebied van de Perzische Golf wordt verstaan het zeegebied ten noordwesten van de loxodroom tussen Ras al Hadd (22°30' noorderbreedte, 59°48' oosterlengte) en Ras al Fasteh (25°04' noorderbreedte, 61°25' oosterlengte).  
-
-(f) Onder het gebied van de Noordzee wordt verstaan de Noordzee zelf met inbegrip van de zeeën daarin, waarbij de grens wordt gevormd door: 
-
-i. de Noordzee ten zuiden van 62° noorderbreedte en ten oosten van 4° westerlengte;  
-
-ii. het Skagerrak, waarvan de zuidelijke grens wordt bepaald ten oosten van Kaap Skagen door 57°44.8' noorderbreedte; en  
-
-iii. het Kanaal en de toegangen daartoe ten oosten van 5° westerlengte en ten noorden van 48° 30' noorderbreedte.    
-
-(g) Onder het Antarctisch gebied wordt verstaan het zeegebied ten zuiden van 60° zuiderbreedte.  
-
-(h) Onder het Caraïbisch Gebied, zoals omschreven in artikel 2, eerste lid, van het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch Gebied (Cartagena de Indias, 1983), wordt verstaan de Golf van Mexico en de Caraïbische Zee zelf met inbegrip van de baaien en zeeën daarin, en het gedeelte van de Atlantische Oceaan binnen de grens die wordt gevormd door de parallel van 30° noorderbreedte van Florida naar het oosten tot de meridiaan van 77° 30' westerlengte, vanaf dat punt een loxodroom tot het snijpunt van de parallel van 20° noorderbreedte en de meridiaan van 59° westerlengte, vanaf dat punt een loxodroom tot het snijpunt van de parallel van 7° 20' noorderbreedte en de meridaan van 50° westerlengte, en vanaf dat punt naar het zuidwesten een loxodroom tot de oostelijke grens van Frans Guyana.    
-
-(2) Onverlet de bepalingen van Voorschrift 6 van deze Bijlage: 
-
-(a) is het storten van de volgende stoffen in zee verboden: 
-
-(i) alle kunststoffen, met inbegrip van doch niet beperkt tot trossen en visnetten van synthetisch materiaal, plastic vuilniszakken en van verbrandingsovens afkomstige as van kunststofproducten die giftige residuen of residuen van zware metalen kan bevatten, verboden; en  
-
-(ii) alle overige vuilnis, daarbij inbegrepen papierprodukten, lompen, glas, metaal, flessen, aardewerk, stuwhout, bekledings- en verpakkingsmaterialen;    
-
-(b) dient, behoudens het bepaalde onder letter c van dit lid, het storten in zee van voedselresten zo ver mogelijk vanaf het dichtstbijzijnde land te geschieden, doch in elk geval niet binnen 12 zeemijlen vanaf het dichtstbijzijnde land.  
-
-(c) dient het storten in het Caraïbisch gebied van voedselresten die door een machine voor verpulveren of vermalen zijn gehaald, zo ver mogelijk vanaf het dichtstbijzijnde land te geschieden, doch in elk geval dat niet onder voorschrift 4 valt niet binnen 3 zeemijlen vanaf het dichtstbijzijnde land. Verpulverde of vermalen voedselresten dienen door een zeef met openingen van maximaal 25 mm te kunnen worden gevoerd.    
-
-(3) Ingeval de vuilnis is vermengd met andere lozingen, waarvoor afwijkende eisen gelden met betrekking tot storten of lozen, zijn de zwaarste eisen van toepassing.  
-
-(4) Ontvangstinrichtingen in bijzondere gebieden: 
-
-(a) de Regering van elke Partij bij dit Verdrag, wier kustlijn grenst aan een bijzonder gebied, verbindt zich ertoe te verzekeren dat zo spoedig mogelijk in alle havens in een bijzonder gebied toereikende ontvangstinrichtingen worden geïnstalleerd, overeenkomstig de bepalingen van Voorschrift 7 van deze Bijlage, rekening houdende met de bijzondere behoefte van in deze gebieden opererende schepen.  
-
-(b) De Regering van elke betrokken Partij stelt de Organisatie in kennis van de maatregelen getroffen ingevolge letter (a) van dit Voorschrift. Na ontvangst van voldoende mededelingen stelt de Organisatie een tijdstip vast, waarop de bepalingen van dit Voorschrift ten aanzien van het betrokken gebied in werking treden. De Organisatie stelt alle Partijen ten minste twaalf maanden van tevoren in kennis van de aldus vastgestelde datum.  
-
-(c) Na de aldus vastgestelde datum dienen ook schepen die havens aanlopen in deze bijzondere gebieden, waar deze inrichtingen nog niet beschikbaar zijn, volledig te voldoen aan de bepalingen van dit Voorschrift.    
-
-(5) Niettegenstaande het vierde lid van dit Voorschrift zijn de volgende regels van toepassing op het Antarctisch gebied: 
-
-a. De Regering van elke Partij bij het Verdrag waarvan de havens worden gebruikt door schepen op weg naar of komend uit het Antarctisch gebied, verbindt zich ertoe zo spoedig mogelijk de aanleg te verzekeren van toereikende inrichtingen bestemd voor de ontvangst van alle vuilnis van alle schepen zonder aan deze schepen onnodig oponthoud te veroorzaken en naar de behoeften van de schepen die daarvan gebruik maken.  
-
-b. De Regering van elke Partij bij het Verdrag verzekert dat alle schepen die gerechtigd zijn haar vlag te voeren, alvorens het Antarctisch gebied binnen te varen zijn uitgerust met een tank of tanks van voldoende capaciteit aan boord voor het aan boord houden van alle vuilnis terwijl zij in bedrijf zijn in het gebied en regelingen hebben gesloten om dit vuilnis af te geven aan een ontvangstinrichting na het verlaten van het gebied.      
+1.  Behoudens de bepalingen van paragraaf 2 van dit voorschrift, is het verboden vuilnis in zee te lozen vanaf vaste of drijvende platforms alsmede vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden.   
+2.  Er mogen wel voedselresten in zee worden geloosd vanaf vaste of drijvende platforms die zich op meer dan 12 zeemijlen van het dichtstbijzijnde land bevinden en vanaf alle andere schepen die zich naast of binnen 500 meter van dergelijke platforms bevinden, op voorwaarde dat de voedselresten door een afbreek- of maalinstallatie zijn gevoerd. Deze afgebroken of gemalen voedselresten dienen een rooster met gaten van maximaal 25 mm doorsnee te kunnen passeren.   
 
 ### Voorschrift  6  
 
-####Uitzonderingen
+####Lozen van vuilnis binnen bijzondere gebieden
 
-De Voorschriften 3, 4 en 5 van deze Bijlage zijn niet van toepassing op: 
+1.  Het lozen van het onderstaande vuilnis in zee binnen bijzondere gebieden is uitsluitend toegestaan wanneer het schip onderweg is en op de volgende wijze: 
 
-(a) het storten van vuilnis van een schip, indien dit noodzakelijk is om de veiligheid van schip en opvarenden te verzekeren, of mensenlevens op zee te redden; of  
+.1. Het lozen in zee van voedselresten geschiedt zo ver mogelijk van het dichtstbijzijnde land, en in elk geval niet minder dan 12 zeemijlen van het dichtstbijzijnde land of de dichtstbijzijnde ijsplaat. Voedselresten dienen te worden afgebroken of vermalen en dienen een rooster met gaten van maximaal 25 mm doorsnee te kunnen passeren. Voedselresten mogen niet verontreinigd zijn door een andere soort vuilnis. Het lozen van meegebrachte gevogelteproducten, waaronder pluimvee en delen daarvan, is niet toegestaan in het Antarctisch gebied tenzij deze door behandeling steriel zijn gemaakt.  
 
-(b) het ontsnappen van vuilnis tengevolge van schade aan een schip of aan de uitrusting daarvan, mits alle redelijke voorzorgen zijn genomen vóór en na het ontstaan van de schade, om het ontsnappen te voorkomen of tot een minimum te beperken; of  
+.2. Het lozen van ladingrestanten die niet met algemeen beschikbare losmethoden kunnen worden teruggewonnen, indien aan alle volgende vereisten wordt voldaan: 
 
-(2c) het toevallige verlies van synthetische visnetten, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen.    
+.1. Ladingrestanten, schoonmaakmiddelen of additieven, die in het waswater van laadruimen zijn opgenomen, bevatten geen stoffen die geclassificeerd zijn als schadelijk voor het mariene milieu, rekening houdend met de door de Organisatie ontwikkelde richtsnoeren;  
+
+.2. Zowel de haven van vertrek als de volgende haven van bestemming bevinden zich binnen het bijzonder gebied en het schip vaart tussen deze havens niet buiten het bijzondere gebied;  
+
+.3. Er zijn geen toereikende ontvangstinstallaties beschikbaar in deze havens, rekening houdend met de door de Organisatie ontwikkelde richtsnoeren; en  
+
+.4. Wanneer aan de vereisten van de subparagrafen 2.1, 2.2 en 2.3 van deze paragraaf is voldaan, moet het waswater van de laadruimen dat restanten bevat zo ver als mogelijk van het dichtstbijzijnde land of de dichtstbijzijnde ijsplaat worden geloosd en in ieder geval niet minder dan 12 zeemijlen van het dichtstbijzijnde land of de dichtstbijzijnde ijsplaat.       
+2.  Schoonmaakmiddelen of additieven die zijn opgenomen in het waswater van dekken en buitenoppervlakken mogen in zee worden geloosd, maar uitsluitend indien deze stoffen niet schadelijk zijn voor het mariene milieu, rekening houdend met de door de Organisatie ontwikkelde richtsnoeren.   
+3.  De volgende regels (in aanvulling op de regels van paragraaf 1 van dit voorschrift) zijn van toepassing op het Antarctisch gebied: 
+
+.1. Elke partij met havens van waaruit schepen vertrekken op weg naar, of waarin schepen aankomen vanuit, het Antarctisch gebied, verplicht zich ertoe zodra praktisch uitvoerbaar toereikende installaties aan te leggen voor de ontvangst van alle vuilnis van alle schepen, zonder onnodig oponthoud te veroorzaken en overeenkomstig de behoeften van de schepen die er gebruik van maken.  
+
+.2. Elke partij waarborgt dat alle schepen die gerechtigd zijn onder haar vlag te varen, voordat deze het Antarctisch gebied binnenvaren, over voldoende capaciteit aan boord beschikken voor het bewaren van alle vuilnis tijdens hun verblijf in het gebied en dat deze schepen voorzieningen hebben getroffen om dit vuilnis bij een ontvangstinstallatie af te geven nadat zij het gebied hebben verlaten.     
+4.  Wanneer vuilnis is vermengd met of verontreinigd door andere stoffen waarvan de lozing verboden of aan andere vereisten gebonden is, zijn de strengere vereisten van toepassing.   
 
 ### Voorschrift  7  
 
-####Ontvangstinrichtingen
+####Uitzonderingen
 
-(1) De Regering van elke Partij bij dit Verdrag verbindt zich tot het installeren, in havens en laad- en losplaatsen, van inrichtingen voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van de schepen te veroorzaken, en die toereikend zijn om te voldoen aan de behoeften van de schepen die er gebruik van maken.  
+1.  De voorschriften 3, 4, 5 en 6 van deze Bijlage zijn niet van toepassing op: 
 
-(2) De Regering van elke Partij stelt de Organisatie in kennis van alle gevallen waarin de inrichtingen welke ingevolge de bepalingen van dit Voorschrift zijn aangebracht als ontoereikend worden aangemerkt, dit ter mededeling aan de betrokken Partijen.    
+.1. het lozen van vuilnis van een schip indien dit noodzakelijk is teneinde de veiligheid van een schip en de opvarenden te waarborgen of om mensenlevens op zee te redden; of  
+
+.2. het onbedoelde verlies van vuilnis als gevolg van schade aan een schip of zijn uitrusting, mits alle redelijke voorzorgsmaatregelen zijn getroffen vóór en na het optreden van de schade teneinde het onbedoelde verlies te voorkomen of tot een minimum te beperken; of  
+
+.3. het onbedoelde verlies van vistuig van een schip, mits alle redelijke voorzorgen zijn genomen om dit verlies te voorkomen; of  
+
+.4. het lozen van vistuig van een schip met het oog op de bescherming van het mariene milieu of de veiligheid van het schip of zijn bemanning.     
+2.  Uitzondering voor schepen onderweg 
+
+.1. De vereisten in de voorschriften 4 en 6 voor schepen die onderweg zijn, zijn niet van toepassing op het lozen van voedselresten wanneer duidelijk is dat het aan boord houden van deze voedselresten een direct risico voor de gezondheid van de opvarenden oplevert.     
 
 ### Voorschrift  8  
 
-####De door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+####Ontvangstinstallaties
 
-1. Een schip dat zich bevindt in een haven van een andere Partij dient te worden geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord moeten worden toegepast om verontreiniging door vuilnis te voorkomen.  
+1.  Elke partij verbindt zich ertoe te waarborgen dat havens en laad- en losplaatsen zijn voorzien van toereikende installaties voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van schepen te veroorzaken, volgens de behoeften van de schepen die er gebruik van maken.   
+2.  Elke partij stelt de Organisatie in kennis van alle gevallen waarin de installaties die ingevolge de bepalingen van dit voorschrift zijn aangebracht, als ontoereikend worden aangemerkt, waarna de Organisatie de betrokken Verdragsluitende Partijen op de hoogte stelt.   
+2bis.  Kleine eilandstaten in ontwikkeling kunnen met behulp van regionale regelingen voldoen aan de vereisten van de leden 1 en 2.1 van dit voorschrift, indien dergelijke regelingen de enige praktische manier zijn om aan deze vereisten te voldoen vanwege de unieke omstandigheden van die staten. Partijen die deelnemen aan een regionale regeling moeten een regionaal plan voor ontvangstfaciliteiten opstellen waarbij rekening wordt gehouden met de door de Organisatie opgestelde richtlijnen. De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organisatie, ten behoeve van het rondsturen aan de Partijen bij dit Verdrag, over: 
 
-2. In de omstandigheden bedoeld in het eerste lid van dit voorschrift, neemt de Partij de noodzakelijke maatregelen om te voorkomen dat het schip uitvaart voordat de situatie in overeenstemming is gebracht met de bepalingen van deze Bijlage.  
+.1 de wijze waarop in het regionale plan voor ontvangstfaciliteiten rekening wordt gehouden met de richtlijnen;  
 
-3. De werkwijzen betreffende de controle door de havenstaat bedoeld in artikel 5 van dit Verdrag zijn van toepassing op dit voorschrift.  
+.2 bijzonderheden van de aangewezen regionale ontvangstfaciliteiten voor afval van schepen; en  
 
-4. Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.    
+.3 bijzonderheden van havens met beperkte voorzieningen.     
+3.  Ontvangstinstallaties binnen bijzondere gebieden 
+
+.1. Elke partij wier kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat zo spoedig mogelijk alle havens en laad- en losplaatsen binnen het bijzondere gebied worden voorzien van toereikende ontvangstinstallaties, rekening houdend met de behoeften van schepen die in deze gebieden geëxploiteerd worden.  
+
+.2. Elke betrokken partij stelt de Organisatie in kennis van de maatregelen die zijn getroffen ingevolge subparagraaf 3.1 van dit voorschrift. Na ontvangst van voldoende kennisgevingen stelt de Organisatie een datum vast waarop de vereisten van voorschrift 6 van deze Bijlage ten aanzien van het betrokken gebied van kracht dienen te worden. De Organisatie stelt alle partijen ten minste twaalf maanden van tevoren in kennis van de vastgestelde datum. Tot de aldus vastgestelde datum dienen schepen die in een bijzonder gebied varen te voldoen aan de vereisten van voorschrift 4 van deze Bijlage wat betreft lozingen buiten bijzondere gebieden.     
 
 ### Voorschrift  9  
 
-####Informatieborden, vuilnisbeheerplannen en het bijhouden van de gegevens inzake vuilnis
+####Havenstaatcontrole op operationele vereisten
 
-1. 
+<sup> 1)  Zie de Procedures voor havenstaatcontrole, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IA650E.  </sup>   
+1.  Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere partij wordt onderworpen aan inspectie door ambtenaren die door bedoelde partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde operationele vereisten, wanneer er gegronde redenen zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door vuilnis te voorkomen.   
+2.  In de omstandigheden bedoeld in de eerste paragraaf van dit voorschrift, neemt de partij de noodzakelijke maatregelen om te waarborgen dat het schip niet uitvaart totdat de situatie in overeenstemming is gebracht met de vereisten van deze Bijlage.   
+3.  De procedures betreffende havenstaatcontrole voorgeschreven in artikel 5 van dit Verdrag zijn van toepassing op dit voorschrift.   
+4.  Geen enkele bepaling van dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een partij die de uitdrukkelijk in dit Verdrag genoemde operationele vereisten aan boord controleert, worden beperkt.   
 
-a. Elk schip met een volle lengte van 12 meter of meer moet zijn voorzien van informatieborden die de bemanning en de passagiers informeren over de eisen inzake het storten van vuilnis van Voorschrift 3 en 5 van deze Bijlage, voor zover van toepassing.  
+### Voorschrift  10  
 
-b. De informatie op de borden wordt geschreven in de voertaal van de bemanning van het schip en, ten aanzien van schepen die reizen maken naar havens of laad- en losplaatsen buitengaats binnen de rechtsmacht van andere Partijen bij het Verdrag, tevens in het Engels, Frans of Spaans.    
+####Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
 
-2. Elk schip met een bruto tonnage van 400 ton en meer en elk schip dat gecertificeerd is 15 personen of meer te vervoeren heeft een vuilnisbeheerplan, dat de bemanning dient na te komen. Dit plan voorziet in geschreven procedures voor de verzameling, opslag, verwerking en verwijdering van vuilnis, met inbegrip van het gebruik van de uitrusting aan boord. In het plan wordt tevens de persoon aangewezen die belast is met de uitvoering van het plan. Een dergelijk plan dient in overeenstemming te zijn met de richtlijnen die zijn opgesteld door de Organisatie en dient te zijn geschreven in de werktaal van de bemanning.  
+<sup> 2)  Zie de Richtsnoeren voor de ontwikkeling van vuilnisbeheerplannen aangenomen door de Commissie voor de bescherming van het mariene milieu van de Organisatie bij resolutie MEPC.71(38); zie MEPC/Circ.317 en IMO sales publication IA656E.  </sup>   
+1.  
 
-3. Elk schip met een bruto tonnage van 400 en meer en elk schip dat gecertificeerd is 15 personen of meer te vervoeren en dat reizen maakt naar havens of laad- en losplaatsen buitengaats binnen de rechtsmacht van andere Partijen bij het Verdrag en elk vast en drijvend platform gebruikt voor de exploratie en exploitatie van de zeebodem moet zijn voorzien van een vuilnisjournaal. Het vuilnisjournaal moet, hetzij als onderdeel van het scheepsjournaal, hetzij anderszins, zijn ingericht volgens het model zoals aangegeven in het Aanhangsel bij deze Bijlage; 
+.1. Elk schip met een lengte over alles van 12 meter of meer en elk vast of drijvend platform dient plakkaten te tonen die de bemanning en de passagiers informeren over de lozingsvoorwaarden in de voorschriften 3, 4, 5 en 6 van deze Bijlage, voor zover van toepassing.  
 
-a. Van elke lozing of voltooide verbranding dient melding te worden gemaakt in het vuilnisjournaal, en deze melding dient te worden ondertekend op de dag van de verbranding of lozing door de officier belast met de handeling. Elke ingevulde bladzijde van het vuilnisjournaal moet worden ondertekend door de kapitein van het schip. De aantekeningen in het vuilnisjournaal dienen ten minste in het Engels, Frans of Spaans te worden gesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn deze aantekeningen doorslaggevend in geval van een geschil of een tegenstrijdigheid;  
+.2. De informatie op de plakkaten wordt geschreven in de werktaal van de bemanning van het schip en, ten aanzien van schepen die reizen maken naar havens of laad- en losplaatsen buitengaats binnen de rechtsmacht van andere partijen bij het Verdrag, tevens in het Engels, Frans of Spaans.     
+2.  Ieder schip met een brutotonnage van 100 of meer en ieder schip dat gecertificeerd is 15 personen of meer te vervoeren alsmede vaste of drijvende platforms moeten een vuilnisbeheerplan hebben, dat de bemanning dient na te komen. Dit plan voorziet in schriftelijke procedures voor het minimaliseren, verzamelen, opslaan, verwerken en verwijderen van vuilnis, met inbegrip van het gebruik van de uitrusting aan boord. In het plan worden tevens de persoon of personen aangewezen die belast zijn met de uitvoering van het plan. Een dergelijk plan dient in overeenstemming te zijn met de richtsnoeren die zijn ontwikkeld door de Organisatie2 en dient te zijn geschreven in de werktaal van de bemanning.   
+3.  Ieder schip met een brutotonnage van 400 of meer en ieder schip dat gecertificeerd is om 15 personen of meer te vervoeren en dat reizen maakt naar havens of laad- en losplaatsen buitengaats binnen de rechtsmacht van een andere partij bij het Verdrag en elk vast of drijvend platform dient te zijn voorzien van een vuilnisjournaal. Het vuilnisjournaal dient, hetzij als onderdeel van het scheepsjournaal, hetzij anderszins, te zijn ingericht volgens het model zoals aangegeven in het aanhangsel bij deze Bijlage: 
 
-b. De aantekening van elke verbranding of lozing omvat mede de datum en het tijdstip, de positie van het schip, een beschrijving van de vuilnis en de geschatte verbrande of geloosde hoeveelheid;  
+.1. Elke lozing in zee of naar een ontvangstinstallatie of een volledige verbranding dient onmiddellijk te worden aangetekend in het vuilnisjournaal, en deze aantekening dient te worden ondertekend op de datum van de lozing of verbranding door de verantwoordelijke officier. Elke ingevulde bladzijde van het vuilnisjournaal dient te worden ondertekend door de kapitein van het schip. De aantekeningen in het vuilnisjournaal dienen ten minste in het Engels, Frans of Spaans te worden gesteld. Wanneer de aantekeningen tevens zijn gesteld in een officiële taal van de Staat waarvan het schip gerechtigd is de vlag te voeren, zijn de aantekeningen in die taal doorslaggevend in geval van een geschil of een tegenstrijdigheid;  
 
-c. Het vuilnisjournaal moet aan boord worden bewaard en op een plaats waar het binnen een redelijke tijd beschikbaar is voor raadpleging. Het document moet gedurende een termijn van twee jaar na de laatste aantekening worden bewaard;  
+.2. De aantekening van elke lozing of verbranding omvat mede de datum en het tijdstip, de positie van het schip, de categorie van het vuilnis en de geschatte geloosde of verbrande hoeveelheid;  
 
-d. In geval van lozing, ontsnapping of toevallig verlies als bedoeld in Voorschrift 6 van deze Bijlage dient in het vuilnisjournaal melding te worden gemaakt van de omstandigheden waaronder en de redenen waarom het verlies geschiedde.    
+.3. Het vuilnisjournaal dient aan boord van het schip of het vaste of drijvende platform te worden bewaard en op een plaats waar het direct beschikbaar is voor inspectie op elk redelijk tijdstip. Het document dient gedurende een termijn van ten minste twee jaar na de laatste aantekening te worden bewaard;  
 
-4. De Administratie kan ontheffing verlenen van de eisen voor vuilnisjournaals voor: 
+.4. In geval van lozing of onbedoeld verlies als bedoeld in voorschrift 7 van deze Bijlage dient in het vuilnisjournaal of, bij schepen van minder dan 400 brutoton in het scheepsjournaal, een aantekening te worden gemaakt van de locatie, de omstandigheden waaronder en de redenen waarom de lozing of het verlies geschiedde en welke redelijke voorzorgsmaatregelen zijn genomen om een dergelijke lozing of dergelijk verlies te voorkomen of tot een minimum te beperken.     
+4.  De Administratie kan ontheffing verlenen van de eisen voor vuilnisjournaals voor: 
 
-i. schepen die reizen maken van 1 uur of korter en die gecertificeerd zijn 15 personen of meer te vervoeren; of  
+.1. schepen die reizen maken van een (1) uur of korter en die gecertificeerd zijn 15 personen of meer te vervoeren; of  
 
-ii. vaste of drijvende platforms tijdens de exploratie en exploitatie van de zeebodem.    
-
-5. De bevoegde instantie van de Regering van een Partij bij het Verdrag heeft het recht het vuilnisjournaal te controleren aan boord van elk schip waarop dit Voorschrift van toepassing is, terwijl het schip zich in een haven of een laad- of losplaats buitengaats van die Staat bevindt en een afschrift te maken van elke aantekening in dat journaal en van de kapitein te verlangen dat deze het afschrift waarmerkt als een waarheidsgetrouw afschrift van de desbetreffende aantekening. Elk aldus vervaardigd afschrift dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het vuilnisjournaal van het schip heeft gewaarmerkt, moet bij alle gerechtelijke procedures worden toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De controle van een vuilnisjournaal en het maken van een waarheidsgetrouw afschrift door de bevoegde instantie in overeenstemming met de bepalingen van deze paragraaf dient zo snel mogelijk te geschieden zonder aan het schip onnodig oponthoud te veroorzaken.  
-
-6. Ten aanzien van schepen die vóór 1 juli 1997 zijn gebouwd, is dit voorschrift van toepassing met ingang van 1 juli 1998.    
+.2. vaste of drijvende platforms.     
+5.  De bevoegde autoriteit van de Regering van een partij bij het Verdrag kan het vuilnisjournaal of het scheepsjournaal controleren aan boord van elk schip waarop dit voorschrift van toepassing is, terwijl het schip zich in een haven of een laad- of losplaats buitengaats van dat land bevindt, en een afschrift maken van elke aantekening in deze journaals, en van de kapitein van het schip verlangen dat deze het afschrift waarmerkt als een waarheidsgetrouw afschrift van de betreffende aantekening. Elk aldus vervaardigd afschrift dat de kapitein van het schip als een waarheidsgetrouw afschrift van een aantekening in het vuilnisjournaal of het scheepsjournaal van het schip heeft gewaarmerkt, dient bij alle gerechtelijke procedures te worden toegelaten als bewijsstuk voor de in die aantekening vermelde feiten. De inspectie van een vuilnisjournaal of scheepsjournaal en de vervaardiging van een gewaarmerkt afschrift door de bevoegde autoriteit ingevolge deze paragraaf dienen zo snel mogelijk te geschieden zonder voor het schip onnodig oponthoud te veroorzaken.   
+6.  Het onbedoelde verlies of lozen van vistuig zoals voorzien in de voorschriften 7.1.3 en 7.1.3bis dat een ernstige bedreiging vormt voor het mariene milieu of de scheepvaart wordt gemeld aan de Staat waarvan het schip gerechtigd is de vlag te voeren, en, wanneer het verlies of lozen plaatsvindt in wateren die vallen onder de rechtsmacht van een kuststaat, tevens aan deze kuststaat.   
 
 ### Aanhangsel  
 
 ####Model van het vuilnisjournaal
 
-Naam van het schip: ________________________ Onderscheidingsnummer of -letters ____________ IMO nr. ________________________ Periode: ____________Van: ____________ Naar: ____________ 
+Naam van het schip: ........ Onderscheidingsnummer of -letters: ........ IMO-nr.: ........ Periode: ........ Van: ........ Tot: 
+###1. Inleiding
 
-1. Inleiding In overeenstemming met Voorschrift 9 van Bijlage V bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 (MARPOL 73/78) dient melding te worden gemaakt van elke lozing of voltooide verbranding. Dit omvat mede lozingen op zee, afvoer naar ontvangstinrichtingen of afvoer naar andere schepen.  
+In overeenstemming met voorschrift 10 van Bijlage V van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, als gewijzigd bij het Protocol van 1978 daarbij (MARPOL) dient een journaal te worden bijgehouden van elke lozing of voltooide verbranding. Dit omvat mede lozingen op zee, afvoer naar ontvangstinstallaties of naar andere schepen, alsmede het onbedoelde verlies van vuilnis. 
+###2. Vuilnis en vuilnisbeheer
 
-2. Vuilnis en vuilnisbeheer Vuilnis omvat alle soorten voedselresten, huishoudelijk afval en afval voortvloeiende uit de bedrijfsvoering, met uitzondering van verse vis en gedeelten daarvan, die zijn ontstaan tijdens de normale bedrijfsvoering van het schip en die voortdurend of regelmatig dienen te worden verwijderd, met uitzondering van de stoffen omschreven of opgesomd in andere Bijlagen bij MARPOL 73/78 (zoals olie, afvalwater of schadelijke vloeistoffen). Voor relevante informatie dient tevens te worden verwezen naar de Richtlijnen voor de toepassing van Bijlage V van MARPOL 73/78.  
+Vuilnis omvat alle soorten voedselresten, huishoudelijk afval en afval uit de bedrijfsvoering, alle plastic, ladingrestanten, bak- en braadolie, vistuig en dierlijke kadavers, ontstaan tijdens de normale bedrijfsvoering van het schip en die vermoedelijk voortdurend of regelmatig worden verwijderd van het schip, met uitzondering van de stoffen omschreven of opgesomd in andere Bijlagen bij dit Verdrag. Onder vuilnis wordt niet verstaan verse vis en gedeelten daarvan, die zijn onstaan als gevolg van visactiviteiten tijdens de reis of die het resultaat zijn van werkzaamheden op het gebied van aquacultuur die met zich meebrengen dat vis, met inbegrip van schaaldieren, vervoerd dient te worden om in de faciliteit voor aquacultuur geplaatst te worden en dat geoogste vis, met inbegrip van schaaldieren, van deze faciliteiten naar wal vervoerd dient te worden ter verwerking. Voor relevante informatie dient tevens te worden verwezen naar de Richtsnoeren voor de toepassing van Bijlage V van MARPOL. <sup> 3)  Zie de Richtsnoeren voor de implementatie van Bijlage V van MARPOL 73/78, zoals gewijzigd bij resoluties.  </sup> 
+###3. Beschrijving van het vuilnis
 
-3. Beschrijving van de vuilnis De vuilnis wordt als volgt in categorieën gegroepeerd ten behoeve van dit vuilnisjournaal: 
+Vuilnis wordt als volgt in categorieën gegroepeerd ten behoeve van het vuilnisjournaal (of het scheepsjournaal): 
 
-1. kunststoffen  
+A. Plastic  
 
-2. stuwhout, bekledings- of verpakkingsmateriaal dat blijft drijven  
+B. Voedselresten  
 
-3. gemalen papierproducten, lompen, glas, metaal, flessen, aardewerk, enz.  
+C. Huishoudelijk afval  
 
-4. ladingresten, papierproducten, lompen, glas, metaal, flessen, aardewerk, enz.  
+D. Bak- en braadolie  
 
-5. voedselresten  
+E. Asresten van de verbrandingsoven  
 
-6. as van de verbrandingsoven    
+F. Afval uit de bedrijfsvoering  
 
-4. Aantekeningen in het vuilnisjournaal Wanneer een van de volgende handelingen wordt verricht, dient in het vuilnisjournaal te worden aangetekend: 
+G. Ladingrestanten  
 
-a. Wanneer vuilnis in zee wordt geloosd: 
+H. Dierlijke kadavers  
 
-i. De datum en het tijdstip van de lozing  
+I. Vistuig <sup> 4)  Zie de door de Organisatie te ontwikkelen richtsnoeren.  </sup>   
+###4. Aantekeningen in het vuilnisjournaal
 
-ii. de positie van het schip (breedte- en lengtegraad). Aantekening bij het lozen van ladingresten, bevat de positie van het schip bij de aanvang van het lozen en bij het einde ervan.  
+4.1. Elk van de volgende gebeurtenissen dient te worden aangetekend in het vuilnisjournaal: 
 
-iii. De categorie van het geloosde vuilnis  
+4.1.1. Wanneer vuilnis wordt afgevoerd naar een ontvangstinstallatie aan wal of naar andere schepen: <sup> 5)  De kapitein van het schip dient van de exploitant van de ontvangstinstallatie, waaronder lichters en tankvoertuigen, een ontvangstbewijs of verklaring te verkrijgen waarin de geschatte hoeveelheid overgebracht vuilnis wordt vermeld. Het ontvangstbewijs of de verklaring dient bij het vuilnisjournaal te worden bewaard.  </sup> 
 
-iv. De geschatte hoeveelheid geloosde vuilnis voor elke categorie in m <sup>3</sup>  
+.1. De datum en het tijdstip van afvoer  
 
-v. De handtekening van de officier belast met de handeling    
+.2. De haven of installatie, of de naam van het schip  
 
-b. Wanneer vuilnis wordt afgevoerd naar ontvangstinrichtingen aan wal of andere schepen: 
+.3. De categorieën van afgevoerd vuilnis  
 
-i. De datum en het tijdstip van de lozing  
+.4. De geschatte hoeveelheid voor elke categorie in m <sup>3</sup>  
 
-ii. De haven of inrichting, of de naam van het schip  
+.5. De handtekening van de officier verantwoordelijk voor de handeling.    
 
-iii. De categorie van de geloosde vuilnis  
+4.1.2. Wanneer vuilnis wordt verbrand: 
 
-iv. De geschatte hoeveelheid van de geloosde vuilnis voor elke categorie in m <sup>3</sup>  
+.1. De datum en het tijdstip van het begin en het einde van de verbranding  
 
-v. De handtekening van de officier belast met de handeling    
+.2. De positie van het schip (breedte- en lengtegraad) bij het begin en het einde van de verbranding  
 
-c. Wanneer vuilnis wordt verbrand: 
+.3. De categorieën van verbrand vuilnis  
 
-i. De datum en het tijdstip van het begin en het einde van de verbranding  
+.4. De geschatte hoeveelheid in m <sup>3</sup>  
 
-ii. De positie van het schip (breedte- en lengtegraad)  
+.5. De handtekening van de officier verantwoordelijk voor de handeling.    
 
-iii. De geschatte hoeveelheid verbrande vuilnis in m <sup>3</sup>  
+4.1.3. Wanneer vuilnis in zee wordt geloosd in overeenstemming met de voorschriften 4, 5 of 6 van Bijlage V van MARPOL; 
 
-iv. De handtekening van de officier belast met de handeling    
+.1 De datum en het tijdstip van lozing  
 
-d. Toevallige of andere uitzonderlijke lozing van vuilnis 
+.2. De positie van het schip (breedte- en lengtegraad) NB. Bij het lozen van ladingrestanten dient de positie van het schip bij het begin en het einde van de lozing te worden vermeld.  
 
-i. Het tijdstip van het voorval  
+.3. De categorie van geloosd vuilnis  
 
-ii. De haven of de positie van het schip op het tijdstip van het voorval  
+.4. De geschatte hoeveelheid voor elke categorie in m <sup>3</sup>  
 
-iii. De geschatte hoeveelheid en categorie vuilnis  
+.5. De handtekening van de officier verantwoordelijk voor de handeling.    
 
-iv. De omstandigheden van het lozen, ontsnappen of het verlies, de redenen daarvoor en algemene opmerkingen.      
+4.1.4. Onbedoelde of andere uitzonderlijke lozing of verlies van afval in zee, met inbegrip van lozing in overeenstemming met voorschrift 7 van Bijlage V bij MARPOL: 
 
-4.2. Ontvangstbewijs De kapitein behoort van de beheerder van de havenontvangstinrichting of van de kapitein van het schip dat het vuilnis ontvangt, een ontvangstbewijs of certificaat te krijgen waarin de geschatte hoeveelheid overgedragen vuilnis is aangegeven. De ontvangstbewijzen of certificaten moeten bij het vuilnisjournaal gedurende twee jaar aan boord worden bewaard.  
+.1. De datum en het tijdstip van het voorval  
 
-4.3. Hoeveelheid vuilnis De hoeveelheid vuilnis aan boord behoort te worden geschat in m <sup>3</sup>, indien mogelijk per afzonderlijke categorie. Het vuilnisjournaal bevat veel verwijzingen naar de geschatte hoeveelheid vuilnis. Erkend wordt dat de nauwkeurigheid van de geschatte hoeveelheden vuilnis aan interpretatie onderhevig is. Volumeschattingen zullen uiteenlopen vóór en na de verwerking. Bij bepaalde verwerkingsprocedures kan mogelijk geen gebruikelijke volumeschatting plaatsvinden, bijv. bij de continue verwerking van voedselresten. Dergelijke factoren behoren in aanmerking te worden genomen wanneer aantekeningen in een journaal worden gemaakt en geïnterpreteerd.    *Journaal van vuilnislozingen*  Naam van het schip: ________________________ Onderscheidingsnummer of -letters: ________________ IMO nr.: ________________ Vuilniscategorieën: 
+.2. De haven of positie van het schip op het tijdstip van het voorval (breedte- en lengtegraad en waterdiepte indien bekend)  
 
-1. kunststoffen  
+.3. De categorie van geloosd of verloren vuilnis  
 
-2. stuwhout, bekledings- of verpakkingsmateriaal dat blijft drijven  
+.4. De geschatte hoeveelheid voor elke categorie in m <sup>3</sup>  
 
-3. gemalen papierproducten, lompen, glas, metaal, flessen, aardewerk, enz.  
+.5. De redenen voor het lozen of het verlies en algemene opmerkingen.      
 
-4. papierproducten, lompen, glas, metaal, flessen, aardewerk, enz.  
+4.2. Hoeveelheid vuilnis De hoeveelheid vuilnis aan boord dient te worden geschat in kubieke meter, indien mogelijk per afzonderlijke categorie. Het vuilnisjournaal bevat veel verwijzingen naar de geschatte hoeveelheid vuilnis. Onderkend wordt dat de nauwkeurigheid van de geschatte hoeveelheden vuilnis aan interpretatie onderhevig is. Volumeschattingen zullen uiteenlopen vóór en na de verwerking. Bij bepaalde verwerkingsprocedures kan mogelijk geen gebruikelijke volumeschatting plaatsvinden, bijv. bij de continue verwerking van voedselresten. Dergelijke factoren behoren in aanmerking te worden genomen wanneer aantekeningen in een journaal worden gemaakt en geïnterpreteerd.    
 
-5. voedselresten  
+| --- | --- | --- |
+|---|---|---|
+| JOURNAAL VAN VUILNISLOZINGEN  |
+| --- |
+| Naam van het schip: ........  |
+| Onderscheidingsnummer of -letters: ........  |
+| IMO-nr.: ........  |
+| --- |
+| Vuilniscategorieën:  |
+| --- | --- |
+| A.  | Plastic  |
+| B.  | Voedselresten  |
+| C.  | Huishoudelijk afval (bijvoorbeeld papierproducten, lompen, glas, metaal, flessen, aardewerk, etc.)  |
+| D.  | Bak- en braadolie  |
+| E.  | Asresten van de verbrandingsoven  |
+| F.  | Afval uit de bedrijfsvoering  |
+| G.  | Ladingrestanten  |
+| H.  | Dierlijke kadavers  |
+| I.  | Vistuig  |
+| --- |
+| NIEUWE LAYOUT TABEL ALS VOLGT:  |
 
-6. as van de verbrandingsovens met uitzondering die van kunststoffen die giftige residuen of residuen van zware metalen kan bevatten   LET OP: DE LOZING VAN VUILNIS, NIET ZIJNDE VOEDSELRESTEN, IS VERBODEN IN BIJZONDERE GEBIEDEN. UITSLUITEND VUILNIS DAT IN ZEE IS GELOOSD MOET WORDEN GECATEGORISEERD. VUILNIS DAT NIET BEHOORT TOT CATEGORIE 1 EN DAT WORDT GELOOSD IN ONTVANGSTINRICHTINGEN BEHOEFT UITSLUITEND ALS EEN TOTALE GESCHATTE HOEVEELHEID TE WORDEN VERMELD. BIJ HET LOZEN VAN LADINGRESTEN DIENEN DE POSITIES BIJ AANVANG EN EINDE VAN DE LOZING TE WORDEN VERMELD.  
+|  *Datum/Tijdstip*   |  *Positie van het schip/Opmerkingen (bijv. onbedoeld verlies)*   |  *Categorie*   |  *Geschatte geloosde of verbrande hoeveelheid*   |  *Op zee*   |  *Naar ontvangst-installatie*   |  *Verbranding*   |  *Certificering/Ondertekening*   |
+|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
-| Datum/tijdstip  | Positie van het schip  | Geschatte in zee geloosde hoeveelheid (m <sup>3</sup>)  | Geschatte in ontvangstinrichtingen of op een ander schip geloosde hoeveelheid (m <sup>3</sup>)  | Geschatte verbrande hoeveelheid (m <sup>3</sup>)  | Certificering/ handtekening  |
-|:---|:---|:---|:---|:---|:---|
-| --- | --- | CAT. 2  | CAT. 3  | CAT. 4  | CAT. 5  | CAT. 6  | CAT. 1  | Anders  | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-Handtekening van de kapitein: _____________________________ Datum: ________________   
+Handtekening van de kapitein: ........ Datum: ........   
 
 ### Bijlage  VI  
 
 ####Voorschriften ter voorkoming van luchtverontreiniging door schepen
 
-### HOOFDSTUK  I  
+### HOOFDSTUK  1  
 
-####ALGEMENE BEPALINGEN
+####ALGEMEEN
 
 ### Voorschrift  1  
 
 ####Toepassing
 
-De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de voorschriften 3, 5, 6, 13, 15, 16 en 18 van deze Bijlage.  
+De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de voorschriften 3, 5, 6, 13, 15, 16, 18, 19, 20, 21, 22 en 23 van deze Bijlage.  
 
 ### Voorschrift  2  
 
@@ -10062,7 +10747,55 @@ CFK-115 chloorpentafluorethaan
 
 20. wordt onder *oliehoudend slik* verstaan slik uit de afscheiders voor brandstof of smeerolie, afgewerkte smeerolie uit hoofd- of hulpwerktuigen, of afgewerkte olie uit lenswaterafscheiders, apparatuur voor het filtreren van olie of lekbakken.  
 
-21. wordt onder *tankschip* verstaan een olietankschip als omschreven in voorschrift 1 van Bijlage I of een chemicaliëntankschip zoals omschreven in voorschrift 1van Bijlage II bij dit Verdrag.    
+21. wordt onder *tankschip* in verband met voorschrift 15 verstaan een olietankschip als omschreven in voorschrift 1 van Bijlage I of een chemicaliëntankschip als omschreven in voorschrift 1 van Bijlage II bij dit Verdrag.   Voor de toepassing van Hoofdstuk 4: 
+
+22. wordt onder *bestaand schip* verstaan een schip dat geen nieuw schip is.  
+
+23. wordt onder *nieuw schip* verstaan een schip: 
+
+.1. waarvoor het bouwcontract is afgesloten op of na 1 januari 2013; of  
+
+.2. waarvan, bij ontbreken van een bouwcontract, de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 juli 2013; of  
+
+.3. waarvan de oplevering plaatsvindt op of na 1 juli 2015.    
+
+24. wordt onder *belangrijke wijziging* in verband met Hoofdstuk 4 verstaan een wijziging van een schip: 
+
+.1. waardoor de afmetingen, het laadvermogen of het motorvermogen van het schip in belangrijke mate veranderen; of  
+
+.2. waardoor het type van het schip verandert; of  
+
+.3. waarmee, naar het oordeel van de Administratie, voornamelijk beoogd wordt de levensduur van het schip te verlengen; of  
+
+.4. waardoor het schip anderszins zodanig verandert dat het, indien het een nieuw schip zou betreffen, zou worden onderworpen aan de relevante bepalingen van dit Verdrag die niet op een bestaand schip van toepassing zijn; of  
+
+.5. waardoor de energie-efficiëntie van het schip in belangrijke mate verandert en die gepaard gaat met aanpassingen waardoor het schip de van toepassing zijnde vereiste EEDI, zoals vervat in voorschrift 21, zou kunnen overschrijden.    
+
+25. wordt onder *bulkcarrier* verstaan een schip dat hoofdzakelijk bedoeld is voor het vervoer van droge lading in bulk, met inbegrip van scheepstypen als ertsschepen zoals omschreven in SOLAS Hoofdstuk XII, voorschrift 1, maar uitgezonderd combinatietankers.  
+
+26. wordt onder *gastanker* verstaan een vrachtschip gebouwd of aangepast en gebruikt voor het vervoer in bulk van een vloeibaar gemaakt gas.  
+
+27. wordt onder *tankschip* in verband met Hoofdstuk 4 verstaan een olietankschip zoals omschreven in voorschrift 1 van MARPOL Bijlage I of een chemicaliëntankschip of NLS-tankschip zoals omschreven in voorschrift 1 van MARPOL Bijlage II.  
+
+28. wordt onder *containerschip* verstaan een schip dat uitsluitend ontworpen is voor het vervoer van containers in laadruimen of aan dek.  
+
+29. wordt onder *algemeen vrachtschip* verstaan een schip met een of meerdere dekken dat hoofdzakelijk ontworpen is voor het vervoer van algemene lading. Onder deze begripsomschrijving vallen geen gespecialiseerde droge-ladingschepen, die niet zijn opgenomen in de berekening van de referentielijnen voor algemene vrachtschepen, te weten vrachtschepen voor vee, lichterschepen, zwaartransportschepen, jachttransportschepen en schepen voor het vervoer van splijtstoffen.  
+
+30. wordt onder *koelschip* verstaan een schip dat uitsluitend ontworpen is voor het vervoer van gekoelde lading in laadruimen.  
+
+31. wordt onder *combinatietanker* verstaan een schip dat ontworpen is om 100% van zijn draagvermogen te gebruiken voor het vervoer van zowel vloeibare als droge bulklading.  
+
+32. wordt onder *passagiersschip* verstaan een schip dat meer dan 12 passagiers vervoert.  
+
+33. wordt onder *rorovrachtschip* (vrachtschip voor voertuigen) verstaan een rij-op-rij-af-vrachtschip met meerdere dekken dat ontworpen is voor het vervoer van lege voertuigen en vrachtvoertuigen.  
+
+34. wordt onder *rorovrachtschip* verstaan een schip ontworpen voor het vervoer van rij-op-rij-af-ladingvervoerseenheden.  
+
+35. wordt onder *roropassagiersschip* verstaan een passagiersschip met rij-op-rij-af-laadruimen.  
+
+36. wordt onder *bereikte EEDI* verstaan de EEDI-waarde die door een individueel schip wordt behaald in overeenstemming met voorschrift 20 van Hoofdstuk 4.  
+
+37. wordt onder *vereiste EEDI* verstaan de maximumwaarde van de bereikte EEDI die ingevolge voorschrift 21 van Hoofdstuk 4 is toegestaan voor het specifieke scheepstype en de omvang.    
 
 ### Voorschrift  3  
 
@@ -10108,7 +10841,7 @@ CFK-115 chloorpentafluorethaan
 3.  De Administratie van een Partij neemt eventueel door de Organisatie ontwikkelde relevante richtlijnen met betrekking tot de in dit voorschrift voorziene gelijkwaardige voorzieningen in aanmerking.   
 4.  De Administratie van een Partij die het gebruik van een gelijkwaardige voorziening als omschreven in het eerste lid van dit voorschrift toestaat, spant zich in om schade aan het milieu, de volksgezondheid, goederen of hulpmiddelen van die of andere Staten te voorkomen.   
 
-### HOOFDSTUK  II  
+### HOOFDSTUK  2  
 
 ####ONDERZOEK, CERTIFICERING EN CONTROLEMIDDELEN
 
@@ -10116,18 +10849,18 @@ CFK-115 chloorpentafluorethaan
 
 ####Onderzoeken
 
-1.  Alle schepen met een brutotonnage van 400 ton en meer, alsmede alle vaste en drijvende boorinstallaties en andere platforms worden onderworpen aan de hieronder aangegeven onderzoeken: 
+1.  Ieder schip met een brutotonnage van 400 of meer, alsmede iedere vaste en drijvende boorinstallatie en ander platform wordt onderworpen aan de hieronder aangegeven onderzoeken teneinde te waarborgen dat aan Hoofdstuk 3 wordt voldaan: 
 
-.1. Een eerste onderzoek voordat het schip in dienst wordt gesteld of voordat het certificaat, vereist volgens voorschrift 6 van deze Bijlage, voor de eerste maal wordt afgegeven. Dit onderzoek dient zodanig te zijn dat verzekerd wordt dat de uitrusting, systemen, installaties, voorzieningen en materialen ten volle voldoen aan de van toepassing zijnde vereisten van deze Bijlage;  
+.1. Een eerste onderzoek voordat het schip in dienst wordt gesteld of voordat het certificaat vereist volgens voorschrift 6 van deze Bijlage voor de eerste maal wordt afgegeven. Dit onderzoek dient zodanig te zijn dat gewaarborgd wordt dat de uitrusting, systemen, installaties, voorzieningen en materialen ten volle voldoen aan de van toepassing zijnde vereisten van Hoofdstuk 3;  
 
-.2. Een hernieuwd onderzoek dat wordt verricht met inachtneming van door de Administratie vast te stellen tussenpozen van ten hoogste vijf jaar, behalve wanneer voorschrift 9.2, 9.5, 9.6 of 9.7 van deze Bijlage van toepassing is. Dit hernieuwde onderzoek dient zodanig te zijn dat verzekerd wordt dat de uitrusting, systemen, installaties, voorzieningen en materialen ten volle voldoen aan de van toepassing zijnde vereisten van deze Bijlage;  
+.2. Een hernieuwd onderzoek dat wordt verricht met inachtneming van door de Administratie vast te stellen tussenpozen van ten hoogste vijf jaar, behalve wanneer voorschrift 9.2, 9.5, 9.6 of 9.7 van deze Bijlage van toepassing is. Dit hernieuwde onderzoek dient zodanig te zijn dat gewaarborgd wordt dat de uitrusting, systemen, installaties, voorzieningen en materialen ten volle voldoen aan de van toepassing zijnde vereisten van Hoofdstuk 3;  
 
-.3. Een tussentijds onderzoek binnen drie maanden voor of na de tweede verjaardatum of binnen drie maanden voor of na de derde verjaardatum van het certificaat, dat in de plaats treedt van een van de jaarlijkse onderzoeken voorgeschreven in lid 1.4 van dit voorschrift. Het tussentijdse onderzoek dient zodanig te zijn dat verzekerd wordt dat de uitrusting en voorzieningen volledig voldoen aan de van toepassing zijnde vereisten van deze Bijlage en in goede bedrijfstoestand verkeren. Deze tussentijdse onderzoeken worden aangetekend op het certificaat afgegeven krachtens voorschrift 6 of 7 van deze Bijlage;  
+.3. Een tussentijds onderzoek binnen drie maanden voor of na de tweede verjaardatum of binnen drie maanden voor of na de derde verjaardatum van het certificaat, dat in de plaats treedt van een van de jaarlijkse onderzoeken voorgeschreven in paragraaf 1.4 van dit voorschrift. Het tussentijdse onderzoek dient zodanig te zijn dat gewaarborgd wordt dat de uitrusting en voorzieningen volledig voldoen aan de van toepassing zijnde vereisten van Hoofdstuk 3 en in goede bedrijfstoestand verkeren. Deze tussentijdse onderzoeken worden aangetekend op het IAPP-certificaat afgegeven krachtens voorschrift 6 of 7 van deze Bijlage;  
 
-.4. Een jaarlijks onderzoek binnen drie maanden voor of na elke verjaardatum van het certificaat, met inbegrip van een algemene inspectie van de uitrusting, systemen, installaties, voorzieningen en materialen bedoeld in lid 1.1 van dit voorschrift, teneinde vast te stellen dat de toestand ervan is gehandhaafd in overeenstemming met het vierde lid van dit voorschrift en dat zij geschikt blijven voor de dienst waarvoor het schip bestemd is. Deze jaarlijkse onderzoeken worden aangetekend op het certificaat afgegeven krachtens voorschrift 6 of 7 van deze Bijlage; en  
+.4. Een jaarlijks onderzoek binnen drie maanden voor of na elke verjaardatum van het certificaat, met inbegrip van een algemene inspectie van de uitrusting, systemen, installaties, voorzieningen en materialen bedoeld in paragraaf 1.1 van dit voorschrift, teneinde vast te stellen dat de toestand ervan is gehandhaafd in overeenstemming met paragraaf 5 van dit voorschrift en dat zij geschikt blijven voor de dienst waarvoor het schip bestemd is. Deze jaarlijkse onderzoeken worden aangetekend op het IAPP-certificaat afgegeven krachtens voorschrift 6 of 7 van deze Bijlage; en  
 
-.5. Een algeheel of gedeeltelijk aanvullend onderzoek dient, al naar gelang de omstandigheden, te worden uitgevoerd na een belangrijke reparatie of vervanging als voorgeschreven door het vierde lid van dit voorschrift of na een reparatie naar aanleiding van in het vijfde lid van dit voorschrift vereiste onderzoeken. Het onderzoek dient zodanig te zijn dat gewaarborgd wordt dat de noodzakelijke reparaties of vervangingen deugdelijk zijn uitgevoerd, dat het materiaal en de deskundigheid van deze reparaties of vervangingen in alle opzichten toereikend zijn en dat het schip in alle opzichten voldoet aan de voorschriften van deze Bijlage.     
-2.  In het geval van schepen met een brutotonnage van minder dan 400 ton, kan de Administratie passende maatregelen vaststellen teneinde te verzekeren dat aan de van toepassing zijnde bepalingen van deze Bijlage wordt voldaan.   
+.5. Een algeheel of gedeeltelijk aanvullend onderzoek dat, al naargelang de omstandigheden, dient te worden uitgevoerd na een belangrijke reparatie of vervanging als voorgeschreven in paragraaf 5 van dit voorschrift of na een reparatie naar aanleiding van in paragraaf 6 van dit voorschrift voorgeschreven onderzoeken. Het onderzoek dient zodanig te zijn dat gewaarborgd wordt dat de noodzakelijke reparaties of vervangingen deugdelijk zijn uitgevoerd, dat het materiaal en de deskundigheid waarmee zij zijn uitgevoerd in alle opzichten toereikend zijn en dat het schip in alle opzichten voldoet aan de voorschriften van Hoofdstuk 3.     
+2.  In het geval van schepen met een brutotonnage van minder dan 400, kan de Administratie passende maatregelen vaststellen teneinde te waarborgen dat aan de van toepassing zijnde bepalingen van Hoofdstuk 3 wordt voldaan.   
 3.  Onderzoeken van schepen aangaande de handhaving van de bepalingen van deze Bijlage worden uitgevoerd door ambtenaren van de Administratie. 
 
 .1. De Administratie kan de onderzoeken evenwel toevertrouwen hetzij aan daartoe benoemde inspecteurs, hetzij aan door haar erkende organisaties. Deze organisaties dienen te voldoen aan de door de Organisatie aangenomen richtlijnen . <sup> 1)  Zie de Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.739.(18), eventueel als gewijzigd door de Organisatie en de specificaties inzake de onderzoeks- en de certificeringsfuncties van erkende organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.789(19), eventueel als gewijzigd door de Organisatie.  </sup>  
@@ -10137,39 +10870,61 @@ CFK-115 chloorpentafluorethaan
 .3. Wanneer een aangewezen inspecteur of een erkende organisatie vaststelt dat de toestand van de uitrusting in belangrijke mate afwijkt van de gegevens vermeld op het certificaat, dient deze te verzekeren dat hierin verbetering wordt gebracht en te zijner tijd de Administratie in te lichten. Indien dergelijke verbeteringen niet worden aangebracht, wordt het certificaat door de Administratie ingetrokken. Indien het schip in een haven van een andere Partij ligt, dienen ook de bevoegde autoriteiten van de havenstaat onverwijld te worden ingelicht. Wanneer een ambtenaar van de Administratie, een aangewezen inspecteur of een erkende organisatie de bevoegde autoriteiten van de havenstaat heeft ingelicht, dient de Regering van die havenstaat deze ambtenaar, inspecteur of organisatie alle nodige hulp te verlenen om hun verplichtingen ingevolge dit voorschrift te vervullen; en  
 
 .4. In alle gevallen staat de betrokken Administratie volledig garant voor de volledigheid en doeltreffendheid van het onderzoek en dient zij te waarborgen dat de nodige maatregelen worden getroffen om aan deze verplichting te voldoen.     
-4.  De uitrusting dient te worden onderhouden in overeenstemming met het bepaalde in deze Bijlage en er mogen geen wijzigingen worden aangebracht in de uitrusting, systemen, installaties, voorzieningen of materialen waarop het onderzoek betrekking heeft gehad, zonder de uitdrukkelijke goedkeuring van de Administratie. Onmiddellijke vervanging van deze uitrusting en installaties door uitrusting en installaties die voldoen aan het bepaalde in deze Bijlage is toegestaan.   
-5.  Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.   
+4.  Schepen waarop Hoofdstuk 4 van toepassing is worden tevens onderworpen aan de onderstaande onderzoeken, rekening houdend met de door de Organisatie aangenomen richtsnoeren : <sup> 1)  Zie de Richtsnoeren voor onderzoek en certificering van de ontwerpindex voor energie-efficiëntie.  </sup> 
+
+.1. Een eerste onderzoek voordat een nieuw schip in dienst wordt gesteld en voordat het Internationaal certificaat betreffende energie-efficiëntie wordt afgegeven. Bij dit onderzoek wordt geverifieerd of de bereikte EEDI van het schip in overeenstemming is met de vereisten van Hoofdstuk 4 en dat het ingevolge voorschrift 22 vereiste SEEMP aan boord is;  
+
+.2. Een algeheel of gedeeltelijk onderzoek, al naargelang de omstandigheden, na een belangrijke wijziging van een schip waarop dit voorschrift van toepassing is. Bij het onderzoek dient gewaarborgd te worden dat de bereikte EEDI zo nodig wordt herberekend en voldoet aan het vereiste van voorschrift 21, waarbij de reductiefactor van toepassing is op het scheepstype en de omvang van het gewijzigde schip in de fase die overeenkomt met de datum van het bouwcontract of de kiellegging of oplevering die is vastgesteld voor het oorspronkelijke schip in overeenstemming met voorschrift 2.23;  
+
+.3. In gevallen waarin een belangrijke wijziging van een nieuw of bestaand schip zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip, bepaalt de Administratie of een eerste onderzoek naar de bereikte EEDI noodzakelijk is. Met een dergelijk onderzoek, indien nodig geacht, wordt gewaarborgd dat de bereikte EEDI wordt berekend en voldoet aan het vereiste van voorschrift 21, waarbij de toepasselijke reductiefactor overeenkomt met het scheepstype en de omvang van het gewijzigde schip op de datum van het contract voor de wijziging, of bij ontbreken van een contract, de datum waarop met de wijziging is begonnen. Bij het onderzoek wordt tevens geverifieerd of het ingevolge voorschrift 22 vereiste SEEMP aan boord is; en  
+
+.4. Voor bestaande schepen vindt de verificatie of het overeenkomstig voorschrift 22 vereiste SEEMP aan boord is, plaats bij het eerste tussentijdse of hernieuwde onderzoek zoals vermeld in paragraaf 1 van dit voorschrift, al naargelang hetgeen het eerst plaatsvindt, op of na 1 januari 2013.     
+5.  De uitrusting dient te worden onderhouden in overeenstemming met het bepaalde in deze Bijlage en er mogen geen wijzigingen worden aangebracht in de uitrusting, systemen, installaties, voorzieningen of materialen waarop het onderzoek betrekking heeft gehad, zonder de uitdrukkelijke goedkeuring van de Administratie. Onmiddellijke vervanging van deze uitrusting en installaties door uitrusting en installaties die voldoen aan het bepaalde in deze Bijlage is toegestaan.   
+6.  Wanneer een schip bij een ongeval betrokken raakt, of er gebreken worden geconstateerd waardoor de doelmatigheid of volledigheid van de uitrusting waarop deze Bijlage van toepassing is, wezenlijk worden beïnvloed, dient de kapitein of de eigenaar van het schip de Administratie, een aangewezen inspecteur of erkende organisatie die verantwoordelijk is voor de afgifte van het betrokken certificaat zo spoedig mogelijk in te lichten.   
 
 ### Voorschrift  6  
 
-####Afgifte van of aantekening op een certificaat
+####Afgifte van of aantekening op certificaten
+
+###Internationaal certificaat betreffende voorkoming van luchtverontreiniging
 
 1.  Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven na een eerste of hernieuwd onderzoek in overeenstemming met de bepalingen van voorschrift 5 van deze Bijlage aan: 
 
 .1. elk schip met een brutotonnage van 400 ton of meer, dat reizen maakt naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere Partijen; en  
 
 .2. platforms en boorinstallaties die reizen maken naar wateren onder de soevereiniteit of de rechtsmacht van andere Partijen.     
-2.  Aan schepen gebouwd voor de datum van inwerkingtreding van Bijlage VI voor de Administratie van die schepen dient uiterlijk op de datum van de eerstvolgende geplande droogzetting in een dok na de inwerkingtreding ervan maar in geen geval later dan drie jaar na die datum, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging in overeenstemming met het eerste lid van dit voorschrift te worden afgegeven.   
-3.  Dit certificaat wordt afgegeven of hierop wordt een aantekening gemaakt hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie. In alle gevallen aanvaardt de Administratie de volledige verantwoordelijkheid voor het certificaat.   
+2.  Aan een schip gebouwd voor de datum van inwerkingtreding van Bijlage VI voor de Administratie van het betreffende schip dient uiterlijk op de datum van de eerstvolgende geplande droogzetting in een dok na de inwerkingtreding ervan maar in geen geval later dan drie jaar na die datum, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging in overeenstemming met paragraaf 1 van dit voorschrift te worden afgegeven.   
+3.  Dit certificaat wordt afgegeven of hierop wordt een aantekening gemaakt hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie. In alle gevallen aanvaardt de Administratie de volledige verantwoordelijkheid voor het certificaat.  
+###Internationaal certificaat betreffende energie-efficiëntie
+
+4.  Een Internationaal certificaat betreffende energie-efficiëntie voor het schip wordt na een onderzoek in overeenstemming met de bepalingen van voorschrift 5.4 afgegeven aan elk schip met een brutotonnage van 400 of meer voordat dit schip reizen mag maken naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere partijen.   
+5.  Het certificaat wordt afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde organisatie. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich. <sup> 2)  Zie de Richtsnoeren voor de bevoegdverklaring van organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.739.(18), eventueel als gewijzigd door de Organisatie en de specificaties inzake de onderzoeks- en de certificeringsfuncties van erkende organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.789(19), eventueel als gewijzigd door de Organisatie.  </sup>   
 
 ### Voorschrift  7  
 
-####Afgifte van een certificaat door een andere Partij
+####Afgifte van een certificaat door een andere partij
 
-1.  Een Partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op het certificaat van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.   
+1.  Een partij kan een schip op verzoek van de Administratie doen onderzoeken en, indien te haren genoegen vaststaat dat aan de van toepassing zijnde bepalingen van deze Bijlage wordt voldaan, een Internationaal certificaat betreffende voorkoming van luchtverontreiniging of een Internationaal certificaat betreffende energie-efficiëntie aan het schip afgeven of hiervoor toestemming geven, en waar van toepassing een aantekening op dergelijke certificaten van het schip plaatsen of hiervoor toestemming geven, in overeenstemming met deze Bijlage.   
 2.  Een afschrift van het certificaat en een afschrift van het onderzoeksrapport worden zo spoedig mogelijk toegezonden aan de Administratie die het verzoek heeft gedaan.   
 3.  Een aldus afgegeven certificaat dient een verklaring te bevatten inhoudende dat het is afgegeven op verzoek van de Administratie; het heeft dezelfde waarde en wordt op dezelfde wijze erkend als een certificaat dat is afgegeven krachtens voorschrift 6 van deze Bijlage.   
-4.  Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.   
+4.  Er wordt geen Internationaal certificaat betreffende voorkoming van luchtverontreiniging of Internationaal certificaat betreffende energie-efficiëntie afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen partij is.   
 
 ### Voorschrift  8  
 
-####Model van het certificaat
+####Model van de certificaten
 
-Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.  
+###Internationaal certificaat betreffende voorkoming van luchtverontreiniging
+
+1.  Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt opgesteld overeenkomstig het model opgenomen in aanhangsel I bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van het land van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.  
+###Internationaal certificaat betreffende energie-efficiëntie
+
+2.  Het Internationaal certificaat betreffende energie-efficiëntie wordt opgesteld overeenkomstig het model opgenomen in Aanhangsel VIII bij deze Bijlage en dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van de partij van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.   
 
 ### Voorschrift  9  
 
-####Looptijd en geldigheid van het certificaat
+####Looptijd en geldigheid van de certificaten
+
+###Internationaal certificaat betreffende voorkoming van luchtverontreiniging
 
 1.  Een Internationaal certificaat betreffende voorkoming van luchtverontreiniging wordt afgegeven voor een door de Administratie vastgesteld tijdvak van ten hoogste vijf jaar.   
 2.  Niettegenstaande de vereisten van het eerste lid van dit voorschrift: 
@@ -10197,16 +10952,25 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 .2. indien op het certificaat geen aantekening is geplaatst in overeenstemming met de voorschriften 5.1.3 of 5.1.4 van deze Bijlage; en  
 
-.3. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van voorschrift 5.4 van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.     
+.3. bij overdracht van het schip onder de vlag van een andere Staat. Er mag uitsluitend een nieuw certificaat worden afgegeven wanneer de Regering die het nieuwe certificaat afgeeft er ten volle van overtuigd is dat het schip voldoet aan de eisen van voorschrift 5.4 van deze Bijlage. In het geval van een overdracht tussen Partijen zendt de Regering van de Partij wier vlag het schip voordien gerechtigd was te voeren, indien zij daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van het certificaat dat het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.    
+###Internationaal certificaat betreffende energie-efficiëntie
+
+10.  Het Internationaal certificaat betreffende energie-efficiëntie blijft gedurende de levensduur van het schip geldig, met inachtneming van de bepalingen van onderstaande paragraaf 11.   
+11.  Een ingevolge deze Bijlage afgegeven Internationaal certificaat betreffende energie-efficiëntie verliest zijn geldigheid in de volgende gevallen: 
+
+.1. indien een schip uit de vaart wordt genomen of indien een nieuw certificaat wordt afgegeven na een belangrijke wijziging van het schip; of  
+
+.2. bij overdracht van het schip onder de vlag van een andere Staat. Een nieuw certificaat wordt uitsluitend afgegeven wanneer ten genoegen van de Regering die het nieuwe certificaat afgeeft vaststaat dat het schip voldoet aan de vereisten van Hoofdstuk 4. In het geval van een overdracht tussen partijen zendt de Regering van de partij wier vlag het schip voordien gerechtigd was te voeren, indien haar daarom wordt verzocht binnen drie maanden nadat de overdracht heeft plaatsgevonden, zo spoedig mogelijk aan de Administratie afschriften van de certificaten die het schip aan boord had vóór de overdracht en, indien beschikbaar, afschriften van de desbetreffende onderzoeksrapporten.     
 
 ### Voorschrift  10  
 
-####Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord
+####Havenstaatcontrole op operationele vereisten
 
 1.  Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats onder de rechtsmacht van een andere Partij wordt geïnspecteerd door ambtenaren die door bedoelde Partij naar behoren zijn gemachtigd om te controleren of is voldaan aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord, wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële werkwijzen die aan boord dienen te worden toegepast om luchtverontreiniging door schepen te voorkomen.   
 2.  In de omstandigheden bedoeld in het eerste lid van dit voorschrift, neemt de Partij de noodzakelijke maatregelen om te verzekeren dat het schip niet uitvaart voordat de situatie in overeenstemming is gebracht met de vereisten van deze Bijlage.   
 3.  De procedures betreffende de controle door de havenstaat voorgeschreven in artikel 5 van dit Verdrag zijn van toepassing op dit voorschrift.   
 4.  Niets in dit voorschrift mag zo worden uitgelegd dat daardoor de rechten en plichten van een Partij die de uitdrukkelijk in dit Verdrag genoemde vereisten met betrekking tot de bedrijfsvoering aan boord controleert, worden beperkt.   
+5.  Met betrekking tot Hoofdstuk 4 is elke havenstaatinspectie beperkt tot het verifiëren, wanneer van toepassing, of er een geldig Internationaal certificaat betreffende energie-efficiëntie aan boord is in overeenstemming met artikel 5 van het Verdrag.   
 
 ### Voorschrift  11  
 
@@ -10219,7 +10983,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 5.  Een Partij kan een schip waarop deze Bijlage van toepassing is tevens inspecteren wanneer dit de havens of laad- of losplaatsen buitengaats onder haar rechtsmacht binnenvaart, indien een verzoek om een onderzoek van een Partij is ontvangen, tezamen met voldoende bewijsmateriaal dat het schip een van de stoffen vallend onder deze Bijlage op een plaats heeft uitgestoten in strijd met deze Bijlage. Het rapport betreffende een dergelijk onderzoek wordt toegezonden aan de Partij die om het onderzoek heeft verzocht en aan de Administratie, zodat krachtens dit Verdrag passende maatregelen kunnen worden genomen.   
 6.  De internationale wetgeving inzake de voorkoming, beperking en bestrijding van vervuiling van het mariene milieu door schepen, met inbegrip van de wetgeving inzake handhaving en voorzorgsmaatregelen die geldt op het tijdstip van toepassing of uitlegging van deze Bijlage, is van overeenkomstige toepassing op de regels en normen genoemd in deze Bijlage.   
 
-### HOOFDSTUK  III  
+### HOOFDSTUK  3  
 
 ####VEREISTEN VOOR BEHEERSING VAN EMISSIES DOOR SCHEPEN
 
@@ -10330,7 +11094,13 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 .2. een scheepsdieselmotor geïnstalleerd op een schip met een volgens het identificatieplaatje van de scheepsdieselmotor totaal voortstuwingsvermogen van minder dan 750 kW indien ten genoegen van de Administratie wordt aangetoond dat het schip vanwege de beperkingen van zijn ontwerp of constructie niet kan voldoen aan de normen vervat in lid 5.1.1 van dit voorschrift.    
 ###Gebied voor emissiebeheersing
 
-6.  Voor de toepassing van dit voorschrift wordt verstaan onder een gebied voor emissiebeheersing elk door de Organisatie volgens de criteria en procedures vervat in aanhangsel III bij deze Bijlage aangewezen zeegebied, met inbegrip van havengebieden.  
+6.  Voor de toepassing van dit voorschrift omvatten de gebieden voor emissiebeheersing: 
+
+.1. het Noord-Amerikaanse gebied, waaronder wordt verstaan het gebied aangegeven met de coördinaten vervat in Aanhangsel VII bij deze Bijlage; en  
+
+.2. het Noord-Amerikaanse Caribische Zeegebied, waaronder wordt verstaan het gebied aangegeven met de coördinaten vervat in Aanhangsel VII bij deze Bijlage; en  
+
+.3. elk ander zeegebied, met inbegrip van elk havengebied, dat door de Organisatie is aangewezen in overeenstemming met de criteria en procedures vervat in Aanhangsel III bij deze Bijlage.    
 ###Scheepsdieselmotoren geïnstalleerd op een schip gebouwd vóór 1 januari 2000
 
 7.1.  Onverminderd lid 1.1.1 van dit voorschrift dient een scheepsdieselmotor met een vermogen van meer dan 5.000 kW en een cilinderinhoud van 90 liter of meer geïnstalleerd op een schip gebouwd op of na 1 januari 1990 en vóór 1 januari 2000 te voldoen aan de emissiegrenzen vervat in lid 7.4 van dit lid, mits een goedgekeurde methode voor die motor is gecertificeerd door een Administratie van een Partij en de certificerende Administratie een kennisgeving van die certificering heeft ingediend bij de Organisatie. Voldoening aan dit lid wordt aangetoond door: 
@@ -10339,7 +11109,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 .2. certificering van de motor ter bevestiging dat deze functioneert binnen de grenzen vervat in de leden 3, 4 of 5.1.1 van dit voorschrift en correcte vermelding van de certificering van de motor op het Internationaal certificaat betreffende voorkoming van luchtverontreiniging van het schip.     
 7.2.  De bepalingen van lid 7.1 zijn tot uiterlijk het eerste hernieuwde onderzoek van toepassing dat ten minste 12 maanden na de indiening van de kennisgeving bedoeld in lid 7.1 plaatsvindt. Indien een reder van een schip waarop een goedgekeurde methode geïnstalleerd dient te worden ten genoegen van de Administratie kan aantonen dat de goedgekeurde methode ondanks redelijke pogingen tot aankoop niet op de markt verkrijgbaar was, dient deze goedgekeurde methode uiterlijk bij het volgende jaarlijkse onderzoek van het schip nadat de goedgekeurde methode op de markt beschikbaar is te worden geïnstalleerd.   
-7.3.  Ten aanzien van een schip met een scheepsdieselmotor met een vermogen van meer dan 5000 kW en een cilinderinhoud van 90 liter of meer geïnstalleerd op een schip gebouwd op of na 1 januari 1990 maar vóór 1 januari 2000 dient op het Internationaal certificaat betreffende voorkoming van luchtverontreiniging voor een scheepsdieselmotor waarop lid 7.1 van dit voorschrift van toepassing is te worden aangegeven dat hetzij een goedgekeurde methode is toegepast ingevolge lid 7.1.1 van dit voorschrift, hetzij dat de motor is gecertificeerd ingevolge lid 7.1.2 van dit voorschrift, hetzij dat een goedgekeurde methode nog niet bestaat, hetzij dat deze nog niet op de markt verkrijgbaar is zoals omschreven in lid 7.2 van dit voorschrift.   
+7.3.  Ten aanzien van scheepsdieselmotoren met een vermogen van meer dan 5000 kW en een cilinderinhoud van 90 liter of meer geïnstalleerd op schepen gebouwd op of na 1 januari 1990 maar vóór 1 januari 2000 dient op het Internationaal certificaat betreffende voorkoming van luchtverontreiniging voor scheepsdieselmotoren waarop paragraaf 7.1 van dit voorschrift van toepassing is te worden aangegeven dat hetzij een goedgekeurde methode is toegepast ingevolge paragraaf 7.1.1 van dit voorschrift, hetzij dat de motor is gecertificeerd ingevolge paragraaf 7.1.2 van dit voorschrift, hetzij dat een goedgekeurde methode nog niet bestaat, hetzij dat deze nog niet op de markt verkrijgbaar is zoals omschreven in paragraaf 7.2 van dit voorschrift.   
 7.4.  Onverminderd voorschrift 3 van deze Bijlage is het gebruik van een scheepsdieselmotor als omschreven in lid 7.1 verboden, tenzij de emissie van stikstofoxiden (berekend als de totale gewogen emissie van NO <sub>2</sub>) door de motor binnen de volgende grenzen blijft, waarbij n = nominaal toerental van de motor (krukasomwentelingen per minuut): 
 
 .1. 17,0 g/kWh wanneer n lager is dan 130 opm;  
@@ -10378,19 +11148,25 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 
 3.  Voor de toepassing van dit voorschrift omvatten de gebieden voor emissiebeheersing: 
 
-.1. het Baltische Zeegebied zoals omschreven in voorschrift 1.11.2 van Bijlage I, de Noordzee zoals omschreven in voorschrift 5.1.f van Bijlage V; en  
+.1. het Baltische Zeegebied zoals omschreven in voorschrift 1.11.2 van Bijlage I en het Noordzeegebied zoals omschreven in voorschrift 1.12.6 van Bijlage V;  
 
-.2. elk ander zeegebied, met inbegrip van havengebieden die door de Organisatie zijn aangewezen conform de criteria en procedures vervat in aanhangsel III bij deze Bijlage.     
+.2. het Noord-Amerikaanse gebied zoals aangegeven met de coördinaten vervat in Aanhangsel VII bij deze Bijlage;  
+
+.3. het Caribische Zeegebied van de Verenigde Staten zoals aangegeven met de coördinaten vervat in Aanhangsel VII bij deze Bijlage; en  
+
+.4. elk ander zeegebied, met inbegrip van elk havengebied, dat door de Organisatie is aangewezen in overeenstemming met de criteria en procedures vervat in Aanhangsel III bij deze Bijlage.     
 4.  Wanneer schepen varen binnen een gebied voor emissiebeheersing, mag het zwavelgehalte van de brandstofolie gebruikt aan boord van schepen niet hoger zijn dan: 
 
 .1. 1,5% m/m vóór 1 juli 2010;  
 
-.2. 1,0% m/m op of na 1 juli 2010; en  
+.2. 1,0% m/m op of na 1 juli 2010;  
 
-.3. 0,1% m/m op of na 1 januari 2015.     
+.3. 0,1% m/m op of na 1 januari 2015; en  
+
+.4. Vóór 1 januari 2020 is het zwavelgehalte van brandstofolie zoals bedoeld in paragraaf 4 van dit voorschrift niet van toepassing op schepen die varen in het Noord-Amerikaanse gebied of in het Caribische Zeegebied van de Verenigde Staten zoals omschreven in paragraaf 3, die gebouwd zijn op of vóór 1 augustus 2011 en die aangedreven worden door ketels voor de voortstuwing die oorspronkelijk niet ontworpen zijn om op destillaat-scheepsbrandstof of aardgas te blijven doorvaren.     
 5.  Het zwavelgehalte van brandstofolie bedoeld in het eerste en vierde lid van dit voorschrift wordt aangetoond door de leverancier ervan zoals vereist in voorschrift 18 van deze Bijlage.   
 6.  Schepen waarop afzonderlijke brandstofolie wordt gebruikt teneinde te voldoen aan het vierde lid van dit voorschrift die een gebied voor emissiebeheersing zoals voorzien in het derde lid van dit voorschrift binnenvaren of verlaten, hebben een schriftelijke procedure aan boord waaruit blijkt hoe de overschakeling tussen de soorten olie dient te verlopen, waarbij voldoende tijd is gereserveerd om de olie met een hoger zwavelgehalte dan toegestaan volgens het vierde lid van dit voorschrift volledig uit het brandstofolieservicesysteem te laten verdwijnen voordat het gebied voor emissiebeheersing wordt binnengevaren. De hoeveelheid brandstofolie met een laag zwavelgehalte in elke tank alsmede de datum en de positie van het schip op het tijdstip waarop de overschakeling naar de andere brandstofolie is voltooid alvorens een gebied voor emissiebeheersing binnen te varen of wordt begonnen na het verlaten van een dergelijk gebied worden vastgelegd in een door de Administratie voorgeschreven logboek.   
-7.  Gedurende de eerste twaalf maanden onmiddellijk na een wijziging waarbij een specifiek beheersgebied voor emissies ingevolge lid 3.2 van dit voorschrift wordt aangewezen, zijn schepen die in dat gebied voor emissiebeheersing varen vrijgesteld van de vereisten van het vierde en zesde lid van dit voorschrift alsmede van de vereisten van het vijfde lid van dit voorschrift voorzover zij betrekking hebben op het vierde lid van dit voorschrift.  
+7.  Gedurende de eerste twaalf maanden onmiddellijk na de inwerkingtreding van een wijziging waarbij een specifiek gebied voor emissiebeheersing ingevolge paragraaf 3 van dit voorschrift wordt aangewezen, zijn schepen die in dat gebied voor emissiebeheersing varen vrijgesteld van de vereisten van de paragrafen 4 en 6 van dit voorschrift alsmede van de vereisten van paragraaf 5 van dit voorschrift voor zover zij betrekking hebben op paragraaf 4 van dit voorschrift. <sup> 1)  De in paragraaf 7 voorziene vrijstellingstermijn van 12 maanden is tot 1 augustus 2012 van toepassing op het Noord-Amerikaanse gebied voor emissiebeheersing.   De in paragraaf 7 voorziene vrijstellingstermijn van 12 maanden is tot 1 januari 2014 van toepassing op het Caribische Zeegebied van de Verenigde Staten voor emissiebeheersing.  </sup>  
 ###Toetsing
 
 8.  In 2018 dient de toetsing van de norm vervat in lid 1.3 van dit voorschrift te zijn afgerond om de beschikbaarheid van brandstofolie vast te stellen waarmee voldaan wordt aan de in dat lid vervatte brandstofolienormen; hierbij dienen de volgende elementen in aanmerking te worden genomen: 
@@ -10465,6 +11241,13 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 .2. behoefte van schepen die gebruikmaken van haar havens, laad- en losplaatsen of reparatiehavens aan de ontvangst van residuen van uitlaatgasreinigingssystemen uit een uitlaatgasreinigingssysteem, zonder onnodige vertraging te veroorzaken voor schepen; en  
 
 .3. behoefte van scheepssloopinrichtingen aan de ontvangst van ozonafbrekende stoffen en uitrusting die dergelijke stoffen bevat en die van schepen worden verwijderd.     
+1bis.  Kleine eilandstaten in ontwikkeling kunnen met behulp van regionale regelingen voldoen aan de vereisten van het eerste lid van dit voorschrift, indien dergelijke regelingen de enige praktische manier zijn om aan deze vereisten te voldoen vanwege de unieke omstandigheden van die staten. Partijen die deelnemen aan een regionale regeling moeten een regionaal plan voor ontvangstfaciliteiten opstellen waarbij rekening wordt gehouden met de door de Organisatie opgestelde richtlijnen. De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organisatie, ten behoeve van het rondsturen aan Partijen bij dit Verdrag, over: 
+
+.1 de wijze waarop in het regionale plan voor ontvangstfaciliteiten rekening wordt gehouden met de richtlijnen;  
+
+.2 bijzonderheden van de aangewezen regionale ontvangstfaciliteiten voor afval van schepen; en  
+
+.3 bijzonderheden van havens met beperkte voorzieningen.     
 2.  Indien een specifieke haven of laad- of losplaats van een Partij – rekening houdend met de door de Organisatie op te stellen richtlijnen – ver afgelegen is van de industriële infrastructuur noodzakelijk voor het beheer en behandelen van de stoffen bedoeld in het eerste lid van dit voorschrift of deze ontbeert en dergelijke stoffen daarom niet in ontvangst kan nemen, stelt de Partij de Organisatie daarvan in kennis zodat deze informatie ter kennisgeving aan alle Partijen en lidstaten van de Organisatie kan worden toegezonden ten behoeve van passende maatregelen. Elke Partij die de Organisatie dergelijke informatie heeft doen toekomen stelt de Organisatie tevens in kennis van haar havens en laad- en losplaatsen waar wel ontvangstvoorzieningen aanwezig zijn voor het beheer en behandelen van dergelijke stoffen.   
 3.  Elke Partij stelt de Organisatie ter mededeling aan de leden van de Organisatie in kennis van alle gevallen waarin de desbetreffende voorzieningen niet beschikbaar zijn of als ontoereikend worden aangemerkt.   
 
@@ -10542,6 +11325,105 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 .2. te verzekeren dat passende herstelmaatregelen worden getroffen om brandstofolie waarvan ontdekt is dat deze niet aan de vereisten voldoet alsnog daaraan te laten voldoen.     
 11.  Voor elk schip met een brutotonnage van 400 ton of meer met geplande reizen waarbij frequent en regelmatig havens worden binnengelopen kan een Administratie op verzoek van en in overleg met de desbetreffende Staten besluiten dat op een alternatieve wijze aan het zesde lid van dit voorschrift kan worden voldaan, indien deze leidt tot dezelfde zekerheid omtrent het voldoen aan de voorschriften 14 en 18 van deze Bijlage.   
 
+### HOOFDSTUK  4  
+
+####VOORSCHRIFTEN INZAKE ENERGIE-EFFICIËNTIE VOOR SCHEPEN
+
+### Voorschrift  19  
+
+####Toepassing
+
+1.  Dit Hoofdstuk is van toepassing op alle schepen met een brutotonnage van 400 of meer.   
+2.  De bepalingen van dit Hoofdstuk zijn niet van toepassing op: 
+
+.1. schepen die uitsluitend reizen maken in wateren die vallen onder de soevereiniteit of rechtsmacht van de Staat wiens vlag het schip gerechtigd is te voeren. Elke partij dient evenwel door het aannemen van passende maatregelen te waarborgen dat dergelijke schepen worden gebouwd en geëxploiteerd op een wijze die verenigbaar is met Hoofdstuk 4, voor zover dat redelijk en praktisch uitvoerbaar is.     
+3.  Voorschrift 20 en voorschrift 21 zijn niet van toepassing op schepen met diesel-elektrische voortstuwing, een voorstuwingssysteem met turbines of hybride voortstuwing.   
+4.  Niettegenstaande de bepalingen van paragraaf 1 van dit voorschrift, kan de Administratie ontheffing verlenen van de vereisten van voorschrift 20 en voorschrift 21 voor een schip met een brutotonnage van 400 of meer.   
+5.  De bepalingen van paragraaf 4 van dit voorschrift zijn niet van toepassing op schepen met een brutotonnage van 400 ton of meer: 
+
+.1. waarvoor het bouwcontract is afgesloten op of na 1 januari 2017; of  
+
+.2. waarvan, bij ontbreken van een bouwcontract, de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 juli 2017; of  
+
+.3. waarvan de oplevering plaatsvindt op of na 1 juli 2019; of  
+
+.4. in geval van een belangrijke wijziging van een nieuw of bestaand schip, zoals omschreven in voorschrift 2.24, op of na 1 januari 2017, en waarbij voorschrift 5.4.2 en voorschrift 5.4.3 van Hoofdstuk 2 van toepassing zijn.     
+6.  De Administratie van een partij bij dit Verdrag die toepassing van paragraaf 4 toestaat, of de toepassing van deze paragraaf opschort, intrekt of afwijst, met betrekking tot een schip dat gerechtigd is haar vlag te voeren, doet de Organisatie onverwijld de bijzonderheden daarvan toekomen voor toezending aan de partijen bij dit Protocol ter kennisneming.   
+
+### Voorschrift  20  
+
+####Bereikte ontwerpindex voor energie-efficiëntie (Bereikte EEDI)
+
+1.  De bereikte EEDI wordt berekend voor: 
+
+.1. elk nieuw schip;  
+
+.2. elk nieuw schip dat een belangrijke wijziging heeft ondergaan; en  
+
+.3. elk nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.35 valt. De bereikte EEDI dient voor elk afzonderlijk schip te worden berekend en dient te vermelden wat de geschatte prestatie van het schip is in termen van energie-efficiëntie, en dient vergezeld te gaan van het technisch dossier bij de EEDI waarin de informatie staat die nodig is voor het berekenen van de bereikte EEDI alsmede de uitgevoerde berekening zelf. De bereikte EEDI dient te worden geverifieerd, aan de hand van het technisch dossier bij de EEDI, hetzij door de Administratie of hetzij door een door haar naar behoren gemachtigde organisatie . <sup> 3)  Zie de Richtsnoeren voor de bevoegdverklaring van organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.739.(18), eventueel als gewijzigd door de Organisatie en de specificaties inzake de onderzoeks- en de certificeringsfuncties van erkende organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.789(19), eventueel als gewijzigd door de Organisatie.  </sup>     
+2.  De bereikte EEDI wordt berekend met inachtneming van de door de Organisatie ontwikkelde richtsnoeren . <sup> 4)  Richtsnoeren inzake de wijze van berekening van de Ontwerpindex voor energie-efficiëntie voor nieuwe schepen.  </sup>   
+
+### Voorschrift  21  
+
+####Vereiste EEDI
+
+1.  Voor elk: 
+
+.1. nieuw schip;  
+
+.2. nieuw schip dat een belangrijke wijziging heeft ondergaan; en  
+
+.3. nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip   dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.35 valt en waarop dit Hoofdstuk van toepassing is, dient de bereikte EEDI als volgt te zijn: Bereikte EEDI ≤ Vereiste EEDI = (1-X/100) × waarde referentielijn waarbij X de in tabel 1 vermelde reductiefactor is voor de vereiste EEDI ten opzichte van de EEDI-referentielijn.   
+2.  Voor elk nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip, wordt de bereikte EEDI berekend en dient deze te voldoen aan het vereiste van paragraaf 21.1, waarbij de reductiefactor van toepassing is op het scheepstype en de omvang van het gewijzigde schip op de datum van het contract voor de wijziging of bij ontbreken van een contract, de datum waarop met de wijziging is begonnen.  Tabel 1. Reductiefactoren (percentage) voor de EEDI ten opzichte van de EEDI-referentielijn 
+
+|  *Scheepstype*   | Omvang  | Fase 0  1 jan 2013 – 31 dec 2014  | Fase 1  1 jan 2015 – 31 dec 2019  | Fase 2  1 jan 2020 – 31 dec 2024  | Fase 3  1 jan 2025 en daarna  |
+|---|---|---|---|---|---|
+| Bulkcarrier  | 20.000 ton draagvermogen en hoger  | 0  | 10  | 20  | 30  |
+| 10.000 – 20.000 ton draagvermogen  | n.v.t.  | 0–10 <sup>1)</sup>  | 0–20 <sup>1)</sup>  | 0–30 <sup>1)</sup>  |
+| Gastanker  | 10.000 ton draagvermogen en hoger  | 0  | 10  | 20  | 30  |
+| 2.000 – 10.000 ton draagvermogen  | n.v.t.  | 0–10 <sup>1)</sup>  | 0–20 <sup>1)</sup>  | 0–30 <sup>1)</sup>  |
+| Tankschip  | 20.000 ton draagvermogen en hoger  | 0  | 10  | 20  | 30  |
+| 4.000 – 20.000 ton draagvermogen  | n.v.t.  | 0–10 <sup>1)</sup>  | 0–20 <sup>1)</sup>  | 0–30 <sup>1)</sup>  |
+| Containerschip  | 15.000 ton draagvermogen en hoger  | 0  | 10  | 20  | 30  |
+| 10.000 – 15.000 ton draagvermogen  | n.v.t.  | 0–10 <sup>1)</sup>  | 0–20 <sup>1)</sup>  | 0–30 <sup>1)</sup>  |
+| Algemeen vrachtschip  | 15.000 ton draagvermogen en hoger  | 0  | 10  | 15  | 30  |
+| 3.000 – 15.000 ton draagvermogen  | n.v.t.  | 0–10 <sup>1)</sup>  | 0–15 <sup>1)</sup>  | 0–30 <sup>1)</sup>  |
+| Koelschip  | 5.000 ton draagvermogen en hoger  | 0  | 10  | 15  | 30  |
+| 3.000 – 5.000 ton draagvermogen  | n.v.t.  | 0–10 <sup>1)</sup>  | 0–15 <sup>1)</sup>  | 0–30 <sup>1)</sup>  |
+| Combinatietanker  | 20.000 ton draagvermogen en hoger  | 0  | 10  | 20  | 30  |
+| 4.000 – 20.000 ton draagvermogen  | n.v.t.  | 0–10 <sup>1)</sup>  | 0–20 <sup>1)</sup>  | 0–30 <sup>1)</sup>  |
+
+<sup>1)</sup> De reductiefactor dient lineair te worden geïnterpoleerd tussen de twee waarden, afhankelijk van de omvang van het schip. De laagste waarde van de reductiefactor dient te worden toegepast op het schip met de kleinste omvang. n.v.t. betekent dat er geen vereiste EEDI van toepassing is.   
+3.  De waarden van de referentielijn dienen als volgt te worden berekend: Waarde referentielijn = a ×b <sup>-c</sup> waarbij a, b en c de in tabel 2 gegeven parameters zijn.  Tabel 2. Parameters voor het bepalen van de referentiewaarden voor de verschillende scheepstypen. 
+
+|  *Scheepstype omschreven in voorschrift 2*   |  *a*   |  *b*   |  *c*   |
+|---|---|---|---|
+| 2.25 Bulkcarrier  | 961,79  | draagvermogen van het schip  | 0,477  |
+| 2.26 Gastanker  | 1120,00  | draagvermogen van het schip  | 0,456  |
+| 2.27 Tankschip  | 1218,80  | draagvermogen van het schip  | 0,488  |
+| 2.28 Containerschip  | 174,22  | draagvermogen van het schip  | 0,201  |
+| 2.29 Algemeen vrachtschip  | 107,48  | draagvermogen van het schip  | 0,216  |
+| 2.30 Koelschip  | 227,01  | draagvermogen van het schip  | 0,244  |
+| 2.31 Combinatietanker  | 1219,00  | draagvermogen van het schip  | 0,488  |
+
+4.  Indien het ontwerp van het schip zodanig is dat het onder meer dan een van de hierboven omschreven scheepstypen kan vallen, dan is de vereiste EEDI voor het schip de strengste (laagste) vereiste EEDI.   
+5.  Bij elk schip waarop dit voorschrift van toepassing is, mag het geïnstalleerde voortstuwingsvermogen niet minder zijn dan het voortstuwingsvermogen dat nodig is om de manoeuvreerbaarheid van het schip onder slechte omstandigheden, zoals omschreven in de door de Organisatie te ontwikkelen richtsnoeren, te handhaven.   
+6.  Bij aanvang van fase 1 en halverwege fase 2 toetst de Organisatie de status van de technologische ontwikkelingen en past, wanneer dat nodig blijkt, de in dit voorschrift voorziene termijnen, parameters voor de EEDI-referentielijn voor relevante scheepstypen en reductiepercentages aan.   
+
+### Voorschrift  22  
+
+####Energie-efficiëntiemanagementplan van het schip (SEEMP)
+
+1.  Elk schip dient een op het schip van toepassing zijnd energie-efficiëntiemanagementplan (SEEMP) aan boord te hebben. Dit kan onderdeel vormen van het veiligheidsbeleidssysteem (SMS) van het schip.   
+2.  Het SEEMP moet worden ontwikkeld met inachtneming van de door de Organisatie aangenomen richtsnoeren.   
+
+### Voorschrift  23  
+
+####Bevordering van technische samenwerking en overdracht van technologie met betrekking tot het verbeteren van de energie-efficiëntie van schepen
+
+1.  In samenwerking met de Organisatie en andere internationale organen bevorderen en verstrekken Administraties, al naargelang van toepassing, rechtstreeks of via de Organisatie rechtstreekse steun aan Staten, met name Staten in ontwikkeling, die om technische bijstand verzoeken.   
+2.  De Administratie van een partij werkt actief samen met andere partijen, met inachtneming van haar nationale wet- en regelgeving en beleid, om de ontwikkeling en overdracht van technologie te bevorderen en informatie uit te wisselen met Staten die om technische bijstand verzoeken, met name Staten in ontwikkeling, met betrekking tot de implementatie van maatregelen om aan de vereisten van Hoofdstuk 4 van deze Bijlage te voldoen, met name voorschriften 19.4 tot en met 19.6.   
+
 ### Aanhangsel  I  
 
 ####Model van een Internationaal certificaat betreffende voorkoming van luchtverontreiniging (IAPP) (Voorschrift 8)
@@ -10551,7 +11433,7 @@ Het Internationaal certificaat betreffende voorkoming van luchtverontreiniging w
 Afgegeven krachtens de bepalingen van het Protocol van 1997, zoals in 2008 gewijzigd bij resolutie MEPC.xx(58), tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij (hierna te noemen „het Verdrag”) namens de Regering van:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | .....  |
 | --- | --- |
 |  *(volledige officiële aanduiding van het land)*   |
@@ -10567,7 +11449,7 @@ Afgegeven krachtens de bepalingen van het Protocol van 1997, zoals in 2008 gewij
 2. Dat uit het onderzoek is gebleken dat de uitrusting, systemen, installaties, middelen en materialen volledig voldoen aan de van toepassing zijnde vereisten van Bijlage VI bij het Verdrag.   Datum van voltooiing van het onderzoek waarop dit certificaat gebaseerd is: ..... (dd/mm/jjjj) Dit certificaat is geldig tot .....* afhankelijk van onderzoeken in overeenstemming met voorschrift 5 van Bijlage VI bij het Verdrag.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te  | .....  |
 | --- | --- |
 |  *(Plaats van afgifte van het certificaat)*   |
@@ -10583,7 +11465,7 @@ Afgegeven krachtens de bepalingen van het Protocol van 1997, zoals in 2008 gewij
 HIERBIJ WORDT VERKLAARD dat bij een onderzoek zoals vereist door voorschrift 5 van Bijlage VI bij het Verdrag werd geconstateerd dat het schip voldoet aan de daarop van toepassing zijnde bepalingen van die Bijlage:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend .....  |
 |  *.....*   |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10593,7 +11475,7 @@ HIERBIJ WORDT VERKLAARD dat bij een onderzoek zoals vereist door voorschrift 5 v
 |  *(zegel of stempel van de autoriteit, naar gelang wat van toepassing is)*   |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/tussentijds* onderzoek:  | Getekend .....  |
 |  *.....*   |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10605,7 +11487,7 @@ HIERBIJ WORDT VERKLAARD dat bij een onderzoek zoals vereist door voorschrift 5 v
 * Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks/tussentijds* onderzoek:  | Getekend .....  |
 |  *.....*   |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10617,7 +11499,7 @@ HIERBIJ WORDT VERKLAARD dat bij een onderzoek zoals vereist door voorschrift 5 v
 * Doorhalen wat niet van toepassing is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Jaarlijks onderzoek:  | Getekend .....  |
 |  *.....*   |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10626,12 +11508,12 @@ HIERBIJ WORDT VERKLAARD dat bij een onderzoek zoals vereist door voorschrift 5 v
 | --- | --- |
 |  *(zegel of stempel van de autoriteit, naar gelang wat van toepassing is)*   |
 
-###Jaarlijks/tussentijds onderzoek in overeenstemming met voorschrift 9.8.3
+###Jaarlijks/tussentijds onderzoek in overeenstemming met voorschrift 9.8.3 
 
 HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/tussentijds* onderzoek in overeenstemming met voorschrift 9.8.3 van Bijlage VI bij het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende bepalingen van die Bijlage:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend .....  |
 | --- |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10641,12 +11523,12 @@ HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/tussentijds* onderzoek in overeens
 |  *(zegel of stempel van de autoriteit, naar gelang wat van toepassing is)*   |
 
 * Doorhalen wat niet van toepassing is. 
-###Aantekening tot verlenging van het certificaat indien het korter dan 5 jaar geldig is en voorschrift 9.3 van toepassing is
+###Aantekening tot verlenging van het certificaat indien het korter dan 5 jaar geldig is en voorschrift 9.3  van toepassing is
 
 Het schip voldoet aan de desbetreffende bepalingen van de Bijlage en dit certificaat wordt in overeenstemming met voorschrift 9.3 van Bijlage VI bij het Verdrag aanvaard als geldig tot (dd/mm/jjjj): .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend .....  |
 | --- |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10655,12 +11537,12 @@ Het schip voldoet aan de desbetreffende bepalingen van de Bijlage en dit certifi
 | --- | --- |
 |  *(zegel of stempel van de autoriteit, naar gelang wat van toepassing is)*   |
 
-###Aantekening dat het hernieuwde onderzoek is voltooid en voorschrift 9.4 van toepassing is
+###Aantekening dat het hernieuwde onderzoek is voltooid en voorschrift 9.4  van toepassing is
 
 Het schip voldoet aan de desbetreffende bepalingen van de Bijlage en dit certificaat wordt in overeenstemming met voorschrift 9.4 van Bijlage VI bij het Verdrag aanvaard als geldig tot (dd/mm/jjjj): .....  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend .....  |
 | --- |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10669,12 +11551,12 @@ Het schip voldoet aan de desbetreffende bepalingen van de Bijlage en dit certifi
 | --- | --- |
 |  *(zegel of stempel van de autoriteit, naar gelang wat van toepassing is)*   |
 
-###Aantekening tot verlenging van de geldigheid van het certificaat totdat de haven van onderzoek wordt aangedaan of voor uitstel indien voorschrift 9.5 of 9.6 van toepassing is
+###Aantekening tot verlenging van de geldigheid van het certificaat totdat de haven van onderzoek wordt aangedaan of voor uitstel indien voorschrift 9.5 of 9.6  van toepassing is
 
 Dit certificaat wordt in overeenstemming met voorschrift 9.5 of 9.6* van Bijlage VI bij het Verdrag aanvaard als geldig tot ..... (dd/mm/jjjj)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend .....  |
 | --- |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10684,12 +11566,12 @@ Dit certificaat wordt in overeenstemming met voorschrift 9.5 of 9.6* van Bijlage
 |  *(zegel of stempel van de autoriteit, naar gelang wat van toepassing is)*   |
 
 * Doorhalen wat niet van toepassing is. 
-###Aantekening tot verschuiving van de verjaardatum indien voorschrift 9.8 van toepassing is
+###Aantekening tot verschuiving van de verjaardatum indien voorschrift 9.8  van toepassing is
 
 In overeenstemming met voorschrift 9.8 van Bijlage VI bij het Verdrag wordt de nieuwe verjaardatum: ..... (dd/mm/jjjj)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend .....  |
 | --- |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10701,7 +11583,7 @@ In overeenstemming met voorschrift 9.8 van Bijlage VI bij het Verdrag wordt de n
 In overeenstemming met voorschrift 9.8 van Bijlage VI bij het Verdrag wordt de nieuwe verjaardatum: ..... (dd/mm/jjjj)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Getekend .....  |
 | --- |  *(handtekening van bevoegde ambtenaar)*   |
 | --- | --- |
@@ -10733,26 +11615,26 @@ VERSLAG VAN BOUW EN UITRUSTING
 1.4. Lengte (L) <sup>#</sup> meters .....   <sup>#</sup> Uitsluitend in te vullen voor schepen gebouwd op of na 1 januari 2016 die specifiek zijn gebouwd en uitsluitend worden gebruikt voor recreatiedoeleinden en waarop overeenkomstig voorschrift 13.5.2.1 de NO <sub>x</sub> -emissiegrenswaarde vervat in voorschrift 13.5.1.1 niet van toepassing is. 
 ### *2. Beheersing van emissies door schepen* 
 
-2.1.  *Ozonafbrekende stoffen (voorschrift 12)*  
+2.1. *Ozonafbrekende stoffen* (voorschrift 12) 
 
 2.1.1. De volgende brandblussystemen en overige systemen en uitrusting die ozonafbrekende stoffen, niet zijnde hydrochloorfluorkoolwaterstoffen, bevatten en geïnstalleerd vóór 19 mei 2005, mogen in bedrijf blijven:  
 
 |  *Systeem of uitrusting*   |  *Locatie aan boord*   |  *Stof*   |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 
 2.1.2. De volgende systemen die hydrochloorfluorkoolwaterstoffen (HCFK's) bevatten en geïnstalleerd zijn vóór 1 januari 2020 mogen in bedrijf blijven:  
 
 |  *Systeem of uitrusting*   |  *Locatie aan boord*   |  *Stof*   |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 
-2.2.  *Stikstofoxiden (NO <sub>x</sub>) (voorschrift 13)*  
+2.2. *Stikstofoxiden (NO <sub>x</sub>)* (voorschrift 13) 
 
 2.2.1. De volgende op dit schip geïnstalleerde scheepsdieselmotoren voldoen aan de van toepassing zijnde emissiegrenswaarde van voorschrift 13 overeenkomstig de herziene NO <sub>x</sub> Technische Code 2008:  
 
 |--- |  *Motor #1*   |  *Motor #2*   |  *Motor #3*   |  *Motor #4*   |  *Motor #5*   |  *Motor #6*   |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 |  *Producent en model*   | --- | --- | --- | --- | --- | --- |
 |  *Serienummer*   | --- | --- | --- | --- | --- | --- |
 |  *Gebruik*   | --- | --- | --- | --- | --- | --- |
@@ -10770,15 +11652,41 @@ VERSLAG VAN BOUW EN UITRUSTING
 |  *Goedgekeurde methode niet op de markt verkrijgbaar*   | □  | □  | □  | □  | □  | □  |
 |  *Goedgekeurde methode geïnstalleerd*   | □  | □  | □  | □  | □  | □  |
 
-2.3.  *Zwaveloxiden (SO <sub>x</sub>) en fijnstof (voorschrift 14)*  
+2.3. *Zwaveloxiden (SO <sub>x</sub>) en fijnstof* (voorschrift 14) 
 
-2.3.1. Indien het schip vaart binnen een gebied voor emissiebeheersing zoals aangeduid in voorschrift 14.3, gebruikt het schip: 
+2.3.1. Indien het schip vaart buiten een gebied voor emissiebeheersing zoals aangeduid in voorschrift 14.3, gebruikt het schip: 
 
-.1. brandstofolie met een zwavelgehalte van ten hoogste de van toepassing zijnde grenswaarde als aangetoond door middel van bunkerafleveringsbonnen; of ..... □  
+.1. brandstofolie met een zwavelgehalte als aangetoond door middel van bunkerafleveringsbonnen die ten hoogste de grenswaarde bedraagt van: 
 
-.2. een gelijkwaardige brandstof goedgekeurd in overeenstemming met voorschrift 4.1 zoals vermeld in 2.6 □      
+* 4,50% m/m (niet van toepassing op of na 1 januari 2012); of ...... □  
 
-2.4.  *Vluchtige organische stoffen (VOS) (voorschrift 15)*  
+* 3,50% m/m (niet van toepassing op of na 1 januari 2020); of ...... □  
+
+* 0,50% m/m, en/of ...... □    
+
+.2. een gelijkwaardige voorziening goedgekeurd in overeenstemming met voorschrift 4.1 zoals vermeld in 2.6 die ten minste even doeltreffend is wat betreft de reductie van de emissie van SO <sub>x</sub> ten opzichte van het gebruik van een brandstofolie met een zwavelgehalte met een grenswaarde van: 
+
+* 4,50% m/m (niet van toepassing op of na 1 januari 2012); of ...... □  
+
+* 3,50% m/m (niet van toepassing op of na 1 januari 2020); of ...... □  
+
+* 0,50% m/m ...... □      
+
+2.3.2. Indien het schip vaart binnen een gebied voor emissiebeheersing zoals aangeduid in voorschrift 14.3, gebruikt het schip: 
+
+.1. brandstofolie met een zwavelgehalte als aangetoond door middel van bunkerafleveringsbonnen die ten hoogste de grenswaarde bedraagt van: 
+
+* 1,00% m/m (niet van toepassing op of na 1 januari 2015); of ...... □  
+
+* 0,10% m/m, en/of ...... □    
+
+.2. een gelijkwaardige voorziening goedgekeurd in overeenstemming met voorschrift 4.1 zoals vermeld in 2.6 die ten minste even doeltreffend is wat betreft de reductie van de emissie van SO <sub>x</sub> ten opzichte van het gebruik van een brandstofolie met een zwavelgehalte met een grenswaarde van: 
+
+* 1,00% m/m (niet van toepassing op of na 1 januari 2015); of ...... □  
+
+* 0,10% m/m ...... □        
+
+2.4. *Vluchtige organische stoffen (VOS)* (voorschrift 15) 
 
 2.4.1. Op het tankschip is een dampopvangsysteem geïnstalleerd dat is goedgekeurd in overeenstemming met MSC/Circ. 585 ..... □ 
 
@@ -10786,7 +11694,7 @@ VERSLAG VAN BOUW EN UITRUSTING
 
 2.4.2.2. Referentienummer goedkeuring VOS-beheersplan: .....      
 
-2.5.  *Verbranding aan boord (voorschrift 16)*  Op het schip is een verbrandingsinstallatie: 
+2.5. *Verbranding aan boord* (voorschrift 16) Op het schip is een verbrandingsinstallatie: 
 
 .1. geïnstalleerd op of na 1 januari 2000 die voldoet aan resolutie MEPC.76(40) zoals gewijzigd □  
 
@@ -10796,16 +11704,16 @@ VERSLAG VAN BOUW EN UITRUSTING
 
 .2.1. resolutie MEPC.76(40) ..... □      
 
-2.6.  *Gelijkwaardige voorzieningen (voorschrift 4)*  Voor het schip is toestemming verkregen voor het installeren en gebruiken van de volgende installaties, materialen, middelen of toestellen of andere procedures, alternatieve brandstofolie of andere methodes dan vereist volgens deze Bijlage:  
+2.6. *Gelijkwaardige voorzieningen* (voorschrift 4) Voor het schip is toestemming verkregen voor het installeren en gebruiken van de volgende installaties, materialen, middelen of toestellen of andere procedures, alternatieve brandstofolie of andere methodes dan vereist volgens deze Bijlage:  
 
 |  *Systeem of uitrusting*   |  *Gebruikte gelijkwaardige voorziening*   |  *Referentienummer goedkeuring*   |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 
 HIERBIJ WORDT VERKLAARD dat dit verslag in alle opzichten correct is.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Afgegeven te  | .....  |
 |  *(plaats van afgifte van het verslag)*   |
 | --- | --- |
@@ -10832,32 +11740,32 @@ De volgende testcycli en wegingsfactoren dienen te worden gehanteerd om te verif
 .5. Voor hulpmotoren met variabele snelheid en variabele belasting die niet bij de bovenstaande categorieën zijn inbegrepen, dient testcyclus C1 te worden uitgevoerd.   Testcyclus voor *hoofdvoortstuwingsinstallaties met een constant toerental* (met inbegrip van diesel-elektrische aandrijving en alle schroefinstallaties met verstelbare spoed)  
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Testcyclus type E2  | Toerental  | 100%  | 100%  | 100%  | 100%  |
 | Vermogen  | 100%  | 75%  | 50%  | 25%  |
-| Wegingsfac-tor  | 0,2  | 0,5  | 0,15  | 0,15  |
+| Wegingsfactor  | 0,2  | 0,5  | 0,15  | 0,15  |
 
 Testcyclus voor *hoofdmotoren* en *hulpmotoren die volgens de schroefwet worden aangedreven*  
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Testcyclus type E3  | Toerental  | 100%  | 91%  | 80%  | 63%  |
 | Vermogen  | 100%  | 75%  | 50%  | 25%  |
-| Wegingsfac-tor  | 0,2  | 0,5  | 0,15  | 0,15  |
+| Wegingsfactor  | 0,2  | 0,5  | 0,15  | 0,15  |
 
 Testcyclus voor toepassing op *hulpmotoren met constant toerental*  
 
 | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | Testcyclus type D2  | Toerental  | 100%  | 100%  | 100%  | 100%  | 100%  |
 | Vermogen  | 100%  | 75%  | 50%  | 25%  | 10%  |
-| Wegingsfac-tor  | 0,05  | 0,25  | 0,3  | 0,3  | 0,1  |
+| Wegingsfactor  | 0,05  | 0,25  | 0,3  | 0,3  | 0,1  |
 
 Testcyclus voor *hulpmotoren met variabele snelheid en belasting*  
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| Testcyclus type C1  | Toerental  | Nominaal  | Tussentoerental  | Stati-onair  |
+|---|---|---|---|---|---|---|---|---|---|
+| Testcyclus type C1  | Toerental  | Nominaal  | Tussentoerental  | Stationair  |
 | Koppel  | 100%  | 75%  | 50%  | 10%  | 100%  | 75%  | 50%  | 0%  |
 | Wegingsfactor  | 0,15  | 0,15  | 0,15  | 0,1  | 0,1  | 0,1  | 0,1  | 0,15  |
 
@@ -10932,13 +11840,13 @@ In het geval van een overeenkomstig lid 5.1.1 van voorschrift 13 te certificeren
 1. Voor verbrandingsinstallaties aan boord als beschreven in voorschrift 16.6.1 dient voor iedere verbrandingsinstallatie een IMO-certificaat voor typegoedkeuring aanwezig te zijn. Teneinde een dergelijk certificaat te verkrijgen, dient de verbrandingsinstallatie te zijn ontworpen en gebouwd volgens een goedgekeurde norm zoals beschreven in voorschrift 16.6.1. Ieder model dient te worden onderworpen aan een gespecificeerde testprocedure voor typegoedkeuring in de fabriek of in een goedgekeurde testvoorziening onder de verantwoordelijkheid van de Administratie, waarbij gebruik wordt gemaakt van de volgende standaard brandstof/afvalspecificatie voor de typegoedkeuringstest om te bepalen of de verbrandingsinstallatie functioneert binnen de in het tweede lid van dit aanhangsel gespecificeerde grenzen:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Oliehoudend slik bestaande uit:  | 75% oliehoudend slik van zware olie;  |
 | --- | 5% afgewerkte smeerolie; en  |
 | --- | 20% geëmulgeerd water.  |
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Vaste afvalstoffen bestaande uit:  | 50% voedselresten;  |
 | --- | 50% afval, bestaande uit:  |
 | --- | ongeveer  | 30% papier  |
@@ -10950,7 +11858,7 @@ In het geval van een overeenkomstig lid 5.1.1 van voorschrift 13 te certificeren
 2. Verbrandingsinstallatie aan boord zoals beschreven in voorschrift 16.6.1 dienen te functioneren binnen de volgende grenzen:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | O <sub>2</sub> in verbrandingskamer:  | 6 – 12%  |
 | CO in rookgas gemiddeld maximaal:  | 200 mg/MJ  |
 | roetgetal gemiddeld maximaal:  | bacharach 3 of ringelman 1 (20% opaciteit)  (Uitsluitend gedurende zeer korte periodes, bijvoorbeeld bij opstarten, is een hoger roetgetal toegestaan).  |
@@ -11031,4 +11939,509 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 .2. Indien het resultaat „Y” hoger is dan de conform Bijlage VI toepasselijke grenswaarde, voldoet de brandstofolie niet aan de normen van Bijlage VI.     
 3.5.  Indien de resultaten „A”, „B”, „C” en „D” niet binnen de reproduceerbaarheid (R) van de testmethode blijven, kan de Administratie alle testresultaten vernietigen en, naar eigen inzicht, besluiten de volledige testprocedure te herhalen.   
 3.6.  De met de verificatieprocedure verkregen resultaten zijn definitief.   
+
+### Aanhangsel  VII  
+
+####Gebieden voor emissiebeheersing (Voorschriften 13.6  en 14.3 )
+
+.1. De grenzen van de gebieden voor emissiebeheersing die zijn aangewezen ingevolge de voorschriften 13.6 en 14.3, anders dan de Baltische Zee en de Noordzeegebieden, zijn vervat in dit Aanhangsel.  
+
+.2. Het Noord-Amerikaanse gebied bestaat uit: 
+
+.1. het zeegebied ter hoogte van de Pacifische kusten van de Verenigde Staten en Canada dat ligt binnen de geodetische lijnen die de volgende coördinaten verbinden:  
+
+|  *PUNT*   |  *BREEDTEGRAAD*   |  *LENGTEGRAAD*   |
+|---|---|---|
+| 1  | 32º 32’ 10” Noorderbreedte  | 117º 06’ 11” Westerlengte  |
+| 2  | 32º 32’ 04” Noorderbreedte  | 117º 07’ 29” Westerlengte  |
+| 3  | 32º 31’ 39” Noorderbreedte  | 117º 14’ 20” Westerlengte  |
+| 4  | 32º 33’ 13” Noorderbreedte  | 117º 15’ 50” Westerlengte  |
+| 5  | 32º 34’ 21” Noorderbreedte  | 117º 22’ 01” Westerlengte  |
+| 6  | 32º 35’ 23” Noorderbreedte  | 117º 27’ 53” Westerlengte  |
+| 7  | 32º 37’ 38” Noorderbreedte  | 117º 49’ 34” Westerlengte  |
+| 8  | 31º 07’ 59” Noorderbreedte  | 118º 36’ 21” Westerlengte  |
+| 9  | 30º 33’ 25” Noorderbreedte  | 121º 47’ 29” Westerlengte  |
+| 10  | 31º 46’ 11” Noorderbreedte  | 123º 17’ 22” Westerlengte  |
+| 11  | 32º 21’ 58” Noorderbreedte  | 123º 50’ 44” Westerlengte  |
+| 12  | 32º 56’ 39” Noorderbreedte  | 124º 11’ 47” Westerlengte  |
+| 13  | 33º 40’ 12” Noorderbreedte  | 124º 27’ 15” Westerlengte  |
+| 14  | 34º 31’ 28” Noorderbreedte  | 125º 16’ 52” Westerlengte  |
+| 15  | 35º 14’ 38” Noorderbreedte  | 125º 43’ 23” Westerlengte  |
+| 16  | 35º 43’ 60” Noorderbreedte  | 126º 18’ 53” Westerlengte  |
+| 17  | 36º 16’ 25” Noorderbreedte  | 126º 45’ 30” Westerlengte  |
+| 18  | 37º 01’ 35” Noorderbreedte  | 127º 07’ 18” Westerlengte  |
+| 19  | 37º 45’ 39” Noorderbreedte  | 127º 38’ 02” Westerlengte  |
+| 20  | 38º 25’ 08” Noorderbreedte  | 127º 52’ 60” Westerlengte  |
+| 21  | 39º 25’ 05” Noorderbreedte  | 128º 31’ 23” Westerlengte  |
+| 22  | 40º 18’ 47” Noorderbreedte  | 128º 45’ 46” Westerlengte  |
+| 23  | 41º 13’ 39” Noorderbreedte  | 128º 40’ 22” Westerlengte  |
+| 24  | 42º 12’ 49” Noorderbreedte  | 129º 00’ 38” Westerlengte  |
+| 25  | 42º 47’ 34” Noorderbreedte  | 129º 05’ 42” Westerlengte  |
+| 26  | 43º 26’ 22” Noorderbreedte  | 129º 01’ 26” Westerlengte  |
+| 27  | 44º 24’ 43” Noorderbreedte  | 128º 41’ 23” Westerlengte  |
+| 28  | 45º 30’ 43” Noorderbreedte  | 128º 40’ 02” Westerlengte  |
+| 29  | 46º 11’ 01” Noorderbreedte  | 128º 49’ 01” Westerlengte  |
+| 30  | 46º 33’ 55” Noorderbreedte  | 129º 04’ 29” Westerlengte  |
+| 31  | 47º 39’ 55” Noorderbreedte  | 131º 15’ 41” Westerlengte  |
+| 32  | 48º 32’ 32” Noorderbreedte  | 132º 41’ 00” Westerlengte  |
+| 33  | 48º 57’ 47” Noorderbreedte  | 133º 14’ 47” Westerlengte  |
+| 34  | 49º 22’ 39” Noorderbreedte  | 134º 15’ 51” Westerlengte  |
+| 35  | 50º 01’ 52” Noorderbreedte  | 135º 19’ 01” Westerlengte  |
+| 36  | 51º 03’ 18” Noorderbreedte  | 136º 45’ 45” Westerlengte  |
+| 37  | 51º 54’ 04” Noorderbreedte  | 137º 41’ 54” Westerlengte  |
+| 38  | 52º 45’ 12” Noorderbreedte  | 138º 20’ 14” Westerlengte  |
+| 39  | 53º 29’ 20” Noorderbreedte  | 138º 40’ 36” Westerlengte  |
+| 40  | 53º 40’ 39” Noorderbreedte  | 138º 48’ 53” Westerlengte  |
+| 41  | 54º 13’ 45” Noorderbreedte  | 139º 32’ 38” Westerlengte  |
+| 42  | 54º 39’ 25” Noorderbreedte  | 139º 56’ 19” Westerlengte  |
+| 43  | 55º 20’ 18” Noorderbreedte  | 140º 55’ 45” Westerlengte  |
+| 44  | 56º 07’ 12” Noorderbreedte  | 141º 36’ 18” Westerlengte  |
+| 45  | 56º 28’ 32” Noorderbreedte  | 142º 17’ 19” Westerlengte  |
+| 46  | 56º 37’ 19” Noorderbreedte  | 142º 48’ 57” Westerlengte  |
+| 47  | 58º 51’ 04” Noorderbreedte  | 153º 15’ 03” Westerlengte  |
+
+.2. de zeegebieden ter hoogte van de Atlantische kusten van de Verenigde Staten, Canada en Frankrijk (Saint-Pierre-et-Miquelon) en de kust van de Verenigde Staten aan de Golf van Mexico die liggen binnen de geodetische lijnen die de volgende coördinaten verbinden:  
+
+|  *PUNT*   |  *BREEDTEGRAAD*   |  *LENGTEGRAAD*   |
+|---|---|---|
+| 1  | 60º 00’ 00” Noorderbreedte  | 64º 09’ 36” Westerlengte  |
+| 2  | 60º 00’ 00” Noorderbreedte  | 56º 43’ 00” Westerlengte  |
+| 3  | 58º 54’ 01” Noorderbreedte  | 55º 38’ 05” Westerlengte  |
+| 4  | 57º 50’ 52” Noorderbreedte  | 55º 03’ 47” Westerlengte  |
+| 5  | 57º 35’ 13” Noorderbreedte  | 54º 00’ 59” Westerlengte  |
+| 6  | 57º 14’ 20” Noorderbreedte  | 53º 07’ 58” Westerlengte  |
+| 7  | 56º 48’ 09” Noorderbreedte  | 52º 23’ 29” Westerlengte  |
+| 8  | 56º 18’ 13” Noorderbreedte  | 51º 49’ 42” Westerlengte  |
+| 9  | 54º 23’ 21” Noorderbreedte  | 50º 17’ 44” Westerlengte  |
+| 10  | 53º 44’ 54” Noorderbreedte  | 50º 07’ 17” Westerlengte  |
+| 11  | 53º 04’ 59” Noorderbreedte  | 50º 10’ 05” Westerlengte  |
+| 12  | 52º 20’ 06” Noorderbreedte  | 49º 57’ 09” Westerlengte  |
+| 13  | 51º 34’ 20” Noorderbreedte  | 48º 52’ 45” Westerlengte  |
+| 14  | 50º 40’ 15” Noorderbreedte  | 48º 16’ 04” Westerlengte  |
+| 15  | 50º 02’ 28” Noorderbreedte  | 48º 07’ 03” Westerlengte  |
+| 16  | 49º 24’ 03” Noorderbreedte  | 48º 09’ 35” Westerlengte  |
+| 17  | 48º 39’ 22” Noorderbreedte  | 47º 55’ 17” Westerlengte  |
+| 18  | 47º 24’ 25” Noorderbreedte  | 47º 46’ 56” Westerlengte  |
+| 19  | 46º 35’ 12” Noorderbreedte  | 48º 00’ 54” Westerlengte  |
+| 20  | 45º 19’ 45” Noorderbreedte  | 48º 43’ 28” Westerlengte  |
+| 21  | 44º 43’ 38” Noorderbreedte  | 49º 16’ 50” Westerlengte  |
+| 22  | 44º 16’ 38” Noorderbreedte  | 49º 51’ 23” Westerlengte  |
+| 23  | 43º 53’ 15” Noorderbreedte  | 50º 34’ 01” Westerlengte  |
+| 24  | 43º 36’ 06” Noorderbreedte  | 51º 20’ 41” Westerlengte  |
+| 25  | 43º 23’ 59” Noorderbreedte  | 52º 17’ 22” Westerlengte  |
+| 26  | 43º 19’ 50” Noorderbreedte  | 53º 20’ 13” Westerlengte  |
+| 27  | 43º 21’ 14” Noorderbreedte  | 54º 09’ 20” Westerlengte  |
+| 28  | 43º 29’ 41” Noorderbreedte  | 55º 07’ 41” Westerlengte  |
+| 29  | 42º 40’ 12” Noorderbreedte  | 55º 31’ 44” Westerlengte  |
+| 30  | 41º 58’ 19” Noorderbreedte  | 56º 09’ 34” Westerlengte  |
+| 31  | 41º 20’ 21” Noorderbreedte  | 57º 05’ 13” Westerlengte  |
+| 32  | 40º 55’ 34” Noorderbreedte  | 58º 02’ 55” Westerlengte  |
+| 33  | 40º 41’ 38” Noorderbreedte  | 59º 05’ 18” Westerlengte  |
+| 34  | 40º 38’ 33” Noorderbreedte  | 60º 12’ 20” Westerlengte  |
+| 35  | 40º 45’ 46” Noorderbreedte  | 61º 14’ 03” Westerlengte  |
+| 36  | 41º 04’ 52” Noorderbreedte  | 62º 17’ 49” Westerlengte  |
+| 37  | 40º 36’ 55” Noorderbreedte  | 63º 10’ 49” Westerlengte  |
+| 38  | 40º 17’ 32” Noorderbreedte  | 64º 08’ 37” Westerlengte  |
+| 39  | 40º 07’ 46” Noorderbreedte  | 64º 59’ 31” Westerlengte  |
+| 40  | 40º 05’ 44” Noorderbreedte  | 65º 53’ 07” Westerlengte  |
+| 41  | 39º 58’ 05” Noorderbreedte  | 65º 59’ 51” Westerlengte  |
+| 42  | 39º 28’ 24” Noorderbreedte  | 66º 21’ 14” Westerlengte  |
+| 43  | 39º 01’ 54” Noorderbreedte  | 66º 48’ 33” Westerlengte  |
+| 44  | 38º 39’ 16” Noorderbreedte  | 67º 20’ 59” Westerlengte  |
+| 45  | 38º 19’ 20” Noorderbreedte  | 68º 02’ 01” Westerlengte  |
+| 46  | 38º 05’ 29” Noorderbreedte  | 68º 46’ 55” Westerlengte  |
+| 47  | 37º 58’ 14” Noorderbreedte  | 69º 34’ 07” Westerlengte  |
+| 48  | 37º 57’ 47” Noorderbreedte  | 70º 24’ 09” Westerlengte  |
+| 49  | 37º 52’ 46” Noorderbreedte  | 70º 37’ 50” Westerlengte  |
+| 50  | 37º 18’ 37” Noorderbreedte  | 71º 08’ 33” Westerlengte  |
+| 51  | 36º 32’ 25” Noorderbreedte  | 71º 33’ 59” Westerlengte  |
+| 52  | 35º 34’ 58” Noorderbreedte  | 71º 26’ 02” Westerlengte  |
+| 53  | 34º 33’ 10” Noorderbreedte  | 71º 37’ 04” Westerlengte  |
+| 54  | 33º 54’ 49” Noorderbreedte  | 71º 52’ 35” Westerlengte  |
+| 55  | 33º 19’ 23” Noorderbreedte  | 72º 17’ 12” Westerlengte  |
+| 56  | 32º 45’ 31” Noorderbreedte  | 72º 54’ 05” Westerlengte  |
+| 57  | 31º 55’ 13” Noorderbreedte  | 74º 12’ 02” Westerlengte  |
+| 58  | 31º 27’ 14” Noorderbreedte  | 75º 15’ 20” Westerlengte  |
+| 59  | 31º 03’ 16” Noorderbreedte  | 75º 51’ 18” Westerlengte  |
+| 60  | 30º 45’ 42” Noorderbreedte  | 76º 31’ 38” Westerlengte  |
+| 61  | 30º 12’ 48” Noorderbreedte  | 77º 18’ 29” Westerlengte  |
+| 62  | 29º 25’ 17” Noorderbreedte  | 76º 56’ 42” Westerlengte  |
+| 63  | 28º 36’ 59” Noorderbreedte  | 76º 47’ 60” Westerlengte  |
+| 64  | 28º 17’ 13” Noorderbreedte  | 76º 40’ 10” Westerlengte  |
+| 65  | 28º 17’ 12” Noorderbreedte  | 79º 11’ 23” Westerlengte  |
+| 66  | 27º 52’ 56” Noorderbreedte  | 79º 28’ 35” Westerlengte  |
+| 67  | 27º 26’ 01” Noorderbreedte  | 79º 31’ 38” Westerlengte  |
+| 68  | 27º 16’ 13” Noorderbreedte  | 79º 34’ 18” Westerlengte  |
+| 69  | 27º 11’ 54” Noorderbreedte  | 79º 34’ 56” Westerlengte  |
+| 70  | 27º 05’ 59” Noorderbreedte  | 79º 35’ 19” Westerlengte  |
+| 71  | 27º 00’ 28” Noorderbreedte  | 79º 35’ 17” Westerlengte  |
+| 72  | 26º 55’ 16” Noorderbreedte  | 79º 34’ 39” Westerlengte  |
+| 73  | 26º 53’ 58” Noorderbreedte  | 79º 34’ 27” Westerlengte  |
+| 74  | 26º 45’ 46” Noorderbreedte  | 79º 32’ 41” Westerlengte  |
+| 75  | 26º 44’ 30” Noorderbreedte  | 79º 32’ 23” Westerlengte  |
+| 76  | 26º 43’ 40” Noorderbreedte  | 79º 32’ 20” Westerlengte  |
+| 77  | 26º 41’ 12” Noorderbreedte  | 79º 32’ 01” Westerlengte  |
+| 78  | 26º 38’ 13” Noorderbreedte  | 79º 31’ 32” Westerlengte  |
+| 79  | 26º 36’ 30” Noorderbreedte  | 79º 31’ 06” Westerlengte  |
+| 80  | 26º 35’ 21” Noorderbreedte  | 79º 30’ 50” Westerlengte  |
+| 81  | 26º 34’ 51” Noorderbreedte  | 79º 30’ 46” Westerlengte  |
+| 82  | 26º 34’ 11” Noorderbreedte  | 79º 30’ 38” Westerlengte  |
+| 83  | 26º 31’ 12” Noorderbreedte  | 79º 30’ 15” Westerlengte  |
+| 84  | 26º 29’ 05” Noorderbreedte  | 79º 29’ 53” Westerlengte  |
+| 85  | 26º 25’ 31” Noorderbreedte  | 79º 29’ 58” Westerlengte  |
+| 86  | 26º 23’ 29” Noorderbreedte  | 79º 29’ 55” Westerlengte  |
+| 87  | 26º 23’ 21” Noorderbreedte  | 79º 29’ 54” Westerlengte  |
+| 88  | 26º 18’ 57” Noorderbreedte  | 79º 31’ 55” Westerlengte  |
+| 89  | 26º 15’ 26” Noorderbreedte  | 79º 33’ 17” Westerlengte  |
+| 90  | 26º 15’ 13” Noorderbreedte  | 79º 33’ 23” Westerlengte  |
+| 91  | 26º 08’ 09” Noorderbreedte  | 79º 35’ 53” Westerlengte  |
+| 92  | 26º 07’ 47” Noorderbreedte  | 79º 36’ 09” Westerlengte  |
+| 93  | 26º 06’ 59” Noorderbreedte  | 79º 36’ 35” Westerlengte  |
+| 94  | 26º 02’ 52” Noorderbreedte  | 79º 38’ 22” Westerlengte  |
+| 95  | 25º 59’ 30” Noorderbreedte  | 79º 40’ 03” Westerlengte  |
+| 96  | 25º 59’ 16” Noorderbreedte  | 79º 40’ 08” Westerlengte  |
+| 97  | 25º 57’ 48” Noorderbreedte  | 79º 40’ 38” Westerlengte  |
+| 98  | 25º 56’ 18” Noorderbreedte  | 79º 41’ 06” Westerlengte  |
+| 99  | 25º 54’ 04” Noorderbreedte  | 79º 41’ 38” Westerlengte  |
+| 100  | 25º 53’ 24” Noorderbreedte  | 79º 41’ 46” Westerlengte  |
+| 101  | 25º 51’ 54” Noorderbreedte  | 79º 41’ 59” Westerlengte  |
+| 102  | 25º 49’ 33” Noorderbreedte  | 79º 42’ 16” Westerlengte  |
+| 103  | 25º 48’ 24” Noorderbreedte  | 79º 42’ 23” Westerlengte  |
+| 104  | 25º 48’ 20” Noorderbreedte  | 79º 42’ 24” Westerlengte  |
+| 105  | 25º 46’ 26” Noorderbreedte  | 79º 42’ 44” Westerlengte  |
+| 106  | 25º 46’ 16” Noorderbreedte  | 79º 42’ 45” Westerlengte  |
+| 107  | 25º 43’ 40” Noorderbreedte  | 79º 42’ 59” Westerlengte  |
+| 108  | 25º 42’ 31” Noorderbreedte  | 79º 42’ 48” Westerlengte  |
+| 109  | 25º 40’ 37” Noorderbreedte  | 79º 42’ 27” Westerlengte  |
+| 110  | 25º 37’ 24” Noorderbreedte  | 79º 42’ 27” Westerlengte  |
+| 111  | 25º 37’ 08” Noorderbreedte  | 79º 42’ 27” Westerlengte  |
+| 112  | 25º 31’ 03” Noorderbreedte  | 79º 42’ 12” Westerlengte  |
+| 113  | 25º 27’ 59” Noorderbreedte  | 79º 42’ 11” Westerlengte  |
+| 114  | 25º 24’ 04” Noorderbreedte  | 79º 42’ 12” Westerlengte  |
+| 115  | 25º 22’ 21” Noorderbreedte  | 79º 42’ 20” Westerlengte  |
+| 116  | 25º 21’ 29” Noorderbreedte  | 79º 42’ 08” Westerlengte  |
+| 117  | 25º 16’ 52” Noorderbreedte  | 79º 41’ 24” Westerlengte  |
+| 118  | 25º 15’ 57” Noorderbreedte  | 79º 41’ 31” Westerlengte  |
+| 119  | 25º 10’ 39” Noorderbreedte  | 79º 41’ 31” Westerlengte  |
+| 120  | 25º 09’ 51” Noorderbreedte  | 79º 41’ 36” Westerlengte  |
+| 121  | 25º 09’ 03” Noorderbreedte  | 79º 41’ 45” Westerlengte  |
+| 122  | 25º 03’ 55” Noorderbreedte  | 79º 42’ 29” Westerlengte  |
+| 123  | 25º 02’ 60” Noorderbreedte  | 79º 42’ 56” Westerlengte  |
+| 124  | 25º 00’ 30” Noorderbreedte  | 79º 44’ 05” Westerlengte  |
+| 125  | 24º 59’ 03” Noorderbreedte  | 79º 44’ 48” Westerlengte  |
+| 126  | 24º 55’ 28” Noorderbreedte  | 79º 45’ 57” Westerlengte  |
+| 127  | 24º 44’ 18” Noorderbreedte  | 79º 49’ 24” Westerlengte  |
+| 128  | 24º 43’ 04” Noorderbreedte  | 79º 49’ 38” Westerlengte  |
+| 129  | 24º 42’ 36” Noorderbreedte  | 79º 50’ 50” Westerlengte  |
+| 130  | 24º 41’ 47” Noorderbreedte  | 79º 52’ 57” Westerlengte  |
+| 131  | 24º 38’ 32” Noorderbreedte  | 79º 59’ 58” Westerlengte  |
+| 132  | 24º 36’ 27” Noorderbreedte  | 80º 03’ 51” Westerlengte  |
+| 133  | 24º 33’ 18” Noorderbreedte  | 80º 12’ 43” Westerlengte  |
+| 134  | 24º 33’ 05” Noorderbreedte  | 80º 13’ 21” Westerlengte  |
+| 135  | 24º 32’ 13” Noorderbreedte  | 80º 15’ 16” Westerlengte  |
+| 136  | 24º 31’ 27” Noorderbreedte  | 80º 16’ 55” Westerlengte  |
+| 137  | 24º 30’ 57” Noorderbreedte  | 80º 17’ 47” Westerlengte  |
+| 138  | 24º 30’ 14” Noorderbreedte  | 80º 19’ 21” Westerlengte  |
+| 139  | 24º 30’ 06” Noorderbreedte  | 80º 19’ 44” Westerlengte  |
+| 140  | 24º 29’ 38” Noorderbreedte  | 80º 21’ 05” Westerlengte  |
+| 141  | 24º 28’ 18” Noorderbreedte  | 80º 24’ 35” Westerlengte  |
+| 142  | 24º 28’ 06” Noorderbreedte  | 80º 25’ 10” Westerlengte  |
+| 143  | 24º 27’ 23” Noorderbreedte  | 80º 27’ 20” Westerlengte  |
+| 144  | 24º 26’ 30” Noorderbreedte  | 80º 29’ 30” Westerlengte  |
+| 145  | 24º 25’ 07” Noorderbreedte  | 80º 32’ 22” Westerlengte  |
+| 146  | 24º 23’ 30” Noorderbreedte  | 80º 36’ 09” Westerlengte  |
+| 147  | 24º 22’ 33” Noorderbreedte  | 80º 38’ 56” Westerlengte  |
+| 148  | 24º 22’ 07” Noorderbreedte  | 80º 39’ 51” Westerlengte  |
+| 149  | 24º 19’ 31” Noorderbreedte  | 80º 45’ 21” Westerlengte  |
+| 150  | 24º 19’ 16” Noorderbreedte  | 80º 45’ 47” Westerlengte  |
+| 151  | 24º 18’ 38” Noorderbreedte  | 80º 46’ 49” Westerlengte  |
+| 152  | 24º 18’ 35” Noorderbreedte  | 80º 46’ 54” Westerlengte  |
+| 153  | 24º 09’ 51” Noorderbreedte  | 80º 59’ 47” Westerlengte  |
+| 154  | 24º 09’ 48” Noorderbreedte  | 80º 59’ 51” Westerlengte  |
+| 155  | 24º 08’ 58” Noorderbreedte  | 81º 01’ 07” Westerlengte  |
+| 156  | 24º 08’ 30” Noorderbreedte  | 81º 01’ 51” Westerlengte  |
+| 157  | 24º 08’ 26” Noorderbreedte  | 81º 01’ 57” Westerlengte  |
+| 158  | 24º 07’ 28” Noorderbreedte  | 81º 03’ 06” Westerlengte  |
+| 159  | 24º 02’ 20” Noorderbreedte  | 81º 09’ 05” Westerlengte  |
+| 160  | 23º 59’ 60” Noorderbreedte  | 81º 11’ 16” Westerlengte  |
+| 161  | 23º 55’ 32” Noorderbreedte  | 81º 12’ 55” Westerlengte  |
+| 162  | 23º 53’ 52” Noorderbreedte  | 81º 19’ 43” Westerlengte  |
+| 163  | 23º 50’ 52” Noorderbreedte  | 81º 29’ 59” Westerlengte  |
+| 164  | 23º 50’ 02” Noorderbreedte  | 81º 39’ 59” Westerlengte  |
+| 165  | 23º 49’ 05” Noorderbreedte  | 81º 49’ 59” Westerlengte  |
+| 166  | 23º 49’ 05” Noorderbreedte  | 82º 00’ 11” Westerlengte  |
+| 167  | 23º 49’ 42” Noorderbreedte  | 82º 09’ 59” Westerlengte  |
+| 168  | 23º 51’ 14” Noorderbreedte  | 82º 24’ 59” Westerlengte  |
+| 169  | 23º 51’ 14” Noorderbreedte  | 82º 39’ 59” Westerlengte  |
+| 170  | 23º 49’ 42” Noorderbreedte  | 82º 48’ 53” Westerlengte  |
+| 171  | 23º 49’ 32” Noorderbreedte  | 82º 51’ 11” Westerlengte  |
+| 172  | 23º 49’ 24” Noorderbreedte  | 82º 59’ 59” Westerlengte  |
+| 173  | 23º 49’ 52” Noorderbreedte  | 83º 14’ 59” Westerlengte  |
+| 174  | 23º 51’ 22” Noorderbreedte  | 83º 25’ 49” Westerlengte  |
+| 175  | 23º 52’ 27” Noorderbreedte  | 83º 33’ 01” Westerlengte  |
+| 176  | 23º 54’ 04” Noorderbreedte  | 83º 41’ 35” Westerlengte  |
+| 177  | 23º 55’ 47” Noorderbreedte  | 83º 48’ 11” Westerlengte  |
+| 178  | 23º 58’ 38” Noorderbreedte  | 83º 59’ 59” Westerlengte  |
+| 179  | 24º 09’ 37” Noorderbreedte  | 84º 29’ 27” Westerlengte  |
+| 180  | 24º 13’ 20” Noorderbreedte  | 84º 38’ 39” Westerlengte  |
+| 181  | 24º 16’ 41” Noorderbreedte  | 84º 46’ 07” Westerlengte  |
+| 182  | 24º 23’ 30” Noorderbreedte  | 84º 59’ 59” Westerlengte  |
+| 183  | 24º 26’ 37” Noorderbreedte  | 85º 06’ 19” Westerlengte  |
+| 184  | 24º 38’ 57” Noorderbreedte  | 85º 31’ 54” Westerlengte  |
+| 185  | 24º 44’ 17” Noorderbreedte  | 85º 43’ 11” Westerlengte  |
+| 186  | 24º 53’ 57” Noorderbreedte  | 85º 59’ 59” Westerlengte  |
+| 187  | 25º 10’ 44” Noorderbreedte  | 86º 30’ 07” Westerlengte  |
+| 188  | 25º 43’ 15” Noorderbreedte  | 86º 21’ 14” Westerlengte  |
+| 189  | 26º 13’ 13” Noorderbreedte  | 86º 06’ 45” Westerlengte  |
+| 190  | 26º 27’ 22” Noorderbreedte  | 86º 13’ 15” Westerlengte  |
+| 191  | 26º 33’ 46” Noorderbreedte  | 86º 37’ 07” Westerlengte  |
+| 192  | 26º 01’ 24” Noorderbreedte  | 87º 29’ 35” Westerlengte  |
+| 193  | 25º 42’ 25” Noorderbreedte  | 88º 33’ 00” Westerlengte  |
+| 194  | 25º 46’ 54” Noorderbreedte  | 90º 29’ 41” Westerlengte  |
+| 195  | 25º 44’ 39” Noorderbreedte  | 90º 47’ 05” Westerlengte  |
+| 196  | 25º 51’ 43” Noorderbreedte  | 91º 52’ 50” Westerlengte  |
+| 197  | 26º 17’ 44” Noorderbreedte  | 93º 03’ 59” Westerlengte  |
+| 198  | 25º 59’ 55” Noorderbreedte  | 93º 33’ 52” Westerlengte  |
+| 199  | 26º 00’ 32” Noorderbreedte  | 95º 39’ 27” Westerlengte  |
+| 200  | 26º 00’ 33” Noorderbreedte  | 96º 48’ 30” Westerlengte  |
+| 201  | 25º 58’ 32” Noorderbreedte  | 96º 55’ 28” Westerlengte  |
+| 202  | 25º 58’ 15” Noorderbreedte  | 96º 58’ 41” Westerlengte  |
+| 203  | 25º 57’ 58” Noorderbreedte  | 97º 01’ 54” Westerlengte  |
+| 204  | 25º 57’ 41” Noorderbreedte  | 97º 05’ 08” Westerlengte  |
+| 205  | 25º 57’ 24” Noorderbreedte  | 97º 08’ 21” Westerlengte  |
+| 206  | 25º 57’ 24” Noorderbreedte  | 97º 08’ 47” Westerlengte  |
+
+.3. het zeegebied ter hoogte van de kusten van de eilanden van Hawaii, Hawai’i, Maui, Oahu, Moloka’i, Ni’ihau, Kaua’i, Lāna’i, en Kaho’olawe, die liggen binnen de geodetische lijnen die de volgende coördinaten verbinden:  
+
+|  *PUNT*   |  *BREEDTEGRAAD*   |  *LENGTEGRAAD*   |
+|---|---|---|
+| 1  | 22º 32’ 54” Noorderbreedte  | 153º 00’ 33” Westerlengte  |
+| 2  | 23º 06’ 05” Noorderbreedte  | 153º 28’ 36” Westerlengte  |
+| 3  | 23º 32’ 11” Noorderbreedte  | 154º 02’ 12” Westerlengte  |
+| 4  | 23º 51’ 47” Noorderbreedte  | 154º 36’ 48” Westerlengte  |
+| 5  | 24º 21’ 49” Noorderbreedte  | 155º 51’ 13” Westerlengte  |
+| 6  | 24º 41’ 47” Noorderbreedte  | 156º 27’ 27” Westerlengte  |
+| 7  | 24º 57’ 33” Noorderbreedte  | 157º 22’ 17” Westerlengte  |
+| 8  | 25º 13’ 41” Noorderbreedte  | 157º 54’ 13” Westerlengte  |
+| 9  | 25º 25’ 31” Noorderbreedte  | 158º 30’ 36” Westerlengte  |
+| 10  | 25º 31’ 19” Noorderbreedte  | 159º 09’ 47” Westerlengte  |
+| 11  | 25º 30’ 31” Noorderbreedte  | 159º 54’ 21” Westerlengte  |
+| 12  | 25º 21’ 53” Noorderbreedte  | 160º 39’ 53” Westerlengte  |
+| 13  | 25º 00’ 06” Noorderbreedte  | 161º 38’ 33” Westerlengte  |
+| 14  | 24º 40’ 49” Noorderbreedte  | 162º 13’ 13” Westerlengte  |
+| 15  | 24º 15’ 53” Noorderbreedte  | 162º 43’ 08” Westerlengte  |
+| 16  | 23º 40’ 50” Noorderbreedte  | 163º 13’ 00” Westerlengte  |
+| 17  | 23º 03’ 20” Noorderbreedte  | 163º 32’ 58” Westerlengte  |
+| 18  | 22º 20’ 09” Noorderbreedte  | 163º 44’ 41” Westerlengte  |
+| 19  | 21º 36’ 45” Noorderbreedte  | 163º 46’ 03” Westerlengte  |
+| 20  | 20º 55’ 26” Noorderbreedte  | 163º 37’ 44” Westerlengte  |
+| 21  | 20º 13’ 34” Noorderbreedte  | 163º 19’ 13” Westerlengte  |
+| 22  | 19º 39’ 03” Noorderbreedte  | 162º 53’ 48” Westerlengte  |
+| 23  | 19º 09’ 43” Noorderbreedte  | 162º 20’ 35” Westerlengte  |
+| 24  | 18º 39’ 16” Noorderbreedte  | 161º 19’ 14” Westerlengte  |
+| 25  | 18º 30’ 31” Noorderbreedte  | 160º 38’ 30” Westerlengte  |
+| 26  | 18º 29’ 31” Noorderbreedte  | 159º 56’ 17” Westerlengte  |
+| 27  | 18º 10’ 41” Noorderbreedte  | 159º 14’ 08” Westerlengte  |
+| 28  | 17º 31’ 17” Noorderbreedte  | 158º 56’ 55” Westerlengte  |
+| 29  | 16º 54’ 06” Noorderbreedte  | 158º 30’ 29” Westerlengte  |
+| 30  | 16º 25’ 49” Noorderbreedte  | 157º 59’ 25” Westerlengte  |
+| 31  | 15º 59’ 57” Noorderbreedte  | 157º 17’ 35” Westerlengte  |
+| 32  | 15º 40’ 37” Noorderbreedte  | 156º 21’ 06” Westerlengte  |
+| 33  | 15º 37’ 36” Noorderbreedte  | 155º 22’ 16” Westerlengte  |
+| 34  | 15º 43’ 46” Noorderbreedte  | 154º 46’ 37” Westerlengte  |
+| 35  | 15º 55’ 32” Noorderbreedte  | 154º 13’ 05” Westerlengte  |
+| 36  | 16º 46’ 27” Noorderbreedte  | 152º 49’ 11” Westerlengte  |
+| 37  | 17º 33’ 42” Noorderbreedte  | 152º 00’ 32” Westerlengte  |
+| 38  | 18º 30’ 16” Noorderbreedte  | 151º 30’ 24” Westerlengte  |
+| 39  | 19º 02’ 47” Noorderbreedte  | 151º 22’ 17” Westerlengte  |
+| 40  | 19º 34’ 46” Noorderbreedte  | 151º 19’ 47” Westerlengte  |
+| 41  | 20º 07’ 42” Noorderbreedte  | 151º 22’ 58” Westerlengte  |
+| 42  | 20º 38’ 43” Noorderbreedte  | 151º 31’ 36” Westerlengte  |
+| 43  | 21º 29’ 09” Noorderbreedte  | 151º 59’ 50” Westerlengte  |
+| 44  | 22º 06’ 58” Noorderbreedte  | 152º 31’ 25” Westerlengte  |
+| 45  | 22º 32’ 54” Noorderbreedte  | 153º 00’ 33” Westerlengte  |
+
+.3. Het Caribische Zeegebied van de Verenigde Staten omvat: 
+
+.1. het zeegebied ter hoogte van de Atlantische en Caribische kusten van het Gemenebest Puerto Rico en de Maagdeneilanden van de Verenigde Staten dat ligt binnen de geodetische lijnen die de volgende coördinaten verbinden:  
+
+| PUNT  | BREEDTEGRAAD  | LENGTEGRAAD  |
+|---|---|---|
+| 1  | 17º 18’ 37” Noorderbreedte  | 67º 32’ 14” Westerlengte  |
+| 2  | 19º 11’ 14” Noorderbreedte  | 67º 26’ 45” Westerlengte  |
+| 3  | 19º 30’ 28” Noorderbreedte  | 65º 16’ 48” Westerlengte  |
+| 4  | 19º 12’ 25” Noorderbreedte  | 65º 6’ 8” Westerlengte  |
+| 5  | 18º 45’ 13” Noorderbreedte  | 65º 0’ 22” Westerlengte  |
+| 6  | 18º 41’ 14” Noorderbreedte  | 64º 59’ 33” Westerlengte  |
+| 7  | 18º 29’ 22” Noorderbreedte  | 64º 53’ 51” Westerlengte  |
+| 8  | 18º 27’ 35” Noorderbreedte  | 64º 53’ 22” Westerlengte  |
+| 9  | 18º 25’ 21” Noorderbreedte  | 64º 52’ 39” Westerlengte  |
+| 10  | 18º 24’ 30” Noorderbreedte  | 64º 52’ 19” Westerlengte  |
+| 11  | 18º 23’ 51” Noorderbreedte  | 64º 51’ 50” Westerlengte  |
+| 12  | 18º 23’ 42” Noorderbreedte  | 64º 51’ 23” Westerlengte  |
+| 13  | 18º 23’ 36” Noorderbreedte  | 64º 50’ 17” Westerlengte  |
+| 14  | 18º 23’ 48” Noorderbreedte  | 64º 49’ 41” Westerlengte  |
+| 15  | 18º 24’ 11” Noorderbreedte  | 64º 49’ 0” Westerlengte  |
+| 16  | 18º 24’ 28” Noorderbreedte  | 64º 47’ 57” Westerlengte  |
+| 17  | 18º 24’ 18” Noorderbreedte  | 64º 47’ 1” Westerlengte  |
+| 18  | 18º 23’ 13” Noorderbreedte  | 64º 46’ 37” Westerlengte  |
+| 19  | 18º 22’ 37” Noorderbreedte  | 64º 45’ 20” Westerlengte  |
+| 20  | 18º 22’ 39” Noorderbreedte  | 64º 44’ 42” Westerlengte  |
+| 21  | 18º 22’ 42” Noorderbreedte  | 64º 44’ 36” Westerlengte  |
+| 22  | 18º 22’ 37” Noorderbreedte  | 64º 44’ 24” Westerlengte  |
+| 23  | 18º 22’ 39” Noorderbreedte  | 64º 43’ 42” Westerlengte  |
+| 24  | 18º 22’ 30” Noorderbreedte  | 64º 43’ 36” Westerlengte  |
+| 25  | 18º 22’ 25” Noorderbreedte  | 64º 42’ 58” Westerlengte  |
+| 26  | 18º 22’ 26” Noorderbreedte  | 64º 42’ 28” Westerlengte  |
+| 27  | 18º 22’ 15” Noorderbreedte  | 64º 42’ 3” Westerlengte  |
+| 28  | 18º 22’ 22” Noorderbreedte  | 64º 38’ 23” Westerlengte  |
+| 29  | 18º 21’ 57” Noorderbreedte  | 64º 40’ 60” Westerlengte  |
+| 30  | 18º 21’ 51” Noorderbreedte  | 64º 40’ 15” Westerlengte  |
+| 31  | 18º 21’ 22” Noorderbreedte  | 64º 38’ 16” Westerlengte  |
+| 32  | 18º 20’ 39” Noorderbreedte  | 64º 38’ 33” Westerlengte  |
+| 33  | 18º 19’ 15” Noorderbreedte  | 64º 38’ 14” Westerlengte  |
+| 34  | 18º 19’ 7” Noorderbreedte  | 64º 38’ 16” Westerlengte  |
+| 35  | 18º 17’ 23” Noorderbreedte  | 64º 39’ 38” Westerlengte  |
+| 36  | 18º 16’ 43” Noorderbreedte  | 64º 39’ 41” Westerlengte  |
+| 37  | 18º 11’ 33” Noorderbreedte  | 64º 38’ 58” Westerlengte  |
+| 38  | 18º 3’ 2” Noorderbreedte  | 64º 38’ 3” Westerlengte  |
+| 39  | 18º 2’ 56” Noorderbreedte  | 64º 29’ 35” Westerlengte  |
+| 40  | 18º 2’ 51” Noorderbreedte  | 64º 27’ 2” Westerlengte  |
+| 41  | 18º 2’ 30” Noorderbreedte  | 64º 21’ 8” Westerlengte  |
+| 42  | 18º 2’ 31” Noorderbreedte  | 64º 20’ 8” Westerlengte  |
+| 43  | 18º 2’ 3” Noorderbreedte  | 64º 15’ 57” Westerlengte  |
+| 44  | 18º 0’ 12” Noorderbreedte  | 64º 2’ 29” Westerlengte  |
+| 45  | 17º 59’ 58” Noorderbreedte  | 64º 1’ 4” Westerlengte  |
+| 46  | 17º 58’ 47” Noorderbreedte  | 63º 57’ 1” Westerlengte  |
+| 47  | 17º 57’ 51” Noorderbreedte  | 63º 53’ 54” Westerlengte  |
+| 48  | 17º 56’ 38” Noorderbreedte  | 63º 53’ 21” Westerlengte  |
+| 49  | 17º 39’ 40” Noorderbreedte  | 63º 54’ 53” Westerlengte  |
+| 50  | 17º 37’ 8” Noorderbreedte  | 63º 55’ 10” Westerlengte  |
+| 51  | 17º 30’ 21” Noorderbreedte  | 63º 55’ 56” Westerlengte  |
+| 52  | 17º 11’ 36” Noorderbreedte  | 63º 57’ 57” Westerlengte  |
+| 53  | 17º 4’ 60” Noorderbreedte  | 63º 58’ 41” Westerlengte  |
+| 54  | 16º 59’ 49” Noorderbreedte  | 63º 59’ 18” Westerlengte  |
+| 55  | 17º 18’ 37” Noorderbreedte  | 67º 32’ 14” Westerlengte  |
+
+### Aanhangsel  VIII  
+
+####Model van een Internationaal certificaat betreffende energie-efficiëntie (IEE-certificaat)
+
+| --- | --- | --- |
+|---|---|---|
+| INTERNATIONAAL CERTIFICAAT BETREFFENDE ENERGIE-EFFICIËNTIE  |
+| --- |
+| Afgegeven krachtens de bepalingen van het Protocol van 1997, zoals gewijzigd bij resolutie MEPC.203(62), tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij (hierna te noemen „het Verdrag”) namens de Regering van:  |
+| --- |
+| ........  |
+| (Volledige officiële aanduiding van de partij)  |
+| --- |
+| door ........  |
+| (volledige officiële aanduiding van de bevoegde persoon of organisatie gemachtigd overeenkomstig de bepalingen van het Verdrag)  |
+| --- |
+| Gegevens van het schip <sup>1)</sup>  |
+| --- |
+| Naam van het schip ........  |
+| --- |
+| Onderscheidingsnummer of -letters ........  |
+| --- |
+| Thuishaven ........  |
+| --- |
+| Brutotonnage ........  |
+| --- |
+| IMO-nummer <sup>2)</sup>........  |
+| --- |
+| HIERBIJ WORDT VERKLAARD:  |
+| --- | --- |
+| 1.  | Dat het schip is onderzocht in overeenstemming met voorschrift 5.4 van Bijlage VI van het Verdrag; en  |
+| 2.  | Dat uit het onderzoek is gebleken dat het schip voldoet aan de van toepassing zijnde vereisten van voorschrift 20, voorschrift 21 en voorschrift 22.  |
+| --- | --- |
+| Datum van voltooiing van het onderzoek waarop dit certificaat gebaseerd is: ........ (dd/mm/jjjj)  |
+| --- |
+| Afgegeven te ........  |
+| (Plaats van afgifte van het certificaat)  |
+| --- |
+| (dd/mm/jjjj:)  | --- |
+| --- | ........  |
+| ........  | --- |
+| (Datum van afgifte)  | (handtekening van bevoegde ambtenaar die het certificaat afgeeft)  |
+| --- | --- |
+| (zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
+| --- |
+
+<sup>1)</sup> De gegevens van het schip kunnen ook horizontaal worden vermeld in de vakjes. <sup>2)</sup> Overeenkomstig het stelsel voor scheepsidentificatienummers van de IMO door de Organisatie aangenomen bij resolutie A.600(15). 
+###Aanhangsel bij het Internationaal certificaat betreffende energie-efficiëntie (IEE-certificaat)
+
+*JOURNAAL VAN BOUW MET BETREKKING TOT ENERGIE-EFFICIËNTIE*   
+
+| --- | --- |
+|---|---|
+| Noten:  | --- |
+| --- | --- |
+| 1  | Dit journaal dient permanent gehecht te zijn aan het IEE-certificaat. Het IEE-certificaat dient te allen tijde beschikbaar te zijn aan boord van het schip.  |
+| --- | --- |
+| 2  | Het journaal dient ten minste in de Engelse, de Franse of de Spaanse taal te zijn gesteld. Indien tevens de officiële taal van de partij van afgifte wordt gebruikt, is deze doorslaggevend bij geschillen of tegenstrijdigheden.  |
+| --- | --- |
+| 3  | De hokjes worden ingevuld met ofwel een kruisje (x) voor de antwoorden „ja” en „van toepassing” of een streepje (-) voor de antwoorden „neen” en „niet van toepassing”, al naargelang wat van toepassing is.  |
+| --- | --- |
+| 4  | Tenzij anders vermeld, verwijzen de voorschriften genoemd in dit journaal naar de voorschriften in Bijlage VI van het Verdrag en resoluties of circulaires verwijzen naar die welke zijn aangenomen door de Internationale Maritieme Organisatie.  |
+
+| --- | --- |
+|---|---|
+|  *1*   |  *Gegevens van het schip*   |
+| 1.1  | Naam van het schip ........  |
+| 1.2  | IMO-nummer ........  |
+| 1.3  | Datum van bouwcontract ........  |
+| 1.4  | Brutotonnage ........  |
+| 1.5  | Draagvermogen ........  |
+| 1.6  | Type schip <sup>1)</sup>........  |
+| --- | --- |
+|  *2*   |  *Voortstuwingssysteem*   |
+| 2.1  | Dieselvoorstuwing ........  |
+| 2.2  | Diesel-elektrische voorstuwing ........  |
+| 2.3  | Turbine voorstuwing ........  |
+| 2.4  | Hybride voorstuwing ........  |
+| 2.5  | Ander voortstuwingssysteem dan hierboven vermeld ........  |
+| --- | --- |
+|  *3*   |  *Bereikte ontwerpindex voor energie-efficiëntie (EEDI)*   |
+| 3.1  | De bereikte EEDI in overeenstemming met voorschrift 20.1 is berekend op basis van de informatie vervat in het technisch dossier bij de EEDI waarin ook de uitgevoerde berekening van de bereikte EEDI zelf staat vermeld. ........ □  |
+| --- | De bereikte EEDI is: ........ gram CO <sub>2</sub> /tonmijl  |
+| 3.2  | De bereikte EEDI wordt niet berekend aangezien:  |
+| 3.2.1  | het schip ingevolge voorschrift 20.1 is vrijgesteld aangezien het geen nieuw schip is zoals omschreven in voorschrift 2.23 ........ □  |
+| 3.2.2  | het type voortstuwingssysteem is vrijgesteld in overeenstemming met voorschrift 19.3 ........ □  |
+| 3.2.3  | de Administratie van het schip afziet van het vereiste van voorschrift 20 in overeenstemming met voorschrift 19.4 ........ □  |
+| 3.2.4  | het scheepstype is vrijgesteld in overeenstemming met voorschrift 20.1 ........ □  |
+| --- | --- |
+|  *4*   |  *Vereiste EEDI*   |
+| 4.1  | De vereiste EEDI is: ........ gram CO <sub>2</sub> /tonmijl  |
+| 4.2  | De vereiste EEDI wordt niet berekend aangezien:  |
+| 4.2.1  | het schip ingevolge voorschrift 21.1 is vrijgesteld aangezien het geen nieuw schip is zoals omschreven in voorschrift 2.23 ........ □  |
+| 4.2.2  | het type voortstuwingssysteem is vrijgesteld in overeenstemming met voorschrift 19.3 ........ □  |
+| 4.2.3  | de Administratie van het schip afziet van het vereiste van voorschrift 21 in overeenstemming met voorschrift 19.4 ........ □  |
+| 4.2.4  | het scheepstype is vrijgesteld in overeenstemming met voorschrift 21.1 ........ □  |
+| 4.2.5  | de capaciteit van het schip minder is dan de minimale capaciteitsdrempel in tabel 1 van voorschrift 21.2 ........ □  |
+| --- | --- |
+|  *5*   |  *Energie-efficiëntiemanagementplan van het schip (SEEMP)*   |
+| 5.1  | Het schip is voorzien van een energie-efficiëntiemanagementplan (SEEMP) in overeenstemming met voorschrift 22 ........ □  |
+| --- | --- |
+|  *6*   |  *Technisch dossier bij de EEDI*   |
+| 6.1  | Het IEE-certificaat gaat vergezeld van het technisch dossier bij de EEDI in overeenstemming met voorschrift 20.1 ........ □  |
+| 6.2  | Het identificatie/verificatienummer van het technisch dossier bij de EEDI ........ □  |
+| 6.3  | De verificatiedatum van het technisch dossier bij de EEDI ........ □  |
+
+<sup>1)</sup> Vermeld scheepstype in overeenstemming met de in voorschrift 2 vermelde begripsomschrijvingen. Schepen die onder meer dan een van de in voorschrift 2 omschreven scheepstypen vallen, worden geacht onder het scheepstype te vallen met de strengste (laagste) vereiste EEDI. Indien een schip onder geen van de in voorschrift 2 omschreven scheepstypen valt, dient „Schip anders dan de in voorschrift 2 omschreven scheepstypen” te worden ingevuld.  
+
+| --- | --- |
+|---|---|
+| HIERBIJ WORDT VERKLAARD dat dit journaal in alle opzichten correct is.  |
+| --- | --- |
+| Afgegeven te ........  |
+| (plaats van afgifte van het journaal)  |
+| --- | --- |
+| (dd/mm/jjjj:)  | --- |
+| --- | ........  |
+| ........  | --- |
+| (Datum van afgifte)  | (handtekening van bevoegde ambtenaar die het journaal afgeeft)  |
+| --- | --- |
+| (zegel of stempel van de instantie, naar gelang wat van toepassing is)”  |
 

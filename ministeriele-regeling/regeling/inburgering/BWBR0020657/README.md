@@ -46,7 +46,7 @@ Het keurmerk, bedoeld in [artikel 4.1a, vijfde lid, van het besluit](../../../..
 
 ### Artikel  2.1  
 
-De beperkingen, bedoeld in [artikel 2.1, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zijn opgenomen in bijlage 1 bij deze regeling.  
+De beperkingen, bedoeld in [artikel 2.1, eerste en tweede lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), zijn opgenomen in bijlage 1 bij deze regeling.  
 
 ### §  2  
 
@@ -97,11 +97,11 @@ f. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
 
 ### Artikel  2.2d  
 
-Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in artikel 3.9, eerste lid, onderdeel a, b, c of d, te behalen is vrijgesteld de inburgeringsplichtige die beschikt over een certificaat dat is afgegeven ter afronding van het examenonderdeel lezen, schrijven, luisteren respectievelijk spreken van het staatsexamen Nederlands als tweede taal.  
+Van de verplichting om mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven en het betreffende onderdeel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid, onderdelen a, b, c of d, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md) te behalen is vrijgesteld de degene die beschikt over een certificaat dat is afgegeven ter afronding van het examenonderdeel lezen, schrijven, luisteren respectievelijk spreken van het staatsexamen Nederlands als tweede taal.  
 
 ### §  3  
 
-####Ontheffing wegens medische belemmering
+####Ontheffing van de inburgeringsplicht en verlenging van de inburgeringstermijn
 
 ### Artikel  2.4  
 
@@ -112,6 +112,36 @@ a. niet in staat is zich met lichte aanpassingen binnen vijf jaar voor te bereid
 
 b. bijzondere examenomstandigheden nodig heeft om het inburgeringsexamen te kunnen behalen en de bijzondere examenomstandigheden, bedoeld in artikel 3.2, hiertoe niet toereikend zijn.     
 3.  De arts, bedoeld in [artikel 2.8, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), stelt het advies op conform het protocol dat is opgenomen in bijlage 4 bij deze regeling.   
+
+### Artikel  2.4a  
+
+De minister verleent de ontheffing, bedoeld in [artikel 2.8a van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), indien: 
+
+a. de inburgeringsplichtige ten minste 10 jaar onafgebroken als ingezetene ingeschreven is geweest in de gemeentelijke basisadministratie persoonsgegevens; én  
+
+b. de inburgeringsplichtige naar het oordeel van de minister aantoonbaar gedurende ten minste 5 jaar betaald werk of vrijwilligerswerk heeft verricht in Nederland; *én*  
+
+c. in een gesprek is vastgesteld dat de inburgeringsplichtige de vaardigheden in de Nederlandse taal, bedoeld in [artikel 2.9, onderdelen a en b, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), beheerst op het in dat artikel bedoelde niveau.    
+
+### Artikel  2.4b  
+
+De minister verleent de ontheffing, bedoeld in [artikel 2.8b van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), indien de inburgeringsplichtige: 
+
+a. ten minste 600 uur heeft deelgenomen aan een inburgeringscursus bij een instelling met het Blik op werk keurmerk en ten minste vier maal heeft deelgenomen aan de niet behaalde onderdelen van het inburgeringsexamen; of  
+
+b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een instelling met het Blik op Werk keurmerk en uit een door de minister afgenomen toets blijkt dat de inburgeringsplichtige niet het leervermogen heeft om het inburgeringsexamen te halen.    
+
+### Artikel  2.4c  
+
+1.  De minister verleent verlenging van de voor de inburgeringsplichtige geldende termijn op grond van [artikel 7, derde lid, onder a, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), indien de inburgeringsplichtige ten minste 300 uur heeft deelgenomen aan een inburgeringscursus bij een instelling met het Blik op Werk keurmerk en ten minste twee maal heeft deelgenomen aan de niet behaalde onderdelen van het inburgeringsexamen.   
+2.  De verlenging, bedoeld in het eerste lid, wordt voor ten hoogste twee jaar verleend.   
+
+### Artikel  2.4d  
+
+1.  Voor het onderzoek ten behoeve van een advies als bedoeld in artikel 2.4, eerste lid, is door de inburgeringsplichtige een bedrag verschuldigd van € 240,79.   
+2.  Voor het in behandeling nemen van een aanvraag voor een ontheffing als bedoeld in artikel 2.4a is door de inburgeringsplichtige een bedrag verschuldigd van € 90.   
+3.  Voor het in behandeling nemen van een aanvraag voor een ontheffing als bedoeld in artikel 2.4b, aanhef en onderdeel b, is door de inburgeringsplichtige een bedrag verschuldigd van € 150.   
+4.  Onder de inburgeringsplichtige, bedoeld in het eerste lid, wordt mede verstaan de inburgeringsplichtige, bedoeld in [artikel X, tweede lid, van de Wet van 13 september 2012 tot wijziging van de Wet inburgering en enkele wetten in verband met de versterking van de eigen verantwoordelijkheid van de inburgeringsplichtige](../../../../wet/wijzigingswet/wet/inburgering/enz./(versterking/eigen/verantwoordelijkheid/etc/BWBR0032031/README.md) (Stb. 2012, 430), die een ontheffing aanvraagt op grond van de regels gesteld bij of krachtens [artikel 6, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), zoals dit luidde op 31 december 2012.   
 
 ### §  4  
 
@@ -285,7 +315,8 @@ e. de datum, en
 
 f. de specificatie van het factuurbedrag.     
 3.  De betaling van de factuur, bedoeld in het eerste lid, geschiedt binnen vier weken na ontvangst door de minister van die factuur.   
-4.  De eerste betaling vindt plaats binnen een jaar na de beschikking, bedoeld in [artikel 4.4, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), waarbij het recht op de lening is vastgesteld. Indien binnen deze periode geen betaling heeft plaatsgevonden, vervalt de beschikking.   
+4.  De eerste betaling vindt plaats binnen een jaar na de beschikking, bedoeld in [artikel 4.4 van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), waarbij het recht op de lening is vastgesteld. Indien binnen deze periode geen betaling heeft plaatsgevonden, vervalt de beschikking.   
+5.  De minister betaalt per kwartaal de bedragen van de lening aan de hand van de facturen met een maximum van € 1.250,–. Indien het bedrag van de facturen, bedoeld in het eerste lid, hoger is dan € 1.250,– wordt de inburgeringsplichtige verzocht nieuwe facturen te overleggen van nog verschuldigde bedragen voor gevolgde cursussen of voor examens als bedoeld in het eerste lid.   
 
 ### §  2  
 
@@ -303,7 +334,7 @@ Het rentepercentage, genoemd in [artikel 4.5, eerste lid, van het besluit](../..
 ### Artikel  4.5  
 
 1.  Gedurende de aanloopfase, bedoeld in [artikel 17, eerste lid, van de wet](../../../../wet/wet/inburgering/BWBR0020611/README.md), en de eerste vijf jaren van de de terugbetalingsperiode, bedoeld in [artikel 4.6, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md), wordt hetzelfde rentepercentage gehanteerd, vastgesteld overeenkomstig [artikel 4.5, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md). Het bij aanvang van de aanloopfase geldende rentepercentage wordt gehanteerd.   
-1.  Voor de resterende terugbetalingsperiode na het verstrijken van de in het eerste lid genoemde termijn wordt het rentepercentage opnieuw vastgesteld overeenkomstig [artikel 4.5, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md).   
+2.  Voor de resterende terugbetalingsperiode na het verstrijken van de in het eerste lid genoemde termijn wordt het rentepercentage opnieuw vastgesteld overeenkomstig [artikel 4.5, eerste lid, van het besluit](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md).   
 
 ### Artikel  4.6  
 
@@ -476,40 +507,47 @@ M.C.F.Verdonk
 
 ### Bijlage  1  
 
-####bij artikel 2.1  van de Regeling inburgering
+####(Tijdelijke verblijfsdoelen) behorende bij artikel 2.1  van de Regeling inburgering
 
 Tijdelijke verblijfsdoelen 
 
-| --- |
-|:---|
-| Gezinshereniging of gezinsvorming <sup>(1)</sup>  |
-| Verblijf ter adoptie of als pleegkind <sup>(1)</sup>  |
-| Het afwachten van onderzoek naar de geschiktheid van de aspirant-adoptiefouders, bedoeld in [artikel 11 van de Wet opneming buitenlandse kinderen ter adoptie](../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md)  |
-| Familiebezoek  |
-| Het verrichten van arbeid als zelfstandige  |
-| Het verrichten van arbeid in loondienst  |
-| Verblijf als kennismigrant als bedoeld in [artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md)  |
-| Het zoeken en verrichten van arbeid, al dan niet in loondienst  |
-| Het zoeken van arbeid in loondienst aan boord van een Nederlands zeeschip of op een mijnbouwinstallatie op het continentaal plat  |
-| Het doorbrengen van verlof in Nederland  |
-| Het afwachten van herstel en hervatting van de arbeid in loondienst aan boord van een Nederlands zeeschip of op een mijnbouwinstallatie op het continentaal plat  |
-| Werkzaamheid in het kader van grensoverschrijdende dienstverlening als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](../../../../AMvB/besluit/uitvoering/wet/arbeid/vreemdelingen/BWBR0007523/README.md)  |
-| Verblijf als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel  |
-| Verblijf als stagiaire of practicant  |
-| Het volgen van studie  |
-| De voorbereiding op studie  |
-| Verblijf als au pair  |
-| Verblijf in het kader van uitwisseling  |
-| Het ondergaan van medische behandeling  |
-| Het afwachten van herstel van medische behandeling  |
-| De vervolging van mensenhandel  |
-| Het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md)  |
-| Verblijf als alleenstaande minderjarige vreemdeling  |
-| Verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken  |
-| Verblijf als onderzoeker in de zin van richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289)  |
-| Verblijfsrecht op grond van [artikel 3.4, derde lid, van het Vreemdelingenbesluit 2000](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)<sup>(2)</sup>  |
+a. uitwisseling, al dan niet in het kader van een verdrag;  
 
-<sup>(1)</sup> Indien het verblijfsrecht van de persoon bij wie verblijf is toegestaan, tijdelijk van aard is. <sup>(2)</sup> Indien bij de verlening van een verblijfsvergunning is bepaald dat het verblijfsrecht tijdelijk van aard is. 
+b. studie;  
+
+c. seizoenarbeid;  
+
+d. lerend werken;  
+
+e. arbeid in loondienst;  
+
+f. grensoverschrijdende dienstverlening;  
+
+g. arbeid als niet-geprivilegieerd militair of niet-geprivilegieerd burgerpersoneel;  
+
+h. arbeid als kennismigrant;  
+
+i. verblijf als houder van de Europese blauwe kaart in de zin van richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);  
+
+j. wetenschappelijk onderzoek in de zin van richtlijn 2005/71/EG van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289);  
+
+k. arbeid als zelfstandige;  
+
+l. het zoeken en verrichten van arbeid al dan niet in loondienst;  
+
+m. verblijf als familie- of gezinslid bij een persoon die voor een tijdelijk doel in Nederland verblijft;  
+
+n. medische behandeling;  
+
+o. het afwachten van een verzoek op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+
+p. tijdelijke humanitaire gronden;  
+
+q. het doorbrengen van verlof in Nederland;  
+
+r. het afwachten van herstel en hervatting van de arbeid in loondienst aan boord van een Nederlands zeeschip of op een mijnbouwinstallatie op het continentaal plat;  
+
+s. verblijfsrecht op grond van [artikel 3.4, derde lid, van het Vreemdelingenbesluit](../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), Indien bij de verlening van een verblijfsvergunning is bepaald dat het verblijfsrecht tijdelijk van aard is.   
 
 ### Bijlage  2  
 
@@ -902,9 +940,28 @@ Ligt ter inzage bij het Ministerie van Justitie.
 
 ### Bijlage  6  
 
-####behorende bij artikel 3.3  van de Regeling inburgering
+####, behorende bij artikel 3.3  van de Regeling inburgering
 
-![251509](http://wetten.overheid.nl/Illustration/251509)
+####Inburgeringsdiploma
+
+(voor- en achternaam) geboren (*geboortedatum) te (geboorteplaats, geboorteland),* heeft met goed gevolg het inburgeringsexamen afgelegd. Het inburgeringsexamen, zoals bedoeld in [artikel 7, tweede lid, aanhef en onderdeel a van de Wet inburgering](../../../../wet/wet/inburgering/BWBR0020611/README.md), is behaald op niveau A2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen. Het inburgeringsexamen omvat de volgende examenonderdelen: Leesvaardigheid Luistervaardigheid Schrijfvaardigheid Spreekvaardigheid (Toets Gesproken Nederlands) Kennis Nederlandse Samenleving  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| --- | --- | --- |
+| Plaats  | --- | Datum  |
+| Groningen  | --- |  *(datum diplomagerechtigd)*   |
+| --- | --- | --- |
+| Namens de Minister van Sociale Zaken en Werkgelegenheid, voor deze  | --- | Handtekening van de kandidaat  |
+| --- | --- | --- |
+| .....  | --- | .....  |
+|  *(naam van de ondertekenaar)*   | --- | --- |
+|  *(functie van de ondertekenaar)*   | --- | --- |
+| --- | --- | --- |
+| --- | --- |
+| --- | Diplomanummer: (*unieke klantsleutel alleen bekend in ISI)*  |
+
+*Doorhalingen en/of wijzigingen maken dit diplomamodel ongeldig.*   
 
 ### Bijlage  17  
 

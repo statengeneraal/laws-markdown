@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 17 november 2011, nr. WJZ/346015 (3851), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Economische Zaken, Landbouw en Innovatie;
 
-Gelet op de [artikelen 29, tweede en vijfde lid](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [60, zesde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [72, vierde lid](../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), en [116, vijfde lid, van de Wet voortgezet onderwijs BES](../../../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [7.4.3a](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [7.4.11, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op de artikelen 29, tweede en vijfde lid, en 60, zesde lid, van de Wet op het voortgezet onderwijs, 72, vierde lid, en 116, vijfde lid, van de Wet voortgezet onderwijs BES en 7.4.3a, en 7.4.11, derde lid, van de Wet educatie en beroepsonderwijs;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 3 februari 2012, nr. W05.11.0492/I);
 
@@ -15,37 +15,37 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-####Wijziging van het [Examen- en kwalificatiebesluit beroepsopleidingen WEB](../../../../../../../../../AMvB/examenbesluit/beroepsopleidingen/web/BWBR0027963/README.md)
+####Wijziging van het Examen- en kwalificatiebesluit beroepsopleidingen WEB
 
 Wijzigt het Examen- en kwalificatiebesluit beroepsopleidingen WEB.   
 
 ### Artikel  II  
 
-####Wijziging van het [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
+####Wijziging van het Eindexamenbesluit VO
 
 Wijzigt het Eindexamenbesluit VO.   
 
 ### Artikel  III  
 
-####Wijziging van het [Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)
+####Wijziging van het Staatsexamenbesluit VO
 
 Wijzigt het Staatsexamenbesluit VO.   
 
 ### Artikel  IV  
 
-####Wijziging van het [Eindexamenbesluit VO BES](../../../../../../../../../AMvB-BES/eindexamenbesluit/vo/bes/BWBR0029990/README.md)
+####Wijziging van het Eindexamenbesluit VO BES
 
 Wijzigt het Eindexamenbesluit VO BES.   
 
 ### Artikel  V  
 
-####Wijziging van het [Staatsexamenbesluit VO BES](../../../../../../../../../AMvB-BES/staatsexamenbesluit/vo/bes/BWBR0029981/README.md)
+####Wijziging van het Staatsexamenbesluit VO BES
 
 Wijzigt het Staatsexamenbesluit VO BES.   
 
 ### Artikel  VI  
 
-####Wijziging van het [Besluit van 19 augustus 2010 tot wijziging van het Besluit staatsexamens vwo-havo-mavo 2000 en het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. in verband met aanscherping van de slaag/zakregeling in het voortgezet onderwijs](../../../../../../../../../AMvB/wijzigingsbesluit/staatsexamenbesluit/vo/enz./(aanscherping/etc/BWBR0028184/README.md) (Stb. 2010, 332)
+####Wijziging van het Besluit van 19 augustus 2010 tot wijziging van het Besluit staatsexamens vwo-havo-mavo 2000 en het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. in verband met aanscherping van de slaag/zakregeling in het voortgezet onderwijs (Stb. 2010, 332)
 
 Wijzigt het Wijzigingsbesluit Staatsexamenbesluit VO, enz. (aanscherping slaag/zakregeling voortgezet onderwijs).   
 
@@ -54,23 +54,23 @@ Wijzigt het Wijzigingsbesluit Staatsexamenbesluit VO, enz. (aanscherping slaag/z
 ####Invoering rekentoets
 
 1.  De rekentoets wordt voor de eerste maal ingevoerd in het schooljaar 2013–2014.   
-2.  In afwijking van [artikel 46, vierde en vijfde lid, van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) wordt de rekentoets in het schooljaar 2013–2014 bij kandidaten uit het laatste leerjaar uitsluitend afgenomen in het laatste leerjaar.   
+2.  In afwijking van artikel 46, vierde en vijfde lid, van het Eindexamenbesluit VO wordt de rekentoets in het schooljaar 2013–2014 bij kandidaten uit het laatste leerjaar uitsluitend afgenomen in het laatste leerjaar.   
 3.  De kandidaat is vrijgesteld van de rekentoets indien hij in het schooljaar voorafgaande aan het schooljaar waarin de rekentoets wordt ingevoerd deelneemt aan een toets: 
 
-a. die is afgenomen en beoordeeld overeenkomstig de bepalingen betreffende de rekentoets als bedoeld in het [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of het [Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) zoals deze komen te luiden na inwerkingtreding van [artikel 5, onderdeel D, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md) en artikel II van dit besluit; en  
+a. die is afgenomen en beoordeeld overeenkomstig de bepalingen betreffende de rekentoets als bedoeld in het Eindexamenbesluit VO of het Staatsexamenbesluit VO zoals deze komen te luiden na inwerkingtreding van artikel 5, onderdeel D, van de Wet referentieniveaus Nederlandse taal en rekenen en artikel II van dit besluit; en  
 
 b. hij voor deze toets ten minste het cijfer 5 heeft behaald.     
-4.  Op de cijferlijst, bedoeld in [artikel 52 van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of [artikel 30 van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), wordt de rekentoets waarvoor de kandidaat vrijstelling is verleend op grond van het derde lid, vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer.   
+4.  Op de cijferlijst, bedoeld in artikel 52 van het Eindexamenbesluit VO of artikel 30 van het Staatsexamenbesluit VO, wordt de rekentoets waarvoor de kandidaat vrijstelling is verleend op grond van het derde lid, vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer.   
 
 ### Artikel  VIII  
 
-####Overgangsrecht [Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)
+####Overgangsrecht Eindexamenbesluit VO
 
-1.  In afwijking van [artikel 49, eerste lid, van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en onverminderd artikel 49, tweede en derde lid, van het Eindexamenbesluit VO is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd geslaagd indien: 
+1.  In afwijking van artikel 49, eerste lid, van het Eindexamenbesluit VO en onverminderd artikel 49, tweede lid van het Eindexamenbesluit VO is in het schooljaar waarin de rekentoets wordt ingevoerd en het daarop volgende schooljaar de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd geslaagd indien: 
 
 a. het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is;  
 
-b. hij voor zowel de rekentoets als voor het vak Nederlandse taal als eindcijfer 5 of meer heeft behaald;  
+b. hij voor het vak Nederlandse taal als eindcijfer 5 of meer heeft behaald;  
 
 c. hij onverminderd onderdeel b: 
 
@@ -80,44 +80,54 @@ c. hij onverminderd onderdeel b:
 
 3°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer waarvan ten minste één 7 of meer heeft behaald;    
 
-d. hij voor de vakken lichamelijke opvoeding en het kunstvak uit het gemeenschappelijk deel alsmede voor de maatschappelijke stage, de kwalificatie «voldoende» of «goed» heeft behaald; en  
+d. hij voor de vakken lichamelijke opvoeding en het kunstvak uit het gemeenschappelijk deel alsmede voor de maatschappelijke stage de kwalificatie «voldoende» of «goed» heeft behaald;  
 
-e. als het een eindexamen gemengde of theoretische leerweg betreft: hij voor het sectorwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald.     
-2.  In afwijking van [artikel 49, eerste en derde lid, van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd ter afsluiting van een leerwerktraject als bedoeld in [artikel 10b1 van de wet](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), geslaagd indien hij voor het beroepsgerichte programma ten minste het eindcijfer 6 heeft behaald en hij voor zowel de rekentoets als voor het vak Nederlandse taal ten minste het eindcijfer 5 heeft behaald. Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de basisberoepsgerichte leerweg, bedoeld in [artikel 10b van de wet](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), is artikel 49, eerste tot en met derde lid, van het Eindexamenbesluit VO met inachtneming van het bepaalde in het eerste lid, van overeenkomstige toepassing.   
-3.  In afwijking van [artikel 50, eerste lid, van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en onverminderd artikel 50, tweede lid, van het Eindexamenbesluit VO is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen havo of vwo heeft afgelegd geslaagd indien: 
+e. als het een eindexamen gemengde of theoretische leerweg betreft: hij voor het sectorwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald; en  
+
+f. hij de rekentoets heeft afgelegd ongeacht het daarvoor behaalde eindcijfer.     
+2.  In afwijking van het eerste lid en artikel 49, eerste en derde lid, van het Eindexamenbesluit VO, is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd ter afsluiting van een leerwerktraject als bedoeld in artikel 10b1 van de wet geslaagd indien hij: 
+
+a. voor het beroepsgerichte programma en voor het vak Nederlandse taal het eindcijfer 6 of meer heeft behaald; en  
+
+b. de rekentoets heeft afgelegd ongeacht het daarvoor behaalde eindcijfer.   Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de basisberoepsgerichte leerweg, bedoeld in artikel 10b van de wet, zijn het eerste en tweede lid van overeenkomstige toepassing.   
+3.  In afwijking van artikel 50, eerste lid, van het Eindexamenbesluit VO en onverminderd artikel 50, tweede lid, van het Eindexamenbesluit VO is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen vwo of havo heeft afgelegd geslaagd indien: 
 
 a. het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is;  
 
-b. hij voor één van de vakken Nederlandse taal en literatuur, Engelse taal en literatuur en voor zover van toepassing wiskunde A, wiskunde B of wiskunde C als eindcijfer 5 of meer heeft behaald en hij voor het andere vak dan wel vakken, genoemd in dit onderdeel als eindcijfer 6 of meer heeft behaald;  
+b. hij voor één van de vakken Nederlandse taal en literatuur, Engelse taal en literatuur en voor zover van toepassing wiskunde A, wiskunde B of wiskunde C als eindcijfer 5 of meer heeft behaald en hij voor de andere vakken, genoemd in dit subonderdeel als eindcijfer 6 of meer heeft behaald;  
 
 c. hij onverminderd onderdeel b: 
 
 1°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 of meer en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald;  
 
-2°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 4 en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt; of  
+2°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 4 en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt;  
 
 3°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt; of  
 
 4°. voor één van de vakken waarvoor een eindcijfer is vastgesteld als eindcijfer 4 en voor één van deze vakken als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt;    
 
-d. hij voor de rekentoets als eindcijfer 5 of meer heeft behaald;  
+d. hij voor geen van de onderdelen, genoemd in artikel 50, tweede lid, van het Eindexamenbesluit VO lager dan het eindcijfer 4 heeft behaald;  
 
-e. hij voor geen van de onderdelen, genoemd in het [artikel 50, tweede lid](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), lager dan het cijfer 4 heeft behaald; en  
+e. hij voor de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel van elk profiel alsmede voor de maatschappelijke stage, de kwalificatie «voldoende» of «goed» heeft behaald; en  
 
-f. hij voor de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel van elk profiel alsmede voor de maatschappelijke stage, de kwalificatie «voldoende» of «goed» heeft behaald.     
-4.  Voor een kandidaat voor wie de wijziging op grond van [artikel II, onderdeel E, vierde en vijfde lid, van het Besluit van 19 augustus 2010 tot wijziging van het Besluit staatsexamens vwo-havo-mavo 2000 en het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. in verband met aanscherping van de slaag/zakregeling in het voortgezet onderwijs](../../../../../../../../../AMvB/wijzigingsbesluit/staatsexamenbesluit/vo/enz./(aanscherping/etc/BWBR0028184/README.md) (Stb. 2010, 332), nog niet van toepassing is, geldt vanaf het schooljaar waarin de rekentoets wordt ingevoerd tot het schooljaar van inwerkingtreding van artikel II, onderdeel E, vierde en vijfde lid, van dat besluit, en onverminderd de overige bepalingen van [artikel 50 van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), dat hij geslaagd is voor het eindexamen indien hij voor de rekentoets ten minste één vijf of meer heeft behaald.   
-5.  Het eerste lid, onder b, is niet van toepassing indien de kandidaat voor het schooljaar waarin de rekentoets wordt ingevoerd is aangevangen met het afleggen van het gespreid centraal examen op grond van [artikel 59 van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md).   
-6.  In afwijking van het [derde lid of artikel 50, eerste lid, van het Eindexamenbesluit VO](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) is het niet afleggen van de maatschappelijke stage als bedoeld in [artikel 6f, van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), voor kandidaten waarvoor het [Besluit van 14 juni 2011 tot wijziging van onder meer het Inrichtingsbesluit WVO en het Eindexamenbesluit VO in verband met de invoering van een maatschappelijke stage in het voortgezet onderwijs](../../../../../../../../../AMvB/wijzigingsbesluit/inrichtingsbesluit/wvo/enz./(invoering/maatschappelijke/etc/BWBR0030391/README.md) (Stb. 2011, 401) op grond van [artikel IV van dat besluit](../../../../../../../../../AMvB/wijzigingsbesluit/inrichtingsbesluit/wvo/enz./(invoering/maatschappelijke/etc/BWBR0030391/README.md) niet van toepassing is, niet van invloed op het slagen voor het eindexamen havo of vwo.   
+f. hij de rekentoets heeft afgelegd ongeacht het daarvoor behaalde eindcijfer.     
+4.  Voor een kandidaat voor wie de wijziging op grond van artikel II, onderdeel E, vierde en vijfde lid, van het Besluit van 19 augustus 2010 tot wijziging van het Besluit staatsexamens vwo-havo-mavo 2000 en het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. in verband met aanscherping van de slaag/zakregeling in het voortgezet onderwijs (Stb. 2010, 332), nog niet van toepassing is, geldt dat hij in het schooljaar 2015–2016, onverminderd de overige bepalingen van artikel 50 van het Eindexamenbesluit VO, geslaagd is voor het eindexamen, indien hij voor de rekentoets ten minste één vijf of meer heeft behaald.   
+5.  Indien de kandidaat op grond van artikel 59 van het Eindexamenbesluit VO met het afleggen van het gespreid centraal examen is aangevangen: 
+
+a. in het schooljaar voorafgaand aan de invoering van de rekentoets: is het eerste lid, onder b, niet van toepassing op zijn eindexamen;  
+
+b. in het schooljaar volgende op het schooljaar waarin de rekentoets is ingevoerd: is in afwijking van het eerste lid in de twee opvolgende schooljaren na het het schooljaar waarin de rekentoets is ingevoerd het overgangsrecht in dit artikel van toepassing op zijn eindexamen.     
+6.  In afwijking van het derde lid of artikel 50, eerste lid, van het Eindexamenbesluit VO is het niet afleggen van de maatschappelijke stage als bedoeld in artikel 6f, van de Wet op het voortgezet onderwijs, voor kandidaten waarvoor het Besluit van 14 juni 2011 tot wijziging van onder meer het Inrichtingsbesluit WVO en het Eindexamenbesluit VO in verband met de invoering van een maatschappelijke stage in het voortgezet onderwijs (Stb. 2011, 401) op grond van artikel VI van dat besluit niet van toepassing is, niet van invloed op het slagen voor het eindexamen havo of vwo.   
 
 ### Artikel  IX  
 
-####Overgangsrecht [Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)
+####Overgangsrecht Staatsexamenbesluit VO
 
-1.  In afwijking van [artikel 26, eerste lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd geslaagd indien: 
+1.  In afwijking van artikel 26, eerste lid, van het Staatsexamenbesluit VO is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd geslaagd indien: 
 
 a. het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is;  
 
-b. hij voor zowel de rekentoets als voor het vak Nederlandse taal als eindcijfer 5 of meer heeft behaald;  
+b. hij voor het vak Nederlandse taal als eindcijfer 5 of meer heeft behaald;  
 
 c. hij onverminderd onderdeel b: 
 
@@ -125,10 +135,12 @@ c. hij onverminderd onderdeel b:
 
 2°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 4 en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer waarvan ten minste één 7 of meer heeft behaald; of  
 
-3°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer waarvan ten minste één 7 of meer heeft behaald; en    
+3°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer waarvan ten minste één 7 of meer heeft behaald;    
 
-d. als het een staatsexamen gemengde of theoretische leerweg betreft: hij voor het sectorwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald.     
-2.  In afwijking van [artikel 26a, eerste lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) en onverminderd artikel 26a, tweede en derde lid, van het Staatsexamenbesluit VO is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen havo of vwo heeft afgelegd geslaagd indien: 
+d. als het een staatsexamen gemengde of theoretische leerweg betreft: hij voor het sectorwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald; en  
+
+e. hij de rekentoets heeft afgelegd ongeacht het daarvoor behaalde eindcijfer.     
+2.  In afwijking van artikel 26a, eerste lid, van het Staatsexamenbesluit VO en onverminderd artikel 26a, tweede en derde lid, van het Staatsexamenbesluit VO is in het schooljaar waarin de rekentoets wordt ingevoerd en het daaropvolgende schooljaar de kandidaat die eindexamen havo of vwo heeft afgelegd geslaagd indien: 
 
 a. het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is;  
 
@@ -142,11 +154,10 @@ c. hij onverminderd onderdeel b:
 
 3°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald dan wel voor één van de vakken waarvoor een eindcijfer is vastgesteld als eindcijfer 4 en voor één van deze vakken als eindcijfer 5 heeft behaald, en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt;    
 
-d. hij voor de rekentoets als eindcijfer 5 of meer heeft behaald; en  
+d. hij de rekentoets heeft afgelegd ongeacht het behaalde eindcijfer; en  
 
-e. hij voor geen van de onderdelen, genoemd in [artikel 26a, tweede lid](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), lager dan het cijfer 4 heeft behaald.     
-3.  In afwijking van [artikel 27, tweede lid, van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), kan Onze Minister van Onderwijs, Cultuur en Wetenschap besluiten dat in het schooljaar waarin de rekentoets wordt ingevoerd er een recht op een tweede herkansing in de rekentoets bestaat waarop een kandidaat beroep kan doen indien hij na de eerste herkansing voor de rekentoets niet hoger dan het eindcijfer 6 heeft behaald.   
-4.  Voor een kandidaat voor wie de wijziging op grond van [artikel II, onderdeel E, vierde en vijfde lid, van het Besluit van 19 augustus 2010 tot wijziging van het Besluit staatsexamens vwo-havo-mavo 2000 en het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. in verband met aanscherping van de slaag/zakregeling in het voortgezet onderwijs](../../../../../../../../../AMvB/wijzigingsbesluit/staatsexamenbesluit/vo/enz./(aanscherping/etc/BWBR0028184/README.md) (Stb. 2010, 332), nog niet van toepassing is, geldt vanaf het schooljaar waarin de rekentoets wordt ingevoerd tot het schooljaar van inwerkingtreding van artikel II, onderdeel E, vierde en vijfde lid, van dat besluit, en onverminderd de overige bepalingen van [artikel 26a van het Staatsexamenbesluit VO](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), dat hij geslaagd is voor het staatsexamen indien hij voor de rekentoets ten minste één vijf of meer heeft behaald.   
+e. hij voor geen van de onderdelen, genoemd in artikel 26a, tweede lid, lager dan het cijfer 4 heeft behaald.     
+3.  Voor een kandidaat voor wie de wijziging op grond artikel I, onderdeel D, onderdelen 4 en 5 van het Besluit van 19 augustus 2010 tot wijziging van het Besluit staatsexamens vwo-havo-mavo 2000 en het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. in verband met aanscherping van de slaag/zakregeling in het voortgezet onderwijs (Stb. 2010, 332), nog niet van toepassing is, geldt dat hij in het schooljaar 2015–2016, onverminderd de overige bepalingen van artikel 26a van het Staatsexamenbesluit VO, geslaagd is voor het eindexamen, indien hij voor de rekentoets ten minste één vijf of meer heeft behaald.   
 
 ### Artikel  X  
 

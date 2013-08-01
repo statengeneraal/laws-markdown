@@ -17,7 +17,7 @@ In deze wet wordt verstaan onder:
 
 *Cito:* Stichting Cito Instituut voor Toetsontwikkeling, genoemd in [artikel 12 van de Wet subsidiëring landelijke ondersteunende activiteiten](../../../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/BWBR0008725/README.md);  
 
-*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en wat betreft het landbouwonderwijs, Onze Minister van Landbouw, Natuur en Voedselkwaliteit.    
+*Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken.    
 
 ### Artikel  2  
 
@@ -37,6 +37,7 @@ e. het geven van regels voor de omzetting van de scores in cijfers;
 f. het tot stand brengen en bij regeling vaststellen van syllabi, overeenkomstig het examenprogramma; en  
 
 g. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de opgaven.     
+2a.  Het tweede lid is van overeenkomstige toepassing op de rekentoets, bedoeld in de [artikelen 29, vijfde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [60, zesde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [artikel 7.4.11, derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de daarop berustende bepalingen.   
 3.  Het college is belast met de volgende taken op het gebied van de staatsexamens, bedoeld in [artikel 60 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de daarop berustende bepalingen en de staatsexamens, bedoeld in [artikel 116 van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en de daarop berustende bepalingen: 
 
 a. het bij regeling vaststellen van het examenreglement;  
@@ -110,6 +111,11 @@ c. de voorstellen voor de kosten van de werkzaamheden, bedoeld in onderdeel b.
 ### Artikel  9  
 
 Wijzigt de Wet educatie en beroepsonderwijs.   
+
+### Artikel  9*   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Zolang een of meer van de in artikel 2, zesde lid, genoemde artikelen van de [Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in artikel 8, tweede lid, uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra.  
 
 ### Artikel  10  
 
