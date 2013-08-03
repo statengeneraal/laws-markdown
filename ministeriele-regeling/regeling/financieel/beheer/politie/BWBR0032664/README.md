@@ -135,6 +135,7 @@ a. activa boven een bedrag van € 10.000 per eenheid, en
 
 b. activa waarvan het bedrag per eenheid groter is dan € 500 en het totaalbedrag van de aanschaffing een bedrag van € 10.000 overschrijdt.     
 2.  In afwijking van het eerste lid wordt afgezien van activering indien gedurende opeenvolgende jaren een gelijk bedrag wordt geïnvesteerd als aan afschrijvingslasten wordt verantwoord in de begroting en in de jaarrekening ten aanzien van activa van eenzelfde soort.   
+3.  In afwijking van het eerste lid wordt zelf ontwikkelde software voor gebruik door de politie niet geactiveerd onder materiële vaste activa, maar verantwoord in de exploitatierekening.   
 
 ### Artikel  16  
 
@@ -183,7 +184,7 @@ Activa aangeschaft vóór de datum van inwerkingtreding van de [Politiewet 2012]
 
 ### Artikel  23  
 
-1.  In afwijking van artikel 17 zijn in de balans van de politie bestemmingsreserves toegestaan voor ICT tot maximaal € 326 miljoen en voor groot onderhoud van gebouwen tot maximaal de som van de bedragen die, onder de aanduiding voorziening groot onderhoud van gebouwen, in de eindbalansen van de regionale politiekorpsen, bedoeld in [artikel 4 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), zoals [deze wet](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) luidde voor 1 januari 2013, zijn opgenomen.   
+1.  In afwijking van artikel 17 zijn in de balans van de politie bestemmingsreserves toegestaan voor ICT tot € 365,6 miljoen en voor groot onderhoud van gebouwen tot maximaal de som van de bedragen die, onder de aanduiding voorziening groot onderhoud van gebouwen, in de eindbalansen van de regionale politiekorpsen, bedoeld in [artikel 4 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md), zoals [deze wet](../../../../../../wet/politiewet/1993/BWBR0006299/README.md) luidde voor 1 januari 2013, zijn opgenomen.   
 2.  De bestemmingsreserves, bedoeld in het eerste lid, worden niet meegenomen in de vaststelling van de omvang van het eigen vermogen, bedoeld in artikel 20.   
 3.  De bestemmingsreserve ICT blijft uiterlijk in stand tot en met de balans per ultimo 2017. De bestemmingsreserve groot onderhoud van gebouwen blijft uiterlijk in stand tot en met de balans per ultimo 2013.   
 
