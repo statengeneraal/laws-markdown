@@ -103,7 +103,7 @@ De ondernemer die vleeskuikens houdt is aan het productschap een bestemmingsheff
 
 ### Artikel  8  
 
-De ondernemer die eenden houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2013 opgezette eenden tegen een tarief van € 0,001 56 per opgezette eend.  
+De ondernemer die eenden houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2013 opgezette eenden tegen een tarief van € 0,0006 per opgezette eend.  
 
 ### Artikel  9  
 
@@ -160,36 +160,34 @@ voorzitter
 B.M. Dellaert  
 secretaris   
 
-### Bijlage  
-
-Nadere verdeling van de heffingen naar fondsen, zoals bedoeld in artikel 11 van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2013  
+### Bijlage  Nadere verdeling van de heffingen naar fondsen, zoals bedoeld in artikel 11  van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2013  
 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|  *VLEESSECTOR*   | grondslag heffing  | heffingseenheid  | heffing  | Verdeling van de bestemmingsheffingen over de fondsen:  |
-| --- | --- | --- | --- | Kwal / O&O  | afzetbevordering  | Mg bestrijding  | gezondheidszorg  |
-| Sector / artikel  | --- | --- | €  | €  | –  | €  | €  |
+| VLEESSECTOR  | grondslag heffing  | heffings eenheid  | heffing  | Verdeling van de bestemmingsheffingen over de fondsen:  |
+| Kwal / O & O  | afzet bevordering  | Mg bestrijding  | gezondheidszorg  |
+| Sector / artikel  | --- | --- | €  | €  | €  | €  | €  |
 |  *Kippen/Kuikens*   | --- | --- | --- | --- | --- | --- | --- |
-|  2, lid 2, sub a    | inleggen broedeieren, ter verkrijging fok-/vermeerderingspluimvee  | per stuk  | 0,00257  | 0,00007  | --- | --- | 0,00250  |
-|  2, lid 3, sub a    | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00028  | 0,00002  | --- | --- | 0,00026  |
+|  2, lid 2, sub a    | inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee  | per stuk  | 0,00257  | 0,00007  | --- | --- | 0,00250  |
+| 2, lid 3, sub a  | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00028  | 0,00002  | --- | --- | 0,00026  |
 |  3, lid 2, sub a    | plaatsen eendagskuikens opfok grootmoederdieren  | per stuk  | 0,02797  | 0,00297  | --- | --- | 0,02500  |
-|  3, lid 2, sub b    | plaatsen eendagskuikens opfok moederdieren  | per stuk  | 0,02850  | 0,00350  | --- | --- | 0,02500  |
+| 3, lid 2, sub b  | plaatsen eendagskuikens opfok moederdieren  | per stuk  | 0,02850  | 0,00350  | --- | --- | 0,02500  |
 |  4, lid 2    | plaatsen eendagskuikens opfok moederdieren  | per stuk  | 0,01765  | --- | --- | 0,01765  | --- |
 |  5, lid 2, sub a    | houden grootmoederdieren  | per stuk  | 0,20587  | 0,00587  | --- | --- | 0,20000  |
-|  5, lid 2, sub b    | houden moederdieren  | per stuk  | 0,06820  | 0,01620  | --- | --- | 0,05200  |
-|  6, lid 2    | houden moederdieren  | per stuk  | 0,06087  | --- | --- | 0,06087  | --- |
-|  7    | houden vleeskuikens  | per stuk  | 0,00190  | 0,00039  | 0,0–030  | --- | 0,00121  |
+| 5, lid 2, sub b  | houden moederdieren  | per stuk  | 0,06820  | 0,01620  | --- | --- | 0,05200  |
+|  6, lid 2    | houden vleeskuikens  | per stuk  | 0,06087  | --- | --- | 0,06087  | --- |
+|  7    | geslachte oude kippen en hanen  | per stuk  | 0,00190  | 0,00039  | 0,00030  | --- | 0,00121  |
 |  10, lid 2, sub a    | geslachte oude kippen en hanen  | per kg  | 0,00027  | 0,00027  | --- | --- | --- |
-|  10, lid 2, sub b    | geslachte vleeskuikens  | per kg  | 0,00163  | 0,00033  | 0,0–130  | --- | --- |
+| 10, lid 2, sub b  | geslachte vleeskuikens  | per kg  | 0,00163  | 0,00033  | 0,00130  | --- | --- |
 |  *Kalkoenen*   | --- | --- | --- | --- | --- | --- | --- |
-|  2, lid 3, sub c    | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00167  | --- | --- | --- | 0,00167  |
-|  3, lid 2, sub c    | plaatsen eendagskuikens (groot)moederdieren  | per stuk  | 0,07045  | --- | --- | --- | 0,07045  |
-|  5, lid 2, sub c    | houden moederdieren  | per stuk  | 0,11532  | --- | --- | --- | 0,11532  |
+| 2, lid 3, sub c  | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00167  | --- | --- | --- | 0,00167  |
+| 3, lid 2, sub c  | plaatsen eendagskuikens (groot)moederdieren  | per stuk  | 0,07046  | --- | --- | --- | 0,07046  |
+| 5, lid 2, sub c  | houden moederdieren  | per stuk  | 0,11532  | --- | --- | --- | 0,11532  |
 |  9    | houden vleeskalkoenen  | per stuk  | 0,03775  | --- | --- | --- | 0,03775  |
-|  10, lid 2 sub c    | geslachte kalkoenen  | per kg  | 0,00000  | 0,00000  | --- | --- | --- |
+| 10, lid 2 sub c  | geslachte kalkoenen  | per kg  | 0,00000  | 0,00000  | --- | --- | --- |
 |  *Eenden*   | --- | --- | --- | --- | --- | --- | --- |
-|  2, lid 2, sub b    | inleggen broedeieren, ter verkrijging fok-/vermeerderingspluimvee  | per stuk  | 0,00051  | 0,0001  | --- | --- | 0,00041  |
-|  2, lid 3, sub b    | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00051  | 0,0001  | --- | --- | 0,00041  |
-|  8    | houden eenden  | per stuk  | 0,00156  | 0,00096  | --- | --- | 0,00060  |
+| 2, lid 2, sub b  | inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee  | per stuk  | 0,00051  | 0,0001  | --- | --- | 0,00041  |
+| 2, lid 3, sub b  | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00051  | 0,0001  | --- | --- | 0,00041  |
+|  8    | houden eenden  | per stuk  | 0,00060  | 0,00000  | --- | --- | 0,00060  |
 |  10, lid 2, sub d    | geslachte tamme eenden  | per kg  | 0,0008  | 0,0008  | --- | --- | --- |
 
