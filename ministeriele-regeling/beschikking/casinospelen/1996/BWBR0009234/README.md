@@ -3,14 +3,14 @@
 ##Beschikking Casinospelen 1996
 
 De Staatssecretaris van Justitie en de Minister van Economische Zaken,  
-Gelet op de [artikelen 27h](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [27i](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [30z](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [34 van de Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), en [artikel 11 van het Speelautomatenbesluit 2000](../../../../../AMvB/speelautomatenbesluit/2000/BWBR0011373/README.md);
+Gelet op de artikelen 27h, 27i, 30z en 34 van de Wet op de kansspelen, en artikel 11 van het Speelautomatenbesluit 2000;
 
 Gelezen het advies van het College van toezicht op de kansspelen van 22 september 1997;
 Besluiten:    
 
 ### Artikel  1  
 
-In deze beschikking wordt verstaan onder:   a. de Wet:  de [Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);    b. de minister:  de Minister van Justitie;    c. het college:  het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);    d. de stichting:  de Nationale Stichting tot Exploitatie van Casinospelen in Nederland, handelende onder de naam ‘Holland Casino’, statutair gevestigd te ’s-Gravenhage.    e. speelcasino:  een inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);    f. speelzaal:  een zich binnen een speelcasino bevindende ruimte bestemd voor de organisatie van casinospelen of de opstelling van kansspelautomaten;    g. kansspelautomaat:  een toestel als bedoeld in [artikel 30 van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);    h. spelreglement:  reglement als bedoeld in artikel 4, tweede lid;    i. huisreglement:  reglement als bedoeld in artikel 10, tweede lid.     
+In deze beschikking wordt verstaan onder:   a. de Wet:  de Wet op de kansspelen;    b. de minister:  de Minister van Justitie;    c. het college:  het College van toezicht op de kansspelen als bedoeld in artikel 33 van de wet;    d. de stichting:  de Nationale Stichting tot Exploitatie van Casinospelen in Nederland, handelende onder de naam ‘Holland Casino’, statutair gevestigd te ’s-Gravenhage.    e. speelcasino:  een inrichting als bedoeld in artikel 27g, tweede lid, van de wet;    f. speelzaal:  een zich binnen een speelcasino bevindende ruimte bestemd voor de organisatie van casinospelen of de opstelling van kansspelautomaten;    g. kansspelautomaat:  een toestel als bedoeld in artikel 30 van de wet;    h. spelreglement:  reglement als bedoeld in artikel 4, tweede lid;    i. huisreglement:  reglement als bedoeld in artikel 10, tweede lid.     
 
 ### Artikel  2  
 
@@ -22,7 +22,7 @@ b. het organiseren van een speelcasino in de gemeente Haarlem, zodra de stichtin
 
 c. het organiseren van een tweede speelcasino in de gemeente Amsterdam, zodra de stichting het organiseren van een speelcasino in de gemeente Haarlemmermeer beëindigt;  
 
-d. het aanwezig hebben van kansspelautomaten in de onder a. tot en met c. bedoelde casino’s.     
+d. het aanwezig hebben en exploiteren van kansspelautomaten in de onder a. tot en met c. bedoelde casino’s.     
 2.  Aan de in het eerste lid bedoelde vergunning worden de in artikel 3 tot en met artikel 25 vervatte voorschriften verbonden.   
 
 ### Artikel  3  
@@ -56,7 +56,9 @@ h. Red dog;
 
 i. Keno;  
 
-j. Poker.     
+j. Poker;  
+
+k. Casino War.     
 2.  De stichting stelt een spelreglement op betreffende de wijze waarop de in het eerste lid bedoelde casinospelen worden gespeeld.   
 3.  In de speelcasino’s kunnen ook andere casinospelen dan de in artikel 4, eerste lid, bedoelde casinospelen worden georganiseerd teneinde de exploitatiemogelijkheden hiervan te beproeven. Van de voorgenomen proefopstelling wordt voor de plaatsing door de stichting mededeling gedaan aan de minister, in afschrift aan het college.   
 4.  De proefperiode bedraagt ten hoogste een jaar. Uiterlijk drie maanden voor het verstrijken van de periode wordt door de stichting aan de minister en in afschrift aan het college verslag gedaan van de bevindingen inzake de proefopstelling.   
@@ -110,7 +112,7 @@ c. het spelproces in werking wordt gesteld doordat of nadat, al naar gelang de s
 
 d. de inworp slechts gedaan kan worden in de vorm van geldige Nederlandse bankbiljetten of munten, speelpenningen, of vreemde munten of bankbiljetten;  
 
-e. de inzet per inzetmogelijkheid ten hoogste 50,- is;  
+e. de inzet per inzetmogelijkheid ten hoogste € 50,- is;  
 
 f. binnen één spel maximaal € 150,- kan worden verspeeld;  
 
@@ -125,14 +127,14 @@ j. de uitbetaling van prijzen slechts kan plaatsvinden in de vorm van geldige Ne
 k. indien een kredietmeter aanwezig is, deze de omvang van een gewonnen prijs onmiddellijk door middel van de kredietmeter toont en de uitbetaling plaatsvindt zodra de speler het uitbetalingsmechanisme in werking stelt;  
 
 l. indien geen kredietmeter aanwezig is, een gewonnen prijs onmiddellijk ter beschikking van de speler wordt gesteld;     
-2.  Ten aanzien van het model van een kansspelautomaat is [artikel 7 van de Speelautomatenregeling 2000](../../../../../ministeriele-regeling/speelautomatenregeling/2000/BWBR0011382/README.md) van toepassing.   
+2.  Ten aanzien van het model van een kansspelautomaat is artikel 7 van de Speelautomatenregeling 2000 van toepassing.   
 3.  Elke kansspelautomaat dient de inzetten, de uitbetalingen en het aantal gespeelde spellen te registreren, al dan niet met behulp van een centraal computersysteem.   
 4.  Het is de stichting toegestaan door middel van het onderling verbinden van twee of meer kansspelautomaten een voor die spelen gezamenlijke hoofdprijs aan te bieden.   
 5.  Het is de stichting toegestaan een aanvangsbedrag voor de gemeenschappelijke hoofdprijs vast te stellen, zonder dat dit bedrag is opgebouwd door de inzetten.   
 6.  Het is de stichting toegestaan de winnaar van een hoofdprijs de vrije keus te laten tussen de geldprijs zoals aangegeven op het winplan, een prijs in natura, of een combinatie daarvan.   
 7.  Het is de stichting toegestaan extra prijzen, hetzij in natura, hetzij als geldprijs, hetzij als combinatie van beide, ter beschikking te stellen als bonus- en/of mysteryjackpot.   
 8.  Meerdere kansspelautomaten kunnen worden bestuurd door één centraal computersysteem, waarbij het proces door de speler in werking wordt gesteld.   
-9.  Het is de stichting toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de stichting op te stellen regels, welke voldoen aan de eisen van artikel 8, eerste lid, onder a, en i en het tweede lid van de beschikking. De overige bepalingen van lid 8 zijn niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennis te worden gebracht van het college.   
+9.  Het is de stichting toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de stichting op te stellen regels, welke voldoen aan de eisen van artikel 8, eerste lid, onder a, en i en het tweede lid van de beschikking. De overige bepalingen van artikel 8 zijn niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennis te worden gebracht van het college.   
 10.  Het is de stichting toegestaan ‘altijd-prijs-automaten’ aan te bieden voor promotionele doeleinden, volgens door de stichting op te stellen regels, waarbij de speler geen inzet behoeft te doen anders dan met uitgereikte penning en waarbij de uitkering geschiedt in de vorm van prijzen in natura. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 150,- Artikel 8, eerste lid, onder d, e, f en j, is niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennisneming te worden toegezonden aan het college.   
 11.  In afwijking van het gestelde in het eerste lid, onder d en j, is het de stichting tevens toegestaan inworp en uitbetaling te doen plaatsvinden in de vorm van tegoeden op een geldige door de stichting uitgegeven chipkaart, waarbij de stichting de volgende voorschriften in acht neemt: 
 
@@ -151,7 +153,9 @@ a. de tegoedbonnen hebben een waarde van ten hoogste 1000 euro;
 
 b. de tegoedbonnen kunnen tijdens de openingsuren van het casino door de tegoedbonhouder voor geld worden ingewisseld tot 12 maanden na uitgifte;  
 
-c. de tegoedbonnen vermelden ten minste de waarde in euro’s, de datum en het tijdstip van afgifte, het nummer van de uitgevende automaat, en de in onderdeel b bedoelde geldigheidstermijn.     
+c. de tegoedbonnen vermelden ten minste de waarde in euro’s, de datum en het tijdstip van afgifte, het nummer van de uitgevende automaat c.q. kassa, en de in onderdeel b bedoelde geldigheidstermijn;  
+
+d. Onderdeel b is niet van toepassing op de door de stichting voor promotiedoeleinden uitgegeven gratis tegoedbonnen, mits dit duidelijk op de bonnen vermeld wordt. De promotietegoedbonnen hebben een waarde van ten hoogste 500 euro.     
 
 ### Artikel  9  
 
@@ -164,13 +168,13 @@ Het is de stichting toegestaan ten behoeve van promotionele acties extra prijzen
 
 ### Artikel  9b  
 
-1.  De stichting kan bij casinospelen of kansspelautomaten prijzen in annuïteiten uitkeren, mits het uit te keren prijsbedrag wordt gekapitaliseerd in een contante waarde en de aanspraak daarop wordt ondergebracht bij een instelling als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).   
+1.  De stichting kan bij casinospelen of kansspelautomaten prijzen in annuïteiten uitkeren, mits het uit te keren prijsbedrag wordt gekapitaliseerd in een contante waarde en de aanspraak daarop wordt ondergebracht bij een instelling als bedoeld in artikel 1, eerste lid, onder 1°, 2° of 3°, van de Wet ter voorkoming van witwassen en financieren van terrorisme.   
 2.  Het uitloven van prijzen in annuïteiten is slechts toegestaan indien de speler de keuze heeft om bij soortgelijke casinospelen of kansspelautomaten mee te dingen naar prijzen in geld of in natura met een vergelijkbare waarde als de prijzen in annuïteiten.   
 3.  De stichting is gehouden zodanige maatregelen te treffen dat de uitbetaling van de prijzen aan de winnaars te allen tijde is gewaarborgd.   
 
 ### Artikel  10  
 
-1.  De stichting treft de maatregelen en voorzieningen die noodzakelijk zijn voor een behoorlijk toezicht op de toegang tot het speelcasino en die noodzakelijk zijn voor het handhaven van de orde en rust in de speelzaal. Voor zover hiervoor gebruik wordt gemaakt van beveiligingsbeambten zijn deze gediplomeerd overeenkomstig de [Regeling particuliere beveiligingsorganisaties en recherchebureaus](../../../../../ministeriele-regeling/regeling/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0010256/README.md).   
+1.  De stichting treft de maatregelen en voorzieningen die noodzakelijk zijn voor een behoorlijk toezicht op de toegang tot het speelcasino en die noodzakelijk zijn voor het handhaven van de orde en rust in de speelzaal. Voor zover hiervoor gebruik wordt gemaakt van beveiligingsbeambten zijn deze gediplomeerd overeenkomstig de Regeling particuliere beveiligingsorganisaties en recherchebureaus.   
 2.  De stichting stelt een reglement op met regels die door bezoekers in acht moeten worden genomen bij de toegang tot het speelcasino en het verblijf in de speelzaal.   
 3.  Het huisreglement bevat ten minste regels inzake: 
 
@@ -227,7 +231,7 @@ d. de door de minister overeenkomstig artikel 7, eerste lid, aangewezen onafhank
 e. de instelling aangewezen bij beschikking van 25 april 1989, Stcrt.82, en de personen aangewezen bij beschikking van 1 juni 1989, Stcrt. 214;  
 
 f. de voorzitter en de leden van de raad van commissarissen, alsmede van het bestuur van de stichting.     
-2.  Het is de in het eerste lid bedoelde personen en de stichting niet toegestaan geldleningen te verstrekken aan spelers of van deze geldleningen te ontvangen.   
+2.  Het is de in het eerste lid bedoelde personen en de stichting niet toegestaan geldleningen te verstrekken aan spelers of van deze geldleningen te ontvangen. Onder dit verbod valt niet het achteraf in rekening brengen van groepsarrangementen.   
 3.  De stichting ziet toe op de naleving van het bepaalde in het eerste en tweede lid.   
 
 ### Artikel  14  
@@ -259,7 +263,7 @@ f. de voorzitter en de leden van de raad van commissarissen, alsmede van het bes
 
 ### Artikel  19  
 
-De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Binnen acht weken na vaststelling van de jaarrekening, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.  
+De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek. Binnen acht weken na vaststelling van de jaarrekening, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.  
 
 ### Artikel  20  
 

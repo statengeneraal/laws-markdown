@@ -7,7 +7,7 @@ Overwegende dat de geldigheidsduur van de Beschikking Vriendenloterij 2006 op 31
 
 Overwegende dat Vriendenloterij N.V. op 24 juni 2010 heeft verzocht haar opnieuw vergunning te verlenen tot het organiseren van de Vriendenloterij;
 
-Gelet op de [artikelen 3](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), [5](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [34 van de Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), en de [artikelen 2](../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) en [5 van het Kansspelenbesluit](../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md);
+Gelet op de artikelen 3, 5 en 34 van de Wet op de kansspelen, en de artikelen 2 en 5 van het Kansspelenbesluit;
 
 Gezien het advies van het College van toezicht op de kansspelen van 19 augustus 2010, nr. C.668/10;
 Besluit:    
@@ -16,9 +16,9 @@ Besluit:
 
 In deze beschikking wordt verstaan onder: 
 
-a. *de wet:* de [Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);  
+a. *de wet:* de Wet op de kansspelen;  
 
-b. *het besluit:* het [Kansspelenbesluit](../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md);  
+b. *het besluit:* het Kansspelenbesluit;  
 
 c. *de staatssecretaris:* de Staatssecretaris van Veiligheid en Justitie;  
 
@@ -30,13 +30,13 @@ f. *de stichting aandelen:* Stichting Aandelen Nationale Goede Doelen Loterijen,
 
 g. *begunstigden:* de overeenkomstig artikel 13, derde lid, toegelaten instellingen;  
 
-h. *Vriendenloterij:* een kansspel als bedoeld in [artikel 1, onder a, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), zijnde een loterij waarbij door de onderscheidene deelnemers wordt aangegeven aan welke begunstigde 50% van hun inleg ten goede dient te komen, dan wel waar de deelnemers hun inleg ten goede laten komen aan de door de vennootschap voorgestelde begunstigden. De Vriendenloterij wordt gespeeld als de ‘Vriendenloterij’ waarvan de deelnemers meedoen middels aan hen toegekende bingogetallen.  
+h. *Vriendenloterij:* een kansspel als bedoeld in artikel 1, onder a, van de wet, zijnde een loterij waarbij door de onderscheidene deelnemers wordt aangegeven aan welke begunstigde 50% van hun inleg ten goede dient te komen, dan wel waar de deelnemers hun inleg ten goede laten komen aan de door de vennootschap voorgestelde begunstigden. De Vriendenloterij wordt gespeeld als de ‘Vriendenloterij’ waarvan de deelnemers meedoen middels aan hen toegekend lotnummer, waarbij het mobiele nummer van de deelnemer beginnend met 06 dan wel een fictief toegewezen nummer, aangevuld met twee letters, deel uitmaakt van het lotnummer;  
 
 i. *sponsorcertificaat:* deelnemingsbewijs aan de Vriendenloterij, dat werd verstrekt aan degene die een terug te vorderen bedrag van € 453,78 aan de vennootschap heeft voldaan. Vanaf 1 mei 1999 is deze deelnamemogelijkheid beëindigd;  
 
-j. *toegevoegd spel:* een gelegenheid als bedoeld in [artikel 1, onder a, van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), waaraan de deelnemers aan de Vriendenloterij kunnen deelnemen middels door de vennootschap om niet verstrekte deelnemingsbewijzen;  
+j. *toegevoegd spel:* een gelegenheid als bedoeld in artikel 1, onder a, van de wet, waaraan de deelnemers aan de Vriendenloterij kunnen deelnemen middels door de vennootschap om niet verstrekte deelnemingsbewijzen;  
 
-k. *het college:* het College van toezicht op de kansspelen als bedoeld in [artikel 33 van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).    
+k. *het college:* het College van toezicht op de kansspelen als bedoeld in artikel 33 van de wet.    
 
 ### Artikel  2  
 
@@ -78,10 +78,10 @@ Eventuele provisie aan verkopers van deelnemingsbewijzen dient te worden beperkt
 
 ### Artikel  7  
 
-1.  De vennootschap organiseert ten hoogste twaalf maal per jaar de Vriendenloterij, bestaande uit ten hoogste vijf wekelijkse (bingo) trekkingen.   
+1.  De vennootschap organiseert ten hoogste tweeënvijftig keer per jaar de Vriendenloterij, bestaande uit één wekelijkse (nummerloterij) trekking.   
 2.  De inleg voor deelneming aan de Vriendenloterij bedraagt ten hoogste € 22,69 per geheel lot. De inleg per deellot wordt naar evenredigheid berekend. Deelloten geven aanspraak op een evenredig deel van de daarop gevallen prijs.   
-3.  De vennootschap organiseert ten hoogste eenmaal per maand het toegevoegde spel, bestaande uit één maandelijkse (nummerloterij) trekking.   
-4.  De vennootschap organiseert ten hoogste eenmaal per jaar twee extra (nummerloterij) trekkingen.   
+3.  De vennootschap organiseert ten hoogste eenmaal per maand het toegevoegde spel, bestaande uit één maandelijkse (bingo) trekking.   
+4.  De vennootschap organiseert per jaar ten hoogste vier extra (nummerloterij) trekkingen.   
 
 ### Artikel  8  
 
@@ -94,7 +94,7 @@ Alle houders van een sponsorcertificaat als bedoeld in artikel 1, onder i, hebbe
 
 ### Artikel  10  
 
-Onverminderd de voorschriften bij en krachtens de [Wet op de kansspelbelasting](../../../../../wet/wet/op/de/kansspelbelasting/BWBR0002359/README.md) dienen na elke prijsbepaling de prijzen onverkort zo spoedig mogelijk aan de winnaars te worden uitgekeerd. Indien dit niet mogelijk is, dienen de prijzen overeenkomstig [artikel 38 van de wet](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) gedurende één jaar na de prijsbepaling te hunner beschikking te worden gehouden.  
+Onverminderd de voorschriften bij en krachtens de Wet op de kansspelbelasting dienen na elke prijsbepaling de prijzen onverkort zo spoedig mogelijk aan de winnaars te worden uitgekeerd. Indien dit niet mogelijk is, dienen de prijzen overeenkomstig artikel 38 van de wet gedurende één jaar na de prijsbepaling te hunner beschikking te worden gehouden.  
 
 ### Artikel  11  
 
@@ -120,15 +120,15 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de st
 
 ### Artikel  15  
 
-1.  De vennootschap stelt een jaar rekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De staatssecretaris kan, gehoord het college, aanwijzingen geven ontrent de inrichting van de jaarrekening en het jaarverslag.   
-2.  De vennootschap verleent aan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek. Het onderzoek dient mede betrekking te hebben op de naleving door de vennootschap van het bepaalde in deze beschikking.   
+1.  De vennootschap stelt een jaar rekening en een jaarverslag op welke voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek. De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de holding, zolang in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De staatssecretaris kan, gehoord het college, aanwijzingen geven ontrent de inrichting van de jaarrekening en het jaarverslag.   
+2.  De vennootschap verleent aan een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek opdracht tot onderzoek van de jaarrekening. De uitslag van dit onderzoek wordt weergegeven in een verslag en een verklaring als bedoeld in onderscheidenlijk het vierde en vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek. Het onderzoek dient mede betrekking te hebben op de naleving door de vennootschap van het bepaalde in deze beschikking.   
 3.  De vennootschap voert een zodanig beheer dat een goedkeurende verklaring als bedoeld in het tweede lid kan worden afgegeven.   
 4.  Binnen vier maanden na afloop van een kalenderjaar zendt de vennootschap de jaarrekening met het verslag en de verklaring, alsmede het jaarverslag aan de staatssecretaris en het college.   
 
 ### Artikel  16  
 
 1.  De kosten verbonden aan toezicht, goedkeuring, controle en onderzoek ingevolge de artikelen 9, eerste lid, 11, eerste lid, en 15, tweede lid, zijn voor rekening van de vennootschap.   
-2.  De jaarlijkse vergoeding bedoeld in [artikel 3a van het besluit](../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) bedraagt € 2.268,– en dient binnen vier weken na aanvang van een kalenderjaar door de vennootschap te worden voldaan aan de staatssecretaris.   
+2.  De jaarlijkse vergoeding bedoeld in artikel 3a van het besluit bedraagt € 2.268,– en dient binnen vier weken na aanvang van een kalenderjaar door de vennootschap te worden voldaan aan de staatssecretaris.   
 
 ### Artikel  17  
 
@@ -139,7 +139,7 @@ De vennootschap zendt binnen één maand na het einde van elk kwartaal aan de st
 
 ### Artikel  18  
 
-Na de inwerkingtreding van deze beschikking berusten de krachtens de [Beschikking Vriendenloterij 2006](../../../../../zbo/beschikking/sponsor/loterij/2006/BWBR0019398/README.md) (Stcrt. 2006, 49) vastgestelde besluiten op deze beschikking.  
+Na de inwerkingtreding van deze beschikking berusten de krachtens de Beschikking Vriendenloterij 2006 (Stcrt. 2006, 49) vastgestelde besluiten op deze beschikking.  
 
 ### Artikel  19  
 

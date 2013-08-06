@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Deze wet is van toepassing op door Onze Ministers verstrekte subsidies waarop ingevolge de Algemene wet bestuursrechttitel 4.2 van die wet van toepassing is.  
+Deze wet is van toepassing op door Onze Ministers verstrekte subsidies waarop ingevolge de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) [titel 4.2 van die wet](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is. 
 
 ### Artikel  2  
 
-Indien voor een subsidie een datum geldt waarop de activiteiten waarvoor de subsidie is verleend uiterlijk moeten zijn verricht alsmede een datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld, verbindt Onze Minister die het aangaat aan de subsidiebeschikking de bijzondere meldingsplicht voor de subsidieontvanger om, zodra de eerstgenoemde datum is verstreken zonder dat de activiteiten geheel zijn verricht, daarvan onverwijld een schriftelijke melding te doen bij Onze Minister.  
+Indien voor een subsidie een datum geldt waarop de activiteiten waarvoor de subsidie is verleend uiterlijk moeten zijn verricht alsmede een datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld, verbindt Onze Minister die het aangaat aan de subsidiebeschikking de bijzondere meldingsplicht voor de subsidieontvanger om, zodra de eerstgenoemde datum is verstreken zonder dat de activiteiten geheel zijn verricht, daarvan onverwijld een schriftelijke melding te doen bij Onze Minister. 
 
 ### Artikel  3  
 
-Indien bij de verlening van een subsidie tevens voorschotten van in totaal per jaar gemiddeld € 200 000 of meer ambtshalve worden verleend, kan Onze Minister die het aangaat aan de subsidie de bijzondere meldingsplicht verbinden om, indien de gemaakte subsidiabele kosten in bij die beschikking te bepalen periodes 75% of minder bedragen van de voor de desbetreffende periode begrote subsidiabele kosten, dit binnen twee maanden na afloop van die periode schriftelijk te melden bij Onze Minister.  
+Indien bij de verlening van een subsidie tevens voorschotten van in totaal per jaar gemiddeld € 200 000 of meer ambtshalve worden verleend, kan Onze Minister die het aangaat aan de subsidie de bijzondere meldingsplicht verbinden om, indien de gemaakte subsidiabele kosten in bij die beschikking te bepalen periodes 75% of minder bedragen van de voor de desbetreffende periode begrote subsidiabele kosten, dit binnen twee maanden na afloop van die periode schriftelijk te melden bij Onze Minister. 
 
 ### Artikel  4  
 
@@ -42,57 +42,57 @@ b. arbeid als bedoeld in het vijfde lid onder a, verricht door personen die de l
 c. arbeid als bedoeld in het vijfde lid onder b, verricht door personen die de leeftijd van 16 jaar hebben bereikt;  
 
 d. lichte werkzaamheden als bedoeld in het zesde lid, verricht door personen die de leeftijd van 12 jaar hebben bereikt.     
-8.  Onze Minister die het aangaat kan bij toepassing van het zevende lid voorschriften en beperkingen aan de subsidiebeschikking verbinden met het oog op bescherming van de ontwikkeling, scholing, gezondheid, veiligheid en zedelijkheid van de desbetreffende personen.   
+8.  Onze Minister die het aangaat kan bij toepassing van het zevende lid voorschriften en beperkingen aan de subsidiebeschikking verbinden met het oog op bescherming van de ontwikkeling, scholing, gezondheid, veiligheid en zedelijkheid van de desbetreffende personen.  
 
 ### Artikel  5  
 
-Een beschikking waarbij een bijzondere meldingsplicht als bedoeld in artikel 2, 3 of 4 aan een subsidie wordt verbonden, merkt deze aan als bijzondere meldingsplicht in de zin van deze wet.  
+Een beschikking waarbij een bijzondere meldingsplicht als bedoeld in artikel 2, 3 of 4 aan een subsidie wordt verbonden, merkt deze aan als bijzondere meldingsplicht in de zin van deze wet. 
 
 ### Artikel  6  
 
-1.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 2, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
-2.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 3 of artikel 4, eerste lid, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
+1.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 2, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+2.  Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in artikel 3 of artikel 4, eerste lid, is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).  
 
 ### Artikel  7  
 
-1.   Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.    
-2.   Vervallen.    
+1.  Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.   
+2.  Vervallen.  
 
 ### Artikel  8  
 
-Onze Minister van Financiën zendt binnen 5 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Financiën zendt binnen 5 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  9  
 
-Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verstrekt.  
+Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verstrekt. 
 
 ### Artikel  10  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  11  
 
-Deze wet wordt aangehaald als: Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies.  
+Deze wet wordt aangehaald als: Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 27 september 2012  
 Beatrix  
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
-De Minister van Buitenlandse Zaken, 
+De Minister van Buitenlandse Zaken,  
 U. Rosenthal   
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
 de *eenendertigste* oktober 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
