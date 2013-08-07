@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst, van 11 oktober 2000, Directie Sociale Verzekeringen, Nr. SV/V&P/00/64573;
 
-Gelet op [artikel 13, derde lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md);
+Gelet op artikel 13, derde lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000;
 
 De Raad van State gehoord (advies van 26 oktober 2000, no. W12.00.0477/IV);
 
@@ -19,13 +19,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md);  
+a. wet: de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000;  
 
-b. verplichtstelling: verplichte deelneming in een bedrijfstakpensioenfonds op grond van [artikel 2, eerste lid, van de wet](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md);  
+b. verplichtstelling: verplichte deelneming in een bedrijfstakpensioenfonds op grond van artikel 2, eerste lid, van de wet;  
 
-c. vrijstelling: vrijstelling, bedoeld in [artikel 13 van de wet](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md);  
+c. vrijstelling: vrijstelling, bedoeld in artikel 13 van de wet;  
 
-d. fusie: de fusie, bedoeld in [Boek 2, titel 7, afdeling 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of het samengaan van twee of meer ondernemingen via een activa- en passivatransactie waardoor bedrijfsactiviteiten samensmelten zonder dat een of meer van de fuserende rechtspersonen ophoudt te bestaan;  
+d. fusie: de fusie, bedoeld in Boek 2, titel 7, afdeling 2 en 3 van het Burgerlijk Wetboek of het samengaan van twee of meer ondernemingen via een activa- en passivatransactie waardoor bedrijfsactiviteiten samensmelten zonder dat een of meer van de fuserende rechtspersonen ophoudt te bestaan;  
 
 e. nieuwe werkgever: de werkgever bij wie de werknemers voor wie vrijstelling was verleend na een fusie in dienst komen;  
 
@@ -74,7 +74,7 @@ c. bij de groep op de dag waarop het verzoek om vrijstelling wordt ingediend ten
 d. het aantal actieve deelnemers waarop de pensioenvoorziening van de groep van toepassing is, op de dag waarop het verzoek om vrijstelling wordt ingediend ten minste 25% dan wel ten minste 50 actieve deelnemers meer bedraagt, dan het aantal werknemers waarvoor de vrijstelling wordt gevraagd; en  
 
 e. het verzoek om vrijstelling tevens wordt gedaan door of namens de groep en de vakorganisaties, bedoeld in onderdeel b.     
-2.  Onder groep als bedoeld in het eerste lid wordt verstaan een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+2.  Onder groep als bedoeld in het eerste lid wordt verstaan een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek.   
 
 ### Artikel  4  
 
@@ -106,7 +106,7 @@ c. de toets op toereikendheid ten aanzien van de continue dekking van de verworv
 
 a. deelt op verzoek vanaf 1 april van het desbetreffende jaar schriftelijk mee welk beleggingsbeleid als bedoeld in het tweede lid het heeft gekozen waarbij de gemaakte keuzen met een toelichting zijn onderbouwd;  
 
-b. overlegt op verzoek vanaf 1 april van het desbetreffende jaar een verklaring van een externe accountant die voldoet aan [artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat een normportefeuille als bedoeld in het derde lid is vastgesteld en voorzien is van een toelichting waarbij de gemaakte keuzen zijn onderbouwd;  
+b. overlegt op verzoek vanaf 1 april van het desbetreffende jaar een verklaring van een externe accountant die voldoet aan artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek, waaruit blijkt dat een normportefeuille als bedoeld in het derde lid is vastgesteld en voorzien is van een toelichting waarbij de gemaakte keuzen zijn onderbouwd;  
 
 c. deelt op verzoek vanaf 1 januari schriftelijk mee welke normportefeuille als bedoeld in het derde lid het over het daaraan voorafgaande jaar had gekozen waarbij de gemaakte keuzen met een toelichting zijn onderbouwd;  
 
@@ -125,7 +125,7 @@ g. doet, in het geval het beleggingsbeleid en de normportefeuille opnieuw zijn v
 3°. een mededeling van het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille in de Staatscourant uiterlijk de 15 <sup>e</sup> dag na de vaststelling; en  
 
 4°. de aan het bedrijfspensioenfonds deelnemende werkgevers binnen 2 maanden na het opnieuw vaststellen van het beleggingsbeleid en de normportefeuille een schriftelijke mededeling toekomen.       
-6.  Dit artikel is niet van toepassing op een bedrijfstakpensioenfonds voorzover dat bedrijfstakpensioenfonds herverzekerd is zonder een gesepareerd beleggingsdepot. Indien een bedrijfstakpensioenfonds gedeeltelijk herverzekerd is zonder een gesepareerd beleggingsdepot is dit artikel niet van toepassing op dit herverzekerde gedeelte. In deze gevallen wordt, in afwijking van het eerste lid, aan een werkgever slechts vrijstelling verleend indien het bestuur van het bedrijfstakpensioenfonds bij het sluiten van de herverzekeringsovereenkomst niet of onvoldoende heeft getoetst of het beleggingsbeleid van de verzekeraar voldoet aan het tweede lid.   
+6.  Dit artikel is niet van toepassing op een bedrijfstakpensioenfonds voorzover dat bedrijfstakpensioenfonds verzekerd is zonder een gesepareerd beleggingsdepot. Indien een bedrijfstakpensioenfonds gedeeltelijk verzekerd is zonder een gesepareerd beleggingsdepot is dit artikel niet van toepassing op dit verzekerde gedeelte. In deze gevallen wordt, in afwijking van het eerste lid, aan een werkgever slechts vrijstelling verleend indien het bestuur van het bedrijfstakpensioenfonds bij het sluiten van de verzekeringsovereenkomst niet of onvoldoende heeft getoetst of het beleggingsbeleid van de verzekeraar voldoet aan het tweede lid.   
 
 ### Artikel  5a  
 
@@ -145,7 +145,7 @@ Op verzoek van een werkgever kan door het bedrijfstakpensioenfonds voor alle wer
 
 1.  Aan de vrijstelling kunnen door het bedrijfstakpensioenfonds voorschriften worden verbonden ter verzekering van een goede uitvoering van de wet.   
 2.  Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever of, in het geval pensioenrechten worden ontleend aan een ondernemingspensioenfonds of een ander bedrijfstakpensioenfonds, het bestuur van het desbetreffende fonds, aan De Nederlandsche Bank en aan het bestuur van het bedrijfstakpensioenfonds dat vrijstelling verleent inlichtingen zal verstrekken, die De Nederlandsche Bank of laatstgenoemd bestuur ter verzekering van een goede uitvoering van de wet verlangt. De inlichtingen worden desgewenst schriftelijk en door middel van ingevulde en ondertekende formulieren binnen een door De Nederlandsche Bank onderscheidenlijk door bedoeld bestuur, schriftelijk te stellen termijn verstrekt.   
-3.  Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever een andere pensioenvoorziening heeft en deze heeft ondergebracht als bedoeld in [artikel 23, eerste lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel dat de werkgever binnen 12 maanden na het moment waarop de vrijstelling wordt verleend een andere pensioenvoorziening zal treffen en deze zal onderbrengen als bedoeld in artikel 23, eerste lid, van de Pensioenwet.   
+3.  Aan de vrijstelling wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de werkgever een andere pensioenvoorziening heeft en deze heeft ondergebracht als bedoeld in artikel 23, eerste lid, van de Pensioenwet dan wel dat de werkgever binnen 12 maanden na het moment waarop de vrijstelling wordt verleend een andere pensioenvoorziening zal treffen en deze zal onderbrengen als bedoeld in artikel 23, eerste lid, van de Pensioenwet.   
 4.  Aan de vrijstelling, bedoeld in de artikelen 3, eerste lid, 4, 5, eerste lid, en 6 kan het bedrijfstakpensioenfonds het voorschrift verbinden dat de werkgever een financiële bijdrage betaalt ter vergoeding van het verzekeringstechnisch nadeel dat het fonds bij de vrijstelling lijdt. De hoogte van deze bijdrage wordt berekend volgens bijlage 2 bij dit besluit, tenzij partijen anders overeenkomen.   
 5.  Aan de vrijstelling, bedoeld in de artikelen 2 en 6 wordt door het bedrijfstakpensioenfonds het voorschrift verbonden dat de pensioenregeling van de werkgever volgens de berekening aan de hand van bijlage 3 bij dit besluit te allen tijde ten minste actuarieel en financieel gelijkwaardig is aan die van het bedrijfstakpensioenfonds. Indien het bedrijfstakpensioenfonds en de werkgever daarmee instemmen kan worden afgezien van de berekening, bedoeld in de vorige zin, en kan in plaats daarvan de gelijkwaardigheid worden aangetoond door middel van een kwalitatieve toets. Ten behoeve van de toets op gelijkwaardigheid verstrekt het bedrijfstakpensioenfonds de werkgever informatie over de pensioenregeling van het bedrijfstakpensioenfonds.   
 6.  Aan de vrijstelling, bedoeld in artikel 5, eerste lid, wordt het voorschrift verbonden dat aan de pensioenregeling van de werkgever ten minste dezelfde aanspraken worden ontleend als aan de pensioenregeling van het bedrijfstakpensioenfonds.   
@@ -186,9 +186,9 @@ b. de vrijstelling gehandhaafd voor de op het tijdstip van fusie in dienst zijnd
 
 1.  In dit artikel wordt verstaan onder: 
 
-a. zuivere splitsing: een zuivere splitsing als bedoeld in [artikel 334a, tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+a. zuivere splitsing: een zuivere splitsing als bedoeld in artikel 334a, tweede lid, van Boek 2 van het Burgerlijk Wetboek;  
 
-b. afsplitsing: een afsplitsing als bedoeld in [artikel 334a, derde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+b. afsplitsing: een afsplitsing als bedoeld in artikel 334a, derde lid, van Boek 2 van het Burgerlijk Wetboek;  
 
 c. oude werkgever: de voor een zuivere splitsing of afsplitsing bestaande werkgever;  
 
@@ -221,7 +221,7 @@ b. ten minste 50% van de werknemers van de gefailleerde werkgever in dienst is g
 
 ####Vaststelling hoogte boete
 
-1.  De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag, bedoeld in [artikel 20, tweede lid, van de wet](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md).   
+1.  De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag, bedoeld in artikel 20, tweede lid, van de wet.   
 2.  De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding een dergelijke verlaging of verhoging rechtvaardigt.   
 3.  De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de mate van verwijtbaarheid van de overtreder een dergelijke verlaging of verhoging rechtvaardigt.   
 
@@ -249,15 +249,15 @@ De door de toezichthouder met toepassing van artikel 8a vast te stellen bestuurl
 
 ####Overtredingen
 
-Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [wet](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), is als volgt beboetbaar:  
+Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de wet, is als volgt beboetbaar:  
 
 | Artikel  | Boetecategorie  |
-|:---|:---|
-|  [5](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md)   | 2  |
-|  [6](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md)   | 2  |
-|  [7](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md)   | 2  |
-|  [8](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md)   | 2  |
-|  [9, eerste en tweede lid](../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md)   | 1  |
+|---|---|
+|  5   | 2  |
+|  6   | 2  |
+|  7   | 2  |
+|  8   | 2  |
+|  9, eerste en tweede lid   | 1  |
 
 ### Artikel  9a  
 
@@ -298,10 +298,10 @@ A. H. Korthals
 
 Bijlage bij artikel 5, eerste lid   
 
-De performancetoets wordt als volgt uitgevoerd, waarbij het subscript j steeds het jaar aangeeft: 1. Uitgaande van de normportefeuille worden twee percentages vastgesteld die de samenstelling van de normportefeuille bepalen: a <sub>j</sub> %: vastrentende waarden inclusief kasbeleggingen; b <sub>j</sub> %: overige (zakelijke) beleggingen; a <sub>j</sub> % en b <sub>j</sub> % zijn samen 100%. 2. Hieruit wordt jaarlijks de voor het bedrijfstakpensioenfonds geldende maat voor de rendementsspreiding bepaald volgens de formule Ej = [a <sub>j</sub> % * 0,6% + b <sub>j</sub> % * 2,6%]. 3. Jaarlijks voor 1 april wordt over het daaraan voorafgaande jaar het feitelijke rendement van het bedrijfstakpensioenfonds (R <sup>f</sup><sub>j</sub>) en het rendement van de gekozen normportefeuille (R <sup>b</sup><sub>j</sub>) op eenzelfde grondslag vastgesteld en gecontroleerd door een externe accountant die voldoet aan [artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Hierbij wordt bij het bepalen van het rendement gebruik gemaakt van daartoe opgestelde richtlijnen van de Vereniging van Beleggingsanalisten. 4. Daarnaast worden de interne beleggingsuitvoeringskosten k <sub>j</sub> bepaald en uitgedrukt in een percentage van het gemiddelde van het begin- en eindvermogen op actuele basis. Onder interne beleggingsuitvoeringskosten worden tevens begrepen de door het bedrijfstakpensioenfonds te betalen beheerskosten aan externe vermogensbeheerders, met inbegrip van kosten van bewaarneming en administratiekosten voor zover niet reeds tot uitdrukking komend in de rendementsberekening over aangehouden eenheden of tegoeden bij externe vermogensbeheerders. 5. Het verschil in rendement tussen R <sup>f</sup><sub>j</sub> en R <sup>b</sup><sub>j</sub> wordt gecorrigeerd voor (i) de beleggingskosten, waarbij het rendement van de normportefeuille wordt gecorrigeerd voor beleggingskosten, die fictief zijn bepaald op basis van de onderstaande staffel en (ii) voor de jaarlijkse maat voor de rendementsspreiding van het fonds E <sub>j</sub>.  Staffel voor de normkosten 
+De performancetoets wordt als volgt uitgevoerd, waarbij het subscript j steeds het jaar aangeeft: 1. Uitgaande van de normportefeuille worden twee percentages vastgesteld die de samenstelling van de normportefeuille bepalen: a <sub>j</sub> %: vastrentende waarden inclusief kasbeleggingen; b <sub>j</sub> %: overige (zakelijke) beleggingen; a <sub>j</sub> % en b <sub>j</sub> % zijn samen 100%. 2. Hieruit wordt jaarlijks de voor het bedrijfstakpensioenfonds geldende maat voor de rendementsspreiding bepaald volgens de formule Ej = [a <sub>j</sub> % * 0,6% + b <sub>j</sub> % * 2,6%]. 3. Jaarlijks voor 1 april wordt over het daaraan voorafgaande jaar het feitelijke rendement van het bedrijfstakpensioenfonds (R <sup>f</sup><sub>j</sub>) en het rendement van de gekozen normportefeuille (R <sup>b</sup><sub>j</sub>) op eenzelfde grondslag vastgesteld en gecontroleerd door een externe accountant die voldoet aan artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek. Hierbij wordt bij het bepalen van het rendement gebruik gemaakt van daartoe opgestelde richtlijnen van de Vereniging van Beleggingsanalisten. 4. Daarnaast worden de interne beleggingsuitvoeringskosten k <sub>j</sub> bepaald en uitgedrukt in een percentage van het gemiddelde van het begin- en eindvermogen op actuele basis. Onder interne beleggingsuitvoeringskosten worden tevens begrepen de door het bedrijfstakpensioenfonds te betalen beheerskosten aan externe vermogensbeheerders, met inbegrip van kosten van bewaarneming en administratiekosten voor zover niet reeds tot uitdrukking komend in de rendementsberekening over aangehouden eenheden of tegoeden bij externe vermogensbeheerders. 5. Het verschil in rendement tussen R <sup>f</sup><sub>j</sub> en R <sup>b</sup><sub>j</sub> wordt gecorrigeerd voor (i) de beleggingskosten, waarbij het rendement van de normportefeuille wordt gecorrigeerd voor beleggingskosten, die fictief zijn bepaald op basis van de onderstaande staffel en (ii) voor de jaarlijkse maat voor de rendementsspreiding van het fonds E <sub>j</sub>.  Staffel voor de normkosten 
 
 |  *Percentage zakelijke waarden (p)*   |  *normkosten*   |
-|:---|:---|
+|---|---|
 | 0 ≤ p < 10  | 0,10%  |
 | 10 ≤ p < 20  | 0,11%  |
 | 20 ≤ p < 30  | 0,12%  |
@@ -316,8 +316,8 @@ De performancetoets wordt als volgt uitgevoerd, waarbij het subscript j steeds h
 | 80 ≤ p < 90  | 0,21%  |
 | 90 ≤ p <100  | 0,22%  |
 
-Daartoe berekent men z <sub>j</sub> volgens de formule:   ![94866](http://wetten.overheid.nl/Illustration/94866)
-6. Op basis hiervan toetst men of over de afgelopen 5 jaar geldt dat: *z(j-5) + z(j-4) + z(j-3) + z(j-2) + z(j-1)* ≥ – 1,28 √ 5 7. Indien door het bestuur van het bedrijfstakpensioenfonds het beleggingsbeleid en de normportefeuille in de loop van een jaar opnieuw zijn vastgesteld als bedoeld in artikel 5, vierde lid, wordt bij de performancetoets over dat jaar naar rato van de periode waarvoor de betreffende normportefeuille van toepassing was, met de betreffende normportefeuille rekening gehouden. Dit betekent: a. voor de toepassing van punt 1: a <sub>periode 1</sub> % plus b <sub>periode 1</sub> % zijn samen 100% Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» wordt genoteerd in plaats van «periode 1»; b. voor de toepassing van punt 2: E <sub>periode 1</sub> = [a <sub>periode 1</sub> * 0,6 + b <sub>periode 1</sub> * 2,6] Hierbij is a <sub>periode 1</sub> % het aandeel van de vastrentende waarden in de normportefeuille (en het beleggingsbeleid) en b <sub>periode 1</sub> % het aandeel zakelijke waarden in periode 1. Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» genoteerd staat in plaats van «periode 1»; c. voor de toepassing van punt 5:   ![94866](http://wetten.overheid.nl/Illustration/94866)
+Daartoe berekent men z <sub>j</sub> volgens de formule:   ![]()
+6. Op basis hiervan toetst men of over de afgelopen 5 jaar geldt dat: *z(j-5) + z(j-4) + z(j-3) + z(j-2) + z(j-1)* ≥ – 1,28 √ 5 7. Indien door het bestuur van het bedrijfstakpensioenfonds het beleggingsbeleid en de normportefeuille in de loop van een jaar opnieuw zijn vastgesteld als bedoeld in artikel 5, vierde lid, wordt bij de performancetoets over dat jaar naar rato van de periode waarvoor de betreffende normportefeuille van toepassing was, met de betreffende normportefeuille rekening gehouden. Dit betekent: a. voor de toepassing van punt 1: a <sub>periode 1</sub> % plus b <sub>periode 1</sub> % zijn samen 100% Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» wordt genoteerd in plaats van «periode 1»; b. voor de toepassing van punt 2: E <sub>periode 1</sub> = [a <sub>periode 1</sub> * 0,6 + b <sub>periode 1</sub> * 2,6] Hierbij is a <sub>periode 1</sub> % het aandeel van de vastrentende waarden in de normportefeuille (en het beleggingsbeleid) en b <sub>periode 1</sub> % het aandeel zakelijke waarden in periode 1. Voor periode 2 en 3 geldt dezelfde formule, zij het dat het subscript «periode 2 dan wel 3» genoteerd staat in plaats van «periode 1»; c. voor de toepassing van punt 5:   ![]()
 voor periode 1, en dezelfde formule voor periode 2 en 3, maar dan met subscript «periode 2 dan wel 3» Vervolgens worden de z <sub>periode 1</sub>, z <sub>periode 2</sub> en z <sub>periode 3</sub> teruggebracht naar één periode van een jaar, door de formule z <sub>j</sub> = z <sub>periode 1</sub> + z <sub>periode 2</sub> + z <sub>periode 3</sub> De na deze berekening verkregen z <sub>j</sub> wordt in de formule van punt 6 verwerkt. 8. Indien de fusie van twee of meer oude bedrijfstakpensioenfondsen tot een nieuw bedrijfstakpensioenfonds heeft plaatsgevonden in de loop van een kalenderjaar wordt de performancetoets van het nieuwe bedrijfstakpensioenfonds over het kalenderjaar van de fusie als volgt berekend: 
 
 a. voor ieder van de oude bedrijfstakpensioenfondsen wordt de performancetoets uitgevoerd over de periode dat het fonds nog heeft bestaan;  
@@ -386,7 +386,7 @@ Bij de toetsing van de actuariële gelijkwaardigheid wordt de volgende procedure
 
 – de werkgever stelt de te hanteren grondslagen voor op basis van de volgende richtlijnen: 
 
-* sterfte grondslagen: volgens de sterftetafels die worden gebruikt bij het wettelijke recht op waardeoverdracht als bedoeld in [artikel 71 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
+* sterfte grondslagen: volgens de sterftetafels die worden gebruikt bij het wettelijke recht op waardeoverdracht als bedoeld in artikel 71 van de Pensioenwet;  
 
 * beleggingsrendementen en de loon- en prijsinflatie: de gemiddelden van de desbetreffende macro-economische grootheden van de voorafgaande 20 jaar. Als criterium voor het beleggingsrendement wordt een uniforme maatstaf gehanteerd voor het langetermijnrendement, welke ook over de achterliggende periode toepasbaar is. Voor de loonontwikkeling wordt uitgegaan van de door het CBS gepubliceerde index van cao-lonen per maand inclusief bijzondere beloningen in particuliere bedrijven en voor de prijsontwikkeling van de eveneens door het CBS maandelijks gepubliceerde afgeleide consumentenindex voor alle huishoudens;  
 

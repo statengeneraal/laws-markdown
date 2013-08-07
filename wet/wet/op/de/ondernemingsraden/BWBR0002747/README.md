@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. Raad: De Sociaal-Economische Raad, bedoeld in de [Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
+b. Raad: De Sociaal-Economische Raad, bedoeld in de Wet op de Bedrijfsorganisatie;  
 
 c. onderneming: elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin krachtens arbeidsovereenkomst of krachtens publiekrechtelijke aanstelling arbeid wordt verricht;  
 
@@ -30,7 +30,7 @@ f. bedrijfscommissie: de bevoegde bedrijfscommissie, bedoeld in de artikelen 37,
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder in de onderneming werkzame personen verstaan: degenen die in de onderneming werkzaam zijn krachtens een publiekrechtelijke aanstelling bij dan wel krachtens een arbeidsovereenkomst met de ondernemer die de onderneming in stand houdt. Personen die in meer dan één onderneming van dezelfde ondernemer werkzaam zijn, worden geacht uitsluitend werkzaam te zijn in die onderneming van waaruit hun werkzaamheden worden geleid.   
 3.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder in de onderneming werkzame personen mede verstaan: 
 
-a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 24 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in [artikel 690 van Titel 7.10 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en  
+a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 24 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in artikel 690 van Titel 7.10 van het Burgerlijk Wetboek, en  
 
 b. degenen die krachtens een publiekrechtelijke aanstelling bij dan wel krachtens arbeidsovereenkomst met de ondernemer werkzaam zijn in een door een andere ondernemer in stand gehouden onderneming.     
 4.  Voor de toepassing van het bij of krachtens deze wet bepaalde worden de bestuurder of de bestuurders van een onderneming geacht niet te behoren tot de in de onderneming werkzame personen.   
@@ -59,7 +59,7 @@ b. degenen die krachtens een publiekrechtelijke aanstelling bij dan wel krachten
 
 1.  De Raad kan, indien bijzondere omstandigheden een goede toepassing van deze wet in de betrokken onderneming in de weg staan, aan een ondernemer op diens verzoek ten aanzien van een door hem in stand gehouden onderneming schriftelijk voor ten hoogste vijf jaren ontheffing verlenen van de verplichting tot het instellen van een ondernemingsraad. De Raad kan een dergelijke ontheffing uitsluitend verlenen indien voor wat betreft de informatie aan en de raadpleging van werknemers over de in het zesde lid genoemde onderwerpen door de ondernemer voorzieningen zijn getroffen om te waarborgen dat wordt voldaan aan het zevende en achtste lid.   
 2.  De Raad stelt de verenigingen van werknemers, bedoeld in artikel 9, tweede lid, onder a, in de gelegenheid over het verzoek om ontheffing te worden gehoord.   
-3.  Aan een ontheffing kunnen voorschriften worden verbonden. De Raad doet van zijn besluit mededeling aan de bedrijfscommissie.   
+3.  Aan een ontheffing kunnen voorschriften worden verbonden.   
 4.  Zolang op een verzoek om ontheffing niet onherroepelijk is beslist, geldt de in artikel 2, eerste lid, bedoelde verplichting niet.   
 5.  In dit artikel wordt verstaan onder: 
 
@@ -110,7 +110,7 @@ De ondernemingsraad kiest uit zijn midden een voorzitter en een of meer plaatsve
 
 ### Artikel  8  
 
-1.  De ondernemingsraad maakt een reglement waarin de onderwerpen worden geregeld die bij of krachtens deze wet ter regeling aan de ondernemingsraad zijn opgedragen of overgelaten. Het reglement bevat geen bepalingen die in strijd zijn met de wet of die een goede toepassing van deze wet in de weg staan. Alvorens het reglement vast te stellen, stelt de ondernemingsraad de ondernemer in de gelegenheid zijn standpunt kenbaar te maken. De ondernemingsraad verstrekt onverwijld een exemplaar van het vastgestelde reglement aan de ondernemer en aan de bedrijfscommissie.   
+1.  De ondernemingsraad maakt een reglement waarin de onderwerpen worden geregeld die bij of krachtens deze wet ter regeling aan de ondernemingsraad zijn opgedragen of overgelaten. Het reglement bevat geen bepalingen die in strijd zijn met de wet of die een goede toepassing van deze wet in de weg staan. Alvorens het reglement vast te stellen, stelt de ondernemingsraad de ondernemer in de gelegenheid zijn standpunt kenbaar te maken. De ondernemingsraad verstrekt onverwijld een exemplaar van het vastgestelde reglement aan de ondernemer.   
 2.  De Raad kan ten aanzien van de inhoud van het reglement bij verordening nadere regelen stellen voor alle of een groep van ondernemingen. In het laatste geval wordt de betrokken bedrijfscommissie gehoord. Een verordening van de Raad behoeft de goedkeuring van Onze Minister. Een goedgekeurde verordening wordt in de *Staatscourant* bekend gemaakt.   
 3.  Indien de Raad een verordening als bedoeld in het tweede lid vaststelt, brengen de betrokken ondernemingsraden binnen een jaar na de bekendmaking van de goedgekeurde verordening in de *Staatscourant*, de bepalingen in hun reglement die in strijd zijn met deze verordening daarmee in overeenstemming.   
 
@@ -121,7 +121,7 @@ De ondernemingsraad kiest uit zijn midden een voorzitter en een of meer plaatsve
 
 a. een vereniging van werknemers, die in de onderneming werkzame kiesgerechtigde personen onder haar leden telt, krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen en als zodanig in de betrokken onderneming of bedrijfstak werkzaam is en voorts ten minste twee jaar in het bezit is van volledige rechtsbevoegdheid, mits zij met haar leden in de onderneming over de samenstelling van de kandidatenlijst overleg heeft gepleegd. Ten aanzien van een vereniging die krachtens haar statuten geacht kan worden een voortzetting te zijn van een of meer andere verenigingen met volledige rechtsbevoegdheid van werknemers, wordt de duur van de volledige rechtsbevoegdheid van die vereniging of verenigingen voor de vaststelling van de tijdsduur van twee jaar mede in aanmerking genomen;  
 
-b. een derde gedeelte of méér van diegenen van de in de onderneming werkzame kiesgerechtigde personen die geen lid zijn van een vereniging als bedoeld onder *a* welke een kandidatenlijst heeft ingediend, echter met dien verstande dat voor het indienen van een kandidatenlijst met 30 handtekeningen kan worden volstaan.     
+b. iedere in de onderneming werkzame kiesgerechtigde persoon of groep van personen, niet zijnde lid van een vereniging als bedoeld onder a welke een kandidatenlijst heeft ingediend.     
 3.  De ondernemingsraad kan in zijn reglement bepalen, dat voor bepaalde groepen van in de onderneming werkzame personen, dan wel voor bepaalde onderdelen van de onderneming afzonderlijke kandidatenlijsten worden ingediend, ten einde als grondslag te dienen voor de verkiezing door de betrokken personen of onderdelen van een tevens in het reglement te bepalen aantal leden van de ondernemingsraad. Indien de ondernemingsraad van deze bevoegdheid gebruik heeft gemaakt, gelden de in het tweede lid ten aanzien van het indienen van kandidatenlijsten gestelde eisen voor iedere aangewezen groep of ieder aangewezen onderdeel afzonderlijk.   
 4.  De ondernemingsraad treft, indien dit bevorderlijk is voor een goede toepassing van deze wet in de onderneming, voorzieningen in zijn reglement opdat de verschillende groepen van de in de onderneming werkzame personen zoveel mogelijk in de ondernemingsraad vertegenwoordigd kunnen zijn.   
 
@@ -192,7 +192,7 @@ h. het opmaken en het bekendmaken aan de ondernemer, de leden van de onderneming
 ### Artikel  18  
 
 1.  De ondernemer is verplicht de leden van de ondernemingsraad en de leden van de commissies van die raad, gedurende een door de ondernemer en de ondernemingsraad gezamenlijk vast te stellen aantal uren per jaar, in werktijd en met behoud van loon dan wel bezoldiging de gelegenheid te bieden voor onderling beraad en overleg met andere personen over aangelegenheden waarbij zij in de uitoefening van hun taak zijn betrokken, alsmede voor kennisneming van de arbeidsomstandigheden in de onderneming.   
-2.  De ondernemer is verplicht de leden van de ondernemingsraad en de leden van een vaste commissie of onderdeelcommissie, bedoeld in artikel 15, tweede lid, onderscheidenlijk derde lid, gedurende een door de ondernemer en de ondernemingsraad gezamenlijk vast te stellen aantal dagen per jaar, in werktijd en met behoud van loon dan wel bezoldiging de gelegenheid te bieden de scholing en vorming te ontvangen welke zij in verband met de vervulling van hun taak nodig oordelen.   
+2.  De ondernemer is verplicht de leden van de ondernemingsraad en de leden van een vaste commissie of onderdeelcommissie, bedoeld in artikel 15, tweede lid, onderscheidenlijk derde lid, gedurende een door de ondernemer en de ondernemingsraad gezamenlijk vast te stellen aantal dagen per jaar, in werktijd en met behoud van loon dan wel bezoldiging de gelegenheid te bieden de scholing en vorming van voldoende kwaliteit te ontvangen welke zij in verband met de vervulling van hun taak nodig oordelen.   
 3.  De ondernemer en de ondernemingsraad stellen het aantal uren, bedoeld in het eerste lid, en het aantal dagen, bedoeld in het tweede lid, vast op een zodanig aantal als de betrokken leden van de ondernemingsraad en van de commissies van die raad voor de vervulling van hun taak redelijkerwijze nodig hebben. Daarbij wordt in acht genomen dat het aantal uren niet lager vastgesteld kan worden dan zestig per jaar en het aantal dagen: 
 
 a. voor leden van een in het tweede lid bedoelde commissie die niet tevens lid zijn van de ondernemingsraad, niet lager vastgesteld kan worden dan drie per jaar;  
@@ -219,8 +219,9 @@ De ondernemer draagt er zorg voor, dat de in de onderneming werkzame personen di
 ### Artikel  22  
 
 1.  De kosten die redelijkerwijze noodzakelijk zijn voor de vervulling van de taak van de ondernemingsraad en de commissies van die raad komen ten laste van de ondernemer.   
-2.  Met inachtneming van het bepaalde in het eerste lid komen de kosten van het overeenkomstig artikel 16 en artikel 23 *a*, zesde lid, raadplegen van een deskundige door de ondernemingsraad of een commissie van die raad, alsmede de kosten van het voeren van rechtsgedingen door de ondernemingsraad slechts ten laste van de ondernemer, indien hij van de te maken kosten vooraf in kennis is gesteld. De eerste volzin is niet van toepassing wanneer uitvoering is gegeven aan het derde lid.   
-3.  De ondernemer kan in overeenstemming met de ondernemingsraad de kosten die de ondernemingsraad en de commissies van die raad in enig jaar zullen maken, voor zover deze geen verband houden met het bepaalde in de artikelen 17 en 18, vaststellen op een bepaald bedrag, dat de ondernemingsraad naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van de ondernemer voor zover hij in het dragen daarvan toestemt.   
+2.  Met inachtneming van het bepaalde in het eerste lid komen de kosten van het overeenkomstig artikel 16 en artikel 23a, zesde lid, raadplegen van een deskundige door de ondernemingsraad of een commissie van die raad, alsmede de kosten van het voeren van rechtsgedingen door de ondernemingsraad slechts ten laste van de ondernemer, indien hij van de te maken kosten vooraf in kennis is gesteld. De eerste volzin is niet van toepassing wanneer uitvoering is gegeven aan het vierde lid.   
+3.  Met inachtneming van het eerste lid komen de kosten van scholing en vorming, bedoeld in artikel 18, tweede lid, ten laste van de ondernemer. De Raad kan voor verschillende kosten verbonden aan scholing en vorming richtbedragen vaststellen.   
+4.  De ondernemer kan in overeenstemming met de ondernemingsraad de kosten die de ondernemingsraad en de commissies van die raad in enig jaar zullen maken, voor zover deze geen verband houden met artikel 17 en artikel 18, eerste lid, vaststellen op een bepaald bedrag, dat de ondernemingsraad naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van de ondernemer voor zover hij in het dragen daarvan toestemt.   
 
 ### Artikel  22a  
 
@@ -295,7 +296,7 @@ k. invoering of wijziging van een belangrijke technologische voorziening;
 
 l. het treffen van een belangrijke maatregel in verband met de zorg van de onderneming voor het milieu, waaronder begrepen het treffen of wijzigen van een beleidsmatige, organisatorische en administratieve voorziening in verband met het milieu;  
 
-m. vaststelling van een regeling met betrekking tot het zelf dragen van het risico, bedoeld in [artikel 40, aanhef en eerste lid, onderdeel a](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [artikel 40, aanhef en eerste lid, onderdeel b](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), of [artikel 40, aanhef en eerste lid, onderdeel c, van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+m. vaststelling van een regeling met betrekking tot het zelf dragen van het risico, bedoeld in artikel 40, aanhef en eerste lid, onderdeel a, artikel 40, aanhef en eerste lid, onderdeel b, of artikel 40, aanhef en eerste lid, onderdeel c, van de Wet financiering sociale verzekeringen;  
 
 n. het verstrekken en het formuleren van een adviesopdracht aan een deskundige buiten de onderneming betreffende een der hiervoor bedoelde aangelegenheden.   Het onder *b* bepaalde, alsmede het onder n bepaalde, voor zover dit betrekking heeft op een aangelegenheid als bedoeld onder b, is niet van toepassing wanneer de andere onderneming in het buitenland gevestigd is of wordt en redelijkerwijs niet te verwachten is dat het voorgenomen besluit zal leiden tot een besluit als bedoeld onder c-f ten aanzien van een onderneming die door de ondernemer in Nederland in stand wordt gehouden.   
 2.  De ondernemer legt het te nemen besluit schriftelijk aan de ondernemingsraad voor. Het advies moet op een zodanig tijdstip worden gevraagd, dat het van wezenlijke invloed kan zijn op het te nemen besluit.   
@@ -352,6 +353,13 @@ l. een regeling inzake voorzieningen die gericht zijn op of geschikt zijn voor w
 4.  Heeft de ondernemer voor het voorgenomen besluit geen instemming van de ondernemingsraad verkregen, dan kan hij de kantonrechter toestemming vragen om het besluit te nemen. De kantonrechter geeft slechts toestemming, indien de beslissing van de ondernemingsraad om geen instemming te geven onredelijk is, of het voorgenomen besluit van de ondernemer gevergd wordt door zwaarwegende bedrijfsorganisatorische, bedrijfseconomische of bedrijfssociale redenen.   
 5.  Een besluit als bedoeld in het eerste lid, genomen zonder de instemming van de ondernemingsraad of de toestemming van de kantonrechter, is nietig, indien de ondernemingsraad tegenover de ondernemer schriftelijk een beroep op de nietigheid heeft gedaan. De ondernemingsraad kan slechts een beroep op de nietigheid doen binnen een maand nadat hetzij de ondernemer hem zijn besluit overeenkomstig de laatste volzin van het tweede lid heeft meegedeeld, hetzij - bij gebreke van deze mededeling - de ondernemingsraad is gebleken dat de ondernemer uitvoering of toepassing geeft aan zijn besluit.   
 6.  De ondernemingsraad kan de kantonrechter verzoeken de ondernemer te verplichten zich te onthouden van handelingen die strekken tot uitvoering of toepassing van een nietig besluit als bedoeld in het vijfde lid. De ondernemer kan de kantonrechter verzoeken te verklaren dat de ondernemingsraad ten onrechte een beroep heeft gedaan op nietigheid als bedoeld in het vijfde lid.   
+7.  De ondernemer behoeft de instemming van de ondernemingsraad voor elk door hem voorgenomen besluit: 
+
+a. tot vaststelling of intrekking van een pensioenovereenkomst die wordt ondergebracht bij een ondernemingspensioenfonds als bedoeld in artikel 1 van de Pensioenwet;  
+
+b. tot vaststelling of intrekking van een pensioenovereenkomst die wordt ondergebracht bij een niet verplicht bedrijfstakpensioenfonds;  
+
+c. tot vaststelling of intrekking van een pensioenovereenkomst bij een verplicht gesteld bedrijfstakpensioenfonds als bedoeld in artikel 1 van de Pensioenwet, voor het deel van de pensioenovereenkomst dat niet verplicht door dat bedrijfstakpensioenfonds hoeft te worden uitgevoerd;   voor zover hetgeen in de pensioenovereenkomst is of wordt bepaald overeenkomt met hetgeen in pensioenovereenkomsten van alle of een groep van de in de onderneming werkzame personen is of wordt bepaald. Het tweede tot en met zesde lid zijn van overeenkomstige toepassing.   
 
 ### Artikel  28  
 
@@ -390,13 +398,14 @@ d. indien de ondernemer deel uitmaakt van een aantal in een groep verbonden onde
 e. de ondernemers of de instellingen met wie de ondernemer, anders dan uit hoofde van zeggenschapsverhoudingen als bedoeld onder *d*, duurzame betrekkingen onderhoudt die van wezenlijk belang kunnen zijn voor het voortbestaan van de onderneming, alsmede de naam en de woonplaats van degenen die ten gevolge van zodanige betrekkingen feitelijke zeggenschap over de ondernemer kunnen uitoefenen;  
 
 f. de organisatie van de onderneming, de naam en de woonplaats van de bestuurders en van de belangrijkste overige leidinggevende personen, alsmede de wijze waarop de bevoegdheden tussen de bedoelde personen zijn verdeeld.     
-3.  De ondernemer is verplicht de ondernemingsraad zo spoedig mogelijk in kennis te stellen van wijzigingen die zich in de in het tweede lid bedoelde gegevens hebben voorgedaan.   
+3.  Het tweede lid, onderdeel d, strekt zich ook uit tot de ondernemer die deel uitmaakt van een internationale groep van ondernemingen. Het tweede lid, onderdeel e, strekt zich ook uit tot de ondernemer die anders dan uit hoofde van zeggenschapsverhoudingen als bedoeld in de vorige zin, duurzame betrekkingen met buitenlandse ondernemers of instellingen onderhoudt.   
+4.  De ondernemer is verplicht de ondernemingsraad zo spoedig mogelijk in kennis te stellen van wijzigingen die zich in de in het tweede lid bedoelde gegevens hebben voorgedaan.   
 
 ### Artikel  31a  
 
 1.  De ondernemer verstrekt, mede ten behoeve van de bespreking van de algemene gang van zaken van de onderneming, ten minste tweemaal per jaar aan de ondernemingsraad mondeling of schriftelijk algemene gegevens omtrent de werkzaamheden en de resultaten van de onderneming in het verstreken tijdvak, in het bijzonder met betrekking tot aangelegenheden als bedoeld in artikel 25.   
-2.  Indien de onderneming in stand wordt gehouden door een stichting of vereniging als bedoeld in [artikel 360, derde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), een coöperatie, een onderlinge waarborgmaatschappij, een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, verstrekt de ondernemer zo spoedig mogelijk na de vaststelling van zijn jaarrekening een exemplaar van de jaarrekening en het jaarverslag in de Nederlandse taal en de daarbij te voegen overige gegevens, als bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), ter bespreking aan de ondernemingsraad. De mededeling die een rechtspersoon ingevolge [artikel 362, zesde lid, laatste volzin, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moet verstrekken geschiedt gelijktijdig met die aan de algemene vergadering.   
-3.  Indien de financiële gegevens van een ondernemer die deel uitmaakt van in een groep verbonden ondernemers zijn opgenomen in een geconsolideerde jaarrekening als bedoeld in [artikel 405 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), verstrekt de ondernemer ter bespreking aan de ondernemingsraad deze geconsolideerde jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 392 van dat boek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), van de rechtspersoon die de geconsolideerde jaarrekening heeft opgesteld. Indien de financiële gegevens van zulk een ondernemer niet in een geconsolideerde jaarrekening zijn opgenomen, verstrekt de ondernemer in plaats hiervan ter bespreking aan de ondernemingsraad schriftelijke gegevens waaruit de ondernemingsraad zich een inzicht kan vormen in het gezamenlijke resultaat van de ondernemingen van die groep ondernemers.   
+2.  Indien de onderneming in stand wordt gehouden door een stichting of vereniging als bedoeld in artikel 360, derde lid, van boek 2 van het Burgerlijk Wetboek, een coöperatie, een onderlinge waarborgmaatschappij, een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid, verstrekt de ondernemer zo spoedig mogelijk na de vaststelling van zijn jaarrekening een exemplaar van de jaarrekening en het jaarverslag in de Nederlandse taal en de daarbij te voegen overige gegevens, als bedoeld in artikel 392 van Boek 2 van het Burgerlijk Wetboek, ter bespreking aan de ondernemingsraad. De mededeling die een rechtspersoon ingevolge artikel 362, zesde lid, laatste volzin, van Boek 2 van het Burgerlijk Wetboek moet verstrekken geschiedt gelijktijdig met die aan de algemene vergadering.   
+3.  Indien de financiële gegevens van een ondernemer die deel uitmaakt van in een groep verbonden ondernemers zijn opgenomen in een geconsolideerde jaarrekening als bedoeld in artikel 405 van Boek 2 van het Burgerlijk Wetboek, verstrekt de ondernemer ter bespreking aan de ondernemingsraad deze geconsolideerde jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 392 van dat boek, van de rechtspersoon die de geconsolideerde jaarrekening heeft opgesteld. Indien de financiële gegevens van zulk een ondernemer niet in een geconsolideerde jaarrekening zijn opgenomen, verstrekt de ondernemer in plaats hiervan ter bespreking aan de ondernemingsraad schriftelijke gegevens waaruit de ondernemingsraad zich een inzicht kan vormen in het gezamenlijke resultaat van de ondernemingen van die groep ondernemers.   
 4.  Indien de jaarrekening van de ondernemer betrekking heeft op meer dan één onderneming, verstrekt de ondernemer aan de ondernemingsraad tevens schriftelijke gegevens waaruit deze zich een inzicht kan vormen in de mate waarin de onderneming waarvoor hij is ingesteld tot het gezamenlijke resultaat van die ondernemingen heeft bijgedragen. Het voorgaande is van overeenkomstige toepassing, indien een geconsolideerde jaarrekening, als bedoeld in het derde lid, wordt verstrekt.   
 5.  Indien de onderneming in stand wordt gehouden door een ondernemer op wie het tweede lid van dit artikel niet van toepassing is, verstrekt de ondernemer bij algemene maatregel van bestuur aangewezen vervangende schriftelijke gegevens ter bespreking aan de ondernemingsraad. Het derde en vierde lid van dit artikel zijn van overeenkomstige toepassing.   
 6.  De ondernemer doet, mede ten behoeve van de bespreking van de algemene gang van zaken van de onderneming, ten minste tweemaal per jaar aan de ondernemingsraad mondeling of schriftelijk mededeling omtrent zijn verwachtingen ten aanzien van de werkzaamheden en de resultaten van de onderneming in het komende tijdvak, in het bijzonder met betrekking tot aangelegenheden als bedoeld in artikel 25, alsmede met betrekking tot alle investeringen in binnenland en buitenland.   
@@ -425,9 +434,9 @@ De ondernemer doet aan de ondernemingsraad zo spoedig mogelijk mededeling van zi
 
 Artikel 31d is niet van toepassing op: 
 
-a. de besloten vennootschap met beperkte aansprakelijkheid waarvan een van de bestuurders of commissarissen een natuurlijk persoon is die een direct of indirect belang heeft in de rechtspersoon overeenkomstig [artikel 4.6 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), of  
+a. de besloten vennootschap met beperkte aansprakelijkheid waarvan een van de bestuurders of commissarissen een natuurlijk persoon is die een direct of indirect belang heeft in de rechtspersoon overeenkomstig artikel 4.6 van de Wet inkomstenbelasting 2001, of  
 
-b. de rechtspersoon waarop de [artikelen 396](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [397 van titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van toepassing zijn.    
+b. de rechtspersoon waarop de artikelen 396 of 397 van titel 9 van Boek 2 van het Burgerlijk Wetboek van toepassing zijn.    
 
 ### Hoofdstuk  IVC  
 
@@ -482,7 +491,7 @@ b. de rechtspersoon waarop de [artikelen 396](../../../../../../wet/burgerlijk/w
 
 1.  De ondernemer die een onderneming in stand houdt waarin in de regel ten minste 10 personen maar minder dan 50 personen werkzaam zijn en waarvoor geen ondernemingsraad is ingesteld, kan een personeelsvertegenwoordiging instellen, bestaande uit ten minste drie personen die rechtstreeks gekozen zijn bij geheime schriftelijke stemming door en uit in de onderneming werkzame personen.   
 2.  Op verzoek van de meerderheid van de in de onderneming werkzame personen stelt de ondernemer de in het eerste lid bedoelde personeelsvertegenwoordiging in.   
-3.  Indien toepassing is gegeven aan het eerste lid, is artikel 5a, tweede lid, derde en vierde volzin, van overeenkomstige toepassing. De artikelen 7, 13, 17, 18, eerste en tweede lid, 21, 22, eerste lid, tweede lid, voor zover het betreft de kosten van het voeren van rechtsgedingen, en derde lid, 22a, 27, eerste lid, onderdeel b, voor zover het betreft een arbeids- en rusttijdenregeling, en onderdeel d, derde tot en met zesde lid, 31, eerste lid, 32, 35b, vierde en vijfde lid, behoudens de in dat lid bedoelde arbeidsomstandigheden, en 36 zijn van overeenkomstige toepassing.   
+3.  Indien toepassing is gegeven aan het eerste lid, is artikel 5a, tweede lid, derde en vierde volzin, van overeenkomstige toepassing. De artikelen 7, 13, 17, 18, eerste en tweede lid, 21, 22, eerste lid, tweede lid, voor zover het betreft de kosten van het voeren van rechtsgedingen, derde en vierde lid, 22a, 27, eerste lid, onderdeel b, voor zover het betreft een arbeids- en rusttijdenregeling, en onderdeel d, derde tot en met zesde lid, 31, eerste lid, 32, 35b, vierde en vijfde lid, behoudens de in dat lid bedoelde arbeidsomstandigheden, en 36 zijn van overeenkomstige toepassing.   
 4.  De ondernemer legt een voorgenomen besluit als bedoeld in artikel 27, eerste lid, onderdeel b, voor zover het betreft een arbeids- en rusttijdenregeling, en onderdeel d, schriftelijk aan de personeelsvertegenwoordiging voor. Hij verstrekt daarbij een overzicht van de beweegredenen voor het besluit, alsmede van de gevolgen die het besluit naar te verwachten valt voor de in de onderneming werkzame personen zal hebben. De personeelsvertegenwoordiging beslist niet dan nadat over de betrokken aangelegenheid ten minste éénmaal met de ondernemer overleg is gepleegd. Na het overleg deelt de personeelsvertegenwoordiging zo spoedig mogelijk schriftelijk en met redenen omkleed zijn beslissing aan de ondernemer mee. Na de beslissing van de personeelsvertegenwoordiging deelt de ondernemer zo spoedig mogelijk schriftelijk aan de personeelsvertegenwoordiging mee welk besluit hij heeft genomen en met ingang van welke datum hij dat besluit zal uitvoeren.   
 5.  De personeelsvertegenwoordiging kan met toestemming van de ondernemer commissies instellen of deskundigen uitnodigen. Ten aanzien van het uitnodigen van deskundigen is toestemming niet vereist, wanneer de deskundige geen kosten in rekening brengt of wanneer de kosten door de personeelsvertegenwoordiging bestreden worden uit een bedrag als bedoeld in artikel 22, derde lid. Heeft de ondernemer toestemming gegeven voor het raadplegen van een deskundige, dan komen de kosten daarvan te zijnen laste.   
 6.  Inlichtingen en gegevens bestemd voor de personeelsvertegenwoordiging, die volgens artikel 31, eerste lid, schriftelijk moeten worden verstrekt, mogen door de ondernemer ook mondeling worden verstrekt.   
@@ -501,12 +510,10 @@ b. de rechtspersoon waarop de [artikelen 396](../../../../../../wet/burgerlijk/w
 
 1.  Iedere belanghebbende kan de kantonrechter verzoeken te bepalen dat de ondernemer of de ondernemingsraad gevolg dient te geven aan hetgeen bij of krachtens deze wet is bepaald omtrent het instellen of in stand houden van een ondernemingsraad, het vaststellen van een voorlopig of een definitief reglement van de ondernemingsraad, de kandidaatstelling voor en de verkiezing van de leden van de ondernemingsraad, alsmede omtrent het bekend maken van agenda’s en verslagen van vergaderingen, een en ander voor zover dit van de ondernemer of de ondernemingsraad afhangt.   
 2.  De ondernemingsraad en de ondernemer kunnen de kantonrechter verzoeken te bepalen dat de ondernemer, onderscheidenlijk de ondernemingsraad gevolg dient te geven aan hetgeen overigens bij of krachtens deze wet is bepaald, een en ander voor zover dit van de ondernemer onderscheidenlijk de ondernemingsraad afhangt.   
-3.  Een verzoek aan de kantonrechter op grond van deze wet, is niet ontvankelijk indien de verzoeker niet vooraf schriftelijk de bemiddeling van de bedrijfscommissie heeft gevraagd. De bedrijfscommissie stelt de wederpartij in de gelegenheid omtrent het verzoek te worden gehoord. De bedrijfscommissie tracht een minnelijke schikking tussen partijen tot stand te brengen. Indien geen minnelijke schikking wordt bereikt, brengt de bedrijfscommissie binnen twee maanden nadat haar bemiddeling is gevraagd, aan partijen schriftelijk verslag van haar bevindingen uit met een advies omtrent de oplossing van het geschil. De bedrijfscommissie kan de termijn voor het uitbrengen van haar advies met instemming van beide partijen voor ten hoogste twee maanden verlengen.   
-4.  Het verzoekschrift aan de kantonrechter wordt ingediend binnen dertig dagen nadat de bedrijfscommissie haar advies aan partijen heeft uitgebracht, doch uiterlijk binnen dertig dagen na het verstrijken van de in het derde lid genoemde termijn. Het verslag van bevindingen en het advies van de bedrijfscommissie worden bij het verzoekschrift overgelegd.   
-5.  Een verzoekschrift aan de kantonrechter met betrekking tot de naleving van artikel 25 ten aanzien van een besluit als in dat artikel bedoeld, wordt niet ontvankelijk verklaard, indien blijkt dat de ondernemingsraad voor of na de indiening van het verzoekschrift tegen dat besluit beroep heeft ingesteld bij de ondernemingskamer van het gerechtshof Amsterdam.   
-6.  Een verzoek aan de kantonrechter op grond van artikel 27, vierde en zesde lid is niet ontvankelijk indien met betrekking tot dezelfde aangelegenheid een eis is gesteld als bedoeld in de [Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
-7.  De kantonrechter kan in zijn uitspraak aan de ondernemer, onderscheidenlijk de ondernemingsraad de verplichting opleggen om bepaalde handelingen te verrichten of na te laten. Het is de ondernemer verboden een zodanige verplichting niet na te komen. Wanneer de ondernemingsraad een zodanige verplichting niet nakomt, kan de kantonrechter de ondernemingsraad ontbinden, onder oplegging van de verplichting aan die raad tot het doen verkiezen van een nieuwe ondernemingsraad. Blijft de ondernemingsraad in gebreke, dan kan de kantonrechter de ondernemer machtigen een nieuwe ondernemingsraad te doen verkiezen.   
-8.  De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van de naleving van hetgeen bij of krachtens deze wet is bepaald met betrekking tot een centrale ondernemingsraad en een groepsondernemingsraad.   
+3.  Een verzoekschrift aan de kantonrechter met betrekking tot de naleving van artikel 25 ten aanzien van een besluit als in dat artikel bedoeld, wordt niet ontvankelijk verklaard, indien blijkt dat de ondernemingsraad voor of na de indiening van het verzoekschrift tegen dat besluit beroep heeft ingesteld bij de ondernemingskamer van het gerechtshof Amsterdam.   
+4.  Een verzoek aan de kantonrechter op grond van artikel 27, vierde en zesde lid is niet ontvankelijk indien met betrekking tot dezelfde aangelegenheid een eis is gesteld als bedoeld in de Arbeidsomstandighedenwet.   
+5.  De kantonrechter kan in zijn uitspraak aan de ondernemer, onderscheidenlijk de ondernemingsraad de verplichting opleggen om bepaalde handelingen te verrichten of na te laten. Het is de ondernemer verboden een zodanige verplichting niet na te komen. Wanneer de ondernemingsraad een zodanige verplichting niet nakomt, kan de kantonrechter de ondernemingsraad ontbinden, onder oplegging van de verplichting aan die raad tot het doen verkiezen van een nieuwe ondernemingsraad. Blijft de ondernemingsraad in gebreke, dan kan de kantonrechter de ondernemer machtigen een nieuwe ondernemingsraad te doen verkiezen.   
+6.  De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van de naleving van hetgeen bij of krachtens deze wet is bepaald met betrekking tot een centrale ondernemingsraad en een groepsondernemingsraad.   
 
 ### Artikel  36a  
 
@@ -547,7 +554,7 @@ Ten aanzien van de voorzitters, de leden en de plaatsvervangende leden van de be
 
 ### Artikel  43  
 
-Indien voor een groep van ondernemingen een hoofdbedrijfschap of een bedrijfschap als bedoeld in de [Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K 22) bestaat, kan de Raad het bestuur van dat hoofdbedrijfschap of bedrijfschap aanwijzen als bedrijfscommissie in de zin van deze wet. In dat geval zijn de artikelen 37, 38 en 41 niet van toepassing en evenmin het bepaalde bij of krachtens artikel 39 voor zover het betreft de samenstelling en het voorzitterschap van de bedrijfscommissie.  
+Indien voor een groep van ondernemingen een hoofdbedrijfschap of een bedrijfschap als bedoeld in de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22) bestaat, kan de Raad het bestuur van dat hoofdbedrijfschap of bedrijfschap aanwijzen als bedrijfscommissie in de zin van deze wet. In dat geval zijn de artikelen 37, 38 en 41 niet van toepassing en evenmin het bepaalde bij of krachtens artikel 39 voor zover het betreft de samenstelling en het voorzitterschap van de bedrijfscommissie.  
 
 ### Artikel  46  
 
@@ -556,34 +563,11 @@ Indien voor een groep van ondernemingen een hoofdbedrijfschap of een bedrijfscha
 
 ### Hoofdstuk  VIIA  
 
-####Heffingen ter bevordering van de scholing en vorming van ondernemingsraadleden
+####Bijzondere taak Sociaal-Economische Raad
 
 ### Artikel  46a  
 
-1.  De ondernemer op wie op grond van deze wet, een collectieve arbeidsovereenkomst of een regeling van arbeidsvoorwaarden vastgesteld door een publiekrechtelijk orgaan op 1 januari van het betrokken kalenderjaar de verplichting rust een ondernemingsraad in te stellen alsmede de ondernemer die op 1 januari van het betrokken kalenderjaar een ondernemingsraad heeft met toepassing van artikel 5a, tweede lid, is een heffing verschuldigd ter bevordering van de scholing en vorming van ondernemingsraadleden.   
-2.  De heffing bedraagt een percentage van het bij de betrokken ondernemer in het voorafgaande kalenderjaar genoten loon in de zin van de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), met uitzondering van de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van die wet](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). Voor de toepassing van dit lid wordt onder ondernemer verstaan: de inhoudingsplichtige in de zin van de [Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
-3.  Het percentage van de heffing wordt jaarlijks door de Raad vastgesteld bij verordening; het kan op nihil worden vastgesteld.   
-4.  De heffing wordt namens de Raad door de rijksbelastingdienst bij wege van aanslag geheven en ingevorderd, met overeenkomstige toepassing van de voor de heffing en de invordering van de inkomstenbelasting geldende regels.   
-5.  In een verordening als bedoeld in het derde lid wordt bepaald op welke wijze de afdracht van de heffing door de rijksbelastingdienst aan de Raad geschiedt.   
-6.  De Raad kan bij verordening nadere regels stellen omtrent de toepassing van dit artikel.   
-7.  Een verordening als bedoeld in dit artikel wordt, voorzover deze betrekking heeft op ondernemingen waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht, niet vastgesteld dan na overleg met de betrokken werkgevers of verenigingen van werkgevers en de centrales van overheidspersoneel, verenigd in de Raad voor het Overheidspersoneelsbeleid.   
-8.  Een verordening als bedoeld in dit artikel behoeft de goedkeuring van Onze Minister, in overeenstemming met Onze Minister van Financiën.   
-
-### Artikel  46b  
-
-1.  De Raad kan uit de opbrengst van de in artikel 46a bedoelde heffingen subsidies verstrekken aan rechtspersonen die zich ten doel stellen de werkzaamheden van andere rechtspersonen op het gebied van de scholing en vorming van ondernemingsraadleden te begeleiden en te ondersteunen. De Raad kan bij verordening regels stellen inzake het verstrekken van deze subsidies en daarbij een subsidieplafond vaststellen.   
-2.  Aan de subsidie worden in ieder geval de volgende verplichtingen verbonden: 
-
-a. dat de betrokken rechtspersoon jaarlijks een begroting en een rekening van de met zijn in het eerste lid bedoelde taak verband houdende inkomsten en uitgaven opstelt en ter goedkeuring aan de Raad voorlegt;  
-
-b. dat de onder *a* bedoelde rekening door of vanwege de Raad kan worden gecontroleerd;  
-
-c. dat de betrokken rechtspersoon erop toeziet, dat de werkzaamheden op het gebied van de scholing en vorming van ondernemingsraadleden, waarvoor door hem geldelijke ondersteuning wordt verleend, wat de kwaliteit betreft tenminste voldoen aan de voorwaarden die gelden voor de subsidiëring van vormings- en ontwikkelingswerk voor volwassenen door het Rijk, en dat deze werkzaamheden voorts passen in de algemene opzet van het vormings- en ontwikkelingswerk voor volwassenen in Nederland, als aangegeven door de rijksoverheid.     
-
-### Artikel  46c  
-
-1.  De door de Raad ter bevordering van de scholing en vorming van ondernemingsraadleden geraamde inkomsten en uitgaven worden door hem jaarlijks als een afzonderlijke dienst op de begroting gebracht.   
-2.  De betrokken uitgaven, alsmede de middelen die tot dekking daarvan hebben gediend, worden jaarlijks afzonderlijk op de rekening van inkomsten en uitgaven van de Raad verantwoord.   
+Onverminderd hetgeen hem is toebedeeld in deze wet en de daarop berustende bepalingen, heeft de Raad tot taak de medezeggenschap in ondernemingen te bevorderen.  
 
 ### Hoofdstuk  VII B  
 
@@ -621,7 +605,7 @@ e. Voor de toepassing van artikel 38, eerste lid, kunnen behalve een representat
 
 f. De verordenende bevoegdheid van de Raad, met uitzondering van de bevoegdheid genoemd in artikel 46a, strekt zich niet uit tot ondernemingen waarin uitsluitend of nagenoeg uitsluitend krachtens publiekrechtelijke aanstelling arbeid wordt verricht.  
 
-g. Indien op grond van het bepaalde in onderdeel *d* de Minister van Binnenlandse Zaken een bedrijfscommissie heeft ingesteld, dient deze onverminderd het bepaalde in artikel 40, eerste lid, aan de Minister van Binnenlandse Zaken verslag uit te brengen. De Minister van Binnenlandse Zaken doet dit verslag toekomen aan de betrokken werkgevers of verenigingen van werkgevers en de centrales van overheidspersoneel, verenigd in de Raad voor het Overheidspersoneelsbeleid.  
+g. Indien op grond van het bepaalde in onderdeel d de Minister van Binnenlandse Zaken een bedrijfscommissie heeft ingesteld, dient deze onverminderd het bepaalde in artikel 40, eerste lid, aan de Minister van Binnenlandse Zaken verslag uit te brengen. De Minister van Binnenlandse Zaken doet dit verslag toekomen aan de betrokken werkgevers of verenigingen van werkgevers en de centrales van overheidspersoneel, verenigd in de Raad voor het Overheidspersoneelsbeleid.  
 
 h. Voor het behandelen en beslissen van verzoekschriften als bedoeld in artikelen 27 en 36, ter zake van een rechtbank, is bevoegd de kantonrechter werkzaam bij de volgende rechtbank: 
 
@@ -629,21 +613,23 @@ h. Voor het behandelen en beslissen van verzoekschriften als bedoeld in artikele
 
 2°. terzake van de rechtbank Den Haag: de rechtbank Rotterdam;  
 
-3°. terzake van de rechtbank Limburg: de rechtbank Oost-Brabant;  
+3°. ter zake van de rechtbank Gelderland: de rechtbank Overijssel;  
 
-4°. terzake van de rechtbank Midden-Nederland: de rechtbank Noord-Nederland  
+4°. terzake van de rechtbank Limburg: de rechtbank Oost-Brabant;  
 
-5°. terzake van de rechtbank Noord-Holland: de rechtbank Amsterdam;  
+5°. terzake van de rechtbank Midden-Nederland: de rechtbank Noord-Nederland  
 
-6°. terzake van de rechtbank Noord-Nederland: de rechtbank Oost-Nederland;  
+6°. terzake van de rechtbank Noord-Holland: de rechtbank Amsterdam;  
 
-7°. terzake van de rechtbank Oost-Brabant: de rechtbank Zeeland-West-Brabant;  
+7°. ter zake van de rechtbank Noord-Nederland: de rechtbank Midden-Nederland;  
 
-8°. terzake van de rechtbank Oost-Nederland: de rechtbank Midden-Nederland;  
+8°. terzake van de rechtbank Oost-Brabant: de rechtbank Zeeland-West-Brabant;  
 
-9°. terzake van de rechtbank Rotterdam: de rechtbank Den Haag;  
+9°. ter zake van de rechtbank Overijssel: de rechtbank Gelderland;  
 
-10°. terzake van de rechtbank Zeeland-West-Brabant: de rechtbank Limburg.    
+10°. terzake van de rechtbank Rotterdam: de rechtbank Den Haag;  
+
+11°. terzake van de rechtbank Zeeland-West-Brabant: de rechtbank Limburg.    
 
 i. Een beroep als bedoeld in artikel 26, eerste lid, ter zake van het gerechtshof Amsterdam, wordt ingesteld bij het gerechtshof Den Haag.    
 
@@ -664,14 +650,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regelen worden ges
 ### Artikel  48  
 
 1.  De ondernemer op wie de verplichting tot het instellen van een ondernemingsraad rust, treft bij voorlopig reglement, voor zover nodig, de voorzieningen die tot de bevoegdheid van de ondernemingsraad behoren, totdat de ondernemingsraad zelf die bevoegdheid uitoefent. De vereniging of verenigingen van werknemers, bedoeld in artikel 9, tweede lid, onder a, worden over het voorlopige reglement gehoord.   
-2.  Ten aanzien van het voorlopige reglement is artikel 8, eerste lid, eerste en tweede volzin en tweede lid, van overeenkomstige toepassing. De ondernemer zendt onverwijld een exemplaar van het voorlopige reglement aan de bedrijfscommissie. Het voorlopige reglement vervalt op het tijdstip waarop de ondernemingsraad het in artikel 8 bedoelde reglement heeft vastgesteld.   
+2.  Ten aanzien van het voorlopige reglement is artikel 8, eerste lid, eerste en tweede volzin en tweede lid, van overeenkomstige toepassing. Het voorlopige reglement vervalt op het tijdstip waarop de ondernemingsraad het in artikel 8 bedoelde reglement heeft vastgesteld.   
 3.  De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van de ondernemer of de ondernemers die een centrale ondernemingsraad of een groepsondernemingsraad hebben ingesteld.   
 
 ### Artikel  49  
 
 1.  De ondernemer op wie de verplichting tot het instellen van een of meer ondernemingsraden rust, alsmede de betrokken ondernemingsraden, verstrekken desgevraagd aan een daartoe door Onze Minister aangewezen onder hem ressorterende ambtenaar inlichtingen omtrent het instellen en het functioneren van deze ondernemingsraden.   
-2.  De ondernemingsraden zenden hun jaarverslag aan de betrokken bedrijfscommissie.   
-3.  De voorgaande leden zijn van overeenkomstige toepassing ten aanzien van de ondernemer of de ondernemers die een centrale ondernemingsraad of een groepsondernemingsraad hebben ingesteld, alsmede ten aanzien van die raden.   
+2.  Het eerste lid is van overeenkomstige toepassing ten aanzien van de ondernemer of de ondernemers die een centrale ondernemingsraad of een groepsondernemingsraad hebben ingesteld, alsmede ten aanzien van die raden.   
 
 ### Artikel  50  
 
@@ -683,9 +668,9 @@ De bedrijfscommissies, door de Raad ingesteld krachtens de Wet op de Onderneming
 
 ### Artikel  53  
 
-1.  Deze wet is niet van toepassing op de in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bedoelde openbare academische ziekenhuizen, Koninklijke Nederlandse Akademie van Wetenschappen en Koninklijke Bibliotheek noch op de Nederlandse organisatie voor wetenschappelijk onderzoek. De wet stelt regels omtrent het besluit van het bestuur van een bekostigde instelling voor hoger onderwijs als bedoeld in [artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of deze wet met uitzondering van Hoofdstuk VII B al dan niet van toepassing is op die instelling.   
+1.  Deze wet is niet van toepassing op de in de Wet op het hoger onderwijs en wetenschappelijk onderzoek bedoelde openbare academische ziekenhuizen, Koninklijke Nederlandse Akademie van Wetenschappen en Koninklijke Bibliotheek noch op de Nederlandse organisatie voor wetenschappelijk onderzoek. De wet stelt regels omtrent het besluit van het bestuur van een bekostigde instelling voor hoger onderwijs als bedoeld in artikel 1.2, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek of deze wet met uitzondering van Hoofdstuk VII B al dan niet van toepassing is op die instelling.   
 2.  Bij algemene maatregel van bestuur kan op voordracht van de Minister van Onderwijs, Cultuur en Wetenschap worden bepaald dat de in de eerste volzin van het eerste lid opgenomen uitzondering niet geldt voor één of meer van bedoelde instellingen. Daarbij kan tevens worden bepaald dat Hoofdstuk VII B van deze wet niet van toepassing is.   
-3.  Hoofdstuk VII B is niet van toepassing op openbare instellingen als bedoeld in de [Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+3.  Hoofdstuk VII B is niet van toepassing op openbare instellingen als bedoeld in de Wet educatie en beroepsonderwijs.   
 4.   Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek.    
 
 ### Artikel  53a  

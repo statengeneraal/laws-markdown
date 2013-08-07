@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 24 oktober 2006, Directie Arbeidsverhoudingen, nr. AV/PB/2006/84673;
 
-Gelet op de [artikelen 116, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [126, derde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [128, derde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [131, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [132, derde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [135, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [136, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [137, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [138, zesde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [140, vijfde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [141, derde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [143, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [144, vierde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [145, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [147, zesde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), en [203, vierde lid van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [artikelen 114, tweede lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [121, derde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [123, derde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [126, tweede lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [127, derde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [130, tweede lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [131, tweede lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [132, tweede lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [133, zesde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [135, vijfde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [136, derde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [138, tweede lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [139, vierde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [140, tweede lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [142, zesde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), en [197, vierde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);
+Gelet op de artikelen 116, tweede lid, 126, derde lid, 128, derde lid, 131, tweede lid, 132, derde lid, 135, tweede lid, 136, tweede lid, 137, tweede lid, 138, zesde lid, 140, vijfde lid, 141, derde lid, 143, tweede lid, 144, vierde lid, 145, tweede lid, 147, zesde lid, en 203, vierde lid van de Pensioenwet en de artikelen 114, tweede lid, 121, derde lid, 123, derde lid, 126, tweede lid, 127, derde lid, 130, tweede lid, 131, tweede lid, 132, tweede lid, 133, zesde lid, 135, vijfde lid, 136, derde lid, 138, tweede lid, 139, vierde lid, 140, tweede lid, 142, zesde lid, en 197, vierde lid, van de Wet verplichte beroepspensioenregeling;
 
 De Raad van State gehoord (advies van 16 november 2006, nr. W1206.0450/IV);
 
@@ -26,9 +26,9 @@ a. De Nederlandsche Bank: De Nederlandsche Bank N.V.;
 
 b. fonds: 
 
-1°. pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
+1°. pensioenfonds als bedoeld in artikel 1 van de Pensioenwet;  
 
-2°. beroepspensioenfonds als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).      
+2°. beroepspensioenfonds als bedoeld in artikel 1 van de Wet verplichte beroepspensioenregeling.      
 
 ### Paragraaf  2  
 
@@ -95,7 +95,7 @@ g. de helft van het obligo van het geplaatste kapitaal of van het in aandelen ve
 
 ####Vorming van eigen vermogen ten behoeve van toekomstige pensioenaanspraken
 
-De vorming van eigen vermogen ten behoeve van toezeggingen die in de toekomst leiden tot een wijziging van de pensioenovereenkomst en als gevolg daarvan tot een toename van de pensioenverplichtingen, is een activiteit die verband houdt met pensioen en kan overeenkomstig [artikel 116 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) door een pensioenfonds worden verricht.  
+De vorming van eigen vermogen ten behoeve van toezeggingen die in de toekomst leiden tot een wijziging van de pensioenovereenkomst en als gevolg daarvan tot een toename van de pensioenverplichtingen, is een activiteit die verband houdt met pensioen en kan overeenkomstig artikel 116 van de Pensioenwet door een pensioenfonds worden verricht.  
 
 ### Artikel  7  
 
@@ -149,21 +149,21 @@ Van het obligo van het geplaatste kapitaal of van het in aandelen verdeelde waar
 ####Minimaal vereist eigen vermogen
 
 1.  Het minimaal vereist eigen vermogen bedraagt het totaal van de in dit artikel beschreven berekeningen.   
-2.  Voor pensioenregelingen waarbij door het fonds beleggingsrisico wordt gelopen, wordt vier procent van het bedrag van de bruto technische voorzieningen vermenigvuldigd met de verhouding tussen de bruto technische voorzieningen onder aftrek van de overdrachten uit hoofde van herverzekering en de bruto technische voorzieningen aan het eind van het afgelopen boekjaar. Dit verhoudingsgetal is ten minste vijfentachtig procent.   
+2.  Voor pensioenregelingen waarbij door het fonds beleggingsrisico wordt gelopen, wordt vier procent van het bedrag van de bruto technische voorzieningen vermenigvuldigd met de verhouding tussen de bruto technische voorzieningen onder aftrek van de overdrachten uit hoofde van verzekering en de bruto technische voorzieningen aan het eind van het afgelopen boekjaar. Dit verhoudingsgetal is ten minste vijfentachtig procent.   
 3.  Voor pensioenregelingen waarbij door het fonds geen beleggingsrisico wordt gelopen en de beheerslasten voor een periode van meer dan vijf jaar zijn vastgelegd, wordt één procent van de technische voorzieningen aan het einde van het boekjaar gerekend, overeenkomstig het tweede lid.   
 4.  Voor pensioenregelingen waarbij door het fonds geen beleggingsrisico wordt gelopen en de beheerslasten voor een periode van vijf jaar of minder zijn vastgelegd, wordt vijfentwintig procent van de netto beheerslasten in verband met de bedrijfsuitoefening in het afgelopen boekjaar gerekend.   
-5.  Voor pensioenregelingen met risicokapitaal bij overlijden, wordt 0,3 procent van het aanwezige risicokapitaal vermenigvuldigd met de verhouding tussen het risicokapitaal dat ten laste van het fonds blijft na aftrek van de overdrachten uit hoofde van herverzekering en het risicokapitaal in het afgelopen boekjaar. Dit verhoudingsgetal is ten minste vijftig procent.   
+5.  Voor pensioenregelingen met risicokapitaal bij overlijden, wordt 0,3 procent van het aanwezige risicokapitaal vermenigvuldigd met de verhouding tussen het risicokapitaal dat ten laste van het fonds blijft na aftrek van de overdrachten uit hoofde van verzekering en het risicokapitaal in het afgelopen boekjaar. Dit verhoudingsgetal is ten minste vijftig procent.   
 6.  Voor zover het fonds arbeidsongeschiktheidpensioen uitvoert, wordt de hoogste uitkomst van de volgende berekeningen gerekend: 
 
-a. achttien procent van de in het afgelopen boekjaar geboekte dan wel verdiende premies, naargelang welk bedrag het hoogst is en van de in rekening gebrachte poliskosten, voor zover deze premies en kosten niet meer bedragen dan € 50 miljoen, vermeerderd met zestien procent van deze premies en kosten voor zover deze meer bedragen dan € 50 miljoen. De uitkomst van deze berekening wordt vermenigvuldigd met de verhouding tussen de schaden die voor eigen rekening komen van het fonds na overdracht uit hoofde van herverzekering en de bruto schaden in de afgelopen drie boekjaren. Dit verhoudingsgetal is ten minste vijftig procent;  
+a. achttien procent van de in het afgelopen boekjaar geboekte dan wel verdiende premies, naargelang welk bedrag het hoogst is en van de in rekening gebrachte poliskosten, voor zover deze premies en kosten niet meer bedragen dan € 50 miljoen, vermeerderd met zestien procent van deze premies en kosten voor zover deze meer bedragen dan € 50 miljoen. De uitkomst van deze berekening wordt vermenigvuldigd met de verhouding tussen de schaden die voor eigen rekening komen van het fonds na overdracht uit hoofde van verzekering en de bruto schaden in de afgelopen drie boekjaren. Dit verhoudingsgetal is ten minste vijftig procent;  
 
-b. zesentwintig procent van de gemiddeld geboekte bruto schaden in de afgelopen drie boekjaren en van de gemiddelde toevoeging aan de schadevoorziening in deze jaren, voor zover deze schaden en toevoeging niet meer bedragen dan € 35 miljoen, vermeerderd met drieëntwintig procent van deze schaden en toevoeging, voor zover deze meer bedragen dan € 35 miljoen. De uitkomst van deze berekening wordt vermenigvuldigd met de verhouding tussen de schaden die voor eigen rekening komen van het fonds na overdracht uit hoofde van herverzekering en de bruto schaden in de afgelopen drie boekjaren. Dit verhoudingsgetal is ten minste vijftig procent.     
-7.  Indien de hoogste uitkomst van de berekeningen, bedoeld in het zesde lid, lager is dan in het afgelopen boekjaar, is de uitkomst ten minste gelijk aan de uitkomst van het afgelopen boekjaar vermenigvuldigd met de verhouding tussen de technische voorzieningen voor te betalen schaden onder aftrek van de overdrachten uit herverzekering aan het einde van het afgelopen boekjaar en de technische voorzieningen voor te betalen schaden onder aftrek van de overdrachten uit herverzekering aan het begin van het afgelopen boekjaar. Dit verhoudingsgetal is ten hoogste honderd procent.   
-8.  De Nederlandsche Bank kan tegen de op herverzekering gebaseerde verlaging van het minimaal vereist eigen vermogen overeenkomstig het tweede, vijfde, zesde en zevende lid, bedenkingen naar voren brengen indien: 
+b. zesentwintig procent van de gemiddeld geboekte bruto schaden in de afgelopen drie boekjaren en van de gemiddelde toevoeging aan de schadevoorziening in deze jaren, voor zover deze schaden en toevoeging niet meer bedragen dan € 35 miljoen, vermeerderd met drieëntwintig procent van deze schaden en toevoeging, voor zover deze meer bedragen dan € 35 miljoen. De uitkomst van deze berekening wordt vermenigvuldigd met de verhouding tussen de schaden die voor eigen rekening komen van het fonds na overdracht uit hoofde van verzekering en de bruto schaden in de afgelopen drie boekjaren. Dit verhoudingsgetal is ten minste vijftig procent.     
+7.  Indien de hoogste uitkomst van de berekeningen, bedoeld in het zesde lid, lager is dan in het afgelopen boekjaar, is de uitkomst ten minste gelijk aan de uitkomst van het afgelopen boekjaar vermenigvuldigd met de verhouding tussen de technische voorzieningen voor te betalen schaden onder aftrek van de overdrachten uit verzekering aan het einde van het afgelopen boekjaar en de technische voorzieningen voor te betalen schaden onder aftrek van de overdrachten uit verzekering aan het begin van het afgelopen boekjaar. Dit verhoudingsgetal is ten hoogste honderd procent.   
+8.  De Nederlandsche Bank kan tegen de op verzekering gebaseerde verlaging van het minimaal vereist eigen vermogen overeenkomstig het tweede, vijfde, zesde en zevende lid, bedenkingen naar voren brengen indien: 
 
-a. de aard of de kwaliteit van de overdracht uit hoofde van herverzekering sinds het afgelopen boekjaar sterk is gewijzigd; of  
+a. de aard of de kwaliteit van de overdracht uit hoofde van verzekering sinds het afgelopen boekjaar sterk is gewijzigd; of  
 
-b. er nauwelijks of geen risico-overdracht plaatsvindt uit hoofde van herverzekering.     
+b. er nauwelijks of geen risico-overdracht plaatsvindt uit hoofde van verzekering.     
 
 ### Artikel  12  
 
@@ -210,14 +210,14 @@ b. een intern model hanteren.
 3.  De waarden worden hoofdzakelijk op gereglementeerde markten belegd. Beleggingen in niet tot de handel op een gereglementeerde financiële markt toegelaten waarden worden tot een prudent niveau beperkt.   
 4.  Beleggingen in derivaten zijn toegestaan voor zover deze bijdragen aan een vermindering van het risicoprofiel of een doeltreffend portefeuillebeheer vergemakkelijken. Het fonds vermijdt een bovenmatig risico met betrekking tot een en dezelfde tegenpartij en tot andere derivatenverrichtingen.   
 5.  De waarden worden naar behoren gediversifieerd zodat een bovenmatige afhankelijkheid van of vertrouwen in bepaalde waarden, of een bepaalde emittent van waarden of groep van ondernemingen en risicoaccumulatie in de portefeuille als geheel worden vermeden.   
-6.  Onder waardering op marktwaarde als bedoeld in [artikel 135, eerste lid, onder c, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 130, eerste lid, onder b, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn. Bij de waardering van een vordering van een fonds op een verzekeraar uit hoofde van een verzekering als bedoeld in artikel 12, derde lid, kan het kredietrisico op die verzekeraar buiten beschouwing worden gelaten.   
+6.  Onder waardering op marktwaarde als bedoeld in artikel 135, eerste lid, onder c, van de Pensioenwet en artikel 130, eerste lid, onder b, van de Wet verplichte beroepspensioenregeling wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn. Bij de waardering van een vordering van een fonds op een verzekeraar uit hoofde van een verzekering als bedoeld in artikel 12, derde lid, kan het kredietrisico op die verzekeraar buiten beschouwing worden gelaten.   
 
 ### Artikel  14  
 
 ####Leningen
 
-1.  Leningen als bedoeld in [artikel 136 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 131 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), zijn tijdelijk indien deze worden aangegaan voor een periode van niet langer dan een jaar.   
-2.  Van een liquiditeitsdoelstelling, als bedoeld in [artikel 136 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 131 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), is sprake als het fonds tijdelijk niet kan voldoen aan zijn verplichtingen of de betreffende lening wordt aangegaan ter verbetering van het risicoprofiel van het fonds.   
+1.  Leningen als bedoeld in artikel 136 van de Pensioenwet en artikel 131 van de Wet verplichte beroepspensioenregeling, zijn tijdelijk indien deze worden aangegaan voor een periode van niet langer dan een jaar.   
+2.  Van een liquiditeitsdoelstelling, als bedoeld in artikel 136 van de Pensioenwet en artikel 131 van de Wet verplichte beroepspensioenregeling, is sprake als het fonds tijdelijk niet kan voldoen aan zijn verplichtingen of de betreffende lening wordt aangegaan ter verbetering van het risicoprofiel van het fonds.   
 
 ### Paragraaf  6  
 
@@ -241,14 +241,14 @@ Indien een fonds een technische voorziening vormt voor de financiering van de vo
 
 #### *Langetermijnherstelplan* 
 
-1.  Het langetermijnherstelplan, bedoeld in [artikel 138 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 133 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), bevat in ieder geval een beschrijving van: 
+1.  Het langetermijnherstelplan, bedoeld in artikel 138 van de Pensioenwet of artikel 133 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval een beschrijving van: 
 
-a. de oorzaak van het niet meer of niet zullen voldoen aan de bij of krachtens [artikel 132 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 127 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) gestelde vereisten ten aanzien van het vereist eigen vermogen;  
+a. de oorzaak van het niet meer of niet zullen voldoen aan de bij of krachtens artikel 132 van de Pensioenwet of artikel 127 van de Wet verplichte beroepspensioenregeling gestelde vereisten ten aanzien van het vereist eigen vermogen;  
 
 b. de voorziene ontwikkeling van de technische voorzieningen en de waarden;  
 
 c. de concrete maatregelen waardoor het vereist eigen vermogen binnen maximaal vijftien jaar op het vereiste niveau komt, waarbij rekening wordt gehouden met de naar verwachting toe te kennen toeslagverlening en de overige verplichtingen van het fonds;   en is ten aanzien van de onderdelen b en c gebaseerd op een recente continuïteitsanalyse als bedoeld in artikel 22.   
-2.  De in het eerste lid, onder c, bedoelde maatregelen mogen er niet toe leiden dat het risico dat niet wordt voldaan aan de in het eerste lid, onder a, genoemde vereisten ten aanzien van het vereist eigen vermogen, doelbewust wordt vergroot ten opzichte van de situatie waarin wel werd voldaan aan de in [artikel 132 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 127 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) opgenomen vereisten.   
+2.  De in het eerste lid, onder c, bedoelde maatregelen mogen er niet toe leiden dat het risico dat niet wordt voldaan aan de in het eerste lid, onder a, genoemde vereisten ten aanzien van het vereist eigen vermogen, doelbewust wordt vergroot ten opzichte van de situatie waarin wel werd voldaan aan de in artikel 132 van de Pensioenwet of artikel 127 van de Wet verplichte beroepspensioenregeling opgenomen vereisten.   
 3.  Een herstelplan vertoont ex ante een gestaag herstel.   
 
 ### Paragraaf  7.2  
@@ -259,15 +259,15 @@ c. de concrete maatregelen waardoor het vereist eigen vermogen binnen maximaal v
 
 #### *Kortetermijnherstelplan* 
 
-Het kortetermijnherstelplan, bedoeld in [artikel 140 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 135 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), bevat in ieder geval: 
+Het kortetermijnherstelplan, bedoeld in artikel 140 van de Pensioenwet of artikel 135 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval: 
 
-a. een beschrijving van de oorzaak van het niet meer of niet zullen voldoen aan de bij of krachtens [artikel 131 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 126 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) gestelde vereisten ten aanzien van het minimaal vereist eigen vermogen;  
+a. een beschrijving van de oorzaak van het niet meer of niet zullen voldoen aan de bij of krachtens artikel 131 van de Pensioenwet of artikel 126 van de Wet verplichte beroepspensioenregeling gestelde vereisten ten aanzien van het minimaal vereist eigen vermogen;  
 
 b. een beschrijving van de voorziene ontwikkeling van de technische voorzieningen en de waarden;  
 
 c. een beschrijving van de concrete maatregelen waardoor het minimaal vereist eigen vermogen binnen maximaal drie jaren op het vereiste niveau komt, waarbij rekening wordt gehouden met de verplichtingen van het fonds; en  
 
-d. uitsluitsel of is voldaan aan de criteria in [artikel 140 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 135 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).    
+d. uitsluitsel of is voldaan aan de criteria in artikel 140 van de Pensioenwet of artikel 135 van de Wet verplichte beroepspensioenregeling.    
 
 ### Paragraaf  8  
 
@@ -290,14 +290,31 @@ Een fonds draagt zorg voor een systematische analyse van integriteitrisico’s e
 ####Belangenverstrengeling
 
 1.  Een fonds beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van privé-belangen met de belangen van het fonds van personen die het beleid van het fonds bepalen, leden van het orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken van het fonds en andere werknemers of andere personen die in opdracht van het fonds op structurele basis werkzaamheden voor het fonds verrichten.   
-2.  Een fonds beschikt over een gedragscode die voor bestuurders en medewerkers van het fonds voorschriften geeft ter voorkoming van belangenconflicten en van misbruik en oneigenlijk gebruik van de bij het fonds aanwezige informatie of zaken.   
-3.  De Nederlandsche Bank kan regels stellen met betrekking tot de inhoud van de gedragscode, bedoeld in het tweede lid.   
+2.  Een fonds voorkomt dat sprake is van personele unies op het niveau van beleidsbepalers of medebeleidsbepalers tussen het fonds en derden waaraan werkzaamheden worden uitbesteed.   
+3.  Een fonds beschikt over een gedragscode die voor bestuurders en medewerkers van het fonds voorschriften geeft ter voorkoming van belangenconflicten en van misbruik en oneigenlijk gebruik van de bij het fonds aanwezige informatie of zaken.   
+4.  De Nederlandsche Bank kan regels stellen met betrekking tot de inhoud van de gedragscode, bedoeld in het derde lid.   
 
 ### Artikel  21  
 
 ####Soliditeit van het fonds
 
 Een fonds voert een beleid gericht op het duurzaam beheersen van te lopen financiële risico’s en andere dan financiële risico’s.  
+
+### Artikel  21a  
+
+####Beheerst beloningsbeleid
+
+1.  Het beleid, bedoeld in artikel 21, houdt mede in dat het fonds een beleid inzake beloningen voert dat niet aanmoedigt tot het nemen van meer risico’s dan voor het fonds aanvaardbaar is.   
+2.  Het fonds legt het beleid inzake beloningen schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de omvang en organisatie van het fonds en op de aard, omvang en complexiteit van zijn bedrijf.   
+3.  Het beleid inzake beloningen omschrijft de beloningscomponenten en beloningsstructuren die ertoe zouden kunnen bijdragen dat het fonds meer risico’s neemt dan voor hem aanvaardbaar is, alsmede de te volgen procedures en maatregelen die dergelijke beloningscomponenten en beloningsstructuren voorkomen en beheersen.   
+4.  Het fonds maakt zijn beleid inzake beloningen openbaar.   
+5.  De Nederlandsche Bank kan regels stellen met betrekking tot: 
+
+a. de wijze waarop het beleid inzake beloningen wordt opgesteld en vastgesteld of goedgekeurd, uitgevoerd, geëvalueerd en aangepast;  
+
+b. de wijze waarop vorm wordt gegeven aan beloningscomponenten en beloningsstructuren en de wijze waarop de risico’s die uit het beleid en de uitvoering daarvan voortvloeien, worden beheerst; en  
+
+c. de inhoud en wijze van openbaarmaking van het beleid inzake beloningen.     
 
 ### Artikel  22  
 
@@ -317,37 +334,14 @@ Een fonds voert een beleid gericht op het duurzaam beheersen van te lopen financ
 ####Commissie parameters
 
 1.  Er is een Commissie Parameters, hierna te noemen de commissie.   
-2.  De commissie heeft tot taak Onze Minister over iedere voorgenomen wijziging van de regels, die bij algemene maatregel van bestuur worden gesteld op grond van [artikel 144 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 139 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), haar oordeel te geven voordat daartoe een voordracht als bedoeld in genoemde artikelen wordt gedaan.   
+2.  De commissie heeft tot taak Onze Minister over iedere voorgenomen wijziging van de regels, die bij algemene maatregel van bestuur worden gesteld op grond van artikel 144 van de Pensioenwet of artikel 139 van de Wet verplichte beroepspensioenregeling, haar oordeel te geven voordat daartoe een voordracht als bedoeld in genoemde artikelen wordt gedaan.   
 3.  Onze Minister kan regels stellen met betrekking tot de benoeming en het ontslag van de leden en de werkwijze van de commissie.   
-
-### Artikel  23a  
-
-####Parameters
-
-1.  Een fonds gaat voor de berekeningen, bedoeld in de [artikelen 126](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [128](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [138](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [140](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [143 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel de [artikelen 121](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [123](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [133](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [135](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [138 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), uit van: 
-
-a. minimale verwachtingswaarden voor de groeivoeten van het loon- en prijsindexcijfer van 3%, respectievelijk 2%;  
-
-b. een maximaal verwacht rendement op vastrentende waarden na aftrek van beleggingskosten van 4,5%;  
-
-c. maximale risicopremies voor aandelen, onroerend goed en grondstoffen, te onderscheiden in de volgende categorieën: 
-
-1°. voor aandelen ontwikkelde markten: een rekenkundig gemiddelde van 4,5% of een meetkundig gemiddelde van 3%;  
-
-2°. voor niet-beursgenoteerde aandelen: een rekenkundig gemiddelde van 5% of een meetkundig gemiddelde van 3,5%;  
-
-3°. voor aandelen opkomende markten: een rekenkundig gemiddelde van 5,5% of een meetkundig gemiddelde van 4%; en  
-
-4°. voor onroerend goed en voor grondstoffen: een rekenkundig gemiddelde van 3,5% of een meetkundig gemiddelde van 2%; en    
-
-d. de toekomstige rentetermijnstructuur voor de disconteringsvoet in de continuïteitsanalyse. De toekomstige rentetermijnstructuur kan worden afgeleid uit de rentetermijnstructuur als bedoeld in artikel 2, tweede lid, waarbij het fonds vanaf jaar t + 5 van die toekomstige rentetermijnstructuur gemotiveerd en na toestemming van De Nederlandsche Bank kan afwijken.     
-2.  Een fonds kan na instemming van De Nederlandsche Bank afwijken van hetgeen is bepaald in het eerste lid indien de actuele marktomstandigheden of de specifieke karakteristieken van het fonds dat noodzakelijk maken.   
 
 ### Artikel  23b  
 
 ####Parameters vanaf 2012
 
-1.  Vanaf 1 januari 2012 gaat een fonds voor de berekeningen, bedoeld in de [artikelen 126](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [128](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [138](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [140](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [143 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel de [artikelen 121](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [123](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [133](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [135](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [138 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), uit van: 
+1.  Vanaf 1 januari 2012 gaat een fonds voor de berekeningen, bedoeld in de artikelen 126, 128, 138, 140 en 143 van de Pensioenwet dan wel de artikelen 121, 123, 133, 135 en 138 van de Wet verplichte beroepspensioenregeling, uit van: 
 
 a. minimale verwachtingswaarden voor de groeivoeten van het loon- en prijsindexcijfer van 3% respectievelijk 2% per jaar;  
 
@@ -368,8 +362,8 @@ f. de toekomstige rentetermijnstructuur voor de disconteringsvoet in de continu�
 
 ####Overgangsbepaling wijziging parameters en herstelplannen
 
-1.  Bij een herstelplan als bedoeld in [artikel 138](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [140 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 133](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [135 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) waarmee De Nederlandsche Bank heeft ingestemd, is het feit dat de uitkomst van berekeningen in het kader van dat herstelplan en het daarin opgenomen beleid wijzigt omdat gebruik wordt gemaakt van na de vaststelling van het herstelplan gewijzigde regels als bedoeld in [artikel 144, eerste lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 139, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), als zodanig geen aanleiding voor herziening van het herstelplan.   
-2.  In afwijking van het eerste lid kan bij berekeningen ten aanzien van de consistentie, bedoeld in [artikel 95, eerste lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 103, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), het feit dat de uitkomst van berekeningen wijzigt als bedoeld in het eerste lid, als zodanig wel aanleiding zijn tot herziening van het in het herstelplan, bedoeld in het eerste lid, opgenomen beleid omtrent voorwaardelijke toeslagverlening, nadat de maximale looptijd die geldt voor het kortetermijnherstelplan is verstreken.   
+1.  Bij een herstelplan als bedoeld in artikel 138 en 140 van de Pensioenwet of artikel 133 en 135 van de Wet verplichte beroepspensioenregeling waarmee De Nederlandsche Bank heeft ingestemd, is het feit dat de uitkomst van berekeningen in het kader van dat herstelplan en het daarin opgenomen beleid wijzigt omdat gebruik wordt gemaakt van na de vaststelling van het herstelplan gewijzigde regels als bedoeld in artikel 144, eerste lid, van de Pensioenwet of artikel 139, eerste lid, van de Wet verplichte beroepspensioenregeling, als zodanig geen aanleiding voor herziening van het herstelplan.   
+2.  In afwijking van het eerste lid kan bij berekeningen ten aanzien van de consistentie, bedoeld in artikel 95, eerste lid, van de Pensioenwet of artikel 103, eerste lid, van de Wet verplichte beroepspensioenregeling, het feit dat de uitkomst van berekeningen wijzigt als bedoeld in het eerste lid, als zodanig wel aanleiding zijn tot herziening van het in het herstelplan, bedoeld in het eerste lid, opgenomen beleid omtrent voorwaardelijke toeslagverlening, nadat de maximale looptijd die geldt voor het kortetermijnherstelplan is verstreken.   
 
 ### Paragraaf  9  
 
@@ -379,9 +373,9 @@ f. de toekomstige rentetermijnstructuur voor de disconteringsvoet in de continu�
 
 ####Inhoud actuariële en bedrijfstechnische nota
 
-De actuariële en bedrijfstechnische nota, bedoeld in [artikel 145 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 140 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), bevat in ieder geval een beschrijving van: 
+De actuariële en bedrijfstechnische nota, bedoeld in artikel 145 van de Pensioenwet of artikel 140 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval een beschrijving van: 
 
-a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens [artikel 143 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of de [artikelen 42](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [138 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), en van de opzet van de administratieve organisatie en interne controle, bedoeld in artikel 18;  
+a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens artikel 143 van de Pensioenwet of de artikelen 42 en 138 van de Wet verplichte beroepspensioenregeling, en van de opzet van de administratieve organisatie en interne controle, bedoeld in artikel 18;  
 
 b. voor zover van toepassing procedures en criteria voor de aansluiting van werkgevers bij het betreffende fonds en voor het verkrijgen van het deelnemerschap van hun werknemers;  
 
@@ -389,13 +383,13 @@ c. de hoofdlijnen van de uitvoeringsovereenkomst dan wel het uitvoeringsreglemen
 
 d. de hoofdlijnen van de reeds verworven en nog te verwerven pensioenaanspraken en -rechten die voor de deelnemers, gewezen deelnemers, gepensioneerden of andere aanspraakgerechtigden voortvloeien uit het pensioenreglement;  
 
-e. de uit het pensioenreglement en de uitvoeringsovereenkomst dan wel het uitvoeringsreglement voortvloeiende risico’s die in eigen beheer zijn gehouden dan wel zijn herverzekerd of overgedragen;  
+e. de uit het pensioenreglement en de uitvoeringsovereenkomst dan wel het uitvoeringsreglement voortvloeiende risico’s die in eigen beheer zijn gehouden dan wel zijn verzekerd of overgedragen;  
 
 f. de financiële opzet;  
 
 g. de financiële sturingsmiddelen; en  
 
-h. de systematiek van de vaststelling van de parameters, zoals die op grond van [artikel 144 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 139 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) worden vastgesteld.    
+h. de systematiek van de vaststelling van de parameters, zoals die op grond van artikel 144 van de Pensioenwet en artikel 139 van de Wet verplichte beroepspensioenregeling worden vastgesteld.    
 
 ### Artikel  25  
 
@@ -403,13 +397,13 @@ h. de systematiek van de vaststelling van de parameters, zoals die op grond van 
 
 1.  De beschrijving van de financiële opzet, bedoeld in artikel 24, onder f, bevat in ieder geval een beschrijving van de wijze waarop wordt voldaan aan de vereisten ten aanzien van: 
 
-a. de technische voorzieningen, het minimaal vereist eigen vermogen en het vereist eigen vermogen, bedoeld in de [artikelen 126](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [131](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [132 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of de [artikelen 121](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [126](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [127 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+a. de technische voorzieningen, het minimaal vereist eigen vermogen en het vereist eigen vermogen, bedoeld in de artikelen 126, 131 en 132 van de Pensioenwet of de artikelen 121, 126 en 127 van de Wet verplichte beroepspensioenregeling;  
 
-b. het premiebeleid, bedoeld in de [artikelen 128](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [129 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of de [artikelen 123](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [124 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+b. het premiebeleid, bedoeld in de artikelen 128 en 129 van de Pensioenwet of de artikelen 123 en 124 van de Wet verplichte beroepspensioenregeling;  
 
-c. het beleggingsbeleid en het aangaan van leningen, bedoeld in de [artikelen 135](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [136 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of de [artikelen 130](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [131 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+c. het beleggingsbeleid en het aangaan van leningen, bedoeld in de artikelen 135 en 136 van de Pensioenwet of de artikelen 130 en 131 van de Wet verplichte beroepspensioenregeling;  
 
-d. de financiering van voorwaardelijke toeslagverlening, bedoeld in de [artikelen 95](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [137 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of de [artikelen 103](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [132 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).     
+d. de financiering van voorwaardelijke toeslagverlening, bedoeld in de artikelen 95 en 137 van de Pensioenwet of de artikelen 103 en 132 van de Wet verplichte beroepspensioenregeling.     
 2.  Bij de beschrijving, bedoeld in het eerste lid, wordt rekening gehouden met de overige verplichtingen van het fonds.   
 
 ### Artikel  26  
@@ -434,15 +428,15 @@ d. de opzet van de resultaatsevaluatie met betrekking tot de onderwerpen genoemd
 
 ### Artikel  28  
 
-####Afwijking in geval van overdracht of herverzekering van risico’s
+####Afwijking in geval van overdracht of verzekering van risico’s
 
-Voor zover risico’s zijn overgedragen of herverzekerd kunnen de beschrijvingen, bedoeld in de artikelen 25 en 27, beperkt blijven tot een verwijzing naar hetgeen in de ten behoeve van de overdracht of herverzekering afgesloten overeenkomsten is opgenomen.  
+Voor zover risico’s zijn overgedragen of verzekerd kunnen de beschrijvingen, bedoeld in de artikelen 25 en 27, beperkt blijven tot een verwijzing naar hetgeen in de ten behoeve van de overdracht of verzekering afgesloten overeenkomsten is opgenomen.  
 
 ### Artikel  29  
 
 ####Uitgangspunten oordeelsvorming De Nederlandsche Bank
 
-De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de artikelen 24 tot en met 28 zijn zodanig dat De Nederlandsche Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de [artikelen 25](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [95](../../../../../../wet/pensioenwet/BWBR0020809/README.md), [126 tot en met 137](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [143 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of de [artikelen 35](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [103](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [121 tot en met 132](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [138 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).  
+De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de artikelen 24 tot en met 28 zijn zodanig dat De Nederlandsche Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de artikelen 25, 95, 126 tot en met 137 en 143 van de Pensioenwet of de artikelen 35, 103, 121 tot en met 132 en 138 van de Wet verplichte beroepspensioenregeling.  
 
 ### Paragraaf  10  
 
@@ -452,7 +446,7 @@ De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond v
 
 ####Informatieverstrekking door fondsen aan De Nederlandsche Bank
 
-1.  De door een fonds op grond van de [artikelen 147, derde lid](../../../../../../wet/pensioenwet/BWBR0020809/README.md), en [artikel 203, derde en vierde lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en op grond van de [artikelen 142, derde lid](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [artikel 197, derde en vierde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) te verstrekken gegevens hebben uitsluitend betrekking op: 
+1.  De door een fonds op grond van de artikelen 147, derde lid, en artikel 203, derde en vierde lid, van de Pensioenwet en op grond van de artikelen 142, derde lid en artikel 197, derde en vierde lid, van de Wet verplichte beroepspensioenregeling te verstrekken gegevens hebben uitsluitend betrekking op: 
 
 a. het fonds en zijn organisatie met betrekking tot: 
 
@@ -464,7 +458,7 @@ a. het fonds en zijn organisatie met betrekking tot:
 
 4°. deskundigheidsbevordering van het bestuur;  
 
-5°. de persoongegevens van de accountant, bedoeld in [artikel 147, vijfde lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 142, vijfde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), de actuaris bedoeld in [artikel 147, vierde lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 142, vierde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en de adviserende actuaris;  
+5°. de persoongegevens van de accountant, bedoeld in artikel 147, vijfde lid, van de Pensioenwet en artikel 142, vijfde lid, van de Wet verplichte beroepspensioenregeling, de actuaris bedoeld in artikel 147, vierde lid, van de Pensioenwet en artikel 142, vierde lid, van de Wet verplichte beroepspensioenregeling en de adviserende actuaris;  
 
 6°. de accountantsverklaring;  
 
@@ -478,7 +472,7 @@ b. een bestuursverslag;
 
 c. de balans, bestaande uit een enkelvoudige balans en, indien van toepassing, een geconsolideerde balans, een toelichting op de balans alsmede: 
 
-1°. een specificatie van de activa met betrekking tot immateriële activa, onroerende zaken, niet geconsolideerde en geconsolideerde deelnemingen, indien van toepassing, herverzekeringsdeel technische voorzieningen, overige activa en beleggingen voor risico deelnemers;  
+1°. een specificatie van de activa met betrekking tot immateriële activa, onroerende zaken, niet geconsolideerde en geconsolideerde deelnemingen, indien van toepassing, verzekeringsdeel technische voorzieningen, overige activa en beleggingen voor risico deelnemers;  
 
 2°. een specificatie van de passiva met betrekking tot gespecificeerde reserves, het aandeel van derden in geval van een geconsolideerde balans, andere voorzieningen en overige verplichtingen;  
 
@@ -538,11 +532,11 @@ j. de door het fonds uitgevoerde pensioenregeling met betrekking tot:
 
 k. premiegegevens over het nieuwe jaar, tenzij sprake is van een gesloten fonds;  
 
-l. herverzekering, met betrekking tot: 
+l. verzekering, met betrekking tot: 
 
 1°. garantiecontracten;  
 
-2°. risicoherverzekering; en  
+2°. risicoverzekering; en  
 
 3°. kapitaalcontracten.    
 
@@ -567,13 +561,13 @@ c. de kenmerken van de pensioenregeling.
 
 ####Informatieverstrekking door verzekeraars en premiepensioeninstellingen aan De Nederlandsche Bank
 
-De door een verzekeraar of een premiepensioeninstelling op grond van [artikel 203, derde en vierde lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 197, derde en vierde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) te verstrekken gegevens hebben uitsluitend betrekking op artikel 30, eerste lid, onderdeel i en j en tweede lid, onderdeel b en c.  
+De door een verzekeraar of een premiepensioeninstelling op grond van artikel 203, derde en vierde lid, van de Pensioenwet of artikel 197, derde en vierde lid, van de Wet verplichte beroepspensioenregeling te verstrekken gegevens hebben uitsluitend betrekking op artikel 30, eerste lid, onderdeel i en j en tweede lid, onderdeel b en c.  
 
 ### Artikel  32  
 
 ####Uitwerking informatieverstrekking door fondsen
 
-De Nederlandsche Bank stelt, met inachtneming van [hoofdstuk 7 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [hoofdstuk 6 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) alsmede met inachtneming van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van verordening (EG) Nr. 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243), regels met betrekking tot de te verstrekken gegevens, bedoeld in artikel 30. Deze omvatten uitsluitend: 
+De Nederlandsche Bank stelt, met inachtneming van hoofdstuk 7 van de Pensioenwet en hoofdstuk 6 van de Wet verplichte beroepspensioenregeling alsmede met inachtneming van Titel 9 van Boek 2 van het Burgerlijk Wetboek en de internationale standaarden voor jaarrekeningen die door de Commissie van de Europese Gemeenschappen van toepassing zijn verklaard overeenkomstig artikel 3 van verordening (EG) Nr. 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 (PbEG L 243), regels met betrekking tot de te verstrekken gegevens, bedoeld in artikel 30. Deze omvatten uitsluitend: 
 
 a. de modellen waarin de gegevens worden verstrekt;  
 
@@ -585,7 +579,7 @@ d. de te hanteren valuta en rekeneenheid;
 
 e. de afronding;  
 
-f. de termijn waarbinnen de gegevens worden verstrekt; deze is niet korter dan noodzakelijk voor de uitoefening van het toezicht op de naleving van de [Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md); en  
+f. de termijn waarbinnen de gegevens worden verstrekt; deze is niet korter dan noodzakelijk voor de uitoefening van het toezicht op de naleving van de Pensioenwet en de Wet verplichte beroepspensioenregeling; en  
 
 g. de frequentie waarmee de gegevens worden verstrekt; deze bedraagt minimaal één maal en maximaal vier maal per jaar.    
 
@@ -594,9 +588,9 @@ g. de frequentie waarmee de gegevens worden verstrekt; deze bedraagt minimaal é
 ####Verstrekking langs elektronische weg
 
 1.  Het fonds, de verzekeraar en de premiepensioeninstelling verstrekken de gegevens, bedoeld in de artikelen 30 en 31, langs elektronische weg aan De Nederlandsche Bank.   
-2.  De accountant zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de gegevens waaromtrent de accountant een verklaring omtrent de getrouwheid als bedoeld in [artikel 147, vijfde lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 142, vijfde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) heeft afgegeven en ten bewijze waarvan de staten door hem zijn gewaarmerkt.   
-3.  De actuaris zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de door hem gewaarmerkte actuariële staten, waaronder een actuarieel verslag voorzien van een verklaring van de actuaris als bedoeld in [artikel 147, derde lid, onderdeel h, en vierde lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of artikel [142, derde lid, onderdeel h, en vierde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
-4.  Het bestuur van het fonds zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de staten, bedoeld in [artikel 147 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of artikel [142 van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
+2.  De accountant zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de gegevens waaromtrent de accountant een verklaring omtrent de getrouwheid als bedoeld in artikel 147, vijfde lid, van de Pensioenwet of artikel 142, vijfde lid, van de Wet verplichte beroepspensioenregeling heeft afgegeven en ten bewijze waarvan de staten door hem zijn gewaarmerkt.   
+3.  De actuaris zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de door hem gewaarmerkte actuariële staten, waaronder een actuarieel verslag voorzien van een verklaring van de actuaris als bedoeld in artikel 147, derde lid, onderdeel h, en vierde lid, van de Pensioenwet of artikel 142, derde lid, onderdeel h, en vierde lid, van de Wet verplichte beroepspensioenregeling.   
+4.  Het bestuur van het fonds zendt een schriftelijke controleverklaring aan De Nederlandsche Bank, inhoudende dat de langs elektronische weg verstrekte gegevens gelijk zijn aan de staten, bedoeld in artikel 147 van de Pensioenwet of artikel 142 van de Wet verplichte beroepspensioenregeling.   
 5.  De Nederlandsche Bank kan regels stellen met betrekking tot de inhoud van de schriftelijke controleverklaring, bedoeld in het tweede, derde en vierde lid.   
 6.  De Nederlandsche Bank kan, in afwijking van het eerste lid, op verzoek besluiten dat de verstrekking niet langs elektronische weg behoeft te geschieden, mits de verstrekking van de gevraagde gegevens wat betreft indeling en inhoud niet afwijkt van hetgeen langs elektronische weg zou worden verstrekt.   
 
@@ -604,14 +598,14 @@ g. de frequentie waarmee de gegevens worden verstrekt; deze bedraagt minimaal é
 
 ####Verstrekking gegevens aan derden
 
-1.  De Nederlandsche Bank verstrekt de in [artikel 203 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of artikel 197 van de Wet verplichte beroepspensioenregeling bedoelde gegevens op verzoek aan: 
+1.  De Nederlandsche Bank verstrekt de in artikel 203 van de Pensioenwet of artikel 197 van de Wet verplichte beroepspensioenregeling bedoelde gegevens op verzoek aan: 
 
 a. de Sociaal Economische Raad;  
 
 b. de Stichting van de Arbeid; en  
 
 c. het Centraal Planbureau.     
-2.  De Nederlandsche Bank kan de in [artikel 203 van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) of artikel 197 van de Wet verplichte beroepspensioenregeling bedoelde gegevens verstrekken aan: 
+2.  De Nederlandsche Bank kan de in artikel 203 van de Pensioenwet of artikel 197 van de Wet verplichte beroepspensioenregeling bedoelde gegevens verstrekken aan: 
 
 a. de Vereniging van Bedrijfstakpensioenfondsen;  
 
