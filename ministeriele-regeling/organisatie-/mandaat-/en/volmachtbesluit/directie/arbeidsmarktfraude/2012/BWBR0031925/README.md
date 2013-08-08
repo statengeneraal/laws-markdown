@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 augustus 2012, INSP/2012/11434, houdende de inrichting van de directie Arbeidsmarktfraude, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Arbeidsmarktfraude 2012)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 4, onderdeel l](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), en [14 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md);
+Gelet op de artikelen 4, onderdeel l, en 14 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012;
 Besluit:     
 ### §  1  
 
@@ -51,13 +51,13 @@ b. het afleggen van verantwoording en het rapporteren aan de directeur over bijd
 
 c. het doen van voorstellen aan het IG-team met betrekking tot het aantrekken en ontslaan van personeel;  
 
-d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 4, eerste lid, onderdelen a, e, f, h en j](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen.    
+d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in artikel 4, eerste lid, onderdelen a, e, f, h en j, en artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012, binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen.    
 
 ### Artikel  4  
 
 ####Verantwoordelijkheden inspectieafdelingen A en B
 
-De afdeling Inspectie A is verantwoordelijk voor: 
+De inspectieafdelingen A en B zijn verantwoordelijk voor: 
 
 a. het toezicht op de naleving door werkgevers van wet- en regelgeving op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen en de betaling van het minimumloon en de minimumvakantiebijslag, alsmede het in verband daarmee opsporen van strafbare feiten;  
 
@@ -110,6 +110,12 @@ b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve 
 
 De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,– per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.  
 
+### Artikel  8a  
+
+####Machtiging stillegging in verband met recidive
+
+De onder de directeur ressorterende ambtenaren, belast met toezicht, zijn gemachtigd om een beschikking tot stillegging van werkzaamheden in verband met recidive te effectueren door het treffen van de nodige maatregelen, het geven van de nodige aanwijzingen en het inroepen van de hulp van de sterke arm.  
+
 ### Artikel  9  
 
 ####Plaatsvervanging
@@ -125,7 +131,7 @@ De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde 
 
 ####Intrekking
 
-Het [Organisatie-, mandaat- en volmachtbesluit directie AI Arbeidsmarktfraude 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/ai/arbeidsmarktfraude/etc/BWBR0025764/README.md) wordt ingetrokken.  
+Het Organisatie-, mandaat- en volmachtbesluit directie AI Arbeidsmarktfraude 2009 wordt ingetrokken.  
 
 ### Artikel  11  
 
