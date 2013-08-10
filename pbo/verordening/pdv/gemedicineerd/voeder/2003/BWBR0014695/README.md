@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Diervoeder van 12 februari 2003 houdende bepalingen met betrekking tot gemedicineerd voeder (Verordening PDV gemedicineerd voeder 2003)
 
 Het bestuur van het Productschap Diervoeder;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [96](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104, tweede lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), de artikelen 2, 3 en 4 van de Instellingsverordening akkerbouwproductschappen 1997, de [artikelen 33](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) en [42 van de Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), de [artikelen 7](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md), [8](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md), [12](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md), [19](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md) en [20 van het Besluit gemedicineerd voeder](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md), de [Regeling vaststelling regeling medebewind vergunningverlening artikel 33 van de Diergeneesmiddelenwet](../../../../../../../ministeriele-regeling/vaststelling/regeling/medebewind/vergunningverlening/artikel/33/van/de/etc/BWBR0006150/README.md) en het [Besluit ex artikel 33 van de Diergeneesmiddelenwet](../../../../../../../AMvB/besluit/ex/artikel/33/diergeneesmiddelenwet/BWBR0006103/README.md);
+Gelet op de artikelen 93, 96 en 104, tweede lid van de Wet op de bedrijfsorganisatie, de artikelen 2, 3 en 4 van de Instellingsverordening akkerbouwproductschappen 1997, de artikelen 33 en 42 van de Diergeneesmiddelenwet, de artikelen 7, 8, 12, 19 en 20 van het Besluit gemedicineerd voeder, de Regeling vaststelling regeling medebewind vergunningverlening artikel 33 van de Diergeneesmiddelenwet en het Besluit ex artikel 33 van de Diergeneesmiddelenwet;
 Besluit:     
 ### §  1  
 
@@ -11,22 +11,24 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Voor de toepassing van deze verordening gelden voor zover nodig de begripsbepalingen, bedoeld in [artikel 1 van de Verordening PDV diervoeders 2003](../../../../../../../pbo/verordening/pdv/diervoeders/2003/BWBR0014962/README.md) alsmede van de [Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md).   
+1.  Voor de toepassing van deze verordening gelden voor zover nodig de begripsbepalingen, bedoeld in artikel 1.1 van de Wet dieren en artikel 1.1. van het Besluit diergeneesmiddelen.   
 2.  Voorts wordt verstaan onder:  
 
-| --- | --- | --- |
-|:---|:---|:---|
-| wet  | :  | [Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md);  |
-| besluit  | :  | [Besluit gemedicineerd voeder](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md);  |
-| registratienummer  | :  | nummer waaronder diergeneesmiddelen in het diergeneesmiddelenregister definitief zijn geregistreerd ingevolge [artikel 4 van de wet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) en de [Regeling registratie diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/registratie/diergeneesmiddelen/1995/BWBR0006988/README.md);  |
-| gemedicineerd halffabrikaat:  | :  | halffabrikaat met medicinale werking als bedoeld in [artikel 1 onder g van het besluit](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md);  |
-| gemedicineerd voormengsel  | :  | voormengsel met medicinale werking als bedoeld in [artikel 1 onder f van het besluit](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md);  |
-| diergeneesmiddel  | :  | diergeneesmiddel als bedoeld in [artikel 1 van de Diergeneesmiddelenwet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), bestemd om te worden verwerkt in gemedicineerd halffabrikaat of gemedicineerd voeder;  |
-| attest  | :  | schriftelijke aanwijzing betreffende een gemedicineerd voeder, afgegeven door een dierenarts ten behoeve van één of meer dieren van een met name genoemde houder van dieren;  |
-| receptuur  | :  | procentuele samenstelling van gemedicineerd halffabrikaat of gemedicineerd voeder;  |
-| erkenningscertificaat  | :  | certificaat als bedoeld in [artikel 2 van het Besluit PDV erkenningsregeling GMP diervoedersector 2003](../../../../../../../pbo/verordening/pdv/certificatie/gmp/diervoedersector/2003/BWBR0014959/README.md).  |
-
-3.  Het bepaalde in deze verordening is niet van toepassing op diervoeders waarin uitsluitend diergeneesmiddelen, tevens toevoegingsmiddelen zijnde, al dan niet naast andere toevoegingsmiddelen worden verwerkt, indien die verwerking geschiedt met inachtneming van het gestelde in de [Verordening PDV diervoeders 2003](../../../../../../../pbo/verordening/pdv/diervoeders/2003/BWBR0014962/README.md).   
+| --- | --- | --- | --- |
+|---|---|---|---|
+| a.  | productschap  | :  | Productschap Diervoeder;  |
+| b.  | bestuur  | :  | bestuur van het productschap;  |
+| c.  | voorzitter  | :  | voorzitter van het productschap;  |
+| d.  | secretaris  | :  | secretaris van het productschap;  |
+| e.  | wet  | :  | Wet Dieren;  |
+| f.  | besluit  | :  | Besluit diergeneesmiddelen;  |
+| g.  | registratienummer  | :  | nummer waaronder diergeneesmiddelen in het diergeneesmiddelenregister definitief zijn geregistreerd;  |
+| h.  | gemedicineerd voeder  | :  | diervoeder met medicinale werking als bedoeld in artikel 1.1, eerste lid, van de wet;  |
+| i.  | gemedicineerd voormengsel  | :  | voormengsel voor diervoeder met medicinale werking als bedoeld in artikel 1.1, eerste lid, van de wet;  |
+| j.  | gemedicineerd halffabrikaat  | :  | mengsel van een gemedicineerd voormengsel en één of meer diervoedergrondstoffen, dat als zodanig is bestemd voor rechtstreekse verwerking tot gemedicineerd voeder;  |
+| k.  | diergeneesmiddel  | :  | diergeneesmiddel als bedoeld in artikel 1.1, eerste lid, van de wet, bestemd om te worden verwerkt in gemedicineerd halffabrikaat of gemedicineerd voeder;  |
+| l.  | attest  | :  | schriftelijke aanwijzing betreffende een gemedicineerd voeder, afgegeven door een dierenarts ten behoeve van één of meer dieren van een met name genoemde houder van dieren;  |
+| m.  | receptuur  | :  | procentuele samenstelling van gemedicineerd halffabrikaat of gemedicineerd voeder.  |
 
 ### §  2  
 
@@ -34,11 +36,9 @@ Besluit:
 
 ### Artikel  2  
 
-1. Een vergunning voor het bereiden, verpakken, etiketteren of in de handel brengen van gemedicineerde halffabrikaten of gemedicineerde voeders als bedoeld in [artikel 33 van de wet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), wordt door de ondernemer schriftelijk bij het productschap aangevraagd door middel van inzending van een formulier overeenkomstig het model in bijlage I bij de verordening.  
+1. Een vergunning voor het bereiden, verpakken, etiketteren of in de handel brengen van gemedicineerde halffabrikaten of gemedicineerde voeders als bedoeld in artikel 33 van de wet, wordt door de ondernemer schriftelijk bij het productschap aangevraagd door middel van inzending van een formulier overeenkomstig het model in bijlage I bij de verordening.  
 
-2. Een vergunning wordt slechts verleend indien ten genoegen van het productschap wordt aangetoond dat aan de voorwaarden van deze verordening wordt voldaan, welke voorwaarden tevens inhouden dat de voorschriften inzake goede bereidingspraktijken van toepassing zijn.  
-
-3. Indien de ondernemer een erkenningscertificaat heeft voor de GMP-standaard Handel en Productie Voormengsels onderscheidenlijk de GMP-standaard Handel en Productie Mengvoeders als bedoeld in het [Besluit PDV erkenningsregeling GMP diervoedersector 2003](../../../../../../../pbo/verordening/pdv/certificatie/gmp/diervoedersector/2003/BWBR0014959/README.md), wordt hij geacht te voldoen aan het bepaalde in deze verordening omtrent goede bereidingspraktijken, bedrijfsinrichting en vakbekwaamheid.    
+2. Een vergunning wordt slechts verleend indien ten genoegen van het productschap wordt aangetoond dat aan de voorwaarden van deze verordening wordt voldaan, welke voorwaarden tevens inhouden dat de voorschriften inzake goede bereidingspraktijken van toepassing zijn.    
 
 ### Artikel  3  
 
@@ -77,7 +77,7 @@ De vergunninghouder is verplicht bij de bereiding van gemedicineerde halffabrika
 1.  Diergeneesmiddelen mogen slechts in de vorm van een gemedicineerd halffabrikaat of een gemedicineerd voormengsel in gemedicineerde voeders worden verwerkt overeenkomstig de voorschriften zoals weergegeven op het etiket van het gemedicineerd halffabrikaat dan wel gemedicineerd voormengsel. Indien de etiketteringsvoorschriften ingevolge het registratiebesluit zijn gewijzigd, doch dit nog niet in de praktijk in de etiketten van de in de handel zijnde producten is verwerkt, is een bereider van gemedicineerd halffabrikaat dan wel gemedicineerd voeder gerechtigd de definitieve etiketteringsvoorschriften te volgen.   
 2.  Het gemedicineerde voormengsel dan wel gemedicineerde halffabrikaat wordt aan de hoofdstroom van het diervoeder of het grondstoffenmengsel toegevoegd, zo dicht mogelijk voor of in de menger, maar na de hamermolen. Van toevoeging na de hamermolen kan worden afgeweken onder voorwaarde dat ten genoegen van het productschap aantoonbaar wordt gemaakt dat op minimaal gelijke wijze de kwaliteitseisen met betrekking tot gemedicineerd voeder worden gewaarborgd.   
 3.  De dagelijkse dosis van diergeneesmiddelen wordt opgenomen in een hoeveelheid gemedicineerd voeder die ten minste de helft van het dagrantsoen van de behandelde dieren beslaat, en bij herkauwers ten minste de helft van de dagelijkse behoefte aan niet-mineraal aanvullend diervoeder.   
-4.  In afwijking van [artikel 2, tweede lid, van de wet](../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md), mogen voor de productie van gemedicineerde voeders bestemd voor uitvoer naar een andere Lidstaat, de aldaar toegelaten gemedicineerde voormengsels worden gebruikt. Elke voor uitvoer bestemde partij moet afzonderlijk en duidelijk identificeerbaar opgeslagen worden.   
+4.  In afwijking van artikel 2, tweede lid, van de wet, mogen voor de productie van gemedicineerde voeders bestemd voor uitvoer naar een andere Lidstaat, de aldaar toegelaten gemedicineerde voormengsels worden gebruikt. Elke voor uitvoer bestemde partij moet afzonderlijk en duidelijk identificeerbaar opgeslagen worden.   
 
 ### §  5  
 
@@ -153,7 +153,7 @@ g. het gehalte aan de in het gemedicineerde halffabrikaat door toevoeging van he
 
 ### Artikel  12  
 
-De vergunninghouder is verplicht, onverminderd [artikel 12 van het besluit](../../../../../../../AMvB/besluit/gemedicineerd/voeder/BWBR0006109/README.md), de volgende aanduidingen op of aan de buitenzijde van de verpakking aan te brengen, of ingeval het gemedicineerde voeder in los gestorte vorm in de handel wordt gebracht op een begeleidend document te vermelden; 
+De vergunninghouder is verplicht, onverminderd artikel 12 van het besluit, de volgende aanduidingen op of aan de buitenzijde van de verpakking aan te brengen, of ingeval het gemedicineerde voeder in los gestorte vorm in de handel wordt gebracht op een begeleidend document te vermelden; 
 
 a. de diercategorie waarvoor het gemedicineerde voeder is bestemd;  
 
@@ -184,7 +184,7 @@ c. het gehalte aan en de benaming van de werkzame stoffen van het gebruikte dier
 1.  Als met het transportmiddel, voorafgaand aan de belading met gemedicineerde halffabrikaten of gemedicineerde voeders, goederen zijn vervoerd die onverenigbaar zijn met het oog op de kwaliteit van het betreffende gemedicineerde halffabrikaten of het gemedicineerde voeder, dan dient het transportmiddel door de vergunninghouder gecontroleerd te worden en vervolgens zo nodig gereinigd. De ondernemer dient het betrokken personeel hieromtrent schriftelijk te instrueren.   
 2.  Gemedicineerd halffabrikaat dan wel gemedicineerd voeder dat wordt afgeleverd buiten Nederland dient te voldoen aan de wettelijke voorschriften van het land van bestemming.   
 3.  De secretaris kan voor afleveringen buiten Nederland op verzoek een certificaat, waarvan een model is opgenomen in bijlage III, afgeven, ter verklaring dat het gemedicineerde halffabrikaat of het gemedicineerde voeder is bereid overeenkomstig de bepalingen van deze verordening.   
-4.  De secretaris brengt, namens het bestuur, de kosten in verband met de afgifte van certificaten in rekening overeenkomstig de bepalingen van de [Verordening PDV retributies diervoeders](../../../../../../../pbo/verordening/pdv/retributies/diervoeders/jaar/2007/BWBR0022027/README.md).   
+4.  De secretaris brengt, namens het bestuur, de kosten in verband met de afgifte van certificaten in rekening overeenkomstig de bepalingen van de Verordening PDV retributies diervoeders.   
 
 ### §  9  
 
@@ -218,14 +218,15 @@ Overtredingen van het bepaalde in artikel 4 tot en met 15 worden aangewezen als 
 
 ### Artikel  20  
 
-Toezicht op de naleving van het bepaalde bij of krachtens deze verordening vindt plaats overeenkomstig een door het bestuur vast te stellen verordening.  
+1.   Toezicht op de naleving van het bepaalde bij of krachtens deze verordening wordt namens het productschap uitgeoefend door toezichthouders die hiervoor door het bestuur bij besluit zijn aangewezen.  
+2.  Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in het Verordeningenblad Bedrijfsorganisatie en treedt in werking met ingang van de dag na die van haar bekendmaking, tenzij het betreffende besluit anders bepaalt.   
 
 ### Artikel  21  
 
 1.  De Commissie Kwaliteitsbeleid Diervoedersector kan in voorkomend geval gevraagd of ongevraagd advies uitbrengen over het bepaalde bij of krachtens deze verordening.   
 2.  Het bepaalde in deze verordening geldt onverminderd het bepaalde in: 
 
-[Verordening PDV diervoeders 2003](../../../../../../../pbo/verordening/pdv/diervoeders/2003/BWBR0014962/README.md)   
+Verordening PDV diervoeders 2003   
 
 Verordening PDV hygiënische productie en handel huisdiervoeders 2003      
 
