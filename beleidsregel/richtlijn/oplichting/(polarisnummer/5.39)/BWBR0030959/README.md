@@ -4,7 +4,7 @@
 
 ####Beschrijving
 
-Deze richtlijn ziet op de meest voorkomende vormen van oplichting, zoals omschreven in art 326, lid 1 Wetboek van strafrecht, waarbij een of meerdere slachtoffers bewogen wordt/worden tot de afgifte van geld of goederen, danwel tot het verlenen van (een) dienst(en). Het gaat daarbij om oplichting van burgers of bedrijven, niet van de overheid (verticale fraude). Indien tevens valsheid in geschrift is gepleegd (zoals vaak bij verzekeringsfraude) dient het zwaardere misdrijf van artikel 225 ev. Wetboek van strafrecht als uitgangspunt te worden genomen en niet de oplichting. Indien een oplichting over een langere periode (stelselmatig) plaatsvindt, op professionele wijze is opgezet of meerdere slachtoffers treft, dient dit strafverzwarend te worden beoordeeld. Eveneens dient ingeval er bewust kwetsbare slachtoffers zijn uitgekozen een zwaardere sanctie gehanteerd te worden. Als uitgangspunt geldt in deze richtlijn dat de schade door de dader is vergoed of wordt vergoed (door middel van een schadevergoedingsmaatregel) en dat wederrechtelijk verkregen voordeel wordt ontnomen.   
+Deze richtlijn ziet op de meest voorkomende vormen van oplichting, zoals omschreven in [art 326, lid 1 Wetboek van strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), waarbij een of meerdere slachtoffers bewogen wordt/worden tot de afgifte van geld of goederen, danwel tot het verlenen van (een) dienst(en). Het gaat daarbij om oplichting van burgers of bedrijven, niet van de overheid (verticale fraude). Indien tevens valsheid in geschrift is gepleegd (zoals vaak bij verzekeringsfraude) dient het zwaardere misdrijf van [artikel 225 ev. Wetboek van strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) als uitgangspunt te worden genomen en niet de oplichting. Indien een oplichting over een langere periode (stelselmatig) plaatsvindt, op professionele wijze is opgezet of meerdere slachtoffers treft, dient dit strafverzwarend te worden beoordeeld. Eveneens dient ingeval er bewust kwetsbare slachtoffers zijn uitgekozen een zwaardere sanctie gehanteerd te worden. Als uitgangspunt geldt in deze richtlijn dat de schade door de dader is vergoed of wordt vergoed (door middel van een schadevergoedingsmaatregel) en dat wederrechtelijk verkregen voordeel wordt ontnomen.   
 
 ####Aard van de richtlijn
 
@@ -16,7 +16,7 @@ Commuun
 
 ####Wettekst
 
-–  Wetboek van strafrecht, art 326        
+– [Wetboek van strafrecht, art 326](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)       
 
 ####Basisdelict oplichting nr. 5.39.01
 
@@ -26,7 +26,7 @@ oplichting
 
 ####Toepasselijk kader
 
-Aanwijzing kader voor strafvordering     
+[Aanwijzing kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md)    
 
 ####Basispunten
 
@@ -60,7 +60,7 @@ Categorie economische waarde van de verleende dienst(en)/afgeven goed(eren) of b
 
 – het betreft een incidentele oplichting 0 pt  
 
-– er is sprake van stelselmatige oplichting 60 pt   Aantal slachtoffers Er is sprake van *Schijf 1*: 1 slachtoffer 0 punten *Schijf 2*: 2–10 slachtoffers 6 punten per slachtoffer *Schijf 3*: 11–25 slachtoffers 1,5 punten per slachtoffer Schijf 4: vanaf 26 slachtoffers 0,5 punten per slachtoffer Mate van professionaliteit 
+– er is sprake van stelselmatige oplichting 60 pt   Aantal slachtoffers Er is sprake van  *Schijf 1*: 1 slachtoffer 0 punten  *Schijf 2*: 2–10 slachtoffers 6 punten per slachtoffer  *Schijf 3*: 11–25 slachtoffers 1,5 punten per slachtoffer Schijf 4: vanaf 26 slachtoffers 0,5 punten per slachtoffer Mate van professionaliteit 
 
 – er is geen sprake van een professioneel opgezette oplichting 0 pt  
 
@@ -72,11 +72,11 @@ Medeplegen
 
 – er is geen sprake van medeplegen +0 %  
 
-– er is sprake van medeplegen +25 %   Kwetsbaar slachtoffer 
+– er is sprake van medeplegen +25 %   Kwetsbaar slachtoffer
 
 – er is geen sprake van (een) kwetsba(a)r(e) slachtoffer(s) 0 %  
 
-– er is sprake van (een) kwetsba(a)r(e) slachtoffer(s) + 25%      
+– er is sprake van (een) kwetsba(a)r(e) slachtoffer(s) + 25%     
 
 ####Wettelijke factoren
 
@@ -84,11 +84,11 @@ Medeplichtigheid
 
 – Dader +0 %  
 
-– Medeplichtige -33 %   Poging 
+– Medeplichtige -33 %   Poging
 
 – Voltooid delict +0 %  
 
-– Poging tot plegen -33 %      
+– Poging tot plegen -33 %     
 
 ####Recidiveregeling
 
@@ -108,14 +108,14 @@ Geen
 
 ####Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*  Taakstrafverbod als bedoeld in art 22b lid 2 WvSr  
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*Taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
 
 | --- | --- |
-|---|---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  |
-| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 % (CKT)  |
+|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  |+0 % |
+| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr | +0 % (CKT) |
 
-*(CKT) + contra-indicatie kale taakstraf*     
+* (CKT) + contra-indicatie kale taakstraf*    
 
 ####Speciale regelingen
 

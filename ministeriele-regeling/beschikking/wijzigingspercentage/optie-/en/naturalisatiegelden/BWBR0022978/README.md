@@ -9,20 +9,23 @@ Gelet op [artikel 9, eerste lid, van het Besluit optie- en naturalisatiegelden 2
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2010 
 
-Het percentage, bedoeld in [artikel 9, eerste lid, van het Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) wordt vastgesteld op 2,2.  
+Het percentage, bedoeld in [artikel 9, eerste lid, van het Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) wordt vastgesteld op 2,2. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2010 
 
-Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant, de Curaçaose Courant en de Landscourant van Aruba.  
+Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant, de Curaçaose Courant en de Landscourant van Aruba. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-01-2010 
 
-Deze beschikking treedt in werking op 1 januari 2008. Zij wordt aangehaald als: Beschikking wijzigingspercentage optie- en naturalisatiegelden.  
+Deze beschikking treedt in werking op 1 januari 2008. Zij wordt aangehaald als: Beschikking wijzigingspercentage optie- en naturalisatiegelden. 
 
 Den Haag 
 29 november 2007   
 
 De 
 Minister voornoemd, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

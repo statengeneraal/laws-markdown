@@ -21,10 +21,10 @@ Gebruikte afkortingen:
 
 – hts: hechtenis  
 
-– ov: onvoorwaardelijk(e veroordeling)   
+– ov: onvoorwaardelijk(e veroordeling)  
 ###Factoren
 
-Geen 
+Geen
 ###Zie basisdelicten
 
-– joyriding       
+– joyriding      

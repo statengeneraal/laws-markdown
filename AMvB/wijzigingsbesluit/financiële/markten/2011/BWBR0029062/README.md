@@ -14,40 +14,49 @@ Gezien het nader rapport van Onze Minister van Financiën van 15 november 2010,
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit bestuurlijke boetes financiële sector.   
+Wijzigt het Besluit bestuurlijke boetes financiële sector. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit gedragstoezicht financiële ondernemingen Wft.   
+Wijzigt het Besluit gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit markttoegang financiële ondernemingen Wft.   
+Wijzigt het Besluit markttoegang financiële ondernemingen Wft. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit openbare biedingen Wft.   
+Wijzigt het Besluit openbare biedingen Wft. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.   
+Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling.   
+Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 01-01-2013 
 
-Dit besluit treedt in werking met ingang van 1 januari 2011, met uitzondering van artikel I, onderdeel B, van dit besluit, dat in werking treedt met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt.  
+Dit besluit treedt in werking met ingang van 1 januari 2011, met uitzondering van artikel I, onderdeel B, van dit besluit, dat in werking treedt met ingang van het tijdstip waarop het bij koninklijke boodschap van 25 augustus 2009 ingediende voorstel van wet tot wijziging van de Wet op het financieel toezicht en enige andere wetten (Wijzigingswet financiële markten 2010) (Kamerstukken 32 036), indien het tot wet wordt verheven, in werking treedt. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 01-01-2013 
 
-Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2011.  
+Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2011. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -55,10 +64,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 23 november 2010  
 Beatrix  
 
-De Minister van Financiën, 
+De Minister van Financiën,  
 J. C. de Jager   
 
 de *tiende* december 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

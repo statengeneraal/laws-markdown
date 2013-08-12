@@ -23,7 +23,7 @@ Verkeer
 − Besturen fiets of gehandicaptenvoertuig zonder motor onder invloed van een stof (niet zijnde alcohol), zoals bedoeld in [art. 8, lid 1WVW94](../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), waarvan hij weet of redelijkerwijs moet weten, dat het gebruik daarvan – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat hij niet tot behoorlijk besturen in staat moet worden geacht.   
 ### *Wettekst* 
 
-–  [Wegenverkeerswet 1994 art. 8](../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)    Toelichting: de volgende nieuwe basisdelicten zijn aan de richtlijn toegevoegd. 
+– [Wegenverkeerswet 1994 art. 8](../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)   Toelichting: de volgende nieuwe basisdelicten zijn aan de richtlijn toegevoegd. 
 ### *Basisdelict besturen motorvoertuig op twee of meer wielen onder invloed van alcohol, zoals bedoeld in art. 8, lid 1 WVW94, al dan niet in kennelijke staat van dronkenschap of daarmee gelijk te stellen toestand 5.21.01* 
 
 ### *Beschrijving* 

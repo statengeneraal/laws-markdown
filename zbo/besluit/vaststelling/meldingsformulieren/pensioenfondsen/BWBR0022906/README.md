@@ -16,40 +16,40 @@ a. voor bedrijfstakpensioenfondsen: volgens het model van bijlage A van dit besl
 
 b. voor beroepspensioenfondsen: volgens het model van bijlage B van dit besluit;  
 
-c. voor ondernemingspensioenfondsen en niet-verplichtgestelde bedrijfstakpensioenfondsen: volgens het model van bijlage C van dit besluit.    
+c. voor ondernemingspensioenfondsen en niet-verplichtgestelde bedrijfstakpensioenfondsen: volgens het model van bijlage C van dit besluit.   
 
 ### Artikel  2  
 
 1.  De melding van de oprichting van een pensioenfonds, bedoeld in [artikel 102, eerste lid, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) respectievelijk [artikel 107, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) wordt gedaan door middel van het volledig en naar waarheid invullen van de onderdelen 1 tot en met 4 en onderdeel 6 van het voor het betreffende pensioenfonds toepasselijke formulier, bedoeld in artikel 1.   
-2.  De kennisgeving van het voornemen om bijdragen te ontvangen van een bijdragende onderneming die zetel heeft in een andere lidstaat dan Nederland bedoeld in [artikel 125, onderdeel b, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) respectievelijk [artikel 25, onderdeel b, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) wordt gedaan door middel van het volledig en naar waarheid invullen van de onderdelen 1 tot en met 3 en onderdelen 5 en 6 van het voor het betreffende pensioenfonds toepasselijke formulier, bedoeld in artikel 1.   
+2.  De kennisgeving van het voornemen om bijdragen te ontvangen van een bijdragende onderneming die zetel heeft in een andere lidstaat dan Nederland bedoeld in [artikel 125, onderdeel b, van de Pensioenwet](../../../../../../wet/pensioenwet/BWBR0020809/README.md) respectievelijk [artikel 25, onderdeel b, van de Wet verplichte beroepspensioenregeling](../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) wordt gedaan door middel van het volledig en naar waarheid invullen van de onderdelen 1 tot en met 3 en onderdelen 5 en 6 van het voor het betreffende pensioenfonds toepasselijke formulier, bedoeld in artikel 1.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit vaststelling meldingsformulieren pensioenfondsen.  
+Dit besluit wordt aangehaald als: Besluit vaststelling meldingsformulieren pensioenfondsen. 
 Dit besluit zal met zijn bijlagen en toelichting in de Staatscourant worden geplaatst.  
 
 De Nederlandsche Bank NV, Directeur, 
-A.J.Kellermann  
+A.J. Kellermann    
 
-### Bijlage  A  
+### Bijlage A  
 
 ###Aanmeldingsformulier verplichtgestelde bedrijfstakpensioenfondsen
 
 ![242830](http://wetten.overheid.nl/Illustration/242830)
 ![242831](http://wetten.overheid.nl/Illustration/242831)
 
-### Bijlage  B  
+### Bijlage B  
 
 ###Aanmeldingsformulier verplichtgestelde beroepspensioenfondsen
 
 ![242832](http://wetten.overheid.nl/Illustration/242832)
 ![242833](http://wetten.overheid.nl/Illustration/242833)
 
-### Bijlage  C  
+### Bijlage C  
 
 ###Aanmeldingsformulier ondernemingspensioenfondsen en niet-verplichtgestelde bedrijfstakpensioenfondsen
 

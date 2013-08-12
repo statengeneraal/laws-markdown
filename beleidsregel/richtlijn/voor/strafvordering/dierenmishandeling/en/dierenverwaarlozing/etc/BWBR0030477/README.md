@@ -18,9 +18,9 @@ Bijzondere wetten
 
 ####Wettekst
 
-−  [Gezondheids- en Welzijnswet voor dieren, art 36, lid 1](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)   
+− [Gezondheids- en Welzijnswet voor dieren, art 36, lid 1](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)  
 
-−  [Gezondheids- en Welzijnswet voor dieren, art 37](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)       
+− [Gezondheids- en Welzijnswet voor dieren, art 37](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)      
 
 ####Basisdelict dierenmishandeling ([36, lid 1 GWD](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md)) 5.38.01
 
@@ -48,9 +48,9 @@ Aantal dieren Per extra dier 5 pt Letsel/dood bij dieren
 
 − er is sprake van herstelbaar letsel 5 pt  
 
-− er is sprake van onherstelbaar letsel (verminking) 10 pt *(TS)*  
+− er is sprake van onherstelbaar letsel (verminking) 10 pt *(TS)*   
 
-− het dier is aan de verwondingen bezweken of moest worden geëuthanaseerd 15 pt *(DV, TS)*    *(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*     
+− het dier is aan de verwondingen bezweken of moest worden geëuthanaseerd 15 pt *(DV, TS)*     *(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*     
 
 ####Delictspecifieke factoren
 
@@ -74,7 +74,7 @@ Mate van recidive (5 jaar)
 
 − Geen recidive +0 %  
 
-− 1 maal binnen 2 jaar +50 % *(NH)*  
+− 1 maal binnen 2 jaar +50 % *(NH)*   
 
 − 1 maal binnen 2-5 jaar +50 %  
 
@@ -90,13 +90,13 @@ Reclasseringsrapportage
 
 – er zijn geen redenen om reclasseringsrapportage aan te vragen + 0%  
 
-– er is grote maatschappelijke verontwaardiging veroorzaakt + 0% *(RR, DV)*  
+– er is grote maatschappelijke verontwaardiging veroorzaakt + 0% *(RR, DV)*   
 
-– er is sprake van een sadistische inslag + 0% *(RR, DV)*  
+– er is sprake van een sadistische inslag + 0% *(RR, DV)*   
 
-– er was (tevens) sprake van langdurig(e) verwaarlozing of lijden + 0% *(RR, DV)*  
+– er was (tevens) sprake van langdurig(e) verwaarlozing of lijden + 0% *(RR, DV)*   
 
-– het betreft meerdere dieren en/of een langere periode + 0% *(RR, DV)*    *(RR) + reclasseringsrapportage aanvragen*   *(DV) + dagvaarden*     
+– het betreft meerdere dieren en/of een langere periode + 0% *(RR, DV)*     *(RR) + reclasseringsrapportage aanvragen*   *(DV) + dagvaarden*     
 
 ####Speciale regelingen
 
@@ -132,9 +132,9 @@ Aantal dieren Per extra dier 5 pt Letsel/dood bij dieren
 
 – er is sprake van herstelbaar letsel 5 pt  
 
-– er is sprake van onherstelbaar letsel (verminking) 10 pt *(TS)*  
+– er is sprake van onherstelbaar letsel (verminking) 10 pt *(TS)*   
 
-– het dier is aan de verwondingen bezweken of moest worden geëuthanaseerd 15 pt *(DV, TS)*    *(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*     
+– het dier is aan de verwondingen bezweken of moest worden geëuthanaseerd 15 pt *(DV, TS)*     *(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*     
 
 ####Delictspecifieke factoren
 
@@ -158,11 +158,11 @@ Mate van recidive (5 jaar)
 
 – Geen recidive +0 %  
 
-– 1 maal binnen 2 jaar +50 % *(NH)*  
+– 1 maal binnen 2 jaar +50 % *(NH)*   
 
 – 1 maal binnen 2-5 jaar +50 %  
 
-– Meermalen +100 % *(DV, NH)*    *(DV) + dagvaarden*   *(NH) + naast hogere categorie*     
+– Meermalen +100 % *(DV, NH)*     *(DV) + dagvaarden*   *(NH) + naast hogere categorie*     
 
 ####Draagkracht
 
@@ -174,13 +174,13 @@ Reclasseringsrapportage
 
 − er zijn geen redenen om reclasseringsrapportage aan te vragen + 0%  
 
-− er is grote maatschappelijke verontwaardiging veroorzaakt + 0% *(RR, DV)*  
+− er is grote maatschappelijke verontwaardiging veroorzaakt + 0% *(RR, DV)*   
 
-− er is sprake van een sadistische inslag + 0% *(RR, DV)*  
+− er is sprake van een sadistische inslag + 0% *(RR, DV)*   
 
-− er was (tevens) sprake van langdurig(e) verwaarlozing of lijden + 0% *(RR, DV)*  
+− er was (tevens) sprake van langdurig(e) verwaarlozing of lijden + 0% *(RR, DV)*   
 
-− het betreft meerdere dieren en/of een langere periode + 0% *(RR, DV)*    *(RR) + reclasseringsrapportage aanvragen*   *(DV) + dagvaarden*     
+− het betreft meerdere dieren en/of een langere periode + 0% *(RR, DV)*     *(RR) + reclasseringsrapportage aanvragen*   *(DV) + dagvaarden*     
 
 ####Speciale regelingen
 
@@ -208,9 +208,9 @@ Basisfactor
 
 – er is sprake van herstelbaar letsel 5 pt  
 
-– er is sprake van onherstelbaar letsel (verminking) 10 pt *(TS)*  
+– er is sprake van onherstelbaar letsel (verminking) 10 pt *(TS)*   
 
-– het dier is aan de verwondingen bezweken of moest worden geëuthanaseerd 15 pt *(DV, TS)*    *(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*   *Uitgangspunt indien onbekend*  Geen letsel    
+– het dier is aan de verwondingen bezweken of moest worden geëuthanaseerd 15 pt *(DV, TS)*     *(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*   *Uitgangspunt indien onbekend*  Geen letsel    
 
 ####Bijzonderheden
 
@@ -264,13 +264,13 @@ Maatwerk
 
 – er zijn geen redenen om reclasseringsrapportage aan te vragen + 0%  
 
-– er is grote maatschappelijke verontwaardiging veroorzaakt + 0% *(RR, DV)*  
+– er is grote maatschappelijke verontwaardiging veroorzaakt + 0% *(RR, DV)*   
 
-– er is sprake van een sadistische inslag + 0% *(RR, DV)*  
+– er is sprake van een sadistische inslag + 0% *(RR, DV)*   
 
-– er was (tevens) sprake van langdurig(e) verwaarlozing of lijden + 0% *(RR, DV)*  
+– er was (tevens) sprake van langdurig(e) verwaarlozing of lijden + 0% *(RR, DV)*   
 
-– het betreft meerdere dieren en/of een langere periode + 0% *(RR, DV)*    *(RR) + reclasseringsrapportage aanvragen*   *(DV) + dagvaarden*   *Uitgangspunt indien onbekend*  Er zijn geen redenen om reclasseringsrapportage aan te vragen    
+– het betreft meerdere dieren en/of een langere periode + 0% *(RR, DV)*     *(RR) + reclasseringsrapportage aanvragen*   *(DV) + dagvaarden*   *Uitgangspunt indien onbekend*  Er zijn geen redenen om reclasseringsrapportage aan te vragen   
 
 ####Bijzonderheden
 

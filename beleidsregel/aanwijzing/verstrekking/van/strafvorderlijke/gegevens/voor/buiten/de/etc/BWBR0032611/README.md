@@ -13,11 +13,11 @@ Deze aanwijzing heeft ten doel het kader aan te geven voor verstrekking van stra
 
 ####Achtergrond
 
-De [Wet justitiële en strafvorderlijke gegevens](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) (hierna: Wjsg) is een wettelijke regeling die waarborgen omvat voor een zorgvuldige omgang met strafvorderlijke gegevens door het Openbaar Ministerie. Strafvorderlijke gegevens worden in de Wjsg gedefinieerd als ‘gegevens over een natuurlijk persoon of een rechtspersoon die zijn verkregen in het kader van een strafvorderlijk onderzoek en die het Openbaar Ministerie in een strafdossier of langs geautomatiseerde weg verwerkt’. Het verwerken van gegevens is elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens. Daarbij valt onder meer te denken aan verzamelen, ordenen, bewaren, wijzigen, raadplegen, verstrekken, samenbrengen en vernietigen van gegevens. Uit de definitiebepaling van het begrip strafvorderlijke gegevens volgt dat het Openbaar Ministerie voor de toepasselijkheid van de Wjsg de gegevens in een strafdossier of langs geautomatiseerde weg moet verwerken. Dit betekent dat als de gegevens niet in een strafdossier of in een registratiesysteem van het Openbaar Ministerie zijn opgenomen, de Wjsg en de aanwijzing Wjsg niet van toepassing zijn. Als de gegevens bijvoorbeeld nog behoren tot de politieregisters, is de [Wet politiegegevens](../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) van toepassing (zie hoofdstuk IX §2). Anders dan het geval was bij de aanwijzing [Wet bescherming persoonsgegevens](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) (Wbp), ziet de aanwijzing Wjsg op alle geautomatiseerde systemen (dus niet alleen COMPAS/GPS en de hoger-beroepsystemen, maar ook systemen als DECOS, GPS en Tijdelijke Registers COMPAS (zie hoofdstuk IX § 7). De aanwijzing is gebaseerd op [titel 2A van de Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), meer in het bijzonder op de [artt. 39b](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39f](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39g](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39i Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md). Aanleiding voor het opstellen van deze aanwijzing is de inwerkingtreding van titel 2A van de Wjsg op 1 september 2004. De [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) vervangt de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor het Openbaar Ministerie bij de verwerking van strafvorderlijke gegevens. De aanwijzing vormt deels de vervanging van de aanwijzing Wbp, maar is ook aangevuld met andere onderwerpen zoals de rechten van betrokkenen (betrokkene: degene op wie een strafvorderlijk gegeven betrekking heeft, vgl. [art. 1 aanhef en sub f Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)) op kennisname van op hen betrekking hebbende strafvorderlijke gegevens.   
+De [Wet justitiële en strafvorderlijke gegevens](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) (hierna: Wjsg) is een wettelijke regeling die waarborgen omvat voor een zorgvuldige omgang met strafvorderlijke gegevens door het Openbaar Ministerie. Strafvorderlijke gegevens worden in de Wjsg gedefinieerd als ‘gegevens over een natuurlijk persoon of een rechtspersoon die zijn verkregen in het kader van een strafvorderlijk onderzoek en die het Openbaar Ministerie in een strafdossier of langs geautomatiseerde weg verwerkt’. Het verwerken van gegevens is elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens. Daarbij valt onder meer te denken aan verzamelen, ordenen, bewaren, wijzigen, raadplegen, verstrekken, samenbrengen en vernietigen van gegevens. Uit de definitiebepaling van het begrip strafvorderlijke gegevens volgt dat het Openbaar Ministerie voor de toepasselijkheid van de Wjsg de gegevens in een strafdossier of langs geautomatiseerde weg moet verwerken. Dit betekent dat als de gegevens niet in een strafdossier of in een registratiesysteem van het Openbaar Ministerie zijn opgenomen, de Wjsg en de aanwijzing Wjsg niet van toepassing zijn. Als de gegevens bijvoorbeeld nog behoren tot de politieregisters, is de [Wet politiegegevens](../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) van toepassing (zie hoofdstuk IX §2). Anders dan het geval was bij de aanwijzing [Wet bescherming persoonsgegevens](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) (Wbp), ziet de aanwijzing Wjsg op alle geautomatiseerde systemen (dus niet alleen COMPAS/GPS en de hoger-beroepsystemen, maar ook systemen als DECOS, GPS en Tijdelijke Registers COMPAS (zie hoofdstuk IX § 7). De aanwijzing is gebaseerd op [titel 2A van de Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), meer in het bijzonder op de [artt. 39b](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39f](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) , [39g](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39i Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md). Aanleiding voor het opstellen van deze aanwijzing is de inwerkingtreding van titel 2A van de Wjsg op 1 september 2004. De [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) vervangt de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor het Openbaar Ministerie bij de verwerking van strafvorderlijke gegevens. De aanwijzing vormt deels de vervanging van de aanwijzing Wbp, maar is ook aangevuld met andere onderwerpen zoals de rechten van betrokkenen (betrokkene: degene op wie een strafvorderlijk gegeven betrekking heeft, vgl. [art. 1 aanhef en sub f Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)) op kennisname van op hen betrekking hebbende strafvorderlijke gegevens.    
 
 ####Belangrijkste paragrafen
 
-De belangrijkste onderdelen van deze aanwijzing zijn de 3 <sup>e</sup> en 4 <sup>e</sup> paragraaf van het derde hoofdstuk IV (de beoordelingsstructuur voor verstrekking aan derden en de categorieën ontvangers). Die paragrafen geven aan hoe een verstrekkingsvraag moet worden beoordeeld en aan wie strafvorderlijke informatie kan worden verstrekt.     
+De belangrijkste onderdelen van deze aanwijzing zijn de 3<sup>e</sup> en 4<sup>e</sup> paragraaf van het derde hoofdstuk IV (de beoordelingsstructuur voor verstrekking aan derden en de categorieën ontvangers). Die paragrafen geven aan hoe een verstrekkingsvraag moet worden beoordeeld en aan wie strafvorderlijke informatie kan worden verstrekt.      
 ### III  
 
 ####Bevoegdheidsverdeling
@@ -28,7 +28,7 @@ Het College van procureurs-generaal is de verantwoordelijke voor de verwerking v
 
 ####Het hoofd van het dienstonderdeel
 
-De hoofden van de parketten (hoofdofficieren van justitie en hoofdadvocaten-generaal) voeren het beheer over hun gegevensverwerking ([art. 39a lid 2 Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md)). Hetzelfde geldt voor de hoofden van de andere dienstonderdelen van het Openbaar Ministerie (BVOM, CVOM, BOOM). Het College machtigt hen tot en mandateert aan hen het beheer over hun gegevensverwerking. Zij beslissen namens het College over verstrekking in de zogenaamde standaardgevallen (zie hoofdstuk IV § 6) en verzoeken op basis van [art. 39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39i](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39m Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md). Wanneer door bijzondere omstandigheden een in beginsel standaardverstrekking gevoelig, of op een andere manier niet-standaard wordt, dient zo’n geval aan de helpdesk privacy van afdeling bestuurlijke en juridische Zaken (BJZ) van het Parket-Generaal (hierna helpdesk privacy PaG) te worden voorgelegd, omdat het niet valt onder het mandaat van het College van procureurs-generaal aan de hoofden van de dienstonderdelen. De instemming van de helpdesk-privacy geldt in die gevallen als een specifiek mandaat van het College om aldus in het betreffende geval te beslissen. De hoofden van de dienstonderdelen kunnen de beslissingsbevoegdheid ten aanzien van bovengenoemde standaardverstrekkingen en verzoeken op basis van [39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39i](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39m Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) doormandateren aan medewerkers van hun dienstonderdeel. De hoofden van de dienstonderdelen dragen zorg voor de aanstelling van een (specialistisch) privacymedewerker op hun dienstonderdeel. Ook wordt in vervanging van de privacymedewerker voorzien. De officieren van justitie, advocaten-generaal of andere medewerkers van het dienstonderdeel Zij die de bevoegdheid van het College doorgemandateerd hebben gekregen van het hoofd van een dienstonderdeel, beslissen namens het College over verstrekking in de zogenaamde standaardgevallen (zie hoofdstuk IV § 6) en verzoeken op basis van [art. 39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39i](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39m Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).     
+De hoofden van de parketten (hoofdofficieren van justitie en hoofdadvocaten-generaal) voeren het beheer over hun gegevensverwerking ([art. 39a lid 2 Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md)). Hetzelfde geldt voor de hoofden van de andere dienstonderdelen van het Openbaar Ministerie (BVOM, CVOM, BOOM). Het College machtigt hen tot en mandateert aan hen het beheer over hun gegevensverwerking. Zij beslissen namens het College over verstrekking in de zogenaamde standaardgevallen (zie hoofdstuk IV § 6) en verzoeken op basis van [art. 39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39i](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39m Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md). Wanneer door bijzondere omstandigheden een in beginsel standaardverstrekking gevoelig, of op een andere manier niet-standaard wordt, dient zo’n geval aan de helpdesk privacy van afdeling bestuurlijke en juridische Zaken (BJZ) van het Parket-Generaal (hierna helpdesk privacy PaG) te worden voorgelegd, omdat het niet valt onder het mandaat van het College van procureurs-generaal aan de hoofden van de dienstonderdelen. De instemming van de helpdesk-privacy geldt in die gevallen als een specifiek mandaat van het College om aldus in het betreffende geval te beslissen. De hoofden van de dienstonderdelen kunnen de beslissingsbevoegdheid ten aanzien van bovengenoemde standaardverstrekkingen en verzoeken op basis van [39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39i](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39m Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) doormandateren aan medewerkers van hun dienstonderdeel. De hoofden van de dienstonderdelen dragen zorg voor de aanstelling van een (specialistisch) privacymedewerker op hun dienstonderdeel. Ook wordt in vervanging van de privacymedewerker voorzien. De officieren van justitie, advocaten-generaal of andere medewerkers van het dienstonderdeel Zij die de bevoegdheid van het College doorgemandateerd hebben gekregen van het hoofd van een dienstonderdeel, beslissen namens het College over verstrekking in de zogenaamde standaardgevallen (zie hoofdstuk IV § 6) en verzoeken op basis van [art. 39e](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [39i](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [39m Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) .      
 ### IV  
 
 ####Verstrekking van informatie aan derden voor buiten de strafrechtspleging gelegen doeleinden
@@ -87,11 +87,11 @@ Een journalist maakt, gezien zijn functie, informatie waarover hij beschikt veel
 
 ####Beoordelingsstructuur
 
-Om de vraag te kunnen beantwoorden of strafvorderlijke gegevens kunnen worden verstrekt aan derden voor buiten de strafrechtspleging gelegen doelen, dient het onderstaande schema te worden doorlopen. Hieronder volgt de beoordelingsstructuur eerst schematisch. Daaronder wordt een toelichting op de verschillende stappen gegeven.   ![251517](http://wetten.overheid.nl/Illustration/251517)
+Om de vraag te kunnen beantwoorden of strafvorderlijke gegevens kunnen worden verstrekt aan derden voor buiten de strafrechtspleging gelegen doelen, dient het onderstaande schema te worden doorlopen. Hieronder volgt de beoordelingsstructuur eerst schematisch. Daaronder wordt een toelichting op de verschillende stappen gegeven.  ![251517](http://wetten.overheid.nl/Illustration/251517)
 
 ### * *Toelichting op het schema* * 
 
-Ad 1) Om te kunnen beoordelen of de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) van toepassing is op de voorgenomen verstrekking, moeten de te verstrekken gegevens voldoen aan de definitie van strafvorderlijke gegevens (zie ook hoofdstuk I). Is dat niet het geval, dan zal op basis van de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) moeten worden bezien of er sprake is van persoonsgegevens. Zo ja, dan is de Wbp van toepassing mits aan de in die wet uiteengezette voorwaarden is voldaan. Is dat niet het geval, dan zal op basis van [art. 13 Wet op de Rechterlijke Organisatie](../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) (Wet RO) moeten worden beoordeeld of de geheimhoudingsverplichting van de leden van het Openbaar Ministerie kan worden doorbroken.  
+Ad 1)  Om te kunnen beoordelen of de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) van toepassing is op de voorgenomen verstrekking, moeten de te verstrekken gegevens voldoen aan de definitie van strafvorderlijke gegevens (zie ook hoofdstuk I). Is dat niet het geval, dan zal op basis van de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) moeten worden bezien of er sprake is van persoonsgegevens. Zo ja, dan is de Wbp van toepassing mits aan de in die wet uiteengezette voorwaarden is voldaan. Is dat niet het geval, dan zal op basis van [art. 13 Wet op de Rechterlijke Organisatie](../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) (Wet RO) moeten worden beoordeeld of de geheimhoudingsverplichting van de leden van het Openbaar Ministerie kan worden doorbroken.  
 
 Ad 2) Indien een wettelijke verplichting bestaat om informatie te verstrekken, vindt verder geen beoordeling op basis van de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) plaats. Van de verzoeker kan in beginsel worden verlangd de wettelijke verplichting op basis waarvan het Openbaar Ministerie zou moeten verstrekken, aan te geven. De wijze waarop aan de verplichting invulling wordt gegeven (welke gegevens, termijnen enz.) dient te worden beoordeeld aan de hand van de wet die de verplichting schept. Zie over dit onderwerp tevens hoofdstuk VIII.  
 
@@ -109,21 +109,21 @@ Ad 8) Zie 4)
 
 Ad 9) De vraag of sprake is van een ‘standaardverstrekking’ is van belang om te weten of een voorgenomen verstrekking al dan niet aan de privacy-helpdesk PaG (zie hoofdstuk III en hoofdstuk IV § 6) moet worden voorgelegd. In hoofdstuk IV § 7 is uiteen gezet welke verstrekkingen aan welke ontvangers standaard zijn.  
 
-Ad 10) Een contra-indicatie maakt een verstrekking altijd niet standaard (zie hoofdstuk IV § 2).      
+Ad 10) Een contra-indicatie maakt een verstrekking altijd niet standaard (zie hoofdstuk IV § 2).       
 ### 4  
 
 ####De ontvangers
 
 Op basis van [art. 39f lid 1 Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) kunnen voor de aldaar genoemde doelen in ieder geval aan de volgende personen en instanties strafvorderlijke gegevens worden verstrekt. Categorieën gemarkeerd met een <S>, zijn standaardverstrekkingen, zie hoofdstuk IV § 6. 
 
-a) 
+a)
 ###het voorkomen en opsporen van strafbare feiten
 
 *Ten behoeve van het voorkomen en opsporen van strafbare feiten kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*  
 
 <S> 
 
-I KNVB en buitenlandse voetbalorganisaties;  
+I  KNVB en buitenlandse voetbalorganisaties;  
 
 II Hulpverleningsinstanties op het terrein van de criminaliteitspreventie;     
 
@@ -131,7 +131,7 @@ II Hulpverleningsinstanties op het terrein van de criminaliteitspreventie;
 
 III Ambtenaren als bedoeld in de [artikelen 141](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [142 Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
-IV Burgemeesters, Commissarissen der Koningin, en de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en Justitie;  
+IV  Burgemeesters, Commissarissen der Koningin, en de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en Justitie;  
 
 V Overheidsinstellingen (anders dan genoemd onder IV) en de particuliere werkgever als het gaat om bepaalde 'gevoelige' bedrijven/ instellingen (zoals bijvoorbeeld op het gebied van vervoer en transport, telecommunicatie en internet, beveiliging, financiën, onderzoek, onderwijs, kinderactiviteiten, energie, voedselvoorziening, kunst en oudheden);     
 
@@ -141,22 +141,22 @@ VI Dienst voor het Wegverkeer;
 
 VII (Openbaar-)vervoersbedrijven;  
 
-VIII Beroepsorganisaties (ten behoeve van het handhaven van een veroordeling tot ontzetting uit het bekleden van ambten of bepaalde ambten of het uitoefenen van bepaalde beroepen en van een veroordeling tot een voorwaardelijke straf met als bijzondere voorwaarde dat de veroordeelde geen beroep uitoefent waarin hij werkt met een bepaalde doelgroep of dat de veroordeelde zich onthoudt van het verrichten van bepaalde (beroeps)werkzaamheden).      
+VIII Beroepsorganisaties (ten behoeve van het handhaven van een veroordeling tot ontzetting uit het bekleden van ambten of bepaalde ambten of het uitoefenen van bepaalde beroepen en van een veroordeling tot een voorwaardelijke straf met als bijzondere voorwaarde dat de veroordeelde geen beroep uitoefent waarin hij werkt met een bepaalde doelgroep of dat de veroordeelde zich onthoudt van het verrichten van bepaalde (beroeps)werkzaamheden).    
 
-b) 
+b)
 ###het handhaven van de orde en veiligheid
 
 *Ten behoeve van het handhaven van de orde en veiligheid kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*  
 
 <S> 
 
-I KNVB en buitenlandse voetbalorganisaties;     
+I  KNVB en buitenlandse voetbalorganisaties;     
 
 <S> 
 
-II Burgemeesters, Commissarissen der Koningin, en de Ministers van Binnenlandse Zaken en  
+II  Burgemeesters, Commissarissen der Koningin, en de Ministers van Binnenlandse Zaken en  
 
-III Overheidsinstellingen (anders dan genoemd onder II) en de particuliere werkgever als het gaat om bepaalde 'gevoelige' bedrijven/ instellingen (zoals bijvoorbeeld op het gebied van vervoer en transport, telecommunicatie en internet, beveiliging, financiën, onderzoek, onderwijs, kinderactiviteiten, energie, voedselvoorziening, kunst en oudheden);     
+III  Overheidsinstellingen (anders dan genoemd onder II) en de particuliere werkgever als het gaat om bepaalde 'gevoelige' bedrijven/ instellingen (zoals bijvoorbeeld op het gebied van vervoer en transport, telecommunicatie en internet, beveiliging, financiën, onderzoek, onderwijs, kinderactiviteiten, energie, voedselvoorziening, kunst en oudheden);     
 
 <S> 
 
@@ -166,9 +166,9 @@ V Verhuurders van roerende of onroerende zaken geschikt voor bewoning of de uito
 
 VI Nutsbedrijven;  
 
-VII (Openbaar-)vervoersbedrijven.      
+VII (Openbaar-)vervoersbedrijven.    
 
-c) 
+c)
 ###het uitoefenen van toezicht op het naleven van regelgeving
 
 *Ten behoeve van het uitoefenen van toezicht op het naleven van regelgeving kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*  
@@ -179,24 +179,24 @@ I Bestuursorganen (waaronder de Belastingdienst, bedrijfsverenigingen, uitkering
 
 <S> 
 
-II OLAF (Office Européen De Lutte Anti-Fraude / Europees Bureau voor fraudebestrijding);  
+II  OLAF (Office Européen De Lutte Anti-Fraude / Europees Bureau voor fraudebestrijding);  
 
 III Curatoren (ten behoeve van een correcte afwikkeling van een faillissement in geval van faillissementsfraude);  
 
 IV Bewindvoerders voorzover het strafbare feiten betreft waarvan de inhoud raakt aan de wettelijke verplichtingen van de onder bewind gestelde c.q. van de bewindvoerder;  
 
-V Toezichthouders als bedoeld in [artikel 5:11 Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb).      
+V Toezichthouders als bedoeld in [artikel 5:11 Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb).    
 
-d) 
+d)
 ###het nemen van een bestuursrechtelijke beslissing
 
 *Ten behoeve van het nemen van een bestuursrechtelijke beslissing kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*  
 
 <S> 
 
-I Alle (lokale) overheidsinstanties (voor zover geen bijzondere wettelijke bepaling van kracht is)      
+I Alle (lokale) overheidsinstanties (voor zover geen bijzondere wettelijke bepaling van kracht is)    
 
-e) 
+e)
 ###het beoordelen van de noodzaak tot het treffen van een rechtspositionele of tuchtrechtelijke maatregel
 
 *Ten behoeve van de beoordeling van de vraag of een rechtspositionele dan wel tuchtrechtelijke maatregel moet worden getroffen tegen een werknemer, vrijwilliger of een lid van een beroepsgroep, die wordt verdacht van of is veroordeeld wegens een strafbaar feit waarvan duidelijk is dat twijfels kunnen doen rijzen over zijn behoorlijk (beroepsmatig) functioneren, dan wel ten aanzien van wie is gebleken van handelen dat gevaarzetting voor anderen oplevert of de integriteit van de overheid of die beroepsgroep aantast, kunnen over betrokkene strafvorderlijke gegevens worden verstrekt aan tenminste de volgende instanties:*  
@@ -209,9 +209,9 @@ III EU-instellingen en internationale organisaties (zoals bijvoorbeeld de NAVO);
 
 IV De particuliere werkgever als het gaat om bepaalde 'gevoelige' bedrijven/ instellingen (zoals bijvoorbeeld op het gebied van vervoer en transport, telecommunicatie en internet, beveiliging, financiën, onderzoek, onderwijs, kinderactiviteiten, energie, voedselvoorziening, kunst en oudheden);  
 
-V Instanties belast met toezicht op vrije beroepen, zoals de (plaatselijke) Deken van de Orde van Advocaten, de Koninklijke Notariële Beroepsorganisatie, het Nederlands Instituut voor Register Accountants en de Inspectie voor de gezondheidszorg.    
+V Instanties belast met toezicht op vrije beroepen, zoals de (plaatselijke) Deken van de Orde van Advocaten, de Koninklijke Notariële Beroepsorganisatie, het Nederlands Instituut voor Register Accountants en de Inspectie voor de gezondheidszorg.  
 
-f) 
+f)
 ###het verlenen van hulp aan slachtoffers en anderen die bij een strafbaar feit betrokken zijn
 
 f.1)  *Voorzover noodzakelijk voor het verlenen van hulp aan slachtoffers en anderen die bij een strafbaar feit betrokken zijn, kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*  
@@ -232,38 +232,38 @@ VII Gezondheidsdiensten en – instellingen;
 
 VIII Buro’s voor Jeugdzorg;    
 
-f.2)  *Ten behoeve van de vergoeding aan het slachtoffer van de schade, die is ontstaan als gevolg van een strafbaar feit, kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*  
+f.2)  * Ten behoeve van de vergoeding aan het slachtoffer van de schade, die is ontstaan als gevolg van een strafbaar feit, kunnen de daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan:*  
 
-<S> 
+<S>  
 
-I Degenen die rechtstreeks schade hebben geleden als gevolg van een strafbaar feit, voor zover geen sprake is van een geval waarop [artikel 51d Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) betrekking heeft;     
+I  Degenen die rechtstreeks schade hebben geleden als gevolg van een strafbaar feit, voor zover geen sprake is van een geval waarop [artikel 51d Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) betrekking heeft;     
 
-<S> 
+<S>  
 
 II Verzekeraars van direct betrokkenen;     
 
-<S> 
+<S>  
 
 III Uitkeringsinstanties;     
 
-<S> 
+<S>  
 
 IV Stichting Processen-Verbaal, met inachtneming van de Aanwijzing Verkeersongevallen;     
 
-<S> 
+<S>  
 
 V Buma/Stemra en Brein in geval van overtredingen van intellectuele eigendomsrechten;     
 
-<S> 
+<S>  
 
 VI Arbo-diensten;     
 
-<S> 
+<S>  
 
-VII Ambtenaren als bedoeld in [artikel 3 van de Politiewet](../../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en ambtenaren van de Koninklijke Marechaussee.        
+VII Ambtenaren als bedoeld in [artikel 3 van de Politiewet](../../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) en ambtenaren van de Koninklijke Marechaussee.      
 
-g) 
-###voorzover noodzakelijk voor de verwezenlijking van de in § 4 a) – f) genoemde doeleinden kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan samenwerkingsverbanden.
+g)
+### voorzover noodzakelijk voor de verwezenlijking van de in § 4 a) – f) genoemde doeleinden kunnen daarvoor benodigde strafvorderlijke gegevens worden verstrekt aan samenwerkingsverbanden.
 
 *Zie hierover nader de bijlage bij deze aanwijzing.*     
 ### 5  
@@ -289,7 +289,7 @@ De taak van de helpdesk is ervoor te zorgen dat het College invulling kan geven 
 
 ####Rol van de privacymedewerkers bij de dienstonderdelen
 
-De rol van de privacymedewerkers bij de dienstonderdelen is om eenduidig beleid van verstrekkingen te bereiken binnen het dienstonderdeel, aanspreekpunt voor de helpdesk te vormen en zorg te dragen voor het voorleggen van (voorgenomen) verstrekkingen die ter beoordeling aan de helpdesk staan.      
+De rol van de privacymedewerkers bij de dienstonderdelen is om eenduidig beleid van verstrekkingen te bereiken binnen het dienstonderdeel, aanspreekpunt voor de helpdesk te vormen en zorg te dragen voor het voorleggen van (voorgenomen) verstrekkingen die ter beoordeling aan de helpdesk staan.       
 ### V  
 
 ####Verstrekking op basis van [art. 39g](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) jo. [art. 14 Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) (wettelijke restcategorie)
@@ -324,7 +324,7 @@ Bij verstrekking op basis van [art. 39g](../../../../../../../../../../../wet/we
 – De Minister kan voorwaarden geven in verband met de verwerking en de verdere verwerking.   
 ### * *Toelichting* * 
 
-Ad 1) De betekenis is niet anders dan bij alle andere verstrekkingen van strafvorderlijke gegevens (zie IV § 3).  
+Ad 1)  De betekenis is niet anders dan bij alle andere verstrekkingen van strafvorderlijke gegevens (zie IV § 3).  
 
 Ad 2) Deze voorwaarde heeft twee elementen. Ten eerste dient de verstrekking noodzakelijk te zijn voor het doel dat wordt nagestreefd. Dat is, net als de eerste voorwaarde, niets nieuws. Het tweede element is dat het doel dat wordt nagestreefd, een bijzonder doel moet zijn. Hierbij kan bijvoorbeeld worden gedacht aan verstrekkingen aan tijdelijke (onderzoeks)commissies of verstrekkingen naar aanleiding van bijzondere gebeurtenissen. De vraag of de verstrekking noodzakelijk is voor een bijzonder doel, is ter beoordeling van de Minister.  
 
@@ -342,7 +342,7 @@ Indien de verstrekking op basis van [art. 39g](../../../../../../../../../../../
 
 ####Verantwoordelijkheden
 
-Het Openbaar Ministerie is verantwoordelijk voor het uitvoeren van de verstrekking(en) conform de voorschriften en voorwaarden die de Minister daaraan heeft gesteld. De Minister draagt verantwoordelijkheid voor de inhoud van de te stellen voorwaarden, de noodzakelijkheid van de verstrekkingen, de kwalificatie en bepaling van het doel en de gevallen en de omschrijving van de strafvorderlijke gegevens.     
+Het Openbaar Ministerie is verantwoordelijk voor het uitvoeren van de verstrekking(en) conform de voorschriften en voorwaarden die de Minister daaraan heeft gesteld. De Minister draagt verantwoordelijkheid voor de inhoud van de te stellen voorwaarden, de noodzakelijkheid van de verstrekkingen, de kwalificatie en bepaling van het doel en de gevallen en de omschrijving van de strafvorderlijke gegevens.      
 ### VI  
 
 ####Rechten van betrokkene op inzage
@@ -372,7 +372,7 @@ Aangezien een beslissing op basis van de [artt. 39e](../../../../../../../../../
 
 ####verzoek van betrokkene op basis van [art. 39i Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md)
 
-De beslissing op een verzoek op basis van [art. 39i Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) is een besluit in de zin van de [Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) waartegen bezwaar en beroep open staan. Schematisch:   ![251518](http://wetten.overheid.nl/Illustration/251518)
+De beslissing op een verzoek op basis van [art. 39i Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) is een besluit in de zin van de [Awb](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) waartegen bezwaar en beroep open staan. Schematisch:  ![251518](http://wetten.overheid.nl/Illustration/251518)
 
 ### VIII  
 
@@ -414,7 +414,7 @@ Voorbeelden van verstrekkingen op basis van een wettelijke verplichting voor bui
 
 – Onderzoeksraad voor de veiligheid ([art. 36 e.v. van de Rijkswet Onderzoeksraad voor de veiligheid](../../../../../../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md))  
 
-– Staatsecretaris van Verkeer en Waterstaat ([art. 22 van Besluit personenvervoer 2000](../../../../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md))   Ook binnen de strafrechtspleging bestaan vele voorbeelden van verplichte informatieverstrekking, zoals de notificatieplicht op grond van [art. 126 bb Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), inzagerecht slachtoffer op grond van [art. 51 d Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en kennisneming door verdachte van processtukken op basis van [art. 30 Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).     
+– Staatsecretaris van Verkeer en Waterstaat ([art. 22 van Besluit personenvervoer 2000](../../../../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md))   Ook binnen de strafrechtspleging bestaan vele voorbeelden van verplichte informatieverstrekking, zoals de notificatieplicht op grond van [art. 126 bb Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), inzagerecht slachtoffer op grond van [art. 51 d Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en kennisneming door verdachte van processtukken op basis van [art. 30 Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).      
 ### IX  
 
 ####Bijzondere onderwerpen
@@ -428,12 +428,12 @@ Verstrekking van strafvorderlijke gegevens ten behoeve van wetenschappelijk onde
 
 ####Verantwoordelijkheid ten aanzien van verstrekking van politiegegevens
 
-Bij verstrekking van politiegegevens hebben de politie en het Openbaar Ministerie elk een eigen verantwoordelijkheid. Het Openbaar Ministerie is, als verantwoordelijke voor het opsporingsonderzoek, gehouden belangen van opsporing en vervolging te wegen, indien sprake is van een voorgenomen verstrekking. Het Openbaar Ministerie draagt op basis van de *privacy* wetgeving echter géén verantwoordelijkheid voor het naleven van privacyregels bij verstrekking van politiegegevens op basis van de [Wet politiegegevens](../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md). Dat is de verantwoordelijkheid van de beheerder van het desbetreffende register. Zie verder het gestelde in de [Aanwijzing Wet politiegegevens](../../../../../../../../../../../beleidsregel/aanwijzing/wet/politiegegevens/BWBR0024276/README.md) (2008A017)    
+Bij verstrekking van politiegegevens hebben de politie en het Openbaar Ministerie elk een eigen verantwoordelijkheid. Het Openbaar Ministerie is, als verantwoordelijke voor het opsporingsonderzoek, gehouden belangen van opsporing en vervolging te wegen, indien sprake is van een voorgenomen verstrekking. Het Openbaar Ministerie draagt op basis van de *privacy*wetgeving echter géén verantwoordelijkheid voor het naleven van privacyregels bij verstrekking van politiegegevens op basis van de [Wet politiegegevens](../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md). Dat is de verantwoordelijkheid van de beheerder van het desbetreffende register. Zie verder het gestelde in de [Aanwijzing Wet politiegegevens](../../../../../../../../../../../beleidsregel/aanwijzing/wet/politiegegevens/BWBR0024276/README.md) (2008A017)    
 ### 3  
 
 ####Verstrekking van afschriften van strafbeschikkingen
 
-De [Wet OM-afdoening](../../../../../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md) maakt het voor ieder ander dan de bestrafte en zijn raadsman mogelijk om de officier van justitie op basis van [art. 257h lid 2 Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) om een afschrift van een strafbeschikking te verzoeken. De officier van justitie moet dit verzoek beoordelen. Voor deze beoordelingsprocedure wordt verwezen naar de [Leidraad informatieverstrekking OM-afdoening](../../../../../../../../../../../beleidsregel/aanwijzing/om-afdoening/BWBR0031499/README.md), die als bijlage bij de [Aanwijzing OM-afdoening](../../../../../../../../../../../beleidsregel/aanwijzing/om-afdoening/BWBR0031499/README.md) is gevoegd. <sup> 1  Op basis van art. 257d lid 5 Sv wordt aan de benadeelde partij die opgave heeft gedaan overeenkomstig art. 51b lid 1 Sv en aan de rechtstreeks belanghebbende die bij de officier van justitie bekend is, een afschrift toegezonden.  </sup>    
+De [Wet OM-afdoening](../../../../../../../../../../../wet/wet/om-afdoening/BWBR0020074/README.md) maakt het voor ieder ander dan de bestrafte en zijn raadsman mogelijk om de officier van justitie op basis van [art. 257h lid 2 Sv](../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) om een afschrift van een strafbeschikking te verzoeken.<sup> 1  Op basis van art. 257d lid 5 Sv wordt aan de benadeelde partij die opgave heeft gedaan overeenkomstig art. 51b lid 1 Sv en aan de rechtstreeks belanghebbende die bij de officier van justitie bekend is, een afschrift toegezonden. </sup> De officier van justitie moet dit verzoek beoordelen. Voor deze beoordelingsprocedure wordt verwezen naar de [Leidraad informatieverstrekking OM-afdoening](../../../../../../../../../../../beleidsregel/aanwijzing/om-afdoening/BWBR0031499/README.md), die als bijlage bij de [Aanwijzing OM-afdoening](../../../../../../../../../../../beleidsregel/aanwijzing/om-afdoening/BWBR0031499/README.md) is gevoegd.     
 ### 4  
 
 ####Verstrekking van rechterlijke uitspraken
@@ -445,7 +445,7 @@ De informatie die een rechterlijke uitspraak bevat, is strafvorderlijke informat
 
 Er bestaan vier uitzonderingen op het beginsel (zie hoofdstuk IV § 2) dat niet wordt verstrekt bij een sepot of een vrijspraak. In de volgende gevallen kan – ondanks een sepot of vrijspraak – wel worden verstrekt; 
 
-1) het gedrag (nalaten daaronder begrepen) dat voorwerp is geweest van strafrechtelijk onderzoek past niet binnen een *integere uitoefening van een overheidsfunctie*  
+1) het gedrag (nalaten daaronder begrepen) dat voorwerp is geweest van strafrechtelijk onderzoek past niet binnen een *integere uitoefening van een overheidsfunctie*   
 
 2) het gedrag (nalaten daaronder begrepen) dat voorwerp is geweest van strafrechtelijk onderzoek is relevant voor de vraag of een *rechtspositionele dan wel tuchtrechtelijk maatregel* moet worden genomen tegen iemand die als zelfstandige, werknemer of vrijwilliger een gevoelige functie bekleedt indien dat vastgestelde handelen twijfels doet rijzen over zijn behoorlijk (beroepsmatig) functioneren;  
 
@@ -481,7 +481,7 @@ Over gegevens die op last van de rechter-commissaris zijn opgemaakt of verkregen
 
 ### Bijlage  
 
-Een effectieve en efficiënte uitvoering van de taken van het Openbaar Ministerie kan ook buiten de strafrechtspleging samenwerking met verschillende andere partners, zoals hulpverleningsinstellingen en gemeenten vergen. Gedacht kan worden aan de samenwerking met jeugdhulpverleningsinstellingen ten behoeve van de integrale aanpak van kindermishandeling, de samenwerking met gemeentes bij de aanpak van drugsdealers om overlast, onveiligheid en misbruik van gemeenschapsgeld tegen te gaan, of samenwerking met gemeentes, reclassering en instellingen op het terrein van verslavingszorg ten behoeve van de aanpak van (jeugdige) veelplegers. Voor dergelijke samenwerking is een efficiënte wijze van gegevensuitwisseling vaak onontbeerlijk. Teneinde die gegevensuitwisseling in te kaderen en zodoende oog te houden op de bescherming van de belangen van de verschillende betrokkenen, verdient het aanbeveling een samenwerkingsovereenkomst te sluiten. Twee soorten samenwerkingsverbanden zijn te onderscheiden. Ten eerste het samenwerkingsverband waarbij een apart bestand wordt gecreëerd en ten tweede het samenwerkingsverband waarbij dat niet gebeurt. Elk gestructureerd geheel van persoonsgegevens, ongeacht of dit geheel van gegevens gecentraliseerd is of verspreid is op een functioneel of geografisch bepaalde wijze, dat volgens bepaalde criteria toegankelijk is en betrekking heeft op verschillende personen, is een bestand in de zin van de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). Indien in een samenwerkingsverband bijvoorbeeld casusoverleggen worden gevoerd, daarvan notulen worden gemaakt en opgeslagen en / of gezamenlijke (integrale) actieplannen worden opgesteld ten aanzien van bepaalde personen en deze worden opgeslagen, is sprake van een samenwerkingsverband waarbij een apart bestand wordt gecreëerd. Hierbij is van grote betekenis of het bestand voor de partijen van het samenwerkingsverband raadpleegbaar is. In dat geval is sprake van een apart bestand. Het samenwerkingsverband waarbij géén apart bestand wordt gecreëerd Bij dergelijke samenwerkingsverbanden bestaat voor het Openbaar Ministerie geen meldingsverplichting aan het CBP. Het Openbaar Ministerie verstrekt in dat geval alléén gegevens aan de afzonderlijke partners. De [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is voor het Openbaar Ministerie niet van toepassing op verstrekkingen binnen het samenwerkingsverband, voor de overige betrokkenen wel (tenzij die ook een bijzondere wet hebben, zoals bijvoorbeeld de politie). De verstrekking van strafvorderlijke informatie door het Openbaar Ministerie dient op basis van de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en deze aanwijzing te worden beoordeeld ten aanzien van alle individuele ontvangers. Er wordt dus beoordeeld of de verschillende ontvangers een grondslag hebben om te ontvangen en of het Openbaar Ministerie een grondslag heeft om aan hen te verstrekken. De samenwerkingsovereenkomst dient de vragen uit hoofdstuk IV § 3 van deze aanwijzing in algemene zin te beantwoorden voor alle voorgenomen verstrekkingen aan het samenwerkingsverband. Het convenant dient ruimschoots voor aanvang van de informatieverstrekking aan het samenwerkingsverband, aan de helpdesk privacy PaG te zijn voorgelegd. Voordeel van het sluiten van een samenwerkingsovereenkomst is bijvoorbeeld dat in bepaalde gevallen ten aanzien van bepaalde ontvangers niet-standaardverstrekkingen kunnen plaatsvinden zonder tussenkomst van de helpdesk privacy PaG. Deze verstrekkingen en de voorwaarden waaronder ze geschieden zijn immers al in algemene zin getoetst en akkoord bevonden door de helpdesk. Verder kan het middels het sluiten van een convenant mogelijk worden op reguliere basis (eventueel onder bijzondere voorwaarden) strafvorderlijke gegevens te verstrekken aan ‘overige ontvangers’ (zie hoofdstuk IV § 5). Informatiestromen schematisch:   ![251519](http://wetten.overheid.nl/Illustration/251519)
+Een effectieve en efficiënte uitvoering van de taken van het Openbaar Ministerie kan ook buiten de strafrechtspleging samenwerking met verschillende andere partners, zoals hulpverleningsinstellingen en gemeenten vergen. Gedacht kan worden aan de samenwerking met jeugdhulpverleningsinstellingen ten behoeve van de integrale aanpak van kindermishandeling, de samenwerking met gemeentes bij de aanpak van drugsdealers om overlast, onveiligheid en misbruik van gemeenschapsgeld tegen te gaan, of samenwerking met gemeentes, reclassering en instellingen op het terrein van verslavingszorg ten behoeve van de aanpak van (jeugdige) veelplegers. Voor dergelijke samenwerking is een efficiënte wijze van gegevensuitwisseling vaak onontbeerlijk. Teneinde die gegevensuitwisseling in te kaderen en zodoende oog te houden op de bescherming van de belangen van de verschillende betrokkenen, verdient het aanbeveling een samenwerkingsovereenkomst te sluiten. Twee soorten samenwerkingsverbanden zijn te onderscheiden. Ten eerste het samenwerkingsverband waarbij een apart bestand wordt gecreëerd en ten tweede het samenwerkingsverband waarbij dat niet gebeurt. Elk gestructureerd geheel van persoonsgegevens, ongeacht of dit geheel van gegevens gecentraliseerd is of verspreid is op een functioneel of geografisch bepaalde wijze, dat volgens bepaalde criteria toegankelijk is en betrekking heeft op verschillende personen, is een bestand in de zin van de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). Indien in een samenwerkingsverband bijvoorbeeld casusoverleggen worden gevoerd, daarvan notulen worden gemaakt en opgeslagen en / of gezamenlijke (integrale) actieplannen worden opgesteld ten aanzien van bepaalde personen en deze worden opgeslagen, is sprake van een samenwerkingsverband waarbij een apart bestand wordt gecreëerd. Hierbij is van grote betekenis of het bestand voor de partijen van het samenwerkingsverband raadpleegbaar is. In dat geval is sprake van een apart bestand. Het samenwerkingsverband waarbij géén apart bestand wordt gecreëerd Bij dergelijke samenwerkingsverbanden bestaat voor het Openbaar Ministerie geen meldingsverplichting aan het CBP. Het Openbaar Ministerie verstrekt in dat geval alléén gegevens aan de afzonderlijke partners. De [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is voor het Openbaar Ministerie niet van toepassing op verstrekkingen binnen het samenwerkingsverband, voor de overige betrokkenen wel (tenzij die ook een bijzondere wet hebben, zoals bijvoorbeeld de politie). De verstrekking van strafvorderlijke informatie door het Openbaar Ministerie dient op basis van de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en deze aanwijzing te worden beoordeeld ten aanzien van alle individuele ontvangers. Er wordt dus beoordeeld of de verschillende ontvangers een grondslag hebben om te ontvangen en of het Openbaar Ministerie een grondslag heeft om aan hen te verstrekken. De samenwerkingsovereenkomst dient de vragen uit hoofdstuk IV § 3 van deze aanwijzing in algemene zin te beantwoorden voor alle voorgenomen verstrekkingen aan het samenwerkingsverband. Het convenant dient ruimschoots voor aanvang van de informatieverstrekking aan het samenwerkingsverband, aan de helpdesk privacy PaG te zijn voorgelegd. Voordeel van het sluiten van een samenwerkingsovereenkomst is bijvoorbeeld dat in bepaalde gevallen ten aanzien van bepaalde ontvangers niet-standaardverstrekkingen kunnen plaatsvinden zonder tussenkomst van de helpdesk privacy PaG. Deze verstrekkingen en de voorwaarden waaronder ze geschieden zijn immers al in algemene zin getoetst en akkoord bevonden door de helpdesk. Verder kan het middels het sluiten van een convenant mogelijk worden op reguliere basis (eventueel onder bijzondere voorwaarden) strafvorderlijke gegevens te verstrekken aan ‘overige ontvangers’ (zie hoofdstuk IV § 5). Informatiestromen schematisch:  ![251519](http://wetten.overheid.nl/Illustration/251519)
 Het samenwerkingsverband waarbij een apart bestand in het leven wordt geroepen In dat geval zijn de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en deze aanwijzing van toepassing op de verstrekking van daarin opgenomen strafvorderlijke gegevens van het Openbaar Ministerie aan het samenwerkingsverband. De verwerkingen binnen het samenwerkingsverband worden beheerst door de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). De verwerking van gegevens in het bestand zal in beginsel moeten worden aangemeld bij het CBP. Dit heeft een aantal gevolgen. Het convenant regelt de wijze van omgang met de strafrechtelijke persoonsgegevens binnen het samenwerkingsverband met inachtneming van het bepaalde in de [Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). Aangezien het een nieuwe verwerking betreft en de Wbp van toepassing is, dient de verwerking door de verantwoordelijke te worden gemeld bij het CBP. De verantwoordelijke van de gegevensverwerking binnen het samenwerkingsverband draagt de verantwoordelijkheden die de Wbp hem geeft. Deze dient bijvoorbeeld zorg te dragen voor de melding van de verwerking bij het CBP. Het samenwerkingsverband waaraan het Openbaar Ministerie strafvorderlijke informatie verstrekt, dient dan ten behoeve van de aanmelding bij het CBP op basis van [art. 28 Wbp](../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) in ieder geval de volgende elementen in convenant(en) te hebben geregeld: 
 
 – de naam en het adres van de verantwoordelijke;  
@@ -492,5 +492,5 @@ Het samenwerkingsverband waarbij een apart bestand in het leven wordt geroepen I
 
 – de ontvangers of categorieën van ontvangers aan wie de gegevens kunnen worden verstrekt;  
 
-– een algemene beschrijving om een voorlopig oordeel te kunnen geven over de gepastheid van de voorgenomen maatregelen om, ter toepassing van artikel 13 en 14, de beveiliging van de verwerking te waarborgen.   De verstrekking door het Openbaar Ministerie aan het samenwerkingsverband wordt beoordeeld aan de hand van de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en deze aanwijzing. Het samenwerkingsverband als vastgelegd in de samenwerkingsovereenkomst is dan een ‘overige ontvanger’ waaraan regulier zal worden verstrekt. In de samenwerkingsovereenkomst die de verstrekking aan het samenwerkingsverband regelt, worden de vragen uit hoofdstuk IV § 3 van deze aanwijzing in algemene zin beantwoord voor alle voorgenomen verstrekkingen aan het samenwerkingsverband. De helpdesk privacy PaG dient ruimschoots voor aanvang van de informatieverstrekking aan het samenwerkingsverband, het convenant dat die informatieverstrekking aan het samenwerkingsverband regelt ter toetsing voorgelegd te krijgen. Bij de beoordeling van de voorgenomen reguliere verstrekking aan het samenwerkingsverband, zal door de Helpdesk privacy PaG nadrukkelijk worden betrokken hetgeen is geregeld ten aanzien van de informatie-uitwisseling binnen het samenwerkingsverband omtrent de vraag onder welke voorwaarden de informatie door wie kan worden verwerkt. De samenwerkingsovereenkomst op basis waarvan de melding aan het CBP zal geschieden, vormt daarvoor de basis. Informatiestromen schematisch:   ![251520](http://wetten.overheid.nl/Illustration/251520)
+– een algemene beschrijving om een voorlopig oordeel te kunnen geven over de gepastheid van de voorgenomen maatregelen om, ter toepassing van artikel 13 en 14, de beveiliging van de verwerking te waarborgen.   De verstrekking door het Openbaar Ministerie aan het samenwerkingsverband wordt beoordeeld aan de hand van de [Wjsg](../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en deze aanwijzing. Het samenwerkingsverband als vastgelegd in de samenwerkingsovereenkomst is dan een ‘overige ontvanger’ waaraan regulier zal worden verstrekt. In de samenwerkingsovereenkomst die de verstrekking aan het samenwerkingsverband regelt, worden de vragen uit hoofdstuk IV § 3 van deze aanwijzing in algemene zin beantwoord voor alle voorgenomen verstrekkingen aan het samenwerkingsverband. De helpdesk privacy PaG dient ruimschoots voor aanvang van de informatieverstrekking aan het samenwerkingsverband, het convenant dat die informatieverstrekking aan het samenwerkingsverband regelt ter toetsing voorgelegd te krijgen. Bij de beoordeling van de voorgenomen reguliere verstrekking aan het samenwerkingsverband, zal door de Helpdesk privacy PaG nadrukkelijk worden betrokken hetgeen is geregeld ten aanzien van de informatie-uitwisseling binnen het samenwerkingsverband omtrent de vraag onder welke voorwaarden de informatie door wie kan worden verwerkt. De samenwerkingsovereenkomst op basis waarvan de melding aan het CBP zal geschieden, vormt daarvoor de basis. Informatiestromen schematisch:  ![251520](http://wetten.overheid.nl/Illustration/251520)
 

@@ -8,7 +8,7 @@ Uniformering van het strafvorderingsbeleid in die gevallen waarbij gebruik is ge
 
 ####Basisdelicten
 
-- rijden met of voeren van valse of vervalste kentekenplaten    
+- rijden met of voeren van valse of vervalste kentekenplaten   
 
 ####Aard van de richtlijn
 
@@ -16,31 +16,31 @@ Verkeer
 
 ####Wettekst
 
-[Artikel 41 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) jo. [176, lid 3 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [179, leden 2 en 5 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)    
+[Artikel 41 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) jo.[176, lid 3 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [179, leden 2 en 5 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)    
 
 ####Basisdelict rijden met of voeren van valse of vervalste kentekenplaten 5.41.01
 
 ###Beschrijving
 
-Dit basisdelict ziet op overtreding van [art. 41 van de Wegenverkeerswet 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md): het rijden met of voeren van valse of vervalste kentekenplaten (waaronder buitenlandse kentekenplaten). 
+Dit basisdelict ziet op overtreding van [art. 41 van de Wegenverkeerswet 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md): het rijden met of voeren van valse of vervalste kentekenplaten (waaronder buitenlandse kentekenplaten).
 ###Toepasselijk kader
 
-Aanwijzing kader voor strafvordering 
+Aanwijzing kader voor strafvordering
 ###Basispunten
 
-20 punten 
+20 punten
 ###Strafbeschikking
 
-Indien van toepassing: afhankelijk van beleid van het parket 
+Indien van toepassing: afhankelijk van beleid van het parket
 ###Basisfactoren
 
-Geen 
+Geen
 ###Delictspecifieke factoren
 
-Geen 
+Geen
 ###Wettelijke factoren
 
-Geen 
+Geen
 ###Recidiveregeling
 
 Mate van recidive (5 jaar) 
@@ -49,16 +49,16 @@ Mate van recidive (5 jaar)
 
 – 1 maal +50 %  
 
-– Meermalen +100 % (DV)   (DV) + dagvaarden 
+– Meermalen +100 % (DV)   (DV) + dagvaarden
 ###Draagkracht
 
-Geen 
+Geen
 ###Maatwerk
 
-Geen 
+Geen
 ###Speciale regelingen
 
-–  [OBM-regeling valse of vervalste kentekens](../../../../../../../../../../../../../../beleidsregel/obm/regeling/valse/of/vervalste/kentekens/4.01.15/BWBR0032015/README.md)    
+–  [OBM-regeling valse of vervalste kentekens](../../../../../../../../../../../../../../beleidsregel/obm/regeling/valse/of/vervalste/kentekens/4.01.15/BWBR0032015/README.md)  
 ###Bijzonderheden
 
 Geen     

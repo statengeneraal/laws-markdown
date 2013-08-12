@@ -24,7 +24,7 @@ Commuun
 
 ### *Beschrijving* 
 
-Dit basisdelict heeft betrekking op huisvredebreuk met betrekking tot een woning. Het gaat zowel om het wederrechtelijk binnendringen als het - wederrechtelijk vertoevende - zich niet op eerste vordering verwijderen. Wanneer het een woning betreft is de inbreuk groter dan wanneer het om een erf of een besloten lokaal handelt. 
+Dit basisdelict heeft betrekking op huisvredebreuk met betrekking tot een woning. Het gaat zowel om het wederrechtelijk binnendringen als het - wederrechtelijk vertoevende - zich niet op eerste vordering verwijderen. Wanneer het een woning betreft is de inbreuk groter dan wanneer het om een erf of een besloten lokaal handelt.
 ### *Toepasselijk kader* 
 
 Aanwijzing Kader voor strafvordering 
@@ -59,7 +59,7 @@ Medeplegen
 | – Geen sprake van samenhang met een evenement  | +0 %  |
 | – Er is sprake van samenhang met een evenement  | +75%  |
 
-Voetbal gerelateerde normschending 
+Voetbal gerelateerde normschending
 
 | --- | --- |
 |:---|:---|
@@ -89,30 +89,30 @@ Mate van recidive (5 jaar)
 | --- | --- | --- |
 |:---|:---|:---|
 | – Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  | (NH)  |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  | (DV,NH)  |
+| – 1 maal binnen 2 jaar   | +50 %  |(NH) |
+| – 1 maal binnen 2-5 jaar   | +50 %  | --- |
+|– Meermalen | +100 %  |(DV,NH) |
 
-(NH) + naast hogere sanctie (DV) + dagvaarden 
+(NH) + naast hogere sanctie(DV) + dagvaarden
 ### *Draagkracht* 
 
 Geen 
 ###Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
 
-*(CKT) + contra-indicatie kale taakstraf*  
+*(CKT) + contra-indicatie kale taakstraf * 
 ### *Speciale regelingen* 
 
 Geen 
 ### *Bijzonderheden* 
 
-Indien er sprake is van bedreiging in de zin van [art. 285 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in [art. 300 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of vernieling als bedoeld in [art. 350 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan kan tevens separaat worden vervolgd voor één van deze delicten. Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder [art. 285 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende.     
+Indien er sprake is van bedreiging in de zin van [art. 285 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in [art. 300 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of vernieling als bedoeld in [art. 350 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan kan tevens separaat worden vervolgd voor één van deze delicten.Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder [art. 285 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende.     
 
 ####Basisdelict
 
@@ -152,7 +152,7 @@ Medeplegen
 | – Geen sprake van samenhang met een evenement  | +0 %  |
 | – Er is sprake van samenhang met een evenement  | +75%  |
 
-Voetbal gerelateerde normschending 
+Voetbal gerelateerde normschending
 
 | --- | --- |
 |:---|:---|
@@ -177,29 +177,29 @@ Medeplichtigheid
 
 ### *Recidiveregeling* 
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| – Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  | (NH)  |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  | (DV,NH)  |
+|– Geen recidive  |+0 %  | --- |
+|– 1 maal binnen 2 jaar  |+50 % | (NH) |
+|– 1 maal binnen 2-5 jaar  |+50 % | --- |
+|– Meermalen  |+100 %  |(DV,NH) |
 
-(NH) + naast hogere sanctie (DV) + dagvaarden 
+(NH) + naast hogere sanctie(DV) + dagvaarden 
 ### *Draagkracht* 
 
 Geen 
 ###Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
 
-*(CKT) + contra-indicatie kale taakstraf*  
+*(CKT) + contra-indicatie kale taakstraf * 
 ### *Speciale regelingen* 
 
 Geen 
@@ -220,7 +220,7 @@ Aanwijzing Kader voor strafvordering
 ### *Basispunten* 
 
 4 punten 
-###Strafbeschikking
+###Strafbeschikking 
 
 Indien van toepassing: afhankelijk van beleid van het parket 
 ### *Basisfactoren* 
@@ -248,7 +248,7 @@ Medeplegen
 | – Geen sprake van samenhang met een evenement  | +0%  |
 | – Er is sprake van samenhang met een evenement  | +75%  |
 
-Voetbal gerelateerde normschending 
+Voetbal gerelateerde normschending
 
 | --- | --- |
 |:---|:---|
@@ -273,32 +273,32 @@ Medeplichtigheid
 
 ### *Recidiveregeling* 
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
 | --- | --- | --- |
 |:---|:---|:---|
-| – Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  | (NH)  |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  | (DV,NH)  |
+|– Geen recidive  |+0 %  | --- |
+|– 1 maal binnen 2 jaar  |+50 % | (NH)  |
+|– 1 maal binnen 2-5 jaar  |+50 % | --- |
+|– Meermalen  |+100 %  |(DV,NH)  |
 
-(NH) + naast hogere sanctie (DV) + dagvaarden 
+(NH) + naast hogere sanctie(DV) + dagvaarden 
 ### *Draagkracht* 
 
 Geen 
 ###Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
 |:---|:---|:---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
 
-*(CKT) + contra-indicatie kale taakstraf*  
+*(CKT) + contra-indicatie kale taakstraf * 
 ### *Speciale regelingen* 
 
 Geen 
 ### *Bijzonderheden* 
 
-Indien er sprake is van bedreiging in de zin van [art. 285 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in [art. 300 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of vernieling als bedoeld in [art. 350 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan kan tevens separaat worden vervolgd voor één van deze delicten. Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder [art. 285 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende. Anders dan voorheen in een aantal (lokale) richtlijnen werd vermeld zijn openbaar toegankelijke ruimtes, zoals cafés, NS-stations en dergelijke geen lokalen bestemd voor de openbare dienst.      
+Indien er sprake is van bedreiging in de zin van [art. 285 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) verdient het de voorkeur gezien de hogere strafbedreiging vervolging plaats te laten vinden op grond van art. 285 WvSr. Indien tevens sprake is van mishandeling als bedoeld in [art. 300 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of vernieling als bedoeld in [art. 350 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), dan kan tevens separaat worden vervolgd voor één van deze delicten. Met bedreiging wordt in de beoordelingsfactor 'strafverzwarende omstandigheden' bedoeld iemand te zullen slaan, of buiten op te wachten etc. Dus elke vorm van bedreiging die niet valt onder [art. 285 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Verzwarende omstandigheden tellen slechts één keer mee, ook al is er sprake van meer. Het betreft hier telkens omstandigheden, die maken dat het delict een grotere impact heeft op de rechthebbende. Anders dan voorheen in een aantal (lokale) richtlijnen werd vermeld zijn openbaar toegankelijke ruimtes, zoals cafés, NS-stations en dergelijke geen lokalen bestemd voor de openbare dienst.     

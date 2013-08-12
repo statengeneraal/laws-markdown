@@ -4,11 +4,11 @@
 
 ####Achtergrond
 
-In de onderhavige richtlijn voor strafvordering wordt gebruik gemaakt van het Polaris-puntensysteem, zoals beschreven in de [Aanwijzing Kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0032600/README.md). Voor de waarde van één sanctiepunt wordt verwezen naar genoemde aanwijzing.    
+In de onderhavige richtlijn voor strafvordering wordt gebruik gemaakt van het Polaris-puntensysteem, zoals beschreven in de [Aanwijzing Kader voor strafvordering](../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0032600/README.md). Voor de waarde van één sanctiepunt wordt verwezen naar genoemde aanwijzing.     
 
 ####Beschrijving
 
-Deze richtlijn voor strafvordering ziet op overtredingen van de [artt. 2](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [3, vijfde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [4, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [5, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [6, tweede lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [7, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), en [8, tweede lid van de Winkeltijdenwet](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md). Dit zijn economische delicten op grond van [artikel 1 onder 4° Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (Wed). Deze worden in [art. 2 lid 4 Wed](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) als overtreding gekwalificeerd.    
+Deze richtlijn voor strafvordering ziet op overtredingen van de [artt. 2](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [3, vijfde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [4, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [5, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [6, tweede lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), [7, derde lid](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md), en [8, tweede lid van de Winkeltijdenwet](../../../../../../wet/winkeltijdenwet/BWBR0007952/README.md). Dit zijn economische delicten op grond van [artikel 1 onder 4° Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (Wed). Deze worden in [art. 2 lid 4 Wed](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) als overtreding gekwalificeerd.     
 
 ####Vervolging
 
@@ -38,4 +38,4 @@ Indien de omstandigheden van het delict daartoe aanleiding geven dient tevens ge
 
 ####Overgangsregeling
 
-Deze richtlijn voor strafvordering is uitsluitend geldig ten aanzien van strafbare feiten gepleegd op en vanaf de datum van inwerkingtreding van deze richtlijn.     
+Deze richtlijn voor strafvordering is uitsluitend geldig ten aanzien van strafbare feiten gepleegd op en vanaf de datum van inwerkingtreding van deze richtlijn.      

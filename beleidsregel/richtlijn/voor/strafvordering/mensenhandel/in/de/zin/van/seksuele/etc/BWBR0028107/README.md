@@ -10,7 +10,7 @@ Mensenhandel in de zin van seksuele uitbuiting heeft de afgelopen jaren grote pu
 
 ####Wettelijke achtergrond
 
-Sinds de *wetswijziging* van [art. 273f Sr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) d.d. 1 juli 2009 bedraagt het strafmaximum voor enkelvoudige mensenhandel 8 jaar (daarvoor 6 jaar). Alle gekwalificeerde vormen van mensenhandel kennen nu een strafmaximum van ten minste twaalf jaar. Dit betekent een ruimere mogelijkheid tot voorlopige hechtenis op basis van de 12-jaarsgrond en de mogelijkheid om tegen strafbare voorbereiding van het misdrijf op te treden op grond van [art. 46 Sr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). De wijziging bracht met zich mee dat de voor deze richtlijn relevante uitspraken inzake seksuele uitbuiting van de periode vóór 1 juli 2009 niet langer als uitgangspunt kunnen dienen voor strafeisen vanaf 1 juli 2009. Dit in combinatie met het algeheel ontbreken van een eenduidige lijn terzake strafmaten in mensenhandelzaken vergrootte de behoefte aan een handzame doch flexibele strafeisrichtlijn. <sup> 1  Feiten begaan vóór 1 juli 2009 vallen op grond van artikel 1 Sr nog onder het oude strafmaximum.  </sup>    
+Sinds de *wetswijziging* van [art. 273f Sr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) d.d. 1 juli 2009 bedraagt het strafmaximum voor enkelvoudige mensenhandel 8 jaar (daarvoor 6 jaar). Alle gekwalificeerde vormen van mensenhandel kennen nu een strafmaximum van ten minste twaalf jaar. Dit betekent een ruimere mogelijkheid tot voorlopige hechtenis op basis van de 12-jaarsgrond en de mogelijkheid om tegen strafbare voorbereiding van het misdrijf op te treden op grond van [art. 46 Sr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). De wijziging bracht met zich mee dat de voor deze richtlijn relevante uitspraken inzake seksuele uitbuiting van de periode vóór 1 juli 2009 niet langer als uitgangspunt kunnen dienen voor strafeisen vanaf 1 juli 2009.<sup> 1 Feiten begaan vóór 1 juli 2009 vallen op grond van artikel 1 Sr nog onder het oude strafmaximum. </sup>Dit in combinatie met het algeheel ontbreken van een eenduidige lijn terzake strafmaten in mensenhandelzaken vergrootte de behoefte aan een handzame doch flexibele strafeisrichtlijn.    
 
 ####Toepassingsbereik
 
@@ -24,7 +24,7 @@ Genoten voordeel kan worden ontnomen in een afzonderlijke ontnemingsprocedure en
 
 ####Werkwijze
 
-De systematiek van de strafeisrichtlijn is erin gelegen dat de stappen 1 tot en met 3 worden doorlopen om te komen tot een strafeis (zie onder). S *tap 1* is het uitgangspunt Bij *stap 2* is de pleegperiode van belang. Het betreft de pleegperiode ten aanzien van 1 slachtoffer. De drie uiteengezette pleegperiodes geven aan dat de plaats van de pleegperiode binnen de categorie (bijvoorbeeld: middenin categorie 2, pleegperiode van 9 maanden) de plaats van de strafeis binnen de categorie bepaalt (respectievelijk: eveneens middenin categorie 2, strafeis van 30 maanden). *Stap 3* ziet op alle overige strafverzwarende omstandigheden. In de linker kolom wordt de strafverzwaring aangeduid. De rechter kolom geeft een opsomming (in willekeurige volgorde) van andere strafverzwarende omstandigheden. De omstandigheden in de rechter kolom geven geen waardering van de strafverzwaring. Bijzondere omstandigheden kunnen hier worden meegewogen.    
+De systematiek van de strafeisrichtlijn is erin gelegen dat de stappen 1 tot en met 3 worden doorlopen om te komen tot een strafeis (zie onder). S*tap 1* is het uitgangspunt Bij *stap 2* is de pleegperiode van belang. Het betreft de pleegperiode ten aanzien van 1 slachtoffer. De drie uiteengezette pleegperiodes geven aan dat de plaats van de pleegperiode binnen de categorie (bijvoorbeeld: middenin categorie 2, pleegperiode van 9 maanden) de plaats van de strafeis binnen de categorie bepaalt (respectievelijk: eveneens middenin categorie 2, strafeis van 30 maanden).  *Stap 3* ziet op alle overige strafverzwarende omstandigheden. In de linker kolom wordt de strafverzwaring aangeduid. De rechter kolom geeft een opsomming (in willekeurige volgorde) van andere strafverzwarende omstandigheden. De omstandigheden in de rechter kolom geven geen waardering van de strafverzwaring. Bijzondere omstandigheden kunnen hier worden meegewogen.    
 
 ####Meerdere slachtoffers
 
@@ -73,9 +73,9 @@ Hierna volgt een rekenvoorbeeld voor het formuleren van een strafeis mensenhande
 
 | --- | --- | --- |
 |:---|:---|:---|
-| **Stap 1:** voldaan  |
-| *Stap 2:* pleegperiode van 3 maanden categorie)  | →  | strafeis 18 maanden (midden eerste  |
-| *Stap 3:* in vereniging gepleegd  | →  | strafeis 27 maanden (50% verzwaard ten opzichte van 18 maanden)  |
+|  * *Stap 1:* * voldaan  |
+|  *Stap 2:* pleegperiode van 3 maanden categorie)  | →  | strafeis 18 maanden (midden eerste  |
+|  *Stap 3:* in vereniging gepleegd  | →  | strafeis 27 maanden (50% verzwaard ten opzichte van 18 maanden)  |
 | recidive op [art. 273f Sr](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | →  | strafeis 36 maanden (nogmaals 50% verzwaard ten opzichte van 18 maanden)  |
 | zonder condoom  | →  | 36 maanden plus strafverzwaring zelf te bepalen op basis van de omstandigheden van het geval  |
 

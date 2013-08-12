@@ -22,11 +22,11 @@ De aanwijzing heeft betrekking op toezeggingen van het openbaar ministerie aan v
 
 1.3. In deze aanwijzing wordt onder ‘getuige’ verstaan: 
 
-*Getuige:* de verdachte dan wel veroordeelde, die (mogelijk) bereid is een getuigenverklaring af te leggen in een strafzaak tegen een (andere) verdachte, in ruil voor een toezegging tot strafvermindering van het openbaar ministerie.  
+*Getuige:* de verdachte dan wel veroordeelde, die (mogelijk) bereid is een getuigenverklaring af te leggen in een strafzaak tegen een (andere) verdachte, in ruil voor een toezegging tot strafvermindering van het openbaar ministerie.   
 
 *Getuigenverklaring:* een verklaring afgelegd door een getuige, desverlangd ten overstaan van een rechter ter terechtzitting, waarmee een belangrijke bijdrage wordt geleverd aan de opsporing of vervolging van misdrijven.    
 
-1.4. Deze aanwijzing heeft geen betrekking op: 
+1.4.  Deze aanwijzing heeft geen betrekking op: 
 
 1. informanten en tipgevers;  
 
@@ -36,7 +36,7 @@ De aanwijzing heeft betrekking op toezeggingen van het openbaar ministerie aan v
 
 4. slachtoffers en getuigen, die geen verdachte of veroordeelde zijn.   Voor informanten en tipgevers geldt de [Regeling Bijzondere opsporingsgelden](../../../../../../../../circulaire/regeling/bijzondere/opsporingsgelden/BWBR0019510/README.md) (Stcrt. 2005, 66). Verdachten die in hun eigen zaak een bekennende verklaring afleggen, zijn geen getuigen en vallen niet onder deze aanwijzing. De getuige die als bedreigde getuige door de rechter-commissaris is erkend en dienovereenkomstig is gehoord, kan niet meer op de terechtzitting verschijnen om door de zittingsrechter te worden gehoord. Aan deze getuige kunnen geen toezeggingen worden gedaan ([artikel 226j, vierde lid](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md)); de zittingsrechter moet zich een eigen oordeel over de betrouwbaarheid van de getuigenverklaring kunnen vormen.  
 
-1.5 De aanwijzing is van toepassing op de strafvordering in eerste aanleg en in hoger beroep.      
+1.5De aanwijzing is van toepassing op de strafvordering in eerste aanleg en in hoger beroep.    
 ### 2  
 
 ####Uitgangspunten
@@ -190,7 +190,7 @@ d. de inhoud van de toezegging ([artikel 226g, tweede lid](../../../../../../../
 
 ####Gunstbetoon
 
-8.1. Onder gunstbetoon valt het verrichten van handelingen die vallen binnen de normale bevoegdheden van de officier van justitie, die een relatief geringe betekenis hebben en niet rechtstreeks aan de beantwoording van de vragen van [artikelen 348](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [350 Sv](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) raken, maar die wel op enigerlei wijze invloed kunnen hebben op de bereidheid tot het afleggen van een getuigenverklaring. Hierover kan de officier van justitie zelfstandig beslissen.  
+8.1.  Onder gunstbetoon valt het verrichten van handelingen die vallen binnen de normale bevoegdheden van de officier van justitie, die een relatief geringe betekenis hebben en niet rechtstreeks aan de beantwoording van de vragen van [artikelen 348](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [350 Sv](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) raken, maar die wel op enigerlei wijze invloed kunnen hebben op de bereidheid tot het afleggen van een getuigenverklaring. Hierover kan de officier van justitie zelfstandig beslissen.  
 
 8.2. Indien sprake is van een uitdrukkelijk en causaal verband tussen het verlenen van een dergelijke gunst en de door de getuige af te leggen verklaring, dient hiervan overeenkomstig [artikel 226g, vierde lid Sv](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), een proces-verbaal te worden opgemaakt, dat ten spoedigste bij de processtukken (in de zaak van de getuige en die van de verdachte ten laste van wie hij verklaart) wordt gevoegd.  
 

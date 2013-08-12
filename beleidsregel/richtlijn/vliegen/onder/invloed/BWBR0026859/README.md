@@ -42,27 +42,27 @@ b. alcohol, zoals bedoeld in [artikel 2.12, tweede en derde lid Wet luchtvaart](
 
 ####Wettekst
 
-–  [Wet Luchtvaart art. 2.11](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 2.11](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 5.3](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 5.3](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.4](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 11.4](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.5](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 11.5](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.6](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 11.6](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.7](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 11.7](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.8](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 11.8](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.8a](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 11.8a](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.9](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)   
+– [Wet Luchtvaart art. 11.9](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
 
-–  [Wet Luchtvaart art. 11.10](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)       
+– [Wet Luchtvaart art. 11.10](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)      
 
 #### *Basisdelict* 
 
@@ -104,7 +104,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -153,7 +153,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -203,7 +203,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -229,13 +229,13 @@ verkeer
 
 Adem-alcoholgehalte (of AAG-equivalent) luchtvaartuig ≥ 6000 kg: 
 
-– *Schijf 1*: het gedeelte tussen 95 en 390 µg/l 0,537 pt/µg/l  
+–  *Schijf 1*: het gedeelte tussen 95 en 390 µg/l 0,537 pt/µg/l  
 
-– *Schijf 2*: het gedeelte boven 390 µg/l 0,136 pt/µg/l   Indien het adem-alcoholgehalte niet is gemeten, bestaat de mogelijkheid dat het bloed-alcoholgehalte bekend is. In dat geval dient de volgende beoordelingsfactor in de beoordeling te worden betrokken. Bloed-alcoholgehalte (of BAG-equivalent) luchtvaartuig ≥ 6000 kg: 
+–  *Schijf 2*: het gedeelte boven 390 µg/l 0,136 pt/µg/l   Indien het adem-alcoholgehalte niet is gemeten, bestaat de mogelijkheid dat het bloed-alcoholgehalte bekend is. In dat geval dient de volgende beoordelingsfactor in de beoordeling te worden betrokken. Bloed-alcoholgehalte (of BAG-equivalent) luchtvaartuig ≥ 6000 kg: 
 
-– *Schijf 1*: het gedeelte tussen 0,22 en 0,9 promille 233,6 pt/promille  
+–  *Schijf 1*: het gedeelte tussen 0,22 en 0,9 promille 233,6 pt/promille  
 
-– *Schijf 2*: het gedeelte boven 0,9 promille 59,12 pt/promille   
+–  *Schijf 2*: het gedeelte boven 0,9 promille 59,12 pt/promille   
 ### *Delictspecifieke factoren* 
 
 Strafverzwarende omstandigheden i.v.m. [art. 2.12 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
@@ -257,7 +257,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -283,13 +283,13 @@ Commuun en verkeer
 
 Adem-alcoholgehalte (of AAG-equivalent) luchtvaartuig < 6000 kg (bedrijfsmatig): 
 
-– *Schijf 1*: het gedeelte tussen 95 en 390 µg/l 0,347 pt/µg/l  
+–  *Schijf 1*: het gedeelte tussen 95 en 390 µg/l 0,347 pt/µg/l  
 
-– *Schijf 2*: het gedeelte boven 390 µg/l 0,085 pt/µg/l   Indien het adem-alcoholgehalte niet is gemeten, bestaat de mogelijkheid dat het bloed-alcoholgehalte bekend is. In dat geval dient de volgende beoordelingsfactor in de beoordeling te worden betrokken. Bloed-alcoholgehalte (of BAG-equivalent) luchtvaartuig < 6000 kg (privé): 
+–  *Schijf 2*: het gedeelte boven 390 µg/l 0,085 pt/µg/l   Indien het adem-alcoholgehalte niet is gemeten, bestaat de mogelijkheid dat het bloed-alcoholgehalte bekend is. In dat geval dient de volgende beoordelingsfactor in de beoordeling te worden betrokken. Bloed-alcoholgehalte (of BAG-equivalent) luchtvaartuig < 6000 kg (privé): 
 
-– *Schijf 1*: het gedeelte tussen 0,22 en 0,9 promille 150,9 pt/promille  
+–  *Schijf 1*: het gedeelte tussen 0,22 en 0,9 promille 150,9 pt/promille  
 
-– *Schijf 2*: het gedeelte boven 0,9 promille 36,95 pt/promille   
+–  *Schijf 2*: het gedeelte boven 0,9 promille 36,95 pt/promille   
 ### *Delictspecifieke factoren* 
 
 Strafverzwarende omstandigheden i.v.m. [art. 2.12 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
@@ -311,7 +311,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -336,13 +336,13 @@ Commuun en verkeer
 
 Adem-alcoholgehalte (of AAG-equivalent) luchtvaartuig < 6000 kg (privé): 
 
-– *Schijf 1*: het gedeelte tussen 95 en 390 µg/l 0,133 pt/µg/l  
+–  *Schijf 1*: het gedeelte tussen 95 en 390 µg/l 0,133 pt/µg/l  
 
-– *Schijf 2*: het gedeelte boven 390 µg/l 0,034 pt/µg/l   Indien het adem-alcoholgehalte niet is gemeten, bestaat de mogelijkheid dat het bloed-alcoholgehalte bekend is. In dat geval dient de volgende beoordelingsfactor in de beoordeling te worden betrokken. Bloed-alcoholgehalte (of BAG-equivalent) luchtvaartuig < 6000 kg (privé): 
+–  *Schijf 2*: het gedeelte boven 390 µg/l 0,034 pt/µg/l   Indien het adem-alcoholgehalte niet is gemeten, bestaat de mogelijkheid dat het bloed-alcoholgehalte bekend is. In dat geval dient de volgende beoordelingsfactor in de beoordeling te worden betrokken. Bloed-alcoholgehalte (of BAG-equivalent) luchtvaartuig < 6000 kg (privé): 
 
-– *Schijf 1*: het gedeelte tussen 0,22 en 0,9 promille 57,94 pt/promille  
+–  *Schijf 1*: het gedeelte tussen 0,22 en 0,9 promille 57,94 pt/promille  
 
-– *Schijf 2*: het gedeelte boven 0,9 promille 14,78 pt/promille   
+–  *Schijf 2*: het gedeelte boven 0,9 promille 14,78 pt/promille   
 ### *Delictspecifieke factoren* 
 
 Strafverzwarende omstandigheden i.v.m. [art. 2.12 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md)  
@@ -364,7 +364,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -400,7 +400,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -410,7 +410,7 @@ Geen
 Regeling negeren beslissing 
 ### *Bijzonderheden* 
 
-Doet zich naast dit feit één of meer van de in de [artikelen 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [11.6 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.    
+Doet zich naast dit feit één of meer van de in de [artikelen 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [11.6 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.   
 
 #### *Basisdelict* 
 
@@ -438,7 +438,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -448,7 +448,7 @@ Geen
 Regeling negeren beslissing 
 ### *Bijzonderheden* 
 
-Doet zich naast dit feit één of meer van de in de artikelen 2.12 en 11.6 Wet luchtvaart genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.    
+Doet zich naast dit feit één of meer van de in de artikelen 2.12 en 11.6 Wet luchtvaart genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.   
 
 #### *Basisdelict* 
 
@@ -476,7 +476,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -486,7 +486,7 @@ Geen
 Regeling negeren beslissing 
 ### *Bijzonderheden* 
 
-Doet zich naast dit feit één of meer van de in de [artikelen 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [11.6 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.    
+Doet zich naast dit feit één of meer van de in de [artikelen 2.12](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [11.6 Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde strafbare feiten voor, dan moet voor al deze feiten afzonderlijk proces-verbaal worden opgemaakt.   
 
 #### *Basisdelict* 
 
@@ -523,7 +523,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -568,7 +568,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 
@@ -613,7 +613,7 @@ Mate van recidive (5 jaar)
 |:---|:---|
 | Geen recidive  | + 0%  |
 | 1 Maal  | + 50%  |
-| Meermalen  | + 100%  + *dagvaarden*  |
+| Meermalen  | + 100%  + *dagvaarden*   |
 
 ### *Draagkracht* 
 

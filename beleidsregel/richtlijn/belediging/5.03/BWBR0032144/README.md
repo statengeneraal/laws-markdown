@@ -18,9 +18,9 @@ Commuun
 
 ####Wettekst
 
-–  [Wetboek van Strafrecht art. 266](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   
+– [Wetboek van Strafrecht art. 266](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  
 
-–  [Wetboek van Strafrecht art. 267](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)       
+– [Wetboek van Strafrecht art. 267](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)      
 
 ####Basisdelict eenvoudige belediging 5.03.04
 

@@ -20,9 +20,9 @@ Commuun
 
 ####Wettekst
 
-–  Wetboek van Strafrecht art. 310   
+– [Wetboek van Strafrecht art. 310](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  
 
-–  Wetboek van Strafrecht art. 311       
+– [Wetboek van Strafrecht art. 311](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)      
 
 ####Basisdelict
 
@@ -38,21 +38,21 @@ Aanwijzing Kader voor strafvordering
 
 ####Basispunten
 
-49 punten    
+49 punten   
 
 ####Strafbeschikking
 
-Indien van toepassing: afhankelijk van beleid van het parket    
+Indien van toepassing: afhankelijk van beleid van het parket   
 
 ####Basisfactoren
 
-Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden 
+Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden
 
 | --- | --- |
-|---|---|
-| – Schijf 1: € 0 t/m € 1200  | bedrag gedeeld door 50 pt  |
-| – Schijf 2: het gedeelte tussen € 1200 en € 5000  | bedrag gedeeld door 250 pt  |
-| – Schijf 3: het gedeelte boven € 5000  | bedrag gedeeld door 500 pt  |
+|:---|:---|
+|– Schijf 1: € 0 t/m € 1200 |bedrag gedeeld door 50 pt   |
+|– Schijf 2: het gedeelte tussen € 1200 en € 5000 |bedrag gedeeld door 250 pt   |
+|– Schijf 3: het gedeelte boven € 5000 |bedrag gedeeld door 500 pt   |
 
 ####Delictspecifieke factoren
 
@@ -76,31 +76,31 @@ Medeplichtigheid
 
 ####Recidiveregeling
 
-Mate van recidive (5 jaar) 
+Mate van recidive (5 jaar)
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  |  *(DV, NH)*   |
+| – 1 maal binnen 2 jaar  | +50 %  |*(NH)* |
+|– 1 maal binnen 2-5 jaar  |+50 % | --- |
+| – Meermalen  | +100 %  |*(DV, NH)* |
 
-*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*     
+*(NH) + naast hogere sanctie**(DV) + dagvaarden*    
 
 ####Draagkracht
 
-Geen    
+Geen   
 
 ####Maatwerk
 
-Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr.  Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
-|---|---|---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | (CKT)  |
+|:---|:---|:---|
+|- Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |(CKT) |
 
-*(CKT) + contra-indicatie kale taakstraf*     
+*(CKT) + contra-indicatie kale taakstraf* 
 
 ####Speciale regelingen
 
@@ -128,13 +128,13 @@ Aanwijzing Kader voor strafvordering
 
 ####Basisfactoren
 
-Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden 
+Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden
 
 | --- | --- |
-|---|---|
-| – Schijf 1: € 0 t/m € 1200  | bedrag gedeeld door 50 pt  |
-| – Schijf 2: het gedeelte tussen € 1200 en € 5000  | bedrag gedeeld door 250 pt  |
-| – Schijf 3: het gedeelte boven € 5000  | bedrag gedeeld door 500 pt  |
+|:---|:---|
+|– Schijf 1: € 0 t/m € 1200 |bedrag gedeeld door 50 pt |
+|– Schijf 2: het gedeelte tussen € 1200 en € 5000 |bedrag gedeeld door 250 pt |
+|– Schijf 3: het gedeelte boven € 5000 |bedrag gedeeld door 500 pt |
 
 ####Delictspecifieke factoren
 
@@ -158,31 +158,31 @@ Medeplichtigheid
 
 ####Recidiveregeling
 
-Mate van recidive (5 jaar) 
+Mate van recidive (5 jaar)
 
 | --- | --- | --- |
-|---|---|---|
-| • Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  | (NH)  |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  | (DV,NH)  |
+|:---|:---|:---|
+|• Geen recidive |+0 % | --- |
+|– 1 maal binnen 2 jaar |+50 % |(NH) |
+|– 1 maal binnen 2-5 jaar |+50 % | --- |
+|– Meermalen |+100 %  |(DV,NH) |
 
-(NH) + naast hogere sanctie (DV) + dagvaarden    
+(NH) + naast hogere sanctie (DV) + dagvaarden   
 
 ####Draagkracht
 
-Geen    
+Geen   
 
 ####Maatwerk
 
-Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr.  Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
-|---|---|---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | (CKT)  |
+|:---|:---|:---|
+|- Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |(CKT) |
 
-*(CKT) + contra-indicatie kale taakstraf*     
+*(CKT) + contra-indicatie kale taakstraf* 
 
 ####Speciale regelingen
 
@@ -210,13 +210,13 @@ Aanwijzing Kader voor strafvordering
 
 ####Basisfactoren
 
-Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden 
+Economische waarde van de (beoogde) goederen die zich in het voertuig bevinden
 
 | --- | --- |
-|---|---|
-| – Schijf 1: € 0 t/m € 1200  | bedrag gedeeld door 50 pt  |
-| – Schijf 2: het gedeelte tussen € 1200 en € 5000  | bedrag gedeeld door 250 pt  |
-| – Schijf 3: het gedeelte boven € 5000  | bedrag gedeeld door 500 pt  |
+|:---|:---|
+|– Schijf 1: € 0 t/m € 1200 |bedrag gedeeld door 50 pt |
+|– Schijf 2: het gedeelte tussen € 1200 en € 5000 |bedrag gedeeld door 250 pt |
+|– Schijf 3: het gedeelte boven € 5000 |bedrag gedeeld door 500 pt |
 
 ####Delictspecifieke factoren
 
@@ -240,31 +240,31 @@ Medeplichtigheid
 
 ####Recidiveregeling
 
-Mate van recidive (5 jaar) 
+Mate van recidive (5 jaar)
 
 | --- | --- | --- |
-|---|---|---|
-| • Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  | (NH)  |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  | (DV,NH)  |
+|:---|:---|:---|
+|• Geen recidive |+0 % | --- |
+|– 1 maal binnen 2 jaar |+50 % |(NH) |
+|– 1 maal binnen 2-5 jaar  |+50 % | --- |
+|– Meermalen |+100 % |(DV,NH) |
 
-(NH) + naast hogere sanctie (DV) + dagvaarden    
+(NH) + naast hogere sanctie (DV) + dagvaarden   
 
 ####Draagkracht
 
-Geen    
+Geen   
 
 ####Maatwerk
 
-Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van art 22b lid 2 WvSr.  Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+Indien sprake is van recidive dient bepaald te worden of er een contraindicatie is voor een taakstraf heeft op grond van [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
-|---|---|---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | (CKT)  |
+|:---|:---|:---|
+|- Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |(CKT) |
 
-*(CKT) + contra-indicatie kale taakstraf*     
+*(CKT) + contra-indicatie kale taakstraf* 
 
 ####Speciale regelingen
 

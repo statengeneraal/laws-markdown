@@ -11,58 +11,58 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt de Pensioenwet.   
+Wijzigt de Pensioenwet. 
 
 ### Artikel  II  
 
-Wijzigt de Wet verplichte beroepspensioenregeling.   
+Wijzigt de Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  III  
 
-Wijzigt de Invoerings- en aanpassingswet Pensioenwet.   
+Wijzigt de Invoerings- en aanpassingswet Pensioenwet. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet op het notarisambt.   
+Wijzigt de Wet op het notarisambt. 
 
 ### Artikel  IVa  
 
-Wijzigt de Wet op de ondernemingsraden.   
+Wijzigt de Wet op de ondernemingsraden. 
 
 ### Artikel  V  
 
-Wijzigt de Pensioenwet.   
+Wijzigt de Pensioenwet. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet verplichte beroepspensioenregeling.   
+Wijzigt de Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  VIa  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2. 
 
 ### Artikel  VIb  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2. 
 
 ### Artikel  VII  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  VIII  
 
-Deze wet wordt aangehaald als: Wet versterking bestuur pensioenfondsen.  
+Deze wet wordt aangehaald als: Wet versterking bestuur pensioenfondsen. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 10 juli 2013  
 Willem-Alexander  
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 J. Klijnsma   
 
 de *negentiende* juli 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

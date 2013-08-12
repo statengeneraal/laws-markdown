@@ -12,15 +12,15 @@ Commuun
 
 #### *Basisdelicten* 
 
-– Verzet met geweld tegen personen  
+–  Verzet met geweld tegen personen   
 
-– Verzet met bedreiging met geweld      
+–  Verzet met bedreiging met geweld       
 
 #### *Wettekst* 
 
 –  [Wetboek van Strafrecht art. 180](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   
 
-– [Wetboek van Strafrecht art. 181](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [182](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  *Met betrekking tot de eendaadse samenloop valt art. 55 WvSr. te vermelden.*   
+–  [Wetboek van Strafrecht art. 181](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [182](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  *Met betrekking tot de eendaadse samenloop valt art. 55 WvSr. te vermelden. *   
 
 –  [Wetboek van Strafrecht art. 55](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)       
 
@@ -196,32 +196,4 @@ Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelings
 
 ####Bijzonderheden
 
-Indien bij ‘verzet met bedreiging met geweld’ sprake is van eendaadse samenloop met andere misdrijven verdient het in verband met [art. 55, lid 1 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). de voorkeur te vervolgen voor het zwaarste delict.  *Deze twee basisdelicten krijgen een nieuwe delictspecifieke factor ‘Met verenigde krachten’. Deze komt in plaats van ‘Medeplegen’.*  Met verenigde krachten 3.02.41    
-
-####Beschrijving
-
-Medeplegen heeft bij enkele delicten in de wet beschreven invloed. In principe dient de factor ‘medeplegen’ bij de beoordeling van alle delicten te worden betrokken. Het feit dat een delict door meer personen in vereniging wordt gepleegd heeft gevolgen voor de ernst van het feit en/of de dreiging die daar vanuit gaat. Het in [artikel 182 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) genoemde ‘plegen door twee of meer personen met verenigde krachten’ leidt tot een forse verhoging van het strafmaximum en is daarom apart in deze factor opgenomen.    
-
-####Soort factor
-
-Delict specifieke factor    
-
-####Antwoordmogelijkheden
-
-– Er is geen sprake van medeplegen met verenigde krachten +0%  
-
-– Er is sprake van medeplegen met verenigde krachten +100%      
-
-####Uitgangspunt indien onbekend
-
-Er is geen sprake van medeplegen met verenigde krachten    
-
-####Bijzonderheden
-
-Geen    
-
-####Zie basisdelicten
-
-– Basisdelict verzet met geweld tegen personen  
-
-– Basisdelict verzet met bedreiging met geweld        
+Indien bij ‘verzet met bedreiging met geweld’ sprake is van eendaadse samenloop met andere misdrijven verdient het in verband met [art. 55, lid 1 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). de voorkeur te vervolgen voor het zwaarste delict.      

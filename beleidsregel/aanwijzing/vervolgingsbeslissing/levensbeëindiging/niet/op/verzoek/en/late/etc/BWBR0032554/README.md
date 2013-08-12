@@ -13,7 +13,7 @@ Deze aanwijzing regelt de wijze waarop het openbaar ministerie omgaat met gevall
 
 ####Levensbeëindiging niet op verzoek (wilsonbekwamen, niet zijnde uitzichtloos en ondraaglijk lijdende pasgeborenen) (zie stroomschema 1)
 
-### 1.1  
+### 1.1 
 
 ####Geen uitdrukkelijk verzoek
 
@@ -22,7 +22,7 @@ Voor gevallen van levensbeëindiging zonder uitdrukkelijk verzoek (niet betreffe
 
 ####De taak van de gemeentelijke lijkschouwer
 
-[Artikel 10 van de Wet op de Lijkbezorging](../../../../../../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) bepaalt dat, indien de lijkschouwer meent niet tot afgifte van een verklaring van overlijden te kunnen overgaan, hij onverwijld verslag uitbrengt aan de officier van justitie. In gevallen van levensbeëindiging *niet* op verzoek is er steeds sprake van een niet-natuurlijke dood en moet de officier van justitie worden gewaarschuwd. De officier van justitie beslist of er verlof tot begraven of verbranding kan worden gegeven. De rol van de lijkschouwer: 
+[Artikel 10 van de Wet op de Lijkbezorging](../../../../../../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md) bepaalt dat, indien de lijkschouwer meent niet tot afgifte van een verklaring van overlijden te kunnen overgaan, hij onverwijld verslag uitbrengt aan de officier van justitie. In gevallen van levensbeëindiging *niet *op verzoek is er steeds sprake van een niet-natuurlijke dood en moet de officier van justitie worden gewaarschuwd. De officier van justitie beslist of er verlof tot begraven of verbranding kan worden gegeven. De rol van de lijkschouwer: 
 
 * De betrokken arts waarschuwt de gemeentelijke lijkschouwer die de uitwendige lijkschouw verricht en verifieert hoe en met welke middelen het leven is beëindigd.  
 

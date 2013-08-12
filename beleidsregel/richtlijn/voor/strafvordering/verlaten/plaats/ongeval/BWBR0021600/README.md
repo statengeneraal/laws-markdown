@@ -23,14 +23,14 @@ Verkeer
 
 ####Basisdelict
 
-###Verlaten plaats ongeval waarbij aan een ander materiële schade is toegebracht
+### Verlaten plaats ongeval waarbij aan een ander materiële schade is toegebracht 
 
 ###Beschrijving
 
 Dit basisdelict ziet op het verlaten van de plaats van een ongeval waarbij aan een ander alleen materiële schade is toegebracht. 
 ###Toepasselijk kader
 
-[Aanwijzing Kader voor strafvordering](../../../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md)  
+[Aanwijzing Kader voor strafvordering](../../../../../../../../beleidsregel/aanwijzing/kader/voor/strafvordering/BWBR0030950/README.md) 
 ###Basispunten
 
 10 punten 
@@ -41,28 +41,28 @@ Op projectbasis. Alleen in kale [art. 7 WVW94](../../../../../../../../wet/wegen
 
 Omvang van de ongevalsschade 
 
-– Geen andere schade dan geringe materiële schade, zoals een deukje of krasje, of geringe schade aan wegmeubilair of beplanting. 0 pt  
+– Geen andere schade dan geringe materiële schade, zoals een deukje of krasje, of geringe schade aan wegmeubilair of beplanting. 0 pt   
 
-– Andere dan hierboven bedoelde schade 20 pt   
+– Andere dan hierboven bedoelde schade 20 pt    
 ###Delictspecifieke factoren
 
-Geen 
+Geen  
 ###Wettelijke factoren
 
-Medeplichtigheid 
+Medeplichtigheid  
 
-– Dader +0 %  
+– Dader +0 %   
 
-– Medeplichtige –33 %   
+– Medeplichtige –33 %    
 ###Recidiveregeling
 
-Mate van recidive (5 jaar) 
+Mate van recidive (5 jaar)  
 
-– Geen recidive +0 %  
+– Geen recidive +0 %   
 
-– 1 maal +10 %  
+– 1 maal +10 %   
 
-– Meermalen +20 % (DV)   (DV) + dagvaarden 
+– Meermalen +20 % (DV)     (DV) + dagvaarden
 ###Draagkracht
 
 Geen 
@@ -71,14 +71,14 @@ Geen
 Geen 
 ###Speciale regelingen
 
-– OBM regeling verlaten plaats ongeval   
+– OBM regeling verlaten plaats ongeval    
 ###Bijzonderheden
 
-Geen    
+Geen   
 
 ####Basisdelict
 
-###Verlaten plaats ongeval waarbij aan een ander letsel is toegebracht
+### Verlaten plaats ongeval waarbij aan een ander letsel is toegebracht 
 
 ###Beschrijving
 
@@ -133,7 +133,7 @@ Geen
 
 ####Basisdelict
 
-###Verlaten plaats ongeval waarbij aan een ander materiële schade en letsel is toegebracht
+### Verlaten plaats ongeval waarbij aan een ander materiële schade en letsel is toegebracht 
 
 ###Beschrijving
 
@@ -195,7 +195,7 @@ Geen
 
 ####Baisdelict
 
-###Verlaten plaats ongeval waarbij een ander aan wie letsel is toegebracht, in hulpeloze toestand wordt achtergelaten
+### Verlaten plaats ongeval waarbij een ander aan wie letsel is toegebracht, in hulpeloze toestand wordt achtergelaten 
 
 ###Beschrijving
 

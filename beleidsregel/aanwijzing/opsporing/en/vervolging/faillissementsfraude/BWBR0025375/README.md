@@ -4,7 +4,7 @@
 
 ####Achtergrond
 
-Op 13 september 2004 heeft de minister van Justitie de notitie Actieplan bestrijding faillissementsfraude toegezonden aan de Tweede Kamer. Op 6 december 2004 heeft het College van procureurs-generaal aan onder meer de hoofden van de parketten de notitie Bestrijding faillissementsfraude; rol regiopolitie en arrondissementsparketten toegezonden. <sup> 1  Brief van 13 september 2004 aan de Tweede Kamer, kenmerk 5302992/504.  </sup> In het Actieplan is aangekondigd dat het Openbaar Ministerie (OM) een op maat gesneden vervolgingsbeleid zou presenteren. Met deze aanwijzing wordt hieraan gevolg gegeven. Op 23 januari 2006 is het WODC-onderzoeksrapport Fraude en misbruik bij faillissement: een onderzoek naar hun aard en omvang en naar de mogelijkheden van bestrijding toegezonden aan de Tweede Kamer. <sup> 2  Onderzoek uitgevoerd door het Hugo Sinzheimer Instituut van de Universiteit van Amsterdam in de periode oktober 2004–november 2005.  </sup> Het beleid zoals geformuleerd in het Actieplan, de notitie van het College en het WODC-onderzoeksrapport vormt het uitgangspunt van deze aanwijzing.   
+Op 13 september 2004 heeft de minister van Justitie de notitie Actieplan bestrijding faillissementsfraude toegezonden aan de Tweede Kamer.<sup>1  Brief van 13 september 2004 aan de Tweede Kamer, kenmerk 5302992/504.</sup> Op 6 december 2004 heeft het College van procureurs-generaal aan onder meer de hoofden van de parketten de notitie Bestrijding faillissementsfraude; rol regiopolitie en arrondissementsparketten toegezonden. In het Actieplan is aangekondigd dat het Openbaar Ministerie (OM) een op maat gesneden vervolgingsbeleid zou presenteren. Met deze aanwijzing wordt hieraan gevolg gegeven. Op 23 januari 2006 is het WODC-onderzoeksrapport Fraude en misbruik bij faillissement: een onderzoek naar hun aard en omvang en naar de mogelijkheden van bestrijding<sup>2  Onderzoek uitgevoerd door het Hugo Sinzheimer Instituut van de Universiteit van Amsterdam in de periode oktober 2004–november 2005.</sup> toegezonden aan de Tweede Kamer. Het beleid zoals geformuleerd in het Actieplan, de notitie van het College en het WODC-onderzoeksrapport vormt het uitgangspunt van deze aanwijzing.   
 ### 1  
 
 ####Tweesporenbeleid
@@ -39,7 +39,7 @@ Deze aanwijzing bevat uitsluitend regels voor het OM bij de opsporing en vervolg
 ####Onderscheid faillissementsfraudezaken
 
 In het ‘Actieplan bestrijding faillissementsfraude’ wordt onderscheid gemaakt tussen eenvoudige zaken en complexe/gevoelige en zware zaken. Eenvoudige zaken komen in aanmerking voor opsporing door de regiopolitie. Complexe/gevoelige en zware zaken komen in aanmerking voor opsporing door de Fiscale Inlichtingen- en Opsporingsdienst – Economische Controledienst (FIOD-ECD) en/of de Bovenregionale Recherche (BR).   
-### 4.1  
+### 4.1 
 
 ####Kenmerken van eenvoudige zaken
 
@@ -77,7 +77,7 @@ Ter invulling en uitvoering van een op maat gesneden vervolgingsbeleid wordt ond
 
 Als gevolg van het onderscheid tussen eenvoudige en complexe/gevoelige en zware zaken kan het volgende worden vastgesteld voor wat betreft aangiften en meldingen faillissementsfraude: 
 
-a. Eenvoudige zaken Curatoren kunnen eenvoudige zaken aangeven/melden bij het Fraudemeldpunt (FMP), de regiopolitie of het arrondissementsparket. Deze aangiften/meldingen dienen in elk geval (vervolgens) ter registratie gemeld te worden aan het FMP van de BR-eenheid in het desbetreffende werkgebied. <sup> 3  Er is een standaard-proces-verbaal aangifte faillissementsfraude ontwikkeld dat o.a. te vinden is in de formulierenbak op het Politiekennisnet.  </sup> Als het arrondissementsparket waar aangifte wordt gedaan zelfstandig tot een beslissing komt over de vervolgingswaardigheid van de aangifte, dan wordt de aangifte afgehandeld door de regiopolitie. Daarnaast selecteert het FMP aan de hand van binnengekomen aangiften/meldingen de eenvoudige zaken die, eventueel na overleg en door tussenkomst van een gebiedsgebonden team van een arrondissementsparket, ter afhandeling worden toegezonden aan de regiopolitie. De toezending van de aangifte vanuit het FMP kan gepaard gaan met de toezending van relevante achtergrondinformatie c.q. een standaard proces-verbaal en een standaard tenlastelegging. Met de verstrekking van de nodige aanvullende schriftelijke informatie wordt een doortastend optreden van politie en OM beoogd.  
+a. Eenvoudige zaken Curatoren kunnen eenvoudige zaken aangeven/melden bij het Fraudemeldpunt (FMP), de regiopolitie of het arrondissementsparket. Deze aangiften/meldingen<sup>3  Er is een standaard-proces-verbaal aangifte faillissementsfraude ontwikkeld dat o.a. te vinden is in de formulierenbak op het Politiekennisnet.</sup> dienen in elk geval (vervolgens) ter registratie gemeld te worden aan het FMP van de BR-eenheid in het desbetreffende werkgebied. Als het arrondissementsparket waar aangifte wordt gedaan zelfstandig tot een beslissing komt over de vervolgingswaardigheid van de aangifte, dan wordt de aangifte afgehandeld door de regiopolitie. Daarnaast selecteert het FMP aan de hand van binnengekomen aangiften/meldingen de eenvoudige zaken die, eventueel na overleg en door tussenkomst van een gebiedsgebonden team van een arrondissementsparket, ter afhandeling worden toegezonden aan de regiopolitie. De toezending van de aangifte vanuit het FMP kan gepaard gaan met de toezending van relevante achtergrondinformatie c.q. een standaard proces-verbaal en een standaard tenlastelegging. Met de verstrekking van de nodige aanvullende schriftelijke informatie wordt een doortastend optreden van politie en OM beoogd.  
 
 b. Complexe/gevoelige en zware zaken Curatoren kunnen complexe/gevoelige en zware zaken aangeven/melden bij een FMP, de FIOD-ECD of rechtstreeks bij een officier van justitie. In de laatste twee gevallen dienen de ontvangers de aangifte te melden aan het FMP in het desbetreffende werkgebied. Bij het FMP aangemelde complexe/gevoelige en zware zaken worden binnen de bestaande procedure beoordeeld op mogelijke afhandeling door de BR en/of de FIOD-ECD. De keuze om een opsporingsonderzoek te starten door de BR wordt na aanmelding genomen in het bovenregionaal rechercheoverleg (BRO). De beslissing om een opsporingsonderzoek te starten en een zaak te laten behandelen door de FIOD-ECD onder leiding van een officier van justitie van het Functioneel Parket, wordt genomen in het regionale Tri Partite Overleg (TPO). Voorts kan een multidisciplinair onderzoek (d.w.z. een onderzoek waarin meerdere opsporingsdiensten deelnemen) worden opgezet. Als de FIOD-ECD de trekkersrol vervult in het onderzoek, vindt dit onderzoek plaats onder leiding van een officier van justitie van het Functioneel Parket. Tot slot kan, na afstemming met een officier van justitie van een gebiedsgebonden team van een arrondissementsparket, alsnog besloten worden een door het FMP als ‘complexe/gevoelige en zware zaak’ gelabelde faillissementszaak in behandeling te geven bij de regiopolitie.   Om tegemoet te komen aan de bezwaren van verscheidene curatoren dat zij niet op de hoogte zijn van waar zij terecht kunnen voor het doen van aangifte, zal deze aanwijzing tevens integraal bekend worden gemaakt bij de afdeling Insolventie van de rechtbanken.    
 ### 2  
@@ -90,7 +90,7 @@ Meldingen en aangiften van faillissementsfraude dienen gemeld en geregistreerd t
 
 2. de zaak wordt na toestemming BRO als plankzaak bij een BR-eenheid aangehouden;  
 
-3. de zaak wordt na toestemming toch niet binnen BR-eenheid uitgezet in verband met prioriteit andere (lopende) onderzoeken of actualiteit andere onderzoeken.   In het laatste geval dient de zaak te worden teruggewezen naar een politieregio met het verzoek om onderzoek te doen en een lokaal arrondissementsparket indien de zaak als Semi-specialistisch A of B kan worden aangemerkt.     
+3. de zaak wordt na toestemming toch niet binnen BR-eenheid uitgezet in verband met prioriteit andere (lopende) onderzoeken of actualiteit andere onderzoeken.   In het laatste geval dient de zaak te worden teruggewezen naar een politieregio met het verzoek om onderzoek te doen en een lokaal arrondissementsparket indien de zaak als Semi-specialistisch A of B kan worden aangemerkt.      
 
 ####Vervolging
 
@@ -142,7 +142,7 @@ Het indienen van een ontnemingsvordering tegen de gefailleerde verdachte is niet
 
 ####Ontbinding van de rechtspersoon
 
-De civielrechtelijke mogelijkheid tot ontbinding van een rechtspersoon is geregeld in [artikel 2:20 Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) (BW). Het eerste lid bepaalt dat een rechtspersoon waarvan de werkzaamheid in strijd is met de openbare orde, door de rechtbank op verzoek van het Openbaar Ministerie verboden wordt verklaard en ontbonden. Het indienen van verzoeken tot ontbinding tegen gefailleerde rechtspersonen kan slechts worden gedaan als een homologatie in kracht van gewijsde is gegaan en het akkoord ([artikelen 138–172 Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md)) daarmee verbindend is geworden. Immers, een failliete rechtspersoon wordt reeds ontbonden door opheffing van het faillissement wegens de toestand van de boedel of door insolventie ([artikel 2:19 lid 1 sub c BW](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)). <sup> 4  Homologatie = het akte nemen door de rechter van het bemiddelingsakkoord tussen de partijen waardoor dit akkoord authentiek en uitvoerbaar wordt.  </sup> Het indienen van een verzoek tot ontbinding tegen niet-gefailleerde malafide rechtspersonen, die in handen van de fraudeur als instrument om daarmee faillissementsfraude te kunnen plegen zijn gehanteerd, dient te worden geïntensiveerd, omdat daarmee voorkomen wordt dat dergelijke malafide rechtspersonen (na eventueel doorverkoop) opnieuw opduiken in toekomstige fraudeonderzoeken. Het standaard verzoekschrift tot ontbinden van rechtspersonen is gemoderniseerd door het Functioneel Parket en is (mede) beschikbaar via de Juridische Kennissite van het Openbaar Ministerie (JKS) . Hierbij dient echter nog rekening gehouden te worden met een landelijke herintroductie van deze mogelijkheid.    
+De civielrechtelijke mogelijkheid tot ontbinding van een rechtspersoon is geregeld in [artikel 2:20 Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) (BW). Het eerste lid bepaalt dat een rechtspersoon waarvan de werkzaamheid in strijd is met de openbare orde, door de rechtbank op verzoek van het Openbaar Ministerie verboden wordt verklaard en ontbonden. Het indienen van verzoeken tot ontbinding tegen gefailleerde rechtspersonen kan slechts worden gedaan als een homologatie<sup>4  Homologatie = het akte nemen door de rechter van het bemiddelingsakkoord tussen de partijen waardoor dit akkoord authentiek en uitvoerbaar wordt.</sup> in kracht van gewijsde is gegaan en het akkoord ([artikelen 138–172 Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md)) daarmee verbindend is geworden. Immers, een failliete rechtspersoon wordt reeds ontbonden door opheffing van het faillissement wegens de toestand van de boedel of door insolventie ([artikel 2:19 lid 1 sub c BW](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)). Het indienen van een verzoek tot ontbinding tegen niet-gefailleerde malafide rechtspersonen, die in handen van de fraudeur als instrument om daarmee faillissementsfraude te kunnen plegen zijn gehanteerd, dient te worden geïntensiveerd, omdat daarmee voorkomen wordt dat dergelijke malafide rechtspersonen (na eventueel doorverkoop) opnieuw opduiken in toekomstige fraudeonderzoeken. Het standaard verzoekschrift tot ontbinden van rechtspersonen is gemoderniseerd door het Functioneel Parket en is (mede) beschikbaar via de Juridische Kennissite van het Openbaar Ministerie (JKS) . Hierbij dient echter nog rekening gehouden te worden met een landelijke herintroductie van deze mogelijkheid.    
 ### 1.4.7  
 
 ####Het strafrechtelijk en civielrechtelijk bestuursverbod
@@ -152,7 +152,7 @@ Thans ligt bij de Tweede Kamer een wetsvoorstel van de minister van Justitie, da
 
 ####Bijzondere situatie bij stichtingen
 
-Voor de volledigheid wordt hier gewezen op de nu reeds bestaande mogelijkheden in het Burgerlijke Wetboek om bestuurders van een stichting te schorsen of te ontslaan in gevallen van wanbeheer of ander ongewenst gedrag. Dit kan geschieden op verzoek van het Openbaar Ministerie of iedere belanghebbende (bijv. een curator). Schorsing kan gebeuren door een voorlopige voorziening (kan dus op zeer korte termijn), ontslag betekent dat betrokkene 5 jaar lang geen bestuurder van een stichting meer kan zijn. Een bestuursverbod dus. Het Openbaar Ministerie kan, in gevallen waarin ongewenste praktijken (dreigende faillissementsfraude bijvoorbeeld) worden vermoed, inlichtingen vragen aan het bestuur. Als men onvoldoende meewerkt kan de voorzieningenrechter ingrijpen ([art. 2:296 e.v. BW](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)). In diverse onderzoeken is geconstateerd dat de transparantie van ongeveer 160.000 stichtingen te wensen overlaat. Die situatie wordt in het perspectief van de strijd tegen de financiering van terroristische organisaties en de toenemende financieel-economische criminaliteit niet langer verantwoord geacht. De staatssecretaris van justitie heeft de Tweede Kamer bij brief van 16 december 2008 laten weten dat die transparantie zal worden verbeterd door een wetswijziging die ziet op een verplichte jaarlijkse openbaarmaking van de staat van baten en lasten en de balans. Daarnaast zal het herziene toezicht op rechtspersonen (HTR) zich ook gaan uitstrekken tot stichtingen, Op het ogenblik bestaat er alleen (preventief) toezicht op vennootschappen. <sup> 5  Rapport Quick scan non-profitorganisaties en terrorismefinanciering' (FEC 2004). Goed bedoeld, preventieve doorlichting van de goede doelensector (Intraval 2007), Stichtingen, verenigingen en criminaliteit (Intraval 2007).  </sup> <sup> 6  Kamerstukken II 2008/09, 27 834, nr. 53.  </sup>      
+Voor de volledigheid wordt hier gewezen op de nu reeds bestaande mogelijkheden in het Burgerlijke Wetboek om bestuurders van een stichting te schorsen of te ontslaan in gevallen van wanbeheer of ander ongewenst gedrag. Dit kan geschieden op verzoek van het Openbaar Ministerie of iedere belanghebbende (bijv. een curator). Schorsing kan gebeuren door een voorlopige voorziening (kan dus op zeer korte termijn), ontslag betekent dat betrokkene 5 jaar lang geen bestuurder van een stichting meer kan zijn. Een bestuursverbod dus. Het Openbaar Ministerie kan, in gevallen waarin ongewenste praktijken (dreigende faillissementsfraude bijvoorbeeld) worden vermoed, inlichtingen vragen aan het bestuur. Als men onvoldoende meewerkt kan de voorzieningenrechter ingrijpen ([art. 2:296 e.v. BW](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)). In diverse onderzoeken<sup>5  Rapport Quick scan non-profitorganisaties en terrorismefinanciering' (FEC 2004). Goed bedoeld, preventieve doorlichting van de goede doelensector (Intraval 2007), Stichtingen, verenigingen en criminaliteit (Intraval 2007).</sup> is geconstateerd dat de transparantie van ongeveer 160.000 stichtingen te wensen overlaat. Die situatie wordt in het perspectief van de strijd tegen de financiering van terroristische organisaties en de toenemende financieel-economische criminaliteit niet langer verantwoord geacht. De staatssecretaris van justitie heeft de Tweede Kamer bij brief van 16 december 2008<sup>6  Kamerstukken II 2008/09, 27 834, nr. 53.</sup> laten weten dat die transparantie zal worden verbeterd door een wetswijziging die ziet op een verplichte jaarlijkse openbaarmaking van de staat van baten en lasten en de balans. Daarnaast zal het herziene toezicht op rechtspersonen (HTR) zich ook gaan uitstrekken tot stichtingen, Op het ogenblik bestaat er alleen (preventief) toezicht op vennootschappen.      
 ### 2  
 
 ####Eis ter zitting
@@ -198,35 +198,35 @@ Deze beleidsregels in deze aanwijzing hebben gelding vanaf de datum van inwerkin
 | Basis A  | Het niet, niet tijdig of niet volledig geven van inlichtingen aan curator, rechter-commissaris of commissie van schuldeisers.  | Politieregio  | Lokaal arrondissementsparket  |
 | --- | --- | --- | --- |
 | --- | Strafbaarstelling:  | --- | --- |
-| --- |  [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
+| --- | [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
 | --- | --- | --- | --- |
-| --- | Verdachte :  <sup> 7   Geldt tevens voor de natuurlijke persoon op wie de Wet Schuldsaneringsregeling Natuurlijke Personen (WSNP) van toepassing is verklaard ([artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [artikel 341 onder b. Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)).    </sup> | --- | Forum: PR  |
-| --- | Failliet of bestuurder failliete rechtspersoon  <sup> 8   Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon.    </sup> | --- | --- |
+| --- | Verdachte<sup>7  Geldt tevens voor de natuurlijke persoon op wie de Wet Schuldsaneringsregeling Natuurlijke Personen (WSNP) van toepassing is verklaard ([artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [artikel 341 onder b. Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). </sup>:  | --- | Forum: PR  |
+| --- | Failliet of bestuurder<sup>8  Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon. </sup> failliete rechtspersoon  | --- | --- |
 | --- | --- | --- | --- |
 | Basis B  | Basis A en/of het niet of niet in ongeschonden staat te voorschijn brengen van administratie enz. aan de curator en/of het niet (volledig) gevoerd hebben van een administratie.  | Politieregio  | Lokaal arrondissementsparket  |
 | --- | --- | --- | --- |
 | --- | Strafbaarstelling:  | --- | --- |
-| --- |  [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
-| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [342 3° Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
-| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [343 4° Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[342 3° Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[343 4° Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
 | --- | --- | --- | --- |
-| --- | Verdachte :  <sup> 7   Geldt tevens voor de natuurlijke persoon op wie de Wet Schuldsaneringsregeling Natuurlijke Personen (WSNP) van toepassing is verklaard ([artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [artikel 341 onder b. Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)).    </sup> | --- | Forum: PR  |
-| --- | Failliet of bestuurder failliete rechtspersoon  <sup> 8   Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon.    </sup> | --- | --- |
+| --- | Verdachte<sup>7  Geldt tevens voor de natuurlijke persoon op wie de Wet Schuldsaneringsregeling Natuurlijke Personen (WSNP) van toepassing is verklaard ([artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [artikel 341 onder b. Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)). </sup>:  | --- | Forum: PR  |
+| --- | Failliet of bestuurder<sup>8  Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon. </sup> failliete rechtspersoon  | --- | --- |
 | --- | --- | --- | --- |
-| Semi-specialistisch A  | Basis A en/of basis B en/of één of meerdere lasten verdichten en/of één of enkele baten niet verantwoorden, en/of één of enkele activabestanddelen onttrekken aan de boedel, en/of één of enkele activabestanddelen kennelijk beneden de waarde vervreemden en/of één of enkele schuldeisers bevoordelen.  | Politieregio (eventueel met ondersteuning BFR/BFO)  <sup> 9   BFR = Bureau Financiële Recherche; BFO = Bureau Financiële Ondersteuning.    </sup> | Lokaal arrondissementsparket  |
+| Semi-specialistisch A  | Basis A en/of basis B en/of één of meerdere lasten verdichten en/of één of enkele baten niet verantwoorden, en/of één of enkele activabestanddelen onttrekken aan de boedel, en/of één of enkele activabestanddelen kennelijk beneden de waarde vervreemden en/of één of enkele schuldeisers bevoordelen.  | Politieregio (eventueel met ondersteuning BFR/BFO)<sup>9  BFR = Bureau Financiële Recherche; BFO = Bureau Financiële Ondersteuning. </sup>   | Lokaal arrondissementsparket  |
 | --- | --- | --- | --- |
 | --- | Veroorzaakte benadeling minder dan € 100.000  | --- | --- |
 | --- | --- | --- | --- |
 | --- | Strafbaarstelling:  | --- | --- |
-| --- |  [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
-| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [342 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
-| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [343 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
-| --- |  [Artikel 344 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
+| --- | [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[342 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[343 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 344 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
 | --- | --- | --- | --- |
 | --- | Verdachte:  | --- | Forum: PR  |
-| --- | Failliet of bestuurder failliete rechtspersoon  <sup> 8   Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon.    </sup> | --- | --- |
+| --- | Failliet of bestuurder<sup>8  Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon. </sup> failliete rechtspersoon  | --- | --- |
 | --- | --- | --- | --- |
-| Complexe/gevoelige en zware zaken  | --- | --- | --- |
+| Complexe/gevoelige en zware zaken   | --- | --- | --- |
 | Semi-specialistisch B  | Semi-specialistisch A en/of meerdere lasten verdichten en/of meerdere baten niet verantwoorden en/of meerdere activabestanddelen onttrekken aan de boedel en/of meerdere activabestanddelen kennelijk beneden de waarde vervreemden en/of meerdere schuldeisers bevoordelen.  | FIOD-ECD  | Functioneel Parket  |
 | --- | --- | --- |
 | --- | Bovenregionale recherche (BR)  | Lokaal arrondissementsparket (Centrumparket)  |
@@ -236,13 +236,13 @@ Deze beleidsregels in deze aanwijzing hebben gelding vanaf de datum van inwerkin
 | --- | Veroorzaakte benadeling € 100.000 of meer.  | --- | --- |
 | --- | --- | --- | --- |
 | --- | Strafbaarstelling:  | --- | --- |
-| --- |  [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
-| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [342 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
-| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [343 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
-| --- |  [Artikel 344 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
+| --- | [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[342 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[343 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 344 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
 | --- | --- | --- | --- |
 | --- | Verdachte:  | --- | Forum: MK  |
-| --- | Failliet of bestuurder failliete rechtspersoon  <sup> 8   Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon.    </sup> | --- | --- |
+| --- | Failliet of bestuurder<sup>8  Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon. </sup> failliete rechtspersoon  | --- | --- |
 | --- | --- | --- | --- |
 | Specialistisch A  | Semi-specialistisch B en/of  | FIOD-ECD  | Functioneel Parket  |
 | --- | Misbruik van rechtspersonen, ondoorzichtig geheel van eigendomsverhoudingen en gebruik van stromannen en/of georganiseerd verband en/of relaties met andere vermogensdelicten.  | --- | --- |
@@ -251,15 +251,15 @@ Deze beleidsregels in deze aanwijzing hebben gelding vanaf de datum van inwerkin
 | --- | branche en/of persoon van verdachte.  | --- | --- |
 | --- | --- | --- | --- |
 | --- | Strafbaarstelling:  | --- | --- |
-| --- |  [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
-| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [342 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
-| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) / [343 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
-| --- |  [Artikel 344 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)   | --- | --- |
+| --- | [Artikel 194 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 340](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[342 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 341](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)/[343 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
+| --- | [Artikel 344 Sr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | --- | --- |
 | --- | --- | --- | --- |
 | --- | Verdachte:  | --- | Forum: MK  |
-| --- | Failliet of bestuurder failliete rechtspersoon  <sup> 8   Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon.    </sup> | --- | --- |
+| --- | Failliet of bestuurder<sup>8  Als normadressaat geldt tevens de commissaris van een failliete rechtspersoon. </sup> failliete rechtspersoon  | --- | --- |
 | --- | --- | --- | --- |
-| Specialistisch B  | Door omvang en complexiteit faillissement multidisciplinair onderzoeksteam noodzakelijk.  | FIOD-ECD, BR Politieregio en/of andere BOD’en  | Functioneel Parket  |
+| Specialistisch B  | Door omvang en complexiteit faillissement multidisciplinair onderzoeksteam noodzakelijk.   | FIOD-ECD, BR Politieregio en/of andere BOD’en  | Functioneel Parket  |
 | --- | --- | --- |
 | --- | --- | --- | Forum: MK  |
 

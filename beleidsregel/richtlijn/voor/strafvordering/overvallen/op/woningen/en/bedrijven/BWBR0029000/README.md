@@ -34,13 +34,13 @@ Voor meerderjarigen is gekozen voor een basisuitgangspunt voor overvallen op bed
 | Strafeisverzwarend:  | --- | --- |
 | Nachtelijke uren  | --- | + 6 mnd  |
 | Medeplegen  | + 8 mnd  | + 12 mnd  |
-| Dreigen met vuurwapen  <sup> 1   Verhoging geldt ook indien WWM-feit apart tenlastegelegd wordt.    </sup> | + 12 mnd  | + 12 mnd  |
+| Dreigen met vuurwapen<sup> 1  Verhoging geldt ook indien WWM-feit apart tenlastegelegd wordt.  </sup>   | + 12 mnd  | + 12 mnd  |
 | --- | --- | --- |
 | Vermomming  | + 3 mnd  | + 3 mnd  |
-| Vastbinden/opsluiten  <sup> 2   Tenzij apart tenlastegelegd als 282 Sr.    </sup> | + 6 mnd  | + 6 mnd  |
+| Vastbinden/opsluiten<sup> 2  Tenzij apart tenlastegelegd als 282 Sr.  </sup>   | + 6 mnd  | + 6 mnd  |
 | Zwaar lichamelijk letsel  | + 12 mnd  | + 12 mnd  |
 |  *Subtotaal:*   | --- | --- |
-| Recidive (50%)  <sup> 3   De recidive en de genoemde strafverlagende factoren dienen te worden berekend over het tot dan toe verkregen subtotaal.    </sup> | + 50%  | + 50%  |
+| Recidive (50%)<sup> 3  De recidive en de genoemde strafverlagende factoren dienen te worden berekend over het tot dan toe verkregen subtotaal.  </sup>   | + 50%  | + 50%  |
 |  *Meerdere overvallen*   | --- | --- |
 | Per overval  | + 50% tov zwaarste delict  | + 50% tov zwaarste delict  |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Voor meerderjarigen is gekozen voor een basisuitgangspunt voor overvallen op bed
 | Medeplichtigheid  | - 33%  | - 33%  |
 | Voorbereiding  | - 50%  | - 50%  |
 | --- | --- | --- |
-| *Overige*, zoals samenloop met andere delicten, meermalen recidive, mate van professionaliteit, toegang verschaft door middel van oplichting/misleiding, lange duur, letsel niet zijnde zwaar lichamelijk letsel, fatale afloop, mate van geweld en/of intimidatie, kwetsbaar slachtoffer, hulpeloos achterlaten slachtoffer e.d.  | maatwerk  | Maatwerk  |
+|  *Overige*, zoals samenloop met andere delicten, meermalen recidive, mate van professionaliteit, toegang verschaft door middel van oplichting/misleiding, lange duur, letsel niet zijnde zwaar lichamelijk letsel, fatale afloop, mate van geweld en/of intimidatie, kwetsbaar slachtoffer, hulpeloos achterlaten slachtoffer e.d.  | maatwerk  | Maatwerk  |
 
 Rekenvoorbeelden Overval op juwelier door 2 personen, met dreiging vuurwapen, documentatie soortgelijke feiten: Bedrijf 2 jaar, medeplegen 8 mnd, vuurwapen 12 mnd = 3 jr en 8 mnd, recidive + 50% = eis: 5 jaar en 6 mnd gevangenisstraf. Idem, maar dan poging: 3 jaar en 8 mnd Overval op woning met 3 daders, waarvan 1 op uitkijk. Slaan en schoppen, vastbinden, geen recidive: Woning 3 jaar, medeplegen 12 mnd, vastbinden 6 mnd = eis 4 jaar en 6 mnd. Medeplichtige: 3 jaar    
 
