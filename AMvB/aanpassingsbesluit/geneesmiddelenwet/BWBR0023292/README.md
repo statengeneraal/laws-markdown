@@ -16,125 +16,162 @@ Hebben goedgevonden en verstaan:
 
 ####Volksgezondheid, Welzijn en Sport
 
-### Artikel  1.1  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit actieve implantaten.   
+### Artikel  1.1  
+Materieel uitgewerkt per 01-07-2009 
+
+Wijzigt het Besluit actieve implantaten. 
 
 ### Artikel  1.2  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit medische hulpmiddelen.   
+Wijzigt het Besluit medische hulpmiddelen. 
 
 ### Artikel  1.3  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit gesteriliseerde medische hulpmiddelen in ziekenhuizen.   
+Wijzigt het Besluit gesteriliseerde medische hulpmiddelen in ziekenhuizen. 
 
 ### Artikel  1.4  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Opiumwetbesluit.   
+Wijzigt het Opiumwetbesluit. 
 
 ### Artikel  1.5  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit opleidingseisen apotheker.   
+Wijzigt het Besluit opleidingseisen apotheker. 
 
 ### Artikel  1.6  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit opleiding en deskundigheidsgebied apothekersassistent.   
+Wijzigt het Besluit opleiding en deskundigheidsgebied apothekersassistent. 
 
 ### Artikel  1.7  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit zorgverzekering.   
+Wijzigt het Besluit zorgverzekering. 
 
 ### Artikel  1.8  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.   
+Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG. 
 
 ### Artikel  1.9  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Warenwetbesluit Kruidenpreparaten.   
+Wijzigt het Warenwetbesluit Kruidenpreparaten. 
 
 ### Artikel  1.10  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Warenwetbesluit Verpakte waters.   
+Wijzigt het Warenwetbesluit Verpakte waters. 
 
 ### Artikel  1.11  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Warenwetbesluit voedingssupplementen.   
+Wijzigt het Warenwetbesluit voedingssupplementen. 
 
 ### Artikel  1.12  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten.   
+Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten. 
 
 ### Artikel  1.13  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit maatschappelijke ondersteuning.   
+Wijzigt het Besluit maatschappelijke ondersteuning. 
 
 ### Artikel  1.14  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut.   
+Wijzigt het Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut. 
 
 ### Artikel  1.15  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit hersendoodprotocol.   
+Wijzigt het Besluit hersendoodprotocol. 
 
 ### Artikel  1.16  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit donorregister.   
+Wijzigt het Besluit donorregister. 
 
 ### Artikel  1.17  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen.   
+Wijzigt het Besluit centrale beoordeling medisch-wetenschappelijk onderzoek met mensen. 
 
 ### Hoofdstuk  2  
 
 ####Landbouw, Natuur en Voedselkwaliteit
 
-### Artikel  2.1  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Diergeneesmiddelenbesluit.   
+### Artikel  2.1  
+Materieel uitgewerkt per 01-07-2009 
+
+Wijzigt het Diergeneesmiddelenbesluit. 
 
 ### Hoofdstuk  3  
 
 ####Sociale Zaken en Werkgelegenheid
 
-### Artikel  3.1  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Veiligheidsinformatiebladenbesluit Wet milieugevaarlijke stoffen.   
+### Artikel  3.1  
+Materieel uitgewerkt per 01-07-2009 
+
+Wijzigt het Veiligheidsinformatiebladenbesluit Wet milieugevaarlijke stoffen. 
 
 ### Hoofdstuk  4  
 
 ####Verkeer en Waterstaat
 
-### Artikel  4.1  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit dagboeken voor schepen 1970.   
+### Artikel  4.1  
+Materieel uitgewerkt per 01-07-2009 
+
+Wijzigt het Besluit dagboeken voor schepen 1970. 
 
 ### Hoofdstuk  5  
 
 ####Volkshuisvesting, Ruimtelijke Ordening en Milieu
 
-### Artikel  5.1  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Kennisgevingsbesluit Wet milieugevaarlijke stoffen.   
+### Artikel  5.1  
+Materieel uitgewerkt per 01-07-2009 
+
+Wijzigt het Kennisgevingsbesluit Wet milieugevaarlijke stoffen. 
 
 ### Artikel  5.2  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen.   
+Wijzigt het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen. 
 
 ### Artikel  5.3  
+Materieel uitgewerkt per 01-07-2009 
 
-Wijzigt het Besluit beheer verpakkingen en papier en karton.   
+Wijzigt het Besluit beheer verpakkingen en papier en karton. 
 
 ### Hoofdstuk  6  
 
 ####Slotbepalingen
 
-### Artikel  6.1  
+Materieel uitgewerkt per 01-07-2009 
 
-Indien het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van Wet, houdende vaststelling van een nieuwe Geneesmiddelenwet (Kamerstukken II, 2003/2004, 29 359), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.  
+### Artikel  6.1  
+Materieel uitgewerkt per 01-07-2009 
+
+Indien het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van Wet, houdende vaststelling van een nieuwe Geneesmiddelenwet (Kamerstukken II, 2003/2004, 29 359), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking. 
 
 ### Artikel  6.2  
+Materieel uitgewerkt per 01-07-2009 
 
-Dit besluit wordt aangehaald als: Aanpassingsbesluit Geneesmiddelenwet.  
+Dit besluit wordt aangehaald als: Aanpassingsbesluit Geneesmiddelenwet. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -147,5 +184,5 @@ A. Klink
 
 de *twaalfde* april 2007 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

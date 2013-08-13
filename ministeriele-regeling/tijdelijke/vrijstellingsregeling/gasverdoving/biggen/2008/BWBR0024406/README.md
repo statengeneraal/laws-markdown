@@ -11,34 +11,34 @@ Besluit:
 ### Artikel  1  
 
 1.  Voor de verdoving van biggen kan een gasmengsel worden toegepast waarvoor bij [artikel 3.12 van de Regeling diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) een vrijstelling is verleend.   
-2.  Deze regeling berust mede op [artikel 3.16 van het Besluit diergeneesmiddelen](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).   
+2.  Deze regeling berust mede op [artikel 3.16 van het Besluit diergeneesmiddelen](../../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
 
 ### Artikel  2  
 
-Het toepassen van het gasmengsel, bedoeld in artikel 1, geschiedt ten behoeve van castratie van biggen die niet ouder zijn dan zeven dagen en voorafgaand aan die castratie. Castratie wordt uitgevoerd onder volledige verdoving.  
+Het toepassen van het gasmengsel, bedoeld in artikel 1, geschiedt ten behoeve van castratie van biggen die niet ouder zijn dan zeven dagen en voorafgaand aan die castratie. Castratie wordt uitgevoerd onder volledige verdoving. 
 
 ### Artikel  4  
 
-Het gasmengsel, bedoeld in artikel 1, wordt toegepast door middel van een gasverdovingsapparaat. Het gasverdovingsapparaat, bedoeld in het eerste lid, is voorzien van een zodanige beveiliging dat biggen voldoende lang aan het gasmengsel worden blootgesteld om de castratie onder volledige verdoving te kunnen uitvoeren en dat biggen niet langer dan twee minuten aan het gasmengsel worden blootgesteld.  
+Het gasmengsel, bedoeld in artikel 1, wordt toegepast door middel van een gasverdovingsapparaat. Het gasverdovingsapparaat, bedoeld in het eerste lid, is voorzien van een zodanige beveiliging dat biggen voldoende lang aan het gasmengsel worden blootgesteld om de castratie onder volledige verdoving te kunnen uitvoeren en dat biggen niet langer dan twee minuten aan het gasmengsel worden blootgesteld. 
 
 ### Artikel  5  
 
-Degene die het gasverdovingsapparaat, bedoeld in artikel 4, bedient, heeft zich voorafgaand laten scholen in het verantwoord toepassen van het gasmengsel, bedoeld in artikel 1, bij biggen met dit apparaat.  
+Degene die het gasverdovingsapparaat, bedoeld in artikel 4, bedient, heeft zich voorafgaand laten scholen in het verantwoord toepassen van het gasmengsel, bedoeld in artikel 1, bij biggen met dit apparaat. 
 
 ### Artikel  6  
 
-De eigenaar of houder van biggen meldt vermoedelijke bijwerkingen aan het Bureau Diergeneesmiddelen bedoeld in [artikel 1.1 van de Regeling diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md).  
+De eigenaar of houder van biggen meldt vermoedelijke bijwerkingen aan het Bureau Diergeneesmiddelen bedoeld in [artikel 1.1 van de Regeling diergeneesmiddelen](../../../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md). 
 
 ### Artikel  7  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.   
-2.  Deze regeling vervalt met ingang van 1 januari 2015.   
+2.  Deze regeling vervalt met ingang van 1 januari 2015.  
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Tijdelijke vrijstellingsregeling gasverdoving biggen 2008.  
+Deze regeling wordt aangehaald als: Tijdelijke vrijstellingsregeling gasverdoving biggen 2008. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg   
+G. Verburg     
