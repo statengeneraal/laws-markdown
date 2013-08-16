@@ -25,7 +25,7 @@ e. de afdeling Toezicht Publieke sector;
 
 f. de afdeling Toezicht Private sector;  
 
-g. de sectie Internationaal.    
+g. de sectie Internationaal.   
 
 ### Artikel  2  
 
@@ -43,7 +43,7 @@ e. institutionele kwesties zoals civielrechtelijke overeenkomsten, mandaatregeli
 
 f. het optreden als hoofd van de dienst en het bevoegd gezag voor de niet-Collegeleden;  
 
-g. het optreden als hoofd van de sectie Internationaal.    
+g. het optreden als hoofd van de sectie Internationaal.   
 
 ### Artikel  3  
 
@@ -63,7 +63,7 @@ f. een kenniscentrum;
 
 g. opinieonderzoek;  
 
-h. (inter)nationale contacten met collega-toezichthouders op het gebied van communicatie.    
+h. (inter)nationale contacten met collega-toezichthouders op het gebied van communicatie.   
 
 ### Artikel  4  
 
@@ -75,7 +75,7 @@ b. rechtsbescherming: heroverwegingen, bezwaarschriften, rechtszaken;
 
 c. het adviseren van de directeur inzake institutionele kwesties: w.o. civielrechtelijke overeenkomsten en aansprakelijkheid, opstellen van beleidsregels en mandaatregelingen, advies over samenwerking met andere organisaties;  
 
-d. interne advisering: privacyrecht en [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+d. interne advisering: privacyrecht en [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  5  
 
@@ -93,7 +93,7 @@ e. kwaliteitszorg en beveiligingsbeleid;
 
 f. personeelszaken;  
 
-g. secretariaat.    
+g. secretariaat.   
 
 ### Artikel  6  
 
@@ -124,7 +124,7 @@ f. risico-analyse en informatie-analyse;
 
 g. afhandelen van meldingen;  
 
-h. voorlichting.     
+h. voorlichting.    
 
 ### Artikel  7  
 
@@ -153,11 +153,11 @@ e. risico-analyse en informatie-analyse;
 
 f. afhandelen van meldingen;  
 
-g. voorlichting.     
+g. voorlichting.    
 
 ### Artikel  8  
 
-De sectie Internationaal is belast met de internationale taken van het College bescherming persoonsgegevens.  
+De sectie Internationaal is belast met de internationale taken van het College bescherming persoonsgegevens. 
 
 ### Paragraaf  2  
 
@@ -165,7 +165,7 @@ De sectie Internationaal is belast met de internationale taken van het College b
 
 ### Artikel  9  
 
-Aan de voorzitter en de twee andere leden van het College bescherming persoonsgegevens wordt mandaat en machtiging verleend om namens het College besluiten te nemen of andere handelingen, niet zijnde privaatrechtelijke rechtshandelingen, te verrichten ten aanzien van aangelegenheden die, blijkens de via de website van het College bekendgemaakte ‘Regeling taakverdeling en onderlinge vervanging CBP’ en de daarbij behorende bijlage, tot hun werkterrein behoren, tenzij deze naar aard of inhoud door het College dienen te worden afgedaan, zoals de hoofdlijnen van het door het College te voeren beleid, de daarbij te stellen prioriteiten, het vaststellen van te hanteren beleidsregels, het besluiten tot het entameren van breed opgezette opinieonderzoeken of andere onderzoeken, die betrekking hebben op onderwerpen die het taakgebied en het daarmee samenhangende werkterrein van de afzonderlijke collegeleden overstijgen.  
+Aan de voorzitter en de twee andere leden van het College bescherming persoonsgegevens wordt mandaat en machtiging verleend om namens het College besluiten te nemen of andere handelingen, niet zijnde privaatrechtelijke rechtshandelingen, te verrichten ten aanzien van aangelegenheden die, blijkens de via de website van het College bekendgemaakte ‘Regeling taakverdeling en onderlinge vervanging CBP’ en de daarbij behorende bijlage, tot hun werkterrein behoren, tenzij deze naar aard of inhoud door het College dienen te worden afgedaan, zoals de hoofdlijnen van het door het College te voeren beleid, de daarbij te stellen prioriteiten, het vaststellen van te hanteren beleidsregels, het besluiten tot het entameren van breed opgezette opinieonderzoeken of andere onderzoeken, die betrekking hebben op onderwerpen die het taakgebied en het daarmee samenhangende werkterrein van de afzonderlijke collegeleden overstijgen. 
 
 ### Artikel  10  
 
@@ -181,11 +181,11 @@ c. besluiten betreffende het opleggen van een bestuurlijke sanctie;
 
 d. beslissingen op bezwaar naar aanleiding van een besluit genomen door het College of in mandaat genomen door de voorzitter, zijn plaatsvervanger dan wel door één van de twee andere leden van het College;  
 
-e. beroepschriften naar aanleiding van een besluit genomen door het College of in mandaat genomen door de voorzitter, zijn plaatsvervanger dan wel door één van de twee andere leden van het College.     
+e. beroepschriften naar aanleiding van een besluit genomen door het College of in mandaat genomen door de voorzitter, zijn plaatsvervanger dan wel door één van de twee andere leden van het College.    
 
 ### Artikel  11  
 
-Ten aanzien van aangelegenheden die tot het werkterrein van het College, de voorzitter of van elk van de twee andere leden van het College behoren, kunnen de in de bijlage bij dit besluit genoemde functionarissen alle andere handelingen dan privaatrechtelijke rechtshandelingen verrichten, die nodig zijn ter voorbereiding van het nemen van een (tussen)beslissing.  
+Ten aanzien van aangelegenheden die tot het werkterrein van het College, de voorzitter of van elk van de twee andere leden van het College behoren, kunnen de in de bijlage bij dit besluit genoemde functionarissen alle andere handelingen dan privaatrechtelijke rechtshandelingen verrichten, die nodig zijn ter voorbereiding van het nemen van een (tussen)beslissing. 
 
 ### Paragraaf  3  
 
@@ -193,7 +193,7 @@ Ten aanzien van aangelegenheden die tot het werkterrein van het College, de voor
 
 ### Artikel  12  
 
-Aan de functionarissen van de afdeling Juridische Zaken, met uitzondering van de juridisch secretaris, wordt machtiging verleend het College te vertegenwoordigen bij gerechtelijke procedures.  
+Aan de functionarissen van de afdeling Juridische Zaken, met uitzondering van de juridisch secretaris, wordt machtiging verleend het College te vertegenwoordigen bij gerechtelijke procedures. 
 
 ### Paragraaf  4  
 
@@ -201,7 +201,7 @@ Aan de functionarissen van de afdeling Juridische Zaken, met uitzondering van de
 
 ### Artikel  13  
 
-Bij afwezigheid of ontstentenis van één van de hoofden van de afdeling als bedoeld in artikel 1 sub b, c, d, e, f en g zijn de overige hoofden bevoegd elkaar te vervangen.  
+Bij afwezigheid of ontstentenis van één van de hoofden van de afdeling als bedoeld in artikel 1 sub b, c, d, e, f en g zijn de overige hoofden bevoegd elkaar te vervangen. 
 
 ### Paragraaf  5  
 
@@ -212,7 +212,7 @@ Bij afwezigheid of ontstentenis van één van de hoofden van de afdeling als bed
 1.  Er is een klachtencoördinator die klachten behandelt als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 2.  In geval van afwezigheid of ontstentenis wordt de klachtencoördinator vervangen.   
 3.  Aan de klachtencoördinator en zijn vervanger wordt mandaat en machtiging verleend voor de handelingen in het kader van het behandelen van klachten als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van het toepassen van [artikel 9:12, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Het toepassen van [artikel 9:12, eerste lid van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft voorbehouden aan de voorzitter van het College, de directeur als bedoeld in artikel 1 sub a en de hoofden van de afdeling als bedoeld in artikel 1 sub b, c, d, e, f en g .   
+4.  Het toepassen van [artikel 9:12, eerste lid van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft voorbehouden aan de voorzitter van het College, de directeur als bedoeld in artikel 1 sub a en de hoofden van de afdeling als bedoeld in artikel 1 sub b, c, d, e, f en g .  
 
 ### Paragraaf  6  
 
@@ -222,11 +222,11 @@ Bij afwezigheid of ontstentenis van één van de hoofden van de afdeling als bed
 
 1.  De ondertekening van documenten die door de voorzitter van het College krachtens het in artikel 9 verleende mandaat of de verleende machtiging, worden afgedaan, geschiedt als volgt: ‘Het College bescherming persoonsgegevens, Voor het College, De Voorzitter, (Gevolgd door de handtekening en de naam van de voorzitter)’.   
 2.  De ondertekening van documenten die door de aangewezen plaatsvervanger van de voorzitter van het College worden afgedaan, geschiedt als volgt: ‘Het College bescherming persoonsgegevens, Voor het College, De plv. voorzitter, (Gevolgd door de handtekening en de naam van het collegelid)’.   
-3.  De ondertekening van documenten die door een van de twee andere leden van het College, krachtens het in artikel 9 verleende mandaat of de verleende machtiging, worden afgedaan, geschiedt als volgt: ‘Het College bescherming persoonsgegevens, Voor het College, (Gevolgd door de handtekening, de naam van het lid en de vermelding van de functie)’.   
+3.  De ondertekening van documenten die door een van de twee andere leden van het College, krachtens het in artikel 9 verleende mandaat of de verleende machtiging, worden afgedaan, geschiedt als volgt: ‘Het College bescherming persoonsgegevens, Voor het College, (Gevolgd door de handtekening, de naam van het lid en de vermelding van de functie)’.  
 
 ### Artikel  16  
 
-De ondertekening van documenten die krachtens daartoe verleende mandaat of verleende machtiging door een functionaris van het secretariaat worden afgedaan, geschiedt als volgt: ‘Namens het College bescherming persoonsgegevens, (Gevolgd door de handtekening, de naam en de vermelding van de functie van de betrokken ambtenaar van het secretariaat )’.  
+De ondertekening van documenten die krachtens daartoe verleende mandaat of verleende machtiging door een functionaris van het secretariaat worden afgedaan, geschiedt als volgt: ‘Namens het College bescherming persoonsgegevens, (Gevolgd door de handtekening, de naam en de vermelding van de functie van de betrokken ambtenaar van het secretariaat )’. 
 
 ### Paragraaf  7  
 
@@ -234,7 +234,7 @@ De ondertekening van documenten die krachtens daartoe verleende mandaat of verle
 
 ### Artikel  17  
 
-Aan de hoofden van de afdelingen als bedoeld in artikel 1 sub b, c, e, f en g komt de bevoegdheid toe documenten te ondertekenen ten aanzien van aangelegenheden, die door het College dan wel door de voorzitter of door één van de andere twee leden van het College krachtens het in artikel 9 verleende mandaat of de verleende machtiging zijn afgedaan, tenzij de aard van de aangelegenheid zich hiertegen verzet.  
+Aan de hoofden van de afdelingen als bedoeld in artikel 1 sub b, c, e, f en g komt de bevoegdheid toe documenten te ondertekenen ten aanzien van aangelegenheden, die door het College dan wel door de voorzitter of door één van de andere twee leden van het College krachtens het in artikel 9 verleende mandaat of de verleende machtiging zijn afgedaan, tenzij de aard van de aangelegenheid zich hiertegen verzet. 
 
 ### Paragraaf  8  
 
@@ -242,19 +242,19 @@ Aan de hoofden van de afdelingen als bedoeld in artikel 1 sub b, c, e, f en g ko
 
 ### Artikel  18  
 
-Het Besluit mandaat en machtiging voorzitter en andere leden CBP (*Stcrt.* 2006, 83) wordt ingetrokken.  
+Het Besluit mandaat en machtiging voorzitter en andere leden CBP (*Stcrt.* 2006, 83) wordt ingetrokken. 
 
 ### Artikel  19  
 
-Het Besluit mandaat en machtiging secretariaat CBP (*Stcrt.* 2006, 83) en de daarbij behorende bijlage (laatstelijk gewijzigd *Stcrt.* 2009, 14809) worden ingetrokken.  
+Het Besluit mandaat en machtiging secretariaat CBP (*Stcrt.* 2006, 83) en de daarbij behorende bijlage (laatstelijk gewijzigd *Stcrt.* 2009, 14809) worden ingetrokken. 
 
 ### Artikel  20  
 
-Dit besluit treedt op 15 oktober 2012 in werking.  
+Dit besluit treedt op 15 oktober 2012 in werking. 
 
 ### Artikel  21  
 
-Dit besluit wordt aangehaald als Besluit mandaat en machtiging CBP.  
+Dit besluit wordt aangehaald als Besluit mandaat en machtiging CBP. 
 Dit besluit zal, met de toelichting en de bijlage, in de Staatscourant en op de website van het College bescherming persoonsgegevens worden geplaatst.   
 
 Den Haag 
@@ -263,7 +263,7 @@ Den Haag
 De voorzitter van het College bescherming persoonsgegevens, 
 J. Kohnstamm    
 
-### Bijlage  
+### Bijlage 
 
 ####, behorend bij het Besluit mandaat en machtiging CBP
 
@@ -355,4 +355,4 @@ II. Aan de volgende functionarissen, werkzaam bij de genoemde afdelingen van het
 
 – de coördinator front-office;  
 
-– de medewerker front-office.       
+– de medewerker front-office.        
