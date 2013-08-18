@@ -3,13 +3,13 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw, 29 maart 2011 houdende de vaststelling van regels voor een systeem van kostenverevening voor de glastuinbouwsector ter beperking van de emissies van CO2 in de lucht (Verordening PT CO2 sectorsysteem glastuinbouw 2011)
 
 Het bestuur van het Productschap Tuinbouw,  
-gelet op [artikel 96, eerste lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikel 97, eerste lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [artikel 98, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 102](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [126](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [127](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [128 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op artikel 96, eerste lid, artikel 97, eerste lid, artikel 98, tweede lid en de artikelen 102, 104, eerste en derde lid, 126, 127 en 128 van de Wet op de bedrijfsorganisatie;
 
-gelet op de [artikelen 5](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw 2003](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 5 en 12 tot en met 14 van het Instellingsbesluit Productschap Tuinbouw 2003;
 
-gelet op de [artikelen 15.51](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [15.52](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [15.53 van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+gelet op de artikelen 15.51, 15.52 en 15.53 van de Wet milieubeheer;
 
-gelet op [artikel 4 van het Besluit kostenverevening reductie CO <sub>2</sub> -emissies glastuinbouw](../../../../../../../../AMvB/besluit/kostenverevening/reductie/co2-emissies/glastuinbouw/BWBR0030463/README.md);
+gelet op artikel 4 van het Besluit kostenverevening reductie CO <sub>2</sub> -emissies glastuinbouw;
 
 positief advies is ontvangen van:
 
@@ -31,22 +31,22 @@ Besluit:
 
 ### Artikel  1:1  
 
-1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
-2.  In deze verordening worden overgenomen de begripsbepalingen van [artikel 1:1](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md) en [artikel 3:1](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md), en de werkwijze zoals beschreven in [paragraaf 3 van de Verordening PT Algemene Bepalingen 2009](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).   
+1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
+2.  In deze verordening worden overgenomen de begripsbepalingen van artikel 1:1 en artikel 3:1, en de werkwijze zoals beschreven in paragraaf 3 van de Verordening PT Algemene Bepalingen 2009.   
 
 ### Artikel  1:2  
 
 In deze verordening en de daarop berustende bepalingen wordt voorts verstaan onder: 
 
-a. Wet: [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+a. Wet: Wet milieubeheer;  
 
-b. Besluit: [het Besluit kostenverevening reductie CO <sub>2</sub> -emissies glastuinbouw](../../../../../../../../AMvB/besluit/kostenverevening/reductie/co2-emissies/glastuinbouw/BWBR0030463/README.md);  
+b. Besluit: het Besluit kostenverevening reductie CO <sub>2</sub> -emissies glastuinbouw;  
 
-c. PT CO <sub>2</sub> sectorsysteem glastuinbouw: systeem van verevening van kosten verbonden aan het overschrijden van CO <sub>2</sub> -emissies als bedoeld in [artikel 15.51, eerste lid, van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor de in dat artikel bedoelde inrichtingen, die onder de werkingssfeer van het productschap vallen;  
+c. PT CO <sub>2</sub> sectorsysteem glastuinbouw: systeem van verevening van kosten verbonden aan het overschrijden van CO <sub>2</sub> -emissies als bedoeld in artikel 15.51, eerste lid, van de Wet voor de in dat artikel bedoelde inrichtingen, die onder de werkingssfeer van het productschap vallen;  
 
-d. inrichting regime A: inrichting als bedoeld in [artikel 15.52 van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) juncto [artikel 2 van het Besluit](../../../../../../../../AMvB/besluit/kostenverevening/reductie/co2-emissies/glastuinbouw/BWBR0030463/README.md), die onder de werkingssfeer van het productschap valt;  
+d. inrichting regime A: inrichting als bedoeld in artikel 15.52 van de Wet juncto artikel 2 van het Besluit, die onder de werkingssfeer van het productschap valt;  
 
-e. inrichting als bedoeld in [artikel 15.51, eerste lid, van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), die onder de werkingssfeer van het productschap valt en ingevolge [artikel 15.52 van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) juncto [artikel 2 van het Besluit](../../../../../../../../AMvB/besluit/kostenverevening/reductie/co2-emissies/glastuinbouw/BWBR0030463/README.md) geen inrichting regime A is;  
+e. inrichting als bedoeld in artikel 15.51, eerste lid, van de Wet, die onder de werkingssfeer van het productschap valt en ingevolge artikel 15.52 van de Wet juncto artikel 2 van het Besluit geen inrichting regime A is;  
 
 f. emissieaangifte: aangifte van de ondernemer van de CO <sub>2</sub> -jaarvracht van zijn inrichting;  
 
@@ -62,8 +62,8 @@ g. CO <sub>2</sub> -jaarvracht: totale CO <sub>2</sub> -emissie van de inrichtin
 
 ### Artikel  2:1  
 
-1.  Van de inrichtingen waarop een systeem van verevening van kosten als bedoeld in [titel 15.13 van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, registreert het productschap de relevante bedrijfsgegevens voor de uitvoering van het PT CO <sub>2</sub> sectorsysteem glastuinbouw.   
-2.  Ten behoeve van de registratie stelt het productschap een formulier vast en stelt dit ter beschikking van de ondernemers die een of meerdere inrichtingen als bedoeld in [titel 15.13 van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) drijven.   
+1.  Van de inrichtingen waarop een systeem van verevening van kosten als bedoeld in titel 15.13 van de Wet van toepassing is, registreert het productschap de relevante bedrijfsgegevens voor de uitvoering van het PT CO <sub>2</sub> sectorsysteem glastuinbouw.   
+2.  Ten behoeve van de registratie stelt het productschap een formulier vast en stelt dit ter beschikking van de ondernemers die een of meerdere inrichtingen als bedoeld in titel 15.13 van de Wet drijven.   
 3.  De ondernemer, bedoeld in het tweede lid, verstrekt de relevante bedrijfsgegevens van zijn inrichtingen aan het productschap middels het formulier, bedoeld in het tweede lid, en de daarin gevraagde bijlagen.   
 4.  De ondernemer verstrekt de gegevens, bedoeld in het derde lid, binnen de termijn die daarvoor is gesteld in het formulier, bedoeld in het tweede lid.   
 5.  Indien het productschap twijfelt aan de juistheid van de verstrekte gegevens, kan ze daaromtrent aan de ondernemer aanvullende vragen stellen. De ondernemer beantwoordt deze vragen binnen een termijn van 4 weken.   
@@ -109,11 +109,11 @@ b. minder CO <sub>2</sub> heeft geëmitteerd dan 305 ton, kan het productschap d
 
 ### Artikel  2:7  
 
-1.  Op basis van de CO <sub>2</sub> -jaarvracht van de deelnemende inrichtingen stelt het productschap jaarlijks vast hoeveel CO <sub>2</sub> deze inrichtingen gezamenlijk hebben geëmitteerd en hoe dit totaal van CO <sub>2</sub> -emissies zich verhoudt tot de voor de sector vastgestelde emissieruimte, bedoeld in [artikel 15.51, derde lid, van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+1.  Op basis van de CO <sub>2</sub> -jaarvracht van de deelnemende inrichtingen stelt het productschap jaarlijks vast hoeveel CO <sub>2</sub> deze inrichtingen gezamenlijk hebben geëmitteerd en hoe dit totaal van CO <sub>2</sub> -emissies zich verhoudt tot de voor de sector vastgestelde emissieruimte, bedoeld in artikel 15.51, derde lid, van de Wet.   
 2.  De voorzitter is, met in achtneming van het eerste lid, bevoegd nadere regels te stellen ten aanzien van de wijze waarop de kosten van overschrijding van de emissieruimte en de kosten voor het in stand houden en het uitvoeren van het PT CO <sub>2</sub> sectorsysteem glastuinbouw over een kalenderjaar worden verrekend met de aan het sectorsysteem deelnemende ondernemers en hun inrichtingen.   
 3.  De afrekening van de kosten van overschrijding van de emissieruimte vindt plaats op basis van: 
 
-de formule, bedoeld in [artikel 3 van het Besluit](../../../../../../../../AMvB/besluit/kostenverevening/reductie/co2-emissies/glastuinbouw/BWBR0030463/README.md);  
+de formule, bedoeld in artikel 3 van het Besluit;  
 
 de kostprijs van emissierechten als gehanteerd in de handel in broeikasgasemissierechten.     
 
@@ -127,7 +127,7 @@ Het bepaalde bij of krachtens deze verordening, waarbij aan ondernemers verplich
 
 ### Artikel  2:9  
 
-1.  Op overtreding van het bepaalde bij deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).   
+1.  Op overtreding van het bepaalde bij deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.   
 2.  Als bevoegd tuchtgerecht is het Tuchtgerecht Akkerbouwproductschappen aangewezen.   
 3.  Het bestuur kan een coördinator tuchtrecht aanwijzen.   
 
@@ -157,15 +157,19 @@ secretaris
 
 ### Bijlage  I  
 
-####Methode voor de bepaling van de CO <sub>2</sub> -jaarvracht, bedoeld in artikel 1:2, onderdeel g .
+####Methode voor de bepaling van de CO <sub>2</sub> -jaarvracht, bedoeld in artikel 1:2, onderdeel g 
 
-1. De CO <sub>2</sub> -jaarvracht wordt bepaald door de CO <sub>2</sub> -emissie behorende bij het totale gasverbruik van de inrichting (Eg) en behorende bij warmte afgenomen van een inrichting waarop de [titels 15.13](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [16.2 van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing zijn (Ew) te verminderen met de CO <sub>2</sub> -emissie gerelateerd aan het gasverbruik ten behoeve van de totale elektriciteitslevering vanuit de inrichting aan het elektriciteitsnet (Ee);  
+### A  
+
+####Inrichting regime A en inrichting die niet heeft voldaan aan artikel 2:1, derde lid .
+
+1. De C0 <sub>2</sub> -jaarvracht van een inrichting regime A en van een inrichting die niet heeft voldaan aan artikel 2:1, derde lid, wordt bepaald door de CO <sub>2</sub> -emissie behorende bij het totale gasverbruik van de inrichting (Eg) en behorende bij warmte afgenomen van een inrichting waarop de titels 15.13 en 16.2 van de Wet niet van toepassing zijn (Ew) te verminderen met de CO <sub>2</sub> -emissie gerelateerd aan het gasverbruik ten behoeve van de totale elektriciteitslevering vanuit de inrichting aan het elektriciteitsnet (Ee);  
 
 2. De CO <sub>2</sub> -emissie, in ton CO <sub>2</sub>, gerelateerd aan het totale gasverbruik (Eg) wordt berekend volgens de formule: An x 31.65 x 56.8 / 1.000.000. Hierbij staat An voor de in het betrokken kalenderjaar verbruikte hoeveelheid gas in normaal kubieke meters;  
 
 3. De CO <sub>2</sub> -emissie, in ton CO <sub>2</sub>, gerelateerd aan de aan het elektriciteitsnet geleverde elektriciteit (Ee) wordt berekend volgens de formule: B x 0,2736. B staat voor de in het betrokken kalenderjaar aan het elektriciteitsnet geleverde elektriciteit in megawattuur.  
 
-4. De CO <sub>2</sub> -emissie, in ton CO <sub>2</sub>, gerelateerd aan de warmte afgenomen van een inrichting waar de [titels 15.13](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [16.2 van de Wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet op van toepassing zijn (Ew), wordt berekend op basis van de door de toeleverancier van de warmte aangeleverde gegevens over: 
+4. De CO <sub>2</sub> -emissie, in ton CO <sub>2</sub>, gerelateerd aan de warmte afgenomen van een inrichting waar de titels 15.13 en 16.2 van de Wet niet op van toepassing zijn (Ew), wordt berekend op basis van de door de toeleverancier van de warmte aangeleverde gegevens over: 
 
 het totale gasgebruik van de installatie;  
 
@@ -175,4 +179,13 @@ de totale warmte productie van de installatie;
 
 de geleverde hoeveelheid warmte aan de inrichting waarvan de jaarvracht bepaald moet worden.   Het PT zal hiervoor een formulier samenstellen. Indien bovengenoemde gegevens niet beschikbaar zijn, wordt de Ew in ton CO <sub>2</sub> bepaald op basis van een gecertificeerde meting van de toegeleverde hoeveelheid warmte in Gigajoule (GJ) vermenigvuldigd met de factor 0,055 ton CO <sub>2</sub> /GJ.  
 
-5. Het gasverbruik van de inrichting wordt bepaald op basis van de jaarfactuur van de energiemaatschappij en op basis van andere schriftelijke afleveringsbewijzen van gas.   
+5. Het gasverbruik van de inrichting wordt bepaald op basis van de jaarfactuur van de energiemaatschappij en op basis van andere schriftelijke afleveringsbewijzen van gas.  
+
+6. De hoeveelheid door de inrichting aan het elektriciteitsnet geleverde elektriciteit wordt bepaald op basis van de eindafrekening voor het betrokken jaar van de energiemaatschappij.    
+
+### B  
+
+####Inrichting regime B.
+
+De C0 <sub>2</sub> -jaarvracht van een inrichting regime B is gelijk aan de hoeveelheid C0 <sub>2</sub> -emissies die volgt uit de registratie van de inrichting, bedoeld in artikel 2:1.  
+
