@@ -5,23 +5,23 @@
 De Minister van Sociale Zaken en Werkgelegenheid  
 Gelet op [artikel 3:2, derde lid, van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md);
 Besluit:     
-### §  1  
+### § 1  
 
 ####Algemene bepalingen
 
-### Artikel  1:1  
+### Artikel 1:1  
 
 ####Definities
 
 1.  In deze regeling wordt verstaan onder: 
 
-– alternatieve sanctie: 
+–alternatieve sanctie:
 
-a. de deelname aan een project, bedoeld in [artikel 77e, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+a. de deelname aan een project, bedoeld in [artikel 77e, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md); 
 
-b. de vervulling van de voorwaarde, bedoeld in [artikel 77f, eerste lid, onder b, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of  
+b. de vervulling van de voorwaarde, bedoeld in [artikel 77f, eerste lid, onder b, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of 
 
-c. de uitvoering van de alternatieve sanctie, bedoeld in [artikel 77h, tweede lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);    
+c. de uitvoering van de alternatieve sanctie, bedoeld in [artikel 77h, tweede lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md); 
 
 – arbeid van lichte aard: werkzaamheden die niet te zwaar zijn, geen gevaar opleveren of niet schadelijk zijn voor de gezondheid;  
 
@@ -35,7 +35,7 @@ c. de uitvoering van de alternatieve sanctie, bedoeld in [artikel 77h, tweede li
 
 – vakantieweek: een week waarin geen onderwijs wordt gevolgd;  
 
-– voorarbeid: de met de uitvoering samenhangende arbeid bestaande uit de noodzakelijke repetities alsmede de wacht- en rusttijden.     
+– voorarbeid: de met de uitvoering samenhangende arbeid bestaande uit de noodzakelijke repetities alsmede de wacht- en rusttijden.    
 2.  Geen arbeid van lichte aard is in ieder geval arbeid waarbij: 
 
 a. op grond van de [artikelen 3.46](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.105](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [4.106](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [6.27](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md), [7.39](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) of [9.36 van het Arbeidsomstandighedenbesluit](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) voor jeugdige werknemers arbeid is verboden dan wel daaraan bijzondere vereisten zijn gesteld;  
@@ -50,15 +50,20 @@ e. door een kind lasten worden getild van meer dan 10 kilogram;
 
 f. door een kind voorwerpen worden geduwd of getrokken waarbij meer dan 20 kilogram kracht nodig is, of  
 
-g. door een kind permanent persoonlijke beschermingsmiddelen moeten worden gedragen.     
-3.  Onacceptabele veiligheidsrisico’s voor een kind of zijn omgeving zijn in ieder geval aanwezig bij werkzaamheden met of in de omgeving van mechanische arbeidsmiddelen waarbij brand-, elektrocutie-, knel-, plet-, snij- of valgevaar bestaat; alsmede bij werkzaamheden waarbij op grond van [artikel 1.37 van het Arbeidsomstandighedenbesluit](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) voor jeugdige werknemers bijzondere vereisten zijn gesteld.   
-4.  Alvorens toegestane arbeid aan een lopende band kan worden verricht is een lopendebandovereenkomst gesloten tussen de werkgever en het kind. De lopendebandovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.   
+g. door een kind permanent persoonlijke beschermingsmiddelen moeten worden gedragen om het risico tegen te gaan;  
 
-### §  2  
+h. door een kind werkzaamheden worden verricht als zeevarende als bedoeld in de [Wet zeevarenden](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), op een zeeschip als bedoeld in [artikel 2 van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), met dien verstande dat personen die op grond van [artikel 1.2 van de Regeling zeevarenden](../../../../../ministeriele-regeling/regeling/zeevarenden/BWBR0032140/README.md) zijn uitgezonderd, niet als zeevarende worden aangemerkt.    
+3.  Onacceptabele veiligheidsrisico's voor een kind of zijn omgeving zijn in ieder geval aanwezig bij werkzaamheden: 
+
+a. met of in de omgeving van mechanische arbeidsmiddelen waarbij brand-, elektrocutie-, knel-, plet-, snij- of valgevaar bestaat, of  
+
+b. waarbij op grond van [artikel 1.37 van het Arbeidsomstandighedenbesluit](../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) voor jeugdige werknemers bijzondere vereisten zijn gesteld.    
+
+### § 2  
 
 ####Alternatieve sanctie
 
-### Artikel  2:1  
+### Artikel 2:1  
 
 Indien in het kader van een alternatieve sanctie een kind van 12 jaar tot en met 14 jaar niet industriële hulparbeid van lichte aard verricht of een kind van 15 jaar niet industriële arbeid van lichte aard verricht, dan wordt in acht genomen, dat dat kind: 
 
@@ -74,67 +79,76 @@ e. tijdens een vakantieweek niet langer arbeid verricht dan 35 uren per week, wa
 
 f. gedurende ten hoogste 6 vakantieweken per jaar arbeid verricht;  
 
-g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.    
+g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.   
 
-### §  3  
+###§ 3 
 
 ####Arbeid naast en in samenhang met onderwijs
 
-### Artikel  3:1  
+### Artikel 3:1  
 
 1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst, bedoeld in [artikel 35 van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), gesloten, onderscheidenlijk een beslissing van burgemeester en wethouders, waarbij goedkeuring wordt verleend op een verzoek tot vervangende leerplicht, bedoeld in de [artikelen 3a](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) en [3b van de Leerplichtwet 1969](../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md). De stageovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.   
 2.  Indien een kind van 14 jaar of ouder arbeid van lichte aard verricht in het kader van een schoolwerkplan van zijn school onderscheidenlijk een programma in het kader van de vervangende leerplicht, dan wordt in acht genomen, dat dat kind: 
 
-a. op zondag geen arbeid verricht;  
+a.  op zondag geen arbeid verricht; 
 
-b. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is.  
+b.  een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is. 
 
-c. niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag;  
+c.  niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag; 
 
-d. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.     
+d.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.    
 3.  Voor de toepassing van dit artikel geldt de tijd waarop een kind als bedoeld in het tweede lid onderwijs volgt of pleegt te volgen, de onderbrekingen inbegrepen, als arbeidstijd.   
+4.  Voor de toepassing van dit artikel wordt in afwijking van artikel 1:1, tweede lid, onder arbeid van lichte aard mede verstaan arbeid waarbij door een kind permanent persoonlijke beschermingsmiddelen moeten worden gedragen. 
 
-### §  4  
+### Artikel  3:2  
 
-####Niet-industriële (hulp)arbeid van lichte aard, niet zijnde uitvoeringen, tijdens een schoolweek
+####Maatschappelijke stage tijdens een schoolweek voor 13 en 14 jarigen
 
-####Kind van 13 of 14 jaar
+1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in artikel 30a van het Inrichtingsbesluit W.V.O., gesloten.   
+2.  Indien een kind van 13 of 14 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind: 
 
-### Artikel  4:1  
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
 
-1.  Indien een kind van 13 of 14 jaar tijdens een schoolweek niet-industriële hulparbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind: 
+b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
 
-a. op zondag geen arbeid verricht;  
+c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;  
 
-b. op dagen dat onderwijs wordt gevolgd geen arbeid verricht;  
+d. op niet meer dan ten hoogste 5 dagen arbeid verricht;  
 
-c. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;  
+e. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;  
 
-d. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 7 uren per dag;  
+f. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen;  
 
-e. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.     
-2.  Met inachtneming van het eerste lid, onder a, c en e, wordt, indien een kind van 13 of 14 jaar tijdens een schoolweek incidenteel niet-industriële hulparbeid van lichte aard verricht, die bestaat uit: 
+g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.    
 
-a. het oppassen bij familie of kennissen,  
+### Artikel  3:3  
 
-b. het wassen van auto’s van derden,  
+####Maatschappelijke stage tijdens een vakantieweek voor 13 en 14 jarigen
 
-c. het behulpzaam zijn bij het verspreiden van folders en huis- aan huisbladen, in een gezinshuishouding of op een kinderboerderij,   tevens in acht genomen, dat dat kind: 
+1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in artikel 30a van het Inrichtingsbesluit W.V.O., gesloten.   
+2.  Indien een kind van 13 of 14 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind: 
 
-1°. op niet meer dan ten hoogste 5 dagen arbeid verricht;  
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
 
-2°. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen.     
-3.  Met inachtneming van het eerste lid, onderdelen a, c en e, wordt, indien tijdens een schoolweek hulparbeid van lichte aard in de landbouw of in een winkel die met een woonhuis één geheel vormt, wordt verricht door een eigen, aangehuwd, pleeg- of adoptiekind van 13 of 14 jaar van de verantwoordelijke persoon, dat in dat woonhuis bij hem inwoont, tevens in acht genomen, dat dat kind: 
+b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
 
-a. op niet meer dan ten hoogste 5 dagen arbeid verricht;  
+c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;  
 
-b. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen.     
+d. op niet meer dan ten hoogste 5 dagen arbeid verricht;  
 
-####Kind van 15 jaar
+e. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;  
 
-### Artikel  4:2  
+f. niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag;  
 
-Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind: 
+g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.     
+3.  Een kind van 13 of 14 jaar mag gedurende ten hoogste 4 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 3 vakantieweken aaneengesloten.  
+
+### Artikel  3:4  
+
+####Maatschappelijke stage tijdens een schoolweek voor 15 jarigen
+
+1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in artikel 30a van het Inrichtingsbesluit W.V.O., gesloten.   
+2.  Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind: 
 
 a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
 
@@ -150,234 +164,312 @@ f. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag o
 
 g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.    
 
-### §  5  
+### Artikel  3:5  
 
-####Niet-industriële (hulp)arbeid van lichte aard, niet zijnde uitvoeringen, tijdens een vakantieweek
+####Maatschappelijke stage tijdens een vakantieweek voor 15 jarigen
 
-####Kind van 13 of 14 jaar
+1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een stageovereenkomst als bedoeld in artikel 30a van het Inrichtingsbesluit W.V.O., gesloten.   
+2.  Indien een kind van 15 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht in de vorm van een maatschappelijke stage dan wordt in acht genomen, dat dat kind: 
 
-### Artikel  5:1  
-
-1.  Indien een kind van 13 of 14 jaar tijdens een vakantieweek niet-industriële hulparbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind: 
-
-a. op zondag geen arbeid verricht;  
-
-b. op niet meer dan ten hoogste 5 dagen arbeid verricht;  
-
-c. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;  
-
-d. niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag;  
-
-e. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.     
-2.  Een kind van 13 of 14 jaar mag gedurende ten hoogste 4 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 3 vakantieweken aaneengesloten.   
-
-####Kind van 15 jaar
-
-### Artikel  5:2  
-
-1.  Indien een kind van 15 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind: 
-
-a. a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
 
 b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
 
-c. op niet meer dan ten hoogste 5 dagen arbeid verricht;  
+c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;  
 
-d. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;  
+d. op niet meer dan ten hoogste 5 dagen arbeid verricht;  
 
-e. niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag;  
+e. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 21.00 uur en 07.00 uur begrepen is;  
 
-f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.     
+f. niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag;  
+
+g. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.     
+3.  Een kind van 15 jaar mag gedurende ten hoogste 6 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 4 vakantieweken aaneengesloten.  
+
+###§ 4 
+
+####Niet-industriële (hulp)arbeid van lichte aard, niet zijnde uitvoeringen, tijdens een schoolweek
+
+####Kind van 13 of 14 jaar
+
+### Artikel 4:1  
+
+1.  Indien een kind van 13 of 14 jaar tijdens een schoolweek niet-industriële hulparbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind:
+
+a.  op zondag geen arbeid verricht; 
+
+b.  op dagen dat onderwijs wordt gevolgd geen arbeid verricht; 
+
+c.  een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is; 
+
+d.  niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 7 uren per dag; 
+
+e.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.  
+2.  Met inachtneming van het eerste lid, onder a, c en e, wordt, indien een kind van 13 of 14 jaar tijdens een schoolweek incidenteel niet-industriële hulparbeid van lichte aard verricht, die bestaat uit: 
+
+a. het oppassen bij familie of kennissen,  
+
+b. het wassen van auto’s van derden,  
+
+c. het behulpzaam zijn bij het verspreiden van folders en huis- aan huisbladen, in een gezinshuishouding of op een kinderboerderij,   tevens in acht genomen, dat dat kind: 
+
+1°. op niet meer dan ten hoogste 5 dagen arbeid verricht;
+
+2°. niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen. 
+3.  Met inachtneming van het eerste lid, onderdelen a, c en e, wordt, indien tijdens een schoolweek hulparbeid van lichte aard in de landbouw of in een winkel die met een woonhuis één geheel vormt, wordt verricht door een eigen, aangehuwd, pleeg- of adoptiekind van 13 of 14 jaar van de verantwoordelijke persoon, dat in dat woonhuis bij hem inwoont, tevens in acht genomen, dat dat kind:
+
+a.  op niet meer dan ten hoogste 5 dagen arbeid verricht; 
+
+b.  niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen.  
+
+####Kind van 15 jaar 
+
+### Artikel 4:2  
+
+Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind: 
+
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen; 
+
+b.  indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht; 
+
+c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht; 
+
+d.  op niet meer dan ten hoogste 5 dagen arbeid verricht; 
+
+e.  een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is; 
+
+f.  niet langer arbeid verricht dan 12 uren, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen; 
+
+g.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.   
+
+###§ 5 
+
+####Niet-industriële (hulp)arbeid van lichte aard, niet zijnde uitvoeringen, tijdens een vakantieweek
+
+####Kind van 13 of 14 jaar 
+
+### Artikel 5:1  
+
+1.  Indien een kind van 13 of 14 jaar tijdens een vakantieweek niet-industriële hulparbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind: 
+
+a.  op zondag geen arbeid verricht; 
+
+b.  op niet meer dan ten hoogste 5 dagen arbeid verricht; 
+
+c.  een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is; 
+
+d.  niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag; 
+
+e.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.    
+2.  Een kind van 13 of 14 jaar mag gedurende ten hoogste 4 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 3 vakantieweken aaneengesloten.  
+
+####Kind van 15 jaar 
+
+### Artikel 5:2  
+
+1.  Indien een kind van 15 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht, niet zijnde een uitvoering, dan wordt in acht genomen, dat dat kind: 
+
+a. a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen; 
+
+b.  indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht; 
+
+c.  op niet meer dan ten hoogste 5 dagen arbeid verricht; 
+
+d.  een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 21.00 uur en 07.00 uur begrepen is; 
+
+e.  niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag; 
+
+f.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.    
 2.  Een kind van 15 jaar mag gedurende ten hoogste 6 vakantieweken arbeid verrichten, waarvan ten hoogste 4 vakantieweken aaneengesloten.   
 
-### §  6  
+###§ 6 
 
 ####Niet-industriële arbeid van lichte aard bestaande uit uitvoeringen tijdens een schoolweek
 
 ####Kind van 13 of 14 jaar
 
-### Artikel  6:1  
+### Artikel 6:1  
 
 1.  Indien een kind van 13 of 14 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind: 
 
-a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen; 
 
-b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
+b.  indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht; 
 
-c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;  
+c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht; 
 
-d. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 08.00 uur begrepen is;  
+d. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 08.00 uur begrepen is; 
 
-e. niet meer dan ten hoogste 3 malen optreedt met een maximum van 24 malen per jaar;  
+e. niet meer dan ten hoogste 3 malen optreedt met een maximum aan uitvoeringen tezamen met artikel 7:1, eerste lid, onder c, van 24 malen per jaar; 
 
-f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten;  
+f.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten; 
 
-g. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.     
-2.  Met inachtneming van het eerste lid, onderdeel c, bedraagt de totale arbeidstijd met in begrip van de voorarbeid ten hoogste 7 uren per dag en 12 uren per week.   
+g.  zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.    
+2.  Met inachtneming van het eerste lid, onderdeel c, bedraagt de totale arbeidstijd met in begrip van de voorarbeid ten hoogste 7 uren per dag en 12 uren per week.  
 
 ####Kind van 15 jaar
 
-### Artikel  6:2  
+### Artikel 6:2  
 
 1.  Indien een kind van 15 jaar tijdens een schoolweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind: 
 
-a. a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
+a. a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen; 
 
-b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
+b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht; 
 
-c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;  
+c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht; 
 
-d. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 07.00 uur begrepen is;  
+d. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 07.00 uur begrepen is; 
 
-e. niet meer dan ten hoogste 3 malen optreedt met een maximum van 24 malen per jaar;  
+e. niet meer dan ten hoogste 3 malen optreedt met een maximum van 24 malen per jaar; 
 
-f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten;  
+f.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten; 
 
-g. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.     
+g.  zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.    
 2.  Met inachtneming van het eerste lid, onderdeel c, bedraagt de totale arbeidstijd met in begrip van de voorarbeid ten hoogste 8 uren per dag en 12 uren per week.   
 
-### §  7  
+###§ 7 
 
 ####Niet-industriële arbeid van lichte aard bestaande uit uitvoeringen tijdens een vakantieweek
 
 ####Kind van 13 of 14 jaar
 
-### Artikel  7:1  
+### Artikel 7:1  
 
 1.  Indien een kind van 13 of 14 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind: 
 
-a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen; 
 
-b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
+b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht; 
 
-c. ten hoogste 3 malen arbeid verricht tussen 19.00 uur en 23.00 uur;  
+c. ten hoogste 3 malen arbeid verricht tussen 19.00 uur en 23.00 uur met een maximum aan uitvoeringen tezamen met artikel 6:1, eerste lid, onder e, van 24 malen per jaar; 
 
-d. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 07.00 uur begrepen is;  
+d. een onafgebroken rusttijd heeft van ten minste 14 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 07.00 uur begrepen is; 
 
-e. niet langer arbeid verricht, met inbegrip van de voorarbeid, dan 35 uren per week, waarvan ten hoogste 7 uren per dag;  
+e. niet langer arbeid verricht, met inbegrip van de voorarbeid, dan 35 uren per week, waarvan ten hoogste 7 uren per dag; 
 
-f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten;  
+f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten; 
 
-g. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.     
-2.  Een kind van 13 of 14 jaar mag gedurende ten hoogste 4 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 3 vakantieweken aaneengesloten.   
+g. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.    
+2.  Een kind van 13 of 14 jaar mag gedurende ten hoogste 4 vakantieweken per jaar arbeid verrichten, waarvan ten hoogste 3 vakantieweken aaneengesloten.  
 
 ####Kind van 15 jaar
 
-### Artikel  7:2  
+### Artikel 7:2  
 
 1.  Indien een kind van 15 jaar tijdens een vakantieweek niet-industriële arbeid van lichte aard verricht bestaande uit een uitvoering, dan wordt in acht genomen, dat dat kind: 
 
-a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen; 
 
-b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
+b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht; 
 
-c. ten hoogste 3 malen arbeid verricht tussen 19.00 uur en 23.00 uur;  
+c. ten hoogste 3 malen arbeid verricht tussen 19.00 uur en 23.00 uur; 
 
-d. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 07.00 uur begrepen is;  
+d. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 23.00 uur en 07.00 uur begrepen is; 
 
-e. niet langer arbeid verricht, met inbegrip van de voorarbeid, dan 40 uren per week, waarvan ten hoogste 8 uren per dag;  
+e. niet langer arbeid verricht, met inbegrip van de voorarbeid, dan 40 uren per week, waarvan ten hoogste 8 uren per dag; 
 
-f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten;  
+f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten; 
 
-g. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.     
+g. zowel voor, tijdens als na de uitvoering deskundig wordt begeleid.    
 2.  Een kind van 15 jaar mag gedurende ten hoogste 6 vakantieweken arbeid verrichten, waarvan ten hoogste 4 vakantieweken aaneengesloten.   
 
-### §  8  
+###§ 8 
 
 ####Niet-industriële arbeid van lichte aard voor kinderen met een vrijstelling van de leerplicht
 
-### Artikel  8:1  
+### Artikel 8:1  
 
 1.  Voor de toepassing van dit artikel geldt de tijd waarop onderwijs wordt gevolgd en gelden de daarbij behorende onderbrekingen van het onderwijs als arbeidstijd.   
 2.  Indien voor een kind van 15 jaar een gehele of gedeeltelijke vrijstelling geldt van de leerplicht en dit kind niet-industriële arbeid van lichte aard verricht, dan wordt in acht genomen, dat dat kind: 
 
-a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen;  
+a. op zondag geen arbeid verricht, behalve voor zover dat uit de aard van de arbeid voortvloeit en het tegendeel is bedongen. Indien de bedrijfsomstandigheden dit noodzakelijk maken, kan van de vorige zin worden afgeweken, indien de werkgever daartoe overeenstemming heeft bereikt met het medezeggenschapsorgaan of, bij het ontbreken daarvan, met de belanghebbende werknemers. Een in de aanhef bedoelde kind verricht in de omstandigheden, bedoeld in dit onderdeel, uitsluitend arbeid op zondag, indien de ouders of verzorgers daarmee voor dat geval instemmen; 
 
-b. indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht;  
+b.  indien hij op zondag arbeid verricht, hij op de dag voorafgaande aan die zondag geen arbeid verricht; 
 
-c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht;  
+c. op ten minste 5 zondagen in elke periode van 16 achtereenvolgende weken geen arbeid verricht; 
 
-d. niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag;  
+d.  niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag; 
 
-e. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is;  
+e.  een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 07.00 uur begrepen is; 
 
-f. indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.     
+f.  indien op een dag langer arbeid wordt verricht dan 4,5 uur, die arbeid afwisselt met een pauze van ten minste een half uur aaneengesloten.   
 
-### §  9  
+### § 9  
 
 ####Het bezorgen van ochtendkranten
 
-### Artikel  9:1  
+### Artikel 9:1  
 
 1.  Alvorens de in dit artikel bedoelde arbeid kan worden verricht is een bezorgovereenkomst gesloten tussen de werkgever en het kind. De bezorgovereenkomst wordt (mede)ondertekend door een persoon, die over het betrokken kind het ouderlijke gezag of de voogdij uitoefent of in wiens huishouding dat kind is opgenomen.   
 2.  Indien een kind van 15 jaar arbeid verricht, bestaande uit het bezorgen van ochtendkranten, dan wordt in acht genomen, dat dat kind: 
 
-a. indien hij op zondag arbeid verricht, hij de dag voorafgaande aan die zondag geen arbeid verricht;  
+a. indien hij op zondag arbeid verricht, hij de dag voorafgaande aan die zondag geen arbeid verricht; 
 
-b. een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 06.00 uur begrepen is;  
+b.  een onafgebroken rusttijd heeft van ten minste 12 uren in elke periode van 24 aaneengesloten uren, waarin de periode tussen 19.00 uur en 06.00 uur begrepen is; 
 
-c. niet langer arbeid verricht dan 2 uren per dag.     
+c.  niet langer arbeid verricht dan 2 uren per dag.    
 
-### §  10  
+###§ 10 
 
 ####Samenloop tijdens schoolweek
 
-####Kind van 13 of 14 jaar
+####Kind van 13 of 14 jaar 
 
-### Artikel  10:1  
+### Artikel 10:1  
 
-Indien een kind van 13 of 14 jaar in een schoolweek arbeid verricht, waarop de artikelen 4:1 en 6:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 6 uren per dag op andere dagen.  
+Indien een kind van 13 of 14 jaar in een schoolweek arbeid verricht, waarop de artikelen 3:2, 4:1 of 6:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 7 uren per dag op andere dagen. 
 
 ####Kind van 15 jaar
 
-### Artikel  10:2  
+### Artikel 10:2  
 
-Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de artikelen 4:2, 6:2 en 9:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen.  
+Indien een kind van 15 jaar in een schoolweek arbeid verricht, waarop de artikelen 3:4, 4:2, 6:2 of 9:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 12 uren per week, waarvan ten hoogste 2 uren per dag op dagen dat onderwijs wordt gevolgd en ten hoogste 8 uren per dag op andere dagen. 
 
-### §  11  
+###§ 11 
 
 ####Samenloop tijdens een vakantieweek
 
-####Kind van 13 of 14 jaar
+####Kind van 13 of 14 jaar 
 
-### Artikel  11:1  
+### Artikel 11:1  
 
-Indien een kind van 13 of 14 jaar in een vakantieweek arbeid verricht, waarop de artikelen 5:1 en 7:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.  
+Indien een kind van 13 of 14 jaar in een vakantieweek arbeid verricht, waarop de artikelen 3:3, 5:1 of 7:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag. 
 
 ####Kind van 15 jaar
 
-### Artikel  11:2  
+### Artikel 11:2  
 
-Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de artikelen 5:2, 7:2 en 9:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.  
+Indien een kind van 15 jaar in een vakantieweek arbeid verricht, waarop de artikelen 3:5, 5:2, 7:2 of 9:1 van toepassing zijn, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.  
 
-### §  12  
+###§ 12 
 
 ####Andere vormen van samenloop
 
-### Artikel  12:1  
+###Artikel 12:1 
 
 1.  Indien een kind van 12 jaar tot en met 14 jaar arbeid verricht als bedoeld in artikel 2:1 en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.   
 2.  Indien een kind van 15 jaar arbeid verricht als bedoeld in artikel 2:1 en tevens in de week andere arbeid, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.   
 3.  Indien een kind van 14 jaar arbeid verricht als bedoeld in artikel 3:1 en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 35 uren per week, waarvan ten hoogste 7 uren per dag.   
-4.  Indien een kind van 15 jaar arbeid verricht als bedoeld in artikel 8:1 en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag.   
+4.  Indien een kind van 15 jaar arbeid verricht als bedoeld in artikel 8:1 en tevens in de week andere arbeid verricht, geldt elk van die regels op de onderscheiden categorieën van arbeid, met dien verstande dat hij niet langer arbeid verricht dan 40 uren per week, waarvan ten hoogste 8 uren per dag. 
 
-### §  13  
+### § 13  
 
 ####Slotbepalingen
 
-### Artikel  13:1  
+### Artikel 13:1  
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) in werking treedt.  
 
-### Artikel  13:2  
+###Artikel 13:2 
 
-Deze regeling wordt aangehaald als: Nadere regeling kinderarbeid.  
+Deze regeling wordt aangehaald als: Nadere regeling kinderarbeid.
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 13 december 1995    
 
 De 
-Minister voornoemd, 
+Minister voornoemd,
 
 A.P.W. Melkert      
