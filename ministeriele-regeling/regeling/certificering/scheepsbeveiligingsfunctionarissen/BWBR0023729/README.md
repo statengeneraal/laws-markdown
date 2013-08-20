@@ -3,7 +3,7 @@
 ##Regeling certificering scheepsbeveiligingsfunctionarissen
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144) en [artikel 21 van de Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md);
+Gelet op het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144) en artikel 21 van de Zeevaartbemanningswet;
 Besluit:    
 
 ### Artikel  1  
@@ -22,6 +22,10 @@ b. heeft de aanvrager met goed gevolg een door Onze minister erkende opleiding e
 
 1.  Bemanningsleden die als scheepsbeveiligingsfunctionaris zijn aangesteld, zijn in het bezit van het certificaat scheepsbeveiligingsfunctionaris, bedoeld in artikel 2.   
 2.  In afwijking van het eerste lid kunnen tot 1 juli 2009 bemanningsleden als scheepsbeveiligingsfunctionaris zijn aangesteld die voor 1 januari 2008 een training als scheepsbeveiligingsfunctionaris hebben afgerond.   
+
+### Artikel  3a  
+
+Deze regeling berust op artikel 21 van de Wet zeevarenden.  
 
 ### Artikel  4  
 

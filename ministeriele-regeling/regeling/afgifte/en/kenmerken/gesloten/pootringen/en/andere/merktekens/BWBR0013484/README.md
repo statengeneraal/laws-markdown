@@ -13,7 +13,7 @@ Gelet op [artikel 102 van de Flora- en faunawet](../../../../../../../../../../.
 Gelet op de [artikelen 6, tweede lid](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), en [7 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md);  
 
 Gelet op de [artikelen 12, eerste lid, onderdelen a en b](../../../../../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md), en [13, eerste lid, van de Regeling vrijstelling beschermde dier- en plantensoorten Flora- en faunawet](../../../../../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md);     Besluit:     
-### §  1  
+### § 1  
 
 ####Algemene bepalingen
 
@@ -21,25 +21,25 @@ Gelet op de [artikelen 12, eerste lid, onderdelen a en b](../../../../../../../.
 
 In deze regeling wordt verstaan onder: 
 
-a. basisverordening: Verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);  
+a.  basisverordening: Verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61); 
 
-b. *uitvoeringsverordening:* Verordening (EG) nr. 865/2006 van de Commissie van 4 mei 2006 houdende uitvoeringsbepalingen van Verordening (EG) nr. 338/97 van de Raad inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEU L 166);  
+b. *uitvoeringsverordening:* Verordening (EG) nr. 865/2006 van de Commissie van 4 mei 2006 houdende uitvoeringsbepalingen van Verordening (EG) nr. 338/97 van de Raad inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEU L 166); 
 
-c. wet: [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+c.  wet: [Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md); 
 
-d. *minister:* Minister van Landbouw, Natuur en Voedselkwaliteit;  
+d. *minister:* Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-e. gesloten pootring: individueel gemerkte, ononderbroken ring of manchet, zonder enige naad of las, waarmee op geen enkele wijze is geknoeid en waarvan het formaat zodanig is dat hij, nadat hij in de eerste levensdagen van de vogel is aangebracht, niet kan worden verwijderd wanneer de poot van de vogel zijn definitieve omvang heeft bereikt.    
+e.  gesloten pootring: individueel gemerkte, ononderbroken ring of manchet, zonder enige naad of las, waarmee op geen enkele wijze is geknoeid en waarvan het formaat zodanig is dat hij, nadat hij in de eerste levensdagen van de vogel is aangebracht, niet kan worden verwijderd wanneer de poot van de vogel zijn definitieve omvang heeft bereikt.  
 
 ### Artikel  2  
 
 Deze regeling is van toepassing op: 
 
-a. gefokte vogels, behorende tot beschermde inheemse diersoorten, en  
+a.  gefokte vogels, behorende tot beschermde inheemse diersoorten, en 
 
-b. gefokte vogels, behorende tot beschermde uitheemse diersoorten, voorzover deze soorten zijn opgenomen in bijlage A bij de basisverordening.    
+b.  gefokte vogels, behorende tot beschermde uitheemse diersoorten, voorzover deze soorten zijn opgenomen in bijlage A bij de basisverordening.  
 
-### §  2  
+### § 2  
 
 ####Ringen en merktekens
 
@@ -47,35 +47,35 @@ b. gefokte vogels, behorende tot beschermde uitheemse diersoorten, voorzover dez
 
 1.  In Nederland afgegeven gesloten pootringen voldoen aan de volgende eisen: 
 
-a. ringen met een diameter van 2,5 tot en met 2,9 mm, gemeten aan de binnenkant van een ring, zijn vervaardigd van metaal, waarop een geanodiseerde kleurlaag is aangebracht, en zijn op zodanige wijze voorzien van een breukzone, dat de ring knapt, indien de ring wordt opgerekt;  
+a.  ringen met een diameter van 2,5 tot en met 2,9 mm, gemeten aan de binnenkant van een ring, zijn vervaardigd van metaal, waarop een geanodiseerde kleurlaag is aangebracht, en zijn op zodanige wijze voorzien van een breukzone, dat de ring knapt, indien de ring wordt opgerekt; 
 
-b. ringen met een diameter kleiner dan 2,5 mm en groter dan 2,9 mm, gemeten aan de binnenkant van een ring, zijn vervaardigd van metaal, waarop een geanodiseerde kleurlaag is aangebracht, of zijn vervaardigd van gekleurde kunststof, en zijn van zodanige kwaliteit, dat de ring knapt, indien de ring wordt opgerekt.     
+b.  ringen met een diameter kleiner dan 2,5 mm en groter dan 2,9 mm, gemeten aan de binnenkant van een ring, zijn vervaardigd van metaal, waarop een geanodiseerde kleurlaag is aangebracht, of zijn vervaardigd van gekleurde kunststof, en zijn van zodanige kwaliteit, dat de ring knapt, indien de ring wordt opgerekt.    
 2.  In afwijking van het eerste lid kunnen ringen voor papegaaiachtigen en roofvogels vervaardigd zijn van roestvrij staal.   
 3.  Een gesloten pootring als bedoeld in het eerste lid is voorzien van een kleurlaag, die voor elk jaar waarin de ring mag worden aangebracht, verschillend is.   
-4.  De in artikel 8 genoemde organisaties verstrekken uitsluitend gesloten pootringen waarvoor door de leverancier een schriftelijke garantie is afgegeven dat de ringen voldoen aan de specificaties, bedoeld in het eerste lid, onderdelen a of b.   
+4.  De in artikel 8 genoemde organisaties verstrekken uitsluitend gesloten pootringen waarvoor door de leverancier een schriftelijke garantie is afgegeven dat de ringen voldoen aan de specificaties, bedoeld in het eerste lid, onderdelen a of b.  
 
 ### Artikel  4  
 
-1.  Een in Nederland afgegeven gesloten pootring is ten minste voorzien van de letters NL, de aanduiding van de binnendiameter tot in tienden van een millimeter, de laatste twee cijfers van het jaartal waarin de ring mag worden aangebracht en, per ringmaat, een uniek nummer bestaande uit de bondscode, een kweeknummer en een volgnummer.   
-2.  In afwijking van het eerste lid zijn de gesloten pootringen, afgegeven door Kleindier Liefhebbers Nederland, voorzien van een uniek nummer bestaande uit de bondscode en een volgnummer.   
+1. Een in Nederland afgegeven gesloten pootring is ten minste voorzien van de letters NL, de aanduiding van de binnendiameter tot in tienden van een millimeter, de laatste twee cijfers van het jaartal waarin de ring mag worden aangebracht en, per ringmaat, een uniek nummer bestaande uit de bondscode, een kweeknummer en een volgnummer.  
+2.  In afwijking van het eerste lid zijn de gesloten pootringen, afgegeven door Kleindier Liefhebbers Nederland, voorzien van een uniek nummer bestaande uit de bondscode en een volgnummer. 
 
 ### Artikel  5  
 
-1.  Een in Nederland in gevangenschap geboren en gefokt exemplaar van in de bijlage bij deze regeling opgenomen soorten vogels is voorzien van een in Nederland afgegeven gesloten pootring met een, voorzover vermeld, in die bijlage vastgestelde maximale diameter.   
-2.  In afwijking van het eerste lid kan de pootring een diameter hebben die groter is dan de in de bijlage vastgestelde maximale diameter, als de aanvrager, bedoeld in artikel 7, aannemelijk kan maken dat een grotere diameter in verband met de dikte van de poot noodzakelijk is.   
+1. Een in Nederland in gevangenschap geboren en gefokt exemplaar van in de bijlage bij deze regeling opgenomen soorten vogels is voorzien van een in Nederland afgegeven gesloten pootring met een, voorzover vermeld, in die bijlage vastgestelde maximale diameter.  
+2.  In afwijking van het eerste lid kan de pootring een diameter hebben die groter is dan de in de bijlage vastgestelde maximale diameter, als de aanvrager, bedoeld in artikel 7, aannemelijk kan maken dat een grotere diameter in verband met de dikte van de poot noodzakelijk is. 
 
 ### Artikel  6  
 
-Een merkteken als bedoeld in [artikel 7 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) is aangebracht en wordt gebruikt in overeenstemming met de wettelijke eisen van de staat, waar een merkteken aantoonbaar rechtmatig is afgegeven.  
+Een merkteken als bedoeld in [artikel 7 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) is aangebracht en wordt gebruikt in overeenstemming met de wettelijke eisen van de staat, waar een merkteken aantoonbaar rechtmatig is afgegeven. 
 
-### §  3  
+### § 3  
 
 ####Aanvraag gesloten pootringen
 
 ### Artikel  7  
 
-1.  Gesloten pootringen voor in Nederland geboren en gefokte vogels worden aangevraagd met gebruikmaking van een door één van de erkende organisaties, bedoeld in artikel 8, eerste lid, ter beschikking gesteld aanvraagformulier dat volledig ingevuld wordt teruggestuurd.   
-2.  Voor de soorten opgenomen in bijlage A bij de basisverordening wordt per soort aangegeven hoeveel ringen worden aangevraagd.   
+1. Gesloten pootringen voor in Nederland geboren en gefokte vogels worden aangevraagd met gebruikmaking van een door één van de erkende organisaties, bedoeld in artikel 8, eerste lid, ter beschikking gesteld aanvraagformulier dat volledig ingevuld wordt teruggestuurd. 
+2.  Voor de soorten opgenomen in bijlage A bij de basisverordening wordt per soort aangegeven hoeveel ringen worden aangevraagd. 
 
 ### Artikel  8  
 
@@ -89,7 +89,7 @@ Nederlandse Bond van Vogelliefhebbers, gevestigd te Bergen op Zoom;
 
 Vereniging Aviornis International Nederland, gevestigd te Wijchen;  
 
-Vereniging Belangenbehartiging Europese Cultuurvogel, gevestigd te Eindhoven;  
+Vereniging Belangenbehartiging Europese Cultuurvogel, gevestigd te Eindhoven; 
 
 Parkietensociëteit, gevestigd te Twijzelerheide;  
 
@@ -108,15 +108,15 @@ d. de datum van toekenning van de gesloten pootringen, en
 
 e. de noodzakelijke gegevens ter indentificatie van de personen aan wie de gesloten pootringen zijn verstrekt.     
 5.  Een administratie als bedoeld in het vierde lid wordt bewaard gedurende een periode van ten minste 5 jaar.   
-6.  De erkende organisaties verschaffen de minister desgevraagd, op een door de minister te bepalen wijze, alle informatie met betrekking tot de afgifte van gesloten pootringen.   
+6.  De erkende organisaties verschaffen de minister desgevraagd, op een door de minister te bepalen wijze, alle informatie met betrekking tot de afgifte van gesloten pootringen.  
 
 ### Artikel  9  
 
 1.  De aan erkende organisaties in rekening gebrachte kostprijs voor de vervaardiging van gesloten pootringen wordt aan de aanvrager doorberekend.   
 2.  De erkende organisaties kunnen de in het eerste lid bedoelde kostprijs verhogen met een bedrag ter dekking van de kosten voor de uitreiking van ringen ter hoogte van maximaal € 1,- per ring.   
-3.  Gesloten pootringen worden niet uitgereikt dan na voldoening van de som van in het eerste en tweede lid bepaalde bedragen.   
+3.  Gesloten pootringen worden niet uitgereikt dan na voldoening van de som van in het eerste en tweede lid bepaalde bedragen.  
 
-### §  4  
+### § 4  
 
 ####Gebruik gesloten pootringen
 
@@ -124,23 +124,23 @@ e. de noodzakelijke gegevens ter indentificatie van de personen aan wie de geslo
 
 1.  Door de aanvrager van de in artikel 8, eerste lid, erkende organisaties ontvangen gesloten pootringen worden uitsluitend aangebracht op in Nederland in gevangenschap geboren en gefokte vogels van de soorten waarvoor hij de pootringen heeft aangevraagd.   
 2.  Ingeval van een soort die is opgenomen in bijlage A bij de basisverordening, brengt de aanvrager de ontvangen pootring uitsluitend aan op gefokte vogels van de desbetreffende soort waarvoor hij de ring heeft aangevraagd.   
-3.  Een aanvrager is niet gerechtigd van erkende organisaties ontvangen gesloten pootringen aan derden te verschaffen.   
+3.  Een aanvrager is niet gerechtigd van erkende organisaties ontvangen gesloten pootringen aan derden te verschaffen.  
 
-### §  5  
+### § 5  
 
 ####Overgangs- en slotbepalingen
 
 ### Artikel  11  
 
-Een ring die of een ander merkteken dat rechtmatig is aangebracht vóór de inwerkingtreding van deze regeling en, voorzover van toepassing, in overeenstemming is met de basisverordening en de uitvoeringsverordening wordt geacht te zijn een ring of merkteken als bedoeld in deze regeling.  
+Een ring die of een ander merkteken dat rechtmatig is aangebracht vóór de inwerkingtreding van deze regeling en, voorzover van toepassing, in overeenstemming is met de basisverordening en de uitvoeringsverordening wordt geacht te zijn een ring of merkteken als bedoeld in deze regeling. 
 
 ### Artikel  12  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 102 van de Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), de [artikelen 6, tweede lid](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), en [7 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) en de [artikelen 12, eerste lid, onderdelen a en b](../../../../../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md), en [13, eerste lid, van de Regeling vrijstelling beschermde dier- en plantensoorten Flora- en faunawet](../../../../../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md) in werking treden.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel 102 van de Flora- en faunawet](../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), de [artikelen 6, tweede lid](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), en [7 van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) en de [artikelen 12, eerste lid, onderdelen a en b](../../../../../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md), en [13, eerste lid, van de Regeling vrijstelling beschermde dier- en plantensoorten Flora- en faunawet](../../../../../../../../../../../ministeriele-regeling/regeling/vrijstelling/beschermde/dier-/en/plantensoorten/flora-/en/etc/BWBR0013486/README.md) in werking treden. 
 
 ### Artikel  13  
 
-Deze regeling wordt aangehaald als: Regeling afgifte en kenmerken gesloten pootringen en andere merktekens.  
+Deze regeling wordt aangehaald als: Regeling afgifte en kenmerken gesloten pootringen en andere merktekens. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -148,17 +148,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
-G.H.Faber   
+G.H. Faber     
 
-### Bijlage  
+###Bijlage 
 
-| Wetenschappelijke naam  | Nederlandse naam  | Orde en familie  | mm ¹  | ²  |
+| Wetenschappelijke naam  | Nederlandse naam  | Orde en familie  |  mm ¹   |  ²   |
 |:---|:---|:---|:---|:---|
 | Accipiter brevipes  | Balkansperwer  | falconiformes: accipitridae  | 10,0  | A  |
 | Accipiter gentilis (m)  | Havik  | falconiformes: accipitridae  | 12,0  | A  |
 | Accipiter gentilis (vr)  | Havik  | falconiformes: accipitridae  | 14,0  | A  |
 | Accipiter nisus (m)  | Sperwer  | falconiformes: accipitridae  | 7,0  | A  |
-| Accipiter nisus (vr)  | Sperwer  | falconiformes: accipitridae  | 8,0  | A  |
+| Accipiter nisus (vr)  | Sperwer  | falconiformes: accipitridae   | 8,0  | A  |
 | Aceros nipalensis  | Himalaya jaarvogel  | coraciformes: bucerotidae  | --- | A-  |
 | Aceros subruficollis  | Kleine jaarvogel  | coraciformes: bucerotidae  | --- | A-  |
 | Acrocephalus aedon  | Diksnavelrietzanger  | passeriformes: sylviidae  | --- | --- |
@@ -185,16 +185,16 @@ G.H.Faber
 | Alle alle  | Kleine alk  | charadriiformes: alcidae  | --- | --- |
 | Amaurornis flavirostra  | Zwarte ral  | gruiformes: rallidae  | --- | --- |
 | Amazona arausiaca  | Roodkeelamazone  | psittaciformes: psittacidae  | 12,0  | A-  |
-| Amazona auropalliata  | Geelnek amazone  | psittaciformes: psittacidae  | 11,0  | A-  |
-| Amazona auropalliata caribaea  | Caribische amazone  | psittaciformes: psittacidae  | 11,0  | A-  |
-| Amazona auropalliata parvipes  | Kleine geelnekamazona  | psittaciformes: psittacidae  | 10,0  | A-  |
+|Amazona auropalliata |Geelnek amazone |psittaciformes: psittacidae |11,0 |A- |
+|Amazona auropalliata caribaea |Caribische amazone |psittaciformes: psittacidae |11,0 |A- |
+|Amazona auropalliata parvipes |Kleine geelnekamazona |psittaciformes: psittacidae |10,0 |A- |
 | Amazona barbadensis  | Geelvleugelamazone  | psittaciformes: psittacidae  | 10,0  | A-  |
 | Amazona brasiliensis  | Roodstaartamazone  | psittaciformes: psittacidae  | 10,0  | A-  |
 | Amazona finchi  | Finchs (Blauwkop) amazone  | psittaciformes: psittacidae  | 11,0  | A-  |
 | Amazona guildingii  | Koningsamazone  | psittaciformes: psittacidae  | 12,0  | A-  |
 | Amazona imperialis  | Keizeramazone  | psittaciformes: psittacidae  | 14,0  | A-  |
 | Amazona leucocephala  | Cubaanse amazone  | psittaciformes: psittacidae  | 11,0  | A-  |
-| Amazona oratrix  | Dubbele geelkopamazone  | psittaciformes: psittacidae  | 11,0  | A-  |
+|Amazona oratrix |Dubbele geelkopamazone |psittaciformes: psittacidae |11,0 |A- |
 | Amazona oratrix belizensis  | Belize amazone  | psittaciformes: psittacidae  | 11,0  | A-  |
 | Amazona oratrix tresmariae  | --- | psittaciformes: psittacidae  | 10,0  | A-  |
 | Amazona pretrei  | Roodbrilamazone  | psittaciformes: psittacidae  | 11,0  | A-  |
@@ -309,7 +309,7 @@ G.H.Faber
 | Cacatua sulphurea  | Kleine geelkuifkaketoe  | psittaciformes: psittacidae  | 10,0  | A-  |
 | Cacatua moluccensis  | Molukken kakatoe  | psittaciformes: psittacidae  | 14,0  | A-  |
 | Cairina scutulata  | Witvleugeleend  | anseriformes: anatidae  | 16+14  | A-  |
-| Calandrella brachydactyla  | Kortteenleeuwerik  | passeriformes: alaudidae  | 3,5  | --- |
+| Calandrella brachydactyla   | Kortteenleeuwerik  | passeriformes: alaudidae  | 3,5  | --- |
 | Calandrella rufescens  | Kleine kortteenleeuwerik  | passeriformes: alaudidae  | 3,5  | --- |
 | Calcarius lapponicus  | IJsgors  | passeriformes: emberizidae  | 2,9  | --- |
 | Calidris acuminata  | Siberische strandloper  | charadriiformes: scolopacidae  | --- | --- |
@@ -491,7 +491,7 @@ G.H.Faber
 | Falco naumanni  | Kleine torenvalk  | falconiformes: falconidae  | 9,0  | A  |
 | Falco newtoni  | Madagascar torenvalk  | falconiformes: falconidae  | --- | A-  |
 | Falco pelegrinoides (m)  | Barbarijse valk  | falconiformes: falconidae  | 11,0  | A-  |
-| Falco pelegrinoides (vr)  | Barbarijse valk  | falconiformes: falconidae  | 13,0  | A-  |
+| Falco pelegrinoides (vr)  | Barbarijse valk   | falconiformes: falconidae  | 13,0  | A-  |
 | Falco peregrinus (m)  | Slechtvalk  | falconiformes: falconidae  | 12,0  | A-  |
 | Falco peregrinus (vr)  | Slechtvalk  | falconiformes: falconidae  | 14,0  | A-  |
 | Falco punctatus  | Mauritius torenvalk  | falconiformes: falconidae  | --- | A-  |
@@ -536,7 +536,7 @@ G.H.Faber
 | Glareola maldivarum  | Oosterse vorkstaartplevier  | charadriiformes: glareolidae  | --- | --- |
 | Glareola nordmanni  | Steppevorkstaartplevier  | charadriiformes: glareolidae  | --- | --- |
 | Glareola pratincola  | Vorkstaartplevier  | charadriiformes: glareolidae  | 5,0  | --- |
-| Glaucis dohrnii  | Kromsnavel Heremietkolibrie  | Trochilidae:  | --- | A-  |
+| Glaucis dohrnii  | Kromsnavel Heremietkolibrie  | Trochilidae:   | --- | A-  |
 | Glaucidium passerinum  | Dwerguil  | strigiformes: strigidae  | 7,0  | A  |
 | Grus americana  | Trompetkraanvogel  | gruiformes: gruidae  | --- | A-  |
 | Grus canadensis  | Canadese kraanvogel  | gruiformes: gruidae  | 16,0  | A-  |
@@ -548,7 +548,7 @@ G.H.Faber
 | Grus vipio  | Withalskraanvogel  | gruiformes: gruidae  | 18,0  | A-  |
 | Grus virgo  | Jufferkraan  | gruiformes: gruidae  | 16,0  | --- |
 | Guarouba guarouba  | Goudparkiet  | psittaciformes: psittacidae  | 10,0  | A-  |
-| Guiraca caerulea  | Blauwe bisschop  | passeriformes: fringillidae  | 3,5  | --- |
+| Guiraca caerulea  | Blauwe bisschop   | passeriformes: fringillidae  | 3,5  | --- |
 | Gymnogyps californianus  | Californische condor  | falconiformes: cathartidae  | --- | A-  |
 | Gypaetus barbatus  | Lammergier  | falconiformes: accipitridae  | 28,0  | A  |
 | Gyps fulvus  | Vale gier  | falconiformes: accipitridae  | 28,0  | A  |
@@ -726,7 +726,7 @@ G.H.Faber
 | Oriolus oriolus  | Wielewaal  | passeriformes: oriolidae  | 4,5  | --- |
 | Otis tarda  | Grote trap  | gruiformes: otididae  | --- | A  |
 | Otus scops  | Dwergooruil  | strigiformes: strigidae  | 7,0  | A  |
-| Pagophila eburnea  | Ivoormeeuw  | charadriiformes: laridae  | --- | --- |
+| Pagophila eburnea   | Ivoormeeuw  | charadriiformes: laridae  | --- | --- |
 | Pandion haliaetus  | Visarend  | falconiformes: pandionidae  | 19,0  | A  |
 | Panurus biarmicus  | Baardmannetje  | passeriformes: timaliidae  | 2,8  | --- |
 | Papasula abotti  | Abbots gent  | pelecaniformes: sulidae  | --- | A-  |
@@ -825,7 +825,7 @@ G.H.Faber
 | Porzana pusilla  | Kleinst waterhoen  | gruiformes: rallidae  | 3,5  | --- |
 | Primolius couloni  | Blauwkopara  | psittaciformes: psittacidae  | 10,0  | A-  |
 | Primolius maracana  | Illgers ara  | psittaciformes: psittacidae  | 10,0  | A-  |
-| Probosciger aterrimus  | Palmkaketoe  | psittaciformes: psittacidae  | --- | A-  |
+|Probosciger aterrimus |Palmkaketoe |psittaciformes: psittacidae | --- |A- |
 | Prunella atrogularis  | Zwartkeelheggemus  | passeriformes: prunellidae  | --- | --- |
 | Prunella collaris  | Alpenheggemus  | passeriformes: prunellidae  | 3,5  | --- |
 | Prunella modularis  | Heggemus  | passeriformes: prunellidae  | 2,8  | --- |
@@ -919,7 +919,7 @@ G.H.Faber
 | Strix aluco  | Bosuil  | strigiformes: strigidae  | 12,0  | A  |
 | Strix nebulosa  | Laplanduil  | strigiformes: strigidae  | 16,0  | A  |
 | Strix uralensis  | Oeraluil  | strigiformes: strigidae  | 14,0  | A  |
-| Struthio camelus  | Struisvogel  | struthioniformes: struthionidae  | --- | A-  |
+| Struthio camelus   | Struisvogel  | struthioniformes: struthionidae  | --- | A-  |
 | Sturnus roseus  | Rose spreeuw  | passeriformes: sturnidae  | 4,5  | --- |
 | Sturnus unicolor  | Zwarte spreeuw  | passeriformes: sturnidae  | 4,5  | --- |
 | Sturnus vulgaris  | Spreeuw  | passeriformes: sturnidae  | 4,5  | --- |
@@ -953,8 +953,8 @@ G.H.Faber
 | Tauraco bannermanni  | Bannermanns toerako  | cuculiformes: musophagidae  | --- | A-  |
 | Tchagra senegala  | Zwartkruin tsjagra  | passeriformes: laniidae  | --- | --- |
 | Tetrao tetrix  | Korhoen  | galliformes: tetraonidae  | 12,0  | --- |
-| Tetrao urogallus (M)  | Auerhoen  | galliformes: tetraonidae  | 20,0  | --- |
-| Tetrao urogallus (Vr)  | Auerhoen  | galliformes: tetraonidae  | 16,0  | --- |
+| Tetrao urogallus (M)  | Auerhoen   | galliformes: tetraonidae  | 20,0  | --- |
+| Tetrao urogallus (Vr)  | Auerhoen   | galliformes: tetraonidae  | 16,0  | --- |
 | Tetraogallus caspius  | Kaspisch berghoen  | galliformes: phasianidae  | 14,0  | A-  |
 | Tetraogallus tibetanus  | Tibetaans berghoen  | galliformes: phasianidae  | 14,0  | A-  |
 | Tetrax tetrax  | Kleine trap  | gruiformes: otididae  | 16,0  | A  |
@@ -1026,6 +1026,6 @@ G.H.Faber
 | Zoothera dauma  | Goudlijster  | passeriformes: turdidae  | 3,5  | --- |
 | Zoothera naevia  | Bonte lijster  | passeriformes: turdidae  | --- | --- |
 | Zoothera sibirica  | Siberische lijster  | passeriformes: turdidae  | --- | --- |
-| Zosterops albogularis  | Witkeelbrilvogel  | passeriformes: zosteropidae  | --- | A-  |
+|Zosterops albogularis |Witkeelbrilvogel |passeriformes: zosteropidae | --- |A- |
 
-¹ Maximale binnendiameter in mm. ² Bijlage A bij de basisverordening. De soorten gemerkt met A- zijn beschermde uitheemse soorten die opgenomen zijn in bijlage A bij de basisverordening. 
+¹ Maximale binnendiameter in mm.² Bijlage A bij de basisverordening. De soorten gemerkt met A- zijn beschermde uitheemse soorten die opgenomen zijn in bijlage A bij de basisverordening.

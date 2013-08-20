@@ -3,7 +3,7 @@
 ##Erkenningsregeling opleidingen zeevaartbemanning
 
 De Minister van Verkeer en Waterstaat;  
-Gelet op [artikel 19, derde en vierde lid, van de Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md);
+Gelet op artikel 19, derde en vierde lid, van de Zeevaartbemanningswet;
 Besluit:    
 
 ### Artikel  1  
@@ -11,7 +11,7 @@ Besluit:
 ####Algemeen
 
 1.  De Minister kan de erkenning van een opleiding namens hem laten uitvoeren door een erkende certificerende instelling.   
-2.  De te erkennen opleiding valt niet onder de kwalificatiestructuur van de [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel die van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).   
+2.  De te erkennen opleiding valt niet onder de kwalificatiestructuur van de Wet educatie en beroepsonderwijs, dan wel die van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
 3.  Het instituut dat de opleiding verzorgt, beschikt over een kwaliteitssysteem.   
 
 ### Artikel  2  
@@ -49,7 +49,7 @@ Het bijwonen van een opleiding of training door een aangewezen ambtenaar of een 
 
 1.  Maritieme studie- en opleidingsprogramma’s, alsmede cursussen worden erkend indien zij ten minste voldoen aan de criteria die zijn vastgelegd in richtlijn nr. 2008/106/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 inzake het minimum opleidingsniveau van zeevarenden (PbEU L 323).   
 2.  In aanvulling op de criteria, bedoeld in het eerste lid, moet de werking van het kwaliteitssysteem van een instituut dat een opleiding verzorgt, zijn beoordeeld door een van dit instituut onafhankelijke instantie.   
-3.  De opleiding en examinering voldoen aan de eisen die met betrekking daartoe zijn vastgelegd in het Besluit zeevaartbemanning handelsvaart en zeilvaart, onderscheidenlijk in het Besluit zeevisvaartbemanning   
+3.  De opleiding en examinering voldoen aan de eisen die met betrekking daartoe zijn vastgelegd in het Besluit zeevarenden handelsvaart en zeilvaart, onderscheidenlijk in het Besluit zeevisvaartbemanning   
 4.  Het bevoegd gezag van een instelling beschikt over een systeem van registratie van alle studenten die met goed gevolg opleidingen aan de instelling hebben afgerond.   
 
 ### Artikel  5  
@@ -90,7 +90,7 @@ Bij beëindiging van de desbetreffende opleidingen wordt de registratie overgedr
 
 ### Artikel  10  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 19 van de Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) in werking treedt.  
+Deze regeling berust op artikel 19, derde en vierde lid, van de Wet zeevarenden.  
 
 ### Artikel  11  
 

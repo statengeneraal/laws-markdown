@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 12 oktober 2012, nr. IENM/BSK-2012/158694, houdende vaststelling van regels over huisvesting van zeevarenden aan boord en enige andere onderwerpen alsmede wijziging van enige regelingen, ter uitvoering van het Maritiem Arbeidsverdrag, 2006, en richtlijn 2009/13/EG (Regeling zeevarenden)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op het op 23 februari 2006 in Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93), richtlijn nr. 2009/13/EG van de Raad van de Europese Unie van 16 februari 2009 tot tenuitvoerlegging van de overeenkomst tussen de Associatie van reders van de Europese Gemeenschap (ECSA) en de Europese Federatie van vervoerswerknemers (ETF) inzake het Maritieme Arbeidsverdrag, 2006, en tot wijziging van Richtlijn 1999/63/EG (PbEU L 124), de [artikelen 1, tweede lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [2, eerste, vierde en vijfde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [7, derde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [19, derde en vierde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [20, tweede lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [21](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [22, vierde en vijfde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [22a, vierde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [38, derde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [48](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [48a](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [48b, tweede en derde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [48c, tweede, derde en vierde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [48d, derde en vierde lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [55c, tweede lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [55 e](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [62](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [66](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [69a, tweede lid](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), en [69b, tweede lid, van de Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), na de inwerkingtreding van [artikel I, onderdeel JJ, van de wet van 6 juli 2011 (Stb. 394) inzake implementatie van het genoemde verdrag](../../../../wet/wet/implementatie/maritiem/arbeidsverdrag/BWBR0030386/README.md) aan te halen als [Wet zeevarenden](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), de [artikelen 6.4:1, tweede lid](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), en [6.4:2, vierde lid, van het Arbeidstijdenbesluit vervoer](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), de [artikelen 5](../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [6, tweede lid](../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [8, tweede lid](../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [103, eerste lid](../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [104](../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), en [106, eerste, tweede en derde lid, van het Besluit zeevarenden handelsvaart en zeilvaart](../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) en [artikel 29, eerste lid, van het Binnenvaartbesluit](../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md);
+Gelet op het op 23 februari 2006 in Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93), richtlijn nr. 2009/13/EG van de Raad van de Europese Unie van 16 februari 2009 tot tenuitvoerlegging van de overeenkomst tussen de Associatie van reders van de Europese Gemeenschap (ECSA) en de Europese Federatie van vervoerswerknemers (ETF) inzake het Maritieme Arbeidsverdrag, 2006, en tot wijziging van Richtlijn 1999/63/EG (PbEU L 124), de artikelen 1, tweede lid, 2, eerste, vierde en vijfde lid, 7, derde lid, 19, derde en vierde lid, 20, tweede lid, 21, 22, vierde en vijfde lid, 22a, vierde lid, 38, derde lid, 48, 48a, 48b, tweede en derde lid, 48c, tweede, derde en vierde lid, 48d, derde en vierde lid, 55c, tweede lid, 55 e, 62, 66, 69a, tweede lid, en 69b, tweede lid, van de Zeevaartbemanningswet, na de inwerkingtreding van artikel I, onderdeel JJ, van de wet van 6 juli 2011 (Stb. 394) inzake implementatie van het genoemde verdrag aan te halen als Wet zeevarenden, de artikelen 6.4:1, tweede lid, en 6.4:2, vierde lid, van het Arbeidstijdenbesluit vervoer, de artikelen 5, 6, tweede lid, 8, tweede lid, 103, eerste lid, 104, en 106, eerste, tweede en derde lid, van het Besluit zeevarenden handelsvaart en zeilvaart en artikel 29, eerste lid, van het Binnenvaartbesluit;
 Besluit:     
 ### §  1  
 
@@ -15,9 +15,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*commercieel jacht:* een schip van minder dan 3000 GT met een loodlijnlengte van 24 meter of meer, dat is ontworpen en gebouwd en uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van niet meer dan 12 passagiers en waarop de LY2-code als bedoeld in [artikel 1 van de Regeling veiligheid zeeschepen](../../../../ministeriele-regeling/regeling/veiligheid/zeeschepen/BWBR0017728/README.md) kan worden toegepast;  
+*commercieel jacht:* een schip van minder dan 3000 GT met een loodlijnlengte van 24 meter of meer, dat is ontworpen en gebouwd en uitsluitend wordt gebruikt voor het bedrijfsmatig vervoer van niet meer dan 12 passagiers en waarop de LY2-code als bedoeld in artikel 1 van de Regeling veiligheid zeeschepen kan worden toegepast;  
 
-*officier:***een scheepsofficier als bedoeld in de [wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en iedere andere zeevarende die door de scheepsbeheerder als officier wordt aangemerkt;  
+*officier:***een scheepsofficier als bedoeld in de wet en iedere andere zeevarende die door de scheepsbeheerder als officier wordt aangemerkt;  
 
 *onderofficier:* een zeevarende die aan boord een toezichthoudende functie heeft of een andere functie met bijzondere verantwoordelijkheid en die door de scheepsbeheerder als zodanig wordt aangemerkt;  
 
@@ -25,29 +25,29 @@ In deze regeling wordt verstaan onder:
 
 *passagiersschip:* een schip bestemd of gebezigd voor het bedrijfsmatig vervoer van meer dan twaalf passagiers;  
 
-*schepen voor bijzondere doeleinden:* schepen die op grond van [artikel 6 van de Regeling veiligheid zeeschepen](../../../../ministeriele-regeling/regeling/veiligheid/zeeschepen/BWBR0017728/README.md) een certificaat hebben op basis van de SPS-code of de SPS-code 2008 als bedoeld in [artikel 1 van de Regeling veiligheid zeeschepen](../../../../ministeriele-regeling/regeling/veiligheid/zeeschepen/BWBR0017728/README.md);  
+*schepen voor bijzondere doeleinden:* schepen die op grond van artikel 6 van de Regeling veiligheid zeeschepen een certificaat hebben op basis van de SPS-code of de SPS-code 2008 als bedoeld in artikel 1 van de Regeling veiligheid zeeschepen;  
 
-*referentielastlijn:* voor schepen waarop het Uitwateringsverdrag als bedoeld in [artikel 1, eerste lid, onderdeel i, van het Schepenbesluit 2004](../../../../rijksKB/schepenbesluit/2004/BWBR0016880/README.md) van toepassing is, de lijn voor zomeruitwatering als bedoeld in Bijlage 1, voorschrift 6, lid 2, onderdeel a, van het Uitwateringsverdrag en voor schepen waarop het Uitwateringsverdrag niet van toepassing is, de lijn parallel aan de ontwerplastlijn gelegen op een afstand van 20% van de holte naar de mal als bedoeld in Bijlage 1, voorschrift 3, lid 5, van het Uitwateringsverdrag, maar maximaal 1000 mm onder het vrijboorddek als bedoeld in Bijlage 1, voorschrift 3, lid 9, van het Uitwateringsverdrag;  
+*referentielastlijn:* voor schepen waarop het Uitwateringsverdrag als bedoeld in artikel 1, eerste lid, onderdeel i, van het Schepenbesluit 2004 van toepassing is, de lijn voor zomeruitwatering als bedoeld in Bijlage 1, voorschrift 6, lid 2, onderdeel a, van het Uitwateringsverdrag en voor schepen waarop het Uitwateringsverdrag niet van toepassing is, de lijn parallel aan de ontwerplastlijn gelegen op een afstand van 20% van de holte naar de mal als bedoeld in Bijlage 1, voorschrift 3, lid 5, van het Uitwateringsverdrag, maar maximaal 1000 mm onder het vrijboorddek als bedoeld in Bijlage 1, voorschrift 3, lid 9, van het Uitwateringsverdrag;  
 
 *Uitwateringsverdrag:* het op 5 april 1966 te Londen tot stand gekomen Verdrag betreffende de uitwatering van schepen (Trb. 1966, 275) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;  
 
 *verblijven:* dag- en nachtverblijven en alle ruimten voor sanitaire doeleinden, voedselvoorziening, ziekenverpleging en recreatie aan boord van een schip, bestemd voor gebruik door zeevarenden;  
 
-*wet:*[Wet zeevarenden](../../../../wet/wet/zeevarenden/BWBR0009124/README.md).    
+*wet:*Wet zeevarenden.    
 
 ### Artikel  1.2  
 
 ####Personen niet aangemerkt als zeevarenden
 
-De volgende categorieën van personen aan boord van een schip, worden voor de toepassing van het bepaalde bij of krachtens de [wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) niet aangemerkt als zeevarenden: 
+De volgende categorieën van personen aan boord van een schip, worden voor de toepassing van het bepaalde bij of krachtens de wet niet aangemerkt als zeevarenden: 
 
 a. passagiers;  
 
 b. meevarende relaties en familie van zeevarenden, die geen werkzaamheden verrichten die onderdeel uitmaken van de normale werkzaamheden aan boord;  
 
-c. militairen, inspecteurs en loodsen als bedoeld in [artikel 1, onderdeel b van de Loodsenwet](../../../../wet/loodsenwet/BWBR0004365/README.md);  
+c. militairen, inspecteurs en loodsen als bedoeld in artikel 1, onderdeel b van de Loodsenwet;  
 
-d. personen die uitsluitend in een haven of een havenfaciliteit als bedoeld in [artikel 1, onderdeel f onderscheidenlijk c, van de Havenbeveiligingswet](../../../../wet/havenbeveiligingswet/BWBR0016991/README.md) aan boord van een schip zijn;  
+d. personen die uitsluitend in een haven of een havenfaciliteit als bedoeld in artikel 1, onderdeel f onderscheidenlijk c, van de Havenbeveiligingswet aan boord van een schip zijn;  
 
 e. andere personen wier werkzaamheden geen onderdeel uitmaken van de normale werkzaamheden aan boord in het kader van het gebruik van het schip.    
 
@@ -57,7 +57,7 @@ e. andere personen wier werkzaamheden geen onderdeel uitmaken van de normale wer
 
 1.  Paragraaf 3 van deze regeling is niet van toepassing op de volgende schepen: 
 
-a. schepen waarvan de kiel is gelegd of de bouw in een overeenkomstige fase van ontwikkeling was voor de datum van inwerkingtreding van [artikel XII van de wet van 6 juli 2011 inzake implementatie van het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag](../../../../wet/wet/implementatie/maritiem/arbeidsverdrag/BWBR0030386/README.md), 2006 (Trb. 2007, 93) en  
+a. schepen waarvan de kiel is gelegd of de bouw in een overeenkomstige fase van ontwikkeling was voor de datum van inwerkingtreding van artikel XII van de wet van 6 juli 2011 inzake implementatie van het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93) en  
 
 b. vissersvaartuigen en  
 
@@ -71,7 +71,7 @@ c. schepen die ontworpen zijn om traditionele vaardigheden en zeemanschap aan te
 
 ####Model document
 
-Het model van het document, bedoeld in [artikel 38, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), is opgenomen in bijlage A bij deze regeling.  
+Het model van het document, bedoeld in artikel 38, eerste lid, van de wet, is opgenomen in bijlage A bij deze regeling.  
 
 ### §  3  
 
@@ -84,7 +84,7 @@ Het model van het document, bedoeld in [artikel 38, eerste lid, van de wet](../
 1.  De verblijven voldoen aan de in de onderstaande tabel genoemde onderdelen van normen van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | stahoogte  | norm A3.1, lid 6, onderdeel  a, eerste volzin  |
 | isolatie  | norm A3.1, lid 6, onderdeel b  |
 | te gebruiken materialen  | norm A3.1, lid 6, onderdeel f  |
@@ -96,7 +96,7 @@ Het model van het document, bedoeld in [artikel 38, eerste lid, van de wet](../
 3.  De verblijven voldoen voorts aan de normering van de in de onderstaande tabel genoemde leidraden dan wel onderdelen van leidraden van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | ontwerp en bouw  | leidraad B3.1.1  |
 | ventilatie  | leidraad B3.1.2  |
 | verwarming en radiatoren  | leidraad B3.1.3, lid 2 en 3  |
@@ -108,7 +108,7 @@ Het model van het document, bedoeld in [artikel 38, eerste lid, van de wet](../
 4.  Voor de elektrische verlichting van de verblijven gelden de in de onderstaande tabel genoemde normen:  
 
 | Soort verblijf  | Lux  |
-|:---|:---|
+|---|---|
 | dagverblijven en ruimten voor recreatieve voorzieningen  | 300  |
 | gangen en trappenhuizen, nachtverblijven  | 150  |
 | brug, kantoren, kombuis,  | 500  |
@@ -130,7 +130,7 @@ Het model van het document, bedoeld in [artikel 38, eerste lid, van de wet](../
 1.  Onverminderd het bepaalde in de artikelen 3.1 en 3.2 voldoen de nachtverblijven aan de in de onderstaande tabel genoemde onderdelen van normen van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | ligging op het schip, niet zijnde een passagiersschip  | norm A3.1, lid 6, onderdeel c  |
 | afscheiding van andere ruimten  | norm A3.1, lid 6, onderdeel e  |
 | ventilatie  | norm A3.1, lid 7, onderdeel a  |
@@ -153,7 +153,7 @@ Het model van het document, bedoeld in [artikel 38, eerste lid, van de wet](../
 4.  Nachtverblijven voldoen voorts aan de normering van de in de onderstaande tabel genoemde leidraden dan wel onderdelen van leidraden van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | elektrische leeslamp  | leidraad B3.1.4, lid 2  |
 | comfort van slaapplaatsen  | leidraad B3.1.5, lid 1  |
 | uitrusting met een badkamer, inclusief water closet  | leidraad B3.1.5, lid 2  |
@@ -174,7 +174,7 @@ Het model van het document, bedoeld in [artikel 38, eerste lid, van de wet](../
 1.  Voor een commercieel jacht zijn in afwijking van artikel 3.3, eerste lid, als wezenlijk gelijkwaardige bepalingen als bedoeld in artikel VI, lid 3, van het Maritiem Arbeidsverdrag, de in de onderstaande tabel opgenomen normen ten aanzien van de minimale vloeroppervlakte voor nachtverblijven, tezamen met het tweede en derde lid, van toepassing.  
 
 | grootte commercieel jacht  | type nachtverblijf  | minimale vloeroppervlakte  |
-|:---|:---|:---|
+|---|---|---|
 | tot 500 GT  | eenpersoonsnachtverblijf zonder eigen sanitaire voorzieningen  | 3,6 m <sup>2</sup>  |
 | eenpersoonsnachtverblijf met eigen sanitaire voorzieningen  | 4,5 m <sup>2</sup>  |
 | tweepersoonsnachtverblijf met eigen sanitaire voorzieningen  | 6,2 m <sup>2</sup>  |
@@ -249,7 +249,7 @@ b. leidraad B3.1.5, lid 3, van het Maritiem Arbeidsverdrag dat nachtverblijven z
 1.  Onverminderd de artikelen 3.1 en 3.2 voldoen de dagverblijven aan de in de onderstaande tabel genoemde onderdelen van normen van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Ventilatie  | norm A3.1, lid 7, onderdeel a  |
 | Verlichting  | norm A3.1, lid 8  |
 | plaatsing, grootte en uitrusting dagverblijven  | norm A3.1, lid 10  |
@@ -257,7 +257,7 @@ b. leidraad B3.1.5, lid 3, van het Maritiem Arbeidsverdrag dat nachtverblijven z
 2.  Dagverblijven voldoen voorts aan de normering van de in de onderstaande tabel genoemde onderdelen van leidraden van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | vloeroppervlak van dagverblijven  | leidraad B3.1.6, lid 3  |
 | meubilair in dagverblijven  | leidraad B3.1.6, lid 4  |
 | voorzieningen in dagverblijven  | leidraad B3.1.6, lid 5  |
@@ -276,7 +276,7 @@ a. de kapitein en de officieren;
 b. de onderofficieren;  
 
 c. de overige zeevarenden.     
-5.  Onverminderd het bepaalde in het derde en vierde lid, is er een afzonderlijk dagverblijf voor zeevarenden die niet een functie als bedoeld in [artikel 18, tweede lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) uitoefenen.   
+5.  Onverminderd het bepaalde in het derde en vierde lid, is er een afzonderlijk dagverblijf voor zeevarenden die niet een functie als bedoeld in artikel 18, tweede lid, van de wet uitoefenen.   
 
 ### Artikel  3.9  
 
@@ -297,7 +297,7 @@ b. materialen en kleuren voor wand- en vloerbedekking worden toegepast gericht o
 1.  Onverminderd de artikelen 3.1 en 3.2 voldoen de sanitaire voorzieningen aan de in de onderstaande tabel genoemde onderdelen van normen van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | ventilatie  | norm A3.1, lid 7, onderdeel c  |
 | toegankelijkheid, hygiëne en comfort  | norm A3.1 lid 11, onderdelen a, b en c  |
 | wastafels in nachtverblijven  | norm A3.1, lid 11, onderdeel d  |
@@ -306,7 +306,7 @@ b. materialen en kleuren voor wand- en vloerbedekking worden toegepast gericht o
 2.  Sanitaire voorzieningen voldoen voorts aan de normering van de in de onderstaande tabel genoemde onderdelen van leidraden van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | wastafels en baden  | leidraad B3.1.7, lid 1  |
 | water closets  | leidraad B3.1.7, lid 2  |
 | inrichting van sanitaire ruimten bestemd voor meer dan één persoon  | leidraad B3.1.7, lid 3  |
@@ -317,7 +317,7 @@ b. materialen en kleuren voor wand- en vloerbedekking worden toegepast gericht o
 
 1.  Voor schepen van minder dan 1600 GT kan de minister, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, ontheffing verlenen van het bepaalde in norm A3.1, lid 11, onderdeel b, van het Maritiem Arbeidsverdrag ten aanzien van de toegankelijkheid van sanitaire ruimten vanaf de navigatiebrug, de machinekamer of het controlecentrum van de machinekamer.   
 2.  Voor passagiersschepen die doorgaans geen reizen maken van langer dan vier uur kan in afwijking van artikel 3.10, eerste lid, en in overeenstemming met norm A3.1, lid 11, onderdeel e, van het Maritiem Arbeidsverdrag het aantal sanitaire voorzieningen worden beperkt tot een toilet, een wasbak en een badkuip of douche per tien zeevarenden indien aan de wal aanvullende sanitaire voorzieningen aanwezig zijnen de sanitaire voorzieningen aan de wal en aan boord tezamen voldoen aan norm A3.1, lid 11, onderdeel c van het Maritiem Arbeidsverdrag.   
-3.  Op schepen van minder dan 200GT is norm A.3.1, lid 11, onderdeel d, van het Maritiem Arbeidsverdrag ten aanzien van wastafels in nachtverblijven, niet van toepassing.   
+3.  Op schepen van minder dan 200 GT is norm A.3.1, lid 11, onderdeel d, van het Maritiem Arbeidsverdrag ten aanzien van wastafels in nachtverblijven, niet van toepassing.   
 
 ### Artikel  3.12  
 
@@ -330,7 +330,7 @@ b. materialen en kleuren voor wand- en vloerbedekking worden toegepast gericht o
 a. op schepen waar het aantal zeevarenden dat verblijft in nachtverblijven voor meer dan een persoon, minder is dan 30, één bed;  
 
 b. op schepen waar het aantal zeevarenden dat verblijft in nachtverblijven voor meer dan een persoon, 30 of meer is, twee bedden die niet boven elkaar gelegen zijn.     
-4.  Op passagiersschepen is een bij voorkeur een apart ziekenverblijf voor passagiers aanwezig. Indien er geen apart ziekenverblijf voor passagiers is, worden de passagiers voor de toepassing van het derde lid meegeteld als zeevarenden.   
+4.  Op passagiersschepen is bij voorkeur een apart ziekenverblijf voor passagiers aanwezig. Indien er geen apart ziekenverblijf voor passagiers is, worden de passagiers voor de toepassing van het derde lid meegeteld als zeevarenden.   
 5.  Op een schip dat op een internationaal traject van meer dan drie etmalen vaart, met een bemanning en overig personeel van honderd personen of meer die, in welke hoedanigheid ook, aan boord ten behoeve van het schip in dienst of tewerkgesteld zijn, inclusief stagiairs en leerlingen alsmede personen die werkzaam zijn als loods,, is een verblijf ingericht als apotheek en verbandkamer dat grenst aan het ziekenverblijf en dat kan worden afgesloten.   
 6.  Op schepen waar gelet op het eerste lid geen ziekenverblijf aanwezig is, is een eenpersoons nachtverblijf beschikbaar dat als ziekenkooi kan worden ingericht. Op schepen met minder dan zes zeevarenden, kan worden volstaan met een als ziekenkooi ingerichte slaapplaats in een nachtverblijf. Dit nachtverblijf is gemakkelijk toegankelijk.   
 
@@ -341,7 +341,7 @@ b. op schepen waar het aantal zeevarenden dat verblijft in nachtverblijven voor 
 1.  Aan boord zijn in overeenstemming met norm A3.1, lid 17, van het Maritiem Arbeidsverdrag recreatieve voorzieningen die voldoen aan de normering van de in de onderstaande tabel genoemde onderdelen van leidraden van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | boekenkast en meubilair voor lezen, schrijven en gezelschapsspellen  | leidraad B.3.1.11, lid 2  |
 | rookvoorziening  | leidraad B.3.1.11, lid 4, onderdeel a  |
 | televisie en radio  | leidraad B.3.1.11, lid 4, onderdeel b  |
@@ -353,7 +353,7 @@ b. op schepen waar het aantal zeevarenden dat verblijft in nachtverblijven voor 
 2.  Aan boord van schepen van 8000 GT of meer zijn naast de in het eerste lid bedoelde voorzieningen voorts recreatieve voorzieningen aanwezig die voldoen aan de normering van de in de onderstaande tabel genoemde onderdelen van leidraden van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | sportvoorzieningen  | leidraad B.3.1.11, lid 4, onderdeel d  |
 | zwembad  | leidraad B.3.1.11, lid 4, onderdeel e  |
 | faciliteiten voor creatieve bezigheden  | leidraad B.3.1.11, lid 4, onderdeel g  |
@@ -376,7 +376,7 @@ De minister kan, na overleg met de betrokken organisaties van scheepsbeheerders 
 1.  Aan boord zijn de volgende voorzieningen aanwezig, die voldoen aan de volgende onderdelen van normen en de normering van de onderdelen van leidraden van het Maritiem Arbeidsverdrag:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | wasvoorzieningen  | norm A3.1, lid 13 en leidraad B3.1.7, lid 4  |
 | ruimte op het open dek  | norm A3.1, lid 14  |
 | kantoren  | norm A3.1, lid 15, eerste volzin  |
@@ -475,7 +475,7 @@ g. de resultaten van het overleg met de betrokken organisaties van scheepsbeheer
 
 ####Voeding
 
-1.  Voor de bevoorrading van een schip met levensmiddelen die voldoen aan de in [artikel 48a van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bedoelde eisen, worden de soorten en hoeveelheden mee te nemen levensmiddelen bepaald op basis van: 
+1.  Voor de bevoorrading van een schip met levensmiddelen die voldoen aan de in artikel 48a van de wet bedoelde eisen, worden de soorten en hoeveelheden mee te nemen levensmiddelen bepaald op basis van: 
 
 a. het aantal zeevarenden aan boord;  
 
@@ -536,7 +536,7 @@ De voorraad sterke drank aan boord is niet groter dan 0,1 liter per zeevarende p
 
 ####Inspectie
 
-1.  Een inspectie als bedoeld in [artikel 48a, derde lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) wordt minimaal één keer per maand uitgevoerd overeenkomstig het bepaalde in norm A3.2, lid 7, van het Maritiem Arbeidsverdrag.   
+1.  Een inspectie als bedoeld in artikel 48a, derde lid, van de wet wordt minimaal één keer per maand uitgevoerd overeenkomstig het bepaalde in norm A3.2, lid 7, van het Maritiem Arbeidsverdrag.   
 2.  De bevindingen van de inspectie worden in het scheepsdagboek vermeld.   
 3.  Voor het uitvoeren van een inspectie van het drinkwater, worden alle noodzakelijke hygiënemaatregelen genomen om besmetting van het drinkwater te voorkomen.   
 
@@ -549,7 +549,7 @@ De voorraad sterke drank aan boord is niet groter dan 0,1 liter per zeevarende p
 ####Inhoud verklaring naleving maritieme arbeid deel I
 
 1.  Een verklaring naleving maritieme arbeid deel I bevat de elementen als bedoeld in norm A5.1.3, lid 10, onderdeel a, van het Maritiem Arbeidsverdrag en wordt opgesteld met inachtneming van leidraad B5.1.3, leden 1 en 4, van het Maritiem Arbeidsverdrag.   
-2.  Het in artikel 5.8, derde lid, bedoelde model bevat een opsomming van de eisen bedoeld in [artikel 48c, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) die op de desbetreffende schepen van toepassing zijn. Daarbij wordt voor wat betreft de voorschriften met betrekking tot huisvesting en voorzieningen voor zeevarenden onderscheid gemaakt tussen de verschillende typen schepen, bedoeld in artikel 1.1, de categorieën van schepen bedoeld in artikel 1.3, het tonnage en de bouwdatum van het schip.   
+2.  Het in artikel 5.8, derde lid, bedoelde model bevat een opsomming van de eisen bedoeld in artikel 48c, eerste lid, van de wet die op de desbetreffende schepen van toepassing zijn. Daarbij wordt voor wat betreft de voorschriften met betrekking tot huisvesting en voorzieningen voor zeevarenden onderscheid gemaakt tussen de verschillende typen schepen, bedoeld in artikel 1.1, de categorieën van schepen bedoeld in artikel 1.3, het tonnage en de bouwdatum van het schip.   
 
 ### Artikel  5.2  
 
@@ -557,9 +557,9 @@ De voorraad sterke drank aan boord is niet groter dan 0,1 liter per zeevarende p
 
 1.  In de verklaring naleving maritieme arbeid deel II wordt vermeld: 
 
-a. de maatregelen en procedures om te waarborgen dat voortdurend wordt voldaan aan de in [artikel 48c, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bedoelde eisen en de voorgestelde maatregelen om voortdurende verbetering van de naleving te waarborgen;  
+a. de maatregelen en procedures om te waarborgen dat voortdurend wordt voldaan aan de in artikel 48c, eerste lid, van de wet bedoelde eisen en de voorgestelde maatregelen om voortdurende verbetering van de naleving te waarborgen;  
 
-b. de maatregelen die worden getroffen indien blijkt dat niet wordt voldaan aan bepaalde in [artikel 48c, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bedoelde eisen; en  
+b. de maatregelen die worden getroffen indien blijkt dat niet wordt voldaan aan bepaalde in artikel 48c, eerste lid, van de wet bedoelde eisen; en  
 
 c. welke personen zijn aangewezen voor het toepassen van de in de onderdelen a en b bedoelde maatregelen en procedures.     
 2.  De verklaring naleving maritieme arbeid deel II wordt opgesteld in overeenstemming met de normering van leidraad B5.1.3, leden 2, 3 en 4, van het Maritiem Arbeidsverdrag.   
@@ -571,7 +571,7 @@ c. welke personen zijn aangewezen voor het toepassen van de in de onderdelen a e
 1.  Een certificaat maritieme arbeid heeft een geldigheidsduur van ten hoogste vijf jaren.   
 2.  Ter verkrijging van een certificaat maritieme arbeid, bij een tussentijdse inspectie als bedoeld in het derde lid, en bij een verlengingsinspectie als bedoeld in het vierde lid: 
 
-a. wordt onderzocht of het schip voldoet aan de eisen als bedoeld in [artikel 48c, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), en aan de voorschriften genoemd op de toepasselijke verklaring naleving maritieme arbeid deel I; en  
+a. wordt onderzocht of het schip voldoet aan de eisen als bedoeld in artikel 48c, eerste lid, van de wet, en aan de voorschriften genoemd op de toepasselijke verklaring naleving maritieme arbeid deel I; en  
 
 b. wordt beoordeeld of de verklaring naleving maritieme arbeid deel II voldoet aan het bepaalde in artikel 5.2, en of op basis van de inhoud van die verklaring voldoende is gewaarborgd dat de in onderdeel a bedoelde eisen die op het desbetreffende schip van toepassing zijn, voortdurend worden nageleefd.     
 3.  Tijdens de geldigheidsduur van het certificaat maritieme arbeid wordt het schip onderworpen aan een tussentijdse inspectie die plaatsvindt tussen de tweede en derde verjaardatum van het certificaat. Van een goed verlopen tussentijdse inspectie wordt aantekening gemaakt op het certificaat.   
@@ -583,7 +583,7 @@ b. wordt beoordeeld of de verklaring naleving maritieme arbeid deel II voldoet a
 
 1.  De uitkomsten van een inspectie als bedoeld in artikel 5.3 worden door de betrokken ambtenaar of degene die namens een rechtspersoon de inspectie heeft uitgevoerd opgenomen in een inspectierapport, waarbij alle eventuele zwaarwegende tekortkomingen uitdrukkelijk worden vermeld. De datum waarop wordt vastgesteld dat een zwaarwegende tekortkoming is verholpen, wordt eveneens aangetekend op het inspectierapport.   
 2.  Een afschrift van het inspectierapport wordt in de werktaal van het schip en in het Engels, indien de werktaal geen Engels is en het schip internationale reizen maakt, verstrekt aan de kapitein.   
-3.  De kapitein verstrekt op verzoek een afschrift van het inspectierapport alsmede van het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid in het Engels of in de werktaal van het schip, aan krachtens [artikel 48d van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) aangewezen ambtenaren, aan inspecteurs van een havenstaat of aan vertegenwoordigers van scheepsbeheerders of zeevarenden.   
+3.  De kapitein verstrekt op verzoek een afschrift van het inspectierapport alsmede van het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid in het Engels of in de werktaal van het schip, aan krachtens artikel 48d van de wet aangewezen ambtenaren, aan inspecteurs van een havenstaat of aan vertegenwoordigers van scheepsbeheerders of zeevarenden.   
 
 ### Artikel  5.5  
 
@@ -604,7 +604,7 @@ c. schepen die in het beheer komen van een andere scheepsbeheerder .
 
 ####Aanvraag certificaat maritieme arbeid en voorlopig certificaat maritieme arbeid
 
-1.  Een aanvraag voor een certificaat maritieme arbeid of een voorlopig certificaat maritieme arbeid wordt schriftelijk ingediend bij een op grond van [artikel 48d, eerste lid van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) aangewezen ambtenaar of rechtspersoon. Daarbij verstrekt de scheepsbeheerder de volgende gegevens en documenten: 
+1.  Een aanvraag voor een certificaat maritieme arbeid of een voorlopig certificaat maritieme arbeid wordt schriftelijk ingediend bij een op grond van artikel 48d, eerste lid van de wet aangewezen ambtenaar of rechtspersoon. Daarbij verstrekt de scheepsbeheerder de volgende gegevens en documenten: 
 
 a. naam van het schip;  
 
@@ -612,21 +612,21 @@ b. IMO-nummer van het schip;
 
 c. de naam van de scheepsbeheerder;  
 
-d. technische gegevens van het schip, inclusief de op grond van artikel 3.23 goedgekeurde plannen, of een certificaat als bedoeld in artikel 5.3, vijfde lid;  
+d. technische gegevens van het schip, inclusief de op grond van artikel 3.23 goedgekeurde plannen;  
 
 e. de datum van de kiellegging.     
 2.  Op basis van de gegevens bedoeld in het eerste lid, ontvangt de scheepsbeheerder een verklaring naleving maritieme arbeid deel I, aan de hand waarvan de scheepsbeheerder een verklaring naleving maritieme arbeid deel II opstelt die in overeenstemming is met het bepaalde in artikel 5.2 en 5.8, vierde lid, en, voor zover van toepassing, artikel 5.5, derde lid.   
-3.  Nadat de in het eerste lid bedoelde ambtenaar of rechtspersoon, de verklaring naleving maritieme arbeid deel II heeft ontvangen, worden de in artikel 5.3 of artikel 5.5, derde lid, bedoelde onderzoeken uitgevoerd.   
+3.  Nadat de in het eerste lid bedoelde ambtenaar of rechtspersoon, de verklaring naleving maritieme arbeid deel II heeft ontvangen, worden de in artikel 5.3 of artikel 5.5, vierde lid, bedoelde onderzoeken uitgevoerd.   
 
 ### Artikel  5.7  
 
 ####Vervallen certificaat bij onttrekken van schip aan oorspronkelijke bestemming
 
-Onverminderd het bepaalde in [artikel 48e van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), vervalt een voor dat schip afgegeven certificaat maritieme arbeid indien: 
+Onverminderd het bepaalde in artikel 48e van de wet, vervalt een voor dat schip afgegeven certificaat maritieme arbeid indien: 
 
 a. het schip wordt onttrokken aan zijn oorspronkelijke bestemming waardoor het niet meer als schip wordt gebruikt;  
 
-b. het schip zonder dat een verbouwing of wijziging van de inrichting plaatsvindt als bedoeld in [artikel 48e, eerste lid, onderdeel a van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), van bestemming wijzigt.    
+b. het schip zonder dat een verbouwing of wijziging van de inrichting plaatsvindt als bedoeld in artikel 48e, eerste lid, onderdeel a van de wet, van bestemming wijzigt.    
 
 ### Artikel  5.8  
 
@@ -642,7 +642,7 @@ b. het schip zonder dat een verbouwing of wijziging van de inrichting plaatsvind
 
 ####Erkenning van organisaties
 
-1.  Een erkenning als bedoeld in [artikel 48d, vierde lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) kan worden verleend aan rechtspersonen die voldoen aan de volgende criteria: 
+1.  Een erkenning als bedoeld in artikel 48d, vierde lid, van de wet kan worden verleend aan rechtspersonen die voldoen aan de volgende criteria: 
 
 a. de rechtspersoon beschikt over een gecertificeerd kwaliteitssysteem, waarin de procedures alsmede het beheer van alle documentatie met betrekking tot de onderzoeken waarvoor de aanwijzing geldt zijn geborgd;  
 
@@ -658,7 +658,7 @@ c. de rechtspersoon voert een onafhankelijke bedrijfsvoering en kan daarover ver
 
 ####Aanwijzing erkende rechtspersonen
 
-1.  Een rechtspersoon die is erkend overeenkomstig het bepaalde in artikel 5.9 en die is aangewezen op grond van [artikel 6, tweede lid, van de Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md), kan de minister verzoeken om een aanwijzing als bedoeld in [artikel 48d, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md).   
+1.  Een rechtspersoon die is erkend overeenkomstig het bepaalde in artikel 5.9 en die is aangewezen op grond van artikel 6, tweede lid, van de Schepenwet, kan de minister verzoeken om een aanwijzing als bedoeld in artikel 48d, eerste lid, van de wet.   
 2.  Een aanwijzing wordt ingetrokken indien de in artikel 5.9 bedoelde erkenning wordt ingetrokken   
 3.  Een aanwijzing kan worden ingetrokken indien de aangewezen rechtspersoon handelt in strijd met een voorschrift dat is verbonden aan de aanwijzing of in strijd met de overeenkomst, bedoeld in artikel 5.9, tweede lid.   
 4.  Een aanwijzing kan worden geschorst indien door een handeling of nalaten van de aangewezen rechtspersoon ernstig gevaar voor de veiligheid kan of is ontstaan.   
@@ -671,7 +671,7 @@ c. de rechtspersoon voert een onafhankelijke bedrijfsvoering en kan daarover ver
 
 ####Gegevensregistratie Centraal inspectieregister
 
-1.  Na het uitvoeren van een inspectie als bedoeld in artikel 5.3, tweede, derde of vierde lid, worden door de betrokken ambtenaar of degene die namens een rechtspersoon de inspectie heeft uitgevoerd, de volgende gegevens in het in [artikel 65, tweede lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bedoelde register geregistreerd: 
+1.  Na het uitvoeren van een inspectie als bedoeld in artikel 5.3, tweede, derde of vierde lid, worden door de betrokken ambtenaar of degene die namens een rechtspersoon de inspectie heeft uitgevoerd, de volgende gegevens in het in artikel 65, tweede lid, van de wet bedoelde register geregistreerd: 
 
 a. naam van het schip;  
 
@@ -679,7 +679,7 @@ b. IMO-nummer van het schip;
 
 c. naam van de scheepsbeheerder van het schip;  
 
-d. naam van de op grond van [artikel 48d, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) aangewezen ambtenaar of degene die namens een rechtspersoon de inspectie heeft uitgevoerd;  
+d. naam van de op grond van artikel 48d, eerste lid, van de wet aangewezen ambtenaar of degene die namens een rechtspersoon de inspectie heeft uitgevoerd;  
 
 e. datum en plaats van de inspectie;  
 
@@ -688,7 +688,7 @@ f. de resultaten van vraaggesprekken met zeevarenden aan boord;
 h. informatie betreffende eventuele inbreuken op de wetgeving, opgelegde sancties en aanhouding van het schip;  
 
 i. gerapporteerde arbeidsongevallen.     
-2.  Rechtspersonen die zijn aangewezen op grond van [artikel 48d, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md), dragen er zorg voor dat de in het eerste lid bedoelde inspectiegegevens in het register worden geregistreerd op de door de minister bij die aanwijzing voorgeschreven wijze.   
+2.  Rechtspersonen die zijn aangewezen op grond van artikel 48d, eerste lid, van de wet, dragen er zorg voor dat de in het eerste lid bedoelde inspectiegegevens in het register worden geregistreerd op de door de minister bij die aanwijzing voorgeschreven wijze.   
 3.  De minister brengt binnen zes maanden na afloop van elk kalenderjaar een verslag uit van de in het desbetreffende jaar uitgevoerde inspecties.   
 
 ### §  7  
@@ -699,13 +699,13 @@ i. gerapporteerde arbeidsongevallen.
 
 ####Klager
 
-In deze paragraaf wordt verstaan onder ‘klager’: een zeevarende die overeenkomstig een klachtenprocedure als bedoeld in [artikel 69a, eerste lid, van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) of de regels bedoeld in artikel 69b, tweede lid, van de wet, een klacht indient.  
+In deze paragraaf wordt verstaan onder ‘klager’: een zeevarende die overeenkomstig een klachtenprocedure als bedoeld in artikel 69a, eerste lid, van de wet of de regels bedoeld in artikel 69b, tweede lid, van de wet, een klacht indient.  
 
 ### Artikel  7.2  
 
 ####Klachtenprocedure aan boord
 
-1.  In een procedure als bedoeld in [artikel 69a van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) wordt tenminste opgenomen: 
+1.  In een procedure als bedoeld in artikel 69a van de wet wordt tenminste opgenomen: 
 
 a. bij welke persoon of personen aan boord een klacht kan worden ingediend, waarbij klachten in ieder geval bij de kapitein kunnen worden ingediend;  
 
@@ -728,13 +728,9 @@ c. om klachten in te dienen betreffende een vermoedelijke schending van het Mari
 
 ####Klachtbehandeling aan de wal
 
-1.  Een klacht als bedoeld in [artikel 69b van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) wordt ingediend bij een daartoe door de minister aangewezen ambtenaar van de Inspectie Leefomgeving en Transport. Deze ambtenaar zorgt voor een vertrouwelijke behandeling van de klacht.   
-2.  Indien een erkende rechtspersoon als bedoeld in artikel 5.8, een melding ontvangt van een klacht, zorgt deze erkende rechtspersoon ervoor dat de klacht wordt ingediend bij de in het eerste lid bedoelde ambtenaar.   
-3.  Schriftelijk ingediende klachten worden gericht aan Inspectie Leefomgeving en Transport, te bereiken via: 
-
-a. het postadres: postbus 16191, 2500 BD Rotterdam, Nederland; of  
-
-b. de website: www.rijksoverheid.nl/ministeries/ienm.     
+1.  Een klacht als bedoeld in artikel 69b van de wet wordt ingediend bij de voor de klachtenbehandeling door de Inspecteur-Generaal van de Inspectie Leefomgeving en Transport aangewezen ambtenaren van die inspectie. De Inspecteur-Generaal draagt zorg voor een vertrouwelijke behandeling van de klacht.   
+2.  Indien een erkende rechtspersoon als bedoeld in artikel 5.9, een melding ontvangt van een klacht, zorgt deze erkende rechtspersoon ervoor dat de klacht wordt ingediend bij de in het eerste lid bedoelde ambtenaar.   
+3.  Schriftelijk ingediende klachten worden gericht aan de Inspectie Leefomgeving en Transport, te bereiken via:a. het postadres: Postbus 16191, IPC 525, 2500 BD Den Haag, Nederland ofb. de website http://www.ILenT.nl.   
 4.  Een klacht is ontvankelijk indien: 
 
 a. deze een vermoedelijke schending van het Maritiem Arbeidsverdrag of een vermeend onrechtmatig bevel van de kapitein betreft;  
@@ -751,15 +747,15 @@ a. wordt nagegaan of het een individuele klacht of een algemene klacht betreft e
 
 b. wordt de klager gevraagd of hij zijn klacht wil handhaven indien zijn anonimiteit, gelet op de aard van de klacht, niet gewaarborgd kan worden;  
 
-c. wordt nagegaan of de in [artikel 69a van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bedoelde klachtenprocedure is doorlopen en, als dat niet het geval is, wordt de klacht niet verder behandeld, tenzij blijkt dat klager die klachtenprocedure niet heeft gebruikt uit angst voor de gevolgen daarvan of wegens een andere goede reden als bedoeld in leidraad B5.2.2, lid 4;  
+c. wordt nagegaan of de in artikel 69a van de wet bedoelde klachtenprocedure is doorlopen en, als dat niet het geval is, wordt de klacht niet verder behandeld, tenzij blijkt dat klager die klachtenprocedure niet heeft gebruikt uit angst voor de gevolgen daarvan of wegens een andere goede reden als bedoeld in leidraad B5.2.2, lid 4;  
 
-d. wordt nagegaan waarom het doorlopen van de in [artikel 69a van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) bedoelde klachtenprocedure niet heeft geleid tot een oplossing van de klacht;  
+d. wordt nagegaan waarom het doorlopen van de in artikel 69a van de wet bedoelde klachtenprocedure niet heeft geleid tot een oplossing van de klacht;  
 
 e. worden, indien de aard van de klacht en noodzakelijke waarborgen voor de klager dit toelaten, de kapitein, de scheepsbeheerder en eventueel andere bij de klacht betrokken personen in de gelegenheid gesteld hun standpunt kenbaar te maken;  
 
 f. wordt nagegaan of de klacht aan boord eenvoudig kan worden opgelost;  
 
-g. wordt een klacht zo nodig onderzocht door het uitoefenen van toezicht als bedoeld in [hoofdstuk 5 van de wet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) of in het kader van een inspectie als bedoeld in artikel 5.3, waarbij niet wordt gemeld dat de inspectie het gevolg is van een klacht;  
+g. wordt een klacht zo nodig onderzocht door het uitoefenen van toezicht als bedoeld in hoofdstuk 5 van de wet of in het kader van een inspectie als bedoeld in artikel 5.3, waarbij niet wordt gemeld dat de inspectie het gevolg is van een klacht;  
 
 h. worden de conclusie en eventuele maatregelen op basis van het onderzoek naar de klacht medegedeeld aan de klager of aan een door de klager opgegeven contactpersoon of belangenorganisatie, op een wijze die de gewenste anonimiteit van de klager in acht neemt.     
 
@@ -847,9 +843,10 @@ Wijzigt de Regeling inzage gegevens en bescheiden Zeebrievenwet.
 
 ####Inwerkingtreding
 
-De paragrafen 1, 5 en 6, de artikelen 8.2, onderdeel Q, en 8.14, onderdeel H, en paragraaf 9 van deze regeling treden in werking op het tijdstip waarop [artikel I, onderdeel U, van de wet van 6 juli 2011 (Stb. 394) inzake implementatie van het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag](../../../../wet/wet/implementatie/maritiem/arbeidsverdrag/BWBR0030386/README.md), 2006 (Trb. 2007, 93) voor wat betreft het in dat onderdeel opgenomen hoofdstuk IVB in werking treedt.  
+1.  De paragrafen 1, 5 en 6, artikel 8.14, onderdeel H, en paragraaf 9 van deze regeling treden in werking op het tijdstip waarop artikel I, onderdeel U, van de wet van 6 juli 2011 (Stb. 394) inzake implementatie van het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93) voor wat betreft het in dat onderdeel opgenomen hoofdstuk 4B in werking treedt.   
+2.  De overige bepalingen van deze regeling treden in werking met ingang van 20 augustus 2013.   
 
-### Artikel  9.3  
+### Artikel  9.2  
 
 ####Citeertitel
 
@@ -862,44 +859,44 @@ M.H.Schultz van Haegen-Maas Geesteranus
 
 ### Bijlage  A  
 
-####– Model document als bedoeld in [artikel 38, eerste lid, van de Wet zeevarenden](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en artikel 2.1  van de Regeling zeevarenden
+####– Model document als bedoeld in artikel 38, eerste lid, van de Wet zeevarenden en artikel 2.1  van de Regeling zeevarenden
 
-![251256](http://wetten.overheid.nl/Illustration/251256)
-![251256](http://wetten.overheid.nl/Illustration/251256)
+![]()
+![]()
 
 ### Bijlage  B  
 
 ####– Model certificaat maritieme arbeid
 
-![251262](http://wetten.overheid.nl/Illustration/251262)
-![251262](http://wetten.overheid.nl/Illustration/251262)
-![251262](http://wetten.overheid.nl/Illustration/251262)
-![251262](http://wetten.overheid.nl/Illustration/251262)
-![251262](http://wetten.overheid.nl/Illustration/251262)
-![251262](http://wetten.overheid.nl/Illustration/251262)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  C  
 
 ####– Model voorlopig certificaat maritieme arbeid
 
-![251264](http://wetten.overheid.nl/Illustration/251264)
-![251264](http://wetten.overheid.nl/Illustration/251264)
+![]()
+![]()
 
 ### Bijlage  D  
 
 ####– Verklaring naleving maritieme arbeid deel I
 
-![251270](http://wetten.overheid.nl/Illustration/251270)
-![251270](http://wetten.overheid.nl/Illustration/251270)
-![251270](http://wetten.overheid.nl/Illustration/251270)
-![251270](http://wetten.overheid.nl/Illustration/251270)
-![251270](http://wetten.overheid.nl/Illustration/251270)
-![251270](http://wetten.overheid.nl/Illustration/251270)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  E  
 
 ####– Model verklaring naleving maritieme arbeid deel II
 
-![251272](http://wetten.overheid.nl/Illustration/251272)
-![251272](http://wetten.overheid.nl/Illustration/251272)
+![]()
+![]()
 

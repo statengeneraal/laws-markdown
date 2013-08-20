@@ -16,13 +16,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Economische Zaken;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. ruimtevaartactiviteiten: het lanceren, het bedienen van de vlucht of het geleiden van ruimtevoorwerpen in de kosmische ruimte;  
 
 c. ruimtevoorwerp: ieder voorwerp gelanceerd of bestemd om te worden gelanceerd in de kosmische ruimte;  
 
-d. Nederlands schip: een schip als bedoeld in [artikel 1, onderdeel b, van de Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md);  
+d. Nederlands schip: een schip als bedoeld in [artikel 1, onderdeel b, van de Wet zeevarenden](../../../../wet/wet/zeevarenden/BWBR0009124/README.md);  
 
 e. Nederlands luchtvaartuig: een in Nederland krachtens [artikel 3.3 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) geregistreerd luchtvaartuig;  
 

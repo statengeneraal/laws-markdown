@@ -497,7 +497,7 @@ Bij gebreke van aanbieding ter betaling van den wisselbrief binnen den termijn, 
 
 1.  De betaling van eenen wisselbrief moet gevraagd en het daarop volgende protest gedaan worden ter woonplaats van den betrokkene.   
 2.  Indien de wisselbrief getrokken is om in eene andere aangewezene woonplaats of door eenen anderen aangewezen persoon, hetzij in dezelfde, hetzij in eene andere gemeente te worden betaald, moet de betaling gevraagd en het protest opgemaakt worden ter aangewezene woonplaats of aan den aangewezen persoon.   
-3.  [Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+3.  Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
 
 ### Artikel  143b  
 
@@ -721,11 +721,11 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 ### Artikel  167a  
 
-Degene die een wisselbrief, waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van de betrokkene betaling vragen.  
+Degene die een wisselbrief, waarvan hij houder was, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek van de betrokkene betaling vragen.  
 
 ### Artikel  167b  
 
-Degene die een wisselbrief waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen.  
+Degene die een wisselbrief waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek, zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen.  
 
 ### Tiende  afdeeling  
 
@@ -748,12 +748,12 @@ Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door al
 1.  Alle rechtsvorderingen, welke uit den wisselbrief tegen den acceptant voortspruiten, verjaren door een tijdsverloop van drie jaren, te rekenen van den vervaldag.   
 2.  De rechtsvorderingen van den houder tegen de endossanten en tegen den trekker verjaren door een tijdsverloop van een jaar, te rekenen van de dagteekening van het tijdig opgemaakte protest of, ingeval van de clausule zonder kosten, van den vervaldag.   
 3.  De rechtsvorderingen van de endossanten tegen elkander en tegen den trekker verjaren door tijdsverloop van zes maanden, te rekenen van den dag, waarop de endossant ter voldoening aan zijnen regresplicht den wisselbrief heeft betaald, of van den dag, waarop hij zelf in rechte is aangesproken.   
-4.  De in het eerste lid bedoelde verjaring kan niet worden ingeroepen door den acceptant, indien of voor zoover hij fonds heeft ontvangen of zich ongerechtvaardigd zou hebben verrijkt; evenmin kan de in het tweede en derde lid bedoelde verjaring worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+4.  De in het eerste lid bedoelde verjaring kan niet worden ingeroepen door den acceptant, indien of voor zoover hij fonds heeft ontvangen of zich ongerechtvaardigd zou hebben verrijkt; evenmin kan de in het tweede en derde lid bedoelde verjaring worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek.   
 
 ### Artikel  170  
 
 1.  De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad.   
-2.  Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.   
+2.  Op de in het vorige artikel bedoelde verjaringen is artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.   
 
 ### Twaalfde  afdeeling  
 
@@ -1107,7 +1107,7 @@ De houder kan zijn recht van regres uitoefenen op de endossanten, den trekker en
 
 1.  De betaling van eene chèque moet gevraagd en het daaropvolgend protest gedaan worden ter woonplaatse van den betrokkene.   
 2.  Indien de chèque getrokken is om in een andere aangewezen woonplaats of door een anderen aangewezen persoon, hetzij in dezelfde, hetzij in een andere gemeente te worden betaald, moet de betaling gevraagd en het protest opgemaakt worden ter aangewezene woonplaats of aan den aangewezen persoon.   
-3.  [Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+3.  Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
 
 ### Artikel  218b  
 
@@ -1204,11 +1204,11 @@ Behoudens de chèques aan toonder, kan elke chèque, uitgegeven in een land en b
 
 ### Artikel  227a  
 
-Degene die de cheque waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van de betrokkene betaling vragen.  
+Degene die de cheque waarvan hij houder was, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek van de betrokkene betaling vragen.  
 
 ### Artikel  227b  
 
-Degene die een cheque waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn rechten alleen tegen de trekker uitoefenen.  
+Degene die een cheque waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek zijn rechten alleen tegen de trekker uitoefenen.  
 
 ### Achtste  afdeeling  
 
@@ -1230,12 +1230,12 @@ Behoudens de bepalingen van het volgende artikel gaat schuld uit eene chèque te
 
 1.  De regresvorderingen van den houder tegen de endossanten, den trekker en de andere chèqueschuldenaren, verjaren door een tijdsverloop van zes maanden, te rekenen van het einde van den termijn van aanbieding.   
 2.  De regresvorderingen van de verschillende chèqueschuldenaren tegen elkander, die gehouden zijn tot de betaling van eene chèque, verjaren door een tijdsverloop van zes maanden, te rekenen van den dag, waarop de chèqueschuldenaar ter voldoening aan zijnen regresplicht de chèque heeft betaald, of van den dag, waarop hij zelf in rechte is aangesproken.   
-3.  De in het eerste en tweede lid bedoelde verjaring kan niet worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+3.  De in het eerste en tweede lid bedoelde verjaring kan niet worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek.   
 
 ### Artikel  229a  
 
 1.  De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad.   
-2.  Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.   
+2.  Op de in het vorige artikel bedoelde verjaringen is artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder.   
 
 ### Tiende  afdeeling  
 
@@ -1295,7 +1295,7 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 ### Artikel  229k  
 
 1.  Alle regtsvordering tegen de in deze Afdeeling vermelde uitgevers van papier, of tegen hen, die buiten den oorspronkelijken uitgever het papier in betaling hebben gegeven, verjaart door tijdsverloop van zes maanden, te rekenen van den dag der oorspronkelijke uitgifte.   
-2.  De in het vorig lid bedoelde verjaring kan niet worden ingeroepen door den uitgever, indien of voor zoover hij geen fonds heeft bezorgd noch door den uitgever of door hen, die buiten den oorspronkelijken uitgever het papier in betaling hebben gegeven, voor zoover ze zich ongeregtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+2.  De in het vorig lid bedoelde verjaring kan niet worden ingeroepen door den uitgever, indien of voor zoover hij geen fonds heeft bezorgd noch door den uitgever of door hen, die buiten den oorspronkelijken uitgever het papier in betaling hebben gegeven, voor zoover ze zich ongeregtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek.   
 3.  Op de in dit artikel genoemde verjaringen is het tweede lid van art. 229 *a* van toepassing.   
 
 ### Achtste  titel  
@@ -1306,21 +1306,31 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 
 ####Van assurantie of verzekering in het algemeen
 
+Vervallen per 01-01-2006   
+
 ### Tiende  titel  
 
 ####Van verzekering tegen de gevaren van brand, tegen die waaraan de voortbrengselen van den landbouw te velde onderhevig zijn, en van levensverzekering
+
+Vervallen per 01-01-2006   
 
 ### Eerste  afdeeling  
 
 ####Van verzekering tegen gevaren van brand
 
+Vervallen per 01-01-2006   
+
 ### Tweede  afdeeling  
 
 ####Van verzekering tegen de gevaren waaraan de voortbrengselen van den landbouw te velde onderhevig zijn
 
+Vervallen per 01-01-2006   
+
 ### Derde  afdeeling  
 
 ####Van levensverzekering
+
+Vervallen per 01-01-2006   
 
 ### Tweede  Boek  
 
@@ -1330,8 +1340,7 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 
 ### Artikel  309  
 
-1.  De betekenis van begrippen voorkomende in [Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), met uitzondering van die voorkomende in de [artikelen 5](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [6](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [7](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [10](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), geldt evenzeer voor dit wetboek.   
-2.  Onder zeewerkgever is te verstaan de eigenaar of, in geval van rompbevrachting, de rompbevrachter.   
+1.  De betekenis van begrippen voorkomende in Boek 8 van het Burgerlijk Wetboek, met uitzondering van die voorkomende in de artikelen 5, 6, 7 en 10, geldt evenzeer voor dit wetboek.   
 
 ### Eerste  titel  
 
@@ -1339,7 +1348,7 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 
 ### Artikel  310  
 
-In den eersten tot en met den vierden titel van dit boek worden onder schepen uitsluitend verstaan zeeschepen.  
+In de eerste tot en met derde titel van dit boek worden onder schepen uitsluitend verstaan zeeschepen.  
 
 ### Artikel  311  
 
@@ -1355,7 +1364,7 @@ a. het schip is eigendom van een of meer:
 
 4°. natuurlijke personen, vennootschappen of rechtspersonen niet bedoeld onder 1°, 2°, onderscheidenlijk 3°, die aanspraak kunnen maken op het Europese recht van vrije vestiging ingevolge een overeenkomst tussen de Europese Unie en een derde staat;    
 
-b. de eigenaar heeft in Nederland een hoofdvestiging of nevenvestiging in de zin van de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+b. de eigenaar heeft in Nederland een hoofdvestiging of nevenvestiging in de zin van de Handelsregisterwet 2007;  
 
 c. een of meer natuurlijke personen die in Nederland kantoor houden zijn namens de eigenaar verantwoordelijk voor het schip, de kapitein en de overige leden van de bemanning, alsmede voor de daarmee verband houdende aangelegenheden en zijn dienaangaande alleen of tezamen beslissingsbevoegd en beschikken over vertegenwoordigingsbevoegdheid, en  
 
@@ -1366,7 +1375,7 @@ d. een of meer van de natuurlijke personen als bedoeld onder c of, bij verhinder
 
 ### Artikel  311a  
 
-1.  Door of namens Onze Minister van Verkeer en Waterstaat wordt ten behoeve van de teboekstelling, bedoeld in [artikel 194 van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), op verzoek van de reder aan deze een verklaring afgegeven, dat met betrekking tot zijn schip wordt voldaan aan de in artikel 311 genoemde vereisten. Indien met betrekking tot een schip niet langer wordt voldaan aan de in artikel 311 genoemde vereisten wordt deze verklaring door Onze Minister van Verkeer en Waterstaat ingetrokken. Van deze intrekking wordt, nadat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist, onverwijld mededeling gedaan aan de in [artikel 6 van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) bedoelde bewaarder van het kadaster en de openbare registers van het kantoor waar het schip te boek staat.   
+1.  Door of namens Onze Minister van Verkeer en Waterstaat wordt ten behoeve van de teboekstelling, bedoeld in artikel 194 van Boek 8 van het Burgerlijk Wetboek, op verzoek van de reder aan deze een verklaring afgegeven, dat met betrekking tot zijn schip wordt voldaan aan de in artikel 311 genoemde vereisten. Indien met betrekking tot een schip niet langer wordt voldaan aan de in artikel 311 genoemde vereisten wordt deze verklaring door Onze Minister van Verkeer en Waterstaat ingetrokken. Van deze intrekking wordt, nadat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist, onverwijld mededeling gedaan aan de in artikel 6 van de Kadasterwet bedoelde bewaarder van het kadaster en de openbare registers van het kantoor waar het schip te boek staat.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de schriftelijke bewijsstukken en andere gegevens die de reder bij de aanvraag van de verklaring, bedoeld in het eerste lid, dient te verstrekken, alsmede betreffende het toezicht op het voldoen aan de in artikel 311 genoemde vereisten.   
 3.  De kosten van aanvraag en afgifte van een verklaring als bedoeld in de eerste volzin van het eerste lid, komen ten laste van de aanvrager. Het tarief voor deze kosten wordt vastgesteld bij regeling van Onze Minister van Verkeer en Waterstaat.   
 
@@ -1392,7 +1401,7 @@ De bepalingen van de artikelen 311 en 312 zijn niet van toepassing op schepen, a
 
 ### Artikel  340  
 
-In deze titel wordt verstaan onder Nederlands schip: een schip dat Nederlands is op grond van artikel 311 van dit boek, dan wel op grond van [artikel 5 van de Wet nationaliteit zeeschepen in rompbevrachting](../../../../../wet/wet/nationaliteit/zeeschepen/in/rompbevrachting/BWBR0005681/README.md).  
+In deze titel wordt verstaan onder Nederlands schip: een schip dat Nederlands is op grond van artikel 311 van dit boek, dan wel op grond van artikel 5 van de Wet nationaliteit zeeschepen in rompbevrachting.  
 
 ### Derde  titel  
 
@@ -1419,13 +1428,9 @@ De kapitein is verplicht overal waar de wet, de gewoonte of de voorzichtigheid d
 
 De kapitein mag gedurende de vaart of bij dreigend gevaar het schip niet verlaten, tenzij zijne afwezigheid volstrekt noodzakelijk is of de zorg voor lijfsbehoud hem daartoe dwingt.  
 
-### Artikel  346  
-
-De kapitein is verplicht voor de aan boord zijnde goederen van een gedurende de reis overleden opvarende te zorgen en ten overstaan van twee der opvarenden daarvan een behoorlijke beschrijving te maken of te doen maken, welke door hem en door deze opvarenden wordt onderteekend.  
-
 ### Artikel  347  
 
-1.  De kapitein moet aan boord voorzien zijn van: den zeebrief, den meetbrief en een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat, ingeval dat uittreksel meer dan één dag vóór die van het laatste vertrek van het schip uit een Nederlandse haven is afgegeven, op dat uittreksel een verklaring van de bewaarder van het kadaster en de openbare registers moet voorkomen dat sedert de afgifte de op dat uittreksel vermelde gegevens blijkens de stukken, ingeschreven in de desbetreffende openbare registers tot op de dag vóór die van het vertrek, geen wijziging hebben ondergaan; het manifest der lading, de charter-partij en de cognossementen, dan wel afschriften van die stukken; de Nederlandsche wetten en reglementen op de reis van toepassing, en alle verdere noodige papieren.   
+1.  De kapitein moet aan boord voorzien zijn van: den zeebrief, den meetbrief en een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet vermeldende tenminste de gegevens, bedoeld in artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat, ingeval dat uittreksel meer dan één dag vóór die van het laatste vertrek van het schip uit een Nederlandse haven is afgegeven, op dat uittreksel een verklaring van de bewaarder van het kadaster en de openbare registers moet voorkomen dat sedert de afgifte de op dat uittreksel vermelde gegevens blijkens de stukken, ingeschreven in de desbetreffende openbare registers tot op de dag vóór die van het vertrek, geen wijziging hebben ondergaan; het manifest der lading, de charter-partij en de cognossementen, dan wel afschriften van die stukken; de Nederlandsche wetten en reglementen op de reis van toepassing, en alle verdere noodige papieren.   
 2.  Ten aanzien van de charter-partij en de cognossementen geldt deze verplichting niet in de door Ons te omschrijven omstandigheden.   
 
 ### Artikel  348  
@@ -1436,7 +1441,7 @@ De kapitein is verplicht voor de aan boord zijnde goederen van een gedurende de 
 ### Artikel  349  
 
 1.  Op Nederlandse schepen mogen alleen dagboeken in gebruik worden genomen, welke blad voor blad zijn genummerd.   
-2.  De dagboeken worden, zo mogelijk, dagelijks bijgehouden, gedagtekend en door de kapitein en de schepeling, die hij met het houden van het boek heeft belast, ondertekend.   
+2.  De dagboeken worden, zo mogelijk, dagelijks bijgehouden, gedagtekend en door de kapitein en de zeevarende, die hij met het houden van het boek heeft belast, ondertekend.   
 3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het inrichten van de dagboeken.   
 
 ### Artikel  350  
@@ -1461,7 +1466,7 @@ Wanneer de kapitein zich in zaken van aanbelang met leden van de bemanning heeft
 
 ### Artikel  355  
 
-De door den kapitein aan te wijzen schepelingen zijn verplicht bij het opmaken van de scheepsverklaring hunne medewerking te verleenen door van hunne bevinding verklaring af te leggen.  
+De door den kapitein aan te wijzen zeevarenden zijn verplicht bij het opmaken van de scheepsverklaring hunne medewerking te verleenen door van hunne bevinding verklaring af te leggen.  
 
 ### Artikel  356  
 
@@ -1490,12 +1495,6 @@ De kapitein is in geval van nood gedurende de reis bevoegd, levensmiddelen, welk
 
 De kapitein heeft de zorg voor alles wat met het beladen en het lossen van het schip in verband staat, voor zooverre niet andere personen daarmee zijn belast.  
 
-### Artikel  364  
-
-1.  Tegenover de zee-werkgever is de kapitein steeds verplicht te handelen overeenkomstig de bepalingen, waaronder hij is aangesteld, en de hem krachtens die aanstelling gegeven orders, mits deze bepalingen of deze orders niet in strijd zijn met de verplichtingen, hem als gezagvoerder door de wet opgelegd.   
-2.  Hij geeft de zeewerkgever doorloopend kennis van alles wat het schip en de zaken aan boord betreft, en vraagt diens orders, alvorens tot eenigen maatregel van geldelijk aanbelang over te gaan.   
-3.  Overigens is het bepaalde bij de artikelen 359 ook op zijne verhouding tot de zeewerkgever van toepassing.   
-
 ### Artikel  367  
 
 De kapitein, vernemende dat de vlag, waaronder hij vaart, onvrij is geworden, is verplicht in de meest in de nabijheid gelegen onzijdige haven binnen te loopen en aldaar te blijven liggen, totdat hij op veilige wijze kan vertrekken of van hem die daartoe bevoegd is stellige orders om te vertrekken heeft ontvangen.  
@@ -1519,100 +1518,11 @@ Noch de kapitein, noch een opvarende mag voor eigen rekening goederen in het sch
 ### Artikel  374  
 
 1.  Artikel 347, het tweede lid van artikel 348 en artikel 349, eerste lid, zijn niet van toepassing op zeevissersschepen.   
-2.  Aan boord moeten aanwezig zijn een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, welk uittreksel op een zodanig tijdstip moet zijn afgegeven door de bewaarder van het kadaster en de openbare registers dat de daarin vermelde gegevens overeenstemmen met die welke in de registratie voor schepen ten aanzien van het betrokken schip staan vermeld ten tijde van het uitvaren van dat schip, en de wetten en reglementen op deze schepen van toepassing.   
-
-### Artikel  375  
-
-Op de arbeidsovereenkomst tusschen de zeewerkgever en de kapitein zijn de bepalingen van het Burgerlijk Wetboek van toepassing, voor zoover daarvan in dit wetboek niet is afgeweken.  
-
-### Artikel  376  
-
-1.  De arbeidsovereenkomst tusschen de zeewerkgever en de kapitein moet, op straffe van nietigheid, schriftelijk worden aangegaan.   
-2.  Kosten der akte en andere bijkomende kosten zijn ten laste van de zeewerkgever.   
-
-### Artikel  377  
-
-Een door de zeewerkgever vastgesteld reglement betreffende den dienst aan boord is voor den kapitein verbindend, mits hem een exemplaar daarvan is verstrekt, en voor zooverre de inhoud niet in strijd is met de door hem aangegane arbeidsovereenkomst.  
-
-### Artikel  378  
-
-Boete kan den kapitein slechts worden opgelegd krachtens beding in de arbeidsovereenkomst wegens overtreding van daarin te omschrijven bepalingen en tot het daarin vast te stellen maximum. De bestemming der boete moet in de overeenkomst worden aangegeven. De boete mag niet de zeewerkgever ten goede komen.  
-
-### Artikel  379  
-
-1.  Van het oogenblik waarop volgens de arbeidsovereenkomst de arbeidsovereenkomst zal aanvangen heeft de kapitein zich te houden ter beschikking van den zeewerkgever tot het voeren van het in de overeenkomst aangewezen schip, of, bij stilzwijgen van deze, van een door den zeewerkgever aan te wijzen schip, mits dit behoort tot de schepen welke de zeewerkgever voor de vaart ter zee gebruikt. Is omtrent den aanvang van de arbeidsovereenkomst niets bepaald, dan wordt die voor de toepassing van dit voorschrift geacht samen te vallen met het sluiten der overeenkomst.   
-2.  De kapitein wordt geacht in dienst te zijn aan boord van een schip van den dag, waarop hij zijne taak aan boord op zich neemt, tot den dag waarop hij daarvan wordt ontheven.   
-
-### Artikel  380  
-
-De kapitein heeft gedurende den tijd dat hij in dienst is aan boord van een schip, recht op voeding en logies.  
-
-### Artikel  381  
-
-1.  De kapitein heeft aanspraak op vakantie overeenkomstig het bepaalde in artikel 414 van het Wetboek van Koophandel.   
-2.  Het bepaalde in het vorige lid geldt niet voor de kapitein ter visserij.   
-
-### Artikel  382  
-
-Behalve in de gevallen, bedoeld in [artikel 678, lid 2, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), zullen voor de zeewerkgever dringende redenen onder andere aanwezig geacht kunnen worden: 
-
-1°. wanneer de kapitein een opvarende van het door hem gevoerde schip mishandelt, grovelijk beleedigt of op ernstige wijze bedreigt of verleidt of tracht te verleiden tot handelingen strijdig met de wetten of de goede zeden;  
-
-2°. wanneer de kapitein weigert te voldoen aan eene opdracht hem gegeven overeenkomstig het bepaalde in artikel 379;  
-
-3°. wanneer den kapitein, hetzij tijdelijk, hetzij voor goed, de bevoegdheid wordt ontnomen, als zoodanig op een schip dienst te doen;  
-
-4°. wanneer de kapitein, buiten weten van de zeewerkgever, smokkelwaren aan boord heeft gebracht of daar toegelaten.    
-
-### Artikel  383  
-
-1.  Ieder der partijen is te allen tijde, ook vóórdat de arbeidsovereenkomst is aangevangen, bevoegd zich wegens gewichtige redenen te wenden tot de kantonrechter van de rechtbank van het arrondissement waarin de plaats van haar werkelijk verblijf gelegen is, of het schip zich bevindt, of in het Koninkrijk buiten Europa tot het bevoegde gezag, of buiten het Koninkrijk tot den het eerst te bereiken Nederlandschen diplomatieken of bezoldigden consulairen ambtenaar, met het verzoek de arbeidsovereenkomst ontbonden te verklaren. Artikel 450 *d*, eerste lid, vindt overeenkomstige toepassing.   
-2.  Als gewichtige redenen worden, behalve die genoemd in [artikel 685, lid 2, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), ook beschouwd omstandigheden, na den aanvang van den dienst aan boord aan den verzoeker gebleken of na dien opgekomen, waardoor de voortzetting van de reis, waarop het schip zich bevindt, den kapitein of de opvarenden aan onvoorzien, groot levensgevaar zou blootstellen.   
-3.  Indien het betreft eene arbeidsovereenkomst tusschen zeewerkgever en kapitein ter zeevisscherij, kan ieder der partijen zich alleen wenden tot den in het eerste lid bedoelden kantonrechter.   
-
-### Artikel  384  
-
-1.  Eindigt de arbeidsovereenkomst in het buitenland dan heeft de kapitein recht op vrij vervoer tot een haven in Nederland, tenzij hij wegens de wijze, waarop de arbeidsovereenkomst is beëindigd, schadeplichtig is geworden. Indien de arbeidsovereenkomst is ontbonden op verzoek van de kapitein, op grond van gewichtige redenen, heeft hij dit recht slechts, indien de zeewerkgever schadeplichtig is geworden.   
-2.  Onder het vrij vervoer zijn begrepen de kosten van onderhoud en nachtverblijf van het eindigen der arbeidsovereenkomst tot de aankomst van den kapitein in de plaats zijner bestemming.   
-
-### Artikel  385  
-
-De kapitein die de arbeidsovereenkomst doet eindigen, terwijl het door hem gevoerde schip zich op reis bevindt, is verplicht de maatregelen te nemen, welke in verband daarmede noodig zijn voor de veiligheid van het schip, de opvarenden en de zaken aan boord, op straffe van schadevergoeding.  
-
-### Artikel  386  
-
-De bepalingen van de vorige artikelen laten onaangetast de bevoegdheid van de zeewerkgever, te allen tijde den kapitein het gezag over het schip te ontnemen.  
-
-### Artikel  387  
-
-1.  De boeten en de schadeloosstelling bedoeld in de artikelen 378, 385 en 438 in verband met artikel 390, zijn bevoorrecht op het in geld vastgestelde deel van het loon van den kapitein, hetwelk tot het bedrag daarvan kan worden ingehouden.   
-2.  Boete en schadeloosstelling komen in de eerste plaats ten laste van het deel van het loon, dat aan den kapitein persoonlijk moet worden uitbetaald.   
-3.  Het laatste lid van artikel 429 vindt toepassing.   
+2.  Aan boord moeten aanwezig zijn een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet vermeldende tenminste de gegevens, bedoeld in artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, welk uittreksel op een zodanig tijdstip moet zijn afgegeven door de bewaarder van het kadaster en de openbare registers dat de daarin vermelde gegevens overeenstemmen met die welke in de registratie voor schepen ten aanzien van het betrokken schip staan vermeld ten tijde van het uitvaren van dat schip, en de wetten en reglementen op deze schepen van toepassing.   
 
 ### Artikel  388  
 
-Na afloop van eene reis is de kapitein verplicht de scheepspapieren aan de zeewerkgever af te geven tegen ontvangstbewijs.  
-
-### Artikel  389  
-
-De zeewerkgever verbeurt ten behoeve van den kapitein voor iederen dag, dat hij dezen, gedurende of bij het einde van zijn dienst aan boord van een schip, zonder wettige reden ophoudt in het verkrijgen van het in geld vastgestelde deel van zijn loon, € 1,36.  
-
-### Artikel  390  
-
-1.  De artikelen 399, 403, 408, 413, 415, 416, 425, 426, 428, 431-435, 437, 438, 440-442, 450a, 450aa en 450c zijn van overeenkomstige toepassing op de arbeidsovereenkomst van den kapitein.   
-2.  Wanneer het betreft de arbeidsovereenkomst van een kapitein ter zeevisscherij, vinden bovendien de artikelen 452f, 452h en 452l overeenkomstige toepassing.   
-
-### Artikel  391  
-
-De [artikelen 613 tot en met 613 *c*](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [617](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [620](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [624](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [625](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [627](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [artikel 629, lid 10](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [artikel 629 *b*, leden 1, 2, 4 en 3](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voor zover het betreft de toepassing van [artikel 628, leden 3 en 4](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [652](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [657](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [658](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [676](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [683](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [684 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) vinden geen toepassing ten aanzien van de dienst van de kapitein aan boord van een schip.  
-
-### Artikel  392  
-
-Bij overeenkomst kunnen partijen niet afwijken van het bepaalde in de artikelen 376-378, 380 en 383, noch ook ten nadeele van den kapitein van het bepaalde in de artikelen 381, 384 en 389.  
-
-### Artikel  392a  
-
-In deze titel wordt verstaan onder Nederlands schip: een schip dat Nederlands is op grond van artikel 311 van dit boek, dan wel op grond van [artikel 5 van de Wet nationaliteit zeeschepen in rompbevrachting](../../../../../wet/wet/nationaliteit/zeeschepen/in/rompbevrachting/BWBR0005681/README.md) (*Stb.* 1992, 541).  
+Na afloop van eene reis is de kapitein verplicht de scheepspapieren aan de werkgever af te geven tegen ontvangstbewijs.  
 
 ### Vierde  titel  
 
@@ -1622,572 +1532,21 @@ In deze titel wordt verstaan onder Nederlands schip: een schip dat Nederlands is
 
 ####Algemeene bepalingen
 
-### Artikel  393  
-
-1.  Scheepsofficieren zijn de schepelingen, aan wie de monsterrol den rang van officier toekent.   
-2.  Scheepsgezellen zijn alle overige schepelingen.   
-
-### Artikel  394  
-
-Voor zoover de zeewerkgever de verhouding tusschen de scheepsofficieren onderling, tusschen de scheepsgezellen onderling en tusschen de scheepsofficieren en de scheepsgezellen niet heeft geregeld, beslist de kapitein daaromtrent.  
-
 ### §  2  
 
 ####Van de arbeidsovereenkomst tot de vaart ter zee
-
-### Artikel  396  
-
-1.  Als schepelingen worden alleen aangemerkt personen, die eene arbeidsovereenkomst met de zeewerkgever hebben aangegaan.   
-2.  De kapitein vertegenwoordigt de zeewerkgever in de uitvoering van de arbeidsovereenkomsten met de schepelingen, die in dienst zijn aan boord van het door hem gevoerde schip.   
-
-### Artikel  397  
-
-Op de arbeidsovereenkomst tusschen de zeewerkgever en den schepeling zijn de bepalingen van het Burgerlijk Wetboek van toepassing, voor zoover daarvan in dit wetboek niet is afgeweken.  
-
-### Artikel  398  
-
-1.  De arbeidsovereenkomst tusschen de zeewerkgever en den schepeling moet, op straffe van nietigheid, schriftelijk worden aangegaan en door den laatste persoonlijk worden onderteekend.   
-2.  Kosten der akte en andere bijkomstige kosten zijn ten laste van de zeewerkgever.   
-
-### Artikel  399  
-
-De arbeidsovereenkomst kan worden aangegaan hetzij voor een bepaalden tijd, hetzij voor één of meer reizen (*bij de reis*), hetzij voor onbepaalden tijd of tot wederopzegging.  
-
-### Artikel  400  
-
-De overeenkomst moet behelzen, behalve hetgeen elders in de wet is voorgeschreven: 
-
-1°. den naam en de voornamen van den schepeling, den dag van zijne geboorte of zijn leeftijd, en zijne geboorteplaats;  
-
-2°. de plaats en den dag van het sluiten van de overeenkomst;  
-
-3°. de aanduiding van het schip of de schepen, waarop de schepeling zich verbindt dienst te doen;  
-
-4°. de te ondernemen reis of reizen, indien deze reeds vaststaan;  
-
-5°. de hoedanigheid, waarin de schepeling in dienst zal treden;  
-
-6°. indien mogelijk, de plaats waar en den dag waarop de dienst aan boord zal aanvangen;  
-
-7°. het bepaalde bij artikel 414 nopens het recht op vrije dagen;  
-
-8°. de beëindiging van de arbeidsovereenkomst, namelijk: 
-
-a. indien de overeenkomst voor een bepaalden tijd wordt aangegaan, den dag waarop de arbeidsovereenkomst eindigt, met vermelding van den inhoud van artikel 431,  
-
-b. indien de overeenkomst bij de reis wordt aangegaan, de haven overeengekomen voor de beëindiging der arbeidsovereenkomst, met vermelding van den inhoud van artikel 432, tweede lid, alsmede, indien de haven eene Nederlandsche haven is, van het eerste of van het tweede lid van artikel 433, naar gelang de haven al of niet met name is genoemd,  
-
-c. indien de overeenkomst voor onbepaalden tijd wordt aangegaan, den inhoud van artikel 434, eerste lid.      
-
-### Artikel  401  
-
-1.  Voor zoover de namen, de plaats of dag van geboorte van den schepeling niet bekend zijn, wordt dit in de overeenkomst vermeld.   
-2.  De aanduiding in de overeenkomst van het schip of de schepen, waarop de schepeling zich verbindt dienst te doen, kan ook geschieden door te bepalen, dat hij dienst zal doen op een of meer door de zeewerkgever aan te wijzen schepen, behoorende tot die, welke de zeewerkgever voor de vaart ter zee gebruikt.   
-3.  Indien partijen van het bepaalde bij de artikelen 414, 431, 432, tweede lid, 433, eerste of tweede lid, of 434, eerste lid, wenschen af te wijken, voor zoover wettelijk geoorloofd, wordt in plaats daarvan die afwijkende regeling in de overeenkomst opgenomen.   
-
-### Artikel  402  
-
-Een door de zeewerkgever vastgesteld reglement betreffende den dienst aan boord is voor den schepeling verbindend, mits een in de Nederlandsche taal gesteld exemplaar daarvan in een mede voor hem bestemd dagverblijf der schepelingen is en blijft opgehangen en behoorlijk leesbaar is, en voor zooverre de inhoud niet in strijd is met de door hem aangegane arbeidsovereenkomst.  
-
-### Artikel  403  
-
-Nietig is een beding waarbij de schepeling wordt beperkt in zijne vrijheid, na het einde der arbeidsovereenkomst arbeid te verrichten.  
-
-### Artikel  404  
-
-Van het oogenblik waarop volgens de overeenkomst de arbeidsovereenkomst zal aanvangen is de schepeling verplicht zich te houden ter beschikking van de zeewerkgever om gemonsterd te worden op een door de overeenkomst aangeduid schip. Is omtrent den aanvang van de arbeidsovereenkomst niets bepaald, dan wordt die voor de toepassing van dit voorschrift geacht samen te vallen met het sluiten der overeenkomst.  
-
-### Artikel  405  
-
-De schepeling wordt geacht in dienst te zijn aan boord van een schip van den dag, in de monsterrol daarvoor aangewezen, of, bij gebreke daarvan, van den dag, waarop de monsterrol is opgemaakt, tot en met den dag waarop hij van zijne werkzaamheden aan boord wordt ontheven of hij deze neerlegt.  
-
-### Artikel  406  
-
-Schepelingen-dienst mag niet worden verricht: 
-
-1°. door hen, die niet met de zeewerkgever eene arbeidsovereenkomst hebben aangegaan,  
-
-2°. door hen, die, hoewel zij met de zeewerkgever eene arbeidsovereenkomst hebben aangegaan, niet in de monsterrol zijn genoemd.    
-
-### Artikel  407  
-
-1.  De zeewerkgever is verplicht te zorgen voor voeding en verblijven van de schepeling aan boord, alsmede voor een kombuis en andere ruimten voor de voeding, een en ander op zodanige wijze dat een behoorlijke voorziening verzekerd is.   
-2.  Voor een schip, waarvan de verblijven, de kombuis en andere ruimten voor de voeding voldoen aan de in het zesde lid bedoelde voorschriften, wordt door Onze Minister van Verkeer en Waterstaat een certificaat voor de verblijven uitgereikt.   
-3.  Wanneer de inrichting van de verblijven, van de kombuis en van de andere ruimten voor de voeding niet meer voldoet aan de in het zesde lid bedoelde voorschriften, wordt het certificaat door Onze Minister van Verkeer en Waterstaat ingetrokken.   
-4.   Vervallen.    
-5.  De kapitein mag met zijn schip geen reis ondernemen, zonder dat voor het schip een geldig certificaat voor de verblijven bestaat.   
-6.  Nadere voorschriften tot uitvoering van het bepaalde in de vorige leden worden bij algemene maatregel van bestuur gegeven.   
-7.  In geen geval mag de zeewerkgever de voeding of de levering van de daarvoor benoodigde eet- en drinkwaren bij wijze van aanbesteding opdragen aan den kapitein of aan een schepeling.   
-
-### Artikel  408  
-
-De schepeling heeft voor iederen dag, dat hem de verschuldigde voeding niet of niet ten volle wordt verstrekt, recht op eene vergoeding, waarvan het bedrag bij de arbeidsovereenkomst of, bij stilzwijgen van deze, door het gebruik of de billijkheid wordt bepaald.  
-
-### Artikel  409  
-
-1.  Ten verzoeke van een derde van de schepelingen heeft buitenslands een onderzoek plaats naar de deugdelijkheid en voldoende hoeveelheid der eet- en drinkwaren. Het onderzoek wordt door den Nederlandschen consulairen ambtenaar of, bij gebreke van dezen, en in het Koninkrijk buiten Europa, door het bevoegde gezag ingesteld.   
-2.  De kapitein is verplicht de onbruikbare eet- en drinkwaren, op last dezer autoriteiten, tegen bruikbare te verwisselen en het noodige zich aan te schaffen.   
-
-### Artikel  410  
-
-1.  Door een gelijk deel van de schepelingen kan bij dezelfde autoriteiten buitenslands over onvoldoende ligging of ruimte, na de afreis ontstaan, worden geklaagd; een onderzoek wordt daarnaar ingesteld.   
-2.  De kapitein is op last der autoriteiten verplicht in het gebrekkige te voorzien.   
-3.  De kapitein, die aan de hem, overeenkomstig dit en het vorig artikel, gegeven bevelen niet heeft voldaan, wordt geacht zich jegens de schepelingen te hebben misdragen.   
-
-### Artikel  411  
-
-1.  De schepeling mag geen sterken drank of wapens aan boord brengen of hebben zonder toestemming van den kapitein.   
-2.  De kapitein kan hetgeen hij in strijd met deze bepaling aan boord aantreft, in beslag nemen en vernietigen.   
-3.  Dezelfde bevoegdheid heeft de kapitein ten aanzien van smokkelwaren, contrabande en opium of andere verdoovende middelen, welke de schepeling aan boord brengt of heeft.   
-
-### Artikel  412  
-
-1.  Voor verbruik door de bemanning mag geen sterke drank aan boord zijn boven de hoeveelheid, door Ons bij algemeenen maatregel van bestuur te bepalen.   
-2.  Sterke drank, in strijd met deze bepaling aan boord aangetroffen door de ambtenaren van politie, aangesteld voor de uitvoering van de politietaak, of de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, wordt door hen in beslag genomen.   
-
-### Artikel  413  
-
-1.  De arbeidsovereenkomst moet, op straffe van nietigheid, het bedrag van het in geld uit te betalen loon bepalen of aangeven hoe het zal worden bepaald. De bepaling kan niet aan het goedvinden van een der partijen worden overgelaten.   
-2.  Bij de toepassing van het bepaalde in de artikelen 415, tweede lid, 415a, eerste lid, 415g, 423, eerste lid, 425, derde lid, 433, derde lid, 438 en 440 wordt loon, vastgesteld bij de reis, geacht te zijn vastgesteld voor eene tijdruimte gelijk aan den gemiddelden duur van de reis.   
-
-### Artikel  414  
-
-1.  De schepeling verwerft over ieder jaar waarin hij gedurende de volledige overeengekomen arbeidsduur recht op loon heeft gehad, aanspraak op vakantie van ten minste dertig dagen.   
-2.  De schepeling behoudt zijn aanspraak op vakantie over het tijdvak gedurende hetwelk hij studieverlof geniet en van zijn werkgever een studieuitkering ontvangt.   
-3.  Niet tot vakantie wordt gerekend: 
-
-a. officieel of algemeen erkende feestdagen;  
-
-b. tijdelijk verlof om aan wal te gaan;  
-
-c. compensatieverlof;  
-
-d. de tijd van het vervoer, bedoeld in lid 7.     
-4.  De werkgever van de schepeling is verplicht om vijftien kalenderdagen van de vakantie, bedoeld in lid 1, aaneengesloten te geven. Van deze verplichting kan worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een bevoegd publiekrechtelijk lichaam.   
-5.  De vakantie moet zo worden verleend dat de schepeling telkens na verloop van twee jaren alle dagen heeft genoten waarop hij aanspraak heeft. De verjaringstermijn, bedoeld in [artikel 642 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), beloopt voor de schepeling drie jaren.   
-6.  De vakantie, bedoeld in lid 1 en in [artikel 641, lid 3, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt desverlangd aan de schepeling gegeven in de plaats alwaar hij is gemonsterd, of de plaats alwaar hij is aangeworven, al naar gelang die plaats het dichtst is gelegen bij de woonplaats van de schepeling. Van deze regeling kan worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een bevoegd publiekrechtelijk lichaam.   
-7.  Indien de schepeling genoodzaakt is de vakantie, bedoeld in lid 1 en in [artikel 641, lid 3, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) aan te vangen op een andere plaats dan die bedoeld in lid 6, is de werkgever gehouden zorg te dragen voor kosteloos vervoer naar die andere plaats alsmede voor de betaling van de kosten van levensonderhoud gedurende dat vervoer.   
-8.  Een schepeling die zijn vakantie, bedoeld in lid 1 en in [artikel 641, lid 3, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) geniet, wordt slechts in gevallen van uiterste noodzaak teruggeroepen en wel na tijdige kennisgeving.   
-9.  De aanspraak op vakantie zonder behoud van loon, bedoeld in [artikel 641, lid 3, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), wordt verminderd met de tijd gedurende welke de schepeling, nadat hij de aanspraak heeft verworven, nog niet in dienst was getreden.   
-
-### Artikel  415  
-
-1.  De schepeling, die ziek wordt, blijft in het genot van het volle loon zolang hij aan boord is.   
-2.  Na zijn herstel heeft de schepeling, ongeacht het voortduren van de arbeidsovereenkomst, recht op een uitkering, gelijk aan het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen hij ziek werd, indien hij ter verpleging is achtergelaten buiten het land waar hij thuisbehoort en elders dan ter plaatse waar hij zich bevond toen zijn rechtsverhouding met de zeewerkgever aanving. Hij heeft voorts aanspraak op huisvesting en voeding en recht op vrij vervoer tot een haven in het land waar hij thuisbehoort of tot de plaats waar hij zich bevond toen zijn rechtsverhouding met de zeewerkgever aanving, zulks ter keuze van de zeewerkgever. Onder vrij vervoer zijn begrepen de kosten van onderhoud en nachtverblijf gedurende de reis. De geldelijke uitkering na zijn herstel en het recht op huisvesting en voeding, waarop hij ingevolge dit lid aanspraak kan maken, nemen in ieder geval een einde zodra hij passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd in of had kunnen terugkeren naar een haven in het land waar hij thuisbehoort of de plaats waar hij zich bevond toen zijn rechtsverhouding met de zeewerkgever aanving.   
-3.  Indien de ziekte een gevolg is van opzet, wordt de geldelijke uitkering verbeurd of verminderd, ter beoordeling van de kantonrechter van de rechtbank van het arrondissement waarin de zetel van het scheepsbedrijf is gevestigd.   
-4.  Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter voorkoming of beperking van samenloop van loon als bedoeld in het eerste lid met uitkering of inkomensvoorziening ingevolge de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), dan wel met uitkering of inkomensvoorziening ingevolge zowel de [Wet werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) als de Wet werk en arbeidsondersteuning jonggehandicapten.   
-5.  De schepeling, die ziek wordt, heeft tot zijn herstel recht op behoorlijke verpleging en geneeskundige behandeling. Dit recht komt evenwel niet toe aan de schepeling, die verzekeringsplichtige is op grond van de [Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), zolang hij verblijft in Nederland en evenmin aan de schepeling, die verblijft in het land waar hij thuisbehoort. Het recht eindigt, indien de schepeling is teruggekeerd in of heeft kunnen terugkeren naar het land waar hij thuisbehoort. Op de aanspraken, welke de schepeling heeft ingevolge het bepaalde in dit lid, komen de aanspraken ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) in mindering.   
-
-### Artikel  415a  
-
-1.  De schepeling, die op het tijdstip, waarop hij ziek wordt, niet is verzekerd ingevolge de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en op wie niet enige daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, zolang hij niet hersteld is, gedurende ten hoogste 52 weken, ongeacht het voortduren van de arbeidsovereenkomst, recht op 80% van het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen hij ziek werd, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen. Deze termijn van 52 weken gaat in: 1°. als de schepeling ziek wordt, terwijl hij niet aan boord van een schip in dienst is, op de dag, waarop hij ziek wordt; 2°. als hij ziek wordt, terwijl hij aan boord van een schip in dienst is, op de dag, waarop hij aan de wal ter verpleging wordt achtergelaten of waarop hij, nog niet hersteld, met het schip terugkomt. Wordt hij ter verpleging achtergelaten buiten het land waar hij thuisbehoort, dan wordt de uitkering van 80% gedurende de eerste twaalf weken verhoogd tot 100%.   
-2.  De geldelijke uitkering, waarop de schepeling recht heeft ingevolge het bepaalde in de laatste volzin van het vorige lid neemt in ieder geval een einde zodra hij passende arbeid kan verkrijgen en verrichten dan wel is teruggekeerd in of had kunnen terugkeren naar een haven in het land waar hij thuisbehoort.   
-3.  Artikel 415, derde lid, is van toepassing.   
-
-### Artikel  415b  
-
-1.  De schepeling, die op het tijdstip, waarop hem een ongeval in verband met zijn arbeidsovereenkomst overkomt, niet is verzekerd ingevolge de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en op wie niet enige daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, heeft, ongeacht het voortduren van de arbeidsovereenkomst, of zijn nagelaten betrekkingen hebben, indien hij ten gevolge van een zodanig ongeval overlijdt, recht op uitkeringen en voorzieningen overeenkomstig het bepaalde in de artikelen 415 *c* - 415 *h*.   
-2.  Voor de toepassing van het bepaalde in het vorige lid en in de artikelen 415 *c* - 415 *g* worden met een ongeval, in verband met de arbeidsovereenkomst overkomen, gelijkgesteld de ziekten, voorkomende op een bij algemene maatregel van bestuur vast te stellen lijst van ziekten, indien de schepeling die ziekte heeft gekregen in verband met de arbeidsovereenkomst. De ziekte wordt, tenzij het tegendeel blijkt, geacht verband te houden met de arbeidsovereenkomst, indien zij zich gedurende de arbeidsovereenkomst of binnen een bij algemene maatregel van bestuur vast te stellen termijn na het beëindigen van de arbeidsovereenkomst openbaart.   
-3.  De in het vorige lid bedoelde gelijkstelling is niet van toepassing indien de schepeling zonder deugdelijke grond ter zake van de in dat lid bedoelde ziekte geweigerd heeft een profylactische behandeling te ondergaan dan wel heeft nagelaten zich aan een zodanige behandeling te onderwerpen, ofschoon hem daartoe kosteloos gelegenheid werd geboden.   
-
-### Artikel  415c  
-
-1.  De schepeling, bedoeld in artikel 415b, heeft na afloop van de termijn van 52 weken, bedoeld in artikel 415a, eerste lid, in geval van tijdelijke gehele ongeschiktheid tot werken, recht op een uitkering van 70% van zijn loon en, in geval van tijdelijke gedeeltelijke ongeschiktheid tot werken, op een uitkering ter hoogte van een in verhouding tot de verloren geschiktheid tot werken staand deel van 70% van zijn loon.   
-2.  De in het vorige lid bedoelde uitkering eindigt met ingang van de dag, waarop blijvende gehele of gedeeltelijke ongeschiktheid tot werken intreedt, dan wel, indien de tijdelijke gehele of gedeeltelijke ongeschiktheid tot werken voortduurt, uiterlijk met ingang van de dag, gelegen drie jaren na afloop van de termijn van 52 weken, bedoeld in artikel 415a, eerste lid.   
-3.  De schepeling, bedoeld in artikel 415b, die op de dag, gelegen na afloop van de termijn van 52 weken, bedoeld in artikel 415a, eerste lid, blijvend geheel of gedeeltelijk ongeschikt is tot werken of binnen drie jaren na die dag blijvend geheel of gedeeltelijk ongeschikt wordt tot werken, dan wel op de dag, gelegen drie jaren na vorenbedoelde dag, nog tijdelijk geheel of gedeeltelijk ongeschikt is tot werken, heeft recht op een uitkering ineens van driemaal de uitkering over een jaar, berekend naar de uitkering, waarop hij laatstelijk aanspraak had vóór de dag, waarop dat recht ontstaat. Met ingang van de dag, waarop recht ontstaat op een uitkering ineens als bedoeld in de vorige volzin, kunnen ter zake van het betreffende ongeval overigens geen rechten meer worden ontleend aan de artikelen 415b - 415h.   
-4.  Voor de toepassing van het bepaalde in de vorige leden wordt een schepeling geheel of gedeeltelijk ongeschikt geacht tot werken, indien hij ten gevolge van een ongeval als bedoeld in artikel 415b geheel of gedeeltelijk ongeschikt is geworden tot arbeid, die voor zijn krachten en bekwaamheden is berekend en die met het oog op zijn opleiding en vroeger beroep hem in billijkheid kan worden opgedragen.   
-5.  Indien de schepeling, bedoeld in artikel 415b, niet de medewerking verleent, die redelijkerwijs van hem verlangd kan worden tot het herkrijgen van zijn gezondheid of zijn arbeidsvermogen, voor zover deze door een ongeval als bedoeld in dat artikel zijn geschaad, zal bij de schatting van de mate van ongeschiktheid tot werken, bedoeld in de vorige leden, de toestand in aanmerking genomen kunnen worden, die waarschijnlijk zou zijn ontstaan, indien die medewerking ten volle zou zijn verleend.   
-
-### Artikel  415d  
-
-1.  De schepeling, bedoeld in artikel 415b, heeft ter zake van een ongeval als bedoeld in dat artikel van de dag van het ongeval af recht op geneeskundige behandeling of vergoeding daarvoor, indien hij verblijft in of heeft kunnen terugkeren naar het land, waar hij thuisbehoort, doch uiterlijk tot de dag, gelegen drie jaren na afloop van de termijn van 52 weken, bedoeld in artikel 415a, eerste lid en onverminderd het bepaalde in de laatste volzin van het derde lid van artikel 415c. Onder geneeskundige behandeling is begrepen het verstrekken van kunstmiddelen, voor zover deze zijn geschiktheid tot werken kunnen bevorderen of tot verbetering van zijn levensomstandigheden kunnen bijdragen, alsmede het onderricht in het gebruik van die kunstmiddelen.   
-2.  Bij algemene maatregel van bestuur kunnen regelen worden gesteld met betrekking tot het bepaalde in dit artikel.   
-
-### Artikel  415e  
-
-1.  Onverminderd het bepaalde in [artikel 674 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) hebben de nagelaten betrekkingen, bedoeld in artikel 415 *b*, eerste lid, recht op een uitkering ineens, welke bedraagt: 
-
-1°. voor de vrouw, met wie de overledene ten tijde van het ongeval gehuwd was of een geregistreerd partnerschap was aangegaan: driemaal de uitkering over een jaar, berekend naar 30% van het loon van de overledene;  
-
-2°. voor de man, met wie de overledene ten tijde van het ongeval gehuwd was of een geregistreerd partnerschap was aangegaan, indien deze zijn kostwinster was: driemaal de uitkering over een jaar, berekend naar 30% van het loon van de overledene;  
-
-3°. voor elk kind beneden de leeftijd van zestien jaar dat tot de overleden vader of moeder in familierechtelijke betrekking stond: driemaal de uitkering over een jaar, berekend naar 15% en, indien dit kind ouderloos is, berekend naar 20% van het loon van de overledene;  
-
-4°. voor elk stiefkind beneden de leeftijd van zestien jaar van de overledene: driemaal de uitkering over een jaar, berekend naar 15% en, indien dit kind ouderloos is, berekend naar 20% van het loon van de overledene;  
-
-5°. voor degene, voor wie de overledene ten tijde van het ongeval kostwinner was, niet vallende onder 1°, 2°, 3° of 4°: driemaal hetgeen hij in de regel over een jaar tot diens levensonderhoud bijdroeg, doch niet meer dan driemaal de uitkering over een jaar, berekend naar 30% van het loon van de overledene, met dien verstande, dat, indien de betrokkene jonger is dan zestien jaar, niet meer wordt uitgekeerd dan hij als kind dat in familierechtelijke betrekking tot de overledene stond zou hebben ontvangen.     
-2.  De in het vorige lid bedoelde uitkeringen zullen tezamen niet meer bedragen dan driemaal de uitkering over een jaar, berekend naar 60% van het loon van de overledene. De personen, bedoeld in het vorige lid, onder 5°, hebben alleen recht op een uitkering, indien de personen, bedoeld onder 1°, 2°, 3° en 4°, van dat lid allen hun volle uitkering hebben ontvangen. Indien de personen, bedoeld in het vorige lid, onder 1°, 2°, 3° en 4°, tezamen een uitkering zouden ontvangen van meer dan driemaal de uitkering over een jaar, berekend naar 60% van het loon van de overledene, ondergaat elk van deze uitkeringen een evenredige vermindering.   
-3.  Voor de toepassing van dit artikel en van artikel 415 *b* is het bepaalde bij of krachtens [artikel 8 van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) van overeenkomstige toepassing.   
-
-### Artikel  415f  
-
-Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter voorkoming of beperking van samenloop van uitkeringen of voorzieningen, bedoeld in de artikelen 415 *a* - 415 *e*, met uitkeringen of voorzieningen uit anderen hoofde.  
-
-### Artikel  415g  
-
-Onder loon van de schepeling wordt voor de toepassing van de artikelen 415 *c* en 415 *e* verstaan het naar tijdruimte in geld vastgestelde loon, dat hij genoot toen het ongeval als bedoeld in artikel 415 *b* plaatsvond, verhoogd met de bij algemene maatregel van bestuur vast te stellen geldswaarde van andere loonbestanddelen. Hetgeen het naar tijdruimte in geld vastgestelde loon meer bedraagt dan een bij algemene maatregel van bestuur te bepalen bedrag, wordt daarbij niet in aanmerking genomen.  
-
-### Artikel  415h  
-
-1.  Indien een daartoe door Ons erkende vereniging met volledige rechtsbevoegdheid is opgericht, is de zeewerkgever, die een of meer schepelingen in dienst heeft, die, niet zijn verzekerd ingevolge de [Ziektewet](../../../../../wet/ziektewet/BWBR0001888/README.md) en op wie niet enige daarmee overeenkomende wettelijke regeling van een lidstaat van de Europese Unie van toepassing is, ter waarborging van zijn tegenover die schepelingen en hun nagelaten betrekkingen uit de artikelen 415 *a* - 415 *g* voortvloeiende verplichtingen van rechtswege aangesloten bij die vereniging.   
-2.  In het geval, bedoeld in het vorige lid, zijn de zeewerkgever en de vereniging hoofdelijk verbonden tegenover die schepelingen en hun nagelaten betrekkingen.   
-3.  Op haar verzoek kan een vereniging worden erkend als vereniging, bedoeld in het eerste lid, indien zij voldoet aan de volgende vereisten: 
-
-1°. dat zij opgericht is door een of meer naar Ons oordeel representatieve organisaties van zeewerkgevers en een of meer naar Ons oordeel representatieve organisaties van schepelingen, al dan niet tezamen met een of meer zeewerkgevers;  
-
-2°. dat zij niet beoogt winst te maken.     
-4.  Voor de in het vorige lid bedoelde erkenning komt niet meer dan één vereniging in aanmerking.   
-5.  De statuten van de in het eerste lid bedoelde vereniging moeten zodanige bepalingen inhouden, dat: 
-
-1°. het bestuur voor de helft wordt samengesteld uit vertegenwoordigers van de zeewerkgevers en voor de helft uit vertegenwoordigers van de schepelingen;  
-
-2°. de gezamenlijke vertegenwoordigers van de zeewerkgevers ter vergadering evenveel stemmen uitbrengen als de gezamenlijke vertegenwoordigers van de schepelingen;  
-
-3°. de kosten van de uit de artikelen 415 *a* -415 *h* voortvloeiende verplichtingen met betrekking tot de in het eerste lid bedoelde schepelingen en hun nagelaten betrekkingen, alsmede de kosten verbonden aan de vorming en instandhouding van een reserve, per jaar worden omgeslagen over de zeewerkgevers naar rato van het loon, dat door hen in dat jaar aan die schepelingen is uitbetaald, waarbij onder loon wordt verstaan loon in de zin van [hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).     
-
-### Artikel  415i  
-
-1.  [Artikel 93, aanhef en onder c, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van toepassing op alle vorderingen krachtens de artikelen 415a - 415h door of tegen de in het eerste lid van artikel 415h bedoelde schepelingen of hun nagelaten betrekkingen ingesteld tegen onderscheidenlijk door de in dat lid bedoelde vereniging.   
-2.  Elk beding strijdig met enige bepaling van dit of het vorige artikel is nietig, behoudens dat partijen kunnen overeenkomen om een geschil omtrent een vordering als bedoeld in het vorige lid aan de uitspraak van scheidslieden te onderwerpen.   
-
-### Artikel  416  
-
-1.  Indien de schepeling, in dienst van de zeewerkgever, overlijdt buiten het land waar hij thuis behoort, komen voor rekening van de zeewerkgever: 
-
-1°. indien de lijkbezorging plaats vindt buiten het land waar hij thuis behoort, de daartoe gemaakte kosten;  
-
-2°. indien de lijkbezorging plaats vindt in het land waar hij thuis behoort, de gemaakte kosten van en in verband met het vervoer van het stoffelijk overschot naar de woonplaats in dat land, alsmede de gemaakte kosten van en in verband met de daartoe noodzakelijke opgraving van het stoffelijk overschot, zulks met inachtneming van bij algemene maatregel van bestuur te bepalen maximum bedragen.     
-2.  De in het vorige lid onder 2° bedoelde kosten komen niet voor rekening van de zeewerkgever, indien het vervoer van het stoffelijk overschot niet binnen redelijke korte tijd na het overlijden plaats vindt.   
-
-### Artikel  417  
-
-1.  Gedurende den tijd, dat de schepeling in dienst is aan boord van een schip, is hij verplicht de bevelen van den kapitein met stiptheid op te volgen.   
-2.  Indien hij meent, dat deze bevelen onrechtmatig zijn, kan hij in de eerste haven, die het schip aandoet, de tusschenkomst inroepen van de inspecteur-generaal van de Inspectie Verkeer en Waterstaat of in het Koninkrijk buiten Europa van het bevoegde gezag of buiten het Koninkrijk, indien dit redelijkerwijze zonder oponthoud van het schip kan geschieden, van den Nederlandschen diplomatieken of bezoldigden consulairen ambtenaar, die het eerst te bereiken is.   
-
-### Artikel  418  
-
-De kapitein is verplicht den arbeid van den schepeling te regelen in overeenstemming met de daaromtrent bij de wet en, binnen de grenzen der wet, bij de arbeidsovereenkomst gestelde bepalingen.  
-
-### Artikel  419  
-
-1.  De schepeling is verplicht het hem door den kapitein opgedragen werk te verrichten, doch heeft recht op een bijslag op het loon voor den tijd, gedurende welken hij langer dan den door de wet of de arbeidsovereenkomst bepaalden normalen arbeidsduur werk verricht, tenzij de kapitein het werk noodzakelijk acht tot behoud van het schip, de opvarenden of de zaken aan boord. Het bedrag van dien bijslag wordt bepaald door de arbeidsovereenkomst of, bij haar stilzwijgen, door het gebruik of de billijkheid.   
-2.  De kapitein doet van ieder geval van overwerk aanteekening houden in een daartoe bestemd register. Elke aanteekening wordt door den daarbij betrokken schepeling mede-onderteekend.   
-3.  Het recht, betaling van den bijslag te vorderen, vervalt door verloop van één maand na het eindigen van den dienst aan boord in eene Nederlandsche haven en van zes maanden na het eindigen van den dienst aan boord in het buitenland.   
-4.  Op den scheepsofficier, tevens hoofd van dienst, den geneeskundige en den marconist zijn de bepalingen van dit artikel niet van toepassing.   
-
-### Artikel  420  
-
-Indien aan den schepeling andere werkzaamheden worden opgedragen dan hij heeft te verrichten overeenkomstig de hoedanigheid, waarin hij volgens de arbeidsovereenkomst aan boord dienst doet, en deze werkzaamheden volgens overeenkomst of gebruik hooger worden beloond, heeft hij aanspraak op daarmede overeenkomend hooger loon.  
-
-### Artikel  421  
-
-1.  Zonder toestemming van den kapitein mag de schepeling het schip niet verlaten.   
-2.  Weigert de kapitein toestemming, dan is hij verplicht de reden voor zijne weigering in het dagboek te vermelden en aan den schepeling, op diens verlangen, deze weigering binnen twaalf uur schriftelijk te bevestigen.   
-
-### Artikel  422  
-
-De kapitein heeft disciplinair gezag over den schepeling. Hij kan tot handhaving van dit gezag de redelijkerwijze noodige maatregelen nemen.  
-
-### Artikel  423  
-
-1.  De kapitein kan den schepeling in geval van verwijdering van boord zonder zijne toestemming, van niet tijdig terugkeeren aan boord, van dienstweigering, van gebrekkige dienstvervulling, van onbehoorlijk optreden tegen een lid der bemanning of een der andere opvarenden en van ordeverstoring, eene boete opleggen ten bedrage van het naar tijdruimte in geld vastgestelde loon over ten hoogste tien dagen; echter mag de boete nooit meer bedragen dan een derde van dat loon voor den geheelen duur der reis. In een tijdsverloop van tien dagen mag geen hooger bedrag aan gezamenlijke boeten worden opgelegd dan de genoemde hoogste bedragen.   
-2.  De oplegging der boete kan voorwaardelijk geschieden.   
-3.  Indien de kapitein wegens eenig feit de arbeidsovereenkomst doet eindigen, overeenkomstig het bepaalde in [artikel 677, lid 1, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), kan hij te dier zake niet tevens disciplinaire straf opleggen.   
-4.  De bestemming der boeten moet in de arbeidsovereenkomst worden aangegeven. De boete mag noch de zeewerkgever noch de kapitein ten goede komen.   
-
-### Artikel  424  
-
-1.  Alvorens boete op te leggen is de kapitein verplicht den betrokkene en de getuigen te hooren in het bijzijn, zoo mogelijk, van ten minste twee schepelingen van gelijken of hoogeren rang, overeenkomstig de monsterrol daartoe aangewezen. Het proces-verbaal van dit verhoor moet door allen, die daarbij tegenwoordig zijn geweest, worden onderteekend. Van weigering om te onderteekenen wordt daarin melding gemaakt.   
-2.  Boete kan niet vroeger worden opgelegd dan twaalf uren en niet later dan eene week, nadat het feit heeft plaats gehad, tenzij bijzondere omstandigheden afwijking noodzakelijk maken.   
-3.  Elke boete moet onverwijld worden ingeschreven in een daartoe bestemd register, met vermelding van het feit, dat tot de oplegging aanleiding heeft gegeven en van den dag waarop het heeft plaats gehad, alsmede van den dag waarop de boete is opgelegd. Iedere inschrijving moet worden onderteekend door den kapitein en de in het eerste lid genoemde schepelingen.   
-4.  Eene boete, niet ingeschreven in het register, wordt geacht ten onrechte te zijn opgelegd.   
-5.  De schepeling kan van de oplegging van boete in beroep komen bij de rechtbank van het arrondissement waarin de zetel van het scheepsbedrijf is gelegen. Het beroep wordt behandeld en beslist door de kantonrechter. Het derde lid van artikel 419 vindt overeenkomstige toepassing.   
-
-### Artikel  425  
-
-1.  Gedurende den tijd, dat de schepeling in dienst van de zeewerkgever aan boord van een schip of in het buitenland verblijft, heeft zijne niet van tafel en bed gescheiden echtgenoote recht op uitbetaling, op den voet als in de volgende leden bepaald, van ten hoogste het twee derde gedeelte van het in geld vastgestelde loon, tot onderhoud van haar en hare kinderen, die niet in staat zijn in hun onderhoud te voorzien.   
-2.  De uitbetaling door de zeewerkgever geschiedt aan de echtgenoote tegen overlegging van eene met het oog op de laatste monstering afgegeven verklaring van haren man of beschikking van de kantonrechter van de rechtbank van het arrondissement waarin haar woonplaats is gelegen en wel voor het gedeelte van het aan den schepeling verschuldigde loon, in die verklaring of die beschikking genoemd. Wanneer eene onmiddellijke voorziening wordt vereischt, zal de kantonrechter aanstonds bepalen het gedeelte van het loon van den schepeling, op welks uitbetaling de echtgenoote voorloopig recht heeft tot onderhoud van haar en de kinderen in het eerste lid bedoeld. Deze beschikking behoudt tegenover de zeewerkgever hare kracht gedurende eene maand na den dag harer dagteekening, voor zooveel hem niet voor den afloop van dien termijn de eindbeschikking van den kantonrechter is overgelegd.   
-3.  Het gedeelte van het loon, op welks uitbetaling de echtgenoote recht heeft, wordt haar uitgekeerd op de tijdstippen voor de uitbetaling bepaald door de arbeidsovereenkomst of, bij stilzwijgen van deze, door het gebruik of de billijkheid, met dien verstande, dat, indien het loon naar tijdruimte is vastgesteld, de hierbedoelde uitbetaling uiterlijk telkens na eene maand geschiedt.   
-
-### Artikel  426  
-
-1.  De uitbetaling van het in geld vastgestelde deel van het in dienst aan boord van een schip verdiende loon moet geschieden in de munt, waarin het bij de arbeidsovereenkomst is uitgedrukt, of in de munt, gangbaar ter plaatse van de uitbetaling. De koers waartegen in het laatste geval de herleiding geschiedt, moet den schepeling schriftelijk worden medegedeeld.   
-2.  Onverminderd het bepaalde in artikel 445, kan de schepeling, indien hij meent, dat de hem medegedeelde koers niet juist is, zich na afloop van de reis deswege wenden tot de voorzitter van de Kamer van Koophandel en Fabrieken te Rotterdam.   
-
-### Artikel  427  
-
-1.  Behoudens het bepaalde in artikel 425 heeft de schepeling recht op uitbetaling van het in dienst aan boord van een schip verdiend loon: 1°. indien het naar tijdruimte is vastgesteld, in iedere haven, welke het schip gedurende de reis aandoet, mits zeven dagen zijn verloopen sedert de laatste uitbetaling, 2°. indien het niet naar tijdruimte is vastgesteld, op de tijdstippen voor de uitbetaling bepaald door de arbeidsovereenkomst of, bij haar stilzwijgen, door het gebruik of de billijkheid.   
-2.  Zoolang de reis niet is geëindigd, is de zeewerkgever niet verplicht in het geheel meer dan 5/6 deel van het loon uit te betalen.   
-3.  De uitbetaling van het in het eerste lid onder 1°. bedoelde loon geschiedt uiterlijk op den dag volgende op dien van de aankomst, de in artikel 354 bedoelde dagen niet medegerekend, doch in ieder geval voor het vertrek uit de haven.   
-
-### Artikel  428  
-
-De schepeling kan zijn recht op het in geld vastgestelde deel van zijn in dienst aan boord van een schip verdiend loon, voor zoover dit te zijner beschikking is, alleen afstaan, in pand geven daaronder begrepen, ten behoeve van zijne echtgenoote voor ten hoogste één derde, van zijne kinderen, de verzorgers zijner kinderen en zijne ouders voor ten hoogste de helft, en van andere bloedverwanten tot den vierden graad en van aanverwanten tot denzelfden graad voor ten hoogste één derde; alles met dien verstande, dat het bedrag van hetgeen hij afstaat, gevoegd bij het ingevolge artikel 425 aan de echtgenoote uit te betalen bedrag, twee derde gedeelte van het geheele in geld vastgestelde loon niet mag overtreffen.  
-
-### Artikel  429  
-
-1.  De boeten en de schadeloosstelling bedoeld in de artikelen 423 en 438 zijn bevoorrecht op het in geld vastgestelde deel van het loon van den schepeling, hetwelk tot het bedrag daarvan kan worden ingehouden.   
-2.  Boete en schadeloosstelling komen in de eerste plaats ten laste van het deel van het loon, dat aan den schepeling persoonlijk moet worden uitbetaald.   
-3.  Op het gedeelte van het loon, ten aanzien waarvan volgens [artikel 632 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) verrekening door de zeewerkgever voor het einde van de arbeidsovereenkomst is toegelaten, wordt hetgeen aan boeten, als hier bedoeld, is ingehouden in mindering gebracht.   
-
-### Artikel  431  
-
-De arbeidsovereenkomst, voor bepaalde tijd aangegaan of voortgezet, eindigt in de eerste haven, welke het schip aandoet nadat die tijd is verstreken en, voorzoveel nodig, opzegging heeft plaats gevonden.  
-
-### Artikel  432  
-
-1.  De arbeidsovereenkomst, aangegaan bij de reis, eindigt als de reis of de reizen, waarvoor zij is aangegaan, is of zijn afgeloopen.   
-2.  Evenwel kan de schepeling, na verloop van anderhalf jaar, de arbeidsovereenkomst door opzegging doen eindigen in iedere haven, welke het schip daarna aandoet. Bij de opzegging moet hij den termijn in acht nemen, welke redelijkerwijze noodig is voor zijne vervanging in die haven.   
-
-### Artikel  433  
-
-1.  Indien is overeengekomen, dat de arbeidsovereenkomst zal eindigen bij terugkomst van het schip in eene met name genoemde Nederlandsche haven, is de zeewerkgever bevoegd haar te doen eindigen in eene haven, van waaruit de genoemde Nederlandsche haven, anders dan met een luchtvaartuig, binnen vier en twintig uur kan worden bereikt.   
-2.  Is de Nederlandsche haven, waarop het schip zal terugkomen, niet met name genoemd, dan is de zeewerkgever bevoegd de arbeidsovereenkomst te doen eindigen in eene haven in het buitenland van waaruit Amsterdam of Rotterdam op de in het eerste lid bedoelde wijze kan worden bereikt.   
-3.  Behalve de reiskosten heeft de zeewerkgever den schepeling voor de dagen nà de beëindiging van de arbeidsovereenkomst tot den dag, volgende op dien, waarop deze ter plaatse had kunnen aankomen, loon te betalen op den voet van het in de arbeidsovereenkomst naar tijdruimte in geld vastgesteld deel van het loon, alsmede de kosten van onderhoud en zoo noodig van nachtverblijf.   
-
-### Artikel  434  
-
-1.  De arbeidsovereenkomst, aangegaan voor onbepaalden tijd, kan ieder der partijen gedurende den tijd, dat de schepeling in dienst is aan boord van een schip, door opzegging, met inachtneming van den daarvoor gestelden termijn, doen eindigen in iedere haven, waar het schip laadt of lost. Tenzij een langere termijn van opzegging is overeengekomen of uit de wet voortvloeit, bedraagt deze vier en twintig uren. De opzegging geschiedt schriftelijk.   
-2.  De opzeggingstermijn mag voor de zeewerkgever niet korter worden gesteld dan voor den schepeling.   
-3.  Dit artikel is mede van toepassing als de zeewerkgever overlijdt gedurende den tijd, dat de schepeling in dienst is aan boord van een schip, en hetzij de erfgenamen van de zeewerkgever hetzij de schepeling gebruik willen maken van de bevoegdheid hun gegeven in [artikel 675 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
-
-### Artikel  435  
-
-Gedurende eene reis van het schip, waarop de schepeling in dienst is, kan een der partijen de arbeidsovereenkomst overeenkomstig het bepaalde in [artikel 677, eerste lid van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) alleen doen eindigen tegen het tijdstip, op hetwelk het schip zich in eene haven bevindt.  
-
-### Artikel  436  
-
-Behalve in de gevallen, genoemd in [artikel 678, lid 2, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), zullen voor de zeewerkgever dringende redenen onder andere aanwezig geacht kunnen worden: 
-
-1°. wanneer de schepeling den kapitein of een opvarende van het schip mishandelt, grovelijk beleedigt of op ernstige wijze bedreigt of hem verleidt of tracht te verleiden tot handelingen strijdig met de wetten of de goede zeden;  
-
-2°. wanneer, na den aanvang der arbeidsovereenkomst, de schepeling zich niet op den door de zeewerkgever aangegeven tijd doet monsteren of, na de monstering, aan boord van het schip aanmeldt;  
-
-3°. wanneer den schepeling hetzij tijdelijk, hetzij voor goed de bevoegdheid wordt ontnomen, op een schip dienst te doen in de hoedanigheid, waarin hij zich heeft verbonden dienst te doen;  
-
-4°. wanneer de schepeling, buiten weten van de zeewerkgever of den kapitein, smokkelwaren aan boord heeft gebracht of daar onder zijne berusting heeft.    
-
-### Artikel  437  
-
-Behalve in de gevallen, genoemd in [artikel 679, lid 2, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), zullen voor den schepeling dringende redenen onder andere aanwezig geacht kunnen worden: 
-
-1°. wanneer de zeewerkgever hem orders geeft, welke in strijd zijn met de arbeidsovereenkomst of met verplichtingen, welke de wet den schepeling oplegt;  
-
-2°. wanneer de zeewerkgever het schip bestemt naar eene haven van een land, dat in een zee-oorlog is gewikkeld, of naar eene haven welke is geblokkeerd, tenzij de arbeidsovereenkomst dit uitdrukkelijk voorziet en is gesloten nà het uitbreken van den oorlog of nà het afkondigen van de blokkade;  
-
-3°. wanneer in het geval van artikel 367 de zeewerkgever orders geeft te vertrekken naar eene vijandelijke haven;  
-
-4°. wanneer de zeewerkgever het schip gebruikt of laat gebruiken voor slavenhandel, zeeroof, strafbare kaapvaart of het vervoer van goederen waarvan de invoer verboden is in het land van bestemming;  
-
-5°. wanneer de zeewerkgever het schip bestemt voor vervoer van contrabande, tenzij de arbeidsovereenkomst dit uitdrukkelijk voorziet en is gesloten nà het uitbreken van den oorlog;  
-
-6°. wanneer voor hem aan boord gevaar voor mishandeling van de zijde van den kapitein of van een opvarende dreigt;  
-
-7°. wanneer het logies aan boord in een toestand verkeert, welke schadelijk is voor de gezondheid der bemanning;  
-
-8°. wanneer hem de voeding, waarop hij recht heeft, niet of niet in deugdelijken toestand wordt verstrekt, of wanneer de zeewerkgever handelt in strijd met het bepaalde bij het tweede lid van artikel 407;  
-
-9°. wanneer het schip het recht verliest de Nederlandsche vlag te voeren;  
-
-10°. wanneer de arbeidsovereenkomst is aangegaan voor een of meer bepaalde reizen en de zeewerkgever het schip andere reizen laat maken.    
-
-### Artikel  438  
-
-1.  Indien de arbeidsovereenkomst wordt beëindigd gedurende eene reis van het schip, is de schadeloosstelling, bedoeld in [artikel 680, lid 1, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), bij eene arbeidsovereenkomst voor een bepaalden tijd aangegaan, gelijk aan het bedrag van het voor den dienst aan boord van een schip in geld vastgestelde loon voor den tijd, dat de arbeidsovereenkomst volgens de overeenkomst of de wet had behooren voort te duren, doch niet langer dan drie maanden. Hetzelfde geldt wanneer de arbeidsovereenkomst bij de reis is aangegaan.   
-2.  Bij eene arbeidsovereenkomst, voor een onbepaalden tijd aangegaan, is de schadeloosstelling ten minste gelijk aan het bedrag van het voor den dienst aan boord van een schip in geld vastgestelde loon voor één maand.   
-
-### Artikel  439  
-
-1.  Ieder der partijen is te allen tijde, ook vóórdat de arbeidsovereenkomst is aangevangen, bevoegd zich wegens gewichtige redenen te wenden tot de kantonrechter van de rechtbank van het arrondissement waarin de plaats van haar werkelijk verblijf gelegen is, of het schip zich bevindt, of in het Koninkrijk buiten Europa tot het bevoegde gezag of buiten het Koninkrijk tot den het eerst te bereiken Nederlandschen diplomatieken of bezoldigden consulairen ambtenaar, met het verzoek de arbeidsovereenkomst ontbonden te verklaren.   
-2.  Als gewichtige redenen worden, behalve die genoemd in [artikel 685, lid 2, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), ook beschouwd omstandigheden, na den aanvang van den dienst aan boord aan den verzoeker gebleken of na dien opgekomen, waardoor de voortzetting van de reis, waarop het schip zich bevindt, hem aan onvoorzien, groot levensgevaar zou blootstellen.   
-3.  Indien het den schepeling mogelijk is eene hoogere betrekking te verkrijgen, is hij steeds bevoegd het in het eerste lid bedoelde verzoek te doen, mits hij zorgt voor zijne vervanging zonder nieuwe kosten voor de zeewerkgever en te diens genoegen.   
-
-### Artikel  440  
-
-1.  Indien de arbeidsovereenkomst is aangegaan bij de reis en tengevolge van een maatregel van hooger hand of van andere overmacht de reis niet wordt aangevangen of, nadat zij is aangevangen, wordt gestaakt, neemt de arbeidsovereenkomst een einde. De schepeling heeft in het laatstbedoelde geval recht op het naar tijdruimte in geld vastgestelde loon, totdat hij in Nederland kan zijn teruggekomen of totdat hij eerder werk heeft gevonden. In geval van geschil wordt het bedrag van het loon vastgesteld door de kantonrechter van de rechtbank van het arrondissement waarin de zetel van het scheepsbedrijf is gelegen.   
-2.  Indien de schepeling zich heeft verbonden uitsluitend aan boord van een bepaald schip dienst te doen en dit schip vergaat, geldt het in het eerste lid bepaalde ook al is de arbeidsovereenkomst niet bij de reis aangegaan.   
-
-### Artikel  441  
-
-Voor zoover het in geld uitgedrukte deel van het loon is vastgesteld bij de reis, heeft de schepeling recht op eene evenredige verhooging van het loon, wanneer de reis door toedoen van de zeewerkgever, door molest of door verblijf in eene noodhaven of eene andere soortgelijke reden in het belang van het schip en de zaken aan boord daarvan wordt verlengd.  
-
-### Artikel  442  
-
-Indien de arbeidsovereenkomst is aangegaan bij de reis en de reis door toedoen van de zeewerkgever niet wordt aangevangen of, nadat zij is aangevangen, wordt gestaakt, neemt de arbeidsovereenkomst een einde. De schepeling heeft alsdan het recht op de schadeloosstelling, bepaald in [artikel 680 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) in verband met artikel 438, eerste lid.  
-
-### Artikel  443  
-
-1.  Eindigt de arbeidsovereenkomst in het buitenland, dan heeft de schepeling recht op vrij vervoer, indien hij Nederlander is, tot een haven in Nederland, indien hij niet Nederlander is, ter keuze van de zeewerkgever, tot de plaats waar de dienst aan boord van het schip is begonnen of tot een haven van het land waar hij thuis behoort, mits de schepeling zijn verlangen daartoe te kennen geeft uiterlijk op de dag volgende op die, waarop de arbeidsovereenkomst eindigt, de in artikel 354 bedoelde dagen niet medegerekend, doch in ieder geval voor het vertrek van het schip. Echter heeft de schepeling dit recht niet, indien hij wegens de wijze, waarop de arbeidsovereenkomst is beëindigd, schadeplichtig is geworden. Indien de arbeidsovereenkomst is ontbonden op verzoek van de schepeling op grond van gewichtige redenen, heeft hij dit recht slechts, indien de zeewerkgever schadeplichtig is geworden.   
-2.  Onder het vrij vervoer zijn begrepen de kosten van onderhoud en nachtverblijf van het eindigen der arbeidsovereenkomst tot de aankomst van den schepeling in de plaats zijner bestemming.   
-
-### Artikel  444  
-
-Iedere beëindiging van den dienst aan boord van het schip wordt door den kapitein aangeteekend op de monsterrol.  
-
-### Artikel  445  
-
-1.  De zeewerkgever is verplicht bij het einde van den dienst aan boord aan den schepeling eene schriftelijke afrekening ter hand te stellen. Indien geschil ontstaat over de afrekening, kan de meest gerede partij zich wenden tot de kantonrechter van de rechtbank van het arrondissement waar het schip is aangekomen of waar de zetel van het scheepsbedrijf is gelegen, met het verzoek de afrekening te onderzoeken en vast te stellen.   
-2.  Eindigt de dienst buiten Nederland, dan kan ieder der partijen, ter verkrijging van eene voorloopige beslissing, zich wenden, in het Koninkrijk buiten Europa, tot het bevoegde gezag, en buiten het Koninkrijk, tot den Nederlandschen diplomatieken of bezoldigden consulairen ambtenaar, die het eerst te bereiken is.   
-
-### Artikel  446  
-
-Na het eindigen der reis is de schepeling, wiens arbeidsovereenkomst is afgeloopen, niettemin gedurende drie werkdagen gehouden op verlangen van den kapitein mede te werken tot het opmaken van eene scheepsverklaring.  
-
-### Artikel  447  
-
-De zeewerkgever verbeurt voor iederen dag, dat hij een officier of een scheepsgezel, gedurende of bij het einde van den dienst aan boord van een schip, zonder wettige reden, ophoudt in het verkrijgen van het in geld vastgestelde deel van zijn loon, ten behoeve van den officier € 1,36 en ten behoeve van den scheepsgezel € 0,68.  
-
-### Artikel  448  
-
-1.  De schepelingen zijn verplicht aan het behoud van het schip en de zaken aan boord mede te werken. Zij hebben recht op buitengewone belooning voor de dagen, gedurende welke zij werkzaam zijn geweest.   
-2.  In geval van geschil wordt de belooning vastgesteld door de rechtbank van het arrondissement waarin de werkzaamheden tot behoud hebben plaats gehad. In het Koninkrijk buiten Europa geschiedt de vaststelling door het bevoegde gezag en buiten het Koninkrijk door den Nederlandschen diplomatieken of bezoldigden consulairen ambtenaar, die het eerst te bereiken is.   
-
-### Artikel  449  
-
-1.  Indien een schip, dat tot het verrichten van sleepdienst niet is bestemd, aan een ander in open zee aangetroffen schip sleepdienst bewijst onder omstandigheden welke niet aanspraak geven op hulploon, hebben niettemin de schepelingen recht op een aandeel in het sleeploon. De zeewerkgever is verplicht iederen schepeling vóór de uitbetaling desverlangd het bedrag van het sleeploon en de verdeeling daarvan schriftelijk mede te deelen.   
-2.  Het aandeel van de schepelingen in het sleeploon wordt, in geval van geschil, door de kantonrechter van de rechtbank van het arrondissement waar het schip is aangekomen of waar de zetel van het scheepsbedrijf is gelegen, naar billijkheid vastgesteld.   
-
-### Artikel  450  
-
-1.  In geval van verlies van het schip door schipbreuk, is de zeewerkgever verplicht aan den schepeling, zoolang hij dientengevolge werkloos is, doch ten hoogste gedurende twee maanden, eene schadeloosstelling te betalen tot een bedrag gelijk aan het bij de arbeidsovereenkomst in geld vastgestelde deel van het loon. Is het loon geheel of voor een deel niet naar tijdruimte vastgesteld, dan is een bedrag verschuldigd gelijk aan het loon, dat volgens het gebruik wegens eene reis als die waarop het schip is verloren gegaan, bij vaststelling van het geheele loon naar tijdruimte, wordt betaald. In geval van geschil beslist de kantonrechter van de rechtbank van het arrondissement waarin de zetel van het scheepsbedrijf is gelegen.   
-2.  Voor zoover de schepeling krachtens het bepaalde in artikel 440 recht heeft op loon, komt dit loon in mindering van de hierbedoelde schadeloosstelling.   
-3.  De vordering tot schadeloosstelling is bevoorrecht op alle de roerende en onroerende goederen van den zeewerkgever; het voorrecht staat in rang gelijk met dat bedoeld in [artikel 288 onder e van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
-4.  De zeewerkgever die meent dat een of meer van de schepelingen ten aanzien van de schipbreuk grove schuld treft, kan zich wenden tot de kantonrechter met het verzoek hem van zijn in het eerste lid bedoelde verplichting tegenover de betrokken schepelingen te ontheffen.   
-
-### Artikel  450a  
-
-1.  De zeewerkgever, die verplicht is tot vrij vervoer van den schepeling naar eene haven, heeft het recht zich van die verplichting te kwijten, door hem, mits hij tot werken in staat is, aan boord van een naar die haven bestemd schip eene betrekking te verschaffen, overeenkomstig die, welke hij in dienst van den zeewerkgever bekleedde.   
-2.  Een Nederlandsch schepeling kan verlangen, dat de betrekking hem aan boord van een Nederlandsch schip wordt verschaft.   
-3.  Geschillen over de uitvoering dezer bepaling beslist in het Koninkrijk buiten Europa het bevoegde gezag en buiten het Koninkrijk de Nederlandsche diplomatieke of bezoldigde consulaire ambtenaar.   
-
-### Artikel  450aa  
-
-1.  Bij verlies van de gehele uitrusting van de schepeling door een ramp aan het schip overkomen, heeft de schepeling, die niet bij die gebeurtenis het leven verliest, aanspraak op een uitkering ineens en heeft, indien de schepeling bij die gebeurtenis het leven verliest, de overlevende echtgenoot of geregistreerde partner of hebben, bij ontstentenis van deze, de gezamenlijke kinderen of, bij ontstentenis van dezen, de ouders recht op een uitkering ineens. Onder verlies van de gehele uitrusting wordt verstaan, dat niets is gered dan hetgeen de schepeling op of bij zich draagt.   
-2.  Bij algemene maatregel van bestuur wordt voor de verschillende groepen van schepelingen het bedrag van de in het vorige lid bedoelde uitkering bepaald.   
-3.  Bij verlies van een gedeelte van de uitrusting van de schepeling door een ramp aan het schip overkomen, bestaat een gelijke aanspraak als bedoeld in het eerste lid, met dien verstande, dat het bedrag van de uitkering wordt gesteld op de geldswaarde van het verloren gegane deel van de uitrusting tot ten hoogste het krachtens het tweede lid bepaalde bedrag.   
-
-### Artikel  450b  
-
-De [artikelen 613 tot en met 613 *c*](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [617](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [620](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [623](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [624](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [625](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [627](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [artikel 629, lid 10](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [artikel 629 *b*, leden 1, 2, 4 en 3](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voor zover het betreft de toepassing van [artikel 628, leden 3 en 4](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [650](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [652](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [657](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [658](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [676](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [683](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [684 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) vinden geen toepassing ten aanzien van de dienst van de schepeling aan boord van een schip.  
-
-### Artikel  450c  
-
-1.  Bij overeenkomst kunnen partijen niet afwijken van het bepaalde in de artikelen 398-401, 407, 408, 413, 416-419, 421-426, 428, 439, eerste en tweede lid, 445, 448 en 449, noch ook ten nadeele van den schepeling van het bepaalde in de artikelen 402, 414, 415 - 415h, 420, 427, 432-434, 438, 439, laatste lid, 440-443, 447, 450, 450a en 450aa.   
-2.  Zij mogen in de arbeidsovereenkomst geen bepalingen opnemen, welke afwijken van de wettelijke regels betreffende de bevoegdheid des rechters kennis te nemen van geschillen betrekkelijk deze overeenkomst, onverminderd de mogelijkheid zich te verbinden om geschillen aan de uitspraak van scheidslieden te onderwerpen.   
-
-### Artikel  450d  
-
-1.  Eene beschikking ingevolge de artikelen 415, derde lid, 424, laatste lid, 439, 445, 448, 449 en 450 geeft de kantonrechter niet dan na verhoor of behoorlijke oproeping van partijen. De oproeping geschiedt door den griffier op de wijze, bij algemeenen maatregel van bestuur te bepalen. Bij de oproeping van de wederpartij wordt een afschrift van het verzoekschrift gevoegd.   
-2.  In de gevallen van de artikelen 415, derde lid, 424, laatste lid, 445, 448, 449 en 450 kan de beschikking worden gegeven in den vorm bij [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bepaald.   
 
 ### §  3  
 
 ####Van de monsterrol en het monsterboekje
 
-### Artikel  451  
-
-1.  Alvorens te vertrekken, is de kapitein verplicht tot het opmaken van de monsterrol. De monsterrol is een staat, houdende de namen van de kapitein en van de schepelingen en de hoedanigheid waarin iedere schepeling aan boord dienst doet. De monsterrol vermeldt bovendien de naam van het schip, de met het schip te maken zeereis of zeereizen, de naam van de zeewerkgever, en wie van de schepelingen de rang van officier zullen hebben. Nadat de monsterrol voor de eerste maal is opgemaakt, wordt zij vervolgens ten minste eenmaal per twaalf maanden opnieuw opgemaakt. Na een tussentijdse wijziging van de gegevens, bedoeld in de tweede en derde volzin, wordt de monsterrol binnen 24 uur bijgesteld.   
-2.  De monsterrol wordt, na te zijn opgemaakt of bijgesteld, ondertekend door of namens de zeewerkgever, door de kapitein en door de desbetreffende schepelingen. De kapitein dient de monsterrol aan boord te houden.   
-3.  Nietig zijn bepalingen in de monsterrol, welke afwijken van de met een schepeling gesloten arbeidsovereenkomst of welke deze aanvullen.   
-
-### Artikel  451a  
-
-1.  Bij het opmaken van de monsterrol is de zeewerkgever verplicht de met de schepelingen gesloten arbeidsovereenkomsten aan de kapitein over te leggen.   
-2.  Deze vergewist zich ervan dat de inhoud van de arbeidsovereenkomsten door de schepelingen is begrepen en dat de overeenkomsten door partijen zijn ondertekend. Hij neemt daaromtrent een verklaring in de monsterrol op.   
-3.  Door de kapitein gewaarmerkte afschriften van de arbeidsovereenkomsten welke daartoe door de zeewerkgever ter beschikking van de kapitein worden gesteld, worden als bijlagen gevoegd bij het exemplaar van de monsterrol dat aan boord blijft. Iedere schepeling moet aan boord in de gelegenheid worden gesteld van de hem betreffende arbeidsovereenkomst inzage te nemen.   
-4.  Het in het eerste en het derde lid bepaalde geldt mede voor de collectieve arbeidsovereenkomsten op de grondslag waarvan een of meer arbeidsovereenkomsten met de in de monsterrol genoemde schepelingen zijn gesloten.   
-
-### Artikel  451d  
-
-De zeewerkgever draagt de kosten van het geneeskundig onderzoek volgens een bij of krachtens de in artikel 451 *i* bedoelde algemene maatregel van bestuur vast te stellen tarief.  
-
-### Artikel  451e  
-
-1.  Na de monstering blijft het monsterboekje in handen van de kapitein; deze geeft het de schepeling terug bij het einde van de dienst aan boord van het schip.   
-2.  De kapitein vermeldt in het boekje den datum waarop en de plaats waar de dienst aan boord van het schip is geëindigd.   
-3.  Indien de kapitein het monsterboekje niet kan teruggeven aan de schepeling, doet hij het toekomen aan de zeewerkgever die het, onder vermelding van de reden waarom het niet aan de schepeling is teruggegeven, zendt aan de inspecteur-generaal van de Inspectie Verkeer en Waterstaat.   
-4.  De Raad voor de scheepvaart kan, op verzoek van de zeewerkgever, de inspecteur-generaal van de Inspectie Verkeer en Waterstaat gehoord, het monsterboekje gedurende de tijd van ten hoogste een jaar inhouden, ingeval de schepeling de arbeidsovereenkomst heeft doen eindigen en deswege schadeplichtig is geworden. De schepeling wordt vooraf opgeroepen om te worden gehoord; hij kan ook verschijnen bij een bijzonder gemachtigde of vergezeld van een raadsman.   
-5.  De bevoegdheid van de zeewerkgever tot het doen van het verzoek vervalt door verloop van één maand na het eindigen van de arbeidsovereenkomst in eene Nederlandsche haven en van zes maanden na het eindigen dier overeenkomst in het buitenland.   
-
 ### §  4  
 
 ####Van de schepelingen ter visscherij
 
-### Artikel  452  
-
-1.  Zeevisserij is de vaart ter bedrijfsmatige uitoefening der visserij buitengaats.   
-2.  Schepeling ter zeevisserij is de persoon die een schriftelijke arbeidsovereenkomst met de zeewerkgever of een schriftelijke maatschapsovereenkomst heeft aangegaan in het kader van de zeevisserij, uitgezonderd de kapitein.   
-3.  De bepalingen van de tweede en de derde paragraaf van dezen titel vinden geen toepassing ten aanzien van de schepelingen ter kustvisscherij. De arbeidsovereenkomsten van deze schepelingen worden uitsluitend geregeld door de bepalingen van het Burgerlijk Wetboek.   
-
 ### §  5  
 
 ####Van de schepelingen ter zeevisserij die een arbeidsovereenkomst met de zeewerkgever hebben gesloten
-
-### Artikel  452a  
-
-Ten aanzien van de schepelingen ter zeevisserij die een arbeidsovereenkomst met de zeewerkgever hebben gesloten vinden de bepalingen van dezen titel toepassing, voorzoover daarvan in de volgende artikelen niet is afgeweken.  
-
-### Artikel  452b  
-
-Op de arbeidsovereenkomst tusschen zeewerkgever en een schepeling ter zeevisscherij blijft het bepaalde bij artikel 400 onder 7° buiten toepassing.  
-
-### Artikel  452c  
-
-Op de in het vorige artikel bedoelde overeenkomst is artikel 402 van toepassing, behoudens dat het dagverblijf kan worden vervangen door het volkslogies.  
-
-### Artikel  452d  
-
-Het bij artikel 407 omtrent de voeding bepaalde geldt ten aanzien van schepelingen ter zeevisscherij alleen, wanneer de zeewerkgever de zorg voor de voeding bij de arbeidsovereenkomst uitdrukkelijk op zich heeft genomen.  
-
-### Artikel  452e  
-
-De artikelen 409 en 410 gelden niet ten aanzien van schepelingen ter zeevisscherij.  
-
-### Artikel  452f  
-
-1.  Artikel 413 geldt ten aanzien van schepelingen ter zeevisscherij met deze aanvulling, dat het in geld vastgesteld loon voorzoover het afhankelijk is van de opbrengst der vangst in de arbeidsovereenkomst moet worden begroot op zijn vermoedelijk bedrag naar tijdruimte; bij de toepassing van de artikelen 425, 428, 438 en 450 wordt dergelijk loon berekend naar deze begrooting.   
-2.  De schepeling heeft geen aanspraak tegen de zeewerkgever op grond dat krachtens artikel 425 of 428 ingevolge de begrooting aan een derde meer is uitbetaald dan strookt met het loon, dat ten slotte aan den schepeling verschuldigd blijkt te zijn.   
-
-### Artikel  452g  
-
-Artikel 414 geldt niet ten aanzien van schepelingen ter zeevisscherij.  
-
-### Artikel  452h  
-
-Voor de toepassing van de artikelen 415, 415 *a* en 415 *g* geldt als loon van de schepelingen ter zeevisserij het voor hen bij algemene maatregel van bestuur vastgestelde bedrag, indien het werkelijke loon afhankelijk is van de vangst of de opbrengst daarvan.  
-
-### Artikel  452i  
-
-Artikel 417 geldt ten aanzien van schepelingen ter zeevisscherij, behoudens dat deze alleen in de eerste Nederlandsche haven, welke het schip aandoet, de tusschenkomst van den kantonrechter kunnen inroepen.  
-
-### Artikel  452j  
-
-Artikel 421 geldt ten aanzien van schepelingen ter zeevisscherij, behoudens, dat de kapitein kan volstaan met vermelding van de reden van weigering van een gevraagd verlof in het dagboek.  
-
-### Artikel  452k  
-
-De artikelen 423 en 424 gelden niet ten aanzien van schepelingen ter zeevisscherij.  
-
-### Artikel  452l  
-
-Artikel 425 geldt ten aanzien van schepelingen ter zeevisscherij, behoudens dat de uitbetaling aan de echtgenoote steeds wekelijks moet geschieden.  
-
-### Artikel  452m  
-
-Artikel 427 geldt niet ten aanzien van schepelingen ter zeevisscherij.  
-
-### Artikel  452n  
-
-Artikel 439 vindt toepassing op de arbeidsovereenkomsten tusschen zeewerkgever en schepelingen ter zeevisscherij, behoudens dat ieder der partijen zich uitsluitend kan wenden tot den daar bedoelden kantonrechter.  
-
-### Artikel  452o  
-
-1.  Artikel 450 geldt voor den zeewerkgever en de schepelingen ter zeevisscherij, behoudens dat de schadeloosstelling is beperkt tot twee derde van het bij de overeenkomst in geld vastgestelde deel van het loon.   
-2.  Ten aanzien van schepen, welke uitsluitend de seizoenvisscherij uitoefenen, bepalen Wij telken jare op welken dag het seizoen geacht wordt te eindigen. De zeewerkgever van zoodanig schip is in geen geval verplicht de uitbetaling langer te doen dan tot het einde van het seizoen.   
-
-### Artikel  452p  
-
-De [artikelen 613 tot en met 613 *c*](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [617](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [620](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [624](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [625](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [627](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [artikel 629, lid 10](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [artikel 629 *b*, leden 1, 2, 4 en 3](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voor zover het betreft de toepassing van [artikel 628, leden 3 en 4](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [652](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [658](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [676](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [683](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [684 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) vinden geen toepassing ten aanzien van de dienst aan boord van de schepeling ter zeevisserij.  
 
 ### §  6  
 
@@ -2308,37 +1667,55 @@ Bij overeenkomst kunnen partijen niet afwijken van het bepaalde in artikel 452 *
 
 ####Van verzekering tegen de gevaren der zee en die der slavernij
 
+Vervallen per 01-01-2006   
+
 ### Eerste  afdeeling  
 
 ####Van den vorm en den inhoud der verzekering
+
+Vervallen per 01-01-2006   
 
 ### Tweede  afdeeling  
 
 ####Van de begrooting der verzekerde voorwerpen
 
+Vervallen per 01-01-2006   
+
 ### Derde  afdeeling  
 
 ####Van het begin en het einde van het gevaar
+
+Vervallen per 01-01-2006   
 
 ### Vierde  afdeeling  
 
 ####Van de regten en pligten van den verzekeraar en den verzekerde
 
+Vervallen per 01-01-2006   
+
 ### Vijfde  afdeeling  
 
 ####Van abandonnement
+
+Vervallen per 01-01-2006   
 
 ### Zesde  afdeeling  
 
 ####Van de plichten en rechten van tussenpersonen in zee-assurantiën
 
+Vervallen per 01-01-2006   
+
 ### Tiende  titel  
 
 ####Van verzekering tegen de gevaren van den vervoer te lande en op binnenwateren
 
+Vervallen per 01-01-2006   
+
 ### Elfde  titel  
 
 ####Van avarijen
+
+Vervallen per 01-01-2006   
 
 ### Elfde titel  A  
 
@@ -2347,6 +1724,8 @@ Bij overeenkomst kunnen partijen niet afwijken van het bepaalde in artikel 452 *
 ### Twaalfde  titel  
 
 ####Van het te niet gaan der verbindtenissen in den zeehandel
+
+Vervallen per 01-01-2006   
 
 ### Dertiende  titel  
 
@@ -2440,9 +1819,11 @@ Bij overeenkomst kunnen partijen niet afwijken van het bepaalde in artikel 452 *
 
 ####Van verjaring en verval
 
+Vervallen per 01-01-2006   
+
 ####Algemene slotbepaling
 
 ### Artikel  958  
 
-De [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen, gesteld in de hierna genoemde onderdelen van dit wetboek: van het eerste boek: Artikel 82 tweede lid, Titel IV derde en vierde afdeling en de Titels VI en VII; van het tweede boek: de Titels III, IV en Titel IX derde afdeling. Zij is echter wel van toepassing op de termijnen, gesteld in de artikelen 419 en 451e.  
+De Algemene termijnenwet is niet van toepassing op de termijnen, gesteld in de hierna genoemde onderdelen van dit wetboek: van het eerste boek: Artikel 82 tweede lid, Titel IV derde en vierde afdeling en de Titels VI en VII; van het tweede boek: de Titels III, IV en Titel IX derde afdeling. Zij is echter wel van toepassing op de termijnen, gesteld in de artikelen 419 en 451e.  
 

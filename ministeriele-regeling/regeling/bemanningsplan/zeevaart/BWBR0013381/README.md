@@ -3,7 +3,7 @@
 ##Regeling bemanningsplan zeevaart
 
 De Minister van Verkeer en Waterstaat;  
-Gelet op [artikel 7, derde lid, van de Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md),
+Gelet op artikel 7, derde lid, van de Zeevaartbemanningswet,
 Besluit:    
 
 ### Artikel  1  
@@ -20,7 +20,7 @@ Deze regeling wordt aangehaald als: Regeling bemanningsplan zeevaart.
 
 ### Artikel  4  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 7 van de Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) in werking treedt.  
+Deze regeling berust op artikel 7, derde lid, van de Wet zeevarenden.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De Minister van Verkeer en Waterstaat, 
@@ -92,7 +92,7 @@ a. Welke bemanningssamenstelling stelt u voor? Vult u voor de beantwoording van 
 b. Is er overleg geweest met kapiteins of ander varend personeel binnen uw bedrijf bij de totstandkoming van de voorgestelde samenstelling ? JA/NEE  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | nr  | functie  |
 | 1  | --- |
 | 2  | --- |
@@ -120,6 +120,8 @@ b. Is er overleg geweest met kapiteins of ander varend personeel binnen uw bedri
 | 24  | --- |
 | 25  | --- |
 
+c. Wilt u aangeven op welke wijze bij de voorgestelde bemanningssamenstelling rekening is gehouden met de beperking van oververmoeidheid van de bemanning?    
+
 22. Alleen voor ro-ro-passagiersschepen en passagiersschepen: Wilt u een opgave doen van de door STCW'95 vereiste veiligheidstrainingen aan boord? Maakt u daarbij gebruik van het in de toelichting bij vraag 22 weergegeven schema. Wilt u ten behoeve van de beoordeling door de Inspectie Verkeer en Waterstaat tevens een afschrift van de alarmrol van het schip bijvoegen?  
 
 23. Alleen voor High Speed Craft (HSC): Wilt u een beschrijving geven hoe u Hoofdstuk 18.3.3 van de HSC-Code (zie toelichting) gaat invullen. Gebruikt u hiervoor een aparte bijlage?  
@@ -144,11 +146,11 @@ b. Is er overleg geweest met kapiteins of ander varend personeel binnen uw bedri
 
 De Inspectie Verkeer en Waterstaat zal zich bij de beoordeling van het bemanningsvoorstel (vraag 21) minder op specifieke bedrijfsvoeringsaspecten richten, indien goede procesafspraken tussen scheepsbeheerder en kapiteins voldoende garanties bieden voor een toereikende bemanning. Hiertoe zullen deze procesafspraken ten minste de volgende zaken moeten omvatten: 
 
-31. De manier waarop scheepsbeheerders hun kapiteins wijzen op de verantwoordelijkheid van de kapitein om te zorgen voor een voor zijn taak berekende bemanning overeenkomstig artikel 4 van de Zeevaartbemanningswet. Welke informatie wordt bij die gelegenheid verschaft?  
+31. De manier waarop scheepsbeheerders hun kapiteins wijzen op de verantwoordelijkheid van de kapitein om te zorgen voor een voor zijn taak berekende bemanning overeenkomstig artikel 4 van de Wet zeevarenden. Welke informatie wordt bij die gelegenheid verschaft?  
 
-32. De verplichting van de scheepsbeheerder om de kapitein de middelen te verschaffen om de onder punt 31 genoemde verantwoordelijkheid waar te kunnen maken (art. 3, tweede lid, ZBW).  
+32. De verplichting van de scheepsbeheerder om de kapitein de middelen te verschaffen om de onder punt 31 genoemde verantwoordelijkheid waar te kunnen maken (art. 3, tweede lid, Wet zeevarenden).  
 
-33. Een duidelijke en concrete procedure waarin de wederzijdse verantwoordelijkheden van de kapitein en de scheepsbeheerder zoals genoemd onder de punten 31 en 32 tot uitdrukking komen. Hierbij dienen ten minste de wederzijdse verplichtingen zoals weergegeven in artikel12 van de Zeevaartbemanningswet tot uitdrukking te komen.  
+33. Een duidelijke en concrete procedure waarin de wederzijdse verantwoordelijkheden van de kapitein en de scheepsbeheerder zoals genoemd onder de punten 31 en 32 tot uitdrukking komen. Hierbij dienen ten minste de wederzijdse verplichtingen zoals weergegeven in artikel 12 van de Wet zeevarenden tot uitdrukking te komen.  
 
 34. Communicatie/overlegstructuur tussen scheepsbeheerder en kapitein.   Wilt u afschriften van deze procesafspraken bijvoegen? Bij de beoordeling van deze procesafspraken zal er enerzijds op worden gelet of zij voldoende garanties bieden voor de kapitein om zijn verantwoordelijkheid, genoemd onder punt 31, ook waar te kunnen maken en anderzijds of zij voor de controlerende autoriteiten voldoende houvast bieden (handhaafbaarheid).  
 

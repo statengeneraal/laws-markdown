@@ -3,7 +3,7 @@
 ##Regeling monsterrol en monsterboekje zeevaart
 
 De Minister van Verkeer en Waterstaat;  
-Gelet op [artikel 34, eerste en tweede lid](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), en [artikel 36 van de Zeevaartbemanningswet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), in verband met de [artikelen 93](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [95](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [97](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) en [103 van het Besluit zeevaartbemanning handelsvaart en zeilvaart](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), alsmede met de [artikelen 49](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md), [51](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md), [53](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md) en [59 van het Besluit zeevisvaartbemanning](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md),
+Gelet op artikel 34, eerste en tweede lid, en artikel 36 van de Zeevaartbemanningswet, in verband met de artikelen 93, 95, 97 en 103 van het Besluit zeevaartbemanning handelsvaart en zeilvaart, alsmede met de artikelen 49, 51, 53 en 59 van het Besluit zeevisvaartbemanning,
 Besluit:    
 
 ### Artikel  1  
@@ -24,19 +24,19 @@ b. het voldoen aan de lichamelijke gezondheidseisen, alsmede die voor ogen en or
 
 ### Artikel  3  
 
-Met inachtneming van [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de Minister van Infrastructuur en Milieu de scheepsbeheerder schriftelijk verplichten de monsterrollen gedurende een bepaalde periode onverwijld aan hem toe te sturen.  
+Met inachtneming van artikel 5:17 van de Algemene wet bestuursrecht kan de Minister van Infrastructuur en Milieu de scheepsbeheerder schriftelijk verplichten de monsterrollen gedurende een bepaalde periode onverwijld aan hem toe te sturen.  
 
 ### Artikel  4  
 
 Naast de kapitein zijn de volgende personen of instellingen bevoegd tot het maken van de hierna omschreven aantekeningen in het monsterboekje van een zeevarende: 
 
-a. tot het maken van aantekeningen betreffende het door deze zeevarende met goed gevolg hebben afgesloten van een veiligheidstraining, zoals bedoeld in de [artikelen 63 tot en met 85 van het Besluit Zeevaartbemanning handelsvaart en zeilvaart](../../../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), onderscheidenlijk de [artikelen 44 tot en met 47 van het Besluit zeevisvaartbemanning](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md): het bevoegd gezag van een door de Minister erkende opleiding als bedoeld in [artikel 19, tweede lid, onderdeel b, van de Zeevaartbemanningswet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md);  
+a. tot het maken van aantekeningen betreffende het door deze zeevarende met goed gevolg hebben afgesloten van een veiligheidstraining, zoals bedoeld in de artikelen 63 tot en met 85 van het Besluit zeevarenden handelsvaart en zeilvaart, onderscheidenlijk de artikelen 44 tot en met 47 van het Besluit zeevisvaartbemanning: het bevoegd gezag van een door de Minister erkende opleiding als bedoeld in artikel 19, tweede lid, onderdeel b, van de Wet zeevarenden;  
 
-b. tot het maken van aantekeningen van een gunstige uitslag van een onderzoek op tuberculose: een bevoegd geneeskundige als bedoeld in artikel 100, eerste lid, van het Besluit Zeevaartbemanning handelvaart en zeilvaart, onderscheidenlijk [artikel 63, eerste lid, van het Besluit zeevisvaartbemanning](../../../../../../../AMvB/besluit/zeevisvaartbemanning/BWBR0012790/README.md).    
+b. tot het maken van aantekeningen van een gunstige uitslag van een onderzoek op tuberculose: een bevoegd geneeskundige als bedoeld in artikel 100, eerste lid, van het Besluit zeevarenden handelsvaart en zeilvaart, onderscheidenlijk artikel 63, eerste lid, van het Besluit zeevisvaartbemanning.    
 
 ### Artikel  5  
 
-Deze regeling treedt in werking op het tijdstip waarop [paragraaf 1](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) van [Hoofdstuk 4 van de Zeevaartbemanningswet](../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) in werking treedt.  
+Deze regeling berust op de artikelen 93, eerste lid, en 103, eerste lid, van het Besluit zeevarenden handelsvaart en zeilvaart en de artikelen 49, eerste lid, en 59, eerste lid, van het Besluit zeevisvaartbemanning.  
 
 ### Artikel  6  
 

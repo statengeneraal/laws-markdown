@@ -38,11 +38,11 @@ b. werknemer: de ander, bedoeld onder a, met uitzondering van degene die als vri
 
 a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. ondernemingsraad: de ondernemingsraad, bedoeld in de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);  
+b. ondernemingsraad: de ondernemingsraad, bedoeld in de Wet op de ondernemingsraden;  
 
-c. personeelsvertegenwoordiging: de personeelsvertegenwoordiging, bedoeld in de [Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md);  
+c. personeelsvertegenwoordiging: de personeelsvertegenwoordiging, bedoeld in de Wet op de ondernemingsraden;  
 
-d. toezichthouder: de toezichthouder, bedoeld in de [Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en als zodanig aangewezen op grond van artikel 24;  
+d. toezichthouder: de toezichthouder, bedoeld in de Algemene wet bestuursrecht, en als zodanig aangewezen op grond van artikel 24;  
 
 e. psychosociale arbeidsbelasting: de factoren direct of indirect onderscheid met inbegrip van seksuele intimidatie, agressie en geweld, pesten en werkdruk, in de arbeidssituatie die stress teweeg brengen;  
 
@@ -58,11 +58,11 @@ j. arbodienst: een dienst als bedoeld in artikel 14a, tweede en derde lid;
 
 k. zelfstandige: degene die zonder werkgever of werknemer te zijn in de zin van het eerste of tweede lid arbeid verricht;  
 
-l. vrijwilliger: de persoon, die niet bij wijze van beroep arbeid verricht voor een privaatrechtelijk of publiekrechtelijk lichaam dat niet is onderworpen aan de vennootschapsbelasting dan wel voor een sportorganisatie en die geen werknemer is in de zin van [artikel 2 van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), met uitzondering van de persoon die arbeid verricht: 
+l. vrijwilliger: de persoon, die niet bij wijze van beroep arbeid verricht voor een privaatrechtelijk of publiekrechtelijk lichaam dat niet is onderworpen aan de vennootschapsbelasting dan wel voor een sportorganisatie en die geen werknemer is in de zin van artikel 2 van de Wet op de loonbelasting 1964, met uitzondering van de persoon die arbeid verricht: 
 
 1°. ter voorbereiding op beroepsmatige arbeid;  
 
-2°. in het kader van een taakstraf dan wel in het kader van het voldoen aan voorwaarden ter voorkoming van strafvervolging als bedoeld in [artikel 74, tweede lid, onderdeel f](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [artikel 77f, eerste lid, onderdeel b, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) dan wel in het kader van deelneming aan een project als bedoeld in [artikel 77e van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+2°. in het kader van een taakstraf dan wel in het kader van het voldoen aan voorwaarden ter voorkoming van strafvervolging als bedoeld in artikel 74, tweede lid, onderdeel f, of artikel 77f, eerste lid, onderdeel b, van het Wetboek van Strafrecht dan wel in het kader van deelneming aan een project als bedoeld in artikel 77e van het Wetboek van Strafrecht;  
 
 3°. als bedoeld in artikel 16, zesde lid, onderdeel c.       
 4.  Waar in deze wet en de daarop berustende bepalingen de woorden «bedrijf» en «inrichting» worden gebruikt om een plaats aan te duiden, omvatten deze mede een andere plaats waar arbeid wordt verricht of pleegt te worden verricht.   
@@ -112,12 +112,12 @@ f. elke werknemer moet bij ernstig en onmiddellijk gevaar voor zijn eigen veilig
 
 ####Aanpassing arbeidsplaats werknemer met structurele functionele beperking
 
-1.  In aanvulling op artikel 3, eerste lid, aanhef en onder c, past de werkgever, bedoeld in artikel 1, eerste lid, onderdeel a, onder 1° uit hoofde van de uitoefening van zijn taak, bedoeld in [artikel 7:658a van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [artikel 76e van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md), 
+1.  In aanvulling op artikel 3, eerste lid, aanhef en onder c, past de werkgever, bedoeld in artikel 1, eerste lid, onderdeel a, onder 1° uit hoofde van de uitoefening van zijn taak, bedoeld in artikel 7:658a van het Burgerlijk Wetboek en artikel 76e van de Ziektewet, 
 
 a. de inrichting van de arbeidsplaats, de werkmethoden en de bij de arbeid gebruikte arbeidsmiddelen, alsmede de arbeidsinhoud aan zijn werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten aan, en  
 
 b. de inrichting van het bedrijf aan die werknemer aan, voorzover de behoefte daaraan wordt opgeroepen door de deelneming van die werknemer aan de werkzaamheden of het daarmee samenhangende verblijf in het bedrijf.     
-2.  Het eerste lid is van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md) en de persoon, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van die wet](../../../wet/ziektewet/BWBR0001888/README.md), die laatstelijk tot de eigenrisicodrager in dienstbetrekking stond, gedurende de periode dat de eigenrisicodrager aan die persoon ziekengeld moet betalen.   
+2.  Het eerste lid is van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in artikel 1, eerste lid, onderdeel h, van de Ziektewet en de persoon, bedoeld in artikel 29, tweede lid, onderdelen a, b en c, van die wet, die laatstelijk tot de eigenrisicodrager in dienstbetrekking stond, gedurende de periode dat de eigenrisicodrager aan die persoon ziekengeld moet betalen.   
 
 ####Inventarisatie en evaluatie van risico's
 
@@ -155,15 +155,15 @@ f. het toezicht op de naleving van het bij of krachtens dit artikel bepaalde.
 ### Artikel  7  
 
 1.  De toezichthouder stelt krachtens artikel 6, eerste lid, onder b, verschafte en bij algemene maatregel van bestuur aangewezen gegevens uit eigen beweging ter beschikking van het publiek. Bij of krachtens algemene maatregel van bestuur kunnen terzake regels worden gesteld.   
-2.  Onverminderd [artikel 10, eerste lid, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en in afwijking van [artikel 10, tweede lid, van die wet](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) blijft het verstrekken van gegevens als bedoeld in het eerste lid achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen: 
+2.  Onverminderd artikel 10, eerste lid, van de Wet openbaarheid van bestuur en in afwijking van artikel 10, tweede lid, van die wet blijft het verstrekken van gegevens als bedoeld in het eerste lid achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen: 
 
-a. het belang, bedoeld in [artikel 10, tweede lid, onder e, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+a. het belang, bedoeld in artikel 10, tweede lid, onder e, van de Wet openbaarheid van bestuur;  
 
-b. het belang, bedoeld in [artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), voorzover het betreft het voorkomen van sabotage.     
-3.  [Artikel 10, tweede lid, aanhef en onder f, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is niet van toepassing op het op verzoek verstrekken van gegevens die door de daartoe aangewezen ambtenaar bedoeld in artikel 24 zijn verkregen in verband met de toepassing van het bepaalde bij of krachtens artikel 6 ter uitvoering van richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 10).   
-4.  [Artikel 10, tweede lid, aanhef en onder b, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is op het op verzoek verstrekken van informatie over gegevens als bedoeld in het derde lid uitsluitend van toepassing, voorzover die gegevens een vertrouwelijk karakter hebben.   
-5.  [Artikel 10, tweede lid, aanhef en onder g, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is op het op verzoek verstrekken van gegevens als bedoeld in het derde lid uitsluitend van toepassing voor zover het gegevens betreft die afbreuk kunnen doen aan de mogelijkheid van het voorkomen van sabotage.   
-6.  In afwijking van het vijfde lid is, voorzover het gaat om milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), [artikel 10, zevende lid, aanhef en onder b, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) uitsluitend van toepassing voorzover het gegevens betreft die afbreuk kunnen doen aan de mogelijkheid van het voorkomen van sabotage.   
+b. het belang, bedoeld in artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur, voorzover het betreft het voorkomen van sabotage.     
+3.  Artikel 10, tweede lid, aanhef en onder f, van de Wet openbaarheid van bestuur is niet van toepassing op het op verzoek verstrekken van gegevens die door de daartoe aangewezen ambtenaar bedoeld in artikel 24 zijn verkregen in verband met de toepassing van het bepaalde bij of krachtens artikel 6 ter uitvoering van richtlijn nr. 96/82/EG van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 10).   
+4.  Artikel 10, tweede lid, aanhef en onder b, van de Wet openbaarheid van bestuur is op het op verzoek verstrekken van informatie over gegevens als bedoeld in het derde lid uitsluitend van toepassing, voorzover die gegevens een vertrouwelijk karakter hebben.   
+5.  Artikel 10, tweede lid, aanhef en onder g, van de Wet openbaarheid van bestuur is op het op verzoek verstrekken van gegevens als bedoeld in het derde lid uitsluitend van toepassing voor zover het gegevens betreft die afbreuk kunnen doen aan de mogelijkheid van het voorkomen van sabotage.   
+6.  In afwijking van het vijfde lid is, voorzover het gaat om milieu-informatie als bedoeld in artikel 19.1a van de Wet milieubeheer, artikel 10, zevende lid, aanhef en onder b, van de Wet openbaarheid van bestuur uitsluitend van toepassing voorzover het gegevens betreft die afbreuk kunnen doen aan de mogelijkheid van het voorkomen van sabotage.   
 
 ####Voorlichting en onderricht
 
@@ -223,8 +223,8 @@ f. de werkgever en de de werknemers en de andere deskundige personen, bedoeld in
 a. de mogelijkheid geboden zich met de toezichthouder tijdens zijn bezoek aan het bedrijf of de inrichting buiten tegenwoordigheid van anderen te onderhouden;  
 
 b. de mogelijkheid geboden de toezichthouder tijdens zijn bezoek aan het bedrijf of de inrichting te vergezellen, behoudens voor zover deze te kennen geeft dat daartegen vanwege een goede uitoefening van zijn taak bezwaren bestaan.     
-5.  Voor het bij of krachtens deze wet bepaalde treedt voor de toepassing van de [afdelingen 3.6](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4.1.2. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een ondernemingsraad of personeelsvertegenwoordiging in de plaats van de belanghebbende werknemers.   
-6.  Bij het ontbreken van de ondernemingsraad of personeelsvertegenwoordiging wordt, in afwijking van [artikel 3.41 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van een beschikking zo spoedig mogelijk door de werkgever mededeling gedaan aan de belanghebbende werknemers. Die beschikking treedt, in afwijking van [artikel 3.40 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor hen niet eerder in werking dan nadat de werkgever aan de mededelingsplicht, als bedoeld in de vorige zin, heeft voldaan.   
+5.  Voor het bij of krachtens deze wet bepaalde treedt voor de toepassing van de afdelingen 3.6 en 4.1.2. van de Algemene wet bestuursrecht een ondernemingsraad of personeelsvertegenwoordiging in de plaats van de belanghebbende werknemers.   
+6.  Bij het ontbreken van de ondernemingsraad of personeelsvertegenwoordiging wordt, in afwijking van artikel 3.41 van de Algemene wet bestuursrecht, van een beschikking zo spoedig mogelijk door de werkgever mededeling gedaan aan de belanghebbende werknemers. Die beschikking treedt, in afwijking van artikel 3.40 van de Algemene wet bestuursrecht, voor hen niet eerder in werking dan nadat de werkgever aan de mededelingsplicht, als bedoeld in de vorige zin, heeft voldaan.   
 
 ####Bijstand deskundige werknemers op het gebied van preventie en bescherming
 
@@ -234,7 +234,7 @@ b. de mogelijkheid geboden de toezichthouder tijdens zijn bezoek aan het bedrijf
 2.  Voorzover de mogelijkheden onvoldoende zijn om de bijstand binnen het bedrijf of de inrichting te organiseren, wordt de bijstand verleend door een combinatie van deskundige werknemers en andere deskundige personen.   
 3.  Indien er geen mogelijkheden zijn om de bijstand binnen het bedrijf of de inrichting te organiseren, wordt de bijstand verleend door andere deskundige personen.   
 4.  De werknemers en de andere deskundige personen beschikken over een zodanige deskundigheid, ervaring en uitrusting, zijn zodanig in aantal, gedurende zoveel tijd beschikbaar en zodanig georganiseerd, dat zij de bijstand naar behoren kunnen verlenen.   
-5.  De werkgever stelt de werknemers in de gelegenheid de bijstand zelfstandig en onafhankelijk te verlenen. De werknemers worden uit hoofde van een juiste taakuitoefening niet benadeeld in hun positie in het bedrijf of de inrichting. [Artikel 21, vierde zin, van de Wet op de ondernemingsraden](../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) is van overeenkomstige toepassing.   
+5.  De werkgever stelt de werknemers in de gelegenheid de bijstand zelfstandig en onafhankelijk te verlenen. De werknemers worden uit hoofde van een juiste taakuitoefening niet benadeeld in hun positie in het bedrijf of de inrichting. Artikel 21, vierde zin, van de Wet op de ondernemingsraden is van overeenkomstige toepassing.   
 6.  De deskundige personen verlenen hun bijstand met behoud van hun zelfstandigheid en van hun onafhankelijkheid ten opzichte van de werkgever.   
 7.  Het verlenen van bijstand omvat in ieder geval: 
 
@@ -251,11 +251,11 @@ c. de uitvoering van de maatregelen, bedoeld in onderdeel b, dan wel de medewerk
 
 ### Artikel  14  
 
-1.  In aanvulling op artikel 13 laat de werkgever zich bij de volgende taken bijstaan door een of meer deskundige personen ten behoeve van wie overeenkomstig artikel 20 een certificaat is afgegeven of die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md): 
+1.  In aanvulling op artikel 13 laat de werkgever zich bij de volgende taken bijstaan door een of meer deskundige personen ten behoeve van wie overeenkomstig artikel 20 een certificaat is afgegeven of die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg: 
 
 a. het toetsen van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5, en daarover adviseren;  
 
-b. de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten, met inbegrip van de bijstand bij de uitvoering van bij of krachtens [artikel 25, eerste, tweede, derde, vierde en zevende lid van de Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), dan wel bij of krachtens [artikel 71a, eerste, tweede, derde, vierde en zevende lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) gestelde regels;  
+b. de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten, met inbegrip van de bijstand bij de uitvoering van bij of krachtens artikel 25, eerste, tweede, derde, vierde en zevende lid van de Wet werk en inkomen naar arbeidsvermogen, dan wel bij of krachtens artikel 71a, eerste, tweede, derde, vierde en zevende lid, van de Wet op de arbeidsongeschiktheidsverzekering gestelde regels;  
 
 c. het uitvoeren van: 
 
@@ -274,7 +274,7 @@ d. de personen die de bijstand verrichten, hebben een zodanige uitrusting en zij
 3.  Een afschrift van een advies als bedoeld in het eerste lid, onderdeel a, wordt door de degene die dit advies heeft opgesteld gezonden aan de ondernemingsraad of de personeelsvertegenwoordiging. Bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging wordt een afschrift van dit advies zo spoedig mogelijk door de werkgever gezonden aan de belanghebbende werknemers.   
 4.  De wijze waarop de bijstandverlening plaatsvindt met betrekking tot de taak, bedoeld in het eerste lid, onderdeel b, wordt schriftelijk vastgelegd.   
 5.  Bij de gegevensverwerking noodzakelijk voor de uitvoering van de taak, bedoeld in het eerste lid, onderdeel b, kan gebruik worden gemaakt van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
-6.  [Artikel 464 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voorzover het betreft de overeenkomstige toepassing van de [artikelen 457](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [464, tweede lid, onder b, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is niet van toepassing indien in verband met de uitvoering van deze wet handelingen worden verricht op het gebied van de geneeskunst door personen die zijn belast met de taken, bedoeld in het eerste lid, onderdeel b.   
+6.  Artikel 464 van Boek 7 van het Burgerlijk Wetboek voorzover het betreft de overeenkomstige toepassing van de artikelen 457 en 464, tweede lid, onder b, van Boek 7 van het Burgerlijk Wetboek, is niet van toepassing indien in verband met de uitvoering van deze wet handelingen worden verricht op het gebied van de geneeskunst door personen die zijn belast met de taken, bedoeld in het eerste lid, onderdeel b.   
 7.  De deskundige werknemers en andere deskundige personen, bedoeld in artikel 13, en de personen, bedoeld in het eerste lid, werken bij het verlenen van bijstand aan een werkgever samen.   
 8.  Artikel 13, vijfde en zesde lid, is van overeenkomstige toepassing.   
 9.  De organisatie van de bijstand bij de taken, bedoeld in het eerste lid, kan, met inachtneming van het tweede lid, plaatsvinden bij: 
@@ -372,7 +372,7 @@ c. een verbod om bepaalde bij die maatregel omschreven gevaarlijke stoffen of vo
 d. een verbod om bepaalde bij die maatregel omschreven gevaarlijke stoffen of voorwerpen voorhanden te hebben, indien met betrekking tot die stoffen of voorwerpen niet aan de bij of krachtens die maatregel vastgestelde voorwaarden of voorschriften is voldaan;  
 
 e. een verbod om bepaalde bij die maatregel omschreven arbeid te verrichten of te doen verrichten indien de werknemers niet arbeidsgezondheidskundig zijn onderzocht.     
-4.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat deze wet en de daarop berustende bepalingen geheel of gedeeltelijk niet van toepassing zijn op: 
+4.  Bij algemene maatregel van bestuur kan worden bepaald dat deze wet en de daarop berustende bepalingen geheel of gedeeltelijk niet van toepassing zijn op: 
 
 a. arbeid verricht in of op een luchtvaartuig, dan wel een zeeschip of binnenvaartuig, dan wel een voertuig op een openbare weg of een spoor- of tramweg;  
 
@@ -384,14 +384,14 @@ d. arbeid verricht bij een verkenningsonderzoek, het opsporen of winnen van delf
 
 e. arbeid verricht binnen de exclusieve economische zone.     
 5.  De in het derde lid, onder e, bedoelde maatregel stelt het verrichten van arbeid slechts afhankelijk van het resultaat van een arbeidsgezondheidskundig onderzoek voor zover die arbeid bijzondere gevaren meebrengt voor het leven of de gezondheid van de werknemer zelf of van andere personen of voor zover dit om andere bijzondere redenen geboden is. Bij of krachtens algemene maatregel van bestuur worden met betrekking tot dit arbeidsgezondheidskundig onderzoek en de wijze van registratie, verwerking en bewaring van de uitslag daarvan nadere regels gesteld. Deze hebben in ieder geval betrekking op de gevallen waarin en de wijze waarop een verzoek tot herkeuring kan worden gedaan.   
-6.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot de arbeid of de verrichtingen: 
+6.  Bij algemene maatregel van bestuur kunnen met betrekking tot de arbeid of de verrichtingen: 
 
 a. bedoeld in het vierde lid;  
 
 b. verricht in de burgerlijke openbare dienst;  
 
-c. verricht in een gevangenis of huis van bewaring als bedoeld in de [Penitentiaire beginselenwet](../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in de [Beginselenwet verpleging ter beschikking gestelden](../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) of een inrichting als bedoeld in de [Beginselenwet justitiële jeugdinrichtingen](../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md),   regels worden gesteld die afwijken van deze wet of de daarop berustende bepalingen of strekken tot aanvulling daarvan. Met betrekking tot de arbeid of de verrichtingen, bedoeld in het vierde lid, onder c, kan bij of krachtens algemene maatregel van bestuur worden bepaald dat [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is.   
-7.  Bij algemene maatregel van bestuur kan worden bepaald dat de verplichting tot naleving van daarbij aangewezen voorschriften van deze wet of de daarop berustende bepalingen, voorzover zij betrekking hebben op arbeid waaraan bijzondere gevaren voor de veiligheid of de gezondheid zijn verbonden, zich mede richt tot: 
+c. verricht in een gevangenis of huis van bewaring als bedoeld in de Penitentiaire beginselenwet, een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in de Beginselenwet verpleging ter beschikking gestelden of een inrichting als bedoeld in de Beginselenwet justitiële jeugdinrichtingen,   regels worden gesteld die afwijken van deze wet of de daarop berustende bepalingen of strekken tot aanvulling daarvan. Met betrekking tot de arbeid of de verrichtingen, bedoeld in het vierde lid, onder c, kan bij algemene maatregel van bestuur worden bepaald dat afdeling 4.1.2 van de Algemene wet bestuursrecht niet van toepassing is.   
+7.  Bij algemene maatregel van bestuur kan worden bepaald dat de verplichting tot naleving van daarbij aangewezen voorschriften van deze wet of de daarop berustende bepalingen, voor zover zij betrekking hebben op arbeid waaraan bijzondere gevaren voor de veiligheid of de gezondheid zijn verbonden, dan wel noodzakelijk zijn ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties, zich mede richt tot: 
 
 a. een zelfstandige;  
 
@@ -401,7 +401,7 @@ c. degene bij wie vrijwilligers werkzaam zijn;
 
 d. een vrijwilliger.     
 8.  Bij algemene maatregel van bestuur kan worden bepaald dat de verplichting tot naleving van daarbij aangegeven voorschriften in de gevallen bij die maatregel omschreven rust op een ander dan de werkgever. Aangewezen kunnen worden de eigenaar of beheerder dan wel degene die anderszins bevoegd is te beslissen over het ontwerp, de vervaardiging dan wel het onderhoud van arbeidsplaatsen en arbeidsmiddelen, zoals zonodig nader bij die maatregel is bepaald.   
-9.  De in het eerste lid bedoelde regels kunnen betrekking hebben op andere onderwerpen dan die genoemd in het tweede lid of zich richten tot andere personen dan de werkgever of de in het zevende en achtste lid bedoelde personen, indien dat noodzakelijk is ter uitvoering van krachtens het Verdrag tot oprichting van de Europese Gemeenschap vastgestelde verplichtingen met betrekking tot de bevordering van de verbetering van het arbeidsmilieu.   
+9.  De in het eerste lid bedoelde regels kunnen betrekking hebben op andere onderwerpen dan die genoemd in het tweede lid of zich richten tot andere personen dan de werkgever of de in het zevende en achtste lid bedoelde personen, indien dat noodzakelijk is ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties met betrekking tot de verbetering van de veiligheid of de gezondheid.   
 10.  De werkgever, dan wel een ander dan de werkgever bedoeld in het zevende, achtste of negende lid en de werknemers zijn verplicht tot naleving van de voorschriften en verboden vastgesteld bij of krachtens de op grond van dit artikel, artikel 20, eerste lid, en artikel 24, negende lid, vastgestelde algemene maatregel van bestuur voorzover en op de wijze als bij of krachtens deze maatregel is bepaald.   
 11.  Het niet naleven van de in het tiende lid bedoelde voorschriften en verboden kan worden aangemerkt als strafbaar feit.   
 
@@ -409,7 +409,7 @@ d. een vrijwilliger.
 
 ### Artikel  17  
 
-Bij algemene maatregel van bestuur kan, met inachtneming van in die maatregel gegeven voorschriften, worden bepaald dat aan een of meer van de krachtens deze wet vastgestelde bepalingen op een andere wijze kan worden voldaan dan in die bepalingen is aangegeven, echter uitsluitend bij collectieve regeling als bedoeld in [artikel 1:3, eerste lid van de Arbeidstijdenwet](../../../wet/arbeidstijdenwet/BWBR0007671/README.md), dan wel een regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad of de personeelsvertegenwoordiging. Daarbij wordt te allen tijde in acht genomen dat geen afbreuk wordt gedaan aan het beschermingsniveau van de in de eerste volzin bedoelde bepalingen.  
+Bij algemene maatregel van bestuur kan, met inachtneming van in die maatregel gegeven voorschriften, worden bepaald dat aan een of meer van de krachtens deze wet vastgestelde bepalingen op een andere wijze kan worden voldaan dan in die bepalingen is aangegeven, echter uitsluitend bij collectieve regeling als bedoeld in artikel 1:3, eerste lid van de Arbeidstijdenwet, dan wel een regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad of de personeelsvertegenwoordiging. Daarbij wordt te allen tijde in acht genomen dat geen afbreuk wordt gedaan aan het beschermingsniveau van de in de eerste volzin bedoelde bepalingen.  
 
 ####Arbeidsgezondheidskundig onderzoek
 
@@ -429,7 +429,7 @@ De werkgever stelt de werknemers periodiek in de gelegenheid een onderzoek te on
 ### Artikel  20  
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld op grond waarvan werkgevers, werknemers, andere personen of instellingen in het bezit moeten zijn van een of meer certificaten waaruit blijkt dat zij voldoen aan voorschriften, gesteld bij of krachtens deze wet.   
-2.  Onze Minister dan wel een door Onze Minister op verzoek aangewezen instelling beslist op aanvraag over de afgifte van het certificaat en is tevens bevoegd een afgegeven certificaat in te trekken of te schorsen. De [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is niet van toepassing op aangewezen instellingen als bedoeld in de eerste zin.   
+2.  Onze Minister dan wel een door Onze Minister op verzoek aangewezen instelling beslist op aanvraag over de afgifte van het certificaat en is tevens bevoegd een afgegeven certificaat in te trekken of te schorsen. De Kaderwet zelfstandige bestuursorganen is niet van toepassing op aangewezen instellingen als bedoeld in de eerste zin.   
 3.  Een certificaat als bedoeld in het eerste lid en een aanwijzing als bedoeld in het tweede lid worden gegeven voor een beperkte tijdsduur. Aan een aanwijzing en een certificaat kunnen voorschriften worden verbonden. De bedoelde beperking en voorschriften worden in de aanwijzing en het certificaat vermeld.   
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld onder meer met betrekking tot: 
 
@@ -463,7 +463,7 @@ d. de vergoeding van de kosten die is verschuldigd in verband met de afgifte van
 
 ### Artikel  23  
 
-Bij algemene maatregel van bestuur kunnen, voor zoveel nodig in afwijking van deze wet, voorzieningen worden getroffen voor het geval de krachtens artikel 20, tweede lid, aangewezen instellingen hun uit deze wet voortvloeiende verplichtingen niet naar behoren nakomen.  
+Bij algemene maatregel van bestuur kunnen voorzieningen worden getroffen voor het geval de krachtens artikel 20, tweede lid, aangewezen instellingen hun uit deze wet voortvloeiende verplichtingen niet naar behoren nakomen.  
 
 ### Hoofdstuk  5  
 
@@ -477,7 +477,7 @@ Bij algemene maatregel van bestuur kunnen, voor zoveel nodig in afwijking van de
 2.  Met betrekking tot door Onze Minister aangewezen categorieën van arbeid zijn met het toezicht op de naleving van het bepaalde bij of krachtens deze wet belast of mede belast de door hem aangewezen andere ambtenaren dan de in het eerste lid bedoelde. Indien ambtenaren worden aangewezen die ressorteren onder een andere minister, wordt het besluit tot aanwijzing van die ambtenaren genomen door Onze Minister en die andere minister gezamenlijk. Van een besluit als bedoeld in het eerste lid en in dit lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 3.  De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.   
 4.  De toezichthouder is voorts bevoegd te allen tijde ter zake van een arbeidsongeval een onderzoek in te stellen. Hij stelt naar aanleiding van dat onderzoek een rapport op.   
-5.  De toezichthouder stelt ter voldoening aan [artikel 5:18, zesde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een rapport op; dit rapport en een rapport als bedoeld in het vierde lid zendt hij aan de werkgever, aan de ondernemingsraad of aan de personeelsvertegenwoordiging.   
+5.  De toezichthouder stelt ter voldoening aan artikel 5:18, zesde lid, van de Algemene wet bestuursrecht een rapport op; dit rapport en een rapport als bedoeld in het vierde lid zendt hij aan de werkgever, aan de ondernemingsraad of aan de personeelsvertegenwoordiging.   
 6.  De toezichthouder is bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, voorzover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
 7.  De toezichthouder geeft zo spoedig mogelijk gehoor aan het verzoek om een onderzoek in te stellen, gedaan door de ondernemingsraad of de personeelsvertegenwoordiging, dan wel door een vereniging van werknemers, die krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen en als zodanig in de betrokken onderneming of bedrijfstak werkzaam is en in het bezit is van volledige rechtsbevoegdheid.   
 8.  Ten dienste van het onderzoek naar een overtreding is de toezichthouder, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is, bevoegd ieder staande te houden en te vorderen dat hij zijn naam, voornamen, geboortedatum en geboortejaar en adres opgeeft.   
@@ -522,17 +522,17 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit kracht v
 
 ####Bevel stillegging van werk in verband met recidive
 
-1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. De artikelen 24, tweede lid, en 27, vierde lid, zijn van overeenkomstige toepassing.   
+1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de Wet op de economische delicten strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. De artikelen 24, tweede lid, en 27, vierde lid, zijn van overeenkomstige toepassing.   
 2.  Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd of een proces-verbaal is opgemaakt.   
 3.  De constatering van de overtreding, bedoeld in het eerste of tweede lid, wordt vastgelegd in een boeterapport of proces-verbaal.   
-4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. [Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
+4.  De waarschuwing, bedoeld in het eerste lid, vervalt indien na de dagtekening van de waarschuwing vijf jaren zijn verstreken. Artikel 5:34, tweede lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
 5.  De ambtenaar, bedoeld in het eerste lid, is bevoegd met betrekking tot het bevel, bedoeld in het tweede lid, de nodige maatregelen te treffen, de nodige aanwijzingen te geven en de hulp van de sterke arm in te roepen.   
 6.  Ieder wie zulks aangaat is verplicht zich te gedragen overeenkomstig een bevel als bedoeld in het tweede lid en een maatregel of aanwijzing als bedoeld in het vijfde lid.   
 7.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste en tweede lid.   
 
 ### Artikel  28b  
 
-Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar is bevoegd tot oplegging van een last onder bestuursdwang ter zake van de naleving van [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het de verplichting betreft tot het verlenen van medewerking aan de toezichthouder, de artikelen 24, negende lid, 28, eerste lid, en 28a, tweede lid, en de daartoe bij algemene maatregel van bestuur aangewezen bepalingen krachtens deze wet. Artikel 24, tweede lid, is van overeenkomstige toepassing.  
+Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar is bevoegd tot oplegging van een last onder bestuursdwang ter zake van de naleving van artikel 5:20 van de Algemene wet bestuursrecht, voor zover het de verplichting betreft tot het verlenen van medewerking aan de toezichthouder, de artikelen 24, negende lid, 28, eerste lid, en 28a, tweede lid, en de daartoe bij algemene maatregel van bestuur aangewezen bepalingen krachtens deze wet. Artikel 24, tweede lid, is van overeenkomstige toepassing.  
 
 ####Werkonderbreking
 
@@ -598,7 +598,7 @@ Het is de werkgever verboden handelingen te verrichten of na te laten in strijd 
 
 1.  Als overtreding wordt aangemerkt het niet naleven van de artikelen 3, 4, eerste lid, 5, 6, eerste lid, eerste volzin, 8, 9, eerste en tweede lid, 10, 11, 13, eerste tot en met vierde lid, negende en tiende lid, 14, eerste, tweede en zevende lid, 14a, tweede, derde en vierde lid, 15, eerste en derde lid, 18 en 19.   
 2.  Als overtreding wordt tevens aangemerkt het niet naleven van de artikelen 6, eerste lid, tweede volzin, en 16, tiende lid, voor zover het niet naleven van de in die artikelleden bedoelde voorschriften en verboden bij of krachtens algemene maatregel van bestuur is aangemerkt als overtreding.   
-3.  Geen bestuurlijke boete kan worden opgelegd ter zake van bij of krachtens deze wet strafbaar gestelde feiten of ter zake van deze wet in de [Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) strafbaar gestelde feiten, met uitzondering van de strafbare feiten, bedoeld in artikel 6, derde lid, van deze wet en [artikel 1, onder 1°, van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) ten aanzien van artikel 6, eerste lid, eerste volzin.   
+3.  Geen bestuurlijke boete kan worden opgelegd ter zake van bij of krachtens deze wet strafbaar gestelde feiten of ter zake van deze wet in de Wet op de economische delicten strafbaar gestelde feiten, met uitzondering van de strafbare feiten, bedoeld in artikel 6, derde lid, van deze wet en artikel 1, onder 1°, van de Wet op de economische delicten ten aanzien van artikel 6, eerste lid, eerste volzin.   
 
 ####Hoogte bestuurlijke boete en recidive
 
@@ -606,21 +606,21 @@ Het is de werkgever verboden handelingen te verrichten of na te laten in strijd 
 
 1.  Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar legt de bestuurlijke boete op aan de overtreder op wie de verplichtingen rusten die voortvloeien uit deze wet en de daarop berustende bepalingen, voor zover het niet naleven daarvan is aangeduid als overtreding.   
 2.  De ambtenaar, bedoeld in het eerste lid, is niet reeds aangewezen als toezichthouder.   
-3.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
-4.  De bestuurlijke boete die voor een overtreding van artikel 6, eerste lid, of voor het niet naleven van een voorschrift of verbod bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 6, eerste lid, voor zover aangemerkt als overtreding, kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+3.  De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
+4.  De bestuurlijke boete die voor een overtreding van artikel 6, eerste lid, of voor het niet naleven van een voorschrift of verbod bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 6, eerste lid, voor zover aangemerkt als overtreding, kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 5.  Onverminderd het derde en vierde lid verhoogt de op grond van het eerste lid aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het tiende lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.   
 6.  De verhoging van de bestuurlijke boete, bedoeld in het vijfde lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.   
 7.  Onverminderd het derde en vierde lid verhoogt de op grond van het eerste lid aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het tiende lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.   
 8.  Voor de toepassing van het vijfde en zevende lid wordt met een onherroepelijke bestuurlijke boete gelijkgesteld een onherroepelijke strafrechtelijke sanctie wegens een overtreding als bedoeld in artikel 6, derde lid.   
 9.  In afwijking van het vijfde en zevende lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.   
-10.  Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. [Artikel 5:53 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
-11.  In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechter in beroep of hoger beroep de hoogte van de boete ook ten nadele van de belanghebbende wijzigen.   
+10.  Onze Minister stelt beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. Artikel 5:53 van de Algemene wet bestuursrecht is van toepassing indien een artikel gesteld bij of krachtens deze wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd.   
+11.  In afwijking van artikel 8:69 van de Algemene wet bestuursrecht kan de rechter in beroep of hoger beroep de hoogte van de boete ook ten nadele van de belanghebbende wijzigen.   
 
 ####Boeterapport
 
 ### Artikel  36  
 
-1.  Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt het rapport naast de overtreder in ieder geval de andere bij de overtreding betrokken persoon of personen.   
+1.  Onverminderd artikel 5:48, tweede lid, van de Algemene wet bestuursrecht vermeldt het rapport naast de overtreder in ieder geval de andere bij de overtreding betrokken persoon of personen.   
 2.  Het rapport wordt toegezonden aan de daartoe op grond van artikel 34, eerste lid, aangewezen ambtenaar.   
 3.  Een afschrift van het rapport wordt toegezonden of uitgereikt aan de andere bij de overtreding betrokken persoon of personen, bedoeld in het eerste lid.   
 
@@ -660,7 +660,7 @@ De kosten die zijn verbonden aan de naleving van de regels die bij of krachtens 
 
 ### Artikel  45  
 
-Onze Minister zendt binnen 5 jaar na de inwerkingtreding van de [Wet van 30 november 2006 tot wijziging van de Arbeidsomstandighedenwet 1998 en enige andere wetten in verband met het vergroten van de verantwoordelijkheid van werkgevers en werknemers voor het arbeidsomstandighedenbeleid](../../../wet/wijzigingswet/arbeidsomstandighedenwet/1998/enz./(vergroten/etc/BWBR0020772/README.md) (Stb. 2006, 673) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt binnen 5 jaar na de inwerkingtreding van de Wet van 30 november 2006 tot wijziging van de Arbeidsomstandighedenwet 1998 en enige andere wetten in verband met het vergroten van de verantwoordelijkheid van werkgevers en werknemers voor het arbeidsomstandighedenbeleid (Stb. 2006, 673) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
 
 ####Citeertitel
 

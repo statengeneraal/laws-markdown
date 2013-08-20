@@ -3,7 +3,7 @@
 ##Regeling vaarbevoegdheidsbewijzen zeevaart
 
 De Minister van Verkeer en Waterstaat;  
-Gelet op de [artikelen 20, tweede lid](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [21](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en [22, vierde en vijfde lid, van de Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), alsmede de [artikelen 5](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), [6, tweede lid](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), en [8, tweede lid, van het Besluit zeevaartbemanning handelsvaart en zeilvaart](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md),
+Gelet op de artikelen 20, tweede lid, 21 en 22, vierde en vijfde lid, van de Zeevaartbemanningswet, alsmede de artikelen 5, 6, tweede lid, en 8, tweede lid, van het Besluit zeevaartbemanning handelsvaart en zeilvaart,
 Besluit:     
 ### §  1  
 
@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. Besluit:  [Besluit zeevaartbemanning handelsvaart en zeilvaart](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md);    b. kleine schepen:  schepen met een bruto tonnage van minder dan 3000 GT en een voortstuwingsvermogen van minder dan 3000 kW;    c. vaarbevoegdheidsbewijs van erkennning:  een vaarbevoegdheidsbewijs dat is door de Minister van Infrastructuur en Milieu wordt afgegeven op grond van een erkend buitenlands vaarbevoegdheidsbewijs als bedoeld in [artikel 22 van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md);    d. Wet:  [Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md).     
+In deze regeling wordt verstaan onder:   a. Besluit:  Besluit zeevarenden handelsvaart en zeilvaart;    b. kleine schepen:  schepen met een bruto tonnage van minder dan 3000 GT en een voortstuwingsvermogen van minder dan 3000 kW;    c. vaarbevoegdheidsbewijs van erkennning:  een vaarbevoegdheidsbewijs dat is door de Minister van Infrastructuur en Milieu wordt afgegeven op grond van een erkend buitenlands vaarbevoegdheidsbewijs als bedoeld in artikel 22 van de Wet;    d. Wet:  Wet zeevarenden.     
 
 ### §  2  
 
@@ -31,37 +31,37 @@ d. een afschrift van de originele geldige geneeskundige verklaring betreffende h
 
 e. de bewijzen van diensttijd;  
 
-f. de voor het verlangde vaarbevoegdheidsbewijs vereiste kennisbewijzen of de daarop betrekking hebbende EG-verklaring, bedoeld in [artikel 22, derde lid, van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), zoals dat luidde voor 20 oktober 2007, die ten hoogste vier jaren voor het indienen van de aanvraag is of zijn afgegeven, of het bewijs dat met goed gevolg een kennistoets heeft plaatsgevonden bij de Rijks Examencommissie voor de Stuurlieden of voor de Werktuigkundigen in combinatie met een aantoonbaar dienstverband van ten minste zes maanden bij één Nederlandse rederij;  
+f. de voor het verlangde vaarbevoegdheidsbewijs vereiste kennisbewijzen of de daarop betrekking hebbende EG-verklaring, bedoeld in artikel 22, derde lid, van de Wet, zoals dat luidde voor 20 oktober 2007, die ten hoogste vier jaren voor het indienen van de aanvraag is of zijn afgegeven, of het bewijs dat met goed gevolg een kennistoets heeft plaatsgevonden bij de Rijks Examencommissie voor de Stuurlieden of voor de Werktuigkundigen in combinatie met een aantoonbaar dienstverband van ten minste zes maanden bij één Nederlandse rederij;  
 
 g. een bewijs van nationaliteit van de aanvrager;  
 
 h. het bewijs van betaling van de kosten, verbonden aan de afgifte van het vaarbevoegdheidsbewijs;  
 
-i. voor de afgifte van een vaarbevoegdheidsbewijs als kapitein of stuurman: het voor de aangevraagde vaarbevoegdheid vereiste certificaat maritieme radiocommunicatie, bedoeld in de [artikelen 22](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) en [23 van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), dan wel het bewijs dat met goed gevolg een marcomtoets heeft plaatsgevonden door de Divisie Telecom van de Inspectie Verkeer en Waterstaat;  
+i. voor de afgifte van een vaarbevoegdheidsbewijs als kapitein of stuurman: het voor de aangevraagde vaarbevoegdheid vereiste certificaat maritieme radiocommunicatie, bedoeld in de artikelen 22 en 23 van het Besluit, dan wel het bewijs dat met goed gevolg een marcomtoets heeft plaatsgevonden door de Divisie Telecom van de Inspectie Verkeer en Waterstaat;  
 
-j. voor de afgifte van een vaarbevoegdheidsbewijs als gezel: het certificaat basisveiligheidstraining, bedoeld in [artikel 87 van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md);  
+j. voor de afgifte van een vaarbevoegdheidsbewijs als gezel: het certificaat basisveiligheidstraining, bedoeld in artikel 87 van het Besluit;  
 
-k. voor de afgifte van een vaarbevoegdheidsbewijs als kapitein of eerste stuurman alle schepen: het certificaat scheepsmanagement-N, bedoeld in [artikel 68 van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md);  
+k. voor de afgifte van een vaarbevoegdheidsbewijs als kapitein of eerste stuurman alle schepen: het certificaat scheepsmanagement-N, bedoeld in artikel 68 van het Besluit;  
 
-l. voor de afgifte van een vaarbevoegdheidsbewijs als hoofdwerktuigkundige: het certificaat scheepsmanagement-W, bedoeld in [artikel 69 van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), tenzij: 
+l. voor de afgifte van een vaarbevoegdheidsbewijs als hoofdwerktuigkundige: het certificaat scheepsmanagement-W, bedoeld in artikel 69 van het Besluit, tenzij: 
 
 1º. de aanvrager houder is van het diploma C als scheepswerktuigkundige;  
 
-2º. de aanvrager vóór de datum van inwerkingtreding van het [Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) dienst deed als hoofdwerktuigkundige;    
+2º. de aanvrager vóór de datum van inwerkingtreding van het Besluit dienst deed als hoofdwerktuigkundige;    
 
 m. voor de afgifte van een vaarbevoegdheidsbewijs als eerste maritiem officier: de certificaten scheepsmanagement-N en W;  
 
-n. voor de afgifte van een vaarbevoegdheidsbewijs als genoemd in [artikel 18, tweede lid, van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), met uitzondering van die, genoemd onder e en f: het certificaat brandbestrijding voor gevorderden, bedoeld in [artikel 90 van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md);  
+n. voor de afgifte van een vaarbevoegdheidsbewijs als genoemd in artikel 18, tweede lid, van de Wet, met uitzondering van die, genoemd onder e en f: het certificaat brandbestrijding voor gevorderden, bedoeld in artikel 90 van het Besluit;  
 
-o. voor de afgifte van een vaarbevoegdheidsbewijs als kapitein, eerste stuurman alle schepen en eerste maritiem officier alle schepen: het certificaat radarnavigator, bedoeld in [artikel 70 van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), en  
+o. voor de afgifte van een vaarbevoegdheidsbewijs als kapitein, eerste stuurman alle schepen en eerste maritiem officier alle schepen: het certificaat radarnavigator, bedoeld in artikel 70 van het Besluit, en  
 
 p. voor het plaatsen van een aantekening op een vaarbevoegdheidsbewijs als bedoeld in onderdeel n, dat de betrokken zeevarende bevoegd is dienst te doen aan boord van tankschepen: een erkend tankertrainingscertificaat en het bewijs van zes maanden diensttijd in een officiersfunctie aan boord van tankschepen.     
-2.  De verplichting, bedoeld in het eerste lid, onderdeel k, geldt niet indien het vaarbevoegdheidsbewijs wordt aangevraagd met de beperking tot reizen nabij de kust. Voor het vaarbevoegdheidsbewijs als eerste stuurman geldt deze verplichting bovendien niet indien het vaarbevoegdheidsbewijs wordt aangevraagd met de beperking tot schepen met een brutotonnage van minder dan 3000 GT of in de uitzonderingssituaties, bedoeld in [artikel 49, tweede lid, van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md). Tenslotte geldt deze verplichting niet indien het een aanvraag van een vaarbevoegdheidsbewijs betreft als eerste maritiem officier met de beperking tot een brutotonnage van ten hoogste 3000 GT en een motorvermogen van 3000 kW.   
+2.  De verplichting, bedoeld in het eerste lid, onderdeel k, geldt niet indien het vaarbevoegdheidsbewijs wordt aangevraagd met de beperking tot reizen nabij de kust. Voor het vaarbevoegdheidsbewijs als eerste stuurman geldt deze verplichting bovendien niet indien het vaarbevoegdheidsbewijs wordt aangevraagd met de beperking tot schepen met een brutotonnage van minder dan 3000 GT of in de uitzonderingssituaties, bedoeld in artikel 49, tweede lid, van het Besluit. Tenslotte geldt deze verplichting niet indien het een aanvraag van een vaarbevoegdheidsbewijs betreft als eerste maritiem officier met de beperking tot een brutotonnage van ten hoogste 3000 GT en een motorvermogen van 3000 kW.   
 3.  De verplichting, bedoeld in het eerste lid, onderdeel o, geldt niet indien het vaarbevoegdheidsbewijs wordt aangevraagd met de beperking tot reizen nabij de kust. Voor het vaarbevoegdheidsbewijs als eerste stuurman en eerste maritiem officier geldt deze verplichting bovendien niet indien het vaarbevoegdheidsbewijs wordt aangevraagd met de beperking tot schepen met een brutotonnage van minder dan 3000 GT.   
-4.  Een bewijs van beroepsbekwaamheid als bedoeld in [artikel 22a, eerste lid, van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), met betrekking tot de onderwerpen genoemd in het eerste lid, onderdelen c tot en met f, en i tot en met p, wordt met de desbetreffende in die onderdelen bedoelde bescheiden gelijkgesteld.   
+4.  Een bewijs van beroepsbekwaamheid als bedoeld in artikel 22a, eerste lid, van de Wet, met betrekking tot de onderwerpen genoemd in het eerste lid, onderdelen c tot en met f, en i tot en met p, wordt met de desbetreffende in die onderdelen bedoelde bescheiden gelijkgesteld.   
 5.  Ter verkrijging van een vaarbevoegdheidsbewijs op grond van een vaarbevoegdheidsbewijs dat is afgegeven door of onder de verantwoordelijkheid van de bevoegde autoriteit van een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, legt de aanvrager het origineel van dat geldige bewijs alsmede de in het eerste lid, onderdelen a tot en met d, g en h, bedoelde bescheiden over aan de Minister van Infrastructuur en Milieu.   
-6.  De op een ingevolge [artikel 22a, tweede lid, van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) afgegeven vaarbevoegdheidsbewijs aangetekende vaarbevoegdheid is beperkt tot de in het oorspronkelijke bewijs omschreven bevoegdheid waarbij het in het [Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md) aangegeven onderscheid naar categorie schepen, bruto-tonnage, voortstuwingsvermogen en vaargebied in acht wordt genomen.   
-7.  Een ingevolge [artikel 22a, tweede lid, van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) afgegeven vaarbevoegdheidsbewijs heeft een geldigheidsduur die gelijk is aan die van het oorspronkelijke bewijs, doch niet langer dan vijf jaar.   
+6.  De op een ingevolge artikel 22a, tweede lid, van de Wet afgegeven vaarbevoegdheidsbewijs aangetekende vaarbevoegdheid is beperkt tot de in het oorspronkelijke bewijs omschreven bevoegdheid waarbij het in het Besluit aangegeven onderscheid naar categorie schepen, bruto-tonnage, voortstuwingsvermogen en vaargebied in acht wordt genomen.   
+7.  Een ingevolge artikel 22a, tweede lid, van de Wet afgegeven vaarbevoegdheidsbewijs heeft een geldigheidsduur die gelijk is aan die van het oorspronkelijke bewijs, doch niet langer dan vijf jaar.   
 
 ### §  3  
 
@@ -77,11 +77,11 @@ b. indien de aanvraag een vaarbevoegdheidsbewijs van erkenning betreft als:
 
 1º. kapitein, eerste stuurman of hoofdwerktuigkundige;  
 
-2º. schipper zeevisvaart of plaatsvervangend schipper zeevisvaart; het originele kennisbewijs betreffende de opleidingsmodule Nederlandse wetgeving, bedoeld in [artikel 9, vierde lid, van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md);    
+2º. schipper zeevisvaart of plaatsvervangend schipper zeevisvaart; het originele kennisbewijs betreffende de opleidingsmodule Nederlandse wetgeving, bedoeld in artikel 9, vierde lid, van het Besluit;    
 
 c. een bewijs van nationaliteit van de aanvrager, en  
 
-d. indien het een aanvraag voor een vaarbevoegdheidsbewijs van erkenning als kapitein betreft, het bewijs van schriftelijke toestemming aan de scheepsbeheerder, bedoeld in [artikel 30, vijfde lid, van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), tenzij [artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector koopvaardij](../../../../../ministeriele-regeling/vrijstellingsregeling/buitenlandse/kapiteins/voor/de/sector/koopvaardij/BWBR0015532/README.md) of [artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector zeegaande waterbouw](../../../../../ministeriele-regeling/vrijstellingsregeling/buitenlandse/kapiteins/sector/zeegaande/waterbouw/BWBR0015531/README.md) van toepassing is.     
+d. indien het een aanvraag voor een vaarbevoegdheidsbewijs van erkenning als kapitein betreft, het bewijs van schriftelijke toestemming aan de scheepsbeheerder, bedoeld in artikel 30, vijfde lid, van de Wet, tenzij artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector koopvaardij of artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector zeegaande waterbouw van toepassing is.     
 2.  Een vaarbevoegdheidsbewijs van erkenning heeft een geldigheidsduur die gelijk is aan die van het door een bevoegde autoriteit afgegeven oorspronkelijke vaarbevoegdheidsbewijs, doch niet langer dan vijf jaar.   
 
 ### §  4  
@@ -115,7 +115,7 @@ Ter vernieuwing van een vaarbevoegdheidsbewijs van erkenning legt de aanvrager d
 
 a. de in artikel 4, eerste lid, onderdelen a tot en met h, genoemde bescheiden;  
 
-b. indien het een aanvraag voor vernieuwing van een vaarbevoegdheidsbewijs van erkenning als kapitein alle schepen of kleine schepen betreft, het bewijs van schriftelijke toestemming aan de scheepsbeheerder, bedoeld in [artikel 30, vijfde lid, van de Wet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), tenzij [artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector koopvaardij](../../../../../ministeriele-regeling/vrijstellingsregeling/buitenlandse/kapiteins/voor/de/sector/koopvaardij/BWBR0015532/README.md) of [artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector zeegaande waterbouw](../../../../../ministeriele-regeling/vrijstellingsregeling/buitenlandse/kapiteins/sector/zeegaande/waterbouw/BWBR0015531/README.md) van toepassing is, en  
+b. indien het een aanvraag voor vernieuwing van een vaarbevoegdheidsbewijs van erkenning als kapitein alle schepen of kleine schepen betreft, het bewijs van schriftelijke toestemming aan de scheepsbeheerder, bedoeld in artikel 30, vijfde lid, van de Wet, tenzij artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector koopvaardij of artikel 5 van de Vrijstellingsregeling buitenlandse kapiteins voor de sector zeegaande waterbouw van toepassing is, en  
 
 c. het geldige, door een bevoegde autoriteit van de desbetreffende andere staat rechtmatig afgegeven vaarbevoegdheidsbewijs op grond waarvan een vaarbevoegdheidsbewijs van erkenning wordt verlangd.    
 
@@ -139,7 +139,7 @@ Waar in deze regeling wordt gesproken over het overleggen van originele bewijsst
 
 ### Artikel  8  
 
-1.  Als vergelijkbare functie als bedoeld in [artikel 8, tweede lid, van het Besluit](../../../../../AMvB/besluit/zeevarenden/handelsvaart/en/zeilvaart/BWBR0012778/README.md), komen in aanmerking: 
+1.  Als vergelijkbare functie als bedoeld in artikel 8, tweede lid, van het Besluit, komen in aanmerking: 
 
 a. voor de functies van kapitein en stuurman: 
 
@@ -197,7 +197,7 @@ e. voor de functie van radio-operator:
 
 ### Artikel  10  
 
-Deze regeling treedt in werking op het tijdstip waarop de [artikelen 20](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md), [21](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en [22 van de Zeevaartbemanningswet](../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) in werking treden.  
+Deze regeling berust op de artikelen 20, tweede lid, 21, 22, vierde en vijfde lid, en 22a, vierde lid, van de Wet zeevarenden en de artikelen 5, 6, tweede lid, en 8, tweede lid, van het Besluit zeevarenden handelsvaart en zeilvaart.  
 
 ### Artikel  11  
 
