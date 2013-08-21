@@ -3,7 +3,7 @@
 ##Regeling specificaties en typegoedkeuring boordcomputer taxi
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de artikelen [artikel 22, eerste en derde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [23, derde lid](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [24 van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen artikel 22, eerste en derde lid, 23, derde lid, en 24 van de Wegenverkeerswet 1994;
 Besluit:     
 ### §  1  
 
@@ -33,23 +33,23 @@ In deze regeling wordt verstaan onder:
 
 *bewegingsopnemer:* instrument, of een deel ervan, gekoppeld aan de boordcomputer dat een signaal in de vorm van een impuls afgeeft over de beweging van de auto op basis waarvan de boordcomputer de afgelegde afstand van de auto kan bepalen;  
 
-*boordcomputer:* apparaat ten behoeve van de registratie van de gegevens, bedoeld in [artikel 79, derde, vierde en vijfde lid, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*boordcomputer:* apparaat ten behoeve van de registratie van de gegevens, bedoeld in artikel 79, derde, vierde en vijfde lid, van het Besluit personenvervoer 2000;  
 
-*boordcomputerkaart:* een geheugenkaart als bedoeld in [artikel 1, onderdeel h, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*boordcomputerkaart:* een geheugenkaart als bedoeld in artikel 1, onderdeel h, van het Besluit personenvervoer 2000;  
 
 *CEN:* door het Comité Européen de Normalisation uitgegeven norm;  
 
-*chauffeurskaart:* kaart als bedoeld in [artikel 1, onderdeel i, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*chauffeurskaart:* kaart als bedoeld in artikel 1, onderdeel i, van het Besluit personenvervoer 2000;  
 
 *constante van de boordcomputer:* getal dat de waarde aangeeft van het ingangssignaal van de bewegingsopnemer dat nodig is ter aanwijzing en registratie van een afgelegde afstand van één kilometer, uitgedrukt in impulsen per kilometer;  
 
 *coördinaten:* een aanduiding om de positie van de auto op de aarde vast te leggen ten opzichte van het World Geodetic System 1984 coördinatenstelsel;  
 
-*elektronische handtekening:* een handtekening die voldoet aan de eisen, bedoeld in [artikel 15a, eerste tot en met vijfde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
+*elektronische handtekening:* een handtekening die voldoet aan de eisen, bedoeld in artikel 15a, eerste tot en met vijfde lid, van Boek 3 van het Burgerlijk Wetboek;  
 
 *ETSI:* door de European Telecommunications Standards Institute uitgegeven norm;  
 
-*fabrikant:* persoon of instantie die verantwoordelijk is voor alle aspecten van de goedkeuringsprocedure, bedoeld in [artikel 22, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*fabrikant:* persoon of instantie die verantwoordelijk is voor alle aspecten van de goedkeuringsprocedure, bedoeld in artikel 22, eerste lid, van de Wegenverkeerswet 1994;  
 
 *FIPS PUB:* een Federal Information Processing Standards Publication;  
 
@@ -71,7 +71,7 @@ In deze regeling wordt verstaan onder:
 
 *kaartsessie:* periode tussen het ingeven van de boordcomputerkaart en het wegschrijven van de afsluitende gegevens op de boordcomputerkaart door de boordcomputer;  
 
-*keuringskaart:* kaart als bedoeld in [artikel 1, onderdeel j, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*keuringskaart:* kaart als bedoeld in artikel 1, onderdeel j, van het Besluit personenvervoer 2000;  
 
 *kilometerstand:* de door de boordcomputer getotaliseerde afgelegde afstand met de auto, zowel bij vooruitrijden als bij achteruitrijden, overeenkomend met de totale door de auto afgelegde afstand;  
 
@@ -97,7 +97,7 @@ In deze regeling wordt verstaan onder:
 
 *richtlijn 2007/46/EG:*richtlijn nr. 2007/46/EG van het Europees Parlement en de Raad van de Europese Unie van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (PbEU L 263);  
 
-*ritadministratie:* gegevens, bedoeld in [artikel 79, derde en vierde lid, van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+*ritadministratie:* gegevens, bedoeld in artikel 79, derde en vierde lid, van het Besluit personenvervoer 2000;  
 
 *sensor:* eenheid die onderdeel uitmaakt van de boordcomputer of rechtstreeks gekoppeld is aan de boordcomputer en die informatie automatisch aanlevert aan de boordcomputer;  
 
@@ -109,7 +109,7 @@ In deze regeling wordt verstaan onder:
 
 *verplaatsingsopnemer:* instrument, onderdeel uitmakende van de boordcomputer dat de boordcomputer in staat stelt autonoom een verplaatsing van de auto waar te nemen;  
 
-*vervoerder:* vervoerder als bedoeld in [artikel 1, onderdeel k, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en werkgever als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Arbeidstijdenwet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), die taxivervoer verricht.    
+*vervoerder:* vervoerder als bedoeld in artikel 1, onderdeel k, van de Wet personenvervoer 2000 en werkgever als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Arbeidstijdenwet, die taxivervoer verricht.    
 
 ### §  2  
 
@@ -180,7 +180,7 @@ c. taxivervoer.
 4.  De boordcomputer wisselt naar de volgende werkingsmodus afhankelijk van het type boordcomputerkaart dat in de kaartinterface is ingebracht en koppelt hier een gebruikersgroep aan overeenkomstig de volgende tabel:  
 
 | Type boordcomputerkaart  | Werkingsmodus  | Gebruikersgroep  |
-|:---|:---|:---|
+|---|---|---|
 | Geen  | Operationele modus: Basis  | ONBEKEND  |
 | Chauffeurskaart  | Operationele modus: Arbeidstijd  | BESTUURDER  |
 | Inspectiekaart  | Controlemodus  | TOEZICHTHOUDER  |
@@ -190,7 +190,7 @@ c. taxivervoer.
 5.  In afwijking van de tabel, bedoeld in het vierde lid, leidt het invoeren van een inspectiekaart tijdens de deactivering, bedoeld in artikel 23, niet tot het automatisch selecteren van de controlemodus.   
 6.  De boordcomputer wisselt na een handmatig verzoek van de bestuurder daartoe tussen de werkingsniveaus van de operationele modus. Het werkingsniveau basis is daarbij altijd ingeschakeld.   
 7.  Indien het werkingsniveau taxivervoer is ingeschakeld, is tevens het werkingsniveau arbeidstijd ingeschakeld.   
-8.  Indien er geen chauffeurskaart aanwezig is stelt de boordcomputer de bestuurder in staat om bij het inschakelen van het werkingsniveau arbeidstijd handmatig het burgerservicenummer, bedoeld in de [Wet algemene bepalingen burgerservicenummer](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), invoeren.   
+8.  Indien er geen chauffeurskaart aanwezig is stelt de boordcomputer de bestuurder in staat om bij het inschakelen van het werkingsniveau arbeidstijd handmatig het burgerservicenummer, bedoeld in de Wet algemene bepalingen burgerservicenummer, invoeren.   
 9.  De boordcomputer gebruikt de werkingsmodi om de voor die modi geldende toegangsregels voor toegangsrechten tot functies, objecten en gegevens toe te passen.   
 10.  Indien in de operationele modus het werkingsniveau arbeidstijd of taxivoer actief is, leidt het invoeren van de inspectiekaart tot het pauzeren van de operationele modus, inclusief de betreffende kaartsessie. Na het afsluiten van de controlemodus wordt de operationele modus hervat.   
 
@@ -242,7 +242,7 @@ e. het tijdstip van de positiebepaling.
 
 ### Artikel  9  
 
-1.  De boordcomputer registreert in de operationele modus, werkingsniveau arbeidstijd, de arbeids-, rij- en rusttijden, bedoeld in de [artikelen 5:4, tweede en derde lid](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), [5:6](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), en [5:9, van de Arbeidstijdenwet](../../../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en de [artikelen 2.5:1](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:2](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:3](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:4](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:5](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [2.5:6, eerste lid](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), en [2.5:7, van het Arbeidstijdenbesluit vervoer](../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) van de bestuurder en maakt daarbij het volgende onderscheid: 
+1.  De boordcomputer registreert in de operationele modus, werkingsniveau arbeidstijd, de arbeids-, rij- en rusttijden, bedoeld in de artikelen 5:4, tweede en derde lid, 5:6, en 5:9, van de Arbeidstijdenwet en de artikelen 2.5:1, 2.5:2, 2.5:3, 2.5:4, 2.5:5, 2.5:6, eerste lid, en 2.5:7, van het Arbeidstijdenbesluit vervoer van de bestuurder en maakt daarbij het volgende onderscheid: 
 
 a. rijtijd;  
 
@@ -275,7 +275,7 @@ c. pauze.
 
 De boordcomputer stelt in de operationele modus, werkingsniveau taxivervoer, ten behoeve van het afdrukken van een ritbewijs ten minste de volgende gegevens, inclusief een korte aanduiding van het gegeven, ter beschikking: 
 
-a. het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in [artikel 4, derde lid, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+a. het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in artikel 4, derde lid, van de Wet personenvervoer 2000;  
 
 b. het kenteken van de auto;  
 
@@ -366,7 +366,7 @@ b. het nummer van de ondernemerskaart van de vervoerder zoals vastgelegd in de i
 1.  De boordcomputer beheert de bedrijfsvergrendelingen die een vervoerder aanbrengt in de bedrijfsmodus.   
 2.  De bedrijfsvergrendeling verhindert inzage in de geregistreerde gegevens voor anderen dan de vervoerder voor wie de gegevens zijn geregistreerd, met uitzondering van de houder van een inspectie- of werkplaatskaart.   
 3.  Indien de ondernemerskaart in de kaartlezer wordt ingebracht wordt de bedrijfsvergrendeling automatisch ingeschakeld, waarna de ondernemerskaart kan worden uitgenomen.   
-4.  Een bedrijfsvergrendeling bestaat uit de registratie van het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in [artikel 4, derde lid, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), het aan de vervoerder toegekende unieke nummer, als bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](../../../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), het nummer van de ondernemerskaart, de datum en het tijdstip van de inschakeling en, voor zover van toepassing, de datum en het tijdstip van de uitschakeling van de bedrijfsvergrendeling.   
+4.  Een bedrijfsvergrendeling bestaat uit de registratie van het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in artikel 4, derde lid, van de Wet personenvervoer 2000, het aan de vervoerder toegekende unieke nummer, als bedoeld in artikel 9, onderdeel a, van de Handelsregisterwet 2007, het nummer van de ondernemerskaart, de datum en het tijdstip van de inschakeling en, voor zover van toepassing, de datum en het tijdstip van de uitschakeling van de bedrijfsvergrendeling.   
 5.  Een bedrijfsvergrendeling schakelt automatisch uit wanneer een andere vervoerder de vergrendeling inschakelt.   
 6.  Bij de eerste bedrijfsvergrendeling voor de betreffende vervoerder stelt de boordcomputer de ondernemer in staat handmatig de gegevens, bedoeld in artikel 11, onderdelen c en d, in te voeren.   
 7.  De boordcomputer stelt de vervoerder in staat om via de bedrijfsvergrendeling de gegevens, bedoeld in het zesde lid, te wijzigen.   
@@ -626,6 +626,7 @@ g. een gebruikers- en installatiehandleiding.
 2.  Bij een aanvraag als bedoeld in artikel 32, eerste lid, wordt door de fabrikant voor de keuring een exemplaar van de boordcomputer ter beschikking van de Dienst Wegverkeer gesteld.   
 3.  De Dienst Wegverkeer kan in verband met de uitvoering van de typegoedkeuring bij de testinstelling die één of meerdere door de fabrikant overgelegde testrapporten, bedoeld in het eerste lid, onderdeel d, heeft opgesteld, nadere gegevens opvragen of een onderzoek ter plaatse uitvoeren voor zover dit nodig is voor de beoordeling van deze testrapporten.   
 4.  De fabrikant draagt zorg voor de medewerking van de door hem ingeschakelde testinstellingen aan het in het vorige lid bedoelde opvragen van gegevens of uit te voeren nader onderzoek.   
+5.  Na verlening van typegoedkeuring door de Dienst Wegverkeer, verstrekt de minister op aanvraag en na betaling van het daarvoor verschuldigde tarief, aan de betreffende fabrikant systeemkaarten die alleen ten behoeve van inbouw in de te produceren typegoedgekeurde boordcomputers mogen worden aangewend.   
 
 ### Artikel  34  
 
@@ -660,7 +661,7 @@ Met een boordcomputer als bedoeld in deze regeling wordt gelijkgesteld een boord
 
 ### Artikel  39  
 
-De [Regeling boordcomputer taxi](../../../../../../../../ministeriele-regeling/regeling/boordcomputer/taxi/BWBR0026626/README.md) wordt ingetrokken.  
+De Regeling boordcomputer taxi wordt ingetrokken.  
 
 ### Artikel  40  
 
@@ -716,7 +717,7 @@ Dit beveiligingsprofiel voldoet aan Common Criteria versie 3.1 Revisie 2. Hoewel
 Dit document volgt de naamgeving en notaties voor beveiligingsprofielen volgens de Common Criteria standaard. Er zijn unieke labels toegewezen aan entiteiten zodat deze gemakkelijk terug te vinden zijn. De labels beginnen met één van de onderstaande karakters:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | A  | Assumption (aanname)  |
 | O  | Object (object)  |
 | OE  | Security objective for the Environment (omgevingsdoelstellingen)  |
@@ -729,7 +730,7 @@ Dit document volgt de naamgeving en notaties voor beveiligingsprofielen volgens 
 ####Afkortingen en acroniemen
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | CC  | Common Criteria (referentienorm)  |
 | CEN  | European Committee for Standardization  |
 | CWA  | N Workshop Agreements  |
@@ -775,15 +776,15 @@ De TOE wordt getoetst conform het normenkader van Common Criteria for Informatio
 
 ####Beschrijving van de TOE
 
-De TOE is een controleapparaat bedoeld voor installatie in auto’s gebruikt voor taxivervoer. Het doel is om handhavingprocessen te helpen uitvoeren door de elektronische registratie van de ritadministratie en de arbeids-, rij- en rusttijden en het op aanvraag ter beschikking stellen van deze informatie aan bevoegde personen ter controle. De TOE kent vier werkingsmodi, te weten: operationele modus, controle modus, activering/keuringsmodus en bedrijfsmodus. De operationele modus kent drie werkingsniveaus: basis, arbeidstijd en taxivervoer. Wanneer taxivervoer wordt aangeboden of arbeidstijd plaatsheeft, selecteert de bestuurder handmatig het corresponderende werkingsniveau. In de operationele modus, werkingsniveau arbeidstijd of taxivervoer, worden gegevens geregistreerd over de uitgevoerde taxiritten en de arbeids-, rij-, en rusttijden van de bestuurder. De aanvang en het beëindigen van een rit wordt door een actieve bedieningshandeling van de bestuurder bij de TOE kenbaar gemaakt. Hierbij dient de beladingtoestand (beladen/onbeladen) te worden aangegeven. Daarnaast draagt de TOE in alle modi zorg voor het beschikbaar stellen van de basisgegevens tijd en afgelegde afstand, en de positie van het voertuig. In het werkingsniveau basis wordt ook de registratie van gebeurtenissen gevoerd. In de operationele modus is het werkingsniveau basis een apart werkingsniveau. In de overige modi integreert de TOE de basis functionaliteit met de overige functionaliteit van de betreffende modus. De TOE bestaat ten minste uit een verwerkingseenheid, een geheugen, een tijdklok, een ISO 7816 kaartinterface, een ISO 7810 ID-000 kaartinterface ten behoeve van de systeemkaart, een positiebepalingssensor of een interface voor de positiebepalingssensor, een verplaatsingsopnemer, een interface voor de bewegingsopnemer, een gegevensoverbrengingsinterface, een interface voor de taxameter, een leesvenster en voorzieningen voor de invoer van gebruikersgegevens. De TOE kan door middel van additionele verbindingen aan andere inrichtingen worden gekoppeld, of daarmee geïntegreerd worden. Toegang tot de TOE wordt verleend door middel van een boordcomputerkaart met PIN-code en voorzien van een (authenticatie)certificaat. Er worden vier gebruikersrollen voorzien, te weten bestuurder, toezichthouder, werkplaats en vervoerder. De omschakeling tussen werkingsmodi gebeurt door het plaatsen van de correcte boordcomputerkaart in de TOE. Er worden vier verschillende kaarten onderscheiden, te weten: chauffeurskaart, inspectiekaart, keuringskaart en ondernemerskaart. Boordcomputerkaarten maken geen onderdeel uit van de TOE. Bij aanvang van de dienst dient een chauffeurskaart in de TOE te zijn geplaatst. De bestuurder meldt zich aan met de chauffeurskaart en een persoonlijk identificatie code (PIN-code). De TOE registreert de persoonlijke arbeids-, rij- en rusttijden van de bestuurder en slaat deze op in het interne geheugen van de TOE en op de chauffeurskaart. In voorkomende gevallen heeft een chauffeur geen kaart en dan dient hij zijn burgerservicenummer in te voeren. Dit burgerservicenummer dient alleen voor identificatie, en wordt door de TOE verder niet gecontroleerd. De boordcomputerkaarten voor de bestuurder zijn voorzien van een certificaat voor het elektronisch identificeren van de persoon en het ondertekenen van geregistreerde gegevens. De TOE gebruikt een systeemkaart welke is voorzien van certificaten voor identificatie van de TOE en het plaatsen van elektronische handtekeningen. Het certificaat ten behoeve van de TOE wordt in de productiefase in de vorm van de systeemkaart geïmplementeerd in de TOE. Deze certificaten worden uitgegeven onder verantwoordelijkheid van de Minister van Verkeer en Waterstaat. Systeemkaarten zijn geen onderdeel van de TOE. De TOE voert gegevens uit naar een leesvenster en kan gegevens ter beschikking stellen ten behoeve van een externe printer en externe inrichtingen. De operationele omgeving van de TOE geïnstalleerd in de auto is weergegeven in onderstaande figuur.   ![247005](http://wetten.overheid.nl/Illustration/247005)
-Figuur 1  De systeemkaart plaatst een elektronische handtekening (EH) per uitgevoerde rit over alle ritgegevens terstond nadat de bestuurder heeft aangegeven dat de rit teneinde is. De chauffeurskaart plaatst een elektronische handtekening bij het einde van de dienst van de bestuurder over de arbeids-, rij- en rusttijden van de bestuurder gedurende de dienst. Hiervoor wordt het persoonsgebonden certificaat van de chauffeurkaart gebruikt waarbij de bestuurder vooraf zijn goedkeuring verleent door het ingeven van de PIN-code van de chauffeurskaart. De systeemkaart plaatst een elektronische handtekening over de geregistreerde gegevens wanneer deze worden opgeslagen en wanneer deze worden uitgevoerd naar een externe gegevensdrager. De koppeling van bestuurder aan de geregistreerde gegevens en de waarborging van de integriteit en authenticiteit van de gegevens wordt in onderstaande figuur geïllustreerd:   ![247005](http://wetten.overheid.nl/Illustration/247005)
+De TOE is een controleapparaat bedoeld voor installatie in auto’s gebruikt voor taxivervoer. Het doel is om handhavingprocessen te helpen uitvoeren door de elektronische registratie van de ritadministratie en de arbeids-, rij- en rusttijden en het op aanvraag ter beschikking stellen van deze informatie aan bevoegde personen ter controle. De TOE kent vier werkingsmodi, te weten: operationele modus, controle modus, activering/keuringsmodus en bedrijfsmodus. De operationele modus kent drie werkingsniveaus: basis, arbeidstijd en taxivervoer. Wanneer taxivervoer wordt aangeboden of arbeidstijd plaatsheeft, selecteert de bestuurder handmatig het corresponderende werkingsniveau. In de operationele modus, werkingsniveau arbeidstijd of taxivervoer, worden gegevens geregistreerd over de uitgevoerde taxiritten en de arbeids-, rij-, en rusttijden van de bestuurder. De aanvang en het beëindigen van een rit wordt door een actieve bedieningshandeling van de bestuurder bij de TOE kenbaar gemaakt. Hierbij dient de beladingtoestand (beladen/onbeladen) te worden aangegeven. Daarnaast draagt de TOE in alle modi zorg voor het beschikbaar stellen van de basisgegevens tijd en afgelegde afstand, en de positie van het voertuig. In het werkingsniveau basis wordt ook de registratie van gebeurtenissen gevoerd. In de operationele modus is het werkingsniveau basis een apart werkingsniveau. In de overige modi integreert de TOE de basis functionaliteit met de overige functionaliteit van de betreffende modus. De TOE bestaat ten minste uit een verwerkingseenheid, een geheugen, een tijdklok, een ISO 7816 kaartinterface, een ISO 7810 ID-000 kaartinterface ten behoeve van de systeemkaart, een positiebepalingssensor of een interface voor de positiebepalingssensor, een verplaatsingsopnemer, een interface voor de bewegingsopnemer, een gegevensoverbrengingsinterface, een interface voor de taxameter, een leesvenster en voorzieningen voor de invoer van gebruikersgegevens. De TOE kan door middel van additionele verbindingen aan andere inrichtingen worden gekoppeld, of daarmee geïntegreerd worden. Toegang tot de TOE wordt verleend door middel van een boordcomputerkaart met PIN-code en voorzien van een (authenticatie)certificaat. Er worden vier gebruikersrollen voorzien, te weten bestuurder, toezichthouder, werkplaats en vervoerder. De omschakeling tussen werkingsmodi gebeurt door het plaatsen van de correcte boordcomputerkaart in de TOE. Er worden vier verschillende kaarten onderscheiden, te weten: chauffeurskaart, inspectiekaart, keuringskaart en ondernemerskaart. Boordcomputerkaarten maken geen onderdeel uit van de TOE. Bij aanvang van de dienst dient een chauffeurskaart in de TOE te zijn geplaatst. De bestuurder meldt zich aan met de chauffeurskaart en een persoonlijk identificatie code (PIN-code). De TOE registreert de persoonlijke arbeids-, rij- en rusttijden van de bestuurder en slaat deze op in het interne geheugen van de TOE en op de chauffeurskaart. In voorkomende gevallen heeft een chauffeur geen kaart en dan dient hij zijn burgerservicenummer in te voeren. Dit burgerservicenummer dient alleen voor identificatie, en wordt door de TOE verder niet gecontroleerd. De boordcomputerkaarten voor de bestuurder zijn voorzien van een certificaat voor het elektronisch identificeren van de persoon en het ondertekenen van geregistreerde gegevens. De TOE gebruikt een systeemkaart welke is voorzien van certificaten voor identificatie van de TOE en het plaatsen van elektronische handtekeningen. Het certificaat ten behoeve van de TOE wordt in de productiefase in de vorm van de systeemkaart geïmplementeerd in de TOE. Deze certificaten worden uitgegeven onder verantwoordelijkheid van de Minister van Verkeer en Waterstaat. Systeemkaarten zijn geen onderdeel van de TOE. De TOE voert gegevens uit naar een leesvenster en kan gegevens ter beschikking stellen ten behoeve van een externe printer en externe inrichtingen. De operationele omgeving van de TOE geïnstalleerd in de auto is weergegeven in onderstaande figuur.   ![]()
+Figuur 1  De systeemkaart plaatst een elektronische handtekening (EH) per uitgevoerde rit over alle ritgegevens terstond nadat de bestuurder heeft aangegeven dat de rit teneinde is. De chauffeurskaart plaatst een elektronische handtekening bij het einde van de dienst van de bestuurder over de arbeids-, rij- en rusttijden van de bestuurder gedurende de dienst. Hiervoor wordt het persoonsgebonden certificaat van de chauffeurkaart gebruikt waarbij de bestuurder vooraf zijn goedkeuring verleent door het ingeven van de PIN-code van de chauffeurskaart. De systeemkaart plaatst een elektronische handtekening over de geregistreerde gegevens wanneer deze worden opgeslagen en wanneer deze worden uitgevoerd naar een externe gegevensdrager. De koppeling van bestuurder aan de geregistreerde gegevens en de waarborging van de integriteit en authenticiteit van de gegevens wordt in onderstaande figuur geïllustreerd:   ![]()
 Figuur 2   
 
 ### Artikel  3.2  
 
 ####Levenscyclus van de TOE
 
-De typische levenscyclus van een TOE wordt geïllustreerd door onderstaande figuur. Het verkrijgen van een typegoedkeuring is een verantwoordelijkheid van de fabrikant. Eventuele reparaties worden uitgevoerd door, of onder verantwoordelijkheid van, de fabrikant. Installatie van eventuele nieuwere versies van programmatuur (software updates), mogen door erkende werkplaatsen worden uitgevoerd gedurende een periodieke controle.   ![247006](http://wetten.overheid.nl/Illustration/247006)
+De typische levenscyclus van een TOE wordt geïllustreerd door onderstaande figuur. Het verkrijgen van een typegoedkeuring is een verantwoordelijkheid van de fabrikant. Eventuele reparaties worden uitgevoerd door, of onder verantwoordelijkheid van, de fabrikant. Installatie van eventuele nieuwere versies van programmatuur (software updates), mogen door erkende werkplaatsen worden uitgevoerd gedurende een periodieke controle.   ![]()
 Figuur 3   
 
 ### Artikel  3.3  
@@ -814,7 +815,7 @@ Voor de TOE zijn de volgende types van entiteiten (subjecten en objecten) releva
 
 ####Begrenzingen van de TOE
 
-De TOE (Target of Evaluation) is de selectie van hardware en software en bijbehorende handleidingen die uiteindelijk wordt geëvalueerd. De TOE moet alle functionaliteit omvatten die nodig is om aan de eisen in dit profiel te voldoen, maar mag daarnaast ook andere zaken bevatten, zoals bijvoorbeeld een routeplanningsapplicatie. De minimale omvang van de TOE wordt schematisch weergegeven in onderstaande figuur:   ![247007](http://wetten.overheid.nl/Illustration/247007)
+De TOE (Target of Evaluation) is de selectie van hardware en software en bijbehorende handleidingen die uiteindelijk wordt geëvalueerd. De TOE moet alle functionaliteit omvatten die nodig is om aan de eisen in dit profiel te voldoen, maar mag daarnaast ook andere zaken bevatten, zoals bijvoorbeeld een routeplanningsapplicatie. De minimale omvang van de TOE wordt schematisch weergegeven in onderstaande figuur:   ![]()
 Figuur 4  Alle onderdelen die in deze afbeelding binnen de grijze omheining worden weergegeven moeten onderdeel zijn van de TOE. Dus bijvoorbeeld de (voertuig) sensor voor bewegingsgegevens (bewegingsopnemer) en de positiebepalingssensor (GNSS) hoeven geen deel uit te maken van de TOE maar de aansluiting van deze sensoren weer wel Andere zaken die in deze figuur zijn weergegeven (zoals de taxameter en de printer), mogen onderdeel zijn van de TOE, hoewel dit niet altijd praktisch is. Ook extra software en hardware die niet in deze figuur zijn weergegeven (zoals de bovengenoemde routeplanningsapplicatie) mogen deel uitmaken van de TOE. Daarnaast is het toegestaan om extra hardware of software binnen de fysieke behuizing van de TOE op te nemen, zonder dat deze hardware of software meteen onderdeel worden van de TOE. Het is echter niet toegestaan om tijdens de evaluatie van de TOE aan te nemen dat deze extra hardware of software vertrouwd of goedaardig is: de evaluatie van de TOE dient ondubbelzinnig aan te tonen dat de TOE nog steeds voldoet aan dit Beschermingsprofiel als deze opgenomen hardware of software niet vertrouwd of goedaardig is.  
 
 ### Artikel  4  
