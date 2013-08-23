@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu van 25 februari 2013, nr. IENM/BSK-2013/25450, houdende regels inzake onder andere de certificering en het onderhoud van Yakovlev-52 vliegtuigen en tot wijziging van de Regeling onderhoud luchtvaartuigen (Regeling Yakovlev-52 vliegtuigen)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op de [artikelen 9](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [12, derde lid](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [13, van het Besluit luchtvaartuigen 2008](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [artikel 7, eerste lid, van het Besluit vluchtuitvoering](../../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) en de [artikelen 5](../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [8, eerste lid](../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [9](../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op de artikelen 9, 12, derde lid, en 13, van het Besluit luchtvaartuigen 2008, artikel 7, eerste lid, van het Besluit vluchtuitvoering en de artikelen 5, 8, eerste lid, 9, en 10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 BESLUIT:     
 ### §  1  
 
@@ -42,7 +42,7 @@ In deze regeling wordt verstaan onder:
 
 a. een specificatie van het luchtvaartuig;  
 
-b. een volledig ingevuld en ondertekend acceptatierapport betreffende de BvL-acceptatiekeuring conform het model als opgenomen in [bijlage 1 bij de Regeling bewijzen van luchtwaardigheid](../../../../../ministeriele-regeling/regeling/bewijzen/van/luchtwaardigheid/BWBR0030372/README.md) waaruit op grond van een onderzoek door een bevoegd onderhoudstechnicus, blijkt dat: 
+b. een volledig ingevuld en ondertekend acceptatierapport betreffende de BvL-acceptatiekeuring conform het model als opgenomen in bijlage 1 bij de Regeling bewijzen van luchtwaardigheid waaruit op grond van een onderzoek door een bevoegd onderhoudstechnicus, blijkt dat: 
 
 i. het toestel overeenkomt met het basisontwerp Yak-52 nr. IENM-ILT-2012/21952, of  
 
@@ -114,7 +114,7 @@ b. met goed gevolg bij een vlieginstructeur Yak-52 een opleiding heeft afgerond 
 ### Artikel  7  
 
 1.  De Yak-52 typebevoegdverklaring wordt door de minister afgegeven voor een periode van 2 jaar.   
-2.  Voor verlenging van de geldigheidsduur van de Yak-52 typebevoegdverklaring is vereist dat binnen 3 maanden voor afloop van de geldigheidsduur met goed resultaat een vaardigheidstoets is afgelegd ten overstaan van een vlieginstructeur Yak-52 dan wel, indien geen vlieginstructeur Yak-52 beschikbaar is, een door de minister geautoriseerde examinator conform de [Regeling examinatoren voor luchtvarenden 2004](../../../../../ministeriele-regeling/regeling/examinatoren/voor/luchtvarenden/2004/BWBR0017236/README.md), die niet de opleiding, in z’n geheel of een voornamelijk deel ervan, heeft gegeven.   
+2.  Voor verlenging van de geldigheidsduur van de Yak-52 typebevoegdverklaring is vereist dat binnen 3 maanden voor afloop van de geldigheidsduur met goed resultaat een vaardigheidstoets is afgelegd ten overstaan van een vlieginstructeur Yak-52 dan wel, indien geen vlieginstructeur Yak-52 beschikbaar is, een door de minister geautoriseerde examinator conform de Regeling examinatoren voor luchtvarenden 2004, die niet de opleiding, in z’n geheel of een voornamelijk deel ervan, heeft gegeven.   
 3.  Voor wederafgifte na het verlopen van de geldigheidsduur van de Yak-52 typebevoegdverklaring is vereist dat: 
 
 a. een herhalingscursus is gevolgd bij een vlieginstructeur Yak-52 om het bekwaamheidsniveau te behalen dat vereist is voor de veilige bediening van een Yak-52 vliegtuig, en  
@@ -156,7 +156,7 @@ h. de bestuurder van een Yak-52 vliegtuig in het bezit is van een PPL (A) SEP.
 
 ### §  6  
 
-####Wijziging van de [Regeling onderhoud luchtvaartuigen](../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md)
+####Wijziging van de Regeling onderhoud luchtvaartuigen
 
 ### Artikel  11  
 
@@ -184,7 +184,7 @@ W.J.Mansveld
 ####, bedoeld in artikel 2, derde lid , van de Regeling Yakovlev-52 vliegtuigen
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *SPECIAL CERTIFICATE OF AIRWORTHINESS*   |
 | --- | --- | --- |
 | --- | Human Environment and Transport Inspectorate  Civil Aviation Authority Netherlands  Correspondence address:  P.O. Box 575, 2130 AN Hoofddorp, The Netherlands  |  *Registration number: ...*    *ICAO aircraft designator: ...*   |
@@ -212,19 +212,15 @@ W.J.Mansveld
 ####, bedoeld in artikel 5, tweede lid, onderdeel b , van de Regeling Yakovlev-52 vliegtuigen
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | SYLLABUS OPLEIDING YAK-52 TYPE BEVOEGDVERKLARING EN VAARDIGHEIDSTOETS  | JANUARI 2013  |
 
 ####Opleiding en vaardigheidstoets Yak-52 type bevoegdverklaring
 
-| --- | --- |
-|:---|:---|
-| SYLLABUS OPLEIDING YAK-52 TYPE BEVOEGDVERKLARING EN VAARDIGHEIDSTOETS  | FEBRUARI 2013  |
-
 ####Inhoudsopgave
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | A.  | – ALGEMEEN  |
 | --- | --- | --- |
 | --- | – UITVOERING VAN DE VAARDIGHEIDSTOETS  |
@@ -297,7 +293,7 @@ e. te allen tijde het vliegtuig onder controle te houden en te herstellen zodat 
 3) De onderstaande limieten zijn van toepassing, met een marge voor turbulente weersomstandigheden en het vlieggedrag en de prestaties van het gebruikte vliegtuig:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Hoogte: algemeen  | +/– 100 voet  |
 | Volgen van grondkoersen:  | +/– 5°  |
 | Snelheid:  | +/– 10 kilometer per uur  |
@@ -317,7 +313,7 @@ e. te allen tijde het vliegtuig onder controle te houden en te herstellen zodat 
 SECTION 1: Departure 
 
 |--- |--- | Course  | Test  | Section/Sub section  | Manoeuvres/Procedures  | Instructor’s initials when training completed  | Instructor’s initials when test completed  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | 1.1  | Pre-flight including: Performance, Documentation, Mass and Balance and Limits  | --- | O  |
 | 1.2  | Pre-start checks External/internal  | --- | M  |
 | 1.3  | Engine starting: Normal/Malfunctions  | --- | M  |
@@ -329,7 +325,7 @@ SECTION 1: Departure
 SECTION 2: Airwork (VFR) 
 
 |--- |--- | Course  | Test  | Section/Sub section  | Manoeuvres/Procedures  | Instructor’s initials when training completed  | Instructor’s initials when test completed  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | 2.1  | Straight and level flight at various airspeeds including flight at critically low airspeed with and without flaps  | --- | O  |
 | 2.2  | Steep turns 360° left and right  | --- | O  |
 |  *2.3*   |  *Stalls and recovery:*   | --- | --- |
@@ -364,7 +360,7 @@ SECTION 2: Airwork (VFR)
 SECTION 3: Arrivals and landings 
 
 |--- |--- | Course  | Test  | Section/Sub section  | Manoeuvres/Procedures  | Instructor’s initials when training completed  | Instructor’s initials when test completed  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | 3.1  | Normal landing  | --- | M  |
 | 3.2  | Engine failure in circuit, and/or during aerobatics  | --- | M  |
 | 3.3  | Crosswind landing (if suitable conditions)  | --- | O  |
@@ -375,7 +371,7 @@ SECTION 3: Arrivals and landings
 SECTION 4: Abnormal and emergency procedures 
 
 |--- |--- | Course  | Test  | Section/Sub section  | Manoeuvres/Procedures  | Instructor’s initials when training completed  | Instructor’s initials when test completed  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | 4.1  | Engine failure after takeoff  | --- | M  |
 | 4.2  | Flapless landing  | --- | M  |
 | 4.3  | Engine failure during inverted flight  | --- | O  |

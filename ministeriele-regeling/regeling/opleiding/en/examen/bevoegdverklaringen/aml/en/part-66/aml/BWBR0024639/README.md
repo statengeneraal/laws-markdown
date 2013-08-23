@@ -3,7 +3,7 @@
 ##Regeling houdende regels met betrekking tot opleidingen en examens ter verkrijging van bewijzen van bevoegdheid voor onderhoudstechnici (Regeling opleiding en examen bevoegdverklaringen AML en Part-66 AML)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op Verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315) en de [artikelen 13, eerste lid](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [14, derde lid](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [15, tweede en derde lid](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op Verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315) en de artikelen 13, eerste lid, 14, derde lid, 15, tweede en derde lid en 16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,13 +13,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*Minister:* Minister van Verkeer en Waterstaat;  
+*Minister:* Minister van Infrastructuur en Milieu;  
 
 *typebevoegdheid:* bevoegdheid tot het uitvoeren van onderhoudswerkzaamheden aan een bepaald type vliegtuig met een maximum startmassa van 5700 kg of minder.    
 
+### Artikel  2  
+
+Deze regeling berust op Verordening (EG) nr. 2042/2003 en de artikelen 13, eerste lid, 14, vierde lid, 15 en 16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart.  
+
 ### Hoofdstuk  2  
 
-####Geregistreerde opleidingsinstellingen
+Vervallen 
 
 ### Hoofdstuk  3  
 
@@ -27,7 +31,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  3  
 
-De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML.  
+De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML conform respectievelijk de Regeling bijzondere bevoegdverklaringen AML en Part-66 AML en bijlage III bij verordening (EG) nr. 2042/2003.  
 
 ### Artikel  4  
 
@@ -50,7 +54,7 @@ c. een vergoeding volgens het Reisbesluit binnenland voor gemaakte reis- en verb
 
 a. de voorzitter € 40 per uur voor alle werkzaamheden;  
 
-b. de secretaris € 25 per uur voor alle werkzaamheden.   Daarnaast kunnen de voorzitter en de secretaris een vergoeding volgens het [Reisbesluit binnenland](../../../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) voor gemaakte reis- en verblijfkosten voor alle werkzaamheden ten behoeve van de commissie declareren.   
+b. de secretaris € 25 per uur voor alle werkzaamheden.   Daarnaast kunnen de voorzitter en de secretaris een vergoeding volgens het Reisbesluit binnenland voor gemaakte reis- en verblijfkosten voor alle werkzaamheden ten behoeve van de commissie declareren.   
 4.  Het eerste lid is niet van toepassing op de in het eerste en derde lid bedoelde personen, die rijksambtenaar zijn en de desbetreffende werkzaamheden verrichtten tijdens diensttijd.   
 
 ### Artikel  6  
@@ -64,19 +68,14 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ### Hoofdstuk  4  
 
-####Examenreglement en examen
-
-### Artikel  8  
-
-1.  Ten behoeve van het examen wordt door de examencommissie een examenreglement opgesteld.   
-2.  Het examenreglement wordt ter vaststelling voorgelegd aan de Minister.   
+####Examenreglement
 
 ### Artikel  9  
 
 1.  De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende bijlagen 1 tot en met 3.  Tabel 1. 
 
 | Bevoegdverklaring  | Basiskennis  | Examen duur  |
-|:---|:---|:---|
+|---|---|---|
 | A  |  bijlage 1    | tabel 2  |
 | B  |  bijlage 2    | tabel 2  |
 | C  |  bijlage 3    | tabel 2  |
@@ -84,7 +83,7 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 Tabel 2. Examen voor de bevoegdverklaringen A, B of C 
 
 |--- | Examen (schriftelijk) in minuten  | Examen basiskennismodule  | A  | B  | C  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Voorschriften  | 60  | 60  | 60  |
 | Vliegtuigen  | 90  | 45  | 45  |
 | Motoren  | --- | 60  | --- |
@@ -97,7 +96,7 @@ Tabel 2. Examen voor de bevoegdverklaringen A, B of C
 3.  Wanneer de examenkandidaat houder is van een AML omvat het examen, bedoeld in het eerste lid, de modules zoals opgenomen in tabel 3.  Tabel 3. Examen voor deelnemers die houder zijn van een AML x = examenmodule die deel uitmaakt van het examen 
 
 | Examen  | Modules  | Houder van de bevoegdverklaring  |--- |--- | A  | B  | C  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | A  | Voorschriften  | n.v.t.  | --- | --- |
 | --- | Vliegtuigen  | n.v.t.  | X  | X  |
 | --- | Vliegtuiginstrumenten  | n.v.t.  | X  | X  |
@@ -123,8 +122,9 @@ Tabel 2. Examen voor de bevoegdverklaringen A, B of C
 2.  Wanneer de examenkandidaat houder is van een Part-66 AML omvat het examen, bedoeld in het eerste lid, de modules opgenomen in de bij deze regeling behorende tabel 4. 
 ###Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
-![243878](http://wetten.overheid.nl/Illustration/243878)
+![]()
 • = examenmodule die deel uitmaakt van het examen.   
+3.  Het examen, bedoeld in het eerste lid is met goed gevolg afgelegd indien wordt voldaan aan de hiertoe gestelde eisen in bijlage III bij verordening (EG) nr. 2042/2003.   
 
 ### Artikel  11  
 
@@ -136,7 +136,7 @@ Tabel 2. Examen voor de bevoegdverklaringen A, B of C
 
 1.  Aanmelding voor het examen vindt plaats bij de secretaris van de examencommissie.   
 2.  Een ieder, die daartoe een aanvraag indient, wordt met inachtneming van het derde lid tot het examen toegelaten.   
-3.  Toelating vindt plaats nadat de kosten volgens de [Regeling tarieven luchtvaart](../../../../../../../../../../../ministeriele-regeling/regeling/tarieven/luchtvaart/2008/BWBR0023145/README.md) zijn vergoed en de examinandus een wettig en geldig legitimatiebewijs heeft overgelegd.   
+3.  Toelating vindt plaats nadat de kosten volgens de Regeling tarieven luchtvaart zijn vergoed en de examinandus een wettig en geldig legitimatiebewijs heeft overgelegd.   
 
 ### Artikel  13  
 
@@ -149,13 +149,17 @@ Tabel 2. Examen voor de bevoegdverklaringen A, B of C
 2.  De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in artikel 13, het eerste lid, wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.   
 3.  De uitslag van het examen wordt uiterlijk zes weken nadat het examen is afgelegd schriftelijk aan de examinandus bekend gemaakt.   
 
+### Artikel  14a  
+
+Ten behoeve van een ordentelijk verloop van het examen stelt de examencommissie een huishoudelijk reglement vast waarin in ieder geval zijn omschreven het toezicht, de ordemaatregelen en consequenties van het plegen van onregelmatigheden.  
+
 ### Hoofdstuk  5  
 
 ####Slotbepalingen
 
 ### Artikel  15  
 
-De [Regeling opleiding en examen bevoegdverklaringen AML en JAR-66 AML](../../../../../../../../../../../ministeriele-regeling/regeling/opleiding/en/examen/bevoegdverklaringen/aml/en/jar-66/aml/BWBR0012925/README.md) wordt ingetrokken.  
+De Regeling opleiding en examen bevoegdverklaringen AML en JAR-66 AML wordt ingetrokken.  
 
 ### Artikel  16  
 
@@ -198,37 +202,37 @@ De opbouw en werking, de uitvoering van installaties, het verwisselen van onderd
 
 ####Voorschriften
 
-1. [Wet Luchtvaart](../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) (voor zover van belang voor onderhoudstechnici in de luchtvaart) 
+1. Wet Luchtvaart (voor zover van belang voor onderhoudstechnici in de luchtvaart) 
 
-1.1  [Besluit bewijzen van bevoegdheid voor de luchtvaart, hoofdstuk 2](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md)  
+1.1  Besluit bewijzen van bevoegdheid voor de luchtvaart, hoofdstuk 2  
 
-1.1.1  [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](../../../../../../../../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md)     
+1.1.1  Regeling bijzondere bevoegdverklaringen AML en Part-66 AML     
 
-1.2  [Besluit luchtvaartuigen 2008](../../../../../../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md)  
+1.2  Besluit luchtvaartuigen 2008  
 
-1.2.1  [Regeling inschrijving Nederlandse burgerluchtvaartuigen](../../../../../../../../../../../ministeriele-regeling/regeling/inschrijving/nederlandse/burgerluchtvaartuigen/BWBR0012878/README.md)   
+1.2.1  Regeling inschrijving Nederlandse burgerluchtvaartuigen   
 
-1.2.2  [Regeling standaard-BvL](../../../../../../../../../../../ministeriele-regeling/regeling/standaard-bvl/BWBR0012876/README.md)   
+1.2.2  Regeling standaard-BvL   
 
-1.2.3  [Regeling onderhoud luchtvaartuigen](../../../../../../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md)   
+1.2.3  Regeling onderhoud luchtvaartuigen   
 
-1.2.4  [Regeling verlenging bewijzen van luchtwaardigheid](../../../../../../../../../../../ministeriele-regeling/regeling/verlenging/bewijzen/van/luchtwaardigheid/BWBR0011596/README.md)   
+1.2.4  Regeling verlenging bewijzen van luchtwaardigheid   
 
-1.2.5 [Regeling erkenningen luchtwaardigheid 2008](../../../../../../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/2008/BWBR0024682/README.md), begrippen en [hoofdstuk 3](../../../../../../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/2008/BWBR0024682/README.md) par. 2 (EZT)  
+1.2.5 Regeling erkenningen luchtwaardigheid 2008, begrippen en hoofdstuk 3 par. 2 (EZT)  
 
-1.2.6  [Regeling voorzieningen sleepvliegen](../../../../../../../../../../../ministeriele-regeling/regeling/voorzieningen/sleepvliegen/BWBR0012875/README.md)   
+1.2.6  Regeling voorzieningen sleepvliegen   
 
-1.2.7  [Regeling burgerluchtvaartinlichtingen](../../../../../../../../../../../ministeriele-regeling/regeling/burgerluchtvaartinlichtingen/BWBR0010154/README.md)       
+1.2.7  Regeling burgerluchtvaartinlichtingen       
 
-2. Rijkswet [Onderzoeksraad voor veiligheid](../../../../../../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md)  
+2. Rijkswet Onderzoeksraad voor veiligheid  
 
 3. EASA basisverordening (EG) nr. 216/2008 en de uitvoeringsverordeningen (EG) nrs. 1702/2003 en 2042/2003  
 
 4. Organisaties voor de burgerluchtvaart: ICAO en Europese Unie  
 
-5. Hoofdlijnen [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bepalingen inzake bezwaar en beroep  
+5. Hoofdlijnen Algemene wet bestuursrecht, de bepalingen inzake bezwaar en beroep  
 
-6. Hoofdlijnen [Algemene wet op het binnentreden](../../../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md)    
+6. Hoofdlijnen Algemene wet op het binnentreden    
 
 ####Vliegtuigen
 
@@ -1020,37 +1024,37 @@ De opbouw en werking, de uitvoering van installaties, het verwisselen van onderd
 
 ####Voorschriften
 
-1. [Wet Luchtvaart](../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) (voor zover van belang voor onderhoudstechnici in de luchtvaart) 
+1. Wet Luchtvaart (voor zover van belang voor onderhoudstechnici in de luchtvaart) 
 
-1.1  [Besluit bewijzen van bevoegdheid voor de luchtvaart, hoofdstuk 2](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md)  
+1.1  Besluit bewijzen van bevoegdheid voor de luchtvaart, hoofdstuk 2  
 
-1.1.1  [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](../../../../../../../../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md)     
+1.1.1  Regeling bijzondere bevoegdverklaringen AML en Part-66 AML     
 
-1.2  [Besluit luchtvaartuigen 2008](../../../../../../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md)  
+1.2  Besluit luchtvaartuigen 2008  
 
-1.2.1  [Regeling inschrijving Nederlandse burgerluchtvaartuigen](../../../../../../../../../../../ministeriele-regeling/regeling/inschrijving/nederlandse/burgerluchtvaartuigen/BWBR0012878/README.md)   
+1.2.1  Regeling inschrijving Nederlandse burgerluchtvaartuigen   
 
-1.2.2  [Regeling standaard-BvL](../../../../../../../../../../../ministeriele-regeling/regeling/standaard-bvl/BWBR0012876/README.md)   
+1.2.2  Regeling standaard-BvL   
 
-1.2.3  [Regeling onderhoud luchtvaartuigen](../../../../../../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md)   
+1.2.3  Regeling onderhoud luchtvaartuigen   
 
-1.2.4  [Regeling verlenging bewijzen van luchtwaardigheid](../../../../../../../../../../../ministeriele-regeling/regeling/verlenging/bewijzen/van/luchtwaardigheid/BWBR0011596/README.md)   
+1.2.4  Regeling verlenging bewijzen van luchtwaardigheid   
 
-1.2.5 [Regeling erkenningen luchtwaardigheid 2008](../../../../../../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/2008/BWBR0024682/README.md), begrippen en [hoofdstuk 3](../../../../../../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/2008/BWBR0024682/README.md) par. 2 (EZT)  
+1.2.5 Regeling erkenningen luchtwaardigheid 2008, begrippen en hoofdstuk 3 par. 2 (EZT)  
 
-1.2.6  [Regeling voorzieningen sleepvliegen](../../../../../../../../../../../ministeriele-regeling/regeling/voorzieningen/sleepvliegen/BWBR0012875/README.md)   
+1.2.6  Regeling voorzieningen sleepvliegen   
 
-1.2.7  [Regeling burgerluchtvaartinlichtingen](../../../../../../../../../../../ministeriele-regeling/regeling/burgerluchtvaartinlichtingen/BWBR0010154/README.md)       
+1.2.7  Regeling burgerluchtvaartinlichtingen       
 
-2.  [Rijkswet Onderzoeksraad voor veiligheid](../../../../../../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md)   
+2.  Rijkswet Onderzoeksraad voor veiligheid   
 
 3. EASA basisverordening (EG) nr. 216/2008 en de uitvoeringsverordeningen (EG) nrs. 1702/2003 en 2042/2003  
 
 4. Organisaties voor de burgerluchtvaart: ICAO en Europese Unie  
 
-5. Hoofdlijnen [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bepalingen inzake bezwaar en beroep  
+5. Hoofdlijnen Algemene wet bestuursrecht, de bepalingen inzake bezwaar en beroep  
 
-6. Hoofdlijnen [Algemene wet op het binnentreden](../../../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md)    
+6. Hoofdlijnen Algemene wet op het binnentreden    
 
 ####Vliegtuigen
 
@@ -1758,37 +1762,37 @@ De opbouw en werking, de uitvoering van installaties, het verwisselen en testen 
 
 ####Voorschriften
 
-1. [Wet Luchtvaart](../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) (voor zover van belang voor onderhoudstechnici in de luchtvaart) 
+1. Wet Luchtvaart (voor zover van belang voor onderhoudstechnici in de luchtvaart) 
 
-1.1  [Besluit bewijzen van bevoegdheid voor de luchtvaart, hoofdstuk 2](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md)  
+1.1  Besluit bewijzen van bevoegdheid voor de luchtvaart, hoofdstuk 2  
 
-1.1.1  [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](../../../../../../../../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md)     
+1.1.1  Regeling bijzondere bevoegdverklaringen AML en Part-66 AML     
 
-1.2  [Besluit luchtvaartuigen 2008](../../../../../../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md)  
+1.2  Besluit luchtvaartuigen 2008  
 
-1.2.1  [Regeling inschrijving Nederlandse burgerluchtvaartuigen](../../../../../../../../../../../ministeriele-regeling/regeling/inschrijving/nederlandse/burgerluchtvaartuigen/BWBR0012878/README.md)   
+1.2.1  Regeling inschrijving Nederlandse burgerluchtvaartuigen   
 
-1.2.2  [Regeling standaard-BvL](../../../../../../../../../../../ministeriele-regeling/regeling/standaard-bvl/BWBR0012876/README.md)   
+1.2.2  Regeling standaard-BvL   
 
-1.2.3  [Regeling onderhoud luchtvaartuigen](../../../../../../../../../../../ministeriele-regeling/regeling/onderhoud/luchtvaartuigen/BWBR0012882/README.md)   
+1.2.3  Regeling onderhoud luchtvaartuigen   
 
-1.2.4  [Regeling verlenging bewijzen van luchtwaardigheid](../../../../../../../../../../../ministeriele-regeling/regeling/verlenging/bewijzen/van/luchtwaardigheid/BWBR0011596/README.md)   
+1.2.4  Regeling verlenging bewijzen van luchtwaardigheid   
 
-1.2.5 [Regeling erkenningen luchtwaardigheid 2008](../../../../../../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/2008/BWBR0024682/README.md), begrippen en [hoofdstuk 3](../../../../../../../../../../../ministeriele-regeling/regeling/erkenningen/luchtwaardigheid/2008/BWBR0024682/README.md) par. 2 (EZT)  
+1.2.5 Regeling erkenningen luchtwaardigheid 2008, begrippen en hoofdstuk 3 par. 2 (EZT)  
 
-1.2.6  [Regeling voorzieningen sleepvliegen](../../../../../../../../../../../ministeriele-regeling/regeling/voorzieningen/sleepvliegen/BWBR0012875/README.md)   
+1.2.6  Regeling voorzieningen sleepvliegen   
 
-1.2.7  [Regeling burgerluchtvaartinlichtingen](../../../../../../../../../../../ministeriele-regeling/regeling/burgerluchtvaartinlichtingen/BWBR0010154/README.md)       
+1.2.7  Regeling burgerluchtvaartinlichtingen       
 
-2.  [Rijkswet Onderzoeksraad voor veiligheid](../../../../../../../../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md)   
+2.  Rijkswet Onderzoeksraad voor veiligheid   
 
 3. EASA basisverordening (EG) nr. 216/2008 en de uitvoeringsverordeningen (EG) nrs. 1702/2003 en 2042/2003  
 
 4. Organisaties voor de burgerluchtvaart: ICAO en Europese Unie  
 
-5. Hoofdlijnen [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bepalingen inzake bezwaar en beroep  
+5. Hoofdlijnen Algemene wet bestuursrecht, de bepalingen inzake bezwaar en beroep  
 
-6. Hoofdlijnen [Algemene wet op het binnentreden](../../../../../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md)    
+6. Hoofdlijnen Algemene wet op het binnentreden    
 
 ####Vliegtuigen
 

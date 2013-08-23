@@ -3,7 +3,7 @@
 ##Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 5](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [8, eerste lid](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [9](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op de artikelen 5, 8, eerste lid, 9 en 10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -19,9 +19,9 @@ Besluit:
 
 *gasballon*: vrije ballon die zijn opwaartse draagkracht verkrijgt door het inbrengen, in de ballon, van een gas dat lichter is dan lucht;  
 
-*gekwalificeerde opleidingsinstelling:* gekwalificeerde opleidingsinstelling als bedoeld in de [Regeling opleidingsinstellingen voor luchtvarenden 2001](../../../../../../../../../../ministeriele-regeling/regeling/opleidingsinstellingen/voor/luchtvarenden/2001/BWBR0012923/README.md);  
+*gekwalificeerde opleidingsinstelling:* gekwalificeerde opleidingsinstelling als bedoeld in de Regeling opleidingsinstellingen voor luchtvarenden 2001;  
 
-*geregistreerde opleidingsinstelling:* geregistreerde opleidingsinstelling als bedoeld in de [Regeling opleidingsinstellingen voor luchtvarenden 2001](../../../../../../../../../../ministeriele-regeling/regeling/opleidingsinstellingen/voor/luchtvarenden/2001/BWBR0012923/README.md);  
+*geregistreerde opleidingsinstelling:* geregistreerde opleidingsinstelling als bedoeld in de Regeling opleidingsinstellingen voor luchtvarenden 2001;  
 
 *heteluchtballon*: vrije ballon die zijn opwaartse draagkracht verkrijgt door het verwarmen van de lucht in de ballon;  
 
@@ -50,7 +50,7 @@ d. H: de categorie helikopters (Helicopters).
 
 ### Artikel  1a  
 
-Deze regeling berust tevens op [artikel 11, eerste lid, onderdeel n, sub 1°, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md).  
+Deze regeling berust tevens op artikel 11, eerste lid, onderdeel n, sub 1°, van het Besluit bewijzen van bevoegdheid voor de luchtvaart.  
 
 ### Hoofdstuk  2  
 
@@ -58,11 +58,11 @@ Deze regeling berust tevens op [artikel 11, eerste lid, onderdeel n, sub 1°, va
 
 ### Artikel  2  
 
-1.  De [artikelen 4 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en 7 van deze regeling zijn van overeenkomstige toepassing op de verlenging van bevoegdverklaringen.   
-2.  Bij de aanvraag tot verlenging of hernieuwde afgifte na verlopen van een bevoegdverklaring is [artikel 8, tweede lid, Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) van overeenkomstige toepassing.   
+1.  De artikelen 4 van het Besluit bewijzen van bevoegdheid voor de luchtvaart en 7 van deze regeling zijn van overeenkomstige toepassing op de verlenging van bevoegdverklaringen.   
+2.  Bij de aanvraag tot verlenging of hernieuwde afgifte na verlopen van een bevoegdverklaring is artikel 8, tweede lid, Besluit bewijzen van bevoegdheid voor de luchtvaart van overeenkomstige toepassing.   
 3.  Verwijzingen naar JAR-FCL in deze regeling hebben betrekking op de Nederlandstalige versie van JAR-FCL 1, 2 of 4, zoals deze ter inzage liggen bij het Ministerie van Verkeer en Waterstaat.   
 4.  Wijzigingen in de versies van JAR-FCL, bedoeld in het derde lid, worden in de Staatscourant bekendgemaakt en gelden met ingang van een, in die bekendmaking vervatte, door de Minister vastgestelde datum.   
-5.  De houder van een bewijs van bevoegdheid kan de Minister verzoeken de bewijzen van bevoegdheid en de bevoegdverklaringen, afgegeven in een ander JAA-land, zoals bedoeld in de [Regeling aanwijzing JAA-landen](../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/jaa-landen/2003/BWBR0015115/README.md), in overeenstemming met JAR-FCL, te laten opnemen in een door de Minister afgegeven bewijs van bevoegdheid voorzover: 
+5.  De houder van een bewijs van bevoegdheid kan de Minister verzoeken de bewijzen van bevoegdheid en de bevoegdverklaringen, afgegeven in een ander JAA-land, zoals bedoeld in de Regeling aanwijzing JAA-landen, in overeenstemming met JAR-FCL, te laten opnemen in een door de Minister afgegeven bewijs van bevoegdheid voorzover: 
 
 a. aanvrager werkzaam is of zal worden of vaste woon- of verblijfplaats als bedoeld in JAR-FCL 1.070 in Nederland heeft of zal krijgen, en  
 
@@ -70,7 +70,7 @@ b. aanvrager zorg draagt dat het JAA-land dat de betreffende bewijzen van bevoeg
 
 ### Artikel  3  
 
-De specifieke autorisatie, bedoeld in [artikel 11, eerste lid, onderdeel n, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), wordt afgegeven indien wordt voldaan aan de afgifte-eisen, bedoeld in Bijlage 1 bij JAR-FCL 1.300.  
+De specifieke autorisatie, bedoeld in artikel 11, eerste lid, onderdeel n, van het Besluit bewijzen van bevoegdheid voor de luchtvaart, wordt afgegeven indien wordt voldaan aan de afgifte-eisen, bedoeld in Bijlage 1 bij JAR-FCL 1.300.  
 
 ### Hoofdstuk  3  
 
@@ -118,11 +118,11 @@ d. de bevoegdverklaringen heteluchtballonnen en gasballonnen: 24 maanden.
 
 ####ATPL
 
-Met inachtneming van [artikel 2 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) wordt een ATPL (A), respectievelijk ATPL (H), afgegeven met dien verstande dat: 
+Met inachtneming van artikel 2 van het Besluit bewijzen van bevoegdheid voor de luchtvaart wordt een ATPL (A), respectievelijk ATPL (H), afgegeven met dien verstande dat: 
 
 a. de wijze van toezicht van de gezagvoerder op de tweede bestuurder, bedoeld in JAR-FCL 1.280(a)(2), respectievelijk JAR-FCL 2.280(a)(2), instemming behoeft van Onze Minister;  
 
-b. de aanvrager houder is van een in een JAA-land als bedoeld in de [Regeling aanwijzing JAA-landen](../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/jaa-landen/2003/BWBR0015115/README.md) en in overeenstemming met JAR-FCL afgegeven geldig CPL(A) respectievelijk CPL(H);  
+b. de aanvrager houder is van een in een JAA-land als bedoeld in de Regeling aanwijzing JAA-landen en in overeenstemming met JAR-FCL afgegeven geldig CPL(A) respectievelijk CPL(H);  
 
 c. de eisen met betrekking tot opleiding niet gelden voor de houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldig ATPL(A) respectievelijk ATPL(H) die voldoet aan de voorwaarden gesteld in JAR-FCL 1.016(b), respectievelijk JAR-FCL 2.016(b).    
 
@@ -148,7 +148,7 @@ f. de eisen voor afgifte van een bevoegdverklaring RT.
 
 ####PPL
 
-Met inachtneming van [artikel 2 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) wordt een PPL(A), respectievelijk PPL (H) afgegeven aan een houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldig PPL(A) respectievelijk PPL(H), die voldoet aan de voorwaarden gesteld in JAR-FCL 1.015(c)2, respectievelijk JAR-FCL 2.015(c)2.  
+Met inachtneming van artikel 2 van het Besluit bewijzen van bevoegdheid voor de luchtvaart wordt een PPL(A), respectievelijk PPL (H) afgegeven aan een houder van een in een ICAO-staat volgens de ICAO-eisen afgegeven geldig PPL(A) respectievelijk PPL(H), die voldoet aan de voorwaarden gesteld in JAR-FCL 1.015(c)2, respectievelijk JAR-FCL 2.015(c)2.  
 
 ### Artikel  11  
 
@@ -165,6 +165,11 @@ c. bedrevenheid: de eisen, bedoeld in bijlage 2 bij deze regeling, aangetoond in
 d. ervaring: ten minste 30 vlieguren tijdens de opleiding, waarbij voor de houder van een bewijs van bevoegdheid de totale vliegtijd in de hoedanigheid van gezagvoerder van een willekeurig ander luchtvaartuig mag worden meegeteld, met uitzondering van de solouren in het opleidingsprogramma, en  
 
 e. de eisen voor afgifte van een type- of klassebevoegdverklaring, respectievelijk een typebevoegdverklaring.    
+
+### Artikel  12  
+
+1.  Het bedienen van een luchtvaartuig als bedoeld in bijlage II behorende bij de basisverordening is toegestaan mits de bestuurder beschikt over een geldig bewijs van bevoegdheid afgegeven overeenkomstig verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PbEU L 311) waaraan een klassebevoegdverklaring is verbonden die de bevoegdheid geeft het desbetreffende luchtvaartuig te bedienen.   
+2.  Het eerste lid is niet van toepassing op een luchtvaartuig als bedoeld in bijlage II bij de basisverordening waarvoor bij of krachtens de Wet luchtvaart nadere voorschriften ten aanzien van het bewijs van bevoegdheid zijn gesteld.   
 
 ### Artikel  14  
 
@@ -649,20 +654,20 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 a. Eenmotorige vliegtuigen met zuigermotor – Eénvlieger gecertificeerd  
 
 | 1  Fabrikant  | 2  Vliegtuigen  | 3  | 4  Bevoegdverklaring  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Alle fabrikanten  | Alle Single-engine piston (land) zonder VP, RU, T, P of TW  | --- | SEP(land)  |
 | Alle fabrikanten  | Single-engine piston (land) with  Variable pitch propellers (VP)  Retractable undercarriage (RU)  Turbo/super charged engines (T)  Cabin pressurisation (P)  Tail Wheel (TW)  | (V)  | SEP(land)  |
 
 b. Touring Motor Gliders – Eénvlieger gecertificeerd  
 
 | 1  Fabrikant  | 2  Vliegtuigen  | 3  | 4  Bevoegdverklaring  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Alle fabrikanten  | Alle motorzweefvliegtuigen met een integraal gemonteerde en niet intrekbare motor en een niet intrekbare propeller  | --- | TMG  |
 
 c. Micro Light Aeroplanes – Eénvlieger toegelaten  
 
 | 1  Fabrikant  | 2  Vliegtuigen  | 3  | 4  Bevoegdverklaring  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Alle fabrikanten  | Alle Micro Light Aeroplanes  | --- | MLA  |
 
 Een scheidslijn in kolom 2 geeft een variant aan binnen de bevoegdverklaring, zoals weergegeven in kolom 3. (V) geeft aan dat de bevoegdverklaring wordt afgegeven onder de beperking, dat de houder van de bevoegdverklaring die op een andere variant binnen die bevoegdverklaring, zoals aangegeven in kolom 2, gaat vliegen, voor zover vereist op grond van JAR-FCL 1.235(c) een familiarisatie- of verschillencursus doet, die voldoet aan de eisen, bedoeld in JAR-OPS 1.950 en 1.980(b) opgenomen in bijlage 1 die deel uitmaakt van deze regeling.    
@@ -674,7 +679,7 @@ Een scheidslijn in kolom 2 geeft een variant aan binnen de bevoegdverklaring, zo
 ####Micro Light Helikopters – Eénvlieger toegelaten
 
 | 1  Fabrikant  | 2  Helikopters  | 3  | 4  Bevoegdverklaring  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Alle fabrikanten  | Alle Micro Light Helikopters exclusief gyroplanes tot en met MTOM 560 kg  | --- | MLH – helikopters  |
 | Alle fabrikanten  | Alle Micro Light Helikopters voor zover het gaat om gyroplanes tot en met MTOM 560 kg  | --- | MLH – gyroplanes  |
 
@@ -683,7 +688,7 @@ Een scheidslijn in kolom 2 geeft een variant aan binnen de bevoegdverklaring, zo
 ####: Lijst van typebevoegdverklaringen zoals toegestaan in een RPL voor de categorie helikopters
 
 | 1  Fabrikant  | 2  Helikopters  | 3  | 4  Bevoegdverklaring  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Agusta-Bell*   |
 |  *–SE Piston–*   | Agusta Bell 47G-2  Agusta Bell 47G-2A-1  Agusta Bell 47G-3B-1  Agusta Bell 47G-4  Agusta Bell 47G-4A  Agusta Bell 47J  Agusta Bell 47J-2  Agusta Bell 47J-3  | --- | Bell47  |
 |  *Bell Helicopters*   |
@@ -730,7 +735,7 @@ Een scheidslijn in kolom 2 geeft een variant aan binnen de bevoegdverklaring, zo
 ####: Lijst van Lijst van klassebevoegdverklaringen zoals toegestaan in een CPL voor de categorie Vrije Ballonnen
 
 | 1  Fabrikant  | 2  Vrije Ballonnen  | 3  | 4  Bevoegdverklaring  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Alle fabrikanten  | Alle heteluchtballonnen  | --- | Heteluchtballonnen  |
 | Alle fabrikanten  | Alle gasballonnen  | --- | Gasballonnen  |
 

@@ -3,7 +3,7 @@
 ##Regeling tot vaststelling van een nieuw examenreglement met betrekking tot bewijzen van bevoegdheid voor de luchtvaart (Examenreglement voor luchtvarenden 2004)
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 14, vierde lid](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op de artikelen 14, vierde lid, en 16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit:     
 ### §  1  
 
@@ -13,13 +13,19 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-praktijkexamen: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;  
+CBR: Centraal Bureau Rijvaardigheidsbewijzen;  
 
-proeve van bekwaamheid: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;  
+*deel FCL:* bijlage I bij verordening (EU) nr. 1178/2011 betreffende de eisen voor de afgifte van bewijzen van bevoegdheid en bijbehorende bevoegdverklaringen en certificaten voor bestuurders van luchtvaartuigen en de voorwaarden voor de geldigheid en het gebruik ervan;  
+
+praktijkexamen: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, ten behoeve van de afgifte van een bewijs van bevoegdheid of een bevoegdverklaring;  
+
+proeve van bekwaamheid: het onderzoek naar de mate waarin een kandidaat voldoet aan de bedrevenheideisen, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, ten behoeve van de verlenging of de hernieuwde afgifte van een bevoegdverklaring;  
 
 protocolhouder: een geregistreerde dan wel gekwalificeerde opleidingsinstelling of een luchtvaartmaatschappij die met de minister een protocol betreffende het toedelen van examinatoren heeft afgesloten;  
 
-theorie-examen: het onderzoek naar de mate waarin een kandidaat voldoet aan de kenniseisen, bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md), ten behoeve van afgifte van een bewijs van bevoegdheid of een bevoegdverklaring.     
+theorie-examen: het onderzoek naar de mate waarin een kandidaat voldoet aan de kenniseisen, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, en deel FCL ten behoeve van afgifte van een bewijs van bevoegdheid of een bevoegdverklaring.  
+
+*verordening (EU) nr. 1178/2011:* verordening van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad;     
 2.  In deze regeling wordt met de volgende toevoegingen bedoeld: 
 
 a. A: de categorie vliegtuigen (Aeroplanes);  
@@ -34,42 +40,50 @@ e. E: boordwerktuigkundige (Cockpit Flight Engineer).
 
 ####Theorie-examen
 
+### Artikel  1a  
+
+Het schriftelijk theorie-examen wordt afgenomen door het CBR.  
+
 ### Artikel  2  
 
-De examenplanning, de examenlocaties en het verschuldigde examengeld worden bekendgemaakt in de Aeronautical Information Circular, serie B.  
+Van het schriftelijk theorie-examen wordt informatie over de examenplanning en de examenlocaties bekendgemaakt door het CBR.  
 
 ### Artikel  3  
 
-1.  De kandidaat of de door hem gemachtigde opleidingsinstelling doet een aanvraag voor het afleggen van een theorie-examen op een door Onze Minister beschikbaar gesteld aanvraagformulier.   
-2.  Onze Minister verstrekt de kandidaat voor een theorie-examen een toelatingsbewijs, dat: 
+1.  De kandidaat of de door hem gemachtigde opleidingsinstelling doet een aanvraag voor het afleggen van een schriftelijk theorie-examen bij het CBR op de door het CBR vastgestelde wijze.   
+2.  Het CBR verstrekt de kandidaat voor het schriftelijk theorie-examen een toelatingsbewijs, dat: 
 
-a. voor ATPL, CPL, behoudens CPL(FB), en IR geldig is voor alle vakken, voor ten hoogste vier examenpogingen per vak en voor ten hoogste zes examenzittingen;  
+a. voor ATPL, CPL, behoudens CPL(FB), IR en PPL volgens deel FCL geldig is conform deel FCL van verordening (EU) nr. 1178/2011;  
 
-b. voor CPL(FB), PPL en RPL geldig is voor alle vakken en meerdere pogingen;  
+b. voor CPL(FB) en RPL geldig is voor alle vakken en meerdere pogingen;  
 
-c. het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs, te weten 18 maanden, gerekend vanaf de eerste dag van de maand na de maand waarin voor het eerst aan een examenzitting is deelgenomen, vermeldt.     
+c. voor PPL volgens JAR-FCL 1 en 2 tot 8 april 2016 geldig is voor alle vakken en meerdere pogingen; en  
+
+d. het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs, te weten 18 maanden, gerekend vanaf de eerste dag van de maand na de maand waarin voor het eerst aan een examenzitting is deelgenomen, vermeldt.     
 
 ### Artikel  4  
 
-De kandidaat wordt slechts toegelaten tot het examen indien hij het verschuldigde examengeld heeft betaald en hij voor aanvang van het examen op de examenlocatie de volgende bescheiden overlegt: 
+1.  De kandidaat wordt slechts toegelaten tot het examen indien hij: 
 
-a. een wettig en geldig legitimatiebewijs, en  
+a. het verschuldigde examengeld heeft betaald;  
 
-b. een geldig toelatingsbewijs als bedoeld in artikel 3, tweede lid.    
+b. voor aanvang van het examen op de examenlocatie een wettig en geldig legitimatiebewijs toont, en  
+
+c. in het bezit is van een geldig toelatingsbewijs als bedoeld in artikel 3, tweede lid.     
+2.  Aanvullende eisen voor toelating tot het schriftelijk theorie-examen worden vastgesteld en bekendgemaakt door het CBR.   
 
 ### Artikel  5  
 
-1.  Voor het afleggen van een theorie-examen is de kandidaat examengeld verschuldigd, volgens het door Onze Minister vastgestelde en bekendgemaakte tarief. Voor de betaling van het examengeld ontvangt de kandidaat een factuur.   
-2.  Indien de examineringinstantie uiterlijk acht dagen vóór de voor het desbetreffende theorie-examen vastgestelde datum schriftelijk bericht heeft ontvangen, dat de kandidaat niet aan het examen of een onderdeel daarvan zal deelnemen, zal het examengeld, verminderd met de administratiekosten, aan de kandidaat worden gerestitueerd.   
-3.  Bij het niet dan wel niet tijdig verschijnen op het theorie-examen of op grond van geweigerde toegang als gevolg van het niet kunnen tonen van een geldig legitimatiebewijs of een geldig toelatingsbewijs als bedoeld in artikel 3, tweede lid, dan wel bij ongeldigverklaring van de uitslag van het desbetreffende theorie-examen, wordt het examengeld niet gerestitueerd.   
+1.  Voor het afleggen van een theorie-examen is de kandidaat examengeld verschuldigd, volgens het door de minister in de Regeling tarieven luchtvaart 2008 vastgestelde tarief.   
+2.  Betalings-, annulerings-, en restitutievoorwaarden worden vastgesteld en bekendgemaakt door het CBR.   
 
 ### Artikel  6  
 
-Met inachtneming van de [artikelen 2](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [3 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) zijn op het theorie-examen voor ATPL, CPL(A) en CPL(H), MPL, PPL en IR de bepalingen van JAR-FCL 1.490 respectievelijk JAR-FCL 2.490 van toepassing met dien verstande dat: 
+Met inachtneming van de artikelen 2 en 3 van het Besluit bewijzen van bevoegdheid voor de luchtvaart zijn op het theorie-examen voor ATPL, CPL(A) en CPL(H), MPL, PPL en IR de bepalingen van JAR-FCL 1.490 respectievelijk JAR-FCL 2.490 van toepassing met dien verstande dat: 
 
 a. Onze Minister in overleg met de opleidingsinstelling kan bepalen dat een kandidaat een extra theorie-opleiding volgt, voordat het theorie-examen opnieuw wordt afgelegd;  
 
-b. voor het theorie-examen van PPL geen beperking ten aanzien van het aantal examenpogingen en -zittingen geldt;  
+b. voor het theorie-examen voor PPL volgens JAR-FCL 1 en 2 een maximum van 8 examenpogingen en 8 examenzittingen per vak geldt;  
 
 c. voor ATPL, CPL(A) en CPL(H), MPL en IR de eisen, bedoeld in bijlage 1 bij JAR-FCL 1.470 respectievelijk JAR-FCL 2.470 gelden.    
 
@@ -77,31 +91,25 @@ c. voor ATPL, CPL(A) en CPL(H), MPL en IR de eisen, bedoeld in bijlage 1 bij JAR
 
 Voor andere dan de in artikel 6 bedoelde theorie-examens geldt dat: 
 
-a. de bepalingen van JAR-FCL 1.490 zijn van toepassing met dien verstande dat geen beperkingen tot RPL en CPL(FB) gelden ten aanzien van het aantal examenpogingen en -zittingen;  
+a. de bepalingen van JAR-FCL 1.490 van toepassing zijn met dien verstande dat voor RPL en CPL(FB) een maximum van 8 examenpogingen en 8 examenzittingen per vak geldt;  
 
 b. voor CPL(FB) de eisen, bedoeld in tabel 1 van bijlage 1 behorende bij deze regeling, van toepassing zijn.    
 
 ### Artikel  8  
 
 1.  De theorie-examens worden schriftelijk afgenomen.   
-2.  In afwijking van het eerste lid wordt het theorie-examen voor CSR mondeling afgenomen tijdens het praktijkexamen.   
-3.  De taal waarin de theorie-examens worden afgenomen is: 
+2.  De taal waarin de theorie-examens worden afgenomen is: 
 
 a. voor ATPL, CPL, behoudens het CPL(FB), en IR: Engels;  
 
 b. voor CPL(FB), PPL en RPL: Nederlands.     
-4.  Onze Minister stelt de inhoud van de examens vast.   
-5.  Ten behoeve van het theorie-examen wordt een huishoudelijk reglement opgesteld.   
-6.  Het gebruik van andere dan de in tabel 2 van bijlage 1, behorende bij deze regeling, vermelde materialen is tijdens het theorie-examen niet toegestaan.   
-7.  Na afloop van het theorie-examen wordt het gemaakte examenwerk tezamen met de verstrekte materialen, bedoeld in het zesde lid, en de examenopgaven ingeleverd.   
+3.  Ten behoeve van de schriftelijke theorie-examens stelt het CBR een huishoudelijk reglement vast waarin in ieder geval zijn omschreven het toezicht, de ordemaatregelen en consequenties van het plegen van onregelmatigheden.   
+4.  In afwijking van het eerste lid wordt het theorie-examen voor CSR mondeling afgenomen tijdens het praktijkexamen.   
+5.  De minister stelt de inhoud van het CSR examen vast.   
 
 ### Artikel  9  
 
-1.  Tegen de kandidaat die tijdens het afleggen van het theorie-examen onregelmatigheden pleegt, kunnen maatregelen worden getroffen.   
-2.  Vastgestelde onregelmatigheden dienen door de surveillant onmiddellijk schriftelijk te worden gemeld aan Onze Minister. Zo nodig wordt het niet-toegestane materiaal door de surveillant in beslag genomen en onmiddellijk overgedragen aan Onze Minister.   
-3.  Voorafgaand aan het opleggen van een maatregel wordt de kandidaat gehoord. Mogelijk in beslag genomen materiaal kan na het horen worden teruggegeven aan de kandidaat.   
-4.  De kandidaat en de opleidingsinstelling worden van de maatregel schriftelijk in kennis gesteld.   
-5.  Als maatregel, bedoeld in dit artikel, kan Onze Minister de uitslag van het desbetreffende theorie-examen ongeldig verklaren.   
+De minister kan de uitslag van het schriftelijk theorie-examen ongeldig verklaren en een kandidaat tijdelijk uitsluiten van het schriftelijk theorie-examen indien de kandidaat tijdens het afleggen van het schriftelijk theorie-examen onregelmatigheden pleegt.  
 
 ### Artikel  10  
 
@@ -118,10 +126,10 @@ Na het afleggen van een of meer vakken dan wel de afronding van het theorie-exam
 
 ### Artikel  12  
 
-1.  De kandidaat die het niet eens is met de uitslag van het theorie-examen kan binnen 14 dagen na de dag waarop de resultaatbrief is ontvangen schriftelijk een met redenen omkleed verzoek om herziening bij Onze Minister indienen.   
-2.  Het verzoekschrift wordt ondertekend en bevat de naam en het adres van de kandidaat, alsook het registratienummer van diens toelatingsbewijs.   
+1.  De kandidaat die het niet eens is met de uitslag van het schriftelijk theorie-examen kan een verzoek om herziening indienen bij het CBR.   
+2.  Voorwaarden en eisen omtrent het indienen van een verzoek om herziening worden vastgesteld en bekendgemaakt door het CBR.   
 3.  Op verzoek kan de kandidaat, bedoeld in het eerste lid, inzage krijgen in het theorie-examen.   
-4.  Onze Minister neemt binnen tien weken na ontvangst van het verzoekschrift een beslissing op het verzoek.   
+4.  Onze Minister neemt binnen zes weken na ontvangst van het verzoekschrift een beslissing op het verzoek.   
 
 ### §  3  
 
@@ -129,7 +137,7 @@ Na het afleggen van een of meer vakken dan wel de afronding van het theorie-exam
 
 ### Artikel  13  
 
-Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtvaartuig dan wel een FSTD, die daartoe gekwalificeerd is op grond van de [Regeling kwalificatie FSTD’s](../../../../../../ministeriele-regeling/regeling/kwalificatie/std's/BWBR0010764/README.md).  
+Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtvaartuig dan wel een FSTD, die daartoe gekwalificeerd is op grond van de Regeling kwalificatie FSTD’s.  
 
 ### Artikel  14  
 
@@ -140,7 +148,7 @@ Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtva
 
 ### Artikel  15  
 
-1.  De kandidaat laat zich ten behoeve van het afleggen van een praktijkexamen of proeve van bekwaamheid een geautoriseerde examinator als bedoeld in [Hoofdstuk 2 van de Regeling examinatoren voor luchtvarenden 2004](../../../../../../ministeriele-regeling/regeling/examinatoren/voor/luchtvarenden/2004/BWBR0017236/README.md) toedelen door: 
+1.  De kandidaat laat zich ten behoeve van het afleggen van een praktijkexamen of proeve van bekwaamheid een geautoriseerde examinator als bedoeld in Hoofdstuk 2 van de Regeling examinatoren voor luchtvarenden 2004 toedelen door: 
 
 a. een protocolhouder; of  
 
@@ -154,7 +162,7 @@ b. Onze Minister.
 a. indien artikel 15, eerste lid, onderdeel a, van toepassing is: de protocolhouder, voor zover deze de kosten doorberekent;  
 
 b. indien artikel 15, eerste lid, onderdeel b, van toepassing is: de minister.     
-2.  Het bedrag van de vergoeding, bedoeld in het eerste lid, wordt vastgesteld op grondslag van [artikel 4 van de Regeling examinatoren voor luchtvarenden 2004](../../../../../../ministeriele-regeling/regeling/examinatoren/voor/luchtvarenden/2004/BWBR0017236/README.md).   
+2.  Het bedrag van de vergoeding, bedoeld in het eerste lid, wordt vastgesteld op grondslag van artikel 4 van de Regeling examinatoren voor luchtvarenden 2004.   
 
 ### Artikel  17  
 
@@ -173,7 +181,7 @@ b. een examenformulier.
 ### Artikel  19  
 
 1.  Een praktijkexamen en een proeve van bekwaamheid bestaan uit examensecties. Examensecties zijn onderverdeeld in examenitems, die uitsluitend positief of negatief kunnen worden beoordeeld.   
-2.  Het praktijkexamen of een proeve van bekwaamheid voor ATPL, CPL(A) en CPL(H),MPL en PPL wordt afgenomen met inachtneming van [artikel 2 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) met dien verstande dat alle examensecties binnen ten hoogte 6 maanden worden behaald.   
+2.  Het praktijkexamen of een proeve van bekwaamheid voor ATPL, CPL(A) en CPL(H),MPL en PPL wordt afgenomen met inachtneming van artikel 2 van het Besluit bewijzen van bevoegdheid voor de luchtvaart met dien verstande dat alle examensecties binnen ten hoogte 6 maanden worden behaald.   
 3.  Onverminderd het tweede lid is bij het afnemen van het praktijkexamen bijlage 2, behorende bij deze regeling van toepassing. Onze Minister kan van deze bijlage afwijken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren   
 
 ### Artikel  20  
@@ -190,7 +198,7 @@ d. voor een type- of klassebevoegdverklaring (A) respectievelijk (H) respectieve
 
 e. voor RPL(A), RPL(H) respectievelijk CPL(FB): 
 
-1°. de kandidaat instructie heeft gevolgd op dezelfde klasse vliegtuig, hetzelfde type helikopter respectievelijk dezelfde klasse vrije ballon als waarop het examen wordt afgelegd, wat betreft RPL(A) en RPL(H) in overeenstemming met de eisen gesteld aan opleidingsluchtvaartuigen in [bijlage 2 bij de Regeling opleidingsinstellingen voor luchtvarenden 2001](../../../../../../ministeriele-regeling/regeling/opleidingsinstellingen/voor/luchtvarenden/2001/BWBR0012923/README.md),  
+1°. de kandidaat instructie heeft gevolgd op dezelfde klasse vliegtuig, hetzelfde type helikopter respectievelijk dezelfde klasse vrije ballon als waarop het examen wordt afgelegd, wat betreft RPL(A) en RPL(H) in overeenstemming met de eisen gesteld aan opleidingsluchtvaartuigen in bijlage 2 bij de Regeling opleidingsinstellingen voor luchtvarenden 2001,  
 
 2°. extra vlieg- respectievelijk vaarinstructie kan worden geëist nadat de kandidaat is afgewezen en wordt geëist indien de kandidaat niet in twee pogingen alle secties heeft behaald,  
 
@@ -225,7 +233,7 @@ e. voor RPL(A), RPL(H) respectievelijk CPL(FB):
 
 ### Artikel  25  
 
-1.  In afwijking van artikel 14 tot en met 22 kan de kandidaat aantonen te voldoen aan de bedrevenheidseisen voor afgifte, verlenging of hernieuwde afgifte, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, door met goed gevolg een praktijkexamen of proeve van bekwaamheid af te leggen, afgenomen door een examinator die in overeenstemming met de bepalingen van JAR-FCL is geautoriseerd door de bevoegde autoriteit van een staat, bedoeld in [artikel 1 van de Regeling aanwijzing JAA-landen 2003](../../../../../../ministeriele-regeling/regeling/aanwijzing/jaa-landen/2003/BWBR0015115/README.md).   
+1.  In afwijking van artikel 14 tot en met 22 kan de kandidaat aantonen te voldoen aan de bedrevenheidseisen voor afgifte, verlenging of hernieuwde afgifte, bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001, door met goed gevolg een praktijkexamen of proeve van bekwaamheid af te leggen, afgenomen door een examinator die in overeenstemming met de bepalingen van JAR-FCL is geautoriseerd door de bevoegde autoriteit van een staat, bedoeld in artikel 1 van de Regeling aanwijzing JAA-landen 2003.   
 2.  Het gestelde in het eerste lid geldt niet: 
 
 a. in het kader van de afgifte van een bewijs van bevoegdheid, daarbij inbegrepen de gelijktijdig af te geven algemene en bijzondere bevoegdverklaringen, en  
@@ -241,21 +249,21 @@ b. voor houders van een RPL of een CPL(FB).
 
 ### Artikel  26  
 
-1.  Om Onze Minister desgevraagd van advies te dienen en te ondersteunen wat betreft de theorie-examinering betreffende ATPL, CPL en IR respectievelijk CPL(FB), PPL en RPL kan Onze Minister Experts Theorie-examinering benoemen.   
+1.  Om het CBR desgevraagd van advies te dienen en te ondersteunen wat betreft de theorie-examinering betreffende ATPL, CPL en IR respectievelijk CPL(FB), PPL en RPL kan het CBR Experts Theorie-examinering benoemen.   
 2.  Om Onze Minister desgevraagd van advies te dienen en bij te staan wat betreft het standaardiseren en bewaken van de kwaliteit van de praktijkexamens kan Onze Minister een Nationaal Expert Team-Praktijk instellen.   
 3.  Het Nationaal Expert Team-Praktijk kan subcommissies, met de benaming standaardisatiecommissies instellen.   
 
 ### Artikel  27  
 
-1.  De Experts Theorie-examinering worden door Onze Minister benoemd voor een periode van ten hoogste 3 jaar. De Experts Theorie-examinering kunnen telkens voor ten hoogste 3 jaar worden herbenoemd.   
+1.  De Experts Theorie-examinering worden door het CBR benoemd voor een periode van ten hoogste 3 jaar. De Experts Theorie-examinering kunnen telkens voor ten hoogste 3 jaar worden herbenoemd.   
 2.  Een Nationaal Expert Team-Praktijk bestaat uit een door Onze Minister vast te stellen aantal leden, die door Onze Minister worden benoemd voor een periode van ten hoogste 3 jaar. De leden kunnen telkens voor ten hoogste 3 jaar worden herbenoemd.   
 3.  De Experts Theorie-examinering kunnen worden benoemd uit de kring van deskundigen met een aantoonbare binding met de beroepspraktijk met betrekking tot de relevante theorie-examenvakken.   
-4.  Leden van het Nationaal Expert Team-Praktijk kunnen worden benoemd uit de kring van examinatoren en senior-examinatoren, als bedoeld in de [Regeling examinatoren voor luchtvarenden 2004](../../../../../../ministeriele-regeling/regeling/examinatoren/voor/luchtvarenden/2004/BWBR0017236/README.md).   
-5.  Onze Minister verleent tussentijds ontslag aan een Expert Theorie-examinering of een lid van het Nationaal Expert Team-Praktijk: 
+4.  Leden van het Nationaal Expert Team-Praktijk kunnen worden benoemd uit de kring van examinatoren en senior-examinatoren, als bedoeld in de Regeling examinatoren voor luchtvarenden 2004.   
+5.  Het CBR respectievelijk de minister verleent tussentijds ontslag aan een Expert Theorie-examinering of een lid van het Nationaal Expert Team-Praktijk: 
 
 a. op eigen verzoek, of  
 
-b. wegens ongeschiktheid voor de functie,     
+b. wegens ongeschiktheid voor de functie.     
 6.  Elk Nationaal Expert Team-Praktijk stelt een reglement vast ter nadere regeling van haar werkzaamheden. Het reglement behoeft de goedkeuring van Onze Minister.   
 7.  De Experts Theorie-examinering houden de inhoud van theorie-examenvragen geheim.   
 
@@ -266,17 +274,17 @@ b. wegens ongeschiktheid voor de functie,
 
 a. een honorarium van € 200,– per dag, en  
 
-b. de ten behoeve van het uitvoeren van de taken gemaakte reis- en verblijfkosten die volgens het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) worden vergoed.     
+b. de ten behoeve van het uitvoeren van de taken gemaakte reis- en verblijfkosten die volgens het Reisbesluit binnenland worden vergoed.     
 3.  Functionarissen in dienst van het Rijk, van een ander publiekrechtelijk lichaam dan het Rijk of van een door het Rijk in het leven geroepen instelling, dan wel van een instelling welker personeelskosten door het Rijk worden vergoed, ontvangen geen vergoeding als bedoeld in het eerste lid, indien hun benoeming haar oorzaak vindt in de functie die zij vervullen.   
 
 ### Artikel  28a  
 
-1.  Een Expert Theorie-examinering kan voor op verzoek van Onze Minister uit te voeren taken een vergoeding declareren bij het Ministerie van Verkeer en Waterstaat.   
+1.  Een Expert Theorie-examinering kan voor op verzoek van het CBR uit te voeren taken een vergoeding declareren bij het Ministerie van Infrastructuur en Milieu.   
 2.  De vergoeding, bedoeld in het eerste lid, bestaat uit: 
 
-a. een honorarium per uur overeenkomstig schaal 13, niveaugroep Vc, salarisnummer 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), met een maximum van 9 uren per dag, en  
+a. een honorarium per uur overeenkomstig schaal 13, niveaugroep Vc, salarisnummer 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, met een maximum van 9 uren per dag, en  
 
-b. voor reis- en verblijfkosten die verband houden met de taken onder a een vergoeding overeenkomstig het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).     
+b. voor reis- en verblijfkosten die verband houden met de taken onder a een vergoeding overeenkomstig het Reisbesluit binnenland.     
 3.  In afwijking van het tweede lid bestaat de vergoeding, bedoeld in het eerste lid, voor: 
 
 a. het samenstellen van theorie-examenvragen per theorie-examenvraag, uit eenmaal het honorarium per uur als bedoeld in het tweede lid;  
@@ -292,7 +300,7 @@ c. het adviseren inzake herzieningsverzoeken per herzieningsadvies, uit tweemaal
 
 ### Artikel  29  
 
-Het [Examenreglement voor luchtvarenden 2001](../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2001/BWBR0012924/README.md) wordt ingetrokken.  
+Het Examenreglement voor luchtvarenden 2001 wordt ingetrokken.  
 
 ### Artikel  30  
 
