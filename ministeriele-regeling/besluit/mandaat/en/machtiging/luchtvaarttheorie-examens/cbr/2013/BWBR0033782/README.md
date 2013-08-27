@@ -14,12 +14,12 @@ In dit besluit wordt verstaan onder:
 
 *Minister:* Minister van Infrastructuur en Milieu;  
 
-*CBR:* Centraal Bureau Rijvaardigheidsbewijzen;    
+*CBR:* Centraal Bureau Rijvaardigheidsbewijzen;   
 
 ### Artikel  2  
 
 1.  Aan de algemeen directeur van het CBR wordt mandaat verleend tot het nemen van besluiten ter uitvoering van de [artikelen 9](../../../../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2004/BWBR0017237/README.md), [11](../../../../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2004/BWBR0017237/README.md) en [12 van het Examenreglement voor luchtvarenden 2004](../../../../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2004/BWBR0017237/README.md).   
-2.  De algemeen directeur genoemd in het eerste lid wordt tevens gemachtigd tot het verrichten van andere handelingen ter uitvoering van de in het eerste lid genoemde artikelen.   
+2.  De algemeen directeur genoemd in het eerste lid wordt tevens gemachtigd tot het verrichten van andere handelingen ter uitvoering van de in het eerste lid genoemde artikelen.  
 
 ### Artikel  3  
 
@@ -41,21 +41,21 @@ In dit besluit wordt verstaan onder:
 – een omschrijving van het examen waarop het verzoek is gericht;  
 
 – de gronden van het verzoek.   Het verzoek om herziening kunt u richten aan: CBR, divisie CCV Afdeling Luchtvaartexamens Postbus 1023 2280 CA Rijswijk ZH’.   
-3.  Een beslissing op het herzieningsverzoek als bedoeld in [artikel 12, vierde lid, van het Examenreglement voor luchtvarenden 2004](../../../../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2004/BWBR0017237/README.md) wordt ondertekend met: ‘DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU, namens deze, de algemeen directeur van het Centraal Bureau Rijvaardigheidsbewijzen’, gevolgd door de handtekening en naam van de betrokken functionaris.   
+3.  Een beslissing op het herzieningsverzoek als bedoeld in [artikel 12, vierde lid, van het Examenreglement voor luchtvarenden 2004](../../../../../../../../../ministeriele-regeling/examenreglement/voor/luchtvarenden/2004/BWBR0017237/README.md) wordt ondertekend met: ‘DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU, namens deze, de algemeen directeur van het Centraal Bureau Rijvaardigheidsbewijzen’, gevolgd door de handtekening en naam van de betrokken functionaris.  
 
 ### Artikel  4  
 
-Het [Besluit mandaat en machtiging luchtvaarttheorie-examens CBR](../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/luchtvaarttheorie-examens/cbr/BWBR0023071/README.md) wordt ingetrokken.  
+Het [Besluit mandaat en machtiging luchtvaarttheorie-examens CBR](../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/luchtvaarttheorie-examens/cbr/BWBR0023071/README.md) wordt ingetrokken. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van publicatie in de Staatscourant en werkt terug tot en met 1 januari 2013.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van publicatie in de Staatscourant en werkt terug tot en met 1 januari 2013. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit mandaat en machtiging luchtvaarttheorie-examens CBR 2013.  
+Dit besluit wordt aangehaald als: Besluit mandaat en machtiging luchtvaarttheorie-examens CBR 2013. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-W.J.Mansveld   
+Staatssecretaris van Infrastructuur en Milieu, 
+W.J. Mansveld     

@@ -10,17 +10,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Besluit instelling Audit Committee OCW 2010.   
+Wijzigt het Besluit instelling Audit Committee OCW 2010. 
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013. 
 
 ### Artikel  III  
 
-[Artikel 10 van het Besluit instelling Audit Committee OCW 2010](../../../../../../../../../../ministeriele-regeling/besluit/instelling/audit/committee/ocw/2010/BWBR0027186/README.md) zoals dat luidde voor de inwerkingtreding van dit besluit blijft tot 1 januari 2014 van toepassing op de niet-ambtelijke leden die op 1 januari 2013 reeds zitting in het Audit Committee hadden.  
+[Artikel 10 van het Besluit instelling Audit Committee OCW 2010](../../../../../../../../../../ministeriele-regeling/besluit/instelling/audit/committee/ocw/2010/BWBR0027186/README.md) zoals dat luidde voor de inwerkingtreding van dit besluit blijft tot 1 januari 2014 van toepassing op de niet-ambtelijke leden die op 1 januari 2013 reeds zitting in het Audit Committee hadden. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-M.Bussemaker   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+M. Bussemaker     
