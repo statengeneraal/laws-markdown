@@ -8,15 +8,15 @@ Het doel van de bestuursrechtelijke handhaving van de responsverplichting (verde
 
 ####Last onder dwangsom
 
-De handhavingsorganisatie past in eerste instantie het handhavingsinstrument van de last onder dwangsom toe. Hiermee wordt nadrukkelijk beoogd om de gevraagde gegevens alsnog te verkrijgen. De duur van de begunstigingstermijn <sup>1</sup> bedraagt in alle gevallen 14 kalenderdagen. De hoogte van de te verbeuren dwangsom is in eerste instantie achtereenvolgens afhankelijk van: 
+De handhavingsorganisatie past in eerste instantie het handhavingsinstrument van de last onder dwangsom toe. Hiermee wordt nadrukkelijk beoogd om de gevraagde gegevens alsnog te verkrijgen. De duur van de begunstigingstermijn<sup>1</sup> bedraagt in alle gevallen 14 kalenderdagen. De hoogte van de te verbeuren dwangsom is in eerste instantie achtereenvolgens afhankelijk van: 
 
-– de omvang <sup>2</sup> van de onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon aan wie de last onder dwangsom is opgelegd;  
+– de omvang<sup>2</sup> van de onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon aan wie de last onder dwangsom is opgelegd;  
 
-– de periode <sup>3</sup> waarop de gevraagde gegevens betrekking hebben;  
+– de periode<sup>3</sup> waarop de gevraagde gegevens betrekking hebben;  
 
-– en het responsgedrag <sup>4</sup>.   In de onderstaande tabellen zijn voor de verschillende categorieën de te verbeuren dwangsommen per dag alsmede de maximaal te verbeuren totale dwangsom weergegeven.  
+– en het responsgedrag<sup>4</sup>.   In de onderstaande tabellen zijn voor de verschillende categorieën de te verbeuren dwangsommen per dag alsmede de maximaal te verbeuren totale dwangsom weergegeven.  
 
-| Periode  | Maand <sup>5</sup>  | responsgedrag  | Incidenteel niet  | Regelmatig niet  | Structureel niet  | grootteklasse  | € per dag  | maximaal te verbeuren  | € per dag  | maximaal te verbeuren  | € per dag  | maximaal te verbeuren  |
+| Periode  | Maand<sup>5</sup>   | responsgedrag  | Incidenteel niet  | Regelmatig niet  | Structureel niet  | grootteklasse  | € per dag  | maximaal te verbeuren  | € per dag  | maximaal te verbeuren  | € per dag  | maximaal te verbeuren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | 0  | 10  | 200  | 15  | 300  | 30  | 600  |
 | 1  | 15  | 300  | 20  | 400  | 35  | 700  |
@@ -55,7 +55,7 @@ De handhavingsorganisatie past in eerste instantie het handhavingsinstrument van
 | 8  | 400  | 8000  | 450  | 9000  | 600  | 12000  |
 | 9  | 550  | 11000  | 650  | 13000  | 800  | 16000  |
 
-Indien een onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon binnen twaalf maanden voorafgaand aan de datum van de overtreding voor de eerste maal is ingeschreven in het handelsregister wordt de te verbeuren dwangsom verlaagd met 50%. In uitzonderlijke en bijzondere gevallen kan de te verbeuren dwangsom verhoogd worden tot een bedrag van maximaal € 500.000,–.  <sup>1</sup> De begunstigingstermijn is de termijn waarbinnen de onderneming gelast wordt alsnog de gevraagde gegevens te verstrekken. <sup>2</sup> De omvang wordt vastgesteld aan de hand van a. het aantal werkenden in een bedrijf, ongeacht of zij in loondienst zijn of anderszins betaalde arbeid verrichten (hiervoor wordt – onder meer – gebruik gemaakt van gegevens verkregen van de Belastingdienst [opgaven voor de Loonbelasting en BTW] en van het Handelsregister) of b. indien het gevraagde gegevens betreft over goederenverkeer tussen EU-lidstaten, aan de hand van totale waarde per jaar aan goederen die is geëxporteerd naar de EU of de totale waarde per jaar aan goederen die is geïmporteerd vanuit de EU. In onderstaande tabel is de grootteklasse-indeling voor beide categorieën weergegeven.   
+Indien een onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon binnen twaalf maanden voorafgaand aan de datum van de overtreding voor de eerste maal is ingeschreven in het handelsregister wordt de te verbeuren dwangsom verlaagd met 50%. In uitzonderlijke en bijzondere gevallen kan de te verbeuren dwangsom verhoogd worden tot een bedrag van maximaal € 500.000,–.  <sup>1</sup> De begunstigingstermijn is de termijn waarbinnen de onderneming gelast wordt alsnog de gevraagde gegevens te verstrekken. <sup>2</sup> De omvang wordt vastgesteld aan de hand van a. het aantal werkenden in een bedrijf, ongeacht of zij in loondienst zijn of anderszins betaalde arbeid verrichten (hiervoor wordt – onder meer – gebruik gemaakt van gegevens verkregen van de Belastingdienst [opgaven voor de Loonbelasting en BTW] en van het Handelsregister) of b. indien het gevraagde gegevens betreft over goederenverkeer tussen EU-lidstaten, aan de hand van totale waarde per jaar aan goederen die is geëxporteerd naar de EU of de totale waarde per jaar aan goederen die is geïmporteerd vanuit de EU. In onderstaande tabel is de grootteklasse-indeling voor beide categorieën weergegeven. 
 
 | grootteklasse  | aantal werkzame personen  | totale waarde in € im- en export  |
 |:---|:---|:---|
@@ -70,13 +70,13 @@ Indien een onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon bin
 | 8  | 200–499  | 45.000.000 en meer  |
 | 9  | 500 en meer  | –  |
 
-<sup>3</sup> De periode waarop de gegevens betrekking hebben, zijn een maand, een kwartaal, een half jaar en een jaar. <sup>4</sup> Het responsgedrag is het aantal niet nagekomen responsverplichtingen in de periode voorafgaand aan de datum dat de overtreding door de afdeling Handhaving is geconstateerd. Deze periode verschilt per statistiek.   
+<sup>3</sup> De periode waarop de gegevens betrekking hebben, zijn een maand, een kwartaal, een half jaar en een jaar.  <sup>4</sup> Het responsgedrag is het aantal niet nagekomen responsverplichtingen in de periode voorafgaand aan de datum dat de overtreding door de afdeling Handhaving is geconstateerd. Deze periode verschilt per statistiek. 
 
 | responsgedrag  | Incidenteel niet  | Regelmatig niet  | Structureel niet  |
 |:---|:---|:---|:---|
 | maand  | 1  | 2 t/m 5  | 6 en meer  |
 | kwartaal  | 1  | 2 t/m 3  | 4 en meer  |
-| jaar  | 1  | 2  | 3  |
+| jaar  | 1  | 2   | 3  |
 
 |--- | periode voorafgaand aan de datum van de overtreding  |
 |:---|:---|
@@ -84,15 +84,15 @@ Indien een onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon bin
 | kwartaal  | 2 jaar  |
 | jaar  | 3 jaar  |
 
-<sup>5</sup> Een 4-wekelijkse periode wordt gelijkgesteld met de periode maand. Een ½ -jaarlijkse periode wordt gelijk gesteld met een kwartaal.    
+<sup>5</sup> Een 4-wekelijkse periode wordt gelijkgesteld met de periode maand. Een ½ -jaarlijkse periode wordt gelijk gesteld met een kwartaal.   
 
 ####Bestuurlijke boete
 
 De handhavingsorganisatie hanteert pas in tweede instantie het handhavingsinstrument van de bestuurlijke boete. De bestuurlijke boete wordt opgelegd als de berichtgever voor een tweede of volgende maal in overtreding is. De bestuurlijke boete bedraagt maximaal € 5.000,–. De bestuurlijke boete en de last onder dwangsom kunnen ook gezamenlijk worden opgelegd indien blijkt dat de inzet van de instrumenten afzonderlijk niet leidt tot de gewenste gedragsverandering bij de berichtgever. De hoogte van de bestuurlijke boete is achtereenvolgens afhankelijk van: 
 
-– de omvang <sup>6</sup> van de onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon aan wie de bestuurlijke boete is opgelegd;  
+– de omvang<sup>6</sup> van de onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon aan wie de bestuurlijke boete is opgelegd;  
 
-– het aantal overtredingen na de eerste overtreding <sup>7</sup> (herhaalde overtreding).   In de onderstaande tabel is voor de verschillende categorieën de bestuurlijke boete weergegeven.  
+– het aantal overtredingen na de eerste overtreding<sup>7</sup> (herhaalde overtreding).   In de onderstaande tabel is voor de verschillende categorieën de bestuurlijke boete weergegeven.  
 
 | grootteklasse  | 1e herhaalde overtreding  | 2e en elke volgende herhaalde overtreding  |
 |:---|:---|:---|
@@ -107,7 +107,7 @@ De handhavingsorganisatie hanteert pas in tweede instantie het handhavingsinstru
 | 8  | 1200  | 4000  |
 | 9  | 1600  | 5000  |
 
-Bij een bestuurlijke boete worden geen kortingen verleend, omdat pas sprake is van een bestuurlijke boete indien eerder een last onder dwangsom is opgelegd. De onderneming wordt dan immers geacht bekend te zijn met de wettelijke verplichting.  <sup>6</sup> Zie noot 2. <sup>7</sup> Herhaalde overtreding is het aantal overtredingen na de eerste overtreding waarbij geldt dat de beschikking die ten aanzien van de eerdere overtreding formele rechtskracht dient te hebben op het moment dat de volgende overtreding door de handhavingsorganisatie wordt geconstateerd.      
+Bij een bestuurlijke boete worden geen kortingen verleend, omdat pas sprake is van een bestuurlijke boete indien eerder een last onder dwangsom is opgelegd. De onderneming wordt dan immers geacht bekend te zijn met de wettelijke verplichting.  <sup>6</sup> Zie noot 2.  <sup>7</sup> Herhaalde overtreding is het aantal overtredingen na de eerste overtreding waarbij geldt dat de beschikking die ten aanzien van de eerdere overtreding formele rechtskracht dient te hebben op het moment dat de volgende overtreding door de handhavingsorganisatie wordt geconstateerd.    
 
 Directeur-Generaal van de Statistiek, 
 G. van der Veen     
