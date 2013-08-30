@@ -10,19 +10,21 @@ Besluit:
 
 Het subsidieplafond, bedoeld in [artikel 3 van het Besluit subsidiëring stichting advisering bestuursrechtspraak milieu en ruimtelijke ordening](../../../../../AMvB/besluit/subsidiëring/stichting/advisering/bestuursrechtspraak/milieu/en/etc/BWBR0007574/README.md), is voor het jaar: 
 
-a. 2012: € 5.400.000, en  
+a. 2012: € 5.400.000,  
 
-b. 2013: € 5.400.000.    
+b. 2013: € 5.400.000,  
+
+c. 2014: € 5.377.000.  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling subsidieplafond StAB 2012–2013.  
+Deze regeling wordt aangehaald als: Regeling subsidieplafond StAB. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     
