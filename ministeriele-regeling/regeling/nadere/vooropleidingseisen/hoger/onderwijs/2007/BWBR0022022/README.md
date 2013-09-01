@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 7.25, eerste, tweede en vierde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);
+Gelet op artikel 7.25, eerste, tweede en vierde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;
 Besluit:    
 
 ### Artikel  1  
@@ -14,21 +14,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. WHW: [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+a. WHW: Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-b. WVO: [Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. WVO: Wet op het voortgezet onderwijs;  
 
-c. WEB: [Wet educatie en beroepsonderwijs](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. WEB: Wet educatie en beroepsonderwijs;  
 
-d. instelling voor wetenschappelijk onderwijs: een instelling als bedoeld in [artikel 1.3, eerste lid, van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+d. instelling voor wetenschappelijk onderwijs: een instelling als bedoeld in artikel 1.3, eerste lid, van de WHW;  
 
-e. instelling voor hoger beroepsonderwijs: een instelling als bedoeld in [artikel 1.3, tweede lid, van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+e. instelling voor hoger beroepsonderwijs: een instelling als bedoeld in artikel 1.3, tweede lid, van de WHW;  
 
-f. opleiding: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, en tweede lid, onderdeel a, van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+f. opleiding: opleiding als bedoeld in artikel 7.3a, eerste lid, onderdeel a, en tweede lid, onderdeel a, van de WHW;  
 
-g. nadere vooropleidingseisen: eisen, bedoeld in [artikel 7.25, eerste en tweede lid, van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+g. nadere vooropleidingseisen: eisen, bedoeld in artikel 7.25, eerste en tweede lid, van de WHW;  
 
-h. profiel: profiel als bedoeld in [artikel 12, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+h. profiel: profiel als bedoeld in artikel 12, tweede lid, van de Wet op het voortgezet onderwijs;  
 
 i. toegangsrecht: recht op inschrijving aan een opleiding, wanneer voldaan is aan de nadere vooropleidingseisen voor die opleiding, opgenomen in de bijlagen bij deze regeling.    
 
@@ -36,11 +36,11 @@ i. toegangsrecht: recht op inschrijving aan een opleiding, wanneer voldaan is aa
 
 ####Aanwijzing van nadere vooropleidingseisen per opleiding
 
-1.  Voor opleidingen aan instellingen voor wetenschappelijk onderwijs gelden voor aanstaande studenten en extraneï die met goed gevolg het vwo-eindexamen hebben afgelegd bij of krachtens de in de [WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of de [WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) geregelde voorschriften zoals luidend tot en met 31 juli 2007, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.   
-2.  Voor opleidingen aan instellingen voor wetenschappelijk onderwijs gelden voor aanstaande studenten en extraneï die met goed gevolg het vwo-eindexamen hebben afgelegd bij of krachtens de in de [WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of de [WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) geregelde voorschriften zoals luidend met ingang van 1 augustus 2007, de nadere vooropleidingseisen die zijn opgenomen in bijlage C.   
-3.  Voor opleidingen aan instellingen voor hoger beroepsonderwijs gelden voor aanstaande studenten en extraneï die met goed gevolg het vwo-eindexamen of het havo-eindexamen hebben afgelegd bij of krachtens de in de [WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of de [WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) geregelde voorschriften zoals luidend tot en met 31 juli 2007, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.   
-4.  Voor opleidingen aan instellingen voor hoger beroepsonderwijs gelden voor aanstaande studenten en extraneï die met goed gevolg het vwo-eindexamen of het havo-eindexamen hebben afgelegd bij of krachtens de in de [WVO](../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of de [WEB](../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) geregelde voorschriften zoals luidend met ingang van 1 augustus 2007, de nadere vooropleidingseisen die zijn opgenomen in bijlage D.   
-5.  De in de eerste en het derde lid bedoelde voorschriften gelden onverminderd afwijkingen van die voorschriften op grond van [artikel IV, tweede lid, van de Wet van 27 april 2006 tot wijziging van de Wet op het voortgezet onderwijs ter aanpassing van de profielen in de tweede fase van het vwo en het havo](../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/(aanpassing/profielen/tweede/etc/BWBR0019799/README.md).   
+1.  Voor opleidingen aan instellingen voor wetenschappelijk onderwijs gelden voor aanstaande studenten en extraneï die met goed gevolg het vwo-eindexamen hebben afgelegd bij of krachtens de in de WVO of de WEB geregelde voorschriften zoals luidend tot en met 31 juli 2007, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.   
+2.  Voor opleidingen aan instellingen voor wetenschappelijk onderwijs gelden voor aanstaande studenten en extraneï die met goed gevolg het vwo-eindexamen hebben afgelegd bij of krachtens de in de WVO of de WEB geregelde voorschriften zoals luidend met ingang van 1 augustus 2007, de nadere vooropleidingseisen die zijn opgenomen in bijlage C.   
+3.  Vervallen..   
+4.  Voor opleidingen aan instellingen voor hoger beroepsonderwijs gelden voor aanstaande studenten en extraneï die met goed gevolg het vwo-eindexamen of het havo-eindexamen hebben afgelegd bij of krachtens de in de WVO of de WEB geregelde voorschriften zoals luidend met ingang van 1 augustus 2007, de nadere vooropleidingseisen die zijn opgenomen in bijlage D.   
+5.  De in de eerste en het derde lid bedoelde voorschriften gelden onverminderd afwijkingen van die voorschriften op grond van artikel IV, tweede lid, van de Wet van 27 april 2006 tot wijziging van de Wet op het voortgezet onderwijs ter aanpassing van de profielen in de tweede fase van het vwo en het havo.   
 
 ### Artikel  3  
 
@@ -60,13 +60,13 @@ Waar in de nadere vooropleidingseisen voor een opleiding een keuzemogelijkheid w
 
 ####Bezemregeling
 
-Na het tijdstip waarop artikel 2, eerste en derde lid, vervalt, beslist het instellingsbestuur overeenkomstig [artikel 7.25, vierde lid, van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) over toelating tot een opleiding van een in deze leden bedoelde student.  
+Na het tijdstip waarop artikel 2, eerste en derde lid, vervalt, beslist het instellingsbestuur overeenkomstig artikel 7.25, vierde lid, van de WHW over toelating tot een opleiding van een in deze leden bedoelde student.  
 
 ### Artikel  6  
 
 ####Intrekking Regeling nadere vooropleidingseisen hoger onderwijs 1998
 
-De [Regeling nadere vooropleidingseisen hoger onderwijs 1998](../../../../../../../../ministeriele-regeling/regeling/nadere/vooropleidingseisen/hoger/onderwijs/BWBR0009895/README.md) wordt ingetrokken.  
+De Regeling nadere vooropleidingseisen hoger onderwijs 1998 wordt ingetrokken.  
 
 ### Artikel  7  
 
@@ -148,7 +148,7 @@ R.H.A.Plasterk
 #: dit profiel geeft geen toegang tot de betreffende opleiding      Economie 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Actuariële wetenschappen  | *  | *  | wb1  | wb1  |
 | 2.  | B Bedrijfseconomie  | ec1  | ec1  | *  | ec1+ (wa12 of wb1)  |
 | 3.  | B Bedrijfskunde  | ec1  | ec1  | *  | ec1+ (wa12 of wb1)  |
@@ -163,7 +163,7 @@ R.H.A.Plasterk
 Gedrag en Maatschappij 
 
 | Nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Algemene Sociale Wetenschappen  | *  | *  | *  | *  |
 | 2.  | B Bestuurs- en Organisatiewetenschap  | *  | *  | *  | *  |
 | 3.  | B Bestuurskunde  | *  | *  | *  | *  |
@@ -188,7 +188,7 @@ Gedrag en Maatschappij
 Gezondheidszorg 
 
 | Nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Bewegingswetenschappen  | *  | *  | wb1+na1+sk1  | wb1+na1+sk1  |
 | 2.  | B Biomedische Wetenschappen  | bi12  | *  | #  | #  |
 | 3.  | Diergeneeskunde  | bi12  | *  | #  | #  |
@@ -204,7 +204,7 @@ Gezondheidszorg
 Landbouw en Natuurlijke omgeving 
 
 | Nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Agrotechnologie  | *  | *  | wb1+na1+sk1  | wb1+na1+sk1  |
 | 2.  | B Bedrijfs- en Consumentenwetenschappen  | ec1  | ec1  | *  | (wa12 of wb1) + ec1  |
 | 3.  | B Biologie  | bi12  | *  | #  | #  |
@@ -227,7 +227,7 @@ Landbouw en Natuurlijke omgeving
 Natuur 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Aarde en economie  | *  | *  | *  | wa12 of wb1  |
 | 2.  | B Aardwetenschappen  | *  | *  | wb1+na1+sk1  | wb1+na1+sk1  |
 | 3.  | B Beta-gamma  | *  | *  | wb1+na1+sk1  | wb1+na1+sk1  |
@@ -260,7 +260,7 @@ Natuur
 <sup>1</sup> Voor deze opleidingen geldt dat de instelling aan de student met het profiel NG de gelegenheid kan geven om aan de eis ‘wb12’ uiterlijk bij afronding van de propedeutische fase te voldoen.  Recht 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Bestuurskunde  | *  | *  | *  | *  |
 | 2.  | B European Law School  | *  | *  | *  | *  |
 | 3.  | B Fiscaal recht  | *  | *  | *  | *  |
@@ -275,7 +275,7 @@ Natuur
 Taal en Cultuur 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Afrikaanse talen en culturen  | *  | *  | *  | *  |
 | 2.  | B Algemene Cultuurwetenschappen  | *  | *  | *  | *  |
 | 3.  | B American Studies  | *  | *  | *  | *  |
@@ -346,7 +346,7 @@ Taal en Cultuur
 Techniek 
 
 | nr  | Opleidingen  | NT  | NG <sup>1</sup>  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Advanced Technology  | *  | wb12  | wb12+na1+sk1  | wb12+na1+sk1  |
 | 2.  | B Bedrijfsinformatietechnologie  | *  | wb12  | wb12  | wb12  |
 | 3.  | B Biomedische technologie  | *  | *  | wb12+na1  | wb12+na1  |
@@ -374,594 +374,8 @@ Techniek
 <sup>1</sup> Voor alle betrokken opleidingen geldt dat de instelling aan de student met het profiel NG de gelegenheid kan geven om aan de eis ‘wb12’ uiterlijk bij afronding van de propedeutische fase te voldoen. <sup>2</sup> Voor deze opleidingen geldt dat de instelling aan de student met het profiel EM of CM de gelegenheid kán geven om aan de eisen ‘na12’ en ‘wb12’ uiterlijk bij afronding van de propedeutische fase te voldoen.  Sectoroverstijgend 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Tourism  | *  | *  | *  | wa12  |
-
-### Bijlage  B  
-
-####behorende bij artikel 2, derde lid , van de Regeling nadere vooropleidingseisen hoger onderwijs 2007
-
-####Eisen voor opleidingen van het hoger beroepsonderwijs, bij de VO-profielen zoals die tot 1 augustus 2007 werden aangeboden
-
-1. In deze bijlage wordt verstaan onder: 
-
-*NT:* profiel natuur en techniek  
-
-*NG:* profiel natuur en gezondheid  
-
-*EM:* profiel economie en maatschappij  
-
-*CM:* profiel cultuur en maatschappij  
-
-*bi:* biologie  
-
-*bi1:* biologie 1  
-
-*bi12:* biologie 1,2  
-
-*du12:* Duits 1,2  
-
-*ec1:* economie 1  
-
-*ec12:* economie 1,2  
-
-*fa12:* Frans 1,2  
-
-*gr:* Grieks  
-
-*la:* Latijn  
-
-*na1:* natuurkunde 1  
-
-*na12:* natuurkunde 1,2  
-
-*sk:* scheikunde  
-
-*sk1:* scheikunde 1  
-
-*sk12:* scheikunde 1,2  
-
-*wa12:* wiskunde A 1,2  
-
-*wb1:* wiskunde B 1  
-
-*wb12:* wiskunde B 1,2  
-
-*2 <sup>e</sup> mvt12:* tweede moderne ‘vreemde’ taal 1,2  
-
-*Ad:* Associate degree    
-
-2. Verklaring van de in deze bijlage gebruikte symbolen: 
-
-*: dit profiel geeft toegang tot de betreffende opleiding  
-
-#: dit profiel geeft geen toegang tot de betreffende opleiding     
-
-### 1  
-
-####Instroom met HAVO diploma
-
-Economie (instroom met havo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Accountancy <sup>3</sup>  | ec1  | ec1  | *  | wa12 of wb1  |
-| 2.  | B Advanced Business Creation  | ec1  | ec1  | *  | ec1  |
-| 3.  | B Bedrijfseconomie <sup>3</sup>  | ec1  | ec1  | *  | wa12 of wb1  |
-| 4.  | B Bestuurskunde / overheidsmanagement  | ec1  | ec1  | *  | *  |
-| 5.  | B Business Administration in Hotel Management <sup>1</sup>  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 6.  | B Business IT & Management <sup>3</sup>  | *  | *  | *  | *  |
-| 7.  | B Commercieel Management <sup>3</sup>  | *  | *  | *  | *  |
-| 8.  | B Commerciële Economie <sup>3</sup>  | ec1  | ec1  | *  | *  |
-| 9.  | B Communicatie <sup>3</sup>  | *  | *  | *  | *  |
-| 10.  | B Communicatiesystemen  | *  | *  | *  | *  |
-| 11.  | B European Studies  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 12.  | B Facility Management <sup>3</sup>  | ec1  | ec1  | *  | *  |
-| 13.  | B Financial Services Management  | ec1  | ec1  | *  | wa12 of wb1  |
-| 14.  | B Fiscaal Recht en Economie  | ec1  | ec1  | *  | wa12 of wb1  |
-| 15.  | B Food And Business  | *  | *  | *  | *  |
-| 16.  | B Functiegerichte Bachelor in Toerisme en Recreatie <sup>3</sup>  | ec1 + 2 <sup>e</sup> mvt12  | ec1 + 2 <sup>e</sup> mvt12  | *  | *  |
-| 17.  | B Hbo-Rechten  | *  | *  | *  | *  |
-| 18.  | B Hogere Juridische opleiding  | *  | *  | *  | *  |
-| 19.  | B Hoger Hotelonderwijs <sup>1,3</sup>  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 20.  | B Hoger Toeristisch en Recreatief Onderwijs <sup>3</sup>  | ec1+  2 <sup>e</sup> mvt12  | ec1  +2 <sup>e</sup> mvt12  | *  | *  |
-| 21.  | B Informatiedienstverlening en -management <sup>3</sup>  | *  | *  | *  | *  |
-| 22.  | B Informationmanagement  | *  | *  | *  | *  |
-| 23.  | B Information Security Management  | *  | *  | *  | *  |
-| 24.  | B Integrale Veiligheid  | *  | *  | *  | *  |
-| 25.  | B Integrale Veiligheidskunde  | ec1  | ec1  | *  | *  |
-| 26.  | B International Business  | *  | *  | *  | *  |
-| 27.  | B International Business and Languages  | ec1  | ec1  | *  | *  |
-| 28.  | B International Business and  Management Studies  | ec1 of 2 <sup>e</sup> mvt12  | ec1 of 2 <sup>e</sup> mvt12  | *  | *  |
-| 29.  | B Journalistiek  | *  | *  | *  | *  |
-| 30.  | B Kunst en Economie  | *  | *  | *  | *  |
-| 31.  | B Lifestyle  | *  | *  | *  | *  |
-| 32.  | B Logistiek en Economie  | ec1  | ec1  | *  | *  |
-| 33.  | B Management, Economie en Recht, opleiding voor <sup>3</sup>  | ec1  | ec1  | *  | *  |
-| 34.  | B Media and Entertainment  Management  | *  | *  | *  | *  |
-| 35.  | B Media, Informatie en Communicatie  | ec1  | ec1  | *  | *  |
-| 36.  | B Oriëntaalse Talen en Communicatie  | *  | *  | *  | *  |
-| 37.  | B People & Business management  | *  | *  | *  | *  |
-| 38.  | B Security Management  | *  | *  | *  | *  |
-| 39.  | B Small Business & Retail Management <sup>3</sup>  | ec1  | ec1  | *  | *  |
-| 40.  | B Sport, Management en Ondernemen <sup>1</sup>  | *  | *  | *  | *  |
-| 41.  | B Toegepaste Bedrijfskunde  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 42.  | B Trade Management Azië  | ec1  | ec1  | *  | *  |
-| 43.  | B Vastgoed en Makelaardij  | *  | *  | *  | *  |
-| 44.  | B Vertaalacademie <sup>5</sup>  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 45.  | B Vitaliteitsmanagement & Toerisme <sup>3</sup>  | *  | *  | *  | *  |
-| 46.  | B Vrijetijdsmanagement <sup>3</sup>  | ec1+  2 <sup>e</sup> mvt12  | ec1+  2 <sup>e</sup> mvt12  | *  | *  |
-| 47.  | B Windesheim Honours College  | *  | *  | *  | wa12 of wb1  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen.  Gedrag en maatschappij (instroom met havo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Creatieve Therapie <sup>1</sup>  | *  | *  | *  | *  |
-| 2.  | B Culturele en Maatschappelijke Vorming  | *  | *  | *  | *  |
-| 3.  | B Godsdienst-pastoraal werk  | *  | *  | *  | *  |
-| 4.  | B Human Resource Management <sup>3</sup>  | *  | *  | *  | *  |
-| 5.  | B Imam / Islamitisch geestelijk werker  | *  | *  | *  | *  |
-| 6.  | B Integrale Veiligheidskunde  | ec1  | ec1  | *  | *  |
-| 7.  | B Maatschappelijk werk en dienstverlening  | *  | *  | *  | *  |
-| 8.  | B Pedagogiek <sup>3</sup>  | *  | *  | *  | *  |
-| 9.  | B Pedagogisch Management Kinderopvang  | *  | *  | *  | *  |
-| 10.  | B Sociaal-Juridische Dienstverlening <sup>3</sup>  | *  | *  | *  | *  |
-| 11.  | B Sociaal Pedagogische Hulpverlening  | *  | *  | *  | *  |
-| 12.  | B Social work  | *  | *  | *  | *  |
-| 13.  | B Sport en Bewegen <sup>1</sup>  | *  | *  | *  | *  |
-| 14.  | B Sport en Bewegingseducatie  | *  | *  | *  | *  |
-| 15.  | B Toegepaste psychologie  | *  | *  | *  | *  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Gezondheidszorg (instroom met havo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Audiologie  | *  | *  | *  | *  |
-| 2.  | B Ergotherapie, opleiding voor  | *  | *  | *  | *  |
-| 3.  | B Farmakunde  | *  | *  | *  | *  |
-| 4.  | B Fysiotherapeut, opleiding tot  | *  | *  | *  | *  |
-| 5.  | B Huidtherapie  | *  | *  | *  | *  |
-| 6.  | B Kunstzinnige Therapie  | *  | *  | *  | *  |
-| 7.  | B Logopedie, opleiding voor <sup>1</sup>  | *  | *  | *  | *  |
-| 8.  | B Management in de zorg <sup>1,3</sup>  | *  | *  | *  | *  |
-| 9.  | B Medische Beeldvormende en Radiotherapeutische Technieken  | *  | *  | *  | *  |
-| 10.  | B Medische Hulpverlening  | *  | *  | *  | *  |
-| 11.  | B Mondzorgkunde, opleiding  | *  | *  | *  | *  |
-| 12.  | B Oefentherapie Cesar  | *  | *  | *  | *  |
-| 13.  | B Oefentherapeut Mensendieck, opleiding tot  | *  | *  | *  | *  |
-| 14.  | B Optometrie  | *  | *  | *  | *  |
-| 15.  | B Orthoptie  | *  | *  | *  | *  |
-| 16.  | B Podotherapie, opleiding  | *  | *  | *  | *  |
-| 17.  | B Psychomotorische Therapie en Bewegingsagogie <sup>1</sup>  | *  | *  | *  | *  |
-| 18.  | B Sport, Gezondheid en Management <sup>3</sup>  | *  | *  | *  | *  |
-| 19.  | B Toegepaste gerontologie  | *  | *  | *  | *  |
-| 20.  | B Verloskunde <sup>1</sup>  | bi  | *  | bi +sk  | bi +sk  |
-| 21.  | B Verpleegkundige, opleiding tot <sup>3</sup>  | *  | *  | *  | *  |
-| 22.  | B Voeding en Diëtetiek  | *  | *  | *  | *  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [art 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Landbouw en natuurlijke omgeving (instroom met havo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Bedrijfskunde en Agribusiness <sup>3</sup>  | *  | *  | *  | wa12 of wb1  |
-| 2.  | B Biotechnologie  - eisen geldend tot 1-9-2011  - eisen geldend vanaf 1-9-2011  | *  *  | *  wb12  | #  #  | #  #  |
-| 3.  | B Bos- en Natuurbeheer  | *  | *  | *  | wa12 of wb1  |
-| 4.  | B Dier- en Veehouderij <sup>3</sup>  | *  | *  | sk  | #  |
-| 5.  | B Diermanagement  | *  | *  | bi  | #  |
-| 6.  | B Educatie en Kennismanagement groene sector <sup>2,3</sup>  | *  | *  | *  | *  |
-| 7.  | B Food Commerce & Technology  | *  | *  | *  | *  |
-| 8.  | B Food design and Innovation  | *  | *  | *  | *  |
-| 9.  | B Greenport Business & Retail  | *  | *  | *  | wa12 of wb1  |
-| 10.  | B Kust- en Zeemanagement  | *  | *  | *  | wa12  |
-| 11.  | B Land-, en Watermanagement  | *  | *  | sk  | #  |
-| 12.  | B Landscape and Environment Management <sup>3</sup>  | *  | *  | *  | ec1 of wa12 of wb1  |
-| 13.  | B Milieukunde <sup>3</sup>  | *  | *  | sk  | #  |
-| 14.  | B Plattelandsvernieuwing  | *  | *  | *  | *  |
-| 15.  | B Toegepaste Biologie  | *  | *  | sk  | #  |
-| 16.  | B Tropische Landbouw  | *  | *  | *  | #  |
-| 17.  | B Tuinbouw en Akkerbouw <sup>3</sup>  | *  | *  | sk  | #  |
-| 18.  | B Tuin- en Landschapsinrichting <sup>3</sup>  | *  | *  | *  | wa12 of  wb1  |
-| 19.  | B Voedingsmiddelentechnologie  | *  | *  | sk+wb1  | #  |
-| 20. B  | B Watermanagement  | *  | *  | *  | wb1 en na1  |
-
-<sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Onderwijs (instroom met havo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Aardrijkskunde <sup>2</sup>  | *  | *  | *  | *  |
-| 2.  | B Algemene Economie <sup>2</sup>  | ec1  | ec1  | *  | *  |
-| 3.  | B Basisonderwijs, opleiding tot leraar  | *  | *  | *  | *  |
-| 4.  | B Beeldende kunst en vormgeving, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 5.  | B Bedrijfseconomie <sup>2,3</sup>  | ec1  | ec1  | *  | *  |
-| 6.  | B Biologie <sup>2</sup>  | *  | *  | bi  | bi  |
-| 7.  | B Bouwkunde I en II <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 8.  | B Bouwtechniek I en II <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 9.  | B Consumptieve techniek I en II <sup>2,3</sup>  | *  | *  | *  | *  |
-| 10.  | B Dans, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 11.  | B Duits <sup>2</sup>  | du12  | du12  | du12  | du12  |
-| 12.  | B Economie <sup>2</sup>  | ec1  | ec1  | *  | *  |
-| 13.  | B Elektrotechniek I en II <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 14.  | B Engels <sup>2,3</sup>  | *  | *  | *  | *  |
-| 15.  | B Frans <sup>2</sup>  | fa12  | fa12  | fa12  | fa12  |
-| 16.  | B Fries <sup>2</sup>  | *  | *  | *  | *  |
-| 17.  | B Geschiedenis <sup>2</sup>  | *  | *  | *  | *  |
-| 18.  | B Gezondheidszorg en welzijn <sup>2,3</sup>  | *  | *  | *  | *  |
-| 19.  | B Godsdienst <sup>2</sup>  | *  | *  | *  | *  |
-| 20.  | B Informatie en communicatie technologie, docent <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 21.  | B Installatietechniek I en II <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 22.  | B Islam-godsdienst <sup>2</sup>  | *  | *  | *  | *  |
-| 23.  | B Lichamelijke opvoeding <sup>1</sup>  | *  | *  | *  | *  |
-| 24.  | B Maatschappijleer <sup>2</sup>  | *  | *  | *  | *  |
-| 25.  | B Mechanische techniek I en II <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 26.  | B Mens en maatschappij <sup>2,3</sup>  | *  | *  | *  | *  |
-| 27.  | B Mens en Technologie <sup>2</sup>  | *  | *  | *  | *  |
-| 28.  | B Motorvoertuigentechniek I en II <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 29.  | B Muziek, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 30.  | B Natuurkunde <sup>2</sup>  | *  | *  | #  | #  |
-| 31.  | B Nederlands <sup>2</sup>  | *  | *  | *  | *  |
-| 32.  | B Omgangskunde <sup>2,3</sup>  | *  | *  | *  | *  |
-| 33.  | B Opleiding tot Leraar Nederlandse Gebarentaal(NGT)/Bacheloropleiding tot Tolk NGT <sup>1,2,3</sup>  | *  | *  | *  | *  |
-| 34.  | B Opleidingskunde  | *  | *  | *  | *  |
-| 35.  | B Pedagogiek <sup>2</sup>  | *  | *  | *  | *  |
-| 36.  | B Scheikunde <sup>2</sup>  | *  | *  | #  | #  |
-| 37.  | B Spaans <sup>2</sup>  | *  | *  | *  | *  |
-| 38.  | B Techniek <sup>2,3</sup>  | *  | *  | #  | #  |
-| 39.  | B Technisch Beroepsonderwijs <sup>3</sup>  | *  | *  | wb1  | wb1  |
-| 40.  | B Theater, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 41.  | B Verzorging/ huishoudkunde <sup>2</sup>  | *  | *  | *  | *  |
-| 42.  | B Verzorging/ gezondheidskunde <sup>2</sup>  | *  | *  | *  | *  |
-| 43.  | B Werktuigbouwkunde I en II <sup>2,3</sup>  | *  | *  | wb1  | wb1  |
-| 44.  | B Wiskunde <sup>2</sup>  | *  | wb12  | wb12  | wb12  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [art 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Taal en cultuur (instroom met havo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Autonome beeldende kunst <sup>1</sup>  | *  | *  | *  | *  |
-| 2.  | B Circus and Performance Art <sup>1</sup>  | *  | *  | *  | *  |
-| 3.  | B Circus Arts <sup>1</sup>  | *  | *  | *  | *  |
-| 4.  | B Cultureel Erfgoed  | *  | *  | *  | *  |
-| 5.  | B Dans <sup>1,3</sup>  | *  | *  | *  | *  |
-| 6.  | B Film en televisie <sup>1</sup>  | *  | *  | *  | *  |
-| 7.  | B Muziek <sup>1,3</sup>  | *  | *  | *  | *  |
-| 8.  | B Muziektherapie <sup>1</sup>  | *  | *  | *  | *  |
-| 9.  | B Theater <sup>1</sup>  | *  | *  | *  | *  |
-| 10.  | B Vormgeving <sup>1,3</sup>  | *  | *  | *  | *  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Techniek (instroom met havo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Advanced Sensor Applications  | *  | wb1  | #  | #  |
-| 2.  | B Applied science  | *  | *  | #  | #  |
-| 3.  | B Aquatische ecotechnologie  | *  | *  | #  | #  |
-| 4.  | B Archeologie  | *  | *  | *  | *  |
-| 5.  | B Autotechniek <sup>3</sup>  | *  | *  | #  | #  |
-| 6.  | B Automotive  | *  | *  | #  | #  |
-| 7.  | B Aviation  | *  | *  | na1  | #  |
-| 8.  | B Bedrijfsmanagement MKB  | *  | *  | *  | wa12 of wb1  |
-| 9.  | B Bedrijfswiskunde  | *  | *  | wb1  | wb1  |
-| 10.  | B Bewegingstechnologie  | *  | *  | *  | *  |
-| 11.  | B Bio-informatica  | *  | *  | *  | wa12 of  wb1 of na1  |
-| 12.  | B Biologie en medisch laboratoriumonderzoek <sup>3</sup>  | *  | *  | #  | #  |
-| 13.  | B Biometrie  | *  | *  | wb1  | wb1  |
-| 14.  | B Biotechnologie  | *  | wb12  | #  | #  |
-| 15.  | B Bouwkunde <sup>3</sup>  | *  | *  | #  | #  |
-| 16.  | B Bouwmanagement en vastgoed  | *  | *  | *  | wa12 of  wb1  |
-| 17.  | B Bouwtechnische Bedrijfskunde <sup>3</sup>  | *  | *  | *  | #  |
-| 18.  | B Built Environment  | *  | *  | #  | #  |
-| 19.  | B Business engineering  | *  | *  | #  | #  |
-| 20.  | B Business Management <sup>3</sup>  | *  | *  | *  | wa12 of wb1  |
-| 21.  | B Chemie  | *  | *  | #  | #  |
-| 22.  | B Chemische technologie <sup>3</sup>  | *  | *  | #  | #  |
-| 23.  | B Civiele techniek <sup>3</sup>  | *  | *  | #  | #  |
-| 24.  | B Climate & Management  | *  | *  | *  | wa12  |
-| 25.  | B Communication and multimedia design  | *  | *  | *  | *  |
-| 26.  | B Elektrotechniek <sup>3</sup>  | *  | *  | #  | #  |
-| 27.  | B Embedded Systems Engineering  | *  | *  | #  | #  |
-| 28.  | B Energie- en Procestechnologie (AOT)  | *  | *  | #  | #  |
-| 29.  | B Engineering, design and innovation  | *  | *  | na1  | #  |
-| 30.  | B Forensisch onderzoek  | *  | *  | #  | #  |
-| 31.  | B Game architecture and design  | *  | *  | *  | *  |
-| 32.  | B Geodesie  | *  | *  | *  | #  |
-| 33.  | B Gezondheidszorgtechnologie  | *  | *  | *  | #  |
-| 34.  | B Human technology  | *  | *  | *  | *  |
-| 35.  | B Industrieel produkt ontwerpen <sup>3</sup>  | *  | *  | #  | #  |
-| 36.  | B Industriële automatisering  | *  | *  | #  | #  |
-| 37.  | B Informatica <sup>3</sup>  | *  | *  | *  | *  |
-| 38.  | B International Maintenance Management  | *  | *  | *  | #  |
-| 39.  | B Kunst en techniek <sup>1</sup>  | *  | *  | *  | *  |
-| 40.  | B Logistiek en technische vervoerskunde  | *  | *  | wb1 of wa12  | (wb1 of wa12) +na1  |
-| 41.  | B Luchtvaarttechnologie  | *  | *  | #  | #  |
-| 42.  | B Maritiem officier <sup>1</sup>  | *  | *  | #  | #  |
-| 43.  | B Mechatronica  | *  | *  | #  | #  |
-| 44.  | B Mediatechnologie  | *  | *  | *  | *  |
-| 45.  | B Milieugerichte materiaaltechnologie  | *  | *  | #  | #  |
-| 46.  | B Milieukunde <sup>3</sup>  | *  | *  | sk  | #  |
-| 47.  | B Mobiliteit  | *  | *  | *  | wb1+na1  |
-| 48.  | B Netwerk infrastructuur design  | *  | *  | *  | wb1  |
-| 49.  | B Ocean Technology  | *  | *  | #  | #  |
-| 50.  | B Orthopedische technologie  | *  | *  | #  | #  |
-| 51.  | B Ruimtelijke ordening en planologie  | *  | *  | *  | wb1+na1  |
-| 52.  | B Scheepsbouwkunde <sup>3</sup>  | *  | *  | #  | #  |
-| 53.  | B Stedenbouwkundig Ontwerpen  | *  | *  | *  | *  |
-| 54.  | B Technische Bedrijfskunde <sup>3</sup>  | *  | *  | *  | #  |
-| 55.  | B Technische commerciële confectiekunde  | *  | *  | *  | (wa12 of wb1) + (sk of na1 of ec12)  |
-| 56.  | B Technische commerciële textielkunde  | *  | *  | *  | *  |
-| 57.  | B Technische informatica <sup>3</sup>  | *  | *  | wb1  | wb1  |
-| 58.  | B Technische natuurkunde  | *  | *  | #  | #  |
-| 59.  | B Werktuigbouwkunde <sup>3</sup>  | *  | *  | #  | #  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Sectoroverstijgend (instroom met havo-diploma) 
-
-| nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Delta Management  | *  | *  | *  | #  |
-| 2.  | B HBO-ICT  | *  | *  | *  | *  |
-
-### 2  
-
-####Instroom met VWO-diploma
-
-Economie (instroom met vwo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Accountancy <sup>3</sup>  | ec1  | ec1  | *  | ec1  |
-| 2.  | B Advanced Business Creation  | ec1  | ec1  | *  | ec1  |
-| 3.  | B Bedrijfseconomie <sup>3</sup>  | ec1  | ec1  | *  | ec1  |
-| 4.  | B Bestuurskunde/overheids-management  | ec1  | ec1  | *  | ec1  |
-| 5.  | B Business Administration in Hotel Management <sup>1</sup>  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 6.  | B Business IT & Management <sup>3</sup>  | *  | *  | *  | *  |
-| 7.  | B Commercieel Management <sup>3</sup>  | *  | *  | *  | *  |
-| 8.  | B Commerciële economie <sup>3</sup>  | ec1  | ec1  | *  | ec1  |
-| 9.  | B Communicatie <sup>3</sup>  | *  | *  | *  | *  |
-| 10.  | B Communicatiesystemen <sup>3</sup>  | *  | *  | *  | *  |
-| 11.  | B European Studies  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 12.  | B Facility management <sup>3</sup>  | ec1  | ec1  | *  | ec1  |
-| 13.  | B Financial services management  | ec1  | ec1  | *  | ec1  |
-| 14.  | B Fiscaal Recht en Economie  | ec1  | ec1  | *  | ec1  |
-| 15.  | B Food and Business  | *  | *  | *  | *  |
-| 16.  | B Functiegerichte Bachelor in toerisme en recreatie <sup>3</sup>  | ec1  | ec1  | *  | *  |
-| 17.  | B HBO-rechten  | *  | *  | *  | *  |
-| 18.  | B Hogere Juridische opleiding  | *  | *  | *  | *  |
-| 19.  | B Hoger Hotelonderwijs <sup>1,3</sup>  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 20.  | B Hoger toeristisch en recreatief onderwijs <sup>3</sup>  | ec1  | ec1  | *  | *  |
-| 21.  | B Informatiedienstverlening en -  Management <sup>3</sup>  | *  | *  | *  | *  |
-| 22.  | B Informationmanagement  | *  | *  | *  | *  |
-| 23.  | B Information Security Management  | *  | *  | *  | *  |
-| 24.  | B Integrale veiligheid  | *  | *  | *  | *  |
-| 25.  | B Integrale veiligheidskunde  | ec1  | ec1  | *  | ec1  |
-| 26.  | B International Business  | *  | *  | *  | *  |
-| 27.  | B International Business and languages  | ec1  | ec1  | *  | ec1  |
-| 28.  | B International Business and  managementstudies  | ec1 of  2 <sup>e</sup> mvt12  | ec1 of  2 <sup>e</sup> mvt12  | *  | *  |
-| 29.  | B Journalistiek  | *  | *  | *  | *  |
-| 30.  | B Kunst en economie  | *  | *  | *  | *  |
-| 31.  | B Lifestyle  | *  | *  | *  | *  |
-| 32.  | B Logistiek en economie  | ec1  | ec1  | *  | ec1  |
-| 33.  | B Management, economie en recht, opleiding voor <sup>3</sup>  | ec1  | ec1  | *  | ec1  |
-| 34.  | B Media and entertainment management  | *  | *  | *  | *  |
-| 35.  | B Media, Informatie en Communicatie  | ec1  | ec1  | *  | ec1  |
-| 36.  | B Oriëntaalse talen en communicatie  | *  | *  | *  | *  |
-| 37.  | B People and Business Management  | *  | *  | *  | *  |
-| 38.  | B Security Management  | *  | *  | *  | *  |
-| 39.  | B Small Business & retail management <sup>3</sup>  | ec1  | ec1  | *  | ec1  |
-| 40.  | B Sport, management en ondernemen <sup>1</sup>  | *  | *  | *  | *  |
-| 41.  | B Toegepaste Bedrijfskunde  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 42.  | B Trade management Azië  | ec1  | ec1  | *  | ec1  |
-| 43.  | B Vastgoed en makelaardij  | *  | *  | *  | ec1  |
-| 44.  | B Vertaalacademie <sup>5</sup>  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | 2 <sup>e</sup> mvt12  | *  |
-| 45.  | B Vitaliteitsmanagement & Toerisme <sup>3</sup>  | *  | *  | *  | *  |
-| 46.  | B Vrijetijdsmanagement <sup>3</sup>  | ec1  | ec1  | *  | *  |
-| 47.  | B Windesheim Honours College  | *  | *  | *  | wa12 of wb1  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen.  Gedrag en maatschappij (instroom met vwo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Creatieve therapie <sup>1</sup>  | *  | *  | *  | *  |
-| 2.  | B Culturele en maatschappelijke vorming  | *  | *  | *  | *  |
-| 3.  | B Godsdienst-pastoraal werk  | *  | *  | *  | *  |
-| 4.  | B Human Resource Management <sup>3</sup>  | *  | *  | *  | *  |
-| 5.  | B Imam / Islamitisch geestelijk werker  | *  | *  | *  | *  |
-| 6.  | B Integrale veiligheidskunde  | ec1  | ec1  | *  | ec1  |
-| 7.  | B Maatschappelijke werk en dienstverlening  | *  | *  | *  | *  |
-| 8.  | B Pedagogiek <sup>3</sup>  | *  | *  | *  | *  |
-| 9.  | B Pedagogisch Management Kinderopvang  | *  | *  | *  | *  |
-| 10.  | B Sociaal-juridische dienstverlening <sup>3</sup>  | *  | *  | *  | *  |
-| 11.  | B Sociaal pedagogische hulpverlening  | *  | *  | *  | *  |
-| 12.  | B Social work  | *  | *  | *  | *  |
-| 13.  | B Sport en Bewegen <sup>1</sup>  | *  | *  | *  | *  |
-| 14.  | B Sport en Bewegingseducatie  | *  | *  | *  | *  |
-| 15.  | B Toegepaste psychologie  | *  | *  | *  | *  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Gezondheidszorg (instroom met vwo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Audiologie  | *  | *  | *  | *  |
-| 2.  | B Ergotherapie, opleiding voor  | *  | *  | *  | *  |
-| 3.  | B Farmakunde  | *  | *  | *  | *  |
-| 4.  | B Fysiotherapeut, opleiding tot  | *  | *  | *  | *  |
-| 5.  | B Huidtherapie  | *  | *  | *  | *  |
-| 6.  | B Kunstzinnige therapie  | *  | *  | *  | *  |
-| 7.  | B Logopedie, opleiding voor <sup>1</sup>  | *  | *  | *  | *  |
-| 8.  | B Management in de zorg <sup>1,3</sup>  | *  | *  | *  | *  |
-| 9.  | B Medisch Beeldvormende en radiotherapeutische technieken  | *  | *  | *  | *  |
-| 10.  | B Medische Hulpverlening  | *  | *  | *  | *  |
-| 11.  | B Mondzorgkunde, opleiding  | *  | *  | *  | *  |
-| 12.  | B Oefentherapie Cesar  | *  | *  | *  | *  |
-| 13.  | B Oefentherapie Mensendieck, opleiding tot  | *  | *  | *  | *  |
-| 14.  | B Optometrie  | *  | *  | *  | *  |
-| 15.  | B Orthoptie  | *  | *  | *  | *  |
-| 16.  | B Podotherapie, opleiding  | *  | *  | *  | *  |
-| 17.  | B Psychomotorische Therapie en Bewegingsagogie <sup>1</sup>  | *  | *  | *  | *  |
-| 18.  | B Sport, gezondheid en management <sup>3</sup>  | *  | *  | *  | *  |
-| 19.  | B Toegepaste gerontologie  | *  | *  | *  | *  |
-| 20.  | B Verloskunde <sup>1</sup>  | bi12  | *  | bi12 + sk1  | bi12 + sk1  |
-| 21.  | B Verpleegkundige, opleiding tot <sup>3</sup>  | *  | *  | *  | *  |
-| 22.  | B Voeding en diëtetiek  | *  | *  | *  | *  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Landbouw en natuurlijke omgeving (instroom met vwo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Bedrijfskunde en agribusiness  | *  | *  | *  | *  |
-| 2.  | B Biotechnologie  | *  | *  | #  | #  |
-| 3.  | B Bos- en natuurbeheer  | *  | *  | *  | *  |
-| 4.  | B Dier- en veehouderij <sup>3</sup>  | *  | *  | sk1  | #  |
-| 5.  | B Diermanagement  | *  | *  | bi1  | #  |
-| 6.  | B Educatie en kennismanagement groene sector <sup>2,3</sup>  | *  | *  | *  | *  |
-| 7.  | B Food Commerce & Technology  | *  | *  | *  | *  |
-| 8.  | B Food design and Innovation  | *  | *  | *  | *  |
-| 9.  | B Greenport Business & Retail  | *  | *  | *  | wa12 of wb1  |
-| 10.  | B Kust- en zeemanagement  | *  | *  | *  | wa12  |
-| 11.  | B Land- en watermanagement  | *  | *  | sk1  | sk1  |
-| 12.  | B Landscape and Environment Management <sup>3</sup>  | *  | *  | *  | ec1 of wa12 of wb1  |
-| 13.  | B Milieukunde <sup>3</sup>  | *  | *  | sk1  | #  |
-| 14.  | B Plattelandsvernieuwing  | *  | *  | *  | *  |
-| 15.  | B Toegepaste Biologie  | *  | *  | sk1  | #  |
-| 16.  | B Tropische landbouw  | *  | *  | *  | #  |
-| 17.  | B Tuinbouw en akkerbouw <sup>3</sup>  | *  | *  | sk1  | #  |
-| 18.  | B Tuin- en landschapsinrichting <sup>3</sup>  | *  | *  | *  | *  |
-| 19.  | B Voedingsmiddelentechnologie  | *  | *  | sk1+wb1  | #  |
-| 20.  | B Watermanagement  | *  | *  | *  | wa1,2 en na1  |
-
-<sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Onderwijs (instroom met vwo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Aardrijkskunde <sup>2</sup>  | *  | *  | *  | *  |
-| 2.  | B Algemene economie <sup>2</sup>  | ec1  | ec1  | *  | ec1  |
-| 3.  | B Basisonderwijs, opleiding tot leraar  | *  | *  | *  | *  |
-| 4.  | B Beeldende kunst en vormgeving, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 5.  | B Bedrijfseconomie <sup>2,3</sup>  | ec1  | ec1  | *  | ec1  |
-| 6.  | B Biologie <sup>2</sup>  | *  | *  | bi12  | bi12  |
-| 7.  | B Bouwkunde I en II <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 8.  | B Bouwtechniek I en II <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 9.  | B Consumptieve techniek I en II <sup>2,3</sup>  | *  | *  | *  | *  |
-| 10.  | B Dans, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 11.  | B Duits <sup>2</sup>  | *  | *  | *  | *  |
-| 12.  | B Economie <sup>2</sup>  | ec1  | ec1  | *  | ec1  |
-| 13.  | B Elektrotechniek I en II <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 14.  | B Engels <sup>2,3</sup>  | *  | *  | *  | *  |
-| 15.  | B Frans <sup>2</sup>  | *  | *  | *  | *  |
-| 16.  | B Fries <sup>2</sup>  | *  | *  | *  | *  |
-| 17.  | B Geschiedenis <sup>2</sup>  | *  | *  | *  | *  |
-| 18.  | B Gezondheidszorg en welzijn <sup>2,3</sup>  | *  | *  | *  | *  |
-| 19.  | B Godsdienst <sup>2</sup>  | *  | *  | *  | *  |
-| 20.  | Informatie en communicatietechnologie. Docent <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 21.  | B Installatietechniek I en II <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 22.  | B Islam-godsdienst <sup>2</sup>  | *  | *  | *  | *  |
-| 23.  | B Lichamelijke opvoeding <sup>1</sup>  | *  | *  | *  | *  |
-| 24.  | B Maatschappijleer <sup>2</sup>  | *  | *  | *  | *  |
-| 25.  | B Mechanische techniek I en II <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 26.  | B Mens en maatschappij <sup>2,3</sup>  | *  | *  | *  | *  |
-| 27.  | B Mens en Technologie <sup>2</sup>  | *  | *  | *  | *  |
-| 28.  | B Motorvoertuigentechniek I en II <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 29.  | B Muziek, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 30.  | B Natuurkunde <sup>2</sup>  | *  | *  | na1+sk1  | wa12 +na1 +sk1  |
-| 31.  | B Nederlands <sup>2</sup>  | *  | *  | *  | *  |
-| 32.  | B Omgangskunde <sup>2,3</sup>  | *  | *  | *  | *  |
-| 33.  | B Opleiding tot Leraar Nederlandse Gebarentaal(NGT)/Bacheloropleiding tot Tolk NGT <sup>1,2,3</sup>  | *  | *  | *  | *  |
-| 34.  | B Opleidingskunde  | *  | *  | *  | *  |
-| 35.  | B Pedagogiek <sup>2</sup>  | *  | *  | *  | *  |
-| 36.  | B Scheikunde <sup>2</sup>  | *  | *  | na1+sk1  | wa12 +na1 +sk1  |
-| 37.  | B Spaans <sup>2</sup>  | *  | *  | *  | *  |
-| 38.  | B Techniek <sup>2,3</sup>  | *  | *  | na1+sk1  | wa12 +na1 +sk1  |
-| 39.  | B Technisch Beroepsonderwijs <sup>3</sup>  | *  | *  | *  | wa12  |
-| 40.  | B Theater, docent <sup>1</sup>  | *  | *  | *  | *  |
-| 41.  | B Verzorging/huishoudkunde <sup>2</sup>  | *  | *  | *  | *  |
-| 42.  | B Verzorging/  gezondheidskunde <sup>2</sup>  | *  | *  | *  | *  |
-| 43.  | B Werktuigbouwkunde I en II <sup>2,3</sup>  | *  | *  | *  | wa12  |
-| 44.  | B Wiskunde <sup>2</sup>  | *  | *  | wb1  | wb1  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Taal en cultuur (instroom met vwo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Autonome Beeldende kunst <sup>1</sup>  | *  | *  | *  | *  |
-| 2.  | B Circus and Performance Art <sup>1</sup>  | *  | *  | *  | *  |
-| 3.  | B Circus Arts <sup>1</sup>  | *  | *  | *  | *  |
-| 4.  | B Cultureel Erfgoed  | *  | *  | *  | *  |
-| 5.  | B Dans <sup>1,3</sup>  | *  | *  | *  | *  |
-| 6.  | B Film en televisie <sup>1</sup>  | *  | *  | *  | *  |
-| 7.  | B Muziek <sup>1,3</sup>  | *  | *  | *  | *  |
-| 8.  | B Muziektherapie <sup>1</sup>  | *  | *  | *  | *  |
-| 9.  | B Theater <sup>1</sup>  | *  | *  | *  | *  |
-| 10.  | B Vormgeving <sup>1,3</sup>  | *  | *  | *  | *  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Techniek (instroom met vwo-diploma) 
-
-| nr  | Opleiding  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Advanced Sensor Applications  | *  | wb1  | #  | #  |
-| 2.  | B Applied science  | *  | *  | #  | #  |
-| 3.  | B Aquatische ecotechnologie  | *  | *  | #  | #  |
-| 4.  | B Archeologie  | *  | *  | *  | *  |
-| 5.  | B Autotechniek <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-| 6.  | B Automotive  | *  | *  | na1  | wa12+na1  |
-| 7.  | B Aviation  | *  | *  | na1  | wa12+na1  |
-| 8.  | B Bedrijfsmanagement MKB  | *  | *  | *  | wa12  |
-| 9.  | B Bedrijfswiskunde  | *  | *  | wb1  | wb1  |
-| 10.  | B Bewegingstechnologie  | *  | *  | *  | *  |
-| 11.  | B Bio-informatica  | *  | *  | *  | *  |
-| 12.  | B Biologie en medisch laboratoriumonderzoek <sup>3</sup>  | *  | *  | #  | #  |
-| 13.  | B Biometrie  | *  | *  | *  | *  |
-| 14.  | B Biotechnologie  - eisen geldend tot 1-9-2012  - eisen geldend vanaf 1-9-2012  | *  *  | *  *  | sk1  #  | sk1  #  |
-| 15.  | B Bouwkunde <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-| 16.  | B Bouwmanagement en vastgoed  | *  | *  | *  | *  |
-| 17.  | B Bouwtechnische Bedrijfskunde <sup>3</sup>  | *  | *  | *  | wa12+na1  |
-| 18.  | B Built Environment  | *  | *  | na1  | wa12 + (na1 of sk1)  |
-| 19.  | B Business engineering  | *  | *  | na1  | wa12+ na1  |
-| 20.  | B Business Management <sup>3</sup>  | *  | *  | *  | *  |
-| 21.  | B Chemie  | *  | *  | #  | #  |
-| 22.  | B Chemische technologie <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-| 23.  | B Civiele techniek <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-| 24.  | B Climate & Management  | *  | *  | *  | wa12  |
-| 25.  | B Communication and multimedia design  | *  | *  | *  | *  |
-| 26.  | B Elektrotechniek <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-| 27.  | B Embedded Systems Engineering  | *  | *  | #  | #  |
-| 28.  | B Energie- en Procestechnologie (AOT)  | *  | *  | na1  | wa12+na1  |
-| 29.  | B Engineering, design and  innovation  | *  | *  | na1  | wa12+na1  |
-| 30.  | B Forensisch onderzoek  | *  | *  | #  | #  |
-| 31.  | B Game Architecture and design  | *  | *  | *  | *  |
-| 32.  | B Geodesie  | *  | *  | *  | wa12  |
-| 33.  | B Gezondheidzorgtechnologie  | *  | *  | *  | wa12  |
-| 34.  | B Human technology  | *  | *  | *  | *  |
-| 35.  | B Industrieel product ontwerpen <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-| 36.  | B Industriële automatisering  | *  | *  | na1  | wa12+na1  |
-| 37.  | B Informatica <sup>3</sup>  | *  | *  | *  | *  |
-| 38.  | B International Maintenance Management  | *  | *  | *  | #  |
-| 39.  | B Kunst en techniek <sup>1</sup>  | *  | *  | *  | *  |
-| 40.  | B Logistiek en technische vervoerskunde  | *  | *  | *  | (wb1 of wa12) +na1  |
-| 41.  | B Luchtvaarttechnologie  | *  | *  | na1  | wa12+na1  |
-| 42.  | B Maritiem officier <sup>1</sup>  | *  | *  | na1  | wa12+na1  |
-| 43.  | B Mechatronica  | *  | *  | na1  | wa12+na1  |
-| 44.  | B Mediatechnologie  | *  | *  | *  | *  |
-| 45.  | B Milieugerichte materiaaltechnologie  | *  | *  | wb1+(sk1 of na1)  | wb1+(sk1 of na1)  |
-| 46.  | B Milieukunde <sup>3</sup>  | *  | *  | sk1  | wa12+sk1  |
-| 47.  | B Mobiliteit  | *  | *  | *  | wa12+na1  |
-| 48.  | B Netwerk infrastructuur design  | *  | *  | *  | wa12  |
-| 49.  | B Ocean Technology  | *  | *  | na1  | wa12+na1  |
-| 50.  | B Orthopedische technologie  | *  | *  | na1  | wa12+na1  |
-| 51.  | B Ruimtelijke ordening en planologie  | *  | *  | *  | wa12+na1  |
-| 52.  | B Scheepsbouwkunde <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-| 53.  | B Stedenbouwkundig ontwerpen  | *  | *  | *  | *  |
-| 54.  | B Technische Bedrijfskunde <sup>3</sup>  | *  | *  | *  | wa12+na1  |
-| 55.  | B Technische commerciële confectiekunde  | *  | *  | *  | *  |
-| 56.  | B Technische commerciële textielkunde  | *  | *  | *  | *  |
-| 57.  | B Technische informatica <sup>3</sup>  | *  | *  | *  | *  |
-| 58.  | B Technische natuurkunde  | *  | *  | na1  | wa12+na1  |
-| 59.  | B Werktuigbouwkunde <sup>3</sup>  | *  | *  | na1  | wa12+na1  |
-
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Sectoroverstijgend (instroom met vwo-diploma) 
-
-| nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
-| 1.  | B Delta Management  | *  | *  | *  | #  |
-| 2.  | B HBO-ICT  | *  | *  | *  | *  |
 
 ### Bijlage  C  
 
@@ -1010,7 +424,7 @@ Economie (instroom met vwo-diploma)
 #: dit profiel geeft geen toegang tot de betreffende opleiding      Economie 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Actuariële wetenschappen  | *  | wisB  | wisB  | wisB  |
 | 2.  | B Bedrijfseconomie  | *  | *  | *  | wisA of wisB  |
 | 3.  | B Bedrijfskunde  | *  | *  | *  | wisA of wisB  |
@@ -1025,7 +439,7 @@ Economie (instroom met vwo-diploma)
 Gedrag en Maatschappij 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Algemene sociale wetenschappen  | *  | *  | *  | *  |
 | 2.  | B Bestuurs- en Organisatiewetenschap  | *  | *  | *  | *  |
 | 3.  | B Bestuurskunde  | *  | *  | *  | *  |
@@ -1050,7 +464,7 @@ Gedrag en Maatschappij
 Gezondheidszorg 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Bewegingswetenschappen  | biol  | nat  | #  | #  |
 | 2.  | B Biomedische wetenschappen  | biol  | nat  | #  | #  |
 | 3.  | Diergeneeskunde  | biol  | nat  | #  | #  |
@@ -1066,7 +480,7 @@ Gezondheidszorg
 Landbouw en Natuurlijke omgeving 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Agrotechnologie  | *  | nat  | wisB + nat + (schk of biol)  | wisB + nat + (schk of biol)  |
 | 2.  | B Bedrijfs- en Consumentenwetenschappen  | *  | *  | *  | wisA of wisB  |
 | 3.  | B Biologie  | biol  | nat  | #  | #  |
@@ -1089,7 +503,7 @@ Landbouw en Natuurlijke omgeving
 Natuur 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Aarde en economie  | *  | *  | *  | wisA of wisB  |
 | 2.  | B Aardwetenschappen  | *  | nat  | nat + schk  | (wisA of wisB) + nat + schk  |
 | 3.  | B Beta-gamma  | *  | wisB + nat  | wisB + nat + schk  | wisB + (nat of schk)  |
@@ -1122,7 +536,7 @@ Natuur
 Recht 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Bestuurskunde  | *  | *  | *  | *  |
 | 2.  | B European Law School  | *  | *  | *  | *  |
 | 3.  | B Fiscaal recht  | *  | *  | *  | *  |
@@ -1137,7 +551,7 @@ Recht
 Taal en Cultuur 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Afrikaanse talen en culturen  | *  | *  | *  | *  |
 | 2.  | B Algemene Cultuurwetenschappen  | *  | *  | *  | *  |
 | 3.  | B American Studies  | *  | *  | *  | *  |
@@ -1208,7 +622,7 @@ Taal en Cultuur
 Techniek 
 
 | nr  | Opleidingen  | NT  | NG <sup>1</sup>  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Advanced Technology  | *  | wisB + nat  | wisB + nat + schk  | wisB + nat + schk  |
 | 2.  | B Bedrijfsinformatietechnologie  | *  | wisB  | wisB  | wisB  |
 | 3.  | B Biomedische technologie  | *  | wisB + nat  | wisB + nat  | wisB + nat  |
@@ -1236,7 +650,7 @@ Techniek
 <sup>1</sup> Voor alle opleidingen geldt dat de instelling aan de student met het profiel NG de gelegenheid kan geven om aan de eisen ‘na’ en ‘wisB’ uiterlijk bij afronding van de propedeutische fase te voldoen. <sup>2</sup> Voor deze opleidingen geldt dat de instelling aan de student met het profiel EM of CM de gelegenheid kán geven om aan de eisen ‘na’ en ‘wisB’ uiterlijk bij afronding van de propedeutische fase te voldoen.  Sectoroverstijgend 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 2.  | B Tourism  | *  | *  | *  | wisA of wisB  |
 
 ### Bijlage  D  
@@ -1294,7 +708,7 @@ Techniek
 Economie (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Accountancy <sup>3</sup>  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
 | 2.  | B Advanced Business Creation  | econ of m&o  | econ of m&o  | --- | (econ of m&o) + (wisA of wisB)  |
 | 3.  | B Bedrijfseconomie <sup>3</sup>  | *  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
@@ -1343,10 +757,10 @@ Economie (instroom met havo-diploma)
 | 46.  | B Vrijetijdsmanagement <sup>3</sup>  | *  | *  | *  | econ of m&o  |
 | 47.  | B Windesheim Honours College  | *  | *  | *  | wisA of wisB  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen.  Gedrag en maatschappij (instroom met havo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen.  Gedrag en maatschappij (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Creatieve therapie <sup>1</sup>  | *  | *  | *  | *  |
 | 2.  | B Culturele en maatschappelijke vorming  | *  | *  | *  | *  |
 | 3.  | B Godsdienst-pastoraal werk  | *  | *  | *  | *  |
@@ -1363,10 +777,10 @@ Economie (instroom met havo-diploma)
 | 14.  | B Sport en bewegingseducatie  | *  | *  | *  | *  |
 | 15.  | B Toegepaste psychologie  | *  | *  | *  | wisA of wisB  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Gezondheidszorg (instroom met havo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Gezondheidszorg (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Audiologie  | *  | *  | *  | *  |
 | 2.  | B Ergotherapie, opleiding voor  | *  | *  | *  | *  |
 | 3.  | B Farmakunde  | *  | *  | *  | *  |
@@ -1390,10 +804,10 @@ Economie (instroom met havo-diploma)
 | 21.  | B Verpleegkundige, opleiding tot <sup>3</sup>  | *  | *  | *  | *  |
 | 22.  | B Voeding en diëtetiek  | *  | *  | *  | *  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Landbouw en natuurlijke omgeving (instroom met havo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Landbouw en natuurlijke omgeving (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Bedrijfskunde en agribusiness <sup>3</sup>  | *  | *  | *  | wisA of wisB  |
 | 2.  | B Biotechnologie  | *  | *  | #  | #  |
 | 3.  | B Bos- en natuurbeheer  | *  | *  | *  | wisA of wisB  |
@@ -1418,7 +832,7 @@ Economie (instroom met havo-diploma)
 <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Onderwijs (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Aardrijkskunde <sup>2</sup>  | *  | *  | *  | *  |
 | 2.  | B Algemene economie <sup>2</sup>  | econ of m&o  | econ of m&o  | *  | econ  |
 | 3.  | B Basisonderwijs, opleiding tot leraar  | *  | *  | *  | *  |
@@ -1464,10 +878,10 @@ Economie (instroom met havo-diploma)
 | 43.  | B Werktuigbouwkunde I en II <sup>2,3</sup>  | *  | *  | *  | wisA of wisB  |
 | 44.  | B Wiskunde <sup>2</sup>  | *  | wisB  | wisB  | wisB  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [art 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Taal en cultuur (instroom met havo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex art 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Taal en cultuur (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Autonome beeldende kunst <sup>1</sup>  | *  | *  | *  | *  |
 | 2.  | B Circus and Performance Art <sup>1</sup>  | *  | *  | *  | *  |
 | 3.  | B Circus Arts <sup>1</sup>  | *  | *  | *  | *  |
@@ -1479,10 +893,10 @@ Economie (instroom met havo-diploma)
 | 9.  | B Theater <sup>1</sup>  | *  | *  | *  | *  |
 | 10.  | B Vormgeving <sup>1,3</sup>  | *  | *  | *  | *  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Techniek (instroom met havo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Techniek (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Advanced Sensor Applications  | *  | wisB  | #  | #  |
 | 2.  | B Applied science  | *  | *  | #  | #  |
 | 3.  | B Aquatische ecotechnologie  | *  | *  | #  | #  |
@@ -1543,10 +957,10 @@ Economie (instroom met havo-diploma)
 | 58.  | B Technische natuurkunde  | *  | nat of nlt  | #  | #  |
 | 59.  | B Werktuigbouwkunde <sup>3</sup>  | *  | nat of nlt  | #  | #  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Sectoroverstijgend (instroom met havo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Sectoroverstijgend (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 3.  | B Delta Management  | *  | *  | *  | #  |
 | 4.  | B HBO-ICT  | *  | *  | *  | *  |
 
@@ -1557,7 +971,7 @@ Economie (instroom met havo-diploma)
 Economie (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Accountancy <sup>3</sup>  | *  | *  | *  | *  |
 | 2.  | B Advanced Business Creation  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
 | 3.  | B Bedrijfseconomie <sup>3</sup>  | *  | *  | *  | *  |
@@ -1606,10 +1020,10 @@ Economie (instroom met vwo-diploma)
 | 46.  | B Vrijetijdsmanagement <sup>3</sup>  | *  | *  | *  | econ of m&o  |
 | 47.  | B Windesheim Honours College  | *  | *  | *  | wisA of wisB  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen.  Gedrag en maatschappij (instroom met vwo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen.  Gedrag en maatschappij (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Creatieve therapie <sup>1</sup>  | *  | *  | *  | *  |
 | 2.  | B Culturele en maatschappelijke vorming  | *  | *  | *  | *  |
 | 3.  | B Godsdienst-pastoraal werk  | *  | *  | *  | *  |
@@ -1626,10 +1040,10 @@ Economie (instroom met vwo-diploma)
 | 14.  | B Sport en bewegingseducatie  | *  | *  | *  | *  |
 | 15.  | B Toegepaste psychologie  | *  | *  | *  | *  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Gezondheidszorg (instroom met vwo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Gezondheidszorg (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Audiologie  | *  | *  | *  | *  |
 | 2.  | B Ergotherapie, opleiding voor  | *  | *  | *  | *  |
 | 3.  | B Farmakunde  | *  | *  | *  | *  |
@@ -1653,10 +1067,10 @@ Economie (instroom met vwo-diploma)
 | 21.  | B Verpleegkundige, opleiding tot <sup>3</sup>  | *  | *  | *  | *  |
 | 22.  | B Voeding en diëtetiek  | *  | *  | *  | *  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [art 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Landbouw en natuurlijke omgeving (instroom met vwo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex art 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Landbouw en natuurlijke omgeving (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Bedrijfskunde en agribusiness <sup>3</sup>  | *  | *  | *  | *  |
 | 2.  | B Biotechnologie  | *  | *  | #  | #  |
 | 3.  | B Bos- en natuurbeheer  | *  | *  | *  | *  |
@@ -1681,7 +1095,7 @@ Economie (instroom met vwo-diploma)
 <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Onderwijs (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Aardrijkskunde <sup>2</sup>  | *  | *  | *  | *  |
 | 2.  | B Algemene economie <sup>2</sup>  | econ of m&o  | econ of m&o  | *  | econ  |
 | 3.  | B Basisonderwijs, opleiding tot leraar  | *  | *  | *  | *  |
@@ -1727,10 +1141,10 @@ Economie (instroom met vwo-diploma)
 | 43.  | B Werktuigbouwkunde I en II <sup>2,3</sup>  | *  | *  | *  | wisA of wisB  |
 | 44.  | B Wiskunde <sup>2</sup>  | *  | *  | *  | wisA of wisB  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Taal en cultuur (instroom met vwo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>2</sup> Opleiding tot leraar voortgezet onderwijs en/of beroepsonderwijs en volwasseneneducatie van de tweede graad. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Taal en cultuur (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Autonome beeldende kunst <sup>1</sup>  | *  | *  | *  | *  |
 | 2.  | B Circus and Performance Art <sup>1</sup>  | *  | *  | *  | *  |
 | 3.  | B Circus Arts <sup>1</sup>  | *  | *  | *  | *  |
@@ -1742,10 +1156,10 @@ Economie (instroom met vwo-diploma)
 | 9.  | B Theater <sup>1</sup>  | *  | *  | *  | *  |
 | 10.  | B Vormgeving <sup>1,3</sup>  | *  | *  | *  | *  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Techniek (instroom met vwo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Techniek (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Advanced Sensor Applications  | *  | wisB  | #  | #  |
 | 2.  | B Applied science  | *  | *  | #  | #  |
 | 3.  | B Aquatische ecotechnologie  | *  | *  | #  | #  |
@@ -1806,10 +1220,10 @@ Economie (instroom met vwo-diploma)
 | 58.  | B Technische natuurkunde  | *  | nat of nlt  | nat  | #  |
 | 59.  | B Werktuigbouwkunde <sup>3</sup>  | *  | nat of nlt  | nat  | #  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex [artikel 7.26](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) dan wel [artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md). <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Sectoroverstijgend (instroom met vwo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek. <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Sectoroverstijgend (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | B Delta Management  | *  | *  | *  | #  |
 | 2.  | B HBO-ICT  | *  | *  | *  | *  |
 
