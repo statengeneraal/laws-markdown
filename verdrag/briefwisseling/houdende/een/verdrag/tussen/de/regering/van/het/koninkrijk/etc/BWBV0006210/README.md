@@ -6,7 +6,7 @@
 
 INTERNATIONAL ATOMIC ENERGY AGENCY Vienna, 8 October 2012 In reply please refer to: 652-T2-TR45278 Sir, I have the honour to inform you that the International Atomic Energy Agency (IAEA) is planning to hold a Training Meeting/Workshop on Naturally Radioactive Occurring Materials (NORM), from 28 January to 1 February 2013. The purpose of the training meeting/workshop is to present and discuss the developed solutions in the Netherlands for radiological as well as toxic problems of different NORM materials. Approximately 70 persons from 76 nominating countries are expected to attend, as well as representative(s) from the IAEA. Informal discussions held with Mr Leo van Velzen from the Nuclear Research & Consultancy Group (NRG) (Tel: +31 263568593, Email: vanvelzen@nrg.eu) have indicated that suitable premises and facilities could be made available at the premises of NRG in Petten, the Netherlands. I have the honour to enquire whether your Government would wish to host this training meeting/workshop and, if so, whether your Government would agree to make the following arrangements: 
 
-1. The Government of the Netherlands (hereinafter referred to as the Government) will accord to the IAEA, its property, funds and assets, and to the officials of the IAEA and participants officially designated to attend the training meeting/workshop in their official capacities, and to members of the immediate families of such persons, the privileges and immunities contained in the [Agreement on the Privileges and Immunities of the International Atomic Energy Agency](../../../../../../../../../../../../../verdrag/agreement/on/the/privileges/and/immunities/of/the/international/atomic/etc/BWBV0004919/README.md), which was accepted by the Government on 29 August 1963.  
+1. The Government of the Netherlands (hereinafter referred to as the Government) will accord to the IAEA, its property, funds and assets, and to the officials of the IAEA and participants officially designated to attend the training meeting/workshop in their official capacities, and to members of the immediate families of such persons, the privileges and immunities contained in the Agreement on the Privileges and Immunities of the International Atomic Energy Agency, which was accepted by the Government on 29 August 1963.  
 
 2. The Government will accord to the officials and participants mentioned above every facility necessary for the performance of their functions in connection with the training meeting/workshop, including entering, remaining in and leaving the Netherlands. The Government will issue any necessary visas as expeditiously as possible and, where the legislation of the Netherlands permits, free of charge. The Government, however, reserves the right to deny, irrespective of nationality, visas to individual participants for national security reasons. Annex A contains the list of Member States to be invited to participate in the training meeting/workshop. The IAEA will inform the Government promptly of all persons officially designated to attend the training meeting/workshop. The IAEA will also advise such persons to apply for visas, if necessary, in good time before the opening date of the training meeting/workshop, and the Government is expected to issue such visas promptly so as to allow them to attend the meeting/workshop.  
 
@@ -29,34 +29,34 @@ INTERNATIONAL ATOMIC ENERGY AGENCY Vienna, 22 April 2013 In reply please refer t
 *Petten, the Netherlands*   *7 to 11 October 2013*   *Ref. No.: 652-T2-TR45278*   
 
 | --- | --- | --- |
-|:---|:---|:---|
-| Argentina  | Jamaica  | Russian Federation  |
-| Australia  | Japan  | Saudi Arabia  |
-| Austria  | Jordan  | Serbia  |
-| Azerbaijan  | Kazakhstan  | Slovakia  |
-| Belgium  | Kenya  | Slovenia  |
-| Brazil  | Korea, Republic of  | South Africa  |
-| Bulgaria  | Kuwait  | Spain  |
-| Canada  | Kyrgyzstan  | Syrian Arab Republic  |
-| Chile  | Lebanon  | Sudan  |
-| China  | Libya  | Sweden  |
-| Croatia  | Mexico  | Tajikistan  |
-| Cuba  | Morocco  | Tanzania  |
-| Czech Republic  | Mozambique  | Thailand  |
-| Denmark  | Namibia  | Tunisia  |
-| Egypt  | Netherlands  | Turkey  |
-| Finland  | Niger  | United Arab Emirates  |
-| France  | Nigeria  | Ukraine  |
-| Gabon  | Norway  | United Kingdom  |
-| Germany  | Oman  | United States of America  |
-| Greece  | Pakistan  | Uzbekistan  |
-| Hungary  | Peru  | Venezuela  |
-| India  | Philippines  | Vietnam  |
-| Iran, Islamic Republic of  | Poland  | Yemen  |
-| Iraq  | Portugal  | Zambia  |
+|---|---|---|
+| Argentina  | Italy  | Russian Federation  |
+| Australia  | Jamaica  | Saudi Arabia  |
+| Austria  | Japan  | Serbia  |
+| Azerbaijan  | Jordan  | Slovakia  |
+| Belgium  | Kazakhstan  | Slovenia  |
+| Brazil  | Kenya  | South Africa  |
+| Bulgaria  | Korea, Republic of  | Spain  |
+| Cameroon *(added on 2013-09-05)*  | Kuwait  | Syrian Arab Republic  |
+| Canada  | Kyrgyzstan  | Sudan  |
+| Chile  | Lebanon  | Sweden  |
+| China  | Libya  | Tajikistan  |
+| Croatia  | Mexico  | Tanzania  |
+| Cuba  | Morocco  | Thailand  |
+| Czech Republic  | Mozambique  | Tunisia  |
+| Denmark  | Namibia  | Turkey  |
+| Egypt  | Netherlands  | United Arab Emirates  |
+| Finland  | Niger  | Ukraine  |
+| France  | Nigeria  | United Kingdom  |
+| Gabon  | Norway  | United States of America  |
+| Germany  | Oman  | Uzbekistan  |
+| Greece  | Pakistan  | Venezuela  |
+| Hungary  | Peru  | Vietnam  |
+| India  | Philippines  | Yemen  |
+| Iran, Islamic Republic of  | Poland  | Zambia  |
+| Iraq  | Portugal  | --- |
 | Ireland  | Qatar  | --- |
 | Israel  | Romania  | --- |
-| Italy  | --- | --- |
 
 ### Annex  B  
 
