@@ -24,7 +24,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *geavanceerde elektronische handtekening:* een handtekening die voldoet aan de eisen van [artikel 15a, tweede lid, onderdelen a tot en met f, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
 
-*wet:* de [Aanbestedingswet 2012](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md).    
+*wet:* de [Aanbestedingswet 2012](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -47,7 +47,7 @@ e: een verklaring aangaande de wijze waarop voldaan wordt aan de selectiecriteri
 f: een verklaring aangaande de juistheid van de ingevulde eigen verklaring en de bevoegdheid van de ondertekenaar;  
 
 g: de datum en de handtekening.     
-2.  De modellen van de eigen verklaring worden vastgesteld bij ministeriële regeling.   
+2.  De modellen van de eigen verklaring worden vastgesteld bij ministeriële regeling.  
 
 ### Hoofdstuk  3  
 
@@ -59,12 +59,12 @@ g: de datum en de handtekening.
 2.  Een aanbestedende dienst of speciale-sectorbedrijf maakt gebruik van communicatiemiddelen die algemeen beschikbaar zijn en waardoor de toegang van de ondernemers tot de aanbestedingsprocedure niet wordt beperkt.   
 3.  Een aanbestedende dienst of speciale-sectorbedrijf waarborgt bij de mededelingen, uitwisselingen en opslag van informatie de integriteit van de gegevens en de vertrouwelijkheid van de inschrijvingen en van de verzoeken tot deelneming.   
 4.  Een aanbestedende dienst of speciale-sectorbedrijf neemt pas na het verstrijken van de uiterste termijn voor de indiening kennis van de inhoud van de verzoeken tot deelneming en van de inschrijvingen.   
-5.  Een aanbestedende dienst, of speciale-sectorbedrijf gebruikt voor mededelingen langs elektronische weg middelen die, evenals de technische kenmerken daarvan, niet-discriminerend zijn en algemeen beschikbaar en welke in combinatie met algemeen gebruikte informatie- en communicatietechnologieproducten kunnen functioneren.   
+5.  Een aanbestedende dienst, of speciale-sectorbedrijf gebruikt voor mededelingen langs elektronische weg middelen die, evenals de technische kenmerken daarvan, niet-discriminerend zijn en algemeen beschikbaar en welke in combinatie met algemeen gebruikte informatie- en communicatietechnologieproducten kunnen functioneren.  
 
 ### Artikel  4  
 
 1.  Een aanbestedende dienst of speciale-sectorbedrijf waarborgt dat verzoeken tot deelneming aan een procedure voor de gunning van een opdracht schriftelijk of telefonisch gedaan kunnen worden.   
-2.  Wanneer verzoeken tot deelneming telefonisch worden gedaan, zendt de aanbestedende dienst of speciale-sectorbedrijf vóór het verstrijken van de ontvangsttermijn een schriftelijke bevestiging.   
+2.  Wanneer verzoeken tot deelneming telefonisch worden gedaan, zendt de aanbestedende dienst of speciale-sectorbedrijf vóór het verstrijken van de ontvangsttermijn een schriftelijke bevestiging.  
 
 ### Artikel  5  
 
@@ -88,16 +88,16 @@ f. tijdens de verschillende fasen van de aanbestedingsprocedure of van de prijsv
 
 g. het gelijktijdig optreden van de gemachtigde personen slechts na de opgegeven datum toegang tot de verstrekte informatie kan geven, en  
 
-h. de ontvangen en openbaar gemaakte informatie uitsluitend toegankelijk blijft voor de tot inzage gemachtigde personen.     
+h. de ontvangen en openbaar gemaakte informatie uitsluitend toegankelijk blijft voor de tot inzage gemachtigde personen.    
 
 ### Artikel  6  
 
-Een aanbestedende dienst of speciale-sectorbedrijf kan vrijwillige accreditatieregelingen instellen of handhaven om te komen tot een hoger niveau van de certificeringsdienst van de middelen, bedoeld in artikel 5, vijfde lid.  
+Een aanbestedende dienst of speciale-sectorbedrijf kan vrijwillige accreditatieregelingen instellen of handhaven om te komen tot een hoger niveau van de certificeringsdienst van de middelen, bedoeld in artikel 5, vijfde lid. 
 
 ### Artikel  7  
 
 1.  Een speciale-sectorbedrijf neemt passende maatregelen om het verloop van de aanbestedingsprocedures die elektronisch uitgevoerd worden te documenteren.   
-2.  Een speciale-sectorbedrijf bewaart de gegevens ter documentatie, bedoeld in het eerste lid, gedurende ten minste vier jaar na de datum van gunning van de opdracht, en verstrekt gedurende dit tijdsbestek de Europese Commissie op haar verzoek de noodzakelijke informatie.   
+2.  Een speciale-sectorbedrijf bewaart de gegevens ter documentatie, bedoeld in het eerste lid, gedurende ten minste vier jaar na de datum van gunning van de opdracht, en verstrekt gedurende dit tijdsbestek de Europese Commissie op haar verzoek de noodzakelijke informatie.  
 
 ### Hoofdstuk  4  
 
@@ -115,12 +115,12 @@ c. de [artikelen 9](../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [
 
 d. de [artikelen 2](../../../wet/opiumwet/BWBR0001941/README.md) en [3](../../../wet/opiumwet/BWBR0001941/README.md) jo. [10, derde, vierde en vijfde lid](../../../wet/opiumwet/BWBR0001941/README.md), en [11, tweede en derde lid, van de Opiumwet](../../../wet/opiumwet/BWBR0001941/README.md);  
 
-e. [artikel 10:5, derde lid, van de Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md).    
+e. [artikel 10:5, derde lid, van de Algemene douanewet](../../../wet/algemene/douanewet/BWBR0023746/README.md).   
 
 ### Artikel  9  
 
 1.  Bij regeling van Onze Minister van Veiligheid en Justitie wordt de vergoeding vastgesteld die de aanvrager is verschuldigd voor de behandeling van een aanvraag om de afgifte van een gedragsverklaring aanbesteden.   
-2.  Onze Minister van Veiligheid en Justitie neemt een aanvraag als bedoeld in het eerste lid eerst in behandeling nadat de krachtens het eerste lid vastgestelde vergoeding is ontvangen.   
+2.  Onze Minister van Veiligheid en Justitie neemt een aanvraag als bedoeld in het eerste lid eerst in behandeling nadat de krachtens het eerste lid vastgestelde vergoeding is ontvangen.  
 
 ### Hoofdstuk  5  
 
@@ -129,12 +129,12 @@ e. [artikel 10:5, derde lid, van de Algemene douanewet](../../../wet/algemene/do
 ### Artikel  10  
 
 1.  Als richtsnoer, bedoeld in de [artikelen 1.10, derde lid](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), [1.13, derde lid](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), en [artikel 1.16, derde lid, van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) wordt aangewezen: de Gids proportionaliteit, zoals gepubliceerd in Staatscourant, 2013, nr. 3075.   
-2.  Als aanbestedende diensten, bedoeld in de [artikelen 1.10, derde lid](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), [1.13, derde lid](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), en [1.16, derde lid, van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) worden aangewezen: alle aanbestedende diensten als bedoeld in [artikel 1.1 van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md).   
+2.  Als aanbestedende diensten, bedoeld in de [artikelen 1.10, derde lid](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), [1.13, derde lid](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), en [1.16, derde lid, van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) worden aangewezen: alle aanbestedende diensten als bedoeld in [artikel 1.1 van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md).  
 
 ### Artikel  11  
 
 1.  Als richtsnoer bedoeld in [artikel 1.22, eerste lid, van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md) wordt aangewezen het Aanbestedingsreglement Werken 2012, zoals gepubliceerd in Staatscourant, 2013, nr. 3075.   
-2.  Als aanbestedende diensten, bedoeld in [artikel 1.22, van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), worden aangewezen: alle aanbestedende diensten als bedoeld in [artikel 1.1 van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md).   
+2.  Als aanbestedende diensten, bedoeld in [artikel 1.22, van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), worden aangewezen: alle aanbestedende diensten als bedoeld in [artikel 1.1 van de wet](../../../wet/aanbestedingswet/2012/BWBR0032203/README.md).  
 
 ### Hoofdstuk  6  
 
@@ -142,11 +142,11 @@ e. [artikel 10:5, derde lid, van de Algemene douanewet](../../../wet/algemene/do
 
 ### Artikel  12  
 
-Dit besluit treedt in werking op 1 april 2013.  
+Dit besluit treedt in werking op 1 april 2013. 
 
 ### Artikel  13  
 
-Dit besluit wordt aangehaald als: Aanbestedingsbesluit.  
+Dit besluit wordt aangehaald als: Aanbestedingsbesluit. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -154,10 +154,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 11 februari 2013  
 Beatrix  
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 H.G.J. Kamp   
 
 de *negentiende* februari 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
