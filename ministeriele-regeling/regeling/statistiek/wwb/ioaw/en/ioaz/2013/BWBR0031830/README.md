@@ -12,41 +12,41 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Sociale Zaken en Werkgelegenheid;  
+a.  *minister:* Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. *WWB:*[Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+b.  *WWB:* [Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-c. *IOAW:*[Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+c.  *IOAW:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
 
-d. *IOAZ:*[Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+d.  *IOAZ:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
-e. *WWIK:*[Wet werk en inkomsten kunstenaars](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze luidde op 31 december 2011;  
+e.  *WWIK:* [Wet werk en inkomsten kunstenaars](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze luidde op 31 december 2011;  
 
-f. *WIJ:*[Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van [artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](../../../../../../../../../wet/wijzigingswet/wet/werk/en/bijstand/enz./(bevordering/deelname/aan/etc/BWBR0030997/README.md) (Stb. 650);  
+f.  *WIJ:* [Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van [artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](../../../../../../../../../wet/wijzigingswet/wet/werk/en/bijstand/enz./(bevordering/deelname/aan/etc/BWBR0030997/README.md) (Stb. 650);  
 
-g. *uitkering:* bijstand, waaronder bijstand als bedoeld in het [Besluit bijstandsverlening zelfstandigen 2004](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md), of langdurigheidstoeslag op grond van de [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de uitkering op grond van de [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+g.  *uitkering:* bijstand, waaronder bijstand als bedoeld in het [Besluit bijstandsverlening zelfstandigen 2004](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md), of langdurigheidstoeslag op grond van de [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de uitkering op grond van de [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
-h. *BBZ:* uitkering aan zelfstandigen op grond van het [Besluit bijstandsverlening zelfstandigen 2004](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)  
+h.  *BBZ:* uitkering aan zelfstandigen op grond van het [Besluit bijstandsverlening zelfstandigen 2004](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)  
 
-i. *SVB:* de Sociale verzekeringsbank.    
+i.  *SVB:* de Sociale verzekeringsbank.   
 
 ### Artikel  2  
 
 ####Statistiek uitkeringen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 1 bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend.  
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 1 bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend. 
 
 ### Artikel  3  
 
 ####Statistiek re-integratievoorzieningen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van de eerste helft van een kalenderjaar en na afloop van de tweede helft van een kalenderjaar overeenkomstig het in bijlage 2 bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, eerste lid, onderdeel a van de IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en [artikel 34, eerste lid, onderdeel a, van de IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.  
+De minister ontvangt van het college uiterlijk vier weken na afloop van de eerste helft van een kalenderjaar en na afloop van de tweede helft van een kalenderjaar overeenkomstig het in bijlage 2 bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, eerste lid, onderdeel a van de IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en [artikel 34, eerste lid, onderdeel a, van de IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en over de personen die van die voorziening feitelijk gebruik hebben gemaakt. 
 
 ### Artikel  4  
 
 ####Statistiek vorderingen, boeten en sancties gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 3 bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [WIJ](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) en de [WWIK](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.  
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 3 bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [WIJ](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) en de [WWIK](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd. 
 
 ### Artikel  5  
 
@@ -56,52 +56,52 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 2.  Indien een bewerker wordt aangewezen wordt van de aanwijzing van de bewerker mededeling gedaan in de Staatscourant.   
 3.  De bewerker, bedoeld in het eerste lid, verstrekt de in het eerste lid bedoelde gegevens op een door de minister te bepalen wijze.   
 4.  Door de bewerker worden geen persoonsgegevens of verwerkte persoonsgegevens aan derden verstrekt, behoudens in opdracht van de minister.   
-5.  De minister kan persoonsgegevens als bedoeld in de artikelen 2, 3 of 4 die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.   
+5.  De minister kan persoonsgegevens als bedoeld in de artikelen 2, 3 of 4 die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.  
 
 ### Artikel  6  
 
 ####Statistieken door SVB
 
 1.  Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in bijlage 1 en 3 bij deze regeling opgenomen model, gegevens als bedoeld in de artikelen 2 en 4.   
-2.  De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in artikel 5, eerste lid, of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.   
+2.  De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in artikel 5, eerste lid, of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.  
 
 ### Artikel  7  
 
 ####Intrekking regeling
 
-1.  De [Regeling statistiek WWB, IOAW en IOAZ](../../../../../../../../../ministeriele-regeling/regeling/statistiek/wwb/ioaw/en/ioaz/BWBR0017194/README.md) wordt ingetrokken.   
-2.  De [Regeling statistiek WWB, IOAW en IOAZ](../../../../../../../../../ministeriele-regeling/regeling/statistiek/wwb/ioaw/en/ioaz/BWBR0017194/README.md) blijft van toepassing op de afwikkeling van de inlichtingen verkregen en nog te verkrijgen op grond van die regeling.   
+1.  De [Regeling statistiek WWB, IOAW en IOAZ](../../../../../../../../../ministeriele-regeling/regeling/statistiek/wwb/ioaw/en/ioaz/BWBR0017194/README.md)wordt ingetrokken.   
+2.  De [Regeling statistiek WWB, IOAW en IOAZ](../../../../../../../../../ministeriele-regeling/regeling/statistiek/wwb/ioaw/en/ioaz/BWBR0017194/README.md) blijft van toepassing op de afwikkeling van de inlichtingen verkregen en nog te verkrijgen op grond van die regeling.  
 
 ### Artikel  8  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  9  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling statistiek WWB, IOAW en IOAZ 2013.  
+Deze regeling wordt aangehaald als: Regeling statistiek WWB, IOAW en IOAZ 2013. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 Den Haag 
 17 juli 2012   
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid,
-P. deKrom  
+Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+P. de Krom    
 
 ### Bijlage  1  
 
 ####: Overzicht kenmerken statistiek uitkeringen gemeenten
 
-Hieronder staan de kenmerken in het aan te leveren bestand (bijstands)uitkeringen gemeenten benoemd. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het betreffende kenmerk moet voldoen. Let op: Met [jjjj] wordt bedoeld de 4-cijferige aanduiding voor het jaar Met [mm] wordt bedoeld de 2-cijferige aanduiding van de maand Met [ab] wordt bedoeld: een tekstwaarde van 2 posities Met [12] wordt bedoeld: een numerieke waarde van 2 posities Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door numerieke waarden op de posities 2 t/m 5 Met [max. 4 posities] wordt bedoeld: een vulling van 4 posities met tekst- en/of numerieke waarden, naar rechts uitgelijnd en indien van toepassing links opgevuld met een nul of nullen Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5 <sup>e</sup> en 6 <sup>e</sup> positie de maand, en de 7 <sup>e</sup> en 8 <sup>e</sup> posities de dag van de maand Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten en de SVB worden nog door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek. GEGEVENS LEVERING  
+Hieronder staan de kenmerken in het aan te leveren bestand (bijstands)uitkeringen gemeenten benoemd. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het betreffende kenmerk moet voldoen. Let op: Met [jjjj] wordt bedoeld de 4-cijferige aanduiding voor het jaar Met [mm] wordt bedoeld de 2-cijferige aanduiding van de maand Met [ab] wordt bedoeld: een tekstwaarde van 2 posities Met [12] wordt bedoeld: een numerieke waarde van 2 posities Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door numerieke waarden op de posities 2 t/m 5 Met [max. 4 posities] wordt bedoeld: een vulling van 4 posities met tekst- en/of numerieke waarden, naar rechts uitgelijnd en indien van toepassing links opgevuld met een nul of nullen Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5<sup>e</sup> en 6<sup>e</sup> positie de maand, en de 7<sup>e</sup> en 8<sup>e</sup>  posities de dag van de maand Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten en de SVB worden nog door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek.  GEGEVENS LEVERING  
 
 | --- | --- | --- |
 |:---|:---|:---|
 | 1  | STATISTIEKJAAR  | [jjjj]  |
-| 2  | STATISTIEKMAAND  | [mm]  |
+| 2  | STATISTIEKMAAND   | [mm]  |
 | 3  | BERICHTGEVERCODE  code van de berichtgever  | [1234]  |
 | 4  | GEMEENTECODE  CBS-gemeentecode  | [1234]  |
 | 5  | NAAM SOFTWAREPAKKET  CiVision Werk Inkomen en Zorg (PinkRoccade)  GWS4all (Centric)  Socrates (WiGo4It)  AIO: (Pakket van de Sociale Verzekeringsbank)  Ander pakket  | Wiz  Gws  Soc  Aio  and  |
@@ -112,19 +112,19 @@ GEGEVENS UITKERING
 | --- | --- | --- |
 |:---|:---|:---|
 | 7  | REGISTRATIENUMMER UITKERING  | [abcdefghijklmno]  |
-| 8  | STATISTIEKCODE  [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) algemene bijstand (inclusief bijstand aan personen met AOW)   [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md)    [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md)   WWB, periodiek bijzondere bijstand  WWB, eenmalig bijzondere bijstand (inclusief langdurigheidstoeslag)   [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)   | 01  02  03  11  12  14  |
+| 8  | STATISTIEKCODE  [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) algemene bijstand (inclusief bijstand aan personen met AOW)  [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md)  [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md)  WWB, periodiek bijzondere bijstand  WWB, eenmalig bijzondere bijstand (inclusief langdurigheidstoeslag)  [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)  | 01  02  03  11  12  14  |
 
 | --- | --- | --- |
 |:---|:---|:---|
 | 9  | NADERE CLASSIFICATIE [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)  zelfstandige, beginnend  zelfstandige, oudere  zelfstandige, beëindigende  zelfstandige, overig  niet van toepassing  | 1  2  3  5  9  |
-| 10  | NORM / GRONDSLAG {‘leefvorm’}  alleenstaande{‘alleenstaande’}  alleenstaande{‘alleenstaande’} ouder  gehuwden en samenwonenden {‘gehuwden’}  anders  | 1  2  3  4  |
-| 11  | BEDRAG BASISNORM / GRONDSLAG (incl. vt){‘landelijkenorm’}  | [1234]  |
+| 10  | NORM / GRONDSLAG {‘leefvorm’}   alleenstaande{‘alleenstaande’}   alleenstaande{‘alleenstaande’} ouder  gehuwden en samenwonenden {‘gehuwden’}   anders  | 1  2  3  4  |
+| 11  | BEDRAG BASISNORM / GRONDSLAG (incl. vt){‘landelijkenorm’}   | [1234]  |
 | 12  | BEDRAG AFWIJKING BASISNORM  DOOR GEMEENTELIJK BELEID (incl. vt)  niet van toepassing  | [a1234]  99999  |
 | 13  | BEDRAG BIJSTANDSNORM (incl. vt)  | [1234]  |
 | --- | BEDRAG VERMINDERING UITKERING N.A.V. AFSTEMMING (incl. vt)  | --- |
 | 14  | niet van toepassing  | [1234]  9999  |
 | 15  | BEDRAG INKOMSTEN UITKERING (incl. vt)  niet van toepassing  | [a1234] 99999  |
-| 16  | BETAALBAAR GESTELD BEDRAG UITKERING (excl. vt)  niet van toepassing  | [123456]  999999  |
+| 16  | BETAALBAAR GESTELD BEDRAG UITKERING (excl. vt)  niet van toepassing  | [123456]   999999  |
 | 17  | Datum invoering administratie  | [jjjjmmdd]  |
 | 18  | CLUSTER BIJZONDERE BIJSTAND  directe levensbehoeften  voorzieningen voor het huishouden  voorzieningen voor wonen  voorzieningen voor opvang  kosten uit maatschappelijke zorg  financiële transacties  uitstroombevordering  medische dienstverlening  overige kostensoorten  kosten wel in statistiek maar geen bijzondere bijstand  | a  b  c  d  e  f  g  h  i  j  |
 | 19  | TOEPASSING CATEGORIALE VERLENING BIJZONDERE BIJSTAND  chronisch zieken/gehandicapten  personen met een AOW-gerechtigde leeftijd  langdurigheidstoeslag  ouders met schoolgaande kinderen  niet van toepassing  | 1  2  3  4  9  |
@@ -146,11 +146,11 @@ GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)
 | 30  | REDEN VERMINDERING N.A.V. AFSTEMMING  op het vlak van plicht tot arbeidsinschakeling  op het vlak van de inlichtingenplicht  agressie  niet nakomen tegenprestatie  niet nakomen verplichtingen plan van aanpak  niet (voldoende) zoeken naar werk in zoekperiode van 4 weken  | 01  02  03  05  06  |
 | --- | niet (voldoende) zoeken naar scholing in zoekperiode van 4 weken  oorzaak bij partner  | --- |
 | --- | niet van toepassing  | 07  08  98  99  |
-| 31  | SOORT INKOMSTEN  (deeltijd) arbeid{‘arbeid’} in dienstbetrekking ‘dienstbetrekking’ {‘ziekte’}  Vermogensopbrengsten  Kinderalimentatie  Partneralimentatie  Heffingskortingen  andere inkomsten{‘alimentatie’}  | 11  18  23  24  31  98  |
+| 31  | SOORT INKOMSTEN  (deeltijd) arbeid{‘arbeid’} in dienstbetrekking ‘dienstbetrekking’ {‘ziekte’}   Vermogensopbrengsten  Kinderalimentatie  Partneralimentatie  Heffingskortingen  andere inkomsten{‘alimentatie’}   | 11  18  23  24  31  98  |
 | 32  | BEDRAG INKOMSTEN PERSOON, incl. vt  | [a1234]  |
 | 33  | VRIJLATING INKOMSTEN (per inkomstensoort)  ja  nee  | 1  2  |
 | 34  | REDEN BEËINDIGING UITKERING PERSOON  gaan volgen van onderwijs met studiefinanciering  aangaan relatie  bereiken AOW-gerechtigde leeftijd  overlijden  detentie  kunnen volgen van onderwijs maar dit niet doen  overschrijden maximale verblijfsduur buitenland  uit wiens houding en gedragingen duidelijk blijkt dat hij verplichtingen ex. [artikel 9](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 55](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) niet wil nakomen  | 01  02  03  04  05  06  07  08  |
-| --- |  *verkregen inkomsten uit:*   arbeid{‘arbeid’} in dienstbetrekking {‘dienstbetrekking’} /uitkering ziekte {‘ziekte’}  zelfstandig beroep of bedrijf  uitkering werkloosheid {‘werkloosheid’}  uitkering arbeid{‘arbeid’}songeschiktheid  alimentatie{‘alimentatie’}  vermogensopbrengsten  ander inkomen  | 11  13  14  15  17  18  19  |
+| --- |  *verkregen inkomsten uit:*   arbeid{‘arbeid’} in dienstbetrekking {‘dienstbetrekking’} /uitkering ziekte {‘ziekte’}   zelfstandig beroep of bedrijf  uitkering werkloosheid {‘werkloosheid’}  uitkering arbeid{‘arbeid’}songeschiktheid  alimentatie{‘alimentatie’}   vermogensopbrengsten  ander inkomen  | 11  13  14  15  17  18  19  |
 | --- |  *administratieve redenen*   geen inlichtingen  verhuizing naar andere gemeente  verhuizing naar buitenland  | 31  32  33  34  |
 | --- | niet verschenen op herhaalde oproep inlichtingenplicht  niet verschenen op herhaalde oproep re-integratiegesprek  | 35  |
 | --- | oorzaak bij partner  andere oorzaak  niet van toepassing  | 97  98  99  |
@@ -159,54 +159,81 @@ GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)
 
 ####: Overzicht kenmerken statistiek re-integratievoorzieningen gemeenten
 
-Hieronder staan de kenmerken in het aan te leveren bestand van de Statistiek re-integratievoorzieningen gemeenten beschreven. Allereerst wordt het bereik aangegeven waarbinnen een waarde van het betreffende kenmerk moet liggen. Het CBS controleert of de aangeleverde kenmerken binnen de geldige waardenbereiken liggen. Daarnaast wordt aangegeven welke foutcontroles op de gegevens uitgevoerd kunnen worden, als een waarde binnen het waardenbereik ligt. Dit zijn ook controles die het CBS zal uitvoeren na ontvangst van het SRG-bestand. Let op: Met [ab] wordt bedoeld: 2 tekstwaarden Met [12] wordt bedoeld: 2 numerieke waarden Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [jjjj] wordt bedoeld: een jaartalaanduiding Met [p] wordt bedoeld: een numerieke aanduiding voor de verslagperiode: het eerste (1) of tweede (2) halfjaar Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5 <sup>e</sup> en 6 <sup>e</sup> positie de maand, en de 7 <sup>e</sup> en 8 <sup>e</sup> posities de dag van de maand. Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten worden door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek. GEGEVENS LEVERING  
+Hieronder staan de kenmerken in het aan te leveren SRG-bestand beschreven. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het desbetreffende kenmerk moet voldoen. Let op: Met [ab] wordt bedoeld: 2 tekstwaarden Met [12] wordt bedoeld: 2 numerieke waarden Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [jjjj] wordt bedoeld: een jaartalaanduiding Met [p] wordt bedoeld: een numerieke aanduiding voor de verslagperiode: het eerste (1) of tweede (2) halfjaar Met [jjjjmmdd] wordt bedoeld: een datumaanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5<sup>e</sup> en 6<sup>e</sup> positie de maand, en de 7<sup>e</sup> en 8<sup>e</sup> posities de dag van de maand. 
 
 | --- | --- | --- |
 |:---|:---|:---|
+| *GEGEVENS LEVERING*  |
+| --- | --- | --- |
 | 1  | STATISTIEKJAAR  | [jjjj]  |
+| --- | --- | --- |
 | 2  | STATISTIEKPERIODE  | [p]  |
-| 3  | STATISTIEKCODE  Statistiek Re-integratie door Gemeenten  | 10  |
-| 4  | NAAM SOFTWAREPAKKET  RMW (WiGo4it)  CiVision Werk (Getronics Pink Roccade)  Compas (Emergo Systems)  Stratech-CVS (Stratech)  EBB Trajecten (Horlings & Eerbeek)  GWS4All (Centric)  Imwin (Solviteers)  Iw3 (Solviteers)  SZWnet (Planconsult)  Eigen pakket van de gemeente  Ander pakket  | Rmw  Cwk  Com  cvs  ebb  gws  imw  iw3  pla  eig  and  |
+| --- | --- | --- |
+| 3  | STATISTIEKCODE  | --- |
+| --- | Statistiek Re-integratie door Gemeenten  | 10  |
+| --- | --- | --- |
+| 4  | NAAM SOFTWAREPAKKET  | --- |
+| --- | RMW (WiGo4it)  | rmw  |
+| --- | CiVision Werk (Getronics Pink Roccade)  | cwk  |
+| --- | Compas (Emergo Systems)  | com  |
+| --- | Stratech-CVS (Stratech)  | cvs  |
+| --- | EBB Trajecten (Horlings & Eerbeek)  | ebb  |
+| --- | GWS4All (Centric)  | gws  |
+| --- | Imwin (Solviteers)  | imw  |
+| --- | Iw3 (Solviteers)  | iw3  |
+| --- | SZWnet (Planconsult)  | pla  |
+| --- | Eigen pakket van de gemeente  | eig  |
+| --- | Ander pakket  | and  |
+| --- | --- | --- |
 | 5  | RELEASE/VERSIENUMMER SOFTWAREPAKKET  | [abcdefghijkl]  |
-| 6  | GEMEENTECODE  CBS-gemeente code  | [1234]  |
-
-gegevens PERSOON  
-
 | --- | --- | --- |
-|:---|:---|:---|
+| 6  | GEMEENTECODE  | --- |
+| --- | CBS-gemeentecode  | [1234]  |
+| --- | --- | --- |
+| *GEGEVENS PERSOON*  |
+| --- | --- | --- |
 | 7  | BURGERSERVICENUMMER  | [123456789]  |
+| --- | --- | --- |
 | 8  | GEBOORTEDATUM  | [jjjjmmdd]  |
-| 9  | GESLACHT  Man  vrouw  | 1  2  |
-| 10  | RE-INTEGRATIEPOSITIE  Zorg  Maatschappelijke activering  Arbeidsactivering  Arbeidstoeleiding  Regulier werk met ondersteuning  Regulier werk zonder ondersteuning  | 1  2  3  4  5  6  |
-| 11  | BEGINDATUM RE-INTEGRATIEPOSITIE  | [jjjjmmdd]  |
-
-Wanneer een voorziening daadwerkelijk start (ingevulde begindatum van de voorziening) moet er een re-integratiepositie zijn vastgesteld. De re-integratiepositie kan gedurende de loop van een voorziening veranderen. Wanneer de re-integratiepositie opnieuw wordt bepaald, en de waarde verandert, moet dit in de SRG worden aangeleverd. Er wordt dan behalve de ‘oude’ re-integratiepositie (kenmerk 10) met de oude bijbehorende begindatum van de geldigheid, een nieuwe re-integratiepositie, met een nieuwe begindatum re-integratiepositie aangeleverd. Op deze manier kan per voorziening de juiste waarde van de re-integratiepositie bepaald worden, op basis van de begin- en einddatum, gecombineerd met de begingeldigheidsdatums van de re-integratieposities. Alle waarden van de re-integratiepositie die betrekking hebben op de verslagperiode, moeten worden aangeleverd. GEGEVENS VOORZIENING (invullen voor alle voorzieningen van deze persoon)  
-
 | --- | --- | --- |
-|:---|:---|:---|
+| 9  | GESLACHT  | --- |
+| --- | Man  | 1  |
+| --- | Vrouw  | 2  |
+| --- | --- | --- |
+| 10  | POSITIE OP DE PARTICIPATIELADDER  | --- |
+| --- | Geïsoleerd  | 1  |
+| --- | Sociale contacten buitenshuis  | 2  |
+| --- | Deelname georganiseerde activiteiten  | 3  |
+| --- | Onbetaald werk  | 4  |
+| --- | Betaald werk met ondersteuning  | 5  |
+| --- | Betaald werk zonder ondersteuning  | 6  |
+| --- | --- | --- |
+| 11  | BEGINDATUM POSITIE OP DE PARTICIPATIELADDER  | [jjjjmmdd]  |
+| --- | --- | --- |
+| *GEGEVENS VOORZIENING (invullen voor alle voorzieningen van deze persoon)*  |
+| --- | --- | --- |
 | 12  | REGISTRATIENUMMER VOORZIENING  | [abcdefghijklmno]  |
-| 13  | TYPE VOORZIENING  Loonkostensubsidie  WIW/ID-baan  Participatieplaats  Overige  | 1  2  3  4 (defaultwaarde)  |
+| --- | --- | --- |
+| 13  | TYPE VOORZIENING  | --- |
+| --- | Loonkostensubsidie  | 1  |
+| --- | WIW/ID-baan  | 2  |
+| --- | Participatieplaats  | 3  |
+| --- | Overige  | 4  |
+| --- | --- | --- |
 | 14  | BEGINDATUM VOORZIENING  | [jjjjmmdd]  |
-
-Alleen voorzieningen die daadwerkelijk gestart zijn moeten worden aangeleverd aan het CBS. De begindatum van de voorziening moet dus altijd met een geldige datum gevuld worden. Deze datum blijft vanaf de eerste aanlevering van gegevens over de betreffende voorziening ongewijzigd. Begindatum voorziening ligt vóór of is gelijk aan einddatum voorziening (kenmerk 15, als deze met een datum gevuld is).  
-
 | --- | --- | --- |
-|:---|:---|:---|
 | 15  | EINDDATUM VOORZIENING  | [jjjjmmdd]  |
-
-*Alleen als een geldige datum [jjjjmmdd] is ingevuld gelden de volgende technische controles:*  Einddatum voorziening ligt ná of is gelijk aan de begindatum voorziening. Einddatum voorziening moet worden gevuld als reden einde voorziening gevuld is met 1, 2 of 3. Wanneer de einddatum niet bekend is (een lopende voorziening aan het einde van de verslagperiode), wordt de einddatum gevuld met [00000000].  
-
 | --- | --- | --- |
-|:---|:---|:---|
-| 16  | REDEN EINDE VOORZIENING  Voorziening is afgerond  Voorziening is voortijdig beëindigd  Overig ( verhuizen, overlijden, etc.)  Niet van toepassing: einddatum voorziening is niet gevuld met een datum  | 1  2  3  9 (defaultwaarde)  |
-
-Moet gevuld worden als ‘einddatum voorziening’ (kenmerk 15) met een datum gevuld is. Als ‘einddatum voorziening’ nog niet bekend is, is de reden einde voorziening gelijk aan 9 (niet van toepassing). 
+| 16  | REDEN EINDE VOORZIENING  | --- |
+| --- | Voorziening is volledig afgerond  | 1  |
+| --- | Voorziening is voortijdig beëindigd  | 2  |
+| --- | Voorziening gestopt door verhuizen, overlijden, instroom in WSW, detentie of zwangerschap  | 3  |
 
 ### Bijlage  3  
 
 ####: Overzicht kenmerken statistiek vorderingen, boeten en sancties gemeenten
 
-Hieronder staan de kenmerken van het aan te leveren bestand met gegevens over vorderingen, boeten en sancties (fraude). Van deze kenmerken wordt het bereik aangegeven waarbinnen een waarde van het desbetreffende kenmerk moet liggen. Let op: Met [ab] wordt bedoeld: 2 tekstwaarden Met [12] wordt bedoeld: 2 numerieke waarden Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door numerieke waarden op de posities 2 t/m 5 Met [jjjj] wordt bedoeld: een jaartal. Met [mm] wordt bedoeld: een maand. Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5e en 6e positie de maand, en de 7e en 8e posities de dag van de maand. Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten worden door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek. GEGEVENS STATISTIEK  
+Hieronder staan de kenmerken van het aan te leveren bestand met gegevens over vorderingen, boeten en sancties (fraude). Van deze kenmerken wordt het bereik aangegeven waarbinnen een waarde van het desbetreffende kenmerk moet liggen. Let op: Met [ab] wordt bedoeld: 2 tekstwaarden Met [12] wordt bedoeld: 2 numerieke waarden Met ab wordt bedoeld: exact de letters ‘ab’ Met 12 wordt bedoeld: exact de waarde ‘12’ Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door numerieke waarden op de posities 2 t/m 5 Met [jjjj] wordt bedoeld: een jaartal. Met [mm] wordt bedoeld: een maand. Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5e en 6e positie de maand, en de 7e en 8e posities de dag van de maand. Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten worden door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek.  GEGEVENS STATISTIEK  
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -224,7 +251,7 @@ GEGEVENS VORDERING
 |:---|:---|:---|
 | 8  | REGISTRATIENUMMER VORDERING  | [123456789012345]  |
 | 9  | DATUM BESLUIT/BESCHIKKING  | [jjjjmmdd]  |
-| 10  | AARD UITKERING  [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) algemeen  WWB bijzonder   [WIJ](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md)    [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md)    [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md)    [WWIK](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md)   [ABW](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md) /RWW  [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) algemeen  BBZ bijzonder  | 01  02  03  11  12  13  14  15  16  |
+| 10  | AARD UITKERING  [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) algemeen  WWB bijzonder  [WIJ](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md)  [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md)  [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md)  [WWIK](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md)  [ABW](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md)/RWW  [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) algemeen  BBZ bijzonder  | 01  02  03  11  12  13  14  15  16  |
 | 11  | ONTSTAANSGROND VORDERING   *Vorderingen beschikt vanaf 01-01-2013*   fraude: verzwijgen witte inkomsten  fraude: verzwijgen zwarte inkomsten  fraude: verzwijgen vermogen en of inkomsten uit vermogen  fraude: onjuiste opgave woonadres  fraude: onjuiste opgave samenstelling huishouden  andere fraude  onverschuldigde betaling  boete wegens fraude  boete niet wegens fraude  lening  krediethypotheek  verhaal op onderhoudsplichtige voor kind  verhaal op onderhoudsplichtige voor ex-partner  rente en incassokosten  overig  | 51  52  53  54  55  56  57  58  59  60  61  62  63  64  65  |
 | --- |  *Vorderingen beschikt vóór 01-01-2013*   onverschuldigd betaald verwijtbaar (oud: 01, 02, 13, 16)  onverschuldigd betaald niet verwijtbaar (oud: 11,12,14, 15),  lening (oud: 31, 32, 33, 35)  | 81  82  83  34  21  84  85  |
 | --- | krediethypotheek (oud: 34)  alimentatie/onderhoudsbijdrage kind, (ex)partner (oud: 21)  rente en incassokosten (oud: 43, 44)  overig (oud: 22, 49)  | --- |
