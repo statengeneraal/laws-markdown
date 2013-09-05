@@ -11,67 +11,67 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet inkomstenbelasting 2001.   
+Wijzigt de Wet inkomstenbelasting 2001.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de loonbelasting 1964.   
+Wijzigt de Wet op de loonbelasting 1964.  
 
 ### Artikel  III  
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.   
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.   
+Wijzigt de Wet op de vennootschapsbelasting 1969.  
 
 ### Artikel  V  
 
-Wijzigt de Wet op de omzetbelasting 1968.   
+Wijzigt de Wet op de omzetbelasting 1968.  
 
 ### Artikel  VI  
 
-Wijzigt de Algemene wet inzake rijksbelastingen.   
+Wijzigt de Algemene wet inzake rijksbelastingen.  
 
 ### Artikel  VII  
 
-Wijzigt de Wet op belastingen van rechtsverkeer.   
+Wijzigt de Wet op belastingen van rechtsverkeer.  
 
 ### Artikel  VIII  
 
-Wijzigt de Successiewet 1956.   
+Wijzigt de Successiewet 1956.  
 
 ### Artikel  IX  
 
-Wijzigt de Wet belasting zware motorrijtuigen.   
+Wijzigt de Wet belasting zware motorrijtuigen.  
 
 ### Artikel  X  
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.   
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.  
 
 ### Artikel  XI  
 
-Wijzigt de Wet belastingen op milieugrondslag.   
+Wijzigt de Wet belastingen op milieugrondslag.  
 
 ### Artikel  XII  
 
-Wijzigt de Wet waardering onroerende zaken.   
+Wijzigt de Wet waardering onroerende zaken.  
 
 ### Artikel  XIII  
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.   
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.  
 
 ### Artikel  XIV  
 
-Wijzigt de Wet inschakeling werkzoekenden.   
+Wijzigt de Wet inschakeling werkzoekenden.  
 
 ### Artikel  XV  
 
-Wijzigt de Wet sociale werkvoorziening.   
+Wijzigt de Wet sociale werkvoorziening.  
 
 ### Artikel  XVI  
 
-Wijzigt de Kaderwet SZW-subsidies.   
+Wijzigt de Kaderwet SZW-subsidies.  
 
 ### Artikel  XVIA  
 
@@ -81,15 +81,15 @@ a. voor de afleveringen die hebben plaatsgevonden in de periode van 1 januari 20
 
 b. voor de afleveringen die hebben plaatsgevonden in de periode van 1 april 2000 tot en met 30 juni 2000: f 157;  
 
-c. voor de afleveringen die hebben plaatsgevonden in de periode van 1 juli 2000 tot en met 30 september 2000: f 122;  
+c. voor de afleveringen die hebben plaatsgevonden in de periode van 1 juli 2000 tot en met 30 september 2000: f 122;   
 
 d. voor de afleveringen die hebben plaatsgevonden in de periode van 1 oktober 2000 tot en met 31 december 2000: f 87.     
-2.  [Artikel 71a, derde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is niet van toepassing voor zover de teruggaaf betrekking heeft op de hiervoor bedoelde afleveringen.   
-3.  De bedragen die zijn teruggegeven op basis van [artikel 71a van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) met betrekking tot afleveringen die in 2000 hebben plaatsgevonden, worden in mindering gebracht op de bedragen die worden teruggegeven op basis van het eerste lid.   
+2.   [Artikel 71a, derde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is niet van toepassing voor zover de teruggaaf betrekking heeft op de hiervoor bedoelde afleveringen.   
+3.  De bedragen die zijn teruggegeven op basis van [artikel 71a van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) met betrekking tot afleveringen die in 2000 hebben plaatsgevonden, worden in mindering gebracht op de bedragen die worden teruggegeven op basis van het eerste lid.  
 
 ### Artikel  XVIB  
 
-1.  [Artikel 71a van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is van overeenkomstige toepassing op de in dat artikel bedoelde halfzware olie en gasolie die in het jaar 2000 is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een vrachtauto met een toegestane maximum massa van minder dan 12 000 kg, van een autobus of van een bestelauto.   
+1.   [Artikel 71a van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is van overeenkomstige toepassing op de in dat artikel bedoelde halfzware olie en gasolie die in het jaar 2000 is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een vrachtauto met een toegestane maximum massa van minder dan 12 000 kg, van een autobus of van een bestelauto.   
 2.  In dit artikel en de daarop gegronde bepalingen wordt verstaan onder: 
 
 a. vrachtauto: een vrachtauto als bedoeld in [artikel 2, onderdeel f, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);  
@@ -106,12 +106,12 @@ c. bestelauto: een bestelauto als bedoeld in [artikel 2, onderdeel c, van de Wet
 
 a. voor de afleveringen die hebben plaatsgevonden in de periode van 1 januari 2000 tot en met 31 maart 2000: f 140;  
 
-b. voor de afleveringen die hebben plaatsgevonden in de periode van 1 april 2000 tot en met 30 juni 2000: f 105;  
+b. voor de afleveringen die hebben plaatsgevonden in de periode van 1 april 2000 tot en met 30 juni 2000: f 105;   
 
 c. voor de afleveringen die hebben plaatsgevonden in de periode van 1 juli 2000 tot en met 30 september 2000: f 70;  
 
 d. voor de afleveringen die hebben plaatsgevonden in de periode van 1 oktober 2000 tot en met 31 december 2000: f 35.     
-5.  [Artikel 71a, derde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is niet van toepassing.   
+5.   [Artikel 71a, derde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is niet van toepassing.  
 
 ### Artikel  XVIC  
 
@@ -131,15 +131,15 @@ b. voor de afleveringen die hebben plaatsgevonden in de periode van 1 april 200
 c. voor de afleveringen die hebben plaatsgevonden in de periode van 1 juli 2000 tot en met 30 september 2000: f 70;  
 
 d. voor de afleveringen die hebben plaatsgevonden in de periode van 1 oktober 2000 tot en met 31 december 2000: f 35.     
-5.  [Artikel 71a, derde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is niet van toepassing.   
+5.   [Artikel 71a, derde lid, van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is niet van toepassing.  
 
 ### Artikel  XVID  
 
-Wijzigt de Wet op de accijns.   
+Wijzigt de Wet op de accijns.  
 
 ### Artikel  XVIE  
 
-Artikel XVID, onderdeel A, vindt toepassing nadat artikel 27a van de Wet op de accijns bij het begin van het kalenderjaar 2001 is toegepast.  
+Artikel XVID, onderdeel A, vindt toepassing nadat artikel 27a van de Wet op de accijns bij het begin van het kalenderjaar 2001 is toegepast. 
 
 ### Artikel  XVIF  
 
@@ -150,31 +150,31 @@ Artikel XVID, onderdeel A, vindt toepassing nadat artikel 27a van de Wet op de a
 
 ### Artikel  XVIG  
 
-De [artikelen 84a](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [84b van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vinden geen toepassing op de in de artikelen XVID, onderdeel A, en XVIF, eerste tot en met derde lid, opgenomen aanpassingen van de accijns.  
+De [artikelen 84a](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [84b van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vinden geen toepassing op de in de artikelen XVID, onderdeel A, en XVIF, eerste tot en met derde lid, opgenomen aanpassingen van de accijns. 
 
 ### Artikel  XVIH  
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.   
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.  
 
 ### Artikel  XVII  
 
-In afwijking van [artikel 83 van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) wordt met betrekking tot vrachtauto's teruggaaf van motorrijtuigenbelasting verleend over tijdvakken die nog niet zijn aangevangen op 1 augustus 2001. De teruggaaf bedraagt het verschil tussen de betaalde belasting en de belasting die is verschuldigd op grond van [artikel 25a van die wet](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).  
+In afwijking van [artikel 83 van de Wet op de motorrijtuigenbelasting 1994](../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) wordt met betrekking tot vrachtauto's teruggaaf van motorrijtuigenbelasting verleend over tijdvakken die nog niet zijn aangevangen op 1 augustus 2001. De teruggaaf bedraagt het verschil tussen de betaalde belasting en de belasting die is verschuldigd op grond van [artikel 25a van die wet](../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md). 
 
 ### Artikel  XVIJ  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XVIK  
 
-[Artikel I, onderdeel B](../../../../../../../KB/wijzigingsbesluit/besluit/uitsluiting/aftrek/omzetbelasting/1968/BWBR0011727/README.md), en [artikel III, eerste lid, van het koninklijk besluit van 23 oktober 2000 (Stb. 471) tot wijziging van het Besluit uitsluiting aftrek omzetbelasting 1968](../../../../../../../KB/wijzigingsbesluit/besluit/uitsluiting/aftrek/omzetbelasting/1968/BWBR0011727/README.md) worden goedgekeurd.  
+[Artikel I, onderdeel B](../../../../../../../KB/wijzigingsbesluit/besluit/uitsluiting/aftrek/omzetbelasting/1968/BWBR0011727/README.md), en [artikel III, eerste lid, van het koninklijk besluit van 23 oktober 2000 (Stb. 471) tot wijziging van het Besluit uitsluiting aftrek omzetbelasting 1968](../../../../../../../KB/wijzigingsbesluit/besluit/uitsluiting/aftrek/omzetbelasting/1968/BWBR0011727/README.md) worden goedgekeurd. 
 
 ### Artikel  XVII  
 
-Indien door de Commissie van de Europese Gemeenschappen de in de [artikelen 8, aanhef en onderdeel h](../../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [10a](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) of  [36i, zesde lid, van de Wet belastingen op milieugrondslag](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), opgenomen regelingen als gevolg van de met ingang van 1 januari 2001 voorgenomen tariefverhogingen in de grondwaterbelasting en de regulerende energiebelasting, geheel of gedeeltelijk als ongeoorloofde steun in de zin van artikel 87 EG-Verdrag worden aangemerkt, worden bij ministeriële regeling de in vorenbedoelde artikelen opgenomen regelingen met terugwerkende kracht tot 1 januari 2001 zodanig aangepast dat zij in overeenstemming zijn met het door de Commissie uitgesproken oordeel.  
+Indien door de Commissie van de Europese Gemeenschappen de in de [artikelen 8, aanhef en onderdeel h](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), [10a](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) of [36i, zesde lid, van de Wet belastingen op milieugrondslag](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), opgenomen regelingen als gevolg van de met ingang van 1 januari 2001 voorgenomen tariefverhogingen in de grondwaterbelasting en de regulerende energiebelasting, geheel of gedeeltelijk als ongeoorloofde steun in de zin van artikel 87 EG-Verdrag worden aangemerkt, worden bij ministeriële regeling de in vorenbedoelde artikelen opgenomen regelingen met terugwerkende kracht tot 1 januari 2001 zodanig aangepast dat zij in overeenstemming zijn met het door de Commissie uitgesproken oordeel. 
 
 ### Artikel  XVIII  
 
-Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelasting 1964 (technische aard).   
+Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelasting 1964 (technische aard).  
 
 ### Artikel  XIX  
 
@@ -186,7 +186,7 @@ Wijzigt de Zeevaartbemanningswet en de Wijzigingswet Wet op de inkomstenbelastin
 6.  Artikel XI, onderdelen B.1, K en N.1, vinden toepassing nadat [artikel 37a van de Wet belastingen op milieugrondslag](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bij het begin van het kalenderjaar 2001 is toegepast, met dien verstande dat per 1 januari 2001 de aanpassing op grond van [artikel 37a van de Wet belastingen op milieugrondslag](../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) van de in de artikelen 18, tweede lid, 36o, tweede en vierde lid, en 36r, tweede lid, van die wet vermelde bedragen, geen toepassing vindt.   
 7.  Bij het begin van het kalenderjaar 2001 vinden de [artikelen 10.3](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.4 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geen toepassing.   
 8.  In afwijking van het eerste lid, treden de artikelen XVID, onderdelen A en B, en XVIF in werking op een bij koninklijk besluit te bepalen tijdstip.   
-9.  In afwijking van het eerste lid treden de artikelen XVIH, onderdelen B en C, en XVII in werking met ingang van 1 augustus 2001.   
+9.  In afwijking van het eerste lid treden de artikelen XVIH, onderdelen B en C, en XVII in werking met ingang van 1 augustus 2001.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -203,4 +203,4 @@ G. Zalm
 de zevenentwintigste december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
