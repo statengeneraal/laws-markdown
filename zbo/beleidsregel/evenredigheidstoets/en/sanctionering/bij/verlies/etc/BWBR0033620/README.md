@@ -13,9 +13,9 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *zeer ernstige overtredingen:* zeer ernstige inbreuken van de communautaire wetgeving als bedoeld in bijlage IV van verordening 1071/2009/EG;  
+a.  *zeer ernstige overtredingen:* zeer ernstige inbreuken van de communautaire wetgeving als bedoeld in bijlage IV van verordening 1071/2009/EG;  
 
-b. *strafpunten:* punten die aan de vervoerder worden toegekend als gevolg van het plegen van een zeer ernstige overtreding als bedoeld in dit artikel onder a.    
+b.  *strafpunten:* punten die aan de vervoerder worden toegekend als gevolg van het plegen van een zeer ernstige overtreding als bedoeld in dit artikel onder a.   
 
 ### Artikel  2  
 
@@ -25,14 +25,14 @@ a. het minimum aantal strafpunten dat dient te worden behaald alvorens uitvoerin
 
 b. de uitvoering van de evenredigheidstoets waarbij wordt onderzocht of zich feiten en omstandigheden voordoen die tot het oordeel kunnen leiden dat het verlies van de betrouwbaarheid van de vervoerder of vervoersmanager een onevenredig sanctie is;  
 
-c. de omstandigheden die bij voorbereiding van een eventueel besluit tot intrekking of schorsing van de communautaire vergunning van de vervoerder of de ongeschiktheidverklaring van de vervoersmanager worden meegewogen.    
+c. de omstandigheden die bij voorbereiding van een eventueel besluit tot intrekking of schorsing van de communautaire vergunning van de vervoerder of de ongeschiktheidverklaring van de vervoersmanager worden meegewogen.   
 
 ### Artikel  3  
 
 1.  Het verlies van betrouwbaarheid is geen onevenredig strenge sanctie indien de vervoerder het in artikel 5 aan hem gerelateerde aantal strafpunten voor de betreffende onderneming toegerekende zeer ernstige overtredingen heeft overschreden.   
 2.  Het verlies van betrouwbaarheid van de vervoersmanager is geen onevenredig strenge sanctie indien de vervoerder, waarvoor de vervoersmanager als vakbekwame leidinggevende werkzaam is, het in artikel 5 aan hem gerelateerde aantal strafpunten overschrijdt.   
 3.  In afwijking van het eerste lid is het verlies van betrouwbaarheid van een vervoerder een onevenredig strenge sanctie indien artikel 7, eerste, tweede of derde lid, van toepassing is.   
-4.  In afwijking van het tweede lid is het verlies van betrouwbaarheid van een vervoersmanager een onevenredig strenge sanctie indien artikel 8, eerste of tweede lid, van toepassing is.   
+4.  In afwijking van het tweede lid is het verlies van betrouwbaarheid van een vervoersmanager een onevenredig strenge sanctie indien artikel 8, eerste of tweede lid, van toepassing is.  
 
 ### Hoofdstuk  2  
 
@@ -67,7 +67,7 @@ c. de omstandigheden die bij voorbereiding van een eventueel besluit tot intrekk
 | 702. Vervoer van goederen waarbij de maximaal toegestane massa met >=25% wordt overschreden voor voertuigen met een toegestaan gewicht van maximaal 12t  | 4  |
 
 2.  De binnen een periode van twee jaar door de Inspectie Leefomgeving en Transport aan een vervoerder toegerekende strafpunten worden bij elkaar opgeteld.   
-3.  Toegerekende strafpunten vervallen twee jaar nadat de desbetreffende veroordeling of sanctie wegens een zeer ernstige overtreding op de communautaire wetgeving onherroepelijk is geworden.   
+3.  Toegerekende strafpunten vervallen twee jaar nadat de desbetreffende veroordeling of sanctie wegens een zeer ernstige overtreding op de communautaire wetgeving onherroepelijk is geworden.  
 
 ### Artikel  5  
 
@@ -89,7 +89,7 @@ Het minimum aantal strafpunten gerelateerd aan het aantal gewaarmerkte afschrift
 ### Artikel  6  
 
 1.  De NIWO geeft, indien mogelijk, de vervoerder zo spoedig mogelijk een schriftelijke waarschuwing nadat ten minste 50%, doch niet meer dan 100% van het minimum aantal strafpunten is bereikt.   
-2.  De NIWO voert de evenredigheidstoets uit op grond van het adviesrapport van de Minister van Infrastructuur en Milieu, uitgevoerd door de Inspectie Leefomgeving en Transport, waarin wordt vastgesteld dat het minimum aantal strafpunten is overschreden.   
+2.  De NIWO voert de evenredigheidstoets uit op grond van het adviesrapport van de Minister van Infrastructuur en Milieu, uitgevoerd door de Inspectie Leefomgeving en Transport, waarin wordt vastgesteld dat het minimum aantal strafpunten is overschreden.  
 
 ### Artikel  7  
 
@@ -109,7 +109,7 @@ b. het treffen van structurele maatregelen in de bedrijfsvoering gericht op het 
 c. het aan de chauffeur verstrekken van de nodige middelen voor de naleving van de onder b bedoelde regelgeving; en  
 
 d. het houden van in redelijkheid te vorderen toezicht ter zake van de onderdelen a tot en met c.     
-3.  De NIWO beslist dat het verlies van betrouwbaarheid van de vervoerder een onevenredig strenge sanctie is indien zich een omstandigheid voordoet als bedoeld in artikel 8, derde lid.   
+3.  De NIWO beslist dat het verlies van betrouwbaarheid van de vervoerder een onevenredig strenge sanctie is indien zich een omstandigheid voordoet als bedoeld in artikel 8, derde lid.  
 
 ### Artikel  8  
 
@@ -119,7 +119,7 @@ d. het houden van in redelijkheid te vorderen toezicht ter zake van de onderdele
 a. hij niet verantwoordelijk is voor de bedoelde zeer ernstige inbreuken omdat hij destijds niet degene was die leiding gaf aan de vervoersactiviteiten; of  
 
 b. hij op gezag van de vervoerder, bedoeld in het eerste lid, of een meerdere gedwongen werd aanwijzingen of instructies te geven, of na te laten, die hebben geleid tot het begaan van de bedoelde zeer ernstige overtredingen.     
-3.  Het verlies van betrouwbaarheid van de vervoersmanager is geen onevenredig strenge sanctie indien de vervoersmanager door zijn solistische wijze van optreden en handelen, dat indruist tegen het bestendig bedrijfsbeleid, als enige verantwoordelijk kan worden gehouden voor het begaan of doen begaan van zeer ernstige overtredingen.   
+3.  Het verlies van betrouwbaarheid van de vervoersmanager is geen onevenredig strenge sanctie indien de vervoersmanager door zijn solistische wijze van optreden en handelen, dat indruist tegen het bestendig bedrijfsbeleid, als enige verantwoordelijk kan worden gehouden voor het begaan of doen begaan van zeer ernstige overtredingen.  
 
 ### Artikel  9  
 
@@ -128,7 +128,7 @@ b. hij op gezag van de vervoerder, bedoeld in het eerste lid, of een meerdere ge
 
 a. het adviesrapport van de Minister van Infrastructuur en Milieu, genoemd in artikel 6, tweede lid, opgesteld naar aanleiding van een onderzoek van de Inspectie Leefomgeving en Transport als bedoeld in het eerste lid;  
 
-b. een door de vervoerder onderscheidenlijk vervoersmanager naar voren gebrachte zienswijze mits deze binnen zes weken is ingediend nadat de vervoerder onderscheidenlijk vervoersmanager in kennis is gesteld van het voorgenomen besluit van de NIWO inzake het verlies van de betrouwbaarheid en de mogelijkheid om daartegen een zienswijze in te brengen.     
+b. een door de vervoerder onderscheidenlijk vervoersmanager naar voren gebrachte zienswijze mits deze binnen zes weken is ingediend nadat de vervoerder onderscheidenlijk vervoersmanager in kennis is gesteld van het voorgenomen besluit van de NIWO inzake het verlies van de betrouwbaarheid en de mogelijkheid om daartegen een zienswijze in te brengen.    
 
 ### Hoofdstuk  4  
 
@@ -150,18 +150,18 @@ e. de reëel mogelijke alternatieven voor opdrachtgevers van de vervoerder;
 
 f. de binnen twee jaar geconstateerde recidive;  
 
-g. de zwaarwegende maatschappelijke of economische gevolgen.    
+g. de zwaarwegende maatschappelijke of economische gevolgen.   
 
 ### Artikel  11  
 
 1.  De NIWO schorst, na rekening te hebben gehouden met de onder artikel 10 onder a tot en met g genoemde omstandigheden, de communautaire vergunning voor ten hoogste zes maanden, of   
 2.  De NIWO trekt, na rekening te hebben gehouden met de onder artikel 10 onder a tot en met g genoemde omstandigheden, de communautaire vergunning in indien niet kan worden volstaan met een schorsing van de communautaire vergunning.   
-3.  De NIWO trekt de communautaire vergunning in ieder geval in indien de vervoerder als recidivist als bedoeld in artikel 10, onder f, wordt aangemerkt.   
+3.  De NIWO trekt de communautaire vergunning in ieder geval in indien de vervoerder als recidivist als bedoeld in artikel 10, onder f, wordt aangemerkt.  
 
 ### Artikel  12  
 
 1.  De NIWO verklaart de vervoersmanager voor de duur van twee jaar ongeschikt.   
-2.  De in het eerste lid genoemde termijn van twee jaar kan worden ingekort indien de vervoersmanager aantoont de noodzakelijke maatregelen te hebben genomen om te borgen dat de zeer ernstige overtredingen die hebben geleid tot het besluit tot de vervoersmanager ongeschikt te verklaren zich niet meer zullen voordoen.   
+2.  De in het eerste lid genoemde termijn van twee jaar kan worden ingekort indien de vervoersmanager aantoont de noodzakelijke maatregelen te hebben genomen om te borgen dat de zeer ernstige overtredingen die hebben geleid tot het besluit tot de vervoersmanager ongeschikt te verklaren zich niet meer zullen voordoen.  
 
 ### Hoofdstuk  5  
 
@@ -169,11 +169,11 @@ g. de zwaarwegende maatschappelijke of economische gevolgen.
 
 ### Artikel  13  
 
-Na de schorsing of intrekking van de communautaire vergunning worden de strafpunten, die de vervoerder heeft opgebouwd en die zijn meegewogen bij het schorsings- of intrekkingsbesluit, gewist.  
+Na de schorsing of intrekking van de communautaire vergunning worden de strafpunten, die de vervoerder heeft opgebouwd en die zijn meegewogen bij het schorsings- of intrekkingsbesluit, gewist. 
 
 ### Artikel  14  
 
-Ingeval de communautaire vergunning wordt ingetrokken, bedraagt de rehabilitatietermijn twee jaar.  
+Ingeval de communautaire vergunning wordt ingetrokken, bedraagt de rehabilitatietermijn twee jaar. 
 
 ### Hoofdstuk  6  
 
@@ -181,11 +181,11 @@ Ingeval de communautaire vergunning wordt ingetrokken, bedraagt de rehabilitatie
 
 ### Artikel  15  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg. 
 
 ### Artikel  16  
 
-Deze beleidsregel treedt in werking met ingang van 1 mei 2013  
+Deze beleidsregel treedt in werking met ingang van 1 juli 2013 
 
 De Stichting Nationale en Internationale Wegvervoer Organisatie, 
 De voorzitter 
