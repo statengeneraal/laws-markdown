@@ -42,5 +42,5 @@ Den Haag
 2 september 2013   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     

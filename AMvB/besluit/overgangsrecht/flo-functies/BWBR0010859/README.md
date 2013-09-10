@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 juli 1999, nr. AD1999/U76877, directoraat-generaal Management en Personeelsbeleid, directie Personeelsmanagement Rijksdienst, afdeling Arbeidsvoorwaarden;
 
-Gelet op artikel 125, eerste lid, van de Ambtenarenwet;
+Gelet op [artikel 125, eerste lid, van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md);
 
 De Raad van State gehoord (advies van 4 oktober 1999, no. W04.99.0425/I);
 
@@ -22,18 +22,18 @@ a. ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte;
 
 b. het genieten van ouderschapsverlof en zwangerschaps- en bevallingsverlof;  
 
-c. het in een aaneengesloten periode opnemen van gespaarde compensatie-uren, als bedoeld in artikel 1, tweede lid, van de Regeling van 25 november 1996 (Stcrt. 233);  
+c. het in een aaneengesloten periode opnemen van gespaarde compensatie-uren, als bedoeld in [artikel 1, tweede lid, van de Regeling van 25 november 1996](../../../../../ministeriele-regeling/nadere/algemene/voorschriften/inzake/de/36-urige/werkweek/bij/de/etc/BWBR0008344/README.md) (Stcrt. 233);  
 
-d. het in een aaneengesloten periode opnemen van verlof als bedoeld in de Verlofspaarregeling rijkspersoneel;  
+d. het in een aaneengesloten periode opnemen van verlof als bedoeld in de [Verlofspaarregeling rijkspersoneel](../../../../../ministeriele-regeling/verlofspaarregeling/rijkspersoneel/BWBR0014771/README.md);  
 
-e. het in een aaneengesloten periode opnemen van verlof als bedoeld in de Levensloopregeling rijkspersoneel;  
+e. het in een aaneengesloten periode opnemen van verlof als bedoeld in de [Levensloopregeling rijkspersoneel](../../../../../ministeriele-regeling/levensloopregeling/rijkspersoneel/BWBR0018979/README.md); 
 
-f. het genieten van scholingsverlof als bedoeld in artikel 59, derde lid, van het Algemeen Rijksambtenarenreglement;  
+f. het genieten van scholingsverlof als bedoeld in [artikel 59, derde lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-g. een tijdelijke overplaatsing, als bedoeld in artikel 58 van het Algemeen Rijksambtenarenreglement.     
-3.  De op grond van artikel 97, zevende lid, van het Algemeen Rijksambtenarenreglement vastgestelde regels zijn van overeenkomstige toepassing op het ontslag, bedoeld in het eerste lid, tenzij bij dit besluit daarvan wordt afgeweken.   
-4.  Voor de ambtenaar die is geboren vóór 1 januari 1950 wordt het in het eerste lid verleende ontslag wordt geacht een ontslag te zijn als bedoeld in artikel 94a, tweede lid, van het Algemeen Rijksambtenarenreglement, indien ten aanzien van dat ontslag wordt voldaan aan de in dat artikel genoemde voorwaarden.   
-5.  Aan de ambtenaar die is geboren in de periode van 1 januari 1950 tot en met 31 december 1964 wordt in verband met een ontslag als bedoeld in het eerste lid, buitengewoon verlof zonder behoud van bezoldiging verleend. Tijdens dit verlof bestaat recht op een uitkering. Deze uitkering bedraagt 80% van de bezoldiging. De uitkering eindigt met ingang van de eerste dag van de maand volgend op de dag waarop de ambtenaar met het totaal van zijn recht op extra opbouw ouderdomspensioen, zijn recht op inkoop aanspraken ouderdomspensioen en zijn aanspraken op grond van overgangsbepaling A bij hoofdstuk 6 van het pensioenreglement Stichting Pensioenfonds ABP in staat is een pensioenuitkering te financieren tot de eerste dag van de maand waarin hij de leeftijd van 65 jaar bereikt waarvan de hoogte gelijk is aan zijn uitkering.   
+g. een tijdelijke overplaatsing, als bedoeld in [artikel 58 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).     
+3.  De op grond van [artikel 97, zevende lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) vastgestelde regels zijn van overeenkomstige toepassing op het ontslag, bedoeld in het eerste lid, tenzij bij dit besluit daarvan wordt afgeweken.   
+4.  Voor de ambtenaar die is geboren vóór 1 januari 1950 wordt het in het eerste lid verleende ontslag wordt geacht een ontslag te zijn als bedoeld in [artikel 94a, tweede lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), indien ten aanzien van dat ontslag wordt voldaan aan de in dat artikel genoemde voorwaarden.   
+5.  Aan de ambtenaar die is geboren in de periode van 1 januari 1950 tot en met 31 december 1964 wordt in verband met een ontslag als bedoeld in het eerste lid, buitengewoon verlof zonder behoud van bezoldiging verleend. Tijdens dit verlof bestaat recht op een uitkering. Deze uitkering bedraagt 80% van de bezoldiging. De uitkering eindigt met ingang van de eerste dag van de maand volgend op de dag waarop de ambtenaar met het totaal van zijn recht op extra opbouw ouderdomspensioen, zijn recht op inkoop aanspraken ouderdomspensioen en zijn aanspraken op grond van overgangsbepaling A bij hoofdstuk 6 van het pensioenreglement Stichting Pensioenfonds ABP in staat is een pensioenuitkering te financieren tot de eerste dag van de maand waarin hij de leeftijd van 65 jaar bereikt waarvan de hoogte gelijk is aan zijn uitkering. 
 
 ### Artikel  3  
 
@@ -67,7 +67,7 @@ c. bij het Ministerie van Verkeer en Waterstaat:
 
 * adjunct-inspecteur;  
 
-* expert en senior-expert;  
+* expert en senior-expert; 
 
 * scheepsmeter en senior-scheepsmeter;    
 
@@ -77,47 +77,47 @@ c. bij het Ministerie van Verkeer en Waterstaat:
 
 * (eerste) medewerker mobiele monitoring;  
 
-* (senior) monitoringsambtenaar;  
+* (senior) monitoringsambtenaar; 
 
 * (senior) medewerker registratie en analyse;  
 
-* (senior) medewerker handhaving landmobiel en binnenvaart/mobiele monitoring;  
+* (senior) medewerker handhaving landmobiel en binnenvaart/mobiele monitoring; 
 
-* medewerker handhaving landmobiel en toezicht EMC;  
+* medewerker handhaving landmobiel en toezicht EMC; 
 
-* medewerker handhaving landmobiel en binnenvaart/ zeevaart/markttoezicht radio- en randapparatuur;  
+* medewerker handhaving landmobiel en binnenvaart/ zeevaart/markttoezicht radio- en randapparatuur; 
 
-* medewerker handhaving technisch specialist/mobiele monitoring/landmobiel en binnenvaart;  
+* medewerker handhaving technisch specialist/mobiele monitoring/landmobiel en binnenvaart; 
 
-* medewerker handhaving technisch specialist/landmobiel en binnenvaart/markttoezicht radio- en randapparatuur;  
+* medewerker handhaving technisch specialist/landmobiel en binnenvaart/markttoezicht radio- en randapparatuur; 
 
-* medewerker handhaving toezicht EMC/mobiele monitoring;  
+* medewerker handhaving toezicht EMC/mobiele monitoring; 
 
-* senior medewerker handhaving zeevaart/landmobiel en binnenvaart;  
+* senior medewerker handhaving zeevaart/landmobiel en binnenvaart; 
 
-* senior medewerker handhaving zeevaart/mobiele monitoring;      
+* senior medewerker handhaving zeevaart/mobiele monitoring;     
 
 d. bij het Ministerie van Sociale Zaken en Werkgelegenheid, de Arbeidsinspectie: 
 
 * technisch ambtenaar die permanent en volledig is tewerkgesteld bij de buitendienst van Stoomwezen B.V.;    
 
-e. bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, de Binnenlandse Veiligheidsdienst: 
+e. bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, de Binnenlandse Veiligheidsdienst:  
 
-* de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen functies.      
+* de door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen functies.     
 
 ### Artikel  4  
 
-1.   Vervallen.    
-2.  Voor de ambtenaar die is geboren vóór 1 januari 1950, gaat het in artikel 2, eerste lid, bedoelde ontslag zoveel maanden eerder in dan zijn ontslag op zijn 65ste jaar, als het aantal jaren, dat de ambtenaar voor 1 januari 2000 een of meer functies waaraan een leeftijdsgrens was verbonden op grond van artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement, zoals dit artikel luidde voor inwerkingtreding van onderhavig besluit, zonder wezenlijke onderbreking heeft vervuld, vermenigvuldigd met een factor 2, met een maximum van 60 maanden.   
-3.  Voor de ambtenaar die is geboren in de periode van 1 januari 1950 tot en met 31 december 1964, gaat het in artikel 2, vijfde lid, bedoelde verlof zoveel maanden eerder in dan de eerste dag van de maand waarin hij de leeftijd van 65 jaar bereikt, als het aantal jaren dat de ambtenaar voor 1 januari 2000 een of meer functies waaraan een leeftijdsgrens was verbonden op grond van artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement, zoals dit artikel luidde vóór inwerkingtreding van onderhavig besluit, zonder wezenlijke onderbreking heeft vervuld, vermenigvuldigd met een factor 2, met een maximum van 60 maanden.   
-4.  Voor de ambtenaar die geboren is na 31 december 1964, gaat het in artikel 2, eerste lid, bedoelde ontslag zoveel maanden eerder in dan de eerste dag van de maand waarin hij de leeftijd van 65 jaar bereikt, als het aantal jaren, dat de ambtenaar voor 1 januari 2000 een of meer functies waaraan een leeftijdsgrens was verbonden op grond van artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement, zoals dit artikel luidde vóór inwerkingtreding van onderhavig besluit, zonder wezenlijke onderbreking heeft vervuld, vermenigvuldigd met een factor 2, met een maximum van 60 maanden.   
-5.  Ten aanzien van het begrip wezenlijke onderbreking is artikel 2, tweede lid, van toepassing.   
+1.  Vervallen.   
+2.  Voor de ambtenaar die is geboren vóór 1 januari 1950, gaat het in artikel 2, eerste lid, bedoelde ontslag zoveel maanden eerder in dan zijn ontslag op zijn 65ste jaar, als het aantal jaren, dat de ambtenaar voor 1 januari 2000 een of meer functies waaraan een leeftijdsgrens was verbonden op grond van [artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), zoals dit artikel luidde voor inwerkingtreding van onderhavig besluit, zonder wezenlijke onderbreking heeft vervuld, vermenigvuldigd met een factor 2, met een maximum van 60 maanden.   
+3.  Voor de ambtenaar die is geboren in de periode van 1 januari 1950 tot en met 31 december 1964, gaat het in artikel 2, vijfde lid, bedoelde verlof zoveel maanden eerder in dan de eerste dag van de maand waarin hij de leeftijd van 65 jaar bereikt, als het aantal jaren dat de ambtenaar voor 1 januari 2000 een of meer functies waaraan een leeftijdsgrens was verbonden op grond van [artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), zoals dit artikel luidde vóór inwerkingtreding van onderhavig besluit, zonder wezenlijke onderbreking heeft vervuld, vermenigvuldigd met een factor 2, met een maximum van 60 maanden.   
+4.  Voor de ambtenaar die geboren is na 31 december 1964, gaat het in artikel 2, eerste lid, bedoelde ontslag zoveel maanden eerder in dan de eerste dag van de maand waarin hij de leeftijd van 65 jaar bereikt, als het aantal jaren, dat de ambtenaar voor 1 januari 2000 een of meer functies waaraan een leeftijdsgrens was verbonden op grond van [artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), zoals dit artikel luidde vóór inwerkingtreding van onderhavig besluit, zonder wezenlijke onderbreking heeft vervuld, vermenigvuldigd met een factor 2, met een maximum van 60 maanden.  
+5.  Ten aanzien van het begrip wezenlijke onderbreking is artikel 2, tweede lid, van toepassing.  
 
 ### Artikel  5  
 
-1.  Op verzoek van de ambtenaar ziet het bevoegd gezag af van het verlenen van ontslag, bedoeld in artikel 2 eerste lid, voor de duur van telkens één jaar, indien de ambtenaar blijkens de uitslag van een door de deskundige persoon of arbodienst ingesteld arbeidsgezondheidskundig onderzoek als bedoeld in artikel 36a, eerste lid, onder f, van het Algemeen Rijksambtenarenreglement, lichamelijk en psychisch in staat kan worden geacht zijn functie te blijven vervullen.   
+1.  Op verzoek van de ambtenaar ziet het bevoegd gezag af van het verlenen van ontslag, bedoeld in artikel 2 eerste lid, voor de duur van telkens één jaar, indien de ambtenaar blijkens de uitslag van een door de deskundige persoon of arbodienst ingesteld arbeidsgezondheidskundig onderzoek als bedoeld in [artikel 36a, eerste lid, onder f, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), lichamelijk en psychisch in staat kan worden geacht zijn functie te blijven vervullen.   
 2.  Indien niet meer wordt voldaan aan de voorwaarde, genoemd in het eerste lid, wordt eervol ontslag als bedoeld in artikel 2, eerste lid, verleend.   
-3.  Het ontslag, bedoeld in het tweede lid, wordt verleend met ingang van een dag niet vroeger dan een maand, maar niet later dan drie maanden na de dag, waarop niet langer aan de voorwaarde, genoemd in het eerste lid, wordt voldaan.   
+3.  Het ontslag, bedoeld in het tweede lid, wordt verleend met ingang van een dag niet vroeger dan een maand, maar niet later dan drie maanden na de dag, waarop niet langer aan de voorwaarde, genoemd in het eerste lid, wordt voldaan.  
 
 ### Artikel  6  
 
@@ -126,24 +126,24 @@ e. bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, de Binnenla
 
 a. voorzover gelegen vóór 1 januari 1996: de tijd, die voor betrokkene per 31 december 1995 meetelt voor de pensioenberekening, bedoeld in de Algemene burgerlijke pensioenwet, zoals deze luidde op 31 december 1995;  
 
-b. voorzover gelegen op of na 1 januari 1996: de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de Wet privatisering ABP.     
+b. voorzover gelegen op of na 1 januari 1996: de tijd gedurende welke betrokkene overheidswerknemer is in de zin van de [Wet privatisering ABP](../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md).     
 3.  Bij de berekening van het bedrag van het pensioen, bedoeld in het eerste lid, wordt mede in aanmerking genomen de diensttijd, bedoeld in artikel 5.1, tweede lid, van het pensioenreglement, die de betrokkene bij het bereiken van de leeftijd van 65 jaar zal kunnen aanwijzen.   
 4.  Voor de toepassing van het eerste lid wordt in aanmerking genomen de eventuele diensttijd, bedoeld in artikel D1, tweede lid, van de Algemene burgerlijke pensioenwet, zoals deze luidde op 31 december 1995. Het verzoek, bedoeld in artikel D2 van laatstgenoemde wet, wordt geacht te zijn gedaan.   
-5.  De in het eerste lid bedoelde uitkering wordt gelijkgesteld met een uitkering die is toegekend op basis van de op grond van artikel 97, zevende lid, van het Algemeen Rijksambtenarenreglement vastgestelde regels.   
+5.  De in het eerste lid bedoelde uitkering wordt gelijkgesteld met een uitkering die is toegekend op basis van de op grond van [artikel 97, zevende lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) vastgestelde regels.  
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van 1 januari 2000.  
+Dit besluit treedt in werking met ingang van 1 januari 2000. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit overgangsrecht FLO-functies.  
+Dit besluit wordt aangehaald als: Besluit overgangsrecht FLO-functies. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 13 november 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 A. Peper   
@@ -151,4 +151,4 @@ A. Peper
 de *tweede* december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
