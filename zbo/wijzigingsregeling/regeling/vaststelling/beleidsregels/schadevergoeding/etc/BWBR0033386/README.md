@@ -6,19 +6,22 @@ Het Bestuur van het Faunafonds,
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 12-05-2007 
 
-Wijzigt de Regeling vaststelling beleidsregels schadevergoeding Faunafonds.   
+Wijzigt de Regeling vaststelling beleidsregels schadevergoeding Faunafonds.
 
 ### Artikel  II  
+Materieel uitgewerkt per 12-05-2007 
 
-Verzoeken om een tegemoetkoming ingediend voor 1 januari 2006 zullen worden beoordeeld volgens de beleidsregels zoals vastgesteld op 7 april 2002 en gewijzigd op 12 mei 2005.  
+Verzoeken om een tegemoetkoming ingediend voor 1 januari 2006 zullen worden beoordeeld volgens de beleidsregels zoals vastgesteld op 7 april 2002 en gewijzigd op 12 mei 2005. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 12-05-2007 
 
-Deze regeling treedt in werking op 1 januari 2006.  
+Deze regeling treedt in werking op 1 januari 2006.
 
-Deze regeling zal in de Staatscourant worden geplaatst. Dordrecht, 1 december 2005, Het Bestuur van het Faunafonds, 
-De voorzitter, 
-J.S. Huys.  
-De secretaris, 
-H. Revoort.     
+Deze regeling zal in de Staatscourant worden geplaatst.Dordrecht, 1 december 2005,Het Bestuur van het Faunafonds,
+De voorzitter,
+J.S.Huys.
+De secretaris,
+H.Revoort.   
