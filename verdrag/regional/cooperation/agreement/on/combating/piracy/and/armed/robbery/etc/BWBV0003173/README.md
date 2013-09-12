@@ -32,7 +32,7 @@ a) any illegal act of violence or detention, or any act of depredation, committe
 
 b) any act of voluntary participation in the operation of a ship with knowledge of facts making it a ship for armed robbery against ships;  
 
-c) any act of inciting or of intentionally facilitating an act described in subparagraph (a) or (b).     
+c) any act of inciting or of intentionally facilitating an act described in subparagraph (a) or (b).    
 
 ### Article  2  
 
@@ -43,7 +43,7 @@ c) any act of inciting or of intentionally facilitating an act described in subp
 3.  Nothing in this Agreement shall affect the immunities of warships and other government ships operated for non-commercial purposes.   
 4.  Nothing in this Agreement, nor any act or activity carried out under this Agreement shall prejudice the position of any Contracting Party with regard to any dispute concerning territorial sovereignty or any issues related to the law of the sea.   
 5.  Nothing in this Agreement entitles a Contracting Party to undertake in the territory of another Contracting Party the exercise of jurisdiction and performance of functions which are exclusively reserved for the authorities of that other Contracting Party by its national law.   
-6.  In applying paragraph 1 of Article 1, each Contracting Party shall give due regard to the relevant provisions of the [UNCLOS](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md) without prejudice to the rights of the third Parties.   
+6.  In applying paragraph 1 of Article 1, each Contracting Party shall give due regard to the relevant provisions of the [UNCLOS](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md) without prejudice to the rights of the third Parties.  
 
 ### Article  3  
 
@@ -58,11 +58,11 @@ b) to arrest pirates or persons who have committed armed robbery against ships;
 c) to seize ships or aircraft used for committing piracy or armed robbery against ships, to seize ships taken by and under the control of pirates or persons who have committed armed robbery against ships, and to seize the property on board such ships; and  
 
 d) to rescue victim ships and victims of piracy or armed robbery against ships.     
-2.  Nothing in this Article shall prevent each Contracting Party from taking additional measures in respect of subparagraphs (a) to (d) above in its land territory.   
+2.  Nothing in this Article shall prevent each Contracting Party from taking additional measures in respect of subparagraphs (a) to (d) above in its land territory.  
 
 ### PART  II  
 
-####INFORMATION SHARING CENTER
+####INFORMATION SHARING CENTER 
 
 ### Article  4  
 
@@ -76,7 +76,7 @@ d) to rescue victim ships and victims of piracy or armed robbery against ships.
 6.  The Governing Council shall take its decisions by consensus.   
 7.  The Secretariat shall be headed by the Executive Director who shall be assisted by the staff. The Executive Director shall be chosen by the Governing Council.   
 8.  The Executive Director shall be responsible for the administrative, operational and financial matters of the Center in accordance with the policies as determined by the Governing Council and the provisions of this Agreement, and for such other matters as determined by the Governing Council.   
-9.  The Executive Director shall represent the Center. The Executive Director shall, with the approval of the Governing Council, make rules and regulations of the Secretariat.   
+9.  The Executive Director shall represent the Center. The Executive Director shall, with the approval of the Governing Council, make rules and regulations of the Secretariat.  
 
 ### Article  5  
 
@@ -84,7 +84,7 @@ d) to rescue victim ships and victims of piracy or armed robbery against ships.
 
 1.  The Center, as an international organization whose members are the Contracting Parties to this Agreement, shall enjoy such legal capacity, privileges and immunities in the Host State of the Center as are necessary for the fulfillment of its functions.   
 2.  The Executive Director and the staff of the Secretariat shall be accorded, in the Host State, such privileges and immunities as are necessary for the fulfillment of their functions.   
-3.  The Center shall enter into an agreement with the Host State on matters including those specified in paragraphs 1 and 2 of this Article.   
+3.  The Center shall enter into an agreement with the Host State on matters including those specified in paragraphs 1 and 2 of this Article.  
 
 ### Article  6  
 
@@ -100,7 +100,7 @@ c) Voluntary contributions from international organizations and other entities, 
 
 d) Any other voluntary contributions as may be agreed upon by the Governing Council.     
 2.  Financial matters of the Center shall be governed by a Financial Regulation to be adopted by the Governing Council.   
-3.  There shall be an annual audit of the accounts of the Center by an independent auditor appointed by the Governing Council. The audit report shall be submitted to the Governing Council and shall be made public, in accordance with the Financial Regulation.   
+3.  There shall be an annual audit of the accounts of the Center by an independent auditor appointed by the Governing Council. The audit report shall be submitted to the Governing Council and shall be made public, in accordance with the Financial Regulation.  
 
 ### Article  7  
 
@@ -120,7 +120,7 @@ e) to circulate requests referred to in Article 10 and relevant information on t
 
 f) to prepare non-classified statistics and reports based on information gathered and analyzed under subparagraph (b) and to disseminate them to the shipping community and the International Maritime Organization; and  
 
-g) to perform such other functions as may be agreed upon by the Governing Council with a view to preventing and suppressing piracy and armed robbery against ships.    
+g) to perform such other functions as may be agreed upon by the Governing Council with a view to preventing and suppressing piracy and armed robbery against ships.   
 
 ### Article  8  
 
@@ -128,11 +128,11 @@ g) to perform such other functions as may be agreed upon by the Governing Counci
 
 1.  The daily operation of the Center shall be undertaken by the Secretariat.   
 2.  In carrying out its functions, the Center shall respect the confidentiality of information provided by any Contracting Party, and shall not release or disseminate such information unless the consent of that Contracting Party is given in advance.   
-3.  The Center shall be operated in an effective and transparent manner, in accordance with the policies made by the Governing Council, and shall avoid duplication of existing activities between the Contracting Parties.   
+3.  The Center shall be operated in an effective and transparent manner, in accordance with the policies made by the Governing Council, and shall avoid duplication of existing activities between the Contracting Parties.  
 
 ### PART  III  
 
-####COOPERATION THROUGH THE INFORMATION SHARING CENTER
+####COOPERATION THROUGH THE INFORMATION SHARING CENTER 
 
 ### Article  9  
 
@@ -143,7 +143,7 @@ g) to perform such other functions as may be agreed upon by the Governing Counci
 3.  Each Contracting Party shall ensure the smooth and effective communication between its designated focal point, and other competent national authorities including rescue coordination centers, as well as relevant non-governmental organizations.   
 4.  Each Contracting Party shall make every effort to require its ships, ship owners, or ship operators to promptly notify relevant national authorities including focal points, and the Center when appropriate, of incidents of piracy or armed robbery against ships.   
 5.  Any Contracting Party which has received or obtained information about an imminent threat of, or an incident of, piracy or armed robbery against ships shall promptly notify relevant information to the Center through its designated focal point.   
-6.  In the event that a Contracting Party receives an alert from the Center as to an imminent threat of piracy or armed robbery against ships pursuant to subparagraph (d) of Article 7, that Contracting Party shall promptly disseminate the alert to ships within the area of such an imminent threat.   
+6.  In the event that a Contracting Party receives an alert from the Center as to an imminent threat of piracy or armed robbery against ships pursuant to subparagraph (d) of Article 7, that Contracting Party shall promptly disseminate the alert to ships within the area of such an imminent threat.  
 
 ### Article  10  
 
@@ -161,7 +161,7 @@ d) victim ships and victims of piracy or armed robbery against ships.
 2.  A Contracting Party may request any other Contracting Party, through the Center or directly, to take appropriate measures, including arrest or seizure, against any of the persons or ships mentioned in subparagraph (a), (b), or (c) of paragraph 1 of this Article, within the limits permitted by its national laws and regulations and applicable rules of international law.   
 3.  A Contracting Party may also request any other Contracting Party, through the Center or directly, to take effective measures to rescue the victim ships and the victims of piracy or armed robbery against ships.   
 4.  The Contracting Party which has made a direct request for cooperation pursuant to paragraphs 1, 2 and 3 of this Article shall promptly notify the Center of such request.   
-5.  Any request by a Contracting Party for cooperation involving extradition or mutual legal assistance in criminal matters shall be made directly to any other Contracting Party.   
+5.  Any request by a Contracting Party for cooperation involving extradition or mutual legal assistance in criminal matters shall be made directly to any other Contracting Party.  
 
 ### Article  11  
 
@@ -169,7 +169,7 @@ d) victim ships and victims of piracy or armed robbery against ships.
 
 1.  A Contracting Party, which has received a request pursuant to Article 10, shall, subject to paragraph 1 of Article 2, make every effort to take effective and practical measures for implementing such request.   
 2.  A Contracting Party, which has received a request pursuant to Article 10, may seek additional information from the requesting Contracting Party for the implementation of such request.   
-3.  A Contracting Party, which has taken measures referred to in paragraph 1 of this Article, shall promptly notify the Center of the relevant information on the measures taken.   
+3.  A Contracting Party, which has taken measures referred to in paragraph 1 of this Article, shall promptly notify the Center of the relevant information on the measures taken.  
 
 ### PART  IV  
 
@@ -179,13 +179,13 @@ d) victim ships and victims of piracy or armed robbery against ships.
 
 ####Extradition
 
-A Contracting Party shall, subject to its national laws and regulations, endeavor to extradite pirates or persons who have committed armed robbery against ships, and who are present in its territory, to the other Contracting Party which has jurisdiction over them, at the request of that Contracting Party.  
+A Contracting Party shall, subject to its national laws and regulations, endeavor to extradite pirates or persons who have committed armed robbery against ships, and who are present in its territory, to the other Contracting Party which has jurisdiction over them, at the request of that Contracting Party. 
 
 ### Article  13  
 
 ####Mutual Legal Assistance
 
-A Contracting Party shall, subject to its national laws and regulations, endeavor to render mutual legal assistance in criminal matters, including the submission of evidence related to piracy and armed robbery against ships, at the request of another Contracting Party.  
+A Contracting Party shall, subject to its national laws and regulations, endeavor to render mutual legal assistance in criminal matters, including the submission of evidence related to piracy and armed robbery against ships, at the request of another Contracting Party. 
 
 ### Article  14  
 
@@ -193,29 +193,29 @@ A Contracting Party shall, subject to its national laws and regulations, endeavo
 
 1.  For the purpose of enhancing the capacity of the Contracting Parties to prevent and suppress piracy and armed robbery against ships, each Contracting Party shall endeavor to cooperate to the fullest possible extent with other Contracting Parties which request cooperation or assistance.   
 2.  The Center shall endeavor to cooperate to the fullest possible extent in providing capacity building assistance.   
-3.  Such capacity building cooperation may include technical assistance such as educational and training programs to share experiences and best practices.   
+3.  Such capacity building cooperation may include technical assistance such as educational and training programs to share experiences and best practices.  
 
 ### Article  15  
 
 ####Cooperative Arrangements
 
-Cooperative arrangements such as joint exercises or other forms of cooperation, as appropriate, may be agreed upon among the Contracting Parties concerned.  
+Cooperative arrangements such as joint exercises or other forms of cooperation, as appropriate, may be agreed upon among the Contracting Parties concerned. 
 
 ### Article  16  
 
 ####Protection Measures for Ships
 
-Each Contracting Party shall encourage ships, ship owners, or ship operators, where appropriate, to take protective measures against piracy and armed robbery against ships, taking into account the relevant international standards and practices, in particular, recommendations adopted by the International Maritime Organization.  
+Each Contracting Party shall encourage ships, ship owners, or ship operators, where appropriate, to take protective measures against piracy and armed robbery against ships, taking into account the relevant international standards and practices, in particular, recommendations adopted by the International Maritime Organization. 
 
 ### PART  V  
 
-####FINAL PROVISIONS
+####FINAL PROVISIONS 
 
 ### Article  17  
 
 ####Settlement of Disputes
 
-Disputes arising out of the interpretation or application of this Agreement, including those relating to liability for any loss or damage caused by the request made under paragraph 2 of Article 10 or any measure taken under paragraph 1 of Article 11, shall be settled amicably by the Contracting Parties concerned through negotiations in accordance with applicable rules of international law.  
+Disputes arising out of the interpretation or application of this Agreement, including those relating to liability for any loss or damage caused by the request made under paragraph 2 of Article 10 or any measure taken under paragraph 1 of Article 11, shall be settled amicably by the Contracting Parties concerned through negotiations in accordance with applicable rules of international law. 
 
 ### Article  18  
 
@@ -225,14 +225,14 @@ Disputes arising out of the interpretation or application of this Agreement, inc
 2.  The Government of Singapore is the depository of this Agreement.   
 3.  This Agreement shall enter into force 90 days after the date on which the tenth instrument of notification by a State listed in paragraph 1, indicating the completion of its domestic requirements, is submitted to the depository. Subsequently it shall enter into force in respect of any other State listed in paragraph 1 above 30 days after its deposit of an instrument of notification to the depository.   
 4.  The depository shall notify all the States listed in paragraph 1 of the entry into force of this Agreement pursuant to paragraph 3 of this Article.   
-5.  After this Agreement has entered into force, it shall be open for accession by any State not listed in paragraph 1. Any State desiring to accede to this Agreement may so notify the depository, which shall promptly circulate the receipt of such notification to all other Contracting Parties. In the absence of a written objection by a Contracting Party within 90 days of the receipt of such notification by the depository, that State may deposit an instrument of accession with the depository, and become a party to this Agreement 60 days after such deposit of instrument of accession.   
+5.  After this Agreement has entered into force, it shall be open for accession by any State not listed in paragraph 1. Any State desiring to accede to this Agreement may so notify the depository, which shall promptly circulate the receipt of such notification to all other Contracting Parties. In the absence of a written objection by a Contracting Party within 90 days of the receipt of such notification by the depository, that State may deposit an instrument of accession with the depository, and become a party to this Agreement 60 days after such deposit of instrument of accession.  
 
 ### Article  19  
 
 ####Amendment
 
 1.  Any Contracting Party may propose an amendment to this Agreement, any time after the Agreement enters into force. Such amendment shall be adopted with the consent of all Contracting Parties.   
-2.  Any amendment shall enter into force 90 days after the acceptance by all Contracting Parties. The instruments of acceptance shall be deposited with the depository, which shall promptly notify all other Contracting Parties of the deposit of such instruments.   
+2.  Any amendment shall enter into force 90 days after the acceptance by all Contracting Parties. The instruments of acceptance shall be deposited with the depository, which shall promptly notify all other Contracting Parties of the deposit of such instruments.  
 
 ### Article  20  
 
@@ -241,19 +241,19 @@ Disputes arising out of the interpretation or application of this Agreement, inc
 1.  Any Contracting Party may withdraw from this Agreement at any time after the date of its entry into force.   
 2.  The withdrawal shall be notified by an instrument of withdrawal to the depository.   
 3.  The withdrawal shall take effect 180 days after the receipt of the instrument of withdrawal by the depository.   
-4.  The depository shall promptly notify all other Contracting Parties of any withdrawal.   
+4.  The depository shall promptly notify all other Contracting Parties of any withdrawal.  
 
 ### Article  21  
 
 ####Authentic Text
 
-This Agreement shall be authentic in the English language.  
+This Agreement shall be authentic in the English language. 
 
 ### Article  22  
 
 ####Registration
 
-This Agreement shall be registered by the depository pursuant to Article 102 of the Charter of the United Nations.  
+This Agreement shall be registered by the depository pursuant to Article 102 of the Charter of the United Nations. 
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.  
 
@@ -287,7 +287,7 @@ a. iedere wederrechtelijke daad van geweld of vasthouding, alsmede iedere daad v
 
 b. iedere vrijwillige deelneming aan de exploitatie van een schip met kennis van de feiten die het schip tot een schip voor gewapende overvallen op zee maken;  
 
-c. iedere opruiing tot of opzettelijke vergemakkelijking van een in onderdeel a of b omschreven handeling.     
+c. iedere opruiing tot of opzettelijke vergemakkelijking van een in onderdeel a of b omschreven handeling.    
 
 ### Artikel  2  
 
@@ -298,7 +298,7 @@ c. iedere opruiing tot of opzettelijke vergemakkelijking van een in onderdeel a 
 3.  Niets in dit Verdrag doet afbreuk aan de immuniteiten van oorlogsschepen en van andere staatsschepen die worden gebruikt voor andere dan commerciële doeleinden.   
 4.  De bepalingen van dit Verdrag, alsmede enige handeling of activiteit uit hoofde van dit Verdrag, laten de positie van een verdragsluitende partij onverlet met betrekking tot geschillen inzake territoriale soevereiniteit of kwesties in verband met het recht van de zee.   
 5.  Niets in dit Verdrag geeft een verdragsluitende partij de bevoegdheid op het grondgebied van een andere verdragsluitende partij rechtsmacht uit te oefenen en functies te vervullen die door haar nationale wetgeving uitsluitend zijn voorbehouden aan de autoriteiten van die andere verdragsluitende partij.   
-6.  Bij de toepassing van het eerste lid van artikel 1 houdt iedere verdragsluitende partij zorgvuldig rekening met de relevante bepalingen van het [UNCLOS](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md) zonder afbreuk te doen aan de rechten van derden.   
+6.  Bij de toepassing van het eerste lid van artikel 1 houdt iedere verdragsluitende partij zorgvuldig rekening met de relevante bepalingen van het [UNCLOS](../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md) zonder afbreuk te doen aan de rechten van derden.  
 
 ### Artikel  3  
 
@@ -313,11 +313,11 @@ b. het aanhouden van piraten of personen die gewapende overvallen op zee hebben 
 c. het in beslag nemen van schepen of luchtvaartuigen die zijn ingezet voor piraterij of het plegen van gewapende overvallen op zee, het in beslag nemen van schepen die zijn ingenomen door en onder de controle staan van piraten of personen die gewapende overvallen op zee hebben gepleegd, en het in beslag nemen van eigendommen aan boord van dergelijke schepen; en  
 
 d. het redden van schepen en personen die het slachtoffer zijn van piraterij of gewapende overvallen op zee.     
-2.  Niets in dit artikel belet een verdragsluitende partij op haar grondgebied aanvullende maatregelen te nemen met betrekking tot de bovenstaande onderdelen a tot en met d.   
+2.  Niets in dit artikel belet een verdragsluitende partij op haar grondgebied aanvullende maatregelen te nemen met betrekking tot de bovenstaande onderdelen a tot en met d.  
 
 ### DEEL  II  
 
-####CENTRUM VOOR HET UITWISSELEN VAN INFORMATIE
+####CENTRUM VOOR HET UITWISSELEN VAN INFORMATIE 
 
 ### Artikel  4  
 
@@ -331,7 +331,7 @@ d. het redden van schepen en personen die het slachtoffer zijn van piraterij of 
 6.  De Raad van Beheer neemt zijn besluiten bij consensus.   
 7.  Het Secretariaat staat onder leiding van een Uitvoerend Directeur die wordt bijgestaan door de medewerkers. De Uitvoerend Directeur wordt door de Raad van Beheer gekozen.   
 8.  De Uitvoerend Directeur is verantwoordelijk voor de administratieve, operationele en financiële zaken van het Centrum in overeenstemming met het door de Raad van Beheer vastgestelde beleid en de bepalingen van dit Verdrag, en voor alle andere zaken die door de Raad van Beheer worden vastgesteld.   
-9.  De Uitvoerend Directeur vertegenwoordigt het Centrum. De Uitvoerend Directeur stelt, met goedkeuring van de Raad van Beheer, de regels en voorschriften van het Secretariaat vast.   
+9.  De Uitvoerend Directeur vertegenwoordigt het Centrum. De Uitvoerend Directeur stelt, met goedkeuring van de Raad van Beheer, de regels en voorschriften van het Secretariaat vast.  
 
 ### Artikel  5  
 
@@ -339,7 +339,7 @@ d. het redden van schepen en personen die het slachtoffer zijn van piraterij of 
 
 1.  Het Centrum, als internationale organisatie wier leden de partijen bij dit Verdrag zijn, geniet de rechtsbevoegdheid, voorrechten en immuniteiten in de gaststaat van het Centrum die noodzakelijk zijn voor de uitoefening van zijn taken.   
 2.  De Uitvoerend Directeur en de medewerkers van het Secretariaat genieten in de gaststaat de voorrechten en immuniteiten die noodzakelijk zijn voor de uitoefening van hun taken.   
-3.  Het Centrum sluit een overeenkomst met de gaststaat waarin onder andere de in het eerste en tweede lid van dit artikel genoemde aangelegenheden worden geregeld.   
+3.  Het Centrum sluit een overeenkomst met de gaststaat waarin onder andere de in het eerste en tweede lid van dit artikel genoemde aangelegenheden worden geregeld.  
 
 ### Artikel  6  
 
@@ -355,7 +355,7 @@ c. vrijwillige bijdragen van internationale organisaties en andere entiteiten, i
 
 d. andere vrijwillige bijdragen waarover de Raad van Beheer overeenstemming bereikt.     
 2.  Op de financiële aangelegenheden van het Centrum is een Financieel Reglement van toepassing dat door de Raad van Beheer dient te worden aangenomen.   
-3.  De rekeningen van het Centrum worden jaarlijks gecontroleerd door een onafhankelijke accountant die door de Raad van Beheer wordt benoemd. De accountantsverklaring wordt ter kennis gebracht van de Raad van Beheer en wordt openbaar gemaakt in overeenstemming met het Financieel Reglement.   
+3.  De rekeningen van het Centrum worden jaarlijks gecontroleerd door een onafhankelijke accountant die door de Raad van Beheer wordt benoemd. De accountantsverklaring wordt ter kennis gebracht van de Raad van Beheer en wordt openbaar gemaakt in overeenstemming met het Financieel Reglement.  
 
 ### Artikel  7  
 
@@ -375,7 +375,7 @@ e. het verspreiden onder de verdragsluitende partijen van de in artikel 10 bedoe
 
 f. het opstellen van niet-geheime statistieken en rapporten op basis van de informatie die uit hoofde van onderdeel b is verzameld en geanalyseerd, en de verspreiding daarvan in de scheepvaartwereld en bij de Internationale Maritieme Organisatie; en  
 
-g. het verrichten van andere taken waartoe de Raad van Beheer kan besluiten met het oog op het voorkomen en bestrijden van piraterij en gewapende overvallen op zee.    
+g. het verrichten van andere taken waartoe de Raad van Beheer kan besluiten met het oog op het voorkomen en bestrijden van piraterij en gewapende overvallen op zee.   
 
 ### Artikel  8  
 
@@ -383,11 +383,11 @@ g. het verrichten van andere taken waartoe de Raad van Beheer kan besluiten met 
 
 1.  Het Secretariaat is verantwoordelijk voor de dagelijkse bedrijfsvoering van het Centrum.   
 2.  Bij de uitvoering van zijn taken eerbiedigt het Centrum de vertrouwelijkheid van de door een verdragsluitende partij verstrekte informatie en zal deze informatie niet openbaar maken of verspreiden zonder voorafgaande toestemming van die verdragsluitende partij.   
-3.  Het Centrum wordt op een effectieve en transparante wijze geleid, in overeenstemming met het door de Raad van Beheer opgestelde beleid, waarbij dubbel werk voor de verdragsluitende partijen wordt voorkomen.   
+3.  Het Centrum wordt op een effectieve en transparante wijze geleid, in overeenstemming met het door de Raad van Beheer opgestelde beleid, waarbij dubbel werk voor de verdragsluitende partijen wordt voorkomen.  
 
 ### DEEL  III  
 
-####SAMENWERKING VIA HET CENTRUM VOOR HET UITWISSELEN VAN INFORMATIE
+####SAMENWERKING VIA HET CENTRUM VOOR HET UITWISSELEN VAN INFORMATIE 
 
 ### Artikel  9  
 
@@ -398,7 +398,7 @@ g. het verrichten van andere taken waartoe de Raad van Beheer kan besluiten met 
 3.  Iedere verdragsluitende partij waarborgt de soepele en doeltreffende communicatie tussen haar aangewezen contactpunt en andere bevoegde nationale autoriteiten, met inbegrip van coördinatiecentra voor reddingsoperaties, alsmede relevante niet-gouvernementele organisaties.   
 4.  Iedere verdragsluitende partij verricht alle mogelijke inspanningen om van haar schepen, reders of scheepsexploitanten te verlangen dat zij de relevante nationale autoriteiten, met inbegrip van contactpunten, en wanneer van toepassing het Centrum, in kennis stellen van gevallen van piraterij of gewapende overvallen op zee.   
 5.  Iedere verdragsluitende partij die informatie heeft ontvangen of vergaard over een onmiddellijke dreiging of geval van piraterij of gewapende overvallen op zee, stelt via haar aangewezen contactpunt het Centrum onverwijld in kennis van relevante informatie.   
-6.  In het geval dat een verdragsluitende partij uit hoofde van artikel 7, onderdeel d, van het Centrum een waarschuwing ontvangt over een onmiddellijke dreiging van piraterij of gewapende overvallen op zee, geeft deze verdragsluitende partij de waarschuwing onverwijld door aan schepen in het gebied waarvoor deze onmiddellijke dreiging geldt.   
+6.  In het geval dat een verdragsluitende partij uit hoofde van artikel 7, onderdeel d, van het Centrum een waarschuwing ontvangt over een onmiddellijke dreiging van piraterij of gewapende overvallen op zee, geeft deze verdragsluitende partij de waarschuwing onverwijld door aan schepen in het gebied waarvoor deze onmiddellijke dreiging geldt.  
 
 ### Artikel  10  
 
@@ -416,7 +416,7 @@ d. schepen en personen die het slachtoffer zijn van piraterij of gewapende overv
 2.  Een verdragsluitende partij kan een andere verdragsluitende partij hetzij via het Centrum hetzij rechtstreeks verzoeken passende maatregelen te nemen, met inbegrip van aanhouding of inbeslagneming, tegen elk van de in de onderdelen a, b of c van het eerste lid van dit artikel genoemde personen of schepen, binnen de grenzen van haar nationale wet- en regelgeving en de toepasselijke regels van het internationale recht.   
 3.  Een verdragsluitende partij kan een andere verdragsluitende partij hetzij via het Centrum hetzij rechtstreeks tevens verzoeken doeltreffende maatregelen te nemen om schepen en personen die het slachtoffer zijn van piraterij of gewapende overvallen op zee te redden.   
 4.  De verdragsluitende partij die krachtens het eerste, tweede en derde lid van dit artikel een rechtstreeks verzoek om samenwerking heeft gedaan, stelt het Centrum onverwijld van een dergelijk verzoek in kennis.   
-5.  Elk verzoek om samenwerking door een verdragsluitende partij dat uitlevering of wederzijdse rechtshulp in strafzaken met zich meebrengt, wordt rechtstreeks tot de andere verdragsluitende partij gericht.   
+5.  Elk verzoek om samenwerking door een verdragsluitende partij dat uitlevering of wederzijdse rechtshulp in strafzaken met zich meebrengt, wordt rechtstreeks tot de andere verdragsluitende partij gericht.  
 
 ### Artikel  11  
 
@@ -424,7 +424,7 @@ d. schepen en personen die het slachtoffer zijn van piraterij of gewapende overv
 
 1.  Een verdragsluitende partij die een verzoek uit hoofde van artikel 10 heeft ontvangen, verricht, met inachtneming van het eerste lid van artikel 2, alle mogelijke inspanningen om doeltreffende en praktische maatregelen te nemen om een dergelijk verzoek uit te voeren.   
 2.  Een verdragsluitende partij die een verzoek uit hoofde van artikel 10 heeft ontvangen, kan de verzoekende verdragsluitende partij om aanvullende informatie vragen ten behoeve van het uitvoeren van een dergelijk verzoek.   
-3.  Een verdragsluitende partij die de in het eerste lid van dit artikel bedoelde maatregelen heeft genomen, stelt het Centrum onverwijld in kennis van de relevante informatie over de genomen maatregelen.   
+3.  Een verdragsluitende partij die de in het eerste lid van dit artikel bedoelde maatregelen heeft genomen, stelt het Centrum onverwijld in kennis van de relevante informatie over de genomen maatregelen.  
 
 ### DEEL  IV  
 
@@ -434,13 +434,13 @@ d. schepen en personen die het slachtoffer zijn van piraterij of gewapende overv
 
 ####Uitlevering
 
-Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale wet- en regelgeving, piraten of personen die gewapende overvallen op zee hebben gepleegd, en die zich op haar grondgebied bevinden, uit te leveren aan de andere verdragsluitende partij onder wier rechtsmacht zij vallen, op verzoek van die verdragsluitende partij.  
+Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale wet- en regelgeving, piraten of personen die gewapende overvallen op zee hebben gepleegd, en die zich op haar grondgebied bevinden, uit te leveren aan de andere verdragsluitende partij onder wier rechtsmacht zij vallen, op verzoek van die verdragsluitende partij. 
 
 ### Artikel  13  
 
 ####Wederzijdse rechtshulp
 
-Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale wet- en regelgeving, wederzijdse rechtshulp in strafzaken te verlenen, met inbegrip van het overleggen van bewijsmateriaal met betrekking tot piraterij en gewapende overvallen op zee, op verzoek van een andere verdragsluitende partij.  
+Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale wet- en regelgeving, wederzijdse rechtshulp in strafzaken te verlenen, met inbegrip van het overleggen van bewijsmateriaal met betrekking tot piraterij en gewapende overvallen op zee, op verzoek van een andere verdragsluitende partij. 
 
 ### Artikel  14  
 
@@ -448,13 +448,13 @@ Een verdragsluitende partij streeft ernaar, met inachtneming van haar nationale 
 
 1.  Ten behoeve van het uitbreiden van de capaciteit van de verdragsluitende partijen op het gebied van het voorkomen en bestrijden van piraterij en gewapende overvallen op zee, streeft iedere verdragsluitende partij ernaar in zo ruim mogelijke mate samen te werken met andere verdragsluitende partijen die om samenwerking of bijstand verzoeken.   
 2.  Het Centrum streeft ernaar in zo ruim mogelijke mate mee te werken bij het bieden van ondersteuning bij capaciteitsopbouw.   
-3.  Een dergelijke capaciteitsopbouw kan technische bijstand omvatten, zoals onderwijs- en trainingsprogramma’s om ervaringen en beste praktijken te delen.   
+3.  Een dergelijke capaciteitsopbouw kan technische bijstand omvatten, zoals onderwijs- en trainingsprogramma’s om ervaringen en beste praktijken te delen.  
 
 ### Artikel  15  
 
 ####Samenwerkingsakkoorden
 
-Samenwerkingsakkoorden, zoals over gezamenlijke oefeningen of andere vormen van samenwerking, al naar gelang van toepassing, kunnen door de betrokken verdragsluitende partijen worden overeengekomen.  
+Samenwerkingsakkoorden, zoals over gezamenlijke oefeningen of andere vormen van samenwerking, al naar gelang van toepassing, kunnen door de betrokken verdragsluitende partijen worden overeengekomen. 
 
 ### Artikel  16  
 
@@ -480,14 +480,14 @@ Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag, met
 2.  De Regering van Singapore is de depositaris van dit Verdrag.   
 3.  Dit Verdrag treedt in werking 90 dagen na de datum van nederlegging bij de depositaris van de tiende akte van kennisgeving van een in het eerste lid van dit artikel genoemde staat waarin deze aangeeft dat aan de nationale vereisten is voldaan. Dit Verdrag treedt daarna ten aanzien van iedere andere in het eerste lid genoemde staat in werking 30 dagen na de nederlegging van zijn akte van kennisgeving bij de depositaris.   
 4.  De depositaris stelt alle in het eerste lid genoemde staten in kennis van de inwerkingtreding van dit Verdrag ingevolge het derde lid van dit artikel.   
-5.  Dit Verdrag staat na de inwerkingtreding ervan open voor toetreding door iedere niet in het eerste lid genoemde staat. Iedere staat die tot dit Verdrag wenst toe te treden kan de depositaris hiervan in kennis stellen. De depositaris stelt alle andere verdragsluitende partijen onverwijld in kennis van de ontvangst van een dergelijke kennisgeving. Indien 90 dagen na de ontvangst van een dergelijke kennisgeving door de depositaris geen van de verdragsluitende partijen schriftelijk bezwaar heeft aangetekend, kan deze staat een akte van toetreding bij de depositaris nederleggen en wordt hij 60 dagen na de nederlegging van de akte van toetreding partij bij dit Verdrag.   
+5.  Dit Verdrag staat na de inwerkingtreding ervan open voor toetreding door iedere niet in het eerste lid genoemde staat. Iedere staat die tot dit Verdrag wenst toe te treden kan de depositaris hiervan in kennis stellen. De depositaris stelt alle andere verdragsluitende partijen onverwijld in kennis van de ontvangst van een dergelijke kennisgeving. Indien 90 dagen na de ontvangst van een dergelijke kennisgeving door de depositaris geen van de verdragsluitende partijen schriftelijk bezwaar heeft aangetekend, kan deze staat een akte van toetreding bij de depositaris nederleggen en wordt hij 60 dagen na de nederlegging van de akte van toetreding partij bij dit Verdrag.  
 
 ### Artikel  19  
 
 ####Wijziging
 
 1.  Iedere verdragsluitende partij kan een wijziging van dit Verdrag voorstellen, te allen tijde nadat het Verdrag in werking is getreden. Voor een dergelijke wijziging is de instemming van alle verdragsluitende partijen vereist.   
-2.  Een wijziging treedt in werking 90 dagen na de aanvaarding ervan door alle verdragsluitende partijen. De akten van aanvaarding worden nedergelegd bij de depositaris, die alle andere verdragsluitende partijen onverwijld van de nederlegging van dergelijke akten in kennis stelt.   
+2.  Een wijziging treedt in werking 90 dagen na de aanvaarding ervan door alle verdragsluitende partijen. De akten van aanvaarding worden nedergelegd bij de depositaris, die alle andere verdragsluitende partijen onverwijld van de nederlegging van dergelijke akten in kennis stelt.  
 
 ### Artikel  20  
 
@@ -496,19 +496,19 @@ Geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag, met
 1.  Iedere verdragsluitende partij kan dit Verdrag te allen tijde na de inwerkingtreding ervan opzeggen.   
 2.  De opzegging wordt door middel van een akte van opzegging ter kennis van de depositaris gebracht.   
 3.  De opzegging wordt van kracht 180 dagen na de ontvangst van de akte van opzegging door de depositaris.   
-4.  De depositaris stelt alle overige verdragsluitende partijen van elke opzegging onverwijld in kennis.   
+4.  De depositaris stelt alle overige verdragsluitende partijen van elke opzegging onverwijld in kennis.  
 
 ### Artikel  21  
 
 ####Authentieke tekst
 
-Van dit Verdrag is de tekst in de Engelse taal authentiek.  
+Van dit Verdrag is de tekst in de Engelse taal authentiek. 
 
 ### Artikel  22  
 
 ####Registratie
 
-Dit Verdrag wordt geregistreerd in overeenstemming met de bepalingen van artikel 102 van het Handvest van de Verenigde Naties.  
+Dit Verdrag wordt geregistreerd in overeenstemming met de bepalingen van artikel 102 van het Handvest van de Verenigde Naties. 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun respectieve regeringen, dit Verdrag hebben ondertekend.  
 

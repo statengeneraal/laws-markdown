@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Overeenkomst tussen de Regeringen van de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst)
+##Overeenkomst tussen de Regeringen van de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst) 
 
 ####Overeenkomst tussen de Regeringen van de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse regering betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst)
 
@@ -27,7 +27,7 @@ De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom 
 
 a) de eerst overschreden grens die niet een gemeenschappelijke grens van de Overeenkomstsluitende Partijen is;  
 
-b) iedere binnen het Benelux-gebied of op het Macedoonse grondgebied gelegen lucht- of zeehaven, waar personenverkeer van of naar een derde Staat plaatsvindt.       
+b) iedere binnen het Benelux-gebied of op het Macedoonse grondgebied gelegen lucht- of zeehaven, waar personenverkeer van of naar een derde Staat plaatsvindt.      
 
 ### Artikel  2  
 
@@ -35,7 +35,7 @@ b) iedere binnen het Benelux-gebied of op het Macedoonse grondgebied gelegen luc
 
 1.  Iedere Overeenkomstsluitende Partij neemt op verzoek van de andere Overeenkomstsluitende Partij, zonder formaliteiten de persoon over die niet of niet meer voldoet aan de op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij geldende voorwaarden voor binnenkomst of verblijf, wanneer kan worden aangetoond of aannemelijk gemaakt dat hij de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij heeft. Hetzelfde geldt voor personen die na binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij hebben verloren en die niet ten minste een naturalisatietoezegging van de kant van de verzoekende Overeenkomstsluitende Partij hebben ontvangen.   
 2.  De aangezochte Overeenkomstsluitende Partij verstrekt op verzoek van de verzoekende Overeenkomstsluitende Partij en overeenkomstig de bepalingen van artikel 6, onverwijld de voor de teruggeleiding van de over te nemen persoon noodzakelijke reisdocumenten.   
-3.  De verzoekende Overeenkomstsluitende Partij neemt deze persoon onder dezelfde voorwaarden terug, indien later wordt vastgesteld dat deze op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij had. Dit geldt niet wanneer de verplichting tot overname volgt uit het feit dat de aangezochte Overeenkomstsluitende Partij deze persoon na binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij de eigen nationaliteit heeft ontnomen, zonder ten minste een naturalisatietoezegging van de kant van de verzoekende Overeenkomstsluitende Partij te hebben ontvangen.   
+3.  De verzoekende Overeenkomstsluitende Partij neemt deze persoon onder dezelfde voorwaarden terug, indien later wordt vastgesteld dat deze op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet de nationaliteit van de Staat van de aangezochte Overeenkomstsluitende Partij had. Dit geldt niet wanneer de verplichting tot overname volgt uit het feit dat de aangezochte Overeenkomstsluitende Partij deze persoon na binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij de eigen nationaliteit heeft ontnomen, zonder ten minste een naturalisatietoezegging van de kant van de verzoekende Overeenkomstsluitende Partij te hebben ontvangen.  
 
 ### Artikel  3  
 
@@ -44,7 +44,7 @@ b) iedere binnen het Benelux-gebied of op het Macedoonse grondgebied gelegen luc
 1.  Iedere Overeenkomstsluitende Partij neemt op verzoek van de andere Overeenkomstsluitende Partij en zonder formaliteiten de onderdanen van een derde Staat over die niet of niet meer voldoen aan de op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij geldende voorwaarden voor binnenkomst of verblijf, wanneer kan worden aangetoond of aannemelijk gemaakt dat deze onderdanen van een derde Staat het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij zijn doorgereisd of aldaar hebben verbleven.   
 2.  De verplichting tot overname als bedoeld in lid 1 geldt niet ten aanzien van een onderdaan van een derde Staat die bij zijn binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij in het bezit was van een geldige verblijfstitel van deze Overeenkomstsluitende Partij of na zijn binnenkomst in het bezit is gesteld van een door deze Overeenkomstsluitende Partij afgegeven verblijfstitel.   
 3.  De verplichting tot overname als bedoeld in lid 1 geldt niet ten aanzien van onderdanen van een derde Staat die met de Staat van de verzoekende Overeenkomstsluitende Partij een gemeenschappelijke grens hebben.   
-4.  De bepalingen als bedoeld in lid 1 zijn evenwel niet van toepassing wanneer de verzoekende Overeenkomstsluitende Partij een regeling van visumvrije binnenkomst toepast ten aanzien van de derde Staat waarvan de betrokkene onderdaan is.   
+4.  De bepalingen als bedoeld in lid 1 zijn evenwel niet van toepassing wanneer de verzoekende Overeenkomstsluitende Partij een regeling van visumvrije binnenkomst toepast ten aanzien van de derde Staat waarvan de betrokkene onderdaan is.  
 
 ### Artikel  4  
 
@@ -52,13 +52,13 @@ b) iedere binnen het Benelux-gebied of op het Macedoonse grondgebied gelegen luc
 
 1.  Indien een op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij aangekomen persoon niet voldoet aan de geldende voorwaarden voor binnenkomst of verblijf en in het bezit is van een door de aangezochte Overeenkomstsluitende Partij afgegeven geldig visum of geldige verblijfstitel, neemt die Overeenkomstsluitende Partij op verzoek van de verzoekende Overeenkomstsluitende Partij, zonder formaliteiten, deze persoon over.   
 2.  Indien beide Overeenkomstsluitende Partijen een visum of een verblijfstitel hebben afgegeven, is de Overeenkomstsluitende Partij van wie het visum of de verblijfstitel het laatst vervalt, verantwoordelijk.   
-3.  De leden 1 en 2 zijn niet van toepassing op de afgifte van een transitvisum.   
+3.  De leden 1 en 2 zijn niet van toepassing op de afgifte van een transitvisum.  
 
 ### Artikel  5  
 
 ####Verblijfstitels
 
-Onder verblijfstitels als bedoeld in artikel 3, lid 2, en artikel 4, wordt verstaan een door een Overeenkomstsluitende Partij afgegeven vergunning, ongeacht van welke aard, die recht geeft op verblijf op het grondgebied van de Staat van die Overeenkomstsluitende Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van de Staat van een Overeenkomstsluitende Partij met het oog op de behandeling van een asielverzoek.  
+Onder verblijfstitels als bedoeld in artikel 3, lid 2, en artikel 4, wordt verstaan een door een Overeenkomstsluitende Partij afgegeven vergunning, ongeacht van welke aard, die recht geeft op verblijf op het grondgebied van de Staat van die Overeenkomstsluitende Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van de Staat van een Overeenkomstsluitende Partij met het oog op de behandeling van een asielverzoek. 
 
 ### Artikel  6  
 
@@ -112,7 +112,7 @@ Onder verblijfstitels als bedoeld in artikel 3, lid 2, en artikel 4, wordt verst
 – een betrouwbare getuigenverklaring;  
 
 – de verklaring van de betrokkene zelf.     Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Overeenkomstsluitende Partijen de nationaliteit als vaststaand aan, tenzij de aangezochte Overeenkomstsluitende Partij het tegendeel kan bewijzen.   
-3.  Indien geen van de in lid 1 en 2 genoemde documenten of elementen kan worden voorgelegd, doch er naar de mening van de verzoekende Overeenkomstsluitende Partij een vermoeden bestaat met betrekking tot de nationaliteit van de terug te nemen persoon, dan treffen de bevoegde autoriteiten van de aangezochte Overeenkomstsluitende Partij de vereiste maatregelen om de nationaliteit van de betrokkene vast te stellen. De diplomatieke en consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij zal de persoon op verzoek van de verzoekende Overeenkomstsluitende Partij binnen drie werkdagen ondervragen teneinde zijn nationaliteit en/of identiteit vast te stellen. De diplomatieke en consulaire vertegenwoordiging van deze aangezochte Overeenkomstsluitende Partij zal aan betrokkene, onverwijld, een voor zijn terugkeer noodzakelijk document afgeven.   
+3.  Indien geen van de in lid 1 en 2 genoemde documenten of elementen kan worden voorgelegd, doch er naar de mening van de verzoekende Overeenkomstsluitende Partij een vermoeden bestaat met betrekking tot de nationaliteit van de terug te nemen persoon, dan treffen de bevoegde autoriteiten van de aangezochte Overeenkomstsluitende Partij de vereiste maatregelen om de nationaliteit van de betrokkene vast te stellen. De diplomatieke en consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij zal de persoon op verzoek van de verzoekende Overeenkomstsluitende Partij binnen drie werkdagen ondervragen teneinde zijn nationaliteit en/of identiteit vast te stellen. De diplomatieke en consulaire vertegenwoordiging van deze aangezochte Overeenkomstsluitende Partij zal aan betrokkene, onverwijld, een voor zijn terugkeer noodzakelijk document afgeven.  
 
 ### Artikel  7  
 
@@ -152,7 +152,7 @@ Onder verblijfstitels als bedoeld in artikel 3, lid 2, en artikel 4, wordt verst
 (9) verklaringen van de betrokkene zelf;  
 
 (10) andere bescheiden (bijvoorbeeld niet op naam gestelde toegangskaartjes) of betrouwbare informatie aan de hand waarvan het verblijf op of de doorreis over het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij aannemelijk gemaakt kan worden.   Wanneer dit begin van bewijs is geleverd, nemen de Overeenkomstsluitende Partijen aan dat aan de voorwaarden is voldaan, tenzij de aangezochte Overeenkomstsluitende Partij het tegendeel kan bewijzen.   
-3.  De verzoekende Overeenkomstsluitende Partij neemt de overgedragen persoon als bedoeld in artikel 3 of 4 over onder dezelfde voorwaarden indien uit later onderzoek komt vast te staan dat deze persoon op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet aan de in die artikelen genoemde voorwaarden voldeed.   
+3.  De verzoekende Overeenkomstsluitende Partij neemt de overgedragen persoon als bedoeld in artikel 3 of 4 over onder dezelfde voorwaarden indien uit later onderzoek komt vast te staan dat deze persoon op het moment van het verlaten van het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij niet aan de in die artikelen genoemde voorwaarden voldeed.  
 
 ### Artikel  8  
 
@@ -166,21 +166,21 @@ Onder verblijfstitels als bedoeld in artikel 3, lid 2, en artikel 4, wordt verst
 
 (3) twee pasfoto's.     
 2.  De verzoekende Overeenkomstsluitende Partij kan elke andere voor de overnameprocedure dienstige inlichting aan de aangezochte Overeenkomstsluitende Partij verstrekken.   
-3.  Het verzoek om overname wordt bij de bevoegde diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij ingediend en omvat de in het verzoek om overname opgesomde documenten. Er wordt een verslag van indiening/ontvangst van het verzoek en van de bij het verzoek gevoegde stukken opgesteld.   
+3.  Het verzoek om overname wordt bij de bevoegde diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij ingediend en omvat de in het verzoek om overname opgesomde documenten. Er wordt een verslag van indiening/ontvangst van het verzoek en van de bij het verzoek gevoegde stukken opgesteld.  
 
 ### Artikel  9  
 
 ####Termijnen
 
 1.  Een verzoek om overname moet onverwijld en in ieder geval binnen de vijftien werkdagen worden beantwoord. Deze termijn begint te lopen vanaf de datum van ontvangst van het verzoek om overname. Wanneer niet binnen deze termijn schriftelijk wordt geantwoord, wordt aangenomen dat met de overdracht wordt ingestemd en dat de aangezochte Overeenkomstsluitende Partij met het gebruik van een door de verzoekende Overeenkomstsluitende Partij verstrekt reisdocument instemt.   
-2.  De aangezochte Overeenkomstsluitende Partij neemt de persoon wiens overname werd aanvaard onverwijld en uiterlijk binnen een termijn van een maand over. Deze termijn kan op verzoek van de verzoekende Overeenkomstsluitende Partij worden verlengd voor de tijd dat er nog juridische of praktische belemmeringen zijn.   
+2.  De aangezochte Overeenkomstsluitende Partij neemt de persoon wiens overname werd aanvaard onverwijld en uiterlijk binnen een termijn van een maand over. Deze termijn kan op verzoek van de verzoekende Overeenkomstsluitende Partij worden verlengd voor de tijd dat er nog juridische of praktische belemmeringen zijn.  
 
 ### Artikel  10  
 
 ####Verval van de verplichting tot overname
 
 1.  Het verzoek om overname van een eigen onderdaan kan te allen tijde worden ingediend.   
-2.  Het verzoek om overname van een onderdaan van een derde Staat dient uiterlijk binnen één jaar na vaststelling door de Overeenkomstsluitende Partij van de binnenkomst en de aanwezigheid van bedoelde onderdaan van een derde Staat op zijn grondgebied te worden ingediend.   
+2.  Het verzoek om overname van een onderdaan van een derde Staat dient uiterlijk binnen één jaar na vaststelling door de Overeenkomstsluitende Partij van de binnenkomst en de aanwezigheid van bedoelde onderdaan van een derde Staat op zijn grondgebied te worden ingediend.  
 
 ### Artikel  11  
 
@@ -188,7 +188,7 @@ Onder verblijfstitels als bedoeld in artikel 3, lid 2, en artikel 4, wordt verst
 
 1.  Voordat een persoon wordt overgedragen, stellen de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij schriftelijk de bevoegde autoriteiten van de aangezochte Overeenkomstsluitende Partij in kennis van de datum en modaliteiten van de overdracht, alsmede van het eventuele gebruik van begeleiders.   
 2.  Geen enkele wijze van vervoer, hetzij door de lucht, over land of over zee, is verboden doch, in de regel geschiedt de overdracht door de lucht. De overdracht per vliegtuig kan plaatsvinden met gebruikmaking van lijn- of chartervluchten.   
-3.  Indien de overdracht over land geschiedt, is begeleiding door de Staat van doorreis in beginsel steeds gewenst wegens het ontbreken van iedere bevoegdheid van de begeleiders van de verzoekende Overeenkomstsluitende Partij.   
+3.  Indien de overdracht over land geschiedt, is begeleiding door de Staat van doorreis in beginsel steeds gewenst wegens het ontbreken van iedere bevoegdheid van de begeleiders van de verzoekende Overeenkomstsluitende Partij.  
 
 ### Artikel  12  
 
@@ -197,7 +197,7 @@ Onder verblijfstitels als bedoeld in artikel 3, lid 2, en artikel 4, wordt verst
 1.  Onverminderd artikel 16 staan de Overeenkomstsluitende Partijen de doorgeleiding van onderdanen van derde landen over het grondgebied van hun Staat toe, indien een andere Overeenkomstsluitende Partij daarom verzoekt en de doorreis door eventuele derde Staten en de toelating tot de Staat van bestemming verzekerd is.   
 2.  Het is niet absoluut noodzakelijk dat de aangezochte Overeenkomstsluitende Partij een transitvisum afgeeft.   
 3.  Ondanks verleende toestemming kunnen voor doorgeleiding overgenomen personen aan de andere Overeenkomstsluitende Partij worden teruggeven, indien zich later omstandigheden als bedoeld in artikel 16 voordoen of bekend worden, die doorgeleiding in de weg staan, of indien de verdere reis of de overname door de Staat van bestemming niet meer verzekerd is.   
-4.  De Overeenkomstsluitende Partijen doen het nodige om doorgeleidingen, zoals beschreven in lid 1 hierboven, te beperken tot onderdanen van een derde Staat voor wie de rechtstreekse teruggeleiding naar het land van herkomst niet mogelijk is.   
+4.  De Overeenkomstsluitende Partijen doen het nodige om doorgeleidingen, zoals beschreven in lid 1 hierboven, te beperken tot onderdanen van een derde Staat voor wie de rechtstreekse teruggeleiding naar het land van herkomst niet mogelijk is.  
 
 ### Artikel  13  
 
@@ -213,14 +213,14 @@ De persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitv
 
 (4) verblijfplaatsen en reisroutes;  
 
-(5) verblijfsvergunningen of door één van de Overeenkomstsluitende Partijen afgegeven visa.    
+(5) verblijfsvergunningen of door één van de Overeenkomstsluitende Partijen afgegeven visa.   
 
 ### Artikel  14  
 
 ####Kosten
 
 1.  De kosten verbonden aan het overbrengen van personen die volgens de artikelen 2, 3 en 4 worden overgenomen komen tot aan de grens van de Staat van de aangezochte Overeenkomstsluitende Partij ten laste van de verzoekende Overeenkomstsluitende Partij.   
-2.  De kosten verbonden aan de doorgeleiding tot aan de grens van de Staat van bestemming, alsmede de eventueel uit de teruggeleiding voortvloeiende kosten, komen overeenkomstig artikel 12 ten laste van de verzoekende Overeenkomstsluitende Partij.   
+2.  De kosten verbonden aan de doorgeleiding tot aan de grens van de Staat van bestemming, alsmede de eventueel uit de teruggeleiding voortvloeiende kosten, komen overeenkomstig artikel 12 ten laste van de verzoekende Overeenkomstsluitende Partij.  
 
 ### Artikel  15  
 
@@ -237,7 +237,7 @@ De persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitv
 (4) passende maatregelen ter bestrijding van illegale immigratie uitwerkt en aanbeveelt.     
 2.  De Overeenkomstsluitende Partijen behouden zich het recht voor om de voorgestelde maatregelen van het Comité al dan niet goed te keuren.   
 3.  Het Comité bestaat uit drie vertegenwoordigers voor de Benelux-Staten en drie vertegenwoordigers voor de Macedoonse Regering. Plaatsvervangende leden worden benoemd. Indien nodig kunnen andere deskundigen bij de werkzaamheden van het Comité worden betrokken.   
-4.  Het Comité komt indien nodig op voorstel van één der Overeenkomstsluitende Partijen bijeen.   
+4.  Het Comité komt indien nodig op voorstel van één der Overeenkomstsluitende Partijen bijeen.  
 
 ### Artikel  16  
 
@@ -245,7 +245,7 @@ De persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitv
 
 De bepalingen van deze Overeenkomst doen geen afbreuk aan de verplichtingen die voortvloeien uit: 
 
-(1) het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](../../../../../../../../../../../../verdrag/vluchtelingenverdrag/BWBV0001002/README.md), als gewijzigd bij het [Protocol van 31 januari 1967](../../../../../../../../../../../..//BWBV0001007/README.md);  
+(1) het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](../../../../../../../../../../../../verdrag/vluchtelingenverdrag/BWBV0001002/README.md), als gewijzigd bij het Protocol van 31 januari 1967;  
 
 (2) verdragen inzake uitlevering en doorgeleiding;  
 
@@ -257,26 +257,26 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de verplichtingen die 
 
 (6) internationale asielovereenkomsten;  
 
-(7) internationale conventies en overeenkomsten betreffende de overname van vreemde onderdanen.    
+(7) internationale conventies en overeenkomsten betreffende de overname van vreemde onderdanen.   
 
 ### Artikel  17  
 
 ####Uitvoeringsprotocol
 
-Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worden in het Uitvoeringsprotocol vastgelegd.  
+Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worden in het Uitvoeringsprotocol vastgelegd. 
 
 ### Artikel  18  
 
 ####Territoriale toepassing
 
-Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenkomst tot de Nederlandse Antillen en Aruba worden uitgebreid door een kennisgeving aan de Regering van het Koninkrijk België, depositaris van deze Overeenkomst, die de overige Ondertekenende Staten hiervan in kennis stelt.  
+Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenkomst tot de Nederlandse Antillen en Aruba worden uitgebreid door een kennisgeving aan de Regering van het Koninkrijk België, depositaris van deze Overeenkomst, die de overige Ondertekenende Staten hiervan in kennis stelt. 
 
 ### Artikel  19  
 
 ####Inwerkingtreding
 
 1.  Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op de datum van ontvangst van de nota waarbij de laatste van de Ondertekenende Staten de Regering van het Koninkrijk België kennis heeft gegeven de voor de inwerkingtreding vereiste interne formaliteiten te hebben nageleefd.   
-2.  De Regering van het Koninkrijk België stelt ieder der Ondertekenende Staten in kennis van de in lid 1 bedoelde notificaties en van de datum van de inwerkingtreding van deze Overeenkomst.   
+2.  De Regering van het Koninkrijk België stelt ieder der Ondertekenende Staten in kennis van de in lid 1 bedoelde notificaties en van de datum van de inwerkingtreding van deze Overeenkomst.  
 
 ### Artikel  20  
 
@@ -285,19 +285,19 @@ Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenko
 1.  Deze Overeenkomst wordt voor onbepaalde tijd gesloten.   
 2.  Het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden gezamenlijk en de Macedoonse Regering kunnen via diplomatieke weg de Regering van het Koninkrijk België informeren dat zij deze Overeenkomst volledig wensen te schorsen in verband met de bescherming van de staatsveiligheid, de openbare orde of de volksgezondheid. De Regering van het Koninkrijk België zal de andere Ondertekenende Staten hiervan onverwijld in kennis stellen. Een vergelijkbare procedure zal in acht worden genomen in het geval de Ondertekenende Staten besluiten de schorsing van de Overeenkomst in te trekken.   
 3.  Het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden gezamenlijk en de Macedoonse Regering kunnen deze Overeenkomst, na mededeling aan de Regering van het Koninkrijk België, die de overige Ondertekenende Staten hiervan in kennis stelt, om ernstige redenen opzeggen.   
-4.  De schorsing, de intrekking van de schorsing of de opzegging van deze Overeenkomst wordt van kracht op de eerste dag van de tweede maand volgende op de maand waarin de kennisgeving bedoeld in respectievelijk lid 2 en lid 3 door de Regering van het Koninkrijk België is ontvangen.   
+4.  De schorsing, de intrekking van de schorsing of de opzegging van deze Overeenkomst wordt van kracht op de eerste dag van de tweede maand volgende op de maand waarin de kennisgeving bedoeld in respectievelijk lid 2 en lid 3 door de Regering van het Koninkrijk België is ontvangen.  
 
 ### Artikel  21  
 
 ####Depositaris
 
-De Regering van het Koninkrijk België is depositaris van deze Overeenkomst.  
+De Regering van het Koninkrijk België is depositaris van deze Overeenkomst. 
 
-Ten blijke waarvan de vertegenwoordigers van de Ondertekenende Staten, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Voorburg, op 30 mei 2006, in de Franse, Nederlandse en Macedoonse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek. Het origineel zal worden nedergelegd bij de Regering van het Koninkrijk België, depositaris van deze Overeenkomst, die een voor eensluidend gewaarmerkt afschrift daarvan aan alle Ondertekende Staten toezendt.  *Voor de Regering van het Koninkrijk België*  L. TEIRLINCK  *Voor de Regering van het Groothertogdom Luxemburg*  J. GRAFF  *Voor de Regering van het Koninkrijk der Nederlanden*  B.R. BOT  *Voor de Macedoonse Regering*  I. MITREVA  
+Ten blijke waarvan de vertegenwoordigers van de Ondertekenende Staten, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Voorburg, op 30 mei 2006, in de Franse, Nederlandse en Macedoonse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek. Het origineel zal worden nedergelegd bij de Regering van het Koninkrijk België, depositaris van deze Overeenkomst, die een voor eensluidend gewaarmerkt afschrift daarvan aan alle Ondertekende Staten toezendt. *Voor de Regering van het Koninkrijk België*L. TEIRLINCK*Voor de Regering van het Groothertogdom Luxemburg*J. GRAFF*Voor de Regering van het Koninkrijk der Nederlanden*B.R. BOT*Voor de Macedoonse Regering*I. MITREVA 
 
 ####Uitvoeringsprotocol van de Overeenkomst tussen de Regeringen van de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse regering betreffende de overname van onregelmatig verblijvende personen
 
-*(Overnameovereenkomst)*   
+*(Overnameovereenkomst)*  
 
 De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedoonse Regering met het oog op de toepassing van de Overeenkomst tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen   Zijn het volgende overeengekomen:    
 
@@ -353,7 +353,7 @@ De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom 
 
 – zo mogelijk, de geboorteakte voor een op het grondgebied van een andere Staat geboren kind;  
 
-– een foto voor elk kind van vijf (5) jaar of ouder.     
+– een foto voor elk kind van vijf (5) jaar of ouder.    
 
 ### Artikel  2  
 
@@ -370,7 +370,7 @@ De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom 
 
 – verklaring ter bevestiging dat er voor de betrokkene een overnameverplichting bestaat conform de bepalingen van de artikelen 2, 3 en 4 van de Overeenkomst   of 
 
-– ingeval van een negatief antwoord een verklarende nota waarin wordt aangegeven waarom voor de betrokkene de identiteit niet kon worden vastgesteld en/of dat de overnameverplichting conform de bepalingen van de artikelen 2, 3 of 4 niet op hem/haar van toepassing is.     
+– ingeval van een negatief antwoord een verklarende nota waarin wordt aangegeven waarom voor de betrokkene de identiteit niet kon worden vastgesteld en/of dat de overnameverplichting conform de bepalingen van de artikelen 2, 3 of 4 niet op hem/haar van toepassing is.    
 
 ### Artikel  3  
 
@@ -379,7 +379,7 @@ De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom 
 1.  De bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij overhandigt de diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij het positieve antwoord op het verzoek met het oog op de afgifte van het reisdocument.   
 2.  De diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij geeft op grond van het positieve antwoord op het verzoek het reisdocument af voor de persoon van wie de overname is toegestaan.   
 3.  Het reisdocument heeft een geldigheidsduur van tenminste één (1) maand.   
-4.  Wanneer de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij niet in staat is een persoon vóór de datum waarop het reisdocument verloopt over te dragen dient zij de betrokken bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij daarvan in kennis te stellen. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden dient de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij een nieuw reisdocument te verstrekken met eenzelfde geldigheidsduur en dit binnen de vijf (5) werkdagen die volgen op een verzoek daartoe van de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij.   
+4.  Wanneer de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij niet in staat is een persoon vóór de datum waarop het reisdocument verloopt over te dragen dient zij de betrokken bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij daarvan in kennis te stellen. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden dient de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij een nieuw reisdocument te verstrekken met eenzelfde geldigheidsduur en dit binnen de vijf (5) werkdagen die volgen op een verzoek daartoe van de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij.  
 
 ### Artikel  4  
 
@@ -387,40 +387,40 @@ De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom 
 
 1.  De bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij stelt de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, via de diplomatieke vertegenwoordiging, per telefax of via elektronische weg, minimaal drie werkdagen vóór de geplande overdracht in kennis van haar intentie daartoe over te gaan. Daartoe wordt gebruik gemaakt van het formulier dat als bijlage 1 aan dit Uitvoeringsprotocol is gehecht.   
 2.  Indien de verzoekende Overeenkomstsluitende Partij in de onmogelijkheid verkeert de over te nemen persoon binnen de in artikel 9, lid 2, van de Overeenkomst genoemde termijn van één maand over te dragen, stelt zij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, via de diplomatieke vertegenwoordiging, daarvan onverwijld in kennis. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden, stelt de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij daarvan in kennis, overeenkomstig de in lid 1, bedoelde procedure en termijnen.   
-3.  Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij daarvan afzonderlijk melding op het formulier dat als bijlage 1 aan dit Uitvoeringsprotocol is gehecht.   
+3.  Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij daarvan afzonderlijk melding op het formulier dat als bijlage 1 aan dit Uitvoeringsprotocol is gehecht.  
 
 ### Artikel  5  
 
 ####Ondersteuning van de doorgeleiding
 
 1.  Indien de verzoekende Overeenkomstsluitende Partij ondersteuning van de doorgeleiding door de autoriteiten van de aangezochte Overeenkomstsluitende Partij noodzakelijk acht, richt zij een daartoe strekkend verzoek aan de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij. Bij gelegenheid van het antwoord op het verzoek om doorgeleiding, bericht de aangezochte Overeenkomstsluitende Partij of zij kan voorzien in de aangevraagde ondersteuning. De Overeenkomstsluitende Partijen maken daartoe gebruik van het formulier dat als bijlage 2 aan dit Uitvoeringsprotocol is gehecht en treden zo nodig met elkaar in overleg.   
-2.  Indien de betrokkene wordt begeleid, geschieden de bewaking en het aan boord brengen onder het gezag van de aangezochte Overeenkomstsluitende Partij en, voor zover mogelijk, met de ondersteuning van deze Overeenkomstsluitende Partij.   
+2.  Indien de betrokkene wordt begeleid, geschieden de bewaking en het aan boord brengen onder het gezag van de aangezochte Overeenkomstsluitende Partij en, voor zover mogelijk, met de ondersteuning van deze Overeenkomstsluitende Partij.  
 
 ### Artikel  6  
 
 ####Aanwijzing grensovergangen
 
-De Overeenkomstsluitende Partijen delen elkaar, uiterlijk vijftien (15) dagen na de sluiting van dit Uitvoeringsprotocol, schriftelijk mede via welke grensovergangen personen worden overgedragen en toegelaten. Iedere wijziging delen zij elkaar onverwijld mede.  
+De Overeenkomstsluitende Partijen delen elkaar, uiterlijk vijftien (15) dagen na de sluiting van dit Uitvoeringsprotocol, schriftelijk mede via welke grensovergangen personen worden overgedragen en toegelaten. Iedere wijziging delen zij elkaar onverwijld mede. 
 
 ### Artikel  7  
 
 ####Aanwijzing bevoegde autoriteiten
 
-De Overeenkomstsluitende Partijen wisselen uiterlijk vijftien (15) dagen na de sluiting van dit Uitvoeringsprotocol, een lijst van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten uit. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.  
+De Overeenkomstsluitende Partijen wisselen uiterlijk vijftien (15) dagen na de sluiting van dit Uitvoeringsprotocol, een lijst van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten uit. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede. 
 
 ### Artikel  8  
 
 ####Comité van deskundigen
 
-De Overeenkomstsluitende Partijen stellen elkaar binnen de dertig (30) dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens artikel 15 van de Overeenkomst bepaalde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.  
+De Overeenkomstsluitende Partijen stellen elkaar binnen de dertig (30) dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens artikel 15 van de Overeenkomst bepaalde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede. 
 
 ### Artikel  9  
 
 ####Slotbepaling
 
-Het onderhavige Protocol zal van toepassing zijn vanaf de dag van de inwerkingtreding van de Overeenkomst, gesloten tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen.  
+Het onderhavige Protocol zal van toepassing zijn vanaf de dag van de inwerkingtreding van de Overeenkomst, gesloten tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen. 
 
-GEDAAN te Voorburg op 30 mei 2006, in de Franse, Nederlandse en Macedoonse taal, zijnde de teksten in de drie talen gelijkelijk authentiek.  *Voor de Regering van het Koninkrijk België*  L. TEIRLINCK  *Voor de Regering van het Groothertogdom Luxemburg*  J. GRAFF  *Voor de Regering van het Koninkrijk der Nederlanden*  B. R. BOT  *Voor de Macedoonse Regering*  I. MITREVA  
+GEDAAN te Voorburg op 30 mei 2006, in de Franse, Nederlandse en Macedoonse taal, zijnde de teksten in de drie talen gelijkelijk authentiek. *Voor de Regering van het Koninkrijk België*L. TEIRLINCK*Voor de Regering van het Groothertogdom Luxemburg*J. GRAFF*Voor de Regering van het Koninkrijk der Nederlanden*B. R. BOT*Voor de Macedoonse Regering*I. MITREVA 
 
 ![10000051535](http://wetten.overheid.nl/Illustration/10000051535)
 ![10000051536](http://wetten.overheid.nl/Illustration/10000051536)

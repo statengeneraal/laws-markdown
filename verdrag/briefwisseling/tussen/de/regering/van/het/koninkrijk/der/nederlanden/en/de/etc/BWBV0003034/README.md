@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Chili betreffende de uitbreiding tot de Nederlandse Antillen van het Verdrag tussen het Koninkrijk der Nederlanden en Chili inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving
+##Briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Chili betreffende de uitbreiding tot de Nederlandse Antillen van het Verdrag tussen het Koninkrijk der Nederlanden en Chili inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving 
 
 ### Nr.  I  
 

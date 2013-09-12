@@ -8,7 +8,7 @@ Het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Ko
 
 ### Artikel  1  
 
-De Republiek Bulgarije en Roemenië, hierna „de nieuwe lidstaten” genoemd, worden partij bij de Euromediterrane overeenkomst, en dienen, op dezelfde wijze als de andere lidstaten, de teksten van de Euromediterrane overeenkomst, alsmede de gemeenschappelijke verklaringen, verklaringen en briefwisselingen goed te keuren en er nota van te nemen.  
+De Republiek Bulgarije en Roemenië, hierna „de nieuwe lidstaten” genoemd, worden partij bij de Euromediterrane overeenkomst, en dienen, op dezelfde wijze als de andere lidstaten, de teksten van de Euromediterrane overeenkomst, alsmede de gemeenschappelijke verklaringen, verklaringen en briefwisselingen goed te keuren en er nota van te nemen. 
 
 ### HOOFDSTUK  1  
 
@@ -16,14 +16,14 @@ De Republiek Bulgarije en Roemenië, hierna „de nieuwe lidstaten” genoemd, w
 
 ####Landbouwproducten, bewerkte landbouwproducten en visserijproducten
 
-1.   Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds; Brussel, 20-11-1995.    
-2.  Verdere tariefconcessies tot aanpassing van bilaterale concessies voor landbouwproducten, bewerkte landbouwproducten of visserijproducten worden door de partijen overeengekomen overeenkomstig het bepaalde in de bijlage.   
+1.  Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds; Brussel, 20-11-1995.   
+2.  Verdere tariefconcessies tot aanpassing van bilaterale concessies voor landbouwproducten, bewerkte landbouwproducten of visserijproducten worden door de partijen overeengekomen overeenkomstig het bepaalde in de bijlage.  
 
 ### Artikel  3  
 
 ####Oorsprongsregels
 
-Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds; Brussel, 20-11-1995   
+Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds; Brussel, 20-11-1995
 
 ### HOOFDSTUK  2  
 
@@ -45,43 +45,43 @@ c. het bewijs van oorsprong binnen een periode van vier maanden na de toetreding
 a. een dergelijke bepaling ook is opgenomen in de door Israël vóór de toetredingsdatum met de Gemeenschap gesloten overeenkomst, en  
 
 b. de toegelaten exporteurs de regels van oorsprong uit hoofde van die overeenkomst toepassen.   Deze vergunningen worden uiterlijk één jaar na de datum van toetreding vervangen door nieuwe vergunningen die onder de voorwaarden van de Euro-mediterrane overeenkomst worden afgegeven.   
-3.  Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven op grond van bilaterale vrijhandelsovereenkomsten of autonome regelingen bedoeld in de leden 1 en 2 hierboven kunnen door de bevoegde douaneautoriteiten van Israël of de nieuwe lidstaten worden ingediend en worden door die autoriteiten aanvaard gedurende een periode van drie jaar na de afgifte van het betrokken bewijs van oorsprong. Die controles worden verricht overeenkomstig de bilaterale vrijhandelsovereenkomsten die op de datum van afgifte van de bewijzen van oorsprong van kracht waren.   
+3.  Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven op grond van bilaterale vrijhandelsovereenkomsten of autonome regelingen bedoeld in de leden 1 en 2 hierboven kunnen door de bevoegde douaneautoriteiten van Israël of de nieuwe lidstaten worden ingediend en worden door die autoriteiten aanvaard gedurende een periode van drie jaar na de afgifte van het betrokken bewijs van oorsprong. Die controles worden verricht overeenkomstig de bilaterale vrijhandelsovereenkomsten die op de datum van afgifte van de bewijzen van oorsprong van kracht waren.  
 
 ### Artikel  5  
 
 ####Goederen in doorvoer
 
 1.  De bepalingen van de Euro-mediterrane overeenkomst zijn van toepassing op goederen die uit Israël naar een van de nieuwe lidstaten of uit een van de nieuwe lidstaten naar Israël worden uitgevoerd, die voldoen aan de bepalingen van protocol nr. 4 en die op de datum van toetreding onderweg zijn of in tijdelijke opslag zijn in een douane-entrepot of een vrije zone in Israël of in die nieuwe lidstaat.   
-2.  In dergelijke gevallen kan preferentiële behandeling worden verleend, mits binnen vier maanden na de datum van toetreding bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven door de douaneautoriteiten van het land van uitvoer.   
+2.  In dergelijke gevallen kan preferentiële behandeling worden verleend, mits binnen vier maanden na de datum van toetreding bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven door de douaneautoriteiten van het land van uitvoer.  
 
 ####ALGEMENE BEPALINGEN EN SLOTBEPALINGEN
 
 ### Artikel  6  
 
-Israël verbindt zich ertoe geen claim, verzoek of beroep in te dienen, noch concessies te wijzigen of in te trekken op grond van de artikelen XXIV.6 en XXVIII van de GATT 1994 betreffende landbouwproducten, bewerkte landbouwproducten of visserijproducten naar aanleiding van deze uitbreiding van de Gemeenschap, onder voorbehoud, wat betreft andere producten dan die vallende onder GN-code 2106 90 98, van de afronding van de onderhandelingen over een nieuw aanvullend protocol tot aanpassing van de bilaterale handelsconcessies voor landbouwproducten, bewerkte landbouwproducten of visserijproducten, overeenkomstig de bijlage bij dit protocol.  
+Israël verbindt zich ertoe geen claim, verzoek of beroep in te dienen, noch concessies te wijzigen of in te trekken op grond van de artikelen XXIV.6 en XXVIII van de GATT 1994 betreffende landbouwproducten, bewerkte landbouwproducten of visserijproducten naar aanleiding van deze uitbreiding van de Gemeenschap, onder voorbehoud, wat betreft andere producten dan die vallende onder GN-code 2106 90 98, van de afronding van de onderhandelingen over een nieuw aanvullend protocol tot aanpassing van de bilaterale handelsconcessies voor landbouwproducten, bewerkte landbouwproducten of visserijproducten, overeenkomstig de bijlage bij dit protocol. 
 
 ### Artikel  7  
 
-Dit protocol vormt een integrerend onderdeel van de Euro-mediterrane overeenkomst. Ook de bijlage bij dit protocol vormt daarvan een integrerend onderdeel.  
+Dit protocol vormt een integrerend onderdeel van de Euro-mediterrane overeenkomst. Ook de bijlage bij dit protocol vormt daarvan een integrerend onderdeel. 
 
 ### Artikel  8  
 
 1.  Dit protocol wordt door de Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door Israël volgens hun eigen procedures goedgekeurd.   
-2.  De partijen stellen elkaar in kennis van de voltooiing van de procedures bedoeld in lid 1. De akten van goedkeuring worden neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.   
+2.  De partijen stellen elkaar in kennis van de voltooiing van de procedures bedoeld in lid 1. De akten van goedkeuring worden neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.  
 
 ### Artikel  9  
 
 1.  Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de datum waarop de laatste akte van goedkeuring is neergelegd.   
 2.  Dit protocol is voorlopig van toepassing met ingang van 1 januari 2007.   
-3.  In afwijking van de leden 1 en 2 van dit artikel is artikel 2, lid 1, van dit protocol van toepassing met ingang van de eerste dag van de eerste maand volgende op de datum van ondertekening van het protocol.   
+3.  In afwijking van de leden 1 en 2 van dit artikel is artikel 2, lid 1, van dit protocol van toepassing met ingang van de eerste dag van de eerste maand volgende op de datum van ondertekening van het protocol.  
 
 ### Artikel  10  
 
-Dit protocol is opgesteld in tweevoud in elk van de officiële talen van de partijen, zijnde alle teksten gelijkelijk authentiek.  
+Dit protocol is opgesteld in tweevoud in elk van de officiële talen van de partijen, zijnde alle teksten gelijkelijk authentiek. 
 
 ### Artikel  11  
 
-De tekst van de Euro-mediterrane overeenkomst, met inbegrip van de bijlagen en protocollen die daarvan een integrerend onderdeel zijn, alsmede de slotakte en de daaraan gehechte verklaringen, worden opgesteld in de Bulgaarse en de Roemeense taal , en deze teksten zijn evenzeer authentiek als de oorspronkelijke teksten. <sup> 1)  [Red: De Bulgaarse en de Roemeense versie worden later bekendgemaakt in een speciale uitgave van het Publicatieblad.]  </sup> De Associatieraad stelt deze teksten vast.  
+De tekst van de Euro-mediterrane overeenkomst, met inbegrip van de bijlagen en protocollen die daarvan een integrerend onderdeel zijn, alsmede de slotakte en de daaraan gehechte verklaringen, worden opgesteld in de Bulgaarse en de Roemeense taal<sup> 1) [Red: De Bulgaarse en de Roemeense versie worden later bekendgemaakt in een speciale uitgave van het Publicatieblad.] </sup> , en deze teksten zijn evenzeer authentiek als de oorspronkelijke teksten. De Associatieraad stelt deze teksten vast. 
 
 ####Bijlage betreffende de regelingen die van toepassing zijn op de handelsconcessies voor landbouwproducten, verwerkte landbouwproducten en visserijproducten
 

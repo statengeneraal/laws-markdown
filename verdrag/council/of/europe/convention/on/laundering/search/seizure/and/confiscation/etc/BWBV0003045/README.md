@@ -4,7 +4,7 @@
 
 ####Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism
 
-Preamble The member States of the Council of Europe and the other Signatories hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its members; Convinced of the need to pursue a common criminal policy aimed at the protection of society; Considering that the fight against serious crime, which has become an increasingly international problem, calls for the use of modern and effective methods on an international scale; Believing that one of these methods consists in depriving criminals of the proceeds from crime and instrumentalities; Considering that for the attainment of this aim a well-functioning system of international co-operation also must be established; Bearing in mind the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime (ETS No. 141 – hereinafter referred to as ‘‘the 1990 Convention’’); Recalling also Resolution 1373(2001) on threats to international peace and security caused by terrorist acts adopted by the Security Council of the United Nations on 28 September 2001, and particularly its paragraph 3.d; Recalling the International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations on 9 December 1999 and particularly its Articles 2 and 4, which oblige States Parties to establish the financing of terrorism as a criminal offence; Convinced of the necessity to take immediate steps to ratify and to implement fully the International Convention for the Suppression of the Financing of Terrorism, cited above, Have agreed as follows:     
+Preamble The member States of the Council of Europe and the other Signatories hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its members; Convinced of the need to pursue a common criminal policy aimed at the protection of society; Considering that the fight against serious crime, which has become an increasingly international problem, calls for the use of modern and effective methods on an international scale; Believing that one of these methods consists in depriving criminals of the proceeds from crime and instrumentalities; Considering that for the attainment of this aim a well-functioning system of international co-operation also must be established; Bearing in mind the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime (ETS No. 141 – hereinafter referred to as ‘‘the 1990 Convention’’); Recalling also Resolution 1373(2001) on threats to international peace and security caused by terrorist acts adopted by the Security Council of the United Nations on 28 September 2001, and particularly its paragraph 3.d; Recalling the[ International Convention for the Suppression of the Financing of Terrorism](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md), adopted by the General Assembly of the United Nations on 9 December 1999 and particularly its [Articles 2](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md) and [4](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md), which oblige States Parties to establish the financing of terrorism as a criminal offence; Convinced of the necessity to take immediate steps to ratify and to implement fully the [International Convention for the Suppression of the Financing of Terrorism](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md), cited above, Have agreed as follows:     
 ### CHAPTER  I  
 
 ####USE OF TERMS
@@ -29,11 +29,11 @@ f. ‘‘financial intelligence unit’’ (hereinafter referred to as ‘‘FIU
 
 (i) concerning suspected proceeds and potential financing of terrorism, or  
 
-(ii) required by national legislation or regulation,   in order to combat money laundering and financing of terrorism;  
+(ii) required by national legislation or regulation,  in order to combat money laundering and financing of terrorism; 
 
-g. ‘‘freezing’’ or ‘‘seizure’’ means temporarily prohibiting the transfer, destruction, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court or other competent authority;  
+g. ‘‘freezing’’ or ‘‘seizure’’ means temporarily prohibiting the transfer, destruction, conversion, disposition or movement of property or temporarily assuming custody or control of property on the basis of an order issued by a court or other competent authority; 
 
-h. ‘‘financing of terrorism’’ means the acts set out in Article 2 of the International Convention for the Suppression of the Financing of Terrorism, cited above.    
+h. ‘‘financing of terrorism’’ means the acts set out in [Article 2 of the International Convention for the Suppression of the Financing of Terrorism](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md), cited above.   
 
 ### CHAPTER  II  
 
@@ -44,13 +44,13 @@ h. ‘‘financing of terrorism’’ means the acts set out in Article 2 of the
 ####Application of the Convention to the financing of terrorism
 
 1.  Each Party shall adopt such legislative and other measures as may be necessary to enable it to apply the provisions contained in Chapters III, IV and V of this Convention to the financing of terrorism.   
-2.  In particular, each Party shall ensure that it is able to search, trace, identify, freeze, seize and confiscate property, of a licit or illicit origin, used or allocated to be used by any means, in whole or in part, for the financing of terrorism, or the proceeds of this offence, and to provide co-operation to this end to the widest possible extent.   
+2.  In particular, each Party shall ensure that it is able to search, trace, identify, freeze, seize and confiscate property, of a licit or illicit origin, used or allocated to be used by any means, in whole or in part, for the financing of terrorism, or the proceeds of this offence, and to provide co-operation to this end to the widest possible extent.  
 
 ### CHAPTER  III  
 
 ####MEASURES TO BE TAKEN AT NATIONAL LEVEL
 
-### SECTION  1  
+###SECTION 1 
 
 ####GENERAL PROVISIONS
 
@@ -65,13 +65,13 @@ a. only in so far as the offence is punishable by deprivation of liberty or a de
 
 b. only to a list of specified offences.     
 3.  Parties may provide for mandatory confiscation in respect of offences which are subject to the confiscation regime. Parties may in particular include in this provision the offences of money laundering, drug trafficking, trafficking in human beings and any other serious offence.   
-4.  Each Party shall adopt such legislative or other measures as may be necessary to require that, in respect of a serious offence or offences as defined by national law, an offender demonstrates the origin of alleged proceeds or other property liable to confiscation to the extent that such a requirement is consistent with the principles of its domestic law.   
+4.  Each Party shall adopt such legislative or other measures as may be necessary to require that, in respect of a serious offence or offences as defined by national law, an offender demonstrates the origin of alleged proceeds or other property liable to confiscation to the extent that such a requirement is consistent with the principles of its domestic law.  
 
 ### Article  4  
 
 ####Investigative and provisional measures
 
-Each Party shall adopt such legislative and other measures as may be necessary to enable it to identify, trace, freeze or seize rapidly property which is liable to confiscation pursuant to Article 3, in order in particular to facilitate the enforcement of a later confiscation.  
+Each Party shall adopt such legislative and other measures as may be necessary to enable it to identify, trace, freeze or seize rapidly property which is liable to confiscation pursuant to Article 3, in order in particular to facilitate the enforcement of a later confiscation. 
 
 ### Article  5  
 
@@ -89,7 +89,7 @@ c. income or other benefits derived from proceeds, from property into which proc
 
 ####Management of frozen or seized property
 
-Each Party shall adopt such legislative or other measures as may be necessary to ensure proper management of frozen or seized property in accordance with Articles 4 and 5 of this Convention.  
+Each Party shall adopt such legislative or other measures as may be necessary to ensure proper management of frozen or seized property in accordance with Articles 4 and 5 of this Convention. 
 
 ### Article  7  
 
@@ -105,13 +105,13 @@ b. obtain the particulars of specified bank accounts and of banking operations w
 c. monitor, during a specified period, the banking operations that are being carried out through one or more identified accounts; and,  
 
 d. ensure that banks do not disclose to the bank customer concerned or to other third persons that information has been sought or obtained in accordance with sub-paragraphs a, b, or c, or that an investigation is being carried out. Parties shall consider extending this provision to accounts held in non-bank financial institutions.     
-3.  Each Party shall consider adopting such legislative and other measures as may be necessary to enable it to use special investigative techniques facilitating the identification and tracing of proceeds and the gathering of evidence related thereto, such as observation, interception of telecommunications, access to computer systems and order to produce specific documents.   
+3.  Each Party shall consider adopting such legislative and other measures as may be necessary to enable it to use special investigative techniques facilitating the identification and tracing of proceeds and the gathering of evidence related thereto, such as observation, interception of telecommunications, access to computer systems and order to produce specific documents.  
 
 ### Article  8  
 
 ####Legal remedies
 
-Each Party shall adopt such legislative and other measures as may be necessary to ensure that interested parties affected by measures under Articles 3, 4 and 5 and such other provisions in this Section as are relevant, shall have effective legal remedies in order to preserve their rights.  
+Each Party shall adopt such legislative and other measures as may be necessary to ensure that interested parties affected by measures under Articles 3, 4 and 5 and such other provisions in this Section as are relevant, shall have effective legal remedies in order to preserve their rights. 
 
 ### Article  9  
 
@@ -121,11 +121,11 @@ Each Party shall adopt such legislative and other measures as may be necessary t
 
 a. the conversion or transfer of property, knowing that such property is proceeds, for the purpose of concealing or disguising the illicit origin of the property or of assisting any person who is involved in the commission of the predicate offence to evade the legal consequences of his actions;  
 
-b. the concealment or disguise of the true nature, source, location, disposition, movement, rights with respect to, or ownership of, property, knowing that such property is proceeds;   and, subject to its constitutional principles and the basic concepts of its legal system; 
+b. the concealment or disguise of the true nature, source, location, disposition, movement, rights with respect to, or ownership of, property, knowing that such property is proceeds;   and, subject to its constitutional principles and the basic concepts of its legal system;
 
-c. the acquisition, possession or use of property, knowing, at the time of receipt, that such property was proceeds;  
+c. the acquisition, possession or use of property, knowing, at the time of receipt, that such property was proceeds;
 
-d. participation in, association or conspiracy to commit, attempts to commit and aiding, abetting, facilitating and counselling the commission of any of the offences established in accordance with this article.     
+d. participation in, association or conspiracy to commit, attempts to commit and aiding, abetting, facilitating and counselling the commission of any of the offences established in accordance with this article.   
 2.  For the purposes of implementing or applying paragraph 1 of this article: 
 
 a. it shall not matter whether the predicate offence was subject to the criminal jurisdiction of the Party;  
@@ -147,7 +147,7 @@ b. only to a list of specified predicate offences; and/or
 c. to a category of serious offences in the national law of the Party.     
 5.  Each Party shall ensure that a prior or simultaneous conviction for the predicate offence is not a prerequisite for a conviction for money laundering.   
 6.  Each Party shall ensure that a conviction for money laundering under this Article is possible where it is proved that the property, the object of paragraph 1.a or b of this article, originated from a predicate offence, without it being necessary to establish precisely which offence.   
-7.  Each Party shall ensure that predicate offences for money laundering extend to conduct that occurred in another State, which constitutes an offence in that State, and which would have constituted a predicate offence had it occurred domestically. Each Party may provide that the only prerequisite is that the conduct would have constituted a predicate offence had it occurred domestically.   
+7.  Each Party shall ensure that predicate offences for money laundering extend to conduct that occurred in another State, which constitutes an offence in that State, and which would have constituted a predicate offence had it occurred domestically. Each Party may provide that the only prerequisite is that the conduct would have constituted a predicate offence had it occurred domestically.  
 
 ### Article  10  
 
@@ -159,18 +159,18 @@ a. a power of representation of the legal person; or
 
 b. an authority to take decisions on behalf of the legal person; or  
 
-c. an authority to exercise control within the legal person,   as well as for involvement of such a natural person as accessory or instigator in the above-mentioned offences.   
+c. an authority to exercise control within the legal person,   as well as for involvement of such a natural person as accessory or instigator in the above-mentioned offences.  
 2.  Apart from the cases already provided for in paragraph 1, each Party shall take the necessary measures to ensure that a legal person can be held liable where the lack of supervision or control by a natural person referred to in paragraph 1 has made possible the commission of the criminal offences mentioned in paragraph 1 for the benefit of that legal person by a natural person under its authority.   
 3.  Liability of a legal person under this Article shall not exclude criminal proceedings against natural persons who are perpetrators, instigators of, or accessories to, the criminal offences mentioned in paragraph 1.   
-4.  Each Party shall ensure that legal persons held liable in accordance with this Article, shall be subject to effective, proportionate and dissuasive criminal or non-criminal sanctions, including monetary sanctions.   
+4.  Each Party shall ensure that legal persons held liable in accordance with this Article, shall be subject to effective, proportionate and dissuasive criminal or non-criminal sanctions, including monetary sanctions.  
 
 ### Article  11  
 
 ####Previous decisions
 
-Each Party shall adopt such legislative and other measures as may be necessary to provide for the possibility of taking into account, when determining the penalty, final decisions against a natural or legal person taken in another Party in relation to offences established in accordance with this Convention.  
+Each Party shall adopt such legislative and other measures as may be necessary to provide for the possibility of taking into account, when determining the penalty, final decisions against a natural or legal person taken in another Party in relation to offences established in accordance with this Convention. 
 
-### SECTION  2  
+###SECTION 2 
 
 ####FINANCIAL INTELLIGENCE UNIT (FUI) AND PREVENTION
 
@@ -179,7 +179,7 @@ Each Party shall adopt such legislative and other measures as may be necessary t
 ####Financial intelligence unit (FIU)
 
 1.  Each Party shall adopt such legislative and other measures as may be necessary to establish an FIU as defined in this Convention.   
-2.  Each Party shall adopt such legislative and other measures as may be necessary to ensure that its FIU has access, directly or indirectly, on a timely basis to the financial, administrative and law enforcement information that it requires to properly undertake its functions, including the analysis of suspicious transaction reports.   
+2.  Each Party shall adopt such legislative and other measures as may be necessary to ensure that its FIU has access, directly or indirectly, on a timely basis to the financial, administrative and law enforcement information that it requires to properly undertake its functions, including the analysis of suspicious transaction reports.  
 
 ### Article  13  
 
@@ -194,26 +194,26 @@ a. require legal and natural persons which engage in activities which are partic
 
 (ii) report suspicions on money laundering subject to safeguard;  
 
-(iii) take supporting measures, such as record keeping on customer identification and transactions, training of personnel and the establishment of internal policies and procedures, and if appropriate, adapted to their size and nature of business;    
+(iii) take supporting measures, such as record keeping on customer identification and transactions, training of personnel and the establishment of internal policies and procedures, and if appropriate, adapted to their size and nature of business;   
 
-b. prohibit, as appropriate, the persons referred to in sub-paragraph a from disclosing the fact that a suspicious transaction report or related information has been transmitted or that a money laundering investigation is being or may be carried out;  
+b. prohibit, as appropriate, the persons referred to in sub-paragraph a from disclosing the fact that a suspicious transaction report or related information has been transmitted or that a money laundering investigation is being or may be carried out; 
 
-c. ensure that the persons referred to in sub-paragraph a are subject to effective systems for monitoring, and where applicable supervision, with a view to ensure their compliance with the requirements to combat money laundering, where appropriate on a risk sensitive basis.     
-3.  In that respect, each Party shall adopt such legislative or other measures as may be necessary to detect the significant physical cross border transportation of cash and appropriate bearer negotiable instruments.   
+c. ensure that the persons referred to in sub-paragraph a are subject to effective systems for monitoring, and where applicable supervision, with a view to ensure their compliance with the requirements to combat money laundering, where appropriate on a risk sensitive basis.    
+3.  In that respect, each Party shall adopt such legislative or other measures as may be necessary to detect the significant physical cross border transportation of cash and appropriate bearer negotiable instruments.  
 
 ### Article  14  
 
 ####Postponement of domestic suspicious transactions
 
-Each Party shall adopt such legislative and other measures as may be necessary to permit urgent action to be taken by the FIU or, as appropriate, by any other competent authorities or body, when there is a suspicion that a transaction is related to money laundering, to suspend or withhold consent to a transaction going ahead in order to analyse the transaction and confirm the suspicion. Each party may restrict such a measure to cases where a suspicious transaction report has been submitted. The maximum duration of any suspension or withholding of consent to a transaction shall be subject to any relevant provisions in national law.  
+Each Party shall adopt such legislative and other measures as may be necessary to permit urgent action to be taken by the FIU or, as appropriate, by any other competent authorities or body, when there is a suspicion that a transaction is related to money laundering, to suspend or withhold consent to a transaction going ahead in order to analyse the transaction and confirm the suspicion. Each party may restrict such a measure to cases where a suspicious transaction report has been submitted. The maximum duration of any suspension or withholding of consent to a transaction shall be subject to any relevant provisions in national law. 
 
 ### CHAPTER  IV  
 
 ####INTERNATIONAL CO-OPERATION
 
-### SECTION  1  
+###SECTION 1 
 
-####PRINCIPLES OF INTERNATIONAL CO-OPERATION
+####PRINCIPLES OF INTERNATIONAL CO-OPERATION 
 
 ### Article  15  
 
@@ -228,15 +228,15 @@ b. for investigative assistance and provisional measures with a view to either f
 3.  Investigative assistance and provisional measures sought in paragraph 2.b shall be carried out as permitted by and in accordance with the internal law of the requested Party. Where the request concerning one of these measures specifies formalities or procedures which are necessary under the law of the requesting Party, even if unfamiliar to the requested Party, the latter shall comply with such requests to the extent that the action sought is not contrary to the fundamental principles of its law.   
 4.  Each Party shall adopt such legislative or other measures as may be necessary to ensure that the requests coming from other Parties in order to identify, trace, freeze or seize the proceeds and instrumentalities, receive the same priority as those made in the framework of internal procedures.   
 
-### SECTION  2  
+###SECTION 2 
 
-####INVESTIGATIVE ASSISTANCE
+####INVESTIGATIVE ASSISTANCE 
 
 ### Article  16  
 
 ####Obligation to assist
 
-The Parties shall afford each other, upon request, the widest possible measure of assistance in the identification and tracing of instrumentalities, proceeds and other property liable to confiscation. Such assistance shall include any measure providing and securing evidence as to the existence, location or movement, nature, legal status or value of the aforementioned property.  
+The Parties shall afford each other, upon request, the widest possible measure of assistance in the identification and tracing of instrumentalities, proceeds and other property liable to confiscation. Such assistance shall include any measure providing and securing evidence as to the existence, location or movement, nature, legal status or value of the aforementioned property. 
 
 ### Article  17  
 
@@ -252,8 +252,8 @@ b. state on what grounds it presumes that banks in the requested Party hold the 
 
 c. include any additional information available which may facilitate the execution of the request.     
 4.  The requested Party may make the execution of such a request dependant on the same conditions as it applies in respect of requests for search and seizure.   
-5.  Each State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that this article applies only to the categories of offences specified in the list contained in the appendix to this Convention.   
-6.  Parties may extend this provision to accounts held in non-bank financial institutions. Such extension may be made subject to the principle of reciprocity.   
+5.  Each State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that this article applies only to the categories of offences specified in the list contained in the appendix to this Convention.    
+6.  Parties may extend this provision to accounts held in non-bank financial institutions. Such extension may be made subject to the principle of reciprocity.  
 
 ### Article  18  
 
@@ -263,7 +263,7 @@ c. include any additional information available which may facilitate the executi
 2.  The obligation set out in this Article shall apply only to the extent that the information is in the possession of the bank holding the account.   
 3.  In addition to the requirements of Article 37, the requesting Party shall in its request indicate why it considers the requested information relevant for the purpose of the criminal investigation into the offence.   
 4.  The requested Party may make the execution of such a request dependant on the same conditions as it applies in respect of requests for search and seizure.   
-5.  Parties may extend this provision to accounts held in non-bank financial institutions. Such extension may be made subject to the principle of reciprocity.   
+5.  Parties may extend this provision to accounts held in non-bank financial institutions. Such extension may be made subject to the principle of reciprocity.  
 
 ### Article  19  
 
@@ -272,16 +272,16 @@ c. include any additional information available which may facilitate the executi
 1.  Each Party shall ensure that, at the request of another Party, it is able to monitor, during a specified period, the banking operations that are being carried out through one or more accounts specified in the request and communicate the results thereof to the requesting Party.   
 2.  In addition to the requirements of Article 37, the requesting Party shall in its request indicate why it considers the requested information relevant for the purpose of the criminal investigation into the offence.   
 3.  The decision to monitor shall be taken in each individual case by the competent authorities of the requested Party, with due regard for the national law of that Party.   
-4.  The practical details regarding the monitoring shall be agreed between the competent authorities of the requesting and requested Parties.   
-5.  Parties may extend this provision to accounts held in non-bank financial institutions.   
+4.  The practical details regarding the monitoring shall be agreed between the competent authorities of the requesting and requested Parties.    
+5.  Parties may extend this provision to accounts held in non-bank financial institutions.  
 
 ### Article  20  
 
 ####Spontaneous information
 
-Without prejudice to its own investigations or proceedings, a Party may without prior request forward to another Party information on instrumentalities and proceeds, when it considers that the disclosure of such information might assist the receiving Party in initiating or carrying out investigations or proceedings or might lead to a request by that Party under this chapter.  
+Without prejudice to its own investigations or proceedings, a Party may without prior request forward to another Party information on instrumentalities and proceeds, when it considers that the disclosure of such information might assist the receiving Party in initiating or carrying out investigations or proceedings or might lead to a request by that Party under this chapter. 
 
-### SECTION  3  
+###SECTION 3 
 
 ####PROVISIONAL MEASURES
 
@@ -290,7 +290,7 @@ Without prejudice to its own investigations or proceedings, a Party may without 
 ####Obligation to take provisional measures
 
 1.  At the request of another Party which has instituted criminal proceedings or proceedings for the purpose of confiscation, a Party shall take the necessary provisional measures, such as freezing or seizing, to prevent any dealing in, transfer or disposal of property which, at a later stage, may be the subject of a request for confiscation or which might be such as to satisfy the request.   
-2.  A Party which has received a request for confiscation pursuant to Article 23 shall, if so requested, take the measures mentioned in paragraph 1 of this article in respect of any property which is the subject of the request or which might be such as to satisfy the request.   
+2.  A Party which has received a request for confiscation pursuant to Article 23 shall, if so requested, take the measures mentioned in paragraph 1 of this article in respect of any property which is the subject of the request or which might be such as to satisfy the request.  
 
 ### Article  22  
 
@@ -299,7 +299,7 @@ Without prejudice to its own investigations or proceedings, a Party may without 
 1.  After the execution of the provisional measures requested in conformity with paragraph 1 of Article 21, the requesting Party shall provide spontaneously and as soon as possible to the requested Party all information which may question or modify the extent of these measures. The requesting Party shall also provide without delays all complementary information requested by the requested Party and which is necessary for the implementation of and the follow up to the provisional measures.   
 2.  Before lifting any provisional measure taken pursuant to this article, the requested Party shall, wherever possible, give the requesting Party an opportunity to present its reasons in favour of continuing the measure.   
 
-### SECTION  4  
+###SECTION 4 
 
 ####CONFISCATION
 
@@ -315,17 +315,17 @@ b. submit the request to its competent authorities for the purpose of obtaining 
 2.  For the purposes of applying paragraph 1.b of this article, any Party shall whenever necessary have competence to institute confiscation proceedings under its own law.   
 3.  The provisions of paragraph 1 of this article shall also apply to confiscation consisting in a requirement to pay a sum of money corresponding to the value of proceeds, if property on which the confiscation can be enforced is located in the requested Party. In such cases, when enforcing confiscation pursuant to paragraph 1, the requested Party shall, if payment is not obtained, realise the claim on any property available for that purpose.   
 4.  If a request for confiscation concerns a specific item of property, the Parties may agree that the requested Party may enforce the confiscation in the form of a requirement to pay a sum of money corresponding to the value of the property.   
-5.  The Parties shall co-operate to the widest extent possible under their domestic law with those Parties which request the execution of measures equivalent to confiscation leading to the deprivation of property, which are not criminal sanctions, in so far as such measures are ordered by a judicial authority of the requesting Party in relation to a criminal offence, provided that it has been established that the property constitutes proceeds or other property in the meaning of Article 5 of this Convention.   
+5.  The Parties shall co-operate to the widest extent possible under their domestic law with those Parties which request the execution of measures equivalent to confiscation leading to the deprivation of property, which are not criminal sanctions, in so far as such measures are ordered by a judicial authority of the requesting Party in relation to a criminal offence, provided that it has been established that the property constitutes proceeds or other property in the meaning of Article 5 of this Convention.  
 
 ### Article  24  
 
 ####Execution of confiscation
 
 1.  The procedures for obtaining and enforcing the confiscation under Article 23 shall be governed by the law of the requested Party.   
-2.  The requested Party shall be bound by the findings as to the facts in so far as they are stated in a conviction or judicial decision of the requesting Party or in so far as such conviction or judicial decision is implicitly based on them.   
+2.  The requested Party shall be bound by the findings as to the facts in so far as they are stated in a conviction or judicial decision of the requesting Party or in so far as such conviction or judicial decision is implicitly based on them.    
 3.  Each State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by a declaration addressed to the Secretary General of the Council of Europe, declare that paragraph 2 of this article applies only subject to its constitutional principles and the basic concepts of its legal system.   
 4.  If the confiscation consists in the requirement to pay a sum of money, the competent authority of the requested Party shall convert the amount thereof into the currency of that Party at the rate of exchange ruling at the time when the decision to enforce the confiscation is taken.   
-5.  In the case of Article 23, paragraph 1.a, the requesting Party alone shall have the right to decide on any application for review of the confiscation order.   
+5.  In the case of Article 23, paragraph 1.a, the requesting Party alone shall have the right to decide on any application for review of the confiscation order.  
 
 ### Article  25  
 
@@ -333,7 +333,7 @@ b. submit the request to its competent authorities for the purpose of obtaining 
 
 1.  Property confiscated by a Party pursuant to Articles 23 and 24 of this Convention, shall be disposed of by that Party in accordance with its domestic law and administrative procedures.   
 2.  When acting on the request made by another Party in accordance with Articles 23 and 24 of this Convention, Parties shall, to the extent permitted by domestic law and if so requested, give priority consideration to returning the confiscated property to the requesting Party so that it can give compensation to the victims of the crime or return such property to their legitimate owners.   
-3.  When acting on the request made by another Party in accordance with Articles 23 and 24 of this Convention, a Party may give special consideration to concluding agreements or arrangements on sharing with other Parties, on a regular or case-by-case basis, such property, in accordance with its domestic law or administrative procedures.   
+3.  When acting on the request made by another Party in accordance with Articles 23 and 24 of this Convention, a Party may give special consideration to concluding agreements or arrangements on sharing with other Parties, on a regular or case-by-case basis, such property, in accordance with its domestic law or administrative procedures.  
 
 ### Article  26  
 
@@ -346,11 +346,11 @@ b. submit the request to its competent authorities for the purpose of obtaining 
 
 ####Imprisonment in default
 
-The requested Party shall not impose imprisonment in default or any other measure restricting the liberty of a person as a result of a request under Article 23, if the requesting Party has so specified in the request.  
+The requested Party shall not impose imprisonment in default or any other measure restricting the liberty of a person as a result of a request under Article 23, if the requesting Party has so specified in the request. 
 
-### SECTION  5  
+###SECTION 5 
 
-####REFUSAL AND POSTPONEMENT OF CO-OPERATION
+####REFUSAL AND POSTPONEMENT OF CO-OPERATION 
 
 ### Article  28  
 
@@ -381,21 +381,21 @@ b. without prejudice to the obligation pursuant to Article 23, paragraph 3, it
 
 (i) an economic advantage that might be qualified as its proceeds; or  
 
-(ii) property that might be qualified as its instrumentalities; or    
+(ii) property that might be qualified as its instrumentalities; or   
 
-c. under the law of the requested Party confiscation may no longer be imposed or enforced because of the lapse of time; or  
+c. under the law of the requested Party confiscation may no longer be imposed or enforced because of the lapse of time; or 
 
-d. without prejudice to Article 23, paragraph 5, the request does not relate to a previous conviction, or a decision of a judicial nature or a statement in such a decision that an offence or several offences have been committed, on the basis of which the confiscation has been ordered or is sought; or  
+d. without prejudice to Article 23, paragraph 5, the request does not relate to a previous conviction, or a decision of a judicial nature or a statement in such a decision that an offence or several offences have been committed, on the basis of which the confiscation has been ordered or is sought; or 
 
-e. confiscation is either not enforceable in the requesting Party, or it is still subject to ordinary means of appeal; or  
+e. confiscation is either not enforceable in the requesting Party, or it is still subject to ordinary means of appeal; or 
 
-f. the request relates to a confiscation order resulting from a decision rendered in absentia of the person against whom the order was issued and, in the opinion of the requested Party, the proceedings conducted by the requesting Party leading to such decision did not satisfy the minimum rights of defence recognised as due to everyone against whom a criminal charge is made.     
-5.  For the purpose of paragraph 4.f of this article a decision is not considered to have been rendered in absentia if: *in absentia* if: 
+f. the request relates to a confiscation order resulting from a decision rendered in absentia of the person against whom the order was issued and, in the opinion of the requested Party, the proceedings conducted by the requesting Party leading to such decision did not satisfy the minimum rights of defence recognised as due to everyone against whom a criminal charge is made.    
+5.  For the purpose of paragraph 4.f of this article a decision is not considered to have been rendered in absentia if:*in absentia* if: 
 
 a. it has been confirmed or pronounced after opposition by the person concerned; or  
 
 b. it has been rendered on appeal, provided that the appeal was lodged by the person concerned.     
-6.  When considering, for the purposes of paragraph 4.f of this article if the minimum rights of defence have been satisfied, the requested Party shall take into account the fact that the person concerned has deliberately sought to evade justice or the fact that that person, having had the possibility of lodging a legal remedy against the decision made in absentia,elected not to do so. The same will apply when the person concerned, having been duly served with the summons to appear, elected not to do so nor to ask for adjournment. *in absentia*,elected not to do so. The same will apply when the person concerned, having been duly served with the summons to appear, elected not to do so nor to ask for adjournment.   
+6.  When considering, for the purposes of paragraph 4.f of this article if the minimum rights of defence have been satisfied, the requested Party shall take into account the fact that the person concerned has deliberately sought to evade justice or the fact that that person, having had the possibility of lodging a legal remedy against the decision made in absentia,elected not to do so. The same will apply when the person concerned, having been duly served with the summons to appear, elected not to do so nor to ask for adjournment.*in absentia*,elected not to do so. The same will apply when the person concerned, having been duly served with the summons to appear, elected not to do so nor to ask for adjournment.   
 7.  A Party shall not invoke bank secrecy as a ground to refuse any co-operation under this chapter. Where its domestic law so requires, a Party may require that a request for co-operation which would involve the lifting of bank secrecy be authorised by either a judge or another judicial authority, including public prosecutors, any of these authorities acting in relation to criminal offences.   
 8.  Without prejudice to the ground for refusal provided for in paragraph 1.a of this article: 
 
@@ -403,13 +403,13 @@ a. the fact that the person under investigation or subjected to a confiscation o
 
 b. the fact that the natural person against whom an order of confiscation of proceeds has been issued has died or the fact that a legal person against whom an order of confiscation of proceeds has been issued has subsequently been dissolved shall not be invoked as an obstacle to render assistance in accordance with Article 23, paragraph 1.a.;  
 
-c. the fact that the person under investigation or subjected to a confiscation order by the authorities of the requesting Party is mentioned in the request both as the author of the underlying criminal offence and of the offence of money laundering, in accordance with Article 9.2.b of this Convention, shall not be invoked by the requested Party as an obstacle to affording any co-operation under this chapter.     
+c. the fact that the person under investigation or subjected to a confiscation order by the authorities of the requesting Party is mentioned in the request both as the author of the underlying criminal offence and of the offence of money laundering, in accordance with Article 9.2.b of this Convention, shall not be invoked by the requested Party as an obstacle to affording any co-operation under this chapter.    
 
 ### Article  29  
 
 ####Postponement
 
-The requested Party may postpone action on a request if such action would prejudice investigations or proceedings by its authorities.  
+The requested Party may postpone action on a request if such action would prejudice investigations or proceedings by its authorities. 
 
 ### Article  30  
 
@@ -417,9 +417,9 @@ The requested Party may postpone action on a request if such action would prejud
 
 Before refusing or postponing co-operation under this chapter, the requested Party shall, where appropriate after having consulted the requesting Party, consider whether the request may be granted partially or subject to such conditions as it deems necessary.  
 
-### SECTION  6  
+###SECTION 6 
 
-####NOTIFICATION AND PROTECTION OF THIRD PARTIES' RIGHTS
+####NOTIFICATION AND PROTECTION OF THIRD PARTIES' RIGHTS 
 
 ### Article  31  
 
@@ -430,8 +430,8 @@ Before refusing or postponing co-operation under this chapter, the requested Par
 
 a. the possibility of sending judicial documents, by postal channels, directly to persons abroad;  
 
-b. the possibility for judicial officers, officials or other competent authorities of the Party of origin to effect service of judicial documents directly through the consular authorities of that Party or through judicial officers, officials or other competent authorities of the Party of destination,   unless the Party of destination makes a declaration to the contrary to the Secretary General of the Council of Europe at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession.   
-3.  When serving judicial documents to persons abroad affected by provisional measures or confiscation orders issued in the sending Party, this Party shall indicate what legal remedies are available under its law to such persons.   
+b. the possibility for judicial officers, officials or other competent authorities of the Party of origin to effect service of judicial documents directly through the consular authorities of that Party or through judicial officers, officials or other competent authorities of the Party of destination,   unless the Party of destination makes a declaration to the contrary to the Secretary General of the Council of Europe at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession.  
+3.  When serving judicial documents to persons abroad affected by provisional measures or confiscation orders issued in the sending Party, this Party shall indicate what legal remedies are available under its law to such persons.  
 
 ### Article  32  
 
@@ -446,18 +446,18 @@ b. the decision is incompatible with a decision already taken in the requested P
 
 c. it is incompatible with the ordre public of the requested Party; or  
 
-d. the decision was taken contrary to provisions on exclusive jurisdiction provided for by the law of the requested Party.     
+d. the decision was taken contrary to provisions on exclusive jurisdiction provided for by the law of the requested Party.    
 
-### SECTION  7  
+###SECTION 7 
 
-####PROCEDURAL AND OTHER GENERAL RULES
+####PROCEDURAL AND OTHER GENERAL RULES 
 
 ### Article  33  
 
 ####Central authority
 
 1.  The Parties shall designate a central authority or, if necessary, authorities, which shall be responsible for sending and answering requests made under this chapter, the execution of such requests or the transmission of them to the authorities competent for their execution.   
-2.  Each Party shall, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, communicate to the Secretary General of the Council of Europe the names and addresses of the authorities designated in pursuance of paragraph 1 of this article.   
+2.  Each Party shall, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, communicate to the Secretary General of the Council of Europe the names and addresses of the authorities designated in pursuance of paragraph 1 of this article.  
 
 ### Article  34  
 
@@ -476,19 +476,19 @@ d. the decision was taken contrary to provisions on exclusive jurisdiction provi
 
 1.  All requests under this chapter shall be made in writing. They may be transmitted electronically, or by any other means of telecommunication, provided that the requesting Party is prepared, upon request, to produce at any time a written record of such communication and the original. However each Party may, at any time, by a declaration addressed to the Secretary General of the Council of Europe, indicate the conditions in which it is ready to accept and execute requests received electronically or by any other means of communication.   
 2.  Subject to the provisions of paragraph 3 of this article, translations of the requests or supporting documents shall not be required.   
-3.  At the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, any State or the European Community may communicate to the Secretary General of the Council of Europe a declaration that it reserves the right to require that requests made to it and documents supporting such requests be accompanied by a translation into its own language or into one of the official languages of the Council of Europe or into such one of these languages as it shall indicate. It may on that occasion declare its readiness to accept translations in any other language as it may specify. The other Parties may apply the reciprocity rule.   
+3.  At the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, any State or the European Community may communicate to the Secretary General of the Council of Europe a declaration that it reserves the right to require that requests made to it and documents supporting such requests be accompanied by a translation into its own language or into one of the official languages of the Council of Europe or into such one of these languages as it shall indicate. It may on that occasion declare its readiness to accept translations in any other language as it may specify. The other Parties may apply the reciprocity rule.  
 
 ### Article  36  
 
 ####Legalisation
 
-Documents transmitted in application of this chapter shall be exempt from all legalisation formalities.  
+Documents transmitted in application of this chapter shall be exempt from all legalisation formalities. 
 
 ### Article  37  
 
 ####Content of request
 
-1.  Any request for co-operation under this chapter shall specify: 
+1.  Any request for co-operation under this chapter shall specify:  
 
 a. the authority making the request and the authority carrying out the investigations or proceedings;  
 
@@ -500,15 +500,15 @@ d. in so far as the co-operation involves coercive action:
 
 (i) the text of the statutory provisions or, where this is not possible, a statement of the relevant law applicable; and  
 
-(ii) an indication that the measure sought or any other measures having similar effects could be taken in the territory of the requesting Party under its own law;    
+(ii) an indication that the measure sought or any other measures having similar effects could be taken in the territory of the requesting Party under its own law;   
 
 e. where necessary and in so far as possible: 
 
 (i) details of the person or persons concerned, including name, date and place of birth, nationality and location, and, in the case of a legal person, its seat; and  
 
-(ii) the property in relation to which co-operation is sought, its location, its connection with the person or persons concerned, any connection with the offence, as well as any available information about other persons, interests in the property; and    
+(ii) the property in relation to which co-operation is sought, its location, its connection with the person or persons concerned, any connection with the offence, as well as any available information about other persons, interests in the property; and  
 
-f. any particular procedure the requesting Party wishes to be followed.     
+f. any particular procedure the requesting Party wishes to be followed.    
 2.  A request for provisional measures under Section 3 in relation to seizure of property on which a confiscation order consisting in the requirement to pay a sum of money may be realised shall also indicate a maximum amount for which recovery is sought in that property.   
 3.  In addition to the indications mentioned in paragraph 1, any request under Section 4 shall contain: 
 
@@ -520,11 +520,11 @@ a. in the case of Article 23, paragraph 1.a:
 
 (iii) information as to the extent to which the enforcement of the order is requested; and  
 
-(iv) information as to the necessity of taking any provisional measures;    
+(iv) information as to the necessity of taking any provisional measures;   
 
-b. in the case of Article 23, paragraph 1.b, a statement of the facts relied upon by the requesting Party sufficient to enable the requested Party to seek the order under its domestic law;  
+b. in the case of Article 23, paragraph 1.b, a statement of the facts relied upon by the requesting Party sufficient to enable the requested Party to seek the order under its domestic law; 
 
-c. when third parties have had the opportunity to claim rights, documents demonstrating that this has been the case.     
+c. when third parties have had the opportunity to claim rights, documents demonstrating that this has been the case.   
 
 ### Article  38  
 
@@ -532,20 +532,20 @@ c. when third parties have had the opportunity to claim rights, documents demons
 
 1.  If a request does not comply with the provisions of this chapter or the information supplied is not sufficient to enable the requested Party to deal with the request, that Party may ask the requesting Party to amend the request or to complete it with additional information.   
 2.  The requested Party may set a time-limit for the receipt of such amendments or information.   
-3.  Pending receipt of the requested amendments or information in relation to a request under Section 4 of this chapter, the requested Party may take any of the measures referred to in Sections 2 or 3 of this chapter.   
+3.  Pending receipt of the requested amendments or information in relation to a request under Section 4 of this chapter, the requested Party may take any of the measures referred to in Sections 2 or 3 of this chapter.  
 
 ### Article  39  
 
 ####Plurality of requests
 
 1.  Where the requested Party receives more than one request under Sections 3 or 4 of this chapter in respect of the same person or property, the plurality of requests shall not prevent that Party from dealing with the requests involving the taking of provisional measures.   
-2.  In the case of plurality of requests under Section 4 of this chapter, the requested Party shall consider consulting the requesting Parties.   
+2.  In the case of plurality of requests under Section 4 of this chapter, the requested Party shall consider consulting the requesting Parties.  
 
 ### Article  40  
 
 ####Obligation to give reasons
 
-The requested Party shall give reasons for any decision to refuse, postpone or make conditional any co-operation under this chapter.  
+The requested Party shall give reasons for any decision to refuse, postpone or make conditional any co-operation under this chapter. 
 
 ### Article  41  
 
@@ -567,14 +567,14 @@ e. in the event of provisional measures taken pursuant to a request under Sectio
 a. any review, decision or any other fact by reason of which the confiscation order ceases to be wholly or partially enforceable; and  
 
 b. any development, factual or legal, by reason of which any action under this chapter is no longer justified.     
-3.  Where a Party, on the basis of the same confiscation order, requests confiscation in more than one Party, it shall inform all Parties which are affected by an enforcement of the order about the request.   
+3.  Where a Party, on the basis of the same confiscation order, requests confiscation in more than one Party, it shall inform all Parties which are affected by an enforcement of the order about the request.  
 
 ### Article  42  
 
 ####Restriction of use
 
 1.  The requested Party may make the execution of a request dependent on the condition that the information or evidence obtained will not, without its prior consent, be used or transmitted by the authorities of the requesting Party for investigations or proceedings other than those specified in the request.   
-2.  Each State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by declaration addressed to the Secretary General of the Council of Europe, declare that, without its prior consent, information or evidence provided by it under this chapter may not be used or transmitted by the authorities of the requesting Party in investigations or proceedings other than those specified in the request.   
+2.  Each State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, by declaration addressed to the Secretary General of the Council of Europe, declare that, without its prior consent, information or evidence provided by it under this chapter may not be used or transmitted by the authorities of the requesting Party in investigations or proceedings other than those specified in the request.  
 
 ### Article  43  
 
@@ -582,20 +582,20 @@ b. any development, factual or legal, by reason of which any action under this c
 
 1.  The requesting Party may require that the requested Party keep confidential the facts and substance of the request, except to the extent necessary to execute the request. If the requested Party cannot comply with the requirement of confidentiality, it shall promptly inform the requesting Party.   
 2.  The requesting Party shall, if not contrary to basic principles of its national law and if so requested, keep confidential any evidence and information provided by the requested Party, except to the extent that its disclosure is necessary for the investigations or proceedings described in the request.   
-3.  Subject to the provisions of its domestic law, a Party which has received spontaneous information under Article 20 shall comply with any requirement of confidentiality as required by the Party which supplies the information. If the other Party cannot comply with such requirement, it shall promptly inform the transmitting Party.   
+3.  Subject to the provisions of its domestic law, a Party which has received spontaneous information under Article 20 shall comply with any requirement of confidentiality as required by the Party which supplies the information. If the other Party cannot comply with such requirement, it shall promptly inform the transmitting Party.  
 
 ### Article  44  
 
 ####Costs
 
-The ordinary costs of complying with a request shall be borne by the requested Party. Where costs of a substantial or extraordinary nature are necessary to comply with a request, the Parties shall consult in order to agree the conditions on which the request is to be executed and how the costs shall be borne.  
+The ordinary costs of complying with a request shall be borne by the requested Party. Where costs of a substantial or extraordinary nature are necessary to comply with a request, the Parties shall consult in order to agree the conditions on which the request is to be executed and how the costs shall be borne. 
 
 ### Article  45  
 
 ####Damages
 
 1.  When legal action on liability for damages resulting from an act or omission in relation to co-operation under this chapter has been initiated by a person, the Parties concerned shall consider consulting each other, where appropriate, to determine how to apportion any sum of damages due.   
-2.  A Party which has become subject of a litigation for damages shall endeavour to inform the other Party of such litigation if that Party might have an interest in the case.   
+2.  A Party which has become subject of a litigation for damages shall endeavour to inform the other Party of such litigation if that Party might have an interest in the case.  
 
 ### CHAPTER  V  
 
@@ -606,7 +606,7 @@ The ordinary costs of complying with a request shall be borne by the requested P
 ####Co-operation between FIUs
 
 1.  Parties shall ensure that FIUs, as defined in this Convention, shall cooperate for the purpose of combating money laundering, to assemble and analyse, or, if appropriate, investigate within the FIU relevant information on any fact which might be an indication of money laundering in accordance with their national powers.   
-2.  For the purposes of paragraph 1, each Party shall ensure that FIUs exchange, spontaneously or on request and either in accordance with this Convention or in accordance with existing or future memoranda of understanding compatible with this Convention, any accessible information that may be relevant to the processing or analysis of information or, if appropriate, to investigation by the FIU regarding financial transactions related to money laundering and the natural or legal persons involved.   
+2.  For the purposes of paragraph 1, each Party shall ensure that FIUs exchange, spontaneously or on request and either in accordance with this Convention or in accordance with existing or future memoranda of understanding compatible with this Convention, any accessible information that may be relevant to the processing or analysis of information or, if appropriate, to investigation by the FIU regarding financial transactions related to money laundering and the natural or legal persons involved.    
 3.  Each Party shall ensure that the performance of the functions of the FIUs under this article shall not be affected by their internal status, regardless of whether they are administrative, law enforcement or judicial authorities.   
 4.  Each request made under this article shall be accompanied by a brief statement of the relevant facts known to the requesting FIU. The FIU shall specify in the request how the information sought will be used.   
 5.  When a request is made in accordance with this article, the requested FIU shall provide all relevant information, including accessible financial information and requested law enforcement data, sought in the request, without the need for a formal letter of request under applicable conventions or agreements between the Parties.   
@@ -615,9 +615,9 @@ The ordinary costs of complying with a request shall be borne by the requested P
 8.  When transmitting information or documents pursuant to this article, the transmitting FIU may impose restrictions and conditions on the use of information for purposes other than those stipulated in paragraph 7. The receiving FIU shall comply with any such restrictions and conditions.   
 9.  Where a Party wishes to use transmitted information or documents for criminal investigations or prosecutions for the purposes laid down in paragraph 7, the transmitting FIU may not refuse its consent to such use unless it does so on the basis of restrictions under its national law or conditions referred to in paragraph 6. Any refusal to grant consent shall be appropriately explained.   
 10.  FIUs shall undertake all necessary measures, including security measures, to ensure that information submitted under this article is not accessible by any other authorities, agencies or departments.   
-11.  The information submitted shall be protected, in conformity with the Council of Europe Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data (ETS No. 108) and taking account of Recommendation No R(87)15 of 15 September 1987 of the Committee of Ministers of the Council of Europe Regulating the Use of Personal Data in the Police Sector, by at least the same rules of confidentiality and protection of personal data as those that apply under the national legislation applicable to the requesting FIU.   
-12.  The transmitting FIU may make reasonable enquiries as to the use made of information provided and the receiving FIU shall, whenever practicable, provide such feedback.   
-13.  Parties shall indicate the unit which is an FIU within the meaning of this article.   
+11.  The information submitted shall be protected, in conformity with the Council of Europe [Convention of 28 January 1981 for the Protection of Individuals with regard to Automatic Processing of Personal Data](../../../../../../../../../../../../../verdrag/convention/for/the/protection/of/individuals/with/regard/to/automatic/etc/BWBV0002783/README.md) (ETS No. 108) and taking account of Recommendation No R(87)15 of 15 September 1987 of the Committee of Ministers of the Council of Europe Regulating the Use of Personal Data in the Police Sector, by at least the same rules of confidentiality and protection of personal data as those that apply under the national legislation applicable to the requesting FIU.   
+12.  The transmitting FIU may make reasonable enquiries as to the use made of information provided and the receiving FIU shall, whenever practicable, provide such feedback.    
+13.  Parties shall indicate the unit which is an FIU within the meaning of this article.  
 
 ### Article  47  
 
@@ -644,7 +644,7 @@ a. shall monitor the proper implementation of the Convention by the Parties;
 
 b. shall, at the request of a Party, express an opinion on any question concerning the interpretation and application of the Convention.     
 2.  The COP shall carry out the functions under paragraph 1.a above by using any available Select Committee of Experts on the Evaluation of Anti-Money Laundering Measures (Moneyval) public summaries (for Moneyval countries) and any available FATF public summaries (for FATF countries), supplemented by periodic self assessment questionnaires, as appropriate. The monitoring procedure will deal with areas covered by this Convention only in respect of those areas which are not covered by other relevant international standards on which mutual evaluations are carried out by the FATF and Moneyval.   
-3.  If the COP concludes that it requires further information in the discharge of its functions, it shall liaise with the Party concerned, taking advantage, if so required by the COP, of the procedure and mechanism of Moneyval. The Party concerned shall then report back to the COP. The COP shall on this basis decide whether or not to carry out a more in-depth assessment of the position of the Party concerned. This may, but need not necessarily, involve, a country visit by an evaluation team.   
+3.  If the COP concludes that it requires further information in the discharge of its functions, it shall liaise with the Party concerned, taking advantage, if so required by the COP, of the procedure and mechanism of Moneyval. The Party concerned shall then report back to the COP. The COP shall on this basis decide whether or not to carry out a more in-depth assessment of the position of the Party concerned. This may, but need not necessarily, involve, a country visit by an evaluation team.    
 4.  In case of a dispute between Parties as to the interpretation or application of the Convention, they shall seek a settlement of the dispute through negotiation or any other peaceful means of their choice, including submission of the dispute to the COP, to an arbitral tribunal whose decisions shall be binding upon the Parties, or to the International Court of Justice, as agreed upon by the Parties concerned.   
 5.  The COP shall adopt its own rules of procedure.   
 6.  The Secretary General of the Council of Europe shall convene the COP not later than one year following the entry into force of this Convention. Thereafter, regular meetings of the COP shall be held in accordance with the rules of procedure adopted by the COP.   
@@ -670,14 +670,14 @@ b. signature subject to ratification, acceptance or approval, followed by ratifi
 
 a. shall apply the provisions of this Convention in their mutual relationships;  
 
-b. shall continue to apply the provisions of the 1990 Convention in their relations with other Parties to the said Convention, but not to the present Convention.     
+b. shall continue to apply the provisions of the 1990 Convention in their relations with other Parties to the said Convention, but not to the present Convention.    
 
 ### Article  50  
 
 ####Accession to the Convention
 
-1.  After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting the Parties to the Convention, may invite any State not a member of the Council and not having participated in its elaboration to accede to this Convention, by a decision taken by the majority provided for in Article 20.d. of the Statute of the Council of Europe and by the unanimous vote of the representatives of the Parties entitled to sit on the Committee.   
-2.  In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.   
+1.  After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting the Parties to the Convention, may invite any State not a member of the Council and not having participated in its elaboration to accede to this Convention, by a decision taken by the majority provided for in [Article 20.d. of the Statute of the Council of Europe](../../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) and by the unanimous vote of the representatives of the Parties entitled to sit on the Committee.   
+2.  In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.  
 
 ### Article  51  
 
@@ -685,7 +685,7 @@ b. shall continue to apply the provisions of the 1990 Convention in their relati
 
 1.  Any State or the European Community may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which the Convention shall apply.   
 2.  Any Party may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of the Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.   
-3.  Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.   
+3.  Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.  
 
 ### Article  52  
 
@@ -694,7 +694,7 @@ b. shall continue to apply the provisions of the 1990 Convention in their relati
 1.  This Convention does not affect the rights and undertakings of Parties derived from international multilateral instruments concerning special matters.   
 2.  The Parties to this Convention may conclude bilateral or multilateral agreements with one another on the matters dealt with in this Convention, for the purposes of supplementing or strengthening its provisions or facilitating the application of the principles embodied in it.   
 3.  If two or more Parties have already concluded an agreement or treaty in respect of a subject which is dealt with in this Convention or otherwise have established their relations in respect of that subject, they shall be entitled to apply that agreement or treaty or to regulate these relations accordingly, in lieu of the Convention, if it facilitates international co-operation.   
-4.  Parties which are members of the European Union shall, in their mutual relations, apply Community and European Union rules in so far as there are Community or European Union rules governing the particular subject concerned and applicable to the specific case, without prejudice to the object and purpose of the present Convention and without prejudice to its full application with other Parties.   
+4.  Parties which are members of the European Union shall, in their mutual relations, apply Community and European Union rules in so far as there are Community or European Union rules governing the particular subject concerned and applicable to the specific case, without prejudice to the object and purpose of the present Convention and without prejudice to its full application with other Parties.  
 
 ### Article  53  
 
@@ -709,10 +709,10 @@ a. that it will not apply Article 3, paragraph 4 of this Convention; or
 
 b. that it will apply Article 3, paragraph 4 of this Convention only partly; or  
 
-c. the manner in which it intends to apply Article 3, paragraph 4 of this Convention. It shall notify any changes in this information to the Secretary General of the Council of Europe.     
+c. the manner in which it intends to apply Article 3, paragraph 4 of this Convention. It shall notify any changes in this information to the Secretary General of the Council of Europe.      
 5.  No other reservation may be made.   
 6.  Any Party which has made a reservation under this article may wholly or partly withdraw it by means of a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall take effect on the date of receipt of such notification by the Secretary General.   
-7.  A Party which has made a reservation in respect of a provision of the Convention may not claim the application of that provision by any other Party; it may, however, if its reservation is partial or conditional, claim the application of that provision in so far as it has itself accepted it.   
+7.  A Party which has made a reservation in respect of a provision of the Convention may not claim the application of that provision by any other Party; it may, however, if its reservation is partial or conditional, claim the application of that provision in so far as it has itself accepted it.  
 
 ### Article  54  
 
@@ -720,15 +720,15 @@ c. the manner in which it intends to apply Article 3, paragraph 4 of this Conven
 
 1.  Amendments to the Convention may be proposed by any Party, and shall be communicated by the Secretary General of the Council of Europe to the member States of the Council of Europe, to the European Community and to every non-member State which has acceded to or has been invited to accede to this Convention in accordance with the provisions of Article 50.   
 2.  Any amendment proposed by a Party shall be communicated to the European Committee on Crime Problems (CDPC) which shall submit to the Committee of Ministers its opinion on that proposed amendment.   
-3.  The Committee of Ministers shall consider the proposed amendment and the opinion submitted by the CDPC and may adopt the amendment by the majority provided for in Article 20.d of the Statute of the Council of Europe.   
+3.  The Committee of Ministers shall consider the proposed amendment and the opinion submitted by the CDPC and may adopt the amendment by the majority provided for in [Article 20.d of the Statute of the Council of Europe](../../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md).   
 4.  The text of any amendment adopted by the Committee of Ministers in accordance with paragraph 3 of this article shall be forwarded to the Parties for acceptance.   
 5.  Any amendment adopted in accordance with paragraph 3 of this article shall come into force on the thirtieth day after all Parties have informed the Secretary General of their acceptance thereof.   
 6.  In order to update the categories of offences contained in the appendix, as well as amend Article 13, amendments may be proposed by any Party or by the Committee of Ministers. They shall be communicated by the Secretary General of the Council of Europe to the Parties.   
-7.  After having consulted the Parties which are not members of the Council of Europe and, if necessary the CDPC, the Committee of Ministers may adopt an amendment proposed in accordance with paragraph 6 by the majority provided for in Article 20.d of the Statute of the Council of Europe. The amendment shall enter into force following the expiry of a period of one year after the date on which it has been forwarded to the Parties. During this period, any Party may notify the Secretary General of any objection to the entry into force of the amendment in its respect.   
+7.  After having consulted the Parties which are not members of the Council of Europe and, if necessary the CDPC, the Committee of Ministers may adopt an amendment proposed in accordance with paragraph 6 by the majority provided for in [Article 20.d of the Statute of the Council of Europe](../../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md). The amendment shall enter into force following the expiry of a period of one year after the date on which it has been forwarded to the Parties. During this period, any Party may notify the Secretary General of any objection to the entry into force of the amendment in its respect.   
 8.  If one-third of the Parties notifies the Secretary General of an objection to the entry into force of the amendment, the amendment shall not enter into force.   
 9.  If less than one-third of the Parties notifies an objection, the amendment shall enter into force for those Parties which have not notified an objection.   
 10.  Once an amendment has entered into force in accordance with paragraphs 6 to 9 of this article and a Party has notified an objection to it, this amendment shall come into force in respect of the Party concerned on the first day of the month following the date on which it has notified the Secretary General of the Council of Europe of its acceptance. A Party which has made an objection may withdraw it at any time by notifying it to the Secretary General of the Council of Europe.   
-11.  If an amendment has been adopted by the Committee of Ministers, a State or the European Community may not express their consent to be bound by the Convention, without accepting at the same time the amendment.   
+11.  If an amendment has been adopted by the Committee of Ministers, a State or the European Community may not express their consent to be bound by the Convention, without accepting at the same time the amendment.  
 
 ### Article  55  
 
@@ -736,7 +736,7 @@ c. the manner in which it intends to apply Article 3, paragraph 4 of this Conven
 
 1.  Any Party may, at any time, denounce the Convention by means of a notification addressed to the Secretary General of the Council of Europe.   
 2.  Such denunciation shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of the notification by the Secretary General.   
-3.  The present Convention shall, however, continue to apply to the enforcement under Article 23 of confiscation for which a request has been made in conformity with the provisions of the Convention before the date on which such a denunciation takes effect.   
+3.  The present Convention shall, however, continue to apply to the enforcement under Article 23 of confiscation for which a request has been made in conformity with the provisions of the Convention before the date on which such a denunciation takes effect.  
 
 ### Article  56  
 
@@ -752,7 +752,7 @@ c. any date of entry into force of the Convention in accordance with Articles 4
 
 d. any declaration or reservation made under Article 53;  
 
-e. any other act, notification or communication relating to the Convention.    
+e. any other act, notification or communication relating to the Convention.   
 
 IN WITNESS whereof the undersigned, being duly authorised thereto, have signed this Convention. DONE at Warsaw, this 16th day of May 2005, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Community, to the non-member States which have participated in the elaboration of the Convention and to any State invited to accede to it.  
 
@@ -760,30 +760,30 @@ IN WITNESS whereof the undersigned, being duly authorised thereto, have signed t
 
 | --- | --- |
 |:---|:---|
-| a  | participation in an organised criminal group and racketeering;  |
-| b  | terrorism, including financing of terrorism;  |
-| c  | trafficking in human beings and migrant smuggling;  |
-| d  | sexual exploitation, including sexual exploitation of children;  |
+| a  | participation in an organised criminal group and racketeering;   |
+| b  | terrorism, including financing of terrorism;   |
+| c  | trafficking in human beings and migrant smuggling;   |
+| d  | sexual exploitation, including sexual exploitation of children;   |
 | e  | illicit trafficking in narcotic drugs and psychotropic substances;  |
 | f  | illicit arms trafficking;  |
-| g  | illicit trafficking in stolen and other goods;  |
-| h  | corruption and bribery;  |
-| i  | fraud;  |
-| j  | counterfeiting currency;  |
-| k  | counterfeiting and piracy of products;  |
-| l  | environmental crime;  |
-| m  | murder, grievous bodily injury;  |
-| n  | kidnapping, illegal restraint and hostage-taking;  |
-| o  | robbery and theft;  |
+| g  | illicit trafficking in stolen and other goods;   |
+| h  | corruption and bribery;   |
+| i  | fraud;   |
+| j  | counterfeiting currency;   |
+| k  | counterfeiting and piracy of products;   |
+| l  | environmental crime;   |
+| m  | murder, grievous bodily injury;   |
+| n  | kidnapping, illegal restraint and hostage-taking;   |
+| o  | robbery and theft;   |
 | p  | smuggling;  |
-| q  | extortion;  |
-| r  | forgery;  |
+| q  | extortion;   |
+| r  | forgery;   |
 | s  | piracy; and  |
 | t  | insider trading and market manipulation.  |
 
 ####Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven en de financiering van terrorisme
 
-Preambule De lidstaten van de Raad van Europa en de andere Staten die dit Verdrag hebben ondertekend, Overwegende dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden; Overtuigd van de noodzaak een gezamenlijk strafrechtelijk beleid te voeren dat is gericht op de bescherming van de maatschappij; Overwegende dat de bestrijding van de zware criminaliteit, die in toenemende mate een internationaal probleem wordt, het gebruik van moderne en doeltreffende methoden vergt op internationaal niveau; In de mening dat een van die methoden behelst de daders de opbrengsten van misdrijven alsmede hulpmiddelen om strafbare feiten te plegen, af te nemen; Overwegende dat voor de verwezenlijking van dat doel tevens een goed functionerend systeem van internationale samenwerking moet worden opgezet; Indachtig het Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven (ETS nr. 141, hierna te noemen „het Verdrag van 1990’’); Tevens in herinnering roepend Resolutie nr. 1373 (2001) betreffende gevaren voor de internationale vrede en veiligheid ten gevolge van terroristische handelingen, op 28 september 2001 aangenomen door de Veiligheidsraad van de Verenigde Naties, en daarvan in het bijzonder artikel 3, onderdeel d; In herinnering roepend het Internationaal Verdrag ter bestrijding van de financiering van terrorisme, op 9 december 1999 aangenomen door de Algemene Vergadering van de Verenigde Naties, en in het bijzonder de artikelen 2 en 4, waarin de Staten die Partij zijn bij dit Verdrag verplicht worden het financieren van terrorisme strafbaar te stellen; Overtuigd van de noodzaak onverwijld maatregelen te nemen teneinde het bovengenoemde Internationaal Verdrag ter bestrijding van de financiering van terrorisme te bekrachtigen en ten volle uit te voeren; Zijn het volgende overeengekomen:     
+Preambule De lidstaten van de Raad van Europa en de andere Staten die dit Verdrag hebben ondertekend, Overwegende dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden; Overtuigd van de noodzaak een gezamenlijk strafrechtelijk beleid te voeren dat is gericht op de bescherming van de maatschappij; Overwegende dat de bestrijding van de zware criminaliteit, die in toenemende mate een internationaal probleem wordt, het gebruik van moderne en doeltreffende methoden vergt op internationaal niveau; In de mening dat een van die methoden behelst de daders de opbrengsten van misdrijven alsmede hulpmiddelen om strafbare feiten te plegen, af te nemen; Overwegende dat voor de verwezenlijking van dat doel tevens een goed functionerend systeem van internationale samenwerking moet worden opgezet; Indachtig het Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven (ETS nr. 141, hierna te noemen „het Verdrag van 1990’’); Tevens in herinnering roepend Resolutie nr. 1373 (2001) betreffende gevaren voor de internationale vrede en veiligheid ten gevolge van terroristische handelingen, op 28 september 2001 aangenomen door de Veiligheidsraad van de Verenigde Naties, en daarvan in het bijzonder artikel 3, onderdeel d; In herinnering roepend het [Internationaal Verdrag ter bestrijding van de financiering van terrorisme](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md), op 9 december 1999 aangenomen door de Algemene Vergadering van de Verenigde Naties, en in het bijzonder de [artikelen 2](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md) en [4](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md), waarin de Staten die Partij zijn bij dit Verdrag verplicht worden het financieren van terrorisme strafbaar te stellen; Overtuigd van de noodzaak onverwijld maatregelen te nemen teneinde het bovengenoemde [Internationaal Verdrag ter bestrijding van de financiering van terrorisme](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md) te bekrachtigen en ten volle uit te voeren; Zijn het volgende overeengekomen:     
 ### Hoofdstuk  I  
 
 ####BEGRIPSOMSCHRIJVINGEN
@@ -808,11 +808,11 @@ f. „financiële informatie-eenheid’’ (hierna te noemen „FIE’’): een 
 
 i. betreffende vermoedelijke opbrengsten en mogelijke financiering van terrorisme, of  
 
-ii. vereist krachtens de nationale wet- of regelgeving, teneinde het witwassen van geld en financieren van terrorisme te bestrijden;    
+ii. vereist krachtens de nationale wet- of regelgeving, teneinde het witwassen van geld en financieren van terrorisme te bestrijden;   
 
-g. „bevriezing’’ of „inbeslagneming’’, het tijdelijk verbieden van de overdracht, vernietiging, omzetting, vervreemding of verplaatsing van voorwerpen of het tijdelijk aanvaarden van het beheer van of zeggenschap over voorwerpen op basis van een door de rechter of andere bevoegde autoriteit afgegeven bevel;  
+g. „bevriezing’’ of „inbeslagneming’’, het tijdelijk verbieden van de overdracht, vernietiging, omzetting, vervreemding of verplaatsing van voorwerpen of het tijdelijk aanvaarden van het beheer van of zeggenschap over voorwerpen op basis van een door de rechter of andere bevoegde autoriteit afgegeven bevel; 
 
-h. „financiering van terrorisme’’, de handelingen genoemd in artikel 2 van het bovenaangehaalde Internationaal Verdrag ter bestrijding van de financiering van terrorisme.    
+h. „financiering van terrorisme’’, de handelingen genoemd in [artikel 2 van het bovenaangehaalde Internationaal Verdrag ter bestrijding van de financiering van terrorisme](../../../../../../../../../../../../../verdrag/internationaal/verdrag/ter/bestrijding/van/de/financiering/van/terrorisme/BWBV0001518/README.md).   
 
 ### Hoofdstuk  II  
 
@@ -823,13 +823,13 @@ h. „financiering van terrorisme’’, de handelingen genoemd in artikel 2 van
 ####Toepassing van het Verdrag op de financiering van terrorisme
 
 1.  Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen de bepalingen vervat in de hoofdstukken III, IV en V van dit Verdrag te kunnen toepassen op de financiering van terrorisme.   
-2.  Elke Partij vergewist zich er in het bijzonder van dat zij in staat is voorwerpen van legale of illegale herkomst te zoeken, op te sporen, te identificeren, in beslag te nemen en te confisqueren, die op enige wijze, geheel of ten dele, zijn gebruikt of bestemd voor de financiering van terrorisme, of de opbrengsten van dit strafbare feit, en in de ruimst mogelijke mate daartoe rechtshulp te verlenen.   
+2.  Elke Partij vergewist zich er in het bijzonder van dat zij in staat is voorwerpen van legale of illegale herkomst te zoeken, op te sporen, te identificeren, in beslag te nemen en te confisqueren, die op enige wijze, geheel of ten dele, zijn gebruikt of bestemd voor de financiering van terrorisme, of de opbrengsten van dit strafbare feit, en in de ruimst mogelijke mate daartoe rechtshulp te verlenen.  
 
 ### Hoofdstuk  III  
 
 ####MAATREGELEN TE NEMEN OP NATIONAAL NIVEAU
 
-### AFDELING  1  
+### AFDELING 1 
 
 ####ALGEMENE BEPALINGEN
 
@@ -844,13 +844,13 @@ a. slechts van toepassing is indien op het feit een vrijheidsstraf of een tot vr
 
 b. slechts van toepassing is op een lijst van omschreven strafbare feiten.     
 3.  De Partijen kunnen voorzien in verplichte confiscatie ter zake van strafbare feiten waarop het stelsel van confiscatie van toepassing is. De Partijen kunnen onder deze bepaling in het bijzonder de strafbare feiten witwassen van geld, handel in verdovende middelen, mensenhandel en andere ernstige misdrijven begrijpen.   
-4.  Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen om te verlangen dat daders ter zake van een ernstig misdrijf of misdrijven als omschreven in het nationale recht, de herkomst van de vermeende opbrengsten of andere voorwerpen die vatbaar zijn voor confiscatie aantonen voorzover een dergelijk vereiste verenigbaar is met de beginselen van haar nationale recht.   
+4.  Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen om te verlangen dat daders ter zake van een ernstig misdrijf of misdrijven als omschreven in het nationale recht, de herkomst van de vermeende opbrengsten of andere voorwerpen die vatbaar zijn voor confiscatie aantonen voorzover een dergelijk vereiste verenigbaar is met de beginselen van haar nationale recht.  
 
 ### Artikel  4  
 
 ####Onderzoeksmaatregelen en voorlopige maatregelen
 
-Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen voorwerpen die vatbaar zijn voor confiscatie overeenkomstig artikel 3 spoedig te identificeren, op te sporen, te bevriezen of in beslag te nemen, in het bijzonder teneinde de tenuitvoerlegging van de confiscatie op een later tijdstip te vergemakkelijken.  
+Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om haar in staat te stellen voorwerpen die vatbaar zijn voor confiscatie overeenkomstig artikel 3 spoedig te identificeren, op te sporen, te bevriezen of in beslag te nemen, in het bijzonder teneinde de tenuitvoerlegging van de confiscatie op een later tijdstip te vergemakkelijken. 
 
 ### Artikel  5  
 
@@ -868,7 +868,7 @@ c. inkomsten of andere voordelen verkregen uit opbrengsten, van voorwerpen waari
 
 ####Beheer van bevroren of inbeslaggenomen voorwerpen
 
-Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om een deugdelijk beheer van bevroren of inbeslaggenomen voorwerpen in overeenstemming met de artikelen 4 en 5 van dit Verdrag te waarborgen.  
+Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om een deugdelijk beheer van bevroren of inbeslaggenomen voorwerpen in overeenstemming met de artikelen 4 en 5 van dit Verdrag te waarborgen. 
 
 ### Artikel  7  
 
@@ -890,7 +890,7 @@ d. te waarborgen dat de banken niet aan de betreffende cliënt of andere derden 
 
 ####Rechtsmiddelen
 
-Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om te bewerkstelligen dat de personen die worden getroffen door de in artikelen 3, 4 en 5 bedoelde maatregelen en de andere bepalingen in deze afdeling voor zover relevant, beschikken over doeltreffende rechtsmiddelen om hun rechten te beschermen.  
+Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om te bewerkstelligen dat de personen die worden getroffen door de in artikelen 3, 4 en 5 bedoelde maatregelen en de andere bepalingen in deze afdeling voor zover relevant, beschikken over doeltreffende rechtsmiddelen om hun rechten te beschermen. 
 
 ### Artikel  9  
 
@@ -900,11 +900,11 @@ Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die n
 
 a. de omzetting of overdracht van voorwerpen wetende dat deze voorwerpen opbrengsten zijn, met het oogmerk de illegale herkomst van de voorwerpen te verhelen of te verhullen of een persoon die bij het begaan van het gronddelict is betrokken, te helpen te ontkomen aan de wettelijke gevolgen van zijn daden;  
 
-b. het verhelen of verhullen van de werkelijke aard, oorsprong, vindplaats, vervreemding, verplaatsing, rechten op of de eigendom van voorwerpen, wetende dat deze voorwerpen opbrengsten zijn;   en, met inachtneming van haar grondwettelijke beginselen en de grondbeginselen van haar rechtsstelsel; 
+b. het verhelen of verhullen van de werkelijke aard, oorsprong, vindplaats, vervreemding, verplaatsing, rechten op of de eigendom van voorwerpen, wetende dat deze voorwerpen opbrengsten zijn;   en, met inachtneming van haar grondwettelijke beginselen en de grondbeginselen van haar rechtsstelsel;
 
-c. de verwerving, het bezit of het gebruik van voorwerpen, wetende, op het tijdstip van verkrijging, dat deze voorwerpen opbrengsten zijn;  
+c. de verwerving, het bezit of het gebruik van voorwerpen, wetende, op het tijdstip van verkrijging, dat deze voorwerpen opbrengsten zijn; 
 
-d. deelneming aan, medeplichtigheid tot, samenspanning tot, poging tot, hulp aan, aanzetten tot, vergemakkelijken van, of het geven van raad met het oog op het begaan van één of meer van de in overeenstemming met dit artikel strafbaar gestelde feiten.     
+d. deelneming aan, medeplichtigheid tot, samenspanning tot, poging tot, hulp aan, aanzetten tot, vergemakkelijken van, of het geven van raad met het oog op het begaan van één of meer van de in overeenstemming met dit artikel strafbaar gestelde feiten.   
 2.  Voor de uitvoering of toepassing van het eerste lid van dit artikel: 
 
 a. doet niet terzake of het gronddelict onder de strafrechtelijke rechtsmacht van de Partij valt;  
@@ -912,7 +912,7 @@ a. doet niet terzake of het gronddelict onder de strafrechtelijke rechtsmacht va
 b. kan worden bepaald dat de in dat lid genoemde strafbare feiten niet van toepassing zijn op de personen die het gronddelict hebben begaan;  
 
 c. kunnen wetenschap van, oogmerk of opzet, vereist als bestanddeel van een in dat lid omschreven strafbaar feit worden afgeleid uit objectieve feitelijke omstandigheden.     
-3.  Elke Partij kan de maatregelen van wetgevende aard en andere maatregelen nemen die noodzakelijk zijn om in haar nationale recht alle of sommige van de handelingen bedoeld in het eerste lid van dit artikel strafbaar te stellen, in de gevallen waarin de dader 
+3.  Elke Partij kan de maatregelen van wetgevende aard en andere maatregelen nemen die noodzakelijk zijn om in haar nationale recht alle of sommige van de handelingen bedoeld in het eerste lid van dit artikel strafbaar te stellen, in de gevallen waarin de dader  
 
 a. vermoedde dat de voorwerpen opbrengsten waren, en/of  
 
@@ -926,7 +926,7 @@ b. slechts van toepassing is op een lijst met omschreven gronddelicten; en/of
 c. in het nationale recht van de Partij van toepassing is op een categorie ernstige misdrijven.     
 5.  Elke Partij bewerkstelligt dat een eerdere of gelijktijdige veroordeling terzake van het gronddelict geen voorwaarde is voor een veroordeling terzake van het witwassen van geld.   
 6.  Elke Partij bewerkstelligt dat een veroordeling terzake van het witwassen van geld uit hoofde van dit artikel mogelijk is, indien bewezen is dat de voorwerpen, als bedoeld in het eerste lid, onderdeel a of b, van dit artikel, afkomstig zijn van een gronddelict, zonder dat nauwkeurig behoeft te worden vastgesteld van welk delict.   
-7.  Elke Partij bewerkstelligt dat gronddelicten in het geval van het witwassen van geld mede gedragingen omvatten die hebben plaatsgevonden in een andere Staat, welke naar nationaal recht daar strafbaar zijn, en die een gronddelict zouden hebben gevormd indien zij op haar eigen grondgebied zouden hebben plaatsgevonden. Elke Partij kan echter bepalen dat als enige voorwaarde wordt gesteld dat de gedraging een gronddelict zou vormen indien deze op haar grondgebied zou hebben plaatsgevonden.   
+7.  Elke Partij bewerkstelligt dat gronddelicten in het geval van het witwassen van geld mede gedragingen omvatten die hebben plaatsgevonden in een andere Staat, welke naar nationaal recht daar strafbaar zijn, en die een gronddelict zouden hebben gevormd indien zij op haar eigen grondgebied zouden hebben plaatsgevonden. Elke Partij kan echter bepalen dat als enige voorwaarde wordt gesteld dat de gedraging een gronddelict zou vormen indien deze op haar grondgebied zou hebben plaatsgevonden.  
 
 ### Artikel  10  
 
@@ -941,15 +941,15 @@ b. een bevoegdheid om in naam van de rechtspersoon beslissingen te nemen; of
 c. een bevoegdheid om controle binnen de rechtspersoon uit te oefenen, alsmede voor de deelname van een dergelijk natuurlijk persoon als medeplichtige aan of uitlokker van het plegen van de bovenvermelde strafbare feiten.     
 2.  Afgezien van de reeds in het eerste lid voorziene gevallen, neemt elke Partij de noodzakelijke maatregelen om zich ervan te vergewissen dat een rechtspersoon aansprakelijk kan worden gesteld, wanneer het gebrek aan toezicht of controle van de kant van een natuurlijke persoon als bedoeld in het eerste lid het plegen van een in het eerste lid genoemde strafbare feiten ten voordele van genoemde rechtspersoon door een aan zijn gezag onderworpen natuurlijk persoon mogelijk heeft gemaakt.   
 3.  De aansprakelijkheid van een rechtspersoon op grond van dit artikel sluit strafrechtelijke vervolging van de natuurlijke personen, daders, uitlokkers of medeplichtigen, van of aan de in het eerste lid genoemde strafbare feiten, niet uit.   
-4.  Elke Partij bewerkstelligt dat rechtspersonen die aansprakelijk worden gesteld in overeenstemming met dit artikel, onderworpen worden aan doeltreffende, evenredige en afschrikkende strafrechtelijke of niet-strafrechtelijke sancties of maatregelen, met inbegrip van geldelijke sancties.   
+4.  Elke Partij bewerkstelligt dat rechtspersonen die aansprakelijk worden gesteld in overeenstemming met dit artikel, onderworpen worden aan doeltreffende, evenredige en afschrikkende strafrechtelijke of niet-strafrechtelijke sancties of maatregelen, met inbegrip van geldelijke sancties.  
 
 ### Artikel  11  
 
 ####Eerdere beslissingen
 
-Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om bij het bepalen van de strafmaat, rekening te kunnen houden met onherroepelijke uitspraken, tegen een natuurlijk persoon of een rechtspersoon gedaan in een andere Partij, ter zake van krachtens dit Verdrag strafbaar gestelde feiten.  
+Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om bij het bepalen van de strafmaat, rekening te kunnen houden met onherroepelijke uitspraken, tegen een natuurlijk persoon of een rechtspersoon gedaan in een andere Partij, ter zake van krachtens dit Verdrag strafbaar gestelde feiten. 
 
-### AFDELING  2  
+### AFDELING 2 
 
 ####FINANCIëLE INLICHTINGEN-EENHEID (FIE) EN PREVENTIE
 
@@ -957,8 +957,8 @@ Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die n
 
 ####Financiële inlichtingen-eenheid (FIE)
 
-1.  Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om een FIE in te stellen als omschreven in dit Verdrag.   
-2.  Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om zich ervan te vergewissen dat haar FIE rechtstreeks of onrechtstreeks, tijdig toegang heeft tot de financiële en administratieve informatie, alsmede strafrechtelijke gegevens, die zij nodig heeft teneinde haar taken te kunnen vervullen, in het bijzonder het analyseren van meldingen van verdachte transacties.   
+1.  Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om een FIE in te stellen als omschreven in dit Verdrag.    
+2.  Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om zich ervan te vergewissen dat haar FIE rechtstreeks of onrechtstreeks, tijdig toegang heeft tot de financiële en administratieve informatie, alsmede strafrechtelijke gegevens, die zij nodig heeft teneinde haar taken te kunnen vervullen, in het bijzonder het analyseren van meldingen van verdachte transacties.  
 
 ### Artikel  13  
 
@@ -973,24 +973,24 @@ i. zij de identiteit van hun cliënten, en indien van toepassing die van hun uit
 
 ii. zij verdenkingen van het witwassen van geld melden, met het respecteren van wettelijke geheimhoudingsplichten;  
 
-iii. zij ondersteunende maatregelen nemen, zoals het bewaren van documentatie inzake de identificatie van cliënten en transacties, het trainen van personeel en het instellen van beleid en interne procedures, waar nodig toegesneden op de omvang en aard van de activiteiten;    
+iii. zij ondersteunende maatregelen nemen, zoals het bewaren van documentatie inzake de identificatie van cliënten en transacties, het trainen van personeel en het instellen van beleid en interne procedures, waar nodig toegesneden op de omvang en aard van de activiteiten;   
 
-b. indien van toepassing de personen bedoeld in onderdeel a te verbieden om te onthullen dat een melding van een verdachte transactie of daarop betrekking hebbende informatie is verzonden of dat er onderzoek wordt of mogelijk zal worden ingesteld naar het witwassen van geld;  
+b. indien van toepassing de personen bedoeld in onderdeel a te verbieden om te onthullen dat een melding van een verdachte transactie of daarop betrekking hebbende informatie is verzonden of dat er onderzoek wordt of mogelijk zal worden ingesteld naar het witwassen van geld; 
 
 c. te waarborgen dat op de natuurlijke personen en rechtspersonen bedoeld in onderdeel a effectieve monitoringsystemen van toepassing zijn en waar nodig toezicht wordt uitgeoefend, teneinde te verzekeren dat zij voldoen aan de vereisten om het witwassen van geld te bestrijden, desgewenst aan de hand van een risico-analyse.     
-3.  Daartoe neemt elke Partij tevens de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om omvangrijke fysieke grensoverschrijdende transporten van contant geld en verhandelbare waardepapieren aan toonder op te sporen.   
+3.  Daartoe neemt elke Partij tevens de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om omvangrijke fysieke grensoverschrijdende transporten van contant geld en verhandelbare waardepapieren aan toonder op te sporen.  
 
 ### Artikel  14  
 
 ####Opschorting van binnenlandse verdachte transacties
 
-Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om de FIE, of, indien van toepassing, andere bevoegde autoriteiten of organen in staat te stellen onverwijld maatregelen te treffen, indien er een verdenking bestaat dat een transactie verband houdt met het witwassen van geld, teneinde de transactie op te schorten of er de goedkeuring aan te onthouden opdat deze geen doorgang vindt, kan worden geanalyseerd en de verdenking kan worden bevestigd. Elke Partij kan dergelijke maatregelen beperken tot gevallen waarin er melding is gedaan van een verdachte transactie. Op de maximum duur van een opschorting of het onthouden van goedkeuring aan een transactie zijn bepalingen van het nationale recht van toepassing.  
+Elke Partij neemt de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om de FIE, of, indien van toepassing, andere bevoegde autoriteiten of organen in staat te stellen onverwijld maatregelen te treffen, indien er een verdenking bestaat dat een transactie verband houdt met het witwassen van geld, teneinde de transactie op te schorten of er de goedkeuring aan te onthouden opdat deze geen doorgang vindt, kan worden geanalyseerd en de verdenking kan worden bevestigd. Elke Partij kan dergelijke maatregelen beperken tot gevallen waarin er melding is gedaan van een verdachte transactie. Op de maximum duur van een opschorting of het onthouden van goedkeuring aan een transactie zijn bepalingen van het nationale recht van toepassing. 
 
 ### Hoofdstuk  IV  
 
 ####INTERNATIONALE SAMENWERKING
 
-### AFDELING  1  
+### AFDELING 1 
 
 ####BEGINSELEN VAN INTERNATIONALE SAMENWERKING
 
@@ -1005,9 +1005,9 @@ a. om confiscatie van bepaalde voorwerpen die opbrengsten of hulpmiddelen zijn, 
 
 b. om bijstand ten behoeve van onderzoeken en voorlopige maatregelen met het oog op één van de vormen van confiscatie genoemd onder onderdeel *a* hierboven.     
 3.  De in het tweede lid, onderdeel b, verzochte bijstand ten behoeve van onderzoeken en voorlopige maatregelen wordt verschaft op grond van en in overeenstemming met het nationale wetgeving van de aangezochte Partij. Indien in het verzoek om een van deze maatregelen formaliteiten of procedures zijn omschreven die noodzakelijk zijn uit hoofde van het recht van de verzoekende Partij, dient de aangezochte Partij daar, ook wanneer deze daarmee onbekend is, zo veel mogelijk aan te voldoen, tenzij de verzochte handelingen in strijd zijn met fundamentele beginselen van het nationale recht van de aangezochte Partij.   
-4.  Elke Partij neem de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om zich ervan te vergewissen dat de verzoeken van andere Partijen om opbrengsten en hulpmiddelen te identificeren, op te sporen, te bevriezen of in beslag te nemen dezelfde prioriteit krijgen als verzoeken gedaan in het kader van nationale procedures.   
+4.  Elke Partij neem de maatregelen van wetgevende aard en andere maatregelen die noodzakelijk zijn om zich ervan te vergewissen dat de verzoeken van andere Partijen om opbrengsten en hulpmiddelen te identificeren, op te sporen, te bevriezen of in beslag te nemen dezelfde prioriteit krijgen als verzoeken gedaan in het kader van nationale procedures.  
 
-### AFDELING  2  
+### AFDELING 2 
 
 ####HULP BIJ DE OPSPORING
 
@@ -1015,7 +1015,7 @@ b. om bijstand ten behoeve van onderzoeken en voorlopige maatregelen met het oog
 
 ####Verplichting tot rechtshulp
 
-De Partijen verlenen elkaar, op verzoek, in zo ruim mogelijke mate rechtshulp bij de identificatie en opsporing van hulpmiddelen, opbrengsten en andere voorwerpen die vatbaar zijn voor confiscatie. Deze rechtshulp omvat onder meer elke maatregel betreffende het verschaffen en veilig stellen van bewijs met betrekking tot het bestaan, de vindplaats of verplaatsing, de aard, de juridische status of de waarde van bovengenoemde voorwerpen.  
+De Partijen verlenen elkaar, op verzoek, in zo ruim mogelijke mate rechtshulp bij de identificatie en opsporing van hulpmiddelen, opbrengsten en andere voorwerpen die vatbaar zijn voor confiscatie. Deze rechtshulp omvat onder meer elke maatregel betreffende het verschaffen en veilig stellen van bewijs met betrekking tot het bestaan, de vindplaats of verplaatsing, de aard, de juridische status of de waarde van bovengenoemde voorwerpen. 
 
 ### Artikel  17  
 
@@ -1025,14 +1025,14 @@ De Partijen verlenen elkaar, op verzoek, in zo ruim mogelijke mate rechtshulp bi
 2.  De in dit artikel vervatte verplichting is uitsluitend van toepassing voorzover de gegevens in het bezit zijn van de bank die de rekening beheert.   
 3.  In aanvulling op de vereisten van artikel 37, dient de verzoekende Partij in het verzoek: 
 
-a. te vermelden waarom zij de verzochte gegevens van wezenlijk belang acht voor het strafrechtelijke onderzoek naar het strafbare feit;  
+a. te vermelden waarom zij de verzochte gegevens van wezenlijk belang acht voor het strafrechtelijke onderzoek naar het strafbare feit;   
 
 b. te vermelden op welke gronden zij aanneemt dat banken op het grondgebied van de aangezochte Partij de rekening beheren en daarbij in zo ruim mogelijke mate aan te geven welke banken en/of rekeningen daar mogelijk bij betrokken zijn; en  
 
 c. alle beschikbare aanvullende informatie op te nemen die de uitvoering van het verzoek zou kunnen vergemakkelijken.     
 4.  De aangezochte Partij kan aan uitvoering van een verzoek dezelfde voorwaarden verbinden als gesteld worden aan verzoeken om huiszoeking en inbeslagneming.   
 5.  Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, verklaren dat dit artikel uitsluitend van toepassing is op de categorieën misdrijven omschreven in de lijst opgenomen in de appendix bij dit Verdrag.   
-6.  De Partijen kunnen deze bepaling uitbreiden tot rekeningen die bij niet-bancaire financiële instellingen worden aangehouden. Aan een dergelijke uitbreiding kan het beginsel van wederkerigheid worden verbonden.   
+6.  De Partijen kunnen deze bepaling uitbreiden tot rekeningen die bij niet-bancaire financiële instellingen worden aangehouden. Aan een dergelijke uitbreiding kan het beginsel van wederkerigheid worden verbonden.  
 
 ### Artikel  18  
 
@@ -1052,15 +1052,15 @@ c. alle beschikbare aanvullende informatie op te nemen die de uitvoering van het
 2.  In aanvulling op de vereisten van artikel 37, geeft de verzoekende Partij in haar verzoek aan waarom zij de verzochte informatie relevant acht ten behoeve van het strafrechtelijk onderzoek naar het strafbare feit.   
 3.  De beslissing omtrent toezicht wordt in elk afzonderlijk geval genomen door de bevoegde autoriteiten van de aangezochte Partij, met inachtneming van de nationale wetgeving van deze Partij.   
 4.  De bevoegde autoriteiten van de verzoekende en aangezochte Partij komen de praktische aspecten van het toezicht overeen.   
-5.  De Partijen kunnen deze bepaling uitbreiden tot rekeningen die bij niet-bancaire financiële instellingen worden aangehouden.   
+5.  De Partijen kunnen deze bepaling uitbreiden tot rekeningen die bij niet-bancaire financiële instellingen worden aangehouden.  
 
 ### Artikel  20  
 
 ####Informatieverstrekking op eigen initiatief
 
-Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij zonder voorafgaand verzoek een andere Partij informatie verstrekken omtrent hulpmiddelen en opbrengsten, wanneer zij van oordeel is dat het verstrekken van die informatie de ontvangende Partij van nut kan zijn voor het instellen of uitvoeren van onderzoeken of procedures, of zou kunnen leiden tot een verzoek van die Partij krachtens dit hoofdstuk.  
+Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij zonder voorafgaand verzoek een andere Partij informatie verstrekken omtrent hulpmiddelen en opbrengsten, wanneer zij van oordeel is dat het verstrekken van die informatie de ontvangende Partij van nut kan zijn voor het instellen of uitvoeren van onderzoeken of procedures, of zou kunnen leiden tot een verzoek van die Partij krachtens dit hoofdstuk. 
 
-### AFDELING  3  
+### AFDELING 3 
 
 ####VOORLOPIGE MAATREGELEN
 
@@ -1068,15 +1068,15 @@ Zonder afbreuk te doen aan haar eigen onderzoeken of procedures, kan een Partij 
 
 ####Verplichting tot het treffen van voorlopige maatregelen
 
-1.  Elke Partij neemt op verzoek van een andere Partij die een strafrechtelijke procedure of een procedure tot van confiscatie heeft ingesteld, de noodzakelijke voorlopige maatregelen, zoals bevriezing of inbeslagneming, ter voorkoming van de verhandeling, overdracht of vervreemding van voorwerpen, die op een later tijdstip het voorwerp zouden kunnen vormen van een verzoek om confiscatie, of die van dien aard zijn, dat daarmede gevolg zou kunnen worden gegeven aan dat verzoek.   
-2.  Een Partij die een verzoek om confiscatie heeft ontvangen overeenkomstig artikel 23, neemt, indien daarom wordt verzocht, de in het eerste lid van dit artikel genoemde maatregelen met betrekking tot voorwerpen die het onderwerp vormen van het verzoek, of die van dien aard zijn, dat daarmede gevolg zou kunnen worden gegeven aan dat verzoek.   
+1.  Elke Partij neemt op verzoek van een andere Partij die een strafrechtelijke procedure of een procedure tot van confiscatie heeft ingesteld, de noodzakelijke voorlopige maatregelen, zoals bevriezing of inbeslagneming, ter voorkoming van de verhandeling, overdracht of vervreemding van voorwerpen, die op een later tijdstip het voorwerp zouden kunnen vormen van een verzoek om confiscatie, of die van dien aard zijn, dat daarmede gevolg zou kunnen worden gegeven aan dat verzoek.    
+2.  Een Partij die een verzoek om confiscatie heeft ontvangen overeenkomstig artikel 23, neemt, indien daarom wordt verzocht, de in het eerste lid van dit artikel genoemde maatregelen met betrekking tot voorwerpen die het onderwerp vormen van het verzoek, of die van dien aard zijn, dat daarmede gevolg zou kunnen worden gegeven aan dat verzoek.  
 
 ### Artikel  22  
 
 ####Uitvoering van voorlopige maatregelen
 
 1.  Na de instelling van de voorlopige maatregelen verzocht in overeenstemming met artikel 21, eerste lid, verschaft de verzoekende Partij de aangezochte Partij eigener beweging en zo spoedig mogelijk alle informatie die aanleiding kan vormen tot twijfel omtrent de omvang van de maatregelen, danwel kan leiden tot aanpassing ervan. De verzoekende Partij verschaft tevens op verzoek van de aangezochte Partij onverwijld alle aanvullende informatie die nodig is voor de uitvoering en de opvolging van de voorlopige maatregelen.   
-2.  Alvorens een uit hoofde dit artikel getroffen voorlopige maatregel op te heffen, stelt de aangezochte Partij, indien mogelijk, de verzoekende Partij in de gelegenheid redenen op te geven om de maatregel te handhaven.   
+2.  Alvorens een uit hoofde dit artikel getroffen voorlopige maatregel op te heffen, stelt de aangezochte Partij, indien mogelijk, de verzoekende Partij in de gelegenheid redenen op te geven om de maatregel te handhaven.  
 
 ### AFDELING  4  
 
@@ -1094,7 +1094,7 @@ b. het verzoek voorleggen aan haar bevoegde autoriteiten, teneinde een bevel tot
 2.  Voor de toepassing van het eerste lid, onderdeel b, van dit artikel is elke Partij indien noodzakelijk, bevoegd een procedure tot confiscatie in te stellen krachtens haar eigen wetgeving.   
 3.  De bepalingen van het eerste lid van dit artikel zijn ook van toepassing op confiscatie bestaande in de verplichting een geldbedrag te betalen dat overeenkomt met de waarde van de opbrengsten, indien zich op het grondgebied van de aangeachte Partij voorwerpen bevinden waarop de confiscatie ten uitvoer kan worden gelegd. In dat geval ziet de aangezochte Partij, wanneer zij overgaat tot de tenuitvoerlegging van de confiscatie overeenkomstig het eerste lid, erop toe dat de vordering, indien geen betaling wordt verkregen, wordt verhaald op voorwerpen die voor dat doel beschikbaar zijn.   
 4.  Indien een verzoek om confiscatie betrekking heeft op een bepaald voorwerp, kunnen de de Partijen overeenkomen dat de aangezochte Partij kan overgaan tot confiscatie in de vorm van een verplichting een geldbedrag te betalen dat overeenkomt met de waarde van het voorwerp.   
-5.  De Partijen werken, overeenkomstig hun nationale recht, in zo ruim mogelijke mate samen met de Partijen die verzoeken om de tenuitvoerlegging van maatregelen die vergelijkbaar zijn met confiscatie en resulteren in de afneming van voorwerpen, doch welke geen strafrechtelijke sancties zijn, voor zover dergelijke maatregelen in verband met een strafbaar feit zijn bevolen door een gerechtelijke autoriteit van de verzoekende Partij, en op voorwaarde dat is vastgesteld dat de voorwerpen opbrengsten of andere voorwerpen zijn in de zin van artikel 5 van dit Verdrag.   
+5.  De Partijen werken, overeenkomstig hun nationale recht, in zo ruim mogelijke mate samen met de Partijen die verzoeken om de tenuitvoerlegging van maatregelen die vergelijkbaar zijn met confiscatie en resulteren in de afneming van voorwerpen, doch welke geen strafrechtelijke sancties zijn, voor zover dergelijke maatregelen in verband met een strafbaar feit zijn bevolen door een gerechtelijke autoriteit van de verzoekende Partij, en op voorwaarde dat is vastgesteld dat de voorwerpen opbrengsten of andere voorwerpen zijn in de zin van artikel 5 van dit Verdrag.  
 
 ### Artikel  24  
 
@@ -1112,14 +1112,14 @@ b. het verzoek voorleggen aan haar bevoegde autoriteiten, teneinde een bevel tot
 
 1.  De aangezochte Partij beschikt over de krachtens artikelen 23 en 24 van dit Verdrag geconfisqueerde voorwerpen in overeenstemming met haar nationale recht en administratieve procedures.   
 2.  Indien handelend naar aanleiding van het verzoek van een andere Partij, overeenkomstig de artikelen 23 en 24 van dit Verdrag, nemen de Partijen, voorzover dit is toegestaan door hun nationale recht en indien daarom is verzocht, met voorrang de teruggave van de geconfisqueerde voorwerpen aan de verzoekende Partij in overweging, opdat deze de slachtoffers van het misdrijf schadeloos kan stellen of deze voorwerpen kan teruggeven aan hun rechtmatige eigenaren.   
-3.  Indien handelend naar aanleiding van het verzoek van een andere Partij in overeenkomstig de artikelen 23 en 24 van dit Verdrag, kan een Partij bijzondere aandacht schenken aan het sluiten van overeenkomsten of regelingen inzake het op structurele basis, danwel van geval tot geval, met andere Partijen delen van voorwerpen in overeenstemming met haar nationale recht of administratieve procedures.   
+3.  Indien handelend naar aanleiding van het verzoek van een andere Partij in overeenkomstig de artikelen 23 en 24 van dit Verdrag, kan een Partij bijzondere aandacht schenken aan het sluiten van overeenkomsten of regelingen inzake het op structurele basis, danwel van geval tot geval, met andere Partijen delen van voorwerpen in overeenstemming met haar nationale recht of administratieve procedures.  
 
 ### Artikel  26  
 
 ####Bevoegdheid tot tenuitvoerlegging en maximum bedrag voor confiscatie
 
 1.  Een verzoek om confiscatie gedaan uit hoofde van de artikelen 23 en 24 laat de bevoegdheid van de verzoekende Partij om het bevel tot confiscatie zelf ten uitvoer te leggen onverlet.   
-2.  Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat daardoor de totale waarde van de geconfisqueerde voorwerpen hoger zou zijn dan het in het bevel tot confiscatie genoemde bedrag. Indien een Partij het mogelijk acht dat zulks geschiedt, treden de betrokken Partijen met elkaar in overleg teneinde een dergelijk gevolg te voorkomen.   
+2.  Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat daardoor de totale waarde van de geconfisqueerde voorwerpen hoger zou zijn dan het in het bevel tot confiscatie genoemde bedrag. Indien een Partij het mogelijk acht dat zulks geschiedt, treden de betrokken Partijen met elkaar in overleg teneinde een dergelijk gevolg te voorkomen.  
 
 ### Artikel  27  
 
@@ -1127,7 +1127,7 @@ b. het verzoek voorleggen aan haar bevoegde autoriteiten, teneinde een bevel tot
 
 De aangezochte Partij mag geen lijfsdwang of enige andere vrijheid beperkende maatregel opleggen naar aanleiding van een verzoek uit hoofde van artikel 23, indien de verzoekende Partij zulks in het verzoek heeft aangegeven.  
 
-### AFDELING  5  
+### AFDELING 5 
 
 ####WEIGERING EN UITSTEL VAN SAMENWERKING
 
@@ -1160,15 +1160,15 @@ b. onverminderd de verplichting uit hoofde van artikel 23, derde lid, de samenwe
 
 i. een economisch voordeel dat zou kunnen worden aangemerkt als de opbrengst daarvan; of  
 
-ii. voorwerpen die zouden kunnen worden aangemerkt als de hulpmiddelen; of    
+ii. voorwerpen die zouden kunnen worden aangemerkt als de hulpmiddelen; of   
 
-c. krachtens de wetgeving van de aangezochte Partij de confiscatie niet langer kan worden uitgesproken of ten uitvoer gelegd wegens verjaring; of  
+c. krachtens de wetgeving van de aangezochte Partij de confiscatie niet langer kan worden uitgesproken of ten uitvoer gelegd wegens verjaring; of 
 
-d. het verzoek, onverminderd artikel 23, vijfde lid, geen betrekking heeft op een eerdere veroordeling, een rechterlijke uitspraak of een verklaring in een dergelijke uitspraak dat één of meerdere strafbare feiten zijn begaan, waarop het bevel tot of het verzoek om confiscatie is gebaseerd; of  
+d. het verzoek, onverminderd artikel 23, vijfde lid, geen betrekking heeft op een eerdere veroordeling, een rechterlijke uitspraak of een verklaring in een dergelijke uitspraak dat één of meerdere strafbare feiten zijn begaan, waarop het bevel tot of het verzoek om confiscatie is gebaseerd; of 
 
-e. de confiscatie niet voor tenuitvoerlegging vatbaar is in de verzoekende Partij, of indien daartegen nog een gewone rechtsmiddelen openstaan; of  
+e. de confiscatie niet voor tenuitvoerlegging vatbaar is in de verzoekende Partij, of indien daartegen nog een gewone rechtsmiddelen openstaan; of 
 
-f. het verzoek betrekking heeft op een bevel tot confiscatie voortkomende uit een beslissing die is gegeven in afwezigheid van de persoon tegen wie het bevel is gericht, en in de door de verzoekende Partij ingestelde procedure die tot deze beslissing heeft geleid naar het oordeel van de aangezochte Partij, niet in voldoende mate de erkende minimum-verdedigingsrechten zijn geëerbiedigd welke aan een ieder die wordt verdacht van een strafbaar feit geacht worden toe te komen.     
+f. het verzoek betrekking heeft op een bevel tot confiscatie voortkomende uit een beslissing die is gegeven in afwezigheid van de persoon tegen wie het bevel is gericht, en in de door de verzoekende Partij ingestelde procedure die tot deze beslissing heeft geleid naar het oordeel van de aangezochte Partij, niet in voldoende mate de erkende minimum-verdedigingsrechten zijn geëerbiedigd welke aan een ieder die wordt verdacht van een strafbaar feit geacht worden toe te komen.    
 5.  Voor de toepassing van het vierde lid, onderdeel f, van dit artikel wordt een beslissing niet geacht bij afwezigheid te zijn gegeven, indien 
 
 a. zij is bevestigd of uitgesproken na verzet door de betrokkene; of  
@@ -1182,21 +1182,21 @@ a. kan het feit dat de persoon tegen wie een onderzoek of een door de autoriteit
 
 b. kan het feit dat de natuurlijke persoon tegen wie een beslissing tot confiscatie van opbrengsten is gegeven, later is overleden, danwel het feit dat een rechtspersoon waartegen een beslissing tot confiscatie van opbrengsten is gegeven later is ontbonden, niet worden aangevoerd als beletsel voor het verlenen van rechtshulp in overeenstemming met artikel 23, eerste lid, onderdeel a;  
 
-c. kan het feit dat de persoon ten aanzien van wie een strafrechtelijk onderzoek is ingesteld of een beslissing tot confiscatie is uitgevaardigd door de autoriteiten van de verzoekende Partij in het rechtshulpverzoek genoemd wordt als de dader van zowel het gronddelict als van het witwassen van geld als bedoeld in artikel 9, tweede lid, onderdeel b, van dit Verdrag, door de aangezochte Partij niet worden ingeroepen als een beletsel voor het verlenen van rechtshulp ingevolge dit hoofdstuk.     
+c. kan het feit dat de persoon ten aanzien van wie een strafrechtelijk onderzoek is ingesteld of een beslissing tot confiscatie is uitgevaardigd door de autoriteiten van de verzoekende Partij in het rechtshulpverzoek genoemd wordt als de dader van zowel het gronddelict als van het witwassen van geld als bedoeld in artikel 9, tweede lid, onderdeel b, van dit Verdrag, door de aangezochte Partij niet worden ingeroepen als een beletsel voor het verlenen van rechtshulp ingevolge dit hoofdstuk.    
 
 ### Artikel  29  
 
 ####Uitstel
 
-De aangezochte Partij mag de uitvoering van de in een verzoek genoemde maatregelen uitstellen, indien deze onderzoeken of procedures ingesteld door haar autoriteiten zouden kunnen schaden.  
+De aangezochte Partij mag de uitvoering van de in een verzoek genoemde maatregelen uitstellen, indien deze onderzoeken of procedures ingesteld door haar autoriteiten zouden kunnen schaden. 
 
 ### Artikel  30  
 
 ####Gedeeltelijke of voorwaardelijke inwilliging van een verzoek
 
-Alvorens samenwerking ingevolge dit hoofdstuk te weigeren of uit te stellen, overweegt de aangezochte Partij, indien passend, na overleg met de verzoekende Partij, of het verzoek gedeeltelijk kan worden ingewilligd, dan wel onder de voorwaarden die zij noodzakelijk acht.  
+Alvorens samenwerking ingevolge dit hoofdstuk te weigeren of uit te stellen, overweegt de aangezochte Partij, indien passend, na overleg met de verzoekende Partij, of het verzoek gedeeltelijk kan worden ingewilligd, dan wel onder de voorwaarden die zij noodzakelijk acht. 
 
-### AFDELING  6  
+### AFDELING 6 
 
 ####BETEKENING EN BESCHERMING VAN DE RECHTEN VAN DERDEN
 
@@ -1209,8 +1209,8 @@ Alvorens samenwerking ingevolge dit hoofdstuk te weigeren of uit te stellen, ove
 
 a. dat gerechtelijke stukken rechtstreeks per post worden toegezonden aan personen in het buitenland;  
 
-b. dat deurwaarders, ambtenaren of andere bevoegde autoriteiten van de Partij van herkomst van gerechtelijke stukken rechtstreeks door de consulaire autoriteiten van die Partij of door de deurwaarders, ambtenaren of andere bevoegde autoriteiten van de Partij van bestemming, betekening of kennisgeving doen verrichten,   tenzij de Partij van bestemming op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een andersluidende verklaring richt aan de Secretaris-Generaal van de Raad van Europa.   
-3.  Bij de betekening van gerechtelijke documenten in het buitenland aan personen die worden getroffen door voorlopige maatregelen of beslissingen tot confiscatie die zijn genomen in de verzendende Partij, stelt deze Partij die personen in kennis van de rechtsmiddelen die krachtens haar wetgeving openstaan.   
+b. dat deurwaarders, ambtenaren of andere bevoegde autoriteiten van de Partij van herkomst van gerechtelijke stukken rechtstreeks door de consulaire autoriteiten van die Partij of door de deurwaarders, ambtenaren of andere bevoegde autoriteiten van de Partij van bestemming, betekening of kennisgeving doen verrichten,   tenzij de Partij van bestemming op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een andersluidende verklaring richt aan de Secretaris-Generaal van de Raad van Europa.  
+3.  Bij de betekening van gerechtelijke documenten in het buitenland aan personen die worden getroffen door voorlopige maatregelen of beslissingen tot confiscatie die zijn genomen in de verzendende Partij, stelt deze Partij die personen in kennis van de rechtsmiddelen die krachtens haar wetgeving openstaan.  
 
 ### Artikel  32  
 
@@ -1225,9 +1225,9 @@ b. de beslissing onverenigbaar is met een reeds in de aangezochte Partij genomen
 
 c. zij onverenigbaar is met de openbare orde van de aangezochte Partij; of  
 
-d. de beslissing is genomen in strijd met de bepalingen inzake de exclusieve rechtsmacht waarin de wetgeving van de aangezochte Partij voorziet.     
+d. de beslissing is genomen in strijd met de bepalingen inzake de exclusieve rechtsmacht waarin de wetgeving van de aangezochte Partij voorziet.    
 
-### AFDELING  7  
+### AFDELING 7 
 
 ####PROCEDURELE EN ANDERE ALGEMENE REGELS
 
@@ -1236,7 +1236,7 @@ d. de beslissing is genomen in strijd met de bepalingen inzake de exclusieve rec
 ####Centrale autoriteit
 
 1.  De Partijen wijzen een centrale autoriteit of, indien noodzakelijk, meerdere autoriteiten aan, belast met het verzenden en beantwoorden van verzoeken ingevolge dit hoofdstuk, de uitvoering daarvan, dan wel of de doorgeleiding daarvan aan de autoriteiten die bevoegd zijn deze uit te voeren.   
-2.  Elke Partij stelt de Secretaris-Generaal van de Raad van Europa op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in kennis van de namen en adressen van de uit hoofde van het eerste lid van dit artikel aangewezen autoriteiten.   
+2.  Elke Partij stelt de Secretaris-Generaal van de Raad van Europa op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in kennis van de namen en adressen van de uit hoofde van het eerste lid van dit artikel aangewezen autoriteiten.  
 
 ### Artikel  34  
 
@@ -1247,7 +1247,7 @@ d. de beslissing is genomen in strijd met de bepalingen inzake de exclusieve rec
 3.  Een verzoek of mededeling ingevolge het eerste en tweede lid van dit artikel dient te worden gedaan via de Internationale Politie Organisatie (Interpol).   
 4.  Indien een verzoek ingevolge het tweede lid van dit artikel wordt gedaan en de aangezochte autoriteit niet bevoegd is tot afhandeling ervan, geleidt deze het verzoek door naar de bevoegde nationale autoriteit en stelt zij de verzoekende Partij daarvan onverwijld in kennis.   
 5.  Verzoeken of mededelingen ingevolge afdeling 2 van dit hoofdstuk die geen dwangmiddelen inhouden, kunnen door de bevoegde autoriteiten van de verzoekende Partij rechtstreeks worden toegezonden aan de bevoegde autoriteiten van de aangezochte Partij.   
-6.  De rechterlijke autoriteiten van de verzoekende Partij kunnen voorafgaand aan een formeel verzoek rechtstreeks ontwerp-verzoeken of mededelingen op grond van dit hoofdstuk aan de autoriteiten van de aangezochte Partij zenden, teneinde te verzekeren dat een formeel verzoek na ontvangst doeltreffend kan worden afgehandeld en voldoende informatie en ondersteunende stukken bevat om te kunnen voldoen aan de wettelijke vereisten van de aangezochte Partij.   
+6.  De rechterlijke autoriteiten van de verzoekende Partij kunnen voorafgaand aan een formeel verzoek rechtstreeks ontwerp-verzoeken of mededelingen op grond van dit hoofdstuk aan de autoriteiten van de aangezochte Partij zenden, teneinde te verzekeren dat een formeel verzoek na ontvangst doeltreffend kan worden afgehandeld en voldoende informatie en ondersteunende stukken bevat om te kunnen voldoen aan de wettelijke vereisten van de aangezochte Partij.  
 
 ### Artikel  35  
 
@@ -1255,19 +1255,19 @@ d. de beslissing is genomen in strijd met de bepalingen inzake de exclusieve rec
 
 1.  Alle verzoeken ingevolge dit hoofdstuk worden schriftelijk gedaan. Zij kunnen elektronisch, of met behulp van enig ander telecommunicatiemiddel worden verzonden, mits de verzoekende Partij te allen tijde bereid is op verzoek een schriftelijke weergave van de mededeling en het origineel te overleggen. Elke Partij kan evenwel te allen tijde bij een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa aangeven onder welke voorwaarden zij bereid is elektronisch of met behulp van andere telecommunicatiemiddelen ontvangen verzoeken te accepteren en ten uitvoer te leggen.   
 2.  Behoudens de bepalingen van het derde lid van dit artikel worden geen vertalingen van de verzoeken of de ondersteunende documenten vereist.   
-3.  Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding de Secretaris-Generaal van de Raad van Europa een verklaring doen toekomen dat hij of zij zich het recht voorbehoudt te verlangen dat aan hem of haar gedane verzoeken en ondersteunende documenten vergezeld gaan van een vertaling in zijn of haar eigen taal, in één van de officiële talen van de Raad van Europa, dan wel in één van deze door hem of haar aangegeven. De Staat of de Europese Gemeenschap kan bij die gelegenheid verklaren bereid te zijn vertalingen te aanvaarden in een andere door hem of haar aan te geven taal. De andere Partijen kunnen daarbij het beginsel van wederkerigheid toepassen.   
+3.  Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding de Secretaris-Generaal van de Raad van Europa een verklaring doen toekomen dat hij of zij zich het recht voorbehoudt te verlangen dat aan hem of haar gedane verzoeken en ondersteunende documenten vergezeld gaan van een vertaling in zijn of haar eigen taal, in één van de officiële talen van de Raad van Europa, dan wel in één van deze door hem of haar aangegeven. De Staat of de Europese Gemeenschap kan bij die gelegenheid verklaren bereid te zijn vertalingen te aanvaarden in een andere door hem of haar aan te geven taal. De andere Partijen kunnen daarbij het beginsel van wederkerigheid toepassen.  
 
 ### Artikel  36  
 
 ####Legalisering
 
-Documenten die ingevolge dit hoofdstuk worden toegezonden, zijn vrijgesteld van alle legaliseringsformaliteiten.  
+Documenten die ingevolge dit hoofdstuk worden toegezonden, zijn vrijgesteld van alle legaliseringsformaliteiten. 
 
 ### Artikel  37  
 
 ####Inhoud van het verzoek
 
-1.  In elk verzoek om samenwerking ingevolge dit hoofdstuk wordt vermeld: 
+1.  In elk verzoek om samenwerking ingevolge dit hoofdstuk wordt vermeld:  
 
 a. de autoriteit die het verzoek doet en de autoriteit die met de uitvoering van onderzoeken of procedures is belast;  
 
@@ -1279,15 +1279,15 @@ d. voor zover de samenwerking de toepassing van dwangmiddelen inhoudt:
 
 i. de tekst van de wettelijke bepalingen of, indien dit niet mogelijk is, de strekking van het relevante toepasselijke recht; en  
 
-ii. een aanduiding van de verlangde maatregelen of van andere maatreglen van doortgelijke strekking die zouden kunnen worden genomen op het grondgebied van de verzoekende Partij op grond van haar eigen wetgeving;    
+ii. een aanduiding van de verlangde maatregelen of van andere maatreglen van doortgelijke strekking die zouden kunnen worden genomen op het grondgebied van de verzoekende Partij op grond van haar eigen wetgeving;   
 
 e. indien noodzakelijk en voor zover mogelijk, 
 
 i. bijzonderheden betreffende de betrokken persoon of personen, waaronder de naam, geboortedatum en -plaats, nationaliteit en verblijfplaats en, in het geval van een rechtspersoon, de zetel; en  
 
-ii. de voorwerpen ten aanzien waarvan samenwerking wordt verlangd, de vindplaats, de relatie tot de betrokken persoon of personen, het verband met het strafbare feit, alsmede alle beschikbare informatie over de rechten van anderen op de voorwerpen; en    
+ii. de voorwerpen ten aanzien waarvan samenwerking wordt verlangd, de vindplaats, de relatie tot de betrokken persoon of personen, het verband met het strafbare feit, alsmede alle beschikbare informatie over de rechten van anderen op de voorwerpen; en  
 
-f. een bepaalde procedure die de verzoekende Partij gevolgd wenst te zien.     
+f. een bepaalde procedure die de verzoekende Partij gevolgd wenst te zien.    
 2.  Wanneer een verzoek om voorlopige maatregelen uit hoofde van afdeling 3 de inbeslagneming betreft van voorwerpen die het onderwerp zouden kunnen vormen van een beslissing tot confiscatie bestaande in de verplichting een geldbedrag te betalen, dient in het verzoek ook het maximum-bedrag te worden vermeld waarvoor op die voorwerpen verhaal wordt gezocht.   
 3.  Naast het in het eerste lid genoemde, dient een verzoek uit hoofde van afdeling 4 te omvatten: 
 
@@ -1301,9 +1301,9 @@ iii. informatie met betrekking tot de mate waarin de beslissing ten uitvoer moet
 
 iv. informatie met betrekking tot de noodzaak voorlopige maatregelen te nemen,    
 
-b. in geval van artikel 23, eerste lid, onderdeel b, een uiteenzetting van de feiten die de verzoekende Partij aanvoert, die toereikend is om de aangezochte Partij in staat te stellen een beslissing te verkrijgen krachtens haar nationale wetgeving,  
+b. in geval van artikel 23, eerste lid, onderdeel b, een uiteenzetting van de feiten die de verzoekende Partij aanvoert, die toereikend is om de aangezochte Partij in staat te stellen een beslissing te verkrijgen krachtens haar nationale wetgeving, 
 
-c. wanneer derden mogelijkheden hebben gehad aanspraak te maken op rechten, stukken waaruit blijkt dat zij deze mogelijkheid hebben gehad.     
+c. wanneer derden mogelijkheden hebben gehad aanspraak te maken op rechten, stukken waaruit blijkt dat zij deze mogelijkheid hebben gehad.   
 
 ### Artikel  38  
 
@@ -1311,26 +1311,26 @@ c. wanneer derden mogelijkheden hebben gehad aanspraak te maken op rechten, stuk
 
 1.  Indien een verzoek niet voldoet aan de bepalingen van dit hoofdstuk of indien de verstrekte informatie niet voldoende is om de aangezochte Partij in staat te stellen het verzoek in behandeling te nemen, kan die Partij de verzoekende Partij vragen het verzoek te wijzigen of dit aan te vullen met extra informatie.   
 2.  De aangezochte Partij kan een termijn stellen aan de ontvangst van bedoelde wijzigingen of informatie.   
-3.  In afwachting van de ontvangst van de gevraagde wijzigingen of informatie met betrekking tot een verzoek uit hoofde van afdeling 4 van dit hoofdstuk, kan de aangezochte Partij de in de afdelingen 2 of 3 van dit hoofdstuk bedoelde maatregelen nemen.   
+3.  In afwachting van de ontvangst van de gevraagde wijzigingen of informatie met betrekking tot een verzoek uit hoofde van afdeling 4 van dit hoofdstuk, kan de aangezochte Partij de in de afdelingen 2 of 3 van dit hoofdstuk bedoelde maatregelen nemen.  
 
 ### Artikel  39  
 
 ####Samenloop van verzoeken
 
 1.  Wanneer de aangezochte Partij meer dan één verzoek uit hoofde van afdeling 3 of 4 van dit hoofdstuk ontvangt met betrekking tot dezelfde persoon of voorwerpen, belet dit haar niet de verzoeken in behandeling te nemen die het treffen van voorlopige maatregelen inhouden.   
-2.  In geval van samenloop van verzoeken uit hoofde van afdeling 4 van dit hoofdstuk, overweegt de aangezochte Partij in overleg te treden met de verzoekende Partijen.   
+2.  In geval van samenloop van verzoeken uit hoofde van afdeling 4 van dit hoofdstuk, overweegt de aangezochte Partij in overleg te treden met de verzoekende Partijen.  
 
 ### Artikel  40  
 
 ####Verplichting tot motivering
 
-De aangezochte Partij dient elke beslissing waarbij zij samenwerking ingevolge dit hoofdstuk weigert of uitstelt, dan wel daaraan voorwaarden verbindt, met redenen te omkleden.  
+De aangezochte Partij dient elke beslissing waarbij zij samenwerking ingevolge dit hoofdstuk weigert of uitstelt, dan wel daaraan voorwaarden verbindt, met redenen te omkleden. 
 
 ### Artikel  41  
 
 ####Inlichtingen
 
-1.  De aangezochte Partij licht de verzoekende Partij onverwijld in over: 
+1.  De aangezochte Partij licht de verzoekende Partij onverwijld in over:  
 
 a. de maatregelen die zij heeft genomen naar aanleiding van een verzoek ingevolge dit hoofdstuk;  
 
@@ -1346,7 +1346,7 @@ e. in geval van voorlopige maatregelen naar aanleiding van een verzoek uit hoofd
 a. elke herziening of beslissing of enig ander feit op grond waarvan de beslissing tot confiscatie, geheel of ten dele, haar uitvoerbaarheid verliest; en  
 
 b. elke ontwikkeling, ten aanzien van de feiten of ten aanzien van het recht, op grond waarvan de maatregelen ingevolge dit hoofdstuk niet langer gerechtvaardigd zijn.     
-3.  Wanneer een Partij op grond van dezelfde beslissing tot confiscatie verzoekt om confiscatie in meer dan één Partij, stelt zij alle betrokken Partijen hiervan in kennis.   
+3.  Wanneer een Partij op grond van dezelfde beslissing tot confiscatie verzoekt om confiscatie in meer dan één Partij, stelt zij alle betrokken Partijen hiervan in kennis.  
 
 ### Artikel  42  
 
@@ -1361,13 +1361,13 @@ b. elke ontwikkeling, ten aanzien van de feiten of ten aanzien van het recht, op
 
 1.  De verzoekende Partij kan verlangen dat de aangezochte Partij het feit dat het verzoek is gedaan en de strekking van het verzoek vertrouwelijk behandelt, behalve voor zover daarvan moet worden afgeweken ten einde het verzoek uit te voeren. Indien de aangezochte Partij niet kan voldoen aan het vereiste van vertrouwelijkheid, stelt zij de verzoekende Partij hiervan onmiddellijk in kennis.   
 2.  Indien daarom wordt verzocht en indien zulks niet in strijd is met de grondbeginselen van haar nationale wetgeving, behandelt de verzoekende Partij het bewijs en de informatie, verstrekt door de aangezochte Partij, vertrouwelijk, behalve voor zover het tegendeel noodzakelijk is ten behoeve van de in het verzoek omschreven onderzoeken of procedures.   
-3.  Behoudens de bepalingen van haar nationale wetgeving, voldoet een Partij die op grond van artikel 20 uit eigen beweging verstrekte informatie heeft ontvangen, aan elk vereiste van vertrouwelijkheid waarom wordt verzocht door de Partij die de informatie verstrekt. Indien de andere Partij niet aan dit vereiste kan voldoen, stelt zij de Partij die de informatie heeft toegezonden, hiervan onmiddellijk in kennis.   
+3.  Behoudens de bepalingen van haar nationale wetgeving, voldoet een Partij die op grond van artikel 20 uit eigen beweging verstrekte informatie heeft ontvangen, aan elk vereiste van vertrouwelijkheid waarom wordt verzocht door de Partij die de informatie verstrekt. Indien de andere Partij niet aan dit vereiste kan voldoen, stelt zij de Partij die de informatie heeft toegezonden, hiervan onmiddellijk in kennis.  
 
 ### Artikel  44  
 
 ####Kosten
 
-De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de aangezochte Partij. Wanneer aanzienlijke of buitengewone kosten moeten worden gemaakt om aan het verzoek te voldoen, plegen de Partijen overleg om de voorwaarden te bepalen waarop het verzoek wordt uitgevoerd alsmede de wijze waarop de kosten worden gedragen.  
+De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de aangezochte Partij. Wanneer aanzienlijke of buitengewone kosten moeten worden gemaakt om aan het verzoek te voldoen, plegen de Partijen overleg om de voorwaarden te bepalen waarop het verzoek wordt uitgevoerd alsmede de wijze waarop de kosten worden gedragen. 
 
 ### Artikel  45  
 
@@ -1394,7 +1394,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 8.  Bij het verstrekken van informatie of documenten uit hoofde van dit artikel, kan de verstrekkende FIE beperkingen en voorwaarden stellen aan het gebruik van informatie voor andere doeleinden dan die welke zijn bepaald in het zevende lid. De ontvangende FIE eerbiedigt al deze beperkingen en voorwaarden.   
 9.  Wanneer een Partij ontvangen informatie of documenten wenst te gebruiken voor strafrechtelijk onderzoek of vervolging, en ten behoeve van de doeleinden vastgelegd in het zevende lid, kan de verstrekkende FIE zijn goedkeuring daaraan niet onthouden, behoudens op grond van beperkingen ingevolge zijn nationale recht of de voorwaarden bedoeld in het zesde lid. Indien toestemming wordt geweigerd, wordt zulks naar behoren toegelicht.   
 10.  Financiële Inlichtingen-eenheden treffen alle noodzakelijke maatregelen met inbegrip van veiligheidsmaatregelen die waarborgen dat ingevolge dit artikel verschafte informatie niet toegankelijk is voor andere autoriteiten of diensten.   
-11.  De verschafte informatie wordt beschermd in overeenstemming met het Verdrag van de Raad van Europa tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens (ETS nr. 108) van 28 januari 1981 en rekening houdend met Aanbeveling nr. R(87)15 van 15 september 1987 van het Comité van Ministers van de Raad van Europa tot regeling van het gebruik van persoonsgegevens op politieel gebied met ten minste dezelfde regels voor geheimhouding en bescherming van persoonsgegevens als die welke gelden uit hoofde van de nationale wetgeving die van toepassing is op de verzoekende FIE.   
+11.  De verschafte informatie wordt beschermd in overeenstemming met het [Verdrag van de Raad van Europa tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](../../../../../../../../../../../../../verdrag/convention/for/the/protection/of/individuals/with/regard/to/automatic/etc/BWBV0002783/README.md) (ETS nr. 108) van 28 januari 1981 en rekening houdend met Aanbeveling nr. R(87)15 van 15 september 1987 van het Comité van Ministers van de Raad van Europa tot regeling van het gebruik van persoonsgegevens op politieel gebied met ten minste dezelfde regels voor geheimhouding en bescherming van persoonsgegevens als die welke gelden uit hoofde van de nationale wetgeving die van toepassing is op de verzoekende FIE.   
 12.  De verstrekkende FIE kan zich te laten informeren over het gebruik van de verschafte informatie en de ontvangende FIE dient, wanneer dat mogelijk is, de gewenste terugkoppeling te verschaffen.   
 13.  De Partijen geven aan welke eenheid een FIE is in de zin van dit artikel.   
 
@@ -1407,7 +1407,7 @@ De gewone kosten gemaakt ter uitvoering van een verzoek worden gedragen door de 
 
 a. de transactie verband houdt met het witwassen van geld; en  
 
-b. de transactie zou zijn opgeschort of de goedkeuring eraan zou zijn onthouden indien de transactie het voorwerp zou zijn geweest van een nationale melding van een verdachte transactie.     
+b. de transactie zou zijn opgeschort of de goedkeuring eraan zou zijn onthouden indien de transactie het voorwerp zou zijn geweest van een nationale melding van een verdachte transactie.    
 
 ### Hoofdstuk  VI  
 
@@ -1422,11 +1422,11 @@ b. de transactie zou zijn opgeschort of de goedkeuring eraan zou zijn onthouden 
 a. verzorgt de monitoring van de deugdelijke uitvoering van het Verdrag door de Partijen;  
 
 b. doet, op verzoek van een Partij, een uitspraak over elke kwestie betreffende de uitleg en uitvoering van het Verdrag.     
-2.  De COP verricht de taken genoemd in het eerste lid, onderdeel a, door middel van beschikbare openbare overzichten van het Beperkte comité van experts dat maatregelen ten behoeve van de bestrijding van witwassen evalueert (Moneyval) (voor de Partijen die lid zijn van Moneyval) en beschikbare openbare FATF-overzichten (voor de Partijen die lid zijn van de FATF), indien nodig aangevuld met periodieke vragenlijsten voor zelfevaluatie. De monitoringprocedure zal terreinen waarop dit Verdrag van toepassing is uitsluitend betreffen voorzover daarop geen andere relevante internationale normen van toepassing zijn in het kader waarvan wederzijdse evaluaties worden verricht door de FATF en Moneyval.   
+2.  De COP verricht de taken genoemd in het eerste lid, onderdeel a, door middel van beschikbare openbare overzichten van het Beperkte comité van experts dat maatregelen ten behoeve van de bestrijding van witwassen evalueert (Moneyval) (voor de Partijen die lid zijn van Moneyval) en beschikbare openbare FATF-overzichten (voor de Partijen die lid zijn van de FATF), indien nodig aangevuld met periodieke vragenlijsten voor zelfevaluatie. De monitoringprocedure zal terreinen waarop dit Verdrag van toepassing is uitsluitend betreffen voorzover daarop geen andere relevante internationale normen van toepassing zijn in het kader waarvan wederzijdse evaluaties worden verricht door de FATF en Moneyval.    
 3.  Indien de COP oordeelt dat zij meer informatie behoeft voor het verrichten van haar taken, neemt zij contact op met de betrokken Partij, indien zij dit wenst zo nodig met gebruikmaking van de procedure en het stelsel van Moneyval. De betrokken Partij rapporteert vervolgens aan de COP. De COP beslist op grond hiervan of zij de positie van de betrokken Partij grondiger zal onderzoeken. Dit kan, zij het niet noodzakelijkerwijs, een bezoek aan het land door een evaluatieteam omvatten.   
 4.  In geval van een geschil tussen Partijen ten aanzien van de uitleg of toepassing van het Verdrag, trachten zij het geschil door onderhandeling of op een andere vreedzame wijze van hun keuze op te lossen, met inbegrip van voorlegging van het geschil aan de COP, aan een arbitrage gerecht waarvan de uitspraken bindend zijn voor de Partijen, of aan het Internationale Hof van Justitie, als overeengekomen door de betrokken Partijen.   
 5.  De COP stelt haar eigen reglement van orde vast.   
-6.  De Secretaris-Generaal van de Raad van Europa roept de COP uiterlijk een jaar na de inwerkingtreding van dit Verdrag bijeen. Daarna worden gewone vergaderingen van de COP gehouden overeenkomstig het reglement van orde dat door de COP is aangenomen.   
+6.  De Secretaris-Generaal van de Raad van Europa roept de COP uiterlijk een jaar na de inwerkingtreding van dit Verdrag bijeen. Daarna worden gewone vergaderingen van de COP gehouden overeenkomstig het reglement van orde dat door de COP is aangenomen.  
 
 ### Hoofdstuk  VI  
 
@@ -1442,21 +1442,21 @@ a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring
 
 b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.     
 2.  De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.   
-3.  Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop zes ondertekenaars, waaronder ten minste vier lidstaten van de Raad van Europa, overeenkomstig de bepalingen van het eerste lid hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht.   
+3.  Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop zes ondertekenaars, waaronder ten minste vier lidstaten van de Raad van Europa, overeenkomstig de bepalingen van het eerste lid hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht.    
 4.  Ten aanzien van elke ondertekenaar die later zijn instemming door dit Verdrag te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop overeenkomstig de bepalingen van het eerste lid zijn instemming door het Verdrag te worden gebonden tot uitdrukking is gebracht.   
 5.  Geen van de Partijen bij de Overeenkomst van 1990 mag dit Verdrag bekrachtigen, aanvaarden of goedkeuren zonder zich ten minste gebonden te achten aan de bepalingen die overeenkomen met de bepalingen van de Overeenkomst van 1990 waaraan zij gebonden is.   
 6.  Met ingang van de inwerkingtreding zullen de Partijen bij dit Verdrag die tevens partij zijn bij de Overeenkomst van 1990: 
 
 a. de bepalingen van dit Verdrag toepassen in hun wederzijdse betrekkingen;  
 
-b. de bepalingen van de Overeenkomst van 1990 blijven toepassen op hun betrekkingen met andere partijen bij die Overeenkomst, die niet Partij zijn bij dit Verdrag.     
+b. de bepalingen van de Overeenkomst van 1990 blijven toepassen op hun betrekkingen met andere partijen bij die Overeenkomst, die niet Partij zijn bij dit Verdrag.    
 
 ### Artikel  50  
 
 ####Toetreding tot het Verdrag
 
-1.  Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen bij het Verdrag, iedere Staat die geen lid is van de Raad en niet heeft deelgenomen aan de opstelling ervan, uitnodigen tot dit Verdrag toe te treden, zulks bij een besluit genomen met de meerderheid voorzien in artikel 20, onderdeel d, van het Statuut van de Raad van Europa en door met algemene stemmen van de vertegenwoordigers van de Partijen die het recht hebben in het Comité van Ministers zitting te hebben.   
-2.  Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.   
+1.  Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen bij het Verdrag, iedere Staat die geen lid is van de Raad en niet heeft deelgenomen aan de opstelling ervan, uitnodigen tot dit Verdrag toe te treden, zulks bij een besluit genomen met de meerderheid voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](../../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) en door met algemene stemmen van de vertegenwoordigers van de Partijen die het recht hebben in het Comité van Ministers zitting te hebben.   
+2.  Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.  
 
 ### Artikel  51  
 
@@ -1464,7 +1464,7 @@ b. de bepalingen van de Overeenkomst van 1990 blijven toepassen op hun betrekkin
 
 1.  Elke Staat of de Europese Gemeenschap kan op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden waarop het Verdrag van toepassing zal zijn nader aangeven.   
 2.  Elke Partij kan op een later tijdstip door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, de toepassing van het Verdrag uitbreiden tot elk ander grondgebied dat in de verklaring wordt genoemd. Ten aanzien van een dergelijk grondgebied treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die verklaring door de Secretaris-Generaal.   
-3.  Iedere verklaring die wordt gedaan uit hoofde van de twee voorgaande leden kan, met betrekking tot ieder grondgebied dat in de verklaring wordt genoemd, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.   
+3.  Iedere verklaring die wordt gedaan uit hoofde van de twee voorgaande leden kan, met betrekking tot ieder grondgebied dat in de verklaring wordt genoemd, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.  
 
 ### Artikel  52  
 
@@ -1473,7 +1473,7 @@ b. de bepalingen van de Overeenkomst van 1990 blijven toepassen op hun betrekkin
 1.  Dit Verdrag laat de rechten en verplichtingen van de Partijen die voortvloeien uit internationale multilaterale instrumenten inzake bijzondere aangelegenheden onverlet.   
 2.  De Partijen bij dit Verdrag mogen onderling bilaterale of multilaterale verdragen sluiten inzake aangelegenheden die in dit Verdrag worden geregeld, teneinde de bepalingen hiervan aan te vullen of aan te scherpen, of de toepassing van de erin vervatte beginselen te vergemakkelijken.   
 3.  Indien twee of meer Partijen reeds een akkoord of verdrag hebben gesloten met betrekking tot een onderwerp dat in dit Verdrag wordt geregeld of hun betrekkingen wat betreft dit onderwerp anderszins hebben geregeld, zijn zij gerechtigd dat akkoord of dat verdrag toe te passen of hun betrekkingen aldus te regelen, in plaats van dit Verdrag, indien daarmede de internationale samenwerking wordt vergemakkelijkt.   
-4.  Partijen die lid zijn van de Europese Unie passen in hun wederzijdse betrekkingen regels van de Gemeenschap en de Europese Unie toe, voor zover op het betreffende onderwerp, en in het bijzondere geval, regels van de Gemeenschap of de Europese Unie van toepassing zijn, onverminderd het onderwerp en het doel van dit Verdrag en onverminderd de volledige toepassing ervan ten opzichte van andere Partijen.   
+4.  Partijen die lid zijn van de Europese Unie passen in hun wederzijdse betrekkingen regels van de Gemeenschap en de Europese Unie toe, voor zover op het betreffende onderwerp, en in het bijzondere geval, regels van de Gemeenschap of de Europese Unie van toepassing zijn, onverminderd het onderwerp en het doel van dit Verdrag en onverminderd de volledige toepassing ervan ten opzichte van andere Partijen.  
 
 ### Artikel  53  
 
@@ -1488,10 +1488,10 @@ a. dat hij of zij artikel 3, vierde lid, van dit Verdrag niet zal toepassen; of
 
 b. dat hij of zij artikel 3, vierde lid, van dit Verdrag slechts gedeeltelijk zal toepassen; of  
 
-c. op welke wijze hij of zij beoogt artikel 3, vierde lid, van dit Verdrag toe te passen.   Hij of zij stelt de Secretaris-Generaal van de Raad van Europa in kennis van wijzigingen in deze informatie.   
+c. op welke wijze hij of zij beoogt artikel 3, vierde lid, van dit Verdrag toe te passen.   Hij of zij stelt de Secretaris-Generaal van de Raad van Europa in kennis van wijzigingen in deze informatie.  
 5.  Andere voorbehouden kunnen niet worden gemaakt.   
 6.  Elke Partij die een voorbehoud heeft gemaakt krachtens dit artikel, kan dat geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.   
-7.  Een Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van het Verdrag kan geen aanspraak maken op de toepassing van die bepaling door een andere Partij; zij kan echter, indien haar voorbehoud gedeeltelijk of voorwaardelijk is, op de toepassing van die bepaling aanspraak maken voor zover zij deze zelf heeft aanvaard.   
+7.  Een Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van het Verdrag kan geen aanspraak maken op de toepassing van die bepaling door een andere Partij; zij kan echter, indien haar voorbehoud gedeeltelijk of voorwaardelijk is, op de toepassing van die bepaling aanspraak maken voor zover zij deze zelf heeft aanvaard.  
 
 ### Artikel  54  
 
@@ -1499,15 +1499,15 @@ c. op welke wijze hij of zij beoogt artikel 3, vierde lid, van dit Verdrag toe t
 
 1.  Wijzigingen van het Verdrag kunnen worden voorgesteld door elke Partij en worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de lidstaten van de Raad van Europa, aan de Europese Gemeenschap en aan elke Staat die geen lid is en is toegetreden of is uitgenodigd toe te treden tot dit Verdrag in overeenstemming met de bepalingen van artikel 50.   
 2.  Elke door een Partij voorgestelde wijziging wordt doorgegeven aan de Europese Commissie voor Strafrechtelijke Vraagstukken (CDPC) die haar oordeel over de voorgestelde wijziging voorlegt aan het Comité van Ministers.   
-3.  Het Comité van Ministers bestudeert de voorgestelde wijziging en het door de CDPC ingediende oordeel en kan de wijziging bij de in artikel 20, onderdeel d, van het Statuut van de Raad van Europa voorziene meerderheid aannemen.   
+3.  Het Comité van Ministers bestudeert de voorgestelde wijziging en het door de CDPC ingediende oordeel en kan de wijziging bij de in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](../../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) voorziene meerderheid aannemen.   
 4.  De tekst van elke wijziging aangenomen door het Comité van Ministers overeenkomstig het derde lid van dit artikel, wordt ter aanvaarding toegezonden aan de Partijen.   
 5.  Iedere overeenkomstig het derde lid van dit artikel aangenomen wijziging treedt in werking dertig dagen nadat alle Partijen de Secretaris-Generaal hebben medegedeeld dat zij haar hebben aanvaard.   
 6.  Teneinde de lijst met strafbare feiten in de appendix te actualiseren en artikel 13 te wijzigen, kan elke Partij of het Comité van Ministers voorstellen tot wijziging indienen. Zij worden door de Secretaris-Generaal van de Raad van Europa medegedeeld aan de Partijen.   
-7.  Na te hebben overlegd met de Partijen die geen lid zijn van de Raad van Europa en, indien nodig met de CDPC, kan het Comité van Ministers een wijziging voorgesteld in overeenstemming met het zesde lid aannemen bij de in artikel 20, onderdeel d, van het Statuut van de Raad van Europa voorziene meerderheid. De wijziging wordt van kracht na het verstrijken van een tijdvak van een jaar na de datum waarop deze is toegestuurd aan de Partijen. Gedurende dit tijdvak kan elke Partij de Secretaris-Generaal in kennis stellen van enig bezwaar tegen de inwerkingtreding van de wijziging ten aanzien van haar.   
+7.  Na te hebben overlegd met de Partijen die geen lid zijn van de Raad van Europa en, indien nodig met de CDPC, kan het Comité van Ministers een wijziging voorgesteld in overeenstemming met het zesde lid aannemen bij de in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](../../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) voorziene meerderheid. De wijziging wordt van kracht na het verstrijken van een tijdvak van een jaar na de datum waarop deze is toegestuurd aan de Partijen. Gedurende dit tijdvak kan elke Partij de Secretaris-Generaal in kennis stellen van enig bezwaar tegen de inwerkingtreding van de wijziging ten aanzien van haar.   
 8.  Indien eenderde van de Partijen de Secretaris-Generaal in kennis stellen van een bezwaar tegen de inwerkingtreding van de wijziging, treedt de wijziging niet in werking.   
 9.  Indien minder dan eenderde van de Partijen kennisgeving hebben gedaan van bezwaar, wordt de wijziging van kracht voor de Partijen die geen kennisgeving van bezwaar hebben gedaan.   
 10.  Indien een wijziging overeenkomstig het zesde tot en met negende lid van dit artikel van kracht is geworden en een Partij kennisgeving heeft gedaan van een bezwaar ertegen, wordt deze wijziging voor de desbetreffende Partij van kracht op de eerste dag van de maand die volgt op de datum waarop deze Partij de Secretaris-Generaal van de Raad van Europa in kennis heeft gesteld van haar aanvaarding ervan. Een Partij die bezwaar heeft ingediend kan dit te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Raad van Europa.   
-11.  Indien een wijziging is aanvaard door het Comité van Ministers, kan een Staat of de Europese Gemeenschap zijn of haar instemming te worden gebonden door het Verdrag niet tot uitdrukking brengen zonder tegelijkertijd de wijziging te aanvaarden.   
+11.  Indien een wijziging is aanvaard door het Comité van Ministers, kan een Staat of de Europese Gemeenschap zijn of haar instemming te worden gebonden door het Verdrag niet tot uitdrukking brengen zonder tegelijkertijd de wijziging te aanvaarden.  
 
 ### Artikel  55  
 
@@ -1515,7 +1515,7 @@ c. op welke wijze hij of zij beoogt artikel 3, vierde lid, van dit Verdrag toe t
 
 1.  Elke Partij kan het Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.   
 2.  Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.   
-3.  Dit Verdrag blijft evenwel van toepassing op de tenuitvoerlegging van confiscaties uit hoofde van artikel 23 ter zake waarvan voor de datum waarop de opzegging van kracht wordt een verzoek is gedaan in overeenstemming met de bepalingen van het Verdrag.   
+3.  Dit Verdrag blijft evenwel van toepassing op de tenuitvoerlegging van confiscaties uit hoofde van artikel 23 ter zake waarvan voor de datum waarop de opzegging van kracht wordt een verzoek is gedaan in overeenstemming met de bepalingen van het Verdrag.  
 
 ### Artikel  56  
 
@@ -1531,32 +1531,32 @@ c. elke datum van inwerkingtreding van het Verdrag in overeenstemming met de art
 
 d. elke verklaring of elk voorbehoud ingevolge artikel 53;  
 
-e. elke andere akte, kennisgeving of mededeling met betrekking tot het Verdrag.    
+e. elke andere akte, kennisgeving of mededeling met betrekking tot het Verdrag.   
 
-Ten blijke waarvan de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te Warschau, op 16 mei 2005, in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek, in een enkel exemplaar dat zal worden nedergelegd in het archief van de Raad van Europa. De Secretaris-Generaal van de Raad van Europa doet een gewaarmerkt afschrift toekomen aan elke lidstaat van de Raad van Europa, aan de Europese Gemeenschap, aan de niet-lidstaten die hebben deelgenomen aan de opstelling van het Verdrag en aan elke Staat die is uitgenodigd tot het Verdrag toe te treden.  
+Ten blijke waarvan de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.GEDAAN te Warschau, op 16 mei 2005, in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek, in een enkel exemplaar dat zal worden nedergelegd in het archief van de Raad van Europa. De Secretaris-Generaal van de Raad van Europa doet een gewaarmerkt afschrift toekomen aan elke lidstaat van de Raad van Europa, aan de Europese Gemeenschap, aan de niet-lidstaten die hebben deelgenomen aan de opstelling van het Verdrag en aan elke Staat die is uitgenodigd tot het Verdrag toe te treden.  
 
 ### Bijlage  
 
 | --- | --- |
 |:---|:---|
-| a.  | deelneming aan een georganiseerde criminele groep en racketeering  |
-| b.  | terrorisme, met inbegrip van de financiering ervan  |
-| c.  | mensenhandel, met inbegrip van mensensmokkel  |
-| d.  | seksuele uitbuiting, met inbegrip van de seksuele uitbuiting van kinderen  |
-| e.  | illegale handel in verdovende middelen en psychotrope stoffen  |
-| f.  | illegale handel in wapens  |
-| g.  | illegale handel in gestolen goederen en andere goederen  |
-| h.  | corruptie en omkoping  |
+| a.  | deelneming aan een georganiseerde criminele groep en racketeering   |
+| b.  | terrorisme, met inbegrip van de financiering ervan   |
+| c.  | mensenhandel, met inbegrip van mensensmokkel   |
+| d.  | seksuele uitbuiting, met inbegrip van de seksuele uitbuiting van kinderen   |
+| e.  | illegale handel in verdovende middelen en psychotrope stoffen   |
+| f.  | illegale handel in wapens   |
+| g.  | illegale handel in gestolen goederen en andere goederen   |
+| h.  | corruptie en omkoping   |
 | i.  | bedrog  |
-| j.  | vervalsing van betaalmiddelen  |
-| k.  | vervalsing en piraterij van producten  |
-| 1.  | milieucriminaliteit  |
-| m.  | moord, zware mishandeling  |
-| n.  | ontvoering, wederrechtelijke vrijheidsberoving en gijzeling  |
+| j.  | vervalsing van betaalmiddelen   |
+| k.  | vervalsing en piraterij van producten   |
+| 1.  | milieucriminaliteit   |
+| m.  | moord, zware mishandeling   |
+| n.  | ontvoering, wederrechtelijke vrijheidsberoving en gijzeling   |
 | o.  | roof of diefstal  |
-| p.  | smokkel  |
-| q.  | afpersing  |
+| p.  | smokkel   |
+| q.  | afpersing   |
 | r.  | valsheid in geschrifte  |
-| s.  | zeeroof en  |
+| s.  | zeeroof en   |
 | t.  | handel met voorkennis en manipulatie van de markt  |
 

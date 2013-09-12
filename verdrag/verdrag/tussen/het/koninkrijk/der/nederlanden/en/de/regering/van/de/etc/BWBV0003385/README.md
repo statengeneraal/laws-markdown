@@ -10,20 +10,20 @@ The Government of the Kingdom of the Netherlands and the Government of the Cayma
 
 ####Scope of the Agreement
 
-The competent authorities of the Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Parties concerning taxes covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8. The rights and safeguards secured to persons by the laws or administrative practice of the requested Party remain applicable to the extent that they do not unduly prevent or delay effective exchange of information.  
+The competent authorities of the Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Parties concerning taxes covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8. The rights and safeguards secured to persons by the laws or administrative practice of the requested Party remain applicable to the extent that they do not unduly prevent or delay effective exchange of information. 
 
 ### Article  2  
 
 ####Jurisdiction
 
-A requested Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction.  
+A requested Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction. 
 
 ### Article  3  
 
 ####Taxes covered
 
 1.  The taxes which are the subject of this Agreement are taxes of every kind and description existing on the date of signature.   
-2.  This Agreement shall also apply to any identical taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. This Agreement shall also apply to any substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. The competent authorities of the Parties shall notify each other of any substantial changes to the taxation and related information gathering measures covered by the Agreement.   
+2.  This Agreement shall also apply to any identical taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. This Agreement shall also apply to any substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. The competent authorities of the Parties shall notify each other of any substantial changes to the taxation and related information gathering measures covered by the Agreement.  
 
 ### Article  4  
 
@@ -68,7 +68,7 @@ o) the term “information” means any fact, statement or record in any form wh
 p) the term “criminal tax matters” means tax matters involving intentional conduct which is liable to prosecution under the criminal laws of the applicant Party;  
 
 q) the term “ criminal laws” means all criminal laws designated as such under domestic law irrespective of whether contained in the tax laws, the criminal code or other statutes.     
-2.  As regards the application of this Agreement at any time by a Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Party, any meaning under the applicable tax laws of the applicant state prevailing over a meaning given to the term under other laws of that state.   
+2.  As regards the application of this Agreement at any time by a Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Party, any meaning under the applicable tax laws of the applicant state prevailing over a meaning given to the term under other laws of that state.  
 
 ### Article  5  
 
@@ -97,7 +97,7 @@ e) a statement of the information sought including its nature and the form in wh
 f) the tax purpose for which the information is sought;  
 
 g) a statement that the applicant Party has pursued all means available in its own territory to obtain the information, except those that would give rise to disproportionate difficulties.     
-6.  The competent authority of the requested Party shall forward the requested information as promptly as possible to the applicant Party.   
+6.  The competent authority of the requested Party shall forward the requested information as promptly as possible to the applicant Party.  
 
 ### Article  6  
 
@@ -105,7 +105,7 @@ g) a statement that the applicant Party has pursued all means available in its o
 
 1.  A Party may, on request, allow representatives of the competent authority of the other Party to enter its territory to interview individuals and examine records with the written consent of the persons concerned. The competent authority of the applicant Party shall notify the competent authority of the requested Party of the time and place of the meeting with the individuals concerned.   
 2.  At the request of the competent authority of one Party, the competent authority of the other Party may allow representatives of the competent authority of the first-mentioned Party to be present at the appropriate part of a tax examination in the second-mentioned Party.   
-3.  If the request referred to in paragraph 2 is acceded to, the competent authority of the Party conducting the examination shall, as soon as possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.   
+3.  If the request referred to in paragraph 2 is acceded to, the competent authority of the Party conducting the examination shall, as soon as possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.  
 
 ### Article  7  
 
@@ -115,7 +115,7 @@ g) a statement that the applicant Party has pursued all means available in its o
 2.  The provisions of this Agreement shall not impose on a Party the obligation to supply information which is subject to legal privilege or would disclose any trade, business, industrial, commercial or professional secret or trade process. Notwithstanding the foregoing, information of the type referred to in Article 5, paragraph 4 shall not be treated as such a secret or trade process merely because it meets the criteria in that paragraph.   
 3.  The requested Party may decline a request for information if the disclosure of the information would be contrary to public policy.   
 4.  A request for information shall not be refused on the ground that the tax claim giving rise to the request is disputed.   
-5.  The requested Party may decline a request for information if the information is requested by the applicant Party to administer or enforce a provision of the tax law of the applicant Party, or any requirement connected therewith, which discriminates against a national of the requested Party as compared with a national of the applicant Party in the same circumstances.   
+5.  The requested Party may decline a request for information if the information is requested by the applicant Party to administer or enforce a provision of the tax law of the applicant Party, or any requirement connected therewith, which discriminates against a national of the requested Party as compared with a national of the applicant Party in the same circumstances.  
 
 ### Article  8  
 
@@ -127,13 +127,13 @@ Any information received by a Party under this Agreement shall be treated as con
 
 ####Costs
 
-Incidence of costs incurred in providing assistance shall be agreed by the competent authorities.  
+Incidence of costs incurred in providing assistance shall be agreed by the competent authorities. 
 
 ### Article  10  
 
 ####Language
 
-Requests for assistance and answers thereto shall be drawn up in English.  
+Requests for assistance and answers thereto shall be drawn up in English. 
 
 ### Article  11  
 
@@ -142,7 +142,7 @@ Requests for assistance and answers thereto shall be drawn up in English.
 1.  Where difficulties or doubts arise between the Parties regarding the implementation or interpretation of the Agreement, the competent authorities shall endeavour to resolve the matter by mutual agreement.   
 2.  In addition to the agreements referred to in paragraph 1, the competent authorities of the Parties may mutually agree on the procedures to be used under Articles 5 and 6.   
 3.  The competent authorities of the Parties may communicate with each other directly for purposes of reaching agreement under this Article.   
-4.  The parties shall agree on other forms of dispute resolution should this become necessary.   
+4.  The parties shall agree on other forms of dispute resolution should this become necessary.  
 
 ### Article  12  
 
@@ -152,18 +152,18 @@ This Agreement shall enter into force when each party has notified the other of 
 
 a) for criminal tax matters on that date, but only in respect of taxable periods beginning on or after January 1st, 2004 or, where there is no taxable period, all charges to tax arising on or after January 1st, 2004; and  
 
-b) for all other matters covered in Article 1 on that date, but only in respect of taxable periods beginning on or after that date or, where there is no taxable period, all charges to tax arising on or after that date.    
+b) for all other matters covered in Article 1 on that date, but only in respect of taxable periods beginning on or after that date or, where there is no taxable period, all charges to tax arising on or after that date.   
 
 ### Article  13  
 
 ####Termination
 
 1.  This Agreement shall remain in force until terminated by one of the Parties. Either Party may terminate the Agreement by giving notice of termination given by one competent authority to the other competent authority at least six months before the end of any calendar year after the expiration of a period of three years from the date of its entry into force. In such event the Agreement shall cease to have effect for taxable years and periods beginning after the end of the calendar year in which the notice of termination has been given.   
-2.  In the event of termination, both Parties shall remain bound by the provision of Article 8 with respect to any information obtained under the Agreement.   
+2.  In the event of termination, both Parties shall remain bound by the provision of Article 8 with respect to any information obtained under the Agreement.  
 
-IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Agreement. DONE at The Hague, this 8 <sup>th</sup>. day of July 2009, in duplicate, in the English language.  *For the Government of the Kingdom of the Netherlands,*  J. K. DE JAGER  *For the Government of the Cayman Islands,*  W. MCKEEVA BUSH OBE  
+IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Agreement. DONE at The Hague, this 8<sup>th</sup>. day of July 2009, in duplicate, in the English language. *For the Government of the Kingdom of the Netherlands,* J. K. DE JAGER *For the Government of the Cayman Islands,* W. MCKEEVA BUSH OBE  
 
-### Protocol  
+### Protocol 
 
 ####between the Kingdom of the Netherlands and the Government of the Cayman Islands as authorised under the letter of entrustment from the United Kingdom of Great Britain and Northern Ireland concerning the interpretation and application of the Agreement between the Kingdom of the Netherlands and the Government of the Cayman Islands as authorised under the letter of entrustment from the United Kingdom of Great Britain and Northern Ireland for the exchange of information with respect to taxes
 
@@ -179,7 +179,7 @@ With respect to subparagraph g of paragraph 5 of Article 5 it is understood that
 
 ####Ad Article 5 
 
-If personal data is exchanged under the Agreement, the following additional provisions shall apply: 
+If personal data is exchanged under the Agreement, the following additional provisions shall apply:  
 
 a) The receiving authority may use such data only for the stated purpose and shall be subject to the conditions prescribed by the supplying authority; such use is also permitted, subject to the written consent required under Article 8, for the prevention and prosecution of serious crimes and for the purpose of addressing serious threats to public security;  
 
@@ -197,7 +197,7 @@ g) If the domestic law of the supplying authority provided, with respect to the 
 
 h) The supplying and the receiving authority shall be obliged to keep official records of the supply and receipt of personal data;  
 
-i) The supplying and the receiving authority shall be obliged to take effective measures to protect the personal data supplied against unauthorised access, unauthorised alteration and unauthorised disclosure.    
+i) The supplying and the receiving authority shall be obliged to take effective measures to protect the personal data supplied against unauthorised access, unauthorised alteration and unauthorised disclosure.   
 
 ### III  
 
@@ -209,7 +209,7 @@ a) the other Party does not engage in effective exchange of information;
 
 b) because it lacks transparency in the operation of its laws, regulations or administrative practices; or,  
 
-c) on the basis of no or nominal taxes.   Without limiting the generality of the term, “prejudicial or restrictive measure” is not limited solely to taxation matters and includes the denial of a deduction, credit or exemption, the imposition of a tax, charge or levy, or special reporting requirements, but does not include any generally applicable measure, applied by either Party against, amongst others, members of the OECD generally.  
+c) on the basis of no or nominal taxes.   Without limiting the generality of the term, “prejudicial or restrictive measure” is not limited solely to taxation matters and includes the denial of a deduction, credit or exemption, the imposition of a tax, charge or levy, or special reporting requirements, but does not include any generally applicable measure, applied by either Party against, amongst others, members of the OECD generally. 
 
 ### IV  
 
@@ -223,9 +223,9 @@ a) The competent authorities may initiate discussions in case:
 
 (iii) the Government of the Cayman Islands introduces new legislation which enables other forms of exchange of information.    
 
-b) If the Netherlands enters into arrangements with another jurisdiction comparable to the Cayman Islands for the provision of information with respect to taxes that are less burdensome in any material respect than the provisions of the Agreement, the Cayman Islands may initiate discussions with the Netherlands with a view to modifying the Agreement to have similar effect.   This Protocol shall form an integral part of the Agreement between the Kingdom of The Netherlands and the Government of the Cayman Islands as authorised under the letter of entrustment from the United Kingdom of Great Britain and Northern Ireland for the exchange of information with respect to tax matters. The Parties may, by mutual arrangement, amend this Protocol at any time in writing. The amended Protocol will come into effect on the date of the final letter arranging the amendment.  
+b) If the Netherlands enters into arrangements with another jurisdiction comparable to the Cayman Islands for the provision of information with respect to taxes that are less burdensome in any material respect than the provisions of the Agreement, the Cayman Islands may initiate discussions with the Netherlands with a view to modifying the Agreement to have similar effect.   This Protocol shall form an integral part of the Agreement between the Kingdom of The Netherlands and the Government of the Cayman Islands as authorised under the letter of entrustment from the United Kingdom of Great Britain and Northern Ireland for the exchange of information with respect to tax matters.  The Parties may, by mutual arrangement, amend this Protocol at any time in writing. The amended Protocol will come into effect on the date of the final letter arranging the amendment. 
 
-IN WITNESS WHEREOF the undersigned, being duly authorised in that behalf by the respective Parties, have signed this Protocol. DONE at The Hague, this 8 <sup>th</sup> day of July 2009, in duplicate in the English language. For the Government of the Kingdom of the Netherlands, J. K. DE JAGER For the Government of the Cayman Islands, W. MCKEEVA BUSH OBE  
+IN WITNESS WHEREOF the undersigned, being duly authorised in that behalf by the respective Parties, have signed this Protocol. DONE at The Hague, this 8<sup>th</sup> day of July 2009, in duplicate in the English language. For the Government of the Kingdom of the Netherlands, J. K. DE JAGER For the Government of the Cayman Islands, W. MCKEEVA BUSH OBE  
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Caymaneilanden zoals gemachtigd krachtens de volmacht van het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen
 
@@ -235,20 +235,20 @@ De Regering van het Koninkrijk der Nederlanden, en de Regering van de Caymaneila
 
 ####Reikwijdte van het Verdrag
 
-De bevoegde autoriteiten van de partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetten of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.  
+De bevoegde autoriteiten van de partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetten of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen. 
 
 ### Artikel  2  
 
 ####Rechtsmacht
 
-Een aangezochte partij is niet verplicht informatie te verstrekken die noch in het bezit is van haar autoriteiten, noch in het bezit of in de macht van personen die onder haar territoriale rechtsmacht vallen.  
+Een aangezochte partij is niet verplicht informatie te verstrekken die noch in het bezit is van haar autoriteiten, noch in het bezit of in de macht van personen die onder haar territoriale rechtsmacht vallen. 
 
 ### Artikel  3  
 
 ####Belastingen waarop het Verdrag van toepassing is
 
 1.  De belastingen waarop dit Verdrag van toepassing is betreffen belastingen van elke soort en benaming zoals die op de dag van ondertekening bestaan.   
-2.  Dit Verdrag is ook van toepassing op alle gelijke belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. Dit Verdrag is ook van toepassing op alle in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop het Verdrag van toepassing is.   
+2.  Dit Verdrag is ook van toepassing op alle gelijke belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. Dit Verdrag is ook van toepassing op alle in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop het Verdrag van toepassing is.  
 
 ### Artikel  4  
 
@@ -293,7 +293,7 @@ o. wordt verstaan onder de uitdrukking „informatie” alle feiten, verklaringe
 p. wordt verstaan onder de uitdrukking „strafrechtelijke belastingzaken” belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende partij;  
 
 q. wordt verstaan onder de uitdrukking „strafwetten” alle strafrechtelijke bepalingen die krachtens de nationale wetgeving als zodanig worden aangeduid, ongeacht of zij zijn opgenomen in belastingwetten, het wetboek van strafrecht of andere wetten.     
-2.  Wat betreft de toepassing, op enig moment, van dit Verdrag door een partij, heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van de verzoekende staat prevaleert boven een betekenis die volgens andere wetgeving van die staat aan die uitdrukking wordt gegeven.   
+2.  Wat betreft de toepassing, op enig moment, van dit Verdrag door een partij, heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van de verzoekende staat prevaleert boven een betekenis die volgens andere wetgeving van die staat aan die uitdrukking wordt gegeven.  
 
 ### Artikel  5  
 
@@ -322,7 +322,7 @@ e. een verklaring omtrent de verlangde informatie met inbegrip van de aard ervan
 f. het fiscale doel waarvoor om de informatie wordt verzocht;  
 
 g. een verklaring dat de verzoekende partij op haar eigen grondgebied alles in het werk heeft gesteld om de informatie te verkrijgen, tenzij dit zou leiden tot onevenredige moeilijkheden.     
-6.  De bevoegde autoriteit van de aangezochte partij doet de verzochte informatie zo spoedig mogelijk toekomen aan de verzoekende partij.   
+6.  De bevoegde autoriteit van de aangezochte partij doet de verzochte informatie zo spoedig mogelijk toekomen aan de verzoekende partij.  
 
 ### Artikel  6  
 
@@ -330,7 +330,7 @@ g. een verklaring dat de verzoekende partij op haar eigen grondgebied alles in h
 
 1.  Een partij kan op verzoek vertegenwoordigers van de bevoegde autoriteit van de andere partij toestaan haar grondgebied binnen te komen teneinde, met schriftelijke toestemming van de betrokken personen, natuurlijke personen te ondervragen en stukken te onderzoeken. De bevoegde autoriteit van de verzoekende partij stelt de bevoegde autoriteit van de aangezochte partij in kennis van het tijdstip en de locatie van de bijeenkomst met de betrokken natuurlijke personen.   
 2.  Op verzoek van de bevoegde autoriteit van de ene partij kan de bevoegde autoriteit van de andere partij vertegenwoordigers van de bevoegde autoriteit van de eerstgenoemde partij toestaan aanwezig te zijn bij het daarvoor in aanmerking komende deel van een belastingcontrole in de als tweede genoemde partij.   
-3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de partij die de controle uitvoert, de bevoegde autoriteit van de andere partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de aangewezen autoriteit of functionaris die de controle zal uitvoeren en van de procedures en voorwaarden die bij de eerstgenoemde partij vereist zijn voor de uitvoering van de controle. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de partij die de controle uitvoert.   
+3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de partij die de controle uitvoert, de bevoegde autoriteit van de andere partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de aangewezen autoriteit of functionaris die de controle zal uitvoeren en van de procedures en voorwaarden die bij de eerstgenoemde partij vereist zijn voor de uitvoering van de controle. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de partij die de controle uitvoert.  
 
 ### Artikel  7  
 
@@ -340,25 +340,25 @@ g. een verklaring dat de verzoekende partij op haar eigen grondgebied alles in h
 2.  De bepalingen van dit Verdrag mogen een verdragsluitende partij niet verplichten informatie te verstrekken waarop de bescherming van de vertrouwelijkheid van toepassing is of waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsproces zou worden onthuld. Niettegenstaande het voorgaande zal de informatie bedoeld in artikel 5, vierde lid, niet als geheim of handelsproces worden behandeld uitsluitend op grond van het feit dat zij aan de in dat lid gestelde criteria voldoet.   
 3.  De aangezochte partij kan een verzoek om informatie afwijzen indien openbaarmaking van de informatie in strijd zou zijn met de openbare orde.   
 4.  Een verzoek om informatie wordt niet geweigerd op grond van het feit dat de belastingvordering die aanleiding gaf tot het verzoek wordt betwist.   
-5.  De aangezochte partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende partij wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende partij toe te passen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte partij ten opzichte van een onderdaan van de verzoekende partij die zich in dezelfde omstandigheden bevindt.   
+5.  De aangezochte partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende partij wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende partij toe te passen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte partij ten opzichte van een onderdaan van de verzoekende partij die zich in dezelfde omstandigheden bevindt.  
 
 ### Artikel  8  
 
 ####Vertrouwelijkheid
 
-Alle uit hoofde van dit Verdrag door een partij ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie of voor enig ander doel worden gebruikt zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte partij.  
+Alle uit hoofde van dit Verdrag door een partij ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie of voor enig ander doel worden gebruikt zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte partij. 
 
 ### Artikel  9  
 
 ####Kosten
 
-De bevoegde autoriteiten bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand.  
+De bevoegde autoriteiten bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand. 
 
 ### Artikel  10  
 
 ####Taal
 
-Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld.  
+Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld. 
 
 ### Artikel  11  
 
@@ -367,7 +367,7 @@ Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld.
 1.  De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de partijen met betrekking tot de uitvoering of de uitlegging van het Verdrag in onderling overleg op te lossen.   
 2.  Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de partijen in onderling overleg overeenstemming bereiken over de krachtens de artikelen 5 en 6 te hanteren procedures.   
 3.  De bevoegde autoriteiten van de partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde overeenstemming als bedoeld in dit artikel te bereiken.   
-4.  De partijen komen waar nodig andere vormen van geschillenregeling overeen.   
+4.  De partijen komen waar nodig andere vormen van geschillenregeling overeen.  
 
 ### Artikel  12  
 
@@ -377,16 +377,16 @@ Dit Verdrag treedt in werking nadat beide partijen elkaar ervan in kennis hebben
 
 a. alle strafrechtelijke belastingzaken vanaf die datum, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na 1 januari 2004, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na 1 januari 2004, en  
 
-b. alle overige aangelegenheden vanaf die datum waarop artikel 1 van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.    
+b. alle overige aangelegenheden vanaf die datum waarop artikel 1 van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.   
 
 ### Artikel  13  
 
 ####Beëindiging
 
 1.  Dit Verdrag blijft van kracht totdat het door een van de partijen wordt beëindigd. Elk van de partijen kan het Verdrag beëindigen door middel van een kennisgeving van beëindiging, afgegeven door de ene bevoegde autoriteit aan de andere bevoegde autoriteit, ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van drie jaar na de datum van inwerkingtreding van het Verdrag. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van de beëindiging is gedaan.   
-2.  Bij beëindiging van dit Verdrag blijven de partijen gebonden door de voorwaarden van artikel 8 ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie.   
+2.  Bij beëindiging van dit Verdrag blijven de partijen gebonden door de voorwaarden van artikel 8 ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie.  
 
-TEN BLIJKE WAARVAN de ondergetekenden , daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. <sup> 1)  [Red: In *Trb.*  2009, 119 is ten onrechte als ondertekenaar J. K. DE JAGER in plaats van J. C. DE JAGER afgedrukt.]  </sup> GEDAAN te Den Haag, op de 8e juli 2009, in tweevoud, in de Engelse taal.  *Voor de Regering van het Koninkrijk der Nederlanden,*  J. C. DE JAGER  *Voor de Regering van de Caymaneilanden,*  W. MCKEEVA BUSH OBE  
+TEN BLIJKE WAARVAN de ondergetekenden<sup> 1) [Red: In *Trb.* 2009, 119 is ten onrechte als ondertekenaar J. K. DE JAGER in plaats van J. C. DE JAGER afgedrukt.] </sup> , daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te Den Haag, op de 8e juli 2009, in tweevoud, in de Engelse taal. *Voor de Regering van het Koninkrijk der Nederlanden,* J. C. DE JAGER *Voor de Regering van de Caymaneilanden,* W. MCKEEVA BUSH OBE  
 
 ####Protocol tussen het Koninkrijk der Nederlanden en de Regering van de Caymaneilanden zoals gemachtigd krachtens de volmacht van het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland betreffende de uitlegging en toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Caymaneilanden zoals gemachtigd krachtens de volmacht van het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen
 
@@ -396,7 +396,7 @@ Overwegend dat de Regering van Nederland erkent dat de Regering van de Caymaneil
 
 ####Ad artikel 5, vijfde lid, onderdeel g 
 
-Wat artikel 5, vijfde lid, onderdeel g, betreft is het wel te verstaan dat onder de uitdrukking „op haar eigen grondgebied alles in het werk heeft gesteld” mede wordt begrepen dat de verzoekende partij gebruikmaakt van de mechanismen voor de uitwisseling van informatie die van kracht zijn met derde landen waar de informatie zich bevindt.  
+Wat artikel 5, vijfde lid, onderdeel g, betreft is het wel te verstaan dat onder de uitdrukking „op haar eigen grondgebied alles in het werk heeft gesteld” mede wordt begrepen dat de verzoekende partij gebruikmaakt van de mechanismen voor de uitwisseling van informatie die van kracht zijn met derde landen waar de informatie zich bevindt. 
 
 ### II  
 
@@ -420,7 +420,7 @@ g. Indien het nationale recht van de verstrekkende autoriteit ter zake van de ve
 
 h. De verstrekkende en de ontvangende autoriteit zijn verplicht het verstrekken en ontvangen van persoonsgegevens officieel te registreren;  
 
-i. De verstrekkende en de ontvangende autoriteit zijn verplicht doeltreffende maatregelen te nemen ter bescherming van verstrekte persoonsgegevens tegen toegang of wijziging door en bekendmaking aan onbevoegden.    
+i. De verstrekkende en de ontvangende autoriteit zijn verplicht doeltreffende maatregelen te nemen ter bescherming van verstrekte persoonsgegevens tegen toegang of wijziging door en bekendmaking aan onbevoegden.   
 
 ### III  
 
@@ -432,7 +432,7 @@ a. de andere partij neemt geen deel aan een doeltreffende uitwisseling van infor
 
 b. er is sprake van een gebrek aan transparantie bij de uitvoering van haar wet- of regelgeving of bestuursrechtelijke praktijken; of  
 
-c. de maatregel wordt zonder belastinggrondslag of op grond van minieme belastingen genomen.   Zonder het algemene karakter van de uitdrukking te beperken is de uitdrukking „nadelige of beperkende maatregel” niet alleen beperkt tot fiscale aangelegenheden en omvat zij mede het weigeren van aftrek, verrekening of vrijstelling, het opleggen van een belasting of heffing, of bijzondere rapportagevereisten; zij omvat niet de algemeen toepasselijke maatregelen die door een van de partijen in het algemeen worden opgelegd aan onder meer leden van de OESO.   
+c. de maatregel wordt zonder belastinggrondslag of op grond van minieme belastingen genomen.   Zonder het algemene karakter van de uitdrukking te beperken is de uitdrukking „nadelige of beperkende maatregel” niet alleen beperkt tot fiscale aangelegenheden en omvat zij mede het weigeren van aftrek, verrekening of vrijstelling, het opleggen van een belasting of heffing, of bijzondere rapportagevereisten; zij omvat niet de algemeen toepasselijke maatregelen die door een van de partijen in het algemeen worden opgelegd aan onder meer leden van de OESO.  
 
 ### IV  
 
@@ -446,7 +446,7 @@ ii. de Regering van de Caymaneilanden een verdrag sluit met een andere mogendhei
 
 iii. de Regering van de Caymaneilanden nieuwe wetgeving invoert die andere vormen van uitwisseling van informatie mogelijk maakt.    
 
-b. Indien Nederland met een andere, met de Caymaneilanden vergelijkbare, mogendheid regelingen treft voor het verstrekken van informatie ter zake van belastingen die in materieel opzicht minder belastend zijn dan de bepalingen van het Verdrag, kunnen de Caymaneilanden met Nederland in overleg treden teneinde het Verdrag dienovereenkomstig aan te passen.   Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Caymaneilanden zoals gemachtigd krachtens de volmacht van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen. De partijen kunnen dit Protocol te allen tijde in onderling overleg schriftelijk wijzigen. Het gewijzigde Protocol treedt in werking op de datum van de definitieve brief waarin de wijziging geregeld wordt.  
+b. Indien Nederland met een andere, met de Caymaneilanden vergelijkbare, mogendheid regelingen treft voor het verstrekken van informatie ter zake van belastingen die in materieel opzicht minder belastend zijn dan de bepalingen van het Verdrag, kunnen de Caymaneilanden met Nederland in overleg treden teneinde het Verdrag dienovereenkomstig aan te passen.   Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Caymaneilanden zoals gemachtigd krachtens de volmacht van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de uitwisseling van informatie betreffende belastingen. De partijen kunnen dit Protocol te allen tijde in onderling overleg schriftelijk wijzigen. Het gewijzigde Protocol treedt in werking op de datum van de definitieve brief waarin de wijziging geregeld wordt. 
 
-TEN BLIJKE WAARVAN de ondergetekenden , daartoe naar behoren gemachtigd door de onderscheiden partijen, dit Protocol hebben ondertekend. <sup> 2)  [Red: In *Trb.*  2009, 119 is ten onrechte als ondertekenaar J. K. DE JAGER in plaats van J. C. DE JAGER afgedrukt.]  </sup> GEDAAN te Den Haag, op de 8e juli 2009, in tweevoud, in de Engelse taal.  *Voor de Regering van het Koninkrijk der Nederlanden,*  J. C. DE JAGER  *Voor de Regering van de Caymaneilanden,*  W. MCKEEVA BUSH OBE  
+TEN BLIJKE WAARVAN de ondergetekenden<sup> 2) [Red: In *Trb.* 2009, 119 is ten onrechte als ondertekenaar J. K. DE JAGER in plaats van J. C. DE JAGER afgedrukt.] </sup> , daartoe naar behoren gemachtigd door de onderscheiden partijen, dit Protocol hebben ondertekend. GEDAAN te Den Haag, op de 8e juli 2009, in tweevoud, in de Engelse taal. *Voor de Regering van het Koninkrijk der Nederlanden,* J. C. DE JAGER *Voor de Regering van de Caymaneilanden,* W. MCKEEVA BUSH OBE  
 

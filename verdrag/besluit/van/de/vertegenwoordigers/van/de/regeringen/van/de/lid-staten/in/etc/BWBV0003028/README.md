@@ -4,19 +4,19 @@
 
 ####Besluit van de Vertegenwoordigers van de regeringen van de Lid-Staten, in het kader van de Raad bijeen, van 25 juni 1996 betreffende de opstelling van een nood-reisdocument (96/409/GBVB)
 
-De vertegenwoordigers van de Regeringen der Lid-Staten van de Europese Unie, in het kader van de Raad bijeen, Zich ervan bewust dat de invoering van een uniform reisdocument voor noodgevallen dat de Lid-Staten verstrekken aan burgers van de Unie op plaatsen waar hun land van herkomst geen permanente diplomatieke of consulaire vertegenwoordiging heeft, of in andere omstandigheden die in de in bijlage II van dit besluit neergelegde regels zijn vastgelegd, in overeenstemming is met artikel 8 C van het Verdrag tot oprichting van de Europese Gemeenschap, Overwegende dat de invoering van dit nood-reisdocument, naar verwacht, daadwerkelijk hulp zal bieden aan in nood verkerende burgers van de Unie, Ervan overtuigd dat de invoering van zo’n document derhalve een duidelijke demonstratie zal zijn van de praktische voordelen van het burgerschap van de Unie, Besluiten:    
+De vertegenwoordigers van de Regeringen der Lid-Staten van de Europese Unie, in het kader van de Raad bijeen, Zich ervan bewust dat de invoering van een uniform reisdocument voor noodgevallen dat de Lid-Staten verstrekken aan burgers van de Unie op plaatsen waar hun land van herkomst geen permanente diplomatieke of consulaire vertegenwoordiging heeft, of in andere omstandigheden die in de in bijlage II van dit besluit neergelegde regels zijn vastgelegd, in overeenstemming is met artikel 8 C van het Verdrag tot oprichting van de Europese Gemeenschap, Overwegende dat de invoering van dit nood-reisdocument, naar verwacht, daadwerkelijk hulp zal bieden aan in nood verkerende burgers van de Unie, Ervan overtuigd dat de invoering van zo’n document derhalve een duidelijke demonstratie zal zijn van de praktische voordelen van het burgerschap van de Unie, Besluiten:   
 
 ### Artikel  1  
 
-Er wordt een nood-reisdocument opgesteld waarvan het uniforme model is opgenomen in bijlage I, die een integrerend deel van dit besluit vormt. De regels voor de afgifte van het nood-reisdocument, alsmede de daaraan verbonden veiligheidsmaatregelen, zijn opgenomen in de bijlagen II en III en vormen een integrerend deel van dit besluit. Deze regels kunnen met eenparigheid van stemmen door de Lid-Staten worden gewijzigd. De wijzigingen worden een maand later van kracht, tenzij een Lid-Staat om bespreking op ministerieel niveau verzoekt.  
+Er wordt een nood-reisdocument opgesteld waarvan het uniforme model is opgenomen in bijlage I, die een integrerend deel van dit besluit vormt. De regels voor de afgifte van het nood-reisdocument, alsmede de daaraan verbonden veiligheidsmaatregelen, zijn opgenomen in de bijlagen II en III en vormen een integrerend deel van dit besluit. Deze regels kunnen met eenparigheid van stemmen door de Lid-Staten worden gewijzigd. De wijzigingen worden een maand later van kracht, tenzij een Lid-Staat om bespreking op ministerieel niveau verzoekt. 
 
 ### Artikel  2  
 
-Dit besluit wordt van kracht wanneer alle Lid-Staten het Secretariaat-generaal van de Raad ervan in kennis hebben gesteld dat de op grond van hun interne rechtsorde vereiste procedures voor de toepassing van dit besluit zijn afgerond.  
+Dit besluit wordt van kracht wanneer alle Lid-Staten het Secretariaat-generaal van de Raad ervan in kennis hebben gesteld dat de op grond van hun interne rechtsorde vereiste procedures voor de toepassing van dit besluit zijn afgerond. 
 
 ### Artikel  3  
 
-Dit besluit wordt bekendgemaakt in het Publikatieblad.  
+Dit besluit wordt bekendgemaakt in het Publikatieblad. 
 
 GEDAAN te Luxemburg, 25 juni 1996. Voor de Raad De Voorzitter M. PINTO  
 
@@ -55,9 +55,9 @@ Voor de vervaardiging en afgifte van nood-reisdocumenten (NRD’s) gelden de vol
 
 1.  *Formaat*  opengevouwen: 18 × 13 cm; dichtgevouwen: 9× 13 cm.  
 
-2.  *Papier*  NRD’s worden gedrukt op waardepapier zonder optische witmakers (circa 90 g/m <sup>2</sup>), waarbij gebruik wordt gemaakt van een ten behoeve van de vervaardiger van het document wettelijk beschermd model watermerk met een „kettingdraadmotief”, met twee kleuren onzichtbare vezels (blauw en geel, SSI/05) die fluoresceren onder ultraviolet licht, en van reagentia tegen chemische radering.  
+2.  *Papier*  NRD’s worden gedrukt op waardepapier zonder optische witmakers (circa 90 g/m<sup>2</sup>), waarbij gebruik wordt gemaakt van een ten behoeve van de vervaardiger van het document wettelijk beschermd model watermerk met een „kettingdraadmotief”, met twee kleuren onzichtbare vezels (blauw en geel, SSI/05) die fluoresceren onder ultraviolet licht, en van reagentia tegen chemische radering.  
 
-3.  *Nummering*  Iedere Lid-Staat voorziet de documenten van een gecentraliseerde nummering, in combinatie met de initialen van de Lid-Staat van afgifte, op de volgende wijze: België = B – [OOOOO] Bulgarije = BG – [OOOOO] Tsjechië = CZ – [OOOOO] Denemarken = DK – [OOOOO] Duitsland=D –[OOOOO] Estland = EE – [OOOOO] Griekenland = GR |– [OOOOO] Spanje = E – [OOOOO] Frankrijk = F – [OOOOO] Ierland = IRL – [OOOOO] Italië = I – [OOOOO] Cyprus = CY – [OOOOO] Letland = LV – [OOOOO] Litouwen = LT – [OOOOO] Luxemburg = L – [OOOOO] Hongarije = HU – [OOOOO] Malta = MT – [OOOOO] Nederland = NL – [OOOOO] Oostenrijk = A – [OOOOO] Polen = PL – [OOOOO] Portugal = P – [OOOOO] Roemenië = RO – [OOOOO] Slovenië = SI – [OOOOO] Slowakije = SK – [OOOOO] Finland = FIN – [OOOOO] Zweden = S – [OOOOO] Verenigd Koninkrijk = UK – [OOOOO] Het nummer wordt gedrukt in boekdruk op de bladzijden 1 en 4 van het document, in zwarte OCR-B-karakters die onder ultraviolet licht groen fluoresceren.  
+3.  *Nummering*  Iedere Lid-Staat voorziet de documenten van een gecentraliseerde nummering, in combinatie met de initialen van de Lid-Staat van afgifte, op de volgende wijze: België = B – [OOOOO]Bulgarije = BG – [OOOOO]Tsjechië = CZ – [OOOOO]Denemarken = DK – [OOOOO]Duitsland=D –[OOOOO]Estland = EE – [OOOOO]Griekenland = GR |– [OOOOO]Spanje = E – [OOOOO]Frankrijk = F – [OOOOO]Ierland = IRL – [OOOOO]Italië = I – [OOOOO]Cyprus = CY – [OOOOO]Letland = LV – [OOOOO] Litouwen = LT – [OOOOO]Luxemburg = L – [OOOOO]Hongarije = HU – [OOOOO]Malta = MT – [OOOOO]Nederland = NL – [OOOOO]Oostenrijk = A – [OOOOO]Polen = PL – [OOOOO]Portugal = P – [OOOOO]Roemenië = RO – [OOOOO]Slovenië = SI – [OOOOO]Slowakije = SK – [OOOOO]Finland = FIN – [OOOOO]Zweden = S – [OOOOO]Verenigd Koninkrijk = UK – [OOOOO]Het nummer wordt gedrukt in boekdruk op de bladzijden 1 en 4 van het document, in zwarte OCR-B-karakters die onder ultraviolet licht groen fluoresceren.  
 
 4.  *Bevestiging van de foto van de houder*  De foto van de houder van het document moet naar behoren in het document bevestigd worden om te voorkomen dat zij makkelijk kan worden verwijderd. De foto wordt overeenkomstig de nationale praktijk gelamineerd, met dien verstande dat de Lid-Staten de nodige maatregelen treffen om het document passend te beveiligen.  
 

@@ -8,17 +8,17 @@ Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Ko
 
 ### Artikel  1  
 
-De Republiek Bulgarije en Roemenië zijn partij bij de [Overeenkomst inzake zeevervoer tussen de Europese Gemeenschapen en haar lidstaten enerzijds en de regering van de Volksrepubliek China anderzijds](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md), die is getekend te Brussel op 6 december 2002 en in werking getreden op 1 maart 2008 (hierna genoemd „de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md) ”).  
+De Republiek Bulgarije en Roemenië zijn partij bij de [Overeenkomst inzake zeevervoer tussen de Europese Gemeenschapen en haar lidstaten enerzijds en de regering van de Volksrepubliek China anderzijds](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md) , die is getekend te Brussel op 6 december 2002 en in werking getreden op 1 maart 2008 (hierna genoemd „de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md)”). 
 
 ### Artikel  2  
 
-De aan het protocol gehechte teksten van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md) in de Bulgaarse en Roemeense taal worden authentiek onder dezelfde voorwaarden als de andere taalversies die overeenkomstig [artikel 14 van deze Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md) zijn opgesteld.  
+De aan het protocol gehechte teksten van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md) in de Bulgaarse en Roemeense taal worden authentiek onder dezelfde voorwaarden als de andere taalversies die overeenkomstig [artikel 14 van deze Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/inzake/zeevervoer/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0001596/README.md) zijn opgesteld. 
 
 ### Artikel  3  
 
-De overeenkomstsluitende partijen brengen elkaar op de hoogte van de interne juridische procedures voor de inwerkingtreding van dit protocol. Het treedt in werking op de dag waarop de laatste geschreven kennisgeving wordt ontvangen.  
+De overeenkomstsluitende partijen brengen elkaar op de hoogte van de interne juridische procedures voor de inwerkingtreding van dit protocol. Het treedt in werking op de dag waarop de laatste geschreven kennisgeving wordt ontvangen. 
 
 ### Artikel  4  
 
-Dit protocol is te Brussel op de eenendertigste maart tweeduizend negen opgesteld in twee exemplaren in de Bulgaarse, Tsjechische, Deense, Nederlandse, Engelse, Estse, Finse, Franse, Duitse, Griekse, Hongaarse, Italiaanse, Letse, Litouwse, Maltese, Poolse, Portugese, Roemeense, Slowaakse, Sloveense, Spaanse, Zweedse en Chinese taal, zijnde alle teksten gelijkelijk authentiek  
+Dit protocol is te Brussel op de eenendertigste maart tweeduizend negen opgesteld in twee exemplaren in de Bulgaarse, Tsjechische, Deense, Nederlandse, Engelse, Estse, Finse, Franse, Duitse, Griekse, Hongaarse, Italiaanse, Letse, Litouwse, Maltese, Poolse, Portugese, Roemeense, Slowaakse, Sloveense, Spaanse, Zweedse en Chinese taal, zijnde alle teksten gelijkelijk authentiek 
 

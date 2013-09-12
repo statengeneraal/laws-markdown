@@ -13,5 +13,5 @@ Het Polderdistrict Oude Rijn (nu Waterschap Rijn en IJssel) en het Wasserverband
 – In de periode van 1 oktober – 15 maart worden op de Oude Rijn, ter plaatse van het gemaal Kandia, pieken toegestaan van +10,70 m NAP;  
 
 – In de periode van 15 maart – 1 oktober worden op de Oude Rijn, ter plaatse van het gemaal Kandia, pieken toegestaan van +10,40 m NAP.     
-Aldus in viervoud opgemaakt, elk in de Nederlandse en de Duitse taal, ondertekend te Doetinchem op 22 mei 2008 en te Emmerich-Hüthum op 21 mei 2008.  *De dijkgraaf,*  H. VAN BRINK Waterschap Rijn en IJssel  *De voorzitter,*  C. ALBERS Wasserverband Netterdenscher Kanal  
+Aldus in viervoud opgemaakt, elk in de Nederlandse en de Duitse taal, ondertekend te Doetinchem op 22 mei 2008 en te Emmerich-Hüthum op 21 mei 2008. *De dijkgraaf,* H. VAN BRINK Waterschap Rijn en IJssel *De voorzitter,* C. ALBERS Wasserverband Netterdenscher Kanal  
 

@@ -6,9 +6,9 @@
 
 ###EMBASSY OF THE KINGDOM OF THE NETHERLANDS
 
-Zagreb, 20 February 2008 Note nr. 049/08 The Embassy of the Kingdom of the Netherlands to the Republic of Croatia presents its compliments to the Ministry of Foreign Affairs and European Integration of the Republic of Croatia and has the honour to propose, with reference to the Agreement on Operational and Strategic Co-operation between the Republic of Croatia and the European Police Office of 13 January 2006 (hereinafter “the Agreement”), and in view of Article 41, paragraph 2 of the Convention based on Article K.3 of the Treaty on European Union, on the establishment of a European Police Office (Europol Convention of 26 July 1995), that the privileges and immunities necessary for the proper performance of the tasks of the liaison officers at Europol referred to in Article 14 and Annex 3 of the Agreement, be agreed upon as set out in the Attachment. If this proposal is acceptable to the Ministry of Foreign Affairs and European Integration of the Republic of Croatia, the Embassy proposes that this note and the affirmative note of the Ministry of Foreign Affairs and European Integration shall constitute an Agreement between the Kingdom of the Netherlands and the Republic of Croatia, which shall be applied provisionally from the day on which this affirmative note has been received by the Embassy, and which shall enter into force on the first day of the second month following the date on which the Kingdom of the Netherlands and the Republic of Croatia have informed each other that the formalities required for the entry into force have been complied with. The Embassy avails itself of this opportunity to renew to the Ministry the assurances of its highest consideration. To: Ministry of Foreign Affairs and European Integration   
+Zagreb, 20 February 2008 Note nr. 049/08 The Embassy of the Kingdom of the Netherlands to the Republic of Croatia presents its compliments to the Ministry of Foreign Affairs and European Integration of the Republic of Croatia and has the honour to propose, with reference to the Agreement on Operational and Strategic Co-operation between the Republic of Croatia and the European Police Office of 13 January 2006 (hereinafter “the Agreement”), and in view of Article 41, paragraph 2 of the Convention based on Article K.3 of the Treaty on European Union, on the establishment of a European Police Office (Europol Convention of 26 July 1995), that the privileges and immunities necessary for the proper performance of the tasks of the liaison officers at Europol referred to in Article 14 and Annex 3 of the Agreement, be agreed upon as set out in the Attachment. If this proposal is acceptable to the Ministry of Foreign Affairs and European Integration of the Republic of Croatia, the Embassy proposes that this note and the affirmative note of the Ministry of Foreign Affairs and European Integration shall constitute an Agreement between the Kingdom of the Netherlands and the Republic of Croatia, which shall be applied provisionally from the day on which this affirmative note has been received by the Embassy, and which shall enter into force on the first day of the second month following the date on which the Kingdom of the Netherlands and the Republic of Croatia have informed each other that the formalities required for the entry into force have been complied with. The Embassy avails itself of this opportunity to renew to the Ministry the assurances of its highest consideration. To: Ministry of Foreign Affairs and European Integration  
 
-### Attachment  
+###Attachment 
 
 ### 1  
 
@@ -24,7 +24,7 @@ c) “Host State authorities” means such State, municipal or other authorities
 
 d) “Sending State” means the Republic of Croatia;  
 
-e) “Archives of the liaison officer” means all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings belonging to or held by the liaison officer, and any other similar material which in the unanimous opinion of the Sending State and the Government forms part of the archives of the liaison officer.    
+e) “Archives of the liaison officer” means all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings belonging to or held by the liaison officer, and any other similar material which in the unanimous opinion of the Sending State and the Government forms part of the archives of the liaison officer.   
 
 ### 2  
 
@@ -36,7 +36,7 @@ e) “Archives of the liaison officer” means all records, correspondence, docu
 (i) civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person; or  
 
 (ii) criminal and civil jurisdiction over acts performed outside the course of their official duties.     
-3.  The obligations of Sending States and their personnel that apply under the Vienna Convention to members of the diplomatic staff, shall apply to the persons referred to in paragraph 1 of this Article.   
+3.  The obligations of Sending States and their personnel that apply under the Vienna Convention to members of the diplomatic staff, shall apply to the persons referred to in paragraph 1 of this Article.  
 
 ### 3  
 
@@ -44,13 +44,13 @@ e) “Archives of the liaison officer” means all records, correspondence, docu
 
 1.  The Government shall facilitate, if necessary, the entry, stay and departure of the liaison officer and members of his family forming part of the household.   
 2.  This Article shall not prevent the requirement of reasonable evidence to establish that persons claiming the treatment provided for under this Article come within the classes described in paragraph 1 of this Article.   
-3.  Visas which may be required by persons referred to in this Article shall be granted without charge and as promptly as possible.   
+3.  Visas which may be required by persons referred to in this Article shall be granted without charge and as promptly as possible.  
 
 ### 4  
 
 ####Employment
 
-Members of the family forming part of the household of the liaison officer not having the nationality of an EU Sending State, shall be exempt from the obligation to obtain working permits for the duration of the secondment of the liaison officer.  
+Members of the family forming part of the household of the liaison officer not having the nationality of an EU Sending State, shall be exempt from the obligation to obtain working permits for the duration of the secondment of the liaison officer. 
 
 ### 5  
 
@@ -62,21 +62,21 @@ The archives of the liaison officer wherever located and by whomsoever held shal
 
 ####Personal Protection
 
-The Host State authorities shall, if so requested by the Sending State, take all reasonable steps in accordance with their national laws to ensure the necessary safety and protection of the liaison officer, as well as members of his family who form part of his household, whose security is endangered due to the performance of the tasks of the liaison officer at Europol.  
+The Host State authorities shall, if so requested by the Sending State, take all reasonable steps in accordance with their national laws to ensure the necessary safety and protection of the liaison officer, as well as members of his family who form part of his household, whose security is endangered due to the performance of the tasks of the liaison officer at Europol. 
 
 ### 7  
 
 ####Facilities and immunities in respect of communication
 
 1.  The Government shall permit the liaison officer to communicate freely and without a need for special permission, for all official purposes, and shall protect the right of the liaison officer to do so. The liaison officer shall have the right to use codes and to dispatch and receive official correspondence and other official communications by courier or in sealed bags which shall be subject to the same privileges and immunities as diplomatic couriers and bags.   
-2.  The liaison officer shall, as far as may be compatible with the International Telecommunications Convention of 6 November 1982, for his official communications enjoy treatment not less favourable than that accorded by the Kingdom of the Netherlands to any international organisation or government, in the matter of priorities for communication by mail, cable, telegraph, telex, radio, television, telephone, fax, satellite, or other means.   
+2.  The liaison officer shall, as far as may be compatible with the International Telecommunications Convention of 6 November 1982, for his official communications enjoy treatment not less favourable than that accorded by the Kingdom of the Netherlands to any international organisation or government, in the matter of priorities for communication by mail, cable, telegraph, telex, radio, television, telephone, fax, satellite, or other means.  
 
 ### 8  
 
 ####Notification
 
 1.  The Sending State shall promptly notify the Government of the name of the liaison officer, his arrival and his final departure or the termination of his secondment as well as the arrival and final departure of the members of the family forming part of the household and, where appropriate, the fact that a person has ceased to form part of the household.   
-2.  The Government shall issue to the liaison officer and members of his family forming part of the household, an identification card bearing the photograph of the holder. This card shall serve to identify the holder in relation to all Host State authorities.   
+2.  The Government shall issue to the liaison officer and members of his family forming part of the household, an identification card bearing the photograph of the holder. This card shall serve to identify the holder in relation to all Host State authorities.  
 
 ### 9  
 
@@ -86,17 +86,17 @@ The Host State authorities shall, if so requested by the Sending State, take all
 2.  If one of the parties fails to appoint an arbitrator within two months following a request from the other party to make such an appointment, the other party may request the President of the Court of Justice of the European Communities or in his absence the Vice-President, to make such an appointment.   
 3.  Should the first two arbitrators fail to agree upon the third within two months following their appointment, either party may request the President of the Court of Justice of the European Communities, or in his absence the Vice-President, to make such appointment.   
 4.  Unless the parties agree otherwise, the tribunal shall determine its own procedure.   
-5.  The tribunal shall reach its decision by a majority of votes. The Chairman shall have a casting vote. The decision shall be final and binding on the Parties to the dispute.   
+5.  The tribunal shall reach its decision by a majority of votes. The Chairman shall have a casting vote. The decision shall be final and binding on the Parties to the dispute.  
 
 ### 10  
 
 ####Territorial scope
 
-With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only.  
+With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only. 
 
 ### Nr.  II  
 
-###REPUBLIC OF CROATIA
+###REPUBLIC OF CROATIA 
 
 ###MINISTRY OF FOREIGN AFFAIRS AND EUROPEAN INTEGRATION
 
@@ -124,7 +124,7 @@ c. „autoriteiten van de gastheerstaat”, autoriteiten van de centrale of geme
 
 d. „zendstaat”, de Republiek Kroatië;  
 
-e. „archief van de verbindingsofficier”, alle dossiers, correspondentie, documenten, manuscripten, computer- en mediagegevens, foto's, films, video- en geluidsopnamen die toebehoren aan of in het bezit zijn van de verbindingsofficier, alsmede enig ander soortgelijk materiaal dat naar het unanieme oordeel van de zendstaat en de Regering deel uitmaakt van het archief van de verbindingsofficier.    
+e. „archief van de verbindingsofficier”, alle dossiers, correspondentie, documenten, manuscripten, computer- en mediagegevens, foto's, films, video- en geluidsopnamen die toebehoren aan of in het bezit zijn van de verbindingsofficier, alsmede enig ander soortgelijk materiaal dat naar het unanieme oordeel van de zendstaat en de Regering deel uitmaakt van het archief van de verbindingsofficier.   
 
 ### 2  
 
@@ -136,7 +136,7 @@ e. „archief van de verbindingsofficier”, alle dossiers, correspondentie, doc
 i. civiele vorderingen van derden wegens schade, met inbegrip van lichamelijk letsel of overlijden ten gevolge van verkeersongevallen die door deze personen zijn veroorzaakt; of  
 
 ii. strafrechtelijke en civielrechtelijke rechtsmacht ten aanzien van gedragingen die plaatsvinden buiten de uitoefening van hun officiële taken.     
-3.  De verplichtingen van zendstaten en hun personeel die krachtens het Verdrag van Wenen van toepassing zijn op de leden van het diplomatieke personeel, zijn van toepassing op de in het eerste lid van dit artikel bedoelde personen.   
+3.  De verplichtingen van zendstaten en hun personeel die krachtens het Verdrag van Wenen van toepassing zijn op de leden van het diplomatieke personeel, zijn van toepassing op de in het eerste lid van dit artikel bedoelde personen.  
 
 ### 3  
 
@@ -144,39 +144,39 @@ ii. strafrechtelijke en civielrechtelijke rechtsmacht ten aanzien van gedraginge
 
 1.  De Regering vergemakkelijkt, indien nodig, de binnenkomst, het verblijf en het vertrek van de verbindingsofficier en van zijn gezinsleden die deel uitmaken van de huishouding.   
 2.  Dit artikel laat de mogelijkheid onverlet te verlangen dat redelijk bewijs wordt geleverd waaruit blijkt dat de personen die zich op de in dit artikel bedoelde behandeling beroepen, onder de in het eerste lid van dit artikel omschreven categorieën vallen.   
-3.  De eventueel benodigde visa voor de in dit artikel bedoelde personen worden kosteloos en zo spoedig mogelijk verstrekt.   
+3.  De eventueel benodigde visa voor de in dit artikel bedoelde personen worden kosteloos en zo spoedig mogelijk verstrekt.  
 
 ### 4  
 
 ####Tewerkstelling
 
-Gezinsleden die deel uitmaken van de huishouding van de verbindingsofficier die niet de nationaliteit van een EU-zendstaat hebben, zijn voor de duur van de detachering van de verbindingsofficier vrijgesteld van de verplichting een werkvergunning te verkrijgen.  
+Gezinsleden die deel uitmaken van de huishouding van de verbindingsofficier die niet de nationaliteit van een EU-zendstaat hebben, zijn voor de duur van de detachering van de verbindingsofficier vrijgesteld van de verplichting een werkvergunning te verkrijgen. 
 
 ### 5  
 
 ####Onschendbaarheid van het archief
 
-Het archief van de verbindingsofficier, waar dit zich ook bevindt en wie het ook onder zich heeft, is onschendbaar.  
+Het archief van de verbindingsofficier, waar dit zich ook bevindt en wie het ook onder zich heeft, is onschendbaar. 
 
 ### 6  
 
 ####Persoonlijke bescherming
 
-Indien de zendstaat daarom verzoekt, nemen de autoriteiten van de gastheerstaat in overeenstemming met hun nationale wetten alle redelijke maatregelen om de nodige veiligheid en bescherming te waarborgen van de verbindingsofficier, alsmede van de gezinsleden die deel uitmaken van zijn huishouding, wier veiligheid in het geding is als gevolg van de taakvervulling van de verbindingsofficier bij Europol.  
+Indien de zendstaat daarom verzoekt, nemen de autoriteiten van de gastheerstaat in overeenstemming met hun nationale wetten alle redelijke maatregelen om de nodige veiligheid en bescherming te waarborgen van de verbindingsofficier, alsmede van de gezinsleden die deel uitmaken van zijn huishouding, wier veiligheid in het geding is als gevolg van de taakvervulling van de verbindingsofficier bij Europol. 
 
 ### 7  
 
 ####Faciliteiten en immuniteiten met betrekking tot communicatie
 
 1.  De Regering staat de verbindingsofficier toe vrijelijk en zonder het vereiste van bijzondere toestemming te communiceren voor alle officiële doeleinden, en beschermt dit recht van de verbindingsofficier. De verbindingsofficier is gerechtigd codes te gebruiken en officiële correspondentie en andere officiële berichten te verzenden of te ontvangen per koerier of in verzegelde zakken, waarvoor dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en zakken.   
-2.  Voor zover dit verenigbaar is met het Internationaal Verdrag betreffende de Telecommunicatie van 6 november 1982, geniet de verbindingsofficier voor zijn officiële communicatie een behandeling die niet minder gunstig is dan die welke door het Koninkrijk der Nederlanden aan een internationale organisatie of regering wordt toegekend, inzake prioriteiten voor communicatie door middel van poststukken, kabeltelegrammen, telegrammen, telexberichten, radio, televisie, telefoon, fax, satelliet, of andere middelen.   
+2.  Voor zover dit verenigbaar is met het Internationaal Verdrag betreffende de Telecommunicatie van 6 november 1982, geniet de verbindingsofficier voor zijn officiële communicatie een behandeling die niet minder gunstig is dan die welke door het Koninkrijk der Nederlanden aan een internationale organisatie of regering wordt toegekend, inzake prioriteiten voor communicatie door middel van poststukken, kabeltelegrammen, telegrammen, telexberichten, radio, televisie, telefoon, fax, satelliet, of andere middelen.  
 
 ### 8  
 
 ####Kennisgeving
 
 1.  De zendstaat stelt de Regering onverwijld in kennis van de naam van de verbindingsofficier, van zijn aankomst en van zijn definitieve vertrek of van de beëindiging van zijn detachering, alsmede van de aankomst en het definitieve vertrek van de gezinsleden die deel uitmaken van de huishouding en, indien van toepassing, van het feit dat een persoon niet langer deel uitmaakt van de huishouding.   
-2.  De Regering verstrekt aan de verbindingsofficier en aan de gezinsleden die deel uitmaken van de huishouding een identiteitskaart voorzien van de foto van de houder. Deze kaart dient ter identificatie van de houder ten overstaan van alle autoriteiten van de gastheerstaat.   
+2.  De Regering verstrekt aan de verbindingsofficier en aan de gezinsleden die deel uitmaken van de huishouding een identiteitskaart voorzien van de foto van de houder. Deze kaart dient ter identificatie van de houder ten overstaan van alle autoriteiten van de gastheerstaat.  
 
 ### 9  
 
@@ -186,13 +186,13 @@ Indien de zendstaat daarom verzoekt, nemen de autoriteiten van de gastheerstaat 
 2.  Indien een van de partijen verzuimt een arbiter te benoemen binnen twee maanden na een verzoek van de andere partij een dergelijke benoeming te verrichten, kan de andere partij de President van het Hof van Justitie van de Europese Gemeenschappen, of in zijn afwezigheid de Vice-President, verzoeken deze benoeming te verrichten.   
 3.  Indien de eerste twee arbiters binnen twee maanden na hun benoeming geen overeenstemming bereiken over de derde, kan elke partij de President van het Hof van Justitie van de Europese Gemeenschappen, of in zijn afwezigheid de Vice-President, verzoeken deze benoeming te verrichten.   
 4.  Tenzij de partijen anders overeenkomen, stelt het tribunaal zijn eigen procedure vast.   
-5.  Het tribunaal neemt zijn beslissing bij meerderheid van stemmen. De voorzitter heeft een beslissende stem. De beslissing is onherroepelijk en bindend voor de partijen bij het geschil.   
+5.  Het tribunaal neemt zijn beslissing bij meerderheid van stemmen. De voorzitter heeft een beslissende stem. De beslissing is onherroepelijk en bindend voor de partijen bij het geschil.  
 
 ### 10  
 
 ####Territoriale reikwijdte
 
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het deel van het Koninkrijk in Europa.  
+Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het deel van het Koninkrijk in Europa. 
 
 ### Nr.  II  
 

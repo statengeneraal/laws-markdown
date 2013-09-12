@@ -9,43 +9,43 @@ De Europese Gemeenschap, vertegenwoordigd door de Raad van de Europese Unie, en 
 ### Artikel  1  
 
 1.  De nieuwe lidstaten worden hierbij overeenkomstsluitende partijen bij de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md).   
-2.  Vanaf de inwerkingtreding van dit Protocol zijn de bepalingen van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md), onder de in dit Protocol neergelegde voorwaarden, bindend voor de nieuwe lidstaten op dezelfde wijze als voor de huidige overeenkomstsluitende partijen.   
+2.  Vanaf de inwerkingtreding van dit Protocol zijn de bepalingen van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md), onder de in dit Protocol neergelegde voorwaarden, bindend voor de nieuwe lidstaten op dezelfde wijze als voor de huidige overeenkomstsluitende partijen.  
 
 ### Artikel  2  
 
-Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.   
+Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999. 
 
 ### Artikel  3  
 
-In afwijking van [artikel 25 van bijlage I bij de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md), zijn de overgangsperioden van bijlage i bij dit protocol van toepassing.  
+In afwijking van [artikel 25 van bijlage I bij de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md), zijn de overgangsperioden van bijlage i bij dit protocol van toepassing. 
 
 ### Artikel  4  
 
 1.  [Bijlage II bij de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) wordt gewijzigd overeenkomstig bijlage 2 bij dit Protocol.   
-2.  [Bijlage III bij de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) wordt gewijzigd bij besluit van het Gemengd Comité dat is ingesteld bij [artikel 14 van de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md).   
+2.  [Bijlage III bij de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) wordt gewijzigd bij besluit van het Gemengd Comité dat is ingesteld bij [artikel 14 van de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md).  
 
 ### Artikel  5  
 
 1.  Bijlagen 1 en 2 bij dit Protocol maken daarvan integrerend deel uit.   
-2.  Dit Protocol maakt samen met het [Protocol van 2004](../../../../../../../../../../../../../verdrag/protocol/bij/de/overeenkomst/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0003041/README.md) integrerend deel uit van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md).   
+2.  Dit Protocol maakt samen met het [Protocol van 2004](../../../../../../../../../../../../../verdrag/protocol/bij/de/overeenkomst/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0003041/README.md) integrerend deel uit van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md).  
 
 ### Artikel  6  
 
 1.  Dit Protocol wordt door de Raad van de Europese Unie, namens de lidstaten en de Europese Gemeenschap, en door Zwitserland overeenkomstig zijn eigen procedures bekrachtigd of goedgekeurd.   
-2.  De Raad van de Europese Unie en Zwitserland stellen elkaar ervan in kennis wanneer zij deze procedures hebben afgerond.   
+2.  De Raad van de Europese Unie en Zwitserland stellen elkaar ervan in kennis wanneer zij deze procedures hebben afgerond.  
 
 ### Artikel  7  
 
-Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de datum van de laatste kennisgeving van ratificatie of goedkeuring.  
+Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de datum van de laatste kennisgeving van ratificatie of goedkeuring. 
 
 ### Artikel  8  
 
-Dit Protocol is geldig gedurende dezelfde periode en onder dezelfde voorwaarden als de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md).  
+Dit Protocol is geldig gedurende dezelfde periode en onder dezelfde voorwaarden als de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md). 
 
 ### Artikel  9  
 
 1.  Dit Protocol en de daaraan gehechte verklaringen zijn opgesteld in tweevoud in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Spaanse, de Slowaakse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.   
-2.  De Bulgaarse en de Roemeense versies van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md), met inbegrip van alle bijlagen, Protocollen en de [Slotakte](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) zijn gelijkelijk authentiek. Het bij [artikel 14 van de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) ingestelde Gemengd Comité keurt de authentieke teksten van de Overeenkomst goed in de nieuwe talen.   
+2.  De Bulgaarse en de Roemeense versies van de [Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md), met inbegrip van alle bijlagen, Protocollen en de [Slotakte](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) zijn gelijkelijk authentiek. Het bij [artikel 14 van de Overeenkomst](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) ingestelde Gemengd Comité keurt de authentieke teksten van de Overeenkomst goed in de nieuwe talen.  
 
 ### Bijlage  1  
 
@@ -59,13 +59,13 @@ Dit Protocol is geldig gedurende dezelfde periode en onder dezelfde voorwaarden 
 
 [Bijlage II bij de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen](../../../../../../../../../../../../../verdrag/overeenkomst/tussen/de/europese/gemeenschap/en/haar/lidstaten/enerzijds/en/etc/BWBV0001500/README.md) wordt als volgt gewijzigd: 
 
-1.  Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.   
+1. Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.  
 
-2.  Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.   
+2. Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.  
 
-3.  Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.   
+3. Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.  
 
-4.  Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.   
+4. Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen; Luxemburg, 21 juni 1999.  
 
 5. Voor werknemers die onderdaan zijn van de Republiek Bulgarije en Roemenië, zijn de bepalingen van [punt 1 van de sectie werkloosheidsverzekering van het Protocol bij bijlage II](../../../../../../../../../../../../../verdrag/protocol/bij/de/overeenkomst/tussen/de/europese/gemeenschap/en/haar/etc/BWBV0003041/README.md) van toepassing gedurende zeven jaar na de inwerkingtreding van dit Protocol.     
 
