@@ -3,14 +3,14 @@
 ##Regeling aanwijzing administratief-technische functies
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-gelet op [artikel 10, derde lid, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);
+gelet op artikel 10, derde lid, van het Besluit algemene rechtspositie politie;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Als functies, als bedoeld in [artikel 10, derde lid, van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), worden door het bevoegd gezag aangewezen de functies die voldoen aan de volgende voorwaarden: 
+1.  Als functies, als bedoeld in artikel 10, derde lid, van het Besluit algemene rechtspositie politie, worden door het bevoegd gezag aangewezen de functies die voldoen aan de volgende voorwaarden: 
 
-a. de functie is niet hoger gewaardeerd dan schaal 11 van [bijlage I van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md);  
+a. de functie is niet hoger gewaardeerd dan schaal 11 van bijlage I van het Besluit bezoldiging politie;  
 
 b. er is sprake van een functie waaraan risico's en ongemakken zijn verbonden, waarbij sprake is van twee of meer van de volgende omstandigheden: 
 
@@ -27,11 +27,11 @@ c. de ambtenaren in de functie werken volgens een in overwegende mate volcontinu
 
 ### Artikel  2  
 
-Indien het bevoegd gezag een functie aanwijst conform het eerste artikel, wordt dit binnen het desbetreffende onderdeel van de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md) kenbaar gemaakt.  
+Indien het bevoegd gezag een functie aanwijst conform het eerste artikel, wordt dit binnen het desbetreffende onderdeel van de politie, bedoeld in artikel 1, eerste lid, onderdeel b, van de Politiewet 2012 kenbaar gemaakt.  
 
 ### Artikel  3  
 
-Administratief-technische functies die tot en met 31 december 2000 door het bevoegd gezag waren aangewezen als functie waaraan een leeftijdsgrens van 60 jaar is verbonden, worden geacht te zijn aangewezen op grond van deze regeling tenzij de ambtenaar die de functie vervult is ingedeeld in een schaal die hoger is dan schaal 11 van [bijlage I van het Besluit bezoldiging politie](../../../../../../AMvB/besluit/bezoldiging/politie/BWBR0006517/README.md).  
+Administratief-technische functies die tot en met 31 december 2000 door het bevoegd gezag waren aangewezen als functie waaraan een leeftijdsgrens van 60 jaar is verbonden, worden geacht te zijn aangewezen op grond van deze regeling tenzij de ambtenaar die de functie vervult is ingedeeld in een schaal die hoger is dan schaal 11 van bijlage I van het Besluit bezoldiging politie.  
 
 ### Artikel  4  
 
