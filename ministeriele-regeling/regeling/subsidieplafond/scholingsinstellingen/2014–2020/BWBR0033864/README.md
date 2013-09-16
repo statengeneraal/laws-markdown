@@ -19,24 +19,24 @@ b. cohort van 1 januari 2015 tot en met 31 juli 2018: € 13,3 miljoen;
 
 c. cohort van 1 januari 2016 tot en met 31 juli 2019: € 13,3 miljoen;  
 
-d. cohort van 1 januari 2017 tot en met 31 juli 2020: € 13.3 miljoen.     
+d. cohort van 1 januari 2017 tot en met 31 juli 2020: € 13.3 miljoen.    
 
 ### Artikel  2  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 15 september 2013.  
+Deze regeling treedt in werking met ingang van 15 september 2013. 
 
 ### Artikel  3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling subsidieplafond scholingsinstellingen 2014–2020.  
+Deze regeling wordt aangehaald als: Regeling subsidieplafond scholingsinstellingen 2014–2020. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 10 september 2013   
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid,
-J.Klijnsma   
+Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+J. Klijnsma     
