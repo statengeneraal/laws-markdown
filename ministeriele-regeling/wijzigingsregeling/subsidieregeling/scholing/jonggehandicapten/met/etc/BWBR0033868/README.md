@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen.   
+Wijzigt de Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen. 
 
 ### Artikel  II  
 
-Op subsidie, verleend voor het tijdstip van inwerkingtreding van deze regeling blijft van toepassing de [Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md) zoals deze gold vóór het tijdstip van inwerkingtreding van deze regeling.  
+Op subsidie, verleend voor het tijdstip van inwerkingtreding van deze regeling blijft van toepassing de [Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen](../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md) zoals deze gold vóór het tijdstip van inwerkingtreding van deze regeling. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 15 september 2013.  
+Deze regeling treedt in werking met ingang van 15 september 2013. 
 Deze regeling zal met de toelichting en de [bijlage](../../../../../../../../ministeriele-regeling/subsidieregeling/scholing/jonggehandicapten/met/ernstige/etc/BWBR0018795/README.md) in de Staatscourant worden geplaatst.   
 
 Den Haag 
 10 september 2013   
 
 De 
-Staatssecretaris van Sociale Zaken en Werkgelegenheid,
-J.Klijnsma   
+Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+J. Klijnsma     
