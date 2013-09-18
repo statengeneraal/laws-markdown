@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Internationaal Verdrag houdende wijziging van het op 20 mei 1875 te Parijs gesloten Verdrag ter verzekering van de internationale eenheid en de volmaking van het Metrieke stelsel en van het bij dat Verdrag behorende Reglement
+##Internationaal Verdrag houdende wijziging van het op 20 mei 1875 te Parijs gesloten Verdrag ter verzekering van de internationale eenheid en de volmaking van het Metrieke stelsel en van het bij dat Verdrag behorende Reglement 
 
 ####CONVENTION INTERNATIONALE
 
@@ -10,19 +10,19 @@
 
 ### Article  premier  
 
-Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.   
+Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.  
 
 ### Article  2  
 
-Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.   
+Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.  
 
 ### Article  3  
 
-Tout Etat pourra adhérer à la présente Convention en notifiant son adhésion au Gouvernement français, qui en donnera avis à tous les Etats participants et au Président du Comité international des Poids et Mesures. Toute accession nouvelle à la Convention du 20 mai 1875 entraînera obligatoirement adhésion à la présente Convention.  
+Tout Etat pourra adhérer à la présente Convention en notifiant son adhésion au Gouvernement français, qui en donnera avis à tous les Etats participants et au Président du Comité international des Poids et Mesures. Toute accession nouvelle à la Convention du 20 mai 1875 entraînera obligatoirement adhésion à la présente Convention. 
 
 ### Article  4  
 
-La présente Convention sera ratifiée. Chaque Puissance adressera, dans le plus court délai possible, sa ratification au Gouvernement français, par les soins duquel il en sera donné avis aux autres Pays signataires. Les ratifications resteront déposées dans les archives du Gouvernement français. La présente Convention entrera en vigueur, pour chaque Pays signataire, le jour même du dépôt de son acte de ratification.  
+La présente Convention sera ratifiée. Chaque Puissance adressera, dans le plus court délai possible, sa ratification au Gouvernement français, par les soins duquel il en sera donné avis aux autres Pays signataires. Les ratifications resteront déposées dans les archives du Gouvernement français. La présente Convention entrera en vigueur, pour chaque Pays signataire, le jour même du dépôt de son acte de ratification. 
 
 Fait à Sèvres, le 6 octobre 1921, en un seul exemplaire, qui restera déposé dans les archives du Gouvernement français, et dont les expéditions authentiques seront remises à chacun des Pays signataires. Ledit exemplaire, daté comme il est dit ci-dessus, pourra être signé jusqu'au 31 mars 1922. En foi de quoi, les Plénipotentiaires ci-après, dont les pouvoirs ont été reconnus en bonne et due forme, ont signé la présente Convention.  
 
@@ -32,19 +32,19 @@ Fait à Sèvres, le 6 octobre 1921, en un seul exemplaire, qui restera déposé 
 
 ### Art.  1  
 
-Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.   
+Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.  
 
 ### Art.  2  
 
-Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.   
+Wijzigt het Verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel; Parijs, 20 mei 1875.  
 
 ### Art.  3  
 
-Elke Staat kan tot dit verdrag toetreden door daarvan kennis te geven aan de Fransche Regeering, die daarvan mededeeling zal doen aan alle aangesloten Staten en aan den voorzitter van het Comité international des Poids et Mesures. Elke nieuwe toetreding tot het verdrag van 20 Mei 1875 brengt als verplichting mede toetreding tot het huidige verdrag.  
+Elke Staat kan tot dit verdrag toetreden door daarvan kennis te geven aan de Fransche Regeering, die daarvan mededeeling zal doen aan alle aangesloten Staten en aan den voorzitter van het Comité international des Poids et Mesures. Elke nieuwe toetreding tot het verdrag van 20 Mei 1875 brengt als verplichting mede toetreding tot het huidige verdrag. 
 
 ### Art.  4  
 
-Dit verdrag zal bekrachtigd worden. Elke mogendheid zal binnen den kortst mogelijken termijn hare bekrachtiging doen toekomen aan de Fransche Regeering, door wier zorgen hiervan mededeeling zal worden gedaan aan de andere Landen, die onderteekend hebben. De bekrachtigingsoorkonden zullen bewaard blijven in de archieven der Fransche Regeering. Dit verdrag zal voor elk Land, dat onderteekend heeft, in werking treden op den dag der nederlegging van zijne bekrachtigingsoorkonde.  
+Dit verdrag zal bekrachtigd worden. Elke mogendheid zal binnen den kortst mogelijken termijn hare bekrachtiging doen toekomen aan de Fransche Regeering, door wier zorgen hiervan mededeeling zal worden gedaan aan de andere Landen, die onderteekend hebben. De bekrachtigingsoorkonden zullen bewaard blijven in de archieven der Fransche Regeering. Dit verdrag zal voor elk Land, dat onderteekend heeft, in werking treden op den dag der nederlegging van zijne bekrachtigingsoorkonde. 
 
 Gedaan te Sèvres, den 6en October 1921, in een enkel exemplaar, dat bewaard zal blijven in de archieven der Fransche Regeering en waarvan authentieke afschriften aan elk der landen, die onderteekend hebben, zullen worden toegezonden. Genoemd exemplaar, gedagteekend als hierboven is vermeld, zal geteekend kunnen worden tot den 31sten Maart 1922. Ter oorkonde waarvan de nagenoemde gevolmachtigden, wier volmachten in goeden en behoorlijken vorm erkend zijn, dit verdrag hebben geteekend.  
 

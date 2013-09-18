@@ -4,21 +4,27 @@
 
 ####Hong Kong International Convention for the safe and environmentally sound recycling of ships, 2009
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 The Parties to this Convention, Noting the growing concerns about safety, health, the environment and welfare matters in the ship recycling industry, Recognizing that recycling of ships contributes to sustainable development and, as such, is the best option for ships that have reached the end of their operating life, Recalling resolution A.962(23), adopted by the Assembly of the International Maritime Organization (Guidelines on Ship Recycling); amendments to the Guidelines adopted by resolution A.980(24); Decision VI/24 of the Sixth Meeting of the Conference of the Parties to the [Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal](../../../../../../../../../../../../../verdrag/basel/convention/on/the/control/of/transboundary/movements/of/hazardous/etc/BWBV0002081/README.md), which adopted Technical Guidelines for the Environmentally Sound Management of the Full and Partial Dismantling of Ships; and the Guidelines approved by the 289th session of the Governing Body of the International Labour Office (Safety and Health in Shipbreaking: Guidelines for Asian countries and Turkey), Recalling also resolution A.981(24), by which the Assembly of the International Maritime Organization requested the Organization’s Marine Environment Protection Committee to develop a legally-binding instrument on ship recycling, Noting also the role of the International Labour Organization in protecting the occupational safety and health of workers involved in ship recycling, Noting further the role of the [Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal](../../../../../../../../../../../../../verdrag/basel/convention/on/the/control/of/transboundary/movements/of/hazardous/etc/BWBV0002081/README.md) in protecting human health and the environment against the adverse effects which may result from such wastes, Mindful of the precautionary approach set out in Principle 15 of the Rio Declaration on Environment and Development and referred to in resolution MEPC.67(37), adopted by the Organization’s Marine Environment Protection Committee on 15 September 1995, Mindful also of the need to promote the substitution of hazardous materials in the construction and maintenance of ships by less hazardous, or preferably, non-hazardous materials, without compromising the ships’ safety, the safety and health of seafarers and the ships’ operational efficiency, Resolved to effectively address, in a legally-binding instrument, the environmental, occupational health and safety risks related to ship recycling, taking into account the particular characteristics of maritime transport and the need to secure the smooth withdrawal of ships that have reached the end of their operating lives, Considering that these objectives may best be achieved by the conclusion of an International Convention for the Safe and Environmentally Sound Recycling of Ships,   Have agreed as follows:    
 
 ### Article  1  
 
 ####General obligations
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  Each Party to this Convention undertakes to give full and complete effect to its provisions in order to prevent, reduce, minimize and, to the extent practicable, eliminate accidents, injuries and other adverse effects on human health and the environment caused by Ship Recycling, and enhance ship safety, protection of human health and the environment throughout a ship’s operating life.   
 2.  No provision of this Convention shall be interpreted as preventing a Party from taking, individually or jointly, more stringent measures consistent with international law, with respect to the safe and environmentally sound recycling of ships, in order to prevent, reduce or minimize any adverse effects on human health and the environment.   
 3.  Parties shall endeavour to co-operate for the purpose of effective implementation of, compliance with and enforcement of this Convention.   
 4.  The Parties undertake to encourage the continued development of technologies and practices which contribute to safe and environmentally sound Ship Recycling.   
-5.  The Annex to this Convention forms an integral part of it. Unless expressly provided for otherwise, a reference to this Convention constitutes at the same time a reference to its Annex.   
+5.  The Annex to this Convention forms an integral part of it. Unless expressly provided for otherwise, a reference to this Convention constitutes at the same time a reference to its Annex.  
 
 ### Article  2  
 
 ####Definitions
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 For the purposes of this Convention, unless expressly provided otherwise: 
 
@@ -50,6 +56,8 @@ For the purposes of this Convention, unless expressly provided otherwise:
 
 ####Application
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  Unless expressly provided otherwise in this Convention, this Convention shall apply to: 
 
 .1. ships entitled to fly the flag of a Party or operating under its authority;  
@@ -57,56 +65,70 @@ For the purposes of this Convention, unless expressly provided otherwise:
 .2. Ship Recycling Facilities operating under the jurisdiction of a Party.     
 2.  This Convention shall not apply to any warships, naval auxiliary, or other ships owned or operated by a Party and used, for the time being, only on government non-commercial service. However, each Party shall ensure, by the adoption of appropriate measures not impairing operations or operational capabilities of such ships owned or operated by it, that such ships act in a manner consistent with this Convention, so far as is reasonable and practicable.   
 3.  This Convention shall not apply to ships of less than 500 GT or to ships operating throughout their life only in waters subject to the sovereignty or jurisdiction of the State whose flag the ship is entitled to fly. However, each Party shall ensure, by the adoption of appropriate measures, that such ships act in a manner consistent with this Convention, so far as is reasonable and practicable.   
-4.  With respect to ships entitled to fly the flag of non-Parties to this Convention, Parties shall apply the requirements of this Convention as may be necessary to ensure that no more favourable treatment is given to such ships.   
+4.  With respect to ships entitled to fly the flag of non-Parties to this Convention, Parties shall apply the requirements of this Convention as may be necessary to ensure that no more favourable treatment is given to such ships.  
 
 ### Article  4  
 
 ####Controls related to Ship Recycling
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  Each Party shall require that ships entitled to fly its flag or operating under its authority comply with the requirements set forth in this Convention and shall take effective measures to ensure such compliance.   
-2.  Each Party shall require that Ship Recycling Facilities under its jurisdiction comply with the requirements set forth in this Convention and shall take effective measures to ensure such compliance.   
+2.  Each Party shall require that Ship Recycling Facilities under its jurisdiction comply with the requirements set forth in this Convention and shall take effective measures to ensure such compliance.  
 
 ### Article  5  
 
 ####Survey and certification of ships
 
-Each Party shall ensure that ships flying its flag or operating under its authority and subject to survey and certification are surveyed and certified in accordance with the regulations in the Annex.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Each Party shall ensure that ships flying its flag or operating under its authority and subject to survey and certification are surveyed and certified in accordance with the regulations in the Annex. 
 
 ### Article  6  
 
 ####Authorization of Ship Recycling Facilities
 
-Each Party shall ensure that Ship Recycling Facilities that operate under its jurisdiction and that recycle ships to which this Convention applies, or ships treated similarly pursuant to Article 3.4 of this Convention, are authorized in accordance with the regulations in the Annex.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Each Party shall ensure that Ship Recycling Facilities that operate under its jurisdiction and that recycle ships to which this Convention applies, or ships treated similarly pursuant to Article 3.4 of this Convention, are authorized in accordance with the regulations in the Annex. 
 
 ### Article  7  
 
 ####Exchange of information
 
-For the Ship Recycling Facilities authorized by a Party, such Party shall provide to the Organization, if requested, and to those Parties which request it, relevant information, in regard to this Convention, on which its decision for authorization was based. The information shall be exchanged in a swift and timely manner.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+For the Ship Recycling Facilities authorized by a Party, such Party shall provide to the Organization, if requested, and to those Parties which request it, relevant information, in regard to this Convention, on which its decision for authorization was based. The information shall be exchanged in a swift and timely manner. 
 
 ### Article  8  
 
 ####Inspection of ships
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  A ship to which this Convention applies may, in any port or offshore terminal of another Party, be subject to inspection by officers duly authorized by that Party for the purpose of determining whether the ship is in compliance with this Convention. Except as provided in paragraph 2, any such inspection is limited to verifying that there is on board either an International Certificate on Inventory of Hazardous Materials or an International Ready for Recycling Certificate, which, if valid, shall be accepted.   
 2.  Where a ship does not carry a valid certificate or there are clear grounds for believing that: 
 
 .1. the condition of the ship or its equipment does not correspond substantially with the particulars of the certificate, and/or Part I of the Inventory of Hazardous Materials; or  
 
-.2. there is no procedure implemented on board the ship for the maintenance of Part I of the Inventory of Hazardous Materials;   a detailed inspection may be carried out taking into account guidelines developed by the Organization.   
+.2. there is no procedure implemented on board the ship for the maintenance of Part I of the Inventory of Hazardous Materials;   a detailed inspection may be carried out taking into account guidelines developed by the Organization.  
 
 ### Article  9  
 
 ####Detection of violations
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  Parties shall co-operate in the detection of violations and the enforcement of the provisions of this Convention.   
 2.  When there is sufficient evidence that a ship is operating, has operated or is about to operate in violation of any provision in this Convention, a Party holding the evidence may request an investigation of this ship when it enters the ports or offshore terminals under the jurisdiction of another Party. The report of such an investigation shall be sent to the Party requesting it, to the Administration of the ship concerned and to the Organization, so that action may be taken as appropriate.   
 3.  If the ship is detected to be in violation of this Convention, the Party carrying out the inspection may take steps to warn, detain, dismiss, or exclude the ship from its ports. A Party taking such action shall immediately inform the Administration of the ship concerned and the Organization.   
-4.  If a request for an investigation is received from any Party, together with sufficient evidence that a Ship Recycling Facility is operating, has operated or is about to operate in violation of any provision of this Convention, a Party should investigate this Ship Recycling Facility operating under its jurisdiction and make a report. The report of any such investigation shall be sent to the Party requesting it, including information on action taken or to be taken, if any, and to the Organization for appropriate action.   
+4.  If a request for an investigation is received from any Party, together with sufficient evidence that a Ship Recycling Facility is operating, has operated or is about to operate in violation of any provision of this Convention, a Party should investigate this Ship Recycling Facility operating under its jurisdiction and make a report. The report of any such investigation shall be sent to the Party requesting it, including information on action taken or to be taken, if any, and to the Organization for appropriate action.  
 
 ### Article  10  
 
 ####Violations
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Any violation of the requirements of this Convention shall be prohibited by national laws and: 
 
@@ -118,18 +140,22 @@ For the Ship Recycling Facilities authorized by a Party, such Party shall provid
 .1. cause proceedings to be taken in accordance with its law; or  
 
 .2. furnish to the Administration of the ship such information and evidence as may be in its possession that a violation has occurred.     
-3.  The sanctions provided for by the laws of a Party pursuant to this Article shall be adequate in severity to discourage violations of this Convention wherever they occur.   
+3.  The sanctions provided for by the laws of a Party pursuant to this Article shall be adequate in severity to discourage violations of this Convention wherever they occur.  
 
 ### Article  11  
 
 ####Undue delay or detention of ships
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  All possible efforts shall be made to avoid a ship being unduly detained or delayed under Article 8, 9 or 10 of this Convention.   
-2.  When a ship is unduly detained or delayed under Article 8, 9 or 10 of this Convention, it shall be entitled to compensation for any loss or damage suffered.   
+2.  When a ship is unduly detained or delayed under Article 8, 9 or 10 of this Convention, it shall be entitled to compensation for any loss or damage suffered.  
 
 ### Article  12  
 
 ####Communication of information
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Each Party shall report to the Organization and the Organization shall disseminate, as appropriate, the following information: 
 
@@ -145,11 +171,13 @@ Each Party shall report to the Organization and the Organization shall dissemina
 
 .6. information concerning violations of this Convention; and  
 
-.7. actions taken towards ships and Ship Recycling Facilities under the jurisdiction of that Party.    
+.7. actions taken towards ships and Ship Recycling Facilities under the jurisdiction of that Party.   
 
 ### Article  13  
 
 ####Technical assistance and co-operation
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Parties undertake, directly or through the Organization and other international bodies, as appropriate, in respect of the safe and environmentally sound recycling of ships, to provide support for those Parties which request technical assistance: 
 
@@ -160,24 +188,30 @@ Each Party shall report to the Organization and the Organization shall dissemina
 .3. to initiate joint research and development programmes; and  
 
 .4. to undertake other actions aimed at the effective implementation of this Convention and of guidelines developed by the Organization related thereto.     
-2.  Parties undertake to co-operate actively, subject to their national laws, regulations and policies, in the transfer of management systems and technology in respect of the safe and environmentally sound recycling of ships.   
+2.  Parties undertake to co-operate actively, subject to their national laws, regulations and policies, in the transfer of management systems and technology in respect of the safe and environmentally sound recycling of ships.  
 
 ### Article  14  
 
 ####Dispute settlement
 
-Parties shall settle any dispute between them concerning the interpretation or application of this Convention by negotiation or any other peaceful means agreed upon by them, which may include enquiry, mediation, conciliation, arbitration, judicial settlement, or resort to regional agencies or arrangements.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Parties shall settle any dispute between them concerning the interpretation or application of this Convention by negotiation or any other peaceful means agreed upon by them, which may include enquiry, mediation, conciliation, arbitration, judicial settlement, or resort to regional agencies or arrangements. 
 
 ### Article  15  
 
 ####Relationship with international law and other international agreements
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  Nothing in this Convention shall prejudice the rights and obligations of any State under the [United Nations Convention on the Law of the Sea](../../../../../../../../../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, and under the customary international law of the sea.   
-2.  Nothing in this Convention shall prejudice the rights and obligations of Parties under other relevant and applicable international agreements.   
+2.  Nothing in this Convention shall prejudice the rights and obligations of Parties under other relevant and applicable international agreements.  
 
 ### Article  16  
 
 ####Signature, ratification, acceptance, approval and accession
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Convention shall be open for signature by any State at the Headquarters of the Organization from 1 September 2009 to 31 August 2010 and shall thereafter remain open for accession by any State.   
 2.  States may become Parties to this Convention by: 
@@ -190,11 +224,13 @@ Parties shall settle any dispute between them concerning the interpretation or a
 3.  Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.   
 4.  If a State comprises two or more territorial units in which different systems of law are applicable in relation to matters dealt with in this Convention, it may at the time of signature, ratification, acceptance, approval, or accession declare that this Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.   
 5.  A declaration under paragraph 4 shall be notified to the Secretary-General in writing and shall state expressly the territorial unit or units to which this Convention applies.   
-6.  A State at the time it expresses its consent to be bound by this Convention shall declare whether it requires explicit or tacit approval of the Ship Recycling Plan before a ship may be recycled in its authorized Ship Recycling Facility(ies). This declaration may be revised thereafter by notification to the Secretary-General. Such revision shall specify the effective date of the revision.   
+6.  A State at the time it expresses its consent to be bound by this Convention shall declare whether it requires explicit or tacit approval of the Ship Recycling Plan before a ship may be recycled in its authorized Ship Recycling Facility(ies). This declaration may be revised thereafter by notification to the Secretary-General. Such revision shall specify the effective date of the revision.  
 
 ### Article  17  
 
 ####Entry into force
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Convention shall enter into force 24 months after the date on which the following conditions are met: 
 
@@ -205,11 +241,13 @@ Parties shall settle any dispute between them concerning the interpretation or a
 .3. the combined maximum annual ship recycling volume of the States mentioned in paragraph 1.1 during the preceding 10 years constitutes not less than 3 per cent of the gross tonnage of the combined merchant shipping of the same States.     
 2.  For States which have deposited an instrument of ratification, acceptance, approval or accession in respect of this Convention after the requirements for entry into force thereof have been met, but prior to the date of entry into force, the ratification, acceptance, approval or accession shall take effect on the date of entry into force of this Convention, or three months after the date of deposit of the instrument, whichever is the later date.   
 3.  Any instrument of ratification, acceptance, approval or accession deposited after the date on which this Convention enters into force shall take effect three months after the date of deposit.   
-4.  After the date on which an amendment to this Convention is deemed to have been accepted under Article 18, any instrument of ratification, acceptance, approval or accession deposited shall apply to the Convention, as amended.   
+4.  After the date on which an amendment to this Convention is deemed to have been accepted under Article 18, any instrument of ratification, acceptance, approval or accession deposited shall apply to the Convention, as amended.  
 
 ### Article  18  
 
 ####Amendments
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Convention may be amended by either of the procedures specified in the following paragraphs.   
 2.  Amendments after consideration within the Organization: 
@@ -234,7 +272,7 @@ Parties shall settle any dispute between them concerning the interpretation or a
 
 .6.2. An amendment to the Annex shall enter into force with respect to all Parties six months after the date on which it is deemed to have been accepted, except for any Party that has: 
 
-.6.2.1. notified its objection to the amendment in accordance with subparagraph .5.2 and that has not withdrawn such objection; or  
+.6.2.1.  notified its objection to the amendment in accordance with subparagraph .5.2 and that has not withdrawn such objection; or  
 
 .6.2.2. notified the Secretary-General, prior to the entry into force of such amendment, that the amendment shall enter into force for it only after a subsequent notification of its acceptance.    
 
@@ -254,18 +292,22 @@ Parties shall settle any dispute between them concerning the interpretation or a
 
 .1. any amendment that enters into force and the date of its entry into force generally and for each Party; and  
 
-.2. any notification made under this Article.     
+.2. any notification made under this Article.    
 
 ### Article  19  
 
 ####Denunciation
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  This Convention may be denounced by any Party at any time after the expiry of two years from the date on which this Convention enters into force for that Party.   
-2.  Denunciation shall be effected by written notification to the Secretary-General, to take effect one year after receipt or such longer period as may be specified in that notification.   
+2.  Denunciation shall be effected by written notification to the Secretary-General, to take effect one year after receipt or such longer period as may be specified in that notification.  
 
 ### Article  20  
 
 ####Depositary
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  This Convention shall be deposited with the Secretary-General, who shall transmit certified copies of this Convention to all States which have signed this Convention or acceded thereto.   
 2.  In addition to the functions specified elsewhere in this Convention, the Secretary-General shall: 
@@ -280,13 +322,15 @@ Parties shall settle any dispute between them concerning the interpretation or a
 
 .1.4. other declarations and notifications received pursuant to this Convention; and    
 
-.2. as soon as this Convention enters into force, transmit the text thereof to the Secretariat of the United Nations, for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).     
+.2. as soon as this Convention enters into force, transmit the text thereof to the Secretariat of the United Nations, for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).    
 
 ### Article  21  
 
 ####Languages
 
-This Convention is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+This Convention is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic. 
 
 DONE at Hong Kong, China, this fifteenth day of May, two thousand and nine. IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Convention.  
 
@@ -294,13 +338,19 @@ DONE at Hong Kong, China, this fifteenth day of May, two thousand and nine. IN W
 
 ####Regulations for safe and environmentally sound recycling of ships
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ### CHAPTER  1  
 
 ####GENERAL PROVISIONS
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ### Regulation  1  
 
 ####Definitions
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 For the purposes of this Annex: 
 
@@ -346,41 +396,53 @@ For the purposes of this Annex:
 
 11. “Tanker” means an oil tanker as defined in [MARPOL Annex I](../../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) or an NLS tanker as defined in [MARPOL Annex II](../../../../../../../../../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md).  
 
-12. “Worker” means any person who performs work, either regularly or temporarily, in the context of an employment relationship including contractor personnel.    
+12. “Worker” means any person who performs work, either regularly or temporarily, in the context of an employment relationship including contractor personnel.   
 
 ### Regulation  2  
 
 ####General applicability
 
-Unless expressly provided otherwise, the design, construction, survey, certification, operation and recycling of ships shall be conducted in accordance with the provisions of this Annex.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Unless expressly provided otherwise, the design, construction, survey, certification, operation and recycling of ships shall be conducted in accordance with the provisions of this Annex. 
 
 ### Regulation  3  
 
 ####Relationship with other standards, recommendations and guidance
 
-Parties shall take measures to implement the requirements of the regulations of this Annex, taking into account relevant and applicable standards, recommendations and guidance developed by the International Labour Organization and the relevant and applicable technical standards, recommendations and guidance developed under the [Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal](../../../../../../../../../../../../../verdrag/basel/convention/on/the/control/of/transboundary/movements/of/hazardous/etc/BWBV0002081/README.md).  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Parties shall take measures to implement the requirements of the regulations of this Annex, taking into account relevant and applicable standards, recommendations and guidance developed by the International Labour Organization and the relevant and applicable technical standards, recommendations and guidance developed under the [Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal](../../../../../../../../../../../../../verdrag/basel/convention/on/the/control/of/transboundary/movements/of/hazardous/etc/BWBV0002081/README.md). 
 
 ### CHAPTER  2  
 
 ####REQUIREMENTS FOR SHIPS
 
-### PART  A  
+Treedt in werking op een nader te bepalen tijdstip 
+
+### PART   A  
 
 ####DESIGN, CONSTRUCTION, OPERATION AND MAINTENANCE OF SHIPS
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Regulation  4  
 
 ####Controls of ships’ Hazardous Materials
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 In accordance with the requirements specified in Appendix 1 to this Convention each Party: 
 
 .1. shall prohibit and/or restrict the installation or use of Hazardous Materials listed in Appendix 1 on ships entitled to fly its flag or operating under its authority; and  
 
-.2. shall prohibit and/or restrict the installation or use of such materials on ships, whilst in its ports, shipyards, ship repair yards, or offshore terminals,   and shall take effective measures to ensure that such ships comply with those requirements.  
+.2. shall prohibit and/or restrict the installation or use of such materials on ships, whilst in its ports, shipyards, ship repair yards, or offshore terminals,   and shall take effective measures to ensure that such ships comply with those requirements. 
 
 ### Regulation  5  
 
 ####Inventory of Hazardous Materials
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Each new ship shall have on board an Inventory of Hazardous Materials. The Inventory shall be verified either by the Administration or by any person or organization authorized by it taking into account guidelines, including any threshold values and exemptions contained in those guidelines, developed by the Organization. The Inventory of Hazardous Materials shall be specific to each ship and shall at least: 
 
@@ -389,11 +451,13 @@ In accordance with the requirements specified in Appendix 1 to this Convention e
 .2. clarify that the ship complies with regulation 4.     
 2.  Existing ships shall comply as far as practicable with paragraph 1 not later than 5 years after the entry into force of this Convention, or before going for recycling if this is earlier, taking into account the guidelines developed by the Organization and the Organization’s Harmonized System of Survey and Certification. The Hazardous Materials listed in Appendix 1, at least, shall be identified when the Inventory is developed. For existing ships a plan shall be prepared describing the visual/sampling check by which the Inventory of Hazardous Materials is developed, taking into account the guidelines developed by the Organization.   
 3.  Part I of the Inventory of Hazardous Materials shall be properly maintained and updated throughout the operational life of the ship, reflecting new installations containing Hazardous Materials listed in Appendix 2 and relevant changes in ship structure and equipment, taking into account the guidelines developed by the Organization.   
-4.  Prior to recycling the Inventory shall, in addition to the properly maintained and updated Part I, incorporate Part II for operationally generated wastes and Part III for stores, and be verified either by the Administration or by any person or organization authorized by it, taking into account the guidelines developed by the Organization.   
+4.  Prior to recycling the Inventory shall, in addition to the properly maintained and updated Part I, incorporate Part II for operationally generated wastes and Part III for stores, and be verified either by the Administration or by any person or organization authorized by it, taking into account the guidelines developed by the Organization.  
 
 ### Regulation  6  
 
-####Procedure for proposing amendments to Appendices 1  and 2 
+####Procedure for proposing amendments to Appendices 1  and 2  
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Any Party may propose an amendment to Appendix 1 and/or Appendix 2 in accordance with this regulation. The proposed amendment shall be considered within the Organization under Article 18 paragraph 2 and this regulation.   
 2.  When the Organization receives a proposal, it shall also bring the proposal to the attention of the United Nations and its Specialized Agencies, intergovernmental organizations having agreements with the Organization and non-governmental organizations in consultative status with the Organization and shall make it available to them.   
@@ -427,23 +491,29 @@ In accordance with the requirements specified in Appendix 1 to this Convention e
 .3 The technical group’s report shall be in writing and shall take into account each of the evaluations and considerations referred to in subparagraph .1, except that the technical group may decide not to proceed with the evaluations and considerations described in subparagraphs .1.2 to .1.7 if it determines after the evaluation in subparagraph .1.1 that the proposal does not warrant further consideration.  
 
 .4 The technical group’s report shall include, *inter alia*, a recommendation on whether international controls pursuant to this Convention are warranted on the Hazardous Material in question, on the suitability of the specific control measures suggested in the comprehensive proposal, or on other control measures which it believes to be more suitable.     
-5.  The Committee shall decide whether to approve any proposal to amend Appendix 1 or Appendix 2, and any modifications thereto, if appropriate, taking into account the technical group’s report. Any proposed amendment shall specify the application of the amendment for ships certified in accordance with this Convention before the entry into force of the amendment. If the report finds that the Hazardous Material in question is likely, in the context of this Convention, to lead to significant adverse effects on human health or the environment, lack of full scientific certainty shall not be used as a reason to prevent a decision from being taken to list a Hazardous Material in Appendix 1 or Appendix 2. A decision not to approve the proposal shall not preclude future submission of a new proposal with respect to a particular Hazardous Material if new information comes to light.   
+5.  The Committee shall decide whether to approve any proposal to amend Appendix 1 or Appendix 2, and any modifications thereto, if appropriate, taking into account the technical group’s report. Any proposed amendment shall specify the application of the amendment for ships certified in accordance with this Convention before the entry into force of the amendment. If the report finds that the Hazardous Material in question is likely, in the context of this Convention, to lead to significant adverse effects on human health or the environment, lack of full scientific certainty shall not be used as a reason to prevent a decision from being taken to list a Hazardous Material in Appendix 1 or Appendix 2. A decision not to approve the proposal shall not preclude future submission of a new proposal with respect to a particular Hazardous Material if new information comes to light.  
 
 ### Regulation  7  
 
 ####Technical Groups
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  The Committee may establish one or more technical groups pursuant to regulation 6 as needed. The technical group may comprise representatives of the Parties, Members of the Organization, the United Nations and its Specialized Agencies, intergovernmental organizations having agreements with the Organization, and non-governmental organizations in consultative status with the Organization, which should preferably include representatives of institutions and laboratories with expertise in environmental fate and effects of substances, toxicological effects, marine biology, human health, economic analysis, risk management, shipbuilding, international shipping, occupational health and safety or other fields of expertise necessary to objectively review the technical merits of a proposal.   
 2.  The Committee shall decide on the terms of reference, organization, participation and operation of the technical groups. Such terms shall provide for protection of any confidential information that may be submitted. Technical groups may hold such meetings as required, but shall endeavour to conduct their work through written or electronic correspondence or other media as appropriate.   
-3.  Only the representatives of Parties may participate in formulating any recommendation to the Committee pursuant to regulation 6. A technical group shall endeavour to achieve unanimity among the representatives of the Parties. If unanimity is not possible, the technical group shall communicate any minority views of such representatives.   
+3.  Only the representatives of Parties may participate in formulating any recommendation to the Committee pursuant to regulation 6. A technical group shall endeavour to achieve unanimity among the representatives of the Parties. If unanimity is not possible, the technical group shall communicate any minority views of such representatives.  
 
 ### PART  B  
 
 ####PREPARATION FOR SHIP RECYCLING
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ### Regulation  8  
 
 ####General requirements
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Ships destined to be recycled shall: 
 
@@ -461,11 +531,13 @@ Ships destined to be recycled shall:
 
 .5. complete the Inventory required by regulation 5; and  
 
-.6. be certified as ready for recycling by the Administration or organization recognized by it, prior to any recycling activity taking place.    
+.6. be certified as ready for recycling by the Administration or organization recognized by it, prior to any recycling activity taking place.   
 
 ### Regulation  9  
 
 ####Ship Recycling Plan
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 A ship-specific Ship Recycling Plan shall be developed by the Ship Recycling Facility(ies) prior to any recycling of a ship, taking into account the guidelines developed by the Organization. The Ship Recycling Plan shall: 
 
@@ -483,15 +555,19 @@ A ship-specific Ship Recycling Plan shall be developed by the Ship Recycling Fac
 
 .5. once approved in accordance with paragraph .4, be made available for inspection by the Administration, or any nominated surveyors or organization recognized by it; and  
 
-.6. where more than one Ship Recycling Facility is used, identify the Ship Recycling Facilities to be used and specify the recycling activities and the order in which they occur at each authorized Ship Recycling Facility.    
+.6. where more than one Ship Recycling Facility is used, identify the Ship Recycling Facilities to be used and specify the recycling activities and the order in which they occur at each authorized Ship Recycling Facility.   
 
 ### PART  C  
 
 ####SURVEYS AND CERTIFICATION
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ### Regulation  10  
 
 ####Surveys
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Ships to which this Convention applies shall be subject to the surveys specified below: 
 
@@ -515,11 +591,13 @@ A ship-specific Ship Recycling Plan shall be developed by the Ship Recycling Fac
 
 .2. carry out surveys and inspections if requested by the appropriate authorities of a port State that is a Party.     
 4.  In every case, the Administration concerned shall be responsible to ensure the completeness and efficiency of the survey and shall undertake to ensure the necessary arrangements to satisfy this obligation.   
-5.  The initial and renewal surveys should be harmonized with the surveys required by other applicable statutory instruments of the Organization.   
+5.  The initial and renewal surveys should be harmonized with the surveys required by other applicable statutory instruments of the Organization.  
 
 ### Regulation  11  
 
 ####Issuance and endorsement of certificates
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  An International Certificate on Inventory of Hazardous Materials shall be issued either by the Administration or by any person or organization authorized by it after successful completion of an initial or renewal survey conducted in accordance with regulation 10, to any ships to which regulation 10 applies, except for existing ships for which both an initial survey and a final survey are conducted at the same time, taking into account the guidelines developed by the Organization.   
 2.  The International Certificate on Inventory of Hazardous Materials issued under paragraph 1, at the request of the shipowner, shall be endorsed either by the Administration or by any person or organization authorized by it after successful completion of an additional survey conducted in accordance with regulation 10.   
@@ -532,26 +610,32 @@ A ship-specific Ship Recycling Plan shall be developed by the Ship Recycling Fac
 9.  A certificate issued to a ship engaged on short voyages which has not been extended under the foregoing provisions of this regulation may be extended by the Administration for a period of grace of up to one month from the date of expiry stated on it. When the renewal survey is completed, the new certificate shall be valid to a date not exceeding five years from the date of expiry of the existing certificate before the extension was granted.   
 10.  In special circumstances, as determined by the Administration, a new certificate need not be dated from the date of expiry of the existing certificate as required by paragraph 4, 8 or 9 of this regulation. In these special circumstances, the new certificate shall be valid to a date not exceeding five years from the date of completion of the renewal survey.   
 11.  An International Ready for Recycling Certificate shall be issued either by the Administration or by any person or organization authorized by it, after successful completion of a final survey in accordance with the provisions of regulation 10, to any ships to which regulation 10 applies, taking into account the authorization of the Ship Recycling Facility and the guidelines developed by the Organization.   
-12.  A certificate issued under the authority of a Party shall be accepted by the other Parties and regarded for all purposes covered by this Convention as having the same validity as a certificate issued by them. Certificates shall be issued or endorsed either by the Administration or by any person or organization duly authorized by it. In every case, the Administration assumes full responsibility for the certificate.   
+12.  A certificate issued under the authority of a Party shall be accepted by the other Parties and regarded for all purposes covered by this Convention as having the same validity as a certificate issued by them. Certificates shall be issued or endorsed either by the Administration or by any person or organization duly authorized by it. In every case, the Administration assumes full responsibility for the certificate.  
 
 ### Regulation  12  
 
 ####Issuance or endorsement of a certificate by another Party
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  At the request of the Administration, another Party may cause a ship to be surveyed and, if satisfied that the provisions of this Convention are complied with, shall issue or authorize the issuance of a certificate to the ship, and where appropriate, endorse or authorize the endorsement of that certificate on the ship, in accordance with this Annex.   
 2.  A copy of the certificate and a copy of the survey report shall be transmitted as soon as possible to the requesting Administration.   
 3.  A certificate so issued shall contain a statement to the effect that it has been issued at the request of the Administration and it shall have the same force and receive the same recognition as a certificate issued by the Administration.   
-4.  No certificate shall be issued to a ship entitled to fly the flag of a State which is not a Party.   
+4.  No certificate shall be issued to a ship entitled to fly the flag of a State which is not a Party.  
 
 ### Regulation  13  
 
 ####Form of the certificates
 
-The certificates shall be drawn up in an official language of the issuing Party, in the form set forth in Appendices 3 and 4. If the language used is not English, French or Spanish, the text shall include a translation into one of these languages. The Administration may, however, issue the International Certificate on Inventory of Hazardous Materials drawn up only in an official language of the issuing Party to ships not engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to this Convention and the International Ready for Recycling Certificate drawn up only in an official language of the issuing Party to ships recycled in Ship Recycling Facilities under the jurisdiction of the issuing Party.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+The certificates shall be drawn up in an official language of the issuing Party, in the form set forth in Appendices 3 and 4. If the language used is not English, French or Spanish, the text shall include a translation into one of these languages. The Administration may, however, issue the International Certificate on Inventory of Hazardous Materials drawn up only in an official language of the issuing Party to ships not engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to this Convention and the International Ready for Recycling Certificate drawn up only in an official language of the issuing Party to ships recycled in Ship Recycling Facilities under the jurisdiction of the issuing Party. 
 
 ### Regulation  14  
 
 ####Duration and validity of the certificates
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  An International Certificate on Inventory of Hazardous Materials issued under regulation 11 or 12 shall cease to be valid in any of the following cases: 
 
@@ -565,35 +649,43 @@ The certificates shall be drawn up in an official language of the issuing Party,
 2.  An International Certificate on Inventory of Hazardous Materials shall be issued for a period specified by the Administration, which shall not exceed five years.   
 3.  An International Ready for Recycling Certificate shall be issued for a period specified by the Administration that shall not exceed three months.   
 4.  An International Ready for Recycling Certificate issued under regulation 11 or 12 shall cease to be valid if the condition of the ship does not correspond substantially with the particulars of the certificate.   
-5.  The International Ready for Recycling Certificate may be extended by the Administration or by any person or organization authorized by it for a single point to point voyage to the Ship Recycling Facility.   
+5.  The International Ready for Recycling Certificate may be extended by the Administration or by any person or organization authorized by it for a single point to point voyage to the Ship Recycling Facility.  
 
 ### CHAPTER  3  
 
 ####REQUIREMENTS FOR SHIP RECYCLING FACILITIES
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ### Regulation  15  
 
 ####Controls on Ship Recycling Facilities
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  Each Party shall establish legislation, regulations, and standards that are necessary to ensure that Ship Recycling Facilities are designed, constructed, and operated in a safe and environmentally sound manner in accordance with the regulations of this Convention.   
 2.  Each Party shall establish a mechanism for authorizing Ship Recycling Facilities with appropriate conditions to ensure that such Ship Recycling Facilities meet the requirements of this Convention.   
 3.  Each Party shall establish a mechanism for ensuring that Ship Recycling Facilities comply with the requirements of this chapter including the establishment and effective use of inspection, monitoring and enforcement provisions, including powers of entry and sampling. Such a mechanism may include an audit scheme to be carried out by the Competent Authority(ies) or an organization recognized by the Party, taking into account guidelines developed by the Organization, and the results of these audits should be communicated to the Organization.   
-4.  Each Party shall designate one or more Competent Authorities and the single contact point to be used by the Organization, Parties to this Convention and other interested entities, for matters related to Ship Recycling Facilities operating within the jurisdiction of that Party.   
+4.  Each Party shall designate one or more Competent Authorities and the single contact point to be used by the Organization, Parties to this Convention and other interested entities, for matters related to Ship Recycling Facilities operating within the jurisdiction of that Party.  
 
 ### Regulation  16  
 
 ####Authorization of Ship Recycling Facilities
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Ship Recycling Facilities which recycle ships to which this Convention applies, or ships treated similarly pursuant to Article 3.4, shall be authorized by a Party taking into account the guidelines developed by the Organization.   
 2.  The authorization shall be carried out by the Competent Authority(ies) and shall include verification of documentation required by this Convention and a site inspection. The Competent Authority(ies) may however entrust the authorization of Ship Recycling Facilities to organizations recognized by it.   
 3.  The Party shall notify the Organization of the specific responsibilities and conditions of the authority delegated to the recognized organizations, for circulation to Parties. In every case, the Competent Authority(ies) retains full responsibility for the authorization issued.   
 4.  The authorization shall be drawn up in the form set forth in Appendix 5. If the language used is not English, French or Spanish, the text shall include a translation into one of these languages.   
 5.  The authorization shall be valid for a period specified by the Party but not exceeding five years. The Party shall identify the terms for which the authorization will be issued, withdrawn, suspended, amended and renewed, and communicate these terms to the Ship Recycling Facilities. If a Ship Recycling Facility refuses inspection by the Competent Authority(ies) or the recognized organization operating on its/their behalf, the authorization shall be suspended or withdrawn.   
-6.  If incidents or actions taken at the Ship Recycling Facility have the effect that the conditions for the authorization are no longer fulfilled, the Ship Recycling Facility shall inform the Competent Authority(ies). The Competent Authority(ies) may accordingly decide to suspend or withdraw the authorization, or require corrective actions by the Ship Recycling Facility.   
+6.  If incidents or actions taken at the Ship Recycling Facility have the effect that the conditions for the authorization are no longer fulfilled, the Ship Recycling Facility shall inform the Competent Authority(ies). The Competent Authority(ies) may accordingly decide to suspend or withdraw the authorization, or require corrective actions by the Ship Recycling Facility.  
 
 ### Regulation  17  
 
 ####General requirements
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Ship Recycling Facilities authorized by a Party shall establish management systems, procedures and techniques which do not pose health risks to the workers concerned or to the population in the vicinity of the Ship Recycling Facility and which will prevent, reduce, minimize and to the extent practicable eliminate adverse effects on the environment caused by Ship Recycling, taking into account guidelines developed by the Organization.   
 2.  Ship Recycling Facilities authorized by a Party shall, for ships to which this Convention applies, or ships treated similarly pursuant to Article 3.4: 
@@ -606,11 +698,13 @@ The certificates shall be drawn up in an official language of the issuing Party,
 
 .2 only accept ships which they are authorized to recycle; and  
 
-.3 have the documentation of its authorization available if such documentation is requested by a shipowner that is considering recycling a ship at that Ship Recycling Facility.     
+.3 have the documentation of its authorization available if such documentation is requested by a shipowner that is considering recycling a ship at that Ship Recycling Facility.    
 
 ### Regulation  18  
 
 ####Ship Recycling Facility Plan
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Ship Recycling Facilities authorized by a Party shall prepare a Ship Recycling Facility Plan. The Plan shall be adopted by the board or the appropriate governing body of the Recycling Company, and shall include: 
 
@@ -630,11 +724,13 @@ Ship Recycling Facilities authorized by a Party shall prepare a Ship Recycling F
 
 .8. a system for reporting discharges, emissions, incidents and accidents causing damage, or with the potential of causing damage, to workers’ safety, human health and the environment; and  
 
-.9. a system for reporting occupational diseases, accidents, injuries and other adverse effects on workers’ safety and human health, taking into account guidelines developed by the Organization.    
+.9. a system for reporting occupational diseases, accidents, injuries and other adverse effects on workers’ safety and human health, taking into account guidelines developed by the Organization.   
 
 ### Regulation  19  
 
 ####Prevention of adverse effects to human health and the environment
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Ship Recycling Facilities authorized by a Party shall establish and utilize procedures to: 
 
@@ -644,11 +740,13 @@ Ship Recycling Facilities authorized by a Party shall establish and utilize proc
 
 .3. prevent other accidents, occupational diseases and injuries or other adverse effects on human health and the environment; and  
 
-.4. prevent spills or emissions throughout Ship Recycling which may cause harm to human health and/or the environment, taking into account guidelines developed by the Organization.    
+.4. prevent spills or emissions throughout Ship Recycling which may cause harm to human health and/or the environment, taking into account guidelines developed by the Organization.   
 
 ### Regulation  20  
 
 ####Safe and environmentally sound management of Hazardous Materials
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Ship Recycling Facilities authorized by a Party shall ensure safe and environmentally sound removal of any Hazardous Material contained in a ship certified in accordance with regulation 11 or 12. The person(s) in charge of the recycling operations and the workers shall be familiar with the requirements of this Convention relevant to their tasks and, in particular, actively use the Inventory of Hazardous Materials and the Ship Recycling Plan, prior to and during the removal of Hazardous Materials.   
 2.  Ship Recycling Facilities authorized by a Party shall ensure that all Hazardous Materials detailed in the Inventory are identified, labelled, packaged and removed to the maximum extent possible prior to cutting by properly trained and equiped workers, taking into account the guidelines developed by the Organization, in particular: 
@@ -667,11 +765,13 @@ Ship Recycling Facilities authorized by a Party shall establish and utilize proc
 
 .7. other Hazardous Materials not listed above and that are not a part of the ship structure.     
 3.  Ship Recycling Facilities authorized by a Party shall provide for and ensure safe and environmentally sound management of all Hazardous Materials and wastes removed from the ship recycled at that Ship Recycling Facility. Waste management and disposal sites shall be identified to provide for the further safe and environmentally sound management of materials.   
-4.  All wastes generated from the recycling activity shall be kept separate from recyclable materials and equipment, labelled, stored in appropriate conditions that do not pose a risk to the workers, human health or the environment and only transferred to a waste management facility authorized to deal with their treatment and disposal in a safe and environmentally sound manner.   
+4.  All wastes generated from the recycling activity shall be kept separate from recyclable materials and equipment, labelled, stored in appropriate conditions that do not pose a risk to the workers, human health or the environment and only transferred to a waste management facility authorized to deal with their treatment and disposal in a safe and environmentally sound manner.  
 
 ### Regulation  21  
 
 ####Emergency preparedness and response
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Ship Recycling Facilities authorized by a Party shall establish and maintain an emergency preparedness and response plan. The plan shall be made having regard to the location and environment of the Ship Recycling Facility, and shall take into account the size and nature of activities associated with each Ship Recycling operation. The plan shall furthermore: 
 
@@ -683,11 +783,13 @@ Ship Recycling Facilities authorized by a Party shall establish and maintain an 
 
 .4. provide for first-aid and medical assistance, fire-fighting and evacuation of all people at the Ship Recycling Facility, pollution prevention; and  
 
-.5. provide for relevant information and training to all workers of the Ship Recycling Facility, at all levels and according to their competence, including regular exercises in emergency prevention, preparedness and response procedures.    
+.5. provide for relevant information and training to all workers of the Ship Recycling Facility, at all levels and according to their competence, including regular exercises in emergency prevention, preparedness and response procedures.   
 
 ### Regulation  22  
 
 ####Worker safety and training
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Ship Recycling Facilities authorized by a Party shall provide for worker safety by measures including: 
 
@@ -725,22 +827,28 @@ Ship Recycling Facilities authorized by a Party shall establish and maintain an 
 
 .5. be reviewed periodically and modified as necessary; and  
 
-.6. be documented.     
+.6. be documented.    
 
 ### Regulation  23  
 
 ####Reporting on incidents, accidents, occupational diseases and chronic effects
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 1.  Ship Recycling Facilities authorized by a Party shall report to the Competent Authority(ies) any incident, accident, occupational diseases, or chronic effects causing, or with the potential of causing, risks to workers safety, human health and the environment.   
-2.  Reports shall contain a description of the incident, accident, occupational disease, or chronic effect, its cause, the response action taken and the consequences and corrective actions to be taken.   
+2.  Reports shall contain a description of the incident, accident, occupational disease, or chronic effect, its cause, the response action taken and the consequences and corrective actions to be taken.  
 
 ### CHAPTER  4  
 
 ####REPORTING REQUIREMENTS
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ### Regulation  24  
 
 ####Initial notification and reporting requirements
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  A shipowner shall notify the Administration in due time and in writing of the intention to recycle a ship in order to enable the Administration to prepare for the survey and certification required by this Convention.   
 2.  A Ship Recycling Facility when preparing to receive a ship for recycling shall notify in due time and in writing its Competent Authority(ies) of the intent. The notification shall include at least the following ship details: 
@@ -768,17 +876,21 @@ Ship Recycling Facilities authorized by a Party shall establish and maintain an 
 .11. Inventory of Hazardous Materials; and  
 
 .12. draft ship recycling plan for approval pursuant to regulation 9.     
-3.  When the ship destined to be recycled has acquired the International Ready for Recycling Certificate, the Ship Recycling Facility shall report to its Competent Authority(ies) the planned start of the Ship Recycling. The report shall be in accordance with the reporting format in Appendix 6, and shall at least include a copy of the International Ready for Recycling Certificate. Recycling of the ship shall not start prior to the submission of the report.   
+3.  When the ship destined to be recycled has acquired the International Ready for Recycling Certificate, the Ship Recycling Facility shall report to its Competent Authority(ies) the planned start of the Ship Recycling. The report shall be in accordance with the reporting format in Appendix 6, and shall at least include a copy of the International Ready for Recycling Certificate. Recycling of the ship shall not start prior to the submission of the report.  
 
 ### Regulation  25  
 
 ####Reporting upon completion
 
-When the partial or complete recycling of a ship is completed in accordance with the requirements of this Convention, a Statement of Completion shall be issued by the Ship Recycling Facility and reported to its Competent Authority(ies). This report must be compiled as shown in appendix 7. The Competent Authority(ies) shall send a copy of the Statement to the Administration which issued the International Ready for Recycling Certificate for the ship. The Statement shall be issued within 14 days of the date of partial or completed Ship Recycling in accordance with the Ship Recycling Plan and shall include a report on incidents and accidents damaging human health and/or the environment, if any.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+When the partial or complete recycling of a ship is completed in accordance with the requirements of this Convention, a Statement of Completion shall be issued by the Ship Recycling Facility and reported to its Competent Authority(ies). This report must be compiled as shown in appendix 7. The Competent Authority(ies) shall send a copy of the Statement to the Administration which issued the International Ready for Recycling Certificate for the ship. The Statement shall be issued within 14 days of the date of partial or completed Ship Recycling in accordance with the Ship Recycling Plan and shall include a report on incidents and accidents damaging human health and/or the environment, if any. 
 
 ### Appendix  1  
 
 ####Controls of Hazardous Materials
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -803,9 +915,11 @@ When the partial or complete recycling of a ship is completed in accordance with
 
 ####Minimum list of items for the Inventory of Hazardous Materials
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 | --- |
 |:---|
-| Any Hazardous Materials listed in Appendix 1   |
+| Any Hazardous Materials listed in Appendix 1    |
 | Cadmium and Cadmium Compounds  |
 | Hexavalent Chromium and Hexavalent Chromium Compounds  |
 | Lead and Lead Compounds  |
@@ -814,11 +928,13 @@ When the partial or complete recycling of a ship is completed in accordance with
 | Polybrominated Diphenyl Ethers (PBDEs)  |
 | Polychlorinated Naphthalenes (more than 3 chlorine atoms)  |
 | Radioactive Substances  |
-| Certain Shortchain Chlorinated Paraffins (Alkanes, C <sub>10</sub> -C <sub>13</sub>, chloro)  |
+| Certain Shortchain Chlorinated Paraffins (Alkanes, C<sub>10</sub>-C<sub>13</sub>, chloro)  |
 
 ### Appendix  3  
 
 ####Form of the International Certificate on Inventory of Hazardous Materials
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -838,6 +954,8 @@ When the partial or complete recycling of a ship is completed in accordance with
 
 ####Particulars of the Ship
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 | --- | --- |
 |:---|:---|
 | Name of Ship  | --- |
@@ -851,6 +969,8 @@ When the partial or complete recycling of a ship is completed in accordance with
 | Date of Construction  | --- |
 
 ####Particulars of Part I of the Inventory of Hazardous Materials
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Part I of the Inventory of Hazardous Materials identification/verification number: ..... Note: Part I of the Inventory of Hazardous Materials, as required by regulation 5 of the Annex to the Convention, is an essential part of the International Certificate on Inventory of Hazardous Materials and must always accompany the International Certificate on Inventory of Hazardous Materials. Part I of the Inventory of Hazardous Materials should be compiled on the basis of the standard format shown in the guidelines developed by the Organization. THIS IS TO CERTIFY: 
 
@@ -872,9 +992,9 @@ Part I of the Inventory of Hazardous Materials identification/verification numbe
 | --- | --- |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
-####Endorsement to extend the certificate if valid for less than five years where regulation 11.6  applies
+####Endorsement to extend the certificate if valid for less than five years where regulation 11.6  applies<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup> 
 
-<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup>   
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- |
 |:---|:---|
@@ -890,9 +1010,9 @@ Part I of the Inventory of Hazardous Materials identification/verification numbe
 | --- | --- |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
-####Endorsement where the renewal survey has been completed and regulation 11.7  applies
+####Endorsement where the renewal survey has been completed and regulation 11.7  applies<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup> 
 
-<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup>   
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- |
 |:---|:---|
@@ -917,9 +1037,9 @@ Part I of the Inventory of Hazardous Materials identification/verification numbe
 | --- |
 | --- |
 
-####Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation 11.8  or 11.9 applies
+####Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation 11.8  or 11.9 applies<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup> 
 
-<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup>   
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- |
 |:---|:---|
@@ -935,11 +1055,11 @@ Part I of the Inventory of Hazardous Materials identification/verification numbe
 | --- | --- |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
-** Delete as appropriate.  
+** Delete as appropriate.
 
-####Endorsement for additional survey
+####Endorsement for additional survey<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup> 
 
-<sup> *  This page of the endorsement at survey shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup>   
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- |
 |:---|:---|
@@ -964,6 +1084,8 @@ Part I of the Inventory of Hazardous Materials identification/verification numbe
 
 ####Form of the International Ready for Recycling Certificate
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 | --- | --- | --- |
 |:---|:---|:---|
 | INTERNATIONAL READY FOR RECYCLING CERTIFICATE  |
@@ -983,6 +1105,8 @@ Part I of the Inventory of Hazardous Materials identification/verification numbe
 
 ####Particulars of the Ship
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 | --- | --- |
 |:---|:---|
 | Name of Ship  | --- |
@@ -997,20 +1121,26 @@ Part I of the Inventory of Hazardous Materials identification/verification numbe
 
 ####Particulars of the Ship Recycling Facility(ies)
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 | --- | --- |
 |:---|:---|
 | Name of Ship Recycling Facility  | --- |
-| Distinctive Recycling Company identity number <sup>*</sup>  | --- |
+| Distinctive Recycling Company identity number<sup>*</sup>   | --- |
 | Full address  | --- |
 | Date of expiry of DASR  | --- |
 
-<sup>*</sup> This number is based on the Document of Authorization to conduct Ship Recycling (DASR).  
+<sup>*</sup> This number is based on the Document of Authorization to conduct Ship Recycling (DASR). 
 
 ####Particulars of the Inventory of Hazardous Materials
 
-Inventory of Hazardous Materials identification/verification number: .... Note: The Inventory of Hazardous Materials, as required by regulation 5 of the Annex to the Convention, is an essential part of the International Ready for Recycling Certificate and must always accompany the International Ready for Recycling Certificate. The Inventory of Hazardous Materials should be compiled on the basis of the standard format shown in the guidelines developed by the Organization.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Inventory of Hazardous Materials identification/verification number: .... Note: The Inventory of Hazardous Materials, as required by regulation 5 of the Annex to the Convention, is an essential part of the International Ready for Recycling Certificate and must always accompany the International Ready for Recycling Certificate. The Inventory of Hazardous Materials should be compiled on the basis of the standard format shown in the guidelines developed by the Organization. 
 
 ####Particulars of the Ship Recycling Plan
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Ship Recycling Plan identification/verification number: ..... Note: The Ship Recycling Plan, as required by regulation 9 of the Annex to the Convention, is an essential part of the International Ready for Recycling Certificate and must always accompany the International Ready for Recycling Certificate. THIS IS TO CERTIFY: 
 
@@ -1035,9 +1165,9 @@ Ship Recycling Plan identification/verification number: ..... Note: The Ship Rec
 | --- | --- |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
-####Endorsement to extend the validity of the certificate until reaching the port of the ship recycling facility for a period of grace where regulation 14.5  applies
+####Endorsement to extend the validity of the certificate until reaching the port of the ship recycling facility for a period of grace where regulation 14.5  applies<sup> *   This page of the endorsement shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup> 
 
-<sup> *  This page of the endorsement shall be reproduced and added to the certificate as considered necessary by the Administration.  </sup>   
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- |
 |:---|:---|
@@ -1062,7 +1192,11 @@ Ship Recycling Plan identification/verification number: ..... Note: The Ship Rec
 
 ####Form of the Authorization of Ship Recycling Facilities
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ####Document of Authorization to conduct Ship Recycling (DASR) in accordance with the requirements of the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- |
 |:---|:---|
@@ -1100,7 +1234,9 @@ This is to verify that the Ship Recycling Facility has implemented management sy
 | --- |
 |  *(Seal or stamp of the authority, as appropriate)*   |
 
-####Supplement to: Document of Authorization to undertake Ship Recycling (DASR) in accordance with the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009
+#### Supplement to: Document of Authorization to undertake Ship Recycling (DASR) in accordance with the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 Notes: 
 
@@ -1118,7 +1254,7 @@ Notes:
 
 ####Requirements of the Convention
 
-The Ship Recycling Facility meets the requirements that it be designed, constructed, and operated in a safe and environmentally sound manner in accordance with the Convention, including meeting the relevant requirements of: Regulation 16 – Authorization of Ship Recycling Facilities Regulation 17 – General requirements Regulation 18 – Ship Recycling Facility Plan Regulation 19 – Prevention of adverse effects to human health and the environment Regulation 20 – Safe and environmentally sound management of Hazardous Materials Regulation 21 – Emergency preparedness and response Regulation 22 – Worker safety and training Regulation 23 – Reporting on incidents, accidents, occupational diseases and chronic effects Regulation 24 – Initial notification and reporting requirements Regulation 25 – Reporting upon completion These requirements are imposed on the Ship Recycling Facility by way of  
+The Ship Recycling Facility meets the requirements that it be designed, constructed, and operated in a safe and environmentally sound manner in accordance with the Convention, including meeting the relevant requirements of:  Regulation 16 – Authorization of Ship Recycling Facilities  Regulation 17 – General requirements  Regulation 18 – Ship Recycling Facility Plan  Regulation 19 – Prevention of adverse effects to human health and the environment  Regulation 20 – Safe and environmentally sound management of Hazardous Materials  Regulation 21 – Emergency preparedness and response  Regulation 22 – Worker safety and training  Regulation 23 – Reporting on incidents, accidents, occupational diseases and chronic effects  Regulation 24 – Initial notification and reporting requirements  Regulation 25 – Reporting upon completion These requirements are imposed on the Ship Recycling Facility by way of  
 
 | --- | --- |
 |:---|:---|
@@ -1131,25 +1267,25 @@ The Ship Recycling Facility meets the requirements that it be designed, construc
 
 ####Acceptance of ships
 
-For ships to which the Convention applies and ships treated similarly pursuant to Article 3.4 of the Convention, the Ship Recycling Facility can only accept a ship for recycling in accordance with regulation 17 of the Annex to the Convention.  
+For ships to which the Convention applies and ships treated similarly pursuant to Article 3.4 of the Convention, the Ship Recycling Facility can only accept a ship for recycling in accordance with regulation 17 of the Annex to the Convention. 
 
 ### 1.3  
 
 ####Safe-for-hot work and Safe-for-entry conditions
 
-The Ship Recycling Facility is capable of establishing, maintaining and monitoring Safe-for-hot work and Safe-for-entry conditions throughout the Ship Recycling process.  
+The Ship Recycling Facility is capable of establishing, maintaining and monitoring Safe-for-hot work and Safe-for-entry conditions throughout the Ship Recycling process. 
 
 ### 1.4  
 
 ####Management of Hazardous Materials
 
-The Ship Recycling Facility is designed, constructed, operated, and required to ensure that all Hazardous Materials’ management shall be safe and environmentally sound in compliance with the Convention and with all relevant local or national regulations/requirements.  
+The Ship Recycling Facility is designed, constructed, operated, and required to ensure that all Hazardous Materials’ management shall be safe and environmentally sound in compliance with the Convention and with all relevant local or national regulations/requirements. 
 
 ### 1.5  
 
 ####Map and location of Ship Recycling operations
 
-A map of the boundary of the Ship Recycling Facility and the location of Ship Recycling operations within it, is attached.  
+A map of the boundary of the Ship Recycling Facility and the location of Ship Recycling operations within it, is attached. 
 
 ### 2  
 
@@ -1188,7 +1324,7 @@ The Ship Recycling Facility is authorized to accept a ship for recycling that co
 | Polybrominated Diphenyl Ethers (PBDEs)  | --- | --- | --- | --- |
 | Polychlorinated Naphthalenes (more than 3 chlorine atoms)  | --- | --- | --- | --- |
 | Radioactive substances  | --- | --- | --- | --- |
-| Certain Shortchain Chlorinated Paraffins (Alkanes, C <sub>10</sub> -C <sub>13</sub>, chloro)  | --- | --- | --- | --- |
+| Certain Shortchain Chlorinated Paraffins (Alkanes, C<sub>10</sub>-C<sub>13</sub>, chloro)  | --- | --- | --- | --- |
 | Hazardous liquids, residues and sediments  | --- | --- | --- | --- |
 | Paints and coatings that are highly flammable and/or lead to toxic release  | --- | --- | --- | --- |
 | Other Hazardous Materials not listed above and that are not a part of the ship structure (specify)  | --- | --- | --- | --- |
@@ -1199,11 +1335,13 @@ a. incineration of Hazardous Materials;
 
 b. reclamation of Hazardous Materials; and  
 
-c. treatment of oily residues.   *2. If Yes (Y), indicate in the Ship Recycling Facility Plan the responsible personnel authorized to carry out the removal, with the certificate number or other relevant information. *3. If No (N), describe in the Ship Recycling Plan where the Hazardous Materials are to be processed/disposed. *4 These Hazardous Materials are specified in Appendices 1 and 2 and regulation 20 of the Convention.  
+c. treatment of oily residues.   *2. If Yes (Y), indicate in the Ship Recycling Facility Plan the responsible personnel authorized to carry out the removal, with the certificate number or other relevant information. *3. If No (N), describe in the Ship Recycling Plan where the Hazardous Materials are to be processed/disposed. *4 These Hazardous Materials are specified in Appendices 1 and 2 and regulation 20 of the Convention. 
 
 ### Appendix  6  
 
 ####Form of Report of Planned Start of Ship Recycling
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -1251,6 +1389,8 @@ c. treatment of oily residues.   *2. If Yes (Y), indicate in the Ship Recycling 
 
 ####Form of the Statement of Completion of Ship Recycling
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 | --- | --- |
 |:---|:---|
 | STATEMENT OF COMPLETION OF SHIP RECYCLING  |
@@ -1261,6 +1401,8 @@ c. treatment of oily residues.   *2. If Yes (Y), indicate in the Ship Recycling 
 |  *(Name of the ship when it was received for recycling/at the point of deregistration)*   |
 
 ####Particulars of the Ship as received for recycling
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- |
 |:---|:---|
