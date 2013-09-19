@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Economische Zaken van 2 april 2013, nr. WJZ / 13052618, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de ACM (Besluit mandaat, volmacht en machtiging ACM)
 
 De Minister van Economische Zaken,  
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht;
 
 Gezien de schriftelijke instemming van de Autoriteit Consument en Markt;
 Besluit:    
@@ -14,15 +14,15 @@ In dit besluit wordt verstaan onder:
 
 a. *de minister:* de Minister van Economische Zaken;  
 
-b. *de ACM:* de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+b. *de ACM:* de Autoriteit Consument en Markt als bedoeld in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
-c. *het lid:* het lid van de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+c. *het lid:* het lid van de Autoriteit Consument en Markt als bedoeld in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
 d. *P&O-aangelegenheden:* aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;  
 
-e. *het BBRA:* het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+e. *het BBRA:* het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984;  
 
-f. *het ARAR:* het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+f. *het ARAR:* het Algemeen Rijksambtenarenreglement;  
 
 g. *de EG concentratieverordening:*Verordening (EG) nr. 139/2004 van de Raad van 20 januari 2004 betreffende de controle op concentraties van ondernemingen (PbEU L 24/14).    
 
@@ -30,13 +30,15 @@ g. *de EG concentratieverordening:*Verordening (EG) nr. 139/2004 van de Raad van
 
 1.  Aan de ACM wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met: 
 
-a. de [artikelen 4a, eerste lid, onderdeel c](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), voor zover het de netwerkcapaciteit betreft en onderdeel d, [68, tweede lid](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [78, eerste, tweede en derde lid](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [85, derde lid](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95d, eerste lid](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), [95e](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [95f, eerste lid van de Elektriciteitswet 1998](../../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
+a. de artikelen 4a, eerste lid, onderdeel c, voor zover het de netwerkcapaciteit betreft en onderdeel d, 68, tweede lid, 78, eerste, tweede en derde lid, 85, derde lid, 95d, eerste lid, 95e en 95f, eerste lid van de Elektriciteitswet 1998;  
 
-b. de [artikelen 1h, eerste lid](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [40, tweede lid](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [45, eerste lid](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [46](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [47, eerste lid](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), [52a, eerste lid, onderdelen d](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), voor zover het niet de kwaliteit en de staat van onderhoud van het landelijk gastransportnet betreft, f en i, [64, derde lid](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), en [83 van de Gaswet](../../../../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
+b. de artikelen 1h, eerste lid, 40, tweede lid, 45, eerste lid, 46, 47, eerste lid, 52a, eerste lid, onderdelen d, voor zover het niet de kwaliteit en de staat van onderhoud van het landelijk gastransportnet betreft, f en i, 64, derde lid, en 83 van de Gaswet;  
 
-c. [artikel 3, eerste, tweede, derde en zesde lid van het Besluit leveringszekerheid Gaswet](../../../../../../../../../../../AMvB/besluit/leveringszekerheid/gaswet/BWBR0016605/README.md);  
+c. artikel 3, eerste, tweede, derde en zesde lid van het Besluit leveringszekerheid Gaswet;  
 
-d. [artikel 2, eerste, tweede, derde en zesde lid van het Besluit leveringszekerheid Elektriciteitswet 1998](../../../../../../../../../../../AMvB/besluit/leveringszekerheid/elektriciteitswet/1998/BWBR0019567/README.md).     
+d. artikel 2, eerste, tweede, derde en zesde lid van het Besluit leveringszekerheid Elektriciteitswet 1998;  
+
+e. de artikelen V, zesde en zevende lid en VI, zesde en zevende lid, van de Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas).     
 
 ### Artikel  3  
 
@@ -57,25 +59,25 @@ Aan de ACM wordt mandaat en machtiging verleend voor het behandelen van bezwaar-
 
 a. beslissingen op bezwaarschriften inzake personeelsaangelegenheden;  
 
-b. het verlenen van ontslag op grond van [artikel 99 van het ARAR](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het verlenen van ontslag in combinatie van een financiële regeling;  
+b. het verlenen van ontslag op grond van artikel 99 van het ARAR en het verlenen van ontslag in combinatie van een financiële regeling;  
 
-c. besluiten ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, respectievelijk kandidaten voor functies, waarvoor die salarisschalen gelden, inhoudende: 
+c. besluiten ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van bijlage B van het BBRA geldt, respectievelijk kandidaten voor functies, waarvoor die salarisschalen gelden, inhoudende: 
 
 1°. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste en tijdelijke aanstellingen van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;  
 
-2°. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationaalrechtelijke volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten behoeve van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;  
+2°. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationaalrechtelijke volkenrechtelijke organisatie op grond van artikel 34 van het ARAR ten behoeve van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;  
 
-3°. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+3°. het opleggen van disciplinaire straffen op grond van artikel 81 van het ARAR;  
 
-4°. het schorsen van een ambtenaar op basis van [artikel 91 van het ARAR](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+4°. het schorsen van een ambtenaar op basis van artikel 91 van het ARAR;  
 
-5°. het verminderen van de bezoldiging tijdens schorsing op basis van [artikel 92 van het ARAR](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+5°. het verminderen van de bezoldiging tijdens schorsing op basis van artikel 92 van het ARAR;  
 
 6°. het bevorderen naar een hogere salarisschaal van ambtenaren werkzaam bij de directie bedrijfsvoering van de ACM;  
 
 7°. het beslissen omtrent toekennen van een terugkeergarantie;  
 
-8°. het nemen van besluiten omtrent schadeloosstellingen boven een bedrag van € 10.000 op grond van [artikel 69 van het ARAR](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+8°. het nemen van besluiten omtrent schadeloosstellingen boven een bedrag van € 10.000 op grond van artikel 69 van het ARAR;  
 
 9°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.       
 
@@ -97,7 +99,7 @@ Het krachtens mandaat, volmacht of machtiging ondertekenen van stukken geschiedt
 
 ### Artikel  10  
 
-Het [Besluit mandaat, volmacht en machtiging raad van bestuur van de Nederlandse Mededingingsautoriteit](../../../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/raad/van/bestuur/van/de/nederlandse/etc/BWBR0018529/README.md) wordt ingetrokken.  
+Het Besluit mandaat, volmacht en machtiging raad van bestuur van de Nederlandse Mededingingsautoriteit wordt ingetrokken.  
 
 ### Artikel  11  
 

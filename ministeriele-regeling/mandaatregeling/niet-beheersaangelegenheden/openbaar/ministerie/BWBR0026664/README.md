@@ -3,18 +3,18 @@
 ##Regeling van de Minister van Justitie van 9 november 2009, nr. 5602920/09, houdende verlening van mandaat, volmacht en machtiging aan de secretaris-generaal van het Ministerie van Justitie en het College van procureurs-generaal ten aanzien van aangelegenheden van het openbaar ministerie die niet het beheer van het openbaar ministerie betreffen (Mandaatregeling niet-beheersaangelegenheden openbaar ministerie)
 
 De Minister van Justitie,  
-Gelet op de [artikelen 10:3](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [10:9, eerste lid](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [10:12 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 10:3, 10:9, eerste lid, en 10:12 van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. *minister:* de Minister van Justitie;  
+a. *minister:* de Minister van Veiligheid en Justitie;  
 
 b. *mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;  
 
-c. *secretaris-generaal:* de secretaris-generaal van het Ministerie van Justitie;  
+c. *secretaris-generaal:* de secretaris-generaal van het Ministerie van Veiligheid en Justitie;  
 
 d. *College:* het College van procureurs-generaal.     
 2.  Deze regeling heeft geen betrekking op aangelegenheden die het beheer van het openbaar ministerie betreffen.   
@@ -23,17 +23,17 @@ d. *College:* het College van procureurs-generaal.
 
 1.  Aan de secretaris-generaal wordt mandaat verleend tot: 
 
-a. het beslissen op bezwaarschriften of op verzoeken als bedoeld in [artikel 7:1a, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ten aanzien van besluiten die het College krachtens mandaat heeft genomen;  
+a. het beslissen op bezwaarschriften of op verzoeken als bedoeld in artikel 7:1a, eerste lid, van de Algemene wet bestuursrecht ten aanzien van besluiten die het College krachtens mandaat heeft genomen;  
 
 b. de behandeling van klachten die gedragingen van het College of leden daarvan betreffen;  
 
-c. het beslissen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), indien inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben,  
+c. het beslissen op verzoeken op grond van de Wet openbaarheid van bestuur;  
 
 d. het nemen van besluiten en het verrichten van andere handelingen, voortvloeiend uit aangelegenheden die de Nationale ombudsman betreffen, behoudens in het geval de strekking daarvan is dat: 
 
 – aan een aanbeveling van de Nationale ombudsman geen gevolg wordt gegeven; of  
 
-– een verbod wordt gegeven als bedoeld in [artikel 14 van de Wet Nationale ombudsman](../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md).       
+– een verbod wordt gegeven als bedoeld in artikel 14 van de Wet Nationale ombudsman.       
 2.  De secretaris-generaal wordt toegestaan om ten aanzien van het krachtens het eerste lid, onder a tot en met c verleende mandaat, ondermandaat te verlenen aan onder hem ressorterende functionarissen.   
 
 ### Artikel  3  
@@ -60,9 +60,7 @@ a. de bevoegdheid tot het nemen van besluiten die zijn neergelegd in een documen
 
 – stukken naar aanleiding van pogingen van de Nationale ombudsman om ter vermijding van een volledig onderzoek te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies);      
 
-b. de behandeling van klachten die gedragingen van het College of leden daarvan betreffen.  
-
-c. het beslissen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), indien inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben.    
+b. de behandeling van klachten die gedragingen van het College of leden daarvan betreffen.    
 
 ### Artikel  4  
 
@@ -75,52 +73,53 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 ### Artikel  6  
 
-1.  Ondermandaat door het College tot het nemen van besluiten op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) kan uitsluitend worden verleend aan: 
+1.  Ondermandaat door het College tot het nemen van besluiten op verzoeken op grond van de Wet openbaarheid van bestuur, de behandeling van en beslissing op bezwaarschriften tegen voornoemde besluiten en daarmee samenhangende beslissingen met betrekking tot de verschuldigdheid en de hoogte van een dwangsom wegens niet tijdig beslissen in de zin van artikelen 4:17 en 4:18 van de Algemene wet bestuursrecht kan uitsluitend worden verleend aan: 
 
-a. de hoofden van de arrondissementsparketten;  
+a. de hoofden van de parketten;  
 
-b. het hoofd van het landelijk parket;  
+b. het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal;  
 
-c. het hoofd van het functioneel parket;  
+c. de directeur van de Dienstverleningsorganisatie Openbaar Ministerie;  
 
-d. de hoofden van de ressortsparketten;  
+d. de directeur van de Centrale Verwerking Openbaar Ministerie;  
 
-e. het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal;  
+e. de directeur van de Rijksrecherche; en  
 
-f. het hoofd van het bureau verkeershandhaving;  
-
-g. de directeur van het bureau ontnemingen openbaar ministerie;  
-
-h. de directeur van de Dienstverleningsorganisatie Openbaar Ministerie;  
-
-i. de directeur van de Centrale Verwerking Openbaar Ministerie;  
-
-j. de directeur van de Rijksrecherche;  
-
-k. de directeur van het wetenschappelijk bureau van het openbaar ministerie.     
-2.  De in het eerste lid bedoelde functionarissen kunnen het ondermandaat slechts aan onder hen ressorterende ambtenaren doorgeven voor zover het standaardbeslissingen betreft.   
+f. de directeur van het wetenschappelijk bureau van het openbaar ministerie.     
+2.  De in het eerste lid onder a, en onder c tot en met f bedoelde functionarissen kunnen het ondermandaat slechts aan onder hen ressorterende ambtenaren doorgeven voor zover het standaardbeslissingen betreft.   
 
 ### Artikel  7  
 
-Ondermandaat door het College ten aanzien van: 
+1.  Ondermandaat door het College ten aanzien van de behandeling van en beslissing op beroepschriften tegen de in artikel 6, lid 1, bedoelde bezwaarschriften kan worden verleend aan: 
 
-a. de behandeling van en beslissing op bezwaar- en beroepschriften;  
+a. het hoofd van de afdeling Bestuurlijk en Juridische Zaken;  
 
-b. de behandeling van en beslissing op gerechtelijke en buitengerechtelijke verzoeken om schadevergoeding in verband met strafvorderlijk of ander optreden dat aan het openbaar ministerie wordt toegerekend;  
-
-c. het verlenen van toestemming als bedoeld in [artikel 4:7, eerste lid, onderdeel a, van het Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md);   kan uitsluitend worden verleend aan het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal, die dit ondermandaat slechts één hiërarchisch niveau verder kan doorgeven.  
+b. de directeur van de Centrale Verwerking Openbaar Ministerie voor zover het gaat om beroepschriften in zaken die de Centrale Verwerking Openbaar Ministerie betreffen en die betrekking hebben op de Wet openbaarheid van bestuur en de verschuldigdheid en de hoogte van een dwangsom wegens niet tijdig beslissen in de zin van artikelen 4:17 en 4:18 van de Algemene wet bestuursrecht.     
+2.  De in het eerste lid, onder b genoemde functionaris kan het ondermandaat voor de behandeling van beroepschriften en het optreden ter zitting doorgeven aan onder hem ressorterende medewerkers die met die taak zijn belast.   
 
 ### Artikel  8  
 
-Ondermandaat door het College ten aanzien van een schadezaak op grond van de [Aanwijzing Schade Niet-Voegen](../../../../../../beleidsregel/aanwijzing/schade/niet-voegen/BWBR0024293/README.md) of de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../wet/wet/mulder/BWBR0004581/README.md) kan uitsluitend worden verleend aan de in artikel 6, eerste lid, onder a, b, c, d, e, f en i bedoelde functionarissen, die dit ondermandaat slechts één hiërarchisch niveau verder kunnen doorgeven.  
+Ondermandaat door het College ten aanzien van: 
+
+a. de behandeling van en beslissing op gerechtelijke en buitengerechtelijke verzoeken om schadevergoeding in verband met strafvorderlijk of ander optreden dat aan het openbaar ministerie wordt toegerekend;  
+
+b. het verlenen van toestemming als bedoeld in artikel 4:7, eerste lid, onder a, van het Besluit politiegegevens;   kan worden verleend aan het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal, die dit ondermandaat slechts één hiërarchisch niveau verder kan doorgeven.  
+
+### Artikel  8a  
+
+Ondermandaat door het College ten aanzien van: 
+
+a. een schadezaak op grond van de Aanwijzing Schade Niet-Voegen of de Wet administratiefrechtelijke handhaving verkeersvoorschriften;  
+
+b. de behandeling van en beslissing op buitengerechtelijke verzoeken om schadevergoeding tot en met € 10.000,– in verband met strafvorderlijk of ander optreden dat aan het openbaar ministerie kan worden toegerekend;   kan worden verleend aan de in artikel 6, eerste lid, onder a en d, bedoelde functionarissen, die dit ondermandaat slechts één hiërarchisch niveau verder kunnen doorgeven.  
 
 ### Artikel  9  
 
-Het College rapporteert tenminste éénmaal per jaar aan de minister over de uitvoering van krachtens mandaat genomen beslissingen inzake het verlenen van toestemming als bedoeld in [artikel 4:7, eerste lid, onderdeel a, van het Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md). Hiertoe registreert het College de gedurende het kalenderjaar bij het openbaar ministerie ingediende verzoeken en de daarop genomen beslissingen. Het rapport van het College bevat geen gegevens die tot individuele personen herleidbaar zijn.  
+Het College rapporteert tenminste éénmaal per jaar aan de minister over de uitvoering van krachtens mandaat genomen beslissingen inzake het verlenen van toestemming als bedoeld in artikel 4:7, eerste lid, onderdeel a, van het Besluit politiegegevens. Hiertoe registreert het College de gedurende het kalenderjaar bij het openbaar ministerie ingediende verzoeken en de daarop genomen beslissingen. Het rapport van het College bevat geen gegevens die tot individuele personen herleidbaar zijn.  
 
 ### Artikel  10  
 
-Vóór het tijdstip van inwerkingtreding van deze regeling genomen besluiten waarin in de [Regeling OM-mandaat Wob](../../../../../../ministeriele-regeling/regeling/om-mandaat/wob/BWBR0022432/README.md), de [Regeling machtiging klachtbehandeling College van procureurs-generaal 2003](../../../../../../ministeriele-regeling/regeling/machtiging/klachtbehandeling/college/van/procureurs-generaal/2003/BWBR0014735/README.md) en de [Regeling machtiging klachtbehandeling Rijksrecherche](../../../../../../ministeriele-regeling/regeling/machtiging/klachtbehandeling/rijksrecherche/BWBR0020330/README.md) verleende mandaten verder zijn doorgegeven, blijven van kracht voor zover zij niet strijd zijn met het bepaalde bij of krachtens deze regeling, totdat op grond van deze regeling is voorzien in ondermandaat of het betrokken besluit wordt ingetrokken.  
+Vóór het tijdstip van inwerkingtreding van deze regeling genomen besluiten waarin in de Regeling OM-mandaat Wob, de Regeling machtiging klachtbehandeling College van procureurs-generaal 2003 en de Regeling machtiging klachtbehandeling Rijksrecherche verleende mandaten verder zijn doorgegeven, blijven van kracht voor zover zij niet strijd zijn met het bepaalde bij of krachtens deze regeling, totdat op grond van deze regeling is voorzien in ondermandaat of het betrokken besluit wordt ingetrokken.  
 
 ### Artikel  11  
 
@@ -134,11 +133,11 @@ b. machtiging om in naam van de minister handelingen te verrichten die noch een 
 
 Ingetrokken worden: 
 
-a. de [Regeling OM-mandaat Wob](../../../../../../ministeriele-regeling/regeling/om-mandaat/wob/BWBR0022432/README.md);  
+a. de Regeling OM-mandaat Wob;  
 
-b. de [Regeling machtiging klachtbehandeling College van procureurs-generaal 2003](../../../../../../ministeriele-regeling/regeling/machtiging/klachtbehandeling/college/van/procureurs-generaal/2003/BWBR0014735/README.md);  
+b. de Regeling machtiging klachtbehandeling College van procureurs-generaal 2003;  
 
-c. de [Regeling machtiging klachtbehandeling Rijksrecherche](../../../../../../ministeriele-regeling/regeling/machtiging/klachtbehandeling/rijksrecherche/BWBR0020330/README.md).    
+c. de Regeling machtiging klachtbehandeling Rijksrecherche.    
 
 ### Artikel  13  
 
