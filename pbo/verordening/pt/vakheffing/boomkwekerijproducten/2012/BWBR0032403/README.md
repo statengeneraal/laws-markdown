@@ -3,7 +3,7 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 14 november 2011, houdende regels ter zake van de aan de onder het Productschap Tuinbouw ressorterende ondernemers in de sector boomkwekerijproducten op te leggen heffing (Verordening PT vakheffing boomkwekerijproducten 2012)
 
 HET BESTUUR VAN HET PRODUCTSCHAP TUINBOUW,  
-gelet op [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en gelet op de [artikelen 13](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op artikelen 95 en 126 van de Wet op de bedrijfsorganisatie, en gelet op de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Sectorcommissie voor boomkwekerijproducten, d.d. 25 oktober 2011;
 BESLUIT:     
@@ -16,7 +16,7 @@ BESLUIT:
 In deze verordening en de daarop berustende bepalingen wordt verder verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | bestuur  | :  | het bestuur van het Productschap Tuinbouw;  |
 | b.  | boomkwekerijproducten  | :  | winterharde en half-winterharde houtgewassen, die niet vervroegd of verlaat zijn, alsmede delen daarvan en voorts vaste planten en wortelstokken;  |
 | c.  | heffingsgrondslag  | :  | het verkoopbedrag van de in een kalenderjaar verhandelde en afgeleverde boomkwekerijproducten, verminderd met het inkoopbedrag van de in hetzelfde kalenderjaar ingekochte boomkwekerijproducten. Op dit verschil kunnen in mindering worden gebracht:    1.  de vrachtkosten     2.  de daadwerkelijk niet ontvangen bedragen die afgeschreven zijn in de administratie;      |
@@ -44,18 +44,10 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 ### Artikel  3  
 
-1.  De heffing die de ondernemer is verschuldigd, bestaat uit een basisheffing van € 60, vermeerderd met de som van het bedrag dat wordt verkregen na toepassing van de hierna genoemde heffingspercentages op de bijbehorende schijf van de heffingsgrondslag.  
-
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| a.  | van € 0 tot en met € 900.000  | :  | 0,52%;  |
-| b.  | vanaf €900.000 tot en met € 1.800.000  | :  | 0,40%;  |
-| c.  | vanaf € 1.800.000  | :  | 0,24%.  |
-
+1.  De heffing die de ondernemer is verschuldigd bedraagt € 0,00.   
 2.  Een negatieve heffingsgrondslag leidt tot een nota gelijk aan € 0,-.   
 3.  Voor de toepassing van het eerste lid kan een positieve heffingsgrondslag worden verrekend met een negatieve heffingsgrondslag over het voorafgaande kalenderjaar.   
 4.  Een heffing lager dan € 125,- wordt niet opgelegd.   
-5.  De over 2012 maximaal te betalen heffing bedraagt € 13.382,-. Dit bedrag wordt jaarlijks aangepast aan de hand van de jaarmutatie voorafgaand aan het jaar waarover de heffing wordt opgelegd.   
 
 ### §  4  
 
@@ -68,7 +60,7 @@ In deze verordening en de daarop berustende bepalingen wordt verder verstaan ond
 
 ### Artikel  5  
 
-Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de [Verordening PT vakheffing aanbod bloemkwekerijproducten 2012](../../../../../../../pbo/verordening/pt/vakheffing/aanbod/bloemkwekerijproducten/2012/BWBR0031213/README.md) of de Verordening PT vakheffing handel bloemkwekerijproducten 2012, worden deze bedragen aangemerkt als voorschotten op de ingevolge artikelen 2 en 3 verschuldigde heffing.  
+Indien en voor zover de ondernemer via bloemenveilingen boomkwekerijproducten heeft verhandeld in het kalenderjaar waarover de heffing wordt opgelegd, en door de veiling bedragen zijn ingehouden met toepassing van het bepaalde in de Verordening PT vakheffing aanbod bloemkwekerijproducten 2012 of de Verordening PT vakheffing handel bloemkwekerijproducten 2012, worden deze bedragen aangemerkt als voorschotten op de ingevolge artikelen 2 en 3 verschuldigde heffing.  
 
 ### Artikel  6  
 

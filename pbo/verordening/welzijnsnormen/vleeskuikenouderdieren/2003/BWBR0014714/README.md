@@ -3,7 +3,7 @@
 ##Verordening welzijnsnormen vleeskuikenouderdieren 2003
 
 Het Bestuur van het Productschap Pluimvee en Eieren heeft,  
-gelet op de [artikelen 93, eerste lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [102 van de Wet op de Bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de artikelen 5, 6, 7 en 8 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I,
+gelet op de artikelen 93, eerste lid, 95 en 102 van de Wet op de Bedrijfsorganisatie en de artikelen 5, 6, 7 en 8 van de Instellingsverordening Productschap Pluimvee en Eieren 1998-I,
 op 13 februari 2003 vastgesteld de navolgende VERORDENING    
 
 ### Artikel  1  
@@ -11,19 +11,20 @@ op 13 februari 2003 vastgesteld de navolgende VERORDENING
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | Productschap Pluimvee en Eieren;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | pluimveehouder  | :  | de ondernemer die vleeskuikens of vleeskuikenouderdieren houdt;  |
 | d.  | vleeskuikenouderdieren  | :  | kippen met een leeftijd van 22 weken of ouder, die bestemd zijn voor de productie van broedeieren ter verkrijging van vleeskuikens;  |
 | e.  | opfokvleeskuikenouderdieren  | :  | kippen met een leeftijd van 21 weken of jonger, die bestemd zijn voor de productie van broedeieren ter verkrijging van vleeskuikens;  |
-| f.  | vleeskuikens  | :  | kippen die kennelijk bestemd zijn voor de menselijke consumptie;  |
-| g.  | koppel  | :  | een groep vleeskuikenouderdieren die in één stal wordt gehouden en waarvan de hennen onderling maximaal zeven dagen in leeftijd verschillen;  |
-| h.  | vloeroppervlakte  | :  | de horizontale oppervlakte van de bodem van de ruimte die voor vleeskuikenouderdieren vrij beschikbaar is, alsmede de oppervlakte van eventuele plateaus;  |
-| i.  | plateau  | :  | horizontale houten of kunststoffen vlonder waar geen mest door kan vallen en die ten minste 35 cm boven de bodem van de voor vleeskuikenouderdieren vrij beschikbare ruimte is aangebracht;  |
-| j.  | legnest  | :  | afgescheiden ruimte die is ingericht voor het leggen van eieren;  |
-| k.  | strooisel  | :  | houtkrullen, zaagsel, stro, zand, turf of ander materiaal, waarin vleeskuikenouderdieren kunnen stofbaden, scharrelen en bodempikken;  |
-| l.  | uitval  | :  | de dieren die, anders dan voor normale verkoop, buiten de stal worden gebracht.  |
+| f.  | minivleeskuikenouderdieren  | :  | vleeskuikenouderdieren van een koppel waarvan de hennen een eindgewicht van ten hoogste 2,4 kilogram bereiken;  |
+| g.  | vleeskuikens  | :  | kippen die kennelijk bestemd zijn voor de menselijke consumptie;  |
+| h.  | koppel  | :  | een groep vleeskuikenouderdieren die in één stal wordt gehouden en waarvan de hennen onderling maximaal zeven dagen in leeftijd verschillen;  |
+| i.  | vloeroppervlakte  | :  | de horizontale oppervlakte van de bodem van de ruimte die voor vleeskuikenouderdieren vrij beschikbaar is, alsmede de oppervlakte van eventuele plateaus;  |
+| j.  | plateau  | :  | horizontale houten of kunststoffen vlonder waar geen mest door kan vallen en die ten minste 35 cm boven de bodem van de voor vleeskuikenouderdieren vrij beschikbare ruimte is aangebracht;  |
+| k.  | legnest  | :  | afgescheiden ruimte die is ingericht voor het leggen van eieren;  |
+| l.  | strooisel  | :  | houtkrullen, zaagsel, stro, zand, turf of ander materiaal, waarin vleeskuikenouderdieren kunnen stofbaden, scharrelen en bodempikken;  |
+| m.  | uitval  | :  | de dieren die, anders dan voor normale verkoop, buiten de stal worden gebracht.  |
 
 ####Administratie
 
@@ -58,7 +59,7 @@ f. eventuele calamiteiten.
 
 De huisvesting van vleeskuikenouderdieren dient tenminste te voldoen aan de volgende voorwaarden: 
 
-a. per vleeskuikenouderdier is een vloeroppervlakte van tenminste 1300 cm <sup>2</sup> beschikbaar;  
+a. met uitzondering van minivleeskuikenouderdieren, is per vleeskuikenouderdier een vloeroppervlakte van tenminste 1300 cm <sup>2</sup> beschikbaar; per minivleeskuikenouderdier is een vloeroppervlakte van tenminste 1200 cm <sup>2</sup> beschikbaar;  
 
 b. tenminste 300 cm <sup>2</sup> van de onder a. bedoelde vloeroppervlakte is bedekt met strooisel;  
 
@@ -82,7 +83,8 @@ De lengte van de voor de vleeskuikenouderdieren toegankelijke kant of kanten van
 
 ### Artikel  5a  
 
-Vleeskuikenouderdieren en opfokvleeskuikenouderdieren worden dagelijks voorzien van voldoende voer en water van goede kwaliteit.  
+1.  Vleeskuikenouderdieren en opfokvleeskuikenouderdieren worden dagelijks voorzien van voldoende voer en water van goede kwaliteit.   
+2.  Onverminderd het eerste lid, hebben minivleeskuikenouderdieren permanent de beschikking over ruwvoer. Onder ruwvoer wordt verstaan: luzerne, snijmaissillage of daarmee vergelijkbaar voer.   
 
 ####Nadere regels
 
@@ -122,7 +124,7 @@ d. te gedogen dat controleurs van de door het bestuur aangewezen dienst of de do
 
 ### Artikel  8  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ####Gegevensverstrekking
 
@@ -133,20 +135,7 @@ Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtre
 
 ####Ontheffing
 
-### Artikel  10  
-
-1.  Artikel 4, aanhef en onderdeel a., alsmede onderdeel e. voor zover dit betrekking heeft op de minimaal vereiste hoogte, is niet van toepassing voor vleeskuikenouderdieren die vóór 1 juni 2008 worden geboren.   
-2.  Artikel 4, aanhef en onderdeel b. is niet van toepassing voor een periode van tien jaar na inwerkingtreding van deze verordening, voor zover het een huisvestingssysteem betreft waarvan de gebruiker kan aantonen dat deze op het moment van inwerkingtreding van deze verordening reeds in gebruik was en nadien niet zijn verbouwd of herbouwd.   
-3.  Artikel 4, aanhef en onderdeel c. is niet van toepassing voor vleeskuikenouderdieren die vóór 1 augustus 2003 worden geboren.   
-4.  Artikel 4, aanhef onderdeel d. en onderdeel e. voor zover dit betrekking heeft op de eisen ten aanzien van het vloeroppervlak, is niet van toepassing voor een periode van drie jaar na inwerkingtreding van deze verordening, voor zover het een huisvestingssysteem betreft waarvan de gebruiker kan aantonen dat deze op het moment van inwerkingtreding van deze verordening reeds in gebruik was en nadien niet zijn verbouwd of herbouwd.   
-
-### Artikel  10a  
-
-1.  Op verzoek van de pluimveehouder kan door de voorzitter ontheffing worden verleend van het bepaalde in artikel 4, aanhef en onderdeel a., alsmede onderdeel e. voor zover dit betrekking heeft op de minimaal vereiste hoogte en voor zover het een huisvestingssysteem betreft waarvan de gebruiker kan aantonen dat deze op het moment van inwerkingtreding van deze verordening reeds in gebruik was en nadien niet is verbouwd of herbouwd.   
-2.  De ontheffing is geldig uiterlijk tot 1 januari 2010.   
-3.  De pluimveehouder die aantoont dat de vergunning, zoals vereist op de voet van de [Wet ammoniak en veehouderij](../../../../../../wet/wet/ammoniak/en/veehouderij/BWBR0013402/README.md), vanwege de vereiste huisvestingsaanpassingen niet langer voldoet en een uitbreiding van de vergunde ammoniakemissie niet wordt verkregen, kan op de voet van het eerste lid een ontheffing worden verleend die, in zoverre in afwijking van het tweede lid, geldig is uiterlijk tot 1 juni 2013.   
-4.  De ontheffing wordt verleend onder voorwaarde dat het einde van de periode, genoemd in artikel 10, tweede lid, wordt gelijkgesteld aan het moment waarop voldaan is aan artikel 4, aanhef en onderdeel a., alsmede onderdeel e. voor zover dit betrekking heeft op de minimaal vereiste hoogte.   
-5.  Aan een ontheffing kunnen voorts nadere voorschriften of voorwaarden worden verbonden. Een ontheffing kan onder beperkingen worden verleend. De ontheffing kan te allen tijde worden ingetrokken.   
+Vervallen per 22-09-2013   
 
 ####Slotbepaling
 

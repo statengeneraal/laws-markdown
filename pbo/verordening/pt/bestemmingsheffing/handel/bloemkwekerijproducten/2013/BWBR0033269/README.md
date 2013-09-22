@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een bestemmingsheffing ten behoeve van de handel in bloemkwekerijproducten voor het jaar 2013 (Verordening PT bestemmingsheffing handel bloemkwekerijproducten 2013)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid, en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor bloemkwekerijproducten d.d. 14 december 2012;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | Productschap Tuinbouw;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | voorzitter  | :  | voorzitter van het productschap;  |
@@ -35,7 +35,7 @@ Deze verordening verstaat onder:
 
 1.  De ondernemer, die handelt in bloemkwekerijproducten, is over het kalenderjaar 2013 een bestemmingsheffing verschuldigd aan het productschap volgens de in artikel 3 vermelde heffingsgrondslag met het bijbehorend tarief.   
 2.  Uit de opbrengst van de bestemmingsheffing, als bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap: Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy,Voeding & Gezondheid, Energie en CO <sup>2</sup>, Groen & Welbevinden en Arbeid.   
-3.  De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 en 5 van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).   
+3.  De bestemmingsheffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 en 5 van deze verordening en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009.   
 4.  Ter uitvoering van het bepaalde in het eerste lid doet de ondernemer desgevraagd aangifte bij het productschap van de door hem in het kalenderjaar 2013 aangekochte bloemkwekerijproducten.   
 5.  De ondernemer dient zich bij de aankoop van bloemkwekerijproducten te vergewissen van de heffingsplicht van de verkopende ondernemer over deze bloemkwekerijproducten op grond van deze verordening.   
 
@@ -50,13 +50,7 @@ Deze verordening verstaat onder:
 3.  De ondernemer die als telersvereniging kan worden aangemerkt is geen heffing verschuldigd over de aankoopwaarde van door haar leden geteeld bloemkwekerijproduct.   
 4.  De ondernemer is geen heffing verschuldigd over aangekochte bloemzaden en over aangekocht teeltmateriaal.   
 5.  De ondernemer is geen heffing verschuldigd over aangekocht bloemkwekerijproduct, waarover op basis van deze verordening een andere ondernemer wegens een voorafgaande transactie reeds een heffing verschuldigd is.   
-6.  De bestemmingsheffing, ais bedoeld in het eerste lid, wordt uitgedrukt in een percentage van de aankoopwaarde en bedraagt:  
-
-| --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
-| a.  | vanaf  | € 0,-  | tot  | € 11.000.000,-  | 0,013%  |
-| b.  | vanaf  | € 11.000.000,-  | tot  | € 50.000.000,-  | 0,009%  |
-| c.  | vanaf  | € 50.000.000,-  | --- | --- | 0,005%  |
+6.  De bestemmingsheffing, als bedoeld in het eerste lid, bedraagt € 0,00.   
 
 ### §  4  
 

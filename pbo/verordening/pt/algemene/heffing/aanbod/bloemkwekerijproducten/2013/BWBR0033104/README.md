@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing ten laste van de sector bloemkwekerij producten voor het jaar 2013 (Verordening PT algemene heffing aanbod bloemkwekerijproducten 2013)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor bloemkwekerijproducten d.d. 14 december 2012;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a. productschap  | :  | Productschap Tuinbouw;  |
 | b. bestuur  | :  | bestuur van het productschap;  |
 | c. voorzitter  | :  | voorzitter van het productschap;  |
@@ -55,7 +55,7 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  De ondernemer, die in 2013 bloemkwekerijproducten teelt of importeert, is een algemene heffing verschuldigd aan het productschap volgens de in artikel 3 vermelde heffingsgrondslag met bijbehorend tarief.   
-2.  De algemene heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 tot en met 6 van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).   
+2.  De algemene heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 tot en met 6 van deze verordening en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009.   
 3.  Ter uitvoering van artikel 4 doet de ondernemer bij het productschap desgevraagd aangifte van het door hem in het kalenderjaar 2013 verkochte zelfgekweekte bloemkwekerijproduct en van het door hem geïmporteerde bloemkwekerijproduct.   
 
 ### §  3  
@@ -66,17 +66,8 @@ In deze verordening wordt verstaan onder:
 
 1.  De heffing die de ondernemer verschuldigd is over de door hem gekweekte bloemkwekerijproducten, wordt berekend over de omzet behaald met de verkoop van zelfgeteelde bloemkwekerijproducten in het kalenderjaar 2013.   
 2.  De heffing die de ondernemer is verschuldigd over het door hem in 2013 geïmporteerd bloemkwekerijproduct, wordt berekend over de invoerwaarde van dit product.   
-3.  Het tarief van de in het eerste en tweede lid bedoelde heffing wordt uitgedrukt in een percentage van de som van de omzet en de invoerwaarde en bedraagt voor:  
-
-| --- | --- | --- |
-|:---|:---|:---|
-| a.  | siergewassen  | --- |
-| --- | van € 0 tot € 6.000.000  | 0,028%  |
-| --- | vanaf € 6.000.000  | 0,014%  |
-| b.  | hydrocultuur  | 0,013%  |
-| c.  | teeltmateriaal  | 0,01%  |
-
-4.  De heffing die de ondernemer is verschuldigd over de teelt van bloemzaden in 2013 wordt berekend over de oppervlakte van het areaal dat is gebruikt voor deze teelt en bedraagt € 0,07 per are.   
+3.  Het tarief van de in het eerste en tweede lid bedoelde heffing bedraagt voor siergewassen, hydrocultuur en teeltmateriaal € 0,00.   
+4.  De heffing die de ondernemer is verschuldigd over de teelt van bloemzaden in 2013 bedraagt € 0,00.   
 5.  Het tarief voor teeltmateriaal geldt voor de ondernemer die aantoont dat hij bij een gecertificeerde keuringsinstelling binnen de EU is geregistreerd en hij voorts het teeltmateriaal onder toezicht van die keuringsinstelling heeft verhandeld.   
 6.  De heffing als bedoeld in het tweede lid is niet verschuldigd over het geïmporteerde bloemkwekerijproduct dat wordt gebruikt voor de doorteelt binnen de eigen onderneming.   
 

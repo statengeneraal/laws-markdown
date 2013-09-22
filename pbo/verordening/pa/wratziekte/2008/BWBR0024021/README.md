@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels over maatregelen ter voorkoming van wratziekte bij aardappelen (Verordening PA wratziekte 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, en 126, tweede lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | Productschap Akkerbouw;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | dagelijks bestuur  | :  | dagelijks bestuur van het productschap;  |
@@ -36,13 +36,13 @@ Deze verordening verstaat onder:
 
 ### Artikel  2  
 
-1.  Het is de ondernemer verboden op een perceel, in daartoe in bijlage 1 onder A aangewezen gebieden, zetmeelaardappelen, als opgenomen in de [bijlage onder A van de Verordening PA aardappelteelt 2008](../../../../../../pbo/verordening/pa/aardappelteelt/2008/BWBR0024019/README.md), te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 1 onder B.   
+1.  Het is de ondernemer verboden op een perceel, in daartoe in bijlage 1 onder A aangewezen gebieden, zetmeelaardappelen, als opgenomen in de bijlage onder A van de Verordening PA aardappelteelt 2008, te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 1 onder B.   
 2. 
 a. Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder A aangewezen gebied, aardappelplanten te telen, tenzij zij behoren tot een ras, als genoemd in bijlage 2 onder C1. Voor de teelt van pootaardappelen geldt dat tevens het telen van de in bijlage 2 onder C2 vermelde rassen toegestaan is;  
 
-b. Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder B aangewezen gebied, zetmeelaardappelen, als opgenomen in de [bijlage onder A van de Verordening PA aardappelteelt 2008](../../../../../../pbo/verordening/pa/aardappelteelt/2008/BWBR0024019/README.md), te telen, tenzij zij behoren tot een ras als genoemd in bijlage 2 onder C 1.     
-3.  Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 3 onder A aangewezen gebied, aardappelplanten te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 3 onder B.   
-4.  De in het eerste, tweede en derde lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van het [Besluit bestrijding wratziekte](../../../../../../AMvB/besluit/bestrijding/wratziekte/1973/BWBR0002911/README.md) aangewezen terreinen, waarbinnen of waarop de aanwezigheid van de wratziekte of de schimmel is aangetoond of de wratziekte dreigt op te treden.   
+b. Het is de ondernemer verboden op een perceel, in een daartoe in bijlage 2 onder B aangewezen gebied, zetmeelaardappelen, als opgenomen in de bijlage onder A van de Verordening PA aardappelteelt 2008, te telen, tenzij zij behoren tot een ras als genoemd in bijlage 2 onder C 1.     
+3.  Het is de ondernemer verboden op een perceel, in daartoe in bijlage 3 onder A aangewezen gebieden, aardappelplanten te telen, tenzij zij behoren tot een ras, zoals genoemd in bijlage 3 onder B.   
+4.  De in het eerste, tweede en derde lid bedoelde gebieden betreffen niet de door de Minister van Landbouw, Natuur en Voedselkwaliteit op basis van het Besluit bestrijding wratziekte aangewezen terreinen, waarbinnen of waarop de aanwezigheid van de wratziekte of de schimmel is aangetoond of de wratziekte dreigt op te treden.   
 
 ### §  3  
 
@@ -100,37 +100,37 @@ secretaris
 
 ####Bijlage 1, onder A1:
 
-Het gebied ten oosten van Veendam, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Veendam’) Provinciale weg N963 (A), Borgercompagnieweg (B), (zand)weg (C), watergang (D), Westerbrink (E), Beneden Westerdiep (F), Prins Hendrikplein (G), Sorgvlietlaan (H), Woortmanslaan (l), Borgercompagnieweg (J), perceelsscheiding (K), Kielsterachterweg (L), Wildervanksterweg (M) en Zwarteweg (N).   ![243240](http://wetten.overheid.nl/Illustration/243240)
+Het gebied ten oosten van Veendam, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Veendam’) Provinciale weg N963 (A), Borgercompagnieweg (B), (zand)weg (C), watergang (D), Westerbrink (E), Beneden Westerdiep (F), Prins Hendrikplein (G), Sorgvlietlaan (H), Woortmanslaan (l), Borgercompagnieweg (J), perceelsscheiding (K), Kielsterachterweg (L), Wildervanksterweg (M) en Zwarteweg (N).   ![]()
 
 ####Bijlage 1, onder A2:
 
-Het gebied ten zuidoosten van Ter Apel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Ter Apel’) Markeweg (A), Hoofdkade (B), Moersloot (C), Zanddijk (D), Roswinkelerstraat (E) en Ertsstraat (F).   ![243241](http://wetten.overheid.nl/Illustration/243241)
+Het gebied ten zuidoosten van Ter Apel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Ter Apel’) Markeweg (A), Hoofdkade (B), Moersloot (C), Zanddijk (D), Roswinkelerstraat (E) en Ertsstraat (F).   ![]()
 
 ####Bijlage 1, onder A3:
 
-Het gebied rondom Foxel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Foxel`) Westelijke Doorsnee (A), Oosterdiep W.Z. (B), watergang (C), Berkenrode (D) en Verlengde Scholtenskanaal O.Z. (E).   ![243242](http://wetten.overheid.nl/Illustration/243242)
+Het gebied rondom Foxel, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Foxel`) Westelijke Doorsnee (A), Oosterdiep W.Z. (B), watergang (C), Berkenrode (D) en Verlengde Scholtenskanaal O.Z. (E).   ![]()
 
 ####Bijlage 1, onder A4:
 
-Het gebied ten noordoosten van Barger Compascuum, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Barger Compascuum’) Watergang (A), Limietweg (B), Limietweg-Oost (C), watergang (D), BRD-grens (E), (zand)weg (F), Limietweg (G), Postweg (H) en Oosterdiep O.Z. (l).   ![243243](http://wetten.overheid.nl/Illustration/243243)
+Het gebied ten noordoosten van Barger Compascuum, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Barger Compascuum’) Watergang (A), Limietweg (B), Limietweg-Oost (C), watergang (D), BRD-grens (E), (zand)weg (F), Limietweg (G), Postweg (H) en Oosterdiep O.Z. (l).   ![]()
 
 ####Bijlage 1, onder A5:
 
-Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Mantinge’) Schiphorsten (A), Heirweg (B), (zand)weg (C), K. Brokweg (D), mr. J.B. Kanweg (E), Mantingerdijk (F), heide/bos (G), perceelsscheiding (H), Steendervalsweg (l) en Wijsterseweg (J).   ![243244](http://wetten.overheid.nl/Illustration/243244)
+Het gebied ten zuidoosten van Mantinge, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Mantinge’) Schiphorsten (A), Heirweg (B), (zand)weg (C), K. Brokweg (D), mr. J.B. Kanweg (E), Mantingerdijk (F), heide/bos (G), perceelsscheiding (H), Steendervalsweg (l) en Wijsterseweg (J).   ![]()
 
 ####B. Als rassen , als bedoeld in artikel 2, eerste lid , worden aangewezen:
 
 | 10  | 9  | 8  | 7  | 6  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Andante  | Novano  | Achilles  | Plasstärke  | Festien  | Aurora  | Allure  |
 | Avarna  | Kuba  | Aventra  | Plasuno  | Karakter  | Stefano  | Annabelle  |
-| Belita  | Pallina  | Averia  | Robény  | --- | Sofista  | Starga  |
-| Django  | Panda  | Katinka  | Signum  | --- | Valiant  | --- |
-| Edelstein  | Seresta  | Merano  | Vebeca  | --- | --- | --- |
-| Gunda  | Ulme  | Plasent  | Vebesta  | --- | --- | --- |
-| Adam  | Cekin  | Plasinka  | --- | --- | --- | --- |
-| Ibis  | Stefanie  | --- | --- | --- | --- | --- |
-| Transit  | Dartiest  | --- | --- | --- | --- | --- |
+| Belita  | --- | Averia  | Robény  | Actaro  | Sofista  | Starga  |
+| Django  | Panda  | Katinka  | Signum  | Altus  | Valiant  | --- |
+| Gunda  | Seresta  | Merano  | Vebeca  | Axion  | --- | --- |
+| Adam  | Ulme  | Plasent  | Vebesta  | Supporter  | --- | --- |
+| Ibis  | Cekin  | Plasinka  | --- | --- | --- | --- |
+| Transit  | Stefanie  | --- | --- | --- | --- | --- |
+| Plasettie  | Dartiest  | --- | --- | --- | --- | --- |
 
 ### Bijlage  2  
 
@@ -147,7 +147,7 @@ De gemeenten in de provincie Overijssel voorzover niet gelegen in gebied A. De g
 C 1.  
 
 | 10  | 9  | 8  | 7  | 6  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Amanda  | Achilles  | Allure  | Albas  | Agria  |
 | Andante  | Altus  | Aveka  | Annabelle  | Amora  |
 | Avano  | Amorosa  | Energie  | Astarte  | Amyla  |
@@ -159,9 +159,9 @@ C 1.
 | Bonza  | Certo  | Kondor  | Antina  | Arizona  |
 | Delcora  | Cleopatra  | Leandra  | Eurobona  | Ostara  |
 | Django  | Desiree  | Dinky  | Fresco  | Raja  |
-| Edelstein  | Eurotango  | Mercury  | Karnico  | Realist  |
-| Eurobravo  | Festien  | Messina  | Menco  | Rumba  |
-| Gunda  | Hansa  | Nicola  | Mercator  | --- |
+| Dartiest  | Eurotango  | Mercury  | Karnico  | Realist  |
+| Eurobravo  | Festien  | Messina  | --- | Rumba  |
+| Gunda  | Hansa  | Nicola  | Mercator  | Lindita  |
 | Ikone  | Irene  | Rudolph  | Mirakel  | --- |
 | Fabiola  | Kantara  | Saturna  | Nomade  | --- |
 | Karakter  | Kuroda  | Savona  | Origo  | --- |
@@ -169,31 +169,32 @@ C 1.
 | Katinka  | Merano  | Timate  | Plasuno  | --- |
 | Kuba  | Plasandes  | Ukama  | Shannon  | --- |
 | Logo  | Plasent  | Stratos  | Stefáno  | Eigenheimer*  |
-| Miriam  | Plasstärke  | Vebesta  | Sylvana  | Gloria*  |
-| Pallina  | Progress  | --- | --- | --- |
-| Panda  | Robény  | --- | --- | --- |
-| Plasinka  | Romano  | --- | --- | --- |
-| Provento  | Sassy  | --- | --- | --- |
-| Scarlet  | Smaragd  | --- | --- | --- |
+| Transit  | Plasstärke  | Vebesta  | Sylvana  | Gloria*  |
+| --- | Progress  | Vectra  | --- | --- |
+| Panda  | Robény  | Dayana  | --- | --- |
+| Plasinka  | Romano  | Javina  | --- | --- |
+| Provento  | Sassy  | Royal  | --- | --- |
+| Scarlet  | Smaragd  | Supporter  | --- | --- |
 | Seresta  | Sofista  | --- | --- | --- |
 | Signum  | Starga  | --- | --- | --- |
 | Stemster  | Valiant  | --- | --- | --- |
-| Talent  | Vectra  | --- | --- | --- |
+| Talent  | Taurus  | --- | --- | --- |
 | Ulme  | Aviron  | --- | --- | --- |
-| Vebeca  | Taurus  | --- | --- | --- |
+| Vebeca  | Dirigent  | --- | --- | --- |
 | Adam  | --- | --- | --- | --- |
 | Cekin  | --- | --- | --- | --- |
 | Gandawa  | --- | --- | --- | --- |
 | Ibis  | --- | --- | --- | --- |
 | Plasettie  | --- | --- | --- | --- |
 | Stefanie  | --- | --- | --- | --- |
-| Transit  | --- | --- | --- | --- |
-| Dartiest  | --- | --- | --- | --- |
+| Actaro  | --- | --- | --- | --- |
+| Silla  | --- | --- | --- | --- |
+| Tivoli  | --- | --- | --- | --- |
 
 * Van deze rassen is bekend dat de veldresistentie minimaal 6 bedraagt. Een exact cijfer ontbreekt. C 2.  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 5 Elkana  | 5 Ottena  |
 | 5 Estima  | 5 Picasso  |
 | 5 Kartel  | 5 Prior  |
@@ -205,14 +206,16 @@ C 1.
 
 ### Bijlage  3  
 
-####A. Als gebied als bedoeld in artikel 2, derde lid , wordt aangewezen:
+####A. Als gebieden als bedoeld in artikel 2, derde lid , worden aangewezen:
 
-De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de Zuid Willemsvaart. De Zuid Willemsvaart in noordelijke richting tot de kruising met de N 265 in Veghel. De N 265 in noordelijke richting tot Uden. De N 603 in noordelijke richting tot de A 50 in Heesch. De A 50 in noordelijke richting tot de kruising met de Maas. De Maas in oostelijke richting tot de kruising met de spoorbrug in Mook. Vanaf de spoorbrug de N 271 in zuidelijke richting tot de Schildersweg in Plasmolen. De Schildersweg in noordelijke richting tot de Bosweg langs Sint Jansberg. De Bosweg langs Sint Jansberg tot aan de grens met Duitsland. De grens met Duitsland in zuidelijke richting tot aan de A 67 in Venlo.  
+1.  *Omschrijving gebied Venraij:*  Het gebied omsloten door de A67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de Zuid Willemsvaart. De Zuid Willemsvaart in noordelijke richting tot de kruising met de N265 in Veghel. De N265 in noordelijke richting tot Uden. De N603 in noordelijke richting tot de A50 in Heesch (gemeente Bernheze). De A50 in noordelijke richting tot de kruising met de Maas. De Maas in oostelijke richting tot de kruising met de spoorbrug in Mook (gemeente Mook en Middelaar). Vanaf de spoorbrug de N271 in zuidelijke richting tot de Schildersweg in Plasmolen (gemeente Mook en Middelaar). De Schildersweg in noordelijke richting tot de Bosweg langs Sint Jansberg. De Bosweg langs Sint Jansberg tot aan de grens met Duitsland. De grens met Duitsland in zuidelijke richting tot aan de A67 in Venlo.  
+
+2.  *Omschrijving gebied Bergeijk:*  Het gebied rondom Bergeijk, dat door België en de volgende straten is begrensd: Postelsedijk, Sleutelstraat, Weijereind, Kleine Hoeven, Ambachtsweg, De Hoeven/Rondweg (N284) bij Bladel, Lange Trekken, Molenweg/De Vloed, De Gagelvelden, Hemelrijken, Dorpsstraat in Casteren, Casterseweg, Hoofdstraat in Hoogeloon, Heuvelseweg, Heuvel, Broekenseind, Umenweg, D'ekkersrijte, Eerselseweg, Het Groen bij Knegsel, Steenselseweg, Knegselseweg, Riethovenseweg/Stevert, Nedermolen, fietspad/veldweg in zuidelijke richting en uitlopend op De Kuningen, Broekhovenseweg, Schoolstraat en Molenstraat bij Riethoven, Keersopperdreef, Dommelsedijk (N397), Monseigneur Smetstraat, Pastoor Bolsiusstraat, Venbergseweg, Luikerweg (N69), (Oude) Dorpsstraat bij Hoek, Borkel en Schaft, en De Schafterekker.    
 
 ####B. Als rassen, als bedoeld in artikel 2, derde lid , worden aangewezen:
 
 | --- |
-|:---|
+|---|
 | ACAPELLA  |
 | ACCENT  |
 | ACRONET  |
@@ -263,17 +266,14 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | ARCONA  |
 | ARIELLE  |
 | ARISTO  |
-| --- |
 | ARKULA  |
 | ARNO  |
 | AROSA  |
 | ARRAN BANNER  |
 | ARROW  |
 | ARTEMIS  |
-| ASPIRANT  |
 | ASTARTE  |
 | ASTERIX  |
-| ATICA  |
 | ATILLO  |
 | ATSONA  |
 | AUGUSTA  |
@@ -319,14 +319,14 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | BRIGHT  |
 | BRILJANT  |
 | BRONKO  |
-| BURMANIA  |
+| --- |
 | CALGARY  |
 | CALLA  |
 | CANBERRA  |
-| CANDELLA  |
+| --- |
 | CARDINAL  |
 | CARLITA  |
-| CAROLA  |
+| --- |
 | CECILE (10)  |
 | CELINE  |
 | CERTO  |
@@ -336,7 +336,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | CHARMANTE  |
 | CHRISTA  |
 | CITADEL  |
-| CIVA  |
+| --- |
 | --- |
 | CLARISSA  |
 | CLAUDIA  |
@@ -374,7 +374,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | DISCO  |
 | DITTA  |
 | DJANGO  |
-| DOLCE VITA  |
+| --- |
 | DONALD  |
 | DONNA  |
 | DORADO (10)  |
@@ -383,7 +383,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | DRAGA  |
 | DROP  |
 | EBA  |
-| EDELSTEIN  |
+| --- |
 | ELDENA  |
 | ELEMENT  |
 | ELKANA  |
@@ -429,19 +429,18 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | FRANCA  |
 | FRESCO  |
 | FRIESLANDER  |
-| FURORE  |
+| --- |
 | GALA  |
 | GARANT  |
 | GIGANT  |
 | GLORIA  |
-| GOLDIKA  |
 | Golf  |
 | Grandeur  |
 | GRATA  |
 | GUNDA  |
 | HANSA  |
 | HATIVA  |
-| HELA  |
+| --- |
 | HERCULES  |
 | HEROS  |
 | HERTHA  |
@@ -463,7 +462,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | JAERLA  |
 | JANINE  |
 | JANKE  |
-| Jazmin  |
+| --- |
 | JELLY  |
 | JESSICA  |
 | --- |
@@ -507,14 +506,14 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | LEKKERLANDER  |
 | Leonardo  |
 | LEYLA  |
-| LIBERTAS  |
+| --- |
 | LIDO  |
 | LIKARIA  |
 | LINDITA  |
-| LINNEA  |
+| --- |
 | LINZER DELIKATTESS  |
 | LINZER GELBE  |
-| LINZER ROSE  |
+| --- |
 | --- |
 | LOGITA  |
 | LOGO  |
@@ -540,7 +539,6 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | MARLEN  |
 | MASCOTTE  |
 | MAXILLA  |
-| MEERLANDER  |
 | MELANIE  |
 | MELODY  |
 | MENTOR  |
@@ -550,16 +548,13 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | MINERVA  |
 | MIRAKEL  |
 | MIRANDA  |
-| MIRIAM  |
 | MIRKA  |
 | MODENA  |
 | MOLLI  |
 | MONALISA  |
-| Monarch  |
 | MONDIAL  |
 | MONITOR  |
 | MOZART  |
-| --- |
 | MURILLO  |
 | MUSICA  |
 | MUSTANG  |
@@ -569,37 +564,25 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | NICOLA  |
 | NIKA  |
 | NIKITA  |
-| --- |
 | NOMADE  |
-| NOORDELING  |
 | NORA  |
 | NOVELLA  |
 | NOVITA  |
-| OCTAVIA  |
-| OKTAN  |
 | OLEVA  |
-| OLGA  |
-| --- |
 | OMEGA  |
 | OPERA  |
-| --- |
 | ORCHESTRA  |
 | ORIGO  |
-| ORION  |
-| --- |
 | OSTARA  |
 | OTTENA  |
 | OVATIO  |
 | PALLAS  |
-| PALLINA  |
 | PALMA  |
 | PANDA  |
 | PANDORA  |
 | PAOLA  |
 | PAREL  |
 | PASHA  |
-| PATRONA  |
-| --- |
 | PENTA  |
 | PENTLAND DELL  |
 | Perline  |
@@ -663,10 +646,8 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | ROSANNA  |
 | ROSARA  |
 | ROSELLA  |
-| ROSITA  |
 | ROXANA  |
 | ROXY  |
-| RUBINIA  |
 | RUDOLPH  |
 | Rumba  |
 | RUSSET BURBANK  |
@@ -737,9 +718,7 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | TEXLA  |
 | THOMANA  |
 | TIMATE  |
-| TOPAS  |
 | TRIPIO  |
-| TRIUMPF  |
 | TURBO  |
 | TURDUS  |
 | UKAMA  |
@@ -772,7 +751,6 @@ De A 67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de 
 | VULKANO  |
 | WILJA  |
 | WISENT  |
-| WOUDSTER  |
 
-Achilles (10) Adam (10) Alberta (10) Almera (10) Antina (10) Arrabona (10) Bionica (10) Cascada (10) Cekin (10) Collina (7) El Mundo (10) Eurobona (10) Eurogrande (10) Exklusiv (10) Finessa (10) Gandawa (10) Ibis (10) Kiebitz (10) Lacetta (10) Lady Britta (10) Leandra (10) Michelle (10) Miss Bianka (10) Miss Blush (7) Miss Mignonne (7) Mungo (10) Nafida (10) Nandina (10) Pentiand Crown (10) Pentiand Ivory (10) Primavera (10) Regina (10) Shakira (10) Skawa (10) Stayer (10) Stefanie (10) Target (10) Transit (10) Vallent (10) Vr 808 (10) Zuzanna (10) Amarin Arizona Arsenal Avenue Bellona Biologica Compass Crisper Dartiest Dolly Euroluna Eurostar Ivory Russet Laperia Mariette Mariska Marosso Marrakech Messina Monte Carolo Novano Okapi Panther Plasettie Printaline Red Sonia Red Sun Red Valentine Romeo Rosagold Saviola Silla Toccata  
+Achilles (10) Adam (10) Alberta (10) Almera (10) Antina (10) Arrabona (10) Bionica (10) Cascada (10) Cekin (10) Collina (7) El Mundo (10) Eurobona (10) Eurogrande (10) Exklusiv (10) Finessa (10) Gandawa (10) Ibis (10) Kiebitz (10) Lacetta (10) Lady Britta (10) Leandra (10) Michelle (10) Miss Bianka (10) Miss Blush (7) Miss Mignonne (7) Mungo (10) Nafida (10) Nandina (10) Pentiand Crown (10) Pentiand Ivory (10) Primavera (10) Regina (10) Shakira (10) Skawa (10) Stayer (10) Stefanie (10) Target (10) Transit (10) Vallent (10) Vr 808 (10) Zuzanna (10) Amarin Arizona Arsenal Avenue Bellona Biologica Compass Crisper Dartiest Dolly Euroluna Eurostar Ivory Russet Laperia Mariette Mariska Marosso Marrakech Messina Monte Carolo Novano Okapi Panther Plasettie Printaline Red Sonia Red Sun Red Valentine Romeo Rosagold Saviola Silla Toccata Actaro Ambassador Barcelona Colomba Destiny Evolution Inara Isabelia Javina Jazzy Kenita Kiwi Lady Anna Lady Lenora Lucinda Lusa Marylou Mondeo Obama Ribera Royal Senna Captiva Bernina Coronada Endeavour Glorietta Hermes Kea Madeira Madison Odin Supporter Tonia  
 

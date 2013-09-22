@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing ten laste van de boomkwekerijsector voor het jaar 2013 (Verordening PT algemene heffing boomkwekerijsector 2013)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid, en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor boomkwekerijproducten d.d. 14 december 2012;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a. productschap  | :  | het Productschap Tuinbouw;  |
 | b. bestuur  | :  | het bestuur van het productschap;  |
 | c. voorzitter  | :  | de voorzitter van het productschap;  |
@@ -34,7 +34,7 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  De ondernemer die boomkwekerijproducten kweekt of handelt in boomkwekerijproducten, is over het kalenderjaar 2013 een algemene heffing aan het productschap verschuldigd volgens de in artikel 3 vermelde heffingsgrondslag met het bijbehorend tarief.   
-2.  De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 en 5 van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).   
+2.  De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 en 5 van deze verordening en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009.   
 3.  Ter uitvoering van het bepaalde in het eerste lid, doet de ondernemer desgevraagd aangifte bij het productschap van de in artikel 3 bepaalde gegevens.   
 
 ### §  3  
@@ -50,15 +50,14 @@ a. de vrachtkosten;
 b. de in de jaarrekening afgeschreven oninbare debiteuren.     
 2.  Voor de toepassing van het eerste lid wordt onder boomkwekerijproducten tevens begrepen materialen die bij verkoop onlosmakelijk verbonden zijn met het boomkwekerijproduct.   
 3.  Indien de toepassing van het eerste lid leidt tot een negatieve grondslag kan deze negatieve grondslag worden verrekend met positieve grondslag van het jaar volgend op het jaar waarover deze negatieve grondslag is ontstaan.   
-4.  De heffing, als bedoeld in het eerste lid, bedraagt € 10,00 vermeerderd met: 
+4.  De heffing, als bedoeld in het eerste lid, bedraagt € 0,00 vermeerderd met: 
 
-a. 0,13 % over de grondslag hoger dan € 0,00 maar niet hoger dan € 900.000,00;  
+a. 0,00% over de grondslag hoger dan € 0,00 maar niet hoger dan € 900.000,00;  
 
-b. 0,10 % over de grondslag hoger dan € 900.000,00 maar niet hoger dan € 1.800.000,00, en  
+b. 0,00% over de grondslag hoger dan € 900.000,00 maar niet hoger dan € 1.800.000,00 en  
 
-c. 0,06 % over de grondslag hoger € 1.800.000,00.     
-5.  De totale algemene heffing, als bedoeld in het vierde lid, bedraagt maximaal € 2.850,-.   
-6.  In het geval van contractteelt is de ondernemer heffingplichtig die het teeltrisico draagt.   
+c. 0,00% over de grondslag hoger dan € 1.800.000,00.     
+5.  In het geval van contractteelt is de ondernemer heffingplichtig die het teeltrisico draagt.   
 
 ### §  4  
 

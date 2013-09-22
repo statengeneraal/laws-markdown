@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing groenten en fruit voor het jaar 2013 (Verordening PT algemene heffing groenten en fruit 2013)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op de [artikelen 95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid, en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor groenten en fruit d.d. 14 december 2012;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | Productschap Tuinbouw;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | voorzitter  | :  | voorzitter van het productschap;  |
@@ -28,7 +28,7 @@ In deze verordening wordt verstaan onder:
 | i.  | cultuurgrond  | :  | de op 15 mei 2013 beteelde grond, de nog niet beteelde grond waarbij een teelt vóór eind augustus 2013 wordt ingezet, braakland en grond die gemoeid is met het gebruik van een groeimedium met behulp waarvan groente en fruit kunnen worden geteeld;  |
 | j.  | derde land  | :  | staat, niet zijnde een lidstaat van de Europese Unie;  |
 | k.  | fruit  | :  | vers fruit, bewerkt en verwerkt fruit;  |
-| I.  | Gecombineerde opgave  | :  | het beschrijvingsbiljet als bedoeld in de [artikelen 24](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md);  |
+| I.  | Gecombineerde opgave  | :  | het beschrijvingsbiljet als bedoeld in de artikelen 24 en 25 van de Landbouwwet;  |
 | m.  | gemeten maat  | :  | de oppervlakte van cultuurgrond, inclusief paden en voren die voor de teelt noodzakelijk zijn;  |
 | n.  | groenten  | :  | verse, bewerkte en verwerkte groenten, eetbare zwammen, specerijgewassen, aardbeien, aardbeiplanten, consumptiespecerijzaden, groen geoogste landbouwpeulvruchten, noten en kruiden;  |
 | o.  | handelen  | :  | het aankopen van verse of bewerkte groenten en fruit, ongeacht de herkomst;  |
@@ -47,8 +47,8 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  De ondernemer die een onderneming drijft met als activiteit het handelen, het telen of het verduurzamen van groenten en fruit, is over het kalenderjaar 2013 een algemene heffing verschuldigd aan het productschap volgens de in de artikelen 3, 4 en 5 vermelde heffingsgrondslagen.   
-2.  De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van artikel 6 en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).   
-3.  Voor het berekenen van de heffingen als bedoeld in artikel 3, eerste lid, gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](../../../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md), de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave.   
+2.  De heffing als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op basis van artikel 6 en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009.   
+3.  Voor het berekenen van de heffingen als bedoeld in artikel 3, eerste lid, gebruikt het productschap, in afwijking van de Verordening PT algemene bepalingen 2009, de gegevens volgens de door de ondernemer bij Dienst Regelingen van het ministerie van Economische Zaken in het kalenderjaar 2013 ingediende Gecombineerde opgave.   
 4.  Ter uitvoering van artikel 3, zesde lid en artikel 5 doet de ondernemer bij het productschap desgevraagd aangifte van de door hem in het kalenderjaar 2013 behaalde omzet.   
 5.  Ter uitvoering van artikel 4 doet de ondernemer bij het productschap desgevraagd aangifte van de aankoopwaarde over het kalenderjaar 2013.   
 
@@ -72,23 +72,23 @@ d. door de ondernemer wordt beteeld voor contractteelt.
 4.  De algemene heffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per productgroep, uitgedrukt in de genoemde eenheid, vermenigvuldigd met het genoemde tarief in euro en bedraagt voor verse groenten en fruit:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Productgroep (tarieven nog aanpassen)*   |  *BRSnr.*   |  *Tarief*   |  *Eenh.*   |
 |  *Glasgroenten*   | --- | --- | --- |
-| Andijvie  | 648  | 1,22  | are  |
-| Aubergines  | 618  | 2,13  | are  |
-| Courgette  | 642  | 1,22  | are  |
-| Komkommers  | 605  | 2,13  | are  |
-| Kropsla (alle sla in kropvorm)  | 658  | 1,22  | are  |
-| Paprika - Gele paprika  | 633  | 2,13  | are  |
-| Paprika - Groene paprika  | 632  | 2,13  | are  |
-| Paprika - Rode paprika  | 631  | 2,13  | are  |
-| Paprika - overig  | 634  | 2,13  | are  |
-| Radijs  | 644  | 1,22  | are  |
-| Tomaten - Losse tomaten (rond, vlees, tussentype)  | 608  | 2,13  | are  |
-| Tomaten - Trostomaten (incl. fijne trostomaten)  | 604  | 2,13  | are  |
-| Tomaten - Cherry-tomaten  | 606  | 2,13  | are  |
-| Overige groenten (inclusief meloenen)  | 621  | 1,22  | are  |
+| Andijvie  | 648  | 0,36  | are  |
+| Aubergines  | 618  | 0,64  | are  |
+| Courgette  | 642  | 0,36  | are  |
+| Komkommers  | 605  | 0,64  | are  |
+| Kropsla (alle sla in kropvorm)  | 658  | 0,36  | are  |
+| Paprika - Gele paprika  | 633  | 0,64  | are  |
+| Paprika - Groene paprika  | 632  | 0,64  | are  |
+| Paprika - Rode paprika  | 631  | 0,64  | are  |
+| Paprika - overig  | 634  | 0,64  | are  |
+| Radijs  | 644  | 0,36  | are  |
+| Tomaten - Losse tomaten (rond, vlees, tussentype)  | 608  | 0,64  | are  |
+| Tomaten - Trostomaten (incl. fijne trostomaten)  | 604  | 0,64  | are  |
+| Tomaten - Cherry-tomaten  | 606  | 0,64  | are  |
+| Overige groenten (inclusief meloenen)  | 621  | 0,36  | are  |
 |  *Teelt in open grond*   | --- | --- | --- |
 | Aardbeien onder glas  | 610  | 1,54  | are  |
 | Aardbeien plastic tunnel  | 611  | 1,54  | are  |
@@ -160,13 +160,13 @@ d. door de ondernemer wordt beteeld voor contractteelt.
 | Zwarte bessen (Best.Verw.Ind.)  | 499  | 4,93  | ha  |
 
 5.  Bij het vaststellen van de heffing per productgroep wordt een gedeelte van een hectare of een are afgerond tot een veelvoud van respectievelijk een are en een centiare.   
-6.  Aan de ondernemer die de onder a, b en c vermelde groenten en fruit teelt, wordt een algemene heffing opgelegd uitgedrukt in een percentage van de omzet die is behaald met de verkoop van het betreffende product. De heffing bedraagt voor: 
+6.  Aan de ondernemer die de onder a, b en c vermelde groenten en fruit teelt, wordt een algemene heffing opgelegd uitgedrukt in een percentage van de omzet die is behaald met de verkoop van het betreffende product. De heffing bedraagt voor:  
 
-a. Champignons 0,036% van de omzet;  
-
-b. Overige paddenstoelen 0,036 % van de omzet en  
-
-c. Uitgangsmateriaal 0,015% van de omzet.     
+| --- | --- |
+|---|---|
+| a. Champignons  | 0,000% van de omzet;  |
+| b. Overige paddestoelen  | 0,000% van de omzet en  |
+| c. Uitgangsmateriaal  | 0,015% van de omzet.  |
 
 ### Artikel  4  
 
@@ -177,14 +177,14 @@ a. heeft aangekocht van telers, al dan niet via een afzetorganisatie of een bemi
 
 b. uit een derde land heeft aangekocht.     
 3.  In afwijking van het eerste lid is de ondernemer die verse of bewerkte groenten en fruit aankoopt uit een derde land een heffing verschuldigd over de CIF-waarde van dit product.   
-4.  De heffingen, als bedoeld in het eerste en derde lid, worden uitgedrukt in een percentage van de aankoopwaarde respectievelijk de CIF-waarde in het kalenderjaar 2013 en bedragen 0,003%.   
+4.  De heffingen, als bedoeld in het eerste en derde lid, worden uitgedrukt in een percentage van de aankoopwaarde respectievelijk de CIF-waarde in het kalenderjaar 2013 en bedragen 0,00%.   
 5.  In afwijking van het eerste lid is de ondernemer die handelt in verse of bewerkte uien, met uitzondering van zilveruien, een heffing verschuldigd met als grondslag het aantal aangekochte netto kilogrammen uien.   
-6.  De heffing, als bedoeld in het vijfde lid, bedraagt â‚¬ 0,25 per 100.000 kilogrammen aangekochte uien.   
+6.  De heffing, als bedoeld in het vijfde lid, bedraagt € 0,00 per 100.000 kilogrammen aangekochte uien.   
 
 ### Artikel  5  
 
 1.  De ondernemer die groenten en fruit verduurzaamt is over het kalenderjaar 2013 een algemene heffing verschuldigd met als grondslag de omzet 'af fabriek' behaald over de verkoop van de door de ondernemer verduurzaamde groenten en fruit in 2013, met uitzondering van de verkoop van pindakaas, sauzen, natte en droge soepen, aroma's, limonades, salades, kindervoeding, kanten klaarmaaltijden en snoeprepen.   
-2.  De algemene heffing, als bedoeld in het eerste lid, bedraagt 0,013% van de omzet "af fabriek" in het kalenderjaar 2013.   
+2.  De algemene heffing, als bedoeld in het eerste lid, bedraagt 0,00% van de omzet "af fabriek" in het kalenderjaar 2013.   
 
 ### §  4  
 

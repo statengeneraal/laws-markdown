@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Productschap Tuinbouw van 20 december 2012, houdende de vaststelling van een algemene heffing ten laste van de hovenierssector voor het jaar 2013 (Verordening PT algemene heffing hovenierssector 2013)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op de [artikelen 95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100, derde lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en de [artikelen 13](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [14 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+Gelet op de artikelen 95, 100, derde lid, en 126 van de Wet op de bedrijfsorganisatie en de artikelen 13 en 14 van het Instellingsbesluit Productschap Tuinbouw;
 
 Gehoord de Commissie voor hovenierswerkzaamheden d.d. 14 december 2012;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | het Productschap Tuinbouw;  |
 | b.  | bestuur  | :  | het bestuur van het productschap;  |
 | c.  | voorzitter  | :  | de voorzitter van het productschap;  |
@@ -33,7 +33,7 @@ In deze verordening wordt verstaan onder:
 ### Artikel  2  
 
 1.  De ondernemer, die hovenierswerkzaamheden uitoefent, is over het kalenderjaar 2013 een algemene heffing aan het productschap verschuldigd volgens de in artikel 3 vermelde heffingsgrondslag met het bijbehorend tarief.   
-2.  De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 en 5 van deze verordening en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](../../../../../../../../pbo/verordening/pt/algemene/bepalingen/2009/BWBR0027562/README.md).   
+2.  De heffing bedoeld in het eerste lid wordt vastgesteld en opgelegd op de voet van de artikelen 4 en 5 van deze verordening en met inachtneming van het bepaalde bij of krachtens de Verordening PT algemene bepalingen 2009.   
 3.  Ter uitvoering van het eerste lid doet de ondernemer desgevraagd aangifte bij het productschap van de door hem in het kalenderjaar 2013 behaalde omzet.   
 
 ### §  3  
@@ -43,14 +43,8 @@ In deze verordening wordt verstaan onder:
 ### Artikel  3  
 
 1.  De algemene heffing wordt berekend over de met de onderneming behaalde omzet in het kalenderjaar 2013 over de hovenierswerkzaamheden en leveringen. Deze heffing bestaat uit een basisheffing en een aanvullende heffing.   
-2.  De basisheffing bedraagt € 33,00 bij een omzet hoger dan € 32.500,-.   
-3.  De aanvullende heffing bedraagt: 
-
-a. over de omzet hoger dan € 45.500,- maar niet hoger dan € 2.250.000,- 0,008 procent;  
-
-b. over de omzet hoger dan € 2.250.000,- maar niet hoger dan € 4.500.000,- 0,005 procent;  
-
-c. over de omzet hoger dan € 4.500.000,- 0,002 procent.     
+2.  De basisheffing bedraagt € 0,00.   
+3.  De aanvullende heffing bedraagt € 0,00.   
 4.  De ondernemer kan de omzet die gerealiseerd is uit de door hem in onderaanneming uitgevoerde hovenierswerkzaamheden in mindering brengen op de behaalde omzet, als bedoeld in het eerste lid.   
 5.  De ondernemer kan de omzet die gerealiseerd is uit bosbouw, voor zover deze ondernemer geregistreerd staat bij het Bosschap en de gerealiseerde omzet uit bosbouw is gemeld bij het Bosschap, in mindering brengen op de behaalde omzet, als bedoeld in het eerste lid.   
 

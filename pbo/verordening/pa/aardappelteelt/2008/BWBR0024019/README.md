@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 27 maart 2008 houdende regels omtrent het gebruik van pootaardappelen (Verordening PA aardappelteelt 2008)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op de [artikelen 93](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de [artikelen 8](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md), [17](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md) en [18 van het Instellingsbesluit akkerbouwproductschappen](../../../../../../AMvB/instellingsbesluit/akkerbouwproductschappen/BWBR0016234/README.md);
+Gelet op de artikelen 93, 95, 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie en op de artikelen 8, 17 en 18 van het Instellingsbesluit akkerbouwproductschappen;
 
 Gehoord de Commissie Teeltaangelegenheden;
 Besluit:     
@@ -16,7 +16,7 @@ Besluit:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | Productschap Akkerbouw;  |
 | b.  | bestuur  | :  | bestuur van het productschap;  |
 | c.  | dagelijks bestuur  | :  | dagelijks bestuur van het productschap;  |
@@ -30,7 +30,8 @@ Deze verordening verstaat onder:
 | k.  | pootaardappelen  | :  | aardappelen, kennelijk bestemd voor wederuitplant;  |
 | l.  | keuringsdienst  | :  | pootaardappelen voor eigen gebruik: pootaardappelen, afkomstig van en bestemd voor de teelt binnen de eigen/dezelfde onderneming;  |
 | m.  | perceel  | :  | een ononderbroken oppervlakte grond, in eigendom of in gebruik bij een onderneming, waarop één soort gewas geteeld wordt;  |
-| n.  | eigen/dezelfde onderneming  | :  | het geheel van de percelen dat de ondernemer op Nederlands grondgebied beheert en voor eigen rekening en risico exploiteert;  |
+| n.  | eigen/dezelfde onderneming  | :  | 1. het geheel van de percelen voor de zetmeelaardappelteelt dat de ondernemer in het in de bijlage onder B aangewezen gebied beheert en voor eigen rekening en risico exploiteert,  2. het geheel van de percelen voor de consumptieaardappelteelt dat de ondernemer op Nederlands grondgebied beheert en voor eigen rekening en risico exploiteert;  |
+| o.  | zetmeelaardappelteelt  | :  | 1. aardappelteelt waarvan de geoogste knollen bestemd zijn om te worden verwerkt tot aardappelzetmeel met GN-code 11081300,  2. aardappelteelt waarvan de geoogste knollen bestemd zijn om te worden gebruikt als uitgangsmateriaal voor de onder 1 bedoelde teelt, met uitzondering van aardappelen die door de ondernemer bij de NAK zijn aangegeven.  |
 
 ### §  2  
 
@@ -44,7 +45,7 @@ Deze verordening verstaat onder:
 
 ### Artikel  3  
 
-Van het bepaalde in artikel 2 mag worden afgeweken, indien het pootaardappelen voor eigen gebruik betreft behorende tot de in de bijlage onder A genoemde zetmeelrassen, en het perceel waarop deze aardappelen worden geteeld gelegen is in de daartoe in de bijlage onder B aangewezen gebieden en indien de ondernemer beschikt over één of meerdere beoordelingsrapporten, afgegeven door de Stichting Teeltbeschermings-maatregelen Zetmeelaardappelen (TBM), waaruit blijkt dat de desbetreffende voor de teelt gebruikte pootaardappelen door de Stichting Teeltbeschermingsmaatregelen Zetmeelaardappelen zijn beoordeeld.  
+Van het bepaalde in artikel 2 mag worden afgeweken, indien het pootaardappelen voor eigen gebruik betreft behorende tot de in de bijlage onder A genoemde zetmeelrassen, en het perceel waarop deze aardappelen ten behoeve van de zetmeelaardappelteelt worden geteeld gelegen is in de daartoe in de bijlage onder B aangewezen gebieden en indien de ondernemer beschikt over één of meerdere beoordelingsrapporten, afgegeven door de Stichting Teeltbeschermings-maatregelen Zetmeelaardappelen (TBM), waaruit blijkt dat de desbetreffende voor de teelt gebruikte pootaardappelen door de Stichting Teeltbeschermingsmaatregelen Zetmeelaardappelen zijn beoordeeld.  
 
 ### Artikel  4  
 
@@ -101,8 +102,9 @@ secretaris
 A. Als zetmeelrassen, bedoeld in artikel 3, worden aangewezen:  
 
 | --- |
-|:---|
+|---|
 | ACHILLES  |
+| ACTARO  |
 | ALBAS  |
 | ALLURE  |
 | ALTUS  |
@@ -117,6 +119,9 @@ A. Als zetmeelrassen, bedoeld in artikel 3, worden aangewezen:
 | AXION  |
 | BELITA  |
 | BENNO VRIZO  |
+| DARTIEST  |
+| DIRIGENT  |
+| ENERGIE  |
 | EUROTANGO  |
 | EURONOVA  |
 | EUROBONA  |
@@ -127,15 +132,12 @@ A. Als zetmeelrassen, bedoeld in artikel 3, worden aangewezen:
 | KARNICO  |
 | KATINKA  |
 | KUBA  |
-| MELANIE  |
 | MERANO  |
 | MESSINA  |
-| MENCO  |
 | MERCATOR  |
 | MERCURY  |
 | NOMADE  |
 | NOVANO  |
-| PALLINA  |
 | PLASANDES  |
 | PLASENT  |
 | PLASETTIE  |
@@ -154,6 +156,7 @@ A. Als zetmeelrassen, bedoeld in artikel 3, worden aangewezen:
 | STARGA  |
 | STEFANO  |
 | STRATOS  |
+| SUPPORTER  |
 | VALIANT  |
 | VEBECA  |
 | VEBESTA  |
