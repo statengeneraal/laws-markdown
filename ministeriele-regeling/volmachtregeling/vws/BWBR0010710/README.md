@@ -21,9 +21,7 @@ d.  *gevolmachtigde:*  degene aan wie volmacht is verleend;
 
 e.  *volmachtgever:*  degene die volmacht verleent;  
 
-f.  *raamovereenkomst:*  een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid;  
-
-g.  *de teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies:*  de door de Minister als zodanig aangewezen ambtenaar bij de directie Bedrijfsvoering.    
+f.  *raamovereenkomst:*  een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid.    
 
 ### Hoofdstuk  2  
 
@@ -69,9 +67,9 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 a. de Directeuren-Generaal en de Directeuren van een beleidsdirectie, stafeenheid of facilitaire eenheid van het kernministerie;  
 
-b. de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu en de directeuren;  
+b. de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu;  
 
-c. de Directeur van het Nederlands Vaccin Instituut;  
+c. de Directeuren direct ressorterend onder de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu tot een bedrag van € 250.000 inclusief btw;  
 
 d. de Inspecteur-Generaal voor de Gezondheidszorg;  
 
@@ -89,17 +87,14 @@ j. de Directeuren van de Rijksinstelling voor gesloten jeugdzorg De Lindenhorst;
 
 k. de Algemeen Secretaris van de Gezondheidsraad;  
 
-l. de Algemeen Secretaris van de Raad voor Gezondheidsonderzoek;  
+l. de Secretaris van de Raad voor Maatschappelijke Ontwikkeling;  
 
-m. de Secretaris van de Raad voor Maatschappelijke Ontwikkeling;  
+m. de Algemeen Secretaris van de Raad voor de Volksgezondheid en Zorg;  
 
-n. de Algemeen Secretaris van de Raad voor de Volksgezondheid en Zorg;  
+n. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met m, ressorterende organisatie-eenheden tot een bedrag van € 25.000 inclusief btw;  
 
-o. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met n, ressorterende organisatie-eenheden tot een bedrag van € 25.000 inclusief btw;  
-
-p. de teamleiders van de Rijksinstellingen voor gesloten jeugdzorg Almata en De Lindenhorst tot een bedrag van € 2.500 inclusief btw.     
-2.  De teamcoördinator Inkoop van de eenheid Financiën, Inkoop en Subsidies heeft volmacht voor het sluiten van overeenkomsten met betrekking tot de verwerving van goederen en diensten op het werkterrein van de functionarissen, genoemd in artikel 10, eerste lid, onder a en d.   
-3.  De volmacht, verleend in het eerste en tweede lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.   
+o. de teamleiders van de Rijksinstellingen voor gesloten jeugdzorg Almata en De Lindenhorst tot een bedrag van € 2.500 inclusief btw.     
+2.  De volmacht, verleend in het eerste lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.   
 
 ### Hoofdstuk  4  
 
@@ -111,16 +106,20 @@ p. de teamleiders van de Rijksinstellingen voor gesloten jeugdzorg Almata en De 
 
 a. de bevoegdheid tot het verrichten van rechtshandelingen waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is en  
 
-b. de bevoegdheid tot het oprichten van een privaatrechtelijke rechtspersoon.     
+b. de bevoegdheid tot het oprichten van een privaatrechtelijke rechtspersoon, tenzij de minister hier van tevoren bijzondere volmacht voor verleent.     
 2.  Voorts is het verrichten van rechtshandelingen waaruit belangrijke politieke, bestuurlijke of financiële gevolgen kunnen voortvloeien, voorbehouden aan de Minister.   
+
+### Artikel  12  
+
+In afwijking van artikel 11, eerste lid, onderdeel a, hebben de volgende functionarissen volmacht om rechtshandelingen te verrichten waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is: 
+
+1. de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal alsmede de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu, voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van het Rijksinstituut voor Volksgezondheid en Milieu;  
+
+2. de Secretaris-Generaal alsmede de plaatsvervangend Secretaris-Generaal voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van de Projectdirectie Antonie van Leeuwenhoek Terrein.    
 
 ### Artikel  14  
 
 In afwijking van artikel 10 wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.  
-
-### Artikel  15  
-
-In afwijking van artikel 10, derde lid wordt aan de Directeur Curatieve Zorg volmacht verleend tot het aangaan van borgtochtovereenkomsten uit hoofde van de Garantieregeling Inrichtingen voor Gezondheidszorg 1958, de Rijksregeling dagverblijven voor gehandicapten (Stcrt. 1971, 64) en de Rijksregeling gezinsvervangende tehuizen voor gehandicapten (Stcrt. 1971, 254).  
 
 ### Hoofdstuk  5  
 
@@ -129,14 +128,15 @@ In afwijking van artikel 10, derde lid wordt aan de Directeur Curatieve Zorg vo
 ### Artikel  16  
 
 1.  De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.   
-2.  De functionarissen genoemd in artikel 10, eerste lid, onder a tot en met o, kunnen volmacht verlenen: 
+2.  De functionarissen genoemd in artikel 10, eerste lid, onder a tot en met n, kunnen ondervolmacht verlenen: 
 
-a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in artikel 10, eerste lid, onder o, genoemde hoofden;  
+a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in artikel 10, eerste lid, onder n, genoemde hoofden;  
 
-b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in artikel 10, eerste lid, onder o, genoemde hoofden en de onder a van dit lid bedoelde functionarissen.     
+b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in artikel 10, eerste lid, onder n, genoemde hoofden en de onder a van dit lid bedoelde functionarissen.     
 3.  Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.   
 4.  Elke ondervolmacht wordt schriftelijk verleend en behoeft goedkeuring van de Secretaris-Generaal.   
 5.  Op ondervolmacht zijn de bepalingen van deze regeling van overeenkomstige toepassing.   
+6.  Van de volmachten, bedoeld in artikel 12, wordt geen ondervolmacht verleend.   
 
 ### Hoofdstuk  6  
 
@@ -146,6 +146,7 @@ b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maa
 
 1.  Onverminderd artikel 11 kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de Hoofdstukken 3, 4 en 5 bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.   
 2.  Bijzondere ondervolmacht aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.   
+3.  Van de volmachten, bedoeld in artikel 12, wordt geen bijzondere ondervolmacht verleend.   
 
 ### Hoofdstuk  7  
 
@@ -153,8 +154,8 @@ b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maa
 
 ### Artikel  18  
 
-1.  De Directeur Bestuursondersteuning houdt een centraal register bij van alle gevolmachtigden en van de inhoud van hun volmacht.   
-2.  Bij beëindiging of wijziging van een volmacht wordt een kopie van het besluit tot beëindiging of wijziging toegezonden naar de Directeur Bestuursondersteuning.   
+1.  De Directeur Bestuurlijke en Politieke Zaken houdt een centraal register bij van alle gevolmachtigden en van de inhoud van hun volmacht.   
+2.  Bij beëindiging of wijziging van een volmacht wordt een kopie van het besluit tot beëindiging of wijziging toegezonden naar de Directeur Bestuurlijke en Politieke Zaken.   
 
 ### Hoofdstuk  8  
 
@@ -174,7 +175,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  22  
 
-Deze regeling wordt aangehaald als: [Volmachtregeling VWS](../../../../ministeriele-regeling/volmachtregeling/vws/BWBR0010710/README.md)  
+Deze regeling wordt aangehaald als: Volmachtregeling VWS  
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 

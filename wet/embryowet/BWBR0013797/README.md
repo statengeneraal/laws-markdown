@@ -24,7 +24,7 @@ c. embryo: cel of samenhangend geheel van cellen met het vermogen uit te groeien
 
 d. foetus: embryo in het menselijk lichaam;  
 
-e. centrale commissie: de commissie, bedoeld in [artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
+e. centrale commissie: de commissie, bedoeld in artikel 14 van de Wet medisch-wetenschappelijk onderzoek met mensen;  
 
 f. degene die het wetenschappelijk onderzoek verricht: degene die de opdracht heeft gegeven voor de organisatie of uitvoering van een wetenschappelijk onderzoek;  
 
@@ -32,7 +32,7 @@ g. degene die het wetenschappelijk onderzoek uitvoert: degene die belast is met 
 
 ### Artikel  2  
 
-1.  Het bestuur van een instelling waar buiten het menselijk lichaam embryo's tot stand worden gebracht of anderszins handelingen met embryo's worden verricht, stelt na advies van de commissie die ingevolge de [Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) is belast met het beoordelen van onderzoeksvoorstellen voor medisch-wetenschappelijk onderzoek in de instelling, een protocol vast betreffende handelingen met geslachtscellen en embryo's. Wijzigingen en aanvullingen van het protocol behoeven eveneens voorafgaand advies van bedoelde commissie.   
+1.  Het bestuur van een instelling waar buiten het menselijk lichaam embryo's tot stand worden gebracht of anderszins handelingen met embryo's worden verricht, stelt na advies van de commissie die ingevolge de Wet medisch-wetenschappelijk onderzoek met mensen is belast met het beoordelen van onderzoeksvoorstellen voor medisch-wetenschappelijk onderzoek in de instelling, een protocol vast betreffende handelingen met geslachtscellen en embryo's. Wijzigingen en aanvullingen van het protocol behoeven eveneens voorafgaand advies van bedoelde commissie.   
 2.  In het protocol worden, voor zover in de instelling van toepassing, met inachtneming van de artikelen 5 tot en met 9 regels gesteld betreffende de zeggenschap over geslachtscellen en embryo's, het tot stand brengen van embryo's buiten het menselijk lichaam, het tot stand brengen van een zwangerschap met die embryo's en het gebruik van geslachtscellen en embryo's voor andere doeleinden.   
 3.  Het protocol bevat in ieder geval regels met betrekking tot: 
 
@@ -46,17 +46,28 @@ d. de wijze waarop geslachtscellen en embryo's worden bewaard en waarop de herko
 
 e. de termijn gedurende welke geslachtscellen en embryo's worden bewaard en de gang van zaken daarna;  
 
-f. de werkwijze betreffende het ter beschikking stellen van geslachtscellen en embryo's voor andere doeleinden en gebruik na overlijden.     
-4.  Het protocol, evenals de wijzigingen daarvan, wordt tezamen met het in het eerste lid bedoelde advies ter kennis gebracht van de centrale commissie en Onze Minister, evenals voornemens tot het verrichten in de instelling van handelingen met geslachtscellen en embryo's die zullen leiden tot wijziging of aanvulling van het protocol.   
+f. de werkwijze betreffende het ter beschikking stellen van geslachtscellen en embryo's voor andere doeleinden en gebruik na overlijden;  
+
+g. de wijze waarop betrokkene wordt ondersteund bij het nemen van een beslissing omtrent donatie van geslachtscellen ten behoeve van de zwangerschap van een ander, indien voor de verkrijging van de geslachtscellen een invasieve ingreep bij betrokkene noodzakelijk is.     
 
 ### Artikel  3  
 
 1.  Wetenschappelijk onderzoek met embryo's, daaronder begrepen wetenschappelijk onderzoek met geslachtscellen waarbij embryo's tot stand worden gebracht, wordt verricht overeenkomstig een daartoe opgesteld onderzoeksprotocol dat een volledige beschrijving van het voorgenomen onderzoek bevat.   
-2.  Het onderzoek is slechts toegestaan, indien over het onderzoeksprotocol een positief oordeel is verkregen van de centrale commissie.   
+2.  Het onderzoek, bedoeld in paragraaf 3 en 4, is slechts toegestaan, indien over het onderzoeksprotocol een positief oordeel is verkregen van de centrale commissie.   
+3.  Het onderzoek, bedoeld in paragraaf 5, is toegestaan indien: 
+
+a. het wetenschappelijk onderzoek betreft waarbij de foetus niet wordt onderworpen aan invasieve handelingen of waarbij de toestand van de foetus niet opzettelijk wordt gewijzigd en over het onderzoeksprotocol een positief oordeel is verkregen van de commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen; of  
+
+b. het wetenschappelijk onderzoek betreft waarbij de foetus wordt onderworpen aan invasieve handelingen of waarbij de toestand van de foetus opzettelijk wordt gewijzigd en over het onderzoeksprotocol een positief oordeel is verkregen van de centrale commissie.     
+4.  In afwijking van het derde lid, onderdeel a, kan de centrale commissie bepalen dat de beoordeling van protocollen betreffende een door haar aangewezen vorm van wetenschappelijk onderzoek als bedoeld in paragraaf 5 door haar geschiedt.   
+
+### Artikel  3a  
+
+De commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, zendt aan de centrale commissie afschrift van elk ingevolge deze wet door haar gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan. Voorts doet de commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, bij de centrale commissie melding van de in artikel 22, derde lid, bedoelde mededeling.  
 
 ### Artikel  4  
 
-1.  De centrale commissie brengt jaarlijks aan Onze Minister verslag uit over de toepassing van deze wet, waarbij met name aandacht wordt besteed aan nieuwe ontwikkelingen betreffende handelingen met geslachtscellen en embryo's.   
+1.  De centrale commissie brengt jaarlijks aan Onze Minister verslag uit over de toepassing van deze wet, waarbij met name aandacht wordt besteed aan nieuwe ontwikkelingen betreffende handelingen met geslachtscellen en embryo's, voor zover deze blijken uit de voorgelegde onderzoeksprotocollen.   
 2.  Onze Minister zendt dit verslag aan de beide kamers der Staten-Generaal en geeft daarbij zijn opvatting over de door de centrale commissie gesignaleerde nieuwe ontwikkelingen.   
 3.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop Onze Minister de in het tweede lid bedoelde opvatting voorbereidt.   
 
@@ -68,7 +79,7 @@ f. de werkwijze betreffende het ter beschikking stellen van geslachtscellen en e
 
 1.  Meerderjarigen die in staat zijn tot een redelijke waardering van hun belangen ter zake, kunnen anders dan ten behoeve van eigen geneeskundig gebruik en onverminderd artikel 9, hun geslachtscellen ter beschikking stellen ten behoeve van de zwangerschap van een ander of ten behoeve van wetenschappelijk onderzoek.   
 2.  De terbeschikkingstelling kan slechts schriftelijk en om niet worden gedaan en niet dan nadat een persoon als bedoeld in het eerste lid, door de zorg van degene die de geslachtscellen bewaart, is ingelicht over de aard en het doel ervan. De betrokkene kan voor zover de geslachtscellen nog niet zijn gebruikt, de terbeschikkingstelling te allen tijde, zonder opgaaf van redenen, herroepen.   
-3.  Indien voor het verkrijgen van geslachtscellen een invasieve ingreep bij de betrokkene noodzakelijk is, wordt deze door degene die de ingreep verricht, tevens ingelicht over de risico's en bezwaren daarvan. In dat geval is mede de toestemming vereist van de in artikel 2, eerste lid, bedoelde commissie die beoordeelt of het met de terbeschikkingstelling te dienen belang in evenredige verhouding staat tot de risico's en bezwaren van de ingreep, mede gelet op de omstandigheden waarin de betrokkene verkeert. Voor zoveel nodig is [artikel 5 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) in dat geval niet van toepassing.   
+3.  Indien voor het verkrijgen van geslachtscellen een invasieve ingreep bij de betrokkene noodzakelijk is, wordt deze door degene die de ingreep verricht, tevens ingelicht over de risico's en bezwaren daarvan. Indien de geslachtscellen ter beschikking worden gesteld ten behoeve van wetenschappelijk onderzoek is in dat geval mede de toestemming vereist van de in artikel 2, eerste lid, bedoelde commissie die beoordeelt of het met de terbeschikkingstelling te dienen belang in evenredige verhouding staat tot de risico's en bezwaren van de ingreep, mede gelet op de omstandigheden waarin de betrokkene verkeert. Voor zoveel nodig is artikel 5 van de Wet medisch-wetenschappelijk onderzoek met mensen in dat geval niet van toepassing.   
 4.  De in het tweede lid bedoelde inlichtingen omvatten in ieder geval de informatie, bedoeld in de bijlage bij richtlijn 2004/23/EG van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van kwaliteits- en veiligheidsnormen voor het doneren, verkrijgen, testen, bewerken, bewaren en distribueren van menselijke weefsels en cellen (PbEU L 102).   
 5.  Een wijziging van de in het vierde lid genoemde richtlijn gaat voor de toepassing van dit artikel gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.   
 
@@ -95,7 +106,8 @@ c. het verrichten van ingevolge deze wet toelaatbaar wetenschappelijk onderzoek 
 2.  De terbeschikkingstelling kan slechts schriftelijk en om niet worden gedaan en niet dan nadat de betrokkenen, waaronder begrepen degene wiens toestemming is vereist op grond van artikel 6, vierde lid, door de zorg van degene die de embryo's bewaart, zijn ingelicht over de aard en het doel ervan. Bij verschil van mening tussen de betrokkenen vindt de terbeschikkingstelling niet plaats. Ieder van de betrokkenen kan, voor zover de embryo's nog niet zijn gebruikt, de terbeschikkingstelling te allen tijde, zonder opgaaf van redenen, herroepen.   
 3.  De artikelen 6 en 7 zijn van overeenkomstige toepassing.   
 
-### Artikel  9  
+### Artikel  9   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Meerderjarigen die in staat zijn tot een redelijke waardering van hun belangen ter zake, kunnen hun geslachtscellen ter beschikking stellen voor het speciaal tot stand brengen van embryo's ten behoeve van: 
 
@@ -122,7 +134,8 @@ d. het onderzoek wordt uitgevoerd door of onder leiding van personen die deskund
 
 e. het onderzoek ook overigens voldoet aan redelijkerwijs daaraan te stellen eisen.    
 
-### Artikel  11  
+### Artikel  11   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Het is verboden wetenschappelijk onderzoek te verrichten met embryo's die speciaal daarvoor tot stand worden gebracht. Dit verbod is niet van toepassing op wetenschappelijk onderzoek waarvan redelijkerwijs aannemelijk is dat het zal leiden tot de vaststelling van nieuwe inzichten op het terrein van onvruchtbaarheid, het terrein van kunstmatige voortplantingstechnieken, het terrein van erfelijke of aangeboren aandoeningen of het terrein van de transplantatiegeneeskunde en dat niet dan met gebruikmaking van in de eerste volzin bedoelde embryo's kan worden verricht.  
 
@@ -177,11 +190,11 @@ De artikelen 13, 14 en 15 zijn van overeenkomstige toepassing op wetenschappelij
 
 ### Artikel  19  
 
-De centrale commissie geeft slechts een positief oordeel over een onderzoeksprotocol betreffende wetenschappelijk onderzoek met foetussen, indien: 
+De centrale commissie of de commissie, bedoeld in artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen, geeft slechts een positief oordeel over een onderzoeksprotocol betreffende wetenschappelijk onderzoek met foetussen, daaronder begrepen wetenschappelijk onderzoek met zwangerschapsondersteunende weefsels, indien: 
 
 a. redelijkerwijs aannemelijk is dat het onderzoek zal leiden tot de vaststelling van nieuwe inzichten op het gebied van de geneeskunst betreffende ongeboren en pasgeboren kinderen of omtrent de voltooiing van zwangerschappen;  
 
-b. redelijkerwijs aannemelijk is dat de doelstelling, bedoeld onder a, niet door andere vormen of methoden van wetenschappelijk onderzoek kan worden bereikt dan onderzoek met foetussen of door onderzoek van minder ingrijpende aard;  
+b. redelijkerwijs aannemelijk is dat de doelstelling, bedoeld onder a, niet door andere vormen of methoden van wetenschappelijk onderzoek kan worden bereikt dan onderzoek met foetussen, daaronder begrepen onderzoek met zwangerschapsondersteunende weefsels of door onderzoek van minder ingrijpende aard;  
 
 c. redelijkerwijs aannemelijk is dat het met het onderzoek te dienen belang in evenredige verhouding staat tot de bezwaren en risico's voor de desbetreffende foetus en de zwangere vrouw en  
 
@@ -189,11 +202,18 @@ d. is voldaan aan de eisen, bedoeld in de onderdelen c, d en e van artikel 10.
 
 ### Artikel  20  
 
-Wetenschappelijk onderzoek met een foetus is slechts toegestaan indien het kan bijdragen aan de diagnostiek, de voorkoming of de behandeling van ernstige aandoeningen bij de desbetreffende foetus en dat niet kan worden uitgesteld tot na de geboorte.  
+1.  Wetenschappelijk onderzoek met een foetus daaronder begrepen wetenschappelijk onderzoek met zwangerschapsondersteunende weefsels is toegestaan indien het kan bijdragen aan de diagnostiek, de voorkoming of de behandeling van ernstige aandoeningen bij de desbetreffende foetus daaronder begrepen wetenschappelijk onderzoek met zwangerschapsondersteunende weefsels en dat niet kan worden uitgesteld tot na de geboorte.   
+2.  Wetenschappelijk onderzoek dat niet kan bijdragen aan de diagnostiek, de voorkoming of behandeling van ernstige aandoeningen bij de desbetreffende foetus is slechts toegestaan, indien: 
+
+a. het kan bijdragen aan de diagnostiek, de voorkoming of behandeling van ernstige aandoeningen bij andere foetussen;  
+
+b. de bezwaren en risico’s voor de desbetreffende foetus en de zwangere vrouw minimaal zijn, en  
+
+c. het niet kan worden uitgesteld tot na de geboorte.     
 
 ### Artikel  21  
 
-1.  Het is verboden wetenschappelijk onderzoek met een foetus te verrichten zonder schriftelijke toestemming van de zwangere vrouw. Indien zij minderjarig is en de leeftijd van zestien jaar nog niet heeft bereikt, is mede schriftelijke toestemming vereist van degenen die het gezag over haar uitoefenen.   
+1.  Het is verboden wetenschappelijk onderzoek met een foetus daaronder begrepen wetenschappelijk onderzoek met zwangerschapsondersteunende weefsels te verrichten zonder schriftelijke toestemming van de zwangere vrouw. Indien zij minderjarig is en de leeftijd van zestien jaar nog niet heeft bereikt, is mede schriftelijke toestemming vereist van degenen die het gezag over haar uitoefenen.   
 2.  Indien de zwangere vrouw niet in staat is tot een redelijke waardering van haar belangen ter zake, kan de toestemming worden gegeven door degenen die het gezag over haar uitoefenen dan wel, indien zij meerderjarig is, door haar wettelijke vertegenwoordiger of, indien deze ontbreekt, door haar echtgenoot, geregistreerde partner of andere levensgezel.   
 3.  Alvorens toestemming wordt gevraagd, draagt degene die het wetenschappelijk onderzoek uitvoert er zorg voor dat de personen van wie toestemming is vereist, schriftelijk worden ingelicht over: 
 
@@ -209,9 +229,9 @@ d. de bezwaren die het onderzoek voor de zwangere vrouw en de foetus met zich ka
 
 ### Artikel  22  
 
-1.  Indien het wetenschappelijk onderzoek een verloop neemt dat in noemenswaardige mate voor de zwangere vrouw of de foetus ongunstiger is dan in het onderzoeksprotocol is voorzien, doet degene die het onderzoek uitvoert, daarvan terstond mededeling aan degene die toestemming heeft gegeven, en aan de centrale commissie met een verzoek om een nader oordeel. Tot het tijdstip waarop een nader oordeel wordt gegeven, wordt de uitvoering van het onderzoek opgeschort, tenzij de gezondheid van de zwangere vrouw of van de foetus opschorting niet onmiddellijk toelaat.   
+1.  Indien het wetenschappelijk onderzoek een verloop neemt dat in noemenswaardige mate voor de zwangere vrouw of de foetus ongunstiger is dan in het onderzoeksprotocol is voorzien, doet degene die het onderzoek uitvoert, daarvan terstond mededeling aan degene die toestemming heeft gegeven, en aan de ingevolge artikel 3 bevoegde commissie die als laatste haar oordeel heeft gegeven met een verzoek om een nader oordeel. Tot het tijdstip waarop een nader oordeel wordt gegeven, wordt de uitvoering van het onderzoek opgeschort, tenzij de gezondheid van de zwangere vrouw of van de foetus opschorting niet onmiddellijk toelaat.   
 2.  Indien het nader oordeel negatief is, wordt de uitvoering van het onderzoek beëindigd, tenzij de gezondheid van de zwangere vrouw of van de foetus beëindiging niet onmiddellijk toelaat.   
-3.  Degene die het wetenschappelijk onderzoek uitvoert, doet onder opgave van de redenen aan de centrale commissie eveneens mededeling van de voortijdige beëindiging van een onderzoek.   
+3.  Degene die het wetenschappelijk onderzoek uitvoert, doet onder opgave van de redenen aan de ingevolge artikel 3 bevoegde commissie die als laatste haar oordeel heeft gegeven eveneens mededeling van de voortijdige beëindiging van een onderzoek.   
 
 ### Artikel  23  
 
@@ -280,7 +300,7 @@ Het is verboden voor de verstrekking aan anderen van geslachtscellen en embryo's
 ### Artikel  29  
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het staatstoezicht op de volksgezondheid.   
-2.  De in het eerste lid bedoelde personen beschikken niet over de bevoegdheden genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De in het eerste lid bedoelde personen beschikken niet over de bevoegdheden genoemd in artikel 5:19 van de Algemene wet bestuursrecht.   
 
 ### Artikel  30  
 
@@ -292,7 +312,7 @@ Wijzigt deze wet.
 
 ### Artikel  32  
 
-Onze Minister zendt binnen 3 jaar na de inwerkingtreding van deze wet, en vervolgens iedere 4 jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt iedere vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
 
 ### Artikel  33  
 
