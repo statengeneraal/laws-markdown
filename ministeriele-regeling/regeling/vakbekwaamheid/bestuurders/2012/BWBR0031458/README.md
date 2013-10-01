@@ -25,7 +25,7 @@ In deze regeling wordt verstaan onder:
 
 *NIWO:* Stichting Nationale en Internationale Wegvervoerorganisatie;  
 
-*wet:*[Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
+*wet:* [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
 
 ### §  2  
 
@@ -33,7 +33,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-Als richtlijn vakbekwaamheid bestuurders, bedoeld in [artikel 151b, onderdeel a, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt aangewezen: richtlijn nr. 2003/59/EG van het Europees Parlement en de Raad van de Europese Unie van 15 juli 2003 betreffende de vakbekwaamheid en de opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van verordening (EEG) nr. 3820/85 van de Raad en richtlijn nr. 91/439/EEG van de Raad en tot intrekking van richtlijn nr. 76/914/EEG van de Raad (PbEU L 226).  
+Als richtlijn vakbekwaamheid bestuurders, bedoeld in [artikel 151b, onderdeel a, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt aangewezen: richtlijn nr. 2003/59/EG van het Europees Parlement en de Raad van de Europese Unie van 15 juli 2003 betreffende de vakbekwaamheid en de opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van verordening (EEG) nr. 3820/85 van de Raad en richtlijn nr. 91/439/EEG van de Raad en tot intrekking van richtlijn nr. 76/914/EEG van de Raad (PbEU L 226). 
 
 ### Hoofdstuk  II  
 
@@ -45,7 +45,7 @@ Als richtlijn vakbekwaamheid bestuurders, bedoeld in [artikel 151b, onderdeel a,
 
 ### Artikel  3  
 
-Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt het CBR aangewezen.  
+Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt het CBR aangewezen. 
 
 ### §  2  
 
@@ -60,7 +60,7 @@ a. een theorietoets rijbewijs en vakbekwaamheid 1 die met behulp van een meer-an
 b. een theorietoets vakbekwaamheid 2 die met behulp van een meer-antwoorden-keuze toets betreffende overige zaken wordt afgenomen, en  
 
 c. een theorietoets vakbekwaamheid 3 waarbij de aanvrager opgaven in de vorm van casestudies beantwoordt.     
-2.  De duur van het theorie-examen vakbekwaamheid bedraagt ten minste 240 minuten.   
+2.  De duur van het theorie-examen vakbekwaamheid bedraagt ten minste 240 minuten.  
 
 ### §  3  
 
@@ -83,7 +83,7 @@ e. de bediening en het onderhoud van het motorvoertuig;
 f. de inrichtings- en gebruikseisen van het motorvoertuig;  
 
 g. de voor het besturen van het motorvoertuig relevante bepalingen in de verkeerswetgeving.     
-2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 1 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.   
+2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 1 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.  
 
 ### Artikel  6  
 
@@ -102,7 +102,7 @@ e. de techniek, de bediening en het onderhoud van het motorvoertuig;
 f. de inrichtings- en gebruikseisen van het motorvoertuig;  
 
 g. de voor het besturen van het motorvoertuig relevante bepalingen in de verkeerswetgeving.     
-2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 1 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.   
+2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 1 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid 1, rijbewijscategorieën C1, C, D1 en D.  
 
 ### Artikel  7  
 
@@ -125,15 +125,15 @@ g. de veiligheidsaspecten bij de beroepsuitoefening;
 h. de wijze waarop de beroepschauffeur kan bijdragen aan het goede imago van de door hem vertegenwoordigde branche;  
 
 i. de markt van het goederenvervoer.     
-2.  De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als bijlage 2 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-3C).   
+2.  De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als bijlage 2 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën C1 en C (R2/V2-3C).  
 
 ### Artikel  8  
 
-De aanvrager die reeds beschikt over een rijbewijs voor de rijbewijscategorie C1 respectievelijk C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie C1 respectievelijk C door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie C1 respectievelijk C af te leggen.  
+De aanvrager die reeds beschikt over een rijbewijs voor de rijbewijscategorie C1 respectievelijk C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie C1 respectievelijk C door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie C1 respectievelijk C af te leggen. 
 
 ### Artikel  9  
 
-De aanvrager die het theorie examen vakbekwaamheid D1 respectievelijk D met goed gevolg heeft afgelegd verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie C1 respectievelijk C door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie C1 respectievelijk C af te leggen.  
+De aanvrager die het theorie examen vakbekwaamheid D1 respectievelijk D met goed gevolg heeft afgelegd verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie C1 respectievelijk C door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie C1 respectievelijk C af te leggen. 
 
 ### Artikel  10  
 
@@ -156,15 +156,15 @@ g. de veiligheidsaspecten bij de beroepsuitoefening;
 h. de wijze waarop de beroepschauffeur kan bijdragen aan het goede imago van de door hem vertegenwoordigde branche;  
 
 i. de markt van het personenvervoer.     
-2.  De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als bijlage 3 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-3D).   
+2.  De eisen van de in het eerste lid bedoelde toetsen zijn nader uitgewerkt in de als bijlage 3 bij deze regeling behorende Toetsmatrijs theorie-examen rijbewijs/vakbekwaamheid voor de rijbewijscategorieën D1 en D (R2/V2-3D).  
 
 ### Artikel  11  
 
-De aanvrager die reeds beschikt over een rijbewijs voor de rijbewijscategorie D1 respectievelijk D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie D1 door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie D1 respectievelijk D af te leggen.  
+De aanvrager die reeds beschikt over een rijbewijs voor de rijbewijscategorie D1 respectievelijk D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie D1 door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie D1 respectievelijk D af te leggen. 
 
 ### Artikel  12  
 
-De aanvrager die het theorie-examen vakbekwaamheid C1 respectievelijk C met goed gevolg heeft afgelegd, verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie D1 door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie D1 respectievelijk D af te leggen.  
+De aanvrager die het theorie-examen vakbekwaamheid C1 respectievelijk C met goed gevolg heeft afgelegd, verwerft het theorie-examen vakbekwaamheid voor rijbewijscategorie D1 door met goed gevolg de theorietoetsen vakbekwaamheid 2 en 3 voor de rijbewijscategorie D1 respectievelijk D af te leggen. 
 
 ### §  4  
 
@@ -179,7 +179,7 @@ a. een rijproef van ten minste 60 minuten, die geïntegreerd wordt afgelegd met 
 b. een praktijktoets vakbekwaamheid 1, in de vorm van een praktische test van ten minste 30 minuten gericht op onder andere beroepshouding en veiligheid, en  
 
 c. een praktijktoets vakbekwaamheid 2, in de vorm van een praktische test van ten minste 30 minuten op een besloten terrein of in een simulator gericht op de controle van het motorvoertuig.     
-2.  De duur van het praktijkexamen vakbekwaamheid bedraagt ten minste 120 minuten.   
+2.  De duur van het praktijkexamen vakbekwaamheid bedraagt ten minste 120 minuten.  
 
 ### Artikel  14  
 
@@ -190,7 +190,7 @@ a. een rijproef van ten minste 60 minuten, die geïntegreerd met het praktijkexa
 b. een praktijktoets vakbekwaamheid 1, in de vorm van een praktische test van ten minste 30 minuten gericht op onder andere beroepshouding en veiligheid, en  
 
 c. een praktijktoets vakbekwaamheid 2, in de vorm van een praktische test van ten minste 30 minuten op een besloten terrein of in een simulator gericht op de controle van het motorvoertuig.     
-2.  De duur van het praktijkexamen vakbekwaamheid bedraagt ten minste 120 minuten.   
+2.  De duur van het praktijkexamen vakbekwaamheid bedraagt ten minste 120 minuten.  
 
 ### §  5  
 
@@ -207,7 +207,7 @@ b. criminaliteit en illegaliteit te voorkomen;
 c. fysieke risico’s te voorkomen tijdens de werkzaamheden en het tillen, verplaatsen en vastzetten van lading;  
 
 d. passende maatregelen bij noodsituaties te nemen en het Europese schadeformulier in te vullen.     
-2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 4 bij deze regeling behorende toetsmatrijs praktische toets C1, C, E bij C1 en E bij C.   
+2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 4 bij deze regeling behorende toetsmatrijs praktische toets C1, C, E bij C1 en E bij C.  
 
 ### Artikel  16  
 
@@ -222,33 +222,34 @@ c. criminaliteit en illegaliteit te voorkomen;
 d. fysieke risico’s te voorkomen tijdens de werkzaamheden en tijdens het in- en uitladen van bagage;  
 
 e. passende maatregelen bij noodsituaties te nemen en het Europese schadeformulier in te vullen.     
-2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 5 bij deze regeling behorende Toetsmatrijs Praktische Toets D1, D, E bij D1 en E bij D.   
+2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 5 bij deze regeling behorende Toetsmatrijs Praktische Toets D1, D, E bij D1 en E bij D.  
 
 ### Artikel  17  
 
 1.  Bij de praktijktoets vakbekwaamheid 2 voor de rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D wordt getoetst of de aanvrager in staat is de controle over het voertuig bij verschillende situaties te hebben.   
-2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 6 bij deze regeling behorende toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D.   
+2.  De eisen van de in het eerste lid bedoelde toets zijn nader uitgewerkt in de als bijlage 6 bij deze regeling behorende toetsmatrijs praktische toets besloten terrein of simulator, rijbewijscategorieën C1, C, E bij C1, E bij C, D1, E bij D1, D of E bij D.  
 
 ### Artikel  18  
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie C1 of E bij C1 dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C1 door met goed gevolg de in artikel 13, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie C1 af te leggen.  
+De aanvrager die reeds beschikt over een rijbewijs van de categorie C1 of E bij C1 dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C1 door met goed gevolg de in artikel 13, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie C1 af te leggen. 
 
 ### Artikel  19  
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie D1 of E bij D1, D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in artikel 13, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie D1 af te leggen.  
+De aanvrager die reeds beschikt over een rijbewijs van de categorie D1 of E bij D1, D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in artikel 13, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie D1 af te leggen. 
 
 ### Artikel  20  
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie C of E bij C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C door met goed gevolg de in artikel 14, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie C af te leggen.  
+De aanvrager die reeds beschikt over een rijbewijs van de categorie C of E bij C dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie C door met goed gevolg de in artikel 14, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie C af te leggen. 
 
 ### Artikel  21  
 
-De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in artikel 14, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie D af te leggen.  
+De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur verwerft het praktijkexamen vakbekwaamheid voor rijbewijscategorie D door met goed gevolg de in artikel 14, onderdelen b en c, bedoelde praktijktoetsen voor de rijbewijscategorie D af te leggen. 
 
 ### Artikel  22  
 
-1.  De aangewezen exameninstantie wijst rij-instructeurs aan tot het afnemen van praktijktoetsen ingevolge [artikel 156n van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) door middel van het aanwijzen van een opleidingsinstituut in opdracht waarvan een rij-instructeur de praktijktoetsen afneemt.   
-2.  De aanwijzing bedoeld in het eerste lid heeft een geldigheidsduur van maximaal vijf jaren.   
+1.  De aangewezen exameninstantie wijst rij-instructeurs aan tot het afnemen van praktijktoetsen ingevolge [artikel 156n van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) door middel van het aanwijzen van een opleidingscentrum in opdracht waarvan een rij-instructeur de praktijktoetsen afneemt.   
+2.  De aanwijzing bedoeld in het eerste lid heeft een geldigheidsduur van maximaal vijf jaren en kan door de aangewezen exameninstantie worden ingetrokken of geschorst, indien de praktijktoets of het opleidingscentrum niet voldoet aan de door de aangewezen exameninstantie vastgestelde eisen.   
+3.   Het opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van de aanwijzing vastgestelde tarief. 
 
 ### §  6  
 
@@ -256,9 +257,29 @@ De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D
 
 ### Artikel  23  
 
-1.  Een bestuurder die in het bezit is van de getuigschrift van vakbekwaamheid voor binnenlands beroepsvervoer of voor grensoverschrijdend beroepsvervoer bedoeld in de [Regeling erkenning getuigschrift beroepsvervoer](../../../../../../ministeriele-regeling/regeling/erkenning/getuigschrift/beroepsvervoer/BWBR0013569/README.md) is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie C1 of C.   
-2.  Een bestuurder die in het bezit is van het getuigschrift examen vakbekwaamheid voor het verrichten van openbaar vervoer, anders dan per trein, of besloten busvervoer bedoeld in de [Regeling vakbekwaamheid beroepspersonenvervoer](../../../../../../ministeriele-regeling/regeling/vakbekwaamheid/beroepspersonenvervoer/BWBR0011901/README.md) is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie D1 of D.   
-3.  Op het rijbewijs van een bestuurder als bedoeld in [artikel 156q, zesde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt een getuigschrift van vakbekwaamheid vermeld waarvan de einddatum gelijk is aan de geldigheidsduur van de desbetreffende rijbewijscategorie.   
+Een aanvrager die in het bezit is van: 
+
+a. het getuigschrift van vakbekwaamheid, bedoeld in [artikel 5 van de Regeling wegvervoer goederen](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md),  
+
+b. het getuigschrift van vakbekwaamheid voor binnenlands beroepsvervoer, afgegeven door de Stichting Examenbureau Beroepsvervoer voor 1 mei 2009,  
+
+c. het getuigschrift van vakbekwaamheid voor grensoverschrijdend beroepsvervoer, afgegeven door de Stichting Examenbureau Beroepsvervoer voor 1 mei 2009,  
+
+d. het diploma B voor rijbewijscategorie C afgegeven door de Contactcommissie Chauffeurs Vakbekwaamheid voor 10 september 2009, of  
+
+e. het diploma of het praktijkgetuigschrift voor rijbewijscategorie C afgegeven door de Stichting Vakopleiding Transport en Logistiek voor 10 september 2009,   is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie C1 of C. 
+
+### Artikel  23a  
+
+Een aanvrager die in het bezit is van: 
+
+a. het getuigschrift, bedoeld in [artikel 27 van het Besluit personenvervoer 2000](../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), of  
+
+b. het diploma B voor rijbewijscategorie D afgegeven door de Contactcommissie Chauffeurs Vakbekwaamheid voor 10 september 2008,   is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie D1 of D. 
+
+### Artikel  23b  
+
+Op het rijbewijs van een bestuurder als bedoeld in [artikel 156q, zesde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt een getuigschrift van vakbekwaamheid vermeld waarvan de einddatum gelijk is aan de geldigheidsduur van de desbetreffende rijbewijscategorie. 
 
 ### Hoofdstuk  III  
 
@@ -270,7 +291,7 @@ De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D
 
 ### Artikel  24  
 
-De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) tonen aan dat de bestuurder gedurende een bepaald aantal uren door de bevoegde autoriteit van de desbetreffende lidstaat gecertificeerde nascholing heeft gevolgd.  
+De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) tonen aan dat de bestuurder gedurende een bepaald aantal uren door de bevoegde autoriteit van de desbetreffende lidstaat gecertificeerde nascholing heeft gevolgd. 
 
 ### §  2  
 
@@ -289,8 +310,14 @@ c. het opleidingscentrum overlegt het te gebruiken lesmateriaal;
 
 d. het opleidingscentrum draagt zorg voor de actualiteit van de bij de aangewezen exameninstantie bekende gegevens;  
 
-e. het opleidingscentrum controleert de legitimatie van deelnemers van nascholingscursussen.     
-3.  De aanvraag van een erkenning geschiedt op de door de aangewezen exameninstantie vastgestelde wijze.   
+e. het opleidingscentrum controleert de legitimatie van deelnemers van nascholingscursussen;  
+
+f. het opleidingscentrum biedt de nascholingscursussen aan in de daarvoor aangemelde locatie;  
+
+g. het opleidingscentrum voert een juiste administratie;  
+
+h. het opleidingscentrum handelt in overeenstemming met andere uit de erkenning voortvloeiende verplichtingen.    
+3.  De aanvraag van een erkenning geschiedt op de door de aangewezen exameninstantie vastgestelde wijze.  
 
 ### §  3  
 
@@ -314,8 +341,21 @@ f. de nascholingsdocenten en -instructeurs voldoen aan de eisen zoals deze per n
 
 g. het voor de praktijklessen gebruikte wagenpark voldoet aan de eisen, gesteld in artikel 27;  
 
-h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, bedoeld in [artikel 156z van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).     
+h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, bedoeld in [artikel 156z van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);  
+
+i.  de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en de eisen, zoals deze zijn gedefinieerd in het raamwerk van nascholingscursussen, bedoeld in [artikel 156s, tweede lid van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).    
 2.  Een certificering van een nascholingscursus heeft een geldigheidsduur van maximaal vijf jaren.   
+3.  Een certificering van een nascholingscursus kan door de aangewezen exameninstantie worden geschorst of ingetrokken, indien niet langer aan de eisen in het eerste lid wordt voldaan.   
+4.  Het opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van de certificering van nascholingscursussen vastgestelde tarief. 
+
+### §  3a  
+
+####Certificaat praktijktrainer nascholing
+
+### Artikel  26a  
+
+1.  De aangewezen exameninstantie is belast met het afnemen van het examen praktijktrainer nascholing.   
+2.  Het certificaat praktijktrainer nascholing wordt afgegeven tegen betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van het certificaat praktijktrainer nascholing vastgestelde tarief en indien wordt voldaan aan de eisen die zijn vastgesteld door de aangewezen exameninstantie.  
 
 ### §  4  
 
@@ -326,7 +366,7 @@ h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, b
 1.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie C1 is een voertuig als bedoeld in [artikel 15, eerste lid, onder f, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
 2.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie C is een voertuig als bedoeld in [artikel 15, eerste lid, onder g, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
 3.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie D1 is een voertuig als bedoeld in [artikel 15, eerste lid, onder h, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
-4.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie D is een voertuig als bedoeld in [artikel 15, eerste lid, onder i, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
+4.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie D is een voertuig als bedoeld in [artikel 15, eerste lid, onder i, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).  
 
 ### Hoofdstuk  IV  
 
@@ -334,7 +374,8 @@ h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, b
 
 ### Artikel  28  
 
-Met het toezicht op de naleving van [artikel 156n](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en de [paragrafen 9](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [10 van hoofdstuk VIIA van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.  
+1. Met het toezicht op de naleving van [artikel 156n](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), de [paragrafen 9](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [10 van hoofdstuk VIIA van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en artikel 26 van deze regeling zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.  
+2.   Het erkende opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van het toezicht vastgestelde tarief. 
 
 ### Hoofdstuk  V  
 
@@ -356,11 +397,11 @@ iii. op basis van [artikel 156q, eerste lid, van het Reglement rijbewijzen](../.
 
 iv. op basis van [artikel 156v, tweede lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) is vrijgesteld van het behalen van een getuigschrift van nascholing.       
 2.  Het voor de aanvraag verschuldigde tarief wordt door de NIWO vastgesteld onder goedkeuring van de Minister van Infrastructuur en Milieu.   
-3.  Het nationale certificaat is slechts geldig zo lang wordt voldaan aan de voorwaarden.   
+3.  Het nationale certificaat is slechts geldig zo lang wordt voldaan aan de voorwaarden.  
 
 ### Artikel  30  
 
-Indien de aanvrager niet beschikt over een tewerkstellingsvergunning, wordt de aanvraag niettemin toegewezen indien op grond van [artikel 3, eerste lid](../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), of [artikel 4, eerste lid, van de Wet arbeid vreemdelingen](../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) geen tewerkstellingsvergunning is vereist.  
+Indien de aanvrager niet beschikt over een tewerkstellingsvergunning, wordt de aanvraag niettemin toegewezen indien op grond van [artikel 3, eerste lid](../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), of [artikel 4, eerste lid, van de Wet arbeid vreemdelingen](../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) geen tewerkstellingsvergunning is vereist. 
 
 ### Artikel  31  
 
@@ -368,7 +409,7 @@ De NIWO verklaart een nationaal certificaat ongeldig indien na afgifte blijkt da
 
 a. het nationaal certificaat is afgegeven op grond van onjuiste gegevens, dan wel  
 
-b. de aanvrager niet langer voldoet aan een of meer van de in artikel 29 genoemde vereisten.    
+b. de aanvrager niet langer voldoet aan een of meer van de in artikel 29 genoemde vereisten.   
 
 ### Hoofdstuk  VI  
 
@@ -376,20 +417,20 @@ b. de aanvrager niet langer voldoet aan een of meer van de in artikel 29 genoemd
 
 ### Artikel  32  
 
-De [Regeling vakbekwaamheid bestuurders](../../../../../../ministeriele-regeling/regeling/vakbekwaamheid/bestuurders/BWBR0024397/README.md) wordt ingetrokken.  
+De [Regeling vakbekwaamheid bestuurders](../../../../../../ministeriele-regeling/regeling/vakbekwaamheid/bestuurders/BWBR0024397/README.md) wordt ingetrokken. 
 
 ### Artikel  33  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(implementatie/derde/etc/BWBR0031264/README.md) (Stb. 2012, 39) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(implementatie/derde/etc/BWBR0031264/README.md) (Stb. 2012, 39) in werking treedt. 
 
 ### Artikel  34  
 
-Deze regeling wordt aangehaald als: Regeling vakbekwaamheid bestuurders 2012.  
+Deze regeling wordt aangehaald als: Regeling vakbekwaamheid bestuurders 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus  
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus    
 
 ### Bijlage  1  
 
@@ -405,7 +446,7 @@ M.H.Schultz van Haegen-Maas Geesteranus
 |:---|:---|
 | Categoriecode:  | Rijbewijs + Vakbekwaamheid deel 1, Verkeer en Techniek (RV1)  |
 | --- | --- |
-| Bijzonderheden:  | C en D: alle toetstermen zijn van toepassing.  C1 en D1: uitsluitend de toetstermen met vermelding van ‘**’ zijn van toepassing.  C-Plus en D-Plus: uitsluitend de toetstermen zonder vermelding van **’ zijn van toepassing.  |
+| Bijzonderheden:   | C en D: alle toetstermen zijn van toepassing.  C1 en D1: uitsluitend de toetstermen met vermelding van ‘**’ zijn van toepassing.  C-Plus en D-Plus: uitsluitend de toetstermen zonder vermelding van **’ zijn van toepassing.   |
 
 | --- | --- |
 |:---|:---|
@@ -428,37 +469,37 @@ M.H.Schultz van Haegen-Maas Geesteranus
 |  *Eind- en toetstermen*   |  *Afbakening (indien van toepassing)*   |  *Tax*   |
 |:---|:---|:---|
 |  *1.*   |  *De kandidaat heeft kennis van en inzicht in de risico’s die het besturen van het motorvoertuig met zich meebrengt.*   | --- | B  |
-| 1.1**  | Kan uitleggen wat de risico’s zijn voor de bestuurder en de medeweggebruiker(s) die door de eigenschappen en de toestand van het voertuig worden veroorzaakt, en op welke wijze het gedrag van de bestuurder hierop kan worden afgestemd.  | Hierbij gaat het om zaken als:  – het type voertuig, afmetingen en gewichten  – de mogelijke gevolgen van een onjuist gebruik of onjuiste bediening van de remmen  – het effect van de centrifugaalkracht en situaties waarin deze kan optreden  – de mogelijke consequenties van de wijze waarop het voertuig beladen of ingericht is (gewichtsverdeling, zwaartepunt, afmetingen, zichtbeperking)  – eigen zichtbaarheid voor andere weggebruikers  – het uitzwaai-effect.  | --- |
+| 1.1**  | Kan uitleggen wat de risico’s zijn voor de bestuurder en de medeweggebruiker(s) die door de eigenschappen en de toestand van het voertuig worden veroorzaakt, en op welke wijze het gedrag van de bestuurder hierop kan worden afgestemd.   | Hierbij gaat het om zaken als:  – het type voertuig, afmetingen en gewichten  – de mogelijke gevolgen van een onjuist gebruik of onjuiste bediening van de remmen  – het effect van de centrifugaalkracht en situaties waarin deze kan optreden  – de mogelijke consequenties van de wijze waarop het voertuig beladen of ingericht is (gewichtsverdeling, zwaartepunt, afmetingen, zichtbeperking)  – eigen zichtbaarheid voor andere weggebruikers  – het uitzwaai-effect.  | --- |
 | 1.2**  | Kan uitleggen welke factoren een rol spelen bij het uitoefenen van de bestuurderstaak, dit in  | Het gaat hierbij om begrippen als:  | --- |
-| --- | het bijzonder in relatie tot andere weggebruikers, en de toepassing hiervan.  | Taakprocessen:  – scherpe en bewuste waarneming  – voorspellen  – evalueren  – beslissen  – handelen  | --- |
+| --- |  het bijzonder in relatie tot andere weggebruikers, en de toepassing hiervan.  | Taakprocessen:  – scherpe en bewuste waarneming  – voorspellen  – evalueren  – beslissen  – handelen  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Oplettendheid:  – anticiperen  – verkeersinzicht  – besluitvaardigheid  – verwachtingspatroon.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Houding:  – defensief rijgedrag  – sociaal rijgedrag  – communiceren met andere weggebruikers  – menselijke beperkingen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Afstand bewaren:  – begrip snelheid in meters per seconde  – reactietijd  – remweg  – stopafstand  – volgafstand  – ruimtekussen.  | --- |
-| 1.3**  | Kan uitleggen welke risico’s verbonden zijn aan de aanwezigheid en het gedrag van andere verkeersdeelnemers en hoe hier rekening mee gehouden moet worden.  | Zaken die hier aan de orde komen, zijn:  – het (her)kennen van afzonderlijke soorten verkeersdeelnemers  – de gedrags (on)mogelijkheden van deze verkeersdeelnemers  – rijden in file  – aangepast eigen gedrag als gevolg van  ○ het gedrag van andere verkeersdeelnemers  ○ beperkte gedragsmogelijkheden van andere verkeersdeelnemers  ○ beperkte eigen gedragsmogelijkheden.  | B  |
-| 1.4**  | Kan uitleggen welke risico’s er zijn als gevolg van weg-, zicht– en weersomstandigheden en  | Het gaat hierbij om risico’s bij of ten gevolge van:  | B  |
-| --- | hoe het gedrag hieraan aangepast moet worden.  | Wegomstandigheden:  – aansluitingen van wegen  – aard van het wegdek  – bebakening en reflectoren  – berm  – bruggen en viaducten  – busbaan en busstroken  – doelgroepstroken  – erven  – obstakels  – soorten wegen  – snelheidsremmers  – spitsstroken  – spoorvorming  – (tijdelijke) markering  – toestand van het wegdek  – tunnels  – uitritten  – verblijfsgebieden  – verkanting  – weefvakken  – weginrichting  – zones.  | --- |
+| 1.3**  | Kan uitleggen welke risico’s verbonden zijn aan de aanwezigheid en het gedrag van andere verkeersdeelnemers en hoe hier rekening mee gehouden moet worden.   | Zaken die hier aan de orde komen, zijn:  – het (her)kennen van afzonderlijke soorten verkeersdeelnemers  – de gedrags (on)mogelijkheden van deze verkeersdeelnemers  – rijden in file  – aangepast eigen gedrag als gevolg van  ○ het gedrag van andere verkeersdeelnemers  ○ beperkte gedragsmogelijkheden van andere verkeersdeelnemers  ○ beperkte eigen gedragsmogelijkheden.  | B  |
+| 1.4**  | Kan uitleggen welke risico’s er zijn als gevolg van weg-, zicht– en weersomstandigheden en   | Het gaat hierbij om risico’s bij of ten gevolge van:  | B  |
+| --- |  hoe het gedrag hieraan aangepast moet worden.  | Wegomstandigheden:  – aansluitingen van wegen  – aard van het wegdek  – bebakening en reflectoren  – berm  – bruggen en viaducten  – busbaan en busstroken  – doelgroepstroken  – erven  – obstakels  – soorten wegen  – snelheidsremmers  – spitsstroken  – spoorvorming  – (tijdelijke) markering  – toestand van het wegdek  – tunnels  – uitritten  – verblijfsgebieden  – verkanting  – weefvakken  – weginrichting  – zones.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Zichtomstandigheden:  – begroeiing  – duisternis  – openbare verlichting  – reflectie  – schaduw  – schemering  – zonlicht  – voertuigverlichting.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Weersomstandigheden:  – ijzel  – mist  – regen  – sneeuw  – vorst  – wind.  | --- |
 |  *2.*   |  *De kandidaat heeft kennis van de gedragsregels die gelden bij het gebruik van de openbare weg.*   | --- | --- |
 | 2.1**  | Kan de plaats en het gebruik op de weg door alle weggebruikers in het algemeen benoemen.  | Met name heeft dit betrekking op:  – bochten  – busbaan en busstroken  – doelgroepstroken  – voet-/fiets-/bromfietspad  – fietsstroken  – in- en uitvoegstroken  – kruispunten  – (spoor)overwegen  – rechte weggedeelten  – rijstroken  – rotondes  – spitsstroken  – voorsorteervakken.  | F  |
-| 2.2**  | Kan de gedragsregels benoemen bij het inhalen en ingehaald worden.  | Hierbij moet gedacht worden aan:  – inhalen bij een voetgangersoversteekplaats (VOP)  – links inhalen / ingehaald worden  – rechts inhalen / ingehaald worden.  | F  |
-| 2.3**  | Kan de gedragsregels benoemen met betrekking tot snelheid.  | Het gaat hierbij om zaken als:  – algemene snelheidsregel ([art. 19 RVV](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md))  – maximumsnelheden binnen de bebouwde kom  – maximumsnelheden buiten de bebouwde kom  – toelatingssnelheid auto(snel)weg  – afwijkende maximumsnelheden.  | F  |
+| 2.2**  | Kan de gedragsregels benoemen bij het inhalen en ingehaald worden.   | Hierbij moet gedacht worden aan:  – inhalen bij een voetgangersoversteekplaats (VOP)  – links inhalen / ingehaald worden  – rechts inhalen / ingehaald worden.  | F  |
+| 2.3**  | Kan de gedragsregels benoemen met betrekking tot snelheid.   | Het gaat hierbij om zaken als:  – algemene snelheidsregel ([art. 19 RVV](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md))  – maximumsnelheden binnen de bebouwde kom  – maximumsnelheden buiten de bebouwde kom  – toelatingssnelheid auto(snel)weg  – afwijkende maximumsnelheden.  | F  |
 | 2.4**  | Kan de gedragsregels benoemen met betrekking tot het stilstaan en parkeren.  | Hierbij moet gedacht worden aan:  – verbod(en) tot stilstaan  – parkeerverboden  – parkeerschijfzone  – gehandicaptenparkeerplaats  – erven.  | F  |
 | 2.5**  | Kan de gedragsregels benoemen met betrekking tot het geven van tekens en signalen.  | Zaken die hierbij aan de orde komen zijn onder andere:  – richting aangeven  – signalen die gegeven moeten en mogen worden ter afwending van dreigend gevaar  – signalen van voorrangsvoertuigen  – verbod tot het geven van signalen  – gebruik van geel zwaai- of knipperlicht  – knipperend waarschuwingslicht/gevarendriehoek.  | F  |
-| 2.6**  | Kan de gedragsregels benoemen met betrekking tot het gebruik van lichten.  | Voornamelijk gaat het hier om:  – gebruik van lichten tijdens het rijden  – gebruik van lichten tijdens het stilstaan  – het voeren van bijzondere lichten.  | F  |
+| 2.6**  | Kan de gedragsregels benoemen met betrekking tot het gebruik van lichten.   | Voornamelijk gaat het hier om:  – gebruik van lichten tijdens het rijden  – gebruik van lichten tijdens het stilstaan  – het voeren van bijzondere lichten.  | F  |
 |  *3.*   |  *De kandidaat heeft kennis van de gedragsregels die gelden met betrekking tot het verlenen van voorrang en het voor laten gaan.*   | --- | --- |
-| 3.1**  | Kan het gedrag en de gedragsregels benoemen op kruispunten.  | Het gaat hierbij om zaken als:  – verlenen van voorrang  – blokkeren van een kruispunt  – verhard/onverhard  – tram  – voorrangsvoertuigen  – uitvaartstoet  – militaire colonne.  | F  |
-| 3.2**  | Kan het gedrag en de gedragsregels benoemen bij het afslaan.  | Voornamelijk gaat het hier om:  – rechtdoorgaand verkeer  – links afslaan ten opzichte van rechts afslaan op hetzelfde kruispunt  – tram  – voorrangsvoertuigen.  | F  |
-| 3.3**  | Kan de verkeersregels benoemen bij het voor laten gaan van het overige verkeer bij het uitvoeren van bijzondere manoeuvres en gedragingen.  | Bijzondere manoeuvres als:  – achteruitrijden  – invoegen  – keren  – oprijden van een inrit  – uitvoegen  – verlaten van een uitrit  – wegrijden  – wisselen van rijstrook.  | F  |
+| 3.1**  | Kan het gedrag en de gedragsregels benoemen op kruispunten.   | Het gaat hierbij om zaken als:  – verlenen van voorrang  – blokkeren van een kruispunt  – verhard/onverhard  – tram  – voorrangsvoertuigen  – uitvaartstoet  – militaire colonne.  | F  |
+| 3.2**  | Kan het gedrag en de gedragsregels benoemen bij het afslaan.   | Voornamelijk gaat het hier om:  – rechtdoorgaand verkeer  – links afslaan ten opzichte van rechts afslaan op hetzelfde kruispunt  – tram  – voorrangsvoertuigen.  | F  |
+| 3.3**  | Kan de verkeersregels benoemen bij het voor laten gaan van het overige verkeer bij het uitvoeren van bijzondere manoeuvres en gedragingen.   | Bijzondere manoeuvres als:  – achteruitrijden  – invoegen  – keren  – oprijden van een inrit  – uitvoegen  – verlaten van een uitrit  – wegrijden  – wisselen van rijstrook.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Gedragingen:  – in- en uitstappen  – wegrijden van een autobus.  | --- |
 |  *4.*   |  *De kandidaat heeft kennis van de kenmerken en de betekenis van verkeerstekens en aanwijzingen.*   | --- | --- |
-| 4.1**  | Kan de betekenis benoemen van aanwijzingen en kan het gedrag benoemen dat hierdoor geadviseerd, geboden of verboden wordt.  | Aanwijzingen:  – opsporingsambtenaren  – verkeersregelaars  – verkeersbrigadiers.  | F  |
+| 4.1**  | Kan de betekenis benoemen van aanwijzingen en kan het gedrag benoemen dat hierdoor geadviseerd, geboden of verboden wordt.   | Aanwijzingen:  – opsporingsambtenaren  – verkeersregelaars  – verkeersbrigadiers.  | F  |
 | 4.2**  | Kan de betekenis benoemen van verkeerslichten, verkeersborden en verkeerstekens en kan het gedrag benoemen dat hierdoor geadviseerd, geboden of verboden wordt.  | Verkeerslichten:  – driekleurige verkeerlichten  – tweekleurige verkeerslichten  – voorrangsvoertuigen  – militaire colonne  – tram/buslichten  – overweglichten  – bruglichten  – rijstrooklichten  – geel knipperlicht.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Verkeersborden:  – vorm en kleur van verkeerborden  – onderborden  – relevante plaatsingsvoorschriften  – tijdelijke verkeersborden  – werkingssfeer van verkeersborden  – zonale verkeersborden  – matrixborden.  | --- |
@@ -474,24 +515,24 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | Kentekenreglement:  – kentekenplaat  – kentekenbewijs.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | [Reglement verkeersregels en verkeerstekens](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md):  – begrippen ([art. 1](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md)).  | --- |
-| 6.2**  | Kan de wettelijke bepalingen benoemen die betrekking hebben op de rijbevoegdheid, aansprakelijkheid en verzekeringen.  | Hierbij moet gedacht worden aan zaken als:  – begrippen [reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md)  – bevoegdheden opsporingsambtenaar ten aanzien van document  – geldigheidsduur rijbewijs  – invordering en inhouding rijbewijs  – minimumleeftijd voor het besturen van motorrijtuigen  – rijbewijsbeperkingen  – rijbewijscategorieën  – rijbewijsplicht  – rijverbod.  | F  |
+| 6.2**  | Kan de wettelijke bepalingen benoemen die betrekking hebben op de rijbevoegdheid, aansprakelijkheid en verzekeringen.   | Hierbij moet gedacht worden aan zaken als:  – begrippen [reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md)  – bevoegdheden opsporingsambtenaar ten aanzien van document  – geldigheidsduur rijbewijs  – invordering en inhouding rijbewijs  – minimumleeftijd voor het besturen van motorrijtuigen  – rijbewijsbeperkingen  – rijbewijscategorieën  – rijbewijsplicht  – rijverbod.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md):  – verplichte verzekering  – WA verzekering  – casco- / allriskverzekering.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Aansprakelijkheid t.o.v. zwakkere verkeersdeelnemers.  | --- |
 |  *7.*   |  *De kandidaat heeft kennis van en inzicht in de functie en werking van de motor, het brandstofsysteem en het koelsysteem.*   | --- | --- |
-| 7.1  | Kan de onderdelen van de vierslag dieselmotor benoemen.  | De onderdelen aanwijzen:  – motorblok  – cilinderkop met kleppen  – zuiger met zuigerveren  – drijfstang  – krukas  – vliegwiel met starterkrans  – nokkenas  – distributie (tandwielen)  – kleppendeksel  – krukaspoelie.  | F  |
+| 7.1  | Kan de onderdelen van de vierslag dieselmotor benoemen.   | De onderdelen aanwijzen:  – motorblok  – cilinderkop met kleppen  – zuiger met zuigerveren  – drijfstang  – krukas  – vliegwiel met starterkrans  – nokkenas  – distributie (tandwielen)  – kleppendeksel  – krukaspoelie.  | F  |
 | 7.2  | Kan de constructie en werking van de vierslag dieselmotor uitleggen.  | Het dieselprincipe kunnen uitleggen.  | B  |
 | --- | --- | De functie uitleggen van:  – luchtinlaat en filter  – turbo  – intercooler.  | --- |
-| 7.3  | Kan de onderdelen van het brandstofsysteem benoemen.  | De onderdelen van het brandstofsysteem:  – brandstoftank  – aanzuigzeef  – filter(s)  – waterafscheider  – opvoerpomp  – leidingen  – de inspuitsystemen.  | F  |
+| 7.3  | Kan de onderdelen van het brandstofsysteem benoemen.   | De onderdelen van het brandstofsysteem:  – brandstoftank  – aanzuigzeef  – filter(s)  – waterafscheider  – opvoerpomp  – leidingen  – de inspuitsystemen.  | F  |
 | 7.4  | Kan de constructie en werking van het brandstofsysteem uitleggen.  | De werking van het brandstofsysteem.  | B  |
 | --- | --- | De functie van de:  – elektronische regeleenheid  – cruisecontrol  | --- |
 | 7.5**  | Kan de functie van de snelheidsbegrenzer uitleggen  | De functie van de:  – snelheidsbegrenzer  | B  |
-| 7.6  | Kan de onderdelen van het motorsmeersysteem benoemen.  | De onderdelen van de druksmering:  – oliepomp  – zeef  – warmtewisselaar  – oliefilter  – carter  – oliepeilstok.  | F  |
-| 7.7  | Kan de functie en kenmerken van motorolie benoemen.  | De functie:  – koeling  – geluid dempen  – reiniging  – afdichten  – smeren.  | F  |
+| 7.6  | Kan de onderdelen van het motorsmeersysteem benoemen.   | De onderdelen van de druksmering:  – oliepomp  – zeef  – warmtewisselaar  – oliefilter  – carter  – oliepeilstok.  | F  |
+| 7.7  | Kan de functie en kenmerken van motorolie benoemen.   | De functie:  – koeling  – geluid dempen  – reiniging  – afdichten  – smeren.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | De kenmerken van:  – viscositeit  – kwaliteit.  | --- |
-| 7.8  | Kan de functie van het motorsmeersysteem uitleggen en bepalen welke soort motorolie gebruikt moet worden.  | De functie uitleggen van:  – oliepomp  – warmtewisselaar  – oliefilter  – oliepeilstok.  | B  |
+| 7.8  | Kan de functie van het motorsmeersysteem uitleggen en bepalen welke soort motorolie gebruikt moet worden.   | De functie uitleggen van:  – oliepomp  – warmtewisselaar  – oliefilter  – oliepeilstok.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De functie:  – koeling  – voorkoming van metaalcontact.  | --- |
 | --- | --- | --- | --- |
@@ -503,11 +544,11 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | Functie koelvloeistof:  – warmtetransport.  | --- |
 | 7.10**  | Kan de functie van de ruitensproeiervloeistof benoemen.  | Ruitensproeiervloeistof:  – reinigen  – bevriezing tegengaan.  | F  |
 |  *8.*   |  *De kandidaat heeft kennis van en inzicht in de functie en werking van de aandrijving.*   | --- | --- |
-| 8.1  | Kan de onderdelen van de koppeling, versnellingsbak en aandrijflijn benoemen.  | De onderdelen:  – drukgroep  – versnellingsbak  – aandrijfas  – pignonwiel en kroonwiel  – differentieel  – steekassen  – differentieelslot  – kruiskoppelingen.  | F  |
-| 8.2  | Kan de constructie en werking van de koppeling, versnellingsbak en aandrijflijn uitleggen.  | – koppelingsmechanisme  – versnellingsbak  – aandrijfassen  – differentieel  – pignonwiel en kroonwiel.  | B  |
+| 8.1  | Kan de onderdelen van de koppeling, versnellingsbak en aandrijflijn benoemen.   | De onderdelen:  – drukgroep  – versnellingsbak  – aandrijfas  – pignonwiel en kroonwiel  – differentieel  – steekassen  – differentieelslot  – kruiskoppelingen.  | F  |
+| 8.2  | Kan de constructie en werking van de koppeling, versnellingsbak en aandrijflijn uitleggen.   | – koppelingsmechanisme  – versnellingsbak  – aandrijfassen  – differentieel  – pignonwiel en kroonwiel.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | Maatregelen bij slepen voertuig.  | --- |
-| 8.3  | Kan optimaal gebruik van de krachtoverbrenging van het voertuig uitleggen.  | Prestatiediagram met:  – koppel  – vermogen  – specifiek brandstofverbruik  – overbrengingsverhoudingen.  | B  |
+| 8.3  | Kan optimaal gebruik van de krachtoverbrenging van het voertuig uitleggen.   | Prestatiediagram met:  – koppel  – vermogen  – specifiek brandstofverbruik  – overbrengingsverhoudingen.  | B  |
 | 8.4**  | Kan optimaal gebruik van de krachtoverbrenging van het voertuig uitleggen.  | – optimaal gebruik toerenteller  | B  |
 |  *9.*   |  *De kandidaat heeft kennis van en inzicht in de functie en werking van de veersystemen, banden en koppelmechanismen.*   | --- | --- |
 | 9.1**  | Kan de soorten, onderdelen en gebruik van de veersystemen en wielophanging benoemen.  | Soorten veersystemen:  – bladvering  – luchtvering.  | F  |
@@ -518,17 +559,17 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | --- | --- |
 | --- | --- | Functie van de hefassen.  | --- |
 | 9.2**  | Kan de constructie en werking van de stuurinrichting, veersystemen en wielophan-  | Stuurinrichting.  | B  |
-| --- | ging uitleggen.  | Veersystemen.  | --- |
+| --- | ging uitleggen.   | Veersystemen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Wielophanging.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De meest voorkomende defecten.  | --- |
-| 9.3  | Kan de verschillende soorten banden en de daarbij behorende kenmerken noemen.  | Banden:  – super single  – tubelessband.  | F  |
-| 9.5  | Kan de aandachtspunten bij het gebruik en onderhoud van banden noemen.  | Aandachtpunten bij het gebruik en onderhoud van banden:  – bandenspanning  – rijstijl  – belading  – onbalans van de wielen  – oorzaken ongelijkmatige slijtage o.a. schokdempers  – dubbellucht.  | F  |
+| 9.3  | Kan de verschillende soorten banden en de daarbij behorende kenmerken noemen.   | Banden:  – super single  – tubelessband.  | F  |
+| 9.5  | Kan de aandachtspunten bij het gebruik en onderhoud van banden noemen.   | Aandachtpunten bij het gebruik en onderhoud van banden:  – bandenspanning  – rijstijl  – belading  – onbalans van de wielen  – oorzaken ongelijkmatige slijtage o.a. schokdempers  – dubbellucht.  | F  |
 | 9.6**  | Kan de aandachtspunten bij het wisselen van wielen en bij de conrtorle van banden noemen.  | Aandachtspunten bij het wisselen van wielen:  – volgorde van handelingen  – veiligheidsmaatregelen  – kenmerken van velgen  – bout en naafcentrering  – bandenmaat  – type band  – natrekken.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Aandachtpunten bij de dagelijkse controle van banden in het kader van de rijveiligheid:  ○ beschadigingen  ○ wielmoeren  ○ slijtage  | --- |
-| 9.7  | Kan de soorten koppelmechanismen benoemen.  | Soorten koppelmechanismen:  – vangmuilkoppeling  – koppelschotel.  | F  |
+| 9.7  | Kan de soorten koppelmechanismen benoemen.   | Soorten koppelmechanismen:  – vangmuilkoppeling  – koppelschotel.  | F  |
 | 9.8**  | Kan de aandachtspunten van koppelmechanismen benoemen.  | Aandachtspunten voor de chauffeur in het kader van de rijveiligheid:  – vergrendeling  – borging.  | F  |
 |  *10.*   |  *De kandidaat heeft kennis van en inzicht in de functie en werking van de remmen.*   | --- | --- |
 | 10.1  | Kan de soorten reminrichtingen en de onderdelen daarvan benoemen.  | Soorten remmen en principewerking:  – trommelremmen  – schijfremmen.  | F  |
@@ -538,35 +579,35 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | Hulpremsystemen:  – retarder  – motorrem.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Onderdelen van het luchtdrukremsysteem:  – compressor  – luchtdroger  – voorraadketels  – voorraadleiding volgwagen  – commandoleiding volgwagen  – rangeerventiel  – ALR (Automatische Lastafhankelijke Regelventiel)  – remsteller.  | --- |
-| 10.2  | Kan de constructie en werking van de reminrichtingen en de functie van de extra voorzieningen aan het remsysteem uitleggen.  | Remwerking en principewerking:  – luchtdrukmechanisch  – elektronisch  – mechanisch.  | B  |
+| 10.2  | Kan de constructie en werking van de reminrichtingen en de functie van de extra voorzieningen aan het remsysteem uitleggen.   | Remwerking en principewerking:  – luchtdrukmechanisch  – elektronisch  – mechanisch.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | Extra voorzieningen:  – ABS (Anti Blokkeer Systeem)  – ASR (Aandrijf Slip Regeling)  – ESP (Electronisch Stabiliteits Programma).  – EBS (Electronic Brake Support)  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De meest voorkomende storingen.  | --- |
 | 10.3  | Kan de (gecombineerde) bediening van rem en retarder uitleggen.  | Remsystemen en retarders:  – grenzen aan het gebruik van retarders  – gecombineerd gebruik van rem en retarder.  | B  |
-| 10.4**  | Kan uitleggen op welke wijze de reminrichting bediend moet worden teneinde het voertuig  | Grenzen aan het gebruik van remsystemen.  | B  |
+| 10.4**  | Kan uitleggen op welke wijze de reminrichting bediend moet worden teneinde het voertuig   | Grenzen aan het gebruik van remsystemen.  | B  |
 | --- | onder controle te houden, de slijtage te beperken en disfuncties te voorkomen.  | Benutting van de traagheid van het voertuig.  | --- |
 | --- | --- | Benutting van de mogelijkheden tot vertraging en remmen bij afdalingen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Wat te doen in geval van defecte remmen.  | --- |
 |  *11.*   |  *De kandidaat heeft kennis van en inzicht in het centrale smeersysteem, het elektrische systeem, de storingen, de controle en het onderhoud.*   | --- | --- |
-| 11.1  | Kan de onderdelen van het centrale smeersysteem benoemen.  | De onderdelen van het centrale smeersysteem:  – reservoir  – smeerpomp  – leiding  – doseurs  – tijdklok/afstandimpuls.  | F  |
+| 11.1  | Kan de onderdelen van het centrale smeersysteem benoemen.   | De onderdelen van het centrale smeersysteem:  – reservoir  – smeerpomp  – leiding  – doseurs  – tijdklok/afstandimpuls.  | F  |
 | 11.2  | Kan de functie van het centrale smeersysteem uitleggen.  | De functie:  – bewegende onderdelen van vet voorzien.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | Aandachtspunt:  – de oorzaken van vetverlies.  | --- |
 | 11.3  | Kan de aandachtspunten voor de controle van het centrale smeersysteem noemen.  | Aandachtspunten:  – niveau van het reservoir  – lekkages  | F  |
-| 11.4  | Kan de onderdelen/componenten van de accu, dynamo en startmotor herkennen en de aandachtspunten van de meest voorkomende storingen benoemen.  | Onderdelen/componenten:  – accu  – dynamo  – startmotor  | F  |
-| 11.5**  | Kan de onderdelen/componenten van het elektrische systeem herkennen en de aandachtspunten van de meest voorkomende storingen benoemen.  | Onderdelen/componenten:  – zekeringen  – verlichting  – richtingaanwijzers  – verbinding tussen motorvoertuig en volgwagen.  | F  |
+| 11.4  | Kan de onderdelen/componenten van de accu, dynamo en startmotor herkennen en de aandachtspunten van de meest voorkomende storingen benoemen.   | Onderdelen/componenten:  – accu  – dynamo  – startmotor  | F  |
+| 11.5**  | Kan de onderdelen/componenten van het elektrische systeem herkennen en de aandachtspunten van de meest voorkomende storingen benoemen.   | Onderdelen/componenten:  – zekeringen  – verlichting  – richtingaanwijzers  – verbinding tussen motorvoertuig en volgwagen.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Aandachtspunten voor de chauffeur.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De meest voorkomende storingen.  | --- |
-| 11.6  | Kan, gegeven een situatie, defecten herkennen  | Maatregelen n.a.v. defect aan centrale smering.  | F  |
+| 11.6  | Kan, gegeven een situatie, defecten herkennen   | Maatregelen n.a.v. defect aan centrale smering.  | F  |
 | --- | en de daarbij horende maatregelen benoemen.  | --- | --- |
 | --- | --- | Aandachtspunten bij het kantelen van de cabine.  | --- |
 | 11.7**  | Kan, gegeven een situatie, defecten herkennen en de daarbij horende maatregelen benoemen.  | Waarschuwingssymbolen en de te nemen maatregelen:  – oliedruk  – cabinevergrendeling  – luchtdruk  – EBS-remsysteem  – koelwaterniveau  – koelwatertemperatuur  – dynamospanning  – olieniveau  – stuurbekrachtiging  – motorstoring  | F  |
 | 11.8**  | Kan uitleggen waaruit de veortuigcontole voor, tijdens en na de rit bestaat  | Conform algemene instructies die in de instructieboekjes voorkomen.  | B  |
-| 11.9  | Kan het belang van preventief onderhoud benoemen.  | Voorkoming van onnodige stilstand.  | --- |
+| 11.9  | Kan het belang van preventief onderhoud benoemen.   | Voorkoming van onnodige stilstand.  | --- |
 | --- | --- | Voorkoming van onnodige kosten.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Verhoogde bedrijfszekerheid.  | --- |
@@ -589,7 +630,7 @@ M.H.Schultz van Haegen-Maas Geesteranus
 |:---|:---|
 | Categoriecode:  | Rijbewijs C en C1 deel 2, Administratie (R2C)  Vakbekwaamheid C en C1 deel 2, Administratie (V2C)  Vakbekwaamheid C en C1 deel 3, Administratie (V3C)  |
 | --- | --- |
-| Bijzonderheden:  | Achter de toetstermen die betrekking hebben op het examen Rijbewijs C en C1 deel 2 (R2) is vermeld: ‘**’.  |
+| Bijzonderheden:   | Achter de toetstermen die betrekking hebben op het examen Rijbewijs C en C1 deel 2 (R2) is vermeld: ‘**’.  |
 | --- | --- |
 | --- | De vermelde taxonomiecode heeft betrekking op het beheersingsniveau van de examens R2C en V2C. Voor het examen V3C is geen taxonomiecode vermeld.  |
 
@@ -625,7 +666,7 @@ M.H.Schultz van Haegen-Maas Geesteranus
 |  *3.*   |  *De kandidaat heeft kennis van en inzicht in de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig.*   | --- | --- |
 | 3.1**  | Kan uitleggen op welke wijze milieuaspecten een rol spelen bij het gebruik van een gemotoriseerd voertuig.  | Aan de orde komen hier aspecten die betrekking hebben op het milieubewuste gebruik van het motorvoertuig en het energiezuinig rijden, zoals:  – aangepast en besluitvaardig rijden  – acceleratie  – accessoires op of aan het voertuig  – afvoer van accu  – anticiperen  – bandenspanning  – controle in en buiten het voertuig  – defensief rijden  – filerijden  – gas geven, (ont)koppelen en schakelen  – gebruik van de toerenteller  – gebruik van cruisecontrol  – geluidshinder  – lading  – langdurige stops in het verkeer  – reiniging voertuig  – remmen en stoppen  – ritvoorbereiding  – soort brandstof bij voertuig met katalysator  – starten en wegrijden  – stroomverbruikers  – volgafstand.  | B  |
 |  *4.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving.*   | --- | --- |
-| 4.1**  | Kan de werkingssfeer van de [Wet wegvervoer goederen](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en de [Regeling wegvervoer goederen](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) benoemen.  | Doel van de [Wet wegvervoer goederen](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en de voor de beroepsuitoefening relevante bepalingen:  Wet wegvervoer goederen:  [Hoofdstuk I](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md):  – [Art. 1.1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md): - de definitie van beroepsvervoer  – de definitie van eigen vervoer  – de definitie van een vrachtauto  – [Art. 1.2 lid 1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  | F  |
+| 4.1**  | Kan de werkingssfeer van de [Wet wegvervoer goederen](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en de [Regeling wegvervoer goederen](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) benoemen.   | Doel van de [Wet wegvervoer goederen](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en de voor de beroepsuitoefening relevante bepalingen:  Wet wegvervoer goederen:  [Hoofdstuk I](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md):  – [Art. 1.1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md): - de definitie van beroepsvervoer  – de definitie van eigen vervoer  – de definitie van een vrachtauto  – [Art. 1.2 lid 1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  | F  |
 | --- | --- | --- | --- |
 | --- | --- | [Hoofdstuk 2](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md):  – [Art. 2.1 lid 1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en  | --- |
 | --- | --- | --- | --- |
@@ -635,41 +676,41 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | --- | --- |
 | --- | --- | Van de [Regeling wegvervoer goederen](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) de voor de beroepsuitoefening relevante bepalingen:  | --- |
 | --- | --- | --- | --- |
-| --- | --- | Regeling wegvervoer goederen:  – [Art. 3](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  – [Art. 10](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  – [Art. 15 lid 4](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  | --- |
-| 4.2**  | Kan de verschillende vormen van goederenvervoer en de toepassing daarvan uitleggen.  | De vormen van vervoer:  – nationaal  – internationaal binnen de EU  – internationaal buiten de EU  – transito  – cabotagevervoer.  | B  |
-| 4.3**  | Kan de voor het goederenvervoer vereiste documenten noemen.  | De persoonlijke documenten:  – rijbewijs  – chauffeursdiploma  – paspoort/identiteitsbewijs  – registratiebladen tachograaf  – bestuurderskaart  – print-outs  – ADR-certificaat.  | F  |
+| --- | --- | Regeling wegvervoer goederen:  –[ Art. 3](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  – [Art. 10](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  – [Art. 15 lid 4](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  | --- |
+| 4.2**  | Kan de verschillende vormen van goederenvervoer en de toepassing daarvan uitleggen.   | De vormen van vervoer:  – nationaal  – internationaal binnen de EU  – internationaal buiten de EU  – transito  – cabotagevervoer.  | B  |
+| 4.3**  | Kan de voor het goederenvervoer vereiste documenten noemen.   | De persoonlijke documenten:  – rijbewijs  – chauffeursdiploma  – paspoort/identiteitsbewijs  – registratiebladen tachograaf  – bestuurderskaart  – print-outs  – ADR-certificaat.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | De voertuigdocumenten:  – kentekenbewijs  – groene kaart.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het ladingdocument:  – vrachtbrief.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Douanedocumenten:  – begeleidingsdocument  – geleidedocument  – TIR-carnet  | --- |
-| 4.4**  | Kan de soorten vrachtbrieven en de functie daarvan noemen.  | De soorten:  – het vervoeradres (AVC vrachtbrief)  – de rembours vrachtbrief  – CMR vrachtbrief.  | F  |
+| 4.4**  | Kan de soorten vrachtbrieven en de functie daarvan noemen.   | De soorten:  – het vervoeradres (AVC vrachtbrief)  – de rembours vrachtbrief  – CMR vrachtbrief.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | De verschijningsvormen:  – papier  – elektronisch.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De drie functies:  – vervoersovereenkomst  – bewijs van ontvangst  – bewijs van aflevering.  | --- |
 | 4.5**  | Kan de verplichtingen van het standaardcontract (vervoersovereenkomst) voor het nationaal goederenvervoer van de afzender, de vervoerder en de ontvanger uitleggen.  | De AVC-condities voor zover betrekking op aansprakelijkheid bij laden, lossen, overbelading, vertraging, ladingschade en manco’s.  | B  |
 | --- | --- | Rembours zendingen, rembours vrij zicht.  | --- |
-| 4.6**  | Kan de verplichtingen van het Verdrag betreffende Overeenkomst tot internationaal goederenvervoer van de afzender, de vervoerder en de ontvanger uitleggen.  | De CMR-condities voor zover betrekking op aansprakelijkheid bij laden, lossen, overbelading, vertraging, ladingschade en manco’s.  | B  |
+| 4.6**  | Kan de verplichtingen van het Verdrag betreffende Overeenkomst tot internationaal goederenvervoer van de afzender, de vervoerder en de ontvanger uitleggen.   | De CMR-condities voor zover betrekking op aansprakelijkheid bij laden, lossen, overbelading, vertraging, ladingschade en manco’s.  | B  |
 | --- | --- | Rembours zendingen, rembours vrij zicht.  | --- |
-| 4.7  | Kan een internationale vrachtbrief hanteren.  | Het gebruik van de genummerde vakken.  | B  |
-| 4.8  | Kan de soorten en de toepassing van nationale en internationale transportvergunningen uitleggen.  | Het goederenvervoer:  De soorten vergunningen:  – binnenlandse vergunning (als bedoeld in art. 7 WWG)  – communautaire vergunning of Eurovergunning  – ritmachtiging  – CEMT-vergunning.  | B  |
+| 4.7  | Kan een internationale vrachtbrief hanteren.   | Het gebruik van de genummerde vakken.  | B  |
+| 4.8  | Kan de soorten en de toepassing van nationale en internationale transportvergunningen uitleggen.   | Het goederenvervoer:  De soorten vergunningen:  – binnenlandse vergunning (als bedoeld in art. 7 WWG)  – communautaire vergunning of Eurovergunning  – ritmachtiging  – CEMT-vergunning.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De geldigheidsduur van de vergunningen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het toepassingsgebied:  – Europese Unie landen  – EVA-landen  – CEMT-landen.  | --- |
-| 4.9  | Kan de procedure bij grensoverschrijdingen uitleggen.  | Het verschil tussen binnen- en buitengrenzen.  | B  |
+| 4.9  | Kan de procedure bij grensoverschrijdingen uitleggen.   | Het verschil tussen binnen- en buitengrenzen.  | B  |
 | --- | --- | De bevoegdheden van de douane.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het verschil tussen communautaire en niet communautaire goederen (T2 en T1).  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De elektronische aangifte.  | --- |
-| 4.10  | Kan de functie van tussenpersonen in het vervoer noemen.  | De expediteur als tussenpersoon tussen afzender en vervoerder.  | F  |
-| 4.11  | Kan noemen wanneer de speciale, de goederen begeleidende, documenten gebruikt moeten worden.  | De documenten bij speciale ladingen:  – gevarenkaart  – gezondheidsverklaring  – milieuvervuilende stoffen (afvalstoffen).  | F  |
+| 4.10  | Kan de functie van tussenpersonen in het vervoer noemen.   | De expediteur als tussenpersoon tussen afzender en vervoerder.  | F  |
+| 4.11  | Kan noemen wanneer de speciale, de goederen begeleidende, documenten gebruikt moeten worden.   | De documenten bij speciale ladingen:  – gevarenkaart  – gezondheidsverklaring  – milieuvervuilende stoffen (afvalstoffen).  | F  |
 |  *5.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer.*   | --- | --- |
-| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen van de  | Het doel van de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) (Arbeidstijdenwet).  | B  |
-| --- | [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) uitleggen.  | De relatie [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) / [ATB](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) (Arbeidstijdenbesluit) vervoer.  De werkingssfeer ATB vervoer.  De extra-territoriale werking ATB vervoer.  | --- |
+| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen van de   | Het doel van de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) (Arbeidstijdenwet).  | B  |
+| --- | [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) uitleggen.   | De relatie [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) / [ATB](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) (Arbeidstijdenbesluit) vervoer.  De werkingssfeer ATB vervoer.  De extra-territoriale werking ATB vervoer.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De definities:  – arbeid  – arbeidstijd  – werknemer  – werkgever  – vrachtauto  – bestuurder  – bijrijder  – rijtijd  – rusttijd  – week  – pauze  – nachtdienst (volgens de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md)).  | --- |
 | --- | --- | --- | --- |
@@ -678,10 +719,10 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | De bepalingen rusttijd, rijtijd, pauzes, nachtarbeid, arbeid op zondag.  De controlemiddelen:  – tachograaf  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De verantwoordelijkheden bij overtredingen.  Toezicht en handhaving:  – controlerende instanties  – bevoegdheden.  | --- |
-| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) toepassen.  | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.  | R  |
-| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.  | De relatie met de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  | B  |
+| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) toepassen.   | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.  | R  |
+| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.   | De relatie met de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  | B  |
 | 5.4  | Kan benoemen wanneer de AETR van toepassing is.  | Andere landen dan de EU (Europese Unie), EER (Europese Economische Ruimte) en Zwitserland.  | F  |
-| 5.5**  | Kan uiteenzetten hoe een analoge en een digitale tachograaf gebruikt moeten worden.  | De functie van een tachograaf.  | B  |
+| 5.5**  | Kan uiteenzetten hoe een analoge en een digitale tachograaf gebruikt moeten worden.   | De functie van een tachograaf.  | B  |
 | --- | --- | De symbolen op het apparaat.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het E-keurmerk, de verzegeling, het installatieplaatje.  | --- |
@@ -703,12 +744,12 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | De arbeidsvoorwaarden.  | --- |
 |  *6.*   |  *De kandidaat heeft kennis van en inzicht in de wijze waarop lading veilig vervoerd moet worden.*   | --- | --- |
 | 6.1  | Kan de krachten en de weerstanden die tijdens het rijden in beladen toestand optreden,  | De krachten die op een voertuig en/of lading werken.  | B  |
-| --- | verklaren.  | De gewichtsverdeling.  | --- |
+| --- | verklaren.   | De gewichtsverdeling.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het zwaartepunt, de stabiliteit, het kantelmoment onder andere bij bijvoorbeeld vloeistoffen, hangende lading enz.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De risico’s bij remmen (onder andere scharen).  | --- |
-| 6.2  | Kan de gevolgen van overbelading noemen.  | De gevolgen:  – ongunstig brandstofverbruik  – versnelde slijtage  – schade aan wegen  – verkeersveiligheid  – sancties  – invloed op wegligging  – invloed op rijeigenschappen  | F  |
+| 6.2  | Kan de gevolgen van overbelading noemen.   | De gevolgen:  – ongunstig brandstofverbruik  – versnelde slijtage  – schade aan wegen  – verkeersveiligheid  – sancties  – invloed op wegligging  – invloed op rijeigenschappen  | F  |
 | 6.3**  | Kan uitleggen hoe op een juiste wijze lading gestuwd en gezekerd moet worden.  | De verdeling van goederen in de laadruimte op grond van bestemming, soort goederen, gewicht, omvang, vorm en eigenschappen daarbij rekening houdend met de asbelasting, wrijvingsweerstand en type opbouw.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | Interpreteren van behandeletiketten.  | --- |
@@ -719,20 +760,20 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | 6.4**  | Kan de hulpmiddelen bij het laden en lossen en de toepassing noemen.  | De hulpmiddelen bij laden en lossen:  – laadklep  – voorziening om laadvloer te kunnen laten zakken  – hefbrug  – oprijbrug  – dockleveller  – rijplaten  – steekwagen  – hand- en elektrische pallettruck  – steekwagen  – meeneemheftruck, -stapelaar  – heftruck  – autolaadkraan  – transportband  – walking floor  – kipperinstallatie.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Hulpmiddelen bij stuwage:  – sjorhaken  – spankettingen  – spanbanden, alsmede de betekenis van de etiketten daarvan  – rongen en kleppen  – vergrendelstangen en airbags  – dekzeilen  – twistlocks  – stophout, balken en keggen  – dekens  – antislipmatten.  | --- |
-| 6.5  | Kan aan de hand van de gegevens van het voertuig interpreteren of de aangeboden lading meegenomen mag worden.  | De gegevens op het kentekenbewijs.  | B  |
-| 6.6  | Kan op basis van de voertuiggegevens het benodigde laadvolume berekenen.  | Gegeven een situatie de kubieke inhoud kunnen berekenen.  | R  |
+| 6.5  | Kan aan de hand van de gegevens van het voertuig interpreteren of de aangeboden lading meegenomen mag worden.   | De gegevens op het kentekenbewijs.  | B  |
+| 6.6  | Kan op basis van de voertuiggegevens het benodigde laadvolume berekenen.   | Gegeven een situatie de kubieke inhoud kunnen berekenen.  | R  |
 | --- | --- | Gegeven een situatie het aantal palletplaatsen (voor Euro- of blokpallets) kunnen bepalen.  | --- |
-| 6.7  | Kan de verschillende soorten goederen en de daarvoor gebruikte verpakkingen noemen.  | De soorten goederen:  – vast  – vloeibaar  – gas.  | F  |
+| 6.7  | Kan de verschillende soorten goederen en de daarvoor gebruikte verpakkingen noemen.   | De soorten goederen:  – vast  – vloeibaar  – gas.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | De soorten verpakkingen:  – dozen, bakken, kratten  – kisten  – tanks, containers  – big bags, IBC’s  – cilinders  – jerry cans  – vaten  – gasflessen.  | --- |
-| 6.8  | Kan verschillende soorten samenladingseenheden noemen.  | De samenladingseenheden:  – pallets: soorten, standaard afmetingen, toepassingen  – rolcontainers  – wissellaadbak  – afzetbak  – zeecontainers.  | F  |
+| 6.8  | Kan verschillende soorten samenladingseenheden noemen.   | De samenladingseenheden:  – pallets: soorten, standaard afmetingen, toepassingen  – rolcontainers  – wissellaadbak  – afzetbak  – zeecontainers.  | F  |
 |  *7.*   |  *De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij de beroepsuitoefening.*   | --- | --- |
 | 7.1  | Kan de werkingssfeer van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het [Arbobesluit](../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) uitleggen.  | De bevordering van gezondheid, veiligheid en welzijn.  | B  |
 | --- | --- | Geldt voor alle werknemers en zelfstandigen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De gezamenlijke verantwoordelijkheid werkgevers en -nemers.  | --- |
-| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) noemen.  | De bepalingen in [art. 8](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [11](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  | F  |
-| 7.3  | Kan de meest voorkomende ongevallen in de vervoerssector en de oorzaak noemen.  | Statistieken van verkeersongevallen.  | F  |
+| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) noemen.   | De bepalingen in [art. 8](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [11](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   | F  |
+| 7.3  | Kan de meest voorkomende ongevallen in de vervoerssector en de oorzaak noemen.   | Statistieken van verkeersongevallen.  | F  |
 | --- | --- | Soorten arbeidsongevallen:  – werken zonder bevoegdheid  – niet borgen, veilig stellen  – veiligheden buiten werking stellen  – niet/niet juist gebruik van persoonlijke beschermingsmiddelen  – onjuiste, onvoldoende persoonlijke beschermingsmiddelen gekregen  – onjuist beladen/plaatsen  – werk op/aan bewegende machines  – overig onjuist gebruik materiaal  – ontoereikende afscherming  – defect gereedschap/materieel ter beschikking gesteld  – niet toereikende alarmsystemen  – gebrek aan orde en netheid  – te hoge/lage temperatuur  – te veel/weinig verlichting  – overige directe oorzaken (o.a. vallen).  | --- |
 | 7.4  | Kan uiteenzetten hoe arbeidsongevallen en fysieke risico’s voorkomen kunnen worden en  | Het gebruik van persoonlijke beschermingsmiddelen.  | B  |
 | --- | hoe de gevolgen ervan beperkt kunnen worden.  | De juiste hulpmiddelen.  | --- |
@@ -762,22 +803,22 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | --- | --- |
 | --- | --- | Relevante immigratiebepalingen omtrent verstekelingen.  | --- |
 |  *8.*   |  *De kandidaat heeft kennis van en inzicht in de wijze waarop de beroepschauffeur kan bijdragen aan het goede imago van de door hem vertegenwoordigde branche.*   | --- | --- |
-| 8.1  | Kan de taken van de chauffeur noemen in relatie tot het imago van de transportsector.  | Vervoert goederen dat leidt tot de volgende werkprocessen:  – voert ritvoorbereiding uit  – neemt professioneel deel aan het verkeer  – voert rijklaarcontroles uit  – voert kleine reparaties uit  – koppelt samenstellen van voertuigen aan en af  – plant en berekent rij- en rusttijden  – beoordeelt de staat en hoeveelheid lading  – laadt en lost de lading  – verdeelt de lading en zet de lading vast  – draagt zorg voor documenten  – handelt bij incidenten en ongevallen  – houdt zich aan de werkinstructies van de leidinggevende.  | B  |
+| 8.1  | Kan de taken van de chauffeur noemen in relatie tot het imago van de transportsector.   | Vervoert goederen dat leidt tot de volgende werkprocessen:  – voert ritvoorbereiding uit  – neemt professioneel deel aan het verkeer  – voert rijklaarcontroles uit  – voert kleine reparaties uit  – koppelt samenstellen van voertuigen aan en af  – plant en berekent rij- en rusttijden  – beoordeelt de staat en hoeveelheid lading  – laadt en lost de lading  – verdeelt de lading en zet de lading vast  – draagt zorg voor documenten  – handelt bij incidenten en ongevallen  – houdt zich aan de werkinstructies van de leidinggevende.   | B  |
 | 8.2  | Kan de personen en de instanties waarmee de chauffeur in zijn werk te maken heeft noemen en het gewenst gedrag van de chauffeur ten opzichte van deze personen uitleggen.  | Onder andere:  – de opdrachtgevers, de klanten  – de verladers, de ontvangers  – de opsporingsambtenaren  – de expediteurs  – de medeweggebruikers.  | B  |
 | --- | --- | --- | --- |
-| --- | --- | Gewenst gedrag ten opzichte van deze personen.  | --- |
+| --- | --- | Gewenst gedrag ten opzichte van deze personen.   | --- |
 | 8.3  | Kan uitleggen wat de relatie is tussen de organisatie en uitvoering van het werk en de kwaliteit van de dienstverlening, de commerciële en financiële gevolgen van een geschil en kan uitleggen wat zijn bijdrage hierin kan zijn.  | De kwaliteit van de dienstverlening en het professioneel gedrag van medewerkers:  – uitstraling  – representativiteit chauffeur  – representativiteit materiaal  – klantvriendelijk  – afspraken nakomen  – wijze van communiceren.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De commerciële en financiële gevolgen van een geschil.  | --- |
-|  *9.*   | *De kandidaat heeft kennis van en inzicht in de markt van het goederenvervoer*.  | --- | --- |
-| 9.1  | Kan de verschillende modaliteiten, hun voor- en nadelen en hun relatieve aandeel in de goederenstroom noemen.  | De soorten modaliteiten en hun relatieve aandeel:  – wegvervoer  – spoorvervoer  – vervoer over het water (zee en binnenwater)  – luchtvervoer  – vervoer per pijp.  | F  |
+|  *9.*   |  *De kandidaat heeft kennis van en inzicht in de markt van het goederenvervoer*.  | --- | --- |
+| 9.1  | Kan de verschillende modaliteiten, hun voor- en nadelen en hun relatieve aandeel in de goederenstroom noemen.   | De soorten modaliteiten en hun relatieve aandeel:  – wegvervoer  – spoorvervoer  – vervoer over het water (zee en binnenwater)  – luchtvervoer  – vervoer per pijp.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Verhouding nationaal en internationaal wegvervoer.  | --- |
-| 9.2  | Kan onderscheid maken tussen vervoersspecialiteiten en hun toepassing en de verschillende soorten dienstverlening in de vervoersbranche.  | De vervoersspecialiteiten:  – verhuizingen  – vervoer gevaarlijke stoffen  – geconditioneerd vervoer  – veevervoer  – exceptioneel transport  – tankvervoer  – distributievervoer.  | B  |
+| 9.2  | Kan onderscheid maken tussen vervoersspecialiteiten en hun toepassing en de verschillende soorten dienstverlening in de vervoersbranche.   | De vervoersspecialiteiten:  – verhuizingen  – vervoer gevaarlijke stoffen  – geconditioneerd vervoer  – veevervoer  – exceptioneel transport  – tankvervoer  – distributievervoer.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De soorten dienstverlening:  – transport  – opslag.  | --- |
 | 9.3  | Kan ontwikkelingen met betrekking tot het dienstenpakket noemen.  | Value added logistics, crossdocking, logistieke dienstverlening.  | B  |
-| 9.4  | Kan de belangrijkste werkgeversorganisaties in het goederenvervoer noemen.  | – TLN  – VERN.  | F  |
+| 9.4  | Kan de belangrijkste werkgeversorganisaties in het goederenvervoer noemen.   | – TLN  – VERN.  | F  |
 
 ### Bijlage  3  
 
@@ -793,7 +834,7 @@ M.H.Schultz van Haegen-Maas Geesteranus
 |:---|:---|
 | Categoriecode:  | Rijbewijs D en D1 deel 2, Administratie (R2D)  Vakbekwaamheid D en D1 deel 2, Administratie (V2D)  Vakbekwaamheid D en D1 deel 3, Administratie (V3D)  |
 | --- | --- |
-| Bijzonderheden:  | Achter de toetstermen die betrekking hebben op het examen Rijbewijs D en D1 deel 2 (R2) is vermeld: ‘**’.  |
+| Bijzonderheden:   | Achter de toetstermen die betrekking hebben op het examen Rijbewijs D en D1 deel 2 (R2) is vermeld: ‘**’.  |
 | --- | --- |
 | --- | De vermelde taxonomiecode heeft betrekking op het beheersingsniveau van de examens R2D en V2D. Voor het examen V3D is geen taxonomiecode vermeld.  |
 
@@ -824,12 +865,12 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | --- | --- |
 | --- | --- | Tevens betreft het zaken als:  – de afbraaktijd van alcohol en medicijnen in het lichaam  – het effect van het gebruik van alcohol, drugs en medicijnen  – het effect van een combinatie van alcohol, drugs en medicijnen  – de betekenis van stickers en bijsluiters bij medicijnen.  | --- |
 |  *2.*   |  *De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij het gebruik van het motorvoertuig.*   | --- | --- |
-| 2.1**  | Kan uitleggen welke maatregelen in geval van een (verkeers)ongeval, pech of onwel worden van passagiers genomen moeten worden.  | Hierbij komen zaken aan de orde als:  – persoonlijke veiligheid  – andermans veiligheid  – markeren  – alarmeren van de hulpdiensten en belanghebbenden  – noodzakelijke maatregelen nemen waaronder het kennen van de grondbeginselen van eerste hulp.  | B  |
-| 2.2**  | Kan benoemen wanneer en op welke wijze gebruik moet worden gemaakt van de veiligheidsvoorzieningen.  | Hierbij komen zaken aan de orde als:  – aansprakelijkheid voor het (juiste) gebruik van veiligheidsvoorzieningen  – autogordel  – eisen zitplaats  – hoofdsteun  – veiligheidshamer.  | F  |
+| 2.1**  | Kan uitleggen welke maatregelen in geval van een (verkeers)ongeval, pech of onwel worden van passagiers genomen moeten worden.   | Hierbij komen zaken aan de orde als:  – persoonlijke veiligheid  – andermans veiligheid  – markeren  – alarmeren van de hulpdiensten en belanghebbenden  – noodzakelijke maatregelen nemen waaronder het kennen van de grondbeginselen van eerste hulp.  | B  |
+| 2.2**  | Kan benoemen wanneer en op welke wijze gebruik moet worden gemaakt van de veiligheidsvoorzieningen.   | Hierbij komen zaken aan de orde als:  – aansprakelijkheid voor het (juiste) gebruik van veiligheidsvoorzieningen  – autogordel  – eisen zitplaats  – hoofdsteun  – veiligheidshamer.  | F  |
 |  *3.*   |  *De kandidaat heeft kennis van en inzicht in de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig.*   | --- | --- |
-| 3.1**  | Kan uitleggen op welke wijze milieuaspecten een rol spelen bij het gebruik van een gemotoriseerd voertuig.  | Aan de orde komen hier aspecten die betrekking hebben op het milieubewuste gebruik van het motorvoertuig en het energiezuinig rijden, zoals:  – aangepast en besluitvaardig rijden  – acceleratie  – accessoires op of aan het voertuig  – afvoer van accu  – anticiperen  – bandenspanning  – controle in en buiten het voertuig  – defensief rijden  – filerijden  – gas geven, (ont)koppelen en schakelen  – gebruik van de toerenteller  – gebruik van cruisecontrol  – geluidshinder  – bagage  – langdurige stops in het verkeer  – reiniging voertuig  – remmen en stoppen  – ritvoorbereiding  – soort brandstof bij voertuig met katalysator  – starten en wegrijden  – stroomverbruikers  – volgafstand.  | B  |
+| 3.1**  | Kan uitleggen op welke wijze milieuaspecten een rol spelen bij het gebruik van een gemotoriseerd voertuig.   | Aan de orde komen hier aspecten die betrekking hebben op het milieubewuste gebruik van het motorvoertuig en het energiezuinig rijden, zoals:  – aangepast en besluitvaardig rijden  – acceleratie  – accessoires op of aan het voertuig  – afvoer van accu  – anticiperen  – bandenspanning  – controle in en buiten het voertuig  – defensief rijden  – filerijden  – gas geven, (ont)koppelen en schakelen  – gebruik van de toerenteller  – gebruik van cruisecontrol  – geluidshinder  – bagage  – langdurige stops in het verkeer  – reiniging voertuig  – remmen en stoppen  – ritvoorbereiding  – soort brandstof bij voertuig met katalysator  – starten en wegrijden  – stroomverbruikers  – volgafstand.  | B  |
 |  *4.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving.*   | --- | --- |
-| 4.1**  | Kan de werkingssfeer van de [Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) benoemen.  | Het doel van de wet en de voor de beroepsuitoefening relevante bepalingen.  | F  |
+| 4.1**  | Kan de werkingssfeer van de [Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) benoemen.   | Het doel van de wet en de voor de beroepsuitoefening relevante bepalingen.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Het uitvoeringsbesluit en de voor de beroepsuitoefening relevante bepalingen.  | --- |
 | --- | --- | --- | --- |
@@ -844,10 +885,10 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | De verbodsbepalingen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Toezicht en handhaving:  – controlerende instanties  – bevoegdheden.  | --- |
-| 4.2**  | Kan de verschillende vormen van personenvervoer interpreteren.  | De vormen van nationaal vervoer:  – openbaar vervoer  – besloten busvervoer.  | B  |
+| 4.2**  | Kan de verschillende vormen van personenvervoer interpreteren.   | De vormen van nationaal vervoer:  – openbaar vervoer  – besloten busvervoer.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De vormen van internationaal vervoer:  – geregeld  – bijzonder geregeld  – ongeregeld  – cabotage  – vervoer voor eigen rekening.  | --- |
-| 4.3**  | Kan de vervoersvoorwaarden in het openbaar en besloten busvervoer interpreteren.  | De algemene voorwaarden voor openbaar stads- en streekvervoer.  | B  |
+| 4.3**  | Kan de vervoersvoorwaarden in het openbaar en besloten busvervoer interpreteren.   | De algemene voorwaarden voor openbaar stads- en streekvervoer.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De inhoud van het dienstregelingen boekje.  | --- |
 | --- | --- | --- | --- |
@@ -856,15 +897,15 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | De KNV Busvervoer voorwaarden.  De ANVR-reisvoorwaarden.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De inhoud van de ritopdracht.  | --- |
-| 4.4**  | Kan de voor het personenvervoer vereiste documenten noemen.  | De persoonlijke documenten:  – rijbewijs  – geneeskundige verklaring  – paspoort / identiteitsbewijs  – registratiebladen tachograaf  – bestuurderskaart  – print-outs.  | F  |
+| 4.4**  | Kan de voor het personenvervoer vereiste documenten noemen.   | De persoonlijke documenten:  – rijbewijs  – geneeskundige verklaring  – paspoort / identiteitsbewijs  – registratiebladen tachograaf  – bestuurderskaart  – print-outs.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | De voertuigdocumenten:  – kentekenbewijs  – groene kaart  – airco- logboek.  | --- |
 | 4.5**  | Kan de soorten en de toepassing van nationale en internationale transportvergunningen uitleggen.  | De vereiste documenten, toepassing:  – communautaire vergunning  – vergunning geregeld vervoer  – vergunning voor bijzonder geregeld vervoer  – contract  – EU/EER reisblad  – attest  – dienstregeling  – tarievenlijst  – ASOR-reisblad.  | B  |
 | --- | --- | --- | --- |
-| --- | --- | Het toepassingsgebied: landen behorend tot:  – Europese Unie landen (inclusief Noorwegen en Zwitserland)  – Interbus-landen  – overige landen.  | --- |
+| --- | --- | Het toepassingsgebied: landen behorend tot:  – Europese Unie landen (inclusief Noorwegen en Zwitserland)  – Interbus-landen  – overige landen.   | --- |
 |  *5.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer*   | --- | --- |
-| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen  | Het doel van de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) (Arbeidstijdenwet).  | B  |
-| --- | van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) uitleggen.  | De relatie [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) / [ATB](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) (Arbeidstijdenbesluit) vervoer.  De werkingssfeer [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  De extra-territoriale werking ATB vervoer.  | --- |
+| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen   | Het doel van de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) (Arbeidstijdenwet).  | B  |
+| --- | van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) uitleggen.   | De relatie [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) / [ATB](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) (Arbeidstijdenbesluit) vervoer.  De werkingssfeer [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  De extra-territoriale werking ATB vervoer.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De definities:  – arbeid  – arbeidstijd  – werknemer  – werkgever  – bus  – bestuurder  – bijrijder  – rijtijd  – rusttijd  – week  – pauze  – nachtdienst (volgens de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md)).  | --- |
 | --- | --- | --- | --- |
@@ -879,10 +920,10 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | De verantwoordelijkheden bij overtredingen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Toezicht en handhaving:  – controlerende instanties  – bevoegdheden.  | --- |
-| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) toepassen.  | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.  | R  |
-| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.  | De relatie met de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  | B  |
+| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) toepassen.   | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.   | R  |
+| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.   | De relatie met de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  | B  |
 | 5.4  | Kan benoemen wanneer de AETR van toepassing is.  | Andere landen dan de EU (Europese Unie), EER (Europese Economische Ruimte) en Zwitserland.  | F  |
-| 5.5**  | Kan uiteenzetten hoe een analoge en een digitale tachograaf gebruikt moeten worden.  | De functie van een tachograaf.  | B  |
+| 5.5**  | Kan uiteenzetten hoe een analoge en een digitale tachograaf gebruikt moeten worden.   | De functie van een tachograaf.  | B  |
 | --- | --- | De symbolen op het apparaat.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het E-keurmerk, de verzegeling, het installatieplaatje.  | --- |
@@ -896,23 +937,23 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | De digitale tachograaf:  – voorzieningen  – controle  – soorten tachograafkaarten  – registratie op de bestuurderskaart  – werking van de digitale tachograaf.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het gebruik van de bestuurderskaart, tachograafschijf / print.  | --- |
-| 5.6  | Kan uiteenzetten welke verplichtingen er zijn indien een tachograaf niet meer werkt en/of de  | De handelwijze bij het disfunctioneren van de tachograaf.  | B  |
+| 5.6  | Kan uiteenzetten welke verplichtingen er zijn indien een tachograaf niet meer werkt en/of de   | De handelwijze bij het disfunctioneren van de tachograaf.  | B  |
 | --- | bestuurderskaart niet gebruikt kan worden.  | De handelwijze bij het zoekraken en/of beschadigd/defect raken van de bestuurderskaart.  | --- |
-| 5.7  | Kan de wettelijke bepalingen inzake de basiskwalificatie en nascholing noemen.  | De verplichting tot 35 uur nascholing per 5 jaar.  | F  |
+| 5.7  | Kan de wettelijke bepalingen inzake de basiskwalificatie en nascholing noemen.   | De verplichting tot 35 uur nascholing per 5 jaar.  | F  |
 | 5.8  | Kan de werkingssfeer van de C.A.O. uitleggen.  | De rechten en plichten van werkgever/werknemer.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De arbeidsvoorwaarden.  | --- |
 |  *6.*   |  *De kandidaat heeft kennis van en inzicht in de wijze waarop personen en bijbehorende lading vervoerd moeten worden.*   | --- | --- |
-| 6.1  | Kan de krachten en de weerstanden die tijdens het rijden in beladen toestand optreden,  | De krachten die op een voertuig en/of passagiers werken.  | B  |
+| 6.1  | Kan de krachten en de weerstanden die tijdens het rijden in beladen toestand optreden,   | De krachten die op een voertuig en/of passagiers werken.  | B  |
 | --- | verklaren.  | De gewichtsverdeling.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het zwaartepunt, de stabiliteit, het kantelmoment.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De risico’s bij optrekken en remmen.  | --- |
-| 6.2  | Kan de gevolgen van overbelading noemen.  | De gevolgen:  – ongunstig brandstofverbruik  – versnelde slijtage  – invloed op wegligging  – schade aan wegen  – verkeersveiligheid  – sancties  – invloed op rijeigenschappen  – invloed op passagiers.  | F  |
-| 6.3  | Kan de factoren die de rijeigenschappen van de autobus beïnvloeden, noemen.  | De factoren:  – het aantal passagiers  – de aanhangwagen  – het type voertuig.  | F  |
-| 6.4**  | Kan uitleggen hoe de veiligheid en het comfort van de passagiers en de bagage gewaarborgd  | De bedrijfszekerheid van het voertuig.  | B  |
-| --- | kan worden.  | Correct en veilig rijgedrag.  | --- |
+| 6.2  | Kan de gevolgen van overbelading noemen.   | De gevolgen:  – ongunstig brandstofverbruik  – versnelde slijtage  – invloed op wegligging  – schade aan wegen  – verkeersveiligheid  – sancties  – invloed op rijeigenschappen  – invloed op passagiers.  | F  |
+| 6.3  | Kan de factoren die de rijeigenschappen van de autobus beïnvloeden, noemen.   | De factoren:  – het aantal passagiers  – de aanhangwagen  – het type voertuig.  | F  |
+| 6.4**  | Kan uitleggen hoe de veiligheid en het comfort van de passagiers en de bagage gewaarborgd   | De bedrijfszekerheid van het voertuig.  | B  |
+| --- | kan worden.   | Correct en veilig rijgedrag.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De ritvoorbereiding.  | --- |
 | --- | --- | --- | --- |
@@ -925,23 +966,23 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | De bagagecontrole.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De passagiersvoorzieningen.  | --- |
-| 6.5**  | Kan de aandachtspunten bij het vervoer van specifieke personen of groepen personen uitleggen.  | Onder andere vervoer van personen met een geestelijke en/of lichamelijke beperking, vervoer van kinderen en ouderen.  | B  |
+| 6.5**  | Kan de aandachtspunten bij het vervoer van specifieke personen of groepen personen uitleggen.   | Onder andere vervoer van personen met een geestelijke en/of lichamelijke beperking, vervoer van kinderen en ouderen.  | B  |
 |  *7.*   |  *De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij de beroepsuitoefening.*   | --- | --- |
-| 7.1  | Kan de werkingssfeer van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het [Arbobesluit](../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) uitleggen.  | De bevordering van gezondheid, veiligheid en welzijn.  | B  |
+| 7.1  | Kan de werkingssfeer van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het [Arbobesluit](../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) uitleggen.   | De bevordering van gezondheid, veiligheid en welzijn.  | B  |
 | --- | --- | Geldt voor alle werknemers en zelfstandigen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De gezamenlijke verantwoordelijkheid werkgevers en -nemers.  | --- |
-| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) noemen.  | De bepalingen in [art. 8](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [11](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).  | F  |
-| 7.3  | Kan de meest voorkomende ongevallen in de vervoerssector en de oorzaken noemen.  | Statistieken van verkeersongevallen.  | F  |
+| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) noemen.   | De bepalingen in [art. 8](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [11](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   | F  |
+| 7.3  | Kan de meest voorkomende ongevallen in de vervoerssector en de oorzaken noemen.   | Statistieken van verkeersongevallen.  | F  |
 | --- | --- | Soorten arbeidsongevallen:  – werken zonder bevoegdheid  – niet borgen, veilig stellen  – veiligheden buiten werking stellen  – onjuist beladen/plaatsen  – ontoereikende afscherming  – defect gereedschap/materieel ter beschikking gesteld  – niet toereikende alarmsystemen  – gebrek aan orde en netheid  – te hoge/lage temperatuur  – te veel/weinig verlichting  – overige directe oorzaken (o.a. vallen).  | --- |
-| 7.4  | Kan uiteenzetten hoe arbeidsongevallen en fysieke risico’s voorkomen kunnen worden en  | Het gebruik van persoonlijke beschermingsmiddelen.  | B  |
-| --- | hoe de gevolgen ervan beperkt kunnen worden.  | De juiste hulpmiddelen (o.a. een lift voor rolstoelen).  | --- |
+| 7.4  | Kan uiteenzetten hoe arbeidsongevallen en fysieke risico’s voorkomen kunnen worden en   | Het gebruik van persoonlijke beschermingsmiddelen.  | B  |
+| --- | hoe de gevolgen ervan beperkt kunnen worden.   | De juiste hulpmiddelen (o.a. een lift voor rolstoelen).  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het vermijden van belastende factoren.  | --- |
-| 7.5  | Kan de oorzaken van verkeersongevallen en de betrokkenheid van autobussen daarbij uitleggen.  | De aard:  – soorten verkeersongevallen  – bij bijzondere manoeuvres.  | B  |
+| 7.5  | Kan de oorzaken van verkeersongevallen en de betrokkenheid van autobussen daarbij uitleggen.   | De aard:  – soorten verkeersongevallen  – bij bijzondere manoeuvres.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De oorzaken:  – fysieke gesteldheid  – psychische gesteldheid, concentratie  – (rij)gedrag  – weersomstandigheden  – verkeersovertredingen  – verkeersdrukte  – bekendheid met de omgeving  – bedrijfszekerheid van het voertuig.  – belading.  | --- |
-| 7.6  | Kan de gevolgen van verkeersongevallen op menselijk, materieel en financieel vlak uitleggen.  | Menselijk:  – verwondingen, blijvende invaliditeit, dood  – psychische klachten  – uitval.  | B  |
+| 7.6  | Kan de gevolgen van verkeersongevallen op menselijk, materieel en financieel vlak uitleggen.   | Menselijk:  – verwondingen, blijvende invaliditeit, dood  – psychische klachten  – uitval.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | Materieel:  – uitval  – stilstand  – capaciteitsgebrek.  | --- |
 | --- | --- | --- | --- |
@@ -962,17 +1003,17 @@ M.H.Schultz van Haegen-Maas Geesteranus
 | --- | --- | --- | --- |
 | --- | --- | Relevante immigratiebepalingen omtrent verstekelingen.  | --- |
 |  *8.*   |  *De kandidaat heeft kennis van en inzicht in de wijze waarop de beroepschauffeur kan bijdragen aan het goede imago van de door hem vertegenwoordigde branche.*   | --- | --- |
-| 8.1  | Kan de taken van de chauffeur noemen in relatie tot het imago van de vervoerssector.  | Vervoert personen dat leidt tot de volgende werkprocessen:  – voert ritvoorbereiding uit  – neemt professioneel deel aan het verkeer  – voert rijklaarcontroles uit  – voert kleine reparaties uit  – plant en berekent rij- en rusttijden  – beoordeelt de staat en hoeveelheid lading en bagage  – de bagagehandling  – draagt zorg voor documenten  – handelt bij incidenten en ongevallen  – onderhoudt professioneel contact met passagiers  – houdt zich aan de werkinstructies van de leidinggevende  – draagt zorg voor het chemisch toilet.  | F  |
+| 8.1  | Kan de taken van de chauffeur noemen in relatie tot het imago van de vervoerssector.   | Vervoert personen dat leidt tot de volgende werkprocessen:  – voert ritvoorbereiding uit  – neemt professioneel deel aan het verkeer  – voert rijklaarcontroles uit  – voert kleine reparaties uit  – plant en berekent rij- en rusttijden  – beoordeelt de staat en hoeveelheid lading en bagage  – de bagagehandling  – draagt zorg voor documenten  – handelt bij incidenten en ongevallen  – onderhoudt professioneel contact met passagiers  – houdt zich aan de werkinstructies van de leidinggevende  – draagt zorg voor het chemisch toilet.   | F  |
 | 8.2  | Kan de personen en de instanties waarmee de chauffeur in zijn werk te maken heeft noemen en het gewenst gedrag van de chauffeur ten opzichte van deze personen uitleggen.  | Onder andere:  – de opdrachtgevers, de klanten  – de passagiers  – bij de reis betrokken personen (hotel-, restaurantpersoneel e.d.)  – de opsporingsambtenaren  – de medeweggebruikers.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | Gewenst gedrag ten opzichte van deze personen.  | --- |
-| 8.3  | Kan uitleggen wat de relatie is tussen de organisatie en uitvoering van het werk en de kwaliteit van de dienstverlening, de commerciële en financiële gevolgen van een geschil en kan uitleggen wat zijn bijdrage hierin kan zijn.  | De kwaliteit van de dienstverlening en het professioneel gedrag van medewerkers:  – uitstraling  – representativiteit chauffeur  – representativiteit materiaal  – klantvriendelijk  – afspraken nakomen  – wijze van communiceren.  | B  |
+| 8.3  | Kan uitleggen wat de relatie is tussen de organisatie en uitvoering van het werk en de kwaliteit van de dienstverlening, de commerciële en financiële gevolgen van een geschil en kan uitleggen wat zijn bijdrage hierin kan zijn.   | De kwaliteit van de dienstverlening en het professioneel gedrag van medewerkers:  – uitstraling  – representativiteit chauffeur  – representativiteit materiaal  – klantvriendelijk  – afspraken nakomen  – wijze van communiceren.  | B  |
 | --- | --- | --- | --- |
 | --- | --- | De commerciële en financiële gevolgen van een geschil.  | --- |
 |  *9.*   |  *De kandidaat heeft kennis van en inzicht in de markt van het personenvervoer.*   | --- | --- |
-| 9.1  | Kan de verschillende modaliteiten, hun voor- en nadelen en hun relatieve aandeel in de personenvervoersstroom noemen.  | De soorten modaliteiten en hun relatieve aandeel:  – openbaar vervoer  – besloten busvervoer  – spoorvervoer  – taxivervoer  – personenauto.  | F  |
+| 9.1  | Kan de verschillende modaliteiten, hun voor- en nadelen en hun relatieve aandeel in de personenvervoersstroom noemen.   | De soorten modaliteiten en hun relatieve aandeel:  – openbaar vervoer  – besloten busvervoer  – spoorvervoer  – taxivervoer  – personenauto.  | F  |
 | 9.2  | Kan op hoofdlijnen het doel en de werkzaamheden van organisaties in het personenvervoer noemen.  | – KNV Busvervoer  – KNV Taxivervoer  – Stichting Arbeidsomstandigheden en Opleidingen voor het Besloten Busvervoer (STAOBB)  – Stichting Keurmerk Touringcarbedrijf.  | F  |
-| 9.3  | Kan onderscheid maken tussen vervoersspecialiteiten en hun toepassing en de verschillende soorten dienstverlening in de vervoersbranche.  | De soorten vervoer:  – pendelvervoer  – rondreizen  – dagtochten  – haal- en brengritten  – schoolvervoer  – doelgroepenvervoer.  | B  |
+| 9.3  | Kan onderscheid maken tussen vervoersspecialiteiten en hun toepassing en de verschillende soorten dienstverlening in de vervoersbranche.   | De soorten vervoer:  – pendelvervoer  – rondreizen  – dagtochten  – haal- en brengritten  – schoolvervoer  – doelgroepenvervoer.  | B  |
 
 ### Bijlage  4  
 
@@ -991,7 +1032,7 @@ M.H.Schultz van Haegen-Maas Geesteranus
 
 | --- | --- |
 |:---|:---|
-| Toelichting op tabel met afbakening  | Tax = Taxonomiecode R = Reproductieve vaardigheid P = Productieve vaardigheid  |
+| Toelichting op tabel met afbakening  | Tax = Taxonomiecode R = Reproductieve vaardigheid P = Productieve vaardigheid   |
 
 |  *Nr*   |  *Eindtermen*   |
 |:---|:---|
@@ -1003,17 +1044,17 @@ M.H.Schultz van Haegen-Maas Geesteranus
 |  *Eindtermen/toetstermen:*   |  *Afbakening:*   |  *Taxonomie code:*   |
 |:---|:---|:---|
 |  *Lading (1.4, 1.6 Bijlage I richtlijn 2003/59/EG)*   |
-| 1.1  | Laden en lossen en vastzetten van lading  | De kandidaat is in staat om de veiligheidsvoorzieningen aan te wijzen en te bedienen.  De kandidaat is in staat om de veiligheidsvoorschriften toe te passen die van belang zijn bij het laden en lossen van de lading:  – goed vastzetten van de lading binnen de voornaamste categorieën (ijzer, hout, rolcontainers, pallets en);  – afdekken van los gestorte goederen  – controle van de vastzetinrichtingen;  – juiste verdeling van de belasting over de assen;  – juiste verdeling van de belasting om de stabiliteit van de vrachtauto te borgen (rekening houdend met het zwaartepunt).  De kandidaat is in staat om in relatie tot de te vervoeren lading:  – een juiste keuze te maken voor klem- en vastzettechnieken (sjorringen, klemstangen, kettingen, rekken, antislipmatten, sjorbanden);  – een juiste keuze te maken voor laad- en losmachines (laadklep en pompwagen).  | F/P  |
+| 1.1  | Laden en lossen en vastzetten van lading  | De kandidaat is in staat om de veiligheidsvoorzieningen aan te wijzen en te bedienen.  De kandidaat is in staat om de veiligheidsvoorschriften toe te passen die van belang zijn bij het laden en lossen van de lading:  – goed vastzetten van de lading binnen de voornaamste categorieën (ijzer, hout, rolcontainers, pallets en); – afdekken van los gestorte goederen  – controle van de vastzetinrichtingen; – juiste verdeling van de belasting over de assen; – juiste verdeling van de belasting om de stabiliteit van de vrachtauto te borgen (rekening houdend met het zwaartepunt).  De kandidaat is in staat om in relatie tot de te vervoeren lading:  – een juiste keuze te maken voor klem- en vastzettechnieken (sjorringen, klemstangen, kettingen, rekken, antislipmatten, sjorbanden); – een juiste keuze te maken voor laad- en losmachines (laadklep en pompwagen).  | F/P  |
 |  *Criminaliteit en illegaliteit (3.2 Bijlage I richtlijn 2003/59/EG)*   |
-| 2.1  | Voorkomen van criminaliteit en illegaliteit  | De kandidaat is in staat de maatregelen (checklist) te noemen waarmee criminaliteit en illegaliteit aan de vrachtauto/lading kan worden voorkomen:  – vrachtauto goed op slot;  – keuze parkeerplaats (verlichte plek, bij anderen parkeren, parkeerplek met toezicht);  – het al dan niet verlaten van de vrachtauto is afhankelijk van het parkeermoment/de parkeerplek;  – voorkomen dat derden bij de lading kunnen komen;  – verzegeling controleren;  – voor het wegrijden de vrachtauto rondom checken: rondom, onder de vrachtauto, verzegeling controleren, andere potentiële verstopplekken en indien mogelijk, de lading;  – zorg dragen voor persoonlijke-, lading- en voertuigdocumenten;  – niet met derden praten over de samenstelling van de lading.  | F  |
+| 2.1  | Voorkomen van criminaliteit en illegaliteit  | De kandidaat is in staat de maatregelen (checklist) te noemen waarmee criminaliteit en illegaliteit aan de vrachtauto/lading kan worden voorkomen:  – vrachtauto goed op slot; – keuze parkeerplaats (verlichte plek, bij anderen parkeren, parkeerplek met toezicht); – het al dan niet verlaten van de vrachtauto is afhankelijk van het parkeermoment/de parkeerplek; – voorkomen dat derden bij de lading kunnen komen; – verzegeling controleren; – voor het wegrijden de vrachtauto rondom checken: rondom, onder de vrachtauto, verzegeling controleren, andere potentiële verstopplekken en indien mogelijk, de lading; – zorg dragen voor persoonlijke-, lading- en voertuigdocumenten; – niet met derden praten over de samenstelling van de lading.  | F  |
 |  *Fysieke risico’s (3.3 Bijlage I richtlijn 2003/59/EG)*   |
-| 3.1  | Voorkomen van fysieke risico’s  | De kandidaat is in staat om maatregelen te nemen waarmee fysieke risico’s tijdens de werkzaamheden worden beperkt:  – juiste manier van in- en uitstappen en betreden van de laadruimte;  – juiste zithouding door afstellen van stoel en spiegels;  – oefeningen tijdens het rijden.  | F/R  |
-| 3.2  | Voorkomen van fysieke risico’s tijdens tillen, verplaatsen en vastzetten van de lading  | De kandidaat is in staat om de maatregelen toe te passen waarmee fysieke risico’s tijdens tillen/goederenbehandeling worden beperkt:  – tillen met rechte rug;  – tijdens het tillen/vastzetten van de lading door de knieën buigen;  – gebruik maken van tilhulpmiddelen;  – gebruik persoonlijke beschermingsmiddelen.  | P  |
+| 3.1  | Voorkomen van fysieke risico’s  | De kandidaat is in staat om maatregelen te nemen waarmee fysieke risico’s tijdens de werkzaamheden worden beperkt:  – juiste manier van in- en uitstappen en betreden van de laadruimte; – juiste zithouding door afstellen van stoel en spiegels; – oefeningen tijdens het rijden.  | F/R  |
+| 3.2  | Voorkomen van fysieke risico’s tijdens tillen, verplaatsen en vastzetten van de lading  | De kandidaat is in staat om de maatregelen toe te passen waarmee fysieke risico’s tijdens tillen/goederenbehandeling worden beperkt:  – tillen met rechte rug; – tijdens het tillen/vastzetten van de lading door de knieën buigen; – gebruik maken van tilhulpmiddelen; – gebruik persoonlijke beschermingsmiddelen.  | P  |
 |  *Noodsituaties (3.5 Bijlage I richtlijn 2003/59/EG)*   |
-| 4.1  | Invullen Europees schadeformulier  | De kandidaat is in staat het Europese schadeformulier correct in te vullen:  – plaats, datum en tijdstip van de aanrijding;  – persoonlijke gegevens van de betrokken partijen;  – gegevens van het andere voertuig;  – getuigen;  – situatieschets;  – handtekening van de betrokken partijen;  van toepassing zijnde kruisjes (bij elkaar optellen).  De kandidaat is in staat aan te geven dat het Europese schadeformulier uniform is in heel Europa (ongeacht de taal).  | R  |
+| 4.1  | Invullen Europees schadeformulier  | De kandidaat is in staat het Europese schadeformulier correct in te vullen:  – plaats, datum en tijdstip van de aanrijding; – persoonlijke gegevens van de betrokken partijen; – gegevens van het andere voertuig; – getuigen; – situatieschets; – handtekening van de betrokken partijen;  van toepassing zijnde kruisjes (bij elkaar optellen).   De kandidaat is in staat aan te geven dat het Europese schadeformulier uniform is in heel Europa (ongeacht de taal).  | R  |
 | 4.2  | Maatregelen bij noodsituaties  | Inschatting van de situatie, erger voorkomen, hulpdiensten waarschuwen, hulp verlenen aan gewonden en eerstehulpverlening, optreden bij brand, inzittenden van de vrachtwagen redden, de veiligheid van alle passagiers waarborgen, reactie in geval van agressie, omgaan met gladheid, omleggen van sneeuwkettingen, omgaan met storingen.  | F/R  |
 
-De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's. De scenario's vindt u op de website www.ccvexamenhuis.nl.  
+De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.  De scenario's vindt u op de website www.ccvexamenhuis.nl. 
 
 ### Bijlage  5  
 
@@ -1032,7 +1073,7 @@ De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's. 
 
 | --- | --- |
 |:---|:---|
-| Toelichting op tabel met afbakening  | Tax = Taxonomiecode R = Reproductieve vaardigheid P = Productieve vaardigheid  |
+| Toelichting op tabel met afbakening  | Tax = Taxonomiecode R = Reproductieve vaardigheid P = Productieve vaardigheid   |
 
 |  *Nr*   |  *Eindtermen*   |
 |:---|:---|
@@ -1045,19 +1086,19 @@ De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's. 
 |  *Eindtermen/toetstermen:*   |  *Afbakening:*   |  *Taxonomie code:*   |
 |:---|:---|:---|
 |  *Beroepshouding (1.5 Bijlage I richtlijn 2003/59/EG)*   |
-| 1.1  | Beroepshouding  | De kandidaat treft de juiste voorbereidingen voor de rit; hij beschikt over een juiste beroepshouding en hij kan de toepassing van verschillende documenten omschrijven.  De kandidaat is tijdens de interactie met passagiers in staat een net en beleefd taalgebruik te bezigen  | P  |
+| 1.1  | Beroepshouding  | De kandidaat treft de juiste voorbereidingen voor de rit; hij beschikt over een juiste beroepshouding en hij kan de toepassing van verschillende documenten omschrijven.   De kandidaat is tijdens de interactie met passagiers in staat een net en beleefd taalgebruik te bezigen   | P  |
 | 1.2  | Reageren op wensen, behoeften en gedragingen van passagiers  | De kandidaat laat door een adequate reactie zien dat hij kan inspelen op de specifieke wensen, behoeften en gedragingen van verschillende soorten passagiers (kinderen, gehandicapten) aan de hand van voorbeeldsituaties die worden aangedragen.  De kandidaat kan de veiligheids- en comfortvoorzieningen bedienen en controleren.  | P  |
 |  *Veiligheid (1.6 Bijlage I richtlijn 2003/59/EG)*   |
-| 2.1  | Veilig vervoeren van bagage  | De kandidaat is in staat om de veiligheidsvoorschriften toe te passen die van belang zijn bij het in- en uitladen van bagage:  – juiste verdeling van de bagage over de assen;  – vastzetten van de bagage om schuiven te voorkomen;  – juist verdeling van de bagage om de stabiliteit van de bus te borgen (rekening houdend met het zwaartepunt).  | P  |
+| 2.1  | Veilig vervoeren van bagage  | De kandidaat is in staat om de veiligheidsvoorschriften toe te passen die van belang zijn bij het in- en uitladen van bagage:  – juiste verdeling van de bagage over de assen; – vastzetten van de bagage om schuiven te voorkomen; – juist verdeling van de bagage om de stabiliteit van de bus te borgen (rekening houdend met het zwaartepunt).  | P  |
 |  *Criminaliteit en illegaliteit (3.2 Bijlage I richtlijn 2003/59/EG)*   |
-| 3.1  | Voorkomen van criminaliteit en illegaliteit  | De kandidaat is in staat de maatregelen (checklist) te noemen waarmee criminaliteit en illegaliteit aan de bus kan worden voorkomen:  – bus goed op slot;  – keuze parkeerplaats (verlichte plek, bij anderen parkeren, parkeerplek met toezicht);  – het al dan niet verlaten van de bus is afhankelijk van het parkeermoment/de parkeerplek;  – voor het wegrijden de bus checken: rondom, onder de bus, andere potentiële verstopplekken;  – zorg dragen voor persoonlijke en voertuigdocumenten.  | F  |
+| 3.1  | Voorkomen van criminaliteit en illegaliteit  | De kandidaat is in staat de maatregelen (checklist) te noemen waarmee criminaliteit en illegaliteit aan de bus kan worden voorkomen:  – bus goed op slot; – keuze parkeerplaats (verlichte plek, bij anderen parkeren, parkeerplek met toezicht); – het al dan niet verlaten van de bus is afhankelijk van het parkeermoment/de parkeerplek; – voor het wegrijden de bus checken: rondom, onder de bus, andere potentiële verstopplekken; – zorg dragen voor persoonlijke en voertuigdocumenten.  | F  |
 |  *Fysieke risico’s (3.3 richtlijn Bijlage I 2003/59/EG)*   |
-| 4.1  | Voorkomen van fysieke risico’s tijdens in- en uitladen van bagage  | De kandidaat is in staat om de maatregelen toe te passen waarmee fysieke risico’s tijdens in- en uitladen van bagage worden beperkt:  – tillen met rechte rug;  – tijdens het tillen van de bagage door de knieën buigen;  – gebruik maken van tilhulpmiddelen;  – gebruik persoonlijke beschermingsmiddelen.  | P  |
+| 4.1  | Voorkomen van fysieke risico’s tijdens in- en uitladen van bagage  | De kandidaat is in staat om de maatregelen toe te passen waarmee fysieke risico’s tijdens in- en uitladen van bagage worden beperkt:  – tillen met rechte rug; – tijdens het tillen van de bagage door de knieën buigen; – gebruik maken van tilhulpmiddelen; – gebruik persoonlijke beschermingsmiddelen.  | P  |
 |  *Noodsituaties (3.5 Bijlage I richtlijn 2003/59/EG)*   |
-| 5.1  | Invullen Europees schadeformulier  | De kandidaat is in staat het Europese schadeformulier in te vullen:  – plaats, datum en tijdstip van de aanrijding;  – persoonlijke gegevens van de betrokken partijen;  – gegevens van het andere voertuig;  – getuigen;  – situatieschets;  – handtekening van de betrokken partijen;  – van toepassing zijnde kruisjes (bij elkaar optellen).  De kandidaat is in staat aan te geven dat het Europese schadeformulier uniform is in heel Europa (ongeacht de taal).  | R  |
+| 5.1  | Invullen Europees schadeformulier  | De kandidaat is in staat het Europese schadeformulier in te vullen:  – plaats, datum en tijdstip van de aanrijding; – persoonlijke gegevens van de betrokken partijen; – gegevens van het andere voertuig; – getuigen; – situatieschets; – handtekening van de betrokken partijen; – van toepassing zijnde kruisjes (bij elkaar optellen).  De kandidaat is in staat aan te geven dat het Europese schadeformulier uniform is in heel Europa (ongeacht de taal).  | R  |
 | 5.2  | Maatregelen bij noodsituaties  | Inschatting van de situatie, erger voorkomen, hulpdiensten waarschuwen, hulp verlenen aan gewonden en eerstehulpverlening, optreden bij brand, passagiers van de bus redden, de veiligheid van alle passagiers waarborgen, reactie in geval van agressie, omgaan met gladheid, omleggen van sneeuwkettingen, omgaan met storingen.  | F/R  |
 
-De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's. De scenario's vindt u op de website www.ccvexamenhuis.nl.  
+De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's.  De scenario's vindt u op de website www.ccvexamenhuis.nl. 
 
 ### Bijlage  6  
 
@@ -1077,12 +1118,12 @@ De precieze invulling van de Praktische toets D is uitgewerkt in de scenario's. 
 
 | --- | --- |
 |:---|:---|
-| Toelichting op tabel met afbakening  | Tax = Taxonomiecode R = Reproductieve vaardigheid P = Productieve vaardigheid  |
+| Toelichting op tabel met afbakening  | Tax = Taxonomiecode R = Reproductieve vaardigheid P = Productieve vaardigheid   |
 
 |  *Eindtermen/toetstermen:*   |  *Afbakening:*   |  *Taxonomie code:*   |
 |:---|:---|:---|
 |  *2003/59/EG, Bijlage I deel 2 paragraaf 2.2*   |
 |  *Controle over het voertuig onder verschillende (weers)omstandigheden*   |
-| 1.1  | Controle over het voertuig  | De kandidaat is in staat aan te tonen het voertuig in verschillende situaties onder controle te hebben:  – vooruit en achteruit manoeuvreren volgens aangegeven parcours;  – parkeren op aangewezen plek;  – bochten rijden met verschillende bochtstralen.  | P  |
-| 1.2  | Controle over het voertuig onder verschillende (weers)omstandigheden  | De kandidaat is in staat aan te tonen het voertuig in verschillende situaties (zie eindterm 1.1) onder verschillende (weers)omstandigheden onder controle te hebben:  – stroef wegdek;  – glad wegdek.  | P  |
+| 1.1  | Controle over het voertuig  | De kandidaat is in staat aan te tonen het voertuig in verschillende situaties onder controle te hebben:  – vooruit en achteruit manoeuvreren volgens aangegeven parcours; – parkeren op aangewezen plek; – bochten rijden met verschillende bochtstralen.  | P  |
+| 1.2  | Controle over het voertuig onder verschillende (weers)omstandigheden  | De kandidaat is in staat aan te tonen het voertuig in verschillende situaties (zie eindterm 1.1) onder verschillende (weers)omstandigheden onder controle te hebben:  – stroef wegdek; – glad wegdek.  | P  |
 

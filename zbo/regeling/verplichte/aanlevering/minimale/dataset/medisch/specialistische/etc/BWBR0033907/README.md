@@ -6,7 +6,7 @@
 
 ####Grondslag
 
-Gelet op de [artikelen 36](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [62](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) junto [68 van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg) stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.  
+Gelet op de [artikelen 36](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [62](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) junto [68 van de Wet marktordening gezondheidszorg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg) stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast. 
 
 ### Artikel  2  
 
@@ -24,13 +24,13 @@ Deze regeling is van toepassing op
 
 – voor zover zij medisch specialistische zorg leveren (niet zijnde curatieve geestelijke gezondheidszorg);  
 
-– instellingen die geriatrische revalidatiezorg (GRZ) leveren.    
+– instellingen die geriatrische revalidatiezorg (GRZ) leveren.   
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-De regeling treedt in werking op 1 januari 2013. Met de inwerkingtreding van deze regeling wordt de regeling ‘ [Regeling verplichte aanlevering minimale dataset medisch specialistische zorg (MDS)](../../../../../../../../../../zbo/regeling/verplichte/aanlevering/minimale/dataset/medisch/specialistische/etc/BWBR0030761/README.md) ’ met kenmerk NR/CU-211 ingetrokken. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b van de Wmg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 30 december 2012, treedt deze regeling in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin de mededeling wordt geplaatst, en werkt hij terug tot en met 1 januari 2013. Deze regeling kan worden aangehaald als ‘Regeling verplichte aanlevering minimale dataset medisch specialistische zorg (MDS)’.  
+De regeling treedt in werking op 1 januari 2013. Met de inwerkingtreding van deze regeling wordt de regeling ‘[Regeling verplichte aanlevering minimale dataset medisch specialistische zorg (MDS)](../../../../../../../../../../zbo/regeling/verplichte/aanlevering/minimale/dataset/medisch/specialistische/etc/BWBR0030761/README.md)’ met kenmerk NR/CU-211 ingetrokken. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b van de Wmg](../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 30 december 2012, treedt deze regeling in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin de mededeling wordt geplaatst, en werkt hij terug tot en met 1 januari 2013. Deze regeling kan worden aangehaald als ‘Regeling verplichte aanlevering minimale dataset medisch specialistische zorg (MDS)’. 
 
 ### Artikel  4  
 
@@ -42,9 +42,9 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 4.2  *DBC*  Een Diagnose Behandeling Combinatie (DBC) is een declarabele prestatie, die de resultante is van het totale traject van de diagnose die de zorgverlener stelt tot en met de (eventuele) behandeling die hieruit volgt. Vanaf 1 januari 2012 worden zorgprestaties uitgedrukt in DBC-zorgproducten.  
 
-4.3  *DBC informatiesysteem (DIS)*  Het DBC informatiesysteem (DIS) ontvangt en beheert informatie over DBC’s, waaronder de informatie die op grond van deze regeling moet worden aangeleverd.  
+4.3  *DBC informatiesysteem (DIS)*   Het DBC informatiesysteem (DIS) ontvangt en beheert informatie over DBC’s, waaronder de informatie die op grond van deze regeling moet worden aangeleverd.  
 
-4.4  *DBC-zorgproduct*  Een DBC-zorgproduct is een declarabele prestatie welke is afgeleid uit een subtraject en zorgactiviteiten via door de NZa vastgestelde beslisbomen. Een subtraject dat voldoet aan de voorwaarden met betrekking tot de afleiding ervan, leidt, in combinatie met het zorgprofiel, tot een declarabel DBC-zorgproduct.  
+4.4  *DBC-zorgproduct*   Een DBC-zorgproduct is een declarabele prestatie welke is afgeleid uit een subtraject en zorgactiviteiten via door de NZa vastgestelde beslisbomen. Een subtraject dat voldoet aan de voorwaarden met betrekking tot de afleiding ervan, leidt, in combinatie met het zorgprofiel, tot een declarabel DBC-zorgproduct.  
 
 4.5  *Declaratiedataset*  de voor afleiding aan een grouper aangeboden verzameling van gegevens omtrent de door een zorgaanbieder aan een patiënt geleverde zorg.  
 
@@ -52,19 +52,19 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 4.7  *Onderlinge dienstverlening*  Er is sprake van onderlinge dienstverlening indien geen sprake is van een 'eigen patiënt' volgens de definitie, maar de prestatie (op verzoek van de hoofdbehandelaar) door een andere instelling of een andere medisch specialist (niet zijnde de hoofdbehandelaar) wordt geleverd. Indien deze prestatie is uitgedrukt in zorgactiviteiten behoren deze tot het zorgprofiel van de hoofdbehandelaar.  
 
-4.8  *Overige zorgproducten (OZP)*  De prestaties binnen de medisch specialistische zorg, niet zijnde DBC-zorgproducten. Overige zorgproducten zijn per 2013 onderverdeeld in vier hoofdcategorieën, te weten supplementaire producten, eerstelijnsdiagnostiek (ELD), paramedische behandeling en onderzoek, en overige verrichtingen. <sup> 1  Tot en met 2012 bestonden overige zorgproducten uit vijf categorieën, te weten: add-ons, ondersteunende producten (OP), overige producten (OVP), overige trajecten en overige verrichtingen.  </sup>  
+4.8  *Overige zorgproducten (OZP)*  De prestaties binnen de medisch specialistische zorg, niet zijnde DBC-zorgproducten. Overige zorgproducten zijn per 2013 onderverdeeld in vier hoofdcategorieën, te weten supplementaire producten, eerstelijnsdiagnostiek (ELD), paramedische behandeling en onderzoek, en overige verrichtingen.<sup> 1 Tot en met 2012 bestonden overige zorgproducten uit vijf categorieën, te weten: add-ons, ondersteunende producten (OP), overige producten (OVP), overige trajecten en overige verrichtingen. </sup>   
 
-4.9  *Zorgproduct*  een aanduiding van prestaties binnen de medisch specialistisch zorg. Zorgproducten zijn onderverdeeld in DBC-zorgproducten en overige zorgproducten.    
+4.9  *Zorgproduct*  een aanduiding van prestaties binnen de medisch specialistisch zorg. Zorgproducten zijn onderverdeeld in DBC-zorgproducten en overige zorgproducten.   
 
 ### Artikel  5  
 
 ####Aanlevering MDS
 
-5.1 De instelling is verplicht om voor de eerste dag van elke kalendermaand (m) van alle aan de patiënt of de zorgverzekeraar gedeclareerde DBC-zorgproducten en overige zorgproducten, welke worden gerekend tot de omzet van de kalendermaand (m-2), per zorgproduct de Minimale Dataset (MDS) aan te leveren. <sup> 2  De in bijlage 1 bij deze regeling gespecificeerde gegevens.  </sup>  
+5.1 De instelling is verplicht om voor de eerste dag van elke kalendermaand (m) van alle aan de patiënt of de zorgverzekeraar gedeclareerde DBC-zorgproducten en overige zorgproducten, welke worden gerekend tot de omzet van de kalendermaand (m-2), per zorgproduct de Minimale Dataset (MDS) aan te leveren.<sup> 2 De in bijlage 1 bij deze regeling gespecificeerde gegevens. </sup>   
 
 5.2 De instelling levert de in de voorgaande bepaling bedoelde gegevens elektronisch aan bij het DBC Informatiesysteem (DIS) en past daarbij de op de website van de NZa gepubliceerde “aanleverstandaard DIS” toe.  
 
-5.3 De instelling dient mutaties en aanvullingen op de al aangeleverde MDS-informatie van productie afgesloten in JAAR[x-1] uiterlijk voor 1 oktober van JAAR[x] aan te leveren bij DIS.    
+5.3 De instelling dient mutaties en aanvullingen op de al aangeleverde MDS-informatie van productie afgesloten in JAAR[x-1] uiterlijk voor 1 oktober van JAAR[x] aan te leveren bij DIS.   
 
 ### Artikel  6  
 
@@ -72,7 +72,7 @@ In deze regeling worden de volgende begrippen en afkortingen gebruikt.
 
 6.1 Gegevensaanlevering bij DIS kan uitsluitend via de door DIS gespecificeerde methode en wordt voorzien van een technische controle door DIS.  
 
-6.2 Na deze technische toetsing volgt een inhoudelijke beoordeling door het DIS. Indien hieruit naar voren komt dat de kwaliteit van de gegevensaanlevering onvoldoende is, zal de NZa haar handhavingsbevoegdheden inzetten.    
+6.2 Na deze technische toetsing volgt een inhoudelijke beoordeling door het DIS. Indien hieruit naar voren komt dat de kwaliteit van de gegevensaanlevering onvoldoende is, zal de NZa haar handhavingsbevoegdheden inzetten.   
 
 de Raad van Bestuur van de Nederlandse Zorgautoriteit, 
 T.W. Langejan,  
@@ -106,9 +106,9 @@ B) Identificatie patiënt
 
 7. Identificatie ziektekostenverzekeraar (conform UZOVI-register)    
 
-C) Productie per patiënt  
+C)  Productie per patiënt  
 
-| DBC-Zorgproduct  | Overig zorgproduct  |
+| DBC-Zorgproduct   | Overig zorgproduct  |
 |:---|:---|
 | 1. Begindatum Zorgtraject  | 23. Declaratiecode  |
 | 2. Begindatum Subtraject  | 24. Verrichtingendatum  |
@@ -168,7 +168,7 @@ D) Data ivm technische noodzakelijkheid
 
 11. Uitgevoerde zorgactiviteitnummer  
 
-12. Hoofdtraject indicatie      
+12. Hoofdtraject indicatie     
 
 ####Toelichting op uitvraag MDS
 

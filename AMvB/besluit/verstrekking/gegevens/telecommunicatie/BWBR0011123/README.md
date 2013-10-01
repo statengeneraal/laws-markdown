@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Verkeer en Waterstaat van
 
 20 mei 1998, nr. HDTP/98/1553/HW, Hoofddirectie Telecommunicatie en Post in overeenstemming met Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de artikelen 13.1, tweede lid, 13.2, derde lid, 13.4, derde lid, en 20.18 van de Telecommunicatiewet;
+Gelet op de [artikelen 13.1, tweede lid](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), 13.2, derde lid, 13.4, derde lid, en 20.18 van de Telecommunicatiewet;
 
 De Raad van State gehoord (advies van 19 augustus 1998, nr. W09.98.0215);
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: Telecommunicatiewet;  
+a. wet: [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
 b. informatiepunt: het Centraal informatiepunt onderzoek telecommunicatie, bedoeld in artikel 2;  
 
@@ -27,13 +27,13 @@ c. aanbieder: de aanbieder van een openbaar telecommunicatienetwerk of een openb
 
 d. bevoegde autoriteit: 
 
-1°. de rechter-commissaris in strafzaken, de officier van justitie, de korpschef, bedoeld in artikel 27 van de Politiewet 2012, of het hoofd van een opsporingsdienst, dan wel de door de korpschef voor zijn korps of door het hoofd voor zijn dienst aangewezen opsporingsambtenaar,  
+1°. de rechter-commissaris in strafzaken, de officier van justitie, de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md), of het hoofd van een opsporingsdienst, dan wel de door de korpschef voor zijn korps of door het hoofd voor zijn dienst aangewezen opsporingsambtenaar,  
 
 2°. het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar,  
 
 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;    
 
-e. informatie: de informatie, bedoeld in artikel 13.4, eerste lid, van de wet, voor zover deze informatie geen betrekking heeft op een ander nummer dan het aansluitnummer voor vaste of mobiele openbare telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van randapparaten of een toegewezen Internet-protocol-nummer voor openbare telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang tot Internet of de door middel van Internet te leveren of te verrichten diensten;  
+e. informatie: de informatie, bedoeld in [artikel 13.4, eerste lid, van de wet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voor zover deze informatie geen betrekking heeft op een ander nummer dan het aansluitnummer voor vaste of mobiele openbare telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van randapparaten of een toegewezen Internet-protocol-nummer voor openbare telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang tot Internet of de door middel van Internet te leveren of te verrichten diensten;  
 
 f. gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een netwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst;  
 
@@ -41,11 +41,11 @@ g. aansluitnummer:
 
 1°. bij vaste openbare telefoonnetwerken, onderscheidenlijk vaste openbare telefoondiensten: het bij een netwerkaansluitpunt behorende nummer;  
 
-2°. bij mobiele openbare telefoonnetwerken, onderscheidenlijk, openbare mobiele telefoondiensten: het Mobile Station Integrated Systems Digital Network Number.      
+2°. bij mobiele openbare telefoonnetwerken, onderscheidenlijk, openbare mobiele telefoondiensten: het Mobile Station Integrated Systems Digital Network Number.     
 
 ### Artikel  2  
 
-Onze Minister van Veiligheid en Justitie is belast met het langs geautomatiseerde weg doorgeleiden van verzoeken om en verstrekkingen van informatie. Hij voert deze taak uit door middel van het Centraal informatiepunt onderzoek telecommunicatie.  
+Onze Minister van Veiligheid en Justitie is belast met het langs geautomatiseerde weg doorgeleiden van verzoeken om en verstrekkingen van informatie. Hij voert deze taak uit door middel van het Centraal informatiepunt onderzoek telecommunicatie. 
 
 ### Artikel  3  
 
@@ -54,7 +54,7 @@ Onze Minister van Veiligheid en Justitie is belast met het langs geautomatiseerd
 3.  De aanbieder verstrekt de informatie door tussenkomst van het informatiepunt. Daartoe verleent de aanbieder het informatiepunt langs geautomatiseerde weg gedurende 24 uur per dag rechtstreekse toegang tot een bestand als bedoeld in artikel 4, eerste lid.   
 4.  Het informatiepunt vergelijkt langs geautomatiseerde weg de gegevens waarop het verzoek betrekking heeft met de gegevens in het bestand, bedoeld in artikel 4, eerste lid. Wanneer de gegevens waarop het verzoek betrekking heeft aanwezig zijn in het bestand, worden deze langs geautomatiseerde weg door het informatiepunt doorgeleid aan de bevoegde autoriteit.   
 5.  Op verzoek van de bevoegde autoriteit voorziet de aanbieder zonder tussenkomst van het informatiepunt in correctie van of toelichting op de gegevens, bedoeld in het vierde lid, tweede volzin.   
-6.  Een aanbieder en het informatiepunt komen overeen dat het informatiepunt optreedt als bewerker van het bestand, bedoeld in artikel 4, indien de apparatuur waarin het bestand is opgeslagen in beheer is bij het informatiepunt.   
+6.  Een aanbieder en het informatiepunt komen overeen dat het informatiepunt optreedt als bewerker van het bestand, bedoeld in artikel 4, indien de apparatuur waarin het bestand is opgeslagen in beheer is bij het informatiepunt.  
 
 ### Artikel  4  
 
@@ -91,16 +91,16 @@ b. geen gegevens van de aanbieder bekend aan anderen dan het informatiepunt of d
 
 c. aan het informatiepunt of de bevoegde autoriteit geen andere gegevens bekend dan die welke ingevolge artikel 4, eerste lid, zijn opgenomen in het in dat artikellid bedoelde bestand.     
 5.  De vergelijking, bedoeld in artikel 3, vierde lid, vindt slechts plaats aan de hand van een in het verzoek opgenomen gegeven betreffende naam, adres, postcode, huisnummer, nummertoevoeging of nummer.   
-6.  De doorgeleiding, bedoeld in artikel 3, vierde lid, betreft slechts de gegevens waarop het verzoek zich richt.   
+6.  De doorgeleiding, bedoeld in artikel 3, vierde lid, betreft slechts de gegevens waarop het verzoek zich richt.  
 
 ### Artikel  6  
 
-Bij regeling van Onze Minister van Veiligheid en Justitie kunnen regels worden gesteld met betrekking tot de werkwijze van het informatiepunt.  
+Bij regeling van Onze Minister van Veiligheid en Justitie kunnen regels worden gesteld met betrekking tot de werkwijze van het informatiepunt. 
 
 ### Artikel  7  
 
 1.  Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt voor elke informatieverstrekking een kenmerk vastlegt aan de hand waarvan kan worden herleid door welke aanbieder, aan welke bevoegde autoriteit en op welke rechtsgrondslag informatie is verstrekt. De vastlegging wordt gedurende drie jaren bewaard.   
-2.  Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt geen gegevens opslaat als bedoeld in artikel 4, eerste lid, tenzij de gegevens worden opgeslagen onder verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld in artikel 3, zesde lid. De vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een verzoek om informatie betrekking heeft.   
+2.  Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt geen gegevens opslaat als bedoeld in artikel 4, eerste lid, tenzij de gegevens worden opgeslagen onder verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld in artikel 3, zesde lid. De vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een verzoek om informatie betrekking heeft.  
 
 ### Artikel  8  
 
@@ -108,43 +108,43 @@ Bij regeling van Onze Minister van Veiligheid en Justitie kunnen regels worden g
 
 a. de rechtsgrondslag van het verzoek van de bevoegde autoriteit,  
 
-b. de arrondissementsparketten en de politie, of andere opsporingsdiensten.     
+b. de arrondissementsparketten en de politie, of andere opsporingsdiensten.      
 2.  Onze Minister van Veiligheid en Justitie stelt jaarlijks een verslag op van een audit naar de goede uitvoering van dit besluit door de aanbieders van openbare telecommunicatiediensten of van openbare telecommunicatienetwerken, het informatiepunt, de arrondissementsparketten en de politie, of andere opsporingsdiensten. Daarbij worden ten minste de volgende onderwerpen behandeld: 
 
 a. de werking van het systeem;  
 
 b. de kwaliteit van de verstrekking van gegevens;  
 
-c. de bevraging van gegevens.     
+c. de bevraging van gegevens.    
 
 ### Artikel  9  
 
-Met de in artikel 3, eerste lid, bedoelde technische voorzieningen worden gelijkgesteld technische voorzieningen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lid-staat van de Europese Unie dan wel rechtmatig zijn geproduceerd in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige eisen voldoen.  
+Met de in artikel 3, eerste lid, bedoelde technische voorzieningen worden gelijkgesteld technische voorzieningen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lid-staat van de Europese Unie dan wel rechtmatig zijn geproduceerd in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige eisen voldoen. 
 
 ### Artikel  10  
 
-Wijzigt het Besluit aftappen openbare telecommunicatienetwerken en -diensten.   
+Wijzigt het Besluit aftappen openbare telecommunicatienetwerken en -diensten.  
 
-### Artikel  11  
+###Artikel 11  
 
 1.  De artikelen 2 tot en met 7 zijn tot 1 september 2007 niet van toepassing op verzoeken om informatie gericht tot of verstrekkingen van informatie afkomstig van de aanbieder van een openbare telecommunicatiedienst die uitsluitend bestaat in de verlening van toegang tot Internet en de door middel van Internet te leveren of te verrichten diensten.   
-2.  Onze Minister van Veiligheid en Justitie, een aanbieder als bedoeld in het eerste lid en iedere bevoegde autoriteit kunnen gezamenlijk beslissen bij de verzoeken en de verstrekkingen, bedoeld in het eerste lid, gebruik te maken van het informatiepunt en de en daarbij toepassing te geven aan de artikelen 2 tot en met 7.   
+2.  Onze Minister van Veiligheid en Justitie, een aanbieder als bedoeld in het eerste lid en iedere bevoegde autoriteit kunnen gezamenlijk beslissen bij de verzoeken en de verstrekkingen, bedoeld in het eerste lid, gebruik te maken van het informatiepunt en de en daarbij toepassing te geven aan de artikelen 2 tot en met 7.  
 
 ### Artikel  13  
 
-Dit besluit wordt aangehaald als: Besluit verstrekking gegevens telecommunicatie.  
+Dit besluit wordt aangehaald als: Besluit verstrekking gegevens telecommunicatie. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 26 januari 2000  
-Beatrix  
+Beatrix   
 
 De Minister van Verkeer en Waterstaat, 
-T. Netelenbos   
+T. Netelenbos    
 
 De Minister van Justitie, 
-A. H. Korthals   
+A. H. Korthals    
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
 A. Peper   
@@ -152,17 +152,17 @@ A. Peper
 de *vijftiende* februari 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  
 
-####bij het Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)
+####bij het Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie) 
 
-####Specificatie interface voor aanlevering gegevens aan het informatiepunt
+####Specificatie interface voor aanlevering gegevens aan het informatiepunt 
 
 ### 1  
 
-####Gegevensverstekking
+#### Gegevensverstekking
 
 1. De aanbieder verstrekt de navolgende op de gebruiker betrekking hebbende gegevens: 
 
@@ -214,7 +214,7 @@ c. verstoring van de communicatie met het systeem niet mogelijk is, waarbij als 
 
 ####Anonimiteit van de gegevens
 
-De doorgeleiding van gevraagde gegevens geschiedt anoniem. Deze anonimiteit dient technisch gewaarborgd te zijn. Met uitzondering van de periode gedurende welke de gegevens worden ingevoerd of worden geactualiseerd is het bestand niet toegankelijk voor de desbetreffende aanbieder.  
+De doorgeleiding van gevraagde gegevens geschiedt anoniem. Deze anonimiteit dient technisch gewaarborgd te zijn. Met uitzondering van de periode gedurende welke de gegevens worden ingevoerd of worden geactualiseerd is het bestand niet toegankelijk voor de desbetreffende aanbieder. 
 
 ### 7  
 

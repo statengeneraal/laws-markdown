@@ -18,17 +18,17 @@ Naar aanleiding van vragen aan de Belastingdienst zijn de afgelopen jaren standp
 
 *loonheffingen:* loonheffing, premies werknemersverzekeringen en de inkomensafhankelijke bijdrage Zorgverzekeringswet  
 
-*URLB 2001:* [Uitvoeringsregeling loonbelasting 2001](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2001/BWBR0012059/README.md)   
+*URLB 2001:* [Uitvoeringsregeling loonbelasting 2001](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2001/BWBR0012059/README.md)  
 
-*URLB 2011:* [Uitvoeringsregeling loonbelasting 2011](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md)   
+*URLB 2011:* [Uitvoeringsregeling loonbelasting 2011](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md)  
 
 *vrije ruimte:* 1,5% (in 2013) van het loon, zoals bedoeld in [artikel 31a, van de Wet LB](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  
 
 *werkgever:* inhoudingsplichtige voor de loonheffingen  
 
-*Wet LB:* [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)   
+*Wet LB:* [Wet op de loonbelasting 1964](../../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)  
 
-*Wfsv:* [Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md)   
+*Wfsv:* [Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md)  
 
 *WKR:* Werkkostenregeling       
 ### 2  
@@ -173,7 +173,7 @@ Als een werkgever zijn werknemer kleding verstrekt ten behoeve van de behoorlijk
 
 –  *Kleding als ARBO-verstrekking*  Dit betreft kleding met bijzondere eigenschappen, zoals isolerende of beschermende kleding, die in redelijkheid deel uit kan maken van een ARBO-plan en die overwegend tijdens werktijd wordt gedragen. De werkgever kan dergelijke kleding onder omstandigheden vrij vergoeden of verstrekken (zie paragraaf 3.7 van dit besluit).  
 
-–  *Kleding op de werkplek*  Dit betreft kleding die de werkgever verstrekt en die blijft op een arbeidsplaats buiten de woning van de werknemer. De werkgever kan dergelijke kleding vrij verstrekken (zie [artikel 56 van de URLB 2001](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2001/BWBR0012059/README.md)).  
+–   *Kleding op de werkplek*  Dit betreft kleding die de werkgever verstrekt en die blijft op een arbeidsplaats buiten de woning van de werknemer. De werkgever kan dergelijke kleding vrij verstrekken (zie [artikel 56 van de URLB 2001](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2001/BWBR0012059/README.md)).  
 
 –  *Kleding als product uit eigen bedrijf*  Voor andere kleding dan werkkleding, kleding als ARBO-verstrekking en kleding op de werkplek, geldt het volgende. Als de kleding een zogenoemd product uit eigen bedrijf is, kan de werkgever de kleding onder voorwaarden gedeeltelijk vrij vergoeden of verstrekken (zie [artikel 41 van de URLB 2001](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2001/BWBR0012059/README.md) en paragraaf 3.6 van dit besluit).  
 
@@ -512,5 +512,5 @@ Den Haag
 18 september 2013   
 
 De 
-Staatssecretaris van Financiën,
-F.H.H.Weekers   
+Staatssecretaris van Financiën, 
+F.H.H. Weekers     

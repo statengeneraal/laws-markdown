@@ -22,7 +22,7 @@ besluit de Nederlandse Zorgautoriteit (NZa) tot vaststelling van de navolgende r
 
 ####Reikwijdte
 
-Deze regeling is van toepassing op zorgaanbieders die tweedelijns curatieve geestelijke gezondheidszorg leveren, voor zover daarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). <sup> 1  De term ‘tweedelijns’ is hier bewust gekozen ter onderscheiding van de eerstelijns psychologische zorg, waarvoor vrije tarieven als bedoeld in artikel 50, eerste lid, onderdeel a, van de Wmg, gelden. Op laatstgenoemde categorie zorg is deze regeling derhalve niet van toepassing. Waar in deze regeling wordt gesproken van curatieve GGZ wordt steeds gedoeld op tweedelijns curatieve GGZ.  </sup> Deze regeling is voorts van toepassing op zorgverzekeraars als bedoeld in artikel 3, onderdeel f. Deze regeling is daarnaast van toepassing op degene die gegevens verzamelt, bewaart en bewerkt ten behoeve van zorgaanbieders of zorgverzekeraars, alsmede op de groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), indien zorgaanbieders of zorgverzekeraars daartoe behoren.  
+Deze regeling is van toepassing op zorgaanbieders die tweedelijns<sup> 1 De term ‘tweedelijns’ is hier bewust gekozen ter onderscheiding van de eerstelijns psychologische zorg, waarvoor vrije tarieven als bedoeld in artikel 50, eerste lid, onderdeel a, van de Wmg, gelden. Op laatstgenoemde categorie zorg is deze regeling derhalve niet van toepassing. Waar in deze regeling wordt gesproken van curatieve GGZ wordt steeds gedoeld op tweedelijns curatieve GGZ. </sup> curatieve geestelijke gezondheidszorg leveren, voor zover daarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Deze regeling is voorts van toepassing op zorgverzekeraars als bedoeld in artikel 3, onderdeel f. Deze regeling is daarnaast van toepassing op degene die gegevens verzamelt, bewaart en bewerkt ten behoeve van zorgaanbieders of zorgverzekeraars, alsmede op de groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), indien zorgaanbieders of zorgverzekeraars daartoe behoren. 
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ Deze regeling heeft tot doel uitvoering te geven aan het macrobeheersinstrument 
 
 – voorschriften met betrekking tot regelmatige gegevensverstrekking;  
 
-– voorschriften met betrekking tot afdracht in verband met overschrijding van een grens als bedoeld in [artikel 50, tweede lid, Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).    
+– voorschriften met betrekking tot afdracht in verband met overschrijding van een grens als bedoeld in [artikel 50, tweede lid, Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
 
 ### Artikel  3  
 
@@ -42,31 +42,31 @@ Deze regeling heeft tot doel uitvoering te geven aan het macrobeheersinstrument 
 
 In deze regeling wordt verstaan onder: 
 
-a. *curatieve geestelijke gezondheidszorg:* geneeskundige (op genezing gerichte) geestelijke gezondheidszorg;  
+a.  *curatieve geestelijke gezondheidszorg:* geneeskundige (op genezing gerichte) geestelijke gezondheidszorg;  
 
-b. *geneeskundige geestelijke gezondheidszorg:* zorg als bedoeld in de Wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, Artikel III);  
+b.  *geneeskundige geestelijke gezondheidszorg:* zorg als bedoeld in de Wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, Artikel III);  
 
-c. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
+c.  *minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-d. *zorgaanbieder:* de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig curatieve geestelijke gezondheidszorg verleent én de houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersingsinstrument;  
+d.  *zorgaanbieder:* de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig curatieve geestelijke gezondheidszorg verleent én de houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersingsinstrument;  
 
-e. *DBC (Diagnose Behandeling Combinatie):* prestatiebeschrijving ten behoeve van de levering van curatieve geestelijke gezondheidszorg die het geheel van activiteiten gedurende het zorgtraject typeert, voortvloeiend uit de zorgvraag waarvoor een cliënt een zorgaanbieder consulteert;  
+e.  *DBC (Diagnose Behandeling Combinatie):* prestatiebeschrijving ten behoeve van de levering van curatieve geestelijke gezondheidszorg die het geheel van activiteiten gedurende het zorgtraject typeert, voortvloeiend uit de zorgvraag waarvoor een cliënt een zorgaanbieder consulteert;  
 
-f. *zorgverzekeraar:* een verzekeraar als bedoeld in [artikel 1, onder b, van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+f.  *zorgverzekeraar:* een verzekeraar als bedoeld in [artikel 1, onder b, van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-g. *Zorgverzekeringsfonds:* het fonds als bedoeld in [artikel 39 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+g.  *Zorgverzekeringsfonds:* het fonds als bedoeld in [artikel 39 van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-h. *budgettair kader zorg (BKZ):* door het Ministerie van VWS jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg ; <sup> 2  In het kader van deze beleidsregel gaat het uitsluitend om tweedelijns curatieve geestelijke gezondheidszorg.  </sup>  
+h.  *budgettair kader zorg (BKZ):* door het Ministerie van VWS jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg<sup> 2 In het kader van deze beleidsregel gaat het uitsluitend om tweedelijns curatieve geestelijke gezondheidszorg. </sup>;  
 
-i. *macrobeheersinstrument (MBI):* instrument waarmee op grond van de [artikelen 35, zevende lid](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [artikel 50, tweede lid, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), ontstane overschrijdingen op het BKZ achteraf kunnen worden geredresseerd;  
+i.  *macrobeheersinstrument (MBI):* instrument waarmee op grond van de [artikelen 35, zevende lid](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [artikel 50, tweede lid, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), ontstane overschrijdingen op het BKZ achteraf kunnen worden geredresseerd;  
 
-j. *macro-omzetgrens:* bovengrens;  
+j.  *macro-omzetgrens:* bovengrens;  
 
-k. *bovengrens:* grens als bedoeld in [artikel 50, tweede lid, onder c, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+k.  *bovengrens:* grens als bedoeld in [artikel 50, tweede lid, onder c, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-l. *gerealiseerde omzet:* DBC’s en de daarbij behorende deelprestaties die in kalenderjaar t worden geopend en uiterlijk 1 juli jaar t+2 zijn gehonoreerd inclusief de correcties volgend uit de materiële controles tot 1 juli 2015 plus de gehonoreerde omzet in jaar t verkregen uit declaratie van het overige product ‘Beeldvormend onderzoek/klinisch-chemische en microbiologische laboratorium-onderzoeken in opdracht van een extramurale curatieve GGZ-aanbieder’ ; <sup> 3  Tenzij anders vermeld, wordt met jaar t schadelastjaar t bedoeld.  </sup> <sup> 4  Zie ook de beleidsregel ‘Overige producten curatieve GGZ’ (BR/CU-5074).  </sup>  
+l.  *gerealiseerde omzet:* DBC’s en de daarbij behorende deelprestaties die in kalenderjaar t worden geopend en uiterlijk 1 juli jaar t+2 zijn gehonoreerd inclusief de correcties volgend uit de materiële controles tot 1 juli 2015 plus de gehonoreerde omzet in jaar t<sup> 3 Tenzij anders vermeld, wordt met jaar t schadelastjaar t bedoeld. </sup> verkregen uit declaratie van het overige product ‘Beeldvormend onderzoek/klinisch-chemische en microbiologische laboratorium-onderzoeken in opdracht van een extramurale curatieve GGZ-aanbieder’<sup> 4 Zie ook de beleidsregel ‘Overige producten curatieve GGZ’ (BR/CU-5074). </sup>;  
 
-m. *algemeen gegevensbeheer code (AGB-code):* unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd.    
+m.  *algemeen gegevensbeheer code (AGB-code):* unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd.   
 
 ### Artikel  4  
 
@@ -76,7 +76,7 @@ De zorgverzekeraar richt haar administratie op een zodanige wijze in dat daaruit
 
 – de gerealiseerde omzet van de zorgaanbieder als bedoeld in artikel 3, onderdeel l;  
 
-– de AGB-code waarop de gerealiseerde omzet betrekking heeft.    
+– de AGB-code waarop de gerealiseerde omzet betrekking heeft.   
 
 ### Artikel  5  
 
@@ -96,38 +96,38 @@ De zorgverzekeraar richt haar administratie op een zodanige wijze in dat daaruit
 
 – een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;  
 
-– een accountantsverklaring als bedoeld in artikel 6.     
+– een accountantsverklaring als bedoeld in artikel 6.    
 
 ### Artikel  6  
 
 ####Uitzondering
 
-Artikel 5 is niet van toepassing, indien door de NZa in een collectieve beschikking kenbaar is gemaakt dat de bovengrens met betrekking tot de curatieve GGZ niet is overschreden.  
+Artikel 5 is niet van toepassing, indien door de NZa in een collectieve beschikking kenbaar is gemaakt dat de bovengrens met betrekking tot de curatieve GGZ niet is overschreden. 
 
 ### Artikel  7  
 
 ####Accountantcontrole gegevensverstrekking
 
-De verzekeraar draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) de juistheid van de op grond van het artikel 5 verstrekte gegevens en inlichtingen vaststelt, overeenkomstig de wijze die is bepaald in de in artikel 5, derde lid, genoemde formulieren en het daarbij beschikbaar te stellen controleprotocol is aangegeven.  
+De verzekeraar draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) de juistheid van de op grond van het artikel 5 verstrekte gegevens en inlichtingen vaststelt, overeenkomstig de wijze die is bepaald in de in artikel 5, derde lid, genoemde formulieren en het daarbij beschikbaar te stellen controleprotocol is aangegeven. 
 
 ### Artikel  8  
 
 ####Wijze van gegevensverstrekking
 
-De zorgverzekeraar verzendt de opgave als bedoeld in artikel 5 naar het navolgende e-mailadres formulierencure@nza.nl. Het in artikel 5 bedoelde formulier en het in artikel 6 bedoelde controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl).  
+De zorgverzekeraar verzendt de opgave als bedoeld in artikel 5 naar het navolgende e-mailadres formulierencure@nza.nl. Het in artikel 5 bedoelde formulier en het in artikel 6 bedoelde controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl). 
 
 ### Artikel  9  
 
 ####Afdracht overschrijding
 
 1.  Op grond van de beleidsregel ‘Macrobeheersinstrument curatieve GGZ’, kenmerk BR/CU-5083, draagt de NZa in een aanwijzing als bedoeld in [artikel 76, tweede lid, Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), de zorgaanbieder op een percentage van de door haar in jaar t behaalde omzet in jaar t+2 terug te betalen. Het hiervoor genoemde percentage, dat voor iedere zorgaanbieder van curatieve GGZ hetzelfde is, wordt vastgesteld op basis van de (procentuele) verhouding tussen de hoogte van de overschrijding van de bovengrens en de op grond van [artikel 50, tweede lid, onder c, Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), vastgestelde macro-omzetgrens.   
-2.  De in het vorige lid genoemde terugbetaling geschiedt ten gunste van het Zorgverzekeringsfonds binnen een in de in de aanwijzing genoemde betalingstermijn.   
+2.  De in het vorige lid genoemde terugbetaling geschiedt ten gunste van het Zorgverzekeringsfonds binnen een in de in de aanwijzing genoemde betalingstermijn.  
 
 ### Artikel  10  
 
 ####Inwerkingtreding en citeerregel
 
-Deze regeling treedt in werking op 1 januari 2014.  
+Deze regeling treedt in werking op 1 januari 2014. 
 Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, onderdeel a, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 1 januari 2013, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst. Deze regeling kan worden aangehaald als: ‘Regeling Macrobeheersinstrument curatieve geestelijke gezondheidszorg 2013’.  
 
 Nederlandse Zorgautoriteit, 

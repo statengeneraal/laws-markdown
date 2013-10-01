@@ -7,7 +7,7 @@ Vastgesteld op 12 juni 2012 Nr. NR/CU-711     De Nederlandse Zorgautoriteit Inge
 
 ####Reikwijdte regeling
 
-Deze regeling is van toepassing op zorgaanbieders die mondzorg leveren dan wel mondzorgprestaties in rekening brengen . <sup> 1  Zie de prestatiebeschrijvingen mondzorg in de beleidsregel Experiment vrije prijsvorming mondzorg.  </sup> Deze regeling is niet van toepassing op zorgaanbieders die chirurgische tandheelkundige hulp van specialistische aard leveren (kaakchirurgen).    
+Deze regeling is van toepassing op zorgaanbieders die mondzorg leveren dan wel mondzorgprestaties in rekening brengen<sup> 1  Zie de prestatiebeschrijvingen mondzorg in de beleidsregel Experiment vrije prijsvorming mondzorg. </sup>. Deze regeling is niet van toepassing op zorgaanbieders die chirurgische tandheelkundige hulp van specialistische aard leveren (kaakchirurgen).    
 ### 2  
 
 ####Doel van de regeling
@@ -37,7 +37,7 @@ Een zorgvrager, patiënt, een potentiële patiënt of degene die namens een pati
 
 ####Declaratie
 
-Het tarief of de tarieven die in rekening zijn gebracht voor een geleverde (deel)prestatie of (deel)prestaties aan de consument dan wel aan de ziektekostenverzekeraar van de betreffende consument.    
+Het tarief of de tarieven die in rekening zijn gebracht voor een geleverde (deel)prestatie of (deel)prestaties aan de consument dan wel aan de ziektekostenverzekeraar van de betreffende consument.     
 ### 3.4  
 
 ####Materiaal- en/of techniekkosten
@@ -148,7 +148,7 @@ C) De declaratie van de geleverde prestatie(s) moet zodanig gespecificeerd zijn 
 
 8. Indien van toepassing, voor welke prestaties van het tarief op de standaardprijslijst is afgeweken, door vermelding van de letters ‘Z’ of een ‘A’, conform het bepaalde in artikel 4, lid 10 van deze regeling.  
 
-9. Indien de zorgaanbieder een prestatie uit het hoofdstuk ‘Kunstgebitten’ uitvoert, moet de zorgaanbieder op de declaratie aangeven of het gaat om een prothese op implantaten en of het gaat om een partiële prothese of volledige prothese of een combinatie van voorgaande. <sup> 2  Beleidsregel Experiment vrije prijsvorming mondzorg.  </sup>    
+9. Indien de zorgaanbieder een prestatie uit het hoofdstuk ‘Kunstgebitten’<sup> 2  Beleidsregel Experiment vrije prijsvorming mondzorg. </sup> uitvoert, moet de zorgaanbieder op de declaratie aangeven of het gaat om een prothese op implantaten en of het gaat om een partiële prothese of volledige prothese of een combinatie van voorgaande.    
 
 D) Declaraties dienen voorzien te zijn van de adresgegevens van de declarerende praktijk.  
 

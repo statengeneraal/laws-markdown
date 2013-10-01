@@ -3,7 +3,7 @@
 ##Volmachtregeling VWS
 
 De Minister van Volksgezondheid, Welzijn en Sport,  Besluit:     
-### Hoofdstuk  1  
+### Hoofdstuk 1  
 
 ####Definities
 
@@ -11,19 +11,19 @@ De Minister van Volksgezondheid, Welzijn en Sport,  Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *Minister:*  de Minister van Volksgezondheid, Welzijn en Sport;  
+a.*Minister:*de Minister van Volksgezondheid, Welzijn en Sport;
 
-b.  *rechtshandeling:*  een privaatrechtelijke rechtshandeling;  
+b.*rechtshandeling:* een privaatrechtelijke rechtshandeling;
 
-c.  *volmacht:*  de bevoegdheid in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten;  
+c.*volmacht:*de bevoegdheid in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten;
 
-d.  *gevolmachtigde:*  degene aan wie volmacht is verleend;  
+d.*gevolmachtigde:* degene aan wie volmacht is verleend;
 
-e.  *volmachtgever:*  degene die volmacht verleent;  
+e.*volmachtgever:* degene die volmacht verleent;
 
-f.  *raamovereenkomst:*  een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid.    
+f.*raamovereenkomst:* een overeenkomst met een of meer ondernemers met het doel gedurende een bepaalde periode de voorwaarden betreffende te plaatsen opdrachten vast te leggen, met name wat betreft prijs en, in voorkomend geval, de beoogde hoeveelheid. 
 
-### Hoofdstuk  2  
+### Hoofdstuk 2  
 
 ####Algemene bepalingen
 
@@ -49,17 +49,17 @@ Bij de uitoefening van de volmacht vermeldt de gevolmachtigde, indien mogelijk s
 
 Bij afwezigheid of verhindering van een gevolmachtigde wordt, voor de duur van de afwezigheid of verhindering, diens bevoegdheid tot het verrichten van de rechtshandeling uitgeoefend door de plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen, het wijzigen of intrekken van een ondervolmacht.  
 
-### Hoofdstuk  3  
+### Hoofdstuk 3  
 
 ####Verlening van volmacht
 
 ### Artikel  8  
 
-De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge artikel 11 door de Minister worden verricht.  
+De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge artikel 11 door de Minister worden verricht. 
 
 ### Artikel  9  
 
-De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechtshandelingen die behoren tot zijn werkterrein.  
+De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechtshandelingen die behoren tot zijn werkterrein. 
 
 ### Artikel  10  
 
@@ -94,9 +94,9 @@ m. de Algemeen Secretaris van de Raad voor de Volksgezondheid en Zorg;
 n. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met m, ressorterende organisatie-eenheden tot een bedrag van € 25.000 inclusief btw;  
 
 o. de teamleiders van de Rijksinstellingen voor gesloten jeugdzorg Almata en De Lindenhorst tot een bedrag van € 2.500 inclusief btw.     
-2.  De volmacht, verleend in het eerste lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.   
+2.  De volmacht, verleend in het eerste lid, heeft geen betrekking op het sluiten van borgtochtovereenkomsten, vaststellingsovereenkomsten, overeenkomsten van geldlening en overeenkomsten, waarbij zaken worden verhuurd of verkocht, met uitzondering van overeenkomsten waarbij tijdschriften op basis van abonnementen worden verkocht.  
 
-### Hoofdstuk  4  
+### Hoofdstuk 4  
 
 ####Beperkingen van volmacht
 
@@ -104,9 +104,9 @@ o. de teamleiders van de Rijksinstellingen voor gesloten jeugdzorg Almata en De 
 
 1.  Aan de Minister blijft voorbehouden: 
 
-a. de bevoegdheid tot het verrichten van rechtshandelingen waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is en  
+a.  de bevoegdheid tot het verrichten van rechtshandelingen waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is en  
 
-b. de bevoegdheid tot het oprichten van een privaatrechtelijke rechtspersoon, tenzij de minister hier van tevoren bijzondere volmacht voor verleent.     
+b.  de bevoegdheid tot het oprichten van een privaatrechtelijke rechtspersoon, tenzij de minister hier van tevoren bijzondere volmacht voor verleent.     
 2.  Voorts is het verrichten van rechtshandelingen waaruit belangrijke politieke, bestuurlijke of financiële gevolgen kunnen voortvloeien, voorbehouden aan de Minister.   
 
 ### Artikel  12  
@@ -115,30 +115,30 @@ In afwijking van artikel 11, eerste lid, onderdeel a, hebben de volgende functio
 
 1. de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal alsmede de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu, voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van het Rijksinstituut voor Volksgezondheid en Milieu;  
 
-2. de Secretaris-Generaal alsmede de plaatsvervangend Secretaris-Generaal voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van de Projectdirectie Antonie van Leeuwenhoek Terrein.    
+2. de Secretaris-Generaal alsmede de plaatsvervangend Secretaris-Generaal voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van de Projectdirectie Antonie van Leeuwenhoek Terrein.   
 
 ### Artikel  14  
 
 In afwijking van artikel 10 wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.  
 
-### Hoofdstuk  5  
+### Hoofdstuk 5  
 
 ####Ondervolmacht
 
 ### Artikel  16  
 
-1.  De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.   
+1.   De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.   
 2.  De functionarissen genoemd in artikel 10, eerste lid, onder a tot en met n, kunnen ondervolmacht verlenen: 
 
 a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in artikel 10, eerste lid, onder n, genoemde hoofden;  
 
 b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in artikel 10, eerste lid, onder n, genoemde hoofden en de onder a van dit lid bedoelde functionarissen.     
-3.  Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.   
-4.  Elke ondervolmacht wordt schriftelijk verleend en behoeft goedkeuring van de Secretaris-Generaal.   
-5.  Op ondervolmacht zijn de bepalingen van deze regeling van overeenkomstige toepassing.   
-6.  Van de volmachten, bedoeld in artikel 12, wordt geen ondervolmacht verleend.   
+3.   Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.   
+4.   Elke ondervolmacht wordt schriftelijk verleend en behoeft goedkeuring van de Secretaris-Generaal.   
+5.   Op ondervolmacht zijn de bepalingen van deze regeling van overeenkomstige toepassing.   
+6.  Van de volmachten, bedoeld in artikel 12, wordt geen ondervolmacht verleend. 
 
-### Hoofdstuk  6  
+###Hoofdstuk 6 
 
 ####Bijzonder ondervolmacht
 
@@ -146,9 +146,9 @@ b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maa
 
 1.  Onverminderd artikel 11 kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de Hoofdstukken 3, 4 en 5 bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.   
 2.  Bijzondere ondervolmacht aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.   
-3.  Van de volmachten, bedoeld in artikel 12, wordt geen bijzondere ondervolmacht verleend.   
+3.  Van de volmachten, bedoeld in artikel 12, wordt geen bijzondere ondervolmacht verleend. 
 
-### Hoofdstuk  7  
+### Hoofdstuk 7  
 
 ####Bijzondere ondervolmacht
 
@@ -157,7 +157,7 @@ b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maa
 1.  De Directeur Bestuurlijke en Politieke Zaken houdt een centraal register bij van alle gevolmachtigden en van de inhoud van hun volmacht.   
 2.  Bij beëindiging of wijziging van een volmacht wordt een kopie van het besluit tot beëindiging of wijziging toegezonden naar de Directeur Bestuurlijke en Politieke Zaken.   
 
-### Hoofdstuk  8  
+### Hoofdstuk 8  
 
 ####Overgangs- en slotbepalingen
 
@@ -175,9 +175,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  22  
 
-Deze regeling wordt aangehaald als: Volmachtregeling VWS  
+Deze regeling wordt aangehaald als: [Volmachtregeling VWS](../../../../ministeriele-regeling/volmachtregeling/vws/BWBR0010710/README.md) 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E.  Borst-Eilers      

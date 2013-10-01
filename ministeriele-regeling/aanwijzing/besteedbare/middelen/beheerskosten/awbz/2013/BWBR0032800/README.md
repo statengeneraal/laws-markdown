@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-De besteedbare middelen ter dekking van de voor de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../rijkswet/wet/beëdiging/van/de/regent/BWBR0006546/README.md) te maken beheerskosten bedragen voor het jaar 2013 € 169,283 miljoen.  
+De besteedbare middelen ter dekking van de voor de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) te maken beheerskosten bedragen voor het jaar 2013 € 169,283 miljoen. 
 
 ### Artikel  2  
 
-Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, indien de dagtekening van de Staatscourant waarin de aanwijzing is geplaatst, is gelegen na 31 december 2012, terug tot en met 1 januari 2013.  
+Deze aanwijzing treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, indien de dagtekening van de Staatscourant waarin de aanwijzing is geplaatst, is gelegen na 31 december 2012, terug tot en met 1 januari 2013. 
 
 ### Artikel  3  
 
-Deze aanwijzing wordt aangehaald als: Aanwijzing besteedbare middelen beheerskosten AWBZ 2013.  
+Deze aanwijzing wordt aangehaald als: Aanwijzing besteedbare middelen beheerskosten AWBZ 2013. 
 Deze aanwijzing zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Volksgezondheid, Welzijn en Sport,
-M.J. vanRijn   
+Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
+M.J. van Rijn     

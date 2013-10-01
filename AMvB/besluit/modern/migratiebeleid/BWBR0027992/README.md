@@ -106,7 +106,7 @@ Het in [artikel XII, tweede lid, van de Wet modern migratiebeleid](../../../../.
 ### Artikel  XIII  
 
 1.  De onderdelen MMM en WWW, subonderdeel 3, van artikel I van dit besluit blijven buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van die onderdelen van dit besluit gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld, dan wel hem terzake van een zodanig misdrijf bij onherroepelijke beschikking een taakstraf is opgelegd.   
-2.   Dit lid is nog niet in werking getreden.    
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de invoering van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) en dit besluit.   
 
 ### Artikel  XIV  
 

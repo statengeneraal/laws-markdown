@@ -23,6 +23,8 @@ In deze regeling wordt verstaan onder:
 
 *bouwactiviteit:* activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
+*BRL:* door het Centraal College van Deskundigen van de Stichting Kwaliteitsborging Installatiesector vastgestelde Nationale Beoordelingsrichtlijn;  
+
 *bruto-inhoud:* bruto-inhoud als bedoeld in NEN 2580;  
 
 *bruto-vloeroppervlakte:* bruto-vloeroppervlakte als bedoeld in NEN 2580;  
@@ -208,7 +210,9 @@ g. gegevens en bescheiden waaruit blijkt dat wordt voldaan aan de aanvullende re
 
 h. indien het een woongebouw betreft: gegevens en bescheiden over zelfsluitende deuren, spreekinstallaties, signaalvoorzieningen en deuropeners ter voorkoming van veel voorkomende criminaliteit;  
 
-i. gegevens en bescheiden over gebouwgebonden veiligheidsvoorzieningen ten behoeve van veilig onderhoud middels de Checklist Veilig onderhoud op en aan gebouwen 2012;    
+i. gegevens en bescheiden over gebouwgebonden veiligheidsvoorzieningen ten behoeve van veilig onderhoud middels de Checklist Veilig onderhoud op en aan gebouwen 2012;  
+
+j. gegevens en bescheiden over technische bouwsystemen en het daarbij behorende systeemrendement;    
 
 6. gegevens en bescheiden over veiligheid en het voorkomen van hinder tijdens het bouwen, met de volgende onderdelen: 
 
@@ -296,9 +300,13 @@ d. opgave van de toe te passen bouwmaterialen en de kleur daarvan (uitwendige sc
 
 ### Artikel  2.6  
 
-####Advies Commissie voor de tunnelveiligheid
+####Overige eisen voor wegtunnels
 
-Bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager het advies van de Commissie voor de tunnelveiligheid, bedoeld in [artikel 2.10, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).  
+In of bij de aanvraag om een vergunning voor een bouwactiviteit voor een wegtunnel als bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), verstrekt de aanvrager de volgende gegevens ten behoeve van de toetsing aan de voorschriften van die wet: 
+
+a. een toelichting waaruit blijkt dat het ontwerp van de tunnel voldoet aan de norm van [artikel 6, eerste lid, van die wet](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md);  
+
+b. indien er een gestandaardiseerde uitrusting wordt toegepast, een toelichting waaruit blijkt dat het ontwerp aansluit bij de standaarduitrusting van de tunnel waarvoor op grond van [artikel 6b van die wet](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) is gekozen.    
 
 ### §  2.2  
 
@@ -328,7 +336,7 @@ e. een schriftelijke toelichting op het ontwerp van de constructies als bedoeld 
 
 ### §  2.3  
 
-####Vereisten aan tekeningen en berekeningen
+####Nadere vereisten aan gegevens en bescheiden
 
 ### Artikel  2.8  
 
@@ -456,6 +464,11 @@ d. EPC begrenzing woningen of woongebouw (door middel van arcering op plattegron
 e. gebouwfunctie en energiesectoren (op tekening voor niet tot bewoning bestemde gebouwen, gearceerd);  
 
 f. invoergegevens EPC berekening (bouwfysische eigenschappen bouwwerk, installaties en gehanteerd rekenprogramma).     
+3.  De in het tweede lid bedoelde berekening van de energieprestatie wordt uitgevoerd met een NL-EPBD®EPC geattesteerd computerprogramma als bedoeld in BRL 9501 van 6 december 2006, inclusief wijzigingsblad van 27 september 2012.   
+
+### Artikel  2.13  
+
+Een aanvraag voor een vergunning voor een bouwactiviteit voor een wegtunnel als bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) wordt uitgevoerd overeenkomstig [bijlage 2, onderdeel B2, bij de Regeling aanvullende regels veiligheid wegtunnels](../../../../ministeriele-regeling/regeling/aanvullende/regels/veiligheid/wegtunnels/BWBR0019806/README.md).  
 
 ### Hoofdstuk  3  
 
@@ -507,7 +520,7 @@ b. per bouwlaag een plattegrond die voldoet aan de volgende eisen:
 – schaal maximaal 1:100 bij een bouwlaag kleiner dan 10.000 m <sup>2</sup> bruto vloeroppervlakte;  
 
 – schaal maximaal 1:200 bij een bouwlaag van 10.000 m <sup>2</sup> bruto vloeroppervlakte of meer.       
-2.  De plattegrond met betrekking tot het brandveilig gebruik bevat de volgende gegevens: 
+2.  De plattegrond of een bijlage daarvan met betrekking tot het brandveilig gebruik bevat de volgende gegevens: 
 
 a. aanduiding van de schaal van de plattegrond;  
 
@@ -557,7 +570,9 @@ d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn:
 
 – sleutelkluis of -buis;  
 
-– brandweerlift.     De aanduidingen zijn conform NEN 1414: 2007, voor zover deze norm daarin voorziet.   
+– brandweerlift, en    
+
+e. gegevens en bescheiden over de aard en de plaats van de brandveiligheidsinstallaties.   De aanduidingen zijn conform NEN 1414: 2007, voor zover deze norm daarin voorziet.   
 3.  Bij de toepassing van een gelijkwaardige oplossing als bedoeld in [artikel 1.3, eerste lid, van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) verstrekt de aanvrager tevens gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.   
 
 ### Hoofdstuk  4  
@@ -590,13 +605,11 @@ e. de aard en omvang van de belasting van het milieu die de inrichting tijdens n
 
 f. de maatregelen of voorzieningen ten behoeve van: 
 
-1°. het voorkomen of beperken van het ontstaan van afvalstoffen in de inrichting;  
+1°. het nuttig toepassen dan wel het geschikt maken voor nuttig toepassing van de afvalstoffen die in de inrichting ontstaan;  
 
-2°. het nuttig toepassen dan wel het geschikt maken voor nuttig toepassing van de afvalstoffen die in de inrichting ontstaan;  
+2°. het opslaan van de afvalstoffen in de inrichting;  
 
-3°. het opslaan van de afvalstoffen in de inrichting;  
-
-4°. het zich ontdoen van de afvalstoffen die in de inrichting ontstaan;    
+3°. het zich ontdoen van de afvalstoffen die in de inrichting ontstaan;    
 
 g. de andere maatregelen of voorzieningen die zijn of worden getroffen om de nadelige gevolgen voor het milieu die de inrichting kan veroorzaken, te voorkomen of te beperken;  
 
@@ -1215,7 +1228,12 @@ In of bij de aanvraag om een vergunning voor het slopen van een bouwwerk als bed
 
 ####Activiteiten als bedoeld in [artikel 2.2a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)
 
-In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) verstrekt de aanvrager de gegevens, bedoeld in [artikel 1.10 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) alsmede in de gevallen, bedoeld in de [artikelen 1.11, vijfde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.16](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.18](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [1.19 van dat besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), de in de betrokken bepalingen bedoelde gegevens.  
+1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2a, eerste tot en met vijfde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) verstrekt de aanvrager de gegevens, bedoeld in [artikel 1.10 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) alsmede in de gevallen bedoeld in de [artikelen 1.11, vijfde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.16](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.18](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [1.19 van dat besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), de in de betrokken bepalingen bedoelde gegevens.   
+2.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2a, zesde lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), verstrekt de aanvrager de volgende gegevens: 
+
+a. ingeval sprake is van het installeren van een gesloten bodemenergiesysteem binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md): de gegevens, bedoeld in [de artikel 1.10](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [1.21a van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+
+b. ingeval sprake is van het installeren van een gesloten bodemenergiesysteem buiten een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md): de gegevens, bedoeld in [artikel 1.10a, derde lid, van het Besluit lozen buiten inrichtingen](../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md).     
 
 ### Hoofdstuk  7  
 
@@ -1647,6 +1665,7 @@ J.C.Huizinga-Heringa
 | PGS 28: Vloeibare brandstoffen – ondergrondse tankinstallaties en afleverinstallaties  | december 2011  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 29: Richtlijn voor bovengrondse opslag van brandbare vloeistoffen in verticale cilindrische tanks  | oktober 2008  | publicatiereeksgevaarlijkestoffen.nl  |
 | PGS 30: Vloeibare brandstoffen – bovengrondse tankinstallaties en afleverinstallaties  | december 2011  | publicatiereeksgevaarlijkestoffen.nl  |
+| PGS 33-1: Aardgas: afleverinstallaties van vloeibaar aardgas (LNG) voor motorvoertuigen  | juni 2013  | publicatiereeksgevaarlijkestoffen.nl  |
 |  *BBT-documenten water*   | --- | --- |
 |  *Landbouw*   | --- | --- |
 | Beoordelingsmethode emissiereducerende maatregelen Lozingsbesluit open teelt en veehouderij  | maart 2003  | Helpdeskwater.nl/ciw  |

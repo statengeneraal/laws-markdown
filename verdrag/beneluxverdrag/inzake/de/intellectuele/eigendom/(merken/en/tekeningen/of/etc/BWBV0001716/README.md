@@ -38,13 +38,13 @@ In dit verdrag wordt verstaan onder:
 
 – Overeenkomst van 's-Gravenhage: de Overeenkomst van 's-Gravenhage betreffende het internationale depot van tekeningen of modellen van nijverheid van 6 november 1925;  
 
-– Gemeenschapsmerkenverordening: de Verordening (EG) nr. 40/94 van de Raad van 20 december 1993 inzake het Gemeenschapsmerk;  
+– Gemeenschapsmerkenverordening: de Verordening (EG) nr. 207/2009 van de Raad van 26 februari 2009 inzake het Gemeenschapsmerk;  
 
 – Gemeenschapsmodellenverordening: de Verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen;  
 
 – TRIPS verdrag: de Overeenkomst inzake de handelsaspecten van de Intellectuele Eigendom van 15 april 1994; bijlage 1C bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie;  
 
-– Internationaal Bureau: het Internationaal Bureau voor de intellectuele eigendom, zoals opgericht bij het Verdrag van 14 juli 1967 tot oprichting ven de Wereldorganisatie voor de intellectuele eigendom.    
+– Internationaal Bureau: het Internationaal Bureau voor de intellectuele eigendom, zoals opgericht bij het Verdrag van 14 juli 1967 tot oprichting van de Wereldorganisatie voor de intellectuele eigendom.    
 
 ### Artikel  1.2  
 
@@ -264,7 +264,8 @@ g. de inschrijving van merken voor wijnen die geografische aanduidingen ter beno
 
 ####Onderzoek
 
-Het Bureau verricht op verzoek een onderzoek naar eerdere inschrijvingen.  
+1.  Het Bureau kan als dienst een onderzoek naar eerdere inschrijvingen aanbieden.   
+2.  De Directeur-Generaal stelt hiervan de modaliteiten vast.   
 
 ### Artikel  2.8  
 
@@ -279,8 +280,8 @@ Het Bureau verricht op verzoek een onderzoek naar eerdere inschrijvingen.
 
 1.  De inschrijving van een merk, waarvan het depot is verricht binnen het Benelux-gebied (Benelux-depot), heeft een geldigheidsduur van 10 jaren, te rekenen vanaf de datum van depot.   
 2.  Het teken waaruit het merk bestaat mag niet worden gewijzigd, noch gedurende de inschrijving noch ter gelegenheid van de vernieuwing daarvan.   
-3.  De inschrijving wordt op verzoek vernieuwd, voor verdere termijnen van 10 jaren, met inachtneming van de bij uitvoeringsreglement gestelde vormvereisten en tegen betaling van de verschuldigde rechten.   
-4.  De vernieuwing moet worden verzocht en de rechten moeten worden betaald binnen zes maanden voorafgaand aan het verstrijken van de geldigheidsduur van de inschrijving. Binnen zes maanden na verstrijken van de geldigheidsduur van de inschrijving kan de vernieuwing alsnog worden verzocht, indien gelijktijdig een extra recht wordt betaald. De vernieuwing gaat in op de datum van het verstrijken van de geldigheidsduur van de inschrijving.   
+3.  De inschrijving kan voor verdere termijnen van 10 jaren worden vernieuwd.   
+4.  Vernieuwing geschiedt door betaling van het daartoe vastgestelde recht. Dit recht dient betaald te worden binnen zes maanden voorafgaand aan het verstrijken van de geldigheidsduur van de inschrijving; het kan nog betaald worden binnen zes maanden die volgen op de datum van het verstrijken van de geldigheidsduur, indien gelijktijdig een extra recht wordt betaald. De vernieuwing heeft effect vanaf het verstrijken van de geldigheidsduur van de inschrijving.   
 5.  Zes maanden voor het verstrijken van de geldigheidsduur van de inschrijving herinnert het Bureau de merkhouder schriftelijk aan de datum van dat verstrijken.   
 6.  Het Bureau zendt deze herinneringsbrieven aan het laatste aan het Bureau bekende adres van de merkhouder. Het niet-verzenden of niet-ontvangen van deze brieven ontslaat de houder niet van de verplichtingen voortvloeiend uit lid 3 en 4. Daarop kan noch in rechte, noch ten opzichte van het Bureau beroep worden gedaan.   
 7.  Het Bureau schrijft de vernieuwingen in.   
@@ -343,7 +344,7 @@ e. het een merk betreft als bedoeld in artikel 2.4, sub a, b of g.
 
 ####Instellen van de procedure
 
-1.  De deposant of houder van een ouder merk kan, binnen een termijn van twee maanden, te rekenen vanaf de eerste dag van de maand volgende op de publicatie van het depot, schriftelijk oppositie instellen bij het Bureau tegen een merk dat: 
+1.  De deposant of houder van een ouder merk kan, binnen een termijn van twee maanden, te rekenen vanaf de publicatie van het depot, schriftelijk oppositie instellen bij het Bureau tegen een merk dat: 
 
 a. in rangorde na het zijne komt, overeenkomstig de bepalingen in artikel 2.3, sub a en b, of  
 
@@ -351,27 +352,6 @@ b. verwarring kan stichten met zijn algemeen bekend merk in de zin van artikel 6
 2.  De licentiehouder beschikt over hetzelfde recht indien hij daartoe van de merkhouder toestemming heeft verkregen.   
 3.  Oppositie kan op een of meer oudere merken berusten.   
 4.  De oppositie wordt pas geacht te zijn ingesteld, nadat de verschuldigde rechten zijn betaald.   
-
-### Artikel  2.15  
-
-####Vertegenwoordiging bij oppositie
-
-1.  Behoudens lid 2, is niemand verplicht zich voor het Bureau te doen vertegenwoordigen.   
-2.  Onverminderd de tweede zin van lid 3, moeten natuurlijke personen en rechtspersonen die op het grondgebied van de Europese Gemeenschap of Europese Economische Ruimte geen woonplaats, zetel of werkelijke en feitelijke vestiging voor bedrijf of handel hebben, zich doen vertegenwoordigen door een gemachtigde bij een overeenkomstig artikel 2.14 en 2.16 gevoerde oppositieprocedure.   
-3.  Natuurlijke personen en rechtspersonen die op het grondgebied van de Europese Gemeenschap of Europese Economische Ruimte een woonplaats, zetel of werkelijke en feitelijke vestiging voor bedrijf of handel hebben, kunnen in een oppositieprocedure optreden door tussenkomst van een werknemer die overeenkomstig de bepalingen van het uitvoeringsreglement een ondertekende volmacht bij het Bureau dient over te leggen. De werknemer van een rechtspersoon als bedoeld in dit lid kan ook handelen voor andere rechtspersonen die met deze rechtspersoon economisch verbonden zijn, ook indien die andere rechtspersonen op het grondgebied van de Europese Gemeenschap of Europese Economische Ruimte geen woonplaats, zetel of werkelijke en feitelijke vestiging voor bedrijf of handel hebben.   
-4.  In geval van vertegenwoordiging kunnen optreden als gemachtigde: 
-
-a. een in het register bij het Bureau ingeschreven gemachtigde;  
-
-b. een advocaat die is ingeschreven op het tableau van de rechtbank of van de orde of op de lijst van stagiaires van een binnen het Benelux-gebied gelegen balie;  
-
-c. een advocaat die de nationaliteit heeft van een lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte, die gerechtigd is zijn beroep uit te oefenen op het grondgebied van een der lidstaten en kantoor houdt in de Europese Gemeenschap of Europese Economische Ruimte;  
-
-d. een persoon die de nationaliteit heeft van een lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte en die gerechtigd is tot optreden als vertegenwoordiger in het kader van oppositieprocedures voor het Bureau voor de harmonisatie binnen de interne markt (merken, tekeningen en modellen);  
-
-e. een persoon die de nationaliteit heeft van en kantoor houdt in een lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte en die voldoet aan de voorwaarde van een bijzondere beroepskwalificatie om te kunnen optreden als vertegenwoordiger in oppositieprocedures voor de centrale dienst voor de industriële eigendom van een lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte;  
-
-f. een persoon die de nationaliteit heeft van en kantoor houdt in een lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte en die sinds tenminste vijf jaar regelmatig optreedt als vertegenwoordiger in oppositieprocedures voor de centrale dienst voor de industriële eigendom van een lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte waar deze bevoegdheid niet afhankelijk is gesteld van een bijzondere beroepskwalificatie.     
 
 ### Artikel  2.16  
 
@@ -389,7 +369,7 @@ c. tijdens de duur van de weigeringsprocedure op absolute gronden;
 d. op gezamenlijk verzoek van partijen.     
 3.  De oppositieprocedure wordt afgesloten: 
 
-a. wanneer de opposant niet langer de hoedanigheid heeft om op te kunnen treden of binnen de gestelde termijn geen stukken heeft overgelegd waaruit blijkt dat het recht op zijn merk niet ingevolge artikel 2.26, lid 2, sub a, vervallen kan worden verklaard;  
+a. wanneer de opposant niet langer de hoedanigheid heeft om op te kunnen treden of binnen de gestelde termijn geen stukken heeft overgelegd waaruit blijkt dat het recht op zijn merk niet ingevolge het ontbreken van normaal gebruik van het merk, zonder geldige reden, in de zin van dit Verdrag dan wel in voorkomend geval van de Gemeenschapsmerkenverordening, vervallen kan worden verklaard;  
 
 b. wanneer verweerder niet reageert op de ingestelde oppositie. In dit geval wordt hij geacht afstand te hebben gedaan van zijn rechten op het depot;  
 
@@ -411,7 +391,7 @@ d. wanneer het oudere merk niet meer geldig is. In deze gevallen wordt een deel 
 
 ####Oppositie tegen internationale depots
 
-1.  Tegen een internationaal depot waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied kan binnen een termijn van twee maanden, te rekenen vanaf de eerste dag van de maand volgende op de publicatie door het Internationaal Bureau, oppositie worden ingesteld bij het Bureau. De artikelen 2.14 en 2.16 zijn van overeenkomstige toepassing.   
+1.  Tegen een internationaal depot waarvan is verzocht de bescherming uit te strekken tot het Benelux-gebied kan binnen een termijn van twee maanden, te rekenen vanaf de publicatie door het Internationaal Bureau, oppositie worden ingesteld bij het Bureau. De artikelen 2.14 en 2.16 zijn van overeenkomstige toepassing.   
 2.  Het Bureau geeft onverwijld schriftelijk kennis aan het Internationaal Bureau van de ingediende oppositie onder vermelding van het bepaalde in de artikelen 2.14 tot en met 2.17 evenals de daarop betrekking hebbende bepalingen uit het uitvoeringsreglement.   
 3.  Van de beslissing waartegen geen beroep meer openstaat geeft het Bureau schriftelijk, onder opgave van redenen, onverwijld kennis aan het Internationaal Bureau.   
 
@@ -812,7 +792,7 @@ f. de kenmerkende eigenschappen van de tekening of het model onvoldoende uit het
 
 1.  Binnen een termijn van vijf jaren, te rekenen vanaf de datum van publicatie van de inschrijving van het depot, kan de ontwerper van de tekening of het model, dan wel degene die volgens artikel 3.8 als ontwerper wordt beschouwd, het recht op het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten opeisen, indien het depot zonder zijn toestemming door een derde is verricht; om dezelfde redenen kan hij te allen tijde de nietigheid inroepen van de inschrijving van dat depot of van die rechten. De vordering tot opeising moet bij het Bureau worden ingeschreven op verzoek van de eiser, met inachtneming van de bij uitvoeringsreglement gestelde vormvereisten en tegen betaling van de verschuldigde rechten.   
 2.  Indien de in lid 1 bedoelde deposant gehele of gedeeltelijke doorhaling heeft verzocht van de inschrijving van het Benelux-depot of afstand heeft gedaan van de rechten, die voor het Benelux-gebied uit het internationaal depot voortvloeien, heeft deze doorhaling of afstand geen werking ten aanzien van de ontwerper of van degene die volgens artikel 3.8 als ontwerper wordt beschouwd onder voorbehoud van lid 3, mits het depot werd opgeëist binnen één jaar na de datum van publicatie van de doorhaling of afstand en vóór het verstrijken van de in lid 1 genoemde termijn van vijf jaren.   
-3.  Indien in het tijdvak gelegen tussen de doorhaling of afstand bedoeld in lid 2, en de inschrijving van de vordering tot opeising, een derde te goeder trouw een voortbrengsel heeft geëxploiteerd dat hetzelfde uiterlijk vertoont, wordt dit voortbrengsel als rechtmatig in het verkeer gebracht beschouwd.   
+3.  Indien in het tijdvak gelegen tussen de doorhaling of afstand bedoeld in lid 2, en de inschrijving van de vordering tot opeising, een derde te goeder trouw een voortbrengsel heeft geëxploiteerd dat hetzelfde uiterlijk vertoont of bij de geïnformeerde gebruiker geen andere algemene indruk wekt, wordt dit voortbrengsel als rechtmatig in het verkeer gebracht beschouwd.   
 
 ### Artikel  3.8  
 
@@ -1034,7 +1014,7 @@ b. overdrachten of andere overgangen, die niet op het gehele Benelux-gebied betr
 
 1.  Het uitsluitend recht op een tekening of model kan voorwerp van een licentie zijn.   
 2.  Het uitsluitend recht op een tekening of model kan door de houder daarvan ingeroepen worden tegen een licentiehouder die handelt in strijd met de bepalingen van de licentieovereenkomst inzake de duur daarvan, de door de inschrijving gedekte vorm waarin de tekening of het model mag worden gebruikt, de voortbrengselen waarvoor de licentie is verleend en de kwaliteit van de door de licentiehouder in het verkeer gebrachte voortbrengselen.   
-3.  De doorhaling van de inschrijving van de licentie in het register vindt slechts plaats op gezamenlijk verzoek van merkhouder en de licentiehouder.   
+3.  De doorhaling van de inschrijving van de licentie in het register vindt slechts plaats op gezamenlijk verzoek van de houder van de tekening of het model en de licentiehouder.   
 4.  De licentiehouder is bevoegd in een door de houder van het uitsluitend recht op een tekening of model ingestelde vordering als bedoeld in artikel 3.17, lid 1 tot en met 4, tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in artikel 3.17, lid 1 tot en met 4, kan de licentiehouder slechts instellen indien hij de bevoegdheid daartoe van de houder van het uitsluitend recht heeft bedongen.   
 5.  De licentiehouder heeft het recht de in artikel 3.18, lid 1, bedoelde bevoegdheden uit te oefenen voor zover deze strekken tot bescherming van de rechten waarvan hem de uitoefening is toegestaan, indien hij daartoe toestemming van de houder van het uitsluitend recht op een tekening of model heeft verkregen.   
 
@@ -1064,39 +1044,13 @@ Wanneer een tekening of model onder de omstandigheden als bedoeld in artikel 3.8
 
 ### TITEL  IV  
 
-####BEPALINGEN GEMEENSCHAPPELIJK AAN MERKEN EN TEKENINGEN OF MODELLEN
+####OVERIGE BEPALINGEN
 
 ### HOOFDSTUK  1  
 
 ####GEMACHTIGDENREGISTER
 
-### Artikel  4.1  
-
-####Algemene bepalingen inzake het gemachtigdenregister
-
-1.  Het Bureau houdt, overeenkomstig de bepalingen van het uitvoeringsreglement, een register van merken- en tekeningen- of modellengemachtigden in stand, waaruit kan worden afgeleid wie ingevolge dit verdrag aan de eisen van vakbekwaamheid van merken- en tekeningen- of modellengemachtigde voldoet. Het register is voor iedereen kosteloos ter inzage.   
-2.  In een register als bedoeld in lid 1 kan op verzoek worden ingeschreven iedereen die: 
-
-a. beschikt over een door de Raad van Bestuur erkend diploma of soortgelijk bewijsstuk, dan wel  
-
-b. beschikt over een door de Directeur-Generaal afgegeven getuigschrift waaruit blijkt dat met goed gevolg een proeve van bekwaamheid is afgelegd, dan wel  
-
-c. beschikt over een door de Directeur-Generaal verleende ontheffing van de plicht om een document als bedoeld sub a of b, over te leggen.     
-3.  De Raad van Bestuur erkent een diploma als bedoeld in lid 2, sub a, indien hij oordeelt dat het door de organisatie, die in het diploma verstrekt, af te nemen examen leidt tot voldoende kennis van de Benelux regelgeving en de belangrijkste internationale regelingen met betrekking tot het merkenrecht en het tekeningen- of modellenrecht, evenals tot voldoende vaardigheid om deze te kunnen toepassen.   
-
-### Artikel  4.2  
-
-####Beroep tegen weigering tot inschrijving in het register of erkenning diploma
-
-1.  In geval van een weigering tot inschrijving of verlening van ontheffing of een doorhaling van een inschrijving in een register, dan wel een weigering tot erkenning of een intrekking van de erkenning van een diploma kan een belanghebbende zich binnen twee maanden na een dergelijke weigering, doorhaling of intrekking bij verzoekschrift wenden tot het Hof van Beroep te Brussel, het Gerechtshof te 's-Gravenhage of het Cour d'appel te Luxemburg teneinde een bevel tot inschrijving in het register of een erkenning van een diploma te verkrijgen.   
-2.  In het kader van deze procedure kan het Bureau vertegenwoordigd worden door een daartoe aangewezen personeelslid.   
-3.  Tegen de beslissing van de appèlrechter staat voorziening in cassatie open, welke opschortende werking heeft.   
-
-### Artikel  4.3  
-
-####Misbruik door niet-ingeschreven personen
-
-Het is anderen dan degenen die in een register als bedoeld in artikel 4.1, lid 1, zijn ingeschreven, verboden zichzelf in het economisch verkeer aan te duiden alsof zij in bedoeld register zouden zijn ingeschreven. Bij uitvoeringsreglement worden nadere regels gesteld.  
+Vervallen per 01-10-2013   
 
 ### HOOFDSTUK  2  
 
@@ -1112,9 +1066,15 @@ a. het aanbrengen van wijzigingen in de depots en inschrijvingen, hetzij op verz
 
 b. het publiceren van de inschrijvingen van de Benelux-depots van merken en tekeningen of modellen en alle andere vermeldingen voorgeschreven bij uitvoeringsreglement;  
 
-c. het verstrekken op verzoek van iedere belanghebbende van afschriften van inschrijvingen;  
+c. het verstrekken op verzoek van iedere belanghebbende van afschriften van inschrijvingen.    
 
-d. het aan eenieder op verzoek verstrekken van inlichtingen uit het register van merken- en tekeningen- of modellengemachtigden alsmede omtrent de bij of krachtens dit verdrag gegeven voorschriften ten aanzien van de registratie van merken- en tekeningen- of modellengemachtigden.    
+### Artikel  4.4bis  
+
+####i-DEPOT
+
+1.  Het Bureau kan onder de naam „i-DEPOT” bewijs verstrekken van het bestaan van stukken op de datum van hun ontvangst.   
+2.  De stukken worden gedurende een bepaalde termijn door het Bureau bewaard. Dit gebeurt onder strikte geheimhouding, tenzij de indiener daarvan uitdrukkelijk afstand doet.   
+3.  De modaliteiten van deze dienst worden bij uitvoeringsreglement bepaald.   
 
 ### HOOFDSTUK  3  
 
@@ -1198,7 +1158,7 @@ In afwijking van het bepaalde in artikel 1.9, lid 2, zijn de Raad van Bestuur va
 
 ### TITEL  VI  
 
-####SLOTBE[PALINGEN
+####SLOTBEPALINGEN
 
 ### Artikel  6.1  
 
@@ -1211,7 +1171,7 @@ Dit verdrag zal worden bekrachtigd. De akten van bekrachtiging zullen worden ned
 ####Inwerkingtreding
 
 1.  Dit verdrag treedt, onverminderd het bepaalde in de leden 2 en 3, in werking op de eerste dag van de derde maand, volgende op de nederlegging van de derde akte van bekrachtiging.   
-2.  Artikel 2.15, hoofdstuk 1 van titel IV en artikel 4.4, sub d, treden in werking op een bij uitvoeringsreglement te bepalen datum, waarbij voor de inwerkingtreding van deze bepalingen verschillende data kunnen worden vastgesteld.   
+2.   Vervallen.    
 3.  Artikel 5.5 wordt voorlopig toegepast.   
 
 ### Artikel  6.3  
@@ -1232,8 +1192,10 @@ Het protocol inzake voorrechten en immuniteiten vormt een wezenlijk onderdeel va
 
 ####Uitvoeringsreglement
 
-1.  De uitvoering van dit verdrag wordt geregeld bij uitvoeringsreglement. Dit wordt bekendgemaakt in het officiële publicatieblad van ieder der Hoge Verdragsluitende Partijen.   
+1.  De uitvoering van dit verdrag wordt geregeld bij uitvoeringsreglement. De Directeur-Generaal maakt dit bekend door publicatie op de website van het Bureau.   
 2.  Indien de tekst van dit verdrag en het uitvoeringsreglement met elkaar in strijd zijn, geeft de tekst van het verdrag de doorslag.   
+3.  Wijzigingen in het uitvoeringsreglement treden niet eerder in werking dan na de in lid 1 genoemde publicatie.   
+4.  De Hoge Verdragsluitende Partijen maken deze wijzigingen eveneens in hun officiële publicatiebladen bekend.   
 
 TEN BLIJKE WAARVAN de Gevolmachtigden dit verdrag hebben ondertekend en voorzien van hun zegel. GEDAAN te Den Haag op 25 februari 2005, in drievoud, in de Nederlandse en in de Franse taal, zijnde beide teksten gelijkelijk authentiek.  
 
@@ -1367,7 +1329,7 @@ Het uitvoeringsreglement van het Benelux-verdrag inzake de intellectuele eigendo
 
 ### TITEL  I  
 
-####MERKEN
+####Merken
 
 ### HOOFDSTUK  1  
 
@@ -1377,7 +1339,7 @@ Het uitvoeringsreglement van het Benelux-verdrag inzake de intellectuele eigendo
 
 ####Depotvereisten
 
-1.  Het Beneluxdepot van een merk wordt verricht in het Nederlands of het Frans door de indiening van een document, bevattende: 
+1.  Het Beneluxdepot van een merk wordt verricht in het Nederlands, Frans of Engels door de indiening van een document, bevattende: 
 
 a. naam en adres van de deposant; indien deposant een rechtspersoon is onder vermelding van zijn rechtsvorm;  
 
@@ -1392,7 +1354,7 @@ e. de aanduiding of het merk een woordmerk, een beeldmerk, een gecombineerd woor
 f. de vermelding van de kleur of kleuren in woorden; in voorkomend geval voorzien van de daarmee overeenkomende kleurcode;  
 
 g. de handtekening van de deposant of zijn gemachtigde.     
-2.  Er kan een beschrijving in niet meer dan 50 woorden van de onderscheidende elementen van het merk worden vermeld.   
+2.  Er kan een beschrijving in niet meer dan vijftig woorden van de onderscheidende elementen van het merk worden vermeld.   
 
 ### Regel  1.2  
 
@@ -1486,31 +1448,9 @@ d. de datum van inschrijving van het merk.
 
 ####Vernieuwing
 
-1.  Het verzoek tot vernieuwing van een Beneluxinschrijving wordt ingediend bij het Bureau en geschiedt bij voorkeur door terugzending van een door de verzoeker ondertekend exemplaar van de in artikel 2.9, lid 5, van het Verdrag bedoelde herinneringsbrief of, indien daarvan geen gebruik wordt gemaakt, door indiening van een door de verzoeker ondertekend document, dat de volgende gegevens dient te bevatten: 
-
-a. de naam en het adres van de houder van het merk;  
-
-b. in voorkomend geval, naam en adres van de gemachtigde of het correspondentieadres bedoeld in regel 3.6;  
-
-c. indien de opgave van de waren en diensten wordt beperkt sedert de laatste publicatie, de opgave van de waren en diensten, waarin deze nauwkeurig omschreven moeten zijn, zoveel mogelijk met gebruikmaking van de bewoordingen van de alfabetische lijst van de internationale classificatie van waren en diensten, bedoeld in de Overeenkomst van Nice; in ieder geval dienen de waren en diensten overeenkomstig de klassen en in volgorde van deze klassen in genoemde classificatie te worden gerangschikt;  
-
-d. het nummer van de inschrijving.     
-2.  Bij het verzoek tot vernieuwing dient betaling van de daarvoor verschuldigde rechten te worden verricht.   
-3.  Het verzoek tot vernieuwing wordt geacht bij het Bureau te zijn ingediend zodra aan de vereisten van lid 1 of lid 2 is voldaan. Dit ontslaat de verzoeker niet van zijn verplichting aan beide leden te voldoen.   
-
-### Regel  1.10  
-
-####Regularisatie vernieuwing
-
-1.  Indien bij het verzoek tot vernieuwing niet is voldaan aan het bepaalde in de regels 1.9, 3.3 en 3.6, stelt het Bureau de verzoeker onverwijld daarvan in kennis en geeft hem de gelegenheid alsnog aan deze vereisten te voldoen. Onverminderd het bepaalde in regel 1.18, lid 6, bedraagt de termijn hiervoor minimaal een maand. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden.   
-2.  Indien binnen deze termijn niet aan de vereisten is voldaan, wordt het vernieuwingsverzoek buiten behandeling gelaten.   
-
-### Regel  1.11  
-
-####Inschrijving vernieuwing
-
-1.  Het Bureau schrijft de vernieuwingen in door toevoeging aan de inschrijving van de datum van de vernieuwing en de datum waarop de geldigheidsduur van de inschrijving verstrijkt.   
-2.  Het Bureau zendt de houder onverwijld een bewijs van vernieuwing van de inschrijving toe.   
+1.  De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van het daartoe verschuldigde recht.   
+2.  Het Bureau schrijft de vernieuwing in door aanpassing van de datum waarop de geldigheidsduur van de inschrijving verstrijkt.   
+3.  Het Bureau zendt degene die daartoe het verschuldigde recht heeft betaald een bevestiging van de vernieuwing.   
 
 ### HOOFDSTUK  2  
 
@@ -1528,12 +1468,6 @@ d. het nummer van de inschrijving.
 6.  De datum van de aanvraag is de datum van ontvangst van de aanvraag door het Bureau.   
 7.  Onverminderd het bepaalde in lid 6 kan de datum van een aanvraag gebaseerd op de Overeenkomst van Madrid geen eerdere zijn dan de datum van inschrijving van het Beneluxmerk. Het Bureau verschuift in dat geval de datum van de aanvraag naar de datum van inschrijving van het Beneluxmerk.   
 8.  Onverminderd het bepaalde in lid 6 en 7 stelt het Internationaal Bureau de datum van de aanvraag vast op het moment van ontvangst van de aanvraag bij het Internationaal Bureau indien er tussen het moment van ontvangst door het Internationaal Bureau en ontvangst door het Bureau meer dan twee maanden zijn verstreken.   
-
-### Regel  1.13  
-
-####Taalgebruik voor aanvragen gebaseerd op het Protocol van Madrid
-
-In afwijking van het bepaalde in regel 3.3 kunnen de in dit hoofdstuk bedoelde aanvragen en verzoeken ingevolge het Protocol van Madrid ook worden gesteld in het Engels.  
 
 ### Regel  1.14  
 
@@ -1590,7 +1524,7 @@ c. de opposant beschikt over een termijn van twee maanden vanaf de onder b bedoe
 
 d. het Bureau stuurt de argumenten van opposant naar de verweerder, en stelt hem een termijn van twee maanden om schriftelijk te reageren en eventueel bewijzen van gebruik te vragen;  
 
-e. in voorkomend geval wordt opposant een termijn van twee maanden gesteld om de gevraagde bewijzen van gebruik over te leggen danwel te motiveren dat er een geldige reden voor niet-gebruik bestaat overeenkomstig artikel 2.26 lid 2 van het Verdrag. Indien het merk slechts voor een deel van de waren en/of diensten waarvoor het is ingeschreven werd gebruikt wordt de beslissing van het Bureau gebaseerd op basis van de waren en diensten waarvoor het gebruik werd aangetoond;  
+e. in voorkomend geval wordt opposant een termijn van twee maanden gesteld om de gevraagde bewijzen van gebruik over te leggen danwel te motiveren dat er een geldige reden voor niet-gebruik bestaat. Indien het merk slechts voor een deel van de waren en/of diensten waarvoor het is ingeschreven werd gebruikt wordt de beslissing van het Bureau gebaseerd op basis van de waren en diensten waarvoor het gebruik werd aangetoond;  
 
 f. indien er bewijzen van gebruik worden overgelegd zendt het Bureau deze door naar de verweerder en stelt hem een termijn van twee maanden om schriftelijk te reageren op de bewijzen van gebruik en, indien deze dit bij de onder d bedoelde gelegenheid nog niet had gedaan, op de argumenten van opposant;  
 
@@ -1599,7 +1533,7 @@ g. indien het Bureau daartoe gronden aanwezig acht kan het een of meer partijen 
 h. er kan een mondelinge behandeling worden gehouden overeenkomstig regel 1.27; .  
 
 i. het Bureau neemt een beslissing. Indien een oppositie die op verscheidene oudere merken berust op basis van één van deze merken wordt toegewezen, neemt het Bureau over de overige ingeroepen merken geen beslissing.     
-2.  In voorkomend geval dient verweerder, binnen de in lid 1 sub d gestelde termijn, een gemachtigde aan te wijzen of een correspondentieadres zoals bedoeld in regel 3.6 aan te geven.   
+2.  Indien verweerder geen domicilie binnen de Europese Unie of de Europese Economische Ruimte heeft, dient binnen de in lid 1, sub d genoemde termijn alsnog aan dit vereiste van regel 3.6 te worden voldaan.   
 
 ### Regel  1.18  
 
@@ -1609,8 +1543,8 @@ i. het Bureau neemt een beslissing. Indien een oppositie die op verscheidene oud
 2.  Voor het vaststellen van de ontvankelijkheid van de oppositie is aan het vereiste van artikel 2.14, lid 4, van het Verdrag voldaan indien 40% van de verschuldigde rechten is voldaan.   
 3.  Onverminderd het bepaalde in het vorige lid kan bij indiening het totale verschuldigde recht voor het indienen van de oppositie worden betaald. Het vorige lid laat onverlet dat het totale verschuldigde recht voor het einde van de termijn bepaald in regel 1.17, lid 1, sub b, dient te zijn voldaan.   
 4.  Indien de oppositie is gebaseerd op meer merken dan waarvoor de rechten zijn betaald, wordt de oppositie in behandeling genomen maar worden alleen de merken in aanmerking genomen waarvoor de rechten betaald zijn, volgens de volgorde zoals bij indiening van de oppositie vermeld.   
-5.  Indien de ingevolge regel 1.16, lid 1, sub a en b, verstrekte gegevens niet overeenstemmen met de geregistreerde gegevens van een ingevolge 1.16, lid 1, sub c, ingeroepen Beneluxmerk, wordt de ingediende oppositie door het Bureau tevens opgevat als een verzoek tot aantekening van een wijziging in het register. Het bepaalde in regel 3.1 is van overeenkomstige toepassing met dien verstande dat de termijn bepaald in regel 3.1, lid 5, maximaal twee weken bedraagt.   
-6.  Indien de geldigheid van het ingeroepen Beneluxmerk voor het einde van de termijn voor het instellen van oppositie verstrijkt wordt de ingediende oppositie door het Bureau tevens opgevat als een verzoek tot vernieuwing van het merk. Het bepaalde in regel 1.10 is van overeenkomstige toepassing met dien verstande dat de termijn bepaald in regel 1.10, lid 1, maximaal twee weken bedraagt.   
+5.  Indien de ingevolge regel 1.16, lid 1, sub a en b, verstrekte gegevens niet overeenstemmen met de geregistreerde gegevens van een ingevolge regel 1.16, lid 1, sub c, ingeroepen Beneluxmerk, wordt de ingediende oppositie door het Bureau tevens opgevat als een verzoek tot aantekening van een wijziging in het register. Het bepaalde in regel 3.1 is van overeenkomstige toepassing met dien verstande dat de termijn bepaald in regel 3.1, lid 5, maximaal twee weken bedraagt. Wanneer het in regel 1.16, lid 1, sub c, bedoelde oudere merk een gemeenschapsmerk of een internationaal merk betreft, stelt het Bureau opposant een termijn van twee weken om aan te tonen dat hij het nodige heeft gedaan om het betreffende register in overeenstemming te brengen met de door hem bij indiening van de oppositie verstrekte gegevens.   
+6.  Indien de geldigheid van een ingeroepen ouder merk verstrijkt voor het einde van de termijn voor het instellen van oppositie en dit merk ingevolge de toepasselijke wettelijke bepalingen nog kan worden vernieuwd, stelt het Bureau opposant een termijn van twee weken om dit merk alsnog te vernieuwen. Indien het betreffende oudere merk een gemeenschapsmerk of een internationaal merk is, stelt het Bureau een termijn van twee weken om aan te tonen dat het nodige is gedaan om het merk te vernieuwen.   
 
 ### Regel  1.19  
 
@@ -1624,53 +1558,38 @@ i. het Bureau neemt een beslissing. Indien een oppositie die op verscheidene oud
 
 ####Proceduretaal
 
-1.  De proceduretaal is een van de talen van het Bureau: het Nederlands of het Frans. Zij wordt vastgesteld op de volgende wijze: 
+1.  De proceduretaal is een van de werktalen van het Bureau. Zij wordt bij oppositie tegen een Beneluxdepot vastgesteld op de volgende wijze: 
 
-a. de proceduretaal is de taal van het depot van verweerder. Niettemin, indien dit depot een internationaal depot is, is de proceduretaal de taal van het Bureau die wordt gekozen door de verweerder binnen een termijn van een maand na de datum van de kennisgeving van ontvankelijkheid. Bij het uitblijven van een keuze is de proceduretaal het Frans;  
+a. de proceduretaal is de taal van het depot van verweerder;  
 
-b. in afwijking van het onder a bepaalde kunnen partijen gezamenlijk kiezen voor de andere taal van het Bureau.     
-2.  De in lid 1, sub b, vermelde keuze voor een proceduretaal wordt gemaakt als volgt: 
+b. in afwijking van het onder a bepaalde is de proceduretaal de taal gekozen door de opposant indien de taal van het depot van verweerder het Engels is.     
+2.  In geval van een oppositie tegen een internationaal depot wordt de proceduretaal door opposant gekozen uit de werktalen van het Bureau. Indien opposant kiest voor een van de officiële talen van het Bureau, kan verweerder binnen een termijn van een maand na de datum van de kennisgeving van ontvankelijkheid aangeven daarmee niet akkoord te gaan en kiezen voor de andere officiële taal van het Bureau. Indien opposant voor het Engels kiest, kan verweerder binnen een termijn van een maand na de datum van de kennisgeving van ontvankelijkheid aangeven daarmee niet akkoord te gaan en kiezen voor een van de officiële talen van het Bureau. Bij uitblijven van een reactie van verweerder op de taalkeuze van opposant is de proceduretaal de taal gekozen door opposant.   
+3.  In afwijking van het in de leden 1 en 2 bepaalde kunnen partijen gezamenlijk kiezen voor een andere proceduretaal.   
+4.  De keuze voor een proceduretaal wordt gemaakt als volgt: 
 
-a. de opposant geeft bij de akte van oppositie de taal van het Bureau aan die zijn voorkeur heeft als proceduretaal;  
+a. de opposant geeft bij de akte van oppositie de werktaal van het Bureau aan die zijn voorkeur heeft als proceduretaal;  
 
 b. indien de verweerder zich kan verenigen met de taalkeuze van opposant deelt hij dit binnen een termijn van een maand na de datum van de kennisgeving van ontvankelijkheid van de oppositie mede.     
-3.  Het Bureau deelt de proceduretaal mede aan partijen.   
-4.  De oppositiebeslissing wordt opgesteld in de proceduretaal.   
+5.  Het Bureau deelt de proceduretaal mede aan partijen.   
+6.  De oppositiebeslissing wordt opgesteld in de proceduretaal.   
 
 ### Regel  1.21  
 
 ####Vertaling
 
-1.  De vaststelling van de proceduretaal laat onverlet de mogelijkheid van partijen om zich in de oppositieprocedure te bedienen van de andere taal van het Bureau dan de proceduretaal.   
-2.  Indien een van de partijen argumenten indient in de taal van het Bureau die niet de proceduretaal is, vertaalt het Bureau deze argumenten in de proceduretaal, tenzij de wederpartij heeft aangegeven geen prijs te stellen op vertaling.   
-3.  Op verzoek van een partij vertaalt het Bureau de in de proceduretaal ingediende argumenten van de wederpartij in de andere taal van het Bureau.   
-4.  Op verzoek van een partij vertaalt het Bureau de oppositiebeslissing in de andere taal van het Bureau.   
-5.  Vertaling kan worden verzocht bij indiening van de akte van oppositie of bij de mededeling van verweerder als bedoeld in regel 1.20, lid 2, sub b.   
-6.  Onverminderd het bepaalde in regel 1.22 worden argumenten die niet in een van de talen van het Bureau zijn ingediend als niet-ingediend beschouwd.   
+1.  De vaststelling van de proceduretaal laat onverlet de mogelijkheid van partijen om zich in de oppositieprocedure te bedienen van een andere werktaal van het Bureau dan de proceduretaal.   
+2.  Indien een van de partijen argumenten indient in een werktaal van het Bureau die niet de proceduretaal is, vertaalt het Bureau deze argumenten in de proceduretaal, tenzij de wederpartij heeft aangegeven geen prijs te stellen op vertaling.   
+3.  Op verzoek van een partij vertaalt het Bureau de in de proceduretaal ingediende argumenten van de wederpartij in een andere werktaal van het Bureau.   
+4.  Op verzoek van een partij vertaalt het Bureau de oppositiebeslissing in de andere werktaal van het Bureau.   
+5.  Vertaling kan worden verzocht bij indiening van de akte van oppositie of bij de mededeling van verweerder als bedoeld in regel 1.20, lid 4, sub b.   
+6.  Argumenten die niet in een van de werktalen van het Bureau zijn ingediend, worden als niet-ingediend beschouwd.   
 7.  Indien argumenten ingevolge deze regel door het Bureau worden vertaald, geldt het document in de taal waarin het werd ingediend als authentiek.   
-
-### Regel  1.22  
-
-####Gebruik van het Engels
-
-1.  De vaststelling van de proceduretaal laat onverlet dat partijen de mogelijkheid hebben in de oppositieprocedure argumenten in het Engels uit te wisselen, indien zij dit gezamenlijk wensen.   
-2.  De gezamenlijke keuze voor gebruik van het Engels wordt als volgt gedaan: 
-
-a. opposant geeft bij indiening van de akte van oppositie aan dat hij zich, indien verweerder hiermee akkoord gaat, in het Engels wenst uit te drukken;  
-
-b. verweerder maakt bij zijn mededeling als bedoeld in regel 1.20, lid 2, sub b, kenbaar dat hij met het gebruik van het Engels akkoord gaat.     
-3.  Indien het Bureau vaststelt dat er een gezamenlijke keuze voor het gebruik van het Engels is gemaakt wordt dit medegedeeld aan partijen.   
-4.  In geval van een gezamenlijke keuze voor het Engels: 
-
-a. worden argumenten die in een andere taal worden ingediend als niet-ingediend beschouwd;  
-
-b. verricht het Bureau geen vertaling van de argumenten van partijen.     
 
 ### Regel  1.23  
 
 ####Wijziging taalkeuze
 
-1.  Tot de aanvang van de procedure kunnen de ingevolge de regels 1.20 en 1.22 gemaakte keuzen op gezamenlijk verzoek van partijen worden gewijzigd.   
+1.  Tot de aanvang van de procedure kunnen de ingevolge regel 1.20 gemaakte keuzen op gezamenlijk verzoek van partijen worden gewijzigd.   
 2.  Gedurende de oppositieprocedure kan elke partij schriftelijk te kennen geven niet langer prijs te stellen op vertaling door het Bureau bedoeld in regel 1.21.   
 
 ### Regel  1.24  
@@ -1703,8 +1622,8 @@ f. de oppositiebeslissing schriftelijk opgesteld, gemotiveerd en naar partijen g
 
 1.  Indien de procedure ingevolge artikel 2.16, lid 2, van het Verdrag wordt opgeschort doet het Bureau hiervan mededeling aan partijen, onder vermelding van de grond van opschorting.   
 2.  Indien de grond voor opschorting is opgeheven wordt de procedure voortgezet. Het Bureau deelt dit mede aan partijen, vermeldt hierbij welke handelingen op het betreffende moment in de procedure dienen te worden verricht en stelt hiervoor in voorkomend geval een aanvullende termijn.   
-3.  Opschorting op gezamenlijk verzoek geschiedt voor een periode van twee maanden, en kan met telkens eenzelfde periode worden verlengd.   
-4.  Indien de procedure is aangevangen, gaat de opschorting in op het moment dat het Bureau het gezamenlijk verzoek heeft ontvangen. Indien de procedure nog niet is aangevangen, wordt het gezamenlijk verzoek tot opschorting opgevat als een verlenging van de termijn van twee maanden na kennisgeving van de ontvankelijkheid bedoeld in regel 1.17, lid 1, sub b.   
+3.  Opschorting op gezamenlijk verzoek geschiedt voor een periode van vier maanden, en kan met telkens eenzelfde periode worden verlengd. Elke partij kan gedurende een opschorting op gezamenlijk verzoek op ieder moment verzoeken de opschorting op te heffen.   
+4.  Indien de procedure is aangevangen, wordt deze opgeschort op het moment dat het Bureau het gezamenlijk verzoek heeft ontvangen. Het Bureau deelt dit mede aan partijen en vermeldt hierbij de nieuwe termijn. Indien de procedure nog niet is aangevangen, wordt het gezamenlijk verzoek tot opschorting opgevat als een verlenging van de in regel 1.17, lid 1, sub b bedoelde termijn.   
 5.  Voordat de procedure is aangevangen is opschorting op gezamenlijk verzoek gedurende de eerste twaalf maanden gratis. Voor verdere verlenging van de opschorting voor aanvang van de procedure, voor opschorting gedurende de procedure en de verlenging daarvan is een recht verschuldigd. Indien niet wordt betaald bij het verzoek tot opschorting stelt het Bureau daarvoor een termijn van een maand. Indien niet of te laat wordt betaald wordt de procedure overeenkomstig lid 2 voortgezet.   
 6.  Opschorting van de oppositieprocedure ontheft partijen niet van de verplichtingen die zij hebben ingevolge regel 1.19.   
 
@@ -1720,7 +1639,7 @@ f. de oppositiebeslissing schriftelijk opgesteld, gemotiveerd en naar partijen g
 ####Meer opposities
 
 1.  Indien verscheidene opposities tegen een merk zijn ingediend kan het Bureau voor aanvang van de procedure besluiten een of meer opposities die bij een eerste onderzoek de meeste kans op toewijzing lijken te hebben in behandeling te nemen. In dat geval kan het Bureau besluiten om de behandeling van de overige opposities uit te stellen. Het Bureau stelt de resterende opposanten in kennis van elke relevante beslissing die in de voortgezette procedures wordt genomen.   
-2.  Indien de in behandeling genomen oppositie gegrond bevonden wordt en deze beslissing definitief geworden is wordt aan de uitgestelde opposities geacht de grondslag te zijn ontvallen.   
+2.  Indien de in behandeling genomen oppositie gegrond bevonden wordt en deze beslissing definitief geworden is, wordt aan de uitgestelde opposities geacht de grondslag te zijn ontvallen.   
 
 ### Regel  1.29  
 
@@ -1762,7 +1681,7 @@ h. de beslissing van het Bureau;
 
 i. de beslissing met betrekking tot de kosten;  
 
-j. de namen van de rapporteur van de oppositieafdeling en van de overige twee leden die aan de besluitvorming hebben deelgenomen;  
+j. de namen van de rapporteur en de overige twee personen die aan de besluitvorming hebben deelgenomen;  
 
 k. de naam van de administratieve behandelaar van het dossier.    
 
@@ -1794,20 +1713,20 @@ k. de naam van de administratieve behandelaar van het dossier.
 
 a. een betaling verrichten van het recht voor een Beneluxdepot;  
 
-b. een vertaling in een van de talen van het Bureau van het verzoek en de hierbij gevoegde stukken indienen;  
+b. een vertaling in een van de werktalen van het Bureau van het verzoek en de hierbij gevoegde stukken indienen;  
 
-c. een domicilie kiezen in de Europese Gemeenschap of de Europese Economische Ruimte overeenkomstig regel 3.6.     
+c. een domicilie kiezen in de Europese Unie of de Europese Economische Ruimte overeenkomstig regel 3.6.     
 2.  De termijn hiervoor bedraagt minimaal een maand. Deze termijn kan ambtshalve en zal op verzoek worden verlengd, zonder dat een tijdvak van zes maanden na de datum van verzending van de eerste kennisgeving wordt overschreden. Indien binnen de gestelde termijn niet is voldaan aan deze bepalingen, worden de ontvangen stukken verder buiten behandeling gelaten.   
 
 ### TITEL  II  
 
-####TEKENINGEN OF MODELLEN
+####Tekeningen of modellen
 
 ### Regel  2.1  
 
 ####Depotvereisten
 
-1.  Het Beneluxdepot van een tekening of model geschiedt in het Nederlands of het Frans door de indiening van een document, bevattende: 
+1.  Het Beneluxdepot van een tekening of model geschiedt in het Nederlands, Frans of Engels door de indiening van een document, bevattende: 
 
 a. naam en adres van de deposant; indien deposant een rechtspersoon is onder vermelding van zijn rechtsvorm;  
 
@@ -1820,7 +1739,7 @@ d. een omschrijving van de kleur of de kleuren van de tekening of het model; in 
 e. de handtekening van de deposant of zijn gemachtigde.     
 2.  Het document kan bovendien bevatten: 
 
-a. een beschrijving in niet meer dan 150 woorden van de kenmerkende eigenschappen van het nieuwe uiterlijk van het voortbrengsel;  
+a. een beschrijving in niet meer dan honderdvijftig woorden van de kenmerkende eigenschappen van het nieuwe uiterlijk van het voortbrengsel;  
 
 b. de naam van de werkelijke ontwerper van de tekening of het model;  
 
@@ -1832,7 +1751,7 @@ c. een verzoek om opschorting van de publicatie van de inschrijving, als bedoeld
 
 ####Meervoudig depot
 
-Een Beneluxdepot kan verscheidene tekeningen of modellen bevatten tot ten hoogste 50. In zodanig geval is het bepaalde in regel 2.1, lid 1, sub b, c en d, lid 2 en 4, ten aanzien van iedere tekening of model van toepassing. Iedere tekening of model dient aangeduid te worden met een verschillend nummer.  
+Een Beneluxdepot kan verscheidene tekeningen of modellen bevatten tot ten hoogste vijftig. In zodanig geval is het bepaalde in regel 2.1, lid 1, sub b, c en d, lid 2 en 4, ten aanzien van iedere tekening of model van toepassing. Iedere tekening of model dient aangeduid te worden met een verschillend nummer.  
 
 ### Regel  2.3  
 
@@ -1919,12 +1838,12 @@ De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van he
 
 ####Inschrijving vernieuwing
 
-1.  Het Bureau schrijft de vernieuwingen in het register in door toevoeging aan de inschrijving van de datum van de vernieuwing en de datum waarop de geldigheidsduur van de inschrijving verstrijkt.   
-2.  Het Bureau zendt de houder onverwijld een bewijs van vernieuwing van de inschrijving toe.   
+1.  Het Bureau schrijft de vernieuwingen in het register in door aanpassing van de datum waarop de geldigheidsduur van de inschrijving verstrijkt.   
+2.  Het Bureau zendt degene die het daartoe verschuldigde recht heeft betaald een bevestiging van de vernieuwing toe.   
 
 ### TITEL  III  
 
-####BEPALINGEN GEMEENSCHAPPELIJK AAN MERKEN EN TEKENINGEN OF MODELLEN
+####Bepalingen gemeenschappelijk aan merken en tekeningen of modellen
 
 ### HOOFDSTUK  1  
 
@@ -1961,32 +1880,33 @@ De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van he
 
 ####Talen Bureau
 
-1.  De talen van het Bureau zijn het Nederlands en het Frans.   
-2.  Alle stukken die aan het Bureau worden overgelegd dienen in een van deze talen te zijn gesteld. Het bepaalde in de regels 1.22 en 1.24 vormt hierop een uitzondering.   
-3.  Bewijzen van een recht van voorrang, van naamswijziging, uittreksels van akten waaruit een overdracht, een andere overgang, een licentie of een pandrecht blijkt, de daarop betrekking hebbende verklaringen, de reglementen op het gebruik en het toezicht en de wijzigingen daarvan, worden eveneens aanvaard indien zij in het Engels of het Duits zijn gesteld.   
-4.  De in lid 3 genoemde stukken die in een andere taal zijn gesteld worden eveneens aanvaard indien een vertaling ervan in een van de talen van het Bureau of het Engels of het Duits is bijgevoegd.   
+1.  De officiële talen van het Bureau zijn het Nederlands en het Frans. De werktalen van het Bureau zijn het Nederlands, Frans en Engels.   
+2.  Alle stukken die aan het Bureau worden overgelegd dienen in een van de werktalen te zijn gesteld. Het bepaalde in regel 1.24 vormt hierop een uitzondering.   
+3.  Bewijzen van een recht van voorrang, van naamswijziging, uittreksels van akten waaruit een overdracht, een andere overgang, een licentie of een pandrecht blijkt, de daarop betrekking hebbende verklaringen, de reglementen op het gebruik en het toezicht en de wijzigingen daarvan, worden eveneens aanvaard indien zij in het Duits zijn gesteld.   
+4.  De in lid 3 genoemde stukken die in een andere taal zijn gesteld worden eveneens aanvaard indien een vertaling ervan in een van de werktalen van het Bureau of het Duits is bijgevoegd.   
+5.  Het Bureau levert op verzoek en tegen betaling van een recht een vertaling naar een van zijn officiële talen van alle Beneluxdepots of -inschrijvingen die in het Engels luiden en die openbaar gemaakt zijn.   
 
 ### Regel  3.4  
 
 ####Indiening van stukken
 
-1.  De aan het Bureau of de nationale diensten over te leggen stukken kunnen worden verzonden per post en per telefax; zij kunnen eveneens worden overgelegd met behulp van elektronische middelen overeenkomstig het bepaalde in regel 3.5.   
-2.  Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het register van internationale inschrijvingen gehouden bij het Internationaal Bureau, is ondertekend namens een rechtspersoon, dient daarbij de naam en de hoedanigheid van de ondertekenaar te zijn vermeld.   
+1.  De aan het Bureau of de nationale diensten over te leggen stukken, bewijsstukken en bijlagen kunnen worden ingediend met behulp van de daartoe door de Directeur-Generaal aangeduide (al dan niet elektronische) middelen. De Directeur-Generaal kan daarbij per handeling waarop de indiening betrekking heeft verschillende middelen aanduiden.   
+2.  De in lid 1 genoemde stukken, bewijsstukken en bijlagen die niet voldoen aan het daaromtrent door de Directeur-Generaal bepaalde worden geacht niet te zijn ontvangen door het Bureau.   
 
 ### Regel  3.5  
 
-####Elektronische indiening
+####Ondertekening van stukken
 
-1.  Het indienen van depots, van aanvragen om internationale inschrijving, van verzoeken tot aantekeningen van wijzigingen in het register, van verzoeken tot vernieuwing van inschrijvingen en het instellen van oppositieprocedures kan eveneens langs elektronische weg gedaan worden. Dit kan alleen volgens de daarvoor door de Directeur-Generaal opgestelde regels.   
-2.  Stukken, bewijsstukken en bijlagen die de in lid 1 genoemde handelingen vergezellen dienen eveneens te voldoen aan het daaromtrent door de Directeur-Generaal bepaalde. Elektronische indieningen die daaraan niet voldoen worden geacht niet te zijn ontvangen door het Bureau.   
+Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het register van internationale inschrijvingen gehouden bij het Internationaal Bureau, is ondertekend namens een rechtspersoon, dient daarbij de naam en de hoedanigheid van de ondertekenaar te zijn vermeld.  
 
 ### Regel  3.6  
 
 ####Aanstelling gemachtigde
 
 1.  Alle handelingen bij het Bureau of een nationale dienst kunnen worden verricht door tussenkomst van een vertegenwoordiger die als gemachtigde optreedt.   
-2.  Een gemachtigde dient een woonplaats of zetel te hebben binnen de Europese Gemeenschap of de Europese Economische Ruimte.   
-3.  Alle mededelingen ten aanzien van deze handelingen worden aan de gemachtigde gericht.  4 . Een ieder die binnen de Europese Gemeenschap of de Europese Economische Ruimte geen zetel of woonplaats heeft noch een gemachtigde heeft aangewezen, moet aldaar een correspondentieadres aangeven.  
+2.  Een gemachtigde dient een woonplaats of zetel te hebben binnen de Europese Unie of de Europese Economische Ruimte.   
+3.  Alle mededelingen ten aanzien van deze handelingen worden aan de gemachtigde gericht.   
+4.  Een ieder die binnen de Europese Unie of de Europese Economische Ruimte geen zetel of woonplaats heeft noch een gemachtigde heeft aangewezen, moet aldaar een correspondentieadres aangeven.   
 
 ### Regel  3.7  
 
@@ -2011,7 +1931,7 @@ De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van he
 1.  De in dit reglement bedoelde in maanden uitgedrukte termijnen beginnen te lopen vanaf de dag waarop de desbetreffende handeling plaatsvindt en verstrijken, in de betreffende maand, op de dag die overeenkomt met de dag waarop de termijnen beginnen te lopen. Indien de betreffende maand geen overeenkomende dag heeft, verstrijkt de termijn op de laatste dag van deze maand.   
 2.  De in dit reglement bedoelde in weken uitgedrukte termijnen beginnen te lopen vanaf de dag waarop de desbetreffende handeling plaatsvindt en verstrijken, in de betreffende week, op de dag die overeenkomt met de dag waarop de termijnen beginnen te lopen.   
 3.  Indien de dienst van de bevoegde instantie gesloten is op de laatste dag van een ingevolge het Verdrag of dit reglement in acht te nemen termijn, wordt die termijn verlengd tot het einde van de eerstvolgende dag, waarop deze dienst geopend is.   
-4.  In geval van verstoring van de normale postbedeling in een van de Beneluxlanden gedurende minstens één van de vijf werkdagen, voorafgaand aan het einde van de termijn bedoeld in de regels 1.3, lid 1 en 2, 1.4, lid 4, 1.10, lid 1, 2.3, lid 1 en 2, 2.4, lid 4, en 3.1, lid 5, en de in hoofdstuk 3 van titel I bedoelde termijnen, zullen stukken, binnengekomen bij de terzake bevoegde instantie na afloop van de in voornoemde regels bepaalde termijnen, in behandeling genomen worden alsof ze tijdig waren ingediend bij deze instantie, mits redelijkerwijs kan aangenomen worden dat de verstoring van de normale postbedeling de oorzaak is van het na afloop van genoemde termijnen binnenkomen van die stukken.   
+4.  In geval van verstoring van de normale postbedeling in een van de Beneluxlanden gedurende minstens één van de vijf werkdagen, voorafgaand aan het einde van de termijn bedoeld in de regels 1.3, lid 1 en 2, 1.4, lid 4, 2.3, lid 1 en 2, 2.4, lid 4, en 3.1, lid 5, en de in hoofdstuk 3 van titel I bedoelde termijnen, zullen stukken, binnengekomen bij de terzake bevoegde instantie na afloop van de in voornoemde regels bepaalde termijnen, in behandeling genomen worden alsof ze tijdig waren ingediend bij deze instantie, mits redelijkerwijs kan aangenomen worden dat de verstoring van de normale postbedeling de oorzaak is van het na afloop van genoemde termijnen binnenkomen van die stukken.   
 
 ### Regel  3.10  
 
@@ -2025,7 +1945,7 @@ De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van he
 
 ####Ter beschikking stellen formulieren
 
-Het Bureau en de nationale diensten stellen formulieren beschikbaar voor het verrichten van internationale en Benelux depots, het aantekenen van wijzigingen in het register en het verzoeken van vernieuwingen en voor opposities. De Directeur-Generaal stelt het model van deze formulieren vast. Deze worden gepubliceerd op de website van het Bureau.  
+Het Bureau en de nationale diensten stellen formulieren beschikbaar voor het verrichten van die handelingen die langs niet-elektronische weg kunnen worden verricht. De Directeur-Generaal stelt het model van deze formulieren vast. Deze worden gepubliceerd op de website van het Bureau.  
 
 ### Regel  3.12  
 
@@ -2045,7 +1965,7 @@ b. een register van internationale depots.
 
 Het Bureau publiceert, conform het bepaalde in artikel 4.4, sub b, van het Verdrag uitsluitend in de taal waarin de inschrijving plaatsgevonden heeft: 
 
-a. alle ingeschreven gegevens betreffende Beneluxdepots, bedoeld in de regels 1.5, 1.6, 1.7, 1.11, 2.7, 2.12 en 3.1. Bij een beperkte vernieuwing van de inschrijving van een meervoudig depot van een tekening of model zal de publicatie van de vernieuwing de nummers van de gehandhaafde tekeningen of modellen vermelden;  
+a. alle ingeschreven gegevens betreffende Beneluxdepots, bedoeld in de regels 1.5, 1.6, 1.7, 1.9, 2.7, 2.12 en 3.1. Bij een beperkte vernieuwing van de inschrijving van een meervoudig depot van een tekening of model zal de publicatie van de vernieuwing de nummers van de gehandhaafde tekeningen of modellen vermelden;  
 
 b. alle ingeschreven gegevens betreffende internationale merkdepots, bedoeld in regel 1.8 lid 2;  
 
@@ -2059,17 +1979,96 @@ e. het feit van de inschrijving van de vordering tot opeising bedoeld in regel 2
 
 ####Nadere regels
 
-De Directeur-Generaal kan nadere regels voor het indienen van stukken bij het Bureau vaststellen. Deze worden gepubliceerd.  
+De in regel 3.4 bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken worden op de website van het Bureau gepubliceerd.  
 
 ### TITEL  IV  
 
-####RECHTEN EN VERGOEDINGEN
+####: I-DEPOT
+
+### Regel  4.1  
+
+####Soorten i-DEPOT
+
+Het in artikel 4.4bis van het Verdrag genoemde i-DEPOT bestaat in een fysieke variant („i-DEPOT enveloppe”) en in een elektronische variant („online i-DEPOT”).  
+
+### Regel  4.2  
+
+####Indiening i-DEPOT enveloppe
+
+1.  Een i-DEPOT enveloppe bestaat uit twee gelijke aan elkaar gekoppelde compartimenten en kan bij het Bureau worden verkregen tegen betaling van het daarvoor verschuldigde recht.   
+2.  Indiening van een i-DEPOT enveloppe geschiedt door terugzending aan het Bureau van de twee aan elkaar gekoppelde compartimenten die beide dezelfde stukken dienen te bevatten; de enveloppe dient te zijn voorzien van naam en adres van de indiener.   
+3.  Zonder de inhoud te controleren stelt het Bureau overeenkomstig regel 3.8 het moment van ontvangst van de i-DEPOT enveloppe vast, brengt een bevestiging hiervan aan op beide compartimenten van de enveloppe en stuurt één van deze compartimenten terug aan indiener.   
+
+### Regel  4.3  
+
+####Bewaring i-DEPOT enveloppe
+
+1.  Het Bureau bewaart één van de compartimenten van de i-DEPOT enveloppe gedurende een periode van vijf of tien jaar, afhankelijk van de terzake door indiener gemaakte keuze.   
+2.  De bewaartermijn kan met periodes van vijf jaar worden verlengd.   
+3.  Twee maanden voor het verstrijken van de bewaartermijn stuurt het Bureau de indiener een herinnering en informeert over de mogelijkheid de bewaring te verlengen.   
+4.  Verlenging van de bewaartermijn geschiedt door betaling van het daarvoor verschuldigde recht. Dit dient ten laatste twee maanden na de afloop van de bewaartermijn te zijn voldaan.   
+5.  Het Bureau vernietigt de i-DEPOT enveloppen waarvan de bewaartermijn niet tijdig werd verlengd.   
+6.  Indiener kan het Bureau gedurende de bewaarneming verzoeken om de toezending van het door het Bureau bewaarde compartiment van de i-DEPOT enveloppe. Door toezending van dit compartiment eindigt de bewaarneming door het Bureau.   
+
+### Regel  4.4  
+
+####i-DEPOT enveloppe bewijs
+
+Zowel het door het Bureau retour gezonden compartiment van de i-DEPOT enveloppe als het door het Bureau bewaarde compartiment van de i-DEPOT enveloppe vormen bewijs in de zin van artikel 4.4bis van het Verdrag.  
+
+### Regel  4.5  
+
+####Indiening online i-DEPOT
+
+1.  Een online i-DEPOT bestaat uit een bestand voorzien van een elektronisch mechanisme ter beveiliging en verificatie aangebracht door het Bureau, waarmee wordt gegarandeerd dat de inhoud ervan vanaf het moment van ontvangst door het Bureau niet is gewijzigd.   
+2.  Bij indiening van een online i-DEPOT dienen naam en adres van indiener te worden vermeld.   
+3.  Bovendien dient bij een online i-DEPOT 
+
+a. een omschrijving te worden vermeld, of;  
+
+b. een of meer bestanden toe te worden gevoegd, of;  
+
+c. een combinatie van het onder a en b genoemde.     
+4.  Het Bureau kent het online i-DEPOT een nummer toe, stelt overeenkomstig regel 3.8 het moment van ontvangst van het online i-DEPOT vast en stuurt de indiener het in lid 1 bedoelde elektronische bestand toe. Dit bestand bevat de bestanddelen genoemd in de leden 2 en 3, het nummer van het online i-DEPOT alsmede datum en tijdstip van ontvangst door het Bureau.   
+
+### Regel  4.6  
+
+####Online i-DEPOT bewijs
+
+Het elektronisch bestand bedoeld in regel 4.5 vormt bewijs in de zin van artikel 4.4bis van het Verdrag.  
+
+### Regel  4.7  
+
+####Bewaring online i-DEPOT
+
+1.  Het Bureau bewaart een online i-DEPOT gedurende een periode van vijf jaar die telkens met eenzelfde periode kan worden verlengd.   
+2.  Twee maanden voor het verstrijken van de bewaartermijn stuurt het Bureau de indiener een herinnering en informeert over de mogelijkheid de bewaring te verlengen.   
+3.  Verlenging van de bewaartermijn geschiedt door betaling van het daarvoor verschuldigde recht. Dit dient ten laatste twee maanden na de afloop van de bewaartermijn te zijn voldaan.   
+4.  Het Bureau vernietigt het online i-DEPOT waarvan de bewaartermijn niet tijdig werd verlengd.   
+5.  Gedurende de bewaarneming kan indiener het Bureau verzoeken om de toezending van het online i-DEPOT bewijsstuk op een gegevensdrager tegen betaling van het daarvoor verschuldigde recht. Met dit verzoek geeft indiener het Bureau toestemming om de inhoud van het online i-DEPOT in te zien.   
+6.  Indiener kan het Bureau te allen tijde verzoeken de bewaring van een online i-DEPOT te beëindigen en het te vernietigen.   
+
+### Regel  4.8  
+
+####Handelingen betrekking hebbend op het online i-DEPOT
+
+De handelingen betrekking hebbende op een online i-DEPOT kunnen uitsluitend worden verricht door gebruikmaking van het daartoe door de Directeur-Generaal aangeduide middel dat op de website van het Bureau beschikbaar wordt gesteld.  
+
+### Regel  4.9  
+
+####Termijnen
+
+Op de in de regels 4.3 en 4.7 bedoelde termijnen is regel 3.9 van overeenkomstige toepassing.  
+
+### TITEL  V  
+
+####Rechten en vergoedingen
 
 ### HOOFDSTUK  1  
 
 ####ALGEMEEN
 
-### Regel  4.1  
+### Regel  5.1  
 
 ####Vaststelling tarieven
 
@@ -2077,14 +2076,15 @@ De Directeur-Generaal kan nadere regels voor het indienen van stukken bij het Bu
 2.  De Raad van Bestuur stelt de tarieven vast. De Raad kan de vastgestelde tarieven slechts eenmaal per jaar aanpassen.   
 3.  Artikel 6.5 van het Verdrag is van overeenkomstige toepassing op de bekendmaking van nieuwe tarieven.   
 
-### Regel  4.2  
+### Regel  5.2  
 
 ####Betaling
 
-1.  Betaling van de verschuldigde rechten en vergoedingen dient vooraf te gaan aan handelingen door het Bureau.   
+1.  Betaling van de verschuldigde rechten en vergoedingen dient vooraf te gaan aan handelingen door het Bureau. Betaalde verschuldigde rechten en vergoedingen, worden in geen geval gerestitueerd.   
 2.  Het Bureau verzendt na ontvangst van een verzoek waaraan rechten verbonden zijn een overzicht van de verschuldigde rechten. Aan het niet-verzenden of niet-ontvangen van dit overzicht kunnen geen rechten worden ontleend.   
+3.  Indien voor een handeling overeenkomstig regel 3.4 zowel elektronische als niet-elektronische indiening mogelijk is en de indiener ervoor kiest om een ander middel dan een door de Directeur-Generaal voor die specifieke handeling aangeduid elektronisch middel te gebruiken, is een vergoeding voor administratiekosten verschuldigd ter hoogte van 15%, naar beneden afgerond op hele euro’s, van het recht of de rechten verschuldigd voor de desbetreffende handeling. Deze vergoeding is niet eerder verschuldigd dan nadat hierover overeenkomstig regel 3.14 een mededeling van de Directeur-Generaal is gepubliceerd.   
 
-### Regel  4.3  
+### Regel  5.3  
 
 ####Vergoedingen incidentele handelingen
 
@@ -2096,46 +2096,47 @@ De Directeur-Generaal kan nadere regels voor het indienen van stukken bij het Bu
 
 ####MERKEN
 
-### Regel  4.4  
+### Regel  5.4  
 
-####Rechten depot, vernieuwing, wijzigingen
+####Rechten depot, oppositie, vernieuwing, wijzigingen
 
 ###1. Depot van een merk:
 
 | --- | --- |
-|:---|:---|
-| a.basisrecht individueel merk, tot drie klassen (regel 1.1)  | 240  |
-| b. basisrecht collectief merk, tot drie klassen (regel 1.2)  | 373  |
+|---|---|
+| a.basisrecht individueel merk, tot drie klassen (regel 1.1 )  | 240  |
+| b. basisrecht collectief merk, tot drie klassen (regel 1.2 )  | 373  |
 | c. aanvullend recht voor iedere klasse boven de derde  | 37  |
-| d. aanvullend recht voor spoedinschrijving, tot drie klassen (regel 1.7)  | 193  |
+| d. aanvullend recht voor spoedinschrijving, tot drie klassen (regel 1.7 )  | 193  |
 | e. aanvullend recht voor spoedinschrijving per klasse boven de derde  | 30  |
-| f. aanvullend recht voor de beschrijving van onderscheidende elementen (regel 1.1, lid 2)  | 39  |
-| g. inschrijving verklaring van een recht van voorrang (regel 1.4, lid 2)  | 15  |
+| f. aanvullend recht voor de beschrijving van onderscheidende elementen (regel 1.1, lid 2 )  | 39  |
+| g. inschrijving verklaring van een recht van voorrang (regel 1.4, lid 2 )  | 15  |
 
-###2. Oppositie (regel 1.16 e.v.):
+###2. Oppositie (regel 1.16  e.v.):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. basisrecht oppositie  | 1.000  |
 | b. aanvullend recht per ingeroepen recht boven het derde  | 100  |
-| c. opschorting op verzoek en verlenging daarvan voor aanvang procedure (maximaal een jaar) (regel 1.26)  | gratis  |
-| d. opschorting op verzoek en verlenging daarvan in overige gevallen, per twee maanden (regel 1.26)  | 100  |
-| e. vertaling van argumenten (regel 1.21)  eerste vier pagina’s*  <sup>  * pagina: maximaal 30 regels met maximaal 80 karakters.    </sup> iedere pagina* of deel daarvan, boven de vierde  <sup>  * pagina: maximaal 30 regels met maximaal 80 karakters.    </sup> |   gratis  55  |
-| f. vertaling van beslissing, per pagina* of deel daarvan (regel 1.21)  | 45  |
+| c. opschorting op verzoek en verlenging daarvan voor aanvang procedure (maximaal drie maal) (regel 1.26 )  | gratis  |
+| d. opschorting op verzoek en verlenging daarvan in overige gevallen, per vier maanden (regel 1.26 )  | 150  |
+| e. vertaling van argumenten (regel 1.21 )  eerste vier pagina’s*  iedere pagina* of deel daarvan, boven de vierde  |   gratis  55  |
+| f. vertaling van beslissing, per pagina* of deel daarvan (regel 1.21 )  | 45  |
 
-###3. Vernieuwing van merken (regel 1.9):
+* pagina: maximaal 30 regels met maximaal 80 karakters. 
+###3. Vernieuwing van merken (regel 1.9 ):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. basisrecht individueel merk, tot drie klassen  | 260  |
 | b. basisrecht collectief merk, tot drie klassen  | 474  |
 | c. aanvullend recht voor iedere klasse boven de derde  | 46  |
-| d. extra-recht voor vernieuwing binnen zes maanden na vervaldatum (artikel 2.9 lid 4 Verdrag)  | 129  |
+| d. extra-recht voor vernieuwing binnen zes maanden na vervaldatum (artikel 2.9 lid 4 Verdrag )  | 129  |
 
-###4. Wijzigingen (regel 3.1):
+###4. Wijzigingen (regel 3.1 ):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. overdracht of overgang, licentie, pandrecht of beslag  | --- |
 | eerste merk  | 54  |
 | tweede tot en met vijfde merk  | 27  |
@@ -2143,35 +2144,37 @@ De Directeur-Generaal kan nadere regels voor het indienen van stukken bij het Bu
 | b. aantekening waren- en dienstenbeperking  | 44  |
 | c. wijziging van gemachtigde, inbegrepen diens aanwijzing na inschrijving van het depot  | --- |
 | eerste merk  | 22  |
-| tweede tot en met vijfde merk  | 11  |
-| elk volgend merk  | gratis  |
+| tweede tot en met vijfde merk van dezelfde houder  | 11  |
+| elk volgend merk van dezelfde houder  | gratis  |
+| tweede tot en met vijfde merk van verschillende houders  | 11  |
+| elk volgend merk van verschillende houders  | 2  |
 | d. wijziging naam en/of adres van een merkhouder, gemachtigde of licentiehouder  | gratis  |
 | e. herstel van aan de houder te wijten schrijffouten na inschrijving  | --- |
 | eerste merk  | 18  |
 | elk volgend merk  | 9  |
 
-### Regel  4.5  
+### Regel  5.5  
 
 ####Overige vergoedingen (merken)
 
 ###1. Onderzoek naar eerdere inschrijvingen:
 
 | --- | --- |
-|:---|:---|
-| a. basisvergoeding onderzoek, tot 3 klassen  | 150  |
+|---|---|
+| a. basisvergoeding onderzoek, tot drie klassen  | 150  |
 | b. aanvullende vergoeding voor iedere klasse boven de derde  | 20  |
 
 ###2. Abonnement op latere merken (per jaar):
 
 | --- | --- |
-|:---|:---|
-| a. basisvergoeding abonnement, tot 3 klassen  | 50  |
+|---|---|
+| a. basisvergoeding abonnement, tot drie klassen  | 50  |
 | b. aanvullende vergoeding voor iedere klasse boven de derde  | 8  |
 
 ###3. Afschriften
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. niet gewaarmerkt, per inschrijving  | 4  |
 | b. niet gewaarmerkt, overige per bladzijde  | 5  |
 | c. gewaarmerkt, per inschrijving  | 15  |
@@ -2181,26 +2184,30 @@ De Directeur-Generaal kan nadere regels voor het indienen van stukken bij het Bu
 ###4. Inlichtingen
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. minder dan een uur  | 23  |
 | b. langer dan een uur, per uur  | 55  |
 
-### Regel  4.6  
+###5. Vertaling van een openbaar depot of inschrijving vanuit het Engels naar een officiële taal
+
+0,20/ woord  
+
+### Regel  5.6  
 
 ####Doorzending internationale en gemeenschapsmerken
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 1. Internationaal merk; indiening aanvraag inschrijving of vernieuwing  | 80  |
 
 ###2. Gemeenschapsmerk (artikel 25 lid 2 Gemeenschapsmerkenverordening):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. indiening aanvraag  | 80  |
 | b. indien de verzendkosten meer dan € 25,– bedragen  | verzendkosten  |
 
-### Regel  4.7  
+### Regel  5.7  
 
 ####Individuele rechten internationale merken
 
@@ -2208,7 +2215,7 @@ Het bedrag van de individuele rechten zoals bedoeld in artikel 8, 7), a) van het
 ###1. Internationaal depot:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. basisrecht individueel merk, tot drie klassen  | 159  |
 | b. basisrecht collectief merk, tot drie klassen  | 227  |
 | c. aanvullend recht voor iedere klasse boven de derde  | 16  |
@@ -2216,7 +2223,7 @@ Het bedrag van de individuele rechten zoals bedoeld in artikel 8, 7), a) van het
 ###2. Vernieuwing van de internationale inschrijving:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. basisrecht individueel merk, tot drie klassen  | 260  |
 | b. basisrecht collectief merk, tot drie klassen  | 474  |
 | c. aanvullend recht voor iedere klasse boven de derde  | 46  |
@@ -2225,58 +2232,58 @@ Het bedrag van de individuele rechten zoals bedoeld in artikel 8, 7), a) van het
 
 ####TEKENINGEN OF MODELLEN
 
-### Regel  4.8  
+### Regel  5.8  
 
 ####Rechten depot, vernieuwing, wijzigingen
 
-###1. Enkelvoudig depot van een tekening of model (regel 2.1):
+###1. Enkelvoudig depot van een tekening of model (regel 2.1 ):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. enkelvoudig depot  | 108  |
 | b. publicatie per afbeelding  | 10  |
 | c. publicatie beschrijving kenmerkende eigenschappen  | 40  |
 
-###2. Meervoudig depot (regel 2.2):
+###2. Meervoudig depot (regel 2.2 ):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. depot eerste tekening of model  | 108  |
-| b. 2e t/m 10e tekening of model, per tekening of model  | 54  |
-| c. 11e t/m 20e tekening of model, per tekening of model  | 27  |
-| d. 21e t/m 50e tekening of model, per tekening of model  | 22  |
+| b. tweede t/m tiende tekening of model, per tekening of model  | 54  |
+| c. elfde t/m twintigste tekening of model, per tekening of model  | 27  |
+| d. eenentwintigste t/m vijftigste tekening of model, per tekening of model  | 22  |
 | e. publicatie per afbeelding  | 10  |
 | f. publicatie beschrijving kenmerkende eigenschappen, per tekening of model  | 40  |
 
 | --- | --- |
-|:---|:---|
-| 3. Opschorting publicatie (regel 2.5)  | 39  |
+|---|---|
+| 3. Opschorting publicatie (regel 2.5 )  | 39  |
 
 | --- | --- |
-|:---|:---|
-| 4. Inschrijving verklaring recht van voorrang (regel 2.4 lid 2)  | 12  |
+|---|---|
+| 4. Inschrijving verklaring recht van voorrang (regel 2.4 lid 2 )  | 12  |
 
 | --- | --- |
-|:---|:---|
-| 5. Vernieuwing enkelvoudige inschrijving (regel 2.11)  | 95  |
+|---|---|
+| 5. Vernieuwing enkelvoudige inschrijving (regel 2.11 )  | 95  |
 
-###6. Vernieuwing meervoudige inschrijving (regel 2.11):
+###6. Vernieuwing meervoudige inschrijving (regel 2.11 ):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. vernieuwing eerste tekening of model  | 95  |
-| b. 2e t/m 10e tekening of model, per tekening of model  | 48  |
-| c. 11e t/m 20e tekening of model, per tekening of model  | 24  |
-| d. 21e t/m 50e tekening of model, per tekening of model  | 20  |
+| b. tweede t/m tiende tekening of model, per tekening of model  | 48  |
+| c. elfde t/m twintigste tekening of model, per tekening of model  | 24  |
+| d. eenentwintigste t/m vijftigste tekening of model, per tekening of model  | 20  |
 
 | --- | --- |
-|:---|:---|
-| 7. Extra-recht voor vernieuwing binnen zes maanden na vervaldatum (artikel 3.14 lid 3 Verdrag)  | 12  |
+|---|---|
+| 7. Extra-recht voor vernieuwing binnen zes maanden na vervaldatum (artikel 3.14 lid 3 Verdrag )  | 12  |
 
 ###8. Wijzigingen (regel 3.1):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. overdracht of overgang, licentie, pandrecht of beslag  | --- |
 | eerste tekening of model  | 24  |
 | elke volgende tekening of model  | 12  |
@@ -2289,14 +2296,14 @@ Het bedrag van de individuele rechten zoals bedoeld in artikel 8, 7), a) van het
 | elke volgende tekening of model  | 5  |
 | e. inschrijving vordering tot opeising (regel 2.10)  | 12  |
 
-### Regel  4.9  
+### Regel  5.9  
 
 ####Overige vergoedingen (tekeningen of modellen)
 
 ###1. Afschriften:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. niet gewaarmerkt, per inschrijving  | 4  |
 | b. niet gewaarmerkt, overige per bladzijde  | 2  |
 | c. gewaarmerkt, per inschrijving  | 18  |
@@ -2306,38 +2313,42 @@ Het bedrag van de individuele rechten zoals bedoeld in artikel 8, 7), a) van het
 ###2. Inlichtingen:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | minder dan een uur  | 17  |
 | langer dan een uur, per uur  | 30  |
 
 ###3. Benelux-Modellenblad (uitgave op cd-rom):
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | binnen het Beneluxgebied, losse aflevering  | 8  |
 | binnen het Beneluxgebied, jaarjabonnement  | 79  |
 | buiten het Beneluxgebied, losse aflevering  | 9  |
 | buiten het Beneluxgebied, jaarjabonnement  | 87  |
 
-### Regel  4.10  
+###4. Vertaling van een openbaar depot of inschrijving vanuit het Engels naar een officiële taal
+
+0,20/ woord  
+
+### Regel  5.10  
 
 ####Wijzigingen internationale modellen
 
 ###Aantekening licentie, pandrecht of beslag internationale modellen
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. eerste tekening of model  | 24  |
 | b. elke volgende tekening of model  | 12  |
 
-### Regel  4.11  
+### Regel  5.11  
 
 ####Doorzending gemeenschapsmodel
 
 ###Gemeenschapsmodel:
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | a. indiening aanvraag (artikel 35 lid 2 Gemeenschapsmodellenverordening)  | 71  |
 | b. indien de verzendkosten meer dan € 25,– bedragen  | verzendkosten  |
 
@@ -2345,11 +2356,11 @@ Het bedrag van de individuele rechten zoals bedoeld in artikel 8, 7), a) van het
 
 ####OVERIGE DIENSTEN
 
-### Regel  4.12  
+### Regel  5.12  
 
 ####i-DEPOT
 
-1.  i-DEPOT envelop: 
+1.  i-DEPOT enveloppe: 
 
 a. vijf jaar bewaartermijn: € 45;  
 
@@ -2360,7 +2371,7 @@ c. vijf jaar verlenging bewaartermijn: € 45.
 
 a. indiening en bewaartermijn van vijf jaar: € 35;  
 
-b. 5 jaar verlenging bewaartermijn: € 25;  
+b. vijf jaar verlenging bewaartermijn: € 25;  
 
 c. reproductie: € 15.     
 3.  i-DEPOT account 
@@ -2386,16 +2397,16 @@ a.
 
 3. Indienen en bewaring gedurende vijf jaar i-DEPOT tussen 50 – 100 Mb: 3 credits    
 
-b. 5 jaar verlenging bewaartermijn: 1 credit  
+b. vijf jaar verlenging bewaartermijn: 1 credit  
 
 c. reproductie: 3 credits     
 5.  Tarieven voor i-DEPOTs ingediend door tussenkomst van tussenpersonen  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | aanmelding als tussenpersoon  | 350  |
-| b.  | i-DEPOT envelop, 5 jaar bewaartermijn  | 35  |
-| c.  | i-DEPOT envelop, 10 jaar bewaartermijn  | 50  |
+| b.  | i-DEPOT envelop, vijf jaar bewaartermijn  | 35  |
+| c.  | i-DEPOT envelop, tien jaar bewaartermijn  | 50  |
 | d.  | online i-DEPOT  | 25  |
 
 ### Artikel  II  

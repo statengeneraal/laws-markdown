@@ -7,10 +7,14 @@ De Nederlandse Zorgautoriteit,    Ingevolge de [artikelen 36, derde lid](../../.
 
 ####Reikwijdte regeling
 
-Deze regeling is van toepassing op zorgaanbieders die mondzorg leveren als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Voor zover geen sprake is van zorgaanbieders als omschreven in de vorige zin, is deze regeling van toepassing op zorgaanbieders die handelingen of werkzaamheden verrichten op het terrein van de mondzorg geleverd door of onder verantwoordelijkheid van beroepsbeoefenaren als bedoeld in [artikel 3](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), dan wel [34, van de Wet op de Beroepen in de individuele Gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md). <sup> 1  Het betreft hier de handelingen bedoeld in artikel 1, sub b, nr. 2°, van de Wmg.  </sup> <sup> 2  Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef, en sub d, van het Besluit uitbreiding en beperking werkingssfeer Wmg.  </sup> Deze regeling is verder van toepassing op zorgaanbieders die mondzorg leveren als omschreven bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) (AWBZ) aan patiënten die verblijven of behandeld worden in instellingen die zijn toegelaten voor de functies behandeling en verblijf als omschreven in het [Besluit zorgaanspraken AWBZ](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Deze regeling is niet van toepassing op zorgaanbieders die chirurgische tandheelkundige hulp van specialistische aard leveren (kaakchirurgen).    
+Materieel uitgewerkt per 01-01-2014 
+
+Deze regeling is van toepassing op zorgaanbieders die mondzorg leveren als omschreven bij of krachtens de [Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Voor zover geen sprake is van zorgaanbieders als omschreven in de vorige zin, is deze regeling van toepassing op zorgaanbieders die handelingen<sup> 1 Het betreft hier de handelingen bedoeld in artikel 1, sub b, nr. 2°, van de Wmg. </sup>of werkzaamheden<sup> 2 Het betreft hier de werkzaamheden bedoeld in artikel 2, aanhef, en sub d, van het Besluit uitbreiding en beperking werkingssfeer Wmg. </sup>verrichten op het terrein van de mondzorg geleverd door of onder verantwoordelijkheid van beroepsbeoefenaren als bedoeld in [artikel 3](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), dan wel [34, van de Wet op de Beroepen in de individuele Gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md). Deze regeling is verder van toepassing op zorgaanbieders die mondzorg leveren als omschreven bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) (AWBZ) aan patiënten die verblijven of behandeld worden in instellingen die zijn toegelaten voor de functies behandeling en verblijf als omschreven in het [Besluit zorgaanspraken AWBZ](../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Deze regeling is niet van toepassing op zorgaanbieders die chirurgische tandheelkundige hulp van specialistische aard leveren (kaakchirurgen).    
 ### 2  
 
 ####Doel van de regeling
+
+Materieel uitgewerkt per 01-01-2014 
 
 Deze regeling heeft tot doel het stellen van de navolgende voorschriften met betrekking tot de verlening van mondzorg: 
 
@@ -23,59 +27,83 @@ C) Transparantievoorschriften, zoals genoemd in artikel 6 van deze regeling, ten
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 01-01-2014 
+
 ### 3.1  
 
 ####Behandeling
+
+Materieel uitgewerkt per 01-01-2014 
 
 Het uitvoeren van één of meer prestaties, volgend uit en in het kader van een diagnose, ten behoeve van preventieve en/of curatieve mondverzorging van de consument uitgevoerd binnen een bepaalde tijdsperiode.    
 ### 3.2  
 
 ####Consument
 
+Materieel uitgewerkt per 01-01-2014 
+
 Een zorgvrager, patiënt, een potentiële patiënt of degene die namens een patiënt informeert.    
 ### 3.3  
 
 ####Declaratie
+
+Materieel uitgewerkt per 01-01-2014 
 
 Het tarief of de tarieven die in rekening zijn gebracht voor een geleverde (deel)prestatie of (deel)prestaties aan de consument dan wel aan de ziektekostenverzekeraar van de betreffende consument.    
 ### 3.4  
 
 ####Materiaal- en/of techniekkosten
 
+Materieel uitgewerkt per 01-01-2014 
+
 De kosten van techniek die noodzakelijk zijn voor de behandeling en extra zijn ingekocht dan wel in eigen beheer zijn uitgevoerd en de kosten van de materialen die specifiek toe te rekenen zijn aan de betreffende prestatie. Hier worden expliciet niet de verbruiksmaterialen bedoeld. Bij de prestaties waarbij dit van toepassing kan zijn staat dit in de tariefbeschikking aangegeven met een * (sterretje).    
 ### 3.5  
 
 ####Mondzorg
+
+Materieel uitgewerkt per 01-01-2014 
 
 Zorg zoals omschreven in artikel 1 van de beleidsregel ‘Experiment vrije prijsvorming mondzorg’.    
 ### 3.6  
 
 ####Prestatie
 
+Materieel uitgewerkt per 01-01-2014 
+
 Een prestatie, dan wel deelprestatie als bedoeld in de beleidsregel ‘Experiment vrije prijsvorming mondzorg’. Een prestatie omvat het leveren van mondzorg aan een consument.    
 ### 3.7  
 
 ####Prijsopgave
+
+Materieel uitgewerkt per 01-01-2014 
 
 Een, voor de consument vrijblijvend, gespecificeerd overzicht van de prestaties en tarieven die de zorgaanbieder in rekening verwacht te brengen voor een behandeling.    
 ### 3.8  
 
 ####Standaardprijslijst
 
+Materieel uitgewerkt per 01-01-2014 
+
 De prijslijst, zoals gedefinieerd in artikel 6 van deze regeling.    
 ### 3.9  
 
 ####Tarief
+
+Materieel uitgewerkt per 01-01-2014 
 
 De prijs voor een (deel van een) prestatie van een zorgaanbieder.    
 ### 3.10  
 
 ####Vrij tarief
 
+Materieel uitgewerkt per 01-01-2014 
+
 Een tarief als bedoeld in [artikel 57, lid 4, onder c van de Wmg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).    
 ### 3.11  
 
 ####Ziektekostenverzekeraar
+
+Materieel uitgewerkt per 01-01-2014 
 
 − een zorgverzekeraar;  
 
@@ -86,20 +114,28 @@ Een tarief als bedoeld in [artikel 57, lid 4, onder c van de Wmg](../../../../we
 
 ####Zitting
 
+Materieel uitgewerkt per 01-01-2014 
+
 Een onafgebroken tijdspanne waarin de zorgaanbieder ten behoeve van een consument één of meer prestaties uitvoert, ongeacht inhoud en tijdsduur van de zitting.    
 ### 3.13  
 
 ####Zorgaanbieder
+
+Materieel uitgewerkt per 01-01-2014 
 
 De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig mondzorg verleent.    
 ### 3.14  
 
 ####Zorgzwaarte
 
+Materieel uitgewerkt per 01-01-2014 
+
 De mate waarin de zorgbehoefte van de consument afwijkt van wat gemiddeld gebruikelijk is in de praktijk van de zorgaanbieder.     
 ### 4  
 
 ####Administratievoorschriften
+
+Materieel uitgewerkt per 01-01-2014 
 
 Zorgaanbieders voeren een administratie van uitgevoerde prestaties, zodanig dat telling mogelijk is van gerealiseerde prestaties en de daarvoor gehanteerde tarieven in enige periode. Zorgaanbieders registreren in ieder geval per prestatie: 
 
@@ -125,6 +161,8 @@ Zorgaanbieders voeren een administratie van uitgevoerde prestaties, zodanig dat 
 ### 5  
 
 ####Declaratievoorschriften
+
+Materieel uitgewerkt per 01-01-2014 
 
 A) De zorgaanbieder maakt in zijn declaratie aan een consument en/of ziektekostenverzekeraar zichtbaar welk tarief voor een prestatie in rekening is gebracht.  
 
@@ -157,10 +195,14 @@ F) De uitvoerende zorgaanbieder brengt de prestatie 'onderlinge dienstverlening'
 
 ####Transparantievoorschriften
 
+Materieel uitgewerkt per 01-01-2014 
+
 Zorgaanbieders dienen de consument tijdig en zorgvuldig te informeren over de tarieven die zij voor prestaties in rekening brengen. Dit doen zij door aan onderstaande voorschriften en voorwaarden te voldoen. De zorgaanbieder is verantwoordelijk voor de juistheid van de inhoud van de standaardprijslijst en het tijdig en juist informeren van de consument.   
 ### 6.1  
 
 ####Het bekend maken van een standaardprijslijst
+
+Materieel uitgewerkt per 01-01-2014 
 
 Een zorgaanbieder maakt een standaardprijslijst bekend die inzicht geeft in de tarieven, die binnen de betreffende praktijk gelden, voor niet-verzekerde patiënten of voor verzekerde patiënten waarvan de zorgverzekeraar geen contract heeft afgesloten met de betreffende zorgaanbieder. De standaardprijslijst mondzorg moet voldoen aan de volgende voorwaarden: 
 
@@ -177,6 +219,8 @@ Een zorgaanbieder maakt een standaardprijslijst bekend die inzicht geeft in de t
 
 ####Informeren van de consument over de standaardprijslijst
 
+Materieel uitgewerkt per 01-01-2014 
+
 Een zorgaanbieder informeert de consument over de tarieven die binnen de betreffende praktijk gelden voor niet-verzekerde patiënten of voor verzekerde patiënten waarvan de zorgverzekeraar geen contract heeft afgesloten met de betreffende zorgaanbieder. Hierbij voldoet de zorgaanbieder aan de volgende voorwaarden: 
 
 1. Een zorgaanbieder dient gedurende de behandeling de tarieven conform de standaardprijslijst te hanteren.  
@@ -192,6 +236,8 @@ Een zorgaanbieder informeert de consument over de tarieven die binnen de betreff
 
 ####De consument op de hoogte stellen indien wordt afgeweken van de standaardprijslijst
 
+Materieel uitgewerkt per 01-01-2014 
+
 Een zorgaanbieder stelt de consument, voorafgaand aan de behandeling, op de hoogte van het tarief dat in rekening wordt gebracht, indien het tarief van de betreffende prestatie afwijkt van de standaardprijslijst. Indien de zorgaanbieder afwijkt van de standaardprijslijst dient hij aan de volgende voorwaarden te voldoen: 
 
 1. De zorgaanbieder informeert de consument, voor de start van de behandeling, schriftelijk dan wel mondeling, per prestatie over welk tarief hij hanteert voor de prestatie(s) waarbij wordt afgeweken van de standaardprijslijst en welk tarief op de standaardprijslijst staat vermeld.  
@@ -202,6 +248,8 @@ Een zorgaanbieder stelt de consument, voorafgaand aan de behandeling, op de hoog
 ### 6.4  
 
 ####Het verstrekken van een prijsopgave per behandeling, voor alle behandelingen vanaf een totaalbedrag van 150 euro
+
+Materieel uitgewerkt per 01-01-2014 
 
 Een zorgaanbieder verstrekt standaard, voorafgaand aan de behandeling, voor alle behandelingen vanaf een totaalbedrag van 150 (honderdvijftig) euro een voor de consument vrijblijvende prijsopgave. De prijsopgave en de wijze waarop de zorgaanbieder hierover communiceert voldoen aan de volgende voorwaarden: 
 
@@ -220,10 +268,14 @@ Een zorgaanbieder verstrekt standaard, voorafgaand aan de behandeling, voor alle
 
 ####Het verstrekken van de factuur voor ingekochte materiaal- en/of techniekkosten
 
+Materieel uitgewerkt per 01-01-2014 
+
 Indien de zorgaanbieder de tandtechniekstukken niet zelf vervaardigt, is deze, op verzoek van de consument dan wel diens verzekeraar, verplicht de factuur van de tandtechnicus/tandtechnisch laboratorium/tandtechnische onderneming te overleggen. Voorwaarde voor deze factuur is dat deze per prestatie inzichtelijk maakt welke materiaal- en/ of techniekkosten de zorgaanbieder voor de consument heeft ingekocht.     
 ### 7  
 
 ####Verantwoordelijkheid
+
+Materieel uitgewerkt per 01-01-2014 
 
 1. De zorgaanbieder is verantwoordelijk voor de goede opvolging van de in deze regeling genoemde bepalingen.  
 
@@ -233,6 +285,8 @@ Indien de zorgaanbieder de tandtechniekstukken niet zelf vervaardigt, is deze, o
 ### 8  
 
 ####Inwerkingtreding
+
+Materieel uitgewerkt per 01-01-2014 
 
 Deze regeling treedt in werking op 1 januari 2012. Indien de Staatscourant waarin de mededeling als bedoeld in [artikel 20, tweede lid, sub b, van de Wmg](../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) wordt geplaatst, wordt uitgegeven na 31 december 2011, treedt de regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin de mededeling wordt geplaatst en werkt terug tot en met 1 januari 2012. Deze regeling kan worden aangehaald als: ‘Regeling mondzorg’.     
 

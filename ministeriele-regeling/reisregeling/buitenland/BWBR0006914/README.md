@@ -3,37 +3,37 @@
 ##Reisregeling buitenland
 
 De Minister van Binnenlandse Zaken,  
-Gelet op het [Reisbesluit buitenland](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md);
+Gelet op het Reisbesluit buitenland;
 Besluit:    
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder ‘besluit’ het [Reisbesluit buitenland](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).   
-2.  De begripsomschrijvingen in [artikel 2 van het besluit](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) zijn voor de toepassing van deze regeling van overeenkomstig toepassing.   
+1.  In deze regeling wordt verstaan onder ‘besluit’ het Reisbesluit buitenland.   
+2.  De begripsomschrijvingen in artikel 2 van het besluit zijn voor de toepassing van deze regeling van overeenkomstig toepassing.   
 
 ### Artikel  2  
 
 ####Eigen motorvoertuig voor reisgedeelte binnen het Europees deel van Nederland
 
-1.  De vergoeding voor het gebruik van een eigen motorvoertuig als bedoeld in [artikel 7, onderdeel a, van het besluit](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) bedraagt € 0,37 per afgelegde kilometer.   
-2.  De vergoeding voor het gebruik van een eigen motorvoertuig als bedoeld in [artikel 7, onderdeel b, van het besluit](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) bedraagt € 0,09 per afgelegde kilometer. Deze vergoeding wordt verhoogd met € 0,09 per afgelegde kilometer voor iedere in het kader van de dienstreis meereizende betrokkene, tot een maximum van € 0,37 per afgelegde kilometer.   
+1.  De vergoeding voor het gebruik van een eigen motorvoertuig als bedoeld in artikel 7, onderdeel a, van het besluit bedraagt € 0,37 per afgelegde kilometer.   
+2.  De vergoeding voor het gebruik van een eigen motorvoertuig als bedoeld in artikel 7, onderdeel b, van het besluit bedraagt € 0,09 per afgelegde kilometer. Deze vergoeding wordt verhoogd met € 0,09 per afgelegde kilometer voor iedere in het kader van de dienstreis meereizende betrokkene, tot een maximum van € 0,37 per afgelegde kilometer.   
 
 ### Artikel  2a  
 
-1.  Het gedeelte van de in artikel 2 genoemde vergoeding dat uitgaat boven het bedrag per kilometer dat maximaal belastingvrij mag worden vergoed, strekt mede tot vergoeding van kilometers die al dan niet op grond van het [Reisbesluit binnenland](../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md), het [Reisbesluit buitenland](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md), het [Verplaatsingskostenbesluit 1989](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) en andere daarvan afgeleide regelingen nog aanvullend belastingvrij kunnen worden vergoed.   
+1.  Het gedeelte van de in artikel 2 genoemde vergoeding dat uitgaat boven het bedrag per kilometer dat maximaal belastingvrij mag worden vergoed, strekt mede tot vergoeding van kilometers die al dan niet op grond van het Reisbesluit binnenland, het Reisbesluit buitenland, het Verplaatsingskostenbesluit 1989 en andere daarvan afgeleide regelingen nog aanvullend belastingvrij kunnen worden vergoed.   
 2.  De toepassing van het eerste lid geschiedt per kalenderjaar.   
 3.  Bij tussentijdse beëindiging van de dienstbetrekking in de loop van een kalenderjaar dient de na toepassing van het eerste lid eventueel verschuldigde loonheffing te worden ingehouden uiterlijk in de kalendermaand volgende op de kalendermaand waarin de dienstbetrekking eindigt.   
 4.  Bij de toepassing van het eerste en tweede lid worden de vergoedingen, genoemd in de artikelen 2, 3 en 4, toegekend als voorschot.   
 5.  Na afloop van het desbetreffende kalenderjaar worden de in het vierde lid bedoelde vergoedingen definitief vastgesteld.   
-6.  Voor de berekening van de loonheffing over het bovenmatig deel van de in het desbetreffende kalenderjaar uitbetaalde vergoedingen dient te worden uitgegaan van alle daadwerkelijk afgelegde dienstreiskilometers, vermeerderd met de overeenkomstig de [artikelen 11, vierde lid](../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md), [12](../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md) en [13 van de Verplaatsingskostenregeling 1989](../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md) berekende woon-werkverkeerkilometers waarvoor een tegemoetkoming is toegekend.   
+6.  Voor de berekening van de loonheffing over het bovenmatig deel van de in het desbetreffende kalenderjaar uitbetaalde vergoedingen dient te worden uitgegaan van alle daadwerkelijk afgelegde dienstreiskilometers, vermeerderd met de overeenkomstig de artikelen 11, vierde lid, 12 en 13 van de Verplaatsingskostenregeling 1989 berekende woon-werkverkeerkilometers waarvoor een tegemoetkoming is toegekend.   
 
 ### Artikel  3  
 
 ####Verblijfkosten
 
-1.  Voor de berekening van de vergoeding voor verblijfkosten als bedoeld in [artikel 10, tweede lid, van het besluit](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) wordt uitgegaan van de in de bijlage I bij deze regeling opgenomen tarieflijst voor de verschillende gebieden waarin wordt gereisd, met dien verstande dat: 
+1.  Voor de berekening van de vergoeding voor verblijfkosten als bedoeld in artikel 10, tweede lid, van het besluit wordt uitgegaan van de in de bijlage I bij deze regeling opgenomen tarieflijst voor de verschillende gebieden waarin wordt gereisd, met dien verstande dat: 
 
-a. voor een binnen het Europees deel van Nederland verlopend gedeelte van een dienstreis van vier uur of langer dat aansluit op een reis of reisgedeelte per vliegtuig of boot, [artikel 5 van de Reisregeling binnenland](../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md) overeenkomstig wordt toegepast;  
+a. voor een binnen het Europees deel van Nederland verlopend gedeelte van een dienstreis van vier uur of langer dat aansluit op een reis of reisgedeelte per vliegtuig of boot, artikel 5 van de Reisregeling binnenland overeenkomstig wordt toegepast;  
 
 b. indien bij reizen, anders dan bij reizen per vliegtuig of boot, tijdens één of meer reisgedeelten geen uitgaven voor logies behoeven te worden gemaakt, deze gedeelten kunnen worden gevoegd bij een volgend of voorafgaand reisgedeelte in welk geval het daarvoor alsdan geldende tarief kan worden toegepast.     
 2.  De vergoeding voor verblijfkosten bestaat uit: 
@@ -60,19 +60,19 @@ e. een dinervergoeding (dinercomponent) ter grootte van 32 procent van het bedra
 a. de helft van de in artikel 3, tweede lid, onder a, c, d en e bedoelde vergoedingen voor gemaakte kosten voor respectievelijk kleine uitgaven, ontbijt, lunch en diner;  
 
 b. een vergoeding van de werkelijk gemaakte huisvestingskosten tot ten hoogste het in artikel 3, tweede lid, onder b bedoelde logiescomponent.     
-2.  Een bezoekreis als bedoeld in [artikel 9 van het besluit](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) onderbreekt de dienstreis niet.   
+2.  Een bezoekreis als bedoeld in artikel 9 van het besluit onderbreekt de dienstreis niet.   
 
 ### Artikel  5  
 
 ####Garderobekosten
 
-De tegemoetkoming als bedoeld in [artikel 12 van het besluit](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) bedraagt de helft van de naar het oordeel van het bevoegd gezag noodzakelijk gemaakte kosten van aanschaf van kleding en uitrusting. Per kalenderjaar kan de tegemoetkoming voor aangeschafte kleding en uitrusting maximaal € 453,78 bedragen, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude. Een aantal van deze gebieden wordt in de bij deze regeling gevoegde bijlage II genoemd.  
+De tegemoetkoming als bedoeld in artikel 12 van het besluit bedraagt de helft van de naar het oordeel van het bevoegd gezag noodzakelijk gemaakte kosten van aanschaf van kleding en uitrusting. Per kalenderjaar kan de tegemoetkoming voor aangeschafte kleding en uitrusting maximaal € 453,78 bedragen, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude. Een aantal van deze gebieden wordt in de bij deze regeling gevoegde bijlage II genoemd.  
 
 ### Artikel  6  
 
 ####Kosten voor verlies, diefstal of beschadiging van bagage
 
-De maximumvergoeding van kosten voor verlies, diefstal of beschadiging van bagage als bedoeld in [artikel 13, tweede lid, van het besluit](../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) bedraagt € 2.268,90 per dienstreis.  
+De maximumvergoeding van kosten voor verlies, diefstal of beschadiging van bagage als bedoeld in artikel 13, tweede lid, van het besluit bedraagt € 2.268,90 per dienstreis.  
 
 ### Artikel  7  
 
@@ -84,7 +84,7 @@ Deze regeling, die met de toelichting in de Staatscourant zal worden geplaatst, 
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: [Reisregeling buitenland.](../../../../ministeriele-regeling/reisregeling/buitenland/BWBR0006914/README.md)  
+Deze regeling wordt aangehaald als: Reisregeling buitenland.  
 
 's-Gravenhage 
 12 september 1994    
@@ -102,708 +102,787 @@ H.A.P.M.Pont
 
 ####behorende bij artikel 3, eerste lid , van de Reisregeling buitenland
 
-Tarieflijst logies- en overige kosten bij dienstreizen buitenland 
-
 | Land- of gebiedsdeel  | Maximumbedrag logieskosten in euro  | Bedrag overige kosten in euro  |
-|:---|:---|:---|
+|---|---|---|
 |  *Afghanistan*   | --- | --- |
-| Kabul  | 157  | 78  |
-| Overige  | 75  | 27  |
+| Kabul  | 140  | 73  |
+| Overige  | 46  | 23  |
 |  *Albanië*   | --- | --- |
-| Tirana  | 161  | 57  |
-| Overige  | 70  | 36  |
+| Tirana  | 161  | 70  |
+| Overige  | 98  | 35  |
 |  *Algerije*   | --- | --- |
-| Algiers  | 213  | 120  |
-| Overige  | 247  | 79  |
+| Algiers  | 187  | 124  |
+| Overige  | 209  | 72  |
 |  *Amerikaans-Samoa*   | --- | --- |
-| Alle steden  | 115  | 67  |
+| Alle steden  | 113  | 67  |
 |  *Angola*   | --- | --- |
-| Luanda  | 336  | 120  |
-| Overige  | 184  | 63  |
+| Luanda  | 327  | 117  |
+| Overige  | 173  | 58  |
 |  *Anguilla*   | --- | --- |
-| Alle steden  | 188  | 106  |
+| Alle steden  | 253  | 120  |
 |  *Antigua*   | --- | --- |
-| Antigua  | 108  | 72  |
+| Alle steden  | 166  | 105  |
 |  *Argentinië*   | --- | --- |
-| Buenos Aires  | 149  | 132  |
-| Overige  | 154  | 74  |
+| Buenos Aires  | 166  | 136  |
+| Overige  | 172  | 66  |
 |  *Armenië*   | --- | --- |
-| Yerevan  | 76  | 55  |
-| Overige  | 49  | 47  |
+| Yerevan  | 73  | 62  |
+| Overige  | 51  | 47  |
 |  *Aruba*   | --- | --- |
-| Alle steden  | 260  | 103  |
+| Alle steden  | 217  | 108  |
 |  *Australië*   | --- | --- |
-| Canberra, Melbourne, Sydney  | 155  | 110  |
-| Overige  | 144  | 116  |
+| Canberra, Melbourne & Sydney  | 143  | 112  |
+| Overige  | 126  | 102  |
 |  *Azerbeidzjan*   | --- | --- |
-| Bakoe  | 213  | 95  |
-| Overige  | 61  | 37  |
+| Bakoe  | 219  | 90  |
+| Overige  | 70  | 53  |
 |  *Bahama's*   | --- | --- |
-| Alle steden  | 196  | 115  |
+| Alle steden  | 173  | 78  |
 |  *Bahrain*   | --- | --- |
-| Manama  | 303  | 98  |
+| Manama  | 188  | 116  |
 |  *Bangladesh*   | --- | --- |
-| Dhaka  | 155  | 62  |
-| Overige  | 51  | 22  |
+| Dhaka  | 177  | 70  |
+| Overige  | 61  | 25  |
 |  *Barbados*   | --- | --- |
-| Alle steden  | 218  | 90  |
+| Alle steden  | 160  | 141  |
 |  *Belarus*   | --- | --- |
-| Minsk  | 218  | 86  |
-| Overige  | 100  | 48  |
+| Minsk  | 142  | 74  |
+| Overige  | 65  | 30  |
 |  *België*   | --- | --- |
-| Alle steden  | 192  | 108  |
+| Alle steden  | 195  | 105  |
 |  *Belize*   | --- | --- |
-| Belize-Stad  | 125  | 77  |
-| Overige  | 88  | 58  |
+| Belize-Stad  | 136  | 77  |
+| Overige  | 168  | 83  |
 |  *Benin*   | --- | --- |
-| Cotonou  | 115  | 100  |
-| Overige  | 73  | 29  |
+| Cotonou  | 129  | 86  |
+| Overige  | 92  | 34  |
 |  *Bermuda*   | --- | --- |
-| Alle steden  | 289  | 104  |
+| Alle steden  | 287  | 103  |
 |  *Bhutan*   | --- | --- |
-| Thimphu  | 153  | 90  |
-| Overige  | 88  | 29  |
+| Thimphu  | 284  | 70  |
+| Overige  | 217  | 31  |
 |  *Bolivia*   | --- | --- |
-| La Paz  | 121  | 44  |
-| Overige  | 76  | 39  |
+| La Paz  | 88  | 47  |
+| Overige  | 84  | 42  |
 |  *Bonaire*   | --- | --- |
-| Alle steden  | 154  | 89  |
+| Alle steden  | 213  | 88  |
 |  *Bosnië en Herzegovina*   | --- | --- |
-| Sarajevo  | 75  | 69  |
-| Banja Luka  | 87  | 77  |
-| Mostar  | 109  | 56  |
-| Travnik  | 61  | 33  |
-| Tuzla  | 80  | 40  |
-| Overige  | 43  | 37  |
+| Sarajevo  | 78  | 50  |
+| Banja Luka  | 80  | 65  |
+| Mostar  | 79  | 62  |
+| Travnik  | 60  | 33  |
+| Tuzla  | 62  | 45  |
+| Overige  | 40  | 32  |
 |  *Botswana*   | --- | --- |
-| Gaberone  | 137  | 57  |
-| Overige  | 327  | 52  |
+| Gaberone  | 139  | 69  |
+| Overige  | 221  | 53  |
 |  *Brazilië*   | --- | --- |
-| Brasilia  | 120  | 70  |
-| Overige  | 164  | 65  |
+| Brasilia  | 139  | 63  |
+| Belem  | 100  | 59  |
+| Belo Horizonte  | 109  | 54  |
+| Cuiaba  | 85  | 50  |
+| Curitiba  | 70  | 55  |
+| Fortaleza  | 85  | 48  |
+| Manaus  | 105  | 52  |
+| Porto Allegre  | 118  | 51  |
+| Recife  | 107  | 53  |
+| Rio De Janeiro  | 156  | 62  |
+| Salvador  | 95  | 54  |
+| Sao Luis  | 90  | 53  |
+| Sao Paulo  | 145  | 69  |
+| Overige  | 62  | 47  |
 |  *Brunei*   | --- | --- |
-| Bandar Seri Begawan  | 126  | 50  |
-| Overige  | 133  | 69  |
+| Bandar Seri Begawan  | 117  | 53  |
+| Overige  | 144  | 85  |
 |  *Bulgarije*   | --- | --- |
-| Sofia  | 175  | 79  |
-| Burgas, Plovdiv, Stara Zagora, Varna  | 67  | 44  |
-| Overige  | 41  | 33  |
+| Sofia  | 142  | 95  |
+| Burgas, Plovdiv, Stara Zagora, Varna  | 61  | 46  |
+| Overige  | 33  | 31  |
 |  *Burkina Faso*   | --- | --- |
-| Ouagadougou  | 176  | 117  |
-| Overige  | 57  | 39  |
+| Ouagadougou  | 125  | 98  |
+| Overige  | 56  | 37  |
 |  *Burundi*   | --- | --- |
-| Bujumbura  | 94  | 58  |
-| Overige  | 20  | 27  |
+| Bujumbura  | 121  | 65  |
+| Overige  | 18  | 24  |
 |  *Cambodja*   | --- | --- |
-| Phnom-Penh  | 110  | 59  |
-| Overige  | 105  | 40  |
+| Phnom-Penh  | 149  | 74  |
+| Overige  | 117  | 40  |
 |  *Canada*   | --- | --- |
-| Ottawa  | 144  | 108  |
-| Calgary  | 152  | 114  |
-| Halifax  | 128  | 82  |
-| Montreal  | 153  | 106  |
-| Toronto  | 192  | 119  |
-| Vancouver  | 173  | 135  |
-| Overige  | 104  | 72  |
+| Ottawa  | 170  | 113  |
+| Calgary  | 181  | 98  |
+| Halifax  | 155  | 112  |
+| Montreal  | 143  | 121  |
+| Toronto  | 177  | 100  |
+| Vancouver  | 186  | 119  |
+| Overige  | 137  | 74  |
 |  *Canarische Eilanden*   | --- | --- |
-| Alle steden  | 91  | 58  |
-|  *Caymaneilanden*   | --- | --- |
-| Alle steden  | 217  | 82  |
+| Alle steden  | 91  | 63  |
 |  *Centraal-Afrikaanse Republiek*   | --- | --- |
-| Bangui  | 60  | 54  |
-| Overige  | 30  | 27  |
-|  *Chad*   | --- | --- |
-| N'djamena  | 162  | 95  |
-| Overige  | 45  | 32  |
+| Bangui  | 91  | 95  |
+| Overige  | 30  | 28  |
 |  *Chili*   | --- | --- |
-| Santiago  | 103  | 77  |
-| Overige  | 79  | 53  |
+| Santiago  | 120  | 83  |
+| Overige  | 91  | 49  |
 |  *China*   | --- | --- |
-| Peking  | 105  | 105  |
-| Overige  | 199  | 79  |
-| Hong Kong  | 223  | 136  |
-| Macau  | 123  | 64  |
+| Peking  | 105  | 104  |
+| Changchun  | 122  | 53  |
+| Changsha  | 90  | 63  |
+| Chengdu  | 185  | 66  |
+| Dalian  | 100  | 92  |
+| Fuzhou  | 118  | 78  |
+| Guangzhou  | 94  | 98  |
+| Guilin  | 108  | 78  |
+| Guiyang  | 106  | 55  |
+| Haikou  | 198  | 98  |
+| Hangzhou  | 172  | 101  |
+| Jinan  | 109  | 79  |
+| Kunming  | 144  | 78  |
+| Lhasa  | 127  | 75  |
+| Nanjing  | 93  | 79  |
+| Nanning  | 112  | 56  |
+| Quingdao  | 116  | 87  |
+| Sanya  | 111  | 80  |
+| Shanghai  | 175  | 107  |
+| Shenyang  | 103  | 84  |
+| Shenzhen  | 164  | 93  |
+| Suzhou  | 115  | 98  |
+| Taiyuan  | 102  | 83  |
+| Tianjin  | 129  | 93  |
+| Urumuqi  | 97  | 68  |
+| Wu Han  | 103  | 69  |
+| Xi'An  | 103  | 71  |
+| Xiamen  | 148  | 91  |
+| Yanji  | 110  | 62  |
+| Zhengzhou  | 120  | 83  |
+| Overige  | 92  | 48  |
+|  *China, HongKong*   | --- | --- |
+| Hong Kong  | 160  | 136  |
+|  *China, Macau*   | --- | --- |
+| Macau  | 122  | 63  |
 |  *Colombia*   | --- | --- |
-| Bogotá  | 130  | 49  |
-| Overige  | 114  | 34  |
+| Bogotá  | 141  | 55  |
+| Overige  | 126  | 37  |
 |  *Comoren*   | --- | --- |
-| Moroni  | 176  | 99  |
-| Overige  | 74  | 40  |
+| Moroni  | 239  | 99  |
+| Overige  | 122  | 52  |
 |  *Congo-Brazaville*   | --- | --- |
-| Brazzaville  | 171  | 124  |
+| Brazzaville  | 230  | 104  |
 | Overige  | 103  | 63  |
 |  *Congo-Kinshasa*   | --- | --- |
-| Kinshasa  | 172  | 93  |
-| Overige  | 110  | 47  |
+| Kinshasa  | 195  | 124  |
+| Overige  | 106  | 57  |
 |  *Cookeilanden*   | --- | --- |
-| Rarotonga  | 170  | 44  |
-| Overige  | 77  | 28  |
+| Rarotonga  | 168  | 44  |
+| Overige  | 76  | 28  |
 |  *Costa Rica*   | --- | --- |
-| San José  | 109  | 67  |
-| Overige  | 184  | 58  |
+| San José  | 98  | 60  |
+| Overige  | 137  | 52  |
 |  *Cuba*   | --- | --- |
-| Havana  | 56  | 51  |
-| Overige  | 94  | 40  |
+| Havana  | 111  | 55  |
+| Overige  | 147  | 44  |
 |  *Curaçao*   | --- | --- |
-| Alle steden  | 204  | 115  |
+| Alle steden  | 165  | 101  |
 |  *Cyprus*   | --- | --- |
-| Nicosia  | 142  | 110  |
-| Overige  | 81  | 61  |
+| Nicosia  | 176  | 80  |
+| Overige  | 93  | 65  |
 |  *Denemarken*   | --- | --- |
-| Alle steden  | 228  | 112  |
+| Alle steden  | 162  | 117  |
 |  *Djibouti*   | --- | --- |
-| Djibouti  | 205  | 106  |
-| Overige  | 53  | 52  |
+| Djibouti  | 202  | 96  |
+| Overige  | 46  | 37  |
 |  *Dominica*   | --- | --- |
-| Alle steden  | 96  | 64  |
+| Alle steden  | 103  | 81  |
 |  *Dominicaanse Republiek*   | --- | --- |
-| Santo Domingo  | 104  | 75  |
-| Overige  | 107  | 47  |
+| Santo Domingo  | 125  | 68  |
+| Overige  | 106  | 44  |
 |  *Duitsland*   | --- | --- |
-| Berlin  | 155  | 117  |
-| Bonn  | 139  | 89  |
-| Hamburg  | 203  | 105  |
-| Leipzig  | 158  | 101  |
-| Overige  | 126  | 95  |
+| Berlijn  | 155  | 117  |
+| Bonn  | 120  | 87  |
+| Hamburg  | 206  | 102  |
+| Leipzig  | 170  | 100  |
+| Overige  | 128  | 93  |
 |  *Ecuador*   | --- | --- |
-| Quito  | 80  | 70  |
-| Overige  | 86  | 49  |
+| Quito  | 100  | 52  |
+| Overige  | 115  | 47  |
 |  *Egypte*   | --- | --- |
-| Caïro  | 136  | 87  |
-| Overige  | 110  | 48  |
+| Caïro  | 135  | 86  |
+| Overige  | 109  | 47  |
 |  *El Salvador*   | --- | --- |
-| San Salvador  | 94  | 68  |
-| Overige  | 37  | 35  |
+| San Salvador  | 100  | 61  |
+| Overige  | 37  | 30  |
 |  *Equatoriaal-Guinea*   | --- | --- |
-| Malabo  | 249  | 81  |
-| Overige  | 167  | 52  |
+| Malabo  | 319  | 98  |
+| Overige  | 152  | 45  |
 |  *Eritrea*   | --- | --- |
-| Asmara  | 140  | 76  |
-| Overige  | 31  | 50  |
+| Asmara  | 92  | 103  |
+| Overige  | 36  | 64  |
 |  *Estland*   | --- | --- |
-| Tallinn  | 92  | 82  |
-| Parnu  | 71  | 63  |
-| Overige  | 60  | 57  |
+| Tallinn  | 101  | 89  |
+| Overige  | 62  | 62  |
 |  *Ethiopië*   | --- | --- |
-| Addis Abeba  | 231  | 105  |
-| Overige  | 32  | 17  |
+| Addis Abeba  | 253  | 82  |
+| Overige  | 37  | 24  |
 |  *Fiji*   | --- | --- |
-| Suva  | 107  | 83  |
-| Overige  | 93  | 47  |
+| Suva  | 143  | 71  |
+| Overige  | 227  | 69  |
 |  *Filipijnen*   | --- | --- |
-| Manila  | 104  | 75  |
-| Overige  | 112  | 28  |
+| Manila  | 102  | 74  |
+| Overige  | 112  | 27  |
 |  *Finland*   | --- | --- |
-| Helsinki  | 167  | 76  |
-| Overige  | 115  | 80  |
+| Helsinki  | 150  | 104  |
+| Overige  | 115  | 94  |
 |  *Frankrijk*   | --- | --- |
-| Parijs  | 153  | 120  |
-| Overige  | 137  | 103  |
+| Parijs  | 146  | 134  |
+| Overige  | 149  | 95  |
 |  *Gabon*   | --- | --- |
-| Libreville  | 104  | 92  |
-| Overige  | 171  | 62  |
+| Libreville  | 149  | 95  |
+| Overige  | 190  | 72  |
 |  *Gambia*   | --- | --- |
-| Banjul  | 92  | 61  |
-| Overige  | 28  | 18  |
+| Banjul  | 102  | 57  |
+| Overige  | 28  | 19  |
 |  *Georgië*   | --- | --- |
-| Tbilisi  | 237  | 85  |
-| Bakuriani  | 80  | 49  |
-| Batumi  | 118  | 58  |
-| Gudauri  | 73  | 45  |
-| Kobuleti  | 142  | 43  |
-| Overige  | 60  | 40  |
+| Tbilisi  | 211  | 87  |
+| Batumi  | 126  | 71  |
+| Gudauri  | 98  | 60  |
+| Kobuleti  | 110  | 68  |
+| Overige  | 68  | 40  |
 |  *Ghana*   | --- | --- |
-| Accra  | 236  | 80  |
-| Overige  | 157  | 51  |
+| Accra  | 249  | 81  |
+| Overige  | 233  | 47  |
+|  *Gibraltar*   | --- | --- |
+| Alle steden  | 203  | 135  |
 |  *Grenada*   | --- | --- |
-| Alle steden  | 153  | 115  |
+| Alle steden  | 197  | 149  |
 |  *Griekenland*   | --- | --- |
-| Athene  | 146  | 110  |
-| Thessaloniki  | 97  | 60  |
-| Overige  | 80  | 51  |
+| Athene  | 136  | 87  |
+| Thessaloniki  | 88  | 59  |
+| Overige  | 70  | 48  |
 |  *Groot-Brittannië (en Noord-Ierland)*   | --- | --- |
-| Londen  | 213  | 101  |
-| Overige  | 168  | 93  |
+| Londen  | 213  | 125  |
+| Overige  | 150  | 104  |
 |  *Guam*   | --- | --- |
-| Alle steden  | 167  | 76  |
+| Alle steden  | 165  | 75  |
 |  *Guatemala*   | --- | --- |
-| Guatemala-Stad  | 111  | 74  |
-| Overige  | 103  | 58  |
+| Guatemala-Stad  | 149  | 77  |
+| Overige  | 205  | 62  |
 |  *Guinee*   | --- | --- |
-| Conakry  | 193  | 113  |
+| Conakry  | 219  | 104  |
 | Overige  | 29  | 30  |
 |  *Guinee-Bissau*   | --- | --- |
-| Bissau  | 115  | 70  |
-| Overige  | 58  | 39  |
+| Bissau  | 106  | 58  |
+| Overige  | 65  | 37  |
 |  *Guyana*   | --- | --- |
-| Georgetown  | 243  | 87  |
-| Overige  | 79  | 39  |
+| Georgetown  | 295  | 95  |
+| Overige  | 99  | 47  |
 |  *Haïti*   | --- | --- |
-| Port-au-Prince  | 148  | 81  |
-| Overige  | 104  | 41  |
+| Port-au-Prince  | 147  | 64  |
+| Overige  | 96  | 38  |
 |  *Honduras*   | --- | --- |
-| Tegucigalpa  | 86  | 57  |
-| Roatan  | 129  | 79  |
-| San Pedro Sula  | 121  | 68  |
-| Overige  | 39  | 32  |
+| Tegucigalpa  | 105  | 54  |
+| La Ceiba  | 84  | 44  |
+| Roatan  | 138  | 38  |
+| San Pedro Sula  | 96  | 50  |
+| Overige  | 47  | 26  |
 |  *Hongarije*   | --- | --- |
-| Alle steden  | 159  | 82  |
+| Alle steden  | 149  | 80  |
 |  *Ierland*   | --- | --- |
-| Alle steden  | 133  | 89  |
+| Alle steden  | 134  | 93  |
 |  *IJsland*   | --- | --- |
-| Alle steden  | 142  | 87  |
+| Alle steden  | 168  | 91  |
 |  *India*   | --- | --- |
-| New Delhi  | 215  | 35  |
-| Overige  | 215  | 48  |
+| New Delhi  | 157  | 71  |
+| Agra  | 94  | 35  |
+| Bangalore  | 148  | 50  |
+| Calcutta  | 121  | 55  |
+| Chennai  | 123  | 48  |
+| Hyderabad  | 156  | 74  |
+| Jaipur  | 101  | 44  |
+| Mumbai  | 151  | 68  |
+| Pune  | 101  | 42  |
+| Srinagar  | 119  | 73  |
+| Overige  | 76  | 30  |
 |  *Indonesië*   | --- | --- |
-| Jakarta  | 85  | 45  |
-| Ambon  | 62  | 34  |
-| Bali Island  | 106  | 62  |
-| Balik Papan  | 53  | 34  |
-| Banda Aceh  | 48  | 33  |
-| Bandung  | 81  | 35  |
-| Bogor  | 72  | 39  |
-| Jayapura  | 55  | 41  |
-| Makassar  | 65  | 25  |
-| Mataram  | 81  | 32  |
-| Medan  | 51  | 28  |
-| Semarang  | 63  | 30  |
-| Surabaya  | 79  | 41  |
-| Yogyakarta  | 70  | 36  |
-| Overige  | 38  | 32  |
+| Jakarta  | 125  | 80  |
+| Ambon  | 80  | 65  |
+| Bali  | 144  | 81  |
+| Balik Papan  | 82  | 42  |
+| Banda Aceh  | 72  | 33  |
+| Bandung  | 87  | 49  |
+| Bogor  | 83  | 47  |
+| Jayapura  | 83  | 45  |
+| Lombok Island  | 76  | 41  |
+| Makassar  | 83  | 27  |
+| Manokwari  | 76  | 44  |
+| Medan  | 67  | 46  |
+| Menado  | 119  | 47  |
+| Semarang  | 57  | 38  |
+| Sorong  | 72  | 37  |
+| Surabaya  | 92  | 52  |
+| Wamena  | 58  | 49  |
+| Yogyakarta  | 89  | 50  |
+| Overige  | 41  | 37  |
 |  *Irak*   | --- | --- |
-| Bagdad  | 192  | 83  |
-| Overige  | 160  | 63  |
+| Bagdad  | 190  | 82  |
+| Overige  | 159  | 63  |
 |  *Iran*   | --- | --- |
-| Teheran  | 116  | 55  |
-| Overige  | 98  | 37  |
+| Teheran  | 78  | 36  |
+| Overige  | 54  | 24  |
 |  *Israël*   | --- | --- |
-| Tel Aviv  | 218  | 94  |
-| Haifa  | 184  | 80  |
-| Herzliya  | 181  | 75  |
-| Jerusalem  | 132  | 78  |
-| Tiberias  | 152  | 78  |
-| Nahariya  | 131  | 74  |
-| Overige  | 131  | 74  |
+| Tel Aviv  | 211  | 96  |
+| Eilat  | 172  | 85  |
+| Haifa  | 163  | 88  |
+| Herzliya  | 171  | 81  |
+| Jerusalem  | 144  | 85  |
+| Tiberias  | 156  | 88  |
+| Overige  | 114  | 76  |
 |  *Italië*   | --- | --- |
 | Rome  | 159  | 125  |
 | Florence  | 121  | 80  |
-| Milan  | 140  | 105  |
-| Naples  | 163  | 113  |
-| Palermo  | 146  | 110  |
-| Trieste  | 88  | 117  |
-| Turin  | 102  | 101  |
-| Venice  | 267  | 91  |
-| Overige  | 91  | 57  |
+| Milaan  | 137  | 107  |
+| Napels  | 163  | 113  |
+| Palermo  | 151  | 113  |
+| Trieste  | 86  | 124  |
+| Turijn  | 112  | 103  |
+| Venetië  | 273  | 129  |
+| Overige  | 58  | 87  |
 |  *Ivoorkust*   | --- | --- |
-| Abidjan  | 146  | 114  |
-| Overige  | 79  | 60  |
+| Abidjan  | 219  | 140  |
+| Overige  | 112  | 69  |
 |  *Jamaica*   | --- | --- |
-| Kingston  | 126  | 68  |
-| Overige  | 135  | 78  |
+| Kingston  | 130  | 70  |
+| Overige  | 134  | 72  |
 |  *Japan*   | --- | --- |
-| Tokio  | 180  | 138  |
-| Fukuoka  | 103  | 107  |
-| Kobe  | 111  | 104  |
-| Kyoto  | 135  | 119  |
-| Nagoya  | 121  | 91  |
-| Osaka  | 111  | 111  |
-| Yokohama  | 136  | 103  |
-| Overige  | 106  | 73  |
+| Tokio  | 115  | 134  |
+| Fukuoka  | 79  | 93  |
+| Kobe  | 90  | 101  |
+| Kyoto  | 101  | 114  |
+| Nagoya  | 104  | 75  |
+| Osaka  | 124  | 110  |
+| Yokohama  | 95  | 107  |
+| Overige  | 91  | 74  |
 |  *Jemen*   | --- | --- |
-| Sanaa  | 89  | 67  |
-| Overige  | 125  | 47  |
+| Sanaa  | 90  | 73  |
+| Overige  | 115  | 47  |
 |  *Jordanië*   | --- | --- |
-| Amman  | 157  | 81  |
-| Overige  | 132  | 71  |
+| Amman  | 165  | 75  |
+| Overige  | 144  | 80  |
+|  *Kaaimaneilanden*   | --- | --- |
+| Alle steden  | 234  | 64  |
 |  *Kaapverdië*   | --- | --- |
-| Praia  | 103  | 87  |
-| Overige  | 108  | 75  |
+| Praia  | 99  | 91  |
+| Overige  | 114  | 75  |
 |  *Kameroen*   | --- | --- |
 | Yaounde  | 130  | 76  |
 | Overige  | 66  | 53  |
 |  *Kazachstan*   | --- | --- |
-| Astana  | 253  | 122  |
-| Aktau  | 214  | 84  |
-| Alma Ata  | 275  | 114  |
-| Atyrau  | 184  | 83  |
-| Karaganda  | 82  | 59  |
-| Pavlodar  | 85  | 61  |
-| Semipalatinsk  | 82  | 57  |
-| Shimkent  | 83  | 43  |
-| Uralsk  | 104  | 64  |
-| Ust-Kamenogorsk  | 85  | 61  |
-| Overige  | 83  | 43  |
+| Astana  | 243  | 115  |
+| Aktau  | 209  | 82  |
+| Alma Ata  | 172  | 106  |
+| Atyrau  | 191  | 83  |
+| Karaganda  | 77  | 51  |
+| Pavlodar  | 81  | 56  |
+| Semipalatinsk  | 80  | 58  |
+| Shimkent  | 90  | 43  |
+| Uralsk  | 101  | 55  |
+| Ust-Kamenogorsk  | 90  | 55  |
+| Overige  | 79  | 46  |
 |  *Kenia*   | --- | --- |
-| Nairobi  | 218  | 90  |
-| Overige  | 178  | 64  |
+| Nairobi  | 213  | 92  |
+| Overige  | 200  | 65  |
 |  *Kiribati*   | --- | --- |
-| Kiritimati (Christmaseiland)  | 132  | 92  |
-| Overige  | 92  | 27  |
+| Kiritimati (Christmaseiland)  | 76  | 46  |
+| Overige  | 70  | 35  |
 |  *Koeweit*   | --- | --- |
-| Koeweit-Stad  | 228  | 90  |
+| Koeweit-Stad  | 218  | 86  |
 |  *Kroatië*   | --- | --- |
-| Zagreb  | 226  | 98  |
-| Dubrovnik  | 140  | 102  |
-| Opatija  | 117  | 63  |
-| Split  | 115  | 90  |
-| Overige  | 84  | 60  |
+| Zagreb  | 194  | 88  |
+| Dubrovnik  | 142  | 95  |
+| Opatija  | 87  | 49  |
+| Split  | 109  | 64  |
+| Zadar  | 108  | 56  |
+| Overige  | 70  | 45  |
 |  *Kyrgyzstan*   | --- | --- |
-| Bishkek  | 272  | 93  |
-| Overige  | 76  | 32  |
+| Bishkek  | 270  | 92  |
+| Overige  | 75  | 32  |
 |  *Laos*   | --- | --- |
-| Vientiane  | 94  | 53  |
-| Overige  | 59  | 24  |
+| Vientiane  | 94  | 51  |
+| Overige  | 64  | 28  |
 |  *Lesotho*   | --- | --- |
-| Maseru  | 149  | 46  |
-| Overige  | 67  | 33  |
+| Maseru  | 75  | 27  |
+| Overige  | 63  | 30  |
 |  *Letland*   | --- | --- |
-| Riga  | 120  | 80  |
-| Overige  | 78  | 60  |
+| Riga  | 110  | 73  |
+| Overige  | 58  | 55  |
 |  *Libanon*   | --- | --- |
-| Beiroet  | 253  | 105  |
-| Overige  | 133  | 74  |
+| Beiroet  | 251  | 104  |
+| Overige  | 132  | 73  |
 |  *Liberia*   | --- | --- |
-| Monrovia  | 115  | 71  |
-| Overige  | 35  | 19  |
+| Monrovia  | 107  | 71  |
+| Overige  | 34  | 20  |
 |  *Libië*   | --- | --- |
-| Tripoli  | 213  | 80  |
-| Overige  | 79  | 44  |
+| Tripoli  | 198  | 82  |
+| Overige  | 85  | 50  |
 |  *Litouwen*   | --- | --- |
 | Vilnius  | 94  | 71  |
 | Overige  | 72  | 39  |
 |  *Luxemburg*   | --- | --- |
 | Alle steden  | 179  | 89  |
 |  *Maagdeneilanden (Amerikaanse)*   | --- | --- |
-| Alle steden  | 189  | 89  |
+| Alle steden  | 230  | 95  |
 |  *Maagdeneilanden (Britse)*   | --- | --- |
-| Alle steden  | 184  | 95  |
+| Alle steden  | 185  | 114  |
 |  *Macedonië*   | --- | --- |
-| Skopje  | 104  | 66  |
-| Mavrovo  | 79  | 62  |
+| Skopje  | 103  | 66  |
+| Mavrovo  | 78  | 61  |
 | Ohrid  | 58  | 65  |
 | Overige  | 44  | 39  |
 |  *Madagascar*   | --- | --- |
-| Antananarivo  | 125  | 62  |
-| Overige  | 206  | 41  |
+| Antananarivo  | 120  | 65  |
+| Overige  | 200  | 42  |
 |  *Malawi*   | --- | --- |
-| Lilongwe  | 131  | 62  |
-| Overige  | 149  | 54  |
+| Lilongwe  | 172  | 53  |
+| Overige  | 154  | 63  |
 |  *Malediven*   | --- | --- |
-| Malé  | 132  | 65  |
-| Overige  | 224  | 62  |
+| Malé  | 131  | 65  |
+| Overige  | 222  | 62  |
 |  *Maleisië*   | --- | --- |
-| Kuala Lumpur  | 100  | 72  |
-| Overige  | 91  | 49  |
+| Kuala Lumpur  | 106  | 70  |
+| Overige  | 104  | 50  |
 |  *Mali*   | --- | --- |
-| Bamako  | 111  | 107  |
-| Overige  | 50  | 57  |
+| Bamako  | 129  | 97  |
+| Overige  | 65  | 55  |
 |  *Malta*   | --- | --- |
-| Alle steden  | 114  | 104  |
+| Alle steden  | 107  | 91  |
 |  *Marokko*   | --- | --- |
-| Rabat  | 170  | 133  |
-| Overige  | 270  | 81  |
-|  *Marshalleilanden*   | --- | --- |
-| Majuro  | 105  | 50  |
-| Overige  | 99  | 58  |
+| Rabat  | 168  | 132  |
+| Overige  | 268  | 81  |
+|  *Marshall Eilanden*   | --- | --- |
+| Majuro  | 98  | 55  |
+| Overige  | 81  | 44  |
 |  *Mauritanië*   | --- | --- |
-| Nouakchott  | 82  | 50  |
-| Overige  | 40  | 28  |
+| Nouakchott  | 78  | 48  |
+| Overige  | 38  | 27  |
 |  *Mauritius*   | --- | --- |
-| Port Louis  | 132  | 70  |
-| Overige  | 59  | 36  |
+| Port Louis  | 125  | 71  |
+| Overige  | 58  | 36  |
 |  *Mexico*   | --- | --- |
-| Mexico-Stad  | 144  | 92  |
-| Overige  | 214  | 75  |
+| Mexico-Stad  | 128  | 105  |
+| Overige  | 196  | 84  |
 |  *Micronesië*   | --- | --- |
-| Truk  | 100  | 54  |
-| Overige  | 168  | 44  |
+| Truk  | 98  | 48  |
+| Overige  | 105  | 45  |
 |  *Moldavië*   | --- | --- |
-| Chisinau  | 129  | 66  |
-| Overige  | 71  | 53  |
+| Chisinau  | 103  | 68  |
+| Overige  | 60  | 51  |
 |  *Monaco*   | --- | --- |
-| Alle steden  | 158  | 101  |
+| Alle steden  | 163  | 96  |
 |  *Mongolië*   | --- | --- |
-| Ulan Bator  | 77  | 38  |
-| Overige  | 25  | 20  |
+| Ulan Bator  | 90  | 65  |
+| Overige  | 43  | 34  |
 |  *Montenegro*   | --- | --- |
-| Podgorica  | 105  | 52  |
-| Bar, Budva, Kotor, Milocer  | 85  | 44  |
-| Kolasin  | 127  | 50  |
-| Overige  | 45  | 33  |
+| Podgorica  | 94  | 45  |
+| Bar, Budva, Kotor, Milocer  | 89  | 46  |
+| Kolasin  | 73  | 36  |
+| Overige  | 43  | 24  |
 |  *Montserrat*   | --- | --- |
-| Alle steden  | 112  | 72  |
+| Alle steden  | 116  | 77  |
 |  *Mozambique*   | --- | --- |
-| Maputo  | 108  | 78  |
-| Overige  | 146  | 35  |
+| Maputo  | 136  | 80  |
+| Overige  | 199  | 73  |
 |  *Myanmar*   | --- | --- |
-| Yangon (=Rangoon)  | 53  | 47  |
-| Overige  | 89  | 33  |
+| Yangon  | 151  | 65  |
+| Overige  | 173  | 41  |
 |  *Namibië*   | --- | --- |
-| Windhoek  | 153  | 49  |
-| Overige  | 190  | 38  |
+| Windhoek  | 65  | 37  |
+| Overige  | 155  | 34  |
 |  *Nauru*   | --- | --- |
-| Alle steden  | 95  | 61  |
+| Alle steden  | 93  | 50  |
 |  *Nepal*   | --- | --- |
-| Kathmandu  | 76  | 41  |
-| Overige  | 137  | 26  |
+| Kathmandu  | 155  | 55  |
+| Overige  | 117  | 28  |
 |  *Nicaragua*   | --- | --- |
-| Managua  | 74  | 54  |
-| Overige  | 82  | 40  |
+| Managua  | 74  | 53  |
+| Overige  | 82  | 39  |
 |  *Nieuw-Zeeland*   | --- | --- |
-| Auckland, Christchurch, Wellington  | 98  | 96  |
-| Overige  | 83  | 65  |
+| Auckland, Christchurch, Wellington  | 156  | 108  |
+| Overige  | 96  | 99  |
 |  *Niger*   | --- | --- |
 | Niamey  | 115  | 60  |
-| Overige  | 64  | 42  |
+| Overige  | 58  | 39  |
 |  *Nigeria*   | --- | --- |
-| Abuja  | 373  | 114  |
-| Overige  | 414  | 60  |
+| Abuja  | 218  | 103  |
+| Overige  | 337  | 61  |
 |  *Niue*   | --- | --- |
-| Alle steden  | 132  | 47  |
+| Alle steden  | 78  | 42  |
 |  *Noord-Korea*   | --- | --- |
-| Pyongyang  | 84  | 52  |
-| Overige  | 61  | 33  |
+| Pyongyang  | 83  | 51  |
+| Overige  | 61  | 39  |
 |  *Noorwegen*   | --- | --- |
-| Alle steden  | 117  | 138  |
+| Alle steden  | 117  | 137  |
 |  *Oeganda*   | --- | --- |
-| Kampala  | 206  | 60  |
-| Overige  | 167  | 41  |
+| Kampala  | 271  | 83  |
+| Overige  | 165  | 43  |
 |  *Oekraïne*   | --- | --- |
-| Kiev  | 256  | 101  |
-| Overige  | 203  | 71  |
+| Kiev  | 197  | 116  |
+| Overige  | 215  | 72  |
 |  *Oezbekistan*   | --- | --- |
-| Tasjkent  | 126  | 71  |
-| Overige  | 87  | 25  |
+| Tasjkent  | 115  | 52  |
+| Overige  | 78  | 31  |
 |  *Oman*   | --- | --- |
-| Muscat  | 156  | 74  |
-| Overige  | 156  | 85  |
+| Muscat  | 157  | 74  |
+| Overige  | 131  | 68  |
 |  *Oostenrijk*   | --- | --- |
-| Alle steden  | 104  | 112  |
+| Alle steden  | 102  | 114  |
 |  *Oost-Timor*   | --- | --- |
-| Dili  | 106  | 40  |
+| Dili  | 118  | 56  |
 | Overige  | 51  | 30  |
 |  *Pakistan*   | --- | --- |
-| Islamabad  | 204  | 59  |
-| Overige  | 125  | 31  |
+| Islamabad  | 109  | 43  |
+| Overige  | 117  | 31  |
 |  *Palau*   | --- | --- |
-| Overige  | 109  | 69  |
+| Alle steden  | 166  | 57  |
 |  *Panama*   | --- | --- |
-| Panamá  | 108  | 75  |
-| Overige  | 109  | 43  |
+| Panamá  | 107  | 74  |
+| Overige  | 107  | 43  |
 |  *Papoea-Nieuw-Guinea*   | --- | --- |
-| Port Moresby  | 293  | 100  |
-| Overige  | 166  | 61  |
+| Port Moresby  | 299  | 107  |
+| Overige  | 240  | 70  |
 |  *Paraguay*   | --- | --- |
-| Asunción  | 101  | 76  |
-| Overige  | 51  | 31  |
+| Asunción  | 109  | 82  |
+| Overige  | 131  | 49  |
 |  *Peru*   | --- | --- |
-| Lima  | 126  | 84  |
-| Overige  | 82  | 46  |
+| Lima  | 121  | 52  |
+| Overige  | 87  | 47  |
 |  *Polen*   | --- | --- |
-| Warschau  | 127  | 91  |
-| Overige  | 109  | 54  |
+| Warschau  | 137  | 81  |
+| Overige  | 105  | 62  |
 |  *Portugal*   | --- | --- |
-| Alle steden  | 143  | 95  |
+| Alle steden  | 137  | 107  |
 |  *Puerto Rico*   | --- | --- |
-| Alle steden  | 225  | 89  |
+| Alle steden  | 224  | 97  |
 |  *Qatar*   | --- | --- |
-| Doha  | 179  | 124  |
+| Doha  | 179  | 130  |
 |  *Roemenië*   | --- | --- |
-| Boekarest  | 193  | 69  |
-| Overige  | 146  | 53  |
+| Boekarest  | 159  | 63  |
+| Overige  | 55  | 51  |
 |  *Rusland*   | --- | --- |
-| Moskou  | 268  | 145  |
-| Bashkortostan  | 113  | 64  |
-| Irkutsk  | 141  | 55  |
-| Kamchatka  | 137  | 65  |
-| Kazan  | 132  | 84  |
-| Kemorovo, Perm and Saratov  | 114  | 52  |
-| Krasnodar  | 128  | 61  |
-| Murmansk  | 140  | 61  |
-| Nizhny Novgorod  | 135  | 48  |
-| Norilsk  | 137  | 65  |
-| Novosibirsk  | 107  | 49  |
-| Rostov  | 142  | 83  |
-| Sakha  | 114  | 52  |
-| Sochi  | 219  | 90  |
-| St. Petersburg  | 200  | 90  |
-| Vladivostok  | 104  | 59  |
-| Voronezh  | 111  | 44  |
-| Overige  | 78  | 46  |
+| Moskou  | 227  | 133  |
+| Bashkortostan  | 95  | 51  |
+| Irkutsk  | 121  | 81  |
+| Kamchatka  | 98  | 48  |
+| Kazan  | 110  | 60  |
+| Kemorovo, Perm and Saratov  | 96  | 61  |
+| Krasnodar  | 128  | 78  |
+| Murmansk  | 133  | 75  |
+| Nizhny Novgorod  | 96  | 50  |
+| Norilsk  | 115  | 119  |
+| Novosibirsk  | 74  | 60  |
+| Rostov  | 121  | 68  |
+| Sakha  | 111  | 84  |
+| Sochi  | 195  | 80  |
+| St. Petersburg  | 126  | 68  |
+| Syktyvkar  | 114  | 49  |
+| Vladivostok  | 122  | 69  |
+| Voronezh  | 110  | 65  |
+| Overige  | 61  | 46  |
 |  *Rwanda*   | --- | --- |
-| Kigali  | 180  | 58  |
-| Overige  | 98  | 35  |
+| Kigali  | 284  | 69  |
+| Overige  | 136  | 35  |
 |  *Saba*   | --- | --- |
-| Alle steden  | 154  | 89  |
-|  *Salomonseilanden*   | --- | --- |
-| Honiara  | 87  | 110  |
-| Overige  | 98  | 48  |
+| Alle steden  | 213  | 88  |
+|  *Salomons Eilanden*   | --- | --- |
+| Honiara  | 232  | 100  |
+| Overige  | 92  | 44  |
 |  *Samoa*   | --- | --- |
-| Apia  | 125  | 64  |
-| Overige  | 153  | 63  |
-|  *Sao Tomé and Principe*   | --- | --- |
-| Sao Tomé  | 199  | 69  |
-| Overige  | 76  | 45  |
+| Apia  | 135  | 64  |
+| Overige  | 71  | 47  |
+|  *Sao Tomé en Principe*   | --- | --- |
+| Sao Tomé  | 226  | 85  |
+| Overige  | 49  | 29  |
 |  *Saoedi-Arabië*   | --- | --- |
-| Riyad  | 197  | 121  |
-| Overige  | 253  | 92  |
+| Riyad  | 207  | 132  |
+| Overige  | 254  | 132  |
 |  *Senegal*   | --- | --- |
-| Dakar  | 132  | 69  |
-| Overige  | 106  | 46  |
+| Dakar  | 130  | 87  |
+| Overige  | 153  | 60  |
 |  *Servië*   | --- | --- |
-| Belgrado  | 243  | 100  |
-| Overige  | 88  | 49  |
+| Belgrado  | 213  | 115  |
+| Overige  | 88  | 47  |
 |  *Seychellen*   | --- | --- |
-| Alle steden  | 174  | 89  |
+| Alle steden  | 190  | 86  |
 |  *Sierra Leone*   | --- | --- |
-| Freetown  | 152  | 63  |
-| Overige  | 83  | 37  |
+| Freetown  | 120  | 90  |
+| Overige  | 89  | 46  |
 |  *Singapore*   | --- | --- |
-| Alle steden  | 222  | 131  |
+| Alle steden  | 234  | 127  |
 |  *Slovenië*   | --- | --- |
-| Ljubljana  | 195  | 80  |
-| Bled  | 190  | 94  |
-| Portoroz  | 157  | 71  |
-| Overige  | 106  | 55  |
+| Ljubljana  | 181  | 78  |
+| Bled  | 141  | 73  |
+| Portoroz  | 152  | 69  |
+| Overige  | 111  | 50  |
 |  *Slowakije*   | --- | --- |
-| Bratislava  | 159  | 80  |
-| Overige  | 103  | 72  |
+| Bratislava  | 101  | 73  |
+| Overige  | 91  | 63  |
 |  *Soedan*   | --- | --- |
-| Khartoum  | 146  | 119  |
-| Overige  | 137  | 39  |
+| Khartoum  | 144  | 118  |
+| Overige  | 136  | 38  |
 |  *Somalië*   | --- | --- |
-| Mogadishu  | 84  | 52  |
-| Overige  | 40  | 21  |
+| Mogadishu  | 156  | 56  |
+| Overige  | 39  | 24  |
 |  *Spanje*   | --- | --- |
-| Madrid  | 125  | 90  |
-| Barcelona  | 118  | 82  |
-| San Sebastian  | 116  | 71  |
-| Valencia  | 75  | 84  |
-| Overige  | 84  | 66  |
+| Madrid  | 124  | 97  |
+| Barcelona  | 127  | 85  |
+| San Sebastian  | 118  | 69  |
+| Valencia  | 80  | 83  |
+| Overige  | 82  | 67  |
 |  *Sri Lanka*   | --- | --- |
-| Colombo  | 130  | 62  |
-| Overige  | 59  | 23  |
-|  *St. Eustatius*   | --- | --- |
-| Alle steden  | 154  | 89  |
-|  *St.Kitts/Nevis*   | --- | --- |
-| Alle steden  | 115  | 80  |
-|  *St.Lucia*   | --- | --- |
-| Alle steden  | 166  | 86  |
-|  *St. Maarten*   | --- | --- |
-| Alle steden  | 154  | 89  |
-|  *St.Vincent/Grenada*   | --- | --- |
-| Alle steden  | 115  | 90  |
+| Colombo  | 144  | 52  |
+| Overige  | 82  | 30  |
+|  *Sint Eustatius*   | --- | --- |
+| Alle steden  | 213  | 88  |
+|  *St. Lucia*   | --- | --- |
+| Alle steden  | 128  | 109  |
+|  *Sint Maarten*   | --- | --- |
+| Alle steden  | 213  | 88  |
+|  *St. Vincent / Grenada*   | --- | --- |
+| Alle steden  | 146  | 89  |
+|  *St.Kitts / Nevis*   | --- | --- |
+| Alle steden  | 163  | 88  |
 |  *Suriname*   | --- | --- |
-| Paramaribo  | 93  | 57  |
+| Paramaribo  | 87  | 61  |
 | Overige  | 46  | 31  |
 |  *Swaziland*   | --- | --- |
-| Mbabane  | 120  | 52  |
-| Overige  | 287  | 49  |
+| Mbabane  | 110  | 46  |
+| Overige  | 173  | 39  |
 |  *Syrië*   | --- | --- |
-| Damascus  | 204  | 93  |
-| Overige  | 151  | 59  |
+| Damascus  | 180  | 78  |
+| Overige  | 115  | 42  |
 |  *Tadzjikistan*   | --- | --- |
-| Dushanbe  | 196  | 110  |
-| Overige  | 36  | 18  |
+| Dushanbe  | 232  | 75  |
+| Overige  | 38  | 19  |
 |  *Tanzania*   | --- | --- |
-| Dar es Salaam  | 148  | 70  |
-| Overige  | 153  | 37  |
+| Dar es Salaam  | 147  | 69  |
+| Overige  | 165  | 41  |
 |  *Thailand*   | --- | --- |
-| Bangkok  | 125  | 80  |
-| Overige  | 120  | 51  |
+| Bangkok  | 107  | 63  |
+| Overige  | 116  | 49  |
 |  *Togo*   | --- | --- |
-| Lomé  | 117  | 53  |
-| Overige  | 23  | 30  |
-|  *Tokelau-eilanden*   | --- | --- |
-| Alle steden  | 34  | 38  |
+| Lomé  | 141  | 67  |
+| Overige  | 33  | 36  |
+|  *Tokelau Eilanden*   | --- | --- |
+| Alle steden  | 34  | 21  |
 |  *Tonga*   | --- | --- |
-| Nuku'Alofa  | 185  | 70  |
-| Overige  | 150  | 67  |
+| Nuku'Alofa  | 189  | 75  |
+| Overige  | 137  | 71  |
 |  *Trinidad en Tobago*   | --- | --- |
-| Trinidad  | 152  | 97  |
-| Overige  | 160  | 97  |
+| Trinidad  | 148  | 87  |
+| Overige  | 154  | 102  |
+|  *Tsjaad*   | --- | --- |
+| Ndjamena  | 178  | 84  |
+| Overige  | 49  | 39  |
 |  *Tsjechië*   | --- | --- |
-| Praag  | 132  | 69  |
-| Brno  | 130  | 42  |
-| Cesky Krumlov  | 145  | 54  |
-| Karlovy Vary  | 150  | 62  |
-| Olomouc  | 84  | 38  |
-| Ostrava  | 114  | 41  |
-| Overige  | 50  | 23  |
+| Praag  | 135  | 83  |
+| Brno  | 123  | 48  |
+| Cesky Krumlov  | 158  | 59  |
+| Karlovy Vary  | 167  | 63  |
+| Olomouc  | 78  | 32  |
+| Ostrava  | 155  | 40  |
+| Overige  | 53  | 23  |
 |  *Tunesië*   | --- | --- |
-| Tunis  | 83  | 58  |
-| Overige  | 68  | 53  |
+| Tunis  | 83  | 70  |
+| Overige  | 48  | 44  |
 |  *Turkije*   | --- | --- |
-| Ankara  | 87  | 65  |
-| Adana  | 81  | 61  |
-| Antalya  | 87  | 63  |
-| Diyarbekir, Gazantep, Mardin  | 84  | 61  |
-| Istanbul  | 132  | 84  |
-| Izmir  | 90  | 58  |
-| Overige  | 63  | 51  |
+| Ankara  | 86  | 55  |
+| Adana  | 82  | 55  |
+| Antalya  | 95  | 63  |
+| Diyarbekir  | 91  | 63  |
+| Gazi Antep  | 85  | 64  |
+| Hatay  | 66  | 58  |
+| Istanbul  | 155  | 74  |
+| Izmir  | 65  | 41  |
+| Mardin  | 44  | 48  |
+| Urfa  | 82  | 69  |
+| Overige  | 42  | 40  |
 |  *Turkmenistan*   | --- | --- |
-| Asjchabad  | 221  | 109  |
-| Overige  | 94  | 33  |
-|  *Turks- en Caicoseilanden*   | --- | --- |
-| Grand Turk  | 159  | 93  |
-| Overige  | 277  | 111  |
+| Asjchabad  | 128  | 72  |
+| Overige  | 65  | 32  |
+|  *Turks- en Caicos Eilanden*   | --- | --- |
+| Grand Turk  | 196  | 74  |
+| Overige  | 266  | 81  |
 |  *Tuvalu*   | --- | --- |
-| Funafuti  | 87  | 42  |
-| Overige  | 42  | 50  |
+| Alle steden  | 93  | 32  |
 |  *Uruguay*   | --- | --- |
-| Montevideo  | 110  | 65  |
-| Colonia  | 128  | 66  |
-| Punta Del Este  | 143  | 75  |
-| Salto  | 97  | 46  |
-| Overige  | 64  | 50  |
+| Montevideo  | 117  | 91  |
+| Colonia  | 130  | 70  |
+| Punta Del Este  | 178  | 84  |
+| Salto  | 98  | 47  |
+| Overige  | 65  | 51  |
 |  *Vanuatu*   | --- | --- |
-| Port Villa  | 130  | 62  |
-| Overige  | 138  | 55  |
+| Port Villa  | 116  | 63  |
+| Overige  | 221  | 62  |
 |  *Venezuela*   | --- | --- |
-| Caracas  | 167  | 103  |
-| Overige  | 126  | 71  |
+| Caracas  | 200  | 118  |
+| Overige  | 145  | 72  |
 |  *Verenigde Arabische Emiraten*   | --- | --- |
-| Abu Dhabi  | 160  | 102  |
-| Overige  | 164  | 98  |
+| Abu Dhabi  | 172  | 119  |
+| Overige  | 152  | 90  |
 |  *Verenigde Staten van Amerika*   | --- | --- |
-| Washington D.C.  | 172  | 105  |
-| Boston  | 199  | 78  |
-| Chicago  | 186  | 70  |
-| Honolulu  | 140  | 61  |
-| Los Angeles  | 151  | 68  |
-| Miami  | 148  | 61  |
-| New York  | 197  | 93  |
-| Philadelphia  | 194  | 76  |
-| San Francisco  | 217  | 60  |
-| Overige  | 143  | 59  |
+| Washington D.C.  | 170  | 105  |
+| Boston  | 197  | 78  |
+| Chicago  | 211  | 72  |
+| Honolulu  | 192  | 65  |
+| Los Angeles  | 185  | 70  |
+| Miami  | 168  | 63  |
+| New York  | 299  | 107  |
+| Philadelphia  | 174  | 72  |
+| San Francisco  | 205  | 81  |
+| Overige  | 155  | 58  |
 |  *Vietnam*   | --- | --- |
-| Hanoi  | 84  | 45  |
-| Overige  | 82  | 34  |
+| Hanoi  | 73  | 51  |
+| Overige  | 71  | 41  |
 |  *Westbank en Gazastrook*   | --- | --- |
-| Jericho Area  | 86  | 46  |
-| The Gaza Strip  | 77  | 68  |
-| Elsewhere in the West Bank  | 61  | 46  |
+| Jericho  | 83  | 57  |
+| Gazastrook  | 81  | 45  |
+| Overige  | 81  | 50  |
 |  *Zambia*   | --- | --- |
-| Lusaka  | 206  | 86  |
-| Overige  | 336  | 68  |
+| Lusaka  | 204  | 97  |
+| Overige  | 333  | 65  |
 |  *Zimbabwe*   | --- | --- |
-| Harare  | 98  | 60  |
-| Overige  | 134  | 48  |
+| Harare  | 96  | 56  |
+| Overige  | 180  | 53  |
 |  *Zuid-Afrika*   | --- | --- |
-| Pretoria  | 141  | 64  |
-| Overige  | 259  | 67  |
+| Pretoria  | 124  | 51  |
+| Bloemfontein  | 102  | 48  |
+| Kaapstad  | 232  | 67  |
+| Durban  | 223  | 76  |
+| East London  | 117  | 48  |
+| Johannesburg  | 154  | 55  |
+| Johannesburg-Sandton  | 201  | 76  |
+| Magaliesburg/Muldersdrift  | 177  | 60  |
+| Mmabatho  | 121  | 46  |
+| Mthatha  | 111  | 44  |
+| Musina  | 96  | 50  |
+| Nelspruit  | 101  | 48  |
+| Pietermaritzburg  | 106  | 42  |
+| Polokwane  | 92  | 54  |
+| Port Elizabeth  | 119  | 54  |
+| Rustenburg  | 119  | 57  |
+| Sun City  | 239  | 66  |
+| Tzaneen  | 95  | 43  |
+| Ulundi  | 115  | 39  |
+| Uppington  | 104  | 39  |
+| Overige  | 70  | 41  |
 |  *Zuid-Korea*   | --- | --- |
-| Seoul  | 135  | 95  |
-| Overige  | 148  | 73  |
+| Seoul  | 177  | 123  |
+| Overige  | 178  | 81  |
 |  *Zuid-Soedan*   | --- | --- |
-| Juba  | 177  | 49  |
-| Overige  | 37  | 30  |
+| Juba  | 183  | 62  |
+| Overige  | 109  | 35  |
 |  *Zweden*   | --- | --- |
-| Stockholm  | 246  | 133  |
-| Overige  | 189  | 107  |
+| Stockholm  | 259  | 128  |
+| Overige  | 212  | 100  |
 |  *Zwitserland*   | --- | --- |
-| Alle steden  | 190  | 117  |
+| Alle steden  | 184  | 113  |
 
 ### Bijlage  II  
 

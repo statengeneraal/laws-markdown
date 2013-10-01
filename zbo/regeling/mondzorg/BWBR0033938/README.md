@@ -7,7 +7,7 @@ Ingevolge de [artikelen 36 derde lid](../../../../wet/wet/marktordening/gezondhe
 
 ####Reikwijdte regeling
 
-Deze regeling is van toepassing op zorgaanbieders die mondzorg leveren dan wel mondzorgprestaties in rekening brengen . <sup> 1  Zie de prestatiebeschrijvingen mondzorg in de beleidsregels ‘tandheelkundige zorg’, ‘tandheelkundige zorg AWBZ’, ‘jeugdtandverzorging instellingen’, ‘orthodontische zorg’ en ‘bijzondere tandheelkunde instellingen’  </sup> Deze regeling is niet van toepassing op zorgaanbieders die chirurgische tandheelkundige hulp van specialistische aard leveren (kaakchirurgen).    
+Deze regeling is van toepassing op zorgaanbieders die mondzorg leveren dan wel mondzorgprestaties in rekening brengen<sup> 1 Zie de prestatiebeschrijvingen mondzorg in de beleidsregels ‘tandheelkundige zorg’, ‘tandheelkundige zorg AWBZ’, ‘jeugdtandverzorging instellingen’, ‘orthodontische zorg’ en ‘bijzondere tandheelkunde instellingen’ </sup>. Deze regeling is niet van toepassing op zorgaanbieders die chirurgische tandheelkundige hulp van specialistische aard leveren (kaakchirurgen).    
 ### 2  
 
 ####Doel van de regeling

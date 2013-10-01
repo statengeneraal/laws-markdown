@@ -12,34 +12,41 @@ Besluit:
 
 ####Regio-indeling samenwerkingsverbanden PO
 
-De gebieden, bedoeld in [18a, derde lid, van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) worden vastgesteld als aangegeven in bijlage 1 bij dit besluit.  
+De gebieden, bedoeld in [18a, derde lid, van de Wet op het primair onderwijs](../../../../../../../../../../wet/wbo/BWBR0003420/README.md) worden vastgesteld als aangegeven in bijlage 1 bij dit besluit. 
 
 ### Artikel  2  
 
 ####Regio-indeling samenwerkingsverbanden VO
 
-De gebieden, bedoeld in [artikel 17a, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) worden vastgesteld als aangegeven in bijlage 2 bij dit besluit.  
+De gebieden, bedoeld in [artikel 17a, derde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) worden vastgesteld als aangegeven in bijlage 2 bij dit besluit. 
 
 ### Artikel  3  
 
-####Inwerkingtreding
+####Gemeentelijke herindeling en wijziging gemeentenaam
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+1.  Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](../../../../../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) die de indeling in gebieden, bedoeld in artikel 1 en artikel 2, niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in bijlagen 1 en 2 van deze regeling opgenomen naam dan wel namen.   
+2.  Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in bijlagen 1 en 2 van deze regeling opgenomen oorspronkelijke naam.  
 
 ### Artikel  4  
 
+####Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
+
+### Artikel  5  
+
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO  
+Deze regeling wordt aangehaald als: Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-S.Dekker.  
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+S. Dekker.    
 
 ### Bijlage  1  
 
-Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO  
+Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO.  
 
 | samenwerkingsverband  | gemeentenaam  |
 |:---|:---|
@@ -74,7 +81,7 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Dongeradeel  |
 | --- | Ferwerderadiel  |
 | --- | Franekeradeel  |
-| --- | Gaasterlân-Sleat  |
+| --- | Gaasterlan-Sleat  |
 | --- | Harlingen  |
 | --- | Heerenveen  |
 | --- | het Bildt  |
@@ -87,9 +94,9 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Ooststellingwerf  |
 | --- | Opsterland  |
 | --- | Schiermonnikoog  |
-| --- | Skarsterlân  |
+| --- | Skarsterlan  |
 | --- | Smallingerland  |
-| --- | Súdwest-Fryslân  |
+| --- | Sudwest Fryslan  |
 | --- | Terschelling  |
 | --- | Tytsjerksteradiel  |
 | --- | Vlieland  |
@@ -132,9 +139,9 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Oldebroek  |
 | --- | Olst-Wijhe  |
 | --- | Raalte  |
-| --- | Zwolle  |
 | --- | Staphorst (postcodes 7715 en 7954)  |
-| --- | Zwartewaterland (met uitzondering van postcode 8064)  |
+| --- | Zwartewaterland (m.u.v. postcode 8064)  |
+| --- | Zwolle  |
 | PO2401  | Almere  |
 | PO2402  | Noordoostpolder  |
 | --- | Urk  |
@@ -149,10 +156,10 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | PO2502  | Aalten  |
 | --- | Oost Gelre  |
 | --- | Winterswijk  |
-| PO2503  | Bronckhorst (met uitzondering van postcodes 7233, 7234 en 7251)  |
+| PO2503  | Bronckhorst (m.u.v. postcodes 7233, 7234 en 7251)  |
 | --- | Doesburg  |
 | --- | Doetinchem  |
-| --- | Montferland (met uitzondering van postcodes 6941 en 6942)  |
+| --- | Montferland (m.u.v. postcodes 6941 en 6942)  |
 | --- | Oude IJsselstreek  |
 | PO2504  | Duiven  |
 | --- | Montferland (postcodes 6941 en 6942)  |
@@ -163,7 +170,7 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | PO2506  | Arnhem  |
 | --- | Lingewaard  |
 | --- | Overbetuwe  |
-| --- | Renkum (met uitzondering van postcodes 6866, 6871 en 6874)  |
+| --- | Renkum  |
 | --- | Rheden  |
 | --- | Rozendaal  |
 | PO2507  | Beuningen  |
@@ -201,7 +208,6 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Scherpenzeel  |
 | --- | Veenendaal  |
 | --- | Wageningen  |
-| --- | Renkum (postcodes 6866, 6871 en 6874)  |
 | PO2601  | Utrecht  |
 | PO2602  | Amersfoort  |
 | --- | Baarn  |
@@ -225,11 +231,9 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Nieuwegein  |
 | --- | Vianen  |
 | PO2701  | Den Helder  |
-| --- | Harenkarspel  |
 | --- | Hollands Kroon  |
 | --- | Schagen  |
 | --- | Texel  |
-| --- | Zijpe  |
 | PO2702  | Drechterland  |
 | --- | Enkhuizen  |
 | --- | Hoorn  |
@@ -280,7 +284,7 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Heemskerk  |
 | --- | Uitgeest  |
 | --- | Velsen  |
-| PO2801  | Kaag en Braassem (met uitzondering van postcodes 2355, 2451, 2465 en 2481)  |
+| PO2801  | Kaag en Braassem (m.u.v. postcodes 2355, 2451, 2465 en 2481)  |
 | --- | Leiden  |
 | --- | Leiderdorp  |
 | --- | Oegstgeest  |
@@ -289,7 +293,7 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Zoeterwoude  |
 | PO2802  | Delft  |
 | --- | Lansingerland  |
-| --- | Midden-Delfland (met uitzondering van postcode 3155)  |
+| --- | Midden-Delfland (m.u.v. postcode 3155)  |
 | --- | Pijnacker-Nootdorp  |
 | PO2803  | Midden-Delfland (postcode 3155)  |
 | --- | Rotterdam (postcode 3151)  |
@@ -302,7 +306,7 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | PO2805  | Albrandswaard  |
 | --- | Barendrecht  |
 | --- | Ridderkerk  |
-| PO2806  | Rotterdam (met uitzondering van postcodes 3181 en 3151)  |
+| PO2806  | Rotterdam (m.u.v. postcodes 3181 en 3151)  |
 | PO2807  | Maassluis  |
 | --- | Schiedam  |
 | --- | Vlaardingen  |
@@ -318,10 +322,7 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Sliedrecht  |
 | --- | Zwijndrecht  |
 | PO2810  | Dordrecht  |
-| PO2811  | Dirksland  |
-| --- | Goedereede  |
-| --- | Middelharnis  |
-| --- | Oostflakkee  |
+| PO2811  | Goeree-Overflakkee  |
 | PO2812  | Hillegom  |
 | --- | Katwijk  |
 | --- | Lisse  |
@@ -347,12 +348,10 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | 's-Gravenhage  |
 | PO2816  | Giessenlanden  |
 | --- | Gorinchem  |
-| --- | Graafstroom  |
 | --- | Hardinxveld-Giessendam  |
 | --- | Leerdam  |
-| --- | Liesveld  |
 | --- | Lingewaal  |
-| --- | Nieuw-Lekkerland  |
+| --- | Molenwaard  |
 | --- | Werkendam  |
 | --- | Woudrichem  |
 | --- | Zederik  |
@@ -381,11 +380,11 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 | --- | Moerdijk  |
 | --- | Roosendaal  |
 | --- | Rucphen  |
-| PO3003  | Alphen-Chaam (met uitzondering van postcode 5131)  |
+| PO3003  | Alphen-Chaam (m.u.v. postcode 5131)  |
 | --- | Baarle-Nassau  |
 | --- | Breda  |
 | --- | Dongen  |
-| --- | Drimmelen (met uitzondering van postcodes 4926 en 4927)  |
+| --- | Drimmelen (m.u.v. postcodes 4926 en 4927)  |
 | --- | Etten-Leur  |
 | --- | Geertruidenberg  |
 | --- | Gilze en Rijen  |
@@ -474,9 +473,9 @@ Deze bijlage behoort bij artikel 1 van de Regeling regio-indeling samenwerkingsv
 
 ### Bijlage  2  
 
-Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO  
+Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsverbanden passend onderwijs PO en VO.  
 
-| samenwerkingsverband  | Gemeentenaam  |
+| samenwerkingsverband  | gemeentenaam  |
 |:---|:---|
 | VO2001  | Groningen  |
 | --- | Haren  |
@@ -521,17 +520,17 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | --- | Heerenveen  |
 | --- | Ooststellingwerf  |
 | --- | Opsterland  |
-| --- | Skarsterlân  |
+| --- | Skarsterlan  |
 | --- | Smallingerland  |
 | --- | Tytsjerksteradiel  |
 | --- | Weststellingwerf  |
-| VO2103  | Gaasterlân-Sleat  |
+| VO2103  | Gaasterlan-Sleat  |
 | --- | Littenseradiel  |
-| --- | Súdwest-Fryslân  |
+| --- | Sudwest Fryslan  |
 | VO2201  | Aa en Hunze  |
 | --- | Assen  |
 | --- | Midden-Drenthe  |
-| --- | Tynaarlo (met uitzondering van postcodes 9471, 9472, 9473, 9474 en 9475)  |
+| --- | Tynaarlo (m.u.v. postcodes 9471, 9472, 9473, 9474 en 9475)  |
 | VO2202  | Borger-Odoorn  |
 | --- | Coevorden  |
 | --- | Emmen  |
@@ -575,7 +574,7 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | VO2403  | Lelystad  |
 | VO2501  | Bronckhorst (postcodes 7233, 7234 en 7251)  |
 | --- | Brummen  |
-| --- | Rheden (met uitzondering van postcodes 6881, 6882, 6883 en 6991)  |
+| --- | Rheden (m.u.v. postcodes 6881, 6882, 6883 en 6991)  |
 | --- | Rozendaal  |
 | --- | Zutphen  |
 | VO2502  | Aalten  |
@@ -584,10 +583,10 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | --- | Lochem  |
 | --- | Oost Gelre  |
 | --- | Winterswijk  |
-| VO2503  | Bronckhorst (met uitzondering van postcodes 7233, 7234 en 7251)  |
+| VO2503  | Bronckhorst (m.u.v. postcodes 7233, 7234 en 7251)  |
 | --- | Doesburg  |
 | --- | Doetinchem  |
-| --- | Montferland (met uitzondering van postcodes 6941 en 6942)  |
+| --- | Montferland (m.u.v. postcodes 6941 en 6942)  |
 | --- | Oude IJsselstreek  |
 | VO2504  | Duiven  |
 | --- | Montferland (postcodes 6941 en 6942)  |
@@ -601,8 +600,8 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | --- | Lingewaard  |
 | --- | Overbetuwe  |
 | --- | Renkum  |
-| --- | Rheden (postcodes 6881, 6882, 6885 en 6991)  |
-| V02507  | Bergen (L)  |
+| --- | Rheden (postcodes 6881, 6882, 6883 en 6991)  |
+| VO2507  | Bergen (L.)  |
 | --- | Beuningen  |
 | --- | Boxmeer  |
 | --- | Cuijk  |
@@ -662,11 +661,9 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | --- | Nieuwegein  |
 | --- | Vianen  |
 | VO2701  | Den Helder  |
-| --- | Harenkarspel  |
 | --- | Hollands Kroon  |
 | --- | Schagen  |
 | --- | Texel  |
-| --- | Zijpe  |
 | VO2702  | Drechterland  |
 | --- | Enkhuizen  |
 | --- | Hoorn  |
@@ -743,16 +740,14 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | --- | Noordwijkerhout  |
 | --- | Teylingen  |
 | VO2804  | Dordrecht  |
-| VO2805  | Dirksland  |
-| --- | Goedereede  |
-| --- | Middelharnis  |
-| --- | Oostflakkee  |
+| VO2805  | Goeree-Overflakkee  |
 | VO2806  | Leidschendam-Voorburg  |
 | --- | Rijswijk  |
 | --- | 's-Gravenhage  |
 | VO2807  | Zoetermeer  |
 | VO2808  | Westland  |
 | VO2809  | Delft  |
+| --- | Midden-Delfland (m.u.v. postcode 3155)  |
 | --- | Pijnacker-Nootdorp  |
 | VO2810  | Albrandswaard  |
 | --- | Barendrecht  |
@@ -765,11 +760,11 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | --- | Nederlek  |
 | --- | Oud-Beijerland  |
 | --- | Ridderkerk  |
-| --- | Rotterdam (met uitzondering van postcode 3181)  |
+| --- | Rotterdam (m.u.v postcode 3181)  |
 | --- | Strijen  |
 | --- | Zuidplas (postcodes 2911, 2912, 2913 en 2914)  |
 | VO2811  | Maassluis  |
-| --- | Midden-Delfland  |
+| --- | Midden-Delfland (postcode 3155)  |
 | --- | Schiedam  |
 | --- | Vlaardingen  |
 | VO2812  | Bernisse  |
@@ -780,17 +775,15 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | --- | Westvoorne  |
 | VO2813  | Alblasserdam  |
 | --- | Hendrik-Ido-Ambacht  |
-| --- | Nieuw-Lekkerland  |
 | --- | Papendrecht  |
 | --- | Sliedrecht  |
 | --- | Zwijndrecht  |
 | VO2814  | Giessenlanden  |
 | --- | Gorinchem  |
-| --- | Graafstroom  |
 | --- | Hardinxveld-Giessendam  |
 | --- | Leerdam  |
-| --- | Liesveld  |
 | --- | Lingewaal  |
+| --- | Molenwaard  |
 | --- | Werkendam  |
 | --- | Zederik  |
 | VO2901  | Middelburg  |
@@ -812,7 +805,7 @@ Deze bijlage behoort bij artikel 2 van de Regeling regio-indeling samenwerkingsv
 | VO3002  | Halderberge  |
 | --- | Moerdijk  |
 | --- | Roosendaal  |
-| VO3003  | Alphen-Chaam (met uitzondering van postcode 5131)  |
+| VO3003  | Alphen-Chaam (m.u.v. postcode 5131)  |
 | --- | Baarle-Nassau  |
 | --- | Breda  |
 | --- | Drimmelen  |

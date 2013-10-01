@@ -10,7 +10,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder:   a. sleep:  door een luchtvaartuig door middel van een sleepkabel voortgetrokken sleepnet, een doel voor schietoefeningen of een zweefvliegtuig;    b. sleepvliegtuig:  vliegtuig, ingericht voor het doen opstijgen en in de lucht voortslepen van een sleep;    c. sleepkabel:  geheel van onderdelen dat de verbinding vormt tussen de sleephaak van het sleepvliegtuig en de sleephaak, de vanglijn of de voorste ring van de sleep;    d. breukstuk:  onderdeel van de sleepkabel, dat bij een van te voren vastgestelde belasting bezwijkt, waardoor de verbinding tussen het sleepvliegtuig en de sleep wordt onderbroken;    e. dreg:  onderdeel van de sleepkabel, dat gebruikt wordt voor het oppikken van het sleepnet;    f. vanglijn  onderdeel van het sleepnet, dat gebruikt wordt voor het oppikken hiervan;    g. minister:  Minister van Verkeer en Waterstaat.     
+In deze regeling wordt verstaan onder:   a. sleep:  door een luchtvaartuig door middel van een sleepkabel voortgetrokken sleepnet of -doek, doel voor richt- en schietoefeningen, of zweef- of zeilvliegtuig;    b. sleepvliegtuig:   vliegtuig, ingericht voor het doen opstijgen en in de lucht voortslepen van een sleep;    c. sleepkabel:   geheel van onderdelen dat de verbinding vormt tussen de sleephaak van het sleepvliegtuig en de sleephaak, de vanglijn of de voorste ring van de sleep;    d. breukstuk:   onderdeel van de sleepkabel, dat bij een van te voren vastgestelde belasting bezwijkt, waardoor de verbinding tussen het sleepvliegtuig en de sleep wordt onderbroken;    e. dreg:   onderdeel van de sleepkabel, dat gebruikt wordt voor het oppikken van het sleepnet;    f. vanglijn   onderdeel van het sleepnet, dat gebruikt wordt voor het oppikken hiervan;    g. minister:   Minister van Verkeer en Waterstaat.     
 
 ### Artikel  2  
 
@@ -34,27 +34,27 @@ In deze regeling wordt verstaan onder:   a. sleep:  door een luchtvaartuig door 
 
 1.  De sleepkabel voor het slepen van een zweefvliegtuig moet omvatten: 
 
-a. een kabel, vervaardigd van nylon of van materiaal met overeenkomstige eigenschappen en van een zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig wordt voldaan;  
+a.  een kabel, vervaardigd van nylon of van materiaal met overeenkomstige eigenschappen en van een zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig wordt voldaan;  
 
-b. een breukstuk als bedoeld in artikel 5, aangebracht zo dicht mogelijk bij de sleephaak van het zweefvliegtuig en van een nominale sterkte als vermeld in het vlieghandboek van het zweefvliegtuig, welke de maximaal toegelaten waarde als vermeld in de sleepbijlage van het vlieghandboek van het sleepvliegtuig niet mag overschrijden;  
+b.  een breukstuk als bedoeld in artikel 5, aangebracht zo dicht mogelijk bij de sleephaak van het zweefvliegtuig en van een nominale sterkte als vermeld in het vlieghandboek van het zweefvliegtuig, welke de maximaal toegelaten waarde als vermeld in de sleepbijlage van het vlieghandboek van het sleepvliegtuig niet mag overschrijden;  
 
-c. gladde ringen, passend om de sleephaken van het zweefvliegtuig en het sleepvliegtuig. Deze ringen mogen het ontkoppelen niet belemmeren.     
+c.  gladde ringen, passend om de sleephaken van het zweefvliegtuig en het sleepvliegtuig. Deze ringen mogen het ontkoppelen niet belemmeren.     
 2.  De sleepkabel voor het slepen van een sleepnet of een doel voor schietoefeningen moet bevatten: 
 
-a. een kabel van zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig kan worden voldaan. Indien de kabel wordt gebruikt voor het tijdens de vlucht oppikken van een sleep op de grond, mag de kabel echter niet zo lang zijn dat dit een bezwaar vormt voor het veilig uitvoeren van de oppikmanoeuvre;  
+a.  een kabel van zodanige lengte, dat aan de krachtens [artikel 5 van het Besluit Luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) gestelde eisen ten aanzien van bestuurbaarheid en stabiliteit van het sleepvliegtuig kan worden voldaan. Indien de kabel wordt gebruikt voor het tijdens de vlucht oppikken van een sleep op de grond, mag de kabel echter niet zo lang zijn dat dit een bezwaar vormt voor het veilig uitvoeren van de oppikmanoeuvre;  
 
-b. een breukstuk, als bedoeld in artikel 5, van de voorgeschreven nominale sterkte. De afstand tussen breukstuk en sleephaak van het vliegtuig mag ten hoogste 2 meter bedragen;  
+b.  een breukstuk, als bedoeld in artikel 5, van de voorgeschreven nominale sterkte. De afstand tussen breukstuk en sleephaak van het vliegtuig mag ten hoogste 2 meter bedragen;  
 
-c. een gladde ring, passend om de sleephaak van het sleepvliegtuig. Deze mag het ontkoppelen niet belemmeren.     
+c.  een gladde ring, passend om de sleephaak van het sleepvliegtuig. Deze mag het ontkoppelen niet belemmeren.     
 3.  Indien een sleepkabel een dreg bevat voor het tijdens de vlucht oppikken van een sleepnet van de grond moet de dreg: 
 
-a. van een door de minister toegelaten type zijn;  
+a.  van een door de minister toegelaten type zijn;  
 
-b. veilig uit het sleepvliegtuig kunnen worden geworpen zonder delen van het vliegtuig te raken en zonder dat de kabel om delen van het vliegtuig slaat;  
+b.  veilig uit het sleepvliegtuig kunnen worden geworpen zonder delen van het vliegtuig te raken en zonder dat de kabel om delen van het vliegtuig slaat;  
 
-c. van zo danige vorm zijn, dat de vanghaken bij slepen over de grond niet in de grond blijven steken en van zodanige afwerking zijn, dat de vanglijn niet ontoelaatbaar wordt beschadigd;  
+c.  van zo danige vorm zijn, dat de vanghaken bij slepen over de grond niet in de grond blijven steken en van zodanige afwerking zijn, dat de vanglijn niet ontoelaatbaar wordt beschadigd;  
 
-d. van zodanig aard zijn, dat bij het ontkoppelen van de sleep de dreg niet van de sleep kan losraken.     
+d.  van zodanig aard zijn, dat bij het ontkoppelen van de sleep de dreg niet van de sleep kan losraken.     
 4.  Alle onderdelen van de sleepkabel, met uitzondering van het breukstuk, moeten een trekkracht kunnen opnemen, welke tenminste 1,5 maal de nominale sterkte van het breukstuk bedraagt en zonder blijvende vervorming een trekkracht kunnen opnemen, welke tenminste 1,15 maal de nominale sterkte van het breukstuk bedraagt.   
 5.  Alle verbindingselementen moeten zodanig zijn geconstrueerd, dat zij tijdens het slepen niet kunnen losraken.   
 
@@ -64,9 +64,9 @@ d. van zodanig aard zijn, dat bij het ontkoppelen van de sleep de dreg niet van 
 
 1.  Het breukstuk en de houder waarin het moet zijn opgenomen, moeten deugdelijk en van een door de minister toegelaten type zijn. De deugdelijkheid van de breukstukken kan worden aangetoond door 5 exemplaren van de betrokken productieserie als volgt te beproeven: 
 
-a. het breukstuk mag niet een meetbare, blijvende vormverandering hebben ondergaan, nadat het breukstuk gedurende 5 minuten is belast met een trekkracht van 0,85 maal de nominale sterkte;  
+a.  het breukstuk mag niet een meetbare, blijvende vormverandering hebben ondergaan, nadat het breukstuk gedurende 5 minuten is belast met een trekkracht van 0,85 maal de nominale sterkte;  
 
-b. de breuksterkte van het breukstuk mag niet groter zijn dan 1,07 maal en niet kleiner dan 0,93 maal de nominale sterkte.     
+b.  de breuksterkte van het breukstuk mag niet groter zijn dan 1,07 maal en niet kleiner dan 0,93 maal de nominale sterkte.     
 2.  Het breukstuk, waarvan de nominale sterkte in de sleepbijlage van het vlieghandboek is vermeld, moet met een of meer kleuren en een ingeslagen merk duidelijk zijn gemerkt.   
 
 ### Artikel  6  
@@ -85,9 +85,9 @@ Deze regeling treedt in werking met ingang van 15 oktober 2001.
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling Voorzieningen sleepvliegen.  
+Deze regeling wordt aangehaald als: Regeling voorzieningen sleepvliegen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

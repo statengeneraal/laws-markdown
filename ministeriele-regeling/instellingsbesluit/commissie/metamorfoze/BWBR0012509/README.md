@@ -2,7 +2,7 @@
 
 ##Instellingsbesluit Commissie Metamorfoze
 
-De Minister van Onderwijs, Cultuur en Wetenschappen,  Besluit:    
+De Minister van Onderwijs, Cultuur en Wetenschappen,  Besluit:     
 
 ### Artikel  1  
 
@@ -17,11 +17,11 @@ Er is een Commissie Metamorfoze, hierna te noemen de commissie.
 1.  De commissie adviseert de Minister van Onderwijs, Cultuur en Wetenschappen, hierna de minister, over de uitvoering van het conserveringsbeleid inzake papieren materialen in bibliotheken.   
 2.  De commissie verricht haar werkzaamheden binnen het kader van het Nationaal programma voor de conservering van bibliotheekmaterialen (Metamorfoze) door de Koninklijke Bibliotheek vast te stellen beleidsplan 2001-2004. Het beleidsplan behoeft de instemming van de minister. Tot de werkzaamheden behoren in ieder geval de volgende taken: 
 
-a. het geven van een oordeel over het jaarlijkse activiteitenplan van het Bureau Conservering Bibliotheekmateriaal en de daarin opgenomen lijst van conserveringsprojecten;  
+a.  het geven van een oordeel over het jaarlijkse activiteitenplan van het Bureau Conservering Bibliotheekmateriaal en de daarin opgenomen lijst van conserveringsprojecten;  
 
-b. het geven van een oordeel over de toepassing van het selectiescenario;  
+b.  het geven van een oordeel over de toepassing van het selectiescenario;  
 
-c. het geven van een oordeel over de opzet en uitvoering van het conserveringsprogramma alsmede over de evaluatie van het programma.     
+c.  het geven van een oordeel over de opzet en uitvoering van het conserveringsprogramma alsmede over de evaluatie van het programma.     
 3.  De commissie adviseert op eigen gezag en deskundigheid over gevallen, waarin niet voorzien wordt door het Nationaal programma voor de conservering van bibliotheekmaterialen.   
 
 ### Artikel  3  
@@ -83,9 +83,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Metamorfoze  
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Metamorfoze 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschappen, 
-L.M.L.H.A.Hermans    
+L.M.L.H.A. Hermans      

@@ -19,13 +19,13 @@ a. minister: de Minister van Onderwijs, Cultuur en Wetenschap;
 
 b. cofinanciering: de financiering die een aanvrager uit publieke en private gelden voor het project beschikbaar worden gesteld, niet zijnde de specifieke uitkering die op grond van deze regeling wordt verleend;  
 
-c. cultuurinstelling: een rechtspersoon die culturele activiteiten ontplooit ten behoeve van kinderen tot en met 16 jaar.    
+c. cultuurinstelling: een rechtspersoon die culturele activiteiten ontplooit ten behoeve van kinderen tot en met 16 jaar.   
 
 ### Artikel  2  
 
 ####Doel van de regeling
 
-De minister kan een specifieke uitkering verlenen voor activiteiten gericht op versterking van de sociale infrastructuur door middel van combinatiefuncties en sluitende dagarrangementen voor kinderen tot en met 16 jaar, teneinde de combinatie van arbeid en zorg te vergemakkelijken.  
+De minister kan een specifieke uitkering verlenen voor activiteiten gericht op versterking van de sociale infrastructuur door middel van combinatiefuncties en sluitende dagarrangementen voor kinderen tot en met 16 jaar, teneinde de combinatie van arbeid en zorg te vergemakkelijken. 
 
 ### Artikel  3  
 
@@ -40,27 +40,27 @@ b. primair onderwijs, bedoeld in de [Wet op het primair onderwijs](../../../../.
 c. voortgezet onderwijs, bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md);  
 
 d. culturele activiteiten, uitgevoerd door cultuurinstellingen, die bijdragen aan de ontwikkelingsmogelijkheden van kinderen tot en met 16 jaar.     
-2.  Een project combinatiefunctie heeft ten doel een functie te realiseren die wordt uitgevoerd door één persoon, waarbij de werkzaamheden zich uitstrekken tot twee of meer van de sectoren omschreven in het eerste lid, ten behoeve van het uitvoeren van een dagarrangement.   
+2.  Een project combinatiefunctie heeft ten doel een functie te realiseren die wordt uitgevoerd door één persoon, waarbij de werkzaamheden zich uitstrekken tot twee of meer van de sectoren omschreven in het eerste lid, ten behoeve van het uitvoeren van een dagarrangement.  
 
 ### Artikel  4  
 
 ####Aanvrager specifieke uitkering
 
 1.  Een specifieke uitkering ten behoeve van een project, bedoeld in artikel 3, kan worden aangevraagd door een gemeentebestuur, een provinciaal bestuur of een samenwerkingsverband van deze partijen.   
-2.  Op grond van deze regeling wordt geen specifieke uitkering verleend aan gemeenten gevestigd in de provincie Flevoland of aan de provincie Flevoland.   
+2.  Op grond van deze regeling wordt geen specifieke uitkering verleend aan gemeenten gevestigd in de provincie Flevoland of aan de provincie Flevoland.  
 
 ### Artikel  5  
 
 ####Uitkeringsplafond
 
-Voor de verstrekking van specifieke uitkeringen op grond van deze regeling is maximaal 100 miljoen euro beschikbaar, waarvan maximaal 10 procent voor het beheer van de regeling.  
+Voor de verstrekking van specifieke uitkeringen op grond van deze regeling is maximaal 100 miljoen euro beschikbaar, waarvan maximaal 10 procent voor het beheer van de regeling. 
 
 ### Artikel  6  
 
 ####Berekening van specifieke uitkering
 
 1.  De specifieke uitkering bedraagt 45% van de projectkosten, zoals omschreven in artikel 10, doch ten hoogste het bedrag dat wordt vermeld in de beschikking waarmee de specifieke uitkering wordt verleend.   
-2.  De overige 55% van de in artikel 10 omschreven projectkosten kan de aanvrager financieren uit cofinanciering.   
+2.  De overige 55% van de in artikel 10 omschreven projectkosten kan de aanvrager financieren uit cofinanciering.  
 
 ### Paragraaf  2  
 
@@ -72,7 +72,7 @@ Voor de verstrekking van specifieke uitkeringen op grond van deze regeling is ma
 
 1.  Een specifieke uitkering wordt op aanvraag verstrekt. De aanvraag wordt uiterlijk 31 maart 2006 elektronisch ingediend. Daarbij wordt gebruik gemaakt van de door de minister beschikbaar gestelde elektronische formats en formulieren. Na de tijdige ontvangst van de elektronische aanvraag, deelt de minister in een brief aan de aanvrager mee binnen welke termijn de aanvraag schriftelijk moet worden bevestigd.   
 2.  De door de minister vastgestelde formulieren en formats, bedoeld in het eerste lid, zijn opgenomen in het Handboek OCW Dagarrangementen en combinatiefuncties, dat als bijlage 5 bij deze regeling wordt vastgesteld.   
-3.  Aanvragen die zijn ingediend na 31 maart 2006, worden afgewezen.   
+3.  Aanvragen die zijn ingediend na 31 maart 2006, worden afgewezen.  
 
 ### Artikel  8  
 
@@ -98,7 +98,7 @@ h. beschrijving van de administratieve organisatie en interne controle;
 
 i. het gemeentebestuur of het provinciebestuur maakt aannemelijk dat er sprake is van perspectief op continuering van het project na afloop van de periode van de specifieke uitkering.     
 2.  Indien voor de financiering van het project cofinanciering door derden wordt ingezet, geschiedt dit op basis van een schriftelijke overeenkomst met dan wel een schriftelijke toezegging van die derden.   
-3.  De aanvraag van een project combinatiefuncties bevat in ieder geval een projectbeschrijving. De projectbeschrijving bevat naast de onderwerpen, genoemd in het eerste lid, een beschrijving van het project dagarrangement, waarvan de combinatiefunctie deel uitmaakt.   
+3.  De aanvraag van een project combinatiefuncties bevat in ieder geval een projectbeschrijving. De projectbeschrijving bevat naast de onderwerpen, genoemd in het eerste lid, een beschrijving van het project dagarrangement, waarvan de combinatiefunctie deel uitmaakt.  
 
 ### Artikel  9  
 
@@ -108,7 +108,7 @@ i. het gemeentebestuur of het provinciebestuur maakt aannemelijk dat er sprake i
 2.  Een project heeft een looptijd tot en met uiterlijk 31 december 2008.   
 3.  Slechts activiteiten die voor de projectaanvang nog niet uitgevoerd werden, komen voor een specifieke uitkering in aanmerking.   
 4.  De projectorganisatie is dusdanig ingericht dat aannemelijk is dat met de uit te voeren activiteiten het beoogde doel van het project haalbaar is of wordt bereikt.   
-5.  De kosten van het project staan in een redelijke verhouding tot de daarvan te verwachten resultaten.   
+5.  De kosten van het project staan in een redelijke verhouding tot de daarvan te verwachten resultaten.  
 
 ### Artikel  10  
 
@@ -145,8 +145,8 @@ h. sport- en spelmaterialen;
 i. investeringen of inrichting van ruimten;  
 
 j. de loonkosten van een combinatiefunctie.     
-4.  Indien kosten slechts voor een deel door het project worden veroorzaakt, dan worden deze kosten naar verhouding, en op grond van een controleerbare berekening, toegerekend aan het project.   
-5.  Bij het inschakelen van derden gelden de aanbestedingsregels zoals opgenomen in bijlage 2.   
+4.  Indien kosten slechts voor een deel door het project worden veroorzaakt, dan worden deze kosten naar verhouding, en op grond van een controleerbare berekening, toegerekend aan het project.  
+5. Bij het inschakelen van derden gelden de aanbestedingsregels zoals opgenomen in bijlage 2.
 
 ### Paragraaf  3  
 
@@ -157,13 +157,13 @@ j. de loonkosten van een combinatiefunctie.
 ####Verlening
 
 1.  Een aanvraag voor een project wordt toegewezen indien de aanvraag en het project voldoen aan de bij deze regeling gestelde voorwaarden, met dien verstande dat indien het aantal aanvragen gezamenlijk het beschikbaar gestelde bedrag, zoals bedoeld in artikel 5, te boven gaat, het bedrag van de specifieke uitkering per project evenredig wordt verlaagd.   
-2.  Geen specifieke uitkering wordt verleend voor projecten die medegefinancierd worden uit EU structuurfondsen of communautaire initiatieven.   
+2.  Geen specifieke uitkering wordt verleend voor projecten die medegefinancierd worden uit EU structuurfondsen of communautaire initiatieven.  
 
 ### Artikel  12  
 
 ####De beschikking tot verlening van de specifieke uitkering
 
-In de beschikking tot verlening van de specifieke uitkering wordt het maximumbedrag aan specifieke uitkering bepaald dat tegemoet kan worden gezien. Bij de bepaling van dit bedrag wordt, onverminderd artikel 10, uitgegaan van het totaal van de voorbereidings-, uitvoerings- en beheerskosten van het project, zoals door de aanvrager geraamd in zijn aanvraag voor een specifieke uitkering, met dien verstande dat bepaalde, in de beschikking te vermelden, kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden vastgesteld, voor zover de desbetreffende uitgaven redelijkerwijs niet noodzakelijk geacht kunnen worden voor de uitvoering van het project.  
+In de beschikking tot verlening van de specifieke uitkering wordt het maximumbedrag aan specifieke uitkering bepaald dat tegemoet kan worden gezien. Bij de bepaling van dit bedrag wordt, onverminderd artikel 10, uitgegaan van het totaal van de voorbereidings-, uitvoerings- en beheerskosten van het project, zoals door de aanvrager geraamd in zijn aanvraag voor een specifieke uitkering, met dien verstande dat bepaalde, in de beschikking te vermelden, kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden vastgesteld, voor zover de desbetreffende uitgaven redelijkerwijs niet noodzakelijk geacht kunnen worden voor de uitvoering van het project. 
 
 ### Artikel  13  
 
@@ -173,7 +173,7 @@ Indien de minister een voorschot verleent, wordt:
 
 a. een eerste voorschot, ten bedrage van 50% van het maximaal toegekende bedrag, direct uitbetaald nadat van de aanvrager van het project bericht is ontvangen dat de uitvoering van het project waarvoor de specifieke uitkering werd verleend is aangevangen;  
 
-b. Een tweede voorschot wordt in september 2007 uitbetaald, waarbij de totale bevoorschotting wordt aangevuld tot 80% van het maximaal toegekende bedrag.    
+b. Een tweede voorschot wordt in september 2007 uitbetaald, waarbij de totale bevoorschotting wordt aangevuld tot 80% van het maximaal toegekende bedrag.  
 
 ### Paragraaf  4  
 
@@ -183,27 +183,27 @@ b. Een tweede voorschot wordt in september 2007 uitbetaald, waarbij de totale be
 
 ####Voorschriften projectadministratie
 
-De ontvanger van de specifieke uitkering geeft aan door de minister aangewezen personen desgevraagd inzage in of informatie uit deze administratie. Tevens verschaft de ontvanger de voornoemde personen desgevraagd informatie over de voortgang van het voor de specifieke uitkering in aanmerking gebrachte project.  
+De ontvanger van de specifieke uitkering geeft aan door de minister aangewezen personen desgevraagd inzage in of informatie uit deze administratie. Tevens verschaft de ontvanger de voornoemde personen desgevraagd informatie over de voortgang van het voor de specifieke uitkering in aanmerking gebrachte project. 
 
 ### Artikel  15  
 
 ####Voortgangsrapportage
 
-Indien er tussentijds bijzondere omstandigheden optreden die de voortgang van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor de aanspraak op een specifieke uitkering, doet de ontvanger van de specifieke uitkering hiervan onverwijld mededeling aan de minister.  
+Indien er tussentijds bijzondere omstandigheden optreden die de voortgang van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor de aanspraak op een specifieke uitkering, doet de ontvanger van de specifieke uitkering hiervan onverwijld mededeling aan de minister. 
 
 ### Artikel  16  
 
 ####Overige verplichtingen van de uitkeringsontvanger
 
 1.  Een ontvanger van een specifieke uitkering verleent op verzoek van de minister medewerking aan de totstandkoming van een gegevensverzameling ten behoeve van door of namens de minister te verrichten evaluaties en draagt er zorg voor dat ook onderaanvragers en eventuele deelnemers aan projecten verplicht worden daaraan medewerking te verlenen. De ontvanger bedingt dat eventuele partners van de ontvanger medewerking verlenen aan de gegevensverzameling, bedoeld in de vorige volzin.   
-2.  De projectresultaten dienen om niet aan andere gemeenten en provincies ter beschikking te worden gesteld.   
+2.  De projectresultaten dienen om niet aan andere gemeenten en provincies ter beschikking te worden gesteld.  
 
 ### Artikel  17  
 
 ####Toezicht
 
 1.  Een ontvanger van een specifieke uitkering is verplicht alle medewerking te verlenen aan toezicht op de naleving door of namens de minister.   
-2.  Een ontvanger van een specifieke uitkering bedingt bij derden die bij het project betrokken zijn, dat zij medewerking verlenen aan toezicht op de naleving van het project.   
+2.  Een ontvanger van een specifieke uitkering bedingt bij derden die bij het project betrokken zijn, dat zij medewerking verlenen aan toezicht op de naleving van het project.  
 
 ### Paragraaf  5  
 
@@ -213,10 +213,10 @@ Indien er tussentijds bijzondere omstandigheden optreden die de voortgang van he
 
 ####Eindrapportage, verzoek tot vaststelling van de specifieke uitkering
 
-1.  Een ontvanger van een specifieke uitkering verstrekt jaarlijks uiterlijk op 15 juli de verantwoordingsinformatie overeenkomstig het bepaalde in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).   
-2.  De bijlage bij de jaarrekening over het jaar waarvoor uitkering wordt verstrekt, bevat de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md).   
-3.  Het verstrekken van de verantwoordingsinformatie over de jaren waarvoor de specifieke uitkering is toegekend, geldt als aanvraag tot vaststelling.   
-4.  Uiterlijk 6 maanden na ontvangst van de verantwoordingsinformatie in 2009 wordt de specifieke uitkering vastgesteld.   
+1. Een ontvanger van een specifieke uitkering verstrekt jaarlijks uiterlijk op 15 juli de verantwoordingsinformatie overeenkomstig het bepaalde in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).
+2. De bijlage bij de jaarrekening over het jaar waarvoor uitkering wordt verstrekt, bevat de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md).
+3. Het verstrekken van de verantwoordingsinformatie over de jaren waarvoor de specifieke uitkering is toegekend, geldt als aanvraag tot vaststelling.
+4. Uiterlijk 6 maanden na ontvangst van de verantwoordingsinformatie in 2009 wordt de specifieke uitkering vastgesteld. 
 
 ### Paragraaf  6  
 
@@ -226,18 +226,18 @@ Indien er tussentijds bijzondere omstandigheden optreden die de voortgang van he
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2006.  
+Deze regeling treedt in werking met ingang van de tweede dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2006. 
 
 ### Artikel  20  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling OCW dagarrangementen en combinatiefuncties.  
+Deze regeling wordt aangehaald als: Regeling OCW dagarrangementen en combinatiefuncties. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van Bijlage 5 die ter inzage wordt gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.  
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-M.J.A. van derHoeven  
+M.J.A. van der Hoeven    
 
 ### Bijlage  1  
 
@@ -267,7 +267,7 @@ De voor specifieke uitkering in aanmerking komende activiteiten inzake een proje
 
 – Ouderparticipatie  
 
-– Evaluaties.    
+– Evaluaties.   
 
 #### *Combinatiefuncties* 
 
@@ -295,8 +295,8 @@ Een project combinatiefuncties dient altijd deel uit te maken van een dagarrange
 
 – Het daadwerkelijk aanstellen van een medewerker op de tijdens de projectperiode ontwikkelde functie  
 
-– scholing, begeleiding, coaching van de medewerker die de werkzaamheden uitvoert      
+– scholing, begeleiding, coaching van de medewerker die de werkzaamheden uitvoert     
 
 ### Bijlage  2  
 
-Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.  
+Ligt ter inzage bij het Ministerie van Onderwijs, Cultuur en Wetenschap.

@@ -4,7 +4,7 @@
 
 ####Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds
 
-Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, hierna „Lid-Staten" te noemen, en de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal, hierna „de Gemeenschap" te noemen, enerzijds, en het Koninkrijk Marokko, hierna „Marokko" te noemen, anderzijds, Gelet op de nabijheid en de onderlinge afhankelijkheid van de Gemeenschap, haar Lid-Staten en het Koninkrijk Marokko, gebaseerd op de historische banden en hun gemeenschappelijke waarden; Overwegende dat de Gemeenschap, de Lid-Staten en Marokko deze banden wensen te versterken en duurzame betrekkingen op basis van wederkerigheid, solidariteit, partnerschap en gezamenlijke ontwikkeling tot stand wensen te brengen; Gelet op het belang dat de partijen hechten aan de eerbiediging van de beginselen van het Handvest van de Verenigde Naties, en in het bijzonder aan de eerbiediging van de mensenrechten en de politieke en economische vrijheden waarop de Associatie is gegrondvest; Gelet op de politieke en economische ontwikkelingen van de laatste jaren op het Europese continent en in Marokko en de gezamenlijke verantwoordelijkheden die daaruit voortvloeien op het gebied van de stabiliteit, de veiligheid en de welvaart van het gehele Euro-mediterrane gebied; Gelet op de belangrijke vorderingen van Marokko en het Marokkaanse volk bij de verwezenlijking van hun doelstellingen van volledige integratie van de Marokkaanse economie in de wereldeconomie en deelname aan de gemeenschap van democratische landen; Zich bewust van het belang van de betrekkingen in de algemene Euro-mediterrane context, enerzijds, en van de doelstelling van integratie van de Maghreb-landen, anderzijds; Verlangende de doelstellingen van deze associatie geheel te verwezenlijken door middel van de desbetreffende bepalingen van deze Overeenkomst, teneinde het niveau van economische en sociale ontwikkeling van de Gemeenschap en dat van Marokko dichter bij elkaar te brengen; Zich bewust van het belang van deze overeenkomst, die berust op wederkerigheid van belangen, wederzijdse concessies, samenwerking en dialoog; Verlangende een politiek overleg over bilaterale en internationale kwesties van wederzijds belang in te stellen en te verdiepen; Rekening houdend met de bereidheid van de Gemeenschap Marokko aanzienlijke steun te verlenen in zijn streven naar hervorming en aanpassing op economisch vlak en naar sociale ontwikkeling; Gelet op de keuze van zowel de Gemeenschap als Marokko voor vrijhandel in overeenstemming met de rechten en verplichtingen die voortvloeien uit de Algemene Overeenkomst inzake Tarieven en Handel (GATT), zoals deze in de Uruguay-Ronde tot stand is gebracht; Verlangende een samenwerking in te stellen die steunt op een regelmatige dialoog op economisch, sociaal en cultureel gebied, met het oog op een beter wederzijds begrip; Overtuigd dat deze Overeenkomst een geschikt kader vormt voor de ontplooiing van een partnerschap dat is gebaseerd op particulier initiatief, de historische keuze van zowel de Gemeenschap als het Koninkrijk Marokko, en een gunstig klimaat schept voor de ontwikkeling van hun economische en commerciële betrekkingen en voor investeringen, een onontbeerlijke factor voor de ondersteuning van economische herstructurering en technologische modernisering,   Zijn als volgt overeengekomen : <sup>  [Red: De oorspronkelijke Bijlagen en de Protocollen 1 en 3 bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn gepubliceerd in PbEG 2000, L 70, PbEU 2003, L 345 en PbEU 2005, L 242.]  </sup>    
+Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, hierna „Lid-Staten” te noemen, en de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal, hierna „de Gemeenschap” te noemen, enerzijds, en het Koninkrijk Marokko, hierna „Marokko” te noemen, anderzijds, Gelet op de nabijheid en de onderlinge afhankelijkheid van de Gemeenschap, haar Lid-Staten en het Koninkrijk Marokko, gebaseerd op de historische banden en hun gemeenschappelijke waarden; Overwegende dat de Gemeenschap, de Lid-Staten en Marokko deze banden wensen te versterken en duurzame betrekkingen op basis van wederkerigheid, solidariteit, partnerschap en gezamenlijke ontwikkeling tot stand wensen te brengen; Gelet op het belang dat de partijen hechten aan de eerbiediging van de beginselen van het Handvest van de Verenigde Naties, en in het bijzonder aan de eerbiediging van de mensenrechten en de politieke en economische vrijheden waarop de Associatie is gegrondvest; Gelet op de politieke en economische ontwikkelingen van de laatste jaren op het Europese continent en in Marokko en de gezamenlijke verantwoordelijkheden die daaruit voortvloeien op het gebied van de stabiliteit, de veiligheid en de welvaart van het gehele Euro-mediterrane gebied; Gelet op de belangrijke vorderingen van Marokko en het Marokkaanse volk bij de verwezenlijking van hun doelstellingen van volledige integratie van de Marokkaanse economie in de wereldeconomie en deelname aan de gemeenschap van democratische landen; Zich bewust van het belang van de betrekkingen in de algemene Euro-mediterrane context, enerzijds, en van de doelstelling van integratie van de Maghreb-landen, anderzijds; Verlangende de doelstellingen van deze associatie geheel te verwezenlijken door middel van de desbetreffende bepalingen van deze Overeenkomst, teneinde het niveau van economische en sociale ontwikkeling van de Gemeenschap en dat van Marokko dichter bij elkaar te brengen; Zich bewust van het belang van deze overeenkomst, die berust op wederkerigheid van belangen, wederzijdse concessies, samenwerking en dialoog; Verlangende een politiek overleg over bilaterale en internationale kwesties van wederzijds belang in te stellen en te verdiepen; Rekening houdend met de bereidheid van de Gemeenschap Marokko aanzienlijke steun te verlenen in zijn streven naar hervorming en aanpassing op economisch vlak en naar sociale ontwikkeling; Gelet op de keuze van zowel de Gemeenschap als Marokko voor vrijhandel in overeenstemming met de rechten en verplichtingen die voortvloeien uit de Algemene Overeenkomst inzake Tarieven en Handel (GATT), zoals deze in de Uruguay-Ronde tot stand is gebracht; Verlangende een samenwerking in te stellen die steunt op een regelmatige dialoog op economisch, sociaal en cultureel gebied, met het oog op een beter wederzijds begrip; Overtuigd dat deze Overeenkomst een geschikt kader vormt voor de ontplooiing van een partnerschap dat is gebaseerd op particulier initiatief, de historische keuze van zowel de Gemeenschap als het Koninkrijk Marokko, en een gunstig klimaat schept voor de ontwikkeling van hun economische en commerciële betrekkingen en voor investeringen, een onontbeerlijke factor voor de ondersteuning van economische herstructurering en technologische modernisering,   Zijn als volgt overeengekomen : <sup>  [Red: De oorspronkelijke Bijlagen en de Protocollen 1 en 3 bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn gepubliceerd in PbEG 2000, L 70, PbEU 2003, L 345 en PbEU 2005, L 242.]  </sup>    
 
 ### Artikel  1  
 
@@ -64,7 +64,7 @@ d. zo nodig met gebruikmaking van alle andere middelen die kunnen bijdragen tot 
 
 ### Artikel  6  
 
-De Gemeenschap en Marokko brengen in de loop van een overgangsperiode van ten hoogste 12 jaar, te beginnen bij de inwerkingtreding van deze overeenkomst, geleidelijk een vrijhandelszone tot stand, overeenkomstig de hierna omschreven bepalingen en in overeenstemming met de bepalingen van de Algemene Overeenkomst inzake Tarieven en Handel van 1994 en andere multilaterale overeenkomsten inzake de handel in goederen die opgenomen zijn in bijlagen bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO), hierna „GATT" te noemen.  
+De Gemeenschap en Marokko brengen in de loop van een overgangsperiode van ten hoogste 12 jaar, te beginnen bij de inwerkingtreding van deze overeenkomst, geleidelijk een vrijhandelszone tot stand, overeenkomstig de hierna omschreven bepalingen en in overeenstemming met de bepalingen van de Algemene Overeenkomst inzake Tarieven en Handel van 1994 en andere multilaterale overeenkomsten inzake de handel in goederen die opgenomen zijn in bijlagen bij de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO), hierna „GATT” te noemen.  
 
 ### HOOFDSTUK  I  
 
@@ -72,7 +72,7 @@ De Gemeenschap en Marokko brengen in de loop van een overgangsperiode van ten ho
 
 ### Artikel  7  
 
-De bepalingen van dit hoofdstuk zijn van toepassing op produkten van oorsprong uit de Gemeenschap en Marokko, met uitzondering van de in bijlage II van het Verdrag tot oprichting van de Europese Gemeenschap genoemde produkten.  
+De bepalingen van dit hoofdstuk zijn van toepassing op producten van oorsprong uit de Europese Unie en Marokko, met uitzondering van de producten die zijn genoemd in de hoofdstukken 1 tot en met 24 van de gecombineerde nomenclatuur (GN) en in bijlage 1, punt 1, onder ii), bij de WTO-overeenkomst inzake de landbouw.  
 
 ### Artikel  8  
 
@@ -81,15 +81,6 @@ Er worden geen nieuwe invoerrechten of heffingen van gelijke werking ingesteld i
 ### Artikel  9  
 
 Produkten van oorsprong uit Marokko worden bij invoer in de Gemeenschap toegelaten met vrijstelling van douanerechten of heffingen van gelijke werking.  
-
-### Artikel  10  
-
-1.  De bepalingen van dit hoofdstuk vormen geen beletsel voor het door de Gemeenschap handhaven van een landbouwelement bij invoer van de in bijlage I genoemde produkten van oorsprong uit Marokko. Dit landbouwelement houdt verband met de verschillen in prijs op de markt van de Gemeenschap van de landbouwprodukten die geacht worden in deze goederen te zijn verwerkt en de prijs van uit derde landen ingevoerde produkten, wanneer de totale kosten van genoemde basisprodukten hoger zijn in de Gemeenschap. Het landbouwelement kan de vorm van een vast bedrag of een ad valorem recht aannemen. Zo nodig kunnen specifieke rechten worden ingesteld, waarbij rekening wordt gehouden met de hoogte van het landbouwelement, of ad valorem rechten. De op landbouwprodukten van toepassing zijnde bepalingen van hoofdstuk 2 zijn mutatis mutandis van toepassing op het landbouwelement.   
-2.  De bepalingen van dit hoofdstuk vormen geen beletsel voor Marokko om in de rechten die van toepassing zijn bij invoer van de in bijlage 2 genoemde produkten van oorsprong uit de Gemeenschap een landbouwelement te onderscheiden. Het landbouwelement kan de vorm van een vast bedrag of een ad valorem recht aannemen. De op landbouwprodukten van toepassing zijnde bepalingen van hoofdstuk 2 zijn mutatis mutandis van toepassing op het landbouwelement.   
-3.  Op de in lijst 1 van bijlage 2 opgenomen produkten van oorsprong uit de Gemeenschap past Marokko bij de inwerkingtreding van deze Overeenkomst geen hogere invoerrechten en heffingen van gelijke werking toe dan die welke op 1 januari 1995 van toepassing waren binnen de grenzen van de in genoemde lijst opgenomen tariefcontingenten. In de loop van de afschaffing van het industrie-element in de rechten, overeenkomstig het bepaalde in lid 4, worden op de produkten voor welke de tariefcontingenten worden opgeheven, geen hogere rechten toegepast dan die welke op 1 januari 1995 van toepassing waren.   
-4.  Voor de in lijst 2 van bijlage 2 opgenomen produkten van oorsprong uit de Gemeenschap schaft Marokko het industrie-element af overeenkomstig de bepalingen van artikel 11, lid 2, van deze Overeenkomst voor de produkten van bijlage 3. Voor de in lijsten 1 en 3 van bijlage 2 opgenomen produkten van oorsprong uit de Gemeenschap schaft Marokko het industrie-element af overeenkomstig de bepalingen van artikel 11, lid 3, van deze Overeenkomst voor de produkten van bijlage 4.   
-5.  De overeenkomstig de leden 1 en 2 toegepaste landbouwelementen kunnen worden verminderd wanneer in het handelsverkeer tussen de Gemeenschap en Marokko de op een basislandbouwprodukt toegepaste heffing is verlaagd of wanneer deze verminderingen het gevolg zijn van wederzijdse concessies op het gebied van verwerkte landbouwprodukten.   
-6.  De in lid 5 bedoelde vermindering, de lijst van betrokken produkten en, in voorkomend geval, de tariefcontingenten, waarvoor de verlagingen gelden, worden door de Associatieraad vastgesteld.   
 
 ### Artikel  11  
 
@@ -121,11 +112,11 @@ De bepalingen betreffende de afschaffing van de invoerrechten zijn eveneens van 
 
 ### HOOFDSTUK  II  
 
-####LANDBOUWPRODUKTEN EN VISSERIJPRODUKTEN
+####LANDBOUWPRODUCTEN, VERWERKTE LANDBOUWPRODUCTEN, VIS EN VISSERIJPRODUCTEN
 
 ### Artikel  15  
 
-De bepalingen van dit hoofdstuk zijn van toepassing op de in bijlage II bij het Verdrag tot oprichting van de Europese Gemeenschap bedoelde produkten van oorsprong uit de Gemeenschap en Marokko.  
+Met „landbouwproducten”, „verwerkte landbouwproducten” en „vis en visserijproducten” worden de producten bedoeld die zijn genoemd in de hoofdstukken 1 tot en met 24 van de gecombineerde nomenclatuur (GN) en in bijlage 1, punt 1, onder ii), bij de WTO-overeenkomst inzake de landbouw.  
 
 ### Artikel  16  
 
@@ -133,12 +124,12 @@ De Gemeenschap en Marokko stellen geleidelijk een grotere liberalisering in van 
 
 ### Artikel  17  
 
-1.  Op de landbouw- en visserijprodukten van oorsprong uit Marokko zijn bij invoer in de Gemeenschap de bepalingen van respectievelijk Protocol nr. 1 en nr. 2 van toepassing.   
-2.  Op de landbouwprodukten van oorsprong uit de Gemeenschap zijn bij invoer in Marokko de bepalingen van Protocol nr. 3 van toepassing.   
+1.  Voor de invoer in de Gemeenschap van de in Protocol nr. 1 genoemde landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit Marokko gelden de regelingen van dat protocol. De bepalingen van dit hoofdstuk vormen geen beletsel voor het door de Unie handhaven van een agrarisch element bij de invoer van fructose (GN-code 17025000) van oorsprong uit Marokko. Dit agrarisch element houdt verband met de verschillen in prijs op de markt van de Unie van de landbouwproducten die geacht worden bij de productie van fructose te zijn gebruikt, en de prijs van dergelijke uit derde landen ingevoerde producten.   
+2.  Voor de invoer in Marokko van de in Protocol nr. 2 genoemde landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit de Europese Unie gelden de regelingen van dat protocol. De bepalingen van dit hoofdstuk vormen geen beletsel voor Marokko om een agrarisch element te onderscheiden in de rechten die van toepassing zijn bij invoer van producten van GS-code 1902 (deegwaren) die vermeld zijn in de aan Protocol nr. 2 gehechte lijst 3.   
 
 ### Artikel  18  
 
-1.  Met ingang van 1 januari 2007 onderzoeken de Gemeenschap en Marokko de situatie met het oog op de vaststelling van de door de Gemeenschap en Marokko met ingang van 1 januari 2008 toe te passen liberaliseringsmaatregelen in overeenstemming met de in artikel 16 opgenomen doelstelling.   
+1.  De partijen komen uiterlijk drie jaar na de datum van inwerkingtreding van deze overeenkomst bijeen om na te gaan of het mogelijk is om de preferentiële concessies wederzijds te verbeteren, zulks rekening houdend met het landbouwbeleid en met de gevoeligheid en de specifieke kenmerken van elk betrokken product.   
 2.  Onverminderd de in lid 1 opgenomen bepalingen en rekening houdend met de handelsstromen voor landbouwprodukten tussen de partijen, en de bijzondere gevoeligheid van deze produkten, onderzoeken de Gemeenschap en Marokko binnen de Associatieraad, produkt per produkt, en op basis van wederkerigheid, de mogelijkheid om elkaar op passende wijze concessies te doen.   
 
 ### HOOFDSTUK  III  
@@ -224,7 +215,7 @@ In het handelsverkeer tussen de twee partijen worden de goederen ingedeeld overe
 ### Artikel  31  
 
 1.  De partijen komen overeen de toepassingssfeer van deze Overeenkomst uit te breiden tot het recht van vestiging van vennootschappen van een Partij op het grondgebied van de andere Partij en de liberalisering van de dienstverlening door vennootschappen van een Partij aan ontvangers van diensten in een andere Partij.   
-2.  De Associatieraad doet de nodige aanbevelingen voor de uitvoering van de in lid 1 vermelde doelstelling. Bij het opstellen van deze aanbevelingen houdt de Associatieraad rekening met de opgedane ervaring bij de wederzijdse toekenning van de meestbegunstigingsbehandeling en met de respectieve verplichtingen van de partijen overeenkomstig de aan de Overeenkomst tot oprichting van de WTO gehechte Algemene Overeenkomst inzake de Handel in Diensten, hierna „GATS" te noemen, met name artikel V.   
+2.  De Associatieraad doet de nodige aanbevelingen voor de uitvoering van de in lid 1 vermelde doelstelling. Bij het opstellen van deze aanbevelingen houdt de Associatieraad rekening met de opgedane ervaring bij de wederzijdse toekenning van de meestbegunstigingsbehandeling en met de respectieve verplichtingen van de partijen overeenkomstig de aan de Overeenkomst tot oprichting van de WTO gehechte Algemene Overeenkomst inzake de Handel in Diensten, hierna „GATS” te noemen, met name artikel V.   
 3.  De Associatieraad verricht op zijn laatst vijf jaar na de inwerkingtreding van deze Overeenkomst een eerste onderzoek naar de verwezenlijking van deze doelstelling.   
 4.  Onverminderd lid 3 verricht de Associatieraad bij de inwerkingtreding van deze Overeenkomst een onderzoek naar de sector internationaal zeevervoer teneinde aanbevelingen te doen voor de meest passende liberaliseringsmaatregelen. De Associatieraad houdt rekening met de resultaten van de onderhandelingen die op dit gebied zijn gevoerd in het kader van de GATS na de afsluiting van de Uruguay-Ronde.   
 
@@ -734,7 +725,8 @@ De Associatieraad heeft, voor de verwezenlijking van de doelstellingen van deze 
 1.  Hierbij wordt een Associatiecomité opgericht, dat toezicht houdt op het beheer van deze Overeenkomst, onder voorbehoud van de aan de Raad toegekende bevoegdheden.   
 2.  De Associatieraad kan alle of een deel van zijn bevoegdheden aan het Associatiecomité delegeren.   
 
-### Artikel  82  
+### Artikel  82   
+Wordt voorlopig toegepast per 01-05-2004   
 
 1.  Het Associatiecomité vergadert op het niveau van hoge ambtenaren en bestaat uit vertegenwoordigers van de leden van de Raad van de Europese Unie en van leden van de Commissie van de Europese Gemeenschappen, enerzijds, en uit vertegenwoordigers van de regering van het Koninkrijk Marokko anderzijds.   
 2.  Het Associatiecomité stelt zijn reglement van orde vast.   
@@ -819,61 +811,242 @@ Deze Overeenkomst is opgesteld in tweevoud in de Deense, de Duitse, de Engelse, 
 
 GEDAAN te Brussel, de zesentwintigste februari negentienhonderdzesennegentig.  
 
-### Protocol  nr. 2  
+### Protocol  Nr. 1  
 
-####betreffende de regeling die van toepassing is op de invoer in de gemeenschap van visserijprodukten van oorsprong uit Marokko
+####betreffende de regeling die bij de invoer in de Europese Unie van landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit het Koninkrijk Marokko van toepassing is
+
+Voor de invoer in de Europese Unie van landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit Marokko gelden de hieronder vastgestelde voorwaarden.    
+
+### TITEL  I  
+
+####ALGEMENE BEPALINGEN
 
 ### Artikel  1  
 
-De hieronder vermelde produkten van oorsprong uit Marokko kunnen vrij van douanerechten in de Gemeenschap worden ingevoerd:  
+1.  In verband met de versnelde liberalisering van de bilaterale handel in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten tussen het Koninkrijk Marokko en de Europese Unie hebben beide partijen, overeenkomstig de Euro-mediterrane routekaart van Rabat 2005 voor de liberalisering van de handel in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten, nieuwe bepalingen en concessies vastgesteld.   
+2.  Deze nieuwe bepalingen en concessies, zoals neergelegd in de hierna volgende specifieke bepalingen, gelden voor de bilaterale handel van beide partijen in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten.   
 
-| GN-code  | Omschrijving  |
-|---|---|
-| Hoofdstuk 3  | Vis, schaaldieren, weekdieren en andere ongewervelde waterdieren  |
-| 1604 11 00  | Zalm  |
-| 1604 12  | Haring  |
-| 1604 13 90  | Andere  |
-| 1604 14  | Tonijn, boniet en bonito (Sarda spp.)  |
-| 1604 15  | Makreel  |
-| 1604 16 00  | Ansjovis  |
-| 1604 19 10  | Zalmvissen, andere dan zalm  |
-| 1604 19 31  | Vis van het geslacht Euthynnus andere dan boniet [Euthynnus  |
-| 1604 19 39  | (Katsuwonus) pelamis]  |
-| 1604 19 50  | Vis van de soort Orcynopsis unicolor  |
-| 1604 19 91  t/m 1604 19 98  | Andere  |
-| 1604 20  | Andere bereidingen en conserven  |
-| 1604 20 05  | Bereidingen van surimi  |
-| 1604 20 10  | van zalm  |
-| 1604 20 30  | van andere zalmvissen  |
-| 1604 20 40  | van ansjovis  |
-| ex 1604 20 50  | van bonito, van makreel van de soorten Scomber scombrus en Scomber japonicus en van vis van de soort Orcynopsis unicolor  |
-| 1604 20 70  | van tonijn, van boniet en van andere vis van het geslacht Euthynnus  |
-| 1604 20 90  | van andere vissoorten  |
-| 1604 30  | Kaviaar en kaviaarsurrogaten  |
-| 1605 10 00  | Krab  |
-| 1605 20  | Garnaal  |
-| 1605 30 00  | Zeekreeft  |
-| 1605 40 00  | Andere schaaldieren  |
-| 1605 90 11  | Mossel (Mytilus spp., Perna spp.), in luchtdichte verpakkingen  |
-| 1605 90 19  | Andere mosselen  |
-| 1605 90 30  | Andere weekdieren  |
-| 1902 20 10  | Gevulde deegwaren (ook indien gekookt of op andere wijze bereid), bevattende meer dan 20 gewichtspercenten vis, schaal- of weekdieren of andere ongewervelde waterdieren  |
+### TITEL  II  
+
+####SPECIFIEKE BEPALINGEN
 
 ### Artikel  2  
 
-Op de invoer, in de Gemeenschap, van bereidingen en conserven van sardines bedoeld bij de GN-codes 1604 13 11, 1604 13 19 en 1604 20 50, van oorsprong uit Marokko, is de in artikel 1 vastgestelde regeling van toepassing, onder voorbehoud van de onderstaande voorwaarden: Voor de periode van 1 januari tot en met 31 december 1996: 
+####Tariefbepalingen
 
-– toepassing van de tariefvrijstelling in het kader van een communautair tariefcontingent van 19.500 ton;  
+1.  Op de datum van inwerkingtreding van het onderhavige protocol worden de douanerechten (ad valorem en specifiek) bij invoer in de Europese Unie van landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit Marokko afgeschaft, tenzij anders is bepaald in de leden 2 en 3 voor landbouwproducten en in artikel 5 voor verwerkte landbouwproducten.   
+2.  Voor de in de bijlage bij het onderhavige protocol genoemde producten van oorsprong uit Marokko worden de douanerechten binnen de grenzen van de tariefcontingenten die voor elk van die producten in kolom b zijn vermeld, verlaagd met het in kolom a vermelde percentage. Voor de hoeveelheden die de tariefcontingenten overschrijden, worden de douanerechten verlaagd met het voor elk van die producten in kolom c vermelde percentage.   
+3.  In afwijking van de leden 1 en 2 geldt het volgende: 
 
-– voor de boven dit contingent ingevoerde hoeveelheden, toepassing van een douanerecht van 6 %.   Voor de periode van 1 januari tot en met 31 december 1997: 
+a) voor de producten waarop, enerzijds, invoerprijzen overeenkomstig artikel 140 bis van Verordening (EG) nr. 1234/2007 van de Raad en, anderzijds, ad-valoremdouanerechten en specifieke douanerechten overeenkomstig het gemeenschappelijk douanetarief van toepassing zijn, is de afschaffing alleen van toepassing op het ad-valoremgedeelte; <sup> 2)  PB L 299 van 16.11.2007, blz. 1.  </sup>  
 
-– toepassing van de tariefvrijstelling in het kader van een communautair tariefcontingent van 21.000 ton;  
+b) voor de producten in onderstaande tabel zijn de conventionele invoerprijzen op basis waarvan de specifieke rechten in de aangegeven perioden tot nul worden verlaagd, gelijk aan de hieronder aangegeven prijzen en wordt het ad-valoremrecht afgeschaft binnen de grenzen van de in de bijlage bij het onderhavige protocol vastgestelde tariefcontingenten en voor onbeperkte hoeveelheden bij de producten van de GN-codes 07099080, 08051020, 08061010, 08091000 en 30.  
 
-– voor de boven dit contingent ingevoerde hoeveelheden, toepassing van een douanerecht van 5 %.   Voor de periode van 1 januari tot en met 31 december 1998: 
+| GN-code  | Product  | Periode  | Conventionele invoerprijs (EUR/100 kg)  |
+|---|---|---|---|
+| 0702 00 00  | Tomaten, vers of gekoeld  | 1.10-31.5  | 46,1  |
+| 0707 00 05  | Komkommers, vers of gekoeld  | 1.11-31.5  | 44,9  |
+| 0709 90 70  | Kleine pompoenen (zogenaamde courgettes), vers of gekoeld  | 1.10-31.1  1.2-31.3  1.4-20.4  | 42,4  41,3  42,4  |
+| 0709 90 80  | Artisjokken, vers of gekoeld  | 1.11-31.12  | 57,1  |
+| 0805 10 20  | Sinaasappelen, andere dan pomeransen (bittere oranjeappelen), vers  | 1.12-31.5  | 26,4  |
+| 0805 20 10  | Clementines, vers  | 1.11-eind februari  | 48,4  |
+| 0806 10 10  | Druiven voor tafelgebruik  | 21.7-20.11  | 35,8  |
+| 0809 10 00  | Abrikozen, vers  | 1.6-31.7  | 64,5  |
+| 0809 30  | Perziken (nectarines daaronder begrepen), vers  | 11.6-30.9  | 49,1  |
 
-– toepassing van de tariefvrijstelling in het kader van een communautair tariefcontingent van 22.500 ton;  
+Voor de producten in bovenstaande tabel geldt hetgeen hieronder volgt: Indien de invoerprijs van een zending 2, 4, 6 of 8 % lager is dan de conventionele invoerprijs, bedraagt het specifieke preferentiële douanerecht respectievelijk 2, 4, 6 of 8 % van die conventionele invoerprijs; Indien de invoerprijs van een zending minder dan 92 % van de conventionele invoerprijs bedraagt, dan is het in de WTO geconsolideerde specifieke douanerecht van toepassing; De conventionele invoerprijzen worden in dezelfde verhouding en hetzelfde tempo verlaagd als de in het kader van de WTO geconsolideerde invoerprijzen;  
 
-– voor de boven dit contingent ingevoerde hoeveelheden, toepassing van een douanerecht van 4 %.    
+c) voor de producten van de GN-codes 1701 en 1702, behalve de GN-codes 17021100, ex17023050, ex17023090 (lactose en chemisch zuivere, al van douanerechten vrijgestelde glucose) en behalve het in de bijlage bij het onderhavige protocol genoemde product van GN-code 17025000, geldt geen enkele preferentiële tariefconcessie.     
+4.  Voor de producten van de GN-codes 07070005 en 07099070 wordt de omvang van de tariefcontingenten verhoogd in vier gelijke tranches van elk 3 % van de hoeveelheden die zijn vermeld in kolom b in de bijlage bij het onderhavige protocol. De eerste verhoging vindt plaats op de datum van de tweede opening van elk tariefcontingent na de inwerkingtreding van het onderhavige protocol.   
+5.  Voor het eerste toepassingsjaar van het onderhavige protocol wordt de omvang van de tariefcontingenten waarvan de toepassingsperiode is begonnen vóór de datum van inwerkingtreding van het onderhavige protocol, berekend in verhouding tot het basisvolume, rekening houdend met het gedeelte van de periode dat op de datum van inwerkingtreding van het onderhavige protocol reeds is verstreken.   
+
+### Artikel  3  
+
+####Tomaten
+
+1.  Tomaten, vers of gekoeld, van GN-code 07020000 valt voor elke periode van 1 oktober tot en met 31 mei, hierna „verkoopseizoen” genoemd, de in de bijlage bij het onderhavige protocol vermelde preferentiële behandeling ten deel overeenkomstig de maandelijkse tariefcontingenten en het aanvullende tariefcontinent zoals hieronder aangegeven:  
+
+| Maandelijks basistariefcontingent  | Verkoopsei-zoen 2011/2012  | Verkoopsei-zoen 2012/2013  | Verkoopsei-zoen 2013/2014  | Verkoopsei-zoen 2014/2015  | Verkoopseizoen 2015/2016 en volgende  |
+|---|---|---|---|---|---|
+| Oktober  | 12 900  | 13 350  | 13 800  | 14 250  | 14 700  |
+| November  | 33 700  | 34 900  | 36 100  | 37 300  | 38 500  |
+| December  | 38 100  | 39 450  | 40 800  | 42 150  | 43 500  |
+| Januari  | 38 100  | 39 450  | 40 800  | 42 150  | 43 500  |
+| Februari  | 38 100  | 39 450  | 40 800  | 42 150  | 43 500  |
+| Maart  | 38 100  | 39 450  | 40 800  | 42 150  | 43 500  |
+| April  | 20 000  | 20 700  | 21 400  | 22 100  | 22 800  |
+| Mei  | 6 000  | 6 250  | 6 500  | 6 750  | 7 000  |
+| Totaal  | 225 000  | 233 000  | 241 000  | 249 000  | 257 000  |
+| Aanvullend tariefcontingent (van 1 november tot en met 31 mei)  | 28 000  | 28 000  | 28 000  | 28 000  | 28 000  |
+
+2.  Marokko verbindt zich ertoe in een bepaalde maand niet meer dan 30 % van het aanvullende tariefcontingent te benutten.   
+3.  In elk verkoopseizoen worden op 15 januari en op de tweede werkdag na 1 april de afboekingen op de van oktober tot en met december, respectievelijk van januari tot en maart geldende maandelijkse basistariefcontingenten beëindigd. Op de daaropvolgende werkdag bepalen de diensten van de Commissie het ongebruikte saldo van deze maandelijkse basiscontingenten en boeken deze over naar het aanvullende contingent voor dat verkoopseizoen. Vanaf deze data worden aanvragen om met terugwerkende kracht gebruik te maken van een van de stopgezette maandelijkse basistariefcontingenten die in de maanden november, december en januari tot en met maart gelden, en eventuele terugboekingen van ongebruikte hoeveelheden van deze stopgezette maandelijkse basiscontingenten toegerekend aan het voor dat verkoopseizoen geldende aanvullende tariefcontingent.   
+4.  Marokko deelt de diensten van de Commissie binnen een termijn die een nauwkeurige en betrouwbare kennisgeving mogelijk maakt, de hoeveelheden mee die wekelijks naar de Europese Unie worden uitgevoerd. Deze termijn mag in geen geval meer dan 15 dagen bedragen.   
+
+### Artikel  4  
+
+####Samenwerking
+
+1.  De in artikel 2, leden 2 en 3, en artikel 3 overeengekomen specifieke regeling heeft tot doel de traditionele uitvoer uit Marokko naar de Europese Unie in stand te houden en verstoring van de communautaire markten te voorkomen.   
+2.  Om dit doel volledig te kunnen bereiken en de marktstabiliteit en de continue voorziening in de sector groenten en fruit te verbeteren, raadplegen beide partijen elkaar ten minste eenmaal per jaar, dan wel op enig ander tijdstip binnen ten hoogste vijf werkdagen nadat een van de partijen een daartoe strekkend verzoek heeft gedaan.   
+3.  Het overleg heeft betrekking op de handel in het vorige verkoopseizoen en op de vooruitzichten voor het volgende verkoopseizoen, met name wat betreft de marktsituatie, de productievooruitzichten, de verwachte producenten- en uitvoerprijzen, de mogelijke ontwikkeling van de markten en de uitvoeringsbepalingen voor de specifieke regelingen krachtens artikel 2, lid 3, en artikel 3. Bij dit overleg kunnen de partijen zo nodig door deskundigen of vertegenwoordigers uit de sector worden bijgestaan.   
+
+### Artikel  5  
+
+####Verwerkte landbouwproducten
+
+1.  Voor de hierna volgende producten met een gehalte aan sacharose of isoglucose van 70 % of meer geldt een bijzonder toezichtmechanisme:  
+
+| GN-code <sup>1)</sup>  | Omschrijving <sup>2)</sup>  |
+|---|---|
+| ex 17049099  | Ander suikerwerk zonder cacao, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+| ex 18061030  | Cacaopoeder, waaraan suiker of andere zoetstoffen zijn toegevoegd, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte, berekend als sacharose, van 70 of meer doch minder dan 80 gewichtspercenten  |
+| 18061090  | Cacaopoeder, waaraan suiker of andere zoetstoffen zijn toegevoegd, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte, berekend als sacharose, van 80 of meer gewichtspercenten  |
+| ex 18062095  | Andere bereidingen voor menselijke consumptie die cacao bevatten, hetzij in blokken of in staven, met een gewicht van meer dan 2 kg, hetzij in vloeibare toestand of in de vorm van pasta, poeder, korrels of dergelijke, in recipiënten of in andere verpakkingen, met een inhoud per onmiddellijke verpakking van meer dan 2 kg, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+| ex 19019099  | Andere bereidingen voor menselijke consumptie van meel, gries, griesmeel, zetmeel of moutextract, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+| ex 21011298  | Preparaten op basis van koffie, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+| ex 21012098  | Preparaten op basis van thee of van maté, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+| ex 21069059  | Andere suikerstroop, gearomatiseerd of met toegevoegde kleurstoffen, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+| ex21069098  | Andere producten voor menselijke consumptie, elders genoemd noch elders onder begrepen, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+| ex 33021029  | Andere mengsels en bereidingen op basis van reukstoffen, van de soort gebruikt in de drankenindustrie, met een sacharosegehalte (het gehalte aan invertsuiker, berekend als sacharose, daaronder begrepen) of met een isoglucosegehalte van 70 of meer gewichtspercenten  |
+
+<sup>1)</sup> GN-codes overeenkomstig Verordening (EG) nr. 1031/2008 (PB L 291 van 31.10.2008, blz. 1). <sup>2)</sup> Onverminderd de regels voor de interpretatie van de gecombineerde nomenclatuur dient de tekst van de productomschrijving als louter indicatief te worden beschouwd, aangezien het preferentiestelsel in het kader van deze bijlage door de draagwijdte van de GN-codes wordt bepaald. Voor ex GN-codes is de draagwijdte van zowel de GN-code als de omschrijving bepalend.   
+2.  Wanneer de ingevoerde hoeveelheid van de in lid 1 genoemde producten van oorsprong uit Marokko in het lopende kalenderjaar cumulatief met meer dan 20 % is gestegen ten opzichte van de gemiddelde jaarlijkse invoer over de drie voorgaande kalenderjaren, schorst de Europese Unie de preferentiële behandeling in het lopende kalenderjaar.   
+3.  Lid 2 is niet van toepassing indien de totale ingevoerde hoeveelheid vanaf het begin van het lopende kalenderjaar voor alle in lid 1 genoemde producten minder dan 5000 ton bedraagt.   
+4.  Binnen vijf werkdagen nadat de schorsing van de preferentiële behandeling van kracht is geworden, plegen de partijen overleg om samen de marktsituatie te beoordelen, zowel in kwantitatief opzicht als wat betreft de indeling van de betrokken producten in het douanetarief, teneinde tot een akkoord over de voorwaarden voor de herinvoering van de preferentiële behandeling te komen.   
+5.  Zodra aan de in lid 4 bedoelde voorwaarden is voldaan, stelt de Europese Unie binnen ten hoogste 15 werkdagen de maatregelen vast om de schorsing met onmiddellijke ingang op te heffen. De preferentiële behandeling wordt evenwel in elk geval weer ingesteld: 
+
+– uiterlijk aan het begin van het volgende jaar indien de schorsing vóór 30 juni ingaat;  
+
+– binnen ten hoogste zes maanden na de vankrachtwording van de schorsing, indien deze na 30 juni ingaat.     
+6.  Uiterlijk drie jaar na de inwerkingtreding van het onderhavige protocol komen de partijen bijeen om de werking van dit toezichtsmechanisme gezamenlijk te toetsen.   
+
+### Artikel  6  
+
+####Rendez-vousclausule
+
+De partijen komen uiterlijk drie jaar na de datum van inwerkingtreding van deze overeenkomst bijeen om na te gaan of het mogelijk is om de preferentiële concessies wederzijds te verbeteren, zulks rekening houdend met het landbouwbeleid en met de gevoeligheid en de specifieke kenmerken van elk betrokken product.  
+
+### Artikel  7  
+
+####Vrijwaringsmaatregel
+
+Onverminderd de artikelen 25, 26 en 27 van de overeenkomst openen de partijen, indien de bijzondere gevoeligheid van de landbouwmarkten tot gevolg heeft dat een verhoogde invoer van producten van oorsprong uit Marokko waarop de krachtens dit protocol verleende concessies van toepassing zijn, ernstige problemen veroorzaakt op de markt en/of de productiesector ernstig schaadt, onverwijld overleg om een passende oplossing voor de problemen te vinden. In afwachting van deze oplossing mag de importerende partij de maatregelen nemen die zij noodzakelijk acht. De vrijwaringsmaatregel uit hoofde van de vorige alinea mag voor ten hoogste één jaar worden toegepast en mag slechts eenmaal worden verlengd nadat het associatiecomité een daartoe strekkend besluit heeft genomen.  
+
+### Artikel  8  
+
+####Sanitaire en fytosanitaire bepalingen, technische voorschriften, normen
+
+Om de belemmeringen voor de handel in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten weg te nemen, passen de partijen in het kader van hun bilaterale handel de hierna volgende sanitaire en fytosanitaire bepalingen, technische voorschriften en normen toe: 
+
+1. De rechten en plichten van de partijen op het gebied van de sanitaire en fytosanitaire maatregelen vloeien voort uit de WTO-overeenkomst inzake sanitaire en fytosanitaire maatregelen (de SPS-overeenkomst).  
+
+2. Bij de toepassing van de sanitaire en fytosanitaire maatregelen wordt rekening gehouden met de normen, procedures en aanbevelingen van de internationale normalisatieorganisaties (de Commissie van de Codex Alimentarius, de Wereldorganisatie voor diergezondheid, het Internationaal Bureau voor besmettelijke veeziekten, het Internationaal Verdrag voor de bescherming van planten en de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee).  
+
+3. Ten aanzien van de rechten en plichten van de partijen op het gebied van de technische voorschriften, de normen en de conformiteitsbeoordeling gelden de bepalingen van de WTO-overeenkomst inzake technische handelsbelemmeringen (TBT-overeenkomst).  
+
+4. De partijen stellen elkaar in kennis van de namen en contactgegevens van de contactpunten om de behandeling en oplossing van problemen in verband met de toepassing van de leden 1, 2 en 3 te vergemakkelijken.    
+
+### Artikel  9  
+
+####Geografische aanduidingen
+
+De partijen hebben overeenkomstig de Euro-mediterrane routekaart voor de landbouw 2005 besprekingen gevoerd over de afzetbevordering, de valorisatie van kwaliteitsproducten en de bescherming van kwaliteitsmerken. Deze besprekingen hebben ertoe geleid dat de partijen, gezien hun gemeenschappelijke belang om een akkoord te sluiten over de bescherming van geografische aanduidingen voor landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten, zijn overeengekomen om binnen drie maanden na de inwerkingtreding van het onderhavige protocol onderhandelingen daarover te starten.  
+
+### Artikel  10  
+
+####Wijnen met oorsprongsbenaming
+
+Wijn met een geografische aanduiding van oorsprong uit Marokko met de vermelding „gecontroleerde oorsprongsbenaming” overeenkomstig het Marokkaanse recht moet vergezeld gaan van een document V I 1 of V I 2 zoals voorgeschreven in Verordening (EG) nr. 555/2008 , en met name artikel 50, lid 2, betreffende het bij invoer van wijn, druivensap en druivenmost voorgeschreven attest en analyseverslag. <sup> 3)  PB L 170 van 30.6.2008, blz. 1.  </sup>  
+
+### Protocol  nr. 2  
+
+####betreffende de regeling die bij de invoer in het Koninkrijk Marokko van landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit de Europese Unie van toepassing is
+
+Voor de invoer in het Koninkrijk Marokko van landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit de Europese Unie gelden de hieronder vastgestelde voorwaarden.    
+
+### TITEL  I  
+
+####ALGEMENE BEPALINGEN
+
+### Artikel  1  
+
+1.  In verband met de versnelde liberalisering van de bilaterale handel in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten tussen het Koninkrijk Marokko en de Europese Unie hebben beide partijen, overeenkomstig de Euro-mediterrane routekaart van Rabat 2005 voor de liberalisering van de handel in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten, nieuwe bepalingen en concessies vastgesteld.   
+2.  Deze nieuwe bepalingen en concessies, zoals neergelegd in de hierna volgende specifieke bepalingen, gelden voor de bilaterale handel van beide partijen in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten.   
+
+### TITEL  II  
+
+####SPECIFIEKE BEPALINGEN
+
+### Artikel  2  
+
+####Tariefbepalingen
+
+1.  Vanaf de datum van inwerkingtreding van het onderhavige protocol gelden voor de invoer in het Koninkrijk Marokko van landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten van oorsprong uit de Europese Unie de voorwaarden zoals vastgesteld in de lijsten 1, 2 en 3 bij het onderhavige protocol.   
+2.  De in lijst 1 bij het onderhavige protocol genoemde producten worden aan een liberaliseringsproces onderworpen waarbij de douanerechten vanaf de inwerkingtreding van de overeenkomst jaarlijks lineair (in gelijke tranches) worden afgebouwd overeenkomstig de volgende gegevens in kolom (a): 
+
+– G1: de douanerechten worden vanaf de inwerkingtreding van het onderhavige protocol afgeschaft;  
+
+– G2: de douanerechten worden vanaf de inwerkingtreding van het onderhavige protocol in vijf jaar lineair afgebouwd tot 0 %; voor de producten van deze groep die in kolom (a) met een asterix zijn gemarkeerd, bedraagt de periode van afbouw twee jaar, te rekenen vanaf 1 maart 2010;  
+
+– G3: de douanerechten worden vanaf de inwerkingtreding van het onderhavige protocol in tien jaar lineair afgebouwd tot 0 %.     
+3.  Onverminderd lid 2 worden voor de in lijst 2 bij het onderhavige protocol genoemde producten van oorsprong uit de Europese Unie de douanerechten binnen de grenzen van de tariefcontingenten die voor elk van die producten in kolom b zijn vermeld, verlaagd met het in kolom a vermelde percentage. Voor de hoeveelheden die de tariefcontingenten overschrijden, worden de douanerechten vanaf de inwerkingtreding van de overeenkomst lineair afgebouwd volgens het schema dat is vastgesteld voor groep G2 of G3, als genoemd in lid 2.   
+4.  Voor de producten van oorsprong uit de Europese Unie die niet worden geliberaliseerd en in lijst 3 bij het onderhavige protocol zijn vermeld, worden de douanerechten binnen de grenzen van de tariefcontingenten die voor elk van die producten in kolom b zijn vermeld, verlaagd met het in kolom a vermelde percentage. Op invoer buiten het quotum is het geldende MFN-recht van toepassing.   
+5.  Voor de producten van GS-code 1701 geldt geen enkele preferentiële tariefconcessie, behalve voor de in lijst 1 bij het onderhavige protocol opgenomen producten van de GS-codes 1701 99 10 11, 1701 99 10 19, 1701 99 20 00 en 1701 99 99 00.   
+
+### Artikel  3  
+
+####Granen
+
+1.  Voor granen van Marokkaanse code 1001 90 90 10 wordt het tariefcontingent overeenkomstig voetnoot 2 bij lijst 3 van het onderhavige protocol vastgesteld op basis van de Marokkaanse productie van het lopende jaar, zoals die in mei door de Marokkaanse autoriteiten geraamd en bekendgemaakt wordt. In voorkomend geval wordt dit contingent einde juli aangepast ingevolge een mededeling van de Marokkaanse autoriteiten waarin de definitieve omvang van de Marokkaanse productie wordt vastgesteld. Met wederzijds goedvinden van beide partijen kan het resultaat van deze aanpassing evenwel, naargelang van de uitkomsten van het in artikel 4 bedoelde overleg, met 5 % naar boven of naar beneden worden bijgesteld.   
+2.  Het bovenbedoelde tariefcontingent geldt niet voor juni en juli. De partijen spreken bij het in het voorgaande lid bedoelde overleg af dat zij zullen nagaan of het wenselijk is deze periode te verlengen in het licht van de vooruitzichten voor de Marokkaanse markt. Deze periode kan evenwel niet langer dan tot en met 31 augustus worden verlengd.   
+3.  Voor de in lijst 3 van het onderhavige protocol vermelde producten van code 1001 90 90 10 is het in kolom a aangegeven douanerecht het op 1 oktober 2003 toegepaste douanerecht, dat als maximum blijft gelden voor de berekening van de tariefverlaging. Wanneer het douanerecht na die datum erga omnes wordt verlaagd, wordt het in kolom „a” vermelde percentage als volgt gewijzigd: 
+
+– bij een verlaging erga omnes wordt het percentage met 0,275 % verhoogd voor elk procentpunt waarmee het douanerecht verlaagd wordt;  
+
+– bij een daaropvolgende verhoging erga omnes wordt het percentage met 0,275 % verlaagd voor elk procentpunt waarmee het douanerecht verhoogd wordt;  
+
+– bij nieuwe aanpassingen naar beneden of naar boven wordt het uit de toepassing van de voorgaande streepjes resulterende percentage volgens de desbetreffende formule gewijzigd.     
+4.  Wanneer Marokko na de inwerkingtreding van het onderhavige protocol [op grond van een internationale overeenkomst] een grotere tariefverlaging voor granen van Marokkaanse code 1001 90 90 10 aan een derde land toekent, verbindt het zich ertoe op autonome wijze dezelfde tariefverlaging aan de Europese Unie toe te kennen.   
+
+### Artikel  4  
+
+####Samenwerking
+
+1.  Om het beheer in het kader van artikel 3, lid 1, mogelijk te maken en de voorziening van de Marokkaanse markt, alsook de stabiliteit en de continuïteit ervan te garanderen, de marktprijzen in Marokko te stabiliseren en de traditionele handelsstromen in stand te houden, wordt in deze sector de volgende samenwerkingsregeling toegepast: vóór het begin van elk verkoopseizoen, doch uiterlijk in de eerste helft van juni, vindt overleg tussen beide partijen plaats.   
+2.  Tijdens dit overleg wordt de marktsituatie voor granen besproken, en met name de productievooruitzichten voor zachte tarwe in Marokko, de voorraadsituatie, het verbruik, de producentenprijzen, de mogelijke marktontwikkelingen en de mogelijkheden om het aanbod op de vraag af te stemmen.   
+
+### Artikel  5  
+
+####Rendez-vousclausule
+
+De partijen komen uiterlijk drie jaar na de datum van inwerkingtreding van onderhavig protocol bijeen om na te gaan of het mogelijk is om de preferentiële concessies wederzijds te verbeteren, zulks rekening houdend met het landbouwbeleid en met de gevoeligheid en de specifieke kenmerken van elk betrokken product.  
+
+### Artikel  6  
+
+####Vrijwaringsmaatregel
+
+Onverminderd de artikelen 25, 26 en 27 van de overeenkomst openen de partijen, indien de bijzondere gevoeligheid van de landbouwmarkten tot gevolg heeft dat een verhoogde invoer van producten van oorsprong uit de Europese Unie waarop de krachtens dit protocol verleende concessies van toepassing zijn, ernstige problemen veroorzaakt op de markt en/of de productiesector ernstig schaadt, onverwijld overleg om een passende oplossing voor de problemen te vinden. In afwachting van deze oplossing mag de importerende partij de maatregelen nemen die zij noodzakelijk acht. De vrijwaringsmaatregel uit hoofde van de vorige alinea mag voor ten hoogste één jaar worden toegepast en mag slechts eenmaal worden verlengd nadat het associatiecomité een daartoe strekkend besluit heeft genomen.  
+
+### Artikel  7  
+
+####Sanitaire en fytosanitaire bepalingen, technische voorschriften, normen
+
+Om de belemmeringen voor de handel in landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten weg te nemen, passen de partijen in het kader van hun bilaterale handel de hierna volgende sanitaire en fytosanitaire bepalingen, technische voorschriften en normen toe: 
+
+1. De rechten en plichten van de partijen op het gebied van de sanitaire en fytosanitaire maatregelen vloeien voort uit de WTO-overeenkomst inzake sanitaire en fytosanitaire maatregelen (de SPS-overeenkomst).  
+
+2. Bij de toepassing van de sanitaire en fytosanitaire maatregelen wordt rekening gehouden met de normen, procedures en aanbevelingen van de internationale normalisatieorganisaties (de Commissie van de Codex Alimentarius, de Wereldorganisatie voor diergezondheid, het Internationaal Bureau voor besmettelijke veeziekten, het Internationaal Verdrag voor de bescherming van planten en de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee).  
+
+3. Ten aanzien van de rechten en plichten van de partijen op het gebied van de technische voorschriften, de normen en de conformiteitsbeoordeling gelden de bepalingen van de WTO-overeenkomst inzake technische handelsbelemmeringen (TBT-overeenkomst).  
+
+4. De partijen stellen elkaar in kennis van de namen en contactgegevens van de contactpunten om de behandeling en oplossing van problemen in verband met de toepassing van de leden 1, 2 en 3 te vergemakkelijken.    
+
+### Artikel  8  
+
+####Geografische aanduidingen
+
+De partijen hebben overeenkomstig de Euro-mediterrane routekaart voor de landbouw 2005 besprekingen gevoerd over de afzetbevordering, de valorisatie van kwaliteitsproducten en de bescherming van kwaliteitsmerken. Deze besprekingen hebben ertoe geleid dat de partijen, gezien hun gemeenschappelijke belang om een akkoord te sluiten over de bescherming van geografische aanduidingen voor landbouwproducten, verwerkte landbouwproducten, vis en visserijproducten, zijn overeengekomen om binnen drie maanden na de inwerkingtreding van het onderhavige protocol onderhandelingen daarover te starten.  
 
 ### Protocol  nr. 4  
 
@@ -941,6 +1114,8 @@ b. in Marokko verkregen producten, waarin materialen zijn verwerkt die daar niet
 
 ####Cumulatie in de Gemeenschap
 
+Wordt voorlopig toegepast per 01-01-2007   
+
 1.  Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Zwitserland (met inbegrip van Liechtenstein) , IJsland, Noorwegen, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan. <sup> 1)  Het Vorstendom Liechtenstein heeft een douane-unie met Zwitserland en is partij bij de Overeenkomst betreffende de Europese Economische Ruimte.  </sup>   
 2.  Onverminderd artikel 2, lid 1, worden producten als van oorsprong uit de Gemeenschap beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Faeröer of een land dat deelneemt aan het Euro-mediterrane partnerschap, dat is gebaseerd op de Verklaring van Barcelona die werd vastgesteld tijdens de Euro-mediterrane conferentie van 27 en 28 november 1995, met uitzondering van Turkije, op voorwaarde dat deze materialen in de Gemeenschap be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.   
 3.  Indien de in de Gemeenschap verrichte be- of verwerkingen niet ingrijpender zijn dan de in artikel 7 bedoelde be- of verwerkingen, wordt het verkregen product enkel als van oorsprong uit de Gemeenschap beschouwd indien de aldaar toegevoegde waarde groter is dan die van de gebruikte materialen van oorsprong uit een van de andere dan in de leden 1 en 2 bedoelde landen. Is dit niet het geval, dan wordt het verkregen product beschouwd als van oorsprong uit het land dat de hoogste waarde vertegenwoordigt van de bij de vervaardiging in de Gemeenschap gebruikte materialen van oorsprong.   
@@ -957,6 +1132,8 @@ c. kennisgevingen zijn gepubliceerd waaruit blijkt dat is voldaan aan de vereist
 ### Artikel  4  
 
 ####Cumulatie in Marokko
+
+Wordt voorlopig toegepast per 01-01-2007   
 
 1.  Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Marokko beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit Zwitserland (met inbegrip van Liechtenstein) , IJsland, Noorwegen, Turkije of de Gemeenschap, op voorwaarde dat deze materialen in Marokko be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan. <sup> 2)  Het Vorstendom Liechtenstein heeft een douane-unie met Zwitserland en is partij bij de Overeenkomst betreffende de Europese Economische Ruimte.  </sup>   
 2.  Onverminderd artikel 2, lid 2, worden producten als van oorsprong uit Marokko beschouwd indien zij daar zijn verkregen door be- of verwerking van materialen van oorsprong uit de Faeröer of een land dat deelneemt aan het Euro-mediterrane partnerschap, dat gebaseerd is op de Verklaring van Barcelona die werd vastgesteld tijdens de Euro-mediterrane conferentie van 27 en 28 november 1995, met uitzondering van Turkije, op voorwaarde dat deze materialen in Marokko be- of verwerkingen hebben ondergaan die meer inhouden dan die welke in artikel 7 zijn genoemd. Het is niet noodzakelijk dat deze materialen toereikende be- of verwerkingen hebben ondergaan.   
@@ -1672,7 +1849,7 @@ De partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoer
 
 ### Slotakte  
 
-De gevolmachtigden van: het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, hierna „de Lid-Staten" te noemen, en van de Europese Gemeenschap en de Europese Gemeenschap voor Kolen en Staal, hierna „de Gemeenschap" te noemen, enerzijds, en de gevolmachtigden van het Koninkrijk „Marokko", hierna „Marokko" te noemen, anderzijds, bijeengekomen te Brussel op 26/02/1996, voor de ondertekening van de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en haar Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds, hierna de „Euro-mediterrane overeenkomst" te noemen, hebben de volgende teksten aangenomen: de Euro-mediterrane overeenkomst, de bijlagen daarbij en de volgende protocollen: Protocol nr. 1 betreffende de regeling die bij de invoer in de Gemeenschap van landbouwprodukten uit Marokko van toepassing is, Protocol nr. 2 betreffende de regeling die van toepassing is op de invoer in de Gemeenschap van visserijprodukten van oorsprong uit Marokko, Protocol nr. 3 betreffende de regeling die van toepassing is op de invoer in Marokko van landbouwprodukten van oorsprong uit de Gemeenschap, Protocol nr. 4 betreffende de definitie van het begrip „produkten van oorsprong" en de methoden van administratieve samenwerking, Protocol nr. 5 betreffende wederzijdse bijstand tussen administratieve autoriteiten in douanezaken. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Marokko hebben de volgende gemeenschappelijke verklaringen aangenomen, die aan deze Slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende artikel 5 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 10 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 12 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 33 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 39 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 42 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 43 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 49 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 50 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 51 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 64 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 65 van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 34, 35, 76 en 77 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 90 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 96 van de Overeenkomst Gemeenschappelijke verklaring betreffende textielprodukten Gemeenschappelijke verklaring betreffende de wedertoelating De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Marokko hebben eveneens kennis genomen van de overeenkomsten in de vorm van een briefwisseling die bij deze Slotakte zijn gevoegd: Overeenkomst in de vorm van een briefwisseling in verband met artikel 12, lid 1, betreffende de afschaffing van de referentieprijzen die Marokko toepast bij de invoer van bepaalde textielprodukten en kledingartikelen. Overeenkomst in de vorm van een briefwisseling in verband met artikel 1 van Protocol nr. 1 betreffende de invoer in de Gemeenschap van afgesneden bloemen, bloesems en bloemknoppen van onderverdeling 0603 10 van het gemeenschappelijk douanetarief. De gevolmachtigden van Marokko hebben kennis genomen van de volgende verklaring van de Europese Gemeenschap, die aan deze Slotakte is gehecht: Verklaring betreffende artikel 29 van de Overeenkomst. De gevolmachtigden van de Lid-Staten en van de Gemeenschap hebben kennis genomen van de volgende verklaringen van Marokko, die aan deze Slotakte zijn gehecht: 
+De gevolmachtigden van: het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, hierna „de Lid-Staten” te noemen, en van de Europese Gemeenschap en de Europese Gemeenschap voor Kolen en Staal, hierna „de Gemeenschap” te noemen, enerzijds, en de gevolmachtigden van het Koninkrijk „Marokko”, hierna „Marokko” te noemen, anderzijds, bijeengekomen te Brussel op 26/02/1996, voor de ondertekening van de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en haar Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds, hierna de „Euro-mediterrane overeenkomst” te noemen, hebben de volgende teksten aangenomen: de Euro-mediterrane overeenkomst, de bijlagen daarbij en de volgende protocollen: Protocol nr. 1 betreffende de regeling die bij de invoer in de Gemeenschap van landbouwprodukten uit Marokko van toepassing is, Protocol nr. 2 betreffende de regeling die van toepassing is op de invoer in de Gemeenschap van visserijprodukten van oorsprong uit Marokko, Protocol nr. 3 betreffende de regeling die van toepassing is op de invoer in Marokko van landbouwprodukten van oorsprong uit de Gemeenschap, Protocol nr. 4 betreffende de definitie van het begrip „produkten van oorsprong” en de methoden van administratieve samenwerking, Protocol nr. 5 betreffende wederzijdse bijstand tussen administratieve autoriteiten in douanezaken. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Marokko hebben de volgende gemeenschappelijke verklaringen aangenomen, die aan deze Slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende artikel 5 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 10 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 12 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 33 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 39 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 42 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 43 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 49 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 50 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 51 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 64 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 65 van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 34, 35, 76 en 77 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 90 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 96 van de Overeenkomst Gemeenschappelijke verklaring betreffende textielprodukten Gemeenschappelijke verklaring betreffende de wedertoelating De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigden van Marokko hebben eveneens kennis genomen van de overeenkomsten in de vorm van een briefwisseling die bij deze Slotakte zijn gevoegd: Overeenkomst in de vorm van een briefwisseling in verband met artikel 12, lid 1, betreffende de afschaffing van de referentieprijzen die Marokko toepast bij de invoer van bepaalde textielprodukten en kledingartikelen. Overeenkomst in de vorm van een briefwisseling in verband met artikel 1 van Protocol nr. 1 betreffende de invoer in de Gemeenschap van afgesneden bloemen, bloesems en bloemknoppen van onderverdeling 0603 10 van het gemeenschappelijk douanetarief. De gevolmachtigden van Marokko hebben kennis genomen van de volgende verklaring van de Europese Gemeenschap, die aan deze Slotakte is gehecht: Verklaring betreffende artikel 29 van de Overeenkomst. De gevolmachtigden van de Lid-Staten en van de Gemeenschap hebben kennis genomen van de volgende verklaringen van Marokko, die aan deze Slotakte zijn gehecht: 
 
 1. Verklaring betreffende de samenwerking op het gebied van kernenergie  
 
@@ -1723,7 +1900,7 @@ De partijen komen overeen zo spoedig mogelijk uitvoering te geven aan de in arti
 2. Wat betreft het ontbreken van discriminatie op het gebied van ontslag kan geen beroep op artikel 64, lid 1, van de overeenkomst worden gedaan voor de verlenging van een verblijfsvergunning. De toekenning, verlenging en weigering van een verblijfsvergunning valt uitsluitend onder de wetgeving van elke Lid-Staat en onder de tussen Marokko en die Lid-Staat van kracht zijnde overeenkomsten en bilaterale verdragen.   
 ###Gemeenschappelijke verklaring betreffende artikel 65 van de Overeenkomst
 
-Overeengekomen is dat de term „gezinsleden" wordt gedefinieerd volgens de nationale wetgeving van het betrokken gastland. 
+Overeengekomen is dat de term „gezinsleden” wordt gedefinieerd volgens de nationale wetgeving van het betrokken gastland. 
 ###Gemeenschappelijke verklaring betreffende de artikelen 34, 35, 76 en 77 van de Overeenkomst
 
 Indien zich voor Marokko tijdens de geleidelijke tenuitvoerlegging van de overeenkomst ernstige problemen in verband met de betalingsbalans voordoen, kunnen Marokko en de Gemeenschap overleg voeren over de meest geschikte middelen en modaliteiten om Marokko te helpen aan deze problemen het hoofd te bieden. Deze besprekingen vinden plaats in samenwerking met het Internationaal Monetair Fonds. 
@@ -1735,7 +1912,7 @@ Indien zich voor Marokko tijdens de geleidelijke tenuitvoerlegging van de overee
 
 – de schending van de in artikel 2 bedoelde essentiële onderdelen van de overeenkomst.    
 
-2. De partijen komen overeen dat de in artikel 90 bedoelde „passende maatregelen" bestaan uit maatregelen die zijn genomen overeenkomstig het internationaal recht. Indien een van de partijen in een bijzonder dringend geval een maatregel neemt uit hoofde van artikel 90 kan de andere partij een beroep doen op de procedure voor geschillenbeslechting.   
+2. De partijen komen overeen dat de in artikel 90 bedoelde „passende maatregelen” bestaan uit maatregelen die zijn genomen overeenkomstig het internationaal recht. Indien een van de partijen in een bijzonder dringend geval een maatregel neemt uit hoofde van artikel 90 kan de andere partij een beroep doen op de procedure voor geschillenbeslechting.   
 ###Gemeenschappelijke verklaring betreffende artikel 96 van de Overeenkomst
 
 Met de voordelen voor Marokko van de door Frankrijk toegekende regelingen uit hoofde van het protocol betreffende de goederen van oorsprong en van herkomst uit bepaalde landen onderworpen aan een bijzondere regeling bij invoer in een van de Lid-Staten, die is gehecht aan het Verdrag tot oprichting van de Europese Gemeenschap, is in deze overeenkomst rekening gehouden. Deze bijzondere regeling moet dan ook als opgeheven worden beschouwd met ingang van de inwerkingtreding van genoemde overeenkomst. 
@@ -1794,6 +1971,8 @@ De door Marokko erga omnes toegepaste referentieprijzen worden voor de produkten
 Ik moge U verzoeken mij te willen mededelen dat Uw Regering met het bovenstaande instemt.". Ik heb de eer U mede te delen dat mijn Regering met de inhoud van deze brief instemt. Gelieve, Mijnheer, de verzekering van mijn zeer bijzondere hoogachting te aanvaarden. Namens de Regering van het Koninkrijk Marokko   
 
 ####Overeenkomst in de vorm van een briefwisseling tussen de Europese Gemeenschap („de Gemeenschap") en het Koninkrijk Marokko in verband met artikel 1 van Protocol nr. 1 betreffende de invoer in de Gemeenschap van afgesneden bloemen, bloesems en bloemknoppen van onderverdeling 0603 10 van het Gemeenschappelijk douanetarief
+
+Vervallen per 01-01-2004   
 
 Verklaringen 
 

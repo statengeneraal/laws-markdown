@@ -2,9 +2,9 @@
 
 ##Regeling van de Minister van Economische Zaken van 30 maart 2005, nr. WJZ 5017828, houdende regels inzake de vaststelling en vergoeding van kosten, bedoeld in artikel 13.6, tweede lid, van de Telecommunicatiewet (Regeling kosten aftappen en gegevensverstrekking)
 
-De Minister van Economische Zaken,  
+De Minister van Economische Zaken,
 Gelet op [artikel 13.6, derde lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
-Besluit:    
+Besluit:
 
 ### Artikel  1  
 
@@ -20,47 +20,47 @@ d. declarabele kosten: de door een aanbieder gemaakte administratiekosten en per
 
 e. opdrachtgever: de autoriteit die de aanbieder een bijzondere last, bevel, toestemming, vordering of verzoek heeft gegegeven onderscheidenlijk gedaan om een aftap- of informatieverstrekkingsactiviteit te verrichten;  
 
-f. indicatieve tarieven: bedragen die de opdrachtgever hanteert bij het vaststellen van de hoogte van de vergoeding van de declarabele kosten.    
+f. indicatieve tarieven: bedragen die de opdrachtgever hanteert bij het vaststellen van de hoogte van de vergoeding van de declarabele kosten.   
 
-### Artikel  2  
+###Artikel 2 
 
-1.  De aanbieder doet aan de opdrachtgever een opgave van de declarabele kosten van een aftap- of informatieverstrekkingsactiviteit zodra deze activiteit is voltooid.   
-2.  Elke kostenopgave bevat een specificatie van de verrichte werkzaamheden, als aangeduid in de bijlage bij deze regeling, en van de desbetreffende tijdsbesteding, en wordt opgesteld overeenkomstig de in de bijlage gegeven aanwijzingen.   
-3.  Voor zover de kostenopgave hoger is dan het desbetreffende indicatieve tarief, draagt de aanbieder zorg voor een nadere onderbouwing van de kostenopgave.   
-4.  Op verzoek van de opdrachtgever verstrekt de aanbieder nadere informatie over de kostenopgave, waaronder 
+1. De aanbieder doet aan de opdrachtgever een opgave van de declarabele kosten van een aftap- of informatieverstrekkingsactiviteit zodra deze activiteit is voltooid.
+2. Elke kostenopgave bevat een specificatie van de verrichte werkzaamheden, als aangeduid in de bijlage bij deze regeling, en van de desbetreffende tijdsbesteding, en wordt opgesteld overeenkomstig de in de bijlage gegeven aanwijzingen.
+3. Voor zover de kostenopgave hoger is dan het desbetreffende indicatieve tarief, draagt de aanbieder zorg voor een nadere onderbouwing van de kostenopgave.
+4. Op verzoek van de opdrachtgever verstrekt de aanbieder nadere informatie over de kostenopgave, waaronder
 
-a. een toelichting op de verrichte werkzaamheden;  
+a.een toelichting op de verrichte werkzaamheden;
 
-b. een toelichting op het kostenniveau, waaronder het gehanteerde uurtarief;  
+b.een toelichting op het kostenniveau, waaronder het gehanteerde uurtarief;
 
-c. een accountantsverklaring omtrent de kostenopgave.     
+c.een accountantsverklaring omtrent de kostenopgave.
 
 ### Artikel  3  
 
 1.  Indien de opdrachtgever van oordeel is dat de gedeclareerde kosten declarabele kosten betreffen, wordt de vergoeding vastgesteld overeenkomstig het desbetreffende indicatieve tarief.   
 2.  In afwijking van het eerste lid wordt de vergoeding vastgesteld op een bedrag dat gelijk is aan de kosten waarvan de aanbieder naar het oordeel van de opdrachtgever aannemelijk heeft gemaakt dat deze kosten declarabele kosten betreffen en dat deze kosten meer bedragen dan het indicatieve tarief, voor zover deze kosten in redelijkheid als noodzakelijk kunnen worden beschouwd.   
-3.  In afwijking van het eerste en tweede lid kan de opdrachtgever met een groep van aanbieders afspraken maken over de hoogte van de vergoeding voor declarabele kosten en de voorwaarden voor de uitbetaling van die vergoeding.   
+3.   In afwijking van het eerste en tweede lid kan de opdrachtgever met een groep van aanbieders afspraken maken over de hoogte van de vergoeding voor declarabele kosten en de voorwaarden voor de uitbetaling van die vergoeding. 
 
 ### Artikel  4  
 
 1.  De indicatieve tarieven, vermeld in de bij deze regeling behorende bijlage, worden jaarlijks met ingang van 1 juni aangepast overeenkomstig het percentage van de ontwikkeling van het contractloon in de marktsector zoals door het Centraal Planbureau vastgesteld in het meest recente Centraal Economisch Plan voor het jaar voorafgaand aan het lopende kalenderjaar. De minister maakt de aangepaste bedragen bekend door publicatie in de Staatscourant.   
-2.  Wijziging van de indicatieve tarieven, anders dan bedoeld in het eerste lid, vindt plaats bij ministeriële regeling in overeenstemming met de ministers van Justitie, Binnenlandse Zaken en Defensie.   
+2.  Wijziging van de indicatieve tarieven, anders dan bedoeld in het eerste lid, vindt plaats bij ministeriële regeling in overeenstemming met de ministers van Justitie, Binnenlandse Zaken en Defensie.  
 
-### Artikel  5  
+###Artikel 5 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-### Artikel  6  
+###Artikel 6 
 
-Deze regeling wordt aangehaald als: Regeling kosten aftappen en gegevensverstrekking.  
-Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling wordt aangehaald als: Regeling kosten aftappen en gegevensverstrekking.
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-Den Haag 
-30 maart 2005    
+Den Haag
+30 maart 2005
 
 De 
 Minister van Economische Zaken, 
-L.J.Brinkhorst   
+L.J.Brinkhorst
 
 ### Bijlage  
 
@@ -198,7 +198,7 @@ De kosten van een aftap- of informatieverstrekkingsactiviteit zijn declarabel vo
 
 11.5. Archiveren  
 
-11.6. Factureren      
+11.6. Factureren     
 
 #### *II. Aanwijzingen voor de specificatie van kostenopgaven als bedoeld in artikel 2, tweede lid* 
 
@@ -218,7 +218,7 @@ f. arrondissement waartoe de opdrachtgever behoort
 
 g. opdrachtgever (aanvragende instantie)  
 
-h. contactpersoon voor de aanbieder bij de opdrachtgever    
+h. contactpersoon voor de aanbieder bij de opdrachtgever   
 
 #### *III. Indicatieve tarieven* 
 
@@ -244,5 +244,5 @@ A. Tot het tijdstip dat de eerste keer een indexering overeenkomstig artikel 4, 
 
 10. Informatieverstrekking op basis van een aan de aanbieder gerichte last, bevel of verzoek ten aanzien van de gegevens van een basisstation (dit betreft zogenaamd mastverkeersgegevens): € 26,25  
 
-11. Het meewerken aan complexe zoekvragen (al wat hierboven onder 1 t/m 10 niet genoemd/gevraagd wordt): per uur € 26,25   B. De onder A genoemde indicatieve tarieven worden met 50% respectievelijk 100 % verhoogd indien spoedshalve aftap- en informatieverstrekkingsactiviteiten buiten kantooruren respectievelijk in de weekeinden of op feestdagen moeten worden uitgevoerd.  
+11. Het meewerken aan complexe zoekvragen (al wat hierboven onder 1 t/m 10 niet genoemd/gevraagd wordt): per uur € 26,25   B. De onder A genoemde indicatieve tarieven worden met 50% respectievelijk 100 % verhoogd indien spoedshalve aftap- en informatieverstrekkingsactiviteiten buiten kantooruren respectievelijk in de weekeinden of op feestdagen moeten worden uitgevoerd. 
 

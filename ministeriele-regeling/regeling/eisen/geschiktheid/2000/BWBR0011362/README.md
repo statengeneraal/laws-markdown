@@ -3,14 +3,14 @@
 ##Regeling eisen geschiktheid 2000
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 111, vierde lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [130 tot en met 132](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [134 van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen 111, vierde lid, 130 tot en met 132 en 134 van de Wegenverkeerswet 1994;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *groep 1:* rijbewijzen van de categorieën A, B en B+E;  
+a. *groep 1:* rijbewijzen van de categorieën A1, A2, A, B en B+E;  
 
 b. *groep 2:* rijbewijzen van de categorieën C, C1, C+E, C1+E, D, D1, D+E en D1+E.    
 
@@ -41,7 +41,7 @@ T.Netelenbos
 
 ####Inhoudsopgave
 
-1 Inleiding 2 De eisen: algemene opmerkingen 3 Stoornissen van het gezichtsvermogen. 3.1 Inleiding 3.2 Visus 3.3 Gezichtsvelden 3.4 Verlies van een oog 3.5 Rijtest 3.6 Nader oogheelkundig onderzoek 3.7 Progressieve oogaandoeningen 3.8 Donkeradaptatie 3.9 Contrastgevoeligheid 3.10 Intra-oculaire lenzen 4 Stoornissen van gehoor en evenwicht 4.1 Inleiding 4.2 Slechthorendheid en doofheid 4.3 Draaiduizeligheid of aanvallen van evenwichtsstoornis (zoals bij het syndroom van Ménière) 5 Inwendige ziekten 5.1 Inleiding 5.2 Diabetes mellitus 5.3 Hypertensie 5.4 Chronische nierinsufficiëntie 5.5 Longziekten 5.6 Bloedziekten 5.7 Overige aandoeningen, orgaantransplantatie 6 Hart- en vaatziekten 6.1 Inleiding 6.2 Chronisch hartfalen 6.3 Ischemische hartziekten 6.4 Cardiomyopathie 6.5 Klepafwijkingen (verworven of aangeboren, al dan niet een klepprothese) 6.6 Aangeboren gebreken van hart en grote vaten 6.7 Ritme- en geleidingsstoornissen 6.8 Perifere vaatziekten 6.9 Onbegrepen, mogelijk circulatoir veroorzaakte syncope 7 Neurologische aandoeningen 7.1 Inleiding 7.2 Epileptische aanvallen en epilepsie 7.3 Bewustzijnsstoornissen (anders dan epilepsie) 7.4 Progressieve ziektebeelden 7.5 Intracraniële tumoren 7.6 Doorbloedingsstoornissen van de hersenen 7.7 Stationaire beelden 8 Psychiatrische stoornissen 8.1 Algemeen 8.2 Psychosen 8.3 Stemmingsstoornissen 8.4 Angststoornissen 8.5 Dissociatieve stoornissen 8.6 Cognitieve stoornissen 8.7 Persoonlijkheidsstoornissen 8.8 Misbruik van psychoactieve middelen (zoals alcohol en drugs) 8.9 Verstandelijke handicap 8.10 ADHD (inclusief subtypen) 8.11 Autismespectrumstoornissen (ASS) 9 Lichamelijke handicaps 10 Geneesmiddelen 10.1 Inleiding 10.2 Geneesmiddelen bij psychotische stoornissen 10.3 Geneesmiddelen bij stemmingstoornissen 10.4 Psychostimulantia 10.5 Hypnotica, sedativa, anxiolytica 10.6 Antidiabetica 10.7 Anti-epileptica 10.8 Anticoagulantia 10.9 Antihistaminica 10.10 Antihypertensiva 10.11 Corticosteroïden 10.12 Maag-darmmiddelen 10.13 Analgetica 10.14 Geneesmidddelen tegen migraine en clusterhoofdpijn 10.15 Parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica 10.16 Parkinsonmiddelen 10.17 Cytostatica/oncolytica 10.18 Vertigomiddelen 10.19 Misbruik van geneesmiddelen  
+1 Inleiding 2 De eisen: algemene opmerkingen 3 Stoornissen van het gezichtsvermogen. 3.1 Inleiding 3.2 Visus 3.3 Gezichtsvelden 3.4 Verlies van een oog 3.5 Rijtest 3.6 Nader oogheelkundig onderzoek 3.7 Progressieve oogaandoeningen 3.8 Donkeradaptatie 3.9 Contrastgevoeligheid 3.10 Intra-oculaire lenzen 4 Stoornissen van gehoor en evenwicht 4.1 Inleiding 4.2 Slechthorendheid en doofheid 4.3 Draaiduizeligheid of aanvallen van evenwichtsstoornis (zoals bij het syndroom van Ménière) 5 Inwendige ziekten 5.1 Inleiding 5.2 Diabetes mellitus 5.3 Hypertensie 5.4 Chronische nierschade 5.5 Longziekten 5.6 Bloedziekten 5.7 Overige aandoeningen, orgaantransplantatie 6 Hart- en vaatziekten 6.1 Inleiding 6.2 Chronisch hartfalen 6.3 Ischemische hartziekten 6.4 Cardiomyopathie 6.5 Klepafwijkingen (verworven of aangeboren, al dan niet een klepprothese) 6.6 Aangeboren gebreken van hart en grote vaten 6.7 Ritme- en geleidingsstoornissen 6.8 Perifere vaatziekten 6.9 Onbegrepen, mogelijk circulatoir veroorzaakte syncope 7 Neurologische aandoeningen 7.1 Inleiding 7.2 Epileptische aanvallen en epilepsie 7.3 Bewustzijnsstoornissen (anders dan epilepsie) 7.4 Progressieve ziektebeelden 7.5 Intracraniële tumoren 7.6 Doorbloedingsstoornissen van de hersenen 7.7 Stationaire beelden 8 Psychiatrische stoornissen 8.1 Algemeen 8.2 Psychosen 8.3 Stemmingsstoornissen 8.4 Angststoornissen 8.5 Dissociatieve stoornissen 8.6 Cognitieve stoornissen 8.7 Persoonlijkheidsstoornissen 8.8 Misbruik van psychoactieve middelen (zoals alcohol en drugs) 8.9 Verstandelijke handicap 8.10 ADHD (inclusief subtypen) 8.11 Autismespectrumstoornissen (ASS) 9 Lichamelijke handicaps 10 Geneesmiddelen 10.1 Inleiding 10.2 Geneesmiddelen bij psychotische stoornissen 10.3 Geneesmiddelen bij stemmingstoornissen 10.4 Psychostimulantia 10.5 Hypnotica, sedativa, anxiolytica 10.6 Antidiabetica 10.7 Anti-epileptica 10.8 Anticoagulantia 10.9 Antihistaminica 10.10 Antihypertensiva 10.11 Corticosteroïden 10.12 Maag-darmmiddelen 10.13 Analgetica 10.14 Geneesmidddelen tegen migraine en clusterhoofdpijn 10.15 Parasympaticolytica, parasympaticomimetica, sympaticolytica, sympaticomimetica 10.16 Parkinsonmiddelen 10.17 Cytostatica/oncolytica 10.18 Vertigomiddelen 10.19 Misbruik van geneesmiddelen  
 
 ### Hoofdstuk  1  
 
@@ -53,7 +53,7 @@ Bij het formuleren van medische geschiktheidseisen doet zich internationaal het 
 
 ####De eisen: algemene opmerkingen
 
-In de hierna volgende hoofdstukken worden de eisen geformuleerd voor het beoordelen van de lichamelijke en geestelijk geschiktheid tot het besturen van motorrijtuigen. Daarbij wordt de indeling in rijbewijssoorten gehanteerd (groep 1: personenauto’s, motorrijwielen; groep 2: vrachtwagens, bussen) zoals aangegeven in de tweede Europese richtlijn betreffende het rijbewijs (91/439/EEG). Voorts wordt het begrip geschiktheid gebruikt. Geschiktheid heeft betrekking op de lichamelijke en geestelijke kwaliteiten op grond waarvan een persoon wel of niet, of voor een beperkte tijdsduur, geschikt is voor het besturen van een motorrijtuig; de vaststelling van de geschiktheid voor één of meer rijbewijscategorieën geschiedt door middel van afgifte (door het CBR) van de verklaring van geschiktheid. Het medisch onderzoek ten behoeve van de beoordeling van de geschiktheid kan bestaan uit een aantekening door de keurend arts (eventueel aangevuld met een Geneeskundig verslag) en/of een specialistisch rapport. Met aantekening van de keurend arts wordt bedoeld de aantekening die wordt geplaatst op de Eigen verklaring als een van de vragen bevestigend wordt beantwoord. Waar hierna sprake is van een specialistisch rapport, is daarmee bedoeld het rapport dat het CBR ontvangt van de onafhankelijke specialist naar wie een persoon door het CBR is verwezen. Hieronder wordt tevens verstaan het rapport van een keuring in de eigen-verklaringsprocedure of onderzoek in de vorderingsprocedure, uitgevoerd door een arts onder supervisie en verantwoordelijkheid van een specialist naar wie de persoon is verwezen.  
+In de hierna volgende hoofdstukken worden de eisen geformuleerd voor het beoordelen van de lichamelijke en geestelijk geschiktheid tot het besturen van motorrijtuigen. Daarbij wordt de indeling in rijbewijssoorten gehanteerd (groep 1: personenauto’s, motorrijwielen; groep 2: vrachtwagens, bussen) zoals aangegeven in de tweede Europese richtlijn betreffende het rijbewijs (91/439/EEG). Voorts wordt het begrip geschiktheid gebruikt. Geschiktheid heeft betrekking op de lichamelijke en geestelijke kwaliteiten op grond waarvan een persoon wel of niet, of voor een beperkte tijdsduur, geschikt is voor het besturen van een motorrijtuig; de vaststelling van de geschiktheid voor één of meer rijbewijscategorieën geschiedt door middel van afgifte (door het CBR) van de verklaring van geschiktheid. Het medisch onderzoek ten behoeve van de beoordeling van de geschiktheid kan bestaan uit een aantekening door de keurend arts (eventueel aangevuld met een Geneeskundig verslag) en/of een specialistisch rapport. Met aantekening van de keurend arts wordt bedoeld de aantekening die wordt geplaatst op de Eigen verklaring als een van de vragen bevestigend wordt beantwoord. Waar hierna sprake is van een specialistisch rapport is daarmee bedoeld het rapport dat het CBR ontvangt van de onafhankelijke specialist naar wie de persoon is verwezen. Dit rapport is opgesteld en ondertekend door de specialist, waarbij het is toegestaan dat delen van het onderzoek onder supervisie en verantwoordelijkheid van de specialist zijn uitgevoerd door een derde.  
 
 ### Hoofdstuk  3  
 
@@ -259,9 +259,21 @@ Voor personen die ondanks behandeling een hoge bloeddruk houden, te weten een di
 
 ### 5.4  
 
-####Chronische nierinsufficiëntie
+####Chronische nierschade
 
-Voor personen met een ernstig gestoorde nierfunctie (kreatinineklaring van minder dan 20 ml/minuut) is een specialistisch rapport vereist; het betreft zowel predialyse- als dialysepatiënten. Valt dit rapport gunstig uit, dan kunnen zij voor een beperkte termijn (maximaal vijf jaar) geschikt worden verklaard voor rijbewijzen van groep 1. In zeer uitzonderlijke gevallen (slechts bij peritoneaal dialyse) kunnen deze personen voor ten hoogste drie jaar geschikt worden verklaard voor rijbewijzen van groep 2. Voor niertransplantatie zie paragraaf 5.7.2.  
+Voor de beoordeling van de geschiktheid bij chronische nierschade (CNS) is, afhankelijk van het stadium waarin de aandoening zich bevindt en de aangevraagde rijbewijsgroep een aantekening van een keurend arts dan wel een specialistisch rapport van een internist deskundig op het gebied van nierziekten (internist-nefroloog) vereist. De keurend arts dient de nierfunctie weer te geven in MDRD-klaring (ml/min/1.73 m <sup>2</sup>) of in een percentage van de nierfunctie. Tevens moet worden aangegeven of de CNS gepaard gaat met functionele beperkingen ten aanzien van de geschiktheid. Voor MDRD geldt de nierfunctie in MDRD-klaring (ml/min/1.73 m <sup>2</sup>) of in een percentage van de nierfunctie. Tevens moet worden aangegeven of de CNS gepaard gaat met functionele beperkingen ten aanzien van de geschiktheid. Het specialistisch rapport dient in te gaan op de vragen of de persoon wordt behandeld met een vorm van dialyse, hoe de algemene conditie is, in de zin van welke activiteiten en welke inspanning kan deze persoon maximaal uitvoeren, en of er in het laatste half jaar sprake is geweest van hartritmestoornissen, angina pectoris of een ernstige hypotensie in geval van dialyse. Voor niertransplantatie zie paragraaf 5.7.2. 
+
+### 5.4.1  
+
+####groep 1
+
+Personen met CNS stadium I, II, III of CNS stadium IV met een MDRD van 20–29 ml/min/1.73 m <sup>2</sup>, kunnen op basis van de aantekening van een keurend arts geschikt worden verklaard. Bij personen met CNS stadium IV met een MDRD van 15–19 ml/min/1.73 m <sup>2</sup> of CNS stadium V, met of zonder dialysebehandeling, is voor de beoordeling van de rijgeschiktheid een rapport vereist van een medisch specialist. Als de keurend arts of medisch specialist duidelijk omschreven twijfels heeft over de rijgeschiktheid, kan het CBR voor een juiste oordeelsvorming een deskundige op het gebied van de praktische rijgeschiktheid inschakelen om de geschiktheid vast te stellen. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is voor personen met CNS stadium I, II of III maximaal tien jaar. Voor personen met CNS stadium IV is de geschiktheidstermijn maximaal vijf jaar en voor personen met CNS stadium V maximaal drie jaar.  
+
+### 5.4.2  
+
+####groep 2
+
+Personen met CNS stadium I, II of III kunnen op basis van de aantekening van een keurend arts geschikt worden verklaard. Bij personen met CNS stadium IV of V is voor de beoordeling van de rijgeschiktheid een rapport vereist van een medisch specialist. Als de keurend arts of medisch specialist duidelijk omschreven twijfels heeft over de rijgeschiktheid, kan het CBR voor een juiste oordeelsvorming een deskundige praktische rijgeschiktheid inschakelen om de geschiktheid vast te stellen. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is voor personen met CNS stadium I, II of III maximaal vijf jaar. Voor personen met CNS stadium IV is de geschiktheidstermijn maximaal drie jaar en voor personen met CNS stadium V maximaal één jaar.  
 
 ### 5.5  
 
@@ -441,55 +453,59 @@ In dit hoofdstuk worden de eisen aan de geschiktheid voor het onderwerp ’neuro
 
 #### *Epileptische aanvallen en epilepsie* 
 
-Voor de beoordeling van de geschiktheid van personen met epileptische aanvallen (in de voorgeschiedenis) is een specialistisch rapport vereist, opgesteld door een neuroloog. Voor arterioveneuze malformaties, intracerebrale bloedingen, herseninfarcten en hersentumoren met risico op epileptische aanvallen gelden tevens de normen uit paragraaf 7.5 en 7.6. Rijbewijsbezitters die epilepsie krijgen zijn ongeschikt voor een onbeperkt rijbewijs. Aan beroepsmatig gebruik van een rijbewijs van groep 1 door personen met epileptische aanvallen moeten strenge eisen worden gesteld. Personen met epileptische aanvallen die voldoen aan de hieronder gestelde eisen voor groep 1, maar niet tevens voldoen aan de hieronder geformuleerde eisen voor groep 2, kunnen in beginsel alleen geschikt worden verklaard als de rijbevoegdheid wordt beperkt tot privé-gebruik. Op speciaal verzoek kan -in individuele gevallen- een uitzondering worden gemaakt op de beperking tot privé-gebruik. Voor een termijn van vijf jaar kunnen deze personen geschikt worden verklaard voor beperkt beroepsmatig vervoer, niet zijnde vervoer van personen, of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag. Voorwaarden zijn een keuring door een neuroloog en een verklaring van de werkgever volgens een door het CBR vastgesteld model. Voor de normen in paragraaf 7.2 gelden de volgende uitgangspunten: 
+Voor de beoordeling van de geschiktheid van personen met epileptische aanvallen (in de voorgeschiedenis) is een specialistisch rapport vereist, opgesteld door een neuroloog, tenzij het een aanvraag betreft voor een groep 1 rijbewijs en de aanvrager gedurende de voorgaande tien jaar aanvalsvrij is geweest en gedurende dezelfde periode geen behandeling plaats heeft gevonden met anti-epileptische medicatie. In die gevallen volstaat een aantekening van de keurend arts. In geval van arterioveneuze malformaties, intracerebrale bloedingen, herseninfarcten en hersentumoren, met risico op epileptische aanvallen, gelden tevens de normen uit paragrafen 7.5 en 7.6. Aan het gebruik van een rijbewijs van groep 1 door personen met één of meerdere epileptische aanvallen in de voorgeschiedenis moeten vanwege een verhoogd risico op een verkeersongeval extra eisen worden gesteld. Personen die voldoen aan de hieronder gestelde eisen van groep 1, maar niet tevens voldoen aan de hieronder gestelde eisen van groep 2, zijn permanent ongeschikt voor beroepsmatig vervoer van personen of het onder toezicht doen besturen van derden. Personen kunnen voor beroepsmatig vervoer, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, geschikt worden verklaard indien er sprake is van afwezigheid van andere voor de rijgeschiktheid relevante afwijkingen die een beperking van de bevoegdheid vereisen tot alleen privégebruik of beroepsmatig gebruik voor maximaal vier uur per dag. Voor de normen in deze paragraaf gelden de volgende uitgangspunten: 
+
+– Rijbewijsbezitters die een epileptische aanval krijgen, zijn ongeschikt voor een onbeperkt rijbewijs.  
 
 – Epilepsie: van epilepsie is sprake als een persoon in een periode van minder dan vijf jaar twee of meer niet-geprovoceerde epileptische aanvallen heeft gehad.  
 
-– Geprovoceerde epileptische aanval (of een acuut symptomatische aanval): een epileptische aanval die zich voordoet binnen 14 dagen na schedel-hersenletsel, een koortsende ziekte, een metabole ontregeling, dan wel een andere identificeerbare causale en vermijdbare factor zoals slaapdeprivatie.  
+– Geprovoceerde epileptische aanval (of acuut symptomatische aanval): een epileptische aanval die zich voordoet binnen 14 dagen na schedel-hersenletsel, bij een koortsende ziekte, bij een metabole ontregeling, dan wel een andere identificeerbare causale en vermijdbare factor zoals slaapdeprivatie.  
 
-– Sporadische epileptische aanval: een epileptische aanval waarbij zich in de voorgeschiedenis één of meerdere epileptische aanvallen hebben voorgedaan met een interval tussen deze en de voorlaatste aanval van meer dan twee jaar.   Meerdere aanvallen binnen 24 uur worden beschouwd als een eenmalige aanval. 
+– Sporadische epileptische aanval: een epileptische aanval waarbij zich in de voorgeschiedenis één of meerdere epileptische aanvallen hebben voorgedaan met een interval tussen deze en de voorlaatste aanval van meer dan twee jaar.  
+
+– Meerdere aanvallen binnen 24 uur worden beschouwd als een eenmalige aanval.   
 
 ### 7.2.1  
 
 ####Eerste epileptische aanval
 
-a. groep 1: Personen met een eerste epileptische aanval zijn ongeschikt voor rijbewijzen van groep 1 tot zes maanden na de aanval. Uitzonderingen: 
+a. groep 1: Personen met een eerste epileptische aanval zijn ongeschikt voor rijbewijzen van groep 1 tot zes maanden na de aanval. Uitzonderingen kunnen worden gemaakt indien is voldaan aan één van de onderstaande voorwaarden: 
 
 – een eerste niet-geprovoceerde epileptische aanval zonder ‘epileptiforme afwijkingen’ op het standaard EEG (gemaakt na de aanval) en zonder voor epilepsie relevante afwijkingen op de MRI-scan van de hersenen: ongeschikt tot drie maanden na de aanval;  
 
-– een eerste geprovoceerde epileptische aanval: in ieder geval ongeschikt tot drie maanden na de aanval, mede afhankelijk van de oorzaak van de aanval;  
+– een eerste geprovoceerde epileptische aanval: individueel door de neuroloog te beoordelen, maar ongeschikt tot tenminste drie maanden na de aanval, mede afhankelijk van de oorzaak van de aanval;  
 
-– een eerste epileptische aanval bij een progressief neurologische aandoening: individueel door de neuroloog te beoordelen, maar ongeschikt tot tenminste zes maanden na de aanval.   Na afloop van de aanvalsvrije periode kunnen deze personen op basis van een specialistisch rapport, opgesteld door een neuroloog, geschikt worden geacht voor een termijn van één jaar. Bij blijvende aanvalsvrijheid is de maximale geschiktheidstermijn vervolgens drie jaar, dan vijf jaar en dan onbeperkt. Rijbewijsbezitters die bij een eerste beoordeling door het CBR al drie jaar of langer aanvalsvrij zijn mogen direct geschikt worden verklaard voor een termijn van drie jaar, zij die vijf jaar of langer aanvalsvrij zijn voor een termijn van vijf jaar.  
+– een eerste epileptische aanval bij een progressief neurologische aandoening: individueel door de neuroloog te beoordelen, maar ongeschikt tot tenminste zes maanden na de aanval.   Na afloop van de aanvalsvrije periode kunnen personen, die voldoen aan bovenstaande voorwaarden, geschikt worden verklaard voor een termijn van één jaar. Bij blijvende aanvalsvrijheid is de maximale geschiktheidstermijn vervolgens drie jaar, dan vijf jaar en dan onbeperkt. Bezitters van een groep 1 rijbewijs, die bij een eerste beoordeling door het CBR al drie jaar of langer aanvalsvrij zijn, mogen direct geschikt worden verklaard voor een termijn van drie jaar, zij die vijf jaar of langer aanvalsvrij zijn voor een termijn van vijf jaar.  
 
-b. groep 2: Personen met een eerste, al dan niet geprovoceerde, epileptische aanval zijn permanent ongeschikt voor rijbewijzen van groep 2. Een uitzondering kan – vanwege de erkend gunstige prognose – worden gemaakt voor personen die twee jaar lang aanvalsvrij zijn gebleven en gedurende die periode niet zijn behandeld met anti-epileptische medicatie. Zij kunnen geschikt worden verklaard als er geen voor epilepsie relevante afwijkingen op de MRI-scan van de hersenen, op een recent standaard EEG en op een recent EEG na partiële of gehele slaaponthouding zijn gevonden. Na afloop van de aanvalsvrije periode kunnen deze personen op basis van een specialistisch rapport, opgesteld door een neuroloog, geschikt worden geacht voor een termijn van één jaar. Bij blijvende aanvalsvrijheid is de maximale geschiktheidstermijn vervolgens drie jaar, dan telkens vijf jaar. Rijbewijsbezitters die bij een eerste beoordeling door het CBR al vijf jaar of langer aanvalsvrij zijn mogen direct geschikt worden verklaard voor de maximale termijn van vijf jaar.    
+b. groep 2: Personen met een eerste, al dan niet geprovoceerde, epileptische aanval zijn ongeschikt voor rijbewijzen van groep 2, tenzij zij vijf jaar lang aanvalsvrij zijn gebleven en gedurende die periode niet zijn behandeld met anti-epileptische medicatie. Uitzondering kan – vanwege de erkende gunstige prognose – worden gemaakt voor personen die twee jaar lang aanvalsvrij zijn gebleven en gedurende die periode niet zijn behandeld met anti-epileptische medicatie. Zij kunnen geschikt worden verklaard als er geen voor epilepsie relevante afwijkingen op de MRI-scan van de hersenen, op een recent standaard EEG en op een recent EEG na partiële of gehele slaaponthouding zijn gevonden. Na afloop van de aanvalsvrije periode kunnen personen, die voldoen aan bovenstaande voorwaarden, geschikt worden verklaard voor een termijn van één jaar. Bij blijvende aanvalsvrijheid is de maximale geschiktheidstermijn vervolgens drie jaar, dan telkens vijf jaar. Bezitters van een groep 2 rijbewijs, die bij een eerste beoordeling door het CBR al vijf jaar of langer aanvalsvrij zijn zonder gebruik van anti-epileptische medicatie, mogen direct geschikt worden verklaard voor de maximale termijn van vijf jaar.    
 
 ### 7.2.2  
 
 ####Meer dan één epileptische aanval in de voorgeschiedenis (epilepsie)
 
-a. groep 1: Personen met meer dan één epileptische aanval in de voorgeschiedenis zijn ongeschikt voor rijbewijzen van groep 1 tot een jaar na de laatste aanval. Uitzonderingen: 
+a. groep 1: Personen met meer dan één epileptische aanval in de voorgeschiedenis zijn ongeschikt voor rijbewijzen van groep 1 tot een jaar na de laatste aanval. Uitzonderingen kunnen worden gemaakt indien is voldaan aan één van de onderstaande voorwaarden: 
 
 – een sporadische epileptische aanval: ongeschikt gedurende zes maanden na de sporadische aanval;  
 
 – epileptische aanvallen bij een progressief neurologische aandoening: individueel door de neuroloog te beoordelen, maar ongeschikt tot ten minste een jaar na de laatste aanval;  
 
-– slaapaanvallen: als is gebleken dat gedurende een jaar na de eerste aanval tijdens de slaap uitsluitend aanvallen in de slaap zijn opgetreden bestaat er geschiktheid;  
+– aanvallen in de slaap: als is gebleken dat gedurende een jaar na de eerste aanval tijdens de slaap uitsluitend aanvallen in de slaap zijn opgetreden bestaat er geschiktheid;  
 
-– myoclonieën en eenvoudig partiële aanvallen: als is gebleken dat gedurende drie maanden na de eerste myoclonie of eenvoudig partiële aanval alleen myoclonieën of eenvoudige partiële aanvallen zijn opgetreden die geen invloed hebben op de geschiktheid tot het besturen van motorrijtuigen, bestaat er geschiktheid.   Personen die aan bovenstaande voorwaarden voldoen kunnen op basis van een specialistisch rapport, opgesteld door een neuroloog, geschikt worden geacht voor een termijn van één jaar. Bij gelijkblijvende situatie is de maximale geschiktheidstermijn vervolgens drie jaar, dan vijf jaar en dan onbeperkt. Rijbewijsbezitters die bij een eerste beoordeling door het CBR al drie jaar of langer aanvalsvrij zijn, mogen direct geschikt worden verklaard voor een termijn van drie jaar, zij die vijf jaar of langer aanvalsvrij zijn voor een termijn van vijf jaar.  
+– myoclonieën en eenvoudig partiële aanvallen: als is gebleken dat gedurende drie maanden na de eerste myoclonie of eenvoudig partiële aanval alleen myoclonieën of eenvoudige partiële aanvallen zijn opgetreden die geen invloed hebben op de geschiktheid tot het besturen van motorrijtuigen, bestaat er geschiktheid.   Na afloop van de aanvalsvrije periode kunnen personen, die voldoen aan bovenstaande voorwaarden, geschikt worden verklaard voor een termijn van één jaar. Bij gelijkblijvende situatie is de maximale geschiktheidstermijn vervolgens drie jaar, dan vijf jaar en dan onbeperkt. Bezitters van een groep 1 rijbewijs die bij een eerste beoordeling door het CBR al drie jaar of langer aanvalsvrij zijn, mogen direct geschikt worden verklaard voor een termijn van drie jaar, zij die vijf jaar of langer aanvalsvrij zijn voor een termijn van vijf jaar.  
 
-b. groep 2: Personen met meer dan één epileptische aanval in de voorgeschiedenis zijn permanent ongeschikt voor rijbewijzen van groep 2. Een uitzondering kan – vanwege de erkend gunstige prognose – worden gemaakt voor personen die vijf jaar lang aanvalsvrij zijn gebleven en gedurende die periode niet zijn behandeld met anti-epileptische medicatie. Zij kunnen geschikt worden verklaard als er geen voor epilepsie relevante afwijkingen op de MRI-scan van de hersenen, op een recent standaard EEG en op een recent EEG na partiële of gehele slaaponthouding zijn gevonden. Na afloop van de aanvalsvrije periode kunnen zij op basis van een specialistisch rapport, opgesteld door een neuroloog, geschikt worden geacht voor een termijn van één jaar. Bij blijvende aanvalsvrijheid is de maximale geschiktheidstermijn vervolgens drie jaar, dan telkens vijf jaar. Rijbewijsbezitters die bij een eerste beoordeling door het CBR al vijf jaar of langer aanvalsvrij zijn, mogen direct geschikt worden verklaard voor de maximale termijn van vijf jaar.    
+b. groep 2: Personen met meer dan één epileptische aanval in de voorgeschiedenis zijn ongeschikt voor rijbewijzen van groep 2, tenzij zij tien jaar lang aanvalsvrij zijn gebleven en gedurende die periode niet zijn behandeld met anti-epileptische medicatie. Een uitzondering kan – vanwege de erkend gunstige prognose – worden gemaakt voor personen die vijf jaar lang aanvalsvrij zijn gebleven en gedurende die periode niet zijn behandeld met anti-epileptische medicatie. Zij kunnen geschikt worden verklaard als er geen voor epilepsie relevante afwijkingen op de MRI-scan van de hersenen, op een recent standaard EEG en op een recent EEG na partiële of gehele slaaponthouding zijn gevonden. Na afloop van de aanvalsvrije periode kunnen personen, die voldoen aan bovenstaande voorwaarden, geschikt worden verklaard voor een termijn van één jaar. Bij blijvende aanvalsvrijheid is de maximale geschiktheidstermijn vervolgens drie jaar, dan telkens vijf jaar. Bezitters van een groep 2 rijbewijs die bij een eerste beoordeling door het CBR al tien jaar of langer aanvalsvrij zijn zonder gebruik van anti-epileptische medicatie, mogen direct geschikt worden verklaard voor de maximale termijn van vijf jaar.    
 
 ### 7.2.3  
 
 ####Wijziging of afbouw van anti-epileptische medicatie
 
-Bij wijziging of afbouw van de anti-epileptische medicatie in overleg met of op advies van de behandelaar geldt het volgende: 
+Bij wijziging of afbouw van de anti-epileptische medicatie in overleg met of op advies van de behandelaar geldt voor bezitters van een groep 1 rijbewijs het volgende: 
 
-– bij afbouwen van de anti-epileptische medicatie na een aanvalsvrije periode van minder dan twee jaar, bestaat er ongeschiktheid voor rijbewijzen van groep 1 gedurende de periode van afbouwen en drie maanden na het stoppen;  
+– bij afbouwen van de anti-epileptische medicatie na een aanvalsvrije periode van minder dan twee jaar, bestaat er ongeschiktheid gedurende de periode van afbouwen en drie maanden na het stoppen;  
 
-– bij afbouwen van de anti-epileptische medicatie na een aanvalsvrije periode van twee jaar of langer bestaat er geen ongeschiktheid voor rijbewijzen van groep 1, ook niet tijdens de afbouw;  
+– bij afbouwen van de anti-epileptische medicatie na een aanvalsvrije periode van twee jaar of langer bestaat er geen ongeschiktheid, ook niet tijdens de afbouw;  
 
-– als zich tijdens wijziging of afbouw van de anti-epileptische medicatie een epileptische aanval voordoet bestaat er een ongeschiktheid voor de rijbewijzen van groep 1 van slechts drie maanden, mits de medicatie meteen is aangepast, anders gelden de reguliere aanvalsvrije perioden van paragraaf 7.2.1 en 7.2.2.    
+– als zich tijdens wijziging of afbouw van de anti-epileptische medicatie een epileptische aanval voordoet bestaat er een ongeschiktheid van slechts drie maanden, mits de medicatie meteen is aangepast, anders gelden de reguliere aanvalsvrije perioden van paragraaf 7.2.1a en 7.2.2a.    
 
 ### 7.3  
 
@@ -749,39 +765,23 @@ Als zwakbegaafden in staat zijn het praktische en theoretische rijexamen met suc
 
 ####ADHD (inclusief subtypen)
 
-Het onderzoek naar de geschiktheid moet plaatsvinden door een specialist met kennis en ervaring op het gebied van ADHD bij volwassenen aan de hand van een checklist met risicofactoren (het CBR is in bezit van een dergelijke checklist). 
+Bij de eerste beoordeling door het CBR van personen met ADHD moet een onderzoek plaatsvinden door een onafhankelijk specialist met kennis en ervaring op het gebied van ADHD bij volwassenen aan de hand van een checklist met risicofactoren. Personen met ADHD zijn onbeperkt geschikt voor rijbewijzen van groep 1 en 2 als voldaan wordt aan de volgende voorwaarden: 
 
-### 8.10.1  
+− er is geen sprake van misbruik van psychoactieve middelen (zie paragraaf 8.8);  
 
-####Rijbewijzen van groep 1
+− er is sprake van ziekte-inzicht en therapietrouw;  
 
-Geschiktverklaring voor de rijbewijzen van groep 1 voor een beperkte termijn is mogelijk indien voldaan wordt aan de volgende voorwaarden: 
-
-– indien sprake is van risicofactoren zoals angststoornissen, depressieve stoornissen of persoonlijkheidstoornissen, dan dient te zijn gebleken dat deze voldoende onder controle zijn en als daarbij rijgevaarlijke medicatie wordt gebruikt gelden tevens de desbetreffende paragrafen van hoofdstuk 10;  
-
-– er mag geen sprake zijn van misbruik van psychoactieve middelen (zie paragraaf 8.8);  
-
-– er moet sprake zijn van ziekte-inzicht en therapietrouw;  
-
-– er mag geen sprake zijn van rijgevaarlijke bijwerkingen van de medicatie.   Als het CBR voor een juiste oordeelsvorming een rijtest nodig acht, kan het een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) inschakelen. Dit is in ieder geval aan de orde bij de eerste aanvraag van een rijbewijs. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is maximaal drie jaar.  
-
-### 8.10.2  
-
-####Rijbewijzen van groep 2
-
-Geschiktverklaring voor de rijbewijzen van groep 2 voor een beperkte termijn is mogelijk indien voldaan wordt aan de volgende voorwaarden: 
-
-– er is geen sprake van risicofactoren zoals angststoornissen, depressieve stoornissen, misbruik van psychoactieve middelen of persoonlijkheidsstoornissen;  
-
-– er moet sprake zijn van ziekte-inzicht en therapietrouw;  
-
-– er mag geen sprake zijn van rijgevaarlijke bijwerkingen van de medicatie.   Als het CBR voor een juiste oordeelsvorming een rijtest nodig acht, kan het een deskundige op het gebied van de praktische geschiktheid (van de desbetreffende afdeling van het CBR) inschakelen. Dit is in ieder geval aan de orde bij de eerste aanvraag van een rijbewijs. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is maximaal één jaar.  
+− er is geen sprake van rijgevaarlijke bijwerkingen van de medicatie.   Tevens geldt dat indien sprake is van risicofactoren zoals angststoornissen, depressieve stoornissen of persoonlijkheidsstoornissen, dient te zijn gebleken dat deze voldoende onder controle zijn. Als daarbij rijgevaarlijke medicatie wordt gebruikt gelden tevens de desbetreffende paragrafen van hoofdstuk 10. In twijfelgevallen kan de specialist het CBR een termijnbeperking adviseren van drie of vijf jaar, waarna, evenals bij de eerste keuring, een keuring door een specialist met kennis en ervaring op het gebied van ADHD bij volwassenen moet plaatsvinden, waarbij de bovenstaande voorwaarden van toepassing zijn. Bij een eerste aanvraag van een rijbewijs van groep 1 of 2 dient bij de beoordeling een rijtest met een deskundige op het gebied van de praktische geschiktheid van het CBR plaats te vinden. Het CBR heeft hiervoor een uitvoerig protocol.  
 
 ### 8.11  
 
 #### *Autismespectrumstoornissen (ASS)* 
 
-Voor de beoordeling van de geschiktheid is een specialistisch rapport vereist, opgesteld door een psychiater met kennis en ervaring op het gebied van ASS bij volwassenen. Het onderzoek vindt plaats aan de hand van een checklist met risicofactoren (het CBR is in bezit van een dergelijke lijst). Bij comorbiditeit, zowel psychiatrisch (angst- en dwangstoornissen, aandachtstoornissen, hyperactiviteit, depressieve stoornissen, psychotische stoornissen) als somatisch (epilepsie, genetische afwijkingen) dient deze voldoende onder controle te zijn en gelden tevens de betreffende paragrafen uit hoofdstuk 7 en 8. Als voor de behandeling rijgevaarlijke geneesmiddelen worden gebruikt, geleden tevens de desbetreffende paragrafen van hoofdstuk 10. Indien het CBR voor een juiste oordeelsvorming een rijtest nodig acht, kan het een deskundige op het gebied van de praktische geschiktheid van het CBR inschakelen. Dit is in ieder geval aan de orde bij de eerste aanvraag van een rijbewijs. Het CBR heeft hiervoor een uitvoerig protocol. De geschiktheidstermijn is maximaal drie jaar, zowel voor rijbewijzen van groep 1 als van groep 2.  
+Bij de eerste beoordeling door het CBR van personen met een autismespectrumstoornis (ASS) moet een onderzoek plaatsvinden door een onafhankelijk specialist met kennis en ervaring op het gebied van ASS bij volwassenen aan de hand van een checklist met risicofactoren. Personen met ASS zijn onbeperkt geschikt voor groep 1 en 2 indien zowel co-morbide psychiatrische als somatische stoornissen voldoende onder controle zijn. Deze stoornissen zijn: 
+
+– angst- en dwangstoornissen, aandachtstoornissen, hyperactiviteit, depressieve stoornissen en psychotische stoornissen;  
+
+– epilepsie en genetische afwijkingen.   Voor deze stoornissen gelden tevens de betreffende paragrafen uit hoofdstukken 7 en 8. Als daarbij rijgevaarlijke medicatie wordt gebruikt gelden tevens de desbetreffende paragrafen van hoofdstuk 10. In twijfelgevallen kan de specialist het CBR een termijnbeperking adviseren van drie of vijf jaar, waarna, evenals bij de eerste keuring, een keuring door een specialist met kennis en ervaring op gebied van ASS bij volwassenen moet plaatsvinden. Bij een eerste aanvraag voor groep 1 of 2 dient bij de beoordeling een rijtest met een deskundige op het gebied van de praktische geschiktheid van het CBR plaats te vinden. Het CBR heeft hiervoor een uitvoerig protocol.  
 
 ### Hoofdstuk  9  
 
@@ -800,7 +800,7 @@ De geschiktheid van personen met een lichamelijke handicap wordt in eerste insta
 Voor de beoordeling van de geschiktheid is het ook van belang in hoeverre de aanvrager gebruik maakt van geneesmiddelen die de rijvaardigheid negatief kunnen beïnvloeden. Uit verschillende onderzoeken komt naar voren dat bepaalde geneesmiddelen een ongewenste nadelige invloed hebben op de rijvaardigheid. Dit geldt vooral voor geneesmiddelen die een dempende of stimulerende werking hebben op het centrale zenuwstelsel, maar ook voor geneesmiddelen die als bijwerking duizeligheid, plotselinge slaapaanvallen of wazig zien, hebben. Wanneer in dit hoofdstuk sprake is van geneesmiddelen met geen of weinig negatieve invloed (categorie I), licht tot matig negatieve invloed (categorie II) of een ernstige of potentieel gevaarlijke invloed (categorie III) op de rijvaardigheid, dan wordt daarmee verwezen naar de internationaal aanvaarde indeling (ICADTS-classificatie) van rijgevaarlijke geneesmiddelen in de categorieën I tot en met III.  
 
 | Categorie  | Omschrijving effect  | Vergelijkbaar bloedalcoholgehalte  |
-|:---|:---|:---|
+|---|---|---|
 | I  | geen of weinig negatieve invloed  | < 0,5 promille  |
 | II  | licht tot matig negatieve invloed  | 0,5–0,8 promille  |
 | III  | ernstige of potentieel gevaarlijke invloed  | > 0,8 promille  |

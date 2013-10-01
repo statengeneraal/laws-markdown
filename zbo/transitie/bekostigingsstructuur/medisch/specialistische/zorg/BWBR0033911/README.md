@@ -25,13 +25,13 @@ Deze regeling is van toepassing op de navolgende instellingen voor medisch speci
 
 7. Zelfstandig Audiologisch centrum;  
 
-8. Centrum voor erfelijkheidsadvisering.    
+8. Centrum voor erfelijkheidsadvisering.   
 
 ### Artikel  2  
 
 ####Doel
 
-Deze regeling heeft tot doel het waarborgen van een effectieve procedure op het gebied van de administratie en aanlevering van omzetgegevens gedurende de tweejarige transitieperiode waarin instellingen, op de wijze als beschreven in de beleidsregel, de overstap maken van budgetfinanciering naar prestatiebekostiging. Het belang van deze administratie en aanlevering ligt in het door de NZa correct kunnen vaststellen van het transitiebedrag en het verrekenbedrag 2012 en 2013. Met het oog hierop zijn in deze regeling voorschriften opgenomen op het gebied van de hiervoor genoemde administratie en aanlevering van omzetgegevens.  
+Deze regeling heeft tot doel het waarborgen van een effectieve procedure op het gebied van de administratie en aanlevering van omzetgegevens gedurende de tweejarige transitieperiode waarin instellingen, op de wijze als beschreven in de beleidsregel, de overstap maken van budgetfinanciering naar prestatiebekostiging. Het belang van deze administratie en aanlevering ligt in het door de NZa correct kunnen vaststellen van het transitiebedrag en het verrekenbedrag 2012 en 2013. Met het oog hierop zijn in deze regeling voorschriften opgenomen op het gebied van de hiervoor genoemde administratie en aanlevering van omzetgegevens. 
 
 ### Artikel  3  
 
@@ -39,27 +39,27 @@ Deze regeling heeft tot doel het waarborgen van een effectieve procedure op het 
 
 In deze regeling wordt verstaan onder: 
 
-a. *instelling:* instellingen voor medisch specialistische zorg als bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](../../../../../../../AMvB/uitvoeringsbesluit/wtzi/BWBR0018983/README.md), indien en voor zover deze worden genoemd in artikel 1 (Reikwijdte), audiologische centra als bedoeld in artikel 1.2, onder 2, van het Uitvoeringsbesluit WTZi, en instellingen voor erfelijkheidsadvisering als bedoeld in artikel 1.2, onder 13, van het Uitvoeringsbesluit WTZi;  
+a.  *instelling:* instellingen voor medisch specialistische zorg als bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](../../../../../../../AMvB/uitvoeringsbesluit/wtzi/BWBR0018983/README.md), indien en voor zover deze worden genoemd in artikel 1 (Reikwijdte), audiologische centra als bedoeld in artikel 1.2, onder 2, van het Uitvoeringsbesluit WTZi, en instellingen voor erfelijkheidsadvisering als bedoeld in artikel 1.2, onder 13, van het Uitvoeringsbesluit WTZi;  
 
-b. *beleidsregel:* de beleidsregel ‘Transitie bekostigingsstructuur medisch specialistische zorg’;  
+b.  *beleidsregel:* de beleidsregel ‘Transitie bekostigingsstructuur medisch specialistische zorg’;  
 
-c. *omzet uit prestatiebekostiging:* omzet van een instelling die wordt vastgesteld op grond van artikel 11 van de beleidsregel;  
+c.  *omzet uit prestatiebekostiging:* omzet van een instelling die wordt vastgesteld op grond van artikel 11 van de beleidsregel;  
 
-d. *schaduwbudget:* budget dat voor een instelling wordt vastgesteld op grond van artikel 13 van de beleidsregel;  
+d.  *schaduwbudget:* budget dat voor een instelling wordt vastgesteld op grond van artikel 13 van de beleidsregel;  
 
-e. *transitiebedrag:* bedrag dat voor een instelling wordt vastgesteld op grond van artikel 12 van de beleidsregel;  
+e.  *transitiebedrag:* bedrag dat voor een instelling wordt vastgesteld op grond van artikel 12 van de beleidsregel;  
 
-f. *DBC-A:* DBC’s die in 2011 zijn geopend en op het moment van openen tot het A-segment behoorden;  
+f.  *DBC-A:* DBC’s die in 2011 zijn geopend en op het moment van openen tot het A-segment behoorden;  
 
-g. *DOT-A2012:* DBC-zorgproducten en overige zorgproducten die in 2012 tot het A-segment behoorden;  
+g.  *DOT-A2012:* DBC-zorgproducten en overige zorgproducten die in 2012 tot het A-segment behoorden;  
 
-h. *DOT-Bnieuw:* DBC-zorgproducten en overige zorgproducten die in 2012 tot het B-segment behoorden en in 2011 nog tot het A-segment behoorden;  
+h.  *DOT-Bnieuw:* DBC-zorgproducten en overige zorgproducten die in 2012 tot het B-segment behoorden en in 2011 nog tot het A-segment behoorden;  
 
-i. *DOT-Boud:* DBC-zorgproducten en overige zorgproducten die in 2011 tot het B-segment behoorden;  
+i.  *DOT-Boud:* DBC-zorgproducten en overige zorgproducten die in 2011 tot het B-segment behoorden;  
 
-j. *beschikbaarheidbijdrage:* bijdrage als bedoeld in [artikel 56a, eerste lid, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+j.  *beschikbaarheidbijdrage:* bijdrage als bedoeld in [artikel 56a, eerste lid, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
 
-k. *onderhanden werk:* openstaande zorgproducten waarvoor nog geen tarief in rekening is gebracht.    
+k.  *onderhanden werk:* openstaande zorgproducten waarvoor nog geen tarief in rekening is gebracht.   
 
 ### Artikel  4  
 
@@ -87,7 +87,7 @@ k. *onderhanden werk:* openstaande zorgproducten waarvoor nog geen tarief in rek
 (3.) het onderhanden werk DBC-zorgproducten en overige zorgproducten voor producten geopend in 2013 en gesloten in 2014.     
 3.  Instellingen richten hun administratie op een zodanige wijze in dat daaruit het onderhanden werk kan worden afgeleid, alsmede de wijze waarop het onderhanden werk is berekend.   
 4.  Instellingen richten hun administratie op een zodanige wijze in dat daaruit de aan het Zorgverzekeringsfonds in rekening gebrachte beschikbaarheidbijdrage(n) kan (kunnen) worden afgeleid.   
-5.  Instellingen dragen er zorg voor dat de bedragen die worden vastgelegd op grond van de leden 1 tot en met 4 in overeenstemming zijn met de bedragen die zij hiertoe in de jaarrekening opnemen of hebben opgenomen.   
+5.  Instellingen dragen er zorg voor dat de bedragen die worden vastgelegd op grond van de leden 1 tot en met 4 in overeenstemming zijn met de bedragen die zij hiertoe in de jaarrekening opnemen of hebben opgenomen.  
 
 ### Artikel  5  
 
@@ -108,7 +108,7 @@ b. uiterlijk 1 juni 2014 een definitieve opgave bij de NZa in te dienen van de 
 – een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;  
 
 – de bijbehorende accountantsverklaring (zie ook artikel 7).     
-6.  Voor de instellingen genoemd in artikel 1, onder 5 en 6, geldt dat de leden 1 tot en met 5 van overeenkomstige toepassing zijn, met dien verstande dat bij de in die leden genoemde jaartallen telkens één jaar moet worden opgeteld. Uitzondering hierop vormt artikel 5, onder 1a: Instellingen genoemd in artikel 1, onder 5 en 6, zijn verplicht uiterlijk 1 juni 2014 een voorlopige opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2013 en van het schaduwbudget over 2013.   
+6.  Voor de instellingen genoemd in artikel 1, onder 5 en 6, geldt dat de leden 1 tot en met 5 van overeenkomstige toepassing zijn, met dien verstande dat bij de in die leden genoemde jaartallen telkens één jaar moet worden opgeteld. Uitzondering hierop vormt artikel 5, onder 1a: Instellingen genoemd in artikel 1, onder 5 en 6, zijn verplicht uiterlijk 1 juni 2014 een voorlopige opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2013 en van het schaduwbudget over 2013.  
 
 ### Artikel  6  
 
@@ -124,31 +124,31 @@ b. uiterlijk 1 juni 2014 een definitieve opgave bij de NZa in te dienen van de 
 
 – een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;  
 
-– de bijbehorende accountantsverklaring (zie ook artikel 7).     
+– de bijbehorende accountantsverklaring (zie ook artikel 7).    
 
 ### Artikel  7  
 
 ####Accountantcontrole gegevensverstrekking
 
-De zorgaanbieder draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) de juistheid van de te verstrekken gegevens en inlichtingen als bedoeld in de artikelen 5 en 6, bevestigt, overeenkomstig de wijze als beschreven in een met het oog hierop door de NZa beschikbaar te stellen Controleprotocol.  
+De zorgaanbieder draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) de juistheid van de te verstrekken gegevens en inlichtingen als bedoeld in de artikelen 5 en 6, bevestigt, overeenkomstig de wijze als beschreven in een met het oog hierop door de NZa beschikbaar te stellen Controleprotocol. 
 
 ### Artikel  8  
 
 ####Wijze van gegevensverstrekking
 
-De in de artikelen 5 en 6 bedoelde formulieren en het desbetreffende controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl) . De in de artikelen 5 en 6 bedoelde opgaven moeten worden verzonden naar: formulierencure@nza.nl. <sup> 1  Zie: www.nza.nl → Wet- en regelgeving → Formulieren (Ziekenhuiszorg).  </sup>  
+De in de artikelen 5 en 6 bedoelde formulieren en het desbetreffende controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl)<sup> 1 Zie: www.nza.nl → Wet- en regelgeving → Formulieren (Ziekenhuiszorg). </sup>. De in de artikelen 5 en 6 bedoelde opgaven moeten worden verzonden naar: formulierencure@nza.nl. 
 
 ### Artikel  9  
 
 ####Intrekking oude regeling(en)
 
-Met de inwerkingtreding van deze regeling wordt de regeling ‘ [Transitie bekostigingsstructuur medisch specialistische zorg](../../../../../../../zbo/regeling/transitie/bekostigingsstructuur/medisch/specialistische/zorg/BWBR0032493/README.md) ’, kenmerk NR/CU- 233, ingetrokken.  
+Met de inwerkingtreding van deze regeling wordt de regeling ‘[Transitie bekostigingsstructuur medisch specialistische zorg](../../../../../../../zbo/regeling/transitie/bekostigingsstructuur/medisch/specialistische/zorg/BWBR0032493/README.md)’, kenmerk NR/CU- 233, ingetrokken. 
 
 ### Artikel  10  
 
 ####Inwerkingtreding en citeertitel
 
-Deze regeling treedt in werking op 1 september 2013.  
+Deze regeling treedt in werking op 1 september 2013. 
 Ingevolge [artikel 20, tweede lid, onder a, van de Wmg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), wordt deze regeling, met toelichting, ten minste twee dagen vóór de datum van inwerkingtreding in de Staatscourant gepubliceerd. Deze regeling kan worden aangehaald als: ‘Regeling transitie bekostigingsstructuur medisch specialistische zorg’.  
 
 Nederlandse Zorgautoriteit, 

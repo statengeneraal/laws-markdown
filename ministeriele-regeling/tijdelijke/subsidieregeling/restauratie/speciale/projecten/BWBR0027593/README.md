@@ -12,11 +12,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*Besluit:*[Besluit rijkssubsidiëring instandhouding monumenten](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md);  
+*Besluit:* [Besluit rijkssubsidiëring instandhouding monumenten](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md);  
 
 *inspectierapport:* rapport met betrekking tot een beschermd monument dat de technische of fysieke staat van dat monument beschrijft, en dat is opgesteld door een ter zake deskundige persoon of instantie;  
 
-*minister:* Minister van Onderwijs, Cultuur en Wetenschap.    
+*minister:* Minister van Onderwijs, Cultuur en Wetenschap.   
 
 ### Artikel  2  
 
@@ -42,9 +42,9 @@ h. Panorama Mesdag te ’s-Gravenhage;
 
 i. Portugese Synagoge te Amsterdam;  
 
-j. Justus van Effencomplex te Rotterdam;  
+j.Justus van Effencomplex te Rotterdam;
 
-k. Synagoge aan de Hofstraat te Alkmaar.    
+k.Synagoge aan de Hofstraat te Alkmaar.  
 
 ### Artikel  3  
 
@@ -70,9 +70,9 @@ h. Panorama Mesdag te ’s-Gravenhage: € 400.000;
 
 i. Portugese Synagoge te Amsterdam: € 430.000;  
 
-j. Justus van Effencomplex te Rotterdam: € 1,5 miljoen;  
+j.Justus van Effencomplex te Rotterdam: € 1,5 miljoen; 
 
-k. Synagoge aan de Hofstraat te Alkmaar: € 300.000.    
+k. Synagoge aan de Hofstraat te Alkmaar: € 300.000.  
 
 ### Artikel  4  
 
@@ -97,13 +97,13 @@ c. kosten voor werkzaamheden gericht op vervanging van materialen die hun functi
 d. kosten voor werkzaamheden gericht op reconstructie niet subsidiabel zijn, tenzij deze in uitzonderlijke gevallen naar het oordeel van de minister ter versterking van de monumentale waarden gewenst zijn; en  
 
 e. kosten voor werkzaamheden die voortvloeien uit veranderd gebruik, alsmede kosten voor werkzaamheden die zijn gericht op comfortverbetering niet subsidiabel zijn.     
-2.  Indien de restauratie waarvoor subsidie wordt gevraagd reeds aangevangen is, komen onverminderd het eerste lid, tevens voor subsidie in aanmerking de gemaakte kosten in verband met de restauratie voor zover die kosten in 2010 zijn gemaakt.   
+2.  Indien de restauratie waarvoor subsidie wordt gevraagd reeds aangevangen is, komen onverminderd het eerste lid, tevens voor subsidie in aanmerking de gemaakte kosten in verband met de restauratie voor zover die kosten in 2010 zijn gemaakt.  
 
 ### Artikel  5  
 
 ####Subsidieperiode
 
-De activiteiten waarvoor subsidie wordt verstrekt vangen aan of zijn reeds aangevangen in 2010 en zijn afgerond voor 1 januari 2014.  
+De activiteiten waarvoor subsidie wordt verstrekt vangen aan of zijn reeds aangevangen in 2010 en zijn afgerond voor 1 januari 2014. 
 
 ### Artikel  6  
 
@@ -121,20 +121,20 @@ a. tekeningen van de bestaande toestand van het monument;
 
 b. tekeningen waarop de voorgenomen restauratiewerkzaamheden of wijzigingen van het monument staan aangegeven; en  
 
-c. een op de technische staat van het monument gebaseerd bestek of gebaseerde werkomschrijving per onderdeel van de restauratiewerkzaamheden van de toe te passen constructies, materialen, afwerkingen en kleuren alsmede van de wijze van verwerking daarvan.     
+c. een op de technische staat van het monument gebaseerd bestek of gebaseerde werkomschrijving per onderdeel van de restauratiewerkzaamheden van de toe te passen constructies, materialen, afwerkingen en kleuren alsmede van de wijze van verwerking daarvan.    
 
 ### Artikel  7  
 
 ####Indieningstermijn
 
 1.  Een aanvraag tot verlening van subsidie wordt ingediend voor 1 augustus 2010.   
-2.  In afwijking van het eerste lid kan de minister voor artikel 2, onderdeel j, een andere indieningsdatum vaststellen.   
+2.  In afwijking van het eerste lid kan de minister voor artikel 2, onderdeel j, een andere indieningsdatum vaststellen.  
 
 ### Artikel  8  
 
 ####Subsidieverlening
 
-De minister beslist binnen dertien weken op een aanvraag tot verlening van subsidie.  
+De minister beslist binnen dertien weken op een aanvraag tot verlening van subsidie. 
 
 ### Artikel  9  
 
@@ -142,13 +142,13 @@ De minister beslist binnen dertien weken op een aanvraag tot verlening van subsi
 
 1.  De [artikelen 23 tot en met 29 van het Besluit](../../../../../../../AMvB/besluit/rijkssubsidiëring/instandhouding/monumenten/BWBR0019439/README.md) zijn van overeenkomstige toepassing met dien verstande dat instandhoudingsplan wordt gelezen als restauratieplan.   
 2.  Voor zover voor de activiteiten waarvoor subsidie wordt verleend een vergunning als bedoeld in [artikel 2.1, eerste lid, onder f, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is vereist, vangen die activiteiten niet aan zonder of in afwijking van de vergunning.   
-3.   Wijzigt deze regeling.    
+3.  Wijzigt deze regeling.  
 
 ### Artikel  10  
 
 ####Bevoorschotting
 
-Direct na de subsidieverlening verstrekt de minister aan de subsidieontvanger een voorschot van 80 procent van de verleende subsidie.  
+Direct na de subsidieverlening verstrekt de minister aan de subsidieontvanger een voorschot van 80 procent van de verleende subsidie. 
 
 ### Artikel  11  
 
@@ -161,28 +161,28 @@ Direct na de subsidieverlening verstrekt de minister aan de subsidieontvanger ee
 5.  Het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent de aanwending en besteding van de subsidie door de subsidieontvanger. De minister kan een model vaststellen voor het financieel verslag.   
 6.  Het financieel verslag gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). In de verklaring verklaart de accountant dat de bedragen in het financieel verslag juist zijn en doet hij tevens een uitspraak over de naleving door de subsidieontvanger van de in het controle protocol genoemde voorschriften.   
 7.  De subsidieontvanger bedingt bij de accountant dat deze zijn onderzoek inricht overeenkomstig een door de minister vast te stellen controleprotocol.   
-8.  De minister kan de subsidieontvanger verplichten de desbetreffende originele rekeningen en betalingsbewijzen te overleggen.   
+8.  De minister kan de subsidieontvanger verplichten de desbetreffende originele rekeningen en betalingsbewijzen te overleggen.  
 
 ### Artikel  12  
 
 ####Vaststelling
 
-De minister beslist binnen 22 weken op de aanvraag tot vaststelling van de subsidie.  
+De minister beslist binnen 22 weken op de aanvraag tot vaststelling van de subsidie. 
 
 ### Artikel  13  
 
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst met uitzondering van artikel 2, onderdeel j, dat op een nader door de minister te bepalen tijdstip in werking treedt.   
-2.  Deze regeling vervalt met ingang van 1 januari 2015.   
+2.  Deze regeling vervalt met ingang van 1 januari 2015.  
 
 ### Artikel  14  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling restauratie speciale projecten.  
+Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling restauratie speciale projecten. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-J.M. vanBijsterveldt-Vliegenthart   
+J.M. van Bijsterveldt-Vliegenthart     

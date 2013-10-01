@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder:
 
 *activering:* activering als bedoeld in de Regeling erkenning werkplaatsen boordcomputer taxi;  
 
-*kentekenhouder:* degene op wiens naam een kentekenbewijs als bedoeld in [artikel 36, tweede lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is gesteld ten tijde van de activering.    
+*kentekenhouder:* degene op wiens naam een kentekenbewijs als bedoeld in [artikel 36, tweede lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is gesteld ten tijde van de activering.   
 
 ### Artikel  2  
 
@@ -29,19 +29,19 @@ b. de boordcomputer niet eerder is geactiveerd;
 
 c. voor de boordcomputer een typegoedkeuring is verleend als bedoeld in [artikel 32 van de Regeling specificaties en typegoedkeuring boordcomputer taxi](../../../../../../../ministeriele-regeling/regeling/specificaties/en/typegoedkeuring/boordcomputer/taxi/BWBR0027945/README.md); en  
 
-d. de taxi niet eerder is voorzien van een geactiveerde boordcomputer.     
+d. de taxi niet eerder is voorzien van een geactiveerde boordcomputer.    
 
 ### Artikel  3  
 
 ####Hoogte subsidie
 
-De subsidie bedraagt € 600 per boordcomputer.  
+De subsidie bedraagt € 600 per boordcomputer. 
 
 ### Artikel  4  
 
 ####Aanvraag
 
-Een aanvraag tot subsidie wordt na de activering van de boordcomputer ingediend op een daartoe door de Minister van Infrastructuur en Milieu vastgesteld formulier.  
+Een aanvraag tot subsidie wordt na de activering van de boordcomputer ingediend op een daartoe door de Minister van Infrastructuur en Milieu vastgesteld formulier. 
 
 ### Artikel  5  
 
@@ -54,26 +54,26 @@ Aan de subsidievaststelling wordt de verplichting verbonden dat de taxi, aan wel
 
 ####Betaling
 
-De betaling van de subsidie vindt plaats binnen vier weken na de subsidievaststelling.  
+De betaling van de subsidie vindt plaats binnen vier weken na de subsidievaststelling. 
 
 ### Artikel  7  
 
 ####Slotbepalingen
 
 1.  Deze regeling treedt in werking op het tijdstip waarop [artikel IV van het Besluit van 16 oktober 2009, houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs](../../../../../../../AMvB/wijzigingsbesluit/besluit/personenvervoer/2000/enz./(invoering/etc/BWBR0026675/README.md) in werking treedt.   
-2.  Deze regeling vervalt twee jaar na het tijdstip, bedoeld in het eerste lid, met dien verstande dat zij van toepassing blijft op aanvragen die: 
+2.  Deze regeling vervalt met ingang van 1 juli 2014, met dien verstande dat zij van toepassing blijft op aanvragen die: 
 
 a. op de vervaldatum nog in behandeling zijn, en  
 
-b. binnen twee maanden na de vervaldatum zijn ingediend, mits de boordcomputer voor die datum is geactiveerd.     
+b. binnen twee maanden na de vervaldatum zijn ingediend, mits de boordcomputer voor die datum is geactiveerd.    
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: tijdelijke regeling subsidie boordcomputer taxi.  
+Deze regeling wordt aangehaald als: tijdelijke regeling subsidie boordcomputer taxi. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

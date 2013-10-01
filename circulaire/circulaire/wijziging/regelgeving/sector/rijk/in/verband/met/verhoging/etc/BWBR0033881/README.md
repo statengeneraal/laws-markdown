@@ -49,6 +49,6 @@ De informatievoorziening aan medewerkers – via het Contactcenter en via de rub
 Deze circulaire geldt tot de wijziging van de regelgeving sector Rijk in verband met de verhoging van de AOW-leeftijd is gepubliceerd in het Staatsblad. Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan voor zover nodig uitvoering te geven.     
 
 De 
-Minister voor Wonen en Rijksdienst,namens deze:
-J.J.M.Uijlenbroek,
-Directeur-generaal Organisatie en Bedrijfsvoering Rijk.   
+Minister voor Wonen en Rijksdienst, namens deze: 
+J.J.M. Uijlenbroek,  
+Directeur-generaal Organisatie en Bedrijfsvoering Rijk.    

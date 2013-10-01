@@ -2,7 +2,7 @@
 
 ##Besluit van de raad van bestuur van de kansspelautoriteit van 19 december 2012, met kenmerk 00.005.593, inzake verlening van vergunning tot het organiseren van de postcodeloterij (Vergunning Nationale Postcode Loterij 2013/2014)
 
-Op grond van de artikelen 3 en 5 van de Wet op de kansspelen (hierna: de wet) en het Kansspelenbesluit verleent de raad van bestuur van de kansspelautoriteit (hierna: de kansspelautoriteit) aan de Nationale Postcode Loterij N.V., gevestigd te Amsterdam met KvK-nummer 41183598 (hierna: de vergunninghouder), een vergunning voor de periode van 1 januari 2013 tot en met 31 december 2014. Aan deze vergunning zijn de volgende voorschriften verbonden:   
+Op grond van de [artikelen 3](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [5 van de Wet op de kansspelen](../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) (hierna: de wet) en het [Kansspelenbesluit](../../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) verleent de raad van bestuur van de kansspelautoriteit (hierna: de kansspelautoriteit) aan de Nationale Postcode Loterij N.V., gevestigd te Amsterdam met KvK-nummer 41183598 (hierna: de vergunninghouder), een vergunning voor de periode van 1 januari 2013 tot en met 31 december 2014. Aan deze vergunning zijn de volgende voorschriften verbonden:   
 ### A  
 
 ####Bestuursstructuur
@@ -13,11 +13,11 @@ A.2 De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel
 
 * de statuten van de vergunninghouder geldend op 19 december 2012;  
 
-* het door de vergunninghouder opgestelde deelnemersreglement zoals goedgekeurd op 21 augustus 2013;  
+*het door de vergunninghouder opgestelde deelnemersreglement zoals goedgekeurd op 21 augustus 2013; 
 
 * het door de vergunninghouder opgestelde financieel reglement zoals goedgekeurd op 1 juli 2013; en  
 
-* de door de vergunninghouder opgestelde trekkingsprocedure versie d.d. 19 december 2012.    
+* de door de vergunninghouder opgestelde trekkingsprocedure versie d.d. 19 december 2012.     
 
 A.3 De kansspelautoriteit kan in uitzonderlijke gevallen en na voorafgaand overleg met de vergunninghouder, de vergunninghouder aanwijzingen geven met betrekking tot de reglementen en de trekkingsprocedure. De vergunninghouder is verplicht deze aanwijzingen op te volgen.      
 ### B  
@@ -45,7 +45,7 @@ C.1 Gerekend over een kalenderjaar bedraagt de afdracht tenminste 50% van de nom
 
 C.2 Per kalenderjaar komt ten hoogste 10% van de afdracht ten goede aan instellingen werkzaam op een of meer terreinen genoemd in bepaling C.7, waarbij als tegenprestatie hiervoor de desbetreffende instellingen roerende zaken ter beschikking stellen die door de vergunninghouder als prijs kunnen worden uitgekeerd bij het vergunde kansspel.  
 
-C.3 De vergunninghouder mag uitsluitend de kosten maken die rechtstreeks verband houden met het organiseren van het kansspel waarvoor deze vergunning is verleend en die gerekend kunnen worden tot de normale bedrijfskosten. Teneinde deze kosten te beperken is de vergunninghouder verplicht de onder de vergunning georganiseerde loterijen op doelmatige en doeltreffende wijze te exploiteren.  
+C.3 De vergunninghouder mag uitsluitend de kosten maken die rechtstreeks verband houden met het organiseren van het kansspel waarvoor deze vergunning is verleend en die gerekend kunnen worden tot de normale bedrijfskosten. Teneinde deze kosten te beperken is de vergunninghouder verplicht de onder de vergunning georganiseerde loterijen op doelmatige en doeltreffende wijze te exploiteren.   
 
 C.4 De vergunninghouder is verplicht eventuele provisie aan een tussenpersoon bij de lotverkoop te beperken tot ten hoogste 10% van de nominale waarde van de door die tussenpersoon verkochte loten.  
 
@@ -76,7 +76,7 @@ C.10 De vergunninghouder mag aan zijn afdrachten niet de voorwaarde verbinden da
 
 ####Bescherming van consumenten
 
-D.1 De vergunninghouder mag geen personen die nog niet de leeftijd van achttien jaar hebben bereikt (hierna: minderjarigen) als deelnemer toelaten. Als een minderjarige een prijs wint, dient de vergunninghouder deze deelneming buiten beschouwing te laten.  
+D.1 De vergunninghouder mag geen personen die nog niet de leeftijd van achttien jaar hebben bereikt (hierna: minderjarigen) als deelnemer toelaten. Als een minderjarige een prijs wint, dient de vergunninghouder deze deelneming buiten beschouwing te laten.   
 
 D.2 De vergunninghouder is verplicht deze vergunning en zijn statuten en reglementen via zijn website openbaar te maken en desgevraagd ter beschikking van de deelnemers te stellen.  
 
@@ -105,7 +105,7 @@ D.6 De vergunninghouder mag geen prijzen uitloven of uitkeren buiten de in deze 
 
 E.1 De vergunninghouder is verplicht alle trekkingen in het openbaar te laten plaatsvinden in tegenwoordigheid van een notaris die het verloop van de trekkingen bij proces-verbaal constateert. Als de notaris enige onregelmatigheid constateert en een trekking ongeldig verklaart, is de vergunninghouder verplicht onverwijld een vervangende trekking te laten plaatsvinden.  
 
-E.2 De vergunninghouder is verplicht de niet-verkochte fysieke loten vóór de trekking ter vernietiging in te leveren bij de notaris die het verloop van de trekking bij proces-verbaal constateert. Het aantal niet-verkochte loten wordt in het proces-verbaal genoteerd.  
+E.2 De vergunninghouder is verplicht de niet-verkochte fysieke loten vóór de trekking ter vernietiging in te leveren bij de notaris die het verloop van de trekking bij proces-verbaal constateert. Het aantal niet-verkochte loten wordt in het proces-verbaal genoteerd.   
 
 E.3 De vergunninghouder is verplicht om de mechanische, elektrische en elektronische processen die gebruikt worden bij de deelneming, prijsbepaling en vaststelling van de winnaars te onderwerpen aan voorafgaande goedkeuring en periodieke controle door: 
 
@@ -120,20 +120,20 @@ E.4 De vergunninghouder is verplicht binnen vier maanden na afloop van elk kalen
 
 F.1 De vergunninghouder is verplicht binnen een maand na afloop van elk kwartaal een verslag aan de kansspelautoriteit te zenden betreffende het financiële verloop en andere door de kansspelautoriteit noodzakelijk geachte gegevens. Deze gegevens omvatten in elk geval de in punt E.1 bedoelde processen-verbaal van de in dat kwartaal verrichte trekkingen.  
 
-F.2 De vergunninghouder is verplicht een jaarrekening en een jaarverslag op te stellen die voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek. De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de Holding, onder de voorwaarde dat in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De kansspelautoriteit kan aanwijzingen geven met betrekking tot de inrichting van de jaarrekening en het jaarverslag.  
+F.2 De vergunninghouder is verplicht een jaarrekening en een jaarverslag op te stellen die voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de Holding, onder de voorwaarde dat in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De kansspelautoriteit kan aanwijzingen geven met betrekking tot de inrichting van de jaarrekening en het jaarverslag.  
 
-F.3 De vergunninghouder is verplicht een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek de jaarrekening en de naleving van de vergunningsvoorschriften te laten onderzoeken en de uitslag van dit onderzoek te laten weergeven in een verslag en een verklaring als bedoeld in het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek.  
+F.3 De vergunninghouder is verplicht een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) de jaarrekening en de naleving van de vergunningsvoorschriften te laten onderzoeken en de uitslag van dit onderzoek te laten weergeven in een verslag en een verklaring als bedoeld in het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek.  
 
-F.4 De vergunninghouder is verplicht binnen vier maanden na afloop van elk kalenderjaar het jaarverslag, de jaarrekening met het verslag en een goedkeurende verklaring bedoeld in punt F.3 aan de kansspelautoriteit te zenden.      
+F.4 De vergunninghouder is verplicht binnen vier maanden na afloop van elk kalenderjaar het jaarverslag, de jaarrekening met het verslag en een goedkeurende verklaring bedoeld in punt F.3 aan de kansspelautoriteit te zenden.       
 ### G  
 
 ####Overig
 
-G.1 De vergunninghouder is verplicht de vergoeding bedoeld in artikel 3a van het Kansspelenbesluit binnen vier weken na aanvang van een kalenderjaar te betalen aan de kansspelautoriteit.  
+G.1 De vergunninghouder is verplicht de vergoeding bedoeld in [artikel 3a van het Kansspelenbesluit](../../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) binnen vier weken na aanvang van een kalenderjaar te betalen aan de kansspelautoriteit.  
 
 G.2 Deze vergunning zal met de toelichting in de Staatscourant worden geplaatst.  
 
-G.3 Deze vergunning wordt aangehaald als: Vergunning Nationale Postcode Loterij 2013/2014.       
+G.3 Deze vergunning wordt aangehaald als: Vergunning Nationale Postcode Loterij 2013/2014.        
 
 De raad van bestuur van de kansspelautoriteit, 
 J.J.H. Suyver  

@@ -18,15 +18,15 @@ c. de directeur van het landelijk bureau;
 
 d. de programmamanager;  
 
-e. de projectleider.    
+e. de projectleider.   
 
 ### Artikel  2  
 
-Als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 1 bij deze regeling, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.  
+Als hoofd van dienst in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 1 bij deze regeling, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage. 
 
 ### Artikel  3  
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 2 bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.  
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 2 bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage. 
 
 ### Artikel  4  
 
@@ -42,36 +42,36 @@ d. het verlenen van ontslag, niet zijnde eervol ontslag;
 
 e. [artikel 69 van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) voor zover de schadeloosstelling betrekking heeft op schadeloosstelling van materiële schade;  
 
-f. het beslissen op verzoeken van cliënten van de Raad voor de Kinderbescherming om schadevergoeding, indien deze verzoeken het bedrag van € 2.500 te boven gaan.    
+f. het beslissen op verzoeken van cliënten van de Raad voor de Kinderbescherming om schadevergoeding, indien deze verzoeken het bedrag van € 2.500 te boven gaan.   
 
 ### Artikel  5  
 
 1.  Bij verhindering van de directeur van het landelijk bureau is een regiodirecteur bevoegd, daartoe schriftelijk aangewezen door de algemeen directeur.   
-2.  Bij verhindering van de regiodirecteur is de regiodirecteur van een andere regio bevoegd, daartoe schriftelijk aangewezen door de algemeen directeur.   
+2.  Bij verhindering van de regiodirecteur is de regiodirecteur van een andere regio bevoegd, daartoe schriftelijk aangewezen door de algemeen directeur.  
 
 ### Artikel  6  
 
-De directeuren en regiodirecteuren dragen zorg voor het opstellen van de besluiten tot individuele ondermandaatverlening en het bijhouden van de openbare registers betreffen de mandaten die zijn verleend.  
+De directeuren en regiodirecteuren dragen zorg voor het opstellen van de besluiten tot individuele ondermandaatverlening en het bijhouden van de openbare registers betreffen de mandaten die zijn verleend. 
 
 ### Artikel  7  
 
-De Mandaatregeling regiodirecteuren Raad voor de Kinderbescherming 2009 wordt ingetrokken.  
+De Mandaatregeling regiodirecteuren Raad voor de Kinderbescherming 2009 wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Mandaatregeling Raad voor de Kinderbescherming 2013.  
+Dit besluit wordt aangehaald als: Mandaatregeling Raad voor de Kinderbescherming 2013. 
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2011.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2011. 
 
 De algemeen directeur van de Raad voor de Kinderbescherming van het Ministerie van Veiligheid en Justitie, 
 M.L. van Kleef    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Niet opgenomen.  
+Niet opgenomen.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Niet opgenomen.  
+Niet opgenomen.
