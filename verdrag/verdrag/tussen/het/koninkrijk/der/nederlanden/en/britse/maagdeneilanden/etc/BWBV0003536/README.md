@@ -10,7 +10,7 @@ The Government of the Kingdom of the Netherlands and the Government of the Briti
 
 ####Scope of the Agreement
 
-The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning the taxes and the tax matters covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment, verification, enforcement, recovery or collection of tax claims or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8.  
+The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning the taxes and the tax matters covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment, verification, enforcement, recovery or collection of tax claims or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in Article 8. 
 
 ### Article  2  
 
@@ -20,7 +20,7 @@ To enable the appropriate implementation of this Agreement, information shall be
 
 a) without regard to whether the person to whom the information relates is a resident or national of a party, or whether the person by whom the information is held is a resident or national of a party; and  
 
-b) provided that the information is present within the territory, or in the possession or control of a person present in the jurisdiction of the Requested Party.    
+b) provided that the information is present within the territory, or in the possession or control of a person present in the jurisdiction of the Requested Party.   
 
 ### Article  3  
 
@@ -30,7 +30,7 @@ b) provided that the information is present within the territory, or in the poss
 
 a) in the Netherlands, taxes of every kind and description imposed on behalf of the Netherlands, particularly the: 
 
-(i) income tax, including income-related supplements based social supplements regulations (Inkomstenbelasting, inclusief inkomensafhankelijke toeslagen op grond van regelgeving inzake toeslagen); <sup> 1)  [Red: Noot redactie: hier is kennelijk het woord „on” weggevallen.]  </sup>  
+(i) income tax, including income-related supplements based<sup> 1) [Red: Noot redactie: hier is kennelijk het woord „on” weggevallen.] </sup> social supplements regulations (Inkomstenbelasting, inclusief inkomensafhankelijke toeslagen op grond van regelgeving inzake toeslagen);  
 
 (ii) wages tax (Loonbelasting);  
 
@@ -61,7 +61,7 @@ b) in the British Virgin Islands,
 (ii) the payroll tax; and  
 
 (iii) the property tax.       
-2.  This Agreement shall also apply to any identical or substantially similar taxes imposed by either Contracting Party after the date of signature of the Agreement in addition to, or in place of, the existing taxes listed in sub-paragraph 1. The competent authorities of the Contracting Parties shall notify each other through the exchange of letters of any substantial changes to the taxation and related information gathering measures covered by the Agreement.   
+2.  This Agreement shall also apply to any identical or substantially similar taxes imposed by either Contracting Party after the date of signature of the Agreement in addition to, or in place of, the existing taxes listed in sub-paragraph 1. The competent authorities of the Contracting Parties shall notify each other through the exchange of letters of any substantial changes to the taxation and related information gathering measures covered by the Agreement.  
 
 ### Article  4  
 
@@ -116,7 +116,7 @@ o) the term “Requested Party” means the Contracting Party which is requested
 p) the term “Requesting Party” means the Contracting Party submitting a request for or having received information from the Requested Party;  
 
 q) the term “tax” means any tax which is subject of this Agreement.     
-2.  As regards the application of this Agreement at any time by a Contracting Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Contracting Party, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Contracting Party.   
+2.  As regards the application of this Agreement at any time by a Contracting Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Contracting Party, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Contracting Party.  
 
 ### Article  5  
 
@@ -159,7 +159,7 @@ h) a statement that the Requesting Party has pursued all means available in its 
 a) confirm receipt of a request in writing to the competent authority of the Requesting Party and shall notify the competent authority of the Requesting Party of any deficiencies in the request within 60 days of the receipt of the request; and  
 
 b) if the competent authority of the Requested Party has been unable to obtain and provide the information within 90 days of receipt of the request, if obstacles are encountered in furnishing the information or if the competent authority of the Requested party refuses to provide the information, it shall immediately inform the Requesting Party in writing, explaining the reason for its inability to obtain and provide the information or the reasons for its refusal.     
-8.  For the purposes of this Agreement, the Contracting Parties may enter into a Memorandum of Understanding to deal with any procedural matters they consider necessary for the processing of requests for the provision under this Agreement of information on tax matters and any other matters connected therewith.   
+8.  For the purposes of this Agreement, the Contracting Parties may enter into a Memorandum of Understanding to deal with any procedural matters they consider necessary for the processing of requests for the provision under this Agreement of information on tax matters and any other matters connected therewith.  
 
 ### Article  6  
 
@@ -167,7 +167,7 @@ b) if the competent authority of the Requested Party has been unable to obtain a
 
 1.  The Requested Party may, to the extent permitted under its domestic laws following reasonable notice from the Requesting Party, allow representatives of the competent authority of the Requesting Party to enter the jurisdiction of the Requested Party with a request to interview persons and examine records with the written consent of the persons concerned. The competent authority of the Requesting Party shall notify the competent authority of the Requested Party of the time and place of the intended meeting with the persons concerned.   
 2.  At the request of the competent authority of the Requesting Party, the competent authority of the Requested Party may, in accordance with its domestic laws, permit representatives of the competent authority of the Requesting Party to be present at the appropriate part of a tax examination in the Requested Party.   
-3.  If the request referred to in paragraph 2 is acceded to, the competent authority of the Requested Party conducting the examination shall, as soon as possible, notify the competent authority of the Requesting Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the Requested Party for the conduct of the examination. All decisions with respect to the conduct of the examination shall be made by the Requested Party conducting the examination in accordance with its domestic laws.   
+3.  If the request referred to in paragraph 2 is acceded to, the competent authority of the Requested Party conducting the examination shall, as soon as possible, notify the competent authority of the Requesting Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the Requested Party for the conduct of the examination. All decisions with respect to the conduct of the examination shall be made by the Requested Party conducting the examination in accordance with its domestic laws.  
 
 ### Article  7  
 
@@ -190,7 +190,7 @@ a) The provisions of this Agreement shall not impose on a Contracting Party the 
 
 b) Information held with the intention of furthering a criminal purpose is not subject to legal privilege, and nothing in this Article shall prevent a legal practitioner or other admitted legal representative from providing the name and address of a client where doing so would not constitute a breach of legal privilege.     
 4.  A request for information shall not be refused on the ground that the tax claim giving rise to the request is disputed.   
-5.  The Requested Party may decline a request for information if the information is requested by the Requesting Party to administer or enforce a provision of the tax law of the Requesting Party, or any requirement connected therewith, which discriminates against a national of the Requested Party as compared with a resident or national of the Requesting Party in the same circumstances.   
+5.  The Requested Party may decline a request for information if the information is requested by the Requesting Party to administer or enforce a provision of the tax law of the Requesting Party, or any requirement connected therewith, which discriminates against a national of the Requested Party as compared with a resident or national of the Requesting Party in the same circumstances.  
 
 ### Article  8  
 
@@ -198,31 +198,31 @@ b) Information held with the intention of furthering a criminal purpose is not s
 
 1.  Any information provided and received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement. Such persons or authorities shall use such information only for such purposes.   
 2.  The information may not be disclosed to any person, entity or authority, or any other jurisdiction which has a tax information exchange agreement with the Requested Party, without the express written consent of the competent authority of the Requested Party.   
-3.  Save as otherwise provided in Paragraph 2, no information shall be provided to any other person, entity, authority or jurisdiction.   
+3.  Save as otherwise provided in Paragraph 2, no information shall be provided to any other person, entity, authority or jurisdiction.  
 
 ### Article  9  
 
 ####Safeguards
 
-Nothing in this Agreement shall affect the rights and safeguards secured to persons by the laws or administrative practice of the Requested Party. The rights and safeguards may not be applied by the Requested Party in a manner that unduly prevents or delays effective exchange of information.  
+Nothing in this Agreement shall affect the rights and safeguards secured to persons by the laws or administrative practice of the Requested Party. The rights and safeguards may not be applied by the Requested Party in a manner that unduly prevents or delays effective exchange of information. 
 
 ### Article  10  
 
 ####Costs
 
-Incidence of costs incurred in providing assistance (including reasonable costs of third parties and external advisors in connection with litigation or otherwise) shall be agreed by the Contracting Parties in accordance with a Memorandum of Understanding.  
+Incidence of costs incurred in providing assistance (including reasonable costs of third parties and external advisors in connection with litigation or otherwise) shall be agreed by the Contracting Parties in accordance with a Memorandum of Understanding. 
 
 ### Article  11  
 
 ####Implementation legislation
 
-The Contracting Parties shall (where they have not already done so) enact any legislation necessary to comply with, and give effect to, the terms of this Agreement.  
+The Contracting Parties shall (where they have not already done so) enact any legislation necessary to comply with, and give effect to, the terms of this Agreement. 
 
 ### Article  12  
 
 ####Language
 
-Requests for assistance and answers thereto shall be drawn up in English.  
+Requests for assistance and answers thereto shall be drawn up in English. 
 
 ### Article  13  
 
@@ -231,13 +231,13 @@ Requests for assistance and answers thereto shall be drawn up in English.
 1.  Where difficulties or doubts arise between the Contracting Parties regarding the implementation or interpretation of this Agreement, the competent authorities shall use their best efforts to resolve the matter by mutual agreement, including utilising the Commentary in Part III of the OECD Model Agreement on Exchange of Information on Tax Matters where the provisions of the OECD Model Agreement are identical or substantially identical to the provisions of this Agreement.   
 2.  In addition to the endeavours referred to in paragraph 1, the competent authorities of the Contracting Parties may mutually determine the procedures to be used under Articles 5 and 6.   
 3.  The competent authorities of the Contracting Parties may communicate with each other directly for purposes of this Agreement.   
-4.  The Contracting Parties may also agree on other forms of dispute resolution, including mediation and arbitration.   
+4.  The Contracting Parties may also agree on other forms of dispute resolution, including mediation and arbitration.  
 
 ### Article  14  
 
 ####Entry into force
 
-This Agreement shall enter into force on the first day of the third month after the latter of the respective Parties have notified each other in writing that the formalities required in their respective jurisdiction have been complied with, and its provisions shall have effect with respect to the exchange of information for criminal tax matters on or after that date, and, with respect to all other matters for taxable periods beginning on or after that date, or where there is no taxable period, for all charges to tax arising on or after that date.  
+This Agreement shall enter into force on the first day of the third month after the latter of the respective Parties have notified each other in writing that the formalities required in their respective jurisdiction have been complied with, and its provisions shall have effect with respect to the exchange of information for criminal tax matters on or after that date, and, with respect to all other matters for taxable periods beginning on or after that date, or where there is no taxable period, for all charges to tax arising on or after that date. 
 
 ### Article  15  
 
@@ -245,9 +245,9 @@ This Agreement shall enter into force on the first day of the third month after 
 
 1.  This Agreement shall remain in force until terminated by one of the Contracting Parties. Either Contracting Party may terminate the Agreement by giving at least six months notice to the other Contracting Party after the expiration of a period of three years from the date of its entry into force. In such event the Agreement shall cease to have effect for taxable years and periods beginning after the end of the year in which the notice of termination has been given.   
 2.  Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notice of termination by the other Contracting Party.   
-3.  In the event of termination, the Contracting Parties shall remain bound by the provisions of Article 8 with respect to any information obtained under this Agreement. All requests received up to the effective date of termination shall be dealt with in accordance with the terms of this Agreement.   
+3.  In the event of termination, the Contracting Parties shall remain bound by the provisions of Article 8 with respect to any information obtained under this Agreement. All requests received up to the effective date of termination shall be dealt with in accordance with the terms of this Agreement.  
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto have signed this Agreement. DONE at The Hague this 11 <sup>th</sup> day of September 2009, in duplicate, in the English language.  *For the Kingdom of the Netherlands:*  J. C. DE JAGER State Secretary for Finance  *For the British Virgin Islands:*  RALPH T. O’NEAL Premier and Minister of Finance  
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto have signed this Agreement. DONE at The Hague this 11<sup>th</sup> day of September 2009, in duplicate, in the English language. *For the Kingdom of the Netherlands:* J. C. DE JAGER State Secretary for Finance *For the British Virgin Islands:* RALPH T. O’NEAL Premier and Minister of Finance  
 
 ####Protocol between the Kingdom of the Netherlands and the British Virgin Islands concerning the interpretation and implementation of the Agreement between the Kingdom of the Netherlands and the British Virgin Islands for the exchange of information with respect to taxes
 
@@ -275,19 +275,19 @@ g) if the domestic law of the supplying authority provides, with respect to the 
 
 h) the supplying and the receiving authorities shall be obliged to keep official records of the supply and receipt of personal data;  
 
-i) the supplying and the receiving authorities shall be obliged to take effective measures to protect the personal data supplied against unauthorized access, unauthorized alteration and unauthorized disclosure.     
+i) the supplying and the receiving authorities shall be obliged to take effective measures to protect the personal data supplied against unauthorized access, unauthorized alteration and unauthorized disclosure.    
 
 ### Article  2  
 
 ####(Article 5  – Notification on request)
 
-For the purpose of facilitating the exchange of information under the Agreement, where information received by the competent authority of the Requested Party is not sufficient to enable it to comply with the request, it shall advise the competent authority of the Requesting Party of that fact and request such additional information as may be required to enable the effective processing of the request.  
+For the purpose of facilitating the exchange of information under the Agreement, where information received by the competent authority of the Requested Party is not sufficient to enable it to comply with the request, it shall advise the competent authority of the Requesting Party of that fact and request such additional information as may be required to enable the effective processing of the request. 
 
 ### Article  3  
 
 ####(Modifications to the Agreement )
 
-At any time after the entry into force of this Protocol, a Contracting Party may propose modifications, for the purpose of bringing the Agreement into conformity with the internationally agreed standards on exchange of information for tax purposes. Upon receipt of such a proposal, the other Contracting Party shall enter into good faith negotiations concerning the proposal.  
+At any time after the entry into force of this Protocol, a Contracting Party may propose modifications, for the purpose of bringing the Agreement into conformity with the internationally agreed standards on exchange of information for tax purposes. Upon receipt of such a proposal, the other Contracting Party shall enter into good faith negotiations concerning the proposal. 
 
 ### Article  4  
 
@@ -295,7 +295,7 @@ At any time after the entry into force of this Protocol, a Contracting Party may
 
 1.  Neither of the Contracting Parties shall apply prejudicial or restrictive measures based on harmful tax practices to residents or nationals of either Contracting Party so long as this Agreement is in force and effective.   
 2.  A “prejudicial or restrictive measure based on harmful tax practices” is a measure applied by one Contracting Party to residents or nationals of either Contracting Party on the basis that the other Contracting Party does not engage in effective exchange of information and/or because it lacks transparency in the operation of its laws, regulations or administrative practices, or on the basis of no or nominal taxes and one of the preceding criteria.   
-3.  Without limiting the generality of paragraph 2, the term “prejudicial or restrictive measure” is not limited solely to taxation matters and includes the denial of a deduction, credit or exemption, the imposition of a tax, charge or levy, or special reporting requirements, but does not include any generally applicable measures, applied by either Contracting Party against, amongst others, members of the OECD generally.   
+3.  Without limiting the generality of paragraph 2, the term “prejudicial or restrictive measure” is not limited solely to taxation matters and includes the denial of a deduction, credit or exemption, the imposition of a tax, charge or levy, or special reporting requirements, but does not include any generally applicable measures, applied by either Contracting Party against, amongst others, members of the OECD generally.  
 
 ### Article  5  
 
@@ -311,17 +311,17 @@ a) The competent authority may initiate discussions should:
 
 (iii) either Contracting Party introduce new legislation which enables other forms of exchange of information;    
 
-b) If the Netherlands enters into arrangements with other jurisdiction for the provision of information with respect to taxes that are less burdensome in any material respect than the provisions of the Agreement, the British Virgin Islands may initiate discussions with the Netherlands with a view to modifying the Agreement to have similar arrangements. <sup> 1)  [Red: Noot redactie: hier wordt kennelijk „another” bedoeld.]  </sup>    
+b) If the Netherlands enters into arrangements with other<sup> 1) [Red: Noot redactie: hier wordt kennelijk „another” bedoeld.] </sup> jurisdiction for the provision of information with respect to taxes that are less burdensome in any material respect than the provisions of the Agreement, the British Virgin Islands may initiate discussions with the Netherlands with a view to modifying the Agreement to have similar arrangements.   
 
 ### Article  6  
 
-This Protocol shall form an integral part of the Agreement between the Kingdom of the Netherlands and the British Virgin Islands for the Exchange of Information With Respect to Taxes, and shall enter into force on the same date as the Agreement.  
+This Protocol shall form an integral part of the Agreement between the Kingdom of the Netherlands and the British Virgin Islands for the Exchange of Information With Respect to Taxes, and shall enter into force on the same date as the Agreement. 
 
 ### Article  7  
 
-The Contracting Parties may, by mutual arrangement, amend this Protocol at any time in writing. Such amendment shall enter into force on the first day of the second month after the Contracting Parties have notified each other in writing through diplomatic channels that the constitutional or internal requirements for the entry into force of the amendment have been complied with.  
+The Contracting Parties may, by mutual arrangement, amend this Protocol at any time in writing. Such amendment shall enter into force on the first day of the second month after the Contracting Parties have notified each other in writing through diplomatic channels that the constitutional or internal requirements for the entry into force of the amendment have been complied with. 
 
-IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Protocol. DONE at The Hague this 11 <sup>th</sup> day of September 2009, in duplicate, in the English language.  *For the Kingdom of the Netherlands:*  J. C. DE JAGER State Secretary for Finance  *For the British Virgin Islands:*  RALPH T. O’NEAL Premier and Minister of Finance  
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Protocol. DONE at The Hague this 11<sup>th</sup> day of September 2009, in duplicate, in the English language. *For the Kingdom of the Netherlands:* J. C. DE JAGER State Secretary for Finance *For the British Virgin Islands:* RALPH T. O’NEAL Premier and Minister of Finance  
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en de Britse Maagdeneilanden inzake de uitwisseling van informatie betreffende belastingen
 
@@ -331,7 +331,7 @@ De Regering van het Koninkrijk der Nederlanden, en de Regering van de Britse Maa
 
 ####Reikwijdte van het Verdrag
 
-De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen en belastingzaken waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling, verificatie, tenuitvoerlegging, invordering of inning van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8.  
+De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen en belastingzaken waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling, verificatie, tenuitvoerlegging, invordering of inning van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. 
 
 ### Artikel  2  
 
@@ -341,7 +341,7 @@ Ten behoeve van de juiste uitvoering van dit Verdrag, verstrekt de bevoegde auto
 
 a. ongeacht of de persoon op wie de informatie betrekking heeft inwoner of onderdaan van een partij is of de persoon in wiens bezit de informatie is een inwoner of onderdaan van een partij is; en  
 
-b. op voorwaarde dat de informatie zich binnen het grondgebied van de aangezochte partij bevindt, of in het bezit of in de macht is van een persoon die aanwezig is op het rechtsgebied van de aangezochte partij.    
+b. op voorwaarde dat de informatie zich binnen het grondgebied van de aangezochte partij bevindt, of in het bezit of in de macht is van een persoon die aanwezig is op het rechtsgebied van de aangezochte partij.   
 
 ### Artikel  3  
 
@@ -380,7 +380,7 @@ i. de inkomstenbelasting;
 ii. de loonbelasting; en  
 
 iii. de vermogensbelasting.       
-2.  Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die door een van de verdragsluitende partijen na de datum van ondertekening van dit Verdrag naast of in de plaats van de in het eerste lid genoemde bestaande belastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende partijen doen elkaar bij briefwisseling mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop het Verdrag van toepassing is.   
+2.  Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die door een van de verdragsluitende partijen na de datum van ondertekening van dit Verdrag naast of in de plaats van de in het eerste lid genoemde bestaande belastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende partijen doen elkaar bij briefwisseling mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop het Verdrag van toepassing is.  
 
 ### Artikel  4  
 
@@ -424,18 +424,18 @@ m. wordt verstaan onder de uitdrukking „openbaar collectief beleggingsfonds of
 
 n. wordt verstaan onder de uitdrukking „beursgenoteerd lichaam” elk lichaam waarvan de voornaamste aandelencategorie aan een erkende effectenbeurs staat genoteerd mits de ter beurze genoteerde aandelen direct door het publiek gekocht of verkocht kunnen worden; voor de toepassing van deze omschrijving wordt verstaan onder de uitdrukking: 
 
-i. „voornaamste aandelencategorie” de aandelencategorie of -categorieën die een meerderheid van het totale aantal stemmen en de waarde van het lichaam vertegenwoordigen;  
+i.„voornaamste aandelencategorie” de aandelencategorie of -categorieën die een meerderheid van het totale aantal stemmen en de waarde van het lichaam vertegenwoordigen;
 
-ii. „aandelen kunnen door het publiek worden gekocht of verkocht” dat de aankoop of verkoop van aandelen niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders;  
+ii.„aandelen kunnen door het publiek worden gekocht of verkocht” dat de aankoop of verkoop van aandelen niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders;
 
-iii. „erkende effectenbeurs” elke effectenbeurs die de bevoegde autoriteiten van de verdragsluitende partijen zijn overeengekomen;    
+iii.„erkende effectenbeurs” elke effectenbeurs die de bevoegde autoriteiten van de verdragsluitende partijen zijn overeengekomen;  
 
 o. wordt verstaan onder de uitdrukking „aangezochte partij” de verdragsluitende partij die verzocht wordt informatie te verstrekken of zulks reeds gedaan heeft naar aanleiding van een verzoek;  
 
 p. wordt verstaan onder de uitdrukking „verzoekende partij” de verdragsluitende partij die verzoekt om informatie of deze heeft ontvangen van de aangezochte partij;  
 
 q. wordt verstaan onder de uitdrukking „belasting” elke belasting waarop dit Verdrag van toepassing is.     
-2.  Wat betreft de toepassing, op enig moment, van dit Verdrag door een verdragsluitende partij, heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die verdragsluitende partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die verdragsluitende partij aan die uitdrukking wordt gegeven.   
+2.  Wat betreft de toepassing, op enig moment, van dit Verdrag door een verdragsluitende partij, heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die verdragsluitende partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die verdragsluitende partij aan die uitdrukking wordt gegeven.  
 
 ### Artikel  5  
 
@@ -478,7 +478,7 @@ h. een verklaring dat de verzoekende partij op haar eigen grondgebied alles in h
 a. bevestigt de bevoegde autoriteit van de aangezochte partij de ontvangst van een verzoek schriftelijk aan de bevoegde autoriteit van de verzoekende partij en stelt zij de bevoegde autoriteit van de verzoekende partij binnen 60 dagen na ontvangst van het verzoek in kennis van eventuele gebreken in het verzoek; en  
 
 b. indien de bevoegde autoriteit van de aangezochte partij niet in staat is de informatie binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, onder meer omdat zij belemmeringen ondervindt bij het verstrekken van de informatie, of indien de bevoegde autoriteit van de aangezochte partij weigert de informatie te verstrekken, stelt zij de bevoegde autoriteit van de verzoekende partij daarvan onverwijld schriftelijk op de hoogte, onder vermelding van de oorzaken van de onmogelijkheid of de redenen voor haar weigering de informatie te verkrijgen en te verstrekken.     
-8.  Voor de toepassing van dit Verdrag kunnen de verdragsluitende partijen een memorandum van overeenstemming sluiten voor het regelen van procedurele aangelegenheden die zij noodzakelijk achten voor de behandeling van verzoeken om het verstrekken van informatie over belastingzaken uit hoofde van dit Verdrag en andere daarmee verband houdende aangelegenheden.   
+8.  Voor de toepassing van dit Verdrag kunnen de verdragsluitende partijen een memorandum van overeenstemming sluiten voor het regelen van procedurele aangelegenheden die zij noodzakelijk achten voor de behandeling van verzoeken om het verstrekken van informatie over belastingzaken uit hoofde van dit Verdrag en andere daarmee verband houdende aangelegenheden.  
 
 ### Artikel  6  
 
@@ -486,7 +486,7 @@ b. indien de bevoegde autoriteit van de aangezochte partij niet in staat is de i
 
 1.  Voor zover toegestaan ingevolge haar nationale recht kan de aangezochte partij, na een verzoek binnen een redelijke termijn van de verzoekende partij, vertegenwoordigers van de bevoegde autoriteit van de verzoekende partij toestaan het grondgebied van de aangezochte partij binnen te komen met een verzoek natuurlijke personen te ondervragen en met schriftelijke toestemming van de betrokken personen stukken te onderzoeken. De bevoegde autoriteit van de verzoekende partij stelt de bevoegde autoriteit van de aangezochte partij in kennis van het tijdstip en de locatie van de beoogde bijeenkomst met de betrokken natuurlijke personen.   
 2.  Op verzoek van de bevoegde autoriteit van de verzoekende partij kan de bevoegde autoriteit van de aangezochte partij in overeenstemming met haar nationale recht, vertegenwoordigers van de bevoegde autoriteit van de verzoekende partij toestaan aanwezig te zijn bij het daarvoor in aanmerking komende deel van een belastingcontrole in de aangezochte partij.   
-3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de aangezochte partij die de controle uitvoert, de bevoegde autoriteit van de verzoekende partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de aangewezen autoriteit of functionaris die de controle zal uitvoeren en van de procedures en voorwaarden die bij de aangezochte partij vereist zijn voor de uitvoering van de controle. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de aangezochte partij die de controle in overeenstemming met haar nationale recht uitvoert.   
+3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de aangezochte partij die de controle uitvoert, de bevoegde autoriteit van de verzoekende partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de aangewezen autoriteit of functionaris die de controle zal uitvoeren en van de procedures en voorwaarden die bij de aangezochte partij vereist zijn voor de uitvoering van de controle. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de aangezochte partij die de controle in overeenstemming met haar nationale recht uitvoert.  
 
 ### Artikel  7  
 
@@ -510,7 +510,7 @@ ii. plaatsvindt ten behoeve van bestaande of mogelijk in te stellen gerechtelijk
 
 b. informatie die wordt gehouden met het oogmerk van bevordering van een crimineel doel vallen niet onder de bescherming van de vertrouwelijkheid en niets in dit artikel belet een advocaat of een andere erkende juridische vertegenwoordiger de naam en het adres van een cliënt te verstrekken indien zulks geen schending van de vertrouwelijkheid vormt.     
 4.  Een verzoek om informatie wordt niet geweigerd op grond van het feit dat de belastingvordering die aanleiding gaf tot het verzoek wordt betwist.   
-5.  De aangezochte partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende partij wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende partij toe te passen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte partij ten opzichte van een inwoner of onderdaan van de verzoekende partij die zich in dezelfde omstandigheden bevindt.   
+5.  De aangezochte partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende partij wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende partij toe te passen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte partij ten opzichte van een inwoner of onderdaan van de verzoekende partij die zich in dezelfde omstandigheden bevindt.  
 
 ### Artikel  8  
 
@@ -518,31 +518,31 @@ b. informatie die wordt gehouden met het oogmerk van bevordering van een crimine
 
 1.  Alle uit hoofde van dit Verdrag door een verdragsluitende partij verstrekte en ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende verdragsluitende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken.   
 2.  De informatie mag zonder de uitdrukkelijke schriftelijk toestemming van de bevoegde autoriteit van de aangezochte partij niet worden bekendgemaakt aan een persoon, entiteit of autoriteit of een andere rechtsmacht die een verdrag tot uitwisseling van informatie heeft gesloten met de aangezochte partij.   
-3.  Tenzij anders bepaald in het tweede lid, mag geen informatie worden verstrekt aan een andere persoon, entiteit, autoriteit of rechtsmacht.   
+3.  Tenzij anders bepaald in het tweede lid, mag geen informatie worden verstrekt aan een andere persoon, entiteit, autoriteit of rechtsmacht.  
 
 ### Artikel  9  
 
 ####Waarborgen
 
-Niets in dit Verdrag doet afbreuk aan de uit hoofde van de wetten of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen. De aangezochte partij mag de rechten en waarborgen niet zodanig toepassen dat de doeltreffende uitwisseling van informatie onnodig wordt verhinderd of vertraagd.  
+Niets in dit Verdrag doet afbreuk aan de uit hoofde van de wetten of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen. De aangezochte partij mag de rechten en waarborgen niet zodanig toepassen dat de doeltreffende uitwisseling van informatie onnodig wordt verhinderd of vertraagd. 
 
 ### Artikel  10  
 
 ####Kosten
 
-De verdragsluitende partijen bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand (met inbegrip van redelijke kosten van derden en externe adviseurs in verband met gerechtelijke procedures of andere kosten) in overeenstemming met een memorandum van overeenstemming.  
+De verdragsluitende partijen bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand (met inbegrip van redelijke kosten van derden en externe adviseurs in verband met gerechtelijke procedures of andere kosten) in overeenstemming met een memorandum van overeenstemming. 
 
 ### Artikel  11  
 
 ####Uitvoeringswetgeving
 
-De verdragsluitende partijen stellen de toepasselijke wetgeving vast (voor zover zij zulks nog niet hebben gedaan) die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag.  
+De verdragsluitende partijen stellen de toepasselijke wetgeving vast (voor zover zij zulks nog niet hebben gedaan) die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag. 
 
 ### Artikel  12  
 
 ####Taal
 
-Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld.  
+Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld. 
 
 ### Artikel  13  
 
@@ -551,13 +551,13 @@ Verzoeken om bijstand en antwoorden daarop worden in het Engels gesteld.
 1.  De bevoegde autoriteiten stellen alles in het werk om moeilijkheden of twijfelpunten die tussen de verdragsluitende partijen mochten rijzen met betrekking tot de uitvoering of de uitlegging van dit Verdrag in onderling overleg op te lossen en nemen daarbij het commentaar in Deel III van het OESO-modelverdrag tot uitwisseling van informatie betreffende belastingzaken in aanmerking indien de bepalingen van het OESO-modelverdrag gelijk zijn aan of in wezen gelijk zijn aan de bepalingen van dit Verdrag.   
 2.  Naast de in het eerste lid bedoelde afspraken kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg de krachtens de artikelen 5 en 6 te hanteren procedures vaststellen.   
 3.  De bevoegde autoriteiten van de verdragsluitende partijen kunnen zich rechtstreeks met elkaar in verbinding stellen voor de toepassing van dit Verdrag.   
-4.  De verdragsluitende partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling met inbegrip van bemiddeling en arbitrage.   
+4.  De verdragsluitende partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling met inbegrip van bemiddeling en arbitrage.  
 
 ### Artikel  14  
 
 ####Inwerkingtreding
 
-Dit Verdrag treedt in werking op de eerste dag van de derde maand nadat de laatste van de onderscheiden partijen de andere schriftelijk heeft medegedeeld dat aan de in haar rechtsgebied vereiste formaliteiten is voldaan en de bepalingen ervan zijn van toepassing ter zake van de uitwisseling van informatie over strafrechtelijke belastingzaken op of na die datum, en, ter zake van alle overige aangelegenheden op belastingtijdvakken beginnend op of na die datum of, bij ontbreken van een belastingtijdvak, op alle belastingvorderingen die op of na die datum ontstaan.  
+Dit Verdrag treedt in werking op de eerste dag van de derde maand nadat de laatste van de onderscheiden partijen de andere schriftelijk heeft medegedeeld dat aan de in haar rechtsgebied vereiste formaliteiten is voldaan en de bepalingen ervan zijn van toepassing ter zake van de uitwisseling van informatie over strafrechtelijke belastingzaken op of na die datum, en, ter zake van alle overige aangelegenheden op belastingtijdvakken beginnend op of na die datum of, bij ontbreken van een belastingtijdvak, op alle belastingvorderingen die op of na die datum ontstaan. 
 
 ### Artikel  15  
 
@@ -565,13 +565,13 @@ Dit Verdrag treedt in werking op de eerste dag van de derde maand nadat de laats
 
 1.  Dit Verdrag blijft van kracht totdat het door een van de verdragsluitende partijen wordt beëindigd. Elk van de verdragsluitende partijen kan het Verdrag beëindigen door het, na het verstrijken van een tijdvak van drie jaar na de datum van inwerkingtreding, ten minste zes maanden vooraf te beëindigen door middel van een kennisgeving aan de andere verdragsluitende partij. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het jaar waarin de kennisgeving van de beëindiging is gedaan.   
 2.  Deze beëindiging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere verdragsluitende partij.   
-3.  Bij beëindiging van dit Verdrag, blijven de verdragsluitende partijen gebonden door de voorwaarden van artikel 8 ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie. Alle verzoeken die worden ontvangen voor de datum waarop het Verdrag beëindigd is, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.   
+3.  Bij beëindiging van dit Verdrag, blijven de verdragsluitende partijen gebonden door de voorwaarden van artikel 8 ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie. Alle verzoeken die worden ontvangen voor de datum waarop het Verdrag beëindigd is, worden behandeld in overeenstemming met de bepalingen van dit Verdrag.  
 
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN in tweevoud te Den Haag, op 11 september 2009, in de Engelse taal.  *Voor het Koninkrijk der Nederlanden:*  J.C. DE JAGER Staatssecretaris van Financiën  *Voor de Britse Maagdeneilanden:*  RALPH T. O’NEAL Premier en minister van Financiën  
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN in tweevoud te Den Haag, op 11 september 2009, in de Engelse taal. *Voor het Koninkrijk der Nederlanden:*J.C. DE JAGER Staatssecretaris van Financiën*Voor de Britse Maagdeneilanden:* RALPH T. O’NEAL Premier en minister van Financiën 
 
 ####Protocol tussen het Koninkrijk der Nederlanden en de Britse Maagdeneilanden betreffende de uitlegging en toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en de Britse Maagdeneilanden inzake de uitwisseling van informatie betreffende belastingen 
 
-De Regering van het Koninkrijk der Nederlanden, en de Regering van de Britse Maagdeneilanden, (hierna te noemen „de verdragsluitende partijen”), Geleid door de wens de uitwisseling van informatie betreffende belastingen te vergemakkelijken,   Zijn voorts het volgende overeengekomen:    
+De Regering van het Koninkrijk der Nederlanden,en de Regering van de Britse Maagdeneilanden, (hierna te noemen „de verdragsluitende partijen”), Geleid door de wens de uitwisseling van informatie betreffende belastingen te vergemakkelijken,   Zijn voorts het volgende overeengekomen:    
 
 ### Artikel  1  
 
@@ -595,19 +595,19 @@ g. Indien het nationale recht van de verstrekkende autoriteit ter zake van de ve
 
 h. De verstrekkende en de ontvangende autoriteit zijn verplicht het verstrekken en ontvangen van persoonsgegevens officieel te registreren;  
 
-i. De verstrekkende en de ontvangende autoriteit zijn verplicht doeltreffende maatregelen te nemen ter bescherming van verstrekte persoonsgegevens tegen toegang of wijziging door en bekendmaking aan onbevoegden.     
+i. De verstrekkende en de ontvangende autoriteit zijn verplicht doeltreffende maatregelen te nemen ter bescherming van verstrekte persoonsgegevens tegen toegang of wijziging door en bekendmaking aan onbevoegden.    
 
 ### Artikel  2  
 
 ####(Artikel 5  - Kennisgeving op verzoek)
 
-Teneinde de uitwisseling van informatie uit hoofde van het Verdrag te vergemakkelijken, indien de informatie die door de bevoegde autoriteit van de aangezochte partij is ontvangen niet toereikend is om aan het verzoek om informatie te voldoen, stelt zij de bevoegde autoriteit van de verzoekende partij hiervan in kennis en verzoekt zij om de aanvullende informatie die nodig kan zijn om het verzoek naar behoren te kunnen behandelen.  
+Teneinde de uitwisseling van informatie uit hoofde van het Verdrag te vergemakkelijken, indien de informatie die door de bevoegde autoriteit van de aangezochte partij is ontvangen niet toereikend is om aan het verzoek om informatie te voldoen, stelt zij de bevoegde autoriteit van de verzoekende partij hiervan in kennis en verzoekt zij om de aanvullende informatie die nodig kan zijn om het verzoek naar behoren te kunnen behandelen. 
 
 ### Artikel  3  
 
 ####(Wijziging van het Verdrag )
 
-Een verdragsluitende partij kan te allen tijde na de inwerkingtreding van dit Protocol wijzigingen van het Verdrag voorstellen teneinde het in overeenstemming te brengen met de internationaal overeengekomen normen inzake de uitwisseling van informatie voor fiscale doeleinden. Na ontvangst van een dergelijk verzoek neemt de andere verdragsluitende partij te goeder trouw deel aan de onderhandelingen over het voorstel.  
+Een verdragsluitende partij kan te allen tijde na de inwerkingtreding van dit Protocol wijzigingen van het Verdrag voorstellen teneinde het in overeenstemming te brengen met de internationaal overeengekomen normen inzake de uitwisseling van informatie voor fiscale doeleinden. Na ontvangst van een dergelijk verzoek neemt de andere verdragsluitende partij te goeder trouw deel aan de onderhandelingen over het voorstel. 
 
 ### Artikel  4  
 
@@ -615,7 +615,7 @@ Een verdragsluitende partij kan te allen tijde na de inwerkingtreding van dit Pr
 
 1.  Gedurende het tijdvak waarin het Verdrag van kracht is past geen van de verdragsluitende partijen nadelige of beperkende maatregelen toe gebaseerd op voor de inwoners of onderdanen van de andere verdragsluitende partij schadelijke fiscale praktijken.   
 2.  Een „nadelige of beperkende maatregel gebaseerd op schadelijke fiscale praktijken” is een maatregel die de ene verdragsluitende partij toepast op inwoners of onderdanen van de andere verdragsluitende partij omdat de andere verdragsluitende partij niet deelneemt aan de doeltreffende uitwisseling van informatie en/of omdat het ontbreekt aan transparantie bij de uitvoering van haar wet- en regelgeving of bestuursrechtelijke praktijken of omdat de maatregel wordt genomen zonder belastinggrondslag of op grond van minieme belastingen of omdat voldaan wordt aan een van de voorgaande criteria.   
-3.  Zonder het algemene karakter van het tweede lid te beperken is de uitdrukking „nadelige of beperkende maatregel” niet alleen beperkt tot fiscale aangelegenheden en omvat zij mede het weigeren van aftrek, verrekening of vrijstelling, het opleggen van een belasting of heffing, of bijzondere rapportagevereisten; zij omvat niet de algemeen toepasselijke maatregelen die door een van de verdragsluitende partijen in het algemeen worden opgelegd aan onder meer leden van de OESO.   
+3.  Zonder het algemene karakter van het tweede lid te beperken is de uitdrukking „nadelige of beperkende maatregel” niet alleen beperkt tot fiscale aangelegenheden en omvat zij mede het weigeren van aftrek, verrekening of vrijstelling, het opleggen van een belasting of heffing, of bijzondere rapportagevereisten; zij omvat niet de algemeen toepasselijke maatregelen die door een van de verdragsluitende partijen in het algemeen worden opgelegd aan onder meer leden van de OESO.  
 
 ### Artikel  5  
 
@@ -631,15 +631,15 @@ ii. de Britse Maagdeneilanden een verdrag sluiten met een andere mogendheid dat 
 
 iii. een van de verdragsluitende partijen nieuwe wetgeving invoert die andere vormen van uitwisseling van informatie mogelijk maakt.    
 
-b. Indien Nederland met een andere mogendheid regelingen treft voor het verstrekken van informatie ter zake van belastingen die in materieel opzicht minder belastend zijn dan de bepalingen van het Verdrag, kunnen de Britse Maagdeneilanden met Nederland in overleg treden teneinde het Verdrag dienovereenkomstig aan te passen.    
+b. Indien Nederland met een andere mogendheid regelingen treft voor het verstrekken van informatie ter zake van belastingen die in materieel opzicht minder belastend zijn dan de bepalingen van het Verdrag, kunnen de Britse Maagdeneilanden met Nederland in overleg treden teneinde het Verdrag dienovereenkomstig aan te passen.   
 
 ### Artikel  6  
 
-Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden en de Britse Maagdeneilanden inzake de uitwisseling van informatie betreffende belastingen en treedt in werking op dezelfde datum als het Verdrag.  
+Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden en de Britse Maagdeneilanden inzake de uitwisseling van informatie betreffende belastingen en treedt in werking op dezelfde datum als het Verdrag. 
 
 ### Artikel  7  
 
-De verdragsluitende partijen kunnen dit Protocol te allen tijde in onderling overleg schriftelijk wijzigen. Een dergelijke wijziging treedt in werking op de eerste dag van de tweede maand nadat de verdragsluitende partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of interne vereisten voor de inwerkingtreding van de wijziging is voldaan.  
+De verdragsluitende partijen kunnen dit Protocol te allen tijde in onderling overleg schriftelijk wijzigen. Een dergelijke wijziging treedt in werking op de eerste dag van de tweede maand nadat de verdragsluitende partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of interne vereisten voor de inwerkingtreding van de wijziging is voldaan. 
 
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden regeringen, dit Protocol hebben ondertekend. GEDAAN in tweevoud te Den Haag, op 11 september 2009, in de Engelse taal.  *Voor het Koninkrijk der Nederlanden:*  J.C. DE JAGER Staatssecretaris van Financiën  *Voor de Britse Maagdeneilanden:*  RALPH T.O’NEAL Premier en minister van Financiën  
+TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden regeringen, dit Protocol hebben ondertekend. GEDAAN in tweevoud te Den Haag, op 11 september 2009, in de Engelse taal. *Voor het Koninkrijk der Nederlanden:* J.C. DE JAGER Staatssecretaris van Financiën*Voor de Britse Maagdeneilanden:*RALPH T.O’NEALPremier en minister van Financiën 
 

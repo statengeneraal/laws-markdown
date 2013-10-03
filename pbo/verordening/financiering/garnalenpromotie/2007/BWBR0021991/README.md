@@ -9,6 +9,7 @@ Gehoord de Garnalenadviescommissie;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 10-05-2009 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -21,24 +22,27 @@ Besluit:
 |  *g.*   |  *Aanvoeren:*   | het als eerste eigenaar voor de eerste keer of het met behulp van de spanvisserij aan land brengen van garnalen;  |
 |  *h.*   |  *Aanvoerder:*   | de ondernemer die met een in Nederland geregistreerd vissersvaartuig of op andere wijze garnalen aanvoert;  |
 |  *i.*   |  *Afslag:*   | een veiling van vis en/of visproducten;  |
-|  *j.*   |  *Fonds:*   | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor garnalenpromotie](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/garnalenpromotie/BWBR0014069/README.md)<sup>1</sup>.  |
+|  *j.*   |  *Fonds:*   | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor garnalenpromotie](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/garnalenpromotie/BWBR0014069/README.md)<sup>1</sup>.   |
 
-<sup>1</sup> Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedsekwaliteit) op 18-12-2003 en door de Sociaal-Economische Raad op 04-12-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 23-01-2004, nr. 5 VIS 2.  
+<sup>1</sup>Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedsekwaliteit) op 18-12-2003 en door de Sociaal-Economische Raad op 04-12-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 23-01-2004, nr. 5 VIS 2.
 
-### Artikel  1a  
+###Artikel 1a 
+Materieel uitgewerkt per 10-05-2009 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikel 2 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikel 2 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.
 
 ### Artikel  2  
+Materieel uitgewerkt per 10-05-2009 
 
 1.  Een ondernemer, die met een Nederlands vissersvaartuig garnalen aanvoert, is over alle door hem aangevoerde garnalen aan en ten behoeve van het productschap een heffing verschuldigd van € 0,005 per kg.   
 2.  Een in Nederland gevestigde ondernemer die garnalen betrekt van een ondernemer als bedoeld in het vorige lid, is over alle door hem van die ondernemer voor menselijke consumptiedoeleinden betrokken hoeveelheden garnalen aan en ten behoeve van het productschap een heffing verschuldigd van € 0,06 per kg.   
-3.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde en gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.   
+3.  Indien de garnalen in gepelde toestand worden aangevoerd of in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal aangevoerde en gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 10-05-2009 
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.   
-2.  Deze verordening kan worden aangehaald als Verordening financiering garnalenpromotie 2007.   
+2.  Deze verordening kan worden aangehaald als Verordening financiering garnalenpromotie 2007.  
 
 Rijswijk 
 12 oktober 2006   

@@ -9,6 +9,7 @@ Gehoord de Commissie aanvoeraangelegenheden;
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 11-09-2010 
 
 1.  In deze verordening wordt verstaan onder:  
 
@@ -24,15 +25,17 @@ Besluit:
 |  *h.*   |  *aanvoerder:*   | de ondernemer die schol aanvoert met een in Nederland geregistreerd vissersvaartuig;  |
 |  *i.*   |  *handelaar:*   | de ondernemer die schol koopt van een aanvoerder;  |
 |  *j.*   |  *afslag:*   | een veiling van vis en/of visproducten;  |
-|  *k.*   |  *fonds:*   | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor scholpromotie](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/scholpromotie/BWBR0014055/README.md).  <sup> 1   Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 25-02-2003 en door de Sociaal-Economische Raad op 21-11-2002; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 14-03-2003, nr. 19 VIS 5.    </sup> |
+|  *k.*   |  *fonds:*   | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor scholpromotie](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/scholpromotie/BWBR0014055/README.md)<sup>1 Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 25-02-2003 en door de Sociaal-Economische Raad op 21-11-2002; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 14-03-2003, nr. 19 VIS 5.  </sup>.   |
 
-2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.   
+2.  Voor de toepassing van het bepaalde bij of krachtens deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.  
 
 ### Artikel  1a  
+Materieel uitgewerkt per 11-09-2010 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 11-09-2010 
 
 1.  Elke ondernemer is aan het productschap ten bate van het fonds een heffing verschuldigd wegens: 
 
@@ -40,16 +43,18 @@ a. het aanvoeren van schol met een in Nederland geregistreerd vissersvaartuig;
 
 b. het kopen van schol die is aangevoerd met een in Nederland geregistreerd vissersvaartuig.     
 2.  De heffing wegens de handeling, bedoeld in het eerste lid, onderdeel a, bedraagt € 0,40 per 100 kg aangevoerde schol.   
-3.  De heffing wegens de handeling, bedoeld in het eerste lid, onderdeel b, bedraagt € 0,40 per 100 kg aangekochte schol.   
+3.  De heffing wegens de handeling, bedoeld in het eerste lid, onderdeel b, bedraagt € 0,40 per 100 kg aangekochte schol.  
 
 ### Artikel  3  
+Materieel uitgewerkt per 11-09-2010 
 
-De heffing, bedoeld in artikel 2, is niet meer verschuldigd indien twee weken verstreken zijn nadat bij het productschap bekend is geworden dat de opbrengst van de heffing een bedrag van € 200.000,– overschrijdt.  
+De heffing, bedoeld in artikel 2, is niet meer verschuldigd indien twee weken verstreken zijn nadat bij het productschap bekend is geworden dat de opbrengst van de heffing een bedrag van € 200.000,– overschrijdt. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 11-09-2010 
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.   
-2.  Deze verordening kan worden aangehaald als Verordening financiering scholpromotie 2007.   
+2.  Deze verordening kan worden aangehaald als Verordening financiering scholpromotie 2007.  
 
 Rijswijk 
 12 oktober 2006   

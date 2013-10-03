@@ -19,22 +19,22 @@ In deze verordening wordt verstaan onder:
 |  *c.*   |  *bestuur:*   | het bestuur van het productschap  |
 |  *d.*   |  *voorzitter:*   | de voorzitter van het productschap;  |
 |  *e.*   |  *secretaris:*   | de secretaris van het productschap;  |
-|  *f.*   |  *Onderzoekfonds kleinhandel:*   | het fonds ingesteld krachtens [artikel 1, eerste lid, van de Verordening instelling van een onderzoekfonds kleinhandel](../../../../../../pbo/verordening/instelling/van/een/onderzoekfonds/kleinhandel/BWBR0014880/README.md);  <sup> 1   Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 13-05-2003 en door de Sociaal-Economische Raad op 22-05-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 01-08-2003, nr. 47 VIS 18.    </sup> |
+|  *f.*   |  *Onderzoekfonds kleinhandel:*   | het fonds ingesteld krachtens [artikel 1, eerste lid, van de Verordening instelling van een onderzoekfonds kleinhandel](../../../../../../pbo/verordening/instelling/van/een/onderzoekfonds/kleinhandel/BWBR0014880/README.md)<sup>1 Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 13-05-2003 en door de Sociaal-Economische Raad op 22-05-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 01-08-2003, nr. 47 VIS 18. </sup>;   |
 |  *g.*   |  *Commissie detailhandel:*   | de commissie ingesteld door het bestuur voor het adviseren over aangelegenheden betreffende de detailhandel;  |
 |  *h.*   |  *ondernemer:*   | degene die een onderneming drijft, waarvoor het productschap is ingesteld;  |
 |  *i.*   |  *vis:*   | vissen, schaal- en schelpdieren, delen van vissen alsmede van schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren;  |
 |  *j.*   |  *visproducten:*   | uit vis verkregen producten, welke al dan niet na verdere be- of verwerking, tot menselijk of dierlijk voedsel kunnen dienen;  |
 |  *k.*   |  *kleinhandelaar:*   | een ondernemer die als onderdeel van zijn bedrijf heeft of zijn bedrijf maakt van het verkopen van vis en/of visproducten aan particulieren, instellingen en/of bedrijven als eindverbruikers.  |
 
-### Artikel  1a  
+###Artikel 1a 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2 en 3 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2 en 3 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.
 
 ### Artikel  2  
 
 1.  Een kleinhandelaar is jaarlijks aan het productschap een heffing verschuldigd ten behoeve van het onderzoekfonds kleinhandel.   
 2.  De hoogte van de in het eerste lid bedoelde heffing bedraagt € 15,50.   
-3.  Het bestuur stelt het bedrag, als bedoeld in het tweede lid, niet eerder vast dan nadat het de Commissie detailhandel heeft gehoord.   
+3.  Het bestuur stelt het bedrag, als bedoeld in het tweede lid, niet eerder vast dan nadat het de Commissie detailhandel heeft gehoord.  
 
 ### Artikel  3  
 
@@ -42,12 +42,12 @@ De secretaris kan, namens het bestuur, beslissen op een verzoek van een kleinhan
 
 a. het verkooppunt minder dan 1 kwartaal of 1 dag per week open is geweest;  
 
-b. of de totaal verschuldigde heffing(en) op grond van de onderhavige verordening en de bestemmingsheffingsverordeningen tezamen meer is dan 1% van de omzet.    
+b. of de totaal verschuldigde heffing(en) op grond van de onderhavige verordening en de bestemmingsheffingsverordeningen tezamen meer is dan 1% van de omzet.   
 
 ### Artikel  4  
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.   
-2.  Deze verordening kan worden aangehaald als Verordening onderzoekfonds kleinhandel 2007.   
+2.  Deze verordening kan worden aangehaald als Verordening onderzoekfonds kleinhandel 2007.  
 
 Rijswijk 
 12 oktober 2006   

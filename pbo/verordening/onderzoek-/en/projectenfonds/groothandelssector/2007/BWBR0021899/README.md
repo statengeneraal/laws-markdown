@@ -34,13 +34,13 @@ Besluit:
 |  *r.*   |  *aanvoeren:*   | het als eerste eigenaar voor de eerste keer of het met behulp van de spanvisserij aan land brengen van vis of garnalen;  |
 |  *s.*   |  *aanvoerder:*   | de ondernemer die met een in Nederland geregistreerd vissers vaartuig of op andere wijze vis of garnalen aanvoert;  |
 |  *t.*   |  *afslag:*   | een veiling van vis of visproducten;  |
-|  *u.*   |  *onderzoek- en projectenfonds:*   | het fonds ingesteld krachtens [artikel 2, eerste lid, van de groothandelssector Verordening instelling van een onderzoek- en projectenfonds groothandelssector](../../../../../../../../pbo/verordening/instelling/van/een/onderzoek-/en/projectenfonds/etc/BWBR0014877/README.md).  <sup> 1   Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 13-05-2003 en door de Sociaal-Economische Raad op 03-04-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 30-05-2003, nr. 37 VIS 13.    </sup> |
+|  *u.*   |  *onderzoek- en projectenfonds:*   | het fonds ingesteld krachtens [artikel 2, eerste lid, van de groothandelssector Verordening instelling van een onderzoek- en projectenfonds groothandelssector](../../../../../../../../pbo/verordening/instelling/van/een/onderzoek-/en/projectenfonds/etc/BWBR0014877/README.md)<sup>1 Goedgekeurd door de Minister van Landbouw, Natuurbeheer en Visserij (thans geheten Landbouw, Natuur en Voedselkwaliteit) op 13-05-2003 en door de Sociaal-Economische Raad op 03-04-2003; gepubliceerd in Verordeningenblad Bedrijfsorganisatie d.d. 30-05-2003, nr. 37 VIS 13. </sup>.   |
 
-2.  Voor de toepassing van het bepaalde in deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.   
+2.  Voor de toepassing van het bepaalde in deze verordening vindt het aanvoeren plaats op het tijdstip waarop het vissersvaartuig direct of indirect verbinding met de wal heeft gekregen.  
 
-### Artikel  1a  
+###Artikel 1a 
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2007 tot en met 31 december 2007 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.
 
 ### Artikel  2  
 
@@ -48,12 +48,12 @@ Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van 
 2.  Voor de berekening van de heffing, als bedoeld in het eerste lid, geldt als aankoopbedrag de door de ondernemer voor de betrokken vis bestede koopsom.   
 3.  Het bestuur stelt de heffing, als bedoeld in het eerste en vijfde lid, eerst vast dan nadat het bestuur de Commissie groothandel heeft gehoord.   
 4.  Een ondernemer die garnalen betrekt van een aanvoerder is aan het productschap, ten behoeve van het onderzoek- en projectenfonds groothandelssector, een heffing verschuldigd van € 0,0003 per kilogram garnalen.   
-5.  Indien de garnalen in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.   
+5.  Indien de garnalen in gepelde toestand worden gekocht van een aanvoerder, al dan niet door tussenkomst van een afslag, wordt het aantal gekochte kilogrammen ter bepaling van de verschuldigde heffing(en) vermenigvuldigd met een factor 3.  
 
 ### Artikel  3  
 
 1.  Deze verordening treedt in werking met ingang van 1 januari 2007. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt deze verordening in werking met ingang van de dag na de datum van uitgifte van het Verordeningenblad Bedrijfsorganisatie en werkt deze terug tot en met 1 januari 2007.   
-2.  Deze verordening kan worden aangehaald als Verordening onderzoek- en projectenfonds groothandelssector 2007.   
+2.  Deze verordening kan worden aangehaald als Verordening onderzoek- en projectenfonds groothandelssector 2007.  
 
 Rijswijk 
 12 oktober 2006   
