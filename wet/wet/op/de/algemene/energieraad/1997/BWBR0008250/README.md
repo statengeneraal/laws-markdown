@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Er is een Algemene Energieraad.  
+Er is een Algemene Energieraad. 
 
 ### Artikel  2  
 
-De Algemene Energieraad heeft tot taak de regering en de beide kamers der Staten-Generaal van advies te dienen omtrent het te voeren energiebeleid, waarbij onder meer aandacht wordt besteed aan de wisselwerking tussen het te voeren energiebeleid enerzijds en maatschappelijke ontwikkelingen en het te voeren beleid op andere gebieden anderzijds.  
+De Algemene Energieraad heeft tot taak de regering en de beide kamers der Staten-Generaal van advies te dienen omtrent het te voeren energiebeleid, waarbij onder meer aandacht wordt besteed aan de wisselwerking tussen het te voeren energiebeleid enerzijds en maatschappelijke ontwikkelingen en het te voeren beleid op andere gebieden anderzijds. 
 
 ### Artikel  3  
 
-De Algemene Energieraad bestaat uit ten hoogste tien leden.  
+De Algemene Energieraad bestaat uit ten hoogste tien leden. 
 
 ### Artikel  4  
 
-Deze wet treedt in werking met ingang van 1 januari 1997.  
+Deze wet treedt in werking met ingang van 1 januari 1997. 
 
 ### Artikel  5  
 
@@ -33,10 +33,10 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 25 september 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Economische Zaken, 
-G.J. Wijers   
+G.J. Wijers    
 
 De Staatssecretaris van Binnenlandse Zaken, 
 J. Kohnstamm   

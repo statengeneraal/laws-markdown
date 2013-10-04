@@ -11,28 +11,28 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Er is een Raad voor de leefomgeving en infrastructuur, hierna te noemen de raad.  
+Er is een Raad voor de leefomgeving en infrastructuur, hierna te noemen de raad. 
 
 ### Artikel  2  
 
 1.  De raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over strategische beleidsvraagstukken inzake de duurzame ontwikkeling van de leefomgeving en infrastructuur, meer in het bijzonder op het gebied van wonen, ruimtelijke ordening, milieu, klimaatbeleid, water, landbouw, natuur, voedsel(kwaliteit), verkeer en vervoer en de ruimtelijk-economische ontwikkeling, al dan niet in onderlinge samenhang.   
-2.  De raad heeft voorts tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de hoofdlijnen van het beleid en wetgeving gericht op het voorkomen van ongevallen en rampen als gevolg van het gebruik, de opslag, de productie en het vervoer van gevaarlijke stoffen en de beperking van de gevolgen van dergelijke ongevallen en rampen.   
+2.  De raad heeft voorts tot taak de regering en de beide kamers der Staten-Generaal te adviseren over de hoofdlijnen van het beleid en wetgeving gericht op het voorkomen van ongevallen en rampen als gevolg van het gebruik, de opslag, de productie en het vervoer van gevaarlijke stoffen en de beperking van de gevolgen van dergelijke ongevallen en rampen.  
 
 ### Artikel  3  
 
-Wijzigt de Wet advies en overleg verkeer en waterstaat.   
+Wijzigt de Wet advies en overleg verkeer en waterstaat. 
 
 ### Artikel  4  
 
-De Wet op de VROM-raad en de Wet op de raad voor het landelijk gebied worden ingetrokken.  
+De [Wet op de VROM-raad](../../../../../../../../../wet/wet/op/de/vrom-raad/BWBR0008279/README.md) en de [Wet op de raad voor het landelijk gebied](../../../../../../../../../wet/wet/op/de/raad/voor/het/landelijk/gebied/BWBR0008278/README.md) worden ingetrokken. 
 
 ### Artikel  5  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van artikel 2, tweede lid, dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van artikel 2, tweede lid, dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  6  
 
-Deze wet wordt aangehaald als: «Wet Raad voor de leefomgeving en infrastructuur» of als «Wet RLI».  
+Deze wet wordt aangehaald als: «Wet Raad voor de leefomgeving en infrastructuur» of als «Wet RLI». 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -40,13 +40,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 19 januari 2012  
 Beatrix  
 
-De Minister van Infrastructuur en Milieu, 
+De Minister van Infrastructuur en Milieu,  
 M. H. Schultz van Haegen-Maas Geesteranus   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. W. E. Spies   
 
 de *tiende* februari 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
