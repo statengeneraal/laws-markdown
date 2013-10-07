@@ -7,15 +7,15 @@ Naar aanleiding van deze arresten kan in zaken met pleegdatum van vóór 1 juli
 
 ####Recidiveregeling overtredingen [artikelen 30](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) en [34 Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) (WAM)(uitgezonderd bromfietsen)
 
-De recidiveregeling t.a.v. de overtredingen van [artikelen 30](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) en [34 WAM](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) luidt voor de met motorrijtuigen, uitgezonderd bromfietsen, gepleegde overtredingen als volgt: <sup> 1  Onverzekerd rijden: zie in de bijlage de feitnummers A 914a t/m d, A 915, A 917a t/m c en A 918.  </sup>  
+De recidiveregeling t.a.v. de overtredingen van [artikelen 30](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) en [34 WAM](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) luidt voor de met motorrijtuigen, uitgezonderd bromfietsen,<sup> 1 Onverzekerd rijden: zie in de bijlage de feitnummers A 914a t/m d, A 915, A 917a t/m c en A 918. </sup> gepleegde overtredingen als volgt:  
 
 | --- | --- |
 |:---|:---|
 | Eerste overtreding:  | OM-transactie of OM-strafbeschikking: € 440  Eis ter zitting: geldboete € 500  |
 | Tweede overtreding (binnen twee jaar na afdoening van de eerste overtreding):  | Geen transactie. OM-strafbeschikking of eis ter zitting: geldboete € 600 en vier maanden ontzegging van de rijbevoegdheid onvoorwaardelijk  |
-| Derde overtreding (binnen vier jaar na afdoening van de eerste overtreding):  | Geen transactie of strafbeschikking, eis ter zitting: twee weken hechtenis onvoorwaardelijk <sup>1</sup> en zes maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig  |
+| Derde overtreding (binnen vier jaar na afdoening van de eerste overtreding):  | Geen transactie of strafbeschikking, eis ter zitting: twee weken hechtenis onvoorwaardelijk<sup>1</sup> en zes maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig  |
 
-<sup>1</sup> Hechtenis kan in geval van een overtreding door een minderjarig niet worden geëist.    
+<sup>1</sup> Hechtenis kan in geval van een overtreding door een minderjarig niet worden geëist.   
 ### 4.1.2  
 
 ####Recidiveregeling overtredingen [artikelen 30](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) en [34 WAM](../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) (bromfietsen)
