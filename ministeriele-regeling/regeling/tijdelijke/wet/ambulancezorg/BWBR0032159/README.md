@@ -13,25 +13,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
+a.  *de minister:* de Minister van Volksgezondheid, Welzijn en Sport;  
 
-b. *A1-rit:* een spoedeisende rit in opdracht van de centralist van de meldkamer in geval van acute bedreiging van de vitale functies van de patiënt of in het geval dit gevaar pas na beoordeling door het ambulanceteam ter plaatse kan worden uitgesloten;  
+b.  *A1-rit:* een spoedeisende rit in opdracht van de centralist van de meldkamer in geval van acute bedreiging van de vitale functies van de patiënt of in het geval dit gevaar pas na beoordeling door het ambulanceteam ter plaatse kan worden uitgesloten;  
 
-c. *ambulancebijstandsplan:* protocol inzake de organisatie van de bovenregionale bijstand van ambulances;  
+c.  *ambulancebijstandsplan:* protocol inzake de organisatie van de bovenregionale bijstand van ambulances;  
 
-d. *buitenlandvervoer:* het vervoeren van patiënten onder medische begeleiding op basis van een medische indicatie vanuit het buitenland naar Nederland en omgekeerd, met inbegrip van het vervoer per ambulance vanaf of naar de Nederlandse luchthavens van patiënten voor wie ambulancezorg is aangewezen vanwege een in het buitenland of Nederland opgelopen ziekte of ontstaan ongeval;  
+d.  *buitenlandvervoer:* het vervoeren van patiënten onder medische begeleiding op basis van een medische indicatie vanuit het buitenland naar Nederland en omgekeerd, met inbegrip van het vervoer per ambulance vanaf of naar de Nederlandse luchthavens van patiënten voor wie ambulancezorg is aangewezen vanwege een in het buitenland of Nederland opgelopen ziekte of ontstaan ongeval;  
 
-e. *directeur meldkamer:* de directeur meldkamer, bedoeld in [artikel 35 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
+e.  *directeur meldkamer:* de directeur meldkamer, bedoeld in [artikel 35 van de Wet veiligheidsregio’s](../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);  
 
-f. *directeur publieke gezondheid:* de directeur publieke gezondheid, bedoeld in [artikel 14 van de Wet publieke gezondheid;](../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md)  
+f.  *directeur publieke gezondheid:* de directeur publieke gezondheid, bedoeld in [artikel 14 van de Wet publieke gezondheid;](../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md)  
 
-g. *gewondenspreidingsplan:* overzicht van de medische behandelcapaciteit van ziekenhuizen;  
+g.  *gewondenspreidingsplan:* overzicht van de medische behandelcapaciteit van ziekenhuizen;  
 
-h. *partners in de acute zorgketen:* huisartsen, verloskundigen, GGZ-instellingen en ziekenhuizen, inclusief de traumacentra, in de regio;  
+h.  *partners in de acute zorgketen:* huisartsen, verloskundigen, GGZ-instellingen en ziekenhuizen, inclusief de traumacentra, in de regio;  
 
-i. *ROAZ:* het Regionaal Overleg Acute Zorg, ingesteld ingevolge [artikel 4 van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
+i.  *ROAZ:* het Regionaal Overleg Acute Zorg, ingesteld ingevolge [artikel 4 van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
 
-j. *triage:* het dynamische traject van urgentie bepalen en het vervolgtraject indiceren ten behoeve van een juiste en adequate hulpverlening.    
+j.  *triage:* het dynamische traject van urgentie bepalen en het vervolgtraject indiceren ten behoeve van een juiste en adequate hulpverlening.   
 
 ### Hoofdstuk  II  
 
@@ -42,7 +42,7 @@ j. *triage:* het dynamische traject van urgentie bepalen en het vervolgtraject i
 1.  De Regionale Ambulancevoorziening geeft in overleg met de zorgverzekeraars in de regio uitvoering aan het in bijlage 1 opgenomen referentiekader spreiding van standplaatsen en de beschikbaarheid van ambulances.   
 2.  De Regionale Ambulancevoorziening draagt zorg voor voldoende beschikbaarheid van ambulances en personeel om het in bijlage 1 opgenomen referentiekader uit te voeren.   
 3.  De Regionale Ambulancevoorziening kan in overleg met de zorgverzekeraars in de regio gemotiveerd afwijken van de spreiding van standplaatsen van het in bijlage 1 opgenomen referentiekader, mits de spreiding van de standplaatsen zodanig is dat in de desbetreffende regio minstens 97% van de bevolking binnen 15 minuten responstijd kan worden bereikt door een ambulance.   
-4.  De Regionale Ambulancevoorziening kan in overleg met de zorgverzekeraars in de regio gemotiveerd afwijken van de beschikbaarheid van ambulances van het in bijlage 1 opgenomen referentiekader, mits de bereikbaarheid is gewaarborgd.   
+4.  De Regionale Ambulancevoorziening kan in overleg met de zorgverzekeraars in de regio gemotiveerd afwijken van de beschikbaarheid van ambulances van het in bijlage 1 opgenomen referentiekader, mits de bereikbaarheid is gewaarborgd.  
 
 ### Hoofdstuk  III  
 
@@ -54,19 +54,19 @@ j. *triage:* het dynamische traject van urgentie bepalen en het vervolgtraject i
 
 ### Artikel  3  
 
-De Regionale Ambulancevoorziening is in Nederland gevestigd.  
+De Regionale Ambulancevoorziening is in Nederland gevestigd. 
 
 ### Artikel  4  
 
-De Regionale Ambulancevoorziening verkeert in een dusdanig financiële staat dat deze de continuïteit van de ambulancezorg en het voldoen aan de in deze regeling gestelde eisen niet in gevaar brengt.  
+De Regionale Ambulancevoorziening verkeert in een dusdanig financiële staat dat deze de continuïteit van de ambulancezorg en het voldoen aan de in deze regeling gestelde eisen niet in gevaar brengt. 
 
 ### Artikel  5  
 
-De Regionale Ambulancevoorziening voldoet aan de geldende wet- en regelgeving en aan de door de beroepsgroep ontwikkelde richtlijnen en professionele standaarden, zoals vastgelegd in de landelijke richtlijnen voor de meldkamer en de ambulancezorg.  
+De Regionale Ambulancevoorziening voldoet aan de geldende wet- en regelgeving en aan de door de beroepsgroep ontwikkelde richtlijnen en professionele standaarden, zoals vastgelegd in de landelijke richtlijnen voor de meldkamer en de ambulancezorg. 
 
 ### Artikel  6  
 
-Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel ervan, laat uitvoeren door een derde, zorgt de Regionale Ambulancevoorziening ervoor dat deze derde handelt volgens de eisen die voor de Regionale Ambulancevoorziening zijn gesteld.  
+Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel ervan, laat uitvoeren door een derde, zorgt de Regionale Ambulancevoorziening ervoor dat deze derde handelt volgens de eisen die voor de Regionale Ambulancevoorziening zijn gesteld. 
 
 ### §  2  
 
@@ -76,7 +76,7 @@ Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel 
 
 1.  De Regionale Ambulancevoorziening zorgt ervoor dat onder normale omstandigheden in ten minste 95% van de A1-meldingen een ambulance binnen 15 minuten na aanname van de melding ter plaatse is. De Regionale ambulancevoorziening kan hier in overleg met de zorgverzekeraars in de regio gemotiveerd van afwijken.   
 2.  De Regionale Ambulancevoorziening heeft over de normen voor de wachttijden van het planbare vervoer afspraken met de zorginstellingen in de regio. De planning van het planbare vervoer wordt ondersteund door een adequaat werkend geautomatiseerd systeem.   
-3.  De Regionale Ambulancevoorziening analyseert periodiek de oorzaken van overschrijding van de 15 minuten responstijd en neemt maatregelen om deze zoveel mogelijk te voorkomen.   
+3.  De Regionale Ambulancevoorziening analyseert periodiek de oorzaken van overschrijding van de 15 minuten responstijd en neemt maatregelen om deze zoveel mogelijk te voorkomen.  
 
 ### Artikel  8  
 
@@ -85,7 +85,7 @@ Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel 
 a. op basis van sectorbrede inzetcriteria wordt bepaald welk niveau van zorg onder welke omstandigheden geldt als verantwoorde ambulancezorg, en  
 
 b. zorgdifferentiatie gaat niet ten koste van de inzetbaarheid van materieel en personeel die nodig zijn om verantwoorde ambulancezorg te leveren in normale en opgeschaalde omstandigheden.     
-2.  De Regionale Ambulancevoorziening levert veilige ambulancezorg. Daartoe is een veiligheidsmanagementsysteem aanwezig.   
+2.  De Regionale Ambulancevoorziening levert veilige ambulancezorg. Daartoe is een veiligheidsmanagementsysteem aanwezig.  
 
 ### §  3  
 
@@ -97,7 +97,7 @@ b. zorgdifferentiatie gaat niet ten koste van de inzetbaarheid van materieel en 
 2.  De Regionale Ambulancevoorziening stelt jaarlijks een plan op. Hierin worden inhoud en financiën gekoppeld. In de aan het jaarplan gekoppelde begroting worden de inkomsten en uitgaven, die direct zijn toe te rekenen aan ambulancezorg, inzichtelijk gemaakt.   
 3.  De Regionale Ambulancevoorziening stelt jaarlijks (uiterlijk per 1 juni) een jaarrekening vast, voorzien van een goedkeurende accountantsverklaring. Hierin worden de inkomsten en uitgaven, die direct zijn toe te rekenen aan de ambulancezorg, inzichtelijk gemaakt.   
 4.  In de begroting en de financiële administratie zijn uitgaven en ontvangsten ten behoeve van ambulancezorg duidelijk traceerbaar naar bron en bestemming en onderscheiden van eventuele andere bedrijfsmatige activiteiten.   
-5.  De Regionale Ambulancevoorziening heeft afgeleid van het jaarplan financiële drie-, vier-, of zesmaandelijkse rapportages, waarbij inhoud aan financiën is gekoppeld en de rechtspersoon beschikt over een planning en controlecyclus.   
+5.  De Regionale Ambulancevoorziening heeft afgeleid van het jaarplan financiële drie-, vier-, of zesmaandelijkse rapportages, waarbij inhoud aan financiën is gekoppeld en de rechtspersoon beschikt over een planning en controlecyclus.  
 
 ### §  4  
 
@@ -105,7 +105,7 @@ b. zorgdifferentiatie gaat niet ten koste van de inzetbaarheid van materieel en 
 
 ### Artikel  10  
 
-De Regionale Ambulancevoorziening neemt deel aan het ROAZ en voert de adviezen van het ROAZ inzake het oplossen van knelpunten in de acute zorg uit, voor zover dit past binnen de (financiële) mogelijkheden en verantwoordelijkheden.  
+De Regionale Ambulancevoorziening neemt deel aan het ROAZ en voert de adviezen van het ROAZ inzake het oplossen van knelpunten in de acute zorg uit, voor zover dit past binnen de (financiële) mogelijkheden en verantwoordelijkheden. 
 
 ### Artikel  11  
 
@@ -118,7 +118,7 @@ b. de naburige Regionale Ambulancevoorzieningen over in ieder geval de open gren
 c. de Belgische of Duitse meldkamers en ambulancediensten indien de regio van de Regionale Ambulancevoorziening aan de regio van een buitenlandse ambulancedienst grenst, en  
 
 d. de directeur publieke gezondheid over mogelijke dienstverlening voor speciale evenementen.     
-2.  De Regionale Ambulancevoorziening voert minimaal halfjaarlijks overleg over de afspraken, bedoeld in het eerste lid, en evalueert deze.   
+2.  De Regionale Ambulancevoorziening voert minimaal halfjaarlijks overleg over de afspraken, bedoeld in het eerste lid, en evalueert deze.  
 
 ### §  5  
 
@@ -130,7 +130,7 @@ d. de directeur publieke gezondheid over mogelijke dienstverlening voor speciale
 2.  Ter uitvoering van het bepaalde in het eerste lid past de Regionale Ambulancevoorziening in ieder geval een opleiding- en bekwaamheidsbeleid toe, gebaseerd op een meerjarenopleidingsplan.   
 3.  Het management van de Regionale Ambulancevoorziening is van onbesproken gedrag.   
 4.  De veiligheid van het personeel tijdens de uitoefening van hun functie in de publieke ruimte wordt structureel door de Regionale Ambulancevoorziening geïnventariseerd en minimaal vierjaarlijks wordt een risico-inventarisatie en -evaluatie uitgevoerd.   
-5.  De tevredenheid van het personeel wordt door de Regionale Ambulancevoorziening minimaal vierjaarlijks onderzocht.   
+5.  De tevredenheid van het personeel wordt door de Regionale Ambulancevoorziening minimaal vierjaarlijks onderzocht.  
 
 ### §  6  
 
@@ -138,19 +138,19 @@ d. de directeur publieke gezondheid over mogelijke dienstverlening voor speciale
 
 ### Artikel  13  
 
-De Regionale Ambulancevoorziening is ingericht voor het leveren van doelmatige en doeltreffende ambulancezorg, waarbij de verantwoordelijkheidsverdeling bij alle processen is beschreven, inclusief de overleg- en besluitvormingsstructuur. In ieder geval is de Regionale Ambulancevoorziening bestuurlijk zodanig georganiseerd dat slagvaardige besluitvorming over de (daadwerkelijke) uitvoering van de ambulancezorg onder alle omstandigheden is gegarandeerd.  
+De Regionale Ambulancevoorziening is ingericht voor het leveren van doelmatige en doeltreffende ambulancezorg, waarbij de verantwoordelijkheidsverdeling bij alle processen is beschreven, inclusief de overleg- en besluitvormingsstructuur. In ieder geval is de Regionale Ambulancevoorziening bestuurlijk zodanig georganiseerd dat slagvaardige besluitvorming over de (daadwerkelijke) uitvoering van de ambulancezorg onder alle omstandigheden is gegarandeerd. 
 
 ### Artikel  14  
 
-De Regionale Ambulancevoorziening heeft een gecertificeerd kwaliteitsmanagementsysteem voor ambulancezorg.  
+De Regionale Ambulancevoorziening heeft een gecertificeerd kwaliteitsmanagementsysteem voor ambulancezorg. 
 
 ### Artikel  15  
 
-De Regionale Ambulancevoorziening is verzekerd tegen risico’s verbonden aan ambulancezorg.  
+De Regionale Ambulancevoorziening is verzekerd tegen risico’s verbonden aan ambulancezorg. 
 
 ### Artikel  16  
 
-De Regionale Ambulancevoorziening beschikt over de benodigde informatievoorzieningen om te kunnen communiceren met andere Regionale Ambulancevoorzieningen en partners in de keten van zorg.  
+De Regionale Ambulancevoorziening beschikt over de benodigde informatievoorzieningen om te kunnen communiceren met andere Regionale Ambulancevoorzieningen en partners in de keten van zorg. 
 
 ### §  7  
 
@@ -158,7 +158,7 @@ De Regionale Ambulancevoorziening beschikt over de benodigde informatievoorzieni
 
 ### Artikel  17  
 
-Indien sprake is van een bovenregionale meldkamer ambulancezorg worden afspraken gemaakt over het centrale aanspreekpunt voor de directeur publieke gezondheid en de directeur meldkamer.  
+Indien sprake is van een bovenregionale meldkamer ambulancezorg worden afspraken gemaakt over het centrale aanspreekpunt voor de directeur publieke gezondheid en de directeur meldkamer. 
 
 ### Artikel  18  
 
@@ -175,12 +175,12 @@ d. de bescherming van patiëntgerelateerde en medische gegevens,
 
 e. de financiering van de gemeenschappelijk kosten, en  
 
-f. het continuïteitsplan voor de meldkamer.     
+f. het continuïteitsplan voor de meldkamer.    
 
 ### Artikel  19  
 
 1.  De Regionale Ambulancevoorziening controleert en verbetert continu de selectie en triage bij de ambulancezorg.   
-2.  De Regionale Ambulancevoorziening zorgt ervoor dat in de meldkamer de zorgintake en de zorgindicatie geschiedt door een op grond van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) geregistreerde verpleegkundige.   
+2.  De Regionale Ambulancevoorziening zorgt ervoor dat in de meldkamer de zorgintake en de zorgindicatie geschiedt door een op grond van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) geregistreerde verpleegkundige.  
 
 ### §  8  
 
@@ -201,11 +201,11 @@ d. de wijze van trainen en oefenen met het oog op het gezamenlijk optreden bij d
 
 e. de samenwerking tussen de Regionale Ambulancevoorziening, de directeur publieke gezondheid, de regionale zorginstellingen en andere relevante hulpverleningsinstanties werkzaam in de regio, en  
 
-f. het onderhoud en beheer van materiaal voor de geneeskundige hulpverlening bij ongevallen en rampen.     
+f. het onderhoud en beheer van materiaal voor de geneeskundige hulpverlening bij ongevallen en rampen.    
 
 ### Artikel  21  
 
-De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, een actueel regionaal gewondenspreidingsplan en een slachtoffervolgsysteem.  
+De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, een actueel regionaal gewondenspreidingsplan en een slachtoffervolgsysteem. 
 
 ### §  9  
 
@@ -214,7 +214,7 @@ De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, een actueel 
 ### Artikel  22  
 
 1.  Voor de Veiligheidsregio Zuid-Limburg geldt de eis dat de betreffende Regionale Ambulancevoorziening ervaring heeft met internationale, grensoverschrijdende ambulancezorg en in staat is om te werken volgens de protocollen en afspraken zoals deze zijn vastgelegd in het samenwerkingsdocument ‘Eumed Euregio Maas-Rijn van 2007’.   
-2.  Voor de Veiligheidsregio Haaglanden en de Veiligheidsregio Amsterdam-Amstelland geldt dat op de meldkamer 7 x 24 uur minimaal twee op grond van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) geregistreerde verpleegkundigen aanwezig zijn die verantwoordelijk zijn voor de zorgintake en de zorgindicatie.   
+2.  Voor de Veiligheidsregio Haaglanden en de Veiligheidsregio Amsterdam-Amstelland geldt dat op de meldkamer 7 x 24 uur minimaal twee op grond van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) geregistreerde verpleegkundigen aanwezig zijn die verantwoordelijk zijn voor de zorgintake en de zorgindicatie.  
 
 ### Hoofdstuk  IV  
 
@@ -227,11 +227,11 @@ De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, een actueel 
 a. de jaarrekening, bedoeld in artikel 9, derde lid,  
 
 b. de gegevens, bedoeld in bijlage 2.     
-2.  De verstrekking van de gegevens, bedoeld in het eerste lid, vindt plaats uiterlijk zes maanden na afloop van het jaar waarop de gegevens betrekking hebben.   
+2.  De verstrekking van de gegevens, bedoeld in het eerste lid, vindt plaats uiterlijk zes maanden na afloop van het jaar waarop de gegevens betrekking hebben.  
 
 ### Artikel  24  
 
-De Regionale Ambulancevoorziening verstrekt overige gegevens op verzoek van de minister.  
+De Regionale Ambulancevoorziening verstrekt overige gegevens op verzoek van de minister. 
 
 ### Hoofdstuk  V  
 
@@ -267,7 +267,7 @@ g. het buitenlandvervoer.
 
 a. voor zover dit plaatsvindt vanuit het buitenland naar Nederland, door de vervoerder gemeld aan de meldkamer, verantwoordelijk voor het gebied waarin de eindbestemming van dat vervoer is gelegen;  
 
-b. voor zover dit plaatsvindt naar het buitenland, aan de meldkamer, verantwoordelijk voor het gebied waar de patiënt wordt opgehaald.     
+b. voor zover dit plaatsvindt naar het buitenland, aan de meldkamer, verantwoordelijk voor het gebied waar de patiënt wordt opgehaald.    
 
 ### §  2  
 
@@ -275,33 +275,33 @@ b. voor zover dit plaatsvindt naar het buitenland, aan de meldkamer, verantwoord
 
 ### Artikel  26  
 
-Degene die buitenlandvervoer wil verzorgen, voldoet aan de eisen van deze paragraaf.  
+Degene die buitenlandvervoer wil verzorgen, voldoet aan de eisen van deze paragraaf. 
 
 ### Artikel  27  
 
 1.  De vervoerder dient zich eenmalig vóór aanvang van het buitenlandvervoer te registreren bij de minister (Ministerie van Volksgezondheid, Welzijn en Sport, postbus 20350, 2500 EJ Den Haag, t.a.v. de directie Curatieve Zorg).   
-2.  Bij de registratie, bedoeld in het eerste lid, wordt vermeld: de handelsnaam van het bedrijf, het correspondentie- en vestigingsadres en het inschrijvingsnummer in het Handelsregister.   
+2.  Bij de registratie, bedoeld in het eerste lid, wordt vermeld: de handelsnaam van het bedrijf, het correspondentie- en vestigingsadres en het inschrijvingsnummer in het Handelsregister.  
 
 ### Artikel  28  
 
-De vervoerder hanteert sectorbreed vastgestelde inzetcriteria die bepalen welk niveau van zorg onder welke omstandigheden geldt als verantwoord buitenlandvervoer.  
+De vervoerder hanteert sectorbreed vastgestelde inzetcriteria die bepalen welk niveau van zorg onder welke omstandigheden geldt als verantwoord buitenlandvervoer. 
 
 ### Artikel  29  
 
-De vervoerder beschikt over kwalitatief deskundig personeel om verantwoord buitenlandvervoer te kunnen leveren. Hiervoor past de vervoerder in ieder geval een opleidings- en bekwaamheidsbeleid toe onder verantwoordelijkheid en toezicht van de medisch eindverantwoordelijke binnen de organisatie.  
+De vervoerder beschikt over kwalitatief deskundig personeel om verantwoord buitenlandvervoer te kunnen leveren. Hiervoor past de vervoerder in ieder geval een opleidings- en bekwaamheidsbeleid toe onder verantwoordelijkheid en toezicht van de medisch eindverantwoordelijke binnen de organisatie. 
 
 ### Artikel  30  
 
-De vervoerder heeft een gecertificeerd kwaliteitsmanagementsysteem.  
+De vervoerder heeft een gecertificeerd kwaliteitsmanagementsysteem. 
 
 ### Artikel  31  
 
-De vervoerder is verzekerd tegen risico’s verbonden aan het buitenlandvervoer.  
+De vervoerder is verzekerd tegen risico’s verbonden aan het buitenlandvervoer. 
 
 ### Artikel  32  
 
 1.  De vervoerder stelt jaarlijks (uiterlijk per 1 juni) een jaarrekening vast, voorzien van een goedkeurende accountantsverklaring. Hierin worden de inkomsten en uitgaven, die direct zijn toe te rekenen aan het buitenlandvervoer, inzichtelijk gemaakt.   
-2.  In de financiële administratie zijn uitgaven en ontvangsten ten behoeve van het buitenlandvervoer duidelijk traceerbaar naar bron en bestemming en onderscheiden van eventuele andere bedrijfsmatige activiteiten.   
+2.  In de financiële administratie zijn uitgaven en ontvangsten ten behoeve van het buitenlandvervoer duidelijk traceerbaar naar bron en bestemming en onderscheiden van eventuele andere bedrijfsmatige activiteiten.  
 
 ### Artikel  33  
 
@@ -310,11 +310,11 @@ De vervoerder is verzekerd tegen risico’s verbonden aan het buitenlandvervoer.
 a. de jaarrekening, bedoeld in artikel 32, eerste lid,  
 
 b. de gegevens, bedoeld in bijlage 3.     
-2.  De verstrekking van de gegevens, bedoeld in het eerste lid, vindt plaats uiterlijk zes maanden na afloop van het jaar waarop de gegevens betrekking hebben.   
+2.  De verstrekking van de gegevens, bedoeld in het eerste lid, vindt plaats uiterlijk zes maanden na afloop van het jaar waarop de gegevens betrekking hebben.  
 
 ### Artikel  34  
 
-De vervoerder verstrekt overige gegevens op verzoek van de minister.  
+De vervoerder verstrekt overige gegevens op verzoek van de minister. 
 
 ### Hoofdstuk  VI  
 
@@ -322,26 +322,26 @@ De vervoerder verstrekt overige gegevens op verzoek van de minister.
 
 ### Artikel  35  
 
-Wijzigt het Besluit 1-1-2 alarmcentrales.   
+Wijzigt het Besluit 1-1-2 alarmcentrales. 
 
 ### Artikel  36  
 
-Wijzigt de PODACS-regeling.   
+Wijzigt de PODACS-regeling. 
 
 ### Artikel  37  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Tijdelijke wet ambulancezorg](../../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de [Tijdelijke wet ambulancezorg](../../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md) in werking treedt. 
 
 ### Artikel  38  
 
-Deze regeling wordt aangehaald als: Regeling Tijdelijke wet ambulancezorg.  
+Deze regeling wordt aangehaald als: Regeling Tijdelijke wet ambulancezorg. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers  
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers    
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####bij ministeriële regeling CZ-3131585
 
@@ -367,9 +367,9 @@ E.I.Schippers
 
 – aantal B-ritten met zorgambulance,  
 
-– aantal EHGV-ritten , <sup> 1  EHGV-rit: een rit die wordt uitgevoerd met de intentie tot hulpverlening of hulpverlening en vervoer, maar waarbij de noodzaak tot vervoer na onderzoek van de patiënt niet is gebleken.  </sup>  
+– aantal EHGV-ritten<sup> 1  EHGV-rit: een rit die wordt uitgevoerd met de intentie tot hulpverlening of hulpverlening en vervoer, maar waarbij de noodzaak tot vervoer na onderzoek van de patiënt niet is gebleken. </sup>,  
 
-– aantal loze ritten , <sup> 2  Loze rit: een rit die wordt uitgevoerd met de intentie tot hulpverlening of hulpverlening en vervoer, maar waarbij blijkt dat er geen noodzaak was tot hulpverlening.  </sup>  
+– aantal loze ritten<sup> 2  Loze rit: een rit die wordt uitgevoerd met de intentie tot hulpverlening of hulpverlening en vervoer, maar waarbij blijkt dat er geen noodzaak was tot hulpverlening.  </sup>,  
 
 – aantal voorwaardenscheppende ritten,  
 
@@ -429,7 +429,7 @@ E.I.Schippers
 
 – Totaal aantal ingeroosterde diensturen van ambulanceteams naar dienstsoort per jaar (parate uren, aanwezigheidsuren en beschikbare uren)     Bovenstaande gegevens dienen vergezeld te gaan van een verklaring waarmee het bestuur van de RAV de juistheid van de gegevens bevestigt.  
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####bij ministeriële regeling CZ-3131585
 
@@ -445,11 +445,11 @@ a. aantal ambulanceritten vanuit het buitenland gespecificeerd naar land en naar
 
 b. aantal ambulanceritten vanaf een (Nederlandse) luchthaven gespecificeerd naar land van herkomst en naar type bestemming (zorginstelling of huisadres).  
 
-c. aantal begeleide patiënttransporten, anders dan met een ambulance, gespecificeerd naar land van herkomst en naar type bestemming (zorginstelling of huisdres).    
+c. aantal begeleide patiënttransporten, anders dan met een ambulance, gespecificeerd naar land van herkomst en naar type bestemming (zorginstelling of huisdres).     
 
 3. Personeel (ultimo van het jaar): 
 
 a. formatie van vaste krachten in fte en in aantallen, totaal en naar functie (ambulanceverpleegkundigen, ambulancechauffeurs en overig).  
 
-b. formatie van oproepkrachten in fte en in aantallen, totaal en naar functie (ambulanceverpleegkundigen, ambulancechauffeurs en overig).     Bovenstaande gegevens dienen vergezeld te gaan van een verklaring waarmee het bestuur van de buitenlandvervoerder de juistheid van de gegevens bevestigt.  
+b. formatie van oproepkrachten in fte en in aantallen, totaal en naar functie (ambulanceverpleegkundigen, ambulancechauffeurs en overig).      Bovenstaande gegevens dienen vergezeld te gaan van een verklaring waarmee het bestuur van de buitenlandvervoerder de juistheid van de gegevens bevestigt. 
 
