@@ -3,7 +3,7 @@
 ##Regeling vervoer over land van gevaarlijke stoffen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op artikel 10 van Richtlijn 94/55/EG van de Raad van de Europese Gemeenschappen van 21 november 1994 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het vervoer van gevaarlijke goederen over de weg (PbEG 94 L 319), op artikel 10 van Richtlijn 95/50/EG van de Raad van de Europese Gemeenschappen van 6 oktober 1995 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L 249), op [artikel 4b, tweede lid, onderdeel a, van de Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en op [artikel 2 van het Besluit vervoer gevaarlijke stoffen](../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md);
+Gelet op artikel 10 van Richtlijn 94/55/EG van de Raad van de Europese Gemeenschappen van 21 november 1994 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake het vervoer van gevaarlijke goederen over de weg (PbEG 94 L 319), op artikel 10 van Richtlijn 95/50/EG van de Raad van de Europese Gemeenschappen van 6 oktober 1995 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L 249), op artikel 4b, tweede lid, onderdeel a, van de Wegenverkeerswet 1994 en op artikel 2 van het Besluit vervoer gevaarlijke stoffen;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ Besluit:
 
 2°. een in bijlage 3 bij deze regeling erkende instantie, of  
 
-3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](../../../../../../../../../ministeriele-regeling/regeling/erkende/instanties/vervoer/gevaarlijke/stoffen/BWBR0026901/README.md) erkende instantie;      c. richtlijn nr. 2008/68/EG:  richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260);    d. richtlijn nr. 95/50/EG:  richtlijn nr. 95/50/EG van de Raad van de Europese Unie van 6 oktober 1996 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L249).      
+3°. een met toepassing van de Regeling erkende instanties vervoer gevaarlijke stoffen erkende instantie;      c. richtlijn nr. 2008/68/EG:  richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260);    d. richtlijn nr. 95/50/EG:  richtlijn nr. 95/50/EG van de Raad van de Europese Unie van 6 oktober 1996 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L249).      
 2.  De in bijlage 1 opgenomen begripsbepalingen zijn van toepassing op de bijlagen 2, 3 en 4 voorzover daarin niet anders is bepaald.   
 
 ### Artikel  2  
@@ -31,7 +31,7 @@ d. bijlage 4: rijkskeuringsvoorschriften betreffende het vervoer over land van g
 
 ### Artikel  3  
 
-Met voorwaardelijk tot het vervoer over land toegelaten gevaarlijke stoffen als bedoeld in bijlage 1 mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.  
+Met voorwaardelijk tot het vervoer over land toegelaten gevaarlijke stoffen als bedoeld in bijlage 1 mogen de handelingen, bedoeld in artikel 2 van het Besluit vervoer gevaarlijke stoffen, worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.  
 
 ### Artikel  4  
 
@@ -44,7 +44,7 @@ Deze regeling treedt in werking op 1 januari 1999.
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: [Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md).  
+Deze regeling wordt aangehaald als: Regeling vervoer over land van gevaarlijke stoffen.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.   
 
 De 
@@ -52,6 +52,8 @@ Minister van Verkeer en Waterstaat,
 T.Netelenbos   
 
 ### Bijlage  1  
+
+####als bedoeld in de artikelen 2, onderdeel a , en 3 , van de Regeling vervoer over land van gevaarlijke stoffen
 
 Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu.  
 
@@ -65,13 +67,11 @@ Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu.
 
 #### *Artikel 1. Toepassingsbereik* 
 
-1. Dit hoofdstuk is van toepassing op vervoer van gevaarlijke stoffen dat uitsluitend binnen Nederland plaatsvindt.  
-
-2. Dit hoofdstuk is niet van toepassing op het vervoer dat plaatsvindt overeenkomstig de randnummers 1.1.3 en hoofdstuk 3.4 van bijlage 1, behoudens de in de artikelen 4 tot en met 7 genoemde uitzonderingen voor vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram.    
+Dit hoofdstuk is van toepassing op vervoer van gevaarlijke stoffen dat uitsluitend binnen Nederland plaatsvindt.  
 
 #### *Artikel 2. Ontheffingen* 
 
-De Minister verleent een ontheffing als bedoeld in [artikel 9 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) slechts op voorwaarden dat de veiligheid niet in gevaar komt en het vervoer waarvoor de ontheffing wordt verleend duidelijk is gespecificeerd en van tijdelijke aard is.  
+De Minister verleent een ontheffing als bedoeld in artikel 9 van de Wet vervoer gevaarlijke stoffen slechts op voorwaarden dat de veiligheid niet in gevaar komt en het vervoer waarvoor de ontheffing wordt verleend duidelijk is gespecificeerd en van tijdelijke aard is.  
 
 #### *Artikel 3. N-bepalingen* 
 
@@ -85,7 +85,7 @@ b. treden, voor zover zij met de overeenkomstig genummerde bepalingen van bijlag
 
 1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van bijlage 1, die door Nederland zijn ondertekend. 2. Bij het vervoer dat voldoet aan de in het eerste lid bedoelde multilaterale overeenkomst worden de voorschriften met betrekking tot het vervoer in acht genomen die in deze overeenkomst zijn opgenomen.  
 
-#### *5.1.2.1./5.2.1 N Opschriften en kenmerking* 
+#### *5.1.2.1./5.2.1 N/5.5.3.4.1/5.5.3.6.2 Opschriften en kenmerking* 
 
 De opschriften en kenmerkingen op colli, containers, tanks en voertuigen, dan wel op de oververpakkingen van colli, zijn in ieder geval gesteld in de Nederlandse, Franse, Duitse of Engelse taal.  
 
@@ -111,17 +111,17 @@ b. een IBC openen, waarin UN1202, dieselolie, gasolie of lichte stookolie wordt 
 
 #### *8.1.2. N Documenten die het vervoer moeten begeleiden* 
 
-Indien voor het betrokken vervoer ontheffing is verleend ingevolge [artikel 9 van de Wet vervoer gevaarlijke stoffen](../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md), is deze ontheffing of een afschrift daarvan bij het vervoerdocument gevoegd.  
+Indien voor het betrokken vervoer ontheffing is verleend ingevolge artikel 9 van de Wet vervoer gevaarlijke stoffen, is deze ontheffing of een afschrift daarvan bij het vervoerdocument gevoegd.  
 
 #### *8.2.1. N Speciale opleiding van de bestuurder* 
 
 Het bepaalde in randnummer 8.2.1 van bijlage 1 is niet van toepassing op bestuurders van: 
 
-a. motorrijtuigen met beperkte snelheid als bedoeld in de [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), waarmee lege, ongereinigde tanks met een capaciteit van ten hoogste 3 m <sup>3</sup> worden vervoerd, die dieselolie, gasolie en lichte stookolie hebben bevat; of  
+a. motorrijtuigen met beperkte snelheid als bedoeld in de Regeling voertuigen, waarmee lege, ongereinigde tanks met een capaciteit van ten hoogste 3 m <sup>3</sup> worden vervoerd, die dieselolie, gasolie en lichte stookolie hebben bevat; of  
 
 b. brandweervoertuigen die gevaarlijke stoffen bevatten, mits: 
 
-1°. op deze voertuigen gediplomeerd brandweerpersoneel in de zin van het [Besluit brandweerpersoneel](../../../../../../../../../AMvB/besluit/brandweerpersoneel/BWBR0005073/README.md) aanwezig is; en  
+1°. op deze voertuigen gediplomeerd brandweerpersoneel in de zin van het Besluit personeel veiligheidsrisico’s aanwezig is; en  
 
 2°. het met diploma behaalde veiligheidsniveau van dit personeel is gewaarborgd.      
 
@@ -131,7 +131,7 @@ Voor wat betreft het duurremsysteem is randnummer 9.2.3.1 van bijlage 1 (retarde
 
 #### *9.7.5.1. N Stabiliteit* 
 
-In afwijking van de tweede volzin van randnummer 9.7.5.1 van bijlage 1, behoeft bij in Nederland geregistreerde gelede voertuigen voor wat betreft de druk van de assen van de beladen oplegger, slechts te worden voldaan aan de daaromtrent in de [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) gestelde eisen.  
+In afwijking van de tweede volzin van randnummer 9.7.5.1 van bijlage 1, behoeft bij in Nederland geregistreerde gelede voertuigen voor wat betreft de druk van de assen van de beladen oplegger, slechts te worden voldaan aan de daaromtrent in de Regeling voertuigen gestelde eisen.  
 
 #### *Hoofdstuk II. Bepalingen voor elk vervoer op Nederlands grondgebied* 
 
@@ -141,7 +141,7 @@ In afwijking van de tweede volzin van randnummer 9.7.5.1 van bijlage 1, behoeft 
 
 a. is gebaseerd op de randnummers 1.9.2, 1.9.3 en 1.9.4, of  
 
-b. dient ter invulling van specifiek in de randnummers van bijlage 1 opgenomen bevoegdheden.   2. Dit hoofdstuk is niet van toepassing op het vervoer dat plaatsvindt overeenkomstig de randnummers 1.1.3 en hoofdstuk 3.4 van bijlage 1.  
+b. dient ter invulling van specifiek in de randnummers van bijlage 1 opgenomen bevoegdheden.   2. Dit hoofdstuk is niet van toepassing op het vervoer dat plaatsvindt overeenkomstig randnummer 1.1.3 en de hoofdstukken 3.4 en 3.5 van bijlage 1, behoudens de in de artikelen 4 tot en met 7 van die bijlage genoemde uitzonderingen voor vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram.  
 
 #### *Artikel 2. Laad- en losplaats* 
 
@@ -195,20 +195,22 @@ f. de Maasboulevardtunnel, gelegen in de gemeente Maastricht;
 
 g. de Maastunnel, gelegen onder de Nieuwe Maas, te Rotterdam;  
 
-h. de Piet Heintunnel, gelegen onder het Amsterdam-Rijnkanaal te Amsterdam;  
+h. de Michiel de Ruijtertunnel, gelegen onder de De Ruijterkade te Amsterdam;  
 
-i. de Velsertunnel, gelegen in de A22, tussen Beverwijk en Velsen.    
+i. de Piet Heintunnel, gelegen onder het Amsterdam-Rijnkanaal te Amsterdam;  
+
+j. de Velsertunnel, gelegen in de A22, tussen Beverwijk en Velsen.    
 
 3. Beperkingen voor het vervoer van de gevaarlijke stoffen, genoemd onder Tunnelcategorie E in randnummer 1.9.5.2.2 van bijlage 1, gelden voor de ArenAtunnel, gelegen onder de Amsterdam ArenA, te Amsterdam.  
 
-4. De in dit artikel bedoelde tunnels worden aangeduid met verkeersbord C 22, bedoeld in [bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md). Onder het bord wordt een onderbord geplaatst waarop met een hoofdletter de categorie van de desbetreffende tunnel, overeenkomstig dit artikel, wordt aangeduid.    
+4. De in dit artikel bedoelde tunnels worden aangeduid met verkeersbord C 22, bedoeld in bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990. Onder het bord wordt een onderbord geplaatst waarop met een hoofdletter de categorie van de desbetreffende tunnel, overeenkomstig dit artikel, wordt aangeduid.    
 
 #### *Artikel 4* 
 
-Het vervoer van de stoffen die in tabel 1 zijn opgenomen, is routeplichtig als bedoeld in [artikel 12, eerste lid, van de Wet vervoer gevaarlijke stoffen](../../../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md).  Tabel 1 
+Het vervoer van de stoffen die in tabel 1 zijn opgenomen, is routeplichtig als bedoeld in artikel 12, eerste lid, van de Wet vervoer gevaarlijke stoffen.  Tabel 1 
 
 | Klasse  | Vervoer in tanks  | Losgestort vervoer  | Vervoer in colli in hoeveelheden groter dan 1.1.3.6  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1  | Alle stoffen  | Alle stoffen  | Vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram alsmede alle stoffen en voorwerpen boven de hoeveelheden als bedoeld in 1.1.3.6 met uitzondering van de stoffen en voorwerpen genoemd onder subklasse 1.4  |
 | 2  | Alle brandbare en/of giftige gassen waarvoor een etiket volgens modelnr. 2.1 en/of 2.3 is voorgeschreven  | --- | --- |
 | 4.1  | --- | --- | Zelfontledende stoffen met explosieve eigenschappen  (type B), stoffen waarvoor een etiket volgens modelnr. 4.1 en 1 is voorgeschreven  |
@@ -258,7 +260,7 @@ a. ten hoogste twee transporteenheden als laatste geplaatst op een open rijdek; 
 b. ten hoogste één transporteenheid als laatste geplaatst op een gesloten rijdek.   4. Op een gesloten rijdek van een zout veer wordt geen transporteenheid geplaatst die beladen is met stoffen van klasse 3 met verpakkingsgroep I en II. 5. Rondom de transporteenheden beladen met gevaarlijke stoffen worden in horizontale richting een vrije ruimte aangehouden van ten minste twee meter en een afstand van ten minste vijf meter ten opzichte van passagiers. 6. De bestuurder of bijrijder van een transporteenheid met gevaarlijke stoffen blijft tijdens de vaart bij zijn voertuig. 7. De bestuurder van een transporteenheid beladen met andere gevaarlijke stoffen dan die zijn vermeld in tabel 2, verstrekt, alvorens een zout veer op te rijden, aan de schipper dan wel aan een daartoe aangewezen personeelslid van de waldienst de benodigde informatie omtrent aard en de hoeveelheid van de vervoerde gevaarlijke stoffen. 8. Rederijen kunnen aanvullende of beperkende maatregelen treffen.  Tabel 2 
 
 | Klasse  | Vervoer in tanks  | Losgestort vervoer  | Vervoer in colli in hoeveelheden groter dan 1.1.3.6  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | 1  | Alle stoffen  | Alle stoffen  | a. alle stoffen en  b. vuurwerk met de UN-nummers 0336 en 0337 met een totale netto explosieve massa van meer dan 20 kilogram  |
 | 2  | Alle brandbare en/of giftige gassen waarvoor een etiket volgens modelnr. 2.1 en/of 2.3 is voorgeschreven.  | --- | Alle brandbare gassen waarvoor een etiket volgens modelnr. 2.1 is voorgeschreven.  |
 | 3  | Stoffen met bijkomend gevaarsetiket 6.1 en/of 8 van verpakkingsgroep I en II.  | --- | Stoffen met bijkomend gevaarsetiket 6.1 en/of 8 van verpakkingsgroep I en II.  |
@@ -275,33 +277,27 @@ b. ten hoogste één transporteenheid als laatste geplaatst op een gesloten rijd
 
 Bij het kruisen van een binnenwater zijn op het vervoer van voertuigen op schepen anders dan een zout veer als bedoeld in artikel 7, de volgende voorschriften van toepassing: 
 
-a. een transporteenheid beladen met ontplofbare stoffen en voorwerpen van klasse 1;  
+a. een transporteenheid beladen met ontplofbare stoffen en voorwerpen van klasse 1 wordt met voorrang op de pont toegelaten boven andere voertuigen of personen;  
 
-b. wordt met voorrang op de pont toegelaten boven andere voertuigen of personen;  
+b. tijdens een transport als bedoeld in onderdeel a bevinden zich geen andere voertuigen of personen op de pont, tenzij deze personen behoren tot de bemanning van de transporteenheid dan wel benodigd zijn voor de bediening van de pont;  
 
-c. tijdens een transport als bedoeld in onderdeel a bevinden zich geen andere voertuigen of personen op de pont, tenzij deze personen behoren tot de bemanning van de transporteenheid dan wel benodigd zijn voor de bediening van de pont;  
+c. transporteenheden met tank(s) geëtiketteerd en gekenmerkt ingevolge randnummers 5.3.1 en 5.3.2 van bijlage 1 worden zodanig op de pont geplaatst dat zij snel kunnen worden verwijderd; en  
 
-d. transporteenheden met tank(s) geëtiketteerd en gekenmerkt ingevolge randnummers 5.3.1 en 5.3.2 van bijlage 1 worden zodanig op de pont geplaatst dat zij snel kunnen worden verwijderd; en  
+d. de bestuurder van een transporteenheid, beladen met gevaarlijke stoffen, verstrekt, alvorens de pont op te rijden, aan de schipper dan wel aan een daartoe aangewezen personeelslid van de waldienst de benodigde informatie omtrent aard en de hoeveelheid van de vervoerde gevaarlijke stoffen.    
 
-e. de bestuurder van een transporteenheid, beladen met gevaarlijke stoffen, verstrekt, alvorens de pont op te rijden, aan de schipper dan wel aan een daartoe aangewezen personeelslid van de waldienst de benodigde informatie omtrent aard en de hoeveelheid van de vervoerde gevaarlijke stoffen.    
+#### *Artikel 9.* 
 
-#### *Artikel 9. Kenmerking en etikettering der voertuigen* 
+Vervallen.   
 
-Afgekoppelde aanhangwagens en opleggers zijn voorzien van de etikettering en kenmerking die ingevolge randnummers 5.3.1 en 5.3.2 van bijlage 1 zijn voorgeschreven als zijnde aan een trekkend voertuig gekoppeld.  
+#### *Artikel 10. Toelating van voertuigen* 
 
-#### *Artikel 10. Toelating van voertuigen en tankcontainers* 
-
-1. De volgende voertuigen en tankcontainers kunnen overeenkomstig hun bestemming worden gebruikt, indien zij zijn goedgekeurd door de Dienst Wegverkeer: 
-
-a. in Nederland geregistreerde, ingevolge deze regeling keuringsplichtige voertuigen als bedoeld in randnummer 9.1.3.1 van bijlage 1; of  
-
-b. in Nederland geregistreerde, ingevolge deze regeling keuringsplichtige tankcontainers.   2. De goedkeuring wordt geweigerd, indien een transportmiddel als bedoeld in het eerste lid naar het oordeel van de Dienst Wegverkeer niet voldoet aan deze regeling. 3. In afwijking van het tweede lid kunnen transportmiddelen, waarvan de technische inrichting en uitrusting niet voldoen aan deze regeling, worden goedgekeurd indien de technische inrichting en uitrusting der transportmiddelen naar het oordeel van de Dienst Wegverkeer een ten minste gelijkwaardige veiligheid bieden. 4. De eigenaar of houder van een transportmiddel als bedoeld in het eerste lid stelt na een aanrijding of ongeval waardoor beschadiging van het transportmiddel is ontstaan, de Dienst Wegverkeer hiervan onverwijld in kennis. 5. De eigenaar of houder van een transportmiddel als bedoeld in het eerste lid zorgt dat dit transportmiddel voor onderzoek aan de Dienst Wegverkeer wordt aangeboden: 
+1. In Nederland geregistreerde, ingevolge deze regeling keuringsplichtige voertuigen als bedoeld in randnummer 9.1.3.1 van bijlage 1, kunnen overeenkomstig hun bestemming worden gebruikt, indien zij zijn goedgekeurd door de Dienst Wegverkeer. 2. De goedkeuring wordt geweigerd, indien een voertuig als bedoeld in het eerste lid naar het oordeel van de Dienst Wegverkeer niet voldoet aan deze regeling. 3. In afwijking van het tweede lid kunnen voertuigen, waarvan de technische inrichting en uitrusting niet voldoen aan deze regeling, worden goedgekeurd indien de technische inrichting en uitrusting der voertuigen naar het oordeel van de Dienst Wegverkeer een ten minste gelijkwaardige veiligheid bieden. 4. De eigenaar of houder van een voertuig als bedoeld in het eerste lid stelt na een aanrijding of ongeval waardoor beschadiging van het voertuig is ontstaan, de Dienst Wegverkeer hiervan onverwijld in kennis. 5. De eigenaar of houder van een voertuig als bedoeld in het eerste lid zorgt dat dit voertuig voor onderzoek aan de Dienst Wegverkeer wordt aangeboden: 
 
 a. telkenmale voordat de laatste goedkeuring haar geldigheid verliest;  
 
 b. na een belangrijke herstelling; of  
 
-c. wanneer de Dienst Wegverkeer een onderzoek om redenen van veiligheid noodzakelijk acht.   6. Indien uit het onderzoek, bedoeld in het vijfde lid, blijkt dat een transportmiddel als bedoeld in het eerste lid niet aan deze regeling voldoet, is de eigenaar of houder ervan verplicht te zorgen dat dit niet weer in gebruik wordt genomen voordat uit een hernieuwd onderzoek is gebleken dat de door de Dienst Wegverkeer nodig geachte voorzieningen zijn aangebracht; in afwachting van het hernieuwde onderzoek kan de Dienst Wegverkeer het keuringsdocument innemen of doen innemen. De eigenaar of houder is alsdan verplicht op eerste vordering van of vanwege de Dienst Wegverkeer het keuringsdocument af te geven. 7. Indien een transportmiddel als bedoeld in het eerste lid niet overeenkomstig het bepaalde in het zesde lid voor keuring wordt aangeboden, kan de Dienst Wegverkeer het keuringsdocument innemen of doen innemen. De eigenaar of houder is alsdan verplicht het keuringsdocument aan hem af te geven. 8. Tot 1 januari 2014 is dit artikel van overeenkomstige toepassing op in Nederland in gebruik zijnde kleine mobiele tanks waaronder worden verstaan vaste tanks met een inhoud van ten hoogste 1 m <sup>3</sup>, bestemd voor het vervoer van dieselolie, gasolie of lichte stookolie.  
+c. wanneer de Dienst Wegverkeer een onderzoek om redenen van veiligheid noodzakelijk acht.   6. Indien uit het onderzoek, bedoeld in het vijfde lid, blijkt dat een voertuig als bedoeld in het eerste lid niet aan deze regeling voldoet, is de eigenaar of houder ervan verplicht te zorgen dat dit niet weer in gebruik wordt genomen voordat uit een hernieuwd onderzoek is gebleken dat de door de Dienst Wegverkeer nodig geachte voorzieningen zijn aangebracht; in afwachting van het hernieuwde onderzoek kan de Dienst Wegverkeer het keuringsdocument innemen of doen innemen. De eigenaar of houder is alsdan verplicht op eerste vordering van of vanwege de Dienst Wegverkeer het keuringsdocument af te geven. 7. Indien een voertuig als bedoeld in het eerste lid niet overeenkomstig het bepaalde in het zesde lid voor keuring wordt aangeboden, kan de Dienst Wegverkeer het keuringsdocument innemen of doen innemen. De eigenaar of houder is alsdan verplicht het keuringsdocument aan hem af te geven. 8. Tot 1 januari 2014 is dit artikel van overeenkomstige toepassing op in Nederland in gebruik zijnde kleine mobiele tanks waaronder worden verstaan vaste tanks met een inhoud van ten hoogste 1 m <sup>3</sup>, bestemd voor het vervoer van dieselolie, gasolie of lichte stookolie.  
 
 #### *Artikel 11. 1.3.3 en 1.10.2.4 Bewaartermijn opleidingsdossiers* 
 
@@ -349,79 +345,75 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 
 ####als bedoeld in artikel 2, onderdeel c , van de Regeling vervoer over land van gevaarlijke stoffen
 
-#### *Artikel 1. Erkende instanties* 
+### Artikel  1  
 
-1. In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.  
+####Erkende instanties
 
-2. In afwijking van het eerste lid is de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover deze betrekking hebben op drukhouders en tanks als bedoeld in de [Regeling vervoerbare drukapparatuur](../../../../../../../../../ministeriele-regeling/regeling/vervoerbare/drukapparatuur/2011/BWBR0030099/README.md) voorbehouden aan de op grond van die regeling aangewezen instanties.    Tabel 1 
+1. In de onderstaande tabel zijn de erkende instanties opgenomen met betrekking tot de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover bedoelde handelingen worden uitgevoerd door Nederlandse instanties.  
+
+2. In afwijking van het eerste lid is de uitvoering van de voorschriften in de vermelde randnummers van bijlage 1 voor zover deze betrekking hebben op drukhouders en tanks als bedoeld in de Regeling vervoerbare drukapparatuur voorbehouden aan de op grond van die regeling aangewezen instanties.    Tabel 1 
 
 | Randnummer  | Instanties  |
-|:---|:---|
+|---|---|
 | 1.1.3.1 d)  | brandweer of politie  |
 | 1.3.3, eerste volzin  | ILT  |
 | 1.4.2.2.4, 1.8.1.1, 1.8.1.2. 1.8.1.3, 1.8.1.4, 1.8.2.2, 1.8.2.3, 1.8.3.5, 1.8.5.1  | ILT  |
+| 1.7.4  | E Z  |
 | 1.8.3.7, 1.8.3.8, 1.8.3.10, 1.8.3.14, 1.8.3.16  | CBR  |
-| 1.9.4  | DGMI  |
 | 1.10.1.6  | CBR  |
 | 1.10.2.4, eerste volzin  | ILT  |
 | 1.10.3.2.2, Opmerking  | politie  |
-| 2.2.1.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria  | TNO DV  |
-| 2.2.1.1.3  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 2.2.1.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria  | TNO  |
+| 2.2.1.1.3  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
 | 2.2.1.1.7.2  | ILT  |
-| 2.2.1.3, Opmerking bij UN-nummer 0190  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 2.2.41.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.41.1.13  2.2.51.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.52.1.8  | TNO DV  |
-| 2.2.62.1.9, Opmerking, 2.2.62.1.12  | EL&I of VWS  |
-| 3.3.1, bijzondere bepalingen 16 en 178  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 3.3.1, bijzondere bepalingen 181, 237, 266, 271, 272 en 278  | TNO DV  |
-| 3.3.1, bijzondere bepaling 239  | ILT  |
-| 3.3.1, bijzondere bepalingen 288, 309, 311  | TNO DV  |
+| 2.2.1.1.8.1 en 2.2.1.1.8.2  | TNO  |
+| 2.2.1.3, Opmerking bij UN-nummer 0190  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 2.2.41.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.41.1.13  2.2.51.1, voor zover het betreft de autoriteit, genoemd in het Handboek beproevingen en criteria, 2.2.52.1.8  | TNO  |
+| 2.2.62.1.9, Opmerking, 2.2.62.1.12  | EZ of VWS  |
+| 3.3.1, bijzondere bepalingen 16 en 178  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 3.3.1, bijzondere bepalingen 181, 237, 266, 271, 272 en 278  | TNO  |
+| 3.3.1, bijzondere bepaling 239 en 356  | ILT  |
+| 3.3.1, bijzondere bepalingen 288, 309, 311, 364  | TNO  |
 | 3.3.1, bijzondere bepaling 637  | Minister  |
-| 3.3.1, bijzondere bepaling 645  | ILT  |
+| 3.3.1, bijzondere bepaling 645  | TNO  |
+| 3.3.1, bijzondere bepaling 661  | ILT  |
 | 4.1.1.15  | ILT  |
-| 4.1.4.1, P099, P101  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 4.1.4.1, P405 (2) b)  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 4.1.4.1, P620, P650  | EL&I of VWS  |
-| 4.1.4.2 IBC99, 4.1.4.2 IBC520, 4.1.4.3 LP99  | TNO DV  |
-| 4.1.5.15, 4.1.5.18  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 4.1.7.2.2  | TNO DV  |
-| 4.1.8.7  | EL&I of VWS  |
-| 4.1.10.4, MP21  | TNO DV of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
-| 4.2.1.7, 4.2.1.9.1  | RDW  |
-| 4.2.1.13.1, 4.2.1.13.3  | RDW in overeenstemming met TNO DV  |
-| 4.2.3.7.1, 4.2.5.1.1  | RDW  |
-| 4.2.5.3 TP4, TP9, TP10, TP16, TP24  | RDW  |
-| 4.3.2.1.5, voetnoot 2  | RDW  |
-| 4.3.2.1.7  | RDW  |
-| 4.3.3.2.5  | RDW  |
-| 4.3.5, TU39  | RDW in overeenstemming met TNO DV  |
-| 5.2.2.1.9  | TNO DV  |
-| 6.1.1.2, 6.1.1.4  | ILT  |
+| 4.1.4.1, P099, P200 (9)  | ILT  |
+| 4.1.4.1, P101  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 4.1.4.1, P405 (2) b)  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 4.1.4.1, P620, P650  | EZ of VWS  |
+| 4.1.4.2, IBC520  | TNO  |
+| 4.1.4.2, IBC99  | ILT  |
+| 4.1.4.3, LP99  | ILT  |
+| 4.1.5.15, 4.1.5.18  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 4.1.7.2.2  | TNO  |
+| 4.1.8.7  | EZ of VWS  |
+| 4.1.10.4, MP21  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 4.2.1.7  | RDW  |
+| 4.2.1.13.1, 4.2.1.13.3  | TNO  |
+| 4.2.5.3, TP9  | ILT  |
+| 4.2.5.3, TP10  | RDW  |
+| 4.3.5, TU39, TU41  | TNO  |
+| 5.1.5.1.3, 5.1.5.1.4, 5.1.5.2.1  | E Z  |
+| 5.2.2.1.9  | TNO  |
+| 5.4.1.2.1  | TNO of Defensie, laatstgenoemde voor zover het betreft uitsluitend voor de krijgsmacht bestemde munitie  |
+| 6.1.1.4  | ILT  |
 | 6.1.4.8.8, 6.1.4.13.7  | ILT  |
-| 6.3.2.1, 6.3.2.2  | ILT  |
-| 6.5.1.1.2  | ILT  |
+| 6.3.2.2  | ILT  |
+| Alle randnummers in hoofdstuk 6.4  | EZ  |
 | 6.5.4.1  | ILT  |
-| 6.6.1.2, 6.6.1.3  | ILT  |
-| 6.7.1.2  | RDW  |
-| 6.7.2.2.1, 6.7.2.2.10, 6.7.2.2.14  | RDW  |
-| 6.7.2.3.1, 6.7.2.3.3.1  | RDW  |
-| 6.7.2.4.3, 6.7.2.6.2, 6.7.2.6.3, 6.7.2.6.4, 6.7.2.7.1, 6.7.2.8.3, 6.7.2.10.1, 6.7.2.12.2.4, 6.7.2.18.1, 6.7.2.19.5, 6.7.2.19.9, 6.7.2.19.10  | RDW  |
-| 6.7.3.2.1, 6.7.3.2.11, 6.7.3.3.3.1, 6.7.3.7.3, 6.7.3.8.1.2, 6.7.3.14.1, 6.7.3.15.3, 6.7.3.15.5, 6.7.3.15.9, 6.7.3.15.10, 6.7.4.2.1, 6.7.4.2.8.1, 6.7.4.2.8.2, 6.7.4.2.14, 6.7.4.3.3.1, 6.7.4.5.10  6.7.4.6.4, 6.7.4.7.4, 6.7.4.13.1, 6.7.4.14.3, 6.7.4.14.6 b)  | RDW  |
-| 6.7.4.14.10, 6.7.4.14.11  | RDW  |
-| 6.7.5.2.9, 6.7.5.4.1, 6.7.5.4.3, 6.7.5.11.1  | RDW  |
+| 6.6.1.2  | ILT  |
+| 6.7.3.15.9, 6.7.3.15.10, 6.7.4.2.1, 6.7.4.2.8.1,  6.7.4.2.8.2, 6.7.4.2.14, 6.7.4.3.3.1, 6.7.4.5.10  6.7.4.6.4, 6.7.4.7.4, 6.7.4.13.1, 6.7.4.14.3, 6.7.4.14.6 b), 6.7.4.14.10  | RDW  |
+| 6.7.4.14.11  | ILT  |
+| 6.7.5.4.3, 6.7.5.11.1  | RDW  |
 | 6.7.5.12.3, 6.7.5.12.7  | RDW  |
-| 6.8.2.1.4, 6.8.2.1.16, 6.8.2.1.19  | RDW  |
-| 6.8.2.1.20  | RDW  |
-| 6.8.2.1.23, 6.8.2.2.2  | RDW  |
-| 6.8.2.2.10  | RDW  |
-| 6.8.2.3.1, 6.8.2.3.3, 6.8.2.4.1 voetnoot 9, 6.8.2.4.2 voetnoot 9, 6.8.2.4.5, 6.8.2.7  | RDW  |
-| 6.8.3.2.16, 6.8.3.2.26, 6.8.3.4.4  | RDW  |
-| 6.8.3.4.6 b)  | RDW  |
-| 6.8.3.4.12, 6.8.3.4.16, 6.8.3.7  | RDW  |
-| 6.8.4 TA4, TT2, TT7, TT9  | RDW  |
-| 6.8.4 TA2  | RDW in overeenstemming met TNO DV  |
-| 6.8.5.2.2  | RDW  |
-| 6.9.1.1, 6.9.2.1, 6.9.2.5, 6.9.2.13, 6.9.2.14.4, 6.9.2.14.5, 6.9.4.2.4, 6.9.4.4.1, 6.9.5.3  | RDW  |
-| 6.11.2.4, 6.11.4.4  | RDW  |
+| 6.8.2.1.4, 6.8.2.1.16, 6.8.2.1.19, 6.8.2.1.20, 6.8.2.1.23, 6.8.2.2.2, 6.8.2.2.10  | RDW  |
+| 6.8.2.3.1, 6.8.2.3.3, 6.8.2.4.1 voetnoot 10, 6.8.2.4.2 voetnoot 10, 6.8.2.4.5  | RDW  |
+| 6.8.2.7, 6.8.3.7  | ILT  |
+| 6.8.4 TA2  | TNO  |
+| 6.9.1.1  | ILT  |
+| 6.9.2.14.5, 6.9.4.2.4, 6.9.4.4.1  | RDW  |
+| 6.11.4.4  | RDW  |
 | 6.12.3.1.2, 6.12.3.1.3, 6.12.3.2.2  | RDW  |
 | 7.3.2.6.2  | ILT  |
 | 7.3.3, VV12, VV13  | RDW  |
@@ -432,25 +424,23 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 | 8.5 S1 (4)  | burgemeester  |
 | 9.1.2, 9.1.3  | RDW  |
 
-#### *Artikel 2.* 
+### Artikel  2  
 
 1. In deze bijlage wordt verstaan onder: 
 
-*brandweer:* brandweerdiensten, met uitzondering van de bedrijfsbrandweer als bedoeld in het Besluit Bedrijfsbrandweren;  
+*brandweer:* brandweerdiensten, met uitzondering van de bedrijfsbrandweer als bedoeld in het Besluit veiligheidsregio’s;  
 
 *burgemeester:* de burgemeester van de desbetreffende gemeente;  
 
-*CBR:* Stichting Centraal Bureau Rijvaardigheidsbewijzen;  
+*CBR:* Centraal Bureau Rijvaardigheidsbewijzen;  
 
-*Defensie:* Minister van Defensie, namens deze de Militaire Commissie Gevaarlijke Stoffen;  
+*Defensie:* Minister van Defensie;  
 
-*DGMI:* Minister, namens deze de Directeur-Generaal Milieu en Internationaal;  
-
-*EL&I:* Minister van Economische Zaken, Landbouw en Innovatie;  
+*EZ:* Minister van Economische Zaken;  
 
 *ILT:* Minister, namens deze de Inspecteur-Generaal Leefomgeving en Transport;  
 
-*politie:* Landelijke eenheid dan wel de desbetreffende regionale eenheid van de politie;  
+*politie:* het landelijke politiekorps, bedoeld in artikel 25, eerste lid, van de Politiewet 2012;  
 
 *RDW:* Dienst Wegverkeer;  
 
@@ -458,19 +448,19 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 
 2°. ten aanzien van de inspectie: een ieder die een erkenning heeft van de Vereniging van Beveiligingsondernemingen in Nederland (VBON) op grond van de regeling voor de erkenning van onderhoudsbedrijven kleine blusmiddelen (REOB);    
 
-*TNO DV:* kerngebied Defensie en Veiligheid van de Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;  
+*TNO:* Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek;  
 
 *VWS:* Minister van Volksgezondheid, Welzijn en Sport.    
 
-2. Bij de uitvoering van de bevoegdheden van V&J, bedoeld in artikel 1 van deze bijlage, geldt als merkteken het rijkstypekeur.    
+2. Bij de uitvoering van de bevoegdheden van V&J, bedoeld in artikel 1 van deze bijlage, geldt als merkteken het rijkstypekeur.    
 
-#### *Artikel 3.* 
+### Artikel  3  
 
-1. In dit artikel wordt verstaan onder: 
+1. In dit artikel wordt verstaan onder: 
 
-a. overeenstemming vooraf: het CBR doet schriftelijk een voorstel aan de Minister, die, indien akkoord, instemt;  
+a. *overeenstemming vooraf:* het CBR doet schriftelijk een voorstel aan de Minister, die, indien akkoord, instemt;  
 
-b. informatie achteraf: het CBR informeert schriftelijk achteraf de Minister door toezending van een jaarlijks verslag, houdende: 
+b. *informatie achteraf:* het CBR informeert schriftelijk achteraf de Minister door toezending van een jaarlijks verslag, houdende: 
 
 1°. aantallen examens;  
 
@@ -478,18 +468,20 @@ b. informatie achteraf: het CBR informeert schriftelijk achteraf de Minister doo
 
 3°. een evaluatie van het in onderdeel a en b genoemde.      
 
-2. Bij het uitoefenen van zijn bevoegdheden, bedoeld in artikel 1 van deze bijlage, geeft het CBR toepassing aan tabel 2.    Tabel 2. Specificatie bevoegdheden CBR 
+2. Bij het uitoefenen van zijn bevoegdheden, bedoeld in artikel 1 van deze bijlage, geeft het CBR toepassing aan tabel 2.  Tabel 2. Specificatie bevoegdheden CBR 
 
 | ADR-randnummer  | bevoegdheid van het CBR  | overeenstemming vooraf  | Informatie achteraf  |
-|:---|:---|:---|:---|
-| 8.2.1.2, 8.2.1.4 + 8.5; S1, S11, S12, 8.2.1.5, 8.2.1.6, 8.2.2.1  | Afgifte vakbekwaamheids- certificaten en aantekening herhalingscursus  | --- | X  |
-| 8.2.1.2, 8.2.1.3, 8.2.1.4, 8.2.2.3.1, 8.2.2.3.2, 8.2.2.3.3, 8.2.2.3.4, 8.2.2.3.5  | inhoudelijke eisen opleiding: vaststellen eindtermen  | X  | --- |
+|---|---|---|---|
+| 8.2.1.2, 8.2.1.4 + 8.5; S1, S11,  S12, 8.2.1.5, 8.2.1.6, 8.2.2.1  | Afgifte vakbekwaamheidscertificaten en aantekening herhalingscursus  | --- | X  |
+| 8.2.1.2, 8.2.1.3, 8.2.1.4,  8.2.2.3.1, 8.2.2.3.2, 8.2.2.3.3,  8.2.2.3.4, 8.2.2.3.5  | inhoudelijke eisen opleiding: vaststellen eindtermen  | X  | --- |
 | 8.2.2.6.1, 8.2.2.6.4, 8.2.2.6.5  | goedkeuren van de opleidingen; vaststellen van erkenningsrichtlijn  | X  | --- |
 | 8.2.2.7.1.3, 8.2.2.7.1.6  | eisen aan examens en wijze van examineren: opstellen van examenrichtlijn en afnemen examen  | X  | --- |
 
-#### *Artikel 4. Erkenningsvoorwaarden* 
+### Artikel  4  
 
-1. Een in artikel 1 erkende instantie, met uitzondering van bij de Staat der Nederlanden behorende organen, de politie en de brandweer, bedoeld in artikel 2: 
+####Erkenningsvoorwaarden
+
+1. Een in artikel 1 erkende instantie, met uitzondering van bij de Staat der Nederlanden behorende organen, de politie en de brandweer, bedoeld in artikel 2: 
 
 a. heeft rechtspersoonlijkheid;  
 
@@ -561,7 +553,7 @@ a. de voorschriften gesteld in de bijlagen 1 en 2;
 
 b. de in deze bijlage genoemde voorschriften, voor zover in de bijlagen 1 en 2 niet uitdrukkelijk anders is bepaald;  
 
-c. waar het voertuigen betreft, de [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).   2. De directeur kan voertuigen, tanks en tankcontainers waarvan de technische inrichting en uitrusting niet voldoen aan deze bijlage goedkeuren, indien de technische inrichting en uitrusting van de voertuigen, tanks en tankcontainers naar het oordeel van de directeur een gelijkwaardige veiligheid bieden. 3. Met de krachtens deze regeling tot het vervoer toegelaten voertuigen, tanks en tankcontainers worden gelijkgesteld voertuigen die aan gelijkwaardige eisen voldoen en die tot het vervoer zijn toegelaten in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.  
+c. waar het voertuigen betreft, de Regeling voertuigen.   2. De directeur kan voertuigen, tanks en tankcontainers waarvan de technische inrichting en uitrusting niet voldoen aan deze bijlage goedkeuren, indien de technische inrichting en uitrusting van de voertuigen, tanks en tankcontainers naar het oordeel van de directeur een gelijkwaardige veiligheid bieden. 3. Met de krachtens deze regeling tot het vervoer toegelaten voertuigen, tanks en tankcontainers worden gelijkgesteld voertuigen die aan gelijkwaardige eisen voldoen en die tot het vervoer zijn toegelaten in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.  
 
 #### *Artikel 4* 
 
@@ -657,7 +649,7 @@ Vervallen.
 
 #### *Artikel 20 rn. 9.7.6 stootbalk algemeen* 
 
-1. Van de stootbalk bedraagt het weerstandsmoment tegen buiging om de zwakste doorsnede ten minste 20 cm <sup>3</sup>. 2. Indien de in de [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) genoemde beschermingsinrichting tegen klemrijden is aangebracht op ten minste 10 cm achter de achterzijde van de tank of achter de tank aangebrachte apparatuur, kan deze tevens worden aangemerkt als de stootbalk overeenkomstig randnummer 9.7.6. 3. (apparatuurkast) Indien de tank aan de achterzijde is beschermd door een constructie, zoals een apparatuurkast waarvan de sterkte ten minste gelijkwaardig is aan die van genoemde stootbalk, is voldaan aan het gestelde in rn. 9.7.6. De constructie alsmede de bevestiging hiervan aan het voertuig is van dien aard, dat de bij een ongeval op de kast uitgeoefende krachten zodanig op het voertuigchassis worden overgebracht, dat beschadiging van de tank wordt voorkomen. 4. Indien de tank niet is voorzien van de in rn. 6.8.2.2.2 genoemde eindafsluiter aan het einde van elke vul- en losleiding, bedraagt het weerstandsmoment tegen buiging van de stootbalk om de zwakste doorsnede ten minste 30 cm <sup>3</sup>. 5. Indien de tank: 
+1. Van de stootbalk bedraagt het weerstandsmoment tegen buiging om de zwakste doorsnede ten minste 20 cm <sup>3</sup>. 2. Indien de in de Regeling voertuigen genoemde beschermingsinrichting tegen klemrijden is aangebracht op ten minste 10 cm achter de achterzijde van de tank of achter de tank aangebrachte apparatuur, kan deze tevens worden aangemerkt als de stootbalk overeenkomstig randnummer 9.7.6. 3. (apparatuurkast) Indien de tank aan de achterzijde is beschermd door een constructie, zoals een apparatuurkast waarvan de sterkte ten minste gelijkwaardig is aan die van genoemde stootbalk, is voldaan aan het gestelde in rn. 9.7.6. De constructie alsmede de bevestiging hiervan aan het voertuig is van dien aard, dat de bij een ongeval op de kast uitgeoefende krachten zodanig op het voertuigchassis worden overgebracht, dat beschadiging van de tank wordt voorkomen. 4. Indien de tank niet is voorzien van de in rn. 6.8.2.2.2 genoemde eindafsluiter aan het einde van elke vul- en losleiding, bedraagt het weerstandsmoment tegen buiging van de stootbalk om de zwakste doorsnede ten minste 30 cm <sup>3</sup>. 5. Indien de tank: 
 
 a. scharnierend op het voertuig is bevestigd; en  
 
@@ -806,7 +798,7 @@ c. zijn voor wat betreft alle onderdelen die de werking kunnen beïnvloeden, bes
 d. bezitten, gemeten bij een druk van ten hoogste 15% boven de nominale openingsdruk, een capaciteit, overeenkomend met de opbrengst van de compressor, doch ten minste:    
 
 | openingsdruk:  | capaciteit:  |
-|:---|:---|
+|---|---|
 | max. 200 kPa (2 bar)  | 75 Nm <sup>3</sup> /uur  |
 | meer dan 200 kPa (2 bar)  | 125 Nm <sup>3</sup> /uur  |
 
@@ -1386,7 +1378,7 @@ b. tankwagens die als laatste product kerosine met identificatienummer 1223, die
 
 #### *Artikel 80* 
 
-1. Voorafgaand aan een inwendige inspectie is de tank inwendig gereinigd. 2. Onmiddellijk voor de inwendige inspectie van de tank wordt een door een gasdeskundige als bedoeld in [artikel 3.5h van het Arbeidsomstandighedenbesluit](../../../../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) opgemaakt veiligheids- en gezondheidsverklaring overgelegd. Deze veiligheids- en gezondheidsverklaring wordt opgesteld overeenkomstig het in bijlage IX van de [Arbeidsomstandighedenregeling](../../../../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) vastgesteld modellen. 3. Indien de fabrikant van de tank of de werkplaats waar de tank wordt geïnspecteerd ten minste is gecertificeerd voor een kwaliteitsborgingssysteem volgens de norm ISO 9001:2000, kan de directeur onder nader bekend te maken voorschriften en beperkingen toestaan dat het certificaat, bedoeld in het tweede lid, door de eigen gekwalificeerde deskundige wordt opgesteld en gewaarmerkt. 4. Het in het tweede lid genoemde certificaat behoeft niet te worden overgelegd, indien: 
+1. Voorafgaand aan een inwendige inspectie is de tank inwendig gereinigd. 2. Onmiddellijk voor de inwendige inspectie van de tank wordt een door een gasdeskundige als bedoeld in artikel 3.5h van het Arbeidsomstandighedenbesluit opgemaakt veiligheids- en gezondheidsverklaring overgelegd. Deze veiligheids- en gezondheidsverklaring wordt opgesteld overeenkomstig het in bijlage IX van de Arbeidsomstandighedenregeling vastgesteld modellen. 3. Indien de fabrikant van de tank of de werkplaats waar de tank wordt geïnspecteerd ten minste is gecertificeerd voor een kwaliteitsborgingssysteem volgens de norm ISO 9001:2000, kan de directeur onder nader bekend te maken voorschriften en beperkingen toestaan dat het certificaat, bedoeld in het tweede lid, door de eigen gekwalificeerde deskundige wordt opgesteld en gewaarmerkt. 4. Het in het tweede lid genoemde certificaat behoeft niet te worden overgelegd, indien: 
 
 a. de tank niet is voorzien van een inwendige bekleding;  
 
@@ -1543,5 +1535,5 @@ Deze bijlage is van toepassing op voertuigen, tanks, tankcontainers en hun uitru
 #### *Aanhangsel 1 als bedoeld in artikel 57, bijlage 4, Regeling vervoer over land van gevaarlijke stoffen: waarmerk* 
 
 Het in het waarmerk opgenomen nummer ‘01’ kan variëren afhankelijk van degene die de keuring uitvoert.  
-![242146](http://wetten.overheid.nl/Illustration/242146)
+![]()
 
