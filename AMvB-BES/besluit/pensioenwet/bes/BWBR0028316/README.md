@@ -175,27 +175,6 @@ Een pensioenfonds voert een beleid gericht op het duurzaam beheersen van te lope
 
 ####Bepaling ter uitvoering van artikel 5b, 13, 13b, 16a, 16b en 16d van de wet
 
-### Artikel  13  
-
-####Parameters
-
-1.  Een pensioenfonds gaat voor de berekeningen, bedoeld in de artikelen 5b, 13, 13b, 16a en 16b van de wet uit van: 
-
-a. minimale verwachtingswaarden voor de groeivoeten van het loon- en prijsindexcijfer van 2%, respectievelijk 2%;  
-
-b. een maximaal verwacht rendement op vastrentende waarden na aftrek van beleggingskosten van 4,5%;  
-
-c. maximale risicopremies voor aandelen, onroerend goed en grondstoffen, te onderscheiden in de volgende categorieën: 
-
-1°. voor aandelen ontwikkelde markten: een rekenkundig gemiddelde van 4,5% of een meetkundig gemiddelde van 3%;  
-
-2°. voor niet-beursgenoteerde aandelen: een rekenkundig gemiddelde van 5% of een meetkundig gemiddelde van 3,5%;  
-
-3°. voor aandelen opkomende markten: een rekenkundig gemiddelde van 5,5% of een meetkundig gemiddelde van 4%; en  
-
-4°. voor onroerend goed en voor grondstoffen: een rekenkundig gemiddelde van 3,5% of een meetkundig gemiddelde van 2%.       
-2.  Een pensioenfonds kan na instemming van de Bank afwijken van hetgeen is bepaald in het eerste lid indien de actuele marktomstandigheden of de specifieke karakteristieken van het pensioenfonds dat noodzakelijk maken.   
-
 ### Artikel  14  
 
 ####Parameters vanaf 2012
@@ -220,12 +199,6 @@ e. een verwacht rendement op direct onroerend goed en grondstoffen met een reken
 
 1.  Bij een herstelplan als bedoeld in artikel 16a en 16b van de wet waarmee De Nederlandsche Bank heeft ingestemd, is het feit dat de uitkomst van berekeningen in het kader van dat herstelplan en het daarin opgenomen beleid wijzigt omdat gebruik wordt gemaakt van na de vaststelling van het herstelplan gewijzigde regels als bedoeld in artikel 16d, eerste lid, van de wet, als zodanig geen aanleiding voor herziening van het herstelplan.   
 2.  In afwijking van het eerste lid kan bij berekeningen ten aanzien van de consistentie, bedoeld in artikel 7f, eerste lid, van de wet, het feit dat de uitkomst van berekeningen wijzigt als bedoeld in het eerste lid, als zodanig wel aanleiding zijn tot herziening van het in het herstelplan, bedoeld in het eerste lid, opgenomen beleid omtrent voorwaardelijke toeslagverlening, nadat de maximale looptijd die geldt voor het kortetermijnherstelplan is verstreken.   
-
-### Artikel  16  
-
-####Overgangsbepaling voor nieuwe herstelplannen
-
-In afwijking van artikel 13 en artikel 14, eerste lid, gaat een fonds waarvan in het jaar 2011 wordt vastgesteld dat een herstelplan als bedoeld in artikel 16a en 16b van de wet moet worden ingediend vanaf dat moment uit van artikel 14.  
 
 ### §  5  
 
@@ -260,7 +233,7 @@ In afwijking van artikel 13 en artikel 14, eerste lid, gaat een fonds waarvan in
 
 De benodigde premie in verband met de pensioenverplichtingen wordt berekend overeenkomstig artikel 17, waarbij rekening gehouden wordt met: 
 
-a.  dit onderdeel is nog niet in werking getreden;   
+a. de opslag die nodig is voor het bij de aangroei van de pensioenverplichtingen behorende vereist eigen vermogen als bedoeld in artikel 13c van de wet;  
 
 b. de opslag die nodig is voor de bij de aangroei van de pensioenverplichtingen behorende uitvoeringskosten van het pensioenfonds; en  
 
@@ -687,68 +660,11 @@ g. de frequentie waarmee de gegevens worden verstrekt; deze bedraagt minimaal é
 
 ####Kostenregeling
 
+Vervallen per 01-01-2013   
+
 ####Bepalingen ter uitvoering van artikel 24, vierde lid, van de wet
 
-### Artikel  41  
-
-####Kosten
-
-1.  De Bank brengt jaarlijks een bedrag in rekening aan pensioenuitvoerders ter zake van kosten als bedoeld in artikel 24 van de wet.   
-2.  De op grond van het eerste lid in rekening te brengen kosten worden op basis van de begroting waarmee is ingestemd door Onze Minister, geraamd voor het jaar waarop het in rekening te brengen bedrag betrekking heeft.   
-3.  De geraamde kosten worden toegerekend aan categorieën van pensioenuitvoerders naar de mate van het beslag op de werkzaamheden van de Bank, bedoeld in artikel 24 van de wet.   
-4.  De per categorie toegerekende geraamde kosten worden verminderd of vermeerderd met het aan de desbetreffende categorie toe te rekenen exploitatiesaldo als bedoeld in artikel 24, tweede lid, van de wet, en verminderd met de aan de desbetreffende categorie toe te rekenen opbrengsten uit bestuurlijke boetes als bedoeld in artikel 24, derde lid, van de wet die niet reeds zijn opgenomen in het exploitatiesaldo.   
-5.  De in het derde lid bedoelde categorieën van pensioenuitvoerders zijn: 
-
-a. pensioenfondsen;  
-
-b. verzekeraars.     
-6.  Bij regeling van Onze Minister kunnen nadere categorieën worden vastgesteld.   
-
-### Artikel  42  
-
-####Vaststelling verschuldigd bedrag
-
-1.  Het bedrag, bedoeld in artikel 41, eerste lid, bestaat uit per categorie vast te stellen minimumbedragen ter dekking van de minimale toezichtkosten per uitvoerder in de desbetreffende categorie, vermeerderd met een bedrag dat: 
-
-a. wordt gebaseerd op de kosten die per categorie zijn toegerekend op de wijze, bedoeld in artikel 41, onder aftrek van het totaal van de aan de desbetreffende categorie in rekening te brengen minimumbedragen, en  
-
-b. is doorberekend naar rato van de maatstafgegevens die betrekking hebben op het voorafgaande jaar dan wel, indien deze gegevens niet beschikbaar zijn, het daaraan voorafgaande jaar of het lopende jaar.     
-2.  Bij regeling van Onze Minister kunnen op voorstel van de Bank per onderwerp van toezicht worden vastgesteld: 
-
-a. de minimumbedragen per categorie;  
-
-b. de maatstaven per categorie;  
-
-c. de maximummaatstaven per categorie; en  
-
-d. de tarieven per categorie.     
-
-### Artikel  43  
-
-####Verschuldigd bedrag bij gedeelte jaar
-
-1.  Het bedrag, bepaald op basis van artikel 43, wordt voor een uitvoerder die niet eerder dan 1 februari van het lopende jaar onder een categorie valt, in rekening gebracht naar evenredigheid van het aantal maanden in het jaar dat de pensioenuitvoerder onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.   
-2.  Aan een pensioenuitvoerder die niet langer onder een categorie valt, wordt het bedrag terugbetaald naar evenredigheid van het aantal maanden van het jaar dat de pensioenuitvoerder niet langer onder de categorie valt, waarbij een gedeelte van een maand geldt als volledige maand.   
-
-### Artikel  44  
-
-####Gegevensverstrekking
-
-1.  Een pensioenuitvoerder verstrekt binnen een door de Bank te stellen redelijke termijn een opgave van de maatstafgegevens.   
-2.  Indien een pensioenuitvoerder niet binnen de in het eerste lid bedoelde termijn een opgave heeft gedaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan, kan de Bank een schatting maken van de maatstafgegevens.   
-
-### Artikel  45  
-
-####Betaling
-
-1.  De Bank bepaalt de wijze en het tijdstip van betaling van de bedragen, bedoeld in artikel 41.   
-2.  Indien als wijze van betaling automatische incasso is overeengekomen, kan de Bank bij het in rekening brengen van het bedrag per factuur een korting toepassen.   
-
-### Artikel  46  
-
-####Fusie pensioenuitvoerders
-
-Indien een pensioenuitvoerder het vermogen heeft gekregen van een pensioenuitvoerder die in het lopende jaar of in het voorafgaande jaar is opgehouden onder een categorie te vallen, wordt het bedrag ter vergoeding van de kosten, bedoeld in artikel 41, eerste lid, die door de Bank ten aanzien van laatstbedoelde pensioenuitvoerder zijn gemaakt, in rekening gebracht bij de verkrijgende pensioenuitvoerder, voor zover deze kosten niet reeds bij de laatstbedoelde pensioenuitvoerder in rekening zijn gebracht.  
+Vervallen per 01-01-2013   
 
 ### §  14  
 
