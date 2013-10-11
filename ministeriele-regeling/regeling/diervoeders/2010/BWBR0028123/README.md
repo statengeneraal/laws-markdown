@@ -40,7 +40,7 @@ Gelet op:
 – Richtlijn nr. 2002/32/EG van het Europees Parlement en de Raad van de Europese Unie van 7 mei 2002 inzake ongewenste stoffen in diervoeding (PbEG L 140);  
 
 – Richtlijn nr. 2008/38/EG van de Commissie van de Europese Gemeenschappen van 5 maart 2008 tot vaststelling van de lijst van bestemmingen voor diervoeders met bijzonder voedingsdoel (PbEG L 69);   
-Gelet op de [artikelen 2, tweede lid, onderdeel b](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [3](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [6, eerste en vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [7, derde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [10, eerste lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [12](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [15, tweede lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [16, tweede, vierde en vijfde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [17](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [22, derde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [23](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [24](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [25, eerste en vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [28, tweede lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [32, vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), en [34 van de Kaderwet diervoeders](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) en op de [artikelen 7](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [12](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [17](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [21](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [24](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [27](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md) en [28 van het Besluit diervoeders](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md);
+Gelet op de [artikelen 2, tweede lid, onderdeel b](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [3](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [6, eerste en vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [7, derde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [10, eerste lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [12](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [15, tweede lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [16, tweede, vierde en vijfde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [17](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [22, derde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [23](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [24](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [25, eerste en vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [28, tweede lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), [32, vierde lid](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md), en [34 van de Kaderwet diervoeders](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) en op de [artikelen 7](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [12](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [17](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [21](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [24](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md), [27](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md) en [28 van het Besluit diervoeders](../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -85,15 +85,17 @@ b. *richtlijn nr. 2008/38/EG:*richtlijn nr. 2008/38/EG van de Commissie van de E
 
 c. *richtlijn nr. 96/23/EG:* richtlijn 96/23/EG van de Raad van 29 april 1996 inzake controlemaatregelen ten aanzien van bepaalde stoffen en residuen daarvan in levende dieren en in producten daarvan en tot intrekking van de Richtlijnen 85/358/EEG en 86/469/EEG en de Beschikkingen 89/187/EEG en 91/664/EEG (PbEG 1996, L 125);  
 
-d. *verordening (EG) nr. 1069/2009:* verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300);  
+d. *uitvoeringsverordening (EU) nr. 91/2013:* Uitvoeringsverordening (EU) nr. 91/2013 van de Commissie van 31 januari 2013 tot vaststelling van bijzondere voorwaarden voor de invoer van grondnoten uit Ghana en India, okra’s en kerrieblad uit India en zaden van watermeloenen uit Nigeria en houdende wijziging van Verordeningen (EG) nr. 669/2009 en (EG) nr. 1152/2009;  
 
-e. *verordening (EG) nr. 396/2005:* verordening (EG) nr. 396/2005 van het Europees Parlement en de Raad van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van Richtlijn 91/414/EG van de Raad (PbEU 2005, L 70);  
+e. *verordening (EG) nr. 1069/2009:* verordening (EG) nr. 1069/2009 van het Europese Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300);  
 
-f. *verordening (EG) nr. 889/2008:* verordening (EG) nr. 889/2008 van de commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PBEU 2008, L 250);  
+f. *verordening (EG) nr. 396/2005:* verordening (EG) nr. 396/2005 van het Europees Parlement en de Raad van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van Richtlijn 91/414/EG van de Raad (PbEU 2005, L 70);  
 
-g. *verordening (EG) nr. 669/2009:*verordening (EG) nr. 669/2009 van de Commissie van de Europese Gemeenschappen van 24 juli 2009 ter uitvoering van Verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad wat betreft meer uitgebreide officiële controles op de invoer van bepaalde diervoeders en levensmiddelen van niet-dierlijke oorsprong en tot wijziging van Beschikking 2006/504/EG (PbEU L 194);  
+g. *verordening (EG) nr. 889/2008:* verordening (EG) nr. 889/2008 van de commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PBEU 2008, L 250);  
 
-h. *verordening (EU) nr. 37/2010:* verordening (EU) nr. 37/2010 van de Commissie van 22 december 2009 betreffende farmacologisch werkzame stoffen en de indeling daarvan op basis van maximumwaarden voor residuen in levensmiddelen van dierlijke oorpsrong (PbEU L 15).    
+h. *verordening (EG) nr. 669/2009:*verordening (EG) nr. 669/2009 van de Commissie van de Europese Gemeenschappen van 24 juli 2009 ter uitvoering van Verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad wat betreft meer uitgebreide officiële controles op de invoer van bepaalde diervoeders en levensmiddelen van niet-dierlijke oorsprong en tot wijziging van Beschikking 2006/504/EG (PbEU L 194);  
+
+i. *verordening (EU) nr. 37/2010:* verordening (EU) nr. 37/2010 van de Commissie van 22 december 2009 betreffende farmacologisch werkzame stoffen en de indeling daarvan op basis van maximumwaarden voor residuen in levensmiddelen van dierlijke oorpsrong (PbEU L 15).    
 
 ### Hoofdstuk  2  
 
@@ -132,10 +134,6 @@ j. een gehalte bevat dat afwijkt van de toegestane tolerantie, bedoeld in bijlag
 2.  De aan Nederland opgedragen werkzaamheden, bedoeld in hoofdstuk V van verordening (EG) nr. 396/2005, worden, wat betreft diervoeders, verricht door de NVWA.   
 3.  De aanvrager, bedoeld in artikel 7, eerste lid, van verordening (EG) nr. 396/2005, dient zijn aanvraag in bij het College voor de toelating van gewasbeschermingsmiddelen en biociden.   
 
-### Artikel  5  
-
-Als voedermiddelen als bedoeld in [artikel 3 van de wet](../../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md) worden aangewezen de middelen als bedoeld in bijlage III bij verordening (EG) nr. 767/2009.  
-
 ### Artikel  6  
 
 De [artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen](../../../../../ministeriele-regeling/regeling/diergeneesmiddelen/BWBR0032626/README.md) zijn van overeenkomstige toepassing op handelingen als bedoeld in artikel 3, eerste lid, met diervoeders.  
@@ -154,56 +152,16 @@ De [artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen](../../../.
 
 a. artikel 7, eerste lid, van verordening (EG) nr. 999/2001;  
 
-b. punt I van bijlage IV bij verordening (EG) nr. 999/2001;  
+b. de hoofdstukken I, II, III, IV en V, onderdelen B, C, D en E van bijlage IV bij verordening (EG) nr. 999/2001;  
 
-c. punten II en III, onderdelen C en D, van bijlage IV bij verordening (EG) nr. 999/2001;  
-
-d. bijlage VII, hoofdstuk A, punt 2.3, punt b, onder i) en ii), van verordening (EG) nr. 999/2001.     
-2.  De verboden, bedoeld in het eerste lid, onderdelen a en b, zijn niet van toepassing ten aanzien van het vervoederen van de producten, genoemd in bijlage IV bij verordening (EG) nr. 999/2001, aan de daarbij genoemde dieren, mits is voldaan aan de in die bijlage gestelde voorwaarden.   
+c. bijlage VII, hoofdstuk B, onderdeel 2.2.2, onder a, van verordening (EG) nr. 999/2001.     
+2.  De verboden, bedoeld in het eerste lid, onderdelen a en b, zijn niet van toepassing ten aanzien van activiteiten, genoemd in bijlage IV bij verordening (EG) nr. 999/2001, mits is voldaan aan de in die bijlage gestelde voorwaarden.   
 
 ### Artikel  8  
 
-Het is verboden in strijd met punt II van bijlage IV bij Verordening (EG) nr. 999/2001 zonder een registratie of erkenning als bedoeld in artikel 9, respectievelijk 10, van verordening (EG) nr. 183/2005 een diervoeder te bereiden, te bewerken, te verwerken, in voorraad of voorhanden te hebben, die de volgende producten bevat: 
-
-a. vismeel als bedoeld in punt II, onderdeel B, van bijlage IV bij verordening (EG) nr. 999/2001;  
-
-b. dicalciumfosfaat of tricalciumfosfaat als bedoeld in punt II, onderdeel C, van bijlage IV bij verordening (EG) nr. 999/2001;  
-
-c. bloedproducten of bloedmeel als bedoeld in punt II, onderdeel D, van bijlage IV bij verordening (EG) nr. 999/2001.    
-
-### Artikel  9  
-
-1.  Een erkenning als bedoeld in artikel 8, aanhef, in samenhang met onderdeel a, wordt verleend, indien de aanvraag voldoet aan: 
-
-a. punt II, onderdeel B, onder c, eerste alinea, van bijlage IV bij verordening (EG) nr. 999/2001, dan wel  
-
-b. punt II, onderdeel B, onder c, onder ii, van bijlage IV bij verordening (EG) nr. 999/2001.     
-2.  Een erkenning als bedoeld in artikel 8, aanhef, in samenhang met onderdeel b, wordt verleend, indien de aanvrager voldoet aan: 
-
-a. punt II, onderdeel D, onder b, eerste alinea, van bijlage IV bij verordening (EG) nr. 999/2001, dan wel  
-
-b. punt II, onderdeel D, onder b, onder ii, van bijlage IV bij verordening (EG) nr. 999/2001.     
-3.  Een erkenning als bedoeld in artikel 8, aanhef, in samenhang met onderdeel c, wordt verleend, indien de aanvrager voldoet aan: 
-
-a. punt II, onderdeel D, onder c, eerste alinea, van bijlage IV bij verordening (EG) nr. 999/2001, dan wel  
-
-b. punt II, onderdeel D, onder c, onder ii, van bijlage IV bij verordening (EG) nr. 999/2001.     
-
-### Artikel  10  
-
-1.  Een registratie als bedoeld in artikel 8, aanhef, in samenhang met onderdeel a, wordt verleend, indien de aanvraag voldoet aan punt II, onderdeel B, onder c, onder i, van bijlage IV bij verordening (EG) nr. 999/2001.   
-2.  Een registratie als bedoeld in artikel 8, aanhef, in samenhang met onderdeel b, wordt verleend, indien de aanvraag voldoet aan punt II, onderdeel C, onder a, onder i, van bijlage IV bij verordening (EG) nr. 999/2001.   
-3.  Een registratie als bedoeld in artikel 8, aanhef, in samenhang met onderdeel b, wordt verleend, indien de aanvraag voldoet aan punt II, onderdeel D, onder c, onder i, van bijlage IV bij verordening (EG) nr. 999/2001.   
-
-### Artikel  11  
-
-1.  De minister keurt de reinigingsprocedure, bedoeld in punt II, onderdelen B, onder e, C, onder c, en D, onder e, van bijlage IV bij verordening (EG) nr. 999/2001, goed.   
-2.  De minister verleent de toestemming, bedoeld in punt II, onderdelen B, onder f, C, onder d, en D, onder a, tweede alinea, onder b, tweede alinea, en onder f, tweede alinea, van bijlage IV bij verordening (EG) nr. 999/2001.   
-3.  De minister erkent het controlesysteem, bedoeld in: 
-
-a. punt II, onder D, onder a, tweede alinea, en onder b, tweede alinea, van bijlage IV bij verordening (EG) nr. 999/2001;  
-
-b. punt III, onderdeel C, onder c, onder iii, van bijlage IV bij verordening (EG) nr. 999/2001.     
+1.  De minister keurt de procedures om versleping te voorkomen, bedoeld in de Hoofdstuk III, Deel A, onderdelen 2 en 4, Hoofdstuk IV, Deel C, onder b, Deel D, onder b, Deel E, onder f, en Hoofdstuk V, Deel B, onderdeel 2, van bijlage IV bij verordening (EG) nr. 999/2001, goed.   
+2.  De minister verleent de toestemming, bedoeld in Hoofdstuk III, Deel B, onderdeel 2, Deel D, onderdeel 2, en Hoofdstuk IV, Deel C, onder a en c, Deel D, onder a en c, Deel E, onder c, van bijlage IV bij verordening (EG) nr. 999/2001.   
+3.  De minister verleent de erkenning, bedoeld in Hoofdstuk III, Deel B, onderdeel 1, en Hoofdstuk IV, Deel D, onder d, van bijlage IV bij verordening (EG) nr. 999/2001.   
 
 ### §  2  
 
@@ -322,7 +280,7 @@ Het is verboden toevoegingsmiddelen als bedoeld in artikel 2, tweede lid, onderd
 
 a. artikel 7, bijlage IV en bijlage IX, hoofdstuk D, afdeling B, subonderdeel c, van verordening (EG) nr. 999/2001;  
 
-b. de artikelen, 12, 15, eerste lid, 16, 17, eerste lid, 18 en 20 van verordening (EG) nr. 178/2002;  
+b. de artikelen 11, 12, 15, eerste lid, 16, 17, eerste lid, 18 en 20 van verordening (EG) nr. 178/2002;  
 
 c. hoofdstuk III van verordening (EG) nr. 1829/2003;  
 
@@ -351,12 +309,17 @@ b. een document waarin de aard en de uitkomst van uitgevoerde controles zijn aan
 a. Rotterdam haven, Vlissingen haven, Amsterdam luchthaven of Maastricht luchthaven, voorzover zij van dierlijke oorsprong zijn;  
 
 b. Rotterdam haven, Delfzijl haven, Vlissingen haven, Amsterdam haven of Amsterdam luchthaven, voorzover zij niet van dierlijke oorsprong zijn.     
-2.  De belanghebbende bij een lading houdt de lading en de documenten bij een lading beschikbaar voor een controle als bedoeld in artikel 15, eerste of vijfde lid, van verordening (EG) nr. 882/2004, indien: 
+2.  In afwijking van het eerste lid worden toevoegingsmiddelen, voormengsels en diervoeders als bedoeld in verordening (EG) nr. 669/2009 of uitvoeringsverordening (EU) nr. 91/2013 en die afkomstig zijn uit een derde land en die in Nederland in het douanegebied van de Europese Economische Ruimte worden binnengebracht, aangevoerd via: 
+
+a. Rotterdam haven, Amsterdam luchthaven of Maastricht luchthaven, voor zover zij van dierlijke oorsprong zijn of  
+
+b. Rotterdam haven, Amsterdam haven of Amsterdam luchthaven, voor zover zij niet van dierlijke oorsprong zijn.     
+3.  De belanghebbende bij een lading houdt de lading en de documenten bij een lading beschikbaar voor een controle als bedoeld in artikel 15, eerste of vijfde lid, van verordening (EG) nr. 882/2004, indien: 
 
 a. de NVWA kenbaar maakt deze controle uit te gaan voeren of  
 
 b. de lading een diervoeder bevat dat niet is vermeld in bijlage I van verordening (EG) nr. 669/2009.     
-3.  Het is verboden in strijd te handelen met de artikelen 18, tweede volzin, en 19, 20 en 21 van verordening (EG) nr. 882/2004.   
+4.  Het is verboden in strijd te handelen met de artikelen 18, tweede volzin, en 19, 20 en 21 van verordening (EG) nr. 882/2004.   
 
 ### Artikel  32  
 
@@ -364,9 +327,14 @@ b. de lading een diervoeder bevat dat niet is vermeld in bijlage I van verordeni
 2.  De belanghebbende bij een lading die een diervoeder bevat als bedoeld in het eerste lid stelt de NVWA voor inklaring schriftelijk in kennis van de aanvoer, bedoeld in artikel 31, eerste lid, met de vooraanmelding, bedoeld in artikel 6 van verordening (EG) nr. 669/2009 met een document als bedoeld in dat artikel.   
 3.  Het is verboden in strijd te handelen met de artikelen 10, 11 en 12 van verordening (EG) nr. 669/2009.   
 
+### Artikel  33  
+
+1.  Belanghebbenden bij een zending diervoeders als bedoeld in artikel 1.1 van Uitvoeringsverordening (EU) nr. 91/2013 doen overeenkomstig artikel 7 van Uitvoeringsverordening (EU) nr. 91/2013 een kennisgeving aan de NVWA.   
+2.  Het is verboden in strijd te handelen met de artikelen 3, 4, 5, 6, 7, 9 en 10 van Uitvoeringsverordening (EU) nr. 91/2013.   
+
 ### Artikel  34  
 
-1.  Na afronding van de controle, bedoeld in artikel 31, tweede lid, onderdeel a, of artikel 32, eerste lid, wordt door de NVWA een document als bedoeld in artikel 30, eerste lid, onderdeel b, afgegeven en wordt van dat document aantekening gemaakt op de documenten, bedoeld in artikel 30, eerste lid, onderdeel a, ingeval de producten: 
+1.  Na afronding van de controle, bedoeld in artikel 31, tweede lid, onderdeel a, artikel 32, eerste lid, of artikel 33 wordt door de NVWA een document als bedoeld in artikel 30, eerste lid, onderdeel b, afgegeven en wordt van dat document aantekening gemaakt op de documenten, bedoeld in artikel 30, eerste lid, onderdeel a, ingeval de producten: 
 
 a. bestemd zijn om in het vrije verkeer gebracht te worden in een andere lidstaat  dan Nederland;  
 
@@ -637,16 +605,11 @@ De minister kan toestemming verlenen voor een onderzoek voor wetenschappelijke d
 
 Bij een aanvraag als bedoeld in artikel 59 wordt een dossier gevoegd dat is samengesteld overeenkomstig de richtsnoeren, bedoeld in artikel 3, tweede lid, van verordening (EG) nr. 1831/2003.  
 
-### Artikel  60a*  
+### Artikel  60a  
 
 1.  De minister kan toestemming verlenen voor een proefneming met een product dat mogelijk een ongewenste stof bevat voor de vaststelling van een verhoogd gehalte, een maximumgehalte of een actiedrempel als bedoeld in artikel 4, tweede lid, eerste alinea, van richtlijn nr. 2002/32/EG.   
 2.  De minister draagt bij het verlenen van een toestemming als bedoeld in het eerste lid, zorg voor toepassing van artikel 4, tweede lid, tweede alinea, van richtlijn nr. 2002/32/EG.   
 3.  Het is verboden in strijd te handelen met aan een toestemming verbonden voorschriften.   
-
-### Artikel  60a  
-
-1.  De NVWA kan toestemming verlenen voor een proefneming met een product dat mogelijk een ongewenste stof bevat voor de vaststelling van een verhoogd gehalte, een maximumgehalte of een actiedrempel als bedoeld in artikel 4, tweede lid, eerste alinea, van richtlijn nr. 2002/32/EG.   
-2.  De NVWA draagt bij het verlenen van een toestemming als bedoeld in het eerste lid, zorg voor toepassing van artikel 4, tweede lid, tweede alinea, van richtlijn nr. 2002/32/EG.   
 
 ### §  5  
 
