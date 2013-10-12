@@ -3,9 +3,9 @@
 ##Besluit van de Staatssecretaris van Buitenlandse Zaken van 24 september 2012, nr. DME/480/2012, tot instelling en bezoldiging van de Adviescommissie Fonds Duurzaam Water
 
 De Staatssecretaris van Buitenlandse Zaken,  
-Gelet op [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 
-Gelet op [het besluit van 21 maart 2012, nr. DJZ/BR/0311-2012, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, Fonds Duurzaam Water (FDW)](../../../../../../../../../../ministeriele-regeling/besluit/vaststelling/beleidsregels/en/subsidieplafond/subsidiëring/etc/BWBR0031396/README.md).
+Gelet op het besluit van 21 maart 2012, nr. DJZ/BR/0311-2012, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, Fonds Duurzaam Water (FDW).
 <sup> 1  Staatscourant 2012, 6036  </sup>   Besluit:    
 
 ### Artikel  1  
@@ -29,8 +29,8 @@ Gelet op [het besluit van 21 maart 2012, nr. DJZ/BR/0311-2012, tot vaststelling 
 
 ### Artikel  4  
 
-1.  Aan de voorzitter van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 2,8% van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). Voor de voorzitter geldt een arbeidsduurfactor van 0,028.   
-2.  Aan de leden van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 2,6% van het maximumbedrag van salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). Voor de leden geldt een arbeidsduurfactor van 0,026.   
+1.  Aan de voorzitter van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 5,7% van het maximumbedrag van salarisschaal 16 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. Voor de voorzitter geldt een arbeidsduurfactor van 0,057.   
+2.  Aan de leden van de adviescommissie wordt een vaste vergoeding per maand toegekend, ter hoogte van 5,7% van het maximumbedrag van salarisschaal 16 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. Voor de leden geldt een arbeidsduurfactor van 0,057.   
 
 ### Artikel  5  
 
