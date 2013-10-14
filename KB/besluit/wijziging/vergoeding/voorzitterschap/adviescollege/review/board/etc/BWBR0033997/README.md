@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het voorzitterschap wordt per maand vergoed. De toepasselijke arbeidsduurfactor is 0,22 fte en de toepasselijke salarisschaal is 18, 10 <sup>e</sup> trede.  
+Het voorzitterschap wordt per maand vergoed. De toepasselijke arbeidsduurfactor is 0,22 fte en de toepasselijke salarisschaal is 18, 10<sup>e</sup> trede. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2013.  
+Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2013. 
 Onze Minister van Veiligheid en Justitie is belast met de uitvoering van dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift zal worden gezonden aan betrokkenen en aan het Adviescollege Review Board.   
 
 Wassenaar 
@@ -25,5 +25,5 @@ Wassenaar
 Willem-Alexander  
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     

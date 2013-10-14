@@ -25,17 +25,17 @@ Besluit:
 
 ### Artikel  1  
 
-De aanbesteding voor het leveren, installeren, gebruiken en onderhouden van en het verhelpen van storingen aan technische beveiligingsvoorzieningen van de Nederlandse Omroep Stichting (NOS) en de Stichting Nederlandse Publieke Omroep wordt geheim verklaard.  
+De aanbesteding voor het leveren, installeren, gebruiken en onderhouden van en het verhelpen van storingen aan technische beveiligingsvoorzieningen van de Nederlandse Omroep Stichting (NOS) en de Stichting Nederlandse Publieke Omroep wordt geheim verklaard. 
 
 ### Artikel  2  
 
-Het [besluit van 12 juli 2007](../../../../../../../../ministeriele-regeling/besluit/geheimhouding/aanbestedingen/m.b.t./beveiligingsinstallaties/etc/BWBR0022244/README.md), nr. MLB/FTZ/2007/28.872, Stcrt. 2007, nr. 134, wordt ingetrokken.  
+Het [besluit van 12 juli 2007](../../../../../../../../ministeriele-regeling/besluit/geheimhouding/aanbestedingen/m.b.t./beveiligingsinstallaties/etc/BWBR0022244/README.md), nr. MLB/FTZ/2007/28.872, Stcrt. 2007, nr. 134, wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2013.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2013. 
 Dit besluit zal met de toelichting worden gepubliceerd in de Staatscourant.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-S.Dekker   
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+S. Dekker     
