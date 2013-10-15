@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *wet:* de [Wet beëdigde tolken en vertalers](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md);  
+a.  *wet:* de [Wet beëdigde tolken en vertalers](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md);  
 
-b. *commissie:* de commissie beëdigde tolken en vertalers, bedoeld in artikel 2;  
+b.  *commissie:* de commissie beëdigde tolken en vertalers, bedoeld in artikel 2;  
 
-c. *klachtencommissie:* de klachtencommissie, bedoeld in [artikel 16, tweede lid, van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md).    
+c.  *klachtencommissie:* de klachtencommissie, bedoeld in [artikel 16, tweede lid, van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -40,7 +40,7 @@ a. het adviseren over de aanwijzing van onafhankelijke deskundigen als bedoeld i
 b. het adviseren over opleidingen als bedoeld in artikel 11, onderdeel b;  
 
 c. het adviseren over de competenties, genoemd in [artikel 3 van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md).     
-3.  De commissie bestaat uit maximaal vijf leden, waaronder de voorzitter.   
+3.  De commissie bestaat uit maximaal vijf leden, waaronder de voorzitter.  
 
 ### Artikel  3  
 
@@ -48,12 +48,12 @@ c. het adviseren over de competenties, genoemd in [artikel 3 van de wet](../../.
 2.  Een lid kan voor een periode van ten hoogste vier jaren worden herbenoemd.   
 3.  Onze Minister kan een lid op diens schriftelijk verzoek tussentijds ontslag verlenen.   
 4.  Onze Minister kan een lid ontslag verlenen bij ziekte dan wel wegens zwaarwichtige redenen zoals ongeschiktheid voor de functie of onverenigbaarheid van functies en belangen.   
-5.  Van een vacature en van besluiten tot benoeming, herbenoeming of ontslag wordt mededeling gedaan in de Staatscourant.   
+5.  Van een vacature en van besluiten tot benoeming, herbenoeming of ontslag wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  4  
 
 1.  De leden van de commissie ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de daarop gebaseerde voor het ministerie van Justitie geldende bepalingen.   
-2.  De leden ontvangen een vergoeding voor reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).   
+2.  De leden ontvangen een vergoeding voor reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).  
 
 ### Hoofdstuk  3  
 
@@ -61,7 +61,7 @@ c. het adviseren over de competenties, genoemd in [artikel 3 van de wet](../../.
 
 ### Artikel  5  
 
-Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een daartoe ter beschikking gesteld formulier.  
+Voor de aanvraag tot inschrijving in het register wordt gebruik gemaakt van een daartoe ter beschikking gesteld formulier. 
 
 ### Artikel  6  
 
@@ -76,14 +76,14 @@ c. een kopie van een geldig identiteitsbewijs;
 d. een goed gelijkende pasfoto; en  
 
 e. een document waaruit blijkt dat verzoeker, indien relevant, in Nederland mag verblijven en werken.     
-2.  In plaats van het origineel van het getuigschrift, bedoeld in artikel 8, eerste lid, onderdeel a of b, kan ook een gewaarmerkte kopie worden overgelegd.   
+2.  In plaats van het origineel van het getuigschrift, bedoeld in artikel 8, eerste lid, onderdeel a of b, kan ook een gewaarmerkte kopie worden overgelegd.  
 
 ### Artikel  7  
 
 1.  Voor de behandeling van de aanvraag tot inschrijving in het register is de verzoeker een bedrag van € 125,– verschuldigd.   
 2.  Voor de behandeling van de aanvraag tot verlenging van de inschrijving in het register is de verzoeker een bedrag van € 75,– verschuldigd.   
 3.  Indien een verzoeker een aanvraag tot inschrijving of verlenging indient voor zowel tolk als vertaler of voor meer dan één bron- of doeltaal, is slechts eenmaal het betrokken bedrag verschuldigd.   
-4.  Bij ministeriële regeling kan worden bepaald in welke gevallen vrijstelling van het eerste en tweede lid kan worden verleend.   
+4.  Bij ministeriële regeling kan worden bepaald in welke gevallen vrijstelling van het eerste en tweede lid kan worden verleend.  
 
 ### Hoofdstuk  4  
 
@@ -103,12 +103,12 @@ a. hij beschikt over een of meer van de volgende getuigschriften waaruit blijkt 
 
 b. hij kan anderszins aantonen te voldoen aan de wettelijke competenties.     
 2.  Onze Minister kan onafhankelijke deskundigen aanwijzen die taal- en cultuurtoetsen kunnen afnemen waarmee tolken en vertalers kunnen aantonen dat ze beschikken over de desbetreffende wettelijke competenties.   
-3.  Een tolk of vertaler op wie het overgangsrecht van [artikel 37 van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md) van toepassing is, wordt in het register ingeschreven.   
+3.  Een tolk of vertaler op wie het overgangsrecht van [artikel 37 van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md) van toepassing is, wordt in het register ingeschreven.  
 
 ### Artikel  9  
 
 1.  Op verzoek van een tolk of vertaler worden met het oog op diens veiligheid bepaalde gegevens uit het register of uit de lijst, bedoeld in [artikel 2, derde lid, van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md), niet openbaar gemaakt.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.  
 
 ### Artikel  10  
 
@@ -129,7 +129,7 @@ b. hij kan anderszins aantonen te voldoen aan de wettelijke competenties.
 – de nationaliteit; en  
 
 – de bron- en de doeltaal dan wel de bron- en de doeltalen.     
-2.  Indien een tolk of vertaler schriftelijk aantoont over overige specifieke bekwaamheden te beschikken, kunnen deze bekwaamheden op diens verzoek in het register worden vermeld.   
+2.  Indien een tolk of vertaler schriftelijk aantoont over overige specifieke bekwaamheden te beschikken, kunnen deze bekwaamheden op diens verzoek in het register worden vermeld.  
 
 ### Hoofdstuk  5  
 
@@ -141,11 +141,11 @@ De inschrijving van een beëdigde tolk of vertaler wordt verlengd, indien schrif
 
 a. dat hij ten minste tien professionele werkopdrachten als beëdigde tolk of vertaler heeft verricht; en  
 
-b. dat hij door middel van een door Onze Minister aangewezen opleiding zijn vakbekwaamheid heeft onderhouden.    
+b. dat hij door middel van een door Onze Minister aangewezen opleiding zijn vakbekwaamheid heeft onderhouden.   
 
 ### Artikel  12  
 
-Bij ministeriële regeling kan worden bepaald in welke gevallen een inschrijving kan worden verlengd hoewel niet wordt voldaan aan artikel 11.  
+Bij ministeriële regeling kan worden bepaald in welke gevallen een inschrijving kan worden verlengd hoewel niet wordt voldaan aan artikel 11. 
 
 ### Artikel  13  
 
@@ -153,12 +153,12 @@ Onze Minister kan een opleiding als bedoeld in artikel 11, onderdeel b, aanwijze
 
 a. de opleiding is gericht op verhoging van de kwaliteit van de beroeps- en praktijkuitoefening op vakinhoudelijk gebied en de kwaliteit van de dienstverlening van de beëdigde tolk of vertaler; en  
 
-b. de opleiding wordt gegeven door docenten met praktijkervaring.    
+b. de opleiding wordt gegeven door docenten met praktijkervaring.   
 
 ### Artikel  14  
 
 1.  Bij een verzoek tot aanwijzing van een opleiding als bedoeld in artikel 11, onderdeel b, worden ten minste de namen van de docenten en hun ervaring opgegeven en wordt het studiemateriaal overgelegd.   
-2.  Onze Minister beslist binnen twee maanden na ontvangst op een verzoek tot aanwijzing van een opleiding.   
+2.  Onze Minister beslist binnen twee maanden na ontvangst op een verzoek tot aanwijzing van een opleiding.  
 
 ### Hoofdstuk  6  
 
@@ -168,34 +168,34 @@ b. de opleiding wordt gegeven door docenten met praktijkervaring.
 
 1.  De klachtencommissie, bedoeld in [artikel 16, tweede lid, van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md), bestaat uit ten minste drie leden en maximaal acht leden, waaronder ten minste de voorzitter of de plaatsvervangend voorzitter.   
 2.  Er kunnen plaatsvervangende leden worden benoemd.   
-3.  De artikelen 3 en 4 zijn van overeenkomstige toepassing op de klachtencommissie.   
+3.  De artikelen 3 en 4 zijn van overeenkomstige toepassing op de klachtencommissie.  
 
 ### Artikel  16  
 
 1.  De voorzitter en de plaatsvervangend voorzitter zijn jurist.   
-2.  De in het eerste lid genoemde leden zijn niet werkzaam als tolk of vertaler, noch werkzaam bij een organisatie van tolken of vertalers of bij een onderneming die tolken of vertalers in dienst heeft, noch aangesteld bij het Ministerie van Justitie.   
+2.  De in het eerste lid genoemde leden zijn niet werkzaam als tolk of vertaler, noch werkzaam bij een organisatie van tolken of vertalers of bij een onderneming die tolken of vertalers in dienst heeft, noch aangesteld bij het Ministerie van Justitie.  
 
 ### Artikel  17  
 
 1.  De klachtencommissie behandelt een klacht tegen een beëdigde tolk in een kamer, ten minste bestaande uit de voorzitter of een plaatsvervangend voorzitter, een lid dat geen tolk of vertaler is, en een lid dat beëdigd tolk is.   
-2.  De klachtencommissie behandelt een klacht tegen een beëdigde vertaler in een kamer, ten minste bestaande uit de voorzitter of een plaatsvervangend voorzitter, een lid dat geen tolk of vertaler is, en een lid dat beëdigde vertaler is.   
+2.  De klachtencommissie behandelt een klacht tegen een beëdigde vertaler in een kamer, ten minste bestaande uit de voorzitter of een plaatsvervangend voorzitter, een lid dat geen tolk of vertaler is, en een lid dat beëdigde vertaler is.  
 
 ### Artikel  18  
 
-De klachtencommissie stelt een reglement op ter regeling van haar werkwijze.  
+De klachtencommissie stelt een reglement op ter regeling van haar werkwijze. 
 
 ### Artikel  19  
 
 1.  De klachtencommissie stelt jaarlijks een openbaar verslag op, waarin ten minste het aantal en de aard van de door haar behandelde klachten wordt aangegeven.   
-2.  De klachtencommissie zendt het verslag voor 1 april van het daaropvolgende kalenderjaar aan Onze Minister.   
+2.  De klachtencommissie zendt het verslag voor 1 april van het daaropvolgende kalenderjaar aan Onze Minister.  
 
 ### Artikel  20  
 
-De [artikelen 1 tot en met 41 van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md) en dit besluit treden in werking met ingang van 1 januari 2009.  
+De [artikelen 1 tot en met 41 van de wet](../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md) en dit besluit treden in werking met ingang van 1 januari 2009. 
 
 ### Artikel  21  
 
-Dit besluit wordt aangehaald als: Besluit beëdigde tolken en vertalers.  
+Dit besluit wordt aangehaald als: Besluit beëdigde tolken en vertalers. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -203,10 +203,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 11 december 2008  
 Beatrix  
 
-De Staatssecretaris van Justitie, 
+De Staatssecretaris van Justitie,  
 N. Albayrak   
 
 de *tweeëntwintigste* december 2008 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

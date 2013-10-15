@@ -13,21 +13,21 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de directeur:* de directeur van de Dienst ICT Uitvoering;  
+a.  *de directeur:* de directeur van de Dienst ICT Uitvoering;  
 
-b. *de plaatsvervangend directeur:* de plaatsvervangend directeur van de Dienst ICT Uitvoering;  
+b.  *de plaatsvervangend directeur:* de plaatsvervangend directeur van de Dienst ICT Uitvoering;  
 
-c. *de Chief Financial Officer:* de Chief Financial Officer van de Dienst ICT Uitvoering;  
+c.  *de Chief Financial Officer:* de Chief Financial Officer van de Dienst ICT Uitvoering;  
 
-d. *de MT-leden:* de leden van het managementteam van de Dienst ICT Uitvoering, niet zijnde de directeur;  
+d.  *de MT-leden:* de leden van het managementteam van de Dienst ICT Uitvoering, niet zijnde de directeur;  
 
-e. *het MT-Dienst ICT Uitvoering:* het collectief van onder a, c en d bedoelde functionarissen;  
+e.  *het MT-Dienst ICT Uitvoering:* het collectief van onder a, c en d bedoelde functionarissen;  
 
-f. *de teamleiders:* de teamleiders van de Dienst ICT Uitvoering;  
+f.  *de teamleiders:* de teamleiders van de Dienst ICT Uitvoering;  
 
-g. *de clusterleiders:* de clusterleiders van de Dienst ICT Uitvoering;  
+g.  *de clusterleiders:* de clusterleiders van de Dienst ICT Uitvoering;  
 
-h. *het bedrag:* het bedrag inclusief de verschuldigde omzetbelasting (BTW).    
+h.  *het bedrag:* het bedrag inclusief de verschuldigde omzetbelasting (BTW).   
 
 ### §  2  
 
@@ -45,7 +45,7 @@ c. aangelegenheden:
 
 1°. ten aanzien waarvan de directeur in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of  
 
-2°. die door een lid van het MT-Dienst ICT Uitvoering aan de directeur ter afhandeling worden voorgelegd.      
+2°. die door een lid van het MT-Dienst ICT Uitvoering aan de directeur ter afhandeling worden voorgelegd.     
 
 ### Artikel  3  
 
@@ -60,7 +60,7 @@ c. het aangaan van verplichtingen en het afhandelen van verzoeken inzake de ople
 
 d. het accorderen van P-Direkt aanvragen;  
 
-e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.     
+e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.    
 
 ### Artikel  4  
 
@@ -75,7 +75,7 @@ c. het aangaan van verplichtingen en het afhandelen van verzoeken inzake de ople
 
 d. het accorderen van P-Direkt aanvragen;  
 
-e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.     
+e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.    
 
 ### Artikel  5  
 
@@ -90,7 +90,7 @@ c. het aangaan van verplichtingen en het afhandelen van verzoeken inzake de ople
 
 d. het accorderen van P-Direkt aanvragen;  
 
-e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.     
+e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.    
 
 ### Artikel  6  
 
@@ -105,7 +105,7 @@ c. het aangaan van verplichtingen en het afhandelen van verzoeken inzake de ople
 
 d. het accorderen van P-Direkt aanvragen;  
 
-e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.     
+e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.    
 
 ### §  3  
 
@@ -114,7 +114,7 @@ e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskost
 ### Artikel  7  
 
 1.  De uit dit besluit voor een MT-lid voortvloeiende bevoegdheden gaan bij afwezigheid over op een aangewezen teamleider.   
-2.  De uit dit besluit voor een teamleider voortvloeiende bevoegdheden gaan bij afwezigheid over op een aangewezen andere teamleider bij DICTU.   
+2.  De uit dit besluit voor een teamleider voortvloeiende bevoegdheden gaan bij afwezigheid over op een aangewezen andere teamleider bij DICTU.  
 
 ### §  4  
 
@@ -122,19 +122,19 @@ e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskost
 
 ### Artikel  8  
 
-Het Besluit mandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken, Landbouw en Innovatie 2012 wordt ingetrokken.  
+Het Besluit mandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken, Landbouw en Innovatie 2012 wordt ingetrokken. 
 
 ### Artikel  9  
 
-Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Bedrijfsvoering, de directeur van de Auditdienst Rijk, de Algemene Rekenkamer en aan degenen aan wie krachtens dit besluit machtiging is verleend.  
+Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Bedrijfsvoering, de directeur van de Auditdienst Rijk, de Algemene Rekenkamer en aan degenen aan wie krachtens dit besluit machtiging is verleend. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.  
+Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken 2013.  
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging voor de Dienst ICT Uitvoering van het Ministerie van Economische Zaken 2013. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

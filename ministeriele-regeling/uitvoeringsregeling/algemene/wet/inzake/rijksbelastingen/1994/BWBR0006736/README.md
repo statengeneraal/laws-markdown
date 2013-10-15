@@ -163,7 +163,9 @@ e. de accijns;
 
 f. de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten;  
 
-g. de verpakkingenbelasting.     
+g. de verpakkingenbelasting;  
+
+h. de verhuurderheffing.     
 3.  De in het tweede lid bedoelde verplichting geldt niet indien de inspecteur een papieren aangiftebiljet uitreikt. De inspecteur kan een papieren aangiftebiljet uitreiken indien de aangifte betrekking heeft op een gedeelte van een tijdvak.   
 4.  Het tweede lid is niet van toepassing met betrekking tot pseudo-eindheffing als bedoeld in [artikel 32bb](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [artikel 32bc van de Wet op de loonbelasting 1964](../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
 
@@ -178,9 +180,7 @@ b. de belastingplichtige het stuk dat deze gegevens bevat duidelijk, stellig en 
 
 ### Artikel  21a  
 
-1.  Met betrekking tot de overdrachtsbelasting ter zake van een verkrijging van andere goederen dan bedoeld in [artikel 4, eerste lid, onderdeel a, van de Wet op belastingen van rechtsverkeer](../../../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), waarvan een notariële akte is opgemaakt, wordt aangifte gedaan door het aanbieden van die akte ter registratie. Het verschuldigde bedrag aan overdrachtsbelasting wordt vermeld in een aan de voet van de akte gestelde, door de verkrijger of namens deze door de notaris ondertekende verklaring. In die verklaring wordt tevens vermeld of in verband met de verkrijging van de onroerende zaak of zaken tevens een of meer roerende zaken zijn verkregen. Indien dat het geval is, wordt in de verklaring voorts vermeld welke roerende zaak of zaken het betreft, voor welk bedrag deze werd of werden verkregen en of dat bedrag is begrepen in de in de akte vermelde tegenprestatie voor de onroerende zaak of zaken. Voorzover overigens in de akte niet alle gegevens voorkomen waarvan kennisneming van belang kan zijn voor de heffing van de overdrachtsbelasting worden deze eveneens opgenomen in de verklaring.   
-2.  Voorzover de gegevens, bedoeld in de vierde volzin van het eerste lid, zijn opgenomen in het lichaam van de akte of in een aan de akte gehechte en door de verkrijger ondertekende bijlage kan in de verklaring worden volstaan met een verwijzing naar die gegevens.   
-3.  De aangifte, bedoeld in het eerste lid, kan worden gedaan door een afschrift van de aldaar bedoelde akte, vergezeld van het daartoe door de Belastingdienst beschikbaar gestelde voorblad, langs elektronische weg ter registratie aan te bieden. Dit voorblad treedt dan in de plaats van de in het eerste lid bedoelde verklaring.   
+Met betrekking tot de overdrachtsbelasting ter zake van een verkrijging van andere goederen dan de goederen, bedoeld in [artikel 4, eerste lid, onderdeel a, van de Wet op belastingen van rechtsverkeer](../../../../../../../../wet/wet/op/belastingen/van/rechtsverkeer/BWBR0002740/README.md), waarvan een notariële akte is opgemaakt, wordt door de notaris namens de verkrijger aangifte gedaan, door het aanbieden ter registratie van de akte en het langs elektronische weg aanbieden van de gegevens, bedoeld in [artikel 4 van de Uitvoeringsregeling Registratiewet 1970](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/registratiewet/1970/BWBR0034017/README.md), op de wijze, bedoeld in dat artikel. In de akte wordt tevens vermeld of in verband met de verkrijging van de onroerende zaak of zaken tevens een of meer roerende zaken zijn verkregen. Indien dat het geval is, wordt in de akte voorts vermeld voor welk totaalbedrag deze roerende zaak of zaken werd of werden verkregen en of dat bedrag is begrepen in de in de akte vermelde tegenprestatie voor de onroerende zaak of zaken. De in de vorige volzin bedoelde roerende zaak of zaken worden in de akte of in een annexe die bij de minuut is opgemaakt opgenomen. De inspecteur kan de notaris om een kopie van de annexe verzoeken. In de akte worden alle gegevens opgenomen waarvan kennisneming van belang is of kan zijn voor de heffing van de overdrachtsbelasting.  
 
 ### Artikel  21b  
 
@@ -454,10 +454,10 @@ g. het bedrag van de belasting dat ter zake van de levering of de dienst is vers
 
 ### Artikel  40  
 
-1.  Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan diplomatieke en consulaire vertegenwoordigingen, internationale organisaties en NAVO-strijdkrachten die in een andere lid-staat van de Europese Gemeenschappen zijn gevestigd, dan wel gelegerd, met uitzondering van NAVO-strijdkrachten van die lid-staat zelf.   
+1.  Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan diplomatieke en consulaire vertegenwoordigingen, internationale organisaties en NAVO-strijdkrachten die in een andere lidstaat van de Europese Unie zijn gevestigd, dan wel gelegerd, met uitzondering van NAVO-strijdkrachten van die lidstaat zelf.   
 2.  Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan personeelsleden van de in het eerste lid bedoelde instellingen.   
-3.  Bij het verlenen van de in het eerste lid bedoelde vrijstellingen zijn de voorwaarden, zoals de andere lid-staat die voor de instelling, dan wel het personeelslid heeft vastgesteld voor de vrijstelling van omzetbelasting ter zake van prestaties in het binnenlandse vrije verkeer, van overeenkomstige toepassing. De vrijstellingen worden niet verleend voor goederen die bestemd zijn voor gebruik binnen Nederland, noch voor diensten verricht met betrekking tot dergelijke goederen.   
-4.  De in het eerste en tweede lid bedoelde vrijstellingen worden slechts verleend, indien de instelling, dan wel het personeelslid een originele, door of namens de andere lid-staat gewaarmerkte verklaring overlegt waaruit blijkt dat ter zake aanspraak op vrijstelling van omzetbelasting bestaat. Voor deze verklaring dient gebruik te worden gemaakt van het communautaire document ter uitvoering van de vrijstelling omzetbelasting en accijns bij intracommunautaire aankopen door ambassades en consulaten en de leden daarvan, internationale organisaties en bepaalde functionarissen daarvan, en NAVO-onderdelen.   
+3.  Bij het verlenen van de in het eerste lid bedoelde vrijstellingen zijn de voorwaarden, zoals de andere lidstaat die voor de instelling, dan wel het personeelslid heeft vastgesteld voor de vrijstelling van omzetbelasting ter zake van prestaties in het binnenlandse vrije verkeer, van overeenkomstige toepassing. De vrijstellingen worden niet verleend voor goederen die bestemd zijn voor gebruik binnen Nederland, noch voor diensten verricht met betrekking tot dergelijke goederen.   
+4.  De in het eerste en tweede lid bedoelde vrijstellingen worden slechts verleend, indien de instelling, dan wel het personeelslid een originele, door of namens de andere lidstaat gewaarmerkte verklaring overlegt waaruit blijkt dat ter zake aanspraak op vrijstelling van omzetbelasting bestaat. Voor deze verklaring dient gebruik te worden gemaakt van het EU-document ter uitvoering van de vrijstelling omzetbelasting en accijns bij intracommunautaire aankopen door ambassades en consulaten en de leden daarvan, internationale organisaties en bepaalde functionarissen daarvan, en NAVO-onderdelen.   
 5.  De in het eerste lid en tweede lid bedoelde vrijstelling kan direct worden verleend indien de instelling, dan wel het personeelslid, tijdig een geldige verklaring als bedoeld in het vierde lid ter beschikking stelt aan de ondernemer die de prestatie verricht. De in het eerste en tweede lid bedoelde vrijstelling kan worden verleend in de vorm van teruggaaf van belasting indien het bedrag van de vergoeding per factuur ten minste € 225 bedraagt.   
 6.  De vrijstelling vervalt wanneer niet of niet langer wordt voldaan aan de in het derde lid bedoelde voorwaarden. De alsdan verschuldigde omzetbelasting bedraagt ten hoogste het bedrag waarvan vrijstelling werd verleend.   
 
@@ -513,7 +513,7 @@ c. de Minister van Defensie:
 
 2°. gegevens ten behoeve van de aan de Militaire Inlichtingen- en Veiligheidsdienst opgedragen taken;    
 
-d. de Minister van Economische Zaken, Landbouw en Innovatie: 
+d. de Minister van Economische Zaken: 
 
 1°. gegevens die van belang kunnen zijn voor de uitvoering van [hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md);  
 
@@ -543,7 +543,7 @@ g. de Minister van Infrastructuur en Milieu:
 
 h. de directeur van de FIOD: gegevens die door de FIOD worden gebruikt in het kader van de strafrechtelijke handhaving van de rechtsorde ingevolge [artikel 3 van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);  
 
-i. de directeur van de Belastingdienst Holland/Midden: gegevens die worden gebruikt in het kader van de aan dit organisatieonderdeel toegewezen niet-fiscale toezichts- en opsporingstaken, doch met uitzondering van gegevens die worden gebruikt in het kader van de uitvoering en handhaving van de Wet ter voorkoming van witwassen en financieren van terrorisme;  
+i. de landelijk directeur van de Belastingdienst/Grote ondernemingen: gegevens die worden gebruikt in het kader van de aan dit organisatieonderdeel toegewezen niet-fiscale toezichts- en opsporingstaken, doch met uitzondering van gegevens die worden gebruikt in het kader van de uitvoering en handhaving van de Wet ter voorkoming van witwassen en financieren van terrorisme;  
 
 j. gemeenten: 
 
@@ -587,7 +587,11 @@ n. academische ziekenhuizen: gegevens over het inkomen en vermogen van (voormali
 
 o. universiteiten: gegevens over het inkomen en vermogen van (voormalige) werknemers over een bepaalde periode ten behoeve van de vaststelling van werkloosheidsuitkeringen;  
 
-p. de raad van bestuur van de Nederlandse Mededingingsautoriteit: gegevens die van belang zijn voor de handhaving van de [Mededingingswet](../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), de [Elektriciteitswet 1998](../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en de [Gaswet](../../../../../../../../wet/gaswet/BWBR0011440/README.md);  
+p. de Autoriteit Consument en Markt: 
+
+1°. gegevens die van belang kunnen zijn voor de handhaving van de Mededingingswet, de Elektriciteitswet 1998 en de Gaswet;  
+
+2°. gegevens die van belang kunnen zijn voor de uitvoering van de taken, bedoeld in artikel 2.2 van de Wet handhaving consumentenbescherming;    
 
 q. de Pensioen- en Uitkeringsraad: gegevens over het inkomen en vermogen over een bepaalde periode ten behoeve van het vaststellen van pensioenbijdragen krachtens de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), de [Wet buitengewoon pensioen 1940–1945](../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) of de [Wet buitengewoon pensioen Indisch verzet](../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md);  
 
@@ -595,13 +599,11 @@ r. de Stichting Administratie Indonesische Pensioenen: gegevens over het inkomen
 
 s. De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten: gegevens over opgelegde vergrijpboetes ten behoeve van de uitvoering van de betrouwbaarheidstoetsing, bedoeld in [artikel 14 van het Besluit Gedragstoezicht financiële ondernemingen Wft](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [artikel 7 van het Besluit prudentiële regels Wft](../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), [artikel 2 van de Beleidsregel inzake de betrouwbaarheidstoetsing van (kandidaat)(mede)beleidsbepalers van en houders van gekwalificeerde deelnemingen in onder toezicht staande instellingen](../../../../../../../..//BWBR0011278/README.md) (Stcrt. 2005, 20), artikel 2 van de Beleidsregel 06-1 inzake de betrouwbaarheidstoets van (kandidaat)(mede)beleidsbepalers van accountantsorganisaties van 19 september 2006 (Stcrt. 2006, 190) en [artikel 33 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md);  
 
-t. het Bureau Financieel Toezicht, De Nederlandsche Bank N.V., de voorzitter van het managementteam van de Belastingdienst/Holland Midden en de Stichting Autoriteit Financiële Markten: gegevens die van belang kunnen zijn bij de uitvoering en de handhaving van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
+t. het Bureau Financieel Toezicht, De Nederlandsche Bank N.V., de landelijk directeur van de Belastingdienst/Grote ondernemingen en de Stichting Autoriteit Financiële Markten: gegevens die van belang kunnen zijn bij de uitvoering en de handhaving van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
 
 u. de participanten van het samenwerkingsverband zonder rechtspersoonlijkheid Financieel Expertise Centrum (FEC), genoemd in artikel 1 van het Convenant houdende afspraken over de samenwerking in het kader van het Financieel Expertise Centrum (Stcrt. 2009, 71): de gegevens die noodzakelijk zijn ter uitvoering van de in dat convenant opgenomen verplichtingen;  
 
-v. de Consumentenautoriteit: gegevens die van belang kunnen zijn voor de uitvoering van de taken, bedoeld in [artikel 2.2 van de Wet handhaving consumentenbescherming](../../../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md);  
-
-w. provincies: 
+v. provincies: 
 
 1°. gegevens over het inkomen van voormalige ambtsdragers over een bepaalde periode ten behoeve van de uitvoering van de wachtgeldregeling op basis van de [Algemene pensioenwet politieke ambtsdragers](../../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md);  
 
@@ -609,18 +611,18 @@ w. provincies:
 
 3°. gegevens die van belang kunnen zijn voor vergunningverlening en het houden van toezicht in het kader van de [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);    
 
-x. de Inspectie SZW, het Uitvoeringsinstituut werknemersverzekeringen, gemeenten, de Sociale verzekeringsbank, het openbaar Ministerie, de politie en de Minister van Sociale Zaken en Werkgelegenheid (zoals vertegenwoordigd in de landelijke Stuurgroep Interventieteams): gegevens die nodig zijn voor de uitvoering van samenwerkingsprojecten door middel van interventieteams ter voorkoming en terugdringing van belasting- en premiefraude, uitkeringsfraude, illegale tewerkstelling en de daarmee samenhangende misstanden;  
+w. de Inspectie SZW, het Uitvoeringsinstituut werknemersverzekeringen, gemeenten, de Sociale verzekeringsbank, het openbaar Ministerie, de politie en de Minister van Sociale Zaken en Werkgelegenheid (zoals vertegenwoordigd in de landelijke Stuurgroep Interventieteams): gegevens die nodig zijn voor de uitvoering van samenwerkingsprojecten door middel van interventieteams ter voorkoming en terugdringing van belasting- en premiefraude, uitkeringsfraude, illegale tewerkstelling en de daarmee samenhangende misstanden;  
 
-y. de gemeenschappelijke regeling DCMR Milieudienst Rijnmond: gegevens die van belang kunnen zijn voor de vergunningverlening, en het toezicht en de handhaving van de gemeentelijke en provinciale taken in het kader van de [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en de [Wet geluidhinder](../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+x. de gemeenschappelijke regeling DCMR Milieudienst Rijnmond: gegevens die van belang kunnen zijn voor de vergunningverlening, en het toezicht en de handhaving van de gemeentelijke en provinciale taken in het kader van de [Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), de [Wet bodembescherming](../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en de [Wet geluidhinder](../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
 
-z. de Nederlandse Voedsel- en Warenautoriteit: gegevens met betrekking tot het doen van loonaangifte door horecaondernemers ten behoeve van het op grond van [artikel 11a, eerste en vierde lid, van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) te maken onderscheid tussen werkgevers met werknemers en werkgevers zonder werknemers;  
+y. de Nederlandse Voedsel- en Warenautoriteit: gegevens met betrekking tot het doen van loonaangifte door horecaondernemers ten behoeve van het op grond van [artikel 11a, eerste en vierde lid, van de Tabakswet](../../../../../../../../wet/tabakswet/BWBR0004302/README.md) te maken onderscheid tussen werkgevers met werknemers en werkgevers zonder werknemers;  
 
-aa. de inspecteur, bedoeld in [artikel 1, onderdeel h, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md), en de ontvanger, bedoeld in artikel 1, onderdeel i, van dat besluit: gegevens die van belang zijn voor de uitvoering van het Besluit tegemoetkoming specifieke zorgkosten;  
+z. de inspecteur, bedoeld in [artikel 1, onderdeel h, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md), en de ontvanger, bedoeld in artikel 1, onderdeel i, van dat besluit: gegevens die van belang zijn voor de uitvoering van het Besluit tegemoetkoming specifieke zorgkosten;  
 
-ab. de Minister van Binnenlandse Zaken en Koninkrijksrelaties of het Centraal Fonds voor de Volkshuisvesting: de resultaten van bestandsbevragingen ter verificatie van bij de directie Woningmarkt van het directoraat-generaal Wonen, Bouwen en Integratie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties of het Centraal Fonds voor de Volkshuisvesting aanwezige informatie, alsmede vastgoedtransactiegegevens en inkomensgegevens van leden van de raad van bestuur en van medewerkers van de woningcorporaties, ten behoeve van het toezicht op de woningcorporaties en ten behoeve van integriteitsonderzoeken;  
+aa. de Minister voor Wonen en Rijksdienst of het Centraal Fonds voor de Volkshuisvesting: de resultaten van bestandsbevragingen ter verificatie van bij de directie Woningmarkt van het directoraat-generaal Wonen, Bouwen en Integratie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties of het Centraal Fonds voor de Volkshuisvesting aanwezige informatie, alsmede vastgoedtransactiegegevens en inkomensgegevens van leden van de raad van bestuur en van medewerkers van de woningcorporaties, ten behoeve van het toezicht op de woningcorporaties en ten behoeve van integriteitsonderzoeken;  
 
-ac. Stichting Nationale en Internationale Wegvervoer Organisatie: de controlerapporten en onderzoeksverslagen die zijn opgemaakt naar aanleiding van controles bij vervoerders, gegevens omtrent btw-identificatienummers van vervoerders en gegevens van vervoerders die op één adres staan ingeschreven, ten behoeve van de uitvoering en handhaving van de haar op grond van de [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) toegekende taken.     
-2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het betreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel l, onder 3°, alsmede de onderdelen h, i en t, voor zover het gegevens betreft die worden verstrekt aan de directeur van de Belastingdienst/Holland Midden.   
+ab. Stichting Nationale en Internationale Wegvervoer Organisatie: de controlerapporten en onderzoeksverslagen die zijn opgemaakt naar aanleiding van controles bij vervoerders, gegevens omtrent btw-identificatienummers van vervoerders en gegevens van vervoerders die op één adres staan ingeschreven, ten behoeve van de uitvoering en handhaving van de haar op grond van de [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) toegekende taken.     
+2.  De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van het betreffende bestuursorgaan. De eerste volzin is niet van toepassing op de verstrekking van gegevens als bedoeld in het eerste lid, onderdeel l, onder 3°, alsmede de onderdelen i en t, voor zover het gegevens betreft die worden verstrekt aan de landelijk directeur van de Belastingdienst/Grote ondernemingen.   
 3.  Voor de toepassing van het eerste lid wordt verstaan onder: 
 
 a. inkomen: het inkomensgegeven, bedoeld in [artikel 21, onderdeel e, van de wet](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
@@ -635,7 +637,7 @@ c. kentekenregistergegevens: gegevens afkomstig van de Rijksdienst voor het Wegv
 
 ### Artikel  43d  
 
-Artikel 43c, eerste lid, onderdeel aa, is van overeenkomstige toepassing op de uitvoering van [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).  
+Artikel 43c, eerste lid, onderdeel z, is van overeenkomstige toepassing op de uitvoering van [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).  
 
 ### Artikel  44  
 

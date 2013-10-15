@@ -4,14 +4,14 @@
 
 ####European Agreement on main inland waterways of international importance (AGN)
 
-The Contracting Parties, Conscious of the need to facilitate and develop international transport by inland waterways in Europe, Aware of the expected increase in the international transport of goods as a result of growing international trade, Emphasizing the important role of inland water transport, which in comparison with other modes of inland transport has economic and ecological advantages and offers spare infrastructure and vessel capacity and is therefore capable of lowering social costs and negative impacts on the environment by inland transport as a whole, Convinced that, in order to make international inland water transport in Europe including the transport by sea-river vessels using coastal roads more efficient and attractive to customers, it is essential to establish a legal framework which lays down a coordinated plan for the development and construction of a network of inland waterways of international importance, based on agreed infrastructure and operational parameters, Have agreed as follows:    
+The Contracting Parties, Conscious of the need to facilitate and develop international transport by inland waterways in Europe, Aware of the expected increase in the international transport of goods as a result of growing international trade, Emphasizing the important role of inland water transport, which in comparison with other modes of inland transport has economic and ecological advantages and offers spare infrastructure and vessel capacity and is therefore capable of lowering social costs and negative impacts on the environment by inland transport as a whole, Convinced that, in order to make international inland water transport in Europe including the transport by sea-river vessels using coastal routes, more efficient and attractive to customers, it is essential to establish a legal framework which lays down a coordinated plan for the development and construction of a network of inland waterways of international importance, based on agreed infrastructure and operational parameters, Have agreed as follows:    
 
 ### Article  1  
 
 ####Designation of the network
 
-1.  The Contracting Parties adopt the provisions of this Agreement as a coordinated plan for the development and construction of a network of inland waterways, hereinafter referred to as the “network of inland waterways of international importance" or “E waterway network", which they intend to undertake within the framework of their relevant programmes. The E waterway network consists of inland waterways and ports of international importance as described in annexes I and II to this Agreement.   
-2.  The Contracting Parties shall take necessary measures with a view to effectively protect the envisaged route of the portions of E waterways, with due regard to their future parameters, which do niot exist at present but which are included in relevant infrastructure development programmes until the date when the decision on their construction is taken.   
+1.  The Contracting Parties adopt the provisions of this Agreement as a coordinated plan for the development and construction of a network of inland waterways, hereinafter referred to as the “network of inland waterways of international importance” or “E waterway network”, which they intend to undertake within the framework of their relevant programmes. The E waterway network, in terms of this Agreement, consists of inland waterways and coastal routes used by sea-river vessels as well as ports of international importance situated on those waterways and routes, as described in annexes I and II to this Agreement.   
+2.  The Contracting Parties shall take necessary measures with a view to effectively protect the envisaged route of the portions of E waterways, with due regard to their future parameters, which do not exist at present but which are included in relevant infrastructure development programmes until the date when the decision on their construction is taken.   
 
 ### Article  2  
 
@@ -148,7 +148,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized to that effect, have 
 
 Numbering of inland waterways of international importance  
 
-De Bijlage, zoals gewijzigd, ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.    
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.   Gepubliceerd op http://www.unece.org/fileadmin/DAM/trans/doc/2012/sc3wp3/ECE-TRANS-SC3-193e.pdf.    
 
 ### Annex  II  
 
@@ -156,7 +156,7 @@ De Bijlage, zoals gewijzigd, ligt ter inzage bij de Afdeling Verdragen van het M
 
 Numbering of inland navigation ports of international importance  
 
-De Bijlage, zoals gewijzigd, ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.    
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.   Gepubliceerd op http://www.unece.org/fileadmin/DAM/trans/doc/2012/sc3wp3/ECE-TRANS-SC3-193a1e.pdf.    
 
 ### Annex III  
 
@@ -174,7 +174,7 @@ De Verdragsluitende Partijen, Zich bewust van de noodzaak het internationaal ver
 
 ####Aanduiding van het netwerk
 
-1.  De Verdragsluitende Partijen nemen de bepalingen van dit Verdrag aan als een gecoördineerd plan voor de ontwikkeling en aanleg van een net van waterwegen, hierna te noemen „het net van waterwegen die van internationaal belang zijn" of „het net van E-waterwegen", welk plan zij voornemens zijn uit te voeren binnen het kader van hun desbetreffende programma's. Het net van E-waterwegen bestaat uit de waterwegen en havens die van internationaal belang zijn en zijn vermeld in de bijlagen I en II bij dit Verdrag.   
+1.  De Verdragsluitende Partijen nemen de bepalingen van dit Verdrag aan als een gecoördineerd plan voor de ontwikkeling en aanleg van een net van waterwegen, hierna te noemen „het net van waterwegen die van internationaal belang zijn” of „het net van E-waterwegen”, welk plan zij voornemens zijn uit te voeren binnen het kader van hun desbetreffende programma's. Het net van E-waterwegen, met betrekking tot dit Verdrag, bestaat uit de waterwegen en kustroutes die door binnenvaart-/zeeschepen worden gebruikt alsmede de havens van internationaal belang die aan deze waterwegen en routes gelegen zijn en die zijn vermeld in de Bijlagen I en II bij dit Verdrag.   
 2.   De Verdragsluitende Partijen nemen de noodzakelijke maatregelen met het oog op de doeltreffende bescherming van het beoogde traject met de gedeelten van E-waterwegen, met zorgvuldige inachtneming van hun toekomstige parameters, die nog niet bestaan, maar die zijn opgenomen in desbetreffende infrastructurele ontwikkelingsprogramma's, tot de datum waarop de beslissing over de aanleg ervan wordt genomen.  
 
 ### Artikel  2  
@@ -210,7 +210,7 @@ De Secretaris-Generaal van de Verenigde Naties is de depositaris van dit Verdrag
 1.  Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met artikel 5, tweede lid.   
 2.  De bekrachtiging, aanvaarding of goedkeuring geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.   
 
-### Atikel  7  
+### Artikel  7  
 
 ####Toetreding
 
