@@ -2,7 +2,7 @@
 
 ##Vergunning BankGiro Loterij 2013/2014
 
-Op grond van de [artikelen 3](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [5 van de Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) (hierna: de wet) en het [Kansspelenbesluit](../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) verleent de raad van bestuur van de kansspelautoriteit (hierna: de kansspelautoriteit) aan de BankGiro Loterij N.V., gevestigd te Amsterdam met KvK-nummer 41126590 (hierna: de vergunninghouder), een vergunning voor de periode van 1 mei 2013 tot en met 31 december 2014. Aan deze vergunning zijn de volgende voorschriften verbonden:   
+Op grond van de artikelen 3 en 5 van de Wet op de kansspelen (hierna: de wet) en het Kansspelenbesluit verleent de raad van bestuur van de kansspelautoriteit (hierna: de kansspelautoriteit) aan de BankGiro Loterij N.V., gevestigd te Amsterdam met KvK-nummer 41126590 (hierna: de vergunninghouder), een vergunning voor de periode van 1 mei 2013 tot en met 31 december 2014. Aan deze vergunning zijn de volgende voorschriften verbonden:   
 ### A  
 
 ####Bestuursstructuur
@@ -13,7 +13,7 @@ A.2 De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel
 
 * de statuten van de vergunninghouder geldend op 15 april 2013;  
 
-* het door de vergunninghouder opgestelde deelnemersreglement zoals goedgekeurd op 15 april 2013;  
+* het door de vergunninghouder opgestelde deelnemersreglement zoals goedgekeurd op 19 september 2013;  
 
 * het door de vergunninghouder opgestelde financieel reglement zoals goedgekeurd op 15 april 2013; en  
 
@@ -24,7 +24,7 @@ A.3 De kansspelautoriteit kan in uitzonderlijke gevallen en na voorafgaand overl
 
 ####Aangeboden kansspel
 
-B.1 De vergunninghouder mag uitsluitend loterijen aanbieden waarbij het lotnummer is gebaseerd op een nummer van een bestaande bank- of girorekening.  
+B.1 De vergunninghouder mag uitsluitend nummerloterijen aanbieden.  
 
 B.2 De vergunninghouder mag onder deze vergunning ten hoogste aanbieden: 
 
@@ -110,16 +110,16 @@ E.4 De vergunninghouder is verplicht binnen vier maanden na afloop van elk kalen
 
 F.1 De vergunninghouder is verplicht binnen een maand na afloop van elk kwartaal een verslag aan de kansspelautoriteit te zenden betreffende het financiële verloop en andere door de kansspelautoriteit noodzakelijk geachte gegevens. Deze gegevens omvatten in elk geval de in punt E.1 bedoelde processen-verbaal van de in dat kwartaal verrichte trekkingen.  
 
-F.2 De vergunninghouder is verplicht een jaarrekening en een jaarverslag op te stellen die voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de Holding, onder de voorwaarde dat in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De kansspelautoriteit kan aanwijzingen geven met betrekking tot de inrichting van de jaarrekening en het jaarverslag.  
+F.2 De vergunninghouder is verplicht een jaarrekening en een jaarverslag op te stellen die voldoen aan de eisen gesteld in Boek 2, Titel 9, van het Burgerlijk Wetboek. De vergunninghouder kan de jaarrekening en het jaarverslag laten opstellen door de Holding, onder de voorwaarde dat in de jaarrekening en het jaarverslag verantwoording wordt afgelegd over de verschillende kansspelen waarop de jaarrekening en het jaarverslag betrekking hebben. De kansspelautoriteit kan aanwijzingen geven met betrekking tot de inrichting van de jaarrekening en het jaarverslag.  
 
-F.3 De vergunninghouder is verplicht een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) de jaarrekening en de naleving van de vergunningsvoorschriften te laten onderzoeken en de uitslag van dit onderzoek te laten weergeven in een verslag en een verklaring als bedoeld in het [vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+F.3 De vergunninghouder is verplicht een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek de jaarrekening en de naleving van de vergunningsvoorschriften te laten onderzoeken en de uitslag van dit onderzoek te laten weergeven in een verslag en een verklaring als bedoeld in het vierde en het vijfde lid van artikel 393 van Boek 2 van het Burgerlijk Wetboek.  
 
 F.4 De vergunninghouder is verplicht binnen vier maanden na afloop van elk kalenderjaar het jaarverslag, de jaarrekening met het verslag en een goedkeurende verklaring bedoeld in punt F.3 aan de kansspelautoriteit te zenden.      
 ### G  
 
 ####Overig
 
-G.1 De vergunninghouder is verplicht de vergoeding bedoeld in [artikel 3a van het Kansspelenbesluit](../../../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) binnen vier weken na aanvang van een kalenderjaar te betalen aan de kansspelautoriteit.  
+G.1 De vergunninghouder is verplicht de vergoeding bedoeld in artikel 3a van het Kansspelenbesluit binnen vier weken na aanvang van een kalenderjaar te betalen aan de kansspelautoriteit.  
 
 G.2 Deze vergunning zal met de toelichting in de Staatscourant worden geplaatst.  
 
