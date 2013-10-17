@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Raad van 23 juni 2008 betreffende de toetreding van Bulgarije en Roemenië tot het Verdrag van 23 juli 1990 ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (2008/492/EG)
+##Besluit van de Raad van 23 juni 2008 betreffende de toetreding van Bulgarije en Roemenië tot het Verdrag van 23 juli 1990 ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (2008/492/EG) 
 
 ####Besluit van de Raad van 23 juni 2008 betreffende de toetreding van Bulgarije en Roemenië tot het Verdrag van 23 juli 1990 ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen (2008/492/EG)
 
@@ -16,19 +16,19 @@ De Raad van de Europese Unie, Gelet op de Toetredingsakte van 2005, en met name 
 
 ### Artikel  1  
 
-Wijzigt het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen; Brussel, 23 juli 1990.   
+Wijzigt het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen; Brussel, 23 juli 1990. 
 
 ### Artikel  2  
 
-De tekst van het [Arbitrageverdrag](../../../../../../../../../../../../../../../verdrag/verdrag/ter/afschaffing/van/dubbele/belasting/in/geval/van/winstcorrecties/etc/BWBV0002893/README.md) en het Protocol van 25 mei 1999, samen met de Verdragen van 21 december 1995 en 8 december 2004, opgesteld in de Bulgaarse en de Roemeense taal zijn op gelijke wijze authentiek als de overige teksten van het Arbitrageverdrag en het Protocol.  
+De tekst van het [Arbitrageverdrag](../../../../../../../../../../../../../../../verdrag/verdrag/ter/afschaffing/van/dubbele/belasting/in/geval/van/winstcorrecties/etc/BWBV0002893/README.md) en het Protocol van 25 mei 1999, samen met de Verdragen van 21 december 1995 en 8 december 2004, opgesteld in de Bulgaarse en de Roemeense taal zijn op gelijke wijze authentiek als de overige teksten van het Arbitrageverdrag en het Protocol. 
 
 ### Artikel  3  
 
-Het [Arbitrageverdrag](../../../../../../../../../../../../../../../verdrag/verdrag/ter/afschaffing/van/dubbele/belasting/in/geval/van/winstcorrecties/etc/BWBV0002893/README.md) en het Protocol van 25 mei 1999, samen met de Verdragen van 21 december 1995 en 8 december 2004, treden ten aanzien van Bulgarije en Roemenië op 1 juli 2008 in werking.  
+Het [Arbitrageverdrag](../../../../../../../../../../../../../../../verdrag/verdrag/ter/afschaffing/van/dubbele/belasting/in/geval/van/winstcorrecties/etc/BWBV0002893/README.md) en het Protocol van 25 mei 1999, samen met de Verdragen van 21 december 1995 en 8 december 2004, treden ten aanzien van Bulgarije en Roemenië op 1 juli 2008 in werking. 
 
 ### Artikel  4  
 
-Dit besluit wordt van kracht op 1 juli 2008.  
+Dit besluit wordt van kracht op 1 juli 2008. 
 
 GEDAAN te Luxemburg, 23 juni 2008.  
 
