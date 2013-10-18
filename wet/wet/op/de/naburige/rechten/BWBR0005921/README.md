@@ -120,7 +120,7 @@ c. het uitzenden, het heruitzenden, het beschikbaar stellen voor het publiek of 
 
 1.  Een voor commerciële doeleinden uitgebracht fonogram of een reproduktie daarvan kan zonder toestemming van de producent van het fonogram en de uitvoerende kunstenaar of hun rechtverkrijgenden worden uitgezonden, heruitgezonden of op een andere wijze openbaar gemaakt, mits daarvoor een billijke vergoeding wordt betaald. Het in het eerste volzin bepaalde is niet van toepassing op het beschikbaar stellen voor het publiek van een dergelijk fonogram.   
 2.  Voor de toepassing van het eerste lid wordt onder een voor commerciële doeleinden uitgebracht fonogram mede begrepen een fonogram dat beschikbaar wordt gesteld voor het publiek.   
-3.  Bij gebreke van overeenstemming over de hoogte van de billijke vergoeding is de rechtbank te 's-Gravenhage in eerste aanleg bij uitsluiting bevoegd om op vordering van de meest gerede partij de hoogte van de vergoeding vast te stellen.   
+3.  Bij gebreke van overeenstemming over de hoogte van de billijke vergoeding is de rechtbank Den Haag in eerste aanleg bij uitsluiting bevoegd om op vordering van de meest gerede partij de hoogte van de vergoeding vast te stellen.   
 4.  De vergoeding komt toe aan zowel de uitvoerende kunstenaar als de producent of hun rechtverkrijgenden en wordt tussen hen gelijkelijk verdeeld.   
 
 ### Artikel  7a  
@@ -163,6 +163,22 @@ De rechten die deze wet verleent gaan over bij erfopvolging. Deze rechten zijn, 
 
 ### Artikel  9a  
 
+1.  Indien de producent van een fonogram na verloop van 50 jaar nadat dat fonogram is openbaar gemaakt dan wel op rechtmatige wijze in het verkeer is gebracht, dat fonogram niet of niet langer in voldoende mate exploiteert, kan de uitvoerende kunstenaar de overeenkomst houdende overdracht van zijn rechten op de vastlegging van zijn uitvoering aan die producent geheel of gedeeltelijk ontbinden.   
+2.  Indien de door deze wet verleende rechten toekomen aan meerdere uitvoerende kunstenaars, kan de in het eerste lid bedoelde ontbinding slechts plaatsvinden indien de andere uitvoerende kunstenaars daarmee instemmen. Indien een uitvoerende kunstenaar zijn instemming onthoudt, kan de ontbinding van de overeenkomst slechts door de rechter geschieden indien de overige uitvoerende kunstenaars door het onthouden van de toestemming onevenredig worden benadeeld.   
+3.  De in het eerste lid bedoelde bevoegdheid tot ontbinding ontstaat eerst nadat de producent van het fonogram door de uitvoerende kunstenaar schriftelijk van zijn voornemen tot ontbinding in kennis is gesteld en sindsdien minimaal één jaar is verstreken waarin exploitatie is uitgebleven.   
+4.  Op verzoek van de uitvoerende kunstenaar verstrekt de producent van het fonogram hem voor het verstrijken van de in het derde lid bedoelde termijn een schriftelijke opgave van de exploitatie.   
+5.  Van het in het eerste lid genoemde recht tot ontbinding kan de uitvoerende kunstenaar geen afstand doen.   
+6.  Een ontbinding op grond van het eerste lid heeft tot gevolg dat de rechten van de producent van het fonogram overgaan op de uitvoerende kunstenaar.   
+
+### Artikel  9b  
+
+1.  Indien de in artikel 9, eerste lid bedoelde overdracht behelst de overdracht van de rechten van zijn uitvoering aan de producent van een fonogram, en bij die overdracht een niet-periodieke vergoeding is overeengekomen, heeft de uitvoerende kunstenaar, of in het geval van meerdere uitvoerende kunstenaars, de uitvoerende kunstenaars gezamenlijk het recht om van die producent een jaarlijkse aanvullende vergoeding te ontvangen voor ieder volledig jaar volgend op het 50ste jaar nadat dat fonogram voor het eerst op rechtmatige wijze in het verkeer is gebracht, of indien dit eerder valt, is openbaar gemaakt.   
+2.  De in het vorige lid bedoelde vergoeding bedraagt 20 procent van de inkomsten die de producent van het fonogram heeft verkregen met de reproductie, verspreiding en beschikbaarstelling van het fonogram in het jaar voorafgaand aan het jaar waarvoor de vergoeding wordt betaald.   
+3.  Indien de in artikel 9, eerste lid bedoelde overdracht behelst de overdracht van de rechten op de vastlegging van zijn uitvoering aan de producent van een fonogram, en bij die overdracht een periodieke vergoeding is overeengekomen, wordt die vergoeding vanaf het jaar volgend op het 50ste jaar nadat dat fonogram voor het eerst op rechtmatige wijze in het verkeer is gebracht, of indien dit eerder valt, is openbaar gemaakt, uitgekeerd zonder dat daarop contractueel bedongen voorschotten of kortingen worden ingehouden.   
+4.  Van de in de leden 1 tot en met 3 genoemde rechten kan de uitvoerende kunstenaar geen afstand doen.   
+
+### Artikel  9c  
+
 De rechten, bedoeld in de artikelen 2, 6, 7a en 8, zijn niet van toepassing op een door of vanwege de openbare macht in het verkeer gebrachte opname van een uitvoering, fonogram, eerste vastlegging van een film, opnamen van een programma, en een reproductie daarvan en openbaar gemaakte uitvoering, opname van een uitvoering, fonogram, eerste vastlegging van een film, programma, opname van een programma, en een reproductie daarvan, waarvan de openbare macht de rechthebbende is, tenzij de rechten hetzij in het algemeen bij de wet, besluit of verordening, hetzij in een bepaald geval blijkens mededeling op of in het op grond van deze wet beschermde materiaal zelf dan wel bij het in het verkeer brengen of openbaar maken daarvan uitdrukkelijk zijn voorbehouden.  
 
 ### Artikel  10  
@@ -197,10 +213,12 @@ Van inbreuk op de rechten, bedoeld in de artikelen 2, 6, 7a en 8, is geen sprake
 
 ### Artikel  12  
 
-1.  De rechten van uitvoerende kunstenaars vervallen door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de uitvoering heeft plaatsgehad. Indien echter binnen deze termijn een opname van de uitvoering op rechtmatige wijze in het verkeer is gebracht of is openbaar gemaakt, vervallen de rechten door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de opname voor het eerst op rechtmatige wijze in het verkeer is gebracht of, indien dit eerder valt, is openbaar gemaakt.   
-2.  De rechten van producenten van fonogrammen vervallen door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin het fonogram is vervaardigd. Indien binnen deze termijn het fonogram op rechtmatige wijze in het verkeer is gebracht, vervallen de rechten door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgende op dat waarin het fonogram voor het eerst op rechtmatige wijze in het verkeer is gebracht. Indien het fonogram binnen de in de vorige zin bedoelde termijn niet op rechtmatige wijze in het verkeer is gebracht maar wel openbaar is gemaakt, vervallen de rechten 50 jaar na de datum waarop het fonogram voor het eerst is openbaar gemaakt.   
+1.  De rechten van uitvoerende kunstenaars vervallen door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de uitvoering heeft plaatsgehad.   
+2.  Indien binnen de in het eerste lid bedoelde termijn een opname van de uitvoering anders dan op een fonogram op rechtmatige wijze in het verkeer is gebracht of openbaar gemaakt, vervallen de rechten door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de opname voor het eerst op rechtmatige wijze in het verkeer is gebracht of, indien dit eerder valt, is openbaar gemaakt.   
+3.  Indien binnen de in het eerste lid bedoelde termijn een opname van de uitvoering op een fonogram op rechtmatige wijze in het verkeer is gebracht of openbaar gemaakt, vervallen de rechten door verloop van 70 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin het fonogram voor het eerst op rechtmatige wijze in het verkeer is gebracht of, indien dit eerder valt, is openbaar gemaakt.   
+4.  De rechten van producenten van fonogrammen vervallen door verloop van 70 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin het fonogram is vervaardigd. Indien binnen deze termijn het fonogram op rechtmatige wijze in het verkeer is gebracht, vervallen de rechten door verloop van 70 jaren te rekenen van de 1e januari van het jaar, volgende op dat waarin het fonogram voor het eerst op rechtmatige wijze in het verkeer is gebracht. Indien het fonogram binnen de in de vorige zin bedoelde termijn niet op rechtmatige wijze in het verkeer is gebracht maar wel openbaar is gemaakt, vervallen de rechten 70 jaar na de datum waarop het fonogram voor het eerst is openbaar gemaakt.   
 3.  De rechten van omroeporganisaties vervallen door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin een programma voor het eerst is uitgezonden, ongeacht welke technische hulpmiddelen daarbij worden gebruikt.   
-4.  De rechten van producenten van de eerste vastlegging van een film vervallen door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de eerste vastlegging heeft plaatsgehad. Indien echter binnen deze termijn de eerste vastlegging op rechtmatige wijze in het verkeer is gebracht of is openbaar gemaakt, vervallen de rechten door verloop van 50 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de eerste vastlegging voor het eerst op rechtmatige wijze in het verkeer is gebracht, of indien dit eerder valt, is openbaar gemaakt.   
+4.  De rechten van producenten van de eerste vastlegging van een film vervallen door verloop van 70 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de eerste vastlegging heeft plaatsgehad. Indien echter binnen deze termijn de eerste vastlegging op rechtmatige wijze in het verkeer is gebracht of is openbaar gemaakt, vervallen de rechten door verloop van 70 jaren te rekenen van de 1e januari van het jaar, volgend op dat waarin de eerste vastlegging voor het eerst op rechtmatige wijze in het verkeer is gebracht, of indien dit eerder valt, is openbaar gemaakt.   
 
 ### Hoofdstuk  3  
 
@@ -253,7 +271,7 @@ De hoogte van de in de artikelen 2, derde lid, 6, derde lid, 7 *a*, derde lid, e
 
 ### Artikel  15c  
 
-Geschillen met betrekking tot de in de artikelen 2, derde lid, 6, derde lid, 7 *a*, derde lid, en 8, derde lid, bedoelde vergoeding worden in eerste aanleg bij uitsluiting beslist door de rechtbank te 's-Gravenhage.  
+Geschillen met betrekking tot de in de artikelen 2, derde lid, 6, derde lid, 7 *a*, derde lid, en 8, derde lid, bedoelde vergoeding worden in eerste aanleg bij uitsluiting beslist door de rechtbank Den Haag.  
 
 ### Artikel  15d  
 
@@ -266,6 +284,13 @@ De rechter kan op vordering van de rechthebbende, bedoeld in de artikelen 2, 6, 
 ### Artikel  15f  
 
 De voorzieningenrechter kan op vordering van de rechthebbende, bedoeld in de artikelen 2, 6, 7a en 8, tijdelijke voortzetting van de vermeende inbreuk toestaan onder de voorwaarde dat zekerheid wordt gesteld voor vergoeding van de door de rechthebbende geleden schade. Onder dezelfde voorwaarden kan de rechter voortzetting van de dienstverlening door de tussenpersoon als bedoeld in artikel 15e toestaan.  
+
+### Artikel  15g  
+
+1.  De betaling van de in artikel 9b, eerste lid bedoelde vergoeding geschiedt aan een door Onze Minister van Veiligheid en Justitie, in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen aan te wijzen rechtspersoon. Deze rechtspersoon is met uitsluiting van anderen belast met de inning en verdeling van de vergoeding.   
+2.  Degene die is verplicht tot betaling van de in artikel 9b, eerste lid bedoelde vergoeding verschaft de gerechtigde tot die vergoeding op zijn verzoek alle informatie die noodzakelijk is ter verkrijging van de betaling.   
+3.  Degene die is verplicht tot betaling van de in artikel 9b, eerste lid bedoelde vergoeding, doet, voor zover geen ander tijdstip is overeengekomen, vóór 1 april van ieder kalenderjaar aan de in het eerste lid bedoelde rechtspersoon opgave van de inkomsten die hij met het fonogram heeft verkregen. Hij is voorts gehouden desgevraagd aan deze rechtspersoon onverwijld de bescheiden of andere informatiedragers ter inzage te geven, waarvan kennisneming noodzakelijk is voor de vaststelling van de verschuldigdheid en de hoogte van de vergoeding.   
+4.  Degene die de in het vorige lid bedoelde opgave opzettelijk nalaat dan wel in die opgave opzettelijk een onjuiste of onvolledige mededeling doet, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie. Het feit wordt beschouwd als een overtreding.   
 
 ### Artikel  16  
 

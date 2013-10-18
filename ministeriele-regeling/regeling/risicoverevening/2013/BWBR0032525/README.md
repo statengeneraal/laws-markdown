@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 11 december 2012, Z-3145784, houdende bepalingen omtrent de in de Zorgverzekeringswet bedoelde vereveningsbijdrage voor het jaar 2013 (Regeling risicoverevening 2013)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 32, vierde lid, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en de [artikelen 1, onderdelen i, j, k, x, y en aa](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.1, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.2, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.4, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.5, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.6, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.7, derde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.8](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.10, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.11, vijfde en zesde lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.13](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.14](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.15, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.16, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.17, eerste en tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.19, tweede lid](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), en [3.22, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md);
+Gelet op artikel 32, vierde lid, van de Zorgverzekeringswet en de artikelen 1, onderdelen i, j, k, x, y en aa, 3.1, derde lid, 3.2, eerste en tweede lid, 3.4, derde lid, 3.5, tweede lid, 3.6, derde lid, 3.7, derde lid, 3.8, 3.10, tweede lid, 3.11, vijfde en zesde lid, 3.13, 3.14, 3.15, eerste en tweede lid, 3.16, eerste en tweede lid, 3.17, eerste en tweede lid, 3.19, tweede lid, en 3.22, tweede lid, van het Besluit zorgverzekering;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -31,8 +31,8 @@ h. *eerstelijnsdiagnostiek:* een overig zorgproduct dat betrekking heeft op diag
 
 i. *landelijke vaste kosten factor:* een factor waarmee het College zorgverzekeringen op basis van historische kosten ziekenhuisverpleging per zorgverzekeraar de ex ante deelbedragen berekent voor de kosten van het cluster ‘vaste zorgkosten’ in 2013;  
 
-j. *geriatrische revalidatiezorg:* zorg zoals omschreven in [artikel 2.5 c van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md).     
-2.  Het bedrag, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), is € 400, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.   
+j. *geriatrische revalidatiezorg:* zorg zoals omschreven in artikel 2.5 c van het Besluit zorgverzekering.     
+2.  Het bedrag, bedoeld in artikel 1, onderdeel x, van het Besluit zorgverzekering, is € 550, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.   
 
 ### Artikel  2  
 
@@ -59,7 +59,7 @@ b. het macro-deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voo
 
 ### Artikel  4  
 
-De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in [artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), omvatten voor het jaar 2013, naast de middelen, bedoeld in [§ 1.5 van hoofdstuk 3 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), een bedrag van € 20.379,7 miljoen.  
+De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraars, bedoeld in artikel 32, vierde lid, onderdeel a, van de Zorgverzekeringswet, omvatten voor het jaar 2013, naast de middelen, bedoeld in § 1.5 van hoofdstuk 3 van het Besluit zorgverzekering, een bedrag van € 20.379,7 miljoen.  
 
 ### Hoofdstuk  2  
 
@@ -67,7 +67,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ### Artikel  5  
 
-1.  De klassen en gewichten, bedoeld in de [artikelen 3.4](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [3.6](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en [3.8 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), zijn vermeld in de bijlagen 1 en 2.   
+1.  De klassen en gewichten, bedoeld in de artikelen 3.4, 3.6 en 3.8 van het Besluit zorgverzekering, zijn vermeld in de bijlagen 1 en 2.   
 2.  Het College zorgverzekeringen verdeelt het macro-deelbedrag vaste zorgkosten over zorgverzekeraars aan de hand van de gemiddelde vaste kosten per verzekerde per zorgverzekeraar in het jaar 2011, de landelijke vaste kostenfactor 2013 en de geraamde aantallen verzekerden voor het vereveningsjaar 2013.   
 
 ### Artikel  6  
@@ -78,12 +78,12 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 ### Artikel  7  
 
 1.  De nominale rekenpremie per jaar bedraagt € 1.154 per zorgverzekering waarvoor premie moet worden betaald.   
-2.  Het College zorgverzekeringen raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.   
-3.  Het College zorgverzekeringen raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald, bedoeld in het tweede lid, door het geraamde aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).   
+2.  Het College zorgverzekeringen raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in artikel 3.10, tweede lid, van het Besluit zorgverzekering, door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.   
+3.  Het College zorgverzekeringen raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald, bedoeld in het tweede lid, door het geraamde aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden, bedoeld in artikel 24 van de Zorgverzekeringswet.   
 
 ### Artikel  8  
 
-1.  Het College zorgverzekeringen raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.   
+1.  Het College zorgverzekeringen raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in artikel 3.10, tweede lid, van het Besluit zorgverzekering, door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in artikel 24 van de Zorgverzekeringswet, en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.   
 2.  Het College zorgverzekeringen gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder het criterium ‘Geen FKG’, als onder de criteria ‘DKG 0’ en ‘Geen MHK’ vallen, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, aard van het inkomen, en regio en de in bijlage 4 genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.   
 3.  De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt € 313,51 voor verzekerden van achttien jaar of ouder waarop het tweede lid niet van toepassing is.   
 
@@ -98,8 +98,8 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ### Artikel  10  
 
-1.  Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde berekening van de deelbedragen ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’, gaat het College zorgverzekeringen uit van de verhouding tussen de gewichten, opgenomen in bijlage 1.   
-2.  Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde berekening van het deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, gaat het College zorgverzekeringen voor zover het de herberekening van de kosten van verzekerden van jonger dan achttien jaar betreft uit van de verhouding tussen de gewichten in bijlage 2, tabel 2.1, en gaat het voor zover het de herberekening van de kosten van verzekerden van achttien jaar en ouder betreft uit van de verhouding tussen de gewichten, opgenomen in bijlage 3.   
+1.  Voor de in artikel 3.11, vijfde lid, van het Besluit zorgverzekering bedoelde herberekening van de gewichten ten behoeve van de in artikel 3.12, eerste lid, van het Besluit zorgverzekering bedoelde berekening van de deelbedragen ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’, gaat het College zorgverzekeringen uit van de verhouding tussen de gewichten, opgenomen in bijlage 1.   
+2.  Voor de in artikel 3.11, vijfde lid, van het Besluit zorgverzekering bedoelde herberekening van de gewichten ten behoeve van de in artikel 3.12, eerste lid, van het Besluit zorgverzekering bedoelde berekening van het deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, gaat het College zorgverzekeringen voor zover het de herberekening van de kosten van verzekerden van jonger dan achttien jaar betreft uit van de verhouding tussen de gewichten in bijlage 2, tabel 2.1, en gaat het voor zover het de herberekening van de kosten van verzekerden van achttien jaar en ouder betreft uit van de verhouding tussen de gewichten, opgenomen in bijlage 3.   
 
 ### Artikel  11  
 
@@ -138,9 +138,9 @@ m. leeftijd onder achttien jaar: 2013
 
 ### Artikel  12  
 
-1.  Het College zorgverzekeringen merkt kosten als bedoeld in [artikel 3.13 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat: 
+1.  Het College zorgverzekeringen merkt kosten als bedoeld in artikel 3.13 van het Besluit zorgverzekering voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat: 
 
-a. uit de specificatie blijkt dat zij ofwel gelden als kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden – met uitzondering van de kosten, bedoeld in subonderdeel b –, ofwel als kosten van verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) – met uitzondering van de kosten, bedoeld in subonderdeel b – voor 85 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’ en voor 15 procent aan als kosten van het cluster 'vaste zorgkosten';  
+a. uit de specificatie blijkt dat zij ofwel gelden als kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden – met uitzondering van de kosten, bedoeld in subonderdeel b –, ofwel als kosten van verblijf als bedoeld in artikel 2.10 van het Besluit zorgverzekering – met uitzondering van de kosten, bedoeld in subonderdeel b – voor 85 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’ en voor 15 procent aan als kosten van het cluster 'vaste zorgkosten';  
 
 b. uit de specificatie blijkt dat zij gelden als kosten van geneeskundige zorg die gericht is op herstel van een psychische aandoening en, voor zover die zorg daarmee gepaard gaat, kosten van verblijf, aan als kosten van het cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden jonger dan achttien jaar of kosten van het cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder;  
 
@@ -159,7 +159,7 @@ c. uit de specificatie niet blijkt dat zij gelden als kosten als bedoeld onder a
 3.  Het College zorgverzekeringen merkt de honorariumcomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
 4.  Het College zorgverzekeringen merkt de kosten- en honorariumcomponent van de kosten van overige zorgproducten, uitgezonderd de kosten voor eerstelijnsdiagnostiek en de kosten van de add-ons voor dure en weesgeneesmiddelen niet zijnde add-ons voor groeihormonen, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
 5.  Het College van zorgverzekeringen merkt kosten voor prestaties waarop de beleidsregel ‘Verpleging in de thuissituatie, noodzakelijk in verband met medisch-specialistische zorg’ van de zorgautoriteit van toepassing is, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
-6.  Het College zorgverzekeringen merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
+6.  Het College zorgverzekeringen merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
 7.  Het College zorgverzekeringen merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 75 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.   
 
 ### Artikel  15  
@@ -168,21 +168,22 @@ c. uit de specificatie niet blijkt dat zij gelden als kosten als bedoeld onder a
 2.  Het College van zorgverzekeringen merkt kostencomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 3.  Het College zorgverzekeringen merkt de kostencomponent en de honorariumcomponent van de kosten van expertproducten in het vrije en gereguleerde segment voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 4.  Het College zorgverzekeringen merkt de kosten van de add-ons voor dure en weesgeneesmiddelen, uitgezonderd de kosten van de add-ons voor groeihormonen, voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
-5.  Het College zorgverzekeringen merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.   
+5.  Het College zorgverzekeringen merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de Wet marktordening gezondheidszorg, voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.   
 6.  Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in artikel 14, zesde lid.   
 7.  Het College zorgverzekeringen merkt de kosten van geriatrische revalidatiezorg voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
-8.  Het College zorgverzekeringen merkt voor instellingen voor geriatrische revalidatiezorg de door de zorgautoriteit vastgestelde bedragen ter verrekening van de in 2013 optredende verschillen tussen de omzet in dbc’s enerzijds, en de omzet in zorgzwaartepakketten als bedoeld in de [Regeling zorgaanspraken AWBZ](../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md) en in extramurale producten als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) anderzijds, voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
+8.  Het College zorgverzekeringen merkt voor instellingen voor geriatrische revalidatiezorg de door de zorgautoriteit vastgestelde bedragen ter verrekening van de in 2013 optredende verschillen tussen de omzet in dbc’s enerzijds, en de omzet in zorgzwaartepakketten als bedoeld in de Regeling zorgaanspraken AWBZ en in extramurale producten als bedoeld in de Algemene Wet Bijzondere Ziektekosten anderzijds, voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 9.  Het College zorgverzekeringen merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
 10.  Het College zorgverzekeringen merkt de kosten voor de Stichting Kwaliteitsgelden Medisch Specialisten voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
-11.  Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de kosten van het cluster ‘vaste zorgkosten’, vastgesteld ingevolge het tweede tot en met tiende lid enerzijds, en het herberekende deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid, anderzijds.   
+11.  Het College zorgverzekeringen merkt de kosten voor de Projectgelden geneeskundige GGZ voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.   
+12.  Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de kosten van het cluster ‘vaste zorgkosten’, vastgesteld ingevolge het tweede tot en met tiende lid enerzijds, en het herberekende deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid, anderzijds.   
 
 ### Artikel  16  
 
-Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar enerzijds, en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), anderzijds.  
+Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar enerzijds, en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar, bedoeld in artikel 3.12, derde lid, van het Besluit zorgverzekering, anderzijds.  
 
 ### Artikel  17  
 
-Het College zorgverzekeringen past als volgt hoge kostencompensatie toe op het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md): 
+Het College zorgverzekeringen past als volgt hoge kostencompensatie toe op het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar en ouder, bedoeld in artikel 3.12, derde lid, van het Besluit zorgverzekering: 
 
 a. 90 procent van de kosten van geneeskundige geestelijke gezondheidszorg, voor zover deze kosten het bedrag van € 10.000 per verzekerde op jaarbasis overschrijden, wordt berekend;  
 
@@ -195,17 +196,17 @@ d. ten slotte wordt het herberekende deelbedrag per zorgverzekeraar nogmaals her
 ### Artikel  18  
 
 1.  Het College zorgverzekeringen merkt de kostenHet College van zorgverzekeringen merkt van eerstelijnsdiagnostiek voor 100 procent aan als kosten van het cluster ‘overige prestaties’.   
-2.  Het College zorgverzekeringen merkt de kosten van prestaties waarop de [beleidsregels ‘Innovatie ten behoeve van nieuwe zorgprestaties](../../../../../zbo/regeling/innovatie/ten/behoeve/van/nieuwe/zorgprestaties/BWBR0032229/README.md) ’ of ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen’ van de zorgautoriteit van toepassing zijn, voor 100 procent aan als kosten van het cluster ‘overige prestaties’.   
+2.  Het College zorgverzekeringen merkt de kosten van prestaties waarop de beleidsregels ‘Innovatie ten behoeve van nieuwe zorgprestaties ’ of ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen’ van de zorgautoriteit van toepassing zijn, voor 100 procent aan als kosten van het cluster ‘overige prestaties’.   
 
 ### Artikel  19  
 
-1.  Het bedrag en het percentage bedoeld in [artikel 3.17, eerste lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zijn: € 25,00 en 90 procent.   
-2.  Het bedrag en het percentage bedoeld in [artikel 3.17, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zijn: € 7,50 en 90 procent.   
+1.  Het bedrag en het percentage bedoeld in artikel 3.17, eerste lid, van het Besluit zorgverzekering zijn: € 25,00 en 90 procent.   
+2.  Het bedrag en het percentage bedoeld in artikel 3.17, tweede lid, van het Besluit zorgverzekering zijn: € 7,50 en 90 procent.   
 
 ### Artikel  20  
 
-1.  De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), wordt berekend overeenkomstig artikel 7, met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.   
-2.  De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), wordt berekend overeenkomstig artikel 8, met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.   
+1.  De opbrengst van de nominale rekenpremie, bedoeld in artikel 3.19, tweede lid, van het Besluit zorgverzekering, wordt berekend overeenkomstig artikel 7, met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.   
+2.  De opbrengst van het verplicht eigen risico, bedoeld in artikel 3.19, tweede lid, van het Besluit zorgverzekering, wordt berekend overeenkomstig artikel 8, met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.   
 
 ### Hoofdstuk  4  
 
@@ -213,7 +214,7 @@ d. ten slotte wordt het herberekende deelbedrag per zorgverzekeraar nogmaals her
 
 ### Artikel  21  
 
-Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) bedoelde bedrag per verzekerde bedraagt € 50.  
+Het in artikel 3.22, tweede lid, van het Besluit zorgverzekering bedoelde bedrag per verzekerde bedraagt € 50.  
 
 ### Hoofdstuk  5  
 
@@ -225,7 +226,7 @@ De betaling van de bijdrage geschiedt overeenkomstig door het College zorgverzek
 
 ### Hoofdstuk  6  
 
-####Wijziging van de [Regeling risicoverevening 2012](../../../../../ministeriele-regeling/regeling/risicoverevening/2012/BWBR0030863/README.md)
+####Wijziging van de Regeling risicoverevening 2012
 
 ### Artikel  23  
 
@@ -237,7 +238,7 @@ Wijzigt de Regeling risicoverevening 2012.
 
 ### Artikel  24  
 
-In afwijking van hetgeen daarover in [artikel 3.12, eerste lid, onderdeel b, van de Regeling zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zoals dat met betrekking tot het jaar 2010 gold en van hetgeen daarover in [artikel 3.11, eerste lid, onderdeel b, van de Regeling zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) zoals dat met betrekking tot het jaar 2011 gold, was geregeld, merkt het College zorgverzekeringen kosten van prestaties die overeenstemmen met prestaties waarop de zorgverzekering recht geeft en die de verzekerde buiten Nederland heeft gemaakt aan als kosten van het cluster ‘geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar’ of kosten van het cluster 'geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar of ouder' indien uit de specificatie blijkt dat zij gelden als kosten van geneeskundige zorg die gericht is op herstel van een psychische aandoening en, voor zover die zorg daarmee gepaard gaat, kosten van verblijf.  
+In afwijking van hetgeen daarover in artikel 3.12, eerste lid, onderdeel b, van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2010 gold en van hetgeen daarover in artikel 3.11, eerste lid, onderdeel b, van de Regeling zorgverzekering zoals dat met betrekking tot het jaar 2011 gold, was geregeld, merkt het College zorgverzekeringen kosten van prestaties die overeenstemmen met prestaties waarop de zorgverzekering recht geeft en die de verzekerde buiten Nederland heeft gemaakt aan als kosten van het cluster ‘geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar’ of kosten van het cluster 'geneeskundige geestelijke gezondheidszorg voor verzekerden van achttien jaar of ouder' indien uit de specificatie blijkt dat zij gelden als kosten van geneeskundige zorg die gericht is op herstel van een psychische aandoening en, voor zover die zorg daarmee gepaard gaat, kosten van verblijf.  
 
 ### Artikel  25  
 
@@ -261,7 +262,7 @@ E.I.Schippers.
 De bijlage betreft kosten van zorg behorende tot de clusters ‘variabele kosten van medisch-specialistische zorg’ en ‘overige prestaties’. De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar (art. 5) en vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar (art. 10, eerste lid).  Tabel 1.1: Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) 
 
 |--- |--- | Variabele kosten van medisch-specialistische zorg  | Kosten van overige prestaties  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Mannen  | 0 jaar  | 3.630,87  | 945,77  |
 | --- | 1–4 jaar  | 771,38  | 684,43  |
 | --- | 5–9 jaar  | 619,53  | 770,02  |
@@ -306,7 +307,7 @@ De bijlage betreft kosten van zorg behorende tot de clusters ‘variabele kosten
 Tabel 1.2: Gewichten voor het criterium FKG’s (in euro’s per verzekerde) 
 
 |--- | Variabele kosten van medisch-specialistische zorg  | Kosten van overige prestaties  |
-|:---|:---|:---|
+|---|---|---|
 | FKG’s  | --- | --- |
 | Geen FKG  | –72,75  | –136,16  |
 | Glaucoom  | 106,05  | 193,92  |
@@ -337,7 +338,7 @@ Tabel 1.2: Gewichten voor het criterium FKG’s (in euro’s per verzekerde)
 Tabel 1.3: Gewichten voor het criterium DKG’s (in euro’s per verzekerde) 
 
 |--- | Variabele kosten van medisch-specialistische zorg  | Kosten van overige prestaties  |
-|:---|:---|:---|
+|---|---|---|
 | DKG’s  | --- | --- |
 | 0  | –165,64  | –34,60  |
 | 1  | 249,17  | 149,16  |
@@ -359,7 +360,7 @@ Tabel 1.3: Gewichten voor het criterium DKG’s (in euro’s per verzekerde)
 Tabel 1.4: Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) 
 
 |--- |--- | Variabele kosten van medisch-specialistische zorg  | Kosten van overige prestaties  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | 0–17 jaar  | 0,00  | 0,00  |
 | Arbeidsongeschikten  | 18–34 jaar  | 252,56  | 399,56  |
 | --- | 35–44 jaar  | 299,53  | 390,69  |
@@ -382,7 +383,7 @@ Tabel 1.4: Gewichten voor het criterium aard van het inkomen (in euro’s per ve
 Tabel 1.5: Gewichten voor het criterium regio (in euro’s per verzekerde) 
 
 |--- | Variabele kosten van medisch-specialistische zorg  | Kosten van overige prestaties  |
-|:---|:---|:---|
+|---|---|---|
 | Regio  | --- | --- |
 | 1  | 68,81  | 16,14  |
 | 2  | 31,98  | 5,24  |
@@ -398,7 +399,7 @@ Tabel 1.5: Gewichten voor het criterium regio (in euro’s per verzekerde)
 Tabel 1.6: Gewichten voor het criterium sociaaleconomische status (in euro’s per verzekerde) 
 
 |--- |--- | Variabele kosten van medisch-specialistische zorg  | Kosten van overige prestaties  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | SES > 15 bewoners  | 0–17 jaar  | 11,81  | 15,60  |
 | --- | 18–64 jaar  | 139,96  | –64,67  |
 | --- | 65+ jaar  | –298,54  | 379,52  |
@@ -415,7 +416,7 @@ Tabel 1.6: Gewichten voor het criterium sociaaleconomische status (in euro’s p
 Tabel 1.7: Gewichten voor het criterium meerjarig hoge kosten (in euro’s per verzekerde) 
 
 |--- | Variabele kosten van medisch-specialistische zorg  | Kosten van overige prestaties  |
-|:---|:---|:---|
+|---|---|---|
 | MHK’s  | --- | --- |
 | Geen MHK  | –122,39  | –146,40  |
 | MHK 2 voorafgaande jaren hoge kosten in de top 10 procent  | 1.425,35  | 1.066,82  |
@@ -432,7 +433,7 @@ Tabel 1.7: Gewichten voor het criterium meerjarig hoge kosten (in euro’s per v
 De bijlage betreft de kosten van zorg behorende tot de clusters ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden jonger dan achttien jaar en ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder. De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar en vormen wat betreft tabel 2.1 de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar (art. 10, tweede lid). De gewichten bevatten geen correctie voor hogekostencompensatie.  Tabel 2.1: Gewichten voor het criterium leeftijd onder achttien jaar (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden jonger dan achttien jaar  |
-|:---|:---|
+|---|---|
 | Leeftijd onder achttien jaar  | --- |
 | Wel  | 191,96  |
 | Niet  | 0,00  |
@@ -440,7 +441,7 @@ De bijlage betreft de kosten van zorg behorende tot de clusters ‘geneeskundige
 Tabel 2.2: Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) 
 
 |--- |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|:---|
+|---|---|---|
 | Mannen  | 18–24 jaar  | 314,69  |
 | --- | 25–29 jaar  | 315,94  |
 | --- | 30–34 jaar  | 317,10  |
@@ -475,7 +476,7 @@ Tabel 2.2: Gewichten voor het criterium leeftijd en geslacht (in euro’s per ve
 Tabel 2.3: Gewichten voor het criterium ggz-regio (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | ggz-regio  | --- |
 | 1  | 77,51  |
 | 2  | 11,55  |
@@ -491,7 +492,7 @@ Tabel 2.3: Gewichten voor het criterium ggz-regio (in euro’s per verzekerde)
 Tabel 2.4: Gewichten voor het criterium FKG psychische aandoeningen (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | FKG’s  | --- |
 | Geen FKG psychische aandoeningen  | –39,34  |
 | FKG psychose  | 3.136,39  |
@@ -505,7 +506,7 @@ Tabel 2.4: Gewichten voor het criterium FKG psychische aandoeningen (in euro’s
 Tabel 2.5: Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Arbeidsongeschikten  | 18–34 jaar  | 958,12  |
 | --- | 35–44 jaar  | 353,43  |
 | --- | 45–54 jaar  | 138,95  |
@@ -527,7 +528,7 @@ Tabel 2.5: Gewichten voor het criterium aard van het inkomen (in euro’s per ve
 Tabel 2.6: Gewichten voor het criterium sociaaleconomische status (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | SES > 15 bewoners  | 18–64 jaar  | 1.939,17  |
 | --- | 65+ jaar  | 90,69  |
 | SES 1 (laag)  | 18–64 jaar  | –16,81  |
@@ -540,7 +541,7 @@ Tabel 2.6: Gewichten voor het criterium sociaaleconomische status (in euro’s p
 Tabel 2.7: Gewichten voor het criterium eenpersoonsadres (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Eenpersoonsadres  | --- |
 | Niet  | –21,13  |
 | Wel  | 106,81  |
@@ -548,7 +549,7 @@ Tabel 2.7: Gewichten voor het criterium eenpersoonsadres (in euro’s per verzek
 Tabel 2.8: Gewichten voor het criterium kosten geneeskundige ggz boven de lage drempel (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Kosten geneeskundige ggz boven lage drempel  | --- |
 | Niet  | –39,24  |
 | Wel  | 876,49  |
@@ -556,7 +557,7 @@ Tabel 2.8: Gewichten voor het criterium kosten geneeskundige ggz boven de lage d
 Tabel 2.9: Gewichten voor het criterium kosten geneeskundige ggz boven de hoge drempel (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Kosten geneeskundige ggz boven hoge drempel  | --- |
 | Niet  | –84,53  |
 | Wel  | 5.656,90  |
@@ -568,7 +569,7 @@ Tabel 2.9: Gewichten voor het criterium kosten geneeskundige ggz boven de hoge d
 De bijlage betreft kosten van zorg behorend tot de cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder. De in deze bijlage genoemde gewichten vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar (art. 10, tweede lid). De gewichten bevatten een correctie voor hogekostencompensatie.  Tabel 3.1: Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) 
 
 |--- |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|:---|
+|---|---|---|
 | Mannen  | 18–24 jaar  | 283,73  |
 | --- | 25–29 jaar  | 297,24  |
 | --- | 30–34 jaar  | 303,64  |
@@ -603,7 +604,7 @@ De bijlage betreft kosten van zorg behorend tot de cluster ‘geneeskundige gees
 Tabel 3.2: Gewichten voor het criterium ggz-regio (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | ggz-regio  | --- |
 | 1  | 48,97  |
 | 2  | 16,97  |
@@ -619,7 +620,7 @@ Tabel 3.2: Gewichten voor het criterium ggz-regio (in euro’s per verzekerde)
 Tabel 3.3: Gewichten voor het criterium FKG psychische aandoeningen (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | FKG’s  |
 | Geen FKG psychische aandoeningen  | –35,04  |
 | FKG psychose  | 2.348,78  |
@@ -633,7 +634,7 @@ Tabel 3.3: Gewichten voor het criterium FKG psychische aandoeningen (in euro’s
 Tabel 3.4: Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Arbeidsongeschikten  | 18–34 jaar  | 640,44  |
 | --- | 35–44 jaar  | 389,92  |
 | --- | 45–54 jaar  | 182,80  |
@@ -655,7 +656,7 @@ Tabel 3.4: Gewichten voor het criterium aard van het inkomen (in euro’s per ve
 Tabel 3.5: Gewichten voor het criterium sociaaleconomische status (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | SES > 15 bewoners  | 18–64 jaar  | 674,32  |
 | --- | 65+ jaar  | 30,84  |
 | SES 1 (laag)  | 18–64 jaar  | 1,15  |
@@ -668,7 +669,7 @@ Tabel 3.5: Gewichten voor het criterium sociaaleconomische status (in euro’s p
 Tabel 3.6: Gewichten voor het criterium eenpersoonsadres (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Eenpersoonsadres  |
 | Niet  | –20,12  |
 | Wel  | 101,70  |
@@ -676,7 +677,7 @@ Tabel 3.6: Gewichten voor het criterium eenpersoonsadres (in euro’s per verzek
 Tabel 3.7: Gewichten voor het criterium kosten geneeskundige ggz boven de lage drempel (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Kosten geneeskundige ggz boven lage drempel  |
 | Niet  | Zie artikel 11, zesde lid   |
 | Wel  | 1.158,12  |
@@ -684,7 +685,7 @@ Tabel 3.7: Gewichten voor het criterium kosten geneeskundige ggz boven de lage d
 Tabel 3.8: Gewichten voor het criterium kosten geneeskundige ggz boven de hoge drempel (in euro’s per verzekerde) 
 
 |--- | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder  |
-|:---|:---|
+|---|---|
 | Kosten geneeskundige ggz boven hoge drempel  |
 | Niet  | Zie artikel 11, zesde lid   |
 | Wel  | 4.460,00  |
@@ -696,7 +697,7 @@ Tabel 3.8: Gewichten voor het criterium kosten geneeskundige ggz boven de hoge d
 De bijlage betreft het eigen risico. De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor de zorgverzekeraar geraamde opbrengst van het verplicht eigen risico.  Tabel 4.1: Gewichten voor het criterium leeftijd en geslacht (in euro’s per verzekerde) 
 
 |--- | Eigen betaling ten gevolge van verplicht  eigen risico  |
-|:---|:---|
+|---|---|
 | Mannen  | 18–24 jaar  | 122,94  |
 | --- | 25–29 jaar  | 117,93  |
 | --- | 30–34 jaar  | 122,39  |
@@ -731,7 +732,7 @@ De bijlage betreft het eigen risico. De in deze bijlage genoemde gewichten zijn 
 Tabel 4.2: Gewichten voor het criterium aard van het inkomen (in euro’s per verzekerde) 
 
 |--- | Eigen betaling ten gevolge van verplicht  eigen risico  |
-|:---|:---|
+|---|---|
 | Arbeidsongeschikten  | 18–34 jaar  | 59,80  |
 | --- | 35–44 jaar  | 63,27  |
 | --- | 45–54 jaar  | 54,57  |
@@ -753,7 +754,7 @@ Tabel 4.2: Gewichten voor het criterium aard van het inkomen (in euro’s per ve
 Tabel 4.3: Gewichten voor het criterium regio (in euro’s per verzekerde) 
 
 |--- | Eigen betaling ten gevolge van verplicht  eigen risico  |
-|:---|:---|
+|---|---|
 | Regio  | --- |
 | 1  | 11,49  |
 | 2  | 7,12  |
