@@ -14,7 +14,7 @@ a. Avt: het Adviescollege Verloftoetsing tbs;
 
 b. voorzitter: de voorzitter van het Avt;  
 
-c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in [artikel 2, onderdeel d, onder 5](../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/justitie/2007/BWBR0022607/README.md) en [artikel 37 van de Organisatieregeling Ministerie van Justitie 2007](../../../../../../ministeriele-regeling/organisatieregeling/ministerie/van/justitie/2007/BWBR0022607/README.md);  
+c. DJI: de Dienst Justitiële Inrichtingen, bedoeld in artikel 29 van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011;  
 
 d. Minister: de Minister van Justitie.    
 
@@ -37,9 +37,10 @@ d. Minister: de Minister van Justitie.
 
 – ten minste drie leden vanuit de forensische psychiatrie, niet werkzaam binnen de FPC’s (via GGZ Nederland).     
 3.  De voorzitter deelt het Avt in commissies in, bestaande elk uit drie forensisch psychiaters en/of psychologen, met als voorzitter een van de juristen. De commissies betrekken desgewenst de wetenschappelijk adviseur bij de advisering.   
-4.  De voorzitter en de leden van het Avt worden benoemd door de Minister voor een periode van drie jaar. Herbenoeming is eenmaal mogelijk.   
+4.  De voorzitter en de overige leden van het Avt worden benoemd door de Minister voor een periode van ten hoogste vier jaar. Herbenoeming is eenmaal mogelijk voor een aansluitende periode van ten hoogste vier jaren.   
 5.  Wanneer leden van het Avt vervangen moeten worden, brengt het aan de Minister voordrachten uit voor de benoeming van de nieuwe leden. De Minister benoemt de leden na kennisneming van de voordracht.   
-6.  In het Avt kunnen plaatsvervangende leden worden benoemd voor een periode van drie jaar. Een volgende termijn als plaatsvervangend lid is niet mogelijk. Het vijfde lid is van overeenkomstige toepassing.   
+6.  In het Avt kunnen plaatsvervangende leden worden benoemd voor een periode van vier jaar, ongeacht of zij eerder zijn benoemd en herbenoemd als lid. Herbenoeming kan eenmaal en voor ten hoogste vier jaren aansluitend plaatsvinden. Het vijfde lid is van overeenkomstige toepassing.   
+7.  De periode dat iemand aan het Avt is verbonden is maximaal twaalf jaar.   
 
 ### Artikel  3  
 
@@ -53,7 +54,7 @@ d. Minister: de Minister van Justitie.
 ####Taak
 
 1.  Het Avt heeft tot taak: het inhoudelijk beoordelen van alle verlofaanvragen inzake ter beschikking gestelden of anderszins verpleegden die in inrichtingen waar tbs met verpleging ten uitvoer wordt gelegd verblijven en daarover gemotiveerd advies uitbrengen aan de Minister.   
-2.  De procedurele toetsing van de verlofaanvragen bedoeld in het eerste lid, vindt plaats door DJI volgens de richtlijnen van het Verloftoetsingskader (Staatscourant nr. 123, 29 juni 2007).   
+2.  De procedurele toetsing van de verlofaanvragen bedoeld in het eerste lid, vindt plaats door DJI volgens de richtlijnen van het Verlofregeling TBS (Staatscourant nr. 21597, 31 december 2010).   
 
 ### Artikel  5  
 

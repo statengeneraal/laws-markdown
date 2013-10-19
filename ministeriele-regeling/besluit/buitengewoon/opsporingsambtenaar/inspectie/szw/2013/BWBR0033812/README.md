@@ -3,15 +3,15 @@
 ##Besluit van de Staatssecretaris van Veiligheid en Justitie van 26 augustus 2013, nr. BOACAT2013/057, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Inspectie Sociale Zaken en Werkgelegenheid, directie Major Hazard Control
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelezen het verzoek van de Inspectie Sociale Zaken en Werkgelegenheid, directie Major Hazard Control van 22 augustus 2013 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Den Haag en de hoofdofficier van justitie bij het Functioneel Parket;
+Gelezen het verzoek van de Inspectie Sociale Zaken en Werkgelegenheid van 22 augustus 2013 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Den Haag en de hoofdofficier van justitie bij het Functioneel Parket;
 
 Gelet op:
 
-– [artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
+– artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering;  
 
-– [artikel 36, eerste lid](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);  
+– artikel 36, eerste lid, en artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar;  
 
-– [artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).     Besluit:    
+– artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten.     Besluit:    
 
 ### Artikel  1  
 
@@ -24,8 +24,8 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ### Artikel  3  
 
-1.  De in artikel 2, eerste lid, bedoelde personen zijn bevoegd tot het opsporen van strafbare feiten genoemd in domein V Werk, Inkomen en Zorg, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0029447/README.md).   
-2.  De in artikel 2, tweede lid, bedoelde personen zijn bevoegd tot het opsporen van strafbare feiten genoemd in domein II Milieu, welzijn en infrastructuur, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0029447/README.md).   
+1.  De in artikel 2, eerste lid, bedoelde personen zijn bevoegd tot het opsporen van strafbare feiten genoemd in domein V Werk, Inkomen en Zorg, van bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar.   
+2.  De in artikel 2, tweede lid, bedoelde personen zijn bevoegd tot het opsporen van strafbare feiten genoemd in domein II Milieu, welzijn en infrastructuur, van bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar.   
 3.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 4.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.   
 
@@ -35,13 +35,14 @@ Op grond van dit besluit kunnen maximaal 600 personen als buitengewoon opsporing
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon Opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) van de in artikel 2, eerste lid, bedoelde buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Arrondissementsparket Den Haag.   
-2.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon Opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) van de in artikel 2, tweede lid, bedoelde buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.   
-3.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de Inspecteur-Generaal SZW.   
+1.  Als toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon Opsporingsambtenaar van de in artikel 2, eerste lid, bedoelde buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Arrondissementsparket Den Haag.   
+2.  Als toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon Opsporingsambtenaar van de in artikel 2, tweede lid, bedoelde buitengewoon opsporingsambtenaar is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.   
+3.  Als direct toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon opsporingsambtenaar van de in artikel 2, eerste lid, bedoelde buitengewoon opsporingsambtenaar is aangewezen de korpschef als bedoeld in artikel 27 van de Politiewet.   
+4.  Als direct toezichthouder als bedoeld in artikel 36 van het Besluit buitengewoon opsporingsambtenaar van de in artikel 2, tweede lid, bedoelde buitengewoon opsporingsambtenaar is aangewezen de Inspecteur-Generaal SZW.   
 
 ### Artikel  6  
 
-1.  De Algemeen Directeur van de inspectie SZW brengt jaarlijks, voor 1 april, verslag uit over: 
+1.  De Inspecteur-Generaal van de inspectie SZW brengt jaarlijks, voor 1 april, verslag uit over: 
 
 a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 genoemde functie;  
 
@@ -56,7 +57,7 @@ De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afg
 
 ### Artikel  8  
 
-Het [Besluit buitengewoon opsporingsambtenaar Inspectie SZW](../../../../../../../../ministeriele-regeling/besluit/buitengewoon/opsporingsambtenaar/arbeidsinspectie/2008/BWBR0024384/README.md) van 18 augustus 2008, nr. 5560740/08 zal vervallen op 1 september 2013.  
+Het Besluit buitengewoon opsporingsambtenaar Inspectie SZW van 18 augustus 2008, nr. 5560740/08 zal vervallen op 1 september 2013.  
 
 ### Artikel  9  
 
