@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  IV  
 
-Wijzigt de Regeling zorgverzekering.   
+Wijzigt de Regeling zorgverzekering. 
 
 ### Artikel  V  
 
-Wijzigt de Regeling zorgverzekering.   
+Wijzigt de Regeling zorgverzekering. 
 
 ### Artikel  VI  
 
-[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat luidde op 29 september 2009, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen in 2009.  
+[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat luidde op 29 september 2009, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen in 2009. 
 
 ### Artikel  VII  
 
@@ -28,9 +28,9 @@ b. artikel II, dat terugwerkt tot en met 1 januari 2007
 
 c. artikel III dat terugwerkt tot en met 1 januari 2008.  
 
-d. artikel IV dat terugwerkt tot en met 1 januari 2009.    
+d. artikel IV dat terugwerkt tot en met 1 januari 2009.   
 Deze Regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+Minister van Volksgezondheid, Welzijn en Sport,
+A. Klink     

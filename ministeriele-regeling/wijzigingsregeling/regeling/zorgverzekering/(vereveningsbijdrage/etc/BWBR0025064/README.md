@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling zorgverzekering.   
+Wijzigt de Regeling zorgverzekering. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling zorgverzekering.   
+Wijzigt de Regeling zorgverzekering. 
 
 ### Artikel  III  
 
-[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat luidde op 14 september 2008, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen in 2008.  
+[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat luidde op 14 september 2008, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen in 2008. 
 
 ### Artikel  IV  
 
-Deze Regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 15 september 2008, met uitzondering van artikel I, terugwerkt tot en met 1 januari 2008.  
+Deze Regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 15 september 2008, met uitzondering van artikel I, terugwerkt tot en met 1 januari 2008. 
 Deze Regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     

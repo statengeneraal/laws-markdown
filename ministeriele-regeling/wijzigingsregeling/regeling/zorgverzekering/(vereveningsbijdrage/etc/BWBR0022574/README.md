@@ -8,27 +8,27 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling zorgverzekering.   
+Wijzigt de Regeling zorgverzekering. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling zorgverzekering.   
+Wijzigt de Regeling zorgverzekering. 
 
 ### Artikel  III  
 
-[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat luidde voor de inwerkingtreding van artikel II, onderdelen A en B, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen in 2007.  
+[Hoofdstuk 3 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md), zoals dat luidde voor de inwerkingtreding van artikel II, onderdelen A en B, blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen in 2007. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling zorgverzekering.   
+Wijzigt de Regeling zorgverzekering. 
 
-### Artikel  V  
+### Artikel V  
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 29 september 2007, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 oktober 2007.  
 
-2. Artikel I werkt terug tot en met 1 januari 2007.    
+2. Artikel I werkt terug tot en met 1 januari 2007.   
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink   
+A. Klink     
