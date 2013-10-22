@@ -2,7 +2,7 @@
 
 ##Besluit van de Minister van Infrastructuur en Milieu, nr. IENM/BSK-2011/177402, tot het verlenen van mandaat, volmacht en machtiging aan de directeur van de DCMR Milieudienst Rijnmond ter uitvoering van de ‘Overeenkomst uitvoering VROM-taken door DCMR’ tussen de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer¹ en de DCMR Milieudienst Rijnmond van 26 november 2009, hierna ‘de overeenkomst’ en het addendum op de overeenkomst, hierna het ‘addendum’
 
-¹ Het voormalige Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is per 14 oktober 2010 opgegaan in het nieuwe Ministerie van Infrastructuur en Milieu.  De Minister van Infrastructuur en Milieu,  
+¹ Het voormalige Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is per 14 oktober 2010 opgegaan in het nieuwe Ministerie van Infrastructuur en Milieu.De Minister van Infrastructuur en Milieu,  
 Gezien de schriftelijke instemming van de directeur van de DCMR Milieudienst Rijnmond van 5 december 2011,
 Besluit:    
 
@@ -12,35 +12,35 @@ Aan de directeur van de DCMR Milieudienst Rijnmond wordt mandaat verleend tot:
 
 a. het nemen van besluiten, bedoeld in artikel 1, onder f, en artikel 1, onder h, van het addendum;  
 
-b. het nemen van besluiten op verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), met uitzondering van verzoeken om informatie, die niet of niet geheel worden gehonoreerd of waarvan de inwilliging belangrijke maatschappelijke of politieke gevolgen kan hebben of waarbij de geldende voorschriften ruimte laten voor verschillende uitleg over de vraag of een verzoek om informatie al dan niet behoort te worden ingewilligd.    
+b. het nemen van besluiten op verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), met uitzondering van verzoeken om informatie, die niet of niet geheel worden gehonoreerd of waarvan de inwilliging belangrijke maatschappelijke of politieke gevolgen kan hebben of waarbij de geldende voorschriften ruimte laten voor verschillende uitleg over de vraag of een verzoek om informatie al dan niet behoort te worden ingewilligd.   
 
 ### Artikel  2  
 
-De directeur van de DCMR Milieudienst Rijnmond kan met betrekking tot zijn bevoegdheden, bedoeld in artikel 1, ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.  
+De directeur van de DCMR Milieudienst Rijnmond kan met betrekking tot zijn bevoegdheden, bedoeld in artikel 1, ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen. 
 
 ### Artikel  3  
 
-Indien uitvoering wordt gegeven aan artikel 1 luidt de ondertekening: De Minister van Infrastructuur en Milieu, voor deze: de directeur van de DCMR Milieudienst Rijnmond, (gevolgd door de handtekening en de naam).  
+Indien uitvoering wordt gegeven aan artikel 1 luidt de ondertekening: De Minister van Infrastructuur en Milieu, voor deze: de directeur van de DCMR Milieudienst Rijnmond, (gevolgd door de handtekening en de naam). 
 
 ### Artikel  4  
 
-Indien uitvoering wordt gegeven aan artikel 2 luidt de ondertekening: De Minister van Infrastructuur en Milieu, voor deze: de directeur van de DCMR Milieudienst Rijnmond, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris aan wie ondermandaat is verleend).  
+Indien uitvoering wordt gegeven aan artikel 2 luidt de ondertekening: De Minister van Infrastructuur en Milieu, voor deze: de directeur van de DCMR Milieudienst Rijnmond, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris aan wie ondermandaat is verleend). 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het, tezamen met de overeenkomst met addendum, wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het, tezamen met de overeenkomst met addendum, wordt geplaatst. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: ‘Mandaatbesluit DCMR ter uitvoering van de Overeenkomst uitvoering VROM-taken door DCMR’.  
+Dit besluit wordt aangehaald als: ‘Mandaatbesluit DCMR ter uitvoering van de Overeenkomst uitvoering VROM-taken door DCMR’. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 18 april 2012   
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus  
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus    
 
 ####Overeenkomst uitvoering VROM-taken door DCMR
 
@@ -72,7 +72,7 @@ i) partijen in deze overeenkomst beogen vast te leggen welke VROM-taken door VRO
 
 ####Doel en strekking van de overeenkomst
 
-Partijen stellen zich tot doel om in deze overeenkomst de wederzijdse rechten en verplichtingen vast te leggen, ter zake van de overdracht en uitvoering van de in artikel 2 benoemde VROM-taken aan respectievelijk door de DCMR.  
+Partijen stellen zich tot doel om in deze overeenkomst de wederzijdse rechten en verplichtingen vast te leggen, ter zake van de overdracht en uitvoering van de in artikel 2 benoemde VROM-taken aan respectievelijk door de DCMR. 
 
 ### Artikel  2  
 
@@ -102,7 +102,7 @@ j. het voeren van extern overleg ten behoeve van de hiervoor genoemde taken;
 
 k. het leveren van beleidsadviezen ten behoeve van de hiervoor genoemde taken.    
 
-2. De DCMR voert alle genoemde VROM-taken op een efficiënte, professionele en klantgerichte wijze uit met inzet van deskundig personeel en een adequate archivering binnen de daarvoor vastgestelde wettelijke en beleidsmatige kaders en kaders die door jurisprudentie worden bepaald, en met inachtneming van de onder artikel 8, eerste lid en artikel 16 genoemde nadere eisen.    
+2. De DCMR voert alle genoemde VROM-taken op een efficiënte, professionele en klantgerichte wijze uit met inzet van deskundig personeel en een adequate archivering binnen de daarvoor vastgestelde wettelijke en beleidsmatige kaders en kaders die door jurisprudentie worden bepaald, en met inachtneming van de onder artikel 8, eerste lid en artikel 16 genoemde nadere eisen.   
 
 ### Artikel  3  
 
@@ -116,7 +116,7 @@ k. het leveren van beleidsadviezen ten behoeve van de hiervoor genoemde taken.
 
 4. Indien niet uiterlijk op 31 december 2013 de overeenkomst door een der partijen wordt opgezegd, wordt de overeenkomst telkens met één jaar verlengd, tenzij een der partijen de overeenkomst opzegt met inachtneming van een opzegtermijn van 1 jaar.  
 
-5. De DCMR stelt alle gegevens die hij in het kader van de uitvoering van de overeenkomst onder zich heeft binnen 2 maanden na het einde van de overeenkomst aan VROM ter beschikking.    
+5. De DCMR stelt alle gegevens die hij in het kader van de uitvoering van de overeenkomst onder zich heeft binnen 2 maanden na het einde van de overeenkomst aan VROM ter beschikking.   
 
 ### Artikel  4  
 
@@ -126,13 +126,13 @@ k. het leveren van beleidsadviezen ten behoeve van de hiervoor genoemde taken.
 
 2. Partijen komen de wijze van evaluatie nader overeen.  
 
-3. Partijen maken van deze evaluatie een verslag en komen nader overeen welke partij het verslag maakt.    
+3. Partijen maken van deze evaluatie een verslag en komen nader overeen welke partij het verslag maakt.   
 
 ### Artikel  5  
 
 ####Sociale paragraaf
 
-In geval van niet verlengen van de overeenkomst verplichten partijen zich om de betrokken medewerkers hetzij intern bij de DCMR te herplaatsen, hetzij over te plaatsen naar de organisatie waar de taken worden gecontinueerd.  
+In geval van niet verlengen van de overeenkomst verplichten partijen zich om de betrokken medewerkers hetzij intern bij de DCMR te herplaatsen, hetzij over te plaatsen naar de organisatie waar de taken worden gecontinueerd. 
 
 ### Artikel  6  
 
@@ -160,7 +160,7 @@ d. welke overige kosten bestaan uit stelposten, die jaarlijks in het kader van h
 
 7. VROM zal na acceptatie van deze offerte aan de DCMR een afzonderlijke opdracht geven voor de extra werkzaamheden die met de uitvoering van de [Wabo](../../../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn gemoeid.  
 
-8. De kosten bedoeld in het zesde lid bestaan uit extra in te zetten capaciteit en overige kosten. De extra capaciteit bedraagt maximaal XXX per jaar, waarbij maximaal het tarief van XXX, dus totaal XXX wordt gehanteerd. De overige kosten bestaan uit advieskosten van gemeenten en/of andere adviseurs. Vanaf 2010 zullen deze tarieven jaarlijks geïndexeerd worden op basis van de percentages van de CAO provincies met ingang van de tijdstippen die in de CAO staan vermeld. De DCMR dient aan VROM de CAO provincies tijdig over te leggen, teneinde VROM in staat te stellen na te gaan welk bedrag VROM op welk tijdstip aan de DCMR op basis van dit lid is verschuldigd.    
+8. De kosten bedoeld in het zesde lid bestaan uit extra in te zetten capaciteit en overige kosten. De extra capaciteit bedraagt maximaal XXX per jaar, waarbij maximaal het tarief van XXX, dus totaal XXX wordt gehanteerd. De overige kosten bestaan uit advieskosten van gemeenten en/of andere adviseurs. Vanaf 2010 zullen deze tarieven jaarlijks geïndexeerd worden op basis van de percentages van de CAO provincies met ingang van de tijdstippen die in de CAO staan vermeld. De DCMR dient aan VROM de CAO provincies tijdig over te leggen, teneinde VROM in staat te stellen na te gaan welk bedrag VROM op welk tijdstip aan de DCMR op basis van dit lid is verschuldigd.   
 
 ### Artikel  7  
 
@@ -172,7 +172,7 @@ d. welke overige kosten bestaan uit stelposten, die jaarlijks in het kader van h
 
 3. De DCMR zendt in het kader van de nacalculatie, bedoeld in het eerste lid, de facturen toe aan VROM onder vermelding van datum en nummer van deze overeenkomst, van het btw-bedrag en eventuele andere door VROM verlangde gegevens.  
 
-4. Alle genoemde bedragen zijn exclusief 19% btw.    
+4. Alle genoemde bedragen zijn exclusief 19% btw.   
 
 ### Artikel  8  
 
@@ -188,7 +188,7 @@ b. het handboek interne procedures (vergunningverlening defensie van de directie
 
 3. De DCMR verplicht zich om de dienstverlening zo spoedig mogelijk in zijn bestaande kwaliteitsmanagementsysteem in te passen. VROM en de DCMR zullen de kwaliteitsprestatie-indicatoren, voor zo ver niet reeds vastgelegd, in overleg uiterlijk 1 jaar na de overdracht van de VROM-taken, bedoeld in artikel 2, bepalen en vaststellen.  
 
-4. Mede om een goede overgang van de VROM-taken naar de DCMR te waarborgen, zal tijdelijk een medewerker van VROM als liaison tussen VROM en de DCMR worden ingezet.    
+4. Mede om een goede overgang van de VROM-taken naar de DCMR te waarborgen, zal tijdelijk een medewerker van VROM als liaison tussen VROM en de DCMR worden ingezet.   
 
 ### Artikel  9  
 
@@ -198,7 +198,7 @@ b. het handboek interne procedures (vergunningverlening defensie van de directie
 
 2. VROM verplicht zich om voor zijn rekening het personeel van de DCMR, dat staatsgeheime vergunningen behandelt, te laten screenen door de AIVD. VROM plaatst maximaal drie personen over die in dienst treden van de DCMR te behoeve van de in artikel 2 van deze overeenkomst uit te voeren VROM-taken.  
 
-3. De DCMR draagt er zorg voor dat voldoende capabele medewerkers voor de werkzaamheden, bedoeld in artikel 2 van deze overeenkomst, worden ingezet indien er onverhoopt minder dan drie personen door VROM aan de DCMR mochten worden overgeplaatst.    
+3. De DCMR draagt er zorg voor dat voldoende capabele medewerkers voor de werkzaamheden, bedoeld in artikel 2 van deze overeenkomst, worden ingezet indien er onverhoopt minder dan drie personen door VROM aan de DCMR mochten worden overgeplaatst.   
 
 ### Artikel  10  
 
@@ -218,7 +218,7 @@ b. een totaaloverzicht van de lopende vergunningprocedures met dien verstande da
 
 5. VROM geeft aan de DCMR een inschatting van de werklast voor de in artikel 2, eerste lid vermelde taken, op basis van de ervaringen uit het verleden.  
 
-6. Uiterlijk 1 juli 2010 voert de DCMR de taken zelfstandig uit zonder ondersteuning van VROM.    
+6. Uiterlijk 1 juli 2010 voert de DCMR de taken zelfstandig uit zonder ondersteuning van VROM.   
 
 ### Artikel  11  
 
@@ -236,7 +236,7 @@ c. het uitvoeren van reguliere taken van de organisatie-eenheid.
 
 3. VROM wijst een persoon aan die fungeert als opdrachtcoördinator en tevens als eerste aanspreekpunt voor de DCMR;  
 
-4. De DCMR wijst een persoon aan als eerste aanspreekpunt voor VROM.    
+4. De DCMR wijst een persoon aan als eerste aanspreekpunt voor VROM.   
 
 ### Artikel  12  
 
@@ -252,13 +252,13 @@ a. de uitvoering van het jaarplan, met een beleidsmatige, inhoudelijke en uitvoe
 
 b. een accountantsverklaring met betrekking tot de in rekening gebrachte kosten.    
 
-4. De kosten van de accountantsverklaring, bedoeld onder het derde lid, sub b, van dit artikel worden door VROM aan de DCMR vergoed.    
+4. De kosten van de accountantsverklaring, bedoeld onder het derde lid, sub b, van dit artikel worden door VROM aan de DCMR vergoed.   
 
 ### Artikel  13  
 
 ####Bevoegdheid tot het nemen van besluiten
 
-De bevoegdheid tot het nemen van besluiten in de zin van [artikel 1:3, lid 1 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft berusten bij de minister van VROM.  
+De bevoegdheid tot het nemen van besluiten in de zin van [artikel 1:3, lid 1 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft berusten bij de minister van VROM. 
 
 ### Artikel  14  
 
@@ -284,7 +284,7 @@ h. signalen uit de uitvoeringspraktijk die directe relevantie hebben voor lopend
 
 i. verzoeken om inlichtingen van leden van de Eerste of Tweede Kamer, Gedeputeerde Staten, Provinciale Staten, college van B&W of gemeenteraden en  
 
-j. onderzoeken van de nationale ombudsman.    
+j. onderzoeken van de nationale ombudsman.   
 
 ### Artikel  15  
 
@@ -300,7 +300,7 @@ De DCMR draagt er zorg voor dat er een goede wederzijdse communicatie tot stand 
 
 – het informeren van de VI aan de DCMR over handhavingsbevindingen,  
 
-– de eventuele wenselijkheid van aanpassingen van vergunningen.   VROM, in het bijzonder de directie Risicobeleid, is de opdrachtgever richting de VROM-Inspectie waar het gaat om het uitvoeren van toezichts- en handhavingswerkzaamheden en eventuele rapportages daarover.  
+– de eventuele wenselijkheid van aanpassingen van vergunningen.   VROM, in het bijzonder de directie Risicobeleid, is de opdrachtgever richting de VROM-Inspectie waar het gaat om het uitvoeren van toezichts- en handhavingswerkzaamheden en eventuele rapportages daarover. 
 
 ### Artikel  16  
 
@@ -312,7 +312,7 @@ a. het [Besluit voorschrift Informatiebeveiliging Rijksdienst 1994](../../../../
 
 b. het [Besluit voorschrift Informatiebeveiliging Rijksdienst Bijzondere informatie](../../../../../../../../../../../ministeriele-regeling/besluit/voorschrift/informatiebeveiliging/rijksdienst/–/bijzondere/etc/BWBR0016435/README.md) (VIR-BI).    
 
-2. De DCMR heeft uitsluitend het recht om af te wijken van de werkprocessen, bedoeld in het eerste lid, in goed overleg met VROM en na uitdrukkelijke schriftelijke toestemming van VROM.    
+2. De DCMR heeft uitsluitend het recht om af te wijken van de werkprocessen, bedoeld in het eerste lid, in goed overleg met VROM en na uitdrukkelijke schriftelijke toestemming van VROM.   
 
 ### Artikel  17  
 
@@ -322,7 +322,7 @@ b. het [Besluit voorschrift Informatiebeveiliging Rijksdienst Bijzondere informa
 
 2. Partijen treden binnen 1 maand in overleg nadat de ene partij de wens daartoe aan de andere partij schriftelijk heeft medegedeeld,  
 
-3. De wijzigingen worden schriftelijk vastgelegd en door de ondertekenaars van deze overeenkomst ondertekend en als addendum aan deze overeenkomst toegevoegd.    
+3. De wijzigingen worden schriftelijk vastgelegd en door de ondertekenaars van deze overeenkomst ondertekend en als addendum aan deze overeenkomst toegevoegd.   
 
 ### Artikel  18  
 
@@ -334,7 +334,7 @@ b. het [Besluit voorschrift Informatiebeveiliging Rijksdienst Bijzondere informa
 
 3. In het geval de uitkomst van het overleg, bedoeld in het derde lid, is dat enige bepaling van deze overeenkomst ongeldig en/of onuitvoerbaar mocht worden geoordeeld, dan tast dit de geldigheid en uitvoerbaarheid van de overige bepalingen van de overeenkomst niet aan en zullen partijen de ongeldige respectievelijk onuitvoerbare bepaling vervangen door een geldige en/of uitvoerbare bepaling waarvan de aard en strekking zoveel mogelijk aansluiten bij de ongeldige en/of onuitvoerbare bepaling.  
 
-4. Indien binnen 60 dagen na de mededeling, bedoeld in het eerste lid, geen overeenstemming tussen partijen is bereikt, is er sprake van een geschil.    
+4. Indien binnen 60 dagen na de mededeling, bedoeld in het eerste lid, geen overeenstemming tussen partijen is bereikt, is er sprake van een geschil.   
 
 ### Artikel  19  
 
@@ -344,7 +344,7 @@ b. het [Besluit voorschrift Informatiebeveiliging Rijksdienst Bijzondere informa
 
 2. De primaire aansprakelijkheid van de door VROM op basis van adviezen van de DCMR genomen besluiten berust bij VROM. VROM vrijwaart de DCMR jegens aansprakelijkstellingen door derden.  
 
-3. De door VROM geleden schade wegens het niet, of niet behoorlijk nakomen door de DCMR van zijn uit deze overeenkomst voortvloeiende verplichtingen, zal door de DCMR worden vergoed tot ten hoogste XXX behalve in geval van grove schuld en/of opzet van de zijde van de DCMR.    
+3. De door VROM geleden schade wegens het niet, of niet behoorlijk nakomen door de DCMR van zijn uit deze overeenkomst voortvloeiende verplichtingen, zal door de DCMR worden vergoed tot ten hoogste XXX behalve in geval van grove schuld en/of opzet van de zijde van de DCMR.   
 
 ### Artikel  20  
 
@@ -352,13 +352,13 @@ b. het [Besluit voorschrift Informatiebeveiliging Rijksdienst Bijzondere informa
 
 1. Kennisgevingen van partijen op grond van deze overeenkomst worden schriftelijk gedaan.  
 
-2. Mondelinge mededelingen, toezeggingen of afspraken hebben geen rechtskracht, tenzij deze schriftelijk zijn bevestigd.    
+2. Mondelinge mededelingen, toezeggingen of afspraken hebben geen rechtskracht, tenzij deze schriftelijk zijn bevestigd.   
 
 ### Artikel  21  
 
 ####Geschillen
 
-Alle geschillen in verband met deze overeenkomst of met afspraken die daarmee samenhangen die niet in onderling overleg kunnen worden opgelost, zullen ter beslechting worden voorgelegd aan de bevoegde rechter.  
+Alle geschillen in verband met deze overeenkomst of met afspraken die daarmee samenhangen die niet in onderling overleg kunnen worden opgelost, zullen ter beslechting worden voorgelegd aan de bevoegde rechter. 
 
 ### Artikel  22  
 
@@ -375,7 +375,7 @@ Alle geschillen in verband met deze overeenkomst of met afspraken die daarmee sa
 | Bijlage 2b  | Het handboek interne procedures (vergunningverlening defensie van de directie Risicobeleid)  |
 | Bijlage 3  | Bijlage bij artikel 2  |
 
-Aldus overeengekomen en in tweevoud opgemaakt te Schiedam op 26 november 2009 Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de directeur-generaal Milieubeheer, B. Ter Haar. De directeur DCMR Milieudienst Rijnmond, J.H. van den Heuvel.  
+Aldus overeengekomen en in tweevoud opgemaakt te Schiedam op 26 november 2009 Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de directeur-generaal Milieubeheer, B. Ter Haar. De directeur DCMR Milieudienst Rijnmond, J.H. van den Heuvel. 
 
 ####Addendum op Overeenkomst uitvoering VROM-taken door DCMR
 
@@ -385,7 +385,7 @@ Aldus overeengekomen en in tweevoud opgemaakt te Schiedam op 26 november 2009 Mi
 
 2. De DCMR Milieudienst Rijnmond, gevestigd te Schiedam, vertegenwoordigd door mr. J. H. van den Heuvel, directeur, hierna te noemen ‘DCMR’.   Ondergetekenden, hierna gezamenlijk ook te noemen: Partijen, Overwegende dat: 
 
-* Partijen de ‘Overeenkomst uitvoering VROM-taken door DCMR’ van 26 november 2009 tussen het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en DCMR, hierna de overeenkomst, wensen te wijzigen; <sup> 1  Het voormalige Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is per 14 oktober 2010 opgegaan in het nieuwe Ministerie van Infrastructuur en Milieu.  </sup>  
+* Partijen de ‘Overeenkomst uitvoering VROM-taken door DCMR’ van 26 november 2009 tussen het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer<sup> 1  Het voormalige Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is per 14 oktober 2010 opgegaan in het nieuwe Ministerie van Infrastructuur en Milieu. </sup> en DCMR, hierna de overeenkomst, wensen te wijzigen;  
 
 * Partijen beogen de wijzigingen, overeenkomstig artikel 17, derde lid, van de overeenkomst, in dit addendum vast te leggen   komen het volgende overeen: 
 
@@ -411,7 +411,7 @@ i. Er wordt een nieuw lid m toegevoegd aan artikel 2, eerste lid, dat komt te lu
 
 ### Artikel  2  
 
-Er wordt een nieuw lid 1a toegevoegd aan artikel 7 dat komt te luiden als volgt: Het eerste lid is niet van toepassing op de facturering van advieskosten van gemeenten en/of andere adviseurs. De DCMR factureert de advieskosten van gemeenten en/of andere adviseurs, bedoeld in artikel 6 lid 8, per kwartaal achteraf bij IenM op basis van werkelijk door de DCMR betaalde vergoedingen. Hiertoe dient de DCMR een factuur in bij IenM. De DCMR zal deze factuur specificeren in een door IenM nader aangegeven vorm.  
+Er wordt een nieuw lid 1a toegevoegd aan artikel 7 dat komt te luiden als volgt: Het eerste lid is niet van toepassing op de facturering van advieskosten van gemeenten en/of andere adviseurs. De DCMR factureert de advieskosten van gemeenten en/of andere adviseurs, bedoeld in artikel 6 lid 8, per kwartaal achteraf bij IenM op basis van werkelijk door de DCMR betaalde vergoedingen. Hiertoe dient de DCMR een factuur in bij IenM. De DCMR zal deze factuur specificeren in een door IenM nader aangegeven vorm. 
 
 ### Artikel  3  
 
@@ -430,7 +430,7 @@ c. waarbij de geldende voorschriften ruimte laten voor verschillende uitleg over
 
 3. IenM voert alle beroepsprocedures die voortvloeien uit de besluiten bedoeld in de overeenkomst en het Addendum.  
 
-4. In alle beroepsprocedures die IenM voert, wordt IenM ondersteund door de DCMR.    
+4. In alle beroepsprocedures die IenM voert, wordt IenM ondersteund door de DCMR.   
 
 ### Artikel  4  
 
@@ -441,15 +441,15 @@ Aan de overeenkomst wordt toegevoegd een nieuw artikel 13a, dat komt te luiden a
 
 2. IenM zorgt ervoor dat de DCMR zo spoedig mogelijk kan beschikken over het (hoger) beroepschrift of het verzoek om een voorlopige voorziening. IenM zorgt verder voor het binnen de wettelijke termijn opstellen van de benodigde schriftelijke stukken en verwerkt de bijdrage van de DCMR daarin.  
 
-3. Partijen verrichten de in het eerste en tweede lid bedoelde werkzaamheden met de zorgvuldigheid van een redelijk handelend en bekwaam bestuursorgaan. Partijen waarborgen daarbij de kwaliteit van de te leveren werkzaamheden.    
+3. Partijen verrichten de in het eerste en tweede lid bedoelde werkzaamheden met de zorgvuldigheid van een redelijk handelend en bekwaam bestuursorgaan. Partijen waarborgen daarbij de kwaliteit van de te leveren werkzaamheden.   
 
 ### Artikel  5  
 
-Artikel 14, aanhef, en onder f, van de overeenkomst, komt te luiden als volgt: informatieverzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+Artikel 14, aanhef, en onder f, van de overeenkomst, komt te luiden als volgt: informatieverzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md); 
 
 ### Artikel  6  
 
-Artikel 18, derde lid, van de overeenkomst, komt te luiden als volgt: In geval de uitkomst van het overleg, bedoeld in het tweede lid, is dat enige bepaling van deze overeenkomst ongeldig en/of onuitvoerbaar mocht worden geoordeeld, dan tast dit de geldigheid en uitvoerbaarheid van de overige bepalingen van de overeenkomst niet aan en zullen partijen de ongeldige respectievelijk onuitvoerbare bepaling vervangen door een geldige en/of uitvoerbare bepaling waarvan de aard en strekking zoveel mogelijk aansluiten bij de ongeldige en/of onuitvoerbare bepaling.  
+Artikel 18, derde lid, van de overeenkomst, komt te luiden als volgt: In geval de uitkomst van het overleg, bedoeld in het tweede lid, is dat enige bepaling van deze overeenkomst ongeldig en/of onuitvoerbaar mocht worden geoordeeld, dan tast dit de geldigheid en uitvoerbaarheid van de overige bepalingen van de overeenkomst niet aan en zullen partijen de ongeldige respectievelijk onuitvoerbare bepaling vervangen door een geldige en/of uitvoerbare bepaling waarvan de aard en strekking zoveel mogelijk aansluiten bij de ongeldige en/of onuitvoerbare bepaling. 
 
 ### Artikel  7  
 
@@ -461,10 +461,10 @@ Artikel 19 van de overeenkomst komt te luiden als volgt:
 
 3. Indien de DCMR buiten de grenzen van het mandaat een besluit heeft genomen, is, in afwijking van het tweede lid, IenM niet aansprakelijk voor de schade die derden lijden door het onbevoegd genomen besluit en dient de DCMR IenM te vrijwaren tegen eventuele aanspraken van derden op vergoeding van schade.  
 
-4. De door IenM geleden schade wegens het niet, of niet behoorlijk nakomen door de DCMR van zijn uit deze overeenkomst voortvloeiende verplichtingen, zal door de DCMR worden vergoed tot ten hoogste 100.000,– euro behalve in het geval van grove schuld en/of opzet van de zijde van de DCMR.    
+4. De door IenM geleden schade wegens het niet, of niet behoorlijk nakomen door de DCMR van zijn uit deze overeenkomst voortvloeiende verplichtingen, zal door de DCMR worden vergoed tot ten hoogste 100.000,– euro behalve in het geval van grove schuld en/of opzet van de zijde van de DCMR.   
 
 ### Artikel  8  
 
-Waar in de overeenkomst VROM staat, moet, indien van toepassing, Infrastructuur en Milieu (IenM) worden gelezen.  
+Waar in de overeenkomst VROM staat, moet, indien van toepassing, Infrastructuur en Milieu (IenM) worden gelezen. 
 Aldus overeengekomen en in tweevoud opgemaakt op 22 december 2011. Minister van Infrastructuur en Milieu, voor deze: de directeur-generaal Milieu, B. Ter Haar. De directeur DCMR Milieudienst Rijnmond, J.H. van den Heuvel.  
 
