@@ -12,7 +12,7 @@ Voor het uitoefenen van het kiesrecht kan tevens aan de identificatieplicht op g
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2014.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2019, tenzij het bij koninklijke boodschap van 13 oktober 2012 ingediende voorstel van rijkswet tot wijziging van de Paspoortwet in verband met een andere status van de Nederlandse identiteitskaart, het verlengen van de geldigheidsduur van reisdocumenten en Nederlandse identiteitskaarten, een andere grondslag voor de heffing van rechten door burgemeesters en gezaghebbers en het niet langer opslaan van vingerafdrukken in de reisdocumentenadministratie (Kamerstukken 33 440 (R 1990)) tot rijkswet is of wordt verheven en voor of op die datum in werking treedt, in welk geval deze regeling vervalt met ingang van de dag nadat tien jaren zijn verstreken na de datum van inwerkingtreding van die rijkswet.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
