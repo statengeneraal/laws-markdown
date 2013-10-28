@@ -6,19 +6,22 @@ De Staatssecretaris van Justitie,
 Overwegende, dat het indexcijfer der lonen, vastgesteld krachtens artikel 402a, derde lid, van Boek 1 van het Burgerlijk Wetboek, per 30 september 1995 afwijkt van het overeenkomstige indexcijfer per 30 september 1994;
 
 Gelet op artikel 402a van Boek 1 van het Burgerlijk Wetboek;
-Besluit:    
+Besluit:     
 
-### Artikel  1  
+###Artikel  1  
+Materieel uitgewerkt per 01-01-1998 
 
 Het percentage, bedoeld in artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek, waarmede bedragen voor levensonderhoud met ingang van 1 januari 1996 worden verhoogd, wordt vastgesteld op 1.1.  
 
-### Artikel  2  
+###Artikel  2  
+Materieel uitgewerkt per 01-01-1998 
 
-Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant.  
+Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant. 
 
-### Artikel  3  
+###Artikel  3  
+Materieel uitgewerkt per 01-01-1998 
 
-Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage levensonderhoud 1996.  
+Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage levensonderhoud 1996. 
 
 ’s-Gravenhage 
 2 november 1995    
@@ -26,4 +29,4 @@ Deze beschikking kan worden aangehaald als: Beschikking wijzigingpercentage leve
 De 
 Staatssecretaris voornoemd, 
 
-E.M.A. Schmitz      
+E.M.A. Schmitz     

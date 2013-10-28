@@ -11,7 +11,7 @@ Besluit:
 ####Vaststelling kwalificaties en op eindtermen gerichte beroepsopleidingen
 
 1.  De kwalificaties uit de kwalificatiedossiers, bedoeld in [artikel 7.2.4, tweede lid, onder a, van de Wet educatie en beroepsonderwijs](../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), die zijn opgenomen in de bijlage, worden bij deze regeling vastgesteld.   
-2.  De op eindtermen gerichte beroepsopleidingen, bedoeld in [artikel 11.6b](../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) juncto [artikel 7.2.4 van de Wet educatie en beroepsonderwijs BES](../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), die zijn opgenomen in de bijlage, worden bij deze regeling vastgesteld.   
+2.  De op eindtermen gerichte beroepsopleidingen, bedoeld in [artikel 11.6b](../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) juncto [artikel 7.2.4 van de Wet educatie en beroepsonderwijs BES](../../../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md), die zijn opgenomen in de bijlage, worden bij deze regeling vastgesteld.  
 
 ### Artikel  2  
 
@@ -33,28 +33,28 @@ f. Economie en administratie;
 
 g. Horeca en bakkerij;  
 
-h. Zorg en welzijn.    
+h. Zorg en welzijn.   
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling vaststelling kwalificaties en opleidingsdomeinen BES.  
+Deze regeling wordt aangehaald als: Regeling vaststelling kwalificaties en opleidingsdomeinen BES. 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-S.Dekker  
+Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+S. Dekker    
 
-### Bijlage  
+### Bijlage 
 
-####behorende bij artikel 1 
+#### behorende bij artikel 1 
 
 | Naam opleiding/ kwalificatie  | Niveau  | Crebocode  | Opleidingsdomein  |
 |:---|:---|:---|:---|

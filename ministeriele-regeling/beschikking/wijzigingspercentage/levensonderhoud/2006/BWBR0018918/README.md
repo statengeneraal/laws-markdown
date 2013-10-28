@@ -7,12 +7,14 @@ Gelet op [artikel 402a van Boek 1 van het Burgerlijk Wetboek](../../../../../../
 Besluit :    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-01-2008 
 
-Het percentage, bedoeld in [artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), waarmede bedragen voor levensonderhoud met ingang van 1 januari 2006 worden verhoogd, wordt vastgesteld op 0.9.  
+Het percentage, bedoeld in [artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), waarmede bedragen voor levensonderhoud met ingang van 1 januari 2006 worden verhoogd, wordt vastgesteld op 0.9. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-01-2008 
 
-Deze beschikking wordt aangehaald als: Beschikking wijzigingspercentage levensonderhoud 2006.  
+Deze beschikking wordt aangehaald als: Beschikking wijzigingspercentage levensonderhoud 2006. 
 Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -20,4 +22,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-J.P.H.Donner   
+J.P.H. Donner     

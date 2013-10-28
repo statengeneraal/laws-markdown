@@ -7,17 +7,19 @@ Gelet op [artikel 402a van Boek 1 van het Burgerlijk Wetboek](../../../../../../
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-12-2013 
 
-Het percentage, bedoeld in [artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), waarmede bedragen voor levensonderhoud met ingang van 1 januari 2012 worden verhoogd, wordt vastgesteld op 1,3.  
+Het percentage, bedoeld in [artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), waarmede bedragen voor levensonderhoud met ingang van 1 januari 2012 worden verhoogd, wordt vastgesteld op 1,3. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-12-2013 
 
-Deze beschikking wordt aangehaald als: Beschikking wijzigingspercentage levensonderhoud 2012.  
+Deze beschikking wordt aangehaald als: Beschikking wijzigingspercentage levensonderhoud 2012. 
 Deze beschikking zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 21 oktober 2011   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,
-F.Teeven   
+Staatssecretaris van Veiligheid en Justitie, 
+F. Teeven     
