@@ -15,20 +15,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geldt ten aanzien van: 
+1.  Dit besluit geldt ten aanzien van:  
 
 a. gegevens, hulpmiddelen en materialen voor: 
 
-1°. de vrijmaking van kernenergie,  
+1°.de vrijmaking van kernenergie,
 
-2°. de opslag, vervaardiging, bewerking of verwerking van splijtstoffen en  
+2°.de opslag, vervaardiging, bewerking of verwerking van splijtstoffen en
 
-3°. de beveiliging van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) bedoelde splijtstoffen en ertsen, de in [artikel 20ca van het Besluit stralingsbescherming](../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bedoelde radioactieve stoffen en inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md),   zover deze gegevens, hulpmiddelen en materialen hetzij rechtstreeks van Onze in het tweede lid genoemde Ministers, hetzij met instemming van deze Ministers, onder verplichting tot geheimhouding zijn verkregen, dan wel door Onze in het tweede lid genoemde Ministers zijn aangewezen;  
+3°.de beveiliging van de in [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) bedoelde splijtstoffen en ertsen, de in [artikel 20ca van het Besluit stralingsbescherming](../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md) bedoelde radioactieve stoffen en inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../../wet/kernenergiewet/BWBR0002402/README.md),zover deze gegevens, hulpmiddelen en materialen hetzij rechtstreeks van Onze in het tweede lid genoemde Ministers, hetzij met instemming van deze Ministers, onder verplichting tot geheimhouding zijn verkregen, dan wel door Onze in het tweede lid genoemde Ministers zijn aangewezen; 
 
 b. met behulp van zodanige gegevens, hulpmiddelen en materialen verrichte onderzoekingen en toegepaste werkmethoden, voor zover deze onderzoekingen en werkmethoden door Onze in het tweede lid genoemde Ministers zijn aangewezen.     
-2.  Onze in het eerste lid bedoelde Ministers zijn: 
+2.   Onze in het eerste lid bedoelde Ministers zijn:  
 
-a. in alle gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft buiten het terrein van de landsverdediging: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+a. in alle gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft buiten het terrein van de landsverdediging: Onze Minister van Economische Zaken;  
 
 b. in gevallen, waarin de geheimhouding is vereist in het belang van de landsverdediging: Onze Minister van Defensie;  
 
@@ -36,22 +36,22 @@ c. in gevallen, waarin de geheimhouding is vereist in het belang van de internat
 
 d. in gevallen, waarin de geheimhouding is vereist in het belang van de veiligheid van de staat en het een civiele aangelegenheid betreft: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
-e. in gevallen, waarin de geheimhouding is vereist in het belang van of het opleggen van de verplichting tot geheimhouding gevolgen heeft voor de ontwikkeling en de toepassing van technieken of methoden, welke betrekking hebben op of van belang zijn voor het verkeer, het vervoer, de waterstaat, de meteorologie, dan de oceanografie of een ander gebied van de geofysica: Onze Minister van Verkeer en Waterstaat;  
+e. in gevallen, waarin de geheimhouding is vereist in het belang van of het opleggen van de verplichting tot geheimhouding gevolgen heeft voor de ontwikkeling en de toepassing van technieken of methoden, welke betrekking hebben op of van belang zijn voor het verkeer, het vervoer, de waterstaat, de meteorologie, dan de oceanografie of een ander gebied van de geofysica: Onze Minister van Infrastructuur en Milieu;  
 
-f. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze niet ressorteren onder Onze Minister van Landbouw, Natuur en Voedselkwaliteit: Onze Minister van Onderwijs, Cultuur en Wetenschap;  
+f. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze niet ressorteren onder Onze Minister van Economische Zaken: Onze Minister van Onderwijs, Cultuur en Wetenschap;  
 
-g. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze ressorteren onder Onze Minister van Landbouw, Natuur en Voedselkwaliteit: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+g. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het onderzoek bij instellingen van wetenschap, voor zover deze ressorteren onder Onze Minister van Economische Zaken: Onze Minister van Economische Zaken;  
 
-h. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het toezicht op de naleving van wettelijke voorschriften ter bescherming van mensen, dieren, planten of goederen: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport;  
+h. in gevallen, waarin het opleggen van de verplichting tot geheimhouding gevolgen heeft voor het toezicht op de naleving van wettelijke voorschriften ter bescherming van mensen, dieren, planten of goederen: Onze Ministers van Economische Zaken, van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport;  
 
-i. in gevallen, waarin de geheimhouding is vereist in het belang van, of het opleggen van de verplichting tot geheimhouding gevolgen heeft voor de ontwikkeling en de toepassing van technieken of methoden, welke betrekking hebben op of van belang zijn voor de telecommunicatie: Onze Minister van Economische Zaken.     
-3.  Een verplichting tot geheimhouding als in het eerste lid, onder *a*, bedoeld kan slechts worden opgelegd en gegevens, hulpmiddelen, materialen, onderzoekingen en werkmethoden kunnen slechts ingevolge het eerste lid, onder *a* of *b*, worden aangewezen, indien dit in het belang van de staat wordt geboden.   
-4.  Indien een aanwijzing op grond van het eerste lid, onder *a* of *b*, niet uitdrukkelijk tot een of meer bepaalde personen is gericht, wordt zij in de *Staatscourant* bekend gemaakt.   
+i.in gevallen, waarin de geheimhouding is vereist in het belang van, of het opleggen van de verplichting tot geheimhouding gevolgen heeft voor de ontwikkeling en de toepassing van technieken of methoden, welke betrekking hebben op of van belang zijn voor de telecommunicatie: Onze Minister van Economische Zaken.   
+3.   Een verplichting tot geheimhouding als in het eerste lid, onder *a*, bedoeld kan slechts worden opgelegd en gegevens, hulpmiddelen, materialen, onderzoekingen en werkmethoden kunnen slechts ingevolge het eerste lid, onder *a* of *b*, worden aangewezen, indien dit in het belang van de staat wordt geboden.   
+4.   Indien een aanwijzing op grond van het eerste lid, onder *a* of *b*, niet uitdrukkelijk tot een of meer bepaalde personen is gericht, wordt zij in de *Staatscourant* bekend gemaakt.  
 
 ### Artikel  2  
 
 1.  Degene, die beschikt over gegevens, hulpmiddelen of materialen, dan wel onderzoekingen verricht of werkmethoden toepast, ten aanzien waarvan dit besluit geldt, is verplicht ervoor zorg te dragen, dat de maatregelen worden getroffen, welke redelijkerwijs nodig zijn om ten aanzien van de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden de geheimhouding te verzekeren.   
-2.  Deze maatregelen houden onder meer in, dat: 
+2.   Deze maatregelen houden onder meer in, dat:  
 
 a. terreinen, gebouwen en ruimten, waar de betrokken gegevens, hulpmiddelen of materialen worden bewaard of gebruikt of waar de betrokken onderzoekingen worden verricht of de betrokken werkmethoden worden toegepast, op doelmatige wijze worden beveiligd;  
 
@@ -60,19 +60,19 @@ b. werkzaamheden, waarbij gebruik wordt gemaakt van de betrokken gegevens, hulpm
 c. van de gegevens, behorende tot of ontleend aan de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden alleen kennis wordt genomen door personen, die rechtstreeks bij werkzaamheden als onder *b* bedoeld zijn betrokken en slechts in die mate als voor een goede uitvoering van die werkzaamheden nodig is;  
 
 d. voor zover Onze Ministers dit verlangen, ten aanzien van de betrokken hulpmiddelen of materialen en ten aanzien van de gegevens, behorende tot of ontleend aan de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden, een administratie wordt gevoerd, waaruit te allen tijde blijkt, op welk tijdstip en aan wie bepaalde gegevens, hulpmiddelen of materialen zijn verstrekt en gedurende welk tijdsverloop een bepaald persoon die gegevens, hulpmiddelen of materialen onder zich heeft gehad.     
-3.  Voorts dient degene, die beschikt over gegevens, hulpmiddelen of materialen, dan wel onderzoekingen verricht of werkmethoden toepast, ten aanzien waarvan dit besluit geldt, ervoor zorg te dragen, dat: 
+3.   Voorts dient degene, die beschikt over gegevens, hulpmiddelen of materialen, dan wel onderzoekingen verricht of werkmethoden toepast, ten aanzien waarvan dit besluit geldt, ervoor zorg te dragen, dat:  
 
 a. aan Onze Ministers door hen aangegeven inlichtingen worden verstrekt betreffende de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden;  
 
 b. Onze Ministers en, ingeval deze volgens het vierde lid niet daartoe behoort, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld worden ingelicht, indien ernstige inbreuken op de naleving van de ter verzekering van de geheimhouding getroffen maatregelen, dan wel spionage worden vermoed of ontdekt;  
 
 c. een aan de betrokken onderneming of instelling verbonden functionaris wordt aangewezen, speciaal belast met het treffen van maatregelen ter verzekering van de geheimhouding en met het toezicht op de naleving daarvan.     
-4.  In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van artikel 1, eerste lid, onder a of b, hebben aangewezen.   
+4.   In het tweede en derde lid wordt onder Onze Ministers verstaan Onze Ministers, van wie of met wier instemming de betrokken gegevens, hulpmiddelen of materialen onder verplichting tot geheimhouding zijn verkregen, dan wel Onze Ministers, die de betrokken gegevens, hulpmiddelen, materialen, onderzoekingen of werkmethoden op grond van artikel 1, eerste lid, onder a of b, hebben aangewezen.  
 
 ### Artikel  3  
 
 1.  Dit besluit kan worden aangehaald als: Geheimhoudingsbesluit Kernenergiewet.   
-2.  Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.   
+2.   Het treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.  
 
 Onze Ministers van Economische Zaken en van Defensie zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 
