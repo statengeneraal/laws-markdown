@@ -14,17 +14,17 @@ a. professioneel vuurwerk als bedoeld in [artikel 1.1.1 van het Vuurwerkbesluit]
 
 b. vuurwerk bestemd voor particulier gebruik als bedoeld in [artikel 1.2.2, zevende lid, van het Vuurwerkbesluit](../../../../../../../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) of  
 
-c. vuurwerk waarvan de bestemming niet kan worden vastgesteld.    
+c. vuurwerk waarvan de bestemming niet kan worden vastgesteld.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op een door de Minister van Infrastructuur en Milieu te bepalen tijdstip.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op een door de Minister van Infrastructuur en Milieu te bepalen tijdstip. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Tijdelijke regeling ex artikel 1.1.1, derde lid, Vuurwerkbesluit.  
+Deze regeling wordt aangehaald als: Tijdelijke regeling ex artikel 1.1.1, derde lid, Vuurwerkbesluit. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-W.J.Mansveld   
+Staatssecretaris van Infrastructuur en Milieu, 
+W.J. Mansveld     

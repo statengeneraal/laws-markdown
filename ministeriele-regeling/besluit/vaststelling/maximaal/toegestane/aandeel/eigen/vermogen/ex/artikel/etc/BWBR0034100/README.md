@@ -8,13 +8,13 @@ Besluit:
 
 ### Artikel  1  
 
-Overeenkomstig [artikel 10, tweede lid, van de Drinkwaterwet](../../../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md) is het maximaal toegestane aandeel eigen vermogen in het totale vermogen van een drinkwaterbedrijf voor 2014 en 2015 vastgesteld op 70%.  
+Overeenkomstig [artikel 10, tweede lid, van de Drinkwaterwet](../../../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md) is het maximaal toegestane aandeel eigen vermogen in het totale vermogen van een drinkwaterbedrijf voor 2014 en 2015 vastgesteld op 70%. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

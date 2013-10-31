@@ -4,7 +4,7 @@
 
 Overwegende dat het voor een doelmatige uitoefening van de aan het bestuur van Luchtverkeersleiding Nederland (hierna: LVNL) opgedragen taken, wenselijk is deze bevoegdheden in voorkomende gevallen aan één of meerdere bestuursleden of aan andere personen binnen de organisatie te mandateren en;
 
-Gelet op onder meer [artikel 5.27, tweede lid van de Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en;
+Gelet op onder meer artikel 5.27, tweede lid van de Wet luchtvaart en;
 
 Gelet op het reglement hoofdlijnen inrichting en wijze van bedrijfsvoering van LVNL;
 Besluit:    
@@ -13,21 +13,21 @@ Besluit:
 
 ####Definitie bestuur
 
-1.  Onder bestuur wordt verstaan het in [artikel 5.24](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [5.27 Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde orgaan dat bevoegd is om LVNL in en buiten rechte te vertegenwoordigen.   
+1.  Onder bestuur wordt verstaan het in artikel 5.24 en 5.27 Wet luchtvaart bedoelde orgaan dat bevoegd is om LVNL in en buiten rechte te vertegenwoordigen.   
 2.  Het bestuur bestaat uit een voorzitter van het bestuur (chief executive officer) en een bestuurder (chief financial officer).   
 
 ### Artikel  2  
 
 ####Algemene bevoegdheden
 
-1.  Aan de voorzitter van het bestuur en de bestuurder wordt ieder afzonderlijk, met toepassing van [Afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), mandaat en volmacht verleend om LVNL in en buiten rechte te vertegenwoordigen.   
+1.  Aan de voorzitter van het bestuur en de bestuurder wordt ieder afzonderlijk, met toepassing van Afdeling 10.1.1 van de Algemene wet bestuursrecht, mandaat en volmacht verleend om LVNL in en buiten rechte te vertegenwoordigen.   
 2.  Het bepaalde ingevolge het eerste lid geldt niet indien de artikelen 5, 6, 7 of 11 van toepassing zijn.   
 
 ### Artikel  3  
 
 ####Bijzondere bevoegdheden
 
-De bevoegdheid ten aanzien van het sluiten van convenanten op grond van regelingen met als grondslag het Luchtverkeersreglement wordt gemandateerd aan de directeur Procedures & Systems of de manager Aeronautical Information Management. Indien beiden afwezig zijn, zijn de manager Air Traffic Services Development of de manager Airspace Management and Route Development bevoegd.  
+De bevoegdheid ten aanzien van het sluiten van convenanten op grond van regelingen met als grondslag het Luchtverkeersreglement wordt gemandateerd aan de ‘general manager Procedures’ of de manager Aeronautical Information Management. Indien beiden afwezig zijn, zijn de manager Air Traffic Services Development of de manager Airspace Management and Route Development bevoegd.  
 
 ### Artikel  4  
 
@@ -94,7 +94,7 @@ f. In afwijking van het bepaalde onder b. en c. wordt de bevoegdheid ten aanzien
 
 ####Beperkte gebruiksrechten
 
-De volmacht ten aanzien van de vestiging van een recht op erfdienstbaarheid, het recht van erfpacht en het recht van opstal wordt verleend aan de general manager Corporate Services.  
+De volmacht ten aanzien van de vestiging en opzegging van een recht op erfdienstbaarheid, het recht van erfpacht en het recht van opstal wordt verleend aan de general manager Corporate Services.  
 
 ### Artikel  9  
 
@@ -108,7 +108,7 @@ De volmacht ten aanzien van de vestiging van een recht op erfdienstbaarheid, het
 ####Geheimhoudingsovereenkomsten
 
 1.  De volmacht ten aanzien van het sluiten van geheimhoudingsovereenkomsten, met uitzondering van de geheimhoudingsovereenkomsten genoemd in lid 2 en 3 van dit artikel, wordt verleend aan de manager Contracting of een accountmanager van de afdeling Contracting.   
-2.  De volmacht ten aanzien van het sluiten van geheimhoudingsovereenkomsten waarbij het onderwerp van de overeenkomst informatie betreft die betrekking heeft op luchtverkeersdienstverlening, wordt verleend aan de directeur Operations.   
+2.  De volmacht ten aanzien van het sluiten van geheimhoudingsovereenkomsten waarbij het onderwerp van de overeenkomst informatie betreft die betrekking heeft op luchtverkeersdienstverlening, wordt verleend aan de director Operations.   
 3.  De volmacht ten aanzien van het sluiten van geheimhoudingsovereenkomsten waarbij het onderwerp van de overeenkomst informatie betreft die betrekking heeft op luchtverkeersdienstverlening vanuit de Regional Unit, wordt verleend aan de general manager Regional Unit.   
 
 ### Artikel  11  
@@ -120,21 +120,21 @@ De volmacht ten aanzien van de vestiging van een recht op erfdienstbaarheid, het
 
 ### Artikel  11a  
 
-1.  De volmacht ten aanzien van het sluiten van operationele overeenkomsten (Letters of Agreement) op het gebied van overdracht van luchtverkeersdienstverlening, wordt verleend aan de directeur Procedures & Systems.   
+1.  De volmacht ten aanzien van het sluiten van operationele overeenkomsten (Letters of Agreement) op het gebied van overdracht van luchtverkeersdienstverlening, wordt verleend aan de general manager Procedures.   
 2.  In afwijking van het bepaalde onder lid 1 wordt de volmacht ten aanzien van het sluiten van operationele overeenkomsten (Letters of Agreement) op het gebied van overdracht van luchtverkeersdienstverlening vanuit de Regional Unit, verleend aan de general manager Regional Unit.   
-3.  De volmacht ten aanzien van het sluiten van overige operationele overeenkomsten die een direct verband houden met het verlenen van luchtverkeersdiensten, wordt verleend aan de directeur Procedures & Systems.   
+3.  De volmacht ten aanzien van het sluiten van overige operationele overeenkomsten die een direct verband houden met het verlenen van luchtverkeersdiensten, wordt verleend aan de general manager Procedures.   
 
 ### Artikel  12  
 
 ####Bevoegdheden op het gebied van de wet openbaarheid van bestuur
 
-De bevoegdheid ten aanzien van het afgeven van besluiten op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt gemandateerd aan de manager Customer Relations & Communications of de communications professional belast met woordvoering.  
+De bevoegdheid ten aanzien van het afgeven van besluiten op grond van de Wet openbaarheid van bestuur wordt gemandateerd aan de manager Customer Relations & Communications of de communications professional belast met woordvoering.  
 
 ### Artikel  13  
 
 ####Bezwaar en beroepsprocedures
 
-1.  De afdoening van de beslissingen van Luchtverkeersleiding Nederland ter zake van de ingevolge de artikelen 3, 4 en 12 ingediende bezwaarschriften en overige op grond van de [Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ingediende bezwaarschriften wordt gemandateerd aan de manager Legal Affairs.   
+1.  De afdoening van de beslissingen van Luchtverkeersleiding Nederland ter zake van de ingevolge de artikelen 3, 4 en 12 ingediende bezwaarschriften en overige op grond van de Algemene wet bestuursrecht ingediende bezwaarschriften wordt gemandateerd aan de manager Legal Affairs.   
 2.  De bevoegdheid om LVNL in bestuurs- en civielrechtelijke procedures te vertegenwoordigen komt toe aan de manager Legal Affairs of een Legal Counsel.   
 3.  De manager Legal Affairs kan de bevoegdheden zoals vermeld in het eerste lid, mandateren aan een Legal Counsel.   
 
@@ -142,7 +142,7 @@ De bevoegdheid ten aanzien van het afgeven van besluiten op grond van de [Wet op
 
 ####Klachtenprocedures
 
-De afdoening van klachtenprocedures op grond van de [Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt gemandateerd aan de klachtencoördinator of bij diens afwezigheid aan een plaatsvervanger.  
+De afdoening van klachtenprocedures op grond van de Algemene wet bestuursrecht, wordt gemandateerd aan de klachtencoördinator of bij diens afwezigheid aan een plaatsvervanger.  
 
 ### Artikel  15  
 
@@ -156,7 +156,7 @@ Deze regeling kan worden aangehaald als: Mandaatregeling en volmacht Luchtverkee
 
 ### Artikel  17  
 
-De [Mandaatregeling en volmacht Luchtverkeersleiding Nederland](../../../../../../../../zbo/mandaatregeling/en/volmacht/luchtverkeersleiding/nederland/BWBR0020712/README.md) van 30 november 2006 (Staatscourant 2006, 246) en de Wijziging mandaatregeling en volmacht Luchtverkeersleiding Nederland van 4 december 2008 (Staatscourant 2008, 2560) worden ingetrokken.  
+De Mandaatregeling en volmacht Luchtverkeersleiding Nederland van 30 november 2006 (Staatscourant 2006, 246) en de Wijziging mandaatregeling en volmacht Luchtverkeersleiding Nederland van 4 december 2008 (Staatscourant 2008, 2560) worden ingetrokken.  
 
 Luchthaven Schiphol 
 Het bestuur van Luchtverkeersleiding Nederland.  

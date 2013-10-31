@@ -11,10 +11,10 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Enig  artikel  
 
-1.  Erkenning en tenuitvoerlegging in Nederland van een uitspraak uit kracht van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (*Trb.* 1966, 152), kan bij advocaat worden verzocht aan de voorzieningenrechter van de rechtbank Den Haag.   
-2.  Indien bij het verzoek een overeenkomstig artikel 54 van dat verdrag gewaarmerkt afschrift wordt overgelegd, stelt de voorzieningenrechter daarop de woorden "In naam des Konings" en "Uitgegeven voor eerste grosse", met de dagtekening, de vermelding van zijn ambt en zijn handtekening.   
-3.  Op de uitgifte van tweede of verdere grossen van een uitspraak uit kracht van het verdrag is artikel 231, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.   
-4.  Geschillen over de tenuitvoerlegging worden gebracht voor de rechter van de plaats van tenuitvoerlegging of, indien in verschillende arrondissementen ten uitvoer wordt gelegd, voor een van deze rechters.   
+1.   Erkenning en tenuitvoerlegging in Nederland van een uitspraak uit kracht van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten (*Trb.* 1966, 152), kan bij advocaat worden verzocht aan de voorzieningenrechter van de rechtbank Den Haag.   
+2.   Indien bij het verzoek een overeenkomstig artikel 54 van dat verdrag gewaarmerkt afschrift wordt overgelegd, stelt de voorzieningenrechter daarop de woorden "In naam des Konings" en "Uitgegeven voor eerste grosse", met de dagtekening, de vermelding van zijn ambt en zijn handtekening.   
+3.  Op de uitgifte van tweede of verdere grossen van een uitspraak uit kracht van het verdrag is [artikel 231, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) van overeenkomstige toepassing.   
+4.   Geschillen over de tenuitvoerlegging worden gebracht voor de rechter van de plaats van tenuitvoerlegging of, indien in verschillende arrondissementen ten uitvoer wordt gelegd, voor een van deze rechters.  
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
