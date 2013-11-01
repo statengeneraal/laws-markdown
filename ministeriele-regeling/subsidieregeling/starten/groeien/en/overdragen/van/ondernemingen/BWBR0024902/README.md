@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8187684, houdende vaststelling van subsidie-instrumenten op het terrein van starten, groeien en overdragen van ondernemingen (Subsidieregeling starten, groeien en overdragen van ondernemingen)
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 4](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5, eerste, derde en vierde lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [7](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [9](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [12, vierde lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [13, eerste lid, onderdeel a, en tweede lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [14](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [15](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [18, eerste en vijfde lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [23, onderdeel c](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [30, derde tot en met vijfde lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [32, derde lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [33, tweede lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [34, eerste lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [42, eerste lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [44, eerste en tweede lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [48, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 4, 5, eerste, derde en vierde lid, 7, 9, 12, vierde lid, 13, eerste lid, onderdeel a, en tweede lid, 14, 15, 17, 18, eerste en vijfde lid, 19, 23, onderdeel c, 25, 30, derde tot en met vijfde lid, 32, derde lid, 33, tweede lid, 34, eerste lid, 42, eerste lid, 44, eerste en tweede lid, en 48, eerste lid, van het Kaderbesluit EZ-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,17 +17,17 @@ In deze regeling wordt verstaan onder
 
 ### Artikel  1.2  
 
-1.  Het rapport van feitelijke bevindingen, bedoeld in [artikel 12, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt opgesteld overeenkomstig het protocol dat is opgenomen in bijlage 1.1.   
-2.  Als rapport als bedoeld in [artikel 12, vierde lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van verordening (EG) nr. 1906/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU L 391) en, indien de subsidie-ontvanger daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.   
+1.  Het rapport van feitelijke bevindingen, bedoeld in artikel 12, derde lid, van het Kaderbesluit EZ-subsidies, wordt opgesteld overeenkomstig het protocol dat is opgenomen in bijlage 1.1.   
+2.  Als rapport als bedoeld in artikel 12, vierde lid, wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van verordening (EG) nr. 1906/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU L 391) en, indien de subsidie-ontvanger daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.   
 
 ### Artikel  1.3  
 
-De vaste opslag voor indirecte kosten, bedoeld in [artikel 13, eerste lid, onderdeel a, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), bedraagt 50 procent van de loonkosten.  
+De vaste opslag voor indirecte kosten, bedoeld in artikel 13, eerste lid, onderdeel a, van het Kaderbesluit EZ-subsidies, bedraagt 50 procent van de loonkosten.  
 
 ### Artikel  1.4  
 
-1.  Het uurtarief, bedoeld in [artikel 13, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), bedraagt € 35.   
-2.  Het uurtarief, bedoeld in [artikel 14 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt € 35.   
+1.  Het uurtarief, bedoeld in artikel 13, tweede lid, van het Kaderbesluit EZ-subsidies, bedraagt € 35.   
+2.  Het uurtarief, bedoeld in artikel 14 van het Kaderbesluit EZ-subsidies bedraagt € 35.   
 
 ### Artikel  1.5  
 
@@ -43,18 +43,30 @@ Indien door de minister op grond van deze regeling een subsidie wordt verleend v
 
 ### Artikel  2.2  
 
-1.  Voor de toepassing van dit hoofdstuk wordt als financier aangewezen een bank, niet zijnde een bank die tevens beleggingsonderneming is.   
-2.  Voor de toepassing van artikel 2.3, derde lid, wordt als financier aangewezen een kredietinstelling in de zin van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen en die niet tevens beleggingsonderneming is.   
+1.  Voor de toepassing van dit hoofdstuk wordt als financier aangewezen een bank en een door de minister aangewezen kredietverstrekker.   
+2.  Voor de toepassing van artikel 2.3, derde lid, wordt als financier aangewezen een kredietinstelling in de zin van de Wet financiële markten BES die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen en een door de minister aangewezen, op Bonaire, Sint Eustatius of Saba gevestigde, kredietverstrekker.   
 
 ### Artikel  2.3  
 
-1.  De minister verstrekt op aanvraag subsidie aan een financier voor het sluiten van kredietovereenkomsten met MKB-ondernemers die betrekking hebben op: 
+1.  De minister verstrekt op aanvraag subsidie aan: 
 
-a. bedrijfsborgstellingskredieten;  
+a. een bank voor het sluiten van kredietovereenkomsten met MKB-ondernemers die betrekking hebben op: 
 
-b. bodemsaneringsborgstellingskredieten.     
-2.  De subsidie wordt verstrekt in de vorm van een borgstelling voor de terugbetaling van een krediet dat de financier op grond van een kredietovereenkomst aan MKB-ondernemer heeft verstrekt voor de duur van de kredietovereenkomst.   
-3.  In aanvulling op het eerste lid kan de minister ook subsidie verstrekken aan een financier voor het sluiten van een kredietovereenkomst met een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba. Artikel 2.5, eerste lid, onderdeel a, onder 1, is niet van toepassing op deze MKB-ondernemer.   
+1°. bedrijfsborgstellingskredieten;  
+
+2°. bodemsaneringsborgstellingskredieten;    
+
+b. een door de minister aangewezen kredietverstrekker, als bedoeld in artikel 2.2, eerste lid, voor het sluiten van kredietovereenkomsten met MKB-ondernemers die betrekking hebben op bedrijfsborgstellingskredieten.     
+2.  De subsidie wordt verstrekt in de vorm van een borgstelling voor de terugbetaling van een krediet dat de financier op grond van een kredietovereenkomst aan een MKB-ondernemer heeft verstrekt voor de duur van de kredietovereenkomst.   
+3.  In aanvulling op het eerste lid kan de minister ook subsidie verstrekken aan: 
+
+a. een kredietinstelling als bedoeld in artikel 2.2, tweede lid, voor het sluiten van kredietovereenkomsten met MKB-ondernemers die gevestigd zijn in het openbaar lichaam Bonaire, Sint Eustatius of Saba, die betrekking hebben op: 
+
+1°. bedrijfsborgstellingskredieten;  
+
+2°. bodemsaneringsborgstellingskredieten;    
+
+b. een door de minister aangewezen kredietverstrekker als bedoeld in artikel 2.2, tweede lid, voor het sluiten van kredietovereenkomsten met MKB-ondernemers die gevestigd zijn in het openbaar lichaam Bonaire, Sint Eustatius of Saba, die betrekking hebben op bedrijfsborgstellingskredieten. Artikel 2.5, eerste lid, onderdeel a, onder 1, is niet van toepassing op de in dit lid bedoelde MKB-ondernemers.     
 
 ### Artikel  2.4  
 
@@ -72,28 +84,35 @@ a. een onderneming in stand houdt waarvan de laatste jaaromzet voor 50 procent o
 
 3°. het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
 
-b. een aanbieder is als bedoeld in [artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) dan wel het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder.     
+b. een aanbieder is als bedoeld in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg dan wel het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder.     
 2.   Vervallen.    
 
 ### Artikel  2.6  
 
-1.  Het tarief van de provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt jaarlijks: 
+1.  Het tarief van de provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies bedraagt eenmalig: 
 
-a. 2 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van niet langer dan twee jaar,  
+a. 3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van niet langer dan twee jaar,  
 
-b. 2,4 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan twee jaar, maar niet langer dan vier jaar,  
+b. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan twee jaar, maar niet langer dan vier jaar,  
 
-c. 2,8 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan vier jaar, maar niet langer dan zes jaar,  
+c. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan vier jaar, maar niet langer dan zes jaar,  
 
-d. 3,2 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan zes jaar, maar niet langer dan negen jaar en  
+d. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan zes jaar, maar niet langer dan negen jaar en  
 
-e. 3,6 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.     
-2.  Het tarief van de provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt 3 procent indien de overeenkomst van borgtocht een bodemsaneringsborgstellingskrediet betreft.   
+e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.     
+2.  Het tarief van de provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies bedraagt 3 procent indien de overeenkomst van borgtocht een bodemsaneringsborgstellingskrediet betreft.   
+
+### Artikel  2.6a  
+
+1.  Er is een Adviescommissie Borgstelling MKB-kredieten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een bedrijfsborgstellingsovereenkomst, bedoeld in de artikelen 22 en 24 van het Kaderbesluit EZ-subsidies.   
+2.  De commissie bestaat uit ten minste vier en ten hoogste zeven leden.   
+3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste drie jaar benoemd.   
 
 ### Artikel  2.7  
 
-1.  De minister verdeelt het subsidieplafond door vaststelling van maximumbedragen per financier die zich bij de minister heeft aangemeld.   
-2.  De minister stelt het maximumbedrag per financier uiterlijk 1 februari van elk kalenderjaar ambtshalve vast voor het voorgaande kalenderjaar.   
+1.  De minister verdeelt het subsidieplafond voor banken en kredietinstellingen in de zin van de Wet financiële markten BES door vaststelling van een maximumbedrag per bank respectievelijk kredietinstelling die zich bij de minister hebben aangemeld.   
+2.  De minister stelt het maximumbedrag per financier, als bedoeld in het eerste lid, uiterlijk 1 februari van elk kalenderjaar ambtshalve vast voor het voorgaande kalenderjaar.   
+3.  De minister verdeelt het subsidieplafond voor door de minister aangewezen kredietverstrekkers, als bedoeld in artikel 2.2, eerste en tweede lid, op volgorde van binnenkomst van de meldingen, bedoeld in artikel 6, vijfde lid, van het model bedrijfsborgstellingsovereenkomst, zoals opgenomen in bijlage 2.5.   
 
 ### Artikel  2.8  
 
@@ -101,14 +120,20 @@ Er wordt borg gestaan voor 90 procent van het kredietbedrag.
 
 ### Artikel  2.9  
 
-1.  Het model voor de bedrijfsborgstellingsovereenkomst (één bank) is opgenomen in bijlage 2.1.   
-2.  Het model voor de bedrijfsborgstellingsovereenkomst (meer dan één bank) is opgenomen in bijlage 2.2.   
-3.  Het model voor de bodemsaneringsborgstellingskredietovereenkomst (één bank) is opgenomen in bijlage 2.3.   
-4.  Het model voor de bodemsaneringsborgstellingskredietovereenkomst (meer dan één bank) is opgenomen in bijlage 2.4.   
+1.  Het model voor de bedrijfsborgstellingsovereenkomst (één bank) voor een bank of voor een kredietinstelling in de zin van de Wet financiële markten BES is opgenomen in bijlage 2.1.   
+2.  Het model voor de bedrijfsborgstellingsovereenkomst (meer dan één bank) voor een bank of voor een kredietinstelling in de zin van de Wet financiële markten BES is opgenomen in bijlage 2.2.   
+3.  Het model voor de bodemsaneringsborgstellingskredietovereenkomst (één bank) voor een bank of voor een kredietinstelling in de zin van de Wet financiële markten BES is opgenomen in bijlage 2.3.   
+4.  Het model voor de bodemsaneringsborgstellingskredietovereenkomst (meer dan één bank) voor een bank of voor een kredietinstelling in de zin van de Wet financiële markten BES is opgenomen in bijlage 2.4.   
+5.  Het model voor de bedrijfsborgstellingsovereenkomst met een door de minister aangewezen kredietverstrekker, als bedoeld in artikel 2.2, eerste en tweede lid, is opgenomen in bijlage 2.5.   
 
 ### Artikel  2.10  
 
-Het formulier voor het indienen van een aanvraag om borgstelling als bedoeld in artikel 2.3, eerste lid, is opgenomen in bijlage 2.5.  
+1.  Het formulier voor het indienen van een aanvraag om borgstelling als bedoeld in artikel 2.3, eerste en derde lid, voor een bank respectievelijk een kredietinstelling in de zin van de Wet financiële markten BES, is opgenomen in bijlage 2.6.   
+2.  Het formulier voor het indienen van een aanvraag om borgstelling als bedoeld in artikel 2.3, eerste en derde lid, voor een door de minister aangewezen kredietverstrekker, als bedoeld in artikel 2.2, eerste respectievelijk tweede lid, is opgenomen in bijlage 2.7.   
+
+### Artikel  2.11  
+
+Op aanvragen om subsidie die voor 1 januari 2015 zijn ingediend en op subsidies die voor die datum zijn verstrekt, blijven de bijlagen 2.1, 2.2 en 2.5, zoals die onmiddellijk voor die datum luidden, van toepassing.  
 
 ### Hoofdstuk  3  
 
@@ -134,7 +159,7 @@ a. een lening van geld door een financier aan een ondernemer met het oog op de f
 
 3°. ten aanzien waarvan de financier in de vorenbedoelde akte van geldlening afstand heeft gedaan van alle rechten tot verrekening van de niet vervallen aflossingen of    
 
-b. een lening van geld door een financier aan een ondernemer die een rechtspersoon is wiens activa slechts bestaan uit deelnemingen in of vorderingen op een dochtermaatschappij in de zin van [artikel 24a van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met het oog op financiering door deze ondernemer van activiteiten van deze dochtermaatschappij, 
+b. een lening van geld door een financier aan een ondernemer die een rechtspersoon is wiens activa slechts bestaan uit deelnemingen in of vorderingen op een dochtermaatschappij in de zin van artikel 24a van Boek 2 van het Burgerlijk Wetboek, met het oog op financiering door deze ondernemer van activiteiten van deze dochtermaatschappij, 
 
 1°. welke lening niet door enige vorm van zekerheid is gedekt, met uitzondering van een persoonlijke borgstelling van een aandeelhouder in de onderneming van de ondernemer en van een pandrecht gevestigd op aandelen in de dochtermaatschappij en  
 
@@ -162,7 +187,7 @@ b. een lening van geld door een financier aan een ondernemer die een rechtsperso
 2.  De subsidie wordt verstrekt in de vorm van een garantstelling voor de terugbetaling van risicokapitaal dat de financier op grond van een overeenkomst aan een ondernemer heeft verstrekt voor de duur de overeenkomst met een maximum van twaalf jaar.   
 3.  De garantstelling heeft slechts betrekking op risicokapitaal dat wordt verstrekt nadat de minister desgevraagd een reserveringsquotum heeft toegekend en voor zover het quotum toereikend en geldig is.   
 4.  In aanvulling op het eerste lid kan de minister ook subsidie verstrekken aan een financier voor het verstrekken van risicokapitaal aan een ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
-5.  Voor de toepassing van het vierde lid wordt als financier aangewezen een kredietinstelling in de zin van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen, of een in Bonaire, Sint Eustatius of Saba gevestigde vennootschap in de vorm van een kapitaalvennootschap of een vennootschap met een afgescheiden vermogen die blijkens haar statuten of blijkens de overeenkomst waarbij zij is aangegaan tot doel heeft of mede tot doel heeft het verstrekken van risicokapitaal aan ondernemers teneinde winst te behalen.   
+5.  Voor de toepassing van het vierde lid wordt als financier aangewezen een kredietinstelling in de zin van de Wet financiële markten BES die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen, of een in Bonaire, Sint Eustatius of Saba gevestigde vennootschap in de vorm van een kapitaalvennootschap of een vennootschap met een afgescheiden vermogen die blijkens haar statuten of blijkens de overeenkomst waarbij zij is aangegaan tot doel heeft of mede tot doel heeft het verstrekken van risicokapitaal aan ondernemers teneinde winst te behalen.   
 
 ### Artikel  3.3  
 
@@ -174,8 +199,8 @@ b. onroerend goed voor zover de activiteiten gericht zijn op het behalen van res
 
 c. de financiële sector voor zover de ondernemer het bank-, verzekerings- of beleggingsbedrijf uitoefent, of een participatiemaatschappij heeft;  
 
-d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in [artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).     
-2.  De financier verstrekt geen risicokapitaal aan een instelling als bedoeld in [artikel 70 van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md).   
+d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg.     
+2.  De financier verstrekt geen risicokapitaal aan een instelling als bedoeld in artikel 70 van de Woningwet.   
 
 ### Artikel  3.4  
 
@@ -189,7 +214,7 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 ### Artikel  3.6  
 
-1.  Er is een Adviescommissie Groeifaciliteit die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om garantstelling, bedoeld in de [artikelen 22](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [24 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
+1.  Er is een Adviescommissie Groeifaciliteit die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om garantstelling, bedoeld in de artikelen 22 en 24 van het Kaderbesluit EZ-subsidies.   
 2.  De commissie bestaat uit ten minste vier en ten hoogste zes leden.   
 3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste drie jaar benoemd.   
 
@@ -215,7 +240,7 @@ c. de aanvrager eerder tekort is geschoten bij de naleving van verplichtingen op
 ### Artikel  3.10  
 
 1.  De financier is voor het verkrijgen van een reserveringsquotum een eenmalige provisie van 1 procent van dit quotum verschuldigd.   
-2.  Het tarief van de provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt voor de garantie op het verstrekte risicokapitaal vastgesteld op: 
+2.  Het tarief van de provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies, wordt voor de garantie op het verstrekte risicokapitaal vastgesteld op: 
 
 a. 2,5 procent per jaar van de gegarandeerde waarde van dit risicokapitaal indien de kapitaalverstrekking bestaat uit een niet converteerbare achtergestelde lening zonder dat deze gepaard gaat met een kapitaalverstrekking aan dezelfde ondernemer door de financier of door een andere financier die deel uitmaakt van dezelfde groep in de vorm van een converteerbare achtergestelde lening of aandelenkapitaal;  
 
@@ -232,7 +257,7 @@ Jaarlijks vindt een evaluatie van de toepassing van deze regeling plaats, onder 
 
 ### §  3  
 
-####Tijdelijke garantie ondernemingsfinanciering
+####Garantie ondernemingsfinanciering
 
 ### Artikel  3.12a  
 
@@ -248,7 +273,7 @@ c. is afgesloten met de afspraak dat een gedeelte van de rente vast is en een ge
 
 – *liquiditeitsopslag:* een door een financier aan een ondernemer in rekening gebracht percentage van de lening, waarvan de hoogte gelijk is voor alle door de desbetreffende financier op dezelfde dag afgesloten of af te sluiten leningen met dezelfde looptijd. Indien een dergelijk percentage niet beschikbaar is, zal in overleg met de financier een ander redelijk, transparant en verifieerbaar percentage worden vastgesteld.     
 2.  Voor de toepassing van deze paragraaf wordt als financier aangewezen een bank.   
-3.  Voor de toepassing van artikel 3.12b, tweede lid, wordt als financier aangewezen een kredietinstelling in de zin van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen.   
+3.  Voor de toepassing van artikel 3.12b, tweede lid, wordt als financier aangewezen een kredietinstelling in de zin van de Wet financiële markten BES die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen.   
 
 ### Artikel  3.12b  
 
@@ -265,8 +290,8 @@ b. onroerend goed voor zover de activiteiten gericht zijn op het behalen van res
 
 c. de financiële sector voor zover de ondernemer het bank-, verzekerings- of beleggingsbedrijf uitoefent, of een participatiemaatschappij heeft;  
 
-d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in [artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).     
-2.  De financier verstrekt geen lening aan een instelling als bedoeld in [artikel 70 van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md).   
+d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg.     
+2.  De financier verstrekt geen lening aan een instelling als bedoeld in artikel 70 van de Woningwet.   
 
 ### Artikel  3.12d  
 
@@ -280,14 +305,14 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 a. het nog niet afgeloste deel van een of meer leningen of  
 
-b. een of meer bankgarantiefaciliteiten als bedoeld in 3.12v   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 50.000.000.   
+b. een of meer bankgarantiefaciliteiten als bedoeld in 3.12v   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.   
 
 ### Artikel  3.12f  
 
-1.  De in artikel 3.6 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een garantstellingsovereenkomst, bedoeld in de [artikelen 22 en 24 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
-2.  Er is een Adviescommissie Kredietcommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om garantstelling, bedoeld in artikel 3.12i.   
-3.  De commissie, genoemd in het tweede lid, bestaat uit ten minste drie en ten hoogste vier leden.   
-4.  De voorzitter en de andere leden van de commissie, genoemd in het tweede lid, worden benoemd voor een termijn van ten hoogste drie jaar.   
+1.  Er is een Adviescommissie Kredietcommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een garantstellingsovereenkomst, bedoeld in de artikelen 22 en 24 van het Kaderbesluit EZ-subsidies.   
+2.  De commissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om garantstelling, bedoeld in artikel 3.12i.   
+3.  De commissie bestaat uit ten minste drie en ten hoogste vier leden.   
+4.  De voorzitter en de andere leden van de commissie worden benoemd voor een termijn van ten hoogste drie jaar.   
 
 ### Artikel  3.12g  
 
@@ -309,7 +334,7 @@ c. de aanvrager eerder tekort is geschoten bij de naleving van verplichtingen op
 
 ### Artikel  3.12j  
 
-1.  Het tarief van de provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt voor de garantie op de verstrekte lening, berekend door alle door de financier over het gegarandeerde deel van de lening ontvangen inkomsten te verminderen met: 
+1.  Het tarief van de provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies, wordt voor de garantie op de verstrekte lening, berekend door alle door de financier over het gegarandeerde deel van de lening ontvangen inkomsten te verminderen met: 
 
 a. een kwart procent per jaar voor beheerskosten,  
 
@@ -328,7 +353,7 @@ c. de afsluitprovisie.
 
 In deze paragraaf wordt verstaan onder: 
 
-– *curatieve zorg:* zorg door een instelling die een toelating heeft op grond van de [Wet toelating zorginstellingen](../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) voor het verlenen van medisch-specialistische zorg of een zorgcontract heeft met het Zorgverzekeringskantoor BES en die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
+– *curatieve zorg:* zorg door een instelling die een toelating heeft op grond van de Wet toelating zorginstellingen voor het verlenen van medisch-specialistische zorg of een zorgcontract heeft met het Zorgverzekeringskantoor BES en die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
 – *lening:* een niet achtergestelde lening van geld door een financier aan een ondernemer, welke lening: 
 
@@ -346,7 +371,7 @@ c. is afgesloten met de afspraak dat een gedeelte van de rente vast is, een gede
 
 a. een bank;  
 
-b. een kredietinstelling in de zin van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen.     
+b. een kredietinstelling in de zin van de Wet financiële markten BES die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen.     
 2.  Voor de toepassing van deze paragraaf wordt een academisch ziekenhuis aangemerkt als een ondernemer.   
 
 ### Artikel  3.12m  
@@ -365,7 +390,7 @@ De minister verstrekt op aanvraag subsidie in de vorm van een garantstelling aan
 
 ### Artikel  3.12p  
 
-1.  De in artikel 3.6 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een garantstellingsovereenkomst, bedoeld in de [artikelen 22](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [24 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
+1.  De in artikel 3.6 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een garantstellingsovereenkomst, bedoeld in de artikelen 22 en 24 van het Kaderbesluit EZ-subsidies.   
 2.  De in artikel 3.12f, tweede lid, bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om garantstelling, bedoeld in artikel 3.12s.   
 
 ### Artikel  3.12q  
@@ -394,7 +419,7 @@ f. indien de lening die de financier op grond van een overeenkomst aan een onder
 
 ### Artikel  3.12t  
 
-1.  Het tarief van de provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt voor de garantie op de verstrekte lening, berekend door alle door de financier over het gegarandeerde deel van de lening ontvangen inkomsten te verminderen met: 
+1.  Het tarief van de provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies, wordt voor de garantie op de verstrekte lening, berekend door alle door de financier over het gegarandeerde deel van de lening ontvangen inkomsten te verminderen met: 
 
 a. een kwart procent per jaar voor beheerskosten;  
 
@@ -418,7 +443,11 @@ c. de afsluitprovisie.
 − *bankgarantiefaciliteit:* het bedrag waarvoor een financier aan een begunstigde ten laste van een ondernemer bankgaranties kan afgeven die onder de garantstelling van de staat kunnen vallen;  
 
 − *waarde van een bankgarantie:* de hoogte van het bedrag waarop maximaal aanspraak kan worden gemaakt onder een afgegeven bankgarantie.     
-2.  Voor de toepassing van deze paragraaf wordt als financier aangewezen een bank.   
+2.  Voor de toepassing van deze paragraaf wordt als financier aangewezen: 
+
+a. een bank;  
+
+b. een schadeverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.     
 
 ### Artikel  3.12v  
 
@@ -426,7 +455,6 @@ c. de afsluitprovisie.
 2.  De subsidie wordt verstrekt in de vorm van een garantstelling aan een financier voor de terugbetaling van een vordering die een financier op een ondernemer krijgt uit hoofde van een betaling onder een bankgarantie die een financier op grond van een overeenkomst ten laste van een ondernemer heeft afgegeven voor de duur van minimaal zes maanden en maximaal 8 jaar.   
 3.  In afwijking van het tweede lid kan, indien een bankgarantie geen vaste looptijd heeft en het inroepen daarvan afhankelijk is van het zich voordoen van een bepaalde gebeurtenis, een financier een bankgarantie onder de garantstelling brengen onder de voorwaarde dat de gebeurtenis bij het aangaan van de bankgarantie zich naar verwachting niet meer dan 7 jaar na het afsluiten van de bankgarantiefaciliteit voordoet en dat de begunstigde een provincie, gemeente, openbaar lichaam als bedoeld in de Wet gemeenschappelijke regelingen of een dienst, instelling of bedrijf van de rijksoverheid is.   
 4.  De garantstelling heeft slechts betrekking op bankgaranties die worden afgegeven nadat de minister desgevraagd een bankgarantiefaciliteit heeft goedgekeurd en voor zover deze faciliteit toereikend en geldig is.   
-5.  Een bankgarantie als bedoeld in het vierde lid kan tot en met 31 december 2014 onder een goedgekeurde bankgarantiefaciliteit worden ondergebracht.   
 
 ### Artikel  3.12w  
 
@@ -438,8 +466,8 @@ b. onroerend goed voor zover de activiteiten gericht zijn op het behalen van res
 
 c. de financiële sector voor zover de ondernemer het bank-, verzekerings- of beleggingsbedrijf uitoefent, of een participatiemaatschappij heeft;  
 
-d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in [artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).     
-2.  De financier verstrekt geen bankgarantiefaciliteit aan een instelling als bedoeld in [artikel 70 van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md).   
+d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg.     
+2.  De financier verstrekt geen bankgarantiefaciliteit aan een instelling als bedoeld in artikel 70 van de Woningwet.   
 
 ### Artikel  3.12x  
 
@@ -453,11 +481,11 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 a. een of meer bankgarantiefaciliteiten of  
 
-b. het nog niet afgeloste deel van een of meer leningen als bedoeld in 3.12b   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 50.000.000.   
+b. het nog niet afgeloste deel van een of meer leningen als bedoeld in 3.12b   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.   
 
 ### Artikel  3.12z  
 
-De in artikel 3.12f, tweede lid, bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om een bankgarantiefaciliteit, bedoeld in artikel 3.12ac.  
+De in artikel 3.12f, eerste lid, bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een garantstellingsovereenkomst, bedoeld in de artikelen 22 en 24 van het Kaderbesluit EZ-subsidies indien met de financier nog geen garantstellingsovereenkomst is gesloten als bedoeld in paragraaf 2 of 3 en de afwijzingsgronden voor aanvragen om een bankgarantiefaciliteit, bedoeld in artikel 3.12ac.  
 
 ### Artikel  3.12aa  
 
@@ -484,7 +512,7 @@ d. het bedrag van een bankgarantiefaciliteit minder bedraagt dan € 1.500.000.
 1.  De financier is voor het verstrekken van een bankgarantiefaciliteit een eenmalige provisie van 0,25 procent van 50 procent van de bankgarantiefaciliteit verschuldigd.   
 2.  Voor zover de opbrengsten uit de provisie, bedoeld in het eerste lid, die de financier bij de onderneming in rekening brengt voor het verstrekken van de bankgarantiefaciliteit hoger zijn dan 0,5 procent van de bankgarantiefaciliteit, is de financier het meerdere voor 50 procent aan de Staat verschuldigd.   
 3.  Voor zover de opbrengsten uit een eventuele bereidstellingsprovisie die een financier bij een onderneming in rekening brengt over het onbenutte deel van een bankgarantiefaciliteit hoger zijn dan 25 procent van een door een financier aan een onderneming in rekening gebrachte provisie op bankgaranties, is de financier het meerdere voor 50 procent aan de Staat verschuldigd.   
-4.  Het tarief van de periodieke provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt voor de garantstelling op een afgegeven bankgarantie berekend over de waarde van de afgegeven bankgaranties op de eerste dag van het kwartaal en is gelijk aan de door een financier aan een onderneming in rekening gebrachte provisie over het door de staat gegarandeerde deel van de afgegeven bankgaranties met aftrek van 0,15 procent op jaarbasis als vergoeding voor de financier voor het beheer van de bankgarantiefaciliteit en met een minimum van 0,5 procent op jaarbasis.   
+4.  Het tarief van de periodieke provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies, wordt voor de garantstelling op een afgegeven bankgarantie berekend over de waarde van de afgegeven bankgaranties op de eerste dag van het kwartaal en is gelijk aan de door een financier aan een onderneming in rekening gebrachte provisie over het door de staat gegarandeerde deel van de afgegeven bankgaranties met aftrek van 0,15 procent op jaarbasis als vergoeding voor de financier voor het beheer van de bankgarantiefaciliteit en met een minimum van 0,5 procent op jaarbasis.   
 5.  In afwijking van het vierde lid kan een financier eenmalig en vooraf aangeven de provisie per kwartaal te willen verrekenen op basis van een controleerbare opgave van de provisieberekening op dagbasis.   
 6.  De minister kan een hoger tarief voor de provisie, bedoeld in het eerste tot en met het vierde lid, vaststellen, indien de provisie te laag is in relatie tot het risico dat de Staat loopt.   
 
@@ -511,6 +539,10 @@ f. het indienen van een aanvraag om een garantstelling op grond van paragraaf 3A
 g. het indienen van een aanvraag om een garantstellingsovereenkomst op grond van paragraaf 3B is opgenomen in bijlage 3.12;  
 
 h. het indienen van een aanvraag voor een bankgarantiefaciliteit is opgenomen in bijlage 3.14.    
+
+### Artikel  3.14  
+
+Op aanvragen om subsidie die voor 1 januari 2015 zijn ingediend en op subsidies die voor die datum zijn verstrekt, blijven de artikelen 3.12e en 3.12y en de bijlagen 3.6, 3.13 en 3.14, zoals die onmiddellijk voor die datum luidden, van toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -607,7 +639,7 @@ De geldlening die op grond van de overeenkomst van geldlening ten hoogste kan wo
 
 ### Artikel  4.8  
 
-1.  Er is een Adviescommissie seed capital technostarters die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [24 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 4.9, en de rangschikkingscriteria, bedoeld in artikel 4.10.   
+1.  Er is een Adviescommissie seed capital technostarters die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 24 van het Kaderbesluit EZ-subsidies en in artikel 4.9, en de rangschikkingscriteria, bedoeld in artikel 4.10.   
 2.  De commissie bestaat uit ten minste vier en ten hoogste negen leden.   
 3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste drie jaar benoemd.   
 
@@ -646,7 +678,7 @@ c. een fondsplan niet is gebaseerd op de uitgangspunten dat:
 d. het fondsplan onvoldoende is onderbouwd;  
 
 e. onvoldoende vertrouwen bestaat dat het fondsplan naar behoren wordt uitgevoerd.     
-2.  [Artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
+2.  Artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is niet van toepassing.   
 
 ### Artikel  4.10  
 
@@ -661,18 +693,18 @@ c. het fondsplan doelmatiger is ingericht.
 
 ### Artikel  4.11  
 
-In afwijking van [artikel 30, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt de termijn waarbinnen een overeenkomst tot stand moet zijn gekomen twee weken.  
+In afwijking van artikel 30, eerste lid, van het Kaderbesluit EZ-subsidies bedraagt de termijn waarbinnen een overeenkomst tot stand moet zijn gekomen twee weken.  
 
 ### Artikel  4.12  
 
-1.  De vergoeding, bedoeld in [artikel 33, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), verschilt al naar gelang de inkomsten door de financier worden ontvangen in één van de volgende perioden: 
+1.  De vergoeding, bedoeld in artikel 33, tweede lid, van het Kaderbesluit EZ-subsidies, verschilt al naar gelang de inkomsten door de financier worden ontvangen in één van de volgende perioden: 
 
 a. periode A: vanaf het tot stand komen van deze overeenkomst van geldlening tot het tijdstip waarop het totaal van de door de financier uit de participaties verkregen inkomsten na aftrek van het totaal van de aan de Staat overgeboekte bedragen gelijk is aan de eigen bijdrage voor de verkregen participaties;  
 
 b. periode B: vanaf het onder a bedoelde tijdstip tot het tijdstip dat het totaal van de aan de Staat overgeboekte bedragen gelijk is aan het totaal op grond van de overeenkomst van lening opgenomen bedrag;  
 
 c. periode C: vanaf het tijdstip dat het totaal van de aan de Staat overgeboekte bedragen gelijk is aan het totaal op grond van de overeenkomst van lening opgenomen bedrag.     
-2.  De vergoeding, bedoeld in [artikel 33, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), bedraagt: 
+2.  De vergoeding, bedoeld in artikel 33, tweede lid, van het Kaderbesluit EZ-subsidies, bedraagt: 
 
 a. in periode A: 20 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van de geldlening van de Staat;  
 
@@ -697,13 +729,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 – *innovatieve starter:* een innovatieve starter als bedoeld in paragraaf 5.4 van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *kennisinstelling:* een onderwijsinstelling of een academisch ziekenhuis als bedoeld in [artikel 1.13, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+– *kennisinstelling:* een onderwijsinstelling of een academisch ziekenhuis als bedoeld in artikel 1.13, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 – *lening:* een lening aan een rechtspersoon die is verstrekt onder de voorwaarde dat een bij de rechtspersoon betrokken natuurlijke persoon garant staat voor de betaling van de rente en de terugbetaling van de hoofdsom, of een lening aan een natuurlijke persoon;  
 
 – *maatschappelijke organisatie:* een rechtspersoon zonder winstoogmerk, uitgezonderd ondernemers die geen MKB-ondernemer zijn;  
 
-– *onderwijsinstelling:* een bekostigde instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+– *onderwijsinstelling:* een bekostigde instelling voor hoger onderwijs als bedoeld in artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 –  *starter:*  
 
@@ -786,13 +818,13 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  5.7  
 
-1.  Er is een Adviescommissie valorisatieprogramma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 5.9.   
+1.  Er is een Adviescommissie valorisatieprogramma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23 van het Kaderbesluit EZ-subsidies en in artikel 5.9.   
 2.  De commissie bestaat uit ten minste vijf en ten hoogste elf leden.   
 3.  De voorzitter en de leden worden benoemd voor een termijn van ten hoogste zes jaar.   
 
 ### Artikel  5.8  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is zes jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies, is zes jaar.  
 
 ### Artikel  5.9  
 
@@ -823,7 +855,7 @@ De subsidie-ontvanger draagt er voor zorg dat de met de gesubsidieerde activitei
 3.  Op verzoek van de subsidie-ontvanger kan de minister ontheffing verlenen van de in het eerste lid bedoelde verplichting.   
 4.  Aan de ontheffing, bedoeld in het derde lid, wordt het voorschrift verbonden dat de subsidie-ontvanger 50% van het totaal van de aflossingen op onderscheidenlijk afbetalingen van de leningen aan de minister betaalt.   
 5.  Aan de ontheffing, bedoeld in het derde lid, kunnen andere voorschriften dan bedoeld in het vierde lid, worden verbonden.   
-6.  De subsidie-ontvanger is verplicht om na verloop van vier jaar na de datum van de beschikking tot subsidievaststelling 50% van het totaal van de aflossingen en afbetalingen die over verstrekte leningen zijn of zullen worden ontvangen, aan de minister te betalen volgens een in de beschikking tot subsidieverlening vastgelegd schema. [Artikel 42 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
+6.  De subsidie-ontvanger is verplicht om na verloop van vier jaar na de datum van de beschikking tot subsidievaststelling 50% van het totaal van de aflossingen en afbetalingen die over verstrekte leningen zijn of zullen worden ontvangen, aan de minister te betalen volgens een in de beschikking tot subsidieverlening vastgelegd schema. Artikel 42 van het Kaderbesluit EZ-subsidies is niet van toepassing.   
 
 ### Artikel  5.14  
 
@@ -850,17 +882,17 @@ b. een subsidievaststelling is opgenomen in bijlage 5.3.
 
 1.  In dit hoofdstuk wordt verstaan onder een onderwijsinstelling: 
 
-a. een basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md), bekostigd uit de openbare kas;  
+a. een basisschool als bedoeld in artikel 1 van de Wet op het primair onderwijs, bekostigd uit de openbare kas;  
 
-b. een speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md), bekostigd uit de openbare kas;  
+b. een speciale school voor basisonderwijs als bedoeld in artikel 1 van de Wet op het primair onderwijs, bekostigd uit de openbare kas;  
 
-c. een school of instelling voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md), bekostigd uit de openbare kas;  
+c. een school of instelling voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra, bekostigd uit de openbare kas;  
 
-d. een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3. van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor zover het daarin verzorgde voorbereidend beroepsonderwijs, bekostigd uit de openbare kas;  
+d. een school voor voortgezet onderwijs als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs en een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3. van de Wet educatie en beroepsonderwijs voor zover het daarin verzorgde voorbereidend beroepsonderwijs, bekostigd uit de openbare kas;  
 
-e. een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) met uitzondering van een agrarisch opleidingscentrum voor zover het daarin verzorgde voorbereidend beroepsonderwijs, de instituten, genoemd in [artikel 12.3.8 van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de hogescholen, genoemd in [artikel 12.3.9 van de Wet educatie en beroepsonderwijsinstelling](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs met uitzondering van een agrarisch opleidingscentrum voor zover het daarin verzorgde voorbereidend beroepsonderwijs, de instituten, genoemd in artikel 12.3.8 van de Wet educatie en beroepsonderwijs of de hogescholen, genoemd in artikel 12.3.9 van de Wet educatie en beroepsonderwijsinstelling;  
 
-f. een instelling voor hoger onderwijs als bedoeld in [artikel 1.2, onderdeel a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).     
+f. een instelling voor hoger onderwijs als bedoeld in artikel 1.2, onderdeel a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.     
 2.  In dit hoofdstuk wordt verstaan onder: 
 
 – *CE-project:* een samenhangend geheel van activiteiten gericht op het opzetten en totstandkomen van een Centre of Entrepreneurship;  
@@ -881,7 +913,7 @@ De minister verstrekt op aanvraag een subsidie aan een onderwijsinstelling of de
 
 ### Artikel  6.3  
 
-In afwijking van de [Regeling steunintensiteit](../../../../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een ondernemerschapsonderwijsproject 50% van de subsidiabele kosten.  
+In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een ondernemerschapsonderwijsproject 50% van de subsidiabele kosten.  
 
 ### Artikel  6.4  
 
@@ -907,13 +939,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  6.7  
 
-1.  Er is een Adviescommissie ondernemerschap en onderwijs die tot taak heeft de minister op zijn verzoek te adviseren omtrent aanvragen om subsidie en in dat kader omtrent de afwijzingsgronden voor een ondernemerschapsonderwijsproject, met uitzondering van de afwijzingsgrond, bedoeld in [artikel 22 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en de rangschikkingscriteria, bedoeld in artikel 6.10.   
+1.  Er is een Adviescommissie ondernemerschap en onderwijs die tot taak heeft de minister op zijn verzoek te adviseren omtrent aanvragen om subsidie en in dat kader omtrent de afwijzingsgronden voor een ondernemerschapsonderwijsproject, met uitzondering van de afwijzingsgrond, bedoeld in artikel 22 van het Kaderbesluit EZ-subsidies, en de rangschikkingscriteria, bedoeld in artikel 6.10.   
 2.  De commissie bestaat uit ten minste vier en ten hoogste acht leden.   
 3.  De voorzitter en de andere leden worden voor een termijn van ten hoogste vier jaar benoemd.   
 
 ### Artikel  6.8  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  6.9  
 
@@ -926,7 +958,7 @@ b. het bedrijfsleven niet op enigerlei wijze betrokken is bij het ondernemerscha
 c. onvoldoende vertrouwen bestaat in de structurele voortzetting van de activiteiten waarvoor subsidie wordt verstrekt;  
 
 d. aannemelijk is dat de activiteiten geen verbetering, uitbreiding, wijziging of aanvulling inhouden van reeds bestaande activiteiten op het gebied van ondernemerschapsonderwijs van de betrokken onderwijsinstellingen.     
-2.  De afwijzingsgronden, genoemd in [artikel 23, onderdelen a, e en f, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing   
+2.  De afwijzingsgronden, genoemd in artikel 23, onderdelen a, e en f, van het Kaderbesluit EZ-subsidies zijn niet van toepassing   
 
 ### Artikel  6.10  
 
@@ -945,8 +977,8 @@ e. het meer bijdraagt aan de creativiteit en innovativiteit van het ondernemersc
 
 ### Artikel  6.11  
 
-1.  Een onderwijsinstelling wordt aangewezen als een instelling als bedoeld in [artikel 48, tweede lid, van het Kaderbesluit](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
-2.  In afwijking van de [artikelen 45 tot en met 47 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) kunnen voorschotten slechts op aanvraag van de subsidie-ontvanger worden verstrekt.   
+1.  Een onderwijsinstelling wordt aangewezen als een instelling als bedoeld in artikel 48, tweede lid, van het Kaderbesluit.   
+2.  In afwijking van de artikelen 45 tot en met 47 van het Kaderbesluit EZ-subsidies kunnen voorschotten slechts op aanvraag van de subsidie-ontvanger worden verstrekt.   
 3.  Een aanvraag om een voorschot wordt ingediend gelijktijdig met het uitbrengen van een tussenrapportage.   
 4.  De aanvraag wordt ingediend met gebruikmaking van een formulier.   
 5.  Een voorschot wordt berekend naar rato van de gemaakte en betaalde subsidiabele kosten, voor zover deze nog niet eerder bij de verstrekking van een voorschot in aanmerking zijn genomen. In het totaal is het bedrag aan voorschotten niet groter dan 80 procent van het bij de beschikking tot subsidieverlening vermelde maximale subsidiebedrag.   
@@ -961,9 +993,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 – 
 
-a. een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) voor zover het daarin verzorgde voorbereidend beroepsonderwijs wordt bekostigd uit de openbare kas;  
+a. een school voor voortgezet onderwijs als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs voor zover het daarin verzorgde voorbereidend beroepsonderwijs wordt bekostigd uit de openbare kas;  
 
-b. een instelling als bedoeld in [artikel 1.1.1. onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);    
+b. een instelling als bedoeld in artikel 1.1.1. onderdeel b, van de Wet educatie en beroepsonderwijs;    
 
 – *praktijkleren:* alle vormen van leren in de beroepspraktijk of met behulp van de beroepspraktijk die in combinatie met theorieonderwijs strekken tot het behalen van een diploma in het voorbereidend middelbaar beroepsonderwijs of middelbaar beroepsonderwijs;  
 
@@ -994,11 +1026,11 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  7.6  
 
-Bij de toepassing van [artikel 6 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) blijven de aanvullende vergoedingen op grond van de [Regeling innovatiebox beroepsonderwijs 2006-2009](../../../../../../../../../ministeriele-regeling/regeling/innovatiebox/beroepsonderwijs/2006/tot/en/met/2009/BWBR0019905/README.md) en de [Regeling stagebox beroepsonderwijs 2006 tot en met 2010](../../../../../../../../../ministeriele-regeling/regeling/stagebox/beroepsonderwijs/2006/tot/en/met/2010/BWBR0020403/README.md) buiten beschouwing.  
+Bij de toepassing van artikel 6 van het Kaderbesluit EZ-subsidies blijven de aanvullende vergoedingen op grond van de Regeling innovatiebox beroepsonderwijs 2006-2009 en de Regeling stagebox beroepsonderwijs 2006 tot en met 2010 buiten beschouwing.  
 
 ### Artikel  7.7  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is drie jaar voor de in artikel 7.2 genoemde activiteiten.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies, is drie jaar voor de in artikel 7.2 genoemde activiteiten.  
 
 ### Artikel  7.8  
 
@@ -1015,11 +1047,11 @@ d. onvoldoende aannemelijk is dat de samenwerking leidt tot verbetering van het 
 e. de kosten van het project niet in verhouding zijn met de activiteiten en de te verwachten resultaten, met name voor de MKB-ondernemers;  
 
 f. onvoldoende vertrouwen bestaat in de structurele voortzetting van de activiteiten, bedoeld in artikel 7.2, onderdeel b, indien het project mede is gericht op duurzame verankering als daar bedoeld.     
-2.  De afwijzingsgronden, genoemd in [artikel 23, onderdelen a, b, d, e en f, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+2.  De afwijzingsgronden, genoemd in artikel 23, onderdelen a, b, d, e en f, van het Kaderbesluit EZ-subsidies zijn niet van toepassing.   
 
 ### Artikel  7.9  
 
-In afwijking van [artikel 46, vierde lid](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [47, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt het voorschot 80 procent van het bij de subsidieverlening vermelde maximale subsidiebedrag.  
+In afwijking van artikel 46, vierde lid, en 47, tweede lid, van het Kaderbesluit EZ-subsidies bedraagt het voorschot 80 procent van het bij de subsidieverlening vermelde maximale subsidiebedrag.  
 
 ### Artikel  7.10  
 
@@ -1044,48 +1076,58 @@ b. een subsidievaststelling is opgenomen in bijlage 5.3.
 
 ### Hoofdstuk  8  
 
-####Borgstelling scheepsnieuwbouw
+####Garantie scheepsnieuwbouwfinanciering
 
 ### Artikel  8.1  
 
 In dit hoofdstuk wordt verstaan onder: 
 
-– *contractprijs:* de tussen opdrachtgever en scheepswerf overeengekomen prijs voor de bouw van een schip, met inbegrip van stelposten voor zover daarvoor in het contract vaste of geschatte bedragen zijn opgenomen en met uitzondering van de eventueel verschuldigde omzetbelasting;  
+− *contractprijs:* de tussen opdrachtgever en scheepswerf overeengekomen prijs voor de bouw van een schip, met inbegrip van stelposten voor zover daarvoor in het contract vaste of geschatte bedragen zijn opgenomen en met uitzondering van de eventueel verschuldigde omzetbelasting;  
 
-– *kredietbedrag:* het bedrag dat op grond van de kredietovereenkomst als krediet wordt verstrekt voor de bouw in Nederland van een nieuw schip;  
+− *kredietbedrag:* het bedrag dat op grond van de kredietovereenkomst als krediet wordt verstrekt ten behoeve van de bouw in Nederland van een nieuw schip;  
 
-– *kredietovereenkomst:* schriftelijke overeenkomst tussen een scheepswerf en een financier waarbij de financier krediet verstrekt aan een scheepswerf voor de bouw in Nederland van een nieuw schip;  
+− *kredietovereenkomst:* schriftelijke overeenkomst tussen een scheepswerf en een financier waarbij de financier op verzoek van de scheepswerf krediet verstrekt aan de scheepswerf voor de bouw in Nederland van een nieuw schip;  
 
-– *opdrachtgever:* natuurlijke of rechtspersoon die opdracht heeft gegeven tot de bouw van een schip;  
+− *opdrachtgever:* natuurlijke of rechtspersoon die opdracht heeft gegeven tot de bouw van een schip;  
 
-– *scheepswerf:* een ondernemer die schepen ontwerpt, ontwikkelt, bouwt en uitrust, hetzij zelfstandig, hetzij deel uitmakend van een groep;  
+− *scheepswerf:* een ondernemer die schepen ontwerpt, ontwikkelt, bouwt en uitrust, hetzij zelfstandig, hetzij deel uitmakend van een groep;  
 
-– *schip:* een zichzelf voortstuwend schip, met een minimaal vermogen van 365 kW of een minimaal tonnage van 500 bruto ton, niet zijnde een schip dat overeenkomstig zijn fundamentele en technisch vermogen is bedoeld om voor militaire doeleinden te worden gebruikt.    
+− *schip:* een zichzelf voortstuwend schip, met een minimaal vermogen van 365 kW of een minimaal tonnage van 500 bruto ton, niet zijnde een schip dat overeenkomstig zijn fundamentele en technisch vermogen is bedoeld om voor militaire doeleinden te worden gebruikt.    
 
 ### Artikel  8.2  
 
-Voor de toepassing van dit hoofdstuk wordt als financier aangewezen een bank, niet zijnde een bank die tevens beleggingsonderneming is.  
+Voor de toepassing van dit hoofdstuk wordt als financier aangewezen een bank, niet zijnde een bank die uitsluitend beleggingsonderneming is.  
 
 ### Artikel  8.3  
 
-1.  De minister verstrekt op aanvraag subsidie aan een financier voor het verstrekken van een krediet aan een in Nederland gevestigde scheepswerf ten behoeve van de bouw in Nederland van een nieuw schip.   
-2.  De subsidie wordt verstrekt in de vorm van een borgstelling voor de terugbetaling van een krediet dat de financier op grond van een kredietovereenkomst aan een scheepswerf heeft verstrekt.   
+1.  De minister verstrekt op aanvraag subsidie aan een financier voor het verstrekken van een krediet aan een scheepswerf ten behoeve van de bouw in Nederland van een nieuw schip.   
+2.  De subsidie wordt verstrekt in de vorm van een garantstelling.   
 
 ### Artikel  8.4  
 
-1.  Er wordt borg gestaan voor 80 procent van het kredietbedrag, of voor zoveel minder als door de financier is aangevraagd.   
-2.  Er wordt geen borg gestaan voor de kosten die de financier in rekening brengt aan de scheepswerf, met uitzondering van de kosten van de financiering van de bouw van het schip.   
+1.  Er wordt garant gestaan voor maximaal 80 procent van de financiële verplichtingen die ingevolge artikel 2 van de overeenkomst tot garantstelling die is opgemaakt conform het model dat is opgenomen in bijlage 8.1, onder de garantstelling vallen.   
+2.  Er wordt niet garant gestaan voor de kosten die de financier in rekening brengt aan de scheepswerf, met uitzondering van de kosten ten behoeve van de financiering van de bouw van het schip.   
 
 ### Artikel  8.5  
 
-1.  De financier dient de aanvraag om borgstelling in binnen zeven werkdagen na het sluiten van de kredietovereenkomst.   
-2.  De minister stuurt de financier en de scheepswerf binnen vijf werkdagen een bevestiging van ontvangst van de aanvraag.   
+1.  Er is een Adviescommissie Garantieregeling scheepsnieuwbouwfinanciering die tot taak heeft de minister op zijn verzoek te adviseren omtrent: 
+
+a. de afwijzingsgronden voor aanvragen om garantstelling, bedoeld in artikelen 22 en 24 van het Kaderbesluit EZ-subsidies en bedoeld in artikel 8.7;  
+
+b. de bepaling van het tarief van de provisie bedoeld in artikel 8.10, tweede lid.     
+2.  De commissie bestaat uit ten minste drie en ten hoogste vijf leden.   
+3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste drie jaar benoemd.   
 
 ### Artikel  8.6  
 
+1.  De financier dient de aanvraag om een garantstelling in binnen zeven werkdagen na het sluiten van de kredietovereenkomst.   
+2.  De minister stuurt de financier binnen vijf werkdagen een bevestiging van ontvangst van de aanvraag.   
+
+### Artikel  8.7  
+
 De minister beslist afwijzend op een aanvraag om subsidie indien: 
 
-a. de Staat ten behoeve van de scheepswerf reeds een garantie, borgstelling, verzekering of herverzekering voor de financiering van de bouw van het schip heeft afgegeven;  
+a. ten laste van de Staat een garantstelling, borgstelling, verzekering of herverzekering voor een kredietovereenkomst voor de bouw van hetzelfde schip is afgegeven;  
 
 b. de contractprijs minder dan € 3.000.000 of meer dan € 100.000.000 bedraagt;  
 
@@ -1093,59 +1135,53 @@ c. onvoldoende vertrouwen bestaat in de technische en economische haalbaarheid v
 
 d. het kredietbedrag meer dan 80 procent van de contractprijs betreft;  
 
-e. de kredietovereenkomst ten aanzien van het kredietbedrag een looptijd heeft van meer dan 36 maanden;  
+e. de kredietovereenkomst ten aanzien van het kredietbedrag een looptijd heeft van meer dan 36 maanden of de looptijd van de kredietovereenkomst langer is dan de termijn voor de bouw en technische-/financiële oplevering van het schip;  
 
-f. de financier op het moment van het verstrekken van het kredietbedrag waarvoor de Staat borg staat een lopende financieringsfaciliteit verlaagt;  
+f. de financier op het moment van het verstrekken van het kredietbedrag waarvoor de Staat garant staat een lopende financieringsfaciliteit verlaagt;  
 
-g. de financier onvoldoende de naar normaal bankgebruik maximaal mogelijke zekerheden heeft gevestigd of zal vestigen bij de verstrekking van het kredietbedrag aan de scheepswerf;  
+g. de financier onvoldoende naar normaal bankgebruik te vestigen zekerheden heeft gevestigd of zal vestigen bij de verstrekking van het kredietbedrag aan de scheepswerf;  
 
-h. door de verlening van de borgstelling het totaal van de op grond van dit besluit verleende borgstellingen ten behoeve van de scheepswerf of van de groep, waartoe deze scheepswerf behoort, meer zou bedragen dan 30 procent van het subsidieplafond;  
+h. door de verlening van de garantstelling het totaal van de op grond van dit hoofdstuk verleende garantstellingen ten behoeve van de scheepswerf of van de groep, waartoe deze scheepswerf behoort, meer zou bedragen dan 30 procent van het subsidieplafond;  
 
 i. gegronde vrees bestaat dat de scheepswerf zich in financiële moeilijkheden bevindt;  
 
-j. onvoldoende vertrouwen bestaat dat de scheepswerf de capaciteiten heeft om de bouw van het schip naar behoren uit te voeren;  
+j. de rentabiliteits- en continuïteitsperpectieven van de scheepswerf onvoldoende bevredigend zijn;  
 
-k. uit het contract tussen de opdrachtgever en de scheepswerf die de opdracht uit zal voeren niet blijkt dat de opdrachtgever, ter zake van de opdracht waarvoor de scheepswerf een kredietovereenkomst heeft afgesloten, voorafgaand aan een uitbetaling van krediet op grond van de kredietovereenkomst, een of meer aanbetalingen doet ter hoogte van ten minste 5 procent van de contractsprijs;  
+k. onvoldoende vertrouwen bestaat dat de scheepswerf de capaciteiten heeft om de bouw van het schip naar behoren uit te voeren;  
 
-l. uit het contract tussen de opdrachtgever en de scheepswerf die de opdracht uit zal voeren niet blijkt dat de aanbetaling door de opdrachtgever, ter zake van de opdracht waarvoor de scheepswerf een kredietovereenkomst heeft afgesloten, oploopt tot ten minste 20 procent van de contractsprijs tot aflevering van het schip;  
+l. uit het contract tussen de opdrachtgever en de scheepswerf die de opdracht zal uitvoeren niet blijkt dat de opdrachtgever, ter zake van de opdracht waarvoor de scheepswerf een kredietovereenkomst heeft afgesloten, voorafgaand aan een uitbetaling van het krediet op grond van de kredietovereenkomst, een of meer aanbetalingen doet ter hoogte van ten minste 5 procent van de contractprijs;  
 
-m. van de bouw van het schip onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.    
+m. uit het contract tussen de opdrachtgever en de scheepswerf die de opdracht zal uitvoeren niet blijkt dat de aanbetaling door de opdrachtgever, ter zake van de opdracht waarvoor de scheepswerf een kredietovereenkomst heeft afgesloten, oploopt tot ten minste 20 procent van de contractprijs tot aflevering van het schip;  
 
-### Artikel  8.7  
-
-De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.  
+n. van de bouw van het schip onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.    
 
 ### Artikel  8.8  
 
-Het model voor de overeenkomst van borgtocht is opgenomen in bijlage 8.1.  
+De minister verdeelt het subsidieplafond voor het stellen van garanties op volgorde van binnenkomst van de aanvragen.  
 
 ### Artikel  8.9  
 
-De overeenkomst van borgtocht bevat: 
-
-a. een bepaling dat de financier uiterlijk tien weken na de beschikking tot het verlenen van een borgstelling, behoudens voorafgaande schriftelijke verlenging door de minister, aantoont dat de opdrachtgever en de scheepswerf ter zake van de opdracht een contract hebben zonder opschortende voorwaarden en dat de opdrachtgever ter zake van de opdracht een of meer betalingen heeft gedaan;  
-
-b. de verplichting van de financier onverwijld mededeling te doen aan de minister van een verzoek tot verlening van surseance van betaling of tot faillietverklaring van de scheepswerf of de opdrachtgever.    
+Het model voor de overeenkomst tot garantstelling is opgenomen in bijlage 8.1.  
 
 ### Artikel  8.10  
 
-1.  Het tarief van de provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), bedraagt jaarlijks tussen 0,8 procent en 1,5 procent van het bedrag dat op enig moment gedurende de bouw van een schip op basis van een kredietovereenkomst daadwerkelijk door een scheepswerf in krediet is opgenomen.   
-2.  De minister bepaalt in de beschikking tot verlening van borgstelling het tarief per individuele borgstelling.   
+1.  Het tarief van de provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies, bedraagt jaarlijks tussen 0,39 procent en 4,19 procent van het bedrag dat op enig moment gedurende de bouw van een schip op basis van een kredietovereenkomst daadwerkelijk door een scheepswerf als krediet is opgenomen.   
+2.  De minister bepaalt in de beschikking tot verlening van subsidie in de vorm van een garantstelling het tarief per individuele garantstelling.   
 3.  Het tarief, bedoeld in het tweede lid, wordt zodanig vastgesteld dat: 
 
-a. het marktconform is,  
+a. het marktconform is;  
 
-b. de provisie zowel de met de borgstellingstoekenning verbonden risico’s als de beheerkosten dekt;  
+b. de provisie zowel de met de garantstelling verbonden risico´s als de beheerskosten dekt;  
 
-c. rekening wordt gehouden met een realistische risicowaardering.     
+c. rekening wordt gehouden met een realistische risicoanalyse.     
 
 ### Artikel  8.11  
 
-De minister beziet eenmaal per jaar of de bij hoofdstuk 8 van deze regeling gestelde voorwaarden moeten worden herzien.  
+De minister beziet eenmaal per jaar of de in dit hoofdstuk gestelde vereisten moeten worden herzien.  
 
 ### Artikel  8.12  
 
-Het formulier voor het indienen van een aanvraag om borgstelling is opgenomen in bijlage 8.2.  
+Het formulier voor het indienen van een aanvraag om garantstelling is opgenomen in bijlage 8.2.  
 
 ### Hoofdstuk  9  
 
@@ -1224,7 +1260,7 @@ j. de adresgegevens van de vestiging in het handelsregister niet overeenkomen me
 k. de veiligheidsscan op het moment van de ontvangst van de aanvraag ouder is dan negen maanden;  
 
 l. reeds subsidie is verstrekt door de Minister van Veiligheid en Justitie.     
-2.  De afwijzingsgronden, genoemd in [artikel 23, onderdelen b, c, d, e, f en h, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+2.  De afwijzingsgronden, genoemd in artikel 23, onderdelen b, c, d, e, f en h, van het Kaderbesluit EZ-subsidies zijn niet van toepassing.   
 
 ### §  3  
 
@@ -1240,7 +1276,7 @@ De subsidie voor de veiligheidsmaatregelen bedraagt 50 procent van de subsidiabe
 
 ### Artikel  9.9  
 
-1.  In afwijking van [artikel 10 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) komen voor subsidie in aanmerking: 
+1.  In afwijking van artikel 10 van het Kaderbesluit EZ-subsidies komen voor subsidie in aanmerking: 
 
 a. de rechtstreeks aan de veiligheidsmaatregelen toe te rekenen gemaakte kosten van derden;  
 
@@ -1248,8 +1284,8 @@ b. de periodiek terugkerende kosten van de koop van zaken ter uitvoering van de 
 
 c. de overige periodiek terugkerende kosten met betrekking tot de veiligheidsmaatregelen voor het eerste jaar.     
 2.  Onderhoudskosten komen niet voor subsidie in aanmerking.   
-3.  In afwijking van [artikel 10, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) komen voor de aanvraag gemaakte kosten voor subsidie in aanmerking.   
-4.  [Artikel 10, derde en vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
+3.  In afwijking van artikel 10, tweede lid, van het Kaderbesluit EZ-subsidies komen voor de aanvraag gemaakte kosten voor subsidie in aanmerking.   
+4.  Artikel 10, derde en vijfde lid, van het Kaderbesluit EZ-subsidies is niet van toepassing.   
 
 ### Artikel  9.10  
 
@@ -1278,7 +1314,7 @@ d. de veiligheidsadviseur betrokken is bij de verwezenlijking van de in zijn vei
 e. een veiligheidsmaatregel bestaat uit het plaatsen van een camerabewakingsysteem zonder bijbehorend door de leverancier of installateur voor de vestiging opgesteld organisatorisch plan;  
 
 f. de MKB-ondernemer voorafgaand aan de veiligheidsscan een verplichting is aangegaan met betrekking tot een veiligheidsmaatregel waarvoor subsidie wordt aangevraagd.     
-3.  De afwijzingsgronden, genoemd in [artikel 23, onderdelen b, c, d, e, f en h, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+3.  De afwijzingsgronden, genoemd in artikel 23, onderdelen b, c, d, e, f en h, van het Kaderbesluit EZ-subsidies zijn niet van toepassing.   
 
 ### §  4  
 
@@ -1295,6 +1331,10 @@ b. subsidie op grond van artikel 9.7 is opgenomen in bijlage 9.4.
 ### Hoofdstuk  10  
 
 ####Slotbepalingen
+
+### Artikel  10.0  
+
+Wijzigt deze regeling.   
 
 ### Artikel  10.1  
 
@@ -1319,7 +1359,7 @@ M.J.A. van derHoeven
 Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere voorschriften controle- en overige standaarden (ex Artikel A-130.7 VGC) van het NIVRA. In het rapport van feitelijke bevindingen rapporteert de accountant over de hieronder genoemde aspecten en aandachtspunten van de integrale kostensystematiek.  
 
 | 1. Beschrijving integrale kostensystematiek  |
-|:---|
+|---|
 |  *Opzet systematiek*   |
 | 1.1  | Welke kostendragers gebruikt de organisatie in de integrale kostensystematiek?  |
 | 1.2  | Hoe worden de indirecte kosten toegerekend aan de kostendragers?  |
@@ -1334,7 +1374,7 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 | 1.9  | Zijn de kosten voor machines en apparatuur onderdeel van de integrale kostensystematiek? Zo ja, geldt dat voor alle machines en apparatuur of zijn er ook machines en apparaten die in projecten als aparte post worden begroot?  |
 
 | 2. Basisvoorwaarden integrale kostensystematiek  |
-|:---|
+|---|
 | 2.1  | De toerekeningssystematiek en -principes (verdeelsleutels en -mechanismen van indirecte kosten; normen voor percentages, etc.) worden in de hele organisatie stelselmatig toegepast.  |
 | 2.2  | Kosten worden op een bedrijfseconomische aanvaardbare en stelselmatige wijze aan kostendragers toegerekend. Deze toerekening is transparant en controleerbaar.  |
 | 2.3  | Specifieke indirecte kosten van bepaalde activiteiten worden niet toegerekend aan andere activiteiten. *Bijvoorbeeld: specifieke indirecte kosten van onderwijsactiviteiten worden niet toegerekend aan onderzoeksactiviteiten en specifieke indirecte kosten van de marketingafdeling worden niet toegerekend aan R&D activiteiten.*  |
@@ -1343,10 +1383,10 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 | 2.6  | In de systematiek zijn geen winstopslagen opgenomen <sup>1</sup>  |
 | 2.7  | In de systematiek zijn geen toeslagen voor risico’s opgenomen.  |
 
-<sup>1</sup> Winstopslagen bij transacties binnen een groep worden wel in aanmerking genomen, maar alleen voor zover het gebruikelijk is die winstopslagen ook bij soortgelijke transacties buiten de groep in rekening te brengen ([art. 10 lid 5 Kaderbesluit EZ subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md)).  
+<sup>1</sup> Winstopslagen bij transacties binnen een groep worden wel in aanmerking genomen, maar alleen voor zover het gebruikelijk is die winstopslagen ook bij soortgelijke transacties buiten de groep in rekening te brengen (art. 10 lid 5 Kaderbesluit EZ subsidies).  
 
 | 3. Niet in de integrale kostensystematiek op te nemen kostencomponenten  |
-|:---|
+|---|
 | 3.1  | Kosten van algemene research <sup>1</sup>.  |
 | 3.2  | Kosten die al door de overheid of derden zijn of worden gefinancierd. *Bijvoorbeeld afschrijvingskosten van reeds gefinancierde gebouwen, installaties en apparatuur.*  |
 | 3.3  | Kosten die het gevolg zijn van buitensporige of roekeloze uitgaven <sup>2</sup>.  |
@@ -1366,7 +1406,7 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 
 ### Bijlage  2.1  
 
-####Model overeenkomst als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 2.9, eerste lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bedrijfsborgstellingskrediet; één bank)
+####Model overeenkomst als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 2.9, eerste lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bedrijfsborgstellingskrediet; één bank)
 
 ####Model voor een bedrijfsborgstellingskredietovereenkomst met één bank
 
@@ -1380,13 +1420,13 @@ Overeenkomst tussen:
 
 ####Definitiebepalingen
 
-1. De begrippen die in het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen zijn gedefinieerd hebben in deze overeenkomst de in deze regelingen gegeven betekenis.  
+1. De begrippen die in het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen zijn gedefinieerd hebben in deze overeenkomst de in deze regelingen gegeven betekenis.  
 
 2. Voorts wordt in deze overeenkomst verstaan onder: 
 
 a. *bankfaciliteit:* krediet of een deel van een krediet waarvoor de Staat niet borg of garant staat: 
 
-1°. op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md), het Besluit borgstelling MKB-kredieten, dan wel de [Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md); of  
+1°. op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997, het Besluit borgstelling MKB-kredieten, dan wel de Regeling LNV-subsidies; of  
 
 2°. vanwege de overname van de verplichtingen van Stichting Borgstellingsfonds voor de Landbouw;    
 
@@ -1408,7 +1448,7 @@ e. *groep:* een economische eenheid, waarin organisatorisch zijn verbonden:
 
 2°. laatstbedoelde rechtspersonen of vennootschappen;    
 
-f. *innovatieve MKB-ondernemer:* een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in [artikel 23, eerste lid](../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), of [artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
+f. *innovatieve MKB-ondernemer:* een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in artikel 23, eerste lid, of artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
 
 g. *krediet:* bedrag dat de Bank uit hoofde van een kredietovereenkomst verstrekt of zal verstrekken;  
 
@@ -1446,7 +1486,7 @@ m. liquiditeitsopslag: een door een financier aan een ondernemer in rekening geb
 
 ####Borgstelling
 
-De Staat stelt zich borg ten behoeve van de Bank voor de terugbetaling van bedrijfsborgstellingskredieten die met inachtneming van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Bank worden verstrekt, met dien verstande dat deze borgstelling wordt aangegaan onder de navolgende bedingen.  
+De Staat stelt zich borg ten behoeve van de Bank voor de terugbetaling van bedrijfsborgstellingskredieten die met inachtneming van het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Bank worden verstrekt, met dien verstande dat deze borgstelling wordt aangegaan onder de navolgende bedingen.  
 
 ### Artikel  3  
 
@@ -1470,19 +1510,21 @@ g. indien de kredietovereenkomst in schriftelijke vorm is aangegaan;
 
 h. indien de bank in de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet wordt verstrekt een verplichting voor de MKB-ondernemer is opgenomen om alle medewerking te verlenen aan het uitoefenen door de Staat van de in artikel 20, eerste lid, genoemde bevoegdheden;  
 
-i. indien de Bank in de door haar gesloten borgstellingsovereenkomst met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend een beding ten behoeve van de Staat heeft opgenomen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de Staat en de Bank geen bedingen heeft opgenomen, ertoe leidende dat: 
+i. indien de Bank in de door haar gesloten borgstellingsovereenkomst met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend een beding ten behoeve van de Staat heeft opgenomen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de Staat en de Bank geen bedingen heeft opgenomen, ertoe leidende dat: 
 
 1°. een borg er zich op zou kunnen beroepen dat de Staat eerst zou moeten worden aangesproken,  
 
-2°. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);    
+2°. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek;    
 
 j. indien door de Bank gelijktijdig met het sluiten van de kredietovereenkomst, uit hoofde waarvan een bedrijfsborgstellingskrediet aan de MKB-ondernemer wordt verstrekt, met de MKB-ondernemer een kredietovereenkomst is gesloten uit hoofde waarvan de MKB-ondernemer over een bankfaciliteit beschikt, die niet bestemd is en niet gebruikt wordt voor de aflossing van bankfaciliteiten waarover de MKB-ondernemer beschikt bij de Bank of een Bank-gelieerde of aan een rechtspersoon waarmee de Bank in een groep verbonden is;  
 
 k. indien de bankfaciliteit, bedoeld in het eerste lid, onderdeel j, ten minste 100 procent bedraagt van het bedrijfsborgstellingskrediet, of, 
 
-1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was, of  
+1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was;  
 
-2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was;    
+2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was, of  
+
+3°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien sprake is van een bedrijfsborgstellingskrediet, dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de Bank bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te willen maken;    
 
 l. indien de looptijd van de onder k bedoelde bankfaciliteit ten minste even lang is als de looptijd van het bedrijfsborgstellingskrediet.    
 
@@ -1500,7 +1542,7 @@ a. de MKB-ondernemer:
 
 2°. is in Nederland gevestigd en voert daar een substantieel deel van de activiteiten van de onderneming uit;  
 
-3°. is geen aanbieder als bedoeld in [artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), noch oefent hij het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder uit;  
+3°. is geen aanbieder als bedoeld in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg, noch oefent hij het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder uit;  
 
 4°. houdt geen onderneming in stand waarvan de laatste jaaromzet voor 50 procent of meer is verkregen, of, indien de onderneming nog geen heel jaar is gedreven, waarvan de omzet naar verwachting voor 50 procent of meer zal worden verkregen, uit: 
 
@@ -1510,9 +1552,9 @@ a. de MKB-ondernemer:
 
 – het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
 
-5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de [Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
 
-6°. beschikt niet over een door een andere bank verstrekte kredietfaciliteit, waarvoor de Staat op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md) of het Besluit borgstelling MKB-kredieten borg staat.    
+6°. beschikt niet over een door een andere bank of kredietverstrekker verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
 
 b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de Bank naar normaal bankgebruik het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
 
@@ -1552,17 +1594,17 @@ b. De Bank heeft er voor zorg gedragen dat:
 
 ####Provisie
 
-1. Het tarief van de provisie bedraagt jaarlijks: 
+1. Het tarief van de provisie bedraagt eenmalig: 
 
-a. 2 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van niet langer dan twee jaar,  
+a. 3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van niet langer dan twee jaar,  
 
-b. 2,4 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan twee jaar, maar niet langer dan vier jaar,  
+b. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan twee jaar, maar niet langer dan vier jaar,  
 
-c. 2,8 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan vier jaar, maar niet langer dan zes jaar,  
+c. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan vier jaar, maar niet langer dan zes jaar,  
 
-d. 3,2 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan zes jaar, maar niet langer dan negen jaar en  
+d. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan zes jaar, maar niet langer dan negen jaar en  
 
-e. 3,6 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.    
+e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.    
 
 2. Indien overeenkomstig artikel 3, onderdeel b, een provisie is betaald met betrekking tot een kredietovereenkomst en indien het desbetreffende krediet niet is opgenomen vanwege omstandigheden die niet zijn toe te rekenen aan de kredietnemer of aan de Bank, wordt de provisie door de Staat terugbetaald aan de Bank mits de Bank binnen een jaar na het sluiten van de kredietovereenkomst daartoe een verzoek aan de Staat heeft gedaan.    
 
@@ -1570,7 +1612,7 @@ e. 3,6 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 ####Maximale omvang van de borgstelling
 
-1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.000.000 niet overschrijdt.  
+1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.500.000 niet overschrijdt.  
 
 2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 200.000 niet overschrijdt.  
 
@@ -1582,7 +1624,9 @@ e. 3,6 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 a. bedrijfsborgstellingskredieten die op een eerder tijdstip overeenkomstig artikel 6 zijn gemeld, slechts voor het met overeenkomstige toepassing van de artikelen 9 en 10 berekende gedeelte van die bedrijfsborgstellingskredieten in aanmerking genomen;  
 
-b. kredieten, voor zover de Staat daarvoor op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het Besluit borgstelling MKB-kredieten, of het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md) nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.      
+b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.    
+
+6. In afwijking van het eerste lid, overschrijdt het totaal van de bedrijfsborgstellingskredieten per kalenderjaar een bedrag van € 200.000 niet, indien de Bank heeft aangegeven van de mogelijkheid, bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°, gebruik te maken.    
 
 ### Artikel  9  
 
@@ -1596,7 +1640,7 @@ a. het bedrijfsborgstellingskrediet uitsluitend is bestemd voor de betaling van 
 
 b. deze onroerende zaak voor ten minste de helft bestemd is te worden gebruikt voor de onderneming van de MKB-ondernemer, en  
 
-c. de Bank met betrekking tot de onder a bedoelde kosten bankfaciliteiten verstrekt die een bedrag van ten minste 100 procent van de in onderdeel a bedoelde kosten belopen, dan wel, indien sprake is van een starters-borgstellingskrediet, 33,3 procent van dit bedrijfsborgstellingskrediet.    
+c. de Bank met betrekking tot de onder a bedoelde kosten bankfaciliteiten verstrekt die een bedrag van ten minste 100 procent van de in onderdeel a bedoelde kosten belopen, dan wel, indien sprake is van een starters-borgstellingskrediet of een bedrijfsborgstellingskrediet dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de Bank bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te maken, 33,3 procent van dit bedrijfsborgstellingskrediet.    
 
 3. Voor de toepassing van het eerste lid geldt in plaats van een periode van ten hoogste zes jaar een periode van ten hoogste twaalf jaar indien het bedrijfsborgstellingskrediet is verstrekt aan een innovatieve MKB-ondernemer.  
 
@@ -1622,7 +1666,7 @@ c. de Bank de opschorting meldt binnen 35 dagen na aanvang van de opschorting on
 
 9. Indien een bedrijfsborgstellingskrediet wordt aangewend voor herfinanciering van een bedrijfsborgstellingskrediet, dat eerder is gebruikt voor de in het tweede lid, onder a en b genoemde doelen, en tevens is voldaan aan het tweede lid, onder b en c, is de nieuwe periode ten hoogste gelijk aan de periode waarvoor het bedrijfsborgstellingskrediet nog zou hebben gelopen zonder herfinanciering, indien en voor zover deze restperiode meer bedraagt dan zes jaar.  
 
-10. Voor de toepassing van het zesde lid wordt onder een onroerende zaak mede begrepen schepen en vliegtuigen, voor zover deze zijn ingeschreven in de registers als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Kadasterwet](../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede ieder goederenrechtelijk recht dat omvat het uitsluitend gebruik van een onroerende zaak, met inbegrip van bovenbedoelde schepen en vliegtuigen.    
+10. Voor de toepassing van het zesde lid wordt onder een onroerende zaak mede begrepen schepen en vliegtuigen, voor zover deze zijn ingeschreven in de registers als bedoeld in artikel 8, eerste lid, onderdeel a, van de Kadasterwet, alsmede ieder goederenrechtelijk recht dat omvat het uitsluitend gebruik van een onroerende zaak, met inbegrip van bovenbedoelde schepen en vliegtuigen.    
 
 ### Artikel  10  
 
@@ -1648,7 +1692,7 @@ c. de Bank de opschorting meldt binnen 35 dagen na aanvang van de opschorting on
 
 ####Berekening omvang borgstelling bij uitbetalen
 
-1. De omvang van de borgstelling bedraagt per MKB-ondernemer 90 procent van hetgeen de MKB-ondernemer ten tijde van het overeenkomstig artikel 13 ingediende verzoek uit hoofde van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten pro resto verschuldigd is, doch 
+1. De omvang van de borgstelling bedraagt per MKB-ondernemer 90 procent van hetgeen de MKB-ondernemer ten tijde van het overeenkomstig artikel 11 ingediende verzoek uit hoofde van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten pro resto verschuldigd is, doch 
 
 a. ten hoogste 90 procent van de met toepassing van de artikelen 8, 9 en 10 berekende omvang van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten, en  
 
@@ -1664,7 +1708,9 @@ b. indien het bedrijfsborgstellingskrediet is verstrekt aan een MKB-ondernemer d
 
 a. de bedragen die een Bank-gelieerde uit hoofde van een overeenkomst aan de MKB-ondernemer ter leen verstrekt of zal verstrekken, en  
 
-b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.      
+b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.    
+
+4. In afwijking van het eerste lid, aanhef en onderdeel b, bedraagt de omvang van de borgstelling ten hoogste drie maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte bankfaciliteiten van de Bank voor de MKB-ondernemer indien sprake is van een bedrijfsborgstellingskrediet, als bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°.    
 
 ### Artikel  13  
 
@@ -1706,7 +1752,7 @@ b. indien de Bank in het kader van het verzoek gegevens heeft verstrekt, waarvan
 
 1. De Bank betaalt de vanaf het moment van de indiening van een verzoek om betaling als bedoeld in artikel 11 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de Staat.  
 
-2. Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 14, eerste lid, ontvangen zijn wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten, tenzij opbrengsten niet ontvangen zijn uit hoofde van uitwinning.  
+2. Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 14, eerste lid, ontvangen zijn wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten, tenzij opbrengsten ontvangen zijn uit hoofde van uitwinning.  
 
 3. De Bank zal de rekening, bedoeld in artikel 13, vierde lid, per de datum van verzending van het verzoek, bedoeld in artikel 11, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 9, op grond van artikel 10 is geschorst.  
 
@@ -1748,7 +1794,7 @@ Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeis
 
 ####Controle bedrijfsborgstellingskrediet
 
-1. De Bank, en indien toepassing is gegeven aan de artikelen 3, tweede lid, en 12, derde lid, de Bank-gelieerde, en de MKB-ondernemer voldoen aan hetgeen door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en met het oog op de nakoming door de Staat van op de Staat rustende internationaalrechtelijke verplichtingen, en voor zover het betrekking heeft op de uit het besluit of deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank of de Bank-gelieerde de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt of de met deze MKB-ondernemer gesloten kredietovereenkomsten, omtrent: 
+1. De Bank, en indien toepassing is gegeven aan de artikelen 3, tweede lid, en 12, derde lid, de Bank-gelieerde, en de MKB-ondernemer voldoen aan hetgeen door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het Kaderbesluit EZ-subsidies, hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en met het oog op de nakoming door de Staat van op de Staat rustende internationaalrechtelijke verplichtingen, en voor zover het betrekking heeft op de uit het besluit of deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank of de Bank-gelieerde de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt of de met deze MKB-ondernemer gesloten kredietovereenkomsten, omtrent: 
 
 a. het toegang verlenen tot door hen gebruikte plaatsen;  
 
@@ -1784,11 +1830,11 @@ d. opeising van het bedrijfsborgstellingskrediet.
 
 2. De Bank zal er voor zorg dragen dat het bedrijfsborgstellingskrediet niet wordt gebruikt voor de nakoming van verplichtingen van de MKB-ondernemer aan de Bank die het bedrijfsborgstellingskrediet verstrekt, aan een Bank-gelieerde of aan een rechtspersoon waarmee de Bank in een groep verbonden is.  
 
-3. De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de Staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend, een beding ten behoeve van de Staat opnemen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de Staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
+3. De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de Staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend, een beding ten behoeve van de Staat opnemen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de Staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
 
 a. een borg er zich op zou kunnen beroepen dat de Staat eerst zou moeten worden aangesproken;  
 
-b. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).    
+b. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek.    
 
 4. De Bank draagt er zorg voor dat de relaties tussen haar en de bij haar onderneming betrokkenen enerzijds, en de ondernemer aan wie een bedrijfsborgstellingskrediet is verstrekt anderzijds transparant zijn.    
 
@@ -1808,7 +1854,7 @@ Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze
 
 ####Overige bepalingen
 
-1. De inwerkingtreding van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.  
+1. De inwerkingtreding van een wijziging van het Kaderbesluit EZ-subsidies of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.  
 
 2. Deze overeenkomst kan worden gewijzigd door een schriftelijke mededeling van de minister aan de Bank.  
 
@@ -1816,15 +1862,15 @@ Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze
 
 4. In afwijking van het derde lid kan deze overeenkomst door de minister met onmiddellijke ingang worden ontbonden, indien de Bank in strijd heeft gehandeld met het gestelde in deze overeenkomst.  
 
-5. In afwijking van het derde lid kan de Bank deze overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), publicatie in de Staatscourant van een wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen of een schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.  
+5. In afwijking van het derde lid kan de Bank deze overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het Kaderbesluit EZ-subsidies, publicatie in de Staatscourant van een wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen of een schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.  
 
-6. Deze overeenkomst eindigt van rechtswege door de intrekking van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of door intrekking van artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.  
+6. Deze overeenkomst eindigt van rechtswege door de intrekking van het Kaderbesluit EZ-subsidies of door intrekking van artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.  
 
 7. Wijziging, opzegging, ontbinding of beëindiging van deze overeenkomst heeft geen gevolg ten aanzien van bedrijfsborgstellingskredieten, welke ten tijde van de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging overeenkomstig artikel 3 zijn gemeld en ten aanzien van bedrijfsborgstellingskredieten die zijn of zullen worden verstrekt uit hoofde van een kredietovereenkomst die is aangegaan voor de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging.  
 
 8. Het zevende lid is niet van toepassing ten aanzien van de wijziging van artikel 5 ingevolge de Regeling van de Minister van Economische Zaken van 3 september 2009, nr. WJZ/9155298, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen ten aanzien van de opschortingsvoorwaarden voor borgstelling van MKB-kredieten (Stcrt. 2009, 13666).  
 
-9. Als het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen gelijktijdig worden ingetrokken en vervangen door materieel identieke wettelijke voorschriften in een andere algemene maatregel van bestuur of ministeriële regeling dan is het zesde lid niet van toepassing.    
+9. Als het Kaderbesluit EZ-subsidies en artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen gelijktijdig worden ingetrokken en vervangen door materieel identieke wettelijke voorschriften in een andere algemene maatregel van bestuur of ministeriële regeling dan is het zesde lid niet van toepassing.    
 
 ### Artikel  25  
 
@@ -1839,7 +1885,7 @@ Getekend te ’s-Gravenhage op .....  *De Minister van Economische Zaken, Landbo
 
 ### Bijlage  2.2  
 
-####Model overeenkomst als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 2.9, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bedrijfsborgstellingskrediet; meer dan één bank)
+####Model overeenkomst als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 2.9, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bedrijfsborgstellingskrediet; meer dan één bank)
 
 ####Model voor een bedrijfsborgstellingskredietovereenkomst met één bank
 
@@ -1853,13 +1899,13 @@ Overeenkomst tussen:
 
 ####Definitiebepalingen
 
-1. De begrippen die in het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen zijn gedefinieerd hebben in deze overeenkomst de in deze regelingen gegeven betekenis.  
+1. De begrippen die in het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen zijn gedefinieerd hebben in deze overeenkomst de in deze regelingen gegeven betekenis.  
 
 2. Voorts wordt in deze overeenkomst verstaan onder: 
 
 a. *bankfaciliteit:* krediet of een deel van een krediet waarvoor de Staat niet borg of garant staat: 
 
-1°. op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md), het Besluit borgstelling MKB-kredieten, dan wel de [Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md); of  
+1°. op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997, het Besluit borgstelling MKB-kredieten, dan wel de Regeling LNV-subsidies; of  
 
 2°. vanwege de overname van de verplichtingen van Stichting Borgstellingsfonds voor de Landbouw;    
 
@@ -1881,7 +1927,7 @@ e. *groep:* een economische eenheid, waarin organisatorisch zijn verbonden:
 
 2°. laatstbedoelde rechtspersonen of vennootschappen;    
 
-f. *innovatieve MKB-ondernemer:* een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in [artikel 23, eerste lid](../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md), of [artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](../../../../../../../../../wet/wet/vermindering/afdracht/loonbelasting/en/premie/voor/de/etc/BWBR0007746/README.md) en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
+f. *innovatieve MKB-ondernemer:* een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in artikel 23, eerste lid, of artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de Bank beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
 
 g. *krediet:* bedrag dat de Bank uit hoofde van een kredietovereenkomst verstrekt of zal verstrekken;  
 
@@ -1919,7 +1965,7 @@ m. liquiditeitsopslag: een door een financier aan een ondernemer in rekening geb
 
 ####Borgstelling
 
-De Staat stelt zich borg ten behoeve van de Banken voor de terugbetaling van bedrijfsborgstellingskredieten die met inachtneming van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Banken worden verstrekt, met dien verstande dat deze borgstelling wordt aangegaan onder de navolgende bedingen.  
+De Staat stelt zich borg ten behoeve van de Banken voor de terugbetaling van bedrijfsborgstellingskredieten die met inachtneming van het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Banken worden verstrekt, met dien verstande dat deze borgstelling wordt aangegaan onder de navolgende bedingen.  
 
 ### Artikel  3  
 
@@ -1943,19 +1989,21 @@ g. indien de kredietovereenkomst in schriftelijke vorm is aangegaan;
 
 h. indien de bank in de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet wordt verstrekt een verplichting voor de MKB-ondernemer is opgenomen om alle medewerking te verlenen aan het uitoefenen door de Staat van de in artikel 20, eerste lid, genoemde bevoegdheden;  
 
-i. indien de Bank in de door haar gesloten borgstellingsovereenkomst met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend een beding ten behoeve van de Staat heeft opgenomen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de Staat en de Bank geen bedingen heeft opgenomen, ertoe leidende dat: 
+i. indien de Bank in de door haar gesloten borgstellingsovereenkomst met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend een beding ten behoeve van de Staat heeft opgenomen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de Staat en de Bank geen bedingen heeft opgenomen, ertoe leidende dat: 
 
 1°. een borg er zich op zou kunnen beroepen dat de Staat eerst zou moeten worden aangesproken,  
 
-2°. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);    
+2°. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek;    
 
 j. indien door de Bank gelijktijdig met het sluiten van de kredietovereenkomst, uit hoofde waarvan een bedrijfsborgstellingskrediet aan de MKB-ondernemer wordt verstrekt, met de MKB-ondernemer een kredietovereenkomst is gesloten uit hoofde waarvan de MKB-ondernemer over een bankfaciliteit beschikt, die niet bestemd is en niet gebruikt wordt voor de aflossing van bankfaciliteiten waarover de MKB-ondernemer beschikt bij de Bank of een Bank-gelieerde of aan een rechtspersoon waarmee de Bank in een groep verbonden is;  
 
 k. indien de bankfaciliteit, bedoeld in het eerste lid, onderdeel j, ten minste 100 procent bedraagt van het bedrijfsborgstellingskrediet, of, 
 
-1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was, of  
+1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was;  
 
-2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was;    
+2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was, of  
+
+3°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien sprake is van een bedrijfsborgstellingskrediet, dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de Bank bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te willen maken;    
 
 l. indien de looptijd van de onder k bedoelde bankfaciliteit ten minste even lang is als de looptijd van het bedrijfsborgstellingskrediet.    
 
@@ -1973,7 +2021,7 @@ a. de MKB-ondernemer:
 
 2°. is in Nederland gevestigd en voert daar een substantieel deel van de activiteiten van de onderneming uit;  
 
-3°. is geen aanbieder als bedoeld in [artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), noch oefent hij het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder uit;  
+3°. is geen aanbieder als bedoeld in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg, noch oefent hij het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder uit;  
 
 4°. houdt geen onderneming in stand waarvan de laatste jaaromzet voor 50 procent of meer is verkregen, of, indien de onderneming nog geen heel jaar is gedreven, waarvan de omzet naar verwachting voor 50 procent of meer zal worden verkregen, uit: 
 
@@ -1983,9 +2031,9 @@ a. de MKB-ondernemer:
 
 – het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
 
-5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de [Regeling LNV-subsidies](../../../../../../../../../ministeriele-regeling/regeling/lnv-subsidies/BWBR0021281/README.md) of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
 
-6°. beschikt niet over een door een andere bank verstrekte kredietfaciliteit, waarvoor de Staat op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md) of het Besluit borgstelling MKB-kredieten borg staat.    
+6°. beschikt niet over een door een andere bank of kredietverstrekker verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
 
 b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de Bank naar normaal bankgebruik het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
 
@@ -2025,17 +2073,17 @@ b. De Bank heeft er voor zorg gedragen dat:
 
 ####Provisie
 
-1. Het tarief van de provisie bedraagt jaarlijks: 
+1. Het tarief van de provisie bedraagt eenmalig: 
 
-a. 2 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van niet langer dan twee jaar,  
+a. 3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van niet langer dan twee jaar,  
 
-b. 2,4 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan twee jaar, maar niet langer dan vier jaar,  
+b. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan twee jaar, maar niet langer dan vier jaar,  
 
-c. 2,8 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan vier jaar, maar niet langer dan zes jaar,  
+c. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan vier jaar, maar niet langer dan zes jaar,  
 
-d. 3,2 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan zes jaar, maar niet langer dan negen jaar en  
+d. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan zes jaar, maar niet langer dan negen jaar en  
 
-e. 3,6 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.    
+e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.    
 
 2. Indien overeenkomstig artikel 3, onderdeel b, een provisie is betaald met betrekking tot een kredietovereenkomst en indien het desbetreffende krediet niet is opgenomen vanwege omstandigheden die niet zijn toe te rekenen aan de kredietnemer of aan de Bank, wordt de provisie door de Staat terugbetaald aan de Bank mits de Bank binnen een jaar na het sluiten van de kredietovereenkomst daartoe een verzoek aan de Staat heeft gedaan.    
 
@@ -2043,7 +2091,7 @@ e. 3,6 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 ####Maximale omvang van de borgstelling
 
-1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.000.000 niet overschrijdt.  
+1. Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.500.000 niet overschrijdt.  
 
 2. Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 200.000 niet overschrijdt.  
 
@@ -2055,7 +2103,9 @@ e. 3,6 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 a. bedrijfsborgstellingskredieten die op een eerder tijdstip overeenkomstig artikel 6 zijn gemeld, slechts voor het met overeenkomstige toepassing van de artikelen 9 en 10 berekende gedeelte van die bedrijfsborgstellingskredieten in aanmerking genomen;  
 
-b. kredieten, voor zover de Staat daarvoor op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het Besluit borgstelling MKB-kredieten, of het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md) nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.      
+b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.    
+
+6. In afwijking van het eerste lid, overschrijdt het totaal van de bedrijfsborgstellingskredieten per kalenderjaar een bedrag van € 200.000 niet, indien de Bank heeft aangegeven van de mogelijkheid, bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°, gebruik te maken.    
 
 ### Artikel  9  
 
@@ -2069,7 +2119,7 @@ a. het bedrijfsborgstellingskrediet uitsluitend is bestemd voor de betaling van 
 
 b. deze onroerende zaak voor ten minste de helft bestemd is te worden gebruikt voor de onderneming van de MKB-ondernemer, en  
 
-c. de Bank met betrekking tot de onder a bedoelde kosten bankfaciliteiten verstrekt die een bedrag van ten minste 100 procent van de in onderdeel a bedoelde kosten belopen, dan wel, indien sprake is van een starters-borgstellingskrediet, 33,3 procent van dit bedrijfsborgstellingskrediet.    
+c. de Bank met betrekking tot de onder a bedoelde kosten bankfaciliteiten verstrekt die een bedrag van ten minste 100 procent van de in onderdeel a bedoelde kosten belopen, dan wel, indien sprake is van een starters-borgstellingskrediet of een bedrijfsborgstellingskrediet dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de Bank bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te maken, 33,3 procent van dit bedrijfsborgstellingskrediet.    
 
 3. Voor de toepassing van het eerste lid geldt in plaats van een periode van ten hoogste zes jaar een periode van ten hoogste twaalf jaar indien het bedrijfsborgstellingskrediet is verstrekt aan een innovatieve MKB-ondernemer.  
 
@@ -2095,7 +2145,7 @@ c. de centrale Bank de opschorting meldt binnen 35 dagen na aanvang van de opsch
 
 9. Indien een bedrijfsborgstellingskrediet wordt aangewend voor herfinanciering van een bedrijfsborgstellingskrediet, dat eerder is gebruikt voor de in het tweede lid, onder a en b genoemde doelen, en tevens is voldaan aan het tweede lid, onder b en c, is de nieuwe periode ten hoogste gelijk aan de periode waarvoor het bedrijfsborgstellingskrediet nog zou hebben gelopen zonder herfinanciering, indien en voor zover deze restperiode meer bedraagt dan zes jaar.  
 
-10. Voor de toepassing van het zesde lid wordt onder een onroerende zaak mede begrepen schepen en vliegtuigen, voor zover deze zijn ingeschreven in de registers als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Kadasterwet](../../../../../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede ieder goederenrechtelijk recht dat omvat het uitsluitend gebruik van een onroerende zaak, met inbegrip van bovenbedoelde schepen en vliegtuigen.    
+10. Voor de toepassing van het zesde lid wordt onder een onroerende zaak mede begrepen schepen en vliegtuigen, voor zover deze zijn ingeschreven in de registers als bedoeld in artikel 8, eerste lid, onderdeel a, van de Kadasterwet, alsmede ieder goederenrechtelijk recht dat omvat het uitsluitend gebruik van een onroerende zaak, met inbegrip van bovenbedoelde schepen en vliegtuigen.    
 
 ### Artikel  10  
 
@@ -2121,7 +2171,7 @@ c. de centrale Bank de opschorting meldt binnen 35 dagen na aanvang van de opsch
 
 ####Berekening omvang borgstelling bij uitbetalen
 
-1. De omvang van de borgstelling bedraagt per MKB-ondernemer 90 procent van hetgeen de MKB-ondernemer ten tijde van het overeenkomstig artikel 13 ingediende verzoek uit hoofde van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten pro resto verschuldigd is, doch 
+1. De omvang van de borgstelling bedraagt per MKB-ondernemer 90 procent van hetgeen de MKB-ondernemer ten tijde van het overeenkomstig artikel 11 ingediende verzoek uit hoofde van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten pro resto verschuldigd is, doch 
 
 a. ten hoogste 90 procent van de met toepassing van de artikelen 8, 9 en 10 berekende omvang van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten, en  
 
@@ -2137,7 +2187,9 @@ b. indien het bedrijfsborgstellingskrediet is verstrekt aan een MKB-ondernemer d
 
 a. de bedragen die een Bank-gelieerde uit hoofde van een overeenkomst aan de MKB-ondernemer ter leen verstrekt of zal verstrekken, en  
 
-b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.      
+b. de verplichtingen die een Bank-gelieerde tegenover een derde, niet zijnde een andere Bank-gelieerde of een rechtspersoon waarmee de Bank in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de Bank-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de Bank.    
+
+4. In afwijking van het eerste lid, aanhef en onderdeel b, bedraagt de omvang van de borgstelling ten hoogste drie maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte bankfaciliteiten van de Bank voor de MKB-ondernemer indien sprake is van een bedrijfsborgstellingskrediet, als bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°.    
 
 ### Artikel  13  
 
@@ -2179,7 +2231,7 @@ b. indien de Bank of de centrale Bank in het kader van het verzoek gegevens heef
 
 1. De centrale Bank betaalt de vanaf het moment van de indiening van een verzoek om betaling als bedoeld in artikel 11 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de Staat.  
 
-2. Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 14, eerste lid, ontvangen zijn wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten, tenzij opbrengsten niet ontvangen zijn uit hoofde van uitwinning.  
+2. Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 14, eerste lid, ontvangen zijn wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten, tenzij opbrengsten ontvangen zijn uit hoofde van uitwinning.  
 
 3. De centrale Bank zal de rekening, bedoeld in artikel 13, vierde lid, per de datum van verzending van het verzoek, bedoeld in artikel 11, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 9, op grond van artikel 10 is geschorst.  
 
@@ -2221,7 +2273,7 @@ Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeis
 
 ####Controle bedrijfsborgstellingskrediet
 
-1. De Bank, en indien toepassing is gegeven aan de artikelen 3, tweede lid, en 12, derde lid, de Bank-gelieerde, en de MKB-ondernemer voldoen aan hetgeen door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en met het oog op de nakoming door de Staat van op de Staat rustende internationaalrechtelijke verplichtingen, en voor zover het betrekking heeft op de uit het besluit of deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank of de Bank-gelieerde de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt of de met deze MKB-ondernemer gesloten kredietovereenkomsten, omtrent: 
+1. De Bank, en indien toepassing is gegeven aan de artikelen 3, tweede lid, en 12, derde lid, de Bank-gelieerde, en de MKB-ondernemer voldoen aan hetgeen door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het Kaderbesluit EZ-subsidies, hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en met het oog op de nakoming door de Staat van op de Staat rustende internationaalrechtelijke verplichtingen, en voor zover het betrekking heeft op de uit het besluit of deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank of de Bank-gelieerde de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt of de met deze MKB-ondernemer gesloten kredietovereenkomsten, omtrent: 
 
 a. het toegang verlenen tot door hen gebruikte plaatsen;  
 
@@ -2257,11 +2309,11 @@ d. opeising van het bedrijfsborgstellingskrediet.
 
 2. De Bank zal er voor zorg dragen dat het bedrijfsborgstellingskrediet niet wordt gebruikt voor de nakoming van verplichtingen van de MKB-ondernemer aan de Bank die het bedrijfsborgstellingskrediet verstrekt, aan een Bank-gelieerde of aan een rechtspersoon waarmee de Bank in een groep verbonden is.  
 
-3. De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de Staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend, een beding ten behoeve van de Staat opnemen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de Staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
+3. De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de Staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend, een beding ten behoeve van de Staat opnemen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de Staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
 
 a. een borg er zich op zou kunnen beroepen dat de Staat eerst zou moeten worden aangesproken;  
 
-b. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).    
+b. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek.    
 
 4. De Bank draagt er zorg voor dat de relaties tussen haar en de bij haar onderneming betrokkenen enerzijds, en de ondernemer aan wie een bedrijfsborgstellingskrediet is verstrekt anderzijds transparant zijn.    
 
@@ -2281,7 +2333,7 @@ Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze
 
 ####Overige bepalingen
 
-1. De inwerkingtreding van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.  
+1. De inwerkingtreding van een wijziging van het Kaderbesluit EZ-subsidies of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.  
 
 2. Deze overeenkomst kan worden gewijzigd door een schriftelijke mededeling van de minister aan de centrale Bank.  
 
@@ -2289,17 +2341,17 @@ Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze
 
 4. In afwijking van het derde lid kan deze overeenkomst door de minister met onmiddellijke ingang worden ontbonden, indien een Bank of centrale Bank in strijd heeft gehandeld met het gestelde in deze overeenkomst.  
 
-5. In afwijking van het derde lid kunnen de Banken deze overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), publicatie in de Staatscourant van een wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen of een schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.  
+5. In afwijking van het derde lid kunnen de Banken deze overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het Kaderbesluit EZ-subsidies, publicatie in de Staatscourant van een wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen of een schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.  
 
 6. Opzegging door de Banken als bedoeld in het derde en vijfde lid is uitsluitend mogelijk indien dit geschiedt door alle Banken gezamenlijk.  
 
-7. Deze overeenkomst eindigt van rechtswege door de intrekking van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of door intrekking van artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.  
+7. Deze overeenkomst eindigt van rechtswege door de intrekking van het Kaderbesluit EZ-subsidies of door intrekking van artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.  
 
 8. Wijziging, opzegging, ontbinding of beëindiging van deze overeenkomst heeft geen gevolg ten aanzien van bedrijfsborgstellingskredieten, welke ten tijde van de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging overeenkomstig artikel 3 zijn gemeld en ten aanzien van bedrijfsborgstellingskredieten die zijn of zullen worden verstrekt uit hoofde van een kredietovereenkomst die is aangegaan voor de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging.  
 
 9. Het achtste lid is niet van toepassing ten aanzien van de wijziging van artikel 5 ingevolge de Regeling van de Minister van Economische Zaken van 3 september 2009, nr. WJZ/9155298, tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen ten aanzien van de opschortingsvoorwaarden voor borgstelling van MKB-kredieten (Stcrt. 2009, 13666)  
 
-10. Als het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen gelijktijdig worden ingetrokken en vervangen door materieel identieke wettelijke voorschriften in een andere algemene maatregel van bestuur of ministeriële regeling dan is het zevende lid niet van toepassing.    
+10. Als het Kaderbesluit EZ-subsidies en artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen gelijktijdig worden ingetrokken en vervangen door materieel identieke wettelijke voorschriften in een andere algemene maatregel van bestuur of ministeriële regeling dan is het zevende lid niet van toepassing.    
 
 ### Artikel  25  
 
@@ -2314,7 +2366,7 @@ Getekend te ’s-Gravenhage op .....  *De Minister van Economische Zaken, Landbo
 
 ### Bijlage  2.3  
 
-####Model overeenkomst als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 2.9, derde lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bodemsaneringsborgstellingskrediet; één bank)
+####Model overeenkomst als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 2.9, derde lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bodemsaneringsborgstellingskrediet; één bank)
 
 De Staat der Nederlanden, hierna te noemen: de staat, ten deze vertegenwoordigd door de Minister van Economische Zaken, hierna te noemen: de minister en ten deze vertegenwoordigd door ...... hierna te noemen: de Bank, komen overeen als volgt: 
 
@@ -2350,7 +2402,7 @@ c. *krediet:* een bedrag dat de Bank uit hoofde van een kredietovereenkomst vers
 
 d. *bodemsaneringsborgstellingskrediet:* een krediet of een deel van een krediet dat overeenkomstig artikel 3 is gemeld;  
 
-e. *saneringsplan:* plan als bedoeld in [artikel 39 van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+e. *saneringsplan:* plan als bedoeld in artikel 39 van de Wet bodembescherming;  
 
 f. *saneringsbestek:* bestek gebaseerd op een saneringsplan, dat een gedetailleerde beschrijving omvat van de aard en de omvang van de uit te voeren sanering van de bodem met een nauwkeurige beschrijving van het te bereiken resultaat en waaruit de omvang van de saneringskosten kan worden afgeleid;  
 
@@ -2380,7 +2432,7 @@ l. *Bank:* binnen het grondgebied van de Europese Unie gevestigde bank, niet zij
 
 ### Artikel  2  
 
-De staat stelt zich borg ten behoeve van de Bank voor de terugbetaling van bodemsaneringsborgstellingskredieten die met inachtneming van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Bank worden verstrekt. Deze borgstelling wordt aangegaan onder de navolgende bedingen.  
+De staat stelt zich borg ten behoeve van de Bank voor de terugbetaling van bodemsaneringsborgstellingskredieten die met inachtneming van het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Bank worden verstrekt. Deze borgstelling wordt aangegaan onder de navolgende bedingen.  
 
 ### Paragraaf  3  
 
@@ -2444,9 +2496,9 @@ a. De Bank heeft de beschikking over de volgende bescheiden:
 
 1°. een schriftelijke verklaring van een ingenieur overeenkomstig het model dat door de minister wordt vastgesteld;  
 
-2°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in [artikel 29 van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat het om een geval van ernstige verontreiniging gaat;  
+2°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in artikel 29 van de Wet bodembescherming, waaruit blijkt dat het om een geval van ernstige verontreiniging gaat;  
 
-3°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in [artikel 39, tweede lid, eerste volzin, van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);    
+3°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in artikel 39, tweede lid, eerste volzin, van de Wet bodembescherming;    
 
 b. de MKB-ondernemer beschikt over onvoldoende financiële middelen om zijn onderneming op economisch verantwoorde wijze te drijven;  
 
@@ -2462,17 +2514,17 @@ g. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bev
 
 h. het bodemsaneringsborgstellingskrediet is niet bestemd en wordt niet gebruikt voor de nakoming van verplichtingen van de MKB-ondernemer aan de Bank die het bodemsaneringsborgstellingskrediet verstrekt of aan een rechtspersoon waarmee de Bank in een groep verbonden is;  
 
-i. de MKB-ondernemer beschikt niet over een door een andere bank verstrekte kredietfaciliteit waarvoor de staat op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md), het Besluit borgstelling MKB-kredieten, Regeling borgstelling MKB-kredieten 1988, de Kredietregeling midden- en kleinbedrijf 1985 of de Kredietbeschikking midden- en kleinbedrijf 1976 borg staat anders dan een bijzondere hypothecaire geldlening als bedoeld in bijlage 4 van de Kredietbeschikking midden- en kleinbedrijf 1976 of in hoofdstuk VI van de Kredietregeling midden- en kleinbedrijf 1985;  
+i. de MKB-ondernemer beschikt niet over een door een andere bank verstrekte kredietfaciliteit waarvoor de staat op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997, het Besluit borgstelling MKB-kredieten, Regeling borgstelling MKB-kredieten 1988, de Kredietregeling midden- en kleinbedrijf 1985 of de Kredietbeschikking midden- en kleinbedrijf 1976 borg staat anders dan een bijzondere hypothecaire geldlening als bedoeld in bijlage 4 van de Kredietbeschikking midden- en kleinbedrijf 1976 of in hoofdstuk VI van de Kredietregeling midden- en kleinbedrijf 1985;  
 
 j. de MKB-ondernemer, indien deze een natuurlijke persoon is, zal naar verwachting na een gebruikelijke aanloopperiode uit de inkomsten van zijn onderneming kunnen voorzien in zijn levensonderhoud;  
 
 k. de natuurlijke persoon die direct of indirect meer dan de helft van het geplaatste kapitaal verschaft aan de MKB-ondernemer, niet zijnde een natuurlijke persoon, heeft zich borg gesteld voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verstrekt, tot aan een bedrag ter grootte van ten minste 25 procent van het bodemsaneringsborgstellingskrediet met een minimum van € 15.000;  
 
-l. de Bank heeft in de door haar gesloten borgstellingsovereenkomsten met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opgenomen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de staat en de Bank heeft geen bedingen opgenomen, ertoe leidende dat: 
+l. de Bank heeft in de door haar gesloten borgstellingsovereenkomsten met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opgenomen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de staat en de Bank heeft geen bedingen opgenomen, ertoe leidende dat: 
 
 1°. een borg er zich op zou kunnen beroepen dat de staat eerst zou moeten worden aangesproken,  
 
-2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).    
+2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek.    
 
 m. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het wegvervoer, geldt een maximum voor dit totaal van € 100.000. Een bodemsaneringsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die in de referteperiode is verleend aan ondernemingen die deel uitmaken van dezelfde groep;  
 
@@ -2490,7 +2542,7 @@ De Bank voldoet slechts aan de voor haar uit het bodemsaneringsborgstellingskred
 
 ### Artikel  10  
 
-1.  De Bank voldoet aan hetgeen door door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en voor zover het betrekking heeft op de uit het besluit en deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank, op de MKB-ondernemer aan wie het bodemsaneringsborgstellingskrediet is verstrekt of op de met deze MKB-ondernemer gesloten kredietovereenkomsten omtrent: 
+1.  De Bank voldoet aan hetgeen door door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het Kaderbesluit EZ-subsidies, hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en voor zover het betrekking heeft op de uit het besluit en deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank, op de MKB-ondernemer aan wie het bodemsaneringsborgstellingskrediet is verstrekt of op de met deze MKB-ondernemer gesloten kredietovereenkomsten omtrent: 
 
 a. het toegang verlenen tot door haar gebruikte plaatsen;  
 
@@ -2513,13 +2565,13 @@ c. de verlening van surséance van betaling aan of de faillietverklaring van de 
 
 d. opeising van het bodemsaneringsborgstellingskrediet.     
 5.  Na afsluiting van ieder boekjaar zendt de Bank voor 1 februari van het daaropvolgende jaar, met gebruikmaking van een formulier, waarvan het model door de minister wordt vastgesteld, aan de minister een opgave van de omvang van de borgstelling aan het einde van het boekjaar voor alle bodemsaneringsborgstellingskredieten te zamen, waarvoor de Bank nog geen verzoek om betaling als bedoeld in artikel 14 heeft ingediend. Deze omvang dient te worden berekend met toepassing van paragraaf 4.   
-6.  Binnen zes maanden na afsluiting van ieder boekjaar zendt de Bank, met gebruikmaking van een formulier, waarvan het model door de minister wordt vastgesteld, aan de minister een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waaruit blijkt van de juistheid en volledigheid van de in het vijfde lid bedoelde opgave.   
+6.  Binnen zes maanden na afsluiting van ieder boekjaar zendt de Bank, met gebruikmaking van een formulier, waarvan het model door de minister wordt vastgesteld, aan de minister een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek waaruit blijkt van de juistheid en volledigheid van de in het vijfde lid bedoelde opgave.   
 7.  Tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bodemsaneringsborgstellingskrediet wordt verstrekt en tijdens de uitwinning zal de Bank waken over de belangen van de staat als borg.   
-8.  De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bodemsaneringsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opnemen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
+8.  De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bodemsaneringsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opnemen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
 
 1°. een borg er zich op zou kunnen beroepen dat de staat eerst zou moeten worden aangesproken,  
 
-2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).     
+2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek.     
 9.  De Bank draagt er zorg voor dat de relaties tussen haar en de bij haar onderneming betrokkenen enerzijds, en de ondernemer aan wie een bodemsaneringsborgstellingskrediet is verstrekt anderzijds transparant zijn.   
 10.  De Bank meldt de Staat de indiening bij de rechtbank van een verzoek tot verlening van surseance van betaling aan de Bank, dan wel een verzoek tot faillietverklaring van de Bank.   
 
@@ -2555,7 +2607,7 @@ d. opeising van het bodemsaneringsborgstellingskrediet.
 
 ### Artikel  16  
 
-1.  De minister stelt het uit hoofde van deze overeenkomst door de staat verschuldigde bedrag vast overeenkomstig het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, met uitzondering van het bepaalde in artikel 10, vierde, vijfde en zesde lid.   
+1.  De minister stelt het uit hoofde van deze overeenkomst door de staat verschuldigde bedrag vast overeenkomstig het Kaderbesluit EZ-subsidies, hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, met uitzondering van het bepaalde in artikel 10, vierde, vijfde en zesde lid.   
 2.  De minister kan in ieder geval afwijzend beslissen op een aanvraag: 
 
 a. indien niet voldaan is aan een verzoek als bedoeld in artikel 10, eerste lid;  
@@ -2608,19 +2660,19 @@ Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeis
 
 ### Artikel  22  
 
-1.  De inwerkingtreding van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.   
+1.  De inwerkingtreding van een wijziging van het Kaderbesluit EZ-subsidies of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.   
 2.  Deze overeenkomst kan worden gewijzigd door een schriftelijke mededeling van de minister aan de Bank.   
 3.  Deze overeenkomst is aangegaan voor onbepaalde tijd en kan door de minister en de Bank schriftelijk worden opgezegd met inachtneming van een opzegtermijn van drie hele kalendermaanden.   
 4.  In afwijking van het derde lid kan deze overeenkomst door de minister met onmiddellijke ingang worden ontbonden, indien de Bank in strijd heeft gehandeld met het gestelde in de paragrafen 5, 6, 7 of 8 van deze overeenkomst.   
-5.  In afwijking van het derde lid kan de Bank de overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), publicatie in de Staatscourant van een wijziging van hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen of schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.   
-6.  Deze overeenkomst eindigt van rechtswege door de intrekking van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of door intrekking van artikel 2.3, eerste lid, onderdeel b, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
+5.  In afwijking van het derde lid kan de Bank de overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het Kaderbesluit EZ-subsidies, publicatie in de Staatscourant van een wijziging van hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen of schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.   
+6.  Deze overeenkomst eindigt van rechtswege door de intrekking van het Kaderbesluit EZ-subsidies of door intrekking van artikel 2.3, eerste lid, onderdeel b, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
 7.  Wijziging, opzegging, ontbinding of beëindiging van deze overeenkomst heeft geen gevolg ten aanzien van bodemsaneringsborgstellingskredieten, welke ten tijde van de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging overeenkomstig artikel 3 zijn gemeld en ten aanzien van bodemsaneringsborgstellingskredieten die zijn of zullen worden verstrekt uit hoofde van een kredietovereenkomst die is aangegaan voor de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging.   
 
 Getekend te 's-Gravenhage op ...... De Minister van Economische Zaken, (naam en functie vertegenwoordigers Bank) 
 
 ### Bijlage  2.4  
 
-####Model overeenkomst als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 2.9, vierde lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bodemsaneringsborgstellingskrediet; meer dan één bank)
+####Model overeenkomst als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 2.9, vierde lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bodemsaneringsborgstellingskrediet; meer dan één bank)
 
 De Staat der Nederlanden, hierna te noemen: de staat, ten deze vertegenwoordigd door de Minister van Economische Zaken, hierna te noemen: de minister en (inclusief de centrale Bank indien deze bodemsaneringsborgstellingskredieten verstrekt), ...... hierna gezamenlijk te noemen de Banken en ieder voor zich de Bank, ten deze vertegenwoordigd door ........... hierna te noemen: de centrale Bank, komen overeen als volgt: 
 
@@ -2656,7 +2708,7 @@ c. *krediet:* een bedrag dat de Bank uit hoofde van een kredietovereenkomst vers
 
 d. *bodemsaneringsborgstellingskrediet:* een krediet of een deel van een krediet dat overeenkomstig artikel 3 is gemeld;  
 
-e. *saneringsplan:* plan als bedoeld in [artikel 39 van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+e. *saneringsplan:* plan als bedoeld in artikel 39 van de Wet bodembescherming;  
 
 f. *saneringsbestek:* bestek gebaseerd op een saneringsplan, dat een gedetailleerde beschrijving omvat van de aard en de omvang van de uit te voeren sanering van de bodem met een nauwkeurige beschrijving van het te bereiken resultaat en waaruit de omvang van de saneringskosten kan worden afgeleid;  
 
@@ -2686,7 +2738,7 @@ l. *Bank:* binnen het grondgebied van de Europese Unie gevestigde bank, niet zij
 
 ### Artikel  2  
 
-De staat stelt zich borg ten behoeve van de Banken voor de terugbetaling van bodemsaneringsborgstellingskredieten die met inachtneming van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Banken worden verstrekt. Deze borgstelling wordt aangegaan onder de navolgende bedingen.  
+De staat stelt zich borg ten behoeve van de Banken voor de terugbetaling van bodemsaneringsborgstellingskredieten die met inachtneming van het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de Banken worden verstrekt. Deze borgstelling wordt aangegaan onder de navolgende bedingen.  
 
 ### Paragraaf  3  
 
@@ -2750,9 +2802,9 @@ a. De Bank heeft de beschikking over de volgende bescheiden:
 
 1°. een schriftelijke verklaring van een ingenieur overeenkomstig het model dat door de minister wordt vastgesteld;  
 
-2°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in [artikel 29 van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), waaruit blijkt dat het om een geval van ernstige verontreiniging gaat;  
+2°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in artikel 29 van de Wet bodembescherming, waaruit blijkt dat het om een geval van ernstige verontreiniging gaat;  
 
-3°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in [artikel 39, tweede lid, eerste volzin, van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);    
+3°. een afschrift van de beschikking van gedeputeerde staten als bedoeld in artikel 39, tweede lid, eerste volzin, van de Wet bodembescherming;    
 
 b. de MKB-ondernemer beschikt over onvoldoende financiële middelen om zijn onderneming op economisch verantwoorde wijze te drijven;  
 
@@ -2768,17 +2820,17 @@ g. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bev
 
 h. het bodemsaneringsborgstellingskrediet is niet bestemd en wordt niet gebruikt voor de nakoming van verplichtingen van de MKB-ondernemer aan de Bank die het verstrekt, aan een andere Bank, of aan een rechtspersoon waarmee de Bank in een groep verbonden is;  
 
-i. de MKB-ondernemer beschikt niet over een door een andere bank verstrekte kredietfaciliteit waarvoor de staat op grond van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), het [Besluit borgstelling MKB-kredieten 1997](../../../../../../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md), het Besluit borgstelling MKB-kredieten, de Regeling borgstelling MKB-kredieten 1988, de Kredietregeling midden- en kleinbedrijf 1985, of de Kredietbeschikking midden- en kleinbedrijf 1976 borg staat anders dan een bijzondere hypothecaire geldlening als bedoeld in bijlage 4 van de kredietbeschikking midden- en kleinbedrijf 1976 of in hoofdstuk VI van de Kredietregeling midden- en kleinbedrijf 1985;  
+i. de MKB-ondernemer beschikt niet over een door een andere bank verstrekte kredietfaciliteit waarvoor de staat op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997, het Besluit borgstelling MKB-kredieten, de Regeling borgstelling MKB-kredieten 1988, de Kredietregeling midden- en kleinbedrijf 1985, of de Kredietbeschikking midden- en kleinbedrijf 1976 borg staat anders dan een bijzondere hypothecaire geldlening als bedoeld in bijlage 4 van de kredietbeschikking midden- en kleinbedrijf 1976 of in hoofdstuk VI van de Kredietregeling midden- en kleinbedrijf 1985;  
 
 j. de MKB-ondernemer, indien deze een natuurlijke persoon is, zal naar verwachting na een gebruikelijke aanloopperiode uit de inkomsten van zijn onderneming kunnen voorzien in zijn levensonderhoud;  
 
 k. de natuurlijke persoon die direct of indirect meer dan de helft van het geplaatste kapitaal verschaft aan de MKB-ondernemer, niet zijnde een natuurlijke persoon, heeft zich borg gesteld voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verstrekt, tot aan een bedrag ter grootte van ten minste 25 procent van het bodemsaneringsborgstellingskrediet met een minimum van € 15.000;  
 
-l. de Bank heeft in de door haar gesloten borgstellingsovereenkomsten met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opgenomen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de staat en de Bank heeft geen bedingen opgenomen, ertoe leidende dat: 
+l. de Bank heeft in de door haar gesloten borgstellingsovereenkomsten met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opgenomen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de staat en de Bank heeft geen bedingen opgenomen, ertoe leidende dat: 
 
 1°. een borg er zich op zou kunnen beroepen dat de staat eerst zou moeten worden aangesproken,  
 
-2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).    
+2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek.    
 
 m. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het wegvervoer, geldt een maximum voor dit totaal van € 100.000. Een bodemsaneringsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die in de referteperiode is verleend aan ondernemingen die deel uitmaken van dezelfde groep;  
 
@@ -2796,7 +2848,7 @@ De Bank voldoet slechts aan de voor haar uit het bodemsaneringsborgstellingskred
 
 ### Artikel  10  
 
-1.  De Banken voldoen aan hetgeen door door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en voor zover het betrekking heeft op de uit het besluit en deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank, op de MKB-ondernemer aan wie het bodemsaneringsborgstellingskrediet is verstrekt of op de met deze MKB-ondernemer gesloten kredietovereenkomsten omtrent: 
+1.  De Banken voldoen aan hetgeen door door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het Kaderbesluit EZ-subsidies, hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en voor zover het betrekking heeft op de uit het besluit en deze overeenkomst voortvloeiende zelfstandige verplichtingen van de Bank, op de MKB-ondernemer aan wie het bodemsaneringsborgstellingskrediet is verstrekt of op de met deze MKB-ondernemer gesloten kredietovereenkomsten omtrent: 
 
 a. het toegang verlenen tot door hen gebruikte plaatsen;  
 
@@ -2819,13 +2871,13 @@ c. de verlening van surséance van betaling aan of de faillietverklaring van de 
 
 d. opeising van het bodemsaneringsborgstellingskrediet.     
 5.  Na afsluiting van ieder boekjaar zendt de centrale Bank voor 1 februari van het daaropvolgende jaar, met gebruikmaking van een formulier, waarvan het model door de minister wordt vastgesteld, aan de minister een opgave van de omvang van de borgstelling aan het einde van het boekjaar voor alle bodemsaneringsborgstellingskredieten te zamen, waarvoor de centrale Bank nog geen verzoek om betaling als bedoeld in artikel 14 heeft ingediend. Deze omvang dient te worden berekend met toepassing van paragraaf 4.   
-6.  Binnen zes maanden na afsluiting van ieder boekjaar zendt de centrale Bank, met gebruikmaking van een formulier, waarvan het model door de minister wordt vastgesteld aan de minister een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waaruit blijkt van de juistheid en volledigheid van de in het vijfde lid bedoelde opgave.   
+6.  Binnen zes maanden na afsluiting van ieder boekjaar zendt de centrale Bank, met gebruikmaking van een formulier, waarvan het model door de minister wordt vastgesteld aan de minister een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek waaruit blijkt van de juistheid en volledigheid van de in het vijfde lid bedoelde opgave.   
 7.  Tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bodemsaneringsborgstellingskrediet wordt verstrekt en tijdens de uitwinning zal de Bank waken over de belangen van de staat als borg.   
-8.  De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bodemsaneringsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opnemen, ertoe strekkende dat de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet geldt ten opzichte van de staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
+8.  De Bank zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bodemsaneringsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bodemsaneringsborgstellingskrediet is verleend een beding ten behoeve van de staat opnemen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de staat en de Bank zal geen bedingen opnemen, ertoe leidende dat: 
 
 1°. een borg er zich op zou kunnen beroepen dat de staat eerst zou moeten worden aangesproken,  
 
-2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van [artikel 869, boek 7, Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).     
+2°. een borg zich zou kunnen onttrekken aan toepassing door de staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek.     
 9.  De Bank draagt er zorg voor dat de relaties tussen haar en de bij haar onderneming betrokkenen enerzijds, en de ondernemer aan wie een bodemsaneringsborgstellingskrediet is verstrekt anderzijds transparant zijn.   
 10.  De Bank meldt de Staat de indiening bij de rechtbank van een verzoek tot verlening van surseance van betaling aan de Bank, dan wel een verzoek tot faillietverklaring van de Bank.   
 
@@ -2861,7 +2913,7 @@ d. opeising van het bodemsaneringsborgstellingskrediet.
 
 ### Artikel  16  
 
-1.  De minister stelt het uit hoofde van deze overeenkomst door de staat verschuldigde bedrag vast overeenkomstig het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, met uitzondering van het bepaalde in artikel 10, vierde, vijfde en zesde lid.   
+1.  De minister stelt het uit hoofde van deze overeenkomst door de staat verschuldigde bedrag vast overeenkomstig het Kaderbesluit EZ-subsidies, hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, met uitzondering van het bepaalde in artikel 10, vierde, vijfde en zesde lid.   
 2.  De minister kan in ieder geval afwijzend beslissen op een aanvraag: 
 
 a. indien niet voldaan is aan een verzoek als bedoeld in artikel 10, eerste lid;  
@@ -2914,24 +2966,453 @@ Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeis
 
 ### Artikel  22  
 
-1.  De inwerkingtreding van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.   
+1.  De inwerkingtreding van een wijziging van het Kaderbesluit EZ-subsidies of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.   
 2.  Deze overeenkomst kan worden gewijzigd door een schriftelijke mededeling van de minister aan de centrale Bank.   
 3.  Deze overeenkomst is aangegaan voor onbepaalde tijd en kan door de minister en de Banken schriftelijk worden opgezegd met inachtneming van een opzegtermijn van drie hele kalendermaanden.   
 4.  In afwijking van het derde lid kan deze overeenkomst door de minister met onmiddellijke ingang worden ontbonden, indien de Bank of de centrale Bank in strijd heeft gehandeld met het gestelde in de paragrafen 5, 6, 7 of 8 van deze overeenkomst.   
-5.  In afwijking van het derde lid kunnen de Banken de overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), publicatie in de Staatscourant van een wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen of schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.   
+5.  In afwijking van het derde lid kunnen de Banken de overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het Kaderbesluit EZ-subsidies, publicatie in de Staatscourant van een wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen of schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.   
 6.  Opzegging door de Banken als bedoeld in het derde en vijfde lid is uitsluitend mogelijk indien dit geschiedt door alle Banken gezamenlijk.   
-7.  Deze overeenkomst eindigt van rechtswege door de intrekking van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) of door intrekking van artikel 2.3, eerste lid, onderdeel b, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
+7.  Deze overeenkomst eindigt van rechtswege door de intrekking van het Kaderbesluit EZ-subsidies of door intrekking van artikel 2.3, eerste lid, onderdeel b, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
 8.  Wijziging, opzegging, ontbinding of beëindiging van deze overeenkomst heeft geen gevolg ten aanzien van bodemsaneringsborgstellingskredieten, welke ten tijde van de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging overeenkomstig artikel 3 zijn gemeld en ten aanzien van bodemsaneringsborgstellingskredieten die zijn of zullen worden verstrekt uit hoofde van een kredietovereenkomst die is aangegaan voor de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging.   
 
 Getekend te 's-Gravenhage op .... De Minister van Economische Zaken, (naam en functie vertegenwoordigers Bank) 
 
 ### Bijlage  2.5  
 
+####Model overeenkomst als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 2.9, vijfde lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+
+Model voor een bedrijfsborgstellingskredietovereenkomst met een aangewezen kredietverstrekker Overeenkomst tussen: 
+
+1. De Staat der Nederlanden, hierna te noemen: de Staat, vertegenwoordigd door de Minister van Economische Zaken, Landbouw en Innovatie;  
+
+2. ......, hierna noemen: de kredietverstrekker,   Partijen zijn het volgende overeengekomen: 
+
+### Artikel  1  
+
+####Definitiebepalingen
+
+1.  De begrippen die in het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen zijn gedefinieerd hebben in deze overeenkomst de in deze regelingen gegeven betekenis.   
+2.  Voorts wordt in deze overeenkomst verstaan onder: 
+
+a. financieringsfaciliteit: krediet of een deel van een krediet waarvoor de Staat niet borg of garant staat: 
+
+1°. op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997, het Besluit borgstelling MKB-kredieten, dan wel de Regeling LNV-subsidies; of  
+
+2°. vanwege de overname van de verplichtingen van Stichting Borgstellingsfonds voor de Landbouw;    
+
+b. kredietverstrekker-gelieerde: een rechtspersoon waaraan de kredietverstrekker direct of indirect meer dan de helft van het geplaatste kapitaal verschaft of voor het handelen waarvan de kredietverstrekker volledig aansprakelijk is, en die als kredietverstrekker-gelieerde is vermeld in artikel 25 van deze overeenkomst;  
+
+c. bedrijfsborgstellingskrediet: krediet of een deel van een krediet dat overeenkomstig artikel 6 is getoetst en gemeld;  
+
+d. de-minimissteun: steun van de overheid die voldoet aan de voorwaarden, vastgesteld in verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379), verordening (EG) nr. 1535/2007 van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) of verordening (EG) nr. 875/2007 van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193);  
+
+e. groep: een economische eenheid, waarin organisatorisch zijn verbonden: 
+
+1°. een natuurlijke persoon of een privaatrechtelijke rechtspersoon, die direct of indirect: 
+
+– meer dan de helft van het geplaatste kapitaal verschaft aan,  
+
+– volledig aansprakelijk vennoot is van, of  
+
+– overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
+
+2°. laatstbedoelde rechtspersonen of vennootschappen;    
+
+f. innovatieve MKB-ondernemer: een MKB-ondernemer ten aanzien waarvan de kredietverstrekker beschikt over een gewaarmerkte kopie van een verklaring als bedoeld in artikel 23, eerste lid, of artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen en waarvan het origineel ten hoogste zestien maanden voor de datum waarop de kredietovereenkomst is gesloten is afgegeven, of een MKB-ondernemer ten aanzien waarvan de kredietverstrekker beschikt over een advies van de minister waaruit blijkt dat de MKB-ondernemer is aan te merken als een innovatieve MKB-ondernemer;  
+
+g. krediet: bedrag dat de kredietverstrekker uit hoofde van een kredietovereenkomst verstrekt of zal verstrekken;  
+
+h. kredietovereenkomst: overeenkomst uit hoofde waarvan: 
+
+1°. de kredietverstrekker aan een MKB-ondernemer geld ter leen verstrekt of zal verstrekken, of  
+
+2°. de MKB-ondernemer tot een bepaald bedrag trekt of zal kunnen trekken op de kredietverstrekker, of  
+
+3°. de kredietverstrekker tegenover een derde, niet zijnde een rechtspersoon waarmee de kredietverstrekker in een groep verbonden is of een kredietverstrekker-gelieerde, onherroepelijk een verplichting is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen, welke verplichting niet afhankelijk is van voorwaarden op de vervulling waarvan het handelen van de kredietverstrekker van invloed is;    
+
+i. minister: de Minister van Economische Zaken, Landbouw en Innovatie;  
+
+j. starter: 
+
+1°. een MKB-ondernemer, die een natuurlijk persoon is en die niet langer dan drie jaar een onderneming in stand houdt;  
+
+2°. een vennootschap met een in aandelen verdeeld kapitaal, tevens MKB-ondernemer, waarvan de bestuurder een natuurlijk persoon is die ten tijde van het sluiten van de kredietovereenkomst direct of indirect de meerderheid van het geplaatst en gestort kapitaal houdt en deze meerderheid niet langer dan drie jaar houdt;    
+
+k. starters-borgstellingskrediet: bedrijfsborgstellingskrediet dat uitsluitend wordt verstrekt aan een starter;  
+
+l. uitwinning: 
+
+1°. uitwinning door de kredietverstrekker van de door de MKB-ondernemer aan de kredietverstrekker verstrekte zekerheden, zoals een redelijk handelend en bekwaam financier in het kader van een actief en winstgericht beleid zou hebben gedaan zonder borgstelling;  
+
+2°. onderhandse verkoop met toestemming van de kredietverstrekker door de MKB-ondernemer van de vermogensbestanddelen van de MKB-ondernemer, inning van vorderingen daaronder begrepen;  
+
+3°. executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer; en  
+
+4°. indien het faillissement van de MKB-ondernemer is uitgesproken of aan hem surseance van betaling is verleend de onderhandse of executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer door of met medewerking van de curator of de bewindvoerder.       
+
+### Artikel  2  
+
+####Borgstelling
+
+De Staat stelt zich borg ten behoeve van de kredietverstrekker voor de terugbetaling van bedrijfsborgstellingskredieten die met inachtneming van het Kaderbesluit EZ-subsidies en hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst door de kredietverstrekker worden verstrekt, met dien verstande dat deze borgstelling wordt aangegaan onder de navolgende bedingen.  
+
+### Artikel  3  
+
+####Voorwaarden bedrijfsborgstellingsovereenkomst
+
+1.  De toepasselijkheid van deze borgstellingsovereenkomst op een krediet of een deel van een krediet kan uitsluitend worden ingeroepen: 
+
+a. indien het krediet is getoetst en gemeld overeenkomstig artikel 6;  
+
+b. indien binnen 35 dagen na het sluiten van de kredietovereenkomst de door de minister op grond van artikel 2.6 van de Subsidieregeling starten, groeien en overdragen van ondernemingen vastgestelde provisie door de kredietverstrekker aan de Staat is betaald;  
+
+c. indien en voor zover door de melding, bedoeld onder a, de som van de in een kalenderjaar gemelde kredieten of delen daarvan de door de minister op grond van artikel 2.7, derde lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen met betrekking tot dat kalenderjaar vastgestelde subsidieplafond niet is overschreden;  
+
+d. indien de natuurlijke persoon die direct of indirect meer dan de helft van het geplaatste kapitaal verschaft aan de MKB-ondernemer, niet zijnde een natuurlijke persoon, zich borg heeft gesteld voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet wordt verstrekt, tot aan een bedrag ter grootte van ten minste 25 procent van het bedrijfsborgstellingskrediet met een minimum van € 5.000;  
+
+e. indien het bedrijfsborgstellingskrediet niet is bestemd en niet wordt gebruikt voor buitenlandse investeringen in distributiekanalen in verband met werkzaamheden op het gebied van uitvoer;  
+
+f. indien het bedrijfsborgstellingskrediet niet meer bedraagt dan het tekort aan zekerheden dat bij de kredietverstrekker ten tijde van het sluiten van de kredietovereenkomst bestaat;  
+
+g. indien de kredietovereenkomst in schriftelijke vorm is aangegaan;  
+
+h. indien de kredietverstrekker in de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet wordt verstrekt een verplichting voor de MKB-ondernemer is opgenomen om alle medewerking te verlenen aan het uitoefenen door de Staat van de in artikel 20, eerste lid, genoemde bevoegdheden;  
+
+i. indien de kredietverstrekker in de door haar gesloten borgstellingsovereenkomst met betrekking tot de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend een beding ten behoeve van de Staat heeft opgenomen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de Staat en de kredietverstrekker geen bedingen heeft opgenomen, ertoe leidende dat: 
+
+1°. een borg er zich op zou kunnen beroepen dat de Staat eerst zou moeten worden aangesproken,  
+
+2°. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek;    
+
+j. indien door de kredietverstrekker gelijktijdig met het sluiten van de kredietovereenkomst, uit hoofde waarvan een bedrijfsborgstellingskrediet aan de MKB-ondernemer wordt verstrekt, met de MKB-ondernemer een kredietovereenkomst is gesloten uit hoofde waarvan de MKB-ondernemer over een financieringsfaciliteit beschikt, die niet bestemd is en niet gebruikt wordt voor de aflossing van financieringsfaciliteiten waarover de MKB-ondernemer beschikt bij de kredietverstrekker of een kredietverstrekker-gelieerde of aan een rechtspersoon waarmee de kredietverstrekker in een groep verbonden is;  
+
+k. indien de financieringsfaciliteit, bedoeld in het eerste lid, onderdeel j, ten minste 100 procent bedraagt van het bedrijfsborgstellingskrediet, of, 
+
+1°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking starter was;  
+
+2°. ten minste 50 procent bedraagt van het bedrijfsborgstellingskrediet indien het bedrijfsborgstellingskrediet wordt verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking innovatieve MKB-ondernemer was, of  
+
+3°. ten minste 33,3 procent bedraagt van het bedrijfsborgstellingskrediet, indien sprake is van een bedrijfsborgstellingskrediet, dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de kredietverstrekker bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te willen maken;    
+
+l. indien de looptijd van de onder k bedoelde financieringsfaciliteit ten minste even lang is als de looptijd van het bedrijfsborgstellingskrediet.     
+2.  Voor de toepassing van het eerste lid, onderdeel k, worden mede in aanmerking genomen de bedragen die een kredietverstrekker-gelieerde gelijktijdig met de gesloten kredietovereenkomst aan de MKB-ondernemer worden verstrekt, indien de zekerheden van de kredietverstrekker-gelieerde ter zake van die bedragen mede strekken tot zekerheid van de kredietverstrekker.   
+
+### Artikel  4  
+
+####Criteria voor MKB-ondernemer bij verstrekken bedrijfsborgstellingskrediet
+
+1.  Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet aan de volgende criteria zijn voldaan: 
+
+a. de MKB-ondernemer: 
+
+1°. beschikt over onvoldoende financiële middelen om zijn onderneming op economisch verantwoorde wijze te drijven;  
+
+2°. is in Nederland gevestigd en voert daar een substantieel deel van de activiteiten van de onderneming uit;  
+
+3°. is geen aanbieder als bedoeld in artikel 1, onderdeel c, van de Wet marktordening gezondheidszorg, noch oefent hij het beroep van dierenarts, notaris, advocaat of gerechtsdeurwaarder uit;  
+
+4°. houdt geen onderneming in stand waarvan de laatste jaaromzet voor 50 procent of meer is verkregen, of, indien de onderneming nog geen heel jaar is gedreven, waarvan de omzet naar verwachting voor 50 procent of meer zal worden verkregen, uit: 
+
+– de beoefening van de land- of de tuinbouw, de vee- of visteelt, de visserij of de teelt van vee- of visvoer,  
+
+– de uitoefening van het bank-, verzekerings- of beleggingsbedrijf, of het financieren van een of meer andere ondernemingen, of  
+
+– het verwerven, vervreemden, beheren of exploiteren van onroerende zaken of het ontwikkelen van onroerende zaakprojecten;    
+
+5°. beschikt naast het bedrijfsborgstellingskrediet niet over een lening waarvoor de Staat uit hoofde van de Regeling LNV-subsidies of door overname van de verplichtingen van de Stichting Borgstellingsfonds voor de landbouw borg of garant staat;  
+
+6°. beschikt niet over een door een andere kredietverstrekker of bank verstrekte kredietfaciliteit, waarvoor de Staat op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten 1997 of het Besluit borgstelling MKB-kredieten borg staat.    
+
+b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de kredietverstrekker, oordelend zoals een redelijk handelend en bekwaam financier in het kader van een actief en winstgericht beleid zou hebben gedaan zonder borgstelling, het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
+
+c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.     
+2.  Het eerste lid, onderdeel a, onder 4, eerste gedachtenstreepje, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
+
+### Artikel  5  
+
+####Voorkomen onrechtmatige staatssteun
+
+1.  Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet voorts aan de volgende criteria zijn voldaan: 
+
+a. de verlening van de borgstelling leidt er niet toe dat de MKB-ondernemer een bedrag van meer dan € 200.000 aan de-minimissteun ontvangt over de periode van het lopende en de twee voorafgaande fiscale jaren. Indien de onderneming actief is in het wegvervoer, geldt een maximum voor dit totaal van € 100.000. Een bedrijfsborgstellingskrediet wordt aangemerkt als de-minimissteun voor 13% van het staatsgegarandeerde deel van het krediet. Bij de bepaling of de verlening van de borgstelling niet leidt tot overschrijding van het desbetreffende maximum wordt rekening gehouden met de-minimissteun die is verleend aan ondernemingen die deel uitmaken van dezelfde groep;  
+
+b. De kredietverstrekker heeft er voor zorg gedragen dat: 
+
+– zij de MKB-ondernemer in kennis heeft gesteld dat hij ingevolge de verstrekking van het bedrijfsborgstellingskrediet steun van de overheid ontvangt ter waarde van 13% van het staatsgegarandeerde deel van het krediet, en dat deze steun wordt aangemerkt als de-minimissteun;  
+
+– de MKB-ondernemer een schriftelijke verklaring heeft afgelegd over de de-minimissteun die hij of, indien hij deel uitmaakt van een groep, deze groep heeft ontvangen in het lopende en de twee voorafgaande fiscale jaren en schriftelijk heeft verklaard dat het totaal van deze de-minimissteun en de de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet niet meer bedraagt dan € 200.000 of, indien de onderneming actief is in het wegvervoer, niet meer bedraagt dan € 100.000;  
+
+– de MKB-ondernemer schriftelijk heeft verklaard dat, voor zover het ontvangen van de-minimissteun ingevolge de verstrekking van het bedrijfsborgstellingskrediet samen gaat met het ontvangen van staatssteun voor dezelfde in aanmerking komende kosten, dit niet leidt tot een overschrijding van het maximale percentage van staatssteun dat in dit geval geldt ingevolge de desbetreffende groepsvrijstellingsverordening of het desbetreffende besluit van de Commissie.       
+2.  Dit artikel is niet van toepassing op een kredietovereenkomst die wordt gesloten met een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint-Eustatius of Saba.   
+
+### Artikel  6  
+
+####Toetsing en melding
+
+1.  De kredietverstrekker stelt de Staat in kennis van een voorgenomen verstrekking van een krediet onder gelijktijdige verstrekking van de door de minister vastgestelde informatie.   
+2.  Indien de voorgenomen verstrekking van het krediet naar het oordeel van de Staat voldoet aan de in artikel 3, eerste lid, onderdeel d tot en met n, en tweede lid, bedoelde voorwaarden, wordt de borgstelling voor dit krediet verleend op grond van deze overeenkomst. De Staat bericht de kredietverstrekker hierover binnen drie weken na ontvangst van de aanmelding, bedoeld in het eerste lid, onder vermelding van de omvang en looptijd van de borgstelling.   
+3.  De borgstelling wordt verleend onder de voorwaarde dat de kredietverstrekker een melding doet overeenkomstig het vijfde lid, de provisie bedoeld in artikel 3, eerste lid, onderdeel b, heeft betaald en de som van de in een kalenderjaar gemelde kredieten of delen daarvan niet hoger zijn dan de door de minister op grond van artikel 2.7, derde lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen met betrekking tot dat kalenderjaar vastgestelde subsidieplafond.   
+4.  Indien het naar het oordeel van de Staat niet noodzakelijk wordt geacht dat de kredietverstrekker de Staat in kennis stelt van voorgenomen kredietvertrekkingen overeenkomstig het eerste lid, geldt de procedure van het vijfde lid. De Staat bericht de kredietverstrekker hierover.   
+5.  De kredietverstrekker meldt het krediet of het deel van het krediet waarop deze bedrijfsborgstellingsovereenkomst van toepassing is binnen 35 dagen na het sluiten van de kredietovereenkomst aan de Staat onder de gelijktijdige verstrekking van de door de minister vastgestelde informatie. De Staat bevestigt de ontvangst van een melding binnen 35 dagen na ontvangst.   
+6.  Voor de toepassing van artikel 3, eerste lid, aanhef en onder c, is de volgorde van ontvangst door de Staat van de meldingen, bedoeld in het vijfde lid, bepalend.   
+
+### Artikel  7  
+
+####Provisie
+
+1.  Het tarief van de provisie bedraagt eenmalig: 
+
+a. 3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van niet langer dan twee jaar,  
+
+b. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan twee jaar, maar niet langer dan vier jaar,  
+
+c. 3,3 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan vier jaar, maar niet langer dan zes jaar,  
+
+d. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan zes jaar, maar niet langer dan negen jaar en  
+
+e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.     
+2.  Indien overeenkomstig artikel 3, onderdeel b, een provisie is betaald met betrekking tot een kredietovereenkomst en indien het desbetreffende krediet niet is opgenomen vanwege omstandigheden die niet zijn toe te rekenen aan de kredietnemer of aan de kredietverstrekker, wordt de provisie door de Staat terugbetaald aan de kredietverstrekker mits de kredietverstrekker binnen een jaar na het sluiten van de kredietovereenkomst daartoe een verzoek aan de Staat heeft gedaan.   
+
+### Artikel  8  
+
+####Maximale omvang van de borgstelling
+
+1.  Voor de berekening van de omvang van de borgstelling wordt een bedrijfsborgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van het bedrijfsborgstellingskrediet het totaal van de bedrijfsborgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 1.500.000 niet overschrijdt.   
+2.  Voor de berekening van de omvang van de borgstelling wordt een starters-borgstellingskrediet slechts in aanmerking genomen voor zover door de verstrekking van dit krediet het totaal van de starters-borgstellingskredieten, berekend per MKB-ondernemer of, indien de MKB-ondernemer deel uitmaakt van een groep, per groep een bedrag van € 200.000 niet overschrijdt.   
+3.  Voor de toepassing van het eerste lid wordt een bedrijfsborgstellingskrediet dat is verstrekt aan een andere MKB-ondernemer ten behoeve van een onderneming voor het drijven waarvan de MKB-ondernemer volledig aansprakelijk is, geacht aan de MKB-ondernemer te zijn verstrekt.   
+4.  Voor de toepassing van het eerste lid is de toestand op het tijdstip onmiddellijk na het sluiten van de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verstrekt bepalend.   
+5.  Voor de toepassing van het eerste lid worden: 
+
+a. bedrijfsborgstellingskredieten die op een eerder tijdstip overeenkomstig artikel 6 zijn gemeld, slechts voor het met overeenkomstige toepassing van de artikelen 9 en 10 berekende gedeelte van die bedrijfsborgstellingskredieten in aanmerking genomen;  
+
+b. kredieten, voor zover de Staat daarvoor op grond van het Kaderbesluit EZ-subsidies, het Besluit borgstelling MKB-kredieten, of het Besluit borgstelling MKB-kredieten 1997 nog borg staat, als bedrijfsborgstellingskredieten in aanmerking genomen.     
+6.  In afwijking van het eerste lid, overschrijdt het totaal van de bedrijfsborgstellingskredieten per kalenderjaar een bedrag van € 200.000 niet, indien de kredietverstrekker heeft aangegeven van de mogelijkheid, bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°, gebruik te maken.   
+
+### Artikel  9  
+
+####Berekening van de omvang en duur van de borgstelling
+
+1.  Voor de berekening van de omvang van de borgstelling wordt het na toepassing van artikel 8 in aanmerking te nemen bedrijfsborgstellingskrediet na verloop van ieder kalenderkwartaal verminderd met een zodanig vast bedrag, dat het bedrijfsborgstellingskrediet op de laatste datum waarop het moet zijn afgelost, maar uiterlijk na verloop van 6 jaar, nihil bedraagt.   
+2.  Voor de toepassing van het eerste lid geldt in plaats van een periode van ten hoogste zes jaar een periode van ten hoogste twaalf jaar indien: 
+
+a. het bedrijfsborgstellingskrediet uitsluitend is bestemd voor de betaling van de kosten van de stichting, van de aankoop of van de verbouwing van een onroerende zaak,  
+
+b. deze onroerende zaak voor ten minste de helft bestemd is te worden gebruikt voor de onderneming van de MKB-ondernemer, en  
+
+c. de kredietverstrekker met betrekking tot de onder a bedoelde kosten financieringsfaciliteiten verstrekt die een bedrag van ten minste 100 procent van de in onderdeel a bedoelde kosten belopen, dan wel, indien sprake is van een starters-borgstellingskrediet of een bedrijfsborgstellingskrediet, dat per kalenderjaar het bedrag van € 200.000 niet overschrijdt, indien de kredietverstrekker bij de melding, bedoeld in artikel 6, heeft aangegeven hiervan gebruik te maken, 33,3 procent van dit bedrijfsborgstellingskrediet.     
+3.  Voor de toepassing van het eerste lid geldt in plaats van een periode van ten hoogste zes jaar een periode van ten hoogste twaalf jaar indien het bedrijfsborgstellingskrediet is verstrekt aan een innovatieve MKB-ondernemer.   
+4.  Voor de toepassing van het eerste lid vangt het eerste kalenderkwartaal uiterlijk aan op de eerste dag van het tweede kalenderkwartaal dat volgt op het kalenderkwartaal waarin de kredietovereenkomst is gesloten.   
+5.  Voor de toepassing van het eerste lid geldt dat, indien het bedrijfsborgstellingskrediet is verstrekt aan een innovatieve MKB-ondernemer, het eerste kalenderkwartaal waarin vermindering plaatsvindt uiterlijk aanvangt op de eerste dag van het veertiende kalenderkwartaal dat volgt op het kalenderkwartaal waarin de kredietovereenkomst is gesloten.   
+6.  Voor de toepassing van het eerste lid geldt dat, indien het bedrijfsborgstellingskrediet is verstrekt voor de betaling van de kosten van de stichting of verbouwing van een onroerende zaak, het eerste kalenderkwartaal waarin vermindering plaatsvindt uiterlijk aanvangt op de eerste dag van het zesde kalenderkwartaal dat volgt op het kalenderkwartaal waarin de kredietovereenkomst is gesloten.   
+7.  De kredietverstrekker kan de vermindering, bedoeld in het eerste lid, gedurende een periode van ten minste een kalenderkwartaal opschorten indien: 
+
+a. de kredietverstrekker voor ten minste de duur van de opschorting uitstel verleent van de verplichting tot aflossing van het bedrijfsborgstellingskrediet,  
+
+b. de kredietverstrekker uitstel verleent van de verplichting tot aflossing van alle financieringsfaciliteiten gedurende de duur van de opschorting, dan wel uitstel verleent van de verplichting tot aflossing van een gedeelte van de financieringsfaciliteiten, waarbij de som van de aflossingsbedragen ten minste even groot is als de som van de aflossingsbedragen waarvoor de kredietverstrekker uitstel verleent als bedoeld onder a, of, indien het bedrijfsborgstellingskrediet is verstrekt aan: 
+
+1°. een MKB-ondernemer die ten tijde van de verstrekking starter was, ten minste 33,3 procent bedraagt van de som van de aflossingsbedragen waarvoor de kredietverstrekker uitstel verleent als bedoeld onder a, of  
+
+2°. een MKB-ondernemer die ten tijde van de verstrekking innovatief MKB-ondernemer was, ten minste 50 procent bedraagt van de som van de aflossingsbedragen waarvoor de kredietverstrekker uitstel verleent als bedoeld onder a, en    
+
+c. de kredietverstrekker de opschorting meldt binnen 35 dagen na aanvang van de opschorting onder gelijktijdige verstrekking van de door de minister vastgestelde informatie. De minister bevestigt de melding binnen 35 dagen na ontvangst.     
+8.  De in het zevende lid bedoelde opschorting van de vermindering vindt ten hoogste voor een totaal van acht kalenderkwartalen plaats. De opschorting van de vermindering vindt ten hoogste voor een totaal van twaalf kalenderkwartalen plaats indien het bedrijfsborgstellingskrediet is verstrekt aan een starter.   
+9.  Indien een bedrijfsborgstellingskrediet wordt aangewend voor herfinanciering van een bedrijfsborgstellingskrediet, dat eerder is gebruikt voor de in het tweede lid, onder a en b genoemde doelen, en tevens is voldaan aan het tweede lid, onder b en c, is de nieuwe periode ten hoogste gelijk aan de periode waarvoor het bedrijfsborgstellingskrediet nog zou hebben gelopen zonder herfinanciering, indien en voor zover deze restperiode meer bedraagt dan zes jaar.   
+10.  Voor de toepassing van het zesde lid wordt onder een onroerende zaak mede begrepen schepen en vliegtuigen, voor zover deze zijn ingeschreven in de registers als bedoeld in artikel 8, eerste lid, onderdeel a, van de Kadasterwet, alsmede ieder goederenrechtelijk recht dat omvat het uitsluitend gebruik van een onroerende zaak, met inbegrip van bovenbedoelde schepen en vliegtuigen.   
+
+### Artikel  10  
+
+####Schorsing vermindering borgstelling
+
+1.  De vermindering van de borgstelling, bedoeld in artikel 9, wordt geschorst met ingang van de dag waarop het bedrijfsborgstellingskrediet is opgeëist.   
+2.  In afwijking van het eerste lid wordt de vermindering van de borgstelling pas geschorst door de aanvang van de uitwinning, indien met die uitwinning geen aanvang is gemaakt binnen twee maanden na de dag waartegen het bedrijfsborgstellingskrediet door de kredietverstrekker is opgeëist.   
+3.  De vermindering van de borgstelling wordt tevens geschorst zolang de MKB-ondernemer in staat van faillissement verkeert of aan hem surseance van betaling is verleend.   
+
+### Artikel  11  
+
+####Verzoek om betaling uit hoofde van de bedrijfsborgstellingsovereenkomst
+
+1.  De kredietverstrekker dient zo spoedig mogelijk na de voltooiing van de uitwinning of, indien dit eerder is, zo spoedig mogelijk nadat aannemelijk is geworden dat geen opbrengsten meer zijn te verwachten die in mindering komen op het bedrijfsborgstellingskrediet, maar in ieder geval binnen negen maanden na de datum waartegen het bedrijfsborgstellingskrediet is opgeëist of, indien dit eerder is, na de datum van het faillissement, een verzoek in om betaling uit hoofde van de bedrijfsborgstellingsovereenkomst.   
+2.  Het verzoek wordt ingediend onder gelijktijdige verstrekking van de door de minister vastgestelde informatie.   
+3.  De minister bevestigt de ontvangst van het verzoek om betaling binnen 35 dagen na de ontvangst en reageert op het verzoek binnen negen maanden na de bevestiging.   
+
+### Artikel  12  
+
+####Berekening omvang borgstelling bij uitbetalen
+
+1.  De omvang van de borgstelling bedraagt per MKB-ondernemer 90 procent van hetgeen de MKB-ondernemer ten tijde van het overeenkomstig artikel 11 ingediende verzoek uit hoofde van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten pro resto verschuldigd is, doch 
+
+a. ten hoogste 90 procent van de met toepassing van de artikelen 8, 9 en 10 berekende omvang van het bedrijfsborgstellingskrediet of de bedrijfsborgstellingskredieten, en  
+
+b. ten hoogste de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte financieringsfaciliteiten van de kredietverstrekker voor de MKB-ondernemer.     
+2.  In afwijking van het eerste lid, onder b, bedraagt de omvang van de borgstelling: 
+
+a. indien sprake is van een starters-borgstellingskrediet: ten hoogste drie maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte financieringsfaciliteiten van de kredietverstrekker voor de MKB-ondernemer;  
+
+b. indien het bedrijfsborgstellingskrediet is verstrekt aan een MKB-ondernemer die ten tijde van de verstrekking een innovatieve MKB-ondernemer was: ten hoogste twee maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte financieringsfaciliteiten van de kredietverstrekker voor de MKB-ondernemer.     
+3.  Voor de toepassing van het eerste lid en het tweede lid, onderdeel a, worden als financieringsfaciliteiten mede in aanmerking genomen: 
+
+a. de bedragen die een kredietverstrekker-gelieerde uit hoofde van een overeenkomst aan de MKB-ondernemer ter leen verstrekt of zal verstrekken, en  
+
+b. de verplichtingen die een kredietverstrekker-gelieerde tegenover een derde, niet zijnde een andere kredietverstrekker-gelieerde of een rechtspersoon waarmee de kredietverstrekker in een groep verbonden is, onherroepelijk is aangegaan om ten laste van de MKB-ondernemer aan de derde een of meer betalingen te doen als bedoeld in artikel 1, tweede lid, onderdeel g, 3°, indien de zekerheden van de kredietverstrekker-gelieerde ter zake van de hiervoor onder a en b bedoelde bedragen en verplichtingen mede strekken tot zekerheid van de kredietverstrekker.     
+4.   In afwijking van het eerste lid, aanhef en onderdeel b, bedraagt de omvang van de borgstelling ten hoogste drie maal de som van de ten tijde van de opzegging van de kredietovereenkomst bestaande en verstrekte financieringsfaciliteiten van de kredietverstrekker voor de MKB-ondernemer indien sprake is van een bedrijfsborgstellingskrediet, als bedoeld in artikel 3, eerste lid, onderdeel k, subonderdeel 3°.  
+
+### Artikel  13  
+
+####Betaling door de Staat
+
+1.  De minister betaalt hetgeen de Staat uit hoofde van deze overeenkomst met het oog op de door de kredietverstrekker in haar verzoek bedoelde bedrijfsborgstellingskrediet verschuldigd is.   
+2.  Voor zover de kredietverstrekker bij haar verzoek om betaling aannemelijk maakt dat er bijzondere omstandigheden waren die het, oordelend zoals een redelijk handelend en bekwaam financier in het kader van een actief en winstgericht beleid zou hebben gedaan zonder borgstelling, noodzakelijk maakten de andere financieringsfaciliteiten sterker in omvang terug te brengen dan de bedrijfsborgstellingskredieten, blijft artikel 12, eerste lid, aanhef en onder b, en tweede lid, buiten toepassing.   
+3.  De Staat is niet verplicht tot betaling op het verzoek van de kredietverstrekker: 
+
+a. indien niet voldaan is aan een verzoek als bedoeld in artikel 20, eerste lid;  
+
+b. indien de kredietverstrekker in het kader van het verzoek gegevens heeft verstrekt, waarvan zij wist of behoorde te weten dat deze onjuist of onvolledig waren en de verstrekking van deze gegevens tot een onjuiste beslissing op het verzoek zou hebben geleid;  
+
+c. indien niet voldaan is aan artikel 21, eerste lid.     
+4.  Betalingen door de Staat aan de kredietverstrekker en door de kredietverstrekker aan de Staat geschieden door debitering respectievelijk creditering door de kredietverstrekker van een rekening die de kredietverstrekker zal aanhouden ten name van het ministerie van Economische Zaken, Landbouw en Innovatie, met vermelding van 'verliesdeclaraties'.   
+
+### Artikel  14  
+
+####Inspanningsverplichting tot uitwinning bedrijfsborgstellingskrediet
+
+1.  Gedurende vijf jaar nadat de kredietverstrekker uit hoofde van het bedrijfsborgstellingskrediet door de Staat is betaald, is de kredietverstrekker gehouden die pogingen in het werk te stellen om namens de Staat het door de Staat betaalde bedrag in te vorderen, die de kredietverstrekker in het werk zou hebben gesteld indien het krediet voor eigen rekening en risico door de kredietverstrekker zou zijn verstrekt. De Staat machtigt met het oog hierop de kredietverstrekker tot invordering bij de kredietnemer van de door deze aan de Staat verschuldigde bedragen.   
+2.  De kredietverstrekker zendt binnen drie maanden na afloop van de in het eerste lid bedoelde periode de minister een overzicht van de door haar ondernomen activiteiten, waarin de door de minister vastgestelde informatie is opgenomen.   
+
+### Artikel  15  
+
+####Verslag voortgang uitwinning bij verzoek om betaling borgstelling
+
+1.  Indien een verzoek om betaling als bedoeld in artikel 11 is ingediend op een moment, waarop de uitwinning nog niet is voltooid en ook niet aannemelijk is geworden dat geen opbrengsten meer zijn te verwachten die in mindering komen op het bedrijfsborgstellingskrediet, brengt de kredietverstrekker de minister ten minste jaarlijks verslag uit over de voortgang van de uitwinning.   
+2.  De minister kan over het verloop van de uitwinning binnen een door hem te stellen termijn nadere gegevens van de kredietverstrekker verlangen.   
+
+### Artikel  16  
+
+####Terugbetalen
+
+1.  De kredietverstrekker betaalt de vanaf het moment van de indiening van een verzoek om betaling als bedoeld in artikel 11 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de Staat.   
+2.  Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 14, eerste lid, ontvangen zijn, wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten, tenzij opbrengsten ontvangen zijn uit hoofde van uitwinning van zekerheden.   
+3.  De kredietverstrekker zal de rekening, bedoeld in artikel 13, vierde lid, per de datum van verzending van het verzoek, bedoeld in artikel 11, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 9, op grond van artikel 10 is geschorst.   
+4.  De kredietverstrekker zal de rekening op de datum van de reactie van de minister, bedoeld in artikel 11, derde lid, en binnen twee maanden na die datum crediteren of debiteren voor respectievelijk het voor de Staat positieve of negatieve verschil tussen het bedrag waarvoor de rekening ingevolge het derde lid is gedebiteerd en het door de Staat blijkens de reactie, bedoeld in artikel 11, verschuldigde bedrag, vermeerderd met een over dat verschil te berekenen rente over de periode die is verstreken sinds de creditering of debitering, bedoeld in het derde lid, en de datum waarop de reactie is ontvangen.   
+5.  De rente, bedoeld in het derde en vierde lid, is gelijk aan de zes maands Euribor op het moment van de indiening van een aanvraag als bedoeld in artikel 11.   
+
+### Artikel  17  
+
+####Voorwaarden schuldregeling bedrijfsborgstellingskrediet
+
+1.  De kredietverstrekker treft geen schuldregeling die inhoudt of mede inhoudt een gehele of gedeeltelijke kwijtschelding van verplichtingen voortvloeiende uit een kredietovereenkomst, uit hoofde waarvan een bedrijfsborgstellingskrediet is verstrekt, zonder voorafgaande toestemming van de minister. De minister kan aan zijn toestemming voorwaarden verbinden ten aanzien van de inhoud van een dergelijke regeling.   
+2.  De minister beslist zo spoedig mogelijk op een verzoek om toestemming als bedoeld in het eerste lid.   
+
+### Artikel  18  
+
+####Vervallen verplichtingen van de Staat uit hoofde van deze overeenkomst
+
+1.  De verplichtingen van de Staat uit hoofde van deze overeenkomst met betrekking tot een bedrijfsborgstellingskrediet vervallen door schuldvernieuwing, door schuldoverneming en – voor het gedeelte waarin subrogatie plaatsvindt – door subrogatie van derden in de rechten van de kredietverstrekker met betrekking tot het bedrijfsborgstellingskrediet, al dan niet voorafgegaan door verpanding van het bedrijfsborgstellingskrediet.   
+2.  In afwijking van het eerste lid blijven de verplichtingen van de Staat met betrekking tot een bedrijfsborgstellingskrediet van kracht, indien: 
+
+a. de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt de onderneming en alle voor het drijven van de onderneming bestemde activa en passiva inbrengt of overdraagt aan een door de MKB-ondernemer voor het drijven van die onderneming opgerichte rechtspersoon,  
+
+b. de kredietverstrekker met de onder a bedoelde rechtspersoon een overeenkomst sluit als gevolg waarvan die rechtspersoon bij de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend de plaats inneemt van de MKB-ondernemer, en  
+
+c. de MKB-ondernemer zich naast de onder a bedoelde rechtspersoon hoofdelijk aansprakelijk stelt voor de nakoming door die rechtspersoon van de verplichtingen die voortvloeien uit de kredietovereenkomst.     
+3.  Voor de toepassing van het tweede lid wordt onder rechtspersoon mede begrepen twee of meer rechtspersonen, indien die rechtspersonen gezamenlijk voldoen aan de in het tweede lid genoemde voorwaarden en ieder van die rechtspersonen zich hoofdelijk aansprakelijk stelt voor de nakoming van de verplichtingen die voortvloeien uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verstrekt.   
+
+### Artikel  19  
+
+####Procedure bij aanleveren onjuiste gegevens door kredietverstrekker
+
+Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeisbaar zodra de minister blijkt dat de kredietverstrekker zodanig onjuiste of onvolledige informatie heeft verschaft dat hij op een verzoek om betaling een andere beslissing zou hebben genomen, indien hem de juiste gegevens volledig waren verschaft, of dat de kredietverstrekker de betalingsverplichting, bedoeld in artikel 16, eerste lid, niet is nagekomen.  
+
+### Artikel  20  
+
+####Controle bedrijfsborgstellingskrediet
+
+1.  De kredietverstrekker, en indien toepassing is gegeven aan de artikelen 3, tweede lid, en 12, derde lid, de kredietverstrekker-gelieerde, en de MKB-ondernemer voldoen aan hetgeen door door de minister aangewezen bij zijn ministerie werkzame personen wordt verzocht, voor zover dat redelijkerwijs noodzakelijk is voor een goede uitvoering van het Kaderbesluit EZ-subsidies, hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze overeenkomst, en met het oog op de nakoming door de Staat van op de Staat rustende internationaalrechtelijke verplichtingen, en voor zover het betrekking heeft op de uit het besluit of deze overeenkomst voortvloeiende zelfstandige verplichtingen van de kredietverstrekker of de kredietverstrekker-gelieerde, op de MKB-ondernemer aan wie het bedrijfsborgstellingskrediet is verstrekt of op de met deze MKB-ondernemer gesloten kredietovereenkomsten, omtrent: 
+
+a. het toegang verlenen tot door hen gebruikte plaatsen;  
+
+b. het verlenen van inzage in zakelijke gegevens en bescheiden;  
+
+c. het maken van kopieën van de onder b bedoelde gegevens en bescheiden;  
+
+d. het verlenen van medewerking aan het verstrekken van gegevens door anderen en  
+
+e. het verstrekken van inlichtingen.     
+2.  Alleen in daartoe aanleiding gevende gevallen zal aan de kredietverstrekker, of indien toepassing is gegeven aan de artikelen 3, tweede lid, en 12, derde lid, aan de kredietverstrekker-gelieerde, of aan de MKB-ondernemer, gevraagd worden de in het eerste lid bedoelde inlichtingen ook door haar accountant te doen verstrekken.   
+3.  Van de mogelijkheid, genoemd in het eerste lid, aanhef en onder a, zal alleen gebruik worden gemaakt indien een ernstig vermoeden bestaat dat de kredietverstrekker, de kredietverstrekker-gelieerde of de MKB-ondernemer onjuiste of onvolledige informatie heeft verstrekt.   
+4.  De kredietverstrekker stelt de minister binnen 35 dagen na kennisname op de hoogte van de volgende feiten en verstrekt daarbij de door de minister vastgestelde informatie: 
+
+a. vervroegde volledige aflossing van het bedrijfsborgstellingskrediet;  
+
+b. de verlening van surseance van betaling aan of de faillietverklaring van de MKB-ondernemer;  
+
+c. opeising van het bedrijfsborgstellingskrediet.     
+5.  De kredietverstrekker meldt de Staat de indiening bij de rechtbank van een verzoek tot verlening van surseance van betaling aan de kredietverstrekker, dan wel een verzoek tot faillietverklaring van de kredietverstrekker.   
+
+### Artikel  21  
+
+####Beheer
+
+1.  Tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet wordt verstrekt en tijdens de uitwinning zal de kredietverstrekker waken over de belangen van de Staat als borg.   
+2.  De kredietverstrekker zal er voor zorg dragen dat het bedrijfsborgstellingskrediet niet wordt gebruikt voor de nakoming van verplichtingen van de MKB-ondernemer aan de kredietverstrekker die het bedrijfsborgstellingskrediet verstrekt, aan een kredietverstrekker-gelieerde of aan een rechtspersoon waarmee de kredietverstrekker in een groep verbonden is.   
+3.  De kredietverstrekker zal tijdens de looptijd van de kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet is verleend in de door haar te sluiten overeenkomsten met allen, niet zijnde de Staat, die zich borg willen stellen voor de nakoming door de MKB-ondernemer van de verplichtingen voortvloeiende uit de kredietovereenkomst uit hoofde waarvan het bedrijfsborgstellingskrediet is verleend, een beding ten behoeve van de Staat opnemen, ertoe strekkende dat de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek niet geldt ten opzichte van de Staat en de kredietverstrekker zal geen bedingen opnemen, ertoe leidende dat: 
+
+a. een borg er zich op zou kunnen beroepen dat de Staat eerst zou moeten worden aangesproken;  
+
+b. een borg zich zou kunnen onttrekken aan toepassing door de Staat van de omslagregeling van artikel 869, boek 7, Burgerlijk Wetboek.     
+4.  De kredietverstrekker draagt er zorg voor dat de relaties tussen haar en de bij haar onderneming betrokkenen enerzijds, en de ondernemer aan wie een bedrijfsborgstellingskrediet is verstrekt anderzijds transparant zijn.   
+5.  De kredietverstrekker voldoet blijvend aan artikel 24 van het Kaderbesluit EZ-subsidies.   
+6.  De kredietverstrekker informeert de Staat zo snel mogelijk, maar uiterlijk binnen twee weken voorafgaand aan de desbetreffende gebeurtenis schriftelijk over wezenlijke wijzigingen in het financieringsbeleid of de organisatie van de kredietverstrekker.   
+
+### Artikel  22  
+
+####Hardheidsclausule
+
+Indien naar het oordeel van de minister de kans dat de toepasselijkheid van deze overeenkomst op een bedrijfsborgstellingskrediet of een deel van een bedrijfsborgstellingskrediet wordt ingeroepen in belangrijke mate wordt verkleind of indien naar het oordeel van de minister aannemelijk is dat daardoor het bedrag waarvoor de toepasselijkheid van deze overeenkomst wordt ingeroepen in belangrijke mate wordt verlaagd, kan de minister voor de toepassing van deze overeenkomst met betrekking tot dat krediet instemmen met een gemotiveerd verzoek van de kredietverstrekker om afwijking van deze overeenkomst.  
+
+### Artikel  23  
+
+####Communicatie
+
+Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze langs elektronische weg. De aanlevering door de kredietverstrekker kan in afwijking en bij wijze van alternatief en ter keuze van de kredietverstrekker ook geschieden in schriftelijke vorm en door aanlevering van een fysieke gegevensdrager.  
+
+### Artikel  24  
+
+####Overige bepalingen
+
+1.  De inwerkingtreding van een wijziging van het Kaderbesluit EZ-subsidies of hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen leidt te zelfder tijd tot een gelijke wijziging van deze overeenkomst.   
+2.  Deze overeenkomst kan worden gewijzigd door een schriftelijke mededeling van de minister aan de kredietverstrekker.   
+3.  Deze overeenkomst is aangegaan voor bepaalde tijd tot en met 31 december 2013 en kan door de minister en de kredietverstrekker tussentijds schriftelijk worden opgezegd met inachtneming van een opzegtermijn van drie hele kalendermaanden.   
+4.  In afwijking van het derde lid kan deze overeenkomst door de minister met onmiddellijke ingang worden ontbonden, indien de kredietverstrekker in strijd heeft gehandeld met het gestelde in deze overeenkomst.   
+5.  In afwijking van het derde lid kan de kredietverstrekker deze overeenkomst met onmiddellijke ingang opzeggen binnen een termijn van een maand na publicatie in het Staatsblad van een wijziging van het Kaderbesluit EZ-subsidies, publicatie in de Staatscourant van een wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen of een schriftelijke mededeling van de minister, inhoudende een wijziging van deze overeenkomst.   
+6.  Deze overeenkomst eindigt van rechtswege door de intrekking van het Kaderbesluit EZ-subsidies of door intrekking van artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
+7.  Wijziging, opzegging, ontbinding of beëindiging van deze overeenkomst heeft geen gevolg ten aanzien van bedrijfsborgstellingskredieten, welke ten tijde van de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging overeenkomstig artikel 3 zijn gemeld en ten aanzien van bedrijfsborgstellingskredieten die zijn of zullen worden verstrekt uit hoofde van een kredietovereenkomst die is aangegaan voor de inwerkingtreding van de wijziging, opzegging, ontbinding of beëindiging.   
+8.  Als het Kaderbesluit EZ-subsidies en artikel 2.3, eerste lid, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen gelijktijdig worden ingetrokken en vervangen door materieel identieke wettelijke voorschriften in een andere algemene maatregel van bestuur of ministeriële regeling dan is het zesde lid niet van toepassing.   
+
+### Artikel  25  
+
+####Kredietverstrekker-gelieerde
+
+Kredietverstrekker-gelieerde in de zin van artikel 1, tweede lid, onder a, van deze overeenkomst is (zijn): 
+
+a. (...) ....................  
+
+b. (...enz.)   Getekend te ’s-Gravenhage ..... De Minister van Economische Zaken, Landbouw en Innovatie, (naam en functie vertegenwoordigers kredietverstrekker)  
+
+### Bijlage  2.6  
+
 Ligt ter inzage bij SenterNovem te Den Haag.  
+
+### Bijlage  2.7  
+
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  3.1  
 
-####Model garantstellingsovereenkomst ten aanzien van achtergestelde leningen en aandelenkapitaal als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 3.7, eerste lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+####Model garantstellingsovereenkomst ten aanzien van achtergestelde leningen en aandelenkapitaal als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 3.7, eerste lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
 ####Model garantstellingsovereenkomst ten aanzien van achtergestelde leningen en aandelenkapitaal
 
@@ -2977,7 +3458,7 @@ i.  *achtergestelde lening:*
 
 – ten aanzien waarvan de financier in de vorenbedoelde akte van geldlening afstand heeft gedaan van alle rechten tot verrekening van de niet vervallen aflossingen; of    
 
-2°. een lening van geld door een financier aan een ondernemer die een rechtspersoon is wiens activa slechts bestaan uit deelnemingen in of vorderingen op een dochtermaatschappij in de zin van [artikel 24a van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met het oog op financiering door deze ondernemer van activiteiten van deze dochtermaatschappij, 
+2°. een lening van geld door een financier aan een ondernemer die een rechtspersoon is wiens activa slechts bestaan uit deelnemingen in of vorderingen op een dochtermaatschappij in de zin van artikel 24a van Boek 2 van het Burgerlijk Wetboek, met het oog op financiering door deze ondernemer van activiteiten van deze dochtermaatschappij, 
 
 – welke lening niet door enige vorm van zekerheid is gedekt, met uitzondering van een persoonlijke borgstelling van een aandeelhouder in de onderneming van de ondernemer en van een pandrecht gevestigd op aandelen in de dochtermaatschappij,  
 
@@ -3125,7 +3606,7 @@ b. een aflossing van een achtergestelde lening, tenzij deze aflossing overeenkom
 
 c. een wijziging van de looptijd van een achtergestelde lening.     
 3.  De financier verstrekt de Staat jaarlijks zijn jaarverslag.   
-4.  Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerd risicokapitaal en van ander risicokapitaal dat hij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan risicokapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.   
+4.  Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerd risicokapitaal en van ander risicokapitaal dat hij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan risicokapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.   
 5.  De financier doet onverwijld mededeling aan de Staat van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling aan hem, een verzoek tot faillietverklaring van hem of een verzoek om ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing te verklaren.   
 
 ### Artikel  8  
@@ -3249,7 +3730,7 @@ Een aantal bepalingen van de in bijlage 3.1 en 3.2 opgenomen modellen komt lette
 
 ####Artikel 3 (Randvoorwaarden risicokapitaal)
 
-Dit artikel bevat de voorwaarden waaraan concrete verstrekkingen van risicokapitaal moeten voldoen om deze onder de garantstelling te kunnen brengen. Sommige van deze voorwaarden hebben betrekking op de kapitaalverstrekking zelf, andere betreffen de ondernemer waaraan het risicokapitaal wordt verstrekt. De financier is gehouden na te gaan of de ondernemer aan deze voorwaarden voldoet. De informatie waarover de financier bijgevolg beschikt of redelijkerwijs zou moeten beschikken is maatgevend voor de beoordeling op grond van artikel 4 of aan de voorwaarden is voldaan. Het in onderdeel a opgenomen vereiste inzake continuïteit en rentabiliteit van de ondernemer, dat reeds in de toelichting bij [artikel 31, onderdeel a, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is behandeld, wordt toegepast bij de beoordeling van de aanmelding overeenkomstig artikel 4 van de overeenkomst. De ondernemer dient derhalve op dat moment aan deze voorwaarde te voldoen. De ondernemer dient op zichzelf economisch gezond te zijn, maar ook is van belang dat niet een financiering plaatsvindt die de rentabiliteit en continuïteit van het bedrijf in gevaar brengt. Onderdeel b betreft situaties waarin de ondernemer zonder dat dit noodzakelijk is voor de bedrijfsvoering middelen aan de onderneming heeft onttrokken. Door deze gevallen uit te sluiten wordt voorkomen dat het garantstellingsbudget wordt benut voor financieringen die in zekere zin onnodig zijn. In onderdeel e is bepaald dat de verstrekking van risicokapitaal niet anders dan met geld kan plaatsvinden. Bij financiering door de overdracht van bijvoorbeeld goederen of vorderingen kan gemakkelijk een intransparante situatie ontstaan. In onderdeel f is een inhoudelijke voorwaarde gesteld ten aanzien van de kapitaalverstrekking om te voorkomen dat op oneigenlijke wijze gebruik wordt gemaakt van dit instrument. Daarvan kan in het bijzonder sprake zijn indien een financiering onder de garantstelling wordt gebracht om het risico van een andere financiering af te dekken. Indien de aankoop van aandelen tegen een abnormaal hoge prijs onder de garantstelling wordt gebracht terwijl daarnaast, ter compensatie, een lening tegen een zeer hoge rente wordt verstrekt, zou de financier na enkele jaren de aandelen tegen een veel lagere prijs kunnen verkopen en voor het geleden verlies een beroep op de garantie kunnen doen. Om dit te voorkomen wordt voor toepassing van de garantstelling vereist dat de kapitaalverstrekking als zodanig bijdraagt aan het realiseren van een actief en winstgericht beleid of, anders gezegd, commercieel interessant is. Onderdeel g beoogt zeker te stellen dat zonodig zijdens de minister boekenonderzoek bij de ondernemer kan plaatsvinden. Onder omstandigheden kan twijfel bestaan of de feitelijke situatie van de ondernemer overeen komt met het beeld zoals dat naar voren komt uit de door de financier verstrekte informatie. Het is wenselijk dat alsdan de bevoegdheid bestaat toezicht uit te oefenen zoals dat gebruikelijk is in het kader van publiekrechtelijke subsidieverhoudingen. De essentie van de bepalingen van [afdeling 5.2 van hoofdstuk 5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is om die reden overgenomen in onderdeel g.  
+Dit artikel bevat de voorwaarden waaraan concrete verstrekkingen van risicokapitaal moeten voldoen om deze onder de garantstelling te kunnen brengen. Sommige van deze voorwaarden hebben betrekking op de kapitaalverstrekking zelf, andere betreffen de ondernemer waaraan het risicokapitaal wordt verstrekt. De financier is gehouden na te gaan of de ondernemer aan deze voorwaarden voldoet. De informatie waarover de financier bijgevolg beschikt of redelijkerwijs zou moeten beschikken is maatgevend voor de beoordeling op grond van artikel 4 of aan de voorwaarden is voldaan. Het in onderdeel a opgenomen vereiste inzake continuïteit en rentabiliteit van de ondernemer, dat reeds in de toelichting bij artikel 31, onderdeel a, van het Kaderbesluit EZ-subsidies is behandeld, wordt toegepast bij de beoordeling van de aanmelding overeenkomstig artikel 4 van de overeenkomst. De ondernemer dient derhalve op dat moment aan deze voorwaarde te voldoen. De ondernemer dient op zichzelf economisch gezond te zijn, maar ook is van belang dat niet een financiering plaatsvindt die de rentabiliteit en continuïteit van het bedrijf in gevaar brengt. Onderdeel b betreft situaties waarin de ondernemer zonder dat dit noodzakelijk is voor de bedrijfsvoering middelen aan de onderneming heeft onttrokken. Door deze gevallen uit te sluiten wordt voorkomen dat het garantstellingsbudget wordt benut voor financieringen die in zekere zin onnodig zijn. In onderdeel e is bepaald dat de verstrekking van risicokapitaal niet anders dan met geld kan plaatsvinden. Bij financiering door de overdracht van bijvoorbeeld goederen of vorderingen kan gemakkelijk een intransparante situatie ontstaan. In onderdeel f is een inhoudelijke voorwaarde gesteld ten aanzien van de kapitaalverstrekking om te voorkomen dat op oneigenlijke wijze gebruik wordt gemaakt van dit instrument. Daarvan kan in het bijzonder sprake zijn indien een financiering onder de garantstelling wordt gebracht om het risico van een andere financiering af te dekken. Indien de aankoop van aandelen tegen een abnormaal hoge prijs onder de garantstelling wordt gebracht terwijl daarnaast, ter compensatie, een lening tegen een zeer hoge rente wordt verstrekt, zou de financier na enkele jaren de aandelen tegen een veel lagere prijs kunnen verkopen en voor het geleden verlies een beroep op de garantie kunnen doen. Om dit te voorkomen wordt voor toepassing van de garantstelling vereist dat de kapitaalverstrekking als zodanig bijdraagt aan het realiseren van een actief en winstgericht beleid of, anders gezegd, commercieel interessant is. Onderdeel g beoogt zeker te stellen dat zonodig zijdens de minister boekenonderzoek bij de ondernemer kan plaatsvinden. Onder omstandigheden kan twijfel bestaan of de feitelijke situatie van de ondernemer overeen komt met het beeld zoals dat naar voren komt uit de door de financier verstrekte informatie. Het is wenselijk dat alsdan de bevoegdheid bestaat toezicht uit te oefenen zoals dat gebruikelijk is in het kader van publiekrechtelijke subsidieverhoudingen. De essentie van de bepalingen van afdeling 5.2 van hoofdstuk 5 van de Algemene wet bestuursrecht is om die reden overgenomen in onderdeel g.  
 
 ####Artikel 4 (Aanmelding en toetsing)
 
@@ -3257,7 +3738,7 @@ Indien een financier een garantstellingsovereenkomst met de Staat heeft gesloten
 
 ####Artikel 5 (Verplichtingen beheer)
 
-Dit artikel bevat enkele algemene verplichtingen ten aanzien van de financier evenals bepalingen over wijzigingen van het aflossingsschema van een achtergestelde lening. In het eerste lid is een algemene zorgplicht vastgelegd om een actief en winstgericht financieringsbeleid te voeren, rekening houdend met het belang van de garantsteller. Dit impliceert onder meer dat de financier op de hoogte moet zijn van belangrijke ontwikkelingen bij de ondernemer waarin is geïnvesteerd, opdat de financier en de Staat als garantsteller niet onnodig voor onaangename verrassingen worden gesteld. Het financieringsbeleid heeft betrekking op alle werkzaamheden die een goed huisvader betaamt, ongeacht of het de verstrekking, het beheren in enge zin of de vervreemding van het risicokapitaal betreft. Het tweede, derde en vierde lid weerspiegelen de eisen die in [artikel 24 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn gesteld op het vlak van deskundigheid, betrouwbaarheid en integriteit. Financiers dienen aan de eisen die voor het sluiten van de garantstellingsovereenkomst worden gesteld, te blijven voldoen. Integriteit betreft onder meer het voorkomen van verstrengeling van tegengestelde belangen. Een voorbeeld van belangenverstrengeling en de mogelijke gevolgen daarvan is de situatie waarin een aandeelhouder van een participatiemaatschappij die tevens aandeelhouder is van een andere participatiemaatschappij, aandelen van de ene naar de andere maatschappij overdraagt tegen kunstmatige prijzen, waardoor de maatschappij benadeeld wordt. Het vijfde lid betreft specifiek het risico van belangenverstrengeling in geval bij de financier betrokkenen investeringen doen door het verstrekken van krediet of risicokapitaal aan de ondernemer die met garantie is gefinancierd. Bij een dergelijke samenloop kan belangenverstrengeling aan de orde zijn, reden om te vergen dat die parallelle financieringen passen in een redelijk financieringsbeleid. Ingevolge het zesde lid vergt een wijziging van het aflossingsschema die lagere aflossingen of een temporisering behelst, in beginsel de toestemming van de Staat. Op deze wijze kan worden getoetst of de beoogde aanpassing niet strijdig is met het belang van de ondernemer of met het (financiële) belang van de Staat. Het toestemmingsvereiste geldt niet voor zover de wijziging voortvloeit uit de eerste opschorting van aflossingen gedurende ten hoogste een jaar. Voor dergelijke wijzigingen met relatief beperkte gevolgen volstaat dat de Staat hierover wordt geïnformeerd overeenkomstig artikel 7, tweede lid. Het zevende lid bevat de concrete criteria voor het verlenen van toestemming. Duidelijk moet zijn dat de opschorting noodzakelijk is vanwege liquiditeitsproblemen van de ondernemer (onderdeel a). Verder moeten voor de oplossing daarvan maatregelen worden genomen, waarbij ook het belang van de ondernemer op de langere termijn moet worden betrokken (onderdeel b). Het criterium van onderdeel c tenslotte betreft het belang van de Staat als garantsteller en beoogt in het bijzonder te voorkomen dat de aflossing van een gegarandeerde lening wordt opgeschort terwijl op andere leningen wel afgelost wordt. Op die wijze zou de financier zijn risico’s op de Staat kunnen afwentelen. Bij de noodzaak van evenwichtige aanwending van beschikbare middelen dient rekening te worden gehouden met de aard van de desbetreffende leningen. In het bijzonder kan een achterstellingsclausule reden zijn voor een niet evenredige aanwending van middelen voor aflossingen.  
+Dit artikel bevat enkele algemene verplichtingen ten aanzien van de financier evenals bepalingen over wijzigingen van het aflossingsschema van een achtergestelde lening. In het eerste lid is een algemene zorgplicht vastgelegd om een actief en winstgericht financieringsbeleid te voeren, rekening houdend met het belang van de garantsteller. Dit impliceert onder meer dat de financier op de hoogte moet zijn van belangrijke ontwikkelingen bij de ondernemer waarin is geïnvesteerd, opdat de financier en de Staat als garantsteller niet onnodig voor onaangename verrassingen worden gesteld. Het financieringsbeleid heeft betrekking op alle werkzaamheden die een goed huisvader betaamt, ongeacht of het de verstrekking, het beheren in enge zin of de vervreemding van het risicokapitaal betreft. Het tweede, derde en vierde lid weerspiegelen de eisen die in artikel 24 van het Kaderbesluit EZ-subsidies zijn gesteld op het vlak van deskundigheid, betrouwbaarheid en integriteit. Financiers dienen aan de eisen die voor het sluiten van de garantstellingsovereenkomst worden gesteld, te blijven voldoen. Integriteit betreft onder meer het voorkomen van verstrengeling van tegengestelde belangen. Een voorbeeld van belangenverstrengeling en de mogelijke gevolgen daarvan is de situatie waarin een aandeelhouder van een participatiemaatschappij die tevens aandeelhouder is van een andere participatiemaatschappij, aandelen van de ene naar de andere maatschappij overdraagt tegen kunstmatige prijzen, waardoor de maatschappij benadeeld wordt. Het vijfde lid betreft specifiek het risico van belangenverstrengeling in geval bij de financier betrokkenen investeringen doen door het verstrekken van krediet of risicokapitaal aan de ondernemer die met garantie is gefinancierd. Bij een dergelijke samenloop kan belangenverstrengeling aan de orde zijn, reden om te vergen dat die parallelle financieringen passen in een redelijk financieringsbeleid. Ingevolge het zesde lid vergt een wijziging van het aflossingsschema die lagere aflossingen of een temporisering behelst, in beginsel de toestemming van de Staat. Op deze wijze kan worden getoetst of de beoogde aanpassing niet strijdig is met het belang van de ondernemer of met het (financiële) belang van de Staat. Het toestemmingsvereiste geldt niet voor zover de wijziging voortvloeit uit de eerste opschorting van aflossingen gedurende ten hoogste een jaar. Voor dergelijke wijzigingen met relatief beperkte gevolgen volstaat dat de Staat hierover wordt geïnformeerd overeenkomstig artikel 7, tweede lid. Het zevende lid bevat de concrete criteria voor het verlenen van toestemming. Duidelijk moet zijn dat de opschorting noodzakelijk is vanwege liquiditeitsproblemen van de ondernemer (onderdeel a). Verder moeten voor de oplossing daarvan maatregelen worden genomen, waarbij ook het belang van de ondernemer op de langere termijn moet worden betrokken (onderdeel b). Het criterium van onderdeel c tenslotte betreft het belang van de Staat als garantsteller en beoogt in het bijzonder te voorkomen dat de aflossing van een gegarandeerde lening wordt opgeschort terwijl op andere leningen wel afgelost wordt. Op die wijze zou de financier zijn risico’s op de Staat kunnen afwentelen. Bij de noodzaak van evenwichtige aanwending van beschikbare middelen dient rekening te worden gehouden met de aard van de desbetreffende leningen. In het bijzonder kan een achterstellingsclausule reden zijn voor een niet evenredige aanwending van middelen voor aflossingen.  
 
 ####Artikel 6 (Financiële verplichtingen)
 
@@ -3285,7 +3766,7 @@ Zonodig kan de overeenkomst door de Staat worden opgezegd op de in het eerste li
 
 ### Bijlage  3.2  
 
-####Model garantstellingsovereenkomst ten aanzien van niet converteerbare achtergestelde leningen als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 3.7, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+####Model garantstellingsovereenkomst ten aanzien van niet converteerbare achtergestelde leningen als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 3.7, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
 ####Model garantstellingsovereenkomst ten aanzien van niet converteerbare achtergestelde leningen
 
@@ -3331,7 +3812,7 @@ i.  *achtergestelde lening:*
 
 – ten aanzien waarvan de financier in de vorenbedoelde akte van geldlening afstand heeft gedaan van alle rechten tot verrekening van de niet vervallen aflossingen; of    
 
-2°. een lening van geld door een financier aan een ondernemer die een rechtspersoon is wiens activa slechts bestaan uit deelnemingen in of vorderingen op een dochtermaatschappij in de zin van [artikel 24a van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met het oog op financiering door deze ondernemer van activiteiten van deze dochtermaatschappij, 
+2°. een lening van geld door een financier aan een ondernemer die een rechtspersoon is wiens activa slechts bestaan uit deelnemingen in of vorderingen op een dochtermaatschappij in de zin van artikel 24a van Boek 2 van het Burgerlijk Wetboek, met het oog op financiering door deze ondernemer van activiteiten van deze dochtermaatschappij, 
 
 – welke lening niet door enige vorm van zekerheid is gedekt, met uitzondering van een persoonlijke borgstelling van een aandeelhouder in de onderneming van de ondernemer en van een pandrecht gevestigd op aandelen in de dochtermaatschappij,  
 
@@ -3476,7 +3957,7 @@ a. een aflossing van een achtergestelde lening, tenzij deze aflossing overeenkom
 
 b. een wijziging van de looptijd van een achtergestelde lening.     
 3.  De financier verstrekt de Staat jaarlijks zijn jaarverslag.   
-4.  Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander risicokapitaal dat hij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan risicokapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming. .   
+4.  Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander risicokapitaal dat hij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan risicokapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming. .   
 5.  De financier doet onverwijld mededeling aan de Staat van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling aan hem, een verzoek tot faillietverklaring van hem of een verzoek om ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing te verklaren.   
 
 ### Artikel  8  
@@ -3601,24 +4082,24 @@ Deze overeenkomst treedt in werking door de ondertekening daarvan door de partij
 ####Gegevens financier:
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Naam financier:  | --- |
 | Postadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Bezoekadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Postbanknummer:  | --- |
 | Bankrekeningnummer:  | --- |
 | Naam bank:  | --- | Te:  | --- |
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Contactpersoon:  | --- |
 | --- | □ Dhr.  | □ Mw.  | Titel(s):  | --- | Initialen:  |
 | Functie:  | --- |
@@ -3651,10 +4132,10 @@ o Vragenset 1 moet ingevuld worden
 
 o Vragenset 2 moet ingevuld worden  
 
-o Geen van beiden hoeft ingevuld te worden   Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de Subsidieregeling starten, groeien en overdragen van ondernemingen. Aldus naar waarheid ingevuld,  
+o Geen van beiden hoeft ingevuld te worden   Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het Kaderbesluit EZ-subsidies en de Subsidieregeling starten, groeien en overdragen van ondernemingen. Aldus naar waarheid ingevuld,  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam:  | --- |
 | Functie:  | --- |
 | Plaats:  | --- |
@@ -3725,24 +4206,24 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 ####Gegevens financier:
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Naam financier:  | --- |
 | Postadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Bezoekadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Postbanknummer:  | --- |
 | Bankrekeningnummer:  | --- |
 | Naam bank:  | --- | Te:  | --- |
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Contactpersoon:  | --- |
 | --- | □ Dhr.  | □ Mw.  | Titel(s):  | --- | Initialen:  |
 | Functie:  | --- |
@@ -3775,10 +4256,10 @@ o Vragenset 1 moet ingevuld worden
 
 o Vragenset 2 moet ingevuld worden  
 
-o Geen van beiden hoeft ingevuld te worden   Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de Subsidieregeling starten, groeien en overdragen van ondernemingen. Aldus naar waarheid ingevuld,  
+o Geen van beiden hoeft ingevuld te worden   Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het Kaderbesluit EZ-subsidies en de Subsidieregeling starten, groeien en overdragen van ondernemingen. Aldus naar waarheid ingevuld,  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam:  | --- |
 | Functie:  | --- |
 | Plaats:  | --- |
@@ -4034,7 +4515,7 @@ c. de materiële verslechtering van de kredietwaardigheid van de ondernemer.
 
 3. De financier verstrekt de Staat jaarlijks zijn jaarverslag.  
 
-4. Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander kapitaal dat zij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan kapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.  
+4. Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander kapitaal dat zij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan kapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.  
 
 5. De financier doet onverwijld mededeling aan de Staat van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling aan hem, een verzoek tot faillietverklaring van hem of een verzoek om ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing te verklaren.    
 
@@ -4185,7 +4666,7 @@ Aanvraagformulier garantstellingsovereenkomst als bedoeld in artikel 3.13, tweed
 1. Gegevens financier:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- |
 | Naam financier:  |
 | Postadres:  |
@@ -4217,7 +4698,7 @@ A. geen garantstellingsovereenkomst Groeifaciliteit met de Staat afgesloten
 
 B. reeds een garantstellingsovereenkomst Groeifaciliteit met de staat afgesloten. 
 
-○ zo ja, vragenset 2 invullen.     Ondertekening Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de Subsidieregeling starten, groeien en overdragen van ondernemingen.   Aldus naar waarheid ingevuld, Naam: Functie: Plaats: Datum: Handtekening :..... Indienen: ondertekenen door tekenbevoegde en per post (niet per fax) verzenden naar: SenterNovem Groeifaciliteit Postbus 93144 2509 AC Den Haag 
+○ zo ja, vragenset 2 invullen.     Ondertekening Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het Kaderbesluit EZ-subsidies en de Subsidieregeling starten, groeien en overdragen van ondernemingen.   Aldus naar waarheid ingevuld, Naam: Functie: Plaats: Datum: Handtekening :..... Indienen: ondertekenen door tekenbevoegde en per post (niet per fax) verzenden naar: SenterNovem Groeifaciliteit Postbus 93144 2509 AC Den Haag 
 
 ####Vragenset 1 van het aanvraagformulier
 
@@ -4251,7 +4732,7 @@ Model garantstellingsovereenkomst Tijdelijke garantie ondernemingsfinanciering c
 
 a. *minister:* de Minister van Economische Zaken;  
 
-b. *bank:* een instelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en die een vergunning heeft om in een lidstaat van de Europese Unie het bedrijf van bank uit te oefenen;  
+b. *bank:* een instelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en die een vergunning heeft om in een lidstaat van de Europese Unie het bedrijf van bank uit te oefenen;  
 
 c. *lening:* een niet achtergestelde lening van geld door een financier aan een ondernemer, welke lening: 
 
@@ -4285,7 +4766,7 @@ h. *financier:* een bank;
 
 i. *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent, in Nederland is gevestigd en daar een substantieel deel van haar activiteiten uitvoert.  
 
-j. *curatieve zorg:* zorg door een instelling die een toelating heeft op grond van de [Wet toelating zorginstellingen](../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) voor het verlenen van medisch-specialistische zorg of een zorgcontract heeft met het Zorgverzekeringskantoor BES en die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.    
+j. *curatieve zorg:* zorg door een instelling die een toelating heeft op grond van de Wet toelating zorginstellingen voor het verlenen van medisch-specialistische zorg of een zorgcontract heeft met het Zorgverzekeringskantoor BES en die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.    
 
 2. In deze overeenkomst wordt een academisch ziekenhuis aangemerkt als een ondernemer.    
 
@@ -4423,7 +4904,7 @@ b. een wijziging van de looptijd van een lening.
 
 3. De financier verstrekt de Staat jaarlijks zijn jaarverslag.  
 
-4. Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander kapitaal dat zij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan kapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.  
+4. Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander kapitaal dat zij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan kapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.  
 
 5. De financier doet onverwijld mededeling aan de Staat van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling aan hem of een verzoek tot faillietverklaring van hem.    
 
@@ -4576,7 +5057,7 @@ Dit formulier bevat een aantal vragen die u kunt beantwoorden op dit formulier i
 ####Gegevens aanvrager bank
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Naam bank:  |
 | Postadres:  |
 | Postcode:  | Plaats:  |
@@ -4605,7 +5086,7 @@ Dit formulier bevat een aantal vragen die u kunt beantwoorden op dit formulier i
 Datum en kenmerk van de brief waarin de lening is verstrekt aan: ..... (naam onderneming)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Datum:  | --- |
 | Kenmerk bank:  | --- |
 | Projectnummer SenterNovem:  | --- |
@@ -4617,7 +5098,7 @@ Datum en kenmerk van de brief waarin de lening is verstrekt aan: ..... (naam ond
 *Voorbeeldtabel berekening verlies en geclaimd bedrag:*  (Tabel svp separaat invullen per geldlening).  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Oorspronkelijke waarde van lening  | --- |
 | Aflossing lening  | --- |
 | Overige ontvangsten en opbrengsten zekerheden*  | --- |
@@ -4627,7 +5108,7 @@ Datum en kenmerk van de brief waarin de lening is verstrekt aan: ..... (naam ond
 * Gerealiseerde opbrengst uit zekerheden gesteld voor garantielening <sup> 1  Opbrengsten minus externe kosten. Interne kosten van de bank mogen dus niet verrekend worden. T.a.v. opbrengsten en externe kosten van materieel belang dienen bewijsstukken meegezonden te worden.  </sup>  
 
 | Omschrijving  | Totale opbrengst  | Opbrengst bank  | Opbrengst garantielening  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
@@ -4642,7 +5123,7 @@ Datum en kenmerk van de brief waarin de lening is verstrekt aan: ..... (naam ond
 * Schatting van nog te realiseren opbrengst uit zekerheden gesteld voor garantielening 
 
 | Omschrijving  | Totale opbrengst  | Opbrengst bank  | Opbrengst garantielening  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
@@ -4707,7 +5188,7 @@ b. en rekening is gehouden met het belang van de Staat als garantsteller.
 Aldus naar waarheid ingevuld,  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Naam:  | --- |
 | Functie  | --- |
 | Plaats:  | --- |
@@ -4743,24 +5224,24 @@ Niet opgenomen.
 ####Gegevens financier:
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Naam financier:  | --- |
 | Postadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Bezoekadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Postbanknummer:  | --- |
 | Bankrekeningnummer:  | --- |
 | Naam bank:  | --- | Te:  | --- |
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Contactpersoon:  | --- |
 | --- | □ Dhr.  | □ Mw.  | Titel(s):  | --- | Initialen:  |
 | Functie:  | --- |
@@ -4777,15 +5258,15 @@ Er wordt een onderscheid gemaakt tussen twee afzonderlijke competentiegebieden:
 
 (v) financiering van niet -projectontwikkelingsactiviteiten  
 
-(vi) financiering van projectontwikkelingsactiviteiten   Voor toelating tot de GO GO van hoofdstuk 3, paragraaf 3, Subsidieregeling starten, groeien en overdragen van ondernemingen (SGO) moet de financier eerst aantonen over de benodigde deskundigheid te beschikken. Hiertoe zijn in het formulier twee vragensets opgenomen. 
+(vi) financiering van projectontwikkelingsactiviteiten   Voor toelating tot de GO van hoofdstuk 3, paragraaf 3b, Subsidieregeling starten, groeien en overdragen van ondernemingen (SGO) moet de financier eerst aantonen over de benodigde deskundigheid te beschikken. Hiertoe zijn in het formulier twee vragensets opgenomen. 
 
 ####Vragenset 1 (financiering niet-projectontwikkelingsactiviteiten)
 
-Deze vragenset moet ingevuld worden als de financier onder de aangevraagde garantstellingsovereenkomst niet- projectontwikkelingsactiviteiten wil financieren, maar in het kader van de GO of Groeifaciliteit (hoofdstuk 3, paragraaf 2 van de SGO) nog geen toelating heeft voor financiering daarvan.  
+Deze vragenset moet ingevuld worden als de financier onder de aangevraagde garantstellingsovereenkomst niet- projectontwikkelingsactiviteiten wil financieren, maar in het kader van de GO of Groeifaciliteit (hoofdstuk 3, paragrafen 2 en 3 van de SGO) nog geen toelating heeft voor financiering daarvan.  
 
 ####Vragenset 2 (financiering projectontwikkelingsactiviteiten)
 
-Deze vragenset moet ingevuld worden als de financier onder de aangevraagde garantstellingsovereenkomst projectontwikkelingsactiviteiten wil financieren, maar in het kader van de GO of Groeifaciliteit nog geen toelating heeft voor financiering daarvan. Aankruisen wat van toepassing is: 
+Deze vragenset moet ingevuld worden als de financier onder de aangevraagde garantstellingsovereenkomst projectontwikkelingsactiviteiten wil financieren, maar in het kader van de GO of Groeifaciliteit (hoofdstuk 3, paragrafen 2 en 3 van de SGO) nog geen toelating heeft voor financiering daarvan. Aankruisen wat van toepassing is: 
 
 o Vragenset 1 moet ingevuld worden  
 
@@ -4802,10 +5283,10 @@ Per kwartaal wordt bij de financier de periodieke garantieprovisie in rekening g
 o Ja  
 
 o Nee    
-Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en de Subsidieregeling starten, groeien en overdragen van ondernemingen. Aldus naar waarheid ingevuld,  
+Ondergetekende verklaart dat hij/zij bekend is met de voorwaarden en procedures van het Kaderbesluit EZ-subsidies en de Subsidieregeling starten, groeien en overdragen van ondernemingen. Aldus naar waarheid ingevuld,  
 
 | Naam:  |--- |
-|:---|:---|
+|---|---|
 | Functie:  | --- |
 | Plaats:  | --- |
 | Datum:  | --- |
@@ -4882,7 +5363,7 @@ a. *minister:* de Minister van Economische Zaken;
 
 b. *bank:* binnen het grondgebied van de Europese Unie gevestigde bank die is toegelaten het bedrijf van bank uit te oefenen;  
 
-c. *financier:* een bank;  
+c. *financier:* een bank of schadeverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
 d. *groep:* een economische eenheid, waarin organisatorisch zijn verbonden: 
 
@@ -4910,7 +5391,7 @@ i. *waarde van een bankgarantie:* de hoogte van het bedrag dat maximaal nog kan 
 
 ####Garantstelling
 
-1. De Staat stelt zich tegenover de financier garant voor 50 procent van de waarde van door de financier afgegeven bankgarantie, voor welke garantstelling de financier een periodieke provisie, bedoeld in [artikel 32, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is verschuldigd.  
+1. De Staat stelt zich tegenover de financier garant voor 50 procent van de waarde van door de financier afgegeven bankgarantie, voor welke garantstelling de financier een periodieke provisie, bedoeld in artikel 32, derde lid, van het Kaderbesluit EZ-subsidies, is verschuldigd.  
 
 2. De financier is voor het verstrekken van een bankgarantiefaciliteit een eenmalige provisie van 0,25 procent van 50 procent van de bankgarantiefaciliteit verschuldigd.  
 
@@ -4932,9 +5413,7 @@ b. die onder de garantstelling is gebracht overeenkomstig de procedure van artik
 
 c. waaraan een overeenkomst van een bankgarantiefaciliteit, die overeenkomstig de procedure van artikel 5 is goedgekeurd door de Staat, ten grondslag ligt.    
 
-9. Indien de financier bij het afgeven van een bankgarantie een gedeelte daarvan niet onder de garantstelling van de Staat brengt, is deze overeenkomst slechts van toepassing op het gedeelte van de bankgarantie dat onder de garantstelling is gebracht, tenzij uitdrukkelijk anders is bepaald;  
-
-10. De garantstelling heeft alleen betrekking op een bankgarantie die uiterlijk op 31 december 2012 wordt afgegeven.    
+9. Indien de financier bij het afgeven van een bankgarantie een gedeelte daarvan niet onder de garantstelling van de Staat brengt, is deze overeenkomst slechts van toepassing op het gedeelte van de bankgarantie dat onder de garantstelling is gebracht, tenzij uitdrukkelijk anders is bepaald.    
 
 ### Artikel  3  
 
@@ -5094,7 +5573,7 @@ d. de materiële verslechtering van de kredietwaardigheid van de ondernemer.
 
 3. De financier verstrekt de Staat jaarlijks zijn jaarverslag.  
 
-4. Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de afgiften en het beheer van gegarandeerde bankgaranties en van kapitaal dat zij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan kapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.  
+4. Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de afgiften en het beheer van gegarandeerde bankgaranties en van kapitaal dat zij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan kapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.  
 
 5. De financier doet onverwijld mededeling aan de Staat van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling aan hem, een verzoek tot faillietverklaring van hem of een verzoek om ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing te verklaren.    
 
@@ -5217,18 +5696,18 @@ Dit formulier bevat een aantal vragen die u kunt beantwoorden op dit formulier i
 ####Gegevens financier
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Naam financier:  Referentienummer van de financier:  | --- |
 | Postadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Bezoekadres:  | --- |
 | Postcode:  | --- | Plaats:  | --- |
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | Contactpersoon:  | --- |
 | --- | □ Dhr  | □ Mw  | Titel(s):  | --- | Initialen:  |
 | Functie:  | --- |
@@ -5265,7 +5744,7 @@ Dit formulier bevat een aantal vragen die u kunt beantwoorden op dit formulier i
 
 ### 3  
 
-####De bank verklaart hierbij dat aan het gestelde in artikel 3 van de garantstellingsovereenkomst voldaan is op de volgende punten:
+####De financier verklaart hierbij dat aan het gestelde in artikel 3 van de garantstellingsovereenkomst voldaan is op de volgende punten:
 
 * voor zover hij dat heeft kunnen vaststellen, de te financieren ondernemer voldoet aan de bepaling van artikel 3.12w, hoofdstuk 3, § 3B van de Subsidieregeling starten, groeien en overdragen van ondernemingen en diens onderneming bevredigende rentabiliteits- en continuïteitsperspectieven heeft;  
 
@@ -5328,13 +5807,13 @@ de 1e/2e/3e/... verstrekking aan de onderneming op grond van de Garantstellingso
 a. Afsluitprovisie GO bankgarantiefaciliteit (i) Vaste provisie bij verstrekking GO-bankgarantiefaciliteit  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Vaste provisie  | :  | --- | 25 basispunten  |
 
 (ii) Aanvullende afdracht afsluitprovisie GO-bankgarantiefaciliteit <sup> 3  Alleen van toepassing indien afsluitprovisie hoger is dan 50 basispunten.  </sup>  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Afsluitprovisie  | :  | +/+  | basispunten  |
 | Aftrek  | :  | -/-  | 50 basispunten  |
 | Afdracht aan de staat  | --- | --- | basispunten  |
@@ -5342,7 +5821,7 @@ a. Afsluitprovisie GO bankgarantiefaciliteit (i) Vaste provisie bij verstrekking
 b. Bereidstellingsprovisie GO bankgarantiefaciliteit Afdracht bereidstellingsprovisie <sup> 4  Alleen van toepassing indien het tarief van de bereidstellingsprovisie hoger is dan een kwart van de garantieprovisie die de bank in rekening brengt voor af te geven bankgaranties.  </sup>  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Bereidstellingsprovisie  | :  | +/+  | basispunten  |
 | 25% provisie bankgarantie  | :  | -/-  | basispunten  |
 | Af te dragen bereidstellingsprovisie  | --- | --- | basispunten  |
@@ -5360,7 +5839,7 @@ b. Bereidstellingsprovisie GO bankgarantiefaciliteit Afdracht bereidstellingspro
 c. Provisie GO-bankgaranties  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Provisie op bankgarantie  | :  | +/+  | basispunten  |
 | Vergoeding beheerskosten  | :  | -/-  | 15 basispunten  |
 | Afdracht garantieprovisie  | --- | --- | basispunten  |
@@ -5371,7 +5850,7 @@ c. Provisie GO-bankgaranties
 Aldus naar waarheid ingevuld,  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Naam:  | .........................  | --- | --- |
 | Functie:  | .........................  | --- | --- |
 | Plaats:  | .........................  | --- | --- |
@@ -5403,7 +5882,7 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ### Bijlage  4.2  
 
-####Model geldleningsovereenkomst als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 4.13, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+####Model geldleningsovereenkomst als bedoeld in artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies en artikel 4.13, tweede lid , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
 Overeenkomst tussen: 
 
@@ -5706,16 +6185,16 @@ Dit overzicht is afkomstig uit het rapport ‘Van voornemens naar voorsprong: Ke
 
 ### Bijlage  5.2  
 
-(bijlage bij artikel 5.15, eerste lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen)   ![246590](http://wetten.overheid.nl/Illustration/246590)
-![246590](http://wetten.overheid.nl/Illustration/246590)
-![246590](http://wetten.overheid.nl/Illustration/246590)
+(bijlage bij artikel 5.15, eerste lid, van de Subsidieregeling starten, groeien en overdragen van ondernemingen)   ![]()
+![]()
+![]()
 
 ### Bijlage  5.3  
 
 ####, behorende bij de artikelen 5.15, onderdeel b , en 7.13, onderdeel b .
 
-![249008](http://wetten.overheid.nl/Illustration/249008)
-![249008](http://wetten.overheid.nl/Illustration/249008)
+![]()
+![]()
 
 ### Bijlage  7.1  
 
@@ -5723,369 +6202,275 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ### Bijlage  8.1  
 
-####Model overeenkomst van borgtocht als bedoeld in [artikel 30, vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 8.8  van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+####als bedoeld in artikel 8.9  van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
-Partijen: 
+Model overeenkomst tot garantstelling Overeenkomst ten behoeve van scheepsnieuwbouwfinanciering Partijen: 
 
-1. De Staat der Nederlanden, (de borg, hierna te noemen: de Staat), te deze rechtsgeldig vertegenwoordigd door de Minister van Economische Zaken, (hierna te noemen: de Minister);   en 
+1. De Staat der Nederlanden, (hierna te noemen: de Staat), te dezen rechtsgeldig vertegenwoordigd door de Minister van Economische Zaken, en  
 
-2. (de naamloze vennootschap / de besloten vennootschap / )*......... ......., statutair gevestigd te......... en kantoor houdende te................ aan de ..................nr......, waarvan de gegevens zijn vermeld in het Overzicht, te deze rechtsgeldig vertegenwoordigd door .................................................. (de schuldeiser, hierna te noemen: de Bank); (* doorhalen wat niet van toepassing is, evt. andere rechtsvorm invullen)   in aanmerking nemende dat: 
-
-a. scheepswerf ............. statutair gevestigd te......... van welke de gegevens zijn vermeld in het Overzicht met inbegrip van de groep waartoe de scheepswerf behoort (de hoofdschuldenaar, hierna te noemen: de Scheepswerf) en opdrachtgever .............. statutair gevestigd te......... van welke de gegevens zijn vermeld in het Overzicht (hierna te noemen: de Opdrachtgever) een contract hebben gesloten voor de bouw in Nederland van een schip met bouwnummer .................. (hierna te noemen: het Schip);  
-
-b. de Scheepswerf met de Bank een kredietovereenkomst heeft gesloten op grond waarvan de Bank een krediet zal verstrekken voor de financiering van de bouw van het Schip;  
-
-c. de Bank in het kader van het sluiten van de kredietovereenkomst een analyse heeft gemaakt van de kredietwaardigheid van de Scheepswerf, toeleveranciers, de Opdrachtgever en het risicoprofiel van de bouw van het schip, en hierna heeft besloten krediet te verstrekken overeenkomstig de kredietovereenkomst, de totstandkoming van welke kredietovereenkomst evenwel afhankelijk is van de beschikbaarheid van borgstelling;  
-
-d. de Bank bij de Staat een aanvraag heeft ingediend om subsidie in de vorm van borgtocht;  
-
-e. de Minister, gezien het bij de aanvraag overgelegde contract tussen Scheepswerf en Opdrachtgever en gezien de bij de aanvraag overgelegde kredietovereenkomst, overeenkomstig het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 8 van de Subsidieregeling starten, groeien, overdragen van ondernemingen in zijn besluit van .........., nr. ..........heeft besloten de subsidieaanvraag te honoreren en de subsidie te verstrekken in de vorm van de in deze overeenkomst vastgelegde borgstelling.   zijn overeengekomen als volgt: 
-
-### §  1  
-
-####Definities
+2. (de naamloze vennootschap / de besloten vennootschap / de coöperatie)*......... ......., statutair gevestigd te......... en kantoor houdende te................ aan de ..................nr......, te dezen rechtsgeldig vertegenwoordigd door ..................................................   (hierna te noemen: de Bank); (* doorhalen wat niet van toepassing is, evt. andere rechtsvorm invullen) overwegen: De Bank heeft met de hierna te noemen scheepswerf een kredietovereenkomst gesloten op grond waarvan de Bank onder de voorwaarde van de totstandkoming van deze overeenkomst, een krediet zal verstrekken voor de financiering van de bouw in Nederland van een schip. <sup> 1  De Subsidieregeling starten, groeien en overdragen van ondernemingen definieert ``kredietbedrag` als het bedrag dat op grond van de kredietovereenkomst als krediet wordt verstrekt voor de bouw in Nederland van een   nieuw schip.  </sup> Deze overeenkomst behelst de in artikel 8.3 van de Regeling genoemde garantstelling. Partijen komen het volgende overeen: 
 
 ### Artikel  1  
 
 ####Definities
 
-In deze overeenkomst wordt verstaan onder: 
+1. In deze overeenkomst hebben de begrippen die in het Kaderbesluit EZ-subsidies en hoofdstuk 8 van de Subsidieregeling starten, groeien en overdragen van ondernemingen zijn gedefinieerd de in deze regelingen gegeven betekenis.  
 
-a. *Borgstellingsovereenkomst:* deze overeenkomst van borgtocht tussen de Staat en de Bank;  
+2. In aanvulling op het eerste lid en voor zover toepasselijk ter nadere concretisering van de in het eerste lid bedoelde begrippen wordt verstaan onder: 
 
-b. *Overzicht:* het van deze Borgstellingsovereenkomst deel uitmakend overzicht van namen van partijen bij en de essentialia van het contract tussen Scheepswerf en Opdrachtgever, van de Kredietovereenkomst en van de Borgstellingsovereenkomst;  
+a. de beschikking: de beschikking met kenmerk .......... waarbij de Minister van Economische Zaken, handelend als bestuursorgaan, de Bank een subsidie heeft verstrekt als bedoeld in artikel 8.3 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en van welke beschikking een kopie bij deze Overeenkomst behoort (bijlage 2);  
 
-c. *Kredietovereenkomst:* de schriftelijke overeenkomst tussen de Scheepswerf en de Bank op grond waarvan de Bank het Kredietbedrag verstrekt aan de Scheepswerf voor de bouw van het Schip en waarvan de gegevens zijn vermeld in het Overzicht;  
+b. Overeenkomst: de onderhavige overeenkomst ingevolge welke een garantie wordt verstrekt aan de Bank als bedoeld in artikel 8.3 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
 
-d. *Contractprijs:* de tussen Scheepswerf en Opdrachtgever overeengekomen prijs voor de bouw van het Schip, met inbegrip van stelposten voor zover daarvoor in het contract vaste of geschatte bedragen zijn opgenomen en met uitzondering van de eventueel verschuldigde omzetbelasting, zijnde € ............. (zegge....................);  
+c. het staatsgarantiebedrag: het bedrag waarvoor de Staat maximaal garant staat ingevolge de Overeenkomst;  
 
-e. *Kredietbedrag:* het bedrag dat op grond van de Kredietovereenkomst als krediet kan worden verstrekt voor de bouw van het Schip, zijnde € .................. (zegge....................);  
+d. het staatsgarantiepercentage: [y].procent, zijnde het tarief ingevolge artikel 8.10 dat is opgenomen in de beschikking;  
 
-f. *Wachttermijn:* periode van 6 maanden na de dag waarop de Scheepswerf in verzuim is geraakt, of zoveel korter als in het artikel 8 bedoelde overleg is overeengekomen;  
+e. het schip: het schip met bouwnummer .........‘het Schip’;  
 
-g. *Uitstaand krediet:* het bedrag dat op enig moment gedurende de bouw van het Schip op basis van de Kredietovereenkomst daadwerkelijk door de Scheepswerf in krediet is opgenomen.    
+f. scheepswerf: ...................;  
 
-### §  2  
+g. de kredietovereenkomst: de overeenkomst waarvan een kopie bij deze overeenkomst behoort (bijlage 1);  
 
-####Borgtocht
+h. het contante kredietbedrag: het ten gunste van de Scheepswerf voor de bouw van het Schip op basis van de kredietovereenkomst maximaal in contanten ter leen te verstrekken bedrag, groot € ............, zegge ..............................;  
+
+i. het bankgarantiebedrag: het maximum van de bedragen waarvoor de Bank ten gunste van de opdrachtgever en/of toeleveranciers voor de bouw van het Schip op basis van de kredietovereenkomst vooruitbetalinggaranties, leveringgaranties en/of uitvoeringgaranties stelt, groot € ............, zegge ..............................;  
+
+j. het kredietbedrag: de som van het contante kredietbedrag en de bankgarantiefaciliteit, groot € ..........., zegge ..............................;  
+
+k. de liquiditeitsopslag: de opslag die gebruikelijker wijs door de Bank in rekening wordt gebracht en van tijd tot tijd aangepast kan worden aan de marktomstandigdheden, voor de toepassing van deze overeenkomst groot ........; <sup> 2  n.b. percentage uit aanvraagformulier  </sup>  
+
+l. de rentemarge: het percentage dat door de Bank aan de scheepswerf in rekening wordt gebracht over het uitstaande deel van het contante kredietbedrag, doch uitsluitend indien en voor zover dit laatste percentage is verminderd met het geldende Euribortarief en de liquiditeitsopslag van de Bank.      
 
 ### Artikel  2  
 
-####Aard van de borgtocht
+####Inhoud en omvang van de garantie
 
-1.  Behoudens voorzover daarvan in deze Borgstellingsovereenkomst wordt afgeweken stelt de Staat zich op de wijze voorzien in de [artikelen 7:850 BW](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) e.v. borg jegens de Bank voor de terugbetaling door de Scheepswerf van het Kredietbedrag bedoeld in artikel 3, voorzover dat met inachtneming van het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), hoofdstuk 8 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en deze Borgstellingsovereenkomst door de Bank aan de Scheepswerf is verstrekt.   
-2.  De Staat stelt zich niet borg voor kosten van welke aard of omvang ook die door de Bank in rekening worden gebracht aan de Scheepswerf, met uitzondering van de in verband met de Kredietovereenkomst verschuldigde rente (niet zijnde vertragingsrente) en met uitzondering van een aan de gebruiken beantwoordende afsluitprovisie.   
-3.  In afwijking van het tweede lid omvat de borgtocht wel de rente die de Bank in rekening brengt aan de Scheepswerf gedurende de Wachttermijn.   
+1. De Staat stelt zich garant jegens de Bank voor telkens [y] procent van: 
+
+a. het uitstaande deel van het contante kredietbedrag;  
+
+b. het uitstaande deel van het bankgarantiebedrag; en  
+
+c. de uitstaande rente(n), boeterente(n), provisie(s) en kosten, verschuldigd door de scheepswerf aan de Bank ingevolge de kredietovereenkomst in verband met de financiering van de bouw van het Schip voor zover deze niet zijn begrepen in het contante kredietbedrag of bankgarantiebedrag, met dien verstande dat de som van het bedrag waarvoor de Staat garant staat nooit meer bedraagt dan het staatsgarantiebedrag. <sup> 3  n.b.100% van de contractprijs  </sup>    
+
+2. Voor de toepassing van het eerste lid worden de bedragen bedoeld onder a, b en c, verminderd met de bedragen die ten gevolge van enige rechtshandeling de omvang van de verplichtingen van de scheepswerf uit de kredietovereenkomst jegens de Bank verminderen zoals bedragen in de vorm van betalingen, verrekende bedragen en de opbrengst (na aftrek van externe kosten) van de uitwinning van zekerheden (hierna de ‘Zekerheden’), voor zover deze zijn gevestigd in verband met de financiering van het Schip.    
 
 ### Artikel  3  
 
-####Omvang van de borgtocht
+####Aard van de garantie
 
-1.  De omvang van de borgtocht bedoeld in artikel 2 bedraagt .... procent van het Uitstaand krediet.   
-2.  Voor de bepaling van het Uitstaand krediet worden alle rechtshandelingen waardoor de verplichtingen van de Scheepswerf verminderen in aanmerking genomen, zoals betalingen, verrekeningen en de uitwinning van zekerheden. Deze rechtshandelingen worden hierna gezamenlijk ook wel als betalingen betiteld.   
-3.  Voor het geval de Scheepswerf naast de verplichtingen uit hoofde van de Kredietovereenkomst andere verplichtingen aan de Bank of aan een met de Bank in een groep verbonden rechtspersoon heeft worden de volgende toerekeningsregels gehanteerd: 
-
-1°. betalingen die redelijkerwijs toegerekend moeten worden aan de Kredietovereenkomst worden daaraan toegerekend, zoals ook betalingen die redelijkerwijs moeten worden toegerekend aan een andere verplichting aan die andere verplichting worden toegerekend;  
-
-2°. betalingen die redelijkerwijs niet toegerekend kunnen worden aan hetzij de Kredietovereenkomst, hetzij de andere verplichting, zullen naar rato van de actuele hoogte van het Uitstaand krediet respectievelijk de actuele hoogte van die andere verplichting worden toegerekend aan de Kredietovereenkomst respectievelijk die andere verplichting. Voor het bepalen van deze toerekeningsverhouding is het moment van betaling beslissend.     
-4.  De omvang van de borgtocht bedraagt maximaal 80 procent van het Uitstaand krediet, voor de bepaling waarvan stelposten slechts worden meegerekend voor hun nominale in het contract tussen Scheepswerf en Opdrachtgever vermelde waarde en meerwerk niet wordt meegerekend.   
-5.  De omvang van de borgtocht bedraagt maximaal € .......(zegge....................).   
-
-### §  3  
-
-####Verplichtingen
+De garantie is onherroepelijk en onvoorwaardelijk verleend tenzij de Bank de verplichtingen uit deze Overeenkomst niet heeft nageleefd.  
 
 ### Artikel  4  
 
-####Algemene verplichtingen
+####Verplichtingen van de Bank
 
-1.  De Bank is verplicht: 
+1. De Bank zal zich gedragen als een goede kredietverschaffer en handelen in overeenstemming met gebruikelijke bancaire gedragslijnen.  
 
-a. rekening te houden met de vermogensrechtelijke belangen van de Staat in zijn hoedanigheid van borg;  
+2. De Bank is voorts verplicht: 
 
-b. zich tegenover de Scheepswerf op te stellen als een goede kredietverschaffer, handelend in overeenstemming met gebruikelijke gedragslijnen, meer in het bijzonder waar het betreft de synchronisatie van bouw en beschikbaarstelling van het krediet, de overige kredietvoorwaarden, de cover ratio’s en de ten behoeve van het krediet te bedingen zekerheden;  
+a. [100-y].procent van het uitstaande contante kredietbedrag en van het uitstaande deel van het bankgarantiebedrag voor eigen risico te verstrekken en verstrekt te houden, behoudens voorafgaande goedkeuring door de Staat van de overdracht van dit risico aan derden;  
 
-c. een actief en op de Scheepswerf toegesneden beleid te voeren gericht op de terugbetaling van het Kredietbedrag door de Scheepswerf en ook overigens de nodige maatregelen te nemen ter voorkoming of beperking van een beroep op de borgtocht;  
+b. er, voor zover dat redelijkerwijs in haar macht ligt, voor te zorgen dat het contante kredietbedrag noch de vooruitbetalingen op de contractprijs worden aangewend voor de nakoming van verplichtingen van de scheepswerf jegens de Bank of een rechtspersoon waarmee de Bank in een groep verbonden is, welke niet samenhangen met de bouw van het Schip of met de terugbetaling van het contante kredietbedrag.  
 
-d. minimaal 20 procent van het Uitstaand krediet voor eigen risico te verstrekken, behoudens voorafgaande goedkeuring van de overdracht van dit risico aan derden door de Staat;  
-
-e. er zorg voor te dragen dat het Kredietbedrag niet wordt gebruikt voor de nakoming aan de Bank of aan een rechtspersoon waarmee de Bank in een groep verbonden is, van verplichtingen van de Scheepswerf, niet zijnde de terugbetaling van het Kredietbedrag;  
-
-f. redelijke aanwijzingen van de Staat terzake van het bevorderen van de terugbetaling van het Kredietbedrag door de Scheepswerf, dan wel terzake van het beperken van een beroep op de borgtocht, dan wel terzake van het uitwinnen van zekerheden op te volgen;  
-
-g. kosteloos medewerking te verlenen aan een door of namens de Staat uit te voeren review van de controlewerkzaamheden uitgevoerd door de interne accountant.     
-2.  In afwijking van [artikel 7:856, tweede lid, BW](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), komen tijdens de Wachttermijn en de in artikel 11 bedoelde periode, de kosten van rechtsvervolging van de Scheepswerf voor rekening van de Bank.   
+c. er voor te zorgen dat de relaties tussen haar en de bij haar onderneming betrokkenen enerzijds, en de Scheepswerf aan wie het kredietbedrag wordt verschaft anderzijds transparant zijn.      
 
 ### Artikel  5  
 
-####Toestemming Staat voor wijzigen Kredietovereenkomst en contract
+####Vaststelling bepaalde feiten
 
-1.  Tijdens de looptijd van deze Borgstellingsovereenkomst worden geen wijzigingen aangebracht in de Kredietovereenkomst dan na voorafgaande toestemming van de Staat.   
-2.  De Staat laat zo spoedig mogelijk weten of hij toestemming geeft voor de wijziging bedoeld in het eerste lid. Wanneer de Staat niet binnen 2 weken heeft aangegeven niet in te stemmen met de wijziging, dan wordt deze toestemming geacht te zijn gegeven. 3. De Staat kan aan de toestemming voorwaarden verbinden.   
-4.  De Bank is verplicht in de Kredietovereenkomst een bepaling op te nemen, inhoudende de verplichting voor de Scheepswerf dat, tijdens de looptijd van de Borgstellingsovereenkomst, het contract tussen de Opdrachtgever en de Scheepswerf slechts met toestemming van de Bank en die van de Staat kan worden gewijzigd indien deze wijziging leidt tot een negatieve beïnvloeding van de positie van de Staat onder de Borgstellingsovereenkomst.   
-5.  De Bank spant zich ervoor in dat de Scheepswerf haar verplichting als genoemd in het vorige lid nakomt.   
+De Bank en de Staat hebben op basis van onder meer van de Bank verkregen informatie vastgesteld dat: 
+
+a. de continuïteit van de onderneming van de Scheepswerf ten behoeve waarvan zij het kredietbedrag ter beschikking stelt niet wegens geringe rentabiliteit voor de korte of middellange termijn in het geding is;  
+
+b. de Scheepswerf in Nederland gevestigd is en daar een substantieel deel van haar activiteiten uitvoert; en  
+
+c. de relaties bedoeld in artikel 4, tweede lid, onderdeel c, tussen de Bank en de Scheepswerf voldoende transparant zijn.    
 
 ### Artikel  6  
 
-####Rapportage
+####Wijzigen kredietovereenkomst
 
-1.  De Bank informeert de Staat onverwijld over omstandigheden die redelijkerwijs relevant zijn in het kader van een mogelijk beroep op de borgtocht.   
-2.  Onder de in het eerste lid bedoelde omstandigheden vallen in ieder geval: 
+1. Gedurende de looptijd van deze Overeenkomst werkt de Bank niet mee aan wijziging op materiële punten van de kredietovereenkomst dan na voorafgaande toestemming van de Staat.  
 
-a. voortijdige aflossing van het Kredietbedrag;  
+2. Op een verzoek tot toestemming reageert de Staat zo spoedig mogelijk, doch uiterlijk binnen een termijn van twee weken, bij gebreke waarvan de toestemming geacht wordt te zijn verleend.  
 
-b. de aanvraag of verlening van surséance van betaling aan, of de faillietverklaring van de Bank;  
-
-c. de aanvraag of verlening van surséance van betaling aan, of de faillietverklaring van de Scheepswerf;  
-
-d. de aanvraag of verlening van surséance van betaling aan, of de faillietverklaring van de Opdrachtgever;  
-
-e. belangrijke vertraging in de bouw van het Schip of andere factoren die van wezenlijke invloed zijn op de datum van oplevering van het Schip;  
-
-f. het intreden van een in de Kredietovereenkomst genoemde opeisingsgrond;  
-
-g. de situatie waarin de Bank binnen 3 werkdagen na een vervaldag nog geen terugbetaling van de op die vervaldatum te betalen aflossing van het Kredietbedrag heeft ontvangen;  
-
-h. wijzigingen in het contract tussen de Opdrachtgever en de Scheepswerf die leiden tot een negatieve beïnvloeding van de positie van de Staat onder de Borgstellingsovereenkomst.     
+3. De Staat kan aan de toestemming voorwaarden verbinden.    
 
 ### Artikel  7  
 
-####Provisie
+####Rapportage
 
-1.  De Bank betaalt de Staat voor het stellen van borgtocht een jaarlijkse provisie van .......... procent van het Kredietbedrag.   
-2.  Bij de berekening van de provisie wordt voor wat betreft de tijdseenheden en tijdsvakken waarover provisie moet worden betaald aangesloten bij de tijdseenheden en tijdvakken die de Bank volgens haar gebruikelijke administratieve methoden hanteert ter bepaling van de door de Scheepswerf uit hoofde van de Kredietovereenkomst verschuldigde rente.   
-3.  De provisie dient door de Bank zelf te worden berekend,te worden betaald, en te worden gerapporteerd aan de Staat, en wel binnen tien dagen na afsluiting van het tijdvak waarover de Bank overeenkomstig de administratieve methoden, bedoeld in het tweede lid, de Scheepswerf rente uit hoofde van de Kredietovereenkomst in rekening brengt.   
-4.  De provisie dient te worden betaald op de in het Overzicht genoemde bankrekening, aangehouden door de Staat.   
-5.  De Bank is verplicht op verzoek van de Staat een verklaring van een interne accountant over te leggen waaruit blijkt dat de provisie juist is berekend en is afgedragen.   
-6.  Indien de Bank geen beroep kan doen op de borgtocht vanwege het niet voldoen aan de voorwaarden, leidt dit niet tot een recht op restitutie van de provisie.   
+1. De Bank informeert de Staat onverwijld over de volgende omstandigheden: 
+
+a. het intreden van een in de kredietovereenkomst genoemde opeisinggrond;  
+
+b. de situatie waarin de Bank binnen dertig werkdagen na een vervaldag nog geen krachtens de kredietovereenkomst verschuldigde betaling heeft ontvangen;  
+
+c. wijzigingen in het contract met betrekking tot de bouw van het Schip tussen de opdrachtgever en de Scheepswerf, voor zover deze wijzigingen bekend zijn bij de Bank en leiden tot een vergroting van de kans dat de Bank een beroep gaat doen op de garantie;  
+
+d. de indiening bij de rechtbank van een verzoek tot verlening van surseance van betaling aan de Bank, dan wel een verzoek tot faillietverklaring van de Bank.    
+
+2. Voorts informeert de Bank de Staat over andere omstandigheden indien deze naar verwachting een beroep op de garantie ten gevolge zullen hebben.    
 
 ### Artikel  8  
 
-####Verplichting tot overleg bij dreigend beroep op de borgtocht
+####Garantieprovisie (eenmalige provisie)
 
-Indien uit de informatie, bedoeld in artikel 6, of anderszins aan de Staat of aan de Bank blijkt dat er een concreet risico bestaat dat de Scheepswerf haar verplichtingen op grond van de Kredietovereenkomst niet zal nakomen, treden de Bank en de Staat in overleg.  
+1. De Bank betaalt de Staat voor het stellen van de garantie voor financiële verplichtingen als bedoeld in artikel 2. eerste lid onder a eenmalig het staatsgarantiepercentage berekend over het bedrag dat de Bank eenmalig bij wijze van afsluitprovisie in rekening brengt over het contante kredietbedrag, na aftrek van een bedrag gelijk aan 0,5 procent van het contante kredietbedrag.  
 
-### §  4  
+2. De Bank betaalt de Staat voor het stellen van de garantie voor financiële verplichtingen als bedoeld in artikel 2, eerste lid onder b voorts eenmalig: 
 
-####Beroep op de borgtocht
+a. een bedrag gelijk aan 0,25 procent van het bankgarantiebedrag dat de Bank eenmalig bij wijze van afsluitprovisie in rekening brengt over het bankgarantiebedrag, en  
+
+b. het staatsgarantiepercentage berekend over het bedrag dat de Bank eenmalig bij wijze van afsluitprovisie in rekening brengt over het bankgarantiebedrag, na aftrek een bedrag gelijk aan 0,5 procent van het bankgarantiebedrag.    
+
+3. Bij de berekening van de aan de Staat verschuldigde garantieprovisie als bedoeld in artikel 8, eerste en tweede lid, wordt voor wat betreft de data waarop garantieprovisies verschuldigd worden en betaald moeten worden, zo veel mogelijk aangesloten bij de data die de Bank volgens haar gebruikelijke administratieve methoden hanteert ter bepaling van de door de Scheepswerf uit hoofde van de kredietovereenkomst verschuldigde afsluitprovisies, een en ander onverminderd hetgeen in deze staatsgarantieovereenkomst is opgenomen.  
+
+4. De garantieprovisies dienen door de Bank zelf te worden berekend, te worden betaald, en te worden gerapporteerd aan de Staat, en wel binnen ....dagen na afsluiting van het tijdvak waarover de Bank overeenkomstig de administratieve methoden, bedoeld in het derde lid, de Scheepswerf rente en provisies uit hoofde van de kredietovereenkomst in rekening brengt.  
+
+5. De garantieprovisie dient te worden betaald op bankrekening ........, aangehouden door de Staat bij [naam Bank]  
+
+6. Indien de Bank geen beroep kan doen op de garantie vanwege het niet voldoen aan de voorwaarden, leidt dit niet tot een recht op restitutie van de garantieprovisies.  
+
+7. De Staat kan voorafgaand aan de totstandkoming van deze staatsgarantieovereenkomst een hoger tarief voor de aan de Staat op basis van het eerste en tweede lid verschuldigde provisies vaststellen indien deze naar het oordeel van de Staat per saldo te laag zijn in relatie tot het risico dat de Staat loopt.    
 
 ### Artikel  9  
 
-####Voorwaarden voor beroep op de borgtocht en verplichting Staat
+####Garantieprovisie (periodieke provisie)
 
-1.  Indien de Scheepswerf tekort schiet in nakoming van de verplichting tot terugbetaling van het Kredietbedrag, is de Bank na afloop van de Wachttermijn gerechtigd de borgstelling in te roepen.   
-2.  De Staat is echter niet gehouden tot enigerlei betaling uit hoofde van deze Borgstellingsovereenkomst indien: 
+1. De Bank betaalt de Staat voor het stellen van de garantie voor financiële verplichtingen als bedoeld in artikel 2, eerste lid onder a periodiek 
 
-a. de Bank niet heeft voldaan aan de verplichtingen uit deze Borgstellingsovereenkomst, het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 8 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+a. een deel gelijk aan het staatsgarantiepercentage van de rentemarge die door de Bank aan de scheepswerf in rekening wordt gebracht over het uitstaande deel van het contante kredietbedrag, na aftrek van 0,25% van het uitstaande contante kredietbedrag. Indien de Bank volgens een meerderheid van de gerenommeerde rating bureaus een hogere rating heeft verkregen dan A/A2, wordt voor de bepaling van de rentemarge de aftrek van de liquiditeitsopslag vermeerderd met het verschil tussen de in de markt gangbare liquiditeitsopslagen voor leningen met vergelijkbare looptijden van banken met een A/A2 rating en de liquiditeitsopslag van de Bank, en  
 
-b. de Bank bij de aanvraag om subsidie in de vorm van borgtocht gegevens heeft verstrekt, waarvan zij wist of behoorde te weten dat deze onjuist of onvolledig waren en de verstrekking van deze gegevens tot een andere beslissing op de aanvraag zou hebben geleid, of de verstrekking van gegevens achterwege heeft gelaten terwijl zij wist of had behoren te weten dat bekendheid met die gegevens tot een andere beslissing op de aanvraag zou hebben geleid.     
-3.  De Bank zal het tweede lid, onderdeel a, niet tegengeworpen krijgen met betrekking tot een niet voldoen aan de verplichting uit het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 8 van de Subsidieregeling starten, groeien en overdragen van ondernemingen dat het moet gaan om de bouw van een nieuw schip in Nederland, indien zij bij de aanvraag een verklaring heeft overgelegd waaruit blijkt dat sprake is van bouwen in Nederland (‘Verklaring bouwen in Nederland’).   
+b. een deel gelijk aan het staatsgarantiepercentage van het bedrag dat door de Bank aan de scheepswerf als bereidstellingprovisie in rekening wordt gebracht over het onbenutte deel van het contante kredietbedrag, doch uitsluitend indien en voor zover de bereidstellingprovisie (uitgedrukt in basispunten) meer bedraagt dan 25 procent van de rentemarge.    
+
+2. De Bank betaalt de Staat voor het stellen van de garantie voor financiële verplichtingen als bedoeld in artikel 2, eerste lid onder b, voorts periodiek: 
+
+a. een bedrag gelijk aan 0,4 procent van het uitstaande bankgarantiebedrag alsmede een bedrag gelijk aan het staatsgarantiepercentage van het bedrag dat de Bank aan de scheepswerf als garantieprovisie in rekening brengt over het uitstaande bankgarantiebedrag, voor zover deze garantieprovisie meer bedraagt dan 0,65 procent, en  
+
+b. een deel gelijk aan het staatsgarantiepercentage van het bedrag dat door de Bank aan de scheepswerf als bereidstellingsprovisie in rekening brengt over het onbenutte deel van het bankgarantiebedrag, voor zover deze bereidstellingprovisie (uitgedrukt in basispunten) meer bedraagt dan 25 procent van de garantieprovisie die de bank aan de scheepswerf in rekening brengt (eveneens uitgedrukt in basispunten).    
+
+3. Artikel 8, lid 3 t/m 7 is van overeenkomstige toepassing.    
 
 ### Artikel  10  
 
-####Beroep op de borgtocht
+####Verplichting tot overleg bij dreigend beroep op de garantie
 
-1.  De Bank maakt bij een beroep op de borgtocht gebruik van het formulier ‘Beroep op de borgtocht’ (te verkrijgen bij de EVD).   
-2.  Indien de Bank een beroep doet op de borgtocht, dient zij alle gegevens te verstrekken, de Staat inzage te geven en kopie te laten nemen van alle bescheiden, die de Staat nodig heeft om te beoordelen of er op grond van deze Borgstellingsovereenkomst een recht op betaling bestaat.   
-3.  De Bank verstrekt in ieder geval: 
-
-a. een verslag van de activiteiten die de Bank tijdens de Wachttermijn heeft ondernomen gericht op het beperken van een beroep op de borgtocht, waaronder in elk geval een verslag van de uitwinning van zekerheden;  
-
-b. een voorstel met betrekking tot de voorgenomen activiteiten ten aanzien van verdere invordering van het Kredietbedrag c.q. de uitwinning van zekerheden.     
-4.  De Staat kan de Bank verzoeken de in het tweede en het derde lid bedoelde gegevens door haar interne accountant te laten certificeren. De Bank is gehouden aan dat verzoek te voldoen.   
-5.  Indien de Bank na het inroepen van de borgtocht betalingen op het Kredietbedrag ontvangt doet zij daarvan onverwijld mededeling aan de Staat   
+Indien uit de informatie, bedoeld in artikel 7, of anderszins aan de Staat of aan de Bank blijkt dat er een concreet risico bestaat dat de Scheepswerf haar verplichtingen op grond van de kredietovereenkomst niet zal nakomen, treden de Bank en de Staat in overleg.  
 
 ### Artikel  11  
 
-####Bevestiging en beoordeling beroep op de borgtocht
+####Beroep op de garantie
 
-1.  De Staat bevestigt de ontvangst van een beroep op de borgtocht schriftelijk binnen 1 week na de ontvangst aan de Bank en aan de Scheepswerf.   
-2.  Binnen 8 weken na ontvangst van alle gegevens bedoeld in artikel 10, tweede lid, deelt de Staat schriftelijk aan de Bank en aan de Scheepswerf mede welk recht op betaling op grond van deze Borgstellingsovereenkomst bestaat.   
-3.  Gedurende de periode van 8 weken, genoemd in het tweede lid, heeft de Staat het recht een deskundige aan te wijzen die belast wordt met het controleren van de verstrekte gegevens en bescheiden en van de hoogte van het beroep op de borgtocht. Indien de Staat van deze bevoegdheid gebruik maakt, wordt de in het tweede lid bedoelde termijn voor de duur van het onderzoek verlengd. In dit geval deelt de Staat binnen 8 weken na ontvangst van het rapport van de deskundige aan de Bank mede welk recht op betaling op grond van deze Borgstellingsovereenkomst bestaat.   
-4.  Indien de Bank zich niet kan verenigen met de in het tweede of het derde lid bedoelde mededeling omtrent haar aanspraken uit deze Borgstellingsovereenkomst, dient zij op straffe van verval van rechten uit deze Borgstellingsovereenkomst binnen zes maanden na dagtekening van de mededeling bedoeld in het tweede of het derde lid de Staat voor de bevoegde rechter te ’s-Gravenhage te dagvaarden.   
+1. De Bank is gerechtigd een beroep te doen op de garantie tot uiterlijk 30 dagen na de datum van beëindiging van deze Overeenkomst indien voldaan is aan de volgende voorwaarden: 
+
+a. de Scheepswerf is vóór de beëindiging van deze Overeenkomst tekort geschoten in de nakoming van de uit de kredietovereenkomst voortvloeiende verplichting tot betaling van de onder artikel 2, eerste lid, bedoelde bedragen, en  
+
+b. 
+
+(i) de Bank heeft datgene gedaan wat redelijkerwijs van de Bank verwacht mocht worden in verband met de uitwinning van de Zekerheden verbandhoudende met de kredietovereenkomst dan wel (ii) de Bank vermeldt bij het doen van het beroep op de garantie dat de uitwinning van de Zekerheden nog niet tot het gewenste resultaat heeft geleid en dat de garantie wordt ingeroepen tot behoud van rechten, in welk geval de Staat tot verlenging van de garantie van maximaal 12 maanden vanaf de datum van de melding door de Bank zal overgaan.      
+
+2. De Bank doet het in het eerste lid bedoelde beroep op de garantie door schriftelijke indiening op het adres als bedoeld in artikel 18, eerste lid met gebruikmaking van het formulier uit bijlage [*]. Op eerste verzoek van de Bank bevestigt de Staat aan de Bank de goede ontvangst.  
+
+3. De Staat betaalt de Bank het bedrag dat de Staat aan de Bank verschuldigd is 
+
+a. in het geval bedoeld in het eerste lid sub b (i): binnen 5 werkdagen na ontvangst door de Staat van het beroep door de Bank op de garantie, of b. in het geval bedoeld in het eerste lid sub b (ii): binnen 5 werkdagen na ontvangst van de melding door de Bank dat de Bank datgene heeft gedaan wat van de Bank redelijkerwijs verwacht mocht worden in verband met de uitwinning van de Zekerheden;  
+
+c. in ieder geval na ommekomst van twaalf maanden na ontvangst door de Staat van het beroep door de Bank op de garantie als bedoeld in het eerste lid sub b (ii), mits de Bank een of meer vorderingen op de scheepswerf waarvoor de uitwinning van de Zekerheden nog niet is voltooid en tot het bedrag waarvoor de garantie wordt ingeroepen aan de Staat heeft gecedeerd en de Bank dan wel de Staat van die cessie mededeling heeft gedaan aan de scheepswerf. De betaling geschiedt in alle gevallen door overboeking op rekeningnummer *.    
+
+4. Zolang de Staat nog niet aan de Bank heeft betaald als bedoeld in het derde lid, komen de opbrengst van de uitgewonnen Zekerheden en eventuele overige opbrengsten in verband met de financiering van de bouw van het Schip voor 100% aan de Bank toe. Nadat de Staat heeft betaald worden deze opbrengsten op pro rata-parte basis verdeeld, in de zin dat een deel gelijk aan het Staatsgarantiepercentage van deze opbrengsten aan de Staat toekomt en het restant aan de Bank. De Bank is slechts gehouden tot betaling, voor zover zij gerechtigd is haar vordering op de scheepswerf te verlagen met de opbrengst van de Zekerheden.  
+
+5. De Bank doet onverwijld mededeling aan de Staat, en de Staat in voorkomende gevallen aan de Bank, van het resultaat van de in dit artikel genoemde uitwinning en eventuele verdeling van de opbrengst van de Zekerheden.    
 
 ### Artikel  12  
 
-####Uitwinning tijdens de beoordeling van het beroep op de borgtocht
+####Terugvorderen betalingen
 
-1.  Indien een beroep op de borgtocht als bedoeld in artikel 10 is ingediend op een moment, waarop de uitwinning nog niet is voltooid en ook niet vaststaat dat geen opbrengsten meer zijn te verwachten die in mindering komen op het Kredietbedrag, dan is de Staat bevoegd het doen van de in artikel 11 bedoelde mededelingen c.q. aanwijzingen op te schorten tot het moment waarop duidelijkheid omtrent die uitwinning c.q. opbrengsten is verkregen.   
-2.  De Bank is in dit geval gehouden aanvullend verslag uit te brengen over de voorgang van de uitwinning. De Staat kan over het verloop van de uitwinning binnen een door hem te stellen termijn verder nadere gegevens van de Bank verlangen.   
+1. Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeisbaar indien aan de Staat blijkt dat de Bank onjuiste of onvolledige informatie heeft verschaft of de verstrekking van gegevens achterwege heeft gelaten die, indien de Staat daarover volledig en juist geïnformeerd zou zijn, tot een andere uitbetaling zouden hebben geleid.  
+
+2. Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeisbaar zodra de Staat blijkt dat de Bank de verplichtingen uit deze Overeenkomst niet is nagekomen.    
 
 ### Artikel  13  
 
-####Betalingen
+####Overdracht van rechten uit deze Overeenkomst door de Bank
 
-1.  De Staat doet het op grond van deze Borgstellingsovereenkomst door de Staat verschuldigde bedrag overmaken op het in het Overzicht genoemde rekeningnummer van de Bank.   
-2.  Betaling zal geschieden binnen 2 weken na de in artikel 11 bedoelde mededeling van de Staat.   
+1. De Bank is niet gerechtigd haar uit deze Overeenkomst voortvloeiende rechten en verplichtingen over te dragen of te bezwaren, tenzij de Staat daaraan goedkeuring verleent.  
 
-### §  5  
-
-####Verplichtingen en bepalingen na uitbetaling door Staat
+2. Aan deze goedkeuring kunnen door de Staat na overleg met de Bank voorwaarden worden verbonden.    
 
 ### Artikel  14  
 
-####Verplichtingen met betrekking tot uitwinning na betaling
+####Opzegging en ontbinding
 
-1.  Indien betaling als bedoeld in artikel 13 heeft plaatsgevonden op een moment waarop de uitwinning nog niet is voltooid en ook niet aannemelijk is geworden dat geen opbrengsten meer zijn te verwachten die in mindering zouden komen op het Kredietbedrag, dan is de Bank gedurende een periode van 5 jaar na de datum waarop betaling als bedoeld in artikel 13 heeft plaatsgevonden, gehouden die pogingen in het werk te stellen om namens de Staat het door de Staat betaalde bedrag in te vorderen die de Bank in het werk zou hebben gesteld indien het Kredietbedrag geheel voor eigen rekening en risico door de Bank zou zijn verstrekt.   
-2.  Buiten de in het eerste lid bedoelde gevallen is de Bank alleen desgevraagd gehouden namens de Staat de invordering en uitwinning voort te zetten. Hierbij dient de Bank redelijke aanwijzingen van de Staat terzake op te volgen.   
-3.  De Staat machtigt met het oog hierop de Bank tot invordering bij de Scheepswerf van het door deze aan de Staat verschuldigde bedrag.   
-4.  Kosten die de activiteiten ter invordering en uitwinning op verzoek van de Staat met zich meebrengen, komen voor rekening van de Staat.   
-5.  De Bank brengt verslag uit over de voortgang van de invordering en uitwinning.   
-6.  De Staat kan over het verloop van de uitwinning binnen een door hem te stellen termijn nadere gegevens van de Bank verlangen. De Bank is gehouden deze nadere gegevens te verstrekken.   
+1. De Staat kan de Overeenkomst met onmiddellijke ingang schriftelijk geheel of gedeeltelijk opzeggen of ontbinden, zonder dat een recht op schadevergoeding bestaat, indien de Bank in strijd heeft gehandeld met de op haar rustende verplichtingen uit hoofde van artikel 4 van deze Overeenkomst..  
+
+2. Een opzegging op grond van het eerste lid, onder a, geschiedt uitsluitend nadat de Staat de Bank op de hoogte heeft gesteld van het voornemen tot opzegging en nadat deze in de gelegenheid is gesteld om een tekortschieten dat hersteld kan worden binnen een redelijke termijn te herstellen.    
 
 ### Artikel  15  
 
-####Opbrengsten na uitbetaling borgtocht
+####Diversen
 
-De Bank betaalt het in artikel 3, eerste lid, genoemde percentage van nagekomen betalingen op het Kredietbedrag aan de Staat, en wel binnen één maand na ontvangst van die opbrengsten.  
+1. Bij de uitvoering van deze garantieovereenkomst zullen Partijen zich gedragen in overeenstemming met de redelijkheid en billijkheid als bedoeld in artikel 248 van Boek 6 BW.  
+
+2. Wijziging of beëindiging van de Subsidieregeling starten, groeien en overdragen van ondernemingen tast de geldigheid van deze garantieovereenkomst niet aan.  
+
+3. Bepalingen die naar hun aard bestemd zijn om ook na beëindiging van de Overeenkomst voort te duren, behouden nadien hun werking.    
 
 ### Artikel  16  
 
-####Geen kwijtschelding door Bank
+####Geschillen en toepasselijk recht
 
-1.  De Bank treft geen schuldregeling die inhoudt of mede inhoudt een gehele of gedeeltelijke kwijtschelding van verplichtingen betrekking hebbende op het Kredietbedrag, zonder voorafgaande schriftelijke toestemming van de Staat.   
-2.  De Staat kan aan zijn toestemming voorwaarden verbinden ten aanzien van de inhoud van een dergelijke regeling.   
+1. Ieder geschil ten aanzien van deze Overeenkomst zal bij uitsluiting worden voorgelegd aan de daartoe bevoegde rechter in het arrondissement ‘s-Gravenhage.  
 
-### §  6  
-
-####Slotbepalingen
+2. Op deze Overeenkomst is Nederlands recht van toepassing.    
 
 ### Artikel  17  
 
-####Terugvorderen betalingen
+####Aanvang en einde Overeenkomst
 
-1.  Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeisbaar zodra de Staat blijkt dat de Bank onjuiste of onvolledige informatie heeft verschaft of de verstrekking van gegevens achterwege heeft gelaten die, ware de Staat daarover volledig en juist geïnformeerd, tot een andere uitbetaling zouden hebben geleid.   
-2.  Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeisbaar zodra de Staat blijkt dat de Bank de verplichtingen uit deze Borgstellingsovereenkomst, uit het [Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en hoofdstuk 8 van de Subsidieregeling starten, groeien en overdragen van ondernemingen niet is nagekomen.   
+Deze Overeenkomst treedt in werking door de ondertekening daarvan door de Partijen en eindigt van rechtswege op....(datum), of, indien de Overeenkomst door Partijen op basis van een met redenen omkleed verzoek van de Bank is gewijzigd, op de bij deze wijziging overeengekomen latere datum.  
 
 ### Artikel  18  
 
-####Overdracht van rechten uit deze Borgstellingsovereenkomst door de Bank
-
-1.  De Bank is niet gerechtigd haar uit deze Borgstellingsovereenkomst voortvloeiende rechten en verplichtingen over te dragen of te bezwaren, tenzij de Staat daaraan goedkeuring verleent.   
-2.  Aan deze goedkeuring kunnen voorwaarden worden verbonden.   
-
-### Artikel  19  
-
-####Opzegging en ontbinding
-
-1.  De Staat is gerechtigd deze Borgstellingsovereenkomst op te zeggen indien: 
-
-a. de Bank tekort schiet in de nakoming van een verplichting uit hoofde van deze Borgstellingsovereenkomst;  
-
-b. sprake is van aanvraag of verlening van surséance van betaling aan, of aanvraag tot faillietverklaring dan wel faillietverklaring van de Bank indien aannemelijk is dat de oorzaak hiervan in belangrijke mate wordt gevormd door omstandigheden die kwalificeren als onbehoorlijk bestuur als bedoeld [artikel 2:138, eerste en tweede lid BW](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
-2.  Een opzegging op grond van het eerste lid, onder a, geschiedt uitsluitend nadat de Staat de Bank op de hoogte heeft gesteld van het voornemen tot opzegging en nadat deze in de gelegenheid is gesteld om een tekortschieten dat hersteld kan worden te herstellen binnen een redelijke termijn.   
-3.  Deze Borgstellingsovereenkomst kan door de Staat met onmiddellijke ingang buiten rechte schriftelijk geheel of gedeeltelijk worden ontbonden, zonder dat een recht op schadevergoeding bestaat, indien: 
-
-a. de Bank in strijd heeft gehandeld met de op haar rustende verplichtingen uit hoofde van deze Borgstellingsovereenkomst.  
-
-b. sprake is van aanvraag of verlening van surséance van betaling aan, of aanvraag tot faillietverklaring dan wel faillietverklaring van de Bank indien aannemelijk is dat de oorzaak hiervan in belangrijke mate wordt gevormd door omstandigheden die kwalificeren als onbehoorlijk bestuur als bedoeld [artikel 2:138, eerste en tweede lid BW](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
-
-### Artikel  20  
-
-####Nietige bepalingen
-
-Indien één of meer bepalingen van deze Borgstellingsovereenkomst nietig blijken te zijn, of door de rechter vernietigd worden, behouden de overige bepalingen van deze Borgstellingsovereenkomst hun rechtskracht. Partijen zullen over eerstbedoelde bepalingen overleg voeren teneinde een vervangende regeling te treffen waarbij zoveel mogelijk wordt aangesloten bij de door nietigheid of vernietiging getroffen bepaling en bij de overige bepalingen en strekking van de Borgstellingsovereenkomst. Bij een vervangende regeling wordt de strekking van de Borgstellingsovereenkomst hoe dan ook niet aangetast.  
-
-### Artikel  21  
-
-####Voortdurende bepalingen
-
-Bepalingen die naar hun aard bestemd zijn om ook na afloop van de Borgstellingsovereenkomst voort te duren, behouden nadien hun werking.  
-
-### Artikel  22  
-
-####Geschillen en toepasselijk recht
-
-1.  Ieder geschil ten aanzien van deze Borgstellingsovereenkomst zal bij uitsluiting worden voorgelegd aan de daartoe bevoegde rechter in het arrondissement ’s-Gravenhage.   
-2.  Op deze Borgstellingsovereenkomst is Nederlands recht van toepassing.   
-
-### Artikel  23  
-
-####Opschortende voorwaarde
-
-1.  Deze Borgstellingsovereenkomst blijft zonder rechtsgevolg gedurende het onvervuld blijven van de opschortende voorwaarde dat de Bank uiterlijk tien weken na de beschikking waarin subsidie in de vorm van borgtocht wordt verleend, behoudens voorafgaande verlenging van die termijn door de Staat: 
-
-a. heeft aangetoond dat de Opdrachtgever en de Scheepswerf een contract voor de bouw van het Schip hebben gesloten zonder dat aan de daarin belichaamde bouwopdracht (nog) opschortende voorwaarden zijn verbonden;  
-
-b. heeft aangetoond dat de Opdrachtgever terzake van de opdracht een of meer betalingen heeft gedaan, ter hoogte van minimaal 5 procent van de Contractprijs.     
-2.  De Staat deelt zo spoedig mogelijk na ontvangst van de informatie, bedoeld in het eerste lid, onder a en b, aan de Bank mee of aan de voorwaarden is voldaan.   
-3.  Is na het verstrijken van de in het eerste lid gestelde of uit hoofde van dat lid verlengde termijn niet voldaan aan de daar gestelde voorwaarden, dan is deze Borgstellingsovereenkomst van rechtswege ontbonden.   
-
-### Artikel  24  
-
-####Aanvang en einde Borgstellingsovereenkomst
-
-1.  Deze Borgstellingsovereenkomst treedt in werking door de ondertekening daarvan door de partijen.   
-2.  Onverminderd het elders in deze Borgstellingsovereenkomst omtrent onder meer ontbinding, opzegging en verval van rechten bepaalde eindigt de Borgstellingsovereenkomst van rechtswege: 
-
-a. door het tenietgaan van de verplichtingen van de Scheepswerf uit hoofde van de Kredietovereenkomst;  
-
-b. door uitbetaling van het uit hoofde van deze Borgstellingsovereenkomst door de Staat aan de Bank verschuldigde;  
-
-c. door de intrekking of vernietiging van de beschikking tot subsidieverlening;  
-
-d. door het verstrijken van een periode van tien maanden na de in de het contract tussen Opdrachtgever en Scheepswerf genoemde opleverdatum, ook dan wanneer de daadwerkelijke oplevering op het moment waarop deze termijn van tien maanden is verstreken nog niet heeft plaatsgehad;  
-
-e. uiterlijk door het verstrijken van een periode van vier jaar na ondertekening van deze Borgstellingsovereenkomst.     
-
-### Artikel  25  
-
 ####Domiciliekeuze en berichtgevingen
 
-1.  De Staat kiest voor de uitvoering van deze Borgstellingsovereenkomst domicilie ten kantore van het agentschap van het ministerie van Economische Zaken de EVD, Unit internationale financiering, Postbus 20105, 2500 EC Den Haag. De EVD, Unit internationale financiering, is bevoegd de Staat bij de uitvoering van deze Borgstellingsovereenkomst te vertegenwoordigen.   
-2.  Onverminderd het bepaalde in het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) dienen alle mededelingen, aanzeggingen, verzoeken, toestemmingen en andere berichten uit hoofde van deze Borgstellingsovereenkomst schriftelijk te worden gedaan.   
-3.  Mededelingen, aanzeggingen, verzoeken, toestemmingen en andere berichten die niet in overeenstemming met het tweede lid zijn gedaan zijn zonder rechtsgevolg.   
-4.  De Staat is niet gehouden tot vergoeding van enigerlei schade voortvloeiend uit of samenhangend met afwijkingen van het eerste en het tweede lid.   
-Aldus is overeengekomen en in tweevoud ondertekend te 's-Gravenhage op .................... De Minister van Economische Zaken, ............. (naam en functie vertegenwoordiger Bank)  
-Overzicht EVD referentie nr. BBS 05... 
+1. De Staat kiest voor de uitvoering van deze Overeenkomst domicilie ten kantore van het Agentschap NL van het ministerie van Economische Zaken, Postbus 93144, 2509 AC Den Haag. Het Agentschap is bevoegd de Staat bij de uitvoering van deze Overeenkomst te vertegenwoordigen.  
 
-####Overzicht
-
-BBS referentie nr. Bank Naam: Adres: Scheepswerf Naam: Adres: Deel uitmakend van een groep? Zo ja, eventueel mede-verbonden vennootschappen: Opdrachtgever: Opdrachtgever Naam: Adres: Bouwnummer schip:  
-
-| --- | --- |
-|:---|:---|
-| Contractprijs:  | EUR....  |
-| --- | --- |
-| Kredietbedrag:  | EUR....  |
-| --- | --- |
-| Borgstellingspercentage:  | ....%  |
-| --- | --- |
-| Maximale borgstellingsbedrag:  | EUR....  |
-| --- | --- |
-| Provisie:  | ....%  |
-| --- | --- |
-| Einddatum:  | --- |
-
-Schriftelijke stukken ter uitvoering van deze Borgstellingsovereenkomst bestemd voor de Staat worden gestuurd naar EVD, Unit internationale financiering, Postbus 20105, 2500 EC Den Haag Bankrekening nr. EVD:  
+2. Mededelingen, aanzeggingen, verzoeken, toestemmingen en andere berichten ter uitvoering van de Overeenkomst hebben uitsluitend rechtseffect indien zij schriftelijk hebben plaats gevonden.   Aldus is overeengekomen en in tweevoud ondertekend te ‘s-Gravenhage op .................... De Minister van Economische Zaken, (naam en functie vertegenwoordiger Bank) Overzicht referentie nr. BBS 05  
 
 ### Bijlage  8.2  
 
-Ligt ter inzage bij SenterNovem te Den Haag.  
+####als bedoeld in artikel 812  van de Subsidieregeling starten, groeien en overdragen van ondernemingen
+
+![]()
+![]()
+![]()
 
 ### Bijlage  9.1  
 
-![245182](http://wetten.overheid.nl/Illustration/245182)
+![]()
 
 ### Bijlage  9.2  
 
-![245183](http://wetten.overheid.nl/Illustration/245183)
+![]()
 
 ### Bijlage  9.3  
 
 ####behorende bij artikel 9.10, onderdeel a , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
-![249799](http://wetten.overheid.nl/Illustration/249799)
-![249799](http://wetten.overheid.nl/Illustration/249799)
-![249799](http://wetten.overheid.nl/Illustration/249799)
-![249799](http://wetten.overheid.nl/Illustration/249799)
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  9.4  
 
 ####behorende bij artikel 9.10, onderdeel b , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
-![249803](http://wetten.overheid.nl/Illustration/249803)
-![249803](http://wetten.overheid.nl/Illustration/249803)
-![249803](http://wetten.overheid.nl/Illustration/249803)
-![249803](http://wetten.overheid.nl/Illustration/249803)
+![]()
+![]()
+![]()
+![]()
 

@@ -639,12 +639,39 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 7.  De plaats van bijeenkomst van een buitengewoon Congres wordt, na overleg met het Internationaal Bureau, vastgesteld door de lidstaten die het initiatief voor dat Congres hebben genomen.   
 8.  De onder 2 tot en met 6 voorziene bepalingen zijn mutatis mutandis van toepassing op buitengewone Congressen.   
 
+### Artikel  101bis  
+
+####Taken van het Congres
+
+1.  Op basis van de voorstellen van de lidstaten, de Raad van Bestuur en de Postraad, gaat het Congres over tot: 
+
+1.1 vaststelling van het algemeen beleid voor het verwezenlijken van de missie en het doel van de Unie zoals uiteengezet in de preambule van de Constitutie en in artikel 1 ervan;  
+
+1.2 bestudering en aanneming, in voorkomend geval, van de door de lidstaten en de Raden overeenkomstig artikel 29 van de Constitutie en artikel 122 van het Algemeen Reglement gedane voorstellen tot wijziging van de Constitutie, van het Algemeen Reglement, van het Verdrag en van de overige verdragen;  
+
+1.3 vaststelling van de datum van inwerkingtreding van de Akten;  
+
+1.4 aanneming van het Reglement van Orde en van de wijzigingen hiervan;  
+
+1.5 bestudering van de volledige verslagen met betrekking tot de werkzaamheden voorgelegd door respectievelijk de Raad van Bestuur, de Postraad en de Adviescommissie binnen het sinds het voorgaande Congres verstreken tijdvak, overeenkomstig het bepaalde in de artikelen 103, 105 en 107 van het Algemeen Reglement;  
+
+1.6 aanneming van de strategie van de Unie;  
+
+1.7 vaststelling van het maximumbedrag van de uitgaven van de Unie, overeenkomstig artikel 21 van de Constitutie;  
+
+1.8 verkiezing van de lidstaten die in de Raad van Bestuur en de Postraad zitting hebben;  
+
+1.9 verkiezing van de Directeur-Generaal en de Plaatsvervangend Directeur-Generaal van het Internationaal Bureau;  
+
+1.10 vaststelling, in een resolutie, van het plafond van de door de Unie voor de levering van stukken in het Duits, Chinees, Portugees en Russisch te dragen kosten.     
+2.  Als hoogste orgaan van de Unie houdt het Congres zich tevens bezig met andere aangelegenheden, in het bijzonder op het gebied van postale diensten.   
+
 ### Artikel  102  
 
 ####Samenstelling, functioneren en vergaderingen van de Raad van Bestuur (Const. 17)
 
 1.  De Raad van Bestuur bestaat uit eenenveertig leden die hun functie gedurende het tijdvak tussen twee opeenvolgende Congressen uitoefenen.   
-2.  Het voorzitterschap wordt van rechtswege toegekend aan het gastheerland van het Congres. Indien dit land hiervan afziet, wordt het van rechtswege lid en beschikt de geografische groep waartoe het behoort derhalve over een extra zetel waarop de onder 3 bedoelde beperkingen niet van toepassing zijn. In dat geval kiest de Raad van Bestuur een van de leden die behoren tot de geografische groep waarvan het gastheerland deel uitmaakt tot voorzitter.   
+2.  Het voorzitterschap wordt van rechtswege toegekend aan de gastheerlidstaat van het Congres. Indien deze lidstaat hiervan afziet, wordt hij van rechtswege lid en beschikt de geografische groep waartoe hij behoort derhalve over een extra zetel waarop de onder 3 bedoelde beperkingen niet van toepassing zijn. In dat geval kiest de Raad van Bestuur een van de leden die behoren tot de geografische groep waarvan de gastheerlidstaat deel uitmaakt tot voorzitter.   
 3.  De veertig overige leden van de Raad van Bestuur worden door het Congres gekozen op basis van een billijke geografische spreiding. Ten minste de helft van de leden wordt bij elk Congres vervangen; geen enkele lidstaat kan door drie achtereenvolgende Congressen worden gekozen.   
 4.  Elk lid van de Raad van Bestuur benoemt zijn vertegenwoordiger, die bevoegd moet zijn op postaal gebied.   
 5.  Het lidmaatschap van de Raad van Bestuur is onbezoldigd. De operationele kosten van deze Raad komen ten laste van de Unie.   
@@ -656,7 +683,7 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 6.3 het bevorderen, coördineren en toezien op alle vormen van postale technische bijstand in het kader van internationale technische samenwerking;  
 
-6.4 het bestuderen en goedkeuren van de begroting en de jaarrekeningen van de Unie;  
+6.4 het bestuderen en goedkeuren van het Programma, de tweejaarlijkse begroting en de jaarrekeningen van de Unie;  
 
 6.5 het toestaan, indien de omstandigheden zulks vereisen, van de overschrijding van het uitgavenplafond overeenkomstig artikel 128.3 tot en met 128.5;  
 
@@ -674,9 +701,9 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 6.12 het, op verzoek, toestaan van de keuze van een lagere contributieklasse, overeenkomstig de in artikel 130.6 bedoelde voorwaarden;  
 
-6.13 het, op verzoek van een land, toestaan van de verandering van geografische groep, met inachtneming van de zienswijze van de landen die lid zijn van de betrokken geografische groepen;  
+6.13 het, op verzoek van een lidstaat, toestaan van de verandering van een geografische groep, met inachtneming van de mening van de lidstaten die lid zijn van de betrokken geografische groepen;  
 
-6.14 het vaststellen van de Rechtspositie van het personeel en de arbeidsvoorwaarden van de gekozen functionarissen;  
+6.14 het vaststellen van de rechtspositie van het personeel en de arbeidsvoorwaarden van de gekozen functionarissen;  
 
 6.15 het creëren of schrappen van arbeidsplaatsen bij het Internationaal Bureau, rekening houdend met de beperkingen die samenhangen met het vastgestelde uitgavenplafond;  
 
@@ -684,15 +711,15 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 6.17 het goedkeuren van de door het Internationaal Bureau opgestelde tweejaarlijkse verslagen betreffende de activiteiten van de Unie en het financieel beheer en, in voorkomend geval, het leveren van commentaar hierop;  
 
-6.18 het nemen van beslissingen omtrent te leggen contacten met postdiensten voor het vervullen van zijn taken;  
+6.18 het nemen van beslissingen omtrent met lidstaten te leggen contacten voor het vervullen van zijn taken;  
 
 6.19 het, na overleg met de Postraad, nemen van beslissingen omtrent te leggen contacten met de organisaties die niet van rechtswege waarnemer zijn, het bestuderen en goedkeuren van de verslagen van het Internationaal Bureau over de betrekkingen van de UPU met de andere internationale instanties, het nemen van de door hem opportuun geachte maatregelen met betrekking tot het beheer van deze betrekkingen en het hieraan te geven gevolg; het, op een gelegen moment, na overleg met de Postraad en met de Secretaris-Generaal, aanwijzen van de daarvoor in aanmerking komende internationale organisaties, verenigingen, bedrijven en personen die moeten worden uitgenodigd om zich bij specifieke zittingen van het Congres en van de Commissies ervan te laten vertegenwoordigen wanneer dat in het belang van de Unie is of de werkzaamheden van het Congres ten goede kan komen, en het belasten van de Directeur-Generaal van het Internationaal Bureau met de verzending van de vereiste uitnodigingen;  
 
 6.20 het vaststellen, wanneer hij zulks nuttig acht, van de beginselen waarmee de Postraad rekening moet houden bij de bestudering van vraagstukken die belangrijke financiële gevolgen hebben (toeslagen, eindkosten, doorvoerkosten, basistarief van luchtvervoer van post en terpostbezorging van brievenpost in het buitenland), het nauwgezet volgen van de bestudering van deze vraagstukken en het beoordelen en goedkeuren van de op dezelfde onderwerpen betrekking hebbende voorstellen van de Postraad, teneinde te waarborgen dat deze overeenkomen met de eerdergenoemde beginselen;  
 
-6.21 het, op verzoek van het Congres, van de Postraad of van de postdiensten, bestuderen van de problemen van bestuurlijke, wetgevende en juridische aard die de Unie of de internationale postdienst aangaan; het is de taak van de Raad van Bestuur te besluiten of het op bovengenoemde gebieden al dan niet opportuun is de tussen de Congressen in door de postdiensten verzochte studies te ondernemen;  
+6.21 het, op verzoek van het Congres, van de Postraad of van de lidstaten, bestuderen van problemen van bestuurlijke, wetgevende en juridische aard die de Unie of de internationale postale dienst aangaan; het is de taak van de Raad van Bestuur te besluiten op bovengenoemde gebieden of het al dan niet opportuun is tussen de Congressen in de door de lidstaten verzochte studies te ondernemen;  
 
-6.22 het uitbrengen van voorstellen die ter goedkeuring worden voorgelegd aan hetzij het Congres, hetzij de postdiensten overeenkomstig artikel 124;  
+6.22 het doen van voorstellen die ter goedkeuring worden voorgelegd aan hetzij het Congres, hetzij de lidstaten overeenkomstig artikel 125;  
 
 6.23 het goedkeuren, in het kader van zijn bevoegdheden, van de aanbevelingen van de Postraad betreffende de aanneming, indien nodig, van regelgeving of een nieuwe werkwijze in afwachting van een besluit ter zake door het Congres;  
 
@@ -700,7 +727,7 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 6.25 het ter beoordeling aan de Postraad voorleggen van studieonderwerpen, overeenkomstig artikel 104.9.16;  
 
-6.26 het aanwijzen van het land waar het volgende Congres zitting heeft in het in artikel 101.4 bedoelde geval;  
+6.26 het aanwijzen van de lidstaat waar het volgende Congres zitting heeft in het in artikel 101.4 bedoelde geval;  
 
 6.27 het, te gelegener tijd en na overleg met de Postraad, vaststellen van het aantal Commissies dat benodigd is om de werkzaamheden van het Congres te verrichten en het vaststellen van hun bevoegdheden;  
 
@@ -710,24 +737,26 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 – deel kunnen uitmaken van de Besloten Commissies van het Congres;    
 
-6.29 het beoordelen en goedkeuren van het ontwerp-strategisch plan dat aan het Congres moet worden voorgelegd en dat met de hulp van het Internationaal Bureau is opgesteld door de Postraad; het beoordelen en goedkeuren van de jaarlijkse herzieningen van het door het Congres vastgestelde plan, op basis van de aanbevelingen van de Postraad, en het met de Postraad samenwerken aan de jaarlijkse opstelling en actualisering van het plan;  
+6.29 het, in overleg met de Postraad, beoordelen en goedkeuren van het strategieontwerp dat aan het Congres moet worden voorgelegd;  
 
-6.30 het vaststellen van het kader voor de organisatie van de Adviescommissie en het goedkeuren van de organisatie van de Adviescommissie, overeenkomstig de bepalingen van artikel 106;  
+6.30 het goedkeuren van het vierjarig verslag, dat door het Internationaal Bureau in overleg met de Postraad wordt opgesteld, over de resultaten van de lidstaten betreffende de uitvoering van de door het voorgaande Congres goedgekeurde strategie van de Unie met het oog op de voorlegging ervan aan het volgende Congres;  
 
-6.31 het vaststellen van de criteria voor toetreding tot de Adviescommissie en het inwilligen of afwijzen van toetredingsverzoeken aan de hand van deze criteria, waarbij er voor wordt gezorgd dat deze door middel van een versnelde procedure, tussen de vergaderingen van de Raad van Bestuur, worden behandeld;  
+6.31 het vaststellen van het kader voor de organisatie van de Adviescommissie en het goedkeuren van de organisatie van de Adviescommissie, overeenkomstig de bepalingen van artikel 106;  
 
-6.32 het aanwijzen van de leden die deel van de Adviescommissie zullen uitmaken;  
+6.32 het vaststellen van de criteria voor toetreding tot de Adviescommissie en het inwilligen of afwijzen van toetredingsverzoeken aan de hand van deze criteria, waarbij er voor wordt gezorgd dat deze door middel van een versnelde procedure, tussen de vergaderingen van de Raad van Bestuur, worden behandeld;  
 
-6.33 het in ontvangst nemen van de verslagen alsmede de aanbevelingen van de Adviescommissie en hierover beraadslagen, en het bestuderen van de aanbevelingen van de Adviescommissie met het oog op de voorlegging ervan aan het Congres.     
+6.33 het aanwijzen van de leden uit zijn midden die deel van de Adviescommissie zullen uitmaken;  
+
+6.34 het in ontvangst nemen van de verslagen alsmede de aanbevelingen van de Adviescommissie en hierover beraadslagen, en het bestuderen van de aanbevelingen van de Adviescommissie met het oog op de voorlegging ervan aan het Congres.     
 7.  Tijdens zijn eerste vergadering, die bijeen wordt geroepen door de Voorzitter van het Congres, kiest de Raad van Bestuur, uit zijn leden, vier Vice-Voorzitters en stelt hij zijn Reglement van Orde vast.   
 8.  Op bijeenroeping door de Voorzitter komt de Raad van Bestuur, in beginsel eenmaal per jaar, bijeen op de zetel van de Unie.   
-9.  De Voorzitter, Vice-Voorzitters, de Voorzitters van de Commissies van de Raad van Bestuur alsmede de Voorzitter van de Strategische Planninggroep vormen de Commissie van Beheer. Deze Commissie bereidt de werkzaamheden van elke zitting van de Raad van Bestuur voor en geeft hieraan leiding. De Commissie keurt namens de Raad van Bestuur het door het Internationaal Bureau opgestelde jaarverslag betreffende de activiteiten van de Unie goed en neemt alle andere taken op zich die de Raad van Bestuur besluit aan haar op te dragen of die aan de hand van het strategische planningsproces noodzakelijk blijken.   
-10.  De vertegenwoordiger van elk van de leden van de Raad van Bestuur die deelneemt aan de zittingen van dit orgaan, met uitzondering van de vergaderingen die tijdens een Congres plaatsvinden, heeft recht op de vergoeding van hetzij de prijs van een economy class retourvliegticket of van een eersteklastreinkaartje, hetzij van de kosten van de reis met elk ander middel, mits het bedrag de prijs van een economy class retourvliegticket niet te boven gaat. Hetzelfde recht wordt toegekend aan de vertegenwoordiger van elk lid van de Commissies, Werkgroepen of andere organen van de Raad wanneer deze buiten het Congres en de zittingen van de Raad vergaderen.   
+9.  De Voorzitter, de Vice-Voorzitters en de Voorzitters van de Commissies van de Raad van Bestuur vormen de Commissie van Beheer. Deze Commissie bereidt de werkzaamheden van elke zitting van de Raad van Bestuur voor en geeft hieraan leiding. De Commissie keurt namens de Raad van Bestuur het door het Internationaal Bureau opgestelde tweejaarlijkse verslag betreffende de activiteiten van de Unie goed en neemt alle andere taken op zich die de Raad van Bestuur besluit aan haar op te dragen of die aan de hand van het strategische planningsproces noodzakelijk blijken.   
+10.  De reiskosten van de vertegenwoordiger van elk van de leden van de Raad van Bestuur die deelneemt aan de zittingen van dit orgaan, komen ten laste van zijn lidstaat. De vertegenwoordiger van elk van de lidstaten die overeenkomstig de door de Organisatie van de Verenigde Naties opgestelde lijsten worden gerangschikt onder de ontwikkelingslanden of minst ontwikkelde landen heeft, behalve voor de vergaderingen die tijdens het Congres plaatsvinden, echter recht op de vergoeding van hetzij de prijs van een economyclass-retourvliegticket of van een eersteklassetreinkaartje, hetzij van de kosten van de reis met elk ander middel, mits het bedrag de prijs van een economyclass-retourvliegticket niet te boven gaat. Hetzelfde recht wordt toegekend aan de vertegenwoordiger van elk lid van de Commissies, Werkgroepen of andere organen van de Raad wanneer deze buiten het Congres en de zittingen van de Raad vergaderen.   
 11.  De Voorzitter van de Postraad vertegenwoordigt deze Raad tijdens de zittingen van de Raad van Bestuur wanneer op de agenda punten staan die betrekking hebben op het door hem geleide orgaan.   
 12.  De Voorzitter van de Adviescommissie vertegenwoordigt deze Commissie tijdens de zittingen van de Raad van Bestuur wanneer op de agenda punten staan die voor de Adviescommissie van belang zijn.   
 13.  Teneinde een doeltreffende samenhang tussen de werkzaamheden van beide organen te waarborgen kan de Postraad vertegenwoordigers benoemen om de vergaderingen van de Raad van Bestuur in de hoedanigheid van waarnemer bij te wonen.   
-14.  De postdienst van het land waar de Raad van Bestuur bijeenkomt wordt, indien dit land geen lid is van de Raad van Bestuur, verzocht de vergaderingen in de hoedanigheid van waarnemer bij te wonen.   
-15.  De Raad van Bestuur kan elke internationale instantie, elke vertegenwoordiger van een vereniging of onderneming of elke daarvoor in aanmerking komende persoon die hij bij zijn werkzaamheden wenst te betrekken, uitnodigen zonder stemrecht zijn vergaderingen bij te wonen. Ook kan hij onder dezelfde voorwaarden een of meerdere postdiensten uitnodigen van de lidstaten die betrokken zijn bij de op de agenda geplaatste vraagstukken.   
+14.  De lidstaat waarin de Raad van Bestuur bijeenkomt wordt, indien dit land geen lid is van de Raad van Bestuur, uitgenodigd de vergaderingen in de hoedanigheid van waarnemer bij te wonen.   
+15.  De Raad van Bestuur kan elke internationale instantie, elke vertegenwoordiger van een vereniging of onderneming of elke daarvoor in aanmerking komende persoon die hij bij zijn werkzaamheden wenst te betrekken, uitnodigen zonder stemrecht zijn vergaderingen bij te wonen. Ook kan hij onder dezelfde voorwaarden een of meerdere lidstaten uitnodigen die betrokken zijn bij de op de agenda geplaatste vraagstukken.   
 16.  Op hun verzoek kunnen de hierna genoemde waarnemers, zonder stemrecht, aan de plenaire zittingen en aan de vergaderingen van de Commissies van de Raad van Bestuur deelnemen: 
 
 16.1 leden van de Postraad;  
@@ -745,59 +774,59 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 ####Informatie over de activiteiten van de Raad van Bestuur
 
-1.  Na elke zitting brengt de Raad van Bestuur de lidstaten van de Unie, de beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, met name door hun een analytisch verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.   
-2.  De Raad van Bestuur stelt ten behoeve van het Congres een verslag op over al zijn activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan de postdiensten van de lidstaten van de Unie en aan de leden van de Adviescommissie.   
+1.  Na elke zitting brengt de Raad van Bestuur de lidstaten, hun aangewezen aanbieders, de Beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, in het bijzonder door hun een beknopt verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.   
+2.  De Raad van Bestuur stelt ten behoeve van het Congres een verslag op over al zijn activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan de lidstaten, aan hun aangewezen aanbieders en aan de leden van de Adviescommissie.   
 
 ### Artikel  104  
 
 ####Samenstelling, functioneren en vergaderingen van de Postraad (Const. 18)
 
 1.  De Postraad is samengesteld uit veertig leden die hun taken gedurende het tijdvak tussen twee opeenvolgende Congressen vervullen.   
-2.  De leden van de Postraad worden door het Congres gekozen, aan de hand van een duidelijk omschreven geografische spreiding. Vierentwintig zetels zijn gereserveerd voor de ontwikkelingslanden en zestien zetels voor de ontwikkelde landen. Bij elk Congres wordt ten minste een derde van het aantal leden vervangen.   
+2.  De leden van de Postraad worden door het Congres gekozen, aan de hand van een duidelijk omschreven geografische spreiding. Vierentwintig zetels zijn gereserveerd voor de ontwikkelingslidstaten en zestien zetels voor de ontwikkelde lidstaten. Bij elk Congres wordt ten minste een derde van het aantal leden vervangen.   
 3.  Elk lid van de Postraad wijst zijn vertegenwoordiger aan die de in de Akten van de Unie bedoelde verantwoordelijkheden op het gebied van dienstverlening op zich neemt.   
-4.  De operationele kosten van de Postraad komen ten laste van de Unie. De leden van de Raad ontvangen geen enkele vergoeding. De reis- en verblijfkosten van de vertegenwoordigers van de aan de Postraad deelnemende postdiensten komen ten laste van deze diensten. De vertegenwoordiger van elk van de landen die volgens de door de Organisatie van de Verenigde Naties opgestelde lijsten als benadeelde landen worden beschouwd, hebben, behalve voor vergaderingen die gedurende het Congres plaatsvinden, evenwel recht op vergoeding van hetzij de prijs van een economy class retourvliegticket of een eersteklastreinkaartje, hetzij de kosten van de reis met elk ander middel, mits dat bedrag de prijs van het economy class retourvliegticket niet te boven gaat.   
-5.  Tijdens zijn eerste vergadering, die bijeen wordt geroepen en wordt geopend door de Voorzitter van het Congres, kiest de Postraad uit zijn leden een Voorzitter, een Vice-Voorzitter, de Voorzitters van de Commissies en de Voorzitter van de Strategische Planninggroep.   
+4.  De operationele kosten van de Postraad komen ten laste van de Unie. De leden van de Raad ontvangen geen enkele vergoeding. De reis- en verblijfkosten van de vertegenwoordigers van de aan de Postraad deelnemende lidstaten komen ten laste van deze lidstaten. De vertegenwoordiger van elk van de lidstaten die overeenkomstig de door de Organisatie van de Verenigde Naties opgestelde lijsten worden beschouwd als minstbegunstigde landen heeft, met uitzondering van de vergaderingen die tijdens een Congres plaatsvinden, echter recht op de vergoeding van hetzij de prijs van een economyclass-retourvliegticket of van een eersteklassetreinkaartje, hetzij van de kosten van de reis met elk ander middel, mits het bedrag de prijs van een economyclass-retourvliegticket niet te boven gaat.   
+5.  Tijdens zijn eerste vergadering, die bijeen wordt geroepen en wordt geopend door de Voorzitter van het Congres, kiest de Postraad uit zijn leden een Voorzitter, een Vice-Voorzitter en de Voorzitters van de Commissies.   
 6.  De Postraad stelt zijn eigen Reglement van Orde vast.   
 7.  In beginsel vergadert de Postraad jaarlijks op de zetel van de Unie. De datum en plaats van de vergadering worden door de Voorzitter van de Raad vastgesteld, na overeenstemming met de Voorzitter van de Raad van Bestuur en de Directeur-Generaal van het Internationaal Bureau.   
-8.  De Voorzitter, de Vice-Voorzitter, de Voorzitters van de Commissies van de Postraad alsmede de Voorzitter van de Strategische Planninggroep vormen de Commissie van Beheer. Deze Commissie bereidt de werkzaamheden van elke zitting van de Postraad voor en geeft hieraan leiding, en neemt alle taken op zich die de Raad besluit aan haar op te dragen of die tijdens het strategische planningsproces noodzakelijk blijken.   
+8.  De Voorzitter, de Vice-Voorzitter en de Voorzitters van de Commissies van de Postraad vormen de Commissie van Beheer. Deze Commissie bereidt de werkzaamheden van elke zitting van de Postraad voor en geeft hieraan leiding, en neemt alle taken op zich die de Raad besluit aan haar op te dragen of die tijdens het strategische planningsproces noodzakelijk blijken.   
 9.  De Postraad heeft de volgende bevoegdheden: 
 
-9.1 het leiden van de bestudering van de belangrijkste exploitatie-, handels-, technische en economische problemen en problemen op het gebied van technische samenwerking die van belang zijn voor de postdiensten van alle lidstaten van de Unie, in het bijzonder vraagstukken die aanzienlijke financiële gevolgen hebben (toeslagen, eindkosten, doorvoerkosten, basistarief luchtvervoer, quota postpakketten en terpostbezorging van briefpostzendingen in het buitenland), het samenstellen van informatie en het formuleren van zienswijzen hieromtrent en het aanbevelen van te nemen maatregelen;  
+9.1 het leiden van de bestudering van de belangrijkste exploitatie-, handels-, technische en economische problemen en problemen op het gebied van technische samenwerking die van belang zijn voor alle lidstaten van de Unie of hun aangewezen aanbieders, in het bijzonder vraagstukken die aanzienlijke financiële gevolgen hebben (toeslagen, eindkosten, doorvoerkosten, basistarief luchtvervoer, quota postpakketten en terpostbezorging van briefpostzendingen in het buitenland), het samenstellen van informatie en het formuleren van zienswijzen hieromtrent en het aanbevelen van te nemen maatregelen;  
 
 9.2 het herzien van de Regelingen van de Unie binnen zes maanden na de sluiting van het Congres, tenzij het Congres anderszins besluit; bij spoedeisende aangelegenheden kan de Postraad eveneens de genoemde Regelingen wijzigen tijdens andere zittingen; in beide gevallen blijft de Postraad wat betreft het beleid en de fundamentele beginselen onderworpen aan de richtlijnen van de Raad van Bestuur;  
 
-9.3 het coördineren van de praktische maatregelen voor de ontwikkeling en verbetering van internationale postale diensten;  
+9.3 het coördineren van de praktische maatregelen voor de ontwikkeling en de verbetering van de internationale postale diensten;  
 
 9.4 het, onder voorbehoud van de goedkeuring van de Raad van Bestuur in het kader van diens bevoegdheden, ondernemen van elke actie die nodig wordt geacht voor het behouden en verbeteren van de kwaliteit van de internationale postale dienst en om deze te moderniseren;  
 
-9.5 het formuleren van voorstellen die ter goedkeuring worden voorgelegd aan hetzij het Congres, hetzij aan de postdiensten overeenkomstig artikel 125; de goedkeuring van de Raad van Bestuur is vereist wanneer deze voorstellen betrekking hebben op vraagstukken die onder de bevoegdheid van de Raad vallen;  
+9.5 het formuleren van voorstellen die ter goedkeuring worden voorgelegd aan hetzij het Congres, hetzij de lidstaten overeenkomstig artikel 125; de goedkeuring van de Raad van Bestuur is vereist wanneer deze voorstellen betrekking hebben op vraagstukken die onder de bevoegdheid van de Raad vallen;  
 
-9.6 het, op verzoek van de postdienst van een lidstaat, bestuderen van elk voorstel dat deze postdienst overeenkomstig artikel 124 aan het Internationaal Bureau zendt, het opstellen van het commentaar hierop en het Bureau opdragen deze bij het genoemde voorstel te voegen alvorens dit ter goedkeuring voor te leggen aan de postdiensten van de lidstaten;  
+9.6 het, op verzoek van een lidstaat, bestuderen van elk voorstel dat deze lidstaat overeenkomstig artikel 124 aan het Internationaal Bureau zendt, het opstellen van het commentaar hierop en het Bureau opdragen deze bij het genoemde voorstel te voegen alvorens dit ter goedkeuring voor te leggen aan de lidstaten;  
 
-9.7 het, indien nodig, aanbevelen en eventueel aannemen – na goedkeuring door de Raad van Bestuur en overleg met alle postdiensten – van regelgeving of een nieuwe werkwijze in afwachting van het besluit van het Congres ter zake;  
+9.7 het, indien nodig, aanbevelen en eventueel aannemen – na goedkeuring door de Raad van Bestuur en overleg met alle lidstaten – van regelgeving of een nieuwe werkwijze in afwachting van het besluit van het Congres ter zake;  
 
-9.8 het, in de vorm van aanbevelingen aan de postdiensten, opstellen en aanreiken van normen op het gebied van techniek en exploitatie en op andere gebieden binnen zijn bevoegdheden waarop een uniforme werkwijze onmisbaar is; de Postraad verstrekt dienovereenkomstig, indien nodig, ook wijzigingen van reeds door hem vastgestelde normen;  
+9.8 het, in de vorm van aanbevelingen aan de lidstaten en hun aangewezen aanbieders, opstellen en aanreiken van normen op het gebied van techniek en exploitatie en op andere gebieden binnen zijn bevoegdheden waarop een uniforme werkwijze onmisbaar is; de Postraad verstrekt dienovereenkomstig, indien nodig, ook wijzigingen van reeds door hem vastgestelde normen;  
 
-9.9 het, in overleg met de Raad van Bestuur en met diens goedkeuring, bestuderen van het door het Internationaal Bureau opgestelde en aan het Congres voor te leggen ontwerp-strategisch plan van de UPU; het jaarlijks herzien van het door het Congres goedgekeurde plan, met de medewerking van de Strategische Planninggroep en het Internationaal Bureau, alsmede met de goedkeuring van de Raad van Bestuur;  
+9.9 het aan de Raad van Bestuur verstrekken van de nodige gegevens voor het opstellen van het aan het Congres voor te leggen strategieontwerp;  
 
-9.10 het goedkeuren van het door het Internationaal Bureau opgestelde jaarverslag inzake de activiteiten van de Unie, op die onderdelen welke betrekking hebben op de taken en verantwoordelijkheden van de Postraad;  
+9.10 het goedkeuren van het door het Internationaal Bureau opgestelde tweejaarlijks verslag inzake de activiteiten van de Unie, op die onderdelen welke betrekking hebben op de taken en verantwoordelijkheden van de Postraad;  
 
-9.11 het nemen van beslissingen omtrent te leggen contacten met postdiensten voor het vervullen van zijn taken;  
+9.11 het nemen van beslissingen omtrent te leggen contacten met de lidstaten en hun aangewezen aanbieders voor het vervullen van zijn taken;  
 
-9.12 het bestuderen van de problemen die verband houden met het onderwijs en de beroepsopleiding die nieuwe landen en ontwikkelingslanden aangaan;  
+9.12 het bestuderen van de problemen die verband houden met het onderwijs en de beroepsopleiding die de lidstaten en hun aangewezen aanbieders alsmede nieuwe landen en ontwikkelingslanden aangaan;  
 
-9.13 het treffen van de nodige maatregelen met het oog op de bestudering en verspreiding van de door bepaalde landen opgedane ervaring en geboekte vooruitgang op het gebied van techniek, exploitatie, economie en beroepsopleiding die de postdiensten aangaan;  
+9.13 het treffen van de nodige maatregelen met het oog op de bestudering en verspreiding van de door bepaalde lidstaten en hun aangewezen aanbieders opgedane ervaring en geboekte vooruitgang op het gebied van techniek, exploitatie, economie en beroepsopleiding die de postale diensten aangaan;  
 
 9.14 het bestuderen van de huidige situatie en de behoefte aan postale diensten in nieuwe landen en ontwikkelingslanden en het opstellen van passende aanbevelingen over de wijze waarop en de middelen waarmee de postale diensten in deze landen kunnen worden verbeterd;  
 
-9.15 het, na overleg met de Raad van Bestuur, nemen van passende maatregelen op het gebied van technische samenwerking met alle lidstaten van de Unie, in het bijzonder met nieuwe landen en ontwikkelingslanden;  
+9.15 het, na overleg met de Raad van Bestuur, nemen van passende maatregelen op het gebied van technische samenwerking met alle lidstaten van de Unie en hun aangewezen aanbieders, in het bijzonder met nieuwe landen en ontwikkelingslanden en hun aangewezen aanbieders;  
 
-9.16 het bestuderen van alle overige vraagstukken die door een lid van de Postraad, door de Raad van Bestuur of door een postdienst van een lidstaat aan hem worden voorgelegd;  
+9.16 het bestuderen van alle overige vraagstukken die door een lid van de Postraad, door de Raad van Bestuur of door een lidstaat of aangewezen aanbieder aan hem worden voorgelegd;  
 
 9.17 het in ontvangst nemen en bespreken van verslagen alsmede van de aanbevelingen van de Adviescommissie en, voor de vraagstukken die de Postraad aangaan, het bestuderen en van opmerkingen voorzien van de aanbevelingen van de Adviescommissie met het oog op de voorlegging ervan aan het Congres;  
 
-9.18 het aanwijzen van de leden die deel van de Adviescommissie zullen uitmaken.     
-10.  Op basis van het door het Congres aangenomen strategisch plan van de UPU en, in het bijzonder, het gedeelte dat betrekking heeft op de strategieën van de permanente organen van de Unie, stelt de Postraad tijdens zijn zitting na het Congres, een basiswerkprogramma op dat een aantal tactieken bevat ter verwezenlijking van de strategieën. Dit basisprogramma, dat een beperkt aantal werkzaamheden op het gebied van actuele onderwerpen van gemeenschappelijk belang behelst, wordt jaarlijks herzien aan de hand van de nieuwe feiten en prioriteiten en de in het strategisch plan aangebrachte wijzigingen.   
+9.18 het aanwijzen van zijn leden die deel van de Adviescommissie zullen uitmaken.     
+10.  Op basis van de door het Congres aangenomen strategie van de Unie en, in het bijzonder, het gedeelte dat betrekking heeft op de strategieën van de permanente organen van de Unie, stelt de Postraad tijdens zijn zitting na het Congres, een basiswerkprogramma op dat een aantal tactieken bevat ter verwezenlijking van de strategieën. Dit basisprogramma, dat een beperkt aantal werkzaamheden op het gebied van actuele onderwerpen van gemeenschappelijk belang behelst, wordt jaarlijks herzien aan de hand van de nieuwe feiten en prioriteiten.   
 11.  Teneinde te zorgen voor een doeltreffende samenhang tussen de werkzaamheden van beide organen kan de Raad van Bestuur vertegenwoordigers benoemen om de vergaderingen van de Postraad in de hoedanigheid van waarnemer bij te wonen.   
 12.  Op hun verzoek kunnen de hierna genoemde waarnemers, zonder stemrecht, aan de plenaire zittingen en aan de vergaderingen van de Commissies van de Postraad deelnemen: 
 
@@ -816,7 +845,7 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 17.1 elke internationale instantie of iedere gekwalificeerde persoon die hij bij zijn werkzaamheden wenst te betrekken;  
 
-17.2 postdiensten van de lidstaten die niet tot de Postraad behoren;  
+17.2 elke lidstaat die niet tot de Postraad behoort;  
 
 17.3 elke vereniging of onderneming waarmee hij overleg wenst te plegen over vraagstukken die op zijn activiteiten betrekking hebben.     
 
@@ -824,15 +853,15 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 ####Informatie over de activiteiten van de Postraad
 
-1.  Na elke zitting brengt de Postraad de lidstaten van de Unie, de beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, met name door hun een analytisch verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.   
+1.  Na elke zitting brengt de Postraad de lidstaten, hun aangewezen aanbieders, de beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, met name door hun een beknopt verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.   
 2.  De Postraad stelt, ten behoeve van de Raad van Bestuur, een jaarverslag van zijn activiteiten op.   
-3.  De Postraad stelt ten behoeve van het Congres een verslag op over al zijn activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan alle postdiensten van de lidstaten van de Unie en aan de leden van de Adviescommissie.   
+3.  De Postraad stelt ten behoeve van het Congres een verslag op over al zijn activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan alle lidstaten van de Unie, aan hun aangewezen aanbieders en aan de leden van de Adviescommissie.   
 
 ### Artikel  106  
 
 ####Samenstelling, functioneren en vergaderingen van de Adviescommissie
 
-1.  De Adviescommissie heeft tot doel de belangen van de postale sector in brede zin te behartigen en als kader te dienen voor een doeltreffende dialoog tussen de betrokken partijen. De Commissie omvat niet-gouvernementele organisaties die cliënten vertegenwoordigen, leveranciers van distributiediensten, werknemersorganisaties, leveranciers van goederen en diensten die voor de postdienstensector werkzaam zijn en vergelijkbare instanties waarin particulieren verenigd zijn, alsmede ondernemingen die bij de internationale postdiensten betrokken zijn. Indien deze organisaties geregistreerd worden, moet dit geschieden in een lidstaat van de Unie. De Raad van Bestuur en de Postraad wijzen hun respectieve leden aan die als lid in de Adviescommissie zitting hebben. Naast de aanwijzing van leden door de Raad van Bestuur in de Postraad wordt de toetreding tot de Adviescommissie vastgesteld aan de hand van een procedure van indiening respectievelijk inwilliging van verzoeken, die door de Raad van Bestuur wordt ingesteld en verloopt overeenkomstig artikel 102.6.31.   
+1.  De Adviescommissie heeft tot doel de belangen van de postale sector in brede zin te behartigen en als kader te dienen voor een doeltreffende dialoog tussen de betrokken partijen. De Commissie omvat niet-gouvernementele organisaties die cliënten vertegenwoordigen, leveranciers van distributiediensten, werknemersorganisaties, leveranciers van goederen en diensten die voor de postale dienstensector werkzaam zijn en vergelijkbare instanties waarin particulieren verenigd zijn, alsmede ondernemingen die een bijdrage wensen te leveren aan de verwezenlijking van de missie en doelen van de Unie. Indien deze organisaties geregistreerd worden, moet dit geschieden in een lidstaat van de Unie. De Raad van Bestuur en de Postraad wijzen hun respectieve leden aan die als lid in de Adviescommissie zitting hebben. Naast de aanwijzing van leden door de Raad van Bestuur in de Postraad wordt de toetreding tot de Adviescommissie vastgesteld aan de hand van een procedure van indiening respectievelijk inwilliging van verzoeken, die door de Raad van Bestuur wordt ingesteld en verloopt overeenkomstig artikel 102.6.31.   
 2.  Elk lid van de Adviescommissie wijst zijn eigen vertegenwoordiger aan.   
 3.  De operationele kosten van de Adviescommissie worden op een door de Raad van Bestuur vast te stellen wijze over de Unie en de leden van de Commissie omgeslagen.   
 4.  De leden van de Adviescommissie krijgen geen enkele vergoeding of beloning.   
@@ -845,7 +874,7 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 8.2 het uitvoeren van studies en het voeren van beraadslagingen over vraagstukken die voor de leden van de Adviescommissie van belang zijn;  
 
-8.3 het bestuderen van vraagstukken betreffende de postdienstensector en het uitbrengen van verslagen over deze vraagstukken;  
+8.3 het bestuderen van vraagstukken betreffende de postale dienstensector en het uitbrengen van verslagen over deze vraagstukken;  
 
 8.4 het leveren van bijdragen aan de werkzaamheden van de Raad van Bestuur en van de Postraad, in het bijzonder door het uitbrengen van verslagen en aanbevelingen, en door het uitbrengen van zienswijzen op verzoek van beide Raden;  
 
@@ -870,9 +899,9 @@ Gelet op artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constitu
 
 ####Informatie over de activiteiten van de Adviescommissie
 
-1.  Na elke zitting brengt de Adviescommissie de Raad van Bestuur en de Postraad op de hoogte van haar activiteiten door de Voorzitters van deze organen, onder andere, een analytisch verslag te zenden van haar vergaderingen alsmede aanbevelingen en zienswijzen.   
-2.  De Adviescommissie brengt bij de Raad van Bestuur een jaarlijks activiteitenverslag uit en zendt een exemplaar hiervan naar de Postraad. Dit verslag is inbegrepen in de stukken van de Raad van Bestuur die aan de lidstaten van de Unie en aan de beperkte Unies wordt verstrekt overeenkomstig artikel 103.   
-3.  De Adviescommissie stelt ten behoeve van het Congres een verslag op over al haar activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan de postdiensten van de lidstaten van de Unie.   
+1.  Na elke zitting brengt de Adviescommissie de Raad van Bestuur en de Postraad op de hoogte van haar activiteiten door de Voorzitters van deze organen, onder andere, een beknopt verslag te zenden van haar vergaderingen alsmede aanbevelingen en zienswijzen.   
+2.  De Adviescommissie brengt bij de Raad van Bestuur een jaarlijks activiteitenverslag uit en zendt een exemplaar hiervan naar de Postraad. Dit verslag is inbegrepen in de stukken van de Raad van Bestuur die aan de lidstaten van de Unie, aan hun aangewezen aanbieders en aan de beperkte Unies wordt verstrekt overeenkomstig artikel 103.   
+3.  De Adviescommissie stelt ten behoeve van het Congres een verslag op over al haar activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan de lidstaten en aan hun aangewezen aanbieders.   
 
 ### Artikel  108  
 
@@ -895,15 +924,15 @@ De werktalen van het Internationaal Bureau zijn het Frans en het Engels.
 2.  De lidstaat of -staten die om een andere taal dan de officiële taal hebben verzocht, vormen een taalgroep.   
 3.  De stukken worden door het Internationaal Bureau gepubliceerd in de officiële taal en in de talen van de samengestelde taalgroepen, hetzij rechtstreeks, hetzij door tussenkomst van de regionale bureaus van deze groepen, overeenkomstig de met het Internationaal Bureau overeengekomen modaliteiten. De publicatie in de verschillende talen vindt volgens hetzelfde model plaats.   
 4.  De rechtstreeks door het Internationaal Bureau gepubliceerde stukken worden, voor zover mogelijk, gelijktijdig verspreid in de verschillende talen waarom is verzocht.   
-5.  De correspondentie tussen de postdiensten en het Internationaal Bureau en tussen dit Bureau en derden kan worden uitgewisseld in elke taal waarvoor het Internationaal Bureau een vertaaldienst heeft.   
+5.  De correspondentie tussen de lidstaten of hun aangewezen aanbieders en het Internationaal Bureau en tussen dit Bureau en derden kan worden uitgewisseld in elke taal waarvoor het Internationaal Bureau een vertaaldienst heeft.   
 6.  De vertaalkosten in ongeacht welke taal, met inbegrip van die welke voortvloeien uit de toepassing van het bepaalde onder 5, worden gedragen door de taalgroep die om die taal heeft verzocht. De lidstaten die de officiële taal gebruiken, storten voor de vertaling van niet-officiële stukken een forfaitaire contributie waarvan het bedrag per contributie-eenheid gelijk is aan het bedrag dat wordt betaald door de landen die gebruik maken van de andere werktaal van het Internationaal Bureau. Alle overige kosten die verband houden met de verstrekking van stukken worden door de Unie gedragen. Het plafond van de door de Unie voor de levering van stukken in het Duits, Chinees, Portugees en Russisch te dragen kosten wordt vastgesteld in een resolutie van het Congres.   
-7.  De door een taalgroep te dragen kosten worden verdeeld over de leden van deze groep, in verhouding tot hun bijdrage aan de uitgaven van de Unie. De kosten kunnen volgens een andere verdeelsleutel over de leden van de taalgroep worden omgeslagen, mits de betrokkenen het hierover eens worden en het Internationaal Bureau via de woordvoerder van de groep van hun besluit in kennis stellen.   
+7.  De door een taalgroep te dragen kosten worden verdeeld over de leden van deze groep, in verhouding tot hun bijdrage aan de uitgaven van de Unie. De kosten kunnen volgens een andere verdeelsleutel over de leden van de taalgroep worden verdeeld, mits de betrokken lidstaten het hierover eens worden en het Internationaal Bureau via de woordvoerder van de groep van hun besluit in kennis stellen.   
 8.  Het Internationaal Bureau geeft na een termijn die ten hoogste twee jaar mag bedragen gevolg aan elke wijziging van de taalkeuze waarom door een lidstaat wordt verzocht.   
 9.  Voor de beraadslagingen van de organen van de Unie worden de Franse, de Engelse, de Spaanse en de Russische taal toegelaten, door middel van een tolksysteem – met of zonder elektronische apparatuur – waarvan de keuze wordt overgelaten aan het oordeel van de organisatoren van de vergadering, na overleg met de Directeur-Generaal van het Internationaal Bureau en met de betrokken lidstaten.   
 10.  Voor de onder 9 bedoelde beraadslagingen en vergaderingen worden tevens andere talen toegestaan.   
 11.  De delegaties die andere talen gebruiken, dragen zorg voor de simultane vertolking in een van de onder 9 bedoelde talen, hetzij door middel van het in dat lid bedoelde systeem, wanneer de benodigde technische aanpassingen kunnen worden gerealiseerd, hetzij door middel van persoonlijke tolken.   
 12.  De kosten van de tolkdiensten worden verdeeld over de lidstaten die dezelfde taal gebruiken, in verhouding tot hun bijdrage aan de uitgaven van de Unie. De installatie- en onderhoudskosten van de technische apparatuur worden evenwel door de Unie gedragen.   
-13.  De postdiensten kunnen afspraken maken met betrekking tot de in hun wederzijdse betrekkingen voor dienstcorrespondentie te gebruiken taal. Bij gebreke van dergelijke afspraken wordt de Franse taal gebruikt.   
+13.  De lidstaten en/of hun aangewezen aanbieders kunnen afspraken maken met betrekking tot de in hun wederzijdse betrekkingen voor dienstcorrespondentie te gebruiken taal. Bij gebreke van dergelijke afspraken wordt de Franse taal gebruikt.   
 
 ### HOOFDSTUK  II  
 
@@ -923,14 +952,14 @@ De werktalen van het Internationaal Bureau zijn het Frans en het Engels.
 
 ####Taken van de Directeur-Generaal
 
-1.  De Directeur-Generaal organiseert, bestuurt en leidt het Internationaal Bureau, en is de wettelijk vertegenwoordiger ervan. Hij is bevoegd tot het indelen van de functies in de rangen G 1 tot en met D 2, en tot het bevorderen van de functionarissen in deze rangen. Voor benoemingen in de rangen P 1 tot en met D 2 moet hij de professionele kwalificaties in acht nemen van de kandidaten die zijn aanbevolen door postdiensten van de lidstaten waarvan zij de nationaliteit hebben, of waar zij hun beroep uitoefenen, rekening houdend met een billijke geografische spreiding over de continenten en de taalspreiding. De functies in de graad D 2 moeten, met inachtneming van het doorslaggevende criterium van de doeltreffendheid van het Internationaal Bureau, zoveel mogelijk worden vervuld door kandidaten uit andere regio’s dan die waaruit de Directeur-Generaal en de Plaatsvervangend Directeur-Generaal afkomstig zijn. Indien voor bepaalde functies bijzondere bekwaamheden vereist zijn, kan de Directeur-Generaal extern werven. Bij de benoeming van een nieuwe functionaris houdt de Directeur-Generaal er tevens rekening mee dat de personen in de functies van de rangen D 2, D 1 en P 5 ingezetenen van verschillende lidstaten van de Unie moeten zijn. Bij de bevordering van een functionaris van het Internationaal Bureau in de rangen D 2, D 1 en P 5 is de Directeur-Generaal niet verplicht hetzelfde beginsel toe te passen. De bekwaamheid die tijdens het wervingsproces wordt vastgesteld heeft prioriteit boven de eis van een billijke geografische spreiding en taalspreiding. De Directeur-Generaal brengt de Raad van Bestuur eenmaal per jaar op de hoogte van de benoemingen en bevorderingen in de rangen P 4 tot en met D 2.   
+1.  De Directeur-Generaal organiseert, bestuurt en leidt het Internationaal Bureau, en is de wettelijk vertegenwoordiger ervan. Hij is bevoegd tot het indelen van de functies in de rangen G 1 tot en met D 2, en tot het bevorderen van de functionarissen in deze rangen. Voor benoemingen in de rangen P 1 tot en met D 2 moet hij de beroepsbekwaamheid in acht nemen van de kandidaten die zijn aanbevolen door de lidstaten waarvan zij de nationaliteit hebben, of waar zij hun beroep uitoefenen, rekening houdend met een billijke geografische spreiding over de continenten en taalspreiding. De functies in de graad D 2 moeten, met inachtneming van het doorslaggevende criterium van de doeltreffendheid van het Internationaal Bureau, zoveel mogelijk worden vervuld door kandidaten uit andere regio’s dan die waaruit de Directeur-Generaal en de Plaatsvervangend Directeur-Generaal afkomstig zijn. Indien voor bepaalde functies bijzondere bekwaamheden vereist zijn, kan de Directeur-Generaal extern werven. Bij de benoeming van een nieuwe functionaris houdt de Directeur-Generaal er tevens rekening mee dat de personen in de functies van de rangen D 2, D 1 en P 5 ingezetenen van verschillende lidstaten van de Unie moeten zijn. Bij de bevordering van een functionaris van het Internationaal Bureau in de rangen D 2, D 1 en P 5 is de Directeur-Generaal niet verplicht hetzelfde beginsel toe te passen. De bekwaamheid die tijdens het wervingsproces wordt vastgesteld heeft prioriteit boven de eis van een billijke geografische spreiding en taalspreiding. De Directeur-Generaal brengt de Raad van Bestuur eenmaal per jaar op de hoogte van de benoemingen en bevorderingen in de rangen P 4 tot en met D 2.   
 2.  De Directeur-Generaal heeft de volgende bevoegdheden: 
 
 2.1 het vervullen van de taken van depositaris van de Akten van de Unie en van tussenpersoon bij de procedure voor toetreding en toelating tot de Unie alsmede bij de procedure voor het verlaten ervan;  
 
-2.2 het aan alle Regeringen van de lidstaten kennisgeven van de besluiten van het Congres;  
+2.2 het aan alle regeringen van de lidstaten kennisgeven van de besluiten van het Congres;  
 
-2.3 het aan alle postdiensten kennisgeven van de door de Postraad vastgestelde of herziene Regelingen;  
+2.3 het aan alle lidstaten en hun aangewezen aanbieders kennisgeven van de door de Postraad vastgestelde of herziene Regelingen;  
 
 2.4 het opstellen van de jaarlijkse ontwerpbegroting van de Unie op het laagst mogelijke niveau dat nog verenigbaar is met de behoeften van de Unie en deze op een gelegen tijdstip ter beoordeling voorleggen aan de Raad van Bestuur; het, na goedkeuring door de Raad van Bestuur, aan de lidstaten mededelen van de begroting en deze ten uitvoer leggen;  
 
@@ -942,21 +971,23 @@ De werktalen van het Internationaal Bureau zijn het Frans en het Engels.
 
 2.8 het, na de afsluiting van het Congres, aan de Postraad voorleggen van voorstellen betreffende de wijzigingen die op de Regelingen moeten worden aangebracht naar aanleiding van de besluiten van het Congres, overeenkomstig het Reglement van Orde van de Postraad;  
 
-2.9 het opstellen, ten behoeve van de Postraad en op basis van de door deze Raad gegeven richtlijnen, van het ontwerp-strategisch plan dat aan het Congres moet worden voorgelegd en van de jaarlijkse ontwerp-herziening;  
+2.9 het opstellen, ten behoeve van de Raad van Bestuur en op basis van de door de Raden gegeven richtlijnen, van het strategieontwerp dat aan het Congres moet worden voorgelegd;  
 
-2.10 het vertegenwoordigen van de Unie;  
+2.10 het, ter goedkeuring door de Raad van Bestuur, opstellen van een vierjarig verslag over de resultaten van de lidstaten betreffende de uitvoering van de door het voorgaande Congres goedgekeurde strategie, dat aan het volgende Congres wordt voorgelegd;  
 
-2.11 het optreden als tussenpersoon in de betrekkingen tussen: 
+2.11 het vertegenwoordigen van de Unie;  
 
-– de UPU en de Beperkte Unies;  
+2.12 het optreden als tussenpersoon in de betrekkingen tussen: 
+
+– de UPU en de beperkte Unies;  
 
 – de UPU en de Organisatie van de Verenigde Naties;  
 
 – de UPU en de internationale organisaties wier activiteiten voor de Unie van belang zijn;  
 
-– de UPU en de internationale organisaties, verenigingen of ondernemingen waarmee de organen van de Unie overleg wensen te plegen of die zij bij hun werkzaamheden wensen te betrekken;    
+– de UPU en de internationale instanties, verenigingen of ondernemingen waarmee de organen van de Unie overleg wensen te plegen of die zij bij hun werkzaamheden wensen te betrekken;    
 
-2.12 het vervullen van de taak van Secretaris-Generaal van de organen van de Unie en het in die hoedanigheid, met inachtneming van de bijzondere bepalingen van dit Algemeen Reglement toezien op: 
+2.13 het vervullen van de taak van Secretaris-Generaal van de organen van de Unie en het in die hoedanigheid, met inachtneming van de bijzondere bepalingen van dit Algemeen Reglement toezien op: 
 
 – de voorbereiding en de organisatie van de werkzaamheden van de organen van de Unie;  
 
@@ -964,7 +995,7 @@ De werktalen van het Internationaal Bureau zijn het Frans en het Engels.
 
 – het functioneren van het secretariaat gedurende de vergaderingen van de organen van de Unie;    
 
-2.13 het verlenen van bijstand bij de zittingen van de organen van de Unie en het zonder stemrecht deelnemen aan de beraadslagingen, met de mogelijkheid zich te laten vertegenwoordigen.     
+2.14 het verlenen van bijstand bij de zittingen van de organen van de Unie en het zonder stemrecht deelnemen aan de beraadslagingen, met de mogelijkheid zich te laten vertegenwoordigen.     
 
 ### Artikel  113  
 
@@ -977,7 +1008,7 @@ De werktalen van het Internationaal Bureau zijn het Frans en het Engels.
 
 ####Secretariaat van de organen van de Unie (Const. 14, 15, 17, 18)
 
-Het secretariaat van de organen van de Unie wordt verzorgd door het Internationaal Bureau onder de verantwoordelijkheid van de Directeur-Generaal. Hij zendt alle stukken die naar aanleiding van elke zitting worden gepubliceerd aan de postdiensten van de leden van het orgaan, aan de postdiensten van de landen die, zonder lid van het orgaan te zijn, meewerken aan de studies, aan de Beperkte Unies alsmede aan de overige postdiensten van de lidstaten die daarom verzoeken.  
+Het secretariaat van de organen van de Unie wordt verzorgd door het Internationaal Bureau onder de verantwoordelijkheid van de Directeur-Generaal. Hij zendt alle stukken die naar aanleiding van elke zitting worden gepubliceerd aan de staten die lid zijn van het orgaan, aan hun aangewezen aanbieders, aan de lidstaten en aan hun aangewezen aanbieders die, zonder lid van het orgaan te zijn, meewerken aan de studies, aan de beperkte Unies alsmede aan de andere lidstaten en aan hun aangewezen aanbieders die daarom verzoeken.  
 
 ### Artikel  115  
 
@@ -989,9 +1020,9 @@ Het Internationaal Bureau stelt een lijst van lidstaten van de Unie op en houdt 
 
 ####Inlichtingen. Zienswijze. Verzoek om uitlegging en wijziging van de Akten. Onderzoeken. Optreden bij de vereffening van rekeningen (Const. 20, Alg. Regl. 124, 125, 126)
 
-1.  Het Internationaal Bureau houdt zich te allen tijde ter beschikking van de Raad van Bestuur, van de Postraad en van de postdiensten voor het verstrekken van alle nuttige inlichtingen inzake vraagstukken die met de dienst verband houden.   
+1.  Het Internationaal Bureau houdt zich te allen tijde ter beschikking van de Raad van Bestuur, van de Postraad, van de lidstaten en van hun aangewezen aanbieders voor het verstrekken van alle nuttige inlichtingen inzake vraagstukken die met de dienst verband houden.   
 2.  Het Internationaal Bureau is in het bijzonder belast met het bijeenbrengen, coördineren, publiceren en verspreiden van inlichtingen van uiteenlopende aard die van belang zijn voor de internationale postale dienst; het op verzoek van de betrokken partijen uitbrengen van een zienswijze over geschillen; het gevolg geven aan verzoeken om uitlegging en wijziging van de Akten van de Unie en, in het algemeen, het verrichten van studies en redactionele of documentaire werkzaamheden die de genoemde Akten aan hem toekennen of die hem in het belang van de Unie worden opgedragen.   
-3.  Het verricht eveneens de onderzoeken waarom door de postdiensten wordt verzocht teneinde de zienswijze van de andere postdiensten met betrekking tot een bepaald vraagstuk te vernemen. De uitkomst van een onderzoek heeft niet het karakter van een stemming en is niet formeel bindend.   
+3.  Het Internationaal Bureau verricht eveneens de onderzoeken waarom door de lidstaten en door de door hun aangewezen aanbieders wordt verzocht teneinde de zienswijze van de andere lidstaten en van hun aangewezen aanbieders met betrekking tot een bepaald vraagstuk te vernemen. De uitkomst van een onderzoek heeft niet het karakter van een stemming en is niet formeel bindend.   
 4.  Het Internationaal Bureau kan in de hoedanigheid van clearing office optreden bij de vereffening van rekeningen van uiteenlopende aard die betrekking hebben op de postale dienst.   
 
 ### Artikel  117  
@@ -1004,14 +1035,14 @@ Het Internationaal Bureau is in het kader van de internationale technische samen
 
 ####Door het Internationaal Bureau verstrekte formulieren (Const. 20)
 
-Het Internationaal Bureau is belast met het doen vervaardigen van internationale antwoordcoupons en met de verstrekking hiervan aan de postdiensten die daarom verzoeken.  
+Het Internationaal Bureau is belast met het doen vervaardigen van internationale antwoordcoupons en met de verstrekking hiervan aan de lidstaten of hun aangewezen aanbieders die daarom verzoeken.  
 
 ### Artikel  119  
 
-####Akten van de Beperkte Unies en bijzondere regelingen (Const. 8)
+####Akten van de beperkte Unies en bijzondere verdragen (Const. 8)
 
-1.  Twee exemplaren van de Akten van de Beperkte Unies en van de ingevolge artikel 8 van de Constitutie gesloten bijzondere regelingen moeten door de Bureaus van deze Unies of, bij gebreke daarvan, door een van de verdragsluitende partijen aan het Internationaal Bureau worden gezonden.   
-2.  Het Internationaal Bureau ziet erop toe dat de Akten van de Beperkte Unies en de bijzondere regelingen niet voorzien in minder gunstige voorwaarden voor het publiek dan die welke in de Akten van de Unie zijn voorzien en brengt de postdiensten op de hoogte van het bestaan van bovengenoemde Unies en regelingen. Het Internationaal Bureau meldt elke uit hoofde van deze bepaling vastgestelde onregelmatigheid aan de Raad van Bestuur.   
+1.  Twee exemplaren van de Akten van de beperkte Unies en van de ingevolge artikel 8 van de Constitutie gesloten bijzondere verdragen moeten door de Bureaus van deze Unies of, bij gebreke daarvan, door een van de verdragsluitende partijen aan het Internationaal Bureau worden gezonden.   
+2.  Het Internationaal Bureau ziet erop toe dat de Akten van de beperkte Unies en de bijzondere verdragen niet voorzien in minder gunstige voorwaarden voor het publiek dan die welke in de Akten van de Unie zijn voorzien en brengt de lidstaten en hun aangewezen aanbieders op de hoogte van het bestaan van bovengenoemde Unies en verdragen. Het Internationaal Bureau meldt elke uit hoofde van deze bepaling vastgestelde onregelmatigheid aan de Raad van Bestuur.   
 
 ### Artikel  120  
 
@@ -1023,7 +1054,7 @@ Het Internationaal Bureau stelt met behulp van de hem ter beschikking gestelde s
 
 ####Tweejaarlijks verslag van de activiteiten van de Unie (Const. 20, Alg. Regl. 102.6.17)
 
-Het Internationaal Bureau stelt een tweejaarlijks verslag op van de activiteiten van de Unie en doet dit, na goedkeuring door de Raad van Bestuur, toekomen aan de postdiensten, de Beperkte Unies en aan de Organisatie van de Verenigde Naties.  
+Het Internationaal Bureau stelt een tweejaarlijks verslag op van de activiteiten van de Unie en doet dit, na goedkeuring door de Raad van Bestuur, toekomen aan de lidstaten en aan hun aangewezen aanbieders, aan de beperkte Unies en aan de Organisatie van de Verenigde Naties.  
 
 ### HOOFDSTUK  III  
 
@@ -1033,20 +1064,20 @@ Het Internationaal Bureau stelt een tweejaarlijks verslag op van de activiteiten
 
 ####Procedure voor de indiening van voorstellen bij het Congres (Const. 29)
 
-1.  Onder voorbehoud van de uitzonderingen bedoeld onder 2 en 5 wordt de indiening bij het Congres van voorstellen van ongeacht welke aard door de postdiensten van de lidstaten geregeld door de volgende procedure: 
+1.  Onder voorbehoud van de uitzonderingen bedoeld onder 2 en 5 wordt de indiening bij het Congres van voorstellen van ongeacht welke aard door de lidstaten geregeld door de volgende procedure: 
 
 a. geaccepteerd worden voorstellen die ten minste zes maanden vóór de voor het Congres vastgestelde datum door het Internationaal Bureau worden ontvangen;  
 
 b. gedurende het tijdvak van zes maanden voorafgaand aan de voor het Congres vastgestelde datum mogen geen voorstellen van redactionele aard worden ingediend;  
 
-c. inhoudelijke voorstellen die door het Internationaal Bureau worden ontvangen in de periode tussen zes en vier maanden vóór de voor het Congres vastgestelde datum worden uitsluitend geaccepteerd indien deze worden ondersteund door ten minste twee postdiensten;  
+c. inhoudelijke voorstellen die door het Internationaal Bureau worden ontvangen in de periode tussen zes en vier maanden vóór de voor het Congres vastgestelde datum worden uitsluitend geaccepteerd indien deze worden ondersteund door ten minste twee lidstaten;  
 
-d. inhoudelijke voorstellen die door het Internationaal Bureau worden ontvangen in de periode tussen vier en twee maanden voorafgaand aan de voor het Congres vastgestelde datum worden uitsluitend geaccepteerd indien deze worden ondersteund door ten minste acht postdiensten; de voorstellen die daarna worden ontvangen, worden niet meer geaccepteerd;  
+d. inhoudelijke voorstellen die door het Internationaal Bureau worden ontvangen in de periode tussen vier en twee maanden voorafgaand aan de voor het Congres vastgestelde datum worden uitsluitend geaccepteerd indien deze worden ondersteund door ten minste acht lidstaten; de voorstellen die daarna worden ontvangen, worden niet meer geaccepteerd;  
 
 e. de adhesiebetuigingen moeten door het Internationaal Bureau binnen dezelfde termijn worden ontvangen als de voorstellen waarop deze betrekking hebben.     
 2.  Voorstellen betreffende de Constitutie of het Algemeen Reglement moeten ten minste zes maanden vóór de opening van het Congres door het Internationaal Bureau worden ontvangen; voorstellen die na die datum maar vóór de opening worden ontvangen, kunnen slechts in aanmerking worden genomen indien het Congres daartoe met een meerderheid van twee derde van de bij het Congres vertegenwoordigde landen beslist en indien aan de onder 1 bedoelde voorwaarden wordt voldaan.   
-3.  Elk voorstel mag in beginsel slechts één doel hebben en uitsluitend wijzigingen bevatten die door dat doel worden gerechtvaardigd.   
-4.  De voorstellen van redactionele aard worden door de postdiensten die deze indienen bovenaan voorzien van de vermelding „Voorstel van redactionele aard” en door het Internationaal Bureau gepubliceerd onder een nummer, gevolgd door de letter R. De voorstellen die niet van deze vermelding zijn voorzien, maar die naar het oordeel van het Internationaal Bureau van louter redactionele aard zijn, worden gepubliceerd met een passende annotatie; het Internationaal Bureau stelt ten behoeve van het Congres een lijst van deze voorstellen op.   
+3.  Elk voorstel mag in beginsel slechts één doel hebben en uitsluitend wijzigingen bevatten die door dat doel worden gerechtvaardigd. Elk voorstel dat aanzienlijke uitgaven voor de Unie met zich meebrengt moet vergezeld zijn van een door de desbetreffende lidstaat, in overleg met het Internationaal Bureau, opgestelde staat van de financiële consequenties, teneinde vast te stellen welke financiële middelen benodigd zijn voor de uitvoering ervan.   
+4.  De voorstellen van redactionele aard worden door de lidstaten die deze indienen bovenaan voorzien van de vermelding „Voorstel van redactionele aard” en door het Internationaal Bureau gepubliceerd onder een nummer, gevolgd door de letter R. De voorstellen die niet van deze vermelding zijn voorzien, maar die naar het oordeel van het Internationaal Bureau van louter redactionele aard zijn, worden gepubliceerd met een passende annotatie; het Internationaal Bureau stelt ten behoeve van het Congres een lijst van deze voorstellen op.   
 5.  De onder 1 en 4 voorgeschreven procedure is noch van toepassing op voorstellen betreffende het Reglement van Orde van de Congressen, noch op wijzigingen van reeds gedane voorstellen.   
 
 ### Artikel  123  
@@ -1054,32 +1085,32 @@ e. de adhesiebetuigingen moeten door het Internationaal Bureau binnen dezelfde t
 ####Procedure voor de indiening bij de Postraad van voorstellen betreffende de opstelling van nieuwe Regelingen, met inachtneming van de door het Congres genomen besluiten
 
 1.  De Regelingen van het Algemeen Postverdrag en van het Verdrag inzake postale financiële diensten worden vastgesteld door de Postraad, met inachtneming van de door het Congres genomen besluiten.   
-2.  De voorstellen naar aanleiding van de voorgestelde wijzigingen van het Postverdrag of het Verdrag inzake financiële diensten moeten gelijktijdig met de voorstellen aan het Congres waarop deze betrekking hebben aan het Internationaal Bureau worden voorgelegd. De voorstellen kunnen door de postdiensten van een enkele lidstaat van de UPU worden ingediend, zonder steun van de postdiensten van andere lidstaten. Deze voorstellen moeten uiterlijk een maand voor het Congres aan alle lidstaten worden toegezonden.   
-3.  De overige voorstellen betreffende de Regelingen, die dienen te worden bestudeerd door de Postraad met het oog op de opstelling van nieuwe Reglementen binnen zes maanden na het Congres, moeten ten minste twee maanden voor het Congres aan het Internationaal Bureau worden voorgelegd.   
-4.  De voorstellen betreffende de wijzigingen die in de Reglementen moeten worden aangebracht vanwege de besluiten van het Congres, die door de postdiensten van de lidstaten worden ingediend, moeten uiterlijk twee maanden voor de opening van de Postraad door het Internationaal Bureau worden ontvangen. Deze voorstellen moeten uiterlijk een maand voor de opening van de Postraad aan alle lidstaten worden toegezonden.   
+2.  De voorstellen voor de voorgestelde wijzigingen van het Postverdrag of het Verdrag inzake postale financiële diensten moeten gelijktijdig met de voorstellen aan het Congres waarop deze betrekking hebben aan het Internationaal Bureau worden voorgelegd. De voorstellen kunnen door een enkele lidstaat worden ingediend, zonder steun van de andere lidstaten. Deze voorstellen moeten uiterlijk een maand voor het Congres aan alle lidstaten worden toegezonden.   
+3.  De overige voorstellen betreffende de Regelingen, die dienen te worden bestudeerd door de Postraad met het oog op de opstelling van nieuwe Regelingen binnen zes maanden na het Congres, moeten ten minste twee maanden voor het Congres aan het Internationaal Bureau worden voorgelegd.   
+4.  De voorstellen betreffende de wijzigingen die in de Regelingen moeten worden aangebracht vanwege de besluiten van het Congres, die door de lidstaten worden ingediend, moeten uiterlijk twee maanden voor de opening van de Postraad door het Internationaal Bureau worden ontvangen. Deze voorstellen moeten uiterlijk een maand voor de opening van de Postraad aan alle lidstaten en aan hun aangewezen aanbieders worden toegezonden.   
 
 ### Artikel  124  
 
 ####Procedure voor de indiening van voorstellen tussen twee Congressen in (Const. 29, Alg. Regl. 116)
 
-1.  Om in aanmerking te worden genomen moet elk voorstel betreffende het Verdrag of de Regelingen dat door een postdienst tussen twee Congressen in wordt ingediend, worden ondersteund door ten minste twee andere postdiensten. Aan deze voorstellen wordt geen gevolg gegeven indien het Internationaal Bureau niet tegelijkertijd de benodigde adhesiebetuigingen ontvangt.   
-2.  Deze voorstellen worden door tussenkomst van het Internationaal Bureau aan de andere postdiensten gericht.   
+1.  Om in aanmerking te worden genomen moet elk voorstel betreffende het Verdrag of de overige verdragen dat door een lidstaat tussen twee Congressen in wordt ingediend, worden gesteund door ten minste twee andere lidstaten. Aan deze voorstellen wordt geen gevolg gegeven indien het Internationaal Bureau niet tegelijkertijd de benodigde adhesiebetuigingen ontvangt.   
+2.  Deze voorstellen worden door tussenkomst van het Internationaal Bureau aan de andere lidstaten gericht.   
 3.  Voorstellen betreffende de Regelingen behoeven geen steun, maar worden slechts door de Postraad in aanmerking genomen indien deze de spoedeisende noodzaak ervan onderschrijft.   
 
 ### Artikel  125  
 
 ####Bestudering van voorstellen tussen twee Congressen in (Const. 29, Alg. Regl. 116, 124)
 
-1.  Elk voorstel betreffende het Verdrag, de Regelingen en hun Slotprotocollen is onderworpen aan de volgende procedure: Wanneer de postdienst van een lidstaat een voorstel aan het Internationaal Bureau heeft gezonden, zendt dit Bureau het voorstel aan alle postdiensten van de lidstaten ter beoordeling toe. Deze postdiensten beschikken over een termijn van twee maanden om het voorstel te beoordelen en, in voorkomend geval, hun opmerkingen aan het Internationaal Bureau te doen toekomen. Wijzigingen zijn niet toegestaan. Aan het einde van deze termijn van twee maanden zendt het Internationaal Bureau de postdiensten van de lidstaten alle opmerkingen toe die het heeft ontvangen en verzoekt het de postdienst van elke lidstaat die stemrecht heeft voor of tegen het voorstel te stemmen. De postdiensten van de lidstaten die hun stem niet binnen een termijn van twee maanden hebben verzonden, worden geacht zich van stemming te hebben onthouden. De eerder genoemde termijn gaat in op de datum van de circulaires van het Internationaal Bureau.   
+1.  Elk voorstel betreffende het Verdrag, de overige verdragen en hun Slotprotocollen is onderworpen aan de volgende procedure: wanneer een lidstaat een voorstel aan het Internationaal Bureau heeft gezonden, zendt dit Bureau het voorstel aan alle lidstaten ter beoordeling toe. De lidstaten beschikken over een termijn van twee maanden om het voorstel te beoordelen en, in voorkomend geval, hun opmerkingen aan het Internationaal Bureau te doen toekomen. Wijzigingen zijn niet toegestaan. Aan het einde van deze termijn van twee maanden zendt het Internationaal Bureau de lidstaten alle opmerkingen toe die het heeft ontvangen en verzoekt het elke lidstaat die stemrecht heeft voor of tegen het voorstel te stemmen. De lidstaten die hun stem niet binnen een termijn van twee maanden hebben verzonden, worden geacht zich van stemming te hebben onthouden. De eerder genoemde termijn gaat in op de datum van de circulaires van het Internationaal Bureau.   
 2.  De voorstellen tot wijziging van de Regelingen worden behandeld door de Postraad.   
-3.  Indien een voorstel betrekking heeft op een Regeling of het Slotprotocol ervan kunnen alleen de postdiensten van de lidstaten die partij bij die Regeling zijn deelnemen aan de onder 1 bedoelde handelingen.   
+3.  Indien een voorstel betrekking heeft op een verdrag of het Slotprotocol ervan kunnen alleen de lidstaten die partij bij dat verdrag zijn deelnemen aan de onder 1 bedoelde handelingen.   
 
 ### Artikel  126  
 
 ####Kennisgeving van de tussen twee Congressen aangenomen voorstellen (Const. 29, Alg. Regl. 124, 125)
 
-1.  De in het Verdrag, de Regelingen en de Slotprotocollen bij deze Akten aangebrachte wijzigingen worden bevestigd door middel van een kennisgeving van de Directeur-Generaal van het Internationaal Bureau aan de Regeringen van de lidstaten.   
-2.  Van de door de Postraad in de Regelingen en de Slotprotocollen daarvan aangebrachte wijzigingen geeft het Internationaal Bureau kennis aan de postdiensten. Hetzelfde geldt voor de in artikel 36.3.2 van het Verdrag en in de overeenkomstige bepalingen van de Regelingen bedoelde uitleggingen.   
+1.  De in het Verdrag, de overige verdragen en de Slotprotocollen bij deze Akten aangebrachte wijzigingen worden bevestigd door middel van een kennisgeving van de Directeur-Generaal van het Internationaal Bureau aan de regeringen van de lidstaten.   
+2.  Van de door de Postraad in de Regelingen en de Slotprotocollen daarvan aangebrachte wijzigingen geeft het Internationaal Bureau kennis aan de lidstaten en aan hun aangewezen aanbieders. Hetzelfde geldt voor de in artikel 35.3.2 van het Verdrag en in de overeenkomstige bepalingen van de overige verdragen bedoelde uitleggingen.   
 
 ### Artikel  127  
 
@@ -1094,23 +1125,24 @@ e. de adhesiebetuigingen moeten door het Internationaal Bureau binnen dezelfde t
 
 ### Artikel  128  
 
-####Vaststelling en regeling van de uitgaven van de Unie (Const. 22)
+####Vaststelling en regeling van de uitgaven van de Unie (Const. 21)
 
-1.  Onder voorbehoud van de bepalingen onder 2 tot en met 6 mogen de jaarlijkse uitgaven die verband houden met de activiteiten van de organen van de Unie de navolgende bedragen voor het jaar 2005 en de jaren daarna niet overschrijden: 37 miljoen Zwitserse frank over de jaren 2005 tot en met 2008. De basislimiet voor het jaar 2008 is eveneens van toepassing op de jaren daarna indien het voor 2008 geplande Congres wordt uitgesteld.   
-2.  De uitgaven die verband houden met de vergadering van het volgende Congres (verplaatsing van het secretariaat, vervoerskosten, kosten voor de technische installatie voor simultaan tolken, kosten voor het kopiëren van stukken gedurende het Congres, enzovoort) mogen de limiet van 2 900 000 Zwitserse frank niet te boven gaan.   
+1.  Onder voorbehoud van de bepalingen onder 2 tot en met 6 mogen de jaarlijkse uitgaven die verband houden met de activiteiten van de organen van de Unie de navolgende bedragen voor het jaar 2009 en de jaren daarna niet overschrijden: 37 000 000 Zwitserse frank over de jaren 2009 en 2010, 37 235 000 Zwitserse frank over de jaren 2011 en 2012. De basislimiet voor het jaar 2012 is eveneens van toepassing op de jaren daarna indien het voor 2012 geplande Congres wordt uitgesteld.   
+2.  De uitgaven die verband houden met de vergadering van het volgende Congres (verplaatsing van het secretariaat, vervoerskosten, kosten voor de technische installatie voor simultaan tolken, kosten voor het kopiëren van stukken gedurende het Congres, enzovoort) mogen de limiet van 2 900 000 Zwitserse frank niet te boven gaan.   
 3.  De Raad van Bestuur is bevoegd de onder 1 en 2 bedoelde limieten te overschrijden bij de verrekening van de verhoging van salarisschalen, contributies voor pensioenen of vergoedingen, met inbegrip van de functievergoedingen, die door de Verenigde Naties worden toegestaan voor toepassing op hun personeel dat in Genève werkzaam is.   
 4.  De Raad van Bestuur is tevens bevoegd jaarlijks het bedrag van de uitgaven anders dan die welke betrekking hebben op het in dienst zijnde personeel aan te passen aan de hand van het Zwitserse prijsindexcijfer voor consumptiegoederen.   
-5.  In afwijking van de bepalingen onder 1 kan de Raad van Bestuur of, in geval van zeer spoedeisende aangelegenheden, de Directeur-Generaal een overschrijding van de vastgestelde limieten toestaan voor belangrijke en onvoorziene reparaties aan het gebouw van het Internationaal Bureau, waarbij de overschrijding evenwel niet meer kan bedragen dan 125 000 Zwitserse frank per jaar.   
+5.  In afwijking van de bepalingen onder 1 kan de Raad van Bestuur of, in geval van zeer spoedeisende aangelegenheden, de Directeur-Generaal een overschrijding van de vastgestelde limieten toestaan voor belangrijke en onvoorziene reparaties aan het gebouw van het Internationaal Bureau, waarbij de overschrijding evenwel niet meer kan bedragen dan 125 000 Zwitserse frank per jaar.   
 6.  Indien de onder 1 en 2 bedoelde kredieten ontoereikend blijken om het goed functioneren van de Unie te waarborgen, kunnen deze limieten slechts worden overschreden met de goedkeuring van de meerderheid van de lidstaten van de Unie. Elk overleg moet een volledige uiteenzetting bevatten van de feiten die een dergelijk verzoek rechtvaardigen.   
 7.  De landen die tot de Unie toetreden of die worden toegelaten als lid van de Unie, alsmede die welke de Unie verlaten, moeten hun bijdrage betalen voor het gehele jaar waarin hun toelating of vertrek daadwerkelijk plaatsvindt.   
-8.  De lidstaten betalen vooraf hun contributie aan de jaarlijkse uitgaven van de Unie, op basis van de door de Raad van Bestuur vastgestelde begroting. Deze contributies moeten uiterlijk worden betaald op de eerste dag van het financiële jaar waarop de begroting betrekking heeft. Na die termijn zijn de verschuldigde bedragen rentedragend ten behoeve van de Unie, ten belope van 3% per jaar gedurende de eerste zes maanden en 6% per jaar vanaf de zevende maand.   
+8.  De lidstaten betalen vooraf hun contributie aan de jaarlijkse uitgaven van de Unie, op basis van de door de Raad van Bestuur vastgestelde begroting. Deze contributies moeten uiterlijk worden betaald op de eerste dag van het financiële jaar waarop de begroting betrekking heeft. Na deze termijn dragen de verschuldigde bedragen rente ten behoeve van de Unie, ten belope van 6% per jaar, te rekenen vanaf de vierde maand.   
 9.  Wanneer de achterstallige contributie van een lidstaat aan de Unie exclusief rente gelijk is aan of hoger dan de som van de contributies van die lidstaat over de twee voorgaande financiële jaren, kan deze lidstaat zijn vorderingen op andere lidstaten op de door de Raad van Bestuur vastgestelde wijze geheel of ten dele onherroepelijk aan de Unie overdragen. De voorwaarden voor de overdracht van vorderingen worden vastgesteld in een overeenkomst tussen de lidstaat, zijn debiteuren/schuldeisers en de Unie.   
 10.  De lidstaten die vanwege juridische of andere redenen niet in staat zijn tot een dergelijke overdracht, verplichten zich ertoe een afbetalingsregeling te treffen voor hun achterstallige betalingen.   
 11.  Behoudens uitzonderlijke omstandigheden kan de termijn voor het verhaal van aan de Unie verschuldigde achterstallige verplichte contributies niet langer zijn dan tien jaar.   
-12.  In uitzonderlijke gevallen kan de Raad van Bestuur een lidstaat geheel of ten dele van de betaling van de verschuldigde rente ontheffen indien deze over de hoofdsom zijn achterstallige contributie volledig heeft voldaan.   
+12.  In uitzonderlijke gevallen kan de Raad van Bestuur een lidstaat geheel of ten dele van de betaling van de verschuldigde rente ontheffen indien deze zich, over de hoofdsom, volledig heeft gekweten van zijn achterstallige schulden.   
 13.  Een lidstaat kan, in het kader van een door de Raad van Bestuur goedgekeurde aflossingsregeling voor zijn achterstallige contributie, eveneens worden ontheven van het geheel of een gedeelte van de geaccumuleerde of nog te ontvangen renten; deze ontheffing wordt evenwel afhankelijk gesteld van de volledige en punctuele uitvoering van de aflossingsregeling binnen een overeengekomen termijn van ten hoogste tien jaar.   
 14.  Teneinde de tekorten in de middelen van de Unie op te vangen, wordt een Reservefonds in het leven geroepen, waarvan het bedrag wordt vastgesteld door de Raad van Bestuur. Dit Fonds wordt in eerste instantie gecreëerd uit begrotingsoverschotten. Het Fonds kan eveneens dienen voor het sluitend maken van de begroting of het verlagen van de contributie van de lidstaten.   
 15.  Ten aanzien van tijdelijke financiële tekorten verstrekt de Regering van de Zwitserse Bondsstaat, onder de in onderlinge overeenstemming vast te stellen voorwaarden, op korte termijn de benodigde voorschotten. Deze Regering houdt kosteloos toezicht op het beheer van de financiële rekeningen alsmede op de boekhouding van het Internationaal Bureau, binnen de door het Congres vastgestelde kredietlimieten.   
+16.  Het bepaalde onder 9 tot en met 13 is van overeenkomstige toepassing op de vertaalkosten die door het Internationaal Bureau in rekening worden gebracht bij de lidstaten die bij de taalgroepen zijn aangesloten.   
 
 ### Artikel  129  
 
@@ -1149,10 +1181,10 @@ klasse van 3 eenheden;
 
 klasse van 1 eenheid;  
 
-klasse van 0,5 eenheid, voorbehouden aan de door de Verenigde Naties vermelde minstontwikkelde landen en aan andere door de Raad van Bestuur aangewezen landen.     
-2.  Naast de onder 1 bedoelde klassen kan elke lidstaat ervoor kiezen meer dan 50 contributie-eenheden te betalen.   
+klasse van 0,5 eenheid, voorbehouden aan de door de Organisatie van de Verenigde Naties vermelde minstontwikkelde landen en aan andere door de Raad van Bestuur aangewezen landen.     
+2.  Niettegenstaande de onder 1 bedoelde contributieklassen kan elke lidstaat ervoor kiezen meer contributie-eenheden te betalen dan de contributieklasse waartoe hij behoort, zulks gedurende een tijdvak dat ten minste gelijk is aan het tijdvak tussen twee Congressen. Deze wijziging wordt uiterlijk tijdens het Congres aangekondigd. Aan het einde van het tijdvak tussen twee Congressen valt de lidstaat automatisch terug op het oorspronkelijke aantal contributie-eenheden, behalve wanneer hij besluit een groter aantal contributie-eenheden te blijven betalen. Door de betaling van aanvullende contributies nemen de uitgaven navenant toe.   
 3.  Op het moment van hun toelating of toetreding tot de Unie worden de lidstaten, overeenkomstig de in artikel 21.4 van de Constitutie bedoelde procedure, ingedeeld in een van de eerdergenoemde contributieklassen.   
-4.  De lidstaten kunnen later van contributieklasse veranderen, mits het Internationaal Bureau ten minste twee maanden voor de opening van het Congres van deze verandering in kennis wordt gesteld. Deze kennisgeving, die ter kennis van het Congres wordt gebracht, wordt van kracht op de datum van inwerkingtreding van de door het Congres vastgestelde financiële bepalingen. De lidstaten die niet binnen de gestelde termijn te kennen hebben gegeven dat zij van contributieklasse wensen te veranderen, blijven in de contributieklasse waartoe zij tot op dat moment behoorden.   
+4.  De lidstaten kunnen later in een lagere contributieklasse worden geplaatst, mits het verzoek om verandering ten minste twee maanden voor de opening van het Congres aan het Internationaal Bureau wordt verzonden. Het Congres brengt een niet-bindend standpunt uit met betrekking tot deze verzoeken om wijziging van contributieklasse. De lidstaat is vrij om het standpunt van het Congres al dan niet te volgen. Het definitieve besluit van de lidstaat moet voor het einde van het Congres aan het Secretariaat van het Internationaal Bureau worden gezonden. Dit verzoek om wijziging wordt van kracht op de datum van inwerkingtreding van de door het Congres vastgestelde financiële bepalingen. De lidstaten die niet binnen de gestelde termijn te kennen hebben gegeven dat zij van contributieklasse wensen te veranderen, blijven in de contributieklasse waartoe zij tot op dat moment behoorden.   
 5.  De lidstaten kunnen niet verlangen dat zij met meer dan één klasse tegelijk lager worden geplaatst.   
 6.  In uitzonderlijke gevallen zoals natuurrampen waarvoor internationale hulpprogramma’s nodig zijn, kan de Raad van Bestuur evenwel, eenmaal tussen twee Congressen in, op verzoek van een lidstaat, indien deze aantoont dat hij zijn contributie in de oorspronkelijk gekozen klasse niet kan handhaven, een tijdelijke verlaging met één klasse toestaan. Onder dezelfde omstandigheden kan de Raad van Bestuur eveneens een tijdelijke verlaging toestaan voor lidstaten die niet tot de minstontwikkelde landen behoren die reeds in de klasse van 1 eenheid zijn gerangschikt, door deze in de klasse van 0,5 eenheid te plaatsen.   
 7.  Bij de toepassing van het bepaalde onder 6 kan de tijdelijke verlaging door de Raad van Bestuur worden toegestaan voor een maximumtermijn van twee jaar of tot het volgende Congres, indien dit eerder plaatsvindt. Na het verstrijken van de vastgestelde termijn wordt het betrokken land automatisch in zijn oorspronkelijke klasse teruggeplaatst.   
@@ -1162,7 +1194,7 @@ klasse van 0,5 eenheid, voorbehouden aan de door de Verenigde Naties vermelde mi
 
 ####Betaling van benodigdheden die door het Internationaal Bureau worden geleverd (Alg. Regl. 118)
 
-De benodigdheden die tegen betaling door het Internationaal Bureau aan de postdiensten worden geleverd, moeten zo snel mogelijk worden betaald, doch uiterlijk binnen zes maanden, te rekenen vanaf de eerste dag van de maand volgend op die waarin het Internationaal Bureau de rekening heeft verzonden. Na deze termijn dragen de verschuldigde bedragen rente ten behoeve van de Unie, ten belope van 5% per jaar, te rekenen vanaf het verstrijken van de genoemde termijn.  
+De benodigdheden die tegen betaling door het Internationaal Bureau aan de lidstaten en aan hun aangewezen aanbieders worden geleverd, moeten zo snel mogelijk worden betaald, doch uiterlijk binnen zes maanden, te rekenen vanaf de eerste dag van de maand volgend op die waarin het Internationaal Bureau de rekening heeft verzonden. Na deze termijn dragen de verschuldigde bedragen rente ten behoeve van de Unie, ten belope van 5% per jaar, te rekenen vanaf het verstrijken van de genoemde termijn.  
 
 ### HOOFDSTUK  V  
 
@@ -1172,12 +1204,13 @@ De benodigdheden die tegen betaling door het Internationaal Bureau aan de postdi
 
 ####Arbitrageprocedure (Const. 32)
 
-1.  In geval van een geschil dat door middel van een scheidsrechterlijke beslissing moet worden geregeld, kiest elk van de betrokken postdiensten een postdienst van een land dat niet rechtstreeks bij het geschil is betrokken. Wanneer meerdere postdiensten gezamenlijk partij bij een geschil zijn, tellen zij, voor de toepassing van deze bepaling, slechts als een enkele postdienst.   
-2.  Ingeval een van de betrokken postdiensten binnen een termijn van zes maanden geen gevolg geeft aan een arbitragevoorstel, verzoekt het Internationaal Bureau, indien het daarom wordt verzocht, op zijn beurt de in gebreke blijvende postdienst een scheidsman te benoemen of benoemt het er ambtshalve zelf een.   
+1.  In geval van een geschil dat door middel van een scheidsrechterlijke beslissing moet worden geregeld, kiest elk van de betrokken lidstaten een lidstaat die niet rechtstreeks bij het geschil is betrokken. Wanneer meerdere lidstaten gezamenlijk een partij bij een geschil vormen, tellen zij, voor de toepassing van deze bepaling, slechts voor een enkele lidstaat.   
+2.  Ingeval een van de betrokken lidstaten binnen een termijn van zes maanden na de verzending van het voorstel geen gevolg geeft aan een arbitragevoorstel, verzoekt het Internationaal Bureau, indien het daarom wordt verzocht, op zijn beurt de in gebreke blijvende lidstaat een scheidsman te benoemen of benoemt het er ambtshalve zelf een.   
 3.  De bij het geschil betrokken partijen kunnen overeenkomen een enkele scheidsman te benoemen; dit kan het Internationaal Bureau zijn.   
 4.  Het besluit van de scheidslieden wordt bij meerderheid van stemmen genomen.   
-5.  In geval van staking der stemmen kiezen de scheidslieden, om het geschil te regelen, een andere postdienst die evenmin bij het geschil betrokken is. Bij gebreke van overeenstemming over deze keuze wordt deze postdienst door het Internationaal Bureau aangewezen uit de postdiensten die niet door de scheidslieden zijn voorgedragen.   
-6.  Indien het een geschil over een van de Regelingen betreft, kunnen de scheidslieden alleen worden benoemd uit de postdiensten die aan die Regeling deelnemen.   
+5.  In geval van staking der stemmen kiezen de scheidslieden, om het geschil te regelen, een andere lidstaat die evenmin bij het geschil betrokken is. Bij gebreke van overeenstemming over deze keuze wordt deze lidstaat door het Internationaal Bureau aangewezen uit de lidstaten die niet door de scheidslieden zijn voorgedragen.   
+6.  Indien het een geschil over een van de verdragen betreft, kunnen de scheidslieden alleen worden benoemd uit de lidstaten die aan dat verdrag deelnemen.   
+7.  Indien een geschil tussen aangewezen aanbieders door middel van een scheidsrechterlijke beslissing moet worden beslecht, doen de betrokken aanbieders een beroep op hun lidstaten om op te treden overeenkomstig de onder 1 tot en met 6 voorziene procedure.   
 
 ### HOOFDSTUK  VI  
 
@@ -1197,9 +1230,9 @@ De in artikel 133 bedoelde voorwaarden voor goedkeuring zijn eveneens van toepas
 
 ### Artikel  135  
 
-####Inwerkingtreding en duur van het Algemeen Reglement
+####Wijziging, inwerkingtreding en duur van het Algemeen Reglement
 
-Dit Algemeen Reglement treedt in werking op 1 januari 2006 en blijft voor onbepaalde tijd van kracht.  
+De door een Congres aangenomen wijzigingen worden vervat in een aanvullend protocol en treden, behoudens andersluidend besluit van dit Congres, op hetzelfde tijdstip in werking als de Akten die tijdens hetzelfde Congres worden herzien. Dit Algemeen Reglement treedt in werking op 1 januari 2006 en blijft voor onbepaalde tijd van kracht.  
 
 TEN BLIJKE WAARVAN de gevolmachtigden van de Regeringen van de lidstaten dit Algemeen Reglement hebben ondertekend in één exemplaar dat wordt nedergelegd bij de Directeur-Generaal van het Internationaal Bureau. Het Internationaal Bureau van de Wereldpostunie doet elke Partij een afschrift ervan toekomen. GEDAAN te Boekarest, op 5 oktober 2004.  
 
