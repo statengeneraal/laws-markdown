@@ -3,7 +3,7 @@
 ##Deelregeling gast- en buitenlandateliers
 
 Het bestuur van het Mondriaan Fonds,  
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
@@ -17,7 +17,7 @@ Besluit:
 
 ####Vereisten
 
-1.  De kunstenaar die een aanvraag doet voor verblijf in een gast- of buitenlandatelier dient ten minste vier jaar professioneel werkzaam te zijn geweest als kunstenaar dan wel ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten te hebben gevolgd dan wel minimaal één jaar professioneel werkzaam te zijn geweest als beeldend kunstenaar.   
+1.  De kunstenaar die een aanvraag doet voor verblijf in een gast- of buitenlandatelier dient ten minste vier jaar professioneel werkzaam te zijn geweest als kunstenaar dan wel ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten te hebben gevolgd en ten minste één jaar professioneel werkzaam te zijn geweest als beeldend kunstenaar.   
 2.  Een bemiddelaar die een aanvraag doet voor verblijf in een gast- of buitenlandatelier dient ten minste twee jaar professioneel werkzaam te zijn geweest als bemiddelaar op het gebied van de beeldende kunsten of het erfgoed. Dit moet worden aangetoond aan de hand van publicaties, tentoonstellingen, onderzoeken of geïnitieerde projecten.   
 
 ### Artikel  3  

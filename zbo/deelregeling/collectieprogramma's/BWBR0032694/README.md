@@ -3,22 +3,22 @@
 ##Deelregeling Collectieprogramma’s
 
 Het bestuur van het Mondriaan Fonds,  
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
 
 ####Doel
 
-De regeling heeft tot doel het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie Nederland. De regeling is van toepassing op bijdragen die het fonds verstrekt voor structurele aankopen van beeldende kunst van na 1945 en/of opdrachten aan beeldend kunstenaars gericht op verwerving van een of meerdere werken voor de collectie.  
+De regeling heeft tot doel het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie Nederland. De regeling is van toepassing op bijdragen die het fonds verstrekt voor structurele aankopen van beeldende kunst en/of vormgeving van na 1945 en/of opdrachten aan beeldend kunstenaars gericht op verwerving van een of meerdere werken voor de collectie.  
 
 ### Artikel  2  
 
 ####Vereisten
 
-1.  Een bijdrage kan worden toegekend aan een Nederlandse publiekstoegankelijke instelling die museale collecties waaronder een collectie moderne beeldende kunst van (inter-)nationaal belang beheert of aan meerdere instellingen gezamenlijk welke aan dit criterium voldoen, al dan niet met een beeldend kunstenaar.   
+1.  Een bijdrage kan worden toegekend aan een Nederlandse publiekstoegankelijke instelling die museale collecties waaronder een collectie moderne beeldende kunst en/of vormgeving van (inter-) nationaal belang beheert of aan meerdere instellingen gezamenlijk welke aan dit criterium voldoen, al dan niet met een beeldend kunstenaar.   
 2.  De aanvrager is coulant in het bruikleenverkeer ten opzichte van Nederlandse instellingen.   
-3.  De aanvrager dient te beschikken over een aankoopbudget van ten minste het in de toelichting bij het aanvraagformulier genoemde bedrag. per jaar. Ten minste de helft van dit bedrag moet besteed worden aan de aankoop van Nederlandse beeldende kunst.   
+3.  De aanvrager dient te beschikken over een aankoopbudget van ten minste het in de toelichting bij het aanvraagformulier genoemde bedrag per jaar. Ten minste de helft van dit bedrag moet besteed worden aan de aankoop van Nederlandse beeldende kunst en/of vormgeving.   
 4.  Indien een onderdeel van de aanvraag gezamenlijk met een kunstenaar wordt ingediend dient deze artistiek inhoudelijk actief te zijn in de beeldende kunsten en in die hoedanigheid geïntegreerd te zijn in de praktijk van de professionele beeldende kunst in Nederland.   
 5.  De in het vierde lid bedoelde kunstenaar dient ten minste vier jaar professioneel werkzaam te zijn geweest als kunstenaar dan wel ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten te hebben gevolgd en minimaal één jaar professioneel werkzaam te zijn geweest als beeldend kunstenaar.   
 6.  Indien de aanvraag gezamenlijk met een kunstenaar wordt ingediend dient de financiële bijdrage die de aanvrager levert in een aanvaardbare verhouding te staan tot de bijdrage van het fonds.   
@@ -28,7 +28,7 @@ De regeling heeft tot doel het verhogen van de kwaliteit, de samenhang en de zic
 
 ### Artikel  3  
 
-####. De aanvraag
+####De aanvraag
 
 1. Naast het bepaalde in het Algemeen reglement, het aanvraagformulier en de toelichting daarop, dient de aanvraag te zijn voorzien van een motivering waarin de aanvrager een toelichting geeft op het collectiebeleid in samenhang met de aankoopplannen. Daarin dient te worden aangegeven waarom het voorgenomen aankoopprogramma een belangrijke plaats inneemt in de Collectie Nederland en de relatie die dit programma heeft met de collectie van de aanvrager. Daarnaast dient de aanvraag voorzien te zijn van een presentatieplan en een inzicht in de totaal voor aankoop beschikbare middelen.  
 
@@ -36,7 +36,7 @@ De regeling heeft tot doel het verhogen van de kwaliteit, de samenhang en de zic
 
 ####Inhoudelijke beoordeling
 
-1.  Bij de beoordeling van een aanvraag voor een aankoopprogramma geeft het bevoegde adviesorgaan een oordeel over het belang van het collectie- en aankoopplan voor de beeldende kunst o en de collectie Nederland en de relevantie daarvan voor het publiek.   
+1.  Bij de beoordeling van een aanvraag voor een aankoopprogramma geeft het bevoegde adviesorgaan een oordeel over het belang van het collectie- en aankoopplan voor de beeldende kunst en/of de vormgeving en de collectie Nederland en de relevantie daarvan voor het publiek.   
 2.  Daarbij betrekt het de volgende aspecten in zijn oordeel: 
 
 a. het belang van het collectie- en aankoopplan voor de Collectie Nederland  

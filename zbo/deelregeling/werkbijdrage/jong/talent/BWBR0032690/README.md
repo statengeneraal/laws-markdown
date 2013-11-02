@@ -3,7 +3,7 @@
 ##Deelregeling Werkbijdrage Jong Talent
 
 Het bestuur van het Mondriaan Fonds,  
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
@@ -27,11 +27,19 @@ Deze regeling is bedoeld voor startende, veelbelovende beeldend kunstenaars te s
 
 ### Artikel  3  
 
-####Aanvraag
+####Meester-Gezeltraject
 
-Naast het bepaalde in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarbij dient de aanvraag voor een bijdrage talentontwikkeling vergezeld te gaan van visueel documentatiemateriaal, een cv, een werkplan en een presentatievoorstel.  
+1.  Om de effectiviteit van de Werkbijdrage Jong Talent te vergroten, wordt de mogelijkheid geboden gemotiveerde talentvolle startende beeldend kunstenaars die een Werkbijdrage Jong Talent hebben ontvangen te koppelen aan de expertise van ervaren en succesvolle beeldend kunstenaars, curatoren en andere bemiddelaars. Door deze koppeling worden de artistiek inhoudelijke ontwikkeling en het cultureel ondernemerschap van talentvolle beginnende kunstenaar gestimuleerd.   
+2.  Van het Meester-Gezeltraject kan gebruik gemaakt worden binnen 18 maanden na toekenning van een Werkbijdrage Jong Talent. Kunstenaars die in 2012 een startstipendium hebben ontvangen, kunnen tot uiterlijk juni 2014 gebruik maken van dit traject.   
+3.  Voor deelname aan het traject wordt een eigen bijdrage van de kunstenaar gevraagd. In de toelichting bij het aanvraagformulier is de hoogte van de eigen bijdrage genoemd.   
 
 ### Artikel  4  
+
+####Aanvraag
+
+Naast het bepaalde in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarbij dient de aanvraag voor een bijdrage talentontwikkeling vergezeld te gaan van visueel documentatiemateriaal, een cv, een werkplan en een presentatievoorstel. Indien de aanvrager in aanmerking wil komen voor het Meester-Gezeltraject, dient de aanvraag voorzien te zijn van een motivatie die aansluit bij het werk- en presentatieplan.  
+
+### Artikel  5  
 
 ####Inhoudelijke beoordeling
 
@@ -52,13 +60,13 @@ Naast het bepaalde in het Algemeen reglement, in het aanvraagformulier en in de 
 5.  Indien het bevoegd adviesorgaan de in het eerste en derde lid genoemde aspecten in onderlinge samenhang negatief beoordeelt, brengt het een negatief advies uit.   
 6.  Het bestuur kan het bevoegd adviesorgaan in verband met het beperkte budget verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 1 van dit artikel. Alsdan onderbouwt het adviesorgaan zijn prioritering.   
 
-### Artikel  5  
+### Artikel  6  
 
 ####Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
 
-### Artikel  6  
+### Artikel  7  
 
 ####Citeertitel
 

@@ -3,7 +3,7 @@
 ##Algemeen reglement Mondriaan Fonds
 
 Het bestuur van het Mondriaan Fonds,  
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -49,9 +49,9 @@ i. *opdrachtgever:* een instelling of natuurlijk persoon,
 
 j. *aanvrager:* een beeldend kunstenaar, een instelling, een opdrachtgever of een bemiddelaar,  
 
-k. *Nederland:* het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba,  
+k. *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten en de bijzondere gemeentes Bonaire, Sint-Eustatius en Saba  
 
-l. *belastbaar inkomen:* het belastbaar inkomen bedoeld in de [Wet op de inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md),  
+l. *belastbaar inkomen:* het belastbaar inkomen bedoeld in de Wet op de inkomstenbelasting 2001,  
 
 m. *bevoegd adviesorgaan:* een onder welke benaming dan ook door het bestuur aangewezen adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van een of meer deelregelingen te beoordelen.    
 
@@ -132,15 +132,15 @@ Bij de beslissing over het verstrekken van een subsidie kunnen de volgende crite
 
 ### Artikel  9  
 
-1.  Tijdens de periode waarin een aanvrager aanspraak maakt op een subsidie van het fonds kan geen andere subsidie worden verstrekt die naar het oordeel van het bestuur in dezelfde dekking van kosten voorziet.   
+1.  Tijdens de periode waarin een aanvrager aanspraak maakt op een subsidie van het fonds of een andere voorziening gefinancierd uit publieke middelen kan geen andere subsidie worden verstrekt die naar het oordeel van het bestuur in dezelfde dekking van kosten voorziet.   
 2.  Geen subsidie kan worden verstrekt voor activiteiten waarvan de resultaten grotendeels of geheel aan de aanvrager ten goede komen, zoals projecten op het gebied van bouwkundige voorzieningen.   
-3.  Geen subsidie kan worden verstrekt tijdens het volgen van een bachelor of masters op het gebied van de beeldende kunst.   
+3.  Geen subsidie kan worden aangevraagd tijdens het volgen van een bachelor of masters op het gebied van de beeldende kunst.   
 4.  Indien een beeldend kunstenaar een deeltijdopleiding, niet zijnde een bachelor, volgt van minder dan twintig uur per week kan wel een subsidie worden verstrekt indien 
 
 a. de aanvrager ten minste vier jaar professioneel werkzaam is geweest als kunstenaar, dan wel,  
 
 b. ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd en nadien ten minste een jaar professioneel werkzaam is.   De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de in de vorige volzin bedoelde opleiding.   
-5.  Behalve de beurzen praktijkverdieping kan geen subsidie worden verstrekt tijdens de periode dat een kunstenaar deelnemer is aan postacademische instellingen zoals de Rijksakademie van Beeldende Kunsten/de Ateliers, de Jan van Eyck Academie, het EKWC of vergelijkbare instellingen in het buitenland.   
+5.  Behalve de beurzen praktijkverdieping kan geen subsidie worden aangevraagd tijdens de periode dat een kunstenaar deelnemer is aan postacademische instellingen zoals de Rijksakademie van Beeldende Kunsten/de Ateliers, de Jan van Eyck Academie, het EKWC of vergelijkbare instellingen in het buitenland.   
 6.  Indien deelname aan een van de in het vierde of vijfde lid van dit artikel genoemde instellingen aanvangt in hetzelfde jaar waarin een of meerdere subsidies zijn verstrekt, heeft het bestuur het recht om deze geheel of naar rato terug te vorderen.   
 7.  Geen subsidie wordt verstrekt voor: 
 
@@ -179,7 +179,7 @@ c. aan of voor een aanvrager die lid dan wel plaatsvervangend lid is van de advi
 
 1.  Indien de aanvraag in behandeling wordt genomen legt het bestuur de aanvraag ter advisering voor aan het hiertoe ingestelde adviesorgaan.   
 2.  Zo spoedig mogelijk maar maximaal binnen 22 weken na indiening van de aanvraag beslist het bestuur over de aanvraag. Het bestuur doet van een beslissing binnen een week na de beslissing schriftelijk mededeling aan de aanvrager op wie de beslissing betrekking heeft.   
-3.  Het bestuur zendt de aanvrager een afschrift van het advies van het bevoegde adviesorgaan tezamen met zijn beslissing op de aanvraag.   
+3.  Indien het besluit niet inhoudelijk is gemotiveerd, kan de aanvrager de motivering van het besluit opvragen binnen twee weken na bekendmaking van de beslissing.   
 4.  Aan de verlening van een subsidie kunnen geen rechten worden ontleend met betrekking tot een volgende aanvraag.   
 
 ### Hoofdstuk  VI  
@@ -267,7 +267,7 @@ b. meer dan één persoon van wie de meerderheid, onder wie degene die het horen
 
 ####Bescherming persoonsgegevens
 
-Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het fonds zijn medegedeeld of om persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.  
+Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het fonds zijn medegedeeld of om persoonsgegevens als bedoeld in hoofdstuk 2, paragraaf 2 van de Wet bescherming persoonsgegevens, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.  
 
 ### Artikel  18  
 
