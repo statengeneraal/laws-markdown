@@ -16,17 +16,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Sanctieregeling Iran 2012.   
+Wijzigt de Sanctieregeling Iran 2012. 
 
 ### Artikel  II  
 
-Het verbod, bedoeld in [artikel 5 van de Sanctieregeling Iran 2012](../../../../../../../../../../../ministeriele-regeling/sanctieregeling/iran/2012/BWBR0031496/README.md), zoals gewijzigd bij deze regeling, geldt niet voor het aanbieden van kennis als bedoeld in dat artikel aan de student die op het tijdstip van inwerkingtreding van deze regeling reeds bij de desbetreffende instelling voor hoger onderwijs was ingeschreven met het oog op het volgen van onderwijs of het verrichten van onderzoek op een kennisgebied waarop de bijlage bij die regeling, zoals luidend op het tijdstip van inschrijving, betrekking had en aan wie ontheffing was verleend op grond van artikel 5 van de Sanctieregeling Iran 2012, zoals luidend voorafgaand aan inwerkingtreding van deze regeling, dan wel die op grond van laatstbedoeld artikel geen ontheffing nodig had.  
+Het verbod, bedoeld in [artikel 5 van de Sanctieregeling Iran 2012](../../../../../../../../../../../ministeriele-regeling/sanctieregeling/iran/2012/BWBR0031496/README.md), zoals gewijzigd bij deze regeling, geldt niet voor het aanbieden van kennis als bedoeld in dat artikel aan de student die op het tijdstip van inwerkingtreding van deze regeling reeds bij de desbetreffende instelling voor hoger onderwijs was ingeschreven met het oog op het volgen van onderwijs of het verrichten van onderzoek op een kennisgebied waarop de bijlage bij die regeling, zoals luidend op het tijdstip van inschrijving, betrekking had en aan wie ontheffing was verleend op grond van artikel 5 van de Sanctieregeling Iran 2012, zoals luidend voorafgaand aan inwerkingtreding van deze regeling, dan wel die op grond van laatstbedoeld artikel geen ontheffing nodig had. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de [bijlage](../../../../../../../../../../../ministeriele-regeling/sanctieregeling/iran/2012/BWBR0031496/README.md) en de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Buitenlandse Zaken,
-F.C.G.M.Timmermans   
+Minister van Buitenlandse Zaken, 
+F.C.G.M. Timmermans     

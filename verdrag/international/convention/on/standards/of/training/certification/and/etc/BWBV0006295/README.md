@@ -4,7 +4,7 @@
 
 ####International Convention on Standards of Training, Certification and Watchkeeping for Fishing Vessel Personnel, 1995
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 The Parties to this Convention, Noting the [International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) (hereinafter referred to as the “1978 STCW Convention”), Desiring to further promote safety of life and property at sea and the protection of the marine environment by establishing in common agreement international standards of training, certification and watchkeeping for personnel employed on board fishing vessels, Considering that this end may be best achieved by the conclusion of an International Convention on Standards of Training, Certification and Watchkeeping for Fishing Vessel Personnel, hereinafter referred to as “the Convention”,   Have agreed as follows:    
 
@@ -12,60 +12,60 @@ The Parties to this Convention, Noting the [International Convention on Standard
 
 ####General obligations
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Parties undertake to give effect to the provisions of the Convention and the annex thereto, which shall constitute an integral part of the Convention. Every reference to the Convention constitutes at the same time a reference to the annex thereto.   
-2.  The Parties undertake to promulgate all laws, decrees, orders and regulations and to take all other steps which may be necessary to give the Convention full and complete effect, so as to ensure that, from the point of view of safety of life and property at sea and the protection of the marine environment, seagoing fishing vessel personnel are qualified and fit for their duties.   
+2.  The Parties undertake to promulgate all laws, decrees, orders and regulations and to take all other steps which may be necessary to give the Convention full and complete effect, so as to ensure that, from the point of view of safety of life and property at sea and the protection of the marine environment, seagoing fishing vessel personnel are qualified and fit for their duties.  
 
 ### Article  2  
 
 ####Definitions
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 For the purpose of the Convention, unless expressly provided otherwise: 
 
-.1 *Party* means a State for which the Convention has entered into force.  
+.1  *Party* means a State for which the Convention has entered into force.  
 
-.2 *Administration* means the Government of the Party whose flag the vessel is entitled to fly.  
+.2  *Administration* means the Government of the Party whose flag the vessel is entitled to fly.  
 
-.3 *Certificate* means a valid document, by whatever name it may be known, issued or recognized in accordance with the provisions of the Convention, authorizing the holder to serve as stated in this document or as authorized by national regulations.  
+.3  *Certificate* means a valid document, by whatever name it may be known, issued or recognized in accordance with the provisions of the Convention, authorizing the holder to serve as stated in this document or as authorized by national regulations.  
 
-.4 *Certificated* means properly holding a certificate.  
+.4  *Certificated* means properly holding a certificate.  
 
-.5 *Organization* means the International Maritime Organization.  
+.5  *Organization* means the International Maritime Organization.  
 
-.6 *Secretary-General* means the Secretary-General of the Organization.  
+.6  *Secretary-General* means the Secretary-General of the Organization.  
 
-.7 *Fishing vessel* or *vessel* means any vessel used commercially for catching fish or other living resources of the sea.  
+.7  *Fishing vessel* or *vessel* means any vessel used commercially for catching fish or other living resources of the sea.  
 
-.8 *Seagoing fishing vessel* means a fishing vessel other than those which navigate exclusively in inland waters or in waters within, or closely adjacent to, sheltered waters or areas where port regulations apply.    
+.8  *Seagoing fishing vessel* means a fishing vessel other than those which navigate exclusively in inland waters or in waters within, or closely adjacent to, sheltered waters or areas where port regulations apply.   
 
 ### Article  3  
 
 ####Application
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-The Convention shall apply to personnel serving on board seagoing fishing vessels entitled to fly the flag of a Party.  
+The Convention shall apply to personnel serving on board seagoing fishing vessels entitled to fly the flag of a Party. 
 
 ### Article  4  
 
 ####Communication of information
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 Each Party shall communicate to the Secretary-General the following information: 
 
 .1 a report on the measures it has taken to give full and complete effect to the provisions of the Convention, including a specimen of certificates issued in compliance with the Convention; and  
 
-.2 other information which may be specified or provided for in regulation I/5.    
+.2 other information which may be specified or provided for in regulation I/5.   
 
 ### Article  5  
 
 ####Other treaties and interpretation
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  All prior treaties, conventions and arrangements relating to standards of training, certification and watchkeeping for fishing vessel personnel in force between the Parties, shall continue to have full and complete effect during the terms thereof as regards: 
 
@@ -73,21 +73,21 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .2 fishing vessel personnel to whom this Convention applies, in respect of matters for which it has not expressly provided.     
 2.  To the extent, however, that such treaties, conventions or arrangements conflict with the provisions of the Convention, the Parties shall review their commitments under such treaties, conventions and arrangements with a view to ensuring that there is no conflict between these commitments and their obligations under the Convention.   
-3.  All matters which are not expressly provided for in the Convention remain subject to the legislation of Parties.   
+3.  All matters which are not expressly provided for in the Convention remain subject to the legislation of Parties.  
 
 ### Article  6  
 
 ####Certification
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-Fishing vessel personnel shall be certificated in accordance with the provisions of the annex to this Convention.  
+Fishing vessel personnel shall be certificated in accordance with the provisions of the annex to this Convention. 
 
 ### Article  7  
 
 ####National provisions
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Each Party shall establish processes and procedures for the impartial investigation of any reported incompetency, act or omission, that may pose a direct threat to safety of life or property at sea or to the marine environment, by the holders of certificates or endorsements issued by that Party in connection with their performance of duties related to their certificates and for the withdrawal, suspension and cancellation of such certificates for such cause and for the prevention of fraud.   
 2.  Each Party shall prescribe penalties or disciplinary measures for cases in which the provisions of its national legislation giving effect to this Convention are not complied with in respect of vessels entitled to fly its flag or of fishing vessel personnel duly certificated by that Party.   
@@ -98,13 +98,13 @@ Treedt in werking op een nader te bepalen tijdstip
 .2 a skipper has allowed any function or service in any capacity required by these regulations to be performed by a person holding an appropriate certificate to be performed by a person not holding an appropriate certificate or dispensation; or  
 
 .3 a person has obtained by fraud or forged documents an engagement to perform any function or serve in any capacity required by these regulations to be performed or filled by a person holding a certificate or dispensation.     
-4.  A Party within whose jurisdiction there is based an owner or owner's agent or any person who is believed on clear grounds to have been responsible for, or to have knowledge of, any apparent non-compliance with the Convention specified in paragraph 3, shall extend all co-operation possible to any Party which advises it of its intention to initiate proceedings under its jurisdiction.   
+4.  A Party within whose jurisdiction there is based an owner or owner's agent or any person who is believed on clear grounds to have been responsible for, or to have knowledge of, any apparent non-compliance with the Convention specified in paragraph 3, shall extend all co-operation possible to any Party which advises it of its intention to initiate proceedings under its jurisdiction.  
 
 ### Article  8  
 
 ####Control
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Fishing vessels, while in the port of another Party, are subject to control by officers duly authorized by that Party to verify that all persons serving on board who are required to be certificated by this Convention are so certificated or hold an appropriate dispensation.   
 2.  In the event of failure to correct any deficiency referred to in paragraph 3 of regulation I/4 in so far as it poses a danger to persons, property or the environment, the Party carrying out the control shall take steps to ensure that the vessel will not sail unless and until these requirements are met to the extent that the danger has been removed. The facts concerning the action taken shall be reported promptly to the Secretary-General and to the Administration.   
@@ -113,13 +113,13 @@ Treedt in werking op een nader te bepalen tijdstip
 .1 all possible efforts shall be made to avoid a vessel being unduly detained or delayed. If a vessel is unduly detained or delayed, it shall be entitled to compensation for any loss or damage resulting therefrom; and  
 
 .2 the discretion allowed in the case of the personnel of foreign fishing vessels shall not be less than that afforded to the personnel of vessels flying the flag of the port State.     
-4.  This article shall be applied as may be necessary to ensure that no more favourable treatment is given to a vessel entitled to fly the flag of a non-Party than is given to a vessel entitled to fly the flag of a Party.   
+4.  This article shall be applied as may be necessary to ensure that no more favourable treatment is given to a vessel entitled to fly the flag of a non-Party than is given to a vessel entitled to fly the flag of a Party.  
 
 ### Article  9  
 
 ####Promotion of technical co-operation
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Parties to the Convention shall promote, in consultation with and with the assistance of the Organization, support for those States which request technical assistance for the: 
 
@@ -132,13 +132,13 @@ Treedt in werking op een nader te bepalen tijdstip
 .4 development of adequate training programmes, including practical training on seagoing fishing vessels; and  
 
 .5 facilitation of other measures and arrangements to enhance the qualifications of fishing vessel personnel, preferably on a national, sub-regional or regional basis, to further the aims and purposes of the Convention, taking into account the special needs of developing countries in this regard.     
-2.  On its part, the Organization shall pursue the aforesaid efforts, as appropriate, in consultation or association with other international organizations, particularly the International Labour Organization and the Food and Agriculture Organization of the United Nations.   
+2.  On its part, the Organization shall pursue the aforesaid efforts, as appropriate, in consultation or association with other international organizations, particularly the International Labour Organization and the Food and Agriculture Organization of the United Nations.  
 
 ### Article  10  
 
 ####Amendments
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Convention may be amended by either of the procedures specified in this article.   
 2.  Amendments after consideration within the Organization: 
@@ -172,13 +172,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .3 Unless the Conference decides otherwise, the amendment shall be deemed to have been accepted and shall enter into force in accordance with the procedures specified in paragraphs 2.6 and 2.8 or 2.7 and 2.9 respectively, provided that references in those paragraphs to the expanded Maritime Safety Committee shall be taken to mean references to the Conference.     
 4.  Any declaration of acceptance of, or objection to, an amendment or any notice given under paragraph 2.9 shall be submitted in writing to the Secretary-General, who shall inform all Parties of any such submission and the date of its receipt.   
-5.  The Secretary-General shall inform all the Parties of any amendments which enter into force, together with the date on which each such amendment enters into force.   
+5.  The Secretary-General shall inform all the Parties of any amendments which enter into force, together with the date on which each such amendment enters into force.  
 
 ### Article  11  
 
 ####Signature, ratification, acceptance, approval and accession
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Convention shall remain open for signature at the Headquarters of the Organization from 1 January 1996 until 30 September 1996 and shall thereafter remain open for accession. States may become Parties to the Convention by: 
 
@@ -187,34 +187,34 @@ Treedt in werking op een nader te bepalen tijdstip
 .2 signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or  
 
 .3 accession.     
-2.  Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.   
+2.  Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.  
 
 ### Article  12  
 
 ####Entry into force
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Convention shall enter into force 12 months after the date on which not less than 15 States have either signed it without reservation as to ratification, acceptance, or approval, or have deposited the requisite instruments of ratification, acceptance, approval or accession in accordance with article 11.   
 2.  For States which have deposited an instrument of ratification, acceptance, approval or accession in respect of the Convention after the requirements for entry into force thereof have been met but prior to the date of entry into force, the ratification, acceptance, approval or accession shall take effect on the date of entry into force of the Convention or three months after the date of deposit of the instrument, whichever is the later date.   
 3.  For States which have deposited an instrument of ratification, acceptance, approval or accession after the date on which the Convention entered into force, the Convention shall become effective three months after the date of deposit of the instrument.   
-4.  After the date on which an amendment to the Convention is deemed to have been accepted under article 10, any instrument of ratification, acceptance, approval or accession deposited shall apply to the Convention as amended.   
+4.  After the date on which an amendment to the Convention is deemed to have been accepted under article 10, any instrument of ratification, acceptance, approval or accession deposited shall apply to the Convention as amended.  
 
 ### Article  13  
 
 ####Denunciation
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Convention may be denounced by any Party at any time after the expiry of five years from the date on which the Convention enters into force for that Party.   
 2.  Denunciation shall be effected by notification in writing to the Secretary-General.   
-3.  A denunciation shall take effect 12 months after receipt of the denunciation by the Secretary-General or after the expiry of any longer period which may be indicated in the notification.   
+3.  A denunciation shall take effect 12 months after receipt of the denunciation by the Secretary-General or after the expiry of any longer period which may be indicated in the notification.  
 
 ### Article  14  
 
 ####Depositary
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  The Convention shall be deposited with the Secretary-General of the Organization (hereinafter referred to as “the depositary”).   
 2.  The depositary shall: 
@@ -228,27 +228,27 @@ Treedt in werking op een nader te bepalen tijdstip
 .1.3 the deposit of any instrument of denunciation of the Convention, together with the date on which it was received and the date on which the denunciation takes effect; and    
 
 .2 transmit certified true copies of the Convention to the Governments of all States which have signed the present Convention or acceded thereto.     
-3.  As soon as the Convention enters into force a certified true copy thereof shall be transmitted by the depositary to the Secretary-General of the United Nations, for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
+3.  As soon as the Convention enters into force a certified true copy thereof shall be transmitted by the depositary to the Secretary-General of the United Nations, for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
 
 ### Article  15  
 
 ####Languages
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-The Convention is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.  
+The Convention is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic. 
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the Convention. DONE at London, this seventh day of July, one thousand nine hundred and ninety five.  
 
 ####Annex
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### CHAPTER  I  
 
 ####GENERAL PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Regulation  1  
 
@@ -256,45 +256,45 @@ Treedt in werking op een nader te bepalen tijdstip
 
 For the purpose of this annex the following definitions apply. 
 
-1. *Regulations* means regulations contained in the annex to the Convention.  
+1.  *Regulations* means regulations contained in the annex to the Convention.  
 
-2. *Approved* means approved by the Party in accordance with the regulations.  
+2.  *Approved* means approved by the Party in accordance with the regulations.  
 
-3. *Skipper* means the person having command of a fishing vessel.  
+3.  *Skipper* means the person having command of a fishing vessel.  
 
-4. *Officer* means a member of the crew, other than the skipper, designated as such by national law or regulations or, in the absence of such designation, by collective agreement or custom.  
+4.  *Officer* means a member of the crew, other than the skipper, designated as such by national law or regulations or, in the absence of such designation, by collective agreement or custom.  
 
-5. *Officer in charge of a navigational watch* means an officer qualified in accordance with regulation II/2 or II/4 of this Convention.  
+5.  *Officer in charge of a navigational watch* means an officer qualified in accordance with regulation II/2 or II/4 of this Convention.  
 
-6. *Engineer officer* means an officer qualified in accordance with regulation II/5 of this Convention.  
+6.  *Engineer officer* means an officer qualified in accordance with regulation II/5 of this Convention.  
 
-7. *Chief engineer officer* means the senior engineer officer responsible for the mechanical propulsion and operation and maintenance of mechanical and electrical installations of the vessel.  
+7.  *Chief engineer officer* means the senior engineer officer responsible for the mechanical propulsion and operation and maintenance of mechanical and electrical installations of the vessel.  
 
-8. *Second engineer officer* means the engineer officer next in rank to the chief engineer officer and upon whom the responsibility for the mechanical propulsion and the operation and maintenance of the mechanical and electrical installations of the vessel will fall in the event of the incapacity of the chief engineer officer.  
+8.  *Second engineer officer* means the engineer officer next in rank to the chief engineer officer and upon whom the responsibility for the mechanical propulsion and the operation and maintenance of the mechanical and electrical installations of the vessel will fall in the event of the incapacity of the chief engineer officer.  
 
-9. *Radio operator* means a person holding an appropriate certificate issued or recognized by an Administration under the provisions of the Radio Regulations.  
+9.  *Radio operator* means a person holding an appropriate certificate issued or recognized by an Administration under the provisions of the Radio Regulations.  
 
-10. *Radio Regulations* means the Radio Regulations annexed to, or regarded as being annexed to, the most recent International Telecommunication Convention which may be in force at any time.  
+10.  *Radio Regulations* means the Radio Regulations annexed to, or regarded as being annexed to, the most recent International Telecommunication Convention which may be in force at any time.  
 
-11. *1978 STCW Convention* means the [International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), as amended.  
+11.  *1978 STCW Convention* means the [International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), as amended.  
 
-12. *1993 Torremolinos Protocol* means the Torremolinos Protocol of 1993 relating to the Torremolinos International Convention for the Safety of Fishing Vessels, 1977.  
+12.  *1993 Torremolinos Protocol* means the Torremolinos Protocol of 1993 relating to the Torremolinos International Convention for the Safety of Fishing Vessels, 1977.  
 
-13. *Propulsion power* means the total maximum continuous rated output power in kilowatts of all the vessel's main propulsion machinery which appears on the vessel’s certificate of registry or other official document.  
+13.  *Propulsion power* means the total maximum continuous rated output power in kilowatts of all the vessel's main propulsion machinery which appears on the vessel’s certificate of registry or other official document.  
 
-14. *Limited waters* means those waters in the vicinity of a Party as defined by its Administration within which a degree of safety is considered to exist which enables the standards of qualification and certification for skippers and officers of fishing vessels to be set at a lower level than for service outside the defined limits. In determining the extent of limited waters the Administration shall take into consideration the guidelines developed by the Organization. <sup> 1)  Reference is made to annex 1 of resolution A.539(13) – Certification of skippers and officers in charge of a navigational watch on fishing vessels of 24 metres in length and over, adopted by the Organization.  </sup>  
+14.  *Limited waters* means those waters in the vicinity of a Party as defined by its Administration within which a degree of safety is considered to exist which enables the standards of qualification and certification for skippers and officers of fishing vessels to be set at a lower level than for service outside the defined limits. In determining the extent of limited waters the Administration shall take into consideration the guidelines developed by the Organization.<sup> 1) Reference is made to annex 1 of resolution A.539(13) – Certification of skippers and officers in charge of a navigational watch on fishing vessels of 24 metres in length and over, adopted by the Organization. </sup>   
 
 15.  *Unlimited waters means waters beyond limited waters.*   
 
-16. *Length (L)* shall be taken as 96% of the total length on a waterline at 85% of the least moulded depth measured from the keel line, or as the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that be greater. In vessels designed with rake of keel the waterline on which this length is measured shall be parallel to the designed waterline.  
+16.  *Length (L)* shall be taken as 96% of the total length on a waterline at 85% of the least moulded depth measured from the keel line, or as the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that be greater. In vessels designed with rake of keel the waterline on which this length is measured shall be parallel to the designed waterline.  
 
-17. *Moulded depth* is the vertical distance measured from the keel line to the top of the working deck beam at side.    
+17.  *Moulded depth* is the vertical distance measured from the keel line to the top of the working deck beam at side.   
 
 ### Regulation  2  
 
 ####Application
 
-The Administration of a Party, if it considers it unreasonable or impracticable to apply the full requirements of regulations II/3, II/4 and II/5 and the requirement of the use of English language to personnel serving on board a fishing vessel of less than 45 metres in length operating exclusively from its ports and fishing within its limited waters, may determine which of these regulations should not apply, wholly or in part, to such personnel, without derogation from the principles of safety in the Convention. In such a case, the Administration concerned shall report to the Secretary-General on the details of the measures it has taken with respect to the training and certification of such personnel.  
+The Administration of a Party, if it considers it unreasonable or impracticable to apply the full requirements of regulations II/3, II/4 and II/5 and the requirement of the use of English language to personnel serving on board a fishing vessel of less than 45 metres in length operating exclusively from its ports and fishing within its limited waters, may determine which of these regulations should not apply, wholly or in part, to such personnel, without derogation from the principles of safety in the Convention. In such a case, the Administration concerned shall report to the Secretary-General on the details of the measures it has taken with respect to the training and certification of such personnel. 
 
 ### Regulation  3  
 
@@ -318,7 +318,7 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 7. Any appropriate certificate issued under the provisions of the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), for the holder to serve as a Chief Engineer Officer, an Engineer Officer or Radio Operator, shall be deemed to be a corresponding certificate for the purposes of paragraph 1 with regard to fishing vessels.  
 
-8. Subject to the variations permitted under appendices 1, 2 and 3, Administrations may use a format different from the format given in those appendices provided that such format contains, as a minimum, the required information and that the particulars are inserted in Roman characters and Arabic figures.    
+8. Subject to the variations permitted under appendices 1, 2 and 3, Administrations may use a format different from the format given in those appendices provided that such format contains, as a minimum, the required information and that the particulars are inserted in Roman characters and Arabic figures.   
 
 ### Regulation  4  
 
@@ -348,7 +348,7 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 .3 absence in a watch of a person qualified to operate equipment essential to safe navigation, safety radiocommunications or the prevention of pollution; or  
 
-.4 inability to provide rested persons for the first watch at the commencement of a voyage, and for subsequent relieving watches.      
+.4 inability to provide rested persons for the first watch at the commencement of a voyage, and for subsequent relieving watches.     
 
 ### Regulation  5  
 
@@ -356,7 +356,7 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 1. The Secretary-General shall, on request, provide Parties with any information communicated to him under article 4.  
 
-2. A Party which fails to communicate information required by article 4 within twenty-four months after the date of entry into force of the Convention for a Party shall not be entitled to claim the privileges of this Convention until such time as the information has been received by the Secretary-General.    
+2. A Party which fails to communicate information required by article 4 within twenty-four months after the date of entry into force of the Convention for a Party shall not be entitled to claim the privileges of this Convention until such time as the information has been received by the Secretary-General.   
 
 ### Regulation  6  
 
@@ -364,7 +364,7 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 1. Each Party undertakes to establish and maintain a means of ensuring that programmes incorporating such instruction and practical training as is necessary to achieve the competency standards are regularly monitored to ensure their effectiveness.  
 
-2. Each Party undertakes, to the extent practicable, to maintain a register or registers of all certificates and endorsements specified in regulations 3 and II/1 to II/6 which are issued, have expired, or have been revalidated, reported lost, suspended or cancelled, and of dispensations issued, and provide information on the status of such certificates, endorsements and dispensations when so requested by another Party.    
+2. Each Party undertakes, to the extent practicable, to maintain a register or registers of all certificates and endorsements specified in regulations 3 and II/1 to II/6 which are issued, have expired, or have been revalidated, reported lost, suspended or cancelled, and of dispensations issued, and provide information on the status of such certificates, endorsements and dispensations when so requested by another Party.   
 
 ### Regulation  7  
 
@@ -374,7 +374,7 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 2. Certificates issued by or under the authority of a non-Party shall not be recognized.  
 
-3. Notwithstanding the requirement of paragraph 1 of this regulation and paragraph 5 of regulation 3, an Administration may, if circumstances require, allow a person to serve for a period not exceeding three months on board a vessel entitled to fly its flag while holding an appropriate and valid certificate issued by another Party without it being endorsed as required by paragraph 5 of regulation 3 provided that documented proof is made available that application for an endorsement has been submitted to the Administration.    
+3. Notwithstanding the requirement of paragraph 1 of this regulation and paragraph 5 of regulation 3, an Administration may, if circumstances require, allow a person to serve for a period not exceeding three months on board a vessel entitled to fly its flag while holding an appropriate and valid certificate issued by another Party without it being endorsed as required by paragraph 5 of regulation 3 provided that documented proof is made available that application for an endorsement has been submitted to the Administration.   
 
 ### Regulation  8  
 
@@ -390,7 +390,7 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 .2 produced evidence that they have performed that service satisfactorily; and  
 
-.3 satisfied the Party as to medical fitness, including eyesight and hearing, taking into account their age at the time of application.   For the purpose of the Convention, a certificate of service issued under this paragraph shall be regarded as the equivalent of a certificate issued under the Convention.    
+.3 satisfied the Party as to medical fitness, including eyesight and hearing, taking into account their age at the time of application.   For the purpose of the Convention, a certificate of service issued under this paragraph shall be regarded as the equivalent of a certificate issued under the Convention.   
 
 ### Regulation  9  
 
@@ -400,7 +400,7 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 2. Any dispensation granted for a post shall be granted only to a person properly certificated to fill the post immediately below it. Where certification of the post below is not required by the Convention, a dispensation may be issued to a person whose competence and experience are, in the opinion of the Administration, clearly equivalent to the requirements for the post to be filled, provided that, if such a person holds no appropriate certificate, the person shall be required to pass a test accepted by the Administration as demonstrating that such a dispensation may safely be issued. In addition, the Administration shall ensure that the post in question is filled by the holder of an appropriate certificate as soon as possible.  
 
-3. Each Party shall as soon as possible after 1 January each year send a report to the Secretary-General giving information of the total number of dispensations in respect of each capacity for which a certificate is required, including nil returns.    
+3. Each Party shall as soon as possible after 1 January each year send a report to the Secretary-General giving information of the total number of dispensations in respect of each capacity for which a certificate is required, including nil returns.   
 
 ### Regulation  10  
 
@@ -408,13 +408,13 @@ The Administration of a Party, if it considers it unreasonable or impracticable 
 
 1. The Convention shall not prevent a Party from retaining or adopting other educational and training arrangements, including those involving seagoing service and shipboard organization especially adapted to technical developments and to special types of vessels, provided that the level of seagoing service, knowledge and efficiency as regards navigational and technical handling of vessels ensures a degree of safety at sea and has a preventive effect as regards pollution at least equivalent to the requirements of the Convention.  
 
-2. Details of such arrangements shall be included in the report under article 4.    
+2. Details of such arrangements shall be included in the report under article 4.   
 
 ### CHAPTER  II  
 
 ####CERTIFICATION OF SKIPPERS, OFFICERS, ENGINEER OFFICERS AND RADIO OPERATORS
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Regulation  1  
 
@@ -428,7 +428,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .2 meet the requirements for certification as an officer in charge of a navigational watch on fishing vessels of 24 metres in length and over operating in unlimited waters, and have approved seagoing service of not less than 12 months as an officer in charge of a navigational watch or skipper on fishing vessels of not less than 12 metres in length. However, the Party may allow the substitution of a period not exceeding six months of approved seagoing service as an officer in charge of a navigational watch on seagoing ships covered by the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md); and  
 
-.3 have passed an appropriate examination or examinations for assessment of competence to the satisfaction of the Party. Such examination or examinations shall include the material set out in the appendix to this regulation. A candidate for examination who holds a valid certificate of competency issued in accordance with the provisions of the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) need not be re-examined in those subjects listed in the appendix which were passed at a higher or equivalent level for issue of the Convention certificate.      
+.3 have passed an appropriate examination or examinations for assessment of competence to the satisfaction of the Party. Such examination or examinations shall include the material set out in the appendix to this regulation. A candidate for examination who holds a valid certificate of competency issued in accordance with the provisions of the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) need not be re-examined in those subjects listed in the appendix which were passed at a higher or equivalent level for issue of the Convention certificate.     
 
 ####Appendix to regulation 1
 
@@ -468,7 +468,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 4. Radar navigation 
 
-4.1 Demonstrate, using a radar simulator or, when not available, manoeuvring board, knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment, including the following: <sup> 2)  Reference is made to resolution 2 of the 1995 STCW-F Conference.  </sup> 
+4.1 Demonstrate, using a radar simulator or, when not available, manoeuvring board, knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment,<sup> 2)  Reference is made to resolution 2 of the 1995 STCW-F Conference. </sup> including the following: 
 
 .1 factors affecting performance and accuracy;  
 
@@ -610,7 +610,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 13.3 A thorough knowledge of the use of the following publications: 
 
-.1 *International Medical Guide for Ships* or equivalent national publications; and  
+.1  *International Medical Guide for Ships* or equivalent national publications; and  
 
 .2 Medical section of the *International Code of Signals*.      
 
@@ -656,7 +656,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 18. Search and rescue 
 
-18.1 A thorough knowledge of the *Merchant Ship Search and Rescue Manual**(MERSAR).*    
+18.1 A thorough knowledge of the *Merchant Ship Search and Rescue Manual* *(MERSAR).*     
 
 19. The FAO/ILO/IMO Code of Safety for Fishermen and Fishing Vessels 
 
@@ -686,7 +686,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 20.6 Life-saving 
 
-20.6.1 By handling of life-saving appliances, including the donning of lifejackets and, as appropriate, immersion suits.        
+20.6.1 By handling of life-saving appliances, including the donning of lifejackets and, as appropriate, immersion suits.       
 
 ### Regulation  2  
 
@@ -704,7 +704,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 .4 have passed an appropriate examination or examinations for the assessment of competency to the satisfaction of the Party. Such examination or examinations shall include the material set out in the appendix to this regulation. A candidate for examination who holds a valid certificate of competency issued in accordance with the provisions of the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) need not be re-examined in those subjects listed in the appendix which were passed at a higher or equivalent level for issue of the Convention certificate;  
 
-.5 meet the applicable requirements of regulation 6, as appropriate for performing designated radio duties in accordance with the Radio Regulations.      
+.5 meet the applicable requirements of regulation 6, as appropriate for performing designated radio duties in accordance with the Radio Regulations.     
 
 ####Appendix to regulation 2
 
@@ -726,9 +726,9 @@ Minimum knowledge required for certification of officers in charge of a navigati
 
 3.2 Thorough knowledge of and ability to use navigational charts and publications such as sailing directions, tide tables, notices to mariners and radio navigational warnings.    
 
-4 Radar navigation 
+4  Radar navigation 
 
-4.1 Demonstrate using a radar simulator or, when not available, manoeuvring board knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment, including the following: <sup> 3)  Reference is made to resolution 2 of the 1995 STCW-F Conference  </sup> 
+4.1 Demonstrate using a radar simulator or, when not available, manoeuvring board knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment,<sup> 3) Reference is made to resolution 2 of the 1995 STCW-F Conference </sup> including the following: 
 
 .1 factors affecting performance and accuracy;  
 
@@ -822,7 +822,7 @@ Minimum knowledge required for certification of officers in charge of a navigati
 
 20. Prevention of pollution of the marine environment Knowledge of the precautions to be observed to prevent pollution of the marine environment.  
 
-21. Methods to demonstrate proficiency The Party shall prescribe methods for the demonstration of proficiency in relevant requirements of this appendix.    
+21. Methods to demonstrate proficiency The Party shall prescribe methods for the demonstration of proficiency in relevant requirements of this appendix.   
 
 ### Regulation  3  
 
@@ -840,7 +840,7 @@ Minimum knowledge required for certification of officers in charge of a navigati
 
 3. The Party, bearing in mind the effect on the safety of all ships and structures which may be operating in the same limited waters, should consider the limited waters it has defined in accordance with the definition given in regulation I/1 and determine any additional material that should be included in the examination or examinations.  
 
-4. A candidate for examination who holds a valid certificate of competency issued in accordance with the provision of the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) need not be re-examined in those subjects listed in the appendix which were passed at a higher or equivalent level for issue of the Convention certificate.    
+4. A candidate for examination who holds a valid certificate of competency issued in accordance with the provision of the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) need not be re-examined in those subjects listed in the appendix which were passed at a higher or equivalent level for issue of the Convention certificate.   
 
 ####Appendix to regulation 3
 
@@ -880,7 +880,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 4.1 The Party shall decide whether or not to incorporate the radar syllabus below in the general requirements for certification of skippers. If the Party decides not to include the syllabus in the general requirements, it shall ensure that the syllabus is taken into account for purposes of certification of skippers serving on vessels fitted with radar equipment and plying within limited waters.  
 
-4.2 Demonstrate using a radar simulator or, when not available, manoeuvring board, knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment, including the following: <sup> 4)  Reference is made to resolution 2 of the 1995 STCW-F Conference.  </sup> 
+4.2 Demonstrate using a radar simulator or, when not available, manoeuvring board, knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment,<sup> 4) Reference is made to resolution 2 of the 1995 STCW-F Conference. </sup> including the following: 
 
 .1 factors affecting performance and accuracy;  
 
@@ -1028,7 +1028,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 17. The FAO/ILO/IMO Code of Safety for Fishermen and Fishing Vessels, Part A Knowledge of such sections of the FAO/ILO/IMO Code of Safety for Fishermen and Fishing Vessels as may be required by the Party.  
 
-18. Methods for demonstration of proficiency The Party shall prescribe appropriate methods for the demonstration of proficiency in relevant requirements of this appendix.    
+18. Methods for demonstration of proficiency The Party shall prescribe appropriate methods for the demonstration of proficiency in relevant requirements of this appendix.   
 
 ### Regulation  4  
 
@@ -1046,7 +1046,7 @@ Minimum knowledge required for certification of skippers on fishing vessels of 2
 
 .4 have passed an appropriate examination or examinations for assessment of competency to the satisfaction of the Party. Such examination or examinations shall include the material set out in the appendix to this regulation. A candidate for examination who holds a valid certificate of competency issued in accordance with the provisions of the [1978 STCW Convention](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) need not be re-examined in those subjects listed in the appendix which were passed at a higher or equivalent level for issue of the Convention certificate; and  
 
-.5 meet the applicable requirements of regulation 6, as appropriate for performing designated radio duties in accordance with the Radio Regulations.      
+.5 meet the applicable requirements of regulation 6, as appropriate for performing designated radio duties in accordance with the Radio Regulations.     
 
 ####Appendix to regulation 4
 
@@ -1070,7 +1070,7 @@ Minimum knowledge required for certification of officers in charge of a navigati
 
 3.1 The Party shall decide whether or not to incorporate the radar syllabus below in the general requirements for certification of officers in charge of a navigational watch. If the Party decided not to include the syllabus in the general requirements, it shall ensure that the syllabus is taken into account for purposes of certification of officers in charge of a navigational watch serving on vessels fitted with radar equipment and plying within limited waters.  
 
-3.2 Demonstrate, using a radar simulator or, when not available, manoeuvring board, knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment including the following: <sup> 5)  Reference is made to resolution 2 of the 1995 STCW-F Conference.  </sup> 
+3.2 Demonstrate, using a radar simulator or, when not available, manoeuvring board, knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from the equipment<sup>  5) Reference is made to resolution 2 of the 1995 STCW-F Conference. </sup> including the following: 
 
 .1 factors affecting performance and accuracy;  
 
@@ -1174,7 +1174,7 @@ Minimum knowledge required for certification of officers in charge of a navigati
 
 18. Methods to demonstrate proficiency 
 
-18.1 The Party shall prescribe methods for the demonstration of proficiency in relevant requirements of this appendix.      
+18.1 The Party shall prescribe methods for the demonstration of proficiency in relevant requirements of this appendix.     
 
 ### Regulation  5  
 
@@ -1198,7 +1198,7 @@ Minimum knowledge required for certification of officers in charge of a navigati
 
 3. Training to achieve the necessary theoretical knowledge and practical experience shall take into account relevant international regulations and recommendations.  
 
-4. The level of knowledge required under the different paragraphs of the appendix may be varied according to whether the certificate is being issued at chief engineer officer or second engineer officer level.    
+4. The level of knowledge required under the different paragraphs of the appendix may be varied according to whether the certificate is being issued at chief engineer officer or second engineer officer level.   
 
 ####Appendix to regulation 5
 
@@ -1276,13 +1276,13 @@ Minimum knowledge required for certification of chief engineer officers and seco
 
 5. Every candidate shall possess a knowledge of international law as embodied in international agreements and conventions as they affect the specific obligations and responsibilities of the engine department, particularly those concerning safety and the protection of the marine environment. The extent of knowledge of national maritime legislation is left to the discretion of the Party, but shall include arrangements for implementing international agreements and conventions.  
 
-6. Every candidate shall possess a knowledge of personnel management, organization and training aboard fishing vessels.    
+6. Every candidate shall possess a knowledge of personnel management, organization and training aboard fishing vessels.   
 
 ### Regulation  6  
 
 ####Mandatory minimum requirements for certification of personnel in charge of or performing radiocommunication duties on board fishing vessels
 
-Explanatory note Mandatory provisions relating to radio watchkeeping are set forth in the Radio Regulations and the 1993 Torremolinos Protocol. Provisions for radio maintenance are set forth in the 1993 Torremolinos Protocol and the guidelines adopted by the Organization. <sup> 6)  Reference is made to the Recommendation on radio maintenance guidelines for the global maritime distress and safety system related to sea areas A3 and A4 adopted by the Organization by resolution A.702(17).  </sup> Application 
+Explanatory note Mandatory provisions relating to radio watchkeeping are set forth in the Radio Regulations and the 1993 Torremolinos Protocol. Provisions for radio maintenance are set forth in the 1993 Torremolinos Protocol and the guidelines adopted by the Organization.<sup> 6) Reference is made to the Recommendation on radio maintenance guidelines for the global maritime distress and safety system related to sea areas A3 and A4 adopted by the Organization by resolution A.702(17). </sup>  Application 
 
 1. Except as provided in paragraph 2, the provisions of this regulation shall apply to personnel in charge of, or performing, radiocommunication duties on a vessel required by international agreement or national law to carry radio equipment using the frequencies and techniques of the Global Maritime Distress and Safety System (GMDSS).  
 
@@ -1302,7 +1302,7 @@ Explanatory note Mandatory provisions relating to radio watchkeeping are set for
 
 4. Every candidate for certification shall be required to pass an examination or examinations to the satisfaction of the Party.  
 
-5. For endorsement of all types of certificates issued under the provisions of the Radio Regulations as meeting the requirements of the Convention, the required knowledge, understanding and proficiency is given in the appendix to this regulation. In determining the appropriate level of knowledge and training the Party shall also take into account the relevant recommendations of the Organization. <sup> 7)  Reference is made to the Recommendations on training for radio personnel (GMDSS) adopted by the Organization by resolution A.703(17).  </sup>    
+5. For endorsement of all types of certificates issued under the provisions of the Radio Regulations as meeting the requirements of the Convention, the required knowledge, understanding and proficiency is given in the appendix to this regulation. In determining the appropriate level of knowledge and training the Party shall also take into account the relevant recommendations of the Organization.<sup> 7) Reference is made to the Recommendations on training for radio personnel (GMDSS) adopted by the Organization by resolution A.703(17). </sup>    
 
 ####Appendix to regulation 6
 
@@ -1312,7 +1312,7 @@ Minimum additional knowledge and training requirements for GMDSS radio personnel
 
 .1 provision of radio services in emergencies;  
 
-.2 search and rescue radiocommunications, including procedures in the *Merchant Ship Search**and Rescue Manual (MERSAR);*  
+.2 search and rescue radiocommunications, including procedures in the *Merchant Ship Search* *and Rescue Manual (MERSAR);*   
 
 .3 The means to prevent the transmission of false distress alerts and the procedures to mitigate the effects of false distress alerts;  
 
@@ -1322,7 +1322,7 @@ Minimum additional knowledge and training requirements for GMDSS radio personnel
 
 .6 use of the International Code of Signals and the Standard Marine Communication Phrases; and  
 
-.7 preventive measures for the safety of the vessel and personnel in connection with hazards related to radio equipment, including electrical and non-ionizing radiation hazards.      
+.7 preventive measures for the safety of the vessel and personnel in connection with hazards related to radio equipment, including electrical and non-ionizing radiation hazards.     
 
 ### Regulation  7  
 
@@ -1344,7 +1344,7 @@ Minimum additional knowledge and training requirements for GMDSS radio personnel
 
 2. The refresher and updating courses required by this regulation shall be approved by the Administration and include the text of recent changes in international regulations concerning the safety of life at sea and the protection of the marine environment.  
 
-3. The Administration shall ensure that the texts of recent changes in international regulations concerning the safety of life at sea and the protection of the marine environment are made available to ships under its jurisdiction.    
+3. The Administration shall ensure that the texts of recent changes in international regulations concerning the safety of life at sea and the protection of the marine environment are made available to ships under its jurisdiction.   
 
 ### Regulation  8  
 
@@ -1364,13 +1364,13 @@ Minimum additional knowledge and training requirements for GMDSS radio personnel
 
 2. When new modes, equipment or practices are to become mandatory aboard vessels entitled to fly the flag of a Party, the Party may require GMDSS radio personnel to pass an approved test or successfully complete an appropriate training course or courses, at sea or ashore, with particular reference to safety duties.  
 
-3. The Administration shall ensure that the texts of recent changes in international regulations relating to radiocommunications and relevant to the safety of life at sea are available to ships entitled to fly its flag.    
+3. The Administration shall ensure that the texts of recent changes in international regulations relating to radiocommunications and relevant to the safety of life at sea are available to ships entitled to fly its flag.   
 
 ### CHAPTER  III  
 
 ####BASIC SAFETY TRAINING FOR ALL FISHING VESSEL PERSONNEL
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Regulation  1  
 
@@ -1390,13 +1390,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .6 prevention of shipboard accidents.    
 
-2. In implementing the provisions of paragraph 1, the Administration shall determine whether and, if so to what extent, these provisions shall apply to personnel of small fishing vessels or personnel already employed on fishing vessels.    
+2. In implementing the provisions of paragraph 1, the Administration shall determine whether and, if so to what extent, these provisions shall apply to personnel of small fishing vessels or personnel already employed on fishing vessels.   
 
 ### CHAPTER  IV  
 
 ####WATCHKEEPING
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Regulation  1  
 
@@ -1528,10 +1528,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 7. Anchor watch The skipper shall ensure, with a view to the safety of the vessel and the crew, that a proper watch is maintained at all times from the wheelhouse or deck on fishing vessels at anchor.  
 
-8. Radio watchkeeping The skipper shall ensure that an adequate radio watch is maintained while the vessel is at sea, on appropriate frequencies, taking into account the requirements of the Radio Regulations.    
+8. Radio watchkeeping The skipper shall ensure that an adequate radio watch is maintained while the vessel is at sea, on appropriate frequencies, taking into account the requirements of the Radio Regulations.   
 
-### Appendix  1   
-Treedt in werking op een nader te bepalen tijdstip   
+### Appendix  1  
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -1548,7 +1548,7 @@ Treedt in werking op een nader te bepalen tijdstip
 | The lawful holder of this certificate may serve in the following capacity or capacities:  |
 | CAPACITY  | LIMITATIONS APPLYING (IF ANY)  |
 | --- | --- |
-| Certificate No. ................  | issued on ...........  |
+| Certificate No. ................   | issued on ...........  |
 | --- |
 |  *(Official Seal)*   |
 | --- | ...........   *Signature of duly authorized official*   |
@@ -1577,8 +1577,8 @@ Treedt in werking op een nader te bepalen tijdstip
 | Date of revalidation ...........  | ...........   *Name of duly authorized official*   |
 | --- | --- |
 
-### Appendix  2   
-Treedt in werking op een nader te bepalen tijdstip   
+### Appendix  2  
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -1627,8 +1627,8 @@ Treedt in werking op een nader te bepalen tijdstip
 | Date of revalidation ..........  | ..........   *Name of duly authorized official*   |
 | --- | --- |
 
-### Appendix  3   
-Treedt in werking op een nader te bepalen tijdstip   
+### Appendix  3  
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -1680,7 +1680,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen, 1995
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 De partijen bij dit Verdrag, Gelet op het [Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) (hierna te noemen het „STCW-verdrag van 1978”), Geleid door de wens de veiligheid van mensenlevens en zaken op zee verder te bevorderen en het mariene milieu verder te beschermen door het in onderling overleg opstellen van internationale normen inzake opleiding, diplomering en wachtdienst van personeel aan boord van vissersschepen, Overwegend dat dit doel het best kan worden bereikt door het sluiten van een Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen, hierna te noemen „het Verdrag”,   Zijn het volgende overeengekomen:    
 
@@ -1688,60 +1688,60 @@ De partijen bij dit Verdrag, Gelet op het [Internationaal Verdrag betreffende de
 
 ####Algemene verplichtingen
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De partijen verplichten zich ertoe uitvoering te geven aan de bepalingen van het Verdrag en van de bijlage daarbij, die een integrerend onderdeel vormt van het Verdrag. Elke verwijzing naar het Verdrag houdt tegelijkertijd een verwijzing in naar de bijlage daarbij.   
-2.  De partijen verplichten zich ertoe alle wetten, besluiten, beschikkingen en voorschriften uit te vaardigen en alle andere maatregelen te nemen die nodig zijn voor de volledige uitvoering van het Verdrag, teneinde te waarborgen dat, uit het oogpunt van de veiligheid van mensenlevens en zaken op zee en van de bescherming van het mariene milieu, het personeel aan boord van zeevissersschepen wat zijn vakbekwaamheid en lichamelijke conditie betreft geschikt is om zijn taak te vervullen.   
+2.  De partijen verplichten zich ertoe alle wetten, besluiten, beschikkingen en voorschriften uit te vaardigen en alle andere maatregelen te nemen die nodig zijn voor de volledige uitvoering van het Verdrag, teneinde te waarborgen dat, uit het oogpunt van de veiligheid van mensenlevens en zaken op zee en van de bescherming van het mariene milieu, het personeel aan boord van zeevissersschepen wat zijn vakbekwaamheid en lichamelijke conditie betreft geschikt is om zijn taak te vervullen.  
 
 ### Artikel  2  
 
 ####Begripsomschrijvingen
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 Tenzij uitdrukkelijk anders is bepaald, wordt bij de toepassing van het Verdrag verstaan onder: 
 
-.1 *partij:* een staat waarvoor het Verdrag in werking is getreden;  
+.1  *partij:* een staat waarvoor het Verdrag in werking is getreden;  
 
-.2 *administratie:* de regering van de partij waarvan het schip gerechtigd is de vlag te voeren;  
+.2  *administratie:* de regering van de partij waarvan het schip gerechtigd is de vlag te voeren;  
 
-.3 *bewijs:* een geldig document, welke naam ook dragend, dat is afgegeven of erkend in overeenstemming met de bepalingen van het Verdrag en dat de houder ervan het recht geeft dienst te doen op de wijze vermeld in dat document of toegestaan door de nationale voorschriften;  
+.3  *bewijs:* een geldig document, welke naam ook dragend, dat is afgegeven of erkend in overeenstemming met de bepalingen van het Verdrag en dat de houder ervan het recht geeft dienst te doen op de wijze vermeld in dat document of toegestaan door de nationale voorschriften;  
 
-.4 *gediplomeerd:* volgens de voorschriften in het bezit zijnde van een bewijs;  
+.4  *gediplomeerd:* volgens de voorschriften in het bezit zijnde van een bewijs;  
 
-.5 *Organisatie:* de Internationale Maritieme Organisatie;  
+.5  *Organisatie:* de Internationale Maritieme Organisatie;  
 
-.6 *Secretaris-Generaal:* de Secretaris-Generaal van de Organisatie;  
+.6  *Secretaris-Generaal:* de Secretaris-Generaal van de Organisatie;  
 
-.7 *vissersschip* of *schip:* elk vaartuig dat met commercieel oogmerk wordt gebruikt voor het vangen van vis of andere levende rijkdommen van de zee;  
+.7  *vissersschip* of *schip:* elk vaartuig dat met commercieel oogmerk wordt gebruikt voor het vangen van vis of andere levende rijkdommen van de zee;  
 
-.8 *zeevissersschip:* een vissersschip anders dan een vissersschip dat uitsluitend vaart in de binnenwateren of in wateren binnen of nauw grenzend aan beschutte wateren of gebieden waar havenvoorschriften van toepassing zijn.    
+.8  *zeevissersschip:* een vissersschip anders dan een vissersschip dat uitsluitend vaart in de binnenwateren of in wateren binnen of nauw grenzend aan beschutte wateren of gebieden waar havenvoorschriften van toepassing zijn.   
 
 ### Artikel  3  
 
 ####Toepassing
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-Dit Verdrag is van toepassing op personeel dat werkt op zeevissersschepen die gerechtigd zijn de vlag van een partij te voeren.  
+Dit Verdrag is van toepassing op personeel dat werkt op zeevissersschepen die gerechtigd zijn de vlag van een partij te voeren. 
 
 ### Artikel  4  
 
 ####Toezending van informatie
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 Elke partij zendt de Secretaris-Generaal de volgende informatie toe: 
 
 .1 een verslag van de maatregelen die zij genomen heeft om volledig uitvoering te geven aan de bepalingen van het Verdrag, met inbegrip van modellen van de bewijzen die in overeenstemming met het Verdrag worden afgegeven; en  
 
-.2 overige informatie die in voorschrift I/5 kan worden vermeld of verstrekt.    
+.2 overige informatie die in voorschrift I/5 kan worden vermeld of verstrekt.   
 
 ### Artikel  5  
 
 ####Andere verdragen en interpretatie
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Alle voorgaande verdragen, overeenkomsten en regelingen, betrekking hebbende op de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen die tussen de partijen van kracht zijn, blijven gedurende de hiervoor vastgestelde tijd volledig van kracht, voor zover het betreft: 
 
@@ -1749,21 +1749,21 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .2 personeelsleden van vissersschepen op wie dit Verdrag van toepassing is, ten aanzien van aangelegenheden waarin niet uitdrukkelijk in dit Verdrag is voorzien.     
 2.  Voor zover eerdergenoemde verdragen, overeenkomsten of regelingen echter in strijd zijn met de bepalingen van het Verdrag, toetsen de partijen hun verbintenissen krachtens die verdragen, overeenkomsten en regelingen teneinde te verzekeren dat deze verbintenissen niet strijdig zijn met hun verplichtingen op grond van het Verdrag.   
-3.  Alle aangelegenheden waarin niet uitdrukkelijk is voorzien in dit Verdrag blijven onderworpen aan de wetgeving van de partijen.   
+3.  Alle aangelegenheden waarin niet uitdrukkelijk is voorzien in dit Verdrag blijven onderworpen aan de wetgeving van de partijen.  
 
 ### Artikel  6  
 
 ####Diplomering
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-De diplomering van personeel van vissersschepen geschiedt in overeenstemming met de bijlage bij dit Verdrag.  
+De diplomering van personeel van vissersschepen geschiedt in overeenstemming met de bijlage bij dit Verdrag. 
 
 ### Artikel  7  
 
 ####Nationale bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Elke partij stelt werkwijzen en procedures vast voor het onpartijdig onderzoek naar elk gerapporteerd geval van onbekwaamheid, handelen of nalaten dat een directe bedreiging kan vormen voor de veiligheid van mensenlevens of zaken op zee of voor het mariene milieu, door houders van bewijzen of van officiële verklaringen afgegeven door die partij met betrekking tot de vervulling van hun taken zoals in hun bewijzen omschreven, en voor het intrekken, tijdelijk intrekken en ongeldig verklaren van deze bewijzen op dergelijke gronden en ter voorkoming van fraude.   
 2.  Elke partij schrijft straffen of disciplinaire maatregelen voor voor gevallen waarin de bepalingen van haar nationale wetgeving ter uitvoering van het Verdrag niet worden nageleefd met betrekking tot schepen die gerechtigd zijn haar vlag te voeren of personeelsleden van vissersschepen aan wie de partij naar behoren een bewijs heeft afgegeven.   
@@ -1774,13 +1774,13 @@ Treedt in werking op een nader te bepalen tijdstip
 .2 een kapitein heeft toegestaan dat een functie of dienst in een hoedanigheid die krachtens deze voorschriften moet worden verricht door een persoon die in het bezit is van een passend bewijs, wordt verricht door een persoon die niet in het bezit is van een passend bewijs of passende ontheffing; of  
 
 .3 een persoon middels fraude of vervalste documenten een aanstelling heeft gekregen om een functie te vervullen of dienst te doen in een hoedanigheid waarvan de uitoefening of vervulling volgens deze voorschriften moet geschieden door een persoon die in het bezit is van een bewijs of ontheffing.     
-4.  Een partij binnen wier rechtsgebied zich een eigenaar, agent van een eigenaar of persoon bevindt van wie op duidelijke gronden wordt aangenomen dat deze verantwoordelijk was voor of kennis droeg van kennelijke niet-nakoming van het Verdrag zoals bepaald in het derde lid, moet alle mogelijke medewerking verlenen aan een partij die haar op de hoogte stelt van haar voornemen uit hoofde van haar rechtsbevoegdheid gerechtelijke stappen te ondernemen.   
+4.  Een partij binnen wier rechtsgebied zich een eigenaar, agent van een eigenaar of persoon bevindt van wie op duidelijke gronden wordt aangenomen dat deze verantwoordelijk was voor of kennis droeg van kennelijke niet-nakoming van het Verdrag zoals bepaald in het derde lid, moet alle mogelijke medewerking verlenen aan een partij die haar op de hoogte stelt van haar voornemen uit hoofde van haar rechtsbevoegdheid gerechtelijke stappen te ondernemen.  
 
 ### Artikel  8  
 
 ####Controle
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Vissersschepen zijn tijdens hun verblijf in de havens van een andere partij onderworpen aan controle door functionarissen die door die partij naar behoren zijn gemachtigd om erop toe te zien dat alle aan boord dienst doende personen die volgens het Verdrag gediplomeerd moeten zijn de desbetreffende bewijzen bezitten of in het bezit zijn van een passende ontheffing.   
 2.  Indien wordt verzuimd de in voorschrift I/4, paragraaf 3, genoemde tekortkoming te herstellen en voor zover dit een gevaar oplevert voor personen, zaken of het milieu, neemt de partij die de controle uitvoert stappen om te waarborgen dat het schip niet uitvaart tenzij en totdat zodanig aan deze vereisten is voldaan dat het gevaar is weggenomen. De feiten betreffende de genomen maatregelen worden onverwijld aan de Secretaris-Generaal en aan de administratie medegedeeld.   
@@ -1789,13 +1789,13 @@ Treedt in werking op een nader te bepalen tijdstip
 .1 moet al het mogelijke in het werk worden gesteld teneinde te voorkomen dat het schip onnodig wordt opgehouden of vertraagd. Indien een schip onnodig wordt opgehouden of vertraagd, ontstaat er recht op schadevergoeding voor daaruit voortvloeiende verliezen of schade; en  
 
 .2 mag de beoordelingsvrijheid die in het geval van personeel van buitenlandse vissersschepen is toegestaan niet minder zijn dan die wordt toegekend aan personeel van schepen die de vlag van de havenstaat voeren.     
-4.  Dit artikel wordt waar nodig toegepast om te waarborgen dat aan schepen die gerechtigd zijn de vlag te voeren van een staat die geen partij is, geen gunstiger behandeling wordt gegeven dan een schip dat gerechtigd is de vlag te voeren van een staat die partij is.   
+4.  Dit artikel wordt waar nodig toegepast om te waarborgen dat aan schepen die gerechtigd zijn de vlag te voeren van een staat die geen partij is, geen gunstiger behandeling wordt gegeven dan een schip dat gerechtigd is de vlag te voeren van een staat die partij is.  
 
 ### Artikel  9  
 
 ####Bevorderen van technische samenwerking
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De partijen bij het Verdrag bevorderen, in overleg met en met hulp van de Organisatie, ondersteuning van de staten die om technische bijstand verzoeken inzake: 
 
@@ -1808,13 +1808,13 @@ Treedt in werking op een nader te bepalen tijdstip
 .4 het uitwerken van passende opleidingsprogramma’s, met inbegrip van praktijkopleidingen op zeevissersschepen; en  
 
 .5 het faciliteren van andere maatregelen en regelingen om de kwalificaties van personeel van vissersschepen te verbeteren, bij voorkeur op nationale, subregionale of regionale basis, teneinde de doelstellingen van het Verdrag verder te verwezenlijken, rekening houdend met de bijzondere behoeften van ontwikkelingslanden in dit opzicht.     
-2.  De Organisatie streeft van haar kant de bovenstaande doelstellingen na, al naargelang van toepassing in overleg of samenwerking met andere internationale organisaties, met name de Internationale Arbeidsorganisatie en de Voedsel- en Landbouworganisatie van de Verenigde Naties.   
+2.  De Organisatie streeft van haar kant de bovenstaande doelstellingen na, al naargelang van toepassing in overleg of samenwerking met andere internationale organisaties, met name de Internationale Arbeidsorganisatie en de Voedsel- en Landbouworganisatie van de Verenigde Naties.  
 
 ### Artikel  10  
 
 ####Wijzigingen
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Dit Verdrag kan worden gewijzigd volgens een van de in dit artikel omschreven procedures.   
 2.  Wijziging na bestudering binnen de Organisatie: 
@@ -1848,13 +1848,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .3 Tenzij de conferentie anders besluit, wordt de wijziging geacht te zijn aanvaard en treedt zij in werking overeenkomstig de procedures omschreven in de onderdelen 6 en 8, respectievelijk 7 en 9 van het tweede lid, met dien verstande dat de verwijzingen daarin naar de uitgebreide Maritieme Veiligheidscommissie worden verstaan als verwijzingen naar de conferentie.     
 4.  Elke verklaring van aanvaarding van of van bezwaar tegen een wijziging, of elke kennisgeving gedaan krachtens het bepaalde in het tweede lid, onderdeel 9, wordt schriftelijk toegezonden aan de Secretaris-Generaal, die alle partijen in kennis stelt van deze verklaringen of kennisgevingen en van de datum van ontvangst ervan.   
-5.  De Secretaris-Generaal stelt alle partijen in kennis van wijzigingen die in werking treden, alsmede van de datum waarop elke wijziging in werking treedt.   
+5.  De Secretaris-Generaal stelt alle partijen in kennis van wijzigingen die in werking treden, alsmede van de datum waarop elke wijziging in werking treedt.  
 
 ### Artikel  11  
 
 ####Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het Verdrag blijft open voor ondertekening op de zetel van de Organisatie van 1 januari 1996 tot 30 september 1996 en blijft daarna open voor toetreding. Staten kunnen partij worden bij het Verdrag door: 
 
@@ -1863,34 +1863,34 @@ Treedt in werking op een nader te bepalen tijdstip
 .2 ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of  
 
 .3 toetreding.     
-2.  Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.   
+2.  Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.  
 
 ### Artikel  12  
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het Verdrag treedt in werking 12 maanden na de datum waarop ten minste 15 staten hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met artikel 11.   
 2.  Voor staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake van het Verdrag hebben nedergelegd nadat voldaan is aan de vereisten voor de inwerkingtreding ervan maar voorafgaand aan de datum van inwerkingtreding, wordt de bekrachtiging, aanvaarding, goedkeuring of toetreding van kracht op de datum waarop het Verdrag in werking treedt of drie maanden na de datum van de nederlegging van de akte, naargelang van wat het laatst is.   
 3.  Voor staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake van het Verdrag hebben nedergelegd na de datum waarop het Verdrag in werking trad, wordt het Verdrag van kracht drie maanden na de datum van nederlegging van de akte.   
-4.  Na de datum waarop een wijziging van het Verdrag geacht wordt te zijn aanvaard krachtens artikel 10, is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.   
+4.  Na de datum waarop een wijziging van het Verdrag geacht wordt te zijn aanvaard krachtens artikel 10, is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.  
 
 ### Artikel  13  
 
 ####Opzegging
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het Verdrag kan na afloop van vijf jaar na de datum waarop het voor een partij in werking is getreden te allen tijde door die partij worden opgezegd.   
 2.  Opzegging geschiedt door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal.   
-3.  Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal of na het verstrijken van een langere periode indien dit in de kennisgeving wordt aangegeven.   
+3.  Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal of na het verstrijken van een langere periode indien dit in de kennisgeving wordt aangegeven.  
 
 ### Artikel  14  
 
 ####Depositaris
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie (hierna te noemen „de depositaris”).   
 2.  De depositaris: 
@@ -1904,27 +1904,27 @@ Treedt in werking op een nader te bepalen tijdstip
 .1.3 de nederlegging van elke akte van opzegging van het Verdrag, alsmede de datum van ontvangst ervan en de datum waarop de opzegging van kracht wordt; en    
 
 .2 zendt voor eensluidend gewaarmerkte afschriften van het Verdrag toe aan alle staten die dit Verdrag hebben ondertekend of daartoe zijn toegetreden.     
-3.  Zodra het Verdrag in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift ervan door de depositaris toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
+3.  Zodra het Verdrag in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift ervan door de depositaris toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
 
 ### Artikel  15  
 
 ####Talen
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
-Het Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn.  
+Het Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle teksten gelijkelijk authentiek zijn. 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden regeringen, dit Verdrag hebben ondertekend. GEDAAN te Londen op zeven juli negentienhonderd vijfennegentig.  
 
 ####Bijlage
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### HOOFDSTUK  I  
 
 ####ALGEMENE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Voorschrift  1  
 
@@ -1932,45 +1932,45 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Voor de toepassing van deze bijlage wordt verstaan onder: 
 
-1. *voorschriften:* de voorschriften die in de bijlage bij het Verdrag zijn opgenomen;  
+1.  *voorschriften:* de voorschriften die in de bijlage bij het Verdrag zijn opgenomen;  
 
-2. *goedgekeurd:* goedgekeurd door de partij in overeenstemming met deze voorschriften;  
+2.  *goedgekeurd:* goedgekeurd door de partij in overeenstemming met deze voorschriften;  
 
-3. *kapitein:* degene die het bevel voert over een vissersschip;  
+3.  *kapitein:* degene die het bevel voert over een vissersschip;  
 
-4. *officier:* een lid van de bemanning, niet zijnde de kapitein, die als zodanig is aangewezen op grond van nationale wetten of voorschriften, of indien zulks niet is geschied, op grond van een collectieve arbeidsovereenkomst of volgens gebruik;  
+4.  *officier:* een lid van de bemanning, niet zijnde de kapitein, die als zodanig is aangewezen op grond van nationale wetten of voorschriften, of indien zulks niet is geschied, op grond van een collectieve arbeidsovereenkomst of volgens gebruik;  
 
-5. *officier belast met de brugwacht:* een officier die bevoegd is in overeenstemming met voorschrift II/2 of II/4 van dit Verdrag;  
+5.  *officier belast met de brugwacht:* een officier die bevoegd is in overeenstemming met voorschrift II/2 of II/4 van dit Verdrag;  
 
-6. *scheepswerktuigkundige:* een officier die bevoegd is in overeenstemming met voorschrift II/5 van dit Verdrag;  
+6.  *scheepswerktuigkundige:* een officier die bevoegd is in overeenstemming met voorschrift II/5 van dit Verdrag;  
 
-7. *hoofdwerktuigkundige:* de scheepswerktuigkundige die het hoogst in rang is en die verantwoordelijk is voor de werktuiglijke voortstuwing en de werking en het onderhoud van de werktuiglijke en elektrische installaties van het schip;  
+7.  *hoofdwerktuigkundige:* de scheepswerktuigkundige die het hoogst in rang is en die verantwoordelijk is voor de werktuiglijke voortstuwing en de werking en het onderhoud van de werktuiglijke en elektrische installaties van het schip;  
 
-8. *tweede scheepswerktuigkundige:* de scheepswerktuigkundige die in rang volgt op de hoofdwerktuigkundige en op wie de verantwoordelijkheid voor de werktuiglijke voortstuwing en de werking en het onderhoud van de werktuiglijke en elektrische installaties van het schip komt te rusten indien de hoofdwerktuigkundige daartoe niet in staat is;  
+8.  *tweede scheepswerktuigkundige: *de scheepswerktuigkundige die in rang volgt op de hoofdwerktuigkundige en op wie de verantwoordelijkheid voor de werktuiglijke voortstuwing en de werking en het onderhoud van de werktuiglijke en elektrische installaties van het schip komt te rusten indien de hoofdwerktuigkundige daartoe niet in staat is;  
 
-9. *radio-operator:* een persoon die in het bezit is van een passend bewijs, afgegeven of erkend door een administratie in overeenstemming met de bepalingen van het Radioreglement;  
+9.  *radio-operator:* een persoon die in het bezit is van een passend bewijs, afgegeven of erkend door een administratie in overeenstemming met de bepalingen van het Radioreglement;  
 
-10. *Radioreglement:* het Radioreglement dat is gehecht aan, of wordt geacht te zijn gehecht aan, het recentste Internationaal Verdrag betreffende de telecommunicatie dat op enig moment van kracht is;  
+10.  *Radioreglement:* het Radioreglement dat is gehecht aan, of wordt geacht te zijn gehecht aan, het recentste Internationaal Verdrag betreffende de telecommunicatie dat op enig moment van kracht is;  
 
-11. *STCW-verdrag van 1978:* het [Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), als gewijzigd;  
+11.  *STCW-verdrag van 1978:* het [Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), als gewijzigd;  
 
-12. *Protocol van Torremolinos van 1993:* het Protocol van Torremolinos van 1993 inzake het Internationaal Verdrag van Torremolinos voor de beveiliging van vissersvaartuigen, 1977;  
+12.  *Protocol van Torremolinos van 1993:* het Protocol van Torremolinos van 1993 inzake het Internationaal Verdrag van Torremolinos voor de beveiliging van vissersvaartuigen, 1977;  
 
-13. *voortstuwingsvermogen:* het maximum nominale totaalvermogen in kilowatts van alle hoofdvoortstuwingsinstallaties van het schip, vermeld in de zeebrief van het schip of in een ander officieel document;  
+13.  *voortstuwingsvermogen:* het maximum nominale totaalvermogen in kilowatts van alle hoofdvoortstuwingsinstallaties van het schip, vermeld in de zeebrief van het schip of in een ander officieel document;  
 
-14. *begrensde wateren:* de wateren in de nabijheid van een partij, zoals door haar administratie omschreven, waarin een mate van veiligheid geacht wordt te bestaan waardoor lagere normen voor de bevoegdheden en diplomering voor kapiteins en officieren van vissersschepen gehanteerd kunnen worden dan die voor dienst buiten deze vastgestelde grenzen. Bij het vaststellen van de omvang van de begrensde wateren houdt de administratie rekening met de door de Organisatie ontwikkelde richtsnoeren; <sup> 8)  Verwezen wordt naar aanhangsel 1 bij resolutie A.539(13) – Diplomering van kapiteins en officieren belast met de dekwacht op vissersschepen met een lengte van 24 meter of meer, aangenomen door de Organisatie.  </sup>  
+14.  *begrensde wateren:* de wateren in de nabijheid van een partij, zoals door haar administratie omschreven, waarin een mate van veiligheid geacht wordt te bestaan waardoor lagere normen voor de bevoegdheden en diplomering voor kapiteins en officieren van vissersschepen gehanteerd kunnen worden dan die voor dienst buiten deze vastgestelde grenzen. Bij het vaststellen van de omvang van de begrensde wateren houdt de administratie rekening met de door de Organisatie ontwikkelde richtsnoeren;<sup> 8) Verwezen wordt naar aanhangsel 1 bij resolutie A.539(13) – Diplomering van kapiteins en officieren belast met de dekwacht op vissersschepen met een lengte van 24 meter of meer, aangenomen door de Organisatie. </sup>   
 
-15. *onbegrensde wateren:* de wateren buiten de begrensde wateren;  
+15.  *onbegrensde wateren:* de wateren buiten de begrensde wateren;  
 
-16. *lengte (L):* 96% van de totale lengte op een waterlijn op 85% van de kleinste holte naar de mal gemeten vanaf de kiellijn, of de lengte van de voorzijde van de voorsteven tot aan de hartlijn van de roerkoning op die waterlijn, indien deze laatste lengte groter is. Bij schepen die met stuurlast zijn ontworpen moet de waterlijn waarop deze lengte gemeten wordt evenwijdig aan de ontwerpwaterlijn worden genomen;  
+16.  *lengte (L):* 96% van de totale lengte op een waterlijn op 85% van de kleinste holte naar de mal gemeten vanaf de kiellijn, of de lengte van de voorzijde van de voorsteven tot aan de hartlijn van de roerkoning op die waterlijn, indien deze laatste lengte groter is. Bij schepen die met stuurlast zijn ontworpen moet de waterlijn waarop deze lengte gemeten wordt evenwijdig aan de ontwerpwaterlijn worden genomen;  
 
-17. *holte naar de mal:* de verticale afstand gemeten van de kiellijn tot de bovenkant van de balken van het werkdek in de zijde.    
+17.  *holte naar de mal:* de verticale afstand gemeten van de kiellijn tot de bovenkant van de balken van het werkdek in de zijde.   
 
 ### Voorschrift  2  
 
 ####Toepassing
 
-De administratie van een partij kan, indien zij het onredelijk of ondoenlijk acht alle vereisten van de voorschriften II/3, II/4 en II/5 en het vereiste van het gebruik van de Engelse taal toe te passen op personeel dat werkt aan boord van een vissersschip met een lengte van minder dan 45 meter dat uitsluitend vanuit haar eigen havens vaart en in haar begrensde wateren vist, vaststellen welke van deze voorschriften geheel of gedeeltelijk niet van toepassing zijn op dit personeel, zonder dat hierbij afgeweken wordt van de veiligheidsbeginselen in het Verdrag. In dat geval stelt de betrokken administratie de Secretaris-Generaal in kennis van de details van de door haar genomen maatregelen wat betreft de opleiding en diplomering van dit personeel.  
+De administratie van een partij kan, indien zij het onredelijk of ondoenlijk acht alle vereisten van de voorschriften II/3, II/4 en II/5 en het vereiste van het gebruik van de Engelse taal toe te passen op personeel dat werkt aan boord van een vissersschip met een lengte van minder dan 45 meter dat uitsluitend vanuit haar eigen havens vaart en in haar begrensde wateren vist, vaststellen welke van deze voorschriften geheel of gedeeltelijk niet van toepassing zijn op dit personeel, zonder dat hierbij afgeweken wordt van de veiligheidsbeginselen in het Verdrag. In dat geval stelt de betrokken administratie de Secretaris-Generaal in kennis van de details van de door haar genomen maatregelen wat betreft de opleiding en diplomering van dit personeel. 
 
 ### Voorschrift  3  
 
@@ -1994,7 +1994,7 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 7. Een passend bewijs afgegeven krachtens de bepalingen van het [STCW-verdrag van 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md) op grond waarvan de houder dienst kan doen als hoofdwerktuigkundige, scheepswerktuigkundige of radio-operator, wordt voor de toepassing van het eerste lid geacht een dienovereenkomstig bewijs te zijn met betrekking tot vissersschepen.  
 
-8. Met inachtneming van de volgens de aanhangsels 1, 2 en 3 toegestane varianten mogen administraties een model gebruiken dat afwijkt van het in deze aanhangsels weergegeven model mits het in ieder geval de vereiste informatie bevat en de gegevens in Romeinse letters en Arabische cijfers worden vermeld.    
+8. Met inachtneming van de volgens de aanhangsels 1, 2 en 3 toegestane varianten mogen administraties een model gebruiken dat afwijkt van het in deze aanhangsels weergegeven model mits het in ieder geval de vereiste informatie bevat en de gegevens in Romeinse letters en Arabische cijfers worden vermeld.   
 
 ### Voorschrift  4  
 
@@ -2024,7 +2024,7 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 .3 er is tijdens de wacht niemand aanwezig die bevoegd is de uitrusting te bedienen die noodzakelijk is voor veilige navigatie, veilige radioverbindingen of het voorkomen van verontreiniging; of  
 
-.4 het is niet mogelijk aan het begin van de reis en bij de daaropvolgende aflossende wachten te zorgen voor personeel dat rust heeft genoten.      
+.4 het is niet mogelijk aan het begin van de reis en bij de daaropvolgende aflossende wachten te zorgen voor personeel dat rust heeft genoten.     
 
 ### Voorschrift  5  
 
@@ -2032,7 +2032,7 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 1. De Secretaris-Generaal zendt de partijen, op verzoek, alle informatie toe die hem uit hoofde van artikel 4 is toegezonden.  
 
-2. Een partij die verzuimt de uit hoofde van artikel 4 vereiste informatie toe te zenden binnen vierentwintig maanden na de datum van inwerkingtreding van het Verdrag voor een partij, is tot het tijdstip waarop de informatie door de Secretaris-Generaal is ontvangen niet gerechtigd aanspraak te maken op de voorrechten van dit Verdrag.    
+2. Een partij die verzuimt de uit hoofde van artikel 4 vereiste informatie toe te zenden binnen vierentwintig maanden na de datum van inwerkingtreding van het Verdrag voor een partij, is tot het tijdstip waarop de informatie door de Secretaris-Generaal is ontvangen niet gerechtigd aanspraak te maken op de voorrechten van dit Verdrag.   
 
 ### Voorschrift  6  
 
@@ -2040,7 +2040,7 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 1. Elke partij verplicht zich een systeem in te stellen en te onderhouden om te waarborgen dat programma’s die de nodige instructie en praktische training bieden om aan de eisen van bekwaamheid te voldoen, regelmatig worden gemonitord om de doelmatigheid ervan te waarborgen.  
 
-2. Elke partij verplicht zich, voor zover dit praktisch uitvoerbaar is, een register of registers bij te houden van alle bewijzen en officiële verklaringen genoemd in de voorschriften 3 en II/1 tot en met II/6 die zijn afgegeven, zijn verlopen of zijn verlengd, of als vermist zijn opgegeven, zijn ingetrokken of ongeldig zijn verklaard en van de verleende ontheffingen, en verstrekken informatie over de status van deze bewijzen, officiële verklaringen en ontheffingen wanneer een andere partij daarom verzoekt.    
+2. Elke partij verplicht zich, voor zover dit praktisch uitvoerbaar is, een register of registers bij te houden van alle bewijzen en officiële verklaringen genoemd in de voorschriften 3 en II/1 tot en met II/6 die zijn afgegeven, zijn verlopen of zijn verlengd, of als vermist zijn opgegeven, zijn ingetrokken of ongeldig zijn verklaard en van de verleende ontheffingen, en verstrekken informatie over de status van deze bewijzen, officiële verklaringen en ontheffingen wanneer een andere partij daarom verzoekt.   
 
 ### Voorschrift  7  
 
@@ -2050,7 +2050,7 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 2. Bewijzen afgegeven door of op gezag van een staat die geen partij is worden niet erkend.  
 
-3. Niettegenstaande het vereiste van paragraaf 1 van dit voorschrift en paragraaf 5 van voorschrift 3, kan een administratie, indien de omstandigheden dit vereisen, een persoon die in het bezit is van een passend en geldig bewijs afgegeven door een andere partij, maar niet voorzien van een officiële verklaring als vereist door paragraaf 5 van voorschrift 3, toestaan gedurende een periode van ten hoogste drie maanden dienst te doen aan boord van een schip dat gerechtigd is haar vlag te voeren, mits deze persoon een schriftelijk bewijs overlegt waaruit blijkt dat een officiële verklaring bij de administratie is aangevraagd.    
+3. Niettegenstaande het vereiste van paragraaf 1 van dit voorschrift en paragraaf 5 van voorschrift 3, kan een administratie, indien de omstandigheden dit vereisen, een persoon die in het bezit is van een passend en geldig bewijs afgegeven door een andere partij, maar niet voorzien van een officiële verklaring als vereist door paragraaf 5 van voorschrift 3, toestaan gedurende een periode van ten hoogste drie maanden dienst te doen aan boord van een schip dat gerechtigd is haar vlag te voeren, mits deze persoon een schriftelijk bewijs overlegt waaruit blijkt dat een officiële verklaring bij de administratie is aangevraagd.   
 
 ### Voorschrift  8  
 
@@ -2066,7 +2066,7 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 .2 bewijzen hebben overgelegd dat zij die dienst naar behoren hebben vervuld; en  
 
-.3 ten genoegen van de administratie hebben aangetoond medisch geschikt te zijn, met inbegrip van hun gezichts- en hoorvermogen, rekening houdend met hun leeftijd ten tijde van het aanvragen van het bewijs.   Voor de toepassing van het Verdrag wordt een krachtens deze paragraaf afgegeven bewijs van diensttijd beschouwd als gelijkwaardig aan een krachtens het Verdrag afgegeven bewijs.    
+.3 ten genoegen van de administratie hebben aangetoond medisch geschikt te zijn, met inbegrip van hun gezichts- en hoorvermogen, rekening houdend met hun leeftijd ten tijde van het aanvragen van het bewijs.   Voor de toepassing van het Verdrag wordt een krachtens deze paragraaf afgegeven bewijs van diensttijd beschouwd als gelijkwaardig aan een krachtens het Verdrag afgegeven bewijs.   
 
 ### Voorschrift  9  
 
@@ -2076,7 +2076,7 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 2. Elke ten aanzien van een functie verleende ontheffing wordt slechts verleend aan een persoon die in het bezit is van het juiste bewijs voor de functie onmiddellijk daaronder. Indien het Verdrag geen bewijs vereist voor de functie daaronder, kan ontheffing worden verleend aan een persoon wiens bekwaamheden en ervaring naar het oordeel van de administratie duidelijk overeenstemmen met de eisen voor de te bezetten functie, mits van een dergelijke persoon, indien hij het vereiste bewijs niet bezit, wordt verlangd dat hij een test aflegt die door de administratie is aanvaard als bewijs dat die ontheffing zonder gevaar kan worden gegeven. Bovendien moet de administratie waarborgen dat de desbetreffende functie zo spoedig mogelijk wordt vervuld door iemand die een passend bewijs bezit.  
 
-3. Elke partij zendt zo spoedig mogelijk na 1 januari van ieder jaar een verslag aan de Secretaris-Generaal, met gegevens over het totale aantal ontheffingen met betrekking tot iedere hoedanigheid waarvoor een bewijs vereist is, met inbegrip van nihil.    
+3. Elke partij zendt zo spoedig mogelijk na 1 januari van ieder jaar een verslag aan de Secretaris-Generaal, met gegevens over het totale aantal ontheffingen met betrekking tot iedere hoedanigheid waarvoor een bewijs vereist is, met inbegrip van nihil.   
 
 ### Voorschrift  10  
 
@@ -2084,13 +2084,13 @@ De administratie van een partij kan, indien zij het onredelijk of ondoenlijk ach
 
 1. Het Verdrag belet een partij niet andere regelingen inzake theoretische en praktische opleiding te handhaven of in te voeren, met inbegrip van regelingen inzake de dienst buitengaats en inzake de organisatie aan boord van het schip, die in het bijzonder zijn aangepast aan technische ontwikkelingen en aan bijzondere typen schepen, mits het niveau van de dienst buitengaats en van de kennis van en de geschiktheid voor de nautische en technische behandeling van schepen en de lading een mate van veiligheid op zee waarborgt en een preventief effect ten aanzien van vervuiling heeft, die ten minste gelijkwaardig zijn aan de eisen van het Verdrag.  
 
-2. De bijzonderheden van dergelijke regelingen worden opgenomen in het in artikel 4 bedoelde verslag.    
+2. De bijzonderheden van dergelijke regelingen worden opgenomen in het in artikel 4 bedoelde verslag.   
 
 ### HOOFDSTUK  II  
 
 ####DIPLOMERING VAN KAPITEINS, OFFICIEREN, SCHEEPSWERKTUIGKUNDIGEN EN RADIO-OPERATORS
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Voorschrift  1  
 
@@ -2104,7 +2104,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .2 voldoen aan de eisen inzake diplomering van officier belast met de brugwacht op vissersschepen met een lengte van 24 meter of meer die varen in onbegrensde wateren, en in de hoedanigheid van officier belast met de brugwacht of kapitein op een vissersschip met een lengte van ten minste 12 meter een goedgekeurde diensttijd buitengaats hebben vervuld van ten minste 12 maanden. De partij kan evenwel toestaan dat van deze periode een periode van goedgekeurde diensttijd buitengaats van ten hoogste zes maanden wordt vervangen door diensttijd als officier belast met de brugwacht op zeeschepen die vallen onder het [STCW-verdrag van 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md); en  
 
-.3 ten genoegen van de partij een passend examen of passende examens hebben afgelegd voor het beoordelen van de vaarbekwaamheid. Dit examen of deze examens omvatten de stof die vermeld is in het aanhangsel bij dit voorschrift. Kandidaten die een examen willen afleggen en reeds in het bezit zijn van een geldig vaarbevoegdheidsbewijs afgegeven in overeenstemming met de bepalingen van het [STCW-verdrag van 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), hoeven niet opnieuw examen te doen in de in het aanhangsel vermelde vakken indien zij hiervoor op een hoger of gelijkwaardig niveau geslaagd zijn voor de afgifte van een bewijs op grond van het Verdrag.      
+.3 ten genoegen van de partij een passend examen of passende examens hebben afgelegd voor het beoordelen van de vaarbekwaamheid. Dit examen of deze examens omvatten de stof die vermeld is in het aanhangsel bij dit voorschrift. Kandidaten die een examen willen afleggen en reeds in het bezit zijn van een geldig vaarbevoegdheidsbewijs afgegeven in overeenstemming met de bepalingen van het [STCW-verdrag van 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), hoeven niet opnieuw examen te doen in de in het aanhangsel vermelde vakken indien zij hiervoor op een hoger of gelijkwaardig niveau geslaagd zijn voor de afgifte van een bewijs op grond van het Verdrag.     
 
 ####Aanhangsel bij voorschrift 1
 
@@ -2144,7 +2144,7 @@ Kennis die ten minste vereist is voor de diplomering van kapiteins van visserssc
 
 4. Radarnavigatie 
 
-4.1 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in de bediening en het gebruik van radar en in de interpretatie en analyse van de met die uitrusting verkregen gegevens, waaronder: <sup> 9)  Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995.  </sup> 
+4.1 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in de bediening en het gebruik van radar en in de interpretatie en analyse van de met die uitrusting<sup> 9) Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995. </sup> verkregen gegevens, waaronder: 
 
 .1 factoren die de werking en de nauwkeurigheid beïnvloeden;  
 
@@ -2286,7 +2286,7 @@ Kennis die ten minste vereist is voor de diplomering van kapiteins van visserssc
 
 13.3 Gedegen kennis van de toepassing van de inhoud van de volgende publicaties: 
 
-.1 *International Medical Guide for Ships* (internationale medische gids voor schepen) of daarmee overeenkomende nationale publicaties; en  
+.1  *International Medical Guide for Ships* (internationale medische gids voor schepen) of daarmee overeenkomende nationale publicaties; en  
 
 .2 de medische afdeling van het *Internationale Seinboek*.      
 
@@ -2332,11 +2332,11 @@ Kennis die ten minste vereist is voor de diplomering van kapiteins van visserssc
 
 18. Opsporing en redding 
 
-18.1 Gedegen kennis van het *Merchant Ship Search and Rescue Manual**(MERSAR)* (Handboek Opsporing en Redding op zee).    
+18.1 Gedegen kennis van het *Merchant Ship Search and Rescue Manual* *(MERSAR)* (Handboek Opsporing en Redding op zee).    
 
 19. FAO/ILO/IMO *Code of Safety for Fishermen and Fishing Vessels* (Code inzake de veiligheid van vissersschepen en hun opvarenden) 
 
-19.1 Kennis van deel A van de FAO/ILO/IMO *Code of Safety for Fishermen and Fishing Vessels.*    
+19.1 Kennis van deel A van de FAO/ILO/IMO *Code of Safety for Fishermen and Fishing Vessels.*     
 
 20. Methoden voor het aantonen van bekwaamheid 
 
@@ -2362,7 +2362,7 @@ Kennis die ten minste vereist is voor de diplomering van kapiteins van visserssc
 
 20.6 Redding van mensenlevens 
 
-20.6.1 Door het hanteren van reddingsmiddelen, waaronder het aantrekken van reddingsvesten en, wanneer van toepassing, overlevingspakken.        
+20.6.1 Door het hanteren van reddingsmiddelen, waaronder het aantrekken van reddingsvesten en, wanneer van toepassing, overlevingspakken.       
 
 ### Voorschrift  2  
 
@@ -2380,7 +2380,7 @@ Kennis die ten minste vereist is voor de diplomering van kapiteins van visserssc
 
 .4 ten genoegen van de partij met goed gevolg een passend examen of passende examens hebben afgelegd voor het beoordelen van de vaarbekwaamheid. Dit examen of deze examens omvatten de stof die vermeld is in het aanhangsel bij dit voorschrift. Kandidaten die examen willen afleggen en reeds in het bezit zijn van een geldig vaarbevoegdheidsbewijs afgegeven in overeenstemming met de bepalingen van het [STCW-verdrag van 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), hoeven niet opnieuw examen te doen in de in het aanhangsel vermelde vakken indien zij hiervoor op een hoger of gelijkwaardig niveau geslaagd zijn voor de afgifte van een bewijs op grond van het Verdrag;  
 
-.5 voldoen aan de geldende eisen van voorschrift 6 om in voorkomende gevallen radiowerkzaamheden te verrichten in overeenstemming met het Radioreglement.      
+.5 voldoen aan de geldende eisen van voorschrift 6 om in voorkomende gevallen radiowerkzaamheden te verrichten in overeenstemming met het Radioreglement.     
 
 ####Aanhangsel bij voorschrift 2
 
@@ -2404,7 +2404,7 @@ Kennis die ten minste vereist is voor de diplomering van officieren belast met d
 
 4. Radarnavigatie 
 
-4.1 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in het gebruik van radar en in de interpretatie en analyse van de met die uitrusting verkregen gegevens, waaronder: <sup> 10)  Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995.  </sup> 
+4.1 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in het gebruik van radar en in de interpretatie en analyse van de met die uitrusting<sup> 10) Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995. </sup> verkregen gegevens, waaronder: 
 
 .1 factoren die de werking en de nauwkeurigheid beïnvloeden;  
 
@@ -2498,7 +2498,7 @@ Kennis die ten minste vereist is voor de diplomering van officieren belast met d
 
 20. Voorkomen van verontreiniging van het mariene milieu Kennis van de te nemen voorzorgsmaatregelen om verontreiniging van het mariene milieu te voorkomen.  
 
-21. Methoden voor het aantonen van bekwaamheid De partij schrijft methoden voor het aantonen van bekwaamheid wat betreft de verschillende eisen van dit aanhangsel voor.    
+21. Methoden voor het aantonen van bekwaamheid De partij schrijft methoden voor het aantonen van bekwaamheid wat betreft de verschillende eisen van dit aanhangsel voor.   
 
 ### Voorschrift  3  
 
@@ -2516,7 +2516,7 @@ Kennis die ten minste vereist is voor de diplomering van officieren belast met d
 
 3. De partij, rekening houdend met de gevolgen voor de veiligheid van alle schepen en structuren die in dezelfde begrensde wateren opereren, moet de begrensde wateren die zij in overeenstemming met de begripsomschrijving in voorschrift I/1 heeft omschreven, in overweging nemen en bepalen welk aanvullend materiaal moet worden opgenomen in het examen of de examens.  
 
-4. Kandidaten die examen willen afleggen en reeds in het bezit zijn van een geldig vaarbevoegdheidsbewijs afgegeven in overeenstemming met de bepalingen van het [STCW-verdrag van 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), hoeven niet opnieuw examen te doen in de in het aanhangsel vermelde vakken indien zij hiervoor op een hoger of gelijkwaardig niveau geslaagd zijn voor de afgifte van een bewijs op grond van het Verdrag.    
+4. Kandidaten die examen willen afleggen en reeds in het bezit zijn van een geldig vaarbevoegdheidsbewijs afgegeven in overeenstemming met de bepalingen van het [STCW-verdrag van 1978](../../../../../../../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), hoeven niet opnieuw examen te doen in de in het aanhangsel vermelde vakken indien zij hiervoor op een hoger of gelijkwaardig niveau geslaagd zijn voor de afgifte van een bewijs op grond van het Verdrag.   
 
 ####Aanhangsel bij voorschrift 3
 
@@ -2556,7 +2556,7 @@ Kennis die ten minste vereist is voor de diplomering van kapiteins van visserssc
 
 4.1 De partij beslist of de onderstaande radarsyllabus al dan niet wordt opgenomen in de algemene vereisten voor de diplomering van kapiteins. Indien de partij besluit de syllabus niet op te nemen in de algemene vereisten, waarborgt zij dat met de syllabus rekening wordt gehouden bij de diplomering van kapiteins van schepen die zijn uitgerust met radarapparatuur en die in begrensde wateren varen.  
 
-4.2 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in het gebruik van radar en in de interpretatie en analyse van de met die uitrusting verkregen gegevens, waaronder: <sup> 11)  Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995.  </sup> 
+4.2 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in het gebruik van radar en in de interpretatie en analyse van de met die uitrusting<sup> 11) Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995. </sup> verkregen gegevens, waaronder: 
 
 .1 factoren die de juiste werking en de nauwkeurigheid beïnvloeden;  
 
@@ -2704,7 +2704,7 @@ Kennis die ten minste vereist is voor de diplomering van kapiteins van visserssc
 
 17. De FAO/ILO/IMO Code of Safety for Fishermen and Fishing Vessels, Deel A Kennis van de delen van de FAO/ILO/IMO Code of Safety for Fishermen and Fishing Vessels zoals door de partij kan worden vereist.  
 
-18. Methoden voor het aantonen van bekwaamheid De partij schrijft passende methoden het aantonen van bekwaamheid wat betreft de verschillende eisen van dit aanhangsel voor.    
+18. Methoden voor het aantonen van bekwaamheid De partij schrijft passende methoden het aantonen van bekwaamheid wat betreft de verschillende eisen van dit aanhangsel voor.   
 
 ### Voorschrift  4  
 
@@ -2746,7 +2746,7 @@ Kennis die ten minste vereist is voor de diplomering van officieren belast met d
 
 3.1 De partij beslist of de onderstaande radarsyllabus al dan niet wordt opgenomen in de algemene vereisten voor de diplomering van officieren belast met de brugwacht. Indien de partij heeft besloten de syllabus niet op te nemen in de algemene vereisten, waarborgt zij dat met de syllabus rekening wordt gehouden bij de diplomering van officieren belast met de brugwacht op schepen die zijn uitgerust met radarapparatuur en die in begrensde wateren varen.  
 
-3.2 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in het gebruik van radar en in de interpretatie en analyse van de met die uitrusting verkregen gegevens, waaronder: <sup> 12)  Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995.  </sup> 
+3.2 Aantonen, met behulp van een radarsimulator of indien deze niet beschikbaar is, de plotkaart, dat men kennis bezit van de principes en werking van radar, en bekwaamheid in het gebruik van radar en in de interpretatie en analyse van de met die uitrusting<sup> 12) Verwezen wordt naar resolutie 2 van de STCW-F-conferentie in 1995. </sup> verkregen gegevens, waaronder: 
 
 .1 factoren die de werking en de nauwkeurigheid beïnvloeden;  
 
@@ -2852,7 +2852,7 @@ Kennis die ten minste vereist is voor de diplomering van officieren belast met d
 
 18. Methoden voor het aantonen van bekwaamheid 
 
-18.1 De partij schrijft methoden voor het aantonen van bekwaamheid wat betreft de verschillende eisen van dit aanhangsel voor.      
+18.1 De partij schrijft methoden voor het aantonen van bekwaamheid wat betreft de verschillende eisen van dit aanhangsel voor.     
 
 ### Voorschrift  5  
 
@@ -2876,7 +2876,7 @@ Kennis die ten minste vereist is voor de diplomering van officieren belast met d
 
 3. Bij de opleiding om de nodige theoretische kennis te verkrijgen en de nodige praktijkervaring op te doen, dient rekening te worden gehouden met de desbetreffende internationale voorschriften en aanbevelingen.  
 
-4. Het niveau van de vereiste kennis volgens de verschillende onderdelen van het aanhangsel kan verschillen naargelang het bewijs wordt afgegeven op het niveau van hoofdwerktuigkundige of tweede scheepswerktuigkundige.    
+4. Het niveau van de vereiste kennis volgens de verschillende onderdelen van het aanhangsel kan verschillen naargelang het bewijs wordt afgegeven op het niveau van hoofdwerktuigkundige of tweede scheepswerktuigkundige.   
 
 ####Aanhangsel bij voorschrift 5
 
@@ -2954,13 +2954,13 @@ Kennis die ten minste vereist is voor de diplomering van hoofdwerktuigkundigen e
 
 5. Iedere kandidaat moet kennis bezitten van het internationale recht als neergelegd in internationale overeenkomsten en verdragen, voor zover deze betrekking hebben op de bijzondere verplichtingen en verantwoordelijkheden van het personeel dat dienst doet in de machinekamer, in het bijzonder die inzake de veiligheid en bescherming van het mariene milieu. De mate van kennis van het nationale recht betreffende de scheepvaart wordt overgelaten aan het oordeel van de partij; deze kennis moet in elk geval bepalingen ter uitvoering van de internationale overeenkomsten en verdragen omvatten.  
 
-6. Iedere kandidaat moet kennis bezitten van personeelsmanagement en de organisatie en opleiding van het personeel aan boord van vissersschepen.    
+6. Iedere kandidaat moet kennis bezitten van personeelsmanagement en de organisatie en opleiding van het personeel aan boord van vissersschepen.   
 
 ### Voorschrift  6  
 
 ####Verplichte minimumeisen inzake diplomering van personeel dat belast is met radiocommunicatietaken aan boord van vissersschepen
 
-Verklarende noot: Dwingende bepalingen inzake de radioluisterwacht zijn opgenomen in het Radioreglement en in het Protocol van Torremolinos van 1993. Bepalingen inzake het onderhoud van radioapparatuur zijn opgenomen in het Protocol van Torremolinos van 1993 en in de door de Organisatie aangenomen richtlijnen. <sup> 13)  Verwezen wordt naar de aanbeveling voor het onderhoud vanradioapparatuur ten behoeve van het wereldomvattend maritieme systeem voor noodgevallen en veiligheid (GMDSS) met betrekking tot de zeegebieden A3 en A4 die de Organisatie heeft aangenomen bij resolutie A.702(17).  </sup> Toepassing 
+Verklarende noot: Dwingende bepalingen inzake de radioluisterwacht zijn opgenomen in het Radioreglement en in het Protocol van Torremolinos van 1993. Bepalingen inzake het onderhoud van radioapparatuur zijn opgenomen in het Protocol van Torremolinos van 1993 en in de door de Organisatie aangenomen richtlijnen.<sup> 13) Verwezen wordt naar de aanbeveling voor het onderhoud vanradioapparatuur ten behoeve van het wereldomvattend maritieme systeem voor noodgevallen en veiligheid (GMDSS) met betrekking tot de zeegebieden A3 en A4 die de Organisatie heeft aangenomen bij resolutie A.702(17). </sup>  Toepassing 
 
 1. Uitgezonderd de bepalingen van paragraaf 2, zijn de bepalingen van dit voorschrift van toepassing op personeel dat belast is met radiocommunicatietaken aan boord van een schip dat uit hoofde van internationale overeenkomsten of nationale wetgeving verplicht is radioapparatuur aan boord te hebben die gebruikmaakt van de frequenties en technieken van het wereldomvattend maritieme systeem voor noodgevallen en veiligheid (GMDSS).  
 
@@ -2980,7 +2980,7 @@ Verklarende noot: Dwingende bepalingen inzake de radioluisterwacht zijn opgenome
 
 4. Van iedere kandidaat die in aanmerking wil komen voor een bewijs wordt verlangd dat hij ten genoegen van de partij met goed gevolg een examen of examens aflegt.  
 
-5. Voor de officiële verklaringen voor alle soorten bewijzen die worden afgegeven uit hoofde van de bepalingen van het Radioreglement als zijnde in overeenstemming met de vereisten van het Verdrag, worden de vereisten wat betreft kennis, begrip en bekwaamheid vermeld in het aanhangsel bij dit voorschrift. Bij het bepalen van het passende niveau van kennis en opleiding moet de partij tevens rekening houden met de relevante aanbevelingen van de Organisatie. <sup> 14)  Verwezen wordt naar de aanbevelingen betreffende de opleiding van GMDSS-radio-operators aangenomen door de Organisatie bij resolutie A.703(17).  </sup>    
+5. Voor de officiële verklaringen voor alle soorten bewijzen die worden afgegeven uit hoofde van de bepalingen van het Radioreglement als zijnde in overeenstemming met de vereisten van het Verdrag, worden de vereisten wat betreft kennis, begrip en bekwaamheid vermeld in het aanhangsel bij dit voorschrift. Bij het bepalen van het passende niveau van kennis en opleiding moet de partij tevens rekening houden met de relevante aanbevelingen van de Organisatie.<sup> 14) Verwezen wordt naar de aanbevelingen betreffende de opleiding van GMDSS-radio-operators aangenomen door de Organisatie bij resolutie A.703(17). </sup>    
 
 ####Aanhangsel bij voorschrift 6
 
@@ -2990,7 +2990,7 @@ Minimumeisen inzake aanvullende kennis en opleiding van GMDSS-radio-operators
 
 .1 verzorgen van radiodiensten in noodsituaties;  
 
-.2 radiocommunicatie bij opsporings- en reddingsoperaties, met inbegrip van de procedures in het *Merchant Ship Search and Rescue Manual (MERSAR);*  
+.2 radiocommunicatie bij opsporings- en reddingsoperaties, met inbegrip van de procedures in het *Merchant Ship Search and Rescue Manual (MERSAR);*   
 
 .3 de middelen om valse noodsignalen te voorkomen en procedures om de gevolgen van valse noodsignalen te verminderen;  
 
@@ -3000,7 +3000,7 @@ Minimumeisen inzake aanvullende kennis en opleiding van GMDSS-radio-operators
 
 .6 gebruik van het Internationale Seinboek en de Standard Marine Communication Phrases; en  
 
-.7 preventieve maatregelen voor de veiligheid van het schip en het personeel in verband met gevaren ten gevolge van de aanwezigheid en het gebruik van radioapparatuur, met inbegrip van de gevaren van elektriciteit of niet-ioniserende straling.      
+.7 preventieve maatregelen voor de veiligheid van het schip en het personeel in verband met gevaren ten gevolge van de aanwezigheid en het gebruik van radioapparatuur, met inbegrip van de gevaren van elektriciteit of niet-ioniserende straling.     
 
 ### Voorschrift  7  
 
@@ -3018,11 +3018,11 @@ Minimumeisen inzake aanvullende kennis en opleiding van GMDSS-radio-operators
 
 .3.2 met goed gevolg hebben afgelegd van een goedgekeurde cursus of cursus die geschikt is voor kapiteins, officieren en scheepswerktuigkundigen die dienst doen op vissersschepen, met name degenen die na een periode aan de wal weer een diensttijd buitengaats op deze schepen gaan vervullen; of  
 
-.3.3 hebben voltooid van een goedgekeurde diensttijd buitengaats van ten minste drie maanden als officier op een vissersschip als boventallig lid, onmiddellijk voorafgaand aan het tijdstip waarop hij weer de functie gaat vervullen waarvoor het bewijs geldig is.      
+.3.3  hebben voltooid van een goedgekeurde diensttijd buitengaats van ten minste drie maanden als officier op een vissersschip als boventallig lid, onmiddellijk voorafgaand aan het tijdstip waarop hij weer de functie gaat vervullen waarvoor het bewijs geldig is.      
 
 2. De door dit voorschrift vereiste herhalings- en bijscholingscursussen moeten worden goedgekeurd door de administratie en de teksten omvatten van recente wijzigingen in de internationale regelgeving met betrekking tot de beveiliging van mensenlevens op zee en de bescherming van het mariene milieu.  
 
-3. De administratie waarborgt dat de teksten van recente wijzigingen in de internationale regelgeving met betrekking tot de beveiliging van mensenlevens op zee en de bescherming van het mariene milieu ter beschikking worden gesteld van de schepen die onder haar rechtsmacht vallen.    
+3. De administratie waarborgt dat de teksten van recente wijzigingen in de internationale regelgeving met betrekking tot de beveiliging van mensenlevens op zee en de bescherming van het mariene milieu ter beschikking worden gesteld van de schepen die onder haar rechtsmacht vallen.   
 
 ### Voorschrift  8  
 
@@ -3042,13 +3042,13 @@ Minimumeisen inzake aanvullende kennis en opleiding van GMDSS-radio-operators
 
 2. Wanneer nieuwe werkwijzen, uitrusting of procedures worden verplicht aan boord van schepen die gerechtigd zijn haar vlag te voeren, kan een partij van GMDSS-radio-operators verlangen dat zij een goedgekeurd examen afleggen of met goed gevolg een goedgekeurde cursus of cursussen volgen, buitengaats of aan de wal, in het bijzonder in verband met taken op het gebied van de veiligheid.  
 
-3. De administratie waarborgt dat de teksten van recente wijzigingen in de internationale regelgeving met betrekking tot radiocommunicatie die van belang zijn voor de beveiliging van mensenlevens op zee ter beschikking worden gesteld van de schepen die gerechtigd zijn haar vlag te voeren.    
+3. De administratie waarborgt dat de teksten van recente wijzigingen in de internationale regelgeving met betrekking tot radiocommunicatie die van belang zijn voor de beveiliging van mensenlevens op zee ter beschikking worden gesteld van de schepen die gerechtigd zijn haar vlag te voeren.   
 
 ### HOOFDSTUK  III  
 
 ####BASISOPLEIDING VEILIGHEID VOOR AL HET PERSONEEL VAN VISSERSSCHEPEN
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Voorschrift  1  
 
@@ -3068,13 +3068,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 .6 voorkomen van ongevallen aan boord.    
 
-2. Bij de implementatie van de bepalingen van paragraaf 1, bepaalt de administratie of, en zo ja, in welke mate deze bepalingen van toepassing zijn op personeel van kleine vissersschepen of personeel dat reeds dienst doet op vissersschepen.    
+2. Bij de implementatie van de bepalingen van paragraaf 1, bepaalt de administratie of, en zo ja, in welke mate deze bepalingen van toepassing zijn op personeel van kleine vissersschepen of personeel dat reeds dienst doet op vissersschepen.   
 
 ### HOOFDSTUK  IV  
 
 ####WACHTDIENST
 
-Treedt in werking op een nader te bepalen tijdstip   
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Voorschrift  1  
 
@@ -3206,10 +3206,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 7. Ankerwacht De kapitein waarborgt, met het oog op de veiligheid van het schip en zijn bemanning, dat er te allen tijde een goede wacht wordt gehouden op de brug of aan dek van vissersschepen die voor anker liggen.  
 
-8. Radioluisterwacht De kapitein waarborgt dat een adequate radioluisterwacht wordt gehouden wanneer het schip op zee is, op de juiste frequenties, rekening houdend met de vereisten van het Radioreglement.    
+8. Radioluisterwacht De kapitein waarborgt dat een adequate radioluisterwacht wordt gehouden wanneer het schip op zee is, op de juiste frequenties, rekening houdend met de vereisten van het Radioreglement.   
 
-### Aanhangsel  1   
-Treedt in werking op een nader te bepalen tijdstip   
+### Aanhangsel  1  
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -3256,8 +3256,8 @@ Treedt in werking op een nader te bepalen tijdstip
 | Datum van de verlenging ..........  | ..........   *Naam van bevoegde ambtenaar*   |
 | --- |
 
-### Aanhangsel  2   
-Treedt in werking op een nader te bepalen tijdstip   
+### Aanhangsel  2  
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
@@ -3302,8 +3302,8 @@ Treedt in werking op een nader te bepalen tijdstip
 | Datum van de verlenging ..........  | ..........   *Naam van bevoegde ambtenaar*   |
 | --- |
 
-### Aanhangsel  3   
-Treedt in werking op een nader te bepalen tijdstip   
+### Aanhangsel  3  
+Treedt in werking op een nader te bepalen tijdstip 
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
