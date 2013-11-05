@@ -3,14 +3,14 @@
 ##Deelregeling Werkbijdrage Jong Talent
 
 Het bestuur van het Mondriaan Fonds,  
-Gelet op artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid;
+Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
 Besluit:    
 
 ### Artikel  1  
 
 ####Doel
 
-Deze regeling is bedoeld voor startende, veelbelovende beeldend kunstenaars te stimuleren om hun artistieke ontwikkeling en cultureel ondernemerschap te ontwikkelen opdat werk tot stand komt dat een betekenisvolle bijdrage kan leveren aan de hedendaagse beeldende kunst in Nederland.  
+Deze regeling is bedoeld voor startende, veelbelovende beeldend kunstenaars te stimuleren om hun artistieke ontwikkeling en cultureel ondernemerschap te ontwikkelen opdat werk tot stand komt dat een betekenisvolle bijdrage kan leveren aan de hedendaagse beeldende kunst in Nederland. 
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ Deze regeling is bedoeld voor startende, veelbelovende beeldend kunstenaars te s
 5.  Het in het derde lid van dit artikel gestelde geldt niet voor die instellingen waarvoor een beurs praktijkverdieping kan worden aangevraagd die door het Mondriaan Fonds verstrekt kan worden.   
 6.  Een bijdrage talentontwikkeling kan slechts worden verstrekt voor zover het belastbaar inkomen van de aanvrager in het jaar of de jaren waarin de periode valt waarover de financiële bijdrage zich uitstrekt naar verwachting lager zal zijn dan een door het bestuur vast te stellen bedrag.   
 7.  Een bijdrage talentontwikkeling wordt niet toegekend gedurende de periode waarin een aanvrager deelnemer is bij een instelling waarvoor een beurs praktijkverdieping kan worden aangevraagd die door het Mondriaan Fonds verstrekt kan worden.   
-8.  Bijdragen talentontwikkeling kunnen aan dezelfde kunstenaar voor ten hoogste 12 maanden verstrekt worden.   
+8.  Bijdragen talentontwikkeling kunnen aan dezelfde kunstenaar voor ten hoogste 12 maanden verstrekt worden.  
 
 ### Artikel  3  
 
@@ -31,13 +31,13 @@ Deze regeling is bedoeld voor startende, veelbelovende beeldend kunstenaars te s
 
 1.  Om de effectiviteit van de Werkbijdrage Jong Talent te vergroten, wordt de mogelijkheid geboden gemotiveerde talentvolle startende beeldend kunstenaars die een Werkbijdrage Jong Talent hebben ontvangen te koppelen aan de expertise van ervaren en succesvolle beeldend kunstenaars, curatoren en andere bemiddelaars. Door deze koppeling worden de artistiek inhoudelijke ontwikkeling en het cultureel ondernemerschap van talentvolle beginnende kunstenaar gestimuleerd.   
 2.  Van het Meester-Gezeltraject kan gebruik gemaakt worden binnen 18 maanden na toekenning van een Werkbijdrage Jong Talent. Kunstenaars die in 2012 een startstipendium hebben ontvangen, kunnen tot uiterlijk juni 2014 gebruik maken van dit traject.   
-3.  Voor deelname aan het traject wordt een eigen bijdrage van de kunstenaar gevraagd. In de toelichting bij het aanvraagformulier is de hoogte van de eigen bijdrage genoemd.   
+3.  Voor deelname aan het traject wordt een eigen bijdrage van de kunstenaar gevraagd. In de toelichting bij het aanvraagformulier is de hoogte van de eigen bijdrage genoemd.  
 
 ### Artikel  4  
 
 ####Aanvraag
 
-Naast het bepaalde in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarbij dient de aanvraag voor een bijdrage talentontwikkeling vergezeld te gaan van visueel documentatiemateriaal, een cv, een werkplan en een presentatievoorstel. Indien de aanvrager in aanmerking wil komen voor het Meester-Gezeltraject, dient de aanvraag voorzien te zijn van een motivatie die aansluit bij het werk- en presentatieplan.  
+Naast het bepaalde in het Algemeen reglement, in het aanvraagformulier en in de toelichting daarbij dient de aanvraag voor een bijdrage talentontwikkeling vergezeld te gaan van visueel documentatiemateriaal, een cv, een werkplan en een presentatievoorstel. Indien de aanvrager in aanmerking wil komen voor het Meester-Gezeltraject, dient de aanvraag voorzien te zijn van een motivatie die aansluit bij het werk- en presentatieplan.
 
 ### Artikel  5  
 
@@ -58,19 +58,19 @@ Naast het bepaalde in het Algemeen reglement, in het aanvraagformulier en in de 
 3.  Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde prestaties van de aanvrager wel van voldoende belang acht, beoordeelt het het bij de aanvraag behorende presentatie- en werkplan.   
 4.  Indien het bevoegd adviesorgaan de in het eerste en derde lid genoemde aspecten in onderlinge samenhang positief beoordeelt brengt het een positief advies uit.   
 5.  Indien het bevoegd adviesorgaan de in het eerste en derde lid genoemde aspecten in onderlinge samenhang negatief beoordeelt, brengt het een negatief advies uit.   
-6.  Het bestuur kan het bevoegd adviesorgaan in verband met het beperkte budget verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 1 van dit artikel. Alsdan onderbouwt het adviesorgaan zijn prioritering.   
+6.  Het bestuur kan het bevoegd adviesorgaan in verband met het beperkte budget verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in lid 1 van dit artikel. Alsdan onderbouwt het adviesorgaan zijn prioritering.  
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2012, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2013. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Werkbijdrage Jong Talent.  
+Deze regeling wordt aangehaald als: Deelregeling Werkbijdrage Jong Talent. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Mondriaan Fonds, 

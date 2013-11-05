@@ -10,7 +10,7 @@ Besluit:
 
 ####Doel
 
-Deze regeling is bedoeld om bij te dragen aan de internationale positie van hedendaagse beeldende kunst uit Nederland door galeries en kunstbeurzen te stimuleren werk van levende beeldend kunstenaars uit Nederland te tonen op kunstbeurzen van internationaal belang. De bijdrage kan worden gegeven voor bestaand werk of speciaal voor de beurs vervaardigd werk. Deze stimulans moet leiden tot een versterking van de bekendheid van en de internationale waardering voor relevante hedendaagse beeldende kunst uit Nederland.  
+Deze regeling is bedoeld om bij te dragen aan de internationale positie van hedendaagse beeldende kunst uit Nederland door galeries en kunstbeurzen te stimuleren werk van levende beeldend kunstenaars uit Nederland te tonen op kunstbeurzen van internationaal belang. De bijdrage kan worden gegeven voor bestaand werk of speciaal voor de beurs vervaardigd werk. Deze stimulans moet leiden tot een versterking van de bekendheid van en de internationale waardering voor relevante hedendaagse beeldende kunst uit Nederland. 
 
 ### Artikel  2  
 
@@ -37,7 +37,7 @@ Deze regeling is bedoeld om bij te dragen aan de internationale positie van hede
 
 – De kunstenaar is ten minste vier jaar professioneel werkzaam als beeldend kunstenaar dan wel heeft ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten gevolgd en is ten minste één jaar professioneel werkzaam geweest als beeldend kunstenaar.  
 
-– Maximaal 50% van de met de productie van nieuw werk gemoeide kosten komen in aanmerking voor een bijdrage. In de begroting dient een reële vergoeding van de aanvrager voor de kunstenaar te zijn opgenomen.     
+– Maximaal 50% van de met de productie van nieuw werk gemoeide kosten komen in aanmerking voor een bijdrage. In de begroting dient een reële vergoeding van de aanvrager voor de kunstenaar te zijn opgenomen.    
 
 ### Artikel  3  
 
@@ -75,14 +75,14 @@ Deze regeling is bedoeld om bij te dragen aan de internationale positie van hede
 
 – Een presentatieplan.  
 
-– Een dekkende begroting, inclusief een, voor zover mogelijk, reëel honorarium voor de kunstenaar.     
+– Een dekkende begroting, inclusief een, voor zover mogelijk, reëel honorarium voor de kunstenaar.    
 
 ### Artikel  4  
 
 ####Beoordeling.
 
 1.  Bij de beoordeling van aanvragen voor een bijdrage in de standhuur, zoals bedoeld in artikel 2 derde lid, stelt het Mondriaan Fonds na advies van het bevoegd adviesorgaan een lijst kunstbeurzen met internationale uitstraling vast. Indien een galerie is toegelaten voor deelname aan één van deze beurzen wordt de aanvraag toegekend, mits deze voldoet aan de overige voorwaarden van deze regeling en aan het Algemeen Reglement.   
-2.  Indien een galerie een aanvraag indient voor deelname aan een beurs die niet op de in het eerste lid bedoelde lijst staat, dient de aanvrager het belang van deelname aan deze beurs specifiek te onderbouwen.   
+2.  Indien een galerie een aanvraag indient voor deelname aan een beurs die niet op de in het eerste lid bedoelde lijst staat, dient de aanvrager het belang van deelname aan deze beurs specifiek te onderbouwen.  
 
 ### Artikel  5  
 
@@ -116,19 +116,19 @@ Deze regeling is bedoeld om bij te dragen aan de internationale positie van hede
 6.  Indien het bevoegd adviesorgaan de in het eerste lid en voorzover van toepassing het in het tweede lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag.   
 7.  Indien het bevoegd adviesorgaan het in het in het eerste lid en voorzover van toepassing het in het tweede lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.   
 8.  Een positief advies kan vergezeld gaan van een aanbeveling over de hoogte van de toe te kennen bijdrage alsmede de periode waarover de financiële bijdrage verstrekt wordt.   
-9.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste lid van dit artikel. Alsdan onderbouwt het die prioritering.   
+9.  Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste lid van dit artikel. Alsdan onderbouwt het die prioritering.  
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 oktober 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 oktober 2013, treedt de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2013.  
+Deze regeling treedt in werking met ingang van 1 oktober 2013. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 oktober 2013, treedt de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 oktober 2013. 
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Deelregeling Kunstbeurzen.  
+Deze regeling wordt aangehaald als: Deelregeling Kunstbeurzen. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De stichting Mondriaan Fonds, 
