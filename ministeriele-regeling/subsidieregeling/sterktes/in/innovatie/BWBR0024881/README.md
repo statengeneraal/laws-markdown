@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 3 december 2008, nr. WJZ/8187136, houdende vaststelling van subsidie-instrumenten op het terrein van sterktes in innovatie (Subsidieregeling sterktes in innovatie)
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 3, tweede lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [4](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [5, derde en vierde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [6, derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [9, eerste lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [12, vierde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [13](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [14](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [15](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [17, eerste en derde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [18, eerste en vijfde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [19, eerste lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [21](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [25](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [44](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [50, tweede lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [53, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);
+Gelet op de artikelen 3, tweede lid, 4, 5, derde en vierde lid, 6, derde lid, 9, eerste lid, 12, vierde lid, 13, 14, 15, 17, eerste en derde lid, 18, eerste en vijfde lid, 19, eerste lid, 21, 25, 44, 50, tweede lid, en 53, eerste lid, van het Kaderbesluit EZ-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -33,17 +33,17 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  1.2  
 
-1.  Het rapport van feitelijke bevindingen, bedoeld in [artikel 12, derde lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt opgesteld op basis van het protocol dat is opgenomen in bijlage 1.1 bij deze regeling   
-2.  Als rapport als bedoeld in [artikel 12, vierde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van verordening (EG) nr. 1906/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU L 391) en, indien de subsidie-ontvanger daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.   
+1.  Het rapport van feitelijke bevindingen, bedoeld in artikel 12, derde lid, van het Kaderbesluit EZ-subsidies, wordt opgesteld op basis van het protocol dat is opgenomen in bijlage 1.1 bij deze regeling   
+2.  Als rapport als bedoeld in artikel 12, vierde lid, wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van verordening (EG) nr. 1906/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU L 391) en, indien de subsidie-ontvanger daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.   
 
 ### Artikel  1.3  
 
-De vaste opslag voor indirecte kosten, bedoeld in [artikel 13, eerste lid, onderdeel a, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), bedraagt 50 procent van de loonkosten.  
+De vaste opslag voor indirecte kosten, bedoeld in artikel 13, eerste lid, onderdeel a, van het Kaderbesluit EZ-subsidies, bedraagt 50 procent van de loonkosten.  
 
 ### Artikel  1.4  
 
-1.  Het uurtarief, bedoeld in [artikel 13, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), bedraagt € 60.   
-2.  Het uurtarief, bedoeld in [artikel 14 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt € 60.   
+1.  Het uurtarief, bedoeld in artikel 13, tweede lid, van het Kaderbesluit EZ-subsidies, bedraagt € 60.   
+2.  Het uurtarief, bedoeld in artikel 14 van het Kaderbesluit EZ-subsidies bedraagt € 60.   
 
 ### Artikel  1.5  
 
@@ -53,6 +53,514 @@ Deze regeling valt onder de verordening (EG) nr. 800/2008 van de Commissie van d
 
 Indien door de minister op grond van deze regeling een subsidie wordt verleend van minder dan € 25.000, wordt de subsidie ambtshalve vastgesteld.  
 
+### Hoofdstuk  1a  
+
+####Toeslag voor Topconsortia voor Kennis en Innovatie (TKI-toeslag)
+
+### Artikel  1a.1  
+
+####(definities)
+
+In dit hoofdstuk wordt verstaan onder: 
+
+– *TKI:* Topconsortium voor Kennis en Innovatie, zijnde een rechtspersoon die als zodanig is genoemd in de begrotingswet van het jaar waarop de aanvraag, bedoeld in artikel 1a.2, betrekking heeft;  
+
+– *TKI-programma:* op onderzoek en innovatie gericht meerjarig programma, houdende de samenwerkingsprojecten en de innovatie-activiteiten van het TKI;  
+
+– *Samenwerkingsproject:* project dat: 
+
+a. door minimaal twee deelnemers waaronder een onderzoeksorganisatie en een ondernemer wordt uitgevoerd voor gezamenlijke rekening en risico, en  
+
+b. bestaat uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan.    
+
+– *Innovatie-activiteiten:* ondersteunende activiteiten, gericht op het betrekken van MKB-ondernemers bij een samenwerkingsproject of het stimuleren van de valorisatie van de kennis op het terrein van het TKI-programma, bestaande uit: 
+
+a. netwerkactiviteiten, bestaande uit masterclasses, workshops, conferenties of het delen of uitwisselen van informatie via een website om kennisdeling en netwerking tussen MKB-ondernemers te bevorderen, of  
+
+b. innovatieadviesdiensten, bestaande uit managementconsulting gericht op innovatie van producten, processen of diensten, het verlenen van technologische bijstand of diensten inzake technologieoverdracht als bedoeld in artikel 5.6 van de O&O&I-kaderregeling, verstrekt aan een MKB-ondernemer door een innovatiemakelaar;    
+
+– *O&O&I-kaderregeling:* de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/ C 323/01 (PbEU C 323);  
+
+– *private bijdrage:* geldmiddelen die niet direct of indirect afkomstig zijn van: 
+
+a. een onderzoeksorganisatie met inbegrip van de Nederlandse organisatie voor wetenschappelijk onderzoek en de Koninklijke Nederlandse Akademie van Wetenschappen,  
+
+b. een openbaar lichaam, anders dan een productschap als bedoeld in artikel 66, eerste lid, van de Wet op de bedrijfsorganisatie;    
+
+– *geldmiddelen:* chartaal geld, giraal geld of elektronisch geld;  
+
+– *TKI-relevante onderzoeksopdracht:* Een opdracht: 
+
+a. die wordt uitgevoerd door een onderzoeksorganisatie,  
+
+b. die bestaat uit fundamenteel onderzoek, industrieel onderzoek, experimentele ontwikkeling of een combinatie daarvan, en  
+
+c. die kennis oplevert voor de onderzoeksorganisatie die toepasbaar is in binnen het TKI-programma mogelijke samenwerkingsprojecten;    
+
+– *inzet in natura:* op geld waardeerbare inbreng in een samenwerkingsproject die 
+
+a. niet direct of indirect afkomstig is van een onderzoeksorganisatie of een openbaar lichaam als bedoeld in de definitie van private bijdrage, en  
+
+b. wordt berekend op basis van een voor de deelnemers aan een samenwerkingsproject gebruikelijke en controleerbare methode, die gebaseerd is op bedrijfseconomische grondslagen en normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd en die de deelnemers aan een samenwerkingsproject stelselmatig toepassen.      
+
+### Artikel  1a.2  
+
+####(TKI-toeslag)
+
+De Minister verstrekt op aanvraag TKI-toeslag aan een TKI voor: 
+
+a. uitvoering van het TKI-programma (programmatoeslag), of  
+
+b. uitvoering van een bepaald samenwerkingsproject (projecttoeslag).    
+
+### Artikel  1a.3  
+
+####(grondslag programmatoeslag)
+
+1.  De hoogte van de programmatoeslag bedraagt 25% van de som van: 
+
+a. de private bijdragen voor de samenwerkingsprojecten van het TKI-programma, en  
+
+b. de private bijdragen aan TKI-relevante onderzoeksopdrachten,   die in dat jaar blijkens onderbouwing in de aanvraag aan onderzoeksorganisaties verschuldigd zullen worden;   
+2.  Over de eerste € 20.000 van de som van de private bijdragen van een bepaalde deelnemer aan samenwerkingsprojecten van het TKI-programma in dat jaar bedraagt de hoogte van de programmatoeslag, in afwijking van het eerste lid, 40%.   
+3.  De private bijdragen, bedoeld in het eerste lid, onderdeel b, worden in aanmerking genomen tot ten hoogste 40% van de totale programmatoeslag per aanvraag.   
+4.  Het eerste lid, onderdeel b, is niet van toepassing voor zover de uit een TKI-relevante onderzoeksopdracht voortvloeiende kennis van de onderzoeksorganisatie redelijkerwijs slechts ten goede kan of zal komen aan de onderneming, de onderzoeksinstelling, of beide partijen bij de TKI-relevante onderzoeksopdracht.   
+5.  Een TKI bevordert dat kennis die voortvloeit uit TKI-relevante onderzoeksopdrachten waarvoor hij op grond van het eerste lid, onderdeel b, TKI-toeslag heeft ontvangen, daadwerkelijk wordt toegepast binnen een samenwerkingsproject van het TKI-programma.   
+6.  Voor toepassing van het tweede lid kan de waarde van inzet in natura tot ten hoogste € 20.000 als private bijdrage in aanmerking worden genomen.   
+7.  Voor de toepassing van dit artikel worden private bijdragen aan een onderzoeks- of experimenteel ontwikkelingsproject dat op het moment van aanvraag al anders dan als samenwerkingsproject van een TKI-programma wordt uitgevoerd slechts in aanmerking genomen indien bestaande publieke of private bijdragen aan dat project niet bij gelegenheid van opneming in het TKI-programma worden verlaagd.   
+
+### Artikel  1a.4  
+
+####(opgave gerealiseerde private bijdragen)
+
+1.  De ontvanger van programmatoeslag doet binnen twee kalendermaanden na afloop van het jaar waarvoor de toeslag is verstrekt opgave van de private bijdragen en inzet in natura, bedoeld in artikel 1a.3, eerste lid, die in het voorafgaande jaar daadwerkelijk verschuldigd zijn geworden.   
+2.  De toeslag wordt met inachtneming van artikel 4:48 van de Algemene wet bestuursrecht ten nadele van de ontvanger van programmatoeslag gewijzigd indien de opgave daartoe aanleiding geeft.   
+
+### Artikel  1a.4a  
+
+####(projecttoeslag)
+
+1.  De hoogte van de projecttoeslag bedraagt 25% van de som van de private bijdragen die in totaal voor het desbetreffende samenwerkingsproject aan onderzoeksorganisaties verschuldigd zullen worden.   
+2.  Artikel 1a.3, tweede en derde lid, zijn op de hoogte van projecttoeslag van toepassing met dien verstande dat niet de private bijdrage in een jaar maar de private bijdrage voor het project als geheel in aanmerking wordt genomen.   
+3.  De Minister verstrekt uitsluitend projecttoeslag indien de verschuldigdheid van de private bijdragen en de inzet in natura blijkt uit een bij de aanvraag gevoegd afschrift van een ondertekende samenwerkingsovereenkomst.   
+4.  Projecttoeslag wordt niet verstrekt voor samenwerkingsprojecten die een looptijd hebben van meer dan vijf jaar.   
+5.  Op grond van dit artikel voor projecttoeslag in aanmerking genomen private bijdragen en inzet in natura worden niet in aanmerking genomen voor bepaling van de hoogte van de programmatoeslag.   
+
+### Artikel  1a.4b  
+
+####(algemeen nut beogende instellingen)
+
+In afwijking van de artikelen 1a.3, eerste lid, en 1a.4a, eerste lid, worden private bijdragen afkomstig van instellingen als bedoeld in artikel 5b, eerste lid, van de Algemene wet inzake rijksbelastingen, die deelnemen aan samenwerkingsprojecten die passen binnen een programma als bedoeld in artikel 1b.2, eerste lid, tot ten hoogste € 8.000.000 per programma, per jaar in aanmerking genomen. Indien de in een bepaalde openstellingsperiode ingediende aanvragen dit bedrag voor een bepaald programma overschrijden, worden de in de desbetreffende aanvragen opgenomen bedragen op volgorde van binnenkomst in aanmerking genomen.  
+
+### Artikel  1a.5  
+
+####(toewijzingsgronden TKI-toeslag)
+
+1.  De minister verstrekt uitsluitend TKI-toeslag indien ten aanzien van de inzet van TKI-toeslag voor een samenwerkingsproject overeenkomstig artikel 3.2.2 van de O&O&I-kaderregeling wordt verzekerd dat: 
+
+1°. de resultaten van een samenwerkingsproject waaraan geen intellectuele-eigendomsrechten kunnen worden ontleend, ruim mogen worden verspreid en eventuele intellectuele eigendomsrechten die uit de activiteiten van de onderzoeksorganisatie voortvloeien, volledig aan de onderzoeksorganisatie worden toegekend; of  
+
+2°. de onderzoeksorganisatie van de deelnemende ondernemers een vergoeding ontvangt die overeenstemt met de marktprijs voor de intellectuele eigendomsrechten die voortvloeien uit het samenwerkingsproject en die worden overgedragen aan de deelnemende ondernemingen. Eventuele bijdragen van de deelnemende ondernemingen in de kosten van de onderzoeksorganisatie worden in mindering op de compensatie gebracht.     
+2.  De minister verstrekt voorts uitsluitend TKI-toeslag voor zover: 
+
+a. verzekerd is dat op het terrein van het programma werkzame ondernemers en onderzoeksorganisaties onder transparante en redelijke voorwaarden in aanmerking komen voor deelname aan samenwerkingsprojecten die passen in het programma;  
+
+b. het bestaan van samenwerkingsprojecten en de verschuldigdheid van private bijdragen daaraan kan worden aangetoond aan de hand van schriftelijke samenwerkingsovereenkomsten;  
+
+c. de aanwending van de TKI-toeslag meerwaarde levert voor het TKI-programma;  
+
+d. het samenwerkingsproject waarvoor de TKI-toeslag wordt aangewend bijdraagt aan de Nederlandse kennisinfrastructuur;  
+
+e. een bepaald samenwerkingsproject of een bepaalde innovatie-activiteit niet is gestart voorafgaand aan de eerste aanvraag waarbij aanwending van TKI toeslag voor dat project of die activiteit werd aangevraagd.     
+
+### Artikel  1a.6  
+
+####(aanwenden TKI-toeslag)
+
+1.  De ontvanger van TKI-toeslag wendt de TKI-toeslag zodanig aan dat het totale bedrag aan steun dat voor een samenwerkingsproject beschikbaar is niet meer bedraagt dan: 
+
+a. 85 procent van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek,  
+
+b. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek, en  
+
+c. 25 procent van de subsidiabele kosten voor zover deze betrekking hebben op experimentele ontwikkeling.     
+2.  Het TKI wendt de TKI-toeslag voor innovatie-activiteiten zodanig aan dat: 
+
+a. bij netwerkactiviteiten: 
+
+1°. slechts aan derden verschuldigde kosten met betrekking tot de netwerkactiviteiten met TKI-toeslag betaald worden,  
+
+2°. de opdrachtverlening door de ontvanger van TKI-toeslag aan derden plaats vindt op basis van transparante criteria en tegen marktconforme tarieven,  
+
+3°. de netwerkactiviteiten en hieruit voortkomende resultaten voor iedere MKB-onderneming zonder onderscheid toegankelijk zijn, en  
+
+4°. indien de netwerkactiviteiten niet voortdurend en voor een ieder vrij toegankelijk zijn, per € 1000 TKI-toeslag minstens één MKB-ondernemer deelneemt aan de netwerkactiviteiten.    
+
+b. bij innovatieadviesdiensten: 
+
+1°. de in te zetten innovatiemakelaars op basis van transparante en redelijke criteria geselecteerd worden,  
+
+2°. het totale bedrag aan TKI-toeslag niet meer bedraagt dan 50% van de kosten met een maximum van € 10.000 per MKB-ondernemer over een periode van één jaar.  
+
+3°. aan een MKB-ondernemer gedurende maximaal drie jaar innovatieadviesdiensten worden geleverd.       
+3.  De ontvanger van TKI-toeslag neemt bij de aanwending van de TKI-toeslag, indien van toepassing, de gemeenschappelijke ordening van de landbouwproducten in acht, bedoeld in artikel 40, eerste lid, van het Verdrag betreffende de werking van de Europese Unie.   
+4.  De ontvanger van projecttoeslag wendt de projecttoeslag aan voor het desbetreffende project.   
+
+### Artikel  1a.7  
+
+####(financieringsverhouding)
+
+1.  De ontvanger van TKI-toeslag wendt de TKI-toeslag zodanig aan voor samenwerkingsprojecten dat voor fundamenteel onderzoek, industrieel onderzoek en experimentele ontwikkeling in totaal een private bijdrage van respectievelijk minimaal 15%, 50% en 75% van de financiering van het desbetreffende onderzoek gerealiseerd wordt.   
+2.  Voor toepassing van het eerste lid kan de waarde van inzet in natura als private bijdrage worden meegeteld.   
+
+### Artikel  1a.8  
+
+####(duur aanwending TKI-toeslag)
+
+De TKI-toeslag wordt aangewend binnen vijf jaar na verlening.  
+
+### Artikel  1a.9  
+
+####(administratie)
+
+1.  De ontvanger van TKI-toeslag draagt zorg voor een administratie: 
+
+a. waaruit op eenvoudige en duidelijke wijze kan worden afgeleid hoe de TKI-toeslag wordt aangewend voor het uitvoeren van de in het TKI-programma opgenomen samenwerkingsprojecten en innovatie activiteiten;  
+
+b. waarin de wijze wordt vastgelegd waarop participanten van samenwerkingsprojecten omgaan met intellectueel eigendom dat voorkomt uit deze projecten;  
+
+c. waaruit op eenvoudige wijze kennis genomen kan worden van de samenwerkingsovereenkomsten voor de projecten waarvoor een private bijdrage als bedoeld in artikel 1a.4 is opgegeven.     
+2.  De TKI-toeslag kan op nihil worden vastgesteld indien de administratie, bedoeld in het eerste lid, geheel of gedeeltelijk ontbreekt.   
+
+### Artikel  1a.10  
+
+####(rapportage en transparantie)
+
+1.  De rapportage, genoemd in artikel 39, eerste lid, van het Kaderbesluit EZ-subsidies, bevat in ieder geval: 
+
+a. een overzicht van de mate waarin de samenwerkingsprojecten, de private bijdragen aan en de inzet in natura voor deze projecten van het lopende jaar zijn gerealiseerd;  
+
+b. een opgave van de afwijkingen van het TKI-programma;  
+
+c. een overzicht van de activiteiten en doelen voor het eerstvolgende jaar;  
+
+d. een overzicht van de mate waarin de uit TKI-relevante onderzoeksopdrachten, waarvoor op grond van artikel 1a.3, eerste lid, onderdeel b, TKI-toeslag is ontvangen, voortgevloeide kennis toegepast wordt binnen samenwerkingsprojecten van het TKI-programma.     
+2.  De ontvanger van TKI-toeslag zorgt dat actuele informatie over de samenwerkingsprojecten waarvoor de toeslag wordt aangewend op eenvoudige wijze voor het algemene publiek kenbaar is. De informatie omvat tenminste een beschrijving van het onderzoek, de deelnemende ondernemers en onderzoeksorganisaties en de planning en voortgang.   
+3.  Het tweede lid, eerste volzin, is van overeenkomstige toepassing op informatie over de voorwaarden waaronder deelname door op het terrein van het programma werkzame ondernemers en onderzoeksorganisaties aan samenwerkingsprojecten van het TKI-programma openstaat.   
+
+### Artikel  1a.11  
+
+####(formulieren)
+
+Het formulier voor: 
+
+a. het aanvragen van TKI-toeslag is opgenomen in bijlage 1a.1;  
+
+b. het opgeven van private bijdragen als bedoeld in artikel 1a.4, eerste lid, is opgenomen in bijlage 1a.2;  
+
+c. het aanvragen van de vaststelling van TKI-toeslag is opgenomen in bijlage 1a.3.    
+
+### Artikel  1a.12  
+
+####(vervaltermijn)
+
+Hoofdstuk 1a vervalt op 1 oktober 2017.  
+
+### Hoofdstuk  1b  
+
+####TKI MKB-versterking
+
+### §  1  
+
+####Algemene bepalingen
+
+### Artikel  1b.1  
+
+In dit hoofdstuk wordt verstaan onder: 
+
+a. *innovatieadviesdiensten:* managementconsulting gericht op innovatie van producten, processen of diensten, het verlenen van technologische bijstand of diensten inzake technologieoverdracht als bedoeld in 5.6, eerste gedachtestreepje, van de O&O&I-kaderregeling;  
+
+b. *innovatiemakelaar:* een verstrekker van innovatieadviesdiensten;  
+
+c. *netwerkactiviteiten:* masterclasses, workshops of conferenties om kennisdeling en netwerking tussen MKB-ondernemers te bevorderen;  
+
+d. *TKI:* Topconsortium voor Kennis en Innovatie als bedoeld in artikel 1a.1;  
+
+e. *O&O&I-kaderregeling:* de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323).    
+
+### Artikel  1b.2  
+
+1.  De minister verstrekt op grond van dit hoofdstuk op aanvraag subsidie voor activiteiten die passen binnen de in de bijlagen opgenomen programma’s.   
+2.  De minister verdeelt de aan deze activiteiten verbonden subsidieplafonds op volgorde van binnenkomst van de aanvragen.   
+
+### Artikel  1b.3  
+
+1.  Met de uitvoering van de op grond van dit hoofdstuk gesubsidieerde activiteiten wordt gestart binnen zes maanden na de subsidieaanvraag.   
+2.  De op grond van dit hoofdstuk gesubsidieerde activiteiten worden uitgevoerd binnen twaalf maanden na de start van de activiteiten.   
+
+### §  2  
+
+####Netwerkactiviteiten
+
+### Artikel  1b.4  
+
+Subsidie wordt verstrekt aan een TKI voor het door derden laten uitvoeren van netwerkactiviteiten ten behoeve van MKB-ondernemers.  
+
+### Artikel  1b.5  
+
+1.  Slechts aan derden verschuldigde kosten met betrekking tot de netwerkactiviteiten zijn subsidiabel.   
+2.  De opdrachtverlening door de subsidieontvanger aan derden vindt plaats op basis van transparante criteria en tegen marktconforme tarieven.   
+3.  De netwerkactiviteiten en hieruit voortkomende resultaten zijn voor iedere MKB-onderneming zonder onderscheid toegankelijk.   
+4.  Per € 1000 subsidie neemt minstens één MKB-ondernemer deel aan de netwerkactiviteiten.   
+
+### Artikel  1b.6  
+
+Indien het subsidiebedrag lager of gelijk is aan € 25.000 wordt de subsidie met toepassing van artikel 50, vierde lid, van het Kaderbesluit EZ-subsidies ambtshalve vastgesteld.  
+
+### §  3  
+
+####Ondersteuning door innovatiemakelaars
+
+### Artikel  1b.7  
+
+Subsidie wordt verstrekt aan een TKI voor het door innovatiemakelaars laten leveren van innovatieadviesdiensten aan MKB-ondernemers.  
+
+### Artikel  1b.8  
+
+1.  De TKI selecteert op basis van transparante en redelijke criteria de in te zetten innovatiemakelaars.   
+2.  Innovatieadviesdiensten zijn slechts subsidiabel indien zij tegen marktconforme tarieven door een innovatiemakelaar worden uitgevoerd.   
+
+### Artikel  1b.9  
+
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor innovatieadviesdiensten 50 procent van de subsidiabele kosten.   
+2.  Het maximale subsidiebedrag bedraagt € 10.000 per MKB-onderneming waaraan de innovatieadviesdiensten zijn geleverd over een periode van maximaal één jaar.   
+3.  Aan een MKB-ondernemer worden gedurende maximaal drie jaar innovatieadviesdiensten geleverd.   
+
+### Artikel  1b.10  
+
+Indien het subsidiebedrag lager of gelijk is aan € 25.000 wordt de subsidie in overeenstemming met artikel 50, vierde lid, van het Kaderbesluit EZ-subsidies ambtshalve vastgesteld.  
+
+### §  4  
+
+####Slotbepalingen
+
+### Artikel  1b.11  
+
+1.  De subsidieontvanger verleent medewerking aan een evaluatie van de effecten van de door hem op grond van dit hoofdstuk uitgevoerde activiteiten, voor zover medewerking redelijkerwijs van hem kan worden verlangd.   
+2.  De verplichting, bedoeld in het eerste lid, geldt gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling.   
+
+### Artikel  1b.12  
+
+Dit hoofdstuk vervalt op 1 oktober 2017, met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.  
+
+### Artikel  1b.13  
+
+Het formulier voor het aanvragen van een subsidie op grond van dit hoofdstuk is opgenomen in bijlage 1b.1.  
+
+### Hoofdstuk  1c  
+
+####MKB innovatiestimulering topsectoren
+
+### §  1  
+
+####Algemene bepalingen
+
+### Artikel  1c.1  
+
+In dit hoofdstuk wordt verstaan onder: 
+
+a. *detachering:* tijdelijke indienstneming van personeel door een begunstigde MKB-onderneming gedurende een bepaalde periode, waarna het personeel recht heeft naar zijn vorige werkgever terug te keren, als bedoeld in 2.2, onderdeel l, van de O&O&I-kaderregeling;  
+
+b. *hooggekwalificeerd personeel:* universitair geschoolde onderzoekers, ingenieurs, ontwerpers en marketingmanagers met een tertiaire opleiding en ten minste vijf jaar relevante beroepservaring. Doctoraatsopleidingen tellen mee als relevante beroepservaring als bedoeld in 2.2, onderdeel k van de O&O&I-kaderregeling;  
+
+c. *kennisinstelling:* een kennisinstelling als bedoeld in artikel 5.1, tweede lid, onder a tot en met f, van de Subsidieregeling innoveren;  
+
+d. *MIT-haalbaarheidsstudie:* samenstel van activiteiten, dat leidt tot een schriftelijk rapport met een inschatting van de technische en economische mogelijkheden van door een MKB-ondernemer voorgenomen industrieel onderzoek of experimentele ontwikkeling;  
+
+e. *MIT-R&D-samenwerkingsproject:* een project, bestaande uit industrieel onderzoek of experimentele ontwikkeling of een combinatie hiervan, voor gezamenlijke rekening en risico uitgevoerd door een MIT-R&D-samenwerkingsverband;  
+
+f. *MIT-kennisoverdrachtsproject:* een door een kennisinstelling verrichte activiteit bestaande uit het, al dan niet op basis van te verrichten nader onderzoek, beantwoorden van een toepassingsgerichte kennisvraag van een ondernemer, uitgaande van voor de ondernemer nieuwe kennis met betrekking tot de vernieuwing van producten, productieprocessen of diensten. Geen kennisoverdrachtsproject is een project waarbij de beantwoording van een toepassingsgerichte kennisvraag plaatsvindt door het leveren van goederen, het geven van cursussen of het verrichten van activiteiten op het gebied van verkoop van producten of diensten, zoals het ontwikkelen en vervaardigen van marketinginstrumenten en verkoopondersteunend promotiemateriaal;  
+
+g. *MIT-kennisvoucher:* een op grond van artikel 1c.9 door de minister aan een MKB-ondernemer afgegeven document, dat deze ondernemer kan inleveren bij een kennisinstelling ten behoeve van de uitvoering van een MIT-kennisoverdrachtsproject;  
+
+h. *MIT-R&D-samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit twee of meer niet in een groep verbonden MKB-ondernemers, welk verband is opgericht ten behoeve van de uitvoering van een MIT-R&D-samenwerkingsproject;  
+
+i. *O&O&I-kaderregeling:* de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323).    
+
+### Artikel  1c.2  
+
+1.  De minister verstrekt op grond van dit hoofdstuk op aanvraag subsidie voor activiteiten die passen binnen de in de bijlagen opgenomen programma’s.   
+2.  De minister verdeelt de aan deze activiteiten verbonden subsidieplafonds op volgorde van binnenkomst van de aanvragen.   
+
+### Artikel  1c.3  
+
+1.  Een aanvraag van een MKB-ondernemer wordt afgewezen indien door hem in een openstellingsperiode al subsidie of een MIT-kennisvoucher is aangevraagd op grond van dit hoofdstuk.   
+2.  Een aanvraag van een MKB-ondernemer wordt afgewezen indien aan hem in hetzelfde kalenderjaar al subsidie of een MIT-kennisvoucher is verstrekt op grond van dit hoofdstuk.   
+
+### §  2  
+
+####MIT-haalbaarheidsstudies
+
+### Artikel  1c.4  
+
+Subsidie voor een MIT-haalbaarheidsstudie wordt verleend aan een MKB-ondernemer.  
+
+### Artikel  1c.5  
+
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een MIT-haalbaarheidsstudie 50 procent van de subsidiabele kosten.   
+2.  Het maximum subsidiebedrag bedraagt € 50.000 per MIT-haalbaarheidsstudie.   
+
+### Artikel  1c.6  
+
+1.  Met de uitvoering van de MIT-haalbaarheidsstudie wordt gestart binnen zes maanden na indiening van de subsidieaanvraag.   
+2.  De MIT-haalbaarheidsstudie wordt uitgevoerd binnen twaalf maanden na de start van de MIT-haalbaarheidsstudie.   
+
+### Artikel  1c.7  
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. de voorgenomen activiteiten waarop de MIT-haalbaarheidsstudie betrekking heeft in technische of financiële zin onvoldoende risicovol zijn om de MIT-haalbaarheidsstudie te rechtvaardigen;  
+
+b. de MIT-haalbaarheidsstudie onvoldoende inzicht geeft in het economisch perspectief en de uitvoerbaarheid van de voorgenomen activiteiten waarop de MIT-haalbaarheidstudie betrekking heeft.    
+
+### §  3  
+
+####MIT-kennisvouchers
+
+### Artikel  1c.8  
+
+Deze paragraaf valt onder de de-minimisverordening.  
+
+### §  3.1  
+
+####Verstrekking van een MIT-kennisvoucher aan MKB-ondernemers
+
+### Artikel  1c.9  
+
+Een MIT-kennisvoucher heeft een waarde van maximaal € 3.750 en wordt aan een MKB-ondernemer verstrekt die een MIT-kennisoverdrachtsproject wil laten uitvoeren waarvan de resultaten ten goede komen aan de activiteiten die de ondernemer in Nederland verricht.  
+
+### Artikel  1c.10  
+
+De waarde van de voucher bedraagt 50 procent van de subsidiabele kosten tot een maximum van € 3.750.  
+
+### Artikel  1c.11  
+
+Op het aanvraagformulier vermeldt de MKB-ondernemer de kennisvraag die hij in het kader van het MIT-kennisoverdrachtsproject wil stellen.  
+
+### Artikel  1c.12  
+
+1.  De MKB-ondernemer besteedt de MIT-kennisvoucher bij een van de in de aanvraag met naam en toenaam opgenomen kennisinstellingen.   
+2.  In de aanvraag worden maximaal drie kennisinstellingen opgenomen.   
+
+### Artikel  1c.13  
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. de ondernemer en de kennisinstelling reeds voor de afgiftedatum van de MIT-kennisvoucher verplichtingen jegens elkaar zijn aangegaan met betrekking tot het MIT-kennisoverdrachtsproject;  
+
+b. de ondernemer de MIT-kennisvoucher wil aanwenden voor een MIT-kennisoverdrachtsproject waarvoor reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt of dat deel uitmaakt van een project of programma waarvoor reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt.    
+
+### §  3.2  
+
+####Verstrekking van subsidie aan kennisinstellingen
+
+### Artikel  1c.14  
+
+Subsidie wordt verleend aan een kennisinstelling die één of meer MIT-kennisoverdrachtsprojecten heeft uitgevoerd en in verband daarmee één of meer geldige MIT-kennisvouchers overlegt.  
+
+### Artikel  1c.15  
+
+De subsidie bedraagt 50 procent van de door de kennisinstelling ten behoeve van de uitvoering van een MIT-kennisoverdrachtsproject in rekening gebrachte kosten, maar niet meer dan € 3.750 per MIT-kennisvoucher.  
+
+### Artikel  1c.16  
+
+1.  Een aanvraag om subsidie wordt na afloop van het MIT-kennisoverdrachtsproject door de kennisinstelling ingediend.   
+2.  De aanvraag moet binnen een jaar nadat de MIT-kennisvoucher aan de ondernemer is verstrekt zijn ontvangen. Op een voor het einde van de termijn daartoe ingediend verzoek kan de minister deze termijn eenmalig verlengen met ten hoogste zes maanden.   
+
+### §  4  
+
+####Hooggekwalificeerd personeel
+
+### Artikel  1c.17  
+
+Subsidie wordt verleend aan een MKB-ondernemer bij wie een onderzoeksorganisatie of grote onderneming hooggekwalificeerd personeel heeft gedetacheerd.  
+
+### Artikel  1c.18  
+
+De subsidiabele kosten bestaan uit het bedrag dat in verband met de detachering aan de onderzoeksorganisatie of grote onderneming die de werknemer detacheert verschuldigd is.  
+
+### Artikel  1c.19  
+
+1.  De gedetacheerde werknemers vervangen geen andere werknemers. Zij werken in een nieuw gecreëerde functie bij de begunstigde MKB-ondernemer. De functie is gericht op onderzoek, ontwikkeling en innovatie als bedoeld in de O&O&I-kaderregeling.   
+2.  De gedetacheerde werknemers zijn ten minste twee jaar in dienst bij de onderzoeksorganisatie of de grote onderneming die de werknemers detacheert.   
+3.  De datum waarop de detachering van start gaat ligt maximaal zes maanden na indiening van de subsidieaanvraag.   
+
+### Artikel  1c.20  
+
+1.  Het maximum subsidiebedrag bedraagt € 50.000 per subsidieontvanger per jaar.   
+2.  Aan een MKB-ondernemer wordt per gedetacheerde werknemer voor maximaal één jaar subsidie verleend tot een maximum van € 50.000.   
+3.  Aan een MKB-ondernemer wordt gedurende maximaal drie jaar op grond van deze paragraaf subsidie verleend.   
+
+### §  5  
+
+####MIT-R&D-samenwerkingsprojecten
+
+### Artikel  1c.21  
+
+De minister verstrekt op aanvraag subsidie aan een deelnemer in een MIT-R&D-samenwerkingsverband dat een MIT-R&D-samenwerkingsproject uitvoert.  
+
+### Artikel  1c.22  
+
+De penvoerder is een onderneming die deelneemt aan het MIT-R&D-samenwerkingsverband.  
+
+### Artikel  1c.23  
+
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een MIT-R&D-samenwerkingsproject 40 procent van de subsidiabele kosten.   
+2.  Elke individuele deelnemer aan het MIT-R&D-samenwerkingsverband neemt niet meer dan 70 procent van de voor subsidie in aanmerking komende kosten van het MIT-R&D-samenwerkingsproject voor zijn rekening.   
+3.  Het maximum subsidiebedrag bedraagt € 150.000 per MIT-R&D-samenwerkingsproject.   
+4.  Het maximum subsidiebedrag bedraagt € 75.000 per deelnemer aan het MIT-R&D-samenwerkingsverband.   
+
+### Artikel  1c.24  
+
+1.  Met de uitvoering van het MIT-R&D-samenwerkingsproject wordt gestart binnen zes maanden na de subsidieaanvraag.   
+2.  Het MIT-R&D-samenwerkingsproject wordt uitgevoerd vierentwintig maanden na de start van de activiteiten.   
+
+### Artikel  1c.25  
+
+De minister beslist afwijzend op een aanvraag voor een MIT-R&D-samenwerkingsproject indien: 
+
+a. het niet voldoende bijdraagt aan de vernieuwing van producten, processen of diensten of wezenlijke nieuwe toepassingen van bestaande producten, processen of diensten;  
+
+b. het niet voldoende bijdraagt aan het creëren van economische waarde voor de deelnemers in het samenwerkingsverband en de daarmee samenhangende positieve gevolgen voor de Nederlandse economie;  
+
+c. de kwaliteit van het MIT-R&D-samenwerkingsverband ontoereikend is om het MIT-R&D-samenwerkingsproject uit te voeren.    
+
+### §  6  
+
+####MIT- innovatieprestatiecontracten
+
+### Artikel  1c.26  
+
+De artikelen 4.1, 4.2, 4.18 tot en met 4.20, 4.22, 4.23 en 4.25 van de Subsidieregeling innoveren zijn van overeenkomstige toepassing op MIT-innovatieprestatiecontracten.  
+
+### §  7  
+
+####Slotbepalingen
+
+### Artikel  1c.27  
+
+1.  De subsidieontvanger verleent medewerking aan een evaluatie van de effecten van de door hem op grond van dit hoofdstuk uitgevoerde activiteiten, voor zover medewerking redelijkerwijs van hem kan worden verlangd.   
+2.  De verplichting, bedoeld in het eerste lid, geldt gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling.   
+
+### Artikel  1c.28  
+
+Dit hoofdstuk vervalt op 1 oktober 2017, met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.  
+
+### Artikel  1c.29  
+
+1.  Het formulier voor het aanvragen van een subsidie of MIT-kennisvoucher op grond van dit hoofdstuk is opgenomen in bijlage 1c.1.   
+2.  In afwijking van het eerste lid, is het formulier voor het aanvragen van een subsidie op grond van paragraaf 3.2 van dit hoofdstuk opgenomen in bijlage 1c.2.   
+
 ### Hoofdstuk  2  
 
 ####Internationaal innoveren
@@ -61,17 +569,21 @@ Indien door de minister op grond van deze regeling een subsidie wordt verleend v
 
 In dit hoofdstuk wordt verstaan onder: 
 
+– *CATRENE-innovatieproject:* een innovatieproject dat wordt uitgevoerd door een internationaal innovatiesamenwerkingsverband en is voorzien van een label van het EUREKA cluster CATRENE;  
+
 – *EUREKA-innovatieproject:* een innovatieproject dat wordt uitgevoerd door een internationaal innovatiesamenwerkingsverband en is voorzien van een EUREKA-label;  
 
 – *geïndustrialiseerde landen innovatieproject:* een innovatieproject dat wordt uitgevoerd door een internationaal innovatiesamenwerkingsverband en een samenwerkingsverband betreft met een van de geïndustrialiseerde landen;  
 
 – *internationaal innovatiesamenwerkingsverband:* een samenwerkingsverband waarbij ten minste één van de partijen een in Nederland gevestigde ondernemer is en ten minste één van de partijen een ondernemer of onderzoeksorganisatie is die is gevestigd in een opkomende markt, een geïndustrialiseerd land of een land dat deelneemt aan het EUREKA-programma;  
 
+– *ITEA2-innovatieproject:* een innovatieproject dat wordt uitgevoerd door een internationaal innovatiesamenwerkingsverband en is voorzien van een label van het EUREKA cluster ITEA2;  
+
 – *opkomende markten innovatieproject:* een innovatieproject dat wordt uitgevoerd door een internationaal innovatiesamenwerkingsverband en een samenwerkingsverband betreft met een van de opkomende markten.    
 
 ### Artikel  2.2  
 
-De minister verstrekt op aanvraag subsidie aan een deelnemer in een internationaal innovatiesamenwerkingsverband dat een EUREKA-innovatieproject, een geïndustrialiseerde landen innovatieproject of een opkomende markten innovatieproject uitvoert.  
+De minister verstrekt op aanvraag subsidie aan een deelnemer in een internationaal innovatiesamenwerkingsverband dat een CATRENE-innovatieproject, een EUREKA-innovatieproject, een geïndustrialiseerde landen innovatieproject, een ITEA2-innovatieproject of een opkomende markten innovatieproject uitvoert.  
 
 ### Artikel  2.3  
 
@@ -79,7 +591,7 @@ De penvoerder is een ondernemer.
 
 ### Artikel  2.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten van een innovatieproject voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -89,10 +601,11 @@ c. 25 procent van de subsidiabele kosten van een innovatieproject voor zover dez
 2.  De percentages, genoemd in het eerste lid, onder b en c, worden verhoogd met 10 procentpunten indien subsidie wordt verstrekt aan een MKB-ondernemer.   
 3.  Indien het totale subsidiebedrag voor de deelnemers van een internationaal innovatiesamenwerkingsverband dat een opkomende markten innovatie project uitvoert meer bedraagt dan € 500.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 4.  Indien het totale subsidiebedrag voor de deelnemers van een internationaal innovatiesamenwerkingsverband dat een EUREKA-innovatieproject of een geïndustrialiseerde landen innovatieproject uitvoert meer bedraagt dan € 750.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
+5.  Indien het totale subsidiebedrag voor de deelnemers in een internationaal samenwerkingsverband dat een CATRENE-innovatieproject of een ITEA2-innovatieproject uitvoert, meer bedraagt dan € 4.000.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 
 ### Artikel  2.5  
 
-In afwijking van [artikel 10, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), komen kosten slechts voor subsidie in aanmerking voor zover ze na aanvang van een EUREKA-innovatieproject, een geïndustrialiseerde landen innovatieproject of een opkomende markten innovatieproject zijn gemaakt of, indien indiening van de aanvraag tot verlening van subsidie plaatsvindt na aanvang van een innovatieproject, voor zover ze na de indiening van die aanvraag zijn gemaakt.  
+Geen subsidie wordt verstrekt indien de aanvrager vóór indiening van de aanvraag om subsidie, bedoeld in artikel 2.2, reeds gestart is met zijn deel van het CATRENE-innovatieproject, het EUREKA-innovatieproject, het geïndustrialiseerde landen innovatieproject, het ITEA2-innovatieproject of het opkomende landen innovatieproject.  
 
 ### Artikel  2.6  
 
@@ -100,13 +613,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  2.7  
 
-1.  Er is een Adviescommissie Internationaal Innoveren die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 2.9 en de rangschikkingscriteria, bedoeld in artikel 2.10.   
+1.  Er is een Adviescommissie Internationaal Innoveren die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 2.9 en de rangschikkingscriteria, bedoeld in artikel 2.10.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste vijftien leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  2.8  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  2.9  
 
@@ -131,7 +644,7 @@ d. meer wordt aangesloten bij de doelstellingen van de deelnemende ondernemingen
 
 ### Artikel  2.11  
 
-In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) brengen de subsidie-ontvangers gezamenlijk steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het innovatieproject met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten.  
+Met uitzondering van CATRENE- en ITEA2-innovatieprojecten, brengen de subsidie-ontvangers, in afwijking van artikel 39 van het Kaderbesluit EZ-subsidies gezamenlijk steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het innovatieproject met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten.  
 
 ### Artikel  2.12  
 
@@ -155,7 +668,7 @@ In dit hoofdstuk wordt verstaan onder:
 ### Artikel  3.2  
 
 1.  De minister verstrekt op aanvraag subsidie aan een deelnemer in een IOP-samenwerkingsverband dat een IOP-project uitvoert dat past in een IOP.   
-2.  In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een IOP-samenwerkingsverband.   
+2.  In afwijking van artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies, kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een IOP-samenwerkingsverband.   
 
 ### Artikel  3.3  
 
@@ -167,7 +680,7 @@ Een aanvraag wordt niet ingediend dan nadat daarover namens de commissie, genoem
 
 ### Artikel  3.5  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -176,12 +689,12 @@ b. 25 procent van de subsidiabele kosten voor zover deze betrekking hebben op ex
 
 a. een forfaitaire bijdrage van € 7.000 per onderzoeker in geval van een stage van een onderzoeker in het buitenland van minimaal drie maanden;  
 
-b. 50 procent van de kosten van octrooiaanvragen van publiek gefinancierde onderzoeksorganisaties en MKB-ondernemers, tot een maximum van € 8.000 per octrooi.     
+b. met betrekking tot de kosten van octrooiaanvragen van publiek gefinancierde onderzoeksorganisaties en MKB-ondernemers: 50% van de betrokken kosten in geval van fundamenteel en industrieel onderzoek en 25% van de betrokken kosten in geval van experimentele ontwikkeling, een en ander tot een maximum van € 8.000 per octrooi.     
 
 ### Artikel  3.6  
 
-1.  Een bijdrage van een gemeente, provincie of openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) of van een ander bestuursorgaan wordt aangemerkt als publieke cofinanciering.   
-2.  In afwijking van [artikel 6, eerste lid, Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) wordt de bijdrage, bedoeld in het eerste lid, niet aangemerkt als subsidie verstrekt door een bestuursorgaan.   
+1.  Een bijdrage van een gemeente, provincie of openbaar lichaam als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen of van een ander bestuursorgaan wordt aangemerkt als publieke cofinanciering.   
+2.  In afwijking van artikel 6, eerste lid, Kaderbesluit EZ-subsidies wordt de bijdrage, bedoeld in het eerste lid, niet aangemerkt als subsidie verstrekt door een bestuursorgaan.   
 
 ### Artikel  3.7  
 
@@ -215,7 +728,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  3.9  
 
-1.  Voor elk onderzoeksprogramma, genoemd in artikel 3.7, is er een adviescommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 3.10 en de rangschikkingscriteria, bedoeld in artikel 3.11.   
+1.  Voor elk onderzoeksprogramma, genoemd in artikel 3.7, is er een adviescommissie die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 3.10 en de rangschikkingscriteria, bedoeld in artikel 3.11.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste twaalf leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vijf jaar.   
 
@@ -247,7 +760,7 @@ d. het IOP-project een bijdrage kan leveren aan duurzame ontwikkeling.
 
 ### Artikel  3.13  
 
-In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) brengt een subsidie-ontvanger steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het IOP-project met inbegrip van een vergelijking van die uitvoering met het projectplan, de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten, van de aangevraagde en overgedragen IE-rechten en over de toepassing van de resultaten van het IOP-project.  
+In afwijking van artikel 39 van het Kaderbesluit EZ-subsidies brengt een subsidie-ontvanger steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het IOP-project met inbegrip van een vergelijking van die uitvoering met het projectplan, de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten, van de aangevraagde en overgedragen IE-rechten en over de toepassing van de resultaten van het IOP-project.  
 
 ### Artikel  3.14  
 
@@ -271,8 +784,8 @@ c. rechten die voortvloeien uit een aanvraag om een intellectueel eigendomsrecht
 
 ### Artikel  3.15  
 
-1.  Als organisaties of instellingen in de zin van [artikel 53, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), worden alle IOP-samenwerkingsverbanden aangewezen.   
-2.  In afwijking van [artikel 50, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) dient de subsidie-ontvanger de aanvraag tot subsidievaststelling in binnen zes maanden na het tijdstip waarop het IOP-project moet zijn uitgevoerd.   
+1.  Als organisaties of instellingen in de zin van artikel 53, eerste lid, van het Kaderbesluit EZ-subsidies, worden alle IOP-samenwerkingsverbanden aangewezen.   
+2.  In afwijking van artikel 50, eerste lid, van het Kaderbesluit EZ-subsidies dient de subsidie-ontvanger de aanvraag tot subsidievaststelling in binnen zes maanden na het tijdstip waarop het IOP-project moet zijn uitgevoerd.   
 
 ### Hoofdstuk  4  
 
@@ -332,7 +845,7 @@ De penvoerder is een MKB-ondernemer.
 
 ### Artikel  4.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -348,13 +861,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  4.6  
 
-1.  Er is een Adviescommissie Life Sciences & Health die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 4.8, en de rangschikkingscriteria, bedoeld in artikel 4.9.   
+1.  Er is een Adviescommissie Life Sciences & Health die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 4.8, en de rangschikkingscriteria, bedoeld in artikel 4.9.   
 2.  De commissie bestaat uit ten minste twee en ten hoogste vijf leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  4.7  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  4.8  
 
@@ -398,7 +911,7 @@ De penvoerder is een MKB-ondernemer.
 
 ### Artikel  4.13  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -414,13 +927,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  4.15  
 
-1.  De in artikel 4.6 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikel 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 4.17, en de rangschikkingscriteria, bedoeld in artikel 4.18.   
+1.  De in artikel 4.6 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in artikel 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 4.17, en de rangschikkingscriteria, bedoeld in artikel 4.18.   
 2.  De commissie bestaat uit ten minste twee en ten hoogste vijf leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  4.16  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  4.17  
 
@@ -464,7 +977,7 @@ De penvoerder is een MKB-ondernemer.
 
 ### Artikel  4.22  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -480,11 +993,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  4.24  
 
-De in artikel 4.6 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 4.26, en de rangschikkingscriteria, bedoeld in artikel 4.27.  
+De in artikel 4.6 bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 4.26, en de rangschikkingscriteria, bedoeld in artikel 4.27.  
 
 ### Artikel  4.25  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  4.26  
 
@@ -546,7 +1059,7 @@ De minister verstrekt op aanvraag subsidie aan een MKB-ondernemer die een FND-ha
 
 ### Artikel  5.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een FND-haalbaarheidsproject 50 procent van de subsidiabele kosten.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een FND-haalbaarheidsproject 50 procent van de subsidiabele kosten.   
 2.  Het maximum subsidiebedrag bedraagt € 50.000 per subsidie-ontvanger.   
 
 ### Artikel  5.4  
@@ -555,7 +1068,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  5.5  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is één jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is één jaar.  
 
 ### Artikel  5.6  
 
@@ -583,7 +1096,7 @@ Een subsidie-ontvanger is verplicht bekendheid aan het project en de resultaten 
 ### Artikel  5.9  
 
 1.  De minister verstrekt op aanvraag subsidie aan een deelnemer, in een FND-samenwerkingsverband dat een FND-innovatieproject uitvoert.   
-2.  In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een FND-samenwerkingsverband.   
+2.  In afwijking van artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies, kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een FND-samenwerkingsverband.   
 
 ### Artikel  5.10  
 
@@ -591,7 +1104,7 @@ De penvoerder is een ondernemer die deelneemt aan het FND-samenwerkingsverband.
 
 ### Artikel  5.11  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een FND-innovatieproject: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een FND-innovatieproject: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -607,13 +1120,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  5.13  
 
-1.  Er is een Adviescommissie Food & Nutrition Delta die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 5.15 en de rangschikkingscriteria, bedoeld in artikel 5.16.   
+1.  Er is een Adviescommissie Food & Nutrition Delta die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 5.15 en de rangschikkingscriteria, bedoeld in artikel 5.16.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste zeven leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  5.14  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  5.15  
 
@@ -648,7 +1161,7 @@ Een subsidie-ontvanger is verplicht bekendheid aan het project en de resultaten 
 ### Artikel  5.19  
 
 1.  De minister verstrekt op aanvraag subsidie aan een deelnemer in een FND-MKB-samenwerkingsverband dat een FND-MKB-innovatieproject uitvoert.   
-2.  In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een FND-MKB-samenwerkingsverband.   
+2.  In afwijking van artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies, kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een FND-MKB-samenwerkingsverband.   
 
 ### Artikel  5.20  
 
@@ -656,25 +1169,20 @@ De penvoerder is een ondernemer die deelneemt aan het FND-MKB-samenwerkingsverba
 
 ### Artikel  5.21  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een FND-MKB-innovatieproject: 
-
-a. 35 procent van de subsidiabele kosten, voor zover deze betrekking hebben op industrieel onderzoek;  
-
-b. 25 procent van de subsidiabele kosten, voor zover deze betrekking hebben op experimentele ontwikkeling.     
-2.  De percentages genoemd in het eerste lid, onderdeel a en b, worden verhoogd met 10 procentpunten indien subsidie wordt verstrekt aan een MKB-ondernemer.   
-3.  Indien het totale subsidiebedrag voor de deelnemers van een FND-MKB-samenwerkingsverband meer bedraagt dan € 400.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een FND-MKB-innovatieproject 40 procent van de subsidiabele kosten, voor zover deze betrekking hebben op industrieel onderzoek of op experimentele ontwikkeling.   
+2.  Indien het totale subsidiebedrag voor de deelnemers van een FND-MKB-samenwerkingsverband meer bedraagt dan € 400.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 
 ### Artikel  5.22  
 
-De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen.  
+De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.  
 
 ### Artikel  5.23  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is twee jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is twee jaar.  
 
 ### Artikel  5.24  
 
-De minister beslist afwijzend op een aanvraag indien het FND-MKB-innovatieproject niet voldoende bijdraagt aan: 
+1.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate het FND-MKB-innovatieproject meer bijdraagt aan: 
 
 a. de technologische vernieuwing of wezenlijke nieuwe toepassingen van een bestaande technologie;  
 
@@ -682,7 +1190,8 @@ b. het creëren van economische waarde voor de deelnemers in het samenwerkingsve
 
 c. de kwaliteit van de technologische samenwerking, tenminste blijkend uit de mate van complementariteit van de deelnemers, de mate van toereikendheid van de capaciteiten van de deelnemers en de mate van de kwaliteit van de projectorganisatie;  
 
-d. de verbetering van de ecologische of sociale prestaties van een deelnemer in een samenwerkingsverband, dan wel van de ecologische of sociale aspecten van de samenleving, waarbij onder verbetering van de sociale prestaties of van de sociale aspecten mede verstaan wordt: het realiseren van een bijdrage aan de volksgezondheid.    
+d. de verbetering van de ecologische of sociale prestaties van een deelnemer in een samenwerkingsverband, dan wel van de ecologische of sociale aspecten van de samenleving, waarbij onder verbetering van de sociale prestaties of van de sociale aspecten mede verstaan wordt: het realiseren van een bijdrage aan de volksgezondheid.     
+2.  Voor de rangschikking wegen de in het eerste lid vermelde criteria even zwaar.   
 
 ### Artikel  5.25  
 
@@ -724,7 +1233,7 @@ In dit hoofdstuk wordt verstaan onder:
 ### Artikel  6.2  
 
 1.  De minister verstrekt op aanvraag subsidie aan een deelnemer in een HTAS-doorbraaksamenwerkingsverband dat een HTAS-doorbraakproject uitvoert.   
-2.  In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een HTAS-doorbraaksamenwerkingsverband.   
+2.  In afwijking van artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies, kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een HTAS-doorbraaksamenwerkingsverband.   
 
 ### Artikel  6.3  
 
@@ -732,7 +1241,7 @@ De penvoerder is een deelnemer in het HTAS-doorbraaksamenwerkingsverband.
 
 ### Artikel  6.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een HTAS-doorbraakproject: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een HTAS-doorbraakproject: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -748,13 +1257,13 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  6.6  
 
-1.  Er is een Adviescommissie HTAS-innovatieprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 6.8.   
+1.  Er is een Adviescommissie HTAS-innovatieprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 6.8.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste zeven leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  6.7  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  6.8  
 
@@ -784,7 +1293,7 @@ De penvoerder is een deelnemer in het HTAS-internationaal innovatiesamenwerkings
 
 ### Artikel  6.11  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een HTAS-internationaal innovatieproject: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een HTAS-internationaal innovatieproject: 
 
 a. 50 procent van de subsidiabele kosten, voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -800,11 +1309,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  6.13  
 
-De adviescommissie, genoemd in artikel 6.6 heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 6.14 en de rangschikkingscriteria, bedoeld in artikel 6.15.  
+De adviescommissie, genoemd in artikel 6.6 heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 6.14 en de rangschikkingscriteria, bedoeld in artikel 6.15.  
 
 ### Artikel  6.14  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  6.15  
 
@@ -831,7 +1340,7 @@ d. de in bijlage 6.1 opgenomen doelstellingen en focusgebieden van het HTAS-inno
 
 ### Artikel  6.17  
 
-In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) brengt een subsidie-ontvanger steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het HTAS-internationaal innovatieproject, met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten.  
+In afwijking van artikel 39 van het Kaderbesluit EZ-subsidies brengt een subsidie-ontvanger steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het HTAS-internationaal innovatieproject, met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten.  
 
 ### §  4  
 
@@ -847,7 +1356,7 @@ De penvoerder is een ondernemer in het HTAS-EVT-samenwerkingsverband.
 
 ### Artikel  6.20  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -863,11 +1372,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  6.22  
 
-De adviescommissie, genoemd in artikel 6.6 heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met i, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 6.24 en de rangschikkingscriteria, bedoeld in artikel 6.25.  
+De adviescommissie, genoemd in artikel 6.6 heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met i, van het Kaderbesluit EZ-subsidies en in artikel 6.24 en de rangschikkingscriteria, bedoeld in artikel 6.25.  
 
 ### Artikel  6.23  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) eindigt op 31 december 2011.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies eindigt op 31 december 2011.  
 
 ### Artikel  6.24  
 
@@ -901,9 +1410,9 @@ d. het in bijlage 6.3 opgenomen thema en de daarbij behorende specifieke doelen 
 
 ### Artikel  6.27  
 
-1.  Een deelnemer in een HTAS-EVT-samenwerkingsverband wordt aangewezen als organisatie als bedoeld in [artikel 48, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).   
-2.  In afwijking van [artikel 46, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), worden de volgende voorschotten verstrekt op twee tijdstippen in 2010 die in de beschikking tot subsidieverlening worden opgenomen.   
-3.  In afwijking van [artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt het voorschot aan een deelnemer in een HTAS-EVT-samenwerkingsverband 100 procent van het bedrag dat in de perioden volgend op de tijdstippen, bedoeld in het tweede lid, maximaal voor subsidie in aanmerking komt.   
+1.  Een deelnemer in een HTAS-EVT-samenwerkingsverband wordt aangewezen als organisatie als bedoeld in artikel 48, tweede lid, van het Kaderbesluit EZ-subsidies.   
+2.  In afwijking van artikel 46, tweede lid, van het Kaderbesluit EZ-subsidies, worden de volgende voorschotten verstrekt op twee tijdstippen in 2010 die in de beschikking tot subsidieverlening worden opgenomen.   
+3.  In afwijking van artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies bedraagt het voorschot aan een deelnemer in een HTAS-EVT-samenwerkingsverband 100 procent van het bedrag dat in de perioden volgend op de tijdstippen, bedoeld in het tweede lid, maximaal voor subsidie in aanmerking komt.   
 
 ### Hoofdstuk  7  
 
@@ -939,7 +1448,7 @@ De penvoerder is een ondernemer.
 
 ### Artikel  7.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een innoWATOR-project: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een innoWATOR-project: 
 
 a. 50 procent van de subsidiabele kosten, voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -955,13 +1464,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  7.6  
 
-1.  Er is een Adviescommissie innoWATOR die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 7.8 en de rangschikkingscriteria, bedoeld in artikel 7.9   
+1.  Er is een Adviescommissie innoWATOR die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 7.8 en de rangschikkingscriteria, bedoeld in artikel 7.9   
 2.  De commissie bestaat uit ten minste drie en ten hoogste 21 leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  7.7  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  7.8  
 
@@ -1007,7 +1516,7 @@ De penvoerder is een ondernemer.
 
 ### Artikel  7.12  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een innoWATOR-project: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een innoWATOR-project: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1023,11 +1532,11 @@ De minister verdeelt het subsidieplafond op volgorde binnenkomst van de aanvrage
 
 ### Artikel  7.14  
 
-De adviescommissie, genoemd in artikel 7.6 heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 7.16.  
+De adviescommissie, genoemd in artikel 7.6 heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 7.16.  
 
 ### Artikel  7.15  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  7.16  
 
@@ -1054,7 +1563,7 @@ e. hij het internationaal innoWATOR-project kwalitatief als onvoldoende aanmerkt
 
 ### Artikel  7.18  
 
-In afwijking van [artikel 39 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) brengt de subsidie-ontvanger steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het internationaal innoWATOR-project met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten.  
+In afwijking van artikel 39 van het Kaderbesluit EZ-subsidies brengt de subsidie-ontvanger steeds na afloop van een periode van zes maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het internationaal innoWATOR-project met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de beschikking tot subsidieverlening vermelde raming van de subsidiabele kosten.  
 
 ### Artikel  7.19  
 
@@ -1080,12 +1589,12 @@ d. noodzakelijk is voor het behalen van de tussen de ondernemer en de koper of d
 
 ### Artikel  7.21  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de in artikel 7.20 bedoelde subsidie 25% van de subsidiabele kosten, welk percentage wordt verhoogd met 10 procentpunten indien subsidie wordt verstrekt aan een MKB-ondernemer.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de in artikel 7.20 bedoelde subsidie 25% van de subsidiabele kosten, welk percentage wordt verhoogd met 10 procentpunten indien subsidie wordt verstrekt aan een MKB-ondernemer.   
 2.  Het maximum subsidiebedrag bedraagt € 500.000 per subsidie-ontvanger.   
 
 ### Artikel  7.22  
 
-Voor subsidie komen de kosten in aanmerking, bedoeld in [artikel 10 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), tot ten hoogste het bedrag van de investeringskosten voor het innovatieve aspect van het product, het proces of de dienst.  
+Voor subsidie komen de kosten in aanmerking, bedoeld in artikel 10 van het Kaderbesluit EZ-subsidies, tot ten hoogste het bedrag van de investeringskosten voor het innovatieve aspect van het product, het proces of de dienst.  
 
 ### Artikel  7.23  
 
@@ -1093,7 +1602,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  7.24  
 
-De in artikel 7.6 bedoelde adviescommissie heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 7.25.  
+De in artikel 7.6 bedoelde adviescommissie heeft eveneens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 7.25.  
 
 ### Artikel  7.25  
 
@@ -1156,7 +1665,7 @@ De penvoerder is een MKB-ondernemer.
 
 ### Artikel  8.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een maritiem MKB-project 50 procent van de subsidiabele kosten.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een maritiem MKB-project 50 procent van de subsidiabele kosten.   
 2.  Indien het totale subsidiebedrag voor de deelnemers van een MKB-samenwerkingsverband meer bedraagt dan € 100.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 
 ### Artikel  8.5  
@@ -1165,7 +1674,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  8.6  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is een jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is een jaar.  
 
 ### Artikel  8.7  
 
@@ -1193,7 +1702,7 @@ e. de MKB-ondernemer, die geen deel uitmaakt van een maritiem MKB-samenwerkingsv
 ### Artikel  8.8  
 
 1.  De minister verstrekt op aanvraag een subsidie aan een deelnemer in een maritiem innovatiesamenwerkingsverband, dat een maritiem innovatieproject uitvoert, of aan een MKB-ondernemer, die een maritiem innovatieproject uitvoert.   
-2.  In aanvulling op [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een maritiem innovatiesamenwerkingsverband.   
+2.  In aanvulling op artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies, kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een maritiem innovatiesamenwerkingsverband.   
 
 ### Artikel  8.9  
 
@@ -1201,7 +1710,7 @@ De penvoerder is een ondernemer.
 
 ### Artikel  8.10  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een maritiem innovatieproject: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een maritiem innovatieproject: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1218,13 +1727,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  8.12  
 
-1.  Er is een Adviescommissie Maritiem Innovatie Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 8.14 en de rangschikkingscriteria, bedoeld in artikel 8.15, eerste lid.   
+1.  Er is een Adviescommissie Maritiem Innovatie Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 8.14 en de rangschikkingscriteria, bedoeld in artikel 8.15, eerste lid.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste elf leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  8.13  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  8.14  
 
@@ -1300,7 +1809,7 @@ De minister verstrekt op aanvraag een subsidie aan een MKB-ondernemer voor het u
 
 ### Artikel  9.1b  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie 50 procent van de subsidiabele kosten.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie 50 procent van de subsidiabele kosten.   
 2.  Het maximum subsidiebedrag bedraagt € 50.000 per haalbaarheidsproject.   
 
 ### Artikel  9.1c  
@@ -1309,7 +1818,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  9.1d  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is één jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is één jaar.  
 
 ### Artikel  9.1e  
 
@@ -1340,7 +1849,7 @@ De penvoerder is een MKB-ondernemer.
 
 ### Artikel  9.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 45 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1353,7 +1862,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  9.5  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), is twee jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies, is twee jaar.  
 
 ### Artikel  9.6  
 
@@ -1386,7 +1895,7 @@ De penvoerder is een ondernemer.
 
 ### Artikel  9.9  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1402,13 +1911,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  9.11  
 
-1.  Er is een Adviescommissie Point-One Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 9.13 en de rangschikkingscriteria, bedoeld in artikel 9.14.   
+1.  Er is een Adviescommissie Point-One Programma die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 9.13 en de rangschikkingscriteria, bedoeld in artikel 9.14.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste twintig leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  9.12  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  9.13  
 
@@ -1461,7 +1970,7 @@ De penvoerder is een ondernemer.
 
 ### Artikel  9.18  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1477,11 +1986,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  9.20  
 
-De in artikel 9.11 genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 9.22 en de rangschikkingscriteria, bedoeld in artikel 9.23.  
+De in artikel 9.11 genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 9.22 en de rangschikkingscriteria, bedoeld in artikel 9.23.  
 
 ### Artikel  9.21  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  9.22  
 
@@ -1527,7 +2036,7 @@ De penvoerder is een ondernemer of een onderzoeksorganisatie.
 
 ### Artikel  9.27  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
 
@@ -1541,11 +2050,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  9.29  
 
-De in artikel 9.11 genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 9.31 en de rangschikkingscriteria, bedoeld in artikel 9.32.  
+De in artikel 9.11 genoemde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 9.31 en de rangschikkingscriteria, bedoeld in artikel 9.32.  
 
 ### Artikel  9.30  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  9.31  
 
@@ -1607,7 +2116,7 @@ De minister verstrekt op aanvraag subsidie aan een MKB-ondernemer die een polyme
 
 ### Artikel  10.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie 50 procent van de subsidiabele kosten.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie 50 procent van de subsidiabele kosten.   
 2.  Het maximum subsidiebedrag bedraagt € 50.000 per subsidie-ontvanger.   
 
 ### Artikel  10.4  
@@ -1616,7 +2125,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  10.5  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is één jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is één jaar.  
 
 ### Artikel  10.6  
 
@@ -1627,7 +2136,7 @@ a. van het innovatieproject waarop het polymeren haalbaarheidsproject betrekking
 b. het innovatieproject waarop het polymeren haalbaarheidsproject betrekking heeft technisch onvoldoende risicovol is;  
 
 c. het polymeren haalbaarheidsproject onvoldoende inzicht geeft in het economisch perspectief en de toepassingsmogelijkheden van de projectresultaten.     
-2.  De afwijzingsgrond, genoemd in [artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
+2.  De afwijzingsgrond, genoemd in artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies is niet van toepassing.   
 
 ### Artikel  10.7  
 
@@ -1641,7 +2150,7 @@ c. het polymeren haalbaarheidsproject onvoldoende inzicht geeft in het economisc
 ### Artikel  10.8  
 
 1.  De minister verstrekt op aanvraag subsidie aan een deelnemer in een polymeren MKB-samenwerkingsverband dat een polymeren MKB-innovatieproject uitvoert.   
-2.  In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een polymeren MKB-samenwerkingsverband.   
+2.  In afwijking van artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies, kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een polymeren MKB-samenwerkingsverband.   
 
 ### Artikel  10.9  
 
@@ -1649,7 +2158,7 @@ De penvoerder is een MKB-ondernemer.
 
 ### Artikel  10.10  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1665,7 +2174,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  10.12  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  10.13  
 
@@ -1684,7 +2193,7 @@ c. het polymeren MKB-innovatieproject geen wezenlijke bijdrage levert aan:
 3°. het creëren van economische waarde voor de deelnemers in het polymeren MKB-innovatieproject en de daarmee samenhangende positieve gevolgen voor de Nederlandse economie;    
 
 d. deze wordt ingediend door een overheid of overheidsinstelling, tenzij het een onderzoeksorganisatie betreft.     
-2.  De afwijzingsgrond, genoemd in [artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
+2.  De afwijzingsgrond, genoemd in artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies is niet van toepassing.   
 
 ### Artikel  10.14  
 
@@ -1698,7 +2207,7 @@ d. deze wordt ingediend door een overheid of overheidsinstelling, tenzij het een
 ### Artikel  10.15  
 
 1.  De minister verstrekt op aanvraag subsidie aan een deelnemer in een polymeren samenwerkingsverband dat een polymeren innovatieproject uitvoert.   
-2.  In afwijking van [artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een polymeren samenwerkingsverband.   
+2.  In afwijking van artikel 3, eerste lid, van het Kaderbesluit EZ-subsidies, kan de minister op aanvraag subsidie verstrekken aan een niet in Nederland gevestigde deelnemer in een polymeren samenwerkingsverband.   
 
 ### Artikel  10.16  
 
@@ -1706,7 +2215,7 @@ De penvoerder is een MKB-ondernemer.
 
 ### Artikel  10.17  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1722,7 +2231,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  10.19  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  10.20  
 
@@ -1741,7 +2250,7 @@ c. het polymeren innovatieproject geen wezenlijke bijdrage levert aan:
 3°. het creëren van economische waarde voor de deelnemers in het polymeren innovatieproject en de daarmee samenhangende positieve gevolgen voor de Nederlandse economie;    
 
 d. deze wordt ingediend door een overheid of overheidsinstelling, tenzij het een onderzoeksorganisatie betreft.     
-2.  De afwijzingsgrond, genoemd in [artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
+2.  De afwijzingsgrond, genoemd in artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies is niet van toepassing.   
 
 ### Artikel  10.21  
 
@@ -1778,7 +2287,7 @@ De penvoerder is een ondernemer.
 
 ### Artikel  10a.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1796,11 +2305,11 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  10a.6  
 
-Er is een adviescommissie HighTech Topprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 10a.8 en de rangschikkingscriteria, bedoeld in artikel 10a.9.  
+Er is een adviescommissie HighTech Topprojecten die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 10a.8 en de rangschikkingscriteria, bedoeld in artikel 10a.9.  
 
 ### Artikel  10a.7  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is twee jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is twee jaar.  
 
 ### Artikel  10a.8  
 
@@ -1838,8 +2347,8 @@ f. het op peil houden van R&D-investeringen op internationaal onderscheidende ge
 
 ### Artikel  10a.11  
 
-1.  In afwijking van [artikel 46, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), worden de volgende voorschotten verstrekt op twee tijdstippen die in de beschikking tot subsidieverlening worden opgenomen.   
-2.  In afwijking van [artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt het voorschot aan een deelnemer in een HighTech Topprojecten-samenwerkingsverband 100% van het bedrag dat in de perioden volgend op de tijdstippen, bedoeld in het eerste lid, maximaal voor subsidie in aanmerking komt.   
+1.  In afwijking van artikel 46, tweede lid, van het Kaderbesluit EZ-subsidies, worden de volgende voorschotten verstrekt op twee tijdstippen die in de beschikking tot subsidieverlening worden opgenomen.   
+2.  In afwijking van artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies bedraagt het voorschot aan een deelnemer in een HighTech Topprojecten-samenwerkingsverband 100% van het bedrag dat in de perioden volgend op de tijdstippen, bedoeld in het eerste lid, maximaal voor subsidie in aanmerking komt.   
 
 ### Hoofdstuk  10b  
 
@@ -1851,7 +2360,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 – *jonge onderzoeker:* onderzoeker die in 2008 of later het certificaat van de opleiding tot technologisch ontwerper of de graad van doctor heeft behaald of zal behalen;  
 
-– *kennisinstelling:* een onderzoeksorganisatie of een instelling voor hoger onderwijs als bedoeld in [artikel 1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+– *kennisinstelling:* een onderzoeksorganisatie of een instelling voor hoger onderwijs als bedoeld in artikel 1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 – *onderzoeks- en detacheringsproject:* een innovatieproject bestaande uit fundamenteel of industrieel onderzoek of een combinatie daarvan, dat past binnen een maatschappelijk thema als bedoeld in bijlage 10b.1, en dat wordt uitgevoerd door een onderzoeks- en detacheringssamenwerkingsverband;  
 
@@ -1867,17 +2376,17 @@ De penvoerder is een ondernemer die deelneemt in het onderzoeks- en detacherings
 
 ### Artikel  10b.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie voor een deelnemer in een onderzoeks- en detacheringssamenwerkingverband 50 procent van de subsidiabele kosten voor zover deze op hem betrekking hebben, waarbij niet meer dan 5,9 procent van de subsidiabele kosten die betrekking hebben op de deelnemende kennisinstellingen voor subsidie in aanmerking wordt genomen.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een deelnemer in een onderzoeks- en detacheringssamenwerkingverband 50 procent van de subsidiabele kosten voor zover deze op hem betrekking hebben, waarbij niet meer dan 5,9 procent van de subsidiabele kosten die betrekking hebben op de deelnemende kennisinstellingen voor subsidie in aanmerking wordt genomen.   
 2.  De subsidie voor een kennisinstelling bedraagt voorts 9,375 procent van de subsidiabele kosten voor zover deze betrekking hebben op de bij die kennisinstelling gedetacheerde onderzoekers van de in het samenwerkingsverband deelnemende ondernemers.   
 3.  Het maximum subsidiebedrag bedraagt € 10.000.000 per subsidie-ontvanger.   
 
 ### Artikel  10b.5  
 
-1.  In afwijking van de [artikelen 10, eerste en derde tot en met vijfde lid](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), en [11 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) komen uitsluitend de overeenkomstig het tweede lid en met inachtneming van het derde lid berekende kosten voor subsidie in aanmerking.   
+1.  In afwijking van de artikelen 10, eerste en derde tot en met vijfde lid, en 11 van het Kaderbesluit EZ-subsidies komen uitsluitend de overeenkomstig het tweede lid en met inachtneming van het derde lid berekende kosten voor subsidie in aanmerking.   
 2.  De subsidiabele kosten worden berekend door de loonkosten die de direct bij de uitvoering van het onderzoeks- en detacheringsproject betrokken onderzoekers ten behoeve van die uitvoering hebben gemaakt te verhogen met 50 procent als opslag voor indirecte kosten.   
 3.  Voor subsidie komen niet in aanmerking de loonkosten van direct bij de uitvoering van het onderzoeks- en detacheringsproject betrokken onderzoekers die: 
 
-a. een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontvangen;  
+a. een uitkering op grond van de Werkloosheidswet ontvangen;  
 
 b. niet in dienst zijn van een in het project deelnemende ondernemer of kennisinstelling;  
 
@@ -1891,7 +2400,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  10b.7  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) eindigt op 31 december 2010.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies eindigt op 31 december 2010.  
 
 ### Artikel  10b.8  
 
@@ -1908,7 +2417,7 @@ d. onvoldoende is aangegeven op welke wijze gedurende de looptijd van het onderz
 e. geen overeenkomst is bijgevoegd over de wijze waarop zal worden omgegaan met de overdracht van kennis en intellectuele eigendomsrechten of andere onderzoeksresultaten van het onderzoeks- en detacheringsproject met inbegrip van de toepassing van die onderzoeksresultaten;  
 
 f. onvoldoende is aangegeven op welke wijze andere ondernemers en andere kennisinstellingen kunnen deelnemen in het onderzoeks- en detacheringssamenwerkingsverband en op welke wijze de deelnemers in dat samenwerkingsverband zullen voorzien in vacatures bij het onderzoeks- en detacheringsproject.     
-2.  De afwijzingsgrond, genoemd in [artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
+2.  De afwijzingsgrond, genoemd in artikel 23, onderdeel a, van het Kaderbesluit EZ-subsidies is niet van toepassing.   
 
 ### Artikel  10b.9  
 
@@ -1927,8 +2436,8 @@ De beschikking tot het verlenen van een subsidie wordt verleend onder de opschor
 
 ### Artikel  10b.11  
 
-1.  De verplichting, genoemd in [artikel 38, eerste lid aanhef en onderdeel e, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.   
-2.  De verplichtingen, bedoeld in [artikel 41 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
+1.  De verplichting, genoemd in artikel 38, eerste lid aanhef en onderdeel e, van het Kaderbesluit EZ-subsidies is niet van toepassing.   
+2.  De verplichtingen, bedoeld in artikel 41 van het Kaderbesluit EZ-subsidies zijn niet van toepassing.   
 
 ### Artikel  10b.12  
 
@@ -1937,7 +2446,7 @@ De beschikking tot het verlenen van een subsidie wordt verleend onder de opschor
 
 ### Artikel  10b.13  
 
-In afwijking van [artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt het voorschot voor deelnemers in een onderzoeks- en detacheringssamenwerkingsverband aan wie voor de uitvoering van een onderzoeks- en detacheringsproject subsidie wordt verstrekt, 100 procent van het bedrag dat in het desbetreffende kwartaal maximaal als subsidie in aanmerking komt.  
+In afwijking van artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies bedraagt het voorschot voor deelnemers in een onderzoeks- en detacheringssamenwerkingsverband aan wie voor de uitvoering van een onderzoeks- en detacheringsproject subsidie wordt verstrekt, 100 procent van het bedrag dat in het desbetreffende kwartaal maximaal als subsidie in aanmerking komt.  
 
 ### Hoofdstuk  10c  
 
@@ -1973,7 +2482,7 @@ g. verbetering van ontwikkelings-, ontwerp- of productietechnologieën.
 
 ### Artikel  10c.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten van een civiel vliegtuigontwikkelingsproject voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -1992,7 +2501,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ### Artikel  10c.5  
 
-De afwijzingsgrond, genoemd in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is niet van toepassing.  
+De afwijzingsgrond, genoemd in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is niet van toepassing.  
 
 ### Artikel  10c.6  
 
@@ -2006,7 +2515,7 @@ b. hij de subsidiabele kosten raamt op minder dan € 25.000.
 
 De subsidie-ontvanger zal, behoudens voorafgaande schriftelijke ontheffing van de minister, niet: 
 
-a. indien hij een rechtspersoon is, de rechtspersoon ontbinden of geheel of gedeeltelijk vervreemden noch zijn statutaire zetel verplaatsen buiten Nederland;  
+a. indien hij een rechtspersoon is, de rechtspersoon ontbinden of geheel of gedeeltelijk vervreemden;  
 
 b. indien hij deelneemt in een vennootschap onder firma of maatschap, meewerken aan de ontbinding ervan of aan het uittreden van een of meer deelnemers ervan.    
 
@@ -2014,12 +2523,12 @@ b. indien hij deelneemt in een vennootschap onder firma of maatschap, meewerken 
 
 1.  De subsidie-ontvanger betaalt de verstrekte subsidie met terugbetalingsverplichting volgens een in de beschikking tot subsidieverlening vastgelegd schema terug aan de minister, tenzij: 
 
-a. het project technisch is mislukt en onze Minister op grond daarvan met toepassing van [artikel 37, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), ontheffing heeft gegeven voor het stopzetten van het project en de aanvrager aannemelijk maakt, dat met uit het project voortvloeiende of ervan afgeleide productie of dienstverlening geen omzet zal worden gerealiseerd, of  
+a. het project technisch is mislukt en onze Minister op grond daarvan met toepassing van artikel 37, eerste lid, van het Kaderbesluit EZ-subsidies, ontheffing heeft gegeven voor het stopzetten van het project en de aanvrager aannemelijk maakt, dat met uit het project voortvloeiende of ervan afgeleide productie of dienstverlening geen omzet zal worden gerealiseerd, of  
 
 b. sedert de vaststelling van het bedrag van het krediet in een aaneengesloten periode van vijf jaren met uit het project voortvloeiende of ervan afgeleide productie of dienstverlening geen omzet is gerealiseerd en de aanvrager aannemelijk maakt, dat zulks in de komende vijf jaren ook niet kan worden verwacht.     
 2.  De subsidie-ontvanger betaalt over het uitstaande saldo aan de minister jaarlijks een bij de beschikking tot subsidieverlening vastgesteld rentepercentage, dat op een civiel vliegtuigontwikkelingsproject van toepassing blijft tot aan de betalingsverplichtingen geheel is voldaan.   
 3.  De rente wordt aan het eind van elk kalenderjaar rentedragend bij het uitstaande saldo bijgeschreven.   
-4.  De subsidie-ontvanger betaalt het uitstaande saldo, behoudens indien een ontheffing als bedoeld in [artikel 42, derde of vijfde lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is verleend, binnen 17 jaar na vaststelling van de subsidie aan de minister.   
+4.  De subsidie-ontvanger betaalt het uitstaande saldo binnen 17 jaar na vaststelling van de subsidie aan de minister.   
 5.  Nadat het uitstaande saldo geheel is voldaan, is de subsidie-ontvanger gedurende 5 jaar verplicht per verkochte uit het project voortvloeiende of ervan afgeleide product of dienst een vergoeding aan de minister te betalen. Deze vergoeding bedraagt 10% van de terugbetaling die per product of dienst verschuldigd is in het jaar dat het uitstaande saldo geheel wordt voldaan.   
 
 ### Hoofdstuk  10d  
@@ -2054,7 +2563,7 @@ De minister verstrekt op aanvraag een subsidie aan een TTI dat een strategisch o
 
 ### Artikel  10d.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 75 procent van de subsidiabele kosten voor zover deze betrekking hebben op fundamenteel onderzoek;  
 
@@ -2071,7 +2580,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  10d.5  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is vier jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is vier jaar.  
 
 ### Artikel  10d.6  
 
@@ -2152,7 +2661,7 @@ c. rechten die voortvloeien uit een aanvraag om een intellectueel eigendomsrecht
 
 ### Artikel  10d.10  
 
-De rapportage, genoemd in [artikel 39, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), bevat in ieder geval: 
+De rapportage, genoemd in artikel 39, eerste lid, van het Kaderbesluit EZ-subsidies, bevat in ieder geval: 
 
 a. een overzicht van de mate waarin de doelen van het lopende jaar zijn gerealiseerd;  
 
@@ -2162,31 +2671,37 @@ c. een overzicht van de activiteiten in en doelen voor het eerstvolgende jaar.
 
 ### Artikel  10d.11  
 
-In afwijking van [artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt het voorschot 100% van het bedrag dat in het desbetreffende kwartaal maximaal voor subsidie in aanmerking komt.  
+In afwijking van artikel 46, vierde lid, van het Kaderbesluit EZ-subsidies bedraagt het voorschot 100% van het bedrag dat in het desbetreffende kwartaal maximaal voor subsidie in aanmerking komt.  
 
 ### Hoofdstuk  10e  
 
-####Innovatieve zeescheepsbouw
+####Innovatieve scheepsbouw
 
 ### Artikel  10e.1  
 
 In dit hoofdstuk wordt verstaan onder: 
 
-– *EU-steunkaderregeling scheepsbouw:* de kaderregeling nr. 2003/C 317/06 van 30 december 2003 inzake staatssteun aan de scheepsbouw (PbEU 2003, C 317);  
+– *EU-steunkaderregeling scheepsbouw:* de kaderregeling nr. 2011/C 364/06 van 14 december 2011 inzake staatssteun aan de scheepsbouw (PbEU 2011, C 364);  
 
-– *opdrachtgever:* natuurlijke persoon of rechtspersoon die opdracht heeft gegeven tot de bouw of verbouw van een zeeschip;  
+– *opdrachtgever:* natuurlijke persoon of rechtspersoon die opdracht heeft gegeven tot de bouw of verbouw van een schip of de bouw van een drijvende en bewegende offshore-constructie;  
 
-– *scheepsbouwinnovatieproject:* de industriële toepassing bij de bouw of verbouw van een zeeschip van technologisch nieuwe of aanmerkelijk verbeterde producten en processen in vergelijking met die welke in de scheepsbouwsector gewoonlijk binnen de Europese Gemeenschap worden gebruikt of beschikbaar zijn en waarvan de implementatie of toepassing een risico voor technologische of industriële mislukking inhoudt. Onder producten en processen wordt in deze bepaling verstaan: 
+– *scheepsbouwinnovatieproject:* de industriële toepassing bij de bouw of verbouw van een schip of de bouw van een drijvende en bewegende offshore-constructie van technologisch nieuwe of aanmerkelijk verbeterde producten en processen in vergelijking met die welke in de scheepsbouwsector gewoonlijk binnen de Europese Gemeenschap worden gebruikt of beschikbaar zijn en waarvan de implementatie of toepassing een risico voor technologische of industriële mislukking inhoudt. Onder producten en processen als bedoeld in de artikelen 14 en 15 van de EU-steunkaderregeling scheepsbouw, wordt in deze bepaling verstaan: 
 
-a. de ontwikkeling en het ontwerp van een nieuwe scheepsklasse zijnde het eerste schip van een potentiële serie zeeschepen,  
+a. de ontwikkeling en het ontwerp van een nieuwe scheepsklasse of een nieuwe klasse drijvende en bewegende offshore-constructies, zijnde het eerste schip of de eerste offshore-constructie van een potentiële serie schepen of een potentiële serie offshore-constructies;  
 
-b. de ontwikkeling van een innovatief onderdeel van een zeeschip dat als afzonderlijk element van het schip kan worden onderscheiden,  
+b. de ontwikkeling van een innovatief onderdeel van een schip dat als afzonderlijk element van het schip kan worden onderscheiden, of  
 
-c. de ontwikkeling en implementatie van een innovatief proces met betrekking tot de productie, de planning, de logistiek of het ontwerp van zeeschepen;    
+c. de ontwikkeling en implementatie van een innovatief proces met betrekking tot de productie, de planning, de logistiek of het ontwerp van schepen;    
 
-– *scheepswerf:* bedrijf dat in Nederland zeeschepen ontwikkelt, ontwerpt, bouwt, verbouwt en uitrust;  
+– *scheepswerf:* bedrijf dat in Nederland schepen of drijvende en bewegende offshore-constructies ontwikkelt, ontwerpt, bouwt, verbouwt en uitrust;  
 
-– *zeeschip:* zelfvoortstuwende commerciële zeeschepen als bedoeld in artikel 10, onderdeel d, onder i tot en met iii, van de EU-steunkaderregeling.    
+– *schip:* zelfvoortstuwend commercieel zeeschip of binnenvaartschip als bedoeld in artikel 12, onderdeel d, onder i tot en met iii, van de EU-steunkaderregeling scheepsbouw;  
+
+– *drijvende en bewegende offshore-constructie:* constructie voor de exploratie, exploitatie of productie van olie, gas of hernieuwbare energie die de kenmerken van een commercieel schip bezit, doch zonder eigen voorstuwing, en die bedoeld is om meermaals op eigen drijfvermogen te worden verplaatst terwijl zij in bedrijf is.    
+
+### Artikel  10e.1a  
+
+Dit hoofdstuk valt, in afwijking van artikel 1.5, onder de EU-steunkaderregeling scheepsbouw.  
 
 ### Artikel  10e.2  
 
@@ -2194,18 +2709,19 @@ De minister verstrekt op aanvraag subsidie voor innovatie aan een scheepswerf di
 
 ### Artikel  10e.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie 20 procent van de subsidiabele kosten.   
-2.  Het maximum subsidiebedrag bedraagt: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie 20 procent van de subsidiabele kosten.   
+2.  Indien de innovatie betere milieubescherming tot doel heeft en ertoe leidt dat minstens een jaar voordat normen van de Unie worden vastgesteld aan die normen wordt voldaan of, indien er geen normen van de Unie zijn, het niveau van milieubescherming doet stijgen of het mogelijk maakt verder te gaan dan de normen van de Unie, bedraagt de subsidie, in afwijking van het eerste lid, 30 procent van de subsidiabele kosten. De begrippen ‘normen van de Unie’ en ‘milieubescherming hebben de betekenis die daaraan in de communautaire richtsnoeren inzake staatssteun voor milieubescherming is gegeven.   
+3.  Het maximum subsidiebedrag bedraagt: 
 
-a. € 150 per compensated gross tonnage voor zover het de bouw van een nieuw zeeschip betreft;  
+a. € 150 per compensated gross tonnage voor zover het de bouw van een nieuw schip betreft;  
 
 b. € 5.000.000 voor zover het nieuwe processen betreft.     
 
 ### Artikel  10e.4  
 
-1.  In afwijking van [artikel 10, eerste lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), komen uitsluitend de in het tweede tot en met vierde lid genoemde kosten voor subsidie in aanmerking.   
-2.  De voor subsidie in aanmerking komende kosten zijn beperkt tot de kosten voor investeringen, ontwerp, technische- en testactiviteiten die rechtstreeks en uitsluitend in verband staan met het innovatieve onderdeel van een scheepsbouwinnovatieproject. Deze kosten omvatten mede de kosten voor de levering van goederen en diensten van derden voor zover deze direct en uitsluitend verband houden met de innovatieve delen van het scheepsbouwinnovatieproject;   
-3.  Voor de bouw van een nieuwe scheepsklasse, zijnde het eerste schip van een potentiële serie zeeschepen, komen de volgende ontwerpkosten voor subsidie in aanmerking: 
+1.  In afwijking van artikel 10, eerste lid, van het Kaderbesluit EZ-subsidies, komen uitsluitend de in het tweede tot en met vierde lid genoemde kosten voor subsidie in aanmerking.   
+2.  De voor subsidie in aanmerking komende kosten zijn beperkt tot de kosten voor investeringen, ontwerp, technische- en testactiviteiten die rechtstreeks en uitsluitend in verband staan met het innovatieve onderdeel van een scheepsbouwinnovatieproject. Deze kosten omvatten mede de kosten voor de levering van goederen en diensten van derden voor zover deze direct en uitsluitend verband houden met de innovatieve delen van het scheepsbouwinnovatieproject en aan de leverancier voor deze levering geen staatsteun voor dezelfde doeleinden is verstrekt.   
+3.  Voor de bouw van een nieuwe scheepsklasse of een nieuwe klasse drijvende en bewegende offshore-constructies, zijnde het eerste schip of de eerste offshore-constructie van een potentiële serie schepen of een potentiële serie offshore-constructies, komen de volgende kosten voor subsidie in aanmerking: 
 
 a. de conceptontwikkeling;  
 
@@ -2215,12 +2731,12 @@ c. het functionele ontwerp;
 
 d. het detailontwerp;  
 
-e. de kosten voor studies, testen, proefmodellen en soortgelijke kosten voor de ontwikkeling en het ontwerp van het zeeschip;  
+e. de kosten voor studies, testen, proefmodellen en soortgelijke kosten voor de ontwikkeling en het ontwerp van het schip of de drijvende en bewegende offshore-constructie;  
 
 f. de kosten voor de planning van de implementatie van het ontwerp;  
 
-g. de kosten voor het testen en het proefdraaien van het product;   met uitzondering van de kosten voor het standaard technisch ontwerp die ook gemaakt zouden zijn als het een bestaande scheepsklasse betrof.   
-4.  Voor innovatieve onderdelen van een zeeschip, komen de volgende kosten voor subsidie in aanmerking: 
+g. de kosten voor het testen en het proefdraaien van het product;   met uitzondering van de kosten voor het standaard technisch ontwerp die ook gemaakt zouden zijn als het een bestaande scheepsklasse of een bestaande klasse drijvende en bewegende offshore-constructie betrof.   
+4.  Voor innovatieve onderdelen van een schip, komen de volgende kosten voor subsidie in aanmerking: 
 
 a. de kosten voor het ontwerp en de ontwikkeling;  
 
@@ -2237,7 +2753,7 @@ b. de kosten voor materialen en uitrusting;
 
 c. de kosten voor het testen van het nieuwe proces indien van toepassing of  
 
-d. de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd, in afwijking van [artikel 10, tweede lid, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).     
+d. de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd, in afwijking van artikel 10, tweede lid, van het Kaderbesluit EZ-subsidies.     
 
 ### Artikel  10e.5  
 
@@ -2246,35 +2762,48 @@ d. de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aan
 
 ### Artikel  10e.6  
 
-1.  Er is een Adviescommissie innovatieve zeescheepsbouw die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 10e.7.   
+1.  Er is een Adviescommissie innovatieve scheepsbouw die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in artikelen 22 en 23 van het Kaderbesluit EZ-subsidies en in artikel 10e.7.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste vijf leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vijf jaar.   
+4.  De leden kunnen worden herbenoemd.   
 
 ### Artikel  10e.7  
 
 De minister beslist afwijzend op een aanvraag: 
 
-a. voor zover aan het scheepsbouwinnovatieproject andere vormen van staatssteun in de zin van artikel 87, eerste lid, van het EG-verdrag worden verstrekt of op andere wijze communautaire financiering wordt verstrekt waarbij de cumulatie van dergelijke steun tot gevolg heeft dat de steunintensiteit het niveau zoals bedoeld in artikel 15, aanhef en onderdeel a, van de EU-steunkaderregeling, overschrijdt;  
+a. voor zover aan het scheepsbouwinnovatieproject andere vormen van staatssteun in de zin van artikel 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie worden verstrekt of op andere wijze communautaire financiering wordt verstrekt waarbij de cumulatie van dergelijke steun tot gevolg heeft dat de steunintensiteit het niveau zoals bedoeld in artikel 14 van de EU-steunkaderregeling, overschrijdt;  
 
-b. indien tussen de scheepswerf en de opdrachtgever voor de bouw of verbouw van een zeeschip waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt als bedoeld in artikel 3, eerste lid, reeds ten tijde van de aanvraag een schriftelijk, bindend en volledig contract is afgesloten;  
+b. indien tussen de scheepswerf en de opdrachtgever voor de bouw of verbouw van een schip of de bouw van een drijvende en bewegende offshore-constructie waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt als bedoeld in artikel 3, eerste lid, reeds ten tijde van de aanvraag een schriftelijk, bindend en volledig contract is afgesloten;  
 
-c. indien de aanvrager reeds ten tijde van de aanvraag is begonnen met de implementatie van een nieuw proces bij de bouw of verbouw van een zeeschip;  
+c. indien de aanvrager voor de indiening van de aanvraag een aanvang heeft gemaakt met de uitvoering van het scheepsbouwinnovatieproject;  
 
 d. indien door verlening van de subsidie het totaal van de op grond van deze regeling verleende subsidie ten behoeve van de scheepswerf of van de groep, waartoe deze scheepswerf behoort, meer zou bedragen dan 30 procent van het voor deze regeling toepasselijke subsidieplafond;  
 
-e. indien van het scheepsbouwinnovatieproject onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.    
+e. indien van het scheepsbouwinnovatieproject onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn;  
+
+f. indien de aanvrager niet heeft aangetoond dat de gevraagde subsidie een stimulerend effect heeft in de zin van artikel 25 van de EU-steunkaderregeling scheepsbouw;  
+
+g. in geval van een binnenvaartschip voor het vervoer van goederen, indien de deadweight minder dan 200 ton bedraagt;  
+
+h. in geval van een binnenvaartschip voor het vervoer van passagiers en in geval van een binnenvaartschip voor het verrichten van een speciale dienst, indien de waterverplaatsing minder dan 40 ton bedraagt;  
+
+i. in geval van een sleepboot, indien het vermogen minder dan 365 kW bedraagt;  
+
+j. in geval van de verbouw van een vissersvaartuig, tenzij de voorwaarden van artikel 25, tweede en zesde lid, van Verordening (EG) nr. 1198/2006 van de Raad van 27 juli 2006 inzake het Europees Visserijfonds (PbEU L 223) zijn vervuld;  
+
+k. in geval van de verbouw van een vissersvaartuig, indien voor het scheepsbouwinnovatieproject reeds subsidie is verleend uit hoofde van het Europees Visserijfonds.    
 
 ### Artikel  10e.8  
 
 1.  Een subsidie wordt verleend onder de opschortende voorwaarde dat de subsidieontvanger uiterlijk dertien weken na de beschikking tot subsidieverlening heeft aangetoond: 
 
-a. dat de opdrachtgever en de subsidieontvanger een schriftelijk contract, zijnde een schriftelijke letter of intent, dan wel een schriftelijke letter of award, dan wel een ander schriftelijk stuk waaruit blijkt dat een schriftelijk contract tussen de scheepswerf en de opdrachtgever met betrekking tot de bouw of verbouw van een zeeschip waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt, zoals bedoeld in artikel 10e.1, definitie scheepsbouwinnovatieproject, onderdeel a, b en c, zal worden gesloten, onvoorwaardelijk zal worden dan wel nader zal worden uitgewerkt, bindend en volledig zijn aangegaan door ondertekening,  
+a. dat de opdrachtgever en de subsidie-ontvanger het schriftelijke contract met betrekking tot de uitvoering van het scheepsbouwinnovatieproject waarvoor de subsidie is verleend onvoorwaardelijk, bindend en volledig zijn aangegaan door ondertekening,  
 
-b. dat de opdrachtgever ter zake van de bouw of verbouw van een zeeschip waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt, bedoeld in artikel 10e.1 onder scheepsbouwinnovatieproject, een of meer betalingen heeft gedaan en  
+b. dat de opdrachtgever ter zake van de bouw of verbouw van een schip of de bouw van een drijvende en bewegende offshore-constructie waarbij technologische nieuwe of aanmerkelijk verbeterde producten en processen worden gebruikt, bedoeld in artikel 10e.1 onder scheepsbouwinnovatieproject, een of meer betalingen heeft gedaan en  
 
 c. dat er een verklaring van de scheepswerf is inhoudende dat het contract, bedoeld in onderdeel a, de volledige weergave vormt van de tussen de scheepswerf en opdrachtgever gemaakte afspraken.     
 2.  Binnen zes weken na ontvangst van de stukken, bedoeld in het eerste lid, onderdeel a en b, deelt de minister aan de subsidieontvanger mee of aan de voorwaarde is voldaan.   
-3.  De minister kan op voorafgaand schriftelijk en gemotiveerd verzoek van de subsidie-ontvanger de termijn genoemd in het eerste lid met maximaal dertien weken verlengen.   
+3.  De minister kan op voorafgaand schriftelijk en gemotiveerd verzoek van de subsidie-ontvanger de termijn genoemd in het eerste lid met maximaal een jaar verlengen.   
 
 ### Artikel  10e.9  
 
@@ -2283,11 +2812,11 @@ c. dat er een verklaring van de scheepswerf is inhoudende dat het contract, bedo
 
 ### Artikel  10e.10  
 
-In aanvulling op [artikel 39 van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) maakt de subsidie-ontvanger een vergelijking van de uitvoering van het project met het projectplan en de bij de subsidieverlening vermelde raming van de projectkosten.  
+In aanvulling op artikel 39 van het Kaderbesluit EZ-subsidies maakt de subsidie-ontvanger een vergelijking van de uitvoering van het project met het projectplan en de bij de subsidieverlening vermelde raming van de projectkosten.  
 
 ### Artikel  10e.11  
 
-In afwijking van [artikel 46, vierde lid, van hetKaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) bedraagt het voorschot 80% van de maximale hoogte van de subsidie.  
+In afwijking van artikel 46, vierde lid, van hetKaderbesluit EZ-subsidies bedraagt het voorschot 80% van de maximale hoogte van de subsidie.  
 
 ### Hoofdstuk  10f  
 
@@ -2328,13 +2857,13 @@ c. een deelnemer in een samenwerkingsverband die een project uitvoert.
 
 ### Artikel  10f.3  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie 70 procent van de subsidiabele kosten.   
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie 70 procent van de subsidiabele kosten.   
 2..  Het maximum subsidiebedrag bedraagt € 350.000 per subsidie-ontvanger, als bedoeld in artikel 10f.2, onderdeel a en b.   
 3.  Indien het totale subsidiebedrag voor de deelnemers aan een samenwerkingsverband, als bedoeld in artikel 10f.2, onderdeel c, meer bedraagt dan € 350.000, wordt het meerdere naar rato in mindering gebracht op de aan de betrokken aanvragers te verstrekken subsidie.   
 
 ### Artikel  10f.4  
 
-1.  Er is een Adviescommissie Ruimtevaart Technologie Ontwikkeling die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 10f.5 en de rangschikingscriteria, bedoeld in artikel 10f.6.   
+1.  Er is een Adviescommissie Ruimtevaart Technologie Ontwikkeling die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en in artikel 10f.5 en de rangschikingscriteria, bedoeld in artikel 10f.6.   
 2.  De commissie bestaat uit ten minste twee en ten hoogste zes leden.   
 3.  De voorzitter en de leden worden benoemd voor een termijn van ten hoogste drie jaar.   
 
@@ -2415,7 +2944,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking.
 
 ### Artikel  10g.5  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is drie jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is drie jaar.  
 
 ### Artikel  10g.6  
 
@@ -2435,7 +2964,7 @@ f. criterium 6: de geleverde prestaties van de aanvrager wat betreft het vertale
 2.  De minister kent per criterium een maximaal aantal punten toe volgens onderstaande verdeling:  
 
 | criterium  | slecht  | matig  | voldoende  | goed  | zeer goed  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1  | 2  | 12  | 28  | 48  | 60  |
 | 2  | 1  | 8  | 18  | 32  | 40  |
 | 3  | 1  | 2  | 4  | 8  | 10  |
@@ -2494,7 +3023,7 @@ De penvoerder is een ondernemer die deelneemt aan een SII innovatiesamenwerkings
 
 ### Artikel  10h.4  
 
-1.  In afwijking van de [Regeling steunintensiteit](../../../../../../ministeriele-regeling/regeling/steunintensiteit/BWBR0026689/README.md) bedraagt de subsidie: 
+1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie: 
 
 a. 50 procent van de subsidiabele kosten voor zover deze betrekking hebben op industrieel onderzoek;  
 
@@ -2510,13 +3039,13 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  10h.6  
 
-1.  Er is een Adviescommissie SII die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en artikel 10h.8 en de rangschikkingscriteria, bedoeld in artikel 10h.9, eerste lid.   
+1.  Er is een Adviescommissie SII die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de artikelen 22 en 23, onderdelen e tot en met h, van het Kaderbesluit EZ-subsidies en artikel 10h.8 en de rangschikkingscriteria, bedoeld in artikel 10h.9, eerste lid.   
 2.  De commissie bestaat uit ten minste drie en ten hoogste zeven leden.   
 3.  De voorzitter en de andere leden worden benoemd voor een termijn van ten hoogste vier jaar.   
 
 ### Artikel  10h.7  
 
-De termijn, bedoeld in [artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) is twee jaar.  
+De termijn, bedoeld in artikel 23, onderdeel c, van het Kaderbesluit EZ-subsidies is twee jaar.  
 
 ### Artikel  10h.8  
 
@@ -2556,15 +3085,15 @@ d. de kwaliteit van de samenwerking en een brede betrokkenheid van verschillende
 
 Het formulier voor het indienen van een aanvraag voor: 
 
-a. subsidie voor projecten op grond van deze regeling, met uitzondering van hoofdstuk 10e, is opgenomen in de bij deze regeling behorende bijlage 11.1;  
+a. subsidie voor projecten op grond van deze regeling, met uitzondering van de hoofdstukken 1a, 1b, 1c en 10e, is opgenomen in de bij deze regeling behorende bijlage 11.1;  
 
-b. subsidievaststelling voor projecten op grond van deze regeling, met uitzondering van hoofdstuk 10e, is opgenomen in de bij deze regeling behorende bijlage 11.2;  
+b. subsidievaststelling voor projecten op grond van deze regeling, met uitzondering van de hoofdstukken 1a en 10e, is opgenomen in de bij deze regeling behorende bijlage 11.2;  
 
 c. een vooraanmelding als bedoeld in artikel 3.4 is opgenomen in bijlage 11.3;  
 
-d. subsidie voor een Innovatieve zeescheepsbouw project is opgenomen in de bij deze regeling behorende bijlage 11.4;  
+d. subsidie voor een Innovatieve scheepsbouw project is opgenomen in de bij deze regeling behorende bijlage 11.4;  
 
-e. subsidievaststelling voor een Innovatieve zeescheepsbouw project is opgenomen in de bij deze regeling behorende bijlage 11.5.    
+e. subsidievaststelling voor een Innovatieve scheepsbouw project is opgenomen in de bij deze regeling behorende bijlage 11.5.    
 
 ### Hoofdstuk  12  
 
@@ -2593,7 +3122,7 @@ M.J.A. van derHoeven
 Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere voorschriften controle- en overige standaarden (ex Artikel A-130.7 VGC) van het NIVRA. In het rapport van feitelijke bevindingen rapporteert de accountant over de hieronder genoemde aspecten en aandachtspunten van de integrale kostensystematiek.  
 
 | 1. Beschrijving integrale kostensystematiek  |
-|:---|
+|---|
 |  *Opzet systematiek*   |
 | 1.1  | Welke kostendragers gebruikt de organisatie in de integrale kostensystematiek?  |
 | 1.2  | Hoe worden de indirecte kosten toegerekend aan de kostendragers?  |
@@ -2608,7 +3137,7 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 | 1.9  | Zijn de kosten voor machines en apparatuur onderdeel van de integrale kostensystematiek? Zo ja, geldt dat voor alle machines en apparatuur of zijn er ook machines en apparaten die in projecten als aparte post worden begroot?  |
 
 | 2. Basisvoorwaarden integrale kostensystematiek  |
-|:---|
+|---|
 | 2.1  | De toerekeningssystematiek en -principes (verdeelsleutels en -mechanismen van indirecte kosten; normen voor percentages, etc.) worden in de hele organisatie stelselmatig toegepast.  |
 | 2.2  | Kosten worden op een bedrijfseconomische aanvaardbare en stelselmatige wijze aan kostendragers toegerekend. Deze toerekening is transparant en controleerbaar.  |
 | 2.3  | Specifieke indirecte kosten van bepaalde activiteiten worden niet toegerekend aan andere activiteiten. *Bijvoorbeeld: specifieke indirecte kosten van onderwijsactiviteiten worden niet toegerekend aan onderzoeksactiviteiten en specifieke indirecte kosten van de marketingafdeling worden niet toegerekend aan R&D activiteiten.*  |
@@ -2617,10 +3146,10 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 | 2.6  | In de systematiek zijn geen winstopslagen opgenomen <sup>1</sup>  |
 | 2.7  | In de systematiek zijn geen toeslagen voor risico’s opgenomen.  |
 
-<sup>1</sup> Winstopslagen bij transacties binnen een groep worden wel in aanmerking genomen, maar alleen voor zover het gebruikelijk is die winstopslagen ook bij soortgelijke transacties buiten de groep in rekening te brengen ([art. 10 lid 5 Kaderbesluit EZ subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md)).  
+<sup>1</sup> Winstopslagen bij transacties binnen een groep worden wel in aanmerking genomen, maar alleen voor zover het gebruikelijk is die winstopslagen ook bij soortgelijke transacties buiten de groep in rekening te brengen (art. 10 lid 5 Kaderbesluit EZ subsidies).  
 
 | 3. Niet in de integrale kostensystematiek op te nemen kostencomponenten  |
-|:---|
+|---|
 | 3.1  | Kosten van algemene research <sup>1</sup>.  |
 | 3.2  | Kosten die al door de overheid of derden zijn of worden gefinancierd. *Bijvoorbeeld afschrijvingskosten van reeds gefinancierde gebouwen, installaties en apparatuur.*  |
 | 3.3  | Kosten die het gevolg zijn van buitensporige of roekeloze uitgaven <sup>2</sup>.  |
@@ -2637,6 +3166,147 @@ Het rapport van feitelijke bevindingen wordt opgesteld overeenkomstig de Nadere 
 | 3.14  | Wisselkoersverliezen.  |
 
 <sup>1</sup> Onder algemene research valt basisonderzoek, waaronder het eerste geldstroom onderzoek van universiteiten. De directe kosten van algemene research mogen niet zonder meer deel uitmaken van de integrale kostensytematiek. De indirecte kosten die aan algemene research zijn verbonden kunnen wel deel uitmaken van de systematiek, mits deze kosten evenredig worden omgeslagen over alle activiteiten. <sup>2</sup> Van *buitensporige uitgaven* is sprake als subsidie-ontvanger beduidend meer betaalt voor producten, diensten of personeel dan tegen de gangbare markttarieven, waardoor een vermijdbaar verlies wordt geleden of een vermijdbare hoge prijs wordt betaald. *Roekeloze uitgaven* betreft het onzorgvuldig omgaan met het selecteren van producten, diensten of personeel waardoor eveneens een vermijdbaar verlies wordt geleden of een vermijdbare hoge prijs wordt betaald. <sup>3</sup> Deze uitsluiting betreft reserveringen en voorzieningen die niet rechtstreeks aan kosten voor normale bedijfsuitoefening verbonden zijn. Overlopende activa en passiva zijn dus niet uitgesloten. <sup>4</sup> Voor universiteiten geldt hier een uitzondering, voor zover activa van universiteiten beslag leggen op eigen vermogen en voor zover die activa toerekenbaar zijn aan de subsidiabele activiteiten. Als rekenrente moet dan de 10-jaars rente van de Bank Nederlandse Gemeenten per primo van een betreffend jaar gehanteerd worden. 
+
+### Bijlage  1a.1  
+
+####, behorende bij artikel 1a.11, aanhef en onderdeel a 
+
+![]()
+![]()
+![]()
+
+### Bijlage  1a.2  
+
+####, behorende bij artikel 1a.11, aanhef en onderdeel b 
+
+![]()
+![]()
+
+### Bijlage  1a.3  
+
+####, behorende bij artikel 1a.11, aanhef en onderdeel c 
+
+![]()
+![]()
+
+### Bijlage  1b.1  
+
+####, behorend bij artikel 1b.13  van de Subsidieregeling sterktes in innovatie
+
+![]()
+![]()
+![]()
+
+### Bijlage  1 HTSM  
+
+####, behorende bij artikel 1b.2 
+
+Ligt ter inzage bij het Ministerie van Economische Zaken.  
+
+### Bijlage  1c.1  
+
+####, behorend bij artikel 1c.29, eerste lid , van de Subsidieregeling sterktes in innovatie
+
+![]()
+![]()
+![]()
+![]()
+![]()
+
+### Bijlage  1c.2  
+
+####, behorend bij artikel 1c.29, tweede lid , van de Subsidieregeling sterktes in innovatie
+
+![]()
+![]()
+
+### Bijlage  2 T&U  
+
+####, behorende bij artikel 1c.2 
+
+Ligt ter inzage bij het Ministerie van Economische Zaken.  
+
+### Bijlage  3  
+
+####Logistiek, behorend bij de artikelen 1b.2, eerste lid , en 1c.2, eerste lid , van de Subsidieregeling sterktes in Innovatie
+
+Mij bekend,  *De Minister van Economische Zaken,*   *H.G.J. Kamp*  
+
+####Logistiek
+
+### 1  
+
+####Bundelen en modaliteiten
+
+*Ontwikkelt u een geïntegreerde vervoersoplossing met verschillende modaliteiten? Of bent u bezig met een bundelingsproject met verschillende modaliteiten?*  Synchromodaliteit is het optimaal benutten van de verschillende modaliteiten in een geïntegreerde vervoersoplossing. Dat kan op corridors en in regio’s waar voldoende ladingaanbod is, zodat hoogfrequent vervoer via (alle) modaliteiten kan plaatsvinden. Verladers kunnen hun goederen synchromodaal laten transporteren door deze zonder voorkeur voor een modaliteit aan te bieden, dat wil zeggen, zonder dat de modaliteit van het transport vooraf wordt vastgelegd. Wel worden uiteraard prestatiecriteria vastgesteld (bijv. betrouwbaarheid) en kan het percentage dat minimaal via binnenvaart en/of spoor wordt getransporteerd onderdeel uitmaken van het Service Level Agreement (SLA). Ook kunnen verladers zelf, door het bundelen van hun goederenstroom met andere verladers, het transport synchromodaal organiseren. Een vereiste is dat minimaal sprake moet zijn van twee modaliteiten. Dus bijvoorbeeld naast wegtransport minimaal één andere modaliteit. Binnen het thema Synchromodaal transport worden projecten gevraagd, waarbij ladingeigenaren hun transport (meestal containers) op synchromodale wijze laten afwikkelen, in tegenstelling tot hoe het transport nu wordt georganiseerd. MKB-ers kunnen daartoe kennisvouchers aanvragen of een R&D samenwerkingsproject indienen. Tevens worden MKB-ers gevraagd om bundelingsprojecten in te dienen. Het gaat dan om het gezamenlijk aanbieden en afhandelen van lading.  
+
+### 2  
+
+####(Inter)nationale handel
+
+*Ondervindt u (veel) hinder van nationale en internationale regelgeving? En hebt u ideeën om hier op een slimme en efficiënte manier mee om te gaan? Of hebt u oplossingen die bestaande faciliteiten beter toegankelijk maken? Dan kunt u in aanmerking komen voor ondersteuning.*  Deze actielijn richt zich op het verder uitbouwen van de leidende positie van Nederland in het faciliteren van handelslogistiek door toepassing van vernieuwde toezichtsconcepten, stroomlijning en vereenvoudiging van procedures en betere integratie van toezicht in ongestoorde logistieke ketens. Handelsfacilitatie door vermindering van regeldruk is één van de belangrijkste redenen voor bedrijven om juist Nederland als toegangspoort naar Europa te gebruiken. Het succes van de handelsfacilitatie in Nederland is gebaseerd op een samenwerking tussen de inspectiediensten (douane) en het bedrijfsleven, die uniek is in Europa. In deze tijden van fundamentele verschuivingen in de wereldeconomie, is het essentieel om deze handelsfacilitatie nog verder te ontwikkelen en zodoende onze positie als toegangspoort naar Europa uit te bouwen. Om dat mogelijk te maken zijn technologische innovaties, procesinnovaties en bestuurlijke innovaties nodig. Het MKB vervult een belangrijke rol in internationale handelsfacilitatie. Niet alleen als importerende of exporterende partij, maar ook in de dienstverlening aan bedrijven om te helpen te voldoen aan alle regelgeving. Vanuit deze rol wordt MKB-ers gevraagd projecten in te dienen, waarin ze bijdragen aan betere integratie van toezicht in logistieke ketens. Tevens wordt MKB-ers gevraagd om projecten in te dienen die andere bedrijven in staat stelt om te beschikken over de voordelen van bepaalde vormen van handelsfacilitatie. Een aantal faciliteiten, zoals bijvoorbeeld de DOMPROC-regeling of vereenvoudigde procedures die gekoppeld zijn aan het AEO-certificaat, vereist een vergunning waarvan de investeringen voor MKB niet altijd opwegen tegen de voordelen die zo’n vergunning biedt. In deze projecten worden innovatieve business modellen ontwikkeld en beproefd, waarbij vergunninghouders deze faciliteiten aan meerdere MKB-ers kunnen aanbieden. Deze modellen moeten juridisch houdbaar zijn, en vereisen ook heldere afspraken over aansprakelijkheden. Ook wordt niet altijd gebruik gemaakt van de voordelen die bijvoorbeeld een AEO-certificering biedt. Zo kan bijvoorbeeld in de aangifte voor tijdelijke opslag (SAL) verwezen worden naar de Entry Summary Declaration, wat een hoop tijd en kosten kan besparen, maar wordt deze mogelijkheid onvoldoende benut. Kennisdelingsprojecten kunnen dit potentieel voor MKB vergroten.  
+
+### 3  
+
+####Samenwerken in en over de keten
+
+*Hebt u slimme oplossingen om samenwerking en bundeling in uw keten of tussen verschillende ketens te verbeteren? Wilt u hiervoor de logistiek op een geïntegreerde manier aansturen?*  Een 4C (oftewel een Cross Chain Control Center) is een regiecentrum waar meerdere logistieke ketens en netwerken gecoördineerd en geregisseerd worden. Het gaat dan om bundeling en aansturing van fysieke goederenstromen, de informatiestromen, eventuele financiële stromen en datamanagement. Het idee van 4C is het scheppen van schaalvoordelen en betere dienstverlening door een samenwerking die bedrijven en ketens overstijgt. Hierdoor kan een betere planning ontstaan, betere voorspellingen van logistieke bewegingen worden gemaakt of nieuwe business modellen ontstaan. In aansluiting op het MKB zal eerder over een 4C worden gesproken, aangezien MKB-ers in nauwe onderlinge samenwerking tot bundeling van transport- en andere activiteiten moeten komen (ook op nationale en regionale schaal). De realisatie van één of meerdere 4C's geeft als voordelen: 
+
+* een beter overzicht, betere afstemming en bundeling van activiteiten en besparingen in logistieke ketenkosten door combineren van lading;  
+
+* een lagere druk op het milieu;  
+
+* nieuwe bedrijvigheid met meer werkgelegenheid;  
+
+* nieuwe kennis die ook toepasbaar is in andere logistieke ketens en sectoren;  
+
+* een grotere aantrekkingskracht van Nederland voor buitenlandse bedrijven.   Aanvragen voor ontwikkeling van een 4C kunnen in de praktijk enerzijds in gang worden gezet door MKB-ers die in nauwe onderlinge samenwerking tot bundeling van transport- en andere activiteiten willen komen en anderzijds door: 
+
+* MKB bedrijven die zelf een 4C willen ontwikkelen en exploiteren;  
+
+* MKB bedrijven die tools / bouwstenen ontwikkelen om 4C door een samenwerking van MKB bedrijven mogelijk te maken.   Uiteraard kunnen aanvragen combinaties van gebruikers en ontwikkelaars omvatten. MKB-bedrijven worden daarom uitgenodigd met aanvragen te komen voor 4C bundelingsprojecten (bundeling en delen van transport, warehousing etc.). Te denken valt aan: 
+
+* partner selectie en matching (vinden van geschikte 4C partners);  
+
+* juridische aspecten en contractafspraken (NMA-proof);  
+
+* organisatiemodellen – verdienmodellen (waarde-creatie voor de partners);  
+
+* transformatie – implementatie en veranderingsmanagement en andere relevante onderwerpen.   Van belang hierbij is ook het toepassen van nieuwe of bewezen technologie, nieuwe of beschikbare oplossingen en concrete adviezen die als concrete bouwstenen kunnen dienen voor een 4C (zoals hoe standaardiseren we de onderlinge data-uitwisseling, hoe zetten we de IT-architectuur op en met welke technologie, welke contractvormen, hoe zetten we de samenwerking toekomstproof op en ook het uitwisselen van info, het afschermen van informatie, het low-key faciliteren van bundeling). Ook worden projecten gevraagd, waarbij nieuwe 4C diensten worden ontwikkeld. Onderwerpen die aan bod komen kunnen variëren van innovatieve (ICT) platformen tot dashboards tot monitoring/tracking-tracing tot automatische en eenvoudige afhandeling van transportopdrachten (centraal versus decentraal), het delen van data en datamanagement (open versus gesloten oplossingen) etc.  
+
+### 4  
+
+####Service Logistiek
+
+*Biedt u nieuwe creatieve oplossingen voor de organisatie en regie van de after sales service? Bedenkt u nieuwe serviceconcepten? Kortom maakt u van producten diensten?*   *Dan kunt u in aanmerking komen voor ondersteuning.*  Service logistiek is de regie van alle after sales service: van productlevering tot aan het einde van de levenscyclus van een product. Bedrijven leveren steeds vaker een serviceconcept in plaats van een product. Vooral leveranciers van kapitaalgoederen richten zich niet alleen op het leveren, maar ook op het in stand houden, upgraden en uiteindelijk buiten bedrijf stellen en vervangen van het geleverde product. De regie in de keten gaat in de eerste plaats om ‘life cycle planning’ en ‘control’, en wint wereldwijd sterk aan belang, in het bijzonder in de Verenigde Staten waar het onder de naam ‘Servicization’ wordt ontwikkeld en in de markt wordt gezet door veel productiebedrijven. De focus binnen het thema Service Logistiek is – net als bij 4C – ketenregie en coördinatie, maar de processen en benodigde innovaties zijn wezenlijk anders. Nieuwe innovatieve concepten voor service logistiek leiden tot: 
+
+* een hogere en vooruitlopende service business in Nederland;  
+
+* een grotere aantrekkelijkheid om in Nederland te investeren voor buitenlandse partijen;  
+
+* een significante duurzame bijdrage aan het verminderen van de uitstoot en het energieverbruik door optimale inzet van reserve-onderdelen en hergebruik van materialen.   Voor veel MKB-bedrijven is het echter een grote en lastige uitdaging om de transformatie te maken van een producerende activiteit naar het vermarkten van services vanwege praktische beperkingen zoals capaciteit, middelen of omvang. Daarom worden MKB-bedrijven hier ook specifiek uitgenodigd om met aanvragen te komen voor het ontwikkelen en opzetten van innovatieve servicestrategieën voor het ontwikkelen en uitbreiden van hun servicelogistiek (diensten en de portfolio aan services en de ontwikkeling van unieke selling points). Daarbij horen aanvragen voor het ontwikkelen van nieuwe business en verdienmodellen (make / buy / samen doen) variërend van het uitbreiden en aanbieden van bijvoorbeeld onderhoudswerkzaamheden en -contracten bij producten en systemen naar hoogwaardige diensten op het vlak van training, systeemintegratie en advisering en uiteindelijk het volledig transformeren van een business model op basis van productie naar dienstverlening. Verder worden MKB-ers specifiek uitgenodigd met voorstellen te komen voor het ontwikkelen en opzetten van servicelogistieke control towers voor het bundelen van diensten voor meerdere bedrijven zoals bijvoorbeeld op het vlak van bundeling van reserve-onderdelen inkoop, onderhoud, voorraadbeheer, vraagvoorspelling, ‘conditioned based logistics’, retour logistiek etcetera.  
+
+### 5  
+
+####Supply Chain Finance
+
+*Bent u bezig met het ontwikkelen en toepassen van nieuwe financieringsmogelijkheden in de logistieke keten? Haalt u op een innovatieve manier kosten uit de keten en zoekt u hierin nieuwe samenwerkingsmogelijkheden? Voor uzelf of als dienstverlener voor anderen?*   *Dan kunt u in aanmerking komen voor ondersteuning.*  Supply Chain Finance is een relatief nieuw onderwerp voor het MKB en richt zich op het optimaliseren van financiering en financieringskosten van de totale logistieke keten en de integratie van financiële processen tussen verladers, toeleveranciers, logistieke dienstverleners, financiële partners en andere relevante partners in en over de totale waardeketen(s). Belangrijk in Supply Chain Finance is dat er door samenwerking van ketenpartners nieuwe mogelijkheden ontstaan voor bedrijven op het gebied van het beheersen en verbeteren van werkkapitaal, assets, voorraden, risico’s en aansprakelijkheid, (reverse) factureringsprocessen en dergelijke. Het doel is het reduceren van kosten in de keten. Logistieke ketens bestaan uit de componenten: goederen, informatie en financiën. Optimalisatie in de logistieke keten richt zich tot nu toe overwegend op verbetering van goederenstromen of de integratie van goederen en informatiestromen. Financiële stromen in de logistieke keten zijn echter minstens zo belangrijk. Tot op heden heeft dit zich vooral beperkt tot het streven om bijvoorbeeld voorraden te verlagen in de keten met het kapitaalbeslag wat daarmee gemoeid gaat. Een verbeterde integrale harmonisatie van logistieke ketens en financiën biedt nieuwe kansen voor bedrijven. Aanvragen binnen het thema SCF kunnen zowel ingediend worden voor vernieuwing van de inrichting van de financiële processen in en over de eigen logistieke keten(s), als voor de ontwikkeling van die innovatieve financieringsconcepten voor de logistieke keten, instrumenten en arrangementen of het ontwikkelen van tools / bouwstenen om SCF door een samenwerking van MKB bedrijven mogelijk te maken. Uiteraard kunnen aanvragen combinaties van gebruikers en ontwikkelaars omvatten. Binnen het thema van SCF worden MKB-bedrijven uitgenodigd met aanvragen te komen voor het ontwikkelen en opzetten van: 
+
+* Uitbreiding van de lopende Dinalog pilot met meer MKB bedrijven. Deze pilot verkent, ontwikkelt en test een nieuwe financieringsvorm waardoor vervoerders sneller worden betaald. Het project leidt tot een standaard supply chain finance overeenkomst tussen verlader en vervoerder. Aanvragers starten een nieuw project, op basis van de kennis die in de lopende pilot is opgedaan.  
+
+* Nieuwe alternatieve financieringsmogelijkheden, bijvoorbeeld in de diversificatie van financieringsbronnen (het niet afhankelijk zijn van 1 financiële instelling, maar bijvoorbeeld ook gebruik maken van de financieringsopties via grote klanten of leveranciers), orderfinanciering (grote order van klant in relatie tot de inkoopkosten). Loopt vaak stuk op financiering van werkkapitaal.  
+
+* Nieuwe business development aan de hand van nieuwe financiële logistieke dienstverlening;  
+
+* Oplossingen voor de financiële drempels in transportketens zoals bijvoorbeeld het automatiseren van borgstellingen, vrijmaken van containers door snellere vrachtbetaling als gevolg van betere informatievoorziening e.d.  
+
+* Methoden en aanpakken voor het betalingsgedrag van (grote) klanten en overheid (afgesproken termijnen, late betalingen, kortingen bij vroege betaling, voorfinanciering vordering, supplier financing programma’s, interne goedkeuringsprocessen van grote klanten)    
+
+### Bijlage  4  
+
+####Life Sciences and Health
+
+Ligt ter inzage bij het Ministerie van Economische Zaken.  
 
 ### Bijlage  4.1  
 
@@ -2674,83 +3344,119 @@ De valorisatiestap van concepten die voortkomen uit de publiek-private samenwerk
 
 Deze actielijn is erop gericht om alle randvoorwaarden om innovaties tot stand te laten komen zo optimaal mogelijk te maken. Het klimaat in Nederland moet buitenlandse LSG-bedrijven aantrekken. Een voorbeeld hiervan is om ervoor te zorgen dat er voldoende gekwalificeerd personeel beschikbaar is (van MBO tot WO) en het verhogen van internationale bekendheid op dit terrein. Dit hoofdstuk Life Sciences & Health van deze regeling is onderdeel van actielijn 2 van het innovatieprogramma LSH.  
 
+### Bijlage  5  
+
+####Water
+
+Ligt ter inzage bij het Ministerie van Economische Zaken.  
+
 ### Bijlage  5.1  
 
-####Behorende bij artikel 5.1 
+####behorende bij artikel 5.1 
 
 ####Achtergrond
 
-Diverse workshops en consultaties met de grootbedrijven, MKB bedrijven, brancheorganisaties en onderzoeksorganisaties vonden plaats om het Innovatieprogramma FND inhoudelijk vorm en focus te geven. Dit is eerst voor fase 1 en daarna voor fase 2 gedaan. Ten behoeve van het opzetten van de onderzoeksprogramma’s van fase 1, het TTI WCFS+, is een zorgvuldig proces doorlopen van het identificeren van consumentenbehoeften, via functionele en wetenschappelijke doelen tot het ontwikkelen van innovatiethema’s en -projecten. De consumentenbehoeften die zijn geïdentificeerd als belangrijke marktgebieden voor de toekomst zijn: 
+Het kabinet heeft met het topsectorenbeleid gekozen voor het versterken van de concurrentiekracht van die sectoren waarin Nederland wereldwijd uitblinkt. Hiermee wordt het groeivermogen van de Nederlandse economie duurzaam versterkt. De topsector Agri&Food is de stabiele motor van de Nederlandse economie met een omzet van ca. € 50 miljard en de nummer 2-positie in de wereld qua export. Om de krachtige uitgangspositie verder uit te bouwen, werken bedrijfsleven uit de gehele agrifood keten, kennisinstellingen en overheid samen aan kennis en innovatie. De afspraken hierover zijn vastgelegd in het innovatiecontract van de topsector Agri&Food. Het innovatiecontract wordt uitgevoerd door het Topconsortium voor Kennis en Innovatie (TKI) Agri&Food. De topsector Agri&Food wil de ambities realiseren door in de periode 2012–2015 het vraaggestuurde onderzoek & innovatie te versterken en te investeren in excellente kennis & innovatie op drie strategische kansen voor economische en maatschappelijke groei: 
 
-– Lichaamsvorm mensen willen in alle fasen van hun leven een gezond lichaam. Dit varieert bijvoorbeeld van goede bot- en spieropbouw tijdens de groeifase tot het er goed uitzien.  
+I: Meer met minder door duurzame, innovatieve voedselsystemen. Verduurzaming en ondersteunende technologische innovatie zijn een 'must' om toekomstige voedseltekorten en aantasting van de leefomgeving te voorkomen. In Nederlandse context vertaalt dit zich naar het realiseren van twee maal de toegevoegde waarde met de helft minder input. Een aanpak waarbij mens, dier en natuur centraal staan.  
 
-– Resistentie tegen ziektes het verhogen van de resistentie tegen ziektes is gericht op het verhogen van de kwaliteit van leven en het gezond opgroeien van kinderen.  
+II: Hogere toegevoegde waarde door focus op gezondheid, duurzaamheid, smaak en gemak. De Agri&Food sector zorgt voor gezond, veilig en lekker eten. Daarmee voorziet zij in de dagelijkse behoeften van ieder mens. Het vervullen van deze behoeften leidt tot een hogere bijdrage aan de economie en de volksgezondheid.  
 
-– Gevoel van welbevinden deze behoefte varieert van het gezond en vitaal voelen tot het bestrijden van depressies.  
+III: Internationaal leiderschap door bevorderen van export en veiligstellen import grondstoffen binnen de topsector Agri&Food en daarnaast geïntegreerde systeemoplossingen te exporteren.   Binnen het TKI Agri&Food is er specifieke aandacht voor de versterking van de innovatiekracht van het MKB. Ten behoeve van de ondersteuning van valorisatie in het agri en food MKB worden instrumenten uit artikel 5.1 ingezet. Deze instrumenten sluiten direct aan op de publiek-private samenwerkingsprojecten van het TKI Agri&Food en faciliteren de eerste fasen van valorisatie in het MKB voordat generieke instrumenten zoals het Innovatiefonds MKB(+) ondersteuning bieden. Binnen het innovatiecontract Agri&Food worden diverse innovatiethema’s onderscheiden die hieronder verder worden beschreven. Binnen deze thema’s worden technische haalbaarheidsstudie, industrieel onderzoek en experimentele ontwikkeling ondersteund. Ondersteuning vindt niet plaats voor projecten die al gestart zijn voordat de aanvraag om subsidie is ingediend. De innovatiethema’s binnen de hierboven genoemde kansen van de topsector Agri&Food zijn: 
 
-– Kwaliteit van leven van ouderen dit is met name gericht op het verlengen van de levensduur en het verhogen van de kwaliteit van leven in de laatste levensjaren. Specifieke voorbeelden zijn het behouden van mentale vermogens en het behouden van een goede spierfunctie bij ouderen.  
+– Valorisatie van grondstoffen, zijstromen en dierlijke mest 
 
-– Gezondheid van kinderen voor gezond opgroeien is het van belang dat kinderen een gevarieerd en gezond eetpatroon hebben. In westerse landen wordt overgewicht van kinderen een steeds groter probleem.  
+o valorisatie van zijstromen en grondstoffen  
 
-– Voorkomen van chronische ziektes diverse ziektes zijn gerelateerd aan voeding. Voorbeelden zijn hart- en vaatziektes, diabetes en obesitas. Functionele voeding kan bijdragen aan het verminderen van deze voedingsgerelateerde ziektes.  
+o mest tot waarde    
 
-– Smaak en gemak dit zijn belangrijke aspecten bij voeding. Dit hangt onder andere samen met het feit dat de westerse mens steeds minder tijd besteed aan het bereiden van zijn eten. Ook ten aanzien van gezonde voeding zijn deze aspecten van essentieel belang.  
+– Resource efficiency 
 
-– Voedselveiligheid dit is een basisvoorwaarde bij voeding. Aspecten die hier aan de orde zijn, zijn integrale controle in de keten, gedeelde verantwoordelijkheid bij ketenpartijen en heldere communicatie.  
+o energie en klimaat  
 
-– Beschikbaarheid en betaalbaarheid van voeding Het WCFS+ onderzoek is precompetitief van aard en omvat vijf innovatiethema ’s: Voeding en Gezondheid, Sensoriek en Structuur, Bio-ingrediënten en Functionaliteit, Consumentengedrag, en Veiligheid en Conservering.Tijdens de interactie met het MKB over de vormgeving van fase 2 van hetInnovatieprogramma FND bleek dat de wensen en behoeften van MKB bedrijven inhoudelijk grotendeels aansluiten bij de thema’s van de WCFS+-onderzoeksagenda. Echter er zijn ook een aantal aanvullende kennisbehoeftes geïdentificeerd die voor een belangrijk deel gericht zijn op aanpalende technologie die ondersteunend is voor procesinnovaties in Food & Nutrition. Deze betreffen: processing, ICT, logistiek.    
+o bodem, water, mineralen  
 
-####Innovatiethema’s
+o plantgezondheid  
 
-Binnen fase 2 van het Innovatieprogramma FND worden de volgende innovatiethema’s onderscheiden: 
+o resource efficiency in de keten    
 
-– Voeding en Gezondheid   Er ontstaat steeds meer bewustzijn omtrent de rol van voeding en gezondheid van mensen. Dit leidt allereerst tot behoefte aan nieuwe kennis omtrent de relatie tussen voedingsmiddelen en gezondheid en de identificatie van gezondheidsbevorderende voedingsmiddelen en voedingscomponenten. Daarnaast leidt dit tot de vraag naar methoden en technologie om niet-invasief gezondheid, het ontstaan van ziekten in relatie tot voeding en het effect van gezondheidsbevorderende stoffen te monitoren. Verder zijn van belang methoden en technieken om de intrinsieke gezondheidswaarde van voedingsmiddelen te monitoren en behouden in de keten en deze gezondheidswaarde van producten actief te verhogen zonder dat dit ten koste gaat van andere gewenste eigenschappen. Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere: 
+– Duurzame (import van) grondstoffen voor food en feed  
 
-– onderbouwing van gezondheid van inhoudsstoffen bijv. gericht op het voorkomen van hart en vaatziekten, het bevorderen van darmgezondheid, het ondersteunen mentale prestaties en het voorkomen van obesitas en diabetes,  
+– Duurzame veehouderij 
 
-– de selectie en identificatie van gezondheidsbevorderende stoffen en methoden en technieken voor de selectie en ontwikkeling van gezondheidsbevorderende voedingsmiddelen en voedingscomponenten,  
+o diergezondheid  
 
-– methoden, technieken en biomarkers om bijv. gezondheid, het ontstaan van ziekten in relatie tot voeding en het effect van gezondheidsbevorderende stoffen te monitoren. Dit is mede van belang om gepersonificeerd voedingsadvies mogelijk te maken,  
+o dierenwelzijn  
 
-– (multi)analyse technieken ter identificatie/monitoring van inhoudstoffen in de keten,  
+o fokkerij    
 
-– beïnvloeden van niveaus van inhoudsstoffen middels innovatie en optimalisatie van uitgangsniveaus en behoud gedurende verdere schakels in de keten,  
+– Markt en keteninnovaties 
 
-– (multi)analyse/in-line technieken ten behoeve van tracking en tracing in de keten van componenten die gerelateerd zijn aan gezondheid.   
+o nieuwe ketenconcepten  
 
-– Sensoriek en structuur   Naast gezondheid zijn structuur en sensoriek van voedingsmiddelen belangrijke kwaliteitsaspecten die de keuze van de consument bepalen. Hierbij kan bijvoorbeeld gedacht worden aan de invloed van structuur van voedingsmiddelen op het mondgevoel en vrijkomen van geur- en smaakstoffen tijdens consumptie. Een goede controle over beide aspecten is een belangrijke vereiste om de beoogde producten met hoge toegevoegde waarde te kunnen realiseren. Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere: 
+o informatisering, precisielandbouw en robotica    
 
-– onderbouwing van effect van inhoudsstoffen of processing op structuur en sensoriek,  
+– Voeding en Gezondheid 
 
-– beïnvloeding/optimalisatie/behoud van structuur/sensoriek door middel van innovatie en of optimalisatie van processing, bijvoorbeeld om op maat gezonde voedingsproducten te kunnen maken die zijn gericht op specifieke doelgroepen als kinderen of ouderen,  
+o hart- en vaatgezondheid  
 
-– (multi) analyse technieken ter identificatie/monitoring van structuur en sensoriek gedurende processing in de keten.   
+o gewichtsbeheersing  
 
-– Bio-ingrediënten en Functionaliteit   Zowel de selectie, de winning en exploitatie van functionele bio-ingrediënten, als de selectie en exploitatie van enzymen en micro-organismen die betrokken zijn bij het verkrijgen van bioactieve moleculen, als het borgen van de gewenste bio-activiteit op het moment van gebruik zijn belangrijke uitdagingen in de ontwikkeling van gezonde en functionele voedingsmiddelen. Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere: 
+o gastro-intestinale gezondheid  
 
-– De selectie, winning en toepassing van functionele bio-ingrediënten,  
+o mondgezondheid  
 
-– Enzymatische en microbiële conversie van grondstoffen om te komen tot functionele bio-ingrediënten en een optimale kwaliteit van voedingsmiddelen,  
+o gezond ouder worden  
 
-– De selectie en optimalisatie van micro-organismen die een specifiek gezondheidsbevorderend effect hebben,  
+o food, cognition en behaviour    
 
-– Methodes voor een optimale productie van functionele bio-ingrediënten.   
+– Producttechnologie 
 
-– Veiligheid en Conservering   Gegarandeerde beschikbaarheid van veilig voedsel is een van de eerste vereisten waaraan de sector moet kunnen voldoen. Om gezonde voedingsmiddelen te produceren met een optimale kwaliteit (smaak, geur en structuur) en veiligheid zijn verbeterde (minimal processing) conserveringstechnieken nodig. Veranderende consumentenbehoeften en de in het kader van deze behoeften ontwikkelde nieuwe producten en productieprocessen vereisen technologie om de veiligheid, kwaliteit en functionaliteit van voedingsmiddelen gedurende processing en in de keten te kunnen borgen. Innovatieprioriteiten die in dit kader relevant zijn, zijn onder andere: 
+o sensoriek en voorkeuren  
 
-– (multi)analyse/in-line technieken ten behoeve van tracking en tracing in de keten van componenten die gerelateerd zijn aan veiligheid, kwaliteit en functionaliteit,  
+o textuur en smaak  
 
-– methoden en technieken voor het verbeteren van houdbaarheid en conservering van voedingsmiddelen,  
+o structureren van producten, inclusief herformulering (bijv. zout, vet, suiker verlaging)    
 
-– intelligente verpakkingen voor o.a. versproducten.   
+– Voedselveiligheid 
 
-– Consumentengedrag   De ontwikkeling van onderscheidende nieuwe processen en producten vergt dermate veel geld en de terugverdientijd is zodanig lang dat het van groot belang is om de behoefte en het gedrag van de consument van morgen goed te kunnen voorspellen. Onderzoeksprioriteiten die in dit kader relevant zijn, zijn onder andere: 
+o risico’s chemische bestanddelen  
 
-– technieken ter ondersteuning van het onderzoek naar consumentengedrag.  
+o risico’s allergeniciteit  
 
-– innovaties ter beïnvloeding van het consumentengedrag (bijv. Life style in het kader van gezondheid).   
+o risico’s micro-organismen  
 
-– Aanpalende Technologie voor Food & Nutrition   Vooral voor MKB bedrijven zijn niet food gerelateerde technologische innovaties van groot belang om op het gebied van Food & Nutrition te komen tot nieuwe producten, processen en diensten. Voorbeelden zijn technologie op het gebied van ICT, scheidingen, in line analyse voor processen, miniaturisering van productietechnologie, producttracering en intelligente verpakkingen.  
+o risicomanagement en crisispreventie    
+
+– Duurzame maaktechnologie 
+
+o smaakstoffen  
+
+o grondstofflexibiliteit  
+
+o procestechnologie  
+
+o logistiek  
+
+o verpak- en bewaarmethoden  
+
+o droogtechnologie    
+
+– Consument. 
+
+o product benefits  
+
+o segmentatie  
+
+o verbinding producteigenschappen en extrinsieke stimuli  
+
+o blijvend duurzaam en gezond gedrag.      
+
+### Bijlage  6  
+
+####Chemie, Biobased en Energie
+
+Ligt ter inzage bij het Ministerie van Economische Zaken.  
 
 ### Bijlage  6.1  
 
@@ -2865,6 +3571,12 @@ Elektrisch aangedreven auto’s vragen om nieuwe energiezuinige auxiliary (onder
 ####Integratie:
 
 Elektrische aandrijving geeft nieuwe mogelijkheden voor auto-design, ontwikkeling en engineering. Dus ook een nieuwe geïntegreerde benadering van het gehele voertuig wordt belangrijk. De interfaces met zowel de gebruiker (HMI) maar ook met de infrastructuur (energielaadstations, smart billing, etc) zullen het nodige onderzoek vergen. Tenslotte aandacht voor diverse drivetrain en niet drivetrain accessoires/systemen ter verbetering van de energiehuishouding, comfort en veiligheid van de auto.  
+
+### Bijlage  7  
+
+####Creatief
+
+Ligt ter inzage bij het Ministerie van Economische Zaken.  
 
 ### Bijlage  7.1  
 
@@ -3358,7 +4070,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Projectaanvraag heeft betrekking op hoofdstuk 7: InnoWATOR*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | --- |
 |  *Bijlage 11.1 van de Subsidieregeling sterktes in innovatie (art. 11.1 onderdeel a)*   |  *Stuur het ingevulde formulier met bijlagen naar:*    *SenterNovem*    *Subsidieregeling sterktes in innovatie –InnoWATOR*   |
 | --- |
@@ -3372,7 +4084,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bedrijf/organisatie
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 1 Bij een samenwerkingsverband dient u tevens de gegevens van overige aanvrager(s) in het samenwerkingsverband te vermelden. Gebruik hiervoor de invulvelden bij onderdeel 2  | Naam organisatie:  |
 | Afdeling/vakgroep:  |
 | Postadres:  |
@@ -3399,7 +4111,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactpersoon aanvrager <sup>4</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 4 Vul hier de contactgegevens van de penvoerder c.q. aanvrager in. Indien er sprake is van een intermediair die de correspondentie voert, vul dan op de volgende pagina de contactgegevens van de intermediair in  | Naam:  | □ Dhr.  □ Mw.    |
 | Titel(s):  |
 | Functie:  |
@@ -3409,7 +4121,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactgegevens intermediair <sup>5</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 5 Alleen invullen als de correspondentie via een intermediair loopt. Voeg in dat geval wel een machtiging toe, waarin de intermediair door aanvrager is gemachtigd tot het voeren van de correspondentie  | Naam organisatie:  |
 | Postadres:  |
 | Postcode:  | Plaats:  |
@@ -3424,7 +4136,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Overige aanvragers <sup>6</sup>
 
 |--- |--- | Naam  | MKB <sup>7</sup>  | OO <sup>8</sup>  | Int. <sup>9</sup>  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 6 Vul in indien er sprake is van een samenwerkingsverband  7 Met de MKB-toets kunt u bepalen of de overige aanvragers voldoen aan de MKB-definitie zoals bedoeld in de regeling  8 OO = onderzoeksorganisatie  9 Int. = Internationaal, alleen aankruisen voor aanvragers uit een ander land dan Nederland  | Aanvrager 2:  | --- | □  | □  | □  |
 | Aanvrager 3:  | --- | □  | □  | □  |
 | Aanvrager 4:  | --- | □  | □  | □  |
@@ -3437,7 +4149,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Project
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | Naam van project:  |
 | 10 Een acroniem is voor internationale projecten verplicht  11 Geef aan op welk hoofdstuk uw aanvraag betrekking heeft en voor welk soort project u deze aanvraag indient. Voor een overzicht van de hoofdstukken en daarbinnen mogelijke projectsoorten kunt u de website www.senternovem.nl/watertechnologie raadplegen  | Eventueel acroniem <sup>10</sup> (afkorting beginletters):  | --- |
 | Soort project <sup>11</sup>  | InnoWATOR-garantie  |
@@ -3454,7 +4166,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Ondergetekende verklaart dat alle voor de aanvraag benodigde stukken zijn bijgevoegd en dat hij/zij bekend is met de voorwaarden en procedures van de Subsidieregeling sterktes in innovatie.*   *Aldus naar waarheid ingevuld:*   
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 12 Deze persoon dient namens de penvoerder c.q. aanvrager tekenbevoegd te zijn  | Naam: <sup>12</sup>  |
 | Functie:  |
 | Organisatie:  |
@@ -3464,7 +4176,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bijlagen <sup>13</sup>
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 13 Uw aanvraag is pas compleet en kan in behandeling genomen worden als alle voor uw aanvraag van toepassing zijnde bijlagen bijgevoegd zijn  Op www.senternovem.nl/watertechnologie vindt u een compleet overzicht van en uitgebreide toelichting bij de benodigde bijlagen per hoofdstuk en projectsoort  | □ *Gegevens van eventuele overige aanvragers* en machtiging tot indienen van de aanvraag door de penvoerder (zie volgende pagina)  |
 | □ Bijlage A: *projectplan* (een modelprojectplan wordt door SenterNovem via de website verstrekt)  |
 | □ Bijlage B: *projectbegroting* per aanvrager (Een modelbegroting wordt door SenterNovem via de website verstrekt)  |
@@ -3474,7 +4186,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Optionele bijlage
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | *MKB-toets* (de MKB-toets wordt door SenterNovem via de website verstrekt. Hiermee kunt u bepalen of voldaan wordt aan de MKB-definitie zoals bedoeld in de regeling)  |
 
 ####Gegevens aanvrager 2
@@ -3482,7 +4194,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bedrijf/organisatie
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | Naam organisatie:  |
 | Afdeling/vakgroep:  |
 | Postadres:  |
@@ -3507,7 +4219,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactpersoon <sup>C</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | C Vul hier de contactgegevens in van de persoon die voor dit project verantwoordelijk is  | Naam:  | --- | □ Dhr.  □ Mw.    |
 | Titel(s):  | --- |
 | Functie:  | --- |
@@ -3519,7 +4231,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Hierbij verleent ondergetekende een machtiging aan* [naam penvoerder] *om het project* [projecttitel] *in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.*  *Aldus naar waarheid ingevuld:*   
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | D Deze persoon dient namens aanvrager 2 tekenbevoegd te zijn  | Naam: <sup>D</sup>  |
 | Functie:  |
 | Datum:   - -  | Plaats:  |
@@ -3530,7 +4242,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bedrijf/organisatie
 
 |--- | Naam organisatie:  |
-|:---|:---|
+|---|---|
 | Afdeling/vakgroep:  |
 | Postadres:  |
 | Postcode:  | Plaats:  |
@@ -3554,7 +4266,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactpersoon <sup>C</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | C Vul hier de contactgegevens in van de persoon die voor dit project verantwoordelijk is  | Naam:  | --- | □ Dhr.  □ Mw.    |
 | Titel(s):  |
 | Functie:  |
@@ -3566,7 +4278,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Hierbij verleent ondergetekende een machtiging aan* [naam penvoerder] *om het project* [projecttitel] *in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.*  *Aldus naar waarheid ingevuld:*   
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | D Deze persoon dient namens aanvrager 3 tekenbevoegd te zijn  | Naam: <sup>D</sup>  |
 | Functie:  |
 | Datum:   - -  | Plaats:  |
@@ -3577,7 +4289,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bedrijf/organisatie
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | Naam organisatie:  |
 | Afdeling/vakgroep:  |
 | Postadres:  |
@@ -3602,7 +4314,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactpersoon <sup>C</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | C Vul hier de contactgegevens in van de persoon die voor dit project verantwoordelijk is  | Naam:  | --- | □ Dhr.  □ Mw.   |
 | Titel(s):  |
 | Functie:  |
@@ -3614,7 +4326,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Hierbij verleent ondergetekende een machtiging aan* [naam penvoerder] *om het project* [projecttitel] *in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.*  *Aldus naar waarheid ingevuld:*   
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | D Deze persoon dient namens aanvrager 4 tekenbevoegd te zijn  | Naam: <sup>D</sup>  |
 | Functie:  |
 | Datum:   - -  | Plaats:  |
@@ -3625,7 +4337,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bedrijf/organisatie
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | Naam organisatie:  |
 | Afdeling/vakgroep:  |
 | Postadres:  |
@@ -3650,7 +4362,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactpersoon <sup>C</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | C Vul hier de contact-gegevens in van de persoon die voor dit project verantwoordelijk is  | Naam:  | --- | □ Dhr.  □ Mw.    |
 | Titel(s):  |
 | Functie:  |
@@ -3662,7 +4374,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Hierbij verleent ondergetekende een machtiging aan* [naam penvoerder] *om het project* [projecttitel] *in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.*  *Aldus naar waarheid ingevuld:*   
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | D Deze persoon dient namens aanvrager 5 tekenbevoegd te zijn  | Naam: <sup>D</sup>  |
 | Functie:  |
 | Datum:   - -  | Plaats:  |
@@ -3673,7 +4385,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bedrijf/organisatie
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | Naam organisatie:  |
 | Afdeling/vakgroep:  |
 | Postadres:  |
@@ -3698,7 +4410,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactpersoon <sup>C</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | C Vul hier de contactgegevens in van de persoon die voor dit project verantwoordelijk is  | Naam:  | --- | □ Dhr.  □ Mw.    |
 | Titel(s):  |
 | Functie:  |
@@ -3710,7 +4422,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Hierbij verleent ondergetekende een machtiging aan* [naam penvoerder] *om het project* [projecttitel] *in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.*  *Aldus naar waarheid ingevuld:*   
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | D Deze persoon dient namens aanvrager 6 tekenbevoegd te zijn  | Naam: <sup>D</sup>  |
 | Functie:  |
 | Datum:   - -  | Plaats:  |
@@ -3721,7 +4433,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Bedrijf/organisatie
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | Naam organisatie:  |
 | Afdeling/vakgroep:  |
 | Postadres:  |
@@ -3746,7 +4458,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 ####Contactpersoon <sup>C</sup>
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | C Vul hier de contactgegevens in van de persoon die voor dit project verantwoordelijk is  | Naam:  | --- | □ Dhr.  □ Mw.    |
 | Titel(s):  |
 | Functie:  |
@@ -3758,7 +4470,7 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 *Hierbij verleent ondergetekende een machtiging aan* [naam penvoerder] *om het project* [projecttitel] *in te dienen bij SenterNovem en de verdere correspondentie hierover te voeren.*  *Aldus naar waarheid ingevuld:*   
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | D Deze persoon dient namens aanvrager 7 tekenbevoegd te zijn  | Naam: <sup>D</sup>  |
 | Functie:  |
 | Datum:   - -  | Plaats:  |
@@ -3768,8 +4480,8 @@ Nederland heeft met een uitstekende infrastructuur voor informatie- en communica
 
 ####, behorende bij artikel 11.1, onderdeel b .
 
-![249002](http://wetten.overheid.nl/Illustration/249002)
-![249002](http://wetten.overheid.nl/Illustration/249002)
+![]()
+![]()
 
 ### Bijlage  11.3  
 
@@ -3777,230 +4489,23 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ### Bijlage  11.4  
 
-![245893](http://wetten.overheid.nl/Illustration/245893)
-![245893](http://wetten.overheid.nl/Illustration/245893)
-![245893](http://wetten.overheid.nl/Illustration/245893)
-![245893](http://wetten.overheid.nl/Illustration/245893)
-![245893](http://wetten.overheid.nl/Illustration/245893)
-![245893](http://wetten.overheid.nl/Illustration/245893)
-
-####Toelichting bij de vragen
-
-####Algemeen
-
-Aanvragen dienen plaats te vinden per individueel project. Door een duidelijke beantwoording van de vragen kan worden vermeden dat de behandeling van een aanvraag dient te worden opgeschort voor het vragen van nadere informatie. U dient er rekening mee te houden dat de beslissingsprocedure doorgaans tussen acht en dertien weken zal vergen, te rekenen vanaf het moment dat de ontvangst van de volledig ingevulde en gedocumenteerde aanvraag wordt bevestigd. Een aanvraag wordt eerst geacht volledig te zijn ingediend na ontvangst door de minister van een volledig ingevuld aanvraagformulier inclusief de daarin genoemde bijlagen. Als u vragen heeft, kunt u zich wenden tot: EVD, agentschap van het ministerie van Economische Zaken, unit internationale financiering (070) 778 8085 
-
-####Vraag 1.2
-
-Een scheepswerf is een bedrijf dat in Nederland zeeschepen ontwikkelt, ontwerpt, (ver)bouwt en uitrust.  
-
-####Vraag 1.3
-
-U dient over een vaste bouwlocatie te beschikken om als scheepswerf in de zin van deze Regeling te kunnen worden aangemerkt.  
-
-####Vraag 1.5
-
-Het aantal werknemers dat gedurende het afgelopen boekjaar voltijds arbeid heeft verricht binnen uw onderneming (verrichte arbeid in deeltijd en seizoensarbeid meetellen naar evenredigheid).  
-
-####Vraag 1.7
-
-De SBI-code wordt door het Centraal Bureau voor de Statistiek (CBS) onder andere gebruikt om bedrijfseenheden te rubriceren naar hunhoofdactiviteit, de zogenaamde standaard bedrijfsindeling.  
-
-####Vraag 1.8
-
-Een groep is een economische eenheid, waarin organisatorisch zijn verbonden: 
-
-1. een natuurlijke rechtspersoon of privaatrechtelijke rechtspersoon, die direct of indirect: 
-
-– meer dan de helft van het geplaatste kapitaal verschaft aan,  
-
-– volledig aansprakelijk vennoot is van,  
-
-– of overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
-
-2. laatstbedoelde rechtspersonen of vennootschappen.    
-
-####Vraag 2.1 t/m 2.3
-
-Subsidie wordt uitsluitend verleend voor de bouw van de volgende zichzelf voorstuwende schepen in de handelsvaart: 
-
-– Schepen van 100bt of meer voor het vervoer van passagiers en/of goederen;  
-
-– Schepen van 100bt of meer voor het verrichten van een speciale dienst (bijvoorbeeld baggerschepen en ijsbrekers);  
-
-– Sleepboten van 365 kW of meer;   Voor verbouw wordt uitsluitend subsidie verleend indien het een zeeschip in de handelsvaart van 1000bt of meer betreft, en voor zover de uitgevoerde werken een ingrijpende wijziging van het laadplan, de romp, het voorstuwingsmechanisme of de passagiersverblijven met zich brengen.  
-
-####Vraag 2.3
-
-Bij sleepboten dient het vermogen in kW te worden vermeld.  
-
-####Vraag 2.4
-
-Ook (ver)bouwcontracten tussen verschillende rechtspersonen binnen een Groep kunnen voor subsidie in het kader van deze Regeling in aanmerking komen.  
-
-####Vraag 2.5
-
-De afkorting cgt staat voor compensated gross tonnage en is een maat voor de complexiteit van een schip. Voor de meeste schepen volgt de cgt-waarde uit de volgende internationaal vastgestelde formule , met vaste factoren per scheepstype (zie onderstaande tabel). <sup> 1  De formule is vastgesteld door de OECD: www.oecd.org/dataoecd/59/49/37655301.pdf  </sup>  *cgt = A * gt <sup>B</sup>*  hierbij staat: 
-
-– gt voor het gross tonnage van het schip;  
-
-– de factor A voor de invloed van het scheepstype;  
-
-– de factor B voor de invloed van de grootte van het schip.    
-
-| Scheepstype  | A  | B  |
-|:---|:---|:---|
-| Oil tankers (double hull)  | 48  | 0.57  |
-| Chemical tankers  | 84  | 0.55  |
-| Bulk carriers  | 29  | 0.61  |
-| Combined carriers  | 33  | 0.62  |
-| General cargo ships  | 27  | 0.64  |
-| Reefers  | 27  | 0.68  |
-| Full container  | 19  | 0.68  |
-| Ro ro Vessels  | 32  | 0.63  |
-| Car carriers  | 15  | 0.70  |
-| LPG carriers  | 62  | 0.57  |
-| LNG carriers  | 32  | 0.68  |
-| Ferries  | 20  | 0.71  |
-| Passenger ships  | 49  | 0.67  |
-
-Aanvullend op deze OESE-factoren zijn voor onderstaande scheepstypen specifieke cgt-factoren bepaald. Jachten: A= 75 B= 0,65 Sleephopperzuigers A= 25 B= 0,73 Snijkopzuigers: A= 26 B= 0,75 Non Cargo Carrying Vessels A= 71 B= 0,61 Voorbeeld: een 'chemical tanker' (dus factor A=84 en factor B=0.55) van 3.950 gt geeft als uitkomst een cgt waarde van 7.987.  
-
-####Vraag 3
-
-Geen subsidie wordt verstrekt indien ten tijde van de aanvraag al een contract is afgesloten. Dit geldt ook indien dit contract opschortende of ontbindende voorwaarden bevat.  
-
-####Vraag 4.1
-
-Subsidie is uitsluitend beschikbaar voor het in Nederland (ver)bouwen van een schip. Dit betekent dat de scheepsnieuwbouwactiviteiten in principe in Nederland dienen plaats te vinden. Daarbij is echter wel oog voor het feit dat in sommige gevallen Nederlandse werven de (ver)bouw van delen van het schip, zoals het casco, in het buitenland uitbesteden.  
-
-####Vraag 4.2
-
-Indien alle bouwfases in Nederland plaatsvinden is per definitie sprake van bouwen in Nederland.  
-
-####Vraag 4.3
-
-Geef per bouwfase een omschrijving daarvan, de locatie waar deze fase wordt uitgevoerd (plaats, evt. land) en het percentage van de bouwkosten dat daarop betrekking heeft. In geval van uitbesteding van werk dient tevens de onderaannemer te worden vermeld. Indien alle bouwfases buiten Nederland plaatsvinden is in ieder geval *geen* sprake van bouwen in Nederland. De aanvraag komt dan niet in aanmerking voor subsidie. Indien niet alle bouwfases in Nederland plaatsvinden, dient u op een andere wijze aan te tonen dat het schip in Nederland zal worden gebouwd/verbouwd. De wijze waarop u dat doet staat u vrij. Een tweetal in ieder geval aanvaardbare onderbouwingsvarianten zijn onder 4.4 en 4.5 geïndiceerd. Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.  
-
-####Vraag 4.4
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.  
-
-####Vraag 4.5
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen produktie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.  
-
-####Vraag 5
-
-U dient de kerngegevens van het innovatieproject in het aanvraagformulier te vermelden. In een bijlage dient u deze zodanig uit te werken dat kan worden beoordeeld of sprake is van een technologische innovatie die in Europees perspectief als vernieuwend kan worden aangemerkt. Tevens dient te kunnen worden vastgesteld dat het innovatieproject het risico van technologische of industriële mislukking in zich draagt.  
-
-####Vraag 5.4
-
-Het gaat hier om de namen van betrokken partijen, hun aandeel in het project en een omschrijving van de activiteit.  
-
-####Vraag 5.5
-
-U dient hier te beschrijven wat de thans gangbare toepassingspraktijk is bij het te vernieuwen product of proces.  
-
-####Vraag 5.6
-
-Waarom is de door u beoogde innovatieve stap in Europees perspectief als vernieuwend aan te merken?  
-
-####Vraag 6
-
-Subsidiabel zijn drie verschillende type innovatieprojecten (A, B of C). Per type innovatieproject zijn diverse in het model kostenverantwoording aangegeven activiteiten, subsidiabel. Per subsidiabele activiteit dient u de gemaakte en betaalde kosten naar de onderscheiden categorieën uit te splitsen. Het kan daarbij zowel gaan om de kosten van de werf (manuren) als om de kosten voor de levering van goederen en diensten door derden (voor zover deze rechtstreeks en uitsluitend verband houden met het innovatieproject). U dient de begrote kosten voor de levering van goederen en diensten door derden onder de posten materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen en overig, naar afzonderlijke kostenposten uit te splitsen in een bijlage. Posten kleiner dan EUR 25.000 hoeven niet nader gespecificeerd te worden en kunnen per kostensoort in een verzamelpost worden opgenomen. Kosten zijn slechts subsidiabel voor zover deze plaatsvinden na de datum waarop de subsidie is aangevraagd (eventueel uitgezonderd de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd). De subsidie bedraagt maximaal 20 procent van de voor subsidie in aanmerking komende kosten.  
-
-####Vraag 7
-
-Het gaat hierbij onder meer om de in artikel 10e.7 van de Subsidieregeling sterktes in innovatie genoemde aspecten, en een eventuele aanvraag voor faillissement c.q. surséance van betaling voor de aanvrager en eventuele andere vormen van aan het project verstrekte staatssteun.  
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Bijlage  11.5  
 
-![245898](http://wetten.overheid.nl/Illustration/245898)
-![245898](http://wetten.overheid.nl/Illustration/245898)
-![245898](http://wetten.overheid.nl/Illustration/245898)
-![245898](http://wetten.overheid.nl/Illustration/245898)
-![245898](http://wetten.overheid.nl/Illustration/245898)
-
-####Toelichting bij de vragen
-
-####Algemeen
-
-U dient er rekening mee te houden dat de beslistermijn op uw verzoek tot vaststelling van de subsidie 13 weken kan vergen, te rekenen vanaf ontvangst door de minister van een volledig ingevuld vaststellingsformulier inclusief de daarin genoemde bijlagen. Door een duidelijke beantwoording van de vragen kan worden vermeden dat de behandeling van een aanvraag dient te worden opgeschort voor het vragen van nadere informatie. Als u vragen heeft, kunt u zich wenden tot: EVD, agentschap van het ministerie van Economische Zaken, unit internationale financiering (070) 778 8085 
-
-####Vraag 3.3
-
-Bij sleepboten dient het vermogen in kW te worden vermeld.  
-
-####Vraag 3.7
-
-De afkorting cgt staat voor compensated gross tonnage en is een maat voor de complexiteit van een schip. Voor de meeste schepen volgt de cgt-waarde uit de volgende internationaal vastgestelde formule , met vaste factoren per scheepstype (zie tabel). <sup> 2  De formule is vastgesteld door de OECD: www.oecd.org/dataoecd/59/49/37655301.pdf  </sup>  *cgt = A * gt <sup>B</sup>*  hierbij staat: 
-
-– gt voor het gross tonnage van het schip;  
-
-– de factor A voor de invloed van het scheepstype;  
-
-– de factor B voor de invloed van de grootte van het schip.    
-
-| Scheepstype  | A  | B  |
-|:---|:---|:---|
-| Oil tankers (double hull)  | 48  | 0.57  |
-| Chemical tankers  | 84  | 0.55  |
-| Bulk carriers  | 29  | 0.61  |
-| Combined carriers  | 33  | 0.62  |
-| General cargo ships  | 27  | 0.64  |
-| Reefers  | 27  | 0.68  |
-| Full container  | 19  | 0.68  |
-| Ro ro Vessels  | 32  | 0.63  |
-| Car carriers  | 15  | 0.70  |
-| LPG carriers  | 62  | 0.57  |
-| LNG carriers  | 32  | 0.68  |
-| Ferries  | 20  | 0.71  |
-| Passenger ships  | 49  | 0.67  |
-
-Aanvullend op deze OESE-factoren zijn voor onderstaande scheepstypen specifieke cgt-factoren bepaald: Jachten: A= 75 B= 0,65 Sleephopperzuigers A= 25 B= 0,73 Snijkopzuigers: A= 26 B= 0,75 Non Cargo Carrying Vessels A= 71 B= 0,61 Voorbeeld: een 'chemical tanker' (dus factor A=84 en factor B=0.55) van 3.950 gt geeft als uitkomst een cgt waarde van 7.987.  
-
-####Vraag 5
-
-Subsidie wordt alleen verleend als sprake is van een in Nederland gebouwd of verbouwd schip. Ook indien de bouw van delen van het schip, zoals het casco, in het buitenland heeft plaatsgevonden, kan in de zin van de regeling sprake zijn van (ver)bouwen in Nederland.  
-
-####Vraag 5.3
-
-Geef per bouwfase een omschrijving daarvan, de locatie waar deze fase is uitgevoerd (plaats, eventueel land) en het percentage van de bouwkosten dat daarop betrekking heeft. In geval van uitbesteding van werk dient tevens de onderaannemer te worden vermeld. Indien alle bouwfases buiten Nederland plaatsvinden is in ieder geval geen sprake van bouwen in Nederland. De aanvraag komt dan niet in aanmerking voor subsidie. Indien niet alle bouwfases in Nederland plaatsvinden, dient u op een andere wijze aan te tonen dat het schip in Nederland is gebouwd/verbouwd. De wijze waarop u dat doet staat u vrij. Een tweetal in ieder geval aanvaardbare onderbouwingsvarianten zijn onder 5.4 en 5.5 geïndiceerd. Hierbij dient een kostenopbouw van de contractprijs bijgevoegd te worden op basis van de gekozen variant.  
-
-####Vraag 5.4
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen productie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de vestigingsplaats van de toeleverancier die factureert en waaraan betaling verschuldigd is.  
-
-####Vraag 5.5
-
-Bij deze onderbouwingsvariant dient de toerekening van kosten aan de categorieën Eigen productie (I), Nederlandse toeleveringen (II) en Buitenlandse toeleveringen (III) plaats te vinden op basis van de mate waarin het toegeleverde product van Nederlandse origine is.  
-
-####Vraag 6.1
-
-U dient in het kort verslag uit te brengen over het al dan niet bereikt hebben van de doelstelling(en) van het innovatieproject.  
-
-####Vraag 6.2 en 6.3
-
-U dient de resultaten van het innovatieproject zowel vanuit innovatief (6.2) als budgettair (6.3) perspectief te relateren aan de geplande uitkomsten van het project.  
-
-####Vraag 7
-
-De subsidie is beperkt tot de kosten voor investeringen, ontwerp, technische en testactiviteiten (inclusief de kosten voor de levering van goederen en diensten door derden), die rechtstreeks en uitsluitend voortvloeien uit het innovatieproject en die hebben plaatsgevonden na de datum waarop de subsidie is aangevraagd (eventueel uitgezonderd de kosten voor haalbaarheidsonderzoeken die binnen twaalf maanden voor de aanvraag zijn uitgevoerd. U dient de verantwoorde kosten onder materiaal; uitbesteed werk; externe dienstverlening; gebruiksklare toeleveringen; alsmede onder de post overige uit te splitsen in een bijlage. De subsidie bedraagt maximaal 20 procent van de in aanmerking komende kosten.  
-
-####Vraag 8
-
-Voor zover voor dit innovatieproject ook andere staatsteun is toegekend, wordt deze in mindering gebracht op de steun die onder deze regeling ten hoogste kan worden verstrekt. U dient opgave te doen van eventuele bedragen waarvoor staatsteun is verkregen dan wel aangevraagd door uw onderneming en uw toeleveranciers.  
-
-####Vraag 9
-
-Het gaat hierbij onder meer om de in artikel 10e.7 van de Subsidieregeling sterktes in innovatie genoemde aspecten. Ook dient u melding te maken van zowel het in faillissement c.q. surseance van betaling geraken van uw onderneming, als van wijzigingen in het projectplan, vertragingen in de bouw en wijziging of beëindiging van het contract tussen uw onderneming en opdrachtgever.  
-
-####Vraag 10
-
-Het verzoek tot vaststelling van deze subsidie dient door een daartoe bevoegde bestuurder van de onderneming te worden ondertekend. De gevraagde verklaring houdt o.m. in dat eventuele afwijkingen van het projectplan aan de minister van Economische Zaken zijn gemeld, conform [artikel 37, eerste lid van het kaderbesluit EZ-subsidies](../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).  
-
-####Bijlage
-
-Als bijlage bij dit formulier is een controleprotocol te vinden op www.evd.nl/siz waarin aan de accountant, die is belast met de controle op deze aanvraag tot subsidievaststelling, aanwijzingen worden gegeven met betrekking tot de reikwijdte en de intensiteit van de te verrichten controle. In het protocol wordt ook het object van de controle nader aangegeven. Hierdoor wordt overigens niet beoogd een aanpak van de controle voor te schrijven: de onderzoeksaanpak is de verantwoordelijkheid van de accountant. De controle kan worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredend intern accountant, mits deze volstaat aan de bepalingen welke gesteld zijn in deel B2 van de Verordening Gedragscode van het Koninklijk NIVRA.  
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
