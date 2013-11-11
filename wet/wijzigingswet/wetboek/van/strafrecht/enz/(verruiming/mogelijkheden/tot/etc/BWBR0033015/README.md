@@ -11,38 +11,38 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  IV  
 
-Wijzigt het Wetboek van Strafrecht BES.   
+Wijzigt het Wetboek van Strafrecht BES. 
 
 ### Artikel  V  
 
-Artikel I, onderdeel C, en artikel III zijn van toepassing op strafbare feiten die zijn gepleegd voor de datum van inwerkingtreding van deze wet.  
+Artikel I, onderdeel C, en artikel III zijn van toepassing op strafbare feiten die zijn gepleegd voor de datum van inwerkingtreding van deze wet. 
 
 ### Artikel  Va  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VI  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 7 maart 2013  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten   
 
 de *vijftiende* maart 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    
