@@ -6,29 +6,41 @@ De Staatssecretaris van Verkeer en Waterstaat,
 Gelet op [artikel 4.1 van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
 Besluit:    
 
-### Artikel  1  
+### Artikel 1  
 
-In dit besluit wordt verstaan onder:   a. wet:  [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);    b. nummer met een geografische bestemming:  een nummer dat uitsluitend uit cijfers bestaat en dat bestemd is voor: 
+In dit besluit wordt verstaan onder:  a. wet:   [Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);   b.nummer met een geografische bestemming:   een nummer dat uitsluitend uit cijfers bestaat en dat bestemd is voor: 
 
 1°. het bereiken van gebruikers van een openbare elektronische communicatiedienst op een vaste locatie, waarbij die dienst wordt geboden via een netwerkaansluitpunt dat zich bevindt in het bij het nummer behorende netnummergebied, of  
 
-2°. het bereiken van gebruikers van een openbare elektronische communicatiedienst waarbij de abonnee van die dienst een woon- of vestigingsplaats heeft in het bij het nummer behorende netnummergebied en waarbij een interconnectie afgiftetarief in rekening wordt gebracht dat niet hoger is dan aangegeven in bijlage 4.      c. geografisch nummer:  een nummer met een geografische bestemming;    d. niet-geografisch nummer:  een nummer dat uitsluitend uit cijfers bestaat met een andere bestemming dan een geografische bestemming;    e. netnummer:  de eerste cijfers van een geografisch nummer, waarmee een netnummergebied wordt bepaald;    f. dienstcode:  de eerste cijfers van een niet-geografisch nummer, waarmee een categorie van elektronische communicatiediensten wordt bepaald;    g. abonneenummer:  het deel van een geografisch nummer achter het netnummer of het deel van een niet-geografisch nummer achter de dienstcode;    h. college:  college, genoemd in [artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);    i. geharmoniseerd nummer:  een nummer dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend.     
+2°. het bereiken van gebruikers van een openbare elektronische communicatiedienst waarbij de abonnee van die dienst een woon- of vestigingsplaats heeft in het bij het nummer behorende netnummergebied.     c.geografisch nummer:  een nummer met een geografische bestemming;   d. niet-geografisch nummer:  een nummer dat uitsluitend uit cijfers bestaat met een andere bestemming dan een geografische bestemming;   e.netnummer:   de eerste cijfers van een geografisch nummer, waarmee een netnummergebied wordt bepaald;   f.dienstcode:   de eerste cijfers van een niet-geografisch nummer, waarmee een categorie van elektronische communicatiediensten wordt bepaald;   g.abonneenummer:   het deel van een geografisch nummer achter het netnummer of het deel van een niet-geografisch nummer achter de dienstcode;   h. college:   college, genoemd in [artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);   i.geharmoniseerd nummer:   een nummer dat voor dezelfde dienst en met dezelfde nummerlengte tegelijkertijd meerdere keren kan worden toegekend;   j.elektronische communicatiedienst voor een geautomatiseerde toepassing:   elektronische communicatiedienst waarbij normaliter het nummer door de gebruiker niet of automatisch wordt opgeroepen.    
 
-### Artikel  1a  
+###Artikel 1a 
 
-In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.  
+In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
-### Artikel  1b  
+### Artikel 1b  
 
-Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald, wordt een in dit nummerplan opgenomen nummer niet gebruikt om tegen betaling andere diensten dan elektronische communicatiediensten te leveren indien de betaling van die diensten is opgenomen in de door de aanbieder van de elektronische communicatiedienst opgemaakte rekening.  
+Tenzij in de bij een nummer behorende bestemming uitdrukkelijk anders is bepaald, wordt een in dit nummerplan opgenomen nummer niet gebruikt om tegen betaling andere diensten dan elektronische communicatiediensten te leveren indien de betaling van die diensten is opgenomen in de door de aanbieder van de elektronische communicatiedienst opgemaakte rekening. 
 
-### Artikel  2  
+### Artikel  1c  
+
+1.  Voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing wordt met ingang van 1 maart 2013 een nummer uit de reeks 0970 gebruikt.   
+2.  In afwijking van het eerste lid kan voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing ook een nummer uit de reeksen 067, 0800, 084, 087, 090, of 1 worden gebruikt, indien dit nummer wordt gebruikt overeenkomstig de betreffende bestemmingeisen.   
+3.  Indien een ander nummer dan een nummer uit de reeksen 067, 0800, 084, 087, 090, 0970 of 1 voor 1 maart 2013 in gebruik is genomen voor een elektronische communicatiedienst voor een geautomatiseerde toepassing, is het verboden dit nummer na de beëindiging van de overeenkomst voor de desbetreffende elektronische communicatiedienst opnieuw te gebruiken voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing.  
+
+### Artikel  1d  
+
+1.  Voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing waarbij door een eindgebruiker voor in totaal maximaal 1000 nummers een of meerdere overeenkomsten worden gesloten met een aanbieder van elektronische communicatiediensten, wordt, in afwijking van artikel 1c, eerste lid, met ingang van 1 juni 2014 een nummer uit de reeks 0970 gebruikt.   
+2.  Artikel 1c, tweede lid, is van toepassing.   
+3.  Indien een ander nummer dan een nummer uit de reeksen 067, 0800, 084, 087, 090, 0970 of 1 voor 1 juni 2014 in gebruik is genomen voor een elektronische communicatiedienst voor een geautomatiseerde toepassing waarbij door een eindgebruiker voor in totaal maximaal 1000 nummers een of meerdere overeenkomsten worden gesloten met een aanbieder van elektronische communicatiediensten, is het verboden dit nummer na de beëindiging van de overeenkomst voor de desbetreffende elektronische communicatiedienst opnieuw te gebruiken voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing.  
+
+### Artikel 2  
 
 1.  Een nummer als bedoeld in dit besluit bestaat uitsluitend uit cijfers.   
 2.  De lengte van een geografisch nummer bedraagt tien cijfers.   
-3.  De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de bijlagen 1, 3 en 4, genoemd in artikel 3.   
+3.  De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de bijlagen 1, 3 en 4, genoemd in artikel 3.  
 
-### Artikel  3  
+### Artikel 3  
 
 In de bij dit besluit behorende: 
 
@@ -38,42 +50,40 @@ b. bijlage 2 worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
 
 c. bijlage 3 wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;  
 
-d. bijlage 4 worden de maximale interconnectie afgiftetarieven vastgesteld.  
+d.bijlage 4 worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116. 
 
-e. bijlage 5 worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116.    
+### Artikel 4  
 
-### Artikel  4  
+1. Een geografisch nummer waarvan het abonneenummer begint met één van de cijfers 0, 1 en 9, is niet beschikbaar voor toekenning of reservering.
+2. Een nummer uit de reeks 014 is in afwijking van het bepaalde in het eerste veld van de tabelkop van bijlage 1, behorende bij dit besluit, beschikbaar zonder toekenning of reservering. 
 
-1.  Een geografisch nummer waarvan het abonneenummer begint met één van de cijfers 0, 1 en 9, is niet beschikbaar voor toekenning of reservering.   
-2.  Een nummer uit de reeks 014 is in afwijking van het bepaalde in het eerste veld van de tabelkop van bijlage 1, behorende bij dit besluit, beschikbaar zonder toekenning of reservering.   
+### Artikel 5  
 
-### Artikel  5  
+Een geografisch of niet-geografisch nummer mag niet zijn opgebouwd uit een ander, korter of langer, geografisch of niet-geografisch nummer gevolgd door één of meer cijfers. 
 
-Een geografisch of niet-geografisch nummer mag niet zijn opgebouwd uit een ander, korter of langer, geografisch of niet-geografisch nummer gevolgd door één of meer cijfers.  
+### Artikel 6  
 
-### Artikel  6  
+Het [Nummerplan telefoon- en ISDN-diensten](../../../../../../ministeriele-regeling/nummerplan/telefoon-/en/isdn-diensten/BWBR0010198/README.md) (Stcrt. 1996, 144) wordt ingetrokken. 
 
-Het [Nummerplan telefoon- en ISDN-diensten](../../../../../../ministeriele-regeling/nummerplan/telefoon-/en/isdn-diensten/BWBR0010198/README.md) (Stcrt. 1996, 144) wordt ingetrokken.  
+### Artikel 7  
 
-### Artikel  7  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+### Artikel 8  
 
-### Artikel  8  
-
-1.  Dit besluit wordt aangehaald als: Nummerplan telefoon- en ISDN-diensten.   
-2.  Bijlage 2 van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.   
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van Bijlage 2 die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.   
+1.  Dit besluit wordt aangehaald als: Nummerplan telefoon- en ISDN-diensten.  
+2.  Bijlage 2 van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.  
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van Bijlage 2 die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.M. deVries   
+J.M. deVries 
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####, behorend bij artikel 3, onderdeel a , van het Nummerplan telefoon- en ISDN-diensten
 
-| Beschikbaar voor toekenning of reservering  | Niet beschikbaar voor toekenning of reservering  | Bestemming van de nummers (geografisch en  niet-geografisch)  | Lengte van de nummers  | Nummers van uitzonderlijke economische waarden  |
+| Beschikbaar voor toekenning of reservering  | Niet beschikbaar voor toekenning of reservering  | Bestemming van de nummers (geografisch en niet-geografisch)  | Lengte van de nummers  | Nummers van uitzonderlijke economische waarden  |
 |:---|:---|:---|:---|:---|
 | 00  | --- | Internationale toegangscode  | 2  | Nee  |
 | --- | --- | --- | --- | --- |
@@ -94,9 +104,9 @@ J.M. deVries
 | --- | --- | --- | --- | --- |
 | 014...  | --- | Overige diensten.  | --- | --- |
 | 01400  | --- | Routeren van oproepen naar nummers in de 14-reeks en netwerktechnische diensten bestaande uit het routeren van oproepen naar overige nummers in de 1-reeks  | Niet bepaald  | Nee  |
-| 01401... t/m 01411...  | --- | Netwerktechnische netwerkinterne diensten  | Niet bepaald  | Nee  |
-| 01412...  | --- | Netwerktechnische diensten bestaande uit het routeren van oproepen naar het nummer 112  | Niet bepaald  | Nee  |
-| 01413... t/m 01499...  | --- | Netwerktechnische netwerkinterne diensten  | Niet bepaald  | Nee  |
+|01401... t/m 01411... | --- |Netwerktechnische netwerkinterne diensten |Niet bepaald |Nee |
+|01412...  | --- |Netwerktechnische diensten bestaande uit het routeren van oproepen naar het nummer 112 |Niet bepaald |Nee |
+|01413... t/m 01499... | --- |Netwerktechnische netwerkinterne diensten |Niet bepaald |Nee |
 | --- | --- | --- | --- | --- |
 | 01...  | 01...  | Geografische bestemming; netnummergebieden  | --- | --- |
 | 015  | --- | Delft  | 10  | Nee  |
@@ -344,13 +354,13 @@ J.M. deVries
 | 063  | --- | Mobiele telefonie  | 10  | Nee  |
 | 064  | --- | Mobiele telefonie  | 10  | Nee  |
 | 0650... t/m 0655...  | --- | Mobiele telefonie  | 10  | Nee  |
-| 0656... t/m 0659...  | --- | Semafonie; wordt uitgefaseerd. Vanaf  1 januari 2006 mobiele telefonie  | 10  | Nee  |
+| 0656... t/m 0659...  | --- | Semafonie; wordt uitgefaseerd. Vanaf  1 januari 2006 mobiele telefonie   | 10  | Nee  |
 | 066  | --- | Semafonie  | 10  | Nee  |
 | 0670... t/m 0675...  | --- | Videotex en toegang tot datadiensten op andere netwerken  | 6, 10 <sup>*</sup>  | Nee  |
 | 06760...  | --- | Toegang tot op het Internet Protocol gebaseerde netwerken en diensten  | 10  | Nee  |
 | --- | 06761... t/m 06769...  | --- | --- | --- |
 | 0677... t/m 0679...  | --- | Videotex en toegang tot datadiensten op andere netwerken  | 6  | Nee  |
-| 068  | --- | Mobiele Telefonie  | 10  | nee  |
+|068 | --- |Mobiele Telefonie |10 |nee |
 | --- | 069  | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | 07...  | 07...  | Geografische bestemming; netnummergebieden  | --- | --- |
@@ -366,17 +376,17 @@ J.M. deVries
 | 079  | --- | Zoetermeer  | 10  | Nee  |
 | --- | --- | --- | --- | --- |
 | 08...  | 08...  | Overige diensten  | --- | --- |
-| 0800-0...  0800-1...  0800-2...  0800-3...  0800-400... t/m 0800-405...  | --- | Gratis informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3, tabel 0800  | Nee  |
-| 0800-406...  | --- | Gratis informatiediensten  | 11  | Nee  |
-| 0800-407... t/m 0800-409...  | --- | Gratis informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
-| 0800-41...  | --- | Gratis informatiediensten  | 8  | Nee  |
-| 0800-42...  | --- | Gratis informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
-| 0800-43...  | --- | Gratis informatiediensten  | 8  | Nee  |
-| 0800-44...  0800-45...  | --- | Gratis informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
-| 0800-46...  | --- | Gratis informatiediensten  | 8  | Nee  |
-| 0800-47...  0800-48...  | --- | Gratis informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
-| 0800-49...  | --- | Gratis informatiediensten  | 8  | Nee  |
-| 0800-5  0800-6  0800-7  0800-8  0800-9  | --- | Gratis informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3, tabel 0800  | Nee  |
+| 0800-0...  0800-1...  0800-2...  0800-3...  0800-400... t/m 0800-405...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3 , tabel 0800  | Nee  |
+| 0800-406...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen  | 11  | Nee  |
+| 0800-407... t/m 0800-409...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
+| 0800-41...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen  | 8  | Nee  |
+| 0800-42...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
+| 0800-43...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen  | 8  | Nee  |
+| 0800-44...  0800-45...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
+| 0800-46...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen  | 8  | Nee  |
+| 0800-47...  0800-48...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 11  | Nee  |
+| 0800-49...  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen  | 8  | Nee  |
+| 0800-5  0800-6  0800-7  0800-8  0800-9  | --- | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3 , tabel 0800  | Nee  |
 | --- | 0801  | --- | --- | --- |
 | --- | 0802  | --- | --- | --- |
 | --- | 0803  | --- | --- | --- |
@@ -390,30 +400,33 @@ J.M. deVries
 | 082  | --- | Virtual private networks  | Niet bepaald  | Nee  |
 | --- | 083  | --- | --- | --- |
 | 084  | --- | Persoonlijke-assistentdiensten, voor zowel vaste als mobiele toepassingen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen;  – amusementsdiensten;  – doorschakelen naar voornoemde diensten.  | 10  | Nee  |
-| 085  | --- | Openbare elektronische communicatiediensten waarbij door de nummerhouder een interconnectie afgifte tarief wordt gerekend dat niet hoger is dan aangegeven in bijlage 4  | 10  | Nee  |
+| 085  | --- | Openbare elektronische communicatiediensten  | 10  | Nee  |
 | --- | 086  | --- | --- | --- |
 | 087  | --- | Persoonlijke-assistentdiensten, voor zowel vaste als mobiele toepassingen, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen;  – amusementsdiensten;  – doorschakelen naar voornoemde diensten.  | 10  | Nee  |
 | 088  | --- | toegang tot ondernemingen en instellingen, voor zowel vaste als mobiele toepassingen, waarbij geen diensten worden geboden van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen, of diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen, of amusementsdiensten worden geboden, of betaalde dienstverlening door de nummerhouder/nummergebruiker wordt geboden die wordt afgerekend via de telefoonrekening.  Bovendien is doorschakelen naar voornoemde diensten uitgesloten.  | 10  | Ja, voor de duur van zes maanden na inwerkingtreding van dit besluit.  |
 | --- | 089  | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | 09...  | 09...  | Overige diensten  | --- | --- |
-| 0900  | --- | Betaalde informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – amusementsdiensten of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3, tabel 0900  | Nee  |
+| 0900  | --- | Gratis of betaalde informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – amusementsdiensten of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3 , tabel 0900  | Nee  |
 | --- | 0901  | --- | --- | --- |
 | --- | 0902  | --- | --- | --- |
 | --- | 0903  | --- | --- | --- |
 | --- | 0904  | --- | --- | --- |
 | --- | 0905  | --- | --- | --- |
-| 0906  | --- | Betaalde informatiediensten  | 8, 11  zie bijlage 3, tabel 0906  | Nee  |
+| 0906  | --- | Gratis of betaalde informatiediensten  | 8, 11  zie bijlage 3 , tabel 0906  | Nee  |
 | --- | 0907  | --- | --- | --- |
 | --- | 0908  | --- | --- | --- |
-| 0909  | --- | Betaalde informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3, tabel 0909  | Nee  |
-| 091  | --- | Openbare elektronische communicatiediensten  | 10  | Nee  |
+| 0909  | --- | Gratis of betaalde informatiediensten, met uitsluiting van:  – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen;  – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen  | 8, 11  zie bijlage 3 , tabel 0909  | Nee  |
+| 091 | --- | Openbare elektronische communicatiediensten  | 10  | Nee  |
 | --- | 092  | --- | --- | --- |
 | --- | 093  | --- | --- | --- |
 | --- | 094  | --- | --- | --- |
 | --- | 095  | --- | --- | --- |
 | --- | 096  | --- | --- | --- |
-| --- | 097  | --- | --- | --- |
+|097...  | 097<sup>1</sup>   | --- | --- | --- |
+|0970... t/m 0978...  |0970... t/m 0978... |1. Elektronische communicatiediensten voor geautomatiseerde toepassingen  2. Overige elektronische communicatiediensten  | --- | --- |
+|0970 | --- |1. Elektronische communicatiediensten voor geautomatiseerde toepassingen  2. Overige elektronische communicatiediensten  |12  |Nee |
+| --- |0971 t/m 0978 | --- | --- | --- |
 | --- | 098  | --- | --- | --- |
 | --- | 099  | --- | --- | --- |
 | --- | --- | --- | --- | --- |
@@ -426,17 +439,17 @@ J.M. deVries
 | --- | 113  | Geharmoniseerde Europese korte nummers  | --- | --- |
 | --- | 114  | Geharmoniseerde Europese korte nummers  | --- | --- |
 | --- | 115  | Geharmoniseerde Europese korte nummers  | --- | --- |
-| 116…  | --- | Europees geharmoniseerde diensten met een maatschappelijk belang, die voldoen aan de voorwaarden van bijlage 5 .  Eenzelfde nummer kan aan meerdere aanvragers worden toegekend.  | 6  | Nee  |
-| 116000  | --- | Telefonische meldpunten voor vermiste kinderen  | 6  | Nee  |
-| --- | 116001 t/m 116005  | --- | --- | --- |
-| 116006  | --- | Hulplijn voor slachtoffers van criminaliteit  | 6  | Nee  |
-| --- | 116007 t/m 116110  | --- | --- | --- |
-| 116111  | --- | Kinderhulplijnen  | 6  | Nee  |
-| --- | 116112 t/m 116116  | --- | --- | --- |
-| 116117  | --- | Telefonische hulplijn voor medische hulp in andere dan noodgevallen  | 6  | Nee  |
-| --- | 116118 t/m 116122  | --- | --- | --- |
-| 116123  | --- | Hulplijnen voor emotionele steun  | 6  | Nee  |
-| --- | 116124 t/m 116999  | --- | --- | --- |
+|116… | --- |Europees geharmoniseerde diensten met een maatschappelijk belang, die voldoen aan de voorwaarden van bijlage 5 .  Eenzelfde nummer kan aan meerdere aanvragers worden toegekend. |6 |Nee |
+|116000 | --- |Telefonische meldpunten voor vermiste kinderen |6 |Nee |
+| --- |116001 t/m 116005 | --- | --- | --- |
+|116006 | --- |Hulplijn voor slachtoffers van criminaliteit |6 |Nee |
+| --- |116007 t/m 116110 | --- | --- | --- |
+|116111 | --- |Kinderhulplijnen |6 |Nee |
+| --- |116112 t/m 116116 | --- | --- | --- |
+|116117 | --- |Telefonische hulplijn voor medische hulp in andere dan noodgevallen |6 |Nee |
+| --- |116118 t/m 116122 | --- | --- | --- |
+|116123 | --- |Hulplijnen voor emotionele steun |6 |Nee |
+| --- |116124 t/m 116999 | --- | --- | --- |
 | --- | 117  | Geharmoniseerde Europese korte nummers  | --- | --- |
 | --- | 118  | --- | --- | --- |
 | --- | 119  | Geharmoniseerde Europese korte nummers  | --- | --- |
@@ -458,20 +471,18 @@ J.M. deVries
 | 1330 t/m 1399  | --- | Nummers voor diensten die de eigen openbare telefoondienst ondersteunen en voor toegang tot netwerklokale faciliteiten voor gebruikers van een netwerk  | 4  | Nee  |
 | --- | --- | --- | --- | --- |
 | 14...  | 14...  | Geharmoniseerde nummers voor diensten met een bijzonder maatschappelijk belang  | --- | --- |
-| 1400  | --- | Contactcentrum van de gehele overheid  | 4  | Nee  |
-| 1401 t/m 1405  | --- | Contactcentra van de gemeenten  | 5,6 zie bijlage 3 tabel 140x  | Nee  |
+| 1400  | --- | Contactcentrum van de rijksoverheid  | 4  | Nee  |
+| 1401 t/m 1405  | --- | Contactcentra van de gemeenten  | 5,6 zie bijlage 3  tabel 140x  | Nee  |
 | --- | 1406  | --- | --- | --- |
 | 1407..  | --- | Contactcentra van de gemeenten  | 5  | Nee  |
 | --- | 14080 t/m 14087  | --- | --- | --- |
-| 14088  | --- | Contactcentrum van de overheid voor bedrijven  | 5  | Nee  |
-| --- | 14089  | --- | --- | --- |
-| --- | 1409  | --- | --- | --- |
+|14088 | --- |Contactcentrum van de overheid voor bedrijven |5 |Nee |
+| --- |14089 | --- | --- | --- |
+| --- |1409 | --- | --- | --- |
 | --- | 1410 t/m 1419  | Contactcentra van de overige overheidsorganisaties  | 4  | Nee  |
 | --- | 1420 t/m 1439  | --- | --- | --- |
-| 144  | --- | Nationaal meldnummer voor dieren in nood  | 3  | Nee  |
-| --- | 1440 t/m 1450  | --- | --- | --- |
-| 1451  | --- | Contactcentrum van de rijksoverheid  | 4  | Nee  |
-| --- | 1452 t/m 1499  | --- | --- | --- |
+|144 | --- |Nationaal meldnummer voor dieren in nood |3 |Nee |
+| --- | 1440 t/m 1499  | --- | --- | --- |
 | --- | 15  | --- | --- | --- |
 | --- | --- | --- | --- | --- |
 | 16  | --- | Carrierselectiedienst  Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen.  De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan.  | 4  | Nee  |
@@ -487,69 +498,69 @@ J.M. deVries
 | --- | 8  | Gebruik wordt uitgefaseerd  | --- | --- |
 | --- | 9  | Gebruik wordt uitgefaseerd  | --- | --- |
 
-<sup>*</sup> De nummers hebben 6 cijfers behalve de nummers die beginnen met 067-281, 067-284 en 067-364 welke uit 10 cijfers bestaan. 
+<sup>*</sup> De nummers hebben 6 cijfers behalve de nummers die beginnen met 067-281, 067-284 en 067-364 welke uit 10 cijfers bestaan.<sup>1</sup> De reeks 0979 wordt niet toegekend en wordt vrijgehouden voor netwerkintern gebruik. De reeks maakt geen deel uit van het nummerplan.
 
-### Bijlage  2  
+###Bijlage 2  
 
-Ligt ter inzage bij het college, Zurichtoren, 3e verdieping, te Den Haag.  
+Ligt ter inzage bij het college, Zurichtoren, 3e verdieping, te Den Haag. 
 
-### Bijlage  3  
+###Bijlage 3 
 
 ####als bedoeld in artikel 3, onder c , van het Nummerplan telefoon- en ISDN-diensten
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| --- |  *0*   |  *1*   |  *2*   |  *3*   |  *4*   |  *5*   |  *6*   |  *7*   |  *8*   |  *9*   |
-|    0800-0  | 8  | 8  | 11  | 8  | 8  | 8  | 8  | 8  | 8  | 11  |
-|    0800-1  | 8  | 8  | 8  | 8  | 8  | 8  | 8  | 8  | 8  | 8  |
-|    0800-2  | 8  | 8  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0800-3  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0800-4  | 11  | 8  | 11  | 8  | 11  | 11  | 8  | 11  | 11  | 8  |
-|    0800-5  | 8  | 8  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0800-6  | 8  | 8  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0800-7  | 8  | 8  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0800-8  | 8  | 8  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0800-9  | 8  | 8  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
+| --- |*0* |*1* |*2* |*3* |*4* |*5* |*6* |*7* |*8* |*9* |
+|   0800-0 |8 |8 |11 |8 |8 |8 |8 |8 |8 |11 |
+|   0800-1 |8 |8 |8 |8 |8 |8 |8 |8 |8 |8 |
+|   0800-2 |8 |8 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0800-3 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0800-4 |11 |8 |11 |8 |11 |11 |8 |11 |11 |8 |
+|   0800-5 |8 |8 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0800-6 |8 |8 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0800-7 |8 |8 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0800-8 |8 |8 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0800-9 |8 |8 |11 |11 |11 |11 |11 |11 |11 |11 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *Tabel 0900*   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *0*   |  *1*   |  *2*   |  *3*   |  *4*   |  *5*   |  *6*   |  *7*   |  *8*   |  *9*   |
-|    0900-0  | 8  | 8  | 8  | 8  | 11  | 8  | 8  | 8  | 8  | 8  |
-|    0900-1  | 11  | 11  | 11  | 8  | 8  | 8  | 11  | 8  | 8  | 8  |
-|    0900-2  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0900-3  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0900-4  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0900-5  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0900-6  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0900-7  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0900-8  | 8  | 8  | 11  | 8  | 8  | 11  | 8  | 11  | 8  | 11  |
-|    0900-9  | 11  | 11  | 8  | 8  | 11  | 8  | 8  | 8  | 8  | 11  |
+|*Tabel 0900* | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- |*0* |*1* |*2* |*3* |*4* |*5* |*6* |*7* |*8* |*9* |
+|   0900-0 |8 |8 |8 |8 |11 |8 |8 |8 |8 |8 |
+|   0900-1 |11 |11 |11 |8 |8 |8 |11 |8 |8 |8 |
+|   0900-2 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0900-3 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0900-4 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0900-5 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0900-6 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0900-7 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0900-8 |8 |8 |11 |8 |8 |11 |8 |11 |8 |11 |
+|   0900-9 |11 |11 |8 |8 |11 |8 |8 |8 |8 |11 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *Tabel 0906*   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *0*   |  *1*   |  *2*   |  *3*   |  *4*   |  *5*   |  *6*   |  *7*   |  *8*   |  *9*   |
-|    0906-0  | 8  | 8  | 8  | 8  | 11  | 8  | 8  | 8  | 8  | 8  |
-|    0906-1  | 11  | 11  | 11  | 8  | 8  | 8  | 11  | 8  | 8  | 8  |
-|    0906-2  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0906-3  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0906-4  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0906-5  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0906-6  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0906-7  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0906-8  | 8  | 8  | 11  | 8  | 8  | 11  | 8  | 11  | 8  | 11  |
-|    0906-9  | 11  | 11  | 8  | 8  | 11  | 8  | 8  | 8  | 8  | 11  |
+|*Tabel 0906* | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- |*0* |*1* |*2* |*3* |*4* |*5* |*6* |*7* |*8* |*9* |
+|   0906-0 |8 |8 |8 |8 |11 |8 |8 |8 |8 |8 |
+|   0906-1 |11 |11 |11 |8 |8 |8 |11 |8 |8 |8 |
+|   0906-2 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0906-3 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0906-4 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0906-5 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0906-6 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0906-7 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0906-8 |8 |8 |11 |8 |8 |11 |8 |11 |8 |11 |
+|   0906-9 |11 |11 |8 |8 |11 |8 |8 |8 |8 |11 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *Tabel 0909*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- |  *0*   |  *1*   |  *2*   |  *3*   |  *4*   |  *5*   |  *6*   |  *7*   |  *8*   |  *9*   |
-|    0909-0  | 8  | 8  | 8  | 8  | 11  | 8  | 8  | 8  | 8  | 8  |
-|    0909-1  | 11  | 11  | 11  | 8  | 8  | 8  | 11  | 8  | 8  | 8  |
-|    0909-2  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0909-3  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0909-4  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0909-5  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0909-6  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0909-7  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  | 11  |
-|    0909-8  | 8  | 8  | 11  | 8  | 8  | 11  | 8  | 11  | 8  | 11  |
-|    0909-9  | 11  | 11  | 8  | 8  | 11  | 8  | 8  | 8  | 8  | 11  |
+|*Tabel 0909* | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- |*0* |*1* |*2* |*3* |*4* |*5* |*6* |*7* |*8* |*9* |
+|   0909-0 |8 |8 |8 |8 |11 |8 |8 |8 |8 |8 |
+|   0909-1 |11 |11 |11 |8 |8 |8 |11 |8 |8 |8 |
+|   0909-2 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0909-3 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0909-4 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0909-5 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0909-6 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0909-7 |11 |11 |11 |11 |11 |11 |11 |11 |11 |11 |
+|   0909-8 |8 |8 |11 |8 |8 |11 |8 |11 |8 |11 |
+|   0909-9 |11 |11 |8 |8 |11 |8 |8 |8 |8 |11 |
 
 Tabel 140X 
 
@@ -561,20 +572,11 @@ Tabel 140X
 | 14 04  | 5  | 6  | nb  | 5  | nb  | 5  | 5  | 6  | 6  | 6  |
 | 14 05  | 5  | 6  | 6  | 5  | 6  | 5  | 6  | 6  | 5  | 6  |
 
-nb = niet beschikbaar voor toekenning of reservering 
+nb = niet beschikbaar voor toekenning of reservering
 
-### Bijlage  4  
+###Bijlage 4 
 
-####als bedoeld in artikel 3, onder d, van het Nummerplan telefoon- en ISDN-diensten 
-
-| Nummers  | Maximaal interconnectie afgifte starttarief, in eurocent, exclusief BTW  | Maximaal interconnectie afgiftetarief per minuut, in eurocent, exclusief BTW  |
-|:---|:---|:---|
-| Nummers met geografische bestemming waarbij de dienst niet wordt geboden op een vaste locatie via een netwerkaansluitpunt dat zich in het bij het nummer behorende netnummergebied bevindt  | 0,9 eurocent  | 1,1 eurocent  |
-| 085  | 0,9 eurocent  | 1,1 eurocent  |
-
-### Bijlage  5  
-
-####als bedoeld in artikel 3, onder e , van het Nummerplan telefoon- en ISDN-diensten.
+####als bedoeld in artikel 3, onder d , van het Nummerplan telefoon- en ISDN-diensten
 
 | Nummer  | Kwalificatie van de dienst en voorwaarden aan het recht op het gebruik  |
 |:---|:---|
