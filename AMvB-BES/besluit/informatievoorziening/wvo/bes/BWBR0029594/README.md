@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 september 2010, nr. WJZ/236449 (3840), directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit en mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op de [artikelen 176](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) en [177 van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);
+Gelet op de artikelen 176 en 177 van de Wet voortgezet onderwijs BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 21 oktober 2010, No. W05.10.0452/I);
 
@@ -22,19 +22,19 @@ Hebben goedgevonden en verstaan:
 
 Dit besluit verstaat onder: 
 
-a. *de wet:* de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);  
+a.  *de wet:* de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md);  
 
-b. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap, of voor wat betreft het landbouwonderwijs Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+b.  *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
-c. *school:* een school voor voortgezet onderwijs, tenzij het tegendeel blijkt;  
+c.  *school:* een school voor voortgezet onderwijs, tenzij het tegendeel blijkt;  
 
-d. *bevoegd gezag:* voor wat betreft: 
+d.  *bevoegd gezag:* voor wat betreft: 
 
 1°. een openbare school in stand gehouden door een openbaar lichaam: het bestuurscollege van het desbetreffende openbaar lichaam, voor zover de eilandsraad niet anders bepaalt, en indien de eilandsraad dit besluit, met inachtneming van door hem te stellen regelen, en  
 
 2°. een bijzondere school: het schoolbestuur;    
 
-e. *gegevenswoordenboek:* de opsomming van door een school te verzamelen gegevens, bedoeld in artikel 2.    
+e.  *gegevenswoordenboek:* de opsomming van door een school te verzamelen gegevens, bedoeld in artikel 2.   
 
 ### Hoofdstuk  II  
 
@@ -44,20 +44,24 @@ e. *gegevenswoordenboek:* de opsomming van door een school te verzamelen gegeven
 
 ####Ordening van de gegevens
 
-1.  De informatieverzameling, bedoeld in de [artikelen 176](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) en [177 van de wet](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), waarover het bevoegd gezag dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 1 bij dit besluit.   
-2.  De gegevens, bedoeld in het eerste lid, die betrekking hebben op bekostiging zijn in het gegevenswoordenboek als zodanig aangeduid.   
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De informatieverzameling, bedoeld in de artikelen 176 en 177 van de wet, waarover het bevoegd gezag dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 1 bij dit besluit.   
+2.  De gegevens, bedoeld in het eerste lid, die betrekking hebben op bekostiging zijn in het gegevenswoordenboek als zodanig aangeduid.  
 
 ### Artikel  3  
 
 ####Wijze van beschikbaarstelling van gegevens
 
-Op verzoek van Onze Minister stelt het bevoegd gezag gegevens aan hem ter beschikking, die door de school zijn verzameld op grond van artikel 2. De beschikbaarstelling geschiedt overeenkomstig de vragenlijsten die op de school van toepassing zijn, en die zijn opgenomen in bijlage 2 bij dit besluit. In voorkomende gevallen kan Onze Minister bij het verzoek om beschikbaarstelling reeds bij hem bekende gegevens opnemen.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Op verzoek van Onze Minister stelt het bevoegd gezag gegevens aan hem ter beschikking, die door de school zijn verzameld op grond van artikel 2. De beschikbaarstelling geschiedt overeenkomstig de vragenlijsten die op de school van toepassing zijn, en die zijn opgenomen in bijlage 2 bij dit besluit. In voorkomende gevallen kan Onze Minister bij het verzoek om beschikbaarstelling reeds bij hem bekende gegevens opnemen. 
 
 ### Artikel  4  
 
 ####Aanpassing van de gegevensvraag over bekostiging
 
-Bij ministeriële regeling kan in spoedeisende gevallen een aanvullende vragenlijst ten aanzien van bekostiging worden vastgesteld ter beantwoording door het bevoegd gezag.  
+Bij ministeriële regeling kan in spoedeisende gevallen een aanvullende vragenlijst ten aanzien van bekostiging worden vastgesteld ter beantwoording door het bevoegd gezag. 
 
 ### Hoofdstuk  III  
 
@@ -67,20 +71,20 @@ Bij ministeriële regeling kan in spoedeisende gevallen een aanvullende vragenli
 
 ####Overgangsbepaling
 
-Tot het tijdstip van inwerkingtreding van de artikelen 2 en 3, worden bij ministeriële regeling de gegevens vastgesteld die het bevoegd gezag ten aanzien van bekostiging en beleid aan Onze Minister levert en op welke wijze deze gegevens worden gedefinieerd en geordend.  
+Tot het tijdstip van inwerkingtreding van de artikelen 2 en 3, worden bij ministeriële regeling de gegevens vastgesteld die het bevoegd gezag ten aanzien van bekostiging en beleid aan Onze Minister levert en op welke wijze deze gegevens worden gedefinieerd en geordend. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
 1.  De artikelen 1, 4 en 5 treden in werking met ingang van de dag in Bonaire, Sint Eustatius en Saba na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.   
-2.  De artikelen 2 en 3 treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.   
+2.  De artikelen 2 en 3 treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.  
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit informatievoorziening WVO BES.  
+Dit besluit wordt aangehaald als: Besluit informatievoorziening WVO BES. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -88,27 +92,29 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3 februari 2011  
 Beatrix  
 
-De Minister van Onderwijs, Cultuur en Wetenschap, 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
 J. M. van Bijsterveldt-Vliegenthart   
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. P. H. Donner   
 
 de *zevende* maart 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
 
-### Bijlage  1  
+### Bijlage  1 
 
 ####als bedoeld in artikel 2  van het Besluit informatievoorziening WVO BES
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 #### *Ordening van de gegevens* 
 
-In deze bijlage worden gegevens gespecificeerd die bevoegde gezagsorganen, krachtens [artikel 176](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) en [artikel 177 van de WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), verplicht zijn om aan de minister te leveren. 
+In deze bijlage worden gegevens gespecificeerd die bevoegde gezagsorganen, krachtens [artikel 176](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) en [artikel 177 van de WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), verplicht zijn om aan de minister te leveren. 
 
 #### *Toelichting* 
 
@@ -128,7 +134,7 @@ Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren va
 
 – gegevens van regelingen waarvoor een aanvraag moet worden ingediend 
 
-– – leerlingen met een specifieke onderwijsbehoefte     Voor een deel van de gegevens geldt dat deze alleen aangeleverd hoeven te worden wanneer daartoe aanleiding is. In dat geval dient de school de gegevens via het daartoe bestemde formulier aan te leveren (zie bijlage 2).  
+– – leerlingen met een specifieke onderwijsbehoefte     Voor een deel van de gegevens geldt dat deze alleen aangeleverd hoeven te worden wanneer daartoe aanleiding is. In dat geval dient de school de gegevens via het daartoe bestemde formulier aan te leveren (zie bijlage 2). 
 
 ### 1  
 
@@ -144,23 +150,23 @@ Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden wo
 
 #### *Bevoegd gezag: vestigingsadres* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | artikel 177  | Het door de minister gehanteerde nummer van het bevoegd gezag, volgens de Basisregistratie Instellingen (BRIN)  |
 | 2  | Adres  | --- | artikel 177  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
 | 3  | Postcode  | --- | artikel 177  | De postcode behorende bij het adres  |
-| 4  | Plaats  | --- | artikel 177  artikel 177  | Naam van de woonplaats, behorende bij het vestigingsadres  |
+| 4  | Plaats  | --- | artikel 177 artikel 177  | Naam van de woonplaats, behorende bij het vestigingsadres  |
 | 5  | Ingangsdatum  | JJJJMMDD  (N8)  | artikel 177  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 ### 1.1.2  
 
 #### *Bevoegd gezag: correspondentieadres* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | artikel 177  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 2  | Adres  | --- | artikel 177  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
-| 3  | Postcode  | --- | artikel 177  | De postcode behorende bij het adres  |
+| 3  | Postcode  | --- | artikel 177 | De postcode behorende bij het adres  |
 | 4  | Plaats  | --- | artikel 177  | Naam van de woonplaats, behorende bij het correspondentieadres  |
 | 5  | Ingangsdatum  | JJJJMMDD  (N8)  | artikel 177  | Datum waarop de mutatie ingaat of zal ingaan  |
 
@@ -168,20 +174,20 @@ Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden wo
 
 #### *Bevoegd gezag: overige communicatiegegevens (niet verplicht)* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | artikel 177  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 | 2  | Telefoonnummer  | (N10)  | artikel 177  | Het telefoonnummer waaronder het bevoegd gezag bereikbaar is  |
 | 3  | Fax  | (N10)  | artikel 177  | Het faxnummer waaronder het bevoegd gezag bereikbaar is  |
 | 4  | e-mail adres  | --- | artikel 177  | Het adres waaronder het bevoegd gezag via het internet per elektronische post bereikbaar is  |
-| 5  | Internetadres  | --- | artikel 177  | URL waar het BG op internet te vinden is  |
+| 5  | Internetadres  | --- | artikel 177 | URL waar het BG op internet te vinden is  |
 | 6  | Ingangsdatum  | JJJJMMDD  (N8)  | artikel 177  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 ### 1.1.4  
 
 #### *School: correspondentieadres* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | Organisatienummer school  | 2 cijfers, 2 letters  (A4)  | artikel 177  | Het door de minister toegekende nummer van de school  |
 | 2  | Adres  | --- | artikel 177  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
@@ -193,7 +199,7 @@ Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden wo
 
 #### *School: overige communicatiegegevens (niet verplicht)* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | Organisatienummer school  | 2 cijfers, 2 letters  (A4)  | artikel 177  | Het door de minister toegekende nummer van de school  |
 | 2  | Telefoonnummer  | (N10)  | artikel 177  | Het telefoonnummer waaronder de school bereikbaar is  |
@@ -206,7 +212,7 @@ Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden wo
 
 #### *Vestiging: correspondentieadres* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | Organisatienummer vestiging  | 2 cijfers,  2 letters, 2 cijfers  (A6)  | artikel 177  | Het door de minister toegekende nummer van de vestiging  |
 | 2  | Adres  | --- | artikel 177  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
@@ -218,7 +224,7 @@ Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden wo
 
 #### *Vestiging: overige communicatiegegevens (niet verplicht)* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | Organisatienummer vestiging  | 2 cijfers, 2 letters, 2 cijfers  (A6)  | artikel 177  | Het door de minister gehanteerde nummer van de vestiging  |
 | 2  | Telefoonnummer  | (N10)  | artikel 177  | Het telefoonnummer waaronder de school bereikbaar is  |
@@ -249,11 +255,11 @@ Gegevens over personeel worden door DUO verzameld op het niveau van arbeidsrelat
 
 #### *Gegevens te leveren op het niveau van de arbeidsrelaties* 
 
-Deze gegevens worden opgenomen in BRP. De gegevens betreffen alle arbeidsrelaties die in de peilmaand bestaan tussen een persoon en een bevoegd gezag en de kenmerken van de personen die deze arbeidsrelaties hebben. Indien een persoon meer dan één arbeidsrelatie heeft met hetzelfde bevoegd gezag, dan dienen de gegevens van elke arbeidsrelatie apart te worden vermeld. De gegevens worden per onderdeel weergegeven, maar de levering bestaat uit één geïntegreerd bestand. In overleg met DUO kan hiervan afgeweken worden zolang de gegevens uit de verschillende onderdelen eenduidig met elkaar te koppelen zijn. Naast maandgegevens dienen ook over een kalenderjaar per persoon en arbeidsrelatie de geaggregeerde persoons- en arbeidsrelatiegegevens geleverd te worden. Het betreft de gegevens per persoon en arbeidsrelatie gesommeerd over een kalenderjaar (peiljaar).  
+Deze gegevens worden opgenomen in BRP. De gegevens betreffen alle arbeidsrelaties die in de peilmaand bestaan tussen een persoon en een bevoegd gezag en de kenmerken van de personen die deze arbeidsrelaties hebben. Indien een persoon meer dan één arbeidsrelatie heeft met hetzelfde bevoegd gezag, dan dienen de gegevens van elke arbeidsrelatie apart te worden vermeld. De gegevens worden per onderdeel weergegeven, maar de levering bestaat uit één geïntegreerd bestand. In overleg met DUO kan hiervan afgeweken worden zolang de gegevens uit de verschillende onderdelen eenduidig met elkaar te koppelen zijn. Naast maandgegevens dienen ook over een kalenderjaar per persoon en arbeidsrelatie de geaggregeerde persoons- en arbeidsrelatiegegevens geleverd te worden. Het betreft de gegevens per persoon en arbeidsrelatie gesommeerd over een kalenderjaar (peiljaar). 
 
 #### *Gegevens te leveren op het niveau van de bevoegde gezagsorganen* 
 
-Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsongeschikt raken van personeelsleden.  
+Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsongeschikt raken van personeelsleden. 
 
 ### 2.1  
 
@@ -263,7 +269,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 
 #### *Onderdeel Persoon* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 1  | personeelsnummer  | nummer van maximaal 20 cijfers  (N20)  | artikel 176 en 177  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
 | 2  | code salarisadministratie  | 1 cijfer (N1)  | artikel 176 en 177  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  1 ADP  2 Caso  3 Centric  4 Merces  5 Raet  6 Overig  |
@@ -278,7 +284,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 
 #### *Onderdeel Arbeidsrelatie* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 7  | personeelsnummer  | nummer van maximaal 20 cijfers  (N20)  | artikel 176 en 177  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
 | 8  | code salarisadministratie  | 1 cijfer (N1)  | artikel 176 en 177  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  1 ADP  2 Caso  3 Centric  4 Merces  5 Raet  6 Overig  |
@@ -307,7 +313,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 
 #### *Onderdeel Loon, toelagen en kortingen* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 29  | personeelsnummer  | nummer van maximaal 20 cijfers  (N20)  | artikel 176 en 177  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
 | 30  | code salarisadministratie  | 1 cijfer (N1)  | artikel 176 en 177  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  1 ADP  2 Caso  3 Centric  4 Merces  5 Raet  6 Overig  |
@@ -324,7 +330,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 
 #### *Onderdeel Verlofgegevens (waaronder ziekteverlof)* 
 
-| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | Grondslag in [WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md)  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
 | 39  | personeelsnummer  | nummer van maximaal 20 cijfers  (N20)  | artikel 176 en 177  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
 | 40  | code salarisadministratie  | 1 cijfer (N1)  | artikel 176 en 177  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  1 ADP  2 Caso  3 Centric  4 Merces  5 Raet  6 Overig  |
@@ -345,31 +351,31 @@ Over de sectoren heen dienen begrippen zoveel mogelijk op dezelfde wijze geïnte
 
 ####• arbeidsrelatie versus aanstelling/benoeming
 
-Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen aanstellingen of benoemingen enerzijds en arbeidsrelaties anderzijds. In dit Besluit informatievoorziening WVO BES is een arbeidsrelatie een unieke combinatie van school, persoon, functie en aard dienstverband. <sup> 1  In het vervolg worden alleen de termen benoemen, benoemde en benoeming(en) gebruikt. Voor het openbaar onderwijs dient hiervoor aanstellen, aangestelde respectievelijk aanstelling(en) gelezen te worden.  </sup> In een aantal situaties kan er één akte van benoeming zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Dat betreft de onderstaande situaties:  
+Ten behoeve van de gegevensleveringen moet onderscheid gemaakt worden tussen aanstellingen of benoemingen<sup> 1  In het vervolg worden alleen de termen benoemen, benoemde en benoeming(en) gebruikt. Voor het openbaar onderwijs dient hiervoor aanstellen, aangestelde respectievelijk aanstelling(en) gelezen te worden. </sup>enerzijds en arbeidsrelaties anderzijds. In dit Besluit informatievoorziening WVO BES is een arbeidsrelatie een unieke combinatie van school, persoon, functie en aard dienstverband. In een aantal situaties kan er één akte van benoeming zijn, terwijl er voor de gegevensleveringen meer dan één arbeidsrelatie tussen een bevoegd gezag en een persoon moet worden onderscheiden. Dat betreft de onderstaande situaties: 
 
 ####• benoemingen bij meer dan één school
 
-Een bevoegd gezag kan een persoon benoemen om bij één school of bij meer scholen werkzaam te zijn. Als er sprake is van een benoeming waarbij de benoemde bij meer dan één school van een bevoegd gezag werkzaam is, dan is er in het kader van dit programma van eisen sprake van meer dan één arbeidsrelatie. Dit ongeacht of er voor de werkzaamheden aan de verschillende scholen één dan wel verschillende aktes van benoeming zijn opgemaakt. Er moeten ten minste evenveel arbeidsrelaties worden onderscheiden als het aantal scholen waar een persoon werkzaam is. De gegevens die geleverd moeten worden, moeten voor elke arbeidsrelatie afzonderlijk worden geregistreerd.  
+Een bevoegd gezag kan een persoon benoemen om bij één school of bij meer scholen werkzaam te zijn. Als er sprake is van een benoeming waarbij de benoemde bij meer dan één school van een bevoegd gezag werkzaam is, dan is er in het kader van dit programma van eisen sprake van meer dan één arbeidsrelatie. Dit ongeacht of er voor de werkzaamheden aan de verschillende scholen één dan wel verschillende aktes van benoeming zijn opgemaakt. Er moeten ten minste evenveel arbeidsrelaties worden onderscheiden als het aantal scholen waar een persoon werkzaam is. De gegevens die geleverd moeten worden, moeten voor elke arbeidsrelatie afzonderlijk worden geregistreerd. 
 
 ####• benoemingen in meer dan één functie
 
-Ook als een persoon tegelijk werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijk werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één school uitoefent.  
+Ook als een persoon tegelijk werkzaam is in verschillende functies, moeten verschillende arbeidsrelaties worden onderscheiden. Dit is bijvoorbeeld het geval als iemand tegelijk werkzaam is als leerkracht en als adjunct-directeur. De gegevens moeten voor elk van beide functies apart worden geregistreerd en worden geleverd, ook als de persoon deze functies bij één school uitoefent. 
 
 ####• veranderingen van functie
 
-Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie voor de nieuwe functie.  
+Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie voor de nieuwe functie. 
 
 ####• verandering van betrekkingsomvang in verband met vervanging
 
-Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige collega vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden. Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen.  
+Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige collega vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden. Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkende formatie te voorkomen. 
 
 ####• begin en einde verlofperiode
 
-Bij een verandering van het soort verlof wordt een lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode.  
+Bij een verandering van het soort verlof wordt een lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. 
 
 ####• begin- en einddatum
 
-Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de regel van toepassing is. Als einddatum wordt geleverd de laatste kalenderdag waarop de situatie van de regel van toepassing is.  
+Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de regel van toepassing is. Als einddatum wordt geleverd de laatste kalenderdag waarop de situatie van de regel van toepassing is. 
 
 ####• bevoegdheid
 
@@ -379,11 +385,11 @@ Bevoegdheid wordt bepaald op basis van de criteria die zijn opgesomd in de wet. 
 
 2. benoembaar  
 
-3. onbevoegd of benoembaar onder [artikel 80 derde lid van de WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md).   In het streven de administratieve lasten voor de bevoegde gezagsorganen zoveel mogelijk te beperken, benut OCW bij de Integrale Personeelstelling Onderwijs (kortweg IPTO) mogelijkheden om gegevens direct uit bestaande (basis)registraties te halen. Zodoende wordt bijvoorbeeld het Centraal Register Inschrijvingen Hoger onderwijs (CRIHO) benut voor de bepaling van bevoegdheden. Daarnaast wordt ook informatie over gegeven vakken zoveel mogelijk verzameld uit elektronische roosterpakketten.  
+3. onbevoegd of benoembaar onder [artikel 80 derde lid van de WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md).   In het streven de administratieve lasten voor de bevoegde gezagsorganen zoveel mogelijk te beperken, benut OCW bij de Integrale Personeelstelling Onderwijs (kortweg IPTO) mogelijkheden om gegevens direct uit bestaande (basis)registraties te halen. Zodoende wordt bijvoorbeeld het Centraal Register Inschrijvingen Hoger onderwijs (CRIHO) benut voor de bepaling van bevoegdheden. Daarnaast wordt ook informatie over gegeven vakken zoveel mogelijk verzameld uit elektronische roosterpakketten. 
 
 ####• extractiedatum
 
-De extractiedatum is de datum waarop de gegevens uit de database of databases zijn gehaald. Als gegevens uit verschillende databases moeten worden gehaald, bestaat het risico dat de gegevens uit de verschillende databases niet op elkaar aansluiten (in elke database zullen voortdurend mutaties worden aangebracht). Om dit risico zo klein mogelijk te maken, zullen de eerste en de laatste extractiedatum van de gegevens over de dezelfde peilmaand niet meer dan één week uit elkaar mogen liggen, tenzij de consistentie aantoonbaar op een andere manier gewaarborgd wordt.  
+De extractiedatum is de datum waarop de gegevens uit de database of databases zijn gehaald. Als gegevens uit verschillende databases moeten worden gehaald, bestaat het risico dat de gegevens uit de verschillende databases niet op elkaar aansluiten (in elke database zullen voortdurend mutaties worden aangebracht). Om dit risico zo klein mogelijk te maken, zullen de eerste en de laatste extractiedatum van de gegevens over de dezelfde peilmaand niet meer dan één week uit elkaar mogen liggen, tenzij de consistentie aantoonbaar op een andere manier gewaarborgd wordt. 
 
 ####• financieringsbron
 
@@ -393,47 +399,47 @@ Arbeidsrelaties kunnen vanuit verschillende bronnen worden bekostigd. Belangrijk
 
 2. financiële middelen die een school op grond van een (verplichte of vrijwillige) verzekering ontvangt van een risicofonds in verband met (vervanging bij) ziekte of afwezigheid om andere redenen  
 
-3. middelen die bedoeld zijn om mensen met een uitkering te re-integreren op de arbeidsmarkt of die bedoeld zijn te voorkomen dat mensen in een uitkeringssituatie terechtkomen.   Indien bij een arbeidsrelatie meer dan één financieringsbron aan de orde is, dan wordt de financieringsbron vermeld, die de grootste bijdrage levert.  
+3. middelen die bedoeld zijn om mensen met een uitkering te re-integreren op de arbeidsmarkt of die bedoeld zijn te voorkomen dat mensen in een uitkeringssituatie terechtkomen.   Indien bij een arbeidsrelatie meer dan één financieringsbron aan de orde is, dan wordt de financieringsbron vermeld, die de grootste bijdrage levert. 
 
 ####• maand waarop betrekking
 
-In de bestanden die op een peilmaand betrekking hebben, worden de betalingen en inhoudingen opgegeven die op die peilmaand betrekking hebben. Correcties hierop worden met twee maanden terugwerkende kracht hierin verwerkt. Betalingen die op een peilmaand, langer dan twee maanden terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 200900).  
+In de bestanden die op een peilmaand betrekking hebben, worden de betalingen en inhoudingen opgegeven die op die peilmaand betrekking hebben. Correcties hierop worden met twee maanden terugwerkende kracht hierin verwerkt. Betalingen die op een peilmaand, langer dan twee maanden terug betrekking hebben, worden geleverd in het bestand van de peilmaand waarin deze gedaan zijn met daarbij de vermelding op welke (eerdere) kalendermaand zij betrekking hebben. Als een dergelijke betaling niet aan een bepaalde kalendermaand kan worden toegerekend, dan wordt het kalenderjaar vermeld met twee volgnullen (bijvoorbeeld 200900). 
 
 ####• opeenvolgende periodes van ziekteverlof
 
-Voor de sociale zekerheid worden opeenvolgende periodes van ziekteverlof als één ziektegeval gerekend, als de tweede ziekmelding plaatsvindt binnen een periode van 4 weken na herstel-melding van het voorgaande ziekteverlof. In de levering worden in dat geval steeds de afzonderlijke perioden geleverd met elk en begin- en einddatum.  
+Voor de sociale zekerheid worden opeenvolgende periodes van ziekteverlof als één ziektegeval gerekend, als de tweede ziekmelding plaatsvindt binnen een periode van 4 weken na herstel-melding van het voorgaande ziekteverlof. In de levering worden in dat geval steeds de afzonderlijke perioden geleverd met elk en begin- en einddatum. 
 
 ####• opbouw jaarbestand
 
-De jaarbestanden geven een samengevat overzicht van alle situaties die zich in de loop van een kalenderjaar hebben voorgedaan. In het jaarbestand moeten alle terugwerkende mutaties verwerkt worden die betrekking hebben op het peiljaar. Net als in de maandbestanden worden de gegevens opgenomen op het niveau van de arbeidsrelatie. Als gedurende een aaneengesloten periode de gegevens van een arbeidsrelatie niet zijn veranderd, dan worden deze gegevens op één regel geleverd. Omdat niet alle veranderingen leiden tot het ontstaan of beëindigen van arbeidsrelaties wordt in het jaarbestand gebruik gemaakt van het veld mutatiedatum. Daarin wordt vastgelegd op welk moment de wijziging feitelijk optreedt (N.B. dat is uitdrukkelijk niet de datum waarop de wijziging in de administratie is doorgevoerd). Het veld begindatum arbeidsrelatie verandert in dat geval niet. Bij een verandering van een doorlopende arbeidsrelatie worden ook alle niet gewijzigde gegevens geleverd. Vervangers kunnen een heel grillig patroon van werken – niet werken hebben. Zolang zij incidenteel en wisselend voor korte perioden worden ingezet, kan volstaan worden met één regel per maand. Op het moment dat er sprake is van een langere periode van vervanging, dan dient hiervoor een afzonderlijke regel conform de andere arbeidsrelaties te worden geleverd.  
+De jaarbestanden geven een samengevat overzicht van alle situaties die zich in de loop van een kalenderjaar hebben voorgedaan. In het jaarbestand moeten alle terugwerkende mutaties verwerkt worden die betrekking hebben op het peiljaar. Net als in de maandbestanden worden de gegevens opgenomen op het niveau van de arbeidsrelatie. Als gedurende een aaneengesloten periode de gegevens van een arbeidsrelatie niet zijn veranderd, dan worden deze gegevens op één regel geleverd. Omdat niet alle veranderingen leiden tot het ontstaan of beëindigen van arbeidsrelaties wordt in het jaarbestand gebruik gemaakt van het veld mutatiedatum. Daarin wordt vastgelegd op welk moment de wijziging feitelijk optreedt (N.B. dat is uitdrukkelijk niet de datum waarop de wijziging in de administratie is doorgevoerd). Het veld begindatum arbeidsrelatie verandert in dat geval niet. Bij een verandering van een doorlopende arbeidsrelatie worden ook alle niet gewijzigde gegevens geleverd. Vervangers kunnen een heel grillig patroon van werken – niet werken hebben. Zolang zij incidenteel en wisselend voor korte perioden worden ingezet, kan volstaan worden met één regel per maand. Op het moment dat er sprake is van een langere periode van vervanging, dan dient hiervoor een afzonderlijke regel conform de andere arbeidsrelaties te worden geleverd. 
 
 ####• peilmaand en peildatum
 
-De in de paragrafen 2.1.1, 2.1.2 en 2.1.3 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand. Voor de arbeidsrelaties die op de 1 <sup>e</sup> kalenderdag van de peilmaand bestaan, worden de gegevens geleverd naar de stand op de 1 <sup>e</sup> kalenderdag (de peildatum). Voor arbeidsrelaties die in de loop van de peilmaand ontstaan, worden de gegevens geleverd naar de stand van de 1 <sup>e</sup> kalenderdag waarop de arbeidsrelatie is ingegaan. Voor de werktijdfactor wordt steeds de gewogen gemiddelde omvang over de peilmaand geleverd.  
+De in de paragrafen 2.1.1, 2.1.2 en 2.1.3 beschreven gegevens moeten worden onderscheiden naar tijdvakken van één kalendermaand: de peilmaand. Voor de arbeidsrelaties die op de 1<sup>e</sup> kalenderdag van de peilmaand bestaan, worden de gegevens geleverd naar de stand op de 1<sup>e</sup> kalenderdag (de peildatum). Voor arbeidsrelaties die in de loop van de peilmaand ontstaan, worden de gegevens geleverd naar de stand van de 1<sup>e</sup> kalenderdag waarop de arbeidsrelatie is ingegaan. Voor de werktijdfactor wordt steeds de gewogen gemiddelde omvang over de peilmaand geleverd. 
 
 ####• terugwerkende kracht mutaties
 
-Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen twee kalendermaanden na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand te zijn verwerkt (twee maanden terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergegeven zoals die op basis van de op 1 april beschikbare informatie hoort te zijn. Gegevens die later dan twee kalendermaanden na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt. De manier van verwerken van terugwerkende kracht mutaties is vooral van belang voor de levering van de gegevens over loon, toelagen en kortingen. OCW en DUO hanteren hierbij het loon-over-principe. Alle correcties die na afloop van een peilmaand plaatsvinden op de financiële gegevens van die peilmaand moeten verwerkt worden in de te leveren gegevens over de peilmaand.  
+Een deel van de gegevens over een peilmaand wordt in de regel pas enige tijd na het eind van die peilmaand administratief verwerkt. Gegevens die binnen twee kalendermaanden na afloop van de peilmaand worden verwerkt en van invloed zijn op de situatie in de peilmaand, moeten ook in de gegevenslevering over de peilmaand te zijn verwerkt (twee maanden terugwerkende kracht mutaties). De over de peilmaand januari te leveren gegevens moeten dus de situatie van januari weergegeven zoals die op basis van de op 1 april beschikbare informatie hoort te zijn. Gegevens die later dan twee kalendermaanden na het einde van de peilmaand beschikbaar komen, worden niet in deze gegevensleveringen verwerkt. De manier van verwerken van terugwerkende kracht mutaties is vooral van belang voor de levering van de gegevens over loon, toelagen en kortingen. OCW en DUO hanteren hierbij het loon-over-principe. Alle correcties die na afloop van een peilmaand plaatsvinden op de financiële gegevens van die peilmaand moeten verwerkt worden in de te leveren gegevens over de peilmaand. 
 
 ####• vakantie-, snipper- en feestdagen
 
-Deze vormen van verlof worden niet geleverd, ook niet als onderdeel van de categorie overig verlof.  
+Deze vormen van verlof worden niet geleverd, ook niet als onderdeel van de categorie overig verlof. 
 
 ####• veranderingen van functie
 
-Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie.  
+Een verandering van functie leidt voor de gegevensleveringen altijd tot beëindiging van de arbeidsrelatie die betrekking heeft op de oude functie en het begin van een nieuwe arbeidsrelatie. 
 
 ####• veranderingen van betrekkingsomvang in verband met vervanging
 
-Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige college vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden. Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkendfe formatie te voorkomen.  
+Voor de gegevensleveringen leidt een verandering van de betrekkingsomvang er in de regel niet toe dat een arbeidsrelatie ophoudt te bestaan; er ontstaat bijgevolg ook geen nieuwe arbeidsrelatie. Deze verandering wordt beschouwd als een verandering binnen de bestaande arbeidsrelatie. Hierop is één uitzondering: verandering van de betrekkingsomvang in verband met vervanging. Als de betrekkingsomvang van een bestaande arbeidsrelatie (tijdelijk) wordt vergroot omdat de persoon een afwezige college vervangt, dan moet deze uitbreiding als een nieuwe arbeidsrelatie geregistreerd worden. Deze nieuwe arbeidsrelatie eindigt op het moment waarop de tijdelijke uitbreiding van de betrekkingsomvang geheel vervalt. De reden om deze uitbreiding van de betrekkingsomvang apart te registreren is dat inzicht nodig is de omvang van de vervanging en dubbeltellingen bij het bepalen van de werkendfe formatie te voorkomen. 
 
 ####• vervanging
 
-Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afwezig is, wordt dit aangegeven door bij de aard arbeidsrelatie de code 3 te vermelden.  
+Als iemand wordt benoemd als tijdelijke vervanging van een personeelslid dat afwezig is, wordt dit aangegeven door bij de aard arbeidsrelatie de code 3 te vermelden. 
 
 ####• volgnummer
 
-Omdat een persoon bij hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Dit laat onverlet dat in de levering één identificatienummer aanwezig moet zijn dat de betreffende persoon uniek binnen de administratie identificeert.  
+Omdat een persoon bij hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Dit laat onverlet dat in de levering één identificatienummer aanwezig moet zijn dat de betreffende persoon uniek binnen de administratie identificeert. 
 
 ####• bevoegdheid
 
@@ -443,7 +449,7 @@ Bevoegdheid wordt bepaald op basis van de criteria zoals genoemd in de wet. In r
 
 2. benoembaar  
 
-3. onbevoegd of benoembaar onder artikel 80, derde lid, van de WVO BES.    
+3. onbevoegd of benoembaar onder artikel 80, derde lid, van de WVO BES.   
 
 ### 2.3  
 
@@ -570,23 +576,25 @@ In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zak
 | 18  | Datum eerste schooldag  | J/N (A1)  | artikel 176 en 177  | Aanduiding of de datum van inschrijving gelijk is aan de eerste schooldag  |
 | 19  | Organisatienummer bevoegd gezag  | bevoegd gezagnummer (N5)  | artikel 176 en 177  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 
-### Bijlage  2  
+### Bijlage  2 
 
 ####als bedoeld in artikel 3  van het Besluit informatievoorziening WVO BES
 
+Treedt in werking op een nader te bepalen tijdstip 
+
 ####Wijze van beschikbaarstelling
 
-In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarstelling van de gegevens die bevoegde gezagsorganen, krachtens [artikel 176](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) en [artikel 177 van de WVO BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), verplicht zijn om aan de overheid te leveren. 
+In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarstelling van de gegevens die bevoegde gezagsorganen, krachtens artikel 176 en artikel 177 van de WVO BES, verplicht zijn om aan de overheid te leveren. 
 
 ####Toelichting
 
-Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in bijlage 1. De gegevens zijn op diverse momenten nodig, sommige enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat aan alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken. Een groot deel van de gegevens (zoals organisatiegegevens) zijn reeds geregistreerd in systemen. Deze gegevens hoeven alleen aangepast te worden wanneer zich mutaties voordoen. Daarvoor kan men terecht op de site van DUO. Andere gegevens worden zoveel mogelijk onttrokken aan registraties bij salarisverwerkers of onttrokken aan de schooladministratie, zodat scholen hiervan zo gering mogelijke last ondervinden. Wanneer dat niet mogelijk is, worden scholen met formulieren bevraagd. De wijze van beschikbaarstelling van gegevens is verdeeld over de volgende onderdelen:  
+Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in bijlage 1. De gegevens zijn op diverse momenten nodig, sommige enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat aan alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken. Een groot deel van de gegevens (zoals organisatiegegevens) zijn reeds geregistreerd in systemen. Deze gegevens hoeven alleen aangepast te worden wanneer zich mutaties voordoen. Daarvoor kan men terecht op de site van DUO. Andere gegevens worden zoveel mogelijk onttrokken aan registraties bij salarisverwerkers of onttrokken aan de schooladministratie, zodat scholen hiervan zo gering mogelijke last ondervinden. Wanneer dat niet mogelijk is, worden scholen met formulieren bevraagd. De wijze van beschikbaarstelling van gegevens is verdeeld over de volgende onderdelen: 
 
 ### 1  
 
 #### *Aanlevering van organisatiegegevens* 
 
-BRIN kent een papieren en een elektronische wijzigingsprocedure voor die gegevens die in BRIN opgenomen organisaties zelf kunnen laten muteren. De papieren wijzigingsprocedure verloopt via het BRIN-mutatieformulier dat elke organisatie in bezit heeft. Wijzigingen in de communicatiegegevens, genoemd in bijlage 1, worden door het bevoegd gezag van scholen elektronisch aangeleverd. Voor scholen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring. Voor het bevoegd gezag gaat het om de naam, de datum opheffing, het centraal rekeningnummer, de salarisverwerkende instelling, het administratiekantoornummer en fusie met een ander bevoegd gezag. Bij dit soort mutaties wordt de mutatie alleen verwerkt, indien bepaalde (wettelijke) bescheiden zijn meegeleverd en indien daarover op grond van een wettelijk voorschrift door de minister een positief besluit is genomen.  
+BRIN kent een papieren en een elektronische wijzigingsprocedure voor die gegevens die in BRIN opgenomen organisaties zelf kunnen laten muteren. De papieren wijzigingsprocedure verloopt via het BRIN-mutatieformulier dat elke organisatie in bezit heeft. Wijzigingen in de communicatiegegevens, genoemd in bijlage 1, worden door het bevoegd gezag van scholen elektronisch aangeleverd. Voor scholen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring. Voor het bevoegd gezag gaat het om de naam, de datum opheffing, het centraal rekeningnummer, de salarisverwerkende instelling, het administratiekantoornummer en fusie met een ander bevoegd gezag. Bij dit soort mutaties wordt de mutatie alleen verwerkt, indien bepaalde (wettelijke) bescheiden zijn meegeleverd en indien daarover op grond van een wettelijk voorschrift door de minister een positief besluit is genomen. 
 
 ### 2  
 
@@ -622,7 +630,7 @@ De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van bijlage 1:
 
 * onderdeel loon, toelagen en korting;  
 
-* onderdeel verlofgegevens;   dienen één keer per jaar geleverd te worden en wel uiterlijk op 15 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben).  
+* onderdeel verlofgegevens;   dienen één keer per jaar geleverd te worden en wel uiterlijk op 15 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). 
 
 ### 2.2  
 
@@ -632,11 +640,11 @@ De aanlevering van de gegevens in de genoemde onderdelen geschiedt elektronisch.
 
 – op CD-rom. De gegevens worden gecomprimeerd (gezipt) en voorzien van een wachtwoord naar CD-rom weggeschreven. De CD-rom wordt per koerier afgeleverd bij DUO.  
 
-– op een beveiligde en afgeschermde locatie op de server van de leverancier. De gegevens worden door de leverancier gecomprimeerd en voorzien van een wachtwoord op deze locatie geplaatst. Hierna ontvangt DUO per email bericht dat de gegevens beschikbaar zijn waarna DUO deze gegevens gedurende minimaal 2 en maximaal 4 weken via een beveiligde internetverbinding kan ophalen. DUO meldt aan de leveranciers aan wie de e-mail gericht moet worden en welke medewerkers geautoriseerd dienen te worden om de gegevens van de server op te halen. DUO meldt aan de leverancier de ontvangst van de e-mail en meldt terug wanneer de gegevens zijn opgehaald.   De bovenstaande procedures gelden zowel voor de bestanden over een peilmaand als voor de bestanden over een peiljaar. Elke levering over een peilmaand respectievelijk peiljaar dient per school de volledige set van gegevens te omvatten: de bestanden over een peilmaand bevatten de gegevens genoemd in de tabellen 2.1.1, 2.1.2 en 2.1.3 van bijlage 1. Deze gegevens worden per onderdeel in afzonderlijke bestanden geleverd of de gegevens in de tabellen 2.1.1 en 2.1.2 van bijlage 1 worden geïntegreerd in één bestand en daarnaast een apart bestand met de gegevens uit tabel 2.1.3 van bijlage 1 of alle onderdelen worden geïntegreerd in één bestand; de bestanden over een peiljaar bevatten naast de gegevens genoemd in de tabellen 2.1.1, 2.1.2 en 2.1.3 ook de gegevens genoemd in tabel 2.1.4 uit bijlage 1. Indien bij de levering gegevens uit verschillende onderdelen in één bestand worden geleverd, dan worden de koppelvelden (de velden die in elk van de samengevoegde onderdelen worden genoemd) maar één keer opgenomen. De verantwoordelijkheid voor volledigheid, juistheid en tijdigheid van de leveringen berust bij het bevoegd gezag. Het bestandsformaat is CSV, waarbij de velden worden gescheiden door een puntkomma. Tekstvelden worden voorafgegaan en afgesloten door een enkele quote ('). In de gegevensleveringen mogen geen datumvelden voorkomen; data worden geleverd als numerieke velden van het formaat N8 (JJJJMMDD), N6 (JJJJMM) of N4 (JJJJ). Het aantal posities van numerieke velden is opgegeven exclusief de positie van het decimaalteken. Als decimaalteken dient de komma gebruikt te worden. Een veld met de specificatie N5 is een geheel getal met 5 posities (12345); een veld met de specificatie N8,2 is een veld met 9 posities: 6 cijfers voor het decimaalteken, 2 achter het decimaal teken en de komma (bijvoorbeeld 123456,78). Er mag geen scheidingsteken tussen duizendtallen worden gebruikt. Waarden van alfanumerieke velden dienen exact te worden overgenomen (hoofdletters als hoofdletters, kleine letters als kleine letters). Indien het veld meer posities heeft dan de waarde, dan moet links worden uitgelijnd (wel «LA» of «LA», niet «LA»). De eerste regel van elk bestand bevat de veldnamen.  
+– op een beveiligde en afgeschermde locatie op de server van de leverancier. De gegevens worden door de leverancier gecomprimeerd en voorzien van een wachtwoord op deze locatie geplaatst. Hierna ontvangt DUO per email bericht dat de gegevens beschikbaar zijn waarna DUO deze gegevens gedurende minimaal 2 en maximaal 4 weken via een beveiligde internetverbinding kan ophalen. DUO meldt aan de leveranciers aan wie de e-mail gericht moet worden en welke medewerkers geautoriseerd dienen te worden om de gegevens van de server op te halen. DUO meldt aan de leverancier de ontvangst van de e-mail en meldt terug wanneer de gegevens zijn opgehaald.   De bovenstaande procedures gelden zowel voor de bestanden over een peilmaand als voor de bestanden over een peiljaar. Elke levering over een peilmaand respectievelijk peiljaar dient per school de volledige set van gegevens te omvatten: de bestanden over een peilmaand bevatten de gegevens genoemd in de tabellen 2.1.1, 2.1.2 en 2.1.3 van bijlage 1. Deze gegevens worden per onderdeel in afzonderlijke bestanden geleverd of de gegevens in de tabellen 2.1.1 en 2.1.2 van bijlage 1 worden geïntegreerd in één bestand en daarnaast een apart bestand met de gegevens uit tabel 2.1.3 van bijlage 1 of alle onderdelen worden geïntegreerd in één bestand; de bestanden over een peiljaar bevatten naast de gegevens genoemd in de tabellen 2.1.1, 2.1.2 en 2.1.3 ook de gegevens genoemd in tabel 2.1.4 uit bijlage 1. Indien bij de levering gegevens uit verschillende onderdelen in één bestand worden geleverd, dan worden de koppelvelden (de velden die in elk van de samengevoegde onderdelen worden genoemd) maar één keer opgenomen. De verantwoordelijkheid voor volledigheid, juistheid en tijdigheid van de leveringen berust bij het bevoegd gezag. Het bestandsformaat is CSV, waarbij de velden worden gescheiden door een puntkomma. Tekstvelden worden voorafgegaan en afgesloten door een enkele quote ('). In de gegevensleveringen mogen geen datumvelden voorkomen; data worden geleverd als numerieke velden van het formaat N8 (JJJJMMDD), N6 (JJJJMM) of N4 (JJJJ). Het aantal posities van numerieke velden is opgegeven exclusief de positie van het decimaalteken. Als decimaalteken dient de komma gebruikt te worden. Een veld met de specificatie N5 is een geheel getal met 5 posities (12345); een veld met de specificatie N8,2 is een veld met 9 posities: 6 cijfers voor het decimaalteken, 2 achter het decimaal teken en de komma (bijvoorbeeld 123456,78). Er mag geen scheidingsteken tussen duizendtallen worden gebruikt. Waarden van alfanumerieke velden dienen exact te worden overgenomen (hoofdletters als hoofdletters, kleine letters als kleine letters). Indien het veld meer posities heeft dan de waarde, dan moet links worden uitgelijnd (wel «LA» of «LA», niet «LA»). De eerste regel van elk bestand bevat de veldnamen. 
 
 ### 2.3  
 
 #### *Periodieke bijstellingen* 
 
-De bevoegde gezagsorganen dragen zorg voor de aanlevering van de genoemde personeelgegevens. In het kader van eenmalig bevragen en meervoudig gebruik van gegevens zal de minister zoveel mogelijk gebruik maken van reeds bestaande databestanden. Zodoende worden schoolbesturen administratief ontlast. Daarnaast hebben de besturen de mogelijkheid om gegevensleveringen via salarisadministrateurs en/of administratiekantoren plaats te laten vinden. Geautomatiseerde elektronische aanlevering van gegevens via salarisadministrateurs en/of administratiekantoren is gebruikelijk en scheelt aanzienlijk in de administratieve lasten voor schoolbesturen. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoeften en informatieverzameling zijn niet statisch. Om die reden kunnen wijzigingen gaan voorkomen in de gegevensvraag of in de wijze van aanlevering. Een toename van administratieve lasten zal worden meegenomen in de overweging om gegevensleveringen aan te passen. Het onderhavige Besluit zal daarom periodiek, in het overleg met de sector, worden geëvalueerd en geactualiseerd.  
+De bevoegde gezagsorganen dragen zorg voor de aanlevering van de genoemde personeelgegevens. In het kader van eenmalig bevragen en meervoudig gebruik van gegevens zal de minister zoveel mogelijk gebruik maken van reeds bestaande databestanden. Zodoende worden schoolbesturen administratief ontlast. Daarnaast hebben de besturen de mogelijkheid om gegevensleveringen via salarisadministrateurs en/of administratiekantoren plaats te laten vinden. Geautomatiseerde elektronische aanlevering van gegevens via salarisadministrateurs en/of administratiekantoren is gebruikelijk en scheelt aanzienlijk in de administratieve lasten voor schoolbesturen. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoeften en informatieverzameling zijn niet statisch. Om die reden kunnen wijzigingen gaan voorkomen in de gegevensvraag of in de wijze van aanlevering. Een toename van administratieve lasten zal worden meegenomen in de overweging om gegevensleveringen aan te passen. Het onderhavige Besluit zal daarom periodiek, in het overleg met de sector, worden geëvalueerd en geactualiseerd. 
 

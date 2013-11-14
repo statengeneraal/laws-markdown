@@ -17,31 +17,55 @@ Hebben goedgevonden en verstaan:
 
 ####Criterium in aanmerking komen voor specifieke uitkering
 
-Een gemeente komt in aanmerking voor een uitkering als bedoeld in [artikel 168a van de Wet op het primair onderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md) indien de som van de schoolgewichten, bedoeld in [artikel 27 van het Besluit bekostiging WPO](../../../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), zoals deze luidde op 1 januari 2010 van de hoofdvestigingen en nevenvestigingen van basisscholen voor zover zij zich bevinden op het grondgebied van de gemeente, gebaseerd op de leerlingenaantallen op 1 oktober 2009, 1 of meer bedraagt.  
+Een gemeente komt in aanmerking voor een uitkering als bedoeld in [artikel 168a van de Wet op het primair onderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md) indien de som van de schoolgewichten, bedoeld in [artikel 27 van het Besluit bekostiging WPO](../../../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), zoals deze luidde op 1 januari 2010 van de hoofdvestigingen en nevenvestigingen van basisscholen voor zover zij zich bevinden op het grondgebied van de gemeente, gebaseerd op de leerlingenaantallen op 1 oktober 2009, 1 of meer bedraagt.  
 
 ### Artikel  2  
 
 ####Criteria hoogte specifieke uitkering
 
-De uitkering bedraagt voor elk van de kalenderjaren 2011, 2012, 2013 en 2014 per gemeente het in geld uitgedrukte product van de som van de schoolgewichten in die gemeente en de uitkomst van de deling van het totaal voor dat jaar op de rijksbegroting voor het doen van deze uitkeringen beschikbare bedrag door de som van de schoolgewichten in de met toepassing van artikel 1 in aanmerking gebrachte gemeenten gezamenlijk.  
+1.  De uitkering bedraagt voor het kalenderjaar 2012 per gemeente: A x (0,79xB / C), hierbij staat: A voor de som van de schoolgewichten in die gemeente; B voor het voor dat jaar in het kader van de rijksbegroting beschikbare bedrag voor het doen van deze uitkeringen; C voor de som van de schoolgewichten in de met toepassing van artikel 1 in aanmerking gebrachte gemeenten gezamenlijk.   
+2.  De uitkering bedraagt voor elk van de kalenderjaren 2013, 2014 en 2015 per gemeente: A x (B / C), hierbij staat: A voor de som van de schoolgewichten in die gemeente; B voor het voor dat jaar in het kader van de rijksbegroting beschikbare bedrag voor het doen van deze uitkeringen; C voor de som van de schoolgewichten in de met toepassing van artikel 1 in aanmerking gebrachte gemeenten gezamenlijk.   
+
+### Artikel  2a  
+
+####Aanvulling bedrag specifieke uitkering gemeenten, genoemd in bijlage A 
+
+1.  Voor aanvulling op het bedrag van de uitkering, bedoeld in het artikel 2, komen uitsluitend gemeenten in aanmerking die: 
+
+a. zijn genoemd in bijlage A; en  
+
+b. op grond van artikel 1 in aanmerking komen voor een uitkering als bedoeld in [artikel 168a van de Wet op het primair onderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md).     
+2.  In aanvulling op het bedrag van de uitkering, bedoeld in artikel 2, ontvangt elke gemeente als bedoeld in het eerste lid voor het kalenderjaar 2012: A x ( 0,21xB / C), hierbij staat: A voor de som van de schoolgewichten in die gemeente; B het voor dat jaar in het kader van de rijksbegroting beschikbare bedrag voor het doen van deze uitkeringen; C voor de som van de schoolgewichten in de met toepassing van het eerste lid in aanmerking gebrachte gemeenten gezamenlijk.   
+3.  In aanvulling op het bedrag van de uitkering, bedoeld in artikel 2, ontvangt elke gemeente als bedoeld in het eerste lid voor elk van de kalenderjaren 2013, 2014 en 2015: A x (B / C), hierbij staat: A voor de som van de schoolgewichten in die gemeente; B het voor dat jaar in het kader van de rijksbegroting beschikbare bedrag voor het doen van deze aanvullingen; C voor de som van de schoolgewichten in de met toepassing van het eerste lid in aanmerking gebrachte gemeenten gezamenlijk.   
+
+### Artikel  2b  
+
+####Aanvulling bedrag specifieke uitkering gemeenten, genoemd in bijlage B 
+
+1.  Voor aanvulling op het bedrag van de uitkering, bedoeld in artikel 2, komen uitsluitend gemeenten in aanmerking die: 
+
+a. zijn genoemd in bijlage B; en  
+
+b. op grond van artikel 1 in aanmerking komen voor een uitkering als bedoeld in [artikel 168a van de Wet op het primair onderwijs](../../../../../../../../wet/wbo/BWBR0003420/README.md).     
+2.  In aanvulling op het bedrag van de uitkering, bedoeld in artikel 2, ontvangt elke gemeente als bedoeld in het eerste lid voor de kalenderjaren 2013, 2014 en 2015: Ax(B/C) hierbij staat: A voor de som van de schoolgewichten in een gemeente; B het voor dat jaar in het kader van de rijksbegroting beschikbare bedrag voor het doen van deze aanvullingen, verminderd met € 300.000; C voor de som van de schoolgewichten in de met toepassing van het eerste lid in aanmerking gebrachte gemeenten gezamenlijk.   
 
 ### Artikel  3  
 
 ####Mogelijkheid gehele of gedeeltelijke terugvordering
 
-Indien de uitkering in een van de jaren 2011, 2012 of 2013 niet of niet geheel is besteed aan het doel waarvoor deze is bestemd mag het resterende bedrag worden besteed in een volgend jaar, maar uiterlijk in 2014. Onze minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), alsdan niet zijn besteed aan het doel waar zij voor waren bestemd, terug.  
+Indien de uitkering in een van de jaren 2011, 2012, 2013 of 2014 niet of niet geheel is besteed aan het doel waarvoor deze is bestemd mag het resterende bedrag worden besteed in een volgend jaar, maar uiterlijk in 2015. Onze minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), alsdan niet zijn besteed aan het doel waar zij voor waren bestemd, terug.  
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2011. Het vervalt met ingang van 1 januari 2015 met dien verstande dat het van toepassing blijft op de onherroepelijke vaststelling, administratieve afhandeling en afrekening van de uitkeringen.  
+Dit besluit treedt in werking met ingang van 1 januari 2011. Het vervalt met ingang van 1 januari 2016 met dien verstande dat het van toepassing blijft op de onherroepelijke vaststelling, administratieve afhandeling en afrekening van de uitkeringen.  
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid 2011–2014.  
+Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid 2011–2015.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -56,3 +80,11 @@ de *eenentwintigste* september 2010
 
 De Minister van Justitie, 
 E. M. H. Hirsch Ballin    
+
+### Bijlage  A  
+
+De gemeenten: Amsterdam Rotterdam ’s-Gravenhage Utrecht Eindhoven Tilburg Enschede Dordrecht Arnhem Schiedam Haarlem ‘s-Hertogenbosch Almere Zaanstad Breda Helmond Nijmegen Amersfoort Leiden Venlo Almelo Ede Apeldoorn Deventer Maastricht Groningen Lelystad Heerlen Delft Emmen Alkmaar Zoetermeer Sittard-Geleen Zwolle Leeuwarden Hengelo Haarlemmermeer 
+
+### Bijlage  B  
+
+Alphen aan den Rijn Assen Barneveld Bergen op Zoom Beverwijk Bodegraven Boxtel Bunschoten Capelle aan den IJssel Coevorden Cuijk Culemborg Delfzijl Den Helder Diemen Doetinchem Dronten Epe Etten-Leur Geldrop-Mierlo Gilze en Rijen Goes Gorinchem Gouda Halderberge Harderwijk Heemskerk Hellevoetsluis Heusden Hilversum Hoogeveen Hoogezand-Sappemeer Hoorn IJsselstein Kampen Katwijk Kerkrade Leerdam Leidschendam-Voorburg Maassluis Meppel Middelburg Nieuwegein Nijkerk Noordoostpolder Oosterhout Oss Oude IJsselstreek Pekela Purmerend Reimerswaal Rheden Rhenen Ridderkerk Rijswijk (ZH) Roermond Roosendaal Sliedrecht Smallingerland Soest Spijkenisse Stadskanaal Terneuzen Tiel Twenterand Uden Utrechtse Heuvelrug Veendam Veenendaal Veghel Velsen Venray Vlaardingen Vlagtwedde Vlissingen Waalwijk Wageningen Weert Weesp Westland Winterswijk Woerden Zaltbommel Zeist Zutphen Zwijndrecht 

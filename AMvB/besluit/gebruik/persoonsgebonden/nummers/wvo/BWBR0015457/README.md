@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschappen en, voorzover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a.  Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
 b. inspectie: de inspectie, bedoeld in de [Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
@@ -30,7 +30,7 @@ c. wet: de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het
 
 d. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
 
-e. persoonsgebonden nummer: het persoonsgebonden nummer, bedoeld in [artikel 1 van de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).    
+e. persoonsgebonden nummer: het persoonsgebonden nummer, bedoeld in [artikel 1 van de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### Artikel  2  
 
@@ -42,6 +42,8 @@ Dit besluit is van toepassing op de gegevens van leerlingen die zijn ingeschreve
 
 ####Verstrekking van gegevens door IB-Groep aan minister en inspectie
 
+Vervallen per 28-04-2010 
+
 ### §  3  
 
 ####Gebruik gegevens uit basisregister onderwijs door Minister
@@ -50,7 +52,7 @@ Dit besluit is van toepassing op de gegevens van leerlingen die zijn ingeschreve
 
 ####Gegevens die de minister kan gebruiken
 
-1.  Ten behoeve van de vaststelling van de bekostiging van een school als bedoeld in [de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) kan Onze Minister de volgende in het basisregister onderwijs opgenomen gegevens van een leerling of voormalige leerling van de school gebruiken: 
+1. Ten behoeve van de vaststelling van de bekostiging van een school als bedoeld in [de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) kan Onze Minister de volgende in het basisregister onderwijs opgenomen gegevens van een leerling of voormalige leerling van de school gebruiken: 
 
 a. het persoonsgebonden nummer;  
 
@@ -70,14 +72,14 @@ h. het behaalde diploma;
 
 i. de aanduiding van de minderheidsgroep en de verblijfsduur in Nederland; en  
 
-j. het registratienummer van de school dan wel scholengemeenschap of, indien sprake is van een nevenvestiging, het registratienummer daarvan.     
-2.  De gegevens bedoeld in het eerste lid, onderdelen e tot en met j, worden gespecificeerd overeenkomstig het bepaalde krachtens [artikel 103b, derde lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+j. het registratienummer van de school dan wel scholengemeenschap of, indien sprake is van een nevenvestiging, het registratienummer daarvan.    
+2.  De gegevens bedoeld in het eerste lid, onderdelen e tot en met j, worden gespecificeerd overeenkomstig het bepaalde krachtens [artikel 103b, derde lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
 
 ### Artikel  9  
 
 ####Voorwaarden voor gebruik
 
-1.  De gegevens, bedoeld in artikel 7, worden uitsluitend gebruikt door de daartoe door Onze Minister aangewezen ambtenaren dan wel, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, door de daartoe door Onze Minister aangewezen ambtenaren van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.   
+1.  De gegevens, bedoeld in artikel 7, worden uitsluitend gebruikt door de daartoe door Onze Minister aangewezen ambtenaren dan wel, voor zover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, door de daartoe door Onze Minister aangewezen ambtenaren van het Ministerie van Economische Zaken.   
 2.  Onze Minister kan uitsluitend gebruiken: 
 
 a. de gegevens van een leerling of voormalige leerling van wie het bevoegd gezag op grond van [artikel 103b, vierde lid, van de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) het persoonsgebonden nummer aan Onze Minister heeft verstrekt ten behoeve van de vaststelling van de bekostiging van de school;  
@@ -85,7 +87,7 @@ a. de gegevens van een leerling of voormalige leerling van wie het bevoegd gezag
 b. de gegevens van een leerling of voormalige leerling, voorzover Onze Minister dit noodzakelijk acht ten behoeve van een onderzoek als bedoeld in [artikel 103c, derde lid, van de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); en  
 
 c. de gegevens van een leerling of voormalige leerling, voorzover Onze Minister het noodzakelijk acht deze gegevens ten behoeve van de vaststelling van de bekostiging van de school te gebruiken in het verkeer met die school.     
-3.  Onder gebruik ten behoeve van de vaststelling van de bekostiging wordt mede verstaan het daartoe noodzakelijke gebruik voor de motivering van beschikkingen en de behandeling van bezwaar- en beroepschriften.   
+3.  Onder gebruik ten behoeve van de vaststelling van de bekostiging wordt mede verstaan het daartoe noodzakelijke gebruik voor de motivering van beschikkingen en de behandeling van bezwaar- en beroepschriften.  
 
 ### §  4  
 
@@ -95,13 +97,13 @@ c. de gegevens van een leerling of voormalige leerling, voorzover Onze Minister 
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  12  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit gebruik persoonsgebonden nummers WVO.  
+Dit besluit wordt aangehaald als: Besluit gebruik persoonsgebonden nummers WVO. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -118,4 +120,4 @@ C. P. Veerman
 de tweede september 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     
