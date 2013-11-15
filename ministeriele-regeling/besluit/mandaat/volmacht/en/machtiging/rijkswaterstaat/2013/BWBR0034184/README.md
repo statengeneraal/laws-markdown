@@ -47,7 +47,7 @@ b. de afdelingshoofden en districtshoofden, en
 
 c. de projectdirecteuren, projectmanagers en projectleiders van projecten met een waarde groter dan € 50.000.000.     
 3.  De in het tweede lid, onder c, genoemde functionarissen worden geen bevoegdheden verleend in HRM-aangelegenheden.   
-4.  De hoofdingenieur-directeur van de organisatieonderdelen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud kunnen met inachtneming van artikel 12 binnen hun organisatieonderdeel hun bevoegdheden ook mandateren aan portfoliodirecteuren, portfoliomanagers, projectdirecteuren, projectmanagers en projectleiders binnen de directie Productie en Projectmanagement. De projectdirecteuren, projectmanagers en projectleiders worden geen bevoegdheden verleend in HRM-aangelegenheden.   
+4.  De hoofdingenieur-directeur van de organisatieonderdelen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud kunnen met inachtneming van artikel 12 binnen hun organisatieonderdeel hun bevoegdheden ook mandateren aan portfoliodirecteuren, portfoliomanagers, projectdirecteuren, projectmanagers en projectleiders. De projectdirecteuren, projectmanagers en projectleiders worden geen bevoegdheden verleend in HRM-aangelegenheden.   
 5.  De hoofdingenieur-directeur van het organisatieonderdeel RWS Water, Verkeer en Leefomgeving kan met inachtneming van artikel 12 binnen zijn organisatieonderdeel zijn bevoegdheden ook mandateren aan de teamleiders en de senior adviseurs, laatstgenoemde voor zover het juridische aangelegenheden betreft, van de afdeling Bodem+ binnen de directie Leefomgeving. De teamleiders en senior adviseurs worden geen bevoegdheden verleend in HRM-aangelegenheden en in het aangaan van verplichtingen welke financiële gevolgen hebben of kunnen hebben.   
 6.  De aan de directeur-generaal Rijkswaterstaat verleende bevoegdheden worden, met inachtneming van de artikelen 3 en 12, eveneens gemandateerd aan het Hoofd secretariaat Vlaams Nederlands Schelde Commissie (VNSC) bij het organisatieonderdeel RWS Zee en Delta.   
 
@@ -138,17 +138,18 @@ c. de directeuren en afdelingshoofden van de productspecifieke eenheden.
 
 | Functionarissen  | Grensbedragen in € excl. btw  |
 |:---|:---|
+| Plaatsvervangend hoofdingenieur-directeur RWS Centrale Informatievoorziening:  | 5.000.000  |
 | Directeur binnen een regionaal en een centraal organisatieonderdeel:  | 5.000.000  |
 | Portfoliodirecteur en portfoliomanager binnen de directies Productie en Projectmanagement van RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 5.000.000  |
 | Directeur binnen een projectdirectie of een programmadirectie in uitvoeringsfase:  | 5.000.000  |
-| Projectdirecteur van een project binnen de directies Productie en Projectmanagement van RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 2.500.000  |
-| Projectmanager van een project binnen de directies Productie en Projectmanagement van RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 1.000.000  |
+| Projectdirecteur binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud  | 2.500.000  |
+| Projectmanager binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 1.000.000  |
 | Plaatsvervangend directeur binnen RWS Centrale Informatievoorziening:  | 1.000.000  |
 | Programmadirecteur Industriële Automatisering binnen RWS Centrale Informatievoorziening:  | 1.000.000  |
 | Directeur binnen een projectdirectie of een programmadirectie in verkenningsfase of planstudiefase:  | 500.000  |
 | Het hoofd Eenheid Klant en Services binnen RWS Corporate Dienst:  | 500.000  |
 | Districtshoofd in geval van een calamiteit:  | 150.000  |
-| Projectleider van een project binnen de directies Productie en Projectmanagement van RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 100.000  |
+| Projectleider binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 100.000  |
 | Realisatiemanager binnen een projectdirectie of een programmadirectie in uitvoeringsfase:  | 100.000  |
 | Districtshoofd:  | 50.000  |
 | Afdelingshoofd:  | 15.000  |
