@@ -19,21 +19,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en het onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken, Landbouw en Innovatie;  
+a.  *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs en het onderzoek op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
-b. *WHW:*[Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+b.  *WHW:* [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-c. *WEB:*[Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c.  *WEB:* [Wet educatie en beroepsonderwijs](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
 
-d. *Ad-programma:* het programma, bedoeld in [artikel 7.8a van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+d.  *Ad-programma:* het programma, bedoeld in [artikel 7.8a van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-e. *bve-instelling:* instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) dan wel een andere instelling voor beroepsonderwijs als bedoeld in [artikel 1.4.1 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+e.  *bve-instelling:* instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) dan wel een andere instelling voor beroepsonderwijs als bedoeld in [artikel 1.4.1 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 
 ### Artikel  2  
 
 ####Doel van het experiment
 
-Onze Minister kan op verzoek van een instellingsbestuur, als bedoeld in [artikel 1.1, onder j, van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), goedkeuren dat een deel van een Ad-programma wordt verzorgd door een bve-instelling om te onderzoeken of een aangepaste organisatorische omgeving bijdraagt aan het studiesucces van een student die vanuit een bve-instelling doorstroomt naar een Ad-programma.  
+Onze Minister kan op verzoek van een instellingsbestuur, als bedoeld in [artikel 1.1, onder j, van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), goedkeuren dat een deel van een Ad-programma wordt verzorgd door een bve-instelling om te onderzoeken of een aangepaste organisatorische omgeving bijdraagt aan het studiesucces van een student die vanuit een bve-instelling doorstroomt naar een Ad-programma. 
 
 ### Artikel  3  
 
@@ -48,7 +48,7 @@ Onze Minister kan op verzoek van een instellingsbestuur, als bedoeld in [artikel
 7.  In afwijking van [artikel 7.13 van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) stelt het instellingsbestuur de onderwijs- en examenregeling voor het Ad-programma vast in overeenstemming met het bevoegd gezag van de bve-instelling.   
 8.  Onverminderd [artikel 7.34 van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en in afwijking van [artikel 8.1.1, eerste lid, van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) heeft de student die binnen het kader van dit Besluit een Ad-programma volgt, recht op toegang tot alle relevante onderwijsvoorzieningen van de bve-instelling gedurende de tijd dat de student aan het programma deelneemt. Indien een rechtspersoon voor hoger onderwijs, als bedoeld in [artikel 1.2, onder b, van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) samenwerkt met een instelling voor beroepsonderwijs als bedoeld in [artikel 1.4.1 van de WEB](../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) wordt in de samenwerkingsovereenkomst een regeling opgenomen die een overeenkomstig recht op toegang garandeert.   
 9.  Het bevoegd gezag van de bve-instelling verleent het accreditatieorgaan, bedoeld in [artikel 5a.2 van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en de onafhankelijke deskundigen, bedoeld in [artikel 1.18, eerste lid, van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) toegang tot de bve-instelling voor zover dat noodzakelijk is voor de beoordeling van het gedeelte van het Ad-programma dat door die instelling wordt verzorgd.   
-10.  Het instellingsbestuur en het bevoegd gezag van de bve-instelling werken mee aan door of namens Onze Minister ingestelde onderzoeken die erop zijn gericht Onze Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van zijn beleid.   
+10.  Het instellingsbestuur en het bevoegd gezag van de bve-instelling werken mee aan door of namens Onze Minister ingestelde onderzoeken die erop zijn gericht Onze Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van zijn beleid.  
 
 ### Artikel  4  
 
@@ -62,32 +62,32 @@ b. afspraken omtrent de wijze waarop de verrekening van kosten geschiedt, voor z
 
 c. afspraken omtrent de wijze waarop de vertegenwoordiging van het personeel van de bve-instelling in de examencommissie van het Ad-programma wordt geregeld;  
 
-d. afspraken over de wijze waarop het personeel dat het onderwijs verzorgt en de wijze waarop het personeel van de bve-instelling dat onderwijs verzorgt binnen het Ad-programma door of namens het instellingsbestuur wordt aangestuurd.    
+d. afspraken over de wijze waarop het personeel dat het onderwijs verzorgt en de wijze waarop het personeel van de bve-instelling dat onderwijs verzorgt binnen het Ad-programma door of namens het instellingsbestuur wordt aangestuurd.   
 
 ### Artikel  5  
 
 ####Vervallen goedkeuring en voorzieningen bij ontbinden samenwerkingsovereenkomst
 
 1.  Indien de samenwerkingsovereenkomst niet tot stand komt of wordt ontbonden, vervalt de goedkeuring, bedoeld in artikel 2. Het instellingsbestuur informeert Onze Minister onverwijld indien een van deze omstandigheden zich voordoet.   
-2.  Indien de samenwerkingovereenkomst wordt ontbonden, draagt het instellingsbestuur er zorg voor dat aan studenten die voor het Ad-programma zijn ingeschreven, de gelegenheid wordt geboden het Ad-programma aan de onder zijn bestuur staande hogeschool onderscheidenlijk rechtspersoon voor hoger onderwijs te voltooien.   
+2.  Indien de samenwerkingovereenkomst wordt ontbonden, draagt het instellingsbestuur er zorg voor dat aan studenten die voor het Ad-programma zijn ingeschreven, de gelegenheid wordt geboden het Ad-programma aan de onder zijn bestuur staande hogeschool onderscheidenlijk rechtspersoon voor hoger onderwijs te voltooien.  
 
 ### Artikel  6  
 
 ####Vestigingsplaats
 
-In afwijking van [artikel 7.17 van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) kan een instellingsbestuur zonder voorafgaande instemming van Onze Minister besluiten het deel van het Ad-programma dat wordt verzorgd door de bve-instelling te vestigen in een andere gemeente waar die opleiding blijkens het Centraal register opleidingen hoger onderwijs is gevestigd.  
+In afwijking van [artikel 7.17 van de WHW](../../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) kan een instellingsbestuur zonder voorafgaande instemming van Onze Minister besluiten het deel van het Ad-programma dat wordt verzorgd door de bve-instelling te vestigen in een andere gemeente waar die opleiding blijkens het Centraal register opleidingen hoger onderwijs is gevestigd. 
 
 ### Artikel  7  
 
 ####Werkingsduur van het experiment
 
-De goedkeuring wordt niet langer verleend dan tot en met 31 juli 2015.  
+De goedkeuring wordt niet langer verleend dan tot en met 31 juli 2015. 
 
 ### Artikel  7a  
 
 ####Wijziging van het [Uitvoeringsbesluit WHW 2008](../../../../../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md)
 
-Wijzigt het Uitvoeringsbesluit WHW 2008.   
+Wijzigt het Uitvoeringsbesluit WHW 2008. 
 
 ### Artikel  8  
 
@@ -95,13 +95,13 @@ Wijzigt het Uitvoeringsbesluit WHW 2008.
 
 1.  Dit besluit, met uitzondering van artikel 7a, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt ten aanzien van de Ad-programma’s die starten in studiejaar 2011–2012 terug tot en met 1 september 2011.   
 2.  Dit besluit, met uitzondering van artikel 7a, vervalt met ingang van 1 augustus 2015 met dien verstande dat dit besluit van toepassing blijft voor die studenten die zich in de afrondende fase van het Ad-programma bevinden.   
-3.  Artikel 7a van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
+3.  Artikel 7a van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
 
 ### Artikel  9  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Tijdelijk besluit gedeeltelijk verzorgen Ad-programma op locatie bve-instelling.  
+Dit besluit wordt aangehaald als: Tijdelijk besluit gedeeltelijk verzorgen Ad-programma op locatie bve-instelling. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -109,13 +109,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 6 juli 2012  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 H. Zijlstra   
 
-De Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
+De Staatssecretaris van Economische Zaken, Landbouw en Innovatie,  
 H. Bleker   
 
 de *zevenentwintigste* juli 2012 
 
-De Staatssecretaris van Veiligheid en Justitie, 
+De Staatssecretaris van Veiligheid en Justitie,  
 F. Teeven    

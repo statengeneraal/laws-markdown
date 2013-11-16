@@ -30,7 +30,7 @@ NWO-besluiten worden voor deze Bevoegdhedenregeling als volgt onderverdeeld:
 
 ####Reikwijdte binnen NWO
 
-*Personeelsbesluiten* betreffen de NWO-werkgever, en hebben dus als reikwijdte: directie, stafafdelingen, gebieden incl. WOTRO en regieorganen, Technologiestichting STW, de onderzoeksinstituten met uitzondering van de drie B-3 stichtingen (CWI, FOM en NIOZ) en NLeSC voor zover personeel is aangesteld door NWO. *Subsidiebesluiten* worden genomen binnen alle organisatieonderdelen met een middelen verdelende bevoegdheid: Algemeen Bestuur, gebiedsbesturen, regieorganen, subsidieorganisaties (onderzoeksorganisaties volgens [art. 4.1.1.b NWO Reglement](../../../../../zbo/reglement/nwo/2002/BWBR0014548/README.md): WOTRO en NLeSC) en de Technologiestichting STW. Voor het samenwerkingsverband ZonMw wordt verwezen naar de Samenwerkingsovereenkomst Mandaatregeling ZON NWO (bijlage bij [NWO Reglement](../../../../../zbo/reglement/nwo/2002/BWBR0014548/README.md)). De *overige A- en B-besluiten* hebben als reikwijdte algemeen bestuur en directie en NWO-bureau, i.e., stafafdelingen, gebieden incl. WOTRO, en regieorganen in Den Haag. Besluiten inzake *bezwaar*, alsook inzake *beroep bij de rechter* worden genomen door het Algemeen Bestuur (AB) op basis van een advies van de NWO bezwaarschriftencommissie. Dit geldt voor alle onderdelen van de NWO-organisatie. Ook *Wob* -besluiten regarderen alle NWO-onderdelen. Voor wat betreft de samenwerkingsverbanden (met ZON in ZonMw en met SURF in NLeSC) en de daaruit voortvloeiende partiële verantwoordelijkheid – binnen ZonMw voor het MW-gedeelte, en binnen NLeSC voor het NWO-gedeelte – bestaan *afzonderlijke afspraken*. Echter, hoofdstuk 3 is wel van toepassing op vanuit NWO bij NLeSC aangesteld personeel.   
+*Personeelsbesluiten* betreffen de NWO-werkgever, en hebben dus als reikwijdte: directie, stafafdelingen, gebieden incl. WOTRO en regieorganen, Technologiestichting STW, de onderzoeksinstituten met uitzondering van de drie B-3 stichtingen (CWI, FOM en NIOZ) en NLeSC voor zover personeel is aangesteld door NWO.  *Subsidiebesluiten* worden genomen binnen alle organisatieonderdelen met een middelen verdelende bevoegdheid: Algemeen Bestuur, gebiedsbesturen, regieorganen, subsidieorganisaties (onderzoeksorganisaties volgens [art. 4.1.1.b NWO Reglement](../../../../../zbo/reglement/nwo/2002/BWBR0014548/README.md): WOTRO en NLeSC) en de Technologiestichting STW. Voor het samenwerkingsverband ZonMw wordt verwezen naar de Samenwerkingsovereenkomst Mandaatregeling ZON NWO (bijlage bij [NWO Reglement](../../../../../zbo/reglement/nwo/2002/BWBR0014548/README.md)). De *overige A- en B-besluiten* hebben als reikwijdte algemeen bestuur en directie en NWO-bureau, i.e., stafafdelingen, gebieden incl. WOTRO, en regieorganen in Den Haag. Besluiten inzake *bezwaar*, alsook inzake *beroep bij de rechter* worden genomen door het Algemeen Bestuur (AB) op basis van een advies van de NWO bezwaarschriftencommissie. Dit geldt voor alle onderdelen van de NWO-organisatie. Ook *Wob*-besluiten regarderen alle NWO-onderdelen. Voor wat betreft de samenwerkingsverbanden (met ZON in ZonMw en met SURF in NLeSC) en de daaruit voortvloeiende partiële verantwoordelijkheid – binnen ZonMw voor het MW-gedeelte, en binnen NLeSC voor het NWO-gedeelte – bestaan *afzonderlijke afspraken*. Echter, hoofdstuk 3 is wel van toepassing op vanuit NWO bij NLeSC aangesteld personeel.   
 ### 1.2.1  
 
 ####Plaats binnen de geldende regelgeving
@@ -40,31 +40,31 @@ De Bevoegdhedenregeling past binnen de kaders van algemene wetgeving (met name [
 
 ####Begrippen
 
-* *Apparaatskosten:* Alle kostenposten die voortkomen uit A-besluiten.  
+*  *Apparaatskosten:* Alle kostenposten die voortkomen uit A-besluiten.  
 
-* *Begroting en budget:* Deze bevatten de maximaal toegestane verplichtingen, die jaarlijks mogen worden aangegaan per organisatieonderdeel, en kunnen worden onderverdeeld in ‘beleidsbegroting/-budget’ en ‘apparaatskostenbegroting/-budget.  
+*  *Begroting en budget:* Deze bevatten de maximaal toegestane verplichtingen, die jaarlijks mogen worden aangegaan per organisatieonderdeel, en kunnen worden onderverdeeld in ‘beleidsbegroting/-budget’ en ‘apparaatskostenbegroting/-budget.  
 
-* *Beleidskosten:* Alle kostenposten die voortkomen uit B-besluiten, en die samenhangen met de uitvoering van de wettelijke taak van NWO.  
+*  *Beleidskosten:* Alle kostenposten die voortkomen uit B-besluiten, en die samenhangen met de uitvoering van de wettelijke taak van NWO.  
 
-* *Budgethouder:* Te onderscheiden in algemeen budgethouder en gemandateerd budgethouder. Een budgethouder wordt altijd gekoppeld aan een budgetverantwoordelijke. Dezelfde persoon kan nooit zowel de bevoegdheden van budgethouder als van budgetverantwoordelijke uitoefenen. De algemeen budgethouder is het Algemeen Bestuur. Deze stelt het doel en de omvang van het budget vast, en neemt, waar dit niet anders is geregeld via mandaat, zelf de besluiten. Het Algemeen Bestuur kan zijn budgethouderschap mandateren binnen de organisatie. Degene die zo’n mandaat ontvangt wordt daarmee gemandateerd budgethouder. Gemandateerd budgethouderschap beperkt zich tot het vastgestelde budget, en kan niet worden doorgemandateerd, tenzij dit expliciet is toegestaan door het Algemeen Bestuur.  
+*  *Budgethouder:* Te onderscheiden in algemeen budgethouder en gemandateerd budgethouder. Een budgethouder wordt altijd gekoppeld aan een budgetverantwoordelijke. Dezelfde persoon kan nooit zowel de bevoegdheden van budgethouder als van budgetverantwoordelijke uitoefenen. De algemeen budgethouder is het Algemeen Bestuur. Deze stelt het doel en de omvang van het budget vast, en neemt, waar dit niet anders is geregeld via mandaat, zelf de besluiten. Het Algemeen Bestuur kan zijn budgethouderschap mandateren binnen de organisatie. Degene die zo’n mandaat ontvangt wordt daarmee gemandateerd budgethouder. Gemandateerd budgethouderschap beperkt zich tot het vastgestelde budget, en kan niet worden doorgemandateerd, tenzij dit expliciet is toegestaan door het Algemeen Bestuur.  
 
-* *Budgetverantwoordelijke:* De budgetverantwoordelijke geeft – door middel van zijn paraaf – autorisatie voor het aangaan van de feitelijke verplichting met een derde binnen het goedgekeurde budget, inclusief de daarbij behorende tekenbevoegdheid. Doorgaans wordt een functionaris die hiërarchisch gezien direct onder de gemandateerde budgethouder is gepositioneerd, aangewezen als budgetverantwoordelijke.  
+*  *Budgetverantwoordelijke:* De budgetverantwoordelijke geeft – door middel van zijn paraaf – autorisatie voor het aangaan van de feitelijke verplichting met een derde binnen het goedgekeurde budget, inclusief de daarbij behorende tekenbevoegdheid. Doorgaans wordt een functionaris die hiërarchisch gezien direct onder de gemandateerde budgethouder is gepositioneerd, aangewezen als budgetverantwoordelijke.  
 
-* *Besluiten:* Deze zijn onder te verdelen in interne en externe besluiten.  *Intern besluit*  De interne besluitnemer toetst of het interne besluit: a. voldoet aan de inhoudelijke beleidskaders, en b. in geval het te nemen besluit kosten met zich brengt, deze kosten binnen het goedgekeurde budget passen (budgettoets). Binnen NWO vormt zo’n besluit vaak een voorwaarde voor het kunnen nemen van een extern besluit.  *Extern besluit*  Dit is elk besluit met rechtsgevolgen voor derden, ongeacht of sprake is van een publiekrechtelijke dan wel een privaatrechtelijke vorm waarin de aangegane verplichtingen zijn opgenomen. Degene die een extern besluit neemt, toetst of het besluit binnen de geldende regelgeving blijft (rechtmatigheidstoets).  
+*  *Besluiten:* Deze zijn onder te verdelen in interne en externe besluiten.  *Intern besluit*  De interne besluitnemer toetst of het interne besluit: a. voldoet aan de inhoudelijke beleidskaders, en b. in geval het te nemen besluit kosten met zich brengt, deze kosten binnen het goedgekeurde budget passen (budgettoets). Binnen NWO vormt zo’n besluit vaak een voorwaarde voor het kunnen nemen van een extern besluit.  *Extern besluit*  Dit is elk besluit met rechtsgevolgen voor derden, ongeacht of sprake is van een publiekrechtelijke dan wel een privaatrechtelijke vorm waarin de aangegane verplichtingen zijn opgenomen. Degene die een extern besluit neemt, toetst of het besluit binnen de geldende regelgeving blijft (rechtmatigheidstoets).  
 
-* *Besluitmandaat:* De verkregen bevoegdheid om de in het mandaat omschreven interne en/of externe besluiten te nemen.  
+*  *Besluitmandaat:* De verkregen bevoegdheid om de in het mandaat omschreven interne en/of externe besluiten te nemen.  
 
-* *Mandaat inclusief volmacht:* Onder mandaat is in deze regeling ook ‘volmacht’ begrepen. Bij een mandaat kent een bestuursorgaan (mandaatgever) bepaalde bevoegdheden waar hij over beschikt, toe aan een ander (mandataris/mandaatnemer). Het bestuursorgaan kan zijn bevoegdheden op een bepaald onderdeel mandateren zonder meer (algemeen mandaat) of slechts voor specifieke gevallen (bijzonder mandaat). Alleen met toestemming van de mandaatgever, mag de gemandateerde (de mandaatontvanger) zijn mandaat ook weer aan een ander overdragen d.m.v. submandaat.  
+*  *Mandaat inclusief volmacht:* Onder mandaat is in deze regeling ook ‘volmacht’ begrepen. Bij een mandaat kent een bestuursorgaan (mandaatgever) bepaalde bevoegdheden waar hij over beschikt, toe aan een ander (mandataris/mandaatnemer). Het bestuursorgaan kan zijn bevoegdheden op een bepaald onderdeel mandateren zonder meer (algemeen mandaat) of slechts voor specifieke gevallen (bijzonder mandaat). Alleen met toestemming van de mandaatgever, mag de gemandateerde (de mandaatontvanger) zijn mandaat ook weer aan een ander overdragen d.m.v. submandaat.  
 
-* *NWO-bureau:* De bureaus van alle organisatieonderdelen met een middelen verdelende bevoegdheid in Den Haag, alsmede de centrale stafafdelingen van NWO. De bureaus van de Technologiestichting STW, de FOM-organisatie, en de samenwerkingsverbanden ZonMw en NLeSc worden niet tot het NWO-bureau gerekend.  
+*  *NWO-bureau:* De bureaus van alle organisatieonderdelen met een middelen verdelende bevoegdheid in Den Haag, alsmede de centrale stafafdelingen van NWO. De bureaus van de Technologiestichting STW, de FOM-organisatie, en de samenwerkingsverbanden ZonMw en NLeSc worden niet tot het NWO-bureau gerekend.  
 
-* *Organisatieonderdelen:* Alle in de bijlage opgenomen organisatieonderdelen.  
+*  *Organisatieonderdelen:* Alle in de bijlage opgenomen organisatieonderdelen.  
 
-* *Register:* Het overzicht waarin de mandatarissen en hun bevoegdheden zijn opgenomen.  
+*  *Register:* Het overzicht waarin de mandatarissen en hun bevoegdheden zijn opgenomen.  
 
-* *Stuurgroep:* Een door het Algemeen Bestuur ingestelde commissie die de verantwoordelijkheid krijgt voor de opstelling en uitvoering van een specifiek subsidie-instrument en wordt aangewezen als gemandateerd budgethouder voor dat instrument.  
+*  *Stuurgroep:* Een door het Algemeen Bestuur ingestelde commissie die de verantwoordelijkheid krijgt voor de opstelling en uitvoering van een specifiek subsidie-instrument en wordt aangewezen als gemandateerd budgethouder voor dat instrument.  
 
-* *Tekenbevoegdheidvoor geleverde prestatie(s):* Deze tekenbevoegdheid – door middel van een paraaf – moet onderscheiden worden van de autorisatie voor een feitelijke besteding door de budgetverantwoordelijke. Deze bevoegdheid gaat niet samen met de tekenbevoegdheid van een budgetverantwoordelijke.       
+*  *Tekenbevoegdheidvoor geleverde prestatie(s):* Deze tekenbevoegdheid – door middel van een paraaf – moet onderscheiden worden van de autorisatie voor een feitelijke besteding door de budgetverantwoordelijke. Deze bevoegdheid gaat niet samen met de tekenbevoegdheid van een budgetverantwoordelijke.       
 ### 2  
 
 ####Algemeen bevoegdhedenkader voor de verschillende soorten besluiten
@@ -83,7 +83,7 @@ Bij reglement wordt vastgesteld voor welke wetenschapsgebieden er gebiedsbesture
 
 ####Gemandateerde bevoegdheden voor apparaatskosten
 
-De algemeen directeur (AD) is belast met de leiding van het bureau van de organisatie ([art. 8.3 Instellingswet](../../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md)). Dat impliceert dat de gebiedsdirecteuren binnen de hiërarchie van het NWO-bureau direct onder de algemeen directeur zijn gepositioneerd. Om die reden heeft het Algemeen Bestuur de AD aangesteld als gemandateerd budgethouder voor de apparaatskosten, en is elke gebiedsdirecteur budgetverantwoordelijke voor besluiten die apparaatskosten met zich brengen.   ![252440](http://wetten.overheid.nl/Illustration/252440)
+De algemeen directeur (AD) is belast met de leiding van het bureau van de organisatie ([art. 8.3 Instellingswet](../../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md)). Dat impliceert dat de gebiedsdirecteuren binnen de hiërarchie van het NWO-bureau direct onder de algemeen directeur zijn gepositioneerd. Om die reden heeft het Algemeen Bestuur de AD aangesteld als gemandateerd budgethouder voor de apparaatskosten, en is elke gebiedsdirecteur budgetverantwoordelijke voor besluiten die apparaatskosten met zich brengen.  ![252440](http://wetten.overheid.nl/Illustration/252440)
 Figuur 1: Schematische weergave van de wettelijke bevoegdheden:     
 ### 2.1.3  
 
@@ -146,7 +146,7 @@ Binnen het door het Algemeen Bestuur goedgekeurde budget is de AD gemandateerd b
 
 ####P-besluiten
 
-**P-besluiten* betreffen de NWO-werkgever, en hebben dus als reikwijdte: directie, stafafdelingen, gebieden incl. WOTRO en regieorganen, STW, de onderzoeksinstituten met uitzondering van de drie B-3 stichtingen (CWI, FOM en NIOZ), en voor zover personeel bij NLeSC is aangesteld door NWO, NLeSC.*  Budgetverantwoordelijkheid betreft steeds enkel het voor het eigen organisatieonderdeel goedgekeurde budget. Zo bevat het budget van de gebieden een post voor personeelsuitgaven (salarissen, betalingen aan uitzendbureaus voor geleverde diensten en/of personeel) ten behoeve van het gebiedsbureau. Dat betekent dat de gebiedsdirecteur in zijn rol van budgetverantwoordelijke autorisatie dient te geven voor de feitelijke aan te gane verplichtingen ter zake. Het hoofd P&O heeft voor opleidingen een besluitmandaat gegeven aan de directeuren van de gebieden, de regieorganen, WOTRO en BOO, alsmede aan de stafhoofden voor een maximum van € 1.000 per medewerker per jaar.   
+* *P-besluiten* betreffen de NWO-werkgever, en hebben dus als reikwijdte: directie, stafafdelingen, gebieden incl. WOTRO en regieorganen, STW, de onderzoeksinstituten met uitzondering van de drie B-3 stichtingen (CWI, FOM en NIOZ), en voor zover personeel bij NLeSC is aangesteld door NWO, NLeSC.*  Budgetverantwoordelijkheid betreft steeds enkel het voor het eigen organisatieonderdeel goedgekeurde budget. Zo bevat het budget van de gebieden een post voor personeelsuitgaven (salarissen, betalingen aan uitzendbureaus voor geleverde diensten en/of personeel) ten behoeve van het gebiedsbureau. Dat betekent dat de gebiedsdirecteur in zijn rol van budgetverantwoordelijke autorisatie dient te geven voor de feitelijke aan te gane verplichtingen ter zake. Het hoofd P&O heeft voor opleidingen een besluitmandaat gegeven aan de directeuren van de gebieden, de regieorganen, WOTRO en BOO, alsmede aan de stafhoofden voor een maximum van € 1.000 per medewerker per jaar.   
 ### 3.1.1  
 
 ####NWO-bureau en NLeSC
@@ -166,7 +166,7 @@ De algemeen directeur heeft zijn besluit- en tekenbevoegdheden voor personele aa
 
 De directeuren van ASTRON, SRON en NSCR en STW zijn de budgetverantwoordelijken voor personele aangelegenheden en hebben de bevoegdheid om P-besluiten te nemen krachtens dit mandaat binnen het voor ‘hun’ instituut/stichting vastgestelde budget. een en ander met uitzondering van: 
 
-a. besluiten ten aanzien van de directies van de instituten en STW zelf <sup> 1  Onder de directies worden verstaan de general directors en managing directors van SRON en ASTRON, de directeur van NSCR en de directeur van STW.  </sup>  
+a. besluiten ten aanzien van de directies van de instituten en STW zelf<sup> 1 Onder de directies worden verstaan de general directors en managing directors van SRON en ASTRON, de directeur van NSCR en de directeur van STW. </sup>   
 
 b. besluiten op bezwaar en het voeren van verweer bij de behandeling van beroepschriften  
 
@@ -183,14 +183,14 @@ e. het tussentijds beëindigen van tijdelijke aanstellingen en het verlenen van 
 
 | --- | --- |
 |:---|:---|
-| – Voor personele apparaatskosten, incl. niet voortvloeiend uit een P-besluit  | hoofd stafafdeling P&O  |
-| – Voor ICT-goederen  | hoofd stafafdeling I&A  |
-| – Voor materiële goederen en bijbehorende servicecontracten  | hoofd stafafdeling FB  |
-| – Voor inhuur adviesdiensten en overige categorieën apparaatskosten  | directeur IFI; AD  |
+| – Voor personele apparaatskosten, incl. niet voortvloeiend uit een P-besluit   | hoofd stafafdeling P&O  |
+| – Voor ICT-goederen   | hoofd stafafdeling I&A  |
+| – Voor materiële goederen en bijbehorende servicecontracten   | hoofd stafafdeling FB  |
+| – Voor inhuur adviesdiensten en overige categorieën apparaatskosten   | directeur IFI; AD  |
 
 ### *Interne bestellingen* 
 
-Het bestellen van interne diensten en faciliteiten is slechts mogelijk met *expliciete* schriftelijke toestemming van de budgetverantwoordelijke, onder beschrijving van de omvang en aard van de te plaatsen bestelling(en).     
+Het bestellen van interne diensten en faciliteiten is slechts mogelijk met *expliciete *schriftelijke toestemming van de budgetverantwoordelijke, onder beschrijving van de omvang en aard van de te plaatsen bestelling(en).     
 ### 4  
 
 ####Het besluitenkader voor beleidsaangelegenheden (B-besluiten)
@@ -199,7 +199,7 @@ Het bestellen van interne diensten en faciliteiten is slechts mogelijk met *expl
 
 ####S-besluiten
 
-*S-besluiten worden genomen binnen alle organisatieonderdelen met een middelen verdelende taak: algemeen bestuur, gebiedsbesturen, regieorganen, subsidieorganisaties (onderzoeksorganisaties volgens*[art. 4.1.1.b NWO Reglement](../../../../../zbo/reglement/nwo/2002/BWBR0014548/README.md): *WOTRO en NLeSC) en de Technologiestichting STW.* De algemene kaders voor S-besluiten zijn gegeven in de NWO-regeling subsidies. Hieruit blijkt dat bepaalde besluiten zijn voorbehouden aan het AB. Overschrijdingen van het goedgekeurde beleidsbudget en/of gebruik voor een ander doel dan geoormerkt mag enkel plaatsvinden met voorafgaande goedkeuring van het AB. In geval van onderbesteding van geoormerkte middelen, kunnen de resterende middelen binnen het gebied blijven indien deze middelen op een later tijdstip alsnog kunnen worden ingezet overeenkomstig de bestemming. In overige gevallen vallen de resterende middelen weer terug naar het AB.   
+*S-besluiten worden genomen binnen alle organisatieonderdelen met een middelen verdelende taak: algemeen bestuur, gebiedsbesturen, regieorganen, subsidieorganisaties (onderzoeksorganisaties volgens* [art. 4.1.1.b NWO Reglement](../../../../../zbo/reglement/nwo/2002/BWBR0014548/README.md): *WOTRO en NLeSC) en de Technologiestichting STW.*  De algemene kaders voor S-besluiten zijn gegeven in de NWO-regeling subsidies. Hieruit blijkt dat bepaalde besluiten zijn voorbehouden aan het AB. Overschrijdingen van het goedgekeurde beleidsbudget en/of gebruik voor een ander doel dan geoormerkt mag enkel plaatsvinden met voorafgaande goedkeuring van het AB. In geval van onderbesteding van geoormerkte middelen, kunnen de resterende middelen binnen het gebied blijven indien deze middelen op een later tijdstip alsnog kunnen worden ingezet overeenkomstig de bestemming. In overige gevallen vallen de resterende middelen weer terug naar het AB.   
 ### 4.1.1  
 
 ####AB-besluiten inzake Centrale Programma’s
@@ -249,18 +249,18 @@ De ondertekenaar van uitgaande post vermeldt onder zijn handtekening zijn naam e
 
 * Bij alle A-besluiten waarvoor de stafhoofden een besluit- en tekenmandaat hebben, tekent het hoofd van de desbetreffende stafafdeling met: ‘namens de Algemeen Directeur’. Bij besluitneming aangaande ‘secundaire personeelsuitgaven’ waarvoor de directeuren van de NWO-onderdelen een submandaat hebben ontvangen, tekenen de directeuren met: ‘namens de Algemeen Directeur’.  
 
-* Bij alle B-besluiten waarvoor een directeur van een decentraal NWO-onderdeel een besluit- en tekenmandaat heeft, tekent deze met: ‘namens het bestuur [ *Naam bestuur* ]’.  
+* Bij alle B-besluiten waarvoor een directeur van een decentraal NWO-onderdeel een besluit- en tekenmandaat heeft, tekent deze met: ‘namens het bestuur [*Naam bestuur*]’.  
 
 * Bij alle B-besluiten waarvoor de directeur BOO een besluit- en tekenmandaat heeft, tekent deze met: ‘namens het Algemeen Bestuur van NWO’.  
 
-* Bij besluiten op bezwaar, beroep bij de rechter en Wob-verzoeken uitgezonderd Wob-verzoeken ingediend bij de onderzoeksinstituten, tekent de AD met: ‘namens het Algemeen Bestuur’, en een orgaan of functionaris die gesubmandateerd is voor de afhandeling van een specifiek Wob-verzoek, met: ‘namens het Algemeen Bestuur, namens de Algemeen Directeur’.   De [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb) eist dat aan de ontvanger van een besluitbrief afkomstig van een bestuursorgaan duidelijk wordt gemaakt hoe bij het genomen besluit de *gehele* bevoegdheidsketen loopt vanaf het hoogst bevoegde gremium (het Algemeen Bestuur) tot en met de functionaris die de besluitbrief feitelijk ondertekent. Voor alle B-besluiten, inclusief S-besluiten, dient daarom in de voet van bedoelde besluiten de volgende tekst te worden opgenomen: ‘Het gebiedsbestuur/STW/het hoofd P&O is bevoegd dit besluit te nemen krachtens een mandaat van het Algemeen Bestuur van NWO. Zie voor de volledige NWO-bevoegdhedenregeling www.nwo.nl/bevoegdhedenregeling’.    
+* Bij besluiten op bezwaar, beroep bij de rechter en Wob-verzoeken uitgezonderd Wob-verzoeken ingediend bij de onderzoeksinstituten, tekent de AD met: ‘namens het Algemeen Bestuur’, en een orgaan of functionaris die gesubmandateerd is voor de afhandeling van een specifiek Wob-verzoek, met: ‘namens het Algemeen Bestuur, namens de Algemeen Directeur’.   De [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb) eist dat aan de ontvanger van een besluitbrief afkomstig van een bestuursorgaan duidelijk wordt gemaakt hoe bij het genomen besluit de *gehele *bevoegdheidsketen loopt vanaf het hoogst bevoegde gremium (het Algemeen Bestuur) tot en met de functionaris die de besluitbrief feitelijk ondertekent. Voor alle B-besluiten, inclusief S-besluiten, dient daarom in de voet van bedoelde besluiten de volgende tekst te worden opgenomen: ‘Het gebiedsbestuur/STW/het hoofd P&O is bevoegd dit besluit te nemen krachtens een mandaat van het Algemeen Bestuur van NWO. Zie voor de volledige NWO-bevoegdhedenregeling www.nwo.nl/bevoegdhedenregeling’.    
 ### 7  
 
 ####Inwerkingtreding en vervallen regelingen
 
 7.1 Deze regeling kan worden aangehaald als ‘Bevoegdhedenregeling NWO 2013’, en treedt in werking op de datum waarop deze regeling is vastgesteld door het Algemeen Bestuur en is gepubliceerd in de Staatscourant, te weten: 15 november 2013.  
 
-7.2 Alle lopende mandaten die niet zijn opgenomen in de ‘Bevoegdhedenregeling’ komen te vervallen bij de inwerkingtreding van deze regeling, en dus, voor zover deze passen binnen deze regeling, zullen deze opnieuw (schriftelijk) moeten worden verleend, met kopie aan de Registerbeheerder.         Vastgesteld door het Algemeen Bestuur van NWO op  
+7.2 Alle lopende mandaten die niet zijn opgenomen in de ‘Bevoegdhedenregeling’ komen te vervallen bij de inwerkingtreding van deze regeling, en dus, voor zover deze passen binnen deze regeling, zullen deze opnieuw (schriftelijk) moeten worden verleend, met kopie aan de Registerbeheerder.        Vastgesteld door het Algemeen Bestuur van NWO op  
 
 30 oktober 2013    
 

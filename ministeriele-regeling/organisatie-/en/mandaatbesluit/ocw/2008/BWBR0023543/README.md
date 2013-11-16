@@ -36,19 +36,23 @@ j. *budgethouder:* functionaris die verantwoordelijk is voor een rechtmatig en d
 
 k. *direct-leidinggevende:* degene die binnen het Ministerie belast is met de dagelijkse leiding van medewerkers en ten aanzien van die medewerkers personeelsbevoegdheden heeft,  
 
-l. *budget:* aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van een deel van de begroting,  
+l. *naasthogere leidinggevende:* de direct-leidinggevende van de functionaris, bedoeld in onderdeel k,  
 
-m. *Bestedingsplan:* bestedingsplan ter uitvoering van de begroting, opgesteld ten behoeve van het aangaan van verplichtingen anders dan: 
+m. *managementteam:* managementteam van het ministerie bestaat uit de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het Onderwijs,  
 
-– in het kader van de reguliere of aanvullende bekostiging,  
+n. *budget:* aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van een deel van de begroting,  
 
-– in het kader van het aangaan van verplichtingen uit hoofde van de cultuurnota,  
+o. *bestedingsplan:* plan ter uitvoering van de begroting, opgesteld ten behoeve van het aangaan van verplichtingen anders dan in het kader van: 
 
-– subsidies op grond van [artikel 34 van de Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md),    
+– de reguliere of aanvullende bekostiging van onderwijs en onderzoek,  
 
-n. *managementafspraak:* afspraak omtrent de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan,  
+– de verstrekking van subsidies als bedoeld in de [artikelen 4a](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en [4c van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), en  
 
-o. *personele besluiten:* besluiten in de zin van de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ten aanzien van personele aangelegenheden.    
+– de verstrekking van subsidies als bedoeld in [artikel 34 van de Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md),    
+
+p. *managementafspraak:* afspraak omtrent de vertaling van beleidsdoelen in de begroting en de doelstellingen voor de interne bedrijfsvoering naar concrete acties en activiteiten, benodigde middelen en bevoegdheden of de prestatie- en kwaliteitsnormen ten aanzien van de te leveren producten of diensten, dan wel beide, met inbegrip van het bestedingsplan,  
+
+q. *personele besluiten:* besluiten in de zin van de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ten aanzien van personele aangelegenheden.    
 
 ### Artikel  2  
 
@@ -86,7 +90,7 @@ e. bureaus.
 
 1.  Aan de bewindspersoon is voorbehouden het afdoen en ondertekenen van stukken: 
 
-a. gericht aan de Koningin,  
+a. gericht aan de Koning,  
 
 b. gericht aan de Raad van Ministers van het Koninkrijk, de Raad van Ministers en de daaruit gevormde colleges,  
 
@@ -100,16 +104,12 @@ f. gericht aan de Raad van State van het Koninkrijk en de Raad van State,
 
 g. gericht aan de Algemene Rekenkamer,  
 
-h. houdende beslissingen op een beroepschrift,  
+h. houdende algemeen verbindende voorschriften,  
 
-i. betreffende het nemen van beloningsbesluiten ten aanzien van ambtenaren waarbij de secretaris-generaal als direct-leidinggevende optreedt, en  
+i. betreffende het instellen van beroep tegen een besluit van een ander bestuursorgaan, en  
 
-j. houdende algemeen verbindende voorschriften.     
-2.  Aan de minister is voorbehouden het afdoen en ondertekenen van stukken: 
-
-a. houdende het sluiten van huur-, huurkoop- en lease-overeenkomsten voor een bedrag van meer dan € 2.500.000 voor de duur van de overeenkomst, en  
-
-b. de goedkeuring van het departementale bestedingsplan.     
+j. betreffende het uitoefenen van de bevoegdheid, genoemd in [artikel 15, derde lid, van de Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md), voor zover het archiefbescheiden betreft die zijn overgebracht door de zorgdragers als bedoeld in [artikel 23, eerste lid, van de Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en die betrekking hebben op het Koninklijk Huis.     
+2.  Aan de minister is voorbehouden het afdoen en ondertekenen van stukken houdende het sluiten van huur-, huurkoop- en leaseovereenkomsten voor een bedrag van meer dan € 2.500.000 voor de duur van de overeenkomst.   
 3.  De secretaris-generaal kan de stukken, bedoeld in het eerste lid, onderdelen a tot en met h, afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen een bewindspersoon en de secretaris-generaal. De directeur Bestuursondersteuning en Advies draagt zorg voor bekendmaking van de afspraken, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.   
 
 ### Artikel  5  
@@ -137,23 +137,33 @@ b. de goedkeuring van het departementale bestedingsplan.
 1.  De inspecteur-generaal van het onderwijs heeft, onverminderd de mandaatverlening aan de secretaris-generaal, met inachtneming van de [Wet op het onderwijstoezicht](../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) en binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.   
 2.  De directeur van de Erfgoedinspectie heeft, onverminderd de mandaatverlening aan de secretaris-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.   
 3.  De hoofden van de inspecties, bedoeld in het eerste en tweede lid, zijn budgethouder voor de hun door de secretaris-generaal toegewezen budgetten.   
+4.  Onverminderd het eerste lid heeft de inspecteur-generaal van het onderwijs mandaat om: 
+
+a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van [artikel 164 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 146 van de Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 104 van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [artikel 11.1 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of [artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+
+b. een subsidie lager vast te stellen, te wijzigen, of gedeeltelijk in te trekken of terug te vorderen op grond van de [afdelingen 4.2.5 tot en met 4.2.7 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),  
+
+c. bij of krachtens de [Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md), de [Wet op de expertisecentra](../../../../../../../wet/isovso/BWBR0003549/README.md), de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging,  
+
+d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de [artikelen 6.1.5](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [6.1.5b](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [6.2.3](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [6.2.3b](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [6.3.2 van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) te geven, of een besluit als bedoeld in de [artikelen 6.1.4](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), 6.1.5b, [6.2.2](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), 6.2.3b en 6.3.2 van die wet te nemen,  
+
+e. de bestuurlijke boete op te leggen, bedoeld in [artikel 27 van de Leerplichtwet 1969](../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), of  
+
+f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.     
 
 ### Artikel  8  
 
 ####Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1.  Het hoofd van het Nationaal Archief heeft, onverminderd de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.   
+1.  Het hoofd van het Nationaal Archief heeft, onverminderd artikel 4, eerste lid, onderdeel l, en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.   
 2.  Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.   
 
 ### Artikel  9  
 
-####Mandaat aan directeuren en direct-leidinggevenden
+####Mandaat aan directeuren
 
 1.  De directeuren hebben, onverminderd de mandaatverlening aan de secretaris-generaal en de directeuren-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van de aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein.   
-2.  Direct-leidinggevenden hebben, onverminderd de mandaatverlening aan de secretaris-generaal, de directeuren-generaal en de directeuren, binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.   
-3.  De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.   
-4.  Voor zover het betreft personele besluiten hebben de directeuren en direct-leidinggevenden mandaat onverminderd artikel 4, artikel 12, artikel 13 en artikel 14.   
-5.  Het verlenen van ondermandaat ten aanzien van de in lid 1 en lid 2 bedoelde bevoegdheden is, indien deze betrekking hebben op personele aangelegenheden, niet mogelijk.   
+2.  De directeuren zijn budgethouder voor de hun door de directeur-generaal toegewezen budgetten.   
 
 ### Artikel  10  
 
@@ -184,41 +194,15 @@ b. voorstellen voor het vergezellen van een bewindspersoon bij buitenlandse dien
 
 c. stukken gericht aan de Nationale ombudsman,  
 
-d. de afwijzing van een verzoek om informatie ingevolge de [Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md),  
+d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in artikel 13,  
 
-e. het nemen van personele besluiten ten aanzien van leidinggevende ambtenaren, voor zover deze niet ressorteren onder de directeur-generaal DUO en lager ingeschaald zijn dan schaal 15, en niet-leidinggevende ambtenaren in schaal 17 en hoger voor zover het betreft: 
+e. de afwikkeling van een gemeld vermoeden van een misstand,  
 
-1. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,  
+f. voorstellen tot verzelfstandiging van een organisatieonderdeel,  
 
-2. toekenning van een salarisschaal en functiewaardering,  
+g. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en lease-overeenkomsten, een en ander voor een bedrag van meer dan € 500.000 voor de duur van de overeenkomst,  
 
-3. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [48](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [66](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [69](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [73 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), en  
-
-4. ontslagbesluiten.    
-
-f. besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in [artikel 99 van het algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), voorwaardelijk en onvoorwaardelijk strafontslag,  
-
-g. het vaststellen van de OCW-formatie en de verdeling van de personeelscapaciteit van de OCW-formatie,  
-
-h. het verlenen van mandaat inzake een bevoegdheid, bedoeld in artikel 13,  
-
-i. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden  
-
-j. het openstellen van externe vacatures,  
-
-k. de afwikkeling van een gemeld vermoeden van een misstand,  
-
-l. voorstellen tot verzelfstandiging van een organisatieonderdeel,  
-
-m. de opstelling van het departementale bestedingsplan, waaronder inbegrepen het doen van voorstellen aan de minister met betrekking tot verschuiven van delen van budgetten tussen directeuren-generaal, hoofden van inspecties en het hoofd van het Nationaal Archief,  
-
-n. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en lease-overeenkomsten, een en ander voor een bedrag van meer dan € 500.000 voor de duur van de overeenkomst,  
-
-o. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) als zodanig belanghebbende is, en  
-
-p. het beslissen op bezwaren die behandeld zijn overeenkomstig [artikel 6 van de Regeling behandeling bezwaarschriften OCW](../../../../../../../ministeriele-regeling/regeling/behandeling/bezwaarschriften/ocw/BWBR0023195/README.md).  
-
-q. het starten van projecten met betrekking tot informatiebeleid voor een bedrag van meer dan € 20.000.000,–     
+h. het starten van projecten met betrekking tot informatiebeleid voor een bedrag van meer dan € 20.000.000,–     
 2.  Het verlenen van ondermandaat van de bevoegdheden in dit artikel is niet mogelijk, met uitzondering van de bevoegdheid bedoeld in het eerste lid onder c.   
 
 ### Artikel  13  
@@ -227,47 +211,92 @@ q. het starten van projecten met betrekking tot informatiebeleid voor een bedrag
 
 1.  De directeuren-generaal, de hoofden van inspecties en de hoofden van het Nationaal Archief zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot: 
 
-a. het instellen van bezwaar en beroep tegen besluiten van andere bestuursorganen,  
+a. het instellen van bezwaar tegen besluiten van andere bestuursorganen,  
 
-b. goedkeuring van het voorbereiden van een reorganisatie door een directeur,  
+b. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,  
 
-c. vaststelling of wijziging van het organisatie- en capaciteitsplan van een onder hem ressorterend dienstonderdeel,  
-
-d. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag en onverminderd artikel 4, 12 en artikel 14,  
-
-e. opstellen van het bestedingsplan voor zijn directoraat-generaal, inspectie of baten-lastendienst op basis van de bestedingsplannen van de onder hem ressorterende organisatieonderdelen,  
-
-f. de verdeling van de hen toegekende personeelscapaciteit over de onder hen ressorterende organisatieonderdelen,  
-
-g. het aangaan van verplichtingen op basis van het door de minister goedgekeurde departementale bestedingsplan die hoger zijn dan het met betrekking tot Europese aanbestedingen geldende drempelbedrag, voor zover die niet herkenbaar zijn opgenomen in een goedgekeurd bestedingsplan of niet passen binnen het beschikbare budget, en  
-
-h. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.     
-2.  Voor het inhuren van externe professionals en uitzendkrachten door een directeur is voorafgaande goedkeuring van de directeur-generaal vereist voor zover het betreft bedragen boven € 60 per uur.   
-3.  De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaarschriften onverminderd artikel 12, eerste lid, onderdelen o en p.   
-4.  Met uitzondering van de bevoegdheid bedoeld in lid 3 is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.   
+c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.     
+2.  De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd artikel 7, vierde lid, onderdeel f, en artikel 14, eerste lid, onderdeel d.   
+3.  Met uitzondering van de bevoegdheid bedoeld in het tweede lid is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.   
 
 ### Artikel  14  
 
-####Voorbehouden aan de directeur-generaal DUO en de directeur P&O
+####Personele bevoegdheden
 
-1.  De directeur Personeel & Organisatie is met uitsluiting van anderen dan de secretaris-generaal gemandateerd met betrekking tot het nemen van personele besluiten, onverminderd artikel 4, artikel 12, artikel 13 en het tweede lid, voor zover het betreft: 
+1.  De secretaris-generaal is met uitsluiting van anderen gemandateerd met betrekking tot: 
 
-a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben,  
+a. het nemen van besluiten die voor alle ambtenaren van het Ministerie gelden;  
 
-b. toekenning van een salarisschaal en functiewaardering,  
+b. besluiten inhoudende: 
 
-c. ontslagbesluiten, anders dan besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in [artikel 99 van het algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en voorwaardelijk en onvoorwaardelijk strafontslag,  
+1°. het toepassen van [artikel 40](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [40a van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-d. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade en besluiten met betrekking tot vergoedingen als bedoeld in de [artikelen 47](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [48](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [66](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [69](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [73 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).     
-2.  De directeur-generaal DUO is met uitsluiting van anderen dan de secretaris-generaal gemandateerd, onverminderd artikel 4 en artikel 12, voor de onder hem ressorterende medewerkers ten aanzien van de personele besluiten, genoemd in het eerste lid.   
-3.  In afwijking van het bepaalde in artikel 11 lid 2 van dit besluit is ondermandaat van de in dit artikel opgenomen bevoegdheden mogelijk na instemming van de secretaris-generaal en de plaatsvervangend secretaris-generaal.   
+2°. voorwaardelijk en onvoorwaardelijk strafontslag;  
+
+3°. reorganisatieontslag;  
+
+4°. ontslag als bedoeld in [artikel 98b van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+
+5°. ontslag als bedoeld in [artikel 99 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+
+6°. de toekenning van financiële tegemoetkomingen als onderdeel van sociaal flankerende maatregelen;    
+
+c. het afkondigen van een vacaturestop voor het ministerie;  
+
+d. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) als zodanig belanghebbende is;  
+
+e. besluiten als genoemd in het tweede lid ten aanzien van medewerkers voor wie hij als direct-leidinggevende optreedt, voor zover niet bij of krachtens wet anders is of wordt bepaald.     
+2.  Onverminderd het eerste lid zijn naasthogere leidinggevenden ten aanzien van het onder hen ressorterende personeel met uitzondering van de medewerkers aan wie zij rechtstreeks leiding geven gemandateerd met betrekking tot: 
+
+a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben;  
+
+b. ontslagbesluiten niet zijnde besluiten tot ontslag op eigen verzoek, anders dan besluiten inhoudende reorganisatieontslag, ontslag als bedoeld in de [artikelen 98b](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [99 van het algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en voorwaardelijk en onvoorwaardelijk strafontslag;  
+
+c. toekenning van een salarisschaal en functiewaardering,  
+
+d. toekenning en intrekking van een salarisverhoging als bedoeld in [artikel 8 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+
+e. toekenning en intrekking van een periodieke toeslag als bedoeld in [artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+
+f. het treffen van disciplinaire straffen, met uitzondering van voorwaardelijk en onvoorwaardelijk strafontslag;  
+
+g. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsziekte, dienstongeval en beroepsincident en daaruit voortvloeiende besluiten met betrekking tot vergoeding van schade;  
+
+h. besluiten als bedoeld in de [artikelen 47](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [48](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [66](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [69](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [73 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).     
+3.  Onverminderd het eerste en tweede lid hebben de directeuren-generaal, de inspecteur-generaal van het onderwijs, het hoofd van de Erfgoedinspectie, het hoofd van het Nationaal Archief en de directeuren mandaat voor het nemen van personele besluiten ten behoeve van het onder hen ressorterende personeel.   
+4.  Direct-leidinggevenden hebben binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.   
+5.  Het verlenen van ondermandaat van het in dit artikel bepaalde is uitsluitend mogelijk voor de personele besluiten, bedoeld in het derde lid, en voor zover het betreft de mandaten aan de directeur-generaal DUO, de inspecteur-generaal van het onderwijs, het hoofd van het Nationaal Archief en de directeur van de Rijksdienst voor het Cultureel Erfgoed.   
 
 ### Artikel  14a  
 
 ####Mandaatbesluit beschermde stads- en dorpsgezichten
 
 1.  De directeur van de Rijksdienst voor het Cultureel Erfgoed is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder a en d, van het Mandaatbesluit beschermde stads- en dorpsgezichten](../../../../../../../ministeriele-regeling/mandaatbesluit/beschermde/stads-/en/dorpsgezichten/BWBR0027565/README.md). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.   
-2.  De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](../../../../../../../ministeriele-regeling/mandaatbesluit/beschermde/stads-/en/dorpsgezichten/BWBR0027565/README.md), tenzij dit op grond van het bepaalde in artikel 12, eerste lid, aanhef en onder p, is voorbehouden aan de secretaris-generaal. De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.   
+2.  De directeur-generaal DUO is gemandateerd om, namens de secretaris-generaal, mede namens de Minister van Infrastructuur en Milieu besluiten te nemen als bedoeld in [artikel 1, eerste lid, aanhef en onder b en c, van het Mandaatbesluit beschermde stads- en dorpsgezichten](../../../../../../../ministeriele-regeling/mandaatbesluit/beschermde/stads-/en/dorpsgezichten/BWBR0027565/README.md). De directeur-generaal DUO kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.   
+
+### Artikel  14b  
+
+####Voorbehouden aan de directeur Wetgeving en Juridische Zaken
+
+De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen tot gehele of gedeeltelijke afwijzing van een verzoek om informatie ingevolge de Wet openbaarheid van bestuur. Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.  
+
+### Artikel  14c  
+
+####Bestedingsplan
+
+1.  Aan de minister is voorbehouden het vaststellen van het departementale bestedingsplan.   
+2.  Aan de secretaris-generaal is voorbehouden het opstellen van het departementale bestedingsplan op basis van de bestedingsplannen van de directeuren-generaal.   
+3.  De secretaris-generaal heeft mandaat tot het aangaan van verplichtingen bij wijzigingen van het door de minister vastgestelde departementale bestedingsplan tussen € 2.000.000 en € 5.000.000.   
+4.  Aan de directeuren-generaal is voorbehouden het opstellen van het bestedingsplan voor hun directoraat-generaal op basis van de bestedingsplannen van de onder hen ressorterende organisatieonderdelen.   
+5.  De directeuren-generaal hebben mandaat tot het aangaan van verplichtingen bij wijzigingen van het door de minister vastgestelde departementale bestedingsplan tussen € 500.000 en € 2.000.000.   
+6.  Aan de directeuren is voorbehouden het opstellen van het bestedingsplan voor hun directie.   
+7.  De directeuren hebben mandaat tot het aangaan van verplichtingen op basis van het door de minister vastgestelde departementale bestedingsplan met dien verstande dat indien een verplichting zou leiden tot een verschuiving tussen de budgetten voor de verschillende thema's van het departementale bestedingsplan dit: 
+
+a. wordt voorgelegd aan de desbetreffende directeur-generaal indien deze verschuiving groter is dan € 500.000,  
+
+b. wordt voorgelegd aan de secretaris-generaal indien deze verschuiving groter is dan € 2.000.000,  
+
+c. wordt voorgelegd aan de minister indien deze verschuiving groter is dan € 5.000.000.     
 
 ### Artikel  15  
 
@@ -283,7 +312,7 @@ d. besluiten inhoudende erkenning van aansprakelijkheid ten aanzien van beroepsz
 ####Wijze van ondertekening
 
 1.  De gemandateerde is gehouden in de ondertekening van stukken zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule: De minister van Onderwijs, Cultuur en Wetenschap, namens deze, functie van de gemandateerde, handtekening van de gemandateerde, naam van de gemandateerde.   
-2.  De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in artikel 14a zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:  *De minister van Infrastructuur en Milieu,*   *namens dezen, functie van de gemandateerde,*   *handtekening van de gemandateerde,*   *naam van de gemandateerde.*  Het derde lid is van overeenkomstige toepassing.   
+2.  De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in artikel 14a zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:  *De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,*   *namens dezen, functie van de gemandateerde,*   *handtekening van de gemandateerde,*   *naam van de gemandateerde.*  Het derde lid is van overeenkomstige toepassing.   
 3.  Ondertekening bij afwezigheid met de aanduiding ‘b/a’ is uitsluitend mogelijk indien de ondertekenaar ook zelf bevoegd is tot ondertekenen. In dat geval wordt ook de naam van de ondertekenaar vermeld.   
 
 ### Artikel  17  
@@ -332,7 +361,7 @@ Het managementteam van het ministerie bestaat uit:
 
 – de directeuren-generaal (DG)  
 
-– de inspecteur-generaal van het Onderwijs (IGO).   De SG is ambtelijk verantwoordelijk voor het functioneren van het ministerie en voor de voorbereiding en uitvoering van het beleid waarvoor de politieke leiding de politieke verantwoordelijkheid draagt. De SG heeft als hoogste ambtenaar tot taak te zorgen voor een goede onderlinge afstemming van de verschillende beleidsterreinen en voor de uitvoering en uitvoerbaarheid van het ontwikkelde beleid. De SG wordt in de ambtelijke leiding van het departement bijgestaan door een PSG. Deze vervangt hem bij zijn afwezigheid in al zijn taken en behartigt, namens de SG, de SG-taken op het gebied van het beheer van het departement. De PSG is verantwoordelijk voor de directies binnen haar kolom. Voor de inhoudelijke beleidsthema's van de directies Kennis en IB is de SG echter eerste aanspreekpunt. Daarnaast wordt hij in zijn taak bijgestaan door de directeuren-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie (DGHBWE), de directeur-generaal Primair en Voortgezet Onderwijs (DGPV), de directeur-generaal Cultuur en Media (DGCM) en de directeur-generaal Dienst Uitvoering Onderwijs (DGDUO). Deze directeuren-generaal zijn ambtelijk verantwoordelijk voor de beleidsterreinen van de onder hen ressorterende directies en voor de samenhang tussen die beleidsterreinen. Zij kunnen daarnaast ambtelijk verantwoordelijk zijn voor één of meer specifieke beleidsonderwerpen of projecten, die niet zonder meer tot de hierboven genoemde beleidsterreinen kunnen worden gerekend. DGDUO heeft zitting in het managementteam, om zo te waarborgen dat de onder hem ressorterende uitvoeringsinstantie betrokken is bij de voorbereiding van en de besluitvorming over nieuw beleid en om de betrokkenheid van de DG's bij de uitvoerbaarheid van beleid te waarborgen. 
+– de inspecteur-generaal van het Onderwijs (IGO).   De SG is ambtelijk verantwoordelijk voor het functioneren van het ministerie en voor de voorbereiding en uitvoering van het beleid waarvoor de politieke leiding de politieke verantwoordelijkheid draagt. De SG heeft als hoogste ambtenaar tot taak te zorgen voor een goede onderlinge afstemming van de verschillende beleidsterreinen en voor de uitvoering en uitvoerbaarheid van het ontwikkelde beleid. De SG wordt in de ambtelijke leiding van het departement bijgestaan door een PSG. Deze vervangt hem bij zijn afwezigheid in al zijn taken en behartigt, namens de SG, de SG-taken op het gebied van het beheer van het departement. De PSG is verantwoordelijk voor de directies binnen haar kolom. Voor de inhoudelijke beleidsthema's van de directies Kennis en IB is de SG echter eerste aanspreekpunt. Daarnaast wordt hij in zijn taak bijgestaan door de directeuren-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie (DGHBWE), de directeur-generaal Primair en Voortgezet Onderwijs (DGPV), de directeur-generaal Cultuur en Media (DGCM) en de directeur-generaal Dienst Uitvoering Onderwijs (DGDUO). Deze directeuren-generaal zijn ambtelijk verantwoordelijk voor de beleidsterreinen van de onder hen ressorterende directies en voor de samenhang tussen die beleidsterreinen. Zij kunnen daarnaast ambtelijk verantwoordelijk zijn voor één of meer specifieke beleidsonderwerpen of projecten, die niet zonder meer tot de hierboven genoemde beleidsterreinen kunnen worden gerekend. DGDUO heeft zitting in het managementteam, om zo te waarborgen dat de onder hem ressorterende uitvoeringsinstantie betrokken is bij de voorbereiding van en de besluitvorming over nieuw beleid en om de betrokkenheid van de DG's bij de uitvoerbaarheid van beleid te waarborgen. De SG, de DGHBWE, de DGPV en de DGCM worden ondersteund door een stafbureau. Deze stafbureaus zijn verantwoordelijk voor de secretariële ondersteuning en/of persoonlijke ambtelijke ondersteuning aan de SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM. De SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM zijn direct-leidinggevende van de medewerkers van de stafbureaus. 
 ###Hoofdstuk 3. Dienstonderdelen van het ministerie
 
 Het Ministerie bestaat uit de volgende dienstonderdelen: 
@@ -397,19 +426,15 @@ a. Beleidsdirecties gericht op het stelsel:
 
 3e. Onderzoek en Wetenschapsbeleid (OWB)    
 
-b. Beleidsdirecties gericht op een thema: 
+b. Beleidsdirectie gericht op een thema: 
 
-1e. Emancipatie (DE)  
-
-2e. Kennis en Innovatie (werkt samen met het ministerie van EZ)  
-
-3e. Leren en Werken (werkt samen met het ministerie van SZW)  
-
-4e. Veiligheid en Radicalisering (VenR)    
+* Emancipatie (DE)    
 
 c. Ondersteunend bureau voor de: 
 
-– Adviesraad voor Wetenschaps- en Technologiebeleid (AWT)      
+1e. Adviesraad voor Wetenschaps- en Technologiebeleid (AWT)  
+
+2e. College van beroep voor het hoger onderwijs (CBHO)      
 
 3.5 organisatieonderdelen die rechtstreeks ressorteren onder de DGCM: 
 
@@ -452,7 +477,7 @@ De AD is verantwoordelijk voor het leveren van betrouwbare managementinformatie.
 – Rekenschapsfunctie: certificerende taken en onderzoekstaken gericht op de bekostigde en gesubsidieerde instellingen van OCW.   De AD werkt primair voor en in opdracht van het verantwoordelijk management van OCW, maar neemt bij de taakuitoefening overeenkomstig de eigen beroepsethiek een onafhankelijke positie in. 
 ###4.2 Directie Bestuursondersteuning en Advies (BOA)
 
-De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de politiek- bestuurlijke en organisatorische samenhang van het departement zodat het verkeer tussen de politieke top en de ambtelijke organisatie goed verloopt. De directie is tevens verantwoordelijk voor de inhoudelijke, procesmatige, instrumentele en logistieke ondersteuning van de bewindslieden en de ambtelijke top. De directie is ook verantwoordelijk voor de behandeling van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties. 
+De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de politiek- bestuurlijke en organisatorische samenhang van het departement zodat het verkeer tussen de politieke top en de ambtelijke organisatie goed verloopt. De directie is tevens verantwoordelijk voor de inhoudelijke, procesmatige, instrumentele en logistieke ondersteuning van de bewindslieden en de ambtelijke top. De directie is ook verantwoordelijk voor de behandeling van burgerbrieven, daarin zo nodig inhoudelijk bijgestaan door beleidsdirecties. Verder is de directie verantwoordelijk voor de beleidsontwikkeling op het terrein van veiligheid voor alle sectoren van het Ministerie. 
 ###4.3 Directie Communicatie (COM)
 
 De directie COM is verantwoordelijk voor de interne en externe communicatie van het departement. 
@@ -492,13 +517,10 @@ De directie VO is verantwoordelijk voor de beleidsontwikkeling voor het voortgez
 ###5.3 Directie Jeugd en Onderwijszorg
 
 De directie Jeugd en Onderwijszorg is verantwoordelijk voor de beleidsontwikkeling op het terrein van Jeugd en Zorg, voor de sectoren primair onderwijs, voortgezet onderwijs, en beroepsonderwijs. De directie is in deze ook het aanspreekpunt voor de minister voor Jeugd en Gezin. 
-###5.4 Directie Kinderopvang
-
-De directie Kinderopvang is verantwoordelijk voor het tot stand brengen van een stelsel van kwalitatief goede en toegankelijke kinderopvang, tussenschoolse opvang en peuterspeelzalen, zodat een dagarrangement ontstaat waardoor ouders arbeid en zorg kunnen combineren en kinderen zich kunnen ontwikkelen. 
-###5.5 Directie Leraren
+###5.4 Directie Leraren
 
 De directie Leraren is verantwoordelijk voor de beleidsontwikkeling op het terrein van leraren voor alle onderwijssectoren. In het bijzonder is de directie gericht op de kwaliteitsbevordering van leraren en de terugdringing van het lerarentekort. 
-###5.6 Directie Voortijdig schoolverlaten (VSV)
+###5.5 Directie Voortijdig schoolverlaten (VSV)
 
 De directie VSV heeft als hoofddoel het coördineren van beleid om jongeren in de leeftijd tot 23 jaar met een startkwalificatie (mbo-2 diploma) van school te laten gaan. 
 ###Hoofdstuk 6. Taken en verantwoordelijkheden beleidsdirecties ressorterend onder DGHBWE
@@ -516,15 +538,6 @@ De directie OWB is verantwoordelijk voor de beleidsontwikkeling ten aanzien van 
 ###6.4 Directie Emancipatie (DE)
 
 DE is verantwoordelijk voor de beleidsontwikkeling op het terrein van emancipatie ter bevordering van de integratie van het emancipatiebeleid in het rijksbrede regeringsbeleid. De directie draagt tevens zorg voor de ondersteuning van het emancipatieproces in de samenleving (emancipatie subsidiebeleid). Doel is de verhoging van de arbeidsparticipatie van vrouwen, meer vrouwen in topposities van overheid, onderwijs en bedrijfsleven, terugdringen van beloningsverschillen, maatschappelijke participatie van vrouwen met een grote afstand tot de arbeidsmarkt, meer meisjes in bèta, bestrijden van geweld tegen meisjes en vrouwen, actieve aanpak van homodiscriminatie, bevorderen combinatie arbeid en zorg tussen 7 en 7 en bijdragen aan verbetering van de positie van meisjes en vrouwen in de wereld. 
-###6.5 Directie Kennis en Innovatie
-
-De directie Kennis en Innovatie is een samenwerkingsverband met het ministerie van EZ, en valt onder de dagelijkse aansturing van dat departement. De directie is verantwoordelijk voor de beleidsontwikkeling op het terrein van Kennis en Innovatie. Hoofddoel is de kennis te ontwikkelen ter bevordering van de Nederlandse economie en samenleving. 
-###6.6 Directie Leren en Werken
-
-De directie Leren en werken is een samenwerkingsverband met het ministerie van SZW, en valt onder de dagelijkse aansturing van dat departement. Hoofddoel is om, in lijn met de Lissabondoelstellingen, te bereiken dat in verschillende leeftijdscategorieën meer Nederlanders een opleiding in het hoger onderwijs hebben afgerond. Tevens is het doel om het aantal werkenden en werkzoekenden met een startkwalificatie substantieel te verhogen. 
-###6.7 Directie Veiligheid en Radicalisering (VenR)
-
-De directie VenR is verantwoordelijk voor de beleidsontwikkeling op het terrein van veiligheid voor alle sectoren van OCW. 
 ###Hoofdstuk 7. Taken en verantwoordelijkheden beleidsdirecties ressorterend onder DGCM
 
 De beleidsdirecties van het DGCM hebben de volgende taken en verantwoordelijkheden: 
@@ -595,4 +608,6 @@ Er zijn de volgende bureaus die onafhankelijke of zelfstandige organisaties onde
 
 11.3 Adviesraad voor Wetenschaps- en Technologiebeleid (AWT)  
 
-11.4 College voor Examens (CVE)   
+11.4 College voor Examens (CVE)  
+
+11.5. College van beroep voor het hoger onderwijs (CBHO)   

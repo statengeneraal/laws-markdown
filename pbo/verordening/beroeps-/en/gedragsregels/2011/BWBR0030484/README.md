@@ -18,46 +18,47 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a. *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
+a.  *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
 
-b. *notaris:* de notaris, genoemd in [artikel 1, onder a, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.  
+b.  *notaris:* de notaris, genoemd in [artikel 1, onder a, Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit.  
 
-c. *Protocol:* het protocol, genoemd in [artikel 1, eerste lid, sub e Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), van de notaris en zijn voorgangers;  
+c.  *Protocol:* het protocol, genoemd in [artikel 1, eerste lid, sub e Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md), van de notaris en zijn voorgangers;  
 
-d. *Rechtsvorm:* de al dan niet rechtspersoonlijkheid bezittende juridische vorm waarin de notarispraktijk is uitgeoefend;  
+d.  *Rechtsvorm:* de al dan niet rechtspersoonlijkheid bezittende juridische vorm waarin de notarispraktijk is uitgeoefend;  
 
-e. *Protocolopvolger:* de notaris die een protocol heeft overgenomen in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
+e.  *Protocolopvolger:* de notaris die een protocol heeft overgenomen in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md);  
 
-f. *Protocolvoorganger:* de oud-notaris als voorganger van de protocolopvolger waaronder begrepen zijn waarnemer(s) in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) en de rechtsvorm waarin de praktijk is uitgeoefend;  
+f.  *Protocolvoorganger:* de oud-notaris als voorganger van de protocolopvolger waaronder begrepen zijn waarnemer(s) in de zin van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) en de rechtsvorm waarin de praktijk is uitgeoefend;  
 
-g. *Werknemers:* personen die, al dan niet in loondienst, onder verantwoordelijkheid van de hiervoor onder d., e. en f genoemde personen of rechtsvormen werkzaamheden hebben verricht, of hebben doen verrichten;  
+g.  *Werknemers:* personen die, al dan niet in loondienst, onder verantwoordelijkheid van de hiervoor onder d., e. en f genoemde personen of rechtsvormen werkzaamheden hebben verricht, of hebben doen verrichten;  
 
-h. *Protocolverzekerden:* de hiervoor onder f. en g. genoemde personen of rechtsvormen, inclusief hun rechtsvoorgangers, rechtsopvolgers, rechtsvertegenwoordigers of andere niet onder f. en g. genoemde personen of rechtsvormen voor zover die andere personen of rechtsvormen waren meeverzekerd onder een beroepsaansprakelijkheidsverzekering van de betreffende protocolvoorganger.    
+h.  *Protocolverzekerden:* de hiervoor onder f. en g. genoemde personen of rechtsvormen, inclusief hun rechtsvoorgangers, rechtsopvolgers, rechtsvertegenwoordigers of andere niet onder f. en g. genoemde personen of rechtsvormen voor zover die andere personen of rechtsvormen waren meeverzekerd onder een beroepsaansprakelijkheidsverzekering van de betreffende protocolvoorganger.  
 
 ### Artikel  2  
 
 ####Integere beroepsuitoefening
 
-De notaris gedraagt zich in de uitoefening van zijn beroep en daarbuiten zodanig dat het vertrouwen in het notariaat en in zijn eigen beroepsuitoefening niet wordt geschaad.  
+De notaris gedraagt zich in de uitoefening van zijn beroep en daarbuiten zodanig dat het vertrouwen in het notariaat en in zijn eigen beroepsuitoefening niet wordt geschaad. 
 
 ### Artikel  3  
 
 ####Eigen taak notaris
 
 1.  Ook indien een opdrachtgever anders zou verlangen, blijft de notaris gehouden de werkzaamheden te verrichten die hij in verband met de opdracht als notaris behoort te verrichten. Dit geldt ook wanneer door derden al werkzaamheden zijn verricht.   
-2.  De notaris kan, bij een aan hem gegeven opdracht, onder zijn verantwoordelijkheid werkzaamheden uitbesteden, mits hij de regie, zeggenschap en het toezicht daarop volledig behoudt.   
+2.  De notaris kan, bij een aan hem gegeven opdracht, onder zijn verantwoordelijkheid werkzaamheden uitbesteden, mits hij de regie, zeggenschap en het toezicht daarop volledig behoudt.  
 
 ### Artikel  4  
 
 ####Geen ontslag geheimhoudingsplicht: doorbreking
 
-De notaris kan zich niet door de opdrachtgever of door andere bij de rechtshandeling betrokkenen van zijn geheimhoudingsplicht laten ontslaan.  
+1. De notaris kan zich niet door de opdrachtgever of door andere bij de rechtshandeling betrokkenen van zijn geheimhoudingsplicht laten ontslaan. 
+2. Een notaris is bevoegd om na verzoek van een andere notaris een afschrift van een tot zijn protocol behorende akte af te geven aan die andere notaris, mits die andere notaris op zijn beurt een verzoek om dat afschrift heeft gekregen van een persoon die op grond van de [Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) gerechtigd is tot inzage in die akte. De controle op deze gerechtigdheid en de verantwoordelijkheid en aansprakelijkheid voor de inzage ligt na gedaan verzoek en bedoelde afgifte bij die andere notaris.
 
 ### Artikel  5  
 
 ####Voorlichting over gevolgen
 
-De notaris licht alle partijen bij de rechtshandeling waarvoor zijn tussenkomst is ingeroepen voor over de gevolgen van de handeling.  
+De notaris licht alle partijen bij de rechtshandeling waarvoor zijn tussenkomst is ingeroepen voor over de gevolgen van de handeling. 
 
 ### Artikel  6  
 
@@ -65,26 +66,26 @@ De notaris licht alle partijen bij de rechtshandeling waarvoor zijn tussenkomst 
 
 1.  De notaris is verplicht zijn dienst te weigeren indien hij de redelijke overtuiging of het vermoeden heeft dat misbruik wordt gemaakt van juridische onkunde of feitelijk overwicht.   
 2.  De notaris is verplicht zijn dienst te weigeren indien hij de redelijke overtuiging of het vermoeden heeft dat de inhoud van de akte waarvoor zijn tussenkomst is ingeroepen in strijd is met de waarheid.   
-3.  De notaris is verplicht zijn dienst te weigeren indien zijn medewerking wordt gevraagd aan het vaststellen van door hem niet controleerbare feiten.   
+3.  De notaris is verplicht zijn dienst te weigeren indien zijn medewerking wordt gevraagd aan het vaststellen van door hem niet controleerbare feiten.  
 
 ### Artikel  7  
 
 ####Dienstverlening en doorverwijzing
 
-Gereserveerd.  
+Gereserveerd. 
 
 ### Artikel  8  
 
 ####Afwikkeling onverdeeldheid
 
 1.  Indien meer notarissen een opdracht krijgen tot afwikkeling van een onverdeeldheid, wordt de onverdeeldheid afgewikkeld door de notarissen gezamenlijk, tenzij partijen anders overeenkomen.   
-2.  De notaris die in een nalatenschap optreedt als executeur kan niet zonder instemming van de erfgenamen optreden als boedelnotaris.   
+2.  De notaris die in een nalatenschap optreedt als executeur kan niet zonder instemming van de erfgenamen optreden als boedelnotaris.  
 
 ### Artikel  9  
 
 ####Verbod provisie
 
-Het is de notaris niet geoorloofd provisie te betalen of te ontvangen voor het aanbrengen van opdrachten.  
+Het is de notaris niet geoorloofd provisie te betalen of te ontvangen voor het aanbrengen van opdrachten. 
 
 ### Artikel  10  
 
@@ -92,7 +93,7 @@ Het is de notaris niet geoorloofd provisie te betalen of te ontvangen voor het a
 
 1.  De notaris licht de cliënten tijdig en duidelijk voor over de financiële consequenties van zijn inschakeling.   
 2.  De notaris deelt tijdig aan de cliënten mee wanneer meer kosten in rekening zullen worden gebracht dan voorzien.   
-3.  De notaris mag de kosten van zijn werkzaamheden niet brengen ten laste van een andere opdracht, ander deel van de opdracht of een ander dan de opdrachtgever.   
+3.  De notaris mag de kosten van zijn werkzaamheden niet brengen ten laste van een andere opdracht, ander deel van de opdracht of een ander dan de opdrachtgever.  
 
 ### Artikel  11  
 
@@ -100,25 +101,25 @@ Het is de notaris niet geoorloofd provisie te betalen of te ontvangen voor het a
 
 1.  Bij de levering van registergoederen en bij de vestiging en levering van beperkte rechten op die registergoederen stelt de notaris een zodanig onderzoek in dat over de rechtstoestand van het registergoed zo min mogelijk onzekerheid bestaat. Eenzelfde verplichting rust op de notaris bij de levering van aandelen op naam en bij de vestiging en levering van beperkte rechten op die aandelen.   
 2.  De notaris neemt in de akte de gegevens op die voor de rechtstoestand van belang zijn. Hij ziet erop toe dat de koper het verkochte verkrijgt overeenkomstig de gemaakte afspraken.   
-3.  De notaris ziet toe op de juiste financiële afwikkeling.   
+3.  De notaris ziet toe op de juiste financiële afwikkeling.  
 
 ### Artikel  12  
 
 ####Betalingen in contanten
 
-Betalingen in contanten aan of door de notaris boven een door het bestuur vastgesteld bedrag zijn niet toegestaan.  
+Betalingen in contanten aan of door de notaris boven een door het bestuur vastgesteld bedrag zijn niet toegestaan. 
 
 ### Artikel  13  
 
 ####Voldoen aan financiële verplichtingen
 
-De aan de notaris toevertrouwde gelden dienen op een bijzondere rekening te worden bewaard en dienen te allen tijde ten volle in geldmiddelen aanwezig te zijn.  
+De aan de notaris toevertrouwde gelden dienen op een bijzondere rekening te worden bewaard en dienen te allen tijde ten volle in geldmiddelen aanwezig te zijn. 
 
 ### Artikel  14  
 
 ####Kantoor en medewerkers
 
-De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn kantoor voldoen aan de eisen van een goede praktijkuitoefening en dat de kwaliteit van de door hem en zijn medewerkers verrichte diensten optimaal is. De notaris draagt er zorg voor dat hij en zijn medewerkers over de bekwaamheid beschikken die vereist is voor het op het juiste niveau verrichten van de aan hen opgedragen werkzaamheden.  
+De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn kantoor voldoen aan de eisen van een goede praktijkuitoefening en dat de kwaliteit van de door hem en zijn medewerkers verrichte diensten optimaal is. De notaris draagt er zorg voor dat hij en zijn medewerkers over de bekwaamheid beschikken die vereist is voor het op het juiste niveau verrichten van de aan hen opgedragen werkzaamheden. 
 
 ### Artikel  15  
 
@@ -153,50 +154,50 @@ d. de onder c. bedoelde verzekering dient te voldoen aan de volgende voorwaarden
 
 10. de dekking voor de protocolverzekerden dient in de polissen te zijn geregeld van de protocolopvolger die vanaf 1 januari 2004 een notaris in het protocol is opgevolgd;  
 
-11. de protocolopvolger dient te beschikken over een verklaring waarin de verzekeraar bevestigt dat de verzekering voldoet aan het in dit reglement bepaalde.       
+11. de protocolopvolger dient te beschikken over een verklaring waarin de verzekeraar bevestigt dat de verzekering voldoet aan het in dit reglement bepaalde.      
 
 ### Artikel  16  
 
 ####Samenwerkingsverbanden
 
 1.  De notaris kan een samenwerkingsverband aangaan met een andere notaris of met een kandidaat-notaris.   
-2.  De notaris kan een samenwerkingsverband aangaan met een medewerker van zijn kantoor die geen notaris of kandidaat-notaris is, mits de notaris de volledige zeggenschap over de praktijkuitoefening behoudt.   
+2.  De notaris kan een samenwerkingsverband aangaan met een medewerker van zijn kantoor die geen notaris of kandidaat-notaris is, mits de notaris de volledige zeggenschap over de praktijkuitoefening behoudt.  
 
 ### Artikel  17  
 
 ####Praktijkvennootschap
 
-Gereserveerd.  
+Gereserveerd. 
 
-### Artikelen  18  
+### Artikelen 18 
 
-####Partijadviseur
+#### Partijadviseur
 
 1.  De notaris die naar buiten optreedt als partijadviseur maakt jegens belanghebbenden tijdig kenbaar dat hij in die hoedanigheid optreedt.   
 2.  De notaris passeert geen akten bij de totstandkoming waarvan hij of een kantoorgenoot als partijadviseur van een van de partijen betrokken is geweest, tenzij alle betrokkenen daarmee instemmen op grond van aan hen vooraf verstrekte informatie.   
 3.  De instrumenterend notaris trekt zich als zodanig terug zodra een niet aanstonds overbrugbaar belangenconflict tussen partijen is ontstaan of dreigt te ontstaan over de rol van de notaris als instrumenterend notaris, zoals bedoeld in lid 2 van dit artikel.   
-4.  Wanneer de notaris zich heeft teruggetrokken, dan voorkomt hij dat een kantoorgenoot optreedt voor één van de partijen, tenzij alle betrokken personen daarmee instemmen. Hetzelfde geldt, wanneer naar aanleiding van een door de notaris behandelde zaak een conflict is ontstaan over het handelen of nalaten van de notaris.   
+4.  Wanneer de notaris zich heeft teruggetrokken, dan voorkomt hij dat een kantoorgenoot optreedt voor één van de partijen, tenzij alle betrokken personen daarmee instemmen. Hetzelfde geldt, wanneer naar aanleiding van een door de notaris behandelde zaak een conflict is ontstaan over het handelen of nalaten van de notaris.  
 
 ### Artikel  19  
 
 ####Naar buiten optreden
 
-De notaris draagt zorg bij het naar buiten optreden voor een juiste en volledige presentatie van het kantoor.  
+De notaris draagt zorg bij het naar buiten optreden voor een juiste en volledige presentatie van het kantoor. 
 
 ### Artikel  20  
 
 ####Nadere regelgeving bestuur
 
-Het bestuur van de KNB is bevoegd om met betrekking tot de in deze verordening behandelde onderwerpen nadere regels te geven. Over het ontwerp daarvan wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht.  
+Het bestuur van de KNB is bevoegd om met betrekking tot de in deze verordening behandelde onderwerpen nadere regels te geven. Over het ontwerp daarvan wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van het ministerie van Veiligheid en Justitie gebracht. 
 
 ### Artikel  21  
 
 ####Naam
 
-Deze verordening wordt aangehaald als Verordening beroeps- en gedragsregels 2011.  
+Deze verordening wordt aangehaald als Verordening beroeps- en gedragsregels 2011. 
 
 ### Artikel  22  
 
 ####Inwerking treden
 
-Deze verordening treedt in werking met ingang van 1 augustus 2011 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) is verstreken.  
+Deze verordening treedt in werking met ingang van 1 augustus 2011 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](../../../../../../../wet/notariswet/BWBR0010388/README.md) is verstreken. 
