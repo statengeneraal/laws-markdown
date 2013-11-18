@@ -20,7 +20,7 @@ Commuun
 
 ####Wettekst
 
-– Wetboek van Strafrecht art. 141    
+– [Wetboek van Strafrecht art. 141](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)    
 
 ####Basisdelict
 
@@ -37,85 +37,85 @@ Aanwijzing Kader voor strafvordering
 10 punten 
 ###Strafbeschikking
 
-Indien van toepassing: afhankelijk van het beleid van het parket 
+Indien van toepassing: afhankelijk van het beleid van het parket
 ###Basisfactoren
 
-Hoogte schadebedrag 
+Hoogte schadebedrag
 
 | --- | --- | --- |
-|---|---|---|
-| - Schade tot 500 euro  | 0 pt  | --- |
-| - Schade vanaf 500 tot 1000 euro  | 3 pt  | --- |
-| - Schade vanaf 1000 tot 2500 euro  | 6 pt  | --- |
-| - Schade vanaf 2500 tot 5000 euro  | 10 pt  | --- |
-| - Schade vanaf 5000 euro  | 14 pt  |  *(TS)*   |
+|:---|:---|:---|
+|- Schade tot 500 euro |0 pt | --- |
+|- Schade vanaf 500 tot 1000 euro |3 pt | --- |
+|- Schade vanaf 1000 tot 2500 euro |6 pt | --- |
+|- Schade vanaf 2500 tot 5000 euro |10 pt | --- |
+|- Schade vanaf 5000 euro |14 pt |*(TS)* |
 
-*(TS) + in beginsel taakstraf*  
+*(TS) + in beginsel taakstraf*
 ###Delictspecifieke factoren
 
-Discriminatoire aspecten  
+Discriminatoire aspecten 
 
 | --- | --- | --- |
-|---|---|---|
-| – Geen sprake van discriminatoire aspecten  | +0 %  | --- |
-| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  | --- |
-| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  |  *(DV, TS)*   |
+|:---|:---|:---|
+|– Geen sprake van discriminatoire aspecten |+0 % | --- |
+|– Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit |+50 % | --- |
+|– Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit |+ 100% |*(DV, TS)* |
 
-*(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*   In samenhang met een evenement 
+*(DV) + dagvaarden**(TS) + in beginsel taakstraf* In samenhang met een evenement
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Geen sprake van samenhang met een evenement  | +0 %  |
 | – Er is sprake van samenhang met een evenement  | +75%  |
 
-Agressie in het verkeer 
+Agressie in het verkeer
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Er is geen sprake van agressie naar aanleiding van een verkeerssituatie  | +0 %  |
 | – Er is sprake van agressie naar aanleiding van een verkeerssituatie  | +25%  |
 
-Voetbal gerelateerde normschending 
+Voetbal gerelateerde normschending
 
 | --- | --- |
-|---|---|
-| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
-| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending | +0 % |
+| - Er is sprake van een voetbal gerelateerde normschending |+50 % |
 
 ###Wettelijke factoren
 
-Medeplichtigheid 
+Medeplichtigheid
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Dader  | +0 %  |
 | – Medeplichtige  | -33 %  |
 
 ###Recidiveregeling
 
-Mate van recidive (5 jaar) 
+Mate van recidive (5 jaar)
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  |  *(DV, NH)*   |
+| – 1 maal binnen 2 jaar  | +50 %  |*(NH)* |
+|– 1 maal binnen 2-5 jaar  |+50 % | --- |
+| – Meermalen  | +100 %  |*(DV, NH)* |
 
-*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
+*(NH) + naast hogere sanctie**(DV) + dagvaarden* 
 ###Draagkracht
 
 Geen 
 ###Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
-|---|---|---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  |  *(CKT)*   |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
 
-*(CKT) + contra-indicatie kale taakstraf*  
+*(CKT) + contra-indicatie kale taakstraf * 
 ###Speciale regelingen
 
 Geen 
@@ -138,118 +138,118 @@ Aanwijzing Kader voor strafvordering
 20 punten 
 ###Strafbeschikking
 
-Indien van toepassing: afhankelijk van beleid van het parket 
+Indien van toepassing: afhankelijk van beleid van het parket
 ###Basisfactoren
 
-Aard van het letsel 
+Aard van het letsel
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen letsel  | 0 pt  | --- |
-| – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen.  | 5 pt  | --- |
-| – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen  | 15 pt  |  *(DV)*   |
-| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in art. 82 WvSr. zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding  | 30 pt  |  *(DV,CKT)*   |
-| – Zwaar lichamelijk letsel, zoals bedoeld in art. 82 WvSr. Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  | 50 pt  |  *(DV,CKT)*   |
+| – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen. | 5 pt  | --- |
+| – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen   | 15 pt  |*(DV)* |
+| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding   | 30 pt  |*(DV,CKT)* |
+|– Zwaar lichamelijk letsel, zoals bedoeld in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  |50 pt |*(DV,CKT)* |
 
-*(DV) + dagvaarden*   *(CKT) + contra-indicatie kale taakstraf*   Gebruik van een wapen 
+*(DV) + dagvaarden**(CKT) + contra-indicatie kale taakstraf* Gebruik van een wapen
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen wapen  | 0 pt  | --- |
 | – Slag- of stootwapen of een als zodanig aan te merken voorwerp. Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.  | 20 pt  | --- |
 | – Steekwapen, of een als zodanig aan te merken voorwerp  | 40 pt  | --- |
-| – (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen  | 60 pt  |  *(DV,GS)*   |
+| – (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen  | 60 pt  |*(DV,GS)* |
 
-*(DV) + dagvaarden*   *(GS) + in beginsel gevangenisstraf*  
+*(DV) + dagvaarden**(GS) + in beginsel gevangenisstraf*
 ###Delictspecifieke factoren
 
-Slachtoffer kwalificeert de strafmaat 
+Slachtoffer kwalificeert de strafmaat
 
 | --- | --- |
-|---|---|
-| - Het slachtoffer kwalificeert de strafmaat niet  | +0 %  |
-| - Het slachtoffer was een ambtenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn bediening gepleegd  | +200 %  |
-| - Het slachtoffer was een andere beroepsbeoefenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn beroep gepleegd  | +200 %  |
-| - Het slachtoffer stond in een afhankelijke situatie tot de verdachte  | +33 %  |
-| - Het slachtoffer verhinderde of probeerde te verhinderen dat een geweldsdelict gepleegd ging worden  | +150 %  |
+|:---|:---|
+|- Het slachtoffer kwalificeert de strafmaat niet |+0 %  |
+|- Het slachtoffer was een ambtenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn bediening gepleegd |+200 %  |
+|- Het slachtoffer was een andere beroepsbeoefenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn beroep gepleegd |+200 % |
+|- Het slachtoffer stond in een afhankelijke situatie tot de verdachte |+33 %  |
+|- Het slachtoffer verhinderde of probeerde te verhinderen dat een geweldsdelict gepleegd ging worden |+150 %  |
 
-Willekeurig gekozen slachtoffer 
+Willekeurig gekozen slachtoffer
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Geen willekeurig gekozen slachtoffer  | +0 %  |
 | – Willekeurig gekozen slachtoffer  | +25%  |
 
-Discriminatoire aspecten 
+Discriminatoire aspecten
 
 | --- | --- | --- |
-|---|---|---|
-| – Geen sprake van discriminatoire aspecten  | +0 %  | --- |
-| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  | --- |
-| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  |  *(DV,TS)*   |
+|:---|:---|:---|
+|– Geen sprake van discriminatoire aspecten |+0 % | --- |
+|– Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit |+50 % | --- |
+|– Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit |+ 100% |*(DV,TS)* |
 
-*(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*   In samenhang met een evenement 
+*(DV) + dagvaarden**(TS) + in beginsel taakstraf* In samenhang met een evenement
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Geen sprake van samenhang met een evenement  | +0 %  |
 | – Er is sprake van samenhang met een evenement  | +75%  |
 
-Indien beoordeling van dit basisdelict tevens plaats vindt op grond van de beoordelingsfactor ’aard van het letsel’, houdt die factor verband met de factor ’aanleiding’. Indien sprake is van ’geen letsel’, ’licht letsel’ of ’letsel’, zoals benoemd in de beoordelingsfactor ’aard van het letsel’ dient de factor ’aanleiding’ als mogelijk strafverminderend te gelden; in geval van zwaarder letsel kan niet worden gesproken van een redelijk verband tussen het tergen en het toegebrachte letsel.  Aanleiding 
+Indien beoordeling van dit basisdelict tevens plaats vindt op grond van de beoordelingsfactor ’aard van het letsel’, houdt die factor verband met de factor ’aanleiding’. Indien sprake is van ’geen letsel’, ’licht letsel’ of ’letsel’, zoals benoemd in de beoordelingsfactor ’aard van het letsel’ dient de factor ’aanleiding’ als mogelijk strafverminderend te gelden; in geval van zwaarder letsel kan niet worden gesproken van een redelijk verband tussen het tergen en het toegebrachte letsel.  Aanleiding
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Geen sprake van ’uitlokking’ of tergen door het slachtoffer of de benadeelde  | +0 %  |
 | – Er is sprake van ’uitlokken’ en/of tergen door het slachtoffer of de benadeelde  | -25 %  |
 
-Agressie in het verkeer 
+Agressie in het verkeer
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Er is geen sprake van agressie naar aanleiding van een verkeerssituatie  | +0 %  |
 | – Er is sprake van agressie naar aanleiding van een verkeerssituatie  | +25%  |
 
-*Indien er sprake is van een voetbal gerelateerd delict tegen een ambtenaar of andere beroepsoefenaar tijdens een evenement, zal de strafverhoging van deze factor niet worden meegeteld; alsdan zijn alleen de verhogingspercentages genoemd bij de factoren ’slachtoffer kwalificeert de strafmaat’ en ‘in samenhang met een evenement’ van toepassing.*   Voetbal gerelateerde normschending 
+*Indien er sprake is van een voetbal gerelateerd delict tegen een ambtenaar of andere beroepsoefenaar tijdens een evenement, zal de strafverhoging van deze factor niet worden meegeteld; alsdan zijn alleen de verhogingspercentages genoemd bij de factoren ’slachtoffer kwalificeert de strafmaat’ en ‘in samenhang met een evenement’ van toepassing.* Voetbal gerelateerde normschending
 
 | --- | --- |
-|---|---|
-| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
-| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending | +0 % |
+| - Er is sprake van een voetbal gerelateerde normschending |+50 % |
 
 ###Wettelijke factoren
 
-Medeplichtigheid 
+Medeplichtigheid
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Dader  | +0 %  |
 | – Medeplichtige  | -33 %  |
 
 ###Recidiveregeling
 
-Mate van recidive (5 jaar) 
+Mate van recidive (5 jaar)
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  |  *(DV, NH)*   |
+| – 1 maal binnen 2 jaar  | +50 %  |*(NH)* |
+|– 1 maal binnen 2-5 jaar  |+50 % | --- |
+| – Meermalen  | +100 %  |*(DV, NH)* |
 
-*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
+*(NH) + naast hogere sanctie**(DV) + dagvaarden* 
 ###Draagkracht
 
 Geen 
 ###Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
-|---|---|---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  |  *(CKT)*   |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
 
-*(CKT) + contra-indicatie kale taakstraf*  
+*(CKT) + contra-indicatie kale taakstraf * 
 ###Speciale regelingen
 
 Geen 
@@ -272,128 +272,128 @@ Aanwijzing Kader voor strafvordering
 30 punten 
 ###Strafbeschikking
 
-Indien van toepassing: afhankelijk van beleid van het parket 
+Indien van toepassing: afhankelijk van beleid van het parket
 ###Basisfactoren
 
-Aard van het letsel 
+Aard van het letsel
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen letsel  | 0 pt  | --- |
-| – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen.  | 5 pt  | --- |
-| – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen  | 15 pt  |  *(DV)*   |
-| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in art. 82 WvSr. zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding  | 30 pt  |  *(DV,CKT)*   |
-| – Zwaar lichamelijk letsel, zoals bedoeld in art. 82 WvSr. Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  | 50 pt  |  *(DV,CKT)*   |
+| – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen. | 5 pt  | --- |
+| – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen   | 15 pt  |*(DV)* |
+| Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding   | 30 pt  |*(DV,CKT)* |
+|– Zwaar lichamelijk letsel, zoals bedoeld in [art. 82 WvSr.](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  |50 pt |*(DV,CKT)* |
 
-*(DV) + dagvaarden*   *(CKT) + contra-indicatie kale taakstraf*   Gebruik van een wapen 
+*(DV) + dagvaarden**(CKT) + contra-indicatie kale taakstraf* Gebruik van een wapen
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen wapen  | 0 pt  | --- |
 | – Slag- of stootwapen of een als zodanig aan te merken voorwerp. Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.  | 20 pt  | --- |
 | – Steekwapen, of een als zodanig aan te merken voorwerp  | 40 pt  | --- |
-| – (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen  | 60 pt  |  *(DV,GS)*   |
+| – (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen  | 60 pt  |*(DV,GS)* |
 
-*(DV) + dagvaarden*   *(GS) + in beginsel gevangenisstraf*   Hoogte schadebedrag 
+*(DV) + dagvaarden**(GS) + in beginsel gevangenisstraf* Hoogte schadebedrag
 
 | --- | --- | --- |
-|---|---|---|
-| - Schade tot 500 euro  | 0 pt  | --- |
-| - Schade vanaf 500 tot 1000 euro  | 3 pt  | --- |
-| - Schade vanaf 1000 tot 2500 euro  | 6 pt  | --- |
-| - Schade vanaf 2500 tot 5000 euro  | 10 pt  | --- |
-| - Schade vanaf 5000 euro  | 14 pt  |  *(TS)*   |
+|:---|:---|:---|
+| - Schade tot 500 euro |0 pt | --- |
+|- Schade vanaf 500 tot 1000 euro |3 pt | --- |
+|- Schade vanaf 1000 tot 2500 euro |6 pt | --- |
+|- Schade vanaf 2500 tot 5000 euro |10 pt | --- |
+|- Schade vanaf 5000 euro |14 pt |*(TS)* |
 
-*(TS) + in beginsel taakstraf*  
+*(TS) + in beginsel taakstraf*
 ###Delictspecifieke factoren
 
-Slachtoffer kwalificeert de strafmaat 
+Slachtoffer kwalificeert de strafmaat
 
 | --- | --- |
-|---|---|
-| - Het slachtoffer kwalificeert de strafmaat niet  | +0 %  |
-| - Het slachtoffer was een ambtenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn bediening gepleegd  | +200 %  |
-| - Het slachtoffer was een andere beroepsbeoefenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn beroep gepleegd  | +200 %  |
-| - Het slachtoffer stond in een afhankelijke situatie tot de verdachte  | +33 %  |
-| - Het slachtoffer verhinderde of probeerde te verhinderen dat een geweldsdelict gepleegd ging worden  | +150 %  |
+|:---|:---|
+|- Het slachtoffer kwalificeert de strafmaat niet |+0 %  |
+|- Het slachtoffer was een ambtenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn bediening gepleegd |+200 %  |
+|- Het slachtoffer was een andere beroepsbeoefenaar en het misdrijf werd terzake of gedurende de rechtmatige uitoefening van zijn beroep gepleegd |+200 % |
+|- Het slachtoffer stond in een afhankelijke situatie tot de verdachte |+33 %  |
+|- Het slachtoffer verhinderde of probeerde te verhinderen dat een geweldsdelict gepleegd ging worden |+150 %  |
 
-Willekeurig gekozen slachtoffer 
+Willekeurig gekozen slachtoffer
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Geen willekeurig gekozen slachtoffer  | +0 %  |
 | – Willekeurig gekozen slachtoffer  | +25%  |
 
-Discriminatoire aspecten 
+Discriminatoire aspecten
 
 | --- | --- | --- |
-|---|---|---|
-| – Geen sprake van discriminatoire aspecten  | +0 %  | --- |
-| – Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit  | +50 %  | --- |
-| – Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit  | + 100%  |  *(DV, TS)*   |
+|:---|:---|:---|
+|– Geen sprake van discriminatoire aspecten |+0 % | --- |
+|– Er is sprake van discriminatoire aspecten bij een minder ingrijpend feit |+50 % | --- |
+|– Er is sprake van discriminatoire aspecten en het betreft een ingrijpend feit |+ 100% |*(DV, TS)* |
 
-*(DV) + dagvaarden*   *(TS) + in beginsel taakstraf*   In samenhang met een evenement 
+*(DV) + dagvaarden**(TS) + in beginsel taakstraf* In samenhang met een evenement
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Geen sprake van samenhang met een evenement  | +0 %  |
 | – Er is sprake van samenhang met een evenement  | +75%  |
 
-Indien beoordeling van dit basisdelict tevens plaats vindt op grond van de beoordelingsfactor ’aard van het letsel’, houdt die factor verband met de factor ’aanleiding’. Indien sprake is van ’geen letsel’, ’licht letsel’ of ’letsel’, zoals benoemd in de beoordelingsfactor ’aard van het letsel’ dient de factor ’aanleiding’ als mogelijk strafverminderend te gelden; in geval van zwaarder letsel kan niet worden gesproken van een redelijk verband tussen het tergen en het toegebrachte letsel.  Aanleiding 
+Indien beoordeling van dit basisdelict tevens plaats vindt op grond van de beoordelingsfactor ’aard van het letsel’, houdt die factor verband met de factor ’aanleiding’. Indien sprake is van ’geen letsel’, ’licht letsel’ of ’letsel’, zoals benoemd in de beoordelingsfactor ’aard van het letsel’ dient de factor ’aanleiding’ als mogelijk strafverminderend te gelden; in geval van zwaarder letsel kan niet worden gesproken van een redelijk verband tussen het tergen en het toegebrachte letsel.  Aanleiding
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Geen sprake van ’uitlokking’ of tergen door het slachtoffer of de benadeelde  | +0 %  |
 | – Er is sprake van ’uitlokken’ en/of tergen door het slachtoffer of de benadeelde  | -25 %  |
 
-Agressie in het verkeer 
+Agressie in het verkeer
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Er is geen sprake van agressie naar aanleiding van een verkeerssituatie  | +0 %  |
 | – Er is sprake van agressie naar aanleiding van een verkeerssituatie  | +25%  |
 
-*Indien er sprake is van een voetbal gerelateerd delict tegen een ambtenaar of andere beroepsoefenaar tijdens een evenement, zal de strafverhoging van deze factor niet worden meegeteld; alsdan zijn alleen de verhogingspercentages genoemd bij de factoren ’slachtoffer kwalificeert de strafmaat’ en ‘in samenhang met een evenement’ van toepassing.*   Voetbal gerelateerde normschending 
+*Indien er sprake is van een voetbal gerelateerd delict tegen een ambtenaar of andere beroepsoefenaar tijdens een evenement, zal de strafverhoging van deze factor niet worden meegeteld; alsdan zijn alleen de verhogingspercentages genoemd bij de factoren ’slachtoffer kwalificeert de strafmaat’ en ‘in samenhang met een evenement’ van toepassing.* Voetbal gerelateerde normschending
 
 | --- | --- |
-|---|---|
-| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
-| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending | +0 % |
+| - Er is sprake van een voetbal gerelateerde normschending |+50 % |
 
 ###Wettelijke factoren
 
-Medeplichtigheid 
+Medeplichtigheid
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | – Dader  | +0 %  |
 | – Medeplichtige  | -33 %  |
 
 ###Recidiveregeling
 
-Mate van recidive (5 jaar) 
+Mate van recidive (5 jaar)
 
 | --- | --- | --- |
-|---|---|---|
+|:---|:---|:---|
 | – Geen recidive  | +0 %  | --- |
-| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
-| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
-| – Meermalen  | +100 %  |  *(DV, NH)*   |
+| – 1 maal binnen 2 jaar  | +50 %  |*(NH)* |
+|– 1 maal binnen 2-5 jaar  |+50 % | --- |
+| – Meermalen  | +100 %  |*(DV, NH)* |
 
-*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
+*(NH) + naast hogere sanctie**(DV) + dagvaarden* 
 ###Draagkracht
 
 Geen 
 ###Maatwerk
 
-*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr. *Taakstrafverbod als bedoeld in art 22b lid 2 WvSr
 
 | --- | --- | --- |
-|---|---|---|
-| - Er is geen sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  | --- |
-| - Er is sprake van een taakstrafverbod als bedoeld in art 22b lid 2 WvSr  | +0 %  |  *(CKT)*   |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) | +0 % | --- |
+|- Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  |+0 %  |*(CKT) * |
 
-*(CKT) + contra-indicatie kale taakstraf*  
+*(CKT) + contra-indicatie kale taakstraf * 
 ###Speciale regelingen
 
 Geen 

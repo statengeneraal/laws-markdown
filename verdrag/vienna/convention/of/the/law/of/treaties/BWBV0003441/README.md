@@ -4,7 +4,7 @@
 
 ####Vienna Convention of the law of treaties
 
-The States Parties to the present Convention, Considering the fundamental role of treaties in the history of international relations, Recognizing the ever-increasing importance of treaties as a source of international law and as a means of developing peaceful co-operation among nations, whatever their constitutional and social systems, Noting that the principles of free consent and of good faith and the *pacta sunt servanda* rule are universally recognized, Affirming that disputes concerning treaties, like other international disputes, should be settled by peaceful means and in conformity with the principles of justice and international law, Recalling the determination of the peoples of the United Nations to establish conditions under which justice and respect for the obligations arising from treaties can be maintained, Having in mind the principles of international law embodied in the Charter of the United Nations, such as the principles of the equal rights and self-determination of peoples, of the sovereign equality and independence of all States, of non-interference in the domestic affairs of States, of the prohibition of the threat or use of force and of universal respect for, and observance of, human rights and fundamental freedoms for all, Believing that the codification and progressive development of the law of treaties achieved in the present Convention will promote the purposes of the United Nations set forth in the Charter, namely, the maintenance of international peace and security, the development of friendly relations and the achievement of co-operation among nations, Affirming that the rules of customary international law will continue to govern questions not regulated by the provisions of the present Convention,   Have agreed as follows:     
+The States Parties to the present Convention, Considering the fundamental role of treaties in the history of international relations, Recognizing the ever-increasing importance of treaties as a source of international law and as a means of developing peaceful co-operation among nations, whatever their constitutional and social systems, Noting that the principles of free consent and of good faith and the *pacta sunt servanda* rule are universally recognized, Affirming that disputes concerning treaties, like other international disputes, should be settled by peaceful means and in conformity with the principles of justice and international law, Recalling the determination of the peoples of the United Nations to establish conditions under which justice and respect for the obligations arising from treaties can be maintained, Having in mind the principles of international law embodied in the [Charter of the United Nations](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), such as the principles of the equal rights and self-determination of peoples, of the sovereign equality and independence of all States, of non-interference in the domestic affairs of States, of the prohibition of the threat or use of force and of universal respect for, and observance of, human rights and fundamental freedoms for all, Believing that the codification and progressive development of the law of treaties achieved in the present Convention will promote the purposes of the United Nations set forth in the [Charter](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), namely, the maintenance of international peace and security, the development of friendly relations and the achievement of co-operation among nations, Affirming that the rules of customary international law will continue to govern questions not regulated by the provisions of the present Convention,   Have agreed as follows:     
 ### PART  I  
 
 ####Introduction
@@ -13,7 +13,7 @@ The States Parties to the present Convention, Considering the fundamental role o
 
 ####Scope of the present Convention
 
-The present Convention applies to treaties between States.  
+The present Convention applies to treaties between States. 
 
 ### Article  2  
 
@@ -21,7 +21,7 @@ The present Convention applies to treaties between States.
 
 1.  For the purposes of the present Convention: 
 
-(a) “treaty” means an international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particur designation;  
+(a) “treaty” means an international agreement concluded between States in written form and governed by international law, whether embodied in a single instrument or in two or more related instruments and whatever its particular designation;  
 
 (b) “ratification”, “acceptance”, “approval” and “accession” mean in each case the international act so named whereby a State establishes on the international plane its consent to be bound by a treaty;  
 
@@ -38,7 +38,7 @@ The present Convention applies to treaties between States.
 (h) “third State” means a State not a party to the treaty;  
 
 (i) “international organization” means an intergovernmental organization.     
-2.  The provisions of paragraph 1 regarding the use of terms in the present Convention are without prejudice to the use of those terms or to the meanings which may be given to them in the internal law of any State.   
+2.  The provisions of paragraph 1 regarding the use of terms in the present Convention are without prejudice to the use of those terms or to the meanings which may be given to them in the internal law of any State.  
 
 ### Article  3  
 
@@ -50,19 +50,19 @@ The fact that the present Convention does not apply to international agreements 
 
 (b) the application to them of any of the rules set forth in the present Convention to which they would be subject under international law independently of the Convention;  
 
-(c) the application of the Convention to the relations of States as between themselves under international agreements to which other subjects of international law are also parties.    
+(c) the application of the Convention to the relations of States as between themselves under international agreements to which other subjects of international law are also parties.   
 
 ### Article  4  
 
 ####Non-retroactivity of the present Convention
 
-Without prejudice to the application of any rules set forth in the present Convention to which treaties would be subject under international law independently of the Convention, the Convention applies only to treaties which are concluded by States after the entry into force of the present Convention with regard to such States.  
+Without prejudice to the application of any rules set forth in the present Convention to which treaties would be subject under international law independently of the Convention, the Convention applies only to treaties which are concluded by States after the entry into force of the present Convention with regard to such States. 
 
 ### Article  5  
 
 ####Treaties constituting international organizations and treaties adopted within an international organization
 
-The present Convention applies to any treaty which is the constituent instrument of an international organization and to any treaty adopted within an international organization without prejudice to any relevant rules of the organization.  
+The present Convention applies to any treaty which is the constituent instrument of an international organization and to any treaty adopted within an international organization without prejudice to any relevant rules of the organization. 
 
 ### PART  II  
 
@@ -76,7 +76,7 @@ The present Convention applies to any treaty which is the constituent instrument
 
 ####Capacity of States to conclude treaties
 
-Every State possesses capacity to conclude treaties.  
+Every State possesses capacity to conclude treaties. 
 
 ### Article  7  
 
@@ -93,20 +93,20 @@ Every State possesses capacity to conclude treaties.
 
 (b) heads of diplomatic missions, for the purpose of adopting the text of a treaty between the accrediting State and the State to which they are accredited;  
 
-(c) representatives accredited by States to an international conference or to an international organization or one of its organs, for the purpose of adopting the text of a treaty in that conference, organization or organ.     
+(c) representatives accredited by States to an international conference or to an international organization or one of its organs, for the purpose of adopting the text of a treaty in that conference, organization or organ.    
 
 ### Article  8  
 
 ####Subsequent confirmation of an act performed without authorization
 
-An act relating to the conclusion of a treaty performed by a person who cannot be considered under article 7 as authorized to represent a State for that purpose is without legal effect unless afterwards confirmed by that State.  
+An act relating to the conclusion of a treaty performed by a person who cannot be considered under article 7 as authorized to represent a State for that purpose is without legal effect unless afterwards confirmed by that State. 
 
 ### Article  9  
 
 ####Adoption of the text
 
-1.  The adoption of the text of a treaty takes place by the consent of all the Slates participating in its drawing up except as provided in paragraph 2.   
-2.  The adoption of the text of a treaty at an international conference takes place by the vote of two thirds of the States present and voting, unless by the same majority they shall decide to apply a different rule.   
+1.  The adoption of the text of a treaty takes place by the consent of all the States participating in its drawing up except as provided in paragraph 2.   
+2.  The adoption of the text of a treaty at an international conference takes place by the vote of two thirds of the States present and voting, unless by the same majority they shall decide to apply a different rule.  
 
 ### Article  10  
 
@@ -116,13 +116,13 @@ The text of a treaty is established as authentic and definitive:
 
 (a) by such procedure as may be provided for in the text or agreed upon by the States participating in its drawing up; or  
 
-(b) failing such procedure, by the signature, signature *ad referendum* or initialling by the representatives of those States of the text of the treaty or of the Final Act of a conference incorporating the text.    
+(b) failing such procedure, by the signature, signature *ad referendum* or initialling by the representatives of those States of the text of the treaty or of the Final Act of a conference incorporating the text.   
 
 ### Article  11  
 
 ####Means of expressing consent to be bound by a treaty
 
-The consent of a State to be bound by a treaty may be expressed by signature, exchange of instruments constituting a treaty, ratification, acceptance, approval or accession, or by any other means if so agreed.  
+The consent of a State to be bound by a treaty may be expressed by signature, exchange of instruments constituting a treaty, ratification, acceptance, approval or accession, or by any other means if so agreed. 
 
 ### Article  12  
 
@@ -139,7 +139,7 @@ The consent of a State to be bound by a treaty may be expressed by signature, ex
 
 (a) the initialling of a text constitutes a signature of the treaty when it is established that the negotiating States so agreed;  
 
-(b) the signature *ad referendum* of a treaty by a representative, if confirmed by his State, constitutes a full signature of the treaty.     
+(b) the signature *ad referendum* of a treaty by a representative, if confirmed by his State, constitutes a full signature of the treaty.    
 
 ### Article  13  
 
@@ -149,7 +149,7 @@ The consent of States to be bound by a treaty constituted by instruments exchang
 
 (a) the instruments provide that their exchange shall have that effect; or  
 
-(b) it is otherwise established that those States were agreed that the exchange of instruments should have that effect.    
+(b) it is otherwise established that those States were agreed that the exchange of instruments should have that effect.   
 
 ### Article  14  
 
@@ -164,7 +164,7 @@ The consent of States to be bound by a treaty constituted by instruments exchang
 (c) the representative of the State has signed the treaty subject to ratification; or  
 
 (d) the intention of the State to sign the treaty subject to ratification appears from the full powers of its representative or was expressed during the negotiation.     
-2.  The consent of a State to be bound by a treaty is expressed by acceptance or approval under conditions similar to those which apply to ratification.   
+2.  The consent of a State to be bound by a treaty is expressed by acceptance or approval under conditions similar to those which apply to ratification.  
 
 ### Article  15  
 
@@ -176,7 +176,7 @@ The consent of a State to be bound by a treaty is expressed by accession when:
 
 (b) it is otherwise established that the negotiating States were agreed that such consent may be expressed by that State by means of accession; or  
 
-(c) all the parties have subsequently agreed that such consent may be expressed by that State by means of accession.    
+(c) all the parties have subsequently agreed that such consent may be expressed by that State by means of accession.   
 
 ### Article  16  
 
@@ -188,14 +188,14 @@ Unless the treaty otherwise provides, instruments of ratification, acceptance, a
 
 (b) their deposit with the depositary; or  
 
-(c) their notification to the contracting States or to the depositary, if so agreed.    
+(c) their notification to the contracting States or to the depositary, if so agreed.   
 
 ### Article  17  
 
 ####Consent to be bound by part of a treaty and choice of differing provisions
 
 1.  Without prejudice to articles 19 to 23, the consent of a State to be bound by part of a treaty is effective only if the treaty so permits or the other contracting States so agree.   
-2.  The consent of a State to be bound by a treaty which permits a choice between differing provisions is effective only if it is made clear to which of the provisions the consent relates.   
+2.  The consent of a State to be bound by a treaty which permits a choice between differing provisions is effective only if it is made clear to which of the provisions the consent relates.  
 
 ### Article  18  
 
@@ -205,7 +205,7 @@ A State is obliged to refrain from acts which would defeat the object and purpos
 
 (a) it has signed the treaty or has exchanged instruments constituting the treaty subject to ratification, acceptance or approval, until it shall have made its intention clear not to become a party to the treaty; or  
 
-(b) it has expressed its consent to be bound by the treaty, pending the entry into force of the treaty and provided that such entry into force is not unduly delayed.    
+(b) it has expressed its consent to be bound by the treaty, pending the entry into force of the treaty and provided that such entry into force is not unduly delayed.   
 
 ### SECTION  2  
 
@@ -221,7 +221,7 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 
 (b) the treaty provides that only specified reservations, which do not include the reservation in question, may be made; or  
 
-(c) in cases not falling under sub-paragraphs (a) and (b), the reservation is incompatible with the object and purpose of the treaty.    
+(c) in cases not falling under sub-paragraphs (a) and (b), the reservation is incompatible with the object and purpose of the treaty.   
 
 ### Article  20  
 
@@ -237,7 +237,7 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 (b) an objection by another contracting State to a reservation does not preclude the entry into force of the treaty as between the objecting and reserving States unless a contrary intention is definitely expressed by the objecting State;  
 
 (c) an act expressing a State's consent to be bound by the treaty and containing a reservation is effective as soon as at least one other contracting State has accepted the reservation.     
-5.  For the purposes of paragraphs 2 and 4 and unless the treaty otherwise provides, a reservation is considered to have been accepted by a State if it shall have raised no objection to the reservation by the end of a period of twelve months after it was notified of the reservation or by the date on which it expressed its consent to be bound by the treaty, whichever is later.   
+5.  For the purposes of paragraphs 2 and 4 and unless the treaty otherwise provides, a reservation is considered to have been accepted by a State if it shall have raised no objection to the reservation by the end of a period of twelve months after it was notified of the reservation or by the date on which it expressed its consent to be bound by the treaty, whichever is later.  
 
 ### Article  21  
 
@@ -248,8 +248,8 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 (a) modifies for the reserving State in its relations with that other party the provisions of the treaty to which the reservation relates to the extent of the reservation; and  
 
 (b) modifies those provisions to the same extent for that other party in its relations with the reserving State.     
-2.  The reservation does not modify the provisions of the treaty for the other parties to the treaty *inter se.*   
-3.  When a State objecting to a reservation has not opposed the entry into force of the treaty between itself and the reserving State, the provisions to which the reservation relates do not apply as between the two States to the extent of the reservation.   
+2.  The reservation does not modify the provisions of the treaty for the other parties to the treaty *inter se.*    
+3.  When a State objecting to a reservation has not opposed the entry into force of the treaty between itself and the reserving State, the provisions to which the reservation relates do not apply as between the two States to the extent of the reservation.  
 
 ### Article  22  
 
@@ -261,7 +261,7 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 
 (a) the withdrawal of a reservation becomes operative in relation to another contracting State only when notice of it has been received by that State;  
 
-(b) the withdrawal of an objection to a reservation becomes operative only when notice of it has been received by the State which formulated the reservation.     
+(b) the withdrawal of an objection to a reservation becomes operative only when notice of it has been received by the State which formulated the reservation.    
 
 ### Article  23  
 
@@ -270,7 +270,7 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 1.  A reservation, an express acceptance of a reservation and an objection to a reservation must be formulated in writing and communicated to the contracting States and other States entitled to become parties to the treaty.   
 2.  If formulated when signing the treaty subject to ratification, acceptance or approval, a reservation must be formally confirmed by the reserving State when expressing its consent to be bound by the treaty. In such a case the reservation shall be considered as having been made on the date of its confirmation.   
 3.  An express acceptance of, or an objection to, a reservation made previously to confirmation of the reservation does not itself require confirmation.   
-4.  The withdrawal of a reservation or of an objection to a reservation must be formulated in writing.   
+4.  The withdrawal of a reservation or of an objection to a reservation must be formulated in writing.  
 
 ### SECTION  3  
 
@@ -283,7 +283,7 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 1.  A treaty enters into force in such manner and upon such date as it may provide or as the negotiating States may agree.   
 2.  Failing any such provision or agreement, a treaty enters into force as soon as consent to be bound by the treaty has been established for all the negotiating States.   
 3.  When the consent of a State to be bound by a treaty is established on a date after the treaty has come into force, the treaty enters into force for that State on that date, unless the treaty otherwise provides.   
-4.  The provisions of a treaty regulating the authentication of its text, the establishment of the consent of States to be bound by the treaty, the manner or date of its entry into force, reservations, the functions of the depositary and other matters arising necessarily before the entry into force of the treaty apply from the time of the adoption of its text.   
+4.  The provisions of a treaty regulating the authentication of its text, the establishment of the consent of States to be bound by the treaty, the manner or date of its entry into force, reservations, the functions of the depositary and other matters arising necessarily before the entry into force of the treaty apply from the time of the adoption of its text.  
 
 ### Article  25  
 
@@ -294,7 +294,7 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 (a) the treaty itself so provides; or  
 
 (b) the negotiating States have in some other manner so agreed.     
-2.  Unless the treaty otherwise provides or the negotiating States have otherwise agreed, the provisional application of a treaty or a part of a treaty with respect to a State shall be terminated if that State notifies the other States between which the treaty is being applied provisionally of its intention not to become a party to the treaty.   
+2.  Unless the treaty otherwise provides or the negotiating States have otherwise agreed, the provisional application of a treaty or a part of a treaty with respect to a State shall be terminated if that State notifies the other States between which the treaty is being applied provisionally of its intention not to become a party to the treaty.  
 
 ### PART  III  
 
@@ -308,13 +308,13 @@ A State may, when signing, ratifying, accepting, approving or acceding to a trea
 
 ####Pacta sunt servanda
 
-Every treaty in force is binding upon the parties to it and must be performed by them in good faith.  
+Every treaty in force is binding upon the parties to it and must be performed by them in good faith. 
 
 ### Article  27  
 
 ####Internal law and observance of treaties
 
-A party may not invoke the provisions of its internal law as justification for its failure to perform a treaty. This rule is without prejudice to article 46.  
+A party may not invoke the provisions of its internal law as justification for its failure to perform a treaty. This rule is without prejudice to article 46. 
 
 ### SECTION  2  
 
@@ -324,19 +324,19 @@ A party may not invoke the provisions of its internal law as justification for i
 
 ####Non-retroactivity of treaties
 
-Unless a different intention appears from the treaty or is otherwise established, its provisions do not bind a party in relation to any act or fact which took place or any situation which ceased to exist before the date of the entry into force of the treaty with respect to that party.  
+Unless a different intention appears from the treaty or is otherwise established, its provisions do not bind a party in relation to any act or fact which took place or any situation which ceased to exist before the date of the entry into force of the treaty with respect to that party. 
 
 ### Article  29  
 
 ####Territorial scope of treaties
 
-Unless a different intention appears from the treaty or is otherwise established, a treaty is binding upon each party in respect of its entire territory.  
+Unless a different intention appears from the treaty or is otherwise established, a treaty is binding upon each party in respect of its entire territory. 
 
 ### Article  30  
 
 ####Application of successive treaties relating to the same subject-matter
 
-1.  Subject to Article 103 of the Charter of the United Nations, the rights and obligations of States parties to successive treaties relating to the same subject-matter shall be determined in accordance with the following paragraphs.   
+1.  Subject to [Article 103 of the Charter of the United Nations](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), the rights and obligations of States parties to successive treaties relating to the same subject-matter shall be determined in accordance with the following paragraphs.   
 2.  When a treaty specifies that it is subject to, or that it is not to be considered as incompatible with, an earlier or later treaty, the provisions of that other treaty prevail.   
 3.  When all the parties to the earlier treaty are parties also to the later treaty but the earlier treaty is not terminated or suspended in operation under article 59, the earlier treaty applies only to the extent that its provisions are compatible with those of the later treaty.   
 4.  When the parties to the later treaty do not include all the parties to the earlier one: 
@@ -344,7 +344,7 @@ Unless a different intention appears from the treaty or is otherwise established
 (a) as between States parties to both treaties the same rule applies as in paragraph 3;  
 
 (b) as between a State party to both treaties and a State party to only one of the treaties, the treaty to which both States are parties governs their mutual rights and obligations.     
-5.  Paragraph 4 is without prejudice to article 41, or to any question of the termination or suspension of the operation of a treaty under article 60 or to any question of responsibility which may arise for a State from the conclusion or application of a treaty the provisions of which are incompatible with its obligations towards another State under another treaty.   
+5.  Paragraph 4 is without prejudice to article 41, or to any question of the termination or suspension of the operation of a treaty under article 60 or to any question of responsibility which may arise for a State from the conclusion or application of a treaty the provisions of which are incompatible with its obligations towards another State under another treaty.  
 
 ### SECTION  3  
 
@@ -367,7 +367,7 @@ Unless a different intention appears from the treaty or is otherwise established
 (b) any subsequent practice in the application of the treaty which establishes the agreement of the parties regarding its interpretation;  
 
 (c) any relevant rules of international law applicable in the relations between the parties.     
-4.  A special meaning shall be given to a term if it is established that the parties so intended.   
+4.  A special meaning shall be given to a term if it is established that the parties so intended.  
 
 ### Article  32  
 
@@ -377,7 +377,7 @@ Recourse may be had to supplementary means of interpretation, including the prep
 
 (a) leaves the meaning ambiguous or obscure; or  
 
-(b) leads to a result which is manifestly absurd or unreasonable.    
+(b) leads to a result which is manifestly absurd or unreasonable.   
 
 ### Article  33  
 
@@ -386,7 +386,7 @@ Recourse may be had to supplementary means of interpretation, including the prep
 1.  When a treaty has been authenticated in two or more languages, the text is equally authoritative in each language, unless the treaty provides or the parties agree that, in case of divergence, a particular text shall prevail.   
 2.  A version of the treaty in a language other than one of those in which the text was authenticated shall be considered an authentic text only if the treaty so provides or the parties so agree.   
 3.  The terms of the treaty are presumed to have the same meaning in each authentic text.   
-4.  Except where a particular text prevails in accordance with paragraph 1, when a comparison of the authentic texts discloses a difference of meaning which the application of articles 31 and 32 does not remove, the meaning which best reconciles the texts, having regard to the object and purpose of the treaty, shall be adopted.   
+4.  Except where a particular text prevails in accordance with paragraph 1, when a comparison of the authentic texts discloses a difference of meaning which the application of articles 31 and 32 does not remove, the meaning which best reconciles the texts, having regard to the object and purpose of the treaty, shall be adopted.  
 
 ### SECTION  4  
 
@@ -396,33 +396,33 @@ Recourse may be had to supplementary means of interpretation, including the prep
 
 ####General rule regarding third States
 
-A treaty does not create either obligations or rights for a third State without its consent.  
+A treaty does not create either obligations or rights for a third State without its consent. 
 
 ### Article  35  
 
 ####Treaties providing for obligations for third States
 
-An obligation arises for a third State from a provision of a treaty if the parties to the treaty intend the provision to be the means of establishing the obligation and the third State expressly accepts that obligation in writing.  
+An obligation arises for a third State from a provision of a treaty if the parties to the treaty intend the provision to be the means of establishing the obligation and the third State expressly accepts that obligation in writing. 
 
 ### Article  36  
 
 ####Treaties providing for rights for third States
 
 1.  A right arises for a third State from a provision of a treaty if the parties to the treaty intend the provision to accord that right either to the third State, or to a group of States to which it belongs, or to all States, and the third State assents thereto. Its assent shall be presumed so long as the contrary is not indicated, unless the treaty otherwise provides.   
-2.  A State exercising a right in accordance with paragraph 1 shall comply with the conditions for its exercise provided for in the treaty or established in conformity with the treaty.   
+2.  A State exercising a right in accordance with paragraph 1 shall comply with the conditions for its exercise provided for in the treaty or established in conformity with the treaty.  
 
 ### Article  37  
 
 ####Revocation or modification of obligations or rights of third States
 
 1.  When an obligation has arisen for a third State in conformity with article 35, the obligation may be revoked or modified only with the consent of the parties to the treaty and of the third State, unless it is established that they had otherwise agreed.   
-2.  When a right has arisen for a third State in conformity with article 36, the right may not be revoked or modified by the parties if it is established that the right was intended not to be revocable or subject to modification without the consent of the third State.   
+2.  When a right has arisen for a third State in conformity with article 36, the right may not be revoked or modified by the parties if it is established that the right was intended not to be revocable or subject to modification without the consent of the third State.  
 
 ### Article  38  
 
 ####Rules in a treaty becoming binding on third States through international custom
 
-Nothing in articles 34 to 37 precludes a rule set forth in a treaty from becoming binding upon a third State as a customary rule of international law, recognized as such.  
+Nothing in articles 34 to 37 precludes a rule set forth in a treaty from becoming binding upon a third State as a customary rule of international law, recognized as such. 
 
 ### PART  IV  
 
@@ -432,7 +432,7 @@ Nothing in articles 34 to 37 precludes a rule set forth in a treaty from becomin
 
 ####General rule regarding the amendment of treaties
 
-A treaty may be amended by agreement between the parties. The rules laid down in Part II apply to such an agreement except in so far as the treaty may otherwise provide.  
+A treaty may be amended by agreement between the parties. The rules laid down in Part II apply to such an agreement except in so far as the treaty may otherwise provide. 
 
 ### Article  40  
 
@@ -450,7 +450,7 @@ A treaty may be amended by agreement between the parties. The rules laid down in
 
 (a) be considered as a party to the treaty as amended; and  
 
-(b) be considered as a party to the unamended treaty in relation to any party to the treaty not bound by the amending agreement.     
+(b) be considered as a party to the unamended treaty in relation to any party to the treaty not bound by the amending agreement.    
 
 ### Article  41  
 
@@ -465,7 +465,7 @@ A treaty may be amended by agreement between the parties. The rules laid down in
 (i) does not affect the enjoyment by the other parties of their rights under the treaty or the performance of their obligations;  
 
 (ii) does not relate to a provision, derogation from which is incompatible with the effective execution of the object and purpose of the treaty as a whole.       
-2.  Unless in a case falling under paragraph l(a) the treaty otherwise provides, the parties in question shall notify the other parties of their intention to conclude the agreement and of the modification to the treaty for which it provides.   
+2.  Unless in a case falling under paragraph l(a) the treaty otherwise provides, the parties in question shall notify the other parties of their intention to conclude the agreement and of the modification to the treaty for which it provides.  
 
 ### PART  V  
 
@@ -480,13 +480,13 @@ A treaty may be amended by agreement between the parties. The rules laid down in
 ####Validity and continuance in force of treaties
 
 1.  The validity of a treaty or of the consent of a State to be bound by a treaty may be impeached only through the application of the present Convention.   
-2.  The termination of a treaty, its denunciation or the withdrawal of a party, may take place only as a result of the application of the provisions of the treaty or of the present Convention. The same rule applies to suspension of the operation of a treaty.   
+2.  The termination of a treaty, its denunciation or the withdrawal of a party, may take place only as a result of the application of the provisions of the treaty or of the present Convention. The same rule applies to suspension of the operation of a treaty.  
 
 ### Article  43  
 
 ####Obligations imposed by international law independently of a treaty
 
-The invalidity, termination or denunciation of a treaty, the withdrawal of a party from it, or the suspension of its operation, as a result of the application of the present Convention or of the provisions of the treaty, shall not in any way impair the duty of any State to fulfil any obligation embodied in the treaty to which it would be subject under international law independently of the treaty.  
+The invalidity, termination or denunciation of a treaty, the withdrawal of a party from it, or the suspension of its operation, as a result of the application of the present Convention or of the provisions of the treaty, shall not in any way impair the duty of any State to fulfil any obligation embodied in the treaty to which it would be subject under international law independently of the treaty. 
 
 ### Article  44  
 
@@ -502,7 +502,7 @@ The invalidity, termination or denunciation of a treaty, the withdrawal of a par
 
 (c) continued performance of the remainder of the treaty would not be unjust.     
 4.  In cases falling under articles 49 and 50 the State entitled to invoke the fraud or corruption may do so with respect either to the whole treaty or, subject to paragraph 3, to the particular clauses alone.   
-5.  In cases falling under articles 51, 52 and 53, no separation of the provisions of the treaty is permitted.   
+5.  In cases falling under articles 51, 52 and 53, no separation of the provisions of the treaty is permitted.  
 
 ### Article  45  
 
@@ -512,7 +512,7 @@ A State may no longer invoke a ground for invalidating, terminating, withdrawing
 
 (a) it shall have expressly agreed that the treaty is valid or remains in force or continues in operation, as the case may be; or  
 
-(b) it must by reason of its conduct be considered as having acquiesced in the validity of the treaty or in its maintenance in force or in operation, as the case may be.    
+(b) it must by reason of its conduct be considered as having acquiesced in the validity of the treaty or in its maintenance in force or in operation, as the case may be.   
 
 ### SECTION  2  
 
@@ -523,13 +523,13 @@ A State may no longer invoke a ground for invalidating, terminating, withdrawing
 ####Provisions of internal law regarding competence to conclude treaties
 
 1.  A State may not invoke the fact that its consent to be bound by a treaty has been expressed in violation of a provision of its internal law regarding competence to conclude treaties as invalidating its consent unless that violation was manifest and concerned a rule of its internal law of fundamental importance.   
-2.  A violation is manifest if it would be objectively evident to any State conducting itself in the matter in accordance with normal practice and in good faith.   
+2.  A violation is manifest if it would be objectively evident to any State conducting itself in the matter in accordance with normal practice and in good faith.  
 
 ### Article  47  
 
 ####Specific restrictions on authority to express the consent of a State
 
-If the authority of a representative to express the consent of a State to be bound by a particular treaty has been made subject to a specific restriction, his omission to observe that restriction may not be invoked as invalidating the consent expressed by him unless the restriction was notified to the other negotiating States prior to his expressing such consent.  
+If the authority of a representative to express the consent of a State to be bound by a particular treaty has been made subject to a specific restriction, his omission to observe that restriction may not be invoked as invalidating the consent expressed by him unless the restriction was notified to the other negotiating States prior to his expressing such consent. 
 
 ### Article  48  
 
@@ -537,37 +537,37 @@ If the authority of a representative to express the consent of a State to be bou
 
 1.  A State may invoke an error in a treaty as invalidating its consent to be bound by the treaty if the error relates to a fact or situation which was assumed by that State to exist at the time when the treaty was concluded and formed an essential basis of its consent to be bound by the treaty.   
 2.  Paragraph 1 shall not apply if the State in question contributed by its own conduct to the error or if the circumstances were such as to put that State on notice of a possible error.   
-3.  An error relating only to the wording of the text of a treaty does not affect its validity; article 79 then applies.   
+3.  An error relating only to the wording of the text of a treaty does not affect its validity; article 79 then applies.  
 
 ### Article  49  
 
 ####Fraud
 
-If a State has been induced to conclude a treaty by the fraudulent conduct of another negotiating State, the State may invoke the fraud as invalidating its consent to be bound by the treaty.  
+If a State has been induced to conclude a treaty by the fraudulent conduct of another negotiating State, the State may invoke the fraud as invalidating its consent to be bound by the treaty. 
 
 ### Article  50  
 
 ####Corruption of a representative of a State
 
-If the expression of a State's consent to be bound by a treaty has been procured through the corruption of its representative directly or indirectly by another negotiating State, the State may invoke such corruption as invalidating its consent to be bound by the treaty.  
+If the expression of a State's consent to be bound by a treaty has been procured through the corruption of its representative directly or indirectly by another negotiating State, the State may invoke such corruption as invalidating its consent to be bound by the treaty. 
 
 ### Article  51  
 
 ####Coercion of a representative of a State
 
-The expression of a State's consent to be bound by a treaty which has been procured by the coercion of its representative through acts or threats directed against him shall be without any legal effect.  
+The expression of a State's consent to be bound by a treaty which has been procured by the coercion of its representative through acts or threats directed against him shall be without any legal effect. 
 
 ### Article  52  
 
 ####Coercion of a State by the threat or use of force
 
-A treaty is void if its conclusion has been procured by the threat or use of force in violation of the principles of international law embodied in the Charter of the United Nations.  
+A treaty is void if its conclusion has been procured by the threat or use of force in violation of the principles of international law embodied in the [Charter of the United Nations](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). 
 
 ### Article  53  
 
 ####Treaties conflicting with a peremptory norm of general international law (jus cogens)
 
-A treaty is void if, at the time of its conclusion, it conflicts with a peremptory norm of general international law. For the purposes of the present Convention, a peremptory norm of general international law is a norm accepted and recognized by the international community of States as a whole as a norm from which no derogation is permitted and which can be modified only by a subsequent norm of general international law having the same character.  
+A treaty is void if, at the time of its conclusion, it conflicts with a peremptory norm of general international law. For the purposes of the present Convention, a peremptory norm of general international law is a norm accepted and recognized by the international community of States as a whole as a norm from which no derogation is permitted and which can be modified only by a subsequent norm of general international law having the same character. 
 
 ### SECTION  3  
 
@@ -581,13 +581,13 @@ The termination of a treaty or the withdrawal of a party may take place:
 
 (a) in conformity with the provisions of the treaty; or  
 
-(b) at any time by consent of all the parties after consultation with the other contracting States.    
+(b) at any time by consent of all the parties after consultation with the other contracting States.   
 
 ### Article  55  
 
 ####Reduction of the parties to a multilateral treaty below the number necessary for its entry into force
 
-Unless the treaty otherwise provides, a multilateral treaty does not terminate by reason only of the fact that the number of the parties falls below the number necessary for its entry into force.  
+Unless the treaty otherwise provides, a multilateral treaty does not terminate by reason only of the fact that the number of the parties falls below the number necessary for its entry into force. 
 
 ### Article  56  
 
@@ -598,7 +598,7 @@ Unless the treaty otherwise provides, a multilateral treaty does not terminate b
 (a) it is established that the parties intended to admit the possibility of denunciation or withdrawal; or  
 
 (b) a right of denunciation or withdrawal may be implied by the nature of the treaty.     
-2.  A party shall give not less than twelve months' notice of its intention to denounce or withdraw from a treaty under paragraph 1.   
+2.  A party shall give not less than twelve months' notice of its intention to denounce or withdraw from a treaty under paragraph 1.  
 
 ### Article  57  
 
@@ -608,7 +608,7 @@ The operation of a treaty in regard to all the parties or to a particular party 
 
 (a) in conformity with the provisions of the treaty; or  
 
-(b) at any time by consent of all the parties after consultation with the other contracting States.    
+(b) at any time by consent of all the parties after consultation with the other contracting States.   
 
 ### Article  58  
 
@@ -623,7 +623,7 @@ The operation of a treaty in regard to all the parties or to a particular party 
 (i) does not affect the enjoyment by the other parties of their rights under the treaty or the performance of their obligations;  
 
 (ii) is not incompatible with the object and purpose of the treaty.       
-2.  Unless in a case falling under paragraph l(a) the treaty otherwise provides, the parties in question shall notify the other parties of their intention to conclude the agreement and of those provisions of the treaty the operation of which they intend to suspend.   
+2.  Unless in a case falling under paragraph l(a) the treaty otherwise provides, the parties in question shall notify the other parties of their intention to conclude the agreement and of those provisions of the treaty the operation of which they intend to suspend.  
 
 ### Article  59  
 
@@ -634,7 +634,7 @@ The operation of a treaty in regard to all the parties or to a particular party 
 (a) it appears from the later treaty or is otherwise established that the parties intended that the matter should be governed by that treaty; or  
 
 (b) the provisions of the later treaty are so far incompatible with those of the earlier one that the two treaties are not capable of being applied at the same time.     
-2.  The earlier treaty shall be considered as only suspended in operation if it appears from the later treaty or is otherwise established that such was the intention of the parties.   
+2.  The earlier treaty shall be considered as only suspended in operation if it appears from the later treaty or is otherwise established that such was the intention of the parties.  
 
 ### Article  60  
 
@@ -658,14 +658,14 @@ The operation of a treaty in regard to all the parties or to a particular party 
 
 (b) the violation of a provision essential to the accomplishment of the object or purpose of the treaty.     
 4.  The foregoing paragraphs are without prejudice to any provision in the treaty applicable in the event of a breach.   
-5.  Paragraphs 1 to 3 do not apply to provisions relating to the protection of the human person contained in treaties of a humanitarian character, in particular to provisions prohibiting any form of reprisals against persons protected by such treaties.   
+5.  Paragraphs 1 to 3 do not apply to provisions relating to the protection of the human person contained in treaties of a humanitarian character, in particular to provisions prohibiting any form of reprisals against persons protected by such treaties.  
 
 ### Article  61  
 
 ####Supervening impossibility of performance
 
 1.  A party may invoke the impossibility of performing a treaty as a ground for terminating or withdrawing from it if the impossibility results from the permanent disappearance or destruction of an object indispensable for the execution of the treaty. If the impossibility is temporary, it may be invoked only as a ground for suspending the operation of the treaty.   
-2.  Impossiblity of performance may not be invoked by a party as a ground for terminating, withdrawing from or suspending the operation of a treaty if the impossibility is the result of a breach by that party either of an obligation under the treaty or of any other international obligation owed to any other party to the treaty.   
+2.  Impossiblity of performance may not be invoked by a party as a ground for terminating, withdrawing from or suspending the operation of a treaty if the impossibility is the result of a breach by that party either of an obligation under the treaty or of any other international obligation owed to any other party to the treaty.  
 
 ### Article  62  
 
@@ -681,19 +681,19 @@ The operation of a treaty in regard to all the parties or to a particular party 
 (a) if the treaty establishes a boundary; or  
 
 (b) if the fundamental change is the result of a breach by the party invoking it either of an obligation under the treaty or of any other international obligation owed to any other party to the treaty.     
-3.  If, under the foregoing paragraphs, a party may invoke a fundamental change of circumstances as a ground for terminating or withdrawing from a treaty it may also invoke the change as a ground for suspending the operation of the treaty.   
+3.  If, under the foregoing paragraphs, a party may invoke a fundamental change of circumstances as a ground for terminating or withdrawing from a treaty it may also invoke the change as a ground for suspending the operation of the treaty.  
 
 ### Article  63  
 
 ####Severance of diplomatic or consular relations
 
-The severance of diplomatic or consular relations between parties to a treaty does not affect the legal relations established between them by the treaty except in so far as the existence of diplomatic or consular relations is indispensable for the application of the treaty.  
+The severance of diplomatic or consular relations between parties to a treaty does not affect the legal relations established between them by the treaty except in so far as the existence of diplomatic or consular relations is indispensable for the application of the treaty. 
 
 ### Article  64  
 
 ####Emergence of a new peremptory norm of general international law (jus cogens)
 
-If a new peremptory norm of general international law emerges, any existing treaty which is in conflict with that norm becomes void and terminates.  
+If a new peremptory norm of general international law emerges, any existing treaty which is in conflict with that norm becomes void and terminates. 
 
 ### SECTION  4  
 
@@ -705,9 +705,9 @@ If a new peremptory norm of general international law emerges, any existing trea
 
 1.  A party which, under the provisions of the present Convention, invokes either a defect in its consent to be bound by a treaty or a ground for impeaching the validity of a treaty, terminating it, withdrawing from it or suspending its operation, must notify the other parties of its claim. The notification shall indicate the measure proposed to be taken with respect to the treaty and the reasons therefor.   
 2.  If, after the expiry of a period which, except in cases of special urgency, shall not be less than three months after the receipt of the notification, no party has raised any objection, the party making the notification may carry out in the manner provided in article 67 the measure which it has proposed.   
-3.  If, however, objection has been raised by any other party, the parties shall seek a solution through the means indicated in Article 33 of the Charter of the United Nations.   
+3.  If, however, objection has been raised by any other party, the parties shall seek a solution through the means indicated in [Article 33 of the Charter of the United Nations](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
 4.  Nothing in the foregoing paragraphs shall affect the rights or obligations of the parties under any provisions in force binding the parties with regard to the settlement of disputes.   
-5.  Without prejudice to article 45, the fact that a State has not previously made the notification prescribed in paragraph 1 shall not prevent it from making such notification in answer to another party claiming performance of the treaty or alleging its violation.   
+5.  Without prejudice to article 45, the fact that a State has not previously made the notification prescribed in paragraph 1 shall not prevent it from making such notification in answer to another party claiming performance of the treaty or alleging its violation.  
 
 ### Article  66  
 
@@ -717,20 +717,20 @@ If, under paragraph 3 of article 65, no solution has been reached within a perio
 
 (a) any one of the parties to a dispute concerning the application or the interpretation of article 53 or 64 may, by a written application, submit it to the International Court of Justice for a decision unless the parties by common consent agree to submit the dispute to arbitration;  
 
-(b) any one of the parties to a dispute concerning the application or the interpretation of any of the other articles in Part V of the present Convention may set in motion, the procedure specified in the Annex to the Convention by submitting a request to that effect to the Secretary-General of the United Nations.    
+(b) any one of the parties to a dispute concerning the application or the interpretation of any of the other articles in Part V of the present Convention may set in motion, the procedure specified in the Annex to the Convention by submitting a request to that effect to the Secretary-General of the United Nations.   
 
 ### Article  67  
 
 ####Instruments for declaring invalid, terminating, withdrawing from or suspending the operation of a treaty
 
 1.  The notification provided for under article 65, paragraph 1 must be made in writing.   
-2.  Any act declaring invalid, terminating, withdrawing from or suspending the operation of a treaty pursuant to the provisions of the treaty or of paragraphs 2 or 3 of article 65 shall be carried out through an instrument communicated to the other parties. If the instrument is not signed by the Head of State, Head of Government or Minister for Foreign Affairs, the representative of the State communicating it may be called upton to produce full powers.   
+2.  Any act declaring invalid, terminating, withdrawing from or suspending the operation of a treaty pursuant to the provisions of the treaty or of paragraphs 2 or 3 of article 65 shall be carried out through an instrument communicated to the other parties. If the instrument is not signed by the Head of State, Head of Government or Minister for Foreign Affairs, the representative of the State communicating it may be called upton to produce full powers.  
 
 ### Article  68  
 
 ####Revocation of notifications and instruments provided for in articles 65 and 67
 
-A notification or instrument provided for in articles 65 or 67 may be revoked at any time before it takes effect.  
+A notification or instrument provided for in articles 65 or 67 may be revoked at any time before it takes effect. 
 
 ### SECTION  5  
 
@@ -747,7 +747,7 @@ A notification or instrument provided for in articles 65 or 67 may be revoked at
 
 (b) acts performed in good faith before the invalidity was invoked are not rendered unlawful by reason only of the invalidity of the treaty.     
 3.  In cases falling under articles 49, 50, 51 or 52, paragraph 2 does not apply with respect to the party to which the fraud, the act of corruption or the coercion is imputable.   
-4.  In the case of the invalidity of a particular State's consent to be bound by a multilateral treaty, the foregoing rules apply in the relations between that State and the parties to the treaty.   
+4.  In the case of the invalidity of a particular State's consent to be bound by a multilateral treaty, the foregoing rules apply in the relations between that State and the parties to the treaty.  
 
 ### Article  70  
 
@@ -758,7 +758,7 @@ A notification or instrument provided for in articles 65 or 67 may be revoked at
 (a) releases the parties from any obligation further to perform the treaty;  
 
 (b) does not affect any right, obligation or legal situation of the parties created through the execution of the treaty prior to its termination.     
-2.  If a State denounces or withdraws from a multilateral treaty, paragraph 1 applies in the relations between that State and each of the other parties to the treaty from the date when such denunciation or withdrawal takes effect.   
+2.  If a State denounces or withdraws from a multilateral treaty, paragraph 1 applies in the relations between that State and each of the other parties to the treaty from the date when such denunciation or withdrawal takes effect.  
 
 ### Article  71  
 
@@ -773,7 +773,7 @@ A notification or instrument provided for in articles 65 or 67 may be revoked at
 
 (a) releases the parties from any obligation further to perform the treaty;  
 
-(b) does not affect any right, obligation or legal situation of the parties created through the execution of the treaty prior to its termination; provided that those rights, obligations or situations may thereafter be maintained only to the extent that their maintenance is not in itself in conflict with the new peremptory norm of general international law.     
+(b) does not affect any right, obligation or legal situation of the parties created through the execution of the treaty prior to its termination; provided that those rights, obligations or situations may thereafter be maintained only to the extent that their maintenance is not in itself in conflict with the new peremptory norm of general international law.    
 
 ### Article  72  
 
@@ -784,7 +784,7 @@ A notification or instrument provided for in articles 65 or 67 may be revoked at
 (a) releases the parties between which the operation of the treaty is suspended from the obligation to perform the treaty in their mutual relations during the period of the suspension;  
 
 (b) does not otherwise affect the legal relations between the parties established by the treaty.     
-2.  During the period of the suspension the parties shall refrain from acts tending to obstruct the resumption of the operation of the treaty.   
+2.  During the period of the suspension the parties shall refrain from acts tending to obstruct the resumption of the operation of the treaty.  
 
 ### PART  VI  
 
@@ -794,19 +794,19 @@ A notification or instrument provided for in articles 65 or 67 may be revoked at
 
 ####Cases of State succession, State responsibility and outbreak of hostilities
 
-The provisions of the present Convention shall not prejudge any question that may arise in regard to a treaty from a succession of States or from the international responsibility of a State or from the outbreak of hostilities between States.  
+The provisions of the present Convention shall not prejudge any question that may arise in regard to a treaty from a succession of States or from the international responsibility of a State or from the outbreak of hostilities between States. 
 
 ### Article  74  
 
 ####Diplomatic and consular relations and the conclusion of treaties
 
-The severance or absence of diplomatic or consular relations between two or more States does not prevent the conclusion of treaties between those States. The conclusion of a treaty does not in itself affect the situation in regard to diplomatic or consular relations.  
+The severance or absence of diplomatic or consular relations between two or more States does not prevent the conclusion of treaties between those States. The conclusion of a treaty does not in itself affect the situation in regard to diplomatic or consular relations. 
 
 ### Article  75  
 
 ####Case of an aggressor State
 
-The provisions of the present Convention are without prejudice to any obligation in relation to a treaty which may arise for an aggressor State in consequence of measures taken in conformity with the Charter of the United Nations with reference to that State's aggression.  
+The provisions of the present Convention are without prejudice to any obligation in relation to a treaty which may arise for an aggressor State in consequence of measures taken in conformity with the [Charter of the United Nations](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) with reference to that State's aggression. 
 
 ### PART  VII  
 
@@ -817,7 +817,7 @@ The provisions of the present Convention are without prejudice to any obligation
 ####Depositaries of treaties
 
 1.  The designation of the depositary of a treaty may be made by the negotiating States, either in the treaty itself or in some other manner. The depositary may be one or more States, an international organization or the chief administrative officer of the organization.   
-2.  The functions of the depositary of a treaty are international in character and the depositary is under an obligation to act impartially in their performance. In particular, the fact that a treaty has not entered into force between certain of the parties or that a difference has appeared between a State and a depositary with regard to the performance of the latter's functions shall not affect that obligation.   
+2.  The functions of the depositary of a treaty are international in character and the depositary is under an obligation to act impartially in their performance. In particular, the fact that a treaty has not entered into force between certain of the parties or that a difference has appeared between a State and a depositary with regard to the performance of the latter's functions shall not affect that obligation.  
 
 ### Article  77  
 
@@ -829,7 +829,7 @@ The provisions of the present Convention are without prejudice to any obligation
 
 (b) preparing certified copies of the original text and preparing any further text of the treaty in such additional languages as may be required by the treaty and transmitting them to the parties and to the States entitled to become parties to the treaty;  
 
-(c) receiving any signatures to the treaty and receiving and keeping custody of any instruments, notifications and commuations relating to it;  
+(c) receiving any signatures to the treaty and receiving and keeping custody of any instruments, notifications and communications relating to it;  
 
 (d) examining whether the signature or any instrument, notification or communication relating to the treaty is in due and proper form and, if need be, bringing the matter to the attention of the State in question;  
 
@@ -840,7 +840,7 @@ The provisions of the present Convention are without prejudice to any obligation
 (g) registering the treaty with the Secretariat of the United Nations;  
 
 (h) performing the functions specified in other provisions of the present Convention.     
-2.  In the event of any difference appearing between a State and the depositary as to the performance of the latter's functions, the depositary shall bring the question to the attention of the signatory States and the contracting States or, where appropriate, of the competent organ of the international organization concerned.   
+2.  In the event of any difference appearing between a State and the depositary as to the performance of the latter's functions, the depositary shall bring the question to the attention of the signatory States and the contracting States or, where appropriate, of the competent organ of the international organization concerned.  
 
 ### Article  78  
 
@@ -852,7 +852,7 @@ Except as the treaty or the present Convention otherwise provide, any notificati
 
 (b) be considered as having been made by the State in question only upon its receipt by the State to which it was transmitted or, as the case may be, upon its receipt by the depositary;  
 
-(c) if transmitted to a depositary, be considered as received by the State for which it was intended only when the latter State has been informed by the depositary in accordance with article 77, paragraph 1 (e).    
+(c) if transmitted to a depositary, be considered as received by the State for which it was intended only when the latter State has been informed by the depositary in accordance with article 77, paragraph 1 (e).   
 
 ### Article  79  
 
@@ -873,14 +873,14 @@ Except as the treaty or the present Convention otherwise provide, any notificati
 3.  The rules in paragraphs 1 and 2 apply also where the text has been authenticated in two or more languages and it appears that there is a lack of concordance which the signatory States and the contracting States agree should be corrected.   
 4.  The corrected text replaces the defective text *ab initio,* unless the signatory States and the contracting States otherwise decide.   
 5.  The correction of the text of a treaty that has been registered shall be notified to the Secretariat of the United Nations.   
-6.  Where an error is discovered in a certified copy of a treaty, the depositary shall execute a *procès-verbal* specifying the rectification and communicate a copy of it to the signatory States and to the contracting States.   
+6.  Where an error is discovered in a certified copy of a treaty, the depositary shall execute a *procès-verbal* specifying the rectification and communicate a copy of it to the signatory States and to the contracting States.  
 
 ### Article  80  
 
 ####Registration and publication of treaties
 
 1.  Treaties shall, after their entry into force, be transmitted to the Secretariat of the United Nations for registration or filing and recording, as the case may be, and for publication.   
-2.  The designation of a depositary shall constitute authorization for it to perform the acts specified in the preceding paragraph.   
+2.  The designation of a depositary shall constitute authorization for it to perform the acts specified in the preceding paragraph.  
 
 ### PART  VIII  
 
@@ -890,32 +890,32 @@ Except as the treaty or the present Convention otherwise provide, any notificati
 
 ####Signature
 
-The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialized agencies or of the International Atomic Energy Agency or parties to the Statute of the International Court of Justice, and by any other State invited by the General Assembly of the United Nations to become a party to the Convention, as follows: until 30 November 1969, at the Federal Ministry for Foreign Affairs of the Republic of Austria, and subsequently, until 30 April 1970, at United Nations Headquarters, New York.  
+The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialized agencies or of the International Atomic Energy Agency or parties to the [Statute of the International Court of Justice](../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md), and by any other State invited by the General Assembly of the United Nations to become a party to the Convention, as follows: until 30 November 1969, at the Federal Ministry for Foreign Affairs of the Republic of Austria, and subsequently, until 30 April 1970, at United Nations Headquarters, New York. 
 
 ### Article  82  
 
 ####Ratification
 
-The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.  
+The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations. 
 
 ### Article  83  
 
 ####Accession
 
-The present Convention shall remain open for accession by any State belonging to any of the categories mentioned in article 81. The instruments of accession shall be deposited with the Secretary-General of the United Nations.  
+The present Convention shall remain open for accession by any State belonging to any of the categories mentioned in article 81. The instruments of accession shall be deposited with the Secretary-General of the United Nations. 
 
 ### Article  84  
 
 ####Entry into force
 
 1.  The present Convention shall enter into force on the thirtieth day following the date of deposit of the thirty-fifth instrument of ratification or accession.   
-2.  For each State ratifying or acceding to the Convention after the deposit of the thirty-fifth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.   
+2.  For each State ratifying or acceding to the Convention after the deposit of the thirty-fifth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.  
 
 ### Article  85  
 
 ####Authentic texts
 
-The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.  
+The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations. 
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized thereto by their respective Governments, have signed the present Convention. DONE AT VIENNA, this twenty-third day of May, one thousand nine hundred and sixty-nine.  
 
@@ -1069,7 +1069,7 @@ The United Nations Conference on the Law of Treaties, Having adopted the Vienna 
 
 ####Verdrag van Wenen inzake het verdragenrecht
 
-De Staten die Partij zijn bij dit Verdrag, In overweging nemend de fundamentele rol van verdragen in de geschiedenis van de internationale betrekkingen, Zich bewust van het steeds toenemend belang van verdragen als bron van volkenrecht en als middel ter ontwikkeling van de vreedzame samenwerking tussen de naties, ongeacht hun constitutionele en sociale stelsels, Vaststellend dat de beginselen van vrijwillige instemming en van goede trouw en de regel *pacta sunt servanda* algemeen erkend worden, Bevestigend dat geschillen betreffende verdragen, evenals andere internationale geschillen, dienen te worden geregeld langs vreedzame weg en overeenkomstig de beginselen van gerechtigheid en het volkenrecht, Herinnerend aan de vastbeslotenheid van de volken van de Verenigde Naties tot het scheppen van de voorwaarden die noodzakelijk zijn voor het handhaven van de gerechtigheid en de eerbiediging van de uit verdragen voortvloeiende verplichtingen, Indachtig de beginselen van het volkenrecht, neergelegd in het Handvest van de Verenigde Naties, als daar zijn de beginselen van de gelijkgerechtigdheid der volken en hun recht op zelfbeschikking, de soevereine gelijkheid en de onafhankelijkheid van alle Staten, het zich niet mengen in binnenlandse aangelegenheden van Staten, het verbod van het dreigen met of het gebruikmaken van geweld en de universele en daadwerkelijke eerbied voor de rechten van de mens en fundamentele vrijheden voor allen, Van oordeel zijnde dat de codificatie en de geleidelijke ontwikkeling van het in dit Verdrag neergelegde verdragenrecht de in het Handvest omschreven doelstellingen van de Verenigde Naties zullen bevorderen, te weten: het handhaven van de internationale vrede en veiligheid, het ontwikkelen van vriendschappelijke betrekkingen tussen de naties en de verwezenlijking van de internationale samenwerking, Bevestigend dat de vraagstukken die niet door de bepalingen van dit Verdrag worden geregeld, zullen worden beheerst door de regels van het internationale gewoonterecht,   Zijn overeengekomen als volgt:     
+De Staten die Partij zijn bij dit Verdrag, In overweging nemend de fundamentele rol van verdragen in de geschiedenis van de internationale betrekkingen, Zich bewust van het steeds toenemend belang van verdragen als bron van volkenrecht en als middel ter ontwikkeling van de vreedzame samenwerking tussen de naties, ongeacht hun constitutionele en sociale stelsels, Vaststellend dat de beginselen van vrijwillige instemming en van goede trouw en de regel *pacta sunt servanda* algemeen erkend worden, Bevestigend dat geschillen betreffende verdragen, evenals andere internationale geschillen, dienen te worden geregeld langs vreedzame weg en overeenkomstig de beginselen van gerechtigheid en het volkenrecht, Herinnerend aan de vastbeslotenheid van de volken van de Verenigde Naties tot het scheppen van de voorwaarden die noodzakelijk zijn voor het handhaven van de gerechtigheid en de eerbiediging van de uit verdragen voortvloeiende verplichtingen, Indachtig de beginselen van het volkenrecht, neergelegd in het [Handvest van de Verenigde Naties](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), als daar zijn de beginselen van de gelijkgerechtigdheid der volken en hun recht op zelfbeschikking, de soevereine gelijkheid en de onafhankelijkheid van alle Staten, het zich niet mengen in binnenlandse aangelegenheden van Staten, het verbod van het dreigen met of het gebruikmaken van geweld en de universele en daadwerkelijke eerbied voor de rechten van de mens en fundamentele vrijheden voor allen, Van oordeel zijnde dat de codificatie en de geleidelijke ontwikkeling van het in dit Verdrag neergelegde verdragenrecht de in het [Handvest](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) omschreven doelstellingen van de Verenigde Naties zullen bevorderen, te weten: het handhaven van de internationale vrede en veiligheid, het ontwikkelen van vriendschappelijke betrekkingen tussen de naties en de verwezenlijking van de internationale samenwerking, Bevestigend dat de vraagstukken die niet door de bepalingen van dit Verdrag worden geregeld, zullen worden beheerst door de regels van het internationale gewoonterecht,   Zijn overeengekomen als volgt:     
 ### DEEL  I  
 
 ####Inleiding
@@ -1078,7 +1078,7 @@ De Staten die Partij zijn bij dit Verdrag, In overweging nemend de fundamentele 
 
 ####Werkingssfeer van dit Verdrag
 
-Dit Verdrag is van toepassing op verdragen tussen Staten.  
+Dit Verdrag is van toepassing op verdragen tussen Staten. 
 
 ### Artikel  2  
 
@@ -1103,7 +1103,7 @@ g) „partij”: een Staat die heeft ingestemd door het verdrag gebonden te word
 h) „derde Staat”: een Staat die geen partij is bij het verdrag;  
 
 i) „internationale organisatie”: een intergouvernementele organisatie.     
-2.  De bepalingen van het eerste lid aangaande de in dit Verdrag gebezigde uitdrukkingen laten onverlet het gebruik van deze termen of de betekenis die er in het nationale recht van een Staat aan kan worden gehecht.   
+2.  De bepalingen van het eerste lid aangaande de in dit Verdrag gebezigde uitdrukkingen laten onverlet het gebruik van deze termen of de betekenis die er in het nationale recht van een Staat aan kan worden gehecht.  
 
 ### Artikel  3  
 
@@ -1115,19 +1115,19 @@ a) de rechtskracht van zodanige overeenkomsten;
 
 b) de toepassing op deze overeenkomsten van alle in dit Verdrag vastgelegde regels waaraan zij onafhankelijk van dit Verdrag krachtens het volkenrecht zouden zijn onderworpen;  
 
-c) de toepassing van het Verdrag op de betrekkingen tussen Staten, geregeld door internationale overeenkomsten waarbij andere subjecten van volkenrecht eveneens partij zijn.    
+c) de toepassing van het Verdrag op de betrekkingen tussen Staten, geregeld door internationale overeenkomsten waarbij andere subjecten van volkenrecht eveneens partij zijn.   
 
 ### Artikel  4  
 
 ####De niet-terugwerkende kracht van dit Verdrag
 
-Onverminderd de toepassing van de in dit Verdrag vastgelegde regels waaraan verdragen krachtens het volkenrecht los van dit Verdrag zouden zijn onderworpen, is dit Verdrag slechts van toepassing op verdragen gesloten door Staten na zijn inwerkingtreding voor die Staten.  
+Onverminderd de toepassing van de in dit Verdrag vastgelegde regels waaraan verdragen krachtens het volkenrecht los van dit Verdrag zouden zijn onderworpen, is dit Verdrag slechts van toepassing op verdragen gesloten door Staten na zijn inwerkingtreding voor die Staten. 
 
 ### Artikel  5  
 
 ####Verdragen ter oprichting van internationale organisaties en verdragen aangenomen binnen een internationale organisatie
 
-Dit Verdrag is van toepassing op elk verdrag dat de oprichtingsakte van een internationale organisatie vormt en op elk verdrag, aangenomen binnen een internationale organisatie, behoudens de ter zake dienende regels van de organisatie.  
+Dit Verdrag is van toepassing op elk verdrag dat de oprichtingsakte van een internationale organisatie vormt en op elk verdrag, aangenomen binnen een internationale organisatie, behoudens de ter zake dienende regels van de organisatie. 
 
 ### DEEL  II  
 
@@ -1141,7 +1141,7 @@ Dit Verdrag is van toepassing op elk verdrag dat de oprichtingsakte van een inte
 
 ####Bevoegdheid der Staten tot het sluiten van verdragen
 
-Elke Staat is bevoegd tot het sluiten van verdragen.  
+Elke Staat is bevoegd tot het sluiten van verdragen. 
 
 ### Artikel  7  
 
@@ -1158,20 +1158,20 @@ a) Staatshoofden, Regeringsleiders en Ministers van Buitenlandse Zaken, voor all
 
 b) hoofden van diplomatieke missies voor de aanneming van de tekst van een verdrag tussen de accrediterende Staat en de Staat waar zij geaccrediteerd zijn;  
 
-c) geaccrediteerde vertegenwoordigers van Staten bij een internationale conferentie of een internationale organisatie of een van haar organen, voor de aanneming van een verdragstekst in deze conferentie, deze organisatie of dit orgaan.     
+c) geaccrediteerde vertegenwoordigers van Staten bij een internationale conferentie of een internationale organisatie of een van haar organen, voor de aanneming van een verdragstekst in deze conferentie, deze organisatie of dit orgaan.    
 
 ### Artikel  8  
 
 ####Bevestiging achteraf van een zonder machtiging verrichte handeling
 
-Een handeling met betrekking tot het sluiten van een verdrag, verricht door een persoon die niet krachtens artikel 7 beschouwd kan worden gemachtigd te zijn een Staat ten dezen te vertegenwoordigen, is zonder rechtsgevolg tenzij zij achteraf door die Staat wordt bevestigd.  
+Een handeling met betrekking tot het sluiten van een verdrag, verricht door een persoon die niet krachtens artikel 7 beschouwd kan worden gemachtigd te zijn een Staat ten dezen te vertegenwoordigen, is zonder rechtsgevolg tenzij zij achteraf door die Staat wordt bevestigd. 
 
 ### Artikel  9  
 
 ####Aanneming van de tekst
 
 1.  De aanneming van een verdragstekst geschiedt door de instemming van alle Staten die betrokken zijn bij het opstellen, met uitzondering van gevallen voorzien in het tweede lid.   
-2.  De aanneming van een verdragstekst op een internationale conferentie geschiedt door een meerderheid van twee derden van de stemmen van de aanwezige en stemuitbrengende Staten, tenzij die Staten met dezelfde meerderheid besluiten een afwijkende regel toe te passen.   
+2.  De aanneming van een verdragstekst op een internationale conferentie geschiedt door een meerderheid van twee derden van de stemmen van de aanwezige en stemuitbrengende Staten, tenzij die Staten met dezelfde meerderheid besluiten een afwijkende regel toe te passen.  
 
 ### Artikel  10  
 
@@ -1181,13 +1181,13 @@ De verdragstekst wordt als authentiek en definitief vastgesteld:
 
 a) door de procedure, vastgesteld in die tekst of overeengekomen door de aan de opstelling van het verdrag deelnemende Staten; of  
 
-b) indien in een dergelijke procedure niet is voorzien, door ondertekening, ondertekening *ad referendum* of parafering door de vertegenwoordigers van die Staten van de verdragstekst of de slotakte van een conferentie waarin de tekst is opgenomen.    
+b) indien in een dergelijke procedure niet is voorzien, door ondertekening, ondertekening *ad referendum* of parafering door de vertegenwoordigers van die Staten van de verdragstekst of de slotakte van een conferentie waarin de tekst is opgenomen.   
 
 ### Artikel  11  
 
 ####Middelen om de instemming door een verdrag gebonden te worden tot uitdrukking te brengen
 
-De instemming van een Staat door een verdrag gebonden te worden, kan tot uitdrukking worden gebracht door ondertekening, door uitwisseling van akten die een verdrag vormen, door bekrachtiging, aanvaarding, goedkeuring of toetreding, of door ieder ander overeengekomen middel.  
+De instemming van een Staat door een verdrag gebonden te worden, kan tot uitdrukking worden gebracht door ondertekening, door uitwisseling van akten die een verdrag vormen, door bekrachtiging, aanvaarding, goedkeuring of toetreding, of door ieder ander overeengekomen middel. 
 
 ### Artikel  12  
 
@@ -1204,7 +1204,7 @@ c) de bedoeling van de Staat om de ondertekening dit gevolg te geven uit de volm
 
 a) geldt de parafering van een tekst als ondertekening van het verdrag indien het vaststaat dat de Staten die aan de onderhandelingen hebben deelgenomen aldus zijn overeengekomen;  
 
-b) geldt de ondertekening *ad referendum* van een verdrag door de vertegenwoordiger van een Staat, indien zij door die Staat wordt bevestigd, als definitieve ondertekening van het verdrag.     
+b) geldt de ondertekening *ad referendum* van een verdrag door de vertegenwoordiger van een Staat, indien zij door die Staat wordt bevestigd, als definitieve ondertekening van het verdrag.    
 
 ### Artikel  13  
 
@@ -1214,7 +1214,7 @@ De instemming van Staten gebonden te worden door een verdrag, dat wordt gevormd 
 
 a) de akten er in voorzien dat hun uitwisseling dit gevolg heeft; of  
 
-b) het op andere wijze vaststaat, dat die Staten zijn overeengekomen dat de uitwisseling van akten dit gevolg heeft.    
+b) het op andere wijze vaststaat, dat die Staten zijn overeengekomen dat de uitwisseling van akten dit gevolg heeft.   
 
 ### Artikel  14  
 
@@ -1229,7 +1229,7 @@ b) het op andere wijze vaststaat, dat de Staten die aan de onderhandelingen hebb
 c) de vertegenwoordiger van deze Staat het verdrag onder voorbehoud van bekrachtiging heeft ondertekend; of  
 
 d) de bedoeling van deze Staat om het verdrag te ondertekenen onder voorbehoud van bekrachtiging uit de volmacht van zijn vertegenwoordiger blijkt of tijdens de onderhandelingen te kennen is gegeven.     
-2.  De instemming van een Staat door een verdrag gebonden te worden, wordt tot uitdrukking gebracht door aanvaarding of goedkeuring op soortgelijke voorwaarden als die welke gelden voor bekrachtiging.   
+2.  De instemming van een Staat door een verdrag gebonden te worden, wordt tot uitdrukking gebracht door aanvaarding of goedkeuring op soortgelijke voorwaarden als die welke gelden voor bekrachtiging.  
 
 ### Artikel  15  
 
@@ -1241,7 +1241,7 @@ a) het verdrag er in voorziet, dat deze instemming door deze Staat tot uitdrukki
 
 b) het op andere wijze vaststaat, dat de Staten die hebben deelgenomen aan de onderhandelingen zijn overeengekomen dat deze instemming door deze Staat tot uitdrukking kan worden gebracht door toetreding; of  
 
-c) alle partijen nadien zijn overeengekomen dat deze instemming door deze Staat tot uitdrukking kan worden gebracht door toetreding.    
+c) alle partijen nadien zijn overeengekomen dat deze instemming door deze Staat tot uitdrukking kan worden gebracht door toetreding.   
 
 ### Artikel  16  
 
@@ -1253,14 +1253,14 @@ a) hun uitwisseling tussen de verdragsluitende Staten;
 
 b) hun nederlegging bij de depositaris; of  
 
-c) hun kennisgeving aan de verdragsluitende Staten of de depositaris, indien aldus is overeengekomen.    
+c) hun kennisgeving aan de verdragsluitende Staten of de depositaris, indien aldus is overeengekomen.   
 
 ### Artikel  17  
 
 ####Instemming door een deel van een verdrag gebonden te worden en keuze tussen verschillende bepalingen
 
 1.  Onverminderd het bepaalde in de artikelen 19 tot 23 heeft de instemming van een Staat gebonden te worden door een deel van een verdrag slechts gevolgen indien het verdrag dit toelaat of indien de andere verdragsluitende Staten hiermede instemmen.   
-2.  De instemming van een Staat gebonden te worden door een verdrag dat een keuze veroorlooft uit verschillende bepalingen, heeft slechts gevolgen indien duidelijk is aangegeven op welke van de bepalingen de instemming betrekking heeft.   
+2.  De instemming van een Staat gebonden te worden door een verdrag dat een keuze veroorlooft uit verschillende bepalingen, heeft slechts gevolgen indien duidelijk is aangegeven op welke van de bepalingen de instemming betrekking heeft.  
 
 ### Artikel  18  
 
@@ -1270,7 +1270,7 @@ Een Staat moet zich onthouden van handelingen die een verdrag zijn voorwerp en z
 
 a) hij het verdrag heeft ondertekend of de akten die het verdrag vormen heeft uitgewisseld onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, totdat hij zijn bedoeling geen partij te willen worden bij het verdrag kenbaar heeft gemaakt; of  
 
-b) hij zijn instemming door het verdrag gebonden te worden tot uitdrukking heeft gebracht in de periode die aan de inwerkingtreding van het verdrag voorafgaat op voorwaarde dat deze inwerkingtreding niet onnodig wordt vertraagd.    
+b) hij zijn instemming door het verdrag gebonden te worden tot uitdrukking heeft gebracht in de periode die aan de inwerkingtreding van het verdrag voorafgaat op voorwaarde dat deze inwerkingtreding niet onnodig wordt vertraagd.   
 
 ### AFDELING  2  
 
@@ -1286,7 +1286,7 @@ a) dit voorbehoud is verboden door het verdrag;
 
 b) het verdrag bepaalt dat slechts bepaalde voorbehouden, waaronder niet het voorbehoud in kwestie, kunnen worden gemaakt; of  
 
-c) voor zover het andere gevallen dan omschreven onder a) en b) betreft, het voorbehoud niet verenigbaar is met voorwerp en doel van het verdrag.    
+c) voor zover het andere gevallen dan omschreven onder a) en b) betreft, het voorbehoud niet verenigbaar is met voorwerp en doel van het verdrag.   
 
 ### Artikel  20  
 
@@ -1302,7 +1302,7 @@ a) maakt de aanvaarding van een voorbehoud door een andere verdragsluitende Staa
 b) verhindert het bezwaar van een andere verdragsluitende Staat tegen een voorbehoud niet de inwerkingtreding van het verdrag tussen de Staat die het bezwaar heeft aangetekend en de Staat die het voorbehoud heeft gemaakt, tenzij de tegengestelde bedoeling duidelijk is uitgedrukt door de Staat die het bezwaar heeft aangetekend;  
 
 c) wordt een akte, waarin de instemming van een Staat door het verdrag gebonden te worden tot uitdrukking wordt gebracht en die een voorbehoud bevat, van kracht zodra ten minste één andere verdragsluitende Staat het voorbehoud heeft aanvaard.     
-5.  Voor de toepassing van het tweede en vierde lid en indien het verdrag niet anders bepaalt, wordt een voorbehoud geacht te zijn aanvaard door een Staat, indien deze geen bezwaar heeft gemaakt tegen het voorbehoud binnen twaalf maanden na de datum waarop hij de kennisgeving daarvan ontvangen heeft, of op de dag, waarop hij zijn instemming door het verdrag gebonden te worden tot uitdrukking heeft gebracht indien deze dag op een latere datum valt.   
+5.  Voor de toepassing van het tweede en vierde lid en indien het verdrag niet anders bepaalt, wordt een voorbehoud geacht te zijn aanvaard door een Staat, indien deze geen bezwaar heeft gemaakt tegen het voorbehoud binnen twaalf maanden na de datum waarop hij de kennisgeving daarvan ontvangen heeft, of op de dag, waarop hij zijn instemming door het verdrag gebonden te worden tot uitdrukking heeft gebracht indien deze dag op een latere datum valt.  
 
 ### Artikel  21  
 
@@ -1313,8 +1313,8 @@ c) wordt een akte, waarin de instemming van een Staat door het verdrag gebonden 
 a) wijzigt voor de Staat die het voorbehoud heeft gemaakt in zijn betrekkingen met deze andere partij de bepalingen van het verdrag waarop het voorbehoud betrekking heeft, in de mate voorzien in dit voorbehoud; en  
 
 b) wijzigt deze bepalingen in dezelfde mate voor deze andere partij in haar betrekkingen met de Staat die het voorbehoud heeft gemaakt.     
-2.  Het voorbehoud wijzigt niet de bepalingen van het verdrag voor de andere partijen bij het verdrag *inter se.*   
-3.  Indien een Staat die bezwaar heeft gemaakt tegen een voorbehoud zich niet heeft verzet tegen de inwerkingtreding van het verdrag tussen hem en de Staat die het voorbehoud heeft gemaakt, zijn de bepalingen waarop het voorbehoud betrekking heeft niet van toepassing tussen de beide Staten in de mate voorzien in het voorbehoud.   
+2.  Het voorbehoud wijzigt niet de bepalingen van het verdrag voor de andere partijen bij het verdrag *inter se.*    
+3.  Indien een Staat die bezwaar heeft gemaakt tegen een voorbehoud zich niet heeft verzet tegen de inwerkingtreding van het verdrag tussen hem en de Staat die het voorbehoud heeft gemaakt, zijn de bepalingen waarop het voorbehoud betrekking heeft niet van toepassing tussen de beide Staten in de mate voorzien in het voorbehoud.  
 
 ### Artikel  22  
 
@@ -1326,7 +1326,7 @@ b) wijzigt deze bepalingen in dezelfde mate voor deze andere partij in haar betr
 
 a) wordt het intrekken van een voorbehoud eerst ten aanzien van een andere verdragsluitende Staat van kracht wanneer die Staat een kennisgeving dienaangaande heeft ontvangen;  
 
-b) wordt het intrekken van een bezwaar tegen een voorbehoud pas van kracht wanneer de Staat die het voorbehoud heeft gemaakt een kennisgeving van de intrekking heeft ontvangen.     
+b) wordt het intrekken van een bezwaar tegen een voorbehoud pas van kracht wanneer de Staat die het voorbehoud heeft gemaakt een kennisgeving van de intrekking heeft ontvangen.    
 
 ### Artikel  23  
 
@@ -1335,7 +1335,7 @@ b) wordt het intrekken van een bezwaar tegen een voorbehoud pas van kracht wanne
 1.  Een voorbehoud, een uitdrukkelijke aanvaarding van een voorbehoud en een bezwaar tegen een voorbehoud moeten schriftelijk worden vastgelegd en aan de verdragsluitende Staten en aan andere Staten die gerechtigd zijn partij bij het verdrag te worden, worden medegedeeld.   
 2.  Indien een voorbehoud wordt gemaakt bij de ondertekening van het verdrag onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, moet het formeel bevestigd worden door de Staat die het voorbehoud heeft gemaakt op het ogenblik dat hij zijn instemming door het verdrag gebonden te worden, tot uitdrukking brengt. In een dergelijk geval zal het voorbehoud worden beschouwd als te zijn gemaakt op de dag van bevestiging.   
 3.  Een uitdrukkelijke aanvaarding van een voorbehoud of een bezwaar tegen een voorbehoud behoeft, indien voorafgegaan aan een bevestiging van dat voorbehoud, zelf niet te worden bevestigd.   
-4.  Het intrekken van een voorbehoud of een bezwaar tegen een voorbehoud dient schriftelijk te geschieden.   
+4.  Het intrekken van een voorbehoud of een bezwaar tegen een voorbehoud dient schriftelijk te geschieden.  
 
 ### AFDELING  3  
 
@@ -1348,7 +1348,7 @@ b) wordt het intrekken van een bezwaar tegen een voorbehoud pas van kracht wanne
 1.  Een verdrag treedt in werking op de wijze en op de dag zoals voorzien in zijn bepalingen, of krachtens overeenstemming tussen de Staten die hebben deelgenomen aan de onderhandelingen.   
 2.  Indien dergelijke bepalingen of een dergelijke overeenstemming ontbreken, treedt een verdrag in werking zodra de instemming door het verdrag gebonden te worden, vaststaat voor alle Staten die hebben deelgenomen aan de onderhandelingen.   
 3.  Indien de instemming van een Staat door een verdrag gebonden te worden tot uitdrukking wordt gebracht op een datum na de inwerkingtreding van dit verdrag treedt het in werking voor deze Staat op deze datum, tenzij het verdrag anders bepaalt.   
-4.  De bepalingen van een verdrag, die de authentificatie van de tekst, het tot uitdrukking brengen van de instemming van de Staten door het verdrag gebonden te worden, de wijze of de datum van inwerkingtreding, de voorbehouden, de werkzaamheden van de depositaris, alsmede de andere vraagstukken die zich noodzakelijkerwijze voordoen voor de inwerkingtreding van het verdrag regelen, zijn van toepassing vanaf het tijdstip van de aanneming van de tekst.   
+4.  De bepalingen van een verdrag, die de authentificatie van de tekst, het tot uitdrukking brengen van de instemming van de Staten door het verdrag gebonden te worden, de wijze of de datum van inwerkingtreding, de voorbehouden, de werkzaamheden van de depositaris, alsmede de andere vraagstukken die zich noodzakelijkerwijze voordoen voor de inwerkingtreding van het verdrag regelen, zijn van toepassing vanaf het tijdstip van de aanneming van de tekst.  
 
 ### Artikel  25  
 
@@ -1359,7 +1359,7 @@ b) wordt het intrekken van een bezwaar tegen een voorbehoud pas van kracht wanne
 a) het verdrag zulks bepaalt; of  
 
 b) indien de Staten die hebben deelgenomen aan de onderhandelingen op een andere wijze aldus zijn overeengekomen.     
-2.  Tenzij het verdrag anders bepaalt of de Staten die aan de onderhandelingen hebben deelgenomen anders zijn overeengekomen, houdt de voorlopige toepassing van een verdrag of een deel van een verdrag voor een Staat op, als deze Staat de andere Staten waartussen het verdrag voorlopig wordt toegepast, in kennis stelt van zijn voornemen geen partij te worden bij het verdrag.   
+2.  Tenzij het verdrag anders bepaalt of de Staten die aan de onderhandelingen hebben deelgenomen anders zijn overeengekomen, houdt de voorlopige toepassing van een verdrag of een deel van een verdrag voor een Staat op, als deze Staat de andere Staten waartussen het verdrag voorlopig wordt toegepast, in kennis stelt van zijn voornemen geen partij te worden bij het verdrag.  
 
 ### DEEL  III  
 
@@ -1373,13 +1373,13 @@ b) indien de Staten die hebben deelgenomen aan de onderhandelingen op een andere
 
 ####Pacta sunt servanda
 
-Elk in werking getreden verdrag verbindt de partijen en moet door hen te goeder trouw ten uitvoer worden gelegd.  
+Elk in werking getreden verdrag verbindt de partijen en moet door hen te goeder trouw ten uitvoer worden gelegd. 
 
 ### Artikel  27  
 
 ####Nationaal recht en naleving van verdragen
 
-Een partij mag zich niet beroepen op de bepalingen van zijn nationale recht om het niet ten uitvoer leggen van een verdrag te rechtvaardigen. Deze regel geldt onverminderd artikel 46.  
+Een partij mag zich niet beroepen op de bepalingen van zijn nationale recht om het niet ten uitvoer leggen van een verdrag te rechtvaardigen. Deze regel geldt onverminderd artikel 46. 
 
 ### AFDELING  2  
 
@@ -1389,19 +1389,19 @@ Een partij mag zich niet beroepen op de bepalingen van zijn nationale recht om h
 
 ####Niet-terugwerkende kracht van verdragen
 
-Tenzij uit het verdrag of op andere wijze een andere bedoeling blijkt, binden de bepalingen van een verdrag een partij niet met betrekking tot een handeling of feit, voorafgaand aan de datum van inwerkingtreding van dit verdrag voor deze partij, of enige situatie die op die datum niet meer bestond.  
+Tenzij uit het verdrag of op andere wijze een andere bedoeling blijkt, binden de bepalingen van een verdrag een partij niet met betrekking tot een handeling of feit, voorafgaand aan de datum van inwerkingtreding van dit verdrag voor deze partij, of enige situatie die op die datum niet meer bestond. 
 
 ### Artikel  29  
 
 ####Territoriale gelding van verdragen
 
-Tenzij een andere bedoeling uit het verdrag blijkt of op een andere wijze is komen vast te staan, bindt een verdrag elke partij ten opzichte van haar gehele grondgebied.  
+Tenzij een andere bedoeling uit het verdrag blijkt of op een andere wijze is komen vast te staan, bindt een verdrag elke partij ten opzichte van haar gehele grondgebied. 
 
 ### Artikel  30  
 
 ####Toepassing van achtereenvolgende verdragen die betrekking hebben op eenzelfde onderwerp
 
-1.  Onder voorbehoud van de bepalingen van artikel 103 van het Handvest van de Verenigde Naties worden de rechten en verplichtingen van Staten die partij zijn bij achtereenvolgende verdragen die betrekking hebben op eenzelfde onderwerp bepaald overeenkomstig de volgende leden.   
+1.  Onder voorbehoud van de bepalingen van [artikel 103 van het Handvest van de Verenigde Naties](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) worden de rechten en verplichtingen van Staten die partij zijn bij achtereenvolgende verdragen die betrekking hebben op eenzelfde onderwerp bepaald overeenkomstig de volgende leden.   
 2.  Indien een verdrag uitdrukkelijk vermeldt dat het ondergeschikt is aan een eerder of later verdrag of dat het niet als onverenigbaar met dit andere verdrag moet worden beschouwd, hebben de bepalingen van dat andere verdrag voorrang.   
 3.  Indien alle partijen bij het eerdere verdrag eveneens partij zijn bij het latere verdrag, zonder dat het eerdere verdrag beëindigd is of zijn werking is opgeschort krachtens artikel 59, is het eerdere verdrag slechts van toepassing in de mate waarin zijn bepalingen verenigbaar zijn met die van het latere verdrag.   
 4.  Indien de partijen bij het eerdere verdrag niet alle partij zijn bij het latere verdrag: 
@@ -1409,7 +1409,7 @@ Tenzij een andere bedoeling uit het verdrag blijkt of op een andere wijze is kom
 a) is in de betrekkingen tussen Staten die partij zijn bij beide verdragen de regel van toepassing die in het derde lid is vastgelegd;  
 
 b) regelt in de betrekkingen tussen een Staat die partij is bij beide verdragen en een Staat die slechts partij is bij een van deze verdragen het verdrag waarbij beide Staten partij zijn hun wederzijdse rechten en verplichtingen.     
-5.  Het vierde lid is van toepassing onverminderd artikel 41 of enig vraagstuk aangaande de beëindiging of de opschorting van de werking van een verdrag op grond van artikel 60 of enig vraagstuk aangaande verantwoordelijkheid die voor een Staat kan ontstaan uit het sluiten of de toepassing van een verdrag waarvan de bepalingen onverenigbaar zijn met de verplichtingen die op hem rusten ten aanzien van een andere Staat krachtens een ander verdrag.   
+5.  Het vierde lid is van toepassing onverminderd artikel 41 of enig vraagstuk aangaande de beëindiging of de opschorting van de werking van een verdrag op grond van artikel 60 of enig vraagstuk aangaande verantwoordelijkheid die voor een Staat kan ontstaan uit het sluiten of de toepassing van een verdrag waarvan de bepalingen onverenigbaar zijn met de verplichtingen die op hem rusten ten aanzien van een andere Staat krachtens een ander verdrag.  
 
 ### AFDELING  3  
 
@@ -1419,7 +1419,7 @@ b) regelt in de betrekkingen tussen een Staat die partij is bij beide verdragen 
 
 ####Algemene regel van uitlegging
 
-1.  Een verdrag moet te goeder trouw worden uitgelegd overeenkomstig de gewone betekenis van de termen van het Verdrag in hun context en in het licht van voorwerp en doel van het Verdrag.   
+1.   Een verdrag moet te goeder trouw worden uitgelegd overeenkomstig de gewone betekenis van de termen van het Verdrag in hun context en in het licht van voorwerp en doel van het Verdrag.    
 2.  Voor de uitlegging van een verdrag omvat de context, behalve de tekst, met inbegrip van preambule en bijlagen: 
 
 a) iedere overeenstemming die betrekking heeft op het verdrag en die bij het sluiten van het verdrag tussen alle partijen is bereikt;  
@@ -1432,7 +1432,7 @@ a) iedere later tot stand gekomen overeenstemming tussen de partijen met betrekk
 b) ieder later gebruik in de toepassing van het verdrag waardoor overeenstemming van de partijen inzake de uitlegging van het verdrag is ontstaan;  
 
 c) iedere ter zake dienende regel van het volkenrecht die op de betrekkingen tussen de partijen kan worden toegepast.     
-4.  Een term dient in een bijzondere betekenis verstaan te worden als vaststaat, dat dit de bedoeling van de partijen is geweest.   
+4.  Een term dient in een bijzondere betekenis verstaan te worden als vaststaat, dat dit de bedoeling van de partijen is geweest.  
 
 ### Artikel  32  
 
@@ -1442,7 +1442,7 @@ Er kan een beroep worden gedaan op aanvullende middelen van uitlegging en in het
 
 a) de betekenis dubbelzinnig of duister laat; of  
 
-b) leidt tot een resultaat dat duidelijk ongerijmd of onredelijk is.    
+b) leidt tot een resultaat dat duidelijk ongerijmd of onredelijk is.   
 
 ### Artikel  33  
 
@@ -1451,7 +1451,7 @@ b) leidt tot een resultaat dat duidelijk ongerijmd of onredelijk is.
 1.  Indien een verdrag geauthentiseerd is in twee of meer talen, heeft de tekst in elk der talen rechtskracht, tenzij het verdrag bepaalt of de partijen overeenkomen dat in geval van verschil een bepaalde tekst moet prevaleren.   
 2.  Een versie van het verdrag in een andere taal dan een van de talen waarin de tekst geauthentiseerd is, wordt slechts beschouwd als een authentieke tekst, indien het verdrag daarin voorziet of als de partijen het daarover eens zijn geworden.   
 3.  De termen van een verdrag worden geacht dezelfde betekenis te hebben in de onderscheidene authentieke teksten.   
-4.  Behalve in het geval dat een bepaalde tekst overeenkomstig het eerste lid prevaleert, dient men, wanneer de vergelijking van de authentieke teksten een verschil in betekenis oplevert dat niet door toepassing van de artikelen 31 en 32 wordt weggenomen, de betekenis aan te nemen die, rekening houdend met het voorwerp en doel van het verdrag deze teksten het best met elkaar verzoent.   
+4.  Behalve in het geval dat een bepaalde tekst overeenkomstig het eerste lid prevaleert, dient men, wanneer de vergelijking van de authentieke teksten een verschil in betekenis oplevert dat niet door toepassing van de artikelen 31 en 32 wordt weggenomen, de betekenis aan te nemen die, rekening houdend met het voorwerp en doel van het verdrag deze teksten het best met elkaar verzoent.  
 
 ### AFDELING  4  
 
@@ -1461,33 +1461,33 @@ b) leidt tot een resultaat dat duidelijk ongerijmd of onredelijk is.
 
 ####Algemene regel betreffende derde Staten
 
-Een verdrag schept geen verplichtingen of rechten voor een derde Staat zonder diens instemming.  
+Een verdrag schept geen verplichtingen of rechten voor een derde Staat zonder diens instemming. 
 
 ### Artikel  35  
 
 ####Verdragen die voorzien in verplichtingen voor derde Staten
 
-Voor een derde Staat ontstaat ten gevolge van een bepaling van een verdrag een verplichting, indien de partijen bij het verdrag door middel van deze bepaling de verplichting beogen te scheppen en indien de derde Staat deze verplichting uitdrukkelijk schriftelijk aanvaardt.  
+Voor een derde Staat ontstaat ten gevolge van een bepaling van een verdrag een verplichting, indien de partijen bij het verdrag door middel van deze bepaling de verplichting beogen te scheppen en indien de derde Staat deze verplichting uitdrukkelijk schriftelijk aanvaardt. 
 
 ### Artikel  36  
 
 ####Verdragen die voorzien in rechten voor derde Staten
 
 1.  Voor een derde Staat ontstaat ten gevolge van een bepaling van een verdrag een recht, indien de partijen bij het verdrag door deze bepaling dit recht willen verlenen aan de derde Staat of aan een groep Staten waartoe hij behoort, of aan alle Staten, en indien de derde Staat daarmede instemt. De instemming wordt geacht te zijn gegeven zolang er geen aanwijzing van het tegendeel bestaat, tenzij het verdrag anders bepaalt.   
-2.  Een Staat die van een recht, overeenkomstig het eerste lid, gebruik maakt, is voor de uitoefening van dat recht gehouden, de voorwaarden, voorzien in het verdrag of overeenkomstig zijn bepalingen vastgesteld, te eerbiedigen.   
+2.  Een Staat die van een recht, overeenkomstig het eerste lid, gebruik maakt, is voor de uitoefening van dat recht gehouden, de voorwaarden, voorzien in het verdrag of overeenkomstig zijn bepalingen vastgesteld, te eerbiedigen.  
 
 ### Artikel  37  
 
 ####Herroeping of wijziging van verplichtingen of rechten van derde Staten
 
 1.  Wanneer overeenkomstig artikel 35 een verplichting voor een derde Staat is ontstaan, kan deze verplichting slechts worden herroepen of gewijzigd met instemming van de partijen bij het verdrag en van de derde Staat, tenzij vaststaat dat zij anders zijn overeengekomen.   
-2.  Wanneer overeenkomstig artikel 36 een recht voor een derde Staat is ontstaan, kan dit recht niet door de partijen worden herroepen of gewijzigd indien vaststaat, dat het de bedoeling was het recht niet te herroepen of te wijzigen zonder instemming van de derde Staat.   
+2.  Wanneer overeenkomstig artikel 36 een recht voor een derde Staat is ontstaan, kan dit recht niet door de partijen worden herroepen of gewijzigd indien vaststaat, dat het de bedoeling was het recht niet te herroepen of te wijzigen zonder instemming van de derde Staat.  
 
 ### Artikel  38  
 
 ####Verdragsregels die door internationale gewoonte voor derde Staten bindend worden
 
-Niets in de artikelen 34 tot 37 belet, dat een in een verdrag neergelegde regel bindend wordt voor een derde Staat als een regel van internationaal gewoonterecht, die als zodanig wordt erkend.  
+Niets in de artikelen 34 tot 37 belet, dat een in een verdrag neergelegde regel bindend wordt voor een derde Staat als een regel van internationaal gewoonterecht, die als zodanig wordt erkend. 
 
 ### DEEL  IV  
 
@@ -1497,7 +1497,7 @@ Niets in de artikelen 34 tot 37 belet, dat een in een verdrag neergelegde regel 
 
 ####Algemene regel met betrekking tot het amenderen van verdragen
 
-Een verdrag kan bij overeenkomst tussen de partijen worden geamendeerd. Op een dergelijke overeenkomst vinden de regels neergelegd in deel II toepassing behalve in zoverre het verdrag anders bepaalt.  
+Een verdrag kan bij overeenkomst tussen de partijen worden geamendeerd. Op een dergelijke overeenkomst vinden de regels neergelegd in deel II toepassing behalve in zoverre het verdrag anders bepaalt. 
 
 ### Artikel  40  
 
@@ -1515,7 +1515,7 @@ b) de onderhandelingen en het sluiten van elke overeenkomst ter amendering van h
 
 a) partij bij het verdrag zoals het geamendeerd is; en  
 
-b) partij bij het niet-geamendeerde verdrag met betrekking tot iedere partij bij het verdrag die niet is gebonden door de overeenkomst tot amendering.     
+b) partij bij het niet-geamendeerde verdrag met betrekking tot iedere partij bij het verdrag die niet is gebonden door de overeenkomst tot amendering.    
 
 ### Artikel  41  
 
@@ -1530,7 +1530,7 @@ b) de wijziging in kwestie niet verboden is door het verdrag, en zij
 i) noch het genot der aan de andere partijen op grond van het verdrag toekomende rechten, noch het nakomen van hun verplichtingen aantast; en  
 
 ii) zich niet uitstrekt tot een bepaling, waarvan niet mag worden afgeweken als dit onverenigbaar is met de doeltreffende verwezenlijking van voorwerp en doel van het verdrag in zijn geheel.       
-2.  Tenzij in een geval als voorzien in het eerste lid, letter a, het verdrag anders bepaalt, dienen de partijen in kwestie de andere partijen in kennis te stellen van hun voornemen de overeenkomst te sluiten en van de wijzigingen die deze ten gevolge heeft voor het verdrag.   
+2.  Tenzij in een geval als voorzien in het eerste lid, letter a, het verdrag anders bepaalt, dienen de partijen in kwestie de andere partijen in kennis te stellen van hun voornemen de overeenkomst te sluiten en van de wijzigingen die deze ten gevolge heeft voor het verdrag.  
 
 ### DEEL  V  
 
@@ -1545,13 +1545,13 @@ ii) zich niet uitstrekt tot een bepaling, waarvan niet mag worden afgeweken als 
 ####Geldigheid en het in werking blijven van verdragen
 
 1.  De geldigheid van een verdrag of van de instemming van een Staat door een verdrag gebonden te worden, mag slechts worden betwist door toepassing van dit Verdrag.   
-2.  De beëindiging van een verdrag, de opzegging ervan of de terugtrekking van een partij kan slechts plaatsvinden door toepassing van de bepalingen van het verdrag of van dit Verdrag. Dezelfde regel geldt voor de opschorting van de werking van een verdrag.   
+2.  De beëindiging van een verdrag, de opzegging ervan of de terugtrekking van een partij kan slechts plaatsvinden door toepassing van de bepalingen van het verdrag of van dit Verdrag. Dezelfde regel geldt voor de opschorting van de werking van een verdrag.  
 
 ### Artikel  43  
 
 ####Verplichtingen opgelegd door het internationale recht onafhankelijk van een verdrag
 
-De ongeldigheid, beëindiging of opzegging van een verdrag, de terugtrekking van een partij of de opschorting van de werking van het verdrag ten gevolge van de toepassing van dit Verdrag of van de bepalingen van het verdrag, tast op geen enkele wijze de plicht van een Staat aan tot het nakomen van de verplichtingen die voortvloeien uit het verdrag en waaraan hij krachtens het volkenrecht onafhankelijk van het genoemde verdrag, is onderworpen.  
+De ongeldigheid, beëindiging of opzegging van een verdrag, de terugtrekking van een partij of de opschorting van de werking van het verdrag ten gevolge van de toepassing van dit Verdrag of van de bepalingen van het verdrag, tast op geen enkele wijze de plicht van een Staat aan tot het nakomen van de verplichtingen die voortvloeien uit het verdrag en waaraan hij krachtens het volkenrecht onafhankelijk van het genoemde verdrag, is onderworpen. 
 
 ### Artikel  44  
 
@@ -1567,7 +1567,7 @@ b) uit het verdrag blijkt of op andere wijze vaststaat dat de aanvaarding van de
 
 c) het niet onrechtvaardig zou zijn de uitvoering van de rest van het verdrag voort te zetten.     
 4.  In de gevallen vallende onder de artikelen 49 en 50 mag de Staat die het recht heeft zich te beroepen op bedrog of corruptie dit doen ten aanzien van het gehele verdrag of, in het geval bedoeld in het derde lid, slechts ten aanzien van enige bepaalde clausules.   
-5.  In de gevallen als voorzien in de artikelen 51, 52 en 53 is geen scheiding tussen de bepalingen van een verdrag toegestaan.   
+5.  In de gevallen als voorzien in de artikelen 51, 52 en 53 is geen scheiding tussen de bepalingen van een verdrag toegestaan.  
 
 ### Artikel  45  
 
@@ -1577,7 +1577,7 @@ Een Staat mag niet langer gronden aanvoeren tot ongeldigheid of beëindiging van
 
 a) uitdrukkelijk heeft aanvaard dat het verdrag, al naargelang het geval, geldig is, in werking blijft of van toepassing blijft; of  
 
-b) op grond van zijn gedrag moet worden beschouwd als te hebben berust in, al naargelang het geval, de geldigheid van het verdrag of zijn in werking of van toepassing blijven.    
+b) op grond van zijn gedrag moet worden beschouwd als te hebben berust in, al naargelang het geval, de geldigheid van het verdrag of zijn in werking of van toepassing blijven.   
 
 ### AFDELING  2  
 
@@ -1587,14 +1587,14 @@ b) op grond van zijn gedrag moet worden beschouwd als te hebben berust in, al na
 
 ####Bepalingen van het nationale recht met betrekking tot de bevoegdheid tot het sluiten van verdragen
 
-1.  Het feit dat de instemming van een Staat door een verdrag gebonden te worden, is gegeven in strijd met een bepaling van zijn nationale recht betreffende de bevoegdheid tot het sluiten van verdragen, mag door die Staat niet worden aangevoerd ter ongeldigverklaring van die instemming, tenzij die strijdigheid onmiskenbaar was en een regel van fundamenteel belang van het nationale recht van die Staat betrof.   
-2.  Een strijdigheid is onmiskenbaar indien zij bij objectieve beschouwing duidelijk is voor iedere Staat die zich ten dezen overeenkomstig het gangbaar gebruik en te goeder trouw gedraagt.   
+1.  Het feit dat de instemming van een Staat door een verdrag gebonden te worden, is gegeven in strijd met een bepaling van zijn nationale recht betreffende de bevoegdheid tot het sluiten van verdragen, mag door die Staat niet worden aangevoerd ter ongeldigverklaring van die instemming, tenzij die strijdigheid onmiskenbaar was en een regel van fundamenteel belang van het nationale recht van die Staat betrof.    
+2.  Een strijdigheid is onmiskenbaar indien zij bij objectieve beschouwing duidelijk is voor iedere Staat die zich ten dezen overeenkomstig het gangbaar gebruik en te goeder trouw gedraagt.  
 
 ### Artikel  47  
 
 ####Bijzondere beperkingen ten aanzien van de volmacht om de instemming van een Staat tot uitdrukking te brengen
 
-Indien de volmacht van een vertegenwoordiger om de instemming van een Staat door een bepaald verdrag gebonden te worden tot uitdrukking te brengen aan een bijzondere beperking is onderworpen, mag het feit dat deze vertegenwoordiger daarmede geen rekening heeft gehouden niet worden aangevoerd ter ongeldigverklaring van de door hem tot uitdrukking gebrachte instemming, tenzij de beperking aan de andere Staten die hebben deelgenomen aan de onderhandelingen ter kennis was gebracht alvorens de instemming tot uitdrukking werd gebracht.  
+Indien de volmacht van een vertegenwoordiger om de instemming van een Staat door een bepaald verdrag gebonden te worden tot uitdrukking te brengen aan een bijzondere beperking is onderworpen, mag het feit dat deze vertegenwoordiger daarmede geen rekening heeft gehouden niet worden aangevoerd ter ongeldigverklaring van de door hem tot uitdrukking gebrachte instemming, tenzij de beperking aan de andere Staten die hebben deelgenomen aan de onderhandelingen ter kennis was gebracht alvorens de instemming tot uitdrukking werd gebracht. 
 
 ### Artikel  48  
 
@@ -1602,37 +1602,37 @@ Indien de volmacht van een vertegenwoordiger om de instemming van een Staat door
 
 1.  Een Staat mag zich ten einde zijn instemming door een verdrag gebonden te worden ongeldig te verklaren beroepen op een dwaling in het verdrag, indien de dwaling betrekking heeft op een feit of een situatie, door deze Staat beschouwd als te bestaan op het tijdstip van de sluiting van het verdrag en indien dit feit of deze situatie een wezenlijke grond vormde voor de instemming van deze Staat door het verdrag gebonden te worden.   
 2.  Het eerste lid is niet van toepassing wanneer bedoelde Staat door zijn gedrag tot deze dwaling heeft bijgedragen of wanneer de omstandigheden van dien aard waren dat hij bedacht had moeten zijn op de mogelijkheid van een dwaling.   
-3.  Een dwaling die slechts betrekking heeft op de redactie van de tekst van een verdrag tast de geldigheid ervan niet aan; artikel 79 is in dat geval van toepassing.   
+3.  Een dwaling die slechts betrekking heeft op de redactie van de tekst van een verdrag tast de geldigheid ervan niet aan; artikel 79 is in dat geval van toepassing.  
 
 ### Artikel  49  
 
 ####Bedrog
 
-Indien een Staat er door het bedrieglijke gedrag van een andere Staat die aan de onderhandelingen heeft deelgenomen toe is gebracht een verdrag te sluiten, mag hij het bedrog aanvoeren om zijn instemming door het verdrag gebonden te worden ongeldig te verklaren.  
+Indien een Staat er door het bedrieglijke gedrag van een andere Staat die aan de onderhandelingen heeft deelgenomen toe is gebracht een verdrag te sluiten, mag hij het bedrog aanvoeren om zijn instemming door het verdrag gebonden te worden ongeldig te verklaren. 
 
 ### Artikel  50  
 
 ####Corruptie van een vertegenwoordiger van een Staat
 
-Indien het tot uitdrukking brengen van de instemming van een Staat door een verdrag gebonden te worden, is verkregen door directe of indirecte corruptie van zijn vertegenwoordiger door een andere Staat die aan de onderhandelingen heeft deelgenomen, mag de Staat deze corruptie aanvoeren om zijn instemming door het verdrag gebonden te worden, ongeldig te verklaren.  
+Indien het tot uitdrukking brengen van de instemming van een Staat door een verdrag gebonden te worden, is verkregen door directe of indirecte corruptie van zijn vertegenwoordiger door een andere Staat die aan de onderhandelingen heeft deelgenomen, mag de Staat deze corruptie aanvoeren om zijn instemming door het verdrag gebonden te worden, ongeldig te verklaren. 
 
 ### Artikel  51  
 
 ####Dwang op de vertegenwoordiger van een Staat uitgeoefend
 
-De instemming van een Staat door een verdrag gebonden te worden, die is verkregen door dwang, uitgeoefend op zijn vertegenwoordiger door middel van tegen hem gerichte handelingen of bedreigingen, heeft geen enkel rechtsgevolg.  
+De instemming van een Staat door een verdrag gebonden te worden, die is verkregen door dwang, uitgeoefend op zijn vertegenwoordiger door middel van tegen hem gerichte handelingen of bedreigingen, heeft geen enkel rechtsgevolg. 
 
 ### Artikel  52  
 
 ####Dwang, uitgeoefend op een Staat door bedreiging met of gebruik van geweld
 
-Elk verdrag is nietig, waarvan de totstandkoming is bereikt door bedreiging met of gebruik van geweld in strijd met de beginselen van het volkenrecht, neergelegd in het Handvest van de Verenigde Naties.  
+Elk verdrag is nietig, waarvan de totstandkoming is bereikt door bedreiging met of gebruik van geweld in strijd met de beginselen van het volkenrecht, neergelegd in het [Handvest van de Verenigde Naties](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). 
 
 ### Artikel  53  
 
 ####Verdragen strijdig met een dwingende norm van algemeen volkenrecht (jus cogens)
 
-Elk verdrag dat op het tijdstip van zijn totstandkoming in strijd is met een dwingende norm van algemeen volkenrecht, is nietig. Voor de toepassing van dit Verdrag is een dwingende norm van algemeen volkenrecht een norm die aanvaard en erkend is door de internationale gemeenschap van Staten in haar geheel als een norm, waarvan geen afwijking is toegestaan en die slechts kan worden gewijzigd door een latere norm van algemeen volkenrecht van dezelfde aard.  
+Elk verdrag dat op het tijdstip van zijn totstandkoming in strijd is met een dwingende norm van algemeen volkenrecht, is nietig. Voor de toepassing van dit Verdrag is een dwingende norm van algemeen volkenrecht een norm die aanvaard en erkend is door de internationale gemeenschap van Staten in haar geheel als een norm, waarvan geen afwijking is toegestaan en die slechts kan worden gewijzigd door een latere norm van algemeen volkenrecht van dezelfde aard. 
 
 ### AFDELING  3  
 
@@ -1646,13 +1646,13 @@ Beëindiging van een verdrag of de terugtrekking kan plaatsvinden:
 
 a) overeenkomstig de bepalingen van het verdrag; of  
 
-b) te allen tijde door overeenstemming tussen alle partijen na raadpleging van de andere verdragsluitende Staten.    
+b) te allen tijde door overeenstemming tussen alle partijen na raadpleging van de andere verdragsluitende Staten.   
 
 ### Artikel  55  
 
 ####Vermindering van het aantal partijen bij een multilateraal verdrag tot beneden het voor de inwerkingtreding verplichte aantal
 
-Tenzij het verdrag anders bepaalt, eindigt een multilateraal verdrag niet uitsluitend doordat het aantal partijen is gedaald tot onder het voor zijn inwerkingtreding vereiste aantal.  
+Tenzij het verdrag anders bepaalt, eindigt een multilateraal verdrag niet uitsluitend doordat het aantal partijen is gedaald tot onder het voor zijn inwerkingtreding vereiste aantal. 
 
 ### Artikel  56  
 
@@ -1663,7 +1663,7 @@ Tenzij het verdrag anders bepaalt, eindigt een multilateraal verdrag niet uitslu
 a) vaststaat, dat de partijen de bedoeling hadden de mogelijkheid van opzegging of terugtrekking toe te laten; of  
 
 b) het recht op opzegging of terugtrekking uit de aard van het verdrag kan worden afgeleid.     
-2.  Een partij dient ten minste twaalf maanden tevoren haar voornemen een verdrag op te zeggen of zich uit het verdrag terug te trekken overeenkomstig de bepalingen van het eerste lid kenbaar te maken.   
+2.  Een partij dient ten minste twaalf maanden tevoren haar voornemen een verdrag op te zeggen of zich uit het verdrag terug te trekken overeenkomstig de bepalingen van het eerste lid kenbaar te maken.  
 
 ### Artikel  57  
 
@@ -1673,7 +1673,7 @@ De werking van een verdrag kan ten aanzien van alle partijen of van een bepaalde
 
 a) overeenkomstig de bepalingen van het verdrag; of  
 
-b) te allen tijde door overeenstemming tussen alle partijen, na raadpleging van de andere verdragsluitende Staten.    
+b) te allen tijde door overeenstemming tussen alle partijen, na raadpleging van de andere verdragsluitende Staten.   
 
 ### Artikel  58  
 
@@ -1688,9 +1688,9 @@ b) indien deze opschorting niet is verboden door het verdrag en
 i) noch het genot der aan de andere partijen op grond van het verdrag toekomende rechten, noch het nakomen van hun verplichtingen aantast; en  
 
 ii) niet onverenigbaar is met het voorwerp en doel van het verdrag.       
-2.  Tenzij in een geval als bedoeld in het eerste lid, letter a, het verdrag anders bepaalt, dienen de partijen in kwestie de andere partijen in kennis te stellen van hun voornemen de overeenkomst te sluiten en van de bepalingen in het verdrag waarvan zij voornemens zijn de werking op te schorten.   
+2.  Tenzij in een geval als bedoeld in het eerste lid, letter a, het verdrag anders bepaalt, dienen de partijen in kwestie de andere partijen in kennis te stellen van hun voornemen de overeenkomst te sluiten en van de bepalingen in het verdrag waarvan zij voornemens zijn de werking op te schorten.  
 
-### Artikel  59  
+### Artikel 59 
 
 ####Beëindiging van een verdrag of opschorting van de werking van een verdrag ten gevolge van het sluiten van een later verdrag
 
@@ -1699,7 +1699,7 @@ ii) niet onverenigbaar is met het voorwerp en doel van het verdrag.
 a) uit het latere verdrag blijkt of anderszins vaststaat dat het de bedoeling van de partijen is de materie door dit verdrag te regelen; of  
 
 b) de bepalingen van het latere verdrag dermate onverenigbaar zijn met die van het eerdere verdrag, dat het onmogelijk is de beide verdragen tegelijkertijd toe te passen.     
-2.  Het eerdere verdrag zal geacht worden als alleen maar in zijn werking te zijn opgeschort als uit het latere verdrag blijkt, of op andere wijze vaststaat, dat dit de bedoeling van de partijen was.   
+2.  Het eerdere verdrag zal geacht worden als alleen maar in zijn werking te zijn opgeschort als uit het latere verdrag blijkt, of op andere wijze vaststaat, dat dit de bedoeling van de partijen was.  
 
 ### Artikel  60  
 
@@ -1723,14 +1723,14 @@ a) een verwerping van het verdrag die niet toegestaan is door dit Verdrag; of
 
 b) de schending van een bepaling die van wezenlijk belang is voor de uitvoering van het verdrag wat zijn voorwerp of doel betreft.     
 4.  De voorgaande leden tasten geen enkele bepaling in het verdrag aan die van toepassing is in geval van schending.   
-5.  De leden 1 tot en met 3 zijn niet van toepassing op bepalingen betreffende bescherming van de menselijke persoon, opgenomen in verdragen van humanitaire aard, in het bijzonder bepalingen die elke vorm van represailles verbieden tegen door genoemde verdragen beschermde personen.   
+5.  De leden 1 tot en met 3 zijn niet van toepassing op bepalingen betreffende bescherming van de menselijke persoon, opgenomen in verdragen van humanitaire aard, in het bijzonder bepalingen die elke vorm van represailles verbieden tegen door genoemde verdragen beschermde personen.  
 
 ### Artikel  61  
 
 ####Intreden van een situatie die de uitvoering onmogelijk maakt
 
 1.  Een partij mag de onmogelijkheid tot uitvoering van een verdrag als grond aanvoeren om het te beëindigen of zich daaruit terug te trekken indien deze onmogelijkheid een gevolg is van de definitieve verdwijning of vernietiging van een voorwerp, onmisbaar voor de uitvoering van het verdrag. Indien de onmogelijkheid tijdelijk is, kan zij slechts worden aangevoerd als grond voor opschorting van de werking van het verdrag.   
-2.  Een partij mag niet de onmogelijkheid van uitvoering aanvoeren als grond voor de beëindiging van het verdrag, voor de terugtrekking daaruit of voor het opschorten van de werking ervan, als deze onmogelijkheid het gevolg is van een schending door die partij hetzij van een verplichting voortvloeiend uit het verdrag, hetzij van iedere andere internationale verplichting met betrekking tot iedere andere partij bij het verdrag.   
+2.  Een partij mag niet de onmogelijkheid van uitvoering aanvoeren als grond voor de beëindiging van het verdrag, voor de terugtrekking daaruit of voor het opschorten van de werking ervan, als deze onmogelijkheid het gevolg is van een schending door die partij hetzij van een verplichting voortvloeiend uit het verdrag, hetzij van iedere andere internationale verplichting met betrekking tot iedere andere partij bij het verdrag.  
 
 ### Artikel  62  
 
@@ -1745,20 +1745,20 @@ b) het gevolg van de wijziging is, dat de strekking van de krachtens het verdrag
 
 a) indien het verdrag een grens vaststelt; of  
 
-b) indien de wezenlijke verandering een gevolg is van schending door de partij die de grond aanvoert, hetzij van een verplichting voortvloeiend uit het verdrag, hetzij van iedere andere internationale verplichting met etrekking tot iedere andere partij bij het verdrag.     
-3.  Als een partij overeenkomstig de voorgaande leden als grond voor het beëindigen van een verdrag of het zich daaruit terugtrekken een wezenlijke verandering van omstandigheden kan aanvoeren, mag zij eveneens de wijziging aanvoeren als grond voor de opschorting van de werking van het verdrag.   
+b) indien de wezenlijke verandering een gevolg is van schending door de partij die de grond aanvoert, hetzij van een verplichting voortvloeiend uit het verdrag, hetzij van iedere andere internationale verplichting met betrekking tot iedere andere partij bij het verdrag.     
+3.  Als een partij overeenkomstig de voorgaande leden als grond voor het beëindigen van een verdrag of het zich daaruit terugtrekken een wezenlijke verandering van omstandigheden kan aanvoeren, mag zij eveneens de wijziging aanvoeren als grond voor de opschorting van de werking van het verdrag.  
 
 ### Artikel  63  
 
 ####Het verbreken van diplomatieke of consulaire betrekkingen
 
-Het verbreken van de diplomatieke of de consulaire betrekkingen tussen partijen bij een verdrag heeft geen gevolgen voor de rechtsbetrekkingen, door het verdrag tussen hen geschapen, behalve in zoverre het bestaan van diplomatieke of consulaire betrekkingen onontbeerlijk is voor de toepassing van het verdrag.  
+Het verbreken van de diplomatieke of de consulaire betrekkingen tussen partijen bij een verdrag heeft geen gevolgen voor de rechtsbetrekkingen, door het verdrag tussen hen geschapen, behalve in zoverre het bestaan van diplomatieke of consulaire betrekkingen onontbeerlijk is voor de toepassing van het verdrag. 
 
 ### Artikel  64  
 
 ####Een nieuwe dwingende norm van algemeen volkenrecht (jus cogens)
 
-Ingeval van een nieuwe dwingende norm van algemeen volkenrecht, wordt elk bestaand verdrag dat in strijd is met deze norm nietig en eindigt het.  
+Ingeval van een nieuwe dwingende norm van algemeen volkenrecht, wordt elk bestaand verdrag dat in strijd is met deze norm nietig en eindigt het. 
 
 ### AFDELING  4  
 
@@ -1770,9 +1770,9 @@ Ingeval van een nieuwe dwingende norm van algemeen volkenrecht, wordt elk bestaa
 
 1.  De partij die op grond van de bepalingen van dit Verdrag zich beroept op hetzij een gebrek in zijn instemming door een verdrag gebonden te worden, hetzij een motief om de geldigheid van een verdrag te betwisten, het te beëindigen, zich daaruit terug te trekken of de werking ervan op te schorten, moet de andere partijen van zijn eis in kennis stellen. De kennisgeving dient aan te geven welke maatregel tegen het verdrag wordt beoogd alsmede de redenen daarvoor.   
 2.  Als, na afloop van een periode die, behalve in geval van bijzondere noodzaak, niet korter mag zijn dan drie maanden te rekenen vanaf de ontvangst van de kennisgeving, geen partij bezwaar heeft gemaakt, kan de partij, die de kennisgeving heeft gedaan op de wijze als beschreven in artikel 67, de door haar beoogde maatregel nemen.   
-3.  Als echter bezwaar wordt gemaakt door een andere partij, dienen de partijen een oplossing te zoeken met behulp van de middelen, aangegeven in artikel 33 van het Handvest van de Verenigde Naties.   
+3.  Als echter bezwaar wordt gemaakt door een andere partij, dienen de partijen een oplossing te zoeken met behulp van de middelen, aangegeven in [artikel 33 van het Handvest van de Verenigde Naties](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
 4.  Niets in de voorgaande leden tast de rechten of de verplichtingen van partijen aan voortvloeiende uit de tussen hen van kracht zijnde bepalingen betreffende de regeling van geschillen.   
-5.  Onverminderd artikel 45 verhindert het feit dat een Staat niet de in het eerste lid voorgeschreven kennisgeving heeft gedaan hem niet alsnog een dergelijke kennisgeving te doen ten antwoord aan een andere partij die de uitvoering van een verdrag eist of de schending ervan aanvoert.   
+5.  Onverminderd artikel 45 verhindert het feit dat een Staat niet de in het eerste lid voorgeschreven kennisgeving heeft gedaan hem niet alsnog een dergelijke kennisgeving te doen ten antwoord aan een andere partij die de uitvoering van een verdrag eist of de schending ervan aanvoert.  
 
 ### Artikel  66  
 
@@ -1782,20 +1782,20 @@ Als binnen een periode van twaalf maanden volgend op de datum waarop bezwaar is 
 
 a) elke partij bij een geschil betreffende de toepassing of uitlegging van de artikelen 53 of 64 kan door middel van een verzoekschrift dit geschil ter beslissing voorleggen aan het Internationale Gerechtshof tenzij de partijen in gezamenlijke overeenstemming besluiten het geschil aan arbitrage te onderwerpen;  
 
-b) iedere partij bij een geschil betreffende de toepassing of de uitlegging van een van de andere artikelen van Deel V van dit Verdrag kan de in de Bijlage bij dit Verdrag aangegeven procedure aanhangig maken door hiertoe een verzoek te richten tot de Secretaris-Generaal van de Verenigde Naties.    
+b) iedere partij bij een geschil betreffende de toepassing of de uitlegging van een van de andere artikelen van Deel V van dit Verdrag kan de in de Bijlage bij dit Verdrag aangegeven procedure aanhangig maken door hiertoe een verzoek te richten tot de Secretaris-Generaal van de Verenigde Naties.   
 
 ### Artikel  67  
 
 ####Akten ter ongeldigverklaring of beëindiging van een verdrag, ter terugtrekking uit een verdrag of ter opschorting van de werking van een verdrag
 
 1.  De kennisgeving voorzien in artikel 65, eerste lid, dient schriftelijk te geschieden.   
-2.  Iedere akte ter ongeldigverklaring of beëindiging van een verdrag, iedere akte ter terugtrekking uit een verdrag of iedere akte ter opschorting van de werking van een verdrag op grond van zijn bepalingen of van artikel 65, tweede of derde lid, moet worden neergelegd in een akte, medegedeeld aan de andere partijen. Als de akte niet is ondertekend door het Staatshoofd, het hoofd van de Regering of de Minister van Buitenlandse Zaken, kan de vertegenwoordiger van de Staat die de mededeling doet uitgenodigd worden zijn volmacht te tonen.   
+2.  Iedere akte ter ongeldigverklaring of beëindiging van een verdrag, iedere akte ter terugtrekking uit een verdrag of iedere akte ter opschorting van de werking van een verdrag op grond van zijn bepalingen of van artikel 65, tweede of derde lid, moet worden neergelegd in een akte, medegedeeld aan de andere partijen. Als de akte niet is ondertekend door het Staatshoofd, het hoofd van de Regering of de Minister van Buitenlandse Zaken, kan de vertegenwoordiger van de Staat die de mededeling doet uitgenodigd worden zijn volmacht te tonen.  
 
 ### Artikel  68  
 
 ####Herroeping van kennisgevingen en akten als voorzien in de artikelen 65 en 67
 
-Een kennisgeving of een akte als voorzien in de artikelen 65 en 67 kan te allen tijde worden herroepen, voordat zij van kracht is geworden.  
+Een kennisgeving of een akte als voorzien in de artikelen 65 en 67 kan te allen tijde worden herroepen, voordat zij van kracht is geworden. 
 
 ### AFDELING  5  
 
@@ -1812,7 +1812,7 @@ a) kan elke partij van elke andere partij eisen, dat zij, voor zover zulks in hu
 
 b) zijn handelingen, te goeder trouw verricht voordat de ongeldigheid was aangevoerd, niet onrechtmatig geworden uitsluitend doordat het verdrag ongeldig is geworden.     
 3.  In gevallen, waarop de artikelen 49, 50, 51 of 52 betrekking hebben, is het tweede lid niet van toepassing op de partij waaraan het bedrog, de corruptiehandeling of de dwang is toe te rekenen.   
-4.  Ingeval van ongeldigheid van de instemming van een Staat door een multilateraal verdrag gebonden te worden, zijn de voorgaande regels van toepassing op de betrekkingen tussen de genoemde Staat en de partijen bij het verdrag.   
+4.  Ingeval van ongeldigheid van de instemming van een Staat door een multilateraal verdrag gebonden te worden, zijn de voorgaande regels van toepassing op de betrekkingen tussen de genoemde Staat en de partijen bij het verdrag.  
 
 ### Artikel  70  
 
@@ -1823,7 +1823,7 @@ b) zijn handelingen, te goeder trouw verricht voordat de ongeldigheid was aangev
 a) ontslaat de partijen van de verplichting de uitvoering van het verdrag voort te zetten;  
 
 b) tast geen enkel recht, geen enkele verplichting of geen enkele rechtspositie van partijen aan, die door de uitvoering van het verdrag vóór zijn beëindiging is ontstaan;   tenzij het verdrag anders bepaalt of de partijen anders overeenkomen.   
-2.  Indien een Staat een multilateraal verdrag opzegt of zich daaruit terugtrekt, is met ingang van de datum waarop deze opzegging of terugtrekking effect krijgt het eerste lid van toepassing op de betrekkingen tussen deze Staat en ieder der andere partijen bij het verdrag.   
+2.  Indien een Staat een multilateraal verdrag opzegt of zich daaruit terugtrekt, is met ingang van de datum waarop deze opzegging of terugtrekking effect krijgt het eerste lid van toepassing op de betrekkingen tussen deze Staat en ieder der andere partijen bij het verdrag.  
 
 ### Artikel  71  
 
@@ -1838,7 +1838,7 @@ b) hun wederzijdse betrekkingen in overeenstemming te brengen met de dwingende n
 
 a) ontslaat de beëindiging van het verdrag de partijen van de verplichting de uitvoering van het verdrag voort te zetten;  
 
-b) tast de beëindiging van het verdrag geen enkel recht, geen enkele verplichting of geen enkele rechtspositie van partijen aan, die door de uitvoering van het verdrag vóór zijn beëindiging is ontstaan; deze rechten, verplichtingen en rechtspositie kunnen daarna echter slechts worden gehandhaafd in zoverre deze handhaving op zich niet strijdig is met de nieuwe dwingende norm van algemeen volkenrecht.     
+b) tast de beëindiging van het verdrag geen enkel recht, geen enkele verplichting of geen enkele rechtspositie van partijen aan, die door de uitvoering van het verdrag vóór zijn beëindiging is ontstaan; deze rechten, verplichtingen en rechtspositie kunnen daarna echter slechts worden gehandhaafd in zoverre deze handhaving op zich niet strijdig is met de nieuwe dwingende norm van algemeen volkenrecht.    
 
 ### Artikel  72  
 
@@ -1849,7 +1849,7 @@ b) tast de beëindiging van het verdrag geen enkel recht, geen enkele verplichti
 a) ontslaat de partijen tussen welke de werking van het verdrag is opgeschort van de verplichting het verdrag uit te voeren in hun onderlinge betrekkingen gedurende de tijd van opschorting;  
 
 b) tast voor het overige de door het verdrag geschapen rechtsbetrekkingen tussen de partijen niet aan.     
-2.  Gedurende de tijd van opschorting moeten de partijen zich onthouden van alle handelingen die een belemmering voor een hervatte werking van het verdrag kunnen vormen.   
+2.  Gedurende de tijd van opschorting moeten de partijen zich onthouden van alle handelingen die een belemmering voor een hervatte werking van het verdrag kunnen vormen.  
 
 ### DEEL  VI  
 
@@ -1859,19 +1859,19 @@ b) tast voor het overige de door het verdrag geschapen rechtsbetrekkingen tussen
 
 ####Gevallen van Statenopvolging, van Staatsaansprakelijkheid of van het uitbreken van vijandelijkheden
 
-De bepalingen van dit Verdrag mogen niet vooruitlopen op vraagstukken die zich met betrekking tot een verdrag kunnen voordoen op grond van Statenopvolging, de internationale Staatsaansprakelijkheid of het uitbreken van vijandelijkheden tussen Staten.  
+De bepalingen van dit Verdrag mogen niet vooruitlopen op vraagstukken die zich met betrekking tot een verdrag kunnen voordoen op grond van Statenopvolging, de internationale Staatsaansprakelijkheid of het uitbreken van vijandelijkheden tussen Staten. 
 
 ### Artikel  74  
 
 ####Diplomatieke of consulaire betrekkingen en het sluiten van verdragen
 
-Het verbreken of de afwezigheid van diplomatieke of consulaire betrekkingen tussen twee of meer Staten is geen belemmering voor het sluiten van verdragen tussen deze Staten. Het sluiten van een verdrag heeft op zichzelf geen gevolg voor de diplomatieke of consulaire betrekkingen.  
+Het verbreken of de afwezigheid van diplomatieke of consulaire betrekkingen tussen twee of meer Staten is geen belemmering voor het sluiten van verdragen tussen deze Staten. Het sluiten van een verdrag heeft op zichzelf geen gevolg voor de diplomatieke of consulaire betrekkingen. 
 
 ### Artikel  75  
 
 ####Geval van een aanvallende Staat
 
-De bepalingen van dit Verdrag laten onverlet de verplichtingen die met betrekking tot een verdrag voor een aanvallende Staat kunnen voortvloeien uit maatregelen, genomen overeenkomstig het Handvest van de Verenigde Naties ter zake van door deze Staat gepleegde agressie.  
+De bepalingen van dit Verdrag laten onverlet de verplichtingen die met betrekking tot een verdrag voor een aanvallende Staat kunnen voortvloeien uit maatregelen, genomen overeenkomstig het [Handvest van de Verenigde Naties](../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) ter zake van door deze Staat gepleegde agressie. 
 
 ### DEEL  VII  
 
@@ -1882,7 +1882,7 @@ De bepalingen van dit Verdrag laten onverlet de verplichtingen die met betrekkin
 ####Depositarissen van verdragen
 
 1.  De aanwijzing van de depositaris van een verdrag kan geschieden door de aan de onderhandelingen deelgenomen hebbende Staten, hetzij in het verdrag zelf, hetzij op andere wijze. De depositaris kan zijn: een of meer Staten, een internationale organisatie of de voornaamste administratieve functionaris van een zodanige organisatie.   
-2.  De functies van de depositaris zijn internationaal van aard en de depositaris is gehouden onpartijdig te handelen bij het vervullen van zijn functies. Met name het feit dat een verdrag niet in werking is getreden tussen bepaalde partijen of dat er een verschil van mening is ontstaan tussen een Staat en een depositaris met betrekking tot de uitvoering van de functies van deze laatste mag geen invloed hebben op deze verplichting.   
+2.  De functies van de depositaris zijn internationaal van aard en de depositaris is gehouden onpartijdig te handelen bij het vervullen van zijn functies. Met name het feit dat een verdrag niet in werking is getreden tussen bepaalde partijen of dat er een verschil van mening is ontstaan tussen een Staat en een depositaris met betrekking tot de uitvoering van de functies van deze laatste mag geen invloed hebben op deze verplichting.  
 
 ### Artikel  77  
 
@@ -1905,7 +1905,7 @@ f) de Staten die gerechtigd zijn partij te worden bij het verdrag in te lichten 
 g) zorg te dragen voor de registratie van het verdrag bij het Secretariaat van de Verenigde Naties;  
 
 h) de functies te vervullen die nader zijn omschreven in de andere bepalingen van dit Verdrag.     
-2.  Indien zich een verschil van mening voordoet tussen een Staat en de depositaris met betrekking tot de vervulling van de functies van laatstgenoemde, moet de depositaris deze kwestie onder de aandacht brengen van de ondertekenende Staten en de verdragsluitende Staten of, indien nodig, van het bevoegde orgaan van de betreffende internationale organisatie.   
+2.  Indien zich een verschil van mening voordoet tussen een Staat en de depositaris met betrekking tot de vervulling van de functies van laatstgenoemde, moet de depositaris deze kwestie onder de aandacht brengen van de ondertekenende Staten en de verdragsluitende Staten of, indien nodig, van het bevoegde orgaan van de betreffende internationale organisatie.  
 
 ### Artikel  78  
 
@@ -1917,7 +1917,7 @@ a) indien er geen depositaris is, rechtstreeks gericht worden aan de Staten waar
 
 b) worden beschouwd als gedaan door de betrokken Staat eerst vanaf de ontvangst door de Staat waaraan zij is gericht of, al naar gelang het geval, vanaf de ontvangst door de depositaris;  
 
-c) indien zij is gericht aan de depositaris worden beschouwd als ontvangen door de Staat waarvoor zij is bestemd, eerst wanneer deze Staat door de depositaris in overeenstemming met artikel 77, eerste lid, letter e, daarover is ingelicht.    
+c) indien zij is gericht aan de depositaris worden beschouwd als ontvangen door de Staat waarvoor zij is bestemd, eerst wanneer deze Staat door de depositaris in overeenstemming met artikel 77, eerste lid, letter e, daarover is ingelicht.   
 
 ### Artikel  79  
 
@@ -1938,14 +1938,14 @@ b) een bezwaar is gemaakt, deelt de depositaris het bezwaar mede aan de ondertek
 3.  De regels, neergelegd in het eerste en tweede lid, zijn eveneens van toepassing indien de tekst was geauthentiseerd in twee of meer talen en zich ten aanzien van de eensluidendheid een gebrek voordoet dat, op grond van overeenstemming tussen de ondertekenende Staten en de verdragsluitende Staten, moet worden hersteld.   
 4.  De verbeterde tekst vervangt *ab initio* de gebrekkige tekst tenzij de ondertekenende Staten en de verdragsluitende Staten daarover anders beslissen.   
 5.  De verbetering van een geregistreerde verdragstekst wordt ter kennis gebracht van het Secretariaat van de Verenigde Naties.   
-6.  Wanneer een fout is ontdekt in een voor gelijkluidend gewaarmerkt afschrift van een verdrag moet de depositaris een proces-verbaal van de verbetering opstellen en er een kopie van sturen aan de ondertekenende Staten en aan de verdragsluitende Staten.   
+6.  Wanneer een fout is ontdekt in een voor gelijkluidend gewaarmerkt afschrift van een verdrag moet de depositaris een proces-verbaal van de verbetering opstellen en er een kopie van sturen aan de ondertekenende Staten en aan de verdragsluitende Staten.  
 
 ### Artikel  80  
 
 ####Registratie en publikatie van verdragen
 
 1.  Na hun inwerkingtreding moeten de verdragen gezonden worden aan het Secretariaat van de Verenigde Naties ter fine van, al naar gelang het geval, registratie of inschrijving in het register, alsmede voor publikatie.   
-2.  De aanwijzing van een depositaris vormt diens machtiging om de in het voorgaande lid omschreven handelingen uit te voeren.   
+2.  De aanwijzing van een depositaris vormt diens machtiging om de in het voorgaande lid omschreven handelingen uit te voeren.  
 
 ### DEEL  VIII  
 
@@ -1955,38 +1955,38 @@ b) een bezwaar is gemaakt, deelt de depositaris het bezwaar mede aan de ondertek
 
 ####Ondertekening
 
-Dit Verdrag staat open voor ondertekening door alle Lid-Staten van de Verenigde Naties, Leden van een van de Gespecialiseerde Organisaties of van de Internationale Organisatie voor Atoomenergie, alsook voor iedere Staat die partij is bij het Statuut van het Internationale Gerechtshof en voor elke andere Staat, door de Algemene Vergadering van de Verenigde Naties uitgenodigd om partij te worden bij dit Verdrag, en wel als volgt: tot 30 november 1969 op het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk en vervolgens tot 30 april 1970 op de zetel van de Verenigde Naties te New York.  
+Dit Verdrag staat open voor ondertekening door alle Lid-Staten van de Verenigde Naties, Leden van een van de Gespecialiseerde Organisaties of van de Internationale Organisatie voor Atoomenergie, alsook voor iedere Staat die partij is bij het [Statuut van het Internationale Gerechtshof](../../../../../../../../../verdrag/statuut/van/het/internationaal/gerechtshof/BWBV0005509/README.md) en voor elke andere Staat, door de Algemene Vergadering van de Verenigde Naties uitgenodigd om partij te worden bij dit Verdrag, en wel als volgt: tot 30 november 1969 op het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk en vervolgens tot 30 april 1970 op de zetel van de Verenigde Naties te New York. 
 
 ### Artikel  82  
 
 ####Bekrachtiging
 
-Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.  
+Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties. 
 
 ### Artikel  83  
 
 ####Toetreding
 
-Dit Verdrag staat open voor toetreding door iedere Staat behorend tot een van de in artikel 81 genoemde categorieën. De akten van toetreding moeten worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.  
+Dit Verdrag staat open voor toetreding door iedere Staat behorend tot een van de in artikel 81 genoemde categorieën. De akten van toetreding moeten worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties. 
 
 ### Artikel  84  
 
 ####Inwerkingtreding
 
 1.  Dit Verdrag treedt in werking op de dertigste dag na de datum van nederlegging van de vijfendertigste akte van bekrachtiging of toetreding.   
-2.  Voor iedere Staat die na de nederlegging van de vijfendertigste akte van bekrachtiging of toetreding het Verdrag bekrachtigt of tot het Verdrag toetreedt, treedt het Verdrag in werking op de dertigste dag na de nederlegging door deze Staat van zijn akte van bekrachtiging of toetreding.   
+2.  Voor iedere Staat die na de nederlegging van de vijfendertigste akte van bekrachtiging of toetreding het Verdrag bekrachtigt of tot het Verdrag toetreedt, treedt het Verdrag in werking op de dertigste dag na de nederlegging door deze Staat van zijn akte van bekrachtiging of toetreding.  
 
 ### Artikel  85  
 
 ####Authentieke teksten
 
-Het origineel van dit Verdrag, waarvan de Chinese, Engelse, Franse, Russische en Spaanse tekst gelijkelijk authentiek zijn, zal bij de Secretaris-Generaal van de Verenigde Naties worden nedergelegd.  
+Het origineel van dit Verdrag, waarvan de Chinese, Engelse, Franse, Russische en Spaanse tekst gelijkelijk authentiek zijn, zal bij de Secretaris-Generaal van de Verenigde Naties worden nedergelegd. 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun onderscheidene Regeringen, dit Verdrag hebben ondertekend. GEDAAN te Wenen, op drieëntwintig mei negentienhonderd negenenzestig.  
 
 ### Bijlage  
 
-1. De Secretaris-Generaal van de Verenigde Naties maakt een lijst van bemiddelaars op, samengesteld uit bekwame juristen, en houdt deze lijst bij. Te dien einde wordt iedere Lid-Staat van de Verenigde Naties of Staat die partij is bij dit Verdrag uitgenodigd twee bemiddelaars aan te wijzen en de namen van de op deze wijze aangewezen personen vormen de lijst. De aanwijzing van de bemiddelaars, daarbij inbegrepen degenen die aangewezen worden om een voorkomende vacature te vervullen, wordt gedaan vooreen verlengbare periode van vijf jaar. Bij het einde van de periode waarvoor de bemiddelaars zijn aangewezen, gaan zij voort met het uitoefenen van de functies waarvoor zij zijn gekozen overeenkomstig het volgende lid.  
+1. De Secretaris-Generaal van de Verenigde Naties maakt een lijst van bemiddelaars op, samengesteld uit bekwame juristen, en houdt deze lijst bij. Te dien einde wordt iedere Lid-Staat van de Verenigde Naties of Staat die partij is bij dit Verdrag uitgenodigd twee bemiddelaars aan te wijzen en de namen van de op deze wijze aangewezen personen vormen de lijst. De aanwijzing van de bemiddelaars, daarbij inbegrepen degenen die aangewezen worden om een voorkomende vacature te vervullen, wordt gedaan voor een verlengbare periode van vijf jaar. Bij het einde van de periode waarvoor de bemiddelaars zijn aangewezen, gaan zij voort met het uitoefenen van de functies waarvoor zij zijn gekozen overeenkomstig het volgende lid.  
 
 2. Wanneer overeenkomstig artikel 66 een verzoek is gericht aan de Secretaris-Generaal legt hij het geschil voor aan een Bemiddelingscommissie die als volgt is samengesteld: De Staat of de Staten, welke een der partijen bij het geschil vormen, benoemen: 
 
@@ -2000,6 +2000,6 @@ b) een bemiddelaar die niet de nationaliteit bezit van deze Staat of een van dez
 
 5. De Commissie hoort de partijen, onderzoekt de aanspraken en bezwaren en doet voorstellen aan de partijen om hen bij te staan in het bereiken van een minnelijke schikking van het geschil.  
 
-6. De Commissie brengt binnen twaalf maanden na haar instelling verslag uit. Dit verslag wordt nedergelegd bij de Secretaris-Generaal en toegezonden aan de partijen bij het geschil. Het verslag van de Commissie, met inbegrip van alle daarin vermelde gevolgtrekkingen ten aahzieif van feiten of rechtskwesties, is niet bindend voor de partijen en zal geen andere betekenis hebben dan die van aanbevelingen, die ter overweging aan de partijen worden voorgelegd ten einde een minnelijke schikking van het geschil te vergemakkelijken.  
+6. De Commissie brengt binnen twaalf maanden na haar instelling verslag uit. Dit verslag wordt nedergelegd bij de Secretaris-Generaal en toegezonden aan de partijen bij het geschil. Het verslag van de Commissie, met inbegrip van alle daarin vermelde gevolgtrekkingen ten aanzien van feiten of rechtskwesties, is niet bindend voor de partijen en zal geen andere betekenis hebben dan die van aanbevelingen, die ter overweging aan de partijen worden voorgelegd ten einde een minnelijke schikking van het geschil te vergemakkelijken.  
 
 7. De Secretaris-Generaal verschaft de Commissie de hulp en de faciliteiten die zij behoeft. De uitgaven van de Commissie worden gedragen door de Verenigde Naties.     
