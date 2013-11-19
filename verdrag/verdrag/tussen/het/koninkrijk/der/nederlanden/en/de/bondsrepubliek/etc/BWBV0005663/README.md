@@ -11,21 +11,21 @@ Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland (hierna te noemen 
 ####Doelstelling van het verdrag
 
 1.  De Verdragsluitende Partijen streven naar intensivering van de samenwerking tussen hun instanties bij de bestrijding van fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede niet-aangemelde werkzaamheden en met illegaal grensoverschrijdend uitzendwerk.   
-2.  De voorschriften inzake de internationale rechtshulp in strafzaken blijven onverlet.   
+2.  De voorschriften inzake de internationale rechtshulp in strafzaken blijven onverlet.  
 
 ### Artikel  2  
 
 ####Territoriaal toepassingsgebied van het verdrag
 
 1.  Het verdrag is van toepassing op het gehele grondgebied van de Bondsrepubliek Duitsland.   
-2.  Het verdrag is van toepassing op het gehele Europese grondgebied van het Koninkrijk der Nederlanden.   
+2.  Het verdrag is van toepassing op het gehele Europese grondgebied van het Koninkrijk der Nederlanden.  
 
 ### Artikel  3  
 
 ####Aanwijzing van de bevoegde instanties
 
 1.  Dit verdrag valt wat het Koninkrijk der Nederlanden betreft onder de verantwoordelijkheid van de instanties die ressorteren onder het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en wat de Bondsrepubliek Duitsland betreft onder de verantwoordelijkheid van de op federaal niveau verantwoordelijke instanties die ressorteren onder het Bondsministerie van Financiën en het Bondsministerie voor Arbeid en Sociale Zaken en belast zijn met de in artikel 1, eerste lid, omschreven taken.   
-2.  Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland wijzen centrale instanties aan die als hoofdverantwoordelijke met de samenwerking in het kader van dit verdrag belast zullen zijn.   
+2.  Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland wijzen centrale instanties aan die als hoofdverantwoordelijke met de samenwerking in het kader van dit verdrag belast zullen zijn.  
 
 ### Artikel  4  
 
@@ -36,7 +36,7 @@ Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland (hierna te noemen 
 1. van het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland; alsmede  
 
 2. van de overeenkomstig artikel 3, tweede lid, aangewezen instanties.     
-2.  De voor de in artikel 1 genoemde taken bevoegde controlerende en toezichthoudende autoriteiten kunnen rechtstreeks met elkaar samenwerken voor zover dat door de in het eerste lid genoemde instanties is voorzien.   
+2.  De voor de in artikel 1 genoemde taken bevoegde controlerende en toezichthoudende autoriteiten kunnen rechtstreeks met elkaar samenwerken voor zover dat door de in het eerste lid genoemde instanties is voorzien.  
 
 ### Artikel  5  
 
@@ -58,7 +58,7 @@ Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland (hierna te noemen 
 6. het verstrekken van informatie over de voortgang van een procedure, indien daarom verzocht wordt; alsmede  
 
 7. het uitwisselen van medewerkers als stagiair(e)s.     
-3.  Het tweede lid is dienovereenkomstig van toepassing op rechtstreekse samenwerking tussen de controlerende en toezichthoudende autoriteiten overeenkomstig artikel 4, tweede lid.   
+3.  Het tweede lid is dienovereenkomstig van toepassing op rechtstreekse samenwerking tussen de controlerende en toezichthoudende autoriteiten overeenkomstig artikel 4, tweede lid.  
 
 ### Artikel  6  
 
@@ -73,13 +73,13 @@ Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland (hierna te noemen 
 3.  Verzoeken en spontane mededelingen kunnen zonder formaliteiten schriftelijk, via schriftelijke telecommunicatie of elektronisch worden gedaan.   
 4.  Een verzoek of een spontane mededeling wordt niet in behandeling genomen wanneer dit zou leiden tot een onaanvaardbare grote administratieve belasting of in strijd zou zijn met nationale voorschriften respectievelijk de administratieve praktijk. De verzoekende instantie dient te worden geïnformeerd wanneer een verzoek niet in behandeling kan worden genomen, hetgeen met redenen wordt omkleed.   
 5.  De verzoekende instantie dient te worden geïnformeerd wanneer een verzoek aan een andere instantie wordt doorgeleid.   
-6.  Aan een verzoek dient slechts te worden voldaan voor zover de aangezochte instantie tot de desbetreffende informatie toegang heeft of er conform het nationale recht toegang toe kan krijgen.   
+6.  Aan een verzoek dient slechts te worden voldaan voor zover de aangezochte instantie tot de desbetreffende informatie toegang heeft of er conform het nationale recht toegang toe kan krijgen.  
 
 ### Artikel  7  
 
 ####Kosten
 
-Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing van dit verdrag gemaakte kosten.  
+Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing van dit verdrag gemaakte kosten. 
 
 ### Artikel  8  
 
@@ -100,14 +100,14 @@ Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing v
 6. De verstrekkende en ontvangende instantie zijn verplicht de verstrekking en ontvangst van persoonsgegevens te registreren.  
 
 7. De verstrekkende en ontvangende instantie zijn verplicht de verstrekte persoonsgegevens effectief tegen onbevoegde toegang, onbevoegde wijziging en onbevoegde openbaarmaking te beschermen.     
-2.  De bepalingen van het eerste lid gelden dienovereenkomstig voor bedrijfs- en handelsgeheimen.   
+2.  De bepalingen van het eerste lid gelden dienovereenkomstig voor bedrijfs- en handelsgeheimen.  
 
 ### Artikel  9  
 
 ####Gemengde commissie
 
 1.  Een gemengde commissie bestaande uit vertegenwoordigers van het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en van het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland alsmede van de in artikel 3 genoemde instanties komt twaalf maanden na de inwerkingtreding van dit verdrag voor de eerste maal en vervolgens op verzoek van de Verdragsluitende Partijen ten minste om de twee jaar bijeen. Doel is de op grond van dit verdrag bereikte resultaten te evalueren en alle kwesties omtrent de uitlegging of toepassing van het verdrag te behandelen.   
-2.  De gemengde commissie kan vertegenwoordigers van andere nationale instanties en van andere lidstaten van de Europese Unie die belang hebben bij het verwezenlijken van de doelstellingen van het verdrag uitnodigen deel te nemen aan haar werkzaamheden.   
+2.  De gemengde commissie kan vertegenwoordigers van andere nationale instanties en van andere lidstaten van de Europese Unie die belang hebben bij het verwezenlijken van de doelstellingen van het verdrag uitnodigen deel te nemen aan haar werkzaamheden.  
 
 ### Artikel  10  
 
@@ -115,32 +115,32 @@ Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing v
 
 1.  Dit verdrag kan met wederzijds goedvinden van de Verdragsluitende Partijen te allen tijde bij een afzonderlijke overeenkomst gewijzigd worden.   
 2.  De Verdragsluitende Partijen kunnen bij een afzonderlijke overeenkomst bijlagen toevoegen aan het verdrag en de bijlagen van het verdrag wijzigen. De bijlagen maken onderdeel uit van het verdrag.   
-3.  Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën van de Bondsrepubliek Duitsland verplichten zich binnen drie maanden na de inwerkingtreding van dit verdrag een lijst met adressen en telefoonnummers van de in het kader van dit verdrag belaste centrale instanties, bedoeld in artikel 3, eerste en tweede lid, uit te wisselen, alsmede een beschrijving van hun taken, verantwoordelijkheden en bevoegdheden, en deze gegevens regelmatig te actualiseren.   
+3.  Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën van de Bondsrepubliek Duitsland verplichten zich binnen drie maanden na de inwerkingtreding van dit verdrag een lijst met adressen en telefoonnummers van de in het kader van dit verdrag belaste centrale instanties, bedoeld in artikel 3, eerste en tweede lid, uit te wisselen, alsmede een beschrijving van hun taken, verantwoordelijkheden en bevoegdheden, en deze gegevens regelmatig te actualiseren.  
 
 ### Artikel  11  
 
 ####Toepassing van het verdrag
 
-Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland verplichten zich binnen zes maanden na de inwerkingtreding van dit verdrag de uitvoering van het verdrag middels een circulaire voor hun werkterrein te regelen.  
+Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland verplichten zich binnen zes maanden na de inwerkingtreding van dit verdrag de uitvoering van het verdrag middels een circulaire voor hun werkterrein te regelen. 
 
 ### Artikel  12  
 
 ####Registratie van het verdrag
 
-Dit verdrag wordt door het Koninkrijk der Nederlanden onmiddellijk na de inwerkingtreding geregistreerd bij het Secretariaat van de Verenigde Naties overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.  
+Dit verdrag wordt door het Koninkrijk der Nederlanden onmiddellijk na de inwerkingtreding geregistreerd bij het Secretariaat van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md). 
 
 ### Artikel  13  
 
 ####Inwerkingtreding van het verdrag
 
 1.  Dit verdrag dient te worden bekrachtigd; de akten van bekrachtiging worden zo spoedig mogelijk uitgewisseld.   
-2.  Dit verdrag treedt in werking op de eerste dag van de maand volgend op een termijn van drie maanden na de uitwisseling van de akten van bekrachtiging.   
+2.  Dit verdrag treedt in werking op de eerste dag van de maand volgend op een termijn van drie maanden na de uitwisseling van de akten van bekrachtiging.  
 
 ### Artikel  14  
 
 ####Opzegging van het verdrag
 
-Dit verdrag wordt voor onbepaalde duur gesloten. Het kan door elk van de Verdragsluitende Partijen bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij worden opgezegd. De opzegging wordt drie maanden na ontvangst van de kennisgeving door de andere Verdragsluitende Partij van kracht.  
+Dit verdrag wordt voor onbepaalde duur gesloten. Het kan door elk van de Verdragsluitende Partijen bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij worden opgezegd. De opzegging wordt drie maanden na ontvangst van de kennisgeving door de andere Verdragsluitende Partij van kracht. 
 
-GEDAAN te Den Haag, op 12 januari 2012, in tweevoud, in de Nederlandse en Duitse taal, zijnde beide teksten gelijkelijk authentiek.  *Voor het Koninkrijk der Nederlanden,*  KAMP  *Voor de Bondsrepubliek Duitsland,*  HEINZ-PETER BEHR  
+GEDAAN te Den Haag, op 12 januari 2012, in tweevoud, in de Nederlandse en Duitse taal, zijnde beide teksten gelijkelijk authentiek.  *Voor het Koninkrijk der Nederlanden,*   KAMP  *Voor de Bondsrepubliek Duitsland,*  HEINZ-PETER BEHR  
 

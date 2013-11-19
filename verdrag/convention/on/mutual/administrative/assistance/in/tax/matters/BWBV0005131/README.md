@@ -6,7 +6,7 @@
 
 Preamble  
 
-The member States of the Council of Europe and the Member countries of the Organisation for Economic Co-operation and Development (OECD), signatories of this Convention, Considering that the development of international movement of persons, capital, goods and service - although highly beneficial in itself - has increased the possibilities of tax avoidance and evasion and therefore requires increasing co-operation among tax authorities; Welcoming the various effort made in recent years to combat tax avoidance and tax evasion on an international level, whether bilaterally or multilaterally; Considering that a co-ordinated effort between States is necessary in order to foster all forms of administrative assistance in matters concerning taxes of any kind whilst at the same time ensuring adequate protection of the rights of taxpayers; Recognising that international co-operation can play an important part in facilitating the proper determination of tax liabilities and in helping the taxpayer to secure his rights; Considering that fundamental principles entitling every person to have his rights and obligations determined in accordance with a proper legal procedure should be recognised as applying to tax matters in all States and that States should endeavour to protect the legitimate interests of taxpayers, including appropriate protection against discrimination and double taxation; Convinced therefore that States should carry out measures or supply information, having regard to the necessity of protecting the confidentiality of information, and taking account of international instruments for the protection of privacy and flows of personal data; Considering that a new co-operative environment has emerged and that it is desirable that a multilateral instrument is made available to allow the widest number of States to obtain the benefits of the new co-operative environment and at the same time implement the highest international standards of co-operation in the tax field; Desiring to conclude a convention on mutual administrative assistance in tax matters;   Have agreed as follows:     
+The member States of the Council of Europe and the Member countries of the Organisation for Economic Co-operation and Development (OECD), signatories of this Convention, Considering that the development of international movement of persons, capital, goods and service - although highly beneficial in itself - has increased the possibilities of tax avoidance and evasion and therefore requires increasing co-operation among tax authorities; Welcoming the various effort made in recent years to combat tax avoidance and tax evasion on an international level, whether bilaterally or multilaterally; Considering that a co-ordinated effort between States is necessary in order to foster all forms of administrative assistance in matters concerning taxes of any kind whilst at the same time ensuring adequate protection of the rights of taxpayers; Recognising that international co-operation can play an important part in facilitating the proper determination of tax liabilities and in helping the taxpayer to secure his rights; Considering that fundamental principles entitling every person to have his rights and obligations determined in accordance with a proper legal procedure should be recognised as applying to tax matters in all States and that States should endeavour to protect the legitimate interests of taxpayers, including appropriate protection against discrimination and double taxation; Convinced therefore that States should carry out measures or supply information, having regard to the necessity of protecting the confidentiality of information, and taking account of international instruments for the protection of privacy and flows of personal data; Considering that a new co-operative environment has emerged and that it is desirable that a multilateral instrument is made available to allow the widest number of States to obtain the benefits of the new co-operative environment and at the same time implement the highest international standards of co-operation in the tax field; Desiring to conclude a convention on mutual administrative assistance in tax matters;  Have agreed as follows:   
 ### CHAPTER  I  
 
 ####SCOPE OF THE CONVENTION
@@ -23,7 +23,7 @@ a) exchange of information, including simultaneous tax examinations and particip
 b) assistance in recovery, including measures of conservancy; and  
 
 c) service of documents.     
-3.  A Party shall provide administrative assistance whether the person affected is a resident or national of a Party or of any other State.   
+3.  A Party shall provide administrative assistance whether the person affected is a resident or national of a Party or of any other State.  
 
 ### Article  2  
 
@@ -35,17 +35,17 @@ a) to the following taxes:
 
 i. taxes on income or profits,  
 
-ii. taxes on capital gains which are imposed separately from the tax on income or profits,  
+ii.  taxes on capital gains which are imposed separately from the tax on income or profits,  
 
 iii. taxes on net wealth,   imposed on behalf of a Party; and  
 
 b) to the following taxes: 
 
-i. taxes on income, profits, capital gains or net wealth which are imposed on behalf of political subdivisions or local authorities of a Party,  
+i. taxes on income, profits, capital gains or net wealth which are imposed on behalf of political subdivisions or local authorities of a Party,   
 
 ii. compulsory social security contributions payable to general government or to social security institutions established under public law, and  
 
-iii. taxes in other categories, except customs duties, imposed on behalf of a Party, namely: 
+iii.  taxes in other categories, except customs duties, imposed on behalf of a Party, namely: 
 
 A. estate, inheritance or gift taxes,  
 
@@ -64,7 +64,7 @@ G. any other taxes;
 iv. taxes in categories referred to in sub-paragraph (iii) above which are imposed on behalf of political sub-divisions or local authorities of a Party.       
 2.  The existing taxes to which the Convention shall apply are listed in Annex A in the categories referred to in paragraph 1.   
 3.  The Parties shall notify the Secretary General of the Council of Europe or the Secretary General of OECD (hereinafter referred to as the "Depositaries") of any change to be made to Annex A as a result of a modification of the list mentioned in paragraph 2. Such change shall take effect on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Depositary.   
-4.  The Convention shall also apply, as from their adoption, to any identical or substantially similar taxes which are imposed in a Contracting State after the entry into force of the Convention in respect of that Party in addition to or in place of the existing taxes listed in Annex A and, in that event, the Party concerned shall notify one of the Depositaries of the adoption of the tax in question.   
+4.  The Convention shall also apply, as from their adoption, to any identical or substantially similar taxes which are imposed in a Contracting State after the entry into force of the Convention in respect of that Party in addition to or in place of the existing taxes listed in Annex A and, in that event, the Party concerned shall notify one of the Depositaries of the adoption of the tax in question.  
 
 ### CHAPTER  II  
 
@@ -90,7 +90,7 @@ i. all individuals possessing the nationality of that Party, and
 
 ii. all legal persons, partnerships, associations and other entities deriving their status as such from the laws in force in that Party.     For each Party that has made a declaration for that purpose, the terms used above will be understood as defined in Annex C.   
 2.  As regards the application of the Convention by a Party, any term not defined therein shall, unless the context otherwise requires, have the meaning which it has under the law of that Party concerning the taxes covered by the Convention.   
-3.  The Parties shall notify one of the Depositaries of any change to be made to Annexes B and C. Such change shall take effect on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Depositary in question.   
+3.  The Parties shall notify one of the Depositaries of any change to be made to Annexes B and C. Such change shall take effect on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Depositary in question.  
 
 ### CHAPTER  III  
 
@@ -106,20 +106,20 @@ ii. all legal persons, partnerships, associations and other entities deriving th
 
 1.  The Parties shall exchange any information, in particular as provided in this section, that is foreseeably relevant for the administration or enforcement of their domestic laws concerning the taxes covered by this Convention.   
 2.  Deleted.   
-3.  Any Party may, by a declaration addressed to one of the Depositaries, indicate that, according to its internal legislation, its authorities may inform its resident or national before transmitting information concerning him, in conformity with Articles 5 and 7.   
+3.  Any Party may, by a declaration addressed to one of the Depositaries, indicate that, according to its internal legislation, its authorities may inform its resident or national before transmitting information concerning him, in conformity with Articles 5 and 7.  
 
 ### Article  5  
 
 ####Exchange of information on request
 
 1.  At the request of the applicant State, the requested State shall provide the applicant State with any information referred to in Article 4 which concerns particular persons or transactions.   
-2.  If the information available in the tax files of the requested State is not sufficient to enable it to comply with the request for information, that State shall take all relevant measures to provide the applicant State with the information requested.   
+2.  If the information available in the tax files of the requested State is not sufficient to enable it to comply with the request for information, that State shall take all relevant measures to provide the applicant State with the information requested.  
 
 ### Article  6  
 
 ####Automatic exchange of information
 
-With respect to categories of cases and in accordance with procedures which they shall determine by mutual agreement, two or more Parties shall automatically exchange the information referred to in Article 4.  
+With respect to categories of cases and in accordance with procedures which they shall determine by mutual agreement, two or more Parties shall automatically exchange the information referred to in Article 4. 
 
 ### Article  7  
 
@@ -136,14 +136,14 @@ c) business dealings between a person liable to tax in a Party and a person liab
 d) a Party has grounds for supposing that a saving of tax may result from artificial transfers of profits within groups of enterprises;  
 
 e) information forwarded to the first-mentioned Party by the other Party has enabled information to be obtained which may be relevant in assessing liability to tax in the latter Party.     
-2.  Each Party shall take such measures and implement such procedures as are necessary to ensure that information described in paragraph 1 will be made available for transmission to another Party.   
+2.  Each Party shall take such measures and implement such procedures as are necessary to ensure that information described in paragraph 1 will be made available for transmission to another Party.  
 
 ### Article  8  
 
 ####Simultaneous tax examinations
 
 1.  At the request of one of them, two or more Parties shall consult together for the purpose of determining cases and procedures for simultaneous tax examinations. Each Party involved shall decide whether or not it wishes to participate in a particular simultaneous tax examination.   
-2.  For the purposes of this Convention, a simultaneous tax examination means an arrangement between two or more Parties to examine simultaneously, each in its own territory, the tax affairs of a person or persons in which they have a common or related interest, with a view to exchanging any relevant information which they so obtain.   
+2.  For the purposes of this Convention, a simultaneous tax examination means an arrangement between two or more Parties to examine simultaneously, each in its own territory, the tax affairs of a person or persons in which they have a common or related interest, with a view to exchanging any relevant information which they so obtain.  
 
 ### Article  9  
 
@@ -151,13 +151,13 @@ e) information forwarded to the first-mentioned Party by the other Party has ena
 
 1.  At the request of the competent authority of the applicant State, the competent authority of the requested State may allow representatives of the competent authority of the applicant State to be present at the appropriate part of a tax examination in the requested State.   
 2.  If the request is acceded to, the competent authority of the requested State shall, as soon as possible, notify the competent authority of the applicant State about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the requested State for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the requested State.   
-3.  A Party may inform one of the Depositaries of its intention not to accept, as a general rule, such requests as are referred to in paragraph 1. Such a declaration may be made or withdrawn at any time.   
+3.  A Party may inform one of the Depositaries of its intention not to accept, as a general rule, such requests as are referred to in paragraph 1. Such a declaration may be made or withdrawn at any time.  
 
 ### Article  10  
 
 ####Conflicting information
 
-If a Party receives from another Party information about a person's tax affairs which appears to it to conflict with information in its possession, it shall so advise the Party which has provided the information.  
+If a Party receives from another Party information about a person's tax affairs which appears to it to conflict with information in its possession, it shall so advise the Party which has provided the information. 
 
 ### Section  II  
 
@@ -169,13 +169,13 @@ If a Party receives from another Party information about a person's tax affairs 
 
 1.  At the request of the applicant State, the requested State shall, subject to the provisions of Articles 14 and 15, take the necessary steps to recover tax claims of the first-mentioned State as if they were its own tax claims.   
 2.  The provision of paragraph 1 shall apply only to tax claims which form the subject of an instrument permitting their enforcement in the applicant State and, unless otherwise agreed between the Parties concerned, which are not contested. However, where the claim is against a person who is not a resident of the applicant State, paragraph 1 shall only apply, unless otherwise agreed between the Parties concerned, where the claim may no longer be contested.   
-3.  The obligation to provide assistance in the recovery of tax claims concerning a deceased person or his estate, is limited to the value of the estate or of the property acquired by each beneficiary of the estate, according to whether the claim is to be recovered from the estate or from the beneficiaries thereof.   
+3.  The obligation to provide assistance in the recovery of tax claims concerning a deceased person or his estate, is limited to the value of the estate or of the property acquired by each beneficiary of the estate, according to whether the claim is to be recovered from the estate or from the beneficiaries thereof.  
 
 ### Article  12  
 
 ####Measures of conservancy
 
-At the request of the applicant State the requested State shall,with a view to the recovery of an amount of tax, take measures of conservancy even if the claim is contested or is not yet the subject of an instrument permitting enforcement.  
+At the request of the applicant State the requested State shall,with a view to the recovery of an amount of tax, take measures of conservancy even if the claim is contested or is not yet the subject of an instrument permitting enforcement. 
 
 ### Article  13  
 
@@ -188,7 +188,7 @@ a) a declaration that the tax claim concerns a tax covered by the Convention and
 b) an official copy of the instrument permitting enforcement in the applicant State, and  
 
 c) any other document required for recovery or measures of conservancy.     
-2.  The instrument permitting enforcement in the applicant State shall, where appropriate and in accordance with the provisions in force in the requested State, be accepted, recognised, supplemented or replaced as soon as possible after the date of the receipt of the request for assistance, by an instrument permitting enforcement in the latter State.   
+2.  The instrument permitting enforcement in the applicant State shall, where appropriate and in accordance with the provisions in force in the requested State, be accepted, recognised, supplemented or replaced as soon as possible after the date of the receipt of the request for assistance, by an instrument permitting enforcement in the latter State.  
 
 ### Article  14  
 
@@ -196,19 +196,19 @@ c) any other document required for recovery or measures of conservancy.
 
 1.  Questions concerning any period beyond which a tax claim cannot be enforced shall be governed by the law of the applicant State. The request for assistance shall give particulars concerning that period.   
 2.  Acts of recovery carried out by the requested State in pursuance of a request for assistance, which, according to the laws of that State, would have the effect of suspending or interrupting the period mentioned in paragraph 1, shall also have this effect under the laws of the applicant State. The requested State shall inform the applicant State about such acts.   
-3.  In any case, the requested State is not obliged to comply with a request for assistance which is submitted after a period of 15 years from the date of the original instrument permitting enforcement.   
+3.  In any case, the requested State is not obliged to comply with a request for assistance which is submitted after a period of 15 years from the date of the original instrument permitting enforcement.  
 
 ### Article  15  
 
 ####Priority
 
-The tax claim in the recovery of which assistance is provided shall not have in the requested State any priority specially accorded to the tax claims of that State even if the recovery procedure used is the one applicable to its own tax claims.  
+The tax claim in the recovery of which assistance is provided shall not have in the requested State any priority specially accorded to the tax claims of that State even if the recovery procedure used is the one applicable to its own tax claims. 
 
 ### Article  16  
 
 ####Deferral of payment
 
-The requested State may allow deferral of payment or payment by instalments if its laws or administrative practice permit it to do so in similar circumstances, but shall first inform the applicant State.  
+The requested State may allow deferral of payment or payment by instalments if its laws or administrative practice permit it to do so in similar circumstances, but shall first inform the applicant State. 
 
 ### Section  III  
 
@@ -226,7 +226,7 @@ a) by a method prescribed by its domestic laws for the service of documents of a
 b) to the extent possible, by a particular method requested by the applicant State or the closest to such method available under its own laws.     
 3.  A Party may effect service of documents directly through the post on a person within the territory of another Party.   
 4.  Nothing in the Convention shall be construed as invalidating any service of documents by a Party in accordance with its laws.   
-5.  When a document is served in accordance with this Article, it need not be accompanied by a translation. However, where it is satisfied that the addressee cannot understand the language of the document, the requested State shall arrange to have it translated into or a summary drafted in its or one of its official languages. Alternatively, it may ask the applicant State to have the document either translated into or accompanied by a summary in one of the official languages of the requested State, the Council of Europe or the OECD.   
+5.  When a document is served in accordance with this Article, it need not be accompanied by a translation. However, where it is satisfied that the addressee cannot understand the language of the document, the requested State shall arrange to have it translated into or a summary drafted in its or one of its official languages. Alternatively, it may ask the applicant State to have the document either translated into or accompanied by a summary in one of the official languages of the requested State, the Council of Europe or the OECD.  
 
 ### CHAPTER  IV  
 
@@ -249,7 +249,7 @@ d) in the case of a request for assistance in recovery of measures of conservanc
 e) in the case of a request for service of documents, the nature and the subject of the document to be served;  
 
 f) whether it is in conformity with the law and administrative practice of the applicant State and whether it is justified in the light of the requirements of Article 21.2.g.     
-2.  As soon as any other information relevant to the request for assistance comes to its knowledge, the applicant State shall forward it to the requested State.   
+2.  As soon as any other information relevant to the request for assistance comes to its knowledge, the applicant State shall forward it to the requested State.  
 
 ### Article  20  
 
@@ -257,7 +257,7 @@ f) whether it is in conformity with the law and administrative practice of the a
 
 1.  If the request for assistance is complied with, the requested State shall inform the applicant State of the action taken and of the result of the assistance as soon as possible.   
 2.  If the request is declined, the requested State shall inform the applicant State of that decision and the reason for it as soon as possible.   
-3.  If, with respect to a request for information, the applicant State has specified the form in which it wishes the information to be supplied and the requested State is in a position to do so, the requested State shall supply it in the form requested.   
+3.  If, with respect to a request for information, the applicant State has specified the form in which it wishes the information to be supplied and the requested State is in a position to do so, the requested State shall supply it in the form requested.  
 
 ### Article  21  
 
@@ -282,7 +282,7 @@ g) to provide administrative assistance if the applicant State has not pursued a
 
 h) to provide assistance in recovery in those cases where the administrative burden for that state is clearly disproportionate to the benefit to be derived by the applicant State.     
 3.  If information is requested by the applicant State in accordance with this Convention, the requested State shall use its information gathering measures to obtain the requested information, even though the requested State may not need such information for its own tax purposes. The obligation contained in the preceding sentence is subject to the limitations contained in this Convention, but in no case shall such limitations, including in particular those of paragraphs 1 and 2, be construed to permit a requested State to decline to supply information solely because it has no domestic interest in such information.   
-4.  In no case shall the provisions of this Convention, including in particular those of paragraphs 1 and 2, be construed to permit a requested State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.   
+4.  In no case shall the provisions of this Convention, including in particular those of paragraphs 1 and 2, be construed to permit a requested State to decline to supply information solely because the information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.  
 
 ### Article  22  
 
@@ -291,7 +291,7 @@ h) to provide assistance in recovery in those cases where the administrative bur
 1.  Any information obtained by a Party under this Convention shall be treated as secret and protected in the same manner as information obtained under the domestic law of that Party and, to the extent needed to ensure the necessary level of protection of personal data, in accordance with the safeguards which may be specified by the supplying Party as required under its domestic law.   
 2.  Such information shall in any case be disclosed only to persons or authorities (including courts and administrative or supervisory bodies) concerned with the assessment, collection or recovery of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, taxes of that Party, or the oversight of the above. Only the persons or authorities mentioned above may use the information and then only for such purposes. They may, notwithstanding the provisions of paragraph 1, disclose it in public court proceedings or in judicial decisions relating to such taxes.   
 3.  If a Party made a reservation provided for in sub-paragraph a. of paragraph 1 of Article 30, any other Party obtaining information from that Party shall not use it for the purpose of a tax in a category subject to the reservation. Similarly, the Party making such a reservation shall not use information obtained under this Convention for the purpose of a tax in a category subject to the reservation.   
-4.  Notwithstanding the provisions of paragraphs 1, 2 and 3, information received by a Party may be used for other purposes when such information may be used for such other purposes under the laws of the supplying Party and the competent authority of that Party authorises such use. Information provided by a Party to another Party may be transmitted by the latter to a third Party, subject to prior authorisation by the competent authority of the first-mentioned Party.   
+4.  Notwithstanding the provisions of paragraphs 1, 2 and 3, information received by a Party may be used for other purposes when such information may be used for such other purposes under the laws of the supplying Party and the competent authority of that Party authorises such use. Information provided by a Party to another Party may be transmitted by the latter to a third Party, subject to prior authorisation by the competent authority of the first-mentioned Party.  
 
 ### Article  23  
 
@@ -299,7 +299,7 @@ h) to provide assistance in recovery in those cases where the administrative bur
 
 1.  Proceedings relating to measures taken under this Convention by the requested State shall be brought only before the appropriate body of that State.   
 2.  Proceedings relating to measures taken under this Convention by the applicant State, in particular those which, in the field of recovery, concern the existence or the amount of the tax claim or the instrument permitting its enforcement, shall be brought only before the appropriate body of that State. If such proceedings are brought, the applicant State shall inform the requested State which shall suspend the procedure pending the decision of the body in question. However, the requested State shall, is asked by the applicant State, take measures of conservancy to safeguard recovery. The requested State can also be informed of such proceedings by any interested person. Upon receipt of such information the requested State shall consult on the matter, if necessary, with the applicant State.   
-3.  As soon as a final decision in the proceedings has been given, the requested State or the applicant State, as the case may be, shall notify the other State of the decision and the implications which it has for the request for assistance.   
+3.  As soon as a final decision in the proceedings has been given, the requested State or the applicant State, as the case may be, shall notify the other State of the decision and the implications which it has for the request for assistance.  
 
 ### CHAPTER  V  
 
@@ -314,13 +314,13 @@ h) to provide assistance in recovery in those cases where the administrative bur
 3.  A co-ordinating body composed of representatives of the competent authorities of the Parties shall monitor the implementation and development of this Convention, under the aegis of the OECD. To that end, the co-ordinating body shall recommend any action likely to further the general aims of the Convention. In particular it shall act as a forum for the study of new methods and procedures to increase international co-operation in tax matters and, where appropriate, it may recommend revisions or amendments to the Convention. States which have signed but not yet ratified, accepted or approved the Convention are entitled to be represented at the meetings of the co-ordinating body as observers.   
 4.  A Party may ask the co-ordinating body to furnish opinions on the interpretation of the provisions of the Convention.   
 5.  Where difficulties or doubts arise between two or more Parties regarding the implementation or interpretation of the Convention, the competent authorities of those Parties shall endeavour to resolve the matter by mutual agreement. The agreement shall be communicated to the co-ordinating body.   
-6.  The Secretary General of OECD shall inform the Parties and the Signatory States which have not yet ratified, accepted or approved the Convention, of opinions furnished by the co-ordinating body according to the provisions of paragraph 4 above and of mutual agreements reached under paragraph 5 above.   
+6.  The Secretary General of OECD shall inform the Parties and the Signatory States which have not yet ratified, accepted or approved the Convention, of opinions furnished by the co-ordinating body according to the provisions of paragraph 4 above and of mutual agreements reached under paragraph 5 above.  
 
 ### Article  25  
 
 ####Language
 
-Requests for assistance and answers thereto shall be drawn up in one of the official languages of the OECD and of the Council of Europe or in any other language agreed bilaterally between the Contracting States concerned.  
+Requests for assistance and answers thereto shall be drawn up in one of the official languages of the OECD and of the Council of Europe or in any other language agreed bilaterally between the Contracting States concerned. 
 
 ### Article  26  
 
@@ -330,9 +330,9 @@ Unless otherwise agreed bilaterally by the Parties concerned:
 
 a) ordinary costs incurred in providing assistance shall be borne by the requested State;  
 
-b) extraordinary costs incurred in providing assistance shall be borne by the applicant State.    
+b) extraordinary costs incurred in providing assistance shall be borne by the applicant State.   
 
-### CHAPTER  VI  
+###CHAPTER VI 
 
 ####FINAL PROVISIONS
 
@@ -341,7 +341,7 @@ b) extraordinary costs incurred in providing assistance shall be borne by the ap
 ####Other international agreements or arrangements
 
 1.  The possibilities of assistance provided by this Convention do not limit, nor are they limited by, those contained in existing or future international agreements or other arrangements between the Parties concerned or other instruments which relate to co-operation in tax matters.   
-2.  Notwithstanding paragraph 1, those Parties which are member States of the European Union can apply, in their mutual relations, the possibilities of assistance provided for by the Convention in so far as they allow a wider co-operation than the possibilities offered by the applicable European Union rules.   
+2.  Notwithstanding paragraph 1, those Parties which are member States of the European Union can apply, in their mutual relations, the possibilities of assistance provided for by the Convention in so far as they allow a wider co-operation than the possibilities offered by the applicable European Union rules.  
 
 ### Article  28  
 
@@ -350,10 +350,10 @@ b) extraordinary costs incurred in providing assistance shall be borne by the ap
 1.  This Convention shall be open for signature by the member States of the Council of Europe and the Member countries of OECD. It is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with one of the Depositaries.   
 2.  This Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which five States have expressed their consent to be bound by the Convention in accordance with the provisions of paragraph 1.   
 3.  In respect of any member State of the Council of Europe or any Member country of OECD which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.   
-4.  Any member State of the Council of Europe or any member country of OECD which becomes a Party to the Convention after the entry into force of the Protocol amending this Convention, opened for signature on the 27 <sup>th</sup> day of May 2010 (the “2010 Protocol”), shall be a Party to the Convention as amended by that Protocol, unless they express a different intention in a written communication to one of the Depositaries.   
+4.  Any member State of the Council of Europe or any member country of OECD which becomes a Party to the Convention after the entry into force of the Protocol amending this Convention, opened for signature on the 27<sup>th</sup> day of May 2010 (the “2010 Protocol”), shall be a Party to the Convention as amended by that Protocol, unless they express a different intention in a written communication to one of the Depositaries.   
 5.  After the entry into force of the 2010 Protocol, any State which is not a member of the Council of Europe or of the OECD may request to be invited to sign and ratify this Convention as amended by the 2010 Protocol. Any request to this effect shall be addressed to one of the Depositaries, who shall transmit it to the Parties. The Depositary shall also inform the Committee of Ministers of the Council of Europe and the OECD Council. The decision to invite States which so request to become Party to this Convention shall be taken by consensus by the Parties to the Convention through the co-ordinating body. In respect of any State ratifying the Convention as amended by the 2010 Protocol in accordance with this paragraph, this Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of ratification with one of the Depositaries.   
 6.  The provisions of this Convention, as amended by the 2010 Protocol, shall have effect for administrative assistance related to taxable periods beginning on or after 1 January of the year following the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party, or where there is no taxable period, for administrative assistance related to charges to tax arising on or after 1 January of the year following the one in which the Convention, as amended by the 2010 Protocol, entered into force in respect of a Party. Any two or more Parties may mutually agree that the Convention, as amended by the 2010 Protocol, shall have effect for administrative assistance related to earlier taxable periods or charges to tax.   
-7.  Notwithstanding paragraph 6, for tax matters involving intentional conduct which is liable to prosecution under the criminal laws of the applicant Party, the provisions of this Convention, as amended by the 2010 Protocol, shall have effect from the date of entry into force in respect of a Party in relation to earlier taxable periods or charges to tax.   
+7.  Notwithstanding paragraph 6, for tax matters involving intentional conduct which is liable to prosecution under the criminal laws of the applicant Party, the provisions of this Convention, as amended by the 2010 Protocol, shall have effect from the date of entry into force in respect of a Party in relation to earlier taxable periods or charges to tax.  
 
 ### Article  29  
 
@@ -361,7 +361,7 @@ b) extraordinary costs incurred in providing assistance shall be borne by the ap
 
 1.  Each State may, at the time of signature, or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Convention shall apply.   
 2.  Any State may, at any later date, by a declaration addressed to one of the Depositaries, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Depositary.   
-3.  Any declaration made under either of the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to one of the Depositaries. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Depositary.   
+3.  Any declaration made under either of the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to one of the Depositaries. The withdrawal shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Depositary.  
 
 ### Article  30  
 
@@ -383,7 +383,7 @@ f) to apply paragraph 7 of Article 28 exclusively for administrative assistance 
 2.  No other reservation may be made.   
 3.  After entry into force of the Convention in respect of a Party that Party may make one or more of the reservations listed in paragraph 1 which it did not make at the time of ratification, acceptance or approval. Such reservations shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of the reservation by one of the Depositaries.   
 4.  Any Party which has made a reservation under paragraphs 1 and 3 may wholly or partly withdraw it by means of a notification addressed to one of the Depositaries. The withdrawal shall take effect on the date of receipt of such notification by the Depositary in question.   
-5.  A Party which has made a reservation in respect of a provision of this Convention may not require the application of that provision by any other Party; it may, however, if its reservation is partial, require the application of that provision insofar as it has itself accepted it.   
+5.  A Party which has made a reservation in respect of a provision of this Convention may not require the application of that provision by any other Party; it may, however, if its reservation is partial, require the application of that provision insofar as it has itself accepted it.  
 
 ### Article  31  
 
@@ -391,7 +391,7 @@ f) to apply paragraph 7 of Article 28 exclusively for administrative assistance 
 
 1.  Any Party may, at any time, denounce this Convention by means of a notification addressed to one of the Depositaries.   
 2.  Such denunciation shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of the notification by the Depositary.   
-3.  Any Party which denounces the Convention shall remain bound by the provisions of Article 22 for as long as it retains in its possession any documents or information obtained under the Convention.   
+3.  Any Party which denounces the Convention shall remain bound by the provisions of Article 22 for as long as it retains in its possession any documents or information obtained under the Convention.  
 
 ### Article  32  
 
@@ -412,7 +412,7 @@ e) any reservation made in pursuance of the provisions of Article 30 and the wit
 f) any notification received in pursuance of the provisions of paragraph 3 or 4 of Article 2, paragraph 3 of Article 3, Article 29 or paragraph 1 of Article 31;  
 
 g) any other act, notification or communication relating to this Convention.     
-2.  The Depositary receiving a communication or making a notification in pursuance of the provisions of paragraph 1 shall inform immediately the other Depositary thereof.   
+2.  The Depositary receiving a communication or making a notification in pursuance of the provisions of paragraph 1 shall inform immediately the other Depositary thereof.  
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention. DONE at Strasbourg, the 25th day of January 1988, in English and French, both texts being equally authentic, in two copies of which one shall be deposited in the archives of the Council of Europe and the other in the archives of OECD. The Secretaries General of the Council of Europe and of OECD shall transmit certified copies to each member State of the Council of Europe and Member country of OECD.  
 
@@ -438,7 +438,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed t
 
 Preambule  
 
-De lidstaten van de Raad van Europa en de lidstaten van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die dit Verdrag hebben ondertekend, Overwegend dat de ontwikkeling van het internationale verkeer van personen, kapitaal, goederen en diensten - hoewel deze op zich zeer gunstig is - de mogelijkheden van ontgaan van belasting en belastingontduiking heeft vergroot, en derhalve toenemende samenwerking tussen de belastingautoriteiten vereist; Verheugd over de verschillende inspanningen die de laatste jaren zijn verricht, bilateraal dan wel multilateraal, om ontgaan van belasting en belastingontduiking op internationaal niveau tegen te gaan; Overwegend dat een gezamenlijke inspanning van de Staten nodig is ter bevordering van alle vormen van administratieve bijstand in aangelegenheden betreffende belastingen van iedere soort, terwijl tegelijkertijd passende bescherming van de rechten van belastingplichtigen wordt verzekerd; Erkennend dat internationale samenwerking een belangrijke rol kan spelen bij het vergemakkelijken van de juiste vaststelling van de belastingverplichtingen en bij het helpen van de belastingplichtige opdat diens rechten worden geëerbiedigd; Overwegend dat de fundamentele beginselen die iedere persoon het recht geven op vaststelling van zijn rechten en verplichtingen in overeenstemming met een behoorlijke wettelijke procedure, dienen te worden erkend als van toepassing op fiscale aangelegenheden in alle Staten, en dat de Staten ernaar dienen te streven de legitieme belangen van belastingplichtigen te beschermen, en met name passende bescherming te bieden tegen discriminatie en dubbele belasting; Er derhalve van overtuigd dat Staten maatregelen dienen uit te voeren of inlichtingen dienen te verstrekken, rekening houdend met de noodzaak van het beschermen van de vertrouwelijkheid van de inlichtingen en met internationale instrumenten ter bescherming van de privacy en de stromen van persoonsgegevens; Overwegend dat er een nieuw kader van samenwerking is ontstaan en dat het wenselijk is een multilateraal instrument beschikbaar te stellen om zoveel mogelijk Staten in de gelegenheid te stellen te profiteren van het nieuwe kader van samenwerking en tevens de hoogste internationale normen voor samenwerking op belastinggebied te implementeren; Geleid door de wens een verdrag te sluiten inzake wederzijdse administratieve bijstand in belastingzaken,   Zijn het volgende overeengekomen:     
+De lidstaten van de Raad van Europa en de lidstaten van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die dit Verdrag hebben ondertekend, Overwegend dat de ontwikkeling van het internationale verkeer van personen, kapitaal, goederen en diensten - hoewel deze op zich zeer gunstig is - de mogelijkheden van ontgaan van belasting en belastingontduiking heeft vergroot, en derhalve toenemende samenwerking tussen de belastingautoriteiten vereist; Verheugd over de verschillende inspanningen die de laatste jaren zijn verricht, bilateraal dan wel multilateraal, om ontgaan van belasting en belastingontduiking op internationaal niveau tegen te gaan; Overwegend dat een gezamenlijke inspanning van de Staten nodig is ter bevordering van alle vormen van administratieve bijstand in aangelegenheden betreffende belastingen van iedere soort, terwijl tegelijkertijd passende bescherming van de rechten van belastingplichtigen wordt verzekerd; Erkennend dat internationale samenwerking een belangrijke rol kan spelen bij het vergemakkelijken van de juiste vaststelling van de belastingverplichtingen en bij het helpen van de belastingplichtige opdat diens rechten worden geëerbiedigd; Overwegend dat de fundamentele beginselen die iedere persoon het recht geven op vaststelling van zijn rechten en verplichtingen in overeenstemming met een behoorlijke wettelijke procedure, dienen te worden erkend als van toepassing op fiscale aangelegenheden in alle Staten, en dat de Staten ernaar dienen te streven de legitieme belangen van belastingplichtigen te beschermen, en met name passende bescherming te bieden tegen discriminatie en dubbele belasting; Er derhalve van overtuigd dat Staten maatregelen dienen uit te voeren of inlichtingen dienen te verstrekken, rekening houdend met de noodzaak van het beschermen van de vertrouwelijkheid van de inlichtingen en met internationale instrumenten ter bescherming van de privacy en de stromen van persoonsgegevens; Overwegend dat er een nieuw kader van samenwerking is ontstaan en dat het wenselijk is een multilateraal instrument beschikbaar te stellen om zoveel mogelijk Staten in de gelegenheid te stellen te profiteren van het nieuwe kader van samenwerking en tevens de hoogste internationale normen voor samenwerking op belastinggebied te implementeren; Geleid door de wens een verdrag te sluiten inzake wederzijdse administratieve bijstand in belastingzaken,  Zijn het volgende overeengekomen:    
 ### HOOFDSTUK  I  
 
 ####WERKINGSSFEER VAN HET VERDRAG
@@ -455,7 +455,7 @@ a. uitwisseling van inlichtingen, met inbegrip van gelijktijdig boekenonderzoek 
 b. bijstand bij invordering met inbegrip van conservatoire maatregelen; en  
 
 c. uitreiking van documenten.     
-3.  Een Partij verleent administratieve bijstand ongeacht of de betrokkene een inwoner of onderdaan van een Partij of van een andere Staat is.   
+3.  Een Partij verleent administratieve bijstand ongeacht of de betrokkene een inwoner of onderdaan van een Partij of van een andere Staat is.  
 
 ### Artikel  2  
 
@@ -496,7 +496,7 @@ G. alle andere belastingen.
 iv. belastingen in de hierboven onder (iii) genoemde categorieën die worden geheven ten behoeve van staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen van een Partij.       
 2.  De bestaande belastingen waarop het Verdrag van toepassing is, zijn in Bijlage A opgesomd in de in het eerste lid genoemde categorieën.   
 3.  De Partijen stellen de Secretaris-Generaal van de Raad van Europa of de Secretaris-Generaal van de OESO (hierna te noemen de „Depositarissen”) in kennis van iedere wijziging die dient te worden aangebracht in Bijlage A als gevolg van een aanpassing van de in het tweede lid bedoelde lijst. Een zodanige wijziging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van een desbetreffende kennisgeving door de Depositaris.   
-4.  Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen, vanaf de datum waarop zij zijn ingevoerd, die in een verzoekende Staat na de inwerkingtreding van het Verdrag ten aanzien van die Partij worden geheven naast of in plaats van de in Bijlage A opgesomde bestaande belastingen; in dat geval stelt de betrokken Partij één van de Depositarissen ervan in kennis dat de belasting in kwestie is ingevoerd.   
+4.  Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen, vanaf de datum waarop zij zijn ingevoerd, die in een verzoekende Staat na de inwerkingtreding van het Verdrag ten aanzien van die Partij worden geheven naast of in plaats van de in Bijlage A opgesomde bestaande belastingen; in dat geval stelt de betrokken Partij één van de Depositarissen ervan in kennis dat de belasting in kwestie is ingevoerd.  
 
 ### HOOFDSTUK  II  
 
@@ -522,7 +522,7 @@ i. alle personen die de nationaliteit van die Partij bezitten, en
 
 ii. alle rechtspersonen, vennootschappen, verenigingen en andere eenheden die hun rechtspositie als zodanig ontlenen aan de wetgeving die in die Partij van kracht is.     Voor iedere Partij die een daartoe strekkende verklaring heeft afgelegd, worden de hierboven gehanteerde begrippen opgave zoals omschreven in Bijlage C.   
 2.  Voor de toepassing van het Verdrag door een Partij heeft ieder daarin niet omschreven begrip, tenzij het zinsverband anders vereist, de betekenis die het heeft krachtens de wetgeving van die Partij met betrekking tot de belastingen waarop het Verdrag van toepassing is.   
-3.  De Partijen stellen één van de Depositarissen in kennis van iedere wijziging die dient te worden aangebracht in de Bijlagen B en C. Een zodanige wijziging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van een zodanige kennisgeving door de desbetreffende Depositaris.   
+3.  De Partijen stellen één van de Depositarissen in kennis van iedere wijziging die dient te worden aangebracht in de Bijlagen B en C. Een zodanige wijziging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van een zodanige kennisgeving door de desbetreffende Depositaris.  
 
 ### HOOFDSTUK  III  
 
@@ -538,20 +538,20 @@ ii. alle rechtspersonen, vennootschappen, verenigingen en andere eenheden die hu
 
 1.  De Partijen wisselen alle inlichtingen uit, met name zoals voorzien in dit deel, die naar verwachting van belang zijn voor de toepassing of handhaving van hun nationale wetten ter zake van de belastingen waarop dit Verdrag van toepassing is.   
 2.  Geschrapt.   
-3.  Iedere Partij kan, door middel van een aan een van de Depositarissen gerichte verklaring, te kennen geven dat haar autoriteiten volgens haar nationale wetgeving haar inwoner of onderdaan in kennis kunnen stellen alvorens hem betreffende inlichtingen te verstrekken, in overeenstemming met de artikelen 5 en 7.   
+3.  Iedere Partij kan, door middel van een aan een van de Depositarissen gerichte verklaring, te kennen geven dat haar autoriteiten volgens haar nationale wetgeving haar inwoner of onderdaan in kennis kunnen stellen alvorens hem betreffende inlichtingen te verstrekken, in overeenstemming met de artikelen 5 en 7.  
 
 ### Artikel  5  
 
 ####Uitwisseling van inlichtingen op verzoek
 
 1.  Op verzoek van de verzoekende Staat verstrekt de aangezochte Staat aan de verzoekende Staat alle in artikel 4 bedoelde inlichtingen die betrekking hebben op bepaalde personen of transacties.   
-2.  Indien de inlichtingen die voorhanden zijn in de belastingdossiers van de aangezochte Staat niet voldoende zijn om deze in staat te stellen aan het verzoek om inlichtingen te voldoen, neemt die Staat alle passende maatregelen om de verzoekende Staat de gevraagde inlichtingen te verstrekken.   
+2.  Indien de inlichtingen die voorhanden zijn in de belastingdossiers van de aangezochte Staat niet voldoende zijn om deze in staat te stellen aan het verzoek om inlichtingen te voldoen, neemt die Staat alle passende maatregelen om de verzoekende Staat de gevraagde inlichtingen te verstrekken.  
 
 ### Artikel  6  
 
 ####Automatische uitwisseling van inlichtingen
 
-Ten aanzien van categorieën van gevallen en in overeenstemming met procedures die zij in onderlinge overeenstemming vaststellen, wisselen twee of meer Partijen automatisch de in artikel 4 bedoelde inlichtingen uit.  
+Ten aanzien van categorieën van gevallen en in overeenstemming met procedures die zij in onderlinge overeenstemming vaststellen, wisselen twee of meer Partijen automatisch de in artikel 4 bedoelde inlichtingen uit. 
 
 ### Artikel  7  
 
@@ -559,7 +559,7 @@ Ten aanzien van categorieën van gevallen en in overeenstemming met procedures d
 
 1.  Een Partij verstrekt een andere Partij zonder voorafgaand verzoek inlichtingen waarover zij beschikt in de volgende situaties: 
 
-a. de eerstbedoelde Partij heeft redenen te veronderstellen dat door de andere Partij ten onrechte te weinig belasting zal worden geheven of een heffing ten onrechte achterwege is gebleven;  
+a.  de eerstbedoelde Partij heeft redenen te veronderstellen dat door de andere Partij ten onrechte te weinig belasting zal worden geheven of een heffing ten onrechte achterwege is gebleven;  
 
 b. een belastingplichtige verkrijgt een belastingvermindering of een vrijstelling van belasting in de eerstbedoelde Partij waardoor een belastingverhoging of belastingplicht zou ontstaan in de andere Partij;  
 
@@ -568,14 +568,14 @@ c. tussen een belastingplichtige in de ene Partij en een belastingplichtige in d
 d. een Partij heeft redenen aan te nemen dat een belastingbesparing kan voortvloeien uit kunstmatige winstverschuivingen binnen groepen ondernemingen;  
 
 e. inlichtingen, verstrekt aan de eerstbedoelde Partij door de andere Partij, hebben het mogelijk gemaakt dat inlichtingen worden verkregen die van belang kunnen zijn bij het vaststellen van de belastingplicht in de laatstbedoelde Partij.     
-2.  Elke Partij neemt de maatregelen en legt de procedures ten uitvoer die noodzakelijk zijn om te verzekeren dat de in het eerste lid beschreven inlichtingen beschikbaar worden gesteld om aan een andere Partij te worden toegezonden.   
+2.  Elke Partij neemt de maatregelen en legt de procedures ten uitvoer die noodzakelijk zijn om te verzekeren dat de in het eerste lid beschreven inlichtingen beschikbaar worden gesteld om aan een andere Partij te worden toegezonden.  
 
 ### Artikel  8  
 
 ####Gelijktijdige boekenonderzoeken
 
 1.  Op verzoek van één van hen plegen twee of meer Partijen onderling overleg ten einde te bepalen welke gevallen worden onderworpen aan en procedures vast te stellen voor gelijktijdige boekenonderzoeken. Elke betrokken Partij beslist per geval of zij al dan niet deelneemt aan een gelijktijdig boekenonderzoek.   
-2.  Voor de toepassing van dit Verdrag wordt onder een gelijktijdig boekenonderzoek verstaan een regeling tussen twee of meer Partijen om gelijktijdig, elke Partij op haar eigen grondgebied, de fiscale aangelegenheden van een persoon of personen te onderzoeken waarbij zij een gemeenschappelijk belang of verwante belangen hebben, ten einde alle van belang zijnde inlichtingen die zij aldus verkrijgen, uit te wisselen.   
+2.  Voor de toepassing van dit Verdrag wordt onder een gelijktijdig boekenonderzoek verstaan een regeling tussen twee of meer Partijen om gelijktijdig, elke Partij op haar eigen grondgebied, de fiscale aangelegenheden van een persoon of personen te onderzoeken waarbij zij een gemeenschappelijk belang of verwante belangen hebben, ten einde alle van belang zijnde inlichtingen die zij aldus verkrijgen, uit te wisselen.  
 
 ### Artikel  9  
 
@@ -583,13 +583,13 @@ e. inlichtingen, verstrekt aan de eerstbedoelde Partij door de andere Partij, he
 
 1.  Op verzoek van de bevoegde autoriteit van de verzoekende Staat kan de bevoegde autoriteit van de aangezochte Staat vertegenwoordigers van de bevoegde autoriteit van de verzoekende Staat toestaan aanwezig te zijn bij het voor die Staat van belang zijnde gedeelte van een boekenonderzoek in de aangezochte Staat.   
 2.  Indien het verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de aangezochte Staat de bevoegde autoriteit van de verzoekende Staat zo spoedig mogelijk in kennis van het tijdstip en de plaats van het onderzoek, de autoriteit of de functionaris die is aangewezen om het onderzoek te verrichten, de te volgen procedures en de voorwaarden gesteld door de aangezochte Staat voor het verrichten van het onderzoek. Alle beslissingen met betrekking tot het verrichten van het boekenonderzoek worden genomen door de aangezochte Staat.   
-3.  Een Partij kan de Depositarissen haar voornemen mededelen verzoeken zoals bedoeld in het eerste lid in de regel niet te aanvaarden. Een zodanige verklaring kan te allen tijde worden afgelegd of ingetrokken.   
+3.  Een Partij kan de Depositarissen haar voornemen mededelen verzoeken zoals bedoeld in het eerste lid in de regel niet te aanvaarden. Een zodanige verklaring kan te allen tijde worden afgelegd of ingetrokken.  
 
 ### Artikel  10  
 
 ####Tegenstrijdige inlichtingen
 
-Indien een Partij van een andere Partij inlichtingen over de belastingzaken van een persoon ontvangt die klaarblijkelijk in strijd zijn met inlichtingen waarover zij beschikt, deelt zij dit mede aan de Partij die de inlichtingen heeft verstrekt.  
+Indien een Partij van een andere Partij inlichtingen over de belastingzaken van een persoon ontvangt die klaarblijkelijk in strijd zijn met inlichtingen waarover zij beschikt, deelt zij dit mede aan de Partij die de inlichtingen heeft verstrekt. 
 
 ### Deel  II  
 
@@ -601,13 +601,13 @@ Indien een Partij van een andere Partij inlichtingen over de belastingzaken van 
 
 1.  Op verzoek van de verzoekende Staat onderneemt de aangezochte Staat, behoudens de bepalingen van de artikelen 14 en 15, de nodige stappen om verschuldigde belasting van de eerstbedoelde Staat in te vorderen alsof het aan hemzelf verschuldigde belasting betrof.   
 2.  De bepalingen van het eerste lid zijn slechts van toepassing op verschuldigde belasting die onderwerp is van een executoriale titel in de verzoekende Staat en, tenzij anders overeengekomen tussen de betrokken Partijen, die niet wordt bestreden. Indien de vordering echter een persoon betreft die geen inwoner van de verzoekende Staat is, is het eerste lid slechts van toepassing indien de vordering niet langer kan worden bestreden, tenzij anders overeengekomen tussen de betrokken Partijen.   
-3.  De verplichting om bijstand te verlenen bij het invorderen van verschuldigde belasting betreffende een overledene of zijn nalatenschap is beperkt tot de waarde van de nalatenschap of van de goederen verkregen door iedere begunstigde van de nalatenschap, afhankelijk van de vraag of de verschuldigde belasting dient te worden ingevorderd uit de nalatenschap of bij de erfgenamen.   
+3.  De verplichting om bijstand te verlenen bij het invorderen van verschuldigde belasting betreffende een overledene of zijn nalatenschap is beperkt tot de waarde van de nalatenschap of van de goederen verkregen door iedere begunstigde van de nalatenschap, afhankelijk van de vraag of de verschuldigde belasting dient te worden ingevorderd uit de nalatenschap of bij de erfgenamen.  
 
 ### Artikel  12  
 
 ####Conservatoire maatregelen
 
-Op verzoek van de verzoekende Staat neemt de aangezochte Staat, met het oog op de invordering van een belastingbedrag, conservatoire maatregelen zelfs indien de vordering wordt bestreden en nog niet invorderbaar is.  
+Op verzoek van de verzoekende Staat neemt de aangezochte Staat, met het oog op de invordering van een belastingbedrag, conservatoire maatregelen zelfs indien de vordering wordt bestreden en nog niet invorderbaar is. 
 
 ### Artikel  13  
 
@@ -620,7 +620,7 @@ a. een verklaring dat de verschuldigde belasting van een soort is waarop het Ver
 b. een officieel afschrift van de akte die het nemen van dwangmaatregelen toestaat in de verzoekende Staat, en  
 
 c. ieder ander document dat vereist is voor invordering of conservatoire maatregelen.     
-2.  De akte die het nemen van dwangmaatregelen toestaat in de verzoekende Staat wordt, indien passend en in overeenstemming met de in de aangezochte Staat van kracht zijnde bepalingen, zo spoedig mogelijk na de datum van ontvangst van het verzoek om bijstand aanvaard, erkend of aangevuld, dan wel vervangen door een akte die het nemen van dwangmaatregelen toestaat in de aangezochte Staat.   
+2.  De akte die het nemen van dwangmaatregelen toestaat in de verzoekende Staat wordt, indien passend en in overeenstemming met de in de aangezochte Staat van kracht zijnde bepalingen, zo spoedig mogelijk na de datum van ontvangst van het verzoek om bijstand aanvaard, erkend of aangevuld, dan wel vervangen door een akte die het nemen van dwangmaatregelen toestaat in de aangezochte Staat.  
 
 ### Artikel  14  
 
@@ -628,19 +628,19 @@ c. ieder ander document dat vereist is voor invordering of conservatoire maatreg
 
 1.  Vragen betreffende het tijdvak waarbuiten niet langer kan worden ingevorderd vallen onder de wetgeving van de verzoekende Staat. Het verzoek om bijstand geeft bijzonderheden aangaande dat tijdvak.   
 2.  Handelingen betreffende invordering, verricht door de aangezochte Staat ingevolge een verzoek om bijstand, die, overeenkomstig de wetgeving van die Staat, een schorsende werking of een onderbreking van het in het eerste lid bedoelde tijdvak tot gevolg zouden hebben, worden geacht hetzelfde gevolg te hebben voor de toepassing van de wetgeving van de verzoekende Staat. De aangezochte Staat doet de verzoekende Staat mededeling van zodanige handelingen.   
-3.  De aangezochte Staat is in geen enkel geval verplicht te voldoen aan een verzoek om bijstand dat wordt ingediend na het verstrijken van een tijdvak van 15 jaar vanaf de datum van de oorspronkelijke akte die het nemen van dwangmaatregelen toestaat.   
+3.  De aangezochte Staat is in geen enkel geval verplicht te voldoen aan een verzoek om bijstand dat wordt ingediend na het verstrijken van een tijdvak van 15 jaar vanaf de datum van de oorspronkelijke akte die het nemen van dwangmaatregelen toestaat.  
 
 ### Artikel  15  
 
 ####Prioriteit
 
-De verschuldigde belasting bij de invordering waarvan bijstand wordt verleend, heeft in de aangezochte Staat niet de prioriteit die in het bijzonder wordt toegekend aan invordering van verschuldigde belasting van die Staat, ook al wordt dezelfde invorderingsprocedure toegepast als die welke op aan hemzelf verschuldigde belasting van toepassing is.  
+De verschuldigde belasting bij de invordering waarvan bijstand wordt verleend, heeft in de aangezochte Staat niet de prioriteit die in het bijzonder wordt toegekend aan invordering van verschuldigde belasting van die Staat, ook al wordt dezelfde invorderingsprocedure toegepast als die welke op aan hemzelf verschuldigde belasting van toepassing is. 
 
 ### Artikel  16  
 
 ####Uitstel van betaling
 
-De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan indien zijn wetgeving of zijn administratieve praktijk dit toestaat in soortgelijke omstandigheden, echter niet zonder de verzoekende Staat hiervan eerst mededeling te doen.  
+De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan indien zijn wetgeving of zijn administratieve praktijk dit toestaat in soortgelijke omstandigheden, echter niet zonder de verzoekende Staat hiervan eerst mededeling te doen. 
 
 ### Deel  III  
 
@@ -658,7 +658,7 @@ a. volgens een door zijn nationale wetgeving voorgeschreven methode voor uitreik
 b. voor zover mogelijk, volgens een bepaalde door de verzoekende Staat verzochte methode of volgens een krachtens zijn eigen wetgeving bestaande methode die de verzochte methode het dichtst benadert.     
 3.  Een Partij kan documenten rechtstreeks per post uitreiken aan een persoon die zich op het grondgebied van een andere Partij bevindt.   
 4.  Geen enkele bepaling van dit Verdrag mag zodanig worden uitgelegd dat deze de uitreiking van documenten door een Partij in overeenstemming met haar wetgeving ongeldig maakt.   
-5.  Wanneer een document wordt uitgereikt in overeenstemming met dit artikel, behoeft het niet vergezeld te gaan van een vertaling. Indien echter met zekerheid is vastgesteld dat de geadresseerde de taal van het document niet begrijpt, treft de aangezochte Staat regelingen om het te doen vertalen of samenvatten in zijn officiële taal of één van zijn officiële talen. Een andere mogelijkheid is dat de aangezochte Staat de verzoekende Staat vraagt het document te doen vertalen in of vergezeld te doen gaan van een samenvatting in één van de officiële talen van de aangezochte Staat, de Raad van Europa of de OESO.   
+5.  Wanneer een document wordt uitgereikt in overeenstemming met dit artikel, behoeft het niet vergezeld te gaan van een vertaling. Indien echter met zekerheid is vastgesteld dat de geadresseerde de taal van het document niet begrijpt, treft de aangezochte Staat regelingen om het te doen vertalen of samenvatten in zijn officiële taal of één van zijn officiële talen. Een andere mogelijkheid is dat de aangezochte Staat de verzoekende Staat vraagt het document te doen vertalen in of vergezeld te doen gaan van een samenvatting in één van de officiële talen van de aangezochte Staat, de Raad van Europa of de OESO.  
 
 ### HOOFDSTUK  IV  
 
@@ -681,7 +681,7 @@ d. in geval van een verzoek om bijstand bij invordering of bij conservatoire maa
 e. in geval van een verzoek om uitreiking van documenten, de aard en het onderwerp van het uit te reiken document;  
 
 f. de vraag of het verzoek in overeenstemming is met de wetgeving en de administratieve praktijk van de verzoekende Staat en of het verzoek gerechtvaardigd is gezien de vereisten van artikel 21, tweede lid, onderdeel g.     
-2.  Zodra de verzoekende Staat andere inlichtingen verkrijgt die verband houden met het verzoek om bijstand, zendt de verzoekende Staat deze aan de aangezochte Staat.   
+2.  Zodra de verzoekende Staat andere inlichtingen verkrijgt die verband houden met het verzoek om bijstand, zendt de verzoekende Staat deze aan de aangezochte Staat.  
 
 ### Artikel  20  
 
@@ -689,7 +689,7 @@ f. de vraag of het verzoek in overeenstemming is met de wetgeving en de administ
 
 1.  Indien het verzoek om bijstand wordt ingewilligd, doet de aangezochte Staat de verzoekende Staat zo spoedig mogelijk mededeling van de genomen maatregelen en van het resultaat van de bijstand.   
 2.  Indien het verzoek wordt afgewezen, doet de aangezochte Staat de verzoekende Staat zo spoedig mogelijk mededeling van deze beslissing en de reden daarvan.   
-3.  Indien de verzoekende Staat ten aanzien van een verzoek om inlichtingen heeft aangegeven in welke vorm hij de inlichtingen wenst te ontvangen, en indien de aangezochte Staat in staat is hieraan te voldoen, verstrekt de aangezochte Staat de inlichtingen in de gevraagde vorm.   
+3.  Indien de verzoekende Staat ten aanzien van een verzoek om inlichtingen heeft aangegeven in welke vorm hij de inlichtingen wenst te ontvangen, en indien de aangezochte Staat in staat is hieraan te voldoen, verstrekt de aangezochte Staat de inlichtingen in de gevraagde vorm.  
 
 ### Artikel  21  
 
@@ -714,7 +714,7 @@ g. administratieve bijstand te verlenen indien de verzoekende Staat niet alle re
 
 h. bijstand bij de invordering te verlenen in gevallen waarin de administratieve last voor die Staat kennelijk niet in verhouding staat tot het voordeel te behalen door de verzoekende Staat.     
 3.  Indien in overeenstemming met dit Verdrag om inlichtingen wordt verzocht door de verzoekende Staat, wendt de aangezochte Staat zijn maatregelen inzake het verzamelen van inlichtingen aan om de verzochte inlichtingen te verkrijgen, ongeacht het feit dat de aangezochte Staat ten behoeve van zijn eigen belastingheffing niet over dergelijke inlichtingen behoeft te beschikken. Op de in de vorige zin vervatte verplichting zijn de in dit Verdrag vervatte beperkingen van toepassing, maar deze beperkingen, in het bijzonder die van het eerste en tweede lid, mogen in geen geval zodanig worden uitgelegd dat het een aangezochte Staat toegestaan is uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke inlichtingen te weigeren inlichtingen te verstrekken.   
-4.  De bepalingen van dit Verdrag, in het bijzonder die van het eerste en tweede lid, mogen in geen geval zodanig worden uitgelegd dat het een aangezochte Staat toegestaan is het verstrekken van inlichtingen te weigeren uitsluitend op grond van het feit dat de betreffende gegevens berusten bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een persoon.   
+4.  De bepalingen van dit Verdrag, in het bijzonder die van het eerste en tweede lid, mogen in geen geval zodanig worden uitgelegd dat het een aangezochte Staat toegestaan is het verstrekken van inlichtingen te weigeren uitsluitend op grond van het feit dat de betreffende gegevens berusten bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een persoon.  
 
 ### Artikel  22  
 
@@ -723,7 +723,7 @@ h. bijstand bij de invordering te verlenen in gevallen waarin de administratieve
 1.  Alle door een Partij krachtens dit Verdrag verkregen inlichtingen worden op dezelfde wijze geheim gehouden en beschermd als inlichtingen die krachtens de nationale wetgeving van die Partij zijn verkregen, en, voor zover nodig teneinde het noodzakelijke beschermingsniveau voor persoonsgegevens veilig te stellen, in overeenstemming met de waarborgen die de Partij die de gegevens verstrekt kan voorschrijven indien deze worden vereist krachtens haar nationale wetgeving.   
 2.  Dergelijke inlichtingen worden in elk geval uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en bestuurlijke of toezichthoudende lichamen) die betrokken zijn bij de heffing of inning van belastingen van die Partij, of bij de invordering van belastingen, de tenuitvoerlegging, of de vervolging ter zake van of de beslissing in beroepszaken met betrekking tot belastingen van die Partij of bij het toezicht op het bovenstaande. Uitsluitend de bovenbedoelde personen of autoriteiten mogen van die inlichtingen gebruikmaken en uitsluitend voor die doeleinden. Niettegenstaande de bepalingen van het eerste lid mogen zij de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen aangaande die belastingen.   
 3.  Indien een Partij een voorbehoud heeft gemaakt als bedoeld in artikel 30, eerste lid, letter a, maakt geen enkele andere Partij die inlichtingen van die Partij verkrijgt, gebruik van deze inlichtingen ten aanzien van een belasting in een categorie waarop het voorbehoud van toepassing is. Evenzo maakt de Partij die het voorbehoud maakt geen gebruik van krachtens dit Verdrag verkregen inlichtingen ten aanzien van een belasting in een categorie waarop het voorbehoud van toepassing is.   
-4.  Niettegenstaande de bepalingen van het eerste, tweede en derde lid kan van inlichtingen die een Partij heeft ontvangen gebruik worden gemaakt voor andere doeleinden, indien die inlichtingen voor die andere doeleinden kunnen worden gebruikt krachtens de wetgeving van de Partij die de inlichtingen heeft verstrekt en indien de bevoegde autoriteit van die Partij toestemming voor dat gebruik verleent. Door een Partij aan een andere Partij verstrekte inlichtingen kunnen door de laatstbedoelde worden doorgegeven aan een derde Partij, afhankelijk van voorafgaande toestemming van de bevoegde autoriteit van de eerstbedoelde Partij.   
+4.  Niettegenstaande de bepalingen van het eerste, tweede en derde lid kan van inlichtingen die een Partij heeft ontvangen gebruik worden gemaakt voor andere doeleinden, indien die inlichtingen voor die andere doeleinden kunnen worden gebruikt krachtens de wetgeving van de Partij die de inlichtingen heeft verstrekt en indien de bevoegde autoriteit van die Partij toestemming voor dat gebruik verleent. Door een Partij aan een andere Partij verstrekte inlichtingen kunnen door de laatstbedoelde worden doorgegeven aan een derde Partij, afhankelijk van voorafgaande toestemming van de bevoegde autoriteit van de eerstbedoelde Partij.  
 
 ### Artikel  23  
 
@@ -731,7 +731,7 @@ h. bijstand bij de invordering te verlenen in gevallen waarin de administratieve
 
 1.  Rechtsgedingen betreffende door de aangezochte Staat krachtens dit Verdrag genomen maatregelen worden slechts aanhangig gemaakt bij de daartoe bevoegde instantie van die Staat.   
 2.  Rechtsgedingen betreffende door de verzoekende Staat krachtens dit Verdrag genomen maatregelen, met name die welke, op het gebied van invordering, het bestaan of het bedrag van de verschuldigde belasting betreffen, of de akte die het nemen van dwangmaatregelen toestaat, worden slechts aanhangig gemaakt bij de daartoe bevoegde instantie van die Staat. Indien zodanige rechtsgedingen aanhangig worden gemaakt, doet de verzoekende Staat de aangezochte Staat daarvan mededeling, en deze schorst de procedure hangende de beslissing van die instantie. De aangezochte Staat neemt echter, indien daarom wordt verzocht door de verzoekende Staat, conservatoire maatregelen om de invordering van de verschuldigde belasting te waarborgen. Ook betrokkenen kunnen de aangezochte Staat mededeling doen van zodanige rechtsgedingen. Na ontvangst van een zodanige mededeling pleegt de aangezochte Staat, indien noodzakelijk, met de verzoekende Staat overleg over de aangelegenheid.   
-3.  Zodra een definitieve beslissing in het rechtsgeding is gegeven, stelt de aangezochte Staat of de verzoekende Staat, al naar gelang, de andere Staat in kennis van de beslissing en van de gevolgen daarvan voor het verzoek om bijstand.   
+3.  Zodra een definitieve beslissing in het rechtsgeding is gegeven, stelt de aangezochte Staat of de verzoekende Staat, al naar gelang, de andere Staat in kennis van de beslissing en van de gevolgen daarvan voor het verzoek om bijstand.  
 
 ### HOOFDSTUK  V  
 
@@ -746,13 +746,13 @@ h. bijstand bij de invordering te verlenen in gevallen waarin de administratieve
 3.  Een coördinerend lichaam, samengesteld uit vertegenwoordigers van de bevoegde autoriteiten van de Partijen, ziet toe op de tenuitvoerlegging van de verdragsbepalingen en het functioneren van dit Verdrag, onder auspiciën van de OESO. Hiertoe beveelt het coördinerend lichaam iedere maatregel aan die kan bijdragen tot de verwezenlijking van de algemene doeleinden van het Verdrag. In het bijzonder treedt het op als forum voor het bestuderen van nieuwe methoden en procedures om de internationale samenwerking in belastingzaken te vergroten, en het kan, indien passend, herzieningen van of wijzigingen op het Verdrag aanbevelen. Staten die het Verdrag hebben ondertekend maar nog niet bekrachtigd, aanvaard of goedgekeurd, hebben het recht als waarnemer vertegenwoordigd te zijn bij de vergaderingen van het coördinerend lichaam.   
 4.  Een Partij kan het coördinerend lichaam vragen adviezen te geven over de uitlegging van de bepalingen van het Verdrag.   
 5.  Indien zich moeilijkheden of twijfels voordoen tussen twee of meer Partijen aangaande de tenuitvoerlegging en interpretatie van het Verdrag, trachten de bevoegde autoriteiten van die Partijen de aangelegenheid in onderling overleg op te lossen. De bereikte oplossing wordt medegedeeld aan het coördinerend lichaam.   
-6.  De Secretaris-Generaal van de OESO doet de Partijen en de Ondertekenende Staten die het Verdrag nog niet hebben bekrachtigd, aanvaard of goedgekeurd, mededeling van de adviezen die door het coördinerend lichaam zijn gegeven overeenkomstig de bepalingen van het vierde lid hierboven en in gevallen waarin op voet van het voorgaande lid onderlinge overeenstemming is bereikt.   
+6.  De Secretaris-Generaal van de OESO doet de Partijen en de Ondertekenende Staten die het Verdrag nog niet hebben bekrachtigd, aanvaard of goedgekeurd, mededeling van de adviezen die door het coördinerend lichaam zijn gegeven overeenkomstig de bepalingen van het vierde lid hierboven en in gevallen waarin op voet van het voorgaande lid onderlinge overeenstemming is bereikt.  
 
 ### Artikel  25  
 
 ####Talen
 
-Verzoeken om bijstand en antwoorden daarop worden gesteld in één van de officiële talen van de OESO en van de Raad van Europa of in iedere andere taal waarover de betrokken Verdragsluitende Staten bilateraal overeenstemming hebben bereikt.  
+Verzoeken om bijstand en antwoorden daarop worden gesteld in één van de officiële talen van de OESO en van de Raad van Europa of in iedere andere taal waarover de betrokken Verdragsluitende Staten bilateraal overeenstemming hebben bereikt. 
 
 ### Artikel  26  
 
@@ -762,7 +762,7 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 a. worden gewone kosten, gemaakt in verband met het verlenen van bijstand, gedragen door de aangezochte Staat;  
 
-b. worden buitengewone kosten, gemaakt in verband met het verlenen van bijstand, gedragen door de verzoekende Staat.    
+b. worden buitengewone kosten, gemaakt in verband met het verlenen van bijstand, gedragen door de verzoekende Staat.   
 
 ### HOOFDSTUK  VI  
 
@@ -773,7 +773,7 @@ b. worden buitengewone kosten, gemaakt in verband met het verlenen van bijstand,
 ####Andere internationale overeenkomsten of regelingen
 
 1.  De mogelijkheden van bijstand voorzien bij dit Verdrag scheppen geen beperking voor en worden evenmin beperkt door mogelijkheden vervat in bestaande of toekomstige internationale overeenkomsten of andere regelingen tussen de betrokken Partijen of in andere akten die verband houden met samenwerking in belastingzaken.   
-2.  Niettegenstaande het eerste lid, kunnen Partijen die lid zijn van de Europese Unie in hun onderlinge betrekkingen de mogelijkheden voor bijstand voorzien in het Verdrag toepassen indien deze meer ruimte voor samenwerking bieden dan de mogelijkheden geboden door de van toepassing zijnde regelgeving van de Europese Unie.   
+2.  Niettegenstaande het eerste lid, kunnen Partijen die lid zijn van de Europese Unie in hun onderlinge betrekkingen de mogelijkheden voor bijstand voorzien in het Verdrag toepassen indien deze meer ruimte voor samenwerking bieden dan de mogelijkheden geboden door de van toepassing zijnde regelgeving van de Europese Unie.  
 
 ### Artikel  28  
 
@@ -785,7 +785,7 @@ b. worden buitengewone kosten, gemaakt in verband met het verlenen van bijstand,
 4.  Elke lidstaat van de Raad van Europa of van de OESO die na de inwerkingtreding van het Protocol tot wijziging van dit Verdrag, dat vanaf 27 mei 2010 openstaat voor ondertekening (het „Protocol van 2010”), Partij wordt bij het Verdrag, wordt Partij bij het Verdrag zoals gewijzigd bij dat Protocol, tenzij in een schriftelijke mededeling aan een van de Depositarissen blijk wordt gegeven van een ander voornemen.   
 5.  Na de inwerkingtreding van het Protocol van 2010 kan elke Staat die geen lid is van de Raad van Europa of van de OESO verzoeken om een uitnodiging tot ondertekening en bekrachtiging van dit Verdrag zoals gewijzigd bij het Protocol van 2010. Verzoeken daartoe worden gericht aan een van de Depositarissen die deze doorzenden naar de Partijen. De Depositaris stelt ook het Comité van Ministers van de Raad van Europa en de Raad van de OESO hiervan in kennis. De beslissing om Staten, die om een uitnodiging hebben verzocht, uit te nodigen Partij te worden bij dit Verdrag wordt door de Partijen bij het Verdrag via het coördinerend lichaam genomen met eenparigheid van stemmen. Voor een Staat die het Verdrag zoals gewijzigd bij het Protocol van 2010 in overeenstemming met dit lid bekrachtigt, treedt dit Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging bij een van de Depositarissen.   
 6.  De bepalingen van dit Verdrag, zoals gewijzigd bij het Protocol van 2010, zijn van toepassing op administratieve bijstand ter zake van belastingtijdvakken beginnend op of na 1 januari van het jaar volgend op het jaar waarin het Verdrag, zoals gewijzigd bij het Protocol van 2010, voor een Partij in werking trad, of bij ontbreken van een belastingtijdvak, op administratieve bijstand ter zake van belastingvorderingen ontstaan op of na 1 januari van het jaar volgend op het jaar waarin het Verdrag, zoals gewijzigd bij het Protocol van 2010, voor een Partij in werking trad. Twee of meer Partijen kunnen onderling overeenkomen dat het Verdrag, zoals gewijzigd bij het Protocol van 2010, van toepassing is op administratieve bijstand ter zake van eerdere belastingtijdvakken of belastingvorderingen.   
-7.  Niettegenstaande het zesde lid zijn de bepalingen van dit Verdrag, zoals gewijzigd bij het Protocol van 2010, vanaf de datum van inwerkingtreding ter zake van een Partij met betrekking tot eerdere belastingtijdvakken of belastingvorderingen van toepassing op belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende Partij.   
+7.  Niettegenstaande het zesde lid zijn de bepalingen van dit Verdrag, zoals gewijzigd bij het Protocol van 2010, vanaf de datum van inwerkingtreding ter zake van een Partij met betrekking tot eerdere belastingtijdvakken of belastingvorderingen van toepassing op belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende Partij.  
 
 ### Artikel  29  
 
@@ -793,7 +793,7 @@ b. worden buitengewone kosten, gemaakt in verband met het verlenen van bijstand,
 
 1.  Iedere Staat kan bij ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring aangeven op welk grondgebied of welke grondgebieden dit Verdrag van toepassing zal zijn.   
 2.  Iedere Staat kan te allen tijde daarna door middel van een aan één van de Depositarissen gerichte verklaring de toepasselijkheid van dit Verdrag uitbreiden tot ieder ander in de verklaring genoemd grondgebied. Het Verdrag treedt ten aanzien van dit grondgebied in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de verklaring door de Depositaris.   
-3.  Iedere krachtens het bepaalde in de twee voorgaande leden afgelegde verklaring kan, ten aanzien van ieder in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan één van de Depositarissen gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Depositaris.   
+3.  Iedere krachtens het bepaalde in de twee voorgaande leden afgelegde verklaring kan, ten aanzien van ieder in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan één van de Depositarissen gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Depositaris.  
 
 ### Artikel  30  
 
@@ -815,7 +815,7 @@ f. de bepalingen van artikel 28, zevende lid, uitsluitend toe te passen op admin
 2.  Geen enkel ander voorbehoud kan worden gemaakt.   
 3.  Na de inwerkingtreding van het Verdrag ten aanzien van een Partij kan die Partij één of meer van de in het eerste lid opgesomde voorbehouden maken die zij niet heeft gemaakt bij de bekrachtiging, aanvaarding of goedkeuring. Die voorbehouden worden van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van het voorbehoud door één van de Depositarissen.   
 4.  Een Partij die een voorbehoud heeft gemaakt krachtens het eerste en het derde lid kan dit geheel of gedeeltelijk intrekken door middel van een aan één van de Depositarissen gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de desbetreffende Depositaris,   
-5.  Een Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van dit Verdrag kan niet van een andere Partij verlangen dat zij die bepaling toepast; zij kan echter, indien het voorbehoud gedeeltelijk is, verlangen dat de bepaling wordt toegepast voor zover zijzelf deze heeft aanvaard.   
+5.  Een Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van dit Verdrag kan niet van een andere Partij verlangen dat zij die bepaling toepast; zij kan echter, indien het voorbehoud gedeeltelijk is, verlangen dat de bepaling wordt toegepast voor zover zijzelf deze heeft aanvaard.  
 
 ### Artikel  31  
 
@@ -823,7 +823,7 @@ f. de bepalingen van artikel 28, zevende lid, uitsluitend toe te passen op admin
 
 1.  Een Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan één van de Depositarissen gerichte kennisgeving.   
 2.  De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Depositaris.   
-3.  Een Partij die het Verdrag opzegt, blijft gebonden door de bepalingen van artikel 22 zolang zij krachtens het Verdrag verkregen documenten of inlichtingen in haar bezit houdt.   
+3.  Een Partij die het Verdrag opzegt, blijft gebonden door de bepalingen van artikel 22 zolang zij krachtens het Verdrag verkregen documenten of inlichtingen in haar bezit houdt.  
 
 ### Artikel  32  
 
@@ -844,7 +844,7 @@ e. ieder voorbehoud dat wordt gemaakt ingevolge de bepalingen van artikel 30 en 
 f. iedere kennisgeving ontvangen ingevolge de bepalingen van artikel 2, derde of vierde lid, artikel 3, derde lid, artikel 29, of artikel 31, eerste lid;  
 
 g. iedere andere handeling, kennisgeving of mededeling betrekking hebbende op dit Verdrag.     
-2.  De Depositaris die een mededeling ontvangt of een kennisgeving doet ingevolge de bepalingen van het eerste lid, doet daarvan onmiddellijk mededeling aan de andere Depositaris.   
+2.  De Depositaris die een mededeling ontvangt of een kennisgeving doet ingevolge de bepalingen van het eerste lid, doet daarvan onmiddellijk mededeling aan de andere Depositaris.  
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te Straatsburg, op 25 januari 1988, in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek, in twee exemplaren, waarvan er één zal worden nedergelegd in het archief van de Raad van Europa en het andere in het archief van de OESO. De Secretarissen-Generaal van de Raad van Europa en van de OESO doen een voor eensluidend gewaarmerkt afschrift toekomen aan iedere lidstaat van de Raad van Europa en aan iedere lidstaat van de OESO.  
 
