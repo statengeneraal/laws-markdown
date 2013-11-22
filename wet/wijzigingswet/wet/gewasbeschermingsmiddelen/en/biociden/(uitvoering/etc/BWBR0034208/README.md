@@ -11,30 +11,30 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt de Wet gewasbeschermingsmiddelen en biociden.   
+Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
 
 ### Artikel  II  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.
 
 ### Artikel  III  
 
-De [Wet op de economische delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), zoals deze luidde vóór 1 september 2013, blijft van toepassing op economische delicten als bedoeld in [artikel 1a](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) van de genoemde wet, die overtredingen zijn van de voorschriften, gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zoals die luidde voor het tijdstip van inwerkingtreding van deze wet.  
+De [Wet op de economische delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), zoals deze luidde vóór 1 september 2013, blijft van toepassing op economische delicten als bedoeld in [artikel 1a](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) van de genoemde wet, die overtredingen zijn van de voorschriften, gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zoals die luidde voor het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van 1 september 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 augustus 2013, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij terug tot en met 1 september 2013.  
+Deze wet treedt in werking met ingang van 1 september 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 augustus 2013, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij terug tot en met 1 september 2013. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Wassenaar 
 6 november 2013  
 Willem-Alexander  
 
-De Staatssecretaris van Infrastructuur en Milieu, 
+De Staatssecretaris van Infrastructuur en Milieu,  
 W.J. Mansveld   
 
 de *twintigste* november 2013 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I.W. Opstelten    

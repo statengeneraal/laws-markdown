@@ -15,17 +15,17 @@ Besluit:
 
 ####Definities
 
-1. *de wet:* de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  
+1.  *de wet: * de [Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  
 
-2. *het besluit:* het [Besluit gewasbeschermingsmiddelen en biociden](../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  
+2.  *het besluit:* het [Besluit gewasbeschermingsmiddelen en biociden](../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md)  
 
-3. *de regeling:* de [regeling gewasbeschermingsmiddelen en biociden](../../../../../../../../ministeriele-regeling/regeling/gewasbeschermingsmiddelen/en/biociden/BWBR0022545/README.md)  
+3.  *de regeling:* de [regeling gewasbeschermingsmiddelen en biociden](../../../../../../../../ministeriele-regeling/regeling/gewasbeschermingsmiddelen/en/biociden/BWBR0022545/README.md)  
 
-4. *gewasbeschermingsmiddelen:* de gewasbeschermingsmiddelen als bedoeld in [artikel 1, eerste lid van de wet](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  
+4.  *gewasbeschermingsmiddelen:* de gewasbeschermingsmiddelen als bedoeld in [artikel 1, eerste lid van de wet](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  
 
-5. *biociden:* biociden als bedoeld in [artikel 1, eerste lid van de wet](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  
+5.  *biociden: * biociden als bedoeld in [artikel 1, eerste lid van de wet](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  
 
-6. *het Ctgb:* het College voor de toelating van gewasbeschermingsmiddelen en biociden als bedoeld in [artikel 3 van de wet](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)    
+6.  *het Ctgb:* het College voor de toelating van gewasbeschermingsmiddelen en biociden als bedoeld in [artikel 3 van de wet](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   
 
 ### Hoofdstuk  2  
 
@@ -39,7 +39,7 @@ Het bij het aanvraagformulier in te dienen dossier dient - onverminderd het elde
 
 i) De ‘Algemene instructie voor het indienen van aanvragen tot toelating van gewasbeschermingsmiddelen en biociden’ – versie 5.1f’, juni 2011  
 
-ii) De bijgaande aanvraagformulieren en de toelichtingen.    
+ii) De bijgaande aanvraagformulieren en de toelichtingen.   
 
 ### Artikel  3  
 
@@ -158,7 +158,7 @@ v) ‘Formulier AB (1.0)’ met de toelichting ‘Formulier AB toelichting (1.0)
 vi) ‘Formulier VIB (1.0)’ met de toelichting ‘Formulier VIB toelichting (1.0)’, juni 2011 (Verzoek inlichtingen over proeven op gewervelde dieren voor biociden)  
 
 vii) ‘Formulier PB (3.0)’ met de toelichting ‘Instructie bij aanvraagformulier PB’     
-4.  De aanvraagformulieren worden op de internetsite van het Ctgb (www.ctgb.nl) ter beschikking gesteld.   
+4.  De aanvraagformulieren worden op de internetsite van het Ctgb (www.ctgb.nl) ter beschikking gesteld.  
 
 ### Hoofdstuk  3  
 
@@ -170,19 +170,19 @@ vii) ‘Formulier PB (3.0)’ met de toelichting ‘Instructie bij aanvraagformu
 
 1.  De na inwerkingtreding van dit Besluit ingediende aanvragen tot toelating of registratie worden met ingang van dat tijdstip overeenkomstig dit besluit ingediend, voorzover hiervoor bij dit besluit een aanvraagformulier is vastgesteld.   
 2.  Voorzover niet krachtens het eerste lid een aanvraagformulier is voorgeschreven, is het bepaalde in [artikel 4:1](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:2 Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-3.  Voorzover het aanvragen met betrekking tot biociden betreft, mag in afwijking van het eerste lid, tot een maand na de inwerkingtreding van dit besluit gebruik worden gemaakt van de daags vóór dit besluit geldende aanvraagformulieren.   
+3.  Voorzover het aanvragen met betrekking tot biociden betreft, mag in afwijking van het eerste lid, tot een maand na de inwerkingtreding van dit besluit gebruik worden gemaakt van de daags vóór dit besluit geldende aanvraagformulieren.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Dit Besluit treedt in werking op de dag na publicatie ervan in de Staatscourant, nadat het is goedgekeurd door de Staatssecretaris van Economische Zaken, Landbouw en Innovatie, en werkt terug tot en met 14 juni 2011.  
+Dit Besluit treedt in werking op de dag na publicatie ervan in de Staatscourant, nadat het is goedgekeurd door de Staatssecretaris van Economische Zaken, Landbouw en Innovatie, en werkt terug tot en met 14 juni 2011. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2011.  
+Dit besluit wordt aangehaald als: Bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2011. 
 
 Wageningen 
 28 september 2011   

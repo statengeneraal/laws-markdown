@@ -20,7 +20,7 @@ Besluit:
 3.  de regeling: de [regeling gewasbeschermingsmiddelen en biociden](../../../../../../../../../ministeriele-regeling/regeling/gewasbeschermingsmiddelen/en/biociden/BWBR0022545/README.md)   
 4.  gewasbeschermingsmiddelen: de gewasbeschermingsmiddelen als bedoeld in [artikel 1, eerste lid van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   
 5.  biociden: biociden als bedoeld in [artikel 1, eerste lid van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   
-6.  het Ctgb: het College voor de toelating van gewasbeschermingsmiddelen en biociden als bedoeld in [artikel 3 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)   
+6.  het Ctgb: het College voor de toelating van gewasbeschermingsmiddelen en biociden als bedoeld in [artikel 3 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)  
 
 ### Hoofdstuk  2  
 
@@ -34,7 +34,7 @@ Het bij het aanvraagformulier in te dienen dossier dient – onverminderd het el
 
 i. de bijgaande Algemene instructie voor het indienen van aanvragen tot toelating van gewasbeschermingsmiddelen en biociden  
 
-ii. de bijgaande aanvraagformulieren.    
+ii. de bijgaande aanvraagformulieren.   
 
 ### Artikel  3  
 
@@ -68,9 +68,9 @@ ii. de bijgaande aanvraagformulieren.
 
 (xiii) ‘Formulier PG’ – versie 3.0, januari 2010 en de toelichting ‘Formulier PG toelichting’ – versie 3.0, januari 2010  
 
-(xiv) ‘Formulier VI’ – versie 3.0, januari 2010 en de toelichting ‘Toelichting formulier VI’ – versie 3.0, januari 2010.  
+(xiv) ‘Formulier VI’ – versie 3.0, januari 2010 en de toelichting ‘Toelichting formulier VI’ – versie 3.0, januari 2010. 
 
-(xv) Aanvraagformulier EU MRL (NL) 1.0  
+(xv)Aanvraagformulier EU MRL (NL) 1.0
 
 xvi) Formulier BZT (versie 1.2) met de bijlagen: 
 
@@ -80,12 +80,12 @@ b) Appendix LoEP (versie 1.2), januari 2010
 
 c) Appendix PGB-UB (versie 4.0), maart 2010  
 
-d) Appendix CL BZT 1.0, januari 2011       
-2.  De aanvraagformulieren worden op de internetsite van het Ctgb (www.ctgb.nl) ter beschikking gesteld.   
+d) Appendix CL BZT 1.0, januari 2011      
+2.  De aanvraagformulieren worden op de internetsite van het Ctgb (www.ctgb.nl) ter beschikking gesteld.  
 
 ### Hoofdstuk  3  
 
-####Overgangs- en slotbepalingen
+####Overgangs- en slotbepalingen 
 
 ### Artikel  4  
 
@@ -94,23 +94,23 @@ d) Appendix CL BZT 1.0, januari 2011
 1.  De na inwerkingtreding van dit Besluit ingediende aanvragen tot toelating of registratie worden met ingang van dat tijdstip overeenkomstig dit besluit ingediend, voorzover hiervoor bij dit besluit een aanvraagformulier is vastgesteld.   
 2.  Voorzover bij dit Besluit geen aanvraagformulier is vastgesteld, worden aanvragen ingediend middels de aanvraagformulieren zoals die golden vóór de inwerkingtreding van dit Besluit.   
 3.  Voorzover niet krachtens het eerste en tweede lid een aanvraagformulier is voorgeschreven, is het bepaalde in [artikel 4:1](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:2 Algemene wet bestuursrecht van toepassing](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  In afwijking van het eerste lid mag bij aanvraagformulieren waarvoor bij dit besluit een aangepaste versie is vastgesteld, tot een maand na die vaststelling gebruik worden gemaakt van de vóór die aanpassing geldende versie.   
+4.  In afwijking van het eerste lid mag bij aanvraagformulieren waarvoor bij dit besluit een aangepaste versie is vastgesteld, tot een maand na die vaststelling gebruik worden gemaakt van de vóór die aanpassing geldende versie. 
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-De artikelen in dit besluit treden – na goedkeuring door de Minister van Landbouw, Natuur en Voedselkwaliteit – twee dagen na bekendmaking in de Staatscourant in werking.  
+De artikelen in dit besluit treden – na goedkeuring door de Minister van Landbouw, Natuur en Voedselkwaliteit – twee dagen na bekendmaking in de Staatscourant in werking. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008.  
+Dit besluit wordt aangehaald als: Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008. 
 
 Wageningen 
 23 januari 2008   
 
 Het College voor de toelating van gewasbeschermingsmiddelen en biociden, voor deze: de 
-Voorzitter, 
-D.K.J.Tommel   
+Voorzitter ,
+D.K.J. Tommel     

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 juli 2011, nr. 2011- 20112000271178, CZW;
 
-Gelet op de [artikelen 2](../../../../wet/woningwet/BWBR0005181/README.md), [3](../../../../wet/woningwet/BWBR0005181/README.md), [5](../../../../wet/woningwet/BWBR0005181/README.md), [6](../../../../wet/woningwet/BWBR0005181/README.md) en [120 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md) en op richtlijn nr. 89/106/EEG van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde producten (PbEG L 40), zoals gewijzigd bij richtlijn nr. 93/68/EEG van de Raad van 22 juli 1993 (PbEG L 220), richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEG L 101/56), richtlijn nr. 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (PbEU L153) en verordening nr. 305/2011/EU van het Europees parlement en de Raad van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van Richtlijn 89/106/EEG van de Raad (PbEU L88);
+Gelet op de artikelen 2, 3, 5, 6 en 120 van de Woningwet en op richtlijn nr. 89/106/EEG van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde producten (PbEG L 40), zoals gewijzigd bij richtlijn nr. 93/68/EEG van de Raad van 22 juli 1993 (PbEG L 220), richtlijn nr. 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de minimumveiligheidseisen voor tunnels in het trans-Europese wegennet (PbEG L 101/56), richtlijn nr. 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (PbEU L153) en verordening nr. 305/2011/EU van het Europees parlement en de Raad van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van Richtlijn 89/106/EEG van de Raad (PbEU L88);
 
 De Afdeling advisering van de Raad van State gehoord (advies van 19 juli 2011, W04.11.0267/I);
 
@@ -28,11 +28,11 @@ Hebben goedgevonden en verstaan:
 
 **aansluitafstand:** afstand tussen een leiding van het distributienet en het deel van het bouwwerk dat zich het dichtst bij die leiding bevindt, gemeten langs de kortste lijn waarlangs een aansluiting zonder bezwaren kan worden gemaakt;  
 
-**aansluitend terrein:** aan een bouwwerk grenzend onbebouwd perceel of openbaar toegankelijk gebied;  
+**aansluitend terrein:** aan een bouwwerk grenzend onbebouwd gedeelte van een perceel of openbaar toegankelijk gebied;  
 
 **ADR-klasse:** classificatie als bedoeld in de op 30 september 1957 te Genève tot stand gekomen Europese overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (Trb. 1959, 171);  
 
-**asbest:** asbest als bedoeld in [artikel 1, eerste lid, onder a, van het Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md);  
+**asbest:** asbest als bedoeld in artikel 1, eerste lid, onder a, van het Asbestverwijderingsbesluit 2005;  
 
 **basisnetroute:** basisnetroute als bedoeld in het Besluit transportroutes externe veiligheid;  
 
@@ -44,13 +44,13 @@ Hebben goedgevonden en verstaan:
 
 **belastingscombinatie:** verzameling van belastingen die gelijktijdig kunnen optreden;  
 
-*beschermd subbrandcompartiment:* gedeelte van een subbrandcompartiment dat meer bescherming biedt tegen brand en rook dan een subbrandcompartiment;  
+*beschermd subbrandcompartiment:* gedeelte van een bouwwerk dat binnen de begrenzing van een subbrandcompartiment ligt of daarmee samenvalt, dat meer bescherming biedt tegen brand of rook dan een subbrandcompartiment;  
 
 **beschermde route:** buiten het subbrandcompartiment waar de vluchtroute begint gelegen gedeelte van een vluchtroute;  
 
 **beschermde vluchtroute:** buiten een subbrandcompartiment gelegen gedeelte van een vluchtroute die uitsluitend voert door een verkeersruimte;  
 
-**bevoegd gezag:** bevoegd gezag als bedoeld in de [Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+**bevoegd gezag:** bevoegd gezag als bedoeld in de Wabo;  
 
 **bezwijken:** het overschrijden van een uiterste grenstoestand;  
 
@@ -64,13 +64,15 @@ Hebben goedgevonden en verstaan:
 
 **brandweerlift:** lift die met een eenvoudige handeling ter beschikking van de brandweer kan worden gesteld voor het transport van materieel en manschappen;  
 
-**CE-markering:** CE-markering als bedoeld in artikel 4 van de richtlijn bouwproducten;  
+**CE-markering:** CE-markering als bedoeld in artikel 8 van de verordening bouwproducten;  
 
 **dagwaarde:** de waarde van het langtijdgemiddeld beoordelingsniveau voor geluid tussen 07.00 tot 19.00 uur, vermeerderd met een eventuele toeslag voor geluid met een impulsachtig karakter, bepaald volgens de Handleiding meten en rekenen industrielawaai, internetuitgave 2004;  
 
+**distributienet voor warmte:** collectief circulatiesysteem voor het transport van warmte door een circulerend medium voor verwarming of warmtapwater;  
+
 **doorgang:** toegang, uitgang of doorlaatopening voor personen van een bouwwerk of van een gedeelte daarvan;  
 
-**erf:** erf als bedoeld in [bijlage II bij het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);  
+**erf:** erf als bedoeld in bijlage II bij het Besluit omgevingsrecht;  
 
 **extra beschermde vluchtroute:** buiten een brandcompartiment gelegen gedeelte van een beschermde vluchtroute;  
 
@@ -86,6 +88,12 @@ Hebben goedgevonden en verstaan:
 
 **gecorrigeerde loopafstand:** loopafstand waarbij constructieonderdelen die geen onderdeel uitmaken van de bouwconstructie buiten beschouwing worden gelaten, waarbij de loopafstand voor zover deze door een gebruiksgebied voert met 1,5 wordt vermenigvuldigd;  
 
+*geharmoniseerde norm:* norm als bedoeld in artikel 2, elfde lid, van de verordening bouwproducten;  
+
+*geharmoniseerde technische specificatie:* specificatie als bedoeld in artikel 2, tiende lid, van de verordening bouwproducten;  
+
+**herziene richtlijn energieprestatie gebouwen:** richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (herschikking) (PbEU L153/13);  
+
 **hoge spanning:** nominale wisselspanning van meer dan 1.000 volt, hetzij een nominale gelijkspanning van meer dan 1.500 volt;  
 
 **installatie:** voor het functioneren van een bouwwerk of een gedeelte daarvan noodzakelijke voorziening van niet-bouwkundige aard;  
@@ -98,11 +106,13 @@ Hebben goedgevonden en verstaan:
 
 **klimlijn:** denkbeeldige, vloeiend verlopende lijn die de voorkanten van de treden van een trap met elkaar verbindt;  
 
+**koelsysteem:** technisch bouwsysteem met als doel het koelen van een ruimte binnen een gebouw of gedeelte daarvan, door middel van het toevoeren van koude of het ontvochtigen van de lucht of een combinatie van beide;  
+
 **lage spanning:** nominale wisselspanning van niet meer dan 1.000 volt, hetzij nominale gelijkspanning van niet meer dan 1.500 volt;  
 
 **leefzone:** gedeelte van een verblijfsgebied waarbij de ruimte gelegen binnen 1 m van een uitwendige scheidingsconstructie, binnen 0,2 m van een inwendige scheidingsconstructie en hoger gelegen dan 1,8 m boven de vloer buiten beschouwing blijft;  
 
-**lift:** lift als bedoeld in [artikel 1 van het Warenwetbesluit liften](../../../../AMvB/besluit/liften/BWBR0008212/README.md) bestemd voor personen;  
+**lift:** lift als bedoeld in artikel 1 van het Warenwetbesluit liften bestemd voor personen;  
 
 **lifttoegang:** doorgang van een liftschacht voor het bereiken van een kooi van een lift;  
 
@@ -112,7 +122,7 @@ Hebben goedgevonden en verstaan:
 
 **meetniveau:** hoogte van het aansluitende terrein, gemeten ter plaatse van de toegang van het gebouw;  
 
-**milieugevaarlijke stoffen:** gevaarlijke stoffen als bedoeld in het [Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+**milieugevaarlijke stoffen:** gevaarlijke stoffen als bedoeld in het Activiteitenbesluit milieubeheer;  
 
 **NEN:** door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;  
 
@@ -134,19 +144,23 @@ Hebben goedgevonden en verstaan:
 
 **plasbrandaandachtsgebied:** gebied als bedoeld in het Besluit transportroutes externe veiligheid;  
 
+*prestatieverklaring:* verklaring als bedoeld in artikel 4, eerste lid, van de verordening bouwproducten;  
+
 **RAL:** door het RAL Deutsches Institut für Gütesicherung und Kennzeichnung gestandaardiseerde kleurcode;  
 
 **rechtens verkregen niveau:** niveau dat het gevolg is van de toepassing op enig moment van de relevante op dat moment van toepassing zijnde technische voorschriften en dat niet lager ligt dan het niveau van de desbetreffende voorschriften voor een bestaand bouwwerk en niet hoger dan het niveau van de desbetreffende voorschriften voor een te bouwen bouwwerk;  
 
-**richtlijn bouwproducten:** richtlijn van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde producten (89/106/EEG, PbEG L 40), zoals gewijzigd bij richtlijn 93/68/EEG van de Raad van 22 juli 1993 (PbEG L 220);  
-
 **rookklasse:** Europese brandklasse als bedoeld in NEN-EN 13501-1, onderdeel Additional classifications for smoke production;  
 
-**rijbaan:** rijbaan als bedoeld in [artikel 1 van het Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+**rijbaan:** rijbaan als bedoeld in artikel 1 van het Reglement verkeersregels en verkeerstekens 1990;  
 
 **stookplaats:** opstelplaats voor een verbrandingstoestel dat bestemd is voor open verbranding van vaste brandstoffen;  
 
-**subbrandcompartiment:** gedeelte van een brandcompartiment bestemd voor beperking van verspreiding van rook en verdere beperking van het uitbreidingsgebied van brand;  
+**subbrandcompartiment:** gedeelte van een bouwwerk dat binnen de begrenzing van een brandcompartiment ligt of daarmee samenvalt, bestemd voor beperking van verspreiding van rook of verdere beperking van het uitbreidingsgebied van brand;  
+
+**systeemrendement:** verhouding tussen de door het technisch bouwsysteem nuttig geleverde energie voor het doelmatig functioneren van dat systeem en de door dat systeem aangewende primaire energie;  
+
+**technisch bouwsysteem:** gebouwgebonden samenstelling van alle bestanddelen van een installatie, waaronder de isolatiekenmerken daarvan, die is bedoeld voor het verwarmen, koelen, ventileren, of het voorzien van warmtapwater, of een combinatie daarvan, van een gebouw of een gedeelte daarvan;  
 
 **technische ruimte:** ruimte voor het plaatsen van de apparatuur, noodzakelijk voor het functioneren van het bouwwerk, waaronder in ieder geval begrepen een meterruimte, een liftmachineruimte en een stookruimte;  
 
@@ -166,17 +180,21 @@ Hebben goedgevonden en verstaan:
 
 **V:** door de Hoofdcommissie voor de Normalisatie uitgegeven leidraad;  
 
+**veiligheidsroute:** gedeelte van een extra beschermde vluchtroute dat voert door een niet besloten ruimte en aansluitend daarop door een ruimte die in de vluchtrichting uitsluitend kan worden bereikt vanuit een niet besloten ruimte;  
+
 **veiligheidsvluchtroute:** gedeelte van een extra beschermde vluchtroute dat voert door een niet besloten ruimte en aansluitend daarop door een ruimte die uitsluitend kan worden bereikt vanuit niet besloten ruimten;  
 
 **veiligheidszone:** gebied langs of binnen een basisnetroute waar het plaatsgebonden risico meer bedraagt of kan bedragen dan 10 <sup>-6</sup>;  
+
+**ventilatiesysteem:** technisch bouwsysteem, geen onderdeel uitmakend van een verwarmings- of koelsysteem, dat verse lucht toevoert of verontreinigde binnenlucht afvoert, of een combinatie daarvan;  
 
 **verblijfsgebied:** gebruiksgebied of een gedeelte daarvan voor het verblijven van personen;  
 
 **verblijfsruimte:** in een verblijfsgebied gelegen ruimte voor het verblijven van personen;  
 
-**vergunning voor brandveilig gebruik:** vergunning voor brandveilig gebruik als bedoeld in [artikel 2.1, eerste lid, onder d, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+**vergunning voor brandveilig gebruik:** vergunning voor brandveilig gebruik als bedoeld in artikel 2.1, eerste lid, onder d, van de Wabo;  
 
-**vergunning voor het bouwen:** vergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+**vergunning voor het bouwen:** vergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wabo;  
 
 **verkeersroute:** route die begint bij een doorgang van een ruimte, uitsluitend voert over vloeren, trappen of hellingbanen en eindigt bij de doorgang van een andere ruimte;  
 
@@ -186,25 +204,31 @@ Hebben goedgevonden en verstaan:
 
 **verpakkingsgroep:** verpakkingsgroep als bedoeld in de op 30 september 1957 te Genève tot stand gekomen Europese overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (Trb. 1959, 171);  
 
+**verwarmingssysteem:** technisch bouwsysteem waarin warmte wordt opgewekt, gedistribueerd of afgegeven of een combinatie daarvan;  
+
 **vluchtroute:** route die begint in een voor personen bestemde ruimte, uitsluitend voert over vloeren, trappen of hellingbanen en eindigt op een veilige plaats, zonder dat gebruik behoeft te worden gemaakt van een lift;  
 
 **voor personen bestemde vloer of ruimte:** vloer of ruimte waarvan het kenmerkende gebruik verbonden is met de aanwezigheid van personen;  
 
-**vrije breedte:** vrije breedte als bedoeld in NEN 2580;  
+**vrije breedte:** kleinste afstand tussen constructieonderdelen aan weerskanten van een doorgang;  
 
 **vrije hoogte:** vrije hoogte als bedoeld in NEN 2580;  
 
 **vuurbelasting:** hoeveelheid warmte die vrijkomt per eenheid vloeroppervlakte bij verbranding van alle in een gebouw of een daarin gelegen ruimte aanwezige brandbare materialen;  
 
-**Wabo:**[Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+**Wabo:**Wet algemene bepalingen omgevingsrecht;  
+
+**warmtapwatersysteem:** technisch bouwsysteem waarin warmtapwater wordt opgewekt, gedistribueerd of afgegeven of een combinatie daarvan;  
+
+**warmteplan:** besluit van de gemeenteraad inzake de aanleg van een distributienet voor warmte in een bepaald gebied, waarin voor een periode van ten hoogste 10 jaar, uitgaande van het voor die periode geplande aantal aansluitingen op dat distributienet, de mate van energiezuinigheid en bescherming van het milieu, gebaseerd op de energiezuinigheid van dat distributienet en het opwekkingsrendement van de over dat distributienet getransporteerde warmte, bij aansluiting op dat distributienet is opgenomen;  
 
 **weerstand tegen branddoorslag en brandoverslag:** kortste tijd die een brand nodig heeft om zich uit te breiden van een ruimte naar een andere ruimte;  
 
-**wegtunnel:** tunnel of tunnelvormig bouwwerk uitsluitend dan wel mede bestemd voor motorrijtuigen als bedoeld in [artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+**wegtunnel:** tunnel of tunnelvormig bouwwerk uitsluitend dan wel mede bestemd voor motorrijtuigen als bedoeld in artikel 1, eerste lid, onder c, van de Wegenverkeerswet 1994;  
 
 **wegtunnelbuis:** gedeelte van een wegtunnel voor een rijbaan;  
 
-**wet:**[Woningwet](../../../../wet/woningwet/BWBR0005181/README.md).     
+**wet:**Woningwet.     
 2.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt voorts verstaan onder: 
 
 **bijeenkomstfunctie:** gebruiksfunctie voor het samenkomen van personen voor kunst, cultuur, godsdienst, communicatie, kinderopvang, het verstrekken van consumpties voor het gebruik ter plaatse of het aanschouwen van sport;  
@@ -232,7 +256,7 @@ Hebben goedgevonden en verstaan:
 **woonfunctie:** gebruiksfunctie voor het wonen.     
 3.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt voorts verstaan onder: 
 
-**bijeenkomstfunctie voor kinderopvang:** bijeenkomstfunctie voor het bedrijfsmatig opvangen, verzorgen, opvoeden en begeleiden van kinderen die het basisonderwijs nog niet hebben beëindigd, niet zijnde gastouderopvang als bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+**bijeenkomstfunctie voor kinderopvang:** bijeenkomstfunctie voor het bedrijfsmatig opvangen, verzorgen, opvoeden en begeleiden van kinderen die het basisonderwijs nog niet hebben beëindigd, niet zijnde gastouderopvang als bedoeld in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
 **cel:** voor een enkel persoon of een afzonderlijke groep personen bestemd gedeelte van een celfunctie;  
 
@@ -279,7 +303,7 @@ wbdbo: weerstand tegen branddoorslag en brandoverslag.
 2.  Bij een aanvraag om vergunning voor het bouwen wordt onverminderd het eerste lid uitgegaan van een bezetting in personen per m <sup>2</sup> verblijfsgebied, die niet lager is dan de in tabel 1.2 aangegeven bezetting.  Tabel 1.2 
 
 | gebruiksfunctie  | ten minste aan te houden aantal personen per m <sup>2</sup> verblijfsgebied  |
-|:---|:---|
+|---|---|
 | 1  | Woonfunctie  | nvt  |
 | 2  | Bijeenkomstfunctie  | --- |
 | --- | a  | voor het aanschouwen van sport  | 0,3  |
@@ -305,6 +329,7 @@ wbdbo: weerstand tegen branddoorslag en brandoverslag.
 
 1.  Aan een in hoofdstuk 2 tot en met 7 gesteld voorschrift behoeft niet te worden voldaan indien het bouwwerk of het gebruik daarvan anders dan door toepassing van het desbetreffende voorschrift ten minste dezelfde mate van veiligheid, bescherming van de gezondheid, bruikbaarheid, energiezuinigheid en bescherming van het milieu biedt als is beoogd met de in die hoofdstukken gestelde voorschriften.   
 2.  Een gelijkwaardige oplossing als bedoeld in het eerste lid wordt bij het gebruik van het bouwwerk in stand gehouden.   
+3.  Een in het eerste lid bedoelde gelijkwaardige oplossing voor een aansluiting op het distributienet voor warmte als bedoeld in artikel 6.10, derde lid, heeft ten minste dezelfde mate van energiezuinigheid en bescherming van het milieu als wordt bereikt met de in het warmteplan voor die aansluiting opgenomen mate van energiezuinigheid en bescherming van het milieu.   
 
 ### Artikel  1.4  
 
@@ -328,48 +353,42 @@ wbdbo: weerstand tegen branddoorslag en brandoverslag.
 
 ### §  1.3  
 
-####Ce-markeringen en kwaliteitsverklaringen
+####CE-markeringen en kwaliteitsverklaringen
 
 ### Artikel  1.6  
 
 ####In de handel brengen
 
-Het is verboden een bouwproduct in de handel te brengen waarvoor de Europese Commissie een geharmoniseerde Europese norm heeft gepubliceerd en de co-existentieperiode met betrekking tot die norm is afgelopen, indien dat product niet is voorzien van de daarop betrekking hebbende CE-markering.  
-
-### Artikel  1.7  
-
-####Ce-markeringen
-
-1.  Het is verboden een bouwproduct, een aan dat product bevestigd label, de verpakking van een bouwproduct of de begeleidende handelsdocumenten te voorzien van een markering die gelijkenis vertoont met een CE-markering, als bedoeld in artikel 4, zesde lid, van de richtlijn bouwproducten.   
-2.  Het is verboden voor een bouwproduct waarvoor de Europese Commissie een geharmoniseerde Europese norm heeft gepubliceerd een op de eisen waarop die norm betrekking heeft toegesneden kwaliteitsverklaring of keurmerk te eisen of verplicht te stellen.   
-3.  Indien een bouwproduct aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt toegepast voldoet aan een bij of krachtens dit besluit gestelde eis, is aan die eis voldaan indien het bouwproduct is toegepast overeenkomstig een op die eis toegesneden CE-markering.   
+Het is verboden een bouwproduct in de handel te brengen waarvoor overeenkomstig de verordening bouwproducten een geharmoniseerde norm is vastgesteld en de co-existentieperiode met betrekking tot die norm is afgelopen, indien dat product niet is voorzien van de daarop betrekking hebbende CE-markering.  
 
 ### Artikel  1.8  
 
-####Toepassing kwaliteitsverklaringen
+####Toepassing CE-markering en kwaliteitsverklaringen
 
-Indien een bouwproduct of bouwproces aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt toegepast voldoet aan een bij of krachtens dit besluit gestelde eis, is aan die eis voldaan indien het bouwproduct of bouwproces is toegepast overeenkomstig een op die eis toegesneden kwaliteitsverklaring.  
+1.  Indien een bouwproduct, waarop een CE-markering is aangebracht, aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt toegepast voldoet aan een bij of krachtens dit besluit gestelde eis, is aan die eis voldaan indien het bouwproduct is toegepast overeenkomstig een op die eis toegesneden prestatieverklaring.   
+2.  Indien een bouwproduct aan bepaalde prestaties die niet onder een geharmoniseerde norm vallen moet voldoen zodat het bouwwerk waarin het wordt toegepast voldoet aan een bij of krachtens dit besluit gestelde eis, is aan die eis voldaan indien het bouwproduct is toegepast overeenkomstig een op die eis toegesneden kwaliteitsverklaring.   
+3.  Indien een bouwproces aan bepaalde prestaties moet voldoen zodat het bouwwerk waarin het wordt uitgevoerd voldoet aan een bij of krachtens dit besluit gestelde eis, is aan die eis voldaan indien het bouwproces is toegepast overeenkomstig een op die eis toegesneden kwaliteitsverklaring.   
+4.  Een prestatieverklaring wordt in de Nederlandse taal verstrekt.   
 
 ### Artikel  1.9  
 
 ####Certificatie- en inspectie-instellingen kwaliteitsverklaringen
 
-1.  De daarvoor verantwoordelijke Minister maakt de referenties van de technische specificaties als bedoeld in de artikelen 4 en 11 van de richtlijn bouwproducten openbaar.   
-2.  Onze Minister wijst technische beoordelingsinstanties als bedoeld in artikel 29 van de verordening bouwproducten aan.   
-3.  Onze Minister wijst een aanmeldende autoriteit als bedoeld in artikel 40 van de verordening bouwproducten aan.   
-4.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het tweede en derde lid bepaalde.   
+1.  Onze Minister wijst technische beoordelingsinstanties als bedoeld in artikel 29 van de verordening bouwproducten aan.   
+2.  Onze Minister wijst een aanmeldende autoriteit als bedoeld in artikel 40 van de verordening bouwproducten aan.   
+3.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het eerste en tweede lid bepaalde.   
 
 ### Artikel  1.10  
 
-####Implementatie richtlijn bouwproducten en verordening bouwproducten
+####Verordening bouwproducten
 
-Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de implementatie van de richtlijn bouwproducten en de verordening bouwproducten.  
+Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de implementatie van de verordening bouwproducten.  
 
 ### Artikel  1.11  
 
 ####Erkenning kwaliteitsverklaringen
 
-1.  Kwaliteitsverklaringen als bedoeld in [artikel 1, eerste lid, onderdeel i, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) worden afgegeven op basis van een door Onze Minister erkend stelsel van kwaliteitsverklaringen voor de bouw.   
+1.  Kwaliteitsverklaringen als bedoeld in artikel 1, eerste lid, onderdeel i, van de wet worden afgegeven op basis van een door Onze Minister erkend stelsel van kwaliteitsverklaringen voor de bouw.   
 2.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het eerste lid bepaalde.   
 
 ### §  1.4  
@@ -388,7 +407,7 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de im
 
 ####Monumenten
 
-Indien aan een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder f](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), dan wel [artikel 2.2, eerste lid, onder b, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een voorschrift is verbonden dat afwijkt van een bij of krachtens dit besluit vastgesteld voorschrift voor het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk, is uitsluitend het aan die vergunning verbonden voorschrift van toepassing.  
+Indien aan een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder f, dan wel artikel 2.2, eerste lid, onder b, van de Wabo een voorschrift is verbonden dat afwijkt van een bij of krachtens dit besluit vastgesteld voorschrift voor het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk, is uitsluitend het aan die vergunning verbonden voorschrift van toepassing.  
 
 ### Artikel  1.14  
 
@@ -453,10 +472,15 @@ b. een wegtunnel.
 ####Indiening gebruiksmelding
 
 1.  Een gebruiksmelding wordt ten minste vier weken voor de voorgenomen aanvang van het gebruik schriftelijk ingediend bij het bevoegd gezag.   
-2.  Een gebruiksmelding langs elektronische weg wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de gebruiksmelding beschikbaar is via de landelijke voorziening, bedoeld in [artikel 7.6 van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Op die melding is [artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) van overeenkomstige toepassing.   
-3.  Een gebruiksmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in [artikel 4.2, eerste lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md). Indien de gebruiksmelding tegelijk met de indiening van een aanvraag om vergunning krachtens de [Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt gedaan, wordt van de gebruiksmelding en de daarbij te verstrekken gegevens en bescheiden hetzelfde aantal exemplaren ingediend als op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden wordt ingediend. Indien de gebruiksmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.   
+2.  Een gebruiksmelding langs elektronische weg wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de gebruiksmelding beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wabo. Op die melding is artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht van overeenkomstige toepassing.   
+3.  Een gebruiksmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in artikel 4.2, eerste lid, van het Besluit omgevingsrecht. Indien de gebruiksmelding tegelijk met de indiening van een aanvraag om vergunning krachtens de Wabo wordt gedaan, wordt van de gebruiksmelding en de daarbij te verstrekken gegevens en bescheiden hetzelfde aantal exemplaren ingediend als op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden wordt ingediend. Indien de gebruiksmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.   
 4.  Bij de gebruiksmelding, bedoeld in artikel 1.18, eerste lid, onderdeel a, onder 2, verstrekt de melder voor zover dit naar het oordeel van het bevoegd gezag nodig is gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.   
-5.  Voor zover dit naar het oordeel van het bevoegd gezag nodig is om aannemelijk te maken dat het gebruik voldoet aan de bij of krachtens de wet gegeven voorschriften verstrekt de melder bij de gebruiksmelding, bedoeld in artikel 1.18, eerste lid, onderdelen a, onder 1, en b, een situatieschets met noordpijl met een schaal die niet kleiner is dan 1:1.000, en per bouwlaag een plattegrondtekening met een schaal die niet kleiner is dan 1:100 bij een gebouw met een brutovloeroppervlakte van minder dan 10.000 m <sup>2</sup> en niet kleiner dan 1:200 bij een grotere brutovloeroppervlakte. Op de plattegrondtekening is aangegeven: 
+5.  Bij de gebruiksmelding worden de volgende gegevens en bescheiden aan het bevoegd gezag verstrekt: 
+
+a. naam, adres en woonplaats van de melder en indien van toepassing, van de gemachtigde om te melden;  
+
+b. adres, kadastrale aanduiding dan wel ligging van het bouwwerk en de aard en omvang daarvan.     
+6.  Voor zover dit naar het oordeel van het bevoegd gezag nodig is om aannemelijk te maken dat het gebruik voldoet aan de bij of krachtens de wet gegeven voorschriften verstrekt de melder bij de gebruiksmelding, bedoeld in artikel 1.18, eerste lid, onderdelen a, onder 1, en b, een situatieschets met noordpijl met een schaal die niet kleiner is dan 1:1.000, en per bouwlaag een plattegrondtekening met een schaal die niet kleiner is dan 1:100 bij een gebouw met een brutovloeroppervlakte van minder dan 10.000 m <sup>2</sup> en niet kleiner dan 1:200 bij een grotere brutovloeroppervlakte. Op de plattegrondtekening of een bijlage daarvan is aangegeven: 
 
 a. schaalaanduiding;  
 
@@ -476,7 +500,7 @@ c. per ruimte:
 
 3°. bij ruimten voor meer dan 25 personen, de hoogste bezetting van die ruimte, en  
 
-4°. opstelling van inventaris en van inrichtingselementen als bedoeld in dit besluit, en    
+4°. opstelling van inventaris en van inrichtingselementen als bedoeld in dit besluit;    
 
 d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn: 
 
@@ -508,9 +532,11 @@ d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn:
 
 14°. sleutelkluis of -buis, en  
 
-15°. brandweerlift.     De aanduidingen zijn conform NEN 1414 voor zover deze norm daarin voorziet.   
-6.  Bij een gebruiksmelding voor tijdelijk of seizoensgebonden gebruik van een bouwwerk wordt door de melder aangegeven voor welke periode of voor welke tijdvakken in een kalenderjaar het gebruik is beoogd.   
-7.  Een gebruiksmelding kan betrekking hebben op meerdere bouwwerken op hetzelfde terrein of op met elkaar samenhangende terreinen.   
+15°. brandweerlift, en    
+
+e. gegevens en bescheiden over de aard en de plaats van de brandveiligheidsinstallaties.   De aanduidingen zijn conform NEN 1414 voor zover deze norm daarin voorziet.   
+7.  Bij een gebruiksmelding voor tijdelijk of seizoensgebonden gebruik van een bouwwerk wordt door de melder aangegeven voor welke periode of voor welke tijdvakken in een kalenderjaar het gebruik is beoogd.   
+8.  Een gebruiksmelding kan betrekking hebben op meerdere bouwwerken op hetzelfde terrein of op met elkaar samenhangende terreinen.   
 
 ### Artikel  1.20  
 
@@ -550,7 +576,7 @@ a. vergunning voor het bouwen;
 
 b. bouwveiligheidsplan als bedoeld in artikel 8.3;  
 
-c. afschrift van een besluit ingevolge [artikel 13](../../../../wet/woningwet/BWBR0005181/README.md), [13a](../../../../wet/woningwet/BWBR0005181/README.md), of [14 van de wet](../../../../wet/woningwet/BWBR0005181/README.md), dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom, en  
+c. afschrift van een besluit ingevolge artikel 13, 13a, of 14 van de wet, dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom, en  
 
 d. overige voor het bouwen van belang zijnde vergunningen en documenten met nadere voorwaarden en ontheffingen.    
 
@@ -569,7 +595,7 @@ b. het straatpeil is uitgezet.
 ####Mededeling aanvang en beëindiging bouwwerkzaamheden
 
 1.  Het bevoegd gezag wordt ten minste twee werkdagen voor de feitelijke aanvang van bouwwerkzaamheden waarvoor een vergunning voor het bouwen is verleend door de houder van die vergunning schriftelijk van de aanvang van die werkzaamheden, met inbegrip van ontgravingswerkzaamheden, in kennis gesteld.   
-2.  Het bevoegd gezag wordt ten minste op de dag van beëindiging van de bouwwerkzaamheden waarvoor een vergunning voor het bouwen is verleend, door de houder van die vergunning schriftelijk van de beëindiging van die werkzaamheden in kennis gesteld.   
+2.  Het bevoegd gezag wordt uiterlijk op de eerste werkdag na de dag van beëindiging van de bouwwerkzaamheden waarvoor een vergunning voor het bouwen is verleend, door de houder van die vergunning schriftelijk van de beëindiging van die werkzaamheden in kennis gesteld.   
 3.  Een bouwwerk voor het bouwen waarvan een vergunning voor het bouwen is verleend, wordt niet in gebruik gegeven of genomen indien niet voldaan is aan het bepaalde in het tweede lid.   
 
 ### §  1.7  
@@ -580,7 +606,7 @@ b. het straatpeil is uitgezet.
 
 ####Sloopmelding
 
-1.  Een voornemen tot slopen waarbij naar redelijke inschatting de hoeveelheid sloopafval meer dan 10 m <sup>3</sup> zal bedragen of asbest wordt verwijderd, wordt ten minste vier weken voor de voorgenomen aanvang van het uitvoeren van de sloopwerkzaamheden schriftelijk gemeld aan het bevoegd gezag.   
+1.  Het is verboden om zonder of in afwijking van een sloopmelding te slopen indien daarbij asbest wordt verwijderd of de hoeveelheid sloopafval naar redelijke inschatting meer dan 10 m <sup>3</sup> zal bedragen.   
 2.  Het eerste lid is niet van toepassing op een voornemen tot slopen dat uitsluitend bestaat uit het in het kader van de uitoefening van een bedrijf geheel of gedeeltelijke verwijderen van asbesthoudende: 
 
 a. geklemde vloerplaten onder verwarmingstoestellen;  
@@ -596,13 +622,13 @@ e. pakkingen uit procesinstallaties onderscheidenlijk verwarmingstoestellen met 
 
 a. het slopen van een seizoensgebonden bouwwerk, en  
 
-b. het slopen ingevolge een besluit op grond van [artikel 13 van de wet](../../../../wet/woningwet/BWBR0005181/README.md) dan wel een besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom.     
-4.  Indien dit naar het oordeel van het bevoegd gezag nodig is, kan worden afgeweken van de in het eerste lid bedoelde termijn.   
-5.  In afwijking van het eerste lid wordt de sloopmelding ten minste vijf werkdagen voor de voorgenomen aanvang van het uitvoeren van de sloopwerkzaamheden gedaan indien: 
+b. het slopen ingevolge een besluit op grond van artikel 13 van de wet dan wel een besluit tot toepassing van bestuursdwang of oplegging van een last onder dwangsom.     
+4.  Een sloopmelding wordt ten minste vier weken voor de voorgenomen aanvang van de sloopwerkzaamheden schriftelijk ingediend bij het bevoegd gezag. De in de eerste volzin bedoelde termijn is ten minste vijf werkdagen indien: 
 
 a. die sloopwerkzaamheden in het kader van reparatie- of mutatieonderhoudswerkzaamheden worden uitgevoerd aan een asbesthoudende toepassing in een gebouw en handhaving van de termijn, bedoeld in het eerste lid, tot onnodige leegstand van het gebouw of gedeelte daarvan zou leiden of het gebruiksgenot daarvan ernstig zou belemmeren, of  
 
 b. die sloopwerkzaamheden bestaan uit het anders dan in de uitoefening van een beroep of bedrijf in zijn geheel verwijderen van geschroefde, asbesthoudende platen waarin de asbestvezels hechtgebonden zijn, niet zijnde dakleien, of van asbesthoudende vloertegels of niet-gelijmde, asbesthoudende vloerbedekking, uit een woonfunctie of nevenfunctie daarvan, voor zover die woonfunctie of die nevenfunctie niet bedoeld zijn voor de uitoefening van een beroep of bedrijf en de oppervlakte van de te verwijderen asbesthoudende platen, vloerbedekking of vloertegels maximaal vijfendertig vierkante meter per kadastraal perceel bedraagt.     
+5.  Indien dit naar het oordeel van het bevoegd gezag nodig is, kan worden afgeweken van de in het vierde lid bedoelde termijnen.   
 6.  Bij de sloopmelding worden de volgende gegevens en bescheiden aan het bevoegd gezag verstrekt: 
 
 a. naam en adres van de eigenaar van het te slopen bouwwerk en indien van toepassing, van diegene die uit andere hoofde bevoegd is tot het slopen van het bouwwerk;  
@@ -615,24 +641,25 @@ d. de data, de tijdstippen en een beschrijving van de wijze waarop het uitvoeren
 
 e. indien met het oog op de lokale situatie nodig, het sloopveiligheidsplan, bedoeld in artikel 8.3;  
 
-f. een rapport van een akoestisch onderzoek indien aannemelijk is dat de dagwaarde vanwege het uitvoeren van sloopwerkzaamheden alsmede de bij de sloopwerkzaamheden te gebruiken installaties en toestellen meer bedraagt of de maximale blootstellingsduur in dagen langer duurt dan de waarden, bedoeld in artikel 8.4;  
+f. een rapport van een akoestisch onderzoek indien aannemelijk is dat de dagwaarde vanwege het uitvoeren van sloopwerkzaamheden alsmede de bij de sloopwerkzaamheden te gebruiken installaties en toestellen meer bedraagt of de maximale blootstellingsduur in dagen langer duurt dan de waarden, bedoeld in artikel 8.4, eerste en tweede lid, of indien aannemelijk is dat niet aan de beleidsregels als bedoeld in artikel 8.4, derde lid, wordt voldaan;  
 
 g. een rapport van een trillingenonderzoek indien aannemelijk is dat het uitvoeren van de sloopwerkzaamheden een grotere trillingssterkte veroorzaakt dan de trillingssterkte genoemd in tabel 4 van de Meet-en beoordelingsrichtlijn deel B «hinder voor personen in gebouwen» 2006;  
 
 h. een globale inventarisatie van de aard en de hoeveelheid van de afvalstoffen die naar verwachting zullen vrijkomen bij de sloopwerkzaamheden en een opgave van de voorgenomen afvoerbestemming van die stoffen  
 
-i. indien op grond van het [Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) een asbestinventarisatierapport is vereist, het rapport als bedoeld in [artikel 1, eerste lid, onder b, van dat besluit](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) dan wel een eindbeoordeling als bedoeld in [artikel 9, eerste en tweede lid, van dat besluit](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md), en  
+i. indien op grond van het Asbestverwijderingsbesluit 2005 een asbestinventarisatierapport is vereist, het rapport als bedoeld in artikel 1, eerste lid, onder b, van dat besluit dan wel een eindbeoordeling als bedoeld in artikel 9, eerste en tweede lid, van dat besluit, en  
 
 j. indien bij het uitvoeren van de sloopwerkzaamheden steenachtig afval zal vrijkomen dat ter plaatse zal worden gebroken, de hoeveelheid, de naam en het adres van de eigenaar van het recyclinggranulaat.     
 7.  In afwijking van het zesde lid worden de gegevens, bedoeld in onderdeel b van dat lid, ten minste twee werkdagen voor de feitelijke aanvang van het uitvoeren van de sloopwerkzaamheden aan het bevoegd gezag verstrekt.   
 8.  Indien tijdens het slopen asbest wordt ontdekt dat niet is opgenomen in het asbestinventarisatierapport als bedoeld in het zesde lid, onder i, wordt het bevoegd gezag daarvan onmiddellijk in kennis gesteld.   
+9.  Een sloopmelding kan betrekking hebben op meerdere bouwwerken op hetzelfde terrein of op met elkaar samenhangende terreinen.   
 
 ### Artikel  1.27  
 
 ####Indieningswijze sloopmelding
 
-1.  Een sloopmelding wordt langs elektronische weg gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de sloopmelding beschikbaar is via de landelijke voorziening, bedoeld in [artikel 7.6 van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Op die melding is [artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) van overeenkomstige toepassing.   
-2.  Een sloopmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in [artikel 4.2, eerste lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md). Indien de melding tegelijkertijd met de indiening van een aanvraag om vergunning krachtens de [Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt gedaan, is het aantal exemplaren dat van de melding en de daarbij te verstrekken gegevens en bescheiden wordt ingediend gelijk aan het aantal exemplaren dat van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht wordt ingediend. Indien de sloopmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.   
+1.  Een sloopmelding wordt langs elektronische weg gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de sloopmelding beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de Wabo. Op die melding is artikel 4.3, eerste en tweede lid, van het Besluit omgevingsrecht van overeenkomstige toepassing.   
+2.  Een sloopmelding anders dan langs elektronische weg wordt gedaan met gebruikmaking van het formulier, bedoeld in artikel 4.2, eerste lid, van het Besluit omgevingsrecht. Indien de melding tegelijkertijd met de indiening van een aanvraag om vergunning krachtens de Wabo wordt gedaan, is het aantal exemplaren dat van de melding en de daarbij te verstrekken gegevens en bescheiden wordt ingediend gelijk aan het aantal exemplaren dat van de aanvraag om vergunning en de daarbij te verstrekken gegevens en bescheiden op grond van artikel 4.2, tweede en derde lid, van het Besluit omgevingsrecht wordt ingediend. Indien de sloopmelding afzonderlijk wordt gedaan, worden deze en de daarbij te verstrekken gegevens en bescheiden in drievoud ingediend.   
 
 ### Artikel  1.28  
 
@@ -663,14 +690,6 @@ a. indien een verandering van inzichten of van omstandigheden gelegen buiten de 
 b. op verzoek van de melder.     
 2.  Het bevoegd gezag gaat niet over tot wijziging van de nadere voorwaarden, bedoeld in artikel 1.29, dan nadat het de melder in de gelegenheid heeft gesteld zijn zienswijze naar voren te brengen.   
 
-### Artikel  1.31  
-
-####Samenloop sloopmelding en omgevingsvergunning
-
-1.  Indien het slopen waarvoor een sloopmelding als bedoeld in artikel 1.26 is vereist, verband houdt met een activiteit waarvoor ingevolge [artikel 2.1](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of [2.2, eerste lid, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) een vergunning is vereist, kan die melding, onverminderd het bepaalde in artikel 1.26, tegelijkertijd met de indiening van de aanvraag om die vergunning worden gedaan. In dat geval wordt die melding op dezelfde wijze als die aanvraag ingediend.   
-2.  Indien toepassing wordt gegeven aan het eerste lid, wordt de sloopmelding ingediend bij het bevoegd gezag waarbij de aanvraag om vergunning krachtens de [Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt ingediend.   
-3.  Indien het bevoegd gezag, bedoeld in het tweede lid, een ander bestuursorgaan is dan burgemeester en wethouders, zendt dat bestuursorgaan onverwijld de bij de sloopmelding verstrekte gegevens door naar burgemeester en wethouders, onder gelijktijdige mededeling daarvan aan de melder.   
-
 ### Artikel  1.32  
 
 ####Aanwezigheid bescheiden
@@ -681,11 +700,11 @@ a. sloopmelding;
 
 b. sloopveiligheidsplan als bedoeld in artikel 8.3;  
 
-c. afschrift van een besluit ingevolge [artikel 13](../../../../wet/woningwet/BWBR0005181/README.md), [13a](../../../../wet/woningwet/BWBR0005181/README.md), of [14 van de wet](../../../../wet/woningwet/BWBR0005181/README.md), dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom;  
+c. afschrift van een besluit ingevolge artikel 13, 13a, of 14 van de wet, dan wel een besluit tot oplegging van een last onder bestuursdwang dan wel last onder dwangsom;  
 
 d. overige voor het slopen van belang zijnde vergunningen en documenten met nadere voorwaarden en ontheffingen, en  
 
-e. indien op grond van het [Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) een asbestinventarisatierapport is vereist, een asbestinventarisatierapport als bedoeld in [artikel 1, eerste lid, onder b, van het Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md) dan wel een afschrift van de resultaten van de eindbeoordeling als bedoeld in [artikel 9, eerste en tweede lid, van dat besluit](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md).    
+e. indien op grond van het Asbestverwijderingsbesluit 2005 een asbestinventarisatierapport is vereist, een asbestinventarisatierapport als bedoeld in artikel 1, eerste lid, onder b, van het Asbestverwijderingsbesluit 2005 dan wel een afschrift van de resultaten van de eindbeoordeling als bedoeld in artikel 9, eerste en tweede lid, van dat besluit.    
 
 ### Artikel  1.33  
 
@@ -693,7 +712,7 @@ e. indien op grond van het [Asbestverwijderingsbesluit 2005](../../../../AMvB/as
 
 1.  Het bevoegd gezag wordt ten minste twee werkdagen voor de feitelijke aanvang van de sloopwerkzaamheden, bedoeld in artikel 1.26, schriftelijk van de aanvang van die werkzaamheden in kennis gesteld door diegene die de sloopwerkzaamheden gaat uitvoeren.   
 2.  Het bevoegd gezag wordt uiterlijk op de eerste werkdag na de dag van beëindiging van de sloopwerkzaamheden, bedoeld in artikel 1.26 van de beëindiging van die werkzaamheden in kennis gesteld door degene die de werkzaamheden heeft uitgevoerd.   
-3.  Voor zover van toepassing verstrekt degene die de sloopwerkzaamheden heeft uitgevoerd het bevoegd gezag binnen twee weken na beëindiging van de werkzaamheden een afschrift van de resultaten van de eindbeoordeling, bedoeld in [artikel 9, eerste en tweede lid, van het Asbestverwijderingsbesluit 2005](../../../../AMvB/asbestverwijderingsbesluit/2005/BWBR0019316/README.md).   
+3.  Voor zover van toepassing verstrekt degene die de sloopwerkzaamheden heeft uitgevoerd het bevoegd gezag binnen twee weken na beëindiging van de werkzaamheden een afschrift van de resultaten van de eindbeoordeling, bedoeld in artikel 9, eerste en tweede lid, van het Asbestverwijderingsbesluit 2005.   
 4.  Op verzoek van het bevoegd gezag overlegt degene die de sloopwerkzaamheden als bedoeld in artikel 1.26 heeft uitgevoerd, binnen een door het bevoegd gezag te bepalen termijn na beëindiging van de werkzaamheden, een opgave van de aard en de hoeveelheid van de bij de werkzaamheden vrijgekomen afvalstoffen en van de afvoerbestemming van die stoffen.   
 
 ### Hoofdstuk  2  
@@ -716,7 +735,7 @@ e. indien op grond van het [Asbestverwijderingsbesluit 2005](../../../../AMvB/as
 2.  Voor zover voor een gebruiksfunctie in tabel 2.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.1 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | fundamentele belastingscombinaties  | buitengewone belastingscombinaties  | bepalingsmethode  | verbouw  |--- |--- | artikel  |  2.2    |  2.3    |  2.4    |  2.5    |--- |--- | lid  | *  | 1  | 2  | 1  | 2  | 3  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | *  | 1  | 2  | 1  | 2  | 3  | *  |
 | 7  | Logiesfunctie  | *  | 1  | 2  | 1  | 2  | 3  | *  |
 | Alle niet hierboven genoemde gebruiksfuncties  | *  | 1  | 2  | 1  | 2  | –  | *  |
@@ -772,7 +791,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Voor zover voor een gebruiksfunctie in tabel 2.6 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.6 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | fundamentele belastingscombinaties  | bepalingsmethode  |--- |--- | artikel  |  2.7    |  2.8    |--- |--- | lid  | *  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | *  | 1  | 2  |
 | 7  | Logiesfunctie  | *  | 1  | 2  |
 | Alle niet hierboven genoemde gebruiksfuncties  | *  | 1  | –  |
@@ -806,7 +825,7 @@ Een bouwconstructie bezwijkt niet gedurende de in NEN 8700 bedoelde restlevensdu
 2.  Voor zover voor een gebruiksfunctie in tabel 2.9 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.9 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | tijdsduur bezwijken  | bepalingsmethode  | verbouw  |--- |--- | artikel  |  2.10    |  2.11    |  2.12    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 1  | 2  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | 1  | 2  | *  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor kinderopvang met bedgebied  | 1  | –  | –  | –  | 5  | 6  | –  | –  | –  | 1  | 2  | *  |
@@ -837,7 +856,7 @@ Een bouwconstructie bezwijkt niet gedurende de in NEN 8700 bedoelde restlevensdu
 2.  Een bouwconstructie bezwijkt bij brand in een brandcompartiment waarin die bouwconstructie niet ligt, niet binnen de in tabel 2.10.1 aangegeven tijdsduur door het bezwijken van een bouwconstructie binnen of grenzend aan dat brandcompartiment. Voor zover dat brandcompartiment een woonfunctie is, geldt dit niet voor een bouwconstructie van een aan dat brandcompartiment grenzend subbrandcompartiment of grenzende buitenruimte.  Tabel 2.10.1 
 
 | woonfunctie  | tijdsduur van de brandwerendheid met betrekking tot bezwijken in minuten  |
-|:---|:---|
+|---|---|
 | Indien geen vloer van een verblijfsgebied hoger ligt dan 7 m boven het meetniveau  | 60  |
 | Indien een vloer van een verblijfsgebied hoger ligt dan 7 m en geen vloer van een verblijfsgebied hoger ligt dan 13 m boven het meetniveau  | 90  |
 | Indien een vloer van een verblijfsgebied hoger ligt dan 13 m boven het meetniveau  | 120  |
@@ -847,7 +866,7 @@ Een bouwconstructie bezwijkt niet gedurende de in NEN 8700 bedoelde restlevensdu
 5.  Een bouwconstructie bezwijkt bij brand in een brandcompartiment waarin de bouwconstructie niet ligt, niet binnen de in tabel 2.10.2 aangegeven tijdsduur door het bezwijken van een bouwconstructie binnen of grenzend aan het brandcompartiment.  Tabel 2.10.2 
 
 | gebruiksfunctie niet zijnde een woonfunctie  | tijdsduur van de brandwerendheid met betrekking tot bezwijken in minuten  |
-|:---|:---|
+|---|---|
 | Indien geen vloer van een verblijfsgebied hoger ligt dan 5 m boven het meetniveau  | 60  |
 | Indien een vloer van een verblijfsgebied hoger ligt dan 5 m en geen vloer van een gebruiksgebied hoger ligt dan 13 m boven het meetniveau  | 90  |
 | Indien een vloer van een verblijfsgebied hoger ligt dan 13 m boven het meetniveau  | 120  |
@@ -896,7 +915,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Voor zover voor een gebruiksfunctie in tabel 2.13 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.13 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | tijdsduur bezwijken  | bepalingsmethode  |--- |--- | artikel  |  2.14    |  2.15    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | –  | –  | –  | –  | –  | 1  | 2  |
 | 2  | Bijeenkomstfunctie  | 1  | –  | 3  | –  | –  | –  | –  | 1  | 2  |
 | 3  | Celfunctie  | 1  | –  | –  | 4  | –  | –  | –  | 1  | 2  |
@@ -924,7 +943,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Een bouwconstructie bezwijkt bij brand in een brandcompartiment waarin die bouwconstructie niet ligt, niet binnen de in tabel 2.14.1 aangegeven tijdsduur door het bezwijken van een bouwconstructie binnen of grenzend aan dat brandcompartiment. Dit geldt dit niet voor een bouwconstructie van een aan dat brandcompartiment grenzend subbrandcompartiment of grenzende buitenruimte.  Tabel 2.14.1 
 
 | woonfunctie  | tijdsduur van de brandwerendheid met betrekking tot bezwijken in minuten  |
-|:---|:---|
+|---|---|
 | Indien een vloer van een verblijfsgebied hoger ligt dan 7 m en niet hoger dan 13 m boven het meetniveau  | 30  |
 | Indien een vloer van een verblijfsgebied hoger ligt dan 13 m boven het meetniveau  | 60  |
 
@@ -932,7 +951,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 4.  Een bouwconstructie bezwijkt bij brand in een brandcompartiment waarin de bouwconstructie niet ligt, niet binnen de in tabel 2.14.2 aangegeven tijdsduur door het bezwijken van een bouwconstructie binnen of grenzend aan het brandcompartiment.  Tabel 2.14.2 
 
 | gebruiksfunctie  | tijdsduur van de brandwerendheid met betrekking tot bezwijken in minuten  |
-|:---|:---|
+|---|---|
 | Indien een vloer van een verblijfsgebied hoger ligt dan 5 m en niet hoger dan 13 m boven het meetniveau  | 30  |
 | Indien een vloer van een verblijfsgebied hoger ligt dan 13 m boven het meetniveau  | 60  |
 
@@ -962,25 +981,25 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 1.  Een te bouwen bouwwerk bevat voorzieningen waardoor het vallen van een vloer, een trap en een hellingbaan zo veel mogelijk wordt voorkomen.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.16 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.16 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | hoogte  | openingen  | overklauterbaarheid  | verbouw  | openingen  |--- |--- | artikel  |  2.17    |  2.18    |  2.19    |  2.20    |  2.21    |  2.19    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | *  | *  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | *  | *  | 0,2  |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang voor kinderen jonger dan 4 jaar  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | *  | *  | 0,1  |
-| --- | b  | andere kinderopvang  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | *  | *  | 0,2  |
-| --- | c  | andere bijeenkomstfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 3  | Celfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,3  |
-| 4  | Gezondheidszorgfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 5  | Industriefunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 6  | Kantoorfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 7  | Logiesfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 8  | Onderwijsfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | basisonderwijs  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | *  | *  | 0,2  |
-| --- | b  | andere onderwijsfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 9  | Sportfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 10  | Winkelfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
-| 12  | Bouwwerk geen gebouw zijnde  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | –  | 3  | 4  | –  | *  | 0,5  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | hoogte  | openingen  | overklauterbaarheid  | verbouw  | openingen  |--- |--- | artikel  |  2.17    |  2.18    |  2.19    |  2.20    |  2.21    |  2.19    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m]  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1  | Woonfunctie  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | –  | 1  | –  | *  | 0,2  |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor kinderopvang voor kinderen jonger dan 4 jaar  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | –  | 1  | –  | *  | 0,1  |
+| --- | b  | andere kinderopvang  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | –  | 1  | –  | *  | 0,2  |
+| --- | c  | andere bijeenkomstfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 3  | Celfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,3  |
+| 4  | Gezondheidszorgfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 5  | Industriefunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | –  | 3  | 4  | –  | –  | –  | *  | 0,5  |
+| 6  | Kantoorfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 7  | Logiesfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 8  | Onderwijsfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | basisonderwijs  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | –  | 1  | –  | *  | 0,2  |
+| --- | b  | andere onderwijsfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 9  | Sportfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 10  | Winkelfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 11  | Overige gebruiksfunctie  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | –  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 0,5  |
+| 12  | Bouwwerk geen gebouw zijnde  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 1  | –  | 3  | 4  | –  | –  | –  | *  | 0,5  |
 
 ### Artikel  2.17  
 
@@ -1021,15 +1040,17 @@ e. een met een rand als bedoeld onder a tot en met d, gelijk te stellen rand van
 ####Openingen
 
 1.  Een afscheiding als bedoeld in artikel 2.17 heeft geen openingen waardoor een bol kan passeren met een doorsnede groter dan de in tabel 2.16 aangegeven diameter.   
-2.  In afwijking van het eerste lid heeft een afscheiding als bedoeld in artikel 2.17 tot een hoogte van 0,7 m boven de vloer, de voorkant van de tredevlakken of de vloer van de hellingbaan geen openingen met een breedte groter dan 0,1 m.   
+2.  In afwijking van het eerste lid heeft een afscheiding als bedoeld in artikel 2.17 tot een hoogte van 0,7 m boven een vloer, een tredevlak of een vloer van een hellingbaan geen openingen waardoor een bol kan passeren met een doorsnede groter dan 0,1 m.   
 3.  De horizontaal gemeten afstand tussen een vloer, een trap of een hellingbaan en een afscheiding als bedoeld in artikel 2.17 is niet groter dan 0,05 m.   
 4.  De bovenregel van een in artikel 2.17 bedoelde afscheiding heeft geen onderbreking van meer dan 0,1 m.   
+5.  Het tweede lid is niet van toepassing op een vloer, een tredevlak of een vloer van een hellingbaan, of een gedeelte daarvan, niet bestemd voor kinderen jonger dan 12 jaar.   
 
 ### Artikel  2.20  
 
 ####Overklauterbaarheid
 
-Een afscheiding als bedoeld in artikel 2.17 heeft, ter voorkoming van het overklauteren, geen opstapmogelijkheden tussen 0,2 m en 0,7 m boven de vloer.  
+1.  Een afscheiding als bedoeld in artikel 2.17 heeft, ter voorkoming van het overklauteren, geen opstapmogelijkheden tussen 0,2 m en 0,7 m boven een vloer, een tredevlak of een vloer van een hellingbaan.   
+2.  Het eerste lid is niet van toepassing op een vloer, een tredevlak of een vloer van een hellingbaan, of een gedeelte daarvan, niet bestemd voor kinderen jonger dan 12 jaar.   
 
 ### Artikel  2.21  
 
@@ -1049,7 +1070,7 @@ Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een 
 2.  Voor zover voor een gebruiksfunctie in tabel 2.22 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.22 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | hoogte  | openingen  | openingen  |--- |--- | artikel  |  2.23    |  2.24    |  2.25    |  2.25    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 1  | 2  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | 4  | 1  | 2  | 0,2  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor kinderopvang voor kinderen jonger dan 4 jaar  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 1  | 2  | 0,1  |
@@ -1164,7 +1185,7 @@ Op het bouwen van een tijdelijk bouwwerk is artikel 2.27 van toepassing.
 2.  Voor zover voor een gebruiksfunctie in tabel 2.32 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.32 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | afmetingen  | trapbordes  | leuning  | regenwerend  | verbouw  |--- |--- | artikel  |  2.33    |  2.34    |  2.35    |  2.36    |  2.37    |--- |--- | lid  | 1  | 2  | *  | *  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | *  | *  | *  | *  |
 | 2  | Bijeenkomstfunctie  | 1  | 2  | *  | *  | –  | *  |
 | 3  | Celfunctie  | 1  | 2  | *  | *  | –  | *  |
@@ -1186,7 +1207,7 @@ Op het bouwen van een tijdelijk bouwwerk is artikel 2.27 van toepassing.
 2.  Een trap overbrugt een hoogteverschil van niet meer dan 4 meter.  Tabel 2.33 
 
 | afmetingen van een trap  |--- |  *reguliere trap*   |  *trap uitsluitend voor ontvluchten*   |--- | woonfunctie  | andere gebruiksfunctie  | alle gebruiksfuncties  |
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|
 | Minimum breedte van de trap  | 0,8 m  | 0,8 m  | 0,8 m  |
 | Minimum vrije hoogte boven de trap  | 2,3 m  | 2,1 m  | 2,1 m  |
 | Minimum aantrede ter plaatse van de klimlijn, gemeten loodrecht op de voorkant van de trede  | 0,22 m  | 0,185 m  | 0,185 m  |
@@ -1237,7 +1258,7 @@ Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een 
 Een trap als bedoeld in artikel 2.31, heeft afmetingen die voldoen aan tabel 2.39.  Tabel 2.39 
 
 | afmetingen van een trap  |
-|:---|
+|---|
 | Minimum breedte van de trap  | 0,7 m  |
 | Minimum vrije hoogte boven de trap  | 1,9 m  |
 | Minimum aantrede ter plaatse van de klimlijn, gemeten loodrecht op de voorkant van de trede  | 0,13 m  |
@@ -1484,14 +1505,14 @@ Een opstelplaats voor een open verbrandingstoestel ligt niet in een toiletruimte
 1.  Een te bouwen bouwwerk is zodanig dat brand en rook zich niet snel kunnen ontwikkelen.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.66 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 2.66 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | zijde grenzend aan de  | bovenzijde  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | binnenlucht  | buitenlucht  |--- |--- |--- |--- |--- |--- | binnenoppervlak  | buitenoppervlak  | beloopbaar vlak  | vrijgesteld  | dakoppervlak  | constructieonderdeel  | verbouw  | tijdelijke bouw  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde verkeersruimte  | beschermde verkeersruimte  | overig  |--- |--- | artikel  |  2.67    |  2.68    |  2.69    |  2.70    |  2.71    |  2.72    |  2.73    |  2.74    |  2.67    |  2.68    |  2.69    |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | 1  | 2  | *  | *  | *  | 1 en 2  | 1  | 1 en 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [brandklasse]  | [brandklasse]  | [brandklasse]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | zijde grenzend aan de  | bovenzijde  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | binnenlucht  | buitenlucht  |--- |--- |--- |--- |--- |--- | binnenoppervlak  | buitenoppervlak  | beloopbaar vlak  | vrijgesteld  | dakoppervlak  | constructieonderdeel  | verbouw  | tijdelijke bouw  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  |--- |--- | artikel  |  2.67    |  2.68    |  2.69    |  2.70    |  2.71    |  2.72    |  2.73    |  2.74    |  2.67    |  2.68    |  2.69    |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | 1  | 2  | *  | *  | *  | 1 en 2  | 1  | 1 en 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [brandklasse]  | [brandklasse]  | [brandklasse]  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | in een woongebouw  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | B  | D  | C  | C  | D  | C <sub>fl</sub>  | C <sub>fl</sub>  | D <sub>fl</sub>  |
-| --- | b  | voor zorg met een g.o. > 500 m <sup>2</sup>  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | B  | D  | C  | C  | D  | C <sub>fl</sub>  | C <sub>fl</sub>  | D <sub>fl</sub>  |
-| --- | c  | andere woonfunctie  | 1  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | –  | –  | –  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
+| --- | b  | voor zorg met een g.o. > 500 m <sup>2</sup>  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | B  | D  | C  | C  | D  | C <sub>fl</sub>  | C <sub>fl</sub>  | D <sub>fl</sub>  |
+| --- | c  | andere woonfunctie  | 1  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang voor kinderen jonger dan 4 jaar  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | B  | D  | C  | C  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
+| --- | a  | voor kinderopvang voor kinderen jonger dan 4 jaar  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | B  | D  | C  | C  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
 | --- | b  | andere bijeenkomstfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
 | 3  | Celfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | B  | C  | B  | B  | D  | C <sub>fl</sub>  | C <sub>fl</sub>  | C <sub>fl</sub>  |
 | 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1503,7 +1524,7 @@ Een opstelplaats voor een open verbrandingstoestel ligt niet in een toiletruimte
 | 8  | Onderwijsfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
 | 9  | Sportfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
 | 10  | Winkelfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | *  | *  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
+| 11  | Overige gebruiksfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | 2  | *  | *  | *  | B  | D  | D  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
 | 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | tunnel of tunnelvormig bouwwerk voor verkeer  | 1  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | –  | 2  | 1  | 2  | *  | *  | *  | B  | B  | B  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
 | --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | –  | 2  | 1  | 2  | *  | *  | *  | –  | –  | –  | C  | D  | D  | C <sub>fl</sub>  | D <sub>fl</sub>  | D <sub>fl</sub>  |
@@ -1529,8 +1550,8 @@ Een opstelplaats voor een open verbrandingstoestel ligt niet in een toiletruimte
 
 ####Beloopbaar vlak
 
-1.  In afwijking van artikel 2.67 geldt voor de bovenzijde van een voor personen bestemde vloer, een trap en een hellingbaan die grenst aan de binnenlucht rookklasse s1 <sub>fl</sub> en de in tabel 2.66 aangegeven brandklasse, beide bepaald volgens NEN-EN 13501-1.   
-2.  In afwijking van de artikel 2.68 geldt voor een bovenzijde van een voor personen bestemde vloer, een trap en een hellingbaan die grenst aan de buitenlucht de in tabel 2.66 aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.   
+1.  In afwijking van artikel 2.67 geldt voor de bovenzijde van een vloer, een trap en een hellingbaan die grenst aan de binnenlucht rookklasse s1 <sub>fl</sub> en de in tabel 2.66 aangegeven brandklasse, beide bepaald volgens NEN-EN 13501-1.   
+2.  In afwijking van de artikel 2.68 geldt voor een bovenzijde van een vloer, een trap en een hellingbaan die grenst aan de buitenlucht de in tabel 2.66 aangegeven brandklasse, bepaald volgens NEN-EN 13501-1.   
 
 ### Artikel  2.70  
 
@@ -1575,28 +1596,28 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 2.68, derde lid, en 2
 1.  Een bestaand bouwwerk is zodanig dat brand en rook zich niet snel kunnen ontwikkelen.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.75 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.75 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | zijde grenzend aan de  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | binnenlucht  | buitenlucht  |--- |--- |--- | binnenoppervlak  | buitenoppervlak  | beloopbaar vlak  | vrijgesteld  | toepassing Euroklassen  | extra beschermde vluchtroute  | beschermde route  | overig  | extra beschermde vluchtroute  | beschermde route  | overig  |--- |--- | artikel  |  2.76    |  2.77    |  2.78    |  2.79    |  2.80    |  2.76    |  2.77    |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 1  | 2  | 1  | 2  | *  | 1  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [brandklasse]  | [brandklasse]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een woongebouw  | 1  | 2  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 2  | 4  | 2  | 2  | 4  |
-| --- | b  | andere woonfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 2  | Bijeenkomstfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 3  | Celfunctie  | 1  | –  | 3  | 4  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 1  | 1  | 4  | 1  | 1  | 4  |
-| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | met bedgebied  | 1  | 2  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 2  | 4  | 2  | 4  | 4  |
-| --- | b  | andere gezondheidszorgfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 5  | Industriefunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 6  | Kantoorfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 2  | 4  | 2  | 4  | 4  |
-| --- | b  | andere logiesfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 8  | Onderwijsfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 9  | Sportfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 10  | Winkelfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
-| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | tunnel of tunnelvorming bouwwerk voor verkeer  | –  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | –  | 2  | *  | –  | –  | –  | 2  | 4  | 4  |
-| --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | 1  | 2  | 3  | 1  | 2  | –  | 2  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | zijde grenzend aan de  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | binnenlucht  | buitenlucht  |--- |--- |--- | binnenoppervlak  | buitenoppervlak  | beloopbaar vlak  | vrijgesteld  | Toepassing Euroklassen  | extra beschermde vluchtroute  | beschermde route  | overig  | extra beschermde vluchtroute  | beschermde route  | overig  |--- |--- | artikel  |  2.76    |  2.77    |  2.78    |  2.79    |  2.80    |  2.76    |  2.77    |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | 2  | *  | 1  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [brandklasse]  | [brandklasse]  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een woongebouw  | 1  | 2  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 2  | 4  | 2  | 2  | 4  |
+| --- | b  | andere woonfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 2  | Bijeenkomstfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 3  | Celfunctie  | 1  | –  | 3  | 4  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 1  | 1  | 4  | 1  | 1  | 4  |
+| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | met bedgebied  | 1  | 2  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 2  | 4  | 2  | 4  | 4  |
+| --- | b  | andere gezondheidszorgfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 5  | Industriefunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 6  | Kantoorfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 2  | 4  | 2  | 4  | 4  |
+| --- | b  | andere logiesfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 8  | Onderwijsfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 9  | Sportfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 10  | Winkelfunctie  | 1  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 1  | –  | *  | 2  | 4  | 4  | 2  | 4  | 4  |
+| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | tunnel of tunnelvorming bouwwerk voor verkeer  | –  | –  | 3  | –  | 1  | 2  | 3  | 1  | 2  | 3  | –  | 2  | *  | –  | –  | –  | 2  | 4  | 4  |
+| --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | 1  | 2  | 3  | 1  | 2  | 3  | –  | 2  | *  | –  | –  | –  | 2  | 4  | 4  |
 
 ### Artikel  2.76  
 
@@ -1619,8 +1640,9 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 2.68, derde lid, en 2
 
 ####Beloopbaar vlak
 
-1.  In afwijking van artikel 2.76 heeft de bovenzijde van een voor personen bestemde vloer, een trap of een hellingbaan een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T3 en een rookproductie met een volgens NEN 6066 bepaalde rookdichtheid van ten hoogste 10 m <sup>-1</sup>.   
-2.  In afwijking van het eerste lid heeft de bovenzijde van een voor personen bestemde vloer, een trap of een hellingbaan waarover een extra beschermde vluchtroute voert een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T1.   
+1.  In afwijking van artikel 2.76 geldt voor de bovenzijde van een vloer, een trap of een hellingbaan, die grenst aan de binnenlucht een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T3 en een rookproductie met een volgens NEN 6066 bepaalde rookdichtheid van ten hoogste 10 m <sup>-1</sup>.   
+2.  In afwijking van artikel 2.77 geldt voor de bovenzijde van een vloer, trap of een hellingbaan, die grenst aan de buitenlucht een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T3.   
+3.  In afwijking van het eerste en tweede lid geldt voor de bovenzijde van een vloer, een trap of een hellingbaan, waarover een extra beschermde vluchtroute voert een volgens NEN 1775 bepaalde bijdrage tot brandvoortplanting van klasse T1.   
 
 ### Artikel  2.79  
 
@@ -1665,7 +1687,7 @@ g. een rookproductie met een rookdichtheid van ten hoogste 10 m <sup>-1</sup> of
 2.  Voor zover voor een gebruiksfunctie in tabel 2.81 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.81 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ligging  | omvang  | wbdbo  | verbouw  | tijdelijke bouw  | omvang  |--- |--- | artikel  |  2.82    |  2.83    |  2.84    |  2.85    |  2.86    |  2.83    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | *  | *  | 1  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m <sup>2</sup> ]  |
 | --- | a  | woonwagen  | 1  | –  | 3  | 4  | –  | –  | –  | –  | –  | 2  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | –  | –  | 8  | –  | –  | –  |
 | --- | b  | andere woonfunctie  | 1  | –  | 3  | 4  | –  | –  | –  | –  | 1  | –  | 3  | –  | 5  | 6  | 7  | –  | –  | –  | 1  | 2  | 3  | –  | –  | 6  | 7  | –  | *  | *  | 1.000  |
@@ -1768,7 +1790,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 2.82 en 2.83 van toep
 2.  Voor zover voor een gebruiksfunctie in tabel 2.87 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.87 
 
 | gebruiksfuctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ligging  | omvang  | wbdbo  | omvang  |--- |--- | artikel  |  2.88    |  2.89    |  2.90    |  2.89    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 1  | 2  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m <sup>2</sup> ]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | woonwagen  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | –  |
 | --- | b  | andere woonfunctie  | 1  | –  | 3  | 4  | –  | –  | –  | –  | 1  | –  | 3  | –  | 5  | 6  | 7  | –  | –  | –  | 1  | 2  | 2.000  |
@@ -1849,7 +1871,7 @@ d. een technische ruimte met een gebruiksoppervlakte van ten hoogste 100 m <sup
 2.  Voor zover voor een gebruiksfunctie in tabel 2.91 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 2.91 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ligging  | omvang beschermd subbrandcompartiment  | wbdbo en rookdoorgang  | verbouw  | tijdelijke bouw  | omvang beschermd subbrandcompartiment  |--- |--- | artikel  |  2.92    |  2.93    |  2.94    |  2.95    |  2.96    |  2.93    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | 3  | *  | *  | 1  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor zorg met een g.o. > 500 m <sup>2</sup>  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | *  | *  | 100  |
 | --- | b  | andere woonfunctie  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | *  | *  | 500  |
@@ -1931,28 +1953,28 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 2.94, eerste en derde
 1.  Een bestaand bouwwerk is zodanig dat uitbreiding van brand in verdergaande mate wordt beperkt dan in paragraaf 2.10.2 en dat veilig kan worden gevlucht.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.97 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.97 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ligging  | omvang beschermd subbrandcompartiment  | wtrd en wbdbo  | omvang beschermd subbrandcompartiment  |--- |--- | artikel  |  2.98    |  2.99    |  2.100    | 2.99  |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | 3  | 1  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor zorg met een g.o. > 1000 m <sup>2</sup>  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | –  | –  | –  | –  | –  | –  | 1  | 2  | –  | 200  |
-| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | –  | 1000  |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang met bedgebied  | 1  | 2  | 3  | –  | 5  | –  | –  | –  | –  | 3  | –  | –  | –  | –  | 8  | 1  | 2  | –  | –  |
-| --- | b  | andere bijeenkomstfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 3  | Celfunctie  | 1  | 2  | 3  | –  | –  | 6  | –  | –  | –  | –  | 4  | –  | –  | –  | –  | 1  | 2  | 3  | –  |
-| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | met bedgebied  | 1  | 2  | 3  | –  | 5  | –  | –  | –  | –  | –  | –  | 5  | 6  | –  | –  | 1  | 2  | 3  | –  |
-| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 5  | Industriefunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 6  | Kantoorfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 7  | Logiesfunctie  | 1  | 2  | 3  | –  | –  | –  | 7  | 1  | –  | –  | –  | –  | –  | 7  | 8  | 1  | 2  | –  | 1000  |
-| 8  | Onderwijsfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 9  | Sportfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 10  | Winkelfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
-| --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ligging  | omvang beschermd subbrandcompartiment  | wtrd en wbdbo  | omvang beschermd subbrandcompartiment  |--- |--- | artikel  |  2.98    |  2.99    |  2.100    |  2.99    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 1  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor zorg met een g.o. > 1000 m <sup>2</sup>  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | –  | –  | –  | –  | –  | 1  | 2  | –  | 200  |
+| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | –  | –  | –  | –  | –  | –  | 1  | 2  | –  | 1000  |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor kinderopvang met bedgebied  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| --- | b  | andere bijeenkomstfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 3  | Celfunctie  | 1  | 2  | 3  | –  | –  | 6  | –  | –  | –  | 3  | –  | –  | –  | –  | 1  | 2  | 3  | –  |
+| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | met bedgebied  | 1  | 2  | 3  | –  | 5  | –  | –  | –  | –  | –  | 4  | 5  | –  | –  | 1  | 2  | 3  | –  |
+| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 5  | Industriefunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 6  | Kantoorfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 7  | Logiesfunctie  | 1  | 2  | 3  | –  | –  | –  | 7  | 1  | –  | –  | –  | –  | 6  | 7  | 1  | 2  | –  | 1000  |
+| 8  | Onderwijsfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 9  | Sportfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 10  | Winkelfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 11  | Overige gebruiksfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | 1  | 2  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  |
+| --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  2.98  
 
@@ -1976,12 +1998,11 @@ b. aankleding in dat gebied voldoet aan de eisen die artikel 7.4 stelt aan aankl
 
 1.  Een beschermd subbrandcompartiment heeft een gebruiksoppervlakte van ten hoogste de in tabel 2.97 aangegeven waarde.   
 2.  In afwijking van het eerste lid heeft een beschermd subbrandcompartiment met uitsluitend gezamenlijke ruimten een gebruiksoppervlakte van ten hoogste 1.000 m <sup>2</sup>.   
-3.  Een beschermd subbrandcompartiment omvat niet meer dan een gebruiksfunctie en nevenfuncties van die gebruiksfunctie.   
-4.  Een cel is een afzonderlijk beschermd subbrandcompartiment.   
-5.  Een beschermd subbrandcompartiment met bedgebied omvat uitsluitend een of meer bedruimten en ruimten die ten dienste staan van die bedruimten, en heeft een totale gebruiksoppervlakte van ten hoogste 1.000 m <sup>2</sup>.   
-6.  Een beschermd subbrandcompartiment als bedoeld in het vijfde lid, bestemd voor bedgebonden patiënten heeft, afhankelijk van het bewakingsniveau, een totale gebruiksoppervlakte van ten hoogste 100 m <sup>2</sup> zonder bewaking en ten hoogste 1000 m <sup>2</sup> bij permanente bewaking.   
-7.  Een logiesverblijf is een afzonderlijk beschermd subbrandcompartiment.   
-8.  Een afzonderlijk beschermd subbrandcompartiment is een afzonderlijk subbrandcompartiment.   
+3.  Een cel is een afzonderlijk beschermd subbrandcompartiment.   
+4.  Een beschermd subbrandcompartiment met bedgebied omvat uitsluitend een of meer bedruimten en ruimten die ten dienste staan van die bedruimten, en heeft een totale gebruiksoppervlakte van ten hoogste 1.000 m <sup>2</sup>.   
+5.  Een beschermd subbrandcompartiment als bedoeld in het vijfde lid, bestemd voor bedgebonden patiënten heeft, afhankelijk van het bewakingsniveau, een totale gebruiksoppervlakte van ten hoogste 100 m <sup>2</sup> zonder bewaking en ten hoogste 1000 m <sup>2</sup> bij permanente bewaking.   
+6.  Een logiesverblijf is een afzonderlijk beschermd subbrandcompartiment.   
+7.  Een afzonderlijk beschermd subbrandcompartiment is een afzonderlijk subbrandcompartiment.   
 
 ### Artikel  2.100  
 
@@ -2006,30 +2027,31 @@ b. aankleding in dat gebied voldoet aan de eisen die artikel 7.4 stelt aan aankl
 1.  Een te bouwen bouwwerk heeft zodanige vluchtroutes dat bij brand een veilige plaats kan worden bereikt.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.101 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 2.101 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | vluchtroute  | beschermde vluchtroute  | extra beschermde vluchtroute  | veiligheidsvluchtroute  | tweede vluchtroute  | inrichting vluchtroute  | doorstroomcapaciteit  | verbouw  | tijdelijke bouw  | vluchtroute  | beschermde vluchtroute  | extra beschermde vluchtroute  | inrichting vluchtroute  |--- |--- | artikel  |  2.102    |  2.103    |  2.104    |  2.105    |  2.106    |  2.107    |  2.108    |  2.109    |  2.110    | 2.102  | 2.103  | 2.104  | 2.107  |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 1  | 2  | 3  | *  | *  | 4 en 5  | 3  | 6  | 8  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m]  | [m]  | [m]  | [m]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | 1  | –  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 8  | –  | –  | –  | 12  | –  | –  | –  | *  | *  | 30  | –  | –  | 2,1  |
-| --- | b  | andere woonfunctie  | 1  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | –  | –  | 8  | –  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | –  | 10  | –  | 12  | –  | –  | –  | *  | *  | 30  | 30  | –  | 2,3  |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang met bedgebied  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 5  | 2,3  |
-| --- | b  | andere bijeenkomstfunctie  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 30  | 2,3  |
-| 3  | Celfunctie  | –  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | 10  | –  | 12  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 22,5  | 22,5  | 22,5  | 2,3  |
-| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | met bedgebied  | 1  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | –  | –  | 12  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | 11  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 20  | 2,3  |
-| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 30  | 2,3  |
-| 5  | Industriefunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | –  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 30  | 2,3  |
-| 6  | Kantoorfunctie  | 1  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 30  | 2,3  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | 12  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | 7  | 8  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 20  | 2,3  |
-| --- | b  | andere logiesfunctie  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | 7  | 8  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 20  | 2,1  |
-| 8  | Onderwijsfunctie  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 15  | 2,3  |
-| 9  | Sportfunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 30  | 2,3  |
-| 10  | Winkelfunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 30  | 2,3  |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | –  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | –  | 8  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 30  | 2,1  |
-| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | 1  | –  | 3  | –  | –  | –  | –  | 8  | –  | –  | –  | –  | 1  | –  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | 3  | –  | 5  | –  | –  | 8  | 9  | –  | –  | 12  | –  | –  | 3  | *  | –  | –  | –  | –  | 2,1  |
-| --- | b  | ander bouwwerk geen gebouw zijnde  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 11  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 12  | –  | –  | 3  | *  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | vluchtroute  | beschermde vluchtroute  | extra beschermde vluchtroute  | veiligheidsvluchtroute  | tweede vluchtroute  | inrichting vluchtroute  | doorstroomcapaciteit  | verbouw  | tijdelijke bouw  | vluchtroute  | extra beschermde vluchtroute  | inrichting vluchtroute  |--- |--- | artikel  |  2.102    |  2.103    |  2.104    |  2.105    |  2.106    |  2.107    |  2.108    |  2.109    |  2.110    |  2.102    |  2.104    |  2.107    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 1  | 2  | 3  | *  | *  | 4 en 5  | 6  | 8  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m]  | [m]  | [m]  |
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | 1  | –  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 8  | –  | –  | –  | 12  | –  | –  | –  | *  | *  | 30  | –  | 2,1  |
+| --- | b  | andere woonfunctie  | 1  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | –  | 7  | –  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | –  | 10  | –  | 12  | –  | –  | –  | *  | *  | 30  | –  | 2,3  |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor kinderopvang met bedgebied  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 5  | 2,3  |
+| --- | b  | andere bijeenkomstfunctie  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 2,3  |
+| 3  | Celfunctie  | –  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | 10  | –  | 12  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 22,5  | 22,5  | 2,3  |
+| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | met bedgebied  | 1  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | –  | –  | 12  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | 11  | 12  | 1  | 2  | –  | *  | *  | 30  | 20  | 2,3  |
+| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 2,3  |
+| 5  | Industriefunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | –  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 2,3  |
+| 6  | Kantoorfunctie  | 1  | 2  | –  | 4  | 5  | 6  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 2,3  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | 7  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 20  | 2,3  |
+| --- | b  | andere logiesfunctie  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | 6  | 7  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 20  | 2,1  |
+| 8  | Onderwijsfunctie  | 1  | 2  | –  | 4  | 5  | –  | –  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 15  | 2,3  |
+| 9  | Sportfunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 2,3  |
+| 10  | Winkelfunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | 9  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 2,3  |
+| 11  | Overige gebruiksfunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | –  | –  | 10  | –  | –  | –  | 2  | 3  | –  | –  | –  | –  | 5  | 6  | 7  | 1  | –  | 1  | 2  | 3  | 4  | –  | 1  | 2  | 3  | –  | 5  | 6  | –  | 8  | –  | –  | –  | 12  | 1  | 2  | –  | *  | *  | 30  | 30  | 2,1  |
+| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | 1  | –  | 3  | –  | –  | –  | –  | 8  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | 3  | –  | 5  | –  | –  | 8  | 9  | –  | –  | 12  | –  | –  | 3  | *  | –  | –  | –  | 2,1  |
+| --- | b  | ander bouwwerk geen gebouw zijnde  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 11  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 12  | –  | –  | 3  | *  | –  | –  | –  | –  |
 
 ### Artikel  2.102  
 
@@ -2038,7 +2060,7 @@ b. aankleding in dat gebied voldoet aan de eisen die artikel 7.4 stelt aan aankl
 1.  Op elk punt van een voor personen bestemd gedeelte van een vloer begint een vluchtroute die leidt naar het aansluitende terrein en vandaar naar de openbare weg.   
 2.  Op elk punt van een voor personen bestemd gedeelte van een vloer van een celfunctie of van een nevenfunctie daarvan begint een vluchtroute die, al dan niet via een buitenruimte, leidt naar een ander brandcompartiment.   
 3.  Op elk punt van een rijbaan begint een vluchtroute die leidt naar het aansluitende terrein en vandaar naar de openbare weg.   
-4.  De gecorrigeerde loopafstand tussen een punt in een gebruiksgebied en een uitgang van het subbrandcompartiment waarin dat gebruiksgebied ligt, is niet groter dan de in tabel 2.101 aangegeven waarde.   
+4.  De gecorrigeerde loopafstand tussen een punt in een gebruiksgebied en ten minste een uitgang van het subbrandcompartiment waarin dat gebruiksgebied ligt, is niet groter dan de in tabel 2.101 aangegeven waarde.   
 5.  In afwijking van het vierde lid, wordt bij een niet nader in te delen gebruiksgebied en bij een verblijfsruimte in plaats van de gecorrigeerde loopafstand uitgegaan van de loopafstand die niet groter is dan de in tabel 2.101 aangegeven waarde.   
 6.  In afwijking van het vierde en vijfde lid geldt bij een bezetting van minder dan 1 persoon per 12 m <sup>2</sup> gebruiksoppervlakte van het subbrandcompartiment een waarde van ten hoogste 45 m.   
 7.  In afwijking van het vierde en vijfde lid geldt bij een bezetting van minder dan 1 persoon per 30 m <sup>2</sup> gebruiksoppervlakte van het subbrandcompartiment een waarde van ten hoogste 60 m.   
@@ -2058,7 +2080,7 @@ b. is een uitgang waarbij een vluchtroute begint die niet door een verblijfsruim
 
 1.  Een vluchtroute is vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint een beschermde vluchtroute, tenzij die uitgang direct grenst aan het aansluitende terrein. Dit geldt niet voor zover de vluchtroute door een andere wegtunnelbuis voert dan de wegtunnelbuis waar de vluchtroute begint.   
 2.  Een vluchtroute waarop ten hoogste 37 personen zijn aangewezen, is vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint een beschermde vluchtroute, tenzij die uitgang direct grenst aan het aansluitende terrein.   
-3.  Een besloten ruimte waardoor een beschermde vluchtroute voert heeft vanaf de uitgang van een subbrandcompartiment tot de volgende uitgang op de vluchtroute een loopafstand niet groter dan de in tabel 2.101 aangegeven waarde. Dit geldt niet voor zover de vluchtroute door een trappenhuis voert.   
+3.  Een besloten ruimte waardoor een beschermde vluchtroute voert heeft vanaf de uitgang van een subbrandcompartiment tot de volgende uitgang op de vluchtroute een loopafstand niet groter dan 30 m. Dit geldt niet voor zover de vluchtroute door een trappenhuis voert.   
 
 ### Artikel  2.104  
 
@@ -2074,8 +2096,7 @@ a. er niet meer dan 6 woonfuncties op die route zijn aangewezen en geen vloer va
 b. de totale gebruiksoppervlakte van de woonfuncties die op de route zijn aangewezen ten hoogste 800 m <sup>2</sup> bedraagt, geen vloer van een verblijfsgebied van die woonfuncties hoger ligt dan 12,5 m boven het meetniveau en geen van die woonfuncties een gebruiksoppervlakte heeft van meer dan 150 m <sup>2</sup>.   Bij ministeriële regeling kunnen voorschriften worden gegeven over een in dit lid bedoeld trappenhuis.   
 5.  Een vluchtroute waarop meer dan 37 en ten hoogste 150 personen zijn aangewezen, is vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint een extra beschermde vluchtroute, tenzij die uitgang direct grenst aan het aansluitende terrein.   
 6.  In een besloten ruimte waardoor een extra beschermde vluchtroute voert is de loopafstand vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint tot het punt waar een tweede vluchtroute of een veiligheidsvluchtroute begint, of tot het aansluitende terrein niet groter dan de in tabel 2.101 aangegeven waarde.   
-7.  Een vluchtroute in een trappenhuis is een extra beschermde vluchtroute.   
-8.  Een vluchtroute in een trappenhuis waarin een hoogteverschil van meer dan 8 m wordt overbrugd, is een extra beschermde vluchtroute.   
+7.  Een vluchtroute in een trappenhuis waarin een hoogteverschil van meer dan 8 m wordt overbrugd, is een extra beschermde vluchtroute.   
 
 ### Artikel  2.105  
 
@@ -2088,7 +2109,7 @@ b. de totale gebruiksoppervlakte van de woonfuncties die op de route zijn aangew
 
 ####Tweede vluchtroute
 
-1.  Indien op een vluchtroute een tweede vluchtroute begint zijn de artikelen 2.103, 2.104, eerste tot en met zevende lid, en 2.105 niet van toepassing vanaf het punt dat de twee vluchtroutes door verschillende ruimten voeren.   
+1.  Indien op een vluchtroute een tweede vluchtroute begint zijn de artikelen 2.103, 2.104, eerste tot en met zesde lid, en 2.105 niet van toepassing vanaf het punt dat de twee vluchtroutes door verschillende ruimten voeren.   
 2.  Buiten het brandcompartiment waarin de in het eerste lid bedoelde tweede vluchtroute begint, voeren de twee vluchtroutes niet door eenzelfde brandcompartiment.   
 3.  In afwijking van het eerste en tweede lid kunnen de twee vluchtroutes vanaf de uitgang van het subbrandcompartiment waarin de eerste vluchtroute begint door dezelfde ruimte voeren indien: 
 
@@ -2113,8 +2134,8 @@ d. de vluchtroutes in verschillende richtingen voeren.
 a. een beschermde of extra beschermde vluchtroute en de in de vluchtrichting aansluitende besloten ruimte, en  
 
 b. tussen twee vluchtroutes als bedoeld in aritkel 2.106, eerste lid, die door verschillende ruimten voeren.     
-4.  Per bouwlaag is de volgens NEN 6090 bepaalde permanente vuurlast van een trappenhuis waardoor een beschermde of een extra beschermde vluchtroute voert, met inbegrip van de vanuit dat trappenhuis direct bereikbare besloten ruimten, ten hoogste 3.500 MJ. Bij de bepaling van de vuurlast blijft een besloten ruimte buiten beschouwing als de weerstand tegen branddoorslag en brandoverslag tussen die ruimte en het trappenhuis ten minste 30 minuten is, bepaald volgens NEN 6068. Bij de in rekening te brengen vuurlast van de dakconstructie op de bovenste bouwlaag van het trappenhuis waardoor geen veiligheidsvluchtroute voert, wordt een reductie van 50% toegepast. Dit geldt niet voor een trappenhuis als bedoeld in artikel 2.104, vierde lid.   
-5.  Per bouwlaag is de volgens NEN 6090 bepaalde permanente vuurlast van een besloten ruimte waardoor een veiligheidsvluchtroute voert, met inbegrip van de vanuit die ruimte direct bereikbare besloten ruimten, ten hoogste 3.500 MJ. Bij de bepaling van de vuurlast blijft een besloten ruimte buiten beschouwing als de weerstand tegen branddoorslag en brandoverslag tussen die ruimte en de ruimte waardoor de veiligheidsvluchtroute voert ten minste 30 minuten is, bepaald volgens NEN 6068.   
+4.  Per bouwlaag is de permanente vuurlast van een trappenhuis waardoor een beschermde of een extra beschermde vluchtroute voert, met inbegrip van de vanuit dat trappenhuis direct bereikbare besloten ruimten, ten hoogste 3.500 MJ. Bij de bepaling van de vuurlast blijft een besloten ruimte buiten beschouwing als de weerstand tegen branddoorslag en brandoverslag tussen die ruimte en het trappenhuis ten minste 30 minuten is, bepaald volgens NEN 6068. Bij de in rekening te brengen vuurlast van de dakconstructie op de bovenste bouwlaag van het trappenhuis waardoor geen veiligheidsvluchtroute voert, wordt een reductie van 50% toegepast. Dit geldt niet voor een trappenhuis als bedoeld in artikel 2.104, vierde lid.   
+5.  Per bouwlaag is de permanente vuurlast van een besloten ruimte waardoor een veiligheidsvluchtroute voert, met inbegrip van de vanuit die ruimte direct bereikbare besloten ruimten, ten hoogste 3.500 MJ. Bij de bepaling van de vuurlast blijft een besloten ruimte buiten beschouwing als de weerstand tegen branddoorslag en brandoverslag tussen die ruimte en de ruimte waardoor de veiligheidsvluchtroute voert ten minste 30 minuten is, bepaald volgens NEN 6068.   
 6.  Een besloten trappenhuis, waarin een hoogteverschil van meer dan 20 m wordt overbrugd, wordt in de vluchtrichting uitsluitend bereikt door een afzonderlijke beschermde vluchtroute met een loopafstand van ten minste 2 m.   
 7.  Een uitgang van een woonfunctie grenst niet aan een in het zesde lid bedoelde afzonderlijke vluchtroute.   
 8.  Een vluchtroute heeft een vrije doorgang met een breedte van ten minste 0,85 m en een hoogte van ten minste de in tabel 2.101 aangegeven waarde. Dit geldt niet voor zover de vluchtroute over een trap voert.   
@@ -2164,8 +2185,9 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 2.102 tot en met 2.10
 1.  Een bestaand bouwwerk heeft zodanige vluchtroutes dat bij brand een veilige plaats kan worden bereikt.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.111 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 2.111 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | vluchtroute  | beschermde route  | extra beschermde vluchtroute  | veiligheidsvluchtroute  | tweede vluchtroute  | inrichting vluchtroute  | capaciteit van een vluchtroute  | vluchtroute  | breedte  | hoogte  |--- |--- | artikel  |  2.112    |  2.113    |  2.114    |  2.115    |  2.116    |  2.117    |  2.118    | 2.112  | 2.117  |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 1  | 2  | 3  | 1  | 2  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 4  | 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m]  | [m]  | [m]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | vluchtroute  | beschermde route  | extra beschermde vluchtroute  | veiligheidsroute  | tweede vluchtroute  | inrichting vluchtroute  | capaciteit van een vluchtroute  | vluchtroute  | breedte  | hoogte  |--- |--- | artikel  |  2.112    |  2.113    |  2.114    |  2.115    |  2.116    |  2.117    |  2.118    |  2.112    |  2.117    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 1  | 2  | 3  | 1  | 2  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 4  | 4  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m]  | [m]  | [m]  |
 | 1  | Woonfunctie  | 1  | –  | –  | 4  | –  | –  | –  | 1  | –  | 1  | –  | –  | 1  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | –  | 6  | –  | 45  | 0,5  | 1,7  |
 | 2  | Bijeenkomstfunctie  | 1  | 2  | –  | 4  | –  | 6  | –  | –  | 2  | –  | 2  | 3  | –  | 2  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | –  | 6  | *  | 60  | 0,5  | 1,7  |
 | 3  | Celfunctie  | –  | 2  | –  | 4  | –  | 6  | –  | –  | 2  | –  | 2  | 3  | –  | 2  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | –  | 6  | *  | 75  | 0,5  | 1,7  |
@@ -2212,10 +2234,10 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 2.102 tot en met 2.10
 
 ### Artikel  2.115  
 
-####Veiligheidsvluchtroute
+####Veiligheidsroute
 
-1.  Een vluchtroute die door een gemeenschappelijke verkeersruimte voert waarop een totale gebruiksoppervlakte van meer dan 1.500 m <sup>2</sup> aan woonfuncties is aangewezen, is een veiligheidsvluchtroute.   
-2.  Een vluchtroute waarop meer dan 225 personen zijn aangewezen, is vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint een veiligheidsvluchtroute, tenzij dat compartiment direct grenst aan het aansluitende terrein.   
+1.  Een vluchtroute die door een gemeenschappelijke verkeersruimte voert waarop een totale gebruiksoppervlakte van meer dan 1.500 m <sup>2</sup> aan woonfuncties is aangewezen, is een veiligheidsroute.   
+2.  Een vluchtroute waarop meer dan 225 personen zijn aangewezen, is vanaf de uitgang van het subbrandcompartiment waarin de vluchtroute begint een veiligheidsroute, tenzij dat compartiment direct grenst aan het aansluitende terrein.   
 
 ### Artikel  2.116  
 
@@ -2229,7 +2251,7 @@ a. de ruimte grenst aan de uitgang van het subbrandcompartiment;
 b. de vluchtroutes in de ruimte naar verschillende uitgangen voeren, en  
 
 c. de ruimte een besloten ruimte is, is de loopafstand in die ruimte gemeten over de vluchtroute ten hoogste 30 m en indien de route een beschermde route is ten hoogste 70 m.     
-3.  In afwijking van het eerste lid kunnen de twee vluchtroutes vanaf de uitgang van het subbrandcompartiment waarin de eerste vluchtroute begint door dezelfde ruimte voeren voor zover de vluchtroute een veiligheidsvluchtroute is.   
+3.  In afwijking van het eerste lid kunnen de twee vluchtroutes vanaf de uitgang van het subbrandcompartiment waarin de eerste vluchtroute begint door dezelfde ruimte voeren voor zover de vluchtroute een veiligheidsroute is.   
 
 ### Artikel  2.117  
 
@@ -2264,7 +2286,7 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven over de capacitei
 2.  Voor zover voor een gebruiksfunctie in tabel 2.119 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.119 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | brandweerlift  | loopafstand  | hulppost  | verbouw  | tijdelijke bouw  |--- |--- | artikel  |  2.120    |  2.121    |  2.122    |  2.123    |  2.124    |--- |--- | lid  | 1  | 2  | 1  | 2  | *  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 1  | 2  | –  | *  | *  |
 | 2  | Bijeenkomstfunctie  | 1  | –  | 1  | 2  | –  | *  | *  |
 | 3  | Celfunctie  | 1  | –  | 1  | 2  | –  | *  | *  |
@@ -2374,9 +2396,13 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woonfuncti
 
 ####Veiligheidszone en plasbrandaandachtsgebied, nieuwbouw
 
+Treedt in werking op een nader te bepalen tijdstip   
+
 ### Artikel  2.132  
 
 ####Aansturingsartikel
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Een te bouwen bouwwerk in een veiligheidszone of plasbrandaandachtsgebied of boven de volle breedte van een basisnetroute indien de veiligheidszone slechts een deel van de breedte van die basisnetroute betreft is zodanig dat het risico dat voortvloeit uit het vervoer van gevaarlijke stoffen voor personen in het bouwwerk beperkt is.   
 2.  Aan de in het eerste lid gestelde eis wordt voldaan door toepassing van het voorschrift in deze afdeling en de krachtens die bepaling gegeven voorschriften.   
@@ -2384,6 +2410,8 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woonfuncti
 ### Artikel  2.133  
 
 ####Veiligheidszone en plasbrandaandachtsgebied
+
+Treedt in werking op een nader te bepalen tijdstip   
 
 Bij ministeriële regeling kunnen aan een bouwwerk in een veiligheidszone of een plasbrandaandachtsgebied of boven de volle breedte van een basisnetroute indien de veiligheidszone slechts een deel van de breedte van die basisnetroute betreft zodanige voorschriften worden gegeven dat personen beschermd zijn tegen gevolgen van een calamiteit op de weg, de spoorweg of het binnenwater waarbij gevaarlijke stoffen zijn betrokken.  
 
@@ -2443,24 +2471,24 @@ Een buiten de bebouwde kom gelegen wegtunnel voor twee rijrichtingen met een tun
 2.  Voor zover voor een gebruiksfunctie in tabel 3.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.1 geen voorschrift is aangewezen.  Tabel 3.1 
 
-| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | geluid van buiten  | industrie-, weg- of spoorweglawaai  | luchtvaartlawaai  | verbouw  | tijdelijke bouw  |--- |--- | artikel  |  3.2    |  3.3    |  3.4    |  3.5    |  3.6    |  3.6    |--- |--- | lid  | *  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | *  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | *  | –  | –  | –  | –  | –  | –  | –  | –  | –  | *  | –  | –  |
-| --- | b  | andere woonfunctie  | *  | 1  | –  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | *  | 1  | 2  |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang  | *  | 1  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | *  | 1  | 2  |
-| --- | b  | andere bijeenkomstfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 3  | Celfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 4  | Gezondheidszorgfunctie  | *  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | *  | 1  | 2  |
-| 5  | Industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 6  | Kantoorfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 7  | Logiesfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 8  | Onderwijsfunctie  | *  | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 5  | *  | 1  | 2  |
-| 9  | Sportfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 10  | Winkelfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | geluid van buiten  | industrie-, weg- of spoorweglawaai  | luchtvaartlawaai  | verbouw  | tijdelijke bouw  |--- |--- | artikel  |  3.2    |  3.3    |  3.4    |  3.5    |  3.6    |  3.6    |--- |--- | lid  | *  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | *  | 1  | 2  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | *  | –  | –  | –  | –  | –  | –  | –  | –  | *  | –  | –  |
+| --- | b  | andere woonfunctie  | *  | 1  | –  | 3  | 4  | 1  | 2  | 3  | 4  | *  | 1  | 2  |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor kinderopvang  | *  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | *  | 1  | 2  |
+| --- | b  | andere bijeenkomstfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 3  | Celfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 4  | Gezondheidszorgfunctie  | *  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | *  | 1  | 2  |
+| 5  | Industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 6  | Kantoorfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 7  | Logiesfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 8  | Onderwijsfunctie  | *  | 1  | –  | 3  | 4  | 1  | 2  | 3  | 4  | *  | 1  | 2  |
+| 9  | Sportfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 10  | Winkelfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  3.2  
 
@@ -2472,8 +2500,8 @@ Een uitwendige scheidingsconstructie van een verblijfsgebied heeft een volgens N
 
 ####Industrie-, weg- of spoorweglawaai
 
-1.  Bij een krachtens de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) of de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md) vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een verblijfsgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 35 dB(A) bij industrielawaai, of 33 dB bij weg- of spoorweglawaai.   
-2.  Bij een krachtens de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) of de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md) vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een bedgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 30 dB(A) bij industrielawaai, of 28 dB bij weg- of spoorweglawaai.   
+1.  Bij een krachtens de Wet geluidhinder of de Tracéwet vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een verblijfsgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 35 dB(A) bij industrielawaai, of 33 dB bij weg- of spoorweglawaai.   
+2.  Bij een krachtens de Wet geluidhinder of de Tracéwet vastgesteld hogere-waardenbesluit is de volgens NEN 5077 bepaalde karakteristieke geluidwering van een uitwendige scheidingsconstructie van een bedgebied niet kleiner dan het verschil tussen de in dat besluit opgenomen hoogst toelaatbare geluidsbelasting voor industrie-, weg- of spoorweglawaai en 30 dB(A) bij industrielawaai, of 28 dB bij weg- of spoorweglawaai.   
 3.  Op een inwendige scheidingsconstructie van een gebied als bedoeld in het eerste en tweede lid, die niet de scheiding vormt met een verblijfsgebied van een aangrenzende gebruiksfunctie waarop het eerste en tweede lid van toepassing zijn, zijn deze leden van overeenkomstige toepassing.   
 4.  Een scheidingsconstructie als bedoeld in het eerste tot en met derde lid van een verblijfsruimte heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die maximaal 2 dB of dB(A) lager is dan de karakteristieke geluidwering als bedoeld in het eerste tot en met derde lid van het verblijfsgebied waarin de verblijfsruimte ligt.   
 
@@ -2481,19 +2509,18 @@ Een uitwendige scheidingsconstructie van een verblijfsgebied heeft een volgens N
 
 ####Luchtvaartlawaai
 
-1.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een krachtens de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) vastgestelde Ke-geluidzone bij een militaire luchthaven, heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die niet kleiner is dan de waarde in tabel 3.4. Indien de geluidsbelasting ligt tussen de in de eerste kolom opgenomen Ke-waarden, wordt de te bereiken waarde van de geluidwering bepaald door middel van rechtevenredige interpolatie tussen de in de tweede kolom opgenomen dB-waarden.  Tabel 3.4 
+1.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een krachtens de Luchtvaartwet of de Wet luchtvaart vastgestelde Ke-geluidzone bij een militaire luchthaven, heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die niet kleiner is dan de waarde in tabel 3.4. Indien de geluidsbelasting ligt tussen de in de eerste kolom opgenomen Ke-waarden, wordt de te bereiken waarde van de geluidwering bepaald door middel van rechtevenredige interpolatie tussen de in de tweede kolom opgenomen dB-waarden.  Tabel 3.4 
 
 | geluidwering bij luchtvaartlawaai  | geluidsbelasting in Ke  | vereiste karakteristieke geluidwering in dB  |
-|:---|:---|:---|
+|---|---|---|
 | 36–40  | 30–33  |
 | 41–45  | 33–36  |
 | 46-50  | 36–40  |
 | meer dan 50  | 40  |
 
-2.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een krachtens de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) vastgestelde 56 dB(A) L <sub>den</sub> beperkingengebied of binnen een 35 Ke-geluidcontour bij een burgerluchthaven, heeft een zodanige volgens NEN 5077 bepaalde karakteristieke geluidwering dat het karakteristiek geluidniveau in het verblijfsgebied ten hoogste 33 dB is. Daarbij wordt uitgegaan van de krachtens de Wet luchtvaart bepaalde geluidbelasting op de uitwendige scheidingsconstructie.   
-3.  Een bedgebied binnen de voor de luchthaven Schiphol krachtens de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) vastgestelde 26 LA <sub>eq</sub> -geluidszone in dB(A) heeft een zodanige volgens NEN 5077 bepaalde karakteristieke geluidwering dat het karakteristiek geluidniveau in het verblijfsgebied ten hoogste 28 dB is.   
-4.  Op een inwendige scheidingsconstructie van een gebied als bedoeld in het eerste tot en met derde lid, die niet de scheiding vormt met een verblijfsgebied van een aangrenzende gebruiksfunctie waarop het eerste tot en met derde lid van toepassing zijn, zijn deze leden van overeenkomstige toepassing.   
-5.  Een scheidingsconstructie als bedoeld in het eerste tot en met vierde lid van een verblijfsruimte heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die maximaal 2 dB of dB(A) lager is dan de karakteristieke geluidwering als bedoeld in het eerste tot en met vierde lid van het verblijfsgebied waarin de verblijfsruimte ligt.   
+2.  Een uitwendige scheidingsconstructie van een verblijfsgebied van een gebruiksfunctie in een voor de luchthaven Schiphol op de kaarten in bijlage 3B, nummer 4, van het Luchthavenindelingbesluit Schiphol aangewezen gebied of een krachtens de Wet luchtvaart vastgestelde 56 dB(A) L <sub>den</sub> beperkingengebied of een vastgestelde 35 Ke-geluidzone bij een burgerluchthaven, heeft een zodanige volgens NEN 5077 bepaalde karakteristieke geluidwering dat het karakteristiek geluidniveau in het verblijfsgebied ten hoogste 33 dB is. Daarbij wordt uitgegaan van de krachtens de Luchtvaartwet of de Wet luchtvaart bepaalde geluidbelasting op de uitwendige scheidingsconstructie.   
+3.  Op een inwendige scheidingsconstructie van een gebied als bedoeld in het eerste en tweede lid, die niet de scheiding vormt met een verblijfsgebied van een aangrenzende gebruiksfunctie waarop het eerste en tweede lid van toepassing zijn, zijn deze leden van overeenkomstige toepassing.   
+4.  Een scheidingsconstructie als bedoeld in het eerste tot en met derde lid van een verblijfsruimte heeft een volgens NEN 5077 bepaalde karakteristieke geluidwering die maximaal 2 dB of dB(A) lager is dan de karakteristieke geluidwering als bedoeld in het eerste tot en met derde lid van het verblijfsgebied waarin de verblijfsruimte ligt.   
 
 ### Artikel  3.5  
 
@@ -2520,7 +2547,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Voor zover voor een gebruiksfunctie in tabel 3.7 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 3.7 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aangrenzend perceel  | zelfde perceel  | verbouw  | tijdelijke bouw  | zelfde perceel  |--- |--- | artikel  |  3.8    |  3.9    |  3.10    |  3.11    |  3.9    |--- |--- | lid  | *  | 1  | 2  | *  | *  | 2  |--- |--- |--- |--- |--- |--- |--- |--- | [dB]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | *  | 1  | 2  | *  | *  | 30  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor kinderopvang  | *  | 1  | 2  | *  | *  | 35  |
@@ -2547,7 +2574,7 @@ Een toilet met waterspoeling, een kraan, een mechanisch ventilatiesysteem, een w
 ####Zelfde perceel
 
 1.  Een toilet met waterspoeling, een kraan, een mechanische voorziening voor luchtverversing, een warmwatertoestel, een installatie voor verhoging van waterdruk of een lift veroorzaakt in een niet-gemeenschappelijke verblijfsruimte van een aangrenzende op hetzelfde perceel gelegen woonfunctie een volgens NEN 5077 bepaald karakteristiek installatie-geluidsniveau van ten hoogste 30 dB.   
-2.  Een mechanische voorziening voor luchtverversing, warmteopwekking of warmteterugwinning veroorzaakt in een verblijfsgebied van de gebruiksfunctie een volgens NEN 5077 bepaald karakteristiek installatie-geluidsniveau van ten hoogste de in tabel 3.7 aangegeven waarde.   
+2.  Een mechanische voorziening voor luchtverversing, warmteopwekking of warmteterugwinning veroorzaakt in een niet-gemeenschappelijke verblijfsruimte van de gebruiksfunctie een volgens NEN 5077 bepaald karakteristiek installatie-geluidsniveau van ten hoogste de in tabel 3.7 aangegeven waarde.   
 
 ### Artikel  3.10  
 
@@ -2576,7 +2603,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.8 en 3.9, van overe
 
 ####Geluidsabsorptie
 
-Een besloten gemeenschappelijke verkeersruimte die grenst aan een niet-gemeenschappelijke ruimte van een woonfunctie, heeft een volgens NEN-EN 12354-6 bepaalde totale geluidsabsorptie met een getalswaarde, uitgedrukt in m <sup>2</sup>, die niet kleiner is dan 1/8 van de getalswaarde van de inhoud van die ruimte, uitgedrukt in m <sup>3</sup>, in elk van de octaafbanden met middenfrequenties van 250, 500, 1.000 en 2.000 Hz.  
+Een besloten gemeenschappelijke verkeersruimte voor het ontsluiten van een woonfunctie die grenst aan een niet-gemeenschappelijke ruimte van een woonfunctie, heeft een volgens NEN-EN 12354-6 bepaalde totale geluidsabsorptie met een getalswaarde, uitgedrukt in m <sup>2</sup>, die niet kleiner is dan 1/8 van de getalswaarde van de inhoud van die ruimte, uitgedrukt in m <sup>3</sup>, in elk van de octaafbanden met middenfrequenties van 250, 500, 1.000 en 2.000 Hz.  
 
 ### Artikel  3.14  
 
@@ -2597,7 +2624,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woongebouw
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.15 geen voorschrift is aangewezen.  Tabel 3.15 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ander perceel  | verschillende gebruiksfuncties op hetzelfde perceel  | verblijfsruimten van dezelfde woonfunctie  | verbouw  | tijdelijke bouw  | ander perceel  | verschillende gebruiksfuncties op hetzelfde perceel  |--- |--- | artikel  |  3.16    |  3.17    |  3.17a    |  3.18    |  3.19    | 3.16  | 3.17  |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | *  | *  | 3  | 4  | 3  | 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [dB]  | [dB]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | woonwagen  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 | --- | b  | in een woongebouw  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | 6  | 7  | 1  | 2  | 3  | *  | *  | 54  | 59  | 54  | 59  |
@@ -2674,7 +2701,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.16 tot en met 3.17a
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.20 geen voorschrift is aangewezen.  Tabel 3.20 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | wering van vocht van buiten  | factor van de temperatuur  | wateropname  | verbouw  | factor van de temperatuur  |--- |--- | artikel  |  3.21    |  3.22    |  3.23    |  3.24    |  3.22    |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 1  | 2  | *  | 1  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 1  | 2  | *  | 0,65  |
 | 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 1  | 2  | *  | 0,5  |
 | 3  | Celfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 1  | 2  | *  | 0,5  |
@@ -2715,7 +2742,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.16 tot en met 3.17a
 
 ####Verbouw
 
-Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de artikelen 3.21 en 3.23 van overeenkomstige toepassing, waarbij in plaats van het in die artikelen aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
+Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de artikelen 3.21 tot en met 3.23 van overeenkomstige toepassing, waarbij in plaats van het in die artikelen aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
 
 ### §  3.5.2  
 
@@ -2730,7 +2757,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.25 geen voorschrift is aangewezen.  Tabel 3.25 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | vocht van buiten  | wateropname  |--- |--- | artikel  |  3.26    |  3.27    |--- |--- | lid  | 1  | 2  | 3  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  | *  |
 | 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | *  |
 | 3  | Celfunctie  | 1  | 2  | 3  | *  |
@@ -2773,33 +2800,34 @@ Een scheidingsconstructie van een badruimte heeft aan een zijde die grenst aan d
 1.  Een te bouwen bouwwerk heeft een zodanige voorziening voor luchtverversing dat het ontstaan van een voor de gezondheid nadelige kwaliteit van de binnenlucht wordt voorkomen.   
 2.  Voor zover voor een gebruiksfunctie in tabel 3.28 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 3.28 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | luchtverversing verblijfsgebied, verblijfsruimte, toiletruimte en badruimte  | thermisch comfort  | regelbaarheid  | luchtverversing overige ruimten  | plaats van de opening  | luchtkwaliteit  | verbouw  | tijdelijke bouw  | capaciteit  |--- |--- |--- | per persoon  |--- |--- | artikel  |  3.29    |  3.30    |  3.31    |  3.32    |  3.33    |  3.34    |  3.35    |  3.36    |  3.29    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | *  | *  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | *  | *  | 3  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [dm <sup>3</sup> /s per persoon]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | 1  | 2  | –  | 4  | 5  | 6  | *  | *  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | –  | 7  | 8  | –  | *  | *  | –  |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | *  | 6,5  |
-| --- | b  | andere bijeenkomstfunctie  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | 4  |
-| 3  | Celfunctie  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | --- |
-| --- | --- |  *1 cel*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  |
-| --- | --- |  *2 ander verblijfsgebied*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6,5  |
-| 4  | Gezondheidszorgfunctie  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | --- |
-| --- | --- |  *1 bedgebied*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  |
-| --- | --- |  *2 ander verblijfsgebied*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6,5  |
-| 5  | Industriefunctie  | –  | –  | 3  | 4  | –  | 6  | –  | –  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | 6,5  |
-| 6  | Kantoorfunctie  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | 6,5  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a.  | in een logiesgebouw  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | 2  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | 12  |
-| --- | b.  | andere logiesfunctie  | –  | –  | 3  | 4  | 5  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | 2  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | 12  |
-| 8  | Onderwijsfunctie  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | *  | 8,5  |
-| 9  | Sportfunctie  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | 6,5  |
-| 10  | Winkelfunctie  | –  | –  | 3  | 4  | –  | 6  | *  | *  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | 4  |
-| 11  | Overige gebruiksfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a.  | voor het stallen van motorvoertuigen  | –  | –  | –  | –  | –  | 6  | –  | *  | –  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | –  | –  | 4  | 5  | –  | 7  | 8  | 9  | *  | –  | –  |
-| --- | b.  | andere overige gebruiksfunctie  | –  | –  | –  | –  | –  | 6  | –  | *  | –  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | *  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | –  | 4  | –  | 6  | 7  | –  | –  | –  | –  | –  | 4  | –  | 6  | –  | –  | –  | *  | –  | –  |
-| --- | b  | andere tunnel of tunnelvormig bouwwerk  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | –  | 4  | –  | 6  | –  | –  | –  | –  | –  | –  | 4  | –  | –  | –  | –  | –  | *  | –  | –  |
-| --- | c.  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | 4  | 5  | –  | –  | –  | –  | *  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | luchtverversing verblijfsgebied, verblijfsruimte, toiletruimte en badruimte  | thermisch comfort  | regelbaarheid  | luchtverversing overige ruimten  | plaats van de opening  | luchtkwaliteit  | verbouw  | tijdelijke bouw  | capaciteit  |--- |--- |--- | per persoon  |--- |--- | artikel  |  3.29    |  3.30    |  3.31    |  3.32    |  3.33    |  3.34    |  3.35    |  3.36    |  3.29    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | *  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 1  | 2  | *  | 3  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [dm <sup>3</sup> /s per persoon]  |
+| 1  | Woonfunctie  | 1  | 2  | –  | 4  | 5  | 6  | 7  | *  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | *  | –  |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor kinderopvang  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | *  | 6,5  |
+| --- | b  | andere bijeenkomstfunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | 4  |
+| 3  | Celfunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | --- |
+| --- | --- |  *1 cel*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  |
+| --- | --- |  *2 ander verblijfsgebied*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6,5  |
+| 4  | Gezondheidszorgfunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | --- |
+| --- | --- |  *1 bedgebied*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 12  |
+| --- | --- |  *2 ander verblijfsgebied*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6,5  |
+| 5  | Industriefunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | –  | –  | –  | –  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | 6,5  |
+| 6  | Kantoorfunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | 6,5  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | 2  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | 12  |
+| --- | b  | andere logiesfunctie  | –  | –  | 3  | 4  | 5  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | 2  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | 12  |
+| 8  | Onderwijsfunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | *  | 8,5  |
+| 9  | Sportfunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | 6,5  |
+| 10  | Winkelfunctie  | –  | –  | 3  | 4  | –  | 6  | 7  | *  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | 1  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | 4  |
+| 11  | Overige gebruiksfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor het stallen van motorvoertuigen  | –  | –  | –  | –  | –  | 6  | 7  | –  | 1  | 2  | 3  | –  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | –  | –  | –  | 4  | 5  | –  | 7  | 8  | 9  | 1  | 2  | –  | –  |
+| --- | b  | andere overige gebruiksfunctie  | –  | –  | –  | –  | –  | 6  | 7  | –  | 1  | 2  | 3  | –  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 4  | 5  | –  | 7  | 8  | –  | 1  | 2  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | –  | 4  | –  | 6  | 7  | –  | –  | –  | –  | –  | –  | 4  | –  | 6  | –  | –  | –  | 1  | 2  | –  | –  |
+| --- | b  | andere tunnel of tunnelvormig bouwwerk  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | –  | 4  | –  | 6  | –  | –  | –  | –  | –  | –  | –  | 4  | –  | –  | –  | –  | –  | 1  | 2  | –  | –  |
+| --- | c  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 4  | 5  | –  | –  | –  | –  | 1  | 2  | –  | –  |
 
 ### Artikel  3.29  
 
@@ -2810,7 +2838,8 @@ Een scheidingsconstructie van een badruimte heeft aan een zijde die grenst aan d
 3.  Een verblijfsgebied en een verblijfsruimte heeft een voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste de in tabel 3.28 aangegeven capaciteit per persoon.   
 4.  Onverminderd het eerste tot en met derde lid heeft een verblijfsgebied of een verblijfsruimte, met een opstelplaats voor een kooktoestel als bedoeld in artikel 4.38 een voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste 21 dm <sup>3</sup> /s.   
 5.  Een voorziening voor luchtverversing voor meer dan een verblijfsgebied heeft een capaciteit die niet kleiner is dan de hoogste waarde die volgens het eerste en derde lid geldt voor elk afzonderlijk verblijfsgebied. In aanvulling daarop is de capaciteit niet kleiner dan 70% van de som van de waarden die volgens het eerste, derde en vierde lid gelden voor de op die voorziening aangewezen verblijfsgebieden.   
-6.  Een voorziening voor luchtverversing van een toiletruimte heeft een capaciteit van ten minste 7 dm <sup>3</sup> /s en van een badruimte van ten minste 14 dm <sup>3</sup> /s, bepaald volgens NEN 1087.   
+6.  Een toiletruimte heeft een voorziening voor luchtverversing met een capaciteit van ten minste 7 dm <sup>3</sup> /s, bepaald volgens NEN 1087.   
+7.  Een badruimte heeft een voorziening voor luchtverversing met een capaciteit van ten minste 14 dm <sup>3</sup> /s, bepaald volgens NEN 1087.   
 
 ### Artikel  3.30  
 
@@ -2822,7 +2851,9 @@ De toevoer van verse lucht veroorzaakt in de leefzone van een verblijfsgebied ee
 
 ####Regelbaarheid
 
-De capaciteit van een voorziening voor luchtverversing van een verblijfsgebied of verblijfsruimte is regelbaar. De voorziening heeft, bepaald volgens NEN 1087, naast een laagste stand van ten hoogste 10% van de capaciteit en een stand van 100% van de capaciteit ten minste twee standen in het regelgebied tussen de laagste stand en 30% van de capaciteit. Deze twee standen verschillen in capaciteit ten opzichte van de nulstand en onderling ten minste 10%.  
+1.  Een voorziening voor natuurlijke toevoer van verse lucht is regelbaar in het gebied van 0% tot 30% van de capaciteit als bedoeld in artikel 3.29 en heeft, bepaald volgens NEN 1087, naast een laagste stand van ten hoogste 10% van die capaciteit en een stand van 100% van die capaciteit, ten minste twee regelstanden in het regelgebied die onderling ten minste 10% in capaciteit verschillen.   
+2.  Een voorziening voor mechanische toevoer van verse lucht heeft een dichtstand, is regelbaar in het gebied van 10% tot 100% van de capaciteit als bedoeld in artikel 3.29 en heeft naast een laagste stand van ten hoogste 10% van die capaciteit en een stand van 100% van die capaciteit ten minste een regelstand in het regelgebied.   
+3.  Een voorziening voor toevoer van verse lucht als bedoeld in het eerste en tweede lid mag zelfregelend zijn in het regelgebied.   
 
 ### Artikel  3.32  
 
@@ -2832,7 +2863,7 @@ De capaciteit van een voorziening voor luchtverversing van een verblijfsgebied o
 2.  Een ruimte met een opstelplaats voor een gasmeter heeft een niet afsluitbare voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste 1 dm <sup>3</sup> /s per m <sup>2</sup> vloeroppervlakte van die ruimte, met een minimum van 2 dm <sup>3</sup> /s.   
 3.  Een schacht voor een lift heeft een niet afsluitbare voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste 3,2 dm <sup>3</sup> /s per m <sup>2</sup> vloeroppervlakte van die liftschacht.   
 4.  Een opslagruimte voor huishoudelijk afval met een vloeroppervlakte van meer dan 1,5 m <sup>2</sup> heeft een niet afsluitbare voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste 10 dm <sup>3</sup> /s per m <sup>2</sup> vloeroppervlakte van die ruimte.   
-5.  Een stallingruimte voor motorvoertuigen met een gebruiksoppervlakte van niet meer dan 50 m <sup>2</sup> heeft een niet afsluitbare voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste 3 dm <sup>3</sup> /s per m <sup>2</sup> vloeroppervlakte van die ruimte.   
+5.  Een stallingruimte voor motorvoertuigen heeft een niet afsluitbare voorziening voor luchtverversing met een volgens NEN 1087 bepaalde capaciteit van ten minste 3 dm <sup>3</sup> /s per m <sup>2</sup> vloeroppervlakte van die ruimte.   
 6.  Een tunnel heeft afhankelijk van zijn bestemming en tunnellengte een voorziening voor luchtverversing met voldoende capaciteit.   
 7.  Bij een tunnelbuislengte van meer dan 500 m is de in het zesde lid bedoelde voorziening voor luchtverversing mechanisch.   
 
@@ -2840,15 +2871,16 @@ De capaciteit van een voorziening voor luchtverversing van een verblijfsgebied o
 
 ####Plaats van de opening
 
-1.  De volgens NEN 1087 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor luchtverversing en van een afvoervoorziening voor rook heeft ter plaatse van een instroomopening voor de toevoer van verse lucht voor een voorziening voor luchtverversing als bedoeld in artikel 3.29 ten hoogste de in tabel 3.33 aangegeven waarde. Bij de bepaling van de verdunningsfactor blijven afvoervoorzieningen en belemmeringen die op een ander perceel liggen buiten beschouwing.  Tabel 3.33 Verdunningsfactoren voor verschillende soorten afvoeren. 
+1.  De volgens NEN 1087 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor luchtverversing heeft ter plaatse van een instroomopening voor de toevoer van verse lucht voor een voorziening voor luchtverversing als bedoeld in artikel 3.29 ten hoogste de in tabel 3.33 aangegeven waarde. Bij de bepaling van de verdunningsfactor blijven afvoervoorzieningen en belemmeringen die op een ander perceel liggen buiten beschouwing.   
+2.  De volgens NEN 2757 bepaalde verdunningsfactor van de uitstoot van een afvoervoorziening voor rookgas heeft ter plaatse van een instroomopening voor de toevoer van verse lucht voor een voorziening voor luchtverversing als bedoeld in artikel 3.29 ten hoogste de in tabel 3.33 aangegeven waarde. Bij de bepaling van de verdunningsfactor blijven afvoervoorzieningen en belemmeringen die op een ander perceel liggen buiten beschouwing.  Tabel 3.33 Verdunningsfactoren voor verschillende soorten afvoeren. 
 
 | soort afvoer  | verdunningsfactor  |
-|:---|:---|
+|---|---|
 | Luchtverversing  | 0,01  |
 | Afvoervoorziening voor rookgas bij gasgestookte toestellen  | 0,01  |
 | Afvoervoorziening voor rookgas bij toestellen met andere brandstoffen  | 0,0015  |
 
-2.  Een instroomopening en een uitmonding van een voorziening voor luchtverversing liggen op een afstand van ten minste 2 m van de perceelsgrens, gemeten loodrecht op de uitwendige scheidingsconstructie van de gebruiksfunctie. Dit geldt niet voor een in een dak gelegen instroomopening of uitmonding. Indien het perceel waarop de gebruiksfunctie ligt, grenst aan een openbare weg, openbaar water of openbaar groen, wordt die afstand aangehouden tot het hart van die weg, dat water of dat groen.   
+3.  Een instroomopening en een uitmonding van een voorziening voor luchtverversing liggen op een afstand van ten minste 2 m van de perceelsgrens, gemeten loodrecht op de uitwendige scheidingsconstructie van de gebruiksfunctie. Dit geldt niet voor een in een dak gelegen instroomopening of uitmonding. Indien het perceel waarop de gebruiksfunctie ligt, grenst aan een openbare weg, openbaar water of openbaar groen, wordt die afstand aangehouden tot het hart van die weg, dat water of dat groen.   
 
 ### Artikel  3.34  
 
@@ -2868,7 +2900,8 @@ De capaciteit van een voorziening voor luchtverversing van een verblijfsgebied o
 
 ####Verbouw
 
-Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de artikelen 3.29 tot en met 3.34 van overeenkomstige toepassing, waarbij in plaats van het in die artikelen aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
+1.  Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de artikelen 3.29 tot en met 3.34 van overeenkomstige toepassing, waarbij in plaats van het in die artikelen aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
+2.  In afwijking van het eerste lid mag bij het installeren van een afvoervoorziening voor rookgas bij toepassing van artikel 3.33, tweede lid, niet worden uitgegaan van het rechtens verkregen niveau.   
 
 ### Artikel  3.36  
 
@@ -2887,29 +2920,29 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.29 tot en met 3.34 
 1.  Een bestaand bouwwerk heeft een zodanige voorziening voor luchtverversing dat het ontstaan van een voor de gezondheid nadelige kwaliteit van de binnenlucht wordt voorkomen.   
 2.  Voor zover voor een gebruiksfunctie in tabel 3.37 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 3.37 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | luchtverversing verblijfsruimte, toiletruimte en badruimte  | luchtverversing overige ruimten  | luchtkwaliteit  | capaciteit  |--- |--- |--- | per persoon  |--- |--- | artikel  |  3.38    |  3.39    |  3.40    | 3.38  |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 5  | 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [dm <sup>3</sup> /s per persoon]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | 1  | –  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | –  |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
-| --- | b  | andere bijeenkomstfunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 2,12  |
-| 3  | Celfunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | --- |
-| --- | --- |  *1 cel*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6,40  |
-| --- | --- |  *2 andere verblijfsruimte*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 3,44  |
-| 4  | Gezondheidszorgfunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
-| 5  | Industriefunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
-| 6  | Kantoorfunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
-| 7  | Logiesfunctie  | –  | 2  | 3  | 4  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 6,40  |
-| 8  | Onderwijsfunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
-| 9  | Sportfunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
-| 10  | Winkelfunctie  | –  | 2  | 3  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 2,12  |
-| 11  | Overige gebruiksfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a.  | voor het stallen van motorvoertuigen  | –  | –  | –  | –  | –  | 6  | 1  | 2  | –  | 4  | –  | –  | 1  | 2  | –  | 4  | 5  | –  |
-| --- | b.  | andere overige gebruiksfunctie  | –  | –  | –  | –  | –  | 6  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a.  | wegtunnel met een tunnellengte van meer dan 250 m  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | –  | 5  | 6  | 1  | –  | 3  | –  | –  | –  |
-| --- | b.  | andere tunnel of tunnelvormig bouwwerk voor verkeer  | –  | –  | –  | –  | –  | –  | 1  | 2  | –  | –  | 5  | –  | 1  | –  | –  | –  | –  | –  |
-| --- | c.  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | –  | –  | –  | 1  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | luchtverversing verblijfsruimte, toiletruimte en badruimte  |--- | luchtverversing overige ruimten  | luchtkwaliteit  | capaciteit  |--- |--- |--- | per persoon  |--- |--- | artikel  |  3.38    |--- |  3.39    |  3.40    |  3.38    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 5  | 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [dm <sup>3</sup> /s per persoon]  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1  | Woonfunctie  | 1  | –  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | –  |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor kinderopvang  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
+| --- | b  | andere bijeenkomstfunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 2,12  |
+| 3  | Celfunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | --- |
+| --- | --- |  *1 cel*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 6,40  |
+| --- | --- |  *2 andere verblijfsruimte*   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 3,44  |
+| 4  | Gezondheidszorgfunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
+| 5  | Industriefunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
+| 6  | Kantoorfunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
+| 7  | Logiesfunctie  | –  | 2  | 3  | 4  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 6,40  |
+| 8  | Onderwijsfunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
+| 9  | Sportfunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 3,44  |
+| 10  | Winkelfunctie  | –  | 2  | 3  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 2,12  |
+| 11  | Overige gebruiksfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor het stallen van motorvoertuigen  | –  | –  | –  | –  | –  | 6  | 7  | 1  | 2  | –  | 4  | –  | –  | 1  | 2  | –  | 4  | 5  | –  |
+| --- | b  | andere overige gebruiksfunctie  | –  | –  | –  | –  | –  | 6  | 7  | 1  | 2  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | –  | –  | 6  | 1  | –  | 3  | –  | –  | –  |
+| --- | b  | andere tunnel of tunnelvormig bouwwerk voor verkeer  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | –  | –  | 5  | –  | 1  | –  | –  | –  | –  | –  |
+| --- | c  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | –  | –  | –  | 1  | –  | –  | –  | –  | –  |
 
 ### Artikel  3.38  
 
@@ -2920,7 +2953,8 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.29 tot en met 3.34 
 3.  Onverminderd het eerste en tweede lid heeft een verblijfsruimte met een opstelplaats voor een kooktoestel als bedoeld in artikel 4.42 of met een opstelplaats voor een open verbrandingstoestel voor warmwater een voorziening voor luchtverversing met een volgens NEN 8087 bepaalde capaciteit van ten minste 21 dm <sup>3</sup> /s. Een opstelplaats voor een kooktoestel of een warmwatertoestel met een nominale belasting van meer dan 15 kW, of voor een warmwatertoestel dat geen open verbrandingstoestel is, blijft hierbij buiten beschouwing.   
 4.  Een voorziening voor luchtverversing voor meer dan een verblijfsruimte heeft een capaciteit die ten minste voldoet aan de hoogste waarde die volgens het eerste tot en met derde lid is bepaald voor een op die voorziening aangewezen verblijfsruimte.   
 5.  Een voorziening voor luchtverversing voor een verblijfsgebied, dat bestaat uit meer dan één gemeenschappelijke verblijfsruimte heeft, in afwijking van het vierde lid, een capaciteit die ten minste voldoet aan de som van de waarden die volgens het eerste tot en met derde lid is bepaald voor de op die voorziening aangewezen verblijfsruimten.   
-6.  Een voorziening voor luchtverversing van een toiletruimte heeft een volgens NEN 8087 bepaalde capaciteit van ten minste 7 dm <sup>3</sup> /s en van een badruimte van ten minste 14 dm <sup>3</sup> /s.   
+6.  Een toiletruimte heeft een voorziening voor luchtverversing met een capaciteit van ten minste 7 dm <sup>3</sup> /s, bepaald volgens NEN 8087.   
+7.  Een badruimte heeft een voorziening voor luchtverversing met een capaciteit van ten minste 14 dm <sup>3</sup> /s, bepaald volgens NEN 8087.   
 
 ### Artikel  3.39  
 
@@ -2960,7 +2994,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.29 tot en met 3.34 
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.41 geen voorschrift is aangewezen.  Tabel 3.41 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | capaciteit  | plaats van de opening  | verbouw  | tijdelijke bouw  |--- |--- | artikel  |  3.42    |  3.43    |  3.44    |  3.45    |--- |--- | lid  | 1  | 2  | 3  | *  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | –  | *  | *  | *  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor kinderopvang  | 1  | 2  | 3  | *  | *  | *  |
@@ -3017,7 +3051,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.42 en 3.43 van toep
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.46 geen voorschrift is aangewezen.  Tabel 3.46 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | capaciteit  |--- |--- | artikel  |  3.47    |--- |--- | lid  | 1  | 2  | 3  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- |
 | --- | a  | voor kinderopvang  | 1  | –  | 3  |
@@ -3049,7 +3083,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.42 en 3.43 van toep
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.48 geen voorschrift is aangewezen.  Tabel 3.48 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | aanwezigheid  | capaciteit  | plaats van de opening  | thermisch comfort  | rookdoorlatendheid  | stromingsrichting  | verbouw  | tijdelijke bouw  |--- |--- | artikel  |  3.49    |  3.50    |  3.51    |  3.52    |  3.53    |  3.54    |  3.55    |  3.56    |--- |--- | lid  | *  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | *  | *  | 1  | 2  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | *  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | *  | *  | 1  | 2  | *  | *  |
 | 2  | Bijeenkomstfunctie  | *  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | *  | *  | 1  | 2  | *  | *  |
 | 3  | Celfunctie  | *  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | *  | *  | 1  | 2  | *  | *  |
@@ -3073,11 +3107,11 @@ Een ruimte met een opstelplaats voor een verbrandingstoestel heeft voorzieningen
 
 ####Capaciteit
 
-1.  Een voorziening voor de toevoer van verbrandingslucht en een voorziening voor de afvoer van rookgas voor een opstelplaats voor een verbrandingstoestel met een nominale belasting van meer dan 130 kW hebben een zodanige capaciteit, dat de verbranding doeltreffend kan plaatsvinden.   
+1.  Een voorziening voor de toevoer van verbrandingslucht voor een opstelplaats voor een verbrandingstoestel met een nominale belasting van meer dan 130 kW heeft een zodanige capaciteit, dat de verbranding doeltreffend kan plaatsvinden.   
 2.  Een voorziening voor de toevoer van verbrandingslucht voor een verbrandingstoestel met een nominale belasting van niet meer dan 130 kW heeft ten minste de volgens tabel 3.50.1 benodigde capaciteit, bepaald volgens NEN 1087.  Tabel 3.50.1 
 
 | verbrandingstoestel  | benodigde capaciteit van de toevoer van verbrandingslucht per kW nominale belasting  |--- | brandstof  | [m <sup>3</sup> /s]  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | gesloten vuur met trekonderbreker  | aardgas/butaan/propaan  | 0,78 . 10 <sup>-3</sup>  |
 | open vuur (blokkenvuurtoestel type II)  | aardgas  | 3,35 . 10 <sup>-3</sup>  |
 | gesloten vuur, met ventilator, zonder trekonderbreker  | aardgas/butaan/propaan  | 0,38 . 10 <sup>-3</sup>  |
@@ -3085,10 +3119,10 @@ Een ruimte met een opstelplaats voor een verbrandingstoestel heeft voorzieningen
 | gesloten vuur  | kolen  | 0,52 . 10 <sup>-3</sup>  |
 | open vuur, vaste brandstof (open haard)  | vaste brandstof  | 2,8 . 10 <sup>-3</sup>  |
 
-3.  Een voorziening voor de afvoer van rookgas voor een opstelplaats voor een verbrandingstoestel met een nominale belasting van niet meer dan 130 kW heeft een volgens NEN 2757 bepaalde capaciteit die niet kleiner is dan de met formule 3.50 bepaalde normaalvolumestroom van het rookgas.  Formule 3.50 
+3.  Een voorziening voor de afvoer van rookgas voor een opstelplaats voor een verbrandingstoestel heeft een volgens NEN 2757 bepaalde capaciteit die niet kleiner is dan de met formule 3.50 bepaalde normaalvolumestroom van het rookgas.  Formule 3.50 
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | q <sub>vn</sub> = B × 0,27 × 10 <sup>-3</sup> x n'  |
 | waarin:  |
 | q <sub>vn</sub>  | is de normaalvolumestroom in m <sup>3</sup> /s;  |
@@ -3098,14 +3132,14 @@ Een ruimte met een opstelplaats voor een verbrandingstoestel heeft voorzieningen
 Tabel 3.50.2 
 
 | verbrandingstoestel  |--- |  *rekenwaarde verdunningsfactor van rookgas (n')*   |--- | afvoer zonder ventilator  | afvoer met ventilator  |--- | brandstof  | [–]  | [–]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | gesloten vuur, zonder ventilator, met trekonderbreker  | aardgas/butaan/propaan  | 3,0  | 5,0  |
 | open vuur, zonder ventilator (blokkenvuurtoestel type II)  | aardgas  | 12,5  | 12,5  |
 | gesloten vuur, zonder ventilator  | olie (HBO I)  | 1,3  | 2,6  |
 | gesloten vuur, zonder ventilator  | kolen, hout  | 2,0  | 4,0  |
 | open vuur, zonder ventilator  | vaste brandstof  | 10,0  | 10,0  |
 
-4.  In afwijking van het derde lid heeft een voorziening voor de afvoer van rookgas voor een opstelplaats voor een open verbrandingstoestel met ventilator en een nominale belasting van niet meer dan 130 kW, een volgens NEN 2757 bepaalde capaciteit die niet kleiner is dan de door de toestelventilator opgewekte volumestroom.   
+4.  In afwijking van het derde lid heeft een voorziening voor de afvoer van rookgas voor een opstelplaats voor een open verbrandingstoestel met ventilator een volgens NEN 2757 bepaalde capaciteit die niet kleiner is dan de door de toestelventilator opgewekte volumestroom.   
 5.  Een combinatie luchttoevoer- verbrandingsgasafvoersysteem heeft een volgens NEN 2757 bepaald positief drukverschil tussen het afvoerkanaal voor rookgas en het toevoerkanaal voor verbrandingslucht.   
 6.  Een combinatie van een voorziening voor de afvoer van rookgas met een voorziening voor de afvoer van binnenlucht heeft een volgens NEN 2757 bepaalde capaciteit die gelijk is aan de hoogste waarde die geldt voor de afzonderlijke voorzieningen.   
 
@@ -3130,7 +3164,7 @@ De toevoer van verbrandingslucht veroorzaakt in de leefzone van een verblijfsgeb
 Het inwendig oppervlak van een afvoervoorziening voor rookgas heeft, ter voorkoming van verspreiding van voor de gezondheid schadelijke bestanddelen uit de rook, een volgens NEN 2757 bepaalde doorlatendheid die niet groter is dan in tabel 3.53 is aangegeven.  Tabel 3.53 
 
 | afvoervoorziening voor rook  | toegestane doorlatendheid  |
-|:---|:---|
+|---|---|
 | Een overdrukvoorziening als bedoeld in NEN 2757  | 0,006 x 10 <sup>-3</sup> m <sup>3</sup> /s per m <sup>2</sup> inwendig oppervlak, gemeten bij een drukverschil van 200 Pa  |
 | Een onderdrukvoorziening als bedoeld in NEN 2757  | 3 x 10 <sup>-3</sup>  m <sup>3</sup> /s per m <sup>2</sup> inwendig oppervlak, gemeten bij een drukverschil van 40 Pa  |
 
@@ -3166,7 +3200,7 @@ Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 3.49 tot en met 3.54 
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.57 geen voorschrift is aangewezen.  Tabel 3.57 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | aanwezigheid  | capaciteit  | rookdoorlatendheid  | stromingsrichting  |--- |--- | artikel  |  3.58    |  3.59    |  3.60    |  3.61    |--- |--- | lid  | *  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 | Alle niet hierboven genoemde gebruiksfuncties  | *  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 1  | 2  |
 
@@ -3195,7 +3229,7 @@ Het inwendig oppervlak van een overdrukvoorziening voor de afvoer van rookgas he
 
 ### Artikel  3.61  
 
-####Stromingsrichting van rookgas
+####Stromingsrichting
 
 1.  De richting van de luchtstroming voor de toevoer van verbrandingslucht gaat vanuit de voorziening voor de toevoer van verbrandingslucht naar een opstelplaats van een verbrandingstoestel. Bij de bepaling van de stromingsrichting blijven bouwwerken en daarmee gelijk te stellen belemmeringen, die op een ander perceel liggen, buiten beschouwing.   
 2.  Rookgas stroomt, bepaald volgens NEN 8757, vanaf de opstelplaats van een verbrandingstoestel naar de uitmonding van de voorziening voor de afvoer van rook. Bij de bepaling van de stromingsrichting blijven bouwwerken en andere daarmee gelijk te stellen belemmeringen op een ander perceel buiten beschouwing.   
@@ -3216,7 +3250,7 @@ Het inwendig oppervlak van een overdrukvoorziening voor de afvoer van rookgas he
 2.  Voor zover voor een gebruiksfunctie in tabel 3.62 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 3.62 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | ministeriële regeling  | verbouw  | tijdelijke bouw  |--- |--- | artikel  |  3.63    |  3.64    |  3.65    |--- |--- | lid  | 1  | 2  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 11  | Overige gebruiksfunctie  | 1  | –  | *  | *  |
 | 12  | Bouwwerk geen gebouw zijnde  | 1  | –  | *  | *  |
 | Alle niet hierboven genoemde gebruiksfuncties  | 1  | 2  | *  | *  |
@@ -3274,7 +3308,7 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven over het in een b
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.68 geen voorschrift is aangewezen.  Tabel 3.68 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | openingen  | scherm  | verbouw  |--- |--- | artikel  |  3.69    |  3.70    |  3.71    |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | 3  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | woonwagen  | 1  | 2  | 3  | –  | –  | –  | –  |
 | --- | b  | andere woonfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | *  |
@@ -3300,10 +3334,10 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven over het in een b
 
 a. een afvoervoorziening voor luchtverversing;  
 
-b. een afvoervoorziening voor rook, en  
+b. een afvoervoorziening voor rookgas, en  
 
-c. een ont- en beluchting van een afvoervoorziening voor huishoudelijk afval.     
-2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) beschermde diersoorten.   
+c. een ont- en beluchting van een afvoervoorziening voor huishoudelijk afvalwater en hemelwater.     
+2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de Flora- en faunawet beschermde diersoorten.   
 3.  Het eerste lid is van overeenkomstige toepassing op een inwendige scheidingsconstructie die de scheiding vormt met een gebruiksfunctie waarop het eerste lid niet van toepassing is.   
 
 ### Artikel  3.70  
@@ -3333,7 +3367,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk i
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.72 geen voorschrift is aangewezen.  Tabel 3.72 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | openingen  |--- |--- | artikel  |  3.73    |--- |--- | lid  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  |
 | 2  | Bijeenkomstfunctie  | 1  | 2  |
 | 3  | Celfunctie  | 1  | 2  |
@@ -3355,10 +3389,10 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk i
 
 a. een voorziening voor luchtverversing;  
 
-b. een afvoervoorziening voor rook, en  
+b. een afvoervoorziening voor rookgas, en  
 
-c. een ont- en beluchting van een afvoervoorziening voor afvalwater.     
-2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) beschermde diersoorten.   
+c. een ont- en beluchting van een afvoervoorziening voor huishoudelijk afvalwater en hemelwater.     
+2.  In afwijking van het eerste lid is een grotere opening toegestaan voor een nest of een vaste rust- of verblijfplaats voor bij of krachtens de Flora- en faunawet beschermde diersoorten.   
 
 ### Afdeling  3.11  
 
@@ -3377,7 +3411,7 @@ c. een ont- en beluchting van een afvoervoorziening voor afvalwater.
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.74 geen voorschrift is aangewezen.  Tabel 3.74 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | daglichtoppervlakte  | verbouw  | daglichtoppervlakte  |--- |--- | artikel  |  3.75    |  3.76    |  3.75    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | *  | 1  | 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [%]  | [m <sup>2</sup> ]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  | –  | –  | –  | –  | –  | *  | 10  | 0,5  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor kinderopvang  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | *  | 5  | 0,5  |
@@ -3431,7 +3465,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk i
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.77 geen voorschrift is aangewezen.  Tabel 3.77 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | daglichtoppervlakte  | daglichtoppervlakte  |--- |--- | artikel  |  3.78    | 3.78  |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m <sup>2</sup> ]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | –  | –  | –  | –  | –  | 8  | 0,5  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | kinderopvang  | 1  | 2  | 3  | 4  | –  | –  | –  | 8  | 0,5  |
@@ -3487,7 +3521,7 @@ c. is de in rekening te brengen belemmeringshoek α, bedoeld in NEN 2057 voor el
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.1 geen voorschrift is aangewezen.  Tabel 4.1 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | afmetingen verblijfsgebied en verblijfsruimte  | verbouw  | afmetingen verblijfsgebied en verblijfsruimte  |--- |--- | artikel  |  4.2    |  4.3    |  4.4    |  4.3    |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 1  | 2  | 6  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m <sup>2</sup> ]  | [m]  | [m]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | woonwagen  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 6  | *  | 5  | 1,8  | 2,2  |
 | --- | b  | andere woonfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 6  | *  | 5  | 1,8  | 2,6  |
@@ -3542,7 +3576,7 @@ Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een 
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.5 geen voorschrift is aangewezen.  Tabel 4.5 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | aanwezigheid  | afmetingen verblijfsgebied en verblijfsruimte  |--- |--- | artikel  |  4.6    |  4.7    |--- |--- | lid  | *  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | *  | 1  | 2  |
 | 2  | Bijeenkomstfunctie  | –  | 1  | –  |
 | 3  | Celfunctie  | –  | 1  | –  |
@@ -3586,14 +3620,15 @@ Een woonfunctie heeft een vloeroppervlakte van ten minste 10 m <sup>2</sup> aan
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.8 geen voorschrift is aangewezen.  Tabel 4.8 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | bereikbaarheid  | afmetingen  | verbouw  | aanwezigheid  | afmetingen  |--- |--- | artikel  |  4.9    |  4.10    |  4.11    |  4.12    |  4.9    |  4.11    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | *  | 1  | 2  | 3  | 4  | *  | 1  | 3  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [n]  | [m]  |
 | --- | a  | voor zorg met een g.o. > 500 m <sup>2</sup>  | 1  | 2  | –  | –  | –  | –  | 1  | 2  | 3  | –  | *  | 1  | 2,3  |
 | --- | b  | woonwagen  | 1  | 2  | –  | –  | –  | –  | 1  | –  | 3  | –  | *  | 1  | 2,1  |
 | --- | c  | andere woonfunctie  | 1  | 2  | –  | –  | –  | –  | 1  | –  | 3  | –  | *  | 1  | 2,3  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang  | 1  | –  | 3  | 4  | –  | –  | 1  | –  | 3  | –  | *  | 2  | 2,3  |
-| --- | b  | andere bijeenkomstfunctie  | 1  | –  | –  | 4  | –  | *  | 1  | 2  | 3  | –  | *  | 2  | 2,3  |
+| --- | a  | voor kinderopvang  | 1  | –  | 3  | 4  | –  | –  | –  | –  | –  | –  | *  | 2  | –  |
+| --- | b  | voor alcoholgebruik  | 1  | –  | –  | 4  | –  | *  | 1  | 2  | 3  | –  | *  | 2  | 2,3  |
+| --- | c  | andere bijeenkomstfunctie  | 1  | –  | –  | 4  | –  | –  | 1  | 2  | 3  | –  | *  | 2  | 2,3  |
 | 3  | Celfunctie  | 1  | –  | 3  | 4  | –  | –  | 1  | 2  | 3  | 4  | *  | 2  | 2,3  |
 | 4  | Gezondheidszorgfunctie  | 1  | –  | 3  | 4  | –  | –  | 1  | 2  | 3  | –  | *  | 2  | 2,3  |
 | 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3629,7 +3664,7 @@ Een toiletruimte is niet rechtstreeks toegankelijk vanuit een verblijfsruimte va
 
 ####Afmetingen
 
-1.  Een toiletruimte als bedoeld in artikel 4.8, heeft een vloeroppervlakte van ten minste 0,9 m x 1,2 m.   
+1.  Een toiletruimte als bedoeld in artikel 4.9, heeft een vloeroppervlakte van ten minste 0,9 m x 1,2 m.   
 2.  In afwijking van het eerste lid heeft een integraal toegankelijke toiletruimte een vloeroppervlakte van ten minste 1,65 m x 2,2 m.   
 3.  Een vloeroppervlakte als bedoeld in het eerste en tweede lid heeft boven die vloer ten minste de in tabel 4.8 aangegeven hoogte.   
 4.  Het eerste lid is niet van toepassing op een toiletruimte in een cel.   
@@ -3653,7 +3688,7 @@ Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een 
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.13 geen voorschrift is gegeven.  Tabel 4.13 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | bereikbaarheid  | afmetingen  | aanwezigheid  |--- |--- | artikel  |  4.14    |  4.15    |  4.16    |  4.14    |--- |--- | lid  | 1  | 2  | 3  | 4  | *  | 1  | 2  | 1  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [n]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | –  | –  | –  | –  | 1  | –  | 1  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor kinderopvang  | 1  | –  | 3  | 4  | –  | 1  | –  | 2  |
@@ -3663,11 +3698,11 @@ Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een 
 | 4  | Gezondheidszorgfunctie  | 1  | –  | 3  | 4  | –  | 1  | –  | 2  |
 | 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | lichte industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  |
-| --- | b  | andere industriefunctie  | 1  | –  | 3  | 4  | –  | 1  | –  | 2  |
+| --- | b  | andere industriefunctie  | 1  | –  | –  | 4  | –  | 1  | –  | 2  |
 | 6  | Kantoorfunctie  | 1  | –  | 3  | 4  | –  | 1  | –  | 2  |
 | 7  | Logiesfunctie  | 1  | 2  | –  | –  | –  | 1  | –  | 1  |
 | 8  | Onderwijsfunctie  | 1  | –  | 3  | 4  | –  | 1  | –  | 2  |
-| 9  | Sportfunctie  | 1  | –  | 3  | 4  | –  | 1  | –  | 2  |
+| 9  | Sportfunctie  | 1  | –  | –  | 4  | –  | 1  | –  | 2  |
 | 10  | Winkelfunctie  | 1  | –  | –  | –  | –  | 1  | –  | 1  |
 | 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  |
 | 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  |
@@ -3707,7 +3742,7 @@ Een toiletruimte is niet rechtstreeks toegankelijk vanuit een verblijfsruimte va
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.17 geen voorschrift is aangewezen.  Tabel 4.17 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | afmetingen  | verbouw  | afmetingen  |--- |--- | artikel  |  4.18    |  4.19    |  4.20    |  4.19    |--- |--- | lid  | *  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 5  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | [m]  |
 | --- | a  | woonwagen  | *  | 1  | 2  | –  | –  | 5  | –  | *  | 2,1  |
 | --- | b  | voor zorg met een g.o. > 500 m <sup>2</sup>  | *  | 1  | 2  | 3  | 4  | 5  | –  | *  | 2,3  |
@@ -3764,7 +3799,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.21 geen voorschrift is aangewezen.  Tabel 4.21 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | vrije doorgang  | vrije doorgang verkeersroute  | aanwezigheid toegankelijkheidssector  | integraal toegankelijke toilet- en badruimte  | bereikbaarheid toegankelijkheidssector  | hoogteverschillen  | afmetingen liftkooi  | verbouw  | vrije doorgang vrije doorgang verkeersroute  | toegankelijkheidssector  | integraal toegankelijke toilet- en badruimte  |--- |--- | artikel  |  4.22    |  4.23    |  4.24    |  4.25    |  4.26    |  4.27    |  4.28    |  4.29    | 4.22 en 4.23  | 4.24  | 4.25  |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 1  | 3  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m]  | [%]  | [n]  |
 | --- | a  | woonwagen  | 1  | 2  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2,1  | –  | –  |
 | --- | b  | voor zorg met een g.o. > 500 m <sup>2</sup>  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | –  | –  | 1  | –  | –  | 4  | 5  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 2,3  | –  | –  |
@@ -3946,7 +3981,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woonfuncti
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.37 geen voorschrift is aangewezen.  Tabel 4.37 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | aanwezigheid  | afmetingen  | verbouw  |--- |--- | artikel  |  4.38    |  4.39    |  4.40    |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  | –  | 1  | 2  | *  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor alcoholgebruik  | –  | 2  | –  | 4  | –  | –  | *  |
@@ -3999,7 +4034,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.41 geen voorschrift is aangewezen.  Tabel 4.41 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | aanwezigheid  | afmetingen  |--- |--- | artikel  |  4.42    |  4.43    |--- |--- | lid  | 1  | 2  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | –  | 1  | 2  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- |
 | --- | a  | voor alcoholgebruik  | –  | 2  | –  | –  |
@@ -4036,28 +4071,29 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Voor zover voor een gebruiksfunctie in tabel 5.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 5.1 geen voorschrift is aangewezen.  Tabel 5.1 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | energiepresatiecoëfficiënt  | thermische isolatie  | luchtvolumestroom  | onverwarmde gebruiksfunctie  | verbouw  | tijdelijk bouwwerk  | energiepresatiecoëfficiënt  | thermische isolatie  |--- |--- | artikel  |  5.2    |  5.3    |  5.4    |  5.5    |  5.6    |  5.7    |  5.2    |  5.3    |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | *  | *  | 1, 2 en 3  | 1, 2 en 3  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [–]  | [m <sup>2</sup>.K/W]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | 1  | –  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 1,3  | 2,5  |
-| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 0,6  | 3,5  |
-| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | *  | *  | 2  | 3,5  |
-| 3  | Celfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een cellengebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 1,8  | 3,5  |
-| --- | b  | andere celfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 1,8  | 3,5  |
-| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | met bedgebied  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 2,6  | 3,5  |
-| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 1  | 3,5  |
-| 5  | Industriefunctie  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | *  | *  | –  | 3,5  |
-| 6  | Kantoorfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 1,1  | 3,5  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 1,8  | 3,5  |
-| --- | b  | andere logiesfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | *  | *  | 1,4  | 3,5  |
-| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | *  | *  | 1,3  | 3,5  |
-| 9  | Sportfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | *  | *  | 1,8  | 3,5  |
-| 10  | Winkelfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | *  | *  | 2,6  | 3,5  |
-| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | energieprestatiecoëfficiënt  | thermische isolatie  | luchtvolumestroom  | onverwarmde gebruiksfunctie  | verbouw  | tijdelijk bouwwerk  | energieprestatiecoëfficiënt  | thermische isolatie  |--- |--- | artikel  | 5.2  | 5.3  | 5.4  | 5.5  | 5.6  | 5.7  | 5.2  | 5.3  |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | 2  | 3  | *  | 1, 2 en 3  | 1, 2 en 3  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [–]  | [m <sup>2</sup>.K/W]  |
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | 1  | –  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | 2  | 3  | *  | 1,3  | 2,5  |
+| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | 2  | 3  | *  | 0,6  | 3,5  |
+| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 2  | 3,5  |
+| 3  | Celfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een cellengebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 3,5  |
+| --- | b  | andere celfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 3,5  |
+| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | met bedgebied  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 2,6  | 3,5  |
+| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 3,5  |
+| 5  | Industriefunctie  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | –  | 3,5  |
+| 6  | Kantoorfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,1  | 3,5  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 3,5  |
+| --- | b  | andere logiesfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,4  | 3,5  |
+| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,3  | 3,5  |
+| 9  | Sportfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,8  | 3,5  |
+| 10  | Winkelfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | *  | 1  | –  | 3  | *  | 2,6  | 3,5  |
+| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  5.2  
 
@@ -4073,8 +4109,8 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 
 1.  Een uitwendige scheidingsconstructie van een verblijfsgebied, een toiletruimte of een badruimte, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
 2.  Een constructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte en een kruipruimte, met inbegrip van de op die constructie aansluitende delen van andere constructies, voor zover die delen van invloed zijn op de warmteweerstand, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
-3.  Een inwendige scheidingsconstructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte, en een functieruimte, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
-4.  Ramen, deuren, kozijnen en daarmee gelijk te stellen constructieonderdelen in een in het eerste tot en met derde lid bedoelde scheidingsconstructie hebben een volgens NEN 1068 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 2,2 W/m <sup>2</sup>.K.   
+3.  Een inwendige scheidingsconstructie die de scheiding vormt tussen een verblijfsgebied, een toiletruimte of een badruimte, en een ruimte die niet wordt verwarmd of die wordt verwarmd voor uitsluitend een ander doel dan het verblijven van personen, heeft een volgens NEN 1068 bepaalde warmteweerstand van ten minste de in tabel 5.1 gegeven waarde.   
+4.  Ramen, deuren, kozijnen en daarmee gelijk te stellen constructieonderdelen in een in het eerste tot en met derde lid bedoelde scheidingsconstructie hebben een volgens NEN 1068 bepaalde warmtedoorgangscoëfficiënt van ten hoogste 1,65 W/m <sup>2</sup>.K.   
 5.  Het eerste tot en met vierde lid zijn niet van toepassing op een oppervlakte aan scheidingsconstructies, waarvan de getalswaarde niet groter is dan 2% van de gebruiksoppervlakte van de gebruiksfunctie.   
 
 ### Artikel  5.4  
@@ -4094,7 +4130,10 @@ Op een gebruiksfunctie die niet bestemd is om te worden verwarmd, of indien de v
 
 ####Verbouw
 
-Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing en de voorschriften van artikel 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij wordt uitgegaan van het rechtens verkregen niveau voor zover dat niveau voor de warmteweerstand niet lager is dan 1,3 m <sup>2•</sup> K/W.  
+1.  Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing en de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij wordt uitgegaan van het rechtens verkregen niveau voor zover dat niveau voor de warmteweerstand niet lager is dan 1,3 m <sup>2•</sup> K/W.   
+2.  In afwijking van het eerste lid zijn op het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk als bedoeld in bijlage II bij het Besluit omgevingsrecht de voorschriften van artikel 5.2 niet van toepassing, en zijn de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
+3.  In afwijking van het eerste lid zijn op een ingrijpende renovatie als bedoeld in artikel 2 van de herziene richtlijn energieprestatie gebouwen de voorschriften van artikel 5.2 niet van toepassing en zijn de voorschriften van de artikelen 5.3, eerste tot en met vierde lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
+4.  Bij ministeriële regeling kunnen voorschriften worden gegeven over de in het derde lid bedoelde ingrijpende renovatie.   
 
 ### Artikel  5.7  
 
@@ -4114,13 +4153,14 @@ Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is
 2.  Voor zover voor een gebruiksfunctie in tabel 5.8 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 5.8 geen voorschrift is aangewezen.  Tabel 5.8 
 
-| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | duurzaam bouwen  |--- |--- | artikel  |  5.9    |--- |--- | lid  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- |
-| --- | a  | woonwagen  | –  | –  |
-| --- | b  | andere woonfunctie  | 1  | –  |
-| 6  | Kantoorfunctie  | –  | 2  |
-| Alle niet hierboven genoemde gebruiksfuncties  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | duurzaam bouwen  | verbouw  |--- |--- | artikel  |  5.9    |  5.10    |--- |--- | lid  | 1  | 2  | 3  | *  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- |
+| 1  | Woonfunctie  | --- | --- | --- | --- |
+| --- | a  | woonwagen  | –  | –  | –  | –  |
+| --- | b  | andere woonfunctie  | 1  | –  | 3  | *  |
+| 6  | Kantoorfunctie  | –  | 2  | 3  | *  |
+| Alle niet hierboven genoemde gebruiksfuncties  | –  | –  | –  | –  |
 
 ### Artikel  5.9  
 
@@ -4129,6 +4169,12 @@ Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is
 1.  Van de samenstelling van constructieonderdelen van een woonfunctie is de uitstoot van broeikasgassen en de uitputting van grondstoffen gekwantificeerd volgens de Bepalingsmethode Milieuprestatie Gebouwen en GWW-werken.   
 2.  Van de samenstelling van constructieonderdelen van een gebouw met uitsluitend kantoorfuncties en nevenfuncties daarvan met een totale gebruiksoppervlakte van meer dan 100 m <sup>2</sup> is de uitstoot van broeikasgassen en de uitputting van grondstoffen gekwantificeerd volgens de Bepalingsmethode Milieuprestatie Gebouwen en GWW-werken.   
 3.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het eerste en tweede lid bepaalde.   
+
+### Artikel  5.10  
+
+####Verbouw
+
+Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk is artikel 5.9 niet van toepassing.  
 
 ### Hoofdstuk  6  
 
@@ -4146,7 +4192,7 @@ Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is
 2.  Voor zover voor een gebruiksfunctie in tabel 6.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 6.1 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | verlichtingssterkte  | noodverlichting  | stroomvoorziening  | verduisterde ruimten  | tijdelijke bouw  |--- |--- | artikel  |  6.2    |  6.3    |  6.4    |  6.5    |  6.6    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | *  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | –  | –  | –  | 4  | –  | –  | –  | –  | –  | 4  | –  | –  | 7  | *  | –  | *  |
 | 2  | Bijeenkomstfunctie  | 1  | –  | –  | 4  | –  | –  | 1  | –  | 3  | 4  | –  | –  | 7  | *  | *  | *  |
 | 3  | Celfunctie  | 1  | –  | –  | 4  | –  | –  | 1  | –  | 3  | –  | 5  | –  | 7  | *  | *  | *  |
@@ -4176,7 +4222,7 @@ Op het bouwen van een tijdelijk bouwwerk dat bestemd is om te worden verwarmd is
 1.  Een verblijfsruimte heeft een verlichtingsinstallatie die een op de vloer gemeten verlichtingssterkte kan geven van ten minste 1 lux.   
 2.  Een onder het meetniveau gelegen functieruimte heeft een verlichtingsinstallatie die een op de vloer gemeten verlichtingssterkte kan geven van ten minste 1 lux.   
 3.  Een overige gebruiksfunctie voor het personenvervoer met een gebruiksoppervlakte van meer dan 50 m <sup>2</sup> heeft in een boven het meetniveau gelegen functieruimte een verlichtingsinstallatie die een op de vloer gemeten verlichtingssterkte kan geven van ten minste 1 lux.   
-4.  Een besloten ruimte waardoor een beschermde vluchtroute voert heeft een verlichtingsinstallatie die een op de vloer en het tredevlak gemeten verlichtingssterkte kan geven van ten minste 1 lux.   
+4.  Een besloten ruimte waardoor een beschermde vluchtroute of beschermde route voert heeft een verlichtingsinstallatie die een op de vloer en het tredevlak gemeten verlichtingssterkte kan geven van ten minste 1 lux.   
 5.  Een wegtunnelbuis heeft een verlichtingsinstallatie die een op de vloer en het tredevlak gemeten verlichtingssterkte kan geven van ten minste 1 lux.   
 6.  Een te bouwen wegtunnelbuis heeft een voorziening die een uit oogpunt van verkeersveiligheid voldoende geleidelijke overgang van daglicht naar kunstlicht waarborgt.   
 
@@ -4262,11 +4308,15 @@ b. de aansluitafstand groter is dan 100 m en de aansluitkosten niet hoger zijn 
 a. de aansluitafstand niet groter is dan 40 m, of  
 
 b. de aansluitafstand groter is dan 40 m en de aansluitkosten niet hoger zijn dan bij een aansluitafstand van 40 m.     
-3.  Een te bouwen bouwwerk met een of meer verblijfsgebieden is aangesloten op het distributienet voor warmte indien: 
+3.  Een te bouwen bouwwerk met een of meer verblijfsgebieden is aangesloten op het in het warmteplan bedoelde distributienet voor warmte indien: 
 
-a. de aansluitafstand niet groter is dan 40 m, of  
+a. het in het warmteplan geplande aantal aansluitingen op dat distributienet op het moment van het indienen van de aanvraag om vergunning voor het bouwen nog niet is bereikt, en  
 
-b. de aansluitafstand groter is dan 40 m en de aansluitkosten niet hoger zijn dan bij een aansluitafstand van 40 m.     
+b. de aansluitafstand: 
+
+i. niet groter is dan 40 m, of  
+
+ii. groter is dan 40 m en de aansluitkosten niet hoger zijn dan bij een aansluitafstand van 40 m.       
 
 ### Afdeling  6.3  
 
@@ -4315,7 +4365,7 @@ b. de aansluitafstand groter is dan 40 m en de aansluitkosten niet hoger zijn d
 2.  Voor zover voor een gebruiksfunctie in tabel 6.15 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 6.15 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | afvoer van huishoudelijk afvalwater  | afvoer van hemelwater  | aansluitleiding en buitenriolering  |--- |--- | artikel  |  6.16    |  6.17    |  6.18    |--- |--- | lid  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
 | 2  | Bijeenkomstfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
 | 3  | Celfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
@@ -4351,11 +4401,11 @@ b. bij een bestaand bouwwerk: een zodanige capaciteit dat elk daarop aangesloten
 
 ### Artikel  6.18  
 
-####Gebouwaansluiting
+####Terreinleiding
 
 1.  Een ondergrondse doorvoer van een afvoervoorziening als bedoeld in de artikelen 6.16 en 6.17 door een uitwendige scheidingconstructie van een bouwwerk ligt zoveel mogelijk haaks op de scheidingsconstructie.   
 2.  De gebouwaansluiting van een afvoervoorziening als bedoeld in de artikelen 6.16 en 6.17 op de op het eigen erf of terrein gelegen riolering of andere voorziening voor afvoer van afvalwater is zodanig dat bij zetting de dichtheid van de aansluiting en de afvoer gehandhaafd blijft.   
-3.  Een gebouwaansluiting waardoor huishoudelijk afvalwater wordt geleid: 
+3.  Een terreinleiding waardoor huishoudelijk afvalwater wordt geleid: 
 
 a. heeft geen vernauwing in de stroomrichting;  
 
@@ -4366,7 +4416,7 @@ c. is waterdicht;
 d. heeft een voldoende inwendige middellijn, en  
 
 e. bevat geen beer- of rottingput.     
-4.  Het materiaal, de sterkte en de vorm van buizen en hulpstukken van een gebouwaansluiting voldoet aan: 
+4.  Het materiaal, de sterkte en de vorm van buizen en hulpstukken van een terreinleiding voldoet aan: 
 
 a. NEN 7002;  
 
@@ -4383,11 +4433,11 @@ f. NEN-EN 295-2, en
 g. NEN-EN 295-3.     
 5.  Op aanwijzing van het bevoegd gezag wordt bepaald: 
 
-a. indien voor de afvoer van huishoudelijk afvalwater een openbaar vuilwaterriool of een systeem als bedoeld in [artikel 10.33, tweede lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aanwezig is waarop aangesloten kan worden: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.16 op dat riool of dat systeem noodzakelijke gebouwaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd;  
+a. indien voor de afvoer van huishoudelijk afvalwater een openbaar vuilwaterriool of een systeem als bedoeld in artikel 10.33, tweede lid, van de Wet milieubeheer aanwezig is waarop aangesloten kan worden: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.16 op dat riool of dat systeem noodzakelijke perceelaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd;  
 
-b. indien voor de afvoer van hemelwater een openbaar hemelwaterstelsel of een openbaar vuilwaterriool aanwezig is waarop aangesloten kan worden en hemelwater op dat stelsel of riool mag worden gebracht: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.17 op dat stelsel of riool noodzakelijke gebouwaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd, en  
+b. indien voor de afvoer van hemelwater een openbaar hemelwaterstelsel of een openbaar vuilwaterriool aanwezig is waarop aangesloten kan worden en hemelwater op dat stelsel of riool mag worden gebracht: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.17 op dat stelsel of riool noodzakelijke perceelaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd, en  
 
-c. of, en zo ja welke voorzieningen in de gebouwaansluiting moeten worden aangebracht om het functioneren van de afvoervoorzieningen, naburige aansluitingen en de openbare voorzieningen voor de inzameling en het transport van afvalwater te waarborgen.     
+c. of, en zo ja welke voorzieningen in de afvoervoorziening of de op het erf of terrein gelegen riolering moeten worden aangebracht om het functioneren van de afvoervoorzieningen, naburige aansluitingen en de openbare voorzieningen voor de inzameling en het transport van afvalwater te waarborgen.     
 
 ### Afdeling  6.5  
 
@@ -4401,7 +4451,7 @@ c. of, en zo ja welke voorzieningen in de gebouwaansluiting moeten worden aangeb
 2.  Voor zover voor een gebruiksfunctie in tabel 6.19 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 6.19 
 
 |--- | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | brandmeldinstallatie  | rookmelders  |--- |--- | Artikel  |  6.20    |  6.21    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 1  | 2  | 3  | 4  | 5  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor zorg  | 1  | 2  | 3  | 4  | –  | 6  | 7  | 8  | –  | 1  | –  | –  | –  | –  |
 | --- | b  | voor kamergewijze verhuur  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2  | 3  | –  | –  |
@@ -4449,8 +4499,8 @@ a. de loopafstand tussen de uitgang van een verblijfsruimte en het punt van waar
 b. de totale vloeroppervlakte van de ruimten waardoor die enkele vluchtroute voert alsmede van de daarop aangewezen verblijfsruimten meer dan 200 m <sup>2</sup> is, of  
 
 c. het aantal aan de enkele vluchtroute gelegen verblijfsruimten meer dan twee is.     
-6.  In de in bijlage I bij dit besluit aangewezen gevallen heeft een bij of krachtens de wet voorgeschreven bestaande brandmeldinstallatie een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandmeldinstallaties.   
-7.  Het onderhoud van een bij of krachtens de wet voorgeschreven bestaande brandmeldinstallatie waarvoor geen certificaat als bedoeld in het zesde lid is vereist, voldoet aan NEN 2654-1.   
+6.  In de in bijlage I bij dit besluit aangewezen gevallen heeft een bij of krachtens de wet voorgeschreven brandmeldinstallatie een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Brandmeldinstallaties.   
+7.  Het onderhoud van een bij of krachtens de wet voorgeschreven brandmeldinstallatie waarvoor geen certificaat als bedoeld in het zesde lid is vereist, voldoet aan NEN 2654-1.   
 8.  Het beheer en de controle van een bij of krachtens de wet voorgeschreven brandmeldinstallatie voldoen aan NEN 2654-1.   
 9.  Het eerste lid, onderdeel b, is niet van toepassing indien boven de in bijlage I bedoelde hoogste vloer niet meer dan 6 opstelplaatsen voor bedden voor kinderen zijn.   
 
@@ -4460,7 +4510,7 @@ c. het aantal aan de enkele vluchtroute gelegen verblijfsruimten meer dan twee i
 
 1.  Bij een te bouwen woonfunctie en bij functiewijziging naar een woonfunctie heeft een besloten ruimte waardoor een vluchtroute voert tussen de uitgang van een verblijfsruimte en de uitgang van de woonfunctie een of meer rookmelders die voldoen aan en zijn geplaatst volgens de primaire inrichtingseisen als bedoeld in NEN 2555. Dit geldt niet voor een woonfunctie met een brandmeldinstallatie als bedoeld in artikel 6.20.   
 2.  Bij een woonfunctie voor kamergewijze verhuur heeft een besloten ruimte waardoor een vluchtroute voert tussen de uitgang van een verblijfsruimte en de uitgang van de woonfunctie een of meer rookmelders die voldoen aan en zijn geplaatst volgens de primaire inrichtingseisen als bedoeld in NEN 2555. Dit geldt niet voor een woonfunctie met een brandmeldinstallatie als bedoeld in artikel 6.20.   
-3.  Een verblijfsruimte heeft een of meer rookmelders die voldoen aan en zijn geplaatst volgens de primaire inrichtingseisen als bedoeld in NEN 2555. Dit geldt niet voor een verblijfsruimte in een wooneenheid indien elke wooneenheid in de woonfunctie in een afzonderlijk subbrandcompartiment ligt met een volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag vanuit dat subbrandcompartiment naar een andere ruimte in het brandcompartiment van ten minste 30 minuten.   
+3.  Een verblijfsruimte heeft een of meer rookmelders die voldoen aan en zijn geplaatst volgens de primaire inrichtingseisen als bedoeld in NEN 2555. Dit geldt niet voor een verblijfsruimte in een wooneenheid indien elke wooneenheid in de woonfunctie in een afzonderlijk beschermd subbrandcompartiment ligt met een volgens NEN 6068 bepaalde weerstand tegen branddoorslag en brandoverslag vanuit dat beschermd subbrandcompartiment naar een andere ruimte in het brandcompartiment van ten minste 30 minuten.   
 4.  Een verblijfsruimte en een besloten ruimte waardoor een vluchtroute voert tussen de uitgang van een verblijfsruimte en de uitgang van het gebouw hebben een of meer rookmelders die voldoen aan de primaire inrichtingseisen als bedoeld in NEN 2555. Dit geldt niet voor een gebruiksfunctie met een brandmeldinstallatie als bedoeld in artikel 6.20.   
 5.  Het vierde lid is niet van toepassing op een bestaande logiesfunctie.   
 
@@ -4476,7 +4526,7 @@ c. het aantal aan de enkele vluchtroute gelegen verblijfsruimten meer dan twee i
 2.  Voor zover voor een gebruiksfunctie in tabel 6.22 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 6.22 
 
 |--- | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | ontruimtingsalarminstallatie en ontruimingsplan  | vluchtorueteaanduidingen  | deuren in vluchtroutes  | zelfsluitende constructieonderdelen  |--- |--- | artikel  |  6.23    |  6.24    |  6.25    |  6.26    |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 1  | 2  | 3  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor zorg met een g.o. > 500 m <sup>2</sup>  | 1  | 2  | 3  | 4  | 5  | 6  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | –  | 7  | 8  | 9  | 10  | 1  | 2  | –  |
 | --- | b  | andere woonfunctie voor zorg  | 1  | 2  | 3  | 4  | 5  | 6  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | –  | –  | –  | –  | 7  | 8  | 9  | –  | 1  | 2  | –  |
@@ -4510,7 +4560,7 @@ c. het aantal aan de enkele vluchtroute gelegen verblijfsruimten meer dan twee i
 
 ####Ontruimingsalarminstallatie en ontruimingsplan
 
-1.  Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in artikel 6.20, eerste, tweede en vijfde lid, heeft een ontruimingsalarminstallatie als bedoeld in NEN 2575 die voldoet aan het in die norm bedoelde, door het bevoegd gezag goedgekeurd programma van eisen.   
+1.  Een gebruiksfunctie met een brandmeldinstallatie als bedoeld in artikel 6.20, eerste, tweede en vijfde lid, heeft een ontruimingsalarminstallatie als bedoeld in NEN 2575.   
 2.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het ontruimingssignaal van de in het eerste lid bedoelde ontruimingsalarminstallatie.   
 3.  Het beheer en de controle van een ontruimingsalarminstallatie als bedoeld in het eerste lid voldoen aan NEN 2654-2.   
 4.  Een ontruimingsalarminstallatie als bedoeld in het eerste lid, die behoort bij een brandmeldinstallatie waarop artikel 6.20, zesde lid, van toepassing is, heeft een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Ontruimingsalarminstallaties.   
@@ -4556,7 +4606,7 @@ b. een lichte druk tegen een op circa 1 m boven de vloer over de volle breedte v
 
 ####Zelfsluitende deuren
 
-1.  Een beweegbaar constructieonderdeel in een inwendige scheidingsconstructie waarvoor een eis aan de weerstand tegen branddoorslag en brandoverslag of weerstand tegen rookdoorgang geldt, is zelfsluitend.   
+1.  Een beweegbaar constructieonderdeel in een inwendige scheidingsconstructie waarvoor een eis aan de weerstand tegen branddoorslag, weerstand tegen branddoorslag en brandoverslag of weerstand tegen rookdoorgang geldt, is zelfsluitend.   
 2.  Het eerste lid geldt niet voor een deur in een niet-gemeenschappelijke doorgang.   
 3.  Het eerste lid geldt niet voor een deur van een cel.   
 
@@ -4572,7 +4622,7 @@ b. een lichte druk tegen een op circa 1 m boven de vloer over de volle breedte v
 2.  Voor zover voor een gebruiksfunctie in tabel 6.27 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 6.27 
 
 | gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | brandslanghaspels  | droge blusleidingen  | bluswatervoorziening  | blustoestellen  | automatische brandblusinstallatie en rookbeheersingssysteem  | aanduiding blusmiddelen  | tijdelijke bouw  | brandslanghaspels  |--- |--- | artikel  |  6.28    |  6.29    |  6.30    |  6.31    |  6.32    |  6.33    |  6.34    | 6.28  |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 1  | 2  | *  | *  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m <sup>2</sup> ]  |
 | --- | a  | voor zorg met een g.o. > 500 m <sup>2</sup>  | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | –  |
 | --- | b  | kamergewijze verhuur  | –  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 1  | 2  | *  | *  | –  |
@@ -4606,7 +4656,7 @@ b. een lichte druk tegen een op circa 1 m boven de vloer over de volle breedte v
 1.  Een te bouwen gebruiksfunctie heeft ten minste een brandslanghaspel.   
 2.  Een te bouwen gebruiksfunctie heeft ten minste een brandslanghaspel indien de gebruiksoppervlakte van de gebruiksfunctie of de totale gebruiksoppervlakte aan gebruiksfuncties van dezelfde soort in het gebouw groter is dan de grenswaarde vermeld in tabel 6.27.   
 3.  De gecorrigeerde loopafstand tussen een brandslanghaspel als bedoeld in het eerste en tweede lid en elk punt van de vloer van een gebruiksfunctie is niet groter dan de lengte van de brandslang, vermeerderd met 5 m. Dit geldt niet voor een niet in een functiegebied gelegen vloer die uitsluitend door niet besloten ruimten kan worden bereikt.   
-4.  Een brandslanghaspel: 
+4.  Een brandslanghaspel als bedoeld in het eerste en tweede lid: 
 
 a. heeft een slang met een lengte van niet meer dan 30 m;  
 
@@ -4622,8 +4672,8 @@ c. ligt niet in een ruimte met een trap waarover een beschermde vluchtroute voer
 2.  Bij ministeriële regeling kan een droge blusleiding in andere gevallen dan in het eerste lid bepaald worden voorgeschreven en kunnen voorschriften ter zake van droge blusleidingen worden gegeven.   
 3.  Een wegtunnelbuis heeft een op een in artikel 6.30 bedoelde bluswatervoorziening aangesloten droge blusleiding met in elke hulppost als bedoeld in afdeling 2.13 een brandslangaansluiting die bij brand een capaciteit van ten minste 120 m <sup>3</sup> /h kan leveren.   
 4.  De loopafstand tussen een brandslangaansluiting van een in het eerste lid bedoelde droge blusleiding en een punt in een op die aansluiting aangewezen gebruiksgebied is niet groter dan 60 m voor nieuwbouw en 110 m voor bestaande bouw.   
-5.  Een droge blusleiding van een te bouwen bouwwerk voldoet aan NEN 1594.   
-6.  De inrichting van een droge blusleiding van een bestaand bouwwerk voldoet aan NEN 1594 voor: 
+5.  Een te installeren droge blusleiding voldoet aan NEN 1594.   
+6.  De inrichting van een bestaande droge blusleiding voldoet aan NEN 1594 voor: 
 
 a. de drukbestendigheid;  
 
@@ -4658,7 +4708,7 @@ e. de aanduiding van de voedingsaansluitingen.
 
 ####Automatische brandblusinstallatie en rookbeheersingssysteem
 
-1.  Een bij of krachtens de wet voorgeschreven bestaande automatische brandblusinstallatie is voorzien van een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Vastopgestelde Brandbeheersings- en Brandblussystemen.   
+1.  Een bij of krachtens de wet voorgeschreven automatische brandblusinstallatie is voorzien van een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Vastopgestelde Brandbeheersings- en Brandblussystemen.   
 2.  Een bij of krachtens de wet voorgeschreven rookbeheersingsinstallatie is voorzien van een geldig inspectiecertificaat dat is afgegeven op grond van het CCV-inspectieschema Rookbeheersingsinstallaties.   
 
 ### Artikel  6.33  
@@ -4671,7 +4721,7 @@ Een voorziening voor het bestrijden van brand als bedoeld in de artikelen 6.28 e
 
 ####Tijdelijke bouw
 
-Op het bouwen van een tijdelijk bouwwerk is artikel 6.28, eerste tot en met derde lid, en artikel 6.29 van toepassing.  
+Op het bouwen van een tijdelijk bouwwerk zijn de artikelen 6.28 en 6.29 van toepassing.  
 
 ### Afdeling  6.8  
 
@@ -4685,7 +4735,7 @@ Op het bouwen van een tijdelijk bouwwerk is artikel 6.28, eerste tot en met derd
 2.  Voor zover voor een gebruiksfunctie in tabel 6.35 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 6.35 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | brandweeringang  | bereikbaarheid bouwwerk voor hulpverleningsdiensten  | opstelplaatsen voor brandweervoertuigen  | brandweerlift  | mobiele radiocommunicatie  |--- |--- | artikel  |  6.36    |  6.37    |  6.38    |  6.39    |  6.40    |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | *  | 1  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | *  | –  | –  |
 | 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | *  | 1  | –  |
 | 3  | Celfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | *  | 1  | –  |
@@ -4733,7 +4783,7 @@ a. een breedte van ten minste 4,5 meter;
 
 b. een verharding over een breedte van ten minste 3,25 meter, die geschikt is voor motorvoertuigen met een massa van ten minste 14.600 kilogram;  
 
-c. een vrije hoogte boven de kruin van de weg van ten minste 4,2 meter, en  
+c. een vrijgehouden hoogte boven de kruin van de weg van ten minste 4,2 meter, en  
 
 d. een doeltreffende afwatering.     
 4.  Een verbindingsweg als bedoeld in het eerste lid is over de in het derde lid voorgeschreven hoogte en breedte vrijgehouden voor voertuigen van de brandweer en andere hulpverleningsdiensten.   
@@ -4894,6 +4944,34 @@ c. kan vanuit ten minste een niet-gemeenschappelijke ruimte van een op die toega
 1.  Indien onderhoud niet veilig kan worden uitgevoerd zonder gebouwgebonden veiligheidsvoorzieningen, heeft een te bouwen gebouw daarvoor voldoende gebouwgebonden veiligheidsvoorzieningen.   
 2.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het eerste lid bepaalde.   
 
+### Afdeling  6.13  
+
+####Technische bouwsystemen
+
+### Artikel  6.54  
+
+####Aansturingsartikel
+
+1.  Technische bouwsystemen in bestaande gebouwen voldoen na verbouw aan eisen ten behoeve van een optimaal energiegebruik.   
+2.  Aan de in het eerste lid gestelde eis wordt voldaan door toepassing van de voorschriften in deze afdeling.   
+
+### Artikel  6.55  
+
+####Verbouw
+
+1.  Bij het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een technisch bouwsysteem, waarbij het systeemrendement wordt beïnvloed, is het rechtens verkregen niveau van toepassing met dien verstande dat het rendement van dat systeem niet lager is dan aangegeven in tabel 6.55 en wat betreft het in die tabel genoemde ventilatiesysteem niet hoger is dan aangegeven in die tabel.   
+2.  Indien een technisch bouwsysteem bestaat uit een combinatie van de in tabel 6.55 opgenomen bouwsystemen is in afwijking van het eerste lid, het systeemrendement van dat systeem niet lager dan het rendement naar rato berekend op basis van de in die tabel opgenomen rendementen van de systemen die deel uitmaken van de combinatie.   
+3.  Bij ministeriële regeling worden voorschriften gegeven over de bepaling van het in het eerste en tweede lid bedoelde systeemrendement.  Tabel 6.55 
+
+| technisch bouwsysteem  | Systeemrendement  |
+|---|---|
+| verwarmingssysteem voor woonfunctie, niet lokaal  | 0,71  |
+| verwarmingssysteem voor overige functies, niet lokaal  | 0,65  |
+| lokaal verwarmingssysteem  | 0,63  |
+| warmtapwatersysteem  | 0,29  |
+| koelsysteem  | 0,75  |
+| ventilatiesysteem met ventilatiecapaciteit > 5000 m <sup>3</sup> /h, uitgedrukt in W/(dm <sup>3</sup> /s)  | 2,50  |
+
 ### Hoofdstuk  7  
 
 ####Voorschriften inzake het gebruik van bouwwerken, open erven en terreinen
@@ -4910,7 +4988,7 @@ c. kan vanuit ten minste een niet-gemeenschappelijke ruimte van een op die toega
 2.  Voor zover voor een gebruiksfunctie in tabel 7.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 7.1 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | verbod op roken en open vuur  | vastzetten zelfsluitend constructieonderdeel  | aankleding  | brandveiligheid inrichtingselementen  | brandgevaarlijke stoffen  | brandbare niet-milieugevaarlijke stoffen  | opslag in stookruimte  | veilig gebruik verbrandingstoestel  | restrisico brandgevaar en ontwikkeling van brand  |--- |--- | artikel  |  7.2    |  7.3    |  7.4    |  7.5    |  7.6    |  7.7    |  7.8    |  7.9    |  7.10    |--- |--- | lid  | 1  | 2  | *  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 1  | 2  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | 1  | –  | *  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 1  | 2  | *  |
 | 2  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | in een logiesgebouw  | 1  | 2  | *  | 1  | 2  | 3  | 4  | –  | 6  | 1  | 2  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 1  | 2  | *  |
@@ -5020,7 +5098,7 @@ f. brandgevaarlijke stoffen voor zover de aanwezigheid daarvan bij of krachtens 
 5.  In afwijking van het derde lid, onderdeel e, is de aanwezigheid van meer dan 1.000 liter van een in dat onderdeel bedoelde oliesoort toegestaan indien de wijze van opslag en gebruik daarvan zodanig is dat het ontstaan van een brandgevaarlijke situatie en de ontwikkeling van brand naar het oordeel van het bevoegd gezag voldoende worden voorkomen.  Tabel 7.6 Brandgevaarlijke stoffen 
 
 | ADR-klasse  | omschrijving  | verpakkingsgroep  | toegestane maximum hoeveelheid <sup>1</sup> in kg of l  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *2*   UN 1950 spuitbussen & UN 2037 houders, klein, gas  | Gassen zoals propaan, zuurstof, acyteleen, aerosolen (spuitbussen)  | n.v.t.  | 50  |
 |  *3*   | brandbare vloeistoffen zoals bepaalde oplosmiddelen en aceton  | II  | 25  |
 |  *3*   excl. dieselolie, gasolie of lichte stookolie met een vlampunt tussen 61°C en 100°C  | brandbare vloeistoffen zoals terpentine en bepaalde inkten  | III  | 50  |
@@ -5028,7 +5106,7 @@ f. brandgevaarlijke stoffen voor zover de aanwezigheid daarvan bij of krachtens 
 |  *5.1*   | brandbevorderende stoffen zoals waterstofperoxide  | II en III  | 50  |
 |  *5.2*   | organische peroxiden zoals dicymyl peroxide en di-propionyl peroxide  | n.v.t.  | 1  |
 
-<sup>1</sup> Eenheid bepaald overeenkomstig [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md).   
+<sup>1</sup> Eenheid bepaald overeenkomstig bijlage I, onder C, bij het Besluit omgevingsrecht.   
 
 ### Artikel  7.7  
 
@@ -5093,7 +5171,7 @@ b. bij brand een gevaarlijke situatie wordt veroorzaakt.
 2.  Voor zover voor een gebruiksfunctie in tabel 7.11 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 7.11 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | deuren in vluchtroutes  | opstelling zitplaatsen en verdere inrichting  | gangpaden  | beperking van gevaar voor letsel  | restrisico veilig vluchten bij brand  |--- |--- | artikel  |  7.12    |  7.13    |  7.14    |  7.15    |  7.16    |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | woonfunctie voor zorg  | 1  | 2  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | *  |
 | --- | b  | andere woonfunctie  | 1  | –  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | *  |
@@ -5186,7 +5264,7 @@ c. het redden van personen of dieren bij brand wordt belemmerd.
 2.  Voor zover voor een gebruiksfunctie in tabel 7.17 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 7.17 
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | overbewoning  | asbestvezels en formaldehyde  | bouwvalligheid  | zindelijke staat  | restrisico  |--- |--- | artikel  |  7.18    |  7.19    |  7.20    |  7.21    |  7.22    |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | *  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | woonwagen  | –  | 2  | 3  | 1  | 2  | *  | *  | *  |
 | --- | b  | andere woonfunctie  | 1  | –  | 3  | 1  | 2  | *  | *  | *  |
@@ -5223,7 +5301,7 @@ Een bouwwerk, open erf en terrein bevindt zich in een zodanig zindelijke staat, 
 
 ####Restrisico gebruik bouwwerken, open erven en terreinen
 
-Onverminderd het bij of krachtens dit besluit of de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bepaalde is het verboden in, op of aan een bouwwerk of op een open erf of terrein voorwerpen of stoffen te plaatsen, te werpen of te hebben, handelingen te verrichten of na te laten of werktuigen te gebruiken, waardoor: 
+Onverminderd het bij of krachtens dit besluit of de Wet milieubeheer bepaalde is het verboden in, op of aan een bouwwerk of op een open erf of terrein voorwerpen of stoffen te plaatsen, te werpen of te hebben, handelingen te verrichten of na te laten of werktuigen te gebruiken, waardoor: 
 
 a. op voor de omgeving hinderlijke of schadelijke wijze rook, roet, walm of stof wordt verspreid;  
 
@@ -5285,18 +5363,19 @@ f. de nadere voorwaarden als bedoeld in artikel 1.29.
 1.  Bouw- of sloopwerkzaamheden die een geluidniveau veroorzaken van ten minste 60 dB(A) op de gevel van een aangrenzende woonfunctie of van een aangrenzende gebruiksfunctie op een ander perceel, worden op werkdagen tussen 7:00 uur en 19:00 uur uitgevoerd. Bij het uitvoeren van die werkzaamheden worden de in tabel 8.4 aangegeven dagwaarden en de bij die dagwaarden aangegeven maximale blootstellingsduur in dagen dat de dagwaarde is bereikt niet overschreden.  Tabel 8.4 
 
 | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | dagwaarde  | ≤ 60 dB(A)  | > 60 dB(A)  | > 65 dB(A)  | > 70 dB(A)  | > 75 – ≤ 80 dB(A)  |
 | maximale blootstellingsduur  | onbeperkt  | 50 dagen  | 30 dagen  | 15 dagen  | 5 dagen  |
 
 2.  Het bevoegd gezag kan ontheffing verlenen van het eerste lid. Indien met een ontheffing van het bevoegd gezag bouw- of sloopwerkzaamheden worden uitgevoerd op werkdagen tussen 19:00 uur en 7:00 uur en op zaterdag, zondag of feestdagen wordt onverkort het gestelde in de ontheffing gebruik gemaakt van de akoestisch bezien best beschikbare stille technieken en meest gunstige werkwijze.   
-3.  De in tabel 8.4 aangegeven waarden gelden op gevels als bedoeld in [artikel 1](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) juncto [artikel 1b, vijfde lid, van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) van woningen en gebouwen die op grond van artikel 1 van de Wet geluidhinder worden aangemerkt als andere geluidsgevoelige gebouwen en op de grens van terreinen die op grond van artikel 1 van de Wet geluidhinder worden aangemerkt als geluidsgevoelige terreinen.   
+3.  Indien het bevoegd gezag met betrekking tot het uitvoeren van bouw- of sloopwerkzaamheden beleidsregels als bedoeld in artikel 4.3 van de Algemene wet bestuursrecht heeft vastgesteld, is in afwijking van het tweede lid geen ontheffing vereist indien het uitvoeren van de werkzaamheden voldoet aan die beleidsregels en het bevoegd gezag ten minste twee werkdagen voor de feitelijke aanvang van die werkzaamheden in kennis is gesteld van de aanvang van de werkzaamheden door degene die de werkzaamheden gaat uitvoeren.   
+4.  De in tabel 8.4 aangegeven waarden gelden op gevels als bedoeld in artikel 1 juncto artikel 1b, vijfde lid, van de Wet geluidhinder van woningen en gebouwen die op grond van artikel 1 van de Wet geluidhinder worden aangemerkt als andere geluidsgevoelige gebouwen en op de grens van terreinen die op grond van artikel 1 van de Wet geluidhinder worden aangemerkt als geluidsgevoelige terreinen.   
 
 ### Artikel  8.5  
 
 ####Trillingshinder
 
-1.  Trillingen veroorzaakt door het uitvoeren van bouw- of sloopwerkzaamheden bedragen in geluidsgevoelige ruimten als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en in verblijfsruimten als bedoeld in [artikel 1.1, onderdeel e, van het Besluit geluidhinder](../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) niet meer dan de trillingsterkte, genoemd in tabel 4 van de Meet- en beoordelingsrichtlijn deel B «Hinder voor personen in gebouwen» 2006.   
+1.  Trillingen veroorzaakt door het uitvoeren van bouw- of sloopwerkzaamheden bedragen in geluidsgevoelige ruimten als bedoeld in artikel 1 van de Wet geluidhinder en in verblijfsruimten als bedoeld in artikel 1.1, onderdeel e, van het Besluit geluidhinder niet meer dan de trillingsterkte, genoemd in tabel 4 van de Meet- en beoordelingsrichtlijn deel B «Hinder voor personen in gebouwen» 2006.   
 2.  Het bevoegd gezag kan ontheffing verlenen van de trillingsterkte, bedoeld in het eerste lid.   
 
 ### Artikel  8.6  
@@ -5336,32 +5415,33 @@ Bij ministeriële regeling kunnen voorschriften worden gegeven over de te scheid
 
 ####Algemeen overgangsrecht
 
-1.  Op een aanvraag om vergunning voor het bouwen, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md), [paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels](../../../../AMvB/besluit/aanvullende/regels/veiligheid/wegtunnels/BWBR0019857/README.md), de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
-2.  Op een aanvraag om vergunning voor brandveilig gebruik, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
-3.  Op een aanvraag om omgevingsvergunning voor het slopen als bedoeld in [artikel 2.2, eerste lid, onder a, van de Wabo](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend. In een dergelijk geval behoeft geen sloopmelding als bedoeld in artikel 1.26 te worden gedaan.   
-4.  Op een gebruiksmelding als bedoeld in [artikel 2.12.1, eerste lid, van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md), gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt behandeld als een gebruiksmelding als bedoeld in artikel 1.18.   
-5.  Op een door de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md) vereiste sloopmelding, gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van de bouwverordening en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt behandeld als een sloopmelding als bedoeld in artikel 1.26.   
+1.  Op een aanvraag om vergunning voor het bouwen, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het Bouwbesluit 2003, het Besluit brandveilig gebruik bouwwerken, paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels, de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
+2.  Op een aanvraag om vergunning voor brandveilig gebruik, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van het Bouwbesluit 2003, het Besluit brandveilig gebruik bouwwerken en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend.   
+3.  Op een aanvraag om omgevingsvergunning voor het slopen als bedoeld in artikel 2.2, eerste lid, onder a, van de Wabo, ingediend voor het tijdstip van inwerkingtreding van dit besluit, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke aanvraag, blijven de voorschriften van de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend. Een dergelijke vergunning wordt aangemerkt als een sloopmelding als bedoeld in artikel 1.26.   
+4.  Op een gebruiksmelding als bedoeld in artikel 2.12.1, eerste lid, van het Besluit brandveilig gebruik bouwwerken, gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van het Bouwbesluit 2003, het Besluit brandveilig gebruik bouwwerken en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt aangemerkt als een gebruiksmelding als bedoeld in artikel 1.18.   
+5.  Op een door de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet vereiste sloopmelding, gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede op enig bezwaar of beroep, ingesteld tegen een beslissing over een dergelijke melding, blijven de voorschriften van de bouwverordening en de daarop berustende bepalingen van toepassing, zoals deze luidden op het tijdstip waarop de melding werd gedaan. Een dergelijke melding wordt aangemerkt als een sloopmelding als bedoeld in artikel 1.26.   
+6.  Op een aanvraag om vergunning voor het bouwen of voor brandveilig gebruik, een gebruiksmelding of een sloopmelding, gedaan voor het tijdstip waarop een wijziging van dit besluit in werking treedt, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag of melding, blijven de voorschriften van dit besluit en de daarop berustende bepalingen van toepassing, die golden op het tijdstip waarop de aanvraag of melding werd gedaan.   
 
 ### Artikel  9.2  
 
 ####Specifiek overgangsrecht
 
 1.  Zolang het aantal personen dat in een bouwwerk of een gedeelte daarvan aanwezig is niet groter is dan het onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit toegestane aantal personen in dat bouwwerk of gedeelte daarvan blijven de artikelen 1.2, eerste lid, voor zover dit betrekking heeft op de bij of krachtens hoofdstuk 2 gestelde eisen, en 6.25, derde lid, buiten toepassing.   
-2.  Zolang de indeling van een bouwwerk of een gedeelte daarvan niet verandert en het aantal personen in dat bouwwerk of gedeelte niet groter is dan het onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit toegestane aantal personen blijft op dat bouwwerk of gedeelte artikel 6.3 buiten toepassing indien dat bouwwerk of dat gedeelte daarvan voldoet aan de [artikelen 2.66](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en [2.67 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.   
+2.  Zolang de indeling van een bouwwerk of een gedeelte daarvan niet verandert en het aantal personen in dat bouwwerk of gedeelte niet groter is dan het onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit toegestane aantal personen blijft op dat bouwwerk of gedeelte artikel 6.3 buiten toepassing indien dat bouwwerk of dat gedeelte daarvan voldoet aan de artikelen 2.66 en 2.67 van het Bouwbesluit 2003 zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.   
 3.  Voor wegtunnels met een tunnellengte van meer dan 250 m die zijn opengesteld voor 29 juni 2006 blijven de voorschriften van dit besluit en de daarop rustende bepalingen tot 1 mei 2014 buiten toepassing.   
-4.  [Afdeling 4.11 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding van dit besluit blijft tot 1 januari 2017 van toepassing tenzij in het op het bouwen van toepassing zijnde bestemmingsplan voorschriften over stallingsruimte voor fietsen zijn opgenomen.   
-5.  Een voor het tijdstip waarop dit besluit in werking treedt afgegeven document als bedoeld in [artikel 2.1.7 van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, geldt voor zover de geldigheidsduur van dit document niet is verstreken als een geldig document zoals bedoeld in artikel 1.17 van dit besluit.   
-6.  Met een geldig certificaat als bedoeld in de artikelen 6.20, zesde lid, respectievelijk 6.32, eerste en tweede lid, wordt gelijkgesteld een voor 1 januari 2015 afgegeven document als bedoeld in de [artikelen 2.2.1, negende lid](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md), [2.3.9](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en [2.5.1 van het Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, voor zover de geldigheidsduur van dit document niet is verstreken.   
-7.  Op een verbindingsweg als bedoeld in artikel 6.37, een opstelplaats voor brandweervoertuigen als bedoeld in artikel 6.38 en een route als bedoeld in artikel 6.49 naar of bij een bouwwerk voor de bouw waarvan voor het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor het bouwen is verleend, blijven de voorschriften van de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md), en de daarop berustende bepalingen van toepassing, zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.   
-8.  Op een op het tijdstip van inwerkingtreding van dit besluit bestaande bijeenkomstfunctie voor kinderopvang blijft [paragraaf 3.10.2 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, tot 1 april 2017 van toepassing.   
-9.  Indien en voor zover in een gemeente onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit op grond van de bouwverordening, bedoeld in [artikel 8, eerste lid, van de wet](../../../../wet/woningwet/BWBR0005181/README.md), en de daarop berustende bepalingen voor een gebied een aansluitplicht op het distributienet voor warmte geldt, dan blijft deze aansluitplicht voor dat gebied van toepassing.   
+4.  Afdeling 4.11 van het Bouwbesluit 2003 zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van de inwerkingtreding van dit besluit blijft tot 1 april 2022 van toepassing tenzij in het op het bouwen van toepassing zijnde bestemmingsplan voorschriften over stallingruimte voor fietsen zijn opgenomen.   
+5.  Een voor het tijdstip waarop dit besluit in werking treedt afgegeven document als bedoeld in artikel 2.1.7 van het Besluit brandveilig gebruik bouwwerken zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, geldt voor zover de geldigheidsduur van dit document niet is verstreken als een geldig document zoals bedoeld in artikel 1.17 van dit besluit.   
+6.  Met een geldig certificaat als bedoeld in de artikelen 6.20, zesde lid, respectievelijk 6.32, eerste en tweede lid, wordt gelijkgesteld een voor 1 januari 2015 afgegeven document als bedoeld in de artikelen 2.2.1, negende lid, 2.3.9 en 2.5.1 van het Besluit brandveilig gebruik bouwwerken zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, voor zover de geldigheidsduur van dit document niet is verstreken.   
+7.  Op een verbindingsweg als bedoeld in artikel 6.37, een opstelplaats voor brandweervoertuigen als bedoeld in artikel 6.38 en een route als bedoeld in artikel 6.49 naar of bij een bouwwerk voor de bouw waarvan voor het tijdstip van inwerkingtreding van dit besluit een omgevingsvergunning voor het bouwen is verleend, blijven de voorschriften van de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet, en de daarop berustende bepalingen van toepassing, zoals deze luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit.   
+8.  Op een op het tijdstip van inwerkingtreding van dit besluit bestaande bijeenkomstfunctie voor kinderopvang blijft paragraaf 3.10.2 van het Bouwbesluit 2003 zoals dit luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit, tot 1 april 2017 van toepassing.   
+9.  Indien en voor zover in een gemeente onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit besluit op grond van de bouwverordening, bedoeld in artikel 8, eerste lid, van de wet, en de daarop berustende bepalingen voor een gebied een aansluitplicht op het distributienet voor warmte geldt, dan blijft deze aansluitplicht voor dat gebied van toepassing.   
 
 ### Artikel  9.3  
 
 ####Intrekking regelgeving
 
-1.  Het [Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) met uitzondering van [afdeling 5.3](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Besluit brandveilig gebruik bouwwerken](../../../../AMvB/gebruiksbesluit/BWBR0024379/README.md) en [paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels](../../../../AMvB/besluit/aanvullende/regels/veiligheid/wegtunnels/BWBR0019857/README.md) worden ingetrokken.   
-2.  [Afdeling 5.3 van het Bouwbesluit 2003](../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) wordt ingetrokken op een bij koninklijk besluit te bepalen tijdstip.   
+1.  Het Bouwbesluit 2003 met uitzondering van afdeling 5.3, het Besluit brandveilig gebruik bouwwerken en paragraaf 2 van het Besluit aanvullende regels veiligheid wegtunnels worden ingetrokken.   
+2.  Afdeling 5.3 van het Bouwbesluit 2003 wordt ingetrokken op een bij koninklijk besluit te bepalen tijdstip.   
 
 ### Artikel  9.4  
 
@@ -5392,8 +5472,8 @@ I. W. Opstelten
 
 ### Bijlage  I  
 
-|--- | Gebruiksoppervlakte  | Hoogste vloer van de gebruiksfunctie gemeten boven het meetniveau  | Omvang van de bewaking, volgens NEN 2535  | Doormelding volgens NEN 2535  | Certificaat als bedoeld in artikel 6.20, zesde lid   |--- | Groter dan [m <sup>2</sup> ]  | Hoger dan [m]  |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|--- |--- |--- |--- | Gebruiksoppervlakte  | Hoogste vloer van de gebruiksfunctie gemeten boven het meetniveau  | Omvang van de bewaking, volgens NEN 2535  | Doormelding volgens NEN 2535  | Inspectiecertificaat als bedoeld in artikel 6.20, zesde lid   | Groter dan [m <sup>2</sup> ]  | Hoger dan [m]  |--- |--- |--- |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- |
 | --- | a  | Woonfunctie voor zorg  | --- | --- | --- | --- | --- |
 | --- | --- | 1  | Zorgclusterwoning voor zorg op afroep, in een woongebouw  | –  | –  | Gedeeltelijk  | –  | –  |
@@ -5433,9 +5513,10 @@ I. W. Opstelten
 | --- | --- | --- | --- | 750  | 1,5  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | 1500  | –  | Niet-automatisch  | –  | –  |
 | 7  | Logiesfunctie  | --- | --- | --- | --- | --- |
-| --- | a  | logiesfunctie niet gelegen in een logiesgebouw  | –  | –  | –  | –  | –  |
-| --- | b  | logiesfunctie gelegen in een logiesgebouw met 24 uurs bewaking  | 250  | –  | Volledig  | –  | ja  |
-| --- | c  | andere logiesfunctie  | –  | 1,5  | Volledig  | ja  | ja  |
+| --- | a  | logiesfunctie niet in een logiesgebouw  | –  | –  | –  | –  | –  |
+| --- | b  | logiesfunctie in een logiesgebouw met 24-uursbewaking  | 250  | –  | Volledig  | –  | ja  |
+| --- | c  | logiesfunctie in een logiesgebouw zonder 24-uursbewaking  | –  | 1,5  | Volledig  | ja  | ja  |
+| --- | --- | --- | 250  | –  | Volledig  | –  | ja  |
 | 8  | Onderwijsfunctie  | –  | 4,1  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | –  | 50  | Gedeeltelijk  | –  | ja  |
 | --- | --- | --- | --- | 250  | 1,5  | Niet-automatisch  | –  | –  |

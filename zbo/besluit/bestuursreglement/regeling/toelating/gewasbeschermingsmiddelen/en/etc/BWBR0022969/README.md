@@ -57,13 +57,13 @@ t. opgebruiktermijn: de door het Ctgb vastgestelde periode waarin het is toegest
 
 u. afleveringstermijn: de door het Ctgb vastgestelde periode waarin het is toegestaan een niet meer voor bepaalde toepassingen te gebruiken of niet meer toegelaten gewasbeschermingsmiddel of biocide in afwijking van [artikel 20](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) op de markt te brengen;  
 
-v. belanghebbende: degene, als bedoeld in [artikel 1:2 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wiens belang rechtstreeks bij een besluit is betrokken.    
+v. belanghebbende: degene, als bedoeld in [artikel 1:2 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wiens belang rechtstreeks bij een besluit is betrokken.   
 
 ### Hoofdstuk  2  
 
 ####De aanvraag tot toelating van een gewasbeschermingsmiddel
 
-### Artikel  2:1  
+### Artikel 2:1 
 
 ####Het in behandeling nemen van de aanvraag
 
@@ -93,7 +93,7 @@ h. een vereiste schriftelijke motivatie om het leveren van gegevens achterwege t
 
 i. de vereiste informatie over het gebruik van kleur en geur als bedoeld in artikel 2:3, lid 9 ontbreekt.     
 8.  Van het in behandeling nemen van de aanvraag wordt de aanvrager door het Ctgb schriftelijk op de hoogte gesteld.   
-9.  Het besluit van het Ctgb om een aanvraag niet in behandeling te nemen wordt schriftelijk, per aangetekende post bekendgemaakt aan de aanvrager.   
+9.  Het besluit van het Ctgb om een aanvraag niet in behandeling te nemen wordt schriftelijk, per aangetekende post bekendgemaakt aan de aanvrager.  
 
 ### Artikel  2:2  
 
@@ -103,7 +103,7 @@ i. de vereiste informatie over het gebruik van kleur en geur als bedoeld in arti
 2.  Het Ctgb stelt de aanvraag buiten behandeling indien de samenvattings- en beoordelingskosten niet binnen de in lid 1, tweede volzin, gestelde termijn zijn voldaan en de aanvrager dit verzuim binnen een door het Ctgb gestelde redelijke termijn niet heeft hersteld. Het besluit om de aanvraag buiten behandeling te stellen wordt aan de aanvrager schriftelijk, per aangetekende post toegezonden, onder opgave van de reden om de aanvraag niet in behandeling te nemen.   
 3.  Het Ctgb neemt uiterlijk 48 weken na de ontvangst van de in lid 1 bedoelde kosten een gemotiveerd besluit op de aanvraag. Indien niet binnen de termijn als bedoeld in de eerste volzin kan worden beslist, deelt het Ctgb dit schriftelijk aan de aanvrager mede en stelt het Ctgb daarbij een zo kort mogelijke redelijke termijn vast waarbinnen op de aanvraag zal worden beslist.   
 4.  De in lid 3 bedoelde termijn voor het nemen van een besluit op de aanvraag vervalt indien het Ctgb binnen 34 weken na ontvangst van de kosten als bedoeld in lid 1 naar aanleiding van de samenvatting en beoordeling vaststelt dat de beoordeling niet kan worden afgerond omdat de beoordeling aanleiding geeft tot het stellen van aanvullende vragen, noodzakelijk om de beoordeling van de aanvraag af te ronden. Het Ctgb kan de termijn van 34 weken verlengen voor een zo kort mogelijke termijn om de beoordeling af te ronden. Het Ctgb deelt de aanvrager de termijn mee. De aanvrager wordt, onder vermelding van de in te dienen gegevens, schriftelijk in de gelegenheid gesteld de aanvullende gegevens binnen een door het Ctgb te stellen termijn in te dienen. Het Ctgb stelt de termijn vast aan de hand van de tijd die benodigd is voor het aanleveren en eventueel de samenvatting en beoordeling van deze gegevens. Binnen 2 weken na de ontvangst van de aanvullende gegevens stelt het Ctgb vast of alle gegevens aanwezig en adequaat zijn om betrokken te worden in de samenvatting en beoordeling van de aanvraag. Het Ctgb neemt het besluit tot het in behandeling nemen van de aanvullende gegevens overeenkomstig artikel het bepaalde in artikel 2:1 lid 5 en lid 6. Het Ctgb beslist op de aanvraag binnen een aan de aanvrager schriftelijk bekent te maken gemotiveerde termijn. Deze termijn is zo kort mogelijk.   
-5.  Op de aanvraag wordt beslist met de voorhanden gegevens als de in lid 4 bedoelde gegevens niet binnen de daarvoor gestelde termijn door het Ctgb zijn ontvangen, mits de aanvrager schriftelijk in de gelegenheid is gestelde het verzuim binnen twee weken te herstellen. Op schriftelijk verzoek van de aanvrager kan het Ctgb een nieuwe termijn vaststellen voor het indienen van de aanvullende gegevens. Een verlenging van de termijn voor het indienen van de aanvullende gegevens wordt aan de aanvrager schriftelijk medegedeeld. Het besluit tot het buiten behandeling stellen van de aanvraag wordt de aanvrager schriftelijk, bij aangetekende post bekendgemaakt.   
+5.  Op de aanvraag wordt beslist met de voorhanden gegevens als de in lid 4 bedoelde gegevens niet binnen de daarvoor gestelde termijn door het Ctgb zijn ontvangen, mits de aanvrager schriftelijk in de gelegenheid is gestelde het verzuim binnen twee weken te herstellen. Op schriftelijk verzoek van de aanvrager kan het Ctgb een nieuwe termijn vaststellen voor het indienen van de aanvullende gegevens. Een verlenging van de termijn voor het indienen van de aanvullende gegevens wordt aan de aanvrager schriftelijk medegedeeld. Het besluit tot het buiten behandeling stellen van de aanvraag wordt de aanvrager schriftelijk, bij aangetekende post bekendgemaakt.  
 
 ### Artikel  2:3  
 
@@ -120,7 +120,7 @@ c. van een voorlopige toelating als bedoeld in [artikel 34 van de wet](../../../
 d. voor zover het Ctgb dit voor de besluitvorming nodig oordeelt bij een besluit tot toelating van een dringend vereist gewasbeschermingsmiddel als bedoeld in [artikel 123 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).     
 2.  Het Ctgb legt het ontwerpbesluit, dat betrekking heeft op een aanvraag als bedoeld in lid 1, onderdelen a tot en met c en de aanvraag als bedoeld in onderdeel d als ingevolge dit onderdeel gelegenheid wordt gegeven tot het indienen van een zienswijze, met de daarop betrekking hebbende motivering, zo spoedig mogelijk na vaststelling voor een periode van 2 weken ter inzage op het Ctgb. Van de ter inzage legging doet het Ctgb tegelijkertijd mededeling in de Staatscourant en aan de aanvrager. Een belanghebbende kunnen gedurende de periode dat het besluit ter inzage ligt bij het Ctgb schriftelijk aangeven dat een zienswijze zal worden ingediend. De zienswijze dient, schriftelijk, binnen 2 weken na afloop van de ter inzage periode, te worden ingediend. Het Ctgb geeft bij het ongebruikt laten van de in de vorige alinea vastgestelde periode voor het aankondigen van een zienswijze zo spoedig mogelijk gevolg aan lid 3 en lid 4. Indien binnen de daarvoor gestelde termijn een zienswijze is ingediend neemt het Ctgb binnen een redelijke termijn een besluit omtrent de aanvraag. De aanvrager wordt de beslistermijn schriftelijk medegedeeld, onder vermelding van de nieuw vastgestelde termijn.   
 3.  Het Ctgb maakt het besluit strekkende tot afwijzing van de aanvraag schriftelijk, per aangetekende post bekend aan de aanvrager.   
-4.  Het Ctgb maakt een besluit strekkende tot toelating bekend in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit. Het besluit strekkende tot toelating wordt schriftelijk, per aangetekende post medegedeeld aan de aanvrager.   
+4.  Het Ctgb maakt een besluit strekkende tot toelating bekend in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit. Het besluit strekkende tot toelating wordt schriftelijk, per aangetekende post medegedeeld aan de aanvrager.  
 
 ### Artikel  2:4  
 
@@ -136,13 +136,13 @@ d. voor zover het Ctgb dit voor de besluitvorming nodig oordeelt bij een besluit
 8.  Intrekken van de aanvraag: De aanvrager kan zonder opgaaf van redenen een aanvraag schriftelijk intrekken tot het moment dat het besluit op aanvraag is medegedeeld en bekendgemaakt als bedoeld in artikel 2:3 lid 3 en artikel 2:3, lid 4. Indien de aanvraag wordt ingetrokken worden de aanvraagkosten niet terugbetaald en de beoordelingskosten kunnen slechts op verzoek terugbetaald worden voor de onderdelen waar nog geen kosten voor zijn gemaakt, zulks ter beoordeling van het Ctgb en tegen finale kwijting.   
 9.  Het gebruik van kleur en geur: De aanvrager voegt bij de aanvraag tot toelating als bedoeld in [artikel 25 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) informatie over kleur- en geurstoffen die aan het gewasbeschermingsmiddel zijn toegevoegd en geeft de redenen aan voor de toevoeging van deze stoffen aan het betreffende gewasbeschermingsmiddelen.   
 10.  Voorschrift kleur en geur: Het Ctgb kan bij de toelating van een gewasbeschermingsmiddel, na overleg met de aanvrager, een voorschrift geven omtrent de kleur of geur in het toe te laten gewasbeschermingsmiddel, indien dit noodzakelijk is in verband met een of meer toelatingsvoorwaarden als bedoeld in [artikel 28 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
-11.  Opvallende kleur: Indien de kleuring van een gewasbeschermingsmiddel wordt voorgeschreven moet de kleur opvallend zijn.   
+11.  Opvallende kleur: Indien de kleuring van een gewasbeschermingsmiddel wordt voorgeschreven moet de kleur opvallend zijn.  
 
 ### Hoofdstuk  3  
 
 ####Bijzondere vormen van aanvragen tot toelating van een gewasbeschermingsmiddel
 
-### Artikel  3:1  
+### Artikel   3:1  
 
 ####Vereenvoudigde uitbreidingstoelating (op aanvraag)
 
@@ -153,7 +153,7 @@ d. voor zover het Ctgb dit voor de besluitvorming nodig oordeelt bij een besluit
 5.  In afwijking van artikel 2:2, lid 3, neemt het Ctgb uiterlijk 21 weken na de ontvangst van de in artikel 2:2, lid 1 bedoelde kosten een gemotiveerd besluit op de aanvraag. Indien niet binnen de termijn als bedoeld in de eerste volzin kan worden beslist, deelt het Ctgb dit schriftelijk aan de aanvrager mede en stelt het Ctgb daarbij een zo kort mogelijke redelijke termijn vast waarbinnen op de aanvraag zal worden beslist.   
 6.  In afwijking van de in artikel 2:2, lid 4 bedoelde termijn voor het nemen van een besluit op de aanvraag wordt de termijn opgeschort indien het Ctgb binnen 16 weken na ontvangst van de kosten als bedoeld in lid 1 naar aanleiding van de samenvatting en beoordeling vaststelt dat de beoordeling niet kan worden afgerond omdat de beoordeling aanleiding geeft tot het stellen van aanvullende vragen, noodzakelijk om de beoordeling van de aanvraag af te ronden. De aanvrager wordt, onder vermelding van de in te dienen gegevens, schriftelijk in de gelegenheid gesteld de aanvullende gegevens binnen een door het Ctgb te stellen termijn in te dienen. Het Ctgb stelt de termijn vast aan de hand van de tijd die benodigd is voor het aanleveren en de samenvatting en beoordeling van deze gegevens.   
 7.  Artikel 2:3, is overeenkomstig van toepassing.   
-8.  Artikel 2:4 is, met uitzondering van lid 1 en lid 2, overeenkomstig van toepassing   
+8.  Artikel 2:4 is, met uitzondering van lid 1 en lid 2, overeenkomstig van toepassing  
 
 ### Artikel  3:2  
 
@@ -162,7 +162,7 @@ d. voor zover het Ctgb dit voor de besluitvorming nodig oordeelt bij een besluit
 1.  Een aanvraag tot verlenging van de toelating van een gewasbeschermingsmiddel als bedoeld in [artikel 39 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt door een aanvrager schriftelijk ingediend bij het Ctgb met het vastgestelde aanvraagformulier dat daartoe door het Ctgb is vastgesteld en aldaar is te verkrijgen. De aanvraag wordt ondertekend en bevat alle gegevens die voor het indienen van deze aanvraag zijn vastgesteld.   
 2.  Artikel 2:1, lid 2 tot en met lid 9, artikel 2:2, artikel 2:3, met uitzondering van lid 1 en lid 2 en artikel 2:4 zijn overeenkomstig van toepassing   
 3.  Een aanvraag tot verlenging van een toelating wordt ten minste 64 weken voor de afloop van die toelating waarop de aanvraag betrekking heeft ingediend.   
-4.  Het Ctgb kan indien niet op de aanvraag tot toelating kan worden beslist voor het vervallen van de toelating van het gewasbeschermingsmiddel waar de aanvraag betrekking op heeft, het vervallen van de toelating opschorten, als bedoeld in [artikel 23, lid 4](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). De reden van het niet op tijd kunnen beslissen op de aanvraag mag op geen enkele wijze veroorzaakt zijn door de aanvrager. Het besluit van het Ctgb tot tijdelijke verlenging van de toelating wordt per aangetekende post aan de toelatinghouder medegedeeld. Van dit besluit wordt mededeling gedaan in de Staatscourant onder vermelding van het registratienummer, de naam van het middel, het toepassingsgebied, de toelatinghouder en de datum van het besluit. De opschorting van het vervallen van een toelating vervalt met het besluit van het Ctgb op de aanvraag en dat besluit op de voorgeschreven wijze is bekendgemaakt.   
+4.  Het Ctgb kan indien niet op de aanvraag tot toelating kan worden beslist voor het vervallen van de toelating van het gewasbeschermingsmiddel waar de aanvraag betrekking op heeft, het vervallen van de toelating opschorten, als bedoeld in [artikel 23, lid 4](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). De reden van het niet op tijd kunnen beslissen op de aanvraag mag op geen enkele wijze veroorzaakt zijn door de aanvrager. Het besluit van het Ctgb tot tijdelijke verlenging van de toelating wordt per aangetekende post aan de toelatinghouder medegedeeld. Van dit besluit wordt mededeling gedaan in de Staatscourant onder vermelding van het registratienummer, de naam van het middel, het toepassingsgebied, de toelatinghouder en de datum van het besluit. De opschorting van het vervallen van een toelating vervalt met het besluit van het Ctgb op de aanvraag en dat besluit op de voorgeschreven wijze is bekendgemaakt.  
 
 ### Artikel  3:3  
 
@@ -178,7 +178,7 @@ b. in afwijking van artikel 2:1, lid 7, het Ctgb de aanvraag niet in behandeling
 
 – de termijn bedoeld in artikel 2:2, lid 3, 6 weken bedraagt;     
 4.  Artikel 2:3 is, met uitzondering van lid 1 en lid 2, overeenkomstig van toepassing.   
-5.  Artikel 2:4 is overeenkomstig van toepassing.   
+5.  Artikel 2:4 is overeenkomstig van toepassing.  
 
 ### Artikel  3:4  
 
@@ -209,7 +209,7 @@ j. opgave van het gewicht of de inhoud van de ingevoerde verpakkingen;
 
 k. opgave van de aard van het oorspronkelijke verpakkingsmateriaal en van het verpakkingsmateriaal waarin wordt omgepakt; en  
 
-l. de naam van de fabrikant van het te importeren gewasbeschermingsmiddel.     
+l.  de naam van de fabrikant van het te importeren gewasbeschermingsmiddel.     
 3.  Artikel 2:1, lid 2 tot en met lid 9, is overeenkomstig van toepassing, met dien verstande dat: 
 
 a. de termijn bedoeld in artikel 2:1, lid 5, eerste volzin, 2 weken bedraagt;  
@@ -230,7 +230,7 @@ c. de toelatinghouder als bedoeld in lid 1, onderdeel d door het Ctgb schrifteli
 
 – indien de invoer een partij betreft die eveneens onder een ander besluit tot toelating op de markt mag worden gebracht, faxt de toelatinghouder tevens het bewijs van de oorspronkelijke identiteit van de partij;  
 
-– de toelatinghouder houdt de ingevoerde partij gedurende 48 uur vanaf het moment van deze kennisgeving voor de Algemene Inspectiedienst ter beschikking in de originele verpakking alvorens de partij om te pakken en van andere etiketten te voorzien, en de toelatinghouder houdt gedurende de volledige geldigheidsduur van de toelating minstens één originele verpakking ter beschikking van de Algemene Inspectiedienst.     
+– de toelatinghouder houdt de ingevoerde partij gedurende 48 uur vanaf het moment van deze kennisgeving voor de Algemene Inspectiedienst ter beschikking in de originele verpakking alvorens de partij om te pakken en van andere etiketten te voorzien, en de toelatinghouder houdt gedurende de volledige geldigheidsduur van de toelating minstens één originele verpakking ter beschikking van de Algemene Inspectiedienst.    
 
 ### Artikel  3:5  
 
@@ -245,21 +245,21 @@ c. de toelatinghouder als bedoeld in lid 1, onderdeel d door het Ctgb schrifteli
 – de termijn bedoeld in artikel 2:2, lid 3, 6 weken bedraagt.     
 4.  In afwijking van artikel 2:2, lid 3, neemt het Ctgb uiterlijk 11 weken na de ontvangst van de in artikel 2:2, lid 1 bedoelde kosten een gemotiveerd besluit op de aanvraag. Indien niet binnen de termijn als bedoeld in de eerste volzin kan worden beslist, deelt het Ctgb dit schriftelijk aan de aanvrager mede en stelt het Ctgb daarbij een zo kort mogelijke redelijke termijn vast waarbinnen op de aanvraag zal worden beslist.   
 5.  In afwijking van artikel 2:2, lid 4 bedoelde termijn voor het nemen van een besluit op de aanvraag wordt opgeschort indien het Ctgb binnen 6 weken na ontvangst van de kosten als bedoeld in lid 1 naar aanleiding van de samenvatting en beoordeling vaststelt dat de beoordeling niet kan worden afgerond omdat de beoordeling aanleiding geeft tot het stellen van aanvullende vragen, noodzakelijk om de beoordeling van de aanvraag af te ronden. De aanvrager wordt, onder vermelding van de in te dienen gegevens, schriftelijk in de gelegenheid gesteld de aanvullende gegevens binnen een door het Ctgb te stellen termijn in te dienen. Het Ctgb stelt de termijn vast aan de hand van de tijd die benodigd is voor het aanleveren en de samenvatting en beoordeling van deze gegevens.   
-6.  Artikel 2:3 en artikel 2:4 zijn overeenkomstig van toepassing.   
+6.  Artikel 2:3 en artikel 2:4 zijn overeenkomstig van toepassing.  
 
 ### Artikel  3:6  
 
 ####Voorlopige toelating
 
 1.  Een aanvraag tot voorlopige toelating als bedoeld in [artikel 34 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt door een aanvrager schriftelijk ingediend bij het Ctgb met het aanvraagformulier dat daartoe door het Ctgb is vastgesteld en aldaar is te verkrijgen, wordt ondertekend en bevat alle gegevens die voor het indienen van een aanvraag door het Ctgb zijn vastgesteld.   
-2.  Artikel 2:1, met uitzondering van lid 1, artikel 2:2, artikel 2:3 en artikel 2:4 zijn overeenkomstig van toepassing.   
+2.  Artikel 2:1, met uitzondering van lid 1, artikel 2:2, artikel 2:3 en artikel 2:4 zijn overeenkomstig van toepassing.  
 
 ### Artikel  3:7  
 
 ####Toelating op aanvraag van Onze Minister
 
 1.  De aanvraag als bedoeld in [artikel 35 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt schriftelijk en gemotiveerd ingediend bij het Ctgb.   
-2.  Artikel 2:1, met uitzondering van lid 1, artikel 2:2, artikel 2:3, met uitzondering van lid 1 en lid 2, en artikel 2:4 zijn overeenkomstig van toepassing.   
+2.  Artikel 2:1, met uitzondering van lid 1, artikel 2:2, artikel 2:3, met uitzondering van lid 1 en lid 2, en artikel 2:4 zijn overeenkomstig van toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -271,7 +271,7 @@ c. de toelatinghouder als bedoeld in lid 1, onderdeel d door het Ctgb schrifteli
 
 1.  De aanvraag tot toelating van een biocide als bedoeld in [artikel 44, lid 1 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt door een aanvrager, schriftelijk ingediend bij het Ctgb met aanvraagformulier dat daartoe is vastgesteld door het Ctgb en dat aldaar is te verkrijgen. De aanvraag wordt ondertekend en bevat alle gegevens die voor het indienen van deze aanvraag door het Ctgb zijn vastgesteld.   
 2.  Artikel 2:1, lid 2 tot en met 9, artikel 2:2, artikel 2:3 en artikel 2:4 zijn overeenkomstig van toepassing.   
-3.  Het Ctgb besluit in afwijking van lid 2 op een aanvraag tot toelating van een biocide die berust op een kaderformulering als bedoeld in [artikel 62 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en die overeenkomstig het bepaalde in artikel 5:7 of artikel 5:8 tot stand is gekomen binnen 60 dagen na de bevestiging van de ontvangst van de aanvraag als bedoeld in artikel 2:1, lid 4.   
+3.  Het Ctgb besluit in afwijking van lid 2 op een aanvraag tot toelating van een biocide die berust op een kaderformulering als bedoeld in [artikel 62 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en die overeenkomstig het bepaalde in artikel 5:7 of artikel 5:8 tot stand is gekomen binnen 60 dagen na de bevestiging van de ontvangst van de aanvraag als bedoeld in artikel 2:1, lid 4.  
 
 ### Hoofdstuk  5  
 
@@ -284,7 +284,7 @@ c. de toelatinghouder als bedoeld in lid 1, onderdeel d door het Ctgb schrifteli
 1.  Een aanvraag tot verlenging van de toelating als bedoeld in [artikel 66 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt door een aanvrager schriftelijk ingediend bij het Ctgb met het aanvraagformulier dat daartoe door het Ctgb is vastgesteld en aldaar is te verkrijgen. De aanvraag wordt ondertekend en bevat alle gegevens die voor het indienen van deze aanvraag door het Ctgb zijn vastgesteld.   
 2.  Artikel 4:1, lid 2 is overeenkomstig van toepassing.   
 3.  Een aanvraag tot verlenging van een toelating wordt ten minste 60 weken voor de afloop van die toelating van de biocide waarop de aanvraag betrekking heeft ingediend.   
-4.  Het Ctgb kan indien niet op de aanvraag tot toelating kan worden beslist voor het vervallen van de toelating van de biocide waar de aanvraag betrekking op heeft, het vervallen van de toelating opschorten, als bedoeld in [artikel 44, lid 4](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). De reden van het niet op tijd kunnen beslissen op de aanvraag mag op geen enkele wijze veroorzaakt zijn door de aanvrager. Het besluit van het Ctgb tot tijdelijke verlenging van de toelating wordt per aangetekende post aan de toelatinghouder medegedeeld. Van dit besluit wordt mededeling gedaan in de Staatscourant onder vermelding van het registratienummer, de naam van het middel, het toepassingsgebied, de toelatinghouder en de datum van het besluit. De opschorting van het vervallen van een toelating vervalt met het besluit van het Ctgb op de aanvraag en dat besluit op de voorgeschreven wijze is bekendgemaakt.   
+4.  Het Ctgb kan indien niet op de aanvraag tot toelating kan worden beslist voor het vervallen van de toelating van de biocide waar de aanvraag betrekking op heeft, het vervallen van de toelating opschorten, als bedoeld in [artikel 44, lid 4](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). De reden van het niet op tijd kunnen beslissen op de aanvraag mag op geen enkele wijze veroorzaakt zijn door de aanvrager. Het besluit van het Ctgb tot tijdelijke verlenging van de toelating wordt per aangetekende post aan de toelatinghouder medegedeeld. Van dit besluit wordt mededeling gedaan in de Staatscourant onder vermelding van het registratienummer, de naam van het middel, het toepassingsgebied, de toelatinghouder en de datum van het besluit. De opschorting van het vervallen van een toelating vervalt met het besluit van het Ctgb op de aanvraag en dat besluit op de voorgeschreven wijze is bekendgemaakt.  
 
 ### Artikel  5:2  
 
@@ -298,7 +298,7 @@ a. de termijn bedoeld in artikel 2:1, lid 5, eerste volzin, 2 weken bedraagt;
 b. in afwijking van artikel 2:1, lid 7, het Ctgb de aanvraag niet in behandeling neemt als het bewijs dat de aanvraagkosten zijn voldaan niet bij de aanvraag is gevoegd of een referentielijst niet bij de aanvraag gevoegd of de aanvraag niet voldoet aan het gestelde in [artikel 52 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).     
 3.  Artikel 2:2 is overeenkomstig van toepassing, met dien verstande dat de termijn bedoeld in artikel 2:2, lid 3, 6 weken bedraagt;   
 4.  Het bepaalde in artikel 2:3 is, met uitzondering van lid 1 en lid 2 overeenkomstig van toepassing.   
-5.  Artikel 2:4, met uitzondering van lid 1 en lid 2, is overeenkomstig van toepassing   
+5.  Artikel 2:4, met uitzondering van lid 1 en lid 2, is overeenkomstig van toepassing  
 
 ### Artikel  5:3  
 
@@ -346,21 +346,21 @@ b. in afwijking van artikel 2:1, lid 7, het Ctgb de aanvraag niet in behandeling
 
 – indien de invoer een partij betreft die eveneens onder een ander besluit tot toelating op de markt mag worden gebracht, faxt de toelatinghouder tevens het bewijs van de oorspronkelijke identiteit van de partij;  
 
-– de toelatinghouder houdt de ingevoerde partij gedurende 48 uur vanaf het moment van deze kennisgeving voor de Algemene Inspectiedienst ter beschikking in de originele verpakking alvorens de partij om te pakken en van andere etiketten te voorzien en de toelatinghouder houdt gedurende de volledige geldigheidsduur van de toelating minstens één originele verpakking ter beschikking van de Algemene Inspectiedienst.     
+– de toelatinghouder houdt de ingevoerde partij gedurende 48 uur vanaf het moment van deze kennisgeving voor de Algemene Inspectiedienst ter beschikking in de originele verpakking alvorens de partij om te pakken en van andere etiketten te voorzien en de toelatinghouder houdt gedurende de volledige geldigheidsduur van de toelating minstens één originele verpakking ter beschikking van de Algemene Inspectiedienst.    
 
 ### Artikel  5:4  
 
 ####Voorlopige toelating
 
 1.  Een aanvraag tot voorlopige toelating als bedoeld in [artikel 54 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt door de aanvrager schriftelijk ingediend bij het Ctgb met het aanvraagformulier dat daartoe door het Ctgb is vastgesteld en aldaar is te verkrijgen. De aanvraag wordt ondertekend en bevat alle gegevens die voor het indienen van deze aanvraag door het Ctgb zijn vastgesteld.   
-2.  Artikel 4:1, lid 2 is overeenkomstig van toepassing.   
+2.  Artikel 4:1, lid 2 is overeenkomstig van toepassing.  
 
 ### Artikel  5:5  
 
 ####Toelating op aanvraag van Onze Minister
 
 1.  Een aanvraag als bedoeld in [artikel 55 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt door schriftelijk en gemotiveerd ingediend bij het Ctgb.   
-2.  Artikel 2:1, met uitzondering van lid 1, artikel 2:2, artikel 2:3, met uitzondering van lid 1 en lid 2, zijn overeenkomstig van toepassing.   
+2.  Artikel 2:1, met uitzondering van lid 1, artikel 2:2, artikel 2:3, met uitzondering van lid 1 en lid 2, zijn overeenkomstig van toepassing.  
 
 ### Artikel  5:6  
 
@@ -372,14 +372,14 @@ b. in afwijking van artikel 2:1, lid 7, het Ctgb de aanvraag niet in behandeling
 4.  Artikel 2:2 is overeenkomstig van toepassing, voor zover hierna niets anders is bepaald. In afwijking van de in artikel 2:2, lid 4 bedoelde termijn voor het nemen van een besluit op de aanvraag wordt opgeschort indien het Ctgb binnen 6 weken na ontvangst van de kosten als bedoeld in lid 1 naar aanleiding van de samenvatting en beoordeling vaststelt dat de beoordeling niet kan worden afgerond omdat de beoordeling aanleiding geeft tot het stellen van aanvullende vragen, noodzakelijk om de beoordeling van de aanvraag af te ronden. De aanvrager wordt, onder vermelding van de in te dienen gegevens, schriftelijk in de gelegenheid gesteld de aanvullende gegevens binnen een door het Ctgb te stellen termijn in te dienen. Het Ctgb stelt de termijn vast aan de hand van de tijd die benodigd is voor het aanleveren en de samenvatting en beoordeling van deze gegevens.   
 5.  Artikel 2:3 met uitzondering van lid en lid 2, en artikel 2:4 zijn overeenkomstig van toepassing.   
 6.  Het Ctgb stelt de aanvrager, Onze Minister en de Commissie van de Europese Gemeenschappen in kennis van een voornemen tot het afwijzen van de aanvraag overeenkomstig het bepaalde in [artikel 56, vierde en vijfde lid, van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
-7.  Indien de in lid 6 genoemde procedure is gevolgd beslist het Ctgb op de aanvraag na de mededeling van Onze Minister als bedoeld in [artikel 56, zesde lid, van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
+7.  Indien de in lid 6 genoemde procedure is gevolgd beslist het Ctgb op de aanvraag na de mededeling van Onze Minister als bedoeld in [artikel 56, zesde lid, van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  
 
 ### Artikel  5:7  
 
 ####De kaderformulering
 
 1.  Een aanvraag voor een kaderformulering als bedoeld in [artikel 62 van wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt door de aanvrager schriftelijk ingediend bij het Ctgb met het aanvraagformulier dat daartoe is vastgesteld en aldaar is te verkrijgen. De aanvraag wordt ondertekend bevat alle gegevens die voor het indienen van deze aanvraag door het Ctgb zijn vastgesteld.   
-2.  Het Ctgb stelt de kaderformulering vast en brengt deze ter kennis van de aanvrager bij de het toelatingsbesluit als bedoeld in [artikel 62 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). De kaderformulering wordt bekendgemaakt in de Staatscourant.   
+2.  Het Ctgb stelt de kaderformulering vast en brengt deze ter kennis van de aanvrager bij de het toelatingsbesluit als bedoeld in [artikel 62 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). De kaderformulering wordt bekendgemaakt in de Staatscourant.  
 
 ### Hoofdstuk  6  
 
@@ -402,7 +402,7 @@ b. de aanvraag niet voldoet aan het gestelde in [artikel 59 van de wet](../../..
 
 c. de aanvraag onvolledig (lid 5) is;     
 7.  Van het in behandeling nemen van de aanvraag wordt de aanvrager door het Ctgb schriftelijk op de hoogte gesteld.   
-8.  Het besluit van het Ctgb om een aanvraag niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.   
+8.  Het besluit van het Ctgb om een aanvraag niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.  
 
 ### Artikel  6:2  
 
@@ -416,7 +416,7 @@ a. de werkzame stof of stoffen in bijlage 1A bij richtlijn 98/8/EG zijn vermeld 
 b. de biocide geen tot bezorgdheid aanleiding gevende stof bevat.     
 3.  De in het eerste lid bedoelde termijn vervalt indien het Ctgb binnen 80 dagen vaststelt dat de beoordeling niet kan worden afgerond omdat de beoordeling aanleiding geeft tot het stellen van aanvullende vragen met betrekking tot de werkzaamheid of etikettering van het middel, noodzakelijk om de beoordeling van de aanvraag af te ronden. De aanvrager wordt schriftelijk, per aangetekende post, in de gelegenheid gesteld de aanvullende gegevens binnen een door het Ctgb te stellen termijn in te dienen, onder vermelding van de verlangde gegevens. Het Ctgb geeft tegelijkertijd aan niet binnen de gestelde termijn als bedoeld in de artikel 6:2. lid 1, te kunnen beslissen en stelt een nieuwe termijn vast waarbinnen een beslissing over de aanvraag wordt genomen. Het Ctgb stelt de een termijn vast aan de hand van de tijd die benodigd is voor het aanleveren en de samenvatting en beoordeling van deze gegevens, zonder onnodige vertraging van het besluitvormingsproces toe te staan.   
 4.  Het Ctgb maakt het besluit strekkende tot afwijzing van de aanvraag schriftelijk, per aangetekende post bekend bij de aanvrager.   
-5.  Het Ctgb deelt het besluit strekkende tot toewijzing van de aanvraag per aangetekende post mee aan de aanvrager. Het Ctgb maakt het besluit bekend in de Staatscourant, onder vermelding van registratienummer, naam middel, de toelatinghouder en de datum van het besluit.   
+5.  Het Ctgb deelt het besluit strekkende tot toewijzing van de aanvraag per aangetekende post mee aan de aanvrager. Het Ctgb maakt het besluit bekend in de Staatscourant, onder vermelding van registratienummer, naam middel, de toelatinghouder en de datum van het besluit.  
 
 ### Hoofdstuk  7  
 
@@ -440,7 +440,7 @@ c. de aanvraag onvolledig (lid 5) is;
 
 d. ten onrechte dierproeven worden uitgevoerd ten behoeve van de in te dienen aanvraag dan wel de inlichtingen inzake dierproeven niet zijn ingewonnen (hoofdstuk 8);     
 6.  Van het in behandeling nemen van de aanvraag wordt de aanvrager door het Ctgb schriftelijk op de hoogte gesteld.   
-7.  Het besluit van het Ctgb om een aanvraag niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.   
+7.  Het besluit van het Ctgb om een aanvraag niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.  
 
 ### Artikel  7:2  
 
@@ -448,7 +448,7 @@ d. ten onrechte dierproeven worden uitgevoerd ten behoeve van de in te dienen aa
 
 1.  Het Ctgb neemt uiterlijk 4 weken na de dagtekening van de mededeling als bedoeld in artikel 7:1, lid 8 een gemotiveerd besluit op de aanvraag.   
 2.  Het Ctgb maakt het besluit tot afwijzing van de aanvraag per aangetekende post bekend bij de aanvrager.   
-3.  Het Ctgb deelt het besluit tot toewijzing van de aanvraag per aangetekende post mee aan de aanvrager. Het Ctgb maakt het besluit bekend in de Staatscourant, onder vermelding van registratienummer, toelatinghouder en de datum van het besluit.   
+3.  Het Ctgb deelt het besluit tot toewijzing van de aanvraag per aangetekende post mee aan de aanvrager. Het Ctgb maakt het besluit bekend in de Staatscourant, onder vermelding van registratienummer, toelatinghouder en de datum van het besluit.  
 
 ### Hoofdstuk  8  
 
@@ -460,7 +460,7 @@ d. ten onrechte dierproeven worden uitgevoerd ten behoeve van de in te dienen aa
 
 1.  Een aanvrager, wiens aanvraag een dierproef bevat, legt bij de aanvraag een kopie over van zijn verzoek om inlichtingen als bedoeld in [artikel 26, lid 1](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) of [artikel 46, lid 1](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en een kopie van de brief van het college inzake inlichtingen als bedoeld in [artikel 26, lid 2](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) of [artikel 46, lid 2 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
 2.  Degene die een dierproef wil uitvoeren ten behoeve van een aanvraag is verplicht hiervan vóór de aanvang van deze studie schriftelijk mededeling te doen aan het Ctgb. De mededeling wordt gedaan met een door het Ctgb vastgesteld formulier, dat aldaar is te verkrijgen.   
-3.  Aan een aanvraag mogen geen dierproefstudies ten grondslag liggen waarvan geen of niet tijdig mededeling is gedaan aan het Ctgb, indien voorafgaand aan het moment waarop het Ctgb met het bestaan van die dierproef bekend werd, een vergelijkbare dierproefstudie is geïnitieerd en aan het Ctgb bekendgemaakt.   
+3.  Aan een aanvraag mogen geen dierproefstudies ten grondslag liggen waarvan geen of niet tijdig mededeling is gedaan aan het Ctgb, indien voorafgaand aan het moment waarop het Ctgb met het bestaan van die dierproef bekend werd, een vergelijkbare dierproefstudie is geïnitieerd en aan het Ctgb bekendgemaakt.  
 
 ### Artikel  8:2  
 
@@ -474,7 +474,7 @@ d. ten onrechte dierproeven worden uitgevoerd ten behoeve van de in te dienen aa
 6.  Indien blijkt dat voor de verzoeker relevante dierproefgegevens nog niet zijn beoordeeld, beoordeelt het Ctgb deze studies zo mogelijk met voorrang, opdat de verzoeker zich een beeld kan vormen van de betekenis en economische waarde die toegang tot de studie voor hem kan hebben.   
 7.  Bij de opgave van voor de verzoeker relevante dierproefgegevens doet het Ctgb tevens opgave van bij het Ctgb aanwezige dierproefgegevens die voor de voorgenomen aanvraag te gebruiken zijn indien een brugstudie wordt geleverd.   
 8.  Aan de data-eigenaar en, indien toepassing is gegeven aan het vierde lid, aan degene die heeft aangegeven dat dierproefstudies worden geïnitieerd worden naam en adres van de verzoeker bekendgemaakt.   
-9.  Indien het Ctgb oordeelt dat de aanvrager aanvullende gegevens als bedoeld in artikel 2:2, lid 4, waaronder dierproefgegevens dient te leveren, geeft het Ctgb bij de opgave van de nog te leveren gegevens tevens aan welke dierproefgegevens zich in het dossier van een reeds eerder toegelaten gewasbeschermingsmiddel resp. van een reeds eerder toegelaten, vergelijkbaar biocide bevinden, voor zover deze informatie niet reeds is verstrekt naar aanleiding van een verzoek om inlichtingen. Het Ctgb deelt tevens mee welke relevante dierproefstudies zijn of worden geïnitieerd. Met uitzondering van het eerste en tweede lid van artikel 8:2 zijn de bepalingen van dit hoofdstuk van toepassing.   
+9.  Indien het Ctgb oordeelt dat de aanvrager aanvullende gegevens als bedoeld in artikel 2:2, lid 4, waaronder dierproefgegevens dient te leveren, geeft het Ctgb bij de opgave van de nog te leveren gegevens tevens aan welke dierproefgegevens zich in het dossier van een reeds eerder toegelaten gewasbeschermingsmiddel resp. van een reeds eerder toegelaten, vergelijkbaar biocide bevinden, voor zover deze informatie niet reeds is verstrekt naar aanleiding van een verzoek om inlichtingen. Het Ctgb deelt tevens mee welke relevante dierproefstudies zijn of worden geïnitieerd. Met uitzondering van het eerste en tweede lid van artikel 8:2 zijn de bepalingen van dit hoofdstuk van toepassing.  
 
 ### Artikel  8:3  
 
@@ -488,13 +488,13 @@ d. ten onrechte dierproeven worden uitgevoerd ten behoeve van de in te dienen aa
 7.  Het Ctgb stelt op basis van het advies van de commissie van deskundigen het bedrag vast waarvoor het verwijsrecht wordt verkregen, conform artikel 8:6 van dit hoofdstuk.   
 8.  Het Ctgb kan op advies van de commissie van deskundigen uitspreken dat de bemiddeling wordt gestaakt wegens gebrek aan medewerking van de zijde van verzoeker.   
 9.  Het Ctgb stelt de te betalen vergoedingen voor het verkrijgen van het verwijsrecht als bedoeld in artikel 8:4 van dit hoofdstuk vast.   
-10.  Alle bedragen die door het Ctgb worden vastgesteld, behalve het voor de bemiddeling verschuldigde tarief, worden binnen een door het Ctgb te bepalen termijn gestort op een daartoe door het Ctgb geopende derdenrekening. Het Ctgb betaalt de ontvangen bedragen uit aan degene die daartoe gerechtigd is, zo nodig onder aftrek van hetgeen deze aan het Ctgb is verschuldigd.   
+10.  Alle bedragen die door het Ctgb worden vastgesteld, behalve het voor de bemiddeling verschuldigde tarief, worden binnen een door het Ctgb te bepalen termijn gestort op een daartoe door het Ctgb geopende derdenrekening. Het Ctgb betaalt de ontvangen bedragen uit aan degene die daartoe gerechtigd is, zo nodig onder aftrek van hetgeen deze aan het Ctgb is verschuldigd.  
 
 ### Artikel  8:4  
 
 ####Verkrijging van het verwijsrecht
 
-Nadat de aanvrager het bedrag, bedoeld in artikel 8:3, lid 7, aan het Ctgb heeft voldaan, heeft de aanvrager verwijsrecht verkregen naar de desbetreffende dierproefgegevens.  
+Nadat de aanvrager het bedrag, bedoeld in artikel 8:3, lid 7, aan het Ctgb heeft voldaan, heeft de aanvrager verwijsrecht verkregen naar de desbetreffende dierproefgegevens. 
 
 ### Artikel  8:5  
 
@@ -503,7 +503,7 @@ Nadat de aanvrager het bedrag, bedoeld in artikel 8:3, lid 7, aan het Ctgb heeft
 1.  Het Ctgb stelt een commissie van deskundigen in.   
 2.  De commissie adviseert het Ctgb over de vaststelling van het bedrag dat de aanvrager dient te voldoen aan de data-eigenaar ter verkrijging van verwijsrecht naar diens desbetreffende dierproefgegevens.   
 3.  De commissie bestaat uit 3 leden.   
-4.  Het Ctgb stelt op voordracht van de commissie een reglement vast omtrent de wijze waarop de commissie haar taak zal uitvoeren.   
+4.  Het Ctgb stelt op voordracht van de commissie een reglement vast omtrent de wijze waarop de commissie haar taak zal uitvoeren.  
 
 ### Artikel  8:6  
 
@@ -519,14 +519,14 @@ a. verwervingskosten van de dierproefstudie:
 
 b. de resterende termijn van dataprotectie als bedoeld in [artikel 27](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [47 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
 
-c. het marktaandeel van elk der partijen;  
+c. het marktaandeel van elk der partijen;   
 
-d. de gebruiksmogelijkheid voor elk der partijen van de data voor meerdere aanvragen tot toelating van een middel;  
+d. de gebruiksmogelijkheid voor elk der partijen van de data voor meerdere aanvragen tot toelating van een middel;   
 
-e. de waarde voor de aanvrager zowel in het geval van een waardedaling als een stijging daarvan;  
+e. de waarde voor de aanvrager zowel in het geval van een waardedaling als een stijging daarvan;   
 
 f. door de data-eigenaar reeds verkregen vergoedingen voor de dierproefstudie.     
-2.  Bij de bepaling van de nominale kostprijs van een dierproef wordt geen rekening gehouden met inflatie en rentederving.   
+2.  Bij de bepaling van de nominale kostprijs van een dierproef wordt geen rekening gehouden met inflatie en rentederving.  
 
 ### Artikel  8:7  
 
@@ -540,14 +540,14 @@ b. op deze kosten en vergoedingen betrekking hebbende betalingsbewijzen, dan wel
 
 c. een naar waarheid ingevulde verklaring omtrent het bestaan van overeenkomsten met derden, waarvan het gebruik van de dierproefstudie door die derden deel uitmaakt (vergoeding in natura).   Deze bescheiden worden aan het Ctgb verschaft binnen 8 weken na het daartoe strekkende verzoek.   
 2.  Verzoeker en data-eigenaar leggen overige naar het oordeel van de commissie van deskundigen voor de vaststelling noodzakelijke gegevens over binnen een door de commissie gestelde redelijke termijn.   
-3.  De commissie kan op een gemotiveerd verzoek van één der partijen de termijn, genoemd in het eerste of tweede lid, éénmaal verlengen.   
+3.  De commissie kan op een gemotiveerd verzoek van één der partijen de termijn, genoemd in het eerste of tweede lid, éénmaal verlengen.  
 
 ### Artikel  8:8  
 
 ####In gebreke blijven van data-eigenaar
 
 1.  Indien de commissie vaststelt dat de data-eigenaar voorafgaand aan de bemiddeling niet aan zijn wettelijke inspanningsverplichting heeft voldaan, bepaalt het Ctgb dat deze het door de verzoeker verschuldigde tarief voor de bemiddeling geheel of gedeeltelijk dient te vergoeden.   
-2.  Indien de commissie vaststelt dat de data-eigenaar de bescheiden, bedoeld in artikel 8:7, lid 1 niet binnen de gestelde termijn heeft overgelegd, bepaalt het Ctgb dat degene die om de bemiddeling heeft verzocht in zijn aanvraag kan volstaan met een verwijzing naar de betrokken gegevens.   
+2.  Indien de commissie vaststelt dat de data-eigenaar de bescheiden, bedoeld in artikel 8:7, lid 1 niet binnen de gestelde termijn heeft overgelegd, bepaalt het Ctgb dat degene die om de bemiddeling heeft verzocht in zijn aanvraag kan volstaan met een verwijzing naar de betrokken gegevens.  
 
 ### Artikel  8:9  
 
@@ -555,7 +555,7 @@ c. een naar waarheid ingevulde verklaring omtrent het bestaan van overeenkomsten
 
 1.  Indien de commissie vaststelt dat de verzoeker om bemiddeling de bescheiden, bedoeld in artikel 8:7 van dit hoofdstuk niet binnen de gestelde termijn heeft overgelegd en de bemiddeling deswege niet kan worden afgerond, dient de verzoeker de kosten die de data-eigenaar voor de bemiddeling heeft moeten maken, geheel of gedeeltelijk te vergoeden.   
 2.  Indien de verzoeker geen verwijsrecht tot de dierproefgegevens koopt nadat de bemiddeling van het Ctgb is afgerond, dient de verzoeker de kosten die de data-eigenaar voor de bemiddeling heeft moeten maken, geheel of gedeeltelijk te vergoeden.   
-3.  Het Ctgb stelt op verzoek van de data-eigenaar het bedrag van de vergoeding als bedoeld in lid 1 of lid 2 vast en de termijn waarbinnen deze aan de data-eigenaar dient te zijn voldaan.   
+3.  Het Ctgb stelt op verzoek van de data-eigenaar het bedrag van de vergoeding als bedoeld in lid 1 of lid 2 vast en de termijn waarbinnen deze aan de data-eigenaar dient te zijn voldaan.  
 
 ### Hoofdstuk  9  
 
@@ -577,7 +577,7 @@ a. de aanvraagkosten niet zijn voldaan, dan wel een bewijs als bedoeld in lid 2 
 b. het verzoek niet voldoet aan het gestelde in [artikel 41](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) of [68 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
 
 c. het verzoek overeenkomstig het bepaalde in lid 5 onvolledig is.     
-5.  Het besluit van het Ctgb om een verzoek niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.   
+5.  Het besluit van het Ctgb om een verzoek niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.  
 
 ### §  2  
 
@@ -587,7 +587,7 @@ c. het verzoek overeenkomstig het bepaalde in lid 5 onvolledig is.
 
 1.  Het Ctgb neemt binnen 4 weken een besluit op het verzoek op basis van de beschikbaar gestelde gegevens.   
 2.  Het Ctgb maakt het besluit tot afwijzing van het verzoek per aangetekende post bekend bij de aanvrager.   
-3.  Het Ctgb maakt het besluit tot intrekking of wijziging bekend in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit. De verzoeker wordt het besluit schriftelijk medegedeeld.   
+3.  Het Ctgb maakt het besluit tot intrekking of wijziging bekend in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit. De verzoeker wordt het besluit schriftelijk medegedeeld.  
 
 ### §  3  
 
@@ -608,7 +608,7 @@ b. het verzoek niet voldoet aan het gestelde in [artikel 41](../../../../../../.
 
 c. het verzoek overeenkomstig het bepaalde in lid 6 onvolledig is.     
 7.  Van het in behandeling nemen van het verzoek wordt per aangetekende post mededeling gedaan aan de verzoeker. Het Ctgb informeert de natuurlijke of rechtspersoon ten name van wie de toelating van een gewasbeschermingsmiddel of biocide waarop het verzoek in lid 1 betrekking heeft, is opgenomen in het register als bedoeld in [artikel 42, lid 2 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
-8.  Het besluit van het Ctgb om een verzoek niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.   
+8.  Het besluit van het Ctgb om een verzoek niet in behandeling te nemen wordt per aangetekende post bekendgemaakt aan de aanvrager.  
 
 ### §  4  
 
@@ -630,7 +630,7 @@ c. op welke wijze dit kan gebeuren.
 6.  De aanvrager en belanghebbenden worden in de gelegenheid gesteld binnen 2 weken schriftelijk te reageren op de ingediende zienswijze.   
 7.  Het Ctgb neemt bij het ongebruikt verstrijken van de in lid 2 geboden mogelijkheid om een zienswijze in te dienen binnen 8 weken of na ontvangst van een zienswijze als bedoeld in lid 2 binnen 16 weken een besluit op het verzoek op basis van de beschikbaar gestelde gegevens.   
 8.  Het Ctgb maakt het besluit tot afwijzing van het verzoek per aangetekende post bekend bij de aanvrager en deelt deze mee aan belanghebbenden die een zienswijze hebben ingediend.   
-9.  Het Ctgb maakt het besluit tot intrekking of wijziging bekend in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit. De verzoeker en de belanghebbende die een zienswijze heeft ingediend wordt het besluit schriftelijk medegedeeld.   
+9.  Het Ctgb maakt het besluit tot intrekking of wijziging bekend in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit. De verzoeker en de belanghebbende die een zienswijze heeft ingediend wordt het besluit schriftelijk medegedeeld.  
 
 ### Hoofdstuk  10  
 
@@ -652,7 +652,7 @@ c. op welke wijze dit kan gebeuren.
 6.  De aanvrager en belanghebbenden worden in de gelegenheid gesteld binnen 2 weken schriftelijk te reageren op de ingediende zienswijze.   
 7.  Het Ctgb neemt bij het ongebruikt verstrijken van de in lid 2 en 4 geboden mogelijkheid om een zienswijze in te dienen binnen 8 weken of na ontvangst van de zienswijze als bedoeld in lid 2 binnen 16 weken een besluit omtrent het ambtshalve intrekken of wijzigen op basis van de beschikbare gegevens en de uitgevoerde beoordeling.   
 8.  Het Ctgb maakt het besluit omtrent de aanvraag per aangetekende post bekend bij de aanvrager.   
-9.  Het Ctgb maakt het besluit omtrent het verzoek in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit.   
+9.  Het Ctgb maakt het besluit omtrent het verzoek in de Staatscourant, onder vermelding van registratienummer, naam van het middel, toepassingsgebied, toelatinghouder en de datum van het besluit.  
 
 ### Hoofdstuk  11  
 
@@ -662,11 +662,11 @@ PM
 
 ### Hoofdstuk  12  
 
-####Aanvragen tot toelating van gewasbeschermingsmiddelen met bestaande werkzame stoffen die zijn of worden onderzocht voor opneming in een bijlage bij de gewasbeschermingsmiddelenrichtlijn
+####Aanvragen tot toelating van gewasbeschermingsmiddelen met bestaande werkzame stoffen die zijn of worden onderzocht voor opneming in een bijlage bij de gewasbeschermingsmiddelenrichtlijn 
 
 ### Artikel  12:1  
 
-Een aanvraag als bedoeld in [artikelen 121](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [123](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [124](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [125 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) tot toelating van een gewasbeschermingsmiddel met bestaande werkzame stoffen die worden onderzocht voor opneming in een bijlage bij de gewasbeschermingsmiddelenrichtlijn, wordt afgehandeld overeenkomstig het bepaalde in Hoofdstuk 2 en 3.  
+Een aanvraag als bedoeld in [artikelen 121](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [123](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [124](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [125 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) tot toelating van een gewasbeschermingsmiddel met bestaande werkzame stoffen die worden onderzocht voor opneming in een bijlage bij de gewasbeschermingsmiddelenrichtlijn, wordt afgehandeld overeenkomstig het bepaalde in Hoofdstuk 2 en 3. 
 
 ### Hoofdstuk  13  
 
@@ -674,21 +674,21 @@ Een aanvraag als bedoeld in [artikelen 121](../../../../../../../../../wet/wet/g
 
 ### Artikel  13:1  
 
-Een aanvraag als bedoeld in [artikelen 121](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [123](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [124](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [125 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) tot toelating van een biocide met bestaande werkzame stoffen die worden onderzocht voor opneming in een bijlage bij de biociderichtlijn, wordt afgehandeld overeenkomstig het bepaalde Hoofdstuk 4 en 5.  
+Een aanvraag als bedoeld in [artikelen 121](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [123](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [124](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [125 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) tot toelating van een biocide met bestaande werkzame stoffen die worden onderzocht voor opneming in een bijlage bij de biociderichtlijn, wordt afgehandeld overeenkomstig het bepaalde Hoofdstuk 4 en 5. 
 
 ### Artikel  13:2  
 
-Aanvragen inzake vereenvoudigde uitbreidingstoelating van een biocide, als bedoeld in [artikel 126 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), worden afgehandeld overeenkomstig artikel 3:1 van dit besluit.  
+Aanvragen inzake vereenvoudigde uitbreidingstoelating van een biocide, als bedoeld in [artikel 126 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), worden afgehandeld overeenkomstig artikel 3:1 van dit besluit. 
 
 ### Hoofdstuk  14  
 
-####Besluiten na een communautaire maatregel op grond van de gewasbeschermingsmiddelenrichtlijn
+####Besluiten na een communautaire maatregel op grond van de gewasbeschermingsmiddelenrichtlijn 
 
 ### Artikel  14:1  
 
 ####Besluiten na een communautaire maatregel tot niet opneming
 
-1.  Indien het Ctgb ten gevolge van een communautaire maatregel als bedoeld in [artikel 127 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) voornemens is een besluit te nemen tot wijziging of intrekking van een toelating als bedoeld in [artikel 121 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) stelt het een ontwerp van het besluit op en doet daarvan minimaal 8 weken voordat uitvoering moet zijn gegeven aan de communautaire maatregel mededeling aan de toelatinghouder. De toelatinghouder kan binnen 2 weken na dagtekening van de mededeling een zienswijze indienen. Het Ctgb beslist zo spoedig mogelijk na ontvangst van de zienswijze doch uiterlijk op de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel.   
+1.  Indien het Ctgb ten gevolge van een communautaire maatregel als bedoeld in [artikel 127 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) voornemens is een besluit te nemen tot wijziging of intrekking van een toelating als bedoeld in [artikel 121 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) stelt het een ontwerp van het besluit op en doet daarvan minimaal 8 weken voordat uitvoering moet zijn gegeven aan de communautaire maatregel mededeling aan de toelatinghouder. De toelatinghouder kan binnen 2 weken na dagtekening van de mededeling een zienswijze indienen. Het Ctgb beslist zo spoedig mogelijk na ontvangst van de zienswijze doch uiterlijk op de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel.  
 
 ### Artikel  14:2  
 
@@ -698,7 +698,7 @@ Aanvragen inzake vereenvoudigde uitbreidingstoelating van een biocide, als bedoe
 2.  Binnen 8 weken na plaatsing van de communautaire maatregel in het Publicatieblad van de Europese Unie deelt het Ctgb de toelatinghouder van een middel met een werkzame stof waarop de communautaire maatregel betrekking heeft schriftelijk mee dat de werkzame stof is opgenomen in Bijlage 1 van de gewasbeschermingsmiddelenrichtlijn en geeft de gevolgen aan van de opneming en verzoekt de in de mededeling genoemde gegevens benodigd voor de beoordeling als bedoeld in lid 1 te leveren.   
 3.  Indien de gegevens niet vóór de in lid 2 genoemde termijn zijn ingediend besluit het Ctgb dat de werkzame stof in het toegelaten middel niet in overeenstemming is met de bij communautaire maatregel vastgestelde voorwaarden en trekt de toelating van het betreffende middel overeenkomstig het bepaalde in [artikel 41 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) in. Het besluit wordt de toelatinghouder per aangetekende post bekendgemaakt.   
 4.  Het Ctgb maakt het besluit omtrent de compliance check per aangetekende post bekend aan de toelatinghouder. Indien de werkzame stof in het toegelaten gewasbeschermingsmiddel niet overeenstemt met de vastgestelde voorwaarden in de communautaire maatregel besluit het Ctgb tot intrekking van de toelating en stelt een afleverings- en opgebruiktermijn van maximaal 12 maanden vast.   
-5.  Indien de werkzame stof in het toegelaten gewasbeschermingsmiddel overeenstemt met de vastgestelde voorwaarden in de communautaire maatregel dient de toelatinghouder 24 maanden vóór de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel een aanvraag als bedoeld in artikel 2:1, lid 1 (herregistratie) in. De aanvragen worden overeenkomstig hoofdstuk 2 afgehandeld. Indien de aanvraag niet binnen de in de eerste volzin genoemde termijn is ingediend, wordt de aanvraag buiten behandeling gesteld.   
+5.  Indien de werkzame stof in het toegelaten gewasbeschermingsmiddel overeenstemt met de vastgestelde voorwaarden in de communautaire maatregel dient de toelatinghouder 24 maanden vóór de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel een aanvraag als bedoeld in artikel 2:1, lid 1 (herregistratie) in. De aanvragen worden overeenkomstig hoofdstuk 2 afgehandeld. Indien de aanvraag niet binnen de in de eerste volzin genoemde termijn is ingediend, wordt de aanvraag buiten behandeling gesteld.  
 
 ### Hoofdstuk  15  
 
@@ -708,7 +708,7 @@ Aanvragen inzake vereenvoudigde uitbreidingstoelating van een biocide, als bedoe
 
 ####Besluiten na een communautaire maatregel tot niet opneming
 
-Indien het Ctgb ten gevolge van een communautaire maatregel als bedoeld in [artikel 127 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) voornemens is een besluit te nemen tot wijziging of intrekking van een toelating als bedoeld in [artikel 121 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) stelt het een ontwerp van het besluit op en doet daarvan minimaal 8 weken voordat uitvoering met zijn gegeven aan de communautaire maatregel mededeling aan de toelatinghouder. De toelatinghouder kan binnen 2 weken na ontvangst van de mededeling een zienswijze indienen. Het Ctgb beslist zo spoedig na ontvangst van de zienswijze doch uiterlijk op de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel. Bij intrekking van de lopende toelating kan geen opgebruik- en afleveringstermijn worden gegeven die doorloopt tot na de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel  
+Indien het Ctgb ten gevolge van een communautaire maatregel als bedoeld in [artikel 127 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) voornemens is een besluit te nemen tot wijziging of intrekking van een toelating als bedoeld in [artikel 121 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) stelt het een ontwerp van het besluit op en doet daarvan minimaal 8 weken voordat uitvoering met zijn gegeven aan de communautaire maatregel mededeling aan de toelatinghouder. De toelatinghouder kan binnen 2 weken na ontvangst van de mededeling een zienswijze indienen. Het Ctgb beslist zo spoedig na ontvangst van de zienswijze doch uiterlijk op de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel. Bij intrekking van de lopende toelating kan geen opgebruik- en afleveringstermijn worden gegeven die doorloopt tot na de datum dat uitvoering moet zijn gegeven aan de communautaire maatregel 
 
 ### Artikel  15:2  
 
@@ -737,7 +737,7 @@ h. de lidstaten waar het biocide is toegelaten (inclusief handels naam van het b
 i. als het dossier dat is ingediend voor de aanvraag een letter of access bevat moet worden verklaard dat deze verklaring ook geldt voor het land waar de mededeling is gedaan;  
 
 j. de verklaring van de toelatinghouder dat hij begrijpt dat als niet aan de voorwaarden wordt voldaan de toelating van het betrokken biocide komt te vervallen.     
-4.  Binnen 6 maanden na het ongebruikt laten van de in lid 1 genoemde periode om een aanvraag of mededeling in te dienen trekt het Ctgb de toelating van het betreffende biocide in.   
+4.  Binnen 6 maanden na het ongebruikt laten van de in lid 1 genoemde periode om een aanvraag of mededeling in te dienen trekt het Ctgb de toelating van het betreffende biocide in.  
 
 ### Hoofdstuk  16  
 
@@ -748,7 +748,7 @@ j. de verklaring van de toelatinghouder dat hij begrijpt dat als niet aan de voo
 1.  Een beoordelingsmethode als bedoeld in [artikel 8](../../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) of [artikel 12 van het besluit](../../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) of een richtsnoer als bedoeld in [artikel 2.4](../../../../../../../../../ministeriele-regeling/regeling/gewasbeschermingsmiddelen/en/biociden/BWBR0022545/README.md) of [artikel 3.4 van de regeling](../../../../../../../../../ministeriele-regeling/regeling/gewasbeschermingsmiddelen/en/biociden/BWBR0022545/README.md) die is gewijzigd en zonder overgangstermijn is vastgesteld wordt niet toegepast bij een aanvraag die in behandeling is genomen op grond van artikel 2:1.   
 2.  Een beoordelingsmethode als bedoeld in lid 1 die is gewijzigd na indiening van een aanvraag die nog niet in behandeling is genomen als bedoeld in artikel 2:1, lid 1 is op deze aanvraag niet van toepassing indien een dossiervereiste wijzigt, de wijziging van de beoordelings- en berekeningsmethode leidt tot een nieuw dossiervereiste of een wijziging betreft die ook overigens tot zwaardere lasten bij de aanvrager aanleiding geven.   
 3.  Het Ctgb stelt een overgangstermijn vast die in een redelijke verhouding staat tot de duur van de uit te voeren werkzaamheden om het betreffende onderzoek te kunnen uitvoeren en het dossier te kunnen aanpassen.   
-4.  Aanvragen die worden ingediend binnen de overgangstermijn bedoeld in lid 3 gaan vergezeld van een dossier dat voldoende gegevens bevat om de gewijzigde beoordelingsmethode toe te passen tenzij een aanvulling van het dossier naar het oordeel van het Ctgb onevenredig is met het daarmee te dienen belang   
+4.  Aanvragen die worden ingediend binnen de overgangstermijn bedoeld in lid 3 gaan vergezeld van een dossier dat voldoende gegevens bevat om de gewijzigde beoordelingsmethode toe te passen tenzij een aanvulling van het dossier naar het oordeel van het Ctgb onevenredig is met het daarmee te dienen belang  
 
 ### Hoofdstuk  17  
 
@@ -767,37 +767,37 @@ c. dat de lengte van de termijn mede afhangt van de mate waarin de wijziging of 
 
 d. de risico’s voor mens, milieu en dier, waaronder zowel de risico’s bij het voortduren van het gebruik van het gewasbeschermingsmiddel of biocide als de schade die het gevolg is van de vernietiging van voorraden  
 
-e. de economische belangen.     
+e. de economische belangen.    
 
 ### Artikel  17:2  
 
-Geen afleverings- en/of opgebruiktermijn wordt vastgesteld indien de volksgezondheid of de veiligheid voor de toepasser in het geding zijn.  
+Geen afleverings- en/of opgebruiktermijn wordt vastgesteld indien de volksgezondheid of de veiligheid voor de toepasser in het geding zijn. 
 
 ### Artikel  17:3  
 
-Indien het Ctgb een toelating intrekt dan wel het toepassingsgebied wijzigt ter uitvoering van een communautaire maatregel wordt een afleverings- en/of opgebruiktermijn vastgesteld aan de hand van de bepalingen daarover in de betreffende communautaire maatregel.  
+Indien het Ctgb een toelating intrekt dan wel het toepassingsgebied wijzigt ter uitvoering van een communautaire maatregel wordt een afleverings- en/of opgebruiktermijn vastgesteld aan de hand van de bepalingen daarover in de betreffende communautaire maatregel. 
 
 ### Artikel  17:4  
 
-Indien een toelating wordt ingetrokken of gewijzigd, worden de toelatingen van afgeleide toelatingen als bedoeld in [artikel 32](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [artikel 52 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en parallelle toelatingen als bedoeld in [artikel 33](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [artikel 53 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) ambtshalve ingetrokken dan wel gewijzigd indien er aanwijzingen bestaan dat ook deze toelatingen niet meer voldoen aan de toelatingsvoorwaarden. Het Ctgb stelt een afleverings- en/of opgebruiktermijn voor de afgeleide toelating of parallelle toelating vast die gelijk is aan de afleverings- en opgebruiktermijn die het Ctgb vaststelt voor de ingetrokken toelating.  
+Indien een toelating wordt ingetrokken of gewijzigd, worden de toelatingen van afgeleide toelatingen als bedoeld in [artikel 32](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [artikel 52 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en parallelle toelatingen als bedoeld in [artikel 33](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) en [artikel 53 van de wet](../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) ambtshalve ingetrokken dan wel gewijzigd indien er aanwijzingen bestaan dat ook deze toelatingen niet meer voldoen aan de toelatingsvoorwaarden. Het Ctgb stelt een afleverings- en/of opgebruiktermijn voor de afgeleide toelating of parallelle toelating vast die gelijk is aan de afleverings- en opgebruiktermijn die het Ctgb vaststelt voor de ingetrokken toelating. 
 
 ### Hoofdstuk  18  
 
-####Overgangs- en slotbepalingen
+####Overgangs- en slotbepalingen 
 
 ### Artikel  18:1  
 
 ####Inwerkingtreding
 
 1.  De artikelen in dit besluit treden in werking op een bij het Ctgb te bepalen tijdstip na goedkeuring door de Minister van Landbouw, Natuurbeheer en Voedselkwaliteit en de Minister van Volkshuisvesting, Ruimtelijke ordening en Milieubeheer, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  De inwerkingtreding van dit besluit of onderdelen daarvan maakt het Ctgb bekend in de Staatscourant.   
+2.  De inwerkingtreding van dit besluit of onderdelen daarvan maakt het Ctgb bekend in de Staatscourant.  
 
 ### Artikel  18:2  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit bestuursreglement regeling toelating gewasbeschermingsmiddelen en biociden Ctgb 2007.  
+Dit besluit wordt aangehaald als: Besluit bestuursreglement regeling toelating gewasbeschermingsmiddelen en biociden Ctgb 2007. 
 
 Het College voor de toelating van gewasbeschermingsmiddelen en biociden, voor deze: de 
 Voorzitter, 
-D.K.J.Tommel   
+D.K.J. Tommel     

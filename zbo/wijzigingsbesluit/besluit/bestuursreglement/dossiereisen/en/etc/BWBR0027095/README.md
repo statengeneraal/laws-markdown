@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wijzigingsbesluit Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008
+## Wijzigingsbesluit Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008
 
 Het College voor de toelating van gewasbeschermingsmiddelen en biociden,  
 In vergadering bijeen op 22 juli 2009 (C-207.9),
@@ -14,10 +14,10 @@ Besluit de volgende regeling te treffen:
 
 ### Artikel  I  
 
-A.   Wijzigt het Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008.    
-B.  
+A. Wijzigt het Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008. 
+B. 
 
-I. De volgende formulieren en toelichtingen worden ingetrokken: 
+I.De volgende formulieren en toelichtingen worden ingetrokken:
 
 (i) Aanvraagformulier VU, alsmede de toelichting daarop  
 
@@ -29,18 +29,18 @@ I. De volgende formulieren en toelichtingen worden ingetrokken:
 
 (v) Aanvraagformulier Vg  
 
-(vi) Toelichting op de formulieren ‘Verzoek om inlichtingen’ Va en Vg.    
+(vi) Toelichting op de formulieren ‘Verzoek om inlichtingen’ Va en Vg.  
 
-II.  Wijzigt het Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008.      
-C.   Wijzigt het Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008.    
+II.Wijzigt het Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008.
+C. Wijzigt het Besluit bestuursreglement dossiereisen en aanvraagformulieren Ctgb 2008.
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 Wageningen 
 7 januari 2010   
 
 Het College voor de toelating van gewasbeschermingsmiddelen en biociden, 
 voorzitter, 
-D. K. J.Tommel   
+D. K. J. Tommel     
