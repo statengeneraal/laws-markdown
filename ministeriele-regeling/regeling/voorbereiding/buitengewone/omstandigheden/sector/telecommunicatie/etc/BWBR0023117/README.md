@@ -12,7 +12,7 @@ a. wet: [Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet
 
 b. Minister: Minister van Economische Zaken;  
 
-c. aanbieder: een op grond van [artikel 14.6, tweede lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) aangewezen aanbieder van een openbaar telecommunicatienetwerk, van een openbare telecommunicatiedienst of van een huurlijn.    
+c. aanbieder: een op grond van [artikel 14.6, tweede lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) aangewezen aanbieder van een openbaar telecommunicatienetwerk, van een openbare telecommunicatiedienst.   
 
 ### Artikel  2  
 
@@ -28,34 +28,34 @@ a. het beschikbaar hebben van ter zake kundige personen die:
 
 b. het beschikken over een voorziening waarbij ingeval van congestie in zijn openbaar telecommunicatienetwerk door de Minister aan te wijzen nummers gebruik kunnen blijven maken van zijn openbaar telecommunicatienetwerk;  
 
-c. zorgdragen voor een doeltreffende beveiliging van de door de Minister aan te wijzen vitale bedrijfsonderdelen of objecten.    
+c. zorgdragen voor een doeltreffende beveiliging van de door de Minister aan te wijzen vitale bedrijfsonderdelen of objecten.   
 
 ### Artikel  3  
 
-Een aanbieder is verplicht de in [artikel 14.6, eerste lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde voorbereiding en de daarover te verstrekken informatie te beveiligen tegen kennisneming door onbevoegden, alsmede geheimhouding te betrachten met betrekking tot deze voorbereiding en de te verstrekken informatie.  
+Een aanbieder is verplicht de in [artikel 14.6, eerste lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde voorbereiding en de daarover te verstrekken informatie te beveiligen tegen kennisneming door onbevoegden, alsmede geheimhouding te betrachten met betrekking tot deze voorbereiding en de te verstrekken informatie. 
 
 ### Artikel  4  
 
 1.  Een aanbieder verstrekt de Minister jaarlijks voor 1 april een rapportage over de in [artikel 14.6, eerste lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde voorbereiding in het afgelopen kalenderjaar.   
 2.  De rapportage, bedoeld in het eerste lid, omvat in ieder geval een beschrijving van de wijze waarop een aanbieder de in [artikel 14.6, eerste lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) bedoelde maatregelen en voorzieningen in zijn organisatie heeft geïmplementeerd, in het bijzonder waar het gaat om de continuïteitsplanning en het crisismanagement.   
 3.  Onverminderd het eerste en tweede lid verstrekt een aanbieder de Minister gedurende het kalenderjaar op diens verzoek informatie over de voorbereiding, bedoeld in [artikel 14.6, eerste lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
-4.  De informatie, bedoeld in het derde lid, wordt door een aanbieder verstrekt op een door de Minister aan te geven wijze.   
+4.  De informatie, bedoeld in het derde lid, wordt door een aanbieder verstrekt op een door de Minister aan te geven wijze.  
 
 ### Artikel  5  
 
-De kosten van de uitvoering, bedoeld in [artikel 14.6, derde lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) komen ten laste van een aanbieder tenzij de Minister in bijzondere gevallen anders bepaalt.  
+De kosten van de uitvoering, bedoeld in [artikel 14.6, derde lid, van de wet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) komen ten laste van een aanbieder tenzij de Minister in bijzondere gevallen anders bepaalt. 
 
 ### Artikel  6  
 
-De [Regeling voorbereiding buitengewone omstandigheden Telecommunicatiewet](../../../../../../../../../ministeriele-regeling/regeling/voorbereiding/buitengewone/omstandigheden/telecommunicatiewet/BWBR0010454/README.md) wordt ingetrokken.  
+De [Regeling voorbereiding buitengewone omstandigheden Telecommunicatiewet](../../../../../../../../../ministeriele-regeling/regeling/voorbereiding/buitengewone/omstandigheden/telecommunicatiewet/BWBR0010454/README.md) wordt ingetrokken. 
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007.  
+Deze regeling wordt aangehaald als: Regeling voorbereiding buitengewone omstandigheden sector telecommunicatie 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -63,4 +63,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+F. Heemskerk     
