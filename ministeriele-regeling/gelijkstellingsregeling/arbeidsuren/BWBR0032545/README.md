@@ -3,14 +3,14 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 december 2012, nr. IVV 51458, tot het gelijkstellen met arbeidsuren, de wijze waarop gelijkstelling geschiedt, het buiten beschouwing laten van arbeidsuren, het meerdere keren in aanmerking nemen van kalenderweken en beëindiging van uitkeringsrechten (Gelijkstellingsregeling arbeidsuren)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de artikelen 1a, tweede lid, [17a, vierde lid](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [20, vijfde lid van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), en artikel 1a, tweede lid van de Wet werk en inkomen naar arbeidsvermogen;
+Gelet op de [artikelen 1a, tweede lid](../../../../wet/werkloosheidswet/BWBR0004045/README.md), [17a, vierde lid](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [20, vijfde lid van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), en [artikel 1a, tweede lid van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md);
 Besluit:    
 
 ### Artikel  1  
 
 ####Gelijkstellingen
 
-Met een arbeidsuur als bedoeld in artikel 1a van de Werkloosheidswet en artikel 1a van de Wet werk en inkomen naar arbeidsvermogen wordt gelijkgesteld een uur, gedurende een dienstbetrekking of daaruit voortvloeiend, waarover de werknemer geen inkomen uit arbeid heeft ontvangen, maar: 
+Met een arbeidsuur als bedoeld in [artikel 1a van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 1a van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) wordt gelijkgesteld een uur, gedurende een dienstbetrekking of daaruit voortvloeiend, waarover de werknemer geen inkomen uit arbeid heeft ontvangen, maar: 
 
 a. als gevolg van vakantie-, snipper-, of compensatieverlofdagen, hij een schadeloosstelling wegens loonderving of vakantiebonnen heeft ontvangen of hij daarmee overeenkomende aanspraken heeft ontvangen of verkregen;  
 
@@ -28,7 +28,7 @@ g. dit het gevolg is van ziekte of arbeidsongeschiktheid;
 
 h. dit het gevolg is van een verplichte bedrijfssluiting en waarvoor de werknemer geen loon of inkomsten wegens loonderving dan wel vakantiebonnen of daarmee overeenkomende aanspraken heeft ontvangen of verkregen;  
 
-i. waarover hij een uitkering heeft ontvangen op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).    
+i. waarover hij een uitkering heeft ontvangen op grond van [hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg](../../../../wet/wet/arbeid/en/zorg/BWBR0013008/README.md).   
 
 ### Artikel  2  
 
@@ -40,7 +40,7 @@ a. indien de dienstbetrekking is geëindigd door ontbinding als datum waarop de 
 
 b. indien de dienstbetrekking is geëindigd met wederzijds goedvinden als datum waarop de dienstbetrekking geacht wordt te zijn opgezegd de datum geldt waarop de beëindiging schriftelijk is overeengekomen, dan wel, bij gebrek aan een schriftelijke beëindigingsovereenkomst, de laatste dag van de dienstbetrekking.     
 2.  Het aantal uren dat met arbeidsuren wordt gelijkgesteld, wordt vastgesteld door het bedrag dat wordt toegerekend aan de periode onmiddellijk volgend op de laatste dag van de dienstbetrekking te delen door het voor de werknemer laatstelijk geldende uurloon dan wel indien de werknemer niet tegen een overeengekomen uurloon werkzaam was, te delen door een door UWV vast te stellen bedrag per uur dat daarvoor redelijkerwijs in aanmerking komt. Het berekende aantal uren wordt toegerekend aan dezelfde periode als waaraan het bedrag in de eerste volzin wordt toegerekend.   
-3.  Het eerste lid vindt geen toepassing indien de werkgever na het einde van de dienstbetrekking in een toestand verkeert als bedoeld in [artikel 61 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en voor zover de werknemer als gevolg van die toestand het in het eerste lid bedoelde inkomsten niet ontvangt.   
+3.  Het eerste lid vindt geen toepassing indien de werkgever na het einde van de dienstbetrekking in een toestand verkeert als bedoeld in [artikel 61 van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) en voor zover de werknemer als gevolg van die toestand het in het eerste lid bedoelde inkomsten niet ontvangt.  
 
 ### Artikel  3  
 
@@ -51,7 +51,7 @@ b. indien de dienstbetrekking is geëindigd met wederzijds goedvinden als datum 
 a. het aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in artikel 1, onderdeel i, en hij een vast aantal arbeidsuren had; of  
 
 b. het gemiddeld aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in het artikel 1, onderdeel i, en hij geen aantal vaste arbeidsuren had.     
-2.  Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in artikel 1, onderdeel i, niet werkzaam was.   
+2.  Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in artikel 1, onderdeel i, niet werkzaam was.  
 
 ### Artikel  4  
 
@@ -65,13 +65,13 @@ b. arbeidsuren buiten beschouwing laten; of
 
 c. zowel uren waarop de werknemer geen arbeidsuren had, gelijkstellen met arbeidsuren als arbeidsuren beschouwing laten.     
 2.  Voor de toepassing van het eerste lid wordt de arbeidsduurverkorting geacht gelijkelijk te zijn verspreid over een periode van een kalenderjaar. Indien de werknemer in een kalenderweek meer uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid gelijkgesteld met arbeidsuren. Indien de werknemer in een kalenderweek minder uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid buiten beschouwing gelaten.   
-3.  Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van artikel 1 zijn gelijkgesteld met arbeidsuren.   
+3.  Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van artikel 1 zijn gelijkgesteld met arbeidsuren.  
 
 ### Artikel  5  
 
 ####Het buiten beschouwing laten van arbeidsuren bij een andere werkgever
 
-Indien de werknemer arbeidsuren heeft die voortvloeien uit een dienstbetrekking zonder hiervoor te werken en hij die omstandigheid benut om arbeidsuren te hebben die voortvloeien uit een andere dienstbetrekking, dan worden de arbeidsuren die voortvloeien uit die andere dienstbetrekking niet beschouwd als arbeidsuren.  
+Indien de werknemer arbeidsuren heeft die voortvloeien uit een dienstbetrekking zonder hiervoor te werken en hij die omstandigheid benut om arbeidsuren te hebben die voortvloeien uit een andere dienstbetrekking, dan worden de arbeidsuren die voortvloeien uit die andere dienstbetrekking niet beschouwd als arbeidsuren. 
 
 ### Artikel  6  
 
@@ -86,13 +86,13 @@ b. een recht op uitkering geheel of gedeeltelijk is geëindigd en zich vervolgen
 
 a. de werknemer op het moment, waarop het geheel of gedeeltelijk geëindigde recht ontstond, al zijn arbeidsuren in dienstbetrekking had verloren; of  
 
-b. het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop zich opnieuw werkloosheid voordoet, gelijk is aan, dan wel groter is dan het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop het geheel of gedeeltelijk geëindigde recht ontstond.     
+b. het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop zich opnieuw werkloosheid voordoet, gelijk is aan, dan wel groter is dan het aantal resterende arbeidsuren in dienstbetrekking op het moment waarop het geheel of gedeeltelijk geëindigde recht ontstond.    
 
 ### Artikel  7  
 
 ####Gelijkstelling kalenderweken ten behoeve van referte-eis [Wet WIA](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)
 
-Kalenderweken waarin de werknemer geen arbeidsuren heeft ten gevolge van ploegendienst of vanwege andere vormen van werkroosters worden gelijkgesteld met kalenderweken waarin de werknemer tenminste één arbeidsuur heeft.  
+Kalenderweken waarin de werknemer geen arbeidsuren heeft ten gevolge van ploegendienst of vanwege andere vormen van werkroosters worden gelijkgesteld met kalenderweken waarin de werknemer tenminste één arbeidsuur heeft. 
 
 ### Artikel  8  
 
@@ -109,36 +109,36 @@ b. de bedrijfstak of bedrijfstakken waarin de werknemer werkzaam is;
 
 c. het aantal verloren arbeidsuren en het aantal arbeidsuren waarmee het uitkeringsrecht moet worden beëindigd;  
 
-d. de hoogte van het loon.     
+d. de hoogte van het loon.    
 
 ### Artikel  9  
 
 ####Vaststellen beleidsregels UWV
 
-Met in achtneming van artikel 2 kan het UWV beleidsregels vaststellen ter nadere invulling van deze regeling.  
+Met in achtneming van artikel 2 kan het UWV beleidsregels vaststellen ter nadere invulling van deze regeling. 
 
 ### Artikel  10  
 
 ####Intrekking regelingen
 
-De [Regeling gelijkstelling niet-gewerkte uren met gewerkte uren](../../../../ministeriele-regeling/regeling/gelijkstelling/niet-gewerkte/uren/met/gewerkte/uren/BWBR0004069/README.md), de [Regeling gelijkstelling niet-gewerkte weken met gewerkte weken](../../../../ministeriele-regeling/regeling/gelijkstelling/niet-gewerkte/weken/met/gewerkte/weken/BWBR0004070/README.md) en het [Besluit nadere regeling eindiging recht op uitkering Werkloosheidswet](../../../../ministeriele-regeling/besluit/nadere/regeling/eindiging/recht/op/uitkering/werkloosheidswet/BWBR0026096/README.md) worden ingetrokken.  
+De [Regeling gelijkstelling niet-gewerkte uren met gewerkte uren](../../../../ministeriele-regeling/regeling/gelijkstelling/niet-gewerkte/uren/met/gewerkte/uren/BWBR0004069/README.md), de [Regeling gelijkstelling niet-gewerkte weken met gewerkte weken](../../../../ministeriele-regeling/regeling/gelijkstelling/niet-gewerkte/weken/met/gewerkte/weken/BWBR0004070/README.md) en het [Besluit nadere regeling eindiging recht op uitkering Werkloosheidswet](../../../../ministeriele-regeling/besluit/nadere/regeling/eindiging/recht/op/uitkering/werkloosheidswet/BWBR0026096/README.md) worden ingetrokken. 
 
 ### Artikel  11  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.  
+Deze regeling treedt in werking met ingang van 1 januari 2013. 
 
 ### Artikel  12  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Gelijkstellingsregeling arbeidsuren.  
+Deze regeling wordt aangehaald als: Gelijkstellingsregeling arbeidsuren. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 20 december 2012   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,
-L.F.Asscher.   
+Minister van Sociale Zaken en Werkgelegenheid, 
+L.F. Asscher.     
