@@ -20,14 +20,14 @@ Preamble The General Conference of the International Labour Organization, Having
 
 – the [Minimum Age Convention](../../../../../verdrag/convention/concerning/minimum/age/for/admission/to/employment/BWBV0003701/README.md), 1973 (No. 138);  
 
-– the [Worst Forms of Child Labour Convention](../../../../../verdrag/convention/concerning/the/prohibition/and/immediate/action/for/the/etc/BWBV0001522/README.md), 1999 (No. 182); and   Mindful of the core mandate of the Organization, which is to promote decent conditions of work, and Recalling the ILO Declaration on Fundamental Principles and Rights at Work, 1998, and Mindful also that seafarers are covered by the provisions of other ILO instruments and have other rights which are established as fundamental rights and freedoms applicable to all persons, and Considering that, given the global nature of the shipping industry, seafarers need special protection, and Mindful also of the international standards on ship safety, human security and quality ship management in the [International Convention for the Safety of Life at Sea, 1974](../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended, the [Convention on the International Regulations for Preventing Collisions at Sea, 1972](../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md), as amended, and the seafarer training and competency requirements in the [International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978](../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), as amended, and Recalling that the [United Nations Convention on the Law of the Sea](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, sets out a general legal framework within which all activities in the oceans and seas must be carried out and is of strategic importance as the basis for national, regional and global action and cooperation in the marine sector, and that its integrity needs to be maintained, and Recalling that [Article 94 of the United Nations Convention on the Law of the Sea](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, establishes the duties and obligations of a flag State with regard to, inter alia, labour conditions, crewing and social matters on ships that fly its flag, and Recalling [paragraph 8 of article 19 of the Constitution of the International Labour Organisation](../../../../../verdrag/statuut/van/de/internationale/arbeidsorganisatie/BWBV0001986/README.md) which provides that in no case shall the adoption of any Convention or Recommendation by the Conference or the ratification of any Convention by any Member be deemed to affect any law, award, custom or agreement which ensures more favourable conditions to the workers concerned than those provided for in the Convention or Recommendation, and Determined that this new instrument should be designed to secure the widest possible acceptability among governments, shipowners and seafarers committed to the principles of decent work, that it should be readily updateable and that it should lend itself to effective implementation and enforcement, and Having decided upon the adoption of certain proposals for the realization of such an instrument, which is the only item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention;   adopts this twenty-third day of February of the year two thousand and six the following Convention, which may be cited as the Maritime Labour Convention, 2006.     
+– the [Worst Forms of Child Labour Convention](../../../../../verdrag/convention/concerning/the/prohibition/and/immediate/action/for/the/etc/BWBV0001522/README.md), 1999 (No. 182); and   Mindful of the core mandate of the Organization, which is to promote decent conditions of work, and Recalling the ILO Declaration on Fundamental Principles and Rights at Work, 1998, and Mindful also that seafarers are covered by the provisions of other ILO instruments and have other rights which are established as fundamental rights and freedoms applicable to all persons, and Considering that, given the global nature of the shipping industry, seafarers need special protection, and Mindful also of the international standards on ship safety, human security and quality ship management in the [International Convention for the Safety of Life at Sea, 1974](../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), as amended, the [Convention on the International Regulations for Preventing Collisions at Sea, 1972](../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md), as amended, and the seafarer training and competency requirements in the [International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978](../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), as amended, and Recalling that the [United Nations Convention on the Law of the Sea](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, sets out a general legal framework within which all activities in the oceans and seas must be carried out and is of strategic importance as the basis for national, regional and global action and cooperation in the marine sector, and that its integrity needs to be maintained, and Recalling that [Article 94 of the United Nations Convention on the Law of the Sea](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, establishes the duties and obligations of a flag State with regard to, inter alia, labour conditions, crewing and social matters on ships that fly its flag, and Recalling [paragraph 8 of article 19 of the Constitution of the International Labour Organisation](../../../../../verdrag/statuut/van/de/internationale/arbeidsorganisatie/BWBV0001986/README.md) which provides that in no case shall the adoption of any Convention or Recommendation by the Conference or the ratification of any Convention by any Member be deemed to affect any law, award, custom or agreement which ensures more favourable conditions to the workers concerned than those provided for in the Convention or Recommendation, and Determined that this new instrument should be designed to secure the widest possible acceptability among governments, shipowners and seafarers committed to the principles of decent work, that it should be readily updateable and that it should lend itself to effective implementation and enforcement, and Having decided upon the adoption of certain proposals for the realization of such an instrument, which is the only item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention; adopts this twenty-third day of February of the year two thousand and six the following Convention, which may be cited as the Maritime Labour Convention, 2006.  
 
 ####General Obligations
 
 ### Article  I  
 
 1.  Each Member which ratifies this Convention undertakes to give complete effect to its provisions in the manner set out in Article VI in order to secure the right of all seafarers to decent employment.   
-2.  Members shall cooperate with each other for the purpose of ensuring the effective implementation and enforcement of this Convention.   
+2.  Members shall cooperate with each other for the purpose of ensuring the effective implementation and enforcement of this Convention.  
 
 ####Definitions and Scope of Application
 
@@ -39,7 +39,7 @@ a) *competent authority* means the minister, government department or other auth
 
 b) *declaration of maritime labour compliance* means the declaration referred to in Regulation 5.1.3;  
 
-c) *gross tonnage* means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in [Annex I to the International Convention on Tonnage Measurement of Ships, 1969](../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md), or any successor Convention; for ships covered by the tonnage measurement interim scheme adopted by the International Maritime Organization, the gross tonnage is that which is included in the REMARKS column of the International Tonnage Certificate (1969);  
+c)  *gross tonnage* means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in [Annex I to the International Convention on Tonnage Measurement of Ships, 1969](../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md), or any successor Convention; for ships covered by the tonnage measurement interim scheme adopted by the International Maritime Organization, the gross tonnage is that which is included in the REMARKS column of the International Tonnage Certificate (1969);  
 
 d) *maritime labour certificate* means the certificate referred to in Regulation 5.1.3;  
 
@@ -60,7 +60,7 @@ j) *shipowner* means the owner of the ship or another organization or person, su
 5.  In the event of doubt as to whether this Convention applies to a ship or particular category of ships, the question shall be determined by the competent authority in each Member after consultation with the shipowners’ and seafarers’ organizations concerned.   
 6.  Where the competent authority determines that it would not be reasonable or practicable at the present time to apply certain details of the Code referred to in Article VI, paragraph 1, to a ship or particular categories of ships flying the flag of the Member, the relevant provisions of the Code shall not apply to the extent that the subject matter is dealt with differently by national laws or regulations or collective bargaining agreements or other measures. Such a determination may only be made in consultation with the shipowners’ and seafarers’ organizations concerned and may only be made with respect to ships of less than 200 gross tonnage not engaged in international voyages.   
 7.  Any determinations made by a Member under paragraph 3 or 5 or 6 of this Article shall be communicated to the Director-General of the International Labour Office, who shall notify the Members of the Organization.   
-8.  Unless expressly provided otherwise, a reference to this Convention constitutes at the same time a reference to the Regulations and the Code.   
+8.  Unless expressly provided otherwise, a reference to this Convention constitutes at the same time a reference to the Regulations and the Code.  
 
 ####Fundamental Rights and Principles
 
@@ -74,7 +74,7 @@ b) the elimination of all forms of forced or compulsory labour;
 
 c) the effective abolition of child labour; and  
 
-d) the elimination of discrimination in respect of employment and occupation.    
+d) the elimination of discrimination in respect of employment and occupation.   
 
 ####Seafarers’ Employment and Social Rights
 
@@ -84,7 +84,7 @@ d) the elimination of discrimination in respect of employment and occupation.
 2.  Every seafarer has a right to fair terms of employment.   
 3.  Every seafarer has a right to decent working and living conditions on board ship.   
 4.  Every seafarer has a right to health protection, medical care, welfare measures and other forms of social protection.   
-5.  Each Member shall ensure, within the limits of its jurisdiction, that the seafarers’ employment and social rights set out in the preceding paragraphs of this Article are fully implemented in accordance with the requirements of this Convention. Unless specified otherwise in the Convention, such implementation may be achieved through national laws or regulations, through applicable collective bargaining agreements or through other measures or in practice.   
+5.  Each Member shall ensure, within the limits of its jurisdiction, that the seafarers’ employment and social rights set out in the preceding paragraphs of this Article are fully implemented in accordance with the requirements of this Convention. Unless specified otherwise in the Convention, such implementation may be achieved through national laws or regulations, through applicable collective bargaining agreements or through other measures or in practice.  
 
 ####Implementation and Enforcement Responsibilities
 
@@ -96,7 +96,7 @@ d) the elimination of discrimination in respect of employment and occupation.
 4.  A ship to which this Convention applies may, in accordance with international law, be inspected by a Member other than the flag State, when the ship is in one of its ports, to determine whether the ship is in compliance with the requirements of this Convention.   
 5.  Each Member shall effectively exercise its jurisdiction and control over seafarer recruitment and placement services, if these are established in its territory.   
 6.  Each Member shall prohibit violations of the requirements of this Convention and shall, in accordance with international law, establish sanctions or require the adoption of corrective measures under its laws which are adequate to discourage such violations.   
-7.  Each Member shall implement its responsibilities under this Convention in such a way as to ensure that the ships that fly the flag of any State that has not ratified this Convention do not receive more favourable treatment than the ships that fly the flag of any State that has ratified it.   
+7.  Each Member shall implement its responsibilities under this Convention in such a way as to ensure that the ships that fly the flag of any State that has not ratified this Convention do not receive more favourable treatment than the ships that fly the flag of any State that has ratified it.  
 
 ####Regulations and Parts A and B of the Code
 
@@ -109,13 +109,13 @@ d) the elimination of discrimination in respect of employment and occupation.
 
 a) it is conducive to the full achievement of the general object and purpose of the provision or provisions of Part A of the Code concerned; and  
 
-b) it gives effect to the provision or provisions of Part A of the Code concerned.     
+b) it gives effect to the provision or provisions of Part A of the Code concerned.    
 
 ####Consultation with Shipowners’ and Seafarers’ Organizations
 
 ### Article  VII  
 
-Any derogation, exemption or other flexible application of this Convention for which the Convention requires consultation with shipowners’ and seafarers’ organizations may, in cases where representative organizations of shipowners or of seafarers do not exist within a Member, only be decided by that Member through consultation with the Committee referred to in Article XIII.  
+Any derogation, exemption or other flexible application of this Convention for which the Convention requires consultation with shipowners’ and seafarers’ organizations may, in cases where representative organizations of shipowners or of seafarers do not exist within a Member, only be decided by that Member through consultation with the Committee referred to in Article XIII. 
 
 ####Entry into Force
 
@@ -124,31 +124,31 @@ Any derogation, exemption or other flexible application of this Convention for w
 1.  The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.   
 2.  This Convention shall be binding only upon those Members of the International Labour Organization whose ratifications have been registered by the Director-General.   
 3.  This Convention shall come into force 12 months after the date on which there have been registered ratifications by at least 30 Members with a total share in the world gross tonnage of ships of 33 per cent.   
-4.  Thereafter, this Convention shall come into force for any Member 12 months after the date on which its ratification has been registered.   
+4.  Thereafter, this Convention shall come into force for any Member 12 months after the date on which its ratification has been registered.  
 
 ####Denunciation
 
 ### Article  IX  
 
 1.  A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.   
-2.  Each Member which does not, within the year following the expiration of the period of ten years mentioned in paragraph 1 of this Article, exercise the right of denunciation provided for in this Article, shall be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each new period of ten years under the terms provided for in this Article.   
+2.  Each Member which does not, within the year following the expiration of the period of ten years mentioned in paragraph 1 of this Article, exercise the right of denunciation provided for in this Article, shall be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each new period of ten years under the terms provided for in this Article.  
 
 ####Effect of Entry into Force
 
 ### Article  X  
 
-This Convention revises the following Conventions: Minimum Age (Sea) Convention, 1920 (No. 7) [Unemployment Indemnity (Shipwreck) Convention, 1920](../../../../../verdrag/convention/concerning/unemployment/indemnity/in/case/of/loss/or/foundering/etc/BWBV0006189/README.md) (No. 8) [Placing of Seamen Convention](../../../../../verdrag/international/labour/conference./BWBV0006208/README.md), 1920 (No. 9) [Medical Examination of Young Persons (Sea) Convention](../../../../../verdrag/convention/concerning/the/compulsory/medical/examination/of/children/and/etc/BWBV0006209/README.md), 1921 (No. 16) [Seamen’s Articles of Agreement Convention](../../../../../verdrag/convention/concerning/seamen's/articles/of/agreement/BWBV0006211/README.md), 1926 (No. 22) [Repatriation of Seamen Convention](../../../../../verdrag/international/labour/conference/BWBV0006227/README.md), 1926 (No. 23) Officers’ Competency Certificates Convention, 1936 (No. 53) Holidays with Pay (Sea) Convention, 1936 (No. 54) Shipowners’ Liability (Sick and Injured Seamen) Convention, 1936 (No. 55) Sickness Insurance (Sea) Convention, 1936 (No. 56) Hours of Work and Manning (Sea) Convention, 1936 (No. 57) [Minimum Age (Sea) Convention (Revised)](../../../../../verdrag/international/labour/conference/BWBV0006231/README.md), 1936 (No. 58) [Food and Catering (Ships’ Crews) Convention](../../../../../verdrag/international/labour/conference/BWBV0005438/README.md), 1946 (No. 68) [Certification of Ships’ Cooks Convention](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (No. 69) Social Security (Seafarers) Convention, 1946 (No. 70) Paid Vacations (Seafarers) Convention, 1946 (No. 72) [Medical Examination (Seafarers) Convention](../../../../../verdrag/international/labour/conference/BWBV0005435/README.md), 1946 (No. 73) [Certification of Able Seamen Convention](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74) Accommodation of Crews Convention, 1946 (No. 75) Wages, Hours of Work and Manning (Sea) Convention, 1946 (No. 76) Paid Vacations (Seafarers) Convention (Revised), 1949 (No. 91) Accommodation of Crews Convention (Revised), 1949 (No. 92) Wages, Hours of Work and Manning (Sea) Convention (Revised), 1949 (No. 93) Wages, Hours of Work and Manning (Sea) Convention (Revised), 1958 (No. 109) [Accommodation of Crews (Supplementary Provisions) Convention](../../../../../verdrag/convention/concerning/crew/accommodation/on/board/ship/BWBV0004640/README.md), 1970 (No. 133) Prevention of Accidents (Seafarers) Convention, 1970 (No. 134) [Continuity of Employment (Seafarers) Convention](../../../../../verdrag/convention/concerning/continuity/of/employment/of/seafarers/BWBV0003677/README.md), 1976 (No. 145) [Seafarers’ Annual Leave with Pay Convention](../../../../../verdrag/convention/concerning/annual/leave/with/pay/for/seafarers/BWBV0003716/README.md), 1976 (No. 146) [Merchant Shipping (Minimum Standards) Convention](../../../../../verdrag/verdrag/betreffende/minimumnormen/op/koopvaardijschepen/BWBV0003738/README.md), 1976 (No. 147) [Protocol of 1996 to the Merchant Shipping (Minimum Standards) Convention](../../../../../verdrag/protocol/van/1996/bij/het/koopvaardijverdrag/(minimumnormen)/1976/BWBV0001594/README.md), 1976 (No. 147) Seafarers’ Welfare Convention, 1987 (No. 163) Health Protection and Medical Care (Seafarers) Convention, 1987 (No. 164) Social Security (Seafarers) Convention (Revised), 1987 (No. 165) Repatriation of Seafarers Convention (Revised), 1987 (No. 166) Labour Inspection (Seafarers) Convention, 1996 (No. 178) Recruitment and Placement of Seafarers Convention, 1996 (No. 179) [Seafarers’ Hours of Work and the Manning of Ships Convention](../../../../../verdrag/convention/concerning/seafarers'/hours/of/work/and/the/manning/of/ships/BWBV0001593/README.md), 1996 (No. 180).  
+This Convention revises the following Conventions: Minimum Age (Sea) Convention, 1920 (No. 7) [Unemployment Indemnity (Shipwreck) Convention, 1920](../../../../../verdrag/convention/concerning/unemployment/indemnity/in/case/of/loss/or/foundering/etc/BWBV0006189/README.md) (No. 8) [Placing of Seamen Convention](../../../../../verdrag/international/labour/conference./BWBV0006208/README.md), 1920 (No. 9) [Medical Examination of Young Persons (Sea) Convention](../../../../../verdrag/convention/concerning/the/compulsory/medical/examination/of/children/and/etc/BWBV0006209/README.md), 1921 (No. 16) [Seamen’s Articles of Agreement Convention](../../../../../verdrag/convention/concerning/seamen's/articles/of/agreement/BWBV0006211/README.md), 1926 (No. 22) [Repatriation of Seamen Convention](../../../../../verdrag/international/labour/conference/BWBV0006227/README.md), 1926 (No. 23) Officers’ Competency Certificates Convention, 1936 (No. 53) Holidays with Pay (Sea) Convention, 1936 (No. 54) Shipowners’ Liability (Sick and Injured Seamen) Convention, 1936 (No. 55) Sickness Insurance (Sea) Convention, 1936 (No. 56) Hours of Work and Manning (Sea) Convention, 1936 (No. 57) [Minimum Age (Sea) Convention (Revised)](../../../../../verdrag/international/labour/conference/BWBV0006231/README.md), 1936 (No. 58) [Food and Catering (Ships’ Crews) Convention](../../../../../verdrag/international/labour/conference/BWBV0005438/README.md), 1946 (No. 68) [Certification of Ships’ Cooks Convention](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (No. 69) Social Security (Seafarers) Convention, 1946 (No. 70) Paid Vacations (Seafarers) Convention, 1946 (No. 72) [Medical Examination (Seafarers) Convention](../../../../../verdrag/international/labour/conference/BWBV0005435/README.md), 1946 (No. 73) [Certification of Able Seamen Convention](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74) Accommodation of Crews Convention, 1946 (No. 75) Wages, Hours of Work and Manning (Sea) Convention, 1946 (No. 76) Paid Vacations (Seafarers) Convention (Revised), 1949 (No. 91) Accommodation of Crews Convention (Revised), 1949 (No. 92) Wages, Hours of Work and Manning (Sea) Convention (Revised), 1949 (No. 93) Wages, Hours of Work and Manning (Sea) Convention (Revised), 1958 (No. 109) [Accommodation of Crews (Supplementary Provisions) Convention](../../../../../verdrag/convention/concerning/crew/accommodation/on/board/ship/BWBV0004640/README.md), 1970 (No. 133) Prevention of Accidents (Seafarers) Convention, 1970 (No. 134) [Continuity of Employment (Seafarers) Convention](../../../../../verdrag/convention/concerning/continuity/of/employment/of/seafarers/BWBV0003677/README.md), 1976 (No. 145) [Seafarers’ Annual Leave with Pay Convention](../../../../../verdrag/convention/concerning/annual/leave/with/pay/for/seafarers/BWBV0003716/README.md), 1976 (No. 146) [Merchant Shipping (Minimum Standards) Convention](../../../../../verdrag/verdrag/betreffende/minimumnormen/op/koopvaardijschepen/BWBV0003738/README.md), 1976 (No. 147) [Protocol of 1996 to the Merchant Shipping (Minimum Standards) Convention](../../../../../verdrag/protocol/van/1996/bij/het/koopvaardijverdrag/(minimumnormen)/1976/BWBV0001594/README.md), 1976 (No. 147) Seafarers’ Welfare Convention, 1987 (No. 163) Health Protection and Medical Care (Seafarers) Convention, 1987 (No. 164) Social Security (Seafarers) Convention (Revised), 1987 (No. 165) Repatriation of Seafarers Convention (Revised), 1987 (No. 166) Labour Inspection (Seafarers) Convention, 1996 (No. 178) Recruitment and Placement of Seafarers Convention, 1996 (No. 179) [Seafarers’ Hours of Work and the Manning of Ships Convention](../../../../../verdrag/convention/concerning/seafarers'/hours/of/work/and/the/manning/of/ships/BWBV0001593/README.md), 1996 (No. 180). 
 
 ####Depositary Functions
 
 ### Article  XI  
 
 1.  The Director-General of the International Labour Office shall notify all Members of the International Labour Organization of the registration of all ratifications, acceptances and denunciations under this Convention.   
-2.  When the conditions provided for in paragraph 3 of Article VIII have been fulfilled, the Director-General shall draw the attention of the Members of the Organization to the date upon which the Convention will come into force.   
+2.  When the conditions provided for in paragraph 3 of Article VIII have been fulfilled, the Director-General shall draw the attention of the Members of the Organization to the date upon which the Convention will come into force.  
 
 ### Article  XII  
 
-The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) full particulars of all ratifications, acceptances and denunciations registered under this Convention.  
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) full particulars of all ratifications, acceptances and denunciations registered under this Convention. 
 
 ####Special Tripartite Committee
 
@@ -157,7 +157,7 @@ The Director-General of the International Labour Office shall communicate to the
 1.  The Governing Body of the International Labour Office shall keep the working of this Convention under continuous review through a committee established by it with special competence in the area of maritime labour standards.   
 2.  For matters dealt with in accordance with this Convention, the Committee shall consist of two representatives nominated by the Government of each Member which has ratified this Convention, and the representatives of Shipowners and Seafarers appointed by the Governing Body after consultation with the Joint Maritime Commission.   
 3.  The Government representatives of Members which have not yet ratified this Convention may participate in the Committee but shall have no right to vote on any matter dealt with in accordance with this Convention. The Governing Body may invite other organizations or entities to be represented on the Committee by observers.   
-4.  The votes of each Shipowner and Seafarer representative in the Committee shall be weighted so as to ensure that the Shipowners’ group and the Seafarers’ group each have half the voting power of the total number of governments which are represented at the meeting concerned and entitled to vote.   
+4.  The votes of each Shipowner and Seafarer representative in the Committee shall be weighted so as to ensure that the Shipowners’ group and the Seafarers’ group each have half the voting power of the total number of governments which are represented at the meeting concerned and entitled to vote.  
 
 ####Amendment of this Convention
 
@@ -171,7 +171,7 @@ The Director-General of the International Labour Office shall communicate to the
 6.  For any Member referred to in paragraph 2 of this Article, an amendment shall come into force 12 months after the date of acceptance referred to in paragraph 4 of this Article or 12 months after the date on which its ratification of the amendment has been registered, whichever date is later.   
 7.  Subject to paragraph 9 of this Article, for Members referred to in paragraph 3 of this Article, the Convention as amended shall come into force 12 months after the date of acceptance referred to in paragraph 4 of this Article or 12 months after the date on which their ratifications of the Convention have been registered, whichever date is later.   
 8.  For those Members whose ratification of this Convention was registered before the adoption of an amendment but which have not ratified the amendment, this Convention shall remain in force without the amendment concerned.   
-9.  Any Member whose ratification of this Convention is registered after the adoption of the amendment but before the date referred to in paragraph 4 of this Article may, in a declaration accompanying the instrument of ratification, specify that its ratification relates to the Convention without the amendment concerned. In the case of a ratification with such a declaration, the Convention shall come into force for the Member concerned 12 months after the date on which the ratification was registered. Where an instrument of ratification is not accompanied by such a declaration, or where the ratification is registered on or after the date referred to in paragraph 4, the Convention shall come into force for the Member concerned 12 months after the date on which the ratification was registered and, upon its entry into force in accordance with paragraph 7 of this Article, the amendment shall be binding on the Member concerned unless the amendment provides otherwise.   
+9.  Any Member whose ratification of this Convention is registered after the adoption of the amendment but before the date referred to in paragraph 4 of this Article may, in a declaration accompanying the instrument of ratification, specify that its ratification relates to the Convention without the amendment concerned. In the case of a ratification with such a declaration, the Convention shall come into force for the Member concerned 12 months after the date on which the ratification was registered. Where an instrument of ratification is not accompanied by such a declaration, or where the ratification is registered on or after the date referred to in paragraph 4, the Convention shall come into force for the Member concerned 12 months after the date on which the ratification was registered and, upon its entry into force in accordance with paragraph 7 of this Article, the amendment shall be binding on the Member concerned unless the amendment provides otherwise.  
 
 ####Amendments to the Code
 
@@ -207,13 +207,13 @@ a) a Member that has accepted that amendment shall not be obliged to extend the 
 
 (ii) pursuant to paragraph 8a) of this Article, has given notice that its acceptance is subject to its subsequent express notification and has not accepted the amendment; and    
 
-b) a Member that has accepted the amendment shall extend the benefit of the Convention in respect of the maritime labour certificates issued to ships flying the flag of another Member that has given notice, pursuant to paragraph 8b) of this Article, that it will not give effect to that amendment for the period specified in accordance with paragraph 10 of this Article.     
+b) a Member that has accepted the amendment shall extend the benefit of the Convention in respect of the maritime labour certificates issued to ships flying the flag of another Member that has given notice, pursuant to paragraph 8b) of this Article, that it will not give effect to that amendment for the period specified in accordance with paragraph 10 of this Article.    
 
 ####Authoritative Languages
 
 ### Article  XVI  
 
-The English and French versions of the text of this Convention are equally authoritative.  
+The English and French versions of the text of this Convention are equally authoritative. 
 
 ####Explanatory Note to the Regulations and Code of the Maritime Labour Convention
 
@@ -227,15 +227,15 @@ The English and French versions of the text of this Convention are equally autho
 
 5. The Regulations and the Code are organized into general areas under five Titles: 
 
-Title 1: Minimum requirements for seafarers to work on a ship  
+Title 1: Minimum requirements for seafarers to work on a ship
 
-Title 2: Conditions of employment  
+Title 2: Conditions of employment
 
-Title 3: Accommodation, recreational facilities, food and catering  
+Title 3: Accommodation, recreational facilities, food and catering
 
-Title 4: Health protection, medical care, welfare and social security protection  
+Title 4: Health protection, medical care, welfare and social security protection
 
-Title 5: Compliance and enforcement    
+Title 5: Compliance and enforcement  
 
 6. Each Title contains groups of provisions relating to a particular right or principle (or enforcement measure in Title 5), with connected numbering. The first group in Title 1, for example, consists of Regulation 1.1, Standard A1.1 and Guideline B1.1, relating to minimum age.  
 
@@ -285,7 +285,7 @@ b) the specific nature of the duty or a recognized training programme requires t
 4. The employment, engagement or work of seafarers under the age of 18 shall be prohibited where the work is likely to jeopardize their health or safety. The types of such work shall be determined by national laws or regulations or by the competent authority, after consultation with the shipowners’ and seafarers’ organizations concerned, in accordance with relevant international standards.   
 ###Guideline B1.1 – Minimum age
 
-1. When regulating working and living conditions, Members should give special attention to the needs of young persons under the age of 18.    
+1. When regulating working and living conditions, Members should give special attention to the needs of young persons under the age of 18.   
 
 ### Regulation  1.2  
 
@@ -333,7 +333,7 @@ b) the seafarer concerned is in possession of an expired medical certificate of 
 
 ###Guideline B1.2.1 – International guidelines
 
-1. The competent authority, medical practitioners, examiners, shipowners, seafarers’ representatives and all other persons concerned with the conduct of medical fitness examinations of seafarer candidates and serving seafarers should follow the ILO/ WHO Guidelines for Conducting Pre-sea and Periodic Medical Fitness Examinations for Seafarers, including any subsequent versions, and any other applicable international guidelines published by the International Labour Organization, the International Maritime Organization or the World Health Organization.    
+1. The competent authority, medical practitioners, examiners, shipowners, seafarers’ representatives and all other persons concerned with the conduct of medical fitness examinations of seafarer candidates and serving seafarers should follow the ILO/ WHO Guidelines for Conducting Pre-sea and Periodic Medical Fitness Examinations for Seafarers, including any subsequent versions, and any other applicable international guidelines published by the International Labour Organization, the International Maritime Organization or the World Health Organization.   
 
 ### Regulation  1.3  
 
@@ -347,7 +347,7 @@ Purpose: To ensure that seafarers are trained or qualified to carry out their du
 
 3. Training and certification in accordance with the mandatory instruments adopted by the International Maritime Organization shall be considered as meeting the requirements of paragraphs 1 and 2 of this Regulation.  
 
-4. Any Member which, at the time of its ratification of this Convention, was bound by the [Certification of Able Seamen Convention](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74), shall continue to carry out the obligations under that Convention unless and until mandatory provisions covering its subject matter have been adopted by the International Maritime Organization and entered into force, or until five years have elapsed since the entry into force of this Convention in accordance with paragraph 3 of Article VIII, whichever date is earlier.    
+4. Any Member which, at the time of its ratification of this Convention, was bound by the [Certification of Able Seamen Convention](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (No. 74), shall continue to carry out the obligations under that Convention unless and until mandatory provisions covering its subject matter have been adopted by the International Maritime Organization and entered into force, or until five years have elapsed since the entry into force of this Convention in accordance with paragraph 3 of Article VIII, whichever date is earlier.   
 
 ### Regulation  1.4  
 
@@ -473,7 +473,7 @@ c) the harmonization of policies, working methods and legislation governing recr
 
 d) the improvement of procedures and conditions for the international recruitment and placement of seafarers; and  
 
-e) workforce planning, taking account of the supply of and demand for seafarers and the requirements of the maritime industry.      
+e) workforce planning, taking account of the supply of and demand for seafarers and the requirements of the maritime industry.     
 
 ### TITLE  2  
 
@@ -549,7 +549,7 @@ k) any other particulars which national law may require.
 
 ###Guideline B2.1.1 – Record of employment
 
-1. In determining the particulars to be recorded in the record of employment referred to in Standard A2.1, paragraph 1e), each Member should ensure that this document contains sufficient information, with a translation in English, to facilitate the acquisition of further work or to satisfy the sea-service requirements for upgrading or promotion. A seafarers’ discharge book may satisfy the requirements of paragraph 1e) of that Standard.    
+1. In determining the particulars to be recorded in the record of employment referred to in Standard A2.1, paragraph 1e), each Member should ensure that this document contains sufficient information, with a translation in English, to facilitate the acquisition of further work or to satisfy the sea-service requirements for upgrading or promotion. A seafarers’ discharge book may satisfy the requirements of paragraph 1e) of that Standard.   
 
 ### Regulation  2.2  
 
@@ -664,7 +664,7 @@ b) that any seafarers who have been paid at a rate lower than the minimum wage a
 
 1. The basic pay or wages for a calendar month of service for an able seafarer should be no less than the amount periodically set by the Joint Maritime Commission or another body authorized by the Governing Body of the International Labour Office. Upon a decision of the Governing Body, the Director-General shall notify any revised amount to the Members of the Organization.  
 
-2. Nothing in this Guideline should be deemed to prejudice arrangements agreed between shipowners or their organizations and seafarers’ organizations with regard to the regulation of standard minimum terms and conditions of employment, provided such terms and conditions are recognized by the competent authority.    
+2. Nothing in this Guideline should be deemed to prejudice arrangements agreed between shipowners or their organizations and seafarers’ organizations with regard to the regulation of standard minimum terms and conditions of employment, provided such terms and conditions are recognized by the competent authority.   
 
 ### Regulation  2.3  
 
@@ -744,7 +744,7 @@ b) the effective training of young seafarers in accordance with established prog
 
 3. Such exceptional situations should be recorded, with reasons, and signed by the master.  
 
-4. Paragraph 1 of this Guideline does not exempt young seafarers from the general obligation on all seafarers to work during any emergency as provided for in Standard A2.3, paragraph 14.    
+4. Paragraph 1 of this Guideline does not exempt young seafarers from the general obligation on all seafarers to work during any emergency as provided for in Standard A2.3, paragraph 14.   
 
 ### Regulation  2.4  
 
@@ -797,7 +797,7 @@ d) compensatory leave of any kind, under conditions as determined by the compete
 2. Subject to paragraph 1 of this Guideline and unless otherwise provided in an agreement applicable to the shipowner and the seafarer concerned, the annual leave with pay recommended in this Guideline should consist of an uninterrupted period.   
 ###Guideline B2.4.4 – Young seafarers
 
-1. Special measures should be considered with respect to young seafarers under the age of 18 who have served six months or any other shorter period of time under a collective agreement or seafarers’ employment agreement without leave on a foreign-going ship which has not returned to their country of residence in that time, and will not return in the subsequent three months of the voyage. Such measures could consist of their repatriation at no expense to themselves to the place of original engagement in their country of residence for the purpose of taking any leave earned during the voyage.    
+1. Special measures should be considered with respect to young seafarers under the age of 18 who have served six months or any other shorter period of time under a collective agreement or seafarers’ employment agreement without leave on a foreign-going ship which has not returned to their country of residence in that time, and will not return in the subsequent three months of the voyage. Such measures could consist of their repatriation at no expense to themselves to the place of original engagement in their country of residence for the purpose of taking any leave earned during the voyage.   
 
 ### Regulation  2.5  
 
@@ -916,7 +916,7 @@ a) for the return of seafarers employed on a ship that flies the flag of a forei
 
 b) for medical care and maintenance of seafarers employed on a ship that flies the flag of a foreign country who are put ashore in a foreign port in consequence of sickness or injury incurred in the service of the ship and not due to their own wilful misconduct.    
 
-3. If, after young seafarers under the age of 18 have served on a ship for at least four months during their first foreign-going voyage, it becomes apparent that they are unsuited to life at sea, they should be given the opportunity of being repatriated at no expense to themselves from the first suitable port of call in which there are consular services of the flag State, or the State of nationality or residence of the young seafarer. Notification of any such repatriation, with the reasons therefor, should be given to the authority which issued the papers enabling the young seafarers concerned to take up seagoing employment.    
+3. If, after young seafarers under the age of 18 have served on a ship for at least four months during their first foreign-going voyage, it becomes apparent that they are unsuited to life at sea, they should be given the opportunity of being repatriated at no expense to themselves from the first suitable port of call in which there are consular services of the flag State, or the State of nationality or residence of the young seafarer. Notification of any such repatriation, with the reasons therefor, should be given to the authority which issued the papers enabling the young seafarers concerned to take up seagoing employment.   
 
 ### Regulation  2.6  
 
@@ -936,7 +936,7 @@ Purpose: To ensure that seafarers are compensated when a ship is lost or has fou
 
 1. The indemnity against unemployment resulting from a ship’s foundering or loss should be paid for the days during which the seafarer remains in fact unemployed at the same rate as the wages payable under the employment agreement, but the total indemnity payable to any one seafarer may be limited to two months’ wages.  
 
-2. Each Member should ensure that seafarers have the same legal remedies for recovering such indemnities as they have for recovering arrears of wages earned during the service.    
+2. Each Member should ensure that seafarers have the same legal remedies for recovering such indemnities as they have for recovering arrears of wages earned during the service.   
 
 ### Regulation  2.7  
 
@@ -958,7 +958,7 @@ Purpose: To ensure that seafarers work on board ships with sufficient personnel 
 
 1. Each Member should maintain, or satisfy itself that there is maintained, efficient machinery for the investigation and settlement of complaints or disputes concerning the manning levels on a ship.  
 
-2. Representatives of shipowners’ and seafarers’ organizations should participate, with or without other persons or authorities, in the operation of such machinery.    
+2. Representatives of shipowners’ and seafarers’ organizations should participate, with or without other persons or authorities, in the operation of such machinery.   
 
 ### Regulation  2.8  
 
@@ -995,7 +995,7 @@ c) promotion of opportunities, both on board and ashore, for further training an
 
 4. To the extent that national laws or regulations permit, the number of seafarers on such registers or lists should be periodically reviewed so as to achieve levels adapted to the needs of the maritime industry.  
 
-5. When a reduction in the number of seafarers on such a register or list becomes necessary, all appropriate measures should be taken to prevent or minimize detrimental effects on seafarers, account being taken of the economic and social situation of the country concerned.    
+5. When a reduction in the number of seafarers on such a register or list becomes necessary, all appropriate measures should be taken to prevent or minimize detrimental effects on seafarers, account being taken of the economic and social situation of the country concerned.   
 
 ### TITLE  3  
 
@@ -1364,7 +1364,7 @@ j) reasonable access to ship-to-shore telephone communications, and email and In
 
 4. The limits for noise levels for working and living spaces should be in conformity with the ILO international guidelines on exposure levels, including those in the ILO code of practice entitled Ambient factors in the workplace, 2001, and, where applicable, the specific protection recommended by the International Maritime Organization, and with any subsequent amending and supplementary instruments for acceptable noise levels on board ships. A copy of the applicable instruments in English or the working language of the ship should be carried on board and should be accessible to seafarers.  
 
-5. No accommodation or recreational or catering facilities should be exposed to excessive vibration.    
+5. No accommodation or recreational or catering facilities should be exposed to excessive vibration.   
 
 ### Regulation  3.2  
 
@@ -1427,7 +1427,7 @@ b) passed an examination prescribed by the competent authority or passed an equi
 
 2. The prescribed examination may be conducted and certificates granted either directly by the competent authority or, subject to its control, by an approved school for the training of cooks.  
 
-3. The competent authority should provide for the recognition, where appropriate, of certificates of qualification as ships’ cooks issued by other Members, which have ratified this Convention or the [Certification of Ships’ Cooks Convention](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (No. 69), or other approved body.    
+3. The competent authority should provide for the recognition, where appropriate, of certificates of qualification as ships’ cooks issued by other Members, which have ratified this Convention or the [Certification of Ships’ Cooks Convention](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (No. 69), or other approved body.   
 
 ### TITLE  4  
 
@@ -1541,7 +1541,7 @@ k) arranging for the repatriation of the bodies or ashes of deceased seafarers, 
 2. International cooperation in the field of health protection and medical care for seafarers should be based on bilateral or multilateral agreements or consultations among Members.   
 ###Guideline B4.1.5 – Dependants of seafarers
 
-1. Each Member should adopt measures to secure proper and sufficient medical care for the dependants of seafarers domiciled in its territory pending the development of a medical care service which would include within its scope workers generally and their dependants where such services do not exist and should inform the International Labour Office concerning the measures taken for this purpose.    
+1. Each Member should adopt measures to secure proper and sufficient medical care for the dependants of seafarers domiciled in its territory pending the development of a medical care service which would include within its scope workers generally and their dependants where such services do not exist and should inform the International Labour Office concerning the measures taken for this purpose.   
 
 ### Regulation  4.2  
 
@@ -1591,7 +1591,7 @@ c) sickness or infirmity intentionally concealed when the engagement is entered 
 
 2. National laws or regulations may provide that a shipowner shall cease to be liable to bear the costs of a sick or injured seafarer from the time at which that seafarer can claim medical benefits under a scheme of compulsory sickness insurance, compulsory accident insurance or workers’ compensation for accidents.  
 
-3. National laws or regulations may provide that burial expenses paid by the shipowner shall be reimbursed by an insurance institution in cases in which funeral benefit is payable in respect of the deceased seafarer under laws or regulations relating to social insurance or workers’ compensation.    
+3. National laws or regulations may provide that burial expenses paid by the shipowner shall be reimbursed by an insurance institution in cases in which funeral benefit is payable in respect of the deceased seafarer under laws or regulations relating to social insurance or workers’ compensation.   
 
 ### Regulation  4.3  
 
@@ -1835,7 +1835,7 @@ d) collaboration in the preparation and dissemination of occupational safety and
 
 e) collaboration in the production and use of training aids; and  
 
-f) joint facilities for, or mutual assistance in, the training of seafarers in occupational safety and health protection, accident prevention and safe working practices.      
+f) joint facilities for, or mutual assistance in, the training of seafarers in occupational safety and health protection, accident prevention and safe working practices.     
 
 ### Regulation  4.4  
 
@@ -1954,7 +1954,7 @@ b) effective cooperation between consuls and the local or national authorities.
 
 4. Each Member should take measures, whenever necessary, to ensure the safety of seafarers from aggression and other unlawful acts while ships are in their territorial waters and especially in approaches to ports.  
 
-5. Every effort should be made by those responsible in port and on board a ship to facilitate shore leave for seafarers as soon as possible after a ship’s arrival in port.    
+5. Every effort should be made by those responsible in port and on board a ship to facilitate shore leave for seafarers as soon as possible after a ship’s arrival in port.   
 
 ### Regulation  4.5  
 
@@ -2004,7 +2004,7 @@ Purpose: To ensure that measures are taken with a view to providing seafarers wi
 
 6. The seafarers’ employment agreement should identify the means by which the various branches of social security protection will be provided to the seafarer by the shipowner as well as any other relevant information at the disposal of the shipowner, such as statutory deductions from the seafarers’ wages and shipowners’ contributions which may be made in accordance with the requirements of identified authorized bodies pursuant to relevant national social security schemes.  
 
-7. The Member whose flag the ship flies should, in effectively exercising its jurisdiction over social matters, satisfy itself that the shipowners’ responsibilities concerning social security protection are met, including making the required contributions to social security schemes.    
+7. The Member whose flag the ship flies should, in effectively exercising its jurisdiction over social matters, satisfy itself that the shipowners’ responsibilities concerning social security protection are met, including making the required contributions to social security schemes.   
 
 ### TITLE  5  
 
@@ -2022,7 +2022,7 @@ Purpose: To ensure that measures are taken with a view to providing seafarers wi
 
 ####– Flag State responsibilities
 
-Purpose: To ensure that each Member implements its responsibilities under this Convention with respect to ships that fly its flag  
+Purpose: To ensure that each Member implements its responsibilities under this Convention with respect to ships that fly its flag 
 
 ### Regulation  5.1.1  
 
@@ -2042,7 +2042,7 @@ Purpose: To ensure that each Member implements its responsibilities under this C
 
 1. The competent authority should make appropriate arrangements to promote effective cooperation between public institutions and other organizations, referred to in Regulations 5.1.1 and 5.1.2, concerned with seafarers’ shipboard working and living conditions.  
 
-2. In order to better ensure cooperation between inspectors and shipowners, seafarers and their respective organizations, and to maintain or improve seafarers’ working and living conditions, the competent authority should consult the representatives of such organizations at regular intervals as to the best means of attaining these ends. The manner of such consultation should be determined by the competent authority after consulting with shipowners’ and seafarers’ organizations.    
+2. In order to better ensure cooperation between inspectors and shipowners, seafarers and their respective organizations, and to maintain or improve seafarers’ working and living conditions, the competent authority should consult the representatives of such organizations at regular intervals as to the best means of attaining these ends. The manner of such consultation should be determined by the competent authority after consulting with shipowners’ and seafarers’ organizations.   
 
 ### Regulation  5.1.2  
 
@@ -2107,7 +2107,7 @@ h) the competent authority’s supervision of activities delegated to the recogn
 
 5. Each Member should require the recognized organizations to maintain records of the services performed by them such that they are able to demonstrate achievement of the required standards in the items covered by the services.  
 
-6. In establishing the oversight procedures referred to in Standard A5.1.2, paragraph 3b), each Member should take into account the Guidelines for the Authorization of Organizations Acting on Behalf of the Administration, adopted in the framework of the International Maritime Organization.    
+6. In establishing the oversight procedures referred to in Standard A5.1.2, paragraph 3b), each Member should take into account the Guidelines for the Authorization of Organizations Acting on Behalf of the Administration, adopted in the framework of the International Maritime Organization.   
 
 ### Regulation  5.1.3  
 
@@ -2199,7 +2199,7 @@ e) when substantial changes have been made to the structure or equipment covered
 
 5. An example of the kind of information that might be contained in a declaration of maritime labour compliance is given in Appendix B5-I.  
 
-6. When a ship changes flag as referred to in Standard A5.1.3, paragraph 14c), and where both States concerned have ratified this Convention, the Member whose flag the ship was formerly entitled to fly should, as soon as possible, transmit to the competent authority of the other Member copies of the maritime labour certificate and the declaration of maritime labour compliance carried by the ship before the change of flag and, if applicable, copies of the relevant inspection reports if the competent authority so requests within three months after the change of flag has taken place.    
+6. When a ship changes flag as referred to in Standard A5.1.3, paragraph 14c), and where both States concerned have ratified this Convention, the Member whose flag the ship was formerly entitled to fly should, as soon as possible, transmit to the competent authority of the other Member copies of the maritime labour certificate and the declaration of maritime labour compliance carried by the ship before the change of flag and, if applicable, copies of the relevant inspection reports if the competent authority so requests within three months after the change of flag has taken place.   
 
 ### Regulation  5.1.4  
 
@@ -2314,7 +2314,7 @@ d) statistics on all seafarers subject to its national laws and regulations;
 
 e) statistics and information on violations of legislation, penalties imposed and cases of detention of ships; and  
 
-f) statistics on reported occupational injuries and diseases affecting seafarers.      
+f) statistics on reported occupational injuries and diseases affecting seafarers.     
 
 ### Regulation  5.1.5  
 
@@ -2352,7 +2352,7 @@ e) all complaints and the decisions on them should be recorded and a copy provid
 
 f) if a complaint cannot be resolved on board, the matter should be referred ashore to the shipowner, who should be given an appropriate time limit for resolving the matter, where appropriate, in consultation with the seafarers concerned or any person they may appoint as their representative; and  
 
-g) in all cases seafarers should have a right to file their complaints directly with the master and the shipowner and competent authorities.      
+g) in all cases seafarers should have a right to file their complaints directly with the master and the shipowner and competent authorities.     
 
 ### Regulation  5.1.6  
 
@@ -2365,13 +2365,13 @@ g) in all cases seafarers should have a right to file their complaints directly 
 (No provisions) 
 ###Guideline B5.1.6 – Marine casualties
 
-(No provisions)  
+(No provisions) 
 
 ### Regulation  5.2  
 
 ####– Port State responsibilities
 
-Purpose: To enable each Member to implement its responsibilities under this Convention regarding international cooperation in the implementation and enforcement of the Convention standards on foreign ships  
+Purpose: To enable each Member to implement its responsibilities under this Convention regarding international cooperation in the implementation and enforcement of the Convention standards on foreign ships 
 
 ### Regulation  5.2.1  
 
@@ -2421,7 +2421,7 @@ b) the non-conformity constitutes a serious or repeated breach of the requiremen
 
 2. When developing a policy relating to the circumstances warranting a detention of the ship under Standard A5.2.1, paragraph 6, of the competent authority should consider that, with respect to the breaches referred to in Standard A5.2.1, paragraph 6b), the seriousness could be due to the nature of the deficiency concerned. This would be particularly relevant in the case of the violation of fundamental rights and principles or seafarers’ employment and social rights under Articles III and IV. For example, the employment of a person who is under age should be considered as a serious breach even if there is only one such person on board. In other cases, the number of different defects found during a particular inspection should be taken into account: for example, several instances of defects relating to accommodation or food and catering which do not threaten safety or health might be needed before they should be considered as constituting a serious breach.  
 
-3. Members should cooperate with each other to the maximum extent possible in the adoption of internationally agreed guidelines on inspection policies, especially those relating to the circumstances warranting the detention of a ship.    
+3. Members should cooperate with each other to the maximum extent possible in the adoption of internationally agreed guidelines on inspection policies, especially those relating to the circumstances warranting the detention of a ship.   
 
 ### Regulation  5.2.2  
 
@@ -2453,7 +2453,7 @@ b) the non-conformity constitutes a serious or repeated breach of the requiremen
 
 4. In any investigation of a complaint, the authorized officer should give the master, the shipowner and any other person involved in the complaint a proper opportunity to make known their views.  
 
-5. In the event that the flag State demonstrates, in response to the notification by the port State in accordance with paragraph 5 of Standard A5.2.2, that it will handle the matter, and that it has in place effective procedures for this purpose and has submitted an acceptable plan of action, the authorized officer may refrain from any further involvement with the complaint.    
+5. In the event that the flag State demonstrates, in response to the notification by the port State in accordance with paragraph 5 of Standard A5.2.2, that it will handle the matter, and that it has in place effective procedures for this purpose and has submitted an acceptable plan of action, the authorized officer may refrain from any further involvement with the complaint.   
 
 ### Regulation  5.3  
 
@@ -2473,283 +2473,283 @@ Purpose: To ensure that each Member implements its responsibilities under this C
 1. Each Member shall enforce the requirements of this Convention applicable to the operation and practice of seafarer recruitment and placement services established on its territory through a system of inspection and monitoring and legal proceedings for breaches of licensing and other operational requirements provided for in Standard A1.4.   
 ###Guideline B5.3 – Labour-supplying responsibilities
 
-1. Private seafarer recruitment and placement services established in the Member’s territory and securing the services of a seafarer for a shipowner, wherever located, should be required to assume obligations to ensure the proper fulfilment by shipowners of the terms of their employment agreements concluded with seafarers.    
+1. Private seafarer recruitment and placement services established in the Member’s territory and securing the services of a seafarer for a shipowner, wherever located, should be required to assume obligations to ensure the proper fulfilment by shipowners of the terms of their employment agreements concluded with seafarers.   
 
 ### Appendix  A5-I  
 
 The working and living conditions of seafarers that must be inspected and approved by the flag State before certifying a ship in accordance with Standard A5.1.3, paragraph 1: 
 
-Minimum age  
+Minimum age
 
-Medical certification  
+Medical certification
 
-Qualifications of seafarers  
+Qualifications of seafarers
 
-Seafarers’ employment agreements  
+Seafarers’ employment agreements
 
-Use of any licensed or certified or regulated private recruitment and placement service  
+Use of any licensed or certified or regulated private recruitment and placement service
 
-Hours of work or rest  
+Hours of work or rest
 
-Manning levels for the ship  
+Manning levels for the ship
 
-Accommodation  
+Accommodation
 
-On-board recreational facilities  
+On-board recreational facilities
 
-Food and catering  
+Food and catering
 
-Health and safety and accident prevention  
+Health and safety and accident prevention
 
-On-board medical care  
+On-board medical care
 
-On-board complaint procedures  
+On-board complaint procedures
 
-Payment of wages     
+Payment of wages   
 
-### Appendix  A5-II  
+###Appendix A5-II 
 
 ####Interim Maritime Labour Certificate
 
-*(Note: This Certificate shall have a Declaration of Maritime Labour Compliance attached)*  Issued under the provisions of Article V and Title 5 of the Maritime Labour Convention, 2006 (reffered to below as “the Convention”) under the authority of the Government of: .......................................................................................... (full designation of the State whose flag the ship is entitled to fly) by ......................................................................................... (full designation and address of the competent authority or recognized organization duly authorized under the provisions of the Convention) 
+*(Note: This Certificate shall have a Declaration of Maritime Labour Compliance attached)*Issued under the provisions of Article V and Title 5 of the Maritime Labour Convention, 2006(referred to below as “the Convention”) under the authority of the Government of:..........................................................................................(full designation of the State whose flag the ship is entitled to fly)by .........................................................................................(full designation and address of the competent authority or recognized organization duly authorized under the provisions of the Convention)
 ###Particulars of the ship
 
-Name of ship .......................................................................................... Distinctive number or letters ......................................................................... Port of registry ......................................................................................... Date of registry ........................................................................................ Gross tonnage .................................................................................................................... <sup> 1  For ships covered by the tonnage measurement interim scheme adopted by the IMO, the gross tonnage is that which is included in the REMARKS column of the International Tonnage Certificate (1969). See Article II(1)(c) of the Convention.  </sup> IMO number ............................................................................................ Type of ships .................................................................................................. Name and address of the shipowner ............................................................................................................................................................................................................................................................ <sup> 2  *Shipowner* means the owner of the ship or another organization or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Convention, regardless of whether any other organization or persons fulfil certain of the duties or responsibilities on behalf of the shipowner. See article II(1)(j) of the Convention.  </sup> This is to certify: 
+Name of ship ..........................................................................................Distinctive number or letters .........................................................................Port of registry .........................................................................................Date of registry ........................................................................................Gross tonnage<sup>1For ships covered by the tonnage measurement interim scheme adopted by the IMO, the gross tonnage is that which is included in the REMARKS column of the International Tonnage Certificate (1969). See Article II(1)(c) of the Convention.</sup> ....................................................................................................................IMO number ............................................................................................Type of ships ..................................................................................................Name and address of the shipowner<sup>2*Shipowner* means the owner of the ship or another organization or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Convention, regardless of whether any other organization or persons fulfil certain of the duties or responsibilities on behalf of the shipowner. See article II(1)(j) of the Convention.</sup> ............................................................................................................................................................................................................................................................This is to certify:
 
-1. That this ship has been inspected and verified to be in compliance with the requirements of the Convention, and the provisions of the attached Declaration of Maritime Labour Compliance.  
+1.That this ship has been inspected and verified to be in compliance with the requirements of the Convention, and the provisions of the attached Declaration of Maritime Labour Compliance.
 
-2. That the seafarers' working and living conditions specified in Appendix A5-1 of the Convention were found to correspond to the abovementioned country's national requirements implementing the Convention. These national requirements are summarized in the Declaration of Maritime Labour Compliance, Part I.   This Certificate is valid until .......................... subject to inspections in accordance with Standards A5.1.3 and A5.1.4 of the Convention. This Certificate is valid only when the Declaration of Maritime Labour Compliance issued at ................................................ on ......................................................... is attached. Completion date of the inspection on which this Certificate is based was .................................... Issued at .................................. on ................................................................. Signature of the duly authorized official issuing the Certificate (Seal or stamp of issuing authority, as appropriate) 
+2.That the seafarers' working and living conditions specified in Appendix A5-1 of the Convention were found to correspond to the abovementioned country's national requirements implementing the Convention. These national requirements are summarized in the Declaration of Maritime Labour Compliance, Part I.This Certificate is valid until .......................... subject to inspections in accordance with Standards A5.1.3 and A5.1.4 of the Convention.This Certificate is valid only when the Declaration of Maritime Labour Compliance issued at ................................................ on ......................................................... is attached.Completion date of the inspection on which this Certificate is based was ....................................Issued at .................................. on .................................................................Signature of the duly authorized official issuing the Certificate(Seal or stamp of issuing authority, as appropriate)
 ###Endorsements for mandatory intermediate inspection and, if required, any additional inspection
 
-This is to certify that the ship was inspected in accordance with Standards A5.1.3 and A5.1.4 of the Convention and that the seafarers' working and living conditions specified in Appendix A5-1 of the Convention were found to correspond to the abovementioned country's national requirements implementing the Convention.  
+This is to certify that the ship was inspected in accordance with Standards A5.1.3 and A5.1.4 of the Convention and that the seafarers' working and living conditions specified in Appendix A5-1 of the Convention were found to correspond to the abovementioned country's national requirements implementing the Convention.
 
 | --- | --- |
 |:---|:---|
-|  *Intermediate inspection:*   (to be completed between the second and third anniversary dates)  | Signed  .....................................................  (Signature of authorized official)  ......................................................  |
-| --- | Place ............................................  |
-| --- | Date ..............................................  (Seal or stamp of the authority, as approriate)  |
+|*Intermediate inspection:* (to be completed between the second and third anniversary dates) |Signed ..................................................... (Signature of authorized official) ...................................................... |
+| --- |Place ............................................ |
+| --- |Date .............................................. (Seal or stamp of the authority, as approriate) |
 
 ###Additional endorsements (if required)
 
-This is to certify that the ship was the subject of an additional inspection for the purpose of verifying that the ship continued to be in compliance with the national requirements implementing the Convention, as required by Standard A3.1, paragraph 3, of the Convention (re-registration or substantial alteration of accommodation) or for other reasons.  
+This is to certify that the ship was the subject of an additional inspection for the purpose of verifying that the ship continued to be in compliance with the national requirements implementing the Convention, as required by Standard A3.1, paragraph 3, of the Convention (re-registration or substantial alteration of accommodation) or for other reasons.
 
 | --- | --- |
 |:---|:---|
-|  *Additional inspection:*   (if required)  | Signed .........................................................  (Signature of authorized official)  |
-| --- | Place ...............................................  |
-| --- | Date ...............................................  |
-| --- | (Seal or stamp of the authority, as appropriate)  |
-|  *Additional inspection:*   (if required)  | Signed .........................................................  (Signature of authorized official)  ..............................................................  |
-| --- | Place ...............................................  |
-| --- | Date ...............................................  |
-| --- | (Seal or stamp of the authority, as appropriate)  |
-|  *Additional inspection:*   (if required)  | Signed .........................................................  (Signature of authorized official)  |
-| --- | Place ...............................................  |
-| --- | Date ...............................................  |
-| --- | (Seal or stamp of the authority, as appropriate)  |
+|*Additional inspection:* (if required) |Signed .........................................................  (Signature of authorized official) |
+| --- |Place ............................................... |
+| --- |Date ............................................... |
+| --- |(Seal or stamp of the authority, as appropriate) |
+|*Additional inspection:* (if required) |Signed .........................................................  (Signature of authorized official) .............................................................. |
+| --- |Place ............................................... |
+| --- |Date ............................................... |
+| --- |(Seal or stamp of the authority, as appropriate) |
+|*Additional inspection:* (if required) |Signed .........................................................  (Signature of authorized official) |
+| --- |Place ............................................... |
+| --- |Date ............................................... |
+| --- |(Seal or stamp of the authority, as appropriate) |
 
 ###Maritime Labour Convention, 2006
 
 ###Declaration of Maritime Labour Compliance - Part I
 
-*(Note: This Declaration must be attached to the ship's Maritime Labour Certificate)*  Issued under the authority of: *Insert name of competent authority as defined in Article II, paragraph 1(a), of the Convention)* With respect to the provisions of the Maritime Labour Convention, 2006, the following referenced ship:  
+*(Note: This Declaration must be attached to the ship's Maritime Labour Certificate)*Issued under the authority of: *Insert name of competent authority as defined in Article II, paragraph 1(a), of the Convention)*With respect to the provisions of the Maritime Labour Convention, 2006, the following referenced ship:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Name of ship  | IMO number  | Gross tonnage  |
+|Name of ship |IMO number |Gross tonnage |
 | --- | --- | --- |
 
-is maintained in accordance with Standard A5.1.3 of the Convention. The undersigned declares, on behalf of the abovementioned competent authority, that: 
+is maintained in accordance with Standard A5.1.3 of the Convention.The undersigned declares, on behalf of the abovementioned competent authority, that:
 
-(a) the provisions of the Maritime Labour Convention are fully embodied in the national requirements referred to below;  
+(a)the provisions of the Maritime Labour Convention are fully embodied in the national requirements referred to below;
 
-(b) these national requirements are contained in the national provisions referenced below; explanations concerning the content of those provisions are provided where necessary;  
+(b)these national requirements are contained in the national provisions referenced below; explanations concerning the content of those provisions are provided where necessary;
 
-(c) the details of any substantial equivalencies under Article VI, paragraphs 3 and 4, are provided <under the corresponding national requirement listed below><in the section provided for this purpose below> *(strike out the statement which is not applicable)*;  
+(c)the details of any substantial equivalencies under Article VI, paragraphs 3 and 4, are provided <under the corresponding national requirement listed below><in the section provided for this purpose below> *(strike out the statement which is not applicable)*;
 
-(d) any exemptions granted by the competent authority in accordance with Title 3 are clearly indicated in the section provided for this purpose below; and  
+(d)any exemptions granted by the competent authority in accordance with Title 3 are clearly indicated in the section provided for this purpose below; and
 
-(e) any ship-type specific requirements under national legislation are also referenced under the requirements concerned.   
+(e)any ship-type specific requirements under national legislation are also referenced under the requirements concerned.
 
-1. Minimum age (Regulation 1.1)....................  
+1.Minimum age (Regulation 1.1)....................
 
-2. Medical certification (Regulation 1.2)  
+2.Medical certification (Regulation 1.2)
 
-3. Qualifications of seafarers (Regulation 1.3)  
+3.Qualifications of seafarers (Regulation 1.3)
 
-4. Seafarers' employment agreements (Regulation 2.1)  
+4.Seafarers' employment agreements (Regulation 2.1)
 
-5. Use of any licensed or certified or regulated private recruitment and placement service (Regulation 1.4)  
+5.Use of any licensed or certified or regulated private recruitment and placement service (Regulation 1.4)
 
-6. Hours of work or rest (Regulation 2.3)  
+6.Hours of work or rest (Regulation 2.3)
 
-7. Manning levels for the ships (Regulation 2.7)  
+7.Manning levels for the ships (Regulation 2.7)
 
-8. Accommodation (Regulation 3.1)  
+8.Accommodation (Regulation 3.1)
 
-9. On-board recreational facilities (Regulation 3.2)  
+9.On-board recreational facilities (Regulation 3.2)
 
-10. Food and catering (Regulation 3.2)  
+10.Food and catering (Regulation 3.2)
 
-11. Health and safety and accident prevention (Regulation 4.3)  
+11.Health and safety and accident prevention (Regulation 4.3) 
 
-12. On-board medical care (Regulation 4.1)  
+12.On-board medical care (Regulation 4.1)
 
-13. On-board complaint procedures (Regulation 5.1.5)  
+13.On-board complaint procedures (Regulation 5.1.5)
 
-14. Payment of wages (Regulation 2.2)    
+14.Payment of wages (Regulation 2.2)
 
 | --- | --- |
 |:---|:---|
-| --- | Name: .................................................  |
-| Title: ....................................................  |
-| Signature: ............................................  |
-| Place: ..................................................  |
-| Date: ....................................................  |
-| (Seal or stamp of the authority, as appropriate)  |
+| --- |Name: ................................................. |
+|Title: .................................................... |
+|Signature: ............................................ |
+|Place: .................................................. |
+|Date: .................................................... |
+|(Seal or stamp of the authority, as appropriate) |
 
 ###Substantial equivalencies
 
-*(Note: Strike out the statement which is not applicable)*  The following substantial equivalencies, as provided under Article VI, paragraphs 3 and 4, of the Convention, except where stated above, are noted *(insert description of applicable)*; ................................................................................................................... ................................................................................................................... No equivalency has been granted.  
+*(Note: Strike out the statement which is not applicable)*The following substantial equivalencies, as provided under Article VI, paragraphs 3 and 4, of the Convention, except where stated above, are noted *(insert description of applicable)*;......................................................................................................................................................................................................................................No equivalency has been granted.
 
 | --- | --- |
 |:---|:---|
-| --- | Name: .................................................  |
-| Title: ....................................................  |
-| Signature: ............................................  |
-| Place: ..................................................  |
-| Date: ....................................................  |
-| (Seal or stamp of the authority, as appropriate)  |
+| --- |Name: ................................................. |
+|Title: .................................................... |
+|Signature: ............................................ |
+|Place: .................................................. |
+|Date: .................................................... |
+|(Seal or stamp of the authority, as appropriate) |
 
 ###Exemptions
 
-*(Note: Strike out the statement which is not applicable)*  The following exemptions granted by the competent authority as provided in Title 3 of the Convention are noted: ................................................................................................................... ................................................................................................................... No exemption has been granted.  
+*(Note: Strike out the statement which is not applicable)*The following exemptions granted by the competent authority as provided in Title 3 of the Convention are noted:......................................................................................................................................................................................................................................No exemption has been granted.
 
 | --- | --- |
 |:---|:---|
-| --- | Name: .................................................  |
-| Title: ....................................................  |
-| Signature: ............................................  |
-| Place: ..................................................  |
-| Date: ....................................................  |
-| (Seal or stamp of the authority, as appropriate)  |
+| --- |Name: ................................................. |
+|Title: .................................................... |
+|Signature: ............................................ |
+|Place: .................................................. |
+|Date: .................................................... |
+|(Seal or stamp of the authority, as appropriate) |
 
 ###Declaration of Maritime Labour Compliance - Part II
 
-Measures adopted to ensure ongoing compliance between inspections The following measures have been drawn up by the shipowner, named in the Maritime Labour Certificate to which this Declararion is attached, to ensure ongoing complaince between inspections:  *(State below the measures drawn up to ensure compliance with each of the items in Part I)*    ![10000056743](http://wetten.overheid.nl/Illustration/10000056743)
-I hereby certify that the above measures have been drawn up to ensure ongoing compliance, between inspections, with the requirements listed in Part I.  
+Measures adopted to ensure ongoing compliance between inspectionsThe following measures have been drawn up by the shipowner, named in the Maritime Labour Certificate to which this Declaration is attached, to ensure ongoing compliance between inspections:*(State below the measures drawn up to ensure compliance with each of the items in Part I)*![10000056743](http://wetten.overheid.nl/Illustration/10000056743)
+I hereby certify that the above measures have been drawn up to ensure ongoing compliance, between inspections, with the requirements listed in Part I.
 
 | --- | --- |
 |:---|:---|
-| --- | Name of shipowner: <sup>1</sup>......................................................................................................  |
-| Company address: ..................................................................................................  |
-| Name of the authorized signatory: .....................................................................................................  |
-| Date: ....................................................  |
-| (Stamp or seal of the shipowner <sup>1</sup>)  |
+| --- |Name of shipowner:<sup>1</sup> ...................................................................................................... |
+|Company address: .................................................................................................. |
+|Name of the authorized signatory: ..................................................................................................... |
+|Date: .................................................... |
+|(Stamp or seal of the shipowner<sup>1</sup>) |
 
-<sup>1</sup>*Shipowner* means the owner of the ship or another organization or person, such as the manager, agent or bareboat charterer, who had assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and repsonsibilities imposed on shipowners in accordance with this Convention, regardless of whether any other organizations or persons fulfil certain of the duties or responsibilities on behalf of the shipowner. See article II(1)(j) of the Convention. The above measures have been reviewed by *(insert name of competent authority or duly recognized organization)* and, following inspection of the ship, have been determined as meeting the purposes set out under Standard A5.1.3, paragraph 10(b), regarding measures to ensure initial and ongoing complaince with the requirements set out in Part I of this Declaration.  
+<sup>1</sup> *Shipowner* means the owner of the ship or another organization or person, such as the manager, agent or bareboat charterer, who had assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Convention, regardless of whether any other organizations or persons fulfil certain of the duties or responsibilities on behalf of the shipowner. See article II(1)(j) of the Convention.The above measures have been reviewed by *(insert name of competent authority or duly recognized organization)* and, following inspection of the ship, have been determined as meeting the purposes set out under Standard A5.1.3, paragraph 10(b), regarding measures to ensure initial and ongoing complaince with the requirements set out in Part I of this Declaration.
 
 | --- | --- |
 |:---|:---|
-| --- | Name: .................................................  |
-| Title: ....................................................  |
-| Address: ...............................................................................................................................................................................  |
-| Place: ..................................................  |
-| Date: ....................................................  |
-| (Seal or stamp of the authority, as appropriate)  |
+| --- |Name: ................................................. |
+|Title: .................................................... |
+|Address: ............................................................................................................................................................................... |
+|Place: .................................................. |
+|Date: .................................................... |
+|(Seal or stamp of the authority, as appropriate) |
 
 ###Interim Maritime Labour Certificate
 
-Issued under the provision of Article V and Title 5 of the Maritime Labour Convention, 2006 (referred to below as “the Convention ” under the authority of the Government of: ................................................................................................... (full designation of the State whose flag the ship is entitled to fly) by ............................................................................................... (full designation and address of the competent authority or recognized organization duly authorized under the provision of the Convention) 
+Issued under the provision of Article V and Title 5 of the Maritime Labour Convention, 2006(referred to below as “the Convention” under the authority of the Government of:...................................................................................................(full designation of the State whose flag the ship is entitled to fly)by ...............................................................................................(full designation and address of the competent authority or recognized organization duly authorized under the provision of the Convention)
 ###Particulars of the ship
 
-Name of the ship ............................................................................................ Distinctive number of letters ............................................................................. Port of registry ................................................................................................ Date of registry ............................................................................................... Gross tonnage .............................................................................. <sup> 1  For ships covered by the tonnage measurement interim scheme adopted by the IMO, the gross tonnage is that which is included in the REMARKS column of the International Tonnage Certificate (1969). See Article II(1)(c) of the Convention.  </sup> IMO number .................................................................................................... Type of ship .................................................................................................... Name and address of the shipowner <sup> 2  *Shipowner* means the owner of the ship or antoher organization or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Convention, regardless of whether any other organizations or persons fulfil certain of the duties or responsibilities on behalf of the shipowner. See Article II(1)(j) of the Convention.  </sup> This is to certify, for the purposes of Standard A5.1.3, paragraph 7, of the Convention, that: 
+Name of the ship ............................................................................................Distinctive number of letters .............................................................................Port of registry ................................................................................................Date of registry ...............................................................................................Gross tonnage<sup>1For ships covered by the tonnage measurement interim scheme adopted by the IMO, the gross tonnage is that which is included in the REMARKS column of the International Tonnage Certificate (1969). See Article II(1)(c) of the Convention.</sup> ..............................................................................IMO number ....................................................................................................Type of ship ....................................................................................................Name and address of the shipowner<sup>2*Shipowner* means the owner of the ship or another organization or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Convention, regardless of whether any other organizations or persons fulfil certain of the duties or responsibilities on behalf of the shipowner. See Article II(1)(j) of the Convention.</sup>This is to certify, for the purposes of Standard A5.1.3, paragraph 7, of the Convention, that:
 
-(a) this ship has been inspected, as far as reasonable and practicable, for the matters listed in Appendix A5-I to the Convention, taking into accountverification of items under (b), (c) and (d) below;  
+(a)this ship has been inspected, as far as reasonable and practicable, for the matters listed in Appendix A5-I to the Convention, taking into accountverification of items under (b), (c) and (d) below;
 
-(b) the shipowner has demonstrated to the competent authority or recognized organization that the ship has adequate procedures to comply with the Convention;  
+(b)the shipowner has demonstrated to the competent authority or recognized organization that the ship has adequate procedures to comply with the Convention;
 
-(c) the master is familiar with the requirements of the Convention and the responsibilities for implementation; and  
+(c)the master is familiar with the requirements of the Convention and the responsibilities for implementation; and
 
-(d) relevant information has been submitted to the competent authority or recognized organization to produce a Declaration of Maritime Labour Compliance.   This Certificate is valid until ......................... subject to inspections in accordance with Standards A5.1.3 and A5.1.4. Completion date of the inspection referred to under (a) above was ....................... Issued at ....................... on ........................................................... Signature of the duly authorized official issuing the interim certificate ....................................................................................................................... (Seal or stamp of issuing authority, as appropriate)   
+(d)relevant information has been submitted to the competent authority or recognized organization to produce a Declaration of Maritime Labour Compliance.This Certificate is valid until ......................... subject to inspections in accordance with Standards A5.1.3 and A5.1.4.Completion date of the inspection referred to under (a) above was .......................Issued at ....................... on ...........................................................Signature of the duly authorized official issuing the interim certificate.......................................................................................................................(Seal or stamp of issuing authority, as appropriate)
 
-### Appendix  A5-III  
+###Appendix A5-III 
 
-General areas that are subject to a detailed inspection by an authorized officer in a port of a Member carrying out a port State inspection pursuant to Standard A5.2.1: 
+General areas that are subject to a detailed inspection by an authorized officer in a port of a Member carrying out a port State inspection pursuant to Standard A5.2.1:
 
-Minimum age  
+Minimum age
 
-Qualifications of seafarers  
+Qualifications of seafarers
 
-Seafarers' employment agreements  
+Seafarers' employment agreements
 
-Use of any licensed or certified or regulated private recruitment and placement service  
+Use of any licensed or certified or regulated private recruitment and placement service
 
-Hours of work or rest  
+Hours of work or rest
 
-Manning levels for the ship  
+Manning levels for the ship
 
-Accommodation  
+Accommodation
 
-On-board recreational facilities  
+On-board recreational facilities
 
-Food and catering  
+Food and catering
 
-Health and safety and accident prevention  
+Health and safety and accident prevention
 
-On-board medical care  
+On-board medical care
 
-On-board complaint procedures  
+On-board complaint procedures
 
-Payment of wages     
+Payment of wages
 
-### Appendix  B5-I  
+###Appendix B5-I 
 
 ####EXAMPLE OF A NATIONAL DECLARATION
 
-See Guideline B5.1.3, paragraph 5  Maritime Labour Convention, 2006  Declaration of Maritime Labour Compliance - Part I  *(Note: This Declaration must be attached to the ship's Maritime Labour Certificate)*  Issued under the authority of: The Ministry of Maritime Transport of Xxxxxx With respect to the provisions of the Maritime Labour Convention, 2006, the following referenced ship:  
+See Guideline B5.1.3, paragraph 5Maritime Labour Convention, 2006Declaration of Maritime Labour Compliance - Part I*(Note: This Declaration must be attached to the ship's Maritime Labour Certificate)*Issued under the authority of: The Ministry of Maritime Transport of XxxxxxWith respect to the provisions of the Maritime Labour Convention, 2006, the following referenced ship:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Name of ship  | IMO-number  | Gross tonnage  |
-| M.S. EXAMPLE  | 12345  | 1,000  |
+|Name of ship |IMO-number |Gross tonnage |
+|M.S. EXAMPLE |12345 |1,000 |
 
-is maintained in accordance with Standard A5.1.3 of the Convention. The undersigned declares, on behalf of the abovementioned competent authority, that: 
+is maintained in accordance with Standard A5.1.3 of the Convention.The undersigned declares, on behalf of the abovementioned competent authority, that:
 
-(a) the provisions of the Maritime Labour Convention are fully embodied in the national requirements referred to below;  
+(a)the provisions of the Maritime Labour Convention are fully embodied in the national requirements referred to below;
 
-(b) these national requirements are contained in the national provisions referenced below; explaining concerning the content of those provisisions are provided where necessary;  
+(b)these national requirements are contained in the national provisions referenced below; explaining concerning the content of those provisions are provided where necessary;
 
-(c) the details of any substantial equivalencies under Article VI, paragraphs 3 and 4, are provided <under the corresponding national requirement listed below><in the section provided for this purpose below> *(strike out the statement which is not applicable)*;  
+(c)the details of any substantial equivalencies under Article VI, paragraphs 3 and 4, are provided <under the corresponding national requirement listed below><in the section provided for this purpose below> *(strike out the statement which is not applicable)*;
 
-(d) any exemptions granted by the competent authority in accordance with Title 3 are clearly indicated in the section provided for this purpose below; and  
+(d)any exemptions granted by the competent authority in accordance with Title 3 are clearly indicated in the section provided for this purpose below; and
 
-(e) any ship-type specific requirements under national legislation are also referenced under the requirements concerned.   
+(e)any ship-type specific requirements under national legislation are also referenced under the requirements concerned.
 
-1. Minimum age (Regulation 1.1)  *Shipping Law. No. 123 of 1905, as amended (“Law”), Chapter X; Shipping Regulations (“Regulations”), 2006 , Rules 1111-1222.*   *Minimum ages are those referred to in the Convention.*   *“Night” means 9 p.m. to 6.a.m. unless the Ministry of Maritime Transport (“Ministry”) approves a different period.*   *Examples of hazardous work restricted to 18-year-olds or over are listed in Schedule A hereto. In the case of cargo ships, no one under 18 may work in the areas marked on the ship's plan (to be attached to those Declaration) as “hazardous area”.*   
+1.Minimum age (Regulation 1.1)*Shipping Law. No. 123 of 1905, as amended (“Law”), Chapter X; Shipping Regulations (“Regulations”), 2006 , Rules 1111-1222.**Minimum ages are those referred to in the Convention.**“Night” means 9 p.m. to 6.a.m. unless the Ministry of Maritime Transport (“Ministry”) approves a different period.**Examples of hazardous work restricted to 18-year-olds or over are listed in Schedule A hereto. In the case of cargo ships, no one under 18 may work in the areas marked on the ship's plan (to be attached to this Declaration) as “hazardous area”.*
 
-2. Medical certification (Regulation 1.2)  *Law, Chapter XI: Regulations, Rules 1223-1233.*   *Medical certificates shall conform to the STCW requirements, where applicable; in other cases, the STCW requirements are applied with any necessary adjustments.*   *Qualified opticians on list approved by Ministry may issue certificates concerning eyesight.*   *Medical examinations follow the ILO/WHO Guidelines referred to in Guideline B1.2.1*  ........................................................................... ...........................................................................   
+2.Medical certification (Regulation 1.2)*Law, Chapter XI: Regulations, Rules 1223-1233.**Medical certificates shall conform to the STCW requirements, where applicable; in other cases, the STCW requirements are applied with any necessary adjustments.**Qualified opticians on list approved by Ministry may issue certificates concerning eyesight.**Medical examinations follow the ILO/WHO Guidelines referred to in Guideline B1.2.1*......................................................................................................................................................
 ###Declaration of Maritime Labour Compliance - Part II
 
-*Measures adopted to ensure ongoing compliance between inspections*  The following measures have been drawn up by the shipowner, named in the Maritime Labour Certificate to which this Declaration is attached, to ensure ongoing compliance between inspections:  *(State below the measures drawn up to ensure compliance with each of the items in Part I)*   
+*Measures adopted to ensure ongoing compliance between inspections*The following measures have been drawn up by the shipowner, named in the Maritime Labour Certificate to which this Declaration is attached, to ensure ongoing compliance between inspections:*(State below the measures drawn up to ensure compliance with each of the items in Part I)*
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 1.  | Minimum age (Regulation 1.1 )  | X  |
-| --- |  *Date of birth of each seafarer is noted against his/her name on the crew list.*   |
-|  *The list is checked at the beginning of each voyage by the master or officer acting on his or her behalf (“competent officer”), who records the date of such verification.*   |
-|  *Each seafarer under 18 receives, at the time of engagement, a note prohibiting him/her from performing night work or the work specifically listed as hazardous (see Part I, section I, above) and any other hazardous work, and requiring him/her to consult the competent opfficer in case of doubt. A copy of the note, with the seafarer's signature under “received and read”, and the date of signature, is kept by the competent officer.*   |
-| 2.  | Medical certification (Regulation 1.2 )  | X  |
-| --- |  *The medical certificates are kept in strict confidence by the competent officer, together with a list, prepared under the competent officer's responsibility and stating for each seafarer on board: the functions of the seafarer, the date of the current medical certificate(s) and the health status noted on the certificate concerned.*   |
-|  *In any case of possible doubt as to whether the seafarer is medically fit for a particular function or functions, the competent officer consults the seafarer's doctor or another qualified practitioner and records a summary of the practitioner's conclusions, as well as the practitioner's name and telephone number and the date of the consultation.*   |
-| ................................................................................................  ................................................................................................  |
+|1. |Minimum age (Regulation 1.1 ) |X |
+| --- |*Date of birth of each seafarer is noted against his/her name on the crew list.* |
+|*The list is checked at the beginning of each voyage by the master or officer acting on his or her behalf (“competent officer”), who records the date of such verification.* |
+|*Each seafarer under 18 receives, at the time of engagement, a note prohibiting him/her from performing night work or the work specifically listed as hazardous (see Part I, section I, above) and any other hazardous work, and requiring him/her to consult the competent officer in case of doubt. A copy of the note, with the seafarer's signature under “received and read”, and the date of signature, is kept by the competent officer. * |
+|2. |Medical certification (Regulation 1.2 ) |X |
+| --- |*The medical certificates are kept in strict confidence by the competent officer, together with a list, prepared under the competent officer's responsibility and stating for each seafarer on board: the functions of the seafarer, the date of the current medical certificate(s) and the health status noted on the certificate concerned.* |
+|*In any case of possible doubt as to whether the seafarer is medically fit for a particular function or functions, the competent officer consults the seafarer's doctor or another qualified practitioner and records a summary of the practitioner's conclusions, as well as the practitioner's name and telephone number and the date of the consultation.* |
+|................................................................................................ ................................................................................................ |
 
-The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organization during its Ninety-fourth Session which was held at Geneva and declared closed the 23 February 2006.   
+The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organization during its Ninety-fourth Session which was held at Geneva and declared closed the 23 February 2006.
 IN FAITH WHEREOF we have appended our signatures this twenty-third day of February 2006.  
 
 ####Maritiem arbeidsverdrag, 2006
 
-*Preambule*  De Algemene Conferentie van de Internationale Arbeidsorganisatie, Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau en aldaar bijeengekomen in haar vierennegentigste zitting op 7 februari 2006, en Geleid door de wens een enkel, samenhangend instrument te creëren waarin voor zover mogelijk alle actuele normen van bestaande verdragen en aanbevelingen inzake internationale maritieme arbeid worden opgenomen, alsmede de grondbeginselen van andere internationale arbeidsverdragen, in het bijzonder: 
+*Preambule* De Algemene Conferentie van de Internationale Arbeidsorganisatie, Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau en aldaar bijeengekomen in haar vierennegentigste zitting op 7 februari 2006, en Geleid door de wens een enkel, samenhangend instrument te creëren waarin voor zover mogelijk alle actuele normen van bestaande verdragen en aanbevelingen inzake internationale maritieme arbeid worden opgenomen, alsmede de grondbeginselen van andere internationale arbeidsverdragen, in het bijzonder: 
 
 – het [Verdrag betreffende gedwongen of verplichte arbeid](../../../../../verdrag/convention/concerning/forced/or/compulsory/labour/BWBV0006218/README.md), 1930 (Nr. 29);  
 
@@ -2765,14 +2765,14 @@ IN FAITH WHEREOF we have appended our signatures this twenty-third day of Februa
 
 – het [Verdrag betreffende de minimumleeftijd](../../../../../verdrag/convention/concerning/minimum/age/for/admission/to/employment/BWBV0003701/README.md), 1973 (Nr. 138);  
 
-– het [Verdrag betreffende de ergste vormen van kinderarbeid](../../../../../verdrag/convention/concerning/the/prohibition/and/immediate/action/for/the/etc/BWBV0001522/README.md), 1999 (Nr. 182); en   Indachtig het kernmandaat van de Organisatie, dat bestaat uit het bevorderen van goede arbeidsomstandigheden; en In herinnering roepend de Verklaring van de Internationale Arbeidsorganisatie inzake de fundamentele beginselen en rechten in verband met werk, 1998, en Tevens indachtig het feit dat op zeevarenden bepalingen van andere instrumenten van de Internationale Arbeidsorganisatie van toepassing zijn en dat zij andere rechten hebben die worden aangemerkt als fundamentele rechten en vrijheden die op alle personen van toepassing zijn, en Overwegend dat, gezien het mondiale karakter van de scheepvaartbranche, zeevarenden bijzondere bescherming behoeven, en Voorts indachtig de internationale normen inzake de veiligheid van schepen, de beveiliging van mensen en deugdelijk scheepsbeheer vervat in het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), als gewijzigd, het [Verdrag inzake de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972](../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md), als gewijzigd, en de vereisten voor zeevarenden inzake opleiding en vaardigheden vervat in het [Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978](../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), als gewijzigd, en In herinnering roepend dat het [Verdrag van de Verenigde Naties inzake het recht van de zee](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, een algemeen juridisch kader vormt waarbinnen alle activiteiten op de oceanen en zeeën moeten plaatsvinden en dat dat Verdrag van strategisch belang is als basis voor nationale, regionale en mondiale maatregelen en samenwerking in de mariene sector, en dat de integriteit ervan moet worden gehandhaafd, en In herinnering roepend dat in [artikel 94 van het Verdrag van de Verenigde Naties inzake het recht van de zee](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, de taken en verplichtingen van een vlaggenstaat zijn vastgelegd met betrekking tot, onder andere, arbeidsomstandigheden, bemannen en sociale aangelegenheden op schepen die de vlag van die Staat voeren, en In herinnering roepend [artikel 19, achtste lid, van het Statuut van de Internationale Arbeidsorganisatie](../../../../../verdrag/statuut/van/de/internationale/arbeidsorganisatie/BWBV0001986/README.md) dat bepaalt dat het aannemen van een verdrag of een aanbeveling door de Conferentie, of de bekrachtiging van een verdrag door een Lid, in geen geval wordt beschouwd als zijnde van invloed op een wet, uitspraak, gewoonte of overeenkomst die de betrokken werknemers gunstiger voorwaarden biedt dan dat verdrag of die aanbeveling, en Vastbesloten dat dit nieuwe instrument zodanig moet worden geformuleerd dat gewaarborgd wordt dat het zo breed mogelijk wordt aanvaard door regeringen, reders en zeevarenden die de beginselen van volwaardig werk onderschrijven, dat het gemakkelijk kan worden geactualiseerd en dat het effectief kan worden uitgevoerd en gehandhaafd, en Besloten hebbend tot het aannemen van bepaalde voorstellen met betrekking tot het in het leven roepen van een dergelijk instrument, welk onderwerp als enig punt op de agenda van de zitting staat, en Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een verdrag;   Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het volgende Verdrag aan, dat kan worden aangehaald als het Maritiem arbeidsverdrag, 2006.     
+– het [Verdrag betreffende de ergste vormen van kinderarbeid](../../../../../verdrag/convention/concerning/the/prohibition/and/immediate/action/for/the/etc/BWBV0001522/README.md), 1999 (Nr. 182); en   Indachtig het kernmandaat van de Organisatie, dat bestaat uit het bevorderen van goede arbeidsomstandigheden; en In herinnering roepend de Verklaring van de Internationale Arbeidsorganisatie inzake de fundamentele beginselen en rechten in verband met werk, 1998, en Tevens indachtig het feit dat op zeevarenden bepalingen van andere instrumenten van de Internationale Arbeidsorganisatie van toepassing zijn en dat zij andere rechten hebben die worden aangemerkt als fundamentele rechten en vrijheden die op alle personen van toepassing zijn, en Overwegend dat, gezien het mondiale karakter van de scheepvaartbranche, zeevarenden bijzondere bescherming behoeven, en Voorts indachtig de internationale normen inzake de veiligheid van schepen, de beveiliging van mensen en deugdelijk scheepsbeheer vervat in het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), als gewijzigd, het [Verdrag inzake de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972](../../../../../verdrag/convention/on/the/international/regulations/for/preventing/collisions/at/etc/BWBV0001014/README.md), als gewijzigd, en de vereisten voor zeevarenden inzake opleiding en vaardigheden vervat in het [Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978](../../../../../verdrag/international/convention/on/standards/of/training/certification/and/etc/BWBV0003452/README.md), als gewijzigd, en In herinnering roepend dat het [Verdrag van de Verenigde Naties inzake het recht van de zee](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, een algemeen juridisch kader vormt waarbinnen alle activiteiten op de oceanen en zeeën moeten plaatsvinden en dat dat Verdrag van strategisch belang is als basis voor nationale, regionale en mondiale maatregelen en samenwerking in de mariene sector, en dat de integriteit ervan moet worden gehandhaafd, en In herinnering roepend dat in [artikel 94 van het Verdrag van de Verenigde Naties inzake het recht van de zee](../../../../../verdrag/united/nations/convention/on/the/law/of/the/sea/BWBV0003172/README.md), 1982, de taken en verplichtingen van een vlaggenstaat zijn vastgelegd met betrekking tot, onder andere, arbeidsomstandigheden, bemannen en sociale aangelegenheden op schepen die de vlag van die Staat voeren, en In herinnering roepend [artikel 19, achtste lid, van het Statuut van de Internationale Arbeidsorganisatie](../../../../../verdrag/statuut/van/de/internationale/arbeidsorganisatie/BWBV0001986/README.md) dat bepaalt dat het aannemen van een verdrag of een aanbeveling door de Conferentie, of de bekrachtiging van een verdrag door een Lid, in geen geval wordt beschouwd als zijnde van invloed op een wet, uitspraak, gewoonte of overeenkomst die de betrokken werknemers gunstiger voorwaarden biedt dan dat verdrag of die aanbeveling, en Vastbesloten dat dit nieuwe instrument zodanig moet worden geformuleerd dat gewaarborgd wordt dat het zo breed mogelijk wordt aanvaard door regeringen, reders en zeevarenden die de beginselen van volwaardig werk onderschrijven, dat het gemakkelijk kan worden geactualiseerd en dat het effectief kan worden uitgevoerd en gehandhaafd, en Besloten hebbend tot het aannemen van bepaalde voorstellen met betrekking tot het in het leven roepen van een dergelijk instrument, welk onderwerp als enig punt op de agenda van de zitting staat, en Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een verdrag;  Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het volgende Verdrag aan, dat kan worden aangehaald als het Maritiem arbeidsverdrag, 2006.  
 
 ####Algemene verplichtingen
 
 ### Artikel  I  
 
 1.  Elk Lid dat dit Verdrag bekrachtigt, verplicht zich ertoe de bepalingen ervan volledig op de in artikel VI vervatte wijze ten uitvoer te leggen om het recht op volwaardig werk voor alle zeevarenden te waarborgen.   
-2.  De Leden werken met elkaar samen om de effectieve uitvoering en handhaving van dit Verdrag te waarborgen.   
+2.  De Leden werken met elkaar samen om de effectieve uitvoering en handhaving van dit Verdrag te waarborgen.  
 
 ####Begripsomschrijvingen en reikwijdte
 
@@ -2780,32 +2780,32 @@ IN FAITH WHEREOF we have appended our signatures this twenty-third day of Februa
 
 1.  Voor de toepassing van dit Verdrag wordt, tenzij in specifieke bepalingen anders wordt bepaald, verstaan onder: 
 
-a. *bevoegde autoriteit*, de minister die, het ministerie dat of een andere autoriteit die bevoegd is voorschriften, reglementen of andere instructies met kracht van wet uit te vaardigen en te handhaven met betrekking tot het onderwerp van de desbetreffende bepaling;  
+a.  *bevoegde autoriteit*, de minister die, het ministerie dat of een andere autoriteit die bevoegd is voorschriften, reglementen of andere instructies met kracht van wet uit te vaardigen en te handhaven met betrekking tot het onderwerp van de desbetreffende bepaling;  
 
-b. *verklaring naleving maritieme arbeid*, de in voorschrift 5.1.3 bedoelde verklaring;  
+b.  *verklaring naleving maritieme arbeid*, de in voorschrift 5.1.3 bedoelde verklaring;  
 
-c. *brutotonnage,* de brutotonnage berekend in overeenstemming met de voorschriften voor tonnagemetingen vervat in [Bijlage I bij het Internationaal Verdrag van 1969 betreffende de meting van schepen](../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md), of elk volgend verdrag; voor schepen waarop de door de Internationale Maritieme Organisatie aangenomen voorlopige regeling voor tonnagemetingen van toepassing is, is de brutotonnage hetgeen is opgenomen in de kolom OPMERKINGEN van het internationaal tonnagecertificaat (1969);  
+c.  *brutotonnage,* de brutotonnage berekend in overeenstemming met de voorschriften voor tonnagemetingen vervat in [Bijlage I bij het Internationaal Verdrag van 1969 betreffende de meting van schepen](../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md), of elk volgend verdrag; voor schepen waarop de door de Internationale Maritieme Organisatie aangenomen voorlopige regeling voor tonnagemetingen van toepassing is, is de brutotonnage hetgeen is opgenomen in de kolom OPMERKINGEN van het internationaal tonnagecertificaat (1969);  
 
-d. *maritiem arbeidscertificaat*, het in voorschrift 5.1.3 bedoelde certificaat;  
+d.  *maritiem arbeidscertificaat*, het in voorschrift 5.1.3 bedoelde certificaat;  
 
-e. *vereisten van dit Verdrag,* de vereisten in deze artikelen en in de voorschriften en Deel A van de Code van dit Verdrag;  
+e.  *vereisten van dit Verdrag,* de vereisten in deze artikelen en in de voorschriften en Deel A van de Code van dit Verdrag;  
 
-f. *zeevarende,* elke persoon die werkzaam is of is gecontracteerd of in enige hoedanigheid werkzaamheden verricht aan boord van een schip waarop dit Verdrag van toepassing is;  
+f.  *zeevarende,* elke persoon die werkzaam is of is gecontracteerd of in enige hoedanigheid werkzaamheden verricht aan boord van een schip waarop dit Verdrag van toepassing is;  
 
-g. *arbeidsovereenkomst van zeevarende*, zowel een tewerkstellingscontract als een arbeidsovereenkomst;  
+g.  *arbeidsovereenkomst van zeevarende*, zowel een tewerkstellingscontract als een arbeidsovereenkomst;  
 
-h. *wervings- en arbeidsbemiddelingsdienst voor zeevarenden,* personen, bedrijven, instellingen, bureaus of andere organisaties in de publieke of private sector, die zich bezighouden met de werving van zeevarenden in opdracht van reders of de plaatsing van zeevarenden bij reders;  
+h.  *wervings- en arbeidsbemiddelingsdienst voor zeevarenden,* personen, bedrijven, instellingen, bureaus of andere organisaties in de publieke of private sector, die zich bezighouden met de werving van zeevarenden in opdracht van reders of de plaatsing van zeevarenden bij reders;  
 
-i. *schip,* een schip anders dan een schip dat uitsluitend vaart op binnenwateren of wateren binnen, of dicht grenzend aan, beschutte wateren of gebieden waar havenvoorschriften gelden;  
+i.  *schip,* een schip anders dan een schip dat uitsluitend vaart op binnenwateren of wateren binnen, of dicht grenzend aan, beschutte wateren of gebieden waar havenvoorschriften gelden;  
 
-j. *reder,* de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overeenstemming met dit Verdrag aan reders worden opgelegd, te aanvaarden ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervullen.     
+j.  *reder,* de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overeenstemming met dit Verdrag aan reders worden opgelegd, te aanvaarden ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervullen.     
 2.  Behoudens waar uitdrukkelijk anders wordt bepaald, is dit Verdrag van toepassing op alle zeevarenden.   
 3.  In geval van twijfel of bepaalde categorieën personen voor de toepassing van dit Verdrag al dan niet moeten worden beschouwd als zeevarenden, doet de bevoegde autoriteit in elke lidstaat na overleg met de bij deze kwestie betrokken organisaties van reders en zeevarenden uitspraak.   
 4.  Behoudens waar uitdrukkelijk anders wordt bepaald, is dit Verdrag van toepassing op alle schepen, hetzij in staatseigendom hetzij in private eigendom, die doorgaans worden gebruikt voor commerciële activiteiten, anders dan schepen die worden gebruikt voor de visvangst of voor soortgelijke doeleinden en op traditioneel gebouwde schepen zoals dhows en jonken. Dit Verdrag is niet van toepassing op oorlogsschepen of mariene hulpschepen.   
 5.  Indien twijfel bestaat omtrent de vraag of dit Verdrag van toepassing is op een schip of een specifieke categorie schepen doet de bevoegde autoriteit in elke lidstaat na overleg met de betrokken organisaties van reders en zeevarenden uitspraak.   
 6.  Wanneer de bevoegde autoriteit bepaalt dat het op dat tijdstip niet praktisch uitvoerbaar of niet redelijk is bepaalde onderdelen van de in artikel VI, eerste lid, bedoelde Code toe te passen op een schip of bepaalde categorieën schepen die de vlag van het Lid voeren, zijn de desbetreffende bepalingen van de Code niet van toepassing voor zover het onderwerp in de nationale wet- en regelgeving of in collectieve arbeidsovereenkomsten of via andere maatregelen wordt geregeld. Een dergelijke uitspraak kan uitsluitend worden gedaan in overleg met de betrokken organisaties van reders en zeevarenden en uitsluitend ten aanzien van schepen met een brutotonnage van minder dan 200 ton die geen internationale reizen maken.   
 7.  Elke beslissing die door een Lid ingevolge het derde, vijfde, of zesde lid van dit artikel wordt genomen, moet aan de Directeur-Generaal van het Internationaal Arbeidsbureau worden medegedeeld, die de Leden van de Organisatie hiervan in kennis stelt.   
-8.  Tenzij uitdrukkelijk anders bepaald, vormt een verwijzing naar dit Verdrag tegelijkertijd een verwijzing naar de voorschriften en de Code.   
+8.  Tenzij uitdrukkelijk anders bepaald, vormt een verwijzing naar dit Verdrag tegelijkertijd een verwijzing naar de voorschriften en de Code.  
 
 ####Fundamentele rechten en beginselen
 
@@ -2819,7 +2819,7 @@ b. de uitbanning van alle vormen van gedwongen of verplichte arbeid;
 
 c. de daadwerkelijke afschaffing van kinderarbeid; en  
 
-d. de uitbanning van discriminatie ten aanzien van werkgelegenheid en beroepsuitoefening.    
+d. de uitbanning van discriminatie ten aanzien van werkgelegenheid en beroepsuitoefening.   
 
 ####Arbeids- en sociale rechten van zeevarenden
 
@@ -2829,7 +2829,7 @@ d. de uitbanning van discriminatie ten aanzien van werkgelegenheid en beroepsuit
 2.  Elke zeevarende heeft recht op eerlijke arbeidsvoorwaarden.   
 3.  Elke zeevarende heeft recht op behoorlijke arbeids- en leefomstandigheden aan boord van een schip.   
 4.  Elke zeevarende heeft recht op bescherming op het gebied van gezondheid, medische zorg, welzijnsmaatregelen en andere vormen van sociale bescherming.   
-5.  Elk Lid draagt er, binnen de grenzen van zijn rechtsbevoegdheid, zorg voor dat de rechten op het gebied van arbeid en sociale rechten van zeevarenden als vervat in de voorgaande leden van dit artikel volledig worden geïmplementeerd in overeenstemming met de vereisten van dit Verdrag. Tenzij in het Verdrag anders is bepaald, kan dit worden bewerkstelligd door middel van nationale wet- en regelgeving, via geldende collectieve arbeidsovereenkomsten, via andere maatregelen of in de praktijk.   
+5.  Elk Lid draagt er, binnen de grenzen van zijn rechtsbevoegdheid, zorg voor dat de rechten op het gebied van arbeid en sociale rechten van zeevarenden als vervat in de voorgaande leden van dit artikel volledig worden geïmplementeerd in overeenstemming met de vereisten van dit Verdrag. Tenzij in het Verdrag anders is bepaald, kan dit worden bewerkstelligd door middel van nationale wet- en regelgeving, via geldende collectieve arbeidsovereenkomsten, via andere maatregelen of in de praktijk.  
 
 ####Verantwoordelijkheden op het gebied van uitvoering en handhaving
 
@@ -2841,7 +2841,7 @@ d. de uitbanning van discriminatie ten aanzien van werkgelegenheid en beroepsuit
 4.  Een schip waarop dit Verdrag van toepassing is, kan, in overeenstemming met het internationaal recht, worden geïnspecteerd door een ander Lid dan de vlaggenstaat, wanneer het schip zich in een van zijn havens bevindt, teneinde vast te stellen of het schip voldoet aan de vereisten van dit Verdrag.   
 5.  Elk Lid oefent daadwerkelijk zijn rechtsbevoegdheid en toezicht uit ten aanzien van wervings- en arbeidsbemiddelingsdiensten, indien deze op zijn grondgebied zijn gevestigd.   
 6.  Elk Lid verbiedt schendingen van de vereisten van dit Verdrag en stelt, in overeenstemming met het internationaal recht, sancties op of verlangt het nemen, ingevolge zijn wetgeving, van corrigerende maatregelen die afdoende zijn om dergelijke schendingen te ontmoedigen.   
-7.  Elk Lid komt zijn verplichtingen ingevolge dit Verdrag op zodanige wijze na dat gewaarborgd wordt dat de schepen die de vlag voeren van een Staat die dit Verdrag niet heeft bekrachtigd geen gunstiger behandeling ontvangen dan de schepen die de vlag voeren van een Staat die het Verdrag wel heeft bekrachtigd.   
+7.  Elk Lid komt zijn verplichtingen ingevolge dit Verdrag op zodanige wijze na dat gewaarborgd wordt dat de schepen die de vlag voeren van een Staat die dit Verdrag niet heeft bekrachtigd geen gunstiger behandeling ontvangen dan de schepen die de vlag voeren van een Staat die het Verdrag wel heeft bekrachtigd.  
 
 ####Voorschriften en Delen A en B van de Code
 
@@ -2854,13 +2854,13 @@ d. de uitbanning van discriminatie ten aanzien van werkgelegenheid en beroepsuit
 
 a. deze bevorderlijk zijn voor het volledig realiseren van het algemene doel van de bepaling of bepalingen van Deel A van de desbetreffende Code; en  
 
-b. hiermee uitvoering wordt gegeven aan de bepaling of bepalingen van Deel A van de desbetreffende Code.     
+b. hiermee uitvoering wordt gegeven aan de bepaling of bepalingen van Deel A van de desbetreffende Code.    
 
 ####Overleg met organisaties van reders en zeevarenden
 
 ### Artikel  VII  
 
-Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van dit Verdrag waarvoor het Verdrag overleg verlangt met organisaties van reders en zeevarenden mag, in de gevallen waarin binnen een Lid geen representatieve organisaties van reders of van zeevarenden bestaan, door dat Lid uitsluitend een besluit worden genomen door middel van overleg met het in artikel XIII bedoelde Comité.  
+Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van dit Verdrag waarvoor het Verdrag overleg verlangt met organisaties van reders en zeevarenden mag, in de gevallen waarin binnen een Lid geen representatieve organisaties van reders of van zeevarenden bestaan, door dat Lid uitsluitend een besluit worden genomen door middel van overleg met het in artikel XIII bedoelde Comité. 
 
 ####Inwerkingtreding
 
@@ -2869,31 +2869,31 @@ Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van
 1.  De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau ten behoeve van registratie.   
 2.  Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtigingen door de Directeur-Generaal van het Internationaal Arbeidsbureau zijn geregistreerd.   
 3.  Het Verdrag treedt in werking 12 maanden na de datum waarop de bekrachtigingen zijn geregistreerd van ten minste 30 Leden die tezamen een aandeel hebben van 33% in het wereldbrutoscheepstonnage.   
-4.  Vervolgens treedt dit Verdrag voor elk Lid in werking 12 maanden na de datum waarop zijn bekrachtiging is geregistreerd.   
+4.  Vervolgens treedt dit Verdrag voor elk Lid in werking 12 maanden na de datum waarop zijn bekrachtiging is geregistreerd.  
 
 ####Opzegging
 
 ### Artikel  IX  
 
 1.  Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte akte ten behoeve van registratie. Deze opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.   
-2.  Elk Lid dat niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het eerste lid van dit artikel, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na het verstrijken van elke nieuwe termijn van tien jaar onder de voorwaarden voorzien in dit artikel.   
+2.  Elk Lid dat niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het eerste lid van dit artikel, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na het verstrijken van elke nieuwe termijn van tien jaar onder de voorwaarden voorzien in dit artikel.  
 
 ####Gevolgen van de inwerkingtreding
 
 ### Artikel  X  
 
-Dit Verdrag herziet de volgende Verdragen: Verdrag betreffende de minimumleeftijd (arbeid op zee), 1920 (Nr. 7) [Verdrag betreffende de werkloosheidsuitkering (schipbreuk)](../../../../../verdrag/convention/concerning/unemployment/indemnity/in/case/of/loss/or/foundering/etc/BWBV0006189/README.md), 1920 (Nr. 8) [Verdrag betreffende plaatsing van zeelieden](../../../../../verdrag/international/labour/conference./BWBV0006208/README.md), 1920 (Nr. 9) [Verdrag betreffende het geneeskundig onderzoek van kinderen en jeugdige personen werkzaam aan boord van schepen](../../../../../verdrag/convention/concerning/the/compulsory/medical/examination/of/children/and/etc/BWBV0006209/README.md), 1921 (Nr. 16) [Verdrag betreffende de arbeidsovereenkomst van schepelingen](../../../../../verdrag/convention/concerning/seamen's/articles/of/agreement/BWBV0006211/README.md), 1926 (Nr. 22) [Verdrag betreffende repatriëring van schepelingen](../../../../../verdrag/international/labour/conference/BWBV0006227/README.md), 1926 (Nr. 23) Verdrag betreffende de minimumeisen van beroepsbekwaamheid van kapiteins en officieren ter koopvaardij, 1936 (Nr. 53) Verdrag betreffende betaald verlof (arbeid op zee), 1936 (Nr. 54) Verdrag betreffende aansprakelijkheid van reders (ziekte en ongeval zeelieden), 1936 (Nr. 55) Verdrag betreffende ziekteverzekering van zeelieden, 1936 (Nr. 56) Verdrag betreffende de arbeidsduur aan boord en de bemanningssterkte, 1936 (Nr. 57) [Verdrag betreffende de minimumleeftijd (arbeid op zee) (herzien)](../../../../../verdrag/international/labour/conference/BWBV0006231/README.md), 1936 (Nr. 58) [Verdrag betreffende de voeding en de daarmee verband houdende verzorging (bemanning van schepen)](../../../../../verdrag/international/labour/conference/BWBV0005438/README.md), 1946 (Nr. 68) [Verdrag inzake het diploma van bekwaamheid als scheepskok](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (Nr. 69) Verdrag betreffende de sociale zekerheid van zeelieden, 1946 (Nr. 70) Verdrag betreffende vakantie met behoud van loon voor zeelieden, 1946 (Nr. 72) [Verdrag betreffende het geneeskundig onderzoek van zeelieden](../../../../../verdrag/international/labour/conference/BWBV0005435/README.md), 1946 (Nr. 73) [Verdrag inzake bewijzen van bekwaamheid als volmatroos](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (Nr. 74) Verdrag betreffende de huisvesting van de bemanning aan boord van schepen, 1946 (Nr. 75) Verdrag betreffende de lonen, de arbeidsduur aan boord en de bemanningssterkte, 1946 (Nr. 76) Verdrag betreffende de vakantie met behoud van loon van zeelieden (herzien), 1949 (Nr. 91) Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (herzien), 1949 (Nr. 92) Verdrag betreffende de lonen, de arbeidsduur aan boord en de bemanningssterkte (herzien), 1949 (Nr. 93) Verdrag betreffende de lonen, de arbeidsduur aan boord en de bemanningssterkte (herzien), 1958 (Nr. 109) [Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (aanvullende bepalingen)](../../../../../verdrag/convention/concerning/crew/accommodation/on/board/ship/BWBV0004640/README.md), 1970 (Nr. 133) Verdrag betreffende het voorkomen van ongevallen bij zeevarenden, 1970 (Nr. 134) [Verdrag betreffende de continuering van werkgelegenheid voor zeevarenden](../../../../../verdrag/convention/concerning/continuity/of/employment/of/seafarers/BWBV0003677/README.md), 1976 (Nr. 145) [Verdrag betreffende jaarlijks verlof met behoud van loon voor zeevarenden](../../../../../verdrag/convention/concerning/annual/leave/with/pay/for/seafarers/BWBV0003716/README.md), 1976 (Nr. 146) [Verdrag betreffende minimumnormen op koopvaardijschepen](../../../../../verdrag/verdrag/betreffende/minimumnormen/op/koopvaardijschepen/BWBV0003738/README.md), 1976 (Nr. 147) [Protocol van 1996 bij het Koopvaardijverdrag (minimumnormen)](../../../../../verdrag/protocol/van/1996/bij/het/koopvaardijverdrag/(minimumnormen)/1976/BWBV0001594/README.md), 1976 (Nr. 147) Verdrag betreffende het welzijn van zeevarenden, 1987 (Nr. 163) Verdrag betreffende de bescherming van de gezondheid en de medische zorg, 1987 (Nr. 164) Verdrag betreffende de sociale zekerheid van zeevarenden (herzien), 1987 (Nr. 165) Verdrag betreffende de repatriëring van zeevarenden (herzien), 1987 (Nr. 166) Arbeidsinspectieverdrag zeevarenden, 1996 (Nr. 178) Verdrag betreffende werving van en arbeidsbemiddeling voor zeevarenden, 1996 (Nr. 179) [Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen](../../../../../verdrag/convention/concerning/seafarers'/hours/of/work/and/the/manning/of/ships/BWBV0001593/README.md), 1996 (Nr. 180).  
+Dit Verdrag herziet de volgende Verdragen: Verdrag betreffende de minimumleeftijd (arbeid op zee), 1920 (Nr. 7) [Verdrag betreffende de werkloosheidsuitkering (schipbreuk)](../../../../../verdrag/convention/concerning/unemployment/indemnity/in/case/of/loss/or/foundering/etc/BWBV0006189/README.md), 1920 (Nr. 8) [Verdrag betreffende plaatsing van zeelieden](../../../../../verdrag/international/labour/conference./BWBV0006208/README.md), 1920 (Nr. 9) [Verdrag betreffende het geneeskundig onderzoek van kinderen en jeugdige personen werkzaam aan boord van schepen](../../../../../verdrag/convention/concerning/the/compulsory/medical/examination/of/children/and/etc/BWBV0006209/README.md), 1921 (Nr. 16) [Verdrag betreffende de arbeidsovereenkomst van schepelingen](../../../../../verdrag/convention/concerning/seamen's/articles/of/agreement/BWBV0006211/README.md), 1926 (Nr. 22) [Verdrag betreffende repatriëring van schepelingen](../../../../../verdrag/international/labour/conference/BWBV0006227/README.md), 1926 (Nr. 23) Verdrag betreffende de minimumeisen van beroepsbekwaamheid van kapiteins en officieren ter koopvaardij, 1936 (Nr. 53) Verdrag betreffende betaald verlof (arbeid op zee), 1936 (Nr. 54) Verdrag betreffende aansprakelijkheid van reders (ziekte en ongeval zeelieden), 1936 (Nr. 55) Verdrag betreffende ziekteverzekering van zeelieden, 1936 (Nr. 56) Verdrag betreffende de arbeidsduur aan boord en de bemanningssterkte, 1936 (Nr. 57) [Verdrag betreffende de minimumleeftijd (arbeid op zee) (herzien)](../../../../../verdrag/international/labour/conference/BWBV0006231/README.md), 1936 (Nr. 58) [Verdrag betreffende de voeding en de daarmee verband houdende verzorging (bemanning van schepen)](../../../../../verdrag/international/labour/conference/BWBV0005438/README.md), 1946 (Nr. 68) [Verdrag inzake het diploma van bekwaamheid als scheepskok](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (Nr. 69) Verdrag betreffende de sociale zekerheid van zeelieden, 1946 (Nr. 70) Verdrag betreffende vakantie met behoud van loon voor zeelieden, 1946 (Nr. 72) [Verdrag betreffende het geneeskundig onderzoek van zeelieden](../../../../../verdrag/international/labour/conference/BWBV0005435/README.md), 1946 (Nr. 73) [Verdrag inzake bewijzen van bekwaamheid als volmatroos](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (Nr. 74) Verdrag betreffende de huisvesting van de bemanning aan boord van schepen, 1946 (Nr. 75) Verdrag betreffende de lonen, de arbeidsduur aan boord en de bemanningssterkte, 1946 (Nr. 76) Verdrag betreffende de vakantie met behoud van loon van zeelieden (herzien), 1949 (Nr. 91) Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (herzien), 1949 (Nr. 92) Verdrag betreffende de lonen, de arbeidsduur aan boord en de bemanningssterkte (herzien), 1949 (Nr. 93) Verdrag betreffende de lonen, de arbeidsduur aan boord en de bemanningssterkte (herzien), 1958 (Nr. 109) [Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (aanvullende bepalingen)](../../../../../verdrag/convention/concerning/crew/accommodation/on/board/ship/BWBV0004640/README.md), 1970 (Nr. 133) Verdrag betreffende het voorkomen van ongevallen bij zeevarenden, 1970 (Nr. 134) [Verdrag betreffende de continuering van werkgelegenheid voor zeevarenden](../../../../../verdrag/convention/concerning/continuity/of/employment/of/seafarers/BWBV0003677/README.md), 1976 (Nr. 145) [Verdrag betreffende jaarlijks verlof met behoud van loon voor zeevarenden](../../../../../verdrag/convention/concerning/annual/leave/with/pay/for/seafarers/BWBV0003716/README.md), 1976 (Nr. 146) [Verdrag betreffende minimumnormen op koopvaardijschepen](../../../../../verdrag/verdrag/betreffende/minimumnormen/op/koopvaardijschepen/BWBV0003738/README.md), 1976 (Nr. 147) [Protocol van 1996 bij het Koopvaardijverdrag (minimumnormen)](../../../../../verdrag/protocol/van/1996/bij/het/koopvaardijverdrag/(minimumnormen)/1976/BWBV0001594/README.md), 1976 (Nr. 147) Verdrag betreffende het welzijn van zeevarenden, 1987 (Nr. 163) Verdrag betreffende de bescherming van de gezondheid en de medische zorg, 1987 (Nr. 164) Verdrag betreffende de sociale zekerheid van zeevarenden (herzien), 1987 (Nr. 165) Verdrag betreffende de repatriëring van zeevarenden (herzien), 1987 (Nr. 166) Arbeidsinspectieverdrag zeevarenden, 1996 (Nr. 178) Verdrag betreffende werving van en arbeidsbemiddeling voor zeevarenden, 1996 (Nr. 179) [Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen](../../../../../verdrag/convention/concerning/seafarers'/hours/of/work/and/the/manning/of/ships/BWBV0001593/README.md), 1996 (Nr. 180). 
 
 ####Taken van Depositaris
 
 ### Artikel  XI  
 
 1.  De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen, aanvaardingen en opzeggingen ingevolge dit Verdrag.   
-2.  Wanneer de in het artikel VIII, derde lid, bedoelde voorwaarden zijn vervuld, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.   
+2.  Wanneer de in het artikel VIII, derde lid, bedoelde voorwaarden zijn vervuld, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.  
 
 ### Artikel  XII  
 
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ten behoeve van registratie in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), van alle bijzonderheden omtrent alle bekrachtigingen, aanvaardingen en opzeggingen die ingevolge dit Verdrag worden geregistreerd.  
+De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ten behoeve van registratie in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), van alle bijzonderheden omtrent alle bekrachtigingen, aanvaardingen en opzeggingen die ingevolge dit Verdrag worden geregistreerd. 
 
 ####Bijzonder Tripartiet Comité
 
@@ -2902,7 +2902,7 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 1.  De Raad van Beheer van het Internationaal Arbeidsbureau zorgt voor permanente toetsing van de werking van dit Verdrag door middel van een door hem ingesteld comité met bijzondere bevoegdheden op het gebied van maritieme arbeidsnormen.   
 2.  Voor aangelegenheden die in overeenstemming met dit Verdrag worden behandeld, is het Comité samengesteld uit twee vertegenwoordigers benoemd door de Regering van elk Lid dat dit Verdrag heeft bekrachtigd, en uit de door de Raad van Beheer, na overleg met de Gemengde Maritieme Commissie, benoemde vertegenwoordigers van reders en zeevarenden.   
 3.  De regeringsvertegenwoordigers van Leden die dit Verdrag nog niet hebben bekrachtigd, mogen in het Comité zitting hebben, maar hebben geen stemrecht ten aanzien van aangelegenheden die in overeenstemming met dit Verdrag worden behandeld. De Raad van Beheer kan andere organisaties of instellingen uitnodigen zich in het Comité door waarnemers te laten vertegenwoordigen.   
-4.  De stemmen van elke vertegenwoordiger van reders en zeevarenden in het Comité worden zodanig gewogen dat gewaarborgd wordt dat de redersgroep en de zeevarendengroep elk de helft van het aantal stemmen bezitten van alle regeringen die op de betrokken vergadering vertegenwoordigd zijn en stemrecht hebben.   
+4.  De stemmen van elke vertegenwoordiger van reders en zeevarenden in het Comité worden zodanig gewogen dat gewaarborgd wordt dat de redersgroep en de zeevarendengroep elk de helft van het aantal stemmen bezitten van alle regeringen die op de betrokken vergadering vertegenwoordigd zijn en stemrecht hebben.  
 
 ####Wijziging van dit Verdrag
 
@@ -2916,7 +2916,7 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 6.  Ten aanzien van elk in het tweede lid van dit artikel genoemde Lid wordt een wijziging van kracht 12 maanden na de datum van de in het vierde lid van dit artikel bedoelde aanvaarding of 12 maanden na de datum waarop zijn bekrachtiging van de wijziging is geregistreerd, naargelang van welke datum later valt.   
 7.  Onverminderd het negende lid van dit artikel treedt het Verdrag als gewijzigd, ten aanzien van de in het derde lid van dit artikel bedoelde Leden, in werking 12 maanden na de datum van aanvaarding bedoeld in het vierde lid van dit artikel of 12 maanden na de datum waarop hun bekrachtigingen van het Verdrag zijn geregistreerd, naargelang van welke datum later valt.   
 8.  Ten aanzien van de Leden wier bekrachtiging van dit Verdrag werd geregistreerd voorafgaand aan het aannemen van een wijziging, maar die de wijziging niet hebben bekrachtigd, blijft dit Verdrag van kracht zonder de desbetreffende wijziging.   
-9.  Elk Lid waarvan de bekrachtiging van dit Verdrag is geregistreerd na het aannemen van de wijziging, doch voor de in het vierde lid van dit artikel bedoelde datum, kan – in een verklaring bij de akte van bekrachtiging – aangeven dat zijn bekrachtiging betrekking heeft op het Verdrag zonder de betrokken wijziging. Indien sprake is van een bekrachtiging zonder een dergelijke verklaring, treedt het Verdrag ten aanzien van het betrokken Lid in werking 12 maanden na de datum waarop de bekrachtiging werd geregistreerd. Wanneer een akte van bekrachtiging niet vergezeld gaat van een dergelijke verklaring, of wanneer de bekrachtiging wordt geregistreerd op of na de in het vierde lid bedoelde datum, treedt het Verdrag ten aanzien van het betrokken Lid in werking 12 maanden na de datum waarop de bekrachtiging werd geregistreerd en is de wijziging, zodra deze van kracht wordt in overeenstemming met het zevende lid van dit artikel, verbindend voor het betrokken Lid tenzij in de wijziging anders wordt bepaald.   
+9.  Elk Lid waarvan de bekrachtiging van dit Verdrag is geregistreerd na het aannemen van de wijziging, doch voor de in het vierde lid van dit artikel bedoelde datum, kan – in een verklaring bij de akte van bekrachtiging – aangeven dat zijn bekrachtiging betrekking heeft op het Verdrag zonder de betrokken wijziging. Indien sprake is van een bekrachtiging zonder een dergelijke verklaring, treedt het Verdrag ten aanzien van het betrokken Lid in werking 12 maanden na de datum waarop de bekrachtiging werd geregistreerd. Wanneer een akte van bekrachtiging niet vergezeld gaat van een dergelijke verklaring, of wanneer de bekrachtiging wordt geregistreerd op of na de in het vierde lid bedoelde datum, treedt het Verdrag ten aanzien van het betrokken Lid in werking 12 maanden na de datum waarop de bekrachtiging werd geregistreerd en is de wijziging, zodra deze van kracht wordt in overeenstemming met het zevende lid van dit artikel, verbindend voor het betrokken Lid tenzij in de wijziging anders wordt bepaald.  
 
 ####Wijzigingen van de Code
 
@@ -2952,13 +2952,13 @@ i. ingevolge het zevende lid van dit artikel formeel kennisgeving heeft gedaan v
 
 ii. ingevolge het achtste lid, onderdeel a, van dit artikel kennis heeft gegeven van het feit dat zijn aanvaarding afhankelijk is van een latere uitdrukkelijke kennisgeving en de wijziging niet heeft aanvaard; en    
 
-b. past een Lid dat de wijziging heeft aanvaard het Verdrag toe op de maritieme arbeidscertificaten afgegeven aan schepen die de vlag voeren van een ander Lid dat, ingevolge het achtste lid, onderdeel b, van dit artikel kennis heeft gegeven van het feit dat het die wijziging niet uitvoert gedurende de termijn die is vastgesteld in overeenstemming met het tiende lid van dit artikel.     
+b. past een Lid dat de wijziging heeft aanvaard het Verdrag toe op de maritieme arbeidscertificaten afgegeven aan schepen die de vlag voeren van een ander Lid dat, ingevolge het achtste lid, onderdeel b, van dit artikel kennis heeft gegeven van het feit dat het die wijziging niet uitvoert gedurende de termijn die is vastgesteld in overeenstemming met het tiende lid van dit artikel.    
 
 ####Gezaghebbende talen
 
 ### Artikel  XVI  
 
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.  
+De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend. 
 
 ####Toelichting bij de Voorschriften en de Code van het Maritiem arbeidsverdrag
 
@@ -2972,15 +2972,15 @@ De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
 
 5. De Voorschriften en de Code zijn onderverdeeld in algemene gebieden onder vijf titels: 
 
-Titel 1: Minimumvereisten voor zeevarenden om op een schip te mogen werken  
+Titel 1: Minimumvereisten voor zeevarenden om op een schip te mogen werken
 
-Titel 2: Arbeidsvoorwaarden  
+Titel 2: Arbeidsvoorwaarden
 
-Titel 3: Huisvesting, recreatievoorzieningen, voeding en catering  
+Titel 3: Huisvesting, recreatievoorzieningen, voeding en catering
 
-Titel 4: Bescherming van de gezondheid, medische zorg, welzijn en socialezekerheidsbescherming  
+Titel 4: Bescherming van de gezondheid, medische zorg, welzijn en socialezekerheidsbescherming
 
-Titel 5: Naleving en handhaving    
+Titel 5: Naleving en handhaving  
 
 6. Elke titel bevat groepen bepalingen die betrekking hebben op een bepaald recht of beginsel (of handhavingsmaatregel in titel 5), met bijbehorende nummering. De eerste groep in titel 1 bestaat bijvoorbeeld uit voorschrift 1.1, norm A1.1 en leidraad B1.1 met betrekking tot de minimumleeftijd.  
 
@@ -3030,7 +3030,7 @@ b. de specifieke aard van de taak of een erkend opleidingsprogramma met zich mee
 4. Het is verboden zeevarenden onder de leeftijd van 18 jaar te werk te stellen, in dienst te nemen of werkzaamheden te laten verrichten wanneer de werkzaamheden hun gezondheid of veiligheid mogelijk in gevaar brengen. De in dit verband beoogde soorten werkzaamheden worden, na overleg met de betrokken organisaties van reders en zeevarenden, in overeenstemming met de desbetreffende internationale normen in de nationale wet- en regelgeving of door de bevoegde autoriteiten vastgesteld.   
 ###Leidraad B1.1 – Minimumleeftijd
 
-1. Bij de regulering van de werk- en leefomstandigheden zouden de Leden bijzondere aandacht moeten schenken aan de behoeften van jongeren onder de 18 jaar.    
+1. Bij de regulering van de werk- en leefomstandigheden zouden de Leden bijzondere aandacht moeten schenken aan de behoeften van jongeren onder de 18 jaar.   
 
 ### Voorschrift  1.2  
 
@@ -3078,7 +3078,7 @@ b. de betrokken zeevarende in het bezit is van een verlopen geneeskundige verkla
 
 ###Leidraad B1.2.1 – Internationale richtlijnen
 
-1. De bevoegde autoriteit, geneeskundigen en medisch specialisten, onderzoekers, reders, vertegenwoordigers van zeevarenden en alle andere personen die betrokken zijn bij de uitvoering van onderzoeken naar de geneeskundige geschiktheid van kandidaat-zeevarenden en van actieve zeevarenden zouden rekening moeten houden met de *Guidelines for Conducting Pre-sea and Periodic Medical Fitness Examinations for Seafarers* van de Internationale Arbeidsorganisatie/Wereldgezondheidsorganisatie, alsmede aan alle latere versies hiervan, en aan alle andere van toepassing zijnde internationale richtlijnen die worden gepubliceerd door de Internationale Arbeidsorganisatie, de Internationale Maritieme Organisatie of de Wereldgezondheidsorganisatie.    
+1. De bevoegde autoriteit, geneeskundigen en medisch specialisten, onderzoekers, reders, vertegenwoordigers van zeevarenden en alle andere personen die betrokken zijn bij de uitvoering van onderzoeken naar de geneeskundige geschiktheid van kandidaat-zeevarenden en van actieve zeevarenden zouden rekening moeten houden met de *Guidelines for Conducting Pre-sea and Periodic Medical Fitness Examinations for Seafarers* van de Internationale Arbeidsorganisatie/Wereldgezondheidsorganisatie, alsmede aan alle latere versies hiervan, en aan alle andere van toepassing zijnde internationale richtlijnen die worden gepubliceerd door de Internationale Arbeidsorganisatie, de Internationale Maritieme Organisatie of de Wereldgezondheidsorganisatie.   
 
 ### Voorschrift  1.3  
 
@@ -3092,7 +3092,7 @@ Doel: Verzekeren dat zeevarenden opgeleid of gekwalificeerd zijn om hun taken aa
 
 3. Opleiding en afgifte van een bevoegdheidsbewijs in overeenstemming met de door de Internationale Maritieme Organisatie aangenomen bindende instrumenten worden beschouwd als toereikend voor de vereisten van het eerste en tweede lid van dit voorschrift.  
 
-4. Elk Lid dat, op het tijdstip van zijn bekrachtiging van dit Verdrag, gebonden was door het [Verdrag inzake bewijzen van bekwaamheid als volmatroos](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (Nr. 74), blijft de verplichtingen ingevolge dat Verdrag vervullen tenzij en tot het moment waarop bindende bepalingen die op de in dat Verdrag behandelde onderwerpen betrekking hebben, zijn aangenomen door de Internationale Maritieme Organisatie en van kracht zijn geworden, of na afloop van vijf jaar na de inwerkingtreding van dit Verdrag in overeenstemming met het derde lid van artikel VIII, naargelang van welke datum eerder valt.    
+4. Elk Lid dat, op het tijdstip van zijn bekrachtiging van dit Verdrag, gebonden was door het [Verdrag inzake bewijzen van bekwaamheid als volmatroos](../../../../../verdrag/international/labour/conference/BWBV0005436/README.md), 1946 (Nr. 74), blijft de verplichtingen ingevolge dat Verdrag vervullen tenzij en tot het moment waarop bindende bepalingen die op de in dat Verdrag behandelde onderwerpen betrekking hebben, zijn aangenomen door de Internationale Maritieme Organisatie en van kracht zijn geworden, of na afloop van vijf jaar na de inwerkingtreding van dit Verdrag in overeenstemming met het derde lid van artikel VIII, naargelang van welke datum eerder valt.   
 
 ### Voorschrift  1.4  
 
@@ -3111,7 +3111,7 @@ Doel: Verzekeren dat zeevarenden toegang hebben tot een doeltreffend en goed ger
 
 2. Wanneer op het grondgebied van een Lid private wervings- en arbeidsbemiddelingsdiensten voor zeevarenden actief zijn met als primair doel de werving en plaatsing van zeevarenden of die een aanzienlijk aantal zeevarenden werven en plaatsen, mogen deze uitsluitend worden geëxploiteerd in overeenstemming met een gestandaardiseerd systeem van vergunningen of certificering of andere vorm van regulering. Dit systeem mag alleen worden ingesteld, aangepast of gewijzigd na overleg met de betrokken organisaties van reders en zeevarenden. Indien twijfel bestaat omtrent de vraag of dit Verdrag van toepassing is op een private wervings- en arbeidsbemiddelingsdienst doet de bevoegde autoriteit van elk Lid na overleg met de betrokken organisaties en van reders en zeevarenden uitspraak in deze kwestie. Excessieve groei van het aantal private wervings- en arbeidsbemiddelingsdiensten moet niet worden aangemoedigd.  
 
-3. De bepalingen van het tweede lid van deze norm zijn – voor zover deze worden vastgesteld door de bevoegde autoriteiten, in overleg met de betrokken organisaties van reders en zeevarenden – eveneens van toepassing in het geval van wervings- en arbeidsbemiddeingsdiensten die worden geëxploiteerd door een organisatie van zeevarenden op het grondgebied van een Lid voor het aanbod van zeevarenden die ingezetene zijn van dat Lid voor schepen die zijn vlag voeren. Dit lid heeft betrekking op diensten die aan de volgende voorwaarden voldoen: 
+3. De bepalingen van het tweede lid van deze norm zijn – voor zover deze worden vastgesteld door de bevoegde autoriteiten, in overleg met de betrokken organisaties van reders en zeevarenden – eveneens van toepassing in het geval van wervings- en arbeidsbemiddelingsdiensten die worden geëxploiteerd door een organisatie van zeevarenden op het grondgebied van een Lid voor het aanbod van zeevarenden die ingezetene zijn van dat Lid voor schepen die zijn vlag voeren. Dit lid heeft betrekking op diensten die aan de volgende voorwaarden voldoen: 
 
 a. de wervings- en arbeidsbemiddelingsdienst wordt geëxploiteerd ingevolge een collectieve arbeidsovereenkomst tussen die organisatie en een reder;  
 
@@ -3220,7 +3220,7 @@ c. de harmonisatie van beleid, werkwijzen en wetgeving op het gebied van de werv
 
 d. de verbetering van procedures en voorwaarden voor de internationale werving van en arbeidsbemiddeling voor zeevarenden; en  
 
-e. de planning van het arbeidspotentieel, waarbij rekening moet worden gehouden met de vraag naar en het aanbod van zeevarenden en de behoeften van de maritieme sector.      
+e. de planning van het arbeidspotentieel, waarbij rekening moet worden gehouden met de vraag naar en het aanbod van zeevarenden en de behoeften van de maritieme sector.     
 
 ### TITEL  2  
 
@@ -3296,7 +3296,7 @@ k. alle overige bijzonderheden die uit hoofde van het nationale recht vereist ku
 
 ###Leidraad B2.1.1 – Staat van dienst
 
-1. Bij de vaststelling van de bijzonderheden die in de in het eerste lid, onderdeel e, van norm A2.1 bedoelde staat van dienst moeten worden vastgelegd, zou elk Lid zich ervan moeten verzekeren dat dit document voldoende informatie bevat, met een vertaling in het Engels, om het verkrijgen van een latere betrekking te vergemakkelijken of te voldoen aan de vereisten van dienst op zee voor een hogere rang of promotie. Een monsterboekje van zeevarenden kan tegemoetkomen aan de vereisten van het eerste lid, onderdeel e, van die norm.    
+1. Bij de vaststelling van de bijzonderheden die in de in het eerste lid, onderdeel e, van norm A2.1 bedoelde staat van dienst moeten worden vastgelegd, zou elk Lid zich ervan moeten verzekeren dat dit document voldoende informatie bevat, met een vertaling in het Engels, om het verkrijgen van een latere betrekking te vergemakkelijken of te voldoen aan de vereisten van dienst op zee voor een hogere rang of promotie. Een monsterboekje van zeevarenden kan tegemoetkomen aan de vereisten van het eerste lid, onderdeel e, van die norm.   
 
 ### Voorschrift  2.2  
 
@@ -3411,7 +3411,7 @@ b. dat zeevarenden die een lager bedrag ontvangen dan het minimumloon, de hun no
 
 1. De standaardbeloning of -loon voor een kalendermaand dienst door een volmatroos zou niet lager mogen zijn dan het periodiek door de Gemengde Maritieme Commissie of een ander hiertoe door de Raad van Beheer van het Internationaal Arbeidsbureau gemachtigd orgaan vastgestelde bedrag. Naar aanleiding van een besluit hiertoe door de Raad van Beheer, stelt de Directeur-Generaal de Leden van de Organisatie in kennis van elke herziening van het vastgestelde bedrag.  
 
-2. Niets in deze leidraad wordt geacht afbreuk te doen aan regelingen tussen reders of hun organisaties en de organisaties van zeevarenden met betrekking tot de regulering van standaard minimumarbeidsvoorwaarden, mits deze voorwaarden door de bevoegde autoriteit zijn erkend.    
+2. Niets in deze leidraad wordt geacht afbreuk te doen aan regelingen tussen reders of hun organisaties en de organisaties van zeevarenden met betrekking tot de regulering van standaard minimumarbeidsvoorwaarden, mits deze voorwaarden door de bevoegde autoriteit zijn erkend.   
 
 ### Voorschrift  2.3  
 
@@ -3491,7 +3491,7 @@ b. de feitelijke opleiding van jonge zeevarenden, in overeenstemming met vastges
 
 3. Dergelijke uitzonderlijke situaties dienen, met redenen omkleed, te worden geregistreerd en door de kapitein worden ondertekend.  
 
-4. Het eerste lid van deze leidraad ontslaat jonge zeevarenden niet van de algemene verplichting voor alle zeevarenden tijdens een noodsituatie werkzaamheden te verrichten, als bedoeld in het veertiende lid van norm A2.3.    
+4. Het eerste lid van deze leidraad ontslaat jonge zeevarenden niet van de algemene verplichting voor alle zeevarenden tijdens een noodsituatie werkzaamheden te verrichten, als bedoeld in het veertiende lid van norm A2.3.   
 
 ### Voorschrift  2.4  
 
@@ -3544,7 +3544,7 @@ d. elke vorm van compensatieverlof, op voorwaarden vast te stellen door de bevoe
 2. Onverminderd het bepaalde in het eerste lid van deze leidraad en tenzij anders bepaald in een overeenkomst die van toepassing is op de betrokken reder en zeevarende, zou het jaarlijks verlof met behoud van loon, zoals in deze leidraad aanbevolen, uit een aaneengesloten tijdvak moeten bestaan.   
 ###Leidraad B2.4.4 – Jonge zeevarenden
 
-1. Bijzondere maatregelen zouden moeten worden overwogen ten aanzien van de jonge zeevarenden onder de leeftijd van 18 jaar die zes maanden of een korter tijdvak ingevolge een collectieve arbeidsovereenkomst of arbeidsovereenkomst voor zeevarenden zonder verlof dienst hebben gedaan op een schip dat buitenlandse reizen maakt en dat in die periode niet is teruggekeerd naar hun land van domicilie, en dat daar de volgende drie maanden van de reis ook niet naar terugkeert. Dergelijke maatregelen zouden kunnen bestaan uit hun – voor hen kosteloze – repatriëring naar de oorspronkelijke plaats van monstering in hun land van domicilie voor het opnemen van verlof dat gedurende de reis is opgebouwd.    
+1. Bijzondere maatregelen zouden moeten worden overwogen ten aanzien van de jonge zeevarenden onder de leeftijd van 18 jaar die zes maanden of een korter tijdvak ingevolge een collectieve arbeidsovereenkomst of arbeidsovereenkomst voor zeevarenden zonder verlof dienst hebben gedaan op een schip dat buitenlandse reizen maakt en dat in die periode niet is teruggekeerd naar hun land van domicilie, en dat daar de volgende drie maanden van de reis ook niet naar terugkeert. Dergelijke maatregelen zouden kunnen bestaan uit hun – voor hen kosteloze – repatriëring naar de oorspronkelijke plaats van monstering in hun land van domicilie voor het opnemen van verlof dat gedurende de reis is opgebouwd.   
 
 ### Voorschrift  2.5  
 
@@ -3663,7 +3663,7 @@ iii. naar een andere tussen de zeevarende en de kapitein of reder overeengekomen
 
 b. voor medische zorg en nazorg voor zeevarenden tewerkgesteld op een schip dat de vlag van een vreemd land voert die in een buitenlandse haven aan wal worden gezet als gevolg van een ziekte of letsel tijdens de dienst op het schip hetgeen niet te wijten is aan hun eigen opzettelijk onjuist handelen.    
 
-3. Indien het, nadat jonge zeevarenden onder de leeftijd van 18 jaar gedurende ten minste vier maanden tijdens hun eerste buitenlandse reis op een schip hebben gediend, duidelijk wordt dat zij ongeschikt zijn voor het leven op zee, zouden zij in de gelegenheid moeten worden gesteld kosteloos te worden gerepatrieerd vanuit de eerste geschikte aanloophaven waar zich consulaire diensten bevinden van de vlaggenstaat, van de Staat waarvan de jonge zeevarende de nationaliteit heeft of waar hij zijn domicilie heeft. Elke zodanige repatriëring zou, met redenen omkleed, moeten worden medegedeeld aan de autoriteit die de papieren heeft afgegeven die de betrokken jonge zeevarende in staat stelden op zee te werk te worden gesteld.    
+3. Indien het, nadat jonge zeevarenden onder de leeftijd van 18 jaar gedurende ten minste vier maanden tijdens hun eerste buitenlandse reis op een schip hebben gediend, duidelijk wordt dat zij ongeschikt zijn voor het leven op zee, zouden zij in de gelegenheid moeten worden gesteld kosteloos te worden gerepatrieerd vanuit de eerste geschikte aanloophaven waar zich consulaire diensten bevinden van de vlaggenstaat, van de Staat waarvan de jonge zeevarende de nationaliteit heeft of waar hij zijn domicilie heeft. Elke zodanige repatriëring zou, met redenen omkleed, moeten worden medegedeeld aan de autoriteit die de papieren heeft afgegeven die de betrokken jonge zeevarende in staat stelden op zee te werk te worden gesteld.   
 
 ### Voorschrift  2.6  
 
@@ -3683,7 +3683,7 @@ Doel: Verzekeren dat zeevarenden worden vergoed wanneer een schip verloren is ge
 
 1. De schadeloosstelling voor werkloosheid die voortvloeit uit verlies of zinken van het schip zou moeten worden betaald voor de dagen gedurende welke de zeevarende daadwerkelijk werkloos blijft tot een bedrag gelijk aan het loon uit hoofde van de arbeidsovereenkomst, maar de totaal aan een zeevarende uit te keren schadeloosstelling mag echter beperkt blijven tot twee maandlonen.  
 
-2. Elk Lid zou ervoor moeten zorgdragen dat zeevarenden dezelfde rechtsmiddelen voor de aanspraak op deze schadeloosstellingen hebben als zij hebben voor de aanspraak op achterstallig loon die gedurende het dienstverband is verdiend.    
+2. Elk Lid zou ervoor moeten zorgdragen dat zeevarenden dezelfde rechtsmiddelen voor de aanspraak op deze schadeloosstellingen hebben als zij hebben voor de aanspraak op achterstallig loon die gedurende het dienstverband is verdiend.   
 
 ### Voorschrift  2.7  
 
@@ -3705,7 +3705,7 @@ Doel: Verzekeren dat zeevarenden werken aan boord van schepen met voldoende pers
 
 1. Elk Lid zou doeltreffende systemen in stand moeten houden voor het onderzoeken en regelen van klachten of geschillen betreffende de bemanningssterkte op een schip, of zich ervan vergewissen dat dergelijke systemen in stand worden gehouden.  
 
-2. Vertegenwoordigers van organisaties van reders en zeevarenden zouden, al dan niet tezamen met andere personen of autoriteiten, deel moeten nemen aan het functioneren van deze systemen.    
+2. Vertegenwoordigers van organisaties van reders en zeevarenden zouden, al dan niet tezamen met andere personen of autoriteiten, deel moeten nemen aan het functioneren van deze systemen.   
 
 ### Voorschrift  2.8  
 
@@ -3742,7 +3742,7 @@ c. het bevorderen van kansen, zowel aan boord als aan wal, voor verdere opleidin
 
 4. Voor zover de nationale wet- en regelgeving zulks toestaat, zou het aantal zeevarenden in dergelijke registers of op dergelijke lijsten periodiek moeten worden getoetst teneinde niveaus te bereiken die aansluiten op de behoeften van de maritieme sector.  
 
-5. Wanneer verlaging van het aantal zeevarenden in een dergelijk register of op een dergelijke lijst noodzakelijk wordt, zouden alle passende maatregelen moeten worden getroffen om nadelige effecten voor zeevarenden te voorkomen of tot een minimum te beperken, met inachtneming van de economische en sociale situatie van het desbetreffende land.    
+5. Wanneer verlaging van het aantal zeevarenden in een dergelijk register of op een dergelijke lijst noodzakelijk wordt, zouden alle passende maatregelen moeten worden getroffen om nadelige effecten voor zeevarenden te voorkomen of tot een minimum te beperken, met inachtneming van de economische en sociale situatie van het desbetreffende land.   
 
 ### TITEL  3  
 
@@ -4003,7 +4003,7 @@ a. de kapitein en de officieren; en
 
 b. de onderofficieren en overige zeevarenden.    
 
-3. Op schepen anders dan passagiersschepen zou het vloeroppervlak van de eetverblijven voor zeevarenden niet minder mogen zijn dan 1,5 m <sup>2</sup> per persoon van de geplande stoelcapaciteit.  
+3. Op schepen anders dan passagiersschepen zou het vloeroppervlak van de eetverblijven voor zeevarenden niet minder mogen zijn dan 1,5 m<sup>2</sup> per persoon van de geplande stoelcapaciteit.  
 
 4. Op alle schepen zouden de eetverblijven moeten zijn voorzien van tafels en goedgekeurde zitplaatsen, vastgezet of verplaatsbaar, voldoende voor het grootste aantal zeevarenden dat er mogelijkerwijs gelijktijdig gebruik van zal maken.  
 
@@ -4113,7 +4113,7 @@ j. redelijke toegang tot een telefoonverbinding tussen schip en vasteland, en e-
 
 4. Die limieten voor geluidsniveaus voor werk- en woonruimtes zouden in overeenstemming moeten zijn met de internationale richtlijnen inzake blootstellingsniveaus van de Internationale Arbeidsorganisatie, met inbegrip van die vervat in de *Code of practice on Ambient factors in the workplace*, 2001, en, waar van toepassing de specifieke bescherming als aanbevolen door de Internationale Maritieme Organisatie, en met eventuele latere instrumenten tot wijziging en aanvulling voor aanvaardbare geluidsniveaus aan boord van schepen. Een afschrift van de desbetreffende akten in het Engels of in de werktaal van het schip zou aan boord aanwezig en voor de zeevarenden toegankelijk moeten zijn.  
 
-5. De voorzieningen voor huisvesting, recreatie of catering zouden niet aan extreme trillingen mogen blootstaan.    
+5. De voorzieningen voor huisvesting, recreatie of catering zouden niet aan extreme trillingen mogen blootstaan.   
 
 ### Voorschrift  3.2  
 
@@ -4176,7 +4176,7 @@ b. met goed gevolg een door de bevoegde autoriteit voorgeschreven examen of een 
 
 2. Het voorgeschreven examen mag worden afgenomen en de vakdiploma’s mogen worden uitgereikt hetzij rechtstreeks door de bevoegde autoriteit of, onder haar toezicht, door een erkende koksopleiding.  
 
-3. De bevoegde autoriteit zou zorg moeten dragen voor de erkenning, waar passend, van vakdiploma’s voor scheepskok afgegeven door andere Leden die dit Verdrag of het [Verdrag inzake het diploma van vakbekwaamheid als scheepskok](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (Nr. 69), hebben bekrachtigd, of door een ander erkend orgaan.    
+3. De bevoegde autoriteit zou zorg moeten dragen voor de erkenning, waar passend, van vakdiploma’s voor scheepskok afgegeven door andere Leden die dit Verdrag of het [Verdrag inzake het diploma van vakbekwaamheid als scheepskok](../../../../../verdrag/international/labour/conference/BWBV0005562/README.md), 1946 (Nr. 69), hebben bekrachtigd, of door een ander erkend orgaan.   
 
 ### TITEL  4  
 
@@ -4290,7 +4290,7 @@ k. het regelen van de repatriëring, zodra dit mogelijk is, van het stoffelijk o
 2. De internationale samenwerking op het gebied van gezondheidsbescherming en medische zorg voor zeevarenden zou gebaseerd moeten zijn op bilaterale of multilaterale overeenkomsten of op overleg tussen Leden.   
 ###Leidraad B4.1.5 – Gezinsleden van zeevarenden
 
-1. Elk Lid zou maatregelen moeten nemen ter waarborging van behoorlijke en voldoende medische zorg voor de gezinsleden van zevarenden die van hen afhankelijk zijn die op zijn grondgebied woonachtig zijn, hangende de ontwikkeling van een medische dienst voor werknemers en hun gezinsleden indien dergelijke diensten niet bestaan, en moet het Internationaal Arbeidsbureau op de hoogte brengen van de voor dit doel getroffen maatregelen.    
+1. Elk Lid zou maatregelen moeten nemen ter waarborging van behoorlijke en voldoende medische zorg voor de gezinsleden van zevarenden die van hen afhankelijk zijn die op zijn grondgebied woonachtig zijn, hangende de ontwikkeling van een medische dienst voor werknemers en hun gezinsleden indien dergelijke diensten niet bestaan, en moet het Internationaal Arbeidsbureau op de hoogte brengen van de voor dit doel getroffen maatregelen.   
 
 ### Voorschrift  4.2  
 
@@ -4340,7 +4340,7 @@ c. opzettelijk verzwegen ziekten of aandoeningen bij het aangaan van het dienstv
 
 2. De nationale wet- en regelgeving kan erin voorzien dat een reder niet langer aansprakelijk is voor de betaling van de kosten van een zieke of gewonde zeevarende vanaf het tijdstip waarop die zeevarende recht heeft op medische verstrekkingen op grond van een stelsel van verplichte ziekteverzekering of verplichte ongevallenverzekering of op schadeloosstelling bij arbeidsongevallen.  
 
-3. De nationale wet- en regelgeving kan erin voorzien dat door de reder betaalde begrafeniskosten door een verzekeringsmaatschappij worden vergoed in gevallen waarin ingevolge de wet- en regelgeving inzake sociale verzekering of schadeloosstelling van werknemers ten gunste van de overleden zeevarende een uitvaartverzekering wordt uitgekeerd.    
+3. De nationale wet- en regelgeving kan erin voorzien dat door de reder betaalde begrafeniskosten door een verzekeringsmaatschappij worden vergoed in gevallen waarin ingevolge de wet- en regelgeving inzake sociale verzekering of schadeloosstelling van werknemers ten gunste van de overleden zeevarende een uitvaartverzekering wordt uitgekeerd.   
 
 ### Voorschrift  4.3  
 
@@ -4584,7 +4584,7 @@ d. samenwerking bij de opstelling en verspreiding van bepalingen, regels of hand
 
 e. samenwerking bij de vervaardiging en het gebruik van hulpmiddelen voor scholing; en  
 
-f. gezamenlijke voorzieningen voor, of wederzijdse bijstand bij, de opleiding van zeevarenden op het gebied van bedrijfsveiligheid, gezondheid op het werk, ongevallenpreventie en veilig werken.      
+f. gezamenlijke voorzieningen voor, of wederzijdse bijstand bij, de opleiding van zeevarenden op het gebied van bedrijfsveiligheid, gezondheid op het werk, ongevallenpreventie en veilig werken.     
 
 ### Voorschrift  4.4  
 
@@ -4703,7 +4703,7 @@ b. efficiënte samenwerking tussen de consuls en de lokale en nationale autorite
 
 4. Elk Lid zou maatregelen moeten nemen om, indien nodig, zeevarenden te beschermen tegen agressie en andere wederrechtelijke gedragingen wanneer schepen zich in hun territoriale wateren bevinden en in het bijzonder in de aanlooproutes tot havens.  
 
-5. Degenen die hiervoor in de haven en aan boord verantwoordelijk zijn, zouden al het mogelijke in het werk moeten stellen om walverlof voor zeevarenden zo spoedig mogelijk na aankomst van het schip in de haven aan wal willen gaan, te vergemakkelijken.    
+5. Degenen die hiervoor in de haven en aan boord verantwoordelijk zijn, zouden al het mogelijke in het werk moeten stellen om walverlof voor zeevarenden zo spoedig mogelijk na aankomst van het schip in de haven aan wal willen gaan, te vergemakkelijken.   
 
 ### Voorschrift  4.5  
 
@@ -4753,7 +4753,7 @@ Doel: Verzekeren dat maatregelen worden getroffen om zeevarenden toegang te vers
 
 6. De arbeidsovereenkomst voor zeevarenden zou moeten vermelden in welke vorm de uiteenlopende takken van socialezekerheidsbescherming door de reder aan de zeevarende worden verschaft, alsmede alle overige relevante informatie waarover de reder beschikt, zoals verplichte inhoudingen op de lonen van de zeevarenden en bijdragen van de reders die ingevolge de relevante nationale verzekeringsstelsels conform de vereisten van erkende instanties zouden kunnen worden toegepast.  
 
-7. Het Lid waarvan het schip de vlag voert zou zich er bij de uitoefening van zijn rechtsbevoegdheid inzake sociale aangelegenheden van moeten vergewissen of de verantwoordelijkheden van de reders op het gebied van socialezekerheidsbescherming worden nagekomen, met inbegrip van de betaling van de verschuldigde premie aan de socialezekerheidsstelsels.    
+7. Het Lid waarvan het schip de vlag voert zou zich er bij de uitoefening van zijn rechtsbevoegdheid inzake sociale aangelegenheden van moeten vergewissen of de verantwoordelijkheden van de reders op het gebied van socialezekerheidsbescherming worden nagekomen, met inbegrip van de betaling van de verschuldigde premie aan de socialezekerheidsstelsels.   
 
 ### TITEL  5  
 
@@ -4771,7 +4771,7 @@ Doel: Verzekeren dat maatregelen worden getroffen om zeevarenden toegang te vers
 
 ####– Verantwoordelijkheden van de vlaggenstaat
 
-Doel: Verzekeren dat elk Lid zijn verantwoordelijkheden ingevolge dit Verdrag implementeert ten aanzien van schepen die zijn vlag voeren  
+Doel: Verzekeren dat elk Lid zijn verantwoordelijkheden ingevolge dit Verdrag implementeert ten aanzien van schepen die zijn vlag voeren 
 
 ### Voorschrift  5.1.1  
 
@@ -4791,7 +4791,7 @@ Doel: Verzekeren dat elk Lid zijn verantwoordelijkheden ingevolge dit Verdrag im
 
 1. De bevoegde autoriteit zou de nodige regelingen moeten treffen ter bevordering van effectieve samenwerking tussen de in de voorschriften 5.1.1 en 5.1.2 bedoelde publieke instanties en andere organisaties die zich bezig houden met de arbeids- en leefomstandigheden van zeevarenden aan boord van schepen.  
 
-2. Teneinde de samenwerking tussen inspecteurs en reders, zeevarenden en hun organisaties beter te waarborgen en de arbeids- en leefomstandigheden van zeevarenden in stand te houden of te verbeteren, zou de bevoegde autoriteit regelmatig overleg moeten plegen met de vertegenwoordigers van deze organisaties zoveel als nodig is om genoemde doelen te verwezenlijken. De wijze waarop dit overleg plaatsvindt, zou moeten worden vastgesteld door de bevoegde autoriteit, na overleg met de organisaties van reders en zeevarenden.    
+2. Teneinde de samenwerking tussen inspecteurs en reders, zeevarenden en hun organisaties beter te waarborgen en de arbeids- en leefomstandigheden van zeevarenden in stand te houden of te verbeteren, zou de bevoegde autoriteit regelmatig overleg moeten plegen met de vertegenwoordigers van deze organisaties zoveel als nodig is om genoemde doelen te verwezenlijken. De wijze waarop dit overleg plaatsvindt, zou moeten worden vastgesteld door de bevoegde autoriteit, na overleg met de organisaties van reders en zeevarenden.   
 
 ### Voorschrift  5.1.2  
 
@@ -4856,7 +4856,7 @@ h. het toezicht van de bevoegde autoriteit over de activiteiten die aan de erken
 
 5. Elk Lid zou van de erkende organisaties moeten verlangen dat zij de door hen verrichte diensten registreren, zodat zij kunnen aantonen dat zij voldoen aan de vereiste normen op de onderdelen die door de diensten worden bestreken.  
 
-6. Bij het instellen van de in het derde lid, onderdeel b, van norm A5.1.2 bedoelde toezichtprocedures zou elk Lid rekening moeten houden met de *Richtlijnen voor de bevoegdverklaring van organisaties die namens de Administratie optreden*, aangenomen in het kader van de Internationale Maritieme Organisatie.    
+6. Bij het instellen van de in het derde lid, onderdeel b, van norm A5.1.2 bedoelde toezichtprocedures zou elk Lid rekening moeten houden met de *Richtlijnen voor de bevoegdverklaring van organisaties die namens de Administratie optreden*, aangenomen in het kader van de Internationale Maritieme Organisatie.   
 
 ### Voorschrift  5.1.3  
 
@@ -4958,7 +4958,7 @@ e. wanneer ingrijpende wijzigingen zijn aangebracht aan de bouw of uitrusting wa
 
 5. In Aanhangsel B5-I wordt een voorbeeld gegeven van het soort informatie dat in een verklaring naleving maritieme arbeid zou kunnen worden opgenomen.  
 
-6. Wanneer een schip van vlag wisselt, als bedoeld in het veertiende lid, onderdeel c, van norm A5.1.3, en beide betrokken Staten dit Verdrag hebben bekrachtigd, zou het Lid waarvan het schip voorheen de vlag voerde, zo spoedig mogelijk aan de bevoegde autoriteit van het andere Lid afschriften van het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid die vóór de verandering van vlag aan boord van het schip aanwezig waren en, indien van toepassing, afschriften van de relevante inspectierapporten moeten toezenden aan de bevoegde autoriteit van het andere Lid, indien de bevoegde autoriteit daarom binnen drie maanden nadat de verandering van vlag heeft plaatsgevonden, verzoekt.    
+6. Wanneer een schip van vlag wisselt, als bedoeld in het veertiende lid, onderdeel c, van norm A5.1.3, en beide betrokken Staten dit Verdrag hebben bekrachtigd, zou het Lid waarvan het schip voorheen de vlag voerde, zo spoedig mogelijk aan de bevoegde autoriteit van het andere Lid afschriften van het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid die vóór de verandering van vlag aan boord van het schip aanwezig waren en, indien van toepassing, afschriften van de relevante inspectierapporten moeten toezenden aan de bevoegde autoriteit van het andere Lid, indien de bevoegde autoriteit daarom binnen drie maanden nadat de verandering van vlag heeft plaatsgevonden, verzoekt.   
 
 ### Voorschrift  5.1.4  
 
@@ -5073,7 +5073,7 @@ d. statistieken over alle zeevarenden, met inachtneming van de nationale wet- en
 
 e. statistieken en informatie betreffende inbreuken op de wetgeving, opgelegde sancties en gevallen van aanhouding van schepen; en  
 
-f. statistieken van gerapporteerde arbeidsongevallen en beroepsziekten bij zeevarenden.      
+f. statistieken van gerapporteerde arbeidsongevallen en beroepsziekten bij zeevarenden.     
 
 ### Voorschrift  5.1.5  
 
@@ -5113,7 +5113,7 @@ e. alle klachten en de beslissingen hierover zouden moeten worden geregistreerd 
 
 f. indien een klacht niet aan boord kan worden opgelost, zou de zaak naar de reder aan wal moeten worden verwezen, die een passende termijn zou moeten krijgen om de zaak op te lossen, in voorkomend geval in overleg met de betrokken zeevarenden of een persoon die zij kunnen aanwijzen als hun vertegenwoordiger; en  
 
-g. in alle gevallen zouden zeevarenden het recht moeten hebben hun klachten rechtstreeks bij de kapitein, de reder en de bevoegde autoriteiten in te dienen.      
+g. in alle gevallen zouden zeevarenden het recht moeten hebben hun klachten rechtstreeks bij de kapitein, de reder en de bevoegde autoriteiten in te dienen.     
 
 ### Voorschrift  5.1.6  
 
@@ -5126,13 +5126,13 @@ g. in alle gevallen zouden zeevarenden het recht moeten hebben hun klachten rech
 (Geen bepalingen) 
 ###Leidraad B5.1.6 – Scheepvaartongevallen
 
-(Geen bepalingen)  
+(Geen bepalingen) 
 
 ### Voorschrift  5.2  
 
 ####– Verantwoordelijkheden van de havenstaat
 
-Doel: Elk Lid in staat stellen zijn verantwoordelijkheden ingevolge dit Verdrag met betrekking tot internationale samenwerking bij de uitvoering en handhaving van de verdragsnormen op buitenlandse schepen na te komen  
+Doel: Elk Lid in staat stellen zijn verantwoordelijkheden ingevolge dit Verdrag met betrekking tot internationale samenwerking bij de uitvoering en handhaving van de verdragsnormen op buitenlandse schepen na te komen 
 
 ### Voorschrift  5.2.1  
 
@@ -5182,7 +5182,7 @@ b. de tekortkoming een ernstige of herhaalde inbreuk vormt op de vereisten van d
 
 2. Bij de ontwikkeling van een richtlijn met betrekking tot de omstandigheden die aanhouding van het schip ingevolge het zesde lid van norm A5.2.1 rechtvaardigen, zou de bevoegde autoriteit in overweging moeten nemen dat, ten aanzien van de inbreuken bedoeld in het zesde lid, onderdeel b, van norm A5.2.1, de ernst gelegen kan zijn in de aard van de desbetreffende tekortkoming. Dit zou in het bijzonder relevant zijn in het geval van schending van fundamentele rechten en beginselen op het gebied van arbeids- en sociale rechten van zeevarenden ingevolge de artikelen III en IV. De tewerkstelling van te jonge personen zou bijvoorbeeld moeten worden aangemerkt als een zwaarwichtige schending, zelfs als zich maar één dergelijke persoon aan boord bevindt. In andere gevallen zou moeten worden gelet op het aantal verschillende tekortkomingen dat gedurende een bepaalde inspectie wordt aangetroffen; zo zouden er bijvoorbeeld meerdere gevallen van tekortkomingen met betrekking tot accommodatie of voeding en catering die de veiligheid of gezondheid niet bedreigen, kunnen zijn voordat deze zouden kunnen worden aangemerkt als een zwaarwegende inbreuk.  
 
-3. Leden zouden zo veel als mogelijk met elkaar moeten samenwerken bij het aannemen van internationaal overeengekomen leidraden inzake inspectiebeleid, in het bijzonder met betrekking tot de omstandigheden die het aanhouden van een schip rechtvaardigen.    
+3. Leden zouden zo veel als mogelijk met elkaar moeten samenwerken bij het aannemen van internationaal overeengekomen leidraden inzake inspectiebeleid, in het bijzonder met betrekking tot de omstandigheden die het aanhouden van een schip rechtvaardigen.   
 
 ### Voorschrift  5.2.2  
 
@@ -5214,7 +5214,7 @@ b. de tekortkoming een ernstige of herhaalde inbreuk vormt op de vereisten van d
 
 4. Bij elk onderzoek naar een klacht zou de bevoegde functionaris de kapitein, de reder en eventuele andere bij de klacht betrokken personen naar behoren in de gelegenheid moeten stellen hun standpunt bekend te maken.  
 
-5. In het geval dat de vlaggenstaat, in antwoord op de kennisgeving door de havenstaat in overeenstemming met het vijfde lid van norm A5.2.2, aangeeft dat zij de zaak ter hand neemt, en zij hiertoe over doeltreffende procedures beschikt en een aanvaardbaar actieplan heeft ingediend, kan de bevoegde functionaris afzien van verdere bemoeienis met de klacht.    
+5. In het geval dat de vlaggenstaat, in antwoord op de kennisgeving door de havenstaat in overeenstemming met het vijfde lid van norm A5.2.2, aangeeft dat zij de zaak ter hand neemt, en zij hiertoe over doeltreffende procedures beschikt en een aanvaardbaar actieplan heeft ingediend, kan de bevoegde functionaris afzien van verdere bemoeienis met de klacht.   
 
 ### Voorschrift  5.3  
 
@@ -5234,257 +5234,257 @@ Doel: Verzekeren dat elk Lid zijn verantwoordelijkheden ingevolge dit Verdrag me
 1. Elk Lid handhaaft de vereisten van dit Verdrag die van toepassing zijn op de exploitatie en praktijk van de op zijn grondgebied gevestigde wervings- en arbeidsbemiddelingsdiensten voor zeevarenden via een systeem van inspectie en monitoring en gerechtelijke procedures voor inbreuken op vergunningen en andere in norm A1.4 bedoelde exploitatievereisten.   
 ###Leidraad B5.3 – Verantwoordelijkheden betreffende arbeidsaanbod
 
-1. Op het grondgebied van het Lid gevestigde private wervings- en arbeidsbemiddelingsdiensten voor zeevarenden die bemiddelen bij de plaatsing van zeevarenden bij reders, ongeacht waar deze zijn gevestigd, zouden moeten worden verplicht te garanderen dat reders de voorwaarden van de met de zeevarenden gesloten arbeidsovereenkomst naar behoren nakomen.    
+1. Op het grondgebied van het Lid gevestigde private wervings- en arbeidsbemiddelingsdiensten voor zeevarenden die bemiddelen bij de plaatsing van zeevarenden bij reders, ongeacht waar deze zijn gevestigd, zouden moeten worden verplicht te garanderen dat reders de voorwaarden van de met de zeevarenden gesloten arbeidsovereenkomst naar behoren nakomen.   
 
 ### Aanhangsel  A5-I  
 
 De arbeids- en leefomstandigheden van zeevarenden die door de vlaggenstaat moeten worden geïnspecteerd en goedgekeurd voordat een schip in overeenstemming met het eerste lid van norm A5.1.3 kan worden gecertificeerd, zijn: 
 
-Minimumleeftijd  
+Minimumleeftijd
 
-Geneeskundige verklaring  
+Geneeskundige verklaring
 
-Kwalificaties van zeevarenden  
+Kwalificaties van zeevarenden
 
-Arbeidsovereenkomsten voor zeevarenden  
+Arbeidsovereenkomsten voor zeevarenden
 
-Gebruikmaking van een officiële, gecertificeerde of gereguleerde private wervings- en arbeidsbemiddelingsdienst  
+Gebruikmaking van een officiële, gecertificeerde of gereguleerde private wervings- en arbeidsbemiddelingsdienst
 
-Arbeids- en rusttijden  
+Arbeids- en rusttijden
 
-Bemanningssamenstelling van het schip  
+Bemanningssamenstelling van het schip
 
-Accommodatie  
+Accommodatie
 
-Recreatievoorzieningen aan boord  
+Recreatievoorzieningen aan boord
 
-Voeding en catering  
+Voeding en catering
 
-Gezondheid en veiligheid en ongevallenpreventie  
+Gezondheid en veiligheid en ongevallenpreventie
 
-Medische zorg aan boord  
+Medische zorg aan boord
 
-Klachtenprocedures aan boord  
+Klachtenprocedures aan boord
 
-Betaling van lonen     
+Betaling van lonen   
 
 ### Aanhangsel  A5-II  
 
 ####Certificaat maritieme arbeid
 
-*(Opmerking: bij dit certificaat moet een verklaring naleving maritieme arbeid worden gevoegd)*  Afgegeven ingevolge de bepalingen van artikel V en titel 5 van het Maritiem arbeidsverdrag, 2006 (hieronder te noemen “het Verdrag ”) onder het gezag van de Regeling van: ....................................................................... (volledige naam van de Staat waarvan het schip gerechtigd is de vlag te voeren) door ................................... (volledige naam- en adresgegevens van de bevoegde autoriteit of erkende organisatie die naar behoren is gemachtigd krachtens de bepalingen van het Verdrag) 
+*(Opmerking: bij dit certificaat moet een verklaring naleving maritieme arbeid worden gevoegd)*Afgegeven ingevolge de bepalingen van artikel V en titel 5 van het Maritiem arbeidsverdrag, 2006(hieronder te noemen “het Verdrag”) onder het gezag van de Regeling van:.......................................................................(volledige naam van de Staat waarvan het schip gerechtigd is de vlag te voeren)door ...................................(volledige naam- en adresgegevens van de bevoegde autoriteit of erkende organisatie die naar behoren is gemachtigd krachtens de bepalingen van het Verdrag)
 ###Gegevens van het schip
 
-Naam van het schip ........................ Onderscheidingsnummer of -letters .................................. Thuishaven .......................................... Datum van registratie .............................................. Brutotonnage (GT) .............................................. <sup> 1  Voor schepen waarop de door de IMO aangenomen voorlopige regeling voor tonnagemetingen van toepassing is, is de brutotonnage hetgeen is opgenomen in de kolom OPMERKINGEN van het internationaal tonnagecertificaat (1969).  </sup> IMO-nummer .................................. Type schip ................................................................. Naam en adres van de reder ................................................................................................................................................................... <sup> 2  Onder *reder* wordt verstaan, de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overeestemming met dit Verdrag aan reders worden opgelegd, over te nemen ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervallen. Zie artikel II, eerste lid, onderdeel j, van het Verdrag.  </sup> Hierbij wordt verklaard: 
+Naam van het schip ........................Onderscheidingsnummer of -letters ..................................Thuishaven ..........................................Datum van registratie ..............................................Brutotonnage (GT) ..............................................<sup>1Voor schepen waarop de door de IMO aangenomen voorlopige regeling voor tonnagemetingen van toepassing is, is de brutotonnage hetgeen is opgenomen in de kolom OPMERKINGEN van het internationaal tonnagecertificaat (1969).</sup>IMO-nummer ..................................Type schip .................................................................Naam en adres van de reder<sup>2Onder *reder* wordt verstaan, de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overeestemming met dit Verdrag aan reders worden opgelegd, over te nemen ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervallen. Zie artikel II, eerste lid, onderdeel j, van het Verdrag.</sup> ...................................................................................................................................................................Hierbij wordt verklaard:
 
-1. Dat dit schip is geïnspecteerd en dat geverifieerd is of het voldoet aan de vereisten van het Verdrag, en de bepalingen van de bijgevoegde verklaring naleving maritieme arbeid.  
+1.Dat dit schip is geïnspecteerd en dat geverifieerd is of het voldoet aan de vereisten van het Verdrag, en de bepalingen van de bijgevoegde verklaring naleving maritieme arbeid.
 
-2. Dat de in Appendix A5-I van het Verdrag genoemde arbeids- en leefomstandigheden van de zeevarenden in overeenstomming zijn bevonden met de nationale vereisten van het land ter uitvoering van het Verdrag. Deze nationale vereisten zijn samengevat in de verklaring naleving maritieme arbeid, Deel I.   Dit certificaat is geldig tot ........................................ afhankelijk van inspecties in overeenstemming met de normen A5.1.3 en A5.1.4 van het Verdrag. Dit certificaat is uitsluitend geldig wanneer de verklaring naleving maritieme arbeid afgegeven te ....................................... op ................................. is bijgevoegd. Datum van afronding van de inspectie waarop dit certificaat gebaseerd is, was .................... Afgegeven te ............................................... op ............................... Handtekening van bevoegde ambtenaar die de verklaring afgeeft (Zegel of stempel van de autoriteit van afgifte, naargelang hetgeen van toepassing is) 
-###Visering voor verplichte tussentijde inspectie en, indien vereist, eventuele aanvullende inspectie
+2.Dat de in Appendix A5-I van het Verdrag genoemde arbeids- en leefomstandigheden van de zeevarenden in overeenstemming zijn bevonden met de nationale vereisten van het land ter uitvoering van het Verdrag. Deze nationale vereisten zijn samengevat in de verklaring naleving maritieme arbeid, Deel I.Dit certificaat is geldig tot ........................................ afhankelijk van inspecties in overeenstemming met de normen A5.1.3 en A5.1.4 van het Verdrag.Dit certificaat is uitsluitend geldig wanneer de verklaring naleving maritieme arbeid afgegeven te ....................................... op ................................. is bijgevoegd.Datum van afronding van de inspectie waarop dit certificaat gebaseerd is, was ....................Afgegeven te ............................................... op ............................... Handtekening van bevoegde ambtenaar die de verklaring afgeeft(Zegel of stempel van de autoriteit van afgifte, naargelang hetgeen van toepassing is)
+###Visering voor verplichte tussentijdse inspectie en, indien vereist, eventuele aanvullende inspectie
 
-Hierbij wordt verklaard dat het schip in overeenstemming met de normen A5.1.3 en A5.1.4 van het Verdrag is geïnspecteerd en dat de arbeids- en leefomstandigeheden van de zeevarenden bedoeld in Appendix A5-I van het Verdrag in overeenstemming zijn bevonden met de nationale vereisten van het bovengenoemde land ter uitvoering van het Verdrag.  
-
-| --- | --- |
-|:---|:---|
-|  *Tussentijdse inspectie:*   (in te vullen tussen de tweede en derde verjaardatum)  | Ondertekend door .............................................................  (handtekening van bevoegde ambtenaar) .............................................  |
-| --- | Plaats ......................................  |
-| --- | Datum ......................................  Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
-
-*Aanvullende goedkeuringen (indien vereist)*  Hierbij wordt verklaard dat op het schip een aanvullende inspectie is uitgevoerd teneinde te verifiëren of het schip nog steeds voldoet aan de nationale vereisten ter uitvoering van het Verdrag, als vereist in norm A3.1, derde lid, van het Verdrag (hernieuwde registratie of ingrijpende wijziging van de accommodatie) of om andere redenen.  
+Hierbij wordt verklaard dat het schip in overeenstemming met de normen A5.1.3 en A5.1.4 van het Verdrag is geïnspecteerd en dat de arbeids- en leefomstandigheden van de zeevarenden bedoeld in Appendix A5-I van het Verdrag in overeenstemming zijn bevonden met de nationale vereisten van het bovengenoemde land ter uitvoering van het Verdrag.
 
 | --- | --- |
 |:---|:---|
-|  *Aanvullende inspectie:*   (indien vereist) ...........................................................................  | Ondertekend door .........................................................  (handtekening van bevoegde ambtenaar)  |
-| --- | Plaats ...............................................  |
-| --- | Datum ...............................................  |
-| --- | (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
-|  *Aanvullende inspectie:*   (indien vereist) ...........................................................................  | Ondertekend door .........................................................  (handtekening van bevoegde ambtenaar)  |
-| --- | Plaats ...............................................  |
-| --- | Datum ...............................................  |
-| --- | (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
-|  *Aanvullende inspectie:*   (indien vereist) ...........................................................................  | Ondertekend door .........................................................  (handtekening van bevoegde ambtenaar)  |
-| --- | Plaats ...............................................  |
-| --- | Datum ...............................................  |
-| --- | (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
+|*Tussentijdse inspectie:* (in te vullen tussen de tweede en derde verjaardatum) |Ondertekend door .............................................................  (handtekening van bevoegde ambtenaar) ............................................. |
+| --- |Plaats ...................................... |
+| --- |Datum ...................................... Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
+
+*Aanvullende goedkeuringen (indien vereist)*Hierbij wordt verklaard dat op het schip een aanvullende inspectie is uitgevoerd teneinde te verifiëren of het schip nog steeds voldoet aan de nationale vereisten ter uitvoering van het Verdrag, als vereist in norm A3.1, derde lid, van het Verdrag (hernieuwde registratie of ingrijpende wijziging van de accommodatie) of om andere redenen.
+
+| --- | --- |
+|:---|:---|
+|*Aanvullende inspectie:* (indien vereist) ........................................................................... |Ondertekend door .........................................................  (handtekening van bevoegde ambtenaar) |
+| --- |Plaats ............................................... |
+| --- |Datum ............................................... |
+| --- |(Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
+|*Aanvullende inspectie:* (indien vereist) ........................................................................... |Ondertekend door .........................................................  (handtekening van bevoegde ambtenaar) |
+| --- |Plaats ............................................... |
+| --- |Datum ............................................... |
+| --- |(Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
+|*Aanvullende inspectie:* (indien vereist) ........................................................................... |Ondertekend door .........................................................  (handtekening van bevoegde ambtenaar) |
+| --- |Plaats ............................................... |
+| --- |Datum ............................................... |
+| --- |(Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
 
 ###Maritiem arbeidsverdrag, 2006
 
 ###Verklaring naleving maritieme arbeid – Deel I
 
-*(Opmerking: deze verklaring moet worden gevoegd bij het certificaat maritieme arbeid van het schip)*  Afgegeven onder het gezag van: ............................... (naam invullen van de bevoegde autoriteit als omschreven in artikel II, eerste lid, onderdeel a, van het Verdrag) Ten aanzien van de bepalingen van het Maritiem arbeidsverdrag, 2006, wordt het schip met de volgende referenties:  
+*(Opmerking: deze verklaring moet worden gevoegd bij het certificaat maritieme arbeid van het schip)*Afgegeven onder het gezag van: ............................... (naam invullen van de bevoegde autoriteit als omschreven in artikel II, eerste lid, onderdeel a, van het Verdrag)Ten aanzien van de bepalingen van het Maritiem arbeidsverdrag, 2006, wordt het schip met de volgende referenties:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Naam van het schip  | IMO-nummer  | Brutotonnage (GT)  |
+|Naam van het schip |IMO-nummer |Brutotonnage (GT) |
 | --- | --- | --- |
 
-in stand gehouden in overeenstemming met norm A5.1.3 van het Verdrag. Ondergetekende verklaart, namens de bovengenoemde bevoegde autoriteit, dat: 
+in stand gehouden in overeenstemming met norm A5.1.3 van het Verdrag.Ondergetekende verklaart, namens de bovengenoemde bevoegde autoriteit, dat:
 
-a. de bepalingen van het Maritiem arbeidsverdrag volledig zijn vervat in de nationale vereisten waarnaar hieronder wordt verwezen;  
+a.de bepalingen van het Maritiem arbeidsverdrag volledig zijn vervat in de nationale vereisten waarnaar hieronder wordt verwezen;
 
-b. deze nationale vereisten zijn vervat in de nationale bepalingen waarnaar hieronder wordt verwezen; waar nodig wordt uitleg gegeven met betrekking tot de inhoud van die bepalingen;  
+b.deze nationale vereisten zijn vervat in de nationale bepalingen waarnaar hieronder wordt verwezen; waar nodig wordt uitleg gegeven met betrekking tot de inhoud van die bepalingen;
 
-c. de details van eventuele wezenlijk gelijkwaardige bepalingen ingevolge artikel VI, derde en vierde lid, staan vermeld <in de hieronder genoemde desbetreffende nationale vereisten><in de voor dit doel hieronder voorziene afdeling> (*doorhalen wat niet van toepassing is)*;  
+c.de details van eventuele wezenlijk gelijkwaardige bepalingen ingevolge artikel VI, derde en vierde lid, staan vermeld <in de hieronder genoemde desbetreffende nationale vereisten><in de voor dit doel hieronder voorziene afdeling> (*doorhalen wat niet van toepassing is)*;
 
-d. eventuele door de bevoegde autoriteit in overeenstemming met titel 3 verleende uitzonderingen duidelijk zijn aangegeven in de voor dat doel hieronder voorziene afdeling; en  
+d.eventuele door de bevoegde autoriteit in overeenstemming met titel 3 verleende uitzonderingen duidelijk zijn aangegeven in de voor dat doel hieronder voorziene afdeling; en
 
-e. naar eventuele in de nationale wetgeving aan het schaapstype verbonden vereisten eveneens in de desbetreffende vereisten wordt verwezen.   
+e.naar eventuele in de nationale wetgeving aan het schaapstype verbonden vereisten eveneens in de desbetreffende vereisten wordt verwezen.
 
-1. Minimumleeftijd (voorschrift 1.1)  
+1.Minimumleeftijd (voorschrift 1.1)
 
-2. Geneeskundige verklaring (voorschrift 1.2)  
+2.Geneeskundige verklaring (voorschrift 1.2)
 
-3. Kwalificaties van zeevarenden (voorschrift 1.3)  
+3.Kwalificaties van zeevarenden (voorschrift 1.3)
 
-4. Arbeidsovereenkomsten voor zeevarenden (voorschrift 2.1)  
+4.Arbeidsovereenkomsten voor zeevarenden (voorschrift 2.1)
 
-5. Gebruikmaking van een officiële, gecertificeerde of gereguleerde private wervings- en arbeidsbemiddelingsdienst (voorschrift 1.4)  
+5.Gebruikmaking van een officiële, gecertificeerde of gereguleerde private wervings- en arbeidsbemiddelingsdienst (voorschrift 1.4)
 
-6. Arbeids- en rusttijden (voorschrift 2.3)  
+6.Arbeids- en rusttijden (voorschrift 2.3)
 
-7. Bemanningssamenstelling van het schip (voorschrift 2.7)  
+7.Bemanningssamenstelling van het schip (voorschrift 2.7)
 
-8. Accommodatie (voorschrift 3.1)  
+8.Accommodatie (voorschrift 3.1)
 
-9. Recreatievoorzieningen aan boord (voorschrift 3.1)  
+9.Recreatievoorzieningen aan boord (voorschrift 3.1)
 
-10. Voeding en catering (voorschrift 3.2)  
+10.Voeding en catering (voorschrift 3.2)
 
-11. Gezondheid en veiligheid en ongevallenpreventie (voorschrift 4.3)  
+11.Gezondheid en veiligheid en ongevallenpreventie (voorschrift 4.3)
 
-12. Medische zorg aan boord (voorschrift 4.1)  
+12.Medische zorg aan boord (voorschrift 4.1)
 
-13. Klachtenprocedures aan boord (voorschrift 5.1.5)  
+13.Klachtenprocedures aan boord (voorschrift 5.1.5)
 
-14. Betaling van lonen (voorschrift 2.2)    
+14.Betaling van lonen (voorschrift 2.2)
 
 | --- | --- |
 |:---|:---|
-| --- | Naam: .........................................  |
-| Titel: ............................................  |
-| Handtekening: ..............................  |
-| Plaats: ........................................  |
-| Datum: .........................................  |
-| (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
+| --- |Naam: ......................................... |
+|Titel: ............................................ |
+|Handtekening: .............................. |
+|Plaats: ........................................ |
+|Datum: ......................................... |
+|(Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
 
 ###Wezenlijk gelijkwaardige bepalingen
 
-*(Opmerking: Doorhalen wat niet van toepassing is)*  De volgende wezenlijk gelijkwaardige bepalingen, als voorzien in artikel VI, derde en vierde lid, van het Verdrag worden, tenzij hierboven aangegeven, vermeld *(indien van toepassing beschrijving toevoegen)*: ..................................................................................................................................................................................................... Er is geen gelijkwaardigheid verleend.  
+*(Opmerking: Doorhalen wat niet van toepassing is)*De volgende wezenlijk gelijkwaardige bepalingen, als voorzien in artikel VI, derde en vierde lid, van het Verdrag worden, tenzij hierboven aangegeven, vermeld *(indien van toepassing beschrijving toevoegen)*:.....................................................................................................................................................................................................Er is geen gelijkwaardigheid verleend.
 
 | --- | --- |
 |:---|:---|
-| --- | Naam: .........................................  |
-| Titel: ............................................  |
-| Handtekening: ..............................  |
-| Plaats: ........................................  |
-| Datum: .........................................  |
-| (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
+| --- |Naam: ......................................... |
+|Titel: ............................................ |
+|Handtekening: .............................. |
+|Plaats: ........................................ |
+|Datum: ......................................... |
+|(Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
 
 ###Uitzonderingen
 
-*(Opmerking: Doorhalen wat niet van toepassing is)*  De volgende uitzonderingen, toegekend door de bevoegde autoriteit als voorzien in titel 3 van het Verdrag, worden vermeld: ..................................................................................................................................................................................................... Er is geen uitzondering verleend.  
+*(Opmerking: Doorhalen wat niet van toepassing is)*De volgende uitzonderingen, toegekend door de bevoegde autoriteit als voorzien in titel 3 van het Verdrag, worden vermeld:.....................................................................................................................................................................................................Er is geen uitzondering verleend.
 
 | --- | --- |
 |:---|:---|
-| --- | Naam: .........................................  |
-| Titel: ............................................  |
-| Handtekening: ..............................  |
-| Plaats: ........................................  |
-| Datum: .........................................  |
-| (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
+| --- |Naam: ......................................... |
+|Titel: ............................................ |
+|Handtekening: .............................. |
+|Plaats: ........................................ |
+|Datum: ......................................... |
+|(Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
 
 ###Verklaring naleving maritieme arbeid – Deel II
 
-*Maatregelen ter waarborging van voortdurende naleving tussen inspectiebeurten in*  De volgende maatregelen zijn opgesteld door de reder, genoemd in het certificaat maritieme arbeid waarbij deze verklaring is gevoegd, ter waarborging van voortdurende naleving tussen inspectiebeurten in:  *(Vermeld hieronder de maatregelen die zijn opgesteld om de naleving van elk van de in Deel I genoemde punten te waarborgen)*    ![10000056732](http://wetten.overheid.nl/Illustration/10000056732)
-ik verklaar hierbij dat de bovenstaande maatregelen zijn opgesteld ter waarborging van voortdurende naleving tussen inspectiebeurten in, met de vereisten opgenomen in Deel I.  
+*Maatregelen ter waarborging van voortdurende naleving tussen inspectiebeurten in*De volgende maatregelen zijn opgesteld door de reder, genoemd in het certificaat maritieme arbeid waarbij deze verklaring is gevoegd, ter waarborging van voortdurende naleving tussen inspectiebeurten in:*(Vermeld hieronder de maatregelen die zijn opgesteld om de naleving van elk van de in Deel I genoemde punten te waarborgen)*![10000056732](http://wetten.overheid.nl/Illustration/10000056732)
+ik verklaar hierbij dat de bovenstaande maatregelen zijn opgesteld ter waarborging van voortdurende naleving tussen inspectiebeurten in, met de vereisten opgenomen in Deel I.
 
 | --- | --- |
 |:---|:---|
-| --- | Naam van de reder <sup>1</sup>.............................................................................  |
-| Bedrijfsadres .......................................................................................  |
-| Naam van de bevoegde ondertekenaar ..........................................................................................................  |
-| Titel ...........................................................................  |
-| Handtekening van de bevoegde ondertekenaar ................................................................................................................  |
-| Datum ....................................................................................... (Stempel of zegel van de reder <sup>1</sup>)  |
+| --- |Naam van de reder<sup>1</sup> ............................................................................. |
+|Bedrijfsadres ....................................................................................... |
+|Naam van de bevoegde ondertekenaar .......................................................................................................... |
+|Titel ........................................................................... |
+|Handtekening van de bevoegde ondertekenaar ................................................................................................................ |
+|Datum ....................................................................................... (Stempel of zegel van de reder<sup>1</sup>) |
 
-<sup>1</sup> Onder *reder* wordt verstaan, de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overeenstemming met dit Verdrag aan reders worden opgelegd, over te nemen ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervullen. Zie artikel II, eerste lid, onderdeel j, van het Verdrag. De bovenstaande maatregelen zijn nagelopen door *(naam toevoegen van bevoegde autoriteit of naar behoren erkende organisatie)* en zijn, na inspectie van het schip, bepaald te voldoen aan het doel zoals uiteengezet in norm A5.1.3, tiende lid, onderdeel b, aangaande maatregelen ter waarborging van eerste en voortdurende naleving van de vereisten zoals uiteengezet in Deel I van deze verklaring.  
+<sup>1</sup> Onder *reder* wordt verstaan, de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overeenstemming met dit Verdrag aan reders worden opgelegd, over te nemen ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervullen. Zie artikel II, eerste lid, onderdeel j, van het Verdrag.De bovenstaande maatregelen zijn nagelopen door *(naam toevoegen van bevoegde autoriteit of naar behoren erkende organisatie)* en zijn, na inspectie van het schip, bepaald te voldoen aan het doel zoals uiteengezet in norm A5.1.3, tiende lid, onderdeel b, aangaande maatregelen ter waarborging van eerste en voortdurende naleving van de vereisten zoals uiteengezet in Deel I van deze verklaring.
 
 | --- | --- |
 |:---|:---|
-| --- | Naam: .............................................................................  |
-| Titel: .......................................................................................  |
-| Adres ................................................................................................................................  |
-| Handtekening: ...........................................................................  |
-| Plaats: ................................................................................................................  |
-| Datum ....................................................................................... (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is)  |
+| --- |Naam: ............................................................................. |
+|Titel: ....................................................................................... |
+|Adres ................................................................................................................................ |
+|Handtekening: ........................................................................... |
+|Plaats: ................................................................................................................ |
+|Datum ....................................................................................... (Zegel of stempel van de autoriteit, naargelang hetgeen van toepassing is) |
 
 ###Tussentijds certificaat maritieme arbeid
 
-Afgegeven ingevolge de bepalingen van artikel V en titel 5 van het Maritiem arbeidsverdrag, 2006 (hieronder te noemen “het verdrag ”) onder het gezag van de Regering van: .................................................... (volledige naam van de Staat waarvan het schip gerechtigd is de vlag te voeren) door ................................................................. (volledige naam- en adresgegevens van de bevoegde autoriteit of erkende organisatie die naar behoren is gemachtigd krachtens de bepalingen van het Verdrag) 
+Afgegeven ingevolge de bepalingen van artikel V en titel 5 van het Maritiem arbeidsverdrag, 2006 (hieronder te noemen “het verdrag”) onder het gezag van de Regering van:....................................................(volledige naam van de Staat waarvan het schip gerechtigd is de vlag te voeren)door .................................................................(volledige naam- en adresgegevens van de bevoegde autoriteit of erkende organisatie die naar behoren is gemachtigd krachtens de bepalingen van het Verdrag)
 ###Gegevens van het schip
 
-Naam van het schip ................................................................. Onderscheidingsnummer of -letters ........................................... Thuishaven .............................................................................. Datum van registratie................................................................ Brutotonnage (GT) ................................................................... <sup>1</sup> IMO-nummer ........................................................................... Type schip .............................................................................. Naam en adres van de reder <sup>2</sup>............................................................................................................................. <sup>1</sup> Voor schepen waarop de door de IMO aangenomen voorlopige regeling voor tonnagemetingen van toepasing is, is de brutotonnage hetgeen is opgenomen in de kolom OPMERKINGEN van het internationaal tonnagecertificaat (1969). <sup>2</sup> Onder *reder* wordt verstaan, de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overstemming met dit Verdrag aan reders worden opgelegd, over te nemen ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervullen. Zie artikel II, eerste lid, onderdeel j, van het Verdrag. Hierbij wordt verklaard, voor het doel van norm A5.1.3, zevende lid, van het Verdrag: 
+Naam van het schip .................................................................Onderscheidingsnummer of -letters ...........................................Thuishaven ..............................................................................Datum van registratie................................................................Brutotonnage (GT) ...................................................................<sup>1</sup>IMO-nummer ...........................................................................Type schip ..............................................................................Naam en adres van de reder<sup>2</sup> .............................................................................................................................<sup>1</sup> Voor schepen waarop de door de IMO aangenomen voorlopige regeling voor tonnagemetingen van toepassing is, is de brutotonnage hetgeen is opgenomen in de kolom OPMERKINGEN van het internationaal tonnagecertificaat (1969).<sup>2</sup> Onder *reder* wordt verstaan, de eigenaar van het schip of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de voor de exploitatie van het schip van de eigenaar heeft overgenomen en die, bij het aangaan van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overstemming met dit Verdrag aan reders worden opgelegd, over te nemen ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de reder vervullen. Zie artikel II, eerste lid, onderdeel j, van het Verdrag.Hierbij wordt verklaard, voor het doel van norm A5.1.3, zevende lid, van het Verdrag:
 
-a. Dat dit schip is geïnspecteerd, voor zover als redelijk en mogelijk is, voor de zaken opgenomen in Appendix A5-I van het Verdrag, met inachtneming van verificatie van de punten onder b, c en d hieronder.  
+a.Dat dit schip is geïnspecteerd, voor zover als redelijk en mogelijk is, voor de zaken opgenomen in Appendix A5-I van het Verdrag, met inachtneming van verificatie van de punten onder b, c en d hieronder.
 
-b. Dat de reder de bevoegde autoriteit of erkende organisatie heeft getoond dat het schip over geschikte procedures beschikt om aan het Verdrag te voldoen.  
+b.Dat de reder de bevoegde autoriteit of erkende organisatie heeft getoond dat het schip over geschikte procedures beschikt om aan het Verdrag te voldoen.
 
-c. Dat de kapitein bekend is met de vereisten van het Verdrag en de verantwoordelijkheden voor uitvoering en  
+c.Dat de kapitein bekend is met de vereisten van het Verdrag en de verantwoordelijkheden voor uitvoering en
 
-d. Dat relevantie informatie aan de bevoegde autoriteit of erkende organisatie is overlegd om een verklaring naleving maritieme arbeid af te geven.   Dit certificaat is geldig tot ............................... afhankelijk van inspectie in overeenstemming met de normen A5.1.3 en A5.1.4. Datum van afronding van de inspectie waarnaar onder a verwezen wordt, was ................. Afgegeven te ..................................... op ................................ Handtekening van de naar behoren bevoegde ambtenaar die het tussentijds certificaat afgeeft .................................................................................................................... (Zegel of stempel van de autoriteit van afgifte, naargelang hetgeen van toepassing is)   
+d.Dat relevantie informatie aan de bevoegde autoriteit of erkende organisatie is overlegd om een verklaring naleving maritieme arbeid af te geven.Dit certificaat is geldig tot ............................... afhankelijk van inspectie in overeenstemming met de normen A5.1.3 en A5.1.4.Datum van afronding van de inspectie waarnaar onder a verwezen wordt, was .................Afgegeven te ..................................... op ................................Handtekening van de naar behoren bevoegde ambtenaar die het tussentijds certificaat afgeeft ....................................................................................................................(Zegel of stempel van de autoriteit van afgifte, naargelang hetgeen van toepassing is)
 
 ### Aanhangsel  A5-III  
 
-Algemene gebieden die door een bevoegde ambtenaar uitgebreid moeten worden geïnspecteerd in een haven van een Lid dat een haven inspectie van de Staat uitvoert ingevolge norm A5.2.1: 
+Algemene gebieden die door een bevoegde ambtenaar uitgebreid moeten worden geïnspecteerd in een haven van een Lid dat een haven inspectie van de Staat uitvoert ingevolge norm A5.2.1:
 
-Minimumleeftijd  
+Minimumleeftijd
 
-Geneeskundige verklaring  
+Geneeskundige verklaring
 
-Kwalificaties van zeevarenden  
+Kwalificaties van zeevarenden
 
-Arbeidsovereenkomsten voor zeevarenden  
+Arbeidsovereenkomsten voor zeevarenden
 
-Gebruikmaking van een officiële, gecertificeerde of gereguleerde private wervings- en arbeidsbemiddelingsdienst  
+Gebruikmaking van een officiële, gecertificeerde of gereguleerde private wervings- en arbeidsbemiddelingsdienst
 
-Arbeids- en rusttijden  
+Arbeids- en rusttijden
 
-Bemanningssamenstelling van het schip  
+Bemanningssamenstelling van het schip
 
-Accommodatie  
+Accommodatie
 
-Recreatievoorzieningen aan boord  
+Recreatievoorzieningen aan boord
 
-Voeding en catering  
+Voeding en catering
 
-Gezondheid en veiligheid en ongevallenpreventie  
+Gezondheid en veiligheid en ongevallenpreventie
 
-Medische zorg aan boord  
+Medische zorg aan boord
 
-Klachtenprocedures aan boord  
+Klachtenprocedures aan boord
 
-Betaling van lonen     
+Betaling van lonen
 
 ### Aanhangsel  B5-I  
 
 ####– Voorbeeld van een nationale verklaring
 
-Zie leidraad B5.1.3, vijfde lid  Maritiem arbeidsverdrag, 2006  
+Zie leidraad B5.1.3, vijfde lidMaritiem arbeidsverdrag, 2006
 ###Verklaring naleving maritieme arbeid – Deel I
 
-*Opmerking: deze Verklaring moet worden gevoegd bij het certificaatmaritieme arbeid van het schip*  Afgegeven onder het gezag van: het Ministerie van Maritiem Transport van XXXXXXXXXX Ten aanzien van de bepalingen van het Maritieme arbeidsverdrag, 2006, wordt het schip met de volgende referenties:  
+*Opmerking: deze Verklaring moet worden gevoegd bij het certificaatmaritieme arbeid van het schip*Afgegeven onder het gezag van: het Ministerie van Maritiem Transport van XXXXXXXXXXTen aanzien van de bepalingen van het Maritieme arbeidsverdrag, 2006, wordt het schip met de volgende referenties:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| Naam van het schip  | IMO-nummer  | Brutotonnage (GT)  |
-| M.S. Voorbeeld  | 12345  | 1000  |
+|Naam van het schip |IMO-nummer |Brutotonnage (GT) |
+|M.S. Voorbeeld |12345 |1000 |
 
-in stand gehouden in overeenstemming met norm A5.1.3 van het Verdrag. Ondergetekende verklaart, namens de bovengenoemde bevoegde autoriteit, dat:   ![10000056734](http://wetten.overheid.nl/Illustration/10000056734)
+in stand gehouden in overeenstemming met norm A5.1.3 van het Verdrag.Ondergetekende verklaart, namens de bovengenoemde bevoegde autoriteit, dat:![10000056734](http://wetten.overheid.nl/Illustration/10000056734)
 ![10000056737](http://wetten.overheid.nl/Illustration/10000056737)
 
 ###Verklaring naleving maritieme arbeid – Deel II
 
-*Maatregelen ter waarborging van voortdurende naleving tussen inspectiebeurten in*  De volgende maatregelen zijn opgesteld door de reder, genoemd in het certificaat maritieme arbeid waarbij deze verklaring is gevoegd, ter waarborging van voortdurende naleving tussen inspectiebeurten in:  *(Vermeld hieronder de maatregelen die zijn opgesteld om de naleving van elk van de in Deel I genoemde puinten te waarborgen)*    ![10000056741](http://wetten.overheid.nl/Illustration/10000056741)
-De voorgaande tekst is de authentieke tekst van het Verdrag naar behoren aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie tijdens haar vierennegentigste zitting, welke werd gehouden te Genève en voor gesloten werd verklaard op de drieëntwintigste februari 2006.   
+*Maatregelen ter waarborging van voortdurende naleving tussen inspectiebeurten in*De volgende maatregelen zijn opgesteld door de reder, genoemd in het certificaat maritieme arbeid waarbij deze verklaring is gevoegd, ter waarborging van voortdurende naleving tussen inspectiebeurten in:*(Vermeld hieronder de maatregelen die zijn opgesteld om de naleving van elk van de in Deel I genoemde punten te waarborgen)*![10000056741](http://wetten.overheid.nl/Illustration/10000056741)
+De voorgaande tekst is de authentieke tekst van het Verdrag naar behoren aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie tijdens haar vierennegentigste zitting, welke werd gehouden te Genève en voor gesloten werd verklaard op de drieëntwintigste februari 2006.
 TEN BLIJKE WAARVAN wij onze handtekening hebben geplaatst op de drieëntwintigste februari 2006.  
 

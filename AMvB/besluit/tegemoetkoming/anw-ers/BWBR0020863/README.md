@@ -17,52 +17,52 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsomschrijving
 
-Voor de toepassing van dit besluit wordt verstaan onder tegemoetkoming: de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
+Voor de toepassing van dit besluit wordt verstaan onder tegemoetkoming: de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). 
 
 ### Artikel  2  
 
 ####Hoogte tegemoetkoming
 
-1.  De tegemoetkoming bedraagt € 15,61 per 1 januari 2013: € 16,23 per maand.   
+1.  De tegemoetkoming bedraagt € 15,61 per 1 januari 2014: € 16,50 per maand.   
 2.  Dit bedrag wordt jaarlijks aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
-3.  Van het aangepaste bedrag en de dag waarop deze aanpassing plaatsvindt, wordt door Onze Minister van Sociale Zaken en Werkgelegenheid mededeling gedaan in de Staatscourant.   
+3.  Van het aangepaste bedrag en de dag waarop deze aanpassing plaatsvindt, wordt door Onze Minister van Sociale Zaken en Werkgelegenheid mededeling gedaan in de Staatscourant.  
 
 ### Artikel  3  
 
 ####Betaling tegemoetkoming
 
-De betaling van de tegemoetkoming geschiedt maandelijks tezamen met de betaling van de nabestaandenuitkering, de halfwezenuitkering en de wezenuitkering.  
+De betaling van de tegemoetkoming geschiedt maandelijks tezamen met de betaling van de nabestaandenuitkering en de wezenuitkering. 
 
 ### Artikel  4  
 
 ####Wijziging van het [Besluit voorzieningen Remigratiewet](../../../../../AMvB/besluit/voorzieningen/remigratiewet/BWBR0010773/README.md)
 
-Wijzigt het Besluit voorzieningen Remigratiewet.   
+Wijzigt het Besluit voorzieningen Remigratiewet. 
 
 ### Artikel  5  
 
 ####Wijziging van het [Besluit tegemoetkoming AOW-ers](../../../../../AMvB/besluit/tegemoetkoming/aow-ers/BWBR0019386/README.md)
 
-Wijzigt het Besluit tegemoetkoming AOW-ers.   
+Wijzigt het Besluit tegemoetkoming AOW-ers. 
 
 ### Artikel  6  
 
 ####Overgangsbepaling
 
-De artikelen 2, eerste lid, en 5, onderdeel 1, vinden eerst toepassing nadat artikel 2, tweede lid, en [artikel 2, tweede lid, van het Besluit tegemoetkoming AOW-ers](../../../../../AMvB/besluit/tegemoetkoming/aow-ers/BWBR0019386/README.md) bij het begin van het kalenderjaar 2007 zijn toegepast.  
+De artikelen 2, eerste lid, en 5, onderdeel 1, vinden eerst toepassing nadat artikel 2, tweede lid, en [artikel 2, tweede lid, van het Besluit tegemoetkoming AOW-ers](../../../../../AMvB/besluit/tegemoetkoming/aow-ers/BWBR0019386/README.md) bij het begin van het kalenderjaar 2007 zijn toegepast. 
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
 1.  Indien het bij koninklijke boodschap van 21 augustus 2006 ingediende voorstel van wet houdende wijziging van de Algemene nabestaandenwet en enige andere wetten in verband met de verlening van een tegemoetkoming aan personen die een uitkering ontvangen op grond van de [Algemene nabestaandenwet](../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) nadat het tot wet is verheven, in werking treedt, treedt dit besluit, met uitzondering van artikel 5, in werking op hetzelfde tijdstip; indien het Staatsblad waarin die wet wordt geplaatst, wordt uitgegeven na 31 december 2006, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2007.   
-2.  Artikel 5 treedt in werking met ingang van 1 januari 2007.   
+2.  Artikel 5 treedt in werking met ingang van 1 januari 2007.  
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit tegemoetkoming Anw-ers.  
+Dit besluit wordt aangehaald als: Besluit tegemoetkoming Anw-ers. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -71,9 +71,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid , 
-H. A. L. van Hoof   
+H. A. L. van  Hoof   
 
 de *achtentwintigste* december 2006 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    
