@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Veiligheid en Justitie van 21 september 2012, nr. 336449, tot vaststelling van de kostprijzen van Halt-modules voor de samenstelling van verschillende Halt-afdoeningen (Kostprijsregeling Halt 2013)
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelet op [artikel 48h, tweede lid, van de Wet Justitie-subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);
+Gelet op artikel 48h, tweede lid, van de Wet Justitie-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -12,16 +12,16 @@ Besluit:
 2.  Voor de hierna te noemen Halt-modules worden de kostprijzen als volgt vastgesteld:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| a.  | intake:  | €  | 53,71  |
-| b.  | startgesprek:  | €  | 111,47  |
-| c.  | leeropdracht:  | €  | 12,01  |
-| d.  | vervolggesprek:  | €  | 124,44  |
-| e.  | excuus aanbieden  | €  | 59,69  |
-| f.  | schadebemiddeling:  | €  | 124,56  |
-| g.  | werkopdracht:  | €  | 80,51  |
-| h.  | eindgesprek:  | €  | 96,03  |
-| i.  | afronding en evaluatie:  | €  | 16,61  |
+|---|---|---|---|
+| a.  | intake:  | €  | 50,01  |
+| b.  | startgesprek:  | €  | 133,01  |
+| c.  | leeropdracht:  | €  | 10,64  |
+| d.  | vervolggesprek:  | €  | 136,20  |
+| e.  | excuus aanbieden  | €  | 54,27  |
+| f.  | schadebemiddeling:  | €  | 111,73  |
+| g.  | werkopdracht:  | €  | 63,84  |
+| h.  | eindgesprek:  | €  | 107,47  |
+| i.  | afronding en evaluatie:  | €  | 21,28  |
 
 ### Artikel  2  
 
